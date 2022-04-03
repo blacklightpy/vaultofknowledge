@@ -1,0 +1,5 @@
+- Dark Academia
+   
+An aesthetic that is inspired by old and classic literature/philosophy, as well as themes of existentialism and death (essentially a knowledgeable, vintage emo). It revolves around a dark color scheme as the name implies, with hints of earthy tones as well, such as navy green, burgundy, cream, and brown/beige. This whole aesthetic is about looking like a wise-cracking, pretentious scholar, so you'd usually see one wearing plaid or suede dress pants, knitted turtlenecks, black belts, blazers, baggy overcoats, dress shoes/black heels, and pocket watches/gold vintage watches. You will occasionally find one lounging around in a used bookstore, reading old classics and writing poetry, or in a vintage coffee shop, ordering a black coffee or a green tea with no sugar.
+
+"Wow, look at her blazer. And those Oxford flats! She's totally emulating the Dark Academia aesthetic!"

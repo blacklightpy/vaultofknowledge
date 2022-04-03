@@ -1,0 +1,9 @@
+- Bionic - Google's C Library for Android
+- glibc - GNU C Library
+- libc - BSD C Library
+- musl libc
+- dietlibc
+- uClibc
+- Newlib
+- picolibc
+- klibc

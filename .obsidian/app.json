@@ -1,0 +1,12 @@
+{
+  "fileSortOrder": "byModifiedTimeReverse",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "images",
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true
+}

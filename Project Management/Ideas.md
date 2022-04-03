@@ -1,0 +1,19 @@
+* Could split some teams into [[Agile]], where it fits (eg: software)
+
+* Incorporate healthy workplace habits like:
+- 20-20-20 rule
+- Ergonomic screens and furniture
+- Pomodoro technique
+- Stretching exercises
+- Refreshment breaks
+- Follow procedure under stress
+
+According to TCGen's guide \[PDF Downloaded\]
+
+Old methodology:
+
+![[Old Project Methodology.png]]
+
+New methodology with Agile:
+
+![[New Project Methodology with Agile.png]]

@@ -1,0 +1,17 @@
+Creation begins with [[particles]].
+Particles are the smallest form of usable entities.
+All objects are created by assembling particles.
+As objects get more complex, we use previously created objects in their modelling to reduce complexity. This is called modularity.
+Modularity increases the energy required for building an object in some instances, because it is only an approximation of the required model, and not perfect. However, in the long run, it is better to use a modular design to save time in creation.
+Properties of objects are called physics.
+Properties of interactions between particles at the lowest level are called alchemy or chemistry.
+Creation comes from imagination and the representation of a dream is called art.
+The creation of an object from an idea is called craft.
+Objects have a definition and colour.
+Definition is the hard boundary of an object and colour is the essence of an object.
+Definitions of an object are described using mathematics.
+The colour of objects are described using design.
+Objects undergo decay over time due to ineractions with other particles.
+Systems that are taken care of timely avoid decay.
+Any system that protects itself from decay is termed as living, and the property of protecting itself from decay is known as life.
+The process of creation and destruction of particles is called nature.

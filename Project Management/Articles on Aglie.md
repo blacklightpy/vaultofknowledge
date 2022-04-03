@@ -1,0 +1,1 @@
+Modes of Leadership - http://www.transition2agile.com/2014/11/modes-of-leadership-in-agile.html

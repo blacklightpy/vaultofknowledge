@@ -1,0 +1,5 @@
+Grammar
+Phonetics
+Allegory
+Metaphor
+Similie
