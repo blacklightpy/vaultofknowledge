@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Build Systems.md",
+            "file": "Obsidian Settings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build Systems.md",
+                "file": "Obsidian Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,16 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "783a7f483c09dfcb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ee9ef35a5efe5778",
   "lastOpenFiles": [
+    "Obsidian Settings.md",
     "Build Systems.md",
     "To Fill.md",
     "Display Protocols.md",
@@ -97,7 +106,6 @@
     "Knowledge Management.md",
     "RPG Development.md",
     "Security.md",
-    "Intrusion Detection System.md",
-    "Communication Technologies.md"
+    "Intrusion Detection System.md"
   ]
 }
