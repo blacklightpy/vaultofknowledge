@@ -21,15 +21,14 @@ GNOME Boxes (uses KVM, QEMU, libvert, SPICE), Virt-manager (GUI for libvirt)
 
 Containers
 ----------------------------
-LXC (Linux Containers)
-LXD (Manager/Hypervison for Containers (LXC) and VMs (QEMU), Waydroid
+- LXC (Linux Containers)
+- LXD (Manager/Hypervison for Containers (LXC) and VMs (QEMU), Waydroid
 
-
-Docker, Podman, Kubernetes (was based on Docker, now uses containerd)
-Toolbox, buildah
+- Docker, Podman, Kubernetes (was based on Docker, now uses containerd), Openshift
+- Toolbox, buildah
 
 ### Container Runtimes
-runC, container-d, CRI-O
+runC, container-d, CRI-O, KCRI
 Sandboxes
 -----------
 Flatpaks, Snap, chroot, Systemd-nspawn, libvirt-sandbox

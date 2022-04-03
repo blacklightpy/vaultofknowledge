@@ -1,0 +1,3 @@
+RedHat Openstack
+Apache CloudStack
+OpenNebula
