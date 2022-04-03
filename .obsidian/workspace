@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Build Systems.md",
+            "file": "Containerization Tech.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build Systems.md",
+                "file": "Containerization Tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,14 +92,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "ee9ef35a5efe5778",
   "lastOpenFiles": [
-    "Build Systems.md",
-    "To Fill.md",
     "Containerization Tech.md",
+    "To Fill.md",
     "Obsidian Settings.md",
+    "Build Systems.md",
     "Display Protocols.md",
     "Mail Servers.md",
     "Knowledge Management.md",

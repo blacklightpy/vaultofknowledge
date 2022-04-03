@@ -23,10 +23,13 @@ Containers
 ----------------------------
 LXC (Linux Containers)
 LXD (Manager/Hypervison for Containers (LXC) and VMs (QEMU), Waydroid
-containerd
+
+
 Docker, Podman, Kubernetes (was based on Docker, now uses containerd)
 Toolbox, buildah
 
+### Container Runtimes
+runC, container-d, CRI-O
 Sandboxes
 -----------
 Flatpaks, Snap, chroot, Systemd-nspawn, libvirt-sandbox
