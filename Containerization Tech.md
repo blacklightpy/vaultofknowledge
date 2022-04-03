@@ -27,8 +27,10 @@ Containers
 - Docker, Podman, Kubernetes (was based on Docker, now uses containerd), Openshift
 - Toolbox, buildah
 
+** "Docker images" are actually OCI compatible images
 ### Container Runtimes
-runC, container-d, CRI-O, KCRI
+runC, container-d, CRI-O, Kubernetes CRI
+https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci/#cri-o
 Sandboxes
 -----------
 Flatpaks, Snap, chroot, Systemd-nspawn, libvirt-sandbox
