@@ -1,7 +1,6 @@
 # Build Script Generators
-GNU Autotools (./configure)
+GNU Autotools (./configure; make)
 Cmake - C Based (cmake, ccmake, cmake-gui)
-Cmake-ninja
 Meson - Python based
 Ant
 Bazel - Java based
