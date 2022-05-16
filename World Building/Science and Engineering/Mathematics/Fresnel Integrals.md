@@ -8,4 +8,4 @@ S(x) = I(sin(t^2)dt):0-x, C(x) = I(cos(t^2)dt):0-x
 
 The simultaneous parametric plot of S(x) and C(x) is the [[Euler Spiral]]
 
-[[Transcendal function]]
+[[Transcendal Function]]

@@ -5,7 +5,7 @@ eg: Railway tracks where the curve changes into a straight track
 
 Derived using [[Fresnel Integrals]]
 
-Usages
+### Usages
 [[Track Transition Curves]]
 Used in [[Optics]] to describe diffraction patterns
 Rollercoaster clothoids

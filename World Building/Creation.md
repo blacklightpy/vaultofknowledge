@@ -1,4 +1,4 @@
-Creation begins with [[particles]].
+Creation begins with [[Particles]].
 Particles are the smallest form of usable entities.
 All objects are created by assembling particles.
 As objects get more complex, we use previously created objects in their modelling to reduce complexity. This is called modularity.

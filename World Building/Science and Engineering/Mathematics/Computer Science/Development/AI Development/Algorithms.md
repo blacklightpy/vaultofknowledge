@@ -1,0 +1,12 @@
+**For Object Detection**
+- Fast R-CNN.
+- Faster R-CNN.
+- Histogram of Oriented Gradients (HOG) [[Algorithms Used by Google Search#^ffb7e9]]
+- Region-based Convolutional Neural Networks (R-CNN)
+- Region-based Fully Convolutional Network (R-FCN)
+- **Single Shot Detecter (SSD)**
+	- Has two components
+		- Backbone model (typically a network like ResNet/MobileNet trained on ImageNet from which the final fully connected classification layer has been removed)
+		- SSD head
+- Spatial Pyramid Pooling (SPP-net)
+- YOLO (You Only Look Once)

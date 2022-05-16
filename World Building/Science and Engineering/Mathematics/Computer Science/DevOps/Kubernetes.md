@@ -1,14 +1,14 @@
 Kubernetes/K8s are container orchestration systems.
 
 ### Architecture
-Software and Libs
-Containers
-Pods
-ReplicaSets
-Deployments
-Namespaces
-Kubernetes
-Servers
+- Software and Libs
+- Containers
+- Pods - The smallest deployable units that you can create and manage in Kubernetes
+- ReplicaSets
+- Deployments
+- Namespaces
+- Kubernetes
+- Servers
 
 ### Implementations:
 - Borg (Google)

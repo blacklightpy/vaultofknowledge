@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9ef35a5efe5778",
+        "id": "d14e35a3205aad5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Containerization Tech.md",
+            "file": "Hardware Design Languages.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "waf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Containerization Tech.md",
+                "file": "Hardware Design Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,14 +79,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "783a7f483c09dfcb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -95,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee9ef35a5efe5778",
+  "active": "d14e35a3205aad5b",
   "lastOpenFiles": [
-    "Containerization Tech.md",
-    "To Fill.md",
-    "Cloud Computing.md",
-    "Obsidian Settings.md",
-    "Build Systems.md",
-    "Display Protocols.md",
-    "Mail Servers.md",
-    "Knowledge Management.md",
-    "RPG Development.md",
-    "Security.md"
+    "Hardware Design Languages.md",
+    "Algorithms Used by Google Search.md",
+    "FPGA based IP Camera Design.md",
+    "Personal/Creative and Recreational/Cartography.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Popular Deep Learning Models/Overview of Top Deep Learning Models.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Comparison.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Learning Frameworks.md"
   ]
 }

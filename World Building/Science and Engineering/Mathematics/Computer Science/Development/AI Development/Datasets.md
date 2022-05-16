@@ -1,0 +1,3 @@
+- ImageNet - A large image database organized according to the WordNet heirarchy (only nouns)
+- WordNet - A large lexical database of English
+- Common Objects in Context (COCO)

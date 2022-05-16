@@ -44,3 +44,7 @@ Pterodactyl
 ## Linux
 
 ![[Pasted image 20220331153215.png]]
+
+### Communication Protocols
+- REST, MQTT
+- Req/Resp vs Pub/Sub
