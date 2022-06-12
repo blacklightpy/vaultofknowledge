@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camera Lenses.md",
+            "file": "Personal/Knowledge/Concepts.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "security",
+                "query": "concep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera Lenses.md",
+                "file": "Personal/Knowledge/Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +84,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "Personal/Knowledge/Concepts.md",
+    "Untitled.md",
     "Camera Lenses.md",
     "RTK.md",
     "Photo Editing.md",
@@ -96,8 +97,6 @@
     "PCB Design.md",
     "Algorithms Used by Google Search.md",
     "FPGA based IP Camera Design.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/SIM Cards.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Cellular Networks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/SIM Cards.md"
   ]
 }
