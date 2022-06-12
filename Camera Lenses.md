@@ -1,3 +1,4 @@
 Focal Length
 Hyperfocal Distance
-Depth of Field
+Depth of Field (DOF)
+Circle of Confusion (CoC)
