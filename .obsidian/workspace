@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Photography.md",
+            "file": "Photo Editing.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photography.md",
+                "file": "Photo Editing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
-    "Photography.md",
+    "Photo Editing.md",
     "Camera Lenses.md",
+    "Photography.md",
     "PCB Design.md",
     "RTK.md",
     "Algorithms Used by Google Search.md",
     "FPGA based IP Camera Design.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/SIM Cards.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Cellular Networks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md"
   ]
 }

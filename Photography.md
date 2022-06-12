@@ -1,2 +1,4 @@
 **Bokeh**
 Aesthetic effect created by soft out of focus backgrounds in an image.
+
+ISO
