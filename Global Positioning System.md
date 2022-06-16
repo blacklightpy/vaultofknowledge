@@ -4,10 +4,16 @@ P-code (Precison Code)
 M-Code (Military Code)
 
 **Protocols**
-
 Q. NMEA vs RTCM?
 Some Telite modules have NMEA (LG79D, etc.) and others too. RTKLib supports RTCM as well as proprietary formats of some devices in their reports. So.. implementing a custom format should be possible if required data is available. I saw in NMEA 0183 (used in LG79D) wiki that GSV (visible satellites) and GSA (list of satellites and data for obtaining fix position) are available parameters. Seems similar to the stuff needed in RTCM ig. Gotta see more into what params are needed.
 
+**Streams (as per RTKLIB)**
+Serial, TCP, NTRIP, File, FTP, HTTP
+**Data Formats**
+RTCM2, RTCM3, SkyTraQ, Javad, NovAtel, uBlox 6T, etc.
+
+---
+---
 Ionosphere Delay is the biggest delay, after Selective Availability (SA), which is intentional.
 **Ionosphere Delay Model**
 Calculated by Klobuchar model, derived from Bent Model

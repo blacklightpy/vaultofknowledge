@@ -16,6 +16,7 @@ NOTE: Some Telit modules have GAGAN without NavIC
 - Septentrino AsteRx4 RTK Navic
 - Septentrino AsteRx-m3 Pro+ RTK Navic (Base and Rover)
 - Septentrino AsteRx-m3 Pro RTK Navic (Base + Rover separate)
+- NTLab [NTL104](https://ntlab.lt/product/gnss-receiver-module-ntl104/) (RTCM 3.3 outputs too, NMEA 2.3, NMEA 4.11, NTL Binary; SSR Corrections)
 
 **Generic Modules**
 Low Cost Dual Band GNSS Reciever Silicon - Broadcom 47755, ST Micro TeseoV (STA9100MGA)
