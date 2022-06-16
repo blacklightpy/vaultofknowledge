@@ -3,10 +3,14 @@ C/A Coarse Acquisition
 P-code (Precison Code)
 M-Code (Military Code)
 
+Ionosphere Delay is the biggest delay, after Selective Availability (SA), which is intentional.
 **Ionosphere Delay Model**
 Calculated by Klobuchar model, derived from Bent Model
 Not correcting this will result in inaccurate vertical height, no issue for 2D position since the atomic clocks of all satellites have same error.
 (Similar to triangulation, size of circles doesn't affect centre, if all circles have equal error)
+
+The 8-parameter Klobuchar model is passed in the navigation message
+(along with the clock error rates)
 
 **Carrier Wave notes**
 GPS is based on CDMA (from GEOG 862 course)
