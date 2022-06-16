@@ -4,6 +4,7 @@ P-code (Precison Code)
 M-Code (Military Code)
 
 
+
 Data rate of 50 bit/s
 Symbol rate of 1023 Mchips/s
 
