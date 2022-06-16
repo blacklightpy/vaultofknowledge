@@ -6,6 +6,10 @@ Drones:
 
 MAVLink
 
+Network Protocols:
+
+HTTP, MQTT
+
 Internet Connectivity:
 
 - Wired

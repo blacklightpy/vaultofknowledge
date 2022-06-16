@@ -9,4 +9,4 @@ The distance between objects that create a focus range of acceptable circle of c
 **Aperture**
 
 ## Types
-- Fresnel Lens
+- Fresnel Lens - thinned plano-convex lens, by cutting out rectangular segments, making no significant change in angle of refraction.

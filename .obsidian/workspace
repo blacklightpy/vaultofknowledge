@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Knowledge/Concepts.md",
+            "file": "GNSS Bands.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concep",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Knowledge/Concepts.md",
+                "file": "GNSS Bands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,8 +79,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "06d24820df6e1e15",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,15 +97,15 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
-    "Personal/Knowledge/Concepts.md",
-    "Untitled.md",
-    "Camera Lenses.md",
+    "GNSS Bands.md",
+    "GNSS Modules.md",
     "RTK.md",
-    "Photo Editing.md",
-    "Photography.md",
-    "PCB Design.md",
-    "Algorithms Used by Google Search.md",
-    "FPGA based IP Camera Design.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/SIM Cards.md"
+    "Digital Communications.md",
+    "Camera Lenses.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
+    "Dead Reckoning.md",
+    "Global Positioning System.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/SIM Cards.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Cellular Networks.md"
   ]
 }
