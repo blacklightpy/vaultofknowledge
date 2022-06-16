@@ -3,7 +3,10 @@ C/A Coarse Acquisition
 P-code (Precison Code)
 M-Code (Military Code)
 
-
+**Ionosphere Delay**
+Calculated by Klobuchar model, derived from Bent Model
+Not correcting this will result in inaccurate vertical height, no issue for 2D position since the atomic clocks of all satellites have same error.
+(Similar to triangulation, size of circles doesn't affect centre, if all circles have equal error)
 
 Data rate of 50 bit/s
 Symbol rate of 1023 Mchips/s
