@@ -12,6 +12,8 @@ Serial, TCP, NTRIP, File, FTP, HTTP
 **Data Formats**
 RTCM2, RTCM3, SkyTraQ, Javad, NovAtel, uBlox 6T, etc.
 
+NTRIP added RTCM3 based IRNSS support 3 years ago as per changelog
+
 ---
 ---
 Ionosphere Delay is the biggest delay, after Selective Availability (SA), which is intentional.

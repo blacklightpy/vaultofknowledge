@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GNSS Bands.md",
+            "file": "Global Positioning System.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNSS Bands.md",
+                "file": "Global Positioning System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "Global Positioning System.md",
+    "GNSS Modules.md",
     "GNSS Bands.md",
     "RTK.md",
-    "GNSS Modules.md",
-    "Global Positioning System.md",
     "G.md",
     "Digital Communications.md",
     "Camera Lenses.md",
