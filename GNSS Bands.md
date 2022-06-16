@@ -19,6 +19,10 @@ Wide Area Augmentation System (WAAS), Local Area Augmentation System (LAAS)
 - PPP (Proprietary Data Formats) (not DGNSS, uses internet correction providers like IGS (International GNSS), unidirectional communication, slow <3-30 min, <10 cm, long range (global))
 - PPP-RTK / SSR (State Space Representation) (SPARTN Data Format)- same accuracy, PPP coverage (continental), lower bandwidth than RTK, as fast as RTK, unidirectional communication); uBlox PointPerfect has SSR (cm level in <30 sec)
 - Trimble RTX (similar accuracy to GAGAN (from a Paper, for Sri Lanka))
+
+Network RTK (NRTK)
+Wide Area RTK (WARTK)
+
 **Wide Area DGNSS (WADGNSS)**
 - GPS and Geo Augmented Navigation (GAGAN) (Indian SBAS)
 - WAAS (Wide Area Augmentation System) - USA
