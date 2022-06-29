@@ -20,8 +20,8 @@ Wide Area Augmentation System (WAAS), Local Area Augmentation System (LAAS)
 - PPP-RTK / SSR (State Space Representation) (SPARTN Data Format)- same accuracy, PPP coverage (continental), lower bandwidth than RTK, as fast as RTK, unidirectional communication); uBlox PointPerfect has SSR (cm level in <30 sec)
 - Trimble RTX (similar accuracy to GAGAN (from a Paper, for Sri Lanka))
 
-Network RTK (NRTK)
-Wide Area RTK (WARTK)
+- Network RTK (NRTK)
+- Wide Area RTK (WARTK) - developed by [gAGE/UPC](https://gage.upc.edu/forum/wide-area-rtk/) (Research Group of Astronomy and Geomatics/Technical University of Catalonia) (Unlike RTK, doesn't assume Ionosphere delay is same for all users, instead broadcasts the data with different algorithms ref: [Navipedia, the Offcial European GNSS WIki](https://gssc.esa.int/navipedia/index.php/WARTK_Standards))
 
 **Wide Area DGNSS (WADGNSS)**
 - GPS and Geo Augmented Navigation (GAGAN) (Indian SBAS)

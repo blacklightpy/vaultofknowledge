@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global Positioning System.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Chips.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global Positioning System.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Chips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
-    "Global Positioning System.md",
-    "GNSS Modules.md",
-    "GNSS Bands.md",
-    "RTK.md",
-    "G.md",
-    "Digital Communications.md",
-    "Camera Lenses.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Chips.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "Dead Reckoning.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/SIM Cards.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computers.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/SoCs.md",
+    "Global Positioning System.md",
+    "RTK.md",
+    "Digital Communications.md",
+    "World Building/Creation.md",
+    "World Building/Particles.md",
+    "GNSS Modules.md"
   ]
 }

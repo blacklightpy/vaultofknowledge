@@ -19,6 +19,9 @@ NOTE: Some Telit modules have GAGAN without NavIC
 - NTLab [NTL104](https://ntlab.lt/product/gnss-receiver-module-ntl104/) (RTCM 3.3 outputs too, NMEA 2.3, NMEA 4.11, NTL Binary; SSR Corrections) - 850 USD according to a paper
 
 **Generic Modules**
-Low Cost Dual Band GNSS Reciever Silicon - Broadcom 47755, ST Micro TeseoV (STA9100MGA)
+- Low Cost Dual Band GNSS Reciever Silicon - Broadcom 47755, ST Micro TeseoV (STA9100MGA)
+- SIM7600 Modem/GNSS Module
 
-SIM7600
+#### NTLab concepts (overviews)
+- **NTLab's open architecture for  multi-system multi-band OEM reciever module** - https://ntlab.lt/product/open-architecture/
+- **NTLab's open  platform for  multi-system multi-band OEM board** - https://ntlab.lt/product/open-platform/
