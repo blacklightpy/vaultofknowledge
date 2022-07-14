@@ -5,7 +5,8 @@
 - BPSK
 - QPSK
 - Binary Offset Carrier (BOC)
-	- Synthesized BOC (SBOC) - Used in NavIC
+	- **Synthesized BOC (SBOC)** - Used in NavIC
+		SBOC Modulation Scheme is a non-linear combining method to generate constant envelope composite signal with MBOC (6,1,1/11) PSD.
 	- Sine BOC (sinBOC)
 	- Cosine BOC (cosBOC)
 	- Alternate BOC (altBOC)
