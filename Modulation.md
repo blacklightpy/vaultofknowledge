@@ -1,3 +1,7 @@
+- Amplitude Modulation (AM)
+- Frequency Modulation (FM)
+- Phase Modulation (PM)
+
 - BPSK
 - QPSK
 - Binary Offset Carrier (BOC)
