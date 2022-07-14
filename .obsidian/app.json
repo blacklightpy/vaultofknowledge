@@ -1,7 +1,7 @@
 {
   "fileSortOrder": "byModifiedTimeReverse",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "images",
+  "attachmentFolderPath": "_images",
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
