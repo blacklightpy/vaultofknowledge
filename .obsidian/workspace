@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RTK.md",
+            "file": "Modulation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTK.md",
+                "file": "Modulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "Digital Communications.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
+    "GNSS Modules.md",
+    "GNSS Bands.md",
     "RTK.md",
     "Camera Lenses.md",
-    "Digital Communications.md",
     "_images/Pasted image 20220608123008.png",
     "World Building/Particles.md",
     "FPGA based IP Camera Design.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Metrics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Algorithms.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md"
   ]
 }
