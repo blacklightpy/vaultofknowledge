@@ -17,6 +17,8 @@ NOTE: Some Telit modules have GAGAN without NavIC
 - Septentrino AsteRx-m3 Pro+ RTK Navic (Base and Rover)
 - Septentrino AsteRx-m3 Pro RTK Navic (Base + Rover separate)
 - NTLab [NTL104](https://ntlab.lt/product/gnss-receiver-module-ntl104/) (RTCM 3.3 outputs too, NMEA 2.3, NMEA 4.11, NTL Binary; SSR Corrections) - 850 USD according to a paper
+- AllyStar TAU
+	- Allystar RTK engine is performed on either GPS L1/L5 and GALILEO E1/E5a, GPS L1/L2C and BeiDou B1I/B2I, GPS L1/L2C and GLONASS L1OF/L2OF or GPS L1/L5 and BeiDou B1I/B2a signals. While GPS/Galileo is a more suitable configuration to be used outside Asia, GPS/BEIDOU provides an improved solution inside Asia, where users can more easily track BeiDou IGSO and GEO satellites.
 
 **Generic Modules**
 - Low Cost Dual Band GNSS Reciever Silicon - Broadcom 47755, ST Micro TeseoV (STA9100MGA)
