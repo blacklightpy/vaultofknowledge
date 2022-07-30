@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "12c99fd5c97351dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,6 +95,36 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "d20ce981f3f0a6f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c01d4e2aecebd34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3298e62d4c40f851",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -98,12 +136,12 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "Modulation.md",
+    "GNSS Modules.md",
     "GNSS Bands.md",
     "RTK.md",
-    "Modulation.md",
     "Digital Communications.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "GNSS Modules.md",
     "Camera Lenses.md",
     "_images/Pasted image 20220608123008.png",
     "World Building/Particles.md",
