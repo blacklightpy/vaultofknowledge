@@ -8,7 +8,7 @@ Link: [[Art Concepts]]
 Axle
 Gears
 Shaft
-Chassi
+Chassis
 
 ### Physics
 Quantum Tunneling

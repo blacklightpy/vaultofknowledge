@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GNSS Modules.md",
+            "file": "To Fill.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "acid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNSS Modules.md",
+                "file": "To Fill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNSS Modules.md",
+                "file": "To Fill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNSS Modules.md"
+                "file": "To Fill.md"
               }
             }
           }
@@ -137,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b128cbb471519e49",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "Modulation.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
+    "Personal/Knowledge/Concepts.md",
+    "Software.md",
     "GNSS Modules.md",
+    "Modulation.md",
     "GNSS Bands.md",
     "RTK.md",
-    "Digital Communications.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "Camera Lenses.md",
-    "_images/Pasted image 20220608123008.png",
-    "World Building/Particles.md",
-    "FPGA based IP Camera Design.md"
+    "Digital Communications.md"
   ]
 }
