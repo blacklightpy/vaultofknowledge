@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acid",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
