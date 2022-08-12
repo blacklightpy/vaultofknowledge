@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Fill.md",
+            "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kalm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Fill.md",
+                "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Fill.md",
+                "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Fill.md"
+                "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Creation of Drones.md",
+    "RTK.md",
+    "To Fill.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
     "Personal/Knowledge/Concepts.md",
     "Software.md",
     "GNSS Modules.md",
-    "Modulation.md",
-    "GNSS Bands.md",
-    "RTK.md",
-    "Digital Communications.md"
+    "Modulation.md"
   ]
 }
