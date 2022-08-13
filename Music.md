@@ -1,5 +1,6 @@
 # Trackers
 - Vertical
+- "A format of DAW where you put notes to a Excel kind of sheet instead of piano roll"
 ModPlug, OpenMPT, Impulse Tracker, Renoise, ReViSiT
 # Sequencers
 https://en.wikipedia.org/wiki/Music_sequencer
