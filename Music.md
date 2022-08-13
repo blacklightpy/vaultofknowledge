@@ -1,12 +1,14 @@
 # Trackers
+- Vertical
 ModPlug, OpenMPT, Impulse Tracker
 # Sequencers
-Rebirth, Reactor, Frooty Loops
+- Horizontal
+Rebirth, Reactor, Frooty Loops, Reaper
 
 - DAW
 - VST, VST3, VSTi
 - Cutoff, Resonance, Volume, Panning
-- Playlists, Channels
+- Playlists, Channels, Samples
 - Notes, Chords
 
 - Music Theory
