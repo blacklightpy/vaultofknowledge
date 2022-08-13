@@ -2,10 +2,12 @@
 - Vertical
 ModPlug, OpenMPT, Impulse Tracker, Renoise, ReViSiT
 # Sequencers
+https://en.wikipedia.org/wiki/Music_sequencer
 - Horizontal
 Rebirth, Reactor, Frooty Loops, Reaper, LMMS
 
 - DAW
+- MIDI
 - VST, VST3, VSTi
 - Cutoff, Resonance, Volume, Panning
 - Playlists, Channels, Samples
