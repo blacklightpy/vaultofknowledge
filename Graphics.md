@@ -1,6 +1,7 @@
 - Image Rendering
 - CRT Displays
 - 2D, 3D Graphics
+- Textures
 - Motion Graphics
 - Animation
 - 3D Modelling

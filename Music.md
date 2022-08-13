@@ -11,6 +11,7 @@ Rebirth, Reactor, Frooty Loops, Reaper, LMMS
 - VST, VST3, VSTi
 - Cutoff, Resonance, Volume, Panning
 - Playlists, Channels, Samples
+- Sound Textures
 - Notes, Chords
 
 - Music Theory
