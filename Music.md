@@ -14,6 +14,7 @@ Rebirth, Reactor, Frooty Loops, Reaper, LMMS
 - Playlists, Channels, Samples
 - Sound Textures
 - Notes, Chords
+- Chips: Atari ST's Yamaha YM2149
 
 - Music Theory
 - Sound Engineering
