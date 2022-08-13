@@ -12,3 +12,14 @@ Rebirth, Reactor, Frooty Loops
 - Music Theory
 - Sound Engineering
 - Audio Spectrography and Analysis
+
+# Genres
+Dubstep
+Jungle
+DnB
+Hip Hop
+Progressive
+House
+Electronic
+Reggae
+Reggeton
