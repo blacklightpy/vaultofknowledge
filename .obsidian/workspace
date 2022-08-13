@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
+            "file": "Music.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
+                "file": "Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
+                "file": "Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md"
+                "file": "Music.md"
               }
             }
           }
@@ -137,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
     "World Building/Creation of Drones.md",
     "RTK.md",
     "To Fill.md",
@@ -147,7 +148,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
     "Personal/Knowledge/Concepts.md",
     "Software.md",
-    "GNSS Modules.md",
-    "Modulation.md"
+    "GNSS Modules.md"
   ]
 }
