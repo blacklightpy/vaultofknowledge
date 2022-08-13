@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Demo Culture.md",
+            "file": "Music.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo Culture.md",
+                "file": "Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo Culture.md",
+                "file": "Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo Culture.md"
+                "file": "Music.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "Demo Culture.md",
     "Music.md",
     "Graphics.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
@@ -147,7 +148,6 @@
     "To Fill.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "Personal/Knowledge/Concepts.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md"
   ]
 }
