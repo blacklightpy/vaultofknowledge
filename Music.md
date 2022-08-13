@@ -1,6 +1,6 @@
 # Trackers
 - Vertical
-ModPlug, OpenMPT, Impulse Tracker, Renoise
+ModPlug, OpenMPT, Impulse Tracker, Renoise, ReViSiT
 # Sequencers
 - Horizontal
 Rebirth, Reactor, Frooty Loops, Reaper, LMMS
