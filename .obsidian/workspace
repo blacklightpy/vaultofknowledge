@@ -139,6 +139,8 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "Graphics.md",
+    "Music.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
     "World Building/Creation of Drones.md",
     "RTK.md",
@@ -146,8 +148,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "Personal/Knowledge/Concepts.md",
-    "Software.md",
-    "GNSS Modules.md"
+    "Personal/Knowledge/Concepts.md"
   ]
 }

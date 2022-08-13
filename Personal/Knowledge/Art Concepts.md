@@ -2,4 +2,4 @@
 - Anatomy
 
 
-[[Graphics]]
+[[Personal/Creative and Recreational/Graphics]]
