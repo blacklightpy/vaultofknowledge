@@ -10,6 +10,7 @@ Rebirth, Reactor, Frooty Loops, Reaper, LMMS
 - DAW
 - MIDI
 - VST, VST3, VSTi
+- Effects: Arpeggio, Portamento
 - Cutoff, Resonance, Volume, Panning
 - Playlists, Channels, Samples
 - Sound Textures

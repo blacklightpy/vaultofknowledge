@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elements of the world.md",
+            "file": "Music.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elements of the world.md",
+                "file": "Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elements of the world.md",
+                "file": "Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elements of the world.md"
+                "file": "Music.md"
               }
             }
           }
@@ -139,8 +139,8 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
-    "Graphics.md",
     "Elements of the world.md",
+    "Graphics.md",
     "Matrix.md",
     "Retro Culture.md",
     "Retro Computers.md",
