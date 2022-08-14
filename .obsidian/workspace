@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matrix.md",
+            "file": "Elements of the world.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix.md",
+                "file": "Elements of the world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix.md",
+                "file": "Elements of the world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix.md"
+                "file": "Elements of the world.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "b128cbb471519e49",
   "lastOpenFiles": [
+    "Graphics.md",
+    "Elements of the world.md",
+    "Matrix.md",
     "Retro Culture.md",
     "Retro Computers.md",
     "Music.md",
-    "Graphics.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
     "World Building/Creation of Drones.md",
     "RTK.md",
-    "To Fill.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md"
+    "To Fill.md"
   ]
 }
