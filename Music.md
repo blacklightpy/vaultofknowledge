@@ -5,7 +5,7 @@ ModPlug, OpenMPT, Impulse Tracker, Renoise, ReViSiT
 # Sequencers
 https://en.wikipedia.org/wiki/Music_sequencer
 - Horizontal
-Rebirth, Reactor, Frooty Loops, Reaper, LMMS
+Rebirth, Reaktor, Frooty Loops, Reaper, LMMS
 
 - DAW
 - MIDI
