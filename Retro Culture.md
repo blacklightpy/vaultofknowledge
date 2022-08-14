@@ -3,5 +3,5 @@
 - ASCII Art
 - Chiptunes
 - Music Trackers
-- BBS
+- BBS (Evolved to forums; e.g. phpBB)
 - Computer Art scene
