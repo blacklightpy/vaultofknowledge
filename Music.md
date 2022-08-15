@@ -20,7 +20,7 @@ Rebirth, Reaktor, Frooty Loops, Reason, Reaper, LMMS
 
 - Music Theory
 - Sound Engineering
-- Sine waves, [[Digital Communications#^5aab1b|Pulse Code Modulation]]
+- Sine waves, [[Digital Communications#^Heading|Pulse Code Modulation]]
 - Audio Spectrography and Analysis
 
 # Genres
