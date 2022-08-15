@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logic Design.md",
+            "file": "8085.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Design.md",
+                "file": "8085.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Design.md",
+                "file": "8085.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Design.md"
+                "file": "8085.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "5dc63ceab2b51ed1",
   "lastOpenFiles": [
+    "Zettelkasten.md",
+    "8085.md",
     "Music.md",
-    "Digital Communications.md",
     "Logic Design.md",
+    "Digital Communications.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "Personal/Productivity/Extensions.md",
     "Personal/Productivity/Presentation Tips Summary.md",
     "Personal/Productivity/Knowledge Management.md",
-    "Personal/Productivity/Productivity Tips.md",
-    "Personal/Leisure/Games.md",
-    "Personal/Leisure/Movies.md"
+    "Personal/Productivity/Productivity Tips.md"
   ]
 }
