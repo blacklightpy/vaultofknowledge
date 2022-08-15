@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Digital Communications.md",
+            "file": "Logic Design.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Communications.md",
+                "file": "Logic Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Communications.md",
+                "file": "Logic Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Communications.md"
+                "file": "Logic Design.md"
               }
             }
           }
@@ -142,7 +142,7 @@
   "lastOpenFiles": [
     "Music.md",
     "Digital Communications.md",
-    "Untitled.md",
+    "Logic Design.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "Personal/Productivity/Extensions.md",
     "Personal/Productivity/Presentation Tips Summary.md",
