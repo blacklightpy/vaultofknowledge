@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b128cbb471519e49",
+        "id": "5dc63ceab2b51ed1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Music.md",
+            "file": "Digital Communications.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kalm",
+                "query": "\"pulse code modulation\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music.md",
+                "file": "Digital Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music.md",
+                "file": "Digital Communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music.md"
+                "file": "Digital Communications.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b128cbb471519e49",
+  "active": "5dc63ceab2b51ed1",
   "lastOpenFiles": [
-    "Untitled.md",
     "Music.md",
+    "Digital Communications.md",
+    "Retro Computers.md",
+    "Retro Culture.md",
+    "Matrix.md",
+    "Untitled.md",
     "Elements of the world.md",
     "Graphics.md",
-    "Matrix.md",
-    "Retro Culture.md",
-    "Retro Computers.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
-    "World Building/Creation of Drones.md",
-    "RTK.md"
+    "World Building/Creation of Drones.md"
   ]
 }

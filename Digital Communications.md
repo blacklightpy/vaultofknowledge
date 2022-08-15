@@ -4,7 +4,7 @@ Chips
 OSI Model
 TCP/IP
 Signalling System 7
-UMTS
+UMTS ^5aab1b
 
 
 OSI Model is still relevant in cloud computing, some say
