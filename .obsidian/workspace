@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8085.md",
+            "file": "Personal/Creative and Recreational/Computer Aided Design.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8085.md",
+                "file": "Personal/Creative and Recreational/Computer Aided Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8085.md",
+                "file": "Personal/Creative and Recreational/Computer Aided Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8085.md"
+                "file": "Personal/Creative and Recreational/Computer Aided Design.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "5dc63ceab2b51ed1",
   "lastOpenFiles": [
-    "Zettelkasten.md",
+    "Personal/Creative and Recreational/Engineering.md",
+    "Personal/Creative and Recreational/Playlists.md",
+    "Personal/Creative and Recreational/Computer Aided Design.md",
     "8085.md",
+    "Zettelkasten.md",
     "Music.md",
     "Logic Design.md",
     "Digital Communications.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
-    "Personal/Productivity/Extensions.md",
-    "Personal/Productivity/Presentation Tips Summary.md",
-    "Personal/Productivity/Knowledge Management.md",
-    "Personal/Productivity/Productivity Tips.md"
+    "Personal/Productivity/Extensions.md"
   ]
 }
