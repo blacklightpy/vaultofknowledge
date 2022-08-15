@@ -8,5 +8,7 @@
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
 }
