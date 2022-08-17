@@ -18,3 +18,8 @@ Some NextJS Features:
 
 Doing > Viewing: Use React, Vue, etc. + NextJS/Gatsby
 For content, use Nuxt, Jekyll, Hugo, Eleventy
+
+Some Netlify features:
+- Edge functions - no JS
+- add JS/TS script to docroot/netlify/edge-functions
+- Parse HTML elements and modify based on geolocation data of request
