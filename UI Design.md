@@ -7,14 +7,15 @@
 ## Other
 - Glassmorphism
 ## Platform Specific
-**Microsoft**
-Aero
-Metro
-Fluent
-**Apple**
-Human Interface Guidelines
-**LInux**
-Desktop Environment specific design guidelines
+- **Microsoft**
+	- Luna
+	- Aero
+	- Metro
+	- Fluent
+- **Apple**
+	- Human Interface Guidelines
+- **LInux**
+	- Desktop Environment specific design guidelines
 # Design parameters
 - Theme - Light/Dark
 - Typography
@@ -25,6 +26,3 @@ Desktop Environment specific design guidelines
 - Dark theme palettes for comfortability
 - Color-blindness - Color intensity levels
 - Animations can be used to the advantage for slow loading components, etc.
-
-[[Jerk]]
-[[World Building/Science and Engineering/Physics/Jerk]]
