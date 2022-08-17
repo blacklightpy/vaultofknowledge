@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
+            "file": "Web Platforms Glossary.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
+                "file": "Web Platforms Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
+                "file": "Web Platforms Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md"
+                "file": "Web Platforms Glossary.md"
               }
             }
           }
@@ -139,6 +139,8 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "JAMStack.md",
+    "Web Platforms Glossary.md",
     "Serverless Architecture.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JavaScript.md",
@@ -146,8 +148,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Browser Engines.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Awesome JS.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/CSS.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Stylesheets.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Angular.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/CSS.md"
   ]
 }
