@@ -8,6 +8,7 @@
 - Glassmorphism
 ## Platform Specific
 - **Microsoft**
+	- Classic
 	- Luna
 	- Aero
 	- Metro
