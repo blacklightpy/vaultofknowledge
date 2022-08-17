@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UI Design.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI Design.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI Design.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI Design.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
     "Single Page Application.md",
     "JAMStack.md",
+    "UI Design.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
     "Personal/Leisure/Games.md",
     "Personal Website Ideas.md",
     "Camera Lenses.md",
     "Photography.md",
     "Photo Editing.md",
-    "PCB Design.md",
-    "Hardware Design Languages.md"
+    "PCB Design.md"
   ]
 }
