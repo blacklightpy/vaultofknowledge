@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UI Design.md",
+            "file": "Personal/Creative and Recreational/Books.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UI Design.md",
+                "file": "Personal/Creative and Recreational/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UI Design.md",
+                "file": "Personal/Creative and Recreational/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI Design.md"
+                "file": "Personal/Creative and Recreational/Books.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "5dc63ceab2b51ed1",
   "lastOpenFiles": [
-    "Logic Design.md",
-    "Zettelkasten.md",
-    "UI Design.md",
-    "_images/Pasted image 20220608123008.png",
-    "_images/Pasted image 20220412142513.png",
-    "_images/Pasted image 20220407224750.png",
-    "_images/Pasted image 20220401001446.png",
-    "_images/Pasted image 20220331153215.png",
-    "_images/Pasted image 20220331153115.png",
-    "_images/Pasted image 20220331153104.png"
+    "Personal/Creative and Recreational/Computer Aided Design.md",
+    "Personal/Creative and Recreational/Cartography.md",
+    "Personal/Creative and Recreational/3D Modelling.md",
+    "Personal/Creative and Recreational/Maya.md",
+    "Personal/Creative and Recreational/Engineering.md",
+    "Personal/Leisure/Animes.md",
+    "Personal/Leisure/TV Shows.md",
+    "Personal/Leisure/Movies.md",
+    "Personal/Leisure/Games.md",
+    "Personal Website Ideas.md"
   ]
 }

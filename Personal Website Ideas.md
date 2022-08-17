@@ -1,0 +1,1 @@
+https://nick.groenen.me/ - Good resume, values and digital garden (not my style)
