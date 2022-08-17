@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pulse code modulation\"",
+                "query": "netlify",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dc63ceab2b51ed1",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "Camera Lenses.md",
     "Photography.md",
