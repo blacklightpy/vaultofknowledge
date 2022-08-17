@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAMStack.md",
+            "file": "Web Platforms Glossary.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAMStack.md",
+                "file": "Web Platforms Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAMStack.md",
+                "file": "Web Platforms Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAMStack.md"
+                "file": "Web Platforms Glossary.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
-    "Web Platforms Glossary.md",
+    "SEO.md",
+    "Web Design and Marketing.md",
+    "Personal Website Ideas.md",
     "JAMStack.md",
+    "Web Platforms Glossary.md",
     "_images/Netlify CEO's JAMStack Diagram.png",
     "Serverless Architecture.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JavaScript.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Browser Engines.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Awesome JS.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md"
   ]
 }
