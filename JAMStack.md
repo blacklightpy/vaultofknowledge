@@ -14,4 +14,4 @@ Note: Vercel and Netlify offer a PaaS model for presenting static content
 - eleventy
 - Jekyll
 - NextJS (React framework for sites with static assets)
-- NuxtJS (React framework for sites with static assets)
+- NuxtJS (Vue framework for sites with static assets)
