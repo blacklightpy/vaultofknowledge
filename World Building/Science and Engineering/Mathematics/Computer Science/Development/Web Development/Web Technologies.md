@@ -38,13 +38,8 @@ Ruby on Rails - JavaScript - Ruby - SQLite - Rails
 Javascript, jQuery, Angular/Vue/React, Typescript
 **Backends:**
 PHP, Perl, Python, NodeJS, C#, C++, Scala, Ruby, ASP, Go
-**DB:**
+**Databases**
 MySQL, PostgreSQL, MongoDB, DynamoDB, Firebase, Redis
-**Control Panels**
-cPanel (paid; good UI; light)
-VestaCP (free; good UI; light; has tiers:
-- Micro <1GB - No phpfcgi
-- Small<3GB - Disable ClamAV and SpamAssassin
-- Medium<7GB
-- Large>7GB)
+**[[Control Panels]]**
+
 **[[Communication Technologies]]**
