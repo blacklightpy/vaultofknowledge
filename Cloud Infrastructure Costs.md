@@ -8,6 +8,9 @@ AWS Lambda charges based on compute. But that need not always be the cheapest op
 
 Is edge computing really needed or can we do post processing? That can lower infrastructure costs.
 
+An analysis: https://www.bbva.com/en/economics-of-serverless/
+This probably comes in the section of API Economy?
+
 **Method for calculation of general infrastructure costs**
 
 *To be planned*
