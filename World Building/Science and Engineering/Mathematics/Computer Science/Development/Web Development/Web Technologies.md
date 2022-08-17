@@ -4,7 +4,7 @@
 - eg: Wordpress.org, Joomla, Drupal, Magento, Squarespace, Wix, Zoho, Ghost
 
 **CDN (Content Delivery Network)**
-- Used to deliver cached static content with high uptimes
+- Used to deliver cached content with low latency to far locations
 - eg: Cloudflare
 
 **CRM (Customer Relationship Management)**
