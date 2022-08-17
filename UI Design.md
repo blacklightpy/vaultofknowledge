@@ -7,10 +7,14 @@
 ## Other
 - Glassmorphism
 ## Platform Specific
+**Microsoft**
 Aero
 Metro
 Fluent
-
+**Apple**
+Human Interface Guidelines
+**LInux**
+Desktop Environment specific design guidelines
 # Design parameters
 - Theme - Light/Dark
 - Typography
