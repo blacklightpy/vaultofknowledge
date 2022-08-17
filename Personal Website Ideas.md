@@ -2,13 +2,16 @@ https://nick.groenen.me/ - Good resume, values and digital garden (not my style)
 
 # Design ideas
 ## Goals
-Primary Goal: Share information
+Primary Goal: Share information | Write a blog
+**Sharing Information**
 Goals Level 1:
 - Knowledgebase should support backlink views
 - Search functionality for notes
 Goals Level 2:
 - Should show graph of interconnections. Useful for large data.
-
+**Writing blog**
+- Use categories to your advantage
+- Personal life, creative writing, ideas
 ## Organization ideas
 - Zettelkasten + Tags?
 - Use folders. Find a balance between nesting folders and atomicity. Use a square model? (64 files = 8 files in 8 folders)
