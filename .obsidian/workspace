@@ -139,6 +139,8 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "Faas.md",
+    "Cloud Infrastructure Costs.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md",
@@ -146,8 +148,6 @@
     "JAMStack.md",
     "Web Design and Marketing.md",
     "SEO.md",
-    "Ideas for business.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
-    "Single Page Application.md"
+    "Ideas for business.md"
   ]
 }
