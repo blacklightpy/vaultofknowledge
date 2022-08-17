@@ -14,3 +14,4 @@ Note: Vercel and Netlify offer a PaaS model for presenting static content
 Some NextJS Features:
 - Periodic SSG after a period from new requests
 - On Demand SSG
+- Static Tweets (no iframes)
