@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Control Panels.md",
+            "file": "Useful Docker Containers.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web tec",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Panels.md",
+                "file": "Useful Docker Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Panels.md",
+                "file": "Useful Docker Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control Panels.md"
+                "file": "Useful Docker Containers.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "3b1aaedb77240007",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Containerization Tech.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Kubernetes.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "Control Panels.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/VPS Security.md",
     "Cloud Infrastructure Costs.md",
     "Faas.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md",
-    "Web Platforms Glossary.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md"
   ]
 }
