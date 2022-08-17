@@ -22,4 +22,5 @@ For content, use Nuxt, Jekyll, Hugo, Eleventy
 Some Netlify features:
 - Edge functions - no JS
 - add JS/TS script to docroot/netlify/edge-functions
-- Parse HTML elements and modify based on geolocation data of request
+- Parse HTML elements and modify based on request data and queries
+	- e.g. Add geolocation data based on request
