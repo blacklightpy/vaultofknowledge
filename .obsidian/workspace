@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful Docker Containers.md",
+            "file": "Hello Worlds.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "hosting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful Docker Containers.md",
+                "file": "Hello Worlds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Docker Containers.md",
+                "file": "Hello Worlds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Docker Containers.md"
+                "file": "Hello Worlds.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "Hosting Platforms.md",
+    "Web Platforms Glossary.md",
+    "Useful Docker Containers.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Containerization Tech.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Kubernetes.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "Control Panels.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/VPS Security.md",
-    "Cloud Infrastructure Costs.md",
-    "Faas.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/VPS Security.md"
   ]
 }

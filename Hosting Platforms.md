@@ -1,0 +1,3 @@
+- Heroku
+- Appliku.io (from Reddit; is good, like Heroku)
+- NearlyFreeSpeech.NET (Pay as you use hosting)
