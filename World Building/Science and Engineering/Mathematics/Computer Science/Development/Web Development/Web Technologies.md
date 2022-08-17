@@ -1,17 +1,20 @@
-CMS
+**CMS (Content Management System)**
+- Used to publish similar types of contents, like blog posts easily
+- Modern architectures can decouple frontend and backend, creating headless CMSs
 - eg: Wordpress.org, Joomla, Drupal, Magento, Squarespace, Wix, Zoho, Ghost
 
-CDN:
+**CDN (Content Delivery System)**
+- Used to deliver cached static content with high uptimes
 - eg: Cloudflare
 
-CRM (Customer Relationship Management):
+**CRM (Customer Relationship Management)**
 - eg: Bittrix24 (also has CMS)
 
 **Web Architectures**
 - Fully Static - HTML, CSS, Web Server
 - Dynamic - Frontend + Backend
 - Single-Page application - HTML, CSS are generated dynamically on client side
-- JAMStack - JavaScript, API, Markup
+- JAMStack - JavaScript, API, Markup: Basically decoupling frontend and backend
 
 **Popular Web Stacks:**
 LAMP - Linux, Apache, MySQL, PHP/Perl/Python
