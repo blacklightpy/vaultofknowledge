@@ -9,9 +9,4 @@ The approach is simple and has existed before, but no one was really using it.
 
 Note: Vercel and Netlify offer a PaaS model for presenting static content
 
-**Static site generators**
-- GatsbyJS
-- eleventy
-- Jekyll
-- NextJS (React framework for sites with static assets)
-- NuxtJS (Vue framework for sites with static assets)
+[[Static site generators]]

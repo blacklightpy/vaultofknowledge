@@ -1,0 +1,9 @@
+- GatsbyJS
+- eleventy
+- Jekyll
+- NextJS (React framework for sites with static assets)
+- NuxtJS (Vue framework for sites with static assets)
+- Huge
+- Slate
+- GitBook
+- Sphinx

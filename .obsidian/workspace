@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JAMStack.md",
+            "file": "Zettelkasten.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "static sit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAMStack.md",
+                "file": "Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAMStack.md",
+                "file": "Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAMStack.md"
+                "file": "Zettelkasten.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
-    "Personal Website Ideas.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Awesome JS.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
-    "Single Page Application.md",
-    "JAMStack.md",
     "UI Design.md",
-    "Personal/Leisure/Games.md"
+    "Single Page Application.md",
+    "Personal Website Ideas.md",
+    "JAMStack.md",
+    "Static site generators.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Servers.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Development.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md"
   ]
 }
