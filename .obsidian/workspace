@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Platforms Glossary.md",
+            "file": "Ideas for business.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Platforms Glossary.md",
+                "file": "Ideas for business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Platforms Glossary.md",
+                "file": "Ideas for business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Platforms Glossary.md"
+                "file": "Ideas for business.md"
               }
             }
           }
@@ -140,10 +140,10 @@
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
     "SEO.md",
+    "Web Platforms Glossary.md",
     "Web Design and Marketing.md",
     "Personal Website Ideas.md",
     "JAMStack.md",
-    "Web Platforms Glossary.md",
     "_images/Netlify CEO's JAMStack Diagram.png",
     "Serverless Architecture.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
