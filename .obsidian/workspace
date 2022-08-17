@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Platforms Glossary.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Platforms Glossary.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Platforms Glossary.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Platforms Glossary.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md",
+    "Web Platforms Glossary.md",
     "JAMStack.md",
     "Web Design and Marketing.md",
     "SEO.md",
     "Ideas for business.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
-    "Single Page Application.md",
-    "Personal Website Ideas.md",
-    "Static site generators.md",
-    "Serverless Architecture.md",
-    "Web Platforms Glossary.md"
+    "Single Page Application.md"
   ]
 }
