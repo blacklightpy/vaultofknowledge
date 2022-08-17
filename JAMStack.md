@@ -15,3 +15,6 @@ Some NextJS Features:
 - Periodic SSG after a period from new requests
 - On Demand SSG
 - Static Tweets (no iframes)
+
+Doing > Viewing: Use React, Vue, etc. + NextJS/Gatsby
+For content, use Nuxt, Jekyll, Hugo, Eleventy
