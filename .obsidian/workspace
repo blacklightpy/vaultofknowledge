@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal Website Ideas.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "netlify",
+                "query": "rest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Website Ideas.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Website Ideas.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Website Ideas.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "Personal Website Ideas.md",
     "Camera Lenses.md",
     "Photography.md",
     "Photo Editing.md",
@@ -148,7 +149,6 @@
     "Algorithms Used by Google Search.md",
     "FPGA based IP Camera Design.md",
     "Personal/Creative and Recreational/Books.md",
-    "Personal/Creative and Recreational/Computer Aided Design.md",
-    "Personal/Creative and Recreational/Cartography.md"
+    "Personal/Creative and Recreational/Computer Aided Design.md"
   ]
 }

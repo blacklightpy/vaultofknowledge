@@ -7,6 +7,9 @@ CDN:
 CRM (Customer Relationship Management):
 - eg: Bittrix24 (also has CMS)
 
+**Web Architectures**
+JAMStack - JavaScript, API, Markup
+
 **Popular Web Stacks:**
 LAMP - Linux, Apache, MySQL, PHP/Perl/Python
 LEMP - Linux, NginX, MySQL, PHP/Perl/Python
