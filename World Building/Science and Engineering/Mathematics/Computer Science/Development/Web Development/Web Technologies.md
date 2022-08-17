@@ -3,7 +3,7 @@
 - Modern architectures can decouple frontend and backend, creating headless CMSs
 - eg: Wordpress.org, Joomla, Drupal, Magento, Squarespace, Wix, Zoho, Ghost
 
-**CDN (Content Delivery System)**
+**CDN (Content Delivery Network)**
 - Used to deliver cached static content with high uptimes
 - eg: Cloudflare
 
