@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Platforms Glossary.md",
+            "file": "JAMStack.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Platforms Glossary.md",
+                "file": "JAMStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Platforms Glossary.md",
+                "file": "JAMStack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Platforms Glossary.md"
+                "file": "JAMStack.md"
               }
             }
           }
@@ -139,9 +139,9 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "Web Platforms Glossary.md",
     "JAMStack.md",
     "_images/Netlify CEO's JAMStack Diagram.png",
-    "Web Platforms Glossary.md",
     "Serverless Architecture.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JavaScript.md",

@@ -10,3 +10,7 @@ The approach is simple and has existed before, but no one was really using it.
 Note: Vercel and Netlify offer a PaaS model for presenting static content
 
 [[Static site generators]]
+
+Some NextJS Features:
+- Periodic SSG after a period from new requests
+- On Demand SSG
