@@ -1,0 +1,5 @@
+- [ ] Haskell
+- [ ] Scala
+- [x] .NET
+- [ ] Ruby
+- [ ] etc.
