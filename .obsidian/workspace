@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rest",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,15 +139,15 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Awesome JS.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+    "Personal Website Ideas.md",
     "Single Page Application.md",
     "JAMStack.md",
     "UI Design.md",
-    "Personal/Leisure/Games.md",
-    "Personal Website Ideas.md",
-    "Camera Lenses.md",
-    "Photography.md",
-    "Photo Editing.md",
-    "PCB Design.md"
+    "Personal/Leisure/Games.md"
   ]
 }

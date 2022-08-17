@@ -5,7 +5,6 @@ Aurelia
 Ember
 Mocha
 Webix
-Gatsby
 Babel
 ESLint
 D3.js
@@ -14,6 +13,9 @@ Webpack
 LitElement
 Polymer
 Backbone
+**Static Site generators**
+Gatsby
+NextJS
 Nuxt.JS
 
 [[JavaScript]]
