@@ -11,13 +11,14 @@
 **CRM (Customer Relationship Management)**
 - eg: Bittrix24 (also has CMS)
 
-## Web Architectures
-**By popular knowledge**
+**Web Architectures**
+***By popular knowledge***
 - Fully Static - HTML, CSS, Web Server
 - Dynamic - Frontend + Backend
 - [[Single Page Application]] - HTML, CSS are generated dynamically on client side
 - [[JAMStack]] - JavaScript, API, Markup: Basically decoupling frontend and backend
-**By type**
+
+***By functional categorization***
 SSR: Server side rendering, CSR: Client side rendering
 SPA: Single-page application, MPA: Multi-Page application
 - SSR MPA - Fullstack (e.g. Django, Wordpress)
