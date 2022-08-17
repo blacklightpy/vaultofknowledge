@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Creative and Recreational/Computer Aided Design.md",
+            "file": "UI Design.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Creative and Recreational/Computer Aided Design.md",
+                "file": "UI Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Creative and Recreational/Computer Aided Design.md",
+                "file": "UI Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Creative and Recreational/Computer Aided Design.md"
+                "file": "UI Design.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "5dc63ceab2b51ed1",
   "lastOpenFiles": [
-    "Personal/Creative and Recreational/Engineering.md",
-    "Personal/Creative and Recreational/Playlists.md",
-    "Personal/Creative and Recreational/Computer Aided Design.md",
-    "8085.md",
-    "Zettelkasten.md",
-    "Music.md",
-    "Logic Design.md",
-    "Digital Communications.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
-    "Personal/Productivity/Extensions.md"
+    "_images/Pasted image 20220608123008.png",
+    "_images/Pasted image 20220412142513.png",
+    "_images/Pasted image 20220407224750.png",
+    "_images/Pasted image 20220401001446.png",
+    "_images/Pasted image 20220331153215.png",
+    "_images/Pasted image 20220331153115.png",
+    "_images/Pasted image 20220331153104.png",
+    "_images/Pasted image 20220108225418.png",
+    "_images/BigPicture.png",
+    "_images/New Project Methodology with Agile.png"
   ]
 }
