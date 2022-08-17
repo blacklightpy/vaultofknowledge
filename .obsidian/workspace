@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Tools.md",
+            "file": "Serverless Architecture.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Tools.md",
+                "file": "Serverless Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Tools.md",
+                "file": "Serverless Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Tools.md"
+                "file": "Serverless Architecture.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Tools.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JavaScript.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JS Frameworks.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
@@ -147,7 +148,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/CSS.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Stylesheets.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Angular.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/React.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/React.md"
   ]
 }
