@@ -1,5 +1,5 @@
 https://nick.groenen.me/ - Good resume, values and digital garden (not my style)
-
+https://rayhightower.com/blog/2016/01/02/jekyll-github-lunrjs/ - Jekyll, gh-pages, lunr.js (Search)
 # Design ideas
 ## Goals
 Primary Goal: Share information | Write a blog
