@@ -8,7 +8,10 @@ CRM (Customer Relationship Management):
 - eg: Bittrix24 (also has CMS)
 
 **Web Architectures**
-JAMStack - JavaScript, API, Markup
+- Fully Static - HTML, CSS, Web Server
+- Dynamic - Frontend + Backend
+- Single-Page application - HTML, CSS are generated dynamically on client side
+- JAMStack - JavaScript, API, Markup
 
 **Popular Web Stacks:**
 LAMP - Linux, Apache, MySQL, PHP/Perl/Python
