@@ -6,7 +6,7 @@ https://rayhightower.com/blog/2016/01/02/jekyll-github-lunrjs/ - Jekyll, gh-page
 Primary Goal: Share information | Write a blog
 
 **Sharing Information**
-Goals Level 1:
+*Goals Level 1:*
 - Knowledgebase should support backlink views
 - Search functionality for notes
 Goals Level 2:
