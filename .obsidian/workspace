@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Graphics.md",
+            "file": "Personal Website Ideas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics.md",
+                "file": "Personal Website Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics.md",
+                "file": "Personal Website Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics.md"
+                "file": "Personal Website Ideas.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "Graphics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/GNSS Modules.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Global Positioning System.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/GNSS Bands.md",
@@ -139,7 +140,6 @@
     "Personal/Knowledge/Photo Editing.md",
     "Personal/Knowledge/Photography.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGA.md",
-    "Ideas for business.md",
-    "SEO.md"
+    "Ideas for business.md"
   ]
 }

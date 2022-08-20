@@ -11,7 +11,7 @@ https://rayhightower.com/blog/2016/01/02/jekyll-github-lunrjs/ - Jekyll, gh-page
 Goals Level 2:
 - Should show graph of interconnections. Useful for large data.
 **Writing blog**
-- Use categories to your advantage
+- Use categories (and tags?) to your advantage
 - Personal life, creative writing, ideas
 
 ## Organization ideas
