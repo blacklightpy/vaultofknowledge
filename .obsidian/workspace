@@ -130,14 +130,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3b1aaedb77240007",
+  "active": "06d24820df6e1e15",
   "lastOpenFiles": [
     "Personal/Customization/Obsidian Settings.md",
     "Software.md",
