@@ -127,19 +127,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "d20ce981f3f0a6f3",
+  "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "JAMStack.md",
+    "Web Design and Marketing.md",
+    "SEO.md",
+    "Ideas for business.md",
+    "Web Platforms Glossary.md",
+    "Cloud Infrastructure Costs.md",
+    "Faas.md",
+    "Control Panels.md",
     "home.md",
-    "Hello Worlds.md",
-    "Personal/Customization/Obsidian Settings.md",
-    "Software.md",
-    "To Fill.md",
-    "Personal/Productivity/Presentation Tips Summary.md",
-    "Personal/Productivity/Knowledge Management.md",
-    "Personal/Productivity/Productivity Tips.md",
-    "Personal/Productivity/Extensions.md",
-    "Personal/Creative and Recreational/3D Modelling.md"
+    "Hello Worlds.md"
   ]
 }
