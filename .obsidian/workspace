@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home.md",
+            "file": "Personal Website Ideas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Personal Website Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Personal Website Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "Personal Website Ideas.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
-    "_images/Pasted image 20220331153115.png",
     "home.md",
+    "_images/Pasted image 20220331153115.png",
     "JAMStack.md",
     "Web Design and Marketing.md",
     "SEO.md",
