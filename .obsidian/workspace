@@ -7,12 +7,9 @@
         "id": "3b1aaedb77240007",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "home.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "_images/Pasted image 20220331153115.png"
           }
         }
       }
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "_images/Pasted image 20220331153115.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "_images/Pasted image 20220331153115.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,20 +115,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "_images/Pasted image 20220331153115.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
+    "home.md",
     "JAMStack.md",
     "Web Design and Marketing.md",
     "SEO.md",
@@ -140,7 +136,6 @@
     "Cloud Infrastructure Costs.md",
     "Faas.md",
     "Control Panels.md",
-    "home.md",
     "Hello Worlds.md"
   ]
 }
