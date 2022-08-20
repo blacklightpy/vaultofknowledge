@@ -122,14 +122,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "6375585ff394484e",
+  "active": "3298e62d4c40f851",
   "lastOpenFiles": [
     "Personal Website Ideas.md",
     "home.md",
