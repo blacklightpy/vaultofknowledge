@@ -30,7 +30,7 @@ Obviously, this is for debugging, and not for production.
 
 ### `RUN` vs `CMD` vs `ENTRYPOINT`
 
-| | No ENTRYPOINT| ENTRYPOINT exec_entry p1_entry| ENTRYPOINT ["exec_entry", "p1_entry]|
+| | No ENTRYPOINT| ENTRYPOINT exec_entry p1_entry| ENTRYPOINT ["exec_entry", "p1_entry"]|
 |---|---|---|---|
 | No CMD| error, not allowed| /bin/sh -c exec_entry p1_entry| exec_entry p1_entry|
 | CMD ["exec_cmd", "p1_cmd"]| exec_cmd p1_cmd| /bin/sh -c exec_entry p1_entry| exec_entry p1_entry exec_cmd p1_cmd|

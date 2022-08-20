@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Customization/Obsidian Plugins.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
+    "Personal/Customization/Obsidian Themes.md",
+    "Personal/Customization/Obsidian Plugins.md",
     "Personal/Productivity/Extensions.md",
     "Personal/Productivity/Knowledge Management.md",
     "2022-08-20.md",
     "Personal/Software Toolkit.md",
     "Personal/Social Media/For Visual Content.md",
-    "Maps of Content.md",
-    "Personal Website Ideas.md",
-    "Graphics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/GNSS Modules.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Global Positioning System.md"
+    "Maps of Content.md"
   ]
 }
