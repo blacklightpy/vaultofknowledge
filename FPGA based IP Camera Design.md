@@ -1,1 +1,0 @@
-https://www.einfochips.com/wp-content/uploads/resources/FPGA-based-UltraHD.pdf
