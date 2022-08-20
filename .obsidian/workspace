@@ -7,13 +7,8 @@
         "id": "6375585ff394484e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Software Toolkit.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Software Toolkit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Software Toolkit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Software Toolkit.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,8 +120,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6375585ff394484e",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Personal/Software Toolkit.md",
     "Personal/Social Media/For Visual Content.md",
     "Maps of Content.md",
     "Personal Website Ideas.md",
@@ -139,7 +131,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Global Positioning System.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/GNSS Bands.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Modulation.md",
-    "World Building/Science and Engineering/Mathematics/Algorithms/Dead Reckoning.md",
-    "Personal/Knowledge/Photo Editing.md"
+    "World Building/Science and Engineering/Mathematics/Algorithms/Dead Reckoning.md"
   ]
 }
