@@ -1,10 +1,10 @@
-Hi there! This method of taking notes is called a Zettelkasten, or connected atomic notes. It is more commonly referred to as a second brain. The purpose of taking notes this way is to build a lifelong store of information.
+Hi there! This method of taking notes is called a [[Zettelkasten]], or connected atomic notes. It is more commonly referred to as a second brain. The purpose of taking notes this way is to build a lifelong store of information.
 
 You can explore the notes using the graph, sidebar index (at the bottom for mobiles), search bar and links within pages.
 
 I wrote the notes myself in Obsidian, but I used [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) for publishing the vault because I was too lazy to write my own publishing system. I couldn't upload it as it is because then the markdown formatting wouldn't get rendered. 
 
-So this site isn't perfect.
+So this site isn't perfect (as I want it to be).
 
 **Why did I publish this now, then?**
 - I wanted to publish this since February this year, but I waited for writing my own publishing system, but I got busier with college work, and decided that it's better to do something rather than waiting to make it perfect and not doing anything.
