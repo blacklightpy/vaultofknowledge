@@ -1,4 +1,4 @@
-Hi there! This method of taking notes is called a Zettelkasten, a form of connected atomic notes. It is more commonly referred to as a second brain.
+Hi there! This method of taking notes is called a Zettelkasten, or connected atomic notes. It is more commonly referred to as a second brain. The purpose of taking notes this way is to build a lifelong store of information.
 
 You can explore the notes using the graph, sidebar index (at the bottom for mobiles), search bar and links within pages.
 
