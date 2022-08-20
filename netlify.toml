@@ -19,7 +19,7 @@ SITE_TITLE = "My personal knowledgebase"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "protechbook.in"
+SITE_URL = "jk-knowledgebase.netlify.in"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Kolkata"
 ZOLA_VERSION = "0.15.2"
