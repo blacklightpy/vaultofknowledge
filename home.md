@@ -1,3 +1,7 @@
-Hi! Welome to my knowledgebase. This method of taking notes is
+Hi there!
+This method of taking notes is called a Zettelkasten, or more commonly known as a second brain.
 
-I don't know how this will look when published.
+Why did I publish this publicly?
+- Because
+
+Currently this site has a number of issues.
