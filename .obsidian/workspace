@@ -7,8 +7,13 @@
         "id": "6375585ff394484e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Customization/Obsidian Plugins.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Customization/Obsidian Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Customization/Obsidian Plugins.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Customization/Obsidian Plugins.md"
+              }
             }
           }
         ]
@@ -120,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "Personal/Productivity/Extensions.md",
+    "Personal/Productivity/Knowledge Management.md",
+    "2022-08-20.md",
     "Personal/Software Toolkit.md",
     "Personal/Social Media/For Visual Content.md",
     "Maps of Content.md",
     "Personal Website Ideas.md",
     "Graphics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/GNSS Modules.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Global Positioning System.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/GNSS Bands.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Modulation.md",
-    "World Building/Science and Engineering/Mathematics/Algorithms/Dead Reckoning.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Global Positioning System.md"
   ]
 }
