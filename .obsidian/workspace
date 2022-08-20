@@ -90,22 +90,14 @@
             }
           },
           {
-            "id": "06d24820df6e1e15",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d20ce981f3f0a6f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -137,8 +129,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "06d24820df6e1e15",
+  "active": "d20ce981f3f0a6f3",
   "lastOpenFiles": [
+    "home.md",
+    "Hello Worlds.md",
     "Personal/Customization/Obsidian Settings.md",
     "Software.md",
     "To Fill.md",
@@ -146,8 +140,6 @@
     "Personal/Productivity/Knowledge Management.md",
     "Personal/Productivity/Productivity Tips.md",
     "Personal/Productivity/Extensions.md",
-    "Personal/Creative and Recreational/3D Modelling.md",
-    "Personal/Creative and Recreational/Maya.md",
-    "Personal/Creative and Recreational/Playlists.md"
+    "Personal/Creative and Recreational/3D Modelling.md"
   ]
 }
