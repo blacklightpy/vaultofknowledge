@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal Website Ideas.md",
+            "file": "Ideas for business.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Website Ideas.md",
+                "file": "Ideas for business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Website Ideas.md",
+                "file": "Ideas for business.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Website Ideas.md"
+                "file": "Ideas for business.md"
               }
             }
           }
@@ -132,6 +131,8 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "SEO.md",
+    "Personal Website Ideas.md",
     "World Building/Creation of Drones.md",
     "Single Page Application.md",
     "Static site generators.md",
@@ -139,8 +140,6 @@
     "JAMStack.md",
     "Web Design and Marketing.md",
     "Control Panels.md",
-    "Useful Docker Containers.md",
-    "home.md",
-    "Hello Worlds.md"
+    "Useful Docker Containers.md"
   ]
 }
