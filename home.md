@@ -2,7 +2,7 @@ Hi there! This method of taking notes is called a [[Zettelkasten]], or connected
 
 You can explore the notes using the graph, sidebar index (at the bottom for mobiles), search bar and links within pages.
 
-I wrote the notes myself in Obsidian, but I used *obsidian-zola* for publishing the vault because I was too lazy to write my own publishing system. I couldn't upload it as it is because then the markdown formatting wouldn't get rendered. 
+I wrote the notes myself in Obsidian, but I used [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) for publishing the vault because I was too lazy to write my own publishing system. I couldn't upload it as it is because then the markdown formatting wouldn't get rendered. 
 
 So this site isn't perfect (as I want it to be).
 
