@@ -127,19 +127,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
     "Personal Website Ideas.md",
     "home.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "_images/Pasted image 20220331153115.png",
     "JAMStack.md",
     "Web Design and Marketing.md",
     "SEO.md",
     "Ideas for business.md",
-    "Web Platforms Glossary.md",
-    "Cloud Infrastructure Costs.md",
-    "Faas.md"
+    "Web Platforms Glossary.md"
   ]
 }
