@@ -1,5 +1,6 @@
 https://nick.groenen.me/ - Good resume, values and digital garden (not my style)
 https://rayhightower.com/blog/2016/01/02/jekyll-github-lunrjs/ - Jekyll, gh-pages, lunr.js (Search)
+ https://zettelkasten.sorenbjornstad.com/ uses https://sobjornstad.github.io/tzk/, a TiddlyWiki mod
 # Design ideas
 ## Goals
 Primary Goal: Share information | Write a blog
@@ -26,8 +27,18 @@ Goals Level 2:
 - Use a static site generator Jekyll
 - ! forgot
 - Use a CMS like Wordpress, for WP themes (overkill, masochism)
+
 # Tools
 - Obsidian wikilinks to MD links converter (Rust) - https://github.com/zoni/obsidian-export/
+- Markdown to HTML - https://zapier.com/blog/markdown-html-export/
+- Zettelkasten for WP - Slippy WP Plugin
 
-**Need**
+### Needed Features
+
+**Knowledgebase**
 - LaTeX plugin for math
+- [Optional] Chat for Zettelkasten
+
+**Blog**
+- RSS
+- Convert tweet replies to WP Comments (for Blog)
