@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home.md",
+            "file": "Real Time Kinematic.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Real Time Kinematic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Real Time Kinematic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "Real Time Kinematic.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
-    "Personal Website Ideas.md",
+    "Software Toolkit.md",
+    "Algorithms Used by Google Search.md",
+    "FPGA based IP Camera Design.md",
     "home.md",
+    "Personal Website Ideas.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "_images/Pasted image 20220331153115.png",
     "JAMStack.md",
-    "Web Design and Marketing.md",
-    "SEO.md",
-    "Ideas for business.md",
-    "Web Platforms Glossary.md"
+    "Web Design and Marketing.md"
   ]
 }
