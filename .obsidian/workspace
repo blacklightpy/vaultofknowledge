@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas for business.md",
+            "file": "home.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas for business.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas for business.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas for business.md"
+                "file": "home.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "3b1aaedb77240007",
   "lastOpenFiles": [
-    "Cloud Infrastructure Costs.md",
-    "Hello Worlds.md",
-    "Hosting Platforms.md",
-    "Web Platforms Glossary.md",
-    "Useful Docker Containers.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Containerization Tech.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Kubernetes.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
-    "Control Panels.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md"
+    "Personal/Customization/Obsidian Settings.md",
+    "Software.md",
+    "To Fill.md",
+    "Personal/Productivity/Presentation Tips Summary.md",
+    "Personal/Productivity/Knowledge Management.md",
+    "Personal/Productivity/Productivity Tips.md",
+    "Personal/Productivity/Extensions.md",
+    "Personal/Creative and Recreational/3D Modelling.md",
+    "Personal/Creative and Recreational/Maya.md",
+    "Personal/Creative and Recreational/Playlists.md"
   ]
 }
