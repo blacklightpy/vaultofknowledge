@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test 1.md",
+            "file": "Hosting Platforms.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 1.md",
+                "file": "Hosting Platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test 1.md",
+                "file": "Hosting Platforms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test 1.md"
+                "file": "Hosting Platforms.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "Test 1.md",
     "Personal/Productivity/Tools and Extensions.md",
     "Personal/Notion Tools.md",
     "Hosting Platforms.md",
@@ -139,7 +140,6 @@
     "Math Rendering.md",
     "Web Game Development.md",
     "Sketchnoting tools.md",
-    "Personal/Software Toolkit.md",
-    "Personal/Productivity/Productivity Tips.md"
+    "Personal/Software Toolkit.md"
   ]
 }
