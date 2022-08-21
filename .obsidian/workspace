@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hosting Platforms.md",
+            "file": "Personal/Notion Tools.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hosting Platforms.md",
+                "file": "Personal/Notion Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hosting Platforms.md",
+                "file": "Personal/Notion Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hosting Platforms.md"
+                "file": "Personal/Notion Tools.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
-    "Personal/Customization/Obsidian Plugins and Tools.md",
     "Hosting Platforms.md",
+    "Personal/Customization/Obsidian Plugins and Tools.md",
     "Personal/Note Taking Tools.md",
     "Math Rendering.md",
     "Web Game Development.md",
