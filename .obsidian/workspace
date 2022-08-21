@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hosting Platforms.md",
+            "file": "Map of CAO - 4th Semester.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hosting Platforms.md",
+                "file": "Map of CAO - 4th Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hosting Platforms.md",
+                "file": "Map of CAO - 4th Semester.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hosting Platforms.md"
+                "file": "Map of CAO - 4th Semester.md"
               }
             }
           }
@@ -132,14 +132,14 @@
   "active": "6375585ff394484e",
   "lastOpenFiles": [
     "Untitled.md",
-    "Maps of Content.md",
+    "Map of CAO - 4th Semester.md",
     "Hosting Platforms.md",
+    "Maps of Content.md",
     "Matrix Protocol.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
     "Personal/Customization/Obsidian Themes.md",
     "Personal/Customization/Obsidian Plugins.md",
-    "Personal/Productivity/Extensions.md",
-    "Personal/Productivity/Knowledge Management.md"
+    "Personal/Productivity/Extensions.md"
   ]
 }
