@@ -1,3 +1,10 @@
 **Libraries**
-- KaTeX - for TeX/LaTeX
-- MathJax - TeX/LaTeX, MathML and AsciiMath
+
+- KaTeX
+	- Input: TeX/LaTeX
+	- Output: HTML
+	- Notes: Faster than MathJax
+- MathJax
+	- Input: TeX/LaTeX, MathML and AsciiMath
+	- Output: HTML, SVG and MathML
+
