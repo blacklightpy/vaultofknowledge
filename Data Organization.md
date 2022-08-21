@@ -12,3 +12,6 @@ But then as the number of notes increase, the organizational structure of folder
 A system that always does this upon addition of nw information could be define to be in a state of perfect sort. But for quick recall, we'll have to memorize the categorizations each time, and that is infeasible for a structure that's constantly changing.
 
 
+- Files in a folder, aside from just notes here, can be of different types. That too matters when it comes to making new folders.
+
+- Don't go too hard on organizing. Have fun with it.
