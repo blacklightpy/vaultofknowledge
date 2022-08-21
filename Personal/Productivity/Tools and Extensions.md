@@ -1,4 +1,4 @@
 [[Web Extensions]]
-[[Obsidian Plugins]]
+[[Obsidian Plugins and Tools]]
 [[Notion Tools]]
 
