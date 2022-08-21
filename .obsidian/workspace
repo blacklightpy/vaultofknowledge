@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hosting",
+                "query": "knowledge ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6375585ff394484e",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "Untitled.md",
     "Map of CAO - 4th Semester.md",
