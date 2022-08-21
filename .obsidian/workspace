@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Note Taking Tools.md",
+            "file": "Math Rendering.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Note Taking Tools.md",
+                "file": "Math Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Note Taking Tools.md",
+                "file": "Math Rendering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Note Taking Tools.md"
+                "file": "Math Rendering.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
-    "Sketchnoting tools.md",
+    "Web Game Development.md",
+    "Math Rendering.md",
     "Personal/Note Taking Tools.md",
+    "Sketchnoting tools.md",
     "Personal/Software Toolkit.md",
     "Personal/Productivity/Productivity Tips.md",
     "Personal/Productivity/Knowledge Management.md",
     "Personal/Creative and Recreational/To Learn.md",
-    "Web Game Development.md",
     "Personal/Customization/Obsidian Plugins.md",
-    "Personal/Notion Tools.md",
-    "Personal/Productivity/Tools and Extensions.md"
+    "Personal/Notion Tools.md"
   ]
 }
