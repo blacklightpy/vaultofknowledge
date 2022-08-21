@@ -3,3 +3,4 @@
 * rues - streets
 * important(e) - important
 * dois - must
+* marcher - to walk
