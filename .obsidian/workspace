@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Map of CAO - 4th Semester.md",
+            "file": "Personal/Productivity/Productivity Tips.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map of CAO - 4th Semester.md",
+                "file": "Personal/Productivity/Productivity Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map of CAO - 4th Semester.md",
+                "file": "Personal/Productivity/Productivity Tips.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map of CAO - 4th Semester.md"
+                "file": "Personal/Productivity/Productivity Tips.md"
               }
             }
           }
@@ -130,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Personal/Productivity/Knowledge Management.md",
     "Map of CAO - 4th Semester.md",
+    "Untitled.md",
     "Hosting Platforms.md",
     "Maps of Content.md",
     "Matrix Protocol.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
     "Personal/Customization/Obsidian Themes.md",
-    "Personal/Customization/Obsidian Plugins.md",
-    "Personal/Productivity/Extensions.md"
+    "Personal/Customization/Obsidian Plugins.md"
   ]
 }
