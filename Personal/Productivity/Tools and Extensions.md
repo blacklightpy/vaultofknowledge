@@ -8,4 +8,4 @@
 - [SPACE] Lifeat.io
 - [OUTLINER] Workflowy
 - [STICKIES] Zoho Notes
-- [ZEN] [focusd](https://focusd.app/) - Infinite Outliner + Timeblocker + Calendar (+ Focus Mode)
+- [ZEN]  [focusd](https://focusd.app/) - Infinite Outliner + Timeblocker + Calendar (+ Focus Mode)
