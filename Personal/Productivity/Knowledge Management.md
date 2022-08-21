@@ -9,3 +9,6 @@
 - https://gordonbrander.com/pattern 
 - https://subconscious.substack.com/p/all-you-need-is-links?s=r
 
+### Where to take notes
+- Obsidian - Git - Website Sync for Personal
+- Obsidian

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Organization.md",
+            "file": "Personal/Productivity/Knowledge Management.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Organization.md",
+                "file": "Personal/Productivity/Knowledge Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Organization.md",
+                "file": "Personal/Productivity/Knowledge Management.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Organization.md"
+                "file": "Personal/Productivity/Knowledge Management.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "Personal/Personal Website Ideas.md",
+    "Data Organization.md",
     "Personal/Productivity/Productivity Tips.md",
     "Personal/Productivity/Knowledge Management.md",
     "Map of CAO - 4th Semester.md",
-    "Data Organization.md",
     "Hosting Platforms.md",
     "Maps of Content.md",
     "Matrix Protocol.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
-    "Personal/Customization/Obsidian Themes.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md"
   ]
 }
