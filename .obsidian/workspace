@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test 1.md",
+            "file": "French.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 1.md",
+                "file": "French.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test 1.md",
+                "file": "French.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test 1.md"
+                "file": "French.md"
               }
             }
           }
@@ -132,7 +132,7 @@
   "active": "6375585ff394484e",
   "lastOpenFiles": [
     "Hosting Platforms.md",
-    "Test 1.md",
+    "French.md",
     "Personal/Productivity/Tools and Extensions.md",
     "Personal/Notion Tools.md",
     "Personal/Customization/Obsidian Plugins and Tools.md",
