@@ -1,6 +1,6 @@
 Tags: #ideas #knowledge-management #database
 
-Folders are like boxes
+Folders are like boxes.
 Too many folders and it becomes harder to find data.
 Too less folders and it becomes harder to find data.
 
