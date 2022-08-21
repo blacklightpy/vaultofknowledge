@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Productivity/Knowledge Management.md",
+            "file": "Personal/Notion Tips.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knowledge ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Productivity/Knowledge Management.md",
+                "file": "Personal/Notion Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Productivity/Knowledge Management.md",
+                "file": "Personal/Notion Tips.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Productivity/Knowledge Management.md"
+                "file": "Personal/Notion Tips.md"
               }
             }
           }
@@ -131,10 +131,10 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "Personal/Productivity/Knowledge Management.md",
     "Personal/Personal Website Ideas.md",
     "Data Organization.md",
     "Personal/Productivity/Productivity Tips.md",
-    "Personal/Productivity/Knowledge Management.md",
     "Map of CAO - 4th Semester.md",
     "Hosting Platforms.md",
     "Maps of Content.md",
