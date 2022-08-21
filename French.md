@@ -1,6 +1,6 @@
 **Notes from 21-Aug (till I take back French note from home)**
 
 * rues - streets
-* important(e) - important
+* important - important
 * dois - must
 * marcher - to walk
