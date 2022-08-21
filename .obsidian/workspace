@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Note Taking Tools.md",
+            "file": "Hosting Platforms.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Note Taking Tools.md",
+                "file": "Hosting Platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Note Taking Tools.md",
+                "file": "Hosting Platforms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Note Taking Tools.md"
+                "file": "Hosting Platforms.md"
               }
             }
           }
@@ -131,9 +131,9 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "Personal/Note Taking Tools.md",
     "Math Rendering.md",
     "Web Game Development.md",
-    "Personal/Note Taking Tools.md",
     "Sketchnoting tools.md",
     "Personal/Software Toolkit.md",
     "Personal/Productivity/Productivity Tips.md",
