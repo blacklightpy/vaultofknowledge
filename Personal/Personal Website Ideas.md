@@ -25,7 +25,7 @@ Goals Level 2:
 - Use a static site generator like Jekyll
 - ! forgot
 - Use a CMS like Wordpress, for WP themes (overkill, masochism)
-**Revenue for knowledgebase and ideas: **
+**Revenue for knowledgebase and ideas:**
 - Buy Me A Coffee (no patreon bec I'm not working full time)
 
 # Tools
