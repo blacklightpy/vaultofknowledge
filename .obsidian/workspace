@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "French.md",
+            "file": "Java Game Development.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "French.md",
+                "file": "Java Game Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "French.md",
+                "file": "Java Game Development.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "French.md"
+                "file": "Java Game Development.md"
               }
             }
           }
@@ -131,9 +131,9 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
+    "French.md",
     "Maps of Content.md",
     "Hosting Platforms.md",
-    "French.md",
     "Personal/Productivity/Tools and Extensions.md",
     "Personal/Notion Tools.md",
     "Personal/Customization/Obsidian Plugins and Tools.md",
