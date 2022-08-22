@@ -1,7 +1,7 @@
 ## Module I
 
 ## Module II
-Cauchy’s integral theorem
+[[Cauchy’s integral theorem]]
 Cauchy’s integral formula and for derivatives
 Taylor’s and Laurent’s expansion (without proof)
 Singularities
