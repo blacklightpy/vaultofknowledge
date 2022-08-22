@@ -1,6 +1,14 @@
+**Platform**
+- Java ME (Java Platform, Micro Edition)
+	- formerly J2ME (Java 2 Platform, Micro Edition)
+- MIDP 2.0
+
 **APIs**
 - JSR 184: Mobile 3D Graphics API for J2METM
 
 **Libraries**
 - LWUIT (Lightweight UI Toolkit)
 - Swing
+
+### Reading
+- LWUIT: https://blog.jayway.com/2008/05/01/lwuit-an-introduction/
