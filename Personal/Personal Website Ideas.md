@@ -2,7 +2,7 @@
 - https://nick.groenen.me/ - Good resume, values and digital garden (not my style)
 - https://rayhightower.com/blog/2016/01/02/jekyll-github-lunrjs/ - Jekyll, gh-pages, lunr.js (Search)
  - https://zettelkasten.sorenbjornstad.com/ uses https://sobjornstad.github.io/tzk/, a TiddlyWiki mod
- - https://dsebastien.net/ and https://updates.dsebastien.net/
+ - https://dsebastien.net/, https://dsebastien.net/blog and https://updates.dsebastien.net/
 # Design ideas
 ## Goals
 **Sharing Information**
