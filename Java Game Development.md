@@ -11,5 +11,10 @@
 - LWUIT (Lightweight UI Toolkit)
 - Swing
 
+**Deployment**
+- Java Applets (deprecated)
+- JNLP (Java Web Start)
+- OpenWebStart
+
 ### Reading
 - LWUIT: https://blog.jayway.com/2008/05/01/lwuit-an-introduction/
