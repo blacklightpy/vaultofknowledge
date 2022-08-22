@@ -1,7 +1,8 @@
 **Inspirations**
-https://nick.groenen.me/ - Good resume, values and digital garden (not my style)
-https://rayhightower.com/blog/2016/01/02/jekyll-github-lunrjs/ - Jekyll, gh-pages, lunr.js (Search)
- https://zettelkasten.sorenbjornstad.com/ uses https://sobjornstad.github.io/tzk/, a TiddlyWiki mod
+- https://nick.groenen.me/ - Good resume, values and digital garden (not my style)
+- https://rayhightower.com/blog/2016/01/02/jekyll-github-lunrjs/ - Jekyll, gh-pages, lunr.js (Search)
+ - https://zettelkasten.sorenbjornstad.com/ uses https://sobjornstad.github.io/tzk/, a TiddlyWiki mod
+ - https://dsebastien.net/ and https://updates.dsebastien.net/
 # Design ideas
 ## Goals
 **Sharing Information**
@@ -32,7 +33,7 @@ Goals Level 2:
 - Obsidian wikilinks to MD links converter (Rust) - https://github.com/zoni/obsidian-export/
 - Markdown to HTML - https://zapier.com/blog/markdown-html-export/
 - Zettelkasten for WP - Slippy WP Plugin
-- obsidian-zola - Includes obsidian-export, LaTeX and netlify support
+- obsidian-zola - Includes obsidian-export, KaTeX and elasticlunr.js
 
 ### Needed Features
 
