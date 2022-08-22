@@ -1,5 +1,5 @@
 **Zettelkasten**
-Obsidian | Typora | Zettlr | Notion | Craft
+Obsidian | Typora | Zettlr | Notion
 
 **Sticky Notes**
 Sticky Notes | Zoho Notebooks | Samsung Notes | Mi Notes | Google Keep
