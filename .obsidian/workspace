@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zettelkasten.md",
+            "file": "Data Organization.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Data Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Data Organization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten.md"
+                "file": "Data Organization.md"
               }
             }
           }
@@ -129,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6375585ff394484e",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Logic Design.md",
-    "Zettelkasten.md",
+    "Personal/Note Taking Tools.md",
     "Personal/Personal Website Ideas.md",
+    "Personal/Customization/Obsidian Plugins and Tools.md",
+    "Zettelkasten.md",
+    "Logic Design.md",
     "Personal/Productivity/Presentation Tips Summary.md",
     "Personal/Web Extensions.md",
     "Personal/Productivity/Tools and Extensions.md",
     "Java Phone Programming.md",
-    "Java Game Development.md",
-    "French.md",
-    "Maps of Content.md"
+    "Java Game Development.md"
   ]
 }

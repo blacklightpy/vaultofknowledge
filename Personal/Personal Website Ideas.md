@@ -34,6 +34,7 @@ Goals Level 2:
 - Markdown to HTML - https://zapier.com/blog/markdown-html-export/
 - Zettelkasten for WP - Slippy WP Plugin
 - obsidian-zola - Includes obsidian-export, KaTeX and elasticlunr.js
+- Refer [[Obsidian Plugins and Tools]] too
 
 ### Needed Features
 

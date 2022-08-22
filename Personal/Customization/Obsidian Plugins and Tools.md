@@ -7,7 +7,7 @@
 	- [CHECK] Starred in Github, and Awesome Obsidian in Awesome Awesomes
 	- [TOOL] obsidian-zola
 	- [TOOL] Quartz
-	- [TOOL] Neuron/Emanote
+	- [TOOL] Neuron/Emanote (Search powered by Stork)
 	- [PLUGIN] Digital Gardern Plugin
 
 **From Medium articles**

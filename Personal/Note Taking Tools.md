@@ -1,24 +1,18 @@
 **Zettelkasten**
-- Obsidian
-- Typora
-- Zettlr
-- Notion
+Obsidian | Typora | Zettlr | Notion | Craft
+
 **Sticky Notes**
-- Sticky Notes
-- Zoho Notebooks
-- Samsung Notes
-- Mi Notes
-- Google Keep
+Sticky Notes | Zoho Notebooks | Samsung Notes | Mi Notes | Google Keep
+
 **Sketchnotes**
-- Excalidraw (JSON format)
-- Draw.io (SVG export)
-- OneNote
+Excalidraw (JSON format) | OneNote
+
 **Diagrams**
-Diagrams.net
+Diagrams.net (formerly Draw.io; SVG export)
+
 **Mind-maps**
-- Whimsical
+Whimsical
+
 **Dashboards**
-- Notion
-- HTML/JS
-- TiddlyWiki
+Notion | HTML/JS | TiddlyWiki
 
