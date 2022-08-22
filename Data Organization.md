@@ -12,3 +12,6 @@ A system that always does this upon addition of new information could be define 
 
 - Files in a folder, aside from just notes here, can be of different types. That too matters when it comes to making new folders.
 - Don't go too hard on organizing. Have fun with it. Otherwise no one would've come up with new methods.
+
+**Use numbering like MIT Courses**
+- e.g. [60.01] Topic A, [60.02] Topic B, etc. with predefined category numbers
