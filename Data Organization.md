@@ -15,3 +15,5 @@ A system that always does this upon addition of new information could be define 
 
 **Use numbering like MIT Courses**
 - e.g. [60.01] Topic A, [60.02] Topic B, etc. with predefined category numbers
+- A system: https://johnnydecimal.com/
+	- Exceptions: https://johnnydecimal.com/concepts/exceptions-to-the-rules/
