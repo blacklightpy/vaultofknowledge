@@ -122,14 +122,14 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3298e62d4c40f851",
+  "active": "6375585ff394484e",
   "lastOpenFiles": [
     "Map of CVPDE - 4th Semester.md",
     "Cauchy’s integral theorem.md",
