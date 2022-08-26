@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wikipedia Maps.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Logic Design.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wikipedia Maps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Logic Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wikipedia Maps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Logic Design.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wikipedia Maps.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Logic Design.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6375585ff394484e",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Digital Communications.md",
+    "French.md",
+    "Wikipedia Maps.md",
     "Compilers.md",
     "PyPy.md",
     "Jython.md",
     "Cython.md",
     "CPython.md",
     "Map of MP - 4th Semester.md",
-    "Data Organization.md",
-    "Map of CVPDE - 4th Semester.md",
-    "Cauchy’s integral theorem.md",
-    "Map of CAO - 4th Semester.md"
+    "Data Organization.md"
   ]
 }
