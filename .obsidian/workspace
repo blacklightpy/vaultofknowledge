@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cauchy’s integral theorem.md",
+            "file": "CPython.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cauchy’s integral theorem.md",
+                "file": "CPython.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cauchy’s integral theorem.md",
+                "file": "CPython.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cauchy’s integral theorem.md"
+                "file": "CPython.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "6375585ff394484e",
   "lastOpenFiles": [
-    "Map of CAO - 4th Semester.md",
+    "Compilers.md",
     "Map of MP - 4th Semester.md",
-    "Cauchy’s integral theorem.md",
+    "Data Organization.md",
     "Map of CVPDE - 4th Semester.md",
+    "Cauchy’s integral theorem.md",
+    "Map of CAO - 4th Semester.md",
     "Personal/Software Toolkit.md",
     "Personal/Note Taking Tools.md",
     "Personal/Personal Website Ideas.md",
-    "Data Organization.md",
-    "Personal/Customization/Obsidian Plugins and Tools.md",
-    "Zettelkasten.md"
+    "Personal/Customization/Obsidian Plugins and Tools.md"
   ]
 }
