@@ -1,5 +1,5 @@
 # Web Stack
-
+- Database + Backend Framework + Frontend Framework + Backend Language
 # Backend Frameworks
 **PHP**
 Laravel
