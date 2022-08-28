@@ -4,12 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "6375585ff394484e",
+        "id": "9a90e685a2192f1b",
         "type": "leaf",
+        "dimension": 47.666335650446875,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Android Development/Android Run Time.md",
+            "file": "World Building/Science and Engineering/Mathematics/Groups.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6375585ff394484e",
+        "type": "leaf",
+        "dimension": 52.333664349553125,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World Building/Science and Engineering/Mathematics/Finite Fields.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -78,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Development/Android Run Time.md",
+                "file": "World Building/Science and Engineering/Mathematics/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Development/Android Run Time.md",
+                "file": "World Building/Science and Engineering/Mathematics/Groups.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Development/Android Run Time.md"
+                "file": "World Building/Science and Engineering/Mathematics/Groups.md"
               }
             }
           }
@@ -129,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6375585ff394484e",
+  "active": "9a90e685a2192f1b",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Finite Fields.md",
+    "World Building/Science and Engineering/Mathematics/Groups.md",
+    "Android Development/Android Run Time.md",
     "Android Development/Android Internals.md",
     "Android Development/Dalvik.md",
-    "Android Development/Android Run Time.md",
     "Android Development/smali.md",
     "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/Planning Feb 2022/Overview.md",
     "World Building/Science and Engineering/Physics/Stress-Energy Tensor.md",
     "home.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Smartphones.md",
-    "World Building/Science and Engineering/Mathematics/Transcendal Function.md",
-    "World Building/Science and Engineering/Mathematics/Analytic function.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Smartphones.md"
   ]
 }
