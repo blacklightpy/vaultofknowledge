@@ -14,7 +14,7 @@ It can be used in the following ways:
 
 ## Digital signature algorithms
 - DSA (Digital Signature Algorithm)
-- RSA
+- RSA (Rivest-Shamir-Adleman)
 - ECDSA (Elliptic Curve Digital Signature Algorithm)
 
 Tags:
