@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public Key Cryptography.md",
+            "file": "Cryptography.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public Key Cryptography.md",
+                "file": "Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public Key Cryptography.md",
+                "file": "Cryptography.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public Key Cryptography.md"
+                "file": "Cryptography.md"
               }
             }
           }
@@ -132,9 +132,9 @@
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
     "Public Key Infrastructure.md",
-    "Quantum Cryptography.md",
     "Cryptography.md",
     "Public Key Cryptography.md",
+    "Quantum Cryptography.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
     "Personal/Productivity/Setting Zones.md",
     "Personal/Personal Website Ideas.md",
