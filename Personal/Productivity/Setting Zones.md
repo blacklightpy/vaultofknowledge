@@ -1,3 +1,7 @@
+**How to Implement all this?**
+- Multi-Users?
+- Good file management (like 2019)
+
 Graphics Zone
 -------------------------
 ASCII | Blender 3D | Computer Graphics (OpenGL/DirectX) | Image Processing

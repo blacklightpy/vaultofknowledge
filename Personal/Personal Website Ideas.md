@@ -28,6 +28,7 @@ Goals Level 2:
 - Use a CMS like Wordpress, for WP themes (overkill, masochism)
 **Revenue for knowledgebase and ideas:**
 - Buy Me A Coffee (no patreon bec I'm not working full time)
+- Link to socials
 
 # Tools
 - Obsidian wikilinks to MD links converter (Rust) - https://github.com/zoni/obsidian-export/
