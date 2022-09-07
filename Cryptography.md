@@ -1,12 +1,4 @@
-## Types of authentication systems
-- GPG (GNU Privacy Guard) Keys
-- SSH (Secure Shell Host) Keys
-- X.509 Certificates issued by CA for S/MIME Authentication
 
-## Cryptographic algorithms
-- DSA
-- RSA
-- ECDSA
 ## Questions
 **Why do we need cryptography?**
 We need cryptography to:
