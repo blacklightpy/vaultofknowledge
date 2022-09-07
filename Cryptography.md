@@ -1,11 +1,16 @@
+Cryptography is the system of encrypting information.
 
-## Questions
 **Why do we need cryptography?**
 We need cryptography to:
 - Ensure secure communication between two parties
 - Ensure that the message is sent by the same person
 - And to prevent unauthorized access to information
 
+Some of the methods for cryptography are:
+- [[Public Key Cryptography]] (Common)
+- [[Quantum Cryptography]]
+
+# FAQs
 **Why can't we trust self-signed Certificates?**
 We cannot trust certificates that are self-signed, because X.509 certificates are trusted based on the authenticity of the Certificate Authority (CA) issuing the certificate.
 
@@ -20,3 +25,6 @@ In case of self-signed certificates, there can be a Man-in-the-middle attack:
 - Website reads the message believing the message was sent by the user
 
 Reference: https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+
+Tags:
+#cryptography
