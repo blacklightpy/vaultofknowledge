@@ -4,4 +4,10 @@ This is in contrast to using an identity provider such as Google or Facebook to 
 
 This way, the user can have a persistent online identity without having to rely on identity provider.
 
-This is established most commonly using decentralized technologies.
+This is established most commonly using decentralized technologies. They require identities to by synced across devices securely, and this is evolving with support from Operating System companies like Microsoft and Google.
+
+# Implementations
+- FIDO2 by FIDO Alliance
+	- Keys are only locally stored: Local Biometric, PIN or DocAuth
+	- Keys for each website are different, so users cannot be tracked across websites
+	- It can be easily implemented using a simple JS API
