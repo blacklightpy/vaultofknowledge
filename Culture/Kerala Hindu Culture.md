@@ -1,4 +1,5 @@
 # Festivals
-- Onam (Kerala)
+- Onam (Kerala Special)
 - Navaratri
 - Krishna Jayanti
+- Saraswati Puja

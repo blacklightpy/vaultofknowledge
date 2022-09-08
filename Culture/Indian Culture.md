@@ -5,3 +5,6 @@
 - Martyr's Day
 - Children's Day
 - Teacher's Day
+# Festivals
+- Holi
+- Ganesh Chathurthi (Onam alternative outside Kerala)
