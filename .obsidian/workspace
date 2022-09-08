@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Self Sovereign Identity.md",
+            "file": "Web3 To-Do.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Sovereign Identity.md",
+                "file": "Web3 To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Sovereign Identity.md",
+                "file": "Web3 To-Do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Sovereign Identity.md"
+                "file": "Web3 To-Do.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
-    "Web3 To-Do.md",
     "Self Sovereign Identity.md",
+    "Web3 To-Do.md",
     "words I learned today.md",
     "Public Key Infrastructure.md",
     "Web of Trust.md",

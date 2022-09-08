@@ -19,6 +19,7 @@ Keywords: DKMS
 	- Keys for each website are different, so users cannot be tracked across websites
 	- It can be easily implemented using a simple JS API
 - Sovrin
+	- Built on Hyperledger Indy, a DLT specifically built for decentralized identity
 
 Links:
 [[Web of Trust]]
