@@ -11,3 +11,8 @@ This is established most commonly using decentralized technologies. They require
 	- Keys are only locally stored: Local Biometric, PIN or DocAuth
 	- Keys for each website are different, so users cannot be tracked across websites
 	- It can be easily implemented using a simple JS API
+
+Links:
+[[Web of Trust]]
+Tags:
+#cryptography 
