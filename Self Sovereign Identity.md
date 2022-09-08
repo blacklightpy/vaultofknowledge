@@ -18,6 +18,7 @@ Keywords: DKMS
 	- Keys are only locally stored: Local Biometric, PIN or DocAuth
 	- Keys for each website are different, so users cannot be tracked across websites
 	- It can be easily implemented using a simple JS API
+- Sovrin
 
 Links:
 [[Web of Trust]]
