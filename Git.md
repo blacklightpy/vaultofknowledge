@@ -5,8 +5,8 @@ Git is a lightweight version control system. It is:
 
 # Key Features of Git
 ## Local
-- Staging
-- Commits
+- Staging `git add <files/directory`
+- Commits `git commit [(-m <msg>) | (--amend)]` 
 - Branching
 	- Create Branch
 	- Switch branches (or checkout)
