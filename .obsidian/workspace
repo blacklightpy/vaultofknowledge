@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Public Key Infrastructure.md",
+            "file": "Self Sovereign Identity.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Public Key Infrastructure.md",
+                "file": "Self Sovereign Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Public Key Infrastructure.md",
+                "file": "Self Sovereign Identity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Public Key Infrastructure.md"
+                "file": "Self Sovereign Identity.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
-    "Self Sovereign Identity.md",
     "Public Key Infrastructure.md",
+    "Self Sovereign Identity.md",
     "Web of Trust.md",
     "Cryptography.md",
     "Public Key Cryptography.md",
