@@ -3,7 +3,6 @@ Git is a lightweight version control system. It is:
 - Allows collaboration
 - Highly optimized
 
-
 # Key Features of Git
 ## Local
 - Staging
