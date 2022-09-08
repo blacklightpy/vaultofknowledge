@@ -4,3 +4,4 @@ Keywords to explore:
 - DIDs
 - DAOs
 - DeFi
+- DLTs
