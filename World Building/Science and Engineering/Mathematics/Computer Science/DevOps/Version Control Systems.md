@@ -1,5 +1,5 @@
 - Mercurial
-- Git
+- [[Git]]
 - Bazaar
 - Subversion
 - Gitless
