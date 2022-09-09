@@ -7,12 +7,9 @@
         "id": "a11bcc3271962091",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "Drawing 2022-09-09 21.10.35.excalidraw.md"
           }
         }
       }
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Drawing 2022-09-09 21.10.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Drawing 2022-09-09 21.10.35.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Drawing 2022-09-09 21.10.35.excalidraw.md"
               }
             }
           }
@@ -129,12 +126,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "a11bcc3271962091",
   "lastOpenFiles": [
-    "Drawing 2022-09-09 21.05.59.excalidraw.md",
     "Untitled.md",
-    "Drawing 2022-09-09 21.03.56.excalidraw.md",
     "Web3 To-Do.md",
+    "Drawing 2022-09-09 21.05.59.excalidraw.md",
+    "Drawing 2022-09-09 21.03.56.excalidraw.md",
     "_images/Untitled 2022-09-09 21.03.22.excalidraw.md",
     "Graphics and GUI Development/Graphics Libraries.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Security.md",
