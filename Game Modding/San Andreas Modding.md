@@ -12,5 +12,6 @@ GTAForums
 GTAAll
 GTAInsider
 Gamemodding.net
+The GTA Place
 
 PAWN Scripting for SAMP
