@@ -7,9 +7,9 @@
         "id": "a11bcc3271962091",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "image",
           "state": {
-            "file": "Drawing 2022-09-09 21.10.35.excalidraw.md"
+            "file": "_images/Pasted image 20220407224750.png"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2022-09-09 21.10.35.excalidraw.md",
+                "file": "_images/Pasted image 20220407224750.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2022-09-09 21.10.35.excalidraw.md",
+                "file": "_images/Pasted image 20220407224750.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2022-09-09 21.10.35.excalidraw.md"
+                "file": "_images/Pasted image 20220407224750.png"
               }
             }
           }
@@ -128,15 +128,15 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Drawing 2022-09-09 21.10.35.excalidraw.md",
+    "_images/Pasted image 20220401001446.png",
+    "_images/Pasted image 20220331153215.png",
+    "_images/Pasted image 20220331153115.png",
+    "_images/Pasted image 20220108225418.png",
+    "_images/Agile HW and SW planning.png",
+    "_images/Old Project Methodology.png",
+    "_images/New Project Methodology with Agile.png",
+    "_images/BigPicture.png",
     "Web3 To-Do.md",
-    "Drawing 2022-09-09 21.05.59.excalidraw.md",
-    "Drawing 2022-09-09 21.03.56.excalidraw.md",
-    "_images/Untitled 2022-09-09 21.03.22.excalidraw.md",
-    "Graphics and GUI Development/Graphics Libraries.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Security.md",
-    "Game Modding/General Modding.md",
-    "Game Modding/San Andreas Modding.md"
+    "Untitled.md"
   ]
 }
