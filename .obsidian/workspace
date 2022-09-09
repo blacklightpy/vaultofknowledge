@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 287.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a11bcc3271962091",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Drawing 2022-09-09 21.05.59.excalidraw.md",
+    "Untitled.md",
+    "Drawing 2022-09-09 21.03.56.excalidraw.md",
+    "Web3 To-Do.md",
+    "_images/Untitled 2022-09-09 21.03.22.excalidraw.md",
     "Graphics and GUI Development/Graphics Libraries.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Security.md",
     "Game Modding/General Modding.md",
     "Game Modding/San Andreas Modding.md",
-    "Game Modding/Good Mods.md",
-    "Personal/words I learned today.md",
-    "Culture/Indian Culture.md",
-    "Culture/Kerala Hindu Culture.md",
-    "Culture/International Culture.md",
-    "Culture/Christian Culture.md"
+    "Game Modding/Good Mods.md"
   ]
 }
