@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operating System Development/Keywords.md",
+            "file": "SPICE.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System Development/Keywords.md",
+                "file": "SPICE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System Development/Keywords.md",
+                "file": "SPICE.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System Development/Keywords.md"
+                "file": "SPICE.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Operating System Development/Keywords.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Real Time Kinematic.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Algorithms Used by Google Search.md",
@@ -139,7 +140,6 @@
     "World Building/Particles.md",
     "Personal/Social Media/For Visual Content.md",
     "Personal/Tips/Studying Code.md",
-    "Personal/Tips/Notion Tips.md",
-    "_images/Pasted image 20220608123008.png"
+    "Personal/Tips/Notion Tips.md"
   ]
 }
