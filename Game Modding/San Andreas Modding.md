@@ -9,6 +9,8 @@ Daemon Tools
 IMG Tool
 
 GTAForums
-GTA4All
+GTAAll
+GTAInsider
+Gamemodding.net
 
 PAWN Scripting for SAMP
