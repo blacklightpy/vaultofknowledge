@@ -1,2 +1,12 @@
+- History of Operating Systems
+- Files and IO
+- Process and Thread Scheduling
 - Semaphore
-- Mutex
+- Mutual Exclusions
+- Locks
+- Deadlocks
+- IPC
+- Memory Management
+- Interrupts
+- Virtual Memory
+- Storage and Devices
