@@ -1,0 +1,11 @@
+- Kite Flying
+- Scuba Diving
+- Skydiving
+- Surfing
+- Drifting
+- Offroad Racing
+- Dune Racing
+- Snowballing
+- Skiing
+- Bowling
+- Billiards
