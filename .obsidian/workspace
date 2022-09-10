@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SPICE.md",
+            "file": "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/TcGen - Agile/Implementing Agile.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPICE.md",
+                "file": "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/TcGen - Agile/Implementing Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPICE.md",
+                "file": "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/TcGen - Agile/Implementing Agile.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPICE.md"
+                "file": "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/TcGen - Agile/Implementing Agile.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/TcGen - Agile/Agile Product Development.md",
+    "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/TcGen - Agile/What is Agile.md",
+    "World Building/Science and Engineering/Mathematics/Business and Finance/Project Management/Agile.md",
+    "Biology/Brownian Motors.md",
+    "SPICE.md",
     "Operating System Development/Keywords.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Real Time Kinematic.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Kalman Filters.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Algorithms Used by Google Search.md",
-    "World Building/Science and Engineering/Mathematics/Algorithms/Flight Control Algorithms.md",
-    "World Building/Engineering Components/Camera Lenses.md",
-    "World Building/Particles.md",
-    "Personal/Social Media/For Visual Content.md",
-    "Personal/Tips/Studying Code.md",
-    "Personal/Tips/Notion Tips.md"
+    "World Building/Science and Engineering/Mathematics/Algorithms/Flight Control Algorithms.md"
   ]
 }
