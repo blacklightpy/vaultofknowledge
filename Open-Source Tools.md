@@ -1,15 +1,21 @@
 # UI/UX Design and Prototyping
 - Pencil
-- Penpot
 - Inkscape
 - Quant UX
 - Akira
 - Presentator
 - Alva
-# Brainstorming and Collaboration
+**Collaboration**
+- Penpot
+**Whiteboarding**
 - Spacedeck
 # Project Management
 - OpenProject
 # CRM
 - OdooCRM
 - 
+# Business Communication
+- Mattermost
+- Element
+- Rocket.chat
+- Zulip
