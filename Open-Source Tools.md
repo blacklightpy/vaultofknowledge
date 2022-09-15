@@ -13,7 +13,8 @@
 - OpenProject
 # CRM
 - OdooCRM
-- 
+- Dolibarr ERP CRM
+- ERPNext
 # Business Communication
 - Mattermost
 - Element
