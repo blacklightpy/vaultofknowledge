@@ -18,3 +18,4 @@ That is, if an asset is shared, it does have a value, but it does not have monet
 
 **2.** Desire to control life -> Requires controlling assets -> Money takes away freedom -> Desire to take back freedom -> Desire to contol life -> Requires controlling assets -> Introduces money.
 Desire to control your life makes it more difficult.
+**Solution:** Knowing this, give up freedom. 
