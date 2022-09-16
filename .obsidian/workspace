@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trading.md",
+            "file": "Types of Smart Contracts.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading.md",
+                "file": "Types of Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading.md",
+                "file": "Types of Smart Contracts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading.md"
+                "file": "Types of Smart Contracts.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Trading.md",
     "Order Books.md",
     "Automated Market Makers.md",
     "Overview of different blockchains.md",
@@ -139,7 +140,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Platforms Glossary.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JAMStack.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md",
-    "Git Workflows.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md"
   ]
 }
