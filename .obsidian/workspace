@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Money.md",
+            "file": "Ethereum Protocols.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Money.md",
+                "file": "Ethereum Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Money.md",
+                "file": "Ethereum Protocols.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Money.md"
+                "file": "Ethereum Protocols.md"
               }
             }
           }
@@ -131,8 +131,8 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
-    "Trading.md",
     "Money.md",
+    "Trading.md",
     "History of Ethereum.md",
     "Ethereum Protocols.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
