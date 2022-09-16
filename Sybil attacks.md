@@ -1,0 +1,2 @@
+# Sybil Resistance
+- Gas fees
