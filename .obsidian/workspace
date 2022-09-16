@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Project Managemenet.md",
+            "file": "Order Books.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Managemenet.md",
+                "file": "Order Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Managemenet.md",
+                "file": "Order Books.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Managemenet.md"
+                "file": "Order Books.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Automated Market Makers.md",
+    "Order Books.md",
+    "Overview of different blockchains.md",
+    "Types of Smart Contracts.md",
+    "Project Managemenet.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Platforms Glossary.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JAMStack.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md",
-    "Git Workflows.md",
-    "Software Implementations/Git.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "Message Queues.md",
-    "Monte Carlo.md",
-    "Game Modding/San Andreas Modding.md"
+    "Git Workflows.md"
   ]
 }
