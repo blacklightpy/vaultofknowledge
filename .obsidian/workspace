@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain.md",
+            "file": "Personal/Productivity/Setting Zones.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "axios",
+                "query": "tracker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain.md",
+                "file": "Personal/Productivity/Setting Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain.md",
+                "file": "Personal/Productivity/Setting Zones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain.md"
+                "file": "Personal/Productivity/Setting Zones.md"
               }
             }
           }
@@ -131,6 +132,7 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Blockchain.md",
     "Zero Knowledge Proofs.md",
     "Inter Planetary File System.md",
     "Open-Source Tools.md",
@@ -139,7 +141,6 @@
     "Automated Market Makers.md",
     "Cryptography.md",
     "Personal/Creative and Recreational/Blender.md",
-    "Personal/Creative and Recreational/3D Modelling.md",
-    "Personal/Creative and Recreational/3D File Formats.md"
+    "Personal/Creative and Recreational/3D Modelling.md"
   ]
 }
