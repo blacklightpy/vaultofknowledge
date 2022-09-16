@@ -9,5 +9,10 @@ It is to be noted that love itself is not value, it is possessive love that is v
 That is, if an asset is shared, it does have a value, but it does not have monetary value.
 
 # Problems
-If an asset becomes scarce, or if it is non-fungible, it can be highly desired for and cause ego conflict.
+If an asset becomes scarce, or if it is a unique entity, it can be highly desired for and cause ego conflict. These assets can be of two types:
+- Survival necessities like food - scarcity eventually leads to revolution for survival
+- Luxuries - Can cause ego frustration, and lead to occassional violence
+
+# Solutions
+- Survival necessities must not be capitalized on. Humanity as a whole should work to ensure this basic requirement is fulfilled at all times.
 - 
