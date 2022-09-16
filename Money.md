@@ -8,14 +8,12 @@ These assets are hence called capital, since more capital means ability to acqui
 It is to be noted that love itself is not value, it is possessive love that is value.
 That is, if an asset is shared, it does have a value, but it does not have monetary value.
 
-# Problems
-If an asset becomes scarce, or if it is a unique entity, it can be highly desired for and cause ego conflict. These assets can be of two types:
+**1.** If an asset becomes scarce, or if it is a unique entity, it can be highly desired for and cause ego conflict. These assets can be of two types:
 - Survival necessities like food - scarcity eventualy leads to revolution for survival
 - Luxuries - Can cause ego frustration, and lead to occassional violence
+**Solution:-**
+- Survival: Survival necessities must not be capitalized on. Humanity as a whole should work to ensure this basic requirement is fulfilled at all times.
+- Luxuries: Practice sharing, and the concept of letting go.
 
-# Solutions
-- **Survival:** Survival necessities must not be capitalized on. Humanity as a whole should work to ensure this basic requirement is fulfilled at all times.
-- **Luxuries:** Practice sharing, and the concept of letting go.
-
-Money takes away freedom -> Desire to take back freedom -> Requires controlling assets -> Introduces money.
+**2.** Money takes away freedom -> Desire to take back freedom -> Requires controlling assets -> Introduces money.
 Desire to control your life makes it more difficult.
