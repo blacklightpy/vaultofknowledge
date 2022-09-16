@@ -131,6 +131,8 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Trading.md",
+    "Money.md",
     "History of Ethereum.md",
     "Ethereum Protocols.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
@@ -138,8 +140,6 @@
     "Decentralized Technologies.md",
     "Halting Problem.md",
     "Liar's Paradox.md",
-    "Gödel's Incompleteness Theorem.md",
-    "Turing Machine.md",
-    "Lambda Calculus.md"
+    "Gödel's Incompleteness Theorem.md"
   ]
 }
