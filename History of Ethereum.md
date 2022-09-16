@@ -1,4 +1,4 @@
 - Launched in 2016
 - Hard fork after a major DAO, TheDAO got hacked
 	- Split into Ethereum and Ethereum Classic, followed by purists
-- 
+- Move towards Ethereum 2.0 in 2020-21

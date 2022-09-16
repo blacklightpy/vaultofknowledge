@@ -1,4 +1,4 @@
-Some of them are smart contract protocols. I don't know which ones are, yet.
+Accepted Ethereum Improvement Protocols (EIPs) get implemented in the Ethereum Request for Comments (ERC) document.
 
 - ERC-20 Smart Contract Tokens
 - ERC-721 NFTs
