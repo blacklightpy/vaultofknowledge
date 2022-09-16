@@ -17,3 +17,5 @@ If an asset becomes scarce, or if it is a unique entity, it can be highly desire
 - **Survival:** Survival necessities must not be capitalized on. Humanity as a whole should work to ensure this basic requirement is fulfilled at all times.
 - **Luxuries:** Practice sharing, and the concept of letting go.
 
+Money takes away freedom -> Desire to take back freedom -> Requires controlling assets -> Introduces money.
+Desire to control your life makes it more difficult.
