@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Decentralized Technologies.md",
+            "file": "History of Ethereum.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decentralized Technologies.md",
+                "file": "History of Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decentralized Technologies.md",
+                "file": "History of Ethereum.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decentralized Technologies.md"
+                "file": "History of Ethereum.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Ethereum Protocols.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
+    "Personal/Creative and Recreational/Design.md",
+    "Decentralized Technologies.md",
     "Halting Problem.md",
     "Liar's Paradox.md",
     "Gödel's Incompleteness Theorem.md",
     "Turing Machine.md",
     "Lambda Calculus.md",
-    "Sybil attacks.md",
-    "Ethereum Virtual Machine.md",
-    "Types of Smart Contracts.md",
-    "Trading.md",
-    "Order Books.md"
+    "Sybil attacks.md"
   ]
 }
