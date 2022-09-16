@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Platforms Glossary.md",
+            "file": "Project Managemenet.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Platforms Glossary.md",
+                "file": "Project Managemenet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Platforms Glossary.md",
+                "file": "Project Managemenet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Platforms Glossary.md"
+                "file": "Project Managemenet.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Platforms Glossary.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JAMStack.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md",
@@ -139,7 +140,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
     "Message Queues.md",
     "Monte Carlo.md",
-    "Game Modding/San Andreas Modding.md",
-    "Graphics and GUI Development/Java GUI Libraries.md"
+    "Game Modding/San Andreas Modding.md"
   ]
 }
