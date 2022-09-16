@@ -1,0 +1,6 @@
+- Swing
+- JavaFX
+- AWT
+- SwingX
+- Apache Pivot
+- Qt Jambi (Qt wrapper for Java)

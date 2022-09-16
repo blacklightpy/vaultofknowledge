@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java.md",
+            "file": "Game Modding/San Andreas Modding.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java.md",
+                "file": "Game Modding/San Andreas Modding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java.md",
+                "file": "Game Modding/San Andreas Modding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java.md"
+                "file": "Game Modding/San Andreas Modding.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Graphics and GUI Development/Java GUI Libraries.md",
+    "Graphics and GUI Development/Graphics Libraries.md",
+    "Game Development/Java Game Development.md",
+    "Java.md",
     "Buddhism.md",
     "Hash Tables.md",
     "Blockchain.md",
     "Zen.md",
     "Taoism.md",
-    "Inter Planetary File System.md",
-    "Knowledge Graphs.md",
-    "Untitled 1.md",
-    "DLSS.md",
-    "Regular Expressions.md"
+    "Inter Planetary File System.md"
   ]
 }
