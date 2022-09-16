@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knowledge Graphs.md",
+            "file": "Inter Planetary File System.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Graphs.md",
+                "file": "Inter Planetary File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge Graphs.md",
+                "file": "Inter Planetary File System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Graphs.md"
+                "file": "Inter Planetary File System.md"
               }
             }
           }
@@ -131,9 +131,9 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Knowledge Graphs.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Knowledge Graphs.md",
     "DLSS.md",
     "Regular Expressions.md",
     "Graphs.md",
