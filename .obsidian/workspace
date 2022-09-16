@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Productivity/Setting Zones.md",
+            "file": "DLSS.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tracker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Productivity/Setting Zones.md",
+                "file": "DLSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Productivity/Setting Zones.md",
+                "file": "DLSS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Productivity/Setting Zones.md"
+                "file": "DLSS.md"
               }
             }
           }
@@ -132,15 +131,15 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Untitled.md",
+    "DLSS.md",
+    "Regular Expressions.md",
+    "Graphs.md",
+    "Hash Tables.md",
+    "Personal/Productivity/Setting Zones.md",
     "Blockchain.md",
     "Zero Knowledge Proofs.md",
     "Inter Planetary File System.md",
-    "Open-Source Tools.md",
-    "Software Implementations/SurrealDB.md",
-    "Decentralized Autonomous Organizations.md",
-    "Automated Market Makers.md",
-    "Cryptography.md",
-    "Personal/Creative and Recreational/Blender.md",
-    "Personal/Creative and Recreational/3D Modelling.md"
+    "Open-Source Tools.md"
   ]
 }
