@@ -7,3 +7,7 @@ These assets are hence called capital, since more capital means ability to acqui
 
 It is to be noted that love itself is not value, it is possessive love that is value.
 That is, if an asset is shared, it does have a value, but it does not have monetary value.
+
+# Problems
+If an asset becomes scarce, or if it is non-fungible, it can be highly desired for and cause ego conflict.
+- 
