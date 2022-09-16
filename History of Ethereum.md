@@ -2,7 +2,10 @@
 - Hard fork after a major DAO, TheDAO got hacked
 	- Split into Ethereum and Ethereum Classic, followed by purists
 - Move from PoW towards PoS based Ethereum 2.0 in 2020-21
-	- Introduction of Beacon chains
+	- Introduction of Beacon chains / the Merge
 	- Move to Shard chains / Sharding
 		- Consists of the surge, the verge, the purge and the splurge
 		- Surge - Split of the blockchain into into 64 Shard chains
+		- Verge - Replacing hexary Patricia Trees with Verkle trees (like Merkle trees) for scaling
+		- Purge - Purging of outdated transactions
+		- Splurge - Smaller updates and fine tuning
