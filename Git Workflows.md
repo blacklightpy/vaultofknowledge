@@ -1,0 +1,2 @@
+- Trunk-based (https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
+- Gitflow (legacy) (https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Software Implementations/Git.md",
+            "file": "Git Workflows.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Implementations/Git.md",
+                "file": "Git Workflows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Implementations/Git.md",
+                "file": "Git Workflows.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Implementations/Git.md"
+                "file": "Git Workflows.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Software Implementations/Git.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
     "Message Queues.md",
     "Monte Carlo.md",
@@ -139,7 +140,6 @@
     "Graphics and GUI Development/Graphics Libraries.md",
     "Game Development/Java Game Development.md",
     "Java.md",
-    "Buddhism.md",
-    "Hash Tables.md"
+    "Buddhism.md"
   ]
 }
