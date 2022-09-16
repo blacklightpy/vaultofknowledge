@@ -48,3 +48,6 @@ Git is a lightweight version control system. It is:
 - Issues
 - Discussions
 - Roadmaps
+
+**[Post] Commands used in 3 companies:**
+https://github.com/abduvik/just-enough-series/tree/master/courses/git
