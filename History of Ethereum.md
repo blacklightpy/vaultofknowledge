@@ -1,4 +1,8 @@
 - Launched in 2016
 - Hard fork after a major DAO, TheDAO got hacked
 	- Split into Ethereum and Ethereum Classic, followed by purists
-- Move towards Ethereum 2.0 in 2020-21
+- Move from PoW towards PoS based Ethereum 2.0 in 2020-21
+	- Introduction of Beacon chains
+	- Move to Shard chains / Sharding
+		- Consists of the surge, the verge, the purge and the splurge
+		- Surge - Split of the blockchain into into 64 Shard chains
