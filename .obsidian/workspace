@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blockchain.md",
+            "file": "Buddhism.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain.md",
+                "file": "Buddhism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain.md",
+                "file": "Buddhism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain.md"
+                "file": "Buddhism.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "a11bcc3271962091",
   "lastOpenFiles": [
+    "Hash Tables.md",
+    "Blockchain.md",
+    "Buddhism.md",
+    "Zen.md",
+    "Taoism.md",
     "Inter Planetary File System.md",
     "Knowledge Graphs.md",
-    "Untitled.md",
     "Untitled 1.md",
     "DLSS.md",
-    "Regular Expressions.md",
-    "Graphs.md",
-    "Hash Tables.md",
-    "Personal/Productivity/Setting Zones.md",
-    "Blockchain.md"
+    "Regular Expressions.md"
   ]
 }
