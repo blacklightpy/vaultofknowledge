@@ -1,0 +1,1 @@
+It is the series connection of many coils.
