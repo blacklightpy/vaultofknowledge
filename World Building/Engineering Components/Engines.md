@@ -1,1 +1,15 @@
-
+## Parts of an Engine
+- Piston
+- Crankshaft
+- Crank Case
+- Camshaft
+- Spark Plug
+- Piston Ring
+- Engine Block
+- Cylinder
+- Cylinder Head
+- Valve
+- Flywheel
+- Sump
+- [[Carburettor]]
+- [[Alternator]]
