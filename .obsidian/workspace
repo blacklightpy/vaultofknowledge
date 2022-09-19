@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git Workflows.md",
+            "file": "Halting Problem.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Workflows.md",
+                "file": "Halting Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Workflows.md",
+                "file": "Halting Problem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Workflows.md"
+                "file": "Halting Problem.md"
               }
             }
           }
@@ -130,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Trading.md",
+    "World Building/Business and Finance/Project Management.md",
+    "Project Management.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Message Queues.md",
+    "World Building/Business and Finance/Project Management/Planning Feb 2022/Overview.md",
+    "World Building/Business and Finance/Finance/Finance Formulas.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Version Control Systems.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Git Workflows.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/OS Security.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Java.md",
-    "World Building/Science and Engineering/Mathematics/Gödel's Incompleteness Theorem.md",
-    "World Building/Science and Engineering/Mathematics/Algorithms/Monte Carlo methods.md",
-    "Open-Source Tools.md",
-    "Web 3.0/Overview of different blockchains.md",
-    "Culture/Zen.md",
-    "Computational Mathematics/Quantum Computers.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md"
   ]
 }
