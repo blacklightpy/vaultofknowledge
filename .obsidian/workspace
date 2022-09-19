@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Java.md",
+            "file": "Git Workflows.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "figma",
+                "query": "git ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java.md",
+                "file": "Git Workflows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java.md",
+                "file": "Git Workflows.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java.md"
+                "file": "Git Workflows.md"
               }
             }
           }
@@ -129,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a11bcc3271962091",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/OS Security.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Java.md",
     "World Building/Science and Engineering/Mathematics/Gödel's Incompleteness Theorem.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Monte Carlo methods.md",
     "Open-Source Tools.md",
     "Web 3.0/Overview of different blockchains.md",
     "Culture/Zen.md",
-    "Computational Mathematics/Quantum Computers.md",
-    "Money.md",
-    "Decentralized Technologies.md",
-    "Software Implementations/DLSS.md",
-    "Information Technology/Zero Knowledge Proofs.md"
+    "Computational Mathematics/Quantum Computers.md"
   ]
 }

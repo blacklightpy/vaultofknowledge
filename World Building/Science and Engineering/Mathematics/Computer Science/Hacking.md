@@ -3,3 +3,4 @@
 
 ## Types of Attacks
 - Man In The Middle (MITM)
+- [[Sybil attacks]]

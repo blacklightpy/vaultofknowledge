@@ -35,5 +35,5 @@ Extra steps:
 
 Tags:
 
-[[Security]]
+[[OS Security]]
 [[VPS]]
