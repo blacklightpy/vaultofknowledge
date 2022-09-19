@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
-  "theme": "system",
-  "translucency": false
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "80s Neon"
 }
