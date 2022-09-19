@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "World Building/Engineering Components/SoCs.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "World Building/Engineering Components/SoCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "World Building/Engineering Components/SoCs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "World Building/Engineering Components/SoCs.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/OSI Model.md",
-    "Untitled.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Digital Communications.md",
-    "Retro/Tech Parts I Remember.md",
+    "World Building/Engineering Components/GPUs.md",
+    "World Building/Engineering Components/SIM Cards.md",
+    "World Building/Engineering Components/SoCs.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/PCB Design.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Logic Design.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
-    "World Building/Science and Engineering/Physics/Optics.md",
-    "home.md",
-    "World Building/Elements of the world.md",
-    "World Building/Business and Finance/Finance/Compond Interest.md",
-    "World Building/Business and Finance/Finance/Annuity.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Cellular Networks.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Digital Communications.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/OS Security.md"
   ]
 }
