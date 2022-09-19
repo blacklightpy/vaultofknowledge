@@ -1,5 +1,8 @@
 - Abacus
 - Analog Computers
+- Napier's Bones
+- Pascaline / Pascal's Machine
+- Leibniz's Wheel / Step Reckoner
 - Jacquard's Loom
 - Analytical Engine and Difference Engine
 - ENIAC
