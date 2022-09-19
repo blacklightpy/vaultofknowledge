@@ -5,15 +5,23 @@
 - Leibniz's Wheel / Step Reckoner
 - Jacquard's Loom
 - Analytical Engine and Difference Engine
-## 1st Gen
-**Vacuum Tubes**
+## 1st Gen - Vacuum Tubes
 - ENIAC (Electrical Numerical Integrator and Calculator)
 - EDVAC (Electronic Discrete Variable Automatic Computer)
 - EDSAC (Electronic Delay Storage Automatic Calculator)
 **Mass produced**
 - UNIVAC-1 (Universal Automatic Computer 1)
 - IBM 650
-## 2nd Gen
-
-## 3rd Gen
-## 4th Gen
+## 2nd Gen - Transistors
+- IBM 7094
+- IBM 1620
+- IBM 1401
+## 3rd Gen - IC Chips
+- IBM System/360
+- Honeywell 6000
+## 4th Gen - LSI/VLSI Chips
+- Cray-I
+- IBM PC
+- Macintosh
+## 5th Gen - ULSI Chips
+- Current Computers
