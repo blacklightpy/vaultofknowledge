@@ -5,7 +5,7 @@
 - PS/2 Keyboard and Mouse
 - DIN to PS/2 Connecter Cables
 - SMPS with Voltage change switch
-- IDE Power Cable
+- IDE 4-pin Molex Power Cable
 - IDE Cable
 - IDE (or PATA) HDD, ODD, Floppy
 - SDRAM
