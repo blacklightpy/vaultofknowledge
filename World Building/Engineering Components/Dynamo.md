@@ -1,0 +1,1 @@
+A device used to convert mechanical energy to electrical energy
