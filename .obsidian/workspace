@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
+            "file": "Bilinear Transformations.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
+                "file": "Bilinear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
+                "file": "Bilinear Transformations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md"
+                "file": "Bilinear Transformations.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
     "Bilinear Transformations.md",
     "home.md",
     "World Building/Creation.md",
@@ -156,7 +157,6 @@
     "World Building/Particles.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/Cellular Networks.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Mail Servers.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Control Panels.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Cloud Computing/Faas.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Control Panels.md"
   ]
 }

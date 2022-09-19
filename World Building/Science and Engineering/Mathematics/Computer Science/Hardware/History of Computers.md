@@ -21,7 +21,7 @@
 - Honeywell 6000
 - PDP-8
 ## 4th Gen - LSI/VLSI Chips
-- Cray-I
+- Cray-I  
 - IBM PC
 - Macintosh
 ## 5th Gen - ULSI Chips and Beyond
