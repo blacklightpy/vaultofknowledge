@@ -7,13 +7,8 @@
         "id": "b4f3166814c6d772",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "World Building/Science and Engineering/Chemistry/Quantum Field Theory.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Quantum Field Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Quantum Field Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Quantum Field Theory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,15 +139,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Relativity and QM/Quantum Field Theory.md",
+    "World Building/Science and Engineering/Physics/Relativity and QM/Relativistic Quantum Mechanics.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Useful Docker Containers.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/OS Security.md",
+    "World Building/Science and Engineering/Chemistry/Inorganic/Crystal Field Theory.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electromagnetic Theory.md",
     "World Building/Engineering Components/Motors.md",
     "World Building/Engineering Components/Camera Lenses.md",
-    "World Building/Engineering Components/Lens Mounts.md",
-    "World Building/Engineering Components/SIM Cards.md",
-    "World Building/Engineering Components/Engines.md",
-    "World Building/Engineering Components/Carburettor.md",
-    "World Building/Engineering Components/Commutator.md",
-    "World Building/Engineering Components/Armature.md",
-    "World Building/Engineering Components/Alternator.md"
+    "World Building/Engineering Components/Lens Mounts.md"
   ]
 }
