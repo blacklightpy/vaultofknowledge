@@ -1,1 +1,1 @@
-Rotating coils of a dynamo or electric motor.
+Rotating coils of a [[dynamo]] or electric motor.
