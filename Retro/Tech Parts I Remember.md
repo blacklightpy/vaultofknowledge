@@ -11,4 +11,4 @@
 - SDRAM
 
 ### Phone
-- Nokia Connectivity Cable
+- Nokia Pop-Port Connectivity Cable
