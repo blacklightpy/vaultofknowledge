@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Open-Source Tools.md",
+            "file": "World Building/Engineering Components/Camera Lenses.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open-Source Tools.md",
+                "file": "World Building/Engineering Components/Camera Lenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open-Source Tools.md",
+                "file": "World Building/Engineering Components/Camera Lenses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open-Source Tools.md"
+                "file": "World Building/Engineering Components/Camera Lenses.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b4f3166814c6d772",
+  "active": "16ff280e8d0f3b88",
   "lastOpenFiles": [
-    "Software Implementations/CPython.md",
-    "home.md",
-    "_images/Kinesin.gif",
-    "_images/Evolution of Cellular Networks.png",
-    "_images/Snapdragon 865 Metrics.png",
-    "_images/Kubernetes.png",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Docker.md",
-    "_images/Mail Server Architecture.png",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Mail Servers.md",
-    "_images/Linux Kernel.png"
+    "World Building/Science and Engineering/Physics/Starship Engines.md",
+    "World Building/Science and Engineering/Physics/Work, Energy and Power/Kugelblitz.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Jerk.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electronic Camming.md",
+    "World Building/Science and Engineering/Physics/Mechanics/cam synthesis.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Motors.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Engines.md",
+    "World Building/Science and Engineering/Physics/Work, Energy and Power/Stress-Energy Tensor.md",
+    "Personal/Zettelkasten.md"
   ]
 }
