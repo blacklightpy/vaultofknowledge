@@ -19,6 +19,7 @@
 ## 3rd Gen - IC Chips
 - IBM System/360
 - Honeywell 6000
+- PDP-8
 ## 4th Gen - LSI/VLSI Chips
 - Cray-I
 - IBM PC
