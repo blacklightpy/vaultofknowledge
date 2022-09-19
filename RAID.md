@@ -15,4 +15,8 @@ It is a technology that combines multiple physical disk drives into one or more 
 - RAID 0+1
 - RAID 1+0
 - JBOD RAID N+N (JBOD = Just a bunch of disks)
-## Non-standard Levels
+## Non-standard Levels (mostly proprietary)
+- Linux MD RAID 10
+- Hadoop RAID
+- BeeGFS
+- Declustered RAID
