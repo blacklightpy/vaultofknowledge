@@ -23,5 +23,10 @@
 - Cray-I
 - IBM PC
 - Macintosh
-## 5th Gen - ULSI Chips
+## 5th Gen - ULSI Chips and Beyond
+- Param 1000
+- PDP-11
+- VAX series
+- Amiga series
+- Pentium 4
 - Current Computers
