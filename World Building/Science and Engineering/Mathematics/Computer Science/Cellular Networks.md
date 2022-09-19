@@ -12,4 +12,4 @@ GPRS, WAP, HSPA, HSDPA, EDGE
 **SIM ID**
 - International Mobile Subscriber Identity (IMSI)
 
-![[Pasted image 20220608123008.png]]
+![[Evolution of Cellular Networks.png]]

@@ -99,7 +99,7 @@ networks:
 
 ## [[Kubernetes]]
 
-![[Pasted image 20220407224750.png]]
+![[Kubernetes.png]]
 
 Kubernetes/K8s is essentially docker compose on steroids.
 

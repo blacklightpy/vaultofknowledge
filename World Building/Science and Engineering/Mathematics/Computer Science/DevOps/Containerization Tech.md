@@ -17,7 +17,7 @@ QEMU (Emulator and Virtualization - Can be a hypervisor using Xen/KVM for virtua
 libvert (Manage multiple hypervisors and emulators (Xen, KVM, LXC, OpenVZ, Virtualbox, etc.) in an unified manner)
 GNOME Boxes (uses KVM, QEMU, libvert, SPICE), Virt-manager (GUI for libvirt)
 
-![[Pasted image 20220331153115.png]]
+![[Wikipedia - Virtualization Software.png]]
 
 Containers
 ----------------------------

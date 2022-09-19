@@ -25,7 +25,7 @@ Snapdragon 865 (Smartphone focused) - 15 TOPs
 less expensive 8c - 7 TOPS
 7c - 5 TOPS
 
-![[Pasted image 20220412142513.png]]
+![[Snapdragon 865 Metrics.png]]
 
 **865 5G AI Highlights**
 - Adreno 650

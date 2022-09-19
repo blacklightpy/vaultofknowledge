@@ -12,8 +12,8 @@ According to TCGen's guide \[PDF Downloaded\]
 
 Old methodology:
 
-![[Old Project Methodology.png]]
+![[Old Product Development Methodology.png]]
 
 New methodology with Agile:
 
-![[New Project Methodology with Agile.png]]
+![[New Product Development with Agile.png]]

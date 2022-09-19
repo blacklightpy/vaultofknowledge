@@ -12,4 +12,4 @@ Parameters to select embedded hardware for Edge AI:
 
 Performance, SWaP (Size, Weight and Power), Cost
 
-![[Pasted image 20220108225418.png]]
+![[Types of Edge Hardware.png]]

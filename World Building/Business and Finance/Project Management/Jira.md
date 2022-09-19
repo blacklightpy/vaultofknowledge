@@ -25,4 +25,4 @@ Jira Service Management
 Skills, Holiday Plans, Workloads, Teams (Availability etc.)
 Absences
 
-![[BigPicture.png]]
+![[BigPicture for Jira.png]]
