@@ -7,4 +7,4 @@ Topics:
 - reflection
 - refraction
 - electromagnetism
-- dispersiond
+- dispersion
