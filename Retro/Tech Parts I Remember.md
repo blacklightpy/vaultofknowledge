@@ -9,3 +9,6 @@
 - IDE Cable
 - IDE (or PATA) HDD, ODD, Floppy
 - SDRAM
+
+### Phone
+- Nokia Connectivity Cable

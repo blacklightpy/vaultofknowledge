@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History of Computers.md",
+            "file": "Retro/Tech Parts I Remember.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History of Computers.md",
+                "file": "Retro/Tech Parts I Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History of Computers.md",
+                "file": "Retro/Tech Parts I Remember.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History of Computers.md"
+                "file": "Retro/Tech Parts I Remember.md"
               }
             }
           },
@@ -148,7 +148,8 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Retro/PC Parts I Remember.md",
+    "History of Computers.md",
+    "Retro/Tech Parts I Remember.md",
     "home.md",
     "World Building/Science and Engineering/Physics/Relativity and QM/Quantum Field Theory.md",
     "World Building/Science and Engineering/Physics/Relativity and QM/Relativistic Quantum Mechanics.md",
@@ -156,7 +157,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/OS Security.md",
     "World Building/Science and Engineering/Chemistry/Inorganic/Crystal Field Theory.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electromagnetic Theory.md",
-    "World Building/Engineering Components/Motors.md"
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electromagnetic Theory.md"
   ]
 }
