@@ -7,8 +7,13 @@
         "id": "b4f3166814c6d772",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Retro/PC Parts I remember.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retro/PC Parts I remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retro/PC Parts I remember.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retro/PC Parts I remember.md"
+              }
             }
           },
           {
@@ -139,6 +148,7 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "home.md",
     "World Building/Science and Engineering/Physics/Relativity and QM/Quantum Field Theory.md",
     "World Building/Science and Engineering/Physics/Relativity and QM/Relativistic Quantum Mechanics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Useful Docker Containers.md",
@@ -147,7 +157,6 @@
     "World Building/Science and Engineering/Chemistry/Inorganic/Crystal Field Theory.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electromagnetic Theory.md",
     "World Building/Engineering Components/Motors.md",
-    "World Building/Engineering Components/Camera Lenses.md",
-    "World Building/Engineering Components/Lens Mounts.md"
+    "World Building/Engineering Components/Camera Lenses.md"
   ]
 }
