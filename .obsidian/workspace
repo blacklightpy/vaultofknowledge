@@ -143,11 +143,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
     "World Building/Engineering Components/Commutator.md",
+    "World Building/Engineering Components/Carburettor.md",
     "World Building/Engineering Components/Armature.md",
     "World Building/Engineering Components/Alternator.md",
     "World Building/Engineering Components/Winding.md",
@@ -155,7 +157,6 @@
     "World Building/Engineering Components/Motors.md",
     "World Building/Engineering Components/Lens Mounts.md",
     "World Building/Engineering Components/SIM Cards.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md",
-    "World Building/Engineering Components/Camera Lenses.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Docker/Writing good Dockerfiles.md"
   ]
 }

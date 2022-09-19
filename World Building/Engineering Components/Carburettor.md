@@ -25,5 +25,12 @@ It regulates the air-fuel ratio.
 - Accelerator-pump
 
 ## Types
+**By strokes**
 - 2-stroke carburetor
 - 4-stroke carburetor
+>NOTE: 4-stroke carburetors can be used in 2-stroke engines too.
+
+**By direction of airflow**
+- Up-draft carburetor
+- Down-draft carburetor
+- Horizontal carburetor
