@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Social Media/For Visual Content.md",
+            "file": "World Building/Engineering Components/Camera Lenses.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Social Media/For Visual Content.md",
+                "file": "World Building/Engineering Components/Camera Lenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Social Media/For Visual Content.md",
+                "file": "World Building/Engineering Components/Camera Lenses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Social Media/For Visual Content.md"
+                "file": "World Building/Engineering Components/Camera Lenses.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Ideas and References/Wikipedia Categorization.md",
-    "Ideas and References/Data Organization.md",
-    "Ideas and References/Maps of Content.md",
-    "Personal/Ideas for business.md",
-    "Personal/Zettelkasten.md",
-    "Personal/Personal Website Ideas.md",
-    "Personal/words I learned today.md",
-    "Personal/French.md",
-    "World Building/Engineering Components/Camera Lenses.md",
-    "World Building/Science and Engineering/Physics/Starship Engines.md"
+    "Personal/Knowledge/Concepts.md",
+    "Personal/Knowledge/Literature.md",
+    "Personal/Knowledge/P2P.md",
+    "Personal/Leisure/Animes.md",
+    "Personal/Leisure/Games.md",
+    "Personal/Productivity/Setting Zones on PC.md",
+    "Personal/Productivity/Knowledge Management.md",
+    "Personal/Productivity/Productivity Tips.md",
+    "Personal/Tips/Presentation Tips.md",
+    "Personal/Toolkits/Social Medias/For Visual Content.md"
   ]
 }
