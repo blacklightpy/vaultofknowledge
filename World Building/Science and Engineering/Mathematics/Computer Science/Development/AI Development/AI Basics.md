@@ -12,6 +12,6 @@
 # Terms
 - Frameworks
 - Networks - Models and Networks are often used interchangeably. But mainly the difference is that algorithms are implemented on networks to create models.
-- [[Algorithms]]
+- [[AI Algorithms]]
 - Models - Products of AI Training, by running a machine learning algorithm on training data
 - Inference - Inference is where deep learning capabilities learned during training are put to work
