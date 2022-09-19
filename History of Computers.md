@@ -1,0 +1,7 @@
+- Abacus
+- Analog Computers
+- Jacquard's Loom
+- Analytical Engine and Difference Engine
+- ENIAC
+- EDVAC
+- UNIVAC
