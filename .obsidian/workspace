@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Turing Machine.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Zero Knowledge Proofs.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Turing Machine.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Zero Knowledge Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Turing Machine.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Zero Knowledge Proofs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Turing Machine.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Zero Knowledge Proofs.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Turing Machine.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Turing Machine.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Computers.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Monte Carlo methods.md",
@@ -156,7 +157,6 @@
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Timing Performance.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electromigration.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Very Large Scale Integration.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design For X.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design For Test.md"
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design For X.md"
   ]
 }

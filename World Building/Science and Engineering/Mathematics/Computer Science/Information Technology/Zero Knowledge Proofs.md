@@ -8,3 +8,5 @@ Used in Nuclear weapons policy decisions.
 - Non Interactive
 	- Can be computationally intensive
 	- Zcash is working on a lighter algorithm
+# Definition
+A formal definition of zero-knowledge has to use some computational model, the most common being that of a Turing machine.
