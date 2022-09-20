@@ -1,3 +1,2 @@
 - Static Timing Analysis
-- Placement
-- Routing
+- [[Electronic Design Automation]]
