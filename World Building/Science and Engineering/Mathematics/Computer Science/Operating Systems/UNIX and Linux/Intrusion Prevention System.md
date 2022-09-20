@@ -8,4 +8,4 @@ Network-based
 Related: [[Intrusion Detection System]]
 
 Tags:
-[[OS Security]]
+[[System Security]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/error function.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/System Security.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 332.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/error function.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/System Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/error function.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/System Security.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/error function.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/System Security.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/error function.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Groups.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Track Transition Curves.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3.0/Web3 To-Do.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Zero Knowledge Proofs.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Turing Machine.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Turing Machine.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Computers.md",
-    "World Building/Science and Engineering/Mathematics/Algorithms/Monte Carlo methods.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Turing Machine.md"
   ]
 }

@@ -11,5 +11,5 @@ Tags:
 [[Linux Distros]]
 [[Networking]]
 [[sysadmin]]
-[[OS Security]]
+[[System Security]]
 [[Linux]]

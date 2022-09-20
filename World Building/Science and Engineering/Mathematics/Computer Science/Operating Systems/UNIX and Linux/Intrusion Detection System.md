@@ -9,4 +9,4 @@ Related: [[Intrusion Prevention System]]
 
 Tags:
 
-[[OS Security]]
+[[System Security]]
