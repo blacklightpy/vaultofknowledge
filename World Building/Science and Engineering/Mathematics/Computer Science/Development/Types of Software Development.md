@@ -1,11 +1,10 @@
 - Front-End Development
 - Back-End Development
 - Full Stack Development
-- Application Development
 - API Development
 - Data Science
-- Mobile Development
-- Desktop Development
+- Mobile App Development
+- Desktop Application Development
 - Security Software Development
 - Game Development
 - Embedded System Development
