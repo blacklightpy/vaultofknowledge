@@ -6,5 +6,5 @@
 - VP of Development
 - CSO / VP of Sales
 - VP of Customer Support
-- Product Management
-- Project Management
+- Product Manager - Defines the scope of the product with respect to the market and vision
+- Project Manager - Carries out work, plan KPIs
