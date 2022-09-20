@@ -9,4 +9,5 @@
 - Google ML Kit
 - Tensorflow
 - Tensorflow Lite (for Android, iOS)
-- PyTorch (built by Facebook; A clone of Tensorflow, to provide an easier inerface in Python)
+- Torch (Lua; built by Facebook)
+- PyTorch (built by Facebook; Python Wrapper for Torch)
