@@ -1,5 +1,5 @@
 - PM 
-- ERP
+- ERP [[ERP Software]]
 - PLM [[PLM Software]]
 - MDM (Master Data Management)
 - CRM - Bittrix24, Zoho CRM
