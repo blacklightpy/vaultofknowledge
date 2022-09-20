@@ -1,0 +1,1 @@
+It is the transport of material caused by the gradual movement of ions in a conductor due to the momentum transfer between conducting electrons and diffusing metal atoms. This effect is important in applications where high DC densities are used. This practical significance of this effect becomes more important as size of ICs decrease.
