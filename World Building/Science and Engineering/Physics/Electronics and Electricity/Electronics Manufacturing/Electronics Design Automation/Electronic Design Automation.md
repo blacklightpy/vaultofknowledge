@@ -3,7 +3,8 @@ It refers to the use of software for designing electronic systems.
 
 # Steps in EDA
 ### Simulation
-- Simulation (VHDL/Verilog)
+- Description (VHDL/Verilog)
+- Simulation
 - Synthesis (Conversion of RTL Code to a Gate Level netlist)
 - Post-Synthesis Simulation
 - Static Timing Analysis
