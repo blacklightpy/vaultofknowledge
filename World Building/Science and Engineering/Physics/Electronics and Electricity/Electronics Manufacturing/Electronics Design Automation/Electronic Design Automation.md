@@ -18,4 +18,6 @@ It refers to the use of software for designing electronic systems.
 - Post-Silicon Validation
 ### Post-Design Steps
 - [[Design For Manufacturing]]
+- Design For Assembly (or DFMA)
+- [[Design For Test]]
 - Silicon Lifecycle Management
