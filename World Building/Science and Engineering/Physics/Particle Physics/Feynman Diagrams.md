@@ -1,0 +1,1 @@
+It is pictorial representation of the mathematical expressions describing the behavior and interaction of subatomic particles.
