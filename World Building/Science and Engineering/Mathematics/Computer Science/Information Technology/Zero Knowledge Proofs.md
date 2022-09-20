@@ -10,3 +10,5 @@ Used in Nuclear weapons policy decisions.
 	- Zcash is working on a lighter algorithm
 # Definition
 A formal definition of zero-knowledge has to use some computational model, the most common being that of a Turing machine.
+
+(Read Wikipedia definition using notations and [[Probabilistic Turing Machine]])
