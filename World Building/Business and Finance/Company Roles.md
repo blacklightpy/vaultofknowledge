@@ -2,8 +2,9 @@
 - CTO
 - COO
 - CFO
-- CSO
-- VP of Engineering
-- VP of Sales
+- CMO
+- VP of Development
+- CSO / VP of Sales
+- VP of Customer Support
 - Product Management
 - Project Management
