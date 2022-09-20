@@ -3,5 +3,6 @@ Since it uses the JVM, it follows the principle of Write Once, Run Anywhere (WOR
 
 
 # Platforms
-- Java Platform
+- Java Platform ME
+- Java Platform SE
 - Java Card
