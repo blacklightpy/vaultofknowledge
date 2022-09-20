@@ -3,7 +3,8 @@ It refers to the use of software for designing electronic systems.
 
 # Steps in EDA
 ### Simulation
-- Simulation
+- Simulation (VHDL/Verilog)
+- Synthesis (Conversion of RTL Code to a Gate Level netlist)
 ### Design
 - Placement
 - Routing
