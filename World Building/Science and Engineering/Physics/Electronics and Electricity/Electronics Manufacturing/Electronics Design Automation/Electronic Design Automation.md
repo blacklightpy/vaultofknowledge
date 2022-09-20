@@ -5,10 +5,10 @@ It refers to the use of software for designing electronic systems.
 ### Simulation
 - Description (VHDL/Verilog)
 - Simulation
-- Synthesis (Conversion of RTL Code to a Gate Level netlist)
-- Post-Synthesis Simulation
-- Static Timing Analysis
 ### Design
+- Logical Synthesis (Conversion of RTL Code to a Gate Level netlist)
+- Post-Synthesis Simulation
+	- Static Timing Analysis
 - Placement
 - Routing
 - Power Optimization
