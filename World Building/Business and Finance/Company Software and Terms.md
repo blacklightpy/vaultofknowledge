@@ -6,6 +6,7 @@
 - BoM - EBom, MBoM
 - BPM - Business Process Management
 
+ERP Consists of CRM, HR Management, Supply Chain Management, Financial Management and Production Management
 
 Aras (Aras Innovator PLM) also has a guide on systems thinking using their platform
 https://www.aras.com/en/why-aras/systems-thinking
