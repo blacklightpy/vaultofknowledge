@@ -1,0 +1,3 @@
+- Static Timing Analysis
+- Placement
+- Routing
