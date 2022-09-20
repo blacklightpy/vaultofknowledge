@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Types of Software Development.md",
+            "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3.0/Blockchain.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Types of Software Development.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3.0/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Types of Software Development.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3.0/Blockchain.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Types of Software Development.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3.0/Blockchain.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Project Management/Planning Feb 2022/Requirements.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/Modulation.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Quantum Computers.md",
+    "Personal/Creative and Recreational/Math Rendering.md",
+    "Resources/Open-Source Tools.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Field Theory.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JAMStack.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Popular Types of Development.md",
     "Software Implementations/Untitled.md",
-    "Software Implementations/Jython.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Java.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Popular Deep Learning Models/ResNet.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Popular Deep Learning Models/Overview of Top Deep Learning Models.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Benchmarks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Metrics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md"
+    "Software Implementations/Jython.md"
   ]
 }
