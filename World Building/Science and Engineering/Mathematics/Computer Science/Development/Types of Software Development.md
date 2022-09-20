@@ -6,4 +6,6 @@
 - Data Science
 - Mobile Development
 - Desktop Development
-- 
+- Security Software Development
+- Game Development
+- Embedded System Development
