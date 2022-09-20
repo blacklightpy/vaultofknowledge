@@ -7,13 +7,8 @@
         "id": "b4f3166814c6d772",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bilinear Transformations.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bilinear Transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bilinear Transformations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bilinear Transformations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4f3166814c6d772",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
+    "Untitled.md",
+    "Hessians.md",
     "Bilinear Transformations.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
     "home.md",
     "World Building/Creation.md",
     "World Building/Creation of Drones.md",
     "World Building/Elements of the world.md",
     "World Building/Particles.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/Cellular Networks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Mail Servers.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/DevOps/Control Panels.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/Cellular Networks.md"
   ]
 }
