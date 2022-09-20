@@ -15,8 +15,8 @@ It refers to the use of software for designing electronic systems.
 - Power Optimization
 ### Verification
 - Design Closure
-- Post-Silicon Validation
 ### Post-Design Steps
+- Post-Silicon Validation
 - [[Design For Manufacturing]]
 - Design For Assembly (or DFMA)
 - [[Design For Test]]
