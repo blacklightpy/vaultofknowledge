@@ -5,4 +5,5 @@ It refers to the use of software for designing electronic systems.
 - Placement
 - Routing
 - Power Optimization
+- Design Closure
 - Post-Silicon Validation
