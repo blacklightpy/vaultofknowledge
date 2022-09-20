@@ -1,3 +1,7 @@
 # Enterprise Resource Planning Software
-Bittrix24
-ERPNext - Free self Hosted
+**Open Source**
+- Bittrix24
+- ERPNext - Modular
+- Dolibarr
+
+## Components of ERP

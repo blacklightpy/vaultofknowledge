@@ -1,5 +1,6 @@
 - PM 
 - ERP [[ERP Software]] (Consists of CRM, HR Management, Supply Chain Management, Financial Management and Production Management)
+- SFA (Sales Force Automation)
 - PLM [[PLM Software]]
 - MDM (Master Data Management)
 - CRM - Bittrix24, Zoho CRM
