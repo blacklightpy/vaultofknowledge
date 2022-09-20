@@ -1,0 +1,1 @@
+It refers to defining the scope of the project in consideration of the market demands and company vision.
