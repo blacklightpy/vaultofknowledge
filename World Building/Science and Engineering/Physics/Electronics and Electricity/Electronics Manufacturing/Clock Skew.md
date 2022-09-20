@@ -1,0 +1,1 @@
+Clock/Timing Skew is the phenomenon in which the same clock signal arrives at different times to different parts due to gate or signal propagation delays.
