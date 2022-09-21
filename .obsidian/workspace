@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Colloids.md",
+            "file": "Rayleigh Scattering.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colloids.md",
+                "file": "Rayleigh Scattering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colloids.md",
+                "file": "Rayleigh Scattering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colloids.md"
+                "file": "Rayleigh Scattering.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Rayleigh Scattering.md",
+    "Analog Filters.md",
+    "Fourier Analysis.md",
+    "How to be a good Analog engineer.md",
     "Colloids.md",
+    "Rayleigh Scattering.md",
     "World Building/Business and Finance/Project Management/Teams.md",
     "World Building/Business and Finance/Project Management/Ideas.md",
     "World Building/Business and Finance/Project Management/Jira.md",
     "World Building/Business and Finance/Project Management/Agile for Hardware.md",
-    "World Building/Business and Finance/Project Management/Software Development Lifecycle.md",
-    "World Building/Business and Finance/Project Management/Other constraints.md",
-    "World Building/Business and Finance/Project Management/Key differences between HW and SW.md",
-    "World Building/Business and Finance/Trading/Order Books.md"
+    "World Building/Business and Finance/Project Management/Software Development Lifecycle.md"
   ]
 }
