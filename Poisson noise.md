@@ -1,0 +1,1 @@
+Same as [[Shot Noise]]
