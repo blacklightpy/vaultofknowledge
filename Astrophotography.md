@@ -1,1 +1,2 @@
 - Resolution in arc-seconds per pixel
+- Dawes Limit - Formula for the maximum resolving power of a telescope
