@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aliasing.md",
+            "file": "Moire.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "camera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aliasing.md",
+                "file": "Moire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aliasing.md",
+                "file": "Moire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aliasing.md"
+                "file": "Moire.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Micro Electromechanical Systems.md",
+    "World Building/Creation of Drones.md",
+    "World Building/Engineering Components/Camera Lenses.md",
     "Aliasing.md",
+    "Micro Electromechanical Systems.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Negative Frequencies.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
     "Fourier Analysis.md",
     "How to be a good Analog engineer.md",
     "World Building/Science and Engineering/Mathematics/Algorithms/Real Time Kinematic.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Heaps.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Priority Queues.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Fibonacci Heap.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Heaps.md"
   ]
 }
