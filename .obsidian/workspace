@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -148,15 +149,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Astrophotography.md",
+    "Airy disc.md",
     "Rayleigh Criterion.md",
+    "Astrophotography.md",
     "Shot Noise.md",
     "Poisson noise.md",
     "Oversampling.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Sampling Rate.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Sampling Frequency.md",
     "Analog Filters.md",
-    "How to be a good Analog engineer.md",
-    "Fourier Analysis.md"
+    "How to be a good Analog engineer.md"
   ]
 }
