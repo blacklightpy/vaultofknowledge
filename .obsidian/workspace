@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ISO.md",
+            "file": "Photography.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISO.md",
+                "file": "Photography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISO.md",
+                "file": "Photography.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISO.md"
+                "file": "Photography.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
     "Astrophotography.md",
+    "ISO.md",
     "Micro Electromechanical Systems.md",
     "Solid angle.md",
     "Sound Engineering.md",
@@ -156,7 +157,6 @@
     "Lagrangian Mechanics.md",
     "World Building/Science and Engineering/Physics/Classical Mechanics.md",
     "Hamiltonian Mechanics.md",
-    "Lyapunov Stability.md",
-    "Rayleigh Criterion.md"
+    "Lyapunov Stability.md"
   ]
 }
