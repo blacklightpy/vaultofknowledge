@@ -10,3 +10,5 @@
 	- https://www.optics-trade.eu/blog/rayleigh-and-dawes-resolution/ (short read)
 - Taking good photos
 	- https://skyandtelescope.org/astronomy-blogs/imaging-foundations-richard-wright/capture-crystal-clear-astro-images/
+	- https://www.highpointscientific.com/astronomy-hub/post/astro-photography-guides/undersampling-and-oversampling-in-astrophotography
+	- 
