@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Moire.md",
+            "file": "Aliasing.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "camera",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moire.md",
+                "file": "Aliasing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moire.md",
+                "file": "Aliasing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moire.md"
+                "file": "Aliasing.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Moiré.md",
     "World Building/Creation of Drones.md",
     "World Building/Engineering Components/Camera Lenses.md",
     "Aliasing.md",
@@ -156,7 +157,6 @@
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
     "Fourier Analysis.md",
     "How to be a good Analog engineer.md",
-    "World Building/Science and Engineering/Mathematics/Algorithms/Real Time Kinematic.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Heaps.md"
+    "World Building/Science and Engineering/Mathematics/Algorithms/Real Time Kinematic.md"
   ]
 }
