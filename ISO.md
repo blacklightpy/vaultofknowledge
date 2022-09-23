@@ -10,3 +10,6 @@ ISO has different meanings in film cameras and digital photography.
 - ISO in digital photography refers to applied gain
 - Gain is applied after recording raw data
 - Digital photography has noise, in the shadows
+
+## ISO Response Curve
+![[ISO Response Curve.png]]
