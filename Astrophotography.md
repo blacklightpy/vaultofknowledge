@@ -2,4 +2,6 @@
 - Dawes Limit - Formula for the maximum resolving power of a telescope
 	- R = 11.6/D | D is the aperture of main lens in cm | R is the Resolving power of the instrument.
 	- R = 4.56/D | D is the aperture of main lens in inches
-- 
+- Understanding Resolution: The Dawes Limit, Rayleigh criterion and Airy discs
+	- https://www.cloudynights.com/documents/Understanding%20Resolution.pdf
+	- https://www.optics-trade.eu/blog/rayleigh-and-dawes-resolution/ (short read)
