@@ -1,0 +1,1 @@
+- Microphone frequency response: https://mynewmicrophone.com/complete-guide-to-microphone-frequency-response-with-mic-examples/
