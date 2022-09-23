@@ -9,3 +9,7 @@ $\Omega = \frac{A}{r^2}$
 - Solid angle can also be measured in square degrees
 
 1 sr = $(\frac{180}{\pi})^2$ square degrees
+
+- It can also be measured in square minutes, square seconds or fractions of sphere ($\frac{1}{4\pi}$) sr, also known as spat
+
+1 sp = $4\pi$ sr
