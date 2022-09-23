@@ -8,4 +8,4 @@ $\Omega = \frac{A}{r^2}$
 - Solid angle subtended by a face of a cube to its centre is 1/6th of that, or $\frac{2\pi}{3}$ steridians.
 - Solid angle can also be measured in square degrees
 
-1 sr = 
+1 sr = $(\frac{180}{\pi})^2$ square degrees
