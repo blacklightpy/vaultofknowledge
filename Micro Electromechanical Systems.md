@@ -1,0 +1,1 @@
+Read: https://www.techtarget.com/iotagenda/definition/micro-electromechanical-systems-MEMS
