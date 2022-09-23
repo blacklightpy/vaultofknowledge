@@ -7,3 +7,5 @@
 - Understanding Resolution: The Dawes Limit, Rayleigh criterion and Airy discs
 	- https://www.cloudynights.com/documents/Understanding%20Resolution.pdf
 	- https://www.optics-trade.eu/blog/rayleigh-and-dawes-resolution/ (short read)
+- Taking good photos
+	- https://skyandtelescope.org/astronomy-blogs/imaging-foundations-richard-wright/capture-crystal-clear-astro-images/
