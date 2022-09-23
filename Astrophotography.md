@@ -2,6 +2,7 @@
 	- An arc second is a unit of measurement of the sky, and is equal to 1/360th of 1 degree.
 	- Arc-seconds per pixel = Pixel size (microns) x Focal Length/206.265
 - Guiding (manual movement of camera) and Seeing (atmospheric movement of light)
+	- FWHM
 - Dawes Limit - Formula for the maximum resolving power of a telescope
 	- R = 11.6/D | D is the aperture of main lens in cm | R is the Resolving power of the instrument.
 	- R = 4.56/D | D is the aperture of main lens in inches
@@ -11,4 +12,4 @@
 - Taking good photos
 	- https://skyandtelescope.org/astronomy-blogs/imaging-foundations-richard-wright/capture-crystal-clear-astro-images/
 	- https://www.highpointscientific.com/astronomy-hub/post/astro-photography-guides/undersampling-and-oversampling-in-astrophotography
-	- 
+	- Binning
