@@ -1,0 +1,1 @@
+- Resolution in arc-seconds per pixel
