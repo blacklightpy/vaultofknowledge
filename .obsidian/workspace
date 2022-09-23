@@ -149,6 +149,7 @@
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
     "Astrophotography.md",
+    "Rayleigh Criterion.md",
     "Shot Noise.md",
     "Poisson noise.md",
     "Oversampling.md",
@@ -156,7 +157,6 @@
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Sampling Frequency.md",
     "Analog Filters.md",
     "How to be a good Analog engineer.md",
-    "Fourier Analysis.md",
-    "Micro Electromechanical Systems.md"
+    "Fourier Analysis.md"
   ]
 }
