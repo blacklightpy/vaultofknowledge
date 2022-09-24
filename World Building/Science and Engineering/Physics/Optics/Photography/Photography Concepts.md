@@ -3,7 +3,7 @@
 	- Shutter Speed
 	- [[ISO]]
 	- [[EV]]
-- Dynamic Range (DR)
+- Dynamic Range (DR)                 
 
 - Oversampling to read: https://forum.startools.org/viewtopic.php?t=2282
 
