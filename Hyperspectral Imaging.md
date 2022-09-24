@@ -1,0 +1,1 @@
+- Continuous, unlike [[Multispectral Imaging]]

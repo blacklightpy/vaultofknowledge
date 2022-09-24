@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spectroscopy.md",
+            "file": "Multispectral Imaging.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spectroscopy.md",
+                "file": "Multispectral Imaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spectroscopy.md",
+                "file": "Multispectral Imaging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spectroscopy.md"
+                "file": "Multispectral Imaging.md"
               }
             }
           },
@@ -147,6 +147,8 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Hyperspectral Imaging.md",
+    "Spectroscopy.md",
     "NMR Spectroscopy.md",
     "Jablonski Diagrams.md",
     "Luminscence.md",
@@ -154,8 +156,6 @@
     "Machine Vision.md",
     "World Building/Science and Engineering/Chemistry/Physical/Flourescence.md",
     "Article Reading List.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
-    "Sound Engineering.md",
-    "Hamiltonian Mechanics.md"
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md"
   ]
 }
