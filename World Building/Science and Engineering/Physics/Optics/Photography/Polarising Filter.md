@@ -2,6 +2,9 @@
 Light from the polarizer is incident on the analyzer
 
 - $I = I_0\cos^2{\theta_i}$  , $I_0$ is the initial intensity; $\theta_i$ is the angle between the plane of the polarizer and the analyzer.
+- For a beam of unpolarized light, it contains light from all angles, so the value of $\cos^2{\theta}$ can be thought of as the average, which is $1/2$
+  
+  Hence, $I/I_0 = 1/2$ 
 
 ## Proof of Malu's Law
 - $I = A^2$ , $I$ is the intensity, $A$ is the amplitude
