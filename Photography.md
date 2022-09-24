@@ -5,6 +5,7 @@
 - EV
 	- Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed 
 	- Also $\frac{N^2}{t}=\frac{LS}{K}$ , S = ISO | L = Luminance | K = Reflected-light meter calibration constant
+	- The calculators for EV Equivalence used the formula $EV=\log_2{\frac{100N^2}{St}}$ 
 - Dynamic Range (DR)
 
 
