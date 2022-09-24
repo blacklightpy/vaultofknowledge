@@ -23,10 +23,16 @@ Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed
 #### Under sunlight
 - ISO 53 : 1/10753 (auto)
 - ISO 50 : 1/10870 (manual lowest ISO)
-- ISO 6200: 1/4000 (manual lowest shutter)
+- ISO 6200: 1/4000 (manual lowest shutter) [Doubt]
 #### In the dark
-
+- ISO 1489 : 1/25 (auto)
+- ISO ???? : 1/33 (manual)
 ### EV +4.0
 #### Under sunlight
+- ISO 4830 : 1/4000 (manual lowest shutter)
 #### In the dark
 - ISO 12799 : 1/14 (Auto)
+- ISO 6200 : 1/4000 (manual lowest shutter)
+- ISO 74 : 30s (manual highest shutter)
+- ISO 50 : 1/8s (manual lowest ISO)
+- ISO 6400 : 1/8s (manual highest ISO)
