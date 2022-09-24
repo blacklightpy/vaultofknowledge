@@ -1,0 +1,1 @@
+- The term optical density is discouraged. [[Absorbance]] is the right term.

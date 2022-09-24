@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
+            "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "optical density",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md"
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md"
               }
             }
           },
@@ -139,25 +138,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Personal/words I learned today.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
+    "World Building/Science and Engineering/Physics/Optics/Optical Density.md",
+    "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
+    "World Building/Science and Engineering/Physics/Optics/Absorbance.md",
+    "World Building/Science and Engineering/Physics/Optics/Waveplate.md",
+    "World Building/Science and Engineering/Physics/Optics/Polarisation.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Optical Filters.md",
     "World Building/Science and Engineering/Physics/Optics/Fourier Optics.md",
-    "World Building/Science and Engineering/Physics/Optics/Polarisation.md",
-    "World Building/Science and Engineering/Physics/Optics/Waveplate.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Wratten Numbers.md",
-    "Personal/words I learned today.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/ISO.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Depth of Field.md"
+    "World Building/Science and Engineering/Physics/Optics/Photography/Wratten Numbers.md"
   ]
 }

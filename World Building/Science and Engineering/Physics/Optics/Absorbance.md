@@ -1,0 +1,1 @@
+- It is the common logarithm of the ratio of incident light to transmitted light by a medium.
