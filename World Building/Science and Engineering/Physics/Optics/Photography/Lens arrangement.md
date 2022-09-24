@@ -1,0 +1,1 @@
+- Cameras use both convex and concave lenses to correct aberration, for function of telephoto lenses and zoom lenses.
