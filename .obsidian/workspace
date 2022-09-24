@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md",
+            "file": "Personal/Knowledge/Untitled.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md",
+                "file": "Personal/Knowledge/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md",
+                "file": "Personal/Knowledge/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md"
+                "file": "Personal/Knowledge/Untitled.md"
               }
             }
           },
@@ -147,6 +147,8 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Personal/Knowledge/Photography.md",
+    "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Blue Hour.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Golden Hour.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
@@ -154,8 +156,6 @@
     "World Building/Science and Engineering/Physics/Optics/Optical Density.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
     "World Building/Science and Engineering/Physics/Optics/Absorbance.md",
-    "World Building/Science and Engineering/Physics/Optics/Waveplate.md",
-    "World Building/Science and Engineering/Physics/Optics/Polarisation.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Optical Filters.md"
+    "World Building/Science and Engineering/Physics/Optics/Waveplate.md"
   ]
 }
