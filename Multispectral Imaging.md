@@ -1,1 +1,2 @@
 - Discrete frequencies from a range in sampling steps.
+- e.g. Landsat
