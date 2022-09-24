@@ -1,5 +1,5 @@
 ISO has different meanings in film cameras and digital photography.
-
+- Also known as film speed
 - ISO always comes at the cost of details, sharpness and dynamic range
 # Film Photography
 - ISO refers to film sensitivity in film cameras
