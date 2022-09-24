@@ -3,7 +3,7 @@ Also known as ND filter.
 
 ND filter lowers the intensity of all wavelengths, or colours equally giving no changes in the hue of colour rendition.
 
-It can be a colourless (clear) or grey filter, and is denoted by Wratten Number 96.
+It can be a colourless (clear) or grey filter, and is denoted by [[Wratten Numbers|Wratten Number]] 96.
 
 The purpose of an ND filter is to limit the amount of light entering the lens. Doing so allows the photographer to choose combinations of aperture, shutter speed and sensor sensitivity, which would otherwise result in an overexposed image. This is done to increase the depth of field or add motion blur.
 
