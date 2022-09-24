@@ -1,5 +1,5 @@
 - While f-stops are the theoretical value of aperture, the t-stops determine the actual tested value of light going in, since glass can absorb some light.
-- Photography lenses use 
+- Most photography lenses use f-stops and most cinema lenses use t-stops
 
 ## Why do most photography manufacturers don't bother with the T-stops?
 - Light metering will compensate for the difference in lenses with same f-stops but different t-stops
