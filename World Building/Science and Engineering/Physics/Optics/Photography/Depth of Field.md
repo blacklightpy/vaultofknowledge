@@ -4,4 +4,5 @@
   The value 1730 is by measurement using a 35 mm camera, but it can change.
    
 # Analysis by Math
-- Point Spread Function | Fourier Transform
+- Point Spread Function | Fourier Transform | Optical Transfer Function
+	- More read: https://photo.stackexchange.com/a/106181
