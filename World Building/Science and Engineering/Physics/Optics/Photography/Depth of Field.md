@@ -7,5 +7,5 @@
 - Larger distance between subject and background: lower DoF
 
 # Analysis by Math
-- Point Spread Function | Fourier Transform | Optical Transfer Function
+- Point Spread Function | Fourier Transform | Optical Transfer Function | Convolution
 	- More read: https://photo.stackexchange.com/a/106181

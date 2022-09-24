@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Knowledge/Colour Theory.md",
+            "file": "World Building/Science and Engineering/Physics/Optics/Photography/Depth of Field.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Knowledge/Colour Theory.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Depth of Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Knowledge/Colour Theory.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Depth of Field.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Knowledge/Colour Theory.md"
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Depth of Field.md"
               }
             }
           },
@@ -147,12 +147,12 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Personal/Knowledge/Colour Schemes.md",
+    "Personal/Knowledge/Photography.md",
+    "Personal/Knowledge/Colour Theory.md",
     "Personal/Creative and Recreational/Colours.md",
     "Personal/Creative and Recreational/Aesthetics.md",
-    "Personal/Knowledge/Colour Schemes.md",
     "Personal/Knowledge/Art Concepts.md",
-    "Personal/Knowledge/Colour Theory.md",
-    "Personal/Knowledge/Photography.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Blue Hour.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Golden Hour.md",

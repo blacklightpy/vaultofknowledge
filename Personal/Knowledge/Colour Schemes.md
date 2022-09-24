@@ -1,2 +1,3 @@
 - Earth Tones: Any colour containing some brown, or natural colours
 - Pastel: Characterized by having High Lightness and Low Saturation
+- Bastard Colours
