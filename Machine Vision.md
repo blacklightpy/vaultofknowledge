@@ -3,5 +3,7 @@
 - Lens mount quality
 	- CS < M12 < C (best for machine vision)
 	- Use C mount for image sensors > 1/8"
-	- M12 is suited only for sensors upto 1/8". Cheap M12 are only good upto 1/3". Expensive M12 do not have as much distortion as cheap M12.
-	- CS mount is bad for machine vision
+	- M12 is suited only for sensors upto 1/8". Cheap M12 are only good upto 1/3". Expensive M12 do not have as much distortion as cheap M12 and are suitable for high resolution cameras and sensors upto 1/8".
+	- CS mount is bad for machine vision. Mostly used in CCTV cameras.
+
+- CS mount cameras can support M12 and C mount lenses with adapters.
