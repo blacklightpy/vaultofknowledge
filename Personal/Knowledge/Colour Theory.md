@@ -1,0 +1,11 @@
+## Colour Theory
+- Tint
+- Shade
+- Tone
+- Hue
+- Saturation
+- Lightness/Luminance
+- Contrast
+- Additive/Subtractive
+- Warm/Cold
+- Positive/Negative

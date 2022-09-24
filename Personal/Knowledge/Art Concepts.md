@@ -1,5 +1,6 @@
 - Shading
 - Anatomy
 
-
-[[Personal/Creative and Recreational/Graphics]]
+[[Colour Theory]]
+[[Colour Schemes]]
+[[Graphics]]

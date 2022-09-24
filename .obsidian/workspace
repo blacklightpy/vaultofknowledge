@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Knowledge/Untitled.md",
+            "file": "Personal/Creative and Recreational/Colours.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Knowledge/Untitled.md",
+                "file": "Personal/Creative and Recreational/Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Knowledge/Untitled.md",
+                "file": "Personal/Creative and Recreational/Colours.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Knowledge/Untitled.md"
+                "file": "Personal/Creative and Recreational/Colours.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Personal/Creative and Recreational/Aesthetics.md",
+    "Personal/Knowledge/Colour Schemes.md",
+    "Personal/Knowledge/Art Concepts.md",
+    "Personal/Knowledge/Colour Theory.md",
     "Personal/Knowledge/Photography.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Blue Hour.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Golden Hour.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
-    "Personal/words I learned today.md",
-    "World Building/Science and Engineering/Physics/Optics/Optical Density.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
-    "World Building/Science and Engineering/Physics/Optics/Absorbance.md",
-    "World Building/Science and Engineering/Physics/Optics/Waveplate.md"
+    "Personal/words I learned today.md"
   ]
 }
