@@ -6,6 +6,9 @@
 	- Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed 
 	- Also $\frac{N^2}{t}=\frac{LS}{K}$ , S = ISO | L = Luminance | K = Reflected-light meter calibration constant
 	- The calculators for EV Equivalence used the formula $EV=\log_2{\frac{100N^2}{St}}$ 
+	- Equivalent EV doesn't always result in the same image
+		- e.g. Shutter speed can be slower causing water to have a ribbon like effect
+		- e.g. Aperture can be adjusted to have a shallow/deeper depth of field (DoF)
 - Dynamic Range (DR)
 
 
