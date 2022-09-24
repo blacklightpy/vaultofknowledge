@@ -12,4 +12,8 @@ ISO has different meanings in film cameras and digital photography.
 - Digital photography has noise, in the shadows
 
 ## ISO Response Curves of Digital and Film Cameras
-![[ISO Response Curve.png]]
+![[ISO Response Curve.png]] 
+
+Related:
+- Reciprocity
+- Reciprocity Failure (in Film)
