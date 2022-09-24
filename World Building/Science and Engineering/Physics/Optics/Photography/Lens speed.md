@@ -1,0 +1,2 @@
+- It referse to the amount of light that enters a lens at a given shutter speed. The higher the aperture, more the lens speed.
+- Basically lens speed is the same as the aperture.
