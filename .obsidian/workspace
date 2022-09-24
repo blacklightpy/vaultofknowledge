@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/words I learned today.md",
+            "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/words I learned today.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/words I learned today.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/words I learned today.md"
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md"
               }
             }
           },
@@ -150,13 +150,13 @@
   "lastOpenFiles": [
     "World Building/Science and Engineering/Physics/Optics/Polarisation.md",
     "World Building/Science and Engineering/Physics/Optics/Waveplate.md",
+    "Personal/words I learned today.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Polarising Filter.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Optical Filters.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Neutral Density Filter.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/ISO.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Depth of Field.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Ultra Wide Angle Lenses.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Macrophotography.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Telephoto Lenses.md"
+    "World Building/Science and Engineering/Physics/Optics/Photography/Macrophotography.md"
   ]
 }
