@@ -1,0 +1,1 @@
+- Used for measuring the intensity of incoming light
