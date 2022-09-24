@@ -1,0 +1,1 @@
+- It is the distance beyond which all objects will be in focus.

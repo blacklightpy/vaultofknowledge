@@ -1,6 +1,6 @@
 ## Paramters
 - Focal Length
-- Hyperfocal Distance
+- [[Hyperfocal Distance]]
 - **Circle of Confusion (CoC)**
 	When the converging point of the image cone is in front of or behind the focus, the image formed on the screen is a circle, not a point. This circle is called the Circle of Confusion.
 - **Depth of Field (DOF)**
