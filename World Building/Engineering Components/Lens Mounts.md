@@ -1,6 +1,6 @@
 ## Types
 ### Embedded
-- M12
+- S or M12
 - CS: FFD 12.526 mm
 
 ### DSLR Cameras

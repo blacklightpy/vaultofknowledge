@@ -1,0 +1,1 @@
+- Camera Selection: https://ocularcomponentmv.blogspot.com/2014/04/machine-vision-lens-and-camera.html
