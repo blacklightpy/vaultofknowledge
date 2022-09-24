@@ -13,3 +13,7 @@ For modern cameras, a circular polariser is used. This works by combining a line
 - Warm Filter: Good for shooting hazy scenes. Adds a subtle yellow or reddish tone, cutting through the haze to create clearer photos with a natural appearance.
 - Neutral Filter: They produce a slightly cooler tone. They let you maintain colour fidelity while still highlighting the natural colours of the scene.
 
+## When to not use polarising filters
+- When you want to highlight wet surfaces or reflections
+- When in low-light, since they reduce light by about two to three f-stops.
+- 
