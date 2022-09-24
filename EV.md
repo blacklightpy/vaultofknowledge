@@ -19,5 +19,14 @@ Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed
 
 # Limits of my camera
 ## f/1.79
+### EV -4.0
+#### Under sunlight
+- ISO 53 : 1/10753 (auto)
 - ISO 50 : 1/10870 (manual lowest ISO)
 - ISO 6200: 1/4000 (manual lowest shutter)
+#### In the dark
+
+### EV +4.0
+#### Under sunlight
+#### In the dark
+- ISO 12799 : 1/14 (Auto)
