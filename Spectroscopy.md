@@ -1,7 +1,7 @@
 It is the study of spectra.
 
-
 - Raman Spectroscopy
-- Flou
+- Flourescence Spectroscopy
 - NMR Spectroscopy
 - Hyperspectral Imaging
+- X-Ray Spectroscopy
