@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jablonski Diagrams.md",
+            "file": "Spectroscopy.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jablonski Diagrams.md",
+                "file": "Spectroscopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jablonski Diagrams.md",
+                "file": "Spectroscopy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jablonski Diagrams.md"
+                "file": "Spectroscopy.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Luminscence.md",
+    "NMR Spectroscopy.md",
     "Jablonski Diagrams.md",
+    "Luminscence.md",
     "Personal/words I learned today.md",
     "Machine Vision.md",
     "World Building/Science and Engineering/Chemistry/Physical/Flourescence.md",
     "Article Reading List.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
     "Sound Engineering.md",
-    "Hamiltonian Mechanics.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Lyapunov Stability.md"
+    "Hamiltonian Mechanics.md"
   ]
 }
