@@ -7,3 +7,11 @@
 	- CS mount is bad for machine vision. Mostly used in CCTV cameras.
 
 - CS mount cameras can support M12 and C mount lenses with adapters.
+
+# Considerations
+- Sensor size
+- FoV
+- Working Distance
+- Optimized for Application (e.g. M12 is only distortion optimized for short distances, while C is optimized for more aberrations).
+	- Find which aberrations can be corrected and which ones are acceptable, etc.
+- Environment (for damping, etc.)
