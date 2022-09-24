@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Engineering Components/Lens Mounts.md",
+            "file": "World Building/Science and Engineering/Physics/Optics/Photography/f-ratio.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Engineering Components/Lens Mounts.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/f-ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Engineering Components/Lens Mounts.md",
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/f-ratio.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Engineering Components/Lens Mounts.md"
+                "file": "World Building/Science and Engineering/Physics/Optics/Photography/f-ratio.md"
               }
             }
           },
@@ -149,6 +148,7 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Engineering Components/Lens Mounts.md",
     "World Building/Engineering Components/Camera Lenses.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Photography.md",
     "Personal/Knowledge/Building Structures.md",
@@ -157,7 +157,6 @@
     "Personal/Knowledge/Literature.md",
     "Personal/Knowledge/Photo Editing.md",
     "Personal/Knowledge/Photography.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/ISO.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/EV.md"
+    "World Building/Science and Engineering/Physics/Optics/Photography/ISO.md"
   ]
 }
