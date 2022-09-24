@@ -7,7 +7,7 @@ Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed
 > 
 > And as I changed the EV to -4.0 and pointed at the sun, the shutter speed was 1/10753 and increased as light decreased, while the ISO remained at 53. Even in total darkness, the shutter speed reached a maximum of 1/33 and ISO reached a maximum of 1489.
 >   
-> The calculations were not all that perfect, because at EV -4.0 the configuration was 1/25s | ISO1489. But by manually setting the shutter speed to 1/25s at EV -4.0, the ISO was 378.
+> The calculations were not all that perfect, because at EV -4.0 the configuration was 1/25s | ISO1489. But by manually setting the shutter speed to 1/25s at EV -4.0, the ISO was 378. Similarly, manually setting the ISO to 320 or 400 kept the shutter speed at 1/136 or 1/130 respectively.
 
 
 - Equivalent EV doesn't always result in the same image
