@@ -9,7 +9,7 @@ Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed
 >   
 > The calculations were not all that perfect, because at EV -4.0 the configuration was 1/25s | ISO1489. But by manually setting the shutter speed to 1/25s at EV -4.0, the ISO was 378. Similarly, manually setting the ISO to 320 or 400 kept the shutter speed at 1/136 or 1/130 respectively.
 > 
-> For the Ultra Wide Angle Lens (f/2.2), the mi 1/33s | ISO539
+> For the Ultra Wide Angle Lens (f/2.2), the minimum values for EV +4.0 under bright light was 1/3831s | ISO55 and the maximum value in darkness was 1/14s | ISO4000. The maximum values for EV -4.0 under darkness was 1/33s | ISO539
 
 
 - Equivalent EV doesn't always result in the same image
