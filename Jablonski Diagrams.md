@@ -1,0 +1,1 @@
+It is a diagram that illustrates the electronic states of a molecule and the transitions between them.
