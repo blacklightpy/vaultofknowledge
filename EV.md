@@ -4,7 +4,10 @@ Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed
 - The calculators for EV Equivalence used the formula $EV=\log_2{\frac{100N^2}{St}}$ 
 
 > I observed that for my smartphone with fixed aperture (f/1.79) and Shutter Speed and ISO set to Auto, when EV was set to +4.0, the ISO varied from 12799 to ~2000 as light increased, while the shutter speed remained at 1/14, and only changed to 1/20 under very bright light.
->   And as I changed the EV to -4.0 and pointed at the sun, the shutter speed was 1/10753 and increased as light decreased, while the ISO remained at 53. Even in total darkness, the shutter speed reached a maximum of 1/33 and ISO reached a maximum of 1489.
+> 
+> And as I changed the EV to -4.0 and pointed at the sun, the shutter speed was 1/10753 and increased as light decreased, while the ISO remained at 53. Even in total darkness, the shutter speed reached a maximum of 1/33 and ISO reached a maximum of 1489.
+>   
+> The calculations were not all that perfect, because at EV -4.0 the configuration was 1/25s | ISO1489. But by manually setting the shutter speed to 1/25s at EV -4.0, the ISO was 378.
 
 
 - Equivalent EV doesn't always result in the same image
