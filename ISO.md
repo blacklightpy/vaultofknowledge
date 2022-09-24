@@ -11,5 +11,5 @@ ISO has different meanings in film cameras and digital photography.
 - Gain is applied after recording raw data
 - Digital photography has noise, in the shadows
 
-## ISO Response Curve
+## ISO Response Curves of Digital and Film Cameras
 ![[ISO Response Curve.png]]
