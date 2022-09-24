@@ -1,4 +1,5 @@
-- f-number is the ratio of focal length to aperture
-- Aperture is defined as the f-ratio.
+- f-ratio is the ratio of focal length to aperture
+- Aperture is defined as the focal length/f-ratio.
 - Each f-stop increases brightness twice, or EV by 1.
-- One f-stop is an addition of $1/\sqrt{2}$ in the denominator
+- One f-stop is an increase by a factor of $1/\sqrt{2}$ 
+- A half f-stop is an increase by a factor of $(\frac{1}{\sqrt{2}})^\frac{1}{2}$ 
