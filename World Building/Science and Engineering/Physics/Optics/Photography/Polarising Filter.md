@@ -15,5 +15,5 @@ For modern cameras, a circular polariser is used. This works by combining a line
 
 ## When to not use polarising filters
 - When you want to highlight wet surfaces or reflections
-- When in low-light, since they reduce light by about two to three f-stops.
-- 
+- When in low-light, since they reduce light by about two to three f-stops. e.g. When shooting at [[Blue Hour]], shooting at night, or photographing the Aurora Borealis
+- When shooting rainbows at iconic locations like waterfalls - since they either minimize the effect of the rainbow, or create an unrealistic effect if used to enhance its colours.
