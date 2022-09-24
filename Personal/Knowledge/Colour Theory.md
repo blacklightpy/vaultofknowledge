@@ -1,3 +1,5 @@
+- CIECAM02 Model
+- Chromaticity Diagram
 ## Colour Theory
 - Tint
 - Shade
