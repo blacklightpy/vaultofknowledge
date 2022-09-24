@@ -1,0 +1,2 @@
+- Depth of Field is basically: How much blur can be allowed until it becomes objectionable?
+- 
