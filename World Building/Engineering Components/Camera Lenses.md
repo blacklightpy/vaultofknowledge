@@ -7,6 +7,7 @@
 	The distance between objects that create a focus range of acceptable circle of confusion is called depth of field. The region that is not in the focused range forms a [[Personal/Knowledge/Photography#^2ceb3b|bokeh]].
 	[Awesome Notes on DOF](https://physicssoup.wordpress.com/2012/05/18/why-does-a-small-aperture-increase-depth-of-field/)
 - **Aperture**
+- [[Lens Mounts]]
 
 ## Types of Lenses
 ### By structure
