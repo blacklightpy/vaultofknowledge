@@ -14,6 +14,7 @@
 - Convex | Concave
 - Plano Convex | Plano Concave | Convexo-Concave | Concavo-Convex
 - Fresnel Lens - thinned plano-convex lens, by cutting out rectangular segments, making no significant change in angle of refraction.
+	- It has distortion which makes it bad for imaging applications
 
 ### By Functionality
 - Fisheye Lenses / Wide Angle Lenses
