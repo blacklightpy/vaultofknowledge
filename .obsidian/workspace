@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
+            "file": "Luminscence.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
+                "file": "Luminscence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
+                "file": "Luminscence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md"
+                "file": "Luminscence.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Personal/Knowledge/Photography.md",
-    "Personal/Knowledge/Colour Theory.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Astrophotography.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Depth of Field.md",
-    "Personal/Knowledge/Colour Schemes.md",
-    "Personal/Creative and Recreational/Colours.md",
-    "Personal/Creative and Recreational/Aesthetics.md",
-    "Personal/Knowledge/Art Concepts.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Blue Hour.md"
+    "Jablonski Diagrams.md",
+    "Luminscence.md",
+    "Personal/words I learned today.md",
+    "Machine Vision.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Flourescence.md",
+    "Article Reading List.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
+    "Sound Engineering.md",
+    "Hamiltonian Mechanics.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Lyapunov Stability.md"
   ]
 }
