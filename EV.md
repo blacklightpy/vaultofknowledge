@@ -16,3 +16,8 @@ Formula: $EV = \log_2\frac{N^2}{t}$ N = aperture | t = shutter speed
 	- e.g. Shutter speed can be slower causing water to have a ribbon like effect
 	- e.g. Aperture can be adjusted to have a shallow/deeper depth of field (DoF)
 	- More reads on equivalent EV: https://www.shutterbug.com/content/equivalent-exposure
+
+# Limits of my camera
+## f/1.79
+- ISO 50 : 1/10870 (manual lowest ISO)
+- ISO 6200: 1/4000 (manual lowest shutter)
