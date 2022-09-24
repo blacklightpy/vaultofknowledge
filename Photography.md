@@ -9,6 +9,7 @@
 	- Equivalent EV doesn't always result in the same image
 		- e.g. Shutter speed can be slower causing water to have a ribbon like effect
 		- e.g. Aperture can be adjusted to have a shallow/deeper depth of field (DoF)
+		- More reads on equivalent EV: https://www.shutterbug.com/content/equivalent-exposure
 - Dynamic Range (DR)
 
 
