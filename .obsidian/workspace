@@ -7,8 +7,13 @@
         "id": "b4f3166814c6d772",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Article Reading List.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Article Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Article Reading List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Article Reading List.md"
+              }
             }
           },
           {
@@ -137,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "List of.md",
     "Inclusive Machine Learning.md",
     "Multispectral Imaging.md",
     "Hyperspectral Imaging.md",
@@ -147,7 +157,6 @@
     "Jablonski Diagrams.md",
     "Luminscence.md",
     "Personal/words I learned today.md",
-    "Machine Vision.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Flourescence.md"
+    "Machine Vision.md"
   ]
 }
