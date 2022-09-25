@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Taylor Series.md",
+            "file": "Business Ethics.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taylor Series.md",
+                "file": "Business Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taylor Series.md",
+                "file": "Business Ethics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taylor Series.md"
+                "file": "Business Ethics.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Newton-Raphson Method.md",
     "Taylor Series.md",
+    "Newton-Raphson Method.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
     "Impulse Response.md",
     "Infinite Impulse Response Filters.md",
