@@ -10,7 +10,7 @@
 If an active component lke op-amp or transistor is used in RC filter, it is called:
 - Active filter
 
-# Uses of AFs
+# Uses of Analog Filters
 - Avoid aliasing by ADCs or DACs
 	- In ADCs, antialiasing AF ensures i/p signal does not contain any component above the Nyquist frequency.
 	- In DACs, the reconstruction analog filter ensures that no dangerous or unwanted frequency components are created by the limited resolution and sampling rate of the DAC.

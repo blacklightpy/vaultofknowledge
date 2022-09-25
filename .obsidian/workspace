@@ -138,14 +138,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b4f3166814c6d772",
+  "active": "92d8ce2661a6a2dd",
   "lastOpenFiles": [
     "Hyperspectral Imaging.md",
     "Spectroscopy.md",
