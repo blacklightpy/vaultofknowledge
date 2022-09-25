@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Business Ethics.md",
+            "file": "Filters.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Ethics.md",
+                "file": "Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Ethics.md",
+                "file": "Filters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Ethics.md"
+                "file": "Filters.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Infinite Impulse Response Filters.md",
+    "Filters.md",
+    "Digital Filters.md",
+    "Business Ethics.md",
     "Inclusive Machine Learning.md",
     "Article Reading List.md",
     "List of.md",
     "Multispectral Imaging.md",
     "Hyperspectral Imaging.md",
-    "Spectroscopy.md",
-    "NMR Spectroscopy.md",
-    "Jablonski Diagrams.md",
-    "Luminscence.md",
-    "Personal/words I learned today.md"
+    "Spectroscopy.md"
   ]
 }

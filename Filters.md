@@ -12,3 +12,7 @@ If the filter contains an active component like a transistor, then it is an acti
 - Notch Filter
 
 These four can be used to create other filters such as band-pass and band-reject filters.
+
+## By Impulse Response
+- [[Infinite Impulse Response Filters]]
+- [[Finite Impulse Response Filters]]
