@@ -1,0 +1,2 @@
+- Keep metrics to make businesses remain honest
+- Keep qualitative analysis to prevent ethics from being a scorecard
