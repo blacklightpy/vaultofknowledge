@@ -1,0 +1,1 @@
+Taylor Series can be used to calculate the value of a function at every point, if the value its value and all its derivatives are known at a single point.
