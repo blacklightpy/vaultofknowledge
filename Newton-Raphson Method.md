@@ -1,0 +1,2 @@
+It is used to quickly find the zeroes of a function by iterative approximation.
+There are some fail cases, for example when the derivative is zero, and also when it can cycle between two points (see 3blue1brown video)
