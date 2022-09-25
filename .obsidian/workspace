@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Business Ethics.md",
+            "file": "World Building/Science and Engineering/Chemistry/Physical/Luminscence.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Ethics.md",
+                "file": "World Building/Science and Engineering/Chemistry/Physical/Luminscence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Ethics.md",
+                "file": "World Building/Science and Engineering/Chemistry/Physical/Luminscence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Ethics.md"
+                "file": "World Building/Science and Engineering/Chemistry/Physical/Luminscence.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4f3166814c6d772",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Taylor Series.md",
-    "Newton-Raphson Method.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
-    "Impulse Response.md",
-    "Infinite Impulse Response Filters.md",
-    "Linear Time Invariant System.md",
-    "Filters.md",
-    "Digital Filters.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Finite Impulse Response Filters.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Impulse Response.md",
+    "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Hyperspectral Imaging.md",
     "Business Ethics.md",
-    "Inclusive Machine Learning.md"
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Taylor Series.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Newton-Raphson Method.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Linear Time Invariant System.md"
   ]
 }

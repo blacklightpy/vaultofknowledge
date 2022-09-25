@@ -1,1 +1,0 @@
-They have finite [[impulse response]].
