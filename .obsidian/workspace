@@ -7,8 +7,13 @@
         "id": "b4f3166814c6d772",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sound Engineering.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -53,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sound Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sound Engineering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sound Engineering.md"
+              }
             }
           },
           {
@@ -140,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy.md",
+    "Analog Filters.md",
     "Sound Engineering.md",
+    "Inclusive Machine Learning.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy.md",
     "World Building/Science and Engineering/Chemistry/Physical/Luminscence.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Finite Impulse Response Filters.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Impulse Response.md",
     "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md",
     "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Hyperspectral Imaging.md",
-    "Business Ethics.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Taylor Series.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Newton-Raphson Method.md"
+    "Business Ethics.md"
   ]
 }
