@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inclusive Machine Learning.md",
+            "file": "Ideas and References/Maps of Content.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inclusive Machine Learning.md",
+                "file": "Ideas and References/Maps of Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inclusive Machine Learning.md",
+                "file": "Ideas and References/Maps of Content.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inclusive Machine Learning.md"
+                "file": "Ideas and References/Maps of Content.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Creation of Drones.md",
+    "World Building/Creation.md",
+    "World Building/Elements of the world.md",
+    "World Building/Particles.md",
     "Micro Electromechanical Systems.md",
     "Sound Engineering.md",
-    "Analog Filters.md",
-    "How to be a good Analog engineer.md",
-    "home.md",
-    "Article Reading List.md",
     "Inclusive Machine Learning.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Luminscence.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Finite Impulse Response Filters.md"
+    "Article Reading List.md",
+    "Business Ethics.md",
+    "Analog Filters.md"
   ]
 }
