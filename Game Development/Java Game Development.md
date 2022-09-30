@@ -4,6 +4,7 @@
 	- Consists of configuration layer and profile layer
 	- ## Configuration Part
 		- Connected Limited Device Configuration (CLDC)
+			- Is a subset of CDC, intended for lower end devices
 		- Common Device Configuration (CDC)
 	- ## Profile Part
 		- ### CLDC Based
