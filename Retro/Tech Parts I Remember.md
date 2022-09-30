@@ -13,3 +13,4 @@
 
 ### Phone
 - Nokia Pop-Port Connectivity Cable
+- Samsung PCB113BSE Connectivity Cable (for Anycool D66+)

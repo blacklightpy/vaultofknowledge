@@ -1,7 +1,9 @@
 **Platform**
 - Java ME (Java Platform, Micro Edition)
 	- formerly J2ME (Java 2 Platform, Micro Edition)
-- MIDP 2.0
+	- Consists of CLDC and MIDP
+	- 
+	- Configuration Part: MIDP 2.0
 
 **APIs**
 - JSR 184: Mobile 3D Graphics API for J2METM
