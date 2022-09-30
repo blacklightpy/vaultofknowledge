@@ -5,6 +5,7 @@
 	- ## Configuration Part
 		- Connected Limited Device Configuration (CLDC)
 			- Is a subset of CDC, intended for lower end devices
+			- Most classes are derived from J2SE and use J2SE names, and CLDC-specific classes use javax.microedition prefix
 		- Common Device Configuration (CDC)
 	- ## Profile Part
 		- ### CLDC Based
