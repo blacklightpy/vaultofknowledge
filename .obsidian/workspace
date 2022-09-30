@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ideas and References/Maps of Content.md",
+            "file": "Personal/Knowledge/Photography.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas and References/Maps of Content.md",
+                "file": "Personal/Knowledge/Photography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas and References/Maps of Content.md",
+                "file": "Personal/Knowledge/Photography.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas and References/Maps of Content.md"
+                "file": "Personal/Knowledge/Photography.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
+    "World Building/Science and Engineering/Physics/Classical Mechanics.md",
+    "Ideas and References/Maps of Content.md",
     "World Building/Creation of Drones.md",
     "World Building/Creation.md",
     "World Building/Elements of the world.md",
     "World Building/Particles.md",
     "Micro Electromechanical Systems.md",
     "Sound Engineering.md",
-    "Inclusive Machine Learning.md",
-    "Article Reading List.md",
-    "Business Ethics.md",
-    "Analog Filters.md"
+    "Inclusive Machine Learning.md"
   ]
 }
