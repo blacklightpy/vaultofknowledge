@@ -16,6 +16,7 @@
 
 ## Paramters
 - Image Sensor Size
+	- Full Frame | APS-C | Four Thirds | 1/1.7" | 1/2.3" | 1/3.2"
 - Mount FFD
 - Lens Aperture, focal length and FOV
 - Shutter Type
