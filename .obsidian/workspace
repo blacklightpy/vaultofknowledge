@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Retro/Tech Parts I Remember.md",
+            "file": "World Building/Engineering Components/Camera.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retro/Tech Parts I Remember.md",
+                "file": "World Building/Engineering Components/Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retro/Tech Parts I Remember.md",
+                "file": "World Building/Engineering Components/Camera.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retro/Tech Parts I Remember.md"
+                "file": "World Building/Engineering Components/Camera.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Game Development/Java Game Development.md",
     "Retro/Tech Parts I Remember.md",
+    "Game Development/Java Game Development.md",
     "Personal/Knowledge/Photography.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
     "World Building/Science and Engineering/Physics/Classical Mechanics.md",
