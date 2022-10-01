@@ -5,6 +5,8 @@
 
 # Parts
 - Image Sensor
+	- CMOS | CCD/EMCCD | Film
+		- BSI CMOS
 - Lens Mount
 - Lens
 - DSP
@@ -15,3 +17,4 @@
 - Mount FFD
 - Lens Aperture, focal length and FOV
 - Shutter Type
+	- Global | Rolling | Pseudo-Global (All Rows mode)
