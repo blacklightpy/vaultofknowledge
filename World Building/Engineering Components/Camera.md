@@ -7,7 +7,8 @@
 - Image Sensor
 	- CMOS | CCD/EMCCD | Film
 		- BSI CMOS | FSI CMOS
-		- BSI: Sony EXMOR-R | EXMOR-RS | Samsung ISOCELL (cellphone sensors; problems they fix like light-leaks don't occur for larger sensors)
+		- BSI: Sony EXMOR | EXMOR-R | EXMOR-RS | Samsung ISOCELL (cellphone sensors; problems they fix like light-leaks don't occur for larger sensors)
+		- NOTE: EXMOR-R STARVIS series has low-light sensitivity and NIR capabilities
 - Lens Mount
 - Lens
 - DSP
