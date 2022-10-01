@@ -11,7 +11,7 @@
 		- NOTE: EXMOR-R STARVIS series has low-light sensitivity and NIR capabilities
 - Lens Mount
 - Lens
-- DSP
+- Image Signal Processor (ISP)
 - Light Meter
 
 ## Paramters
