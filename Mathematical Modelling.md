@@ -7,4 +7,4 @@
 - Xcos
 
 - Simscape
-- Modelica
+- Modelica/OpenModelica
