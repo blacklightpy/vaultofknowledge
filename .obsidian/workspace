@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Generative Modelling Language.md",
+            "file": "Integrated Circuit Packaging.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Modelling Language.md",
+                "file": "Integrated Circuit Packaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generative Modelling Language.md",
+                "file": "Integrated Circuit Packaging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generative Modelling Language.md"
+                "file": "Integrated Circuit Packaging.md"
               }
             }
           },
@@ -147,8 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07135975f7c01c70",
+  "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Personal/Creative and Recreational/Computer Aided Design.md",
+    "Generative Modelling Language.md",
     "Computer Numerical Control.md",
     "Six Sigma.md",
     "Via.md",
@@ -156,8 +157,6 @@
     "CNC Machines.md",
     "World Building/Engineering Components/Camera.md",
     "Retro/Tech Parts I Remember.md",
-    "Game Development/Java Game Development.md",
-    "Personal/Knowledge/Photography.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md"
+    "Game Development/Java Game Development.md"
   ]
 }

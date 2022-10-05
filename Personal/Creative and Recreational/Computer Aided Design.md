@@ -41,4 +41,4 @@ Has a free academic license for all their applications.
 ***ECAD***
 - KiCAD
 ***FEA***
-OpenFOAM Suite
+- OpenFOAM Suite
