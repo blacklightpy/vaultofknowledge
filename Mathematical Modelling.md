@@ -5,10 +5,10 @@
 - Python + matplotlib, numpy
 
 ### Modelling
-- Simulink
+- Simulink - Easier than Modelica
 - Xcos
 - OpenModelica
-- Altair Activate
+- Altair Activate - has Modelica and Simulink components
 
 ### System Modelling Languages
 - Simscape
