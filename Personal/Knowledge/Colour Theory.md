@@ -15,6 +15,10 @@
 - Additive/Subtractive
 - Warm/Cold
 - Positive/Negative
+- Shadows/Highlights
+- Compositing
+- Histogram
+- Gradients
 
 ### Colour Perception
 https://en.wikipedia.org/wiki/Color_vision
@@ -29,5 +33,8 @@ https://en.wikipedia.org/wiki/Color_vision
 		- Gives low-light vision at 500 nm
 #### Mathematics
 - Physical color is a combination of pure spectral colours (in the visible range)
-- Hilbert Spaces (Infinite Dimensional Vector Space)
+- Hilbert Space $H_{colour}$ (Infinite Dimensional Vector Space) holds all colours
 - Euclidian Spaces
+- Each element $C$ of $H_{colour}$ is a function that gives an interval of all the colours $[W_{min}, W_{max}]$ to real numbers $w$
+- So human percievable colours can be modelled by 3 numbers, to the extend to which each cone cell - S,M,L is stimulated by a wavelength $w$ as $s(w)$, $m(w)$ and $l(w)$.
+- This can be thought of as points in a 3-dimensional Euclidian Space, and we call this the ${R^3}_{colour}$ 
