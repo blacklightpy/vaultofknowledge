@@ -1,4 +1,5 @@
 - Short-sight hack: https://photo.stackexchange.com/a/35393
+- Delidding CPU: https://www.pcgamer.com/delidding-your-cpu-is-scary-but-worth-itand-surprisingly-easy
 
 # Blogs
 - https://hvops.com/ : For SysAdmin management systems
