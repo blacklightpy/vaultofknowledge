@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vias.md",
+            "file": "Computer Numerical Control.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vias.md",
+                "file": "Computer Numerical Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vias.md",
+                "file": "Computer Numerical Control.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vias.md"
+                "file": "Computer Numerical Control.md"
               }
             }
           },
@@ -148,6 +148,8 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Six Sigma.md",
+    "Via.md",
     "Integrated Circuit Packaging.md",
     "CNC Machines.md",
     "World Building/Engineering Components/Camera.md",
@@ -155,8 +157,6 @@
     "Game Development/Java Game Development.md",
     "Personal/Knowledge/Photography.md",
     "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
-    "World Building/Science and Engineering/Physics/Classical Mechanics.md",
-    "Ideas and References/Maps of Content.md",
-    "World Building/Creation of Drones.md"
+    "World Building/Science and Engineering/Physics/Classical Mechanics.md"
   ]
 }

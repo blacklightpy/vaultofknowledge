@@ -1,0 +1,1 @@
+It is a set of tools and techniques for process improvement.
