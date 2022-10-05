@@ -6,10 +6,13 @@
 # Parts
 - Image Sensor
 	- CMOS | CCD/EMCCD | Film
-		- BSI CMOS | FSI CMOS
+		- BSI CMOS | FSI CMOS | Stacked CMOS
 		- FSI: Sony Legacy | EXMOR (1-4th gen)
 		- BSI: Sony EXMOR-R (5th gen EXMOR) | EXMOR-R STARVIS | EXMOR-RS | Samsung ISOCELL (cellphone sensors; problems they fix like light-leaks don't occur for larger sensors)
 		- NOTE: EXMOR-R STARVIS series has low-light sensitivity and NIR capabilities, and RS extends it
+	- Shutter Type
+		- Global Shutter: Sony Pregius | Pregius S
+			- Pregius borrows ideas from CCD Architecture
 	- Color Filter Array
 		- Bayer Filter
 			- Tetracell, Quad-Bayer
