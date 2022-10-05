@@ -1,6 +1,22 @@
-- Land Grid Array
-- Pin Grid Array
-- Ball Grid Array
+- Land Grid Array (LGA)
+	- Opposite of a PGA i.e. Pins protrude from the motherboard, and the IC has pin holes
+	- **Pros**
+		- Not prone to damage
+- Pin Grid Array (PGA)
+	- Use pins to make connections
+	- **Types**
+		- Ceramic PGA (CPGA)
+		- Plastic PGA (PPGA)
+		- Staggered PGA (SPGA)
+		- Flip-Chip PGA (FCPGA)
+- Ball Grid Array (BGA)
+	- Use solder balls to make connections
+	- **Pros**
+		- Can be reballed
+		- Easy to desolder
+	- **Cons**
+		- Hard to repair, because solder joints can only be checked by X-Rays
+		- Only usable in multi-layer PCBs
 
 - System-in-Package (SiP) / 3D IC (stacked)
 - Package-on-Package (PoP)
