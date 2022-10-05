@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Knowledge/Colour Theory.md",
+            "file": "Colour Perception.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "colour",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Knowledge/Colour Theory.md",
+                "file": "Colour Perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Knowledge/Colour Theory.md",
+                "file": "Colour Perception.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Knowledge/Colour Theory.md"
+                "file": "Colour Perception.md"
               }
             }
           },
@@ -149,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Personal/Knowledge/Colour Schemes.md",
     "Personal/Knowledge/Art Concepts.md",
+    "Personal/Knowledge/Colour Theory.md",
+    "Colour Perception.md",
+    "Personal/Knowledge/Colour Schemes.md",
     "Analog to Digital Converters.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Learning Frameworks.md",
     "Article Reading List.md",
     "Analog Filters.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Comparison.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md"
   ]
 }
