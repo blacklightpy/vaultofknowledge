@@ -1,6 +1,7 @@
 - Short-sight hack: https://photo.stackexchange.com/a/35393
 - Delidding CPU: https://www.pcgamer.com/delidding-your-cpu-is-scary-but-worth-itand-surprisingly-easy
 - Good photos: https://qr.ae/pve5gY
+- Sony R&D Workflow: https://www.sony-semicon.com/en/company/operation-flow/index.html
 
 # Blogs
 - https://hvops.com/ : For SysAdmin management systems
