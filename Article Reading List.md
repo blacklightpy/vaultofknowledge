@@ -2,6 +2,7 @@
 - Delidding CPU: https://www.pcgamer.com/delidding-your-cpu-is-scary-but-worth-itand-surprisingly-easy
 - Good photos: https://qr.ae/pve5gY
 - Sony R&D Workflow: https://www.sony-semicon.com/en/company/operation-flow/index.html
+- Modern smartphone camera usage stuff: https://www.sony-semicon.com/en/application/mobile/sensing.html
 
 # Blogs
 - https://hvops.com/ : For SysAdmin management systems
