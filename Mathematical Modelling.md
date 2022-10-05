@@ -5,6 +5,8 @@
 
 - Simulink
 - Xcos
+- OpenModelica
+- Altair Activate
 
 - Simscape
-- Modelica/OpenModelica
+- Modelica
