@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Integrated Circuit Packaging.md",
+            "file": "Mathematical Modelling.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integrated Circuit Packaging.md",
+                "file": "Mathematical Modelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integrated Circuit Packaging.md",
+                "file": "Mathematical Modelling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integrated Circuit Packaging.md"
+                "file": "Mathematical Modelling.md"
               }
             }
           },
@@ -148,12 +148,12 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Integrated Circuit Packaging.md",
     "Personal/Creative and Recreational/Computer Aided Design.md",
     "Generative Modelling Language.md",
     "Computer Numerical Control.md",
     "Six Sigma.md",
     "Via.md",
-    "Integrated Circuit Packaging.md",
     "CNC Machines.md",
     "World Building/Engineering Components/Camera.md",
     "Retro/Tech Parts I Remember.md",
