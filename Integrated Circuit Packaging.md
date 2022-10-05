@@ -17,6 +17,9 @@
 	- **Cons**
 		- Hard to repair, because solder joints can only be checked by X-Rays
 		- Only usable in multi-layer PCBs
+- Ceramic Column Grid Arrays (CCGA)
+	- Used in military and space applications due to extreme reliability
+	- Not used in consumer applications due to restrictions by RoHS in the EU
 
 - System-in-Package (SiP) / 3D IC (stacked)
 - Package-on-Package (PoP)
