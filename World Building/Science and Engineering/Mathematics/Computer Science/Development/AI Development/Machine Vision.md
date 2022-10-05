@@ -16,3 +16,5 @@
 - Optimized for Application (e.g. M12 is only distortion optimized for short distances, while C is optimized for more aberrations).
 	- Find which aberrations can be corrected and which ones are acceptable, etc.
 - Environment (for damping, etc.)
+- Interface
+	- MIPI CSI 2/3 | Camera Link | USB 3.0 | Gig-E
