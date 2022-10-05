@@ -12,4 +12,4 @@
 
 ### System Modelling Languages
 - Simscape
-- Modelica
+- Modelica (https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html)
