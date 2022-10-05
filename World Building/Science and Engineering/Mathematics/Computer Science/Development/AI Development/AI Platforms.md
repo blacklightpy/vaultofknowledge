@@ -3,3 +3,4 @@
 - NVIDIA Jetpack
 - Sony AITRIOS
 - Google Coral
+- Qualcomm Robotics RB5

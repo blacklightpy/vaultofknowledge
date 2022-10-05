@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 331.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Analog Filters.md",
-    "Article Reading List.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Learning Frameworks.md",
+    "Article Reading List.md",
+    "Analog Filters.md",
+    "Analog to Digital Converters.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Comparison.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Metrics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md",
-    "World Building/Engineering Components/Camera.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md"
   ]
 }
