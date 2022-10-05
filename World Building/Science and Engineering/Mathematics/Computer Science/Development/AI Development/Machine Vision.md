@@ -18,3 +18,6 @@
 - Environment (for damping, etc.)
 - Interface
 	- MIPI CSI 2/3 | Camera Link | USB 3.0 | Gig-E | CoaXPress | SLVS-EC | Sub LVDS
+- Range-estimation
+	- ToF
+	- Parallax
