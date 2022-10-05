@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Analog to Digital Converters.md",
+            "file": "Personal/Knowledge/Colour Theory.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "colour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analog to Digital Converters.md",
+                "file": "Personal/Knowledge/Colour Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analog to Digital Converters.md",
+                "file": "Personal/Knowledge/Colour Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analog to Digital Converters.md"
+                "file": "Personal/Knowledge/Colour Theory.md"
               }
             }
           },
@@ -148,15 +149,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Personal/Knowledge/Colour Schemes.md",
+    "Personal/Knowledge/Art Concepts.md",
+    "Analog to Digital Converters.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Learning Frameworks.md",
     "Article Reading List.md",
     "Analog Filters.md",
-    "Analog to Digital Converters.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Comparison.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Metrics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Processor Comparison.md"
   ]
 }
