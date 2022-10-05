@@ -6,6 +6,9 @@
 # Parts
 - Image Sensor
 	- CMOS | CCD/EMCCD | Film
+		- CMOS has rolling electronic shutter and keeps ADC on board
+		- CCD has a global shutter, draws more current and keeps ADC as a seperate unit
+	- Illumination
 		- BSI CMOS | FSI CMOS | Stacked CMOS
 		- FSI: Sony Legacy | EXMOR (1-4th gen)
 		- BSI: Sony EXMOR-R (5th gen EXMOR) | EXMOR-R STARVIS | EXMOR-RS | Samsung ISOCELL (cellphone sensors; problems they fix like light-leaks don't occur for larger sensors)
