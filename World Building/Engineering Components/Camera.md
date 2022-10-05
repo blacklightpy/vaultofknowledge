@@ -15,8 +15,12 @@
 - Light Meter
 
 ## Parameters
-- Image Sensor Size
-	- Full Frame | APS-C | Four Thirds | 1/1.7" | 1/2.3" | 1/3.2"
+- Image Sensor
+	- Image Sensor Size
+		- Full Frame | APS-C | Four Thirds | 1/1.7" | 1/2.3" | 1/3.2"
+	- Bayer filter type
+		- Quantum efficiency diagrams show how sensitively different sensors react to light of different wavelengths
+		- RGGB, RYYB/RCCD (Huawei)
 - Mount FFD
 - Lens Aperture, focal length and FOV
 - Shutter Type
