@@ -11,6 +11,7 @@
 # Considerations
 - Sensor size
 - FoV
+	- At a fixed pixel size and a fixed aspect ratio your field of view will increase with increasing number of pixels. With this relation it is thus possible to decide between the IMX252 and IMX253
 - Working Distance
 - Optimized for Application (e.g. M12 is only distortion optimized for short distances, while C is optimized for more aberrations).
 	- Find which aberrations can be corrected and which ones are acceptable, etc.

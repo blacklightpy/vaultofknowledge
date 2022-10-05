@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "World Building/Engineering Components/Camera.md",
+            "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exmor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Engineering Components/Camera.md",
+                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Engineering Components/Camera.md",
+                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Engineering Components/Camera.md"
+                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md"
               }
             }
           },
@@ -147,8 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4f3166814c6d772",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md",
+    "World Building/Engineering Components/Camera.md",
     "Integrated Circuit Packaging.md",
     "Sound Engineering.md",
     "Personal/Knowledge/Music.md",
@@ -156,8 +157,6 @@
     "Personal/Knowledge/Art Concepts.md",
     "Article Reading List.md",
     "Mathematical Modelling.md",
-    "World Building/Engineering Components/Camera.md",
-    "Personal/Creative and Recreational/Computer Aided Design.md",
-    "Generative Modelling Language.md"
+    "Personal/Creative and Recreational/Computer Aided Design.md"
   ]
 }
