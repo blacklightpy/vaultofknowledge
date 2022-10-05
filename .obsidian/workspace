@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Numerical Control.md",
+            "file": "Generative Modelling Language.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Numerical Control.md",
+                "file": "Generative Modelling Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Numerical Control.md",
+                "file": "Generative Modelling Language.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Numerical Control.md"
+                "file": "Generative Modelling Language.md"
               }
             }
           },
@@ -146,8 +147,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4f3166814c6d772",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "Computer Numerical Control.md",
     "Six Sigma.md",
     "Via.md",
     "Integrated Circuit Packaging.md",
@@ -156,7 +158,6 @@
     "Retro/Tech Parts I Remember.md",
     "Game Development/Java Game Development.md",
     "Personal/Knowledge/Photography.md",
-    "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md",
-    "World Building/Science and Engineering/Physics/Classical Mechanics.md"
+    "World Building/Science and Engineering/Physics/Optics/Photography/Photography Concepts.md"
   ]
 }
