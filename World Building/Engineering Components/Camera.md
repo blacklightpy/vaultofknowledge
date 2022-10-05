@@ -14,9 +14,9 @@
 		- BSI: Sony EXMOR-R (5th gen EXMOR) | EXMOR-R STARVIS | EXMOR-RS | Samsung ISOCELL (cellphone sensors; problems they fix like light-leaks don't occur for larger sensors)
 		- NOTE: EXMOR-R STARVIS series has low-light sensitivity and NIR capabilities, and RS extends it
 		- BSI needs a mechanical shutter to freeze fast moving objects in place
-		- Stacked Sensors: Places DRAM chip on the same silicon as the sensor, and increases readout speeds, thereby not needing a mechanical shutter
+		- Stacked Sensors: Sony Pregius (Stacked BSI and GS CMOS) | Pregius S (Places DRAM chip on the same silicon as the sensor, and increases readout speeds, thereby not needing a mechanical shutter)
 	- Shutter Type
-		- Global Shutter: Sony Pregius | Pregius S
+		- Global Shutter (GS): Sony Pregius | Pregius S
 			- Pregius borrows ideas from CCD Architecture
 	- Color Filter Array
 		- Bayer Filter

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quanta Image Sensors.md",
+            "file": "World Building/Engineering Components/Camera.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quanta Image Sensors.md",
+                "file": "World Building/Engineering Components/Camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quanta Image Sensors.md",
+                "file": "World Building/Engineering Components/Camera.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quanta Image Sensors.md"
+                "file": "World Building/Engineering Components/Camera.md"
               }
             }
           },
@@ -146,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4f3166814c6d772",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Quanta Image Sensors.md",
     "Integrated Circuit Packaging.md",
     "World Building/Engineering Components/Camera.md",
     "Colour Perception.md",
@@ -156,7 +157,6 @@
     "Personal/Knowledge/Colour Schemes.md",
     "Analog to Digital Converters.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Platforms.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Learning Frameworks.md",
-    "Article Reading List.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Learning Frameworks.md"
   ]
 }
