@@ -37,6 +37,7 @@
 - Lens Aperture, focal length and FOV
 - Shutter Type
 	- Global | Rolling | Pseudo-Global (All Rows mode)
+	- Pseudo-global mode captures light only at the interval where all rows are in the same exposure from the exposure parallelogram
 - Autofocus
 	- Contrast-detection AF
 	- Pixel Detection AF
