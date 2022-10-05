@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article Reading List.md",
+            "file": "Personal/Knowledge/Colour Theory.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "senso",
+                "query": "colour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Reading List.md",
+                "file": "Personal/Knowledge/Colour Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Reading List.md",
+                "file": "Personal/Knowledge/Colour Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Reading List.md"
+                "file": "Personal/Knowledge/Colour Theory.md"
               }
             }
           },
@@ -146,8 +146,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4f3166814c6d772",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Personal/Knowledge/Art Concepts.md",
+    "Article Reading List.md",
     "Mathematical Modelling.md",
     "World Building/Engineering Components/Camera.md",
     "Integrated Circuit Packaging.md",
@@ -155,8 +157,6 @@
     "Generative Modelling Language.md",
     "Computer Numerical Control.md",
     "Six Sigma.md",
-    "Via.md",
-    "CNC Machines.md",
-    "Retro/Tech Parts I Remember.md"
+    "Via.md"
   ]
 }

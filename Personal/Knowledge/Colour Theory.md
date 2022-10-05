@@ -1,6 +1,8 @@
 - CIECAM02 Model
 - Chromaticity Diagram
 - Gamut
+- Colour Space
+- Colour Grading
 ## Colour Theory
 - Tint
 - Shade
