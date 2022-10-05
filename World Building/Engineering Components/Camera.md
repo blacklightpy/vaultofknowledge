@@ -28,3 +28,7 @@
 - Lens Aperture, focal length and FOV
 - Shutter Type
 	- Global | Rolling | Pseudo-Global (All Rows mode)
+- Autofocus
+	- Contrast-detection AF
+	- Pixel Detection AF
+		- 2x1 OCL, 2x2 OCL (On-Chip Lens)
