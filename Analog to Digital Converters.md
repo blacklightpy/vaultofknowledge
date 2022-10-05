@@ -1,0 +1,1 @@
+ADCs set the bit depth, in sound signals and cameras. (Found while reading a Sony)
