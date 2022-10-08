@@ -7,8 +7,13 @@
         "id": "b4f3166814c6d772",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Creative and Recreational/Colours.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 332.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Creative and Recreational/Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Creative and Recreational/Colours.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Creative and Recreational/Colours.md"
+              }
             }
           },
           {
@@ -137,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Personal/Creative and Recreational/Design.md",
+    "Personal/Creative and Recreational/Clothing.md",
+    "Personal/Creative and Recreational/Blender.md",
+    "Personal/Creative and Recreational/Cartography.md",
+    "Personal/Creative and Recreational/Scents.md",
+    "Personal/Creative and Recreational/Nature.md",
     "World Building/Engineering Components/Camera.md",
     "Quanta Image Sensors.md",
     "Integrated Circuit Packaging.md",
-    "Colour Perception.md",
-    "Personal/Knowledge/Art Concepts.md",
-    "Personal/Knowledge/Colour Theory.md",
-    "Personal/Knowledge/Colour Schemes.md",
-    "Analog to Digital Converters.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Platforms.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Learning Frameworks.md"
+    "Colour Perception.md"
   ]
 }
