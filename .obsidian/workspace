@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Creative and Recreational/Colours.md",
+            "file": "Personal/Creative and Recreational/Design.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Creative and Recreational/Colours.md",
+                "file": "Personal/Creative and Recreational/Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Creative and Recreational/Colours.md",
+                "file": "Personal/Creative and Recreational/Design.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Creative and Recreational/Colours.md"
+                "file": "Personal/Creative and Recreational/Design.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
-    "Personal/Creative and Recreational/Design.md",
-    "Personal/Creative and Recreational/Clothing.md",
     "Personal/Creative and Recreational/Blender.md",
     "Personal/Creative and Recreational/Cartography.md",
+    "Personal/Creative and Recreational/Colours.md",
+    "Personal/Creative and Recreational/Design.md",
+    "Personal/Creative and Recreational/Clothing.md",
     "Personal/Creative and Recreational/Scents.md",
     "Personal/Creative and Recreational/Nature.md",
     "World Building/Engineering Components/Camera.md",
     "Quanta Image Sensors.md",
-    "Integrated Circuit Packaging.md",
-    "Colour Perception.md"
+    "Integrated Circuit Packaging.md"
   ]
 }
