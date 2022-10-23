@@ -5,9 +5,9 @@
 	- C-PHY
 - MIPI CSI-3
 	- M-PHY / Uniport-M
-- GigE
-- USB 3.0
-- CameraLink
+- GigE Vision
+- USB3Vision
+- CameraLink / CameraLink HS
 - CoaXPress (CXP)
 	- Pure LVDS (no transport layer)
 
