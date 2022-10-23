@@ -4,13 +4,13 @@ https://en.wikipedia.org/wiki/Color_vision
 - Light sensitivity
 	- Seeing Purple (source: https://www.quora.com/Why-does-purple-light-appear-blue-in-cameras/answer/Bill-Otto-5)
 	- Human Eye Quantum Efficiency (see how cones percieve some blue light as red):
-		- ![[Pasted image 20221005192813.png]]
+		- ![[Human Eye Quantum Efficiency.png]]
 	  - Normal Quantum Efficiency:
-		  - ![[Pasted image 20221005192858.png]]
-		  - ![[Pasted image 20221005193139.png]]
+		  - ![[Normal Sensor Quantum Efficiency.png]]
+		  - ![[Normal Sensor Photo.png]]
 	    - Canon D450 Quantum Efficiency:
-		    - ![[Pasted image 20221005192931.png]]
-		    - ![[Pasted image 20221005193159.png]]
+		    - ![[Canon D450 Quantum Efficiency.png]]
+		    - ![[Canon D450 Photo.png]]
 - Rod and Cone Cells
 	- Cone Cells
 		- Are three types - Short (S), Medium (M), Long (L)
