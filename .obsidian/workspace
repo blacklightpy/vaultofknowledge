@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Camera Interfaces.md",
+            "file": "Ports and Connectors.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera Interfaces.md",
+                "file": "Ports and Connectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera Interfaces.md",
+                "file": "Ports and Connectors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera Interfaces.md"
+                "file": "Ports and Connectors.md"
               }
             }
           },
@@ -148,8 +148,8 @@
   },
   "active": "1afbbdcb663bda16",
   "lastOpenFiles": [
-    "Level Standards.md",
     "Camera Interfaces.md",
+    "Level Standards.md",
     "Quanta Image Sensors.md",
     "_images/QIS Low Light Comparison.png",
     "_images/QIS Working Principle.png",
