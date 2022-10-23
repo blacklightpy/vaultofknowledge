@@ -14,4 +14,4 @@
 ## Connectors
 - Parallel (DVP) - 24 pin goldfinger connector
 - MIPI CSI-2 - 15-pin (2-lane) / 22-pin (4-lane)
-- 
+- SCCB (Serial Camera Control Bus) (I2C compatible)
