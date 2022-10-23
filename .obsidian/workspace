@@ -7,9 +7,19 @@
         "id": "b4f3166814c6d772",
         "type": "leaf",
         "state": {
+          "type": "image",
+          "state": {
+            "file": "_images/Pasted image 20221005192813.png"
+          }
+        }
+      },
+      {
+        "id": "437ef27df7a2cd02",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Numerical Control.md",
+            "file": "Colour Perception.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Numerical Control.md",
+                "file": "_images/Pasted image 20221005192813.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Numerical Control.md",
+                "file": "_images/Pasted image 20221005192813.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Numerical Control.md"
+                "file": "_images/Pasted image 20221005192813.png"
               }
             }
           },
@@ -138,25 +148,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b4f3166814c6d772",
   "lastOpenFiles": [
+    "Colour Perception.md",
+    "_images/Pasted image 20221005192813.png",
+    "Six Sigma.md",
+    "NVIDIA Graphics Cards list.md",
+    "Quanta Image Sensors.md",
+    "Computer Numerical Control.md",
     "CNC Machines.md",
     "World Building/Business and Finance/Project Management/Planning Feb 2022/Jira Software.md",
     "World Building/Business and Finance/Project Management/Planning Feb 2022/Linear.app.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computers.md",
-    "Personal/Knowledge/Art Concepts.md",
-    "Personal/Customization/Obsidian Plugins and Tools.md",
-    "Ideas and References/Wikipedia Categorization.md",
-    "World Building/Business and Finance/Project Management/Software Development Lifecycle.md",
-    "World Building/Business and Finance/Project Management/Planning Feb 2022/Google Sheets.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Finite Impulse Response Filters.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computers.md"
   ]
 }
