@@ -1,5 +1,6 @@
 ## Protocols
 - MIPI CSI-2
+	- LVDS (?)
 	- D-PHY
 	- C-PHY
 - MIPI CSI-3
@@ -8,6 +9,7 @@
 - USB 3.0
 - CameraLink
 - CoaXPress (CXP)
+	- Pure LVDS (no transport layer)
 
 ## Connectors
 - Parallel (DVP) - 24 pin goldfinger connector
