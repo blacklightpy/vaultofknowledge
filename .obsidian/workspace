@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f3166814c6d772",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "_images/Canon D450 Photo.png"
-          }
-        }
-      },
-      {
         "id": "1afbbdcb663bda16",
         "type": "leaf",
         "state": {
@@ -148,20 +138,21 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1afbbdcb663bda16",
+  "active": "92d8ce2661a6a2dd",
   "lastOpenFiles": [
-    "_images/Pasted image 20221005210828.png",
-    "Quanta Image Sensors.md",
-    "_images/Pasted image 20221005210814.png",
-    "_images/Pasted image 20221005210721.png",
-    "Colour Perception.md",
+    "_images/QIS Low Light Comparison.png",
+    "_images/QIS Working Principle.png",
+    "_images/Gigajot stacked QIS.png",
     "_images/Canon D450 Photo.png",
+    "Quanta Image Sensors.md",
+    "Colour Perception.md",
     "_images/Normal Sensor Photo.png",
     "_images/Canon D450 Quantum Efficiency.png",
     "_images/Normal Sensor Quantum Efficiency.png",
