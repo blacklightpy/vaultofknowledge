@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oscilloscope.md",
+                "file": "Ports and Connectors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "998e7a120bdf599b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90cbe45973fbbba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Micro Electromechanical Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oscilloscope.md",
+                "file": "Micro Electromechanical Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oscilloscope.md",
+                "file": "Micro Electromechanical Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oscilloscope.md"
+                "file": "Micro Electromechanical Systems.md"
               }
             }
           },
@@ -168,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f48f1b8a2353f3a6",
+  "active": "90cbe45973fbbba3",
   "lastOpenFiles": [
-    "Oscillator.md",
-    "Oscilloscope.md",
+    "Personal/Leisure/Animes.md",
+    "Quanta Image Sensors.md",
     "Colour Perception.md",
-    "Computer Numerical Control.md",
-    "Integrated Circuit Packaging.md",
-    "Micro Electromechanical Systems.md",
-    "How to be a good Analog engineer.md",
-    "CNC Machines.md",
+    "NVIDIA Graphics Cards list.md",
+    "STM32.md",
+    "OSI Model.md",
+    "Camera Interfaces.md",
     "Ports and Connectors.md",
-    "Camera Interfaces.md"
+    "Oscilloscope.md",
+    "Oscillator.md"
   ]
 }
