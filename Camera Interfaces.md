@@ -1,7 +1,7 @@
 ## Protocols
 - MIPI CSI-2
 	- LVDS (?)
-	- D-PHY
+	- [[D-PHY]]
 	- C-PHY
 - MIPI CSI-3
 	- M-PHY / Uniport-M

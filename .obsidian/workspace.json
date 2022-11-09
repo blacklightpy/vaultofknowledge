@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ports and Connectors.md",
+                "file": "Six Sigma.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ca0efae189984ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D-PHY.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d06fd62b8ac8f752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mobile Industry Processor Interface.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ports and Connectors.md",
+                "file": "Mobile Industry Processor Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ports and Connectors.md",
+                "file": "Mobile Industry Processor Interface.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ports and Connectors.md"
+                "file": "Mobile Industry Processor Interface.md"
               }
             }
           },
@@ -181,17 +207,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f48f1b8a2353f3a6",
+  "active": "d06fd62b8ac8f752",
   "lastOpenFiles": [
+    "D-PHY.md",
+    "Camera Interfaces.md",
+    "Ports and Connectors.md",
+    "Maxwell's Demon.md",
+    "Six Sigma.md",
+    "Computer Numerical Control.md",
     "OSI Model.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/XOR Checks.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Layout Versus Schematic.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Electrical Rule Check.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Electronic Design Automation.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design Rules Checking.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design For X.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design For Test.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Antenna Checks.md"
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Layout Versus Schematic.md"
   ]
 }

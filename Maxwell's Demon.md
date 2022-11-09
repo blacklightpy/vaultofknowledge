@@ -1,0 +1,3 @@
+### Some terms
+- Microstates
+- Macrostates
