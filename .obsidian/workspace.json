@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "90cbe45973fbbba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32.md",
+                "file": "Ports and Connectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32.md",
+                "file": "Ports and Connectors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32.md"
+                "file": "Ports and Connectors.md"
               }
             }
           },
@@ -194,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90cbe45973fbbba3",
+  "active": "f48f1b8a2353f3a6",
   "lastOpenFiles": [
-    "Micro Electromechanical Systems.md",
-    "Personal/Leisure/Animes.md",
-    "Quanta Image Sensors.md",
-    "Colour Perception.md",
-    "NVIDIA Graphics Cards list.md",
-    "STM32.md",
     "OSI Model.md",
-    "Camera Interfaces.md",
-    "Ports and Connectors.md",
-    "Oscilloscope.md"
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/XOR Checks.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Layout Versus Schematic.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Electrical Rule Check.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Electronic Design Automation.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design Rules Checking.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design For X.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Design For Test.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Antenna Checks.md"
   ]
 }
