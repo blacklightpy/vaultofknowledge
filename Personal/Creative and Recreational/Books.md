@@ -39,7 +39,7 @@ Codeless Data Structures and Algorithms : Learn DSA Without Writing a Single Lin
 7. Grob's Basic Electronics
 8. 5 Responses
 
-## [[Mechanics]]
+## [[World Building/Science and Engineering/Physics/Mechanics/Mechanics]]
 
 1. Shigley’s Mechanical Engineering Design
 2. Machine Design by Black & Adams

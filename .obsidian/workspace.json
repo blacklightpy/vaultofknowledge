@@ -11,8 +11,13 @@
             "id": "f50d996ce594b0e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Business Ethics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Business Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Business Ethics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Business Ethics.md"
+              }
             }
           },
           {
@@ -147,15 +156,15 @@
   },
   "active": "f50d996ce594b0e0",
   "lastOpenFiles": [
+    "Inclusive Machine Learning.md",
+    "Micro Electromechanical Systems.md",
+    "Mechanical Engineering.md",
     "Mobile Industry Processor Interface.md",
     "Oscilloscope.md",
     "Six Sigma.md",
     "OSI Model.md",
     "D-PHY.md",
     "Camera Serial Interface.md",
-    "Maxwell's Demon.md",
-    "Ports and Connectors.md",
-    "Camera Interfaces.md",
-    "Computer Numerical Control.md"
+    "Maxwell's Demon.md"
   ]
 }
