@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Prions.md",
+                "file": "Inclusive Machine Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Prions.md",
+                "file": "Inclusive Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Prions.md",
+                "file": "Inclusive Machine Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Prions.md"
+                "file": "Inclusive Machine Learning.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "6479c2e2f2f83117",
   "lastOpenFiles": [
+    "Micro Electromechanical Systems.md",
+    "Analog to Digital Converters.md",
+    "Biology/Prions.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Personal/Knowledge/Concepts.md",
     "Computer Numerical Control.md",
     "CNC Machines.md",
     "Business Ethics.md",
     "Inclusive Machine Learning.md",
-    "Micro Electromechanical Systems.md",
-    "Mobile Industry Processor Interface.md",
-    "Oscilloscope.md",
-    "Six Sigma.md"
+    "Mobile Industry Processor Interface.md"
   ]
 }
