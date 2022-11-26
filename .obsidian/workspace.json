@@ -4,76 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bfb340b73721c599",
+        "id": "c0c02a75d67b1d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "63fcce5aabd6f42d",
+            "id": "f50d996ce594b0e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oscilloscope.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f48f1b8a2353f3a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Six Sigma.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ca0efae189984ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D-PHY.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d06fd62b8ac8f752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile Industry Processor Interface.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "998e7a120bdf599b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI Model.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile Industry Processor Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile Industry Processor Interface.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mobile Industry Processor Interface.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d06fd62b8ac8f752",
+  "active": "f50d996ce594b0e0",
   "lastOpenFiles": [
+    "Mobile Industry Processor Interface.md",
+    "Oscilloscope.md",
+    "Six Sigma.md",
+    "OSI Model.md",
     "D-PHY.md",
     "Camera Serial Interface.md",
-    "Mobile Industry Processor Interface.md",
     "Maxwell's Demon.md",
     "Ports and Connectors.md",
     "Camera Interfaces.md",
-    "Six Sigma.md",
-    "Computer Numerical Control.md",
-    "OSI Model.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md"
+    "Computer Numerical Control.md"
   ]
 }
