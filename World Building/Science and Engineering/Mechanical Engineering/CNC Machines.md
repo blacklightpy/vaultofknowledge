@@ -3,4 +3,5 @@
 - Plasma Cutter
 - Drill
 - Grinder
-- Laser Cutter
+- 3D Printer
+- Waterjet Cutter
