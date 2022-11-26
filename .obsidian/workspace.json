@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanical Engineering.md",
+                "file": "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6479c2e2f2f83117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Prions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanical Engineering.md",
+                "file": "Biology/Prions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanical Engineering.md",
+                "file": "Biology/Prions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanical Engineering.md"
+                "file": "Biology/Prions.md"
               }
             }
           },
@@ -154,15 +168,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f50d996ce594b0e0",
+  "active": "6479c2e2f2f83117",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Personal/Knowledge/Concepts.md",
     "Computer Numerical Control.md",
     "CNC Machines.md",
     "Business Ethics.md",
     "Inclusive Machine Learning.md",
     "Micro Electromechanical Systems.md",
-    "Mechanical Engineering.md",
     "Mobile Industry Processor Interface.md",
     "Oscilloscope.md",
     "Six Sigma.md"
