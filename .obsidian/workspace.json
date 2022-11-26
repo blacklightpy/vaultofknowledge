@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "658b19c7bf27c9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Image Processing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -207,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4a8082ad7b3f98f",
+  "active": "658b19c7bf27c9cc",
   "lastOpenFiles": [
-    "World Building/Engineering Components/Camera.md",
+    "Ima.md",
     "Image Processing.md",
+    "World Building/Engineering Components/Camera.md",
     "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
     "World Building/Science and Engineering/Mechanical Engineering/Numerical Control.md",
     "Gimbal Lock.md",
     "Quaternions.md",
     "How to be a good Analog engineer.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Inclusive Machine Learning.md",
-    "Micro Electromechanical Systems.md",
-    "Analog to Digital Converters.md"
+    "Micro Electromechanical Systems.md"
   ]
 }
