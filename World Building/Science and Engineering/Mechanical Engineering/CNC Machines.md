@@ -1,4 +1,6 @@
 - Lathe
 - Mill
 - Plasma Cutter
-- 
+- Drill
+- Grinder
+- Laser Cutter
