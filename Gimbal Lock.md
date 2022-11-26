@@ -1,4 +1,4 @@
-It refers to the situation when an axis of rotation is lost when two of the three axes of rotation aligns together.
+It refers to the situation when an axis of rotation is lost when two of the three axes of rotation aligns together. This happens when rotations are represented by Euler angles.
 
 ## Solutions
 

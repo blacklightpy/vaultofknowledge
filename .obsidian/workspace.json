@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNC Machines.md",
+                "file": "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quaternions.md",
+                "file": "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quaternions.md",
+                "file": "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quaternions.md",
+                "file": "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quaternions.md"
+                "file": "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md"
               }
             }
           },
@@ -196,15 +196,15 @@
   },
   "active": "162f380624522f70",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mechanical Engineering/Numerical Control.md",
+    "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
     "Gimbal Lock.md",
     "Quaternions.md",
-    "CNC Machines.md",
     "How to be a good Analog engineer.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Inclusive Machine Learning.md",
     "Micro Electromechanical Systems.md",
     "Analog to Digital Converters.md",
     "Biology/Prions.md",
-    "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
-    "Personal/Knowledge/Concepts.md"
+    "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md"
   ]
 }

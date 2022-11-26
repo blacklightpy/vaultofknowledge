@@ -1,3 +1,0 @@
-- Lathe
-- Mill
-- Plasma Cutter
