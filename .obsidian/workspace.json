@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4da3a930a6c2aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secure Cryptoprocessor.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image Processing.md",
+                "file": "Secure Cryptoprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Image Processing.md",
+                "file": "Secure Cryptoprocessor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image Processing.md"
+                "file": "Secure Cryptoprocessor.md"
               }
             }
           },
@@ -220,10 +233,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "658b19c7bf27c9cc",
+  "active": "c4da3a930a6c2aa5",
   "lastOpenFiles": [
-    "Ima.md",
     "Image Processing.md",
+    "Ima.md",
     "World Building/Engineering Components/Camera.md",
     "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
     "World Building/Science and Engineering/Mechanical Engineering/Numerical Control.md",
