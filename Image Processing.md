@@ -12,6 +12,8 @@ ISPs are a specialized category of DSPs.
 - Nikon DIGIC
 
 ### Platforms
+- Android NN API
 - Tensorflow/Tensorflow Lite
 - Caffee/Caffe2
+- ONNX
 - Halide (Language made for ISP)
