@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c02a75d67b1d1e",
+        "id": "84705e195edeed44",
         "type": "tabs",
         "children": [
           {
-            "id": "6479c2e2f2f83117",
+            "id": "1782a390a1c8663a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b654c8dc58f9183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MobileNet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cranks",
+                "query": "distros",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MobileNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MobileNet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MobileNet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b654c8dc58f9183",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md",
+    "MobileNet.md",
     "Image Processing.md",
     "Secure Cryptoprocessor.md",
     "Ima.md",
     "World Building/Engineering Components/Camera.md",
     "World Building/Science and Engineering/Mechanical Engineering/Numerical Control.md",
-    "Gimbal Lock.md",
-    "Quaternions.md",
-    "How to be a good Analog engineer.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Inclusive Machine Learning.md"
+    "Gimbal Lock.md"
   ]
 }

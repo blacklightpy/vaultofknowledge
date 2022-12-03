@@ -24,3 +24,9 @@ Q4OS
 Bodhi Linux
 Linux Mint MATE
 elementary
+
+### Quirky Distros
+Lucifer's Linux (Arch)
+Ubuntu Satanic Edition
+Hannah Montana Linux
+Ubuntu Christian Edition
