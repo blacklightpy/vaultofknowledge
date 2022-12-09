@@ -1,13 +1,13 @@
 
 ### Fermions
-They are subatomics particles with fractional spin quantum numbers. They obey Fermi-Dirac statistics. 
-Matter: Quarks, Leptons
-Antimatter: Antiquarks, Antileptons
+They are subatomics particles with fractional spin quantum numbers. They obey Fermi-Dirac statistics. They are: 
+- [[Quarks]] and Antiquarks
+- [[Leptons]] and Antileptons
 
 ### Bosons
-They are subatomics particles with integer spin quantum numbers. They obey Bose-Einstein statistics.
-Gauge Bosons: Photons, W and Z bosons, Eight types of Gluons, Gravitons (hypothetical)
-Scalar Bosons: Higgs Boson
+They are subatomics particles with integer spin quantum numbers. They obey Bose-Einstein statistics. They are:
+- [[Gauge Bosons]]: [[Photons]], [[W and Z bosons]], Eight types of [[Gluons]], Gravitons (hypothetical)
+- [[Scalar Bosons]]: [[Higgs Boson]]
 
 ### Hadrons
 They are composite particles.
