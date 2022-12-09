@@ -1,0 +1,1 @@
+Machine Perception refers to the ability to percieve the world using the five senses - visual, sensory, auditory, olfactory and gustatory. While there are intuitively other forms of sensing such as 
