@@ -1,0 +1,1 @@
+They are particles made from the combination of two or more elementary particles. Some examples are [[hadrons]], atoms, molecules and ions. They can either be bosons or fermions depending on their constituents.
