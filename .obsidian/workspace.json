@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Vias.md",
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Vias.md",
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Vias.md",
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Vias.md"
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "3a07029e8d12eccf",
   "lastOpenFiles": [
+    "World Building/Engineering Components/GPUs.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
+    "Article Reading List.md",
+    "Generative Modelling Language.md",
+    "Mathematical Modelling.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Vias.md",
     "World Building/Science and Engineering/Mechatronics/Micro Electromechanical Systems.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Business Ethics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Scalar Bosons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Higgs Boson.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quarks.md"
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md"
   ]
 }
