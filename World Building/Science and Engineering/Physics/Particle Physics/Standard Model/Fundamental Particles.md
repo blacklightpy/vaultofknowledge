@@ -1,15 +1,16 @@
 
-### Bosons
-They are subatomics particles with integer spin quantum numbers. They are 
+### Fermions
+They are subatomics particles with fractional spin quantum numbers. They obey Fermi-Dirac statistics. 
 Matter: Quarks, Leptons
 Antimatter: Antiquarks, Antileptons
 
-### Fermions
-They are subatomics particles with integer spin quantum numbers.
-Gauge Bosons, Higgs Boson
-Gravitons (hypothetical)
+### Bosons
+They are subatomics particles with integer spin quantum numbers. They obey Bose-Einstein statistics.
+Gauge Bosons: Photons, W and Z bosons, Eight types of Gluons, Gravitons (hypothetical)
+Scalar Bosons: Higgs Boson
 
 ### Hadrons
+They are composite particles.
 
 ### Quasiparticles
 - Three degrees of freedom of an electron within a molecule (charge, spin, orbital) can be seperated by the wavefunction into three particles: Holon, Spinon, Orbiton
