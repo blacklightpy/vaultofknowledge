@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "84705e195edeed44",
+        "id": "610e7a88312c3e01",
         "type": "tabs",
         "children": [
           {
-            "id": "1782a390a1c8663a",
+            "id": "bde5b5279d8ff467",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Creative and Recreational/Clothing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 295.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
