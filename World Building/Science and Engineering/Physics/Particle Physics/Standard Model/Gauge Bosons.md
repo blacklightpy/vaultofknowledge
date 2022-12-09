@@ -4,7 +4,7 @@ The hypothetical [[gravitons]] have spin = 2 and is a tensor boson. But it is no
 
 
 There are four types of gauge bosons:
-- [[Photons]] (they are the )
+- [[Photons]] (they are the EM )
 - [[W and Z Bosons|W Bosons]]
 - [[W and Z Bosons|Z Bosons]]
 - [[Gluons]]
