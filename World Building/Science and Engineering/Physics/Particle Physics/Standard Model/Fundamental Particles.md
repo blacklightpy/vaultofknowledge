@@ -6,7 +6,7 @@ They are subatomics particles with fractional spin quantum numbers. They obey Fe
 
 ### Bosons
 They are subatomics particles with integer spin quantum numbers. They obey Bose-Einstein statistics. They are:
-- [[Gauge Bosons]]: [[Photons]], [[W and Z bosons]], Eight types of [[Gluons]], Gravitons (hypothetical)
+- [[Gauge Bosons]]: [[Photons]], [[W and Z bosons]], Eight types of [[Gluons]], [[Gravitons]] (hypothetical)
 - [[Scalar Bosons]]: [[Higgs Boson]]
 
 ### Hadrons

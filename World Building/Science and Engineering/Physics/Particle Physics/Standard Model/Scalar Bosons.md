@@ -1,0 +1,1 @@
+They have 0 spin quantum number.
