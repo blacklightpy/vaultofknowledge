@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md"
               }
             }
           },
@@ -193,12 +193,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e14d5687a201959",
+  "active": "51933437f8a80a3d",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Scalar Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Models of Particle Physics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Higgs Boson.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",

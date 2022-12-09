@@ -13,5 +13,8 @@ They are subatomics particles with integer spin quantum numbers. They obey Bose-
 They are composite particles.
 
 ### Quasiparticles
+#### Fermion-like
 - Three degrees of freedom of an electron within a molecule (charge, spin, orbital) can be seperated by the wavefunction into three particles: Holon, Spinon, Orbiton
 - An electron that doesn't revolve around a nucleus lacks an orbital and hence is unsplittable, and is regarded as an elementary particle.
+#### Boson-like
+- Cooper pairs, plasmons and phonons are observed to behave as bosons.
