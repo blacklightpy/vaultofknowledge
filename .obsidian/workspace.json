@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level Standards.md",
+                "file": "MobileNet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level Standards.md",
+                "file": "MobileNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level Standards.md",
+                "file": "MobileNet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level Standards.md"
+                "file": "MobileNet.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "bde5b5279d8ff467",
   "lastOpenFiles": [
-    "Colour Perception.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Public Key Cryptography.md",
-    "Personal/Creative and Recreational/Engineering.md",
-    "Personal/Creative and Recreational/3D Modelling.md",
-    "Personal/Creative and Recreational/3D File Formats.md",
-    "World Building/Science and Engineering/Mechanical Engineering/CNC Machines.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md",
-    "MobileNet.md",
-    "Image Processing.md"
+    "Secure Cryptoprocessor.md",
+    "Image Processing.md",
+    "Gimbal Lock.md",
+    "Quaternions.md",
+    "Analog to Digital Converters.md",
+    "D-PHY.md",
+    "Mobile Industry Processor Interface.md",
+    "Camera Serial Interface.md",
+    "Ports and Connectors.md",
+    "Camera Interfaces.md"
   ]
 }
