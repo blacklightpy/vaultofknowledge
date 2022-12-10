@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3a07029e8d12eccf",
+            "id": "057fb40a432b0798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
+                "file": "Web3 Ecosystem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
+                "file": "Web3 Ecosystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
+                "file": "Web3 Ecosystem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md"
+                "file": "Web3 Ecosystem.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a07029e8d12eccf",
+  "active": "057fb40a432b0798",
   "lastOpenFiles": [
-    "World Building/Engineering Components/GPUs.md",
+    "THORChain.md",
+    "Web3 Ecosystem.md",
+    "Colour Perception.md",
+    "Image Processing.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md",
+    "World Building/Engineering Components/Camera.md",
+    "World Building/Engineering Components/GPUs.md",
     "Article Reading List.md",
     "Generative Modelling Language.md",
-    "Mathematical Modelling.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Vias.md",
-    "World Building/Science and Engineering/Mechatronics/Micro Electromechanical Systems.md",
-    "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
-    "Business Ethics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md"
+    "Mathematical Modelling.md"
   ]
 }
