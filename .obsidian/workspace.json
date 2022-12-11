@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Customization.md",
+                "file": "Newton's Bucket.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Customization.md",
+                "file": "Newton's Bucket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Customization.md",
+                "file": "Newton's Bucket.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Customization.md"
+                "file": "Newton's Bucket.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "7df823645b923cc8",
   "lastOpenFiles": [
+    "Android Customization.md",
     "Newton's Bucket.md",
     "How to be a good Analog engineer.md",
     "Article Reading List.md",
@@ -203,7 +204,6 @@
     "Retro/Retro Culture.md",
     "Culture/Indian Culture.md",
     "Culture/Zen.md",
-    "Culture/Taoism.md",
-    "Culture/Kerala Hindu Culture.md"
+    "Culture/Taoism.md"
   ]
 }

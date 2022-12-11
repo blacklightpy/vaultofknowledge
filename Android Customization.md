@@ -1,9 +1,12 @@
-
 ## Cool Phones
-- Unihertz Jelly 2E (Android 12)
-- Unihertz Atom L (Android 10)
+- Unihertz Jelly 2E - 3 inch (Android 12)
+- Unihertz Atom L - 4 inch (Android 10)
+## Accessories
+- Case
+- Armband for Atom/Jelly
+- Wrist Lanyard
 
-# System
+# System (on Normal Phones)
 - Root System
 - Custom Recovery - TWRP/OrangeFox
 ## Apps
