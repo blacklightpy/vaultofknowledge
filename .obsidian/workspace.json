@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "057fb40a432b0798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Voltage Level Standards.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "57cac371815ca4e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Ports and Connectors.md",
+                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Voltage Level Standards.md",
+                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Voltage Level Standards.md",
+                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Voltage Level Standards.md"
+                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md"
               }
             }
           },
@@ -180,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "057fb40a432b0798",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Engineering Standards/Hardware Standards/Ports and Connectors.md",
-    "Personal/Creative and Recreational/Engineering.md",
-    "Personal/Creative and Recreational/Computer Aided Design.md",
-    "World Building/Business and Finance/Bill of Materials.md",
-    "World Building/Business and Finance/Bill of Engineering.md",
-    "Generative Modelling Language.md",
-    "Biology/Colour Perception.md",
-    "World Building/Engineering Components/Analog to Digital Converters.md",
-    "World Building/Components in Market/STM32.md",
-    "Analog Filters.md"
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Quaternions.md",
+    "Article Reading List.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Transcendal Function.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Negative Frequencies.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Liar's Paradox.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Gödel's Incompleteness Theorem.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Fresnel Integrals.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Fourier Transform.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Fourier Series.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/error function.md"
   ]
 }
