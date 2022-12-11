@@ -1,8 +1,6 @@
-CAD, CAE, CAM, FEA/FEM, CFD
-PLM
-BoM - MBoM, EBoM
-BoE
-PCB Design
+- CAD, CAE, CAM, FEA/FEM, CFD
+- PCB Design
+Closely related to: PLM, BoM - MBoM, EBoM, BoE
 
 ## Apps
 Scan2CAD - Raster to CAD
