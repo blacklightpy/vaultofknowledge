@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Indian Culture.md",
+                "file": "Resources/Decentralized Technologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture/Indian Culture.md",
+                "file": "Resources/Decentralized Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture/Indian Culture.md",
+                "file": "Resources/Decentralized Technologies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture/Indian Culture.md"
+                "file": "Resources/Decentralized Technologies.md"
               }
             }
           },
@@ -167,8 +167,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "57cac371815ca4e1",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Retro/Retro Culture.md",
+    "Culture/Indian Culture.md",
     "Culture/Zen.md",
     "Culture/Taoism.md",
     "Culture/Kerala Hindu Culture.md",
@@ -176,8 +178,6 @@
     "Culture/International Culture.md",
     "Business Ethics.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Gimbal Lock.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3 To-Do.md",
-    "World Building/Business and Finance/Company Software and Terms.md",
-    "World Building/Business and Finance/Company Roles.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3 To-Do.md"
   ]
 }
