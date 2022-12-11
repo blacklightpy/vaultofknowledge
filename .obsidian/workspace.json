@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md",
+                "file": "Culture/Indian Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wen",
+                "query": "web 3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md",
+                "file": "Culture/Indian Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md",
+                "file": "Culture/Indian Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md"
+                "file": "Culture/Indian Culture.md"
               }
             }
           },
@@ -168,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07135975f7c01c70",
+  "active": "57cac371815ca4e1",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Company Roles.md",
-    "World Building/Business and Finance/Project Management/Six Sigma.md",
-    "World Building/Engineering Components/Analog Filters.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computer Aided Design/Generative Modelling Language.md",
-    "Sound Engineering.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Image Processing.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/MobileNet.md",
-    "World Building/Engineering Components/Secure Cryptoprocessor.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Quaternions.md",
-    "Article Reading List.md"
+    "Culture/Zen.md",
+    "Culture/Taoism.md",
+    "Culture/Kerala Hindu Culture.md",
+    "Culture/Muslim Culture.md",
+    "Culture/International Culture.md",
+    "Business Ethics.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Gimbal Lock.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3 To-Do.md",
+    "World Building/Business and Finance/Company Software and Terms.md",
+    "World Building/Business and Finance/Company Roles.md"
   ]
 }
