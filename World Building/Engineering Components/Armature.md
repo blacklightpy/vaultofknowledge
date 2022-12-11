@@ -1,1 +1,0 @@
-Rotating coils of a [[dynamo]] or electric motor.
