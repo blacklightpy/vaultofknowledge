@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md",
+                "file": "World Building/Business and Finance/Company Software and Terms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md",
+                "file": "World Building/Business and Finance/Company Software and Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md",
+                "file": "World Building/Business and Finance/Company Software and Terms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Engineering Components/Secure Cryptoprocessor.md"
+                "file": "World Building/Business and Finance/Company Software and Terms.md"
               }
             }
           },
@@ -167,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Company Roles.md",
+    "World Building/Business and Finance/Project Management/Six Sigma.md",
+    "World Building/Engineering Components/Analog Filters.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computer Aided Design/Generative Modelling Language.md",
+    "Sound Engineering.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Image Processing.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/MobileNet.md",
+    "World Building/Engineering Components/Secure Cryptoprocessor.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Quaternions.md",
-    "Article Reading List.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Transcendal Function.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Negative Frequencies.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Liar's Paradox.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Gödel's Incompleteness Theorem.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Fresnel Integrals.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Fourier Transform.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Fourier Series.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/error function.md"
+    "Article Reading List.md"
   ]
 }
