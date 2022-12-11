@@ -1,12 +1,15 @@
 # Types of Analog Filters
+### Based on Components Used
 - RC Filters
 
+## Based on band filtered
 - Low pass
 - High pass
 - Band pass
 - Band reject
 - All pass
 
+### Based on active components
 If an active component lke op-amp or transistor is used in RC filter, it is called:
 - Active filter
 

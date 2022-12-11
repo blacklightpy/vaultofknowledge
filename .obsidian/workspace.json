@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md",
+                "file": "Analog to Digital Converters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slam",
+                "query": "adc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md",
+                "file": "Analog to Digital Converters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md",
+                "file": "Analog to Digital Converters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md"
+                "file": "Analog to Digital Converters.md"
               }
             }
           },
@@ -193,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6ee748c2ce806b2",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "World Building/Components in Market/STM32.md",
+    "Analog Filters.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Electrical Network Theory.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Circuits.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Communicaion Systems.md",
     "How to be a good Analog engineer.md",
     "Analog to Digital Converters.md",
-    "Analog Filters.md",
     "World Building/Science and Engineering/Physics/Optics.md",
-    "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md",
-    "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Jerk.md"
+    "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md"
   ]
 }
