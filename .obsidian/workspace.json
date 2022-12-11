@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Camera Interfaces.md",
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Camera Interfaces.md",
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Camera Interfaces.md",
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Engineering Standards/Hardware Standards/Camera Interfaces.md"
+                "file": "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics.md"
               }
             }
           },
@@ -193,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "f6ee748c2ce806b2",
   "lastOpenFiles": [
-    "World Building/Engineering Standards/Hardware Standards/Ports and Connectors.md",
-    "World Building/Engineering Standards/Hardware Standards/Voltage Level Standards.md",
-    "World Building/Particles.md",
-    "World Building/Engineering Standards/Hardware Standards/Mobile Industry Processor Interface.md",
-    "World Building/Engineering Standards/OSI Model.md",
-    "Web3 Ecosystem.md",
-    "THORChain.md",
-    "Colour Perception.md",
-    "Image Processing.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electronics Manufacturing/Integrated Circuit Packaging.md"
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electrical Network Theory.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Circuits.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Communicaion Systems.md",
+    "How to be a good Analog engineer.md",
+    "Analog to Digital Converters.md",
+    "Analog Filters.md",
+    "World Building/Science and Engineering/Physics/Optics.md",
+    "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md",
+    "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Jerk.md"
   ]
 }
