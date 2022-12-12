@@ -4,6 +4,7 @@
 - Addition and Division
 - Subtraction, Multiplication, Exponentiation
 - Fractions
+- Ratios
 - Decimals
 - Zero and Infinity
 - Prime Numbers

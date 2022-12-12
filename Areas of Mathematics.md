@@ -2,6 +2,7 @@
 - Numbers, Number Line
 - Addition and Division
 - Operations
+- Fractions and Ratios
 - Integers and Decimals
 - Rational and Irrational Numbers
 - Prime Numbers and Factorization
@@ -21,30 +22,24 @@
 - Circles
 - Perimeter and Area
 - Construction of Lines and Shapes
-- Theory of Shapes
-- Properties of Triangles
+- Properties of Shapes
 - Sections of Circles
-- Cubes and Spheres
-- Cones and Frustums
-- Surface Areas and Volumes of Solids
+- Solids
+- Surface Areas and Volumes
 - Polyhedra
 
 ## Statistics
-- Mean
-- Charts and Graphs
+- Mean, Median and Mode
+- Charts and Representations
 - Probability
-- Median and Mode
 
 ## Algebra
-- Variables and Constants
-- Linear Algebra in one variable
-- Linear Algebra in two variables
+- Variables
 - Functions and Graphs
 - Polynomials
-- Linear Inequalities
+- Inequalities
 - Linear Programming
 - Matrices
-- Determinants
 - Dimensions
 - Vectors
 - Flow
