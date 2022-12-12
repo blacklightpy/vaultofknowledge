@@ -54,7 +54,7 @@
 - Variables and Constants
 - Linear Algebra in one variable
 - Linear Algebra in two variables
-- Functions and Graphs
+- Graphs
 - Polynomials
 - Linear Inequalities
 - Linear Programming
@@ -71,7 +71,8 @@
 - Set Operations
 - Relations
 - Properties of Relations
-- Properties of Operations
+- Functions
+- Properties of Binary Operations
 - Category Theory
 - Rings
 - Groups

@@ -35,50 +35,35 @@
 
 ## Algebra
 - Variables
-- Functions and Graphs
+- Graphs
 - Polynomials
 - Inequalities
 - Linear Programming
-- Matrices
-- Dimensions
-- Vectors
-- Flow
-- Divergence and Curl
-- Tensors
+- Vectors, Matrices and Tensors
+- Flow, Divergence and Curl
 
 ## Sets and Relations
 - Sets
 - Set Operations
 - Relations
 - Properties of Relations
-- Properties of Operations
-- Category Theory
-- Rings
-- Groups
-- Fields
+- Functions
+- Properties of Binary Operations
+- Rings, Groups and Fields
 
 ## Mathematical Logic
 - Logic and Reasoning
 - Proofs and Derivations
 
 ## Calculus
-- Limits
-- Derivatives and Differentiation
-- Integration
-- Calculus in one variable
+- Limits and Derivatives
+- Differentiation and Integration
 - Differential Equations
-- Functions of multiple variables
-- Calculus in multiple variables
 
 ## Coordinate Geomtery
 - Lines and Distances
-- Sections of Cones
-- Circles
-- Ellipses
-- Parabolas
-- Hyperbolas
+- Conic Sections
 - Trigonometry
-- Trigonometric Functions
 - Three Dimensional Coordinate Geometry
 - Quaternions
 
@@ -91,16 +76,10 @@
 
 ## Topology
 - Euclidiean Spaces
-- Orientable Surfaces
-- Non-orientable Surfaces
-- Mobius Strips
-- Klein Bottles
-- Toruses
+- Dimensions
+- Manifolds
+- Orientable and Non-orientable Manifolds
 
 ## Big Numbers
 - Googology
-- Tetration
-- TREE()
-- SSCG()
-- Rayo's Number
 - Types of Infinities
