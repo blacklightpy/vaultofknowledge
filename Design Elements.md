@@ -1,0 +1,10 @@
+- Whitespaces and Information Spacing
+- Compactness and Information Density
+- Font typeface and Font size
+- Colour Scheme
+- Grayscale Colour Scheme
+- Intuitiveness
+- Animations
+- Matching with other Elements
+- Emotions invoked
+- Ease of Navigation
