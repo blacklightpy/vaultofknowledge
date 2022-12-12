@@ -106,6 +106,7 @@
 - Complex Analysis
 - Real Analysis
 - Physics
+- Fractals
 
 ## Topology
 - Euclidiean Spaces
@@ -114,9 +115,6 @@
 - Mobius Strips
 - Klein Bottles
 - Toruses
-
-## Abstract Mathematics
-- Fractals
 
 ## Big Numbers
 - Googology
