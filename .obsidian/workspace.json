@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "795a1961bd061f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses To Take.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Courses To Take.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Courses To Take.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic and Creativity.md"
+                "file": "Courses To Take.md"
               }
             }
           },
@@ -206,7 +219,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "057dc0752f700826",
+  "active": "795a1961bd061f6c",
   "lastOpenFiles": [
     "Morality.md",
     "Logic and Creativity.md",
