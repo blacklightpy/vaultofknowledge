@@ -2,40 +2,25 @@
 - Numbers, Number Line
 - Addition and Division
 - Operations
-
 - Integers and Decimals
-- Rational and Irrational
-- Prime Numbers and Factorization
-
-- Zero and Infinity
-
-- Natural Numbers
-- Whole Numbers
-- Integers
-- Negative Numbers
 - Rational and Irrational Numbers
+- Prime Numbers and Factorization
+- Zero and Infinity
 - Sequences and Series
-- Arithmetic, Geometric and Harmonic Progressions
 - Permutations and Combinations
-- Real Numbers
-- Imaginary Numbers
+- Real and Imaginary Numbers
 - Complex Numbers
 - Bases and Logarithms
 
 ## Basics of Geomtery
 - Shapes
-- Lines and Rays
-- Angles
+- Lines and Angles
 - Parallel and Perpendicular Lines
 - Angle Bisectors
-- Triangles
-- Circles
-- Squares and Rectangles
-- Parallelograms, Trapeziums and Rhombuses
-- Quadrilaterals
 - Polygons
-- Perimeters and Areas of Shapes
-- Construction of Shapes
+- Circles
+- Perimeter and Area
+- Construction of Lines and Shapes
 - Theory of Shapes
 - Properties of Triangles
 - Sections of Circles
