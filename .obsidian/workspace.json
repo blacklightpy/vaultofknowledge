@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c05564e9c2631a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map of Mathematics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "Map of Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "Map of Mathematics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton's Bucket.md"
+                "file": "Map of Mathematics.md"
               }
             }
           },
@@ -193,10 +206,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7df823645b923cc8",
+  "active": "c05564e9c2631a9c",
   "lastOpenFiles": [
-    "Android Customization.md",
     "Newton's Bucket.md",
+    "Android Customization.md",
     "How to be a good Analog engineer.md",
     "Article Reading List.md",
     "World Building/Creativity and Arts/Sound Engineering.md",
