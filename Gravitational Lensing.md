@@ -1,0 +1,1 @@
+The curvature of space around large objects cause a lensing effect on light (How?)
