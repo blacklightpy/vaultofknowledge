@@ -6,7 +6,7 @@ Oracle?
 
 ## Jupyter Notebooks
 - Kaggle
-- 
+- Google Colab / Pro
 ## GPU Compute
 - LambdaLabs
 - Linode
