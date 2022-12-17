@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "795a1961bd061f6c",
+            "id": "2210e38fdb8bdba7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,12 +86,25 @@
             }
           },
           {
-            "id": "79039571955fa252",
+            "id": "f542f4783cf1de18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gravitational Lensing.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cloud Computing Platforms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "853bb276b064efc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/System Administration/DevOps/Cloud Computing/Cloud Infrastructure Costs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gravitational Lensing.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cloud Computing Platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gravitational Lensing.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cloud Computing Platforms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gravitational Lensing.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cloud Computing Platforms.md"
               }
             }
           },
@@ -232,17 +245,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "79039571955fa252",
+  "active": "f542f4783cf1de18",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/System Administration/DevOps/Cloud Computing/Cloud Infrastructure Costs.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cloud Computing Platforms.md",
     "Courses To Take.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/XR/Augmented Reality/AR Frameworks.md",
     "Morality.md",
+    "Untitled.md",
+    "Gravitational Lensing.md",
     "Logic and Creativity.md",
     "Areas of Mathematics.md",
-    "Design Elements.md",
-    "Development of Mathematics.md",
-    "Newton's Bucket.md",
-    "Android Customization.md",
-    "How to be a good Analog engineer.md",
-    "Article Reading List.md"
+    "Design Elements.md"
   ]
 }
