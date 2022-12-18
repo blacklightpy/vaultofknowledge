@@ -1,7 +1,7 @@
 These are the symmetries of spacetime.
 
-It states that the state of a system is preserved under:
+It states that the laws of the universe are preserved under:
 - Translation
 - Rotation
-- Time
-- Location
+- Time-Translation
+- Change of inertial frames
