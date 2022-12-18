@@ -15,3 +15,5 @@ I tried to study how creativity can come from a purely mathematical algorithm, i
 9. Store the result: The new value is added to the storage for future use
 10. Repeat binary operation:  This will keep on creating unique values which arise from existing values.
 NOTE: The values will get more and more creative over time. But limits must be imposed to make balance the results. There should also be an algorithm for defining which variables are chosen at an instance.
+
+I suppose this is also why TREE(3) is such a fast growing function. It's only when there a third value has been created that new and new pairs can form. This genetic algorithm could also be related to a tree structure - just like family trees are for a simple example.
