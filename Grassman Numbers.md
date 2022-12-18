@@ -4,4 +4,5 @@ Their property is that they are anticommutative. That is:
 If $\theta_a$ and $\theta_b$ are two Grassman numbers,
 then $\theta_a$ $\theta_b$ = -$\theta_b$ $\theta_a$
 
-They are used to complete the missing  in the standard model of 
+Field values are 
+They are used to complete the missing elementary particles of the standard model in the theory of [[Supersymmetry]]
