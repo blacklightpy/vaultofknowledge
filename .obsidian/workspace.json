@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Newton's Bucket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Newton's Bucket.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic and Creativity.md"
+                "file": "Newton's Bucket.md"
               }
             }
           },
@@ -193,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "057dc0752f700826",
+  "active": "7df823645b923cc8",
   "lastOpenFiles": [
+    "Areas of Mathematics.md",
+    "Untitled.md",
+    "Gravitational Lensing.md",
+    "Logic and Creativity.md",
     "Morality.md",
     "Courses To Take.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cloud Computing Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/System Administration/DevOps/Cloud Computing/Cloud Infrastructure Costs.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/XR/Augmented Reality/AR Frameworks.md",
-    "Untitled.md",
-    "Gravitational Lensing.md",
-    "Logic and Creativity.md",
-    "Areas of Mathematics.md",
     "Design Elements.md"
   ]
 }
