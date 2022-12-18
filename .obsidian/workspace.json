@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Grassman Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "Grassman Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "Grassman Numbers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton's Bucket.md"
+                "file": "Grassman Numbers.md"
               }
             }
           },
@@ -180,11 +180,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7df823645b923cc8",
+  "active": "057dc0752f700826",
   "lastOpenFiles": [
-    "Untitled.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
     "Newton's Bucket.md",
+    "Grassman Numbers.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
     "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
     "Gravitational Lensing.md",
     "Logic and Creativity.md",
