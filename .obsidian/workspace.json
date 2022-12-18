@@ -58,8 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "344044586a71b2d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coleman-Mandula Theorem.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Poincare Symmetries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Poincare Symmetries.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic and Creativity.md"
+                "file": "Poincare Symmetries.md"
               }
             }
           },
@@ -192,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e18fcf75e631620",
+  "active": "201be4568002cfec",
   "lastOpenFiles": [
+    "Coleman-Mandula Theorem.md",
+    "Poincare Symmetries.md",
+    "Grassman Numbers.md",
+    "Supersymmetry.md",
+    "Logic and Creativity.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
     "Newton's Bucket.md",
-    "Grassman Numbers.md",
-    "Poincare Symmetries.md",
     "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
     "Gravitational Lensing.md",
-    "Logic and Creativity.md",
-    "Morality.md",
-    "Courses To Take.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cloud Computing Platforms.md"
+    "Morality.md"
   ]
 }

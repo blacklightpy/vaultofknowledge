@@ -1,0 +1,3 @@
+It states that the universe cannot obey any symmetry apart from the [[Poincare Symmetries]] and the internal symmetries specific to each quantum fields. This theorem is under the assumption that all symmetries are quantified by numbers.
+
+However, [[supersymmetry]] postulates that fermions are represented by [[Grassman Numbers]] and there could be a mapping from the [[Grassman Numbers]] to ordinary numbers creating superpartners for fermions and bosons. This symmetric mapping is called [[Supersymmetry]].
