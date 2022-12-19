@@ -1,5 +1,5 @@
 - Physics
-	- Mechanics
+	- [[Mechanics]]
 		- Solid Mechanics
 	- Thermodynamics
  - Chemistry
