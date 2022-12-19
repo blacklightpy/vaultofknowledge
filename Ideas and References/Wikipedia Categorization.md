@@ -12,4 +12,7 @@
 
 
 # Views
-Categories | Outlines | Portals
+The views in Wikipedia are called Reference Systems.
+Categories | Outlines | Portals | Overviews | Lists | Glossaries | Indices
+
+Each topic is a collection of links and articles, and it is represented in each of the following reference systems.

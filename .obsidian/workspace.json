@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "Ideas and References/Wikipedia Categorization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web 3",
+                "query": "portals",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "Ideas and References/Wikipedia Categorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "Ideas and References/Wikipedia Categorization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton's Bucket.md"
+                "file": "Ideas and References/Wikipedia Categorization.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "7df823645b923cc8",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
     "Newton's Bucket.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "World Building/Elements of the world.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
