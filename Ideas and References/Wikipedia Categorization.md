@@ -18,3 +18,6 @@ Categories | Outlines | Portals | Overviews | Lists | Glossaries | Indices
 Each topic is a collection of links and articles, and it is represented in each of the following reference systems.
 
 There are all views for each subject area and all subject areas for each view.
+
+## Indices
+Indices are used for organization 
