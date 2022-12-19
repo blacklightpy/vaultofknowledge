@@ -1,0 +1,1 @@
+It is the study of the application of forces and the induced motions in an object.

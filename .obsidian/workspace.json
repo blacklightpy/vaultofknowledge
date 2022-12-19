@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c43141fc5aa993c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Elements of the world.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "World Building/Elements of the world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton's Bucket.md",
+                "file": "World Building/Elements of the world.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton's Bucket.md"
+                "file": "World Building/Elements of the world.md"
               }
             }
           },
@@ -167,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7df823645b923cc8",
+  "active": "3c43141fc5aa993c",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
     "Newton's Bucket.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Grassman Numbers.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Supersymmetry.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Mechanics/Grassman Numbers.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Supersymmetry.md",
     "Logic and Creativity.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
-    "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
-    "Morality.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md"
   ]
 }
