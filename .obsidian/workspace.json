@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af2d8ecda6e96973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Favorite Text Editors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Management Tools.md",
+                "file": "Favorite Text Editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Management Tools.md",
+                "file": "Favorite Text Editors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Management Tools.md"
+                "file": "Favorite Text Editors.md"
               }
             }
           },
@@ -219,10 +232,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9897a1bdaffcc9d",
+  "active": "af2d8ecda6e96973",
   "lastOpenFiles": [
-    "Filesystem in Userspace.md",
     "Server Management Tools.md",
+    "Filesystem in Userspace.md",
     "Personal/Task List/To Fill.md",
     "Overview example wiki.md",
     "Ideas and References/All about PKM.md",
