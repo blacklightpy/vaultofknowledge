@@ -34,6 +34,32 @@
             }
           },
           {
+            "id": "4e0fbaad5120e69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and References/Wikipedia Categorization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "398777b43563355a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wikipedia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7df823645b923cc8",
             "type": "leaf",
             "state": {
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "portals",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Modelling Software.md",
+                "file": "Wikipedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Modelling Software.md",
+                "file": "Wikipedia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D Modelling Software.md"
+                "file": "Wikipedia.md"
               }
             }
           },
@@ -180,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad6db1792de1d8ab",
+  "active": "398777b43563355a",
   "lastOpenFiles": [
-    "Logic and Creativity.md",
     "Ideas and References/Wikipedia Categorization.md",
+    "3D Modelling Software.md",
+    "Logic and Creativity.md",
     "Newton's Bucket.md",
     "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "World Building/Elements of the world.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md"
+    "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md"
   ]
 }
