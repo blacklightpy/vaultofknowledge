@@ -34,41 +34,12 @@
             }
           },
           {
-            "id": "4e0fbaad5120e69b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "398777b43563355a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dcba3b4b4dbcb903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and References/Classification Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "81703c0f9f6041b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas and References/Classification Systems.md",
+                "file": "Ideas and References/Wikipedia Organization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69d08b8ce6a8fa3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and References/All about PKM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas and References/Classification Systems.md",
+                "file": "Ideas and References/All about PKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas and References/Classification Systems.md",
+                "file": "Ideas and References/All about PKM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas and References/Classification Systems.md"
+                "file": "Ideas and References/All about PKM.md"
               }
             }
           },
@@ -222,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81703c0f9f6041b3",
+  "active": "69d08b8ce6a8fa3b",
   "lastOpenFiles": [
-    "Ideas and References/Wikipedia Organization.md",
-    "Ideas and References/Wikipedia Reference Systems.md",
-    "Ideas and References/Classification Systems.md",
     "Overview example wiki.md",
+    "3D Modelling Software.md",
+    "Logic and Creativity.md",
+    "Ideas and References/Wikipedia Organization.md",
+    "Ideas and References/Classification Systems.md",
+    "Ideas and References/Wikipedia Reference Systems.md",
     "Wikipedia.md",
     "Personal/Customization/Obsidian Plugins and Tools.md",
     "World Building/Science and Engineering/buket.md",
-    "World Building/buket.md",
-    "Ideas and References/Types of References.md",
-    "3D Modelling Software.md"
+    "World Building/buket.md"
   ]
 }
