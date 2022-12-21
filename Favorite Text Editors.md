@@ -10,3 +10,4 @@ Coda (Mac Only)
 
 **Indie**
 writer.bighugelabs.com
+Frost Writer - The one with backgrounds and music
