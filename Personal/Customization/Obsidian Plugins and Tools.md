@@ -18,4 +18,4 @@
 **Organization**
 - Breadcrumbs
 - Folder Note Plugin
-- Database Folder 
+- Database Folder
