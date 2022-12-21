@@ -1,5 +1,8 @@
 The go-to source for all knowledge in the internet.
 
+Wikipedia is powered by the MediaWiki wiki engine.
+It is part of the Wikimedia Foundation
+
 ## Sister Projects
 - Wikipedia - Encyclopedia
 - Wikinews - Open journalism
