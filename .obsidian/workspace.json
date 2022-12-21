@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "71935bb836a71572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries for Data Science - Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f54f69ce50869ba",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
+                "file": "Libraries for Data Science - Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
+                "file": "Libraries for Data Science - Python.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md"
+                "file": "Libraries for Data Science - Python.md"
               }
             }
           },
@@ -232,8 +245,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb3b13bb1e5805da",
+  "active": "71935bb836a71572",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
     "Overview example wiki.md",
     "Server Management Tools.md",
     "Favorite Text Editors.md",
@@ -242,7 +256,6 @@
     "Ideas and References/All about PKM.md",
     "3D Modelling Software.md",
     "Logic and Creativity.md",
-    "Ideas and References/Wikipedia Organization.md",
-    "Ideas and References/Classification Systems.md"
+    "Ideas and References/Wikipedia Organization.md"
   ]
 }
