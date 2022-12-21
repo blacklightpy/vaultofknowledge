@@ -7,3 +7,6 @@ Kate
 CudaText
 UltraEdit (Paid)
 Coda (Mac Only)
+
+**Indie**
+writer.bighugelabs.com
