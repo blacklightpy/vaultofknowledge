@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "ad6db1792de1d8ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D Modelling Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7df823645b923cc8",
             "type": "leaf",
             "state": {
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas and References/Wikipedia Categorization.md",
+                "file": "3D Modelling Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas and References/Wikipedia Categorization.md",
+                "file": "3D Modelling Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas and References/Wikipedia Categorization.md"
+                "file": "3D Modelling Software.md"
               }
             }
           },
@@ -167,8 +180,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7df823645b923cc8",
+  "active": "ad6db1792de1d8ab",
   "lastOpenFiles": [
+    "Logic and Creativity.md",
+    "Ideas and References/Wikipedia Categorization.md",
     "Newton's Bucket.md",
     "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
@@ -176,8 +191,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Mechanics/Grassman Numbers.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Supersymmetry.md"
+    "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md"
   ]
 }
