@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "1d421f6f8c67faa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and References/Types of References.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7df823645b923cc8",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wikipedia.md",
+                "file": "Ideas and References/Types of References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wikipedia.md",
+                "file": "Ideas and References/Types of References.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wikipedia.md"
+                "file": "Ideas and References/Types of References.md"
               }
             }
           },
@@ -206,8 +219,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "398777b43563355a",
+  "active": "1d421f6f8c67faa4",
   "lastOpenFiles": [
+    "Wikipedia.md",
+    "Ideas and References/Types of References.md",
     "Ideas and References/Wikipedia Categorization.md",
     "3D Modelling Software.md",
     "Logic and Creativity.md",
@@ -215,8 +230,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "World Building/Elements of the world.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md"
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md"
   ]
 }
