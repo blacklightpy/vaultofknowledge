@@ -58,6 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5e5a032b6fd191d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview example wiki.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -195,15 +208,15 @@
   },
   "active": "398777b43563355a",
   "lastOpenFiles": [
+    "Overview example wiki.md",
+    "Ideas and References/Wikipedia Reference Systems.md",
     "Wikipedia.md",
     "Personal/Customization/Obsidian Plugins and Tools.md",
     "World Building/Science and Engineering/buket.md",
     "World Building/buket.md",
-    "Ideas and References/Wikipedia Reference Systems.md",
     "Ideas and References/Types of References.md",
     "3D Modelling Software.md",
     "Logic and Creativity.md",
-    "Newton's Bucket.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md"
+    "Newton's Bucket.md"
   ]
 }
