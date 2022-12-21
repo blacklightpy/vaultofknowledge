@@ -14,5 +14,7 @@
 ### Cloud Services
 #### Storage
 - Wasabi
+#### Virtual Private Server
+#### Dedicated Server
 #### Cloud Server
-#### Cloud Compute
+#### Compute Server

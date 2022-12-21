@@ -84,22 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d768e196a3b96a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filesystem in Userspace.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filesystem in Userspace.md",
+                "file": "Server Management Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filesystem in Userspace.md",
+                "file": "Server Management Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filesystem in Userspace.md"
+                "file": "Server Management Tools.md"
               }
             }
           },
@@ -232,8 +219,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d768e196a3b96a5f",
+  "active": "b9897a1bdaffcc9d",
   "lastOpenFiles": [
+    "Filesystem in Userspace.md",
     "Server Management Tools.md",
     "Personal/Task List/To Fill.md",
     "Overview example wiki.md",
@@ -242,7 +230,6 @@
     "Logic and Creativity.md",
     "Ideas and References/Wikipedia Organization.md",
     "Ideas and References/Classification Systems.md",
-    "Ideas and References/Wikipedia Reference Systems.md",
-    "Wikipedia.md"
+    "Ideas and References/Wikipedia Reference Systems.md"
   ]
 }
