@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "dcba3b4b4dbcb903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and References/Library Classification Systems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e5e5a032b6fd191d",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas and References/Wikipedia Reference Systems.md",
+                "file": "Ideas and References/Library Classification Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas and References/Wikipedia Reference Systems.md",
+                "file": "Ideas and References/Library Classification Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas and References/Wikipedia Reference Systems.md"
+                "file": "Ideas and References/Library Classification Systems.md"
               }
             }
           },
@@ -206,10 +219,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "398777b43563355a",
+  "active": "dcba3b4b4dbcb903",
   "lastOpenFiles": [
-    "Overview example wiki.md",
     "Ideas and References/Wikipedia Reference Systems.md",
+    "Overview example wiki.md",
     "Wikipedia.md",
     "Personal/Customization/Obsidian Plugins and Tools.md",
     "World Building/Science and Engineering/buket.md",
