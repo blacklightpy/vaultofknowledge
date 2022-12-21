@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "fb3b13bb1e5805da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f54f69ce50869ba",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview example wiki.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview example wiki.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview example wiki.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md"
               }
             }
           },
@@ -219,13 +232,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5e5a032b6fd191d",
+  "active": "fb3b13bb1e5805da",
   "lastOpenFiles": [
+    "Overview example wiki.md",
     "Server Management Tools.md",
     "Favorite Text Editors.md",
     "Filesystem in Userspace.md",
     "Personal/Task List/To Fill.md",
-    "Overview example wiki.md",
     "Ideas and References/All about PKM.md",
     "3D Modelling Software.md",
     "Logic and Creativity.md",
