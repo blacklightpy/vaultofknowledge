@@ -14,3 +14,8 @@
 - [PLUGIN] Advanced Slides
 - [PLUGIN] Advanced Tables
 - [PLUGIN] Calendar
+
+**Organization**
+- Breadcrumbs
+- Folder Note Plugin
+- Database Folder 
