@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "69d08b8ce6a8fa3b",
+            "id": "9f54f69ce50869ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -222,14 +222,14 @@
   "active": "b9897a1bdaffcc9d",
   "lastOpenFiles": [
     "Personal/Task List/To Fill.md",
-    "Ideas and References/All about PKM.md",
     "Overview example wiki.md",
+    "Server Management Tools.md",
+    "Ideas and References/All about PKM.md",
     "3D Modelling Software.md",
     "Logic and Creativity.md",
     "Ideas and References/Wikipedia Organization.md",
     "Ideas and References/Classification Systems.md",
     "Ideas and References/Wikipedia Reference Systems.md",
-    "Wikipedia.md",
-    "Personal/Customization/Obsidian Plugins and Tools.md"
+    "Wikipedia.md"
   ]
 }
