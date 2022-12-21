@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas and References/Wikipedia Categorization.md",
+                "file": "Ideas and References/Wikipedia Reference Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,20 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wikipedia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7df823645b923cc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
+                "file": "Ideas and References/Wikipedia Reference Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
+                "file": "Ideas and References/Wikipedia Reference Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
+                "file": "Ideas and References/Wikipedia Reference Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md"
+                "file": "Ideas and References/Wikipedia Reference Systems.md"
               }
             }
           },
@@ -206,14 +193,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7df823645b923cc8",
+  "active": "398777b43563355a",
   "lastOpenFiles": [
+    "Wikipedia.md",
+    "Personal/Customization/Obsidian Plugins and Tools.md",
     "World Building/Science and Engineering/buket.md",
     "World Building/buket.md",
-    "Personal/Customization/Obsidian Plugins and Tools.md",
-    "Ideas and References/Wikipedia Categorization.md",
+    "Ideas and References/Wikipedia Reference Systems.md",
     "Ideas and References/Types of References.md",
-    "Wikipedia.md",
     "3D Modelling Software.md",
     "Logic and Creativity.md",
     "Newton's Bucket.md",
