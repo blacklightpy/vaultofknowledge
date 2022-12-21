@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas and References/Library Classification Systems.md",
+                "file": "Ideas and References/Classification Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas and References/Library Classification Systems.md",
+                "file": "Ideas and References/Classification Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas and References/Library Classification Systems.md",
+                "file": "Ideas and References/Classification Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas and References/Library Classification Systems.md",
+                "file": "Ideas and References/Classification Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas and References/Library Classification Systems.md"
+                "file": "Ideas and References/Classification Systems.md"
               }
             }
           },
@@ -226,7 +226,7 @@
   "lastOpenFiles": [
     "Ideas and References/Wikipedia Organization.md",
     "Ideas and References/Wikipedia Reference Systems.md",
-    "Ideas and References/Library Classification Systems.md",
+    "Ideas and References/Classification Systems.md",
     "Overview example wiki.md",
     "Wikipedia.md",
     "Personal/Customization/Obsidian Plugins and Tools.md",
