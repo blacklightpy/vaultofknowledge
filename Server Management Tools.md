@@ -2,7 +2,7 @@
 - Ansible
 **Container Management**
 - Docker
-**Server Setup Tool**
+**Easy Server Oriented Distros**
 - Cloudron
 - Yunohost
 - Sandstorm.io

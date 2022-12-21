@@ -84,22 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "af2d8ecda6e96973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Favorite Text Editors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Favorite Text Editors.md",
+                "file": "Overview example wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Favorite Text Editors.md",
+                "file": "Overview example wiki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Favorite Text Editors.md"
+                "file": "Overview example wiki.md"
               }
             }
           },
@@ -232,9 +219,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af2d8ecda6e96973",
+  "active": "e5e5a032b6fd191d",
   "lastOpenFiles": [
     "Server Management Tools.md",
+    "Favorite Text Editors.md",
     "Filesystem in Userspace.md",
     "Personal/Task List/To Fill.md",
     "Overview example wiki.md",
@@ -242,7 +230,6 @@
     "3D Modelling Software.md",
     "Logic and Creativity.md",
     "Ideas and References/Wikipedia Organization.md",
-    "Ideas and References/Classification Systems.md",
-    "Ideas and References/Wikipedia Reference Systems.md"
+    "Ideas and References/Classification Systems.md"
   ]
 }
