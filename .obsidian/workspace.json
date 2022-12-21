@@ -86,6 +86,19 @@
             }
           },
           {
+            "id": "aab609df706cd4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map of Computer Science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9f54f69ce50869ba",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries for Data Science - Python.md",
+                "file": "Map of Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries for Data Science - Python.md",
+                "file": "Map of Computer Science.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries for Data Science - Python.md"
+                "file": "Map of Computer Science.md"
               }
             }
           },
@@ -245,8 +258,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71935bb836a71572",
+  "active": "aab609df706cd4e1",
   "lastOpenFiles": [
+    "Libraries for Data Science - Python.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
     "Overview example wiki.md",
     "Server Management Tools.md",
@@ -255,7 +269,6 @@
     "Personal/Task List/To Fill.md",
     "Ideas and References/All about PKM.md",
     "3D Modelling Software.md",
-    "Logic and Creativity.md",
-    "Ideas and References/Wikipedia Organization.md"
+    "Logic and Creativity.md"
   ]
 }
