@@ -104,7 +104,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/words I learned today.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea564e6b93cc4a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -158,8 +171,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/words I learned today.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/words I learned today.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/words I learned today.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md"
               }
             }
           },
@@ -244,19 +256,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c351a6f80c7b9de0",
+  "active": "ea564e6b93cc4a8c",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
+    "Personal/words I learned today.md",
     "Entropy.md",
     "Map of Computer Science.md",
-    "Personal/words I learned today.md",
     "Personal/Task List/To Fill.md",
     "Server Management Tools.md",
     "Content Creators to Watch.md",
     "Libraries for Data Science - Python.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
-    "Overview example wiki.md",
-    "Favorite Text Editors.md"
+    "Overview example wiki.md"
   ]
 }
