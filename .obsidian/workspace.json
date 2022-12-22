@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea564e6b93cc4a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
+                "file": "Map of Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
+                "file": "Map of Computer Science.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md"
+                "file": "Map of Computer Science.md"
               }
             }
           },
@@ -259,10 +246,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea564e6b93cc4a8c",
+  "active": "aab609df706cd4e1",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
     "Personal/words I learned today.md",
     "Entropy.md",
     "Map of Computer Science.md",
