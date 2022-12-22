@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "ad6db1792de1d8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D Modelling Software.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81703c0f9f6041b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and References/Wikipedia Organization.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5e5a032b6fd191d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Overview example wiki.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb3b13bb1e5805da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71935bb836a71572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries for Data Science - Python.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,22 +45,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c351a6f80c7b9de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#move-external",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +92,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map of Computer Science.md",
+                "file": "Logic and Creativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map of Computer Science.md",
+                "file": "Logic and Creativity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map of Computer Science.md"
+                "file": "Logic and Creativity.md"
               }
             }
           },
@@ -246,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aab609df706cd4e1",
+  "active": "4e18fcf75e631620",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
-    "Personal/words I learned today.md",
-    "Entropy.md",
+    "3D Modelling Software.md",
+    "Ideas and References/Wikipedia Organization.md",
     "Map of Computer Science.md",
-    "Personal/Task List/To Fill.md",
-    "Server Management Tools.md",
-    "Content Creators to Watch.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
+    "Overview example wiki.md",
     "Libraries for Data Science - Python.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
+    "Personal/words I learned today.md",
+    "Entropy.md"
   ]
 }

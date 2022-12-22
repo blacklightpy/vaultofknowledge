@@ -1,4 +1,4 @@
-Logic and Creativity are often opposing characteristics. Logic, while useful for understanding things, is a destructive mechanism - because it is literally breaking down things. Creativity is the opposite, it is about making entirely new things, which can be broken down by logic. Creativity is essential for life, but it cannot go on forever without logic, and hence creativity and logic has to go hand in hand. 
+Logic and Creativity are opposing characteristics. Logic is a destructive mechanism, because it is literally breaking down things. Creativity on the other hand is a constructive mechanism. 
 
 I tried to study how creativity can come from a purely mathematical algorithm, i.e. without any random functions since true randomness cannot be generated mathematically. Here's how my idea goes:
 

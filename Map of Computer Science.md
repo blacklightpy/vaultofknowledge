@@ -1,5 +1,2 @@
 - Theory of Computation
-	- Automata Theory and Formal Languages
-	- Computability Theory
-	- Computational Complexity Theory
 - Coding Theory

@@ -1,2 +1,3 @@
 - Automata Theory and Formal Languages
-- Com
+- Computability Theory
+- Computational Complexity Theory
