@@ -99,25 +99,12 @@
             }
           },
           {
-            "id": "9f54f69ce50869ba",
+            "id": "c351a6f80c7b9de0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Task List/To Fill.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9897a1bdaffcc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server Management Tools.md",
+                "file": "Entropy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -251,7 +238,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -260,15 +248,15 @@
   },
   "active": "aab609df706cd4e1",
   "lastOpenFiles": [
+    "Entropy.md",
+    "Personal/Task List/To Fill.md",
+    "Server Management Tools.md",
+    "Content Creators to Watch.md",
+    "Map of Computer Science.md",
     "Libraries for Data Science - Python.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
     "Overview example wiki.md",
-    "Server Management Tools.md",
     "Favorite Text Editors.md",
-    "Filesystem in Userspace.md",
-    "Personal/Task List/To Fill.md",
-    "Ideas and References/All about PKM.md",
-    "3D Modelling Software.md",
-    "Logic and Creativity.md"
+    "Filesystem in Userspace.md"
   ]
 }
