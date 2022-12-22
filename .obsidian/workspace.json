@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e18fcf75e631620",
+            "id": "f5d84d68c96ff114",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic and Creativity.md",
+                "file": "Is motion of microparticles really random.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "f5d84d68c96ff114",
+            "id": "404069f59ba394d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5d84d68c96ff114",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "How to make a program that prints it's own source.md",
+    "Is motion of microparticles really random.md",
+    "Map of Computer Science.md",
+    "Overview example wiki.md",
     "Logic and Creativity.md",
     "3D Modelling Software.md",
     "Ideas and References/Wikipedia Organization.md",
-    "Map of Computer Science.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
-    "Overview example wiki.md",
     "Libraries for Data Science - Python.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model rough.md",
-    "Personal/words I learned today.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md"
   ]
 }
