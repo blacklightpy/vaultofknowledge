@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entropy.md",
+                "file": "Personal/words I learned today.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#move-external",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map of Computer Science.md",
+                "file": "Personal/words I learned today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map of Computer Science.md",
+                "file": "Personal/words I learned today.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map of Computer Science.md"
+                "file": "Personal/words I learned today.md"
               }
             }
           },
@@ -239,24 +240,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "aab609df706cd4e1",
+  "active": "c351a6f80c7b9de0",
   "lastOpenFiles": [
     "Entropy.md",
+    "Map of Computer Science.md",
+    "Personal/words I learned today.md",
     "Personal/Task List/To Fill.md",
     "Server Management Tools.md",
     "Content Creators to Watch.md",
-    "Map of Computer Science.md",
     "Libraries for Data Science - Python.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md",
     "Overview example wiki.md",
-    "Favorite Text Editors.md",
-    "Filesystem in Userspace.md"
+    "Favorite Text Editors.md"
   ]
 }
