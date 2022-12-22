@@ -6,3 +6,6 @@
 
 TCP: Acknowledgement, Checks order of messages
 Error Detection
+
+Multiplexing
+Flow Control
