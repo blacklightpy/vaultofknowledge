@@ -8,3 +8,5 @@ For cooking food, we must obtain the ingredients.
 The ingredients are either manufactured by plants, or taken in by consuming secondary consumers.
 
 Plants can be homegrown or be outsourced. There are public spots like forests as well as privately owned farms. Animals can be homegrown, but we generally do not do it for the sake of consumption. They can also be hunted or be outsourced from other people.
+
+Ingredients are often processed by other people. This could mean the maintenance of the farm itself, or the work performed to convert the raw ingredients to processed ones. For this, we pay the people using currency.
