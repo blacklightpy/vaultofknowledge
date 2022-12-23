@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Is motion of microparticles really random.md",
+                "file": "Project Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is motion of microparticles really random.md",
+                "file": "Why cryptocurrencies may not be necessary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Is motion of microparticles really random.md",
+                "file": "Why cryptocurrencies may not be necessary.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is motion of microparticles really random.md"
+                "file": "Why cryptocurrencies may not be necessary.md"
               }
             }
           },
@@ -193,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5d84d68c96ff114",
+  "active": "466387b3d949dec7",
   "lastOpenFiles": [
+    "Power Usage Comparison of CC and banking systems.md",
+    "Project Ideas.md",
+    "Is position of microparticles really random.md",
     "Overview example wiki.md",
     "Map of Computer Science.md",
     "Personal/words I learned today.md",
-    "Power Usage Comparison of CC and banking systems.md",
     "Why cryptocurrencies may not be necessary.md",
     "Necessity of Politics.md",
     "Theory of a 1D Space.md",
-    "What all must a person do.md",
-    "What science is.md",
-    "On chasing experiences.md"
+    "What all must a person do.md"
   ]
 }

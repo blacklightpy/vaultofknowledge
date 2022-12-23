@@ -1,1 +1,6 @@
-AninaChat
+- AninaChat
+- Soundbrawl
+- TED-E
+- Obsidian-Sphinx
+	- Convert Markdown Wikilinks to MyST in GitHub Actions
+	- Publish Sphinx from MyST in GitHub Pages/Netlify/etc.
