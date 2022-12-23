@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "404069f59ba394d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Is motion of microparticles really random.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5e5a032b6fd191d",
             "type": "leaf",
             "state": {
@@ -58,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4451271291ac560f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/words I learned today.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078a3734f6675268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of a 1D Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is motion of microparticles really random.md",
+                "file": "Theory of a 1D Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Is motion of microparticles really random.md",
+                "file": "Theory of a 1D Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is motion of microparticles really random.md"
+                "file": "Theory of a 1D Space.md"
               }
             }
           },
@@ -194,17 +207,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44eef348059920d4",
+  "active": "078a3734f6675268",
   "lastOpenFiles": [
-    "How to make a program that prints it's own source.md",
-    "Is motion of microparticles really random.md",
+    "Personal/words I learned today.md",
+    "Personal/Task List/To Fill.md",
     "Map of Computer Science.md",
     "Overview example wiki.md",
+    "Is motion of microparticles really random.md",
+    "How to make a program that prints it's own source.md",
     "Logic and Creativity.md",
     "3D Modelling Software.md",
     "Ideas and References/Wikipedia Organization.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md",
-    "Libraries for Data Science - Python.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Theory of Computation.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md"
   ]
 }
