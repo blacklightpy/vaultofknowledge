@@ -12,7 +12,11 @@ Cryptocurrencies were meant to provide an alternative means of currency. The adv
 
 
 Power Usage:
-Cryptocurrencies: Total power consumed by nodes + Power consumed by miners + Power consumed by transactions
+Cryptocurrencies: 
+PoW
+Layer 1: Total power consumed by nodes + Power consumed by miners + Power consumed by transactions
+Layer 2: 
+
 Banks: Total power consumed by ATMs, 
 
 
