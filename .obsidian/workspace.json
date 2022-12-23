@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c93fe32931ffb237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What all must a person do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory of a 1D Space.md",
+                "file": "What all must a person do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory of a 1D Space.md",
+                "file": "What all must a person do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory of a 1D Space.md"
+                "file": "What all must a person do.md"
               }
             }
           },
@@ -207,8 +220,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "078a3734f6675268",
+  "active": "c93fe32931ffb237",
   "lastOpenFiles": [
+    "Theory of a 1D Space.md",
     "Personal/words I learned today.md",
     "Personal/Task List/To Fill.md",
     "Map of Computer Science.md",
@@ -217,7 +231,6 @@
     "How to make a program that prints it's own source.md",
     "Logic and Creativity.md",
     "3D Modelling Software.md",
-    "Ideas and References/Wikipedia Organization.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Communication Technology/OSI Model.md"
+    "Ideas and References/Wikipedia Organization.md"
   ]
 }
