@@ -1,4 +1,3 @@
-
 When hungry eat, when tired sleep.
 
 To function as a society, if we eat at specific times, we tend to sleep at specific times as well.
