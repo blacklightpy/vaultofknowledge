@@ -6,4 +6,19 @@
 - foliage: plant leaves
 - haze: obscuration of atmosphere caused by suspended particles OR a state of mental confusion
 
+21/11/2022
+- kiln
+- ware
+- saltpetre
+- crucible
+- glutinous
+- madder
+- orpiment
+- cochineal
+- lac
+- red lead
+- minimum
+- bhasmas
+- Iatrochemistry
+
 #draft #move-external 

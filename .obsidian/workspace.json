@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/words I learned today.md",
+                "file": "Theory of a 1D Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/words I learned today.md",
+                "file": "Theory of a 1D Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/words I learned today.md"
+                "file": "Theory of a 1D Space.md"
               }
             }
           },
@@ -246,10 +246,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4451271291ac560f",
+  "active": "078a3734f6675268",
   "lastOpenFiles": [
-    "Map of Computer Science.md",
     "Personal/words I learned today.md",
+    "Map of Computer Science.md",
     "Theory of a 1D Space.md",
     "What all must a person do.md",
     "Why cryptocurrencies may not be necessary.md",
