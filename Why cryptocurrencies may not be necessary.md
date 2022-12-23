@@ -12,17 +12,6 @@ Cryptocurrencies were meant to provide an alternative means of currency. The adv
 
 
 Power Usage:
-Cryptocurrencies: 
-PoW is the best solution I can think of so far.
-Layer 1: Total power consumed by nodes + Power consumed by miners + Power consumed by transactions
-Layer 2: Total power consumed by 2 nodes + Power consumed by transactions
-Conversion: Current State: A mess / Can be: SIngle platform solution (like THORSwap)
 
-Banks: 
-Digital: Total power consumed by computers in a branch * Number of branches in a bank * Number of banks in a country * Number of countries + Total power consumed by transactions
-Currency: Total power consumed by ATMs * ATMs per branch * Number of branches in a bank * Number of banks in a country * Number of countries
-Conversion: Forex Platforms + Forex transcations in payment processors
-
-Seems like a cryptocurrency based solution will be more energy efficient (without performing any calculations)
 
 
