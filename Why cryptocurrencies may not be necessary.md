@@ -10,3 +10,9 @@ Cryptocurrencies were meant to provide an alternative means of currency. The adv
 | It provides an alternative to the banking system, where we have to rely on banks for the security of our digital storage and transactions. | Yes                                                                                      | Yes       |
 | It provides a uniform currency for everyone                                                                                                | This is satisfied only within the scope of the communities we are already connected with | No          |
 
+
+Power Usage:
+Cryptocurrencies: Total power consumed by nodes + Power consumed by miners + Power consumed by transactions
+Banks: Total power consumed by ATMs, 
+
+
