@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identity.md",
+                "file": "What science is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identity.md",
+                "file": "What science is.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identity.md"
+                "file": "What science is.md"
               }
             }
           },
@@ -272,12 +272,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8d91292f2394b97",
+  "active": "09fb142c39ceffaa",
   "lastOpenFiles": [
-    "What science is.md",
     "Identity.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "Necessity of Politics.md",
+    "What science is.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quarks.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
