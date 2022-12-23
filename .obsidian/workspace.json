@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8d91292f2394b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Necessity of Politics.md",
+                "file": "Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Necessity of Politics.md",
+                "file": "Identity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Necessity of Politics.md"
+                "file": "Identity.md"
               }
             }
           },
@@ -246,8 +259,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b850cfa2b0cb96a8",
+  "active": "f8d91292f2394b97",
   "lastOpenFiles": [
+    "Necessity of Politics.md",
     "Why cryptocurrencies may not be necessary.md",
     "What all must a person do.md",
     "Vitamin D from Sunlight.md",
@@ -256,7 +270,6 @@
     "Personal/Task List/To Fill.md",
     "Map of Computer Science.md",
     "Overview example wiki.md",
-    "Is motion of microparticles really random.md",
-    "How to make a program that prints it's own source.md"
+    "Is motion of microparticles really random.md"
   ]
 }
