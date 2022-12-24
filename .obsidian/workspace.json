@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowing what I should do.md",
+                "file": "Project Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowing what I should do.md",
+                "file": "What all must a person do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowing what I should do.md",
+                "file": "What all must a person do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowing what I should do.md"
+                "file": "What all must a person do.md"
               }
             }
           },
@@ -168,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "39d33b9669214994",
+  "active": "c93fe32931ffb237",
   "lastOpenFiles": [
-    "What all must a person do.md",
     "Project Ideas.md",
+    "Knowing what I should do.md",
+    "What all must a person do.md",
     "Power Usage Comparison of CC and banking systems.md",
     "Why cryptocurrencies may not be necessary.md",
     "Is position of microparticles really random.md",
     "Overview example wiki.md",
     "Map of Computer Science.md",
     "Personal/words I learned today.md",
-    "Necessity of Politics.md",
-    "Theory of a 1D Space.md"
+    "Necessity of Politics.md"
   ]
 }
