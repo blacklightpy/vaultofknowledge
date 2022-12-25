@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "54d37a5b71055525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creative Ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0da98bde20b2dea0",
             "type": "leaf",
             "state": {
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Master ToDo.md",
+                "file": "Creative Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Master ToDo.md",
+                "file": "Creative Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master ToDo.md"
+                "file": "Creative Ideas.md"
               }
             }
           },
@@ -168,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0da98bde20b2dea0",
+  "active": "54d37a5b71055525",
   "lastOpenFiles": [
     "Project Ideas.md",
+    "Creative Ideas.md",
+    "Master ToDo.md",
     "Personal/Task List/Hello Worlds.md",
     "Knowing what I should do.md",
     "What all must a person do.md",
     "Power Usage Comparison of CC and banking systems.md",
     "Why cryptocurrencies may not be necessary.md",
     "Is position of microparticles really random.md",
-    "Overview example wiki.md",
-    "Map of Computer Science.md",
-    "Personal/words I learned today.md"
+    "Overview example wiki.md"
   ]
 }
