@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Ideas.md",
+                "file": "Z-Organizing/Project Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Ideas.md",
+                "file": "Z-Organizing/Creative Ideas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB Website Inspirations.md",
+                "file": "Personal Website Inspirations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dcc3e6bd6ab7124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tried Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "949d2daae8f7ecd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Organizing/Sticky Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master ToDo.md",
+                "file": "Z-Organizing/Master ToDo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KB Website Inspirations.md",
+                "file": "Tried Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KB Website Inspirations.md",
+                "file": "Tried Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KB Website Inspirations.md"
+                "file": "Tried Software.md"
               }
             }
           },
@@ -194,17 +220,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "214035d4e0428132",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Creative Ideas.md",
-    "Project Ideas.md",
-    "Master ToDo.md",
+    "Personal Website Inspirations.md",
+    "Z-Organizing/Sticky Notes.md",
+    "Z-Organizing/Creative Ideas.md",
+    "Z-Organizing/Project Ideas.md",
+    "Z-Organizing/Master ToDo.md",
     "Personal/Task List/Hello Worlds.md",
-    "Knowing what I should do.md",
-    "What all must a person do.md",
+    "Z-Organizing/Knowing what I should do.md",
+    "Z-Organizing/What all must a person do.md",
     "Power Usage Comparison of CC and banking systems.md",
-    "Why cryptocurrencies may not be necessary.md",
-    "Is position of microparticles really random.md",
-    "Overview example wiki.md"
+    "Why cryptocurrencies may not be necessary.md"
   ]
 }

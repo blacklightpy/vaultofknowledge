@@ -1,2 +1,0 @@
-- https://tutorial.math.lamar.edu/classes/calciii/curldivergence.asp - Paul's Notes
-- 
