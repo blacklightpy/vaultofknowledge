@@ -8,6 +8,7 @@ Everything goes here. Every Move.
 	- Phone 2
 	- Pendrives
 - Creative Ideas
+- Post Ideas
 - Notion Making
 	- Book and Sheets as reference
 - Aviasys
