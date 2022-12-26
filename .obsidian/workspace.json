@@ -26,15 +26,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Tried Software Review.md",
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca4a73794a7f10b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Tried Software Review.md",
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Tried Software Review.md",
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Tried Software Review.md"
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md"
               }
             }
           },
@@ -168,17 +178,31 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d54a24881cf8c69",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "ca4a73794a7f10b1",
   "lastOpenFiles": [
-    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Z0-Organizing (All Notes Matter)/Knowing what I should do.md",
     "Z0-Organizing (All Notes Matter)/Tried Software Review.md",
+    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "Z0-Organizing (All Notes Matter)/Android Games I Like.md",
     "Z0-Organizing (All Notes Matter)/Master ToDo.md",
     "Personal/Productivity/Productivity Tips.md",
     "Ideas and References/All about PKM.md",
     "Ideas and References/Classification Systems.md",
-    "Z0-Organizing (All Notes Matter)/Sticky Notes.md",
-    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
-    "Z0-Organizing (All Notes Matter)/Creative Ideas.md"
+    "Z0-Organizing (All Notes Matter)/Sticky Notes.md"
   ]
 }

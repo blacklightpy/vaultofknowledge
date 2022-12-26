@@ -8,3 +8,6 @@
 #### Mathematical Modelling
 - MathWorks
 - MATLAB
+#### Physics and Engineering
+- Physics Videos by Eugene Khutaryoski
+- Lesics
