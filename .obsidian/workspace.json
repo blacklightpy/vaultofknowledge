@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c35646105913a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Degrees of Freedom.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Degrees of Freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Degrees of Freedom.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Degrees of Freedom.md"
               }
             }
           },
@@ -182,11 +195,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5e7ce4e997c6a9b1",
+  "active": "7c35646105913a29",
   "lastOpenFiles": [
+    "Untitled.md",
     "Z0-Organizing (All Notes Matter)/Master ToDo.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
-    "Untitled.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "Z0-Organizing (All Notes Matter)/Creative Ideas.md",
     "Z1-Inbox/Android Customization.md",
