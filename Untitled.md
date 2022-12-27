@@ -2,6 +2,7 @@
 - Issue Tracking
 - HR Management
 - Time Tracking
+- Knowledge Management
 
 # Design
 - Krita/Drawing
@@ -16,3 +17,4 @@
 # Server
 - Landchad - Domain, Mail
 - API
+- Credentials Management
