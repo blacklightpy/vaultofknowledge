@@ -2,7 +2,7 @@
 - Issue Tracking
 - HR Management
 - Time Tracking
-- Knowledge Management
+- Knowledge Management - Notion and Obsidian
 
 # Design
 - Krita/Drawing
