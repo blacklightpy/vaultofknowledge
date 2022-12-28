@@ -7,6 +7,7 @@
 # Blogs
 - https://hvops.com/ : For SysAdmin management systems
 - https://betterexplained.com/articles/understanding-why-complex-multiplication-works/ - Math
+- Page Flutter - Journalling
 
 # Etsy
 - Finance Planner by phenixprintable - https://www.etsy.com/in-en/listing/715502598/financial-planner-finance-journal
