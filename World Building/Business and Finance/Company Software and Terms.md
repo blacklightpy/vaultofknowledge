@@ -1,7 +1,9 @@
 - PM 
 - EMS (Enterprise Management Software)
-	- ERP [[ERP Software]] (Consists of CRM, HR Management, Supply Chain Management, Financial Management and Production Management)
-	- Sometimes EMS has ERP, SCM and CRM Seperated
+	- Not suitable for small scale companies
+	- Is more data focused (competitors and supply chain), unlike ERP that focuses on resources
+	- Types: ERP, SCM and CRM
+- ERP [[ERP Software]] (Consists of CRM, HR Management, Supply Chain Management, Financial Management and Production Management)
 - EKM (Enterprise Key Management)
 - SFA (Sales Force Automation)
 - PLM [[PLM Software]]
