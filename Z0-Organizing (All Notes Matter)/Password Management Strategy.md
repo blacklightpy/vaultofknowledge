@@ -39,3 +39,10 @@
 ## Users
 - Store passwords hashed and salted
 - I guess - give option for full security vs managed security; or have verification systems.
+
+- NIST Guidelines https://www.n-able.com/blog/password-management
+	- Favour the user
+	- Longer, the better
+	- Forget composition
+	- No more expiration without reason - like phishing
+	- SMS should not be used for 2FA
