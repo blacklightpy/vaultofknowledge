@@ -1,0 +1,3 @@
+- Digital Signal Processing
+- RTOS
+- Electronics and Mechanics
