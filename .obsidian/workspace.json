@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b02cd8a0666fe70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md",
+                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md",
+                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md"
+                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md"
               }
             }
           },
@@ -208,17 +195,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1b02cd8a0666fe70",
+  "active": "5e7ce4e997c6a9b1",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Mechanics/Jerk.md",
-    "World Building/Science and Engineering/Physics/Mechanics/cam synthesis.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electronic Camming.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Fresnel Integrals.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Track Transition Curves.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Radius of Curvature.md",
+    "Z0-Organizing (All Notes Matter)/Master ToDo.md",
+    "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
     "Degrees of Freedom.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Lambda Calculus.md",
-    "Z0-Organizing (All Notes Matter)/Master ToDo.md"
+    "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
+    "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md",
+    "World Building/Science and Engineering/Physics/Starship Engines.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/clothoids.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Jerk.md"
   ]
 }
