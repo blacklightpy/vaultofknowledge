@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93143da08ba1788e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Cryptography.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Cryptography.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Password Management Strategy.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Cryptography.md"
               }
             }
           },
@@ -221,8 +234,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5c58c0ddbe955a25",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
     "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "To Learn.md",
     "Resources/Open-Source Tools.md",
@@ -231,7 +245,6 @@
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
     "Z0-Organizing (All Notes Matter)/Master ToDo.md",
-    "Z1-Inbox/Degrees of Freedom.md",
-    "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md"
+    "Z1-Inbox/Degrees of Freedom.md"
   ]
 }

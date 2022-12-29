@@ -9,6 +9,7 @@
 - Only trusted DBAs should have the main password
 - Have enterprise profiles that give permission to login to server
 - All passwords can be modified by a master account/multiple ones.
+- Idea: Shamir Secret Sharing
 
 ## Users
 - Store passwords hashed and salted
