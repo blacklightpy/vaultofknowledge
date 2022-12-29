@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md",
+                "file": "To Learn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md",
+                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md",
+                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md"
+                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md"
               }
             }
           },
@@ -221,17 +221,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fa420091c440a3f4",
+  "active": "5e7ce4e997c6a9b1",
   "lastOpenFiles": [
-    "Linux/Linux Components.md",
-    "Z0-Organizing (All Notes Matter)/PM Comparison.md",
-    "World Building/Business and Finance/Project Management/PM Software.md",
-    "Shareworthy articles.md",
+    "To Learn.md",
+    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "World Building/Business and Finance/Company Software and Terms.md",
     "World Building/Business and Finance/ERP Software.md",
-    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
+    "Z0-Organizing (All Notes Matter)/PM Comparison.md",
+    "Linux/Linux Components.md",
+    "World Building/Business and Finance/Project Management/PM Software.md",
+    "Shareworthy articles.md",
     "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
-    "Z1-Inbox/Degrees of Freedom.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Cryptography.md"
+    "Z1-Inbox/Degrees of Freedom.md"
   ]
 }

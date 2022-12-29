@@ -18,3 +18,11 @@
 - Landchad - Domain, Mail
 - API
 - Credentials Management
+
+# Final
+- QA Testing
+- Standards Compliance
+- Legal Compliance
+- Marketing
+- Sales
+- Customer Support
