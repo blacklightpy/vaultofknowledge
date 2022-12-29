@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
+                "file": "To Learn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
+                "file": "To Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
+                "file": "To Learn.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md"
+                "file": "To Learn.md"
               }
             }
           },
@@ -211,15 +210,15 @@
   },
   "active": "42e847f9d4592ad3",
   "lastOpenFiles": [
+    "Resources/Decentralized Technologies.md",
     "To Learn.md",
+    "Resources/Open-Source Tools.md",
+    "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
     "Z0-Organizing (All Notes Matter)/Master ToDo.md",
     "Z1-Inbox/Degrees of Freedom.md",
     "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
-    "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md",
-    "World Building/Science and Engineering/Physics/Starship Engines.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/clothoids.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md"
+    "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md"
   ]
 }

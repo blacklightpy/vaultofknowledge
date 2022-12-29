@@ -1,3 +1,4 @@
 - Digital Signal Processing
 - RTOS
 - Electronics and Mechanics
+- Reserved Stock Options and other business stuff
