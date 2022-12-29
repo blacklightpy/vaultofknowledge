@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md",
+                "file": "World Building/Business and Finance/ERP Software.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md",
+                "file": "World Building/Business and Finance/ERP Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md",
+                "file": "World Building/Business and Finance/ERP Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Software and Terms.md"
+                "file": "World Building/Business and Finance/ERP Software.md"
               }
             }
           },
@@ -223,6 +223,7 @@
   },
   "active": "42e847f9d4592ad3",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Company Software and Terms.md",
     "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
     "Linux/Components.md",
@@ -231,7 +232,6 @@
     "multisig.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Shamir Secret Sharing.md",
     "To Learn.md",
-    "Resources/Open-Source Tools.md",
-    "Z0-Organizing (All Notes Matter)/Sticky Notes.md"
+    "Resources/Open-Source Tools.md"
   ]
 }

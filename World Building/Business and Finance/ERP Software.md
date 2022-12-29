@@ -4,4 +4,5 @@
 - ERPNext - Modular
 - Dolibarr
 
+Simple: ERPNext, Odoo
 ## Components of ERP
