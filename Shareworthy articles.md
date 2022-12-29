@@ -1,0 +1,1 @@
+- https://www.joelonsoftware.com/2004/12/15/camels-and-rubber-duckies/ : Explains market pricing and segmentation tricks for getting customer surplus
