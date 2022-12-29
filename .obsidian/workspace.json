@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "5c58c0ddbe955a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7285caf968670e73",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
+                "file": "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
+                "file": "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md"
+                "file": "Z0-Organizing (All Notes Matter)/Password Management Strategy.md"
               }
             }
           },
@@ -208,11 +221,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "42e847f9d4592ad3",
+  "active": "5c58c0ddbe955a25",
   "lastOpenFiles": [
+    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "To Learn.md",
     "Resources/Open-Source Tools.md",
-    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "Z0-Organizing (All Notes Matter)/Sticky Notes.md",
     "Resources/Decentralized Technologies.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
