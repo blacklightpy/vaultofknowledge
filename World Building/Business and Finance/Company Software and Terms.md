@@ -2,7 +2,8 @@
 - EMS (Enterprise Management Software)
 	- Not suitable for small scale companies
 	- Is more data focused (competitors and supply chain), unlike ERP that focuses on resources
-	- Types: ERP, SCM and CRM
+	- Types: ERP (core component that controls support systems like EDI, etc.), SCM and CRM
+	- Components: https://theegeek.com/enterprise-management-system-ems/ (EDI, Attendance MS, Document MS, CAD/CAM, Communications MS, Security MS)
 - ERP [[ERP Software]] (Consists of CRM, HR Management, Supply Chain Management, Financial Management and Production Management)
 - EKM (Enterprise Key Management)
 - SFA (Sales Force Automation)
