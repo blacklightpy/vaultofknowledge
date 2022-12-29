@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metallurgy",
+                "query": "docusaurus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,15 +210,15 @@
   },
   "active": "42e847f9d4592ad3",
   "lastOpenFiles": [
-    "Resources/Decentralized Technologies.md",
-    "To Learn.md",
     "Resources/Open-Source Tools.md",
+    "To Learn.md",
+    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
+    "Z0-Organizing (All Notes Matter)/Sticky Notes.md",
+    "Resources/Decentralized Technologies.md",
     "World Building/Science and Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
     "Z0-Organizing (All Notes Matter)/Master ToDo.md",
     "Z1-Inbox/Degrees of Freedom.md",
-    "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
-    "World Building/Science and Engineering/Physics/Hamiltonian Mechanics.md"
+    "World Building/Science and Engineering/Physics/Lagrangian Mechanics.md"
   ]
 }
