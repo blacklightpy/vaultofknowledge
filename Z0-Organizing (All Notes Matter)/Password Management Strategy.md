@@ -11,7 +11,7 @@
 - All passwords can be modified by a master account/multiple ones.
 - Idea: [[Shamir Secret Sharing]]
 - Don't use MD5/SHA. Use adaptive hashing like bcrypt.
-- Do: Password rotate after check-in/check-out
+- Do: Password rotate after check-in/check-out e.g. Buttercup
 - KISS: https://xkcd.com/936/
 - Password managers can do other things to add to your security. (Expand)
 	Share and manage your passwords between all your devices, including mobile devices.
