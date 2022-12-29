@@ -47,25 +47,12 @@
             }
           },
           {
-            "id": "d6b1f975ac0f4a99",
+            "id": "fa420091c440a3f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shareworthy articles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49e6412682928a7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Components.md",
+                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docusaurus",
+                "query": "project mana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shareworthy articles.md",
+                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shareworthy articles.md",
+                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shareworthy articles.md"
+                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md"
               }
             }
           },
@@ -234,17 +221,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d6b1f975ac0f4a99",
+  "active": "fa420091c440a3f4",
   "lastOpenFiles": [
+    "Linux/Linux Components.md",
+    "Z0-Organizing (All Notes Matter)/PM Comparison.md",
+    "World Building/Business and Finance/Project Management/PM Software.md",
+    "Shareworthy articles.md",
     "World Building/Business and Finance/Company Software and Terms.md",
     "World Building/Business and Finance/ERP Software.md",
     "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
-    "Linux/Components.md",
     "Z1-Inbox/Degrees of Freedom.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Cryptography.md",
-    "multisig.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Shamir Secret Sharing.md",
-    "To Learn.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Cryptography.md"
   ]
 }
