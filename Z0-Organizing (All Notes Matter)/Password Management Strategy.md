@@ -13,6 +13,7 @@
 - Don't use MD5/SHA. Use adaptive hashing like bcrypt.
 - Do: Password rotate after check-in/check-out e.g. Buttercup
 - KISS: https://xkcd.com/936/
+- IANA has key signing ceremonies
 - Password managers can do other things to add to your security. (Expand)
 	Share and manage your passwords between all your devices, including mobile devices.
 	Share and manage passwords and credentials with co-workers.
