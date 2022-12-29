@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Learn.md",
+                "file": "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Learn.md",
+                "file": "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Learn.md",
+                "file": "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Learn.md"
+                "file": "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "42e847f9d4592ad3",
   "lastOpenFiles": [
-    "Resources/Open-Source Tools.md",
     "To Learn.md",
+    "Resources/Open-Source Tools.md",
     "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "Z0-Organizing (All Notes Matter)/Sticky Notes.md",
     "Resources/Decentralized Technologies.md",

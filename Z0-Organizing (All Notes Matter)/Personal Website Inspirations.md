@@ -5,6 +5,7 @@
 Tips: https://emanote.srid.ca/tips/sync
 Alt Ideas: Textfiles, HTML Anchors, etc.
 Other apps: Trilium, Wikilinks + Git.Dev, Obsidian + MyST converter + Sphinx
+Flowershow, Mindstone, Firedraft, SiYuan Note
 NOTE:Nimbus Notes, Obsidian Publish, etc. are paid
 
 # Miscellaneous
