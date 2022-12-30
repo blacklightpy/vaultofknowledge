@@ -7,6 +7,7 @@
 - The deployments are triggered manually
 # Continuous Deployment
 - If moving of code from source to production is automated, it is called continuous deployment
+	- ![[Pasted image 20221230142716.png]]
 
 "If any developer in your team can stop what they’re doing right now and ship the current development version of code to production in 20 minutes or less without anyone stressing about what could happen — congratulations, you’re doing CI/CD!"
 
@@ -31,3 +32,4 @@
 		- Code changes need to be compiled
 		- These days there is a need to pack them in Docker containers
 		- [[Automated tests]] verify specific units of code like UI behaviour, API reliability, performance, etc.
+		- Maintain test reports
