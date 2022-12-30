@@ -3,6 +3,6 @@
 
 ## Types of tests
 There are several types of tests. Some are:
-- Unit Tests
-- Acceptance Tests
+- Unit Tests - Technical Details
+- Acceptance Tests - Business demands
 - E2E Tests
