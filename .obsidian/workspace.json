@@ -34,6 +34,32 @@
             }
           },
           {
+            "id": "570d510cf53a0320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d09935248e581ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuous Integration and Delivery.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "42e847f9d4592ad3",
             "type": "leaf",
             "state": {
@@ -73,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "project mana",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
+                "file": "Continuous Integration and Delivery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
+                "file": "Continuous Integration and Delivery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md"
+                "file": "Continuous Integration and Delivery.md"
               }
             }
           },
@@ -221,8 +247,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5e7ce4e997c6a9b1",
+  "active": "8d09935248e581ad",
   "lastOpenFiles": [
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
     "To Learn.md",
     "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "World Building/Business and Finance/Company Software and Terms.md",
@@ -230,8 +258,6 @@
     "Z0-Organizing (All Notes Matter)/PM Comparison.md",
     "Linux/Linux Components.md",
     "World Building/Business and Finance/Project Management/PM Software.md",
-    "Shareworthy articles.md",
-    "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
-    "Z1-Inbox/Degrees of Freedom.md"
+    "Z1-Inbox/Shareworthy articles.md"
   ]
 }
