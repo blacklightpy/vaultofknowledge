@@ -86,6 +86,19 @@
             }
           },
           {
+            "id": "16acebdb22056646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing Tools.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "42e847f9d4592ad3",
             "type": "leaf",
             "state": {
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Tests.md",
+                "file": "Testing Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Tests.md",
+                "file": "Testing Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Tests.md"
+                "file": "Testing Tools.md"
               }
             }
           },
@@ -273,8 +286,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c7b83eb80aaca797",
+  "active": "16acebdb22056646",
   "lastOpenFiles": [
+    "Types of Tests.md",
     "Terms in DevOps.md",
     "Automated Tests.md",
     "Continuous Integration, Delivery and Deployment.md",
@@ -283,7 +297,6 @@
     "To Learn.md",
     "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
     "World Building/Business and Finance/Company Software and Terms.md",
-    "World Building/Business and Finance/ERP Software.md",
-    "Z0-Organizing (All Notes Matter)/PM Comparison.md"
+    "World Building/Business and Finance/ERP Software.md"
   ]
 }
