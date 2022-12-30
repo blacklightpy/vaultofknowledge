@@ -47,51 +47,12 @@
             }
           },
           {
-            "id": "8d09935248e581ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated Tests.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57e8e820d61ecc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terms in DevOps.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c7b83eb80aaca797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Types of Tests.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16acebdb22056646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Tools.md",
+                "file": "Types of Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing Tools.md",
+                "file": "Types of Tests.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing Tools.md"
+                "file": "Types of Tests.md"
               }
             }
           },
@@ -286,17 +247,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "16acebdb22056646",
+  "active": "c7b83eb80aaca797",
   "lastOpenFiles": [
-    "Types of Tests.md",
-    "Terms in DevOps.md",
     "Automated Tests.md",
+    "Types of Tests.md",
+    "Testing Tools.md",
     "Continuous Integration, Delivery and Deployment.md",
+    "Terms in DevOps.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
     "To Learn.md",
     "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
-    "World Building/Business and Finance/Company Software and Terms.md",
-    "World Building/Business and Finance/ERP Software.md"
+    "World Building/Business and Finance/Company Software and Terms.md"
   ]
 }

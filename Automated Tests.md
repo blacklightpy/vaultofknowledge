@@ -1,5 +1,6 @@
 - They do the task of a tester - i.e. running tests on a codebase
-- That is part of QA Testing
+- That is part of QA Engineering
+- Requires parallel computing systems for parallel tests etc.
 
 ## Types of tests
 There are several types of tests. Some are:
