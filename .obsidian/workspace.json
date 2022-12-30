@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differences between DevOps and CI-CD.md",
+                "file": "Continuous Integration, Delivery and Deployment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differences between DevOps and CI-CD.md",
+                "file": "Continuous Integration, Delivery and Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differences between DevOps and CI-CD.md",
+                "file": "Continuous Integration, Delivery and Deployment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differences between DevOps and CI-CD.md"
+                "file": "Continuous Integration, Delivery and Deployment.md"
               }
             }
           },
@@ -262,6 +262,7 @@
   },
   "active": "f0b9359cbd2b5a08",
   "lastOpenFiles": [
+    "Differences between DevOps and CI-CD.md",
     "Terms in DevOps.md",
     "Continuous Integration, Delivery and Deployment.md",
     "Types of Tests.md",
@@ -270,7 +271,6 @@
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
     "To Learn.md",
-    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md",
-    "World Building/Business and Finance/Company Software and Terms.md"
+    "Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md"
   ]
 }

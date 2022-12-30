@@ -25,6 +25,8 @@
 - Work in small features
 	- Feature branches should live no longer than a day
 	- For longer features, use feature flags
+- Devs can deploy to staging
+- All deployments should only involve the click of a button
 
 ## Technical
 - CI
