@@ -1,3 +1,3 @@
-# Web Emulators
-- Selenium
+# Web
+- Selenium Webdriver + Scripts
 - Cypress
