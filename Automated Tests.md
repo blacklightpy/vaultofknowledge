@@ -1,0 +1,2 @@
+- They do the task of a tester - i.e. running tests on a codebase
+- That is part of QA Testing

@@ -30,4 +30,4 @@
 	- Build Stage
 		- Code changes need to be compiled
 		- These days there is a need to pack them in Docker containers
-		- Automated tests verify specific units of code like UI behaviour, API reliability, performance, etc.
+		- [[Automated tests]] verify specific units of code like UI behaviour, API reliability, performance, etc.
