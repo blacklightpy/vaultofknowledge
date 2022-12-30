@@ -1,2 +1,0 @@
-- Test Driven Development
-- Behaviour Driven Development
