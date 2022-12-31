@@ -3,3 +3,8 @@
 - CI-CD Tools
 - How to implement CI-CD
 - Tips for CI-CD
+	- When master is broken - drop everything and fix it - keep a "no broken windows" policy
+	- Run fast and fundamental tests first
+	- Always use same environment
+	- Build-in quality checking - style and security
+	- Include PRs, but Peer Review each PR
