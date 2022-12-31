@@ -1,0 +1,1 @@
+- Performance is measured in operations per second e.g. FLOPS

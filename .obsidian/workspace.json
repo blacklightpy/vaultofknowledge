@@ -73,6 +73,32 @@
             }
           },
           {
+            "id": "a054fe46a4041325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Parallel Computing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "076bf652ccb7636b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Many-Task Computing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "013d4f78fedd1d84",
             "type": "leaf",
             "state": {
@@ -86,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Many-Task Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Many-Task Computing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Many-Task Computing.md"
               }
             }
           },
@@ -234,17 +260,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "70c83d6637a71704",
+  "active": "076bf652ccb7636b",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Parallel Computing.md",
+    "DevSecOps.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/High Throughput Computing.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/High Performance Computing.md",
     "Testing.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "Microservices.md",
-    "DevOps.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Approximation Methods.md",
-    "DevSecOps.md",
-    "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
-    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md"
+    "DevOps.md"
   ]
 }
