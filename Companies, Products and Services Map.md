@@ -1,0 +1,10 @@
+- Microsoft
+	- Windows
+	- Github
+		- Git Hosting and Collaboration
+		- GitHub Actions
+		- GitHub Codespaces
+		- GitHub Projects
+		- GitHub Packages
+		- GitHub Copilot
+		- GitHub Enterprise
