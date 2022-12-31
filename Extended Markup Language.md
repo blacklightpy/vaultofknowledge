@@ -1,1 +1,1 @@
-Extended Markup Language (XML) is a specification for designing markup languages.
+Extended Markup Language (XML) is a language for designing custom markup languages.
