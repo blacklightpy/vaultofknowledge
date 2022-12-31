@@ -3,4 +3,5 @@ Callbacks or callback functions are references that are passed as arguments to a
 The function will be executed externally by an API.
 
 **Examples**
-- Windows API WaveOutProc()
+- Windows API - e.g. WaveOutProc()
+- 
