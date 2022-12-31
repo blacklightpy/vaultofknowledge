@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Key Management.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "public key infr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret Key Management.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret Key Management.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret Key Management.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md"
               }
             }
           },
@@ -273,17 +273,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b4968fbb83427f36",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Enterprise Key Management.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Public Key Infrastructure.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Enterprise Key Management.md",
     "Testing.md",
-    "Secret Key Management.md",
-    "Password Reset Mechanism.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Password Reset Mechanism.md",
     "DevOps.md",
     "DevSecOps.md",
     "CI-CD.md",
     "Blue Green Deployment.md",
-    "Terms in DevOps.md",
-    "XP.md"
+    "Terms in DevOps.md"
   ]
 }
