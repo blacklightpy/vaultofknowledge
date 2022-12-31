@@ -1,3 +1,3 @@
-- [[High Performance Computing]]
-- [[High Throughput Computing]]
+- [[High-Performance Computing]]
+- [[High-Throughput Computing]]
 - [[Many-Task Computing]]
