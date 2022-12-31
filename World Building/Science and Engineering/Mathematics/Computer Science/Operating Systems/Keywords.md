@@ -1,11 +1,13 @@
 - History of Operating Systems
 - Files and IO
+- Filesystems
+- Kernel
 - Process and Thread Scheduling
 - Semaphore
 - Mutual Exclusions
 - Locks
 - Deadlocks
-- IPC
+- Inter-Process Communication
 - Memory Management
 - Interrupts
 - Virtual Memory

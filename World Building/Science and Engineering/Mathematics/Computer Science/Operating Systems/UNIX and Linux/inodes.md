@@ -1,0 +1,1 @@
+Inodes are data structures in a Unix-style filesystem that represent file-system objects like files and directories.

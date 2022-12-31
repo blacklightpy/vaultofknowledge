@@ -1,2 +1,2 @@
 - PulseAudio / Pipewire
-- inodes
+- [[inodes]]
