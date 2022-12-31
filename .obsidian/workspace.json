@@ -99,11 +99,16 @@
             }
           },
           {
-            "id": "356f2a85840d9808",
+            "id": "50697b03a2774691",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Business and Finance/Project Management/Agile.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -136,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "public key infr",
+                "query": "xp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World Building/Business and Finance/Project Management/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Building/Business and Finance/Project Management/Agile.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World Building/Business and Finance/Project Management/Agile.md"
+              }
             }
           },
           {
@@ -252,17 +261,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "356f2a85840d9808",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "DevOps.md",
+    "Testing.md",
+    "DevSecOps.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Enterprise Key Management.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Public Key Infrastructure.md",
     "CI-CD.md",
     "To Learn.md",
     "CI-CD Pipeline.md",
-    "DevSecOps.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Enterprise Key Management.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Hardware Security Module.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Public Key Infrastructure.md",
-    "Testing.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management.md"
   ]
 }
