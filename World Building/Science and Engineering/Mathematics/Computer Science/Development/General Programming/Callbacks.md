@@ -4,8 +4,10 @@ The function will be executed externally by an API.
 
 Generally it is used to call a higher level subroutine from a lower-level software like the operating system.
 
+
 **Examples**
 - Windows API - e.g. WaveOutProc()
+- In JavaScript, they are functions passed as arguments to other functions, for calling other functions from a function
 - A pseudocode example:
   ```
   funct printANumber(int n, callback callbackFunction) {
