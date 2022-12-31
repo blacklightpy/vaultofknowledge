@@ -86,19 +86,6 @@
             }
           },
           {
-            "id": "b76f1308d31ef0db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Password Reset Mechanism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0afbb11f1686aa21",
             "type": "leaf",
             "state": {
@@ -125,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Password Reset Mechanism.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Password Reset Mechanism.md",
+                "file": "Testing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Password Reset Mechanism.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -273,8 +260,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b76f1308d31ef0db",
+  "active": "70c83d6637a71704",
   "lastOpenFiles": [
+    "Password Reset Mechanism.md",
     "Testing.md",
     "DevOps.md",
     "DevSecOps.md",
@@ -283,7 +271,6 @@
     "Terms in DevOps.md",
     "XP.md",
     "Automated Tests.md",
-    "Testing Tools.md",
-    "Canary Deployment.md"
+    "Testing Tools.md"
   ]
 }
