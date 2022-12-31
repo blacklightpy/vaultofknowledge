@@ -8,3 +8,7 @@
 	- Always use same environment
 	- Build-in quality checking - style and security
 	- Include PRs, but Peer Review each PR
+	- CD - Auto Deploy PRs merged to master
+	- Start with feature branches
+	- In BDD, tests are a byproduct of thinking - boy scouts - always leave the code better
+	- Deploy to staging for QA/manual testing
