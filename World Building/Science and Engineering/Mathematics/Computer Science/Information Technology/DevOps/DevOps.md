@@ -1,7 +1,7 @@
 # What is DevOps?
 DevOps stands for Development and Operations, which refers to the combination of software development and IT operations. This originated from the practice of [[Agile]] methodologies in development teams and allows for faster development, eliminating areas of fricition.
 
-# Characteristics
+# Areas and Characteristics
 - Agile workflow
 	- Simplicity and Automation are key to a strong development team
 - Use of [[Continuous Integration, Delivery and Deployment|CI/CD systems]] for fast feedback loops
@@ -13,7 +13,7 @@ DevOps stands for Development and Operations, which refers to the combination of
 - Policy as Code (PaC)
 - Monitoring
 
-# Steps in DevOps
+# Implementation
 - During development, follow [[Software Development Practices]]
 - Implement CI/CD
 	- Originates from [[Extreme Programming|XP]]

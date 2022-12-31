@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevSecOps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevSecOps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevSecOps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevSecOps.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "40686fe554510a55",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Canary Deployment.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Microservices.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Software Development Practices.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevOps.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevSecOps.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Integration.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/CI and CD Pipelines.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Automated Tests.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/cd.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Delivery.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Tools for CI and CD.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevSecOps.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Automated Tests.md"
   ]
 }
