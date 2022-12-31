@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI-CD.md",
+                "file": "Testing Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI-CD.md",
+                "file": "Testing Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI-CD.md",
+                "file": "Testing Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI-CD.md"
+                "file": "Testing Tools.md"
               }
             }
           },
@@ -249,12 +249,12 @@
   },
   "active": "fa9079a8d49c7939",
   "lastOpenFiles": [
+    "CI-CD.md",
     "DevSecOps.md",
     "Canary Deployment.md",
     "DevOps.md",
     "Testing.md",
     "Blue Green Deployment.md",
-    "CI-CD.md",
     "CI-CD Pipeline.md",
     "Terms in DevOps.md",
     "Types of Tests.md",
