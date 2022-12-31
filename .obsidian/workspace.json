@@ -86,19 +86,6 @@
             }
           },
           {
-            "id": "e299bc760b06b7dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa9079a8d49c7939",
             "type": "leaf",
             "state": {
@@ -178,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps.md",
+                "file": "CI-CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps.md",
+                "file": "CI-CD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps.md"
+                "file": "CI-CD.md"
               }
             }
           },
@@ -260,17 +247,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e299bc760b06b7dd",
+  "active": "fa9079a8d49c7939",
   "lastOpenFiles": [
     "DevSecOps.md",
+    "Canary Deployment.md",
+    "DevOps.md",
     "Testing.md",
     "Blue Green Deployment.md",
-    "DevOps.md",
     "CI-CD.md",
     "CI-CD Pipeline.md",
     "Terms in DevOps.md",
     "Types of Tests.md",
-    "Differences between DevOps and CI-CD.md",
-    "Continuous Integration, Delivery and Deployment.md"
+    "Differences between DevOps and CI-CD.md"
   ]
 }

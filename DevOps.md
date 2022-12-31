@@ -1,5 +1,5 @@
 - What is DevOps
 - Steps in DevOps
 	- Incident Management
-		- Canary or [[Blue Green Deployment]]
+		- [[Canary Deployment]] or [[Blue Green Deployment]]
 - Tips
