@@ -18,6 +18,5 @@ Think of writing tests as an investment in the future
 - Security Testing Methods - SAST, IAST, DAST, RAST (?)
 
 **Methodologies**
-- Test Driven Development
-	- Behaviour Driven Development
+- Test Driven Development / Behaviour Driven Development
 
