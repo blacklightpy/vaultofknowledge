@@ -21,64 +21,12 @@
             }
           },
           {
-            "id": "5e7ce4e997c6a9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "570d510cf53a0320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7b83eb80aaca797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing Tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d69354bcbe48eefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI-CD Pipeline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0b9359cbd2b5a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuous Integration, Delivery and Deployment.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,12 +47,12 @@
             }
           },
           {
-            "id": "fa420091c440a3f4",
+            "id": "e430fa8bd5438f07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/PM Comparison.md",
+                "file": "CI-CD Pipeline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,12 +60,25 @@
             }
           },
           {
-            "id": "e430fa8bd5438f07",
+            "id": "2c4ecfb9338fc911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terms in DevOps.md",
+                "file": "Testing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70c83d6637a71704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terms in DevOps.md",
+                "file": "CC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terms in DevOps.md",
+                "file": "CC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terms in DevOps.md"
+                "file": "CC.md"
               }
             }
           },
@@ -273,17 +234,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e430fa8bd5438f07",
+  "active": "70c83d6637a71704",
   "lastOpenFiles": [
-    "World Building/Marketplace/Software Implementations/GitHub Actions.md",
-    "Terms in DevOps.md",
-    "Automated Tests.md",
-    "Testing Tools.md",
+    "Testing.md",
+    "CI-CD Pipeline.md",
     "Continuous Integration, Delivery and Deployment.md",
-    "Z0-Organizing (All Notes Matter)/PM Comparison.md",
-    "YAML.md",
-    "Extended Markup Language.md",
-    "JavaScript Object Notation.md",
-    "World Building/Marketplace/Popular Companies, Products and Services Map.md"
+    "Terms in DevOps.md",
+    "Z0-Organizing (All Notes Matter)/Master ToDo.md",
+    "Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Testing Tools.md",
+    "To Learn.md",
+    "Z0-Organizing (All Notes Matter)/PM Comparison.md"
   ]
 }
