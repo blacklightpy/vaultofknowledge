@@ -2,6 +2,7 @@
 ## Private/Proprietary
 - Microsoft
 	- Windows
+	- Azure
 	- Github
 		- Git and Collaboration
 		- GitHub Actions
