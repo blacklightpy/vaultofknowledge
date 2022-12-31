@@ -7,6 +7,8 @@ Think of writing tests as an investment in the future
 - Microservices
 - Infrastructure as Code (IaC)
 - Policy as Code (PaC)
+**SecOps**
+- Security as Code (SaC)
 
 **Methodologies**
 - Test Driven Development
