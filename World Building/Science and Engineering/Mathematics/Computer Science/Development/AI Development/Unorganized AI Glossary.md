@@ -1,3 +1,5 @@
+More: https://appen.com/ai-glossary/
+
 - Parameters -  Variables inside the model that help it makes predictions. They are usually formed from the data, and not set by humans.
 - Hyperparameters - Parameters that affect the way a model works. They are usually set outside the model.
 - Cost function - An important parameter that calculates the performance of a model. It is the difference between the predicted value and the expected value.

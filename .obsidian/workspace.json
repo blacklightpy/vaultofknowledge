@@ -73,45 +73,6 @@
             }
           },
           {
-            "id": "3270cfbb21538eb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microservices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d1183a094b4ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aad03d24d0542992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized Glossary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "013d4f78fedd1d84",
             "type": "leaf",
             "state": {
@@ -125,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microservices.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microservices.md",
+                "file": "Testing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microservices.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -273,13 +234,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3270cfbb21538eb8",
+  "active": "70c83d6637a71704",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
     "Testing.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "Microservices.md",
     "DevOps.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized Glossary.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Approximation Methods.md",
     "DevSecOps.md",
     "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
