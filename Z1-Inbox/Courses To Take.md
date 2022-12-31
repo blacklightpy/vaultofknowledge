@@ -9,4 +9,4 @@ Manim Python
 
 Android Development
 
-ToDo: Fix Notion.
+Web Dev: MDN, W3Schools (W3Fools for alt. resources)

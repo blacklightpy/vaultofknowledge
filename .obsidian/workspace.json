@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Callbacks.md",
+                "file": "Z1-Inbox/Courses To Take.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -193,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "courses",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Callbacks.md",
+                "file": "Z1-Inbox/Courses To Take.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Callbacks.md",
+                "file": "Z1-Inbox/Courses To Take.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Callbacks.md"
+                "file": "Z1-Inbox/Courses To Take.md"
               }
             }
           },
@@ -314,6 +315,7 @@
   },
   "active": "6d70bb754efac13e",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Callbacks.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Webhooks.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/CI-CD Systems.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Build Systems.md",
@@ -322,7 +324,6 @@
     "Differences between DevOps and CI-CD.md",
     "Infrastructure as a Service Platforms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Cloud Computing/Cloud Infrastructure Costs.md",
-    "Z0-Organizing (All Notes Matter)/PM Comparison.md",
-    "To Learn.md"
+    "Z0-Organizing (All Notes Matter)/PM Comparison.md"
   ]
 }
