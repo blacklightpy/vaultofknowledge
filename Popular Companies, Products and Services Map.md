@@ -12,23 +12,33 @@
 		- GitHub Enterprise
 	- Mojang
 		- Minecraft
+- Meta
+	- Facebook
+	- Instagram
+	- WhatsApp
+	- Keras
+	- PyTorch
 - Amazon
 	- Prime
 	- Kindle
 	- Alexa
 	- Marketplace
 	- Amazon Web Services
-- Alphabet
-	- Google
-- Meta
+- Apple
 - Netflix
+- Alphabet
+	- DeepMind
+	- Google
+		- Tensorflow
+		- YouTube
 - IBM
 	- Red Hat
 - Oracle
 	- Sun Microsystems
 - Samsung
-- Apple
 - Sony
+- Intel
+- AMD
 ## Open Source Communities
 - Cloud Native Computing Foundation
 	- Kubernetes
