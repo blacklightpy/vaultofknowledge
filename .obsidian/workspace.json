@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "serverless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,15 +236,15 @@
   },
   "active": "70c83d6637a71704",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Serverless Architecture.md",
     "Testing.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "Microservices.md",
     "DevOps.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Approximation Methods.md",
     "DevSecOps.md",
     "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
-    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md"
+    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md"
   ]
 }
