@@ -73,45 +73,6 @@
             }
           },
           {
-            "id": "f22620f23ebb2143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e836fc22e897f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Business and Finance/Project Management/Six Sigma.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f210686e4f1a0cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Business and Finance/Project Management/Lean.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1d425da6c59e7e2",
             "type": "leaf",
             "state": {
@@ -125,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -275,14 +236,14 @@
   },
   "active": "e1d425da6c59e7e2",
   "lastOpenFiles": [
+    "SecOps.md",
     "World Building/Business and Finance/Project Management/Lean.md",
-    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
     "World Building/Business and Finance/Project Management/Six Sigma.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
+    "World Building/Business and Finance/Project Management/The Toyota Way.md",
+    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
     "World Building/Business and Finance/Project Management/Software Development Lifecycle.md",
     "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
-    "World Building/Business and Finance/Project Management/The Toyota Way.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
-    "SecOps.md",
     "World Building/Business and Finance/Minimum Viable Product.md",
     "World Building/Business and Finance/Project Management/Project Management.md"
   ]
