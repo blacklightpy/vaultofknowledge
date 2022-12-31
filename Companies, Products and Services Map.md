@@ -27,6 +27,8 @@
 - Oracle
 	- Sun Microsystems
 - Samsung
+- Apple
+- Sony
 ## Open Source Communities
 - Cloud Native Computing Foundation
 	- Kubernetes
@@ -50,3 +52,4 @@ Source: That YT Video on how there are only a few companies
 - MARS
 - P&G
 - Johnson and Johnson
+- Walmart
