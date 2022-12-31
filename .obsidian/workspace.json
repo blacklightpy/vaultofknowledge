@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI-CD.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI-CD.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI-CD.md",
+                "file": "Testing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI-CD.md"
+                "file": "Testing.md"
               }
             }
           },
@@ -249,15 +249,15 @@
   },
   "active": "70c83d6637a71704",
   "lastOpenFiles": [
+    "CI-CD Pipeline.md",
+    "Testing.md",
+    "CI-CD.md",
     "DevSecOps.md",
     "Terms in DevOps.md",
     "Types of Tests.md",
     "Differences between DevOps and CI-CD.md",
     "Continuous Integration, Delivery and Deployment.md",
     "Testing Tools.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/CI-CD Systems.md",
-    "Automated Tests.md",
-    "CI-CD.md",
-    "CI-CD Pipeline.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/CI-CD Systems.md"
   ]
 }
