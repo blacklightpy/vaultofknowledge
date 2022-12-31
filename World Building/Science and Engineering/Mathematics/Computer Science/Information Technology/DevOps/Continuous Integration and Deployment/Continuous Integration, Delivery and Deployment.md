@@ -1,26 +1,65 @@
-# Continuous Integration
-- Code merges by developers multiple times a day 
-- Each code merge recieves an automated code build and test sequence
-- Results should come within 10 minutes to maintain productivity
-# Continuous Delivery
-- If code changes are also continuously deployed, it is called continuous delivery
-- The deployments are triggered manually
-# Continuous Deployment
-- If moving of code from source to production is automated, it is called continuous deployment
-	- ![[Pasted image 20221230142716.png]]
+CI/CD Systems are used to speed up development and delivery.
+
+# The terms explained
+- [[Continuous Integration]]
+- [[Continuous Delivery]]
+- [[Continuous Deployment]]
+
+- **Image for clarity**
+	- ![[Pasted image 20221230133238.png]]
 
 "If any developer in your team can stop what they’re doing right now and ship the current development version of code to production in 20 minutes or less without anyone stressing about what could happen — congratulations, you’re doing CI/CD!"
 
-# Images
-![[Pasted image 20221230133238.png]]
-![[Pasted image 20221230133215.png]]
+# Basic steps in a CI/CD Pipeline
+**Basic steps:** Build - Test - Deploy Staging - Deploy Production
+**If using Docker and Kubernetes:** Build - Test - Dockerize - Deploy to Kubernetes - Tag latest docker
 
+# [[Tools for CI and CD|Tools for CI/CD]]
 
+# Requirements for CI/CD
+ - Parallel computing systems for parallel tests etc.
 
-## Technical
+# Implementation
 - CI
 	- Build Stage
 		- Code changes need to be compiled
 		- These days there is a need to pack them in Docker containers
 		- [[Automated Tests]] verify specific units of code like UI behaviour, API reliability, performance, etc.
 		- Maintain test reports
+	- Testing Stage
+- CD
+	- Deployment Stage
+		- Deployment Methods
+			- [[Canary Deployment]]
+			- [[Blue Green Deployment]]
+
+# Tips for building a CI-CD pipeline
+**Development Practices**
+- Practice test-driven development to always keep the code deployable
+	- Maintain an automated test suite.
+	- Build monitoring, logging and fault tolerance by design
+- - In Behaviour Driven Development, tests are a byproduct of systematic thinking
+	- Keep the boy scout mentality - always leave the code better than you found it
+- Work in small features
+	- Feature branches should live no longer than a day
+	- For longer features, use feature flags
+**Architecture**
+- Architect in a way that supports iterative releases - Avoid tight coupling between components
+	- Implement metrics that help detect issues in realtime (?)
+- Developers can deploy to staging for QA/manual testing
+- All deployments should only involve the click of a button
+**Picking tests**
+- Build-in quality checking - style and security
+**Testing**
+- Run fast and fundamental tests first
+- Always use same environment for testing
+**Feedback**
+- When master is broken - drop everything and fix it - keep a "no broken windows" policy
+**Triggers**
+- Include PRs, but Peer Review each PR
+- In CD - Auto Deploy PRs merged to master
+**Improvement Tips**
+- Document flaky tests and improve them
+- Optimize Feedback loop
+	- Invest in a CI/CD that can run tests in parallel stages.
+	- Improve slow tests

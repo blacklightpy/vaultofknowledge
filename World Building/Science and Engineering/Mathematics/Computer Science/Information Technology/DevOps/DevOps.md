@@ -4,7 +4,7 @@ DevOps stands for Development and Operations, which refers to the combination of
 # Characteristics
 - Agile workflow
 	- Simplicity and Automation are key to a strong development team
-- Use of [[CI-CD|CI/CD systems]] for fast feedback loops
+- Use of [[Continuous Integration, Delivery and Deployment|CI/CD systems]] for fast feedback loops
 - Monitoring
 	- Use of product-wide logging and metrics for improvement of operations
 - Infrastructure as Code (IaC)
@@ -18,9 +18,6 @@ DevOps stands for Development and Operations, which refers to the combination of
 - Implement CI/CD
 	- Originates from [[Extreme Programming|XP]]
 	- Work in small batches and units. Not the fastest for large features, but it ensures testing well.
-- Deployment Methods
-	- [[Canary Deployment]]
-	- [[Blue Green Deployment]]
 
 # Tips
 - Transition to [[Microservices]] when it gives more performance than monoliths
