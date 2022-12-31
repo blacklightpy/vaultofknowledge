@@ -1,5 +1,8 @@
 - What is DevOps
 - Steps in DevOps
+	- CI/CD
+		- Originates from XP in Agile
+		- Work in small batches and units. Not the fastest for large features, but it ensures testing well.
 	- Incident Management
 		- [[Canary Deployment]] or [[Blue Green Deployment]]
 - Tips
