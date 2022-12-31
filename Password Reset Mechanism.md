@@ -4,6 +4,7 @@ Tips:
 - Reset only after confirmation
 - Use captcha
 - Password reset link with embedded GUID with expiry
+- Delete token after reset
 - Include reset warning in email
 - Send email after reset
 - Monitor cancellations
