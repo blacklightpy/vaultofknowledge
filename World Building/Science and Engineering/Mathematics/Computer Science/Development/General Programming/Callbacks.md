@@ -2,6 +2,8 @@ Callbacks or callback functions are references that are passed as arguments to a
 
 The function will be executed externally by an API.
 
+Generally it is used to call a higher level subroutine from a lower-level software like the operating system.
+
 **Examples**
 - Windows API - e.g. WaveOutProc()
 - A pseudocode example:
