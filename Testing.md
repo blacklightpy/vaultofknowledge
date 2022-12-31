@@ -1,28 +1,13 @@
-- What is Testing:
+Tests are codes written to verify that a given codebase runs as expected. Testing comes under [[Quality Assurance Engineering]].
 
-- Types of Tests:
-	- Smoke Tests - high level functionality; whether starts
-		- Before commit (locally) - run a pre-commit Git hook (script), In CI before E2E and acceptance tests, Before Deployment (infra and configs), After deployment (functionality checks)
-	- Unit Tests
-	- E2E Tests
-	- Acceptance Tests
-	- Manual Tests
-		- Exploratory Testing
-	- More
-		- Regression Tests - after fixing a bug to see it does not repeat
-		- System Tests - like integration tests, but dependencies are mocked or stubbed
-		- Integration Tests - inter-operation tests
-		- Pre-flight check - acceptance/smoke tests in prod
+- [[Types of Tests]]
+- [[Testing Tools]]
 
-- Testing Tools:
+# How Testing Works
+- 
 
-- How Testing Works:
+- [[Tips for Testing]]
 
-- Tips for Testing:
-	- Testers should work with Devs
-	- Testers are not replaceable, they know how users work
-	- Testers should constantly explore and learn new skills.
-
-- Terms
-	- mocks
-	- stubs
+# Terms to clarify
+- mocks
+- stubs

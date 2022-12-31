@@ -1,12 +1,12 @@
-# Languages
+## Languages
 - Gherkin
-# Web
+## Web
 - Selenium Webdriver + Scripts
 - Cypress
-# Ruby on Rails
+## Ruby on Rails
 - RSpec
 - Cucumber (uses Gherkin)
-# Node.js App
+## Node.js App
 - Jest
 - Cucumber.js
 - Mocha

@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "013d4f78fedd1d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevSecOps.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10cbab95ffb7b28d",
             "type": "leaf",
             "state": {
@@ -39,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Types of Tests.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,25 +60,12 @@
             }
           },
           {
-            "id": "013d4f78fedd1d84",
+            "id": "3cfe3a8207f164d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevSecOps.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "990cd07e06d47e75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SecOps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Types of Tests.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevSecOps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Types of Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevSecOps.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Types of Tests.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevSecOps.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Types of Tests.md"
               }
             }
           },
@@ -221,17 +221,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "013d4f78fedd1d84",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Project Management/The Toyota Way.md",
-    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
+    "Untitled.md",
+    "Testing.md",
+    "Tips for Testing.md",
+    "DevOps.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Testing Tools.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Types of Tests.md",
+    "CI-CD.md",
+    "Software Development Practices.md",
     "DevSecOps.md",
-    "SecOps.md",
-    "World Building/Business and Finance/Project Management/Lean.md",
-    "World Building/Business and Finance/Project Management/Six Sigma.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
-    "World Building/Business and Finance/Project Management/Software Development Lifecycle.md",
-    "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
-    "World Building/Business and Finance/Minimum Viable Product.md"
+    "Terms in DevOps.md"
   ]
 }

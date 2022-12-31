@@ -1,1 +1,1 @@
-SecOps is a short-form that stands for Security Operations.
+SecOps is a short-form that stands for Security Operations. It is a union of IT Security and IT Operations.
