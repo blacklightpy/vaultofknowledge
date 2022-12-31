@@ -73,19 +73,6 @@
             }
           },
           {
-            "id": "c1d3d75b8c11b425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blue Green Deployment.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0afbb11f1686aa21",
             "type": "leaf",
             "state": {
@@ -125,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -191,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue Green Deployment.md",
+                "file": "DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blue Green Deployment.md",
+                "file": "DevOps.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blue Green Deployment.md"
+                "file": "DevOps.md"
               }
             }
           },
@@ -273,17 +260,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c1d3d75b8c11b425",
+  "active": "e299bc760b06b7dd",
   "lastOpenFiles": [
-    "Testing.md",
-    "DevOps.md",
     "DevSecOps.md",
+    "Testing.md",
+    "Blue Green Deployment.md",
+    "DevOps.md",
     "CI-CD.md",
     "CI-CD Pipeline.md",
     "Terms in DevOps.md",
     "Types of Tests.md",
     "Differences between DevOps and CI-CD.md",
-    "Continuous Integration, Delivery and Deployment.md",
-    "Testing Tools.md"
+    "Continuous Integration, Delivery and Deployment.md"
   ]
 }
