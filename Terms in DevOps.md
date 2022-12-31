@@ -8,7 +8,11 @@ Think of writing tests as an investment in the future
 - Infrastructure as Code (IaC)
 - Policy as Code (PaC)
 **SecOps**
-- Security as Code (SaC)
+- Security as Code (SaC) - on IaC
+- Common Weakness Enumeration (CWE)
+- Threat Modelling
+- Automated Security Testing
+- Incident Management
 
 **Methodologies**
 - Test Driven Development
