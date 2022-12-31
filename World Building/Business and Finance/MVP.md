@@ -1,1 +1,0 @@
-Minimum Viable Product

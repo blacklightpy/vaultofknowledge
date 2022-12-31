@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps.md",
+                "file": "World Building/Business and Finance/Minimum Viable Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps.md",
+                "file": "World Building/Business and Finance/Minimum Viable Product.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps.md"
+                "file": "World Building/Business and Finance/Minimum Viable Product.md"
               }
             }
           },
@@ -220,17 +221,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "662ee343d6e6c39a",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Project Management/Project Management.md",
     "SecOps.md",
+    "Testing.md",
     "DevOps.md",
     "CI-CD.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "To Learn.md",
-    "Testing.md",
     "DevSecOps.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/inodes.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md"
   ]
 }

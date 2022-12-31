@@ -1,0 +1,1 @@
+Minimum Viable Product (MVP)
