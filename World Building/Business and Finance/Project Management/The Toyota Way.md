@@ -3,4 +3,4 @@ The Toyota Way is the philosophy behind Toyota Production System (TPS). This is 
 Toyota's system was built on two pillars of just-in-time inventory management and automated quality control with human touch.
 
 # Principles
-- Kaizen
+https://en.wikipedia.org/wiki/The_Toyota_Way

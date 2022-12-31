@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecOps.md",
+                "file": "DevSecOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecOps.md",
+                "file": "DevSecOps.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecOps.md"
+                "file": "DevSecOps.md"
               }
             }
           },
@@ -221,17 +221,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "990cd07e06d47e75",
+  "active": "013d4f78fedd1d84",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
     "World Building/Business and Finance/Project Management/The Toyota Way.md",
+    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
+    "DevSecOps.md",
     "SecOps.md",
     "World Building/Business and Finance/Project Management/Lean.md",
     "World Building/Business and Finance/Project Management/Six Sigma.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
     "World Building/Business and Finance/Project Management/Software Development Lifecycle.md",
     "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
-    "World Building/Business and Finance/Minimum Viable Product.md",
-    "World Building/Business and Finance/Project Management/Project Management.md"
+    "World Building/Business and Finance/Minimum Viable Product.md"
   ]
 }
