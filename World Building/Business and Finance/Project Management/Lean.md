@@ -1,0 +1,1 @@
+Lean is a project management methodology, closely related to [[Agile]].
