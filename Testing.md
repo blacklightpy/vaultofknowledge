@@ -6,6 +6,8 @@
 	- Unit Tests
 	- E2E Tests
 	- Acceptance Tests
+	- Manual Tests
+		- Exploratory Testing
 	- More
 		- Regression Tests - after fixing a bug to see it does not repeat
 		- System Tests - like integration tests, but dependencies are mocked or stubbed
@@ -17,6 +19,9 @@
 - How Testing Works:
 
 - Tips for Testing:
+	- Testers should work with Devs
+	- Testers are not replaceable, they know how users work
+	- Testers should constantly explore and learn new skills.
 
 - Terms
 	- mocks
