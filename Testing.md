@@ -6,9 +6,18 @@
 	- Unit Tests
 	- E2E Tests
 	- Acceptance Tests
+	- More
+		- Regression Tests - after fixing a bug to see it does not repeat
+		- System Tests - like integration tests, but dependencies are mocked or stubbed
+		- Integration Tests - inter-operation tests
+		- Pre-flight check - acceptance/smoke tests in prod
 
 - Testing Tools:
 
 - How Testing Works:
 
 - Tips for Testing:
+
+- Terms
+	- mocks
+	- stubs
