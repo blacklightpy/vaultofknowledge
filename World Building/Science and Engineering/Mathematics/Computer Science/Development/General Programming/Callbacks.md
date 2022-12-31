@@ -4,4 +4,20 @@ The function will be executed externally by an API.
 
 **Examples**
 - Windows API - e.g. WaveOutProc()
-- 
+- A pseudocode example:
+  ```
+  funct printANumber(int n, funct callbackFunction) {
+	  printout("Printing" + n);
+  }
+  funct printFinishMessage(){
+	  printout("Finished printing.");
+  }
+  funct main() {
+	  printANumber(6, printFinishMessage);
+  }
+  ```
+  The output will be:
+  ```
+  Printing 6
+  Finished printing
+  ```
