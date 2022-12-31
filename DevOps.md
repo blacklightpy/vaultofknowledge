@@ -1,9 +1,13 @@
 # What is DevOps?
 DevOps stands for Development and Operations, which refers to the combination of software development and IT operations. This originated from the practice of [[Agile]] methodologies in development teams and allows for faster development, eliminating areas of fricition.
 
+# Characteristics
+- Use of Infrastructure as a Service (IaaS)
+- Use of product-wide logging and metrics
+
 # Steps in DevOps
-- Follow [[Software Development Practices]]
-- CI/CD
+- During development, follow [[Software Development Practices]]
+- Implement CI/CD
 	- Originates from [[Extreme Programming|XP]]
 	- Work in small batches and units. Not the fastest for large features, but it ensures testing well.
 - Incident Management

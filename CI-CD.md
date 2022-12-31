@@ -2,7 +2,7 @@
 - Why do we need CI-CD
 - CI-CD Tools
 - How to implement CI-CD
-	- Automated Tests
+	- [[Automated Tests]]
 	- 
 - Tips for CI-CD
 	- When master is broken - drop everything and fix it - keep a "no broken windows" policy
