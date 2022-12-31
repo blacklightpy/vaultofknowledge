@@ -15,7 +15,7 @@
 ![[Pasted image 20221230133238.png]]
 ![[Pasted image 20221230133215.png]]
 
-# How to build a pipeline
+# How to build a CI/CD pipeline
 ## Tips
 - Architect in a way that supports iterative releases - Avoid tight coupling between components
 	- Implement metrics that help detect issues in realtime (?)

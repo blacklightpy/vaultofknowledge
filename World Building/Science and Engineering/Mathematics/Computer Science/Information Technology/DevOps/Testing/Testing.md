@@ -3,8 +3,9 @@ Tests are codes written to verify that a given codebase runs as expected. Testin
 - [[Types of Tests]]
 - [[Testing Tools]]
 
-# How Testing Works
-- 
+# How to make tests
+- Use testing suites for each language
+- If you can run it, you can test it, even using scripts.
 
 - [[Tips for Testing]]
 

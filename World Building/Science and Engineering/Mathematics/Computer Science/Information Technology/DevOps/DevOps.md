@@ -2,7 +2,7 @@
 DevOps stands for Development and Operations, which refers to the combination of software development and IT operations. This originated from the practice of [[Agile]] methodologies in development teams and allows for faster development, eliminating areas of fricition.
 
 # Characteristics
-- Use of Infrastructure as a Service (IaaS)
+- Use of Infrastructure as a Service (IaaS) [[Infrastructure as a Service Platforms|Platforms]]
 - Use of product-wide logging and metrics
 
 # Steps in DevOps
