@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Marketplace/Software Implementations/GitHub Actions.md",
+                "file": "Terms in DevOps.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Marketplace/Software Implementations/GitHub Actions.md",
+                "file": "Terms in DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Marketplace/Software Implementations/GitHub Actions.md",
+                "file": "Terms in DevOps.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Marketplace/Software Implementations/GitHub Actions.md"
+                "file": "Terms in DevOps.md"
               }
             }
           },
@@ -275,12 +275,12 @@
   },
   "active": "e430fa8bd5438f07",
   "lastOpenFiles": [
+    "World Building/Marketplace/Software Implementations/GitHub Actions.md",
     "Terms in DevOps.md",
     "Automated Tests.md",
     "Testing Tools.md",
     "Continuous Integration, Delivery and Deployment.md",
     "Z0-Organizing (All Notes Matter)/PM Comparison.md",
-    "World Building/Marketplace/Software Implementations/GitHub Actions.md",
     "YAML.md",
     "Extended Markup Language.md",
     "JavaScript Object Notation.md",

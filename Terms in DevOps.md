@@ -13,6 +13,7 @@ Think of writing tests as an investment in the future
 - Threat Modelling
 - Automated Security Testing
 - Incident Management
+- (?) SAST, IAST, DAST, RAST
 
 **Methodologies**
 - Test Driven Development
