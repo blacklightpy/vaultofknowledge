@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "eed364a13e7cacbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies, Products and Services Map.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -217,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies, Products and Services Map.md",
+                "file": "Differences between DevOps and CI-CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies, Products and Services Map.md",
+                "file": "Differences between DevOps and CI-CD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies, Products and Services Map.md"
+                "file": "Differences between DevOps and CI-CD.md"
               }
             }
           },
@@ -299,9 +286,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "eed364a13e7cacbd",
+  "active": "f5da7670815feaf8",
   "lastOpenFiles": [
     "Software Implementations/GitHub Actions.md",
+    "Companies, Products and Services Map.md",
     "Differences between DevOps and CI-CD.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/CI-CD Systems.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Webhooks.md",
@@ -309,7 +297,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Callbacks.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Build Systems.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Containerization/Kubernetes.md",
-    "Infrastructure as a Service Platforms.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Containerization/Kubernetes.md"
   ]
 }

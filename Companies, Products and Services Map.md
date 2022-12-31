@@ -10,9 +10,12 @@
 		- GitHub Packages
 		- GitHub Copilot
 		- GitHub Enterprise
+	- Mojang
+		- Minecraft
 - Amazon
 	- Prime
 	- Kindle
+	- Alexa
 	- Marketplace
 	- Amazon Web Services
 - Alphabet
