@@ -7,3 +7,7 @@ There are several types of tests. Some are:
 - Unit Tests - Technical Details
 - Acceptance Tests - Business demands
 - E2E Tests
+
+# How to
+- Search $lang testing suites
+- If you can run it, you can test it - even with scripts
