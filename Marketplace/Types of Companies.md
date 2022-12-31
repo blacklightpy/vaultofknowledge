@@ -1,9 +1,4 @@
-- Sole Propreitorship
-- Partnership
-- Limitied Liability Partnership
-- Limited Partnership
-- Corporation
-
-
-- Co-operative
+- One-Person or Partnership
+- Limited Liability Companies
+- Corporations
 - Non-Profit
