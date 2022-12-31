@@ -1,0 +1,1 @@
+SecOps is a short-form that stands for Security Operations.
