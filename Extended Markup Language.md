@@ -1,0 +1,1 @@
+Extended Markup Language (XML) is a specification for designing markup languages.

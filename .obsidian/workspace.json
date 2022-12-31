@@ -125,12 +125,12 @@
             }
           },
           {
-            "id": "8da488a5b1826be1",
+            "id": "13615a3617a8eb5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript Object Notation.md",
+                "file": "YAML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,12 +138,12 @@
             }
           },
           {
-            "id": "13615a3617a8eb5f",
+            "id": "d54d4b3503e74650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YAML.md",
+                "file": "Extended Markup Language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YAML.md",
+                "file": "Extended Markup Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YAML.md",
+                "file": "Extended Markup Language.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YAML.md"
+                "file": "Extended Markup Language.md"
               }
             }
           },
@@ -299,17 +299,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "13615a3617a8eb5f",
+  "active": "d54d4b3503e74650",
   "lastOpenFiles": [
-    "JavaScript Object Notation.md",
+    "YAML.md",
     "Marketplace/Software Implementations/GitHub Actions.md",
+    "JavaScript Object Notation.md",
     "Marketplace/Popular Companies, Products and Services Map.md",
     "Marketplace/Types of Companies.md",
     "Z0-Organizing (All Notes Matter)/PM Comparison.md",
     "Infrastructure as a Service Platforms.md",
     "Differences between DevOps and CI-CD.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/CI-CD Systems.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Webhooks.md",
-    "Z1-Inbox/Courses To Take.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Webhooks.md"
   ]
 }
