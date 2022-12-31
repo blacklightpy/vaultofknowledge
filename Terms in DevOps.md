@@ -7,7 +7,9 @@ Think of writing tests as an investment in the future
 - Microservices
 - Infrastructure as Code (IaC)
 - Policy as Code (PaC)
+- Monitoring
 **SecOps**
+"Keep Security Left"
 - Security as Code (SaC) - on IaC
 - Common Weakness Enumeration (CWE)
 - Threat Modelling
