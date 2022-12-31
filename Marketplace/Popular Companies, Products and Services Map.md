@@ -67,28 +67,46 @@ Source: That YT Video on how there are only a few companies
 
 ## Automotive and Hardware Tech
 - Toyota
+	- Lexus
 - Volkswagen
 	- Porsche
 	- Auti
+	- Skoda
+	- Lambhorgini
+	- Bugatti
+	- Ducati
 - Stellantis
 	- Dodge
 	- Jeep
-- Tesla
-- SpaceX
+	- Fiat
+- Tata Motors
+	- Jaguar
+	- Land Rover
 - Ferrari
-- Lambhorgini
-- Bugatti
-- Ford Motor
-- Honda
 - BMW
+	- Mini
+	- Rolls-Royce
 - Hyundai
 - General Motors
 	- Chevrolet
 	- Cadillac
+	- Bentley
 - Mercedez-Benz
-- Renault
-- Nissan
-- Fiat
-- Volvo
-- Land Rover
-- Maruti-Suzuki
+- Renault-Nissan-Mitsubishi Alliance
+	- Renault
+	- Nissan
+	- Mitsubishi
+- Geely
+	- Volvo
+	- Lotus
+- Mahindra
+**Standalone**
+- Suzuki
+	- Maruti-Suzuki
+- Ford
+- Honda
+- Subaru
+- Mazda
+- Tesla
+- BYD Auto
+- SpaceX
