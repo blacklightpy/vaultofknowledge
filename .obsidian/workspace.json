@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "c1d3d75b8c11b425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue Green Deployment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0afbb11f1686aa21",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "json",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Blue Green Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Blue Green Deployment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Blue Green Deployment.md"
               }
             }
           },
@@ -260,12 +273,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "70c83d6637a71704",
+  "active": "c1d3d75b8c11b425",
   "lastOpenFiles": [
+    "Testing.md",
     "DevOps.md",
     "DevSecOps.md",
     "CI-CD.md",
-    "Testing.md",
     "CI-CD Pipeline.md",
     "Terms in DevOps.md",
     "Types of Tests.md",
