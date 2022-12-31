@@ -8,10 +8,11 @@ Tools:
 * Trello
 * Jira
 
-Workflow:
+Workflows:
 
 * Parallel
 * [[Scrum Methodology]]
+* [[Extreme Programming]]
 
 Key points:
 

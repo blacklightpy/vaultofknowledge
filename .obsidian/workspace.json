@@ -97,22 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "50697b03a2774691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Business and Finance/Project Management/Agile.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Project Management/Agile.md",
+                "file": "DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Project Management/Agile.md",
+                "file": "DevOps.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Project Management/Agile.md"
+                "file": "DevOps.md"
               }
             }
           },
@@ -261,17 +247,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "0afbb11f1686aa21",
   "lastOpenFiles": [
+    "DevSecOps.md",
+    "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
+    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
     "DevOps.md",
     "Testing.md",
-    "DevSecOps.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Enterprise Key Management.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Public Key Infrastructure.md",
     "CI-CD.md",
-    "To Learn.md",
-    "CI-CD Pipeline.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management.md"
+    "To Learn.md"
   ]
 }
