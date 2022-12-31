@@ -275,15 +275,15 @@
   },
   "active": "42fe6e472668f69d",
   "lastOpenFiles": [
-    "Testing.md",
     "Password Reset Mechanism.md",
+    "Secret Key Management.md",
+    "Testing.md",
     "DevOps.md",
     "DevSecOps.md",
     "CI-CD.md",
     "Blue Green Deployment.md",
     "Terms in DevOps.md",
     "XP.md",
-    "Automated Tests.md",
-    "Testing Tools.md"
+    "Automated Tests.md"
   ]
 }

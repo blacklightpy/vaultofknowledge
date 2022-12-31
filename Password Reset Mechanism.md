@@ -12,5 +12,7 @@ Tips:
 - Monitor cancellations
 - Use HTTPS
 
+NOTE: Email is not E2EE. SMTP-TLS is E2EE between a user and a server, not between users. Signal protocol, for example is.
+
 More (similar) info: https://www.troyhunt.com/everything-you-ever-wanted-to-know/
 
