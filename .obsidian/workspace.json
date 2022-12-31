@@ -71,22 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e1d425da6c59e7e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Business and Finance/Project Management/The Toyota Way.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Project Management/The Toyota Way.md",
+                "file": "SecOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Project Management/The Toyota Way.md",
+                "file": "SecOps.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Project Management/The Toyota Way.md"
+                "file": "SecOps.md"
               }
             }
           },
@@ -234,14 +221,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e1d425da6c59e7e2",
+  "active": "990cd07e06d47e75",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
+    "World Building/Business and Finance/Project Management/The Toyota Way.md",
     "SecOps.md",
     "World Building/Business and Finance/Project Management/Lean.md",
     "World Building/Business and Finance/Project Management/Six Sigma.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
-    "World Building/Business and Finance/Project Management/The Toyota Way.md",
-    "World Building/Business and Finance/Project Management/Agile Methodology/Agile.md",
     "World Building/Business and Finance/Project Management/Software Development Lifecycle.md",
     "World Building/Business and Finance/Project Management/Agile Methodology/Extreme Programming.md",
     "World Building/Business and Finance/Minimum Viable Product.md",

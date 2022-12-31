@@ -3,7 +3,8 @@ Agile is a project management methodology that derives from modern development p
 Modern day software development is highly centered on agile methodologies. To implement a proper agile environment, it is necessary to understand the philosophy behind agile in addition to the systems.
 
 # Philosophy
-
+The agile manifesto describes 12 principles which form the philosophy of agile.
+https://agilemanifesto.org/principles.html
 
 
 Use cases:
