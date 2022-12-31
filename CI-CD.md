@@ -1,0 +1,5 @@
+- What is CI-CD
+- Why do we need CI-CD
+- CI-CD Tools
+- How to implement CI-CD
+- Tips for CI-CD
