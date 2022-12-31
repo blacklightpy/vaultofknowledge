@@ -34,19 +34,11 @@ CI/CD Systems are used to speed up development and delivery.
 			- [[Blue Green Deployment]]
 
 # Tips for building a CI-CD pipeline
-**Development Practices**
-- Practice test-driven development to always keep the code deployable
-	- Maintain an automated test suite.
-	- Build monitoring, logging and fault tolerance by design
-- - In Behaviour Driven Development, tests are a byproduct of systematic thinking
-	- Keep the boy scout mentality - always leave the code better than you found it
-- Work in small features
-	- Feature branches should live no longer than a day
-	- For longer features, use feature flags
+- Follow DevOps practices
 **Architecture**
 - Architect in a way that supports iterative releases - Avoid tight coupling between components
 	- Implement metrics that help detect issues in realtime (?)
-- Developers can deploy to staging for QA/manual testing
+- Developers should be able to deploy to staging for QA/manual testing
 - All deployments should only involve the click of a button
 **Picking tests**
 - Build-in quality checking - style and security

@@ -20,10 +20,16 @@ DevOps stands for Development and Operations, which refers to the combination of
 	- Work in small batches and units. Not the fastest for large features, but it ensures testing well.
 
 # Tips
-- Transition to [[Microservices]] when it gives more performance than monoliths
-- Get acquainted with Domain-Driven Development, TDD and BDD
 - Reorganize the teams to be cross-functional, removing silos and flattening heirarchies to allow for innovation.
 - Foster a DevOps work culture, where lines between developer and operation jobs are blurred.
-- Testers should work with Devs
-- Testers are not replaceable, they know how users work
-- Testers should constantly explore and learn new skills.
+- Get acquainted with Domain-Driven Development, TDD and BDD
+- Practice test-driven development to always keep the code deployable
+	- Maintain an automated test suite.
+	- Build monitoring, logging and fault tolerance by design
+- - In Behaviour Driven Development, tests are a byproduct of systematic thinking
+	- Keep the boy scout mentality - always leave the code better than you found it
+- Work in small features
+	- Feature branches should live no longer than a day
+	- For longer features, use feature flags
+- Transition to [[Microservices]] when it gives more performance than monoliths
+
