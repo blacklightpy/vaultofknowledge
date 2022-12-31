@@ -64,3 +64,31 @@ Source: That YT Video on how there are only a few companies
 - P&G
 - Johnson and Johnson
 - Walmart
+
+## Automotive and Hardware Tech
+- Toyota
+- Volkswagen
+	- Porsche
+	- Auti
+- Stellantis
+	- Dodge
+	- Jeep
+- Tesla
+- SpaceX
+- Ferrari
+- Lambhorgini
+- Bugatti
+- Ford Motor
+- Honda
+- BMW
+- Hyundai
+- General Motors
+	- Chevrolet
+	- Cadillac
+- Mercedez-Benz
+- Renault
+- Nissan
+- Fiat
+- Volvo
+- Land Rover
+- Maruti-Suzuki
