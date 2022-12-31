@@ -6,7 +6,7 @@ The function will be executed externally by an API.
 - Windows API - e.g. WaveOutProc()
 - A pseudocode example:
   ```
-  funct printANumber(int n, funct callbackFunction) {
+  funct printANumber(int n, callback callbackFunction) {
 	  printout("Printing" + n);
   }
   funct printFinishMessage(){
