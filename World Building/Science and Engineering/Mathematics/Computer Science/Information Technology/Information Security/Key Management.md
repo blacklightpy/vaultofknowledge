@@ -1,10 +1,9 @@
-Key Management System (KMS) is responsible for maintaining the lifecycle of keys.
-KMS should be connected to a centralized store, like an HSM.
+It refers to the management of cryptographic keys.
+[[Key Management Systems]]
 
-Hardware Security Modules (HSM) are responsible for generation, maintenance and usage of keys. ^8c81cb
-
-Trust Store: Where public information is stored for verifying certificates.
-Key Store: Where private keys are stored for decrypting information.
+**Components**
+- Trust Store: Where public information is stored for verifying certificates.
+- Key Store: Where private keys are stored for decrypting information.
 
 Types of Keystores:
 - Java Key Store

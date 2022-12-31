@@ -1,0 +1,1 @@
+Hardware Security Modules (HSM) are responsible for generation, maintenance and usage of keys.

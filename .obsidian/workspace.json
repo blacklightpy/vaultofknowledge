@@ -47,19 +47,6 @@
             }
           },
           {
-            "id": "e430fa8bd5438f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI-CD Pipeline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10cbab95ffb7b28d",
             "type": "leaf",
             "state": {
@@ -112,20 +99,15 @@
             }
           },
           {
-            "id": "b4968fbb83427f36",
+            "id": "356f2a85840d9808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -230,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -273,17 +252,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "356f2a85840d9808",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Public Key Infrastructure.md",
+    "CI-CD.md",
+    "To Learn.md",
+    "CI-CD Pipeline.md",
+    "DevSecOps.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Key Management Systems.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Enterprise Key Management.md",
-    "Testing.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Password Reset Mechanism.md",
-    "DevOps.md",
-    "DevSecOps.md",
-    "CI-CD.md",
-    "Blue Green Deployment.md",
-    "Terms in DevOps.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Hardware Security Module.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Public Key Infrastructure.md",
+    "Testing.md"
   ]
 }

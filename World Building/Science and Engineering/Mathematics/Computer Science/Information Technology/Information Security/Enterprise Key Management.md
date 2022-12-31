@@ -1,6 +1,6 @@
-Enterprise Key Management (EKM) refers to key management systems that work across different operating systems and databases. It can ease the complexity with implementing secure key management in complex setups.
+Enterprise Key Management (EKM) refers to [[key management systems]] that work across different operating systems and databases. It can ease the complexity with implementing secure key management in complex setups.
 
-EKM should reside in a centralized location, like an [[Key Management#^8c81cb|HSM]]
+EKM System should reside in a centralized location, like an [[Hardware Security Module]]
 
 Questions for choosing an EKM Solution:
 1.  Is your key manager FIPS 140-2 certified?  What is the certificate number?
