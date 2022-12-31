@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enterprise Key Management.md",
+                "file": "Secret Key Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enterprise Key Management.md",
+                "file": "Secret Key Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enterprise Key Management.md",
+                "file": "Secret Key Management.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enterprise Key Management.md"
+                "file": "Secret Key Management.md"
               }
             }
           },
@@ -275,6 +275,7 @@
   },
   "active": "b4968fbb83427f36",
   "lastOpenFiles": [
+    "Enterprise Key Management.md",
     "Testing.md",
     "Secret Key Management.md",
     "Password Reset Mechanism.md",
@@ -283,7 +284,6 @@
     "CI-CD.md",
     "Blue Green Deployment.md",
     "Terms in DevOps.md",
-    "XP.md",
-    "Automated Tests.md"
+    "XP.md"
   ]
 }
