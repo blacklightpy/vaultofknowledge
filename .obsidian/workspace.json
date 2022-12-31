@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dokan",
+                "query": "six sigma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,6 +237,8 @@
   },
   "active": "f22620f23ebb2143",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Project Management/Six Sigma.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Quality Assurance Engineering.md",
     "SecOps.md",
     "World Building/Business and Finance/Minimum Viable Product.md",
     "World Building/Business and Finance/Project Management/Project Management.md",
@@ -243,8 +246,6 @@
     "DevOps.md",
     "CI-CD.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "To Learn.md",
-    "DevSecOps.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/inodes.md"
+    "To Learn.md"
   ]
 }
