@@ -15,18 +15,7 @@
 ![[Pasted image 20221230133238.png]]
 ![[Pasted image 20221230133215.png]]
 
-# How to build a CI/CD pipeline
-## Tips
-- Architect in a way that supports iterative releases - Avoid tight coupling between components
-	- Implement metrics that help detect issues in realtime (?)
-- Practice test-driven development to always keep the code deployable
-	- Maintain an automated test suite.
-	- Build monitoring, logging and fault tolerance by design
-- Work in small features
-	- Feature branches should live no longer than a day
-	- For longer features, use feature flags
-- Devs can deploy to staging
-- All deployments should only involve the click of a button
+
 
 ## Technical
 - CI
