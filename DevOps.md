@@ -6,7 +6,7 @@
 	- Incident Management
 		- [[Canary Deployment]] or [[Blue Green Deployment]]
 - Tips
-	- Transition to Microservices when it gives more performance than monoliths
+	- Transition to [[Microservices]] when it gives more performance than monoliths
 	- Get acquainted with Domain-Driven Development, TDD and BDD
 	- Reorganize the teams to be cross-functional, removing silos and flattening heirarchies to allow for innovation.
 	- Foster a DevOps work culture, where lines between developer and operation jobs are blurred.
