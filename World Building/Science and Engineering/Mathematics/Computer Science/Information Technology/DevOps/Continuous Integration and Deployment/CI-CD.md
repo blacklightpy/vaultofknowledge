@@ -1,8 +1,8 @@
 - What is CI-CD
 - Why do we need CI-CD
-- [[CI-CD Systems]]
+- [[CI-CD Systems|Tools for CI/CD]]
 
-# How to implement CI/CD
+# How to implement CI/CD Pipeline
 - Use a CI/CD System
 - During CI
 	- [[Automated Tests]]
