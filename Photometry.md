@@ -1,0 +1,1 @@
+It deals with the measurement of visible light as percieved by humans.
