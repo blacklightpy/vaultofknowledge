@@ -1,0 +1,4 @@
+- PN Photodiode
+- PIN Photodiode
+- [[Avalanche Photodiode]]
+- Schottky Photodiode
