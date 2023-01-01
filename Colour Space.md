@@ -8,7 +8,7 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 ## Physical Palettes
 - Pantone
 ## Commercial
-- Munsell Color System
+- [[Munsell Color System]]
 - Natural Colour System (NCS)
 - Pantone
 ## Not 3-D
