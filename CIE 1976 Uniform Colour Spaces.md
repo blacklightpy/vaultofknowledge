@@ -1,4 +1,5 @@
-- [[CIELUV]] is recommended for coloured surfaces and dyes
-	- It is widely used in television industry and lighting
-- [[CIELAB]] is recommended for characterization of colour displays
+- [[CIELUV]] is recommended for characterization of colour displays
 	- It is better for emitting displays like monitor
+- [[CIELAB]] is recommended for coloured surfaces and dyes
+	- It is widely used in television industry and lighting
+	- It is also better for reflective surfaces illuminated by a [[standard illuminant]] like D65
