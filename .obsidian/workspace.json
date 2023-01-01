@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nyqui",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,6 +301,8 @@
   },
   "active": "a37fcb56b176e113",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md",
     "Light Terminology.md",
     "Colour Theory/Cylindrical Colour Space Models.md",
     "Black Body.md",
@@ -307,8 +310,6 @@
     "World Building/Philosophy/Particles.md",
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Presentism.md",
-    "World Building/Philosophy/Elements of the world.md",
-    "World Building/Philosophy/Creation of Drones.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md"
+    "World Building/Philosophy/Elements of the world.md"
   ]
 }
