@@ -1,0 +1,1 @@
+Energy can be moved from one place to another only by displacing
