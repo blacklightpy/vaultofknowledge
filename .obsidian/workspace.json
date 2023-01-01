@@ -60,58 +60,6 @@
             }
           },
           {
-            "id": "f32a060961786d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temperature.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d38042949bff9119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Black Body.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f409d32b35fa5a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Black Body Radiation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b28c56d241e6f185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YUV and YCbCr.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d370a765cfbe2adc",
             "type": "leaf",
             "state": {
@@ -138,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nyqui",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
+                "file": "Light Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
+                "file": "Light Terminology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md"
+                "file": "Light Terminology.md"
               }
             }
           },
@@ -287,15 +235,15 @@
   },
   "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Cauchy Principal Value.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Heaveside Step Function.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
+    "Spectral Sensitivity.md",
     "Light Terminology.md",
-    "Colour Theory/Cylindrical Colour Space Models.md",
+    "World Building/Philosophy/Draft Philosophy.md",
+    "Temperature.md",
     "Black Body.md",
-    "World Building/Philosophy/Creation.md",
-    "World Building/Philosophy/Particles.md",
-    "World Building/Philosophy/Philosophy.md"
+    "Black Body Radiation.md",
+    "YUV and YCbCr.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Cauchy Principal Value.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md"
   ]
 }
