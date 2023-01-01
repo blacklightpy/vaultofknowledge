@@ -12,7 +12,8 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - Natural Colour System (NCS)
 - Pantone
 ## Not 3-D
-- 
+**Dichromatic**
+- RG Colour Model
 ## Mathematical
 ### RGB Primaries
 - Adobe RGB
