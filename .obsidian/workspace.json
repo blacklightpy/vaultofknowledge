@@ -234,7 +234,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cylindrical Colour Space Models.md",
+                "file": "HCL Colour Space.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cylindrical Colour Space Models.md",
+                "file": "HCL Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cylindrical Colour Space Models.md",
+                "file": "HCL Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cylindrical Colour Space Models.md"
+                "file": "HCL Colour Space.md"
               }
             }
           },
@@ -391,10 +391,10 @@
   },
   "active": "05316d7a6b982cb7",
   "lastOpenFiles": [
-    "Untitled.md",
     "Cylindrical Colour Space Models.md",
     "HCL Colour Space.md",
     "CIEHLC Cylindrical Models.md",
+    "Untitled.md",
     "Uniform Colour Spaces.md",
     "YUV and YCbCr.md",
     "CIELAB.md",

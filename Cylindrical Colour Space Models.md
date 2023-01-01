@@ -1,2 +1,2 @@
 - HSL and HSV - of [[RGB Colour Spaces]]
-- HCL or 
+- [[HCL Colour Space|HCL]] or LCh - Generalized cylindrical transformations for [[CIELUV]], [[CIELAB]], etc.
