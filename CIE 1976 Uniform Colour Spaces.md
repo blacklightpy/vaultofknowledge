@@ -1,2 +1,2 @@
-- [[CIELUV]]
-- [[CIELAB]]
+- [[CIELUV]] is recommended for coloured surfaces and dyes
+- [[CIELAB]] is recommended for characterization of colour displays
