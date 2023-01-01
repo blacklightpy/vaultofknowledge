@@ -5,6 +5,7 @@ There are also color spaces that are not 3-D.
 
 Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] Diagrams.
 
+# Types of Colour Spaces
 ## Physical Palettes
 - Pantone
 ## Commercial
@@ -33,3 +34,9 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - rg chromaticity for Computer Vision
 - [[LMS Colour Space]]
 - TSL Colour Space - for face and skin detection
+
+# Choosing Colour Spaces
+There is no best colour space. Ideally you work in the same space as the destination device.
+- For best performance: Use 8 bit sRGB D65, the default standard for web.
+- For compositing: Use any linear RGB space with [[Tone Response Curve|gamma]] (TRC) removed (gamma = 1.0), 16 bit float and white point set to D65, white mapped to 1.0 and black to 0.0
+- For perceptual tasks (to feel natural): Use Lab, Luv, LChuv, etc. with D65. Lab uses D65 normally in the textile, paint, and display device industries. They use floating point values and are also processor hogs, perhaps not as much as linear spaces.

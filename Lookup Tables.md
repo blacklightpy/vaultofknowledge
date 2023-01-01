@@ -1,1 +1,1 @@
-Lookup Tables (LUTs) are 
+Lookup Tables (LUTs) are like Color Profiles
