@@ -1,5 +1,7 @@
 Data science is an interdisciplinary field focused on extracting knowledge from typically large datasets and applying the knowledge and insights from that data to solve problems in a wide range of application domains.
 
+A data scientist is someone who creates programming code and combines it with statistical knowledge to create insights from data.
+
 # Steps in data science
 - Preparing data for analysis
 - Formulating data science problems
