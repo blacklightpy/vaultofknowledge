@@ -10,3 +10,4 @@ Colour spaces are generally (?) 3-dimensional spaces that represent the [[Tristi
 - [[CIE 1931 Colour Spaces]]
 - CIELAB
 - CIELUV
+### Not 3-D

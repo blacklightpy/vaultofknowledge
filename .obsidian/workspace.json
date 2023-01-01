@@ -188,17 +188,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f41e014410130e07",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -264,6 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,6 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -301,7 +295,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Colour Space.md"
+              }
             }
           },
           {
@@ -342,15 +338,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f41e014410130e07",
+  "active": "9698994d52c9a79b",
   "lastOpenFiles": [
-    "Colour Space.md",
     "White Point.md",
+    "Gamut.md",
+    "Colour Space.md",
     "Excitation Purity.md",
     "Colour Systems.md",
     "Colour Models.md",
     "Saturation.md",
-    "Gamut.md",
     "Chromaticity.md",
     "Colourfulness.md",
     "Hue.md"
