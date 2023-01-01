@@ -1,0 +1,1 @@
+Digital Systems are just Analog systems with more discipline.
