@@ -1,3 +1,5 @@
+Traditionally, roles in a company are heirarchical.
+
 - Chief Executive Officer (CEO)
 - Chief Technology Officer (CTO)
 - Chief Operations Officer (COO)

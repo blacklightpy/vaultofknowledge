@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Enterprise Resource Planning.md",
+                "file": "World Building/Business and Finance/Company Management/Tools/Enterprise Resource Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Traditional Company Roles.md",
+                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Traditional Company Roles.md",
+                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Traditional Company Roles.md",
+                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Traditional Company Roles.md"
+                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md"
               }
             }
           },
@@ -195,17 +195,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c937a1122c86639b",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "World Building/Business and Finance/Company Management/Company Management Terms and Software.md",
-    "World Building/Business and Finance/Traditional Company Roles.md",
+    "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
     "World Building/Business and Finance/Bill of Engineering.md",
     "World Building/Business and Finance/Designing a Custom Enterprise Software.md",
-    "World Building/Business and Finance/Company Management/Customer Relationship Management.md",
+    "World Building/Business and Finance/Company Management/Tools/Customer Relationship Management.md",
     "World Building/Business and Finance/Company Management/Bill of Materials.md",
     "World Building/Business and Finance/Company Management/Product Lifecycle Management.md",
     "World Building/Business and Finance/Company Management/Master Data Management.md",
-    "World Building/Business and Finance/Company Management/Enterprise Resource Planning.md",
-    "World Building/Business and Finance/Company Management/CRM Software.md"
+    "World Building/Business and Finance/Company Management/Tools/Enterprise Resource Planning.md",
+    "World Building/Business and Finance/Company Management/Tools/CRM Software.md"
   ]
 }
