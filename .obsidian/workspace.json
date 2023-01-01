@@ -318,9 +318,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cab9d6a59e0a23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photometry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d37d42daff2077a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brightness.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -386,7 +412,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colorimetry.md",
+                "file": "Brightness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +429,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colorimetry.md",
+                "file": "Brightness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -426,7 +452,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colorimetry.md"
+                "file": "Brightness.md"
               }
             }
           },
@@ -467,8 +493,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "67772ea88d107889",
+  "active": "7d37d42daff2077a",
   "lastOpenFiles": [
+    "Photometry.md",
+    "Colorimetry.md",
     "Hunter Lab.md",
     "CIE 1931 XYZ Colour Space.md",
     "Opponent Processes.md",
@@ -476,8 +504,6 @@
     "ICC Colour Profiles.md",
     "International Colour Consortium.md",
     "Unique Colours.md",
-    "Colour Difference.md",
-    "CIELAB.md",
-    "YUV and YrBrCr.md"
+    "Colour Difference.md"
   ]
 }

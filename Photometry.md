@@ -1,1 +1,1 @@
-It deals with the measurement of visible light as percieved by humans.
+It deals with the measurement of the visible light, it terms of its [[brightness]] as percieved by humans.
