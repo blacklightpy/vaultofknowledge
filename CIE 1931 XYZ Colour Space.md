@@ -1,4 +1,4 @@
-This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the X and Y coordinates, with Z being the luminance.
+This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the X and Y coordinates, with Z being the luminance. This is also called the xyY colour space for the same reason.
 
 This also solves the problem of [[imaginary colours]] in trichromatic additive spaces like RGB and [[LMS Colour Space|LMS]].
 
