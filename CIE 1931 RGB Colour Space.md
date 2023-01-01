@@ -1,0 +1,1 @@
+This colour model tries to mimic the colours percieved by the 

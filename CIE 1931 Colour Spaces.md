@@ -3,5 +3,5 @@
 1931 is the year of creation of these colour spaces.
 
 # Colour Spaces
-- CIE 1931 RGB
-- CIE 1931 XYZ
+- [[CIE 1931 RGB Colour Space]]
+- [[CIE 1931 XYZ Colour Space]]

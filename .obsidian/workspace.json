@@ -188,9 +188,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36d93fc4d4929984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gamut.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b41106171fafa180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIE 1931 XYZ Colour Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6310626b0c83d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIE 1931 RGB Colour Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -256,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chromaticity.md",
+                "file": "CIE 1931 RGB Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chromaticity.md",
+                "file": "CIE 1931 RGB Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chromaticity.md"
+                "file": "CIE 1931 RGB Colour Space.md"
               }
             }
           },
@@ -338,17 +377,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9698994d52c9a79b",
+  "active": "9d6310626b0c83d1",
   "lastOpenFiles": [
+    "CIE 1931 Colour Spaces.md",
+    "CIE 1931 RGB Colour Space.md",
+    "CIE 1931 XYZ Colour Space.md",
+    "Gamut.md",
+    "Chromaticity.md",
     "Colour Space.md",
     "Chromaticity Diagrams.md",
     "White Point.md",
-    "Chromaticity.md",
     "LMS Colour Space.md",
-    "Gamut.md",
-    "Excitation Purity.md",
-    "Colour Systems.md",
-    "Colour Models.md",
-    "Saturation.md"
+    "Excitation Purity.md"
   ]
 }
