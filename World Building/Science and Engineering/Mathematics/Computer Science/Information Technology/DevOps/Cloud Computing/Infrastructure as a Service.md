@@ -1,7 +1,1 @@
-
-# Providers
-## Kubernetes
-- Google Kubernetes Engine
-- Amazon something
-- Hashicorp Nomad
-- Microsoft Azure something
+Infrastructure as a Service (IaaS) refers to cloud ownership of bare metal infrastructure.
