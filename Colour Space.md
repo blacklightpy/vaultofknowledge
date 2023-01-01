@@ -21,7 +21,7 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - ProPhoto RGB
 - DCI-P3
 - [[CIE 1931 Colour Spaces]] ($2\degree$)
-- CIE 1964 Colour Spaces ($10\degree$)
+- CIE 1964 Colour Spaces ($10\degree$) - less used
 - CIE 1976 Uniform Chromaticity Diagram
 	- CIELAB
 		- CIELUV

@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cabf8f73795fb160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colour Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -256,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychophysics.md",
+                "file": "Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychophysics.md",
+                "file": "Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychophysics.md"
+                "file": "Colour Space.md"
               }
             }
           },
@@ -337,8 +350,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ead4c7ecb892fc62",
+  "active": "cabf8f73795fb160",
   "lastOpenFiles": [
+    "Psychophysics.md",
     "Uniform Colour Spaces.md",
     "Colour Appearance Models.md",
     "Colour Space.md",
@@ -347,7 +361,6 @@
     "Planckian Locus.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Locus.md",
     "Chromaticity.md",
-    "Colour Temperature.md",
-    "Black Body.md"
+    "Colour Temperature.md"
   ]
 }
