@@ -2,6 +2,8 @@ This model was based of the [[CIE 1931 RGB Colour Space]]. This allows represent
 
 The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[luminance]] of the colour. This is also called the xyY colour space for the same reason.
 
+The [[white point]] of this colour space is at (1/3, 1/3) in xyY chromaticity diagram.
+
 **Derivation of xyY coordinates from XYZ tristimulus values**
 $x=\frac{X}{X+Y+Z}$
 $y=\frac{Y}{X+Y+Z}$
