@@ -223,9 +223,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ea76872a755979b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maths to Learn.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -291,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis.md",
+                "file": "Maths to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +321,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis.md",
+                "file": "Maths to Learn.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -331,7 +344,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Analysis.md"
+                "file": "Maths to Learn.md"
               }
             }
           },
@@ -372,8 +385,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0f60053877be5d10",
+  "active": "0ea76872a755979b",
   "lastOpenFiles": [
+    "Mathematical Analysis.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
     "World Building/Science and Engineering/Physics/Work, Energy and Power/Kugelblitz.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
@@ -382,7 +396,6 @@
     "Data and Information Visualization.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Statistics.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Descriptive Statistics.md",
-    "Colour Theory/Cylindrical Colour Space Models.md",
-    "Colour Theory/CIEHLC Cylindrical Colour Spaces.md"
+    "Colour Theory/Cylindrical Colour Space Models.md"
   ]
 }
