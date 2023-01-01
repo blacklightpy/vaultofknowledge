@@ -71,6 +71,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9dae9f59c9a3615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anomalies in Colour Perception.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -223,6 +236,8 @@
   },
   "active": "54cf569e1bde6ab3",
   "lastOpenFiles": [
+    "Anomalies in Colour Perception.md",
+    "Draft Philosophy.md",
     "World Building/Philosophy/Philosophy.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Philosophy/Presentism.md",
@@ -230,8 +245,6 @@
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Java GUI Libraries.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Single Page Application.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Single Page Application.md"
   ]
 }
