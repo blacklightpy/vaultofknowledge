@@ -1,1 +1,1 @@
-This colour model tries to mimic the colours percieved by the human eye
+This colour model tries to mimic the colours percieved by the human eye using RGB [[Tristimulus]] values.

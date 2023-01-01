@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIE 1931 RGB Colour Space.md",
+                "file": "Imaginary Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIE 1931 RGB Colour Space.md",
+                "file": "Imaginary Colours.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -335,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIE 1931 RGB Colour Space.md"
+                "file": "Imaginary Colours.md"
               }
             }
           },
@@ -376,15 +376,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9d6310626b0c83d1",
+  "active": "80c2778fe6287e9d",
   "lastOpenFiles": [
+    "CIE 1931 RGB Colour Space.md",
     "White Point.md",
     "Gamut.md",
     "LMS Colour Space.md",
     "CIE 1931 XYZ Colour Space.md",
     "Imaginary Colours.md",
     "Luminance.md",
-    "CIE 1931 RGB Colour Space.md",
     "CIE Colour Spaces.md",
     "CIE 1931 Colour Spaces.md",
     "Chromaticity.md"
