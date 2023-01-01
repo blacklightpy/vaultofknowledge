@@ -1,10 +1,3 @@
-# Roles
-Users - Submit Stories
-Product Owner - Create User Stories, Rank stories
-Teams - Insert stories into sprints
-Scrum Master - Break stories into tasks
-
-
 # Templates
 
 # Tips

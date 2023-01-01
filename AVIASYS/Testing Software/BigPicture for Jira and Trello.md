@@ -1,8 +1,6 @@
-### Templates
-Free Plan -> Program 
-Paid Plan -> Agile
-
 # Features
+- Skills, Holiday Plans, Workloads, Teams (Availability etc.)
+- Absences
 **Jira-Trello Integration**
 **BigGantt Addon**
 
@@ -17,6 +15,10 @@ Paid Plan -> Agile
 - Risks
 - Calendar
 - Reports
+
+## Templates
+Free Plan -> Program 
+Paid Plan -> Agile
 
 ## How to Use:
 - Make use of best, worst and expected outcomes

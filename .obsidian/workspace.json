@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
+                "file": "AVIASYS/Selected Software Candidates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
+                "file": "AVIASYS/Selected Software Candidates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
+                "file": "AVIASYS/Selected Software Candidates.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md"
+                "file": "AVIASYS/Selected Software Candidates.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Company Management/Project Management/Managing Hardware Projects.md",
-    "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
-    "World Building/Business and Finance/Company Management/Project Management/Methods/Waterfall.md",
-    "World Building/Business and Finance/Company Management/Project Management/Roadmaps.md",
-    "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
-    "AVIASYS/Reading on Agile/Agile for Hardware.md",
-    "AVIASYS/Reading on Agile/Articles on Aglie.md",
-    "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
-    "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Tips on Implementing Agile.md",
-    "AVIASYS/Reading on Agile/Ideas.md"
+    "AVIASYS/Software Requirements.md",
+    "AVIASYS/Selected Software Candidates.md",
+    "AVIASYS/Teams.md",
+    "AVIASYS/Testing Software/BigPicture for Jira and Trello.md",
+    "AVIASYS/Using Jira.md",
+    "AVIASYS/Project Management Ideas.md",
+    "AVIASYS/Reasons for absences.md",
+    "AVIASYS/Using Scrum Methodology.md",
+    "World Building/Business and Finance/Company Management/Designing a Custom Enterprise Software.md",
+    "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md"
   ]
 }
