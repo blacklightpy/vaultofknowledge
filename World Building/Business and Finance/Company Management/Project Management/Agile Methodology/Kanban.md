@@ -1,0 +1,1 @@
+Kanban is a system of organizing tasks in a board view seperated into sections like To-Do, Doing and Done.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Other constraints.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Reasons for absences.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,8 +58,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "629d100ee6c7cbf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Implementing Agile.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1f52bc2d83165a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Kanban.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Other constraints.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Implementing Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Other constraints.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Implementing Agile.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Other constraints.md"
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Implementing Agile.md"
               }
             }
           },
@@ -207,17 +234,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "629d100ee6c7cbf9",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Company Management/AVIASYS/Teams.md",
-    "World Building/Business and Finance/Company Management/Project Management/Waterfall.md",
-    "World Building/Business and Finance/Company Management/Company Management Terms and Software.md",
-    "World Building/Business and Finance/Company Management/Project Management/BigPicture.md",
-    "World Building/Business and Finance/Company Management/Tools/Enterprise Resource Planning.md",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Reading on Agile/TcGen - Agile/Agile Product Development.md",
+    "_images/Budget Boundaries.png",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Reading on Agile/Articles on Aglie.md",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile.md",
+    "AVIASYS/Scrum Methodology.md",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Scrum.md",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Kanban.md",
     "World Building/Business and Finance/Company Management/Project Management/Project Management Overview.md",
-    "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
-    "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
-    "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
-    "World Building/Business and Finance/Company Management/Tools/Product Data Management.md"
+    "World Building/Business and Finance/Company Management/Project Management/Reasons for absences.md"
   ]
 }

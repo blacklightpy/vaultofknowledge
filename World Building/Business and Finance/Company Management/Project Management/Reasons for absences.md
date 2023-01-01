@@ -1,5 +1,3 @@
-Other constraints:
-
 * Personal vacations
 * Holidays
 * Other personal projects
