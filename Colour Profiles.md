@@ -1,0 +1,1 @@
+It tells the software which colour space are the pixels meant to be read from.
