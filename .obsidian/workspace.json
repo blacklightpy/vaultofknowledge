@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luminous Intensity.md",
+                "file": "Luminosity Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Black Body.md",
+                "file": "Luminosity Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Black Body.md",
+                "file": "Luminosity Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Black Body.md"
+                "file": "Luminosity Function.md"
               }
             }
           },
@@ -273,17 +273,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d38042949bff9119",
+  "active": "7f82411294241db6",
   "lastOpenFiles": [
+    "Luminous Intensity.md",
+    "Luminosity Function.md",
+    "Colour Temperature.md",
+    "Black Body.md",
     "Internet of Things.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Edge Computing.md",
-    "Black Body.md",
     "Solar Spectrum.md",
     "Temperature.md",
-    "Luminous Intensity.md",
-    "Colour Temperature.md",
     "Draft Philosophy.md",
-    "Quantum Efficiency.md",
-    "Responsivity.md"
+    "Quantum Efficiency.md"
   ]
 }
