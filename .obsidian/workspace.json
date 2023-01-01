@@ -171,8 +171,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,17 +273,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "d38042949bff9119",
   "lastOpenFiles": [
-    "Solar Spectrum.md",
+    "Internet of Things.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Edge Computing.md",
     "Black Body.md",
+    "Solar Spectrum.md",
     "Temperature.md",
     "Luminous Intensity.md",
     "Colour Temperature.md",
     "Draft Philosophy.md",
     "Quantum Efficiency.md",
-    "Responsivity.md",
-    "World Building/Engineering Resources/Engineering Components/Camera.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Image Sensors.md"
+    "Responsivity.md"
   ]
 }
