@@ -1,1 +1,1 @@
-It states that the 
+It states that the number of samples taken should be at least twice the frequency of the highest frequency to be sampled.

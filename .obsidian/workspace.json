@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Light Terminology.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Light Terminology.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Light Terminology.md"
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md"
               }
             }
           },
@@ -233,10 +233,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "a37fcb56b176e113",
   "lastOpenFiles": [
-    "Spectral Sensitivity.md",
     "Light Terminology.md",
+    "Spectral Sensitivity.md",
     "World Building/Philosophy/Draft Philosophy.md",
     "Temperature.md",
     "Black Body.md",
