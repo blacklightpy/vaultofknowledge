@@ -212,16 +212,11 @@
             }
           },
           {
-            "id": "893c7a01165a4c9e",
+            "id": "0f60053877be5d10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -291,7 +286,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +302,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -330,9 +323,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md"
-              }
+              "state": {}
             }
           },
           {
@@ -372,17 +363,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "893c7a01165a4c9e",
+  "active": "0f60053877be5d10",
   "lastOpenFiles": [
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
+    "World Building/Science and Engineering/Physics/Work, Energy and Power/Kugelblitz.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
     "Digital and Analog Systems.md",
     "Data and Information Visualization.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Statistics.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Descriptive Statistics.md",
     "Colour Theory/Cylindrical Colour Space Models.md",
-    "Colour Theory/CIEHLC Cylindrical Colour Spaces.md",
-    "Colour Theory/Colourfulness.md",
-    "Colour Theory/Chroma.md"
+    "Colour Theory/CIEHLC Cylindrical Colour Spaces.md"
   ]
 }
