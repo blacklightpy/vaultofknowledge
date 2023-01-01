@@ -292,22 +292,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d697283a89d8c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Difference.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -373,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Difference.md",
+                "file": "Profile Connection Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Difference.md",
+                "file": "Profile Connection Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -413,7 +400,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Difference.md"
+                "file": "Profile Connection Space.md"
               }
             }
           },
@@ -454,17 +441,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9d697283a89d8c30",
+  "active": "453618b1aba3a41d",
   "lastOpenFiles": [
-    "Colour Appearance Models.md",
-    "Colour Models.md",
+    "Munsell Colour System.md",
+    "Profile Connection Space.md",
     "Uniform Colour Spaces.md",
     "Colour Difference.md",
+    "Colour Appearance Models.md",
+    "Colour Models.md",
     "Colour Appearance Parameters.md",
     "Untitled.md",
-    "Munsell Colour System.md",
     "Colour Systems.md",
-    "Colour Space.md",
-    "Hunter Lab.md"
+    "Colour Space.md"
   ]
 }
