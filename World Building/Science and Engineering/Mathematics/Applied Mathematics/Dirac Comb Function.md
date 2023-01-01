@@ -1,0 +1,1 @@
+It an infinite series of [[Dirac Delta Function]]s 

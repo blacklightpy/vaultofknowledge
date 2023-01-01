@@ -197,9 +197,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b95664becd20d3e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "893c7a01165a4c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -265,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -305,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md"
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md"
               }
             }
           },
@@ -346,17 +372,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "390b9d85bb937135",
+  "active": "893c7a01165a4c9e",
   "lastOpenFiles": [
-    "Digital and Analog Systems.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
+    "Digital and Analog Systems.md",
     "Data and Information Visualization.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Statistics.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Descriptive Statistics.md",
     "Colour Theory/Cylindrical Colour Space Models.md",
     "Colour Theory/CIEHLC Cylindrical Colour Spaces.md",
     "Colour Theory/Colourfulness.md",
-    "Colour Theory/Chroma.md",
-    "Anomalies in Human Colour Perception.md"
+    "Colour Theory/Chroma.md"
   ]
 }
