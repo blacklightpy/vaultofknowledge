@@ -1,5 +1,7 @@
 Colour spaces are generally (?) 3-dimensional spaces that represent the [[Tristimulus]] spectral sensitvities.
 
+Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] Diagrams.
+
 ## Physical Palettes
 - Pantone
 ## Mathematical

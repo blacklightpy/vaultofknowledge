@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colour Space.md",
+                "file": "Chromaticity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Space.md",
+                "file": "Chromaticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Space.md",
+                "file": "Chromaticity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Space.md"
+                "file": "Chromaticity.md"
               }
             }
           },
@@ -340,15 +340,15 @@
   },
   "active": "9698994d52c9a79b",
   "lastOpenFiles": [
-    "LMS Colour Space.md",
     "Colour Space.md",
+    "Chromaticity Diagrams.md",
     "White Point.md",
+    "Chromaticity.md",
+    "LMS Colour Space.md",
     "Gamut.md",
     "Excitation Purity.md",
     "Colour Systems.md",
     "Colour Models.md",
-    "Saturation.md",
-    "Chromaticity.md",
-    "Colourfulness.md"
+    "Saturation.md"
   ]
 }
