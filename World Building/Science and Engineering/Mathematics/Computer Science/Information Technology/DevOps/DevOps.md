@@ -8,7 +8,7 @@ DevOps stands for Development and Operations, which refers to the combination of
 - Monitoring
 	- Use of product-wide logging and metrics for improvement of operations
 - Infrastructure as Code (IaC)
-	- Use of Infrastructure as a Service (IaaS) [[Infrastructure as a Service Platforms|Platforms]] and configuration files
+	- Use of Infrastructure as a Service (IaaS) [[Infrastructure as a Service|Platforms]] and configuration files
 - Microservices
 - Policy as Code (PaC)
 - Monitoring
