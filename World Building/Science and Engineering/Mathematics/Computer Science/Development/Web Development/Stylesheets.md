@@ -1,6 +1,6 @@
 [[Web Technologies]]
 
-[[CSS]]
+[[Cascading Style Sheets]]
 SCSS
 SASS
 LESS

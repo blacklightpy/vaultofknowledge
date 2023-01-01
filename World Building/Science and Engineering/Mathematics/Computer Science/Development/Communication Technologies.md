@@ -1,17 +1,12 @@
 Web: [[Web Technologies]]
 
-REST API, HTTP API, SOAP, RPC, GraphQL (Main); Falcor gRPC, Apache thrift
+APIs: REST API, HTTP API, SOAP, RPC, GraphQL (Main); Falcor gRPC, Apache thrift
 
-Drones:
+Drones: MAVLink
 
-MAVLink
-
-Network Protocols:
-
-HTTP, MQTT
+Network Communication Protocols: HTTP, MQTT
 
 Internet Connectivity:
-
 - Wired
 - Wireless
 	- Satellite Communications

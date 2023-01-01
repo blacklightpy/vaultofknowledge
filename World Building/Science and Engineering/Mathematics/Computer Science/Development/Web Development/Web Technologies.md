@@ -11,7 +11,7 @@
 **CRM (Customer Relationship Management)**
 - eg: Bittrix24 (also has CMS)
 
-**Web Architectures**
+# Web Architectures
 ***By chronology of trend:***
 - Fully Static - HTML, CSS, Web Server
 - Dynamic - Frontend + Backend
