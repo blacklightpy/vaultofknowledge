@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c445f71e8c39ebee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab8509530bf6c4eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "file": "AVIASYS/Using Jira.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "4c00a1c595a38a19",
+            "id": "6181e15e7f7951c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md"
+                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md"
               }
             }
           },
@@ -195,17 +182,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab8509530bf6c4eb",
+  "active": "6181e15e7f7951c1",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Company Management/Project Management/Roadmaps.md",
-    "World Building/Business and Finance/Company Management/Project Management/Gantt Charts.md",
-    "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
-    "World Building/Business and Finance/Company Management/Project Management/Waterfall.md",
-    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile.md",
-    "AVIASYS/Project Management.md",
-    "AVIASYS/Reasons for absences.md",
-    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Reading on Agile/TcGen - Agile/What is Agile.md",
-    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Kanban.md",
-    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Tips on Implementing Agile.md"
+    "AVIASYS/BigPicture.md",
+    "AVIASYS/Planning Feb 2022/Google Sheets.md",
+    "AVIASYS/Overview.md",
+    "AVIASYS/Planning Feb 2022/BigPicture for Jira and Trello.md",
+    "AVIASYS/Planning Feb 2022/LiquidPlanner.md",
+    "AVIASYS/Requirements.md",
+    "AVIASYS/Planning Feb 2022/Jira Software.md",
+    "AVIASYS/Using Jira.md",
+    "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
+    "World Building/Business and Finance/Company Management/Project Management/Project Management.md"
   ]
 }
