@@ -1,11 +1,11 @@
-Use cases:
+This method employs a linear workflow.
+
+# Use cases
 * Dreambuilding
 * Investor pitching
 
-Tools:
+# Tools and Processes
+- Gantt Charts
 
+# Software
 * Agantty
-
-Workflow:
-
-* Linear

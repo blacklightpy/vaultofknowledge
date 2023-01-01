@@ -2,13 +2,12 @@
 
 It helps accomplish the targets of a project
 
-Concepts:
+Project management itself can take any form, but sharing progress and collaborating requires commonly recognized methodologies for proper understanding.
 
 Communication - Slack/Discord (Sync) + E-Mail/Trello (Async) + Notion/Confluence (Docs)
 
 ---
-Project management itself can take any form, but sharing progress and collaborating requires commonly recognized methodologies for proper understanding.
-[[PM Software]]  
+
 ## Tools and Frameworks
 ### Frameworks
 - Waterfall
@@ -20,6 +19,7 @@ Project management itself can take any form, but sharing progress and collaborat
 - Kanban
 - Timelines
 - Todo Lists
+### [[PM Software]]
 ### Workflow Design
 - Work Breakdown Structure
 - Agile
