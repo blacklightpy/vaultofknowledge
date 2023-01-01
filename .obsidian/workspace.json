@@ -162,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a60f074faa404a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colour Models.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -210,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Spaces.md",
+                "file": "Colour Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Spaces.md",
+                "file": "Colour Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -271,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Spaces.md"
+                "file": "Colour Models.md"
               }
             }
           },
@@ -313,17 +325,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9698994d52c9a79b",
+  "active": "a60f074faa404a27",
   "lastOpenFiles": [
+    "Colour Spaces.md",
+    "Tristimulus.md",
+    "Doubts.md",
     "CIE Standard Observer.md",
     "LMS Colour Space.md",
     "CIE Photopic Luminosity Function.md",
     "CIE 1931 Colour Spaces.md",
     "Spectral Sensitivity.md",
     "Spectral Responsivity.md",
-    "Colour Spaces.md",
-    "International Commission on Illumination.md",
-    "Luminous Intensity.md",
-    "Colour Temperature.md"
+    "International Commission on Illumination.md"
   ]
 }

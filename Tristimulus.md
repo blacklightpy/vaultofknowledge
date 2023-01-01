@@ -1,0 +1,1 @@
+Tristimulus is the term given to the perception of colour from three different sensors.
