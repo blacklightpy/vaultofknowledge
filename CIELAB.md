@@ -4,4 +4,4 @@ It expresses colour as three values:
 $L^*$ - Perceptual lightness
 $a^*$ and $b^*$ - the four [[unique colours]] of human vision: red, green, blue and yellow.
 
-CIELAB
+CIELAB produces colours that are more perceptually linear than other colour spaces.
