@@ -1,4 +1,6 @@
-- [[CIE 1931 Colour Spaces]]
+- [[CIE 1931 Colour Spaces]] ($2\degree$)
 - [[CIE 1960 Uniform Colour Space]]
-- CIE 1964 Colour Space / [[CIEUVW]]
+- CIE 1964 Colour Space / [[CIEUVW]] - used less
 - [[CIE 1976 Uniform Colour Spaces]]
+	- CIELUV (based on CIEUVW)
+	- CIELAB
