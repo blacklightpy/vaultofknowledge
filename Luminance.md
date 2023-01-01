@@ -1,1 +1,1 @@
-Also known as intensity of a colour.
+Also known as lightness or intensity of a colour.

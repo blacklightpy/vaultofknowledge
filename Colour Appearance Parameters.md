@@ -1,0 +1,1 @@
+Human [[colour perception]] does not work in terms of XYZ [[tristimulus]] values, but in terms of appearance parameters ([[hue]], [[luminance]], [[brightness]], [[Colourfulness|chroma, colourfulness and saturation]])
