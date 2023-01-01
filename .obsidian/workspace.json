@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectroscopy.md",
+                "file": "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectroscopy.md",
+                "file": "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectroscopy.md",
+                "file": "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectroscopy.md"
+                "file": "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md"
               }
             }
           },
@@ -248,15 +248,15 @@
   },
   "active": "3e97df7ccac1a770",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectrometry.md",
+    "World Building/Science and Engineering/Mathematics/Development of Mathematics.md",
+    "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
     "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectroscopy.md",
+    "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectrometry.md",
     "Light Terminology.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
     "Spectral Sensitivity.md",
     "World Building/Philosophy/Draft Philosophy.md",
     "Temperature.md",
-    "Black Body.md",
-    "Black Body Radiation.md",
-    "YUV and YCbCr.md"
+    "Black Body.md"
   ]
 }

@@ -40,6 +40,7 @@
 - Inequalities
 - Linear Programming
 - Vectors, Matrices and Tensors
+- Vector Spaces
 - Flow, Divergence and Curl
 
 ## Sets and Relations
