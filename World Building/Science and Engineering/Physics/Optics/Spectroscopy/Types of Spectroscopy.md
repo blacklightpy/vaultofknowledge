@@ -1,0 +1,6 @@
+- Atomic Emission Spectroscopy
+- Radio Signal Spectroscopy
+- Astronomical Spectroscopy
+- Raman Spectroscopy
+- Nuclear Magnetic Resonance Spectroscopy
+- Photoemission Spectroscopy
