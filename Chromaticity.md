@@ -2,6 +2,8 @@ Chromaticity is an objective specification of the quality of a colour regardless
 
 [[Colourfulness]] is alternatively called saturation, chroma, intensity or [[Excitation Purity]].
 
+Simply put, while [[colour space|colour spaces]] are 3D, chromaticity is their 2D representation.
+
 Quantitatively, the the white point of an illuminant or a display is a neutral reference characterized by chromaticity, and all other chromaticities may be defined in relation to this reference using polar coordinates. The hue is the angular component and [[Excitation Purity|purity]] is the radial component.
 
 # Coordinate Systems

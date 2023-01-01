@@ -130,7 +130,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planckian Locus.md",
+                "file": "Colour Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15d50e3e720ad538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Additive Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Temperature.md",
+                "file": "Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Temperature.md",
+                "file": "Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Temperature.md"
+                "file": "Colour Space.md"
               }
             }
           },
@@ -285,17 +298,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "aaaa5b27cc64c641",
+  "active": "7a36d9f6950ca6e0",
   "lastOpenFiles": [
+    "Planckian Locus.md",
+    "Additive Colour Spaces.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Locus.md",
+    "Chromaticity.md",
+    "Colour Space.md",
+    "Colour Temperature.md",
     "Black Body.md",
     "Scotopic Vision.md",
     "Luminosity Functions.md",
-    "Photopic Vision.md",
-    "CIE Standard Observer.md",
-    "Correlated Colour Temperature.md",
-    "CIE 1931 Colour Spaces.md",
-    "Planckian Locus.md",
-    "Black Body Radiation.md",
-    "Colour Temperature.md"
+    "Photopic Vision.md"
   ]
 }

@@ -1,0 +1,1 @@
+Locus is that path traced by an object or mathematical condition.
