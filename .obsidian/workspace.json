@@ -175,22 +175,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a577086f78f07f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -256,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Space.md",
+                "file": "CIE 1960 Uniform Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Space.md",
+                "file": "CIE 1960 Uniform Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Space.md"
+                "file": "CIE 1960 Uniform Colour Space.md"
               }
             }
           },
@@ -337,10 +324,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a577086f78f07f56",
+  "active": "b19729f95b6e7319",
   "lastOpenFiles": [
-    "YIQ.md",
     "Colour Space.md",
+    "YIQ.md",
     "CIE Colour Spaces.md",
     "CIEUVW.md",
     "CIE 1960 Uniform Colour Space.md",
