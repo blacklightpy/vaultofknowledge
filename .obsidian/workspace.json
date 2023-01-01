@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
+                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
+                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
+                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/PM Software.md"
+                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   },
   "active": "6181e15e7f7951c1",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+    "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
     "AVIASYS/BigPicture.md",
     "AVIASYS/Planning Feb 2022/Google Sheets.md",
     "AVIASYS/Overview.md",
@@ -191,8 +193,6 @@
     "AVIASYS/Planning Feb 2022/LiquidPlanner.md",
     "AVIASYS/Requirements.md",
     "AVIASYS/Planning Feb 2022/Jira Software.md",
-    "AVIASYS/Using Jira.md",
-    "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
-    "World Building/Business and Finance/Company Management/Project Management/Project Management.md"
+    "AVIASYS/Using Jira.md"
   ]
 }

@@ -1,5 +1,5 @@
 Roadmaps are used to map out a project plan over time.
-They are extensively used in the [[waterfall]] model using detailed [[Gantt charts]].
+They are extensively used in the [[Waterfall]] model using detailed [[Gantt Charts]].
 
 # Use cases
 * To inform stakeholders about the progress
