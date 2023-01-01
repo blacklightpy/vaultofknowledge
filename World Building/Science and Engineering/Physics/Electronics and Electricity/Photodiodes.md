@@ -1,4 +1,5 @@
 - PN Photodiode
+- Pinned Photodiodes
 - PIN Photodiode
 	- Has an intrinsic (i-type) semiconductor region, in which the material is not doped.
 - [[Avalanche Photodiode]]
