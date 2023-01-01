@@ -271,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "munsel",
+                "query": "computer vision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -391,6 +391,8 @@
   },
   "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Chromaticity.md",
+    "Colour Space.md",
     "Colour Profiles.md",
     "CIELUV.md",
     "CIELAB.md",
@@ -398,8 +400,6 @@
     "Luminance.md",
     "Colour Difference.md",
     "Uniform Colour Spaces.md",
-    "Unique Colours.md",
-    "LMS Colour Space.md",
-    "Opponent Processes.md"
+    "Unique Colours.md"
   ]
 }

@@ -13,7 +13,9 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - Pantone
 ## Not 3-D
 **Dichromatic**
-- RG Colour Model
+- RG Colour Model for early Technicolour films
+- RGK for early colour printing
+- rg chromaticity for Computer Vision
 ## Mathematical
 ### RGB Primaries
 - Adobe RGB
@@ -27,5 +29,6 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 	- CIELAB
 		- CIELUV
 ### Special
+- rg chromaticity for Computer Vision
 - [[LMS Colour Space]]
 - TSL Colour Space - for face and skin detection
