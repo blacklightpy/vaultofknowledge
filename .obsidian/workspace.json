@@ -164,7 +164,33 @@
             }
           },
           {
-            "id": "4042210459b64bdd",
+            "id": "2908bd5eb87ce170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIE 1976 Uniform Colour Spaces.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b19729f95b6e7319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIE 1960 Uniform Colour Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c40ce2d0e7fa54a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -324,17 +350,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4042210459b64bdd",
+  "active": "2c40ce2d0e7fa54a",
   "lastOpenFiles": [
     "CIELUV.md",
+    "CIE Colour Spaces.md",
+    "CIE 1960 Uniform Colour Space.md",
+    "Colour Space.md",
+    "CIE 1931 Colour Spaces.md",
+    "CIE 1976 Uniform Colour Spaces.md",
+    "CIEUVW.md",
     "Colour Appearance Models.md",
     "Temperature.md",
-    "Uniform Colour Spaces.md",
-    "Cylindrical Colour Space Models.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
-    "Draft Philosophy.md",
-    "World Building/Philosophy/Philosophy.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "Colour Temperature.md"
+    "Uniform Colour Spaces.md"
   ]
 }

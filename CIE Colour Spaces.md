@@ -1,4 +1,4 @@
 - [[CIE 1931 Colour Spaces]]
-- CIE 1960 Colour Spaces
-- CIE 1964 Colour Spaces
-- CIE 1976 Colour Spaces
+- [[CIE 1960 Uniform Colour Space]]
+- CIE 1964 Colour Space / [[CIEUVW]]
+- [[CIE 1976 Uniform Colour Spaces]]

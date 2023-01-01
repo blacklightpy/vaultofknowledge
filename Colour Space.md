@@ -24,10 +24,11 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - ProPhoto RGB
 - DCI-P3
 - [[CIE 1931 Colour Spaces]] ($2\degree$)
-- CIE 1964 Colour Spaces ($10\degree$) - less used
-- CIE 1976 Uniform Chromaticity Diagram
+- [[CIE 1960 Uniform Colour Space]]
+- CIE 1964 Colour Space ($10\degree$) or [[CIEUVW]] - less used
+- [[CIE 1976 Uniform Colour Spaces]]
+	- CIELUV (based on CIEUVW)
 	- CIELAB
-		- CIELUV
 ### Special
 - rg chromaticity for Computer Vision
 - [[LMS Colour Space]]

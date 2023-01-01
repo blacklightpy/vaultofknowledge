@@ -1,0 +1,1 @@
+CIE 1960 UCS has been superceded by the CIE 1976 UCS
