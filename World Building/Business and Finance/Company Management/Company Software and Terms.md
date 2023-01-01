@@ -1,17 +1,14 @@
-- PM 
-- EMS (Enterprise Management Software)
-	- Not suitable for small scale companies
-	- Is more data focused (competitors and supply chain), unlike ERP that focuses on resources
-	- Types: ERP (core component that controls support systems like EDI, etc.), SCM and CRM
-	- Components: https://theegeek.com/enterprise-management-system-ems/ (EDI, Attendance MS, Document MS, CAD/CAM, Communications MS, Security MS)
-- ERP [[ERP Software]] (Consists of CRM, HR Management, Supply Chain Management, Financial Management and Production Management)
+- [[Project Management]]
+- [[Enterprise Management Software]]
+
+- [[Enterprise Resource Planning]]
 - [[Enterprise Key Management]]
 - [[Sales Force Automation]]
 - [[Product Lifecycle Management]]
-- MDM (Master Data Management)
-- CRM - Bittrix24, Zoho CRM
-- BoM - EBom, MBoM
-- BPM - Business Process Management
+- [[Master Data Management]]
+- [[Customer Relationship Management]]
+- [[Bill of Materials]] - EBom, MBoM
+- [[Business Process Management]]
 
 Aras (Aras Innovator PLM) also has a guide on systems thinking using their platform
 https://www.aras.com/en/why-aras/systems-thinking

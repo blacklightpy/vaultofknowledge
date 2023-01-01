@@ -3,8 +3,7 @@
 - PTC Windchill
 - **Autodesk Fusion 360 Manage PLM**
 	- Connects with ERP, CRM and PDM with its open API
-
-Free:
+**Free**
 - OpenBoM
 - OpenPLM
 - Aras Innovator

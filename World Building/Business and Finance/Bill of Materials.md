@@ -1,2 +1,2 @@
-- MBoM
-- EBoM
+Mechanical BoM
+EleBoM
