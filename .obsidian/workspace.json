@@ -125,6 +125,19 @@
             }
           },
           {
+            "id": "9599555f338be6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Radiometry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "19998b7301db39dd",
             "type": "leaf",
             "state": {
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photometry.md",
+                "file": "Radiometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photometry.md",
+                "file": "Radiometry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photometry.md"
+                "file": "Radiometry.md"
               }
             }
           },
@@ -286,8 +299,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "854d857b0a4d0075",
+  "active": "9599555f338be6c8",
   "lastOpenFiles": [
+    "Photometry.md",
     "Luminosity Function.md",
     "Luminous Intensity.md",
     "Colour Temperature.md",
@@ -296,7 +310,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Edge Computing.md",
     "Solar Spectrum.md",
     "Temperature.md",
-    "Draft Philosophy.md",
-    "Quantum Efficiency.md"
+    "Draft Philosophy.md"
   ]
 }
