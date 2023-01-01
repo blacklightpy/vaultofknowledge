@@ -1,0 +1,2 @@
+# Types
+- [[Descriptive Statistics]]
