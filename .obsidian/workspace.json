@@ -130,7 +130,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luminosity Function.md",
+                "file": "CIE Photopic Luminosity Function.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb116fb0905838e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIE 1931 Colour Spaces.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "549986c26f9e8348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -204,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luminosity Function.md",
+                "file": "CIE 1931 Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Luminosity Function.md",
+                "file": "CIE 1931 Colour Spaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Luminosity Function.md"
+                "file": "CIE 1931 Colour Spaces.md"
               }
             }
           },
@@ -286,17 +312,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "19998b7301db39dd",
+  "active": "bb116fb0905838e9",
   "lastOpenFiles": [
+    "Colour Spaces.md",
+    "CIE Photopic Luminosity Function.md",
+    "CIE 1931 Colour Spaces.md",
+    "International Commission on Illumination.md",
     "Luminous Intensity.md",
     "Colour Temperature.md",
     "Scotopic Vision.md",
     "Mesopic Vision.md",
     "Photopic Vision.md",
-    "Black Body.md",
-    "Single Photon Detector.md",
-    "Photodetectors.md",
-    "Photoresistors.md",
-    "Wavelength-weighted Power.md"
+    "Black Body.md"
   ]
 }
