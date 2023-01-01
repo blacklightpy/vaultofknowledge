@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8878039d1aae1808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colour Profiles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -269,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Space.md",
+                "file": "Colour Profiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Space.md",
+                "file": "Colour Profiles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Space.md"
+                "file": "Colour Profiles.md"
               }
             }
           },
@@ -350,17 +363,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cabf8f73795fb160",
+  "active": "8878039d1aae1808",
   "lastOpenFiles": [
+    "Colour Space.md",
+    "Colour Profiles.md",
+    "ICC Colour Profiles.md",
+    "International Colour Consortium.md",
     "Psychophysics.md",
     "Uniform Colour Spaces.md",
     "Colour Appearance Models.md",
-    "Colour Space.md",
     "Additive Colour Spaces.md",
-    "Colour Profiles.md",
     "Planckian Locus.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Locus.md",
-    "Chromaticity.md",
-    "Colour Temperature.md"
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Locus.md"
   ]
 }
