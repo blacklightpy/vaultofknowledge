@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Enterprise Resource Planning.md",
+                "file": "World Building/Business and Finance/Company Management/PLM Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6699c1f94f5df447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Business and Finance/Company Management/Product Lifecycle Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c445f71e8c39ebee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Business and Finance/Company Management/Company Software and Terms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Enterprise Resource Planning.md",
+                "file": "World Building/Business and Finance/Company Management/Company Software and Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Enterprise Resource Planning.md",
+                "file": "World Building/Business and Finance/Company Management/Company Software and Terms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Enterprise Resource Planning.md"
+                "file": "World Building/Business and Finance/Company Management/Company Software and Terms.md"
               }
             }
           },
@@ -168,17 +195,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "01dcf646ae654a28",
+  "active": "c445f71e8c39ebee",
   "lastOpenFiles": [
-    "World Building/Business and Finance/ERP Software.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/Information Security/Enterprise Key Management.md",
+    "World Building/Business and Finance/Company Management/Company Software and Terms.md",
+    "World Building/Business and Finance/Company Management/Product Lifecycle Management.md",
+    "World Building/Business and Finance/Company Management/Sales Force Automation.md",
+    "World Building/Business and Finance/Company Management/PLM Software.md",
+    "World Building/Business and Finance/Company Management/Enterprise Resource Planning.md",
+    "World Building/Business and Finance/Company Management/ERP Software.md",
     "World Building/Business and Finance/Project Management/The Toyota Way.md",
     "World Building/Business and Finance/Project Management/Lean.md",
-    "World Building/Business and Finance/Project Management/Software Development Lifecycle.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Testing/Tips for Testing.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Domain Driven Development.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Software Development Practices.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Microservices.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/DevOps.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md"
+    "World Building/Business and Finance/Project Management/Software Development Lifecycle.md"
   ]
 }
