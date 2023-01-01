@@ -4,7 +4,7 @@ The universe is comprised of objects and spaces around them.
 Objects can be further divided into smaller objects.
 These smaller objects are called particles.
 All objects are created by assembling particles of some form.
-All objects have common properties as everything is made of the same particles at some level.
+All objects have common properties as everything is made of the same particles at some level. This process is called inheritance.
 As objects get more complex, we use previously created objects in their modelling to reduce complexity. This is called modularity.
 Modularity increases the energy required for building an object in some instances, because it is only an approximation of the required model, and not perfect. However, in the long run, it is better to use a modular design to save time in creation.
 Properties of objects are called physics.
