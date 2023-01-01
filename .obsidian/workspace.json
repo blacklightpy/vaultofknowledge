@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data and Information Visualization.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data and Information Visualization.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data and Information Visualization.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -305,7 +305,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data and Information Visualization.md"
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md"
               }
             }
           },
@@ -348,8 +348,8 @@
   },
   "active": "390b9d85bb937135",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
     "Data and Information Visualization.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Statistics.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Descriptive Statistics.md",
     "Colour Theory/Cylindrical Colour Space Models.md",
