@@ -3,7 +3,7 @@ Things that can destroy [[Agile]]
 * Dont get caught up in functional silos (boxes)
    eg: Marketing, Engieering, Quality, Manufacturing divisions
    
-   Functions > Requirements
+- Functions > Requirements
 * Leader should optimize the transition to Agile
 * Change is difficult: Crawl > Walk > Run
 * First define previous work culture, then define what it needs to be

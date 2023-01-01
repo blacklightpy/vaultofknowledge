@@ -1,4 +1,7 @@
-This method employs a linear workflow.
+Waterfall is a project management strategy where you map out every detail of the process and plan it with detailed timelines or [[Gantt charts]].
+
+# Workflow
+- Has a linear workflow
 
 # Use cases
 * Dreambuilding

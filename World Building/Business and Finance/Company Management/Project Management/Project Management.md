@@ -1,25 +1,23 @@
-## What is the use of Project Management?
+It helps accomplish the targets of a project. Project management itself can take any form, but sharing progress and collaborating requires commonly recognized methodologies for proper understanding.
 
-It helps accomplish the targets of a project
-
-Project management itself can take any form, but sharing progress and collaborating requires commonly recognized methodologies for proper understanding.
-
-Communication - Slack/Discord (Sync) + E-Mail/Trello (Async) + Notion/Confluence (Docs)
-
----
+## Areas
+- Communication
+- Project Tracking
+- [[Roadmaps]]
 
 ## Tools and Frameworks
 ### Frameworks
-- Waterfall
-- Agile
-### Tools
-- Gantt
+- [[Waterfall]]
+- [[Agile]]
+### Planning Tools
+- Gantt Charts
 - CPM
 - PERT (PERT=(O+4ML+P)/6)
-- Kanban
+- [[Kanban]]
 - Timelines
 - Todo Lists
 ### [[PM Software]]
-### Workflow Design
+
+## Workflow Design
 - Work Breakdown Structure
 - Agile

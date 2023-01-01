@@ -8,6 +8,8 @@ Modern day software development is highly centered on agile methodologies. To im
 The agile manifesto describes 12 principles which form the philosophy of agile.
 https://agilemanifesto.org/principles.html
 
+- [[Tips on Implementing Agile]]
+
 # Use cases
 * UX improvement
 * Reverse Pitching
