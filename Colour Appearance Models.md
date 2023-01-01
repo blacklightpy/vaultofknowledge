@@ -2,7 +2,7 @@ A Colour appearance model (CAM) is a mathematical model that seeks to describe t
 
 This is different from [[colour models]] which describe colours as tuples in a coordinate space.
 
-# Phenomena
+# Phenomena to Capture
 - Chromatic adaptation
 	- It is the ability of humans to distinguish a [[white point]] (or [[colour temperature]]) of an illuminating light source when observing a reflecting object. For example, a white paper looks white no matter whether the illumination is blueish or yellowish.
 	- This is one of the most basic and most important aspect of all colour appearance phenomena
@@ -14,3 +14,5 @@ This is different from [[colour models]] which describe colours as tuples in a c
 - Spatial Phenomena or Optical Illusions
 	- They only affect certain areas of an image, and this has to do with the way the human brain interprets information contextually instead of as raw colours
 	- They are hard to model because of their contextuality, and CAMs that try to do this are called image colour appearance models (iCAM).
+## Implementations
+- CIELAB

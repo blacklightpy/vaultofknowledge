@@ -141,12 +141,43 @@
             "id": "d27201781599be47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Colour Appearance Models.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "059a54fcad608c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIELUV.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4042210459b64bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIEUVW.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -212,6 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CIEUVW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,6 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CIEUVW.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +282,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CIEUVW.md"
+              }
             }
           },
           {
@@ -289,8 +324,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d27201781599be47",
+  "active": "4042210459b64bdd",
   "lastOpenFiles": [
+    "CIELUV.md",
+    "Colour Appearance Models.md",
     "Temperature.md",
     "Uniform Colour Spaces.md",
     "Cylindrical Colour Space Models.md",
@@ -298,8 +335,6 @@
     "Draft Philosophy.md",
     "World Building/Philosophy/Philosophy.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "Colour Temperature.md",
-    "Black Body.md",
-    "Black Body Radiation.md"
+    "Colour Temperature.md"
   ]
 }
