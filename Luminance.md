@@ -1,0 +1,1 @@
+Also known as intensity of a colour.

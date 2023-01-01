@@ -1,4 +1,15 @@
-This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the X and Y coordinates, with Z being the luminance. This is also called the xyY colour space for the same reason.
+This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the 2-dimensional xyY coordinates derived from XYZ tristimulus values.
+
+The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[luminance]] of the colour. This is also called the xyY colour space for the same reason.
+
+**Derivation of xyY coordinates from XYZ tristimulus values**
+$x=\frac{X}{X+Y+Z}$
+$y=\frac{Y}{X+Y+Z}$
+$z=\frac{Z}{X+Y+Z}=1-x-y$
+
+**Getting X and Y Tristimulus values from x,y and Y**
+$X=\frac{Y}{y}x$
+$Z=\frac{Y}{y}(1-x-y)$
 
 This also solves the problem of [[imaginary colours]] in trichromatic additive spaces like RGB and [[LMS Colour Space|LMS]].
 
