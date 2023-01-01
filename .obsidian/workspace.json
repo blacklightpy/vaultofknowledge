@@ -214,22 +214,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f52ed0299d3125c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cylindrical Colour Space Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -295,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cylindrical Colour Space Models.md",
+                "file": "CIEHLC Cylindrical Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cylindrical Colour Space Models.md",
+                "file": "CIEHLC Cylindrical Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -335,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cylindrical Colour Space Models.md"
+                "file": "CIEHLC Cylindrical Models.md"
               }
             }
           },
@@ -376,9 +363,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f52ed0299d3125c7",
+  "active": "ade0a06cc8f24d69",
   "lastOpenFiles": [
-    "Cylindrical Colour Space Models.md",
+    "Colourfulness.md",
     "Cylindrical Colour Space Models.md",
     "CIEHLC Cylindrical Models.md",
     "Untitled.md",

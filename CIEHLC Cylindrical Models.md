@@ -4,7 +4,11 @@ $\text{CIELCh}_{ab}$ - Cylindrical CIELAB
 $\text{CIELCh}_{uv}$ - Cylindrical CIELUV
 
 ## Conversion
+**For CIELUV HLC**
+$C^*=\sqrt{{a^*}^2+{b^*}^2}$  
+$h\degree=atan(b^*/a^*)$ 
 
+**For CIELAB HLC:**
 $C^*=\sqrt{{a^*}^2+{b^*}^2}$  
 $h\degree=atan(b^*/a^*)$ 
 
