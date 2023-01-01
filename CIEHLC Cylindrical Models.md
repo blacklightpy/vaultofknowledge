@@ -1,7 +1,7 @@
-The CIELCh or CIEHLC is a colour space based on either [[CIELAB]] or [[CIELUV]], which uses polar coordinates $C^*$ (chroma/relative saturation) and $h\degree$ (hue angle/angle of hue in the CIELAB/CIELUV colour wheel) instead of the cartesian coordinates $a^*$ and $b^*$/$u^*$ and $v^*$. The brightness $L^*$ remains unchanged.
+The CIELCh or CIEHLC is a colour space based on either [[CIELUV]] or [[CIELAB]], which uses polar coordinates $C^*$ (chroma/relative saturation) and $h\degree$ (hue angle/angle of hue in the CIELUV/CIELAB colour wheel) instead of the cartesian coordinates $u^*$ and $v^*$/$a^*$ and $b^*$. The brightness $L^*$ remains unchanged.
 
-$CIELCh_{ab}$ - CIELAB
-$CIELCh_{uv}$ - CIELUV
+$\text{CIELCh}_{ab}$ - Cylindrical CIELAB
+$\text{CIELCh}_{uv}$ - Cylindrical CIELUV
 
 ## Conversion
 
