@@ -1,1 +1,1 @@
-HSLuv preserves the lightness and hue components of [[CIEHLC Cylindrical Models|CIELUV LCh]].
+HSLuv preserves the lightness and hue components of [[CIEHLC Cylindrical Models|CIELUV LCh]] and stretches its chroma so that every colour has the same range, defined as percentage.

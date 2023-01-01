@@ -7,6 +7,11 @@ If distance measures are perceptually uniform throughout the gamut, then the set
 
 The differences of sizes of tolerance contours signify non-uniformity of distance measures across the gamut, and that is what motivated the creation of [[CIELAB]] and [[CIELUV]]
 
-A [[Colour Appearance Models|CAM]] under a fixed viewing condition results in a UCS; a UCS with a modelling of variable viewing conditions results in a CAM.
+A [[Colour Appearance Models|CAM]] under a fixed viewing condition results in a UCS; a UCS with a modelling of variable viewing conditions results in a CAM. A UCS without such modelling can also be a rudimentary CAM.
 
-A UCS without such modelling can also be a rudimentary CAM.
+# Attempts
+- [[CIELUV]]
+- [[CIELAB]]
+- [[HSLuv]]
+- Newer Models
+	- IPT colour space of 1998
