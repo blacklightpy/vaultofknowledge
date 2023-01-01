@@ -13,7 +13,8 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 ## Mathematical
 - [[CIE Colour Spaces]]
 - [[RGB Colour Spaces|RGB Primaries]]
-- 
+- [[YUV and YCbCr]]
+- [[YIQ]]
 ### Not 3-D
 **Dichromatic**
 - RG Colour Model for early Technicolour films

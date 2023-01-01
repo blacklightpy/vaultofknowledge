@@ -1,4 +1,6 @@
 - [[CIE 1931 Colour Spaces]] ($2\degree$)
+	- CIERGB
+	- CIEXYZ
 - [[CIE 1960 Uniform Colour Space]]
 - CIE 1964 Colour Space / [[CIEUVW]] - used less
 - [[CIE 1976 Uniform Colour Spaces]]
