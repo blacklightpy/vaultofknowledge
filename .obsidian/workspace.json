@@ -203,19 +203,6 @@
             }
           },
           {
-            "id": "8878039d1aae1808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Profiles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b28c56d241e6f185",
             "type": "leaf",
             "state": {
@@ -242,12 +229,12 @@
             }
           },
           {
-            "id": "b375bafb13422d7e",
+            "id": "df551fde5a1d1e6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniform Colour Spaces.md",
+                "file": "CIELUV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -255,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -321,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniform Colour Spaces.md",
+                "file": "Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniform Colour Spaces.md",
+                "file": "Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -361,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniform Colour Spaces.md"
+                "file": "Colour Space.md"
               }
             }
           },
@@ -402,17 +389,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b375bafb13422d7e",
+  "active": "cabf8f73795fb160",
   "lastOpenFiles": [
+    "Colour Profiles.md",
+    "CIELUV.md",
     "CIELAB.md",
-    "Unique Colours.md",
+    "Lightness.md",
+    "Luminance.md",
     "Colour Difference.md",
-    "LMS Colour Space.md",
-    "Opponent Processes.md",
-    "ICC Colour Profiles.md",
-    "Profile Connection Space.md",
-    "Munsell Colour System.md",
     "Uniform Colour Spaces.md",
-    "Colour Appearance Models.md"
+    "Unique Colours.md",
+    "LMS Colour Space.md",
+    "Opponent Processes.md"
   ]
 }

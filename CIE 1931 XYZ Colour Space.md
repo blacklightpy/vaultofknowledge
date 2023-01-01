@@ -2,7 +2,7 @@ Also called CIEXYZ.
 
 This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the 2-dimensional xyY coordinates derived from XYZ tristimulus values.
 
-The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[luminance]] of the colour. This is also called the xyY colour space for the same reason.
+The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[Lightness]] of the colour. This is also called the xyY colour space for the same reason.
 
 The [[white point]] of this colour space is at (1/3, 1/3) in xyY chromaticity diagram.
 
