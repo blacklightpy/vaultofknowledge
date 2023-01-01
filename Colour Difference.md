@@ -1,0 +1,1 @@
+Colour Difference is the distance between two points in a colour gamut
