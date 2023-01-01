@@ -112,6 +112,19 @@
             }
           },
           {
+            "id": "e7cf493eee1946c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single Photon Detector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "854d857b0a4d0075",
             "type": "leaf",
             "state": {
@@ -151,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luminous Intensity.md",
+                "file": "Single Photon Detector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Luminous Intensity.md",
+                "file": "Single Photon Detector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Luminous Intensity.md"
+                "file": "Single Photon Detector.md"
               }
             }
           },
@@ -299,17 +312,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7f82411294241db6",
+  "active": "e7cf493eee1946c0",
   "lastOpenFiles": [
-    "Wavelength-weighted Power.md",
+    "Photodetectors.md",
+    "Photoresistors.md",
     "Luminous Intensity.md",
+    "Wavelength-weighted Power.md",
     "Luminosity Function.md",
     "Radiometry.md",
     "Photometry.md",
     "Colour Temperature.md",
     "Black Body.md",
-    "Internet of Things.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Edge Computing.md",
-    "Solar Spectrum.md"
+    "Internet of Things.md"
   ]
 }
