@@ -3,5 +3,5 @@ Follow the [[Nyquist-Shannon Sampling Theorem]]
 
 # Considerations
 - Quantization errors
-- 
+- Dither
 - Aliasing
