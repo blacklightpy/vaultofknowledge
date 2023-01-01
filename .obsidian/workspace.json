@@ -305,9 +305,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67772ea88d107889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colorimetry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -373,7 +386,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Lab.md",
+                "file": "Colorimetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +403,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter Lab.md",
+                "file": "Colorimetry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -413,7 +426,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunter Lab.md"
+                "file": "Colorimetry.md"
               }
             }
           },
@@ -454,10 +467,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "881ad1f3749bd4e2",
+  "active": "67772ea88d107889",
   "lastOpenFiles": [
-    "CIE 1931 XYZ Colour Space.md",
     "Hunter Lab.md",
+    "CIE 1931 XYZ Colour Space.md",
     "Opponent Processes.md",
     "Profile Connection Space.md",
     "ICC Colour Profiles.md",
