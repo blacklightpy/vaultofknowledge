@@ -1,0 +1,1 @@
+It is the quantitative study of the relationship between physical stimuli and the sensations and perceptions they create.
