@@ -197,17 +197,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b06a730b367c6138",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -273,6 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data and Information Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data and Information Visualization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -310,7 +304,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data and Information Visualization.md"
+              }
             }
           },
           {
@@ -350,8 +346,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b06a730b367c6138",
+  "active": "390b9d85bb937135",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
     "Data and Information Visualization.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Statistics.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Descriptive Statistics.md",
@@ -360,7 +357,6 @@
     "Colour Theory/Colourfulness.md",
     "Colour Theory/Chroma.md",
     "Anomalies in Human Colour Perception.md",
-    "Biology/Colour Perception.md",
-    "Colour Theory/Opponent Processes.md"
+    "Biology/Colour Perception.md"
   ]
 }
