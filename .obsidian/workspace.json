@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colour Spaces.md",
+                "file": "Colour Space.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             }
           },
           {
-            "id": "a60f074faa404a27",
+            "id": "7844a90f90cf2d86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -325,17 +325,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a60f074faa404a27",
+  "active": "7844a90f90cf2d86",
   "lastOpenFiles": [
-    "Colour Spaces.md",
+    "Colour Space.md",
+    "Colour Models.md",
+    "Gamut.md",
     "Tristimulus.md",
     "Doubts.md",
     "CIE Standard Observer.md",
     "LMS Colour Space.md",
     "CIE Photopic Luminosity Function.md",
     "CIE 1931 Colour Spaces.md",
-    "Spectral Sensitivity.md",
-    "Spectral Responsivity.md",
-    "International Commission on Illumination.md"
+    "Spectral Sensitivity.md"
   ]
 }
