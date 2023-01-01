@@ -14,4 +14,5 @@ A [[Colour Appearance Models|CAM]] under a fixed viewing condition results in a 
 - [[CIELAB]]
 - [[HSLuv]]
 - Newer Models
-	- IPT colour space of 1998
+	- IPT colour space of 1998 is uniform after cylindrical transform
+	- OKLab's CAM(CAM16)/OKLCH is uniform after cylindrical transformation
