@@ -215,8 +215,13 @@
             "id": "9395d63c8dcc26bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Creation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -286,6 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World Building/Philosophy/Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,6 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Building/Philosophy/Creation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -323,7 +330,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World Building/Philosophy/Creation.md"
+              }
             }
           },
           {
@@ -365,15 +374,15 @@
   },
   "active": "9395d63c8dcc26bc",
   "lastOpenFiles": [
+    "World Building/Philosophy/Particles.md",
+    "World Building/Philosophy/Creation.md",
+    "World Building/Philosophy/Philosophy.md",
+    "World Building/Philosophy/Presentism.md",
+    "World Building/Philosophy/Elements of the world.md",
+    "World Building/Philosophy/Creation of Drones.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
     "Mathematical Analysis.md",
     "Maths to Learn.md",
-    "World Building/Philosophy/Philosophy.md",
-    "World Building/Science and Engineering/Automotive Engineering/Vehicles.md",
-    "World Building/Philosophy/Elements of the world.md",
-    "World Building/Philosophy/Creation of Drones.md",
-    "World Building/Science and Engineering/Aerospace Engineering/Untitled.md",
-    "World Building/Science and Engineering/Physics/Work, Energy and Power/Kugelblitz.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md"
+    "World Building/Science and Engineering/Automotive Engineering/Vehicles.md"
   ]
 }
