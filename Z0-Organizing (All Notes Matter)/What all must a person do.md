@@ -10,4 +10,16 @@ Plants can be homegrown or be outsourced. There are public spots like forests as
 
 Ingredients are often processed by other people. This could mean the maintenance of the farm itself, or the work performed to convert the raw ingredients to processed ones. For this, we pay the people using currency. Currency is hence a measure of how much a person values their work.
 
-Currency is generally built on the basis of a common understanding within a community. As such, currencies and their values can vary from community to community. For exchange of currency between communities, their valuation can be evaluated by estimating trade volume. To do this, both communities give each other an equal amount of reserve currency, which is exchanged during trades. The valuation of the community currencies can be calculated by taking the ratio of the reserves held by each path.
+Currency is generally built on the basis of a common understanding within a community. As such, currencies and their values can vary from community to community. For exchange of currency between communities, their valuation can be evaluated by estimating trade volume. It can either be estimated as fixed exchange rates by backing the value with assets, or by using a floating exchange rate involving just supply and demand.
+
+In order to acquire currency, we need to do work ourselves. Working requires spending energy.
+
+Once we spend energy throughout the day, we need to recharge by eating and sleeping. Eating is done to intake new energy. Sleeping is done for maintenace of the body.
+
+While sleeping, we may also see dreams. Dreams are what allows humans to be seperate from a automatic system, and what gives meaning to life.
+
+So in addition to work for essential needs, we may also spend energy for fun activities and work for building things from our imagination.  Hence currency can also be obtained this way. In a world where we coexist, we may need to work together to build things. When we need someone to help us build something, we need to pay them for their work too.
+
+If our product is interesting to other people, they will use it by paying you for building and maintaining that product or service. Creating a product of service requires work, but after recieving the right amount of money for compensation, it is no longer necessary to charge for the product. 
+
+But this is where things can get unfair. Since money allows a person to get work and products easily, and that brings immediate happiness to an individual, people are inclined to find ways to make more money in any instance. This brings to practices like people claiming ownership over thoughts because they were the first to find it, and perpetually charging for products already compensated for in the name of the development of the idea. More money allows people to buy assets which have the potential to which they can sell later as market
