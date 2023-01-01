@@ -214,9 +214,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b28c56d241e6f185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YUV and YrBrCr.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f4f6a3c47c75424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIELAB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -282,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Profiles.md",
+                "file": "CIELAB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Profiles.md",
+                "file": "CIELAB.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -322,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Profiles.md"
+                "file": "CIELAB.md"
               }
             }
           },
@@ -363,17 +389,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8878039d1aae1808",
+  "active": "2f4f6a3c47c75424",
   "lastOpenFiles": [
-    "Colour Space.md",
+    "YUV and YrBrCr.md",
+    "CIEHLC Cylindrical Model.md",
+    "CIELAB.md",
     "Colour Profiles.md",
+    "Colour Space.md",
     "ICC Colour Profiles.md",
     "International Colour Consortium.md",
     "Psychophysics.md",
     "Uniform Colour Spaces.md",
-    "Colour Appearance Models.md",
-    "Additive Colour Spaces.md",
-    "Planckian Locus.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Locus.md"
+    "Colour Appearance Models.md"
   ]
 }
