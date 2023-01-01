@@ -10,7 +10,8 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - sRGB
 - Adobe Wide Gamut RGB
 - ProPhoto RGB
-- [[CIE 1931 Colour Spaces]]
+- [[CIE 1931 Colour Spaces]] ($2\degree$)
+- CIE 1964 Colour Spaces ($10\degree$)
 - CIE 1976 Uniform Chromaticity Diagram
 	- CIELAB
 		- CIELUV
