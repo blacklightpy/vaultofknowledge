@@ -1,1 +1,1 @@
-Energy can be displaced from one place to another. Energy is drawn to other energy sources. Energy can also repel other energy sources, but then they repel each other with the same intensity.
+Energy can be displaced from one place to another. Energy sources draw other energy sources towards itself. They can also repel other energy sources.
