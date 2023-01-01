@@ -1,4 +1,5 @@
 **Writing tests**
+- Build-in quality checking for both style and security
 - Testers should work with Devs
 - Testers are not replaceable, they know how users work
 - Testers should constantly explore and learn new skills.

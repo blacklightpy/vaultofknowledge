@@ -7,6 +7,7 @@ Handbook from Semaphore CI: https://wpblog.semaphoreci.com/wp-content/uploads/20
 	- There are development teams with broad knowledge of DevOps. There are no responsibilities like the 'security guy', 'QA guy', etc. Everyone in a pod is responsible for the pod.
 	- There are also support teams for handling CI/CD, Server, Tooling, etc. and other core systems.
 	- Teams of pods that depend on each other should coordinate with each other.
+
 - Domain Driven Development
 	- Analyzes important parameters in bounded contexts (BCs) (different contexts)
 	- Keeps a context map that connects BCs
@@ -17,15 +18,15 @@ Handbook from Semaphore CI: https://wpblog.semaphoreci.com/wp-content/uploads/20
 		- Tactical Phase
 			- We zoom into each domain to analyze the subdomains
 			- We model each BC according to the business rules of the subdomains
-- DDD is iterative
-	- DDD based microservices can be too complex, and have to be broken down
-	- Or they can be too chatty and need to be merged
-- Complementary design patterns
-	- DDD is a theory heavy model for modelling complex systems
-	- When making microservices, each team can choose either BDD or TDD
-	- TDD is faster for single microservices or a few services
-	- BDD is easier for low-to-medium complexity designs
-	- A way to use all three would be
-		- Use strategic DDD to analyze the domain
-		- Use tactical DDD for each microservice
-		- Each team can use TDD or BDD (or both) for their pods
+	- DDD is iterative
+		- DDD based microservices can be too complex, and have to be broken down
+		- Or they can be too chatty and need to be merged
+	- Complementary design patterns
+		- DDD is a theory heavy model for modelling complex systems
+		- When making microservices, each team can choose either BDD or TDD
+		- TDD is faster for single microservices or a few services
+		- BDD is easier for low-to-medium complexity designs
+		- A way to use all three would be
+			- Use strategic DDD to analyze the domain
+			- Use tactical DDD for each microservice
+			- Each team can use TDD or BDD (or both) for their pods

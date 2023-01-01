@@ -40,13 +40,9 @@ CI/CD Systems are used to speed up development and delivery.
 	- Implement metrics that help detect issues in realtime (?)
 - Developers should be able to deploy to staging for QA/manual testing
 - All deployments should only involve the click of a button
-**Picking tests**
-- Build-in quality checking - style and security
 **Testing**
 - Run fast and fundamental tests first
 - Always use same environment for testing
-**Feedback**
-- When master is broken - drop everything and fix it - keep a "no broken windows" policy
 **Triggers**
 - Include PRs, but Peer Review each PR
 - In CD - Auto Deploy PRs merged to master

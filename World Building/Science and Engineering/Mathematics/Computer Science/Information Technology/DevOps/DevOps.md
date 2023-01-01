@@ -20,9 +20,10 @@ DevOps stands for Development and Operations, which refers to the combination of
 	- Work in small batches and units. Not the fastest for large features, but it ensures testing well.
 
 # Tips
+**Development Practices**
 - Reorganize the teams to be cross-functional, removing silos and flattening heirarchies to allow for innovation.
 - Foster a DevOps work culture, where lines between developer and operation jobs are blurred.
-- Get acquainted with Domain-Driven Development, TDD and BDD
+- Get acquainted with [[Software Development Practices]] like DDD, TDD and BDD
 - Practice test-driven development to always keep the code deployable
 	- Maintain an automated test suite.
 	- Build monitoring, logging and fault tolerance by design
@@ -32,4 +33,6 @@ DevOps stands for Development and Operations, which refers to the combination of
 	- Feature branches should live no longer than a day
 	- For longer features, use feature flags
 - Transition to [[Microservices]] when it gives more performance than monoliths
+**Feedback loop**
+- When master is broken in CI, drop everything and fix it. Keep a "no broken windows" policy
 
