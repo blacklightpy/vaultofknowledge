@@ -212,46 +212,15 @@
             }
           },
           {
-            "id": "0f60053877be5d10",
+            "id": "9395d63c8dcc26bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Analysis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ea76872a755979b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths to Learn.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5ce159d09209cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automobiles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -317,7 +286,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automobiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +302,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automobiles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -356,9 +323,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Automobiles.md"
-              }
+              "state": {}
             }
           },
           {
@@ -398,17 +363,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a5ce159d09209cae",
+  "active": "9395d63c8dcc26bc",
   "lastOpenFiles": [
-    "Maths to Learn.md",
-    "Mathematical Analysis.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Delta Function.md",
+    "Mathematical Analysis.md",
+    "Maths to Learn.md",
+    "World Building/Philosophy/Philosophy.md",
+    "World Building/Science and Engineering/Automotive Engineering/Vehicles.md",
+    "World Building/Philosophy/Elements of the world.md",
+    "World Building/Philosophy/Creation of Drones.md",
+    "World Building/Science and Engineering/Aerospace Engineering/Untitled.md",
     "World Building/Science and Engineering/Physics/Work, Energy and Power/Kugelblitz.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science.md",
-    "Digital and Analog Systems.md",
-    "Data and Information Visualization.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Statistics.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Descriptive Statistics.md"
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Dirac Comb Function.md"
   ]
 }
