@@ -227,9 +227,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e29a9f22a189bcca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RGB Colour Spaces.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3f5c57a1d2086b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -295,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imaginary Colours.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imaginary Colours.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -335,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imaginary Colours.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -376,17 +402,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "80c2778fe6287e9d",
+  "active": "b3f5c57a1d2086b5",
   "lastOpenFiles": [
+    "RGB Colour Spaces.md",
+    "Transfer Function.md",
+    "Standard Illuminant.md",
+    "RGB Colour Model.md",
+    "Additive Colour Spaces.md",
+    "Imaginary Colours.md",
+    "Primary Colours.md",
     "CIE 1931 RGB Colour Space.md",
     "White Point.md",
-    "Gamut.md",
-    "LMS Colour Space.md",
-    "CIE 1931 XYZ Colour Space.md",
-    "Imaginary Colours.md",
-    "Luminance.md",
-    "CIE Colour Spaces.md",
-    "CIE 1931 Colour Spaces.md",
-    "Chromaticity.md"
+    "Gamut.md"
   ]
 }
