@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "535c2ab7bbe85184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md"
               }
             }
           },
@@ -168,8 +182,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d5c3d595eb415271",
+  "active": "535c2ab7bbe85184",
   "lastOpenFiles": [
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Java GUI Libraries.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Single Page Application.md",
@@ -178,7 +193,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/React.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Message Queues.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Frameworks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md"
   ]
 }
