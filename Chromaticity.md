@@ -1,3 +1,5 @@
 Chromaticity is an objective specification of the quality of a colour regardless of its luminance. Chromaticity consists of two independent parameters, often specified as hue (h) and colourfulness (s).
 
-Colourfulness is alternatively called saturation, chroma, intensity or [[excitation purity]].
+[[Colourfulness]] is alternatively called saturation, chroma, intensity or [[Excitation Purity]].
+
+Quantitatively, the the white point of an illuminant or a display is a neutral reference characterized by chromaticity, and all other chromaticities may be defined in relation to this reference using polar coordinates. The hue is the angular component and [[Excitation Purity|purity]] is the radial component.
