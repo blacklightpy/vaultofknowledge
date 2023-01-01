@@ -171,11 +171,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 301.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -273,8 +274,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d38042949bff9119",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "Solar Spectrum.md",
+    "Black Body.md",
     "Temperature.md",
     "Luminous Intensity.md",
     "Colour Temperature.md",
@@ -282,8 +285,6 @@
     "Quantum Efficiency.md",
     "Responsivity.md",
     "World Building/Engineering Resources/Engineering Components/Camera.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Image Sensors.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Photodiodes.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Charge-Coupled Devices.md"
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Image Sensors.md"
   ]
 }
