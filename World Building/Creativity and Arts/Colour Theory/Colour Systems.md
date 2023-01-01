@@ -1,0 +1,3 @@
+- [[Munsell Colour System]]
+- Helmholtz Colour Coordinates
+	- Chromaticity is defined by [[Hue|dominant wavelength]] and [[Excitation Purity|purity]]

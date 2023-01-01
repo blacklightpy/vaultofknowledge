@@ -1,0 +1,1 @@
+They are subsets or range of a [[Colour Space]] which can be accurately represented in a situation or in an output device.

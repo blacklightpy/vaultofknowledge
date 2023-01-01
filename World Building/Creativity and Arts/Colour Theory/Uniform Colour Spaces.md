@@ -1,4 +1,4 @@
-A uniform colour space (UCS) is a [[colour models|colour model]] that seeks to make the colour-making attributes perceptually uniform, that is identical spatial distance between two colours in a color space equals identical amount of percieved [[colour difference]].
+A uniform colour space (UCS) is a [[Colour Models|colour model]] that seeks to make the colour-making attributes perceptually uniform, that is identical spatial distance between two colours in a color space equals identical amount of percieved [[Colour Difference]].
 
 # Tolerance
 It asks the question, what is the set of colours which are acceptably close to a given reference?

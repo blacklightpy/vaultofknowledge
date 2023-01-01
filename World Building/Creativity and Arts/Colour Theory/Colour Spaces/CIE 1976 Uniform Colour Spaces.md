@@ -2,5 +2,5 @@
 	- It is better for emitting displays like monitor
 - [[CIELAB]] is recommended for coloured surfaces and dyes
 	- It is widely used in television industry and lighting
-	- It is also better for reflective surfaces illuminated by a [[standard illuminant]] like D65
+	- It is also better for reflective surfaces illuminated by a [[Standard Illuminant]] like D65
 	- LAB and D50 was chosen by [[ICC Colour Profiles]] as SPC because it was largely focused on printing

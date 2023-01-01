@@ -1,0 +1,1 @@
+They are colours that can be mixed in varying amounts to produce a [[Gamut]] of [[colours]].

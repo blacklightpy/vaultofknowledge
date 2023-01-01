@@ -1,5 +1,5 @@
 Colour spaces are generally 3-dimensional spaces that represent the [[Tristimulus]] spectral sensitvities.
-The colours are specified by a set of three numbers (e.g. CIE coordinates X,Y and Z, or values such as [[hue]], [[colourfulness]] and [[Lightness]]). There are also color spaces that are not 3-D (monochromatic, dichromatic)
+The colours are specified by a set of three numbers (e.g. CIE coordinates X,Y and Z, or values such as [[Hue]], [[Colourfulness]] and [[Lightness]]). There are also color spaces that are not 3-D (monochromatic, dichromatic)
 
 Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] Diagrams for simplicity.
 

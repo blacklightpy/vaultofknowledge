@@ -1,6 +1,6 @@
-They set the standard [[colour profiles]].
+They set the standard [[Colour Profiles]].
 
-A profile describes a mapping between a [[colour space]] and a profile connection space (PCS). PCSes are intermediate colour spaces that are used to transfer colours from one colour space to another. They are either [[CIELAB]] or [[CIE 1931 XYZ Colour Space|CIEXYZ]].1
+A profile describes a mapping between a [[Colour Space]] and a profile connection space (PCS). PCSes are intermediate colour spaces that are used to transfer colours from one colour space to another. They are either [[CIELAB]] or [[CIE 1931 XYZ Colour Space|CIEXYZ]].1
 
 **Example**
 To convert an RGB colour space to a CMYK one:

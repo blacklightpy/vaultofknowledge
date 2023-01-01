@@ -1,1 +1,0 @@
-Hue is a general term in [[colour theory]] and is specified in [[colour models]] such as HSV and HSL.
