@@ -178,7 +178,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colour Theory/Colourfulness.md",
+                "file": "Colour Theory/Cylindrical Colour Space Models.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Theory/Colourfulness.md",
+                "file": "Colour Theory/Cylindrical Colour Space Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Theory/Colourfulness.md",
+                "file": "Colour Theory/Cylindrical Colour Space Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -292,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Theory/Colourfulness.md"
+                "file": "Colour Theory/Cylindrical Colour Space Models.md"
               }
             }
           },
@@ -335,15 +335,15 @@
   },
   "active": "caea9c281f2cac3e",
   "lastOpenFiles": [
-    "Colour Theory/Chroma.md",
+    "Colour Theory/CIEHLC Cylindrical Colour Spaces.md",
+    "Colour Theory/Cylindrical Colour Space Models.md",
     "Colour Theory/Colourfulness.md",
+    "Colour Theory/Chroma.md",
     "Anomalies in Human Colour Perception.md",
     "Biology/Colour Perception.md",
     "Colour Theory/Opponent Processes.md",
     "Light Terminology.md",
     "CIE 1931 Colour Spaces.md",
-    "CIE 1931 RGB Colour Space.md",
-    "CIE Colour Spaces.md",
-    "CIE 1960 Uniform Colour Space.md"
+    "CIE 1931 RGB Colour Space.md"
   ]
 }
