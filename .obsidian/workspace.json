@@ -190,25 +190,12 @@
             }
           },
           {
-            "id": "36d93fc4d4929984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamut.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b41106171fafa180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIE 1931 XYZ Colour Space.md",
+                "file": "LMS Colour Space.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIE 1931 XYZ Colour Space.md",
+                "file": "CIE 1931 RGB Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIE 1931 XYZ Colour Space.md",
+                "file": "CIE 1931 RGB Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIE 1931 XYZ Colour Space.md"
+                "file": "CIE 1931 RGB Colour Space.md"
               }
             }
           },
@@ -389,17 +376,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b41106171fafa180",
+  "active": "9d6310626b0c83d1",
   "lastOpenFiles": [
+    "White Point.md",
+    "Gamut.md",
+    "LMS Colour Space.md",
+    "CIE 1931 XYZ Colour Space.md",
     "Imaginary Colours.md",
     "Luminance.md",
-    "CIE 1931 XYZ Colour Space.md",
     "CIE 1931 RGB Colour Space.md",
     "CIE Colour Spaces.md",
     "CIE 1931 Colour Spaces.md",
-    "Gamut.md",
-    "Chromaticity.md",
-    "Colour Space.md",
-    "Chromaticity Diagrams.md"
+    "Chromaticity.md"
   ]
 }
