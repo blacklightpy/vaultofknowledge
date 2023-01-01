@@ -1,4 +1,4 @@
-- Trichromatic is normal
+- Normal colour perception is trichromatic, with L, M and S cone cells.
 - There are tetrochromats - a small percentage of humans, almost always female
 - Color blind people are Dichromats
 - Monochromats exist too
