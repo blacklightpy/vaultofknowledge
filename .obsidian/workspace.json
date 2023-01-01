@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Standard Illuminant.md",
+                "file": "CIE 1976 Uniform Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Standard Illuminant.md",
+                "file": "CIE 1976 Uniform Colour Spaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Standard Illuminant.md"
+                "file": "CIE 1976 Uniform Colour Spaces.md"
               }
             }
           },
@@ -350,8 +350,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2c40ce2d0e7fa54a",
+  "active": "2908bd5eb87ce170",
   "lastOpenFiles": [
+    "Standard Illuminant.md",
+    "Lookup Tables.md",
     "CIE 1976 Uniform Colour Spaces.md",
     "CIE Colour Spaces.md",
     "CIEUVW.md",
@@ -359,8 +361,6 @@
     "CIE 1960 Uniform Colour Space.md",
     "Colour Space.md",
     "CIE 1931 Colour Spaces.md",
-    "Colour Appearance Models.md",
-    "Temperature.md",
-    "Uniform Colour Spaces.md"
+    "Colour Appearance Models.md"
   ]
 }

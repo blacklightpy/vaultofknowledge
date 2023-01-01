@@ -7,7 +7,7 @@ A standard illuminant is a theoretical source of visible light with a spectral p
 - Illuminants B and C
 - Illuminant series D
 	- D50 (5000K)
-	- D65 (6500K)
+	- D65 (6500K) - CIE Standard for displays and sRGB.
 - Illuminant E
 - Illuminant series F - represent various types of [[flourescence|flourescent]] lighting.
 - Illuminant series LED
