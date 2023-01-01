@@ -71,9 +71,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f32a060961786d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temperature.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d38042949bff9119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Black Body.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f82411294241db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Luminous Intensity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19998b7301db39dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colour Temperature.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -102,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "security",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft Philosophy.md",
+                "file": "Black Body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft Philosophy.md",
+                "file": "Black Body.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft Philosophy.md"
+                "file": "Black Body.md"
               }
             }
           },
@@ -221,17 +273,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "d38042949bff9119",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Image Sensors.md",
+    "Temperature.md",
+    "Luminous Intensity.md",
+    "Colour Temperature.md",
     "Draft Philosophy.md",
+    "Quantum Efficiency.md",
+    "Responsivity.md",
+    "World Building/Engineering Resources/Engineering Components/Camera.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Image Sensors.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Photodiodes.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Charge-Coupled Devices.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/CMOS APS.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Complimentary MOS.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/N-type MOS.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Metal Oxide Semiconductor.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Active-Pixel Sensor.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Transistors.md"
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Charge-Coupled Devices.md"
   ]
 }
