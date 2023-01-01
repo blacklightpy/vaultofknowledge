@@ -1,0 +1,1 @@
+[[Complimentary MOS]] [[Active-Pixel Sensor]], also known as CMOS Sensors are a type of image sensors.

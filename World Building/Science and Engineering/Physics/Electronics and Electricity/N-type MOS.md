@@ -1,0 +1,1 @@
+N-type [[Metal Oxide Semiconductor]] (NMOS)

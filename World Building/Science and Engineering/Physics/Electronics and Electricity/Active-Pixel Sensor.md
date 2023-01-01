@@ -1,0 +1,1 @@
+Active-Pixel Sensor (APS)

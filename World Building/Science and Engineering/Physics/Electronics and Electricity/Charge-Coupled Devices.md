@@ -1,0 +1,1 @@
+Charge-Coupled Devices (CCD)
