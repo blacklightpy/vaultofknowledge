@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Cloud Computing/Function as a Service.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82029a380575b6bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Cloud Computing/Software as a Service.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Cloud Computing/Software as a Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Cloud Computing/Software as a Service.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Cloud Computing/Software as a Service.md"
               }
             }
           },
@@ -182,17 +195,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "82029a380575b6bb",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Cloud Computing/Function as a Service.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Intrusion Prevention System.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Z1-Inbox/On chasing experiences.md",
     "Z1-Inbox/What science is.md",
     "AVIASYS/Selected Software Candidates.md",
     "AVIASYS/Software Requirements.md",
-    "AVIASYS/Teams.md",
-    "AVIASYS/Testing Software/BigPicture for Jira and Trello.md",
-    "AVIASYS/Using Jira.md"
+    "AVIASYS/Teams.md"
   ]
 }
