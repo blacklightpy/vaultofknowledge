@@ -2,7 +2,7 @@
 **Open Source**
 - Bittrix24
 - ERPNext - Modular
+- Odoo
 - Dolibarr
 
-Simple: ERPNext, Odoo
 ## Components of ERP
