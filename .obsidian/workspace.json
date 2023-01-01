@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "535c2ab7bbe85184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "12e3035c46da34cc",
             "type": "leaf",
             "state": {
@@ -125,51 +112,12 @@
             }
           },
           {
-            "id": "7a36d9f6950ca6e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15d50e3e720ad538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Additive Colour Spaces.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f69743e8f25aeefb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Appearance Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea107b2651274016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uniform Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,33 +138,15 @@
             }
           },
           {
-            "id": "c46969994350b676",
+            "id": "d27201781599be47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIELAB.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ade0a06cc8f24d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIEHLC Cylindrical Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -282,7 +212,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIEHLC Cylindrical Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +228,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIEHLC Cylindrical Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -321,9 +249,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CIEHLC Cylindrical Models.md"
-              }
+              "state": {}
             }
           },
           {
@@ -363,17 +289,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ade0a06cc8f24d69",
+  "active": "d27201781599be47",
   "lastOpenFiles": [
-    "Colourfulness.md",
-    "Cylindrical Colour Space Models.md",
-    "CIEHLC Cylindrical Models.md",
-    "Untitled.md",
+    "Temperature.md",
     "Uniform Colour Spaces.md",
-    "YUV and YCbCr.md",
-    "CIELAB.md",
-    "HSLuv.md",
-    "Psychophysics.md",
-    "Colour Space.md"
+    "Cylindrical Colour Space Models.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
+    "Draft Philosophy.md",
+    "World Building/Philosophy/Philosophy.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Colour Temperature.md",
+    "Black Body.md",
+    "Black Body Radiation.md"
   ]
 }
