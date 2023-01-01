@@ -318,9 +318,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d697283a89d8c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uniform Colour Spaces.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -387,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Munsell Colour System.md",
+                "file": "Uniform Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Munsell Colour System.md",
+                "file": "Uniform Colour Spaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -427,7 +440,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Munsell Colour System.md"
+                "file": "Uniform Colour Spaces.md"
               }
             }
           },
@@ -468,17 +481,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1a8f9e9d7fe3e7c2",
+  "active": "9d697283a89d8c30",
   "lastOpenFiles": [
+    "Colour Difference.md",
+    "Uniform Colour Spaces.md",
+    "Colour Appearance Parameters.md",
+    "Untitled.md",
+    "Munsell Colour System.md",
     "Colour Systems.md",
     "Colour Space.md",
-    "Munsell Colour System.md",
     "Hunter Lab.md",
     "Colorimetry.md",
-    "Spectrophotometry.md",
-    "Photometry.md",
-    "Luminance.md",
-    "Brightness.md",
-    "Luminous Flux.md"
+    "Spectrophotometry.md"
   ]
 }
