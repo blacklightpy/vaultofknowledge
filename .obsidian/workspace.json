@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luminosity Function.md",
+                "file": "Luminous Intensity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radiometry.md",
+                "file": "Luminous Intensity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radiometry.md",
+                "file": "Luminous Intensity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radiometry.md"
+                "file": "Luminous Intensity.md"
               }
             }
           },
@@ -299,17 +299,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9599555f338be6c8",
+  "active": "7f82411294241db6",
   "lastOpenFiles": [
-    "Photometry.md",
-    "Luminosity Function.md",
+    "Wavelength-weighted Power.md",
     "Luminous Intensity.md",
+    "Luminosity Function.md",
+    "Radiometry.md",
+    "Photometry.md",
     "Colour Temperature.md",
     "Black Body.md",
     "Internet of Things.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Edge Computing.md",
-    "Solar Spectrum.md",
-    "Temperature.md",
-    "Draft Philosophy.md"
+    "Solar Spectrum.md"
   ]
 }
