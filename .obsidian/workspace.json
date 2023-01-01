@@ -242,51 +242,12 @@
             }
           },
           {
-            "id": "897ae29c8905cbe2",
+            "id": "b375bafb13422d7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unique Colours.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e87ac665f0c77cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Difference.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7cf79e68e401381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opponent Processes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e174f875db10a5e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICC Colour Profiles.md",
+                "file": "Uniform Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -294,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -360,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICC Colour Profiles.md",
+                "file": "Uniform Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICC Colour Profiles.md",
+                "file": "Uniform Colour Spaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -400,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICC Colour Profiles.md"
+                "file": "Uniform Colour Spaces.md"
               }
             }
           },
@@ -441,17 +402,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e174f875db10a5e6",
+  "active": "b375bafb13422d7e",
   "lastOpenFiles": [
+    "CIELAB.md",
+    "Unique Colours.md",
+    "Colour Difference.md",
+    "LMS Colour Space.md",
     "Opponent Processes.md",
-    "Profile Connection Space.md",
     "ICC Colour Profiles.md",
+    "Profile Connection Space.md",
     "Munsell Colour System.md",
     "Uniform Colour Spaces.md",
-    "Colour Difference.md",
-    "Colour Appearance Models.md",
-    "Colour Models.md",
-    "Colour Appearance Parameters.md",
-    "Untitled.md"
+    "Colour Appearance Models.md"
   ]
 }
