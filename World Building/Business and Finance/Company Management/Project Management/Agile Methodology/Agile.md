@@ -1,4 +1,4 @@
-Agile is a project management methodology that derives from modern development practices such as [[Lean]]. It basically involves fast feedback loops and iterative development in contrast to the [[waterfall]] method, where everything follows a pre-defined path from start to finish. 
+Agile is a project management methodology that derives from modern development practices such as [[Lean]]. It basically involves fast feedback loops and iterative development in contrast to the [[Waterfall]] method, where everything follows a pre-defined path from start to finish. 
 
 Modern day software development is highly centered on agile methodologies. To implement a proper agile environment, it is necessary to understand the philosophy behind agile in addition to the systems.
 

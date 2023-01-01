@@ -5,11 +5,6 @@ It helps accomplish the targets of a project
 Concepts:
 
 Communication - Slack/Discord (Sync) + E-Mail/Trello (Async) + Notion/Confluence (Docs)
-PM - Agile/Waterfall
-CRM
-PLM - CAx, BoM (EBoM, MBoM)
-PDM - Reference Mangement
-ERP - Financial Planning
 
 ---
 Project management itself can take any form, but sharing progress and collaborating requires commonly recognized methodologies for proper understanding.

@@ -39,7 +39,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab8509530bf6c4eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b0f00a99f007fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Business and Finance/Company Management/Tools/Product Lifecycle Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Traditional Company Roles.md"
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md"
               }
             }
           },
@@ -195,17 +221,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "ab8509530bf6c4eb",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
     "World Building/Business and Finance/Company Management/Company Management Terms and Software.md",
-    "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
-    "World Building/Business and Finance/Bill of Engineering.md",
-    "World Building/Business and Finance/Designing a Custom Enterprise Software.md",
-    "World Building/Business and Finance/Company Management/Tools/Customer Relationship Management.md",
-    "World Building/Business and Finance/Company Management/Bill of Materials.md",
-    "World Building/Business and Finance/Company Management/Product Lifecycle Management.md",
-    "World Building/Business and Finance/Company Management/Master Data Management.md",
-    "World Building/Business and Finance/Company Management/Tools/Enterprise Resource Planning.md",
-    "World Building/Business and Finance/Company Management/Tools/CRM Software.md"
+    "World Building/Business and Finance/Company Management/Tools/Product Data Management.md",
+    "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+    "World Building/Business and Finance/Company Management/Tools/Product Lifecycle Management.md",
+    "World Building/Business and Finance/Company Management/Project Management/Project Management Overview.md",
+    "World Building/Business and Finance/Company Management/Project Management/Key differences between Hardware and Software.md",
+    "World Building/Business and Finance/Minimum Viable Product.md",
+    "World Building/Business and Finance/Money.md",
+    "World Building/Business and Finance/Company Management/Tools/ERP Software.md"
   ]
 }
