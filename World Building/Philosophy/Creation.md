@@ -6,9 +6,9 @@ These smaller objects are called particles.
 All objects are created by assembling particles of some form.
 All objects have common properties as everything is made of the same particles at some level. This process is called inheritance.
 As objects get more complex, we use previously created objects in their modelling to reduce complexity. This is called modularity.
-Modularity increases the energy required for building an object in some instances, because it is only an approximation of the required model, and not perfect. However, in the long run, it is better to use a modular design to save time in creation.
+Modularity increases the energy required for building an object in some instances, because it is only an approximation of the required model, and not perfect. However, in the long run, it is better to use a modular design to save time in creation. Perfect also doesn't always exist, because at a basic level, there are multiple ways of doing something, all with different advantages and disadvantages you can't choose from. In that case, decisions have to be made using a choice.
 Properties of objects are called physics.
-Properties of interactions between particles at the lowest level are called alchemy or chemistry.
+Properties of interactions between particles is called alchemy or chemistry.
 Creation comes from imagination and the representation of a dream is called art.
 The creation of an object from an idea is called craft.
 Objects have a definition and colour.
