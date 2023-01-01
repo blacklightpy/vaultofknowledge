@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -184,8 +184,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -245,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md"
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md"
               }
             }
           },
@@ -286,17 +285,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a37fcb56b176e113",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Heaveside Step Function.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Cauchy Principal Value.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Distributions.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Heaveside Step Function.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
     "Light Terminology.md",
     "Colour Theory/Cylindrical Colour Space Models.md",
     "Black Body.md",
     "World Building/Philosophy/Creation.md",
     "World Building/Philosophy/Particles.md",
-    "World Building/Philosophy/Philosophy.md",
-    "World Building/Philosophy/Presentism.md"
+    "World Building/Philosophy/Philosophy.md"
   ]
 }
