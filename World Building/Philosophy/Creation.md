@@ -2,7 +2,7 @@ Creation begins with [[Particles]].
 Particles are unit forms of materials.
 Particles can be further divided into smaller particles.
 All objects are created by assembling particles of some form.
-For this reason, things have common properties.
+All objects have common properties as everything is made of the same particles at some level.
 As objects get more complex, we use previously created objects in their modelling to reduce complexity. This is called modularity.
 Modularity increases the energy required for building an object in some instances, because it is only an approximation of the required model, and not perfect. However, in the long run, it is better to use a modular design to save time in creation.
 Properties of objects are called physics.
