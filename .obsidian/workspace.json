@@ -149,19 +149,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d53b0941e3be3f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Profiles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 9
@@ -313,10 +300,10 @@
   },
   "active": "7a36d9f6950ca6e0",
   "lastOpenFiles": [
+    "Additive Colour Spaces.md",
     "Colour Profiles.md",
     "Colour Space.md",
     "Planckian Locus.md",
-    "Additive Colour Spaces.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Locus.md",
     "Chromaticity.md",
     "Colour Temperature.md",
