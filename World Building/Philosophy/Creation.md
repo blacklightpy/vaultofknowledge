@@ -1,6 +1,8 @@
-Creation begins with [[Particles]].
-Particles are unit forms of materials.
-Particles can be further divided into smaller particles.
+Everything is made of Energy.
+Creation begins with objects.
+The universe is comprised of objects and spaces around them.
+Objects can be further divided into smaller objects.
+These smaller objects are called particles.
 All objects are created by assembling particles of some form.
 All objects have common properties as everything is made of the same particles at some level.
 As objects get more complex, we use previously created objects in their modelling to reduce complexity. This is called modularity.
