@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "White Point.md",
+                "file": "Standard Illuminant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "White Point.md",
+                "file": "Standard Illuminant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "White Point.md",
+                "file": "Standard Illuminant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "White Point.md"
+                "file": "Standard Illuminant.md"
               }
             }
           },
@@ -339,6 +339,7 @@
   },
   "active": "1ed5575918b2fcbe",
   "lastOpenFiles": [
+    "White Point.md",
     "LMS Colour Space.md",
     "CIE 1931 RGB Colour Space.md",
     "Imaginary Colours.md",
@@ -347,7 +348,6 @@
     "Gamma.md",
     "Transfer Function.md",
     "Standard Illuminant.md",
-    "RGB Colour Model.md",
-    "Additive Colour Spaces.md"
+    "RGB Colour Model.md"
   ]
 }
