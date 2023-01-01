@@ -188,74 +188,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b41106171fafa180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LMS Colour Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d6310626b0c83d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIE 1931 RGB Colour Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80c2778fe6287e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Imaginary Colours.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e29a9f22a189bcca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RGB Colour Spaces.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f5c57a1d2086b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -321,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "White Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "White Point.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -361,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "White Point.md"
               }
             }
           },
@@ -402,17 +337,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b3f5c57a1d2086b5",
+  "active": "1ed5575918b2fcbe",
   "lastOpenFiles": [
+    "LMS Colour Space.md",
+    "CIE 1931 RGB Colour Space.md",
+    "Imaginary Colours.md",
     "RGB Colour Spaces.md",
+    "Tone Response Curve.md",
+    "Gamma.md",
     "Transfer Function.md",
     "Standard Illuminant.md",
     "RGB Colour Model.md",
-    "Additive Colour Spaces.md",
-    "Imaginary Colours.md",
-    "Primary Colours.md",
-    "CIE 1931 RGB Colour Space.md",
-    "White Point.md",
-    "Gamut.md"
+    "Additive Colour Spaces.md"
   ]
 }
