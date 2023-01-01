@@ -1,0 +1,1 @@
+It refers to vision under brightly lit conditions
