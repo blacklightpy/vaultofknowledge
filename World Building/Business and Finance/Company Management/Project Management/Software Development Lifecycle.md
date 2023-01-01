@@ -2,7 +2,7 @@
 - Waterfall
 - Agile
 - Spiral
-- DevOps
+- [[DevOps]]
 
 ## Steps involved in SDLC models
 1. Requirements Gathering

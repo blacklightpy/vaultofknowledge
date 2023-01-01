@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md"
+                "file": "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md"
               }
             }
           },
@@ -168,17 +168,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d5c3d595eb415271",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Company Management/Project Management/Differences between Hardware and Software projects.md",
+    "World Building/Business and Finance/Company Management/Project Management/Managing Hardware Projects.md",
+    "World Building/Business and Finance/Company Management/Traditional Company Roles.md",
+    "World Building/Business and Finance/Company Management/Project Management/Methods/Waterfall.md",
+    "World Building/Business and Finance/Company Management/Project Management/Roadmaps.md",
     "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "AVIASYS/Reading on Agile/Articles on Aglie.md",
-    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile.md",
-    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Tips on Implementing Agile.md",
-    "AVIASYS/Reading on Agile/Ideas.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/What is Agile.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Implementing Agile.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Agile Product Development.md"
+    "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
+    "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Tips on Implementing Agile.md",
+    "AVIASYS/Reading on Agile/Ideas.md"
   ]
 }
