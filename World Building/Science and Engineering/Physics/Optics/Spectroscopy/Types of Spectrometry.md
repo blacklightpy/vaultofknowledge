@@ -1,0 +1,1 @@
+Spectrometry is the application of spectroscopy.
