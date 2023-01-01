@@ -227,9 +227,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05316d7a6b982cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cylindrical Colour Space Models.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -295,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCL Colour Space.md",
+                "file": "Cylindrical Colour Space Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCL Colour Space.md",
+                "file": "Cylindrical Colour Space Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -335,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCL Colour Space.md"
+                "file": "Cylindrical Colour Space Models.md"
               }
             }
           },
@@ -376,17 +389,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f52ed0299d3125c7",
+  "active": "05316d7a6b982cb7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Cylindrical Colour Space Models.md",
+    "HCL Colour Space.md",
     "CIEHLC Cylindrical Models.md",
     "Uniform Colour Spaces.md",
     "YUV and YCbCr.md",
     "CIELAB.md",
     "HSLuv.md",
     "Psychophysics.md",
-    "Colour Space.md",
-    "CIELUV.md",
-    "Hunter Lab.md",
-    "Chromaticity.md"
+    "Colour Space.md"
   ]
 }
