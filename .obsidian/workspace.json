@@ -221,20 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HCL Colour Space.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05316d7a6b982cb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HCL Colour Space.md",
+                "file": "Cylindrical Colour Space Models.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -308,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HCL Colour Space.md",
+                "file": "Cylindrical Colour Space Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HCL Colour Space.md",
+                "file": "Cylindrical Colour Space Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HCL Colour Space.md"
+                "file": "Cylindrical Colour Space Models.md"
               }
             }
           },
@@ -389,10 +376,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05316d7a6b982cb7",
+  "active": "f52ed0299d3125c7",
   "lastOpenFiles": [
     "Cylindrical Colour Space Models.md",
-    "HCL Colour Space.md",
+    "Cylindrical Colour Space Models.md",
     "CIEHLC Cylindrical Models.md",
     "Untitled.md",
     "Uniform Colour Spaces.md",

@@ -1,2 +1,7 @@
-- HSL and HSV - of [[RGB Colour Spaces]]
-- [[HCL Colour Space|HCL]] or LCh - Generalized cylindrical transformations for [[CIELUV]], [[CIELAB]], etc.
+[[Hue]]-[[Colourfulness|Chroma]]-[[Lightness|Luminance]] (HCL) or LCh refers to cylindrical colour space models that are designed to accord with human perception of colour with three parameters.
+
+Example: HSL and HSV are HCL transformations of [[RGB Colour Spaces]]
+
+They are popular in information visualization to present data without the bias implicit in varying saturation.
+
+They are designed to have the characteristics of both the cylindrical translations of the [[RGB Colour Spaces|RGB Colour Space]], such as HSL and HSV, and the [[CIELAB]] colour space.
