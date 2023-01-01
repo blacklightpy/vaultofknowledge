@@ -10,4 +10,4 @@ Plants can be homegrown or be outsourced. There are public spots like forests as
 
 Ingredients are often processed by other people. This could mean the maintenance of the farm itself, or the work performed to convert the raw ingredients to processed ones. For this, we pay the people using currency. Currency is hence a measure of how much a person values their work.
 
-Currency is generally built on the basis of a common understanding within a community. As such, currencies and their values can vary from community to community. For exchange of currency between 
+Currency is generally built on the basis of a common understanding within a community. As such, currencies and their values can vary from community to community. For exchange of currency between communities, their valuation can be evaluated by estimating trade volume. To do this, both communities give each other an equal amount of reserve currency, which is exchanged during trades. The valuation of the community currencies can be calculated by taking the ratio of the reserves held by each path.
