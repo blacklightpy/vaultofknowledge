@@ -7,3 +7,7 @@ They are [[Photopic Vision|photopic]] (brightly lit) and [[Scotopic Vision|scoto
 Generally, luminosity function is used to mean the photopic luminosity function.
 This is same as the [[CIE Standard Observer]]
 Denoted as: $V(\lambda)$, $\bar{y}(\lambda)$
+
+## CIE Scotopic Luminosity Function
+The standard scotopic luminosity function was adopted by the CIE in 1951, based on the measurements by Wald and Crawford.
+Denoted as: $V'(\lambda)$ 
