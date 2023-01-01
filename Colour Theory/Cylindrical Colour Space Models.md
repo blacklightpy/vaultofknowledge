@@ -2,6 +2,8 @@
 
 Example: HSL and HSV are HCL transformations of [[RGB Colour Spaces]]
 
+Representations: HCL, HLC, LCh, LCh(ab), LCH
+
 They are popular in information visualization to present data without the bias implicit in varying saturation.
 
 They are designed to have the characteristics of both the cylindrical translations of the [[RGB Colour Spaces|RGB Colour Space]], such as HSL and HSV, and the [[CIELAB]] colour space.
