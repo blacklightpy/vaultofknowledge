@@ -86,19 +86,6 @@
             }
           },
           {
-            "id": "ba9afd9da0922c10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectroscopy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a37fcb56b176e113",
             "type": "leaf",
             "state": {
@@ -112,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -259,7 +246,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ba9afd9da0922c10",
+  "active": "3e97df7ccac1a770",
   "lastOpenFiles": [
     "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectrometry.md",
     "World Building/Science and Engineering/Physics/Optics/Spectroscopy/Types of Spectroscopy.md",
