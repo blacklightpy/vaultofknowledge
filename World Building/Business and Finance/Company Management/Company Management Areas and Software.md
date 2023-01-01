@@ -1,4 +1,4 @@
-- [[World Building/Business and Finance/Company Management/Project Management/Project Management]]
+- [[Project Management]] 
 - [[Requirements Management]]
 - [[Product Lifecycle Management]]
 

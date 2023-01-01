@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e685982a1c7873",
+        "id": "1d1f49d6b4705030",
         "type": "tabs",
         "children": [
           {
-            "id": "ab8509530bf6c4eb",
+            "id": "d5c3d595eb415271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AVIASYS/Using Jira.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6181e15e7f7951c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Company Management Areas and Software.md"
+                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md"
               }
             }
           },
@@ -182,17 +168,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6181e15e7f7951c1",
+  "active": "d5c3d595eb415271",
   "lastOpenFiles": [
-    "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
-    "World Building/Business and Finance/Company Management/Project Management/PM Software.md",
-    "AVIASYS/BigPicture.md",
-    "AVIASYS/Planning Feb 2022/Google Sheets.md",
-    "AVIASYS/Overview.md",
-    "AVIASYS/Planning Feb 2022/BigPicture for Jira and Trello.md",
-    "AVIASYS/Planning Feb 2022/LiquidPlanner.md",
-    "AVIASYS/Requirements.md",
-    "AVIASYS/Planning Feb 2022/Jira Software.md",
-    "AVIASYS/Using Jira.md"
+    "AVIASYS/Reading on Agile/Articles on Aglie.md",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile.md",
+    "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Tips on Implementing Agile.md",
+    "AVIASYS/Reading on Agile/Ideas.md",
+    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/What is Agile.md",
+    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Implementing Agile.md",
+    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Agile Product Development.md",
+    "AVIASYS/Planning Feb 2022/Trello.md",
+    "AVIASYS/Planning Feb 2022/Shortcut.com.md",
+    "AVIASYS/Planning Feb 2022/Google Sheets.md"
   ]
 }

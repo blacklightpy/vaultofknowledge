@@ -8,12 +8,9 @@
 - Refreshment breaks
 - Follow procedure under stress
 
-According to TCGen's guide \[PDF Downloaded\]
+According to TCGen's guide:
 
-Old methodology:
-
-![[Old Product Development Methodology.png]]
-
-New methodology with Agile:
-
-![[New Product Development with Agile.png]]
+- Old methodology:
+	- ![[Old Product Development Methodology.png]]
+- New methodology with Agile:
+	- ![[New Product Development with Agile.png]]

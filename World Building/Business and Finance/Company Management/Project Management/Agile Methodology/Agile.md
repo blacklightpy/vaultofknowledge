@@ -7,6 +7,11 @@ Modern day software development is highly centered on agile methodologies. To im
 # Philosophy
 The agile manifesto describes 12 principles which form the philosophy of agile.
 https://agilemanifesto.org/principles.html
+Some of them are:
+- Individuals and interactions over processes and tools  
+- Working software over comprehensive documentation  
+- Customer collaboration over contract negotiation  
+- Responding to change over following a plan
 
 - [[Tips on Implementing Agile]]
 
@@ -29,3 +34,9 @@ https://agilemanifesto.org/principles.html
 * Mix team skills in
 * Incorporate feedback from stakeholders during process
 * No stress of final deadline
+
+# Roles
+- Users - Submit Stories
+- Product Owner - Create User Stories, Rank stories
+- Teams - Insert stories into sprints
+- Scrum Master - Break stories into tasks
