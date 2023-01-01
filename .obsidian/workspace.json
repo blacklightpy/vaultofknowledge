@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AVIASYS/Selected Software Candidates.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6487aeede4434b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incident management",
+                "query": "security",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AVIASYS/Selected Software Candidates.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AVIASYS/Selected Software Candidates.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AVIASYS/Selected Software Candidates.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Information Technology/DevOps/Security/VPS Security.md"
               }
             }
           },
@@ -170,15 +184,15 @@
   },
   "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "AVIASYS/Software Requirements.md",
+    "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Intrusion Prevention System.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Z1-Inbox/On chasing experiences.md",
+    "Z1-Inbox/What science is.md",
     "AVIASYS/Selected Software Candidates.md",
+    "AVIASYS/Software Requirements.md",
     "AVIASYS/Teams.md",
     "AVIASYS/Testing Software/BigPicture for Jira and Trello.md",
-    "AVIASYS/Using Jira.md",
-    "AVIASYS/Project Management Ideas.md",
-    "AVIASYS/Reasons for absences.md",
-    "AVIASYS/Using Scrum Methodology.md",
-    "World Building/Business and Finance/Company Management/Designing a Custom Enterprise Software.md",
-    "World Building/Business and Finance/Company Management/Project Management/Software Development Lifecycle.md"
+    "AVIASYS/Using Jira.md"
   ]
 }
