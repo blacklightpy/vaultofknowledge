@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIE 1976 Uniform Colour Spaces.md",
+                "file": "Lookup Tables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIE 1976 Uniform Colour Spaces.md",
+                "file": "Lookup Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIE 1976 Uniform Colour Spaces.md",
+                "file": "Lookup Tables.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIE 1976 Uniform Colour Spaces.md"
+                "file": "Lookup Tables.md"
               }
             }
           },
@@ -352,15 +352,15 @@
   },
   "active": "2908bd5eb87ce170",
   "lastOpenFiles": [
+    "Colour Profiles.md",
+    "CIE 1976 Uniform Colour Spaces.md",
+    "CIE 1960 Uniform Colour Space.md",
     "Standard Illuminant.md",
     "Lookup Tables.md",
-    "CIE 1976 Uniform Colour Spaces.md",
     "CIE Colour Spaces.md",
     "CIEUVW.md",
     "CIELUV.md",
-    "CIE 1960 Uniform Colour Space.md",
     "Colour Space.md",
-    "CIE 1931 Colour Spaces.md",
-    "Colour Appearance Models.md"
+    "CIE 1931 Colour Spaces.md"
   ]
 }

@@ -1,1 +1,1 @@
-Lookup Tables (LUTs)
+Lookup Tables (LUTs) are 
