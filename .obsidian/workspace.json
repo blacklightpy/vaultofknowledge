@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md",
+                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile for Hardware.md"
+                "file": "World Building/Business and Finance/Company Management/Project Management/Project Management.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "d5c3d595eb415271",
   "lastOpenFiles": [
+    "World Building/Business and Finance/Company Management/Project Management/Differences between Hardware and Software projects.md",
+    "World Building/Business and Finance/Company Management/Project Management/Project Management.md",
+    "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "AVIASYS/Reading on Agile/Articles on Aglie.md",
     "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Agile.md",
     "World Building/Business and Finance/Company Management/Project Management/Agile Methodology/Tips on Implementing Agile.md",
     "AVIASYS/Reading on Agile/Ideas.md",
     "AVIASYS/Reading on Agile/TcGen's Guide on Agile/What is Agile.md",
     "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Implementing Agile.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Agile Product Development.md",
-    "AVIASYS/Planning Feb 2022/Trello.md",
-    "AVIASYS/Planning Feb 2022/Shortcut.com.md",
-    "AVIASYS/Planning Feb 2022/Google Sheets.md"
+    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Agile Product Development.md"
   ]
 }

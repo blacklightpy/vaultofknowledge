@@ -7,8 +7,14 @@ It helps accomplish the targets of a project. Project management itself can take
 
 ## Tools and Frameworks
 ### Frameworks
+**Popular**
 - [[Waterfall]]
 - [[Agile]]
+**More**
+- [[The Toyota Way]]
+- [[Lean]]
+- [[Six Sigma]]
+
 ### Planning Tools
 - Gantt Charts
 - CPM
