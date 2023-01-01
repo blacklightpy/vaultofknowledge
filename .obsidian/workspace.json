@@ -169,15 +169,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colour Models.md",
+                "file": "Excitation Purity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ed5575918b2fcbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "White Point.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f41e014410130e07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -243,7 +264,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +280,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -282,9 +301,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Colour Models.md"
-              }
+              "state": {}
             }
           },
           {
@@ -325,17 +342,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7844a90f90cf2d86",
+  "active": "f41e014410130e07",
   "lastOpenFiles": [
     "Colour Space.md",
-    "Colour Models.md",
+    "White Point.md",
     "Excitation Purity.md",
+    "Colour Systems.md",
+    "Colour Models.md",
     "Saturation.md",
     "Gamut.md",
     "Chromaticity.md",
     "Colourfulness.md",
-    "Hue.md",
-    "Tristimulus.md",
-    "Doubts.md"
+    "Hue.md"
   ]
 }

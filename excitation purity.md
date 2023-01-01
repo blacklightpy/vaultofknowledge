@@ -1,3 +1,3 @@
-It is the neutral distance from 
+It is the relative distance from the [[White Point]] to the furthest point on the chromaticity diagram with the same 'dominant wavelength' or [[hue]].
 
 It is the same as [[Saturation]] in the HSV colour model.
