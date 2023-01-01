@@ -215,8 +215,13 @@
             "id": "0f60053877be5d10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Analysis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -286,6 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,6 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematical Analysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -323,7 +330,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematical Analysis.md"
+              }
             }
           },
           {
