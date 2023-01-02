@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Cylindrical Colour Space Models.md",
+                "file": "CIECAM02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Cylindrical Colour Space Models.md",
+                "file": "CIECAM02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Cylindrical Colour Space Models.md",
+                "file": "CIECAM02.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Cylindrical Colour Space Models.md"
+                "file": "CIECAM02.md"
               }
             }
           },
@@ -262,8 +262,8 @@
   },
   "active": "431df6a6b8e35d7f",
   "lastOpenFiles": [
-    "HCL Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Cylindrical Colour Space Models.md",
+    "HCL Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Lightness.md",
     "Light Terminology.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md",
