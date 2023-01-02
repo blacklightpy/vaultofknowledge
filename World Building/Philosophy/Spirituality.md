@@ -1,0 +1,1 @@
+It is the guarantee that things have meaning in their existence, and that nothing happens randomly to break everything you've honestly worked for.
