@@ -7,5 +7,11 @@ The tables maybe precalculated and stored in a static program storage as a part 
 # Drawbacks
 Although the performance of a LUT is $O(1)$, no two entities or values can have the same key. When the size of the LUT is large, it might be impractical to store in the memory. In this case, [[hash tables]] could be a preferable alternative.
 
-# Types
+# Uses
 - [[3D LUTs]] for image processing
+- For computing sines
+	- If double precision floating points are used, it will take up more space
+	- In that case we can use fewer samples and use [[Interpolation]] and find the values on the line
+	- For interpolation, we use non-uniform sampling - for areas where the value changes rapidly, more samples are used and vice versa
+- Caches
+- Hardware LUTs

@@ -84,9 +84,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9e583e35403f66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Creativity and Arts/Colour Theory/Lookup Tables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9711be171e005429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interpolation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bb303cc8f5b34ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curve Fitting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -152,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Associative Arrays.md",
+                "file": "Curve Fitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Associative Arrays.md",
+                "file": "Curve Fitting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Associative Arrays.md"
+                "file": "Curve Fitting.md"
               }
             }
           },
@@ -233,17 +272,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c9819d60cc713c9b",
+  "active": "9bb303cc8f5b34ee",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Search Trees.md",
+    "Smoothing.md",
+    "Curve Fitting.md",
+    "Interpolation.md",
+    "World Building/Creativity and Arts/Colour Theory/Lookup Tables.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Associative Arrays.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Search Trees.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Dictionary Problem.md",
     "World Building/Philosophy/Draft Philosophy.md",
     "World Building/Science and Engineering/Physics/Optics/Light Terminology.md",
-    "World Building/Creativity and Arts/Colour Theory/Lightness.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
-    "von Kries Transform.md",
-    "3D LUTs.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Hash Tables.md"
+    "World Building/Creativity and Arts/Colour Theory/Lightness.md"
   ]
 }
