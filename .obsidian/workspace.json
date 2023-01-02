@@ -125,6 +125,19 @@
             }
           },
           {
+            "id": "f4b8ffc62d548e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Virtues.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f5942cf134318497",
             "type": "leaf",
             "state": {
@@ -177,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -243,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Disciplines.md",
+                "file": "World Building/Philosophy/Virtues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Disciplines.md",
+                "file": "World Building/Philosophy/Virtues.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Disciplines.md"
+                "file": "World Building/Philosophy/Virtues.md"
               }
             }
           },
@@ -324,8 +337,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "da5b377c69f849da",
+  "active": "f4b8ffc62d548e96",
   "lastOpenFiles": [
+    "World Building/Philosophy/Draft Philosophy.md",
+    "World Building/Philosophy/Disciplines.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Logic and Reasoning/Paradoxes.md",
     "World Building/Science and Engineering/Chemistry/Combustion.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Circles.md",
@@ -333,8 +348,6 @@
     "World Building/Science and Engineering/Chemistry/Inorganic/Oxidation.md",
     "World Building/Science and Engineering/Chemistry/Inorganic/Reduction.md",
     "World Building/Science and Engineering/Chemistry/Inorganic/Redox Reactions.md",
-    "World Building/Science and Engineering/Electronics Engineering/Abstractions.md",
-    "World Building/Fun and Activities/Photography/Aberration.md",
-    "World Building/Philosophy/Emotions.md"
+    "World Building/Science and Engineering/Electronics Engineering/Abstractions.md"
   ]
 }
