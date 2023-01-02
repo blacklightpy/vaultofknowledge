@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Spirituality.md",
+                "file": "World Building/Philosophy/Particles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Spirituality.md",
+                "file": "World Building/Philosophy/Particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Spirituality.md",
+                "file": "World Building/Philosophy/Particles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Spirituality.md"
+                "file": "World Building/Philosophy/Particles.md"
               }
             }
           },
@@ -300,8 +300,8 @@
   },
   "active": "94d2cd1df6a83254",
   "lastOpenFiles": [
-    "Doubts.md",
     "World Building/Philosophy/Spirituality.md",
+    "Doubts.md",
     "World Building/Philosophy/Draft Philosophy.md",
     "World Building/Philosophy/Life.md",
     "World Building/Philosophy/Disciplines.md",
