@@ -99,12 +99,12 @@
             }
           },
           {
-            "id": "9711be171e005429",
+            "id": "f5942cf134318497",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpolation.md",
+                "file": "World Building/Philosophy/Philosophy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "9bb303cc8f5b34ee",
+            "id": "dda5b771bf41fc29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curve Fitting.md",
+                "file": "World Building/Philosophy/Disciplines.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curve Fitting.md",
+                "file": "World Building/Philosophy/Disciplines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curve Fitting.md",
+                "file": "World Building/Philosophy/Disciplines.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curve Fitting.md"
+                "file": "World Building/Philosophy/Disciplines.md"
               }
             }
           },
@@ -272,17 +272,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9bb303cc8f5b34ee",
+  "active": "dda5b771bf41fc29",
   "lastOpenFiles": [
-    "Smoothing.md",
-    "Curve Fitting.md",
-    "Interpolation.md",
+    "World Building/Philosophy/Philosophy.md",
     "World Building/Creativity and Arts/Colour Theory/Lookup Tables.md",
+    "World Building/Science and Engineering/Mathematics/Interpolation.md",
+    "World Building/Science and Engineering/Mathematics/Curve Fitting.md",
+    "World Building/Science and Engineering/Mathematics/Smoothing.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Associative Arrays.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Search Trees.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Dictionary Problem.md",
     "World Building/Philosophy/Draft Philosophy.md",
-    "World Building/Science and Engineering/Physics/Optics/Light Terminology.md",
-    "World Building/Creativity and Arts/Colour Theory/Lightness.md"
+    "World Building/Science and Engineering/Physics/Optics/Light Terminology.md"
   ]
 }
