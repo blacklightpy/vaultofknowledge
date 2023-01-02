@@ -15,3 +15,4 @@ Although the performance of a LUT is $O(1)$, no two entities or values can have 
 	- For interpolation, we use non-uniform sampling - for areas where the value changes rapidly, more samples are used and vice versa
 - Caches
 - Hardware LUTs
+- Data Acquisition and Control Systems
