@@ -5,8 +5,8 @@ The Munsell Colour system consists of three independent properties of colour whi
 
 
 
-- [[hue]] (basic colour) - measured by degrees around horizontal circles
-- [[chroma]] (colour intensity) - measured radially outward from the neutral (gray) vertical areas
+- [[Hue]] (basic colour) - measured by degrees around horizontal circles
+- [[Chroma]] (colour intensity) - measured radially outward from the neutral (gray) vertical areas
 - value ([[Luminlightness]]) - mesured vertically on the core cylinder from 0 (black) to 10 (white)
 
 It was designed to keep the three properties into [[Uniform Colour Spaces|perceptually uniform]] and independent dimensions, and was the first such model.

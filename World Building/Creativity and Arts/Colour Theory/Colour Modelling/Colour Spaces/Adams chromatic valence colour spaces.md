@@ -18,7 +18,7 @@ Chromatic value/valence spaces are notable for incorporating the [[opponent proc
 - Chromatic valence spaces
 	- These spaces have nearly equal radia distances for equal changes in Munsell chroma.
 	- They incorporate two relatively [[Uniform Colour Spaces|perceptually uniform]] elements: a chromaticity scale and a lightness scale.
-	- The [[lightness]] scale is determined using the [[lightness|Newhall-Nickerson-Judd value function]], and forms one axis of the colour space.
+	- The [[Lightness]] scale is determined using the [[Lightness|Newhall-Nickerson-Judd value function]], and forms one axis of the colour space.
 	- The remaining two axes are formed by multiplying the two uniform chromaticity coordinates by the lightness, $V_J$
 	- $\frac{X/x_n}{Y/y_n}-1=\frac{X/x_n-Y/y_n}{Y/y_n}$
 	  $\frac{X/x_n}{Y/y_n}-1=\frac{X/x_n-Y/y_n}{Y/y_n}$ 
