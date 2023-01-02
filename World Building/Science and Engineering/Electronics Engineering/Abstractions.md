@@ -29,3 +29,12 @@ That is, detecting and amplifying signal from a floating gate, and performing er
 The reason why flash memory is slower is because it has a large amount of charge to be put through an isolator (SiO2, so the drift velocity is much slower) onto the floating gate. This makes time.
 
 Transistors which have a normal gate contact can have that one fully charged and de-charged within picoseconds.
+
+A2:
+An answer that assumes NAND Flash is made of gates probably:
+
+A flip-flop is just two or four gates.
+A NAND Flash is read a row at a time, and written to serially.
+The data needs to be latched somewhere for transfer via a parallel bus.
+The address decoding takes time.
+Considering a flash drive than a flash chip, there are also MCU processing in the data path.
