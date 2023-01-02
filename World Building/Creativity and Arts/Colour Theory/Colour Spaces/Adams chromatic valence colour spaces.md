@@ -1,4 +1,4 @@
-They are a class of [[colour spaces]] suggested by Elliot Quincy Adams. They are of two types: Chromatic value spaces and Chromatic valence spaces.
+They are a class of [[colour space|colour spaces]] suggested by Elliot Quincy Adams. They are of two types: Chromatic value spaces and Chromatic valence spaces.
 
 Two important chromatic value/valence spaces are [[CIELUV]] and [[Hunter Lab]].
 

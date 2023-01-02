@@ -2,7 +2,7 @@ The Munsell Colour system consists of three independent properties of colour whi
 
 - hue - measured by degrees around horizontal circles
 - chroma - measured radially outward from the neutral (gray) vertical areas
-- value - mesured verticallyon the core cylinder from 0 (black) to 10 (white)
+- value - mesured vertically on the core cylinder from 0 (black) to 10 (white)
 
 The drawback with Munsell colour system is that its colours are not specified by a set of equations, but a manually picked [[lookup tables|lookup table]]. This can be computationally expensive.
 
