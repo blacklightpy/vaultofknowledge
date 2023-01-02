@@ -23,7 +23,7 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 	- Unlike [[CIELAB]], it uses a proper [[von Kries transform]]
 - LLAB
 - CIECAM97s (was popular until [[CIECAM02]] arrived)
-- IPT
+- IPT (It is well suited for gamut mapping)
 - ICtCp (Improves on IPT)
 - [[CIECAM02]]
 - iCAM06 (It is an [[Image Colour Appearance Models|iCAM]])

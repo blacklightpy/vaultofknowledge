@@ -1,7 +1,8 @@
 They set the standard [[Colour Profiles]].
 
-A profile describes a mapping between a [[Colour Space]] and a profile connection space (PCS). PCSes are intermediate colour spaces that are used to transfer colours from one colour space to another. They are either [[CIELAB]] or [[CIE 1931 XYZ Colour Space|CIEXYZ]].1
+A profile describes a mapping between a [[Colour Space]] and a profile connection space (PCS). PCSes are intermediate colour spaces that are used to transfer colours from one colour space to another. They are either [[CIELAB]] or [[CIE 1931 XYZ Colour Space|CIEXYZ]].
 
+# Gamut Mapping
 **Example**
 To convert an RGB colour space to a CMYK one:
 - We first obrain both the ICC profiles.
