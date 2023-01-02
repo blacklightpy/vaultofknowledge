@@ -5,3 +5,6 @@
 	- Convert Markdown Wikilinks to MyST in GitHub Actions
 	- Publish Sphinx from MyST in GitHub Pages/Netlify/etc.
 - VR Nanobots to make nanotechnology
+- Build converters and visualizers like: 
+	- Wavelength visualizer - acswebcontent.acs.org/ChemistryInContextSuite/applets/ElectromagneticSpectrum/electromagneticSpectrum.html (it needs a fix for the js function of Energy display (it wrongly outputs frequency instead))
+	- Colour Space Converters
