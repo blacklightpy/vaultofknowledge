@@ -17,10 +17,13 @@ Chromatic value/valence spaces are notable for incorporating the [[opponent proc
 	- Constant differences in the chroma dimension did not appear different by a corresponding amount, so Adamns proposed a new class of spaces named chromatic valence.
 - Chromatic valence spaces
 	- These spaces have nearly equal radia distances for equal changes in Munsell chroma.
-	- They incorporate two relatively [[Uniform Colour Spaces|perceptually uniform]] elements: a chromaticity scale and a lightness scale. The light
-
-
-
+	- They incorporate two relatively [[Uniform Colour Spaces|perceptually uniform]] elements: a chromaticity scale and a lightness scale.
+	- The [[lightness]] scale is determined using the [[lightness|Newhall-Nickerson-Judd value function]], and forms one axis of the colour space.
+	- The remaining two axes are formed by multiplying the two uniform chromaticity coordinates by the lightness, $V_J$
+	- $\frac{X/x_n}{Y/y_n}-1=\frac{X/x_n-Y/y_n}{Y/y_n}$
+	  $\frac{X/x_n}{Y/y_n}-1=\frac{X/x_n-Y/y_n}{Y/y_n}$ 
+	  - This is essentially what Hunter used in his [[Hunter Lab|Lab colour space]].
+	  - As with chromatic value, these functions are plotted with a scale factor of $2^{1/2}$ to give nearly equal radial distance for equal changes in Munsell chroma.
 
 # Colour Difference
 Adam's colour spaces rely on the [[Munsell Color System|Munsell value]].

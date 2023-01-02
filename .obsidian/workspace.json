@@ -99,6 +99,19 @@
             }
           },
           {
+            "id": "0197049f1f4214a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "431df6a6b8e35d7f",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md"
               }
             }
           },
@@ -259,10 +272,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9f40963bfcd4b25e",
+  "active": "0197049f1f4214a1",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Color System.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Color System.md",
     "World Building/Creativity and Arts/Colour Theory/CIEUVW.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Spaces/CIE 1960 Uniform Colour Space.md",
     "Resources/Web Resources.md",
