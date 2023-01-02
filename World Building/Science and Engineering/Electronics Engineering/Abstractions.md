@@ -22,6 +22,10 @@ NAND gates don't make the internal circuits of a flip-flop in practice.
 Flip-flops are simplified to save space.
 Ex: SRAM cell made from CMOS pass transistor logic
 
+NAND Flash memory is more akin to DRAM than SRAM.
+So it is slower than SRAM for the same reasons that DRAM is slower than SRAM.
+That is, detecting and amplifying signal from a floating gate, and performing error correction.
+
 The reason why flash memory is slower is because it has a large amount of charge to be put through an isolator (SiO2, so the drift velocity is much slower) onto the floating gate. This makes time.
 
 Transistors which have a normal gate contact can have that one fully charged and de-charged within picoseconds.
