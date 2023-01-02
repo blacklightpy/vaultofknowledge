@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relative Luminance.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relative Luminance.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relative Luminance.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relative Luminance.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md"
               }
             }
           },
@@ -272,17 +272,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a36c25d5e18664a3",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Single Photon Detector.md",
+    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optical Instruments/Photoresistors.md",
+    "Untitled.md",
+    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminous Intensity.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Wavelength-weighted Power.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colour Appearance Parameters.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Hue.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
-    "Biology/Colour Perception.md",
-    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
-    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Correlated Colour Temperature.md",
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Tone Response Curve.md",
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Saturation.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md"
+    "Biology/Colour Perception.md"
   ]
 }

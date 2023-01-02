@@ -10,7 +10,7 @@ In a [[Subtractive Colour Model|subtractive colour model]], the lightness change
 
 # Relationship of Munsell value to the relative luminance
 ## Munsell-Sload-Godlove value function (1933)
-They launched a study on the Munsell neutral value scale, considering several proposals relating the [[relative luminance]] to the Munsell value, and they suggest:
+They launched a study on the Munsell neutral value scale, considering several proposals relating the [[Relative Luminance]] to the Munsell value, and they suggest:
 $V^2=1.4742Y-0.004743Y^2$
 ## Newhall-Nickerson-Judd value function (1943)
 They suggest a quintic parabola (relating the reflectance in terms of value):
