@@ -1,6 +1,12 @@
-Also known as luminance or intensity of a colour. It is the visual perception of the [[luminance]] (L) of an object. In [[colorimetry]] and [[colour appearance models]], lightness is a prediction of how an illuminated colour will appear to a standard observer. While luminance is a linear measurement of light, lightness is a linear prediction of the human perception of light.
+Also known as luminance or intensity of a colour. It is the visual perception of the [[luminance]] ($L$) of an object. In [[colorimetry]] and [[colour appearance models]], lightness is a prediction of how an illuminated colour will appear to a standard observer. While luminance is a linear measurement of light, lightness is a linear prediction of the human perception of light.
 
-The [[Munsell Color System|Munsell value]] has long been used as a [[Uniform Colour Spaces|perceptually uniform]] lightness scale.
+But human vision's lightness perception is non-linear relative to light, so we have to use some alternative for perceptual lightness. Change of luminance can change the colour of light.
+
+In colour spaces like [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell]], [[Cylindrical Colour Space Models|HCL]] and [[CIELAB]], the lightness value achromatically constrains the maximum and minimum limits, and operates independently of the [[hue]] and [[chroma]].
+
+The [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell value]] has long been used as a [[Uniform Colour Spaces|perceptually uniform]] lightness scale. [[CIELAB]] and [[CIELUV]] use $L^*$ as the symbol for perceptual lightness (in contrast with luminance $L$). [[CIECAM02]] uses $J$.
+
+In a [[Subtractive Colour Model|subtractive colour model]], the lightness changes to a colour through various [[Tint, shade and tone|tints, shades or tones]] can be achieved by adding white, black or grey respectively. This also reduces [[saturation]].
 
 # Relationship of Munsell value to the relative luminance
 ## Munsell-Sload-Godlove value function (1933)

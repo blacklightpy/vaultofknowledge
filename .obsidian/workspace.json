@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md",
+                "file": "Light Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md",
+                "file": "Light Terminology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md"
+                "file": "Light Terminology.md"
               }
             }
           },
@@ -272,17 +272,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0197049f1f4214a1",
+  "active": "d370a765cfbe2adc",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Lightness.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System.md",
+    "Colour Solid.md",
+    "CIECAM02.md",
+    "Tint, shade and tone.md",
+    "Subtractive Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Color System.md",
     "World Building/Creativity and Arts/Colour Theory/CIEUVW.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Spaces/CIE 1960 Uniform Colour Space.md",
-    "Resources/Web Resources.md",
-    "To Learn.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Sampling.md",
-    "Light Terminology.md",
-    "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md"
+    "Resources/Web Resources.md"
   ]
 }
