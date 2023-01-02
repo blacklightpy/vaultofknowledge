@@ -1,0 +1,1 @@
+For peaceful living in a society, we must 
