@@ -1,4 +1,4 @@
-A discipline is a branch of knowledge.
+A discipline is a branch of knowledge. Knowledge is a collection of information. Information refers to insights derived from observations.
 
 **Etymology**
 - discipline is derived from disciple - which means student.
