@@ -6,7 +6,7 @@ In colour spaces like [[World Building/Creativity and Arts/Colour Theory/Colour 
 
 The [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell value]] has long been used as a [[Uniform Colour Spaces|perceptually uniform]] lightness scale. [[CIELAB]] and [[CIELUV]] use $L^*$ as the symbol for perceptual lightness (in contrast with luminance $L$). [[CIECAM02]] uses $J$.
 
-In a [[Subtractive Colour Model|subtractive colour model]], the lightness changes to a colour through various [[Tint, shade and tone|tints, shades or tones]] can be achieved by adding white, black or grey respectively. This also reduces [[saturation]].
+In a [[Subtractive Colour Model|subtractive colour model]], the lightness changes to a colour through various [[Tint, shade and tone|tints, shades or tones]] can be achieved by adding white, black or grey respectively. This also reduces [[Saturation]].
 
 # Relationship of Munsell value to the relative luminance
 ## Munsell-Sload-Godlove value function (1933)

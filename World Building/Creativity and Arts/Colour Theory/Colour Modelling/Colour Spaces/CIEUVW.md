@@ -2,7 +2,7 @@ CIE 1964 (U*, V*, W*) [[Colour Space]], also known as CIEUVW is based on the [[C
 
 $U^*=13W^*(u-u_0)$
 $V^*=13W*(v-v_0)$
-Where ($u_0,v_0$) is the white point snd Y is the luminous [[tristimulus]] value of the object.
+Where ($u_0,v_0$) is the white point snd Y is the luminous [[Tristimulus]] value of the object.
 
 The asterisks in the exponent indicates that the variable represents a more [[Uniform Colour Spaces|perceptually uniform]] colour space than its predecessor.
 
