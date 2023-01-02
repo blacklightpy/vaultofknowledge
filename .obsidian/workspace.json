@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Virtues.md",
+                "file": "World Building/Philosophy/Elements of the world.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Virtues.md",
+                "file": "World Building/Philosophy/Elements of the world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Virtues.md",
+                "file": "World Building/Philosophy/Elements of the world.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Virtues.md"
+                "file": "World Building/Philosophy/Elements of the world.md"
               }
             }
           },
@@ -300,6 +300,7 @@
   },
   "active": "359af7f980828d20",
   "lastOpenFiles": [
+    "World Building/Philosophy/Virtues.md",
     "World Building/Philosophy/Disciplines.md",
     "World Building/Science and Engineering/Electronics Engineering/Abstractions.md",
     "World Building/Art of Creation/Particles.md",
@@ -308,7 +309,6 @@
     "World Building/Philosophy/Spirituality.md",
     "Doubts.md",
     "World Building/Philosophy/Draft Philosophy.md",
-    "World Building/Philosophy/Life.md",
-    "World Building/Philosophy/Philosophy.md"
+    "World Building/Philosophy/Life.md"
   ]
 }
