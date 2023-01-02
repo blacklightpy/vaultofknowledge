@@ -1,0 +1,3 @@
+- Coastline Paradox
+- Ship of Theseus
+- Liar's Paradox
