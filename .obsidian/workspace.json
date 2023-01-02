@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIECAM02.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relative luminance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIECAM02.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIECAM02.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIECAM02.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md"
               }
             }
           },
@@ -262,15 +262,15 @@
   },
   "active": "431df6a6b8e35d7f",
   "lastOpenFiles": [
+    "CIECAM02.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System.md",
     "World Building/Creativity and Arts/Colour Theory/Cylindrical Colour Space Models.md",
     "HCL Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Lightness.md",
     "Light Terminology.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Sampling.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System.md",
     "Colour Solid.md",
-    "CIECAM02.md",
     "Tint, shade and tone.md"
   ]
 }
