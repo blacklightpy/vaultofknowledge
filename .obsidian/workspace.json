@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Web Resources.md",
+                "file": "Adams chromatic valence colour spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Web Resources.md",
+                "file": "Adams chromatic valence colour spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Web Resources.md",
+                "file": "Adams chromatic valence colour spaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Web Resources.md"
+                "file": "Adams chromatic valence colour spaces.md"
               }
             }
           },
@@ -261,15 +261,15 @@
   },
   "active": "9f40963bfcd4b25e",
   "lastOpenFiles": [
-    "To Learn.md",
+    "World Building/Creativity and Arts/Colour Theory/CIEUVW.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/CIE 1960 Uniform Colour Space.md",
     "Resources/Web Resources.md",
+    "To Learn.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Sampling.md",
     "Light Terminology.md",
     "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist-Shannon Sampling Theorem.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist Frequency.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist Rate.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Sampling Frequency.md"
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Nyquist Frequency.md"
   ]
 }
