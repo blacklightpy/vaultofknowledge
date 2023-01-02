@@ -84,74 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "431df6a6b8e35d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b6fc4abd691e5c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "von Kries transform.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d09eed9cec0e0036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a13059c9f9c4d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colour Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ea94050437dc8f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/International Colour Consortium.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colour Management.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colour Management.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -258,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colour Management.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Lightness.md"
               }
             }
           },
@@ -299,17 +234,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "29a13059c9f9c4d6",
+  "active": "0197049f1f4214a1",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
+    "von Kries Transform.md",
+    "3D LUTs.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Hash Tables.md",
+    "World Building/Creativity and Arts/Colour Theory/Lookup Tables.md",
     "World Building/Creativity and Arts/Colour Theory/International Colour Consortium.md",
     "Colour Management.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Appearance Models.md",
     "World Building/Creativity and Arts/Colour Theory/ICC Colour Profiles.md",
     "CSS colours.md",
-    "Image Colour Appearance Models.md",
-    "von Kries transform.md",
-    "Relative Luminance.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/Adams chromatic valence colour spaces.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Spaces/CIE 1931 XYZ Colour Space.md"
+    "Image Colour Appearance Models.md"
   ]
 }

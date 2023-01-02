@@ -2,4 +2,4 @@ It is the controlled conversion between colour representatons of various digital
 
 # Methods
 - [[International Colour Consortium|ICC Standards]]  - Cross-platform standards for colour management
-- [[Lookup Tables]] - For custom/botique solutions, especially in the creative industry
+- [[3D LUTs]] - For custom/botique solutions, especially in the creative industry
