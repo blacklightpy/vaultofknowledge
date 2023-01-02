@@ -12,8 +12,8 @@ Sadness is the state of being dismayed at the flow of nature.
 Anger is the state of having the bad events in nature causing you to lose your compsure and emotional balance.
 
 **Interpersonal**
-Love is the state of knowing that the flow of nature is good for you.
-Sexual arousal is the state of wanting to realize the pleasure of intimacy. 
+Love is the state of wanting to keep the flow of nature with a person.
+Sexual arousal is the state of wanting to realize the pleasure of intimacy with a person.
 
 **Signals**
 Sensation is the feeling that allows us to experience the world around us.

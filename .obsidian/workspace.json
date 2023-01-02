@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Emotions.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Lookup Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Emotions.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Lookup Tables.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Emotions.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Lookup Tables.md"
               }
             }
           },
@@ -298,8 +298,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36d4bd0b79b8577a",
+  "active": "d9e583e35403f66f",
   "lastOpenFiles": [
+    "World Building/Philosophy/Emotions.md",
     "World Building/Philosophy/Life.md",
     "World Building/Philosophy/Disciplines.md",
     "World Building/Philosophy/Elements of the world.md",
@@ -308,7 +309,6 @@
     "World Building/Art of Creation/Particles.md",
     "World Building/Science and Engineering/Physics/Mechanics/Springs.md",
     "World Building/Art of Creation/Creation.md",
-    "World Building/Philosophy/Spirituality.md",
-    "Doubts.md"
+    "World Building/Philosophy/Spirituality.md"
   ]
 }
