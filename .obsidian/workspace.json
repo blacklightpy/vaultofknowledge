@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md"
               }
             }
           },
@@ -255,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,17 +271,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "a36c25d5e18664a3",
   "lastOpenFiles": [
-    "Single Photon Detector.md",
+    "Transfer Function.md",
     "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Quantum Efficiency.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optical Instruments/Single Photon Detector.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optical Instruments/Photoresistors.md",
     "Untitled.md",
     "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminous Intensity.md",
     "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Wavelength-weighted Power.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colour Appearance Parameters.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Hue.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
-    "Biology/Colour Perception.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Hue.md"
   ]
 }
