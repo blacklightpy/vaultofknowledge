@@ -16,7 +16,7 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 	- They are hard to model because of their contextuality, and CAMs that try to do this are called [[image colour appearance models]] (iCAM).
 ## Implementations
 - [[CIELAB]] (Technically a colour space, but it was the first approach to building a CAM)
-	- It uses the wrong [[von Kries Transform]] by performing it on the [[CIE 1931 XYZ Colour Space|XYZ colour space]] directly instead of changing to the [[LMS colour space]] first for more precise results
+	- It uses the wrong [[von Kries Transform]] by performing it on the [[CIE 1931 XYZ Colour Space|XYZ colour space]] directly instead of changing to the [[LMS Colour Space]] first for more precise results
 - Nayatani et al. model
 - Hunt model
 - RLAB
