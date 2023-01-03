@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
+                "file": "Culture/Western Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
+                "file": "Culture/Western Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
+                "file": "Culture/Western Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md"
+                "file": "Culture/Western Culture.md"
               }
             }
           },
@@ -313,8 +313,8 @@
   },
   "active": "b2aab73668a5987f",
   "lastOpenFiles": [
-    "Culture/Western Culture.md",
     "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
+    "Culture/Western Culture.md",
     "World Building/Philosophy/Epistemology.md",
     "Personal/Creative and Recreational/Engineering.md",
     "Personal/Creative and Recreational/Computer Aided Design.md",
