@@ -6,6 +6,6 @@ Where ($u_0,v_0$) is the white point snd Y is the luminous [[Tristimulus]] value
 
 The asterisks in the exponent indicates that the variable represents a more [[Uniform Colour Spaces|perceptually uniform]] colour space than its predecessor.
 
-Wyszecki invented the UVW colour space in order to be able to calculate [[colour difference|colour differences]] without having to hold the [[Lightness|luminance]] constant.
+Wyszecki invented the UVW colour space in order to be able to calculate [[Colour Difference|colour differences]] without having to hold the [[Lightness|luminance]] constant.
 
 He defined a [[Lightness]] index W* by simplifying the expressions suggested earlier by Ladd and Pinney. The chromaticity components U* and V* are defined such that the [[white point]] maps to the origin, as in [[Adams chromatic valence colour spaces]]

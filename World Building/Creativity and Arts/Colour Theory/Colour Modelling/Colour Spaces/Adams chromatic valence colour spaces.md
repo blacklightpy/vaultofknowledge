@@ -31,7 +31,7 @@ Adam's colour spaces rely on the [[World Building/Creativity and Arts/Colour The
 Defining chromatic valence components
 $W_X=(\frac{x/x_n}{y/y_n}-1)V_J$ and
 $W_Z=(\frac{z/z_n}{y/y_n}-1)V_J$
-we can determine the [[colour difference]] $\Delta{E} =\sqrt{(0.4\Delta{V_J})^2+(\Delta{W_X})^2+(0.4\Delta{W_Z})^2}$ 
+we can determine the [[Colour Difference]] $\Delta{E} =\sqrt{(0.4\Delta{V_J})^2+(\Delta{W_X})^2+(0.4\Delta{W_Z})^2}$ 
 
 where $V_J$ is the Newhall-Nickerson-Judd-value function and the 0.4 factor is incorporated to better make the differences in $W_X$ and $W_Y$ correspond to one another.
 
