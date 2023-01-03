@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Creative and Recreational/Engineering.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Chromaticity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Creative and Recreational/Engineering.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Chromaticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Creative and Recreational/Engineering.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Chromaticity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Creative and Recreational/Engineering.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Chromaticity.md"
               }
             }
           },
@@ -287,15 +287,15 @@
   },
   "active": "f55cc4abf6416e88",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colorimetry.md",
+    "Personal/Creative and Recreational/Engineering.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
+    "halftone.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CMY Colour Model.md",
     "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CMYK Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/RYB Colour Model.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
-    "World Building/Philosophy/Western Philosophy/Pre-Socratic Philosophy.md",
-    "World Building/Philosophy/Western Philosophy/Ancient Greek Philosophy.md",
-    "World Building/Philosophy/Epistemology.md",
-    "Personal/Creative and Recreational/Engineering.md",
-    "History/Civilizations/Civilizations.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md"
   ]
 }
