@@ -1,4 +1,4 @@
-International Colour Consortium (ICC) is an industry consortium formed for cross-platform [[colour management]]. It has defined:
+International Colour Consortium (ICC) is an industry consortium formed for cross-platform [[Colour Management]]. It has defined:
 
 - An open standard for a Colour Matching Module (CMM) at the OS level
 - [[Colour Profiles]] for

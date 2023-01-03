@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Management.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Management.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Management.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Management.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md"
               }
             }
           },
@@ -287,6 +287,7 @@
   },
   "active": "f55cc4abf6416e88",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Colour Management.md",
     "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
     "World Building/Creativity and Arts/Colour Theory/Tint, shade and tone.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
@@ -295,7 +296,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colorimetry.md",
     "Personal/Creative and Recreational/Engineering.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
-    "halftone.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CMY Colour Model.md"
+    "halftone.md"
   ]
 }
