@@ -137,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/The importance of not knowing.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/The importance of not knowing.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/The importance of not knowing.md"
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
               }
             }
           },
@@ -285,17 +284,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7db4139267dd603e",
+  "active": "d5c3d595eb415271",
   "lastOpenFiles": [
+    "World Building/Philosophy/Philosophy.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "World Building/Philosophy/Draft Philosophy.md",
+    "World Building/Philosophy/The importance of not knowing.md",
     "World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/OSI Model.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Digital Communications.md",
-    "World Building/Philosophy/The importance of not knowing.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
-    "World Building/Philosophy/Life.md",
-    "World Building/Philosophy/Disciplines.md",
-    "World Building/Philosophy/Emotions.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md"
+    "World Building/Philosophy/Life.md"
   ]
 }
