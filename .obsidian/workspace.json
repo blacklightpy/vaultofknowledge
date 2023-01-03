@@ -112,19 +112,6 @@
             }
           },
           {
-            "id": "7e480573af0e518e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Philosophy/Life.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7db4139267dd603e",
             "type": "leaf",
             "state": {
@@ -136,8 +123,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f55cc4abf6416e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Creative and Recreational/Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f82e75933b1efc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Knowledge.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -166,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "icam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "World Building/Philosophy/Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "World Building/Philosophy/Knowledge.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -243,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
+                "file": "World Building/Philosophy/Knowledge.md"
               }
             }
           },
@@ -284,17 +298,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d5c3d595eb415271",
+  "active": "9f82e75933b1efc8",
   "lastOpenFiles": [
-    "World Building/Philosophy/Philosophy.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "World Building/Philosophy/Draft Philosophy.md",
+    "Personal/Creative and Recreational/Engineering.md",
+    "Personal/Creative and Recreational/Computer Aided Design.md",
+    "Personal/Creative and Recreational/Blender.md",
+    "World Building/Business and Finance/Company Management/Areas/Product Lifecycle Management.md",
     "World Building/Philosophy/The importance of not knowing.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/OSI Model.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Digital Communications.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
-    "World Building/Philosophy/Life.md"
+    "World Building/Philosophy/Philosophy.md",
+    "World Building/Philosophy/Emotions.md",
+    "World Building/Philosophy/Life.md",
+    "World Building/Philosophy/Disciplines.md",
+    "World Building/Philosophy/Virtues.md"
   ]
 }
