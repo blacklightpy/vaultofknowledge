@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fca91191d11498e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/The importance of not knowing.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/The importance of not knowing.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/The importance of not knowing.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md"
               }
             }
           },
@@ -285,17 +298,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7db4139267dd603e",
+  "active": "fca91191d11498e9",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Digital Communications.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Untitled.md",
+    "World Building/Philosophy/The importance of not knowing.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
     "World Building/Philosophy/Life.md",
     "World Building/Philosophy/Disciplines.md",
     "World Building/Philosophy/Emotions.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
-    "Transfer Function.md",
-    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Quantum Efficiency.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optical Instruments/Single Photon Detector.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optical Instruments/Photoresistors.md",
-    "Untitled.md"
+    "Transfer Function.md"
   ]
 }
