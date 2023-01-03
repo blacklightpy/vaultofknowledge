@@ -1,0 +1,10 @@
+- Traditional
+- Keto
+- Vegetarian
+- Vegan
+- Keto Vegan
+- Pescatarian
+- Lactose Free
+- Gluten Free
+- Paleo
+- Mediterranean

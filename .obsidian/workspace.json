@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2025063fdfb669fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -256,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/History.md",
+                "file": "Diet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/History.md",
+                "file": "Diet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/History.md"
+                "file": "Diet.md"
               }
             }
           },
@@ -337,8 +350,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "90da93efe5bbd4d6",
+  "active": "2025063fdfb669fb",
   "lastOpenFiles": [
+    "History/History.md",
     "History/Civilizations/Civilizations.md",
     "Culture/Western Culture.md",
     "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
@@ -347,7 +361,6 @@
     "Personal/Creative and Recreational/Computer Aided Design.md",
     "Personal/Creative and Recreational/Blender.md",
     "World Building/Business and Finance/Company Management/Areas/Product Lifecycle Management.md",
-    "World Building/Philosophy/The importance of not knowing.md",
-    "World Building/Philosophy/Philosophy.md"
+    "World Building/Philosophy/The importance of not knowing.md"
   ]
 }
