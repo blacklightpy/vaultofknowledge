@@ -1,0 +1,1 @@
+The branch of [[western philosophy]] concerned with knowledge is called epistemology.

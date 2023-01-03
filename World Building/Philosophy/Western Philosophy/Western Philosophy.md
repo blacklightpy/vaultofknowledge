@@ -1,0 +1,1 @@
+Western philosophy is the philosophy of [[western culture]].

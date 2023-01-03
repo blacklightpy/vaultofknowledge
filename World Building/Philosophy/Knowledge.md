@@ -1,1 +1,0 @@
-The branch of philosophy concerned with knowledge is called epistemology.

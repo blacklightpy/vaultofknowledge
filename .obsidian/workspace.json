@@ -143,7 +143,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Knowledge.md",
+                "file": "World Building/Philosophy/Epistemology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2aab73668a5987f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Knowledge.md",
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Knowledge.md",
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Knowledge.md"
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md"
               }
             }
           },
@@ -298,8 +311,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9f82e75933b1efc8",
+  "active": "b2aab73668a5987f",
   "lastOpenFiles": [
+    "World Building/Philosophy/Epistemology.md",
     "Personal/Creative and Recreational/Engineering.md",
     "Personal/Creative and Recreational/Computer Aided Design.md",
     "Personal/Creative and Recreational/Blender.md",
@@ -308,7 +322,6 @@
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Emotions.md",
     "World Building/Philosophy/Life.md",
-    "World Building/Philosophy/Disciplines.md",
-    "World Building/Philosophy/Virtues.md"
+    "World Building/Philosophy/Disciplines.md"
   ]
 }
