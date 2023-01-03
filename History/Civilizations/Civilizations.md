@@ -6,5 +6,8 @@
 - Civilizations by time
 	- Axial Age civilizations
 	- Bronze Age civilizations
-	- Classical
-	- 
+	- Classical civilizations
+	- Cradles of civilization
+	- Modern Civilizations
+	- Post-classical Civilizations
+	- Pre-Columbian Civilizations
