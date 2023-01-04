@@ -136,74 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce006c115e759141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Geography/Geographic Information Systems/Differential GPS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cdd2a8e7e669df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67e0f64ee1ce0192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Evolution of Internet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "546537dd82fe022b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Application Protocol.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46f9495771333948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Markup Language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -269,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Markup Language.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Markup Language.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Markup Language.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md"
               }
             }
           },
@@ -350,13 +285,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "46f9495771333948",
+  "active": "f55cc4abf6416e88",
   "lastOpenFiles": [
+    "World Building/Geography/Geographic Information Systems/Differential GPS.md",
+    "World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Evolution of Internet.md",
     "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Application Protocol.md",
     "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Markup Language.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Evolution of Internet.md",
-    "World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
-    "World Building/Geography/Geographic Information Systems/Differential GPS.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
     "World Building/Creativity and Arts/Colour Theory/Working with Colours/Colour Management.md",
     "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
