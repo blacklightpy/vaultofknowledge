@@ -15,6 +15,11 @@
 	- Material
 	- Overall Weight
 
+- Engineering
+	- Mechanical CAD
+	- Electronics CAD
+	- Bill of Materials
+
 - Quality Control Check
 	- Live Testing
 
