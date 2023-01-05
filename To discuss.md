@@ -7,6 +7,7 @@
 	- Components Layout
 	- Aesthetics
 	- Noise Considerations
+	- Emergency Parachute
 - Technical Design
 	- Motors
 	- Battery
@@ -19,14 +20,19 @@
 
 - Hardware Side
 	- Application Processor
-	- Realtime Processor
-	- GNSS 
+	- Realtime Processor and IMUs
+	- GNSS Module
+	- Cameras
+	- Battery Control System
+	- Motors, Servos, ESCs
+- External Hardware
+	- CORS VRS
+		- RTK Base Station with good Antenna
 
 - Software Side
 	- AutoGPS Delivery
 		- Geolocation
 		- Path Planning WRT Map
-		- Dead Reckoning
 	- Obstacle Avoidance
 		- Compression of Feed
 		- Obstacle Detection
