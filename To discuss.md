@@ -11,9 +11,11 @@
 - Technical Design
 	- Motors
 	- Battery
-	- 
+	- Flow Analyisis
+	- Overall Weight
 
 - Software Side
+	- 
 
 - Hardware Design
 	- Firmware Level
