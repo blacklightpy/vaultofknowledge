@@ -22,6 +22,16 @@
 		- Compression of Feed
 		- Obstacle Detection
 		- Avoidance Algorithm
+	- Calibration System
+		- Data Packs
+		- Component Testing
+		- Weather Checking
+		- No-Fly Zones compliance
+	- Drone Traffic Control
+	- Cloud Data Communications
+	- Ground Control Software
+	- Customer Level API
+		- Provide Reference Widgets
 	- 
 
 - Hardware Design
