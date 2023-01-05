@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
+                "file": "Ideas and References/All about PKM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
+                "file": "Ideas and References/All about PKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
+                "file": "Ideas and References/All about PKM.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Customization/Obsidian Plugins and Tools.md"
+                "file": "Ideas and References/All about PKM.md"
               }
             }
           },
@@ -339,9 +339,9 @@
   },
   "active": "537a8f816ec18217",
   "lastOpenFiles": [
+    "Personal/Customization/Obsidian Plugins and Tools.md",
     "Ideas and References/All about PKM.md",
     "Ideas and References/How to use tags.md",
-    "Personal/Customization/Obsidian Plugins and Tools.md",
     "Personal/Creative and Recreational/Nature.md",
     "To discuss.md",
     "History/Civilizations/Cradles of Civilization.md",
