@@ -27,7 +27,6 @@
 		- Geolocation
 		- Path Planning WRT Map
 		- Dead Reckoning
-			- RTL 70m
 	- Obstacle Avoidance
 		- Compression of Feed
 		- Obstacle Detection
