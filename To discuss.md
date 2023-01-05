@@ -17,12 +17,17 @@
 - Quality Control Check
 	- Live Testing
 
+- Hardware Side
+	- Application Processor
+	- Realtime Processor
+	- GNSS 
+
 - Software Side
 	- AutoGPS Delivery
 		- Geolocation
 		- Path Planning WRT Map
 		- Dead Reckoning
-			- RTL
+			- RTL 70m
 	- Obstacle Avoidance
 		- Compression of Feed
 		- Obstacle Detection
