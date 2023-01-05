@@ -162,35 +162,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "537a8f816ec18217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and References/All about PKM.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a3c7af7a6961fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas and References/How to use tags.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -256,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas and References/All about PKM.md",
+                "file": "To discuss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas and References/All about PKM.md",
+                "file": "To discuss.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas and References/All about PKM.md"
+                "file": "To discuss.md"
               }
             }
           },
@@ -337,13 +311,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "537a8f816ec18217",
+  "active": "409640a1bf211b57",
   "lastOpenFiles": [
-    "Personal/Customization/Obsidian Plugins and Tools.md",
-    "Ideas and References/All about PKM.md",
     "Ideas and References/How to use tags.md",
-    "Personal/Creative and Recreational/Nature.md",
     "To discuss.md",
+    "Ideas and References/All about PKM.md",
+    "Personal/Customization/Obsidian Plugins and Tools.md",
+    "Personal/Creative and Recreational/Nature.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Z1-Inbox/Degrees of Freedom.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
