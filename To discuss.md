@@ -40,10 +40,25 @@
 		- Website
 			- Introduction
 			- Services Layout
-			- 
+			- Contacts
+			- Policies
+			- Product Documentation
+			- Customer Support
 		- Security Systems
 		- Cloud Services
 			- CI/CD
+
+- Management Software
+	- Enterprise Resource Planning
+		- Project Management
+			- HR Management
+		- Financial Planning
+		- Customer Relationship Management
+		- Documents Management
+			- Standards
+			- Legal
+			- Standard Operating Procedures
+		- Key Management
 
 - Hardware Design
 	- Firmware Level
