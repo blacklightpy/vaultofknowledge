@@ -21,3 +21,4 @@
 - Zootelkasten - Makes folder notes and adds all subfiles
 - Folder Note Plugin - Views Folder notes for each folder
 - Database Folder
+- Make.md - Folder notes, inline editor, etc.
