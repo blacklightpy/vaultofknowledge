@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "409640a1bf211b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To discuss.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Civilizations/Cradles of Civilization.md",
+                "file": "To discuss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Civilizations/Cradles of Civilization.md",
+                "file": "To discuss.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Civilizations/Cradles of Civilization.md"
+                "file": "To discuss.md"
               }
             }
           },
@@ -298,17 +311,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e9b184fed7ccb6aa",
+  "active": "409640a1bf211b57",
   "lastOpenFiles": [
+    "History/Civilizations/Cradles of Civilization.md",
+    "Z1-Inbox/Degrees of Freedom.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
     "History/Civilizations/Civilizations.md",
-    "History/Civilizations/Cradles of Civilization.md",
     "World Building/Geography/Geographic Information Systems/Differential GPS.md",
     "World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
     "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Evolution of Internet.md",
     "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Application Protocol.md",
     "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Markup Language.md",
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Colour Management.md",
-    "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md"
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Colour Management.md"
   ]
 }
