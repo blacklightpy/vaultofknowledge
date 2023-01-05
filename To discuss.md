@@ -1,4 +1,3 @@
-
 - Design
 	- Carriage Location and Dimensions
 	- Props and Wings
@@ -12,7 +11,11 @@
 	- Motors
 	- Battery
 	- Flow Analyisis
+	- Material
 	- Overall Weight
+
+- Quality Control Check
+	- Live Testing
 
 - Software Side
 	- AutoGPS Delivery
@@ -51,6 +54,7 @@
 
 - Management Software
 	- Enterprise Resource Planning
+		- Supply Chain Management
 		- Project Management
 			- HR Management
 		- Financial Planning
