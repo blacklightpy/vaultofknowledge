@@ -30,9 +30,20 @@
 	- Drone Traffic Control
 	- Cloud Data Communications
 	- Ground Control Software
+		- Cross-Platform Client Software
 	- Customer Level API
 		- Provide Reference Widgets
-	- 
+
+- External Software
+	- Server Side
+		- Mail Server
+		- Website
+			- Introduction
+			- Services Layout
+			- 
+		- Security Systems
+		- Cloud Services
+			- CI/CD
 
 - Hardware Design
 	- Firmware Level
