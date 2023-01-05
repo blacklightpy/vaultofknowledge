@@ -1,5 +1,5 @@
 - Design
-	- Carriage Location and Dimensions
+	- Payload Location and Dimensions
 	- Props and Wings
 	- Camera Placement
 	- Landing carriage
@@ -21,6 +21,8 @@
 	- AutoGPS Delivery
 		- Geolocation
 		- Path Planning WRT Map
+		- Dead Reckoning
+			- RTL
 	- Obstacle Avoidance
 		- Compression of Feed
 		- Obstacle Detection
