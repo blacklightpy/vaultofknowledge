@@ -17,5 +17,6 @@
 
 **Organization**
 - Breadcrumbs
-- Folder Note Plugin
+- Zootelkasten - Makes folder notes and adds all subfiles
+- Folder Note Plugin - Views Folder notes for each folder
 - Database Folder

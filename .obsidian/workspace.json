@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Creative and Recreational/Nature.md",
+                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flowe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Creative and Recreational/Nature.md",
+                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Creative and Recreational/Nature.md",
+                "file": "Personal/Customization/Obsidian Plugins and Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Creative and Recreational/Nature.md"
+                "file": "Personal/Customization/Obsidian Plugins and Tools.md"
               }
             }
           },
@@ -327,6 +326,7 @@
   },
   "active": "537a8f816ec18217",
   "lastOpenFiles": [
+    "Personal/Creative and Recreational/Nature.md",
     "To discuss.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Z1-Inbox/Degrees of Freedom.md",
@@ -335,7 +335,6 @@
     "World Building/Geography/Geographic Information Systems/Differential GPS.md",
     "World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
     "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Evolution of Internet.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Application Protocol.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Markup Language.md"
+    "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Application Protocol.md"
   ]
 }
