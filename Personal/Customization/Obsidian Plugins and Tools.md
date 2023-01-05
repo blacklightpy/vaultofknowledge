@@ -16,7 +16,8 @@
 - [PLUGIN] Calendar
 
 **Organization**
-- Breadcrumbs
+- Breadcrumbs - For linking heirarchies - parents, siblings and children
+- Juggl - For showing a visual map of connections
 - Zootelkasten - Makes folder notes and adds all subfiles
 - Folder Note Plugin - Views Folder notes for each folder
 - Database Folder

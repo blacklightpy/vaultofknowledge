@@ -175,6 +175,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a3c7af7a6961fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and References/How to use tags.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 12
@@ -326,15 +339,15 @@
   },
   "active": "537a8f816ec18217",
   "lastOpenFiles": [
+    "Ideas and References/All about PKM.md",
+    "Ideas and References/How to use tags.md",
+    "Personal/Customization/Obsidian Plugins and Tools.md",
     "Personal/Creative and Recreational/Nature.md",
     "To discuss.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Z1-Inbox/Degrees of Freedom.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
     "History/Civilizations/Civilizations.md",
-    "World Building/Geography/Geographic Information Systems/Differential GPS.md",
-    "World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Evolution of Internet.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Networking Technology/Internet and World Wide Web/Wireless Application Protocol.md"
+    "World Building/Geography/Geographic Information Systems/Differential GPS.md"
   ]
 }
