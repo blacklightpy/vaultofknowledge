@@ -162,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "537a8f816ec18217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Creative and Recreational/Nature.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -193,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flowe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +223,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To discuss.md",
+                "file": "Personal/Creative and Recreational/Nature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To discuss.md",
+                "file": "Personal/Creative and Recreational/Nature.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To discuss.md"
+                "file": "Personal/Creative and Recreational/Nature.md"
               }
             }
           },
@@ -311,7 +325,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "409640a1bf211b57",
+  "active": "537a8f816ec18217",
   "lastOpenFiles": [
     "To discuss.md",
     "History/Civilizations/Cradles of Civilization.md",
