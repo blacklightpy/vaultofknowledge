@@ -15,6 +15,13 @@
 	- Overall Weight
 
 - Software Side
+	- AutoGPS Delivery
+		- Geolocation
+		- Path Planning WRT Map
+	- Obstacle Avoidance
+		- Compression of Feed
+		- Obstacle Detection
+		- Avoidance Algorithm
 	- 
 
 - Hardware Design
