@@ -7,4 +7,4 @@ At the 1925 Paris conference, the ITU created two consultative committees to dea
 
 In view of the basic similarity of many of the technical problems faced by the CCIF and CCIT, a decision was taken in 1956 to merge them into a single entity, the International Telegraph and Telephone Consultative Committee (CCITT).
 
-In the 1992 conference of the ITU, the CCITT was renamed as the ITU-T.
+In the 1992 plenipotentiary conference of the ITU, the CCITT was renamed as the ITU-T.
