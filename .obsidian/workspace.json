@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da0d4bd61ab88988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -269,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md"
               }
             }
           },
@@ -350,17 +363,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f60222416ce06e6c",
+  "active": "da0d4bd61ab88988",
   "lastOpenFiles": [
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/YIQ.md",
+    "Video.md",
+    "To Do.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
-    "Video.md",
     "World Building/Creativity and Arts/Colour Theory/Illusory Motion.md",
     "World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Persistence of Vision.md",
-    "World Building/Creativity and Arts/Colour Theory/Interlaced Images.md",
-    "World Building/Creativity and Arts/Colour Theory/Impossible Colours.md"
+    "World Building/Creativity and Arts/Colour Theory/Interlaced Images.md"
   ]
 }
