@@ -175,9 +175,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d518f7871271265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -243,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md"
               }
             }
           },
@@ -324,17 +337,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "286e9f26582c5279",
+  "active": "1d518f7871271265",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
+    "Video.md",
     "World Building/Creativity and Arts/Colour Theory/Illusory Motion.md",
     "World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Persistence of Vision.md",
     "World Building/Creativity and Arts/Colour Theory/Interlaced Images.md",
     "World Building/Creativity and Arts/Colour Theory/Impossible Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Optical Illusions.md",
-    "Video.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "World Building/Creativity and Arts/Colour Theory/Newton's Experiments on Colours.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Opponent Processes.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Imaginary Colours.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Opponent Processes.md"
   ]
 }
