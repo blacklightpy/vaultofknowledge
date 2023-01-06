@@ -1,3 +1,6 @@
+- Colour Profiles: WCS Device Profiles and [[ICC Colour Profiles]]
+- Viewing Conditions Profiles
+- Gamut Mapping Profiles
 
 ## WCS Device Profiles
 Extension: .cdmp
