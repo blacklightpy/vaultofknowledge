@@ -4,6 +4,7 @@
 	- Frames
 		- Video
 			- Video Frames were represented as analog waveforms in an analog raster scan across the screen
+				- In raster scan the image is divided into a sequence of scan lines
 				- Scan lines are transmitted as analog signals
 				- Analog TV has scan lines but no scan pixels, instead the signal varies along the scan line
 				- Digital TV has scan pixels
