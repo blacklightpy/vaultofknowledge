@@ -2,6 +2,9 @@
 - Interlaced
 	- Fields
 	- Frames
-		- Frame Lines (Physical Film, not video)
-		- Analog Blanking Lines seperated frames in 
+		- Video
+			- Video Frames were represented as analog waveforms in an analog raster scan across the screen
+			- Analog blanking intervals seperated frames
+		- Physical Film
+			- Frame lines
 - Progressive
