@@ -12,6 +12,7 @@
 				- Scan lines are transmitted as analog signals in which varying voltages represented the intensity of light
 				- Analog TV has scan lines but no scan pixels, instead the signal varies along the scan line
 					- They normally used interlaced scan
+					- CRTs produce persistence of motion due to -  phosophor persistence (to reduce this brightness difference in the first lines is why they used interlacing since only every other line is drawn in a single field of broadcast video), and [[Persistence of Vision]].
 				- Digital TV systems represent images as a raster of pixels
 			- Analog blanking intervals seperated frames
 		- Physical Film
