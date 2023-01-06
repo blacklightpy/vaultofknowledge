@@ -1,5 +1,6 @@
 Windows Colour System (WCS) is the set of [[colour profiles]] in Windows.
-It has the following types of profiles
+
+It has the following types of profiles:
 - Colour Profiles: WCS Device Profiles and [[ICC Colour Profiles]]
 - WCS Viewing Conditions Profiles
 - WCS Gamut Mapping Profiles
@@ -15,3 +16,5 @@ Extension: .gmmp
 
 ## ICC Profiles
 Extension: .icm
+
+(ICC Rendering Intent? / ICC Viewing Conditions?)
