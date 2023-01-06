@@ -208,7 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/ICC Colour Profiles.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/ICC Colour Profiles.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/ICC Colour Profiles.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/ICC Colour Profiles.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md"
               }
             }
           },
@@ -365,8 +365,8 @@
   },
   "active": "da0d4bd61ab88988",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Colour Profiles.md",
     "World Building/Creativity and Arts/Colour Theory/Working with Colours/ICC Colour Profiles.md",
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Colour Profiles.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/YIQ.md",
     "Video.md",
