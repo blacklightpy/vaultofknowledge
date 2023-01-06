@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Calculation of D65.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Calculation of D65.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Calculation of D65.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Calculation of D65.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md"
               }
             }
           },
@@ -326,15 +326,15 @@
   },
   "active": "ccbe480505f2bed9",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Calculation of D65 Standard Illuminant.md",
+    "History/Civilizations/Cradles of Civilization.md",
     "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
-    "World Building/Creativity and Arts/Colour Theory/Calculation of D65.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
-    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md"
   ]
 }
