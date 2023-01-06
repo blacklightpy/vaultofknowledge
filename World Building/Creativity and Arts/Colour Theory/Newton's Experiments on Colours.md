@@ -3,6 +3,8 @@ To study this, he let a tiny bit of sunlight in a darkened room and dispersed it
 
 He also noticed that red and violet were similar, so he twisted the band of colours to form a circle. This is known as Newton's Disc.
 
+He also figured out that colours could be obtained by combining the primary colours:
+Red and 
 
 Primary Colours: Red, Green, Blue
 Secondary Colours: Cyan, Magenta, Yellow
