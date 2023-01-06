@@ -1,5 +1,6 @@
 # Types
 - Interlaced
+- Interlaced video is a technique for doubling the percieved frame rate of a video without consuming more bandwidth. It only contains two fields fo a video frame captured conescutively. This enhances motion perception and reduces flicker by taking advantage of the phi phenomenon.
 	- Fields
 	- Frames
 		- Video
@@ -7,7 +8,8 @@
 				- In raster scan the image is divided into a sequence of scan lines
 				- Scan lines are transmitted as analog signals
 				- Analog TV has scan lines but no scan pixels, instead the signal varies along the scan line
-				- Digital TV has scan pixels
+					- They normally used interlaced scan
+				- Digital TV systems represent images as a raster of pixels
 			- Analog blanking intervals seperated frames
 		- Physical Film
 			- Frame lines
