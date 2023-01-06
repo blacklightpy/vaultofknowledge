@@ -1,7 +1,7 @@
 - Shading
 - Anatomy
 
-[[Colour Theory]]
+[[Personal/Knowledge/Colour Theory]]
 [[Colour Perception]]
 [[Colour Schemes]]
 [[Graphics]]

@@ -208,7 +208,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Newton's Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Newton's Experiments on Colours.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb82aeb7f2b0d3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -216,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Newton's Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Newton's Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -322,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Newton's Colours.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
               }
             }
           },
@@ -363,8 +376,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "98763bd2fb353322",
+  "active": "eb82aeb7f2b0d3e2",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Newton's Experiments on Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Persistence of Vision.md",
     "World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Psychophysics.md",
     "World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Optical Illusions.md",
@@ -373,7 +387,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Ultra HD Forum.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
-    "World Building/Creativity and Arts/Colour Theory/Wide Colour Gamut.md",
-    "World Building/Creativity and Arts/Colour Theory/High Dynamic Range.md"
+    "World Building/Creativity and Arts/Colour Theory/Wide Colour Gamut.md"
   ]
 }
