@@ -1,0 +1,1 @@
+It is the ratio between the smallest and largest values a quantity can assume.
