@@ -1,4 +1,4 @@
-A standard illuminant is a theoretical source of visible light with a spectral power distribution that is published. They are useful for comparing images or colours recorded under different lighting.
+A standard illuminant is a theoretical source of visible light with a [[spectral power distribution]] that is published. They are useful for comparing images or colours recorded under different lighting.
 
 [[International Commission on Illumination]] (CIE) is responsible for publishing all of the well known standard illuminants. They are represented by a letter or a letter number combination.
 

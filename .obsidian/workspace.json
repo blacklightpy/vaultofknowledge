@@ -151,12 +151,12 @@
             }
           },
           {
-            "id": "409640a1bf211b57",
+            "id": "794e46def8272820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To discuss.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -193,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "algolia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To discuss.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To discuss.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To discuss.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md"
               }
             }
           },
@@ -311,17 +311,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "409640a1bf211b57",
+  "active": "794e46def8272820",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/White Point.md",
+    "AVIASYS/To discuss.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
     "Ideas and References/How to use tags.md",
-    "To discuss.md",
     "Ideas and References/All about PKM.md",
     "Personal/Customization/Obsidian Plugins and Tools.md",
     "Personal/Creative and Recreational/Nature.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Z1-Inbox/Degrees of Freedom.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md",
-    "History/Civilizations/Civilizations.md",
-    "World Building/Geography/Geographic Information Systems/Differential GPS.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md"
   ]
 }
