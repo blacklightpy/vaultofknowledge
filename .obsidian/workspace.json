@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md"
               }
             }
           },
@@ -339,10 +339,10 @@
   },
   "active": "1d518f7871271265",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
     "Video.md",
     "World Building/Creativity and Arts/Colour Theory/Illusory Motion.md",
     "World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Persistence of Vision.md",

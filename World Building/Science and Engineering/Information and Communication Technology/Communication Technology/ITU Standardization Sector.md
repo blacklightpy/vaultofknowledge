@@ -1,4 +1,9 @@
-ITU Standardization Sector (ITU-T)
+ITU Standardization Sector (ITU-T) is one of the three sectors of the [[International Telecommunication Union]] (ITU) and is responsible for co-ordinating standards for telecommunications and ICT.
+
+Examples are:
+- X.509 for cybersecurity
+- Y.3172 and Y.3173 for Machine Learning
+- H.264/MPEG-4 AVC for video compression
 
 # History
 At the initiative of Napoleon III, the French government invited international participants to a conference in Paris in 1865 to facilitate and regulate international telegraph services. A result of the conference was the founding of the forerunner of the modern ITU.
