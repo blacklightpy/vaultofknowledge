@@ -7,7 +7,7 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 ## Physical Palettes
 - Pantone
 ## Commercial
-- [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System]]
+- [[Munsell Colour System]]
 - Natural Colour System (NCS)
 - Pantone
 ## Mathematical
@@ -15,6 +15,9 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - [[RGB Colour Spaces|RGB Primaries]]
 - [[YUV and YCbCr]]
 - [[YIQ]]
+- [[Munsell Colour System]]
+- Helmholtz Colour Coordinates
+	- Chromaticity is defined by [[Hue|dominant wavelength]] and [[Excitation Purity|purity]]
 ### Not 3-D
 **Dichromatic**
 - RG Colour Model for early Technicolour films
