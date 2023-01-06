@@ -18,3 +18,4 @@
 		- Physical Film
 			- Frame lines
 - Progressive
+	- This is how celluloid, and digital TV works
