@@ -13,7 +13,7 @@
 				- Analog TV has scan lines but no scan pixels, instead the signal varies along the scan line
 					- They normally used interlaced scan
 					- CRTs produce persistence of motion due to -  phosophor persistence (to reduce this brightness difference in the first lines is why they used interlacing since only every other line is drawn in a single field of broadcast video), and [[Persistence of Vision]].
-				- Digital TV systems represent images as a raster of pixels
+				- Digital TV systems represent images as a raster of pixels, in either RGB colour space or others such as YCbCr. Standards for rasters include Rec.601 for SDTV, Rec.709 for HDTV etc.
 			- Analog blanking intervals seperated frames
 		- Physical Film
 			- Frame lines
