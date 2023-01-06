@@ -1,0 +1,1 @@
+They are the waves of the EM spectrum with frequency between 30 Hz and 300Hz.

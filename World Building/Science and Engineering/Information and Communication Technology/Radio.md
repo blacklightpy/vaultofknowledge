@@ -1,0 +1,1 @@
+Radio is the technology of communicating through [[radio waves]].

@@ -1,0 +1,1 @@
+ITU Radiocommunication Sector (ITU-R) is one of the three sectors of the [[International Telecommunication Union]] (ITU) and is responsible for [[Radio]] communications.
