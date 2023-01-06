@@ -1,12 +1,15 @@
 # Types
 - Interlaced
-- Interlaced video is a technique for doubling the percieved frame rate of a video without consuming more bandwidth. It only contains two fields fo a video frame captured conescutively. This enhances motion perception and reduces flicker by taking advantage of the phi phenomenon.
+- Interlaced video is a technique for doubling the percieved frame rate of a video without consuming more bandwidth. It only contains two fields fo a video frame captured conescutively. This enhances motion perception and reduces flicker by taking advantage of the phi phenomenon (illusory ).
 	- Fields
+		- One of the many still images which are displayes sequentially to create the impression of motion on the screen. Two fields comprise one video frame.
+		- When fields are displayed on a video monitor, they are interlaced so that the ocntent of one field will be used on all of the odd-numbered lines on the screen and the other field will be displayed on the even lines.
+		- Converting fields to a still frame image requires a process called deinterlacing, in which the missing lines are duplicated or interpolated to recreate the information that would have been contained in the field. However, since each field contains only half of the information, deinterlaced images do not have the resolution of a full frame.
 	- Frames
 		- Video
 			- Video Frames were represented as analog waveforms in an analog raster scan across the screen
 				- In raster scan the image is divided into a sequence of scan lines
-				- Scan lines are transmitted as analog signals
+				- Scan lines are transmitted as analog signals in which varying voltages represented the intensity of light
 				- Analog TV has scan lines but no scan pixels, instead the signal varies along the scan line
 					- They normally used interlaced scan
 				- Digital TV systems represent images as a raster of pixels

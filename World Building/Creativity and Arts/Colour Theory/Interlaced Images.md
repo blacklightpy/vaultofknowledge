@@ -1,0 +1,1 @@
+Interlacing is the encoding of a bitmap image such that a person who has partially received it sees a degraded copy of the entire image. This is often preferrable when using a slow connection.
