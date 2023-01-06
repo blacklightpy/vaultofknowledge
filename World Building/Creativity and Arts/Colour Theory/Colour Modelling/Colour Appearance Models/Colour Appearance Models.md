@@ -11,7 +11,7 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 - Contrast appearance
 - Colourfulness appearance
 - Brightness appearance
-- Spatial Phenomena or Optical Illusions
+- Spatial Phenomena or [[Optical Illusions]]
 	- They only affect certain areas of an image, and this has to do with the way the human brain interprets information contextually instead of as raw colours
 	- They are hard to model because of their contextuality, and CAMs that try to do this are called [[image colour appearance models]] (iCAM).
 ## Implementations
