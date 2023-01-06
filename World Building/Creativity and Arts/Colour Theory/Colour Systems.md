@@ -1,0 +1,11 @@
+- Laser video projector
+- Digital Light Processing (DLP)
+- Photographic Film
+- CRT
+- LCD
+- Television
+	- Normally uses CRT/LCD/LED/Plasma/etc. but does not take full advantage of their properties, due to limitations of broadcasting.
+	- Colour profiles are based on: Rec.601
+		- HDTV: Rec.709, Rec. 2020, Rec. 2100 etc.
+- Paint
+- Printing
