@@ -1,0 +1,1 @@
+It is an organization whose goal is to help solve the real world hurdles in deploying Ultra HD video. The Ultra HD Forum will help navigate amongst the standards related to [[High Dynamic Range]] (HDR), [[High Frame Rate]] (HFR), [[[Next Generation Audio]] (NGA) and [[Wide Colour Gamut]] (WVG).

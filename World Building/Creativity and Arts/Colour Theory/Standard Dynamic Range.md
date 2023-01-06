@@ -1,0 +1,1 @@
+Standard Dynamic Range (SDR or SDR-TV) is a video technology which represents light intensity based on the [[brightness]], [[contrast]] and other colour characteristics of a [[Cathode Ray Tube|CRT]] display.

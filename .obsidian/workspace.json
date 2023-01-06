@@ -162,48 +162,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ccbe480505f2bed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c7efd3ac22416b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5cda6b2e1e9a232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Units and Measurements/Dynamic Range.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -269,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Units and Measurements/Dynamic Range.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Units and Measurements/Dynamic Range.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Units and Measurements/Dynamic Range.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md"
               }
             }
           },
@@ -350,17 +311,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f5cda6b2e1e9a232",
+  "active": "794e46def8272820",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Ultra HD Forum.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
+    "World Building/Creativity and Arts/Colour Theory/Wide Colour Gamut.md",
     "World Building/Creativity and Arts/Colour Theory/High Dynamic Range.md",
     "World Building/Creativity and Arts/Colour Theory/Standard Dynamic Range.md",
+    "World Building/Science and Engineering/Physics/Units and Measurements/Dynamic Range.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Methods for Representing Colours.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Luminescence.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Munsell Colour System.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Transfer Functions in Imaging.md"
+    "World Building/Science and Engineering/Chemistry/Physical/Luminescence.md"
   ]
 }
