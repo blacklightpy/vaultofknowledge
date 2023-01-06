@@ -1,0 +1,1 @@
+It is a distribution of all the frequencies in the spectrum with their corresponding powers.

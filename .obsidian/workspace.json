@@ -162,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c672e068aea0bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md"
               }
             }
           },
@@ -311,8 +324,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "794e46def8272820",
+  "active": "9c672e068aea0bd2",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/White Point.md",
     "AVIASYS/To discuss.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Static Website Tools.md",
@@ -321,7 +335,6 @@
     "Personal/Customization/Obsidian Plugins and Tools.md",
     "Personal/Creative and Recreational/Nature.md",
     "History/Civilizations/Cradles of Civilization.md",
-    "Z1-Inbox/Degrees of Freedom.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Systems.md"
+    "Z1-Inbox/Degrees of Freedom.md"
   ]
 }
