@@ -8,6 +8,8 @@ It maybe implemented as software in a digital signal processor, on an FPGA or an
 - Noise Reduction
 - Image Scaling
 - [[Gamma Correction]]
-
-
-[[Luma]]
+- Image Enhancement
+- [[Colour Space]] conversion between [[RGB Colour Spaces|RGB]], [[YUV and YCbCr|YUV]] or [[YUV and YCbCr|YCbCr]]
+- Chroma Subsampling
+- Framerate Conversion
+- Image Compression/Video Compression
