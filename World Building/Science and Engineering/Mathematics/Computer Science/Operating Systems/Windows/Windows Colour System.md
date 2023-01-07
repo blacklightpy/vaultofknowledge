@@ -1,3 +1,5 @@
+[TODO] Refer Wiki
+
 Windows Colour System (WCS) is the set of [[colour profiles]] in Windows.
 
 It has the following types of profiles:
