@@ -177,6 +177,14 @@
             }
           },
           {
+            "id": "74fc01dcc44ecb9b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "13da174c364072f1",
             "type": "leaf",
             "state": {
@@ -190,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -219,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ntsc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +264,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +280,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -295,9 +301,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -337,17 +341,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8b22ca8170488989",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md",
+    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminous Intensity.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Illuminance.md",
+    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Luminous Flux.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Comparison of Photometric and Radiometric values.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Light Terminology.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Solar Spectrum.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md",
     "Z0-Organizing (All Notes Matter)/Sticky Notes.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Radiometry.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Spectrophotometry.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectroscopy.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectrophotometry.md"
+    "World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Radiometry.md"
   ]
 }
