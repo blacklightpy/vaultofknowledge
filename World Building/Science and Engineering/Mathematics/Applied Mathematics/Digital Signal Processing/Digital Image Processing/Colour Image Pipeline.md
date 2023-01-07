@@ -7,4 +7,4 @@ It maybe implemented as software in a digital signal processor, on an FPGA or an
 	- Debayering
 - Noise Reduction
 - Image Scaling
-- Gamma Correction
+- Gamma Correction [[Gamma]]
