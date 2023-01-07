@@ -1,0 +1,1 @@
+It is the ratio of output signal amplitude to input signal amplitude.
