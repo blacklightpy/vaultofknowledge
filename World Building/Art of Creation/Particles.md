@@ -15,4 +15,4 @@ PN-Junction
 Diodes, Transistors
 Gates, Capacitors
 ICs - SSI, LSI, VLSI, ULSI
-FPGAs, MPs, CPUs, ASICs, XPUs (GPUs, TPUs, VPUs, NCUs)
+Microprocessors - FPGAs, MPs, CPUs, ASICs, XPUs (GPUs, TPUs, VPUs, NCUs)
