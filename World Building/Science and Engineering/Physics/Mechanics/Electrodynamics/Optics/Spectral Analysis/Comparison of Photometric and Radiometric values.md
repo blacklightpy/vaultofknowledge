@@ -15,7 +15,6 @@
 | Illuminance                                | Irradiance / Flux Density |
 | Luminance                                  | Radiance                  |
 | Luminous Energy Density                    | Radiant Energy Density    |
-|                                            | Spectral Radiance         |
 | Luminous Efficacy (of radiation)           |                           |
 | Luminous Efficacy (of source)              |                           |
 | Luminous Efficiency / Luminous Coefficient |                           |
