@@ -4,6 +4,7 @@
 		- Three variants depending on colour system used: 
 			- NTSC (525 (480 visible) lines 50 fields 60 Hz) (digital: 480p 30/29.97 fps (60i/30p)) - YIQ
 			- PAL (625 (576 visible) lines 50 Hz) (digital: 576i (50i/25p)) - YUV
+				- Variants: B, G, H, I, D/K, L, M (YUV), N (YDbDr)
 			- SECAM (built in search of NTSC hue problems) - YDbDr
 	- S-Video
 	- Composite Video0
