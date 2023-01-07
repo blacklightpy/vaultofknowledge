@@ -7,6 +7,7 @@
 				- Variants: B, G, H, I, D/K, L, M (YUV), N (YDbDr)
 			- SECAM (built in search of NTSC hue problems) - YDbDr
 		- Signal contans on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [[luminance]] (Y) of the picture and a [[modulation|modulated]] [[chrominance]] (C), a combination of [[hue]] and [[saturation]]. The combining process is different for NTSC, PAL and SECAM systems.
+		- The signals may be seperated by a [[comb filter]]. That is, the combination is a frequency division technique, but it is more complex that [[Frequency Division Multiplexing]].
 	- S-Video
 	- Composite Video0
 

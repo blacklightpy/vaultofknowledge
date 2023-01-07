@@ -308,7 +308,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +324,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -347,9 +345,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Video.md"
-              }
+              "state": {}
             }
           },
           {
@@ -389,11 +385,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca724d83f3adad07",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
     "Video.md",
     "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Chroma.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colourfulness.md",
