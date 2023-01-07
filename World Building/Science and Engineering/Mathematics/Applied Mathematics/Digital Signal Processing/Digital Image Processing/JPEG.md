@@ -4,8 +4,12 @@ MIME Types: image/jpeg
 
 Common formats: JPEG/Exif, JPEG/JFIF
 
+# Variants
+- Interlaced Progressive JPEG
+
 # Encoding
 The general steps involved are:
+
 - Colour Space Conversion (not performed in some highest quality modes)
 - Downsampling
 	- The ratio at which downsampling is ordinarily done is at either 4:4:4 (no downsampling), 4:2:2 (reduction by a factor of two in the horizontal direction) or 4:2:0 (reduction by a factor of 2 in both the horizontal and vertical directions)
@@ -14,12 +18,15 @@ The general steps involved are:
 - Discrete Fourier Transform
 	- Each 8x8 block of each component is converted to a [[frequency domain]] representation, using a normalized, 2D type-II [[Discrete Cosine Transform]] (DCT). 
 - Quantization
+	- This is the only lossy operation (apart from chroma subsampling)
 - Entropy Coding
+	- It is a special form of lossless data compression.
 
-### According to JFIF Standard
+### Encoding according to JFIF Standard
 - It converts images from [[RGB Colour Model|RGB]] to [[YUV and YCbCr|YCbCr]].
 - The resolution of [[chrominance|chroma]] is reduced by a factor of 2 or 3, by [[chroma subsampling]].
-- The image is split into blocks depending on the level of subsampling
+- The image is split into blocks of 8x8 pixels and for each block, each of the Y, Cb and Cr data undergoes the [[Discrete Cosine Transform]]. A DCT is similar to a [[Fourier Transform]] in the sence that it produces a kind of spatial frequency spectrum.
+- The amplitudes of the frequency components are quantized. Human vision is much more sensitive or small variations in colour or brightness over large areas than to the strength of high-frequency brightness variations. Therefore the magnitudes of the high-frequency components are stored with a lower accuracy than the low-frequency components according to the quality setting (the 0-100 setting in the Independent JPEG Group's library).
+- The resulting data for all 8x8 blocks is losslessly compressed with a variant of [[Huffman encoding]].
 
-# Variants
-- Interlaced Progressive JPEG
+Decoding process reverses these steps, except the quantization step, which is lossy.
