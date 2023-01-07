@@ -143,7 +143,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Halftones.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Imaging/Printers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dca6d1b98ea85522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -256,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Halftones.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Halftones.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Halftones.md"
+                "file": "README.md"
               }
             }
           },
@@ -337,11 +350,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ec8b5a11061c5fe2",
+  "active": "dca6d1b98ea85522",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Continuous Tone.md",
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Imaging/Printers.md",
     "World Building/Creativity and Arts/Colour Theory/Halftones.md",
-    "World Building/Creativity and Arts/Colour Theory/Imaging/Printers.md",
+    "World Building/Creativity and Arts/Colour Theory/Continuous Tone.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CMYK Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",

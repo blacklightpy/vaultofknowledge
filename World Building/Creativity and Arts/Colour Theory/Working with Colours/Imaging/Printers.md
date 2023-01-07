@@ -1,4 +1,4 @@
-Printer
+Printers are used for printing.
 
 # Printing Process
 Printers use the [[CMYK Colour Model]], a [[subtractive colour model]] for printing, beause addition of ink is subtractive. It includes cyan, magenta, yellow and black (key) colours. Black is used to adjust the shadow and contrast of images.
