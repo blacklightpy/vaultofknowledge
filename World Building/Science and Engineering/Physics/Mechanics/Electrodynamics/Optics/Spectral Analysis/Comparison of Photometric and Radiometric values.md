@@ -1,31 +1,11 @@
-- Reflectance
-	- The reflectance of the surface of a material is its effectiveness in reflecting radiant energy. It is the fraction of incident electromagnetic power that is reflected at the boundary.
-- Incandescence
-	- Emission of light from a hot body due to its temperature
-- Luminescence
-	- Emission of light not due to heat
-	- Types: Bioluminescence, Cathodoluminescence, Chemiluminescence, Crystalloluminescence, Electric Discharge, Electroluminescence, Electrochemiluminsecence, Photoluminescence (Fluorescence, Phosphorescence), Radioluminescence, Thermoluminescence
+Every photometric value has a corresponding radiometric value due to their simple relation. A few examples are given here:
 
-| Photometry                                 | Radiometry                |
-| ------------------------------------------ | ------------------------- |
-| Luminous Energy                            | Radiant Energy            |
-| Luminous flux / Luminous Power             | Radiant flux              |
-| Luminous intensity                         | Radiant intensity         |
-| Luminous Exitance / Luminous Emittance     | Radiant exitance          |
-| Illuminance                                | Irradiance / Flux Density |
-| Luminance                                  | Radiance                  |
-| Luminous Energy Density                    | Radiant Energy Density    |
-| Luminous Efficacy (of radiation)           |                           |
-| Luminous Efficacy (of source)              |                           |
-| Luminous Efficiency / Luminous Coefficient |                           |
-| Luminous Exposure                          | Radiant Exposure          |
+| Photometry         | Radiometry                |
+| ------------------ | ------------------------- |
+| Luminous Energy    | Radiant Energy            |
+| Luminous flux      | Radiant flux              |
+| Luminous intensity | Radiant intensity         |
+| Luminous Exitance  | Radiant exitance          |
+| Illuminance        | Irradiance / Flux Density |
+| Luminance          | Radiance                  |
 
-
-Spectral flux
-Spectral Intensity
-Spectral Radiance / Specific Intensity
-Spectral Irradiance / Spectral Flux Density
-Radiosity
-Spectral Radiosity
-Spectral Exitance
-Spectral Exposure
