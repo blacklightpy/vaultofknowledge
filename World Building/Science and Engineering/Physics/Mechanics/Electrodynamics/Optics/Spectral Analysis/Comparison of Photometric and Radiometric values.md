@@ -1,5 +1,6 @@
 - Spectral Radiance
 - Reflectance
+	- The reflectance of the surface of a material is its effectiveness in reflecting radiant energy. It is the fraction of incident electromagnetic power that is reflected at the boundary.
 - Incandescence
 	- Emission of light from a hot body due to its temperature
 - Luminescence
