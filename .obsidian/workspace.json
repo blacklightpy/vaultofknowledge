@@ -208,7 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chroma Subsampling.md",
+                "file": "JPEG.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chroma Subsampling.md",
+                "file": "JPEG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chroma Subsampling.md",
+                "file": "JPEG.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chroma Subsampling.md"
+                "file": "JPEG.md"
               }
             }
           },
@@ -391,6 +391,7 @@
   },
   "active": "596e59f69ec625b4",
   "lastOpenFiles": [
+    "Chroma Subsampling.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
     "Video.md",
@@ -399,7 +400,6 @@
     "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Chroma.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colourfulness.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Saturation.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Excitation Purity.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Saturation.md"
   ]
 }
