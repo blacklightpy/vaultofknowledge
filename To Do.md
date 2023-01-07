@@ -1,18 +1,19 @@
 Notes on:
 
-NTSC, PAL
-Video
-D65 Illumination and formula
-Light and Colour Spaces
-Philosophy
+- Light
+	- Physics Values
+	- Photometry, Colorimetry, etc.
+- Colour
+	- Colour Spaces
+	- D65 Illuminant formula
+	- Video
+	- NTSC, PAL Colour spaces and their frequencies
+- Philosophy
 
 Drone Vault (temp)
-Proximity
+Proximity Sensors
 PC - Epoxy
 Electrostatics - Batteries
-
-
-Bullet Journal and Notion
 
 Website and Crypto Tabs
 
