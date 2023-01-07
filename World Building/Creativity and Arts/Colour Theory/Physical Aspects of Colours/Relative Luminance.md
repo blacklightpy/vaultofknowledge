@@ -2,4 +2,4 @@ Relative luminance ($Y$) follows the [[Photometry|photometric]] defintion of [[L
 
 The use of relative values is useful in [[colour appearance models]] that describe perception relative to the eye's adaptiation state and a reference white.
 
-For CIE [[colour space|colour spaces]] [[CIE 1931 XYZ Colour Space|XYZ]] and [[CIE xyY|xyY]], the letter $Y$ refers to relative luminance.
+For CIE [[Colour Space|colour spaces]] [[CIE 1931 XYZ Colour Space|XYZ]] and [[CIE xyY|xyY]], the letter $Y$ refers to relative luminance.

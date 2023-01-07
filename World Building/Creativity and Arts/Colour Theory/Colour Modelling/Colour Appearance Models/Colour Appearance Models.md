@@ -1,4 +1,4 @@
-A Colour appearance model (CAM) is a mathematical model that seeks to describe the perceptual aspects of human colour vision, i.e. viewing conditions under which the appearance of a colour does not tally with the corresponding physical measurement of the stimulus source. They are more sophisticated than [[colour space|colour spaces]].
+A Colour appearance model (CAM) is a mathematical model that seeks to describe the perceptual aspects of human colour vision, i.e. viewing conditions under which the appearance of a colour does not tally with the corresponding physical measurement of the stimulus source. They are more sophisticated than [[Colour Space|colour spaces]].
 
 This is different from [[Colour Models]] which describe colours as tuples in a coordinate space.
 

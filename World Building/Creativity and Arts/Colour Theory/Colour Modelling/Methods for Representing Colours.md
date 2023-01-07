@@ -1,4 +1,4 @@
-- [[Colour Models]]
-- [[Colour Space]]
+- [[Colour Models]] define ways to represent colours as a combination of paramters. They are mapped to colour spaces to form a meaningful system.
+- [[Colour Space|Colour Spaces]] are representation of colours as a combination of parameters.
 - [[Colour Appearance Models]]
 - [[Image Colour Appearance Models]]
