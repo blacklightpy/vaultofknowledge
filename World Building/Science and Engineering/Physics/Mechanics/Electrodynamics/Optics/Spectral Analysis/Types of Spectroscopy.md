@@ -2,5 +2,5 @@
 - Radio Signal Spectroscopy
 - Astronomical Spectroscopy
 - Raman Spectroscopy
-- Nuclear Magnetic Resonance Spectroscopy
+- [[NMR Spectroscopy]]
 - Photoemission Spectroscopy

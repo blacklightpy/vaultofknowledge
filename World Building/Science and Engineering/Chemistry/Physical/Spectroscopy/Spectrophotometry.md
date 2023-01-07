@@ -1,0 +1,1 @@
+It is the quantitative measurement of reflection or transmission properties of a material as a function of wavelength.
