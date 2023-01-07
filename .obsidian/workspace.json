@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Methods for Representing Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Methods for Representing Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Methods for Representing Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Methods for Representing Colours.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md"
               }
             }
           },
@@ -352,8 +352,8 @@
   },
   "active": "f55cc4abf6416e88",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Methods for Representing Colours.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Colour Models.md",
     "World Building/Philosophy/The importance of not knowing.md",
     "To Do.md",
