@@ -125,32 +125,6 @@
             }
           },
           {
-            "id": "794e46def8272820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Halftones.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec8b5a11061c5fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Imaging/Printers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dca6d1b98ea85522",
             "type": "leaf",
             "state": {
@@ -177,19 +151,6 @@
             }
           },
           {
-            "id": "1d518f7871271265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/YIQ.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f60222416ce06e6c",
             "type": "leaf",
             "state": {
@@ -201,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b22ca8170488989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -269,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md"
               }
             }
           },
@@ -350,17 +324,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f60222416ce06e6c",
+  "active": "8b22ca8170488989",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "README.md",
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Imaging/Printers.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectroscopy.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md",
+    "To Do.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Airy disc.md",
+    "World Building/Philosophy/The importance of not knowing.md",
     "World Building/Creativity and Arts/Colour Theory/Halftones.md",
-    "World Building/Creativity and Arts/Colour Theory/Continuous Tone.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CMYK Colour Model.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
-    "dither.md",
-    "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md"
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Imaging/Printers.md",
+    "README.md"
   ]
 }
