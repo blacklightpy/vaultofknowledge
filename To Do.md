@@ -1,8 +1,5 @@
 Notes on:
 
-- Light
-	- Physics Values
-	- Photometry, Colorimetry, etc.
 - Colour
 	- Colour Spaces
 	- D65 Illuminant formula

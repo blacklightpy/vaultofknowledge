@@ -1,0 +1,1 @@
+It is the emission of light from a hot body due to its temperature.
