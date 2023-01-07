@@ -13,6 +13,9 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 ## Mathematical
 - [[CIE Colour Spaces]]
 - [[RGB Colour Spaces|RGB Primaries]]
+- HSL
+- HSV
+- HSB
 - [[YUV and YCbCr]]
 - [[YIQ]]
 - [[Munsell Colour System]]
