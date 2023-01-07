@@ -1,1 +1,1 @@
-They refer to the technique that simulates con
+They refer to the technique that simulates [[continuous tone]] imagery through the use of dots, varying either in size (as used in printers) or in spacing, thus generating the effect of a colour gradient when viewed from a distance.
