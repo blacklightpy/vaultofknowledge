@@ -1,0 +1,1 @@
+It is the [[colourfulness]] of an area judged as a proportion of the brightness of a similarly illuminated area that appears white or hihgly transmitting. As a result, chroma is mostly only dependent on the spectral properties, and as such is 

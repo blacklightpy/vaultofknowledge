@@ -1,0 +1,1 @@
+It is the [[colourfulness]] of an area judged in proportion to its [[brightness]].
