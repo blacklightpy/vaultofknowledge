@@ -1,8 +1,9 @@
-### Analog
+# Analog Signal
+### Analog Data
 - Amplitude Modulation (AM)
 - Frequency Modulation (FM)
 - Phase Modulation (PM)
-### Digital
+### Digital Data
 - BPSK
 - QPSK
 - **Binary Offset Carrier (BOC)**
@@ -19,3 +20,11 @@
 		- **Synthesized BOC (SBOC)** - Used in NavIC
 			SBOC Modulation Scheme is a non-linear combining method to generate constant envelope composite signal with MBOC (6,1,1/11) PSD.
 			- Performance in similar to CBOC and TMBOC ([PowerPoint Presentation (unoosa.org)](https://www.unoosa.org/documents/pdf/icg/2021/ICG15/WGS/icg15_wgs_01.pdf))
+
+# Digital Signal
+### Analog Data
+- PAM
+- PWM
+- PPM
+### Digital Data
+- PCM
