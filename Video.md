@@ -1,3 +1,10 @@
+- Analog
+	- Component Video
+		- Typically RCA Connector
+		- Three variants depending on colour system used: NTSC, PAL, SECAM
+	- S-Video
+	- Composite Video0
+
 # Types
 - Interlaced
 - Interlaced video is a technique for doubling the percieved frame rate of a video without consuming more bandwidth. It only contains two fields fo a video frame captured conescutively. This enhances motion perception and reduces flicker by taking advantage of the phi phenomenon (illusory ).
