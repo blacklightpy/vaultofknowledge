@@ -1,0 +1,1 @@
+Inks used in colour printing are semi-transparent and can be printed on top of each other to produce different colours. However, 
