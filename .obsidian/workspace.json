@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Tone Response Curve.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Tone Response Curve.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Tone Response Curve.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Tone Response Curve.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md"
               }
             }
           },
@@ -352,15 +352,15 @@
   },
   "active": "754810b7dccf75bc",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Colour Image Pipeline.md",
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Tone Response Curve.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Art of Creation/Particles.md",
     "World Building/Art of Creation/Creation.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/International Commission on Illumination.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Luminescence.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Phosophor.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md"
   ]
 }

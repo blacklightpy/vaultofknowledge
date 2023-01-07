@@ -1,1 +1,0 @@
-Same as [[Tone Response Curve]]
