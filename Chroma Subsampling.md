@@ -2,7 +2,6 @@ It is the practice of encoding images by implementing less resolution for [[chro
 
 It is used in many video and still image encoding schemes - both analog and digital - including in [[JPEG]] encoding.
 
-
 # Types of subsampling
 - 4:4:4
 - 4:2:2
