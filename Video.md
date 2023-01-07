@@ -1,7 +1,7 @@
 - Analog
 	- Component Video
 		- Typically RCA Connector
-		- Three variants depending on colour system used: NTSC, PAL, SECAM
+		- Three variants depending on colour system used: NTSC (625 lines 50 fields 60 Hz), PAL (576 lines 50 Hz) (digital: 576i), SECAM
 	- S-Video
 	- Composite Video0
 
