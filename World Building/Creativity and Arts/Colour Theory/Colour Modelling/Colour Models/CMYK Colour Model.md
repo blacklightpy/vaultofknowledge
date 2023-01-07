@@ -1,0 +1,1 @@
+CMYK is a [[Subtractive Colour Model]] where colours are represented by combinations of cyan, magenta, yellow, which are the inverses of red, green and blue respectively.

@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
+                "file": "Halftones.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
+                "file": "Halftones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
+                "file": "Halftones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md"
+                "file": "Halftones.md"
               }
             }
           },
@@ -326,15 +326,15 @@
   },
   "active": "794e46def8272820",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CMYK Colour Model.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
+    "dither.md",
+    "Halftones.md",
+    "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
     "World Building/Philosophy/The importance of not knowing.md",
     "History/Civilizations/Cradles of Civilization.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Methods for Representing Colours.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Image Colour Appearance Models/Image Colour Appearance Models.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Munsell Colour System.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
-    "von Kries Transform.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md"
   ]
 }
