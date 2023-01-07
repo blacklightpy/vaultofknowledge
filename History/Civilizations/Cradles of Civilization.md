@@ -1,3 +1,8 @@
 They are the regions where civilizations first emerged from
 
-- Egypt
+- Ancient Egypt
+- Ancient Mesopotamia
+- China
+- Indus Valley Civilization
+- Olmec
+- Peru
