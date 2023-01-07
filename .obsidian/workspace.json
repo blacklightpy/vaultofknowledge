@@ -208,7 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
+                "file": "Chroma Subsampling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -308,6 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chroma Subsampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,6 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chroma Subsampling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -345,7 +347,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chroma Subsampling.md"
+              }
             }
           },
           {
@@ -385,17 +389,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "596e59f69ec625b4",
   "lastOpenFiles": [
-    "Video.md",
-    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
+    "Video.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Frequency Division Multiplexing.md",
+    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Chroma.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colourfulness.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Saturation.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Excitation Purity.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/YUV and YCbCr.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Excitation Purity.md"
   ]
 }
