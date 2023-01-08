@@ -1,1 +1,1 @@
-The D65 is a [[Spectral Power Distribution|SPD]] in increments of 5nm from 300nm to 830nm, using [[linear interpolation]] on the original data binned at 10nm. [[CIE Standard Observer]] [[Tristimulus]] [[CIE 1931 XYZ Colour Space]]  [[Spectral Power Distribution]] [[Wavelength-weighted Power]]
+The D65 is a [[Spectral Power Distribution|SPD]] in increments of 5nm from 300nm to 830nm, using [[linear interpolation]] on the original data binned at 10nm. [[CIE Standard Observer]] [[Tristimulus]]

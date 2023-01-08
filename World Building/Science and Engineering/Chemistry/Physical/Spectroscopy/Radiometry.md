@@ -6,3 +6,6 @@ Radiometry is disctinct from quantum techniques such as photon counting.
 
 # Quantities
 - [[Reflectance]]
+- Radiance
+- Transmittance
+- Spectral Radiance
