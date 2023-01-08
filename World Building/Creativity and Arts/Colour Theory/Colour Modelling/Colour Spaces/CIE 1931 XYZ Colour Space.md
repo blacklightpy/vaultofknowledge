@@ -13,6 +13,8 @@ It was chosen according to a few desired properties:
 
 This defined a linear transformation from the CIE RGB space to the XYZ space.
 
+The
+
 **Derivation of xyY coordinates from XYZ tristimulus values**
 $x=\frac{X}{X+Y+Z}$
 $y=\frac{Y}{X+Y+Z}$
