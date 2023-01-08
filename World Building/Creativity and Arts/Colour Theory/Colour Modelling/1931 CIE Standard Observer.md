@@ -18,4 +18,4 @@ The cut offs at the short and long wavelengths were chosen somewhat arbitrarily.
 This created a problem with the $2\degree$ colour mapping function that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [[Uniform Colour Spaces]]. There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
 
 ## Analytical Approximation
-The functions They can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
+The functions wre distributed as a discrete lookup table by the CIE. But table lookup can be impractical for some computational tasks. Instead, they can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
