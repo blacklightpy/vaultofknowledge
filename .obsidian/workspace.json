@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -335,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md"
               }
             }
           },
@@ -359,8 +359,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,15 +377,15 @@
   },
   "active": "d52012986a1028f0",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Chromaticity.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colourfulness.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Excitation Purity.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/RYB Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Phosphor.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md"
+    "World Building/Science and Engineering/Chemistry/Physical/Phosphor.md"
   ]
 }
