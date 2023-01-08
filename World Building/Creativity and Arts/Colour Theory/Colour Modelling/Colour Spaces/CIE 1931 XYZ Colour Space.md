@@ -3,7 +3,7 @@ Also called CIEXYZ.
 This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the 2-dimensional chromaticity diagram of the [[CIE xyY Colour Space|xyY]] space derived from XYZ tristimulus values.
 
 # Derivation
-This space was derived for the sake of easier computation, with the assumption that Grassman's law held, and that the new space would be related to the [[CIE 1931 RGB Colour Space|CIE RGB]] space by a linear transformation. This new space would be derived using three new colour matching functions $\bar{x(\lambda)}$, $\bar{y(\lambda)}$ and $\bar{z(\lambda)}$.
+This space was derived for the sake of easier computation, with the assumption that Grassman's law held, and that the new space would be related to the [[CIE 1931 RGB Colour Space|CIE RGB]] space by a linear transformation. This new space would be derived using three new colour matching functions $\bar{x}(\lambda)$, $\bar{y}(\lambda)$ and $\bar{z}(\lambda)$.
 
 It was chosen according to a few desired properties:
 - The colour matching functions were required to be greater than or equal to zero everywhere. In 1931 computations were done by hand or slide rule, and the specification of positive values was a useful computational simplification.
