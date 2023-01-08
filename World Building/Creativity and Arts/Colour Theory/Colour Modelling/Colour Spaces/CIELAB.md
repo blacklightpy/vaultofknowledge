@@ -4,7 +4,7 @@ It expresses colour as three values:
 $L^*$ - Perceptual lightness
 $a^*$ and $b^*$ - the four [[Unique Colours]] of human vision: red, green, blue and yellow.
 
-CIELAB produces colours that are more perceptually linear than other colour spaces.
+CIELAB produces colours that are more [[Uniform Colour Spaces|perceptually linear]] than other colour spaces.
 
 It is defined with respect to a [[white point]], for which CIE recommends the [[D65 Standard Illuminant]].
 
