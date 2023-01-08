@@ -8,4 +8,4 @@ Note that $\bar{r}(\lambda)$ and $\bar{b}(\lambda)$ are zero at 435.8 nm, $\bar{
 
 The wavelengths 546.1nm and 435.8 nm were chosen because they are easily reproducible monochromatic lines of a mercury vapour discharge. The 700 nm wavelength, which in 1931 was difficult to produce, was chosen because the eye's perception of colour is rather unchanging at this wavelength, and therefore small errors in wavelength of this primary would have little effect on the results.
 
-This created a problem that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [[Uniform Colour Spaces]]. There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
+This created a problem with the $2\degree$ colour mapping function that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [[Uniform Colour Spaces]]. There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
