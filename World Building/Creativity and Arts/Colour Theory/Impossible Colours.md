@@ -19,3 +19,4 @@ They are imaginary colours that can be seen temporarily by looking steadily at a
 
 The direct trichromatic theory cannot explain these colours, since can involve saturation signals outside the gamut imposed by the trichromatic theory. The opponent processes theory which trats intensity and chroma as seperate signals provide a biophysical explanation of these colours.
 
+For example, staring at a saturated primary colour field and then looking at a white object results in an [[Persistence of Vision|afterimage]] of the 
