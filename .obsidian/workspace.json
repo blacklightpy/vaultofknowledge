@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md"
               }
             }
           },
@@ -391,8 +391,8 @@
   },
   "active": "14728a9568aa7519",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
