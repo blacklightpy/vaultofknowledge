@@ -11,6 +11,7 @@ A [[Colour Appearance Models|CAM]] under a fixed viewing condition results in a 
 
 # Attempts
 - [[CIE 1960 Uniform Colour Space|CIE 1960 UCS]]
+- [[CIEUVW]]
 - [[CIELUV]]
 - [[CIELAB]]
 - [[HSLuv]]
