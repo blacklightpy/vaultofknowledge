@@ -271,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gamma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -389,17 +389,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a8b651a698adad4f",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 RGB Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
     "von Kries Transform.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md"
   ]
 }

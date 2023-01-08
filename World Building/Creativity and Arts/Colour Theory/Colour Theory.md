@@ -1,3 +1,7 @@
+# Properties
+- Percieved Properties - Hue, Colourfulness (Saturation), Luminance
+- Mixing - Additive / Subtractive
+	- Metamerism
 
 # Evolution
 - [[Newton's Experiments on Colours]]
