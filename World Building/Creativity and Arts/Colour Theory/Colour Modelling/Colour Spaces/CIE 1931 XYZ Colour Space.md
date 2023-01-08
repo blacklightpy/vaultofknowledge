@@ -28,6 +28,9 @@ The sensitivity curves in the CIE 1931 and 1964 XYZ colour spaces are scaled to 
 
 ## Derivation of the xyY Space
 **Derivation of xyY coordinates from XYZ tristimulus values**
+
+xyz coordinates are the normalized form of XYZ coordinates. By doing this, the intensity is normalized out and the chromaticity is 
+
 $x=\frac{X}{X+Y+Z}$
 $y=\frac{Y}{X+Y+Z}$
 $z=\frac{Z}{X+Y+Z}=1-x-y$
