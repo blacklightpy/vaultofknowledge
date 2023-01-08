@@ -7,7 +7,7 @@
 # Evolution
 - [[Newton's Experiments on Colours]]
 	- Criticized by: Robert Hooke, assistant of Robert Boyle
-- Goethe's Experiment
+- Johan Wolfgang von Goethe, a German poet, proposed his set of primary colours.
 - Thomas Young's and Hermann von Helmholtz's [[Trichromatic Theory of Colours]]
 - James Clark Maxwell's Mathematical description of Young-Helmhotz Trichromatic theory
 - Ewald Hering's [[Opponent Processes]] was in dispute with the theory by Young, Helmholtz and Maxwell
