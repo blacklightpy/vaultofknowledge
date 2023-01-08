@@ -10,6 +10,7 @@ The differences of sizes of tolerance contours signify non-uniformity of distanc
 A [[Colour Appearance Models|CAM]] under a fixed viewing condition results in a UCS; a UCS with a modelling of variable viewing conditions results in a CAM. A UCS without such modelling can also be a rudimentary CAM.
 
 # Attempts
+- [[CIE 1960 Uniform Colour Space|CIE 1960 UCS]]
 - [[CIELUV]]
 - [[CIELAB]]
 - [[HSLuv]]

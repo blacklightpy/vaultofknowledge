@@ -2,8 +2,6 @@ They are any [[Additive Colour Models]] based on the [[RGB Colour Model]].
 
 An RGB colour space is defined by [[Chromaticity]] coordinates of red, green and blue [[Primary Colours|additive primaries]], the [[White Point]] which is usually defined by a [[Standard Illuminant]] and the [[transfer function]] which is also known as the [[Tone Response Curve]] or [[Gamma Correction|Gamma]].
 
-[[Uniform Colour Spaces]]
-
 # Examples
 - [[CIE 1931 RGB Colour Space]] (CIERGB)
 - Linear RGB

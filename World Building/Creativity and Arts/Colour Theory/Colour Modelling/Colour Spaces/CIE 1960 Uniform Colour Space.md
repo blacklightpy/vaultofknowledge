@@ -1,4 +1,4 @@
-CIE 1960 UCS has been superceded by the CIE 1976 UCS.
+CIE 1960 Uniform Colour Spaces has been superceded by the CIE 1976 UCS.
 
 It does not define a luminance or [[Lightness]] component, but the Y [[Tristimulus]] value of the XYZ [[Colour Space]] or a lightness index similar to W* of the 1964 UCS ([[CIEUVW]]) are sometimes used.
 
