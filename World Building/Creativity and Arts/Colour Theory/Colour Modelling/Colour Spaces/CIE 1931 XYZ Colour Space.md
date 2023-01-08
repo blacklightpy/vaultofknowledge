@@ -13,7 +13,7 @@ It was chosen according to a few desired properties:
 
 This defined a linear transformation from the CIE RGB space to the XYZ space.
 
-The
+The colour matching functions were decided experimentally and were discretized at 5 nm intervals from 380nm to 780 nm and distributed by the CIE.
 
 **Derivation of xyY coordinates from XYZ tristimulus values**
 $x=\frac{X}{X+Y+Z}$
