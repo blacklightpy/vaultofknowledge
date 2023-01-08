@@ -1,6 +1,6 @@
 Tristimulus is the term given to the perception of colour from three different sensors.
 
-Tristimulus values are the resultant excitation of a sensor for a light of any given wavelength in relation to the other sensors.
+Tristimulus values are the resultant excitation of each sensor for a light of any given wavelength in relation to the other sensors.
 
 Tristimulus value for each sensor is calculated as the sum of the product of [[spectral power distribution]] (SPD) of the colour with the [[spectral sensitivity]] of the sensor for each wavelength. 
 
