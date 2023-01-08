@@ -9,4 +9,4 @@ Assuming an RGB system, if $S(\lambda)$ is the SPD function of a light source an
 
 $R=\int_{\lambda}S(\lambda)\bar{r}(\lambda)d\lambda$, where normally $\lambda\in [380, 780]$
 
-Generally the radiometric value used in the SPD is [[radiometry|spectral radiance]] for emitting sources, but for reflected light it can be [[reflectance]] or (transmittance) multiplied by the SPD of the illuminant.
+Generally the radiometric value used in the SPD is [[radiometry|spectral radiance]] for emitting sources, but for reflected light it can be SPD of [[reflectance]] or (transmittance) multiplied by the SPD of the illuminant factor.

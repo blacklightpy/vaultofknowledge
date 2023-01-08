@@ -1,4 +1,4 @@
-Due to the distribution of cone cells in the eye, the tristimulus values depend on the observer's field of view. Standard (Colorimetric) Observer is a color mapping function designed to eliminate this variable, by representing a human's average chromatic response within a $2\degree$ arc inside the fovea.
+Due to the distribution of cone cells in the eye, the [[tristimulus]] values depend on the observer's field of view. Standard (Colorimetric) Observer is a color mapping function designed to eliminate this variable, by representing a human's average chromatic response within a $2\degree$ arc inside the fovea.
 
 It consists of the set of colour matching functions $\bar{r}(\lambda),\bar{g}(\lambda),\bar{b}(\lambda)$ for the [[CIE 1931 RGB Colour Space|CIERGB]] space and $\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lambda)$ for the [[CIE 1931 XYZ Colour Space|CIEXYZ]] space.
 
