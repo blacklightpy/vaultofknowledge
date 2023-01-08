@@ -2,10 +2,9 @@ Due to the distribution of cone cells in the eye, the tristimulus values depend 
 
 CIE's colour matching functions ($\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lambda)$ for CIE XYZ standard observer) are the numerical description of the chromatic response of the observer. They can be thought of as the [[spectral sensitivity]] curves of three linear light detectors yielding the [[tristimulus]] values X, Y and Z. Collectively, these three funcitons describe the CIE standard observer.
 
-The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions.
-Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
+The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions. Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
 
-# Origin
+# Defintion
 It was defined by two independent experiments in 1920 by W. David Wright with ten observers and John Guild with seven observers.
 
 On the basis of these experiments, three colour matching functions were formed. These results were summarized and standardized as the CIE RGB colour matching functions $\bar{r}(\lambda)$, $\bar{g}(\lambda)$ and $\bar{b}(\lambda)$, obtained using three monochromatic primaries at standardized wavelengths of 700 nm (red), 546.1 nm (green) and 435.8 nm (blue).
@@ -17,3 +16,6 @@ The wavelengths 546.1nm and 435.8 nm were chosen because they are easily reprodu
 The cut offs at the short and long wavelengths were chosen somewhat arbitrarily. The human eye can actually see upto 810 nm, but with a sensitivity that is thousands of times less than that for green light.
 
 This created a problem with the $2\degree$ colour mapping function that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [[Uniform Colour Spaces]]. There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
+
+## Analytical Approximation
+The functions They can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
