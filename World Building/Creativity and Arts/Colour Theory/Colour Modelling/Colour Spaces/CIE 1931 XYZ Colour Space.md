@@ -2,11 +2,12 @@ Also called CIEXYZ.
 
 This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the 2-dimensional [[CIE xyY Colour Space|xyY]] space derived from XYZ tristimulus values.
 
-This space was derived for the sake of easier computation, with the assumption that Grassman's law held, and that the new space would be related to the [[CIE 1931 RGB Colour Space|CIE RGB]] space by a linear transformation. This was 
+This space was derived for the sake of easier computation, with the assumption that Grassman's law held, and that the new space would be related to the [[CIE 1931 RGB Colour Space|CIE RGB]] space by a linear transformation. This new space would be derived using three new colour matching functions $\bar{x(\lambda)}$, $\bar{y(\lambda)}$ and $\bar{z(\lambda)}$.
 
-The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[Lightness]] of the colour. 
-
-The [[White Point]] of this colour space is at (1/3, 1/3) in xyY chromaticity diagram.
+It was chosen according to a few desired properties:
+- The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[Lightness]] of the colour. This was achieved by setting $\bar{y}(\lambda)$ exactly equal to the [[Luminosity Functions|photopic luminosity function]].
+- The [[White Point]] of this colour space would be at x=y=z=1/3
+- By virtue of the definition of [[chromaticity]] and the require
 
 **Derivation of xyY coordinates from XYZ tristimulus values**
 $x=\frac{X}{X+Y+Z}$
