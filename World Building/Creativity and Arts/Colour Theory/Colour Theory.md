@@ -2,12 +2,13 @@
 - Percieved Properties - Hue, Colourfulness (Saturation), Luminance
 - Mixing - Additive / Subtractive
 	- Metamerism
+- [[Complementary colours]] produce a high level of contrast - this is used in art
 - [[Impossible Colours]]
 
 # Evolution
 - [[Newton's Experiments on Colours]]
 	- Criticized by: Robert Hooke, assistant of Robert Boyle
-- Johan Wolfgang von Goethe, a German poet, proposed his set of primary colours.
+- Johan Wolfgang von Goethe, a German poet, proposed his set of [[complementary colours]].
 - Thomas Young's and Hermann von Helmholtz's [[Trichromatic Theory of Colours]]
 - James Clark Maxwell's Mathematical description of Young-Helmhotz Trichromatic theory
 - Ewald Hering's [[Opponent Processes]] was in dispute with the theory by Young, Helmholtz and Maxwell

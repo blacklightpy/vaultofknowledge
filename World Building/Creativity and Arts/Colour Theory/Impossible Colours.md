@@ -19,4 +19,9 @@ They are imaginary colours that can be seen temporarily by looking steadily at a
 
 The direct trichromatic theory cannot explain these colours, since can involve saturation signals outside the gamut imposed by the trichromatic theory. The opponent processes theory which trats intensity and chroma as seperate signals provide a biophysical explanation of these colours.
 
-For example, staring at a saturated primary colour field and then looking at a white object results in an [[Persistence of Vision|afterimage]] of the 
+For example, staring at a saturated primary colour field and then looking at a white object results in an [[Persistence of Vision|afterimage]] of the [[complementary colours]]. Exploration of the colour space outside the range of real colours by this means is major supporting evidence for the opponent process theory. Chimeral colours are not observed to reproduce simultaneously qualities of opposing colours.
+
+**Examples:**
+- Stygian colours: These are simultaneously dark and impossibly saturated. e.g. To see stygian blue:- staring at bright yellow causes a dark blue afterimage, then on looking at black, the blue is seen as blue against the black, also as dark as the black.
+- Self-luminous colours: e.g. To see self-luminous red:- staring at green causes a red afterimage, and then when looking at white, a red is seen against the white and may seem to be brighter than the white.
+- Hyperbolic colours: These are impossibly highly saturated. e.g. To see hyperbolic orange:- staring at bright cyan causes an orange afterimage, then on looking at orange, the resulting orange afterimage seen against the orange background may cause an orange purer than the purest orange colour.
