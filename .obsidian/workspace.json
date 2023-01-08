@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md"
               }
             }
           },
@@ -391,8 +391,8 @@
   },
   "active": "8a96f74886a7e7df",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
+    "World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Psychophysics.md",

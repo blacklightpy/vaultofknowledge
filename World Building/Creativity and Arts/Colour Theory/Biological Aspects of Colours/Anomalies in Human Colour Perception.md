@@ -1,4 +1,5 @@
 - Normal colour perception is trichromatic, with L, M and S cone cells.
 - There are tetrochromats - a small percentage of humans, almost always female
-- Color blind people are Dichromats (Protanomaly, Deuteranomaly, Tritanomaly)
+- Color blind people are Dichromats (Protanopy/Protanomaly, Deuteranopy/Deuteranomaly, Tritanopy/Tritanomaly)
+	- opia is the lack of a cell, whereas anomaly refers to weakness in a cell.
 - Monochromats exist too
