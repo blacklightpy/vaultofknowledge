@@ -1,6 +1,8 @@
 Also called CIEXYZ.
 
-This model was based of the [[CIE 1931 RGB Colour Space]]. The CIEThis allows representing all hues of the RGB colour space in the 2-dimensional [[CIE xyY Colour Space|xyY]] space derived from XYZ tristimulus values.
+This model was based of the [[CIE 1931 RGB Colour Space]]. This allows representing all hues of the RGB colour space in the 2-dimensional [[CIE xyY Colour Space|xyY]] space derived from XYZ tristimulus values.
+
+This space was derived for the sake of easier computation, with the assumption that Grassman's law held, and that the new space would be related to the [[CIE 1931 RGB Colour Space|CIE RGB]] space by a linear transformation. This was 
 
 The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[Lightness]] of the colour. 
 
