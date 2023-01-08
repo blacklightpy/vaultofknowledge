@@ -1,11 +1,13 @@
 Due to the distribution of cone cells in the eye, the tristimulus values depend on the observer's field of view. Standard (Colorimetric) Observer is a color mapping function designed to eliminate this variable, by representing a human's average chromatic response within a $2\degree$ arc inside the fovea.
 
-CIE's colour matching functions ($\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lambda)$ for CIE XYZ standard observer) are the numerical description of the chromatic response of the observer. They can be thought of as the [[spectral sensitivity]] curves of three linear light detectors yielding the [[tristimulus]] values X, Y and Z. Collectively, these three funcitons describe the CIE standard observer.
+It consists of the set of colour matching functions $\bar{r}(\lambda),\bar{g}(\lambda),\bar{b}(\lambda)$ for the [[CIE 1931 RGB Colour Space|CIERGB]] space and $\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lambda)$ for the [[CIE 1931 XYZ Colour Space|CIEXYZ]] space.
+
+CIE's colour matching functions are the numerical descriptions of the chromatic responses of the observer. They can be thought of as the [[spectral sensitivity]] curves of three linear light detectors yielding the [[tristimulus]] values X, Y and Z. 
 
 The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions. Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
 
 # Defintion
-## Derivation of the RGB colour matching functions
+## Derivation of the CIE RGB colour matching functions
 It was defined by two independent experiments in 1920 by W. David Wright with ten observers and John Guild with seven observers.
 
 On the basis of these experiments, three colour matching functions were formed. These results were summarized and standardized as the CIE RGB colour matching functions $\bar{r}(\lambda)$, $\bar{g}(\lambda)$ and $\bar{b}(\lambda)$, obtained using three monochromatic primaries at standardized wavelengths of 700 nm (red), 546.1 nm (green) and 435.8 nm (blue).
@@ -21,4 +23,4 @@ This created a problem with the $2\degree$ colour mapping function that contribu
 ### Analytical Approximation
 The functions were distributed as a discrete lookup table by the CIE. But table lookup can be impractical for some computational tasks. Instead, they can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
 
-## Derivation of the XYZ colour matching functions
+## Derivation of the CIE XYZ colour matching functions
