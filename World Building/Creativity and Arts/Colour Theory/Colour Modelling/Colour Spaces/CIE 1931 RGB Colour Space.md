@@ -2,12 +2,6 @@ This colour model tries to mimic the colours percieved by the human eye using RG
 
 It was defined by two independent experiments in 1920 by W. David Wright with ten observers and John Guild with seven observers.
 
-On the basis of these experiments, three colour matching functions were formed. These results were summarized and standardized as the CIE RGB colour matching functions $\bar{r}(\lambda)$, $\bar{g}(\lambda)$ and $\bar{b}(\lambda)$, obtained using three monochromatic primaries at standardized wavelengths of 700 nm (red), 546.1 nm (green) and 435.8 nm (blue).
+On the basis of these experiments, three colour matching functions were formed. These results were summarized and standardized as the CIE RGB colour matching functions $\bar{r}(\lambda)$, $\bar{g}(\lambda)$ and $\bar{b}(\lambda)$, obtained using three monochromatic primaries at standardized wavelengths of 700 nm (red), 546.1 nm (green) and 435.8 nm (blue). These colour matching functions define what is known as the  [[1931 CIE Standard Observer]].
 
-Note that $\bar{r}(\lambda)$ and $\bar{b}(\lambda)$ are zero at 435.8 nm, $\bar{r}(\lambda)$ and $\bar{r}(\lambda)$ are zero at 546.1 nm and $\bar{g}(\lambda)$ and $\bar{r}(\lambda)$ are zero at 700 nm, since in these cases the test colour is one of the primaries.
-
-The wavelengths 546.1nm and 435.8 nm were chosen because they are easily reproducible monochromatic lines of a mercury vapour discharge. The 700 nm wavelength, which in 1931 was difficult to produce, was chosen because the eye's perception of colour is rather unchanging at this wavelength, and therefore small errors in wavelength of this primary would have little effect on the results.
-
-The cut offs at the short and long wavelengths were chosen somewhat arbitrarily. The human eye can actually see upto 810 nm, but with a sensitivity that is thousands of times less than that for green light.
-
-This created a problem with the $2\degree$ colour mapping function that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [[Uniform Colour Spaces]]. There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
+The RGB [[Tristimulus]] values were computed using these colour matching functions.
