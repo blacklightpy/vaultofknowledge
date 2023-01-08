@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/D65 Standard Illuminant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/D65 Standard Illuminant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/D65 Standard Illuminant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/D65 Standard Illuminant.md"
               }
             }
           },
@@ -391,9 +391,9 @@
   },
   "active": "14728a9568aa7519",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/D65 Standard Illuminant.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
