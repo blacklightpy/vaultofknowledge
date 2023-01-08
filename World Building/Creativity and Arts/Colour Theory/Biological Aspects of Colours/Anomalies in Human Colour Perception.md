@@ -2,5 +2,4 @@
 - There are tetrochromats - a small percentage of humans, almost always female
 - Color blind people are Dichromats (Protan, Deuteran, Tritan)
 	- opia is the lack of a cell, whereas anomaly refers to weakness in a cell.
-	- It is also observed that there are 20 different types of L cells and 10 types of M cells, and anomaly is usually when the L cells are too similar to the M cells.
 - Monochromats exist too
