@@ -1,4 +1,4 @@
-Chromaticity is an objective specification of the quality of a colour regardless of its luminance. Chromaticity consists of two independent parameters, often specified as hue (h) and colourfulness (s).
+Chromaticity is an objective specification of the quality of a colour regardless of its luminance. Chromaticity consists of two independent parameters, often specified as hue (h) and colourfulness (s). The number of parameters is due to the trichromatic nature of human colour vision.
 
 [[Colourfulness]] is alternatively called saturation, chroma, intensity or [[Excitation Purity]].
 
