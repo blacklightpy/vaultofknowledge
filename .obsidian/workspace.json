@@ -190,6 +190,19 @@
             }
           },
           {
+            "id": "8a96f74886a7e7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "596e59f69ec625b4",
             "type": "leaf",
             "state": {
@@ -229,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -295,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -335,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md"
               }
             }
           },
@@ -376,17 +389,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d52012986a1028f0",
+  "active": "8a96f74886a7e7df",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 Colour Spaces.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 RGB Colour Space.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Topology/Real Projective Plane.md",
     "World Building/Science and Engineering/Mathematics/Pure Mathematics/Topology/Orientability.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Gamut.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Chromaticity.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colourfulness.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Excitation Purity.md"
+    "Personal/Creative and Recreational/Colours.md"
   ]
 }
