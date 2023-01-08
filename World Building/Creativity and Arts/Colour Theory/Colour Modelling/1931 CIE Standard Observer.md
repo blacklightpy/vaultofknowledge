@@ -3,6 +3,7 @@ Due to the distribution of cone cells in the eye, the tristimulus values depend 
 CIE's colour matching functions ($\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lambda)$ for CIE XYZ standard observer) are the numerical description of the chromatic response of the observer. They can be thought of as the [[spectral sensitivity]] curves of three linear light detectors yielding the [[tristimulus]] values X, Y and Z. Collectively, these three funcitons describe the CIE standard observer.
 
 The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions.
+Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
 
 # Origin
 It was defined by two independent experiments in 1920 by W. David Wright with ten observers and John Guild with seven observers.
