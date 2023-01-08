@@ -11,6 +11,8 @@ It was chosen according to a few desired properties:
 - By virtue of the definition of [[chromaticity]] and the requirement of positive values x and y, it can be seen that the gamut of all colours will lie inside the triangle (1,0), (0,0) and (0,1). It was required that the gamut fill this space practically completely.
 - It was found that the $\bar{z}(\lambda)$ colour matching function could be set to zero above 650nm while remaining within the bounds of experimental error. This was also for computational simplicity.
 
+This defined a linear transformation from the CIE RGB space to the XYZ space.
+
 **Derivation of xyY coordinates from XYZ tristimulus values**
 $x=\frac{X}{X+Y+Z}$
 $y=\frac{Y}{X+Y+Z}$
