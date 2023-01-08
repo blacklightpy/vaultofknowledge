@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Impossible Colours.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Impossible Colours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Impossible Colours.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Impossible Colours.md"
               }
             }
           },
@@ -389,10 +389,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "a8b651a698adad4f",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
