@@ -5,6 +5,7 @@ This model was based of the [[CIE 1931 RGB Colour Space]]. This allows represent
 The XYZ coordinate system was deliberately designed so that the Y parameter is also a measure of the [[Lightness]] of the colour. The [[chromaticity]] is then specified by two derived parameters x and y.
 
 # Derivation
+## Derivation of the colour space
 This space was derived with the assumption that Grassman's law held, and that the new space would be related to the [[CIE 1931 RGB Colour Space|CIE RGB]] space by a linear transformation. This new space would be derived using three new colour matching functions $\bar{x}(\lambda)$, $\bar{y}(\lambda)$ and $\bar{z}(\lambda)$.
 
 It was chosen according to a few desired properties:
@@ -14,10 +15,18 @@ It was chosen according to a few desired properties:
 - By virtue of the definition of [[chromaticity]] and the requirement of positive values x and y, it can be seen that the gamut of all colours will lie inside the triangle (1,0), (0,0) and (0,1). It was required that the gamut fill this space practically completely.
 - It was found that the $\bar{z}(\lambda)$ colour matching function could be set to zero above 650nm while remaining within the bounds of experimental error. This was also for computational simplicity.
 
-This defined a linear transformation from the CIE RGB space to the XYZ space.
+This defined a linear transformation from the CIE RGB space to the XYZ space. (See Wikipedia for the transformation).
+
+## Derivation of the colour matching functions
+By the requirement to have a constant white point, the integrals of the colour matching functions should all be equal, and this is set by the integral of $\bar{y}(\lambda)$ as per the requirements set above.
 
 The colour matching functions were decided experimentally and were discretized at 5 nm intervals from 380nm to 780 nm and distributed by the CIE.
 
+The tabulated sensitvity curves have a certain amount of arbitrariness in them. The shapes of individual X, Y and Z sensitivity curves can be measured with a reasonable accuracy. However, the overall luminosity curve, which is a weighted sum of these three curves, is subjective, since it involves asking a test person whether two light sources have the same brightness, even if they are in completely different colours. So the relative magnitudes of X, Y and Z are also arbitary. One could define a valid colour space with an X sensitivity curve that has twice the amplitude. This new colour space would have a different shape.
+
+The sensitivity curves in the CIE 1931 and 1964 XYZ colour spaces are scaled to have equal areas under the curves.
+
+## Derivation of the xyY Space
 **Derivation of xyY coordinates from XYZ tristimulus values**
 $x=\frac{X}{X+Y+Z}$
 $y=\frac{Y}{X+Y+Z}$

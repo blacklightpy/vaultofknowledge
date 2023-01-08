@@ -5,6 +5,7 @@ CIE's colour matching functions ($\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lam
 The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions. Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
 
 # Defintion
+## Derivation of the RGB colour matching functions
 It was defined by two independent experiments in 1920 by W. David Wright with ten observers and John Guild with seven observers.
 
 On the basis of these experiments, three colour matching functions were formed. These results were summarized and standardized as the CIE RGB colour matching functions $\bar{r}(\lambda)$, $\bar{g}(\lambda)$ and $\bar{b}(\lambda)$, obtained using three monochromatic primaries at standardized wavelengths of 700 nm (red), 546.1 nm (green) and 435.8 nm (blue).
@@ -17,5 +18,7 @@ The cut offs at the short and long wavelengths were chosen somewhat arbitrarily.
 
 This created a problem with the $2\degree$ colour mapping function that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [[Uniform Colour Spaces]]. There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
 
-## Analytical Approximation
-The functions wre distributed as a discrete lookup table by the CIE. But table lookup can be impractical for some computational tasks. Instead, they can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
+### Analytical Approximation
+The functions were distributed as a discrete lookup table by the CIE. But table lookup can be impractical for some computational tasks. Instead, they can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
+
+## Derivation of the XYZ colour matching functions
