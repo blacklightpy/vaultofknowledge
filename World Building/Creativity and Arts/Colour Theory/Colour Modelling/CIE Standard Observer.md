@@ -6,8 +6,8 @@ CIE's colour matching functions are the numerical descriptions of the chromatic 
 
 The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions. Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
 
-Later, it was discovered that the cones covered a larger field of view than previously velieved.
-# Definition
+Later, it was discovered that the cones covered a larger field of view than previously believed. The visual matching experiments were repeated by W. S. Stiles, J. M. Burch
+# Derivation
 ## Derivation of the CIE RGB colour matching functions
 It was defined by two independent experiments in 1920 by W. David Wright with ten observers and John Guild with seven observers.
 
@@ -25,3 +25,4 @@ This created a problem with the $2\degree$ colour mapping function that contribu
 The functions were distributed as a discrete lookup table by the CIE. But table lookup can be impractical for some computational tasks. Instead, they can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
 
 ## Derivation of the CIE XYZ colour matching functions
+It is mentioned here [[CIE 1931 XYZ Colour Space]]
