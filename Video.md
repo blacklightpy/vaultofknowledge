@@ -1,6 +1,6 @@
 # Characteristics
 FPS
-Interlaced (NTSC, PAL, SECAM) / Progressive
+Interlaced (NTSC, PAL (EBU Tech 3213), SECAM) / Progressive
 Aspect Ratio
 Colour Model and Depth
 Video quality
