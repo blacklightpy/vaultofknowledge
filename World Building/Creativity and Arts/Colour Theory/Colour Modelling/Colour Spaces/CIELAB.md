@@ -5,3 +5,5 @@ $L^*$ - Perceptual lightness
 $a^*$ and $b^*$ - the four [[Unique Colours]] of human vision: red, green, blue and yellow.
 
 CIELAB produces colours that are more perceptually linear than other colour spaces.
+
+The $a^*$ and $b^*$ values are unbounded, and can easily exceed $\pm$ 150 to cover the entire colour gamut. But software implementations often trim the values. For example, in integer math, a range of -128 to 127 is chosen.
