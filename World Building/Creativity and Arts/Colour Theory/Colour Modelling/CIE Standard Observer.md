@@ -6,7 +6,7 @@ CIE's colour matching functions are the numerical descriptions of the chromatic 
 
 The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions. Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
 
-Later, it was discovered that the cones covered a larger field of view than previously believed. The visual matching experiments were repeated by W. S. Stiles, J. M. Burch and N. I. Speranskaya using this wider field of view and in 1964, the CIE 10$\degree$ Standard Observer was published.
+Later, it was discovered that the cones covered a larger field of view than previously believed. The visual matching experiments were repeated by W. S. Stiles, J. M. Burch and N. I. Speranskaya using this wider field of view and in 1964, the CIE 10$\degree$ Standard Observer was published. The CIE 10$\degree$ standard observer is recommended by the CIE for representing the spectral response of humans and also for most industrial colour applications, but the 1931 2$\degree$ standard observer remains available due to its incorporation in many industry product specifications.
 
 # Derivation
 ## Derivation of the CIE RGB colour matching functions
