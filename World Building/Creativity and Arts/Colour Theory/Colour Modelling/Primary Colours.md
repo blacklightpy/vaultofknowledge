@@ -2,4 +2,4 @@ They are colours that can be mixed in varying amounts to produce a [[Gamut]] of 
 
 Art education materials commonly use red, yellow and blue as the primary colours, sometimes suggesting they can mix all colours. No real set of real colorants or lights can mix all possible colours however.
 
-It is because in the [[CIE xyY Colour Space|chromaticity diagram]], the real colour space is in a horseshoe shape, and the colour gamuts are in a convex shape. This is because the primary colours merge to the white point in the middle, so any addition of colours corresponds to a colour in the interior of the triangle formed by the primary colour coordinates.
+It is because in the [[CIE xyY Colour Space|chromaticity diagram]], the real colour space is in a horseshoe shape, and the colour gamuts are in a convex shape. This is because the primary colours merge to the white point in the middle, so any addition of colours corresponds to a colour in the interior of the triangle formed by the primary colour coordinates. [[CIE Standard Observer]]
