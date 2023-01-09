@@ -26,3 +26,5 @@
 - OLED
 	- AMOLED
 - Plasma
+- Electronic Paper
+- DLP Rear Projection
