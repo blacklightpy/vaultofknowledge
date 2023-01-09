@@ -18,4 +18,4 @@ $Y=1.2219V-0.23111V^2+0.23951V^3-0.021009V^4+0.0008404V^5$
 ## 1976 CIELAB
 [[CIELAB]] uses the following formula:
 $L^*=116(\frac{Y}{Y_n})^\frac{1}{3}-16$
-where $Y_n$ is the [[CIE 1931 XYZ Colour Space]] Y tristimulus value of the reference [[white point]] (the n subscribt suggests "normalized") and is subject to the restriction $\frac{Y}{Y_n}>0.01$. Pauli removes this restriction by computing a linear extrapolation which maps $\frac{Y}{Y_n}=0$ to $L^*=0$ and is tangent to the formula above at the point at which the linear extension takes effect.
+where $Y_n$ is the [[CIE 1931 XYZ Colour Space]] Y tristimulus value of the reference [[white point]] (the n subscript suggests "normalized") and is subject to the restriction $\frac{Y}{Y_n}>0.01$. Pauli removes this restriction by computing a linear extrapolation which maps $\frac{Y}{Y_n}=0$ to $L^*=0$ and is tangent to the formula above at the point at which the linear extension takes effect.
