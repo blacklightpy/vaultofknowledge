@@ -3,6 +3,9 @@
 	- Backlighting
 		- CCFL
 		- LED
+	- Types
+		- TN
+		- IPS
+		- VA
 - LED
 - TFT
-- IPS
