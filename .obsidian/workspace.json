@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "54cf569e1bde6ab3",
+            "id": "c6cdf9d84b163622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Draft Philosophy.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,51 +60,12 @@
             }
           },
           {
-            "id": "f4b8ffc62d548e96",
+            "id": "d4e0229b49e711c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Virtues.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda5b771bf41fc29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Philosophy/Disciplines.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "181c3a5d508b4da7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Philosophy/Life.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36d4bd0b79b8577a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Philosophy/Emotions.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Display Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -308,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Systems.md"
               }
             }
           },
@@ -389,17 +350,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d52012986a1028f0",
+  "active": "c6cdf9d84b163622",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
-    "Personal/Creative and Recreational/Colours I like.md",
-    "World Building/Philosophy/Automation.md",
-    "World Building/Philosophy/Narcissism.md",
-    "Literature/Legalese.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Chromaticity.md"
+    "World Building/Creativity and Arts/Colour Theory/Display Systems.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+    "World Building/Philosophy/Philosophy.md",
+    "AVIASYS/Testing Software/BigPicture for Jira and Trello.md",
+    "BigPicture.md",
+    "World Building/Philosophy/Emotions.md",
+    "World Building/Philosophy/Draft Philosophy.md",
+    "World Building/Philosophy/Life.md"
   ]
 }
