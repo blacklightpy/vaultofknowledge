@@ -1,11 +1,14 @@
 - CRT
 - LCD
+	- Types
+		- Active Matrix (TFT)
+		- Passive Matrix (Simple Conductive Grid)
 	- Layers
 		- Light Source
 		- Polarizing Filter
-		- Electrodes
+		- Glass Substrate with Electrodes
 		- Liquid Crystal
-		- Electrodes
+		- Glass Substrate with Electrodes
 		- Colour Filter
 		- [[Polarising Filter]]
 		- Display Surface
@@ -17,4 +20,4 @@
 		- IPS
 		- VA
 - LED
-- TFT
+
