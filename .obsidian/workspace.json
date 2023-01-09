@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -389,8 +389,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca70bc2d3bee2d63",
+  "active": "d52012986a1028f0",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "Personal/Creative and Recreational/Colours I like.md",
     "World Building/Philosophy/Automation.md",
@@ -398,8 +400,6 @@
     "Literature/Legalese.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Chromaticity.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Chromaticity.md"
   ]
 }

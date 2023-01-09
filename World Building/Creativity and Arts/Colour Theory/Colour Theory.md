@@ -9,8 +9,9 @@
 - [[Newton's Experiments on Colours]]
 	- Criticized by: Robert Hooke, assistant of Robert Boyle
 - Johan Wolfgang von Goethe, a German poet, proposed his set of [[complementary colours]].
-- Thomas Young's and Hermann von Helmholtz's [[Trichromatic Theory of Colours]]. It distinguished additive and subtractive colours.
-- James Clark Maxwell's Mathematical description of Young-Helmhotz Trichromatic theory
+- Thomas Young's and Hermann von Helmholtz's [[Trichromatic Theory of Colours]]. It distinguished additive and subtractive colours. Helmholtz developed Young's theory by classifying the photoreceptor cells.
+- Helmholtz's influence of unconscious inferences.
+- James Clark Maxwell's Mathematical description of Young-Helmhotz Trichromatic theory using linear algebra.
 - Ewald Hering's [[Opponent Processes]] was in dispute with the theory by Young, Helmholtz and Maxwell
 - Later, Johannes von Kries published the zone thoery in 1905 that synthesizes both descriptions as one, where Young-Helmholtz theory describes the interaction of light with the receptors and Hering the image processing stage.
 - In 1925, Erwin Schrodinger published a paper inspired by von Kries, titled 'On the relation of the four color to the three color theory' where he probes for a formal relationship between the two theories.
