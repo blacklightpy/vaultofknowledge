@@ -1,0 +1,1 @@
+It originates from the Greek story of Narcissus, a character who bexame obsessed with his own relection
