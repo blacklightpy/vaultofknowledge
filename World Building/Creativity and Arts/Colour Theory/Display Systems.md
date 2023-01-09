@@ -15,9 +15,10 @@
 	- Backlighting
 		- CCFL
 		- LED
-	- Types
+	- Screen Types
 		- TN
 		- IPS
 		- VA
 - LED
-
+OLED
+Qled
