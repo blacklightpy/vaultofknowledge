@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
               }
             }
           },
@@ -391,8 +391,8 @@
   },
   "active": "ca70bc2d3bee2d63",
   "lastOpenFiles": [
-    "Personal/Creative and Recreational/Colours I like.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
+    "Personal/Creative and Recreational/Colours I like.md",
     "World Building/Philosophy/Automation.md",
     "World Building/Philosophy/Narcissism.md",
     "Literature/Legalese.md",
