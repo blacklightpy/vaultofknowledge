@@ -1,2 +1,8 @@
 - CRT
 - LCD
+	- Backlighting
+		- CCFL
+		- LED
+- LED
+- TFT
+- IPS
