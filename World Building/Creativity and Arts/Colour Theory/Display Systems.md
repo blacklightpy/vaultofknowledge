@@ -1,8 +1,11 @@
 - CRT
 - LCD
 	- Types
+		- QLED (Adds a quantum dot filter to the liquid crystal sandwich)
+	- Addressing Schemes
 		- Active Matrix (TFT)
 		- Passive Matrix (Simple Conductive Grid)
+			- Early Technology
 	- Layers
 		- Light Source
 		- Polarizing Filter
@@ -20,5 +23,5 @@
 		- IPS
 		- VA
 - LED
-OLED
-Qled
+- OLED
+	- AMOLED
