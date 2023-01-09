@@ -177,6 +177,19 @@
             }
           },
           {
+            "id": "0937bc9397902682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Automation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d52012986a1028f0",
             "type": "leaf",
             "state": {
@@ -242,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -308,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
+                "file": "World Building/Philosophy/Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
+                "file": "World Building/Philosophy/Automation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -348,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md"
+                "file": "World Building/Philosophy/Automation.md"
               }
             }
           },
@@ -389,12 +402,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca70bc2d3bee2d63",
+  "active": "0937bc9397902682",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Chromaticity.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
     "Video.md",
