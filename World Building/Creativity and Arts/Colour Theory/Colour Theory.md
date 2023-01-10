@@ -3,6 +3,7 @@
 - Mixing - Additive / Subtractive - Primary and Secondary Colours
 	- Metamerism
 - [[Complementary colours]] produce a high level of contrast - this is used in art
+- Warm and Cool Colours
 - [[Impossible Colours]]
 
 # Evolution
