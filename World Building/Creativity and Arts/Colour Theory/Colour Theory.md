@@ -6,6 +6,15 @@
 - Warm and Cool Colours
 - [[Impossible Colours]]
 
+# Practice
+- [[Colour Schemes]] - mixing tactics - for aesthetics or for practical
+	- Triadic, Monochromatic (single colour), Split complementary, Achromatic/Near Neutrals/Neutrals, Tetradic, Polychromatic, Colourmaps
+	- Data visualization - uses a ordered colour set
+		- Schemes: see Wiki
+		- Representation Methods: continuous, discrete, categorical.
+- Colour Gradient - Specifies a range of position-dependent colours, usually used to fill a region
+	- Aka Colour Ramp or Colour Progression. In assigning colours to a set of values, it is a continuous colourmap, a colour scheme representation method.
+
 - HSV, HSL, HSB
 - cmyk has a slight deficiency notably in orange and slightly in purples - wider range of colours by adding other colours, like pantone hexachrome (cmykog) - discontinued
 
