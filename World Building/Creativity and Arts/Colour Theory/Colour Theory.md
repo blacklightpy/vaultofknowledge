@@ -6,7 +6,8 @@
 - [[Impossible Colours]]
 
 # Evolution
-- [[Newton's Experiments on Colours]]
+- [[Newton's Experiments on Colours.]]
+	- He came up with the colour wheel aka colour circle in the form of a Newton Disc (Disappearing Colour Disc)
 	- Criticized by: Robert Hooke, assistant of Robert Boyle
 - Johan Wolfgang von Goethe, a German poet, proposed his set of [[complementary colours]].
 - Thomas Young's  [[Trichromatic Theory of Colours]]. It distinguished additive and subtractive colours. He came up with a [[colour triangle]] (also used in CIE 1931 Colour Space)
