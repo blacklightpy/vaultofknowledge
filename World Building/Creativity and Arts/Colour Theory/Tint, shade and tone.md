@@ -7,3 +7,6 @@ In the HSL model, mid lightness value corresponds to the normal version of the c
 
 # In common speak
 Commonly speaking, shade of a colour can refer to either the adjustment of 
+
+# Examples
+Pastel colours are generally tinted colours.
