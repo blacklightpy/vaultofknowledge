@@ -8,6 +8,7 @@
 # Evolution
 - [[Newton's Experiments on Colours.]]
 	- He came up with the colour wheel aka colour circle in the form of a Newton Disc (Disappearing Colour Disc)
+	- He gave the first method of mixing, which is to 1. mark two colours in a colour wheel, 2. find their barycenter, 3. The 
 	- Criticized by: Robert Hooke, assistant of Robert Boyle
 - Johan Wolfgang von Goethe, a German poet, proposed his set of [[complementary colours]].
 - Thomas Young's  [[Trichromatic Theory of Colours]]. It distinguished additive and subtractive colours. He came up with a [[colour triangle]] (also used in CIE 1931 Colour Space)
