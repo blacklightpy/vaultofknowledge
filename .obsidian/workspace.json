@@ -164,7 +164,7 @@
             }
           },
           {
-            "id": "596e59f69ec625b4",
+            "id": "e224ae716050107e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md"
               }
             }
           },
@@ -350,17 +350,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c6cdf9d84b163622",
+  "active": "e224ae716050107e",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Newton's Experiments on Colours.md",
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+    "World Building/Creativity and Arts/Colour Theory/Newton's Experiments on Colours.md",
     "World Building/Creativity and Arts/Colour Theory/Tint, shade and tone.md",
     "World Building/Creativity and Arts/Colour Theory/Display Systems.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Chroma.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Perception/Colourfulness.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Saturation.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Lightness.md",
-    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Relative Luminance.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Perception/Saturation.md"
   ]
 }
