@@ -190,6 +190,19 @@
             }
           },
           {
+            "id": "4d291e6b2def0321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Chemistry/Physical/Elements/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e7f4ec8df9ec2628",
             "type": "leaf",
             "state": {
@@ -216,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Strength.md",
+                "file": "World Building/Science and Engineering/Chemistry/Physical/Elements/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Strength.md",
+                "file": "World Building/Science and Engineering/Chemistry/Physical/Elements/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -322,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Strength.md"
+                "file": "World Building/Science and Engineering/Chemistry/Physical/Elements/Untitled.md"
               }
             }
           },
@@ -363,8 +376,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "71567b51ad356ff2",
+  "active": "4d291e6b2def0321",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Engineering/Materials Engineering/Strength to Weight Ratio.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Strength.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
     "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
     "World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
@@ -372,8 +387,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Stress.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Fracture Mechanics.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-    "World Building/Creativity and Arts/Colour Theory/Newton's Experiments on Colours.md",
-    "World Building/Creativity and Arts/Colour Theory/Tint, shade and tone.md"
+    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
   ]
 }
