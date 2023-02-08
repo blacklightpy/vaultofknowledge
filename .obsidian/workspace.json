@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/Degrees of Freedom.md",
+                "file": "World Building/Philosophy/The importance of not knowing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Degrees of Freedom.md",
+                "file": "World Building/Philosophy/The importance of not knowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Degrees of Freedom.md",
+                "file": "World Building/Philosophy/The importance of not knowing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Degrees of Freedom.md"
+                "file": "World Building/Philosophy/The importance of not knowing.md"
               }
             }
           },
@@ -235,15 +235,15 @@
   },
   "active": "0031c2538a202266",
   "lastOpenFiles": [
-    "Z1-Inbox/Android Customization.md",
-    "Z1-Inbox/Is position of microparticles really random.md",
-    "Z1-Inbox/Power Usage Comparison of CC and banking systems.md",
-    "Z1-Inbox/Necessity of Politics.md",
-    "Z1-Inbox/What science is.md",
-    "Z1-Inbox/On chasing experiences.md",
-    "Z1-Inbox/Identity.md",
-    "Z1-Inbox/Werewolves.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
-    "Z1-Inbox/How to make a program that prints it's own source.md"
+    "World Building/Philosophy/Epistemology.md",
+    "World Building/Philosophy/Draft Philosophy.md",
+    "World Building/Philosophy/Automation.md",
+    "World Building/Philosophy/Narcissism.md",
+    "World Building/Philosophy/Virtues.md",
+    "World Building/Philosophy/Life.md",
+    "World Building/Philosophy/Emotions.md",
+    "World Building/Philosophy/Elements of the world.md",
+    "World Building/Philosophy/Spirituality.md",
+    "World Building/Philosophy/Disciplines.md"
   ]
 }
