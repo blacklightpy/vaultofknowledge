@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/Is position of microparticles really random.md",
+                "file": "Z1-Inbox/Degrees of Freedom.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Is position of microparticles really random.md",
+                "file": "Z1-Inbox/Degrees of Freedom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Is position of microparticles really random.md",
+                "file": "Z1-Inbox/Degrees of Freedom.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Is position of microparticles really random.md"
+                "file": "Z1-Inbox/Degrees of Freedom.md"
               }
             }
           },
@@ -235,6 +235,8 @@
   },
   "active": "0031c2538a202266",
   "lastOpenFiles": [
+    "Z1-Inbox/Android Customization.md",
+    "Z1-Inbox/Is position of microparticles really random.md",
     "Z1-Inbox/Power Usage Comparison of CC and banking systems.md",
     "Z1-Inbox/Necessity of Politics.md",
     "Z1-Inbox/What science is.md",
@@ -242,8 +244,6 @@
     "Z1-Inbox/Identity.md",
     "Z1-Inbox/Werewolves.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
-    "Z1-Inbox/How to make a program that prints it's own source.md",
-    "Z1-Inbox/3D Modelling Software.md",
-    "Z1-Inbox/Logic and Creativity.md"
+    "Z1-Inbox/How to make a program that prints it's own source.md"
   ]
 }

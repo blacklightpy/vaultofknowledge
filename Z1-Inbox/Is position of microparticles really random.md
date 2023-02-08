@@ -7,4 +7,4 @@ Why do we have to change this interpretation for electrons?
 # Answer
 I figured out the answer to this. Probability obtained from the wavefunction is defined for a region, not for a point.  So the concept of center of mass does not apply here.
 
-In my opinion then, the motion of electrons could be similar
+In my opinion then, the motion of electrons could be similar to a flowy pattern, but that is just a feeling, which hasn't been tested.
