@@ -2,7 +2,7 @@
 - Space is expanding - cosmic redshift - frequency decreases over distances. Does this have anything to do with it?
 
 # Answer
-Think of light flowing spherically from a source. The intensity of light is higher the closer you are to the source, for a given size of region. There is not discrete count, but instead the solid angle of the region of absorption with respect to the source determines the total energy.
+Think of light flowing spherically from a source. The intensity of light is higher the closer you are to the source, for a given size of region. There is no discrete count, but instead the solid angle of the region of absorption with respect to the source determines the total energy.
 
 That is to say, in my intuition, $E=nh\nu$ is incorrect, and instead it should be $E=\Omega h\nu$, where $\Omega$ is the [[solid angle]]. In natural units, we can omit the $h$ and say $E=\nu$ for the minimum energy of a packet. Now of course, I'm going against the conventional explanation, but I'm not baseless in that. I was simply not satisfied with the interpretation taken based on the observations, as outlined in the NCERT chemistry textbook. I can relate this to photometric quanitities like [[Luminous Intensity]] or [[Luminance]], and also with the representation of EM wave propagation using the 'Field of a Moving Charge' applet.
 
