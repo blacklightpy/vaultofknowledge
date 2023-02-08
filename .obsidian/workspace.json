@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doubts.md",
+                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doubts.md",
+                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doubts.md",
+                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doubts.md"
+                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md"
               }
             }
           },
@@ -236,15 +236,15 @@
   },
   "active": "0031c2538a202266",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
     "Doubts.md",
+    "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md",
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
     "World Building/Philosophy/Creation of Drones.md",
     "World Building/Philosophy/Life.md",
     "World Building/Philosophy/Epistemology.md",
     "World Building/Philosophy/The importance of not knowing.md",
     "World Building/Philosophy/Draft Philosophy.md",
     "World Building/Philosophy/Automation.md",
-    "World Building/Philosophy/Narcissism.md",
-    "World Building/Philosophy/Virtues.md"
+    "World Building/Philosophy/Narcissism.md"
   ]
 }
