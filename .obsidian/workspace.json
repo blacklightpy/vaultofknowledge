@@ -47,64 +47,12 @@
             }
           },
           {
-            "id": "c6cdf9d84b163622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4e0229b49e711c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Display Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7db4139267dd603e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World Building/Philosophy/The importance of not knowing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dca6d1b98ea85522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "286e9f26582c5279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Video.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,12 +73,12 @@
             }
           },
           {
-            "id": "e7f4ec8df9ec2628",
+            "id": "c4d2debb7f96fccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Analog to Digital Converters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -204,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Analog to Digital Converters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Analog to Digital Converters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Analog to Digital Converters.md"
               }
             }
           },
@@ -285,17 +233,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dca6d1b98ea85522",
+  "active": "c4d2debb7f96fccf",
   "lastOpenFiles": [
-    "Video.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
+    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Engines.md",
     "To Do.md",
-    "Literature/Legalese.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+    "World Building/Philosophy/Draft Philosophy.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
+    "World Building/Philosophy/The importance of not knowing.md",
+    "README.md",
+    "World Building/Philosophy/Philosophy.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "World Building/Science and Engineering/Engineering/Materials Engineering/Strength to Weight Ratio.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Strength.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md"
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
   ]
 }
