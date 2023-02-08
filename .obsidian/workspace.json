@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
+                "file": "Doubts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
+                "file": "Doubts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
+                "file": "Doubts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md"
+                "file": "Doubts.md"
               }
             }
           },
@@ -236,9 +236,9 @@
   },
   "active": "0031c2538a202266",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
     "Doubts.md",
     "World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance.md",
-    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
     "World Building/Philosophy/Creation of Drones.md",
     "World Building/Philosophy/Life.md",
     "World Building/Philosophy/Epistemology.md",
