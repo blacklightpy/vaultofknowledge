@@ -24,7 +24,7 @@ LTE on Raspberry Pi
 **Power Unit**
 1. Battery
 **Skeleton Unit**
-1. Chassi
+1. Chassis
 2. Outer body
 **Additional Functional Units**
 1. Cargo box

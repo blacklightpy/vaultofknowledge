@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Creation of Drones.md",
+                "file": "Doubts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Creation of Drones.md",
+                "file": "Doubts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Creation of Drones.md",
+                "file": "Doubts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Creation of Drones.md"
+                "file": "Doubts.md"
               }
             }
           },
@@ -235,6 +235,7 @@
   },
   "active": "0031c2538a202266",
   "lastOpenFiles": [
+    "World Building/Philosophy/Creation of Drones.md",
     "World Building/Philosophy/Life.md",
     "World Building/Philosophy/Epistemology.md",
     "World Building/Philosophy/The importance of not knowing.md",
@@ -243,7 +244,6 @@
     "World Building/Philosophy/Narcissism.md",
     "World Building/Philosophy/Virtues.md",
     "World Building/Philosophy/Emotions.md",
-    "World Building/Philosophy/Elements of the world.md",
-    "World Building/Philosophy/Spirituality.md"
+    "World Building/Philosophy/Elements of the world.md"
   ]
 }
