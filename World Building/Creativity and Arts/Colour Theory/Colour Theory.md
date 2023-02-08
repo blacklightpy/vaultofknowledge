@@ -15,6 +15,7 @@
 - Colour Gradient - Specifies a range of position-dependent colours, usually used to fill a region
 	- Aka Colour Ramp or Colour Progression. In assigning colours to a set of values, it is a continuous colourmap, a colour scheme representation method.
 
+## Rough Work here
 - HSV, HSL, HSB
 - cmyk has a slight deficiency notably in orange and slightly in purples - wider range of colours by adding other colours, like pantone hexachrome (cmykog) - discontinued
 

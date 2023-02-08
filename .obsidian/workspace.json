@@ -125,58 +125,6 @@
             }
           },
           {
-            "id": "ca70bc2d3bee2d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d52012986a1028f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8b651a698adad4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e224ae716050107e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e7f4ec8df9ec2628",
             "type": "leaf",
             "state": {
@@ -188,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca724d83f3adad07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Video.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -269,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -309,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
+                "file": "README.md"
               }
             }
           },
@@ -350,17 +285,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "dca6d1b98ea85522",
   "lastOpenFiles": [
+    "Video.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
+    "To Do.md",
+    "Literature/Legalese.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Engineering/Materials Engineering/Strength to Weight Ratio.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Strength.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance.md",
-    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Lagrangian Mechanics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Stress.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Solid Mechanics/Fracture Mechanics.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Luma.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
+    "World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md"
   ]
 }
