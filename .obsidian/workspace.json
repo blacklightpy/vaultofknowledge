@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "solid angle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,6 +236,8 @@
   },
   "active": "0031c2538a202266",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Pure Mathematics/Solid angle.md",
+    "Doubts.md",
     "World Building/Philosophy/Creation of Drones.md",
     "World Building/Philosophy/Life.md",
     "World Building/Philosophy/Epistemology.md",
@@ -242,8 +245,6 @@
     "World Building/Philosophy/Draft Philosophy.md",
     "World Building/Philosophy/Automation.md",
     "World Building/Philosophy/Narcissism.md",
-    "World Building/Philosophy/Virtues.md",
-    "World Building/Philosophy/Emotions.md",
-    "World Building/Philosophy/Elements of the world.md"
+    "World Building/Philosophy/Virtues.md"
   ]
 }
