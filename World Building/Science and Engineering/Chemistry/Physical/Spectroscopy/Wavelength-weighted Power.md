@@ -1,3 +1,3 @@
-Wavelength weighted power is calculated by taking the [[Fourier Transform]] of the wave, which gives the power of each wavelength in a [[spectral power distribution]].
+Wavelength weighted power is calculated by first taking the [[Fourier Transform]] of the wave, which gives the power of each wavelength in a [[spectral power distribution]].
 
 Then the average can be calculated by taking the sum of powers of each wavelength divided by the number of wavelengths. The weighted average is calculated by dividing the sum of products of wavelengths with their powers divided by the sum of wavelengths.
