@@ -7,7 +7,7 @@ I wrote the notes myself in Obsidian, but I used [obsidian-zola](https://github.
 So this site isn't perfect (as I want it to be).
 
 **Why did I publish this now, then?**
-- I wanted to publish this since February this year, but I waited for writing my own publishing system, but I got busier with college work, and decided that it's better to do something rather than waiting to make it perfect and not doing anything.
+- I wanted to publish this since February this year (2022), but I waited for writing my own publishing system, but I got busier with college work, and decided that it's better to do something rather than waiting to make it perfect and not doing anything.
 - Also having a public knowledgebase helps motivate me to maintain a better knowledgebase, and also help me share knowledge with others and hopefully do some cool projects together.
 
 I will write my own publishing system later to fix those problems. So consider this an early version of my site. There's also some personal information as well, but I don't mind it being there. I'll also be adding a blog and other cool stuff, as listed here: [[Personal Website Ideas]]

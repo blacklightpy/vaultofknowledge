@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "home.md"
               }
             }
           },
@@ -233,10 +233,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a4aafd3f3551b430",
+  "active": "a3642d0e99421c6c",
   "lastOpenFiles": [
-    "home.md",
     "README.md",
+    "home.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Philosophy/Philosophy.md",
