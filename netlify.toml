@@ -6,9 +6,9 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Enter the wiki"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Hi, I'm Jyothish and this is my personal Zettelkasten knowledgebase or second brain."
+LANDING_DESCRIPTION = "Hi, I'm Jyothish and this is my personal Zettelkasten knowledgebase or second brain. A graph of the connected notes should show up, but it takes around 10-20 seconds due to the high number of notes."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "README"
 # (Optional) Site title on landing page
 LANDING_TITLE = "My personal knowledgebase"
 PYTHON_VERSION = "3.8"
