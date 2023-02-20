@@ -8,7 +8,7 @@ LANDING_BUTTON = "Enter the wiki"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Hi, I'm Jyothish and this is my personal Zettelkasten knowledgebase or second brain. The graph takes 10-20 seconds to load."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "README"
+LANDING_PAGE = "home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "My personal knowledgebase"
 PYTHON_VERSION = "3.8"
