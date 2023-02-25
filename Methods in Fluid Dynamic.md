@@ -2,6 +2,6 @@ Navier Stokes Equations
 
 Fundamentals of Gears
 
-Math - FORTRAN / Octave / MATLAB Symbolic Math Toolbox / SciLab / Maple / Mathcad / Mathematica; SageMath; Lean
+Math - FORTRAN / Octave / MATLAB Symbolic Math Toolbox / SciLab / Maple / Mathcad / Mathematica / Anaconda; SageMath; Lean
 
 Range-Kutta Methods - ODEs
