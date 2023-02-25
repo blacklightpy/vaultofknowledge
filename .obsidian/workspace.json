@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods in Fluid Dynamic.md",
+                "file": "Methods in Fluid Dynamics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods in Fluid Dynamic.md",
+                "file": "Methods in Fluid Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods in Fluid Dynamic.md",
+                "file": "Methods in Fluid Dynamics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods in Fluid Dynamic.md"
+                "file": "Methods in Fluid Dynamics.md"
               }
             }
           },
@@ -235,6 +235,8 @@
   },
   "active": "3fc71e2693f29e41",
   "lastOpenFiles": [
+    "Energy Production Efficiency.md",
+    "Methods in Fluid Dynamics.md",
     "Untitled.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
@@ -242,8 +244,6 @@
     "World Building/Philosophy/The importance of not knowing.md",
     "README.md",
     "home.md",
-    "To Do.md",
-    "von Kries Transform.md",
-    "CSS colours.md"
+    "To Do.md"
   ]
 }
