@@ -12,3 +12,4 @@ Aluminium Alloy Reference: https://www.rcuniverse.com/forum/rc-1-8th-scale-buggi
 Idea for Fiberglass wrap: https://drones.stackexchange.com/questions/877/what-is-a-good-alternative-to-carbon-fibre-for-a-quadcopter-frame
 
 Blender Backup Addon: https://blender.stackexchange.com/questions/6940/config-blender-to-save-backup-files-in-subfolder
+Blender Git (easy diffs): https://devtalk.blender.org/t/blendit-blender-git-version-control-for-blender/25992
