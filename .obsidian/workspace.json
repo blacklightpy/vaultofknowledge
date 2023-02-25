@@ -84,6 +84,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "758832d0955944da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -235,15 +248,15 @@
   },
   "active": "3fc71e2693f29e41",
   "lastOpenFiles": [
-    "Energy Production Efficiency.md",
-    "Methods in Fluid Dynamics.md",
     "Untitled.md",
+    "Methods in Fluid Dynamics.md",
+    "Tasks.md",
+    "Energy Production Efficiency.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/The importance of not knowing.md",
     "README.md",
-    "home.md",
-    "To Do.md"
+    "home.md"
   ]
 }
