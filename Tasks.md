@@ -8,3 +8,4 @@ Twt:
 - AI replacing coding
 - FreeCAD
 - My Clothes
+- My father - Ronaldo quote
