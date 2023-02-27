@@ -21,4 +21,4 @@ Twt:
 - Dhanvin:
 	- They make features paid later
 	- The point where price becomes unfair
-- DMG, Homebrew | Chocolatey, WinGet, Store; Source, EXE, MSI, MSIX, APPX
+- Homebrew, Store; Source, DMG | Chocolatey, WinGet, Store; Source, EXE, MSI, MSIX, APPX | APT, Zypper, DNF, YUM, pacman, Portage, Snap, Flatpak; Source, DEB, RPM, AppImage |NPM, pip, NuGet, yarn, RubyGems, Composer
