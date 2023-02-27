@@ -17,7 +17,7 @@ Twt:
 - Sky
 - Journal
 - POST: Spacetime
-- NAND2Tetris, LFS, BLFS, MinixFS, UnixFS, xv6, DOS, C | Pop / Gentoo
+- NAND2Tetris, LFS, BLFS, Kernel trimming, MinixFS, UnixFS, xv6, DOS, C | Pop / Gentoo
 - Dhanvin:
 	- They make features paid later
 	- The point where price becomes unfair
