@@ -21,3 +21,4 @@ Twt:
 - Dhanvin:
 	- They make features paid later
 	- The point where price becomes unfair
+- DMG, Homebrew | Chocolatey, WinGet, Store; Source, EXE, MSI, MSIX, APPX
