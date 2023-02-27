@@ -22,3 +22,4 @@ Twt:
 	- They make features paid later
 	- The point where price becomes unfair
 - Homebrew, Store; Source, DMG | Chocolatey, WinGet, Ninite, Store; Source, EXE, MSI, MSIX, APPX | APT, Aptitude, Synaptic, Zypper, YaST, DNF, YUM, pacman, Portage, Nix, pkg, xbps-install, Snap, Flatpak; Source, DEB, RPM, AppImage |NPM, pip, NuGet, yarn, RubyGems, Composer
+- TAR, gzip, .tgz, ZIP
