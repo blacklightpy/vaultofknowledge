@@ -97,19 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "520f3c065cc35a23",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,11 +246,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "520f3c065cc35a23",
+  "active": "758832d0955944da",
   "lastOpenFiles": [
     "Methods in Fluid Dynamics.md",
-    "Untitled.md",
     "Tasks.md",
+    "Untitled.md",
     "Energy Production Efficiency.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",

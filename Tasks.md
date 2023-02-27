@@ -5,7 +5,7 @@ Work:
 
 Twt:
 
-- AI replacing coding
+- AI replacing coding MechE
 - FreeCAD
 - My Clothes
 - My father - Ronaldo quote
