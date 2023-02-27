@@ -97,6 +97,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8e09a0deea295ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 6
@@ -128,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vagrant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,9 +262,10 @@
   },
   "active": "758832d0955944da",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
+    "Tasks.md",
     "Untitled.md",
     "Methods in Fluid Dynamics.md",
-    "Tasks.md",
     "Energy Production Efficiency.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
