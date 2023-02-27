@@ -18,3 +18,6 @@ Twt:
 - Journal
 - POST: Spacetime
 - NAND2Tetris, LFS, BLFS, MinixFS, UnixFS, xv6, DOS, C | Pop / Gentoo
+- Dhanvin:
+	- They make features paid later
+	- The point where price becomes unfair
