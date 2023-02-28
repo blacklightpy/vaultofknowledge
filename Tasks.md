@@ -24,3 +24,4 @@ Twt:
 - Homebrew, Store; Source, DMG | Chocolatey, WinGet, Ninite, PortableApps, 0install, Store; Source, EXE, MSI, MSIX, APPX | APT, Aptitude, Synaptic, Zypper, YaST, DNF, YUM, pacman, pamac, aurman, Portage, Nix, eopkg, xbps-install, Snap, Flatpak; Source, DEB, RPM, AppImage |NPM, pip, NuGet, yarn, RubyGems, Composer
 - TAR, gzip, .tgz, ZIP
 - Music: Ardour, MusE, ZRythm
+- Intel: Atom, Celeron, Pentium, Core (i3,i5,i7,i9), Xeon | AMD: AMD, A-Series, E-Series, FX-Series, PRO A-Series, Athlon, Athlon PRO, Athlon Gold PRO, Ryzen (3,5,7,9), Ryzen (3,5,7,9) PRO, Embedded, Threadripper, Threadripper PRO, EPYC
