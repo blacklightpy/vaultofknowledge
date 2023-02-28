@@ -24,6 +24,6 @@ Twt:
 - Homebrew, Store; Source, DMG | Chocolatey, WinGet, Ninite, PortableApps, 0install, Store; Source, EXE, MSI, MSIX, APPX | APT, Aptitude, Synaptic, Zypper, YaST, DNF, YUM, pacman, pamac, aurman, Portage, Nix, eopkg, xbps-install, Snap, Flatpak; Source, DEB, RPM, AppImage |NPM, pip, NuGet, yarn, RubyGems, Composer
 - TAR, gzip, .tgz, ZIP
 - Music: Ardour, MusE, ZRythm
-- Intel: Atom, Celeron (Blank, N, J, G), Pentium (Blank, Silver, Gold), Core (i3,i5,i7,i9), Xeon (Bronze,D,W,E3,E5,E7,Silver,Gold,Platinum) | AMD: AMD, A-Series (Blank, PRO A-Series), E-Series, FX-Series, Athlon (Blank, Gold, Gold PRO), Ryzen ((3,5,7,9)(Blank, PRO)), Embedded, Threadripper (Blank, PRO), EPYC
+- Intel: Atom, Celeron (Blank, N, J, G), Pentium (Blank, Silver, Gold), Core (i3,i5,i7,i9), Xeon (Blank,LV,MV,MP,ULV,L,X,D,E,W,E3,E5,E7,Bronze,Silver,Gold,Platinum) | AMD: AMD, A-Series (Blank, PRO A-Series), E-Series, FX-Series, Athlon (Blank, Gold, Gold PRO), Ryzen ((3,5,7,9)(Blank, PRO)), Embedded, Threadripper (Blank, PRO), EPYC
 - Embedded: Intel, Qualcomm, Broadcom, NXP iMXP
 - From 2023, Intel Core, Celeron and Pentium will be replaced with Intel Processor lineup. Pentium and Celeron are brands, but Core is a trademark. The upcoming Processor will also be a trademark. Also i3 N-Series, Processor N-Series and U-Series are being introduced, which do not contain the generation number.
