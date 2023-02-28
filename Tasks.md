@@ -31,4 +31,4 @@ Twt:
 	- Aerostats (lighter than air) - Balloons (Unpowered), Airships (Powered) | Aerodynes (Heavier than air) - Aerodynamic lift, Powered lift (VTOL)
 	- Rockets don't depend on aerodynamic lift, and can do spaceflight
 - Virtualization, Paravirtualization, Passthrough (GPU/PCIe/VFIO), SR-IOV - https://news.ycombinator.com/item?id=23568006
-- Satellite Bus | Geosynchronous Orbits | Hyperloop | Launch Vehicle | Rocket Engine
+- Satellite Bus | Geosynchronous Orbits | Hyperloop | Launch Vehicle | Rocket Engine | Space Elevator (Kevlar string can work in Moon)
