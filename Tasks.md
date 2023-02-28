@@ -26,3 +26,4 @@ Twt:
 - Music: Ardour, MusE, ZRythm
 - Intel: Atom, Celeron, Celeron Gold, Pentium, Pentium Gold, Core (i3,i5,i7,i9), Xeon (Bronze,D,W,E3,E5,E7,Silver,Gold,Platinum) | AMD: AMD, A-Series, E-Series, FX-Series, PRO A-Series, Athlon, Athlon PRO, Athlon Gold PRO, Ryzen (3,5,7,9), Ryzen (3,5,7,9) PRO, Embedded, Threadripper, Threadripper PRO, EPYC
 - Embedded: Intel, Qualcomm, Broadcom, NXP iMXP
+- From 2023, Intel Core, Celeron and Pentium Gold will be replaced with Intel Processor lineup. Pentium and Celeron are brands, but Core is a trademark. The upcoming Processor will also be a trademark.
