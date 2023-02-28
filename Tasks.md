@@ -21,6 +21,8 @@ Twt:
 - Dhanvin:
 	- They make features paid later
 	- The point where price becomes unfair
+
+Concepts:
 - Homebrew, Store; Source, DMG | Chocolatey, WinGet, Ninite, PortableApps, 0install, Store; Source, EXE, MSI, MSIX, APPX | APT, Aptitude, Synaptic, Zypper, YaST, DNF, YUM, pacman, pamac, aurman, Portage, Nix, eopkg, xbps-install, Snap, Flatpak; Source, DEB, RPM, AppImage |NPM, pip, NuGet, yarn, RubyGems, Composer
 - TAR, gzip, .tgz, ZIP
 - Music: Ardour, MusE, ZRythm
