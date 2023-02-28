@@ -27,3 +27,5 @@ Twt:
 - Intel: Atom, Celeron (Blank, N, J, G), Pentium (Blank,Pro,D,M,Silver, Gold), Core (2,i3,i5,i7,i9), Xeon (Blank,LV,MV,MP,ULV,L,X,D,E,W,E3,E5,E7,Bronze,Silver,Gold,Platinum) | AMD: AMD, A-Series (Blank, PRO A-Series), E-Series, FX-Series, Athlon (Blank, Gold, Gold PRO), Ryzen ((3,5,7,9)(Blank, PRO)), Embedded, Threadripper (Blank, PRO), EPYC
 - Embedded: Intel, Qualcomm, Broadcom, NXP iMXP
 - From 2023, Intel Core, Celeron and Pentium will be replaced with Intel Processor lineup. Pentium and Celeron are brands, but Core is a trademark. The upcoming Processor will also be a trademark. Also i3 N-Series, Processor N-Series and U-Series are being introduced, which do not contain the generation number.
+- Aircrafts
+	- Aerostats (lighter than air) - Balloons (Unpowered), Airships (Powered) | Aerodynes (Heavier than air) - Static/Dynamic lift of Airfoil, Downward thrust of Jet Engine
