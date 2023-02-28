@@ -37,4 +37,4 @@ Concepts:
 	- Rockets don't depend on aerodynamic lift, and can do spaceflight
 - Virtualization, Paravirtualization, Passthrough (GPU/PCIe/VFIO), SR-IOV - https://news.ycombinator.com/item?id=23568006
 - Satellite Bus | Geosynchronous Orbits | Hyperloop | Launch Vehicle | Rocket Engine | Space Elevator (Kevlar string can work in Moon)
-- $\rho_0=\rho_t(1+\alpha(T-T_0))$ 
+- $\rho_0=\rho_t(1+\alpha(T-T_0))$  - For conductors (not semiconductors, which have exponential)
