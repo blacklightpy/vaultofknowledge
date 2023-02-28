@@ -29,3 +29,4 @@ Twt:
 - From 2023, Intel Core, Celeron and Pentium will be replaced with Intel Processor lineup. Pentium and Celeron are brands, but Core is a trademark. The upcoming Processor will also be a trademark. Also i3 N-Series, Processor N-Series and U-Series are being introduced, which do not contain the generation number.
 - Aircrafts
 	- Aerostats (lighter than air) - Balloons (Unpowered), Airships (Powered) | Aerodynes (Heavier than air) - Static/Dynamic lift of Airfoil, Downward thrust of Jet Engine
+	- Rockets don't depend on aerodynamic lift
