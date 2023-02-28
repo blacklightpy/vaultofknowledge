@@ -30,3 +30,4 @@ Twt:
 - Aircrafts
 	- Aerostats (lighter than air) - Balloons (Unpowered), Airships (Powered) | Aerodynes (Heavier than air) - Aerodynamic lift, Powered lift (VTOL)
 	- Rockets don't depend on aerodynamic lift, and can do spaceflight
+- Virtualization, Paravirtualization, Passthrough, SR-IOV - https://news.ycombinator.com/item?id=23568006
