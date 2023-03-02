@@ -65,7 +65,7 @@ Source: That YT Video on how there are only a few companies
 - Johnson and Johnson
 - Walmart
 
-## Automotive and Hardware Tech
+# Automotive and Hardware Tech
 - Toyota
 	- Lexus
 - Volkswagen
