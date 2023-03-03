@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linear algebra",
+                "query": "font",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Methods in Fluid Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Methods in Fluid Dynamics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Methods in Fluid Dynamics.md"
               }
             }
           },
@@ -248,11 +249,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "758832d0955944da",
+  "active": "3fc71e2693f29e41",
   "lastOpenFiles": [
-    "Methods in Fluid Dynamics.md",
     "Untitled.md",
     "Tasks.md",
+    "Methods in Fluid Dynamics.md",
+    "Z1-Inbox/Design Elements.md",
     "World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1976 Uniform Colour Spaces.md",
     "Maths to Learn.md",

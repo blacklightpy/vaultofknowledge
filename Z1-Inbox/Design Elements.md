@@ -1,6 +1,7 @@
 - Whitespaces and Information Spacing
 - Compactness and Information Density
-- Font typeface and Font size
+- Visual Heirarchy
+- Font typeface, size and weight
 - Colour Scheme
 - Grayscale Colour Scheme
 - Intuitiveness
