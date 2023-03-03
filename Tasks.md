@@ -27,7 +27,7 @@ Twt:
 - How to public domain license - Dheeraj
 
 Concepts:
-- Homebrew, Store; Source, DMG | Chocolatey, WinGet, Ninite, PortableApps, 0install, Store; Source, EXE, MSI, MSIX, APPX | APT, Aptitude, Synaptic, Zypper, YaST, DNF, YUM, pacman, pamac, aurman, Portage, Nix, eopkg, xbps-install, Snap, Flatpak; Source, DEB, RPM, AppImage |NPM, pip, NuGet, yarn, RubyGems, Composer
+- Homebrew, Store; Source, DMG | Chocolatey, WinGet, Ninite, PortableApps, 0install, Store; Source, EXE, MSI, MSIX, APPX | APT, Aptitude, Synaptic, Zypper, YaST, DNF, YUM, pacman, pamac, aurman, Portage, Nix, eopkg, xbps-install, Snap, Flatpak; Source, DEB, RPM, AppImage | NPM, pip, NuGet, yarn, RubyGems, Composer
 - TAR, gzip, .tgz, ZIP
 - Music: Ardour, MusE, ZRythm
 - Code_Aster (FEA), SALOME (Geometry and Meshing; Includes SHAPER CAD, PARAVIS, etc.), OpenFOAM, BARAM, CalculiX, FreeCAD, Elmer-FEM | Simscale uses Code_Aster and CalculiX for FEM and OpenFOAM for CFD | ANSYS/SimScale for ease of use | SALOME-Meca (Salome+Code_Aster), Salome CFD, Salome Hydro, TRUST
