@@ -230,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,8 +250,8 @@
   "active": "e00b6eff5635a6c8",
   "lastOpenFiles": [
     "Untitled.md",
-    "Tasks.md",
     "Methods in Fluid Dynamics.md",
+    "Tasks.md",
     "World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
     "home.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",

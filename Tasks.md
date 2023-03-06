@@ -1,5 +1,17 @@
 Work:
 - About trust
+
+TIL:
+- Poetry manages Python dependencies with pyprojects.toml
+- Github Action scripts are reusable scripts
+- netlify.yaml environment variables can be used by build scripts
+- Similarly, Github Actions environment variables can also be used by build scripts
+- Github Actions is split into workflows and jobs. Jobs are seperate virtual machines that run parallely, and runs actions.
+- Netlify can build private repos.
+- Github Actions have limits on private repos and domain names.
+- Github Actions have unlimited build minutes in public repos.
+- Enable actions/checkout@v3 before accessing the repository in a job.
+- Actions can be run on push event trigger.
 ---
 
 - PROJ: Git Hello Worlds
@@ -10,6 +22,10 @@ Work:
 - IDEA: Adjusting pricing based on supply transport charges
 - WRITING-PROMPT: The smaller you zoom a Mandelbort set, the chances of getting lost in open space is high. Imagine if you were like AntMan, but you have to touch a particle to come back to being a human.
 - How to public domain license - Dheeraj
+- FOSS Bookmark Management: Floccus, xBrowserSync, Briefkasten, Linkwarden
+- FOSS Writing: StylusLabs Write, Xournal++, Scrivano
+- Static Site Generators: Sphinx, Hugo, Jekyll, ObsidianHtml, Wiki Engines, docfx, Docusaurus, Gitbook
+- FACT: Markdown was developed by John Gruber and **Aaron Swartz**. Gruber wrote the first implementaion for MD to HTML converter in Perl.
 
 Concepts:
 - Learning Linux: NAND2Tetris, LFS, BLFS, Kernel trimming, MinixFS, UnixFS, xv6, DOS, C | Pop / Gentoo
