@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This is my personal knowledgebase where I organize information for future reference.
+This is my personal knowledgebase where I organize information for future reference. Taking notes in this manner helps reduce entropy in my head, and might also help others.
 
 Surely, it doesn't have everything, but it can serve as a map for connecting information. I also continuously re-organize the structures so the heirarchies can change.
 
