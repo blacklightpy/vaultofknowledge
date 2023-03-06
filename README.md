@@ -1,10 +1,16 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
+# The Vault of Knowledge
 
 This is my personal knowledgebase where I organize information for future reference. Taking notes in this manner helps reduce entropy in my head, and might also help others.
 
+The title for this site was inspired by a location in the game Sky: Children of The Light with the same name.
+
 Surely, it doesn't have everything, but it can serve as a map for connecting information. I also continuously re-organize the structures so the heirarchies can change.
 
-# License
+## Thanks to the Heroes
+- ObsidianHtml
+
+## License
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
