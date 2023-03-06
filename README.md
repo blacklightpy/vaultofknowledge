@@ -1,9 +1,10 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 This is my personal knowledgebase where I organize information for future reference.
 
 Surely, it doesn't have everything, but it can serve as a map for connecting information. I also continuously re-organize the structures so the heirarchies can change.
 
 # License
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
