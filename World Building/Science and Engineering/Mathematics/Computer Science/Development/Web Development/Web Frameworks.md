@@ -15,3 +15,14 @@ ExpressJS
 **Go**
 **Java**
 **Ruby**
+# Backend Languages
+PHP
+Haxe (Cross Compiles to PHP)
+JavaScript
+TypeScript (Cross Compiles to JS)
+Perl
+Python
+C#
+Go
+Java
+Ruby

@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods in Fluid Dynamics.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods in Fluid Dynamics.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods in Fluid Dynamics.md"
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
               }
             }
           },
@@ -236,7 +236,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -245,16 +244,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d8f6ea7ad653df17",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Frameworks.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
+    "Methods in Fluid Dynamics.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
+    "Tasks.md",
+    "Studying FreeCAD Source Code.md",
     "README.md",
     "LICENSE.md",
-    "Methods in Fluid Dynamics.md",
     "cc-by-shield.md",
-    "Tasks.md",
     "Untitled.md",
     "World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
     "home.md",
@@ -272,10 +277,6 @@
     "Digital and Analog Systems.md",
     "Maths to Learn.md",
     "CSS colours.md",
-    "von Kries Transform.md",
-    "Planckian Locus.md",
-    "Composite Video.md",
-    "Chroma Subsampling.md",
     "_images/02 Boom, Boom, Boom, Boom!!.m4a",
     "_images/Pasted image 20230305034909.png",
     "_images/Pasted image 20230305023731.png",

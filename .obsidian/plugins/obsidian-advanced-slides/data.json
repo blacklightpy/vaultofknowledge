@@ -1,0 +1,17 @@
+{
+  "port": "3001",
+  "autoReload": true,
+  "exportDirectory": "/export",
+  "enableChalkboard": false,
+  "enableOverview": false,
+  "enableMenu": false,
+  "theme": "black",
+  "highlightTheme": "zenburn",
+  "transition": "slide",
+  "transitionSpeed": "default",
+  "controls": true,
+  "progress": true,
+  "slideNumber": false,
+  "showGrid": false,
+  "autoComplete": "inPreview"
+}
