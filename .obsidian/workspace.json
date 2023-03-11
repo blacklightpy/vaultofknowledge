@@ -97,9 +97,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0f45bf48ccac624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Productivity/Setting Zones on PC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cff565954b8a79b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Productivity/Essential Planners.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -165,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "Personal/Productivity/Essential Planners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "Personal/Productivity/Essential Planners.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
+                "file": "Personal/Productivity/Essential Planners.md"
               }
             }
           },
@@ -248,35 +274,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "cff565954b8a79b6",
   "lastOpenFiles": [
+    "Personal/Productivity/Setting Zones on PC.md",
+    "World Building/Marketplace and Creations/Software Implementations/Git.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Version Control/Git Workflows.md",
+    "Personal/Productivity/Essential Planners.md",
+    "Untitled.md",
+    "Personal/Productivity/Productivity Tips.md",
+    "Tasks.md",
+    "Methods in Fluid Dynamics.md",
+    "Personal/Tips/Notion Tips.md",
+    "Personal/Task List/Hello Worlds.md",
+    "Personal/Knowledge/Colour Theory.md",
+    "Personal/Knowledge/Colour Schemes.md",
+    "Personal/Leisure/Games.md",
+    "Personal/Leisure/Animes.md",
+    "Personal/Tips/Studying Code.md",
+    "Personal/Tips/Presentation Tips.md",
+    "Personal/Toolkits/Tools and Extensions.md",
+    "Personal/Toolkits/Software Toolkit.md",
+    "Personal/Toolkits/Social Medias/For Visual Content.md",
+    "Personal/Task List/To Fill.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Frameworks.md",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
-    "Methods in Fluid Dynamics.md",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "Tasks.md",
     "Studying FreeCAD Source Code.md",
     "README.md",
-    "LICENSE.md",
-    "cc-by-shield.md",
-    "Untitled.md",
-    "World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
-    "home.md",
-    "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
-    "Z0-Organizing (All Notes Matter)/Tried Software Review.md",
-    "Z0-Organizing (All Notes Matter)/Android Games I Like.md",
-    "Z0-Organizing (All Notes Matter)/Sticky Notes.md",
-    "Z0-Organizing (All Notes Matter)/Knowing what I should do.md",
-    "Z0-Organizing (All Notes Matter)/Master ToDo.md",
-    "Z0-Organizing (All Notes Matter)/Creative Ideas.md",
-    "To Learn.md",
-    "Internet of Things.md",
-    "Transfer Function.md",
-    "Data and Information Visualization.md",
-    "Digital and Analog Systems.md",
-    "Maths to Learn.md",
-    "CSS colours.md",
     "_images/02 Boom, Boom, Boom, Boom!!.m4a",
     "_images/Pasted image 20230305034909.png",
     "_images/Pasted image 20230305023731.png",

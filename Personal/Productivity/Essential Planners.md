@@ -1,0 +1,4 @@
+- List of essentials (for recurring purchases)
+- List of essentials (one-time purchase)
+- Workout Planner
+- Academic Planner
