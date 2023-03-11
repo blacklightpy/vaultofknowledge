@@ -1,0 +1,243 @@
+${{ github.workspace }}
+obsidian_entrypoint_path_str: vaultofknowledge/home.md
+log_output_folder_path_str: output/log
+included_folders: []
+exclude_glob:
+  - /.obsidian
+  - /.trash
+  - /.DS_Store
+  - /.git
+max_note_depth: -1
+copy_vault_to_tempdir: true
+copy_vault_to_tempdir_method: default
+copy_vault_to_tempdir_follow_copy: true
+included_file_suffixes:
+  - jpg
+  - jpeg
+  - gif
+  - png
+  - bmp
+  - svg
+  - mp4
+  - webm
+  - ogv
+  - mov
+  - mkv
+  - mp3
+  - wav
+  - m4a
+  - ogg
+  - 3gp
+  - flac
+  - pdf
+video_format_suffixes:
+  - mp4
+  - webm
+  - ogv
+  - mov
+  - mkv
+audio_format_suffixes:
+  - mp3
+  - webm
+  - wav
+  - m4a
+  - ogg
+  - 3gp
+  - flac
+embeddable_file_suffixes:
+  - pdf
+md_source_host_urls: []
+site_name: Vault of Knowledge
+html_url_prefix: '/vaultofknowledge'
+html_template_path_str: ''
+html_custom_inclusions: []
+html_custom_footer_inclusions: []
+navbar_links: []
+file_exports: []
+toggles:
+  compile_md: true
+  compile_html: true
+  strict_line_breaks: false
+  force_filename_to_lowercase: true
+  process_all: true
+  verbose_printout: true
+  debug_filetree_keys: false
+  extended_logging: false
+  allow_duplicate_filenames_in_root: true
+  warn_on_skipped_image: true
+  no_clean: false
+  relative_path_md: true
+  relative_path_html: false
+  external_blank: false
+  preserve_inline_tags: true
+  features:
+    styling:
+      layout: documentation
+      header_template: full
+      max_note_width: 120rem
+      add_dir_list: true
+      accent_color: 65, 76, 253
+      loading_bg_color: 255, 255, 255
+    theme_picker:
+      enabled: true
+      styling:
+        show_icon: true
+    code_highlight:
+      enabled: true
+    mermaid_diagrams:
+      enabled: true
+    callouts:
+      enabled: true
+    math_latex:
+      enabled: true
+    backlinks:
+      enabled: true
+    embedded_note_titles:
+      enabled: true
+      hide_on_h1: true
+    search:
+      enabled: true
+      styling:
+        show_icon: true
+    embedded_search:
+      enabled: false
+    tags_page:
+      enabled: true
+      styling:
+        show_icon: true
+        show_in_note_footer: true
+    dataview:
+      enabled: false
+      folder: obs.html/export
+    folder_notes:
+      enabled: false
+      placement: outside folder
+      naming: folder name
+    eraser:
+      enabled: true
+    breadcrumbs:
+      enabled: false
+    graph:
+      enabled: true
+      templates:
+        - id: 2d
+          name: 2d
+          path: builtin<2d>
+        - id: 3d
+          name: 3d
+          path: builtin<3d>
+      styling:
+        show_icon: true
+      coalesce_force: '-30'
+      show_inclusions_in_graph: true
+    rss:
+      enabled: false
+      host_root: https://localhost:8888/
+      styling:
+        show_icon: true
+      channel:
+        title: Notes
+        website_link: <https://your website.com>
+        description: <your description>
+        language_code: en-us
+        managing_editor: n/a
+        web_master: n/a
+      items:
+        selector:
+          match_keys: []
+          exclude_keys: []
+          include_subfolders: []
+          exclude_subfolders:
+            - .git
+            - obs.html
+          exclude_files:
+            - not_created.html
+            - index.html
+        description:
+          selectors:
+            - - yaml
+              - rss:description
+            - - first-paragraphs
+              - 2
+              - <br/><br/>
+            - - first-header
+              - 1
+        title:
+          selectors:
+            - - yaml
+              - rss:title
+            - - first-header
+              - 1
+            - - path
+              - - parent
+                - 1
+              - '/ '
+              - - stem
+        publish_date:
+          selectors:
+            - - yaml
+              - rss:publish_date
+            - - yaml_strip
+              - tags
+              - - date/
+          iso_formatted: true
+          format_string: ''
+    create_index_from_dir_structure:
+      enabled: false
+      verbose: false
+      rel_output_path: obs.html/dir_index.html
+      styling:
+        show_icon: true
+      exclude_subfolders:
+        - .git
+        - __src
+        - md
+        - obs.html
+      exclude_files:
+        - .gitignore
+        - favicon.ico
+        - not_created.html
+      homepage_label: index
+    create_index_from_tags:
+      enabled: false
+      verbose: false
+      rel_output_path: obs.html/tag_index.md
+      homepage_label: index
+      use_as_homepage: false
+      add_links_in_graph_tree: true
+      tags: []
+      match_on_inline_tags: false
+      styling:
+        include_folder_in_link: false
+      sort:
+        method: none
+        key_path: ''
+        value_prefix: ''
+        reverse: false
+        none_on_bottom: true
+      exclude_paths:
+        - .gitignore
+    table_of_contents:
+      add_toc_when_missing: true
+    side_pane:
+      left_pane:
+        enabled: true
+        width: 16rem
+        contents: dir_tree
+        content_args:
+          rel_path: index.html
+          div_selector: .content
+          strip_sub_divs:
+            - .toc
+      right_pane:
+        enabled: true
+        width: 16rem
+        contents: toc
+        content_args:
+          rel_path: index.html
+          div_selector: .content
+          strip_sub_divs:
+            - .toc
+md_folder_path_str: md
+md_entrypoint_path_str: md/index.md
+html_output_folder_path_str: html
