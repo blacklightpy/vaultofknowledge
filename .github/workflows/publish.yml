@@ -14,7 +14,6 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: main
-          path: vaultofknowledge
     
       - name: Install dependencies and run build
         run: |
