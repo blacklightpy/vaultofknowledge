@@ -1,5 +1,5 @@
-obsidian_entrypoint_path_str: vaultofknowledge/home.md
-log_output_folder_path_str: output/log
+obsidian_entrypoint_path_str: 'Obsidian Notes/home.md'
+log_output_folder_path_str: vaultofknowledge/log
 included_folders: []
 exclude_glob:
   - /.obsidian
@@ -7,7 +7,7 @@ exclude_glob:
   - /.DS_Store
   - /.git
 max_note_depth: -1
-copy_vault_to_tempdir: false
+copy_vault_to_tempdir: true
 copy_vault_to_tempdir_method: default
 copy_vault_to_tempdir_follow_copy: true
 included_file_suffixes:
@@ -196,7 +196,7 @@ toggles:
         - .gitignore
         - favicon.ico
         - not_created.html
-      homepage_label: index
+      homepage_label: Welcome
     create_index_from_tags:
       enabled: false
       verbose: false
@@ -237,6 +237,6 @@ toggles:
           div_selector: .content
           strip_sub_divs:
             - .toc
-md_folder_path_str: md
-md_entrypoint_path_str: md/index.md
-html_output_folder_path_str: html
+md_folder_path_str: vaultofknowledge/output/md
+md_entrypoint_path_str: vaultofknowledge/output/md/index.md
+html_output_folder_path_str: vaultofknowledge/output
