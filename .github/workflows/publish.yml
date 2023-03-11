@@ -15,10 +15,13 @@ jobs:
         with:
           ref: main
           path: vaultofknowledge
-        run: cd ${{ github.workspace }}
-        run: pip install --upgrade pip
-        run: pip install git+https://github.com/obsidian-html/obsidian-html
-        run: obsidianhtml convert -i vaultofknowledge/config.yaml
+    
+      - name: Install dependencies and run build
+        run: |
+          cd ${{ github.workspace }}
+          pip install --upgrade pip
+          pip install git+https://github.com/obsidian-html/obsidian-html
+          obsidianhtml convert -i vaultofknowledge/config.yaml
     
       - name: Publish to Github Pages
         uses: s0/git-publish-subdir-action@develop
