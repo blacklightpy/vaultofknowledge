@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Push
     steps:
-      - name: Checkout and install dependencies
+      - name: Checkout main
         uses: actions/checkout@v3
         with:
           ref: main
