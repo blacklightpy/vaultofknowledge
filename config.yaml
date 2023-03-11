@@ -7,7 +7,7 @@ exclude_glob:
   - /.DS_Store
   - /.git
 max_note_depth: -1
-copy_vault_to_tempdir: true
+copy_vault_to_tempdir: false
 copy_vault_to_tempdir_method: default
 copy_vault_to_tempdir_follow_copy: true
 included_file_suffixes:
