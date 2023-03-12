@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "e00b6eff5635a6c8",
+            "id": "6e5bb090bdc4e561",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Productivity/Setting Zones on PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal/Productivity/Setting Zones on PC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Personal/Productivity/Setting Zones on PC.md"
               }
             }
           },
@@ -243,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,16 +261,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a1cc1594c6ca16fd",
+  "active": "b0f45bf48ccac624",
   "lastOpenFiles": [
+    "Tasks.md",
     "Methods in Fluid Dynamics.md",
+    "Untitled.md",
     "Personal/Productivity/Setting Zones on PC.md",
     "home.md",
     "netlify.toml_disabled",
     "deployvault.ps1",
     "README.md",
-    "Untitled.md",
-    "Tasks.md",
     "Personal/Productivity/Essential Planners.md",
     "World Building/Marketplace and Creations/Software Implementations/Git.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Version Control/Git Workflows.md",
