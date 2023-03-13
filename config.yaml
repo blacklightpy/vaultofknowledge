@@ -182,7 +182,7 @@ toggles:
           iso_formatted: true
           format_string: ''
     create_index_from_dir_structure:
-      enabled: false
+      enabled: true
       verbose: false
       rel_output_path: obs.html/dir_index.html
       styling:
