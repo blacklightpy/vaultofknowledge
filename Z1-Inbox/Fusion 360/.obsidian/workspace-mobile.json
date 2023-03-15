@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "280459d6a7e4ed7b",
+    "id": "40d0a59c0b663d33",
     "type": "split",
     "children": [
       {
-        "id": "826230be1fd292d4",
+        "id": "ba9bd2af04b47be1",
         "type": "tabs",
         "children": [
           {
-            "id": "ea53a226a7fbcb1e",
+            "id": "c412df26f83efa2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "preview",
+                "file": "Resistors.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ee46cbcf9139f0e5",
+    "id": "90ed3f19a3bd2eca",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bdf138fbf05736c3",
+        "id": "b3d6d58bf1d15141",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,12 +39,12 @@
         }
       },
       {
-        "id": "dfff92db61fd5061",
+        "id": "79bd981ec56acbba",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Layers",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "a4ccd626b921e246",
+        "id": "e09cf22693d73bd4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "fdc7587a2b66c9a3",
+        "id": "15ea1afc162ff327",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3a54e6920be2d4da",
+    "id": "9e099f79cc135148",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c273c1bd38e253f3",
+        "id": "7be6e32a36c6e0a7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Resistors.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "6f07caa9752d5a15",
+        "id": "2a8719d1c26ede2a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Resistors.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "c8de6bbf9c3def49",
+        "id": "f6d735fab918214e",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Resistors.md"
           }
         }
       }
@@ -128,36 +128,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "ea53a226a7fbcb1e",
+  "active": "c412df26f83efa2d",
   "lastOpenFiles": [
-    "Z1-Inbox/Fusion 360/Ceramic Engines.md",
-    "Z1-Inbox/Fusion 360/Engine Aspiration.md",
-    "Z1-Inbox/Fusion 360/Articles to Read.md",
-    "Z1-Inbox/Fusion 360/Blogs to Read.md",
-    "Z1-Inbox/Fusion 360/Sketchnoting.md",
-    "Z1-Inbox/Fusion 360/Customer Service.md",
-    "Z1-Inbox/Fusion 360/Fusion 360.md",
-    "Z1-Inbox/Fusion 360/PCBs.md",
-    "Z1-Inbox/Fusion 360/Ground.md",
-    "Z1-Inbox/Fusion 360/Resistors.md",
-    "Z1-Inbox/Fusion 360/Capacitors.md",
-    "Z1-Inbox/Fusion 360",
-    "Fusion 360/Ceramic Engines.md",
-    "Fusion 360/Engine Aspiration.md",
-    "Fusion 360/Articles to Read.md",
-    "Fusion 360/Blogs to Read.md",
-    "Fusion 360/Sketchnoting.md",
-    "Fusion 360/Customer Service.md",
-    "Fusion 360/Fusion 360.md",
-    "Fusion 360/PCBs.md",
-    "Fusion 360/Ground.md",
-    "Fusion 360/Resistors.md",
-    "Fusion 360/Capacitors.md",
-    "Fusion 360",
-    "Untitled.md",
-    "Tasks.md"
+    "Sketchnoting.md",
+    "Capacitors.md",
+    "Ceramic Engines.md",
+    "Customer Service.md",
+    "Blogs to Read.md",
+    "Articles to Read.md",
+    "Engine Aspiration.md",
+    "Fusion 360.md",
+    "Resistors.md",
+    "PCBs.md",
+    "Ground.md"
   ]
 }
