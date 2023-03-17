@@ -1,5 +1,5 @@
-obsidian_entrypoint_path_str: 'Obsidian Notes/home.md'
-log_output_folder_path_str: vaultofknowledge/log
+obsidian_entrypoint_path_str: vaultofknowledge/home.md
+log_output_folder_path_str: output/log
 included_folders: []
 exclude_glob:
   - /.obsidian
@@ -182,7 +182,7 @@ toggles:
           iso_formatted: true
           format_string: ''
     create_index_from_dir_structure:
-      enabled: false
+      enabled: true
       verbose: false
       rel_output_path: obs.html/dir_index.html
       styling:
@@ -196,7 +196,7 @@ toggles:
         - .gitignore
         - favicon.ico
         - not_created.html
-      homepage_label: Welcome
+      homepage_label: index
     create_index_from_tags:
       enabled: false
       verbose: false
@@ -237,6 +237,6 @@ toggles:
           div_selector: .content
           strip_sub_divs:
             - .toc
-md_folder_path_str: vaultofknowledge/output/md
-md_entrypoint_path_str: vaultofknowledge/output/md/index.md
-html_output_folder_path_str: vaultofknowledge/output
+md_folder_path_str: md
+md_entrypoint_path_str: md/index.md
+html_output_folder_path_str: html
