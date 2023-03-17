@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods in Fluid Dynamics.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods in Fluid Dynamics.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods in Fluid Dynamics.md"
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
               }
             }
           },
@@ -261,18 +261,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d8f6ea7ad653df17",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Personal/Productivity/Setting Zones on PC.md",
-    "Tasks.md",
+    "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
+    "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
+    "World Building/Science and Engineering/Engineering/Aerospace Engineering",
     "Methods in Fluid Dynamics.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "World Building/Philosophy/The importance of not knowing.md",
+    "World Building/Philosophy/Philosophy.md",
+    "Personal/Productivity/Setting Zones on PC.md",
+    "World Building/Marketplace and Creations/Software Implementations/Git.md",
+    "Tasks.md",
     "Untitled.md",
     "home.md",
     "netlify.toml_disabled",
     "deployvault.ps1",
     "README.md",
     "Personal/Productivity/Essential Planners.md",
-    "World Building/Marketplace and Creations/Software Implementations/Git.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Version Control/Git Workflows.md",
     "Personal/Productivity/Productivity Tips.md",
     "Personal/Tips/Notion Tips.md",
@@ -287,9 +293,6 @@
     "Personal/Toolkits/Software Toolkit.md",
     "Personal/Toolkits/Social Medias/For Visual Content.md",
     "Personal/Task List/To Fill.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Frameworks.md",
-    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
     "_images/02 Boom, Boom, Boom, Boom!!.m4a",
     "_images/Pasted image 20230305034909.png",
