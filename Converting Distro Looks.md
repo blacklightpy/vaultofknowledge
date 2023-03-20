@@ -13,8 +13,9 @@
 - Set customize window counters.... to default.
 - Next set customize opacity to fixed, and set the opacity to 70%.
 
-Set the background to the default ubuntu wallpaper
-Change the icon theme and that's it.
+- Set the background to the default Ubuntu wallpaper
+- Change the icon theme
+- NOTE: The Ubuntu theme is Yaru
 
 # Differences between Pop OS and Ubuntu
 
