@@ -32,7 +32,7 @@ Concepts:
 - Package Managers: Homebrew, Store; Source, DMG | Chocolatey, WinGet, Ninite, PortableApps, 0install, Store; Source, EXE, MSI, MSIX, APPX | APT, Aptitude, Synaptic, Zypper, YaST, DNF, YUM, pacman, pamac, aurman, Portage, Nix, eopkg, xbps-install, Snap, Flatpak; Source, DEB, RPM, AppImage | NPM, pip, NuGet, yarn, RubyGems, Composer
 - Linux Archiving Formats: TAR, gzip, .tgz, ZIP
 
-- Linux DAWs: Ardour, MusE, ZRythm
+- Linux DAWs: Ardour, MusE, ZRythm, LMMS, QTractor
 - CAD/CAM/CAE Software: Code_Aster (FEA), SALOME (Geometry and Meshing; Includes SHAPER CAD, PARAVIS, etc.), OpenFOAM, BARAM, CalculiX, FreeCAD, Elmer-FEM | Simscale uses Code_Aster and CalculiX for FEM and OpenFOAM for CFD | ANSYS/SimScale for ease of use | SALOME-Meca (Salome+Code_Aster), Salome CFD, Salome Hydro, TRUST
 - Mathematics Software: FORTRAN / Octave / MATLAB Symbolic Math Toolbox / SciLab / Maple / Mathcad / Mathematica / Anaconda; SageMath; Lean
 
