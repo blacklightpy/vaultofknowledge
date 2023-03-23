@@ -99,6 +99,19 @@
             }
           },
           {
+            "id": "9b03b83de4d7f008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steps encountered when installing Void.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b0f45bf48ccac624",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods in Fluid Dynamics.md",
+                "file": "Steps encountered when installing Void.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods in Fluid Dynamics.md",
+                "file": "Steps encountered when installing Void.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods in Fluid Dynamics.md"
+                "file": "Steps encountered when installing Void.md"
               }
             }
           },
@@ -243,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,13 +273,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d8f6ea7ad653df17",
+  "active": "9b03b83de4d7f008",
   "lastOpenFiles": [
+    "home.md",
+    "Steps encountered when installing Void.md",
+    "Methods in Fluid Dynamics.md",
     "History/Civilizations/Civilizations.md",
     "Literature/Legalese.md",
     "History/History.md",
     "History/Civilizations/Cradles of Civilization.md",
-    "Methods in Fluid Dynamics.md",
     "Converting Distro Looks.md",
     "Tasks.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
@@ -291,10 +305,8 @@
     "Personal/Productivity/Setting Zones on PC.md",
     "World Building/Marketplace and Creations/Software Implementations/Git.md",
     "Untitled.md",
-    "home.md",
     "netlify.toml_disabled",
     "deployvault.ps1",
-    "README.md",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
     "_images/02 Boom, Boom, Boom, Boom!!.m4a",
     "_images/Pasted image 20230305034909.png",

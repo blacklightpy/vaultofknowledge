@@ -1,0 +1,28 @@
+- Configuring WiFi using built in wpa_supplicant (or wpa_cli for interactive use)
+	- Configure SSID `wpa_passphrase <ssid> >> /etc/wpa_supplicant/wpa_supplicant.conf`
+	- Enter Password
+	- Enable wpa_supplicant service: `sudo ln -s /etc/sv/wpa_supplicant /var/service`
+	- Restart DHCP Client Daemon: `sudo sv restart dhcpcd`
+- Optional: Enable Audio Playback
+	- System Update: `sudo xbps-install -Su`
+	- Install ALSA: `sudo xbps-install alsa-utils` 
+	- Add pulsewire?
+	- Add user to audio group: `sudo usermod -G audio <username>`
+	- Add user to video group: `sudo usermod -G video <username>`
+	- Install Python: `sudo xbps-install alsa-utils`
+	- Install pipx: Forgot how
+	- Install yewtube: `pipx install yewtube`
+	- Install mpv as player: `sudo xbps-install mpv`
+	- Start yewtube: `yt`
+	- Set mpv as default player: `set player mpv`
+	- Set DRM as video output: `set playerargs -vo drm`
+	- Search for playlist: `userpl <username>`
+	- Select Playlist by number
+	- Play Songs by range (all or \* for all)
+- Install Terminal Browser for reading the void docs
+	- Install W3M: `sudo xbps-install w3m`
+- Install CPU Microcode
+	- Enable non-free repository: `sudo xbps-install void-nonfree-repo`
+	- Install CPU Microcode: `sudo xbps-install intel-ucode` (or `amd-ucode`)
+	- Regenerate initrd for kernel: 
+
