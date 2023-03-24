@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steps encountered when installing Void.md"
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
               }
             }
           },
@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,7 +274,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9b03b83de4d7f008",
+  "active": "92d8ce2661a6a2dd",
   "lastOpenFiles": [
     "home.md",
     "Steps encountered when installing Void.md",
