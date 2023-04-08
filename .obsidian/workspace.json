@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Motors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Motors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Motors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steps encountered when installing Void.md"
+                "file": "Motors.md"
               }
             }
           },
@@ -230,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +249,8 @@
   },
   "active": "9ceb588880a799ac",
   "lastOpenFiles": [
-    "Motors.md",
     "Steps encountered when installing Void.md",
+    "Motors.md",
     "Methods in Fluid Dynamics.md",
     "Converting Distro Looks.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
