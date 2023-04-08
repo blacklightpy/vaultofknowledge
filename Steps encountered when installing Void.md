@@ -21,8 +21,82 @@
 	- Play Songs by range (all or \* for all)
 - Install Terminal Browser for reading the void docs
 	- Install W3M: `sudo xbps-install w3m`
-- Install CPU Microcode
+- Install CPU Microcode (broke my system btw)
 	- Enable non-free repository: `sudo xbps-install void-nonfree-repo`
 	- Install CPU Microcode: `sudo xbps-install intel-ucode` (or `amd-ucode`)
 	- Regenerate initrd for kernel: 
-
+- Setup the system by the installer
+	- Set keymaps
+	- Set Wi-Fi (the installer in an older ISO would only take SSID without spaces). Or can use wpa_supplicant manually in case this fails. 
+	- Set hostname
+	- Set source - local for ISO or network for latest image
+	- Set locale (only for glibc version)
+	- Set timezone
+	- Set root password
+	- Set username
+	- Set user groups - I chose wheel and disabled audio etc. to use a session and seat manager.
+	- Set bootloader partition
+	- Set filesystems and mountpoints
+	- Choose Install
+	- Install grub bootloader with graphical mode enabled
+	- After install, perform a system update
+- Optional: Setup the system manually with BTRFS
+	- NOTE: What I don't know (extras): Setting up LUKS (encryption), NVMe, SSD TRIM, 2FA
+	- Set up BTRFS manually and setup subvolumes - root, home, snapshots and swap
+	- Create subvolumes for non-snapshot directories
+	- Mount the volumes for chroot, along with resolv.conf
+	- Enter chroot
+	- Set root password
+	- Set hostname and hosts file
+	- Set locale
+	- Set timezone
+	- Set keymap
+	- Optional: Set hardware clock to UTC
+	- Setup fstab
+	- Add btrfs kernel module in dracut configuration
+	- Regenerate kernel with dracut
+	- Install grub
+	- Enable dhcpcd and wpa_supplicant
+	- Set up swapfile
+	- Perform a system update
+	- After reboot, setup a new user
+	- Optional: Install zsh/fish shell
+	- Optional: Set default user shell
+- Install graphical environment
+	- Install X.org server if using an X11 graphical environment: `sudo xbps-install xorg`
+	- Install a graphical environment of your choice
+	- If using X11, set xinitrc to start the desktop environment
+		- For XFCE, `echo "exec startxfce4" >> ~/.xinitrc`
+	- If desktop has an autostart mechanism, set it up to autostart Pipewire
+		- For GNOME Wayland:
+			- `ln -s /usr/share/applications/pipewire.desktop /etc/xdg/autostart/`
+			- `ln -s /usr/share/applications/pipewire-pulse.desktop /etc/xdg/autostart/`
+		-  For X11 based:
+			- Add the following lines before starting the desktop environment
+				- `exec pipewire&`
+				- `exec pipewire-pulse&`
+- If using GNOME, add some cool extensions
+	- Dash to Dock - For a dock like macOS or Ubuntu
+	- Cube Desktop - for cube desktop layout switcher
+	- Burn my Windows - for burning window effect
+	- Compiz Windows Effect - for wobble effect
+	- AppIndicator and KStatusNotifierItem Support - for apps like steam
+	- GSConnect - For sync with Phone
+	- Vitals - For panel status (RAM, CPU, network, etc.)
+	- Extensions - an extension toggle manager
+- Other apps you need (preinstalled in Void when installing gnome and gnome-apps)
+	- GNOME Tweaks
+	- GNOME Extension Manager
+- Install Flapak
+	- `sudo xbps-install flatpak`
+- Install a software center
+	- For GNOME Software: `sudo xbps-install gnome-software`
+- Flatpak Apps
+	- Gradience - Theme Changer
+	- Flatseal - Permission Management
+	- Lutris
+	- Steam
+	- LibreOffice
+	- Discord
+	- Element (Flatpak didn't work for me (bug))
+- Optional: Install Timeshift for snapshots

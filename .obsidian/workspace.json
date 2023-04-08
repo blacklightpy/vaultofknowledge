@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5c3d595eb415271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steps encountered when installing Void.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "12e3035c46da34cc",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             }
           },
           {
-            "id": "9b03b83de4d7f008",
+            "id": "9ceb588880a799ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -260,22 +248,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d5c3d595eb415271",
+  "active": "9ceb588880a799ac",
   "lastOpenFiles": [
+    "Motors.md",
+    "Steps encountered when installing Void.md",
+    "Methods in Fluid Dynamics.md",
+    "Converting Distro Looks.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Project - Motor Workflow.md",
     "Untitled.md",
     "Tasks.md",
-    "Methods in Fluid Dynamics.md",
-    "Steps encountered when installing Void.md",
     "Personal/Productivity/Setting Zones on PC.md",
-    "Motors.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "home.md",
     "History/Civilizations/Civilizations.md",
     "Literature/Legalese.md",
     "History/History.md",
     "History/Civilizations/Cradles of Civilization.md",
-    "Converting Distro Looks.md",
     "Z1-Inbox/Fusion 360/Sketchnoting.md",
     "Z1-Inbox/Fusion 360/Resistors.md",
     "Z1-Inbox/Fusion 360/PCBs.md",
@@ -291,7 +280,6 @@
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering",
-    "World Building/Philosophy/The importance of not knowing.md",
     "netlify.toml_disabled",
     "deployvault.ps1",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
