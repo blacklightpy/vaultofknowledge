@@ -230,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,11 +250,11 @@
   },
   "active": "9ceb588880a799ac",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Steps encountered when installing Void.md",
     "Motors.md",
     "Methods in Fluid Dynamics.md",
     "Converting Distro Looks.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Project - Motor Workflow.md",
     "Untitled.md",
     "Tasks.md",
