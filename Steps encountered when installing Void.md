@@ -100,3 +100,6 @@
 	- Discord
 	- Element (Flatpak didn't work for me (bug))
 - Optional: Install Timeshift for snapshots
+
+
+- Window Manager + Screenlets + Conky + Rofi

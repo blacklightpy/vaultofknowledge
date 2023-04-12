@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72ccb4f025ab6e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steps encountered when installing Void.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics.md",
+                "file": "Steps encountered when installing Void.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics.md",
+                "file": "Steps encountered when installing Void.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics.md"
+                "file": "Steps encountered when installing Void.md"
               }
             }
           },
@@ -261,14 +274,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a5ecce42e46f29c3",
+  "active": "72ccb4f025ab6e43",
   "lastOpenFiles": [
+    "Converting Distro Looks.md",
     "Economics.md",
     "Motors.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Steps encountered when installing Void.md",
     "Methods in Fluid Dynamics.md",
-    "Converting Distro Looks.md",
     "Project - Motor Workflow.md",
     "Untitled.md",
     "Tasks.md",
