@@ -10,7 +10,7 @@
 	- Add user to audio group: `sudo usermod -G audio <username>`
 	- Add user to video group: `sudo usermod -G video <username>`
 	- Install Python: `sudo xbps-install alsa-utils`
-	- Install pipx: Forgot how
+	- Install pipx: Forgot how 
 	- Install yewtube: `pipx install yewtube`
 	- Install mpv as player: `sudo xbps-install mpv`
 	- Start yewtube: `yt`
