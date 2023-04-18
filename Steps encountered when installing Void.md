@@ -103,4 +103,3 @@
 
 
 - Window Manager + Screenlets + Conky + Rofi
-- TestF
