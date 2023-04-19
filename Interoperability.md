@@ -1,0 +1,6 @@
+- Defaults on Linux vs Windows/MacOS
+	- XDG Base Specifications
+	- vs more intuitive Library, AppData etc.
+- "Go Forth and Multiply"
+- Interoperability brings the difficulty of standardization
+- Closely connected: Decentralization

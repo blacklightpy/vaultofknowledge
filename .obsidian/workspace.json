@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "72ccb4f025ab6e43",
+            "id": "572b21aa3e2b9402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Comparing UX of Operating Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Comparing UX of Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Comparing UX of Operating Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steps encountered when installing Void.md"
+                "file": "Comparing UX of Operating Systems.md"
               }
             }
           },
@@ -256,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,13 +274,18 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "16ff280e8d0f3b88",
+  "active": "572b21aa3e2b9402",
   "lastOpenFiles": [
-    "Converting Distro Looks.md",
+    "Interoperability.md",
+    "Comparing UX of Operating Systems.md",
+    "Operating System Good-to-haves.md",
+    "Making of a Photolithography Machine.md",
     "Economics.md",
-    "Motors.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Steps encountered when installing Void.md",
+    "How to Make a Font.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Converting Distro Looks.md",
+    "Motors.md",
     "Methods in Fluid Dynamics.md",
     "Project - Motor Workflow.md",
     "Untitled.md",
@@ -296,11 +302,6 @@
     "Z1-Inbox/Fusion 360/PCBs.md",
     "Z1-Inbox/Fusion 360/Ground.md",
     "Z1-Inbox/Fusion 360/Fusion 360.md",
-    "Z1-Inbox/Fusion 360/Engine Aspiration.md",
-    "Z1-Inbox/Fusion 360/Customer Service.md",
-    "Z1-Inbox/Fusion 360/Ceramic Engines.md",
-    "Z1-Inbox/Fusion 360/Articles to Read.md",
-    "Z1-Inbox/Fusion 360/Capacitors.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
