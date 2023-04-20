@@ -1,4 +1,5 @@
 - GNOME Extensions
+	- Vitals, Extensions, PieMenu, Compiz Windows Effect, Burn My Desktop, GSConnect, Cube Desktop, AppIndicator and KStatusNotifierItem Support, Dash to Dock
 
 1. Gaming
 	1. Lutris
@@ -8,7 +9,7 @@
 2. Office
 	1. LibreOffice
 3. Browsers
-4. Work
+4. General Work
 	1. Workrave (RSI Prevention)
 	2. Solana (Pomodoro)
 5. Accessories
@@ -33,6 +34,20 @@
 	5. Remote Desktop / VNC
 		1. Remmina VNC
 		2. TigerVNC
+	6. Text Editor
+		1. Gedit
+		2. Kate
+		3. Mousepad
+		4. GNU Nano
+		5. Emacs
+		6. Vim
+	7. Development
+		1. Gaphor PlantUML
+		2. Diagrams.net
+		3. (Code Editor/IDE of your choice)
+	8. Communications
+		1. Konversation IRC
+		2. Element
 7. Entertainment
 	1. Music Players
 		1. Rhythmbox
@@ -45,4 +60,10 @@
 	1. Git
 	2. GNU GCC
 	3. Make
-	4. 
+	4. 7zip
+	5. GitHub CLI
+	6. Python3
+	7. GNU Pass
+	8. Git Credential Manager
+	9. Fish Shell
+	10. Flatpak

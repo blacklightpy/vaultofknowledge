@@ -138,12 +138,12 @@
             }
           },
           {
-            "id": "ad4154540488561e",
+            "id": "5a10bff5b0ae6591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOSS Software.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,12 +151,12 @@
             }
           },
           {
-            "id": "6ade3051235812cf",
+            "id": "5dc4501de273f139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Pro.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md"
               }
             }
           },
@@ -295,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,34 +313,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "931c42fa48f209dc",
+  "active": "5dc4501de273f139",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Security Modules.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux firewalls.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/inodes.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
-    "FOSS Software.md",
-    "Linux Pro.md",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
-    "To Learn.md",
-    "To Do.md",
-    "Untitled.md",
-    "Kicking a football to fly.md",
-    "Economics.md",
-    "Comparing UX of Operating Systems.md",
-    "Personal/Knowledge/Music.md",
-    "Steps encountered when installing Void.md",
-    "Intriguing Physics.md",
-    "Diagramming Tools.md",
-    "Interoperability.md",
-    "Operating System Good-to-haves.md",
-    "Making of a Photolithography Machine.md",
     "How to Make a Font.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "Converting Distro Looks.md",
-    "Motors.md",
-    "Methods in Fluid Dynamics.md",
-    "Project - Motor Workflow.md",
-    "Tasks.md",
-    "Personal/Productivity/Setting Zones on PC.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Untitled 2.md",
+    "Kicking a football to fly.md",
+    "FOSS Software.md",
+    "Steps encountered when installing Void.md",
+    "Linux Pro.md",
+    "Debugging Terminology.md",
+    "Physical Constants.md",
+    "Diagramming Tools.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
