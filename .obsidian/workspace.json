@@ -112,12 +112,51 @@
             }
           },
           {
-            "id": "572b21aa3e2b9402",
+            "id": "931c42fa48f209dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparing UX of Operating Systems.md",
+                "file": "Kicking a football to fly.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73f46191a4f64bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/Vitamin D from Sunlight.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad4154540488561e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FOSS Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ade3051235812cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Pro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -154,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "music theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparing UX of Operating Systems.md",
+                "file": "FOSS Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparing UX of Operating Systems.md",
+                "file": "FOSS Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparing UX of Operating Systems.md"
+                "file": "FOSS Software.md"
               }
             }
           },
@@ -274,34 +313,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "572b21aa3e2b9402",
+  "active": "ad4154540488561e",
   "lastOpenFiles": [
-    "Interoperability.md",
+    "Linux Pro.md",
+    "FOSS Software.md",
+    "To Learn.md",
+    "To Do.md",
+    "Untitled.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "Kicking a football to fly.md",
+    "Economics.md",
     "Comparing UX of Operating Systems.md",
+    "Personal/Knowledge/Music.md",
+    "Steps encountered when installing Void.md",
+    "Intriguing Physics.md",
+    "Diagramming Tools.md",
+    "Interoperability.md",
     "Operating System Good-to-haves.md",
     "Making of a Photolithography Machine.md",
-    "Economics.md",
-    "Steps encountered when installing Void.md",
     "How to Make a Font.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Converting Distro Looks.md",
     "Motors.md",
     "Methods in Fluid Dynamics.md",
     "Project - Motor Workflow.md",
-    "Untitled.md",
     "Tasks.md",
     "Personal/Productivity/Setting Zones on PC.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "home.md",
-    "History/Civilizations/Civilizations.md",
-    "Literature/Legalese.md",
-    "History/History.md",
-    "History/Civilizations/Cradles of Civilization.md",
-    "Z1-Inbox/Fusion 360/Sketchnoting.md",
-    "Z1-Inbox/Fusion 360/Resistors.md",
-    "Z1-Inbox/Fusion 360/PCBs.md",
-    "Z1-Inbox/Fusion 360/Ground.md",
-    "Z1-Inbox/Fusion 360/Fusion 360.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",

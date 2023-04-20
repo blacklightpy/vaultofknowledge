@@ -76,6 +76,7 @@
 				- `exec pipewire&`
 				- `exec pipewire-pulse&`
 - If using GNOME, add some cool extensions
+	- PieMenu - For Pie Menu
 	- Dash to Dock - For a dock like macOS or Ubuntu
 	- Cube Desktop - for cube desktop layout switcher
 	- Burn my Windows - for burning window effect

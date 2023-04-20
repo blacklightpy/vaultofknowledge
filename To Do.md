@@ -14,6 +14,7 @@ Electrostatics - Batteries
 
 Website and Crypto Tabs
 
+Wiki Overviews: Typography, Design
 
 Projects:
 - RTK NAVIC
