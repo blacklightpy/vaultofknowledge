@@ -1,4 +1,4 @@
-vi
+ovi
 emacs
 Window Manager
 Polybar/Rofi

@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOSS Software.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOSS Software.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOSS Software.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -295,8 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,14 +312,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ad4154540488561e",
+  "active": "931c42fa48f209dc",
   "lastOpenFiles": [
-    "Linux Pro.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
     "FOSS Software.md",
+    "Linux Pro.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
     "To Learn.md",
     "To Do.md",
     "Untitled.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Kicking a football to fly.md",
     "Economics.md",
     "Comparing UX of Operating Systems.md",
@@ -340,7 +340,6 @@
     "Tasks.md",
     "Personal/Productivity/Setting Zones on PC.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "home.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
