@@ -1,5 +1,5 @@
 - GNOME Extensions
-	- Vitals, Extensions, PieMenu, Compiz Windows Effect, Burn My Desktop, GSConnect, Cube Desktop, AppIndicator and KStatusNotifierItem Support, Dash to Dock
+	- Vitals, Extensions, PieMenu, Compiz Windows Effect, Burn My Desktop, GSConnect, Cube Desktop, AppIndicator and KStatusNotifierItem Support, Dash to Dock, Blur My Shell
 
 1. Gaming
 	1. Lutris

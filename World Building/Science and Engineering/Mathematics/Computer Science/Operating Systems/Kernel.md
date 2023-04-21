@@ -5,3 +5,5 @@ Kernel is the core of an operating system.
 - UNIX
 - NT Kernel
 - MS-DOS Kernel
+- XNU
+- Hurd

@@ -85,6 +85,8 @@
 	- GSConnect - For sync with Phone
 	- Vitals - For panel status (RAM, CPU, network, etc.)
 	- Extensions - an extension toggle manager
+	- Blur My Shell
+	- Pop Shell / Forge / Tiling Assistant / Material Shell
 - Other apps you need (preinstalled in Void when installing gnome and gnome-apps)
 	- GNOME Tweaks
 	- GNOME Extension Manager

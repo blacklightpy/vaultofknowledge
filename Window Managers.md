@@ -1,0 +1,1 @@
+Regolith: i3 with GNOME under the hood
