@@ -4,7 +4,7 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 
 # Phenomena to Capture
 - Chromatic adaptation
-	- It is the ability of humans to distinguish a [[White Point]] (or [[Colour Temperature]]) of an illuminating light source when observing a reflecting object. For example, a white paper looks white no matter whether the illumination is blueish or yellowish.
+	- It is the ability of humans to discount a [[White Point]] (or [[Colour Temperature]]) of an illuminating light source when observing a reflecting object. For example, a white paper looks white no matter whether the illumination is blueish or yellowish.
 	- This is one of the most basic and most important aspect of all colour appearance phenomena
 	- So a chromatic adaptation transform (CAT) that is used to model this behaviour is central to any CAM.
 - Hue Appearance
