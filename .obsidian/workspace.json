@@ -138,25 +138,12 @@
             }
           },
           {
-            "id": "5a10bff5b0ae6591",
+            "id": "8f35eea9b23816dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steps encountered when installing Void.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dc4501de273f139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
+                "file": "How to Make a Font.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -230,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "How to Make a Font.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "How to Make a Font.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -270,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steps encountered when installing Void.md"
+                "file": "How to Make a Font.md"
               }
             }
           },
@@ -313,14 +300,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5a10bff5b0ae6591",
+  "active": "8f35eea9b23816dd",
   "lastOpenFiles": [
-    "Window Managers.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "Personal/Task List/Hello Worlds.md",
+    "To Learn.md",
+    "Kicking a football to fly.md",
+    "Methods in Fluid Dynamics.md",
+    "Computational Fluid Dynamics.md",
+    "Untitled 1.md",
+    "Motors.md",
+    "Economics.md",
     "Steps encountered when installing Void.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
+    "Window Managers.md",
     "FOSS Software.md",
     "Linux Pro.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
@@ -332,15 +328,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/inodes.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
-    "How to Make a Font.md",
-    "Untitled 2.md",
-    "Kicking a football to fly.md",
-    "Debugging Terminology.md",
-    "Physical Constants.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",

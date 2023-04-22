@@ -38,8 +38,8 @@ Word Spacing: Distance between two words
 ## Rendering
 Rasterization - involves Anti-Aliasing and Hinting
 
-## CSS Units
-
+## CSS
+### Units
 Absolute Units:
 cm
 in
@@ -48,4 +48,39 @@ pt = 1/12th of a px
 
 Relative Units:
 px: Magical unit that adjusts to screen size
-em
+em: Relative width of the point size
+ex: Relative to the x-height
+
+### Variables
+font-size
+line-height
+letter-spacing
+font-kerning (Usually specified in quality fonts)
+
+# Tips
+1. Create a brief for what you want out of the font
+2. Design font on paper first
+3. Use control characters to help design (lowercase=n, o; uppercase=H, O)
+4. Switch to PC by uploading your sketch
+5. Use a font editor and create the glyphs
+6. Test the font in typing mode, at different sizes and in paragraphs
+
+## Kerning
+1. You have to kern each letter individually
+2. Kerning is all about feeling
+3. Test kerning when size changes
+4. Practice Game: https://type.method.ac/
+5. Letters to keep an eye on
+	1. Slanted Letters: A, K, V, W, Y
+	2. Letters with arms or cross-strokes: F, T, L
+	3. Letter combinations: W or V + A; F or T + a lowercase vowel
+6. Two straight lines need the most space: II > IO > OO
+7. Try flipping the letters upside down, so you can see the spaces unbiased
+
+## Hinting
+Happens automatically, but can be set manually in font editors with TrueType instructions
+e.g. SNAGW (Set Angle Weight), MDAP (Move Direct Absolute Point)
+
+# Design Basics
+- Words must be spaced more than letters, to form distinct units.
+- 
