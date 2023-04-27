@@ -13,12 +13,14 @@ Antiqua/Old Style/Black Text
 Cursive: Joined handwriting typefaces
 Script: More formal than cursive
 
-## Weights
-Roman: Regular weight of a typeface
-Italic: Redesign of Roman typeface, not merely slanted
-
-Oblique/Slanted: Tilted standard typeface
+## Variations
 Condensed
+Italic: Redesign of Roman typeface, not merely slanted
+### Weights
+Roman: Regular weight of a typeface
+
+## Views
+Oblique/Slanted: Tilted standard typeface
 
 ## Design
 Body: Invisible space occupied by a character
