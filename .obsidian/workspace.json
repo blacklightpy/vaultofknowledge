@@ -282,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,18 +302,20 @@
   },
   "active": "8f35eea9b23816dd",
   "lastOpenFiles": [
+    "Types of Politics.md",
+    "How to Make a Font.md",
+    "Window Managers.md",
+    "Studying FreeCAD Source Code.md",
+    "Motors.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Personal/Task List/Hello Worlds.md",
     "To Learn.md",
     "Kicking a football to fly.md",
     "Methods in Fluid Dynamics.md",
     "Computational Fluid Dynamics.md",
-    "Untitled 1.md",
-    "Motors.md",
     "Economics.md",
     "Steps encountered when installing Void.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
-    "Window Managers.md",
     "FOSS Software.md",
     "Linux Pro.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
@@ -325,8 +328,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Security Modules.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux firewalls.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
