@@ -138,12 +138,12 @@
             }
           },
           {
-            "id": "8f35eea9b23816dd",
+            "id": "36c0d1a2798fc845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Make a Font.md",
+                "file": "What is a codec?.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "music theory",
+                "query": "tiling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Make a Font.md",
+                "file": "What is a codec?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Make a Font.md",
+                "file": "What is a codec?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Make a Font.md"
+                "file": "What is a codec?.md"
               }
             }
           },
@@ -282,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,34 +300,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8f35eea9b23816dd",
+  "active": "36c0d1a2798fc845",
   "lastOpenFiles": [
-    "Types of Politics.md",
+    "What is a codec?.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "Kicking a football to fly.md",
+    "Window Mangers.md",
+    "Enable Show Desktop Button.md",
+    "FreeBSD.md",
+    "Desktop Environment.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Storage Devices/RAID.md",
+    "Customization.md",
+    "Tutorials",
+    "Vim Customizing.md",
+    "Linux Pro.md",
     "How to Make a Font.md",
+    "Types of Politics.md",
     "Window Managers.md",
     "Studying FreeCAD Source Code.md",
     "Motors.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Personal/Task List/Hello Worlds.md",
     "To Learn.md",
-    "Kicking a football to fly.md",
     "Methods in Fluid Dynamics.md",
     "Computational Fluid Dynamics.md",
     "Economics.md",
     "Steps encountered when installing Void.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "FOSS Software.md",
-    "Linux Pro.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Windows Colour System.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Security Modules.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux firewalls.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
