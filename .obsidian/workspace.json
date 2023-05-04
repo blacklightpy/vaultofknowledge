@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fb544d6c42da63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Window Managers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer",
+                "query": "cmake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,6 +194,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f7aedea48e435f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -204,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Window Managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Window Managers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -244,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "Window Managers.md"
               }
             }
           },
@@ -287,37 +308,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "931c42fa48f209dc",
+  "active": "8fb544d6c42da63c",
   "lastOpenFiles": [
-    "Z1-Inbox/Vitamin D from Sunlight.md",
-    "AVIASYS/To discuss.md",
-    "Linux Pro.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md",
-    "Widget Toolkits.md",
-    "X Windowing System.md",
-    "Methods in Fluid Dynamics.md",
-    "Economics.md",
-    "Motors.md",
-    "Kicking a football to fly.md",
-    "_images/Pasted image 20230430180144.png",
-    "Video.md",
-    "What is a codec?.md",
-    "_images/Pasted image 20230430175740.png",
-    "Enable Show Desktop Button.md",
-    "Window Mangers.md",
-    "FreeBSD.md",
-    "Desktop Environment.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Storage Devices/RAID.md",
-    "Customization.md",
-    "Tutorials",
-    "Vim Customizing.md",
-    "How to Make a Font.md",
-    "Types of Politics.md",
+    "Differences between BSD and GNU Linux.md",
     "Window Managers.md",
-    "Studying FreeCAD Source Code.md",
-    "Personal/Task List/Hello Worlds.md",
-    "To Learn.md",
-    "Computational Fluid Dynamics.md",
+    "Kicking a football to fly.md",
+    "Vim Customizing.md",
+    "Compositors.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Build Systems.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers.md",
+    "Desktop Environment Ecosystems.md",
+    "Desktop Environment.md",
+    "X Windowing System.md",
+    "Linux Pro.md",
+    "Customization.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Personal/Customization/Obsidian Themes.md",
+    "Types of Politics.md",
+    "How to Make a Font.md",
+    "What is a codec?.md",
+    "Enable Show Desktop Button.md",
+    "FreeBSD.md",
+    "Video.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Themes.md",
+    "Personal/Knowledge/Colour Schemes.md",
+    "Finite Element Method.md",
+    "Widget Toolkits.md",
+    "_images/Pasted image 20230430180144.png",
+    "_images/Pasted image 20230430175740.png",
+    "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",

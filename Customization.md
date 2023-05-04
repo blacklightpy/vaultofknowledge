@@ -2,10 +2,15 @@ Beware of: Editor Holy Wars (Vim/Emacs; use Nano)
 
 # Areas of Customization
 Icon Packs
-Themes / Colour Schemes
+[[Themes]] / [[Colour Schemes]]
 Sound Themes (optional)
 Pointers (optional)
 Fonts (option)
+
+## Miscellaneous
+Wallpaper Daemon: dynamicwallpaper, feh, nitrogen, swww
+Wallpaper based colour scheme: pywal
+
 # How to
 Just copy the dotfiles into your XDG-CONFIG-HOME directory, which is the $HOME/.config folder.
 
