@@ -112,19 +112,6 @@
             }
           },
           {
-            "id": "931c42fa48f209dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kicking a football to fly.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "73f46191a4f64bd5",
             "type": "leaf",
             "state": {
@@ -138,12 +125,12 @@
             }
           },
           {
-            "id": "36c0d1a2798fc845",
+            "id": "931c42fa48f209dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is a codec?.md",
+                "file": "Kicking a football to fly.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tiling",
+                "query": "computer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is a codec?.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is a codec?.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is a codec?.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -300,35 +287,37 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "36c0d1a2798fc845",
+  "active": "931c42fa48f209dc",
   "lastOpenFiles": [
-    "What is a codec?.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
+    "AVIASYS/To discuss.md",
+    "Linux Pro.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md",
+    "Widget Toolkits.md",
+    "X Windowing System.md",
+    "Methods in Fluid Dynamics.md",
+    "Economics.md",
+    "Motors.md",
     "Kicking a football to fly.md",
-    "Window Mangers.md",
+    "_images/Pasted image 20230430180144.png",
+    "Video.md",
+    "What is a codec?.md",
+    "_images/Pasted image 20230430175740.png",
     "Enable Show Desktop Button.md",
+    "Window Mangers.md",
     "FreeBSD.md",
     "Desktop Environment.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/Storage Devices/RAID.md",
     "Customization.md",
     "Tutorials",
     "Vim Customizing.md",
-    "Linux Pro.md",
     "How to Make a Font.md",
     "Types of Politics.md",
     "Window Managers.md",
     "Studying FreeCAD Source Code.md",
-    "Motors.md",
     "Personal/Task List/Hello Worlds.md",
     "To Learn.md",
-    "Methods in Fluid Dynamics.md",
     "Computational Fluid Dynamics.md",
-    "Economics.md",
-    "Steps encountered when installing Void.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
-    "FOSS Software.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
