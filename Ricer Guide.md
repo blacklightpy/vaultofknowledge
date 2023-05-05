@@ -1,0 +1,3 @@
+- Firefox: r/FirefoxCSS
+- Android: r/AndroidThemes
+- UNIX-like: r/unixporn wiki, https://wiki.installgentoo.com/index.php/GNU/Linux_ricing (from r/unixporn wiki)

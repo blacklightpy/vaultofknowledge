@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8fb544d6c42da63c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Window Managers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Window Managers.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -308,11 +295,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fb544d6c42da63c",
+  "active": "931c42fa48f209dc",
   "lastOpenFiles": [
-    "Differences between BSD and GNU Linux.md",
-    "Window Managers.md",
+    "Neofetch alternatives.md",
+    "Awesome Awesomes.md",
     "Kicking a football to fly.md",
+    "Window Managers.md",
+    "Ricer Guide.md",
+    "Differences between BSD and GNU Linux.md",
     "Vim Customizing.md",
     "Compositors.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Build Systems.md",
@@ -333,9 +323,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "Themes.md",
-    "Personal/Knowledge/Colour Schemes.md",
-    "Finite Element Method.md",
-    "Widget Toolkits.md",
     "_images/Pasted image 20230430180144.png",
     "_images/Pasted image 20230430175740.png",
     "Tutorials",
