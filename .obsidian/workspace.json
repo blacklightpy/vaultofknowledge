@@ -213,7 +213,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surface Finish.md",
+                "file": "Surface Finishing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surface Finish.md",
+                "file": "Surface Finishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surface Finish.md",
+                "file": "Surface Finishing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surface Finish.md"
+                "file": "Surface Finishing.md"
               }
             }
           },
@@ -378,8 +378,9 @@
   },
   "active": "c13307a00c995cf3",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
+    "Surface Finishing.md",
     "Injection Molding.md",
-    "Surface Finish.md",
     "Settings Apps.md",
     "Network Management.md",
     "Kicking a football to fly.md",
@@ -403,7 +404,6 @@
     "Types of Politics.md",
     "How to Make a Font.md",
     "What is a codec?.md",
-    "Enable Show Desktop Button.md",
     "_images/Pasted image 20230430180144.png",
     "_images/Pasted image 20230430175740.png",
     "Tutorials",
