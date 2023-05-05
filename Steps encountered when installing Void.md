@@ -1,3 +1,5 @@
+TODO: Add instructions on enabiling other services like elogind, socklog-void, ntpd, etc.
+
 - Configuring WiFi using built in wpa_supplicant (or wpa_cli for interactive use)
 	- Configure SSID `wpa_passphrase <ssid> >> /etc/wpa_supplicant/wpa_supplicant.conf`
 	- Enter Password

@@ -136,91 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17f6b7f9dc7f5db7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b3e8ca11894522c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "373ef02f832ae45a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4e2e84e27645eeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Settings Apps.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dee405fbef154b3d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e548334d9b41892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Injection Molding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
-      },
-      {
-        "id": "2afdc01a2192ecc2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c13307a00c995cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Surface Finishing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -294,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surface Finishing.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surface Finishing.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -334,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surface Finishing.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -359,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,14 +295,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c13307a00c995cf3",
+  "active": "931c42fa48f209dc",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
-    "Surface Finishing.md",
-    "Injection Molding.md",
-    "Settings Apps.md",
-    "Network Management.md",
+    "Mirrors.md",
     "Kicking a football to fly.md",
+    "Surface Finishing.md",
+    "Things I don't understand.md",
+    "Network Management.md",
+    "Settings Apps.md",
+    "Injection Molding.md",
+    "Vegan Art Supplies.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
     "Ricer Guide.md",
     "Music Visualizers.md",
     "Neofetch alternatives.md",
@@ -401,9 +323,6 @@
     "Customization.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Personal/Customization/Obsidian Themes.md",
-    "Types of Politics.md",
-    "How to Make a Font.md",
-    "What is a codec?.md",
     "_images/Pasted image 20230430180144.png",
     "_images/Pasted image 20230430175740.png",
     "Tutorials",

@@ -1,12 +1,20 @@
 After machining, there are always some scratch marks left behind. These parts are polished to attain a certain look and feel, and this is called surface finishing.
 
+From Wikipedia: Finishing processes may be employed to: improve appearance, adhesion or wettability, solderability, corrosion resistance, tarnish resistance, chemical resistance, wear resistance, hardness, modify electrical conductivity, 
+
 # Types of finishing
+Generallly, they are of two types:
+1. Removing or reshaping
+2. Adding or altering
+
+## Examples
 They vary by the material in context (e.g. Textiles, Wood, Metal, Wood, Cement, Jewellery, etc.)
 
 - Mirror Finish
 - Shiny finish
 - Matte Finish
 - Coarsely Grained Finished
+- Anti-microbial finish (Textiles)
 
 # Methods of finishing
 - Sanding and Polishing
