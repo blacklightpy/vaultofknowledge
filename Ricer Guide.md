@@ -10,3 +10,5 @@
 - Clava
 - btop
 - Custom Widgets
+	- Make with: EWW, gjs (Aylur's Widgets), Argos (Gnome Extension Maker), Kargos (KDE fork of GNOME Argos and OSX BitBar)
+- Launcher: dmenu, rofi, albert, MMck Launcher

@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5dcb8d7a2c58dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ricer Guide.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Ricer Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Ricer Guide.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "Ricer Guide.md"
               }
             }
           },
@@ -277,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,10 +307,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "931c42fa48f209dc",
+  "active": "e5dcb8d7a2c58dff",
   "lastOpenFiles": [
-    "Mirrors.md",
+    "Window Managers.md",
+    "Ricer Guide.md",
     "Kicking a football to fly.md",
+    "Mirrors.md",
     "Surface Finishing.md",
     "Things I don't understand.md",
     "Network Management.md",
@@ -306,11 +320,9 @@
     "Injection Molding.md",
     "Vegan Art Supplies.md",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
-    "Ricer Guide.md",
     "Music Visualizers.md",
     "Neofetch alternatives.md",
     "Awesome Awesomes.md",
-    "Window Managers.md",
     "Differences between BSD and GNU Linux.md",
     "Vim Customizing.md",
     "Compositors.md",
