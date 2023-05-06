@@ -17,8 +17,9 @@ Compositing window managers might have an easier time with synchronizing window 
 
 # X Windowing System
 ## Standalone compositors
-- Picom
-- Compton
+- Picom (fork of compton)
+- Compton (dead fork of xcompmgr-dana, a fork of xcompmgr)
 - xcompmgr
 ## Compositing window managers
-- Compiz
+- Compiz (OpenGL based)
+- Metacity (XRender based)

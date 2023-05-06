@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cmake",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,15 +296,20 @@
   },
   "active": "931c42fa48f209dc",
   "lastOpenFiles": [
-    "Motors To Read.md",
+    "Motors - To Read.md",
+    "Things I don't understand.md",
+    "Untitled 2.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Kicking a football to fly.md",
-    "Motors.md",
+    "Rices I want to try out.md",
     "Ricer Guide.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Compositors.md",
     "Window Managers.md",
+    "Vim Customizing.md",
+    "Motors.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Mirrors.md",
     "Surface Finishing.md",
-    "Things I don't understand.md",
     "Network Management.md",
     "Settings Apps.md",
     "Injection Molding.md",
@@ -315,14 +319,9 @@
     "Neofetch alternatives.md",
     "Awesome Awesomes.md",
     "Differences between BSD and GNU Linux.md",
-    "Vim Customizing.md",
-    "Compositors.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Build Systems.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers.md",
     "Desktop Environment Ecosystems.md",
-    "Desktop Environment.md",
-    "X Windowing System.md",
-    "Linux Pro.md",
     "_images/Pasted image 20230430180144.png",
     "_images/Pasted image 20230430175740.png",
     "Tutorials",

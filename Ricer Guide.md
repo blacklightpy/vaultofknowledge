@@ -9,6 +9,7 @@
 - Matrix
 - Clava
 - btop
-- Custom Widgets
+- Custom Widgets (Widget Engines)
 	- Make with: EWW, gjs (Aylur's Widgets), Conky, Argos (Gnome Extension Maker), Kargos (KDE fork of GNOME Argos and OSX BitBar), nwg-wrapper (Sway, display text on desktop)
+	- Older Screenlets: adesklets, gDesklets, screelets, KDE SuperKaramba
 - Launcher: dmenu, rofi, albert, MMck Launcher
