@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e5dcb8d7a2c58dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ricer Guide.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ricer Guide.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ricer Guide.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ricer Guide.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -290,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,11 +295,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5dcb8d7a2c58dff",
+  "active": "931c42fa48f209dc",
   "lastOpenFiles": [
-    "Window Managers.md",
-    "Ricer Guide.md",
+    "Motors To Read.md",
     "Kicking a football to fly.md",
+    "Motors.md",
+    "Ricer Guide.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Window Managers.md",
     "Mirrors.md",
     "Surface Finishing.md",
     "Things I don't understand.md",
@@ -332,9 +323,6 @@
     "Desktop Environment.md",
     "X Windowing System.md",
     "Linux Pro.md",
-    "Customization.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "Personal/Customization/Obsidian Themes.md",
     "_images/Pasted image 20230430180144.png",
     "_images/Pasted image 20230430175740.png",
     "Tutorials",
