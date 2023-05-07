@@ -7,7 +7,9 @@ For stylized screenshots, see [[Rice Showcase]]
 - Unity (Personal Favorite)
 ![[Pasted image 20230507171444.png]]
 - GNOME (v 44)
-![[Pasted image 20230507172358.png]]
+![[Pasted image 20230507213314.png]]
+
+![[Pasted image 20230507213416.png]]
 - KDE Plasma 5
 ![[Pasted image 20230507173525.png]]
 
