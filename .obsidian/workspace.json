@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a129a0cbcae0e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Environment Showcase.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is a codec.md",
+                "file": "Desktop Environment Showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is a codec.md",
+                "file": "Desktop Environment Showcase.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is a codec.md"
+                "file": "Desktop Environment Showcase.md"
               }
             }
           },
@@ -277,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,10 +307,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "6a129a0cbcae0e5a",
   "lastOpenFiles": [
-    "Motors To Read.md",
     "Kicking a football to fly.md",
+    "Desktop Environment Showcase.md",
+    "_images/Pasted image 20230507180527.png",
+    "_images/Pasted image 20230507180519.png",
+    "_images/Pasted image 20230507180509.png",
+    "_images/Pasted image 20230507180240.png",
+    "_images/Pasted image 20230507180124.png",
+    "_images/Pasted image 20230507180053.png",
+    "Rice Showcase.md",
+    "_images/Pasted image 20230507180005.png",
+    "_images/Pasted image 20230507175934.png",
+    "_images/Pasted image 20230507175830.png",
+    "_images/Pasted image 20230507175635.png",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Motors To Read.md",
     "Things I don't understand.md",
     "Untitled 2.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
@@ -308,7 +333,6 @@
     "Window Managers.md",
     "Vim Customizing.md",
     "Motors.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Mirrors.md",
     "Surface Finishing.md",
     "Network Management.md",
@@ -320,11 +344,6 @@
     "Neofetch alternatives.md",
     "Awesome Awesomes.md",
     "Differences between BSD and GNU Linux.md",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Build Systems.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers.md",
-    "Desktop Environment Ecosystems.md",
-    "_images/Pasted image 20230430180144.png",
-    "_images/Pasted image 20230430175740.png",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
@@ -333,10 +352,6 @@
     "netlify.toml_disabled",
     "deployvault.ps1",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "_images/02 Boom, Boom, Boom, Boom!!.m4a",
-    "_images/Pasted image 20230305034909.png",
-    "_images/Pasted image 20230305023731.png",
-    "_images/Pasted image 20230305023641.png",
-    "_images/Pasted image 20230305023637.png"
+    "_images/02 Boom, Boom, Boom, Boom!!.m4a"
   ]
 }
