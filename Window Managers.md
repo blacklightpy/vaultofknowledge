@@ -20,8 +20,8 @@ A desktop environment shell has a compositor and and other panels, docks and wid
 # Components
 ## Dash (/ App Menu / Launcher)
 
-| Windows 8 Start                                                | Stock Android Launcher (Pixel)                                         | GNOME Dash (Mine, with Blur My Shell extension)                             | MacOS Launchpad                                                             | Deepin 15.11 Dash                                                           |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Windows 8 Start | Stock Android Launcher (Pixel)  | GNOME Dash (Mine, with Blur My Shell extension)  | MacOS Launchpad   | Deepin 15.11 Dash   |
+| ----------------| ------------ | ----------------- | --------------- | ------------- |
 | ![[Windows 8 Dash.png|Pasted image 20230507211324]] | ![[Stock Android Launcher.png|Pasted image 20230507211637]] | ![[Pasted image 20230507211947.png]] | ![[Pasted image 20230507212559.png]] | ![[Pasted image 20230507212109.png]] |
 
 ## Dock (/ Panel / Task bar)
