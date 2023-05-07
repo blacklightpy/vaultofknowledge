@@ -20,9 +20,16 @@ A desktop environment shell has a compositor and and other panels, docks and wid
 # Components
 ## Dash (/ App Menu / Launcher)
 
-| Windows 8 Start | Stock Android Launcher (Pixel)  | GNOME Dash (Mine, with Blur My Shell extension)  | MacOS Launchpad   | Deepin 15.11 Dash   |
-| ----------------| ------------ | ----------------- | --------------- | ------------- |
-| ![[Windows 8 Dash.png|Pasted image 20230507211324]] | ![[Stock Android Launcher.png|Pasted image 20230507211637]] | ![[Pasted image 20230507211947.png]] | ![[Pasted image 20230507212559.png]] | ![[Pasted image 20230507212109.png]] |
+### Windows 8 Start Stock
+![[Windows 8 Dash.png]]
+### Android Launcher (Pixel) 
+![[Stock Android Launcher.png]]
+### GNOME Dash (Mine, with Blur My Shell extension) 
+![[Pasted image 20230507211947.png]]
+### MacOS Launchpad
+![[Pasted image 20230507212559.png]]
+### Deepin 15.11 Dash
+![[Pasted image 20230507212109.png]]
 
 ## Dock (/ Panel / Task bar)
 They are conventionally placed at the bottom or at the left.
@@ -38,10 +45,7 @@ I used horizontal screenshots to show them without having to scroll too much.
 | Plank Dock (app)                | ![[Pasted image 20230507210301.png]] |
 | Pantheon Dock                   | ![[Pasted image 20230507210325.png]] |
 
-Here are some vertical screenshots, anyway:
-| Windows 10                                                                  | Ubuntu Dock                                                                 | GNOME Dash to Dock (Dock Mode)                                              | GNOME Dash to Dock (Panel Mode)                                             | GNOME Dash to Panel                                                         |
-| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![[Pasted image 20230507205637.png]] | ![[Pasted image 20230507210626.png]] | ![[Pasted image 20230507211101.png]] | ![[Pasted image 20230507221834.png]] | ![[Pasted image 20230507221856.png]] |
+I tried to display vertical screenshots using a table, but the site generator has some issues with converting the tables. So they're linked in another page [[Screenshots of docks placed vertically|here]]
 
 ## Bar (/ Panel / Status bar)
 They are conventionally placed at the top. Some window managers include a bar with them.
