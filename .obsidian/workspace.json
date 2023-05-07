@@ -138,15 +138,46 @@
             }
           },
           {
-            "id": "44f2ae39267985b3",
+            "id": "b19a3126a7fe8731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Window Manager Showcase.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d106cfead8f84a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Window Managers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11aa12a9521e8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -220,13 +251,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Window Managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -236,6 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Window Managers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -257,7 +290,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Window Managers.md"
+              }
             }
           },
           {
@@ -276,8 +311,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,12 +333,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "44f2ae39267985b3",
+  "active": "d106cfead8f84a6d",
   "lastOpenFiles": [
-    "Kicking a football to fly.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
+    "Window Managers.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md",
+    "Compositors.md",
+    "X Windowing System.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
+    "Window Manager Showcase.md",
     "Desktop Environment Showcase.md",
-    "Desktop Environments.md",
     "Shell.md",
+    "Desktop Environments.md",
+    "Linux Pro.md",
+    "Kicking a football to fly.md",
+    "FOSS Software.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
+    "Desktop Environment Ecosystems.md",
+    "Vim Customizing.md",
+    "Ricer Guide.md",
+    "Rices I want to try out.md",
     "Rice Showcase.md",
     "_images/Pasted image 20230507180527.png",
     "_images/Pasted image 20230507180519.png",
@@ -321,22 +371,6 @@
     "Things I don't understand.md",
     "Untitled 2.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
-    "Rices I want to try out.md",
-    "Ricer Guide.md",
-    "Compositors.md",
-    "Window Managers.md",
-    "Vim Customizing.md",
-    "Motors.md",
-    "Mirrors.md",
-    "Surface Finishing.md",
-    "Network Management.md",
-    "Settings Apps.md",
-    "Injection Molding.md",
-    "Vegan Art Supplies.md",
-    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
-    "Music Visualizers.md",
-    "Neofetch alternatives.md",
-    "Awesome Awesomes.md",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",

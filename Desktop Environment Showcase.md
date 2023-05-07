@@ -1,3 +1,7 @@
+For reference:
+- [[Desktop Environments | What is a desktop environment?]]
+
+For window managers, see [[Window Manager Showcase]]
 ## Popular Desktop Environments
 - Unity (Personal Favorite)
 ![[Pasted image 20230507171444.png]]

@@ -1,7 +1,7 @@
 # macOS
 - Quartz
 
-# Linux
+# UNIX-Like
 - X
 - Wayland
 

@@ -1,6 +1,6 @@
 The main editors: Vi / Emacs
 
-[[World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Window Managers]]
+[[Window Managers]]
 Polybar/Rofi
 virtman/QEMU
 dotfiles
