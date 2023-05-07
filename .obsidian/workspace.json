@@ -138,19 +138,6 @@
             }
           },
           {
-            "id": "b19a3126a7fe8731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Window Manager Showcase.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d106cfead8f84a6d",
             "type": "leaf",
             "state": {
@@ -164,12 +151,12 @@
             }
           },
           {
-            "id": "b11aa12a9521e8eb",
+            "id": "10261636d2fdf932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+                "file": "Compositors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -311,12 +298,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,44 +320,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d106cfead8f84a6d",
+  "active": "91b11c5ac5709c5c",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
-    "Window Managers.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md",
+    "_images/Pasted image 20230507212559.png",
+    "_images/Pasted image 20230507212109.png",
+    "_images/Pasted image 20230507211947.png",
+    "_images/Pasted image 20230507211637.png",
+    "_images/Pasted image 20230507211324.png",
+    "_images/Pasted image 20230507211101.png",
+    "_images/Pasted image 20230507210626.png",
+    "_images/Pasted image 20230507210551.png",
+    "_images/Pasted image 20230507210325.png",
+    "_images/Pasted image 20230507210301.png",
+    "_images/Pasted image 20230507210142.png",
     "Compositors.md",
-    "X Windowing System.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+    "compos.md",
+    "Window Managers.md",
+    "Kicking a football to fly.md",
     "Window Manager Showcase.md",
     "Desktop Environment Showcase.md",
     "Shell.md",
+    "Rice Showcase.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md",
+    "X Windowing System.md",
     "Desktop Environments.md",
     "Linux Pro.md",
-    "Kicking a football to fly.md",
     "FOSS Software.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "Desktop Environment Ecosystems.md",
     "Vim Customizing.md",
     "Ricer Guide.md",
     "Rices I want to try out.md",
-    "Rice Showcase.md",
-    "_images/Pasted image 20230507180527.png",
-    "_images/Pasted image 20230507180519.png",
-    "_images/Pasted image 20230507180509.png",
-    "_images/Pasted image 20230507180240.png",
-    "_images/Pasted image 20230507180124.png",
-    "_images/Pasted image 20230507180053.png",
-    "_images/Pasted image 20230507180005.png",
-    "_images/Pasted image 20230507175934.png",
-    "_images/Pasted image 20230507175830.png",
-    "_images/Pasted image 20230507175635.png",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Motors To Read.md",
     "Things I don't understand.md",
-    "Untitled 2.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
