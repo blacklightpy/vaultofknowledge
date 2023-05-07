@@ -1,1 +1,1 @@
-- Connected to [Liar's Paradox](Liar's%20Paradox.md)
+- Connected to [[Liar's Paradox]]

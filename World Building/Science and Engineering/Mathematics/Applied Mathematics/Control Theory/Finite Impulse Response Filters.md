@@ -1,1 +1,1 @@
-They have finite [Impulse Response](Impulse%20Response.md).
+They have finite [[Impulse Response]].

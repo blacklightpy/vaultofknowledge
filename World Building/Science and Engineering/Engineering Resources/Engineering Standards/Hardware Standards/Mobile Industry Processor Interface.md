@@ -2,5 +2,5 @@ The Mobile Industry Processor Interface (MIPI) standard defines interface specif
 
 # Interfaces
 
-1. [Camera Serial Interface](Camera%20Serial%20Interface.md) (CSI)
+1. [[Camera Serial Interface]] (CSI)
 2. Display Serial Interface (DSI)

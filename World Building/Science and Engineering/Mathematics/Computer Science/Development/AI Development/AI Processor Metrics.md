@@ -1,4 +1,4 @@
-**Links:** [AI Basics](AI%20Basics.md)
+**Links:** [[AI Basics]]
 
 ## Metrics
 - TOPS
@@ -25,7 +25,7 @@ Snapdragon 865 (Smartphone focused) - 15 TOPs
 less expensive 8c - 7 TOPS
 7c - 5 TOPS
 
-![Snapdragon 865 Metrics](../../../../../../_images/Snapdragon%20865%20Metrics.png)
+![[../../../../../../_images/Snapdragon 865 Metrics.png]]
 
 **865 5G AI Highlights**
 - Adreno 650

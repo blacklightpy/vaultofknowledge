@@ -22,6 +22,6 @@ Keywords: DKMS
 	- Built on Hyperledger Indy, a DLT specifically built for decentralized identity
 
 Links:
-[Web of Trust](Web%20of%20Trust.md)
+[[Web of Trust]]
 Tags:
 #cryptography 

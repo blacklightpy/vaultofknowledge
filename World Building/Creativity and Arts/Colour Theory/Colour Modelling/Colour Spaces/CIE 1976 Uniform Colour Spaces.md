@@ -1,6 +1,6 @@
-- [CIELUV](CIELUV.md) is recommended for characterization of colour displays
+- [[CIELUV]] is recommended for characterization of colour displays
 	- It is better for emitting displays like monitor
-- [CIELAB](CIELAB.md) is recommended for coloured surfaces and dyes
+- [[CIELAB]] is recommended for coloured surfaces and dyes
 	- It is widely used in television industry and lighting
-	- It is also better for reflective surfaces illuminated by a [Standard Illuminant](../../Standard%20Illuminant.md) like D65
-	- LAB and D50 was chosen by [ICC Colour Profiles](../../Working%20with%20Colours/ICC%20Colour%20Profiles.md) as SPC because it was largely focused on printing
+	- It is also better for reflective surfaces illuminated by a [[../../Standard Illuminant]] like D65
+	- LAB and D50 was chosen by [[../../Working with Colours/ICC Colour Profiles]] as SPC because it was largely focused on printing

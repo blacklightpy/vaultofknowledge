@@ -1,9 +1,10 @@
 # macOS
+MacOS is also UNIX-like, but it uses it's own windowing system.
 - Quartz
 
 # UNIX-Like
-- X
-- Wayland
+- [[X WIndowing System]]
+- [[Wayland]]
 
 # Windows
 - Desktop Window Manager (Vista+)

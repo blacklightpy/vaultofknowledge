@@ -5,4 +5,4 @@ There are two production environments - blue and green. After deploying a build 
 
 In case of any big problems, users can be easily switched back to the old version by reverting the endpoint.
 
-![Pasted image 20221231201925](../../../../_images/Pasted%20image%2020221231201925.png)
+![[../../../../_images/Pasted image 20221231201925.png]]

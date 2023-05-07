@@ -1,5 +1,5 @@
 ### ANN Architectures
-- [ResNet](Popular%20Deep%20Learning%20Models/ResNet.md) (Residual Neural Network)
+- [[Popular Deep Learning Models/ResNet]] (Residual Neural Network)
 
 ### CNN Architectures
 - ResNet-50

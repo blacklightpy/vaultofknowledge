@@ -1,2 +1,2 @@
-- [Search Engine Optimization](Search%20Engine%20Optimization.md)
+- [[Search Engine Optimization]]
 - A/B Testing - Test user satisfaction by serving different versions of website to different visitors using cookies

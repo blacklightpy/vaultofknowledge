@@ -1,1 +1,1 @@
-- Automated [tests](../Testing/Tests.md) are generalized tests that run as part of a [Continuous Integration, Delivery and Deployment](Continuous%20Integration,%20Delivery%20and%20Deployment.md) pipeline
+- Automated [[../Testing/Tests|tests]] are generalized tests that run as part of a [[Continuous Integration, Delivery and Deployment]] pipeline

@@ -19,5 +19,5 @@ Kubernetes was originally developed by Google, was was later donated to Cloud Na
 - MicroK8s (Canonical)
 
 Links:
-[Containerization Tech](Containerization%20Tech.md)
-[Cluster Computing](../../../Mathematics/Computer%20Science/Operating%20Systems/Virtualization%20and%20Scaling/Cluster%20Computing.md)
+[[Containerization Tech]]
+[[../../../Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Cluster Computing]]

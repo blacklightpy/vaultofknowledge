@@ -13,7 +13,7 @@
 		- Liquid Crystal
 		- Glass Substrate with Electrodes
 		- Colour Filter
-		- [Polarising Filter](../../Fun%20and%20Activities/Photography/Polarising%20Filter.md)
+		- [[../../Fun and Activities/Photography/Polarising Filter]]
 		- Display Surface
 	- Backlighting
 		- CCFL

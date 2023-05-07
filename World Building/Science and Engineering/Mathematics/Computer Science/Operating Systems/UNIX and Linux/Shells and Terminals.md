@@ -1,5 +1,5 @@
 Windows launches the shells/cli applications first, and then attaches the terminal.
-(Source: [](https://devblogs.microsoft.com/commandline/windows-command-line-inside-the-windows-console/#launching-the-console--or-not))
+(Source: [[https://devblogs.microsoft.com/commandline/windows-command-line-inside-the-windows-console/#launching-the-console--or-not]])
 
 # Shells
 ## Unix-Like

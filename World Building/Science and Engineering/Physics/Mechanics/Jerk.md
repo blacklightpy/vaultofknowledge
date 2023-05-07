@@ -23,4 +23,4 @@ Pop = d^6F/dt^6
 # Use cases
 
 - Human behaviour modelling (balancing a cup)
-- [cam synthesis](cam%20synthesis.md)
+- [[cam synthesis]]

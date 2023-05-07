@@ -138,12 +138,12 @@
             }
           },
           {
-            "id": "9f250a13e2dc23c1",
+            "id": "988e55365e5e1029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Compositors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Compositors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Compositors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Window Managers.md"
+                "file": "Compositors.md"
               }
             }
           },
@@ -308,10 +308,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f250a13e2dc23c1",
+  "active": "988e55365e5e1029",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
+    "Compositors.md",
     "Kicking a football to fly.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
     "Window Managers.md",
+    "Next generation filesystems.md",
     "Screenshots of docks placed vertically.md",
     "Finite Element Method.md",
     "Types of Politics.md",
@@ -343,10 +347,6 @@
     "_images/Pasted image 20230507220256.png",
     "_images/Pasted image 20230507220244.png",
     "_images/Pasted image 20230507220237.png",
-    "Compositors.md",
-    "Rice Showcase.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",

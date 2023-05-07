@@ -1,2 +1,2 @@
-- [Neutral Density Filter](Neutral%20Density%20Filter.md)
-- [Polarising Filter](Polarising%20Filter.md)
+- [[Neutral Density Filter]]
+- [[Polarising Filter]]

@@ -1,1 +1,1 @@
-It is the [Colourfulness](Colourfulness.md) of an area judged in proportion to its [Brightness](Brightness.md).
+It is the [[Colourfulness]] of an area judged in proportion to its [[Brightness]].

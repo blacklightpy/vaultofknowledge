@@ -1,5 +1,5 @@
-Western philosophy is the philosophy of [Western Culture](../../../Culture/Western%20Culture.md).
+Western philosophy is the philosophy of [[../../../Culture/Western Culture]].
 
-It began with the [Ancient Greek Philosophy](Ancient%20Greek%20Philosophy.md) of the [pre-Socratics](Pre-Socratic%20Philosophy.md).
+It began with the [[Ancient Greek Philosophy]] of the [[Pre-Socratic Philosophy|pre-Socratics]].
 The philosophy of western culture is divided into severn branches:
  

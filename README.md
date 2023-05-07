@@ -11,7 +11,7 @@ Surely, it doesn't have everything, but it can serve as a map for connecting inf
 
 1. [The Obsidian team](https://obsidian.md/about) - For Obsidian, the PKM tool that encouraged me to edit my notes easily.
 2. [Dorus](https://github.com/dwrolvink) - For ObsidianHtml, the site generator.
-3. [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) and [Aaron Schwartz (Late)](Late)) - The Markdown markup language.
+3. [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) and [[Late)](Late|Aaron Schwartz (Late)]]) - The Markdown markup language.
 4. [Peter Yuen](https://github.com/ppeetteerrs) - For obsidian-zola, which I used before ObsidianHtml.
 5. The countless members of the PKM and free software community for inspiring and supporting me.
 

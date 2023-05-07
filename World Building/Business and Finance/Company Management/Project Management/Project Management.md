@@ -3,26 +3,26 @@ It helps accomplish the targets of a project. Project management itself can take
 ## Areas
 - Communication
 - Project Tracking
-- [Roadmaps](Roadmaps.md)
+- [[Roadmaps]]
 
 ## Tools and Frameworks
 ### Frameworks
 **Popular**
-- [Waterfall](Methods/Waterfall.md)
-- [Agile](Methods/Agile%20Methodology/Agile.md)
+- [[Methods/Waterfall]]
+- [[Methods/Agile Methodology/Agile]]
 **More**
-- [The Toyota Way](Methods/The%20Toyota%20Way.md)
-- [Lean](Methods/Lean.md)
-- [Six Sigma](Methods/Six%20Sigma.md)
+- [[Methods/The Toyota Way]]
+- [[Methods/Lean]]
+- [[Methods/Six Sigma]]
 
 ### Planning Tools
 - Gantt Charts
 - CPM
 - PERT (PERT=(O+4ML+P)/6)
-- [Kanban](Methods/Agile%20Methodology/Kanban.md)
+- [[Methods/Agile Methodology/Kanban]]
 - Timelines
 - Todo Lists
-### [PM Software](PM%20Software.md)
+### [[PM Software]]
 
 ## Workflow Design
 - Work Breakdown Structure

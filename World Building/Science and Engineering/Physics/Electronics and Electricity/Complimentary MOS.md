@@ -1,1 +1,1 @@
-Complimentary [Metal Oxide Semiconductor](Metal%20Oxide%20Semiconductor.md) (CMOS)
+Complimentary [[Metal Oxide Semiconductor]] (CMOS)

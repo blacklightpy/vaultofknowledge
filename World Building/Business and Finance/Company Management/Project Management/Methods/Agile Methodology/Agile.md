@@ -1,6 +1,6 @@
-Agile is a project management methodology involving a number of tools like [Kanban](Kanban.md), [Scrum](Scrum.md), [Extreme Programming](Extreme%20Programming.md), etc.
+Agile is a project management methodology involving a number of tools like [[Kanban]], [[Scrum]], [[Extreme Programming]], etc.
 
-Agile originated from modern development practices such as [Lean](../Lean.md). It involves fast feedback loops and iterative development in contrast to the [Waterfall](../Waterfall.md) method, where everything follows a pre-defined path from start to finish. 
+Agile originated from modern development practices such as [[../Lean]]. It involves fast feedback loops and iterative development in contrast to the [[../Waterfall]] method, where everything follows a pre-defined path from start to finish. 
 
 Modern day software development is highly centered on agile methodologies. To implement a proper agile environment, it is necessary to understand the philosophy behind agile in addition to the systems.
 
@@ -13,7 +13,7 @@ Some of them are:
 - Customer collaboration over contract negotiation  
 - Responding to change over following a plan
 
-- [Tips on Implementing Agile](Tips%20on%20Implementing%20Agile.md)
+- [[Tips on Implementing Agile]]
 
 # Use cases
 * UX improvement
@@ -25,8 +25,8 @@ Some of them are:
 
 # Workflows
 * Has a parallel workflow
-* [Scrum](Scrum.md)
-* [Extreme Programming](Extreme%20Programming.md)
+* [[Scrum]]
+* [[Extreme Programming]]
 
 # Key points
 * User stories - how a ustomer wants to use the product

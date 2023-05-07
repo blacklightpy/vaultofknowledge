@@ -1,4 +1,4 @@
-[Agile](../../World%20Building/Business%20and%20Finance/Company%20Management/Project%20Management/Methods/Agile%20Methodology/Agile.md) for [Software Toolkit](../../Personal/Toolkits/Software%20Toolkit.md):
+[[../../World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile]] for [[../../Personal/Toolkits/Software Toolkit]]:
 
 | v1          | v2          | v2          |
 | ----------- | ----------- | ----------- |
@@ -8,7 +8,7 @@
 | Ship        | Ship        | Ship        |
 
 Similarly,
-[Agile](../../World%20Building/Business%20and%20Finance/Company%20Management/Project%20Management/Methods/Agile%20Methodology/Agile.md) for [Hardware](Hardware):
+[[../../World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile]] for [[Hardware]]:
 
 | v1          | v2          |
 | ----------- | ----------- |
@@ -17,7 +17,7 @@ Similarly,
 | Software    | Backend     |
 | Ship        | Ship        |
 
-![Agile HW and SW planning](../../_images/Agile%20HW%20and%20SW%20planning.png)
+![[../../_images/Agile HW and SW planning.png]]
 
 Optimizing Teamwork
 ---

@@ -2,5 +2,5 @@
 - Radio Signal Spectroscopy
 - Astronomical Spectroscopy
 - Raman Spectroscopy
-- [NMR Spectroscopy](../../../../../Chemistry/Physical/Spectroscopy/NMR%20Spectroscopy.md)
+- [[../../../../../Chemistry/Physical/Spectroscopy/NMR Spectroscopy]]
 - Photoemission Spectroscopy

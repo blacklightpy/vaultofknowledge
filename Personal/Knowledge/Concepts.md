@@ -2,7 +2,7 @@ Sketchnotes
 Computer Vision
 ANSI Art
 
-Link: [Art Concepts](Art%20Concepts.md)
+Link: [[Art Concepts]]
 
 ### Mechanical Engineering
 Axle

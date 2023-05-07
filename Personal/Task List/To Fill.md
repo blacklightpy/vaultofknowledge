@@ -43,7 +43,7 @@ Pterodactyl
 
 ## Linux
 
-![Linux Kernel](../../_images/Linux%20Kernel.png)
+![[../../_images/Linux Kernel.png]]
 
 ### Communication Protocols
 - REST, MQTT

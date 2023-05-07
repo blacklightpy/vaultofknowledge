@@ -1,4 +1,4 @@
-It measures the [Gain](../../../Science%20and%20Engineering/Mathematics/Applied%20Mathematics/Digital%20Signal%20Processing/Gain.md) of a photodetector system.
+It measures the [[../../../Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Gain]] of a photodetector system.
 
 $R=\eta \frac{q}{hf}$ 
-$\eta$ is the [Quantum Efficiency](../../../Science%20and%20Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral%20Analysis/Quantum%20Efficiency.md) of a photodiode at a wavelength.
+$\eta$ is the [[../../../Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Quantum Efficiency]] of a photodiode at a wavelength.

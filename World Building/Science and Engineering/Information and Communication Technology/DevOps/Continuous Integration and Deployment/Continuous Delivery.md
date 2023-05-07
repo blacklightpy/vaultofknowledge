@@ -1,2 +1,2 @@
-- If the built artifacts in [Continuous Integration](Continuous%20Integration.md) are also continuously deployed, it is called continuous delivery
+- If the built artifacts in [[Continuous Integration]] are also continuously deployed, it is called continuous delivery
 - The deployments are triggered manually

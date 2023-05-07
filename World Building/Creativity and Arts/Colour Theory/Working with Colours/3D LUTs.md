@@ -1,3 +1,3 @@
-3D [Lookup Tables](../../../Science%20and%20Engineering/Mathematics/Computer%20Science/Data%20Structures/Lookup%20Tables.md) (LUTs) are used to map one [Colour Space](../Colour%20Modelling/Colour%20Spaces/Colour%20Space.md) to another in the film industry. They are referred to as plainly LUTs in the creative industry.
+3D [[../../../Science and Engineering/Mathematics/Computer Science/Data Structures/Lookup Tables]] (LUTs) are used to map one [[../Colour Modelling/Colour Spaces/Colour Space]] to another in the film industry. They are referred to as plainly LUTs in the creative industry.
 
-LUTs are like [Colour Profiles](Colour%20Profiles.md), but are better in that they can have handpicked colour schemes which make them ideal for creative use.
+LUTs are like [[Colour Profiles]], but are better in that they can have handpicked colour schemes which make them ideal for creative use.

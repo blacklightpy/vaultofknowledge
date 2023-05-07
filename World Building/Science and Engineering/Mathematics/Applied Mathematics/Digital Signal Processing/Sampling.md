@@ -1,5 +1,5 @@
 Sampling refers to capturing of a continuous analog signal into discrete values for use in digital devices.
-Follow the [Nyquist-Shannon Sampling Theorem](Nyquist-Shannon%20Sampling%20Theorem.md)
+Follow the [[Nyquist-Shannon Sampling Theorem]]
 
 # Considerations
 - Quantization errors

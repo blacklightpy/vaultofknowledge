@@ -1,5 +1,5 @@
 - Mercurial
-- [Git](../../../../Marketplace%20and%20Creations/Software%20Implementations/Git.md)
+- [[../../../../Marketplace and Creations/Software Implementations/Git]]
 - Bazaar
 - Subversion
 - Gitless

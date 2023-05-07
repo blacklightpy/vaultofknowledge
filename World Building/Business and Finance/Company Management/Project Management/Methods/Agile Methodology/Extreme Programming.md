@@ -1,1 +1,1 @@
-Extreme Programming (XP) is a workflow in [Agile](Agile.md) project management methodology that involves programming with two people at the same time.
+Extreme Programming (XP) is a workflow in [[Agile]] project management methodology that involves programming with two people at the same time.

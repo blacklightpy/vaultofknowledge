@@ -1,7 +1,7 @@
 ## Protocols
 - MIPI CSI-2
-	- [D-PHY](D-PHY.md)
-	- [C-PHY](C-PHY)
+	- [[D-PHY]]
+	- [[C-PHY]]
 - MIPI CSI-3
 	- M-PHY / Uniport-M
 - GigE Vision

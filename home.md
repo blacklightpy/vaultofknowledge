@@ -11,7 +11,7 @@ The GitHub repository for this page is available at https://github.com/blackligh
 - There is a small graph view at the bottom, and a full page graph view button at the top. You can switch between 2D and 3D views to visualize the connections between notes. In the small graph view, left clicking a note opens the note, and right click just selects the note in graph view. In the full page graph view, it is the other way round.
 
 > [!Previous intro]-
->Hi there! This method of taking notes is called a [Zettelkasten](Personal/Zettelkasten.md), or connected atomic notes. It is more commonly referred to as a second brain. The purpose of taking notes this way is to build a lifelong store of information.
+>Hi there! This method of taking notes is called a [[Personal/Zettelkasten]], or connected atomic notes. It is more commonly referred to as a second brain. The purpose of taking notes this way is to build a lifelong store of information.
 >
 >You can explore the notes using the graph, sidebar index (at the bottom for mobiles), search bar and links within pages.
 >
@@ -23,11 +23,11 @@ The GitHub repository for this page is available at https://github.com/blackligh
 >- I wanted to publish this since February this year (2022), but I waited for writing my own publishing system, but I got busier with college work, and decided that it's better to do something rather than waiting to make it perfect and not doing anything.
 > - Also having a public knowledgebase helps motivate me to maintain a better knowledgebase, and also help me share knowledge with others and hopefully do some cool projects together.
 >    
->    I will write my own publishing system later to fix those problems. So consider this an early version of my site. There's also some personal information as well, but I don't mind it being there. I'll also be adding a blog and other cool stuff, as listed here: [Personal Website Ideas](Personal/Personal%20Website%20Ideas.md)
+>    I will write my own publishing system later to fix those problems. So consider this an early version of my site. There's also some personal information as well, but I don't mind it being there. I'll also be adding a blog and other cool stuff, as listed here: [[Personal/Personal Website Ideas]]
 >    
 >    **What's functional, and how to use:**
 > - There is a search bar for quick access.
-> - All notes are propely visible in my [GitHub repo](github.com/blacklightpy/Obsidian-Notes-backup)
+> - All notes are propely visible in my [[github.com/blacklightpy/Obsidian-Notes-backup|GitHub repo]]
 > - Folders are at the bottom of the index. 👉 represents subfolders.
 > - Subfolders three levels deep are not listed in the index. Those notes can be found in the graph and using the search bar.
 >   

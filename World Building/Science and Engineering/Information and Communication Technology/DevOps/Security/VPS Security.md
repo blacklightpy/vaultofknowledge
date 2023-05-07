@@ -23,7 +23,7 @@ LABEL=/boot /boot ext2 defaults, ro 1 2
 * TLS 1.2/1.3 (Cloudflare/Let'sEncrypt) - 'Server to CDN' and 'CDN to Browser'
 * Install AV to scan for viruses in eMails - ClamAV
 * Install rootkit scanner - chrootkit
-* Use an IDS ([Intrusion Detection System](../../../Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Intrusion%20Detection%20System.md)) + IPS - HIDS, not NIDS - OSSEC/Security Onion
+* Use an IDS ([[../../../Mathematics/Computer Science/Operating Systems/UNIX and Linux/Intrusion Detection System]]) + IPS - HIDS, not NIDS - OSSEC/Security Onion
 * Virtualmin instead of cPanel - for use with CMS - and backups
 * Disable anonymous FTP uploads
 
@@ -35,5 +35,5 @@ Extra steps:
 
 Tags:
 
-[System Security](../../System%20Administration/System%20Security.md)
-[VPS](VPS)
+[[../../System Administration/System Security]]
+[[VPS]]

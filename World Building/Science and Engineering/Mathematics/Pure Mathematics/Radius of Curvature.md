@@ -2,5 +2,5 @@
 - Formula:
 - Curvature is the reciprocal of radius of curvature
 
-[Euler Spiral](Euler%20Spiral.md)
-[Track Transition Curves](../Applied%20Mathematics/Track%20Transition%20Curves.md)
+[[Euler Spiral]]
+[[../Applied Mathematics/Track Transition Curves]]

@@ -1,4 +1,4 @@
-[Linux Distros](Linux%20Distros.md) [Linux](Linux)
+[[Linux Distros]] [[Linux]]
 
 ## Users
 ### Root

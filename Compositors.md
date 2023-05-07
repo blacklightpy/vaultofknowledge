@@ -1,10 +1,10 @@
-Compositor seems like a generic term, but due to it's low usagee in other areas, I'm referring to window compositors in UNIX-like systems.
+Compositor seems like a generic term, but due to it's low usage in other areas, I'm referring to window compositors in UNIX-like systems.
 
 A compositor draws multiple windows on to the screen, taking care of the movements of windows. For example, it takes care of adding shadows, motion blur, animations, etc. It does this by first drawing windows onto a virtual screen, and then compositing them together on to the main screen.
 
 Compositing window managers might have an easier time with synchronizing window states with the compositor.
 
-Compositors can be divided based on the [ windowing system](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Windowing%20Systems.md) they use. It's either [X WIndowing System](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/X%20WIndowing%20System.md) or the newer [Wayland](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Wayland.md).
+Compositors can be divided based on the [[World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems|windowing system]] they use. It's either [[World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System]] or the newer [[World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland]] on UNIX-like operating systems, generally.
 
 # Examples
 ## X Windowing System based

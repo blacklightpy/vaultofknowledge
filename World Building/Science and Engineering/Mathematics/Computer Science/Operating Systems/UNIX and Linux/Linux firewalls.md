@@ -8,8 +8,8 @@ ip6
 
 Tags:
 
-[Linux Distros](Linux%20Distros.md)
-[Networking](Networking)
-[sysadmin](sysadmin)
-[System Security](../../../../Information%20and%20Communication%20Technology/System%20Administration/System%20Security.md)
-[Linux](Linux)
+[[Linux Distros]]
+[[Networking]]
+[[sysadmin]]
+[[../../../../Information and Communication Technology/System Administration/System Security]]
+[[Linux]]

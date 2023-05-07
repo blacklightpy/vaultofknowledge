@@ -1,1 +1,1 @@
-- The term optical density is discouraged. [Absorbance](Absorbance.md) is the right term.
+- The term optical density is discouraged. [[Absorbance]] is the right term.

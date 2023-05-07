@@ -14,8 +14,8 @@ Video Compression Method
 			- PAL (625 (576 visible) lines 50 Hz) (digital: 576i or 576i50 (50i/25p)) - YUV
 				- Variants: B, G, H, I, D/K, L, M (YUV), N (YDbDr)
 			- SECAM (built in search of NTSC hue problems) - YDbDr
-		- Signal contans on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [Luminance](World%20Building/Creativity%20and%20Arts/Colour%20Theory/Physical%20Aspects%20of%20Colours/Luminance.md) (Y) of the picture and a [modulated](World%20Building/Science%20and%20Engineering/Information%20and%20Communication%20Technology/Communication%20Technology/Modulation.md) [Chrominance](World%20Building/Science%20and%20Engineering/Mathematics/Applied%20Mathematics/Digital%20Signal%20Processing/Digital%20Image%20Processing/Chrominance.md) (C), a combination of [Hue](World%20Building/Creativity%20and%20Arts/Colour%20Theory/Colour%20Perception/Hue.md) and [Saturation](World%20Building/Creativity%20and%20Arts/Colour%20Theory/Colour%20Perception/Saturation.md). The combining process is different for NTSC, PAL and SECAM systems.
-		- The signals may be seperated by a [comb filter](comb%20filter). The combination is a frequency division technique, but it is more complex that [Frequency Division Multiplexing](World%20Building/Science%20and%20Engineering/Information%20and%20Communication%20Technology/Communication%20Technology/Frequency%20Division%20Multiplexing.md).
+		- Signal contans on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [[World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminance]] (Y) of the picture and a [[World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation|modulated]] [[World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/Chrominance]] (C), a combination of [[World Building/Creativity and Arts/Colour Theory/Colour Perception/Hue]] and [[World Building/Creativity and Arts/Colour Theory/Colour Perception/Saturation]]. The combining process is different for NTSC, PAL and SECAM systems.
+		- The signals may be seperated by a [[comb filter]]. The combination is a frequency division technique, but it is more complex that [[World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Frequency Division Multiplexing]].
 	- S-Video
 		- 2 channel YC
 	- Component Video
@@ -47,7 +47,7 @@ Video Compression Method
 				- Scan lines are transmitted as analog signals in which varying voltages represented the intensity of light
 				- Analog TV has scan lines but no scan pixels, instead the signal varies along the scan line
 					- They normally used interlaced scan
-					- CRTs produce persistence of motion due to -  phosophor persistence (to reduce this brightness difference in the first lines is why they used interlacing since only every other line is drawn in a single field of broadcast video), and [Persistence of Vision](World%20Building/Creativity%20and%20Arts/Colour%20Theory/Psychophysical%20Aspects%20of%20Colours/Persistence%20of%20Vision.md).
+					- CRTs produce persistence of motion due to -  phosophor persistence (to reduce this brightness difference in the first lines is why they used interlacing since only every other line is drawn in a single field of broadcast video), and [[World Building/Creativity and Arts/Colour Theory/Psychophysical Aspects of Colours/Persistence of Vision]].
 				- Digital TV systems represent images as a raster of pixels, in either RGB colour space or others such as YCbCr. Standards for rasters include Rec.601 for SDTV, Rec.709 for HDTV etc.
 			- Analog blanking intervals seperated frames
 		- Physical Film

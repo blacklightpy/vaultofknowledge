@@ -1,4 +1,4 @@
-- [Colour Models](Colour%20Models/Colour%20Models.md) define ways to represent colours as a combination of paramters.
-- [Colour Spaces](Colour%20Spaces/Colour%20Space.md) are representation of colours as a combination of parameters. Colour Models are mapped to colour spaces to form a system that is easy to use.
-- [Colour Appearance Models](Colour%20Appearance%20Models/Colour%20Appearance%20Models.md) (CAM) are advanced models that try to model the perceptual aspects of colour mapping.
-- [Image Colour Appearance Models](Image%20Colour%20Appearance%20Models/Image%20Colour%20Appearance%20Models.md) (iCAM) are CAMs that also account for [Optical Illusions](../Optical%20Illusions.md) that are dependent on the images in context.
+- [[Colour Models/Colour Models]] define ways to represent colours as a combination of paramters.
+- [[Colour Spaces/Colour Space|Colour Spaces]] are representation of colours as a combination of parameters. Colour Models are mapped to colour spaces to form a system that is easy to use.
+- [[Colour Appearance Models/Colour Appearance Models]] (CAM) are advanced models that try to model the perceptual aspects of colour mapping.
+- [[Image Colour Appearance Models/Image Colour Appearance Models]] (iCAM) are CAMs that also account for [[../Optical Illusions]] that are dependent on the images in context.
