@@ -9,7 +9,7 @@
   "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "shortest",
   "pdfExportSettings": {
     "includeName": false,

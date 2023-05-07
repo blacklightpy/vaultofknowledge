@@ -1,4 +1,4 @@
-Has self adjusting [[Gantt Charts]]
+Has self adjusting [Gantt Charts](Gantt%20Charts.md)
 
 ## Features
 - Packages
@@ -7,7 +7,7 @@ Has self adjusting [[Gantt Charts]]
 			- Assignments
 
 ## How to use
-By using the [[Agile]] analogy:
+By using the [Agile](Agile.md) analogy:
 	- Packages are priority classes
 	- Projects are like Epics
 	- Tasks are like Stories

@@ -1,4 +1,4 @@
-[[Game Development]]
+[Game Development](Game%20Development)
 
 SRD - System Reference Document
 

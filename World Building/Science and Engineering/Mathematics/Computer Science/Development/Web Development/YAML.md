@@ -1,4 +1,4 @@
-YAML Ain't Markup Language is a data-serialization language, much like [[JavaScript Object Notation|JSON]], but is focused on being human readable at the same time.
+YAML Ain't Markup Language is a data-serialization language, much like [JSON](JavaScript%20Object%20Notation.md), but is focused on being human readable at the same time.
 
 YAML is also a superset of JSON, meaning it can parse JSON objects within it.
 

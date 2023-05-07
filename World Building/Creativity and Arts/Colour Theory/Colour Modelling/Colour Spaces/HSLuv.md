@@ -1,1 +1,1 @@
-HSLuv preserves the [[Lightness]] and [[Hue]] components of [[CIEHLC Cylindrical Colour Spaces|CIELUV LCh]] and stretches its [[Colourfulness|chroma]] so that every colour has the same range, defined as percentage.
+HSLuv preserves the [Lightness](Lightness.md) and [Hue](Hue.md) components of [CIELUV LCh](CIEHLC%20Cylindrical%20Colour%20Spaces.md) and stretches its [chroma](Colourfulness.md) so that every colour has the same range, defined as percentage.

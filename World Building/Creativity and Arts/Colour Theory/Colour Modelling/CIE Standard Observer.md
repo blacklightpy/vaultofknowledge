@@ -1,10 +1,10 @@
-Due to the distribution of cone cells in the eye, the [[tristimulus]] values depend on the observer's field of view. Standard (Colorimetric) Observer is a color mapping function designed to eliminate this variable, by representing a human's average chromatic response within a $2\degree$ arc inside the fovea.
+Due to the distribution of cone cells in the eye, the [Tristimulus](tristimulus.md) values depend on the observer's field of view. Standard (Colorimetric) Observer is a color mapping function designed to eliminate this variable, by representing a human's average chromatic response within a $2\degree$ arc inside the fovea.
 
-It consists of the set of colour matching functions $\bar{r}(\lambda),\bar{g}(\lambda),\bar{b}(\lambda)$ for the [[CIE 1931 RGB Colour Space|CIERGB]] space and $\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lambda)$ for the [[CIE 1931 XYZ Colour Space|CIEXYZ]] space.
+It consists of the set of colour matching functions $\bar{r}(\lambda),\bar{g}(\lambda),\bar{b}(\lambda)$ for the [CIERGB](CIE%201931%20RGB%20Colour%20Space.md) space and $\bar{x}(\lambda),\bar{y}(\lambda),\bar{z}(\lambda)$ for the [CIEXYZ](CIE%201931%20XYZ%20Colour%20Space.md) space.
 
-CIE's colour matching functions are the numerical descriptions of the chromatic responses of the observer. They can be thought of as the [[spectral sensitivity]] curves of three linear light detectors yielding the [[tristimulus]] values X, Y and Z. 
+CIE's colour matching functions are the numerical descriptions of the chromatic responses of the observer. They can be thought of as the [Spectral Sensitivity](spectral%20sensitivity.md) curves of three linear light detectors yielding the [Tristimulus](tristimulus.md) values X, Y and Z. 
 
-The [[CIE 1931 RGB Colour Space]] was defined using the RGB tristimulus values derived from these mapping functions. Similarly, the [[CIE 1931 XYZ Colour Space]] was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
+The [CIE 1931 RGB Colour Space](CIE%201931%20RGB%20Colour%20Space.md) was defined using the RGB tristimulus values derived from these mapping functions. Similarly, the [CIE 1931 XYZ Colour Space](CIE%201931%20XYZ%20Colour%20Space.md) was defined using the XYZ tristimulus values derived from the standard observer mapping functions.
 
 Later, it was discovered that the cones covered a larger field of view than previously believed. The visual matching experiments were repeated by W. S. Stiles, J. M. Burch and N. I. Speranskaya using this wider field of view and in 1964, the CIE 10$\degree$ Standard Observer was published. The CIE 10$\degree$ standard observer is recommended by the CIE for representing the spectral response of humans and also for most industrial colour applications, but the 1931 2$\degree$ standard observer remains available due to its incorporation in many industry product specifications.
 
@@ -25,10 +25,10 @@ The wavelengths 546.1nm and 435.8 nm were chosen because they are easily reprodu
 
 The cut offs at the short and long wavelengths were chosen somewhat arbitrarily. The human eye can actually see upto 810 nm, but with a sensitivity that is thousands of times less than that for green light.
 
-This created a problem with the $2\degree$ colour mapping function that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [[Uniform Colour Spaces]]. There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
+This created a problem with the $2\degree$ colour mapping function that contributions of shorter blue wavelengths were underestimated. This led to the development of more perceptually linear [Uniform Colour Spaces](Uniform%20Colour%20Spaces.md). There were also corrections by Judd (1951) and Vos (1978) without deviating from the original methodology.
 
 ### Analytical Approximation
 The functions were distributed as a discrete lookup table by the CIE. But table lookup can be impractical for some computational tasks. Instead, they can also be approximated as a sum of Gaussian functions (Refer Wikipedia).
 
 ## Derivation of the CIE XYZ colour matching functions
-It is mentioned here: [[CIE 1931 XYZ Colour Space]]
+It is mentioned here: [CIE 1931 XYZ Colour Space](CIE%201931%20XYZ%20Colour%20Space.md)

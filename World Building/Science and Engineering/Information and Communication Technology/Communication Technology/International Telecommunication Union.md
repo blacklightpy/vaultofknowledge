@@ -1,9 +1,9 @@
 International Telecommunication Union (ITU)
 
 It is divided into three sectors:
-- [[ITU Radiocommunication Sector]]
-- [[ITU Standardization Sector]]
-- [[ITU Development Sector]]
+- [ITU Radiocommunication Sector](ITU%20Radiocommunication%20Sector.md)
+- [ITU Standardization Sector](ITU%20Standardization%20Sector.md)
+- [ITU Development Sector](ITU%20Development%20Sector.md)
 
 # History
 

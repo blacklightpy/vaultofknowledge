@@ -14,8 +14,8 @@ Video Compression Method
 			- PAL (625 (576 visible) lines 50 Hz) (digital: 576i or 576i50 (50i/25p)) - YUV
 				- Variants: B, G, H, I, D/K, L, M (YUV), N (YDbDr)
 			- SECAM (built in search of NTSC hue problems) - YDbDr
-		- Signal contans on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [[luminance]] (Y) of the picture and a [[modulation|modulated]] [[chrominance]] (C), a combination of [[hue]] and [[saturation]]. The combining process is different for NTSC, PAL and SECAM systems.
-		- The signals may be seperated by a [[comb filter]]. The combination is a frequency division technique, but it is more complex that [[Frequency Division Multiplexing]].
+		- Signal contans on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [Luminance](luminance.md) (Y) of the picture and a [modulated](modulation.md) [Chrominance](chrominance.md) (C), a combination of [Hue](hue.md) and [Saturation](saturation.md). The combining process is different for NTSC, PAL and SECAM systems.
+		- The signals may be seperated by a [comb filter](comb%20filter). The combination is a frequency division technique, but it is more complex that [Frequency Division Multiplexing](Frequency%20Division%20Multiplexing.md).
 	- S-Video
 		- 2 channel YC
 	- Component Video
@@ -47,7 +47,7 @@ Video Compression Method
 				- Scan lines are transmitted as analog signals in which varying voltages represented the intensity of light
 				- Analog TV has scan lines but no scan pixels, instead the signal varies along the scan line
 					- They normally used interlaced scan
-					- CRTs produce persistence of motion due to -  phosophor persistence (to reduce this brightness difference in the first lines is why they used interlacing since only every other line is drawn in a single field of broadcast video), and [[Persistence of Vision]].
+					- CRTs produce persistence of motion due to -  phosophor persistence (to reduce this brightness difference in the first lines is why they used interlacing since only every other line is drawn in a single field of broadcast video), and [Persistence of Vision](Persistence%20of%20Vision.md).
 				- Digital TV systems represent images as a raster of pixels, in either RGB colour space or others such as YCbCr. Standards for rasters include Rec.601 for SDTV, Rec.709 for HDTV etc.
 			- Analog blanking intervals seperated frames
 		- Physical Film

@@ -1,4 +1,4 @@
-### [[Agile]] Manifesto
+### [Agile](Agile.md) Manifesto
 
 - Individuals and interactions over processes and tools  
 - Working software over comprehensive documentation  

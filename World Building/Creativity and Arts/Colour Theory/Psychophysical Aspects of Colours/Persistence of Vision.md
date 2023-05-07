@@ -1,4 +1,4 @@
-It refers to the [[optical illusions|optical illusion]] that occurs when visual perception of light from an object does not cease for some time after the object has stopped emitting light.
+It refers to the [optical illusion](optical%20illusions.md) that occurs when visual perception of light from an object does not cease for some time after the object has stopped emitting light.
 
 This can be understood to mean the same as any of the following effects:
 

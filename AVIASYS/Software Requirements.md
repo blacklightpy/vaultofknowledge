@@ -1,5 +1,5 @@
 Have an all-in-one roadmap
-Follow [[Agile]] and do work in sprints
+Follow [Agile](Agile.md) and do work in sprints
 Have Backlogs and Issue States
 Have Velocity Reports
 Have automation for productivity

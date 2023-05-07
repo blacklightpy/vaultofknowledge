@@ -16,6 +16,6 @@
 - Stop all running jobs when one test has failed - in parallel situations
 - Auto-cancel queued builds - in case a developer made a quick change just after pushing once
 
-![[Pasted image 20221230140324.png]]
+![Pasted image 20221230140324](Pasted%20image%2020221230140324.png)
 
-![[Pasted image 20221230140823.png]]
+![Pasted image 20221230140823](Pasted%20image%2020221230140823.png)

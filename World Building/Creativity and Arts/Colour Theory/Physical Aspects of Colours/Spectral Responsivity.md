@@ -1,4 +1,4 @@
-It measures the [[gain]] of a photodetector system.
+It measures the [Gain](gain.md) of a photodetector system.
 
 $R=\eta \frac{q}{hf}$ 
-$\eta$ is the [[Quantum Efficiency]] of a photodiode at a wavelength.
+$\eta$ is the [Quantum Efficiency](Quantum%20Efficiency.md) of a photodiode at a wavelength.

@@ -3,15 +3,15 @@ A window manager is the program that handles displaying the content of GUI appli
 
 Window managers can be divided based on their style as: Tiling, Stacking and Dynamic.
 
-There are two main displaying systems in UNIX-Like operating systems: [[X WIndowing System]] (or X) and the newer [[Wayland]]. For other operating systems, see [[Windowing Systems]].
+There are two main displaying systems in UNIX-Like operating systems: [X WIndowing System](X%20WIndowing%20System.md) (or X) and the newer [Wayland](Wayland.md). For other operating systems, see [Windowing Systems](Windowing%20Systems.md).
 
-In [[X WIndowing System]]:
-Display Server > [[Compositors|Compositor]] > [[Window Managers|Window Manager]]
+In [X WIndowing System](X%20WIndowing%20System.md):
+Display Server > [Compositor](Compositors.md) > [Window Manager](Window%20Managers.md)
 
 Compositing Window Mangers are Window Managers with an integrated compositor.
 A desktop environment shell has a window manager, compositor and other panels, docks and widgets running on an X display server.
 
-In [[Wayland]]:
+In [Wayland](Wayland.md):
 Wayland takes a combined approach to the display ecosystem.
 
 The display server, window manager and compositor are a single program, called a compositor.
@@ -22,7 +22,7 @@ A desktop environment shell has a compositor and and other panels, docks and wid
 
 | Windows 8 Start                      | Stock Android Launcher (Pixel)       | GNOME Dash (Mine, with Blur My Shell extension) | MacOS Launchpad                      | Deepin 15.11 Dash                    |
 | ------------------------------------ | ------------------------------------ | ----------------------------------------------- | ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20230507211324.png]] | ![[Pasted image 20230507211637.png]] | ![[Pasted image 20230507211947.png]]            | ![[Pasted image 20230507212559.png]] | ![[Pasted image 20230507212109.png]] |
+| ![Pasted image 20230507211324](Pasted%20image%2020230507211324.png) | ![Pasted image 20230507211637](Pasted%20image%2020230507211637.png) | ![Pasted image 20230507211947](Pasted%20image%2020230507211947.png)            | ![Pasted image 20230507212559](Pasted%20image%2020230507212559.png) | ![Pasted image 20230507212109](Pasted%20image%2020230507212109.png) |
 
 ## Dock (/ Panel / Task bar)
 They are conventionally placed at the bottom or at the left.
@@ -31,17 +31,17 @@ I used horizontal screenshots to show them without having to scroll too much.
 ### Examples
 | OS                              | Screenshot                           |
 | ------------------------------- | ------------------------------------ |
-| Windows 7 Taskbar               | ![[Pasted image 20230507202931.png]] |
-| GNOME Dash to Dock (Dock Mode)  | ![[Pasted image 20230507202809.png]] |
-| GNOME Dash to Dock (Panel Mode) | ![[Pasted image 20230507221705.png]] |
-| GNOME Dash to Panel             | ![[Pasted image 20230507203112.png]] |
-| Plank Dock (app)                | ![[Pasted image 20230507210301.png]] |
-| Pantheon Dock                   | ![[Pasted image 20230507210325.png]] |
+| Windows 7 Taskbar               | ![Pasted image 20230507202931](Pasted%20image%2020230507202931.png) |
+| GNOME Dash to Dock (Dock Mode)  | ![Pasted image 20230507202809](Pasted%20image%2020230507202809.png) |
+| GNOME Dash to Dock (Panel Mode) | ![Pasted image 20230507221705](Pasted%20image%2020230507221705.png) |
+| GNOME Dash to Panel             | ![Pasted image 20230507203112](Pasted%20image%2020230507203112.png) |
+| Plank Dock (app)                | ![Pasted image 20230507210301](Pasted%20image%2020230507210301.png) |
+| Pantheon Dock                   | ![Pasted image 20230507210325](Pasted%20image%2020230507210325.png) |
 
 Here are some vertical screenshots, anyway:
 | Windows 10                           | Ubuntu Dock                          | GNOME Dash to Dock (Dock Mode)       | GNOME Dash to Dock (Panel Mode)      | GNOME Dash to Panel                  |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20230507205637.png]] | ![[Pasted image 20230507210626.png]] | ![[Pasted image 20230507211101.png]] | ![[Pasted image 20230507221834.png]] | ![[Pasted image 20230507221856.png]] |
+| ![Pasted image 20230507205637](Pasted%20image%2020230507205637.png) | ![Pasted image 20230507210626](Pasted%20image%2020230507210626.png) | ![Pasted image 20230507211101](Pasted%20image%2020230507211101.png) | ![Pasted image 20230507221834](Pasted%20image%2020230507221834.png) | ![Pasted image 20230507221856](Pasted%20image%2020230507221856.png) |
 
 ## Bar (/ Panel / Status bar)
 They are conventionally placed at the top. Some window managers include a bar with them.

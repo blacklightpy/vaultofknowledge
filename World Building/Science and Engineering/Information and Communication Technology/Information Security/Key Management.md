@@ -1,5 +1,5 @@
 It refers to the management of cryptographic keys.
-[[Key Management Systems]]
+[Key Management Systems](Key%20Management%20Systems.md)
 
 **Components**
 - Trust Store: Where public information is stored for verifying certificates.

@@ -2,7 +2,7 @@ They are colour models that represent represent the additive mixing property of 
 
 The properties of additive mixing are given by Grassman's laws, which is not valid under all conditions.
 
-They are applied in the design of digital displays like CRT, LCD, etc. which represent colours using [[phosphor|phosphors]] that emit a limited set of [[primary colours]].
+They are applied in the design of digital displays like CRT, LCD, etc. which represent colours using [phosphors](phosphor.md) that emit a limited set of [Primary Colours](primary%20colours.md).
 
 Examples are:
-- [[RGB Colour Model]]
+- [RGB Colour Model](RGB%20Colour%20Model.md)

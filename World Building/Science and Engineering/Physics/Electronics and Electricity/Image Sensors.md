@@ -1,2 +1,2 @@
-- [[CMOS APS]]
-- [[Charge-Coupled Devices]]
+- [CMOS APS](CMOS%20APS.md)
+- [Charge-Coupled Devices](Charge-Coupled%20Devices.md)

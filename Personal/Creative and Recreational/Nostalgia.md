@@ -1,5 +1,5 @@
 XPQ4
-Q4OS [[Linux Distros]]
+Q4OS [Linux Distros](Linux%20Distros.md)
 Deepin 15.11
 
 SimpleClassicTheme

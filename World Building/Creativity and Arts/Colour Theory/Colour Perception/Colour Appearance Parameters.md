@@ -1,1 +1,1 @@
-Human [[colour perception]] does not work in terms of XYZ [[Tristimulus]] values, but in terms of appearance parameters ([[Hue]], [[Lightness]], [[Brightness]], [[Colourfulness|chroma, colourfulness and saturation]])
+Human [Colour Perception](colour%20perception.md) does not work in terms of XYZ [Tristimulus](Tristimulus.md) values, but in terms of appearance parameters ([Hue](Hue.md), [Lightness](Lightness.md), [Brightness](Brightness.md), [chroma, colourfulness and saturation](Colourfulness.md))

@@ -1,3 +1,3 @@
-It is any substance that exhibits the phenomenon of [[luminescence]]. 
+It is any substance that exhibits the phenomenon of [Luminescence](luminescence.md). 
 
-They are named after Phosphorous, the light-emitting element. But Phosphorous emits light due to [[chemiluminescence]], not [[phosphorescence]].
+They are named after Phosphorous, the light-emitting element. But Phosphorous emits light due to [chemiluminescence](chemiluminescence), not [phosphorescence](phosphorescence).

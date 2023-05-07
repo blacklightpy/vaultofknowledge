@@ -2,7 +2,7 @@ Beware of: Editor Holy Wars (Vim/Emacs; use Nano)
 
 # Areas of Customization
 Icon Packs
-[[Themes]] / [[Colour Schemes]]
+[Themes](Themes.md) / [Colour Schemes](Colour%20Schemes.md)
 Sound Themes (optional)
 Pointers (optional)
 Fonts (option)
@@ -18,4 +18,4 @@ Just copy the dotfiles into your XDG-CONFIG-HOME directory, which is the $HOME/.
 - For multiple users, each user can have their own configuration :D
 
 # Some manual tweaks
-1. [[Enable Show Desktop Button]]
+1. [Enable Show Desktop Button](Enable%20Show%20Desktop%20Button.md)

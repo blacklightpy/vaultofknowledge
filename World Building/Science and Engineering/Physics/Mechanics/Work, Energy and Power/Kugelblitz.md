@@ -2,4 +2,4 @@ A kugelblitz is a region of intense concentration of energy, that it will turn i
 
 Kugelblitz drives are theorized to be useful in future black hole starship engines.
 
-[[Physics]]
+[Physics](Physics)

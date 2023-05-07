@@ -3,5 +3,5 @@ An associative array, map, symbol table of dictionary is a data structure that s
 In mathematical terms, an associative array is a function with a finite domain.
 
 # Implementations
-- [[Hash Tables]]
-- [[Search Trees]]
+- [Hash Tables](Hash%20Tables.md)
+- [Search Trees](Search%20Trees.md)

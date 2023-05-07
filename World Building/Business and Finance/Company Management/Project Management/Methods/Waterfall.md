@@ -1,4 +1,4 @@
-Waterfall is a project management strategy where you map out every detail of the process and plan it with detailed timelines or [[Gantt Charts]].
+Waterfall is a project management strategy where you map out every detail of the process and plan it with detailed timelines or [Gantt Charts](Gantt%20Charts.md).
 
 # Workflow
 - Has a linear workflow

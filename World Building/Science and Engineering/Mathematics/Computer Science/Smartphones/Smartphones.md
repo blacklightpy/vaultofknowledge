@@ -20,5 +20,5 @@ Fingerprint sensor (Side/Onscreen)
 - GeekBench 5
 - AnTuTu 9
 
-[[SoCs]]
-[[GPUs]]
+[SoCs](SoCs.md)
+[GPUs](GPUs.md)

@@ -1,5 +1,5 @@
 - They have the spin quantum number of 1/2
-- They don't have [[color charge]]
+- They don't have [Color Charge](color%20charge.md)
 - They participate in weak interactions
 
 ### Three generations

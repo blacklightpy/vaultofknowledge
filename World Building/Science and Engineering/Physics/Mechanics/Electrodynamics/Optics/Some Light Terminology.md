@@ -1,2 +1,2 @@
-- [[Incandescence]]
-- [[Luminescence]]
+- [Incandescence](Incandescence.md)
+- [Luminescence](Luminescence.md)

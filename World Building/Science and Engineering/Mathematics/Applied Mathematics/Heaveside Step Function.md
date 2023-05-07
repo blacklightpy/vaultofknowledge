@@ -1,1 +1,1 @@
-It is the integral of the [[Dirac Delta Function]].
+It is the integral of the [Dirac Delta Function](Dirac%20Delta%20Function.md).

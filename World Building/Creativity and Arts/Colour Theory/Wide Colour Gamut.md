@@ -1,1 +1,1 @@
-It refers to any gamut wider than Rec.709 as defined by the [[Ultra HD Forum]].
+It refers to any gamut wider than Rec.709 as defined by the [Ultra HD Forum](Ultra%20HD%20Forum.md).

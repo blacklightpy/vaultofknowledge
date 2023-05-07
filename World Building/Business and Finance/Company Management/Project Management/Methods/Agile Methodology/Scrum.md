@@ -1,1 +1,1 @@
-Scrum refers to daily standup meetings in [[Agile]].
+Scrum refers to daily standup meetings in [Agile](Agile.md).

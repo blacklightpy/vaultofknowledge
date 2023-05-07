@@ -1,2 +1,2 @@
 # Types
-- [[Descriptive Statistics]]
+- [Descriptive Statistics](Descriptive%20Statistics.md)

@@ -1,4 +1,4 @@
-It is a lossy form of compression based on [[Discrete Cosine Transform]].
+It is a lossy form of compression based on [Discrete Cosine Transform](Discrete%20Cosine%20Transform).
 
 MIME Types: image/jpeg
 
@@ -14,19 +14,19 @@ The general steps involved are:
 - Downsampling
 	- The ratio at which downsampling is ordinarily done is at either 4:4:4 (no downsampling), 4:2:2 (reduction by a factor of two in the horizontal direction) or 4:2:0 (reduction by a factor of 2 in both the horizontal and vertical directions)
 - Block Splitting
-	- Each channel is split into 8x8 blocks. Depending on [[chroma subsampling]], this yields Minimum Coded Unit (MCU) blocks of size 8x8 (4:4:4), 16x8 (4:2:2) or 16x16 (4:2:0).
+	- Each channel is split into 8x8 blocks. Depending on [Chroma Subsampling](chroma%20subsampling.md), this yields Minimum Coded Unit (MCU) blocks of size 8x8 (4:4:4), 16x8 (4:2:2) or 16x16 (4:2:0).
 - Discrete Fourier Transform
-	- Each 8x8 block of each component is converted to a [[frequency domain]] representation, using a normalized, 2D type-II [[Discrete Cosine Transform]] (DCT). 
+	- Each 8x8 block of each component is converted to a [frequency domain](frequency%20domain) representation, using a normalized, 2D type-II [Discrete Cosine Transform](Discrete%20Cosine%20Transform) (DCT). 
 - Quantization
 	- This is the only lossy operation (apart from chroma subsampling)
 - Entropy Coding
 	- It is a special form of lossless data compression.
 
 ### Encoding according to JFIF Standard
-- It converts images from [[RGB Colour Model|RGB]] to [[YUV and YCbCr|YCbCr]].
-- The resolution of [[chrominance|chroma]] is reduced by a factor of 2 or 3, by [[chroma subsampling]].
-- The image is split into blocks of 8x8 pixels and for each block, each of the Y, Cb and Cr data undergoes the [[Discrete Cosine Transform]]. A DCT is similar to a [[Fourier Transform]] in the sence that it produces a kind of spatial frequency spectrum.
+- It converts images from [RGB](RGB%20Colour%20Model.md) to [YCbCr](YUV%20and%20YCbCr.md).
+- The resolution of [chroma](chrominance.md) is reduced by a factor of 2 or 3, by [Chroma Subsampling](chroma%20subsampling.md).
+- The image is split into blocks of 8x8 pixels and for each block, each of the Y, Cb and Cr data undergoes the [Discrete Cosine Transform](Discrete%20Cosine%20Transform). A DCT is similar to a [Fourier Transform](Fourier%20Transform.md) in the sence that it produces a kind of spatial frequency spectrum.
 - The amplitudes of the frequency components are quantized. Human vision is much more sensitive or small variations in colour or brightness over large areas than to the strength of high-frequency brightness variations. Therefore the magnitudes of the high-frequency components are stored with a lower accuracy than the low-frequency components according to the quality setting (the 0-100 setting in the Independent JPEG Group's library).
-- The resulting data for all 8x8 blocks is losslessly compressed with a variant of [[Huffman encoding]].
+- The resulting data for all 8x8 blocks is losslessly compressed with a variant of [Huffman encoding](Huffman%20encoding).
 
 Decoding process reverses these steps, except the quantization step, which is lossy.

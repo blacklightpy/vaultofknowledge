@@ -1,11 +1,11 @@
-They are any [[Additive Colour Models]] based on the [[RGB Colour Model]].
+They are any [Additive Colour Models](Additive%20Colour%20Models.md) based on the [RGB Colour Model](RGB%20Colour%20Model.md).
 
-An RGB colour space is defined by [[Chromaticity]] coordinates of red, green and blue [[Primary Colours|additive primaries]], the [[White Point]] which is usually defined by a [[Standard Illuminant]] and the [[transfer function]] which is also known as the [[Tone Response Curve]] or [[Gamma Correction|Gamma]].
+An RGB colour space is defined by [Chromaticity](Chromaticity.md) coordinates of red, green and blue [additive primaries](Primary%20Colours.md), the [White Point](White%20Point.md) which is usually defined by a [Standard Illuminant](Standard%20Illuminant.md) and the [Transfer Function](transfer%20function.md) which is also known as the [Tone Response Curve](Tone%20Response%20Curve.md) or [Gamma](Gamma%20Correction.md).
 
-The primary colours are often specified using their [[CIE xyY Colour Space|xyY]] chromaticity coordinates, although the u',v' coordinates from the [[CIE 1976 Uniform Colour Spaces|UCS]] chromaticity diagram may also be used.
+The primary colours are often specified using their [xyY](CIE%20xyY%20Colour%20Space.md) chromaticity coordinates, although the u',v' coordinates from the [UCS](CIE%201976%20Uniform%20Colour%20Spaces.md) chromaticity diagram may also be used.
 
 # Examples
-- [[CIE 1931 RGB Colour Space]] (CIERGB)
+- [CIE 1931 RGB Colour Space](CIE%201931%20RGB%20Colour%20Space.md) (CIERGB)
 - Linear RGB
 **Gamma Corrected**
 - sRGB

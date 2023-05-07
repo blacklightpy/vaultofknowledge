@@ -1,4 +1,4 @@
-Subscriber Identity Module (SIM) Cards help to authenticate a user to a cellular network operator [[Cellular Networks]]
+Subscriber Identity Module (SIM) Cards help to authenticate a user to a cellular network operator [Cellular Networks](Cellular%20Networks.md)
 
 ### Types
 - SIM (GSM)

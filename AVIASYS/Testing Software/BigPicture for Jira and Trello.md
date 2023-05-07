@@ -6,10 +6,10 @@
 
 ## Views
 - Overview
-- [[Gantt Charts]]
+- [Gantt Charts](Gantt%20Charts.md)
 - Scope
 - Board
-- [[Roadmaps]]
+- [Roadmaps](Roadmaps.md)
 - Resources
 - Teams
 - Risks

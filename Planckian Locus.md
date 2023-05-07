@@ -1,3 +1,3 @@
-Planckian locus or [[Black Body]] locus is the path or [[locus]] that the colour of an incandescent [[Black Body]] would take in a particular [[Chromaticity]] space as the blackbody [[Temperature]] changes.
+Planckian locus or [Black Body](Black%20Body.md) locus is the path or [Locus](locus.md) that the colour of an incandescent [Black Body](Black%20Body.md) would take in a particular [Chromaticity](Chromaticity.md) space as the blackbody [Temperature](Temperature.md) changes.
 
 It goes from deep red at low temperatures through orange, yellowish white, white and finally bluish white at very high temperatures.

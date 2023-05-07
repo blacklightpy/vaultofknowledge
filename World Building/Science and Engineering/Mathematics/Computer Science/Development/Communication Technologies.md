@@ -1,4 +1,4 @@
-Web: [[Web Technologies]]
+Web: [Web Technologies](Web%20Technologies.md)
 
 APIs: REST API, HTTP API, SOAP, RPC, GraphQL (Main); Falcor gRPC, Apache thrift
 
@@ -10,5 +10,5 @@ Internet Connectivity:
 - Wired
 - Wireless
 	- Satellite Communications
-	- [[Cellular Networks]]
+	- [Cellular Networks](Cellular%20Networks.md)
 	- Wi-Fi

@@ -1,5 +1,5 @@
 ### ANN Architectures
-- [[ResNet]] (Residual Neural Network)
+- [ResNet](ResNet.md) (Residual Neural Network)
 
 ### CNN Architectures
 - ResNet-50

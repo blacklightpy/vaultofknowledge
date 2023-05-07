@@ -1,2 +1,2 @@
 - Static Timing Analysis
-- [[Electronic Design Automation]]
+- [Electronic Design Automation](Electronic%20Design%20Automation.md)

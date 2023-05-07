@@ -19,8 +19,8 @@ Rebirth, Reaktor, Frooty Loops, Reason, Reaper, LMMS
 - Chips: Atari ST's Yamaha YM2149
 
 - Music Theory
-- [[Sound Engineering]]
-- Sine waves, [[Digital Communications#^Heading|Pulse Code Modulation]]
+- [Sound Engineering](Sound%20Engineering.md)
+- Sine waves, [](Digital%20Communications.md#^Heading%7CPulse%20Code%20Modulation)
 - Audio Spectrography and Analysis
 
 # Genres
