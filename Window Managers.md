@@ -29,18 +29,19 @@ They are conventionally placed at the bottom or at the left.
 I used horizontal screenshots to show them without having to scroll too much.
 
 ### Examples
-| OS                  | Screenshot                           |
-| ------------------- | ------------------------------------ |
-| Windows 7 Taskbar   | ![[Pasted image 20230507202931.png]] |
-| GNOME Dash to Dock  | ![[Pasted image 20230507202809.png]] |
-| GNOME Dash to Panel | ![[Pasted image 20230507203112.png]] |
-| Plank Dock          | ![[Pasted image 20230507210301.png]] |
-| Pantheon Dock       | ![[Pasted image 20230507210325.png]] |
+| OS                              | Screenshot                           |
+| ------------------------------- | ------------------------------------ |
+| Windows 7 Taskbar               | ![[Pasted image 20230507202931.png]] |
+| GNOME Dash to Dock (Dock Mode)  | ![[Pasted image 20230507202809.png]] |
+| GNOME Dash to Dock (Panel Mode) | ![[Pasted image 20230507221705.png]] |
+| GNOME Dash to Panel             | ![[Pasted image 20230507203112.png]] |
+| Plank Dock (app)                | ![[Pasted image 20230507210301.png]] |
+| Pantheon Dock                   | ![[Pasted image 20230507210325.png]] |
 
 Here are some vertical screenshots, anyway:
-| Windows 10                           | GNOME Dash to Panel                  | GNOME Dash to Dock                   |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20230507205637.png]] | ![[Pasted image 20230507210626.png]] | ![[Pasted image 20230507211101.png]] |
+| Windows 10                           | Ubuntu Dock                          | GNOME Dash to Dock (Dock Mode)       | GNOME Dash to Dock (Panel Mode)      | GNOME Dash to Panel                  |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| ![[Pasted image 20230507205637.png]] | ![[Pasted image 20230507210626.png]] | ![[Pasted image 20230507211101.png]] | ![[Pasted image 20230507221834.png]] | ![[Pasted image 20230507221856.png]] |
 
 ## Bar (/ Panel / Status bar)
 They are conventionally placed at the top. Some window managers include a bar with them.
@@ -61,7 +62,7 @@ Full List: Workspace Indicator, Task View, Date and Time, Bluetooth, Calendar, N
 You really have to get imaginative here. In Windows, we use Rainmeter for this.
 There are many widgets made using eww (El Kowar's Wacky Widgets).
 
-# Examples
+# Examples of Window Managers
 A larger list can be found in the [Arch Wiki > Window Managers](https://wiki.archlinux.org/title/window_manager)
 
 ## X based
