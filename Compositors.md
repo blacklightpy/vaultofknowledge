@@ -4,7 +4,7 @@ A compositor draws multiple windows on to the screen, taking care of the movemen
 
 Compositing window managers might have an easier time with synchronizing window states with the compositor.
 
-Compositors can be divided based on the [ windowing system](windowing%20systems.md) they use. It's either [X WIndowing System](X%20WIndowing%20System.md) or the newer [Wayland](Wayland.md).
+Compositors can be divided based on the [ windowing system](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Windowing%20Systems.md) they use. It's either [X WIndowing System](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/X%20WIndowing%20System.md) or the newer [Wayland](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Wayland.md).
 
 # Examples
 ## X Windowing System based

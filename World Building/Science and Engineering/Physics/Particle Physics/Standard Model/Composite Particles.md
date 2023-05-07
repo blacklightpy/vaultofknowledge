@@ -1,4 +1,4 @@
-They are particles made from the combination of two or more elementary particles. Some examples are [Hadrons](hadrons.md), atoms, molecules and ions. They can either be bosons or fermions depending on their constituents.
+They are particles made from the combination of two or more elementary particles. Some examples are [Hadrons](Hadrons.md), atoms, molecules and ions. They can either be bosons or fermions depending on their constituents.
 
 ### Composite Bosons
 They have even number spin. Examples are:

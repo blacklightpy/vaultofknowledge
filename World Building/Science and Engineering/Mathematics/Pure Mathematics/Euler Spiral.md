@@ -6,11 +6,11 @@ eg: Railway tracks where the curve changes into a straight track
 Derived using [Fresnel Integrals](Fresnel%20Integrals.md)
 
 ### Usages
-[Track Transition Curves](Track%20Transition%20Curves.md)
-Used in [Optics](Optics.md) to describe diffraction patterns
+[Track Transition Curves](../Applied%20Mathematics/Track%20Transition%20Curves.md)
+Used in [Optics](../../Physics/Mechanics/Electrodynamics/Optics/Optics.md) to describe diffraction patterns
 Rollercoaster clothoids
 Velodromes (bicycle curves) - for rapid entry and gradual exit
 
 Tags:
-[Jerk](Jerk.md)
+[Jerk](../../Physics/Mechanics/Jerk.md)
 [clothoids](clothoids.md)

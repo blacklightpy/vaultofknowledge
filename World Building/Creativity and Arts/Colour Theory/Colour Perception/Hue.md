@@ -1,1 +1,1 @@
-Hue is a general term in [Colour Theory](Personal/Knowledge/Colour%20Theory.md) and is specified in [Colour Models](Colour%20Models.md) such as HSV and HSL.
+Hue is a general term in [Colour Theory](../../../../Personal/Knowledge/Colour%20Theory.md) and is specified in [Colour Models](../Colour%20Modelling/Colour%20Models/Colour%20Models.md) such as HSV and HSL.

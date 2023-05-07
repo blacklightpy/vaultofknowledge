@@ -4,4 +4,4 @@ It refers to the situation when an axis of rotation is lost when two of the thre
 
 - Using a motorized 4th axis which maintains a large angle between the yaw and roll axes
 - Shifting one of the locked axes to an arbitrary angle to reset the lock
-- Avoiding the use of gymbal and using systems based on [Quaternions](Quaternions.md)
+- Avoiding the use of gymbal and using systems based on [Quaternions](../Pure%20Mathematics/Quaternions.md)

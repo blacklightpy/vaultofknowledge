@@ -1,1 +1,1 @@
-The branch of [Western Philosophy](western%20philosophy.md) concerned with the study of knowledge is called epistemology.
+The branch of [Western Philosophy](Western%20Philosophy/Western%20Philosophy.md) concerned with the study of knowledge is called epistemology.

@@ -2,7 +2,7 @@
 **References:**
 - Star Trek Universe does not have currency.
 - Yet when connecting with regions outside the federation, they still have to use an exchange currency called the Federation Unit with the external species.
-- A similar concept is drawn in [What all must a person do](What%20all%20must%20a%20person%20do.md)
+- A similar concept is drawn in [What all must a person do](../Z0-Organizing%20(All%20Notes%20Matter)/What%20all%20must%20a%20person%20do.md)
 
 Cryptocurrencies were meant to provide an alternative means of currency. The advantages of the platform were mainly:
 | Advantages                                                                                                                                 | Satisfied                                                                                | Necessary |

@@ -6,7 +6,7 @@ CI/CD Systems are used to speed up development and delivery.
 - [Continuous Deployment](Continuous%20Deployment.md)
 
 - **Image for clarity**
-	- ![Pasted image 20221230133238](Pasted%20image%2020221230133238.png)
+	- ![Pasted image 20221230133238](../../../../../_images/Pasted%20image%2020221230133238.png)
 
 "If any developer in your team can stop what they’re doing right now and ship the current development version of code to production in 20 minutes or less without anyone stressing about what could happen — congratulations, you’re doing CI/CD!"
 
@@ -30,8 +30,8 @@ CI/CD Systems are used to speed up development and delivery.
 - CD
 	- Deployment Stage
 		- Deployment Methods
-			- [Canary Deployment](Canary%20Deployment.md)
-			- [Blue Green Deployment](Blue%20Green%20Deployment.md)
+			- [Canary Deployment](../Canary%20Deployment.md)
+			- [Blue Green Deployment](../Blue%20Green%20Deployment.md)
 
 # Tips for building a CI-CD pipeline
 - Follow DevOps practices

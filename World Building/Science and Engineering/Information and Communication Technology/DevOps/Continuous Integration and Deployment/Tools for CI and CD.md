@@ -1,4 +1,4 @@
-- [GitHub Actions](GitHub%20Actions.md)
+- [GitHub Actions](../../../../Marketplace%20and%20Creations/Software%20Implementations/GitHub%20Actions.md)
 - Atlassian Bamboo
 - Travis CI
 - Jenkins CI

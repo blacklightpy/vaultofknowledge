@@ -7,7 +7,7 @@
 - [Impossible Colours](Impossible%20Colours.md)
 
 # Practice
-- [Colour Schemes](Colour%20Schemes.md) - mixing tactics - for aesthetics or for practical
+- [Colour Schemes](../../../Personal/Knowledge/Colour%20Schemes.md) - mixing tactics - for aesthetics or for practical
 	- Triadic, Monochromatic (single colour), Split complementary, Achromatic/Near Neutrals/Neutrals, Tetradic, Polychromatic, Colourmaps
 	- Data visualization - uses a ordered colour set
 		- Schemes: see Wiki
@@ -36,7 +36,7 @@
 - Hermann von Helmholtz developed Young's theory by classifying the photoreceptor cells.
 - Helmholtz's influence of unconscious inferences.
 - James Clark Maxwell's Mathematical description of Young-Helmhotz Trichromatic theory using linear algebra.
-- Ewald Hering's [Opponent Processes](Opponent%20Processes.md) was in dispute with the theory by Young, Helmholtz and Maxwell
+- Ewald Hering's [Opponent Processes](Colour%20Modelling/Opponent%20Processes.md) was in dispute with the theory by Young, Helmholtz and Maxwell
 - Later, Johannes von Kries published the zone thoery in 1905 that synthesizes both descriptions as one, where Young-Helmholtz theory describes the interaction of light with the receptors and Hering the image processing stage.
 - In 1925, Erwin Schrodinger published a paper inspired by von Kries, titled 'On the relation of the four color to the three color theory' where he probes for a formal relationship between the two theories.
 - The conundrum was solved by the discovery of color-opponent gangelion cells in the retina and lateral geniculate nucleus. We know know the human eye possesses three types of color-sensitive receptors which then combine their signals in three color-opponent channels as proposed by Hering. Thus both theories are correct.

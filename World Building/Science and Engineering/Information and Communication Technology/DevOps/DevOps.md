@@ -1,14 +1,14 @@
 # What is DevOps?
-DevOps stands for Development and Operations, which refers to the combination of software development and IT operations. This originated from the practice of [Agile](Agile.md) methodologies in development teams and allows for faster development, eliminating areas of fricition.
+DevOps stands for Development and Operations, which refers to the combination of software development and IT operations. This originated from the practice of [Agile](../../../Business%20and%20Finance/Company%20Management/Project%20Management/Methods/Agile%20Methodology/Agile.md) methodologies in development teams and allows for faster development, eliminating areas of fricition.
 
 # Areas and Characteristics
 - Agile workflow
 	- Simplicity and Automation are key to a strong development team
-- Use of [CI/CD systems](Continuous%20Integration,%20Delivery%20and%20Deployment.md) for fast feedback loops
+- Use of [CI/CD systems](Continuous%20Integration%20and%20Deployment/Continuous%20Integration,%20Delivery%20and%20Deployment.md) for fast feedback loops
 - Monitoring
 	- Use of product-wide logging and metrics for improvement of operations
 - Infrastructure as Code (IaC)
-	- Use of Infrastructure as a Service (IaaS) [Platforms](Infrastructure%20as%20a%20Service.md) and configuration files
+	- Use of Infrastructure as a Service (IaaS) [Platforms](Cloud%20Computing/Infrastructure%20as%20a%20Service.md) and configuration files
 - Microservices
 - Policy as Code (PaC)
 - Monitoring
@@ -16,7 +16,7 @@ DevOps stands for Development and Operations, which refers to the combination of
 # Implementation
 - During development, follow [Software Development Practices](Software%20Development%20Practices.md)
 - Implement CI/CD
-	- Originates from [XP](Extreme%20Programming.md)
+	- Originates from [XP](../../../Business%20and%20Finance/Company%20Management/Project%20Management/Methods/Agile%20Methodology/Extreme%20Programming.md)
 	- Work in small batches and units. Not the fastest for large features, but it ensures testing well.
 
 # Tips

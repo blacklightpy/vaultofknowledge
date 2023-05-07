@@ -1,5 +1,5 @@
 XPQ4
-Q4OS [Linux Distros](Linux%20Distros.md)
+Q4OS [Linux Distros](../../World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Linux%20Distros.md)
 Deepin 15.11
 
 SimpleClassicTheme

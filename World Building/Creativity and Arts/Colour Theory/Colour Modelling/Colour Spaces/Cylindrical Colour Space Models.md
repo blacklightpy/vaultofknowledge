@@ -8,4 +8,4 @@ They are popular in information visualization to present data without the bias i
 - [Munsell colour spaces](World%20Building/Creativity%20and%20Arts/Colour%20Theory/Colour%20Spaces/Munsell%20Colour%20System)
 - Natural Colour System
 - [HCL Colour Spaces](HCL%20Colour%20Spaces.md)
-- [CIECAM02](CIECAM02.md)
+- [CIECAM02](../Colour%20Appearance%20Models/CIECAM02.md)

@@ -1,2 +1,2 @@
 - PulseAudio / Pipewire - needed for audio multiplexing
-- [inodes](inodes.md)
+- [inodes](../inodes.md)

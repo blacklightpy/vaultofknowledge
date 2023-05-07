@@ -1,7 +1,7 @@
-Colour spaces are generally 3-dimensional spaces that represent the [Tristimulus](Tristimulus.md) spectral sensitvities.
-The colours are specified by a set of three numbers (e.g. CIE coordinates X,Y and Z, or values such as [Hue](Hue.md), [Colourfulness](Colourfulness.md) and [Lightness](Lightness.md)). There are also color spaces that are not 3-D (monochromatic, dichromatic)
+Colour spaces are generally 3-dimensional spaces that represent the [Tristimulus](../Tristimulus.md) spectral sensitvities.
+The colours are specified by a set of three numbers (e.g. CIE coordinates X,Y and Z, or values such as [Hue](../../Colour%20Perception/Hue.md), [Colourfulness](../../Colour%20Perception/Colourfulness.md) and [Lightness](../../Colour%20Perception/Lightness.md)). There are also color spaces that are not 3-D (monochromatic, dichromatic)
 
-Even though they are mostly 3-D, they are represented using 2D [Chromaticity](Chromaticity.md) Diagrams for simplicity.
+Even though they are mostly 3-D, they are represented using 2D [Chromaticity](../Chromaticity.md) Diagrams for simplicity.
 
 # Types of Colour Spaces
 ## Physical Palettes
@@ -20,7 +20,7 @@ Even though they are mostly 3-D, they are represented using 2D [Chromaticity](Ch
 - [YIQ](YIQ.md)
 - [Munsell Colour System](Munsell%20Colour%20System.md)
 - Helmholtz Colour Coordinates
-	- Chromaticity is defined by [dominant wavelength](Hue.md) and [purity](Excitation%20Purity.md)
+	- Chromaticity is defined by [dominant wavelength](../../Colour%20Perception/Hue.md) and [purity](../../Colour%20Perception/Excitation%20Purity.md)
 ### Not 3-D
 **Dichromatic**
 - RG Colour Model for early Technicolour films
@@ -34,5 +34,5 @@ Even though they are mostly 3-D, they are represented using 2D [Chromaticity](Ch
 # Choosing Colour Spaces
 There is no best colour space. Ideally you work in the same space as the destination device.
 - For best performance: Use 8 bit sRGB D65, the default standard for web.
-- For compositing: Use any linear RGB space with [gamma](Tone%20Response%20Curve.md) (TRC) removed (gamma = 1.0), 16 bit float and white point set to D65, white mapped to 1.0 and black to 0.0
+- For compositing: Use any linear RGB space with [gamma](../../Working%20with%20Colours/Tone%20Response%20Curve.md) (TRC) removed (gamma = 1.0), 16 bit float and white point set to D65, white mapped to 1.0 and black to 0.0
 - For perceptual tasks (to feel natural): Use Lab, Luv, LChuv, etc. with D65. Lab uses D65 normally in the textile, paint, and display device industries. They use floating point values and are also processor hogs, perhaps not as much as linear spaces.

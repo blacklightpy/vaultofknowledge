@@ -2,23 +2,23 @@ They are a class of [colour spaces](Colour%20Space.md) suggested by Elliot Quinc
 
 Two important chromatic value/valence spaces are [CIELUV](CIELUV.md) and [Hunter Lab](Hunter%20Lab.md).
 
-Chromatic value/valence spaces are notable for incorporating the [Opponent Processes](opponent%20processes.md) model and the empirically determined $2^{1/2}$ factor in the red/green vs blue/yellow chromaticity components (such as in [CIELAB](CIELAB.md)).
+Chromatic value/valence spaces are notable for incorporating the [Opponent Processes](../Opponent%20Processes.md) model and the empirically determined $2^{1/2}$ factor in the red/green vs blue/yellow chromaticity components (such as in [CIELAB](CIELAB.md)).
 
 # Types
 - Chromatic value spaces
-	- In 1942, Adams suggested chromatic value colour spaces. Chromatic values, or chromance refers to the intensity of the [opponent process](opponent%20processes.md) responses and is derived from Adams' theory of olour vision.
+	- In 1942, Adams suggested chromatic value colour spaces. Chromatic values, or chromance refers to the intensity of the [opponent process](../Opponent%20Processes.md) responses and is derived from Adams' theory of olour vision.
 	- A chromatic value space consists of three components
 		- $V_Y$, the [Munsell-Sloan-Godlove value function](World%20Building/Creativity%20and%20Arts/Colour%20Theory/Colour%20Spaces/Munsell%20Colour%20System)
 		  $V_Y^2=1.4742Y-0.004743Y^2$
 		- $V_X-V_Y$, the red-green chromaticity dimension
 		- $V_Z-V_Y$, the blue-yellow chromaticity dimension
-	- A chromatic value diagram is a plot of $V_X-V_Y$ (horizontal axis) vs $0.4(V_Z-V_Y)$ (vertical axis). The $2^{1/2}$ scale factor is intended to make the radial distance from the [White Point](white%20point.md) correlate with the Munesell chroma along any one hue radius (i.e. to make the diagram perceptually uniform).
-	- For achromatic surfaces $(y_n/x_n)X=Y=(y_n/x_n)Z$, and hence $V_X-V_Y=0, V_Z-V_Y=0$. In other words, the [White Point](white%20point.md) is at the origin
+	- A chromatic value diagram is a plot of $V_X-V_Y$ (horizontal axis) vs $0.4(V_Z-V_Y)$ (vertical axis). The $2^{1/2}$ scale factor is intended to make the radial distance from the [White Point](../White%20Point.md) correlate with the Munesell chroma along any one hue radius (i.e. to make the diagram perceptually uniform).
+	- For achromatic surfaces $(y_n/x_n)X=Y=(y_n/x_n)Z$, and hence $V_X-V_Y=0, V_Z-V_Y=0$. In other words, the [White Point](../White%20Point.md) is at the origin
 	- Constant differences in the chroma dimension did not appear different by a corresponding amount, so Adamns proposed a new class of spaces named chromatic valence.
 - Chromatic valence spaces
 	- These spaces have nearly equal radia distances for equal changes in Munsell chroma.
 	- They incorporate two relatively [perceptually uniform](Uniform%20Colour%20Spaces.md) elements: a chromaticity scale and a lightness scale.
-	- The [Lightness](Lightness.md) scale is determined using the [Newhall-Nickerson-Judd value function](Lightness.md), and forms one axis of the colour space.
+	- The [Lightness](../../Colour%20Perception/Lightness.md) scale is determined using the [Newhall-Nickerson-Judd value function](../../Colour%20Perception/Lightness.md), and forms one axis of the colour space.
 	- The remaining two axes are formed by multiplying the two uniform chromaticity coordinates by the lightness, $V_J$
 	- $\frac{X/x_n}{Y/y_n}-1=\frac{X/x_n-Y/y_n}{Y/y_n}$
 	  $\frac{X/x_n}{Y/y_n}-1=\frac{X/x_n-Y/y_n}{Y/y_n}$ 
@@ -31,7 +31,7 @@ Adam's colour spaces rely on the [Munsell value](World%20Building/Creativity%20a
 Defining chromatic valence components
 $W_X=(\frac{x/x_n}{y/y_n}-1)V_J$ and
 $W_Z=(\frac{z/z_n}{y/y_n}-1)V_J$
-we can determine the [Colour Difference](Colour%20Difference.md) $\Delta{E} =\sqrt{(0.4\Delta{V_J})^2+(\Delta{W_X})^2+(0.4\Delta{W_Z})^2}$ 
+we can determine the [Colour Difference](../Colour%20Difference.md) $\Delta{E} =\sqrt{(0.4\Delta{V_J})^2+(\Delta{W_X})^2+(0.4\Delta{W_Z})^2}$ 
 
 where $V_J$ is the Newhall-Nickerson-Judd-value function and the 0.4 factor is incorporated to better make the differences in $W_X$ and $W_Y$ correspond to one another.
 

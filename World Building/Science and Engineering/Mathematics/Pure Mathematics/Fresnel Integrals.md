@@ -1,5 +1,5 @@
 Fresnel Integrals S(x) and C(x) are two transcendal functions named after
-Augustin-Jean Fresnel that are used in [Optics](Optics.md) and are closely related to the
+Augustin-Jean Fresnel that are used in [Optics](../../Physics/Mechanics/Electrodynamics/Optics/Optics.md) and are closely related to the
 [error function](error%20function.md) (erf). They arise in the description of [[near-field Fresnel
 diffraction]] phenomena and are defined through the following integral
 representations:

@@ -40,6 +40,6 @@ Javascript, jQuery, Angular/Vue/React, Typescript
 PHP, Perl, Python, NodeJS, C#, C++, Scala, Ruby, ASP, Go
 **Databases**
 MySQL, PostgreSQL, MongoDB, DynamoDB, Firebase, Redis
-**[Control Panels](Control%20Panels.md)**
+**[Control Panels](../../../../Information%20and%20Communication%20Technology/System%20Administration/Control%20Panels.md)**
 
-**[Communication Technologies](Communication%20Technologies.md)**
+**[Communication Technologies](../Communication%20Technologies.md)**

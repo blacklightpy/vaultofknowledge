@@ -97,9 +97,9 @@ networks:
 ...
 ```
 
-## [Kubernetes](Kubernetes.md)
+## [Kubernetes](../Kubernetes.md)
 
-![Kubernetes](Kubernetes.png)
+![Kubernetes](../../../../../../_images/Kubernetes.png)
 
 Kubernetes/K8s is essentially docker compose on steroids.
 

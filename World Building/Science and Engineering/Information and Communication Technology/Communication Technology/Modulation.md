@@ -19,7 +19,7 @@
 		- Time-multiplexed BOC (TMBOC) - Used in GPS L1C
 		- **Synthesized BOC (SBOC)** - Used in NavIC
 			SBOC Modulation Scheme is a non-linear combining method to generate constant envelope composite signal with MBOC (6,1,1/11) PSD.
-			- Performance in similar to CBOC and TMBOC ([PowerPoint Presentation (unoosa.org)](https://www.unoosa.org/documents/pdf/icg/2021/ICG15/WGS/icg15_wgs_01.pdf))
+			- Performance in similar to CBOC and TMBOC ([PowerPoint Presentation (unoosa.org)](unoosa.org)))
 
 # Digital Signal
 ### Analog Data

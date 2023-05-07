@@ -1,2 +1,2 @@
-It is the science and technology used to quantify and describe physically the human [Colour Perception](colour%20perception.md).
-It is related to [Spectrophotometry](World%20Building/Science%20and%20Engineering/Chemistry/Physical/Spectroscopy/Spectrophotometry.md), but is different in that it is only concerned with the wavelengths in the visible spectrum of humans.
+It is the science and technology used to quantify and describe physically the human [Colour Perception](../../../Biology/Colour%20Perception.md).
+It is related to [Spectrophotometry](../../Science%20and%20Engineering/Chemistry/Physical/Spectroscopy/Spectrophotometry.md), but is different in that it is only concerned with the wavelengths in the visible spectrum of humans.

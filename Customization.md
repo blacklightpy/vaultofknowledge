@@ -2,7 +2,7 @@ Beware of: Editor Holy Wars (Vim/Emacs; use Nano)
 
 # Areas of Customization
 Icon Packs
-[Themes](Themes.md) / [Colour Schemes](Colour%20Schemes.md)
+[Themes](Themes.md) / [Colour Schemes](Personal/Knowledge/Colour%20Schemes.md)
 Sound Themes (optional)
 Pointers (optional)
 Fonts (option)

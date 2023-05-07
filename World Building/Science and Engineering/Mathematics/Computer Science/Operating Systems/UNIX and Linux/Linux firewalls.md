@@ -11,5 +11,5 @@ Tags:
 [Linux Distros](Linux%20Distros.md)
 [Networking](Networking)
 [sysadmin](sysadmin)
-[System Security](System%20Security.md)
+[System Security](../../../../Information%20and%20Communication%20Technology/System%20Administration/System%20Security.md)
 [Linux](Linux)

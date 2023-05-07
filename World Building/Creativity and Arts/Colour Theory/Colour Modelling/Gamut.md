@@ -1,1 +1,1 @@
-They are subsets or range of a [Colour Space](Colour%20Space.md) which can be accurately represented in a situation or in an output device.
+They are subsets or range of a [Colour Space](Colour%20Spaces/Colour%20Space.md) which can be accurately represented in a situation or in an output device.

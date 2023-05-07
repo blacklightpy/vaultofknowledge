@@ -10,7 +10,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "A4",

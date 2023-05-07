@@ -1,1 +1,1 @@
-Image colour appearance models (iCAM) are [Colour Appearance Models](colour%20appearance%20models.md) that sophisticated enough to find [Optical Illusions](optical%20illusions.md).
+Image colour appearance models (iCAM) are [Colour Appearance Models](../Colour%20Appearance%20Models/Colour%20Appearance%20Models.md) that sophisticated enough to find [Optical Illusions](../../Optical%20Illusions.md).

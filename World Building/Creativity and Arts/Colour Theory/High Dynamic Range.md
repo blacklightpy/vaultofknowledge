@@ -1,1 +1,1 @@
-High Dynamic Range (HDR or HDR-TV) is a [Dynamic Range](dynamic%20range.md) that's higher than [SDR](Standard%20Dynamic%20Range.md)
+High Dynamic Range (HDR or HDR-TV) is a [Dynamic Range](../../Science%20and%20Engineering/Physics/Units%20and%20Measurements/Dynamic%20Range.md) that's higher than [SDR](Standard%20Dynamic%20Range.md)
