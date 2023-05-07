@@ -38,12 +38,12 @@ I used horizontal screenshots to show them without having to scroll too much.
 ### Examples
 | OS                              | Screenshot                                                                  |
 | ------------------------------- | --------------------------------------------------------------------------- |
-| Windows 7 Taskbar               | ![Pasted image 20230507202931](_images/Pasted%20image%2020230507202931.png) |
-| GNOME Dash to Dock (Dock Mode)  | ![Pasted image 20230507202809](_images/Pasted%20image%2020230507202809.png) |
-| GNOME Dash to Dock (Panel Mode) | ![Pasted image 20230507221705](_images/Pasted%20image%2020230507221705.png) |
-| GNOME Dash to Panel             | ![Pasted image 20230507203112](_images/Pasted%20image%2020230507203112.png) |
-| Plank Dock (app)                | ![Pasted image 20230507210301](_images/Pasted%20image%2020230507210301.png) |
-| Pantheon Dock                   | ![Pasted image 20230507210325](_images/Pasted%20image%2020230507210325.png) |
+| Windows 7 Taskbar               | ![Windows 7 Taskbar](_images/Windows%207%20Taskbar.png) |
+| GNOME Dash to Dock (Dock Mode)  | ![GNOME Dash to Dock (Dock Mode)](_images/GNOME%20Dash%20to%20Dock%20(Dock%20Mode).png) |
+| GNOME Dash to Dock (Panel Mode) | ![GNOME Dash to Dock (Panel Mode)](_images/GNOME%20Dash%20to%20Dock%20(Panel%20Mode).png) |
+| GNOME Dash to Panel             | ![GNOME Dash to Panel](_images/GNOME%20Dash%20to%20Panel.png) |
+| Plank Dock (app)                | ![Plank Dock (app)](_images/Plank%20Dock%20(app).png) |
+| Pantheon Dock                   | ![Pantheon Dock](_images/Pantheon%20Dock.png) |
 
 I tried to display vertical screenshots using a table, but the site generator has some issues with converting the tables. So they're linked in another page [here](Screenshots%20of%20docks%20placed%20vertically.md)
 
