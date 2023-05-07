@@ -138,19 +138,6 @@
             }
           },
           {
-            "id": "4136078cdf522a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Window Managers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3d46ca97aab602fc",
             "type": "leaf",
             "state": {
@@ -164,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -322,12 +309,12 @@
   },
   "active": "3d46ca97aab602fc",
   "lastOpenFiles": [
+    "Kicking a football to fly.md",
     "Window Managers.md",
     "Test.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "Window Manager Showcase.md",
-    "Kicking a football to fly.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "_assets",
     "Z1-Inbox/Vitamin D from Sunlight.md",
