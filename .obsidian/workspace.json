@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Test Page.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Test Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Test Page.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Test Page.md"
               }
             }
           },
@@ -311,7 +311,7 @@
   "lastOpenFiles": [
     "Kicking a football to fly.md",
     "Window Managers.md",
-    "Test.md",
+    "Test Page.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "Window Manager Showcase.md",
