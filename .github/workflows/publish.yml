@@ -22,6 +22,7 @@ jobs:
           pip install --upgrade pip
           pip install git+https://github.com/obsidian-html/obsidian-html
           obsidianhtml convert -i vaultofknowledge/config.yaml -v
+          touch .nojekyll
     
       - name: Publish to Github Pages
         uses: s0/git-publish-subdir-action@develop
