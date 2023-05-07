@@ -146,12 +146,25 @@
                 "file": "Window Managers.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d46ca97aab602fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "| --",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Window Managers.md"
+                "file": "Test.md"
               }
             }
           },
@@ -307,10 +320,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4136078cdf522a9a",
+  "active": "3d46ca97aab602fc",
   "lastOpenFiles": [
-    "Window Manager Showcase.md",
     "Window Managers.md",
+    "Test.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
+    "AVIASYS/Reading on Agile/Agile for Hardware.md",
+    "Window Manager Showcase.md",
     "Kicking a football to fly.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "_assets",
@@ -343,9 +359,6 @@
     "FOSS Software.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "Desktop Environment Ecosystems.md",
-    "Vim Customizing.md",
-    "Ricer Guide.md",
-    "Rices I want to try out.md",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
