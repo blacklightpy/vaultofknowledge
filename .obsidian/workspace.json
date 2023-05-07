@@ -151,19 +151,6 @@
             }
           },
           {
-            "id": "10261636d2fdf932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compositors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8c61d2660816b6bd",
             "type": "leaf",
             "state": {
@@ -177,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -335,21 +322,21 @@
   },
   "active": "8c61d2660816b6bd",
   "lastOpenFiles": [
+    "_images/Pasted image 20230507214059.png",
+    "_images/Pasted image 20230507213757.png",
+    "_images/Pasted image 20230507213709.png",
+    "_images/Pasted image 20230507213639.png",
+    "Window Managers.md",
+    "Compositors.md",
+    "Desktop Environment Showcase.md",
     "_images/Pasted image 20230507213416.png",
     "_images/Pasted image 20230507213314.png",
     "Rice Showcase.md",
-    "Desktop Environment Showcase.md",
     "_images/Pasted image 20230507213006.png",
-    "Window Managers.md",
     "_images/Pasted image 20230507212559.png",
     "_images/Pasted image 20230507212109.png",
     "_images/Pasted image 20230507211947.png",
     "_images/Pasted image 20230507211637.png",
-    "_images/Pasted image 20230507211324.png",
-    "_images/Pasted image 20230507211101.png",
-    "_images/Pasted image 20230507210626.png",
-    "_images/Pasted image 20230507210551.png",
-    "Compositors.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "compos.md",
