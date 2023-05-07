@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "742447ecf226aece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Environments.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Desktop Environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Desktop Environments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "Desktop Environments.md"
               }
             }
           },
@@ -296,10 +309,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13612a4352378df3",
+  "active": "742447ecf226aece",
   "lastOpenFiles": [
-    "Window Managers.md",
     "Kicking a football to fly.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "Window Managers.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
@@ -330,7 +344,6 @@
     "To Learn.md",
     "Untitled.md",
     "Untitled 2.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Comparison of Photometric and Radiometric values.md",
     "Z1-Inbox/Why cryptocurrencies may not be necessary.md",
     "_assets",
