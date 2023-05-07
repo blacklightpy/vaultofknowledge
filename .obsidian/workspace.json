@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5e219c5539d5fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Window Managers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Window Managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Window Managers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "Window Managers.md"
               }
             }
           },
@@ -277,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,8 +308,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "c5e219c5539d5fc9",
   "lastOpenFiles": [
+    "Kicking a football to fly.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
@@ -311,10 +324,8 @@
     "_images/Pasted image 20230430180144.png",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "_images/Xfce Rice 2.png",
-    "_images/Pasted image 20230507172358.png",
     "Rice Showcase.md",
     "Window Managers.md",
-    "Kicking a football to fly.md",
     "Desktop Environment Showcase.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Desktop Environments.md",
