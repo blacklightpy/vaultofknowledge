@@ -3,7 +3,7 @@ GSM, CDMA, LTE
 GPRS, WAP, HSPA, HSDPA, EDGE
 
 ## Devices
-[[../../Engineering Resources/Engineering Components/SIM Cards]]
+[SIM Cards](../../Engineering%20Resources/Engineering%20Components/SIM%20Cards.md)
 
 ## Identification Numbers
 **Phone ID**
@@ -12,4 +12,4 @@ GPRS, WAP, HSPA, HSDPA, EDGE
 **SIM ID**
 - International Mobile Subscriber Identity (IMSI)
 
-![[../../../../_images/Evolution of Cellular Networks.png]]
+![Evolution of Cellular Networks](../../../../_images/Evolution%20of%20Cellular%20Networks.png)

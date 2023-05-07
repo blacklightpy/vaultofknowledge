@@ -6,4 +6,4 @@
 **Controlling Agile
 
 Set boundaries first
-![[../../../_images/Budget Boundaries.png]]
+![Budget Boundaries](../../../_images/Budget%20Boundaries.png)

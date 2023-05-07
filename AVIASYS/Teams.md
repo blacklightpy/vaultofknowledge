@@ -1,5 +1,5 @@
-* [[Hardware]] Team - Shonu, Sander
-* [[../Personal/Toolkits/Software Toolkit]] Team - Jyothish
-* [[../Personal/Creative and Recreational/Design]] Team - Jyothish, Shonu
-* [[Marketing]] Team - Shonu
-* [[../World Building/Business and Finance/Company Management/Project Management/Project Management]] - Jyothish
+* [Hardware](Hardware) Team - Shonu, Sander
+* [Software Toolkit](../Personal/Toolkits/Software%20Toolkit.md) Team - Jyothish
+* [Design](../Personal/Creative%20and%20Recreational/Design.md) Team - Jyothish, Shonu
+* [Marketing](Marketing) Team - Shonu
+* [Project Management](../World%20Building/Business%20and%20Finance/Company%20Management/Project%20Management/Project%20Management.md) - Jyothish

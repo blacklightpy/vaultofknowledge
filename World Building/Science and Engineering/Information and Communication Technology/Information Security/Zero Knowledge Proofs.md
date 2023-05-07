@@ -11,4 +11,4 @@ Used in Nuclear weapons policy decisions.
 # Definition
 A formal definition of zero-knowledge has to use some computational model, the most common being that of a Turing machine.
 
-(Read Wikipedia definition using notations and [[../../Mathematics/Computer Science/Computation/Probabilistic Turing Machine]])
+(Read Wikipedia definition using notations and [Probabilistic Turing Machine](../../Mathematics/Computer%20Science/Computation/Probabilistic%20Turing%20Machine.md))

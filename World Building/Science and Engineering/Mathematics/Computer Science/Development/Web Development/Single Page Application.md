@@ -1,1 +1,1 @@
-Links to: [[Web Technologies]]
+Links to: [Web Technologies](Web%20Technologies.md)

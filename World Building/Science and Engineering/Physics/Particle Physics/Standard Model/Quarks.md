@@ -1,5 +1,5 @@
 - They have the spin quantum number of 1/2
-- They have [[Color Charge]]
+- They have [Color Charge](Color%20Charge.md)
 - They participate in strong interactions
 
 ### Three generations

@@ -21,6 +21,6 @@ Mail-in-a-box/iRedMail - AIO
 
 MySQL/MariaDB - Virtual Mailboxes
 
-![[../../../../_images/Mail Server Architecture.png]]
+![Mail Server Architecture](../../../../_images/Mail%20Server%20Architecture.png)
 
 [Mail terminology: MTA, MUA, MSA, MDA, SMTP, DKIM, SPF, DMARC | Sysadmin](https://afreshcloud.com/sysadmin/mail-terminology-mta-mua-msa-mda-smtp-dkim-spf-dmarc)

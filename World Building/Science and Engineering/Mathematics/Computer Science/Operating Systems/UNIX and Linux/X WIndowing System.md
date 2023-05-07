@@ -1,6 +1,6 @@
 X Windowing System, also known as X, takes a client-server architecture to handling graphics. It is the de-facto display protocol used by free UNIX-like operating systems.
 
-It is officially being replaced by the newer [[Wayland]] protocol.
+It is officially being replaced by the newer [Wayland](Wayland.md) protocol.
 
 A simple X displaying system consists of a X server which communicates with applications which are X clients, using the X11 protocol. X extensions and libaries add on features to the basic server
 
@@ -18,6 +18,6 @@ XQuartz allows running X applications over Quartz
 Xming is a free X server for Windows
 Xvnc allows running X applications over VNC
 
-[[Windowing Systems]]
+[Windowing Systems](Windowing%20Systems.md)
 
-![[../../../../../../_images/Pasted image 20230430175740.png]]
+![Pasted image 20230430175740](../../../../../../_images/Pasted%20image%2020230430175740.png)

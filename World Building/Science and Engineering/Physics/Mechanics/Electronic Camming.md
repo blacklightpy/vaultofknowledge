@@ -1,3 +1,3 @@
 Cam curves
 
-[[Jerk]]
+[Jerk](Jerk.md)

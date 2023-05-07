@@ -1,2 +1,2 @@
 Refer that Vertiasium video.
-- Connected to [[../../Pure Mathematics/Liar's Paradox]]
+- Connected to [Liar's Paradox](../../Pure%20Mathematics/Liar's%20Paradox.md)

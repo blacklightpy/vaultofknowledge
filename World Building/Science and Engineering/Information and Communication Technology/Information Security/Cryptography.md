@@ -7,8 +7,8 @@ We need cryptography to:
 - And to prevent unauthorized access to information
 
 Some of the methods for cryptography are:
-- [[Public Key Cryptography]] (Common)
-- [[Quantum Cryptography]]
+- [Public Key Cryptography](Public%20Key%20Cryptography.md) (Common)
+- [Quantum Cryptography](Quantum%20Cryptography.md)
 
 # FAQs
 **Why can't we trust self-signed Certificates?**

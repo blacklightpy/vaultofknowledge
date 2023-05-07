@@ -4,7 +4,7 @@ It suggests that there are three opponent channels, each comprising of an opposi
 Red vs Green, Blue vs Yellow, Black vs White (Luminance). 
 
 # Physiological basis
-In the [[Colour Spaces/LMS Colour Space]]:
+In the [LMS Colour Space](Colour%20Spaces/LMS%20Colour%20Space.md):
 - The luminous opponent channel is equal to the sum of all three cone cells (plus the rod cells in some conditions)
 - The red-green opponent channel is equal to the difference of the L and M cones.
 - The blue-yellow opponent channel is equal to the difference of the S cone and the sum of L and M cones.

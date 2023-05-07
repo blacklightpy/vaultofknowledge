@@ -1,4 +1,4 @@
-Links to: [[JavaScript]]
+Links to: [JavaScript](JavaScript.md)
 
 **Uncategorized**
 Aurelia
@@ -14,9 +14,9 @@ Polymer
 Backbone
 
 **Frontend Frameworks**
-[[Angular]]
-[[Vue]]
-[[React]]
+[Angular](Angular.md)
+[Vue](Vue.md)
+[React](React.md)
 
 **Static Site generators**
 Gatsby

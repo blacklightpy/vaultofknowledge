@@ -1,7 +1,7 @@
 ## Colour Science
-Brightness is an attribute of visual perception in which a source appears to be radiating or reflecting light. In other words, it is the perception elicited by the [[Lightness]] of a visual target.
+Brightness is an attribute of visual perception in which a source appears to be radiating or reflecting light. In other words, it is the perception elicited by the [Lightness](Lightness.md) of a visual target.
 
 Brightness is not linear to luminance, and it relies on the context of the viewing environment.
 
 ## Market
-In terms of appliances like light bulbs, it can refer to [[../../../Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Luminous Flux]]
+In terms of appliances like light bulbs, it can refer to [Luminous Flux](../../../Science%20and%20Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral%20Analysis/Luminous%20Flux.md)

@@ -1,1 +1,1 @@
-This is not the same as [[Quantum Mechanics/Quantum Field Theory]].
+This is not the same as [Quantum Field Theory](Quantum%20Mechanics/Quantum%20Field%20Theory.md).

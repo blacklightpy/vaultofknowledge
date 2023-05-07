@@ -65,8 +65,8 @@ There are various types of VO:
 	3. Construct optical flow field ([Lucas-Kanade method](https://en.wikipedia.org/wiki/Lucas%E2%80%93Kanade_method))
 5. Check flow field vectors for potential tracking errors and remove outliers.
 6. Estimation of the camera motion from the optical flow
-		1. Choice 1: [[Kalman Filter]] for state estimate distribution maintenance.
-		2. Choice 2: find the geometric and 3D properties of the features that minimize a [[cost function]] based on the re-projection error between two adjacent images. This can be done by mathematical minimization or [random sampling](https://en.wikipedia.org/wiki/Random_sampling).
+		1. Choice 1: [Kalman Filter](Kalman%20Filter) for state estimate distribution maintenance.
+		2. Choice 2: find the geometric and 3D properties of the features that minimize a [cost function](cost%20function) based on the re-projection error between two adjacent images. This can be done by mathematical minimization or [random sampling](https://en.wikipedia.org/wiki/Random_sampling).
 7. Periodic repopulation of trackpoints to maintain coverage across the image.
 
 An alternative to feature-based methods is the direct or appearance-based visual odometry technique which minimizes an error directly in sensor space and subsequently avoids feature matching and extraction.

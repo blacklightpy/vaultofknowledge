@@ -1,4 +1,4 @@
-Tint is a lighter version of a colour obtained by mixing the colour with white, to increase [[Colour Perception/Lightness]].
+Tint is a lighter version of a colour obtained by mixing the colour with white, to increase [Lightness](Colour%20Perception/Lightness.md).
 Shade is a darker version of a colour obtained by mixing the colour with black, to increase darkness.
 Tone is the saturation adjusted version of a colour obtained by mixing the colour with grey of the same lightness, or by applying both tint and shade.
 

@@ -9,7 +9,7 @@
 - Only trusted DBAs should have the main password
 - Have enterprise profiles that give permission to login to server
 - All passwords can be modified by a master account/multiple ones.
-- Idea: [[../World Building/Science and Engineering/Information and Communication Technology/Information Security/Shamir Secret Sharing]]
+- Idea: [Shamir Secret Sharing](../World%20Building/Science%20and%20Engineering/Information%20and%20Communication%20Technology/Information%20Security/Shamir%20Secret%20Sharing.md)
 - Don't use MD5/SHA. Use adaptive hashing like bcrypt.
 - Do: Password rotate after check-in/check-out e.g. Buttercup
 - KISS: https://xkcd.com/936/

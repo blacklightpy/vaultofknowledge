@@ -1,7 +1,7 @@
 **For Object Detection**
 - Fast R-CNN.
 - Faster R-CNN.
-- Histogram of Oriented Gradients (HOG) [[../../Algorithms/Algorithms Used by Google Search#^ffb7e9]]
+- Histogram of Oriented Gradients (HOG) [](../../Algorithms/Algorithms%20Used%20by%20Google%20Search.md#^ffb7e9)
 - Region-based Convolutional Neural Networks (R-CNN)
 - Region-based Fully Convolutional Network (R-FCN)
 - **Single Shot Detecter (SSD)**

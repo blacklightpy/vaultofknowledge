@@ -1,5 +1,5 @@
 All these terms are different.
-- [[Saturation]]
-- [[Chroma]]
+- [Saturation](Saturation.md)
+- [Chroma](Chroma.md)
 - Intensity - It is the same as Luminance, used in the IHS model
-- [[Excitation Purity]]
+- [Excitation Purity](Excitation%20Purity.md)

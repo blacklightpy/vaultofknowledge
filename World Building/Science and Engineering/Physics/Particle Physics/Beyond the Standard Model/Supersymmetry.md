@@ -1,6 +1,6 @@
 Reference from: ScienceClic English at YT
 
-It is a theory that states the universe is composed of a superspace, where fermions are represented by [[../../Mechanics/Quantum Mechanics/Grassman Numbers]] and bosons by ordinary numbers, and there is a mapping from the space of fermions to bosons, making each fermion have a boson counterpart, or superpartner, and vice versa. This symmetry is called supersymmetry.
+It is a theory that states the universe is composed of a superspace, where fermions are represented by [Grassman Numbers](../../Mechanics/Quantum%20Mechanics/Grassman%20Numbers.md) and bosons by ordinary numbers, and there is a mapping from the space of fermions to bosons, making each fermion have a boson counterpart, or superpartner, and vice versa. This symmetry is called supersymmetry.
 
 So far, no superpartners have been detected, meaning that they are likely more massive than the particles in the standard model. In that case, the universe doesn't likely obey supersymmetry.
 

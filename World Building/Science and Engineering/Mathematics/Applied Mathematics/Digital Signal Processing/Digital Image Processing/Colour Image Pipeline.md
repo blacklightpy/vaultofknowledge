@@ -7,9 +7,9 @@ It maybe implemented as software in a digital signal processor, on an FPGA or an
 	- Debayering
 - Noise Reduction
 - Image Scaling
-- [[../../../../../Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction]]
+- [Gamma Correction](../../../../../Creativity%20and%20Arts/Colour%20Theory/Working%20with%20Colours/Gamma%20Correction.md)
 - Image Enhancement
-- [[../../../../../Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space]] conversion between [[../../../../../Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces|RGB]], [[../../../../../Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/YUV and YCbCr|YUV]] or [[../../../../../Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/YUV and YCbCr|YCbCr]]
+- [Colour Space](../../../../../Creativity%20and%20Arts/Colour%20Theory/Colour%20Modelling/Colour%20Spaces/Colour%20Space.md) conversion between [RGB](../../../../../Creativity%20and%20Arts/Colour%20Theory/Colour%20Modelling/Colour%20Spaces/RGB%20Colour%20Spaces.md), [YUV](../../../../../Creativity%20and%20Arts/Colour%20Theory/Colour%20Modelling/Colour%20Spaces/YUV%20and%20YCbCr.md) or [YCbCr](../../../../../Creativity%20and%20Arts/Colour%20Theory/Colour%20Modelling/Colour%20Spaces/YUV%20and%20YCbCr.md)
 - Chroma Subsampling
 - Framerate Conversion
 - Image Compression/Video Compression

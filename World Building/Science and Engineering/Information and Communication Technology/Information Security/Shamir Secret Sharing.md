@@ -1,1 +1,1 @@
-It is used to share a secret, unlike [[../../../../Z1-Inbox/multisig]] - which shares the ability to sign, but not the private key itself.
+It is used to share a secret, unlike [multisig](../../../../Z1-Inbox/multisig.md) - which shares the ability to sign, but not the private key itself.

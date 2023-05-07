@@ -2,20 +2,20 @@ A riced desktop is a desktop modified to look better.
 
 - XFCE
 
-![[_images/Pasted image 20230507172122.png]]
+![Pasted image 20230507172122](_images/Pasted%20image%2020230507172122.png)
 
-![[_images/Pasted image 20230507172207.png]]
+![Pasted image 20230507172207](_images/Pasted%20image%2020230507172207.png)
 
 - GNOME
 
-![[_images/Pasted image 20230507172427.png]]
+![Pasted image 20230507172427](_images/Pasted%20image%2020230507172427.png)
 
-![[_images/Pasted image 20230507172445.png]]
+![Pasted image 20230507172445](_images/Pasted%20image%2020230507172445.png)
 
 - MATE
 
-![[_images/Pasted image 20230507175635.png]]
+![Pasted image 20230507175635](_images/Pasted%20image%2020230507175635.png)
 
 - Pantheon
 
-![[_images/Pasted image 20230507175830.png]]
+![Pasted image 20230507175830](_images/Pasted%20image%2020230507175830.png)

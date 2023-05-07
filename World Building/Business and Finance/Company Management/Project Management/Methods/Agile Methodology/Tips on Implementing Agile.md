@@ -1,4 +1,4 @@
-Things that can destroy [[Agile]]
+Things that can destroy [Agile](Agile.md)
 
 * Dont get caught up in functional silos (boxes)
    eg: Marketing, Engieering, Quality, Manufacturing divisions

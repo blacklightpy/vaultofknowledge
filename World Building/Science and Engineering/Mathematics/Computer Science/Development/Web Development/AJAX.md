@@ -1,4 +1,4 @@
-Links to: [[JavaScript]]
+Links to: [JavaScript](JavaScript.md)
 
 - XmlHTTPRequest (XHR)
 - jQuery AJAX - Encapsulation of Native XHR adding support for JSONP

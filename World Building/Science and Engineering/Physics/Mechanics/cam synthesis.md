@@ -1,3 +1,3 @@
 # Camming mechanisms
 
-[[Electronic Camming]]
+[Electronic Camming](Electronic%20Camming.md)

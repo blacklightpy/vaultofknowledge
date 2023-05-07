@@ -1,6 +1,6 @@
-They set the standard [[Colour Profiles]].
+They set the standard [Colour Profiles](Colour%20Profiles.md).
 
-A profile describes a mapping between a [[../Colour Modelling/Colour Spaces/Colour Space]] and a profile connection space (PCS). PCSes are intermediate colour spaces that are used to transfer colours from one colour space to another. They are either [[../Colour Modelling/Colour Spaces/CIELAB]] or [[../Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space|CIEXYZ]].
+A profile describes a mapping between a [Colour Space](../Colour%20Modelling/Colour%20Spaces/Colour%20Space.md) and a profile connection space (PCS). PCSes are intermediate colour spaces that are used to transfer colours from one colour space to another. They are either [CIELAB](../Colour%20Modelling/Colour%20Spaces/CIELAB.md) or [CIEXYZ](../Colour%20Modelling/Colour%20Spaces/CIE%201931%20XYZ%20Colour%20Space.md).
 
 # Gamut Mapping
 **Example**

@@ -1,2 +1,2 @@
-- [[Spectral Analysis/Incandescence]]
-- [[../../../../Chemistry/Physical/Luminescence]]
+- [Incandescence](Spectral%20Analysis/Incandescence.md)
+- [Luminescence](../../../../Chemistry/Physical/Luminescence.md)

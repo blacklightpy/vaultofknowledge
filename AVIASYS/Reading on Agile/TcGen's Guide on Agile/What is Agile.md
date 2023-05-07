@@ -1,4 +1,4 @@
-### [[../../../World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile]] Manifesto
+### [Agile](../../../World%20Building/Business%20and%20Finance/Company%20Management/Project%20Management/Methods/Agile%20Methodology/Agile.md) Manifesto
 
 - Individuals and interactions over processes and tools  
 - Working software over comprehensive documentation  

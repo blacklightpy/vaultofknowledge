@@ -1,8 +1,8 @@
 # What is DevSecOps?
-It is the combination of [[DevOps]] and [[../Information Security/SecOps]]. This is essential in an increasingly cloud centered software development practices.
+It is the combination of [DevOps](DevOps.md) and [SecOps](../Information%20Security/SecOps.md). This is essential in an increasingly cloud centered software development practices.
 
 # Areas of DevSecOps
-- Everything in [[DevOps]]
+- Everything in [DevOps](DevOps.md)
 - SecOps related to DevOps
 	- "Keep Security Left" i.e. Consider security in the early stages of development
 	- Security as Code (SaC) - on IaC

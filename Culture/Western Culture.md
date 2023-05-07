@@ -1,1 +1,1 @@
-Western culture is the culture of the [[western world]].
+Western culture is the culture of the [western world](western%20world).

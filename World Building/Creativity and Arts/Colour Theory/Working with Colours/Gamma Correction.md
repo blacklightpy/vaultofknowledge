@@ -1,8 +1,8 @@
-Gamma Correction or Gamma is defined as the average slope of the function that relates the logarithm of pixels to the logarithm of exposure. It is a nonlinear operation used to encode and decode [[../Physical Aspects of Colours/Luminance]] or [[../Colour Modelling/Tristimulus|tristimulus values]] in [[../../../../Video]] or still image systems.
+Gamma Correction or Gamma is defined as the average slope of the function that relates the logarithm of pixels to the logarithm of exposure. It is a nonlinear operation used to encode and decode [Luminance](../Physical%20Aspects%20of%20Colours/Luminance.md) or [tristimulus values](../Colour%20Modelling/Tristimulus.md) in [Video](../../../../Video.md) or still image systems.
 
-The relationship is called [[Tone Response Curve]].
+The relationship is called [Tone Response Curve](Tone%20Response%20Curve.md).
 
-In [[Cathode Ray Tube|CRT]] displays, the ratio betwen incoming light and output luminance was not linear. So this effect had to be modelled by considering a non-linear curve, which we call gamma. CRT monitors required a gamma of 2.5. To convert the gamma-corrected curve to a linear curve, we just had to apply the inverse gamma, that is 1/2.5.
+In [CRT](Cathode%20Ray%20Tube) displays, the ratio betwen incoming light and output luminance was not linear. So this effect had to be modelled by considering a non-linear curve, which we call gamma. CRT monitors required a gamma of 2.5. To convert the gamma-corrected curve to a linear curve, we just had to apply the inverse gamma, that is 1/2.5.
 
 To present images in a gamma corrected form onto a CRT display, we apply the inverse of the display gamma to the image, and then when the display applies gamma, the result is the linear output we expect.
 

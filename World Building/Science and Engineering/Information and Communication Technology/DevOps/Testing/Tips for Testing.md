@@ -16,6 +16,6 @@
 - Stop all running jobs when one test has failed - in parallel situations
 - Auto-cancel queued builds - in case a developer made a quick change just after pushing once
 
-![[../../../../../_images/Pasted image 20221230140324.png]]
+![Pasted image 20221230140324](../../../../../_images/Pasted%20image%2020221230140324.png)
 
-![[../../../../../_images/Pasted image 20221230140823.png]]
+![Pasted image 20221230140823](../../../../../_images/Pasted%20image%2020221230140823.png)

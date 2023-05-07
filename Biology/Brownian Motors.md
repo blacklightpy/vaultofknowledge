@@ -3,4 +3,4 @@ Related to Brownian motion.
 
 
 Kinesin, a molecular motor is an example of a Brownian motor
-![[../_images/Kinesin.gif]]
+![Kinesin](../_images/Kinesin.gif)

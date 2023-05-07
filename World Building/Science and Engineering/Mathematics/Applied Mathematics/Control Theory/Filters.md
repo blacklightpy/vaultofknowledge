@@ -14,5 +14,5 @@ If the filter contains an active component like a transistor, then it is an acti
 These four can be used to create other filters such as band-pass and band-reject filters.
 
 ## By Impulse Response
-- [[Infinite Impulse Response Filters]]
-- [[Finite Impulse Response Filters]]
+- [Infinite Impulse Response Filters](Infinite%20Impulse%20Response%20Filters.md)
+- [Finite Impulse Response Filters](Finite%20Impulse%20Response%20Filters.md)

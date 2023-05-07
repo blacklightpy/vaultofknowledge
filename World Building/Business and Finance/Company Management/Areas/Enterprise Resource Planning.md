@@ -12,4 +12,4 @@ Implementing Business Process Automation helps to:
 -   Automate routine tasks
 -   Reduce the impact of human factors
 
-# [[ERP Software]]
+# [ERP Software](ERP%20Software.md)
