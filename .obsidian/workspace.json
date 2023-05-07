@@ -277,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,24 +294,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "assets",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Kicking a football to fly.md",
     "Window Managers.md",
-    "_images/Pasted image 20230507221856.png",
-    "_images/Pasted image 20230507221834.png",
-    "_images/Pasted image 20230507221705.png",
+    "assets/_images/Pasted image 20230507221856.png",
+    "assets/_images/Pasted image 20230507221834.png",
+    "assets/_images/Pasted image 20230507221705.png",
     "Desktop Environment Showcase.md",
     "Converting Distro Looks.md",
     "Steps encountered when installing Void.md",
     "Desktop Environments.md",
-    "_images/Pasted image 20230507220507.png",
-    "_images/Pasted image 20230507220458.png",
-    "_images/Pasted image 20230507220256.png",
-    "_images/Pasted image 20230507220244.png",
-    "_images/Pasted image 20230507220237.png",
-    "_images/Pasted image 20230507215925.png",
-    "_images/Pasted image 20230507214940.png",
+    "assets/_images/Pasted image 20230507220507.png",
+    "assets/_images/Pasted image 20230507220458.png",
+    "assets/_images/Pasted image 20230507220256.png",
+    "assets/_images/Pasted image 20230507220244.png",
+    "assets/_images/Pasted image 20230507220237.png",
+    "assets/_images/Pasted image 20230507215925.png",
+    "assets/_images/Pasted image 20230507214940.png",
     "Compositors.md",
     "Rice Showcase.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
@@ -331,7 +332,6 @@
     "Vim Customizing.md",
     "Ricer Guide.md",
     "Rices I want to try out.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
