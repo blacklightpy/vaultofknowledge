@@ -1,3 +1,5 @@
+A riced desktop is a desktop modified to look better.
+
 - XFCE
 
 ![[Pasted image 20230507172122.png]]

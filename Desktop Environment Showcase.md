@@ -1,3 +1,4 @@
+## Popular Desktop Environments
 - Unity (Personal Favorite)
 ![[Pasted image 20230507171444.png]]
 - GNOME (v 44)
@@ -60,3 +61,4 @@
 ![[Pasted image 20230507173945.png]]
 
 ![[Pasted image 20230507173954.png]]
+
