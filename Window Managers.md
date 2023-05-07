@@ -20,9 +20,9 @@ A desktop environment shell has a compositor and and other panels, docks and wid
 # Components
 ## Dash (/ App Menu / Launcher)
 
-| Windows 8 Start                                                             | Stock Android Launcher (Pixel)                                              | GNOME Dash (Mine, with Blur My Shell extension)                             | MacOS Launchpad                                                             | Deepin 15.11 Dash                                                           |
-| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Pasted image 20230507211324](_images/Pasted%20image%2020230507211324.png) | ![Pasted image 20230507211637](_images/Pasted%20image%2020230507211637.png) | ![Pasted image 20230507211947](_images/Pasted%20image%2020230507211947.png) | ![Pasted image 20230507212559](_images/Pasted%20image%2020230507212559.png) | ![Pasted image 20230507212109](_images/Pasted%20image%2020230507212109.png) |
+| Windows 8 Start                                                | Stock Android Launcher (Pixel)                                         | GNOME Dash (Mine, with Blur My Shell extension)                             | MacOS Launchpad                                                             | Deepin 15.11 Dash                                                           |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ![Pasted image 20230507211324](_images/Windows%208%20Dash.png) | ![Pasted image 20230507211637](_images/Stock%20Android%20Launcher.png) | ![Pasted image 20230507211947](_images/Pasted%20image%2020230507211947.png) | ![Pasted image 20230507212559](_images/Pasted%20image%2020230507212559.png) | ![Pasted image 20230507212109](_images/Pasted%20image%2020230507212109.png) |
 
 ## Dock (/ Panel / Task bar)
 They are conventionally placed at the bottom or at the left.
