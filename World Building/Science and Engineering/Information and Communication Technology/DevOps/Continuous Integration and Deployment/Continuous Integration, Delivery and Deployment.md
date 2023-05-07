@@ -6,7 +6,7 @@ CI/CD Systems are used to speed up development and delivery.
 - [[Continuous Deployment]]
 
 - **Image for clarity**
-	- ![[Pasted image 20221230133238.png]]
+	- ![[Continuous Integration, Delivery and Deployment Diagram.png]]
 
 "If any developer in your team can stop what they’re doing right now and ship the current development version of code to production in 20 minutes or less without anyone stressing about what could happen — congratulations, you’re doing CI/CD!"
 

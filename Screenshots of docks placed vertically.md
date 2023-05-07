@@ -1,14 +1,14 @@
 ### Windows 10
-![[Pasted image 20230507205637.png]]
+![[Windows 10 Taskbar - Vertical.png]]
 
 ### Ubuntu Dock
-![[Pasted image 20230507210626.png]]
+![[Ubuntu Dock - Vertical.png]]
 
 ### GNOME Dash to Dock (Dock Mode)
-![[Pasted image 20230507211101.png]]
+![[GNOME Dash to Dock (Dock Mode) - Vertical.png]]
 
 ### GNOME Dash to Dock (Panel Mode)
-![[Pasted image 20230507221834.png]]
+![[GNOME Dash to Dock (Panel Mode) - Vertical.png]]
 
 ### GNOME Dash to Panel
-![[Pasted image 20230507221856.png]]        
+![[GNOME Dash to Panel - Vertical.png]]        

@@ -20,4 +20,5 @@ Xvnc allows running X applications over VNC
 
 [[Windowing Systems]]
 
-![[Pasted image 20230430175740.png]]
+Wikipedia Outline:
+![[X Windowing System Wikipedia Overview.png]]

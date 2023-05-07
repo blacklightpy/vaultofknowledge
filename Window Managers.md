@@ -51,7 +51,7 @@ I used horizontal screenshots to show them without having to scroll too much.
 | GNOME Dash to Dock (Dock Mode)  | ![[GNOME Dash to Dock (Dock Mode).png]]  |
 | GNOME Dash to Dock (Panel Mode) | ![[GNOME Dash to Dock (Panel Mode).png]] |
 | GNOME Dash to Panel             | ![[GNOME Dash to Panel.png]]             |
-| Plank Dock (app)                | ![[Plank Dock (app).png]])               |
+| Plank Dock (app)                | ![[Plank Dock (app).png]]                |
 | Pantheon Dock                   | ![[Pantheon Dock.png]]                   |
 
 I tried to display vertical screenshots using a table, but the site generator has some issues with converting the tables. So they're linked in another page [[Screenshots of docks placed vertically|here]]

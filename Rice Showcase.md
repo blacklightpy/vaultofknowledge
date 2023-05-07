@@ -1,21 +1,21 @@
 A riced desktop is a desktop modified to look better.
 
-- XFCE
+- Xfce
 
-![[Pasted image 20230507172122.png]]
+![[Xfce Rice 1.png]]
 
-![[Pasted image 20230507172207.png]]
+![[Xfce Rice 2.png]]
 
 - GNOME
 
-![[Pasted image 20230507172427.png]]
+![[GNOME Rice 1.png]]
 
-![[Pasted image 20230507172445.png]]
+![[GNOME Rice 2.png]]
 
 - MATE
 
-![[Pasted image 20230507175635.png]]
+![[MATE Rice 1.png]]
 
 - Pantheon
 
-![[Pasted image 20230507175830.png]]
+![[Pantheon Rice 1.png]]

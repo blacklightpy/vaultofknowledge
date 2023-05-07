@@ -5,7 +5,7 @@ For riced screenshots, see [[Rice Showcase]].
 Remember, window managers don't look cool out of the box. They are for you to tweak.
 
 # i3 
-![[Pasted image 20230507203750.png]]
+![[i3 Screenshot 1.png]]
 
 ## Sway
-![[Pasted image 20230507203838.png]]
+![[Sway Screenshot 1.png]]
