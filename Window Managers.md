@@ -20,17 +20,17 @@ A desktop environment shell has a compositor and and other panels, docks and wid
 # Components
 ## Dash (/ App Menu / Launcher)
 
-| Windows 8 Start                      | Stock Android Launcher (Pixel)       | GNOME Dash (Mine, with Blur My Shell extension) | MacOS Launchpad                      | Deepin 15.11 Dash                    |
-| ------------------------------------ | ------------------------------------ | ----------------------------------------------- | ------------------------------------ | ------------------------------------ |
-| ![Pasted image 20230507211324](_images/Pasted%20image%2020230507211324.png) | ![Pasted image 20230507211637](_images/Pasted%20image%2020230507211637.png) | ![Pasted image 20230507211947](_images/Pasted%20image%2020230507211947.png)            | ![Pasted image 20230507212559](_images/Pasted%20image%2020230507212559.png) | ![Pasted image 20230507212109](_images/Pasted%20image%2020230507212109.png) |
+| Windows 8 Start                                                             | Stock Android Launcher (Pixel)                                              | GNOME Dash (Mine, with Blur My Shell extension)                             | MacOS Launchpad                                                             | Deepin 15.11 Dash                                                           |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ![Pasted image 20230507211324](_images/Pasted%20image%2020230507211324.png) | ![Pasted image 20230507211637](_images/Pasted%20image%2020230507211637.png) | ![Pasted image 20230507211947](_images/Pasted%20image%2020230507211947.png) | ![Pasted image 20230507212559](_images/Pasted%20image%2020230507212559.png) | ![Pasted image 20230507212109](_images/Pasted%20image%2020230507212109.png) |
 
 ## Dock (/ Panel / Task bar)
 They are conventionally placed at the bottom or at the left.
 I used horizontal screenshots to show them without having to scroll too much.
 
 ### Examples
-| OS                              | Screenshot                           |
-| ------------------------------- | ------------------------------------ |
+| OS                              | Screenshot                                                                  |
+| ------------------------------- | --------------------------------------------------------------------------- |
 | Windows 7 Taskbar               | ![Pasted image 20230507202931](_images/Pasted%20image%2020230507202931.png) |
 | GNOME Dash to Dock (Dock Mode)  | ![Pasted image 20230507202809](_images/Pasted%20image%2020230507202809.png) |
 | GNOME Dash to Dock (Panel Mode) | ![Pasted image 20230507221705](_images/Pasted%20image%2020230507221705.png) |
@@ -39,8 +39,8 @@ I used horizontal screenshots to show them without having to scroll too much.
 | Pantheon Dock                   | ![Pasted image 20230507210325](_images/Pasted%20image%2020230507210325.png) |
 
 Here are some vertical screenshots, anyway:
-| Windows 10                           | Ubuntu Dock                          | GNOME Dash to Dock (Dock Mode)       | GNOME Dash to Dock (Panel Mode)      | GNOME Dash to Panel                  |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| Windows 10                                                                  | Ubuntu Dock                                                                 | GNOME Dash to Dock (Dock Mode)                                              | GNOME Dash to Dock (Panel Mode)                                             | GNOME Dash to Panel                                                         |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | ![Pasted image 20230507205637](_images/Pasted%20image%2020230507205637.png) | ![Pasted image 20230507210626](_images/Pasted%20image%2020230507210626.png) | ![Pasted image 20230507211101](_images/Pasted%20image%2020230507211101.png) | ![Pasted image 20230507221834](_images/Pasted%20image%2020230507221834.png) | ![Pasted image 20230507221856](_images/Pasted%20image%2020230507221856.png) |
 
 ## Bar (/ Panel / Status bar)
