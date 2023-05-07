@@ -277,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,7 +295,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c645c9478a722e93",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Window Managers.md",
