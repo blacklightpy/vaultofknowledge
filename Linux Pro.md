@@ -1,6 +1,6 @@
 The main editors: Vi / Emacs
 
-[Window Managers](Window%20Managers.md)
+[[Window Managers]]
 Polybar/Rofi
 virtman/QEMU
 dotfiles

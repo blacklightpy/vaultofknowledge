@@ -6,10 +6,10 @@
 
 ## Views
 - Overview
-- [Gantt Charts](../../World%20Building/Business%20and%20Finance/Company%20Management/Project%20Management/Gantt%20Charts.md)
+- [[Gantt Charts]]
 - Scope
 - Board
-- [Roadmaps](../../World%20Building/Business%20and%20Finance/Company%20Management/Project%20Management/Roadmaps.md)
+- [[Roadmaps]]
 - Resources
 - Teams
 - Risks

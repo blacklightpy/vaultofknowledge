@@ -7,7 +7,7 @@
 	- Axial Age civilizations
 	- Bronze Age civilizations
 	- Classical civilizations
-	- [Cradles of Civilization](Cradles%20of%20Civilization.md)
+	- [[Cradles of Civilization]]
 	- Modern Civilizations
 	- Post-classical Civilizations
 	- Pre-Columbian Civilizations

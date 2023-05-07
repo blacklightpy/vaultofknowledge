@@ -1,3 +1,3 @@
 
 
-[Stylesheets](Stylesheets.md)
+[[Stylesheets]]

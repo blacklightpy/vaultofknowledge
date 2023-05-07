@@ -1,4 +1,4 @@
-They have infinite [Impulse Response](Impulse%20Response.md).
+They have infinite [[Impulse Response]].
 
 ## Some types of IIR Filters
 - Butterworth

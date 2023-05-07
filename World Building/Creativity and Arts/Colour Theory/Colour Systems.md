@@ -1,7 +1,7 @@
 - Laser video projector
 - Digital Light Processing (DLP)
 - Photographic Film
-- [Display Systems](Display%20Systems.md)
+- [[Display Systems]]
 - Television
 	- Normally uses CRT/LCD/LED/Plasma/etc. but does not take full advantage of their properties, due to limitations of broadcasting.
 	- Colour profiles are based on: Rec.601

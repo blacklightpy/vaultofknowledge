@@ -1,3 +1,3 @@
-[Hash Function](Hash%20Function)
+[[Hash Function]]
 
-- Relation to [Lookup Tables](Lookup%20Tables.md)
+- Relation to [[Lookup Tables]]

@@ -6,6 +6,6 @@ Users don't have to worry about choosing between multiple trust models since the
 Users have to follow the trust endorsment of the CA signed certificates
 
 Links:
-[Public Key Cryptography](Public%20Key%20Cryptography.md)
+[[Public Key Cryptography]]
 Tags:
 #cryptography

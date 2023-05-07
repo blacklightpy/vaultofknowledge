@@ -7,7 +7,7 @@ White Jazz
 40 Algorithms Every Programmer Should Know
 Codeless Data Structures and Algorithms : Learn DSA Without Writing a Single Line of Code
 
-## [Electronics](../../World%20Building/Science%20and%20Engineering/Physics/Electronics%20and%20Electricity/Electronics.md)
+## [[Electronics]]
 
 1. B. Grob, M. Schultz - Basic Electronics, 9e (McGraw Hill)
 2. M Morris Mano - Digital Design
@@ -39,7 +39,7 @@ Codeless Data Structures and Algorithms : Learn DSA Without Writing a Single Lin
 7. Grob's Basic Electronics
 8. 5 Responses
 
-## [Mechanics](../../World%20Building/Science%20and%20Engineering/Physics/Mechanics/Mechanics.md)
+## [[Mechanics]]
 
 1. Shigley’s Mechanical Engineering Design
 2. Machine Design by Black & Adams

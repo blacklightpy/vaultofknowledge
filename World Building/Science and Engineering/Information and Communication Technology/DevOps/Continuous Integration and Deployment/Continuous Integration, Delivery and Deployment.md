@@ -1,12 +1,12 @@
 CI/CD Systems are used to speed up development and delivery.
 
 # The terms explained
-- [Continuous Integration](Continuous%20Integration.md)
-- [Continuous Delivery](Continuous%20Delivery.md)
-- [Continuous Deployment](Continuous%20Deployment.md)
+- [[Continuous Integration]]
+- [[Continuous Delivery]]
+- [[Continuous Deployment]]
 
 - **Image for clarity**
-	- ![Pasted image 20221230133238](../../../../../_images/Pasted%20image%2020221230133238.png)
+	- ![[Pasted image 20221230133238.png]]
 
 "If any developer in your team can stop what they’re doing right now and ship the current development version of code to production in 20 minutes or less without anyone stressing about what could happen — congratulations, you’re doing CI/CD!"
 
@@ -14,7 +14,7 @@ CI/CD Systems are used to speed up development and delivery.
 **Basic steps:** Build - Test - Deploy Staging - Deploy Production
 **If using Docker and Kubernetes:** Build - Test - Dockerize - Deploy to Kubernetes - Tag latest docker
 
-# [Tools for CI/CD](Tools%20for%20CI%20and%20CD.md)
+# [[Tools for CI and CD|Tools for CI/CD]]
 
 # Requirements for CI/CD
  - Parallel computing systems for parallel tests etc.
@@ -24,14 +24,14 @@ CI/CD Systems are used to speed up development and delivery.
 	- Build Stage
 		- Code changes need to be compiled
 		- These days there is a need to pack them in Docker containers
-		- [Automated Tests](Automated%20Tests.md) verify specific units of code like UI behaviour, API reliability, performance, etc.
+		- [[Automated Tests]] verify specific units of code like UI behaviour, API reliability, performance, etc.
 		- Maintain test reports
 	- Testing Stage
 - CD
 	- Deployment Stage
 		- Deployment Methods
-			- [Canary Deployment](../Canary%20Deployment.md)
-			- [Blue Green Deployment](../Blue%20Green%20Deployment.md)
+			- [[Canary Deployment]]
+			- [[Blue Green Deployment]]
 
 # Tips for building a CI-CD pipeline
 - Follow DevOps practices

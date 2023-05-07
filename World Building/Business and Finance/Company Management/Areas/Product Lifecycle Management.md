@@ -3,6 +3,6 @@ Product Lifecycle Management (PLM)
 This includes monitoring and management of:
 
 - CAx
-- [Bill of Materials](Bill%20of%20Materials.md)
+- [[Bill of Materials]]
 
-# [PLM Software](PLM%20Software.md)
+# [[PLM Software]]

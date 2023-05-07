@@ -2,7 +2,7 @@ They include hardware integrity checking as part of the file system.
 
 Legacy filesystems assumed high integrity in the hardware as bit rot would only occur at a rate of 1:10^14 bits (~12TB) for consumer disks (IDE, SATA) and about 1:10^15 bits (~125TB) for enterprise disks (SAS, SCSI). But as data workloads increased beyond Terabytes to Petabytes, they proved necessary.
 
-They also checksum and compare every byte on each read and write. This means that the RAM **must** be reliable, and where integrity is critical, ECC RAM is recommended. They also don't rely on controller level [RAID](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Hardware/Storage%20Devices/RAID.md).
+They also checksum and compare every byte on each read and write. This means that the RAM **must** be reliable, and where integrity is critical, ECC RAM is recommended. They also don't rely on controller level [[RAID]].
 
 They tend to be Copy on Write (CoW). This means that before each block is rewritten, the filesystem makes a copy of the original block, modifies it and writes it to a different part of the disk. This way, even if a crash occurs, the old block is still there, unmodified.
 

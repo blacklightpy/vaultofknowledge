@@ -1,2 +1,2 @@
 Euphoria
-[Animes](Animes.md)
+[[Animes]]

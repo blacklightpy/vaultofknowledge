@@ -1,8 +1,8 @@
-- [CIE 1931 Colour Spaces](CIE%201931%20Colour%20Spaces.md) ($2\degree$)
+- [[CIE 1931 Colour Spaces]] ($2\degree$)
 	- CIERGB
 	- CIEXYZ
-- [CIE 1960 Uniform Colour Space](CIE%201960%20Uniform%20Colour%20Space.md)
-- CIE 1964 Colour Space / [CIEUVW](CIEUVW.md) - used less
-- [CIE 1976 Uniform Colour Spaces](CIE%201976%20Uniform%20Colour%20Spaces.md)
+- [[CIE 1960 Uniform Colour Space]]
+- CIE 1964 Colour Space / [[CIEUVW]] - used less
+- [[CIE 1976 Uniform Colour Spaces]]
 	- CIELUV (based on CIEUVW)
 	- CIELAB

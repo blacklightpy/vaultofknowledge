@@ -1,1 +1,1 @@
-- Continuous, unlike [Multispectral Imaging](Multispectral%20Imaging.md)
+- Continuous, unlike [[Multispectral Imaging]]

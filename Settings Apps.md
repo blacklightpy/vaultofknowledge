@@ -2,7 +2,7 @@ GNOME Settings
 Xfce4 Settings
 
 # Seperate
-- [Network Management](Network%20Management.md)
+- [[Network Management]]
 - Bluetooth: Blueman
 - Displays: Arandr (XRandr GUI)
 - Audio: Pavucontrol

@@ -1,5 +1,5 @@
-Relative luminance ($Y$) follows the [photometric](../../../Science%20and%20Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral%20Analysis/Photometry.md) defintion of [Luminance](Luminance.md) $L$ including spectral weighting for human vision, but while luminance $L$ is a measure of light in units such as $cd/m^2$, relative luminance $Y$ values are normalized as 0.0 to 1.0 (or 1 to 100, with 1.0 being a theoretical perfect reflector of 100% [reference white](../Colour%20Modelling/White%20Point.md).
+Relative luminance ($Y$) follows the [[Photometry|photometric]] defintion of [[Luminance]] $L$ including spectral weighting for human vision, but while luminance $L$ is a measure of light in units such as $cd/m^2$, relative luminance $Y$ values are normalized as 0.0 to 1.0 (or 1 to 100, with 1.0 being a theoretical perfect reflector of 100% [[White Point|reference white]].
 
-The use of relative values is useful in [Colour Appearance Models](../Colour%20Modelling/Colour%20Appearance%20Models/Colour%20Appearance%20Models.md) that describe perception relative to the eye's adaptiation state and a reference white.
+The use of relative values is useful in [[Colour Appearance Models]] that describe perception relative to the eye's adaptiation state and a reference white.
 
-For CIE [colour spaces](../Colour%20Modelling/Colour%20Spaces/Colour%20Space.md) [XYZ](../Colour%20Modelling/Colour%20Spaces/CIE%201931%20XYZ%20Colour%20Space.md) and [xyY](../Colour%20Modelling/Colour%20Spaces/CIE%20xyY%20Colour%20Space.md), the letter $Y$ refers to relative luminance.
+For CIE [[Colour Space|colour spaces]] [[CIE 1931 XYZ Colour Space|XYZ]] and [[CIE xyY Colour Space|xyY]], the letter $Y$ refers to relative luminance.

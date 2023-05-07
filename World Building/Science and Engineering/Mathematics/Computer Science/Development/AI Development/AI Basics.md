@@ -1,5 +1,5 @@
 **Links:**
-[Machine Learning Frameworks](Machine%20Learning%20Frameworks.md)
+[[Machine Learning Frameworks]]
 
 # Types of Neural Networks
 - Convolutional Neural Network (CNN)
@@ -12,6 +12,6 @@
 # Terms
 - Frameworks
 - Networks - Models and Networks are often used interchangeably. But mainly the difference is that algorithms are implemented on networks to create models.
-- [AI Algorithms](AI%20Algorithms.md)
+- [[AI Algorithms]]
 - Models - Products of AI Training, by running a machine learning algorithm on training data
 - Inference - Inference is where deep learning capabilities learned during training are put to work

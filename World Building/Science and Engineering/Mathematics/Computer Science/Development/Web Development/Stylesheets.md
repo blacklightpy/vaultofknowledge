@@ -1,6 +1,6 @@
-[Web Technologies](Web%20Technologies.md)
+[[Web Technologies]]
 
-[Cascading Style Sheets](Cascading%20Style%20Sheets.md)
+[[Cascading Style Sheets]]
 SCSS
 SASS
 LESS

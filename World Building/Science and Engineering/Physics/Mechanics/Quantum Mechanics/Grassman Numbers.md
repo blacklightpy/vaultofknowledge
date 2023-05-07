@@ -6,5 +6,5 @@ then $\theta_A$ $\theta_B$ = -$\theta_B$ $\theta_A$
 
 Also, $\theta^2=0$   
 
-This property is used to describe the field values of [Fermions](../../Particle%20Physics/Standard%20Model/Fermions.md) and that can be used to explain the Pauli Exclusion Principle.
-They are used to complete the missing elementary particles of the standard model in the theory of [Supersymmetry](../../Particle%20Physics/Beyond%20the%20Standard%20Model/Supersymmetry.md)
+This property is used to describe the field values of [[Fermions]] and that can be used to explain the Pauli Exclusion Principle.
+They are used to complete the missing elementary particles of the standard model in the theory of [[Supersymmetry]]

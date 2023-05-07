@@ -1,7 +1,7 @@
 These are the areas of science associated with Mechanical Engineering
 
 - Physics
-	- [Mechanics](../../Physics/Mechanics/Mechanics.md)
+	- [[Mechanics]]
 		- Solid Mechanics
 		- Fluid Mechanics
 	- Thermodynamics

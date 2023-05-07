@@ -1,4 +1,4 @@
-[Note Taking Tools](Note%20Taking%20Tools.md)
+[[Note Taking Tools]]
 **Mail**
 - Mozilla Thunderbird - Supports Matrix in addition to mail
 - Mailspring - Polished UI

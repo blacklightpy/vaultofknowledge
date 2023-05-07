@@ -1,4 +1,4 @@
-[Productivity Tips](Productivity%20Tips.md) 
+[[Productivity Tips]] 
 
 ## Ideas
 - https://forum.obsidian.md/t/using-the-graph-to-replicate-luhmanns-folgezettel-from-zettelkasten-without-using-his-id-system/16019

@@ -1,4 +1,4 @@
-Unique colours or hues were first described by Ewald Hering in his theory of [Opponent Processes](Opponent%20Processes.md).
+Unique colours or hues were first described by Ewald Hering in his theory of [[Opponent Processes]].
 
 He defined the unique hues as red, green, yellow and blue, and based them on the concept that these colours could not be simultaneously percieved.
 

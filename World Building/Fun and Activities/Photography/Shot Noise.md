@@ -1,4 +1,4 @@
-Also known as [Poisson noise](Poisson%20noise.md)
+Also known as [[Poisson noise]]
 
 It occurs in optical devices when photons are collected.
 

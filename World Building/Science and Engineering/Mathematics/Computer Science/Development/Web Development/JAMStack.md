@@ -1,4 +1,4 @@
-Links to: [Web Technologies](Web%20Technologies.md)
+Links to: [[Web Technologies]]
 
 The term was coined by Netlify CEO.
 The approach is simple and has existed before, but no one was really using it.
@@ -9,7 +9,7 @@ The approach is simple and has existed before, but no one was really using it.
 
 Note: Vercel and Netlify offer a PaaS model for presenting static content
 
-[Static site generators](Static%20site%20generators.md)
+[[Static site generators]]
 
 Some NextJS Features:
 - Periodic SSG after a period from new requests

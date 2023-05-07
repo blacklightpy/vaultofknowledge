@@ -11,5 +11,5 @@
 - Valve
 - Flywheel
 - Sump
-- [Carburettor](Carburettor.md)
-- [Alternator](Alternator.md)
+- [[Carburettor]]
+- [[Alternator]]

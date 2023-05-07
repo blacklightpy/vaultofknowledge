@@ -15,8 +15,8 @@
 ***By chronology of trend:***
 - Fully Static - HTML, CSS, Web Server
 - Dynamic - Frontend + Backend
-- [Single Page Application](Single%20Page%20Application.md) - HTML, CSS are generated dynamically on client side
-- [JAMStack](JAMStack.md) - JavaScript, API, Markup: Basically decoupling frontend and backend
+- [[Single Page Application]] - HTML, CSS are generated dynamically on client side
+- [[JAMStack]] - JavaScript, API, Markup: Basically decoupling frontend and backend
 
 ***By functional categorization:***
 SSR: Server side rendering, CSR: Client side rendering
@@ -32,7 +32,7 @@ LEMP - Linux, NginX, MySQL, PHP/Perl/Python
 MEAN - MongoDB, ExpressJS, AngularJS, NodeJS
 MERN - MongoDB, ExpressJS, ReactJS, NodeJS
 MEVN - MongoDB, ExpressJS, VueJS, NodeJS
-Django - [JavaScript](JavaScript.md), Python, Django, MySQL
+Django - [[JavaScript]], Python, Django, MySQL
 Ruby on Rails - JavaScript - Ruby - SQLite - Rails
 **Frontends:**
 Javascript, jQuery, Angular/Vue/React, Typescript
@@ -40,6 +40,6 @@ Javascript, jQuery, Angular/Vue/React, Typescript
 PHP, Perl, Python, NodeJS, C#, C++, Scala, Ruby, ASP, Go
 **Databases**
 MySQL, PostgreSQL, MongoDB, DynamoDB, Firebase, Redis
-**[Control Panels](../../../../Information%20and%20Communication%20Technology/System%20Administration/Control%20Panels.md)**
+**[[Control Panels]]**
 
-**[Communication Technologies](../Communication%20Technologies.md)**
+**[[Communication Technologies]]**

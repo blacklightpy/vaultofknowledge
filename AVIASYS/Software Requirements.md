@@ -1,5 +1,5 @@
 Have an all-in-one roadmap
-Follow [Agile](../World%20Building/Business%20and%20Finance/Company%20Management/Project%20Management/Methods/Agile%20Methodology/Agile.md) and do work in sprints
+Follow [[Agile]] and do work in sprints
 Have Backlogs and Issue States
 Have Velocity Reports
 Have automation for productivity

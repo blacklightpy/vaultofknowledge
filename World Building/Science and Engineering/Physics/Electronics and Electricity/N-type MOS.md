@@ -1,1 +1,1 @@
-N-type [Metal Oxide Semiconductor](Metal%20Oxide%20Semiconductor.md) (NMOS)
+N-type [[Metal Oxide Semiconductor]] (NMOS)

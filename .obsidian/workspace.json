@@ -130,20 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kicking a football to fly.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "988e55365e5e1029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Window Managers.md",
+                "file": "Desktop Environment Showcase.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Desktop Environment Showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Window Managers.md",
+                "file": "Desktop Environment Showcase.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Window Managers.md"
+                "file": "Desktop Environment Showcase.md"
               }
             }
           },
@@ -308,13 +295,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "988e55365e5e1029",
+  "active": "2d86f99751e1bcb9",
   "lastOpenFiles": [
-    "Compositors.md",
-    "Kicking a football to fly.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
+    "Desktop Environments.md",
+    "Desktop Environment Showcase.md",
+    "Windowing.md",
     "Window Managers.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
+    "Kicking a football to fly.md",
+    "Compositors.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
     "Next generation filesystems.md",
     "Screenshots of docks placed vertically.md",
     "Finite Element Method.md",
@@ -338,10 +328,7 @@
     "_assets",
     "_images/Pasted image 20230507221834.png",
     "_images/GNOME Dash to Dock (Panel Mode).png",
-    "Desktop Environment Showcase.md",
     "Converting Distro Looks.md",
-    "Steps encountered when installing Void.md",
-    "Desktop Environments.md",
     "_images/Pasted image 20230507220507.png",
     "_images/Pasted image 20230507220458.png",
     "_images/Pasted image 20230507220256.png",

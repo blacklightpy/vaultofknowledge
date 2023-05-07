@@ -1,1 +1,1 @@
-Rotating coils of a [Dynamo](Dynamo.md) or electric motor.
+Rotating coils of a [[Dynamo]] or electric motor.

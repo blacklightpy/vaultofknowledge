@@ -1,1 +1,1 @@
-Same as [Shot Noise](Shot%20Noise.md)
+Same as [[Shot Noise]]
