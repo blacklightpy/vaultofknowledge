@@ -13,7 +13,7 @@ On second thoughts, DEs usually have a large number of apps, so I can't really m
 6. LXDE
 	1. File Manager: PCManFM
 7. LXQt
-	1. File Manager:
+	1. File Manager: PCManFM-Qt
 8. Deepin
 	1. File Manager: Deepin File Manager
 9. Cutefish

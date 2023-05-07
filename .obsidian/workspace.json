@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "216ac56a1613090b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Environment Ecosystems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Desktop Environment Ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Desktop Environment Ecosystems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "Desktop Environment Ecosystems.md"
               }
             }
           },
@@ -277,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,14 +308,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13612a4352378df3",
+  "active": "216ac56a1613090b",
   "lastOpenFiles": [
+    "Kicking a football to fly.md",
     "Desktop Environment Showcase.md",
     "Desktop Environments.md",
     "Windowing.md",
     "Window Managers.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
-    "Kicking a football to fly.md",
     "Compositors.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
     "Next generation filesystems.md",
