@@ -9,8 +9,8 @@
   "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
-  "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
   "pdfExportSettings": {
     "includeName": false,
     "pageSize": "A4",
