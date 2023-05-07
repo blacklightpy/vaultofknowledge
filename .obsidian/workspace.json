@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "72132f985e0289c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is a codec.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -290,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,7 +295,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "72132f985e0289c8",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Motors To Read.md",
     "Kicking a football to fly.md",
