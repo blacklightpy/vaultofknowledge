@@ -277,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,7 +295,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "91b11c5ac5709c5c",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Kicking a football to fly.md",
     "Window Managers.md",
