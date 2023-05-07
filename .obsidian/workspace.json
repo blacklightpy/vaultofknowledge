@@ -125,12 +125,12 @@
             }
           },
           {
-            "id": "2d86f99751e1bcb9",
+            "id": "13612a4352378df3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Environment Showcase.md",
+                "file": "Kicking a football to fly.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Environment Showcase.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Environment Showcase.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Environment Showcase.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -277,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,10 +296,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2d86f99751e1bcb9",
+  "active": "13612a4352378df3",
   "lastOpenFiles": [
-    "Desktop Environments.md",
     "Desktop Environment Showcase.md",
+    "Desktop Environments.md",
     "Windowing.md",
     "Window Managers.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
