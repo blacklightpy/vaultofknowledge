@@ -138,15 +138,15 @@
             }
           },
           {
-            "id": "216ac56a1613090b",
+            "id": "31b14318003dad2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Environment Ecosystems.md",
+                "file": "Desktop Environment Showcase.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Environment Ecosystems.md",
+                "file": "Desktop Environment Showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Environment Ecosystems.md",
+                "file": "Desktop Environment Showcase.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Environment Ecosystems.md"
+                "file": "Desktop Environment Showcase.md"
               }
             }
           },
@@ -308,13 +308,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "216ac56a1613090b",
+  "active": "31b14318003dad2b",
   "lastOpenFiles": [
     "Kicking a football to fly.md",
     "Desktop Environment Showcase.md",
+    "Window Managers.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Desktop Environments.md",
     "Windowing.md",
-    "Window Managers.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
     "Compositors.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
@@ -337,16 +338,15 @@
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "Window Manager Showcase.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "_assets",
     "_images/Pasted image 20230507221834.png",
     "_images/GNOME Dash to Dock (Panel Mode).png",
     "Converting Distro Looks.md",
-    "_images/Pasted image 20230507220507.png",
-    "_images/Pasted image 20230507220458.png",
-    "_images/Pasted image 20230507220256.png",
-    "_images/Pasted image 20230507220244.png",
-    "_images/Pasted image 20230507220237.png",
+    "_images/Ubuntu Screenshot 2.png",
+    "_images/Ubuntu Screenshot 1.png",
+    "_images/Pop OS Screenshot 3.png",
+    "_images/Pop OS Screenshot 2.png",
+    "_images/Pop OS Screenshot 1.png",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",

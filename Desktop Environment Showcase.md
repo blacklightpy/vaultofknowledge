@@ -8,109 +8,117 @@ For OS specific changes to desktop environments, [[#OS Specific Adjustments|jump
 
 # Popular Desktop Environments
 ## Unity (Personal Favorite)
-![[Pasted image 20230507171444.png]]
+![[Unity Screenshot.png]]
+
 ## GNOME (v 44)
+![[GNOME Screenshot 1.png]]
 
-![[Pasted image 20230507214059.png]]
+![[GNOME Screenshot 2.png]]
 
-![[Pasted image 20230507213709.png]]
+![[GNOME Screenshot 3.png]]
 
-![[Pasted image 20230507213639.png]]
+![[GNOME Screenshot 4.png]]
 
-![[Pasted image 20230507213416.png]]
+![[GNOME Screenshot 5.png]]
 
-![[Pasted image 20230507213757.png]]
 ## KDE Plasma 5
-![[Pasted image 20230507173525.png]]
+![[Plasma Screenshot 1.png]]
 
-![[Pasted image 20230507175934.png]]
+![[Plasma Screenshot 2.png]]
 
 ## Cinnamon
-![[Pasted image 20230507171621.png]]
+![[Cinnamon Screenshot 1.png]]
 
-![[Pasted image 20230507180124.png]]
+![[Cinnamon Screenshot 2.png]]
+
 ## MATE (GNOME 2 Fork (means derivative))
+![[MATE Screenshot 1.png]]
 
-![[Pasted image 20230507175458.png]]
+![[MATE Screenshot 2.png]]
 
-![[Pasted image 20230507175550.png]]
+![[MATE Screenshot 3.png]]
 
-![[Pasted image 20230507175442.png]]
+![[MATE Screenshot 4.png]]
 
-![[Pasted image 20230507180053.png]]
 ## Pantheon
-![[Pasted image 20230507173410.png]]
+![[Pantheon Screenshot 1.png]]
 
 ![https://blog.elementary.io/images/os-7-available-now/hero.png](https://blog.elementary.io/images/os-7-available-now/hero.png)
 
-![[Pasted image 20230507173444.png]]
+![[Pantheon Screenshot 2.png]]
+
 ## Budgie
+![[Budgie Screenshot 1.png]]
 
-![[Pasted image 20230507180240.png]]
+![[Budgie Screenshot 2.png]]
 
-![[Pasted image 20230507180509.png]]
+![[Budgie Screenshot 4.png]]
 
-![[Pasted image 20230507180519.png]]
-
-![[Pasted image 20230507180527.png]]
+![[Budgie Screenshot 5.png]]
 
 ## Enlightenment
-![[Pasted image 20230507174319.png]]
-# Lightweight
-## XFCE
-![[Pasted image 20230507171903.png]]
+![[Enlightenment Screenshot 1.png]]
 
-![[Pasted image 20230507173638.png]]
+# Lightweight
+
+## Xfce
+![[Xfce Screenshot 1.png]]
+
+![[Xfce Screenshot 2.png]]
+
 ## LXQt (LXDE)
-![[Pasted image 20230507180005.png]]
+![[LXQt Screenshot 1.png]]
 
 # Less popular
+
 ## Deepin (20+)
-![[Pasted image 20230507173607.png]]
+![[Deepin 20 Screenshot 1.png]]
+
 ## Deepin (15.11, personal favorite)
-![[Pasted image 20230507174457.png]]
+![[Deepin 15.11 Screenshot 1.png]]
 
-![[Pasted image 20230507175014.png]]
+![[Deepin 15.11 Screenshot 2.png]]
 
-![[Pasted image 20230507174506.png]]
+![[Deepin 15.11 Screenshot 3.png]]
 
 ## Cutefish
-![[Pasted image 20230507173945.png]]
+![[Cutefish Screenshot 1.png]]
 
-![[Pasted image 20230507173954.png]]
+![[Cutefish Screenshot 2.png]]
 
 # OS Specific Adjustments
+
 ## Manjaro GNOME Edition
 Manjaro GNOME edition allows changing GNOME layout. This screenshot was prior to GNOME 40, but I think they should still have it.
-![[Pasted image 20230507214736.png]]
+![[Manjaro GNOME Screenshot 1.png]]
 
 ## Zorin OS
 Zorin OS is an aesthetically themed OS based on Ubuntu GNOME. It also supports multiple layouts
 
-![[Pasted image 20230507214930.png]]
+![[Zorin OS Screenshot 1.png]]
 
-![[Pasted image 20230507214940.png]]
+![[Zorin OS Screenshot 2.png]]
 
 ## Ubuntu MATE
 Ubuntu MATE also allows changing layouts
-![[Pasted image 20230507215925.png]]
+![[Ubuntu MATE Screenshot 1.png]]
 
 ## Ubuntu
 Ubuntu adds a number of extensions on to stock GNOME to brand it.
 I have listed a few differences between Fedora's stock GNOME and Ubuntu here: [[Converting Distro Looks#Fedora to Ubuntu|Converting Fedora to Ubuntu]]
 
-![[Pasted image 20230507220458.png]]
+![[Ubuntu Screenshot 1.png]]
 
-![[Pasted image 20230507220507.png]]
+![[Ubuntu Screenshot 2.png]]
 
 ## Pop OS
 Pop OS is migrating from GNOME to their own COSMIC desktop environment. A major distinciton from Ubuntu's appearance is the use of a tiling window extension named Pop Shell.
 
 I listed some of the differences here: [[Converting Distro Looks#Differences between Pop OS and Ubuntu|Converting Ubuntu to Pop OS]]
 
-![[Pasted image 20230507220237.png]]
+![[Pop OS Screenshot 1.png]]
 
-![[Pasted image 20230507220244.png]]
+![[Pop OS Screenshot 2.png]]
 
-![[Pasted image 20230507220256.png]]
+![[Pop OS Screenshot 3.png]]
 

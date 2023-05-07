@@ -30,29 +30,29 @@ Android Launcher (Pixel):
 
 GNOME Dash (Mine, with Blur My Shell extension):
 
-![[Pasted image 20230507211947.png]]
+![[My GNOME Dash.png]]
 
 MacOS Launchpad:
 
-![[Pasted image 20230507212559.png]]
+![[MacOS Launchpad.png]]
 
 Deepin 15.11 Dash:
 
-![[Pasted image 20230507212109.png]]
+![[Deepin 15.11 Dash.png]]
 
 ## Dock (/ Panel / Task bar)
 They are conventionally placed at the bottom or at the left.
 I used horizontal screenshots to show them without having to scroll too much.
 
 ### Examples
-| OS                              | Screenshot                                                                                |
-| ------------------------------- | ----------------------------------------------------------------------------------------- |
-| Windows 7 Taskbar               | ![[Windows 7 Taskbar.png]]                                   |
-| GNOME Dash to Dock (Dock Mode)  | ![[Dock Mode|[Dock Mode)](_images/GNOME Dash to Dock (Dock Mode|GNOME Dash to Dock (Dock Mode|[Dock Mode)]]]].png)   |
-| GNOME Dash to Dock (Panel Mode) | ![[Panel Mode|[Panel Mode)](_images/GNOME Dash to Dock (Panel Mode|GNOME Dash to Dock (Panel Mode|[Panel Mode)]]]].png) |
-| GNOME Dash to Panel             | ![[GNOME Dash to Panel.png]]                             |
-| Plank Dock (app)                | ![[app|[app)](_images/Plank Dock (app|Plank Dock (app|[app)]]]].png)                                     |
-| Pantheon Dock                   | ![[Pantheon Dock.png]]                                             |
+| OS                              | Screenshot                               |
+| ------------------------------- | ---------------------------------------- |
+| Windows 7 Taskbar               | ![[Windows 7 Taskbar.png]]               |
+| GNOME Dash to Dock (Dock Mode)  | ![[GNOME Dash to Dock (Dock Mode).png]]  |
+| GNOME Dash to Dock (Panel Mode) | ![[GNOME Dash to Dock (Panel Mode).png]] |
+| GNOME Dash to Panel             | ![[GNOME Dash to Panel.png]]             |
+| Plank Dock (app)                | ![[Plank Dock (app).png]])               |
+| Pantheon Dock                   | ![[Pantheon Dock.png]]                   |
 
 I tried to display vertical screenshots using a table, but the site generator has some issues with converting the tables. So they're linked in another page [[Screenshots of docks placed vertically|here]]
 
