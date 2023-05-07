@@ -149,6 +149,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "382bb0557b147f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Window Managers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 10
@@ -290,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,9 +323,9 @@
   },
   "active": "3d46ca97aab602fc",
   "lastOpenFiles": [
-    "Kicking a football to fly.md",
     "Window Managers.md",
     "Test Page.md",
+    "Kicking a football to fly.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "Window Manager Showcase.md",
