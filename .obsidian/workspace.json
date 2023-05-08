@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cryptocu",
+                "query": "#^",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -310,8 +311,10 @@
   },
   "active": "aaee39decec6483c",
   "lastOpenFiles": [
-    "Z1-Inbox/Why cryptocurrencies may not be necessary.md",
+    "Personal/Knowledge/Music.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
     "Window Managers 1.md",
+    "Z1-Inbox/Why cryptocurrencies may not be necessary.md",
     "Window Managers.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Desktop Environments.md",
@@ -344,8 +347,6 @@
     "Transfer Function.md",
     "To Learn.md",
     "Untitled.md",
-    "Untitled 2.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Comparison of Photometric and Radiometric values.md",
     "_assets",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
