@@ -290,7 +290,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,7 +309,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aaee39decec6483c",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Personal/Knowledge/Music.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
