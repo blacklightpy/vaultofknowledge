@@ -3,15 +3,15 @@ A window manager is the program that handles displaying the content of GUI appli
 
 Window managers can be divided based on their style as: Tiling, Stacking and Dynamic.
 
-There are two main displaying systems in UNIX-Like operating systems: [[X WIndowing System]] (or X) and the newer [[Wayland]]. For other operating systems, see [[Windowing Systems]].
+There are two main displaying systems in UNIX-Like operating systems: [X WIndowing System](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/X%20WIndowing%20System.md) (or X) and the newer [Wayland](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Wayland.md). For other operating systems, see [Windowing Systems](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Windowing%20Systems.md).
 
-In [[X WIndowing System]]:
-Display Server > [[Compositors|Compositor]] > Window Manager
+In [X WIndowing System](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/X%20WIndowing%20System.md):
+Display Server > [Compositor](Compositors.md) > Window Manager
 
 Compositing Window Mangers are Window Managers with an integrated compositor.
 A desktop environment shell has a window manager, compositor and other panels, docks and widgets running on an X display server.
 
-In [[Wayland]]:
+In [Wayland](World%20Building/Science%20and%20Engineering/Mathematics/Computer%20Science/Operating%20Systems/UNIX%20and%20Linux/Wayland.md):
 Wayland takes a combined approach to the display ecosystem.
 
 The display server, window manager and compositor are a single program, called a compositor.
@@ -22,7 +22,7 @@ A desktop environment shell has a compositor and and other panels, docks and wid
 
 | Windows 8 Start Menu | Android Launcher (Pixel) | GNOME Dash (Mine, with Blur My Shell extension) | MacOS Launchpad  | Deepin 15.11 Dash |
 | -------------------- | ------------------------ | ----------------------------------------------- | ---------------- | ----------------- |
-| ![[Kinesin.gif]]     | ![[Kinesin.gif]]         | ![[Kinesin.gif]]                                | ![[Kinesin.gif]] | ![[Kinesin.gif]]  |
+| ![Kinesin](_images/Kinesin.gif)     | ![Kinesin](_images/Kinesin.gif)         | ![Kinesin](_images/Kinesin.gif)                                | ![Kinesin](_images/Kinesin.gif) | ![Kinesin](_images/Kinesin.gif)  |
 
 ### Dock (/ Panel / Task bar)
 They are conventionally placed at the bottom or at the left.
@@ -32,18 +32,18 @@ I used horizontal screenshots to show them without having to scroll too much.
 
 | OS                              | Screenshot       |
 | ------------------------------- | ---------------- |
-| Windows 7 Taskbar               | ![[Kinesin.gif]] |
-| GNOME Dash to Dock (Dock Mode)  | ![[Kinesin.gif]] |
-| GNOME Dash to Dock (Panel Mode) | ![[Kinesin.gif]] |
-| GNOME Dash to Panel             | ![[Kinesin.gif]] |
-| Plank Dock (app)                | ![[Kinesin.gif]] |
-| Pantheon Dock                   | ![[Kinesin.gif]] |
+| Windows 7 Taskbar               | ![Kinesin](_images/Kinesin.gif) |
+| GNOME Dash to Dock (Dock Mode)  | ![Kinesin](_images/Kinesin.gif) |
+| GNOME Dash to Dock (Panel Mode) | ![Kinesin](_images/Kinesin.gif) |
+| GNOME Dash to Panel             | ![Kinesin](_images/Kinesin.gif) |
+| Plank Dock (app)                | ![Kinesin](_images/Kinesin.gif) |
+| Pantheon Dock                   | ![Kinesin](_images/Kinesin.gif) |
 
 Here are some vertical screenshots, anyway:
 
 | Windows 10       | Ubuntu Dock      | GNOME Dash to Dock (Dock Mode) | GNOME Dash to Dock (Panel Mode) | GNOME Dash to Panel |
 | ---------------- | ---------------- | ------------------------------ | ------------------------------- | ------------------- |
-| ![[Kinesin.gif]] | ![[Kinesin.gif]] | ![[Kinesin.gif]]               | ![[Kinesin.gif]]                | ![[Kinesin.gif]]    |
+| ![Kinesin](_images/Kinesin.gif) | ![Kinesin](_images/Kinesin.gif) | ![Kinesin](_images/Kinesin.gif)               | ![Kinesin](_images/Kinesin.gif)                | ![Kinesin](_images/Kinesin.gif)    |
 
 ### Bar (/ Panel / Status bar)
 They are conventionally placed at the top. Some window managers include a bar with them.
@@ -116,4 +116,4 @@ Since in Wayland, window managers and compositors are combined, they are just ca
 
 | Windows 8 Start | Stock Android Launcher (Pixel)  | GNOME Dash (Mine, with Blur My Shell extension)  | MacOS Launchpad   | Deepin 15.11 Dash   |
 | ----------------| ------------ | ----------------- | --------------- | ------------- |
-| ![[Windows 8 Dash.png\|Pasted image 20230507211324]] | ![[Stock Android Launcher.png|Pasted image 20230507211637]] | ![[Pasted image 20230507211947.png]] | ![[Pasted image 20230507212559.png]] | ![[Pasted image 20230507212109.png]] |
+| ![Pasted image 20230507211324](Windows%208%20Dash.png%5C) | ![Pasted image 20230507211637](_images/Stock%20Android%20Launcher.png) | ![Pasted image 20230507211947.png](Pasted%20image%2020230507211947.png) | ![Pasted image 20230507212559.png](Pasted%20image%2020230507212559.png) | ![Pasted image 20230507212109.png](Pasted%20image%2020230507212109.png) |
