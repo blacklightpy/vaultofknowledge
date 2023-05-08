@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#^",
+                "query": "book theme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,8 +312,8 @@
   "active": "aaee39decec6483c",
   "lastOpenFiles": [
     "Kicking a football to fly.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Window Managers 1.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Economics.md",
     "Personal/Knowledge/Music.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
