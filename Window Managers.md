@@ -109,7 +109,7 @@ A larger list can be found in the [Arch Wiki > Window Managers](https://wiki.arc
 - xmonad
 - Qtile
 
-## Wayland compositors
+### Wayland compositors
 Since in Wayland, window managers and compositors are combined, they are just called compositors.
 
 - dwl (dwm clone for Wayland)
