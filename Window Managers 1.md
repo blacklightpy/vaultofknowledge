@@ -113,3 +113,7 @@ Since in Wayland, window managers and compositors are combined, they are just ca
 - Enlightenment
 - wlroots (A base library for building Wayland compositors)
 - Weston (Wayland demo compositor)
+
+| Windows 8 Start | Stock Android Launcher (Pixel)  | GNOME Dash (Mine, with Blur My Shell extension)  | MacOS Launchpad   | Deepin 15.11 Dash   |
+| ----------------| ------------ | ----------------- | --------------- | ------------- |
+| ![[Windows 8 Dash.png\|Pasted image 20230507211324]] | ![[Stock Android Launcher.png|Pasted image 20230507211637]] | ![[Pasted image 20230507211947.png]] | ![[Pasted image 20230507212559.png]] | ![[Pasted image 20230507212109.png]] |

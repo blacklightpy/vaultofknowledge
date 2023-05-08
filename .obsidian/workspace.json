@@ -146,7 +146,7 @@
                 "file": "Window Managers 1.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -309,17 +309,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "aaee39decec6483c",
   "lastOpenFiles": [
+    "Kicking a football to fly.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "Window Managers 1.md",
+    "Economics.md",
     "Personal/Knowledge/Music.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
-    "Window Managers 1.md",
     "Z1-Inbox/Why cryptocurrencies may not be necessary.md",
     "Window Managers.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Desktop Environments.md",
-    "Kicking a football to fly.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
@@ -346,7 +347,6 @@
     "Things I don't understand.md",
     "Transfer Function.md",
     "To Learn.md",
-    "Untitled.md",
     "_assets",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
