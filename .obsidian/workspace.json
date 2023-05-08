@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aaee39decec6483c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Window Managers 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "book theme",
+                "query": "gnome exten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Window Managers 1.md",
+                "file": "Z1-Inbox/Vitamin D from Sunlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Window Managers 1.md",
+                "file": "Z1-Inbox/Vitamin D from Sunlight.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Window Managers 1.md"
+                "file": "Z1-Inbox/Vitamin D from Sunlight.md"
               }
             }
           },
@@ -309,12 +296,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aaee39decec6483c",
+  "active": "73f46191a4f64bd5",
   "lastOpenFiles": [
+    "Motors.md",
+    "Economics.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Kicking a football to fly.md",
     "Window Managers 1.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
-    "Economics.md",
+    "FOSS Software.md",
     "Personal/Knowledge/Music.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
     "Z1-Inbox/Why cryptocurrencies may not be necessary.md",
@@ -345,8 +334,6 @@
     "Finite Element Method.md",
     "Types of Politics.md",
     "Things I don't understand.md",
-    "Transfer Function.md",
-    "To Learn.md",
     "_assets",
     "Tutorials",
     "Z1-Inbox/Fusion 360",

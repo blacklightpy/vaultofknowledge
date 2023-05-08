@@ -1,5 +1,7 @@
 - GNOME Extensions
-	- Vitals, Extensions, PieMenu, Compiz Windows Effect, Burn My Desktop, GSConnect, Cube Desktop, AppIndicator and KStatusNotifierItem Support, Dash to Dock, Blur My Shell
+	- Vitals, Extensions, PieMenu, Compiz Windows Effect, Burn My Desktop, GSConnect, Cube Desktop, AppIndicator and KStatusNotifierItem Support, Dash to Dock, Blur My Shell, Alphabetical App Grid, Battery Time, Bedtime Mode, Extension List, Gtk4-DING, Tray Icons: Reloaded, Just Perfection, Aylur's Widgets, Pano Clipboard Manager
+	- Systemd Manager, Easy Docker Containers
+	- ChatGPT GNOME Desktop Extension
 
 1. Gaming
 	1. Lutris
