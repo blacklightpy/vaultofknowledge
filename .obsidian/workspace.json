@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aaee39decec6483c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Window Managers 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Window Managers 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "Window Managers 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "Window Managers 1.md"
               }
             }
           },
@@ -295,12 +308,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "aaee39decec6483c",
   "lastOpenFiles": [
+    "Z1-Inbox/Why cryptocurrencies may not be necessary.md",
+    "Window Managers 1.md",
+    "Window Managers.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Desktop Environments.md",
     "Kicking a football to fly.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
-    "Window Managers.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
@@ -316,7 +332,6 @@
     "_images/Xfce Rice 2.png",
     "Rice Showcase.md",
     "Desktop Environment Showcase.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Windowing.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
     "Compositors.md",
@@ -331,7 +346,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Comparison of Photometric and Radiometric values.md",
-    "Z1-Inbox/Why cryptocurrencies may not be necessary.md",
     "_assets",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
