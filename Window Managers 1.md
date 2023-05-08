@@ -3,15 +3,15 @@ A window manager is the program that handles displaying the content of GUI appli
 
 Window managers can be divided based on their style as: Tiling, Stacking and Dynamic.
 
-There are two main displaying systems in UNIX-Like operating systems: [[X WIndowing System]] (or X) and the newer [[Wayland]]. For other operating systems, see [[Windowing Systems]].
+There are two main displaying systems in UNIX-Like operating systems: [X WIndowing System](X%20WIndowing%20System.md) (or X) and the newer [Wayland](Wayland.md). For other operating systems, see [Windowing Systems](Windowing%20Systems.md).
 
-In [[X WIndowing System]]:
-Display Server > [[Compositors|Compositor]] > Window Manager
+In [X WIndowing System](X%20WIndowing%20System.md):
+Display Server > [Compositor](Compositors.md) > Window Manager
 
 Compositing Window Mangers are Window Managers with an integrated compositor.
 A desktop environment shell has a window manager, compositor and other panels, docks and widgets running on an X display server.
 
-In [[Wayland]]:
+In [Wayland](Wayland.md):
 Wayland takes a combined approach to the display ecosystem.
 
 The display server, window manager and compositor are a single program, called a compositor.
@@ -20,9 +20,9 @@ A desktop environment shell has a compositor and and other panels, docks and wid
 ## Components
 ### Dash (/ App Menu / Launcher)
 
-| Windows 8 Start Menu    | Android Launcher (Pixel)        | GNOME Dash (Mine, with Blur My Shell extension) | MacOS Launchpad          | Deepin 15.11 Dash          |
-| ----------------------- | ------------------------------- | ----------------------------------------------- | ------------------------ | -------------------------- |
-| ![[Windows 8 Dash.png]] | ![[Stock Android Launcher.png]] | ![[My GNOME Dash.png]]                          | ![[MacOS Launchpad.png]] | ![[Deepin 15.11 Dash.png]] |
+| Windows 8 Start Menu                      | Android Launcher (Pixel)                                  | GNOME Dash (Mine, with Blur My Shell extension) | MacOS Launchpad                           | Deepin 15.11 Dash                               |
+| ----------------------------------------- | --------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- | ----------------------------------------------- |
+| ![Windows 8 Dash](Windows%208%20Dash.png) | ![Stock Android Launcher](Stock%20Android%20Launcher.png) | ![My GNOME Dash](My%20GNOME%20Dash.png)         | ![MacOS Launchpad](MacOS%20Launchpad.png) | ![Deepin 15.11 Dash](Deepin%2015.11%20Dash.png) |
 
 ### Dock (/ Panel / Task bar)
 They are conventionally placed at the bottom or at the left.
@@ -30,20 +30,20 @@ I used horizontal screenshots to show them without having to scroll too much.
 
 #### Examples
 
-| OS                              | Screenshot                               |
-| ------------------------------- | ---------------------------------------- |
-| Windows 7 Taskbar               | ![[Windows 7 Taskbar.png]]               |
-| GNOME Dash to Dock (Dock Mode)  | ![[GNOME Dash to Dock (Dock Mode).png]]  |
-| GNOME Dash to Dock (Panel Mode) | ![[GNOME Dash to Dock (Panel Mode).png]] |
-| GNOME Dash to Panel             | ![[GNOME Dash to Panel.png]]             |
-| Plank Dock (app)                | ![[Plank Dock (app).png]]                |
-| Pantheon Dock                   | ![[Pantheon Dock.png]]                   |
+| OS                              | Screenshot                                                                        |
+| ------------------------------- | --------------------------------------------------------------------------------- |
+| Windows 7 Taskbar               | ![Windows 7 Taskbar](Windows%207%20Taskbar.png)                                   |
+| GNOME Dash to Dock (Dock Mode)  | ![GNOME Dash to Dock (Dock Mode)](GNOME%20Dash%20to%20Dock%20(Dock%20Mode).png)   |
+| GNOME Dash to Dock (Panel Mode) | ![GNOME Dash to Dock (Panel Mode)](GNOME%20Dash%20to%20Dock%20(Panel%20Mode).png) |
+| GNOME Dash to Panel             | ![GNOME Dash to Panel](GNOME%20Dash%20to%20Panel.png)                             |
+| Plank Dock (app)                | ![Plank Dock (app)](Plank%20Dock%20(app).png)                                     |
+| Pantheon Dock                   | ![Pantheon Dock](Pantheon%20Dock.png)                                             |
 
 Here are some vertical screenshots, anyway:
 
-| Windows 10                             | Ubuntu Dock                     | GNOME Dash to Dock (Dock Mode)                     | GNOME Dash to Dock (Panel Mode)                     | GNOME Dash to Panel                     |
-| -------------------------------------- | ------------------------------- | -------------------------------------------------- | --------------------------------------------------- | --------------------------------------- |
-| ![[Windows 10 Taskbar - Vertical.png]] | ![[Ubuntu Dock - Vertical.png]] | ![[GNOME Dash to Dock (Dock Mode) - Vertical.png]] | ![[GNOME Dash to Dock (Panel Mode) - Vertical.png]] | ![[GNOME Dash to Panel - Vertical.png]] |
+| Windows 10                                                                  | Ubuntu Dock                                                 | GNOME Dash to Dock (Dock Mode)                                                                            | GNOME Dash to Dock (Panel Mode)                                                                             | GNOME Dash to Panel                                                             |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ![Windows 10 Taskbar - Vertical](Windows%2010%20Taskbar%20-%20Vertical.png) | ![Ubuntu Dock - Vertical](Ubuntu%20Dock%20-%20Vertical.png) | ![GNOME Dash to Dock (Dock Mode) - Vertical](GNOME%20Dash%20to%20Dock%20(Dock%20Mode)%20-%20Vertical.png) | ![GNOME Dash to Dock (Panel Mode) - Vertical](GNOME%20Dash%20to%20Dock%20(Panel%20Mode)%20-%20Vertical.png) | ![GNOME Dash to Panel - Vertical](GNOME%20Dash%20to%20Panel%20-%20Vertical.png) |
 
 ### Bar (/ Panel / Status bar)
 They are conventionally placed at the top. Some window managers include a bar with them.
