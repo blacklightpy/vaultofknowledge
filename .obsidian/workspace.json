@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86679afee149355b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Process Design Kit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics.md",
+                "file": "Process Design Kit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics.md",
+                "file": "Process Design Kit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics.md"
+                "file": "Process Design Kit.md"
               }
             }
           },
@@ -271,8 +284,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a5ecce42e46f29c3",
+  "active": "86679afee149355b",
   "lastOpenFiles": [
+    "Process Design Kit.md",
+    "Economics.md",
     "Steps encountered when installing Void.md",
     "Resources/Open-Source Tools.md",
     "Resources/Decentralized Technologies.md",
@@ -292,7 +307,6 @@
     "Neofetch alternatives.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/PID Control.md",
     "Converting Distro Looks.md",
-    "Economics.md",
     "Motors.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Methods in Fluid Dynamics.md",
@@ -308,7 +322,6 @@
     "History/Civilizations/Cradles of Civilization.md",
     "Z1-Inbox/Fusion 360/Sketchnoting.md",
     "Z1-Inbox/Fusion 360/Resistors.md",
-    "Z1-Inbox/Fusion 360/PCBs.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
