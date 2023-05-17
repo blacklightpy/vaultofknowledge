@@ -112,12 +112,12 @@
             }
           },
           {
-            "id": "86679afee149355b",
+            "id": "d088bd7a81172074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process Design Kit.md",
+                "file": "Free Software Index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process Design Kit.md",
+                "file": "Free Software Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process Design Kit.md",
+                "file": "Free Software Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process Design Kit.md"
+                "file": "Free Software Index.md"
               }
             }
           },
@@ -284,10 +284,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "86679afee149355b",
+  "active": "d088bd7a81172074",
   "lastOpenFiles": [
-    "Process Design Kit.md",
     "Economics.md",
+    "Free Software Index.md",
+    "Process Design Kit.md",
     "Steps encountered when installing Void.md",
     "Resources/Open-Source Tools.md",
     "Resources/Decentralized Technologies.md",
@@ -321,7 +322,6 @@
     "History/History.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Z1-Inbox/Fusion 360/Sketchnoting.md",
-    "Z1-Inbox/Fusion 360/Resistors.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
