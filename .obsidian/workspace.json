@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Resources/Decentralized Technologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Resources/Decentralized Technologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steps encountered when installing Void.md",
+                "file": "Resources/Decentralized Technologies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steps encountered when installing Void.md"
+                "file": "Resources/Decentralized Technologies.md"
               }
             }
           },
@@ -285,6 +285,8 @@
   },
   "active": "72ccb4f025ab6e43",
   "lastOpenFiles": [
+    "Resources/Open-Source Tools.md",
+    "Steps encountered when installing Void.md",
     "_images/i3 Screenshot 1.png",
     "_images/Zorin OS Screenshot 2.png",
     "_images/Zorin OS Screenshot 1.png",
@@ -295,13 +297,11 @@
     "_images/X Windowing System Wikipedia Overview.png",
     "_images/Windows 8 Dash.png",
     "_images/Windows 7 Taskbar.png",
-    "_images/Windows 10 Taskbar - Vertical.png",
     "Operating System Good-to-haves.md",
     "Next generation filesystems.md",
     "Network Management.md",
     "Neofetch alternatives.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/PID Control.md",
-    "Steps encountered when installing Void.md",
     "Converting Distro Looks.md",
     "Economics.md",
     "Motors.md",
