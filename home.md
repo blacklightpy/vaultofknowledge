@@ -27,7 +27,7 @@ The GitHub repository for this page is available at https://github.com/blackligh
 >    
 >    **What's functional, and how to use:**
 > - There is a search bar for quick access.
-> - All notes are propely visible in my [GitHub repo](github.com/blacklightpy/Obsidian-Notes-backup)
+> - All notes are propely visible in my [[github.com/blacklightpy/Obsidian-Notes-backup|GitHub repo]]
 > - Folders are at the bottom of the index. 👉 represents subfolders.
 > - Subfolders three levels deep are not listed in the index. Those notes can be found in the graph and using the search bar.
 >   

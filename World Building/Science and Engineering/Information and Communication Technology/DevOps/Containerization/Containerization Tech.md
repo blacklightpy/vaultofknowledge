@@ -25,7 +25,7 @@ Containers
 - LXD (Manager/Hypervison for Containers (LXC) and VMs (QEMU), Waydroid
 
 - Docker, Podman, Kubernetes (was based on Docker, now uses containerd), Openshift
-- Toolbox, buildah
+- Toolbox, buildah, Distrobox
 
 ** "Docker images" are actually OCI compatible images
 ### Container Runtimes

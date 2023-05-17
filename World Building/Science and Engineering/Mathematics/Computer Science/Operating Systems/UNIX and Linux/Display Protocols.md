@@ -1,4 +1,4 @@
-X11
+X11 (Part of X Windowing System)
 Wayland
 Mir
 

@@ -4,5 +4,5 @@
 ### Examples
 (Rough screenshots)
 From Dolphin Design's TinyML Edge AI Platform page: 
-mW: ![[Pasted image 20221126234720.png]]
-microJ/frame: ![[Pasted image 20221126234736.png]]
+mW: ![[MobileNet Power Usage in mW.png]]
+microJ/frame: ![[MobileNet Power Usage in Energy per Frame.png]]

@@ -6,6 +6,6 @@ $a^*$ and $b^*$ - the four [[Unique Colours]] of human vision: red, green, blue 
 
 CIELAB produces colours that are more [[Uniform Colour Spaces|perceptually linear]] than other colour spaces.
 
-It is defined with respect to a [[white point]], for which CIE recommends the [[D65 Standard Illuminant]].
+It is defined with respect to a [[White Point]], for which CIE recommends the [[D65 Standard Illuminant]].
 
 The $a^*$ and $b^*$ values are unbounded, and can easily exceed $\pm$ 150 to cover the entire colour gamut. But software implementations often trim the values. For example, in integer math, a range of -128 to 127 is chosen.

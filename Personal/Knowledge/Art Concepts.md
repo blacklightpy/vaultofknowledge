@@ -4,4 +4,4 @@
 [[Personal/Knowledge/Colour Theory]]
 [[Colour Perception]]
 [[Colour Schemes]]
-[[Graphics]]
+[[Personal/Knowledge/Graphics]]

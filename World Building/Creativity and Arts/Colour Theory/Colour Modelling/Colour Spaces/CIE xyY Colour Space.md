@@ -4,4 +4,4 @@ In the conversion, the X and Z [[Tristimulus]] values are coverted to [[Chromati
 
 This allows all colours to be represented as in 2-Dimensions using a chromaticity diagram, which is just the cross section of xyY space without considering the Y components.
 
-Mathemtically, the colours of the chromaticity diagram occupies a region of the [[real projective plane]].
+Mathemtically, the colours of the chromaticity diagram occupies a region of the [[Real Projective Plane]].

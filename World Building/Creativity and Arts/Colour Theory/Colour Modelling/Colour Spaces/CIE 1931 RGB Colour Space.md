@@ -11,5 +11,5 @@ $G=\int_{\lambda}S(\lambda)\bar{g}(\lambda)d\lambda$
 $B=\int_{\lambda}S(\lambda)\bar{b}(\lambda)d\lambda$
 
 where $\lambda\in [380, 780]$,
-$S(\lambda)$ is the [[spectral power distribution]] function of the colour source
+$S(\lambda)$ is the [[Spectral Power Distribution]] function of the colour source
 and $\bar{r}(\lambda)$, $\bar{g}(\lambda)$ and $\bar{b}(\lambda)$ are the colour matching functions in the standard observer

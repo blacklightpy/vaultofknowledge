@@ -1,0 +1,1 @@
+Flatpaks don't run on BSD because it doesn't have cgroups.

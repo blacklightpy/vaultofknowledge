@@ -5,5 +5,6 @@
 - [ ] Rust
 - [ ] Carbon
 - [ ] Go
-- [ ] etc.
+- [ ] Lisp
+- [ ] Lua
 

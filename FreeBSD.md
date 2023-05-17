@@ -1,0 +1,1 @@
+All information about FreeBSD can be found in the FreeBSD Handbook

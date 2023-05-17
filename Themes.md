@@ -1,0 +1,1 @@
+A theme consists of a colour palette.

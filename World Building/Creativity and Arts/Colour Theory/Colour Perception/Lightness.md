@@ -1,4 +1,4 @@
-Also known as luminance or intensity of a colour. It is the visual perception of the [[Luminance]] ($L$) of an object. In [[colorimetry]] and [[colour appearance models]], lightness is a prediction of how an illuminated colour will appear to a standard observer. While luminance is a linear measurement of light, lightness is a linear prediction of the human perception of light.
+Also known as luminance or intensity of a colour. It is the visual perception of the [[Luminance]] ($L$) of an object. In [[Colorimetry]] and [[Colour Appearance Models]], lightness is a prediction of how an illuminated colour will appear to a standard observer. While luminance is a linear measurement of light, lightness is a linear prediction of the human perception of light.
 
 But human vision's lightness perception is non-linear relative to light, so we have to use some alternative for perceptual lightness. Change of luminance can change the colour of light.
 
@@ -18,4 +18,4 @@ $Y=1.2219V-0.23111V^2+0.23951V^3-0.021009V^4+0.0008404V^5$
 ## 1976 CIELAB
 [[CIELAB]] uses the following formula:
 $L^*=116(\frac{Y}{Y_n})^\frac{1}{3}-16$
-where $Y_n$ is the [[CIE 1931 XYZ Colour Space]] Y tristimulus value of the reference [[white point]] (the n subscript suggests "normalized") and is subject to the restriction $\frac{Y}{Y_n}>0.01$. Pauli removes this restriction by computing a linear extrapolation which maps $\frac{Y}{Y_n}=0$ to $L^*=0$ and is tangent to the formula above at the point at which the linear extension takes effect.
+where $Y_n$ is the [[CIE 1931 XYZ Colour Space]] Y tristimulus value of the reference [[White Point]] (the n subscript suggests "normalized") and is subject to the restriction $\frac{Y}{Y_n}>0.01$. Pauli removes this restriction by computing a linear extrapolation which maps $\frac{Y}{Y_n}=0$ to $L^*=0$ and is tangent to the formula above at the point at which the linear extension takes effect.

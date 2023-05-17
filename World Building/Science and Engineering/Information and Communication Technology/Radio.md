@@ -1,4 +1,4 @@
-Radio is the technology of communicating through [[radio waves]].
+Radio is the technology of communicating through [[Radio Waves]].
 
 Signal Standards:
 - [[International Telecommunication Union]]

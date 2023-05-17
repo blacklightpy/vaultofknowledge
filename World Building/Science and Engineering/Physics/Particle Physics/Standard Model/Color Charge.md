@@ -1,1 +1,1 @@
-They are a property of quarks and gluons that is related to the particles' [[strong interactions]] in the field of [[Quantum Chromodynamics]]. Color charge exists rather only in equations of physical mathematics than in real space. 
+They are a property of quarks and gluons that is related to the particles' [[Strong Interactions]] in the field of [[Quantum Chromodynamics]]. Color charge exists rather only in equations of physical mathematics than in real space. 

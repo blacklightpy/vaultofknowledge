@@ -6,11 +6,11 @@ They are subatomics particles with fractional spin quantum numbers. They obey Fe
 
 ### [[Bosons]]
 They are subatomics particles with integer spin quantum numbers. They obey Bose-Einstein statistics. They are:
-- [[Gauge Bosons]]: [[Photons]], [[W and Z bosons]], Eight types of [[Gluons]], [[Gravitons]] (hypothetical)
+- [[Gauge Bosons]]: [[Photons]], [[W and Z Bosons]], Eight types of [[Gluons]], [[Gravitons]] (hypothetical)
 - [[Scalar Bosons]]: [[Higgs Boson]]
 
 ### [[Hadrons]]
-They are [[composite particles]] made by two or more quarks held together by [[strong Interactions]]. Each hadron must fall under the category of either a boson or a fermion. They are of two types:
+They are [[Composite Particles]] made by two or more quarks held together by [[Strong Interactions]]. Each hadron must fall under the category of either a boson or a fermion. They are of two types:
 - [[Baryons]]
 - [[Mesons]]
 

@@ -1,10 +1,13 @@
 [
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-day-planner",
   "obsidian-math-plus",
   "3d-graph",
   "obsidian-style-settings",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-git",
+  "obsidian-discordrpc",
+  "obsidian-link-converter",
+  "webpage-html-export"
 ]

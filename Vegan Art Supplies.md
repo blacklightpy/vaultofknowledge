@@ -1,0 +1,1 @@
+While learning about colours, I learned that most pigments and dyes are made from animal cruelty. So I have to make a repository of vegan art supplies, which are a thing in the market.

@@ -1,15 +1,15 @@
 They are colours that cannot be normally seen.
 
 ## Opponent Processes
-The opponent colours in the [[opponent processes]] theory cannot be seen simultaneously.
+The opponent colours in the [[Opponent Processes]] theory cannot be seen simultaneously.
 
 ## Imaginary Colours
-[[Imaginary Colours]] are the colours that cannot be produced physically, but can be done so mathematically in a colour space. When defining colour spaces, since the gamut defined by three [[primary colours]], they result in a colour triangle, which cannot cover all the real colours. The gamut can be increased by selecting more than three real primary colours, but since the region of real colours is not a polygon, there will always be some colours at the edge left out. These colours are included by selecting three points outside the gamut, which are imaginary colours as the primary colours. This gamut contains the so-called imaginary colours.
+[[Imaginary Colours]] are the colours that cannot be produced physically, but can be done so mathematically in a colour space. When defining colour spaces, since the gamut defined by three [[Primary Colours]], they result in a colour triangle, which cannot cover all the real colours. The gamut can be increased by selecting more than three real primary colours, but since the region of real colours is not a polygon, there will always be some colours at the edge left out. These colours are included by selecting three points outside the gamut, which are imaginary colours as the primary colours. This gamut contains the so-called imaginary colours.
 
 No object can have these colours because it requires the cells in the eyes to be stimulated one at a time, which cannot be done.
 
 ### How to see them
-Be smart about your [[opponent processes]]. To see a green greener than normal greens, you will need to find a heavily saturated red and a heavily saturated green. Stare at the red for as long as you can, and then look at the green. The red receptors will be too fatigued to do their job and will be inhibited by the green colour. So the green receptors won't have anything to counterbalance them, so you will see a greener colour.
+Be smart about your [[Opponent Processes]]. To see a green greener than normal greens, you will need to find a heavily saturated red and a heavily saturated green. Stare at the red for as long as you can, and then look at the green. The red receptors will be too fatigued to do their job and will be inhibited by the green colour. So the green receptors won't have anything to counterbalance them, so you will see a greener colour.
 
 **Examples**
 - Disney World used this effect in their design of the EPCOT Park, making pavements a particular shade of pink to tire out the red receptors so that the park's grasses look greener than usual.

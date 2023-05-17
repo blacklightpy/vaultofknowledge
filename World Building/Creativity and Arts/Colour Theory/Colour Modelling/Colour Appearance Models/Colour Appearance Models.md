@@ -4,7 +4,7 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 
 # Phenomena to Capture
 - Chromatic adaptation
-	- It is the ability of humans to distinguish a [[White Point]] (or [[Colour Temperature]]) of an illuminating light source when observing a reflecting object. For example, a white paper looks white no matter whether the illumination is blueish or yellowish.
+	- It is the ability of humans to discount a [[White Point]] (or [[Colour Temperature]]) of an illuminating light source when observing a reflecting object. For example, a white paper looks white no matter whether the illumination is blueish or yellowish.
 	- This is one of the most basic and most important aspect of all colour appearance phenomena
 	- So a chromatic adaptation transform (CAT) that is used to model this behaviour is central to any CAM.
 - Hue Appearance
@@ -13,14 +13,14 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 - Brightness appearance
 - Spatial Phenomena or [[Optical Illusions]]
 	- They only affect certain areas of an image, and this has to do with the way the human brain interprets information contextually instead of as raw colours
-	- They are hard to model because of their contextuality, and CAMs that try to do this are called [[image colour appearance models]] (iCAM).
+	- They are hard to model because of their contextuality, and CAMs that try to do this are called [[Image Colour Appearance Models]] (iCAM).
 ## Implementations
 - [[CIELAB]] (Technically a colour space, but it was the first approach to building a CAM)
-	- It uses the wrong [[von Kries Transform]] by performing it on the [[CIE 1931 XYZ Colour Space|XYZ colour space]] directly instead of changing to the [[LMS Colour Space]] first for more precise results
+	- It uses the wrong [[von Kries transform]] by performing it on the [[CIE 1931 XYZ Colour Space|XYZ colour space]] directly instead of changing to the [[LMS Colour Space]] first for more precise results
 - Nayatani et al. model
 - Hunt model
 - RLAB
-	- Unlike [[CIELAB]], it uses a proper [[von Kries Transform]]
+	- Unlike [[CIELAB]], it uses a proper [[von Kries transform]]
 - LLAB
 - CIECAM97s (was popular until [[CIECAM02]] arrived)
 - IPT (It is well suited for gamut mapping)

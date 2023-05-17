@@ -3,4 +3,4 @@ It is a field that deals with graphic representation of data and information. It
 It is also the study of visual representation of abstract data to reinforce human cognition.
 
 It is also one of the steps in [[Data Science]].
-Data and information has its roots in [[Statistics]] and is generally considered a branch of [[descriptive statistics]].
+Data and information has its roots in [[Statistics]] and is generally considered a branch of [[Descriptive Statistics]].

@@ -1,3 +1,5 @@
+TODO: Add instructions on enabiling other services like elogind, socklog-void, ntpd, etc.
+
 - Configuring WiFi using built in wpa_supplicant (or wpa_cli for interactive use)
 	- Configure SSID `wpa_passphrase <ssid> >> /etc/wpa_supplicant/wpa_supplicant.conf`
 	- Enter Password
@@ -76,6 +78,7 @@
 				- `exec pipewire&`
 				- `exec pipewire-pulse&`
 - If using GNOME, add some cool extensions
+	- PieMenu - For Pie Menu
 	- Dash to Dock - For a dock like macOS or Ubuntu
 	- Cube Desktop - for cube desktop layout switcher
 	- Burn my Windows - for burning window effect
@@ -84,6 +87,8 @@
 	- GSConnect - For sync with Phone
 	- Vitals - For panel status (RAM, CPU, network, etc.)
 	- Extensions - an extension toggle manager
+	- Blur My Shell
+	- Pop Shell / Forge / Tiling Assistant / Material Shell (For tiling window management)
 - Other apps you need (preinstalled in Void when installing gnome and gnome-apps)
 	- GNOME Tweaks
 	- GNOME Extension Manager
