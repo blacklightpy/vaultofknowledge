@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d088bd7a81172074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Software Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -200,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Software Index.md",
+                "file": "Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Software Index.md",
+                "file": "Economics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -240,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Software Index.md"
+                "file": "Economics.md"
               }
             }
           },
@@ -284,10 +271,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d088bd7a81172074",
+  "active": "a5ecce42e46f29c3",
   "lastOpenFiles": [
-    "Free Software Index.md",
+    "Principles of Mechanics.md",
+    "Torque.md",
     "Economics.md",
+    "Free Software Index.md",
     "Process Design Kit.md",
     "Steps encountered when installing Void.md",
     "Resources/Open-Source Tools.md",
@@ -320,8 +309,6 @@
     "History/Civilizations/Civilizations.md",
     "Literature/Legalese.md",
     "History/History.md",
-    "History/Civilizations/Cradles of Civilization.md",
-    "Z1-Inbox/Fusion 360/Sketchnoting.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
