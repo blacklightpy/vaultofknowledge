@@ -136,9 +136,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aff0516185158514",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Vitamin D from Sunlight.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Vitamin D from Sunlight.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Vitamin D from Sunlight.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -296,11 +306,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "73f46191a4f64bd5",
+  "active": "aff0516185158514",
   "lastOpenFiles": [
+    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Motors.md",
     "Economics.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "Kicking a football to fly.md",
     "Window Managers 1.md",
     "FOSS Software.md",
