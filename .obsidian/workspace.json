@@ -136,19 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aff0516185158514",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -287,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,8 +295,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aff0516185158514",
+  "active": "13612a4352378df3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/PID Control.md",
+    "Torque.md",
+    "Process Design Kit.md",
+    "Principles of Mechanics.md",
+    "Free Software Index.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Motors.md",
     "Economics.md",
@@ -338,12 +333,6 @@
     "Windowing.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md",
     "Compositors.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Wayland.md",
-    "Next generation filesystems.md",
-    "Screenshots of docks placed vertically.md",
-    "Finite Element Method.md",
-    "Types of Politics.md",
-    "Things I don't understand.md",
     "_assets",
     "Tutorials",
     "Z1-Inbox/Fusion 360",

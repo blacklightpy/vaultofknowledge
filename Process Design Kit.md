@@ -1,0 +1,1 @@
+Process Design Kit, or PDK is the set of files used in the semiconductor industry to model a fabrication process for the design tools used to design an [[Integrated Circuit Chips|integrated circuit]].
