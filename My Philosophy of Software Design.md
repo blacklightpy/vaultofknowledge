@@ -1,0 +1,4 @@
+- Store data in binary files and databases
+- Philosophise modularity
+- The most efficient design is the most intuitive design
+- Provide safety to the user in matters of privacy
