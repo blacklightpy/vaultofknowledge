@@ -278,7 +278,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,7 +297,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13612a4352378df3",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Display Managers.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
