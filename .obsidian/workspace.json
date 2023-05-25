@@ -138,13 +138,13 @@
             }
           },
           {
-            "id": "0ce5487df9a4b67b",
+            "id": "bc3740fe9d510eb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar of Programming Languages.md",
-                "mode": "source",
+                "file": "Window Managers 1.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -205,8 +205,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammar of Programming Languages.md",
+                "file": "Window Managers 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammar of Programming Languages.md",
+                "file": "Window Managers 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -274,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grammar of Programming Languages.md"
+                "file": "Window Managers 1.md"
               }
             }
           },
@@ -291,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,16 +308,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0ce5487df9a4b67b",
+  "active": "bc3740fe9d510eb7",
   "lastOpenFiles": [
+    "Kicking a football to fly.md",
+    "Window Managers 1.md",
+    "Pasted image 20230507211947.png.md",
     "Grammar of Programming Languages.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Init Systems.md",
-    "Kicking a football to fly.md",
     "Display Managers.md",
     "My Philosophy of Software Design.md",
     "Window Manager Showcase.md",
-    "Window Managers 1.md",
     "Window Managers.md",
     "Differences in Distros.md",
     "Economics.md",
@@ -341,7 +340,6 @@
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
     "_images/Continuous Integration, Delivery and Deployment Diagram.png",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
     "_images/MobileNet Power Usage in Energy per Frame.png",
     "_images/MobileNet Power Usage in mW.png",
     "_images/Pasted image 20221231202609.png",
