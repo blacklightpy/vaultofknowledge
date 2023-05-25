@@ -146,9 +146,6 @@ toggles:
           match_keys: []
           exclude_keys: []
           include_subfolders: []
-          exclude_subfolders:
-            - .git
-            - obs.html
           exclude_files:
             - not_created.html
             - index.html
