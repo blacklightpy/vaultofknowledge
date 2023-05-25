@@ -316,7 +316,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,7 +335,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "178c7909c158a7e4",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Pasted image 20230507211947.png.md",
     "Window Managers 1.md",
