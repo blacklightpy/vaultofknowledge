@@ -277,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,9 +297,10 @@
   },
   "active": "13612a4352378df3",
   "lastOpenFiles": [
+    "Free Wordpress WSIWYG Builders.md",
+    "Kicking a football to fly.md",
     "Window Managers 1.md",
     "Window Managers.md",
-    "Kicking a football to fly.md",
     "Free Software Index.md",
     "Init Systems.md",
     "Untitled.md",
@@ -323,7 +323,6 @@
     "Principles of Mechanics.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Motors.md",
-    "FOSS Software.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
