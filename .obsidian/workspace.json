@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kicking a football to fly.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kicking a football to fly.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
               }
             }
           },
@@ -278,7 +278,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,7 +297,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13612a4352378df3",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Init Systems.md",
     "Kicking a football to fly.md",
