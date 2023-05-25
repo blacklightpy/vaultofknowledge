@@ -60,7 +60,6 @@ toggles:
   process_all: true
   verbose_printout: true
   debug_filetree_keys: false
-  extended_logging: false
   allow_duplicate_filenames_in_root: true
   warn_on_skipped_image: true
   no_clean: false
