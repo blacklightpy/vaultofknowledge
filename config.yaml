@@ -1,5 +1,4 @@
 obsidian_entrypoint_path_str: vaultofknowledge/home.md
-log_output_folder_path_str: output/log
 included_folders: []
 exclude_glob:
   - /.obsidian
