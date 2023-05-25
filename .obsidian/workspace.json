@@ -278,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,8 +296,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "13612a4352378df3",
   "lastOpenFiles": [
+    "Init Systems.md",
+    "Kicking a football to fly.md",
     "Display Managers.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "My Philosophy of Software Design.md",
@@ -307,7 +308,6 @@
     "Window Managers.md",
     "Differences in Distros.md",
     "Economics.md",
-    "Kicking a football to fly.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md",
     "conflict-files-obsidian-git.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/PID Control.md",
@@ -333,7 +333,6 @@
     "_images/Pasted image 20221231202609.png",
     "_images/X Windowing System Wikipedia Overview.png",
     "_images/Pasted image 20230430180144.png",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "_images/Xfce Rice 2.png",
     "_assets",
     "Tutorials",
