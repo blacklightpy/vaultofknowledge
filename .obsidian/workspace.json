@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d95e97db9bbf098f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Software Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Software Index.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Software Index.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Software Index.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -290,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,14 +296,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d95e97db9bbf098f",
+  "active": "13612a4352378df3",
   "lastOpenFiles": [
+    "Window Managers 1.md",
+    "Window Managers.md",
+    "Kicking a football to fly.md",
+    "Free Software Index.md",
     "Init Systems.md",
     "Untitled.md",
-    "Kicking a football to fly.md",
     "Motors - To Read.md",
     "What are Codecs?.md",
-    "Window Managers 1.md",
     "What is a codec?.md",
     "Pasted image 20230507211947.png.md",
     "Grammar of Programming Languages.md",
@@ -323,7 +313,6 @@
     "Display Managers.md",
     "My Philosophy of Software Design.md",
     "Window Manager Showcase.md",
-    "Window Managers.md",
     "Differences in Distros.md",
     "Economics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md",
@@ -332,7 +321,6 @@
     "Torque.md",
     "Process Design Kit.md",
     "Principles of Mechanics.md",
-    "Free Software Index.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Motors.md",
     "FOSS Software.md",
