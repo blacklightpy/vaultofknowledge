@@ -192,7 +192,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Kicking a football to fly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Kicking a football to fly.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
+                "file": "Kicking a football to fly.md"
               }
             }
           },
@@ -277,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,10 +296,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "13612a4352378df3",
   "lastOpenFiles": [
-    "My Philosophy of Software Design.md",
+    "Display Managers.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "My Philosophy of Software Design.md",
     "Window Manager Showcase.md",
     "Window Managers 1.md",
     "Window Managers.md",
@@ -333,7 +334,6 @@
     "_images/Pasted image 20230430180144.png",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "_images/Xfce Rice 2.png",
-    "Rice Showcase.md",
     "_assets",
     "Tutorials",
     "Z1-Inbox/Fusion 360",
