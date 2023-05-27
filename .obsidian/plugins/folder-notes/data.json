@@ -13,8 +13,8 @@
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
-  "folderNoteName": "{{folder_name}}",
+  "folderNoteName": "Index",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
-  "newFolderNoteName": "{{folder_name}}"
+  "newFolderNoteName": "Index"
 }

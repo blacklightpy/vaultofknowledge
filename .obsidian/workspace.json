@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Philosophy/Philosophy.md",
+                "file": "World Building/Philosophy/Index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,28 +125,20 @@
             }
           },
           {
-            "id": "47d33b6cf70296ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "f0afb2df831cc9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -305,37 +297,36 @@
   },
   "active": "f0afb2df831cc9b8",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
+    "fadfas.canvas",
     "Index.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Index.md",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
-    "Personal/Personal.md",
-    "Resources/Resources.md",
-    "Personal/Toolkits/Toolkits.md",
-    "Retro/Retro.md",
-    "Personal/Toolkits/Social Medias/Social Medias.md",
-    "Personal/Tips/Tips.md",
-    "Personal/Task List/Task List.md",
-    "Personal/Productivity/Productivity.md",
-    "Personal/Leisure/Leisure.md",
-    "Personal/Knowledge/Knowledge.md",
-    "Personal/Customization/Customization.md",
-    "Personal/Creative and Recreational/Creative and Recreational.md",
-    "Literature/Literature.md",
-    "Ideas and References/Ideas and References.md",
-    "Culture/Culture.md",
-    "Biology/Biology.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/TcGen's Guide on Agile.md",
-    "AVIASYS/Reading on Agile/Reading on Agile.md",
-    "AVIASYS/Testing Software/Testing Software.md",
-    "AVIASYS/AVIASYS.md",
+    "Personal/Index.md",
+    "Resources/Index.md",
+    "Personal/Toolkits/Index.md",
+    "Retro/Index.md",
+    "Personal/Toolkits/Social Medias/Index.md",
+    "Personal/Tips/Index.md",
+    "Personal/Task List/Index.md",
+    "Personal/Productivity/Index.md",
+    "Personal/Leisure/Index.md",
+    "Personal/Knowledge/Index.md",
+    "Personal/Customization/Index.md",
+    "Personal/Creative and Recreational/Index.md",
+    "Literature/Index.md",
+    "Ideas and References/Index.md",
+    "Culture/Index.md",
+    "Biology/Index.md",
+    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Index.md",
+    "AVIASYS/Reading on Agile/Index.md",
+    "AVIASYS/Testing Software/Index.md",
+    "AVIASYS/Index.md",
     "Economics.md",
     "World Building/World Building.md",
     "World Building/World Building.canvas",
-    "fadfas.canvas",
-    "History/Civilizations/Civilizations.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
