@@ -110,6 +110,11 @@ toggles:
       enabled: true
       placement: inside folder
       naming: Index
+    navbar_links:
+      - name: Home
+        link: index.html
+      - name: Science and Engineering
+        link: World Building/Science and Engineering/Science and Engineering.html
     eraser:
       enabled: true
     breadcrumbs:
