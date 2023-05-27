@@ -268,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,7 +287,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "a444c167a93ba105",
   "lastOpenFiles": [
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Economics.md",
