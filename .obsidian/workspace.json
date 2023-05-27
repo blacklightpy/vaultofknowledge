@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94844602c87034ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Science and Engineering.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map of Folders.md",
+                "file": "World Building/Science and Engineering/Science and Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map of Folders.md",
+                "file": "World Building/Science and Engineering/Science and Engineering.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map of Folders.md"
+                "file": "World Building/Science and Engineering/Science and Engineering.md"
               }
             }
           },
@@ -264,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,10 +295,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "94844602c87034ec",
   "lastOpenFiles": [
-    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "World Building/Science and Engineering/Science and Engineering.md",
     "Map of Folders.md",
+    "Z1-Inbox/Vitamin D from Sunlight.md",
     "History/Index.md",
     "fadfas.canvas",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Index.md",
@@ -314,7 +327,6 @@
     "AVIASYS/Testing Software/Index.md",
     "AVIASYS/Index.md",
     "Economics.md",
-    "World Building/World Building.md",
     "World Building/World Building.canvas",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
