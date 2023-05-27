@@ -123,17 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86483dcdf11ea5ee",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,6 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Motors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,6 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Motors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +246,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Motors.md"
+              }
             }
           },
           {
@@ -268,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,7 +282,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "86483dcdf11ea5ee",
+  "active": "9ceb588880a799ac",
   "lastOpenFiles": [
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "World Building/Science and Engineering/Science and Engineering.md",
