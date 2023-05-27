@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "History/Index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "History/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "History/Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "History/Index.md"
               }
             }
           },
@@ -277,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,8 +298,8 @@
   },
   "active": "f0afb2df831cc9b8",
   "lastOpenFiles": [
-    "fadfas.canvas",
     "Index.md",
+    "fadfas.canvas",
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Index.md",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
