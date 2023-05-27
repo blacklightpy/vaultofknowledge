@@ -268,8 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,13 +286,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "2617886a30c9064b",
   "lastOpenFiles": [
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Economics.md",
     "World Building/World Building.md",
     "World Building/World Building.canvas",
-    "Untitled.canvas",
+    "fadfas.canvas",
     "History/Civilizations/Civilizations.md",
     "History/History.md",
     "Kicking a football to fly.md",
