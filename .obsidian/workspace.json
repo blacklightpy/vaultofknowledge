@@ -128,8 +128,13 @@
             "id": "2617886a30c9064b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retro/Retro.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -207,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retro/Retro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,6 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retro/Retro.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +259,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retro/Retro.md"
+              }
             }
           },
           {
@@ -288,6 +297,25 @@
   },
   "active": "2617886a30c9064b",
   "lastOpenFiles": [
+    "Personal/Toolkits/Social Medias/Social Medias.md",
+    "Retro/Retro.md",
+    "Personal/Toolkits/Toolkits.md",
+    "Personal/Tips/Tips.md",
+    "Personal/Task List/Task List.md",
+    "Personal/Productivity/Productivity.md",
+    "Personal/Leisure/Leisure.md",
+    "Personal/Knowledge/Knowledge.md",
+    "Personal/Customization/Customization.md",
+    "Personal/Creative and Recreational/Creative and Recreational.md",
+    "Personal/Personal.md",
+    "Literature/Literature.md",
+    "Ideas and References/Ideas and References.md",
+    "Culture/Culture.md",
+    "Biology/Biology.md",
+    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/TcGen's Guide on Agile.md",
+    "AVIASYS/Reading on Agile/Reading on Agile.md",
+    "AVIASYS/Testing Software/Testing Software.md",
+    "AVIASYS/AVIASYS.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Economics.md",
     "World Building/World Building.md",
@@ -297,24 +325,6 @@
     "History/History.md",
     "Kicking a football to fly.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "Free Wordpress WSIWYG Builders.md",
-    "Window Managers 1.md",
-    "Window Managers.md",
-    "Free Software Index.md",
-    "Init Systems.md",
-    "Untitled.md",
-    "Motors - To Read.md",
-    "What are Codecs?.md",
-    "What is a codec?.md",
-    "Pasted image 20230507211947.png.md",
-    "Grammar of Programming Languages.md",
-    "Display Managers.md",
-    "My Philosophy of Software Design.md",
-    "Window Manager Showcase.md",
-    "Differences in Distros.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md",
-    "conflict-files-obsidian-git.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/PID Control.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",

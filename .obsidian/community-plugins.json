@@ -10,6 +10,7 @@
   "obsidian-discordrpc",
   "obsidian-link-converter",
   "webpage-html-export",
-  "folder-notes",
-  "waypoint"
+  "waypoint",
+  "obsidian-collapse-all-plugin",
+  "folder-note-plugin"
 ]
