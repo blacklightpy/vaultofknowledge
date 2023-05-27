@@ -125,20 +125,28 @@
             }
           },
           {
-            "id": "cc14337e183d1e8e",
+            "id": "47d33b6cf70296ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0afb2df831cc9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Personal.md",
-                "mode": "source",
+                "file": "Index.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -212,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Personal.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Personal.md",
+                "file": "Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Personal.md"
+                "file": "Index.md"
               }
             }
           },
@@ -295,11 +303,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc14337e183d1e8e",
+  "active": "f0afb2df831cc9b8",
   "lastOpenFiles": [
-    "Resources/Resources.md",
-    "Personal/Personal.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
+    "Index.md",
+    "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
+    "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
+    "World Building/Science and Engineering/Engineering/Aerospace Engineering",
     "Z1-Inbox/Vitamin D from Sunlight.md",
+    "Personal/Personal.md",
+    "Resources/Resources.md",
     "Personal/Toolkits/Toolkits.md",
     "Retro/Retro.md",
     "Personal/Toolkits/Social Medias/Social Medias.md",
@@ -323,8 +336,6 @@
     "World Building/World Building.canvas",
     "fadfas.canvas",
     "History/Civilizations/Civilizations.md",
-    "History/History.md",
-    "Kicking a football to fly.md",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
     "_images/Pasted image 20221230133215.png",
@@ -341,9 +352,6 @@
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering",
-    "netlify.toml_disabled",
-    "deployvault.ps1",
-    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "_images/02 Boom, Boom, Boom, Boom!!.m4a"
+    "netlify.toml_disabled"
   ]
 }
