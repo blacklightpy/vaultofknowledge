@@ -1,0 +1,20 @@
+{
+  "syncFolderName": true,
+  "ctrlKey": true,
+  "altKey": false,
+  "hideFolderNote": false,
+  "templatePath": "",
+  "autoCreate": false,
+  "enableCollapsing": false,
+  "excludeFolders": [],
+  "showDeleteConfirmation": true,
+  "underlineFolder": true,
+  "allowWhitespaceCollapsing": false,
+  "underlineFolderInPath": true,
+  "openFolderNoteOnClickInPath": true,
+  "openInNewTab": false,
+  "folderNoteName": "{{folder_name}}",
+  "folderNoteType": ".md",
+  "disableFolderHighlighting": false,
+  "newFolderNoteName": "{{folder_name}}"
+}

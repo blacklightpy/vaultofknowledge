@@ -9,5 +9,7 @@
   "obsidian-git",
   "obsidian-discordrpc",
   "obsidian-link-converter",
-  "webpage-html-export"
+  "webpage-html-export",
+  "folder-notes",
+  "waypoint"
 ]
