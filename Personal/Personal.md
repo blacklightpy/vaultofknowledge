@@ -1,6 +1,77 @@
-# Personal Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+# Personal
+
+## Table of Contents
+%% Begin Waypoint %%
+- **[[Creative and Recreational]]**
+	- [[3D File Formats]]
+	- [[3D Modelling]]
+	- [[Aesthetics]]
+	- [[Blender]]
+	- [[Books]]
+	- [[Cartography]]
+	- [[Clothing]]
+	- [[Colours I like]]
+	- [[Computer Aided Design]]
+	- [[Design]]
+	- [[Engineering]]
+	- [[Games and Activities]]
+	- [[Graphics]]
+	- [[LaTeX]]
+	- [[Math Rendering]]
+	- [[Maya]]
+	- [[Nature]]
+	- [[Nostalgia]]
+	- [[Playlists]]
+	- [[RPG Development]]
+	- [[Scents]]
+	- [[To Learn]]
+	- [[Video Editing]]
+- **[[Customization]]**
+	- [[Obsidian Plugins and Tools]]
+	- [[Obsidian Settings]]
+	- [[Obsidian Themes]]
+	- [[Optimization Tools]]
+- [[French]]
+- [[Ideas for business]]
+- **[[Knowledge]]**
+	- [[Art Concepts]]
+	- [[Building Structures]]
+	- [[Colour Schemes]]
+	- [[Colour Theory]]
+	- [[Concepts]]
+	- [[Graphics]]
+	- [[Literature]]
+	- [[Music]]
+	- [[P2P]]
+	- [[Photo Editing]]
+	- [[Photography]]
+- **[[Leisure]]**
+	- [[Animes]]
+	- [[Games]]
+	- [[Movies]]
+	- [[TV Shows]]
+- [[Personal Website Ideas]]
+- **[[Productivity]]**
+	- [[Essential Planners]]
+	- [[Knowledge Management]]
+	- [[Productivity Tips]]
+	- [[Setting Zones on PC]]
+- **[[Task List]]**
+	- [[Hello Worlds]]
+	- [[To Fill]]
+- **[[Tips]]**
+	- [[Notion Tips]]
+	- [[Presentation Tips]]
+	- [[Studying Code]]
+- **[[Toolkits]]**
+	- [[Note Taking Tools]]
+	- [[Notion Tools]]
+	- **[[Social Medias]]**
+		- [[For Visual Content]]
+	- [[Software Toolkit]]
+	- [[Tools and Extensions]]
+	- [[Web Extensions]]
+- [[words I learned today]]
+- [[Zettelkasten]]
+
+%% End Waypoint %%
