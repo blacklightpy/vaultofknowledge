@@ -107,13 +107,13 @@ toggles:
       enabled: false
       folder: obs.html/export
     folder_notes:
-      enabled: false
-      placement: outside folder
-      naming: folder name
+      enabled: true
+      placement: inside folder
+      naming: Index
     eraser:
       enabled: true
     breadcrumbs:
-      enabled: false
+      enabled: true
     graph:
       enabled: true
       templates:
