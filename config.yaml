@@ -50,7 +50,11 @@ html_url_prefix: '/vaultofknowledge'
 html_template_path_str: ''
 html_custom_inclusions: []
 html_custom_footer_inclusions: []
-navbar_links: []
+navbar_links:
+  - name: Home
+    link: index.html
+  - name: Science and Engineering
+    link: World Building/Science and Engineering/Science and Engineering.html
 file_exports: []
 toggles:
   compile_md: true
@@ -110,11 +114,6 @@ toggles:
       enabled: true
       placement: inside folder
       naming: Index
-    navbar_links:
-      - name: Home
-        link: index.html
-      - name: Science and Engineering
-        link: World Building/Science and Engineering/Science and Engineering.html
     eraser:
       enabled: true
     breadcrumbs:
