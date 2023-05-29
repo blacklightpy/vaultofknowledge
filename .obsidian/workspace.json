@@ -123,9 +123,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceabbac9427a90aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "21430c926966f2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to use firewalld.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -199,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "How to use firewalld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "How to use firewalld.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
+                "file": "How to use firewalld.md"
               }
             }
           },
@@ -283,8 +304,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a444c167a93ba105",
+  "active": "21430c926966f2da",
   "lastOpenFiles": [
+    "How to use firewalld.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Economics.md",
     "Motors.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
@@ -313,8 +336,6 @@
     "Culture/Index.md",
     "Biology/Index.md",
     "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Index.md",
-    "AVIASYS/Reading on Agile/Index.md",
-    "AVIASYS/Testing Software/Index.md",
     "World Building/World Building.canvas",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
