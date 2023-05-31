@@ -264,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,6 +285,7 @@
   },
   "active": "cfc7c188fc9532f5",
   "lastOpenFiles": [
+    "My Philosophy of Software Design.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
     "Technical Drawing.md",
     "How to use firewalld.md",
@@ -313,7 +315,6 @@
     "Literature/Index.md",
     "Ideas and References/Index.md",
     "Culture/Index.md",
-    "Biology/Index.md",
     "World Building/World Building.canvas",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
