@@ -123,9 +123,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f0e2acd92011f6d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -283,10 +293,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cfc7c188fc9532f5",
+  "active": "5f0e2acd92011f6d",
   "lastOpenFiles": [
-    "My Philosophy of Software Design.md",
+    "Blog Posts.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
+    "My Philosophy of Software Design.md",
     "Technical Drawing.md",
     "How to use firewalld.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
@@ -314,7 +325,6 @@
     "Personal/Creative and Recreational/Index.md",
     "Literature/Index.md",
     "Ideas and References/Index.md",
-    "Culture/Index.md",
     "World Building/World Building.canvas",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",
