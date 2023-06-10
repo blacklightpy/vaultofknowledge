@@ -123,9 +123,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6ccd9c7404d924c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +207,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Vitamin D from Sunlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +223,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Vitamin D from Sunlight.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -246,9 +252,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z1-Inbox/Vitamin D from Sunlight.md"
-              }
+              "state": {}
             }
           },
           {
@@ -283,11 +287,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cfc7c188fc9532f5",
+  "active": "e6ccd9c7404d924c",
   "lastOpenFiles": [
+    "Z1-Inbox/Vitamin D from Sunlight.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Fourier Analysis.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/State Observers.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/PID Control.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Impulse Response.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Lyapunov Exponent.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Digital Filters.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Linear Time Invariant System.md",
     "Device Trees.md",
     "Blog Posts.md",
-    "Z1-Inbox/Vitamin D from Sunlight.md",
     "My Philosophy of Software Design.md",
     "Technical Drawing.md",
     "How to use firewalld.md",
@@ -305,16 +319,6 @@
     "Personal/Index.md",
     "Resources/Index.md",
     "Personal/Toolkits/Index.md",
-    "Retro/Index.md",
-    "Personal/Toolkits/Social Medias/Index.md",
-    "Personal/Tips/Index.md",
-    "Personal/Task List/Index.md",
-    "Personal/Productivity/Index.md",
-    "Personal/Leisure/Index.md",
-    "Personal/Knowledge/Index.md",
-    "Personal/Customization/Index.md",
-    "Personal/Creative and Recreational/Index.md",
-    "Literature/Index.md",
     "World Building/World Building.canvas",
     "_images/Normal Sensor Quantum Efficiency.png",
     "_images/Pasted image 20221209185901.png",

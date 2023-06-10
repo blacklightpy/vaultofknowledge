@@ -193,6 +193,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Lyapunov Exponent]]
 			- [[Lyapunov Stability]]
 			- [[PID Control]]
+			- [[State Observers]]
 			- [[Transfer Function]]
 		- **Data Science**
 			- [[Data Acquisition]]
