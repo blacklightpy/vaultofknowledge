@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dye",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -283,7 +284,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cfc7c188fc9532f5",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "Optical Flow.md",
     "Z1-Inbox/Vitamin D from Sunlight.md",
