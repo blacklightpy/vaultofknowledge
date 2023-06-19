@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2321cbdb6ec2a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emulator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -187,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics.md",
+                "file": "Tasks 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics.md",
+                "file": "Tasks 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics.md"
+                "file": "Tasks 2.md"
               }
             }
           },
@@ -252,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,14 +279,19 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a5ecce42e46f29c3",
+  "active": "d2321cbdb6ec2a0c",
   "lastOpenFiles": [
+    "Tasks 2.md",
+    "Economics.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
     "Principles of Mechanics.md",
     "Torque.md",
-    "Economics.md",
     "Free Software Index.md",
     "Process Design Kit.md",
     "Steps encountered when installing Void.md",
@@ -303,10 +321,6 @@
     "Tasks.md",
     "Personal/Productivity/Setting Zones on PC.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "home.md",
-    "History/Civilizations/Civilizations.md",
-    "Literature/Legalese.md",
-    "History/History.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",

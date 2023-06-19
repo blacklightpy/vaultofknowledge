@@ -10,11 +10,11 @@ Terms: Virtualization, Sandboxes, Containers
 - systemd-nspawn - Facebook uses it
 
 
-VMS
+VMs
 -------
 Xen/KVM (uses HVM)
 QEMU (Emulator and Virtualization - Can be a hypervisor using Xen/KVM for virtualization)
-libvert (Manage multiple hypervisors and emulators (Xen, KVM, LXC, OpenVZ, Virtualbox, etc.) in an unified manner)
+libvirt (Manage multiple hypervisors and emulators (Xen, KVM, LXC, OpenVZ, Virtualbox, etc.) in an unified manner)
 GNOME Boxes (uses KVM, QEMU, libvert, SPICE), Virt-manager (GUI for libvirt)
 
 ![[Wikipedia - Virtualization Software.png]]
