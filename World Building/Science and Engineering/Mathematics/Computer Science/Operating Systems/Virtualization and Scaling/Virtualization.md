@@ -4,10 +4,8 @@
 - KVM
 
 # OS-Level Virtualizers
-- LXC
-- Chroot
-- BSD Jails
-- Docker / Podman
+- Containers - LXC, Docker, Podman
+- Jails - chroot, BSD Jails
 
 # Emulators
 - QEMU

@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea18f48541a1502c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks 2.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks 2.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks 2.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md"
               }
             }
           },
@@ -283,7 +296,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d2321cbdb6ec2a0c",
+  "active": "ea18f48541a1502c",
   "lastOpenFiles": [
     "Tasks 2.md",
     "Economics.md",
