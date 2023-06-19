@@ -123,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea18f48541a1502c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
+                "file": "Tasks 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
+                "file": "Tasks 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md"
+                "file": "Tasks 2.md"
               }
             }
           },
@@ -296,12 +283,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ea18f48541a1502c",
+  "active": "d2321cbdb6ec2a0c",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Configuration.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
     "Tasks 2.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "Economics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
     "Principles of Mechanics.md",
     "Torque.md",
@@ -332,8 +321,6 @@
     "Project - Motor Workflow.md",
     "Untitled.md",
     "Tasks.md",
-    "Personal/Productivity/Setting Zones on PC.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
