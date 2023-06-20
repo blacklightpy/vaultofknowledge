@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emulator",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -285,9 +285,12 @@
   },
   "active": "d2321cbdb6ec2a0c",
   "lastOpenFiles": [
+    "Poetry.md",
+    "Music Theory.md",
+    "Personal/Knowledge/Music.md",
+    "Tasks 2.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Configuration.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
-    "Tasks 2.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "Economics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
@@ -318,9 +321,6 @@
     "Motors.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Methods in Fluid Dynamics.md",
-    "Project - Motor Workflow.md",
-    "Untitled.md",
-    "Tasks.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
