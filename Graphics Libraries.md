@@ -41,3 +41,10 @@
 
 - Linux
 	- Uses X11 or Wayland
+	- Kernel Driver (DRI / Vendor) + Userspace Library (Mesa 3D / Vendor)
+	- DirectX Implementations: Gallium Nine, DXVK, VKD3D
+
+- Apple
+	- Graphics API: Mantle
+	- Graphics Library: Carbon
+	- Graphics Framework: Cocoa
