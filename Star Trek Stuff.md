@@ -23,3 +23,6 @@ Subspace Field
 Tachyon Particles
 Transporter
 Plasma Conduit
+Positronic Matrix
+Duotronics
+Multitronics
