@@ -26,3 +26,4 @@ Plasma Conduit
 Positronic Matrix
 Duotronics
 Multitronics
+Trilithium Resin
