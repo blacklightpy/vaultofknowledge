@@ -1,0 +1,14 @@
+- Hardware Abstraction API: OpenGL, Vulkan
+- OpenGL/Vulkan implementations: 2D: Graphics Card Drivers | 3D: Mesa, DirectX
+- 3D GUI Libraries:
+	- ImGui (3D Apps)
+	- SFML (Multimedia Library; Low userbase; uses modern C++ and OOP)
+	- SDL (Low Level / Pixel manipulation)
+		- If using a graphics API (OpenGL/Vulkan), it works better with OpenGL
+		- No networking built-in; can use 3rd party libraries for video games
+	- GLFW (Only window and input handling)
+	- GLUT (Old and buggy; There is FreeGLUT, still, use SFML/SDL/GLFW instead)
+- Widget Frameworks:
+	- C++: Qt
+	- Python: PyQt5, wxWidgets, Tkinter, wxPython, Pyforms, Kivy
+	- Other: GTK4
