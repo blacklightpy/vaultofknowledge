@@ -12,12 +12,18 @@
 		- No networking built-in; can use 3rd party libraries for video games
 	- GLFW (Only window and input handling)
 	- GLUT (Old and buggy; There is FreeGLUT, still, use SFML/SDL/GLFW instead)
+
+> [! NOTE]
+> Probaly should organize widget frameworks as cross-platform>language and platform specific>platform>language
+ 
+ > [! NOTE]
+ > Framework and Toolkit are loosely defined words. I guess framework means something larger than a toolkit.
 - Widget Frameworks:
 	- C++: Qt
 	- Python: PyQt5, wxWidgets, Tkinter, wxPython, Pyforms, Kivy
 	- Other: GTK4
 - Widget Toolkits:
-	- Cross Platform: GTK, Qt, Tcl/Tk, ImGui, FLTK, GNUSTEP, XUL, IUP, Nuklear, Delphi
+	- Cross Platform: GTK, Qt, Tcl/Tk, ImGui, FLTK, GNUSTEP, XUL, IUP, Nuklear, Xamarin.Forms
 	- Windows only:
 		- Common Language Infrastructure (CLI; .NET): WinForms, XAML (WPF, WinUI, Silverlight), XNA
 		- C++: MFC, Active Template Library, Windows Template Library, Object Windows Library
@@ -27,7 +33,7 @@
 		- XForms, Motif, EFL
 		- Low Level: Xlib, XCB (modern alternative to Xlib), GDK (GTK backend)
 	- Apple only: Cocoa, Cocoa Touch, Xamarin.Mac, Xamarin.iOS
-	- Android: Xamarin.Android
+	- Android: Xamarin.Android, Qt for Android
 	- Java: AWT, Swing, JavaFX
 
 - Windows

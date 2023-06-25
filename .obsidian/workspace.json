@@ -125,12 +125,12 @@
             }
           },
           {
-            "id": "76bdd4065d7d4494",
+            "id": "f9234aaa9cae5780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics Libraries.md",
+                "file": "Star Trek Stuff.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics Libraries.md",
+                "file": "Star Trek Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics Libraries.md",
+                "file": "Star Trek Stuff.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics Libraries.md"
+                "file": "Star Trek Stuff.md"
               }
             }
           },
@@ -296,10 +296,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "76bdd4065d7d4494",
+  "active": "f9234aaa9cae5780",
   "lastOpenFiles": [
-    "Graphics Libraries.md",
+    "Star Trek Stuff.md",
     "Tasks 2.md",
+    "Graphics Libraries.md",
     "Poetry.md",
     "Music Theory.md",
     "Personal/Knowledge/Music.md",
@@ -333,7 +334,6 @@
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/PID Control.md",
     "Converting Distro Looks.md",
     "Motors.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
