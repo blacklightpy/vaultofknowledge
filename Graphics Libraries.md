@@ -19,14 +19,15 @@
 - Widget Toolkits:
 	- Cross Platform: GTK, Qt, Tcl/Tk, ImGui, FLTK, GNUSTEP, XUL, IUP, Nuklear, Delphi
 	- Windows only:
-		- Common Language Infrastructure (CLI): WinForms, XAML (WPF, WinUI, Silverlight), XNA
+		- Common Language Infrastructure (CLI; .NET): WinForms, XAML (WPF, WinUI, Silverlight), XNA
 		- C++: MFC, Active Template Library, Windows Template Library, Object Windows Library
 		- Pascal: Visual Component Library
 		- Low Level: Win32, UWP
 	- Linux/X11(/Wayland) only:
 		- XForms, Motif, EFL
 		- Low Level: Xlib, XCB (modern alternative to Xlib), GDK (GTK backend)
-	- MacOS only: Cocoa | Low Level: Carbon
+	- Apple only: Cocoa, Cocoa Touch, Xamarin.Mac, Xamarin.iOS
+	- Android: Xamarin.Android
 	- Java: AWT, Swing, JavaFX
 
 - Windows
