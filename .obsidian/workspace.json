@@ -123,35 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b72489ce67c54872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Leisure/Games.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a030ea2e20070ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Star Trek Stuff.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -225,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Trek Stuff.md",
+                "file": "Tasks 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Star Trek Stuff.md",
+                "file": "Tasks 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -265,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Star Trek Stuff.md"
+                "file": "Tasks 2.md"
               }
             }
           },
@@ -309,12 +283,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a030ea2e20070ef8",
+  "active": "d2321cbdb6ec2a0c",
   "lastOpenFiles": [
-    "Personal/Leisure/Games.md",
-    "Personal/Creative and Recreational/Games and Activities.md",
-    "Tasks 2.md",
     "Star Trek Stuff.md",
+    "Personal/Leisure/Games.md",
+    "Tasks 2.md",
+    "Personal/Creative and Recreational/Games and Activities.md",
     "Untitled 1.md",
     "Graphics Libraries.md",
     "Poetry.md",
