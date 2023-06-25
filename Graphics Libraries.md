@@ -1,5 +1,6 @@
-- Hardware Abstraction API: OpenGL, Vulkan
-- OpenGL/Vulkan implementations: 2D: Graphics Card Drivers | 3D: Mesa, DirectX
+- Hardware Abstraction API: OpenGL, Vulkan, DirectX
+- Graphics API implementations: 2D: DRM, GDI | 3D: Graphics Card Drivers (DirectX/OpenGL/Vulkan), Mesa3D
+	- Wayland and Direct2D don't directly access 2D drivers.
 - 3D GUI Libraries:
 	- ImGui (3D Apps)
 	- SFML (Multimedia Library; Low userbase; uses modern C++ and OOP)
@@ -12,3 +13,28 @@
 	- C++: Qt
 	- Python: PyQt5, wxWidgets, Tkinter, wxPython, Pyforms, Kivy
 	- Other: GTK4
+- Widget Toolkits:
+	- Cross Platform: GTK, Qt, Tcl/Tk, ImGui, FLTK, GNUSTEP, XUL, IUP, Nuklear, Delphi
+	- Windows only:
+		- Common Language Infrastructure (CLI): WinForms, XAML (WPF, WinUI, Silverlight), XNA
+		- C++: MFC, Active Template Library, Windows Template Library, Object Windows Library
+		- Pascal: Visual Component Library
+		- Low Level: Win32, UWP
+	- Linux/X11(/Wayland) only:
+		- XForms, Motif, EFL
+		- Low Level: Xlib, XCB (modern alternative to Xlib), GDK (GTK backend)
+	- MacOS only: Cocoa | Low Level: Carbon
+	- Java: AWT, Swing, JavaFX
+
+- Windows
+	- GDI (Original graphics interface; closely tied to Win32)
+	- GDI+ (Introduced as a successor to GDI in XP)
+	- Direct3D (3D API)
+	- Direct2D (Modern replacement for GDI based on Direct3D introduced in Windows 7)
+		- Supports fully hardware-accelerated alpha-blending, hence anti-aliasing, and also vector graphics
+	- DirectWrite (Text layout and rasterization engine; Rasterized text can be displayed with GDI/Direct2D)
+	- DXGI (Low level infrastructure for Direct3D)
+	- Window Compositing: Desktop Window Manager (DWM) was introduced in Vista. Before that, apps could draw directly to screen, causing trails when unresponsive.
+
+- Linux
+	- Uses X11 or Wayland
