@@ -3,6 +3,9 @@
 	- Wayland and Direct2D don't directly access 2D drivers.
 - 3D GUI Libraries:
 	- ImGui (3D Apps)
+	- OGRE
+	- VTK
+- Low Level GUI Libraries
 	- SFML (Multimedia Library; Low userbase; uses modern C++ and OOP)
 	- SDL (Low Level / Pixel manipulation)
 		- If using a graphics API (OpenGL/Vulkan), it works better with OpenGL
