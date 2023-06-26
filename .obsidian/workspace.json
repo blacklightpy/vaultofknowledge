@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d821870c76634b96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -293,7 +280,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "2b3d7927497573eb",
   "lastOpenFiles": [
     "Personal/Leisure/Games.md",
     "Personal/Knowledge/Music.md",
