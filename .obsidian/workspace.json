@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "containerization",
+                "query": "COMPOSIT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Tasks 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Tasks 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
+                "file": "Tasks 2.md"
               }
             }
           },
@@ -281,8 +281,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "d2321cbdb6ec2a0c",
   "lastOpenFiles": [
+    "Compositing.md",
+    "Personal/Knowledge/Colour Theory.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Tools for CI and CD.md",
     "Tasks 2.md",
     "Economics.md",
@@ -308,11 +311,8 @@
     "Motors - To Read.md",
     "Star Trek Stuff.md",
     "Personal/Creative and Recreational/Games and Activities.md",
-    "Untitled 1.md",
     "Graphics Libraries.md",
     "Poetry.md",
-    "Music Theory.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Configuration.md",
     "_images/i3 Screenshot 1.png",
     "_images/Zorin OS Screenshot 2.png",
     "_images/Zorin OS Screenshot 1.png",
