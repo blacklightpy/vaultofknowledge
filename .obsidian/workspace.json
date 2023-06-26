@@ -110,19 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1036ad6002f6a7f6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -287,16 +278,19 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1036ad6002f6a7f6",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Tools for CI and CD.md",
+    "Tasks 2.md",
+    "Economics.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
     "Personal/Leisure/Games.md",
     "Personal/Knowledge/Music.md",
     "Personal/Leisure/Index.md",
-    "Tasks 2.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Index.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Index.md",
@@ -320,8 +314,6 @@
     "Poetry.md",
     "Music Theory.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Configuration.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "_images/i3 Screenshot 1.png",
     "_images/Zorin OS Screenshot 2.png",
     "_images/Zorin OS Screenshot 1.png",
