@@ -16,7 +16,7 @@ Rebirth, Reaktor, Frooty Loops, Reason, Reaper, LMMS
 - Sound Textures
 - Notes, Chords
 - Equalizer
-- Chips: Atari ST's Yamaha YM2149, Commodora Amiga's PAULA chip
+- Chips: Atari ST's Yamaha YM2149
 
 - Music Theory
 - [[Sound Engineering]]

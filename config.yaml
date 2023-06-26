@@ -1,5 +1,4 @@
 obsidian_entrypoint_path_str: vaultofknowledge/home.md
-log_output_folder_path_str: output/log
 included_folders: []
 exclude_glob:
   - /.obsidian
@@ -51,7 +50,11 @@ html_url_prefix: '/vaultofknowledge'
 html_template_path_str: ''
 html_custom_inclusions: []
 html_custom_footer_inclusions: []
-navbar_links: []
+navbar_links:
+  - name: Home
+    link: index.html
+  - name: Science and Engineering
+    link: World Building/Science and Engineering/Science and Engineering.html
 file_exports: []
 toggles:
   compile_md: true
@@ -61,7 +64,6 @@ toggles:
   process_all: true
   verbose_printout: true
   debug_filetree_keys: false
-  extended_logging: false
   allow_duplicate_filenames_in_root: true
   warn_on_skipped_image: true
   no_clean: false
@@ -109,13 +111,13 @@ toggles:
       enabled: false
       folder: obs.html/export
     folder_notes:
-      enabled: false
-      placement: outside folder
-      naming: folder name
+      enabled: true
+      placement: inside folder
+      naming: Index
     eraser:
       enabled: true
     breadcrumbs:
-      enabled: false
+      enabled: true
     graph:
       enabled: true
       templates:
@@ -146,9 +148,6 @@ toggles:
           match_keys: []
           exclude_keys: []
           include_subfolders: []
-          exclude_subfolders:
-            - .git
-            - obs.html
           exclude_files:
             - not_created.html
             - index.html

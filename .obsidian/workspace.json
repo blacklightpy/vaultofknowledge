@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "db7e5d68484d1e61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Philosophy/Philosophy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7db4139267dd603e",
             "type": "leaf",
             "state": {
@@ -123,6 +110,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d821870c76634b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 8
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "containerization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks 2.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks 2.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks 2.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md"
               }
             }
           },
@@ -255,16 +255,27 @@
             "id": "92d8ce2661a6a2dd",
             "type": "leaf",
             "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Personal/Knowledge/Music.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "2b3d7927497573eb",
+            "type": "leaf",
+            "state": {
               "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,30 +293,38 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d2321cbdb6ec2a0c",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Star Trek Stuff.md",
     "Personal/Leisure/Games.md",
+    "Personal/Knowledge/Music.md",
+    "Personal/Leisure/Index.md",
     "Tasks 2.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Index.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Index.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes/Index.md",
+    "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Index.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Index.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Index.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
+    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Index.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Engineering",
+    "Personal/Knowledge/Index.md",
+    "Personal/Index.md",
+    "Optical Flow.md",
+    "My Philosophy of Software Design.md",
+    "Motors - To Read.md",
+    "Star Trek Stuff.md",
     "Personal/Creative and Recreational/Games and Activities.md",
     "Untitled 1.md",
     "Graphics Libraries.md",
     "Poetry.md",
     "Music Theory.md",
-    "Personal/Knowledge/Music.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Configuration.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "Economics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
-    "Principles of Mechanics.md",
-    "Torque.md",
-    "Free Software Index.md",
-    "Process Design Kit.md",
-    "Steps encountered when installing Void.md",
-    "Resources/Open-Source Tools.md",
-    "Resources/Decentralized Technologies.md",
     "_images/i3 Screenshot 1.png",
     "_images/Zorin OS Screenshot 2.png",
     "_images/Zorin OS Screenshot 1.png",
@@ -316,17 +335,11 @@
     "_images/X Windowing System Wikipedia Overview.png",
     "_images/Windows 8 Dash.png",
     "_images/Windows 7 Taskbar.png",
-    "Operating System Good-to-haves.md",
-    "Next generation filesystems.md",
-    "Network Management.md",
-    "Neofetch alternatives.md",
     "Z1-Inbox/Fusion 360",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
     "World Building/Science and Engineering/Engineering/Aerospace Engineering",
     "netlify.toml_disabled",
-    "deployvault.ps1",
-    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "_images/02 Boom, Boom, Boom, Boom!!.m4a"
+    "deployvault.ps1"
   ]
 }

@@ -1,0 +1,1 @@
+Pulse Width Modulation (PWM)

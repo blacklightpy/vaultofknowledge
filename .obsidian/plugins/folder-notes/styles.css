@@ -1,0 +1,106 @@
+.fn-whitespace-stop-collapsing .nav-folder-title-content {
+    flex-grow: 1;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+.fn-whitespace-stop-collapsing .nav-folder-title {
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-right: 0;
+}
+
+.fn-whitespace-stop-collapsing .nav-folder-collapse-indicator {
+    margin-top: 4px;
+}
+
+
+.has-folder-note .nav-folder-title-content:hover,
+.has-folder-note.view-header-breadcrumb:hover {
+    cursor: pointer;
+}
+
+.folder-note-underline .has-folder-note .nav-folder-title-content {
+    text-decoration-line: underline;
+    text-decoration-color: var(--text-faint);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 1px;
+}
+
+.folder-note-underline-path .has-folder-note.view-header-breadcrumb {
+    text-decoration-line: underline;
+    text-decoration-color: var(--text-faint);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+
+
+.hide-folder-note .is-folder-note {
+    display: none;
+}
+
+.nav-folder-collapse-indicator:hover {
+    cursor: pointer;
+}
+
+.fn-exclude-folder-list-item {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem 0;
+    border-top: none;
+    padding-top: 0;
+}
+
+.fn-exclude-folder-path {
+    width: calc(100% - 20px);
+}
+
+.fn-exclude-folder-list-item .setting-item-control {
+    width: 100%;
+    justify-content: flex-end;
+    flex: 1 1 auto;
+    display: flex;
+}
+
+.fn-exclude-folder-list-item>*.last-child {
+    margin-right: 0;
+}
+
+.fn-confirmation-modal {
+    padding-bottom: 0;
+}
+
+:not(.is-phone) .fn-confirmation-modal-button {
+    margin-right: 0.7rem;
+
+}
+
+:not(.is-phone) .fn-delete-confirmation-modal-buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.fn-delete-confirmation-modal-buttons span:hover,
+.fn-delete-confirmation-modal-buttons input:hover {
+    cursor: pointer;
+}
+
+:not(.is-phone) .fn-delete-confirmation-modal-buttons .fn-confirmation-modal-button {
+    margin-left: auto;
+}
+
+:not(.is-phone) .fn-delete-confirmation-modal-buttons input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.is-phone .fn-delete-confirmation-modal-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.is-phone .fn-delete-confirmation-modal-buttons .fn-confirmation-modal-button {
+    margin-top: 10px;
+}

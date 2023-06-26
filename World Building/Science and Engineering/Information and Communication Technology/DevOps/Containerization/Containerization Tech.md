@@ -35,4 +35,3 @@ Sandboxes
 -----------
 Flatpaks, Snap, chroot, Systemd-nspawn, libvirt-sandbox
 Chroot Jail, FreeBSD Jail
-
