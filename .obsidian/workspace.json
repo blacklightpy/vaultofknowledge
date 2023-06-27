@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks 2.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -187,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks 2.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks 2.md",
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -227,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks 2.md"
+                "file": "World Building/Creativity and Arts/Colour Theory/Colour Theory.md"
               }
             }
           },
@@ -277,41 +276,42 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "d2321cbdb6ec2a0c",
   "lastOpenFiles": [
+    "History/History.md",
+    "Retro/Index.md",
+    "Resources/Index.md",
+    "Personal/Creative and Recreational/Index.md",
+    "Personal/Customization/Index.md",
+    "Personal/Knowledge/Index.md",
+    "Personal/Leisure/Index.md",
+    "Personal/Productivity/Index.md",
+    "Personal/Task List/Index.md",
+    "Personal/Tips/Index.md",
+    "Personal/Toolkits/Social Medias/Index.md",
+    "Personal/Toolkits/Index.md",
+    "Personal/Index.md",
+    "Literature/Index.md",
+    "Ideas and References/Index.md",
+    "Tasks 2.md",
+    "Culture/Index.md",
+    "AVIASYS/Testing Software/Index.md",
+    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Index.md",
+    "Biology/Index.md",
     "Compositing.md",
     "Personal/Knowledge/Colour Theory.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Tools for CI and CD.md",
-    "Tasks 2.md",
     "Economics.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Containerization Tech.md",
-    "Personal/Leisure/Games.md",
-    "Personal/Knowledge/Music.md",
-    "Personal/Leisure/Index.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Index.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Index.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes/Index.md",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Index.md",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Index.md",
-    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Index.md",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Index.md",
     "World Building/Science and Engineering/Engineering/Mechanical Engineering",
-    "Personal/Knowledge/Index.md",
-    "Personal/Index.md",
-    "Optical Flow.md",
-    "My Philosophy of Software Design.md",
-    "Motors - To Read.md",
-    "Star Trek Stuff.md",
-    "Personal/Creative and Recreational/Games and Activities.md",
-    "Graphics Libraries.md",
-    "Poetry.md",
     "_images/i3 Screenshot 1.png",
     "_images/Zorin OS Screenshot 2.png",
     "_images/Zorin OS Screenshot 1.png",

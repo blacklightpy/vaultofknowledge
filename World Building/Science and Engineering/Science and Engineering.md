@@ -56,9 +56,9 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 	- **Materials Engineering**
 		- [[Strength to Weight Ratio]]
 	- **Mechanical Engineering**
-		- [[Index]]
+		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 	- **Mechanical Manufacturing**
-		- [[Index]]
+		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 	- **Mechatronics**
 		- [[Micro Electromechanical Systems]]
 - **Engineering Resources**
@@ -127,7 +127,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- **Containerization**
 			- [[Containerization Tech]]
 			- **Docker**
-				- [[Index]]
+				- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 				- [[Useful Docker Containers]]
 				- [[Writing good Dockerfiles]]
 			- [[Kubernetes]]
@@ -139,7 +139,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Continuous Integration]]
 			- [[Tools for CI and CD]]
 		- [[DevSecOps]]
-		- [[Index]]
+		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 		- [[Microservices]]
 		- [[Quality Assurance Engineering]]
 		- **Security**
@@ -198,7 +198,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Transfer Function]]
 		- **Data Science**
 			- [[Data Acquisition]]
-			- [[Index]]
+			- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 		- **Digital Signal Processing**
 			- [[Aliasing]]
 			- **Digital Image Processing**
@@ -391,7 +391,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Windows Colour System]]
 		- [[Regular Expressions]]
 		- **Smartphones**
-			- [[Index]]
+			- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 	- [[Curve Fitting]]
 	- [[Development of Mathematics]]
 	- [[Interpolation]]
@@ -453,7 +453,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[SPICE]]
 		- [[Transistors]]
 		- **Vacuum Tubes**
-			- [[Index]]
+			- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 		- [[Vias]]
 	- [[Maxwell's Demon]]
 	- **Mechanics**
@@ -474,7 +474,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Holograms]]
 				- [[Huygen's Principle]]
 				- [[Illuminance]]
-				- [[Index]]
+				- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 				- [[Optical Density]]
 				- **Optical Instruments**
 					- [[Photodetectors]]
@@ -502,7 +502,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Force]]
 		- [[Hamiltonian Mechanics]]
 		- [[Index of Mechanics]]
-		- [[Index]]
+		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 		- [[Jerk]]
 		- [[Lagrangian Mechanics]]
 		- [[Laws of Motion]]
