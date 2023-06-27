@@ -277,13 +277,19 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 					- [[Overview of Top Deep Learning Models]]
 					- [[ResNet]]
 				- [[Unorganized AI Glossary]]
-			- **Android App Development**
-				- [[Flutter Tools]]
 			- **Android Development**
 				- [[Android Internals]]
 				- [[Android Run Time]]
 				- [[Dalvik]]
 				- [[smali]]
+			- **App Development**
+				- **Android App Development**
+					- [[Android App Frameworks]]
+				- **Cross Platform App Development**
+					- **Flutter**
+						- [[Flutter Tools]]
+			- **Browser Extension Development**
+				- [[Chrome Extensions]]
 			- [[Communication Technologies]]
 			- **Extended Reality Development**
 				- **Augmented Reality**

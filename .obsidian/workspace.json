@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md"
               }
             }
           },
@@ -268,8 +268,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b3d7927497573eb",
+  "active": "a5ecce42e46f29c3",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter/Flutter Tools.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development",
+    "Economics.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/iOS App Development",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Mobile App Development",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Cross Platform Application Development",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Browser Extension Development/Chrome Extensions.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Browser Extension Development",
     "Free Wordpress WSIWYG Builders.md",
     "Energy Production Efficiency.md",
     "FOSS Software.md",
@@ -292,14 +303,9 @@
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/DevOps.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science/Data Science.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Smartphones.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes/Vacuum Tubes.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "World Building/Science and Engineering/Engineering/Mechanical Engineering",
     "_images/i3 Screenshot 1.png",
     "_images/Zorin OS Screenshot 2.png",
     "_images/Zorin OS Screenshot 1.png",
@@ -309,12 +315,6 @@
     "_images/Xfce Rice 1.png",
     "_images/X Windowing System Wikipedia Overview.png",
     "_images/Windows 8 Dash.png",
-    "_images/Windows 7 Taskbar.png",
-    "Z1-Inbox/Fusion 360",
-    "World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineeing",
-    "World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
-    "World Building/Science and Engineering/Engineering/Aerospace Engineering",
-    "netlify.toml_disabled",
-    "deployvault.ps1"
+    "_images/Windows 7 Taskbar.png"
   ]
 }
