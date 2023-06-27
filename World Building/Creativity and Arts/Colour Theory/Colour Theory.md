@@ -1,5 +1,5 @@
 # Properties
-- Percieved Properties - Hue, Colourfulness (Saturation), Luminance
+- Perceived Properties - Hue, Colourfulness (Saturation), Luminance
 - Mixing - Additive / Subtractive - Primary and Secondary Colours
 	- Metamerism
 - [[Complementary colours]] produce a high level of contrast - this is used in art

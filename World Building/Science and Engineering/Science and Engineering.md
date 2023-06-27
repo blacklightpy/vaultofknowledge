@@ -28,7 +28,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 - **Engineering**
 	- **Aerospace Engineering**
 		- **Aeronautical Engineering**
-		- **Astronautical Engineering**
+		- **Astronautical Engineeing**
 	- **Automotive Engineering**
 		- [[Vehicles]]
 	- **Electronics Engineering**
@@ -56,9 +56,8 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 	- **Materials Engineering**
 		- [[Strength to Weight Ratio]]
 	- **Mechanical Engineering**
-		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
-	- **Mechanical Manufacturing**
-		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
+		- [[Artificial Intelligence]]
+	- **[[Mechanical Manufacturing]]**
 	- **Mechatronics**
 		- [[Micro Electromechanical Systems]]
 - **Engineering Resources**
@@ -112,7 +111,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Modulation]]
 		- [[OSI Model]]
 		- [[Pulse Width Modulation]]
-	- **DevOps**
+	- **[[DevOps]]**
 		- [[Blue Green Deployment]]
 		- [[Build Systems]]
 		- [[Canary Deployment]]
@@ -126,8 +125,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Software as a Service]]
 		- **Containerization**
 			- [[Containerization Tech]]
-			- **Docker**
-				- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
+			- **[[Docker]]**
 				- [[Useful Docker Containers]]
 				- [[Writing good Dockerfiles]]
 			- [[Kubernetes]]
@@ -139,7 +137,6 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Continuous Integration]]
 			- [[Tools for CI and CD]]
 		- [[DevSecOps]]
-		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 		- [[Microservices]]
 		- [[Quality Assurance Engineering]]
 		- **Security**
@@ -196,9 +193,8 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[PID Control]]
 			- [[State Observers]]
 			- [[Transfer Function]]
-		- **Data Science**
+		- **[[Data Science]]**
 			- [[Data Acquisition]]
-			- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 		- **Digital Signal Processing**
 			- [[Aliasing]]
 			- **Digital Image Processing**
@@ -362,6 +358,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- **Storage Devices**
 				- [[RAID]]
 		- **Operating Systems**
+			- [[Configuration]]
 			- [[Filesystems]]
 			- [[Kernel]]
 			- [[Keywords]]
@@ -387,11 +384,11 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Cluster Computing]]
 				- [[Edge Computing]]
 				- [[Emulators]]
+				- [[Virtualization]]
 			- **Windows**
 				- [[Windows Colour System]]
 		- [[Regular Expressions]]
-		- **Smartphones**
-			- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
+		- **[[Smartphones]]**
 	- [[Curve Fitting]]
 	- [[Development of Mathematics]]
 	- [[Interpolation]]
@@ -452,11 +449,10 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Semiconductor Development]]
 		- [[SPICE]]
 		- [[Transistors]]
-		- **Vacuum Tubes**
-			- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
+		- **[[Vacuum Tubes]]**
 		- [[Vias]]
 	- [[Maxwell's Demon]]
-	- **Mechanics**
+	- **[[Mechanics]]**
 		- [[cam synthesis]]
 		- [[Classical Mechanics]]
 		- **Continuum Mechanics**
@@ -465,7 +461,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Strength]]
 				- [[Stress]]
 		- **Electrodynamics**
-			- **Optics**
+			- **[[Optics]]**
 				- [[Absorbance]]
 				- [[Airy disc]]
 				- [[Black Body]]
@@ -474,7 +470,6 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Holograms]]
 				- [[Huygen's Principle]]
 				- [[Illuminance]]
-				- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 				- [[Optical Density]]
 				- **Optical Instruments**
 					- [[Photodetectors]]
@@ -502,7 +497,6 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Force]]
 		- [[Hamiltonian Mechanics]]
 		- [[Index of Mechanics]]
-		- [[World Building/Science and Engineering/Physics/Mechanics/Index]]
 		- [[Jerk]]
 		- [[Lagrangian Mechanics]]
 		- [[Laws of Motion]]
