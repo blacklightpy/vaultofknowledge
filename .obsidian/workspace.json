@@ -249,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,7 +268,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a5ecce42e46f29c3",
+  "active": "2b3d7927497573eb",
   "lastOpenFiles": [
     "Free Wordpress WSIWYG Builders.md",
     "Energy Production Efficiency.md",
