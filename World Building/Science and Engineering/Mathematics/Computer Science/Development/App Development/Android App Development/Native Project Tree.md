@@ -1,5 +1,0 @@
-- android-sdk/
-	- command-line/
-- emulator/
-- gradle/
-- 

@@ -285,7 +285,8 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- **App Development**
 				- **Android App Development**
 					- [[Android App Frameworks]]
-					- [[Native Project Tree]]
+					- [[Android SDK]]
+					- [[Minimal Project Tree]]
 				- **Cross Platform App Development**
 					- **Flutter**
 						- [[Flutter Tools]]
