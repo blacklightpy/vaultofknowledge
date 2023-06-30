@@ -16,6 +16,10 @@
 > > Immutable means operating systems that do not allow modifying the base filesystem in a normal scenario. This is good for newcomers who want to experience the system without having to know much anything about the internals of the operating system.
 > 
 
+> [!NOTE] Notes while installing it
+> You are probably not going to install them yourselves, but for the person who is installing the operating system here are some things to know.
+> 1. Most distributions will not package patented codecs and proprietary drivers by default, and some of them will ask you if you want to include them in your installation. You should choose yes, and if there wasn't such an option
+
 > [!NOTE] How to Use it
 > Every Linux distribution targeting the average user comes with the Firefox browser. But it may have trouble playing certain video files because they use patented encoding.
 > 
@@ -34,6 +38,8 @@
 > ### Installing codecs system-wide
 > #### If you are using Ubuntu
 > ##### Using Mouse
+> 1. Open Software and Updates from the applications launcher
+> 2. Under the Ubuntu Software tab, check the box that says "Software restricted by copyright or legal issues (multiverse)". Don't uncheck the others.
 > 
 > ##### If you're okay with using the Terminal
 > 1. Launch the terminal. Normally the Ctrl + Alt + T shortcut launches the terminal.
