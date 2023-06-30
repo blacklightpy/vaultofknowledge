@@ -1,3 +1,0 @@
-Spring
-Natural Frequency
-Flight

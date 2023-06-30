@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Z1-Inbox/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Z1-Inbox/Tasks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods in Fluid Dynamics.md",
+                "file": "Z1-Inbox/Methods in Fluid Dynamics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motors.md",
+                "file": "Z1-Inbox/Werewolves.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motors.md",
+                "file": "Z1-Inbox/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motors.md",
+                "file": "Z1-Inbox/Tasks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motors.md"
+                "file": "Z1-Inbox/Tasks.md"
               }
             }
           },
@@ -256,38 +256,38 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ceb588880a799ac",
+  "active": "6e5bb090bdc4e561",
   "lastOpenFiles": [
-    "What is a codec.md",
-    "Motors.md",
-    "Non-Linear Editing.md",
-    "Filter Graph.md",
+    "Z1-Inbox/Methods in Fluid Dynamics.md",
+    "Z1-Inbox/Werewolves.md",
+    "Z1-Inbox/Tasks.md",
+    "Z1-Inbox/Untitled.md",
+    "World Building/Philosophy/The importance of not knowing.md",
+    "World Building/Philosophy/Virtues.md",
+    "World Building/Philosophy/Philosophy.md",
+    "World Building/Philosophy/Epistemology.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Z1-Inbox/What is a codec.md",
+    "Z1-Inbox/Motors.md",
+    "Z1-Inbox/Non-Linear Editing.md",
+    "Z1-Inbox/Filter Graph.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
-    "Pipe and Filter Architecture.md",
+    "Z1-Inbox/Pipe and Filter Architecture.md",
     "_images/GStreamer Filter Graph Example.png",
-    "Project Slate - Reddit Alternative.md",
-    "Surround Sound Systems.md",
+    "Z1-Inbox/Project Slate - Reddit Alternative.md",
+    "Z1-Inbox/Surround Sound Systems.md",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
     "_images/7.1 Surround Sound System.png",
-    "Surround Sound Formats.md",
+    "Z1-Inbox/Surround Sound Formats.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
-    "Untitled 2.md",
-    "Untitled.md",
-    "Obsidian Notes_book.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Z1-Inbox/Untitled 2.md",
+    "Z1-Inbox/Obsidian Notes_book.md",
     "AVIASYS/Project Management Ideas.md",
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "AVIASYS/Reading on Agile/Articles on Aglie.md",
     "AVIASYS/Reading on Agile/Ideas.md",
     "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Agile Product Development.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Implementing Agile.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/What is Agile.md",
-    "AVIASYS/Selected Software Candidates.md",
-    "AVIASYS/Software Requirements.md",
-    "AVIASYS/Teams.md",
-    "AVIASYS/Testing Software/BigPicture for Jira and Trello.md",
-    "AVIASYS/Testing Software/Google Sheets.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development",

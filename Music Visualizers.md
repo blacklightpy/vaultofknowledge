@@ -1,3 +1,0 @@
-Glava
-Cava
-alsa-visualizer
