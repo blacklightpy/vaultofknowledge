@@ -271,8 +271,11 @@
   },
   "active": "ba79803de829e718",
   "lastOpenFiles": [
-    "Project Slate - Reddit Alternative.md",
+    "Filter Graph.md",
     "What is a codec.md",
+    "Pipe and Filter Architecture.md",
+    "_images/GStreamer Filter Graph Example.png",
+    "Project Slate - Reddit Alternative.md",
     "Surround Sound Systems.md",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
@@ -298,8 +301,6 @@
     "AVIASYS/Testing Software/Google Sheets.md",
     "AVIASYS/Testing Software/Jira Software.md",
     "AVIASYS/Testing Software/Linear.app.md",
-    "AVIASYS/Testing Software/LiquidPlanner.md",
-    "AVIASYS/Testing Software/Shortcut.com.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development",
@@ -315,7 +316,6 @@
     "_images/Zorin OS Screenshot 1.png",
     "_images/Xfce Screenshot 2.png",
     "_images/Xfce Screenshot 1.png",
-    "_images/Xfce Rice 2.png",
-    "_images/Xfce Rice 1.png"
+    "_images/Xfce Rice 2.png"
   ]
 }
