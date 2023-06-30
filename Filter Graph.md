@@ -9,3 +9,4 @@ For example, DirectShow is based on the Component Object Model (COM) architectur
 ## Filter Graph based software
 - GStreamer
 - DirectShow
+- AviSynth

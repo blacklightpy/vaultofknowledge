@@ -23,7 +23,7 @@ Codecs are used to encode video files into standard formats or to decode them fo
 - GStreamer - It's a multimedia framework larger than FFmpeg, used for complex pipelines
 	- It internally uses libavcodec from its "gst-libav" (name changed during the libav fork)
 - Apple Quicktime (Proprietary)
-- 
+- AviSynth - It is a filter based tool for transferring video frames from one application to another without using temporary files, also known as a frameserver. It is used in video post-production workflows for [[non-linear editing]] of videos.
 
 ## Decoders
 - ffdshow by FFMPEG
