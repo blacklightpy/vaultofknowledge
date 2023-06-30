@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to use a Linux System.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to use a Linux System.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to use a Linux System.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to use a Linux System.md"
+                "file": "Z1-Inbox/How to use a Linux System.md"
               }
             }
           },
@@ -245,12 +245,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,9 +268,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cbe524b2a160d194",
+  "active": "92d8ce2661a6a2dd",
   "lastOpenFiles": [
-    "How to use a Linux System.md",
+    "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Tasks.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z1-Inbox/Werewolves.md",
