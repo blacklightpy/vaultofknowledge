@@ -12,8 +12,10 @@ FFMPEG, libav (merged)
 
 ## Decoders
 - ffdshow by FFMPEG
-- LAV Filter / LAVFSplitter (merged with FFMPEG) - DirectShow filters for media players
+- LAV Filter / LAVFSplitter (based on libavcodec and libavformat of FFMPEG) - DirectShow filters for media players
 	- Contains Splitter and Decoder
-- Haali Media Splitter
+	- Splitters
+		- LAVFSplitter
+		- Haali Media Splitter
 
 ## Splitters
