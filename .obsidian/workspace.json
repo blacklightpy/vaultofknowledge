@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbe524b2a160d194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to use a Linux System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Tasks.md",
+                "file": "How to use a Linux System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Tasks.md",
+                "file": "How to use a Linux System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Tasks.md"
+                "file": "How to use a Linux System.md"
               }
             }
           },
@@ -256,11 +269,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e5bb090bdc4e561",
+  "active": "cbe524b2a160d194",
   "lastOpenFiles": [
+    "How to use a Linux System.md",
+    "Z1-Inbox/Tasks.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z1-Inbox/Werewolves.md",
-    "Z1-Inbox/Tasks.md",
     "Z1-Inbox/Untitled.md",
     "World Building/Philosophy/The importance of not knowing.md",
     "World Building/Philosophy/Virtues.md",
@@ -287,7 +301,6 @@
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "AVIASYS/Reading on Agile/Articles on Aglie.md",
     "AVIASYS/Reading on Agile/Ideas.md",
-    "AVIASYS/Reading on Agile/TcGen's Guide on Agile/Agile Product Development.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development",
