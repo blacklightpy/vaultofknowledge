@@ -15,7 +15,7 @@
   "includeVaultOutline": true,
   "exportPreset": "documents",
   "customLineWidth": "",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "keepNestedFolderStructure": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
@@ -24,5 +24,5 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "lastExportPath": "C:\\Users\\Blacklight\\Downloads"
+  "lastExportPath": "C:\\Users\\Blacklight\\Downloads\\Obsidian Notes_book.html"
 }

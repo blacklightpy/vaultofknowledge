@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "a5ecce42e46f29c3",
+            "id": "ba79803de829e718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Notes_book.md",
+                "file": "What is a codec.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Notes_book.md",
+                "file": "What is a codec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Notes_book.md",
+                "file": "What is a codec.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Notes_book.md"
+                "file": "What is a codec.md"
               }
             }
           },
@@ -244,7 +244,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -264,14 +265,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false
+      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a5ecce42e46f29c3",
+  "active": "ba79803de829e718",
   "lastOpenFiles": [
+    "Motors.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "Obsidian Notes_book.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "AVIASYS/Project Management Ideas.md",
     "AVIASYS/Reading on Agile/Agile for Hardware.md",
     "AVIASYS/Reading on Agile/Articles on Aglie.md",
@@ -292,10 +297,6 @@
     "AVIASYS/To discuss.md",
     "AVIASYS/Using Jira.md",
     "Awesome Awesomes.md",
-    "BigPicture.md",
-    "Biology/Brownian Motors.md",
-    "Biology/Colour Perception.md",
-    "Biology/Prions.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development",
