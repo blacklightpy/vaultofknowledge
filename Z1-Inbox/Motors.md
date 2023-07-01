@@ -7,7 +7,6 @@ Electric Motors work on the concept that accelerated charges produce a change in
 - Lorentz Force: F = q.vxB (Fleming's LHR and RHR is used because in LHR, I moves along the external charge velocity v; whereas RHR is used in generators, so no external charge)
 - Stacked coils add up fields, making a magnet which you can see intuitively.
 
-
 ## 3-Phase Power
 In three phase AC, a rotating magnetic field is generated, but with a constant power. Each phase is seperated by 120 degrees.
 
