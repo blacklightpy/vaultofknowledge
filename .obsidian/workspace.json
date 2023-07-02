@@ -84,8 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7dc62ce2361b47a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "andr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md"
               }
             }
           },
@@ -255,8 +269,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "12e3035c46da34cc",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z1-Inbox/Motors.md",
     "Z1-Inbox/What is a codec.md",
@@ -270,7 +285,6 @@
     "World Building/Philosophy/Virtues.md",
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Epistemology.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Non-Linear Editing.md",
     "Z1-Inbox/Filter Graph.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
