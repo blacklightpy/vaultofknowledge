@@ -11,9 +11,15 @@
 - Windows Subsystem for Linux - 1/2
 - Cygwin
 - MSYS2
+#### On Chromebook
+- Crostini
+- Crouton
+- Brioche
 
 ### Android
 - Anbox
+- Waydroid
+- ReDroid
 - Bluestacks/Genymotion/LDPlayer/Nox/Remix OS Player/MSI App Player
 - Android-x86/Remix OS/Phoenix OS/Prime OS/Bliss OS
 

@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a868902d5a8b6047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Motors.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md"
               }
             }
           },
@@ -256,10 +269,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ceb588880a799ac",
+  "active": "a868902d5a8b6047",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "Z1-Inbox/Motors.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Image Processing.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Diffing.md",
