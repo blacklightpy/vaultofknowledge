@@ -1,1 +1,0 @@
-Diff is short for difference, which is the change

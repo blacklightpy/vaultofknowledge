@@ -245,7 +245,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Generative Modelling Language]]
 		- [[Computers]]
 		- **Concepts**
-			- [[Diffs]]
+			- [[Diffing]]
 			- [[Image Processing]]
 		- **Data Structures**
 			- [[Associative Arrays]]
