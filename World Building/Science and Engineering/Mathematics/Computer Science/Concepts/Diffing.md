@@ -9,6 +9,10 @@ Text deltas are generally used for comparing source code files, whereas binary d
 
 # Diffing Algorithms
 - bsdiff
-- 
+- Bentley-McIlroy
+- Myer's algorithm
+- XDelta
 
 # Diff formats
+- UNIX .delta
+- VCDiff
