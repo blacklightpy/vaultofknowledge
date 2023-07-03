@@ -79,7 +79,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Field Programmable Gate Arrays]]
 		- [[GPUs]]
 		- [[Lens Mounts]]
-		- [[Z1-Inbox/Motors]]
+		- [[Motors]]
 		- [[Oscillator]]
 		- [[Quanta Image Sensors]]
 		- [[Secure Cryptoprocessor]]
@@ -192,7 +192,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Lyapunov Stability]]
 			- [[PID Control]]
 			- [[State Observers]]
-			- [[Z1-Inbox/Transfer Function]]
+			- [[Transfer Function]]
 		- **[[Data Science]]**
 			- [[Data Acquisition]]
 		- **Digital Signal Processing**
@@ -245,6 +245,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Generative Modelling Language]]
 		- [[Computers]]
 		- **Concepts**
+			- [[Diffs]]
 			- [[Image Processing]]
 		- **Data Structures**
 			- [[Associative Arrays]]
@@ -304,7 +305,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Java]]
 				- [[Webhooks]]
 			- **Graphics and GUI Development**
-				- [[Z1-Inbox/Graphics Libraries]]
+				- [[Graphics Libraries]]
 				- [[Java GUI Libraries]]
 			- [[Hacking]]
 			- [[Matrix Protocol]]
