@@ -84,22 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0dc47878452cb501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Diffing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -173,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Diffing.md",
+                "file": "Z1-Inbox/Motors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Diffing.md",
+                "file": "Z1-Inbox/Motors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Diffing.md"
+                "file": "Z1-Inbox/Motors.md"
               }
             }
           },
@@ -269,8 +256,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0dc47878452cb501",
+  "active": "9ceb588880a799ac",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Image Processing.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Diffing.md",
     "Z1-Inbox/Motors.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
@@ -296,8 +285,6 @@
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
     "Z1-Inbox/Pipe and Filter Architecture.md",
     "_images/GStreamer Filter Graph Example.png",
-    "Z1-Inbox/Project Slate - Reddit Alternative.md",
-    "Z1-Inbox/Surround Sound Systems.md",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
     "_images/7.1 Surround Sound System.png",
