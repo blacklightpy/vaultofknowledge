@@ -84,22 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a868902d5a8b6047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -173,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+                "file": "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+                "file": "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md"
+                "file": "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md"
               }
             }
           },
@@ -269,9 +256,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a868902d5a8b6047",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
     "Z1-Inbox/Motors.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Image Processing.md",
@@ -286,7 +275,6 @@
     "Z1-Inbox/What is a codec.md",
     "Z1-Inbox/Werewolves.md",
     "Z1-Inbox/How to use a Linux System.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "Z1-Inbox/Graphics Libraries.md",
     "Z1-Inbox/Tasks.md",
     "Z1-Inbox/Untitled.md",
@@ -296,7 +284,6 @@
     "World Building/Philosophy/Epistemology.md",
     "Z1-Inbox/Non-Linear Editing.md",
     "Z1-Inbox/Filter Graph.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
