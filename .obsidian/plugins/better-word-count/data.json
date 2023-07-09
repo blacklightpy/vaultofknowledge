@@ -1,7 +1,7 @@
 {
   "statusBar": [
     {
-      "prefix": "",
+      "prefix": "Vault Words:",
       "suffix": "",
       "metric": {
         "type": 2,
