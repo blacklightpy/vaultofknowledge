@@ -160,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -199,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z1-Inbox/Motors.md"
-              }
+              "state": {}
             }
           },
           {
@@ -256,8 +252,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ceb588880a799ac",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Z1-Inbox/CSS colours.md",
     "Z1-Inbox/Motors.md",
     "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
@@ -283,7 +280,6 @@
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Epistemology.md",
     "Z1-Inbox/Non-Linear Editing.md",
-    "Z1-Inbox/Filter Graph.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
