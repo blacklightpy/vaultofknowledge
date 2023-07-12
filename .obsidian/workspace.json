@@ -160,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z1-Inbox/Motors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z1-Inbox/Motors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z1-Inbox/Motors.md"
+              }
             }
           },
           {
@@ -252,7 +256,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "2b3d7927497573eb",
   "lastOpenFiles": [
     "Z1-Inbox/CSS colours.md",
     "Z1-Inbox/Motors.md",
