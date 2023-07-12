@@ -84,9 +84,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e99cd634e9b5907",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b6405ee1d48ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -160,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
+                "file": "TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
+                "file": "TIL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -200,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Motors.md"
+                "file": "TIL.md"
               }
             }
           },
@@ -256,10 +277,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b3d7927497573eb",
+  "active": "67b6405ee1d48ed2",
   "lastOpenFiles": [
-    "Z1-Inbox/CSS colours.md",
+    "TIL.md",
     "Z1-Inbox/Motors.md",
+    "Z1-Inbox/CSS colours.md",
     "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
@@ -283,7 +305,6 @@
     "World Building/Philosophy/Virtues.md",
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Epistemology.md",
-    "Z1-Inbox/Non-Linear Editing.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
