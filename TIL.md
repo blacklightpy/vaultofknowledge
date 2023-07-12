@@ -6,3 +6,4 @@
 - LLVM, JVM and .NET/Mono are similar
 
 - ConnectBot is a terminal, Termux is like a chroot
+- Android uses Toybox shell utilities
