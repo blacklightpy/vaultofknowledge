@@ -4,3 +4,5 @@
 - GCJ was GCC's compiler for Java
 
 - LLVM, JVM and .NET/Mono are similar
+
+- Connectbot is a terminal, Termux is like a chroot
