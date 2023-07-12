@@ -49,7 +49,6 @@ site_name: Vault of Knowledge
 html_url_prefix: '/vaultofknowledge'
 html_template_path_str: ''
 html_custom_inclusions:
-  - '<link rel="me" href="https://ohai.social/@ssunboyy" />'
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
