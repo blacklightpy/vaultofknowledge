@@ -257,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,7 +277,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "67b6405ee1d48ed2",
+  "active": "2b3d7927497573eb",
   "lastOpenFiles": [
     "TIL.md",
     "Z1-Inbox/Motors.md",
