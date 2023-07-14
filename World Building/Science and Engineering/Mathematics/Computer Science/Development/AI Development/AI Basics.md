@@ -18,9 +18,11 @@
 - Modular Neural Networks
 
 1. FFNNs
-	1. Multi-layer perceptron (MLP) 
-	2. Radial basis function (RBF) network 
-	3. Feedforward neural networks with ReLU activation
+	1. Perceptron
+	2. Multi-layer perceptron (MLP) 
+	3. Radial basis function (RBF) network 
+	4. Feedforward neural networks with Rectified Linear Units (ReLU) activation
+	5. Reservoir Computing (RC)
 2. CNNs
 3. RNNs 
 	1. LSTM 
@@ -30,13 +32,14 @@
 4. Transformers
 5. Modular Neural Networks
 6. Autoencoders
-	1. Variational Autoencoders
-	2. Denoising Autoencoders
-	3. Dual Avatar Autoencoders
+	1. Variational Autoencoders (VAE)
+	2. Denoising Autoencoders (DAE)
+	3. Dual Avatar Autoencoders (DAAE)
 7. Sequence to Sequence Neural Encoders (Seq2seq)
-8. Generative Adversarial Networks ()
-9. Energy-Based Architectures
-10. Variational Bayesian Inference
+8. Generative Adversarial Networks (GAN)
+9. Denoising Adversarial Networks (DAN)
+10. Energy-Based Architectures
+11. Variational Bayesian Inference
 
 # Terms
 - Frameworks
