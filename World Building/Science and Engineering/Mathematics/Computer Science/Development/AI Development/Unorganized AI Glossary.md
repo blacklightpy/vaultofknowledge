@@ -10,3 +10,8 @@ More: https://appen.com/ai-glossary/
 - Backward chaining - Where a model starts with the output and works backwards to find data that might support it.
 - Forward chaining - Where a model starts with the dataset and tries to find an output.
 - Transfer learning - Making a model do a similar task for sometime, and then returning it to doing the original task for improving accuracy.
+
+
+- Directed Acyclic Graph
+- Support Vector Machine (SVM)
+- k-Nearest Neighbour (k-NN)

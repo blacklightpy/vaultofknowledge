@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "ebbdd40e087ee4b8",
+            "id": "2891a0cd6c3de4e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -282,19 +282,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ebbdd40e087ee4b8",
+  "active": "2891a0cd6c3de4e0",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
+    "TIL.md",
+    "Z1-Inbox/CSS colours.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Inclusive Machine Learning.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Areas of AI Development.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
     "Z1-Inbox/Motors.md",
-    "TIL.md",
-    "Z1-Inbox/CSS colours.md",
     "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
@@ -309,7 +310,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z1-Inbox/What is a codec.md",
-    "Z1-Inbox/Werewolves.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",

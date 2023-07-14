@@ -6,15 +6,16 @@
 	- Perceptron
 	- Multi Layer Perceptron (MLP)
 	- Autoencoders
-- Radial Basis Function Neural Networks (RBF)
+	- Radial Basis Function Neural Networks (RBF)
 - Convolutional Neural Network (CNN)
 - Recurrent Neural Network (RNN)
 	- Long Short Term Memory (LSTM)
-	- GRU
+	- Gated Recurrent Unit (GRU)
 	- Attention based
+- Generative Adversarial Network (GAN)
 - Transformers
+- Sequence to Sequence Neural Networks (consists of two RNNs)
 - Modular Neural Networks
-
 
 # Terms
 - Frameworks
