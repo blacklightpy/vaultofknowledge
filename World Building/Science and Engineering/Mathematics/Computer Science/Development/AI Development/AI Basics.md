@@ -17,6 +17,27 @@
 - Sequence to Sequence Neural Networks (consists of two RNNs)
 - Modular Neural Networks
 
+1. FFNNs
+	1. Multi-layer perceptron (MLP) 
+	2. Radial basis function (RBF) network 
+	3. Feedforward neural networks with ReLU activation
+2. CNNs
+3. RNNs 
+	1. LSTM 
+	2. GRU
+	3. Attention based recurrent unit (ARU) 
+	4. Echo state networks (ESN)
+4. Transformers
+5. Modular Neural Networks
+6. Autoencoders
+	1. Variational Autoencoders
+	2. Denoising Autoencoders
+	3. Dual Avatar Autoencoders
+7. Sequence to Sequence Neural Encoders (Seq2seq)
+8. Generative Adversarial Networks ()
+9. Energy-Based Architectures
+10. Variational Bayesian Inference
+
 # Terms
 - Frameworks
 - Networks - Models and Networks are often used interchangeably. But mainly the difference is that algorithms are implemented on networks to create models.
