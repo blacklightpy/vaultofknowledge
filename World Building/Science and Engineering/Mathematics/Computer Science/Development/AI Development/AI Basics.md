@@ -2,12 +2,19 @@
 [[Machine Learning Frameworks]]
 
 # Types of Neural Networks
-- Convolutional Neural Network (CNN)
-- Deep Neural Network (DNN)
-- Long Short Term Memory (LSTM)
-- Artificial Neural Network (ANN)
-- Recurrent Neural Network (RNN)
 - Feed Forward Neural Network (FfNN)
+	- Perceptron
+	- Multi Layer Perceptron (MLP)
+	- Autoencoders
+- Radial Basis Function Neural Networks (RBF)
+- Convolutional Neural Network (CNN)
+- Recurrent Neural Network (RNN)
+	- Long Short Term Memory (LSTM)
+	- GRU
+	- Attention based
+- Transformers
+- Modular Neural Networks
+
 
 # Terms
 - Frameworks

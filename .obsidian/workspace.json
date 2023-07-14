@@ -86,20 +86,25 @@
             }
           },
           {
-            "id": "5e99cd634e9b5907",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "67b6405ee1d48ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TIL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebbdd40e087ee4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -181,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md"
               }
             }
           },
@@ -277,10 +282,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2b3d7927497573eb",
+  "active": "ebbdd40e087ee4b8",
   "lastOpenFiles": [
-    "TIL.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Inclusive Machine Learning.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Areas of AI Development.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
     "Z1-Inbox/Motors.md",
+    "TIL.md",
     "Z1-Inbox/CSS colours.md",
     "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
@@ -297,14 +310,6 @@
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z1-Inbox/What is a codec.md",
     "Z1-Inbox/Werewolves.md",
-    "Z1-Inbox/How to use a Linux System.md",
-    "Z1-Inbox/Graphics Libraries.md",
-    "Z1-Inbox/Tasks.md",
-    "Z1-Inbox/Untitled.md",
-    "World Building/Philosophy/The importance of not knowing.md",
-    "World Building/Philosophy/Virtues.md",
-    "World Building/Philosophy/Philosophy.md",
-    "World Building/Philosophy/Epistemology.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
