@@ -110,17 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c4ba84afe70572a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "V8.md"
+              }
             }
           },
           {
@@ -275,9 +271,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
+    "Z1-Inbox/Software Architectures.md",
+    "Z1-Inbox/Pipe and Filter Architecture.md",
     "V8.md",
+    "Z1-Inbox/Untitled.md",
+    "Z1-Inbox/Untitled 2.md",
     "TIL.md",
     "Z1-Inbox/Motors.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
@@ -300,10 +300,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Areas of AI Development.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
     "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Image Processing.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
