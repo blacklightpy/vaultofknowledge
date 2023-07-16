@@ -110,9 +110,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c4ba84afe70572a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -141,7 +149,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "document object model",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Motors.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -225,9 +231,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z1-Inbox/Motors.md"
-              }
+              "state": {}
             }
           },
           {
@@ -271,11 +275,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ceb588880a799ac",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "TIL.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "V8.md",
+    "TIL.md",
+    "Z1-Inbox/Motors.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
     "Z1-Inbox/Doubts.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
@@ -294,7 +299,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Areas of AI Development.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/ML Networks and Models.md",
-    "Z1-Inbox/Motors.md",
     "World Building/Science and Engineering/Engineering/Mechatronics/Touch Screens.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
