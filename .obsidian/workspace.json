@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06cb80babc5f6d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V8.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Antennas.md"
+                "file": "V8.md"
               }
             }
           },
@@ -284,12 +297,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "28dbc715f46a5191",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
+    "V8.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
     "Z1-Inbox/Doubts.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Some Light Terminology.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
     "_images/Pasted image 20230716175506.png",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Antenna Checks.md",
@@ -312,7 +326,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Regular Expressions.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Image Processing.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Concepts/Diffing.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
