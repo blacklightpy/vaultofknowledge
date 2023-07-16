@@ -110,9 +110,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28dbc715f46a5191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fcb91d1ac5840fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -186,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
+                "file": "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
+                "file": "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md"
+                "file": "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md"
               }
             }
           },
@@ -262,8 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,8 +307,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "2b3d7927497573eb",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Antenna Checks.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "TIL.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
@@ -307,9 +335,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/React.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Matrix Protocol.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "Z1-Inbox/Methods in Fluid Dynamics.md",
-    "Z1-Inbox/What is a codec.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
