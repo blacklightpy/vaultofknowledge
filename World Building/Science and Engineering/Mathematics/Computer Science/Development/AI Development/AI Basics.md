@@ -17,29 +17,19 @@
 - Sequence to Sequence Neural Networks (consists of two RNNs)
 - Modular Neural Networks
 
-1. FFNNs
-	1. Perceptron
-	2. Multi-layer perceptron (MLP) 
-	3. Radial basis function (RBF) network 
-	4. Feedforward neural networks with Rectified Linear Units (ReLU) activation
-	5. Reservoir Computing (RC)
-2. CNNs
-3. RNNs 
-	1. LSTM 
-	2. GRU
-	3. Attention based recurrent unit (ARU) 
-	4. Echo state networks (ESN)
-4. Transformers
-5. Modular Neural Networks
-6. Autoencoders
-	1. Variational Autoencoders (VAE)
-	2. Denoising Autoencoders (DAE)
-	3. Dual Avatar Autoencoders (DAAE)
-7. Sequence to Sequence Neural Encoders (Seq2seq)
-8. Generative Adversarial Networks (GAN)
-9. Denoising Adversarial Networks (DAN)
-10. Energy-Based Architectures
-11. Variational Bayesian Inference
+> [!NOTE] More I got from OpenAssistant's AI (have to verify):
+> 1. Feed Forward Neural Network (FfNN)
+> 	1. Feedforward neural networks with Rectified Linear Units (ReLU) activation
+> 	2. Reservoir Computing (RC)
+> 2. RNNs 
+> 	1. Echo state networks (ESN)
+> 3. Autoencoders
+> 	1. Variational Autoencoders (VAE)
+> 	2. Denoising Autoencoders (DAE)
+> 	3. Dual Avatar Autoencoders (DAAE)
+> 4. Denoising Adversarial Networks (DAN)
+> 5. Energy-Based Architectures
+> 6. Variational Bayesian Inference
 
 # Terms
 - Frameworks
