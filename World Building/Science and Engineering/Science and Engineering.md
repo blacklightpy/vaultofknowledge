@@ -232,6 +232,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Monte Carlo methods]]
 			- [[Real Time Kinematic]]
 		- **Computation**
+			- [[Abstract Machines]]
 			- [[Halting Problem]]
 			- [[High-Performance Computing]]
 			- [[High-Throughput Computing]]
@@ -239,11 +240,12 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Many-Task Computing]]
 			- [[Parallel Computing]]
 			- [[Probabilistic Turing Machine]]
+			- [[Push Down Automata]]
 			- [[Quantum Computers]]
 			- [[Quantum Turing Machine]]
+			- [[Stack Machines]]
 			- [[Theory of Computation]]
 			- [[Turing Machine]]
-			- [[Untitled]]
 		- **Computer Aided Design**
 			- [[Generative Modelling Language]]
 		- [[Computers]]
@@ -306,6 +308,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 					- [[NumPy]]
 					- [[SciPy]]
 				- [[Java]]
+				- [[Virtual Machines]]
 				- [[Webhooks]]
 			- **Graphics and GUI Development**
 				- [[Graphics Libraries]]

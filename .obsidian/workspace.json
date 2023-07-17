@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a3cebc70feffe271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -199,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Untitled.md",
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Untitled.md",
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Untitled.md"
+                "file": "V8.md"
               }
             }
           },
@@ -284,10 +271,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3cebc70feffe271",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Untitled.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Virtual Machines.md",
     "V8.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Stack Machines.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Push Down Automata.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Abstract Machines.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "Z1-Inbox/Software Architectures.md",
     "Z1-Inbox/Pipe and Filter Architecture.md",
@@ -310,9 +300,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Perception.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Inclusive Machine Learning.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Machine Vision.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Datasets.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Areas of AI Development.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",

@@ -1,0 +1,1 @@
+They can be [[Stack Machines|stack based]] or register based.
