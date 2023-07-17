@@ -3,4 +3,7 @@
 - Pine64
 	- Highlights: Pinephone, SBCs
 - Electronic Frontier Foundation
-- EU Open Source
+- FSFE
+- FSF India (sister organization of FSFE)
+- FramaSoft (French)
+	- Highlights: Peertube
