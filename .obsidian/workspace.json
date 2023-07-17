@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "TIL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "TIL.md"
               }
             }
           },
@@ -271,10 +271,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "67b6405ee1d48ed2",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Virtual Machines.md",
     "V8.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Virtual Machines.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Stack Machines.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Push Down Automata.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Abstract Machines.md",

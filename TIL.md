@@ -7,3 +7,6 @@
 
 - ConnectBot is a terminal, Termux is like a chroot
 - Android uses Toybox shell utilities
+
+- An OS controls privileged instructions, and applications can only run non-privileged instructions directly
+- Computers run on pulses, not on binary numbers. It can be colour coded instructions or even presses.
