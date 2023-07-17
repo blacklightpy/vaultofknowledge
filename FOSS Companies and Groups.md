@@ -7,3 +7,4 @@
 - FSF India (sister organization of FSFE)
 - FramaSoft (French)
 	- Highlights: Peertube
+- Liberapay
