@@ -1,0 +1,10 @@
+- Librem
+	- **Highlights**: Librem Smartphone, Purism OS, PureOS, Phosh Shell, Librem Accessories
+- Pine64
+	- **Highlights**: Pinephone, SBCs
+- Electronic Frontier Foundation (EFF)
+- FSFE
+- FSF India (sister organization of FSFE)
+- FramaSoft (French)
+	- **Highlights**: Peertube
+- Liberapay

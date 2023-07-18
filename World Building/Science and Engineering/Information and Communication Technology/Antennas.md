@@ -5,4 +5,4 @@ Antennas that radiate in all directions are known as isotropic antennas. This is
 ## Gain
 The gain of an antenna tells you it's degree of diagonality. Gain is measured in decibels relative to isotropic (dBi). An isotropic antenna has a gain of 0dBi, and antennas with a higher gain are more directional.
 
-![[Pasted image 20230716175506.png]]
+![[Antenna Gain.png]]

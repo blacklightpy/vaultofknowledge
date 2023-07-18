@@ -125,15 +125,12 @@
             }
           },
           {
-            "id": "75a2a8bd99e54736",
+            "id": "4b35ecf44e9c1004",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FOSS Companies and Groups.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "_images/Pasted image 20221230140324.png"
               }
             }
           }
@@ -212,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOSS Companies and Groups.md",
+                "file": "_images/Pasted image 20221230140324.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOSS Companies and Groups.md",
+                "file": "_images/Pasted image 20221230140324.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOSS Companies and Groups.md"
+                "file": "_images/Pasted image 20221230140324.png"
               }
             }
           },
@@ -272,13 +269,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,12 +292,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "75a2a8bd99e54736",
+  "active": "4b35ecf44e9c1004",
   "lastOpenFiles": [
-    "FOSS Companies and Groups.md",
-    "New Computer.md",
-    "TIL.md",
+    "_images/Pasted image 20221230142716.png",
+    "_images/Pasted image 20221230140324.png",
+    "_images/Canary Deployment.png",
+    "_images/Run unit tests first.png",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Testing/Tips for Testing.md",
+    "_images/Blue Green Deployment.png",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Blue Green Deployment.md",
+    "_images/Antenna Gain.png",
     "V8.md",
+    "TIL.md",
+    "Z1-Inbox/Motors.md",
+    "New Computer.md",
+    "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+    "World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
+    "World Building/Marketplace and Creations/Types of Companies.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Virtual Machines.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Stack Machines.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Push Down Automata.md",
@@ -312,20 +318,13 @@
     "Z1-Inbox/Pipe and Filter Architecture.md",
     "Z1-Inbox/Untitled.md",
     "Z1-Inbox/Untitled 2.md",
-    "Z1-Inbox/Motors.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
     "Z1-Inbox/Doubts.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Some Light Terminology.md",
-    "_images/Pasted image 20230716175506.png",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Antenna Checks.md",
-    "World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Physical Verification Signoff.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/Unorganized AI Glossary.md",
-    "Z1-Inbox/CSS colours.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
@@ -340,10 +339,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes",
     "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "_images/i3 Screenshot 1.png",
-    "_images/Zorin OS Screenshot 2.png",
-    "_images/Zorin OS Screenshot 1.png",
-    "_images/Xfce Screenshot 2.png",
-    "_images/Xfce Screenshot 1.png"
+    "_images/i3 Screenshot 1.png"
   ]
 }

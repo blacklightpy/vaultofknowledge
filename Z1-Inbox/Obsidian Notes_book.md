@@ -394,7 +394,7 @@
 
 ## Pasted image 20221230140823
 
-![[/_images/Pasted image 20221230140823.png|Pasted image 20221230140823.png]]
+![[Run unit tests first.png|Run unit tests first.png]]
 
 ---
 
@@ -410,7 +410,7 @@
 
 ## Pasted image 20221231201925
 
-![[/_images/Pasted image 20221231201925.png|Pasted image 20221231201925.png]]
+![[Blue Green Deployment.png|Blue Green Deployment.png]]
 
 ---
 
@@ -418,7 +418,7 @@
 
 ## Pasted image 20221231202609
 
-![[/_images/Pasted image 20221231202609.png|Pasted image 20221231202609.png]]
+![[Canary Deployment.png|Canary Deployment.png]]
 
 ---
 

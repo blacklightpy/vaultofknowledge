@@ -5,4 +5,4 @@ There are two production environments - blue and green. After deploying a build 
 
 In case of any big problems, users can be easily switched back to the old version by reverting the endpoint.
 
-![[Pasted image 20221231201925.png]]
+![[Blue Green Deployment.png]]
