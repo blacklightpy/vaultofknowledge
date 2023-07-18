@@ -1,5 +1,5 @@
-- Librem
-	- **Highlights**: Librem Smartphone, Purism OS, PureOS, Phosh Shell, Librem Accessories
+- Purism
+	- **Highlights**: Librem Smartphone, Liberty Laptop, PureOS, Phosh Shell, Librem OpenPGP Card
 - Pine64
 	- **Highlights**: Pinephone, SBCs
 - Electronic Frontier Foundation (EFF)

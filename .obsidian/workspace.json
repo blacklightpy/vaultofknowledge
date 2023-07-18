@@ -125,12 +125,12 @@
             }
           },
           {
-            "id": "4b35ecf44e9c1004",
+            "id": "152ad49008eaa4e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
+                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
+                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
+                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md"
+                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md"
               }
             }
           },
@@ -276,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,8 +296,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4b35ecf44e9c1004",
+  "active": "152ad49008eaa4e4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
@@ -341,7 +343,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Browser Extension Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones",
     "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes",
-    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing",
-    "_images/i3 Screenshot 1.png"
+    "World Building/Science and Engineering/Engineering/Mechanical Manufacturing"
   ]
 }
