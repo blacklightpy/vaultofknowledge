@@ -136,30 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2af93efbd1bc0a78",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a3fb648ce627de23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Identity Protocols.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -233,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identity Protocols.md",
+                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identity Protocols.md",
+                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identity Protocols.md"
+                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md"
               }
             }
           },
@@ -317,10 +296,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3fb648ce627de23",
+  "active": "152ad49008eaa4e4",
   "lastOpenFiles": [
     "Identity Protocols.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+    "New Computer.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
@@ -333,7 +313,6 @@
     "V8.md",
     "TIL.md",
     "Z1-Inbox/Motors.md",
-    "New Computer.md",
     "World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
     "World Building/Marketplace and Creations/Types of Companies.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Virtual Machines.md",
