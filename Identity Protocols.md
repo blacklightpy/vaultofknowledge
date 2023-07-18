@@ -1,3 +1,5 @@
+# Directory A
+
 # Authentication
 Used to verify a user
 
@@ -6,4 +8,7 @@ Used to verify a user
 # Authorization
 Used to authorize a user. (e.g. Any user regardless of who it is may be able to do something if they are authorized)
 
-- OAuth
+- OAuth 2.0
+
+# Authentication and Authorization
+- OpenID Connect
