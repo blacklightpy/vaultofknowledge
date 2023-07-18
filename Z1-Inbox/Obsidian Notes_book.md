@@ -386,7 +386,7 @@
 
 ## Pasted image 20221230140324
 
-![[/_images/Pasted image 20221230140324.png|Pasted image 20221230140324.png]]
+![[Comparison of Tests.png|Comparison of Tests.png]]
 
 ---
 
@@ -402,7 +402,7 @@
 
 ## Pasted image 20221230142716
 
-![[/_images/Pasted image 20221230142716.png|Pasted image 20221230142716.png]]
+![[Continuous Deployment.png|Continuous Deployment.png]]
 
 ---
 

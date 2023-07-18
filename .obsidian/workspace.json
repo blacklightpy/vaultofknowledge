@@ -128,9 +128,12 @@
             "id": "4b35ecf44e9c1004",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_images/Pasted image 20221230140324.png"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -209,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_images/Pasted image 20221230140324.png",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_images/Pasted image 20221230140324.png",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -249,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_images/Pasted image 20221230140324.png"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md"
               }
             }
           },
@@ -294,8 +297,8 @@
   },
   "active": "4b35ecf44e9c1004",
   "lastOpenFiles": [
-    "_images/Pasted image 20221230142716.png",
-    "_images/Pasted image 20221230140324.png",
+    "_images/Continuous Deployment.png",
+    "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
     "_images/Run unit tests first.png",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Testing/Tips for Testing.md",
