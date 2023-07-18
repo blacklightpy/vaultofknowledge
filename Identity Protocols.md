@@ -1,10 +1,12 @@
 # Record Keeping
 - Lightweight Directory Access Protocol (LDAP)
+- Domain Name Service (DNS)
 
 # Authentication
 Used to verify a user
 
-- Simple Authentication and Security Layer (SASL): SASL is an authentication protocol base for Apache. For example, mod_authz_ldap authentication method queries LDAP for credentials and verifies against it.
+- Simple Authentication and Security Layer (SASL): 
+	- SASL is an authentication protocol base for Apache. For example, mod_authz_ldap authentication method queries LDAP for credentials and verifies against it.
 - Security Assertion Markup Language (SAML)
 
 # Authorization
