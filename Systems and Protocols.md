@@ -31,7 +31,7 @@
 15. Storage: Magnetic Tape, Optical Disks, Mechanical Hard Disks, RAM, ROM
 16. Radio Communications: Spectrum Allocation, Power Limits, Antenna Types, ITU Standards
 17. Motor Drives: AC Motors, Brushed DC Motor, BLDC Motors (ESC Protocols)
-18. Engine Drives: By strokes (2-stroke, 4-stroke), By fuel (Gasoline, Diesel)
+18. Engine Drives: By strokes (2-stroke, 4-stroke), By fuel (Gasoline, Diesel), By design: V8, I4, 
 19. Power Systems: Geothermal, Coal, Hydroelectric, Wind, Solar, Batteries
-20. Food Systems: Vegan, Piscitarian, Eggitarian, Vegetarian, Non-Vegetarian, Bakery and Snacks, Supplements
+20. Food Systems: Vegan, Piscitarian, Eggitarian, Vegetarian, Non-Vegetarian, Bakery and Snacks, Supplements, Drinks, Fruits and Vegetables, Cooking
 21. Drugs: Medicine, Alcohol
