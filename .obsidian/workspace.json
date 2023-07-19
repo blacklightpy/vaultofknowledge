@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "document object model",
+                "query": "itu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Computer.md",
+                "file": "Z1-Inbox/Standards Organizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Computer.md",
+                "file": "Z1-Inbox/Standards Organizations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Computer.md"
+                "file": "Z1-Inbox/Standards Organizations.md"
               }
             }
           },
@@ -283,10 +283,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc1f9257c2c07133",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "V8.md",
+    "Z1-Inbox/Standards Organizations.md",
     "New Computer.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
+    "V8.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "Identity Protocols.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
@@ -315,8 +317,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
     "Z1-Inbox/Doubts.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Some Light Terminology.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
