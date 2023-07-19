@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "New Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "New Computer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "New Computer.md"
               }
             }
           },
@@ -283,8 +283,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
+    "V8.md",
     "New Computer.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "Identity Protocols.md",
@@ -297,7 +298,6 @@
     "_images/Blue Green Deployment.png",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Blue Green Deployment.md",
     "_images/Antenna Gain.png",
-    "V8.md",
     "TIL.md",
     "Z1-Inbox/Motors.md",
     "World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
