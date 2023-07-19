@@ -1,5 +1,5 @@
 1. Email: POP3, IMAP, JMAP, SMTP, DMARC, TLS
-2. Web: HTTP, TCP/IP, UDP, Layout Engine, JavaScript Engine, IPFS, DASH, FTP, SSL/TLS, XHR/AJAX, 
+2. Web: HTTP, TCP/IP, UDP, Layout Engine, JavaScript Engine, IPFS, DASH, FTP, SSL/TLS, XHR/AJAX
 3. Peer-to-Peer File Transfer Protocols: Torrent, Soulseek, DHT, UPnP
 4. Messaging: XMPP/Jabber, Matrix, Proprietary
 5. Security Systems:
@@ -29,13 +29,16 @@
 		4. Metadata Formats: ID3 tags, Exif
 7. File Systems: FAT32, NTFS, EXT4, F2FS, ZFS, BtrFS, HFS+, APFS
 8. Operating Systems: UNIX, Windows, Haiku, Symbian, KaiOS
-9. Networking: OSI Model
-10. Physical Connection Ports: Ethernet, USB, PCI, PCIe, SATA, HDMI, DisplayPort, RS-232, XT-60, JST-XH
-11. Physical Components: Transistors, FET, MOSFET
-12. Storage: Magnetic Tape, Optical Disks, Mechanical Hard Disks, RAM, ROM
-13. Radio Communications: Spectrum Allocation, Power Limits, Antenna Types, ITU Standards
-14. Motor Drives: AC Motors, Brushed DC Motor, BLDC Motors (ESC Protocols)
-15. Engine Drives: By strokes (2-stroke, 4-stroke), By fuel (Steam, Gasoline, Diesel), By design: (V8, I4, F4, W), By valvetrain, By cycle (Otto Cycle, Diesel Cycle)
-16. Power Systems: Geothermal, Coal, Hydroelectric, Wind, Solar, Batteries
-17. Food Systems: Vegan, Piscitarian, Eggitarian, Vegetarian, Non-Vegetarian, Bakery and Snacks, Supplements, Drinks, Fruits and Vegetables, Cooking
-18. Drugs: Medicine, Alcohol
+9. Core Hardware: CPU, Storage and Memory, Power Supply, 
+10. Programming: ISA based Assembly, Language with Assembly Backends, High Level Languages
+11. Networking: OSI Model
+12. Physical Connection Ports: Ethernet, USB, PCI, PCIe, SATA, HDMI, DisplayPort, RS-232, XT-60, JST-XH
+13. Physical Components: Transistors, FET, MOSFET
+14. Storage: Magnetic Tape, Optical Disks, Mechanical Hard Disks, RAM, ROM
+15. Radio Communications: Spectrum Allocation, Power Limits, Antenna Types, ITU Standards
+16. Motor Drives: AC Motors, Brushed DC Motor, BLDC Motors (ESC Protocols)
+17. Engine Drives: By strokes (2-stroke, 4-stroke), By fuel (Steam, Gasoline, Diesel), By design: (V8, I4, F4, W), By valvetrain, By cycle (Otto Cycle, Diesel Cycle)
+18. Power Systems: Geothermal, Coal, Hydroelectric, Wind, Solar, Batteries
+19. Food Systems: Vegan, Piscitarian, Eggitarian, Vegetarian, Non-Vegetarian, Bakery and Snacks, Supplements, Drinks, Fruits and Vegetables, Cooking
+20. Drugs: Medicine, Caffeine, Alcohol, Other Drugs
+21. The Scientific Method, Life and Nature.
