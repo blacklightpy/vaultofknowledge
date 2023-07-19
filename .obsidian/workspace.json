@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/What is a codec.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "protocol",
+                "query": "ccir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systems and Protocols.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systems and Protocols.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems and Protocols.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md"
               }
             }
           },
@@ -318,7 +318,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6bbad19107248468",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "Z1-Inbox/What is a codec.md",
     "Systems and Protocols.md",
