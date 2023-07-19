@@ -123,9 +123,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c891269c020bc732",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6bbad19107248468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems and Protocols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -199,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Standards Organizations.md",
+                "file": "Systems and Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Standards Organizations.md",
+                "file": "Systems and Protocols.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -239,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Standards Organizations.md"
+                "file": "Systems and Protocols.md"
               }
             }
           },
@@ -283,8 +304,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "6bbad19107248468",
   "lastOpenFiles": [
+    "Systems and Protocols.md",
     "Z1-Inbox/Standards Organizations.md",
     "New Computer.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
@@ -316,7 +338,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
     "Z1-Inbox/Doubts.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
