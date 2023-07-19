@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
+                "file": "Z1-Inbox/Video.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ccir",
+                "query": "interlaced",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,8 +213,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
+                "file": "Systems and Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
+                "file": "Systems and Protocols.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -274,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md"
+                "file": "Systems and Protocols.md"
               }
             }
           },
@@ -318,8 +317,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "Z1-Inbox/Video.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
     "Z1-Inbox/What is a codec.md",
     "Systems and Protocols.md",
     "Z1-Inbox/Standards Organizations.md",
@@ -350,8 +351,6 @@
     "Z1-Inbox/Pipe and Filter Architecture.md",
     "Z1-Inbox/Untitled.md",
     "Z1-Inbox/Untitled 2.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
