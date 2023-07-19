@@ -4,10 +4,10 @@ Codecs are used to encode audio and video files into standard formats or to deco
 
 ## Codecs to use
 
-| Type  | Open Source                       | Proprietary       |
-| ----- | --------------------------------- | ----------------- |
-| Video | VP8, Theora, x264, x265, OpenH264 | H.264, H.265, VP9 | 
-| Audio | OGG, Opus                         | LAME              |
+| Type  | Open Source                            | Proprietary  |
+| ----- | -------------------------------------- | ------------ |
+| Video | VP8, VP9, Theora, x264, x265, OpenH264 | H.264, H.265 |
+| Audio | OGG, Opus                              | LAME         |
 
 ## Codec Packs
 
