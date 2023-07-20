@@ -8,3 +8,4 @@
 - FramaSoft (French)
 	- **Highlights**: Peertube
 - Liberapay
+- Software Freedom Conservancy
