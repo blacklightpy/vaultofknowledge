@@ -1,0 +1,3 @@
+- Open Library
+- British Council Library (1800/year)
+- https://freekidsbooks.org/ (Has the Music Theory book, etc.)

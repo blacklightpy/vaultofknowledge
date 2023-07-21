@@ -136,9 +136,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c23d3a7175299bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "123254d886ba4dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free Books and Resources.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -212,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+                "file": "Free Books and Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+                "file": "Free Books and Resources.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -252,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md"
+                "file": "Free Books and Resources.md"
               }
             }
           },
@@ -296,8 +317,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a31550bf1e118cef",
+  "active": "123254d886ba4dff",
   "lastOpenFiles": [
+    "Free Books and Resources.md",
+    "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+    "Personal/Creative and Recreational/Books.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Identity Protocols.md",
     "Z1-Inbox/Systems and Protocols.md",
@@ -313,7 +337,6 @@
     "New Computer.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
     "V8.md",
-    "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
@@ -328,8 +351,6 @@
     "World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
     "World Building/Marketplace and Creations/Types of Companies.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Virtual Machines.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Stack Machines.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Computation/Push Down Automata.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
