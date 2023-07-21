@@ -16,3 +16,8 @@ Used to authorize a user. (e.g. Any user regardless of who it is may be able to 
 
 # Authentication and Authorization
 - OpenID Connect
+
+> [!NOTE] 
+> OpenID Uses JWT.
+> Also, Gitea's Demo allows entering custom OpenID URI.
+> Gitea also claims to have WebAuthn, but I haven't seen it in practice.

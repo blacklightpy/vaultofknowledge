@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "704bcf923700ab1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity Protocols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Computer.md",
+                "file": "Identity Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Computer.md",
+                "file": "Identity Protocols.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -266,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Computer.md"
+                "file": "Identity Protocols.md"
               }
             }
           },
@@ -310,8 +323,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc1f9257c2c07133",
+  "active": "704bcf923700ab1d",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Self Sovereign Identity.md",
+    "Z1-Inbox/Identity.md",
+    "Identity Protocols.md",
+    "New Computer.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "Free Books and Resources.md",
     "Z1-Inbox/Graphics Libraries.md",
@@ -320,7 +337,6 @@
     "Music Players and Streaming.md",
     "Personal/Creative and Recreational/Books.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "Identity Protocols.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
     "World Building/Creativity and Arts/Colour Theory/Working with Colours/ICC Colour Profiles.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
@@ -329,7 +345,6 @@
     "Z1-Inbox/Video.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Radiocommunication Sector.md",
     "Z1-Inbox/Standards Organizations.md",
-    "New Computer.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/International Telecommunication Union.md",
     "V8.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Deployment.md",
@@ -342,8 +357,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Blue Green Deployment.md",
     "_images/Antenna Gain.png",
     "TIL.md",
-    "Z1-Inbox/Motors.md",
-    "World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
