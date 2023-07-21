@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c819b4e066503ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/Systems and Protocols.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+                "file": "Z1-Inbox/Systems and Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+                "file": "Z1-Inbox/Systems and Protocols.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -266,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Marketplace and Creations/FOSS Companies and Groups.md"
+                "file": "Z1-Inbox/Systems and Protocols.md"
               }
             }
           },
@@ -310,8 +323,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a31550bf1e118cef",
+  "active": "c819b4e066503ebe",
   "lastOpenFiles": [
+    "Free Books and Resources.md",
+    "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "Z1-Inbox/Systems and Protocols.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
     "Identity Protocols.md",
@@ -327,11 +342,9 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
-    "Free Books and Resources.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Self Sovereign Identity.md",
     "Z1-Inbox/Identity.md",
     "New Computer.md",
-    "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "Z1-Inbox/Graphics Libraries.md",
     "Z1-Inbox/What is a codec.md",
     "Music Players and Streaming.md",
