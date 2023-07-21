@@ -18,7 +18,7 @@ Codecs are used to encode audio and video files into standard formats or to deco
 - DivX (Proprietary)
 
 ## Projects
-- FFmpeg - A multimedia toolbox
+- FFmpeg - A multimedia toolbox (includes several codecs including CCTV and arcane codecs)
 - Libav (merged with FFmpeg)
 - GStreamer - It's a multimedia framework larger than FFmpeg, used for complex pipelines
 	- It internally uses libavcodec from its "gst-libav" (name changed during the libav fork)

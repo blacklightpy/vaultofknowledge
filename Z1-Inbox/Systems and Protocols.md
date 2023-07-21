@@ -13,10 +13,10 @@
 		1. Base Systems
 			1. Colour Spaces: Rec. 601, Rec. 709, Rec. 2020, NTSC, PAL, SECAM, [[CIE Colour Spaces]]
 			2. Colour Models: RGB, Cylindrical
-		2. Raster Image Formats: JPEG, PNG, GIF, TIFF, AVIF, WebP, App-specific formats
+		2. Raster Image Formats: JPEG (.jpeg, .jpg, .jiff), PNG, GIF, TIFF, AVIF, WebP, App-specific formats
 		3. Vector Image Formats: SVG, AI
 		4. Raw Image Formats: DNG, RAW
-		5. Video Codecs: H.120, H.261, MJPEG, DV, MJPEG 2000, MPEG-4 (H.262, H.263, H.264/AVC/MPEG-4 10, H.265, H.266), VP8, VP9, Theora, Apple ProRes, AV1
+		5. Video Codecs: H.120, H.261, MJPEG, DV, MJPEG 2000, MPEG-4 (H.262, H.263, H.264/AVC/MPEG-4 10, H.265, H.266), VP8, VP9, Theora, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
 			1. Basic Algorithms: DPCM, DCT, DWT
 		6. Video Containers: MPEG-4 (MP4/MPEG-4 Part 14), Matroska (MKV, WebM), 3GP
 		7. Subtitle Formats: ASS, SRT, AST
