@@ -11,5 +11,7 @@
 - Software Freedom Conservancy
 - Internet Engineering Task Force (IETF)
 - Alliance for Open Media (AOMedia)
+- Freedesktop.org
+- Xiph.org
+	- **Highlights**: Opus, FLAC, Vorbis, Icecast, Daala (now in AV1), Theor
 - Java Community Process
-- Freedesktop
