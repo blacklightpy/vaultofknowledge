@@ -11,7 +11,7 @@
 6. Multimedia Systems: Encoding and Decoding, Compression Levels, Containers, Any Additional Processing
 	1. Visual
 		1. Base Systems
-			1. Colour Systems: Rec. 601, Rec. 709, Rec. 2020, CIELAB, CIELUV, NTSC, PAL, SECAM
+			1. Colour Spaces: Rec. 601, Rec. 709, Rec. 2020, NTSC, PAL, SECAM, [[CIE Colour Spaces]]
 			2. Colour Models: RGB, Cylindrical
 		2. Raster Image Formats: JPEG, PNG, GIF, TIFF, AVIF, WebP, App-specific formats
 		3. Vector Image Formats: SVG, AI

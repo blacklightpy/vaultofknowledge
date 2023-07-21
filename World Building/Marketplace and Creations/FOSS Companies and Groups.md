@@ -9,3 +9,5 @@
 	- **Highlights**: Peertube
 - Liberapay
 - Software Freedom Conservancy
+- Internet Engineering Task Force (IETF)
+- Alliance for Open Media (AOMedia)

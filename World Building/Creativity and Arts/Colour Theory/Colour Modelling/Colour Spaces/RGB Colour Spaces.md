@@ -1,4 +1,4 @@
-They are any [[Additive Colour Models]] based on the [[RGB Colour Model]].
+They refer to any [[Colour Space]] based on the [[RGB Colour Model]].
 
 An RGB colour space is defined by [[Chromaticity]] coordinates of red, green and blue [[Primary Colours|additive primaries]], the [[White Point]] which is usually defined by a [[Standard Illuminant]] and the [[Z1-Inbox/Transfer Function]] which is also known as the [[Tone Response Curve]] or [[Gamma Correction|Gamma]].
 
