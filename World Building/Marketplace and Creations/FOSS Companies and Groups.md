@@ -11,3 +11,5 @@
 - Software Freedom Conservancy
 - Internet Engineering Task Force (IETF)
 - Alliance for Open Media (AOMedia)
+- Java Community Process
+- Freedesktop
