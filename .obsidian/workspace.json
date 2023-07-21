@@ -138,14 +138,6 @@
             }
           },
           {
-            "id": "7c23d3a7175299bd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "123254d886ba4dff",
             "type": "leaf",
             "state": {
@@ -157,35 +149,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "53c936b14ffd530a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Inbox/Graphics Libraries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd05499d4355bedc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Inbox/Systems and Protocols.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jpeg",
+                "query": "Ogg Vorbis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,12 +205,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -260,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Systems and Protocols.md",
+                "file": "New Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Systems and Protocols.md",
+                "file": "New Computer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -300,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Systems and Protocols.md"
+                "file": "New Computer.md"
               }
             }
           },
@@ -344,17 +310,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd05499d4355bedc",
+  "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
-    "Z1-Inbox/What is a codec.md",
-    "Z1-Inbox/Graphics Libraries.md",
-    "Music Players and Streaming.md",
-    "Free Books and Resources.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
+    "Free Books and Resources.md",
+    "Z1-Inbox/Graphics Libraries.md",
+    "Z1-Inbox/Systems and Protocols.md",
+    "Z1-Inbox/What is a codec.md",
+    "Music Players and Streaming.md",
     "Personal/Creative and Recreational/Books.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Identity Protocols.md",
-    "Z1-Inbox/Systems and Protocols.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
     "World Building/Creativity and Arts/Colour Theory/Working with Colours/ICC Colour Profiles.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
