@@ -170,9 +170,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd05499d4355bedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/What is a codec.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -247,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Graphics Libraries.md",
+                "file": "Z1-Inbox/What is a codec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Graphics Libraries.md",
+                "file": "Z1-Inbox/What is a codec.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -287,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Graphics Libraries.md"
+                "file": "Z1-Inbox/What is a codec.md"
               }
             }
           },
@@ -331,8 +344,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "53c936b14ffd530a",
+  "active": "cd05499d4355bedc",
   "lastOpenFiles": [
+    "Z1-Inbox/Graphics Libraries.md",
     "Music Players and Streaming.md",
     "Free Books and Resources.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
@@ -364,7 +378,6 @@
     "TIL.md",
     "Z1-Inbox/Motors.md",
     "World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
-    "World Building/Marketplace and Creations/Types of Companies.md",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
