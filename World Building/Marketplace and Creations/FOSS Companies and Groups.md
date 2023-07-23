@@ -13,5 +13,5 @@
 - Alliance for Open Media (AOMedia)
 - Freedesktop.org
 - Xiph.org
-	- **Highlights**: Opus, FLAC, Vorbis, Icecast, Daala (now in AV1), Theor
+	- **Highlights**: Opus, FLAC, Vorbis, Icecast, Daala (now in AV1), Theora
 - Java Community Process
