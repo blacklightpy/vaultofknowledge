@@ -5,7 +5,7 @@
 5. Security Systems:
 	1. Identity: Authentication, Authorization, SASL, SAML, OAuth2, OpenID Connect, JWT, X.509 Certificates
 	2. Key types: Physical Keys, Passwords, Digital Keys
-	3. Encryption Protocols (Symmetric Key Cryptography): OpenPGP, RSA
+	3. Encryption Protocols (Symmetric Key Cryptography): OpenPGP, RSA, OMEMO
 	4. Hashing Algorithms: MD5, SHA-256, SHA-512, Blowfish, Bcrypt
 	5. Digital Signature Protocols (Asymmetric Key Cryptography): ECDSA
 6. Multimedia Systems: Encoding and Decoding, Compression Levels, Containers, Any Additional Processing
@@ -16,12 +16,12 @@
 		2. Raster Image Formats: JPEG (.jpeg, .jpg, .jiff), PNG, GIF, TIFF, AVIF, WebP, App-specific formats
 		3. Vector Image Formats: SVG, AI
 		4. Raw Image Formats: DNG, RAW
-		5. Video Codecs: H.120, H.261, MJPEG, DV, MJPEG 2000, MPEG-4 (H.262, H.263, H.264/AVC/MPEG-4 10, H.265, H.266), VP3, Theora, VP8, VP9, DNxHD, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
+		5. Video Codecs: H.120, H.261, MJPEG, DV, MJPEG 2000, ITU/MPEG (ITU H.262, ITU H.263/MPEG-4 Part 2, ITU H.264/AVC/MPEG-4 Part 10, ITU H.265/HEVC/MPEG-H Part 2, ITU H.266), VP3, Theora, VP8, VP9, DNxHD, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
 			1. Basic Algorithms: DPCM, DCT, DWT
 		6. Video Containers: MPEG-4 (MP4/MPEG-4 Part 14), Matroska (MKV, WebM), 3GP
 		7. Subtitle Formats: ASS, SRT, AST
 	3. Sound
-		1. Audio Codecs: Opus, Ogg Vorbis, AAC, MP3, AC3, FLAC, Monkey's Audio, ALAC, MPEG-Surround, AC-3, DTS, Wave
+		1. Audio Codecs: Opus, Ogg Vorbis, AAC, MP3, AC3, FLAC, Monkey's Audio, ALAC, MPEG-Surround, AC-3, DTS, PCM
 		2. Audio Containers: Opus, OGG, MP3, AAC, FLAC, APE, RIFF (WAV), WMV, AMR
 	4. Text and Generic Data
 		1. Fonts: TrueType, OpenType, ClearType, Font Parameters, Kerning, Hinting
