@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -218,8 +218,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -323,7 +322,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "09c143d4cd1f1ccf",
+  "active": "39bc74b3de80337e",
   "lastOpenFiles": [
     "Z1-Inbox/What is a codec.md",
     "Z1-Inbox/Systems and Protocols.md",
