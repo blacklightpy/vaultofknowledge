@@ -149,9 +149,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c7e08632d4c51cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c2ad04acef0c393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -225,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Project Ideas.md",
+                "file": "Visions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Project Ideas.md",
+                "file": "Visions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Project Ideas.md"
+                "file": "Visions.md"
               }
             }
           },
@@ -310,10 +331,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b99af105343a65c0",
+  "active": "7c2ad04acef0c393",
   "lastOpenFiles": [
-    "FOSS Messaging.md",
+    "Visions.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
+    "FOSS Messaging.md",
     "TIL.md",
     "V8.md",
     "New Computer.md",
@@ -337,7 +359,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Self Sovereign Identity.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
