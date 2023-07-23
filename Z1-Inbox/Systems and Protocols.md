@@ -1,6 +1,6 @@
 1. Email: POP3, IMAP, JMAP, SMTP, DMARC, TLS
 2. Web: HTTP, TCP/IP, UDP, Layout Engine, JavaScript Engine, IPFS, DASH, FTP, SSL/TLS, XHR/AJAX
-3. Peer-to-Peer File Transfer Protocols: Torrent, Soulseek, DHT, UPnP
+3. Peer-to-Peer File Transfer Protocols: Torrent, Soulseek, RetroShare, DHT, UPnP
 4. Messaging: XMPP/Jabber, Matrix, Proprietary
 5. Security Systems:
 	1. Identity: Authentication, Authorization, SASL, SAML, OAuth2, OpenID Connect, JWT, X.509 Certificates
