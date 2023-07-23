@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOSS Messaging.md",
+                "file": "Z0-Organizing (All Notes Matter)/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,9 +242,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOSS Messaging.md",
+                "file": "Z0-Organizing (All Notes Matter)/Project Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3298e62d4c40f851",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z0-Organizing (All Notes Matter)/Project Ideas.md"
               }
             }
           },
@@ -260,16 +270,6 @@
             }
           },
           {
-            "id": "3298e62d4c40f851",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "FOSS Messaging.md"
-              }
-            }
-          },
-          {
             "id": "91b11c5ac5709c5c",
             "type": "leaf",
             "state": {
@@ -278,14 +278,15 @@
             }
           },
           {
-            "id": "2b3d7927497573eb",
+            "id": "b99af105343a65c0",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -309,15 +310,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
-    "Z1-Inbox/Music Players and Streaming.md",
     "FOSS Messaging.md",
+    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
+    "TIL.md",
+    "V8.md",
+    "New Computer.md",
     "Free Books and Resources.md",
+    "Z1-Inbox/Music Players and Streaming.md",
     "Z1-Inbox/Systems and Protocols.md",
     "Z1-Inbox/What is a codec.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "New Computer.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "Identity Protocols.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
@@ -334,9 +338,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Self Sovereign Identity.md",
-    "Z1-Inbox/Identity.md",
-    "Z1-Inbox/Graphics Libraries.md",
-    "Personal/Creative and Recreational/Books.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
