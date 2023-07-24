@@ -1,1 +1,1 @@
-- Voltage drop is due to the fact that the potential is equally distributed throughout the wire. So when we add a 
+- Voltage drop is due to the fact that the potential is equally distributed throughout the wire. So when we add a re
