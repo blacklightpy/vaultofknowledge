@@ -1,1 +1,1 @@
-- Voltage drop is due to the fact that the potential is equally distributed throughout the wire. So when we add a re
+- Voltage drop is due to the fact that the potential is equally distributed throughout the wire. So when we add a resistor, it is more like going through a longer route, and hence taking up more resistance. Whereas an appliance that consumes more power is like taking a shorter route. The "route" here refers to the path taken at the scale of atoms, not the macroscopic scale, so that's where the conductivity arises from.
