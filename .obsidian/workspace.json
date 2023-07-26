@@ -143,19 +143,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FOSS Messaging.md",
+                "file": "FOSS Communications.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "6c7e08632d4c51cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -172,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -246,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visions.md",
+                "file": "FOSS Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visions.md",
+                "file": "FOSS Communications.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -275,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visions.md"
+                "file": "FOSS Communications.md"
               }
             }
           },
@@ -331,11 +323,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7c2ad04acef0c393",
+  "active": "337fe4d8935a0e83",
   "lastOpenFiles": [
     "Visions.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
-    "FOSS Messaging.md",
+    "FOSS Communications.md",
     "TIL.md",
     "V8.md",
     "New Computer.md",
