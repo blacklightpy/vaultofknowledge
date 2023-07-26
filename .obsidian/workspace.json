@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOSS Communications.md",
+                "file": "Visions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOSS Communications.md",
+                "file": "Visions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOSS Communications.md"
+                "file": "Visions.md"
               }
             }
           },
@@ -323,15 +323,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "337fe4d8935a0e83",
+  "active": "7c2ad04acef0c393",
   "lastOpenFiles": [
-    "Visions.md",
-    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
-    "FOSS Communications.md",
-    "TIL.md",
-    "V8.md",
     "New Computer.md",
     "Free Books and Resources.md",
+    "FOSS Communications.md",
+    "Visions.md",
+    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
+    "TIL.md",
+    "V8.md",
     "Z1-Inbox/Music Players and Streaming.md",
     "Z1-Inbox/Systems and Protocols.md",
     "Z1-Inbox/What is a codec.md",
