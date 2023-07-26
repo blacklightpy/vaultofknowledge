@@ -11,7 +11,7 @@
 - Proxy
 	- Protocols: SOCKS4, SOCKS5, Shadowsocks, HTTP, HTTPS, TCP
 - VPN
-	- Protocols: PPP, L2TP, IPSec, IKEv2/IPSec, OpenVPN, WireGuard
+	- Protocols: PPP, IPSec, IPSec/L2TP, IPSec/IKEv2, OpenVPN, WireGuard
 - Tor
 	- Components: Entry Relay, Middle Relay, Exit Relay
 	- Addon Protocols: Bridges, Pluggable Transports (obfs4, Snowflake, fte, meek)
