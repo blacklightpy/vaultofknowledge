@@ -13,19 +13,20 @@
 - **Music Production:** FL Studio, Ardour, LMMS, OpenMPT
 - **Audio Editing:** Audacity
 - **Media Players:** VLC, Spotify, iTunes, Winamp, Foobar2000, Kodi
-- **Software Development:** Atom, Sublime Text, Visual Studio Code, Visual Studio, Bluefish, Geany, Arduino IDE
+- **Software Development:** Atom, Sublime Text, Visual Studio Code, Visual Studio, Bluefish, Geany, Arduino IDE, KDevelop, Bootstrap Studio, Google Web Designer
 - **Software Development Toolchain:** CMake, Visual Studio, WSL
 - **Social Media:** Facebook, Whatsapp, Snapchat, Pinterest, Instagram, Tiktok, Discord
-- **Wellness Utilities:** f.lux
+- **Wellness Utilities:** f.lux, Big Stretch Reminder, LifeAt.io
 - **Password Management:** KeepassXC
 - **Download Mangers:** Motrix, JDownloader2
 - **Torrent Clients:** Deluge
 - **VPN:** Windscribe
 - **Document Editors:** Drawboard PDF, WPS Office, LibreOffice
 - **Tools:** VMWare Workstation Player
-- **Games:** San Andreas Multiplayer, Prince of Persia Series, Road Rash, Minecraft, Turing Complete, Crysis, Digital: A Love Story
+- **Games:** San Andreas Multiplayer, Prince of Persia Series, Road Rash, Minecraft, Turing Complete, Crysis, Digital: A Love Story, Start Trek Legacy
+- **Gaming Apps:** Bluestacks Player, Steam, Epic Games, Itch.io, Overwolf
 - **Customization:** Rainmeter
-- **Miscellaneous Apps:** Stellarium, Food Diary, 
+- **Miscellaneous Apps:** Stellarium, Food Diary
 # Platform: GNU/Linux
 **Base:** gnu-coreutils, util-linux, sudo, linux-firmware, intel-ucode
 **Optional:** xorg-xserver
@@ -36,7 +37,9 @@
 **Software Toolchain:** gcc, make, cmake
 **File Manger:** thunar, nautilus, nemo, deepin-file-manager, pcmanfm, pcmanfm-qt
 **Code Editor:** vim, emacs, vs-code, kate, kdevelop, gedit, gnome-text-editor, gnome-builder, qt-creator
-**Package Manager:** apt, rpm, yum, dnf, zypper, pacman, flatpak
-**App Store:** synaptic, YaST, pamac, gnome-software, kde-discover
+**Package Manager:** dpkg, apt, aptitude, rpm, yum, dnf, zypper, pacman, yaourt, yay, xbps, flatpak
+**App Store:** synaptic, yast, pamac, gnome-software, kde-discover
+**Productivity:** Solana, workrave, rsibreak
+**Notes:** obsidian, standard-notes
 # Platform: Android
 
