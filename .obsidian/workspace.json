@@ -123,61 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "123254d886ba4dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Books and Resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337fe4d8935a0e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOSS Communications.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c2ad04acef0c393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec8cb0dadc5b94ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "App Database.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -251,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Database.md",
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App Database.md",
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -280,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Database.md"
+                "file": "V8.md"
               }
             }
           },
@@ -336,13 +284,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ec8cb0dadc5b94ea",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
-    "App Database.md",
-    "Visions.md",
     "New Computer.md",
     "Free Books and Resources.md",
     "FOSS Communications.md",
+    "Visions.md",
+    "App Database.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "TIL.md",
     "V8.md",

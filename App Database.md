@@ -12,7 +12,7 @@
 - **Video Recording:** Open Broadcasting Studio
 - **Music Production:** FL Studio, Ardour, LMMS, OpenMPT
 - **Audio Editing:** Audacity
-- **Media Players:** VLC, Spotify, iTunes, Winamp, Foobar2000, Kodi
+- **Media Players:** VLC, Spotify, iTunes, Winamp, Foobar2000, Kodi, FreeTube
 - **Software Development:** Atom, Sublime Text, Visual Studio Code, Visual Studio, Bluefish, Geany, Arduino IDE, KDevelop, Bootstrap Studio, Google Web Designer
 - **Software Development Toolchain:** CMake, Visual Studio, WSL
 - **Social Media:** Facebook, Whatsapp, Snapchat, Pinterest, Instagram, Tiktok, Discord
@@ -22,10 +22,10 @@
 - **Torrent Clients:** Deluge
 - **VPN:** Windscribe
 - **Document Editors:** Drawboard PDF, WPS Office, LibreOffice
-- **Tools:** VMWare Workstation Player
+- **Tools:** VMWare Workstation Player, Android Debug Bridge, WinPE, Gandalf's Recovery Image
 - **Games:** San Andreas Multiplayer, Prince of Persia Series, Road Rash, Minecraft, Turing Complete, Crysis, Digital: A Love Story, Start Trek Legacy
 - **Gaming Apps:** Bluestacks Player, Steam, Epic Games, Itch.io, Overwolf
-- **Customization:** Rainmeter
+- **Customization:** Rainmeter, Cairo Desktop, xoblite
 - **Miscellaneous Apps:** Stellarium, Food Diary
 # Platform: GNU/Linux
 **Base:** gnu-coreutils, util-linux, sudo, linux-firmware, intel-ucode
@@ -34,12 +34,17 @@
 **X Compositing Manager:** picom
 **X Desktop Environment:** gnome, kde-plasma, xfce, lxqt, lxde, cinnamon, mate, regolith, deepin, cutefish, pantheon
 **Wayland Compositor:** gnome, kde-plasma, enlightenment, sway, hyprland, river
-**Software Toolchain:** gcc, make, cmake
+**Software Toolchain:** gcc, make, cmake, git
 **File Manger:** thunar, nautilus, nemo, deepin-file-manager, pcmanfm, pcmanfm-qt
 **Code Editor:** vim, emacs, vs-code, kate, kdevelop, gedit, gnome-text-editor, gnome-builder, qt-creator
-**Package Manager:** dpkg, apt, aptitude, rpm, yum, dnf, zypper, pacman, yaourt, yay, xbps, flatpak
+**Package Manager:** dpkg, apt, aptitude, rpm, yum, dnf, zypper, pacman, yaourt, yay, xbps, flatpak, nix-pkgs
 **App Store:** synaptic, yast, pamac, gnome-software, kde-discover
 **Productivity:** Solana, workrave, rsibreak
 **Notes:** obsidian, standard-notes
+**Emulators:** qemu, waydroid
+**Virtualizers:** kvm
+**Virtual Machines:** qemu-kvm, virt-man, virtualbox
+**Containers:** lxc, docker, podman, k8s
 # Platform: Android
-
+**Notes:** Listy
+**Games:** Sky: Children of The Light, Brothers: A Tale of Two Sons
