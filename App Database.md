@@ -12,17 +12,26 @@
 - **Video Recording:** Open Broadcasting Studio
 - **Music Production:** FL Studio, Ardour, LMMS, OpenMPT
 - **Audio Editing:** Audacity
-- **Music Players:** VLC, Spotify, iTunes, Winamp, Foobar2000, 
+- **Media Players:** VLC, Spotify, iTunes, Winamp, Foobar2000, Kodi
 - **Software Development:** Atom, Sublime Text, Visual Studio Code, Visual Studio, Bluefish, Geany, Arduino IDE
 - **Software Development Toolchain:** CMake, Visual Studio, WSL
 - **Social Media:** Facebook, Whatsapp, Snapchat, Pinterest, Instagram, Tiktok, Discord
-- **Productivity:** f.lux
+- **Wellness Utilities:** f.lux
 - **Password Management:** KeepassXC
 - **Download Mangers:** Motrix, JDownloader2
-- **Torrent**Deluge
+- **Torrent Clients:** Deluge
 - **VPN:** Windscribe
+- **Document Editors:** Drawboard PDF, WPS Office, LibreOffice
+- **Tools:** VMWare Workstation Player
+- **Games:** San Andreas Multiplayer, Prince of Persia Series, Road Rash, Minecraft, Turing Complete, Crysis, Digital: A Love Story
 - **Customization:** Rainmeter
+- **Miscellaneous Apps:** Stellarium, Food Diary, 
 # Platform: GNU/Linux
-
+**Base:** gnu-coreutils, util-linux, sudo, linux-firmware, intel-ucode
+**Optional:** xorg-xserver
+**X Window Manager:** wm, wmii, i3wm, dwm, awesome, bspwm, ratpoison
+**X Compositing Manager:**
+**X Desktop Environment:**
+**Wayland Compositor:** gnome, kde-plasma
 # Platform: Android
 
