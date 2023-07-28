@@ -30,8 +30,13 @@
 **Base:** gnu-coreutils, util-linux, sudo, linux-firmware, intel-ucode
 **Optional:** xorg-xserver
 **X Window Manager:** wm, wmii, i3wm, dwm, awesome, bspwm, ratpoison
-**X Compositing Manager:**
-**X Desktop Environment:**
-**Wayland Compositor:** gnome, kde-plasma
+**X Compositing Manager:** picom
+**X Desktop Environment:** gnome, kde-plasma, xfce, lxqt, lxde, cinnamon, mate, regolith, deepin, cutefish, pantheon
+**Wayland Compositor:** gnome, kde-plasma, enlightenment, sway, hyprland, river
+**Software Toolchain:** gcc, make, cmake
+**File Manger:** thunar, nautilus, nemo, deepin-file-manager, pcmanfm, pcmanfm-qt
+**Code Editor:** vim, emacs, vs-code, kate, kdevelop, gedit, gnome-text-editor, gnome-builder, qt-creator
+**Package Manager:** apt, rpm, yum, dnf, zypper, pacman, flatpak
+**App Store:** synaptic, YaST, pamac, gnome-software, kde-discover
 # Platform: Android
 
