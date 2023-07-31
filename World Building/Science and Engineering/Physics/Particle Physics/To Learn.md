@@ -1,12 +1,16 @@
 - Quantum Spin - Spinors - Spin Statistic Theorem - Knots
 	- Premise: Conservation of Angular Momentum
 	- Einstein de-Haas effect - experiment involving a suspended iron cylinder subjected to a vertical magnetic field causing it to rotate
-	- Also, when looking at specific wavelengths emitted by electrons when jumping between energy levels
+	- Electrons have a spin property, which is conserved when they are aligned by the magnetic field
+	- Also, when looking at specific wavelengths emitted by electrons when jumping between energy levels, they seemed to split
 		- Zeeman, Lorentz figured these energy levels split when atoms are put in an external magnetic field - called the Zeeman effect
-		- Lorentz described this using the ideas of classical physics
-	- Spin gives rise to a magnetic field
-	- Zeeman, Lorentz idea of angular momentum
-	- Pauli's idea of spinors, from classically non-describable two-valuedness
+		- Lorentz described this using the ideas of classical physics - that an electron being a spinning ball of charge moving in circles around an atom would lead to a magnetic moment - a dipole magnetic field. The different alignments of that orbital magnetic field relative to the external magnetic field turns one energy level into three.
+		- Anomalous Zeeman effect - In some cases the magnetic field causes energy levels to split even further
+		- One explanation was that each electron has its own magnetic spin
+		- For this, electrons must be spinning balls
+		- Pauli pointed out that in that case the electrons must be spinning faster than the speed of light - even if they were particles at all.
+		- Pauli's called it classically non-describable two-valuedness
+	- Quantum spin is therefore an intrinsic angular momentum, unlike classical angular momentum
 	- Stern-Gelarch Experiment
 	- Pauli's inclusion of spinors to Schrodinger's Equation
 	- Dirac found a complete fix of Schrodinger's Equation to make it work with Relativity - it could only work by including spinors.
