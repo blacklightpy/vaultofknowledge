@@ -47,5 +47,9 @@
 		- e.g. Photon Field and Electron Field
 		- We allow an electron to emit or absorb a virtual photon and vice versa.
 		- This will cause a problem. For example, we start with two motionless electrons, which progress in a straight line over time.
+		- But the fields can evolve in various ways. Sometimes the electrons absorb or emit virtual particles, causing them to diverge or attract in different ways. But the overall sum of interactions is what predicts the state of the real world, in which the electrons diverge. In this way, QFT predicts forces simply from symmetries.
+		- If the particles were an electron and a positron, they would attract.
+	- Therefore, in QFT, the evolution of the universe is described as the synthesis of all possible scenarios in the microscopic scale.
+	- Problems: This works with special relativity, but not with general relativity.
 1. String Theory
 2. M-Theory
