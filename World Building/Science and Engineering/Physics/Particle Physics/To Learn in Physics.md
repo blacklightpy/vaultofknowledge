@@ -37,6 +37,15 @@
 	- Similarly, to transform a classical field to a quantum field, we allow it to have different configurations that evolve over time (spacetime field). Over time, the field evolves as a superposition of all possible scenarios.
 	- Just like energy levels for electrons in an atom, a quantum field also has energy levels. It can only contain an integer number of disturbances, or quanta of energy. These are particles, similar to a wave on the surface of water. A particle is simply a disturbance that propagates through the field.
 	- Quantum field is also agitated by fluctuations which keep popping in and out of existence. These are called virtual particles and are extremely short-lived.
-	- In our universe several fields coexist and constitute different families of particles. e.g. Ve
+	- In our universe several fields coexist and constitute different families of particles. e.g. Vector fields (spin 1), Spinors (spin 1/2), Higgs Field (spin 0)
+	- Among all these fields, most have internal symmetries which provide them with quantities that are conserved over time, or charges which distinguish their particles between different versions.
+		- Fields formed from complex numbers have a symmetry which gives them their electric charge. This gives a positive and negative charge. This is antimatter.
+		- Antimatter is the complex conjugate of the ordinary particle.
+		- The quark field exhibits a symmetry that assigns them another charge, the colour charge, which must also be conserved over time.
+		- The set of all these fields is the standard model of particle physics.
+	- Interactions
+		- e.g. Photon Field and Electron Field
+		- We allow an electron to emit or absorb a virtual photon and vice versa.
+		- This will cause a problem. For example, we start with two motionless electrons, which progress in a straight line over time.
 1. String Theory
 2. M-Theory
