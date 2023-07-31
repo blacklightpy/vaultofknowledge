@@ -128,8 +128,13 @@
             "id": "ca9759c5803b5a18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/What is a codec.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -162,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filter",
+                "query": "codecs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,6 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z1-Inbox/What is a codec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z1-Inbox/What is a codec.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z1-Inbox/What is a codec.md"
+              }
             }
           },
           {
@@ -289,8 +298,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "ca9759c5803b5a18",
   "lastOpenFiles": [
+    "Z1-Inbox/Filter Graph.md",
+    "World Building/Science and Engineering/Science and Engineering.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
+    "Z1-Inbox/Pipe and Filter Architecture.md",
     "New Computer.md",
     "Z1-Inbox/Motors.md",
     "TIL.md",
@@ -313,10 +326,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/RGB Colour Model.md",
-    "Z1-Inbox/Video.md",
-    "World Building/Creativity and Arts/Colour Theory/Wide Colour Gamut.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

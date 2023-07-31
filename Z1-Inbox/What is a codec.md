@@ -26,10 +26,11 @@ Codecs are used to encode audio and video files into standard formats or to deco
 - Apple Quicktime (Proprietary)
 
 ### DirectShow Filters
-Both below are basically 3rd party DirectShow wrappers based on FFmpeg
+Both below are basically 3rd party DirectShow [[filters]] based on FFmpeg
 
 - ffdshow, a codec library based on FFmpeg providing DirectShow filters and Video For Windows codecs
-- LAV Filters / LAVFSplitter (based on libavcodec and libavformat of FFmpeg)
+	- Discontinued for LAV Filters
+- LAV Filters (formerly LAVFSplitter; based on libavcodec and libavformat of FFmpeg)
 	- Contains Splitters and Decoders
 	- Splitters
 		- LAVFSplitter
