@@ -35,6 +35,8 @@
 	- The mathematical objects can contain symmetries of their own (e.g. complex numbers exhibit an internal symmetry, which implies the conservation of another quantity over time, related to the very nature of complex numbers, the electric charge)
 	- To transform a classical object to a quantum object, we allow it to occupy several positions
 	- Similarly, to transform a classical field to a quantum field, we allow it to have different configurations that evolve over time (spacetime field). Over time, the field evolves as a superposition of all possible scenarios.
-	- 
+	- Just like energy levels for electrons in an atom, a quantum field also has energy levels. It can only contain an integer number of disturbances, or quanta of energy. These are particles, similar to a wave on the surface of water. A particle is simply a disturbance that propagates through the field.
+	- Quantum field is also agitated by fluctuations which keep popping in and out of existence. These are called virtual particles and are extremely short-lived.
+	- In our universe several fields coexist and constitute different families of particles. e.g. Ve
 1. String Theory
 2. M-Theory
