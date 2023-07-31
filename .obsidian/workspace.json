@@ -123,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "372f48c0ea93721f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md"
+                "file": "V8.md"
               }
             }
           },
@@ -297,17 +284,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "372f48c0ea93721f",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
+    "New Computer.md",
+    "World Building/Science and Engineering/Mathematics/Development of Mathematics.md",
+    "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
+    "World Building/Science and Engineering/Mathematics/Interpolation.md",
+    "World Building/Science and Engineering/Mathematics/Smoothing.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
     "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Grassman Numbers.md",
     "Z1-Inbox/Is position of microparticles really random.md",
     "PeerTube Content.md",
-    "New Computer.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
     "Z1-Inbox/What is a codec.md",
     "Unfair practices.md",
     "Z1-Inbox/Systems and Protocols.md",
@@ -321,10 +312,6 @@
     "V8.md",
     "Free Books and Resources.md",
     "FOSS Communications.md",
-    "Visions.md",
-    "App Database.md",
-    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
-    "Z1-Inbox/Music Players and Streaming.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

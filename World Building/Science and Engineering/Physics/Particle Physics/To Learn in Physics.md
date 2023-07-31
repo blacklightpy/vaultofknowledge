@@ -1,4 +1,4 @@
-1. Quantum Spin - Spinors - Spin Statistic Theorem - Knots (More on this and spinors, on PBS Space Time at YT)
+- Quantum Spin - Spinors - Spin Statistic Theorem - Knots (More on this and spinors, on PBS Space Time at YT)
 	- Premise: Conservation of Angular Momentum
 	- Einstein de-Haas effect - experiment involving a suspended iron cylinder subjected to a vertical magnetic field causing it to rotate
 	- Electrons have a spin property, which is conserved when they are aligned by the magnetic field
@@ -20,10 +20,10 @@
 	- Particle described by spinors have half integer Spin QNs. +/- 1/2. They are fermions.
 	- Bosons are described by vectors, not spinors. These rotations define how they interact with each other.
 
-2. Why can't magnetic field be described by applying relativity to electric field? (More: In my Zoho Notebooks)
-3. Poynting Vector - Light and Sound (More: in my journal)
-4. Basic Engineering Physics and Chemistry: Schrodinger's Equation derivation, Degrees of Freedom, [[Jablonski Diagrams]], Quantum Tunneling, etc.
-5. [[Quantum Field Theory]]
+- Why can't magnetic field be described by applying relativity to electric field? (More: In my Zoho Notebooks)
+- Poynting Vector - Light and Sound (More: in my journal)
+- Basic Engineering Physics and Chemistry: Schrodinger's Equation derivation, Degrees of Freedom, [[Jablonski Diagrams]], Quantum Tunnelling, etc.
+- [[Quantum Field Theory]]
 	- Derived because independent particles cannot explain how particles are the same everywhere, and also quantum mechanics does not work well with changing number of particles, e.g. an absorbed photon
 	- QFT is a new mathematical framework that introduces a field
 	- A mathematical field is like a fluid that fills spacetime, with each point populated by a mathematical object
@@ -51,5 +51,5 @@
 		- If the particles were an electron and a positron, they would attract.
 	- Therefore, in QFT, the evolution of the universe is described as the synthesis of all possible scenarios in the microscopic scale.
 	- Problems: This works with special relativity, but not with general relativity.
-1. String Theory
-2. M-Theory
+- String Theory
+- M-Theory
