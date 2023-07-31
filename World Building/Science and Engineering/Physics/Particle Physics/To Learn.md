@@ -1,4 +1,9 @@
 - Quantum Spin - Spinors - Spin Statistic Theorem - Knots
+	- Premise: Conservation of Angular Momentum
+	- Einstein de-Haas effect - experiment involving a suspended iron cylinder subjected to a vertical magnetic field causing it to rotate
+	- Also, when looking at specific wavelengths emitted by electrons when jumping between energy levels
+		- Zeeman, Lorentz figured these energy levels split when atoms are put in an external magnetic field - called the Zeeman effect
+		- Lorentz described this using the ideas of classical physics
 	- Spin gives rise to a magnetic field
 	- Zeeman, Lorentz idea of angular momentum
 	- Pauli's idea of spinors, from classically non-describable two-valuedness
@@ -8,3 +13,6 @@
 	- Electron spin only corrects orientation every 720 degrees.
 		- One rotation causes a twist, another brings it back
 		- Technically a spinor wavefunction has a phase that changes with orientation angle, and a 360 degree spin makes it out of phase from the starting point
+	- Hans Ohanian, author of one of the most used Quantum textbooks, shown that you can derive the angular momentum and magnetic moment by looking at the energy and charge currents in the Dirac field, i.e. the quantum field surrounding the Dirac spinor, or the electron.
+	- Particle described by spinors have half integer Spin QNs. +/- 1/2. They are fermions.
+	- Bosons are described by vectors, not spinors. These rotations define how they interact with each other.
