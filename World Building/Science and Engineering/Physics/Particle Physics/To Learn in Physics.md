@@ -23,3 +23,7 @@
 2. Why can't magnetic field be described by applying relativity to electric field? (More: In my Zoho Notebooks)
 3. Poynting Vector - Light and Sound (More: in my journal)
 4. Basic Engineering Physics and Chemistry: Schrodinger's Equation derivation, Degrees of Freedom, [[Jablonski Diagrams]], Quantum Tunneling, etc.
+5. [[Quantum Field Theory]]
+	- Derived because independent particles cannot explain how particles are the same everywhere, and also quantum mechanics does not work well with changing number of particles, e.g. an absorbed photon
+	- QFT is a new mathematical framework that introduces a field
+	- 

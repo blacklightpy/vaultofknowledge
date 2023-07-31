@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quantum",
+                "query": "quantum field theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,8 +299,12 @@
   },
   "active": "372f48c0ea93721f",
   "lastOpenFiles": [
-    "New Computer.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Grassman Numbers.md",
     "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+    "Z1-Inbox/Is position of microparticles really random.md",
+    "PeerTube Content.md",
+    "New Computer.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
@@ -321,10 +325,6 @@
     "App Database.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "Z1-Inbox/Music Players and Streaming.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Communication Technologies.md",
-    "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
-    "Identity Protocols.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
