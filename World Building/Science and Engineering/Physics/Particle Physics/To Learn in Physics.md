@@ -26,4 +26,10 @@
 5. [[Quantum Field Theory]]
 	- Derived because independent particles cannot explain how particles are the same everywhere, and also quantum mechanics does not work well with changing number of particles, e.g. an absorbed photon
 	- QFT is a new mathematical framework that introduces a field
-	- 
+	- A mathematical field is like a fluid that fills spacetime, with each point populated by a mathematical object
+	- The mathematical objects should obey some symmetries, as restricted by special relativity, called [[Poincare Symmetries]]
+	- These are only respected by certain mathematical objects, and they are classified by a parameter known as spin.
+	- Numbers - 0, Spinors - 1/2, Vectors - 1, 3/2, 2
+	- Each symmetry forces the field to respect the conservation of certain quantities over time
+		- Conservation of energy, momentum, angular momentum and velocity of the center of mass
+	- The mathematical objects can contain symmetries of their own ()
