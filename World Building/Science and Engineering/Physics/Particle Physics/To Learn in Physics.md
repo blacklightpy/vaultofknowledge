@@ -1,9 +1,8 @@
-- Quantum Spin - Spinors - Spin Statistic Theorem - Knots
+1. Quantum Spin - Spinors - Spin Statistic Theorem - Knots (More on this and spinors, on PBS Space Time at YT)
 	- Premise: Conservation of Angular Momentum
 	- Einstein de-Haas effect - experiment involving a suspended iron cylinder subjected to a vertical magnetic field causing it to rotate
 	- Electrons have a spin property, which is conserved when they are aligned by the magnetic field
-	- Also, when looking at specific wavelengths emitted by electrons when jumping between energy levels, they seemed to split
-		- Zeeman, Lorentz figured these energy levels split when atoms are put in an external magnetic field - called the Zeeman effect
+	- Zeeman Effect: Zeeman, Lorentz figured out that while looking at specific wavelengths emitted by electrons when jumping between energy levels, these energy levels split when atoms are put in an external magnetic field 
 		- Lorentz described this using the ideas of classical physics - that an electron being a spinning ball of charge moving in circles around an atom would lead to a magnetic moment - a dipole magnetic field. The different alignments of that orbital magnetic field relative to the external magnetic field turns one energy level into three.
 		- Anomalous Zeeman effect - In some cases the magnetic field causes energy levels to split even further
 		- One explanation was that each electron has its own magnetic spin
@@ -20,3 +19,7 @@
 	- Hans Ohanian, author of one of the most used Quantum textbooks, shown that you can derive the angular momentum and magnetic moment by looking at the energy and charge currents in the Dirac field, i.e. the quantum field surrounding the Dirac spinor, or the electron.
 	- Particle described by spinors have half integer Spin QNs. +/- 1/2. They are fermions.
 	- Bosons are described by vectors, not spinors. These rotations define how they interact with each other.
+
+2. Why can't magnetic field be described by applying relativity to electric field? (More: In my Zoho Notebooks)
+3. Poynting Vector - Light and Sound (More: in my journal)
+4. Basic Engineering Physics and Chemistry: Schrodinger's Equation derivation, Degrees of Freedom, [[Jablonski Diagrams]], Quantum Tunneling, etc.

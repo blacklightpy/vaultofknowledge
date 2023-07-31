@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md"
               }
             }
           },
@@ -299,11 +299,11 @@
   },
   "active": "372f48c0ea93721f",
   "lastOpenFiles": [
+    "New Computer.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
-    "New Computer.md",
     "Z1-Inbox/What is a codec.md",
     "Unfair practices.md",
     "Z1-Inbox/Systems and Protocols.md",
