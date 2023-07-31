@@ -125,25 +125,12 @@
             }
           },
           {
-            "id": "ca9759c5803b5a18",
+            "id": "372f48c0ea93721f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/What is a codec.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d6861c3cbb99c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unfair practices.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -180,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codecs",
+                "query": "quantum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,8 +192,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unfair practices.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unfair practices.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -255,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unfair practices.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md"
               }
             }
           },
@@ -311,16 +297,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1d6861c3cbb99c02",
+  "active": "372f48c0ea93721f",
   "lastOpenFiles": [
-    "Unfair practices.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/To Learn.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
+    "New Computer.md",
     "Z1-Inbox/What is a codec.md",
+    "Unfair practices.md",
     "Z1-Inbox/Systems and Protocols.md",
     "Z1-Inbox/Filter Graph.md",
     "World Building/Science and Engineering/Science and Engineering.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
     "Z1-Inbox/Pipe and Filter Architecture.md",
-    "New Computer.md",
     "Z1-Inbox/Motors.md",
     "TIL.md",
     "Web App Frameworks.md",
@@ -335,10 +325,6 @@
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "Identity Protocols.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Colour Models.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

@@ -1,0 +1,10 @@
+- Quantum Spin - Spinors - Spin Statistic Theorem - Knots
+	- Spin gives rise to a magnetic field
+	- Zeeman, Lorentz idea of angular momentum
+	- Pauli's idea of spinors, from classically non-describable two-valuedness
+	- Stern-Gelarch Experiment
+	- Pauli's inclusion of spinors to Schrodinger's Equation
+	- Dirac found a complete fix of Schrodinger's Equation to make it work with Relativity - it could only work by including spinors.
+	- Electron spin only corrects orientation every 720 degrees.
+		- One rotation causes a twist, another brings it back
+		- Technically a spinor wavefunction has a phase that changes with orientation angle, and a 360 degree spin makes it out of phase from the starting point
