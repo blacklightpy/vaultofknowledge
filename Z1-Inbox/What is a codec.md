@@ -29,7 +29,7 @@ Codecs are used to encode audio and video files into standard formats or to deco
 Both below are basically 3rd party DirectShow [[filters]] based on FFmpeg
 
 - ffdshow, a codec library based on FFmpeg providing DirectShow filters and Video For Windows codecs
-	- Discontinued for LAV Filters
+	- Discontinued in favour of LAV Filters
 - LAV Filters (formerly LAVFSplitter; based on libavcodec and libavformat of FFmpeg)
 	- Contains Splitters and Decoders
 	- Splitters
