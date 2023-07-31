@@ -1,0 +1,4 @@
+1. Downvotes counted towards a profile
+Downvoting can happen in a public discussion forum when a certain opinion is misleading or unlikable. However, the number of downvotes a comment gets is proportional to the popularity of the discussion thread. So a person could've contributed several helpful opinions across the forum, but because of his activity on a single popular thread, his overall credibility would've gone down very much.
+2. Judging based on records of past events
+This is similar to "Downvotes counted towards a profile". By the theory of a dynamic universe with no source of origin of thought, 

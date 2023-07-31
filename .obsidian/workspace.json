@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d6861c3cbb99c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unfair practices.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/What is a codec.md",
+                "file": "Unfair practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/What is a codec.md",
+                "file": "Unfair practices.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/What is a codec.md"
+                "file": "Unfair practices.md"
               }
             }
           },
@@ -298,10 +311,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ca9759c5803b5a18",
+  "active": "1d6861c3cbb99c02",
   "lastOpenFiles": [
-    "Z1-Inbox/Systems and Protocols.md",
+    "Unfair practices.md",
     "Z1-Inbox/What is a codec.md",
+    "Z1-Inbox/Systems and Protocols.md",
     "Z1-Inbox/Filter Graph.md",
     "World Building/Science and Engineering/Science and Engineering.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
@@ -325,7 +339,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Subtractive Colour Model.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Additive Colour Models.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
