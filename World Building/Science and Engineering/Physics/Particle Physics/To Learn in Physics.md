@@ -32,4 +32,9 @@
 	- Numbers - 0, Spinors - 1/2, Vectors - 1, 3/2, 2
 	- Each symmetry forces the field to respect the conservation of certain quantities over time
 		- Conservation of energy, momentum, angular momentum and velocity of the center of mass
-	- The mathematical objects can contain symmetries of their own ()
+	- The mathematical objects can contain symmetries of their own (e.g. complex numbers exhibit an internal symmetry, which implies the conservation of another quantity over time, related to the very nature of complex numbers, the electric charge)
+	- To transform a classical object to a quantum object, we allow it to occupy several positions
+	- Similarly, to transform a classical field to a quantum field, we allow it to have different configurations that evolve over time (spacetime field). Over time, the field evolves as a superposition of all possible scenarios.
+	- 
+1. String Theory
+2. M-Theory
