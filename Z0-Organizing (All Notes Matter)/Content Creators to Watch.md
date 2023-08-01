@@ -10,4 +10,7 @@
 - MATLAB
 #### Physics and Engineering
 - Physics Videos by Eugene Khutaryoski
+- PBS Space Time
+- ScienceClick
+- eigenchris
 - Lesics

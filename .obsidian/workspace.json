@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5507b1aef00588cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quantum field theory",
+                "query": "robert frenec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +192,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md"
               }
             }
           },
@@ -284,8 +298,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "5507b1aef00588cd",
   "lastOpenFiles": [
+    "V8.md",
     "New Computer.md",
     "World Building/Science and Engineering/Mathematics/Development of Mathematics.md",
     "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
@@ -309,7 +324,6 @@
     "Z1-Inbox/Motors.md",
     "TIL.md",
     "Web App Frameworks.md",
-    "V8.md",
     "Free Books and Resources.md",
     "FOSS Communications.md",
     "_images/Continuous Deployment.png",
