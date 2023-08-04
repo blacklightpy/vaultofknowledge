@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b703d4e09abdace0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unfair practices.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
+                "file": "Unfair practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
+                "file": "Unfair practices.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md"
+                "file": "Unfair practices.md"
               }
             }
           },
@@ -298,10 +311,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5507b1aef00588cd",
+  "active": "b703d4e09abdace0",
   "lastOpenFiles": [
-    "V8.md",
     "New Computer.md",
+    "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
+    "V8.md",
     "World Building/Science and Engineering/Mathematics/Development of Mathematics.md",
     "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
     "World Building/Science and Engineering/Mathematics/Interpolation.md",
@@ -325,7 +339,6 @@
     "TIL.md",
     "Web App Frameworks.md",
     "Free Books and Resources.md",
-    "FOSS Communications.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
