@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b703d4e09abdace0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unfair practices.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -226,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unfair practices.md",
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unfair practices.md",
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -255,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unfair practices.md"
+                "file": "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md"
               }
             }
           },
@@ -311,8 +298,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b703d4e09abdace0",
+  "active": "5507b1aef00588cd",
   "lastOpenFiles": [
+    "Unfair practices.md",
     "New Computer.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
     "V8.md",
@@ -329,7 +317,6 @@
     "Z1-Inbox/Is position of microparticles really random.md",
     "PeerTube Content.md",
     "Z1-Inbox/What is a codec.md",
-    "Unfair practices.md",
     "Z1-Inbox/Systems and Protocols.md",
     "Z1-Inbox/Filter Graph.md",
     "World Building/Science and Engineering/Science and Engineering.md",

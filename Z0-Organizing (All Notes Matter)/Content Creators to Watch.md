@@ -1,6 +1,6 @@
 #### Electronics Engineering
 - Phil's Lab
-- Robert Frenec
+- Robert Feranec
 #### CAD
 ##### FreeCAD
 - Joko Engineering
