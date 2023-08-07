@@ -15,7 +15,7 @@ Objects have a definition and colour.
 Definition is the hard boundary of an object and colour is the essence of an object.
 Definitions of an object are described using mathematics.
 The colour of objects are described using design.
-Objects undergo decay over time due to ineractions with other particles.
+Objects undergo decay over time due to interactions with other particles.
 Systems that are taken care of timely avoid decay.
 Any system that protects itself from decay is termed as living, and the property of protecting itself from decay is known as life.
 The process of creation and destruction of particles is called nature.
