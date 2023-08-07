@@ -136,9 +136,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d373a468c4954e37",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,7 +308,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5507b1aef00588cd",
+  "active": "d373a468c4954e37",
   "lastOpenFiles": [
     "Unfair practices.md",
     "New Computer.md",
