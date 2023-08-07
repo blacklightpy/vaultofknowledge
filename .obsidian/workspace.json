@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Art of Creation/Creation.md",
+                "file": "PeerTube Content.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Art of Creation/Creation.md",
+                "file": "PeerTube Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Art of Creation/Creation.md",
+                "file": "PeerTube Content.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Art of Creation/Creation.md"
+                "file": "PeerTube Content.md"
               }
             }
           },
@@ -299,6 +299,7 @@
   },
   "active": "1532a5f0c17bbc4d",
   "lastOpenFiles": [
+    "World Building/Art of Creation/Creation.md",
     "New Computer.md",
     "V8.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
@@ -324,7 +325,6 @@
     "Z1-Inbox/Pipe and Filter Architecture.md",
     "Z1-Inbox/Motors.md",
     "TIL.md",
-    "Web App Frameworks.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
