@@ -18,7 +18,7 @@
 - **Social Media:** Facebook, Whatsapp, Snapchat, Pinterest, Instagram, Tiktok, Discord
 - **Wellness Utilities:** f.lux, Big Stretch Reminder, LifeAt.io
 - **Password Management:** KeepassXC
-- **Download Mangers:** Motrix, JDownloader2
+- **Download Mangers:** Motrix, JDownloader2, AWGG, Download Master (Portable Edition = EN), IDM
 - **Torrent Clients:** Deluge
 - **VPN:** Windscribe
 - **Document Editors:** Drawboard PDF, WPS Office, LibreOffice
