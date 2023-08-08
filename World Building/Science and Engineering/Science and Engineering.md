@@ -517,6 +517,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Laws of Motion]]
 		- [[QM vs GR]]
 		- **Quantum Mechanics**
+			- [[Atomic Orbitals]]
 			- [[Grassman Numbers]]
 			- [[Quantum Field Theory]]
 		- [[Relativistic Quantum Mechanics]]
