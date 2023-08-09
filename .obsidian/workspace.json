@@ -123,30 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bca33e39f7c7e11b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2fd34400e8d4f37c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Search Engines.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -200,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Search Engines.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Search Engines.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -250,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Search Engines.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
               }
             }
           },
@@ -306,7 +284,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2fd34400e8d4f37c",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "Search Engines.md",
     "New Computer.md",
