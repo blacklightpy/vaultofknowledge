@@ -15,3 +15,4 @@
 - Xiph.org
 	- **Highlights**: Opus, FLAC, Vorbis, Icecast, Daala (now in AV1), Theora
 - Java Community Process
+- Free and Open Source Silicon (FOSSi)
