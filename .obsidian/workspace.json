@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87c9880bee61c9ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FOSS SIlicon.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retro/Java Phone Programming.md",
+                "file": "FOSS SIlicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retro/Java Phone Programming.md",
+                "file": "FOSS SIlicon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retro/Java Phone Programming.md"
+                "file": "FOSS SIlicon.md"
               }
             }
           },
@@ -284,8 +297,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "87c9880bee61c9ea",
   "lastOpenFiles": [
+    "New Computer.md",
+    "FOSS SIlicon.md",
+    "Retro/Java Phone Programming.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Atomic Orbitals.md",
     "App Database.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
@@ -298,7 +314,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Science and Engineering/Chemistry/Physical/Jablonski Diagrams.md",
     "World Building/Art of Creation/Creation.md",
-    "New Computer.md",
     "V8.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
@@ -310,8 +325,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
     "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Grassman Numbers.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
