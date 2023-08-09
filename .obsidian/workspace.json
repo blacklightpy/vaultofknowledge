@@ -123,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87c9880bee61c9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOSS SIlicon.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOSS SIlicon.md",
+                "file": "New Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOSS SIlicon.md",
+                "file": "New Computer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOSS SIlicon.md"
+                "file": "New Computer.md"
               }
             }
           },
@@ -297,10 +284,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "87c9880bee61c9ea",
+  "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
-    "New Computer.md",
     "FOSS SIlicon.md",
+    "New Computer.md",
     "Retro/Java Phone Programming.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Atomic Orbitals.md",
     "App Database.md",
