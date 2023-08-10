@@ -1,7 +1,7 @@
 ## Messaging
 - XMPP
 	- Platforms: Movim, Monocles (Movim based)
-	- Addon Protocols: OMEMO or OpenPGP
+	- Addon Protocols: OTR (realtime), OMEMO (based on Signal's Double Ratchet Algorithm) or OpenPGP
 - Signal
 	- Platforms: Signal
 ## Networking
