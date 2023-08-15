@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Free Books and Resources.md",
+                "file": "Z1-Inbox/FOSS Software.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Z1-Inbox/FOSS Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Z1-Inbox/FOSS Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
+                "file": "Z1-Inbox/FOSS Software.md"
               }
             }
           },
@@ -297,8 +297,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "e6f7f99116a61ea7",
   "lastOpenFiles": [
+    "Z1-Inbox/FOSS Software.md",
+    "Z1-Inbox/Free Software Index.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Surround Sound Systems.md",
     "Z1-Inbox/Surround Sound Formats.md",
     "Free Books and Resources.md",
@@ -312,7 +315,6 @@
     "Identity Protocols.md",
     "Forward Secrecy.md",
     "New Computer.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Retro/Java Phone Programming.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Atomic Orbitals.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
@@ -323,8 +325,6 @@
     "V8.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
-    "World Building/Science and Engineering/Mathematics/Development of Mathematics.md",
-    "World Building/Science and Engineering/Mathematics/Areas of Mathematics.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

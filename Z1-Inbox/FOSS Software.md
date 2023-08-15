@@ -16,6 +16,7 @@
 	2. Solana (Pomodoro)
 5. Accessories
 	1. KDEConnect / GSConnect
+	2. Aegis Authenticator
 6. Utilities
 	1. Engineering
 		1. FreeCAD
@@ -27,9 +28,9 @@
 		2. Inkscape
 		3. Krita
 		4. Blender
-	3. Audio
+	3. Audio Editing
 		1. Audacity
-	4. Video
+	4. Video Editing
 		1. OpenShot
 		2. GNOME Pitivi
 		3. Kdenlive
@@ -63,9 +64,10 @@
 	2. GNU GCC
 	3. Make
 	4. 7zip
-	5. GitHub CLI
-	6. Python3
-	7. GNU Pass
-	8. Git Credential Manager
-	9. Fish Shell
-	10. Flatpak
+	5. Peazip
+	6. GitHub CLI
+	7. Python3
+	8. GNU Pass
+	9. Git Credential Manager
+	10. Fish Shell
+	11. Flatpak
