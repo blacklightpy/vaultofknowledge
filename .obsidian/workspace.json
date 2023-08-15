@@ -123,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e6f7f99116a61ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Inbox/FOSS Software.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/FOSS Software.md",
+                "file": "New Computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/FOSS Software.md",
+                "file": "New Computer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/FOSS Software.md"
+                "file": "New Computer.md"
               }
             }
           },
@@ -297,34 +284,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6f7f99116a61ea7",
+  "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
+    "Z1-Inbox/Window Managers.md",
+    "Z1-Inbox/Process Design Kit.md",
+    "Z1-Inbox/von Kries transform.md",
+    "Z1-Inbox/Desktop Environment Ecosystems.md",
+    "Z1-Inbox/Desktop Environment Showcase.md",
+    "Z1-Inbox/Desktop Environments.md",
+    "Z1-Inbox/Device Trees.md",
+    "Z1-Inbox/Diagramming Tools.md",
+    "Z1-Inbox/Untitled.md",
+    "Z1-Inbox/Differences in Distros.md",
+    "Z1-Inbox/Electronic Speed Control.md",
+    "Z1-Inbox/Enable Show Desktop Button.md",
+    "Z1-Inbox/Project Slate - Reddit Alternative.md",
+    "Z1-Inbox/Energy Production Efficiency.md",
+    "Z1-Inbox/Is position of microparticles really random.md",
+    "Z1-Inbox/Systems and Protocols.md",
+    "Z1-Inbox/What is a codec.md",
+    "Z1-Inbox/Untitled 2.md",
+    "Z1-Inbox/Rice Showcase.md",
+    "Z1-Inbox/Window Managers 1.md",
+    "Z1-Inbox/Ricer Guide.md",
     "Z1-Inbox/FOSS Software.md",
     "Z1-Inbox/Free Software Index.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Surround Sound Systems.md",
     "Z1-Inbox/Surround Sound Formats.md",
-    "Free Books and Resources.md",
-    "Web App Frameworks.md",
-    "Unfair practices.md",
-    "Apps Database.md",
-    "VPNs.md",
-    "Search Engines.md",
-    "FOSS Communications.md",
-    "FOSS CPU Cores.md",
-    "Identity Protocols.md",
-    "Forward Secrecy.md",
-    "New Computer.md",
-    "Retro/Java Phone Programming.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Atomic Orbitals.md",
-    "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
-    "FOSS Organizations.md",
-    "PeerTube Content.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Jablonski Diagrams.md",
-    "World Building/Art of Creation/Creation.md",
-    "V8.md",
-    "Z1-Inbox/Methods in Fluid Dynamics.md",
-    "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
