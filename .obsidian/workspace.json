@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md"
               }
             }
           },
@@ -299,6 +299,8 @@
   },
   "active": "78ef8fc35b9fa2b4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Models of Particle Physics.md",
+    "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
     "World Building/Science and Engineering/Physics/Mechanics/cam synthesis.md",
     "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
@@ -323,8 +325,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Relativistic Quantum Mechanics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Strong Interactions.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Models of Particle Physics.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
