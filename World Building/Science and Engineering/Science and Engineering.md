@@ -533,7 +533,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Coleman-Mandula Theorem]]
 		- [[Gravitational Lensing]]
 		- [[Models of Particle Physics]]
-		- [[My understanding]]
+		- [[My understanding of Particle Physics]]
 		- [[Poincare Symmetries]]
 		- [[Spacetime]]
 		- **Standard Model**

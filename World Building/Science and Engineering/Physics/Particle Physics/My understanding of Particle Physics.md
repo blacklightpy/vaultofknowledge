@@ -2,9 +2,11 @@
 - Spacetime is really just space, time is just what we choose to call it.
 - We also call identifiable manifestations of energy as particles
 - General Relativity takes a purely geometric approach
+- Opposite charges repel each other
 
 --- 
->[! Note]
+
+>[! NOTE] Note: Regarding Dimensions
 >The entire point is based on that there is no universal reference frame, and only the one which we assign as an observer.
 
 There is a distance and orientation from a reference.
