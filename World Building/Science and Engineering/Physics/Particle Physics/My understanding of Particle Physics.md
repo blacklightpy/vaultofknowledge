@@ -2,6 +2,7 @@
 - Spacetime is really just space, time is just what we choose to call it.
 - We also call identifiable manifestations of energy as particles
 - General Relativity takes a purely geometric approach
+- Some particles are charged
 - Opposite charges repel each other
 
 --- 
