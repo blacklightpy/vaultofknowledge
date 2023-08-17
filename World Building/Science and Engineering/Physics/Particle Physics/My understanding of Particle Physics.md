@@ -4,7 +4,7 @@
 - General Relativity takes a purely geometric approach
 - Some particles have charges that direct their field lines
 - Opposite charges repel each other
-- Some particles have fractional charges of elementary charges
+- Some particles have charges which are a fraction of the elementary charge
 
 --- 
 
