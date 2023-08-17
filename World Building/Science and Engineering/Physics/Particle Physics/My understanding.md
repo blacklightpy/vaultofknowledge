@@ -1,0 +1,5 @@
+- Energy is the curvature of spacetime
+- Spacetime is really just space, time is just what we choose to call it.
+- We also call identifiable manifestations of energy as particles
+- General Relativity takes a purely geometric approach
+- 

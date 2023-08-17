@@ -117,20 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Computer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78ef8fc35b9fa2b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding.md"
               }
             }
           },
@@ -297,9 +284,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "78ef8fc35b9fa2b4",
+  "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/My understanding.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Models of Particle Physics.md",
+    "New Computer.md",
     "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
     "World Building/Science and Engineering/Physics/Mechanics/cam synthesis.md",
     "World Building/Science and Engineering/Physics/Mechanics/Laws of Motion.md",
@@ -318,13 +309,9 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Grassman Numbers.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Color Charge.md",
     "World Building/Science and Engineering/Physics/Mechanics/Relativistic Quantum Mechanics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Strong Interactions.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
