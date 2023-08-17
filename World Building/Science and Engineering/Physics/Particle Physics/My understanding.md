@@ -5,7 +5,7 @@
 
 --- 
 >[! Note]
->The entire point is based on that there is no universal reference 
+>The entire point is based on that there is no universal reference frame, and only the one which we assign as an observer.
 
 There is a distance and orientation from a reference.
 For a single observer pair, the orientation is inline, hence there is only a distance.
