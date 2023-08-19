@@ -23,6 +23,7 @@
 - WinRAR
 - KGB Archiver (deprecated)
 - NanoZIP (Derivative better than 7Zip, includes ZStd)
+- FreeArc (Has SFX and Encryption features)
 ## Archive File Formats
 - ZIP by PKWARE, now owned by Thompson Street Capital Partners
 - TAR (Tape Archive)
