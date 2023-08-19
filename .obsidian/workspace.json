@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Z1-Inbox/Data Compression Algorithms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compression",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Z1-Inbox/Data Compression Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Z1-Inbox/Data Compression Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md"
+                "file": "Z1-Inbox/Data Compression Algorithms.md"
               }
             }
           },
@@ -286,8 +286,8 @@
   },
   "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
-    "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Bosons.md",
