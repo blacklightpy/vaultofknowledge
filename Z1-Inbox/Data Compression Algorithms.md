@@ -24,7 +24,7 @@
 - KGB Archiver (deprecated)
 ## Archive File Formats
 - ZIP by PKWARE, now owned by Thompson Street Capital Partners
-- TAR
+- TAR (Tape Archive)
 - BZ2
 - GZ
 - 7Z
