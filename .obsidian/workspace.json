@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Z1-Inbox/Data Compression Algorithms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vps",
+                "query": "compression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Z1-Inbox/Data Compression Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Z1-Inbox/Data Compression Algorithms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md"
+                "file": "Z1-Inbox/Data Compression Algorithms.md"
               }
             }
           },
@@ -285,11 +284,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
@@ -312,7 +312,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Grassman Numbers.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
