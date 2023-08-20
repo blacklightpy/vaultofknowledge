@@ -1,0 +1,1 @@
+Telemetry is often desirable to trace issues with applications and to identify ways in which users might use a program. This is often frowned upon by the privacy conscious community due to the extensive collection of data by companies for surveillance capitalism.

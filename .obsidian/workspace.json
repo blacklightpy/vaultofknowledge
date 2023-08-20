@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d9e80ff881b8bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telemetry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md",
+                "file": "Telemetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md",
+                "file": "Telemetry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md"
+                "file": "Telemetry.md"
               }
             }
           },
@@ -284,10 +297,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc1f9257c2c07133",
+  "active": "4d9e80ff881b8bfb",
   "lastOpenFiles": [
-    "Z1-Inbox/Server Management Tools.md",
+    "Telemetry.md",
     "Z1-Inbox/Music Players and Streaming.md",
+    "Z1-Inbox/Server Management Tools.md",
     "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
@@ -311,7 +325,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Photons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Supersymmetry.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
