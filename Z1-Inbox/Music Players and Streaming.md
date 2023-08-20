@@ -18,3 +18,6 @@
 - Navidrome
 - Funkwhale (with Dracula theme)
 - MPD + Icecast
+
+## Fun
+- Poolsuite by Soundcloud (not FOSS)
