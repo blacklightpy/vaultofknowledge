@@ -4,8 +4,9 @@
 - Docker
 **Easy Server Oriented Distros**
 - Cloudron
-- Yunohost
-- Sandstorm.io
+- Yunohost (Python based)
+- Sandstorm.io (Container based)
+- Libreserver (Bash based; Single Apps Repository)
 **Auto-install Scripts**
 - Softaculous
 **Self-hosted Server Software**

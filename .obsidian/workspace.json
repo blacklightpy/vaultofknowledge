@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yunohost",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -285,8 +284,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "dc1f9257c2c07133",
   "lastOpenFiles": [
+    "Z1-Inbox/Server Management Tools.md",
+    "Z1-Inbox/Music Players and Streaming.md",
     "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
@@ -311,8 +312,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Supersymmetry.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Grassman Numbers.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
