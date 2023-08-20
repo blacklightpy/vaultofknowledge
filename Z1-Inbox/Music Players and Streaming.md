@@ -20,8 +20,8 @@
 - MPD + Icecast
 
 ## Radio
-- Poolsuite by Soundcloud (Retro Aesthetic; not FOSS)
+- Poolsuite by Soundcloud (Curated Radio; Retro Aesthetic; not FOSS)
 - Radio Paradise (Curated Radio)
-- Radio 4000
 - Headset (YT + Reddit Lists)
-- Openwhyd ()
+- Radio4000 (Shared Playlists)
+- Openwhyd (Shared Playlists)
