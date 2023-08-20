@@ -123,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0dec71a0abc0fb0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOSS CPU Cores.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOSS CPU Cores.md",
+                "file": "Free Hardware Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOSS CPU Cores.md",
+                "file": "Free Hardware Projects.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOSS CPU Cores.md"
+                "file": "Free Hardware Projects.md"
               }
             }
           },
@@ -297,34 +284,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0dec71a0abc0fb0a",
+  "active": "98eb96a8417ee867",
   "lastOpenFiles": [
+    "V8.md",
     "Free Hardware Projects.md",
+    "Z1-Inbox/Music Players and Streaming.md",
+    "Apps Database.md",
+    "VPNs.md",
+    "Forward Secrecy.md",
+    "Search Engines.md",
+    "Telemetry.md",
+    "Free Fonts.md",
     "FOSS CPU Cores.md",
     "FOSS Communications.md",
     "Visions.md",
     "Z1-Inbox/Data Compression Algorithms.md",
     "Z1-Inbox/Server Management Tools.md",
-    "Z1-Inbox/Music Players and Streaming.md",
     "Z1-Inbox/FOSS Software.md",
     "Z1-Inbox/Free Software Index.md",
     "Resources/Open-Source Tools.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
-    "V8.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Self Sovereign Identity.md",
     "Z1-Inbox/Obsidian Notes_book.md",
-    "Telemetry.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Baryons.md",
-    "Free Fonts.md",
-    "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
