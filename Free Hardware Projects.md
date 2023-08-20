@@ -10,11 +10,12 @@
 # Processors
 ## SoC
 - LibreSoC
+- Rocket Chip SoC Generator (Has Rocket Core and other CPUs, can also add custom cores)
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
 - SiFive (U74 is in SiFive Essential 7 Series; can run Linux)
-- Rocket Chip
+- Rocket Core (By SiFive, UCB and CHIPS Alliance; included with Rocket Chip Generator)
 - asics.ws Cores
 - [[FOSS CPU Cores]]
 ## GPU
