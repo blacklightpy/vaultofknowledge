@@ -14,6 +14,10 @@ This is established most commonly using decentralized technologies. They require
 	In a way, there cannot be a perfect solution for human greed. The best we can do is to choose an acceptable solution for now, and be ready to fight, and show a better model for others so that people won't fall into the same situations that caused the need to do hack others.
 Keywords: DKMS
 # Implementations
+
+> [!NOTE]
+> SSI Does not always require using a blockchain. It can be done using [[Public Key Cryptography]], Peer-to-Peer methods and using IPFS. Read more here: https://academy.affinidi.com/do-you-need-blockchain-for-enabling-ssi-452d62b34890
+- Affinidy
 - FIDO2 by FIDO Alliance
 	- Keys are only locally stored: Local Biometric, PIN or DocAuth
 	- Keys for each website are different, so users cannot be tracked across websites
