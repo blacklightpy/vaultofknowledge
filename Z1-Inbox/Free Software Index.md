@@ -17,3 +17,4 @@ Yellow Dog Updater, Modified: A package management utility based on RPM, written
 Yellow Dog Updater: The official package management utility for Yellow Dog Linux (now deprecated)
 Red Hat Package Manager: The official package management utility for Red Hat Enterprise Linux
 Linglong: A package management utility from Deepin Linux
+NVIDIA PhysX: A physics engine by NVIDIA

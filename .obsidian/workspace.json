@@ -125,25 +125,12 @@
             }
           },
           {
-            "id": "c3c38d2329b90239",
+            "id": "0dec71a0abc0fb0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/Free Software Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0c172d5c067a186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Open-Source Tools.md",
+                "file": "FOSS CPU Cores.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Open-Source Tools.md",
+                "file": "FOSS CPU Cores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Open-Source Tools.md",
+                "file": "FOSS CPU Cores.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Open-Source Tools.md"
+                "file": "FOSS CPU Cores.md"
               }
             }
           },
@@ -310,20 +297,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c0c172d5c067a186",
+  "active": "0dec71a0abc0fb0a",
   "lastOpenFiles": [
+    "Free Hardware Projects.md",
+    "FOSS CPU Cores.md",
+    "FOSS Communications.md",
+    "Visions.md",
+    "Z1-Inbox/Data Compression Algorithms.md",
+    "Z1-Inbox/Server Management Tools.md",
+    "Z1-Inbox/Music Players and Streaming.md",
+    "Z1-Inbox/FOSS Software.md",
     "Z1-Inbox/Free Software Index.md",
     "Resources/Open-Source Tools.md",
-    "Free Hardware Projects.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Marketplace and Creations/FOSS Companies and Groups.md",
     "V8.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Self Sovereign Identity.md",
     "Z1-Inbox/Obsidian Notes_book.md",
-    "Z1-Inbox/Music Players and Streaming.md",
     "Telemetry.md",
-    "Z1-Inbox/Server Management Tools.md",
-    "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
@@ -334,10 +325,6 @@
     "Free Fonts.md",
     "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Poincare Symmetries.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Models of Particle Physics.md",
-    "New Computer.md",
-    "World Building/Science and Engineering/Physics/Mechanics/cam synthesis.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

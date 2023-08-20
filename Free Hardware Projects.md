@@ -16,6 +16,7 @@
 - SiFive (U74 is in SiFive Essential 7 Series; can run Linux)
 - Rocket Chip
 - asics.ws Cores
+- [[FOSS CPU Cores]]
 ## GPU
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub
