@@ -16,8 +16,12 @@
 - Airsonic-advanced
 - Ampache
 - Navidrome
-- Funkwhale (with Dracula theme)
+- Funkwhale (with Dracula theme; Has Subsonic API)
 - MPD + Icecast
 
-## Fun
-- Poolsuite by Soundcloud (not FOSS)
+## Radio
+- Poolsuite by Soundcloud (Retro Aesthetic; not FOSS)
+- Radio Paradise (Curated Radio)
+- Radio 4000
+- Headset (YT + Reddit Lists)
+- Openwhyd ()
