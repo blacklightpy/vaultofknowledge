@@ -8,13 +8,15 @@
 - Milk-V Mars (JH7110)
 - BananaPi JH7110 based
 # Processors
-## Processor Cores
-### CPU
+## SoC
+- LibreSoC
+## CPU
 - Shakti Open Core
 - XuanTie by T-Head
 - SiFive (U74 is in SiFive Essential 7 Series; can run Linux)
+- Rocket Chip
 - asics.ws Cores
-### GPU
+## GPU
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub
 # Designs
@@ -37,16 +39,12 @@
 ## Educational
 - Ben Eater's 8-bit Computer
 - DERULF's 8-bit Computer (based on Ben Eater's)
-
-
+# Peripherals
 ## Radio
 - openwifi SDR
 - MyriadRF SDR
 - Xilinx Zynq based SDRs
-
-- LibreSoC
-
-
+# Software
 - NVIDIA PhysX
 
 Software:
@@ -56,6 +54,6 @@ Software:
 
 Hardware:
 
-| Open Firmware | Open Circuit Board | Open Hardware | Open Case Design | Open License    |
-| ------------- | ------------------ | ------------- | ---------------- | --- |
-|               |                    |               |                  |     |
+| Open Firmware | Open Circuit Board | Open Hardware | Open Case Design | Open License |
+| ------------- | ------------------ | ------------- | ---------------- | ------------ |
+|               |                    |               |                  |              |
