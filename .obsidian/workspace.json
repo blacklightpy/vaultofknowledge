@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Hardware Projects.md"
+                "file": "Z1-Inbox/How to use a Linux System.md"
               }
             }
           },
@@ -285,10 +284,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "V8.md",
     "Free Hardware Projects.md",
+    "V8.md",
     "Z1-Inbox/Music Players and Streaming.md",
     "Apps Database.md",
     "VPNs.md",
