@@ -1,7 +1,6 @@
 
 > [!Reference]
 > See Github: basings/selfhosted-music-overview
-
 # Apps
 ## Local
 - LineageOS Music / Eleven (AOSP Music)
@@ -18,7 +17,6 @@
 - Navidrome
 - Funkwhale (with Dracula theme; Has Subsonic API)
 - MPD + Icecast
-
 ## Radio
 - Poolsuite by Soundcloud (Curated Radio; Retro Aesthetic; not FOSS)
 - Radio Paradise (Curated Radio)

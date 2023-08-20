@@ -110,35 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc1f9257c2c07133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d9e80ff881b8bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telemetry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -212,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telemetry.md",
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telemetry.md",
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telemetry.md"
+                "file": "V8.md"
               }
             }
           },
@@ -297,10 +271,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4d9e80ff881b8bfb",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
-    "Telemetry.md",
     "Z1-Inbox/Music Players and Streaming.md",
+    "Telemetry.md",
     "Z1-Inbox/Server Management Tools.md",
     "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
