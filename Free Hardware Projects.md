@@ -1,9 +1,8 @@
-
 # Organizations
-- FSFE
-- OSSU
+- Free Software Foundation Europe (FSFE)
+- Open Source Society University (OSSU)
 # Production Computers
-## SBCs
+## Single Board Computers
 - StarFive VisionFive 2 (has a GPU; Compares to RPi 4, but with a GPU; JH7110 SoC = 4x FU740 + IT GPU)
 - Pine64 Star64 (JH7110 + WiFi)
 - Milk-V Mars (JH7110)
@@ -50,5 +49,13 @@
 
 - NVIDIA PhysX
 
+Software:
 
+| Open Algorithm | Open Core | Open Source | Open License |
+| -------------- | --------- | ----------- | ------------ |
 
+Hardware:
+
+| Open Firmware | Open Circuit Board | Open Hardware | Open Case Design | Open License    |
+| ------------- | ------------------ | ------------- | ---------------- | --- |
+|               |                    |               |                  |     |
