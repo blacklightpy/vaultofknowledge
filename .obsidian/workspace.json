@@ -123,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "424b011cab371f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distributed Hash Tables.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Hash Tables.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Hash Tables.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Hash Tables.md"
+                "file": "Z1-Inbox/How to use a Linux System.md"
               }
             }
           },
@@ -297,7 +284,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "424b011cab371f94",
+  "active": "98eb96a8417ee867",
   "lastOpenFiles": [
     "Distributed Hash Tables.md",
     "Z1-Inbox/How to use a Linux System.md",
