@@ -18,7 +18,7 @@
 
 > [!NOTE] Notes while installing it
 > You are probably not going to install them yourselves, but for the person who is installing the operating system here are some things to know.
-> 1. Most distributions will not package patented codecs and proprietary drivers by default, and some of them will ask you if you want to include them in your installation. You should choose yes, and if there wasn't such an option
+> 1. Most distributions will not package patented codecs and proprietary drivers by default, and some of them will ask you if you want to include them in your installation. You should choose yes, and if there wasn't such an option, you would need to manually install it afterwards using the package manager.
 
 > [!NOTE] How to Use it
 > Every Linux distribution targeting the average user comes with the Firefox browser. But it may have trouble playing certain video files because they use patented encoding.
