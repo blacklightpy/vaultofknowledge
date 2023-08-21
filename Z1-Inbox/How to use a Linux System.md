@@ -18,7 +18,7 @@
 
 > [!NOTE] Notes while installing it
 > You are probably not going to install them yourselves, but for the person who is installing the operating system here are some things to know.
-> 1. Most distributions will not package patented codecs and proprietary drivers by default, and some of them will ask you if you want to include them in your installation. You should choose yes, and if there wasn't such an option, you would need to manually install it afterwards using the package manager.
+> 1. Most distributions will not package patented codecs and proprietary drivers by default, and some of them will ask you if you want to include them in your installation. You should choose yes, and if there wasn't such an option, you would have to manually install it afterwards using the package manager.
 
 > [!NOTE] How to Use it
 > Every Linux distribution targeting the average user comes with the Firefox browser. But it may have trouble playing certain video files because they use patented encoding.
@@ -34,6 +34,7 @@
 > The way to do this is to uninstall the version of Firefox you have by default, and install the Flatpak version from the Flathub store. If your operating system has Flatpak enabled and the Flathub store added, you should be able to install it from Flatpak.
 > > [!NOTE] What are Flatpak and Flathub?
 > > Flatpak is a software packaging format, in which all software is packaged as a single entity, similar to apps in your smartphone. Flathub is the most popular Flatpak store, which is where we will be installing Firefox from.
+>
 > > [!NOTE] How to know if Flatpak is installed and Flathub is enabled?
 > > All the systems recommended here should have Flatpak enabled by default. But Fedora (Workstation and Silverblue) in particular comes with its own Flatpak repostiory named Fedora, which does not have any proprietary software including the codecs, and you will have to add the Flathub remote manually. 
 > #### Using the software center
