@@ -1,0 +1,1 @@
+A Distributed Hash Table (DHT) is a record format where the hashes are distributed among peers. To find a hash, one must search through peers, but the search is based on the DHT distance metric.
