@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/How to use a Linux System.md",
+                "file": "Z1-Inbox/Server Management Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cloudron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/How to use a Linux System.md",
+                "file": "Z1-Inbox/Server Management Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/How to use a Linux System.md",
+                "file": "Z1-Inbox/Server Management Tools.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/How to use a Linux System.md"
+                "file": "Z1-Inbox/Server Management Tools.md"
               }
             }
           },
@@ -284,12 +285,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "98eb96a8417ee867",
   "lastOpenFiles": [
+    "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/JPEG.md",
     "Z1-Inbox/Entropy.md",
-    "Z1-Inbox/How to use a Linux System.md",
     "Distributed Hash Tables.md",
     "README.md",
     "home.md",
