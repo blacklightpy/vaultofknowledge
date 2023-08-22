@@ -7,7 +7,7 @@ The title for this site was inspired by a location in the game Sky: Children of 
 
 Surely, it doesn't have everything, but it can serve as a map for connecting information. I also continuously re-organize the structures so the heirarchies can change.
 
-You can visit it at https://blacklightpy.github.io/vaulofknowledge
+You can visit it at https://blacklightpy.github.io/vaultofknowledge
 ## Thanks to the Heroes
 
 1. [The Obsidian team](https://obsidian.md/about) - For Obsidian, the PKM tool that encouraged me to edit my notes easily.
