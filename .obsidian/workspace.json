@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloudron",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Server Management Tools.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Server Management Tools.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Server Management Tools.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
               }
             }
           },
@@ -285,7 +284,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "98eb96a8417ee867",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Data Compression Algorithms.md",
