@@ -2,3 +2,4 @@
 - Find the videos from original sources to cite license.
 - Physics Videos by Eugene Khutoryasky
 - Spherical Harmonics Visualized: https://www.youtube.com/watch?v=Ziz7t1HHwBwi (CC-BY)
+- Steve Jobs talks about GNU (elevenai.io, ChatGPT): https://www.youtube.com/watch?v=copPTPfQPMI
