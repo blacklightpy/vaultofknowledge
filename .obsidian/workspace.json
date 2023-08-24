@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/FOSS Software.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/FOSS Software.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/FOSS Software.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/FOSS Software.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md"
               }
             }
           },
@@ -300,8 +300,9 @@
   },
   "active": "36d4fcec0f96a0e0",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
+    "Z1-Inbox/FOSS Software.md",
     "Personal/Task List/To Fill.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
     "PeerTube Content.md",
@@ -325,7 +326,6 @@
     "Telemetry.md",
     "Free Fonts.md",
     "FOSS CPU Cores.md",
-    "FOSS Communications.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
