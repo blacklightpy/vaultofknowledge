@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
+                "file": "Z1-Inbox/Linux Pro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vnc",
+                "query": "xinit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
+                "file": "Z1-Inbox/Linux Pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
+                "file": "Z1-Inbox/Linux Pro.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md"
+                "file": "Z1-Inbox/Linux Pro.md"
               }
             }
           },
@@ -300,8 +300,11 @@
   },
   "active": "36d4fcec0f96a0e0",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+    "Z1-Inbox/How to use a Linux System.md",
+    "Z1-Inbox/Linux Pro.md",
+    "Z1-Inbox/Steps encountered when installing Void.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "Z1-Inbox/FOSS Software.md",
     "Personal/Task List/To Fill.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
@@ -309,7 +312,6 @@
     "V8.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Server Management Tools.md",
-    "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Data Compression Algorithms.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Digital Image Processing/JPEG.md",
     "Z1-Inbox/Entropy.md",
@@ -324,8 +326,6 @@
     "Forward Secrecy.md",
     "Search Engines.md",
     "Telemetry.md",
-    "Free Fonts.md",
-    "FOSS CPU Cores.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
