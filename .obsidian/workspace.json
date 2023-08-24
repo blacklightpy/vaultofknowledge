@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36d4fcec0f96a0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/FOSS Software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vnc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +192,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PeerTube Content.md",
+                "file": "Z1-Inbox/FOSS Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PeerTube Content.md",
+                "file": "Z1-Inbox/FOSS Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PeerTube Content.md"
+                "file": "Z1-Inbox/FOSS Software.md"
               }
             }
           },
@@ -284,10 +298,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "011a2fcca8d98bde",
+  "active": "36d4fcec0f96a0e0",
   "lastOpenFiles": [
-    "V8.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
+    "Personal/Task List/To Fill.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
     "PeerTube Content.md",
+    "V8.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Server Management Tools.md",
     "Z1-Inbox/How to use a Linux System.md",
@@ -308,10 +326,6 @@
     "Free Fonts.md",
     "FOSS CPU Cores.md",
     "FOSS Communications.md",
-    "Visions.md",
-    "Z1-Inbox/FOSS Software.md",
-    "Z1-Inbox/Free Software Index.md",
-    "Resources/Open-Source Tools.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
