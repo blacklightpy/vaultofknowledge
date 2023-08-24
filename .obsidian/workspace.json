@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/Linux Pro.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xinit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Linux Pro.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Linux Pro.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Linux Pro.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md"
               }
             }
           },
@@ -298,10 +298,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "36d4fcec0f96a0e0",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Linux Pro.md",
+    "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Steps encountered when installing Void.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",

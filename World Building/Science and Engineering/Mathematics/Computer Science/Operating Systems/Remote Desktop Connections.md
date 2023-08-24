@@ -11,7 +11,7 @@ Proprietary: AnyDesk, TeamViewer
 # VNC
 ## VNC Servers
 - TightVNC - Seperate Desktop
-- X11VNC - Direct VNX
+- X11VNC - Direct VNC
 - Vino - for GNOME
 - krfb- for KDE
 - TigerVNC - TightVNC fork
