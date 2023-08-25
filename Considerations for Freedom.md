@@ -1,0 +1,1 @@
+Freedom is desirable, but freedom comes with it's own set of problems. So it is important to make weapons and technology to make
