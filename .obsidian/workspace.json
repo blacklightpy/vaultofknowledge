@@ -251,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,6 +272,8 @@
   },
   "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "V8.md",
     "PeerTube Content.md",
     "Considerations for Freedom.md",
     "Evolution of Engineering.md",
@@ -284,7 +285,6 @@
     "Z1-Inbox/FOSS Software.md",
     "Personal/Task List/To Fill.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
-    "V8.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Server Management Tools.md",
     "Z1-Inbox/Data Compression Algorithms.md",
@@ -298,7 +298,6 @@
     "Z1-Inbox/Music Players and Streaming.md",
     "Apps Database.md",
     "VPNs.md",
-    "Forward Secrecy.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
