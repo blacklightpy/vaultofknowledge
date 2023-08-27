@@ -1,5 +1,5 @@
 - Hardware Abstraction API: OpenGL, Vulkan, DirectX
-- Graphics API implementations: 2D: DRM, GDI | 3D: Graphics Card Drivers (DirectX/OpenGL/Vulkan), Mesa3D
+- Graphics API implementations: 2D: DRM, GDI, Graphics Card Drivers (DirectX/OpenGL/Vulkan), | 3D: Graphics Card Drivers (DirectX/OpenGL/Vulkan), Mesa3D
 	- Wayland and Direct2D don't directly access 2D drivers.
 - 3D GUI Libraries:
 	- ImGui (3D Apps)

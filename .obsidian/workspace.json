@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3ef48830862f4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/Graphics Libraries.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -141,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mesa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "Z1-Inbox/Graphics Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "Z1-Inbox/Graphics Libraries.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "Z1-Inbox/Graphics Libraries.md"
               }
             }
           },
@@ -271,16 +285,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b99af105343a65c0",
+  "active": "f3ef48830862f4c8",
   "lastOpenFiles": [
+    "Z1-Inbox/Linux Pro.md",
+    "Z1-Inbox/Graphics Libraries.md",
+    "V8.md",
     "LICENSE.MD",
     "LICENSE.md",
-    "V8.md",
     "PeerTube Content.md",
     "Considerations for Freedom.md",
     "Evolution of Engineering.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
-    "Z1-Inbox/Linux Pro.md",
     "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Steps encountered when installing Void.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
@@ -298,7 +313,6 @@
     "Reading Notes - Why Snikket was made.md",
     "Free Hardware Projects.md",
     "Z1-Inbox/Music Players and Streaming.md",
-    "Apps Database.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
