@@ -1,4 +1,5 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC Zero 1.0][cc-zero-shield]][cc-zero]
+
 # The Vault of Knowledge
 
 This is my personal knowledgebase where I organize information for future reference. Taking notes in this manner helps reduce entropy in my head, and might also help others.
@@ -18,11 +19,12 @@ You can visit it at https://blacklightpy.github.io/vaultofknowledge
 
 ## License
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is waived to the public domain using the [Creative Commons Zero 1.0 Universal Public Domain Dedication][cc-zero].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+To the extent possible under law, [Jyothish Kumar M S](https://ohai.social/@ssunboyy) has waived all copyright and related or neighboring rights to The Vault of Knowledge. This work is published from: India
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[![CC Zero 1.0][cc-zero-image]][cc-zero]
+
+[cc-zero]: http://creativecommons.org/publicdomain/zero/1.0/
+[cc-zero-image]: https://licensebuttons.net/p/zero/1.0/88x31.png
+[cc-zero-shield]: https://img.shields.io/badge/License-CC%20Zero%201.0-lightgrey.svg
