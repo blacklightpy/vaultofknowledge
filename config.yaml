@@ -48,7 +48,8 @@ md_source_host_urls: []
 site_name: Vault of Knowledge
 html_url_prefix: '/vaultofknowledge'
 html_template_path_str: ''
-html_custom_inclusions: []
+html_custom_inclusions:
+  - <meta name="google-site-verification" content="UirlDYot4I965EnU-iSvktvULg5K7pwkFCuTXxeUs78" />
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
