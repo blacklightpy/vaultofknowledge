@@ -272,6 +272,7 @@
   },
   "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
+    "LICENSE.MD",
     "LICENSE.md",
     "V8.md",
     "PeerTube Content.md",
@@ -297,7 +298,6 @@
     "Free Hardware Projects.md",
     "Z1-Inbox/Music Players and Streaming.md",
     "Apps Database.md",
-    "VPNs.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
