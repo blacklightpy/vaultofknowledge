@@ -1,4 +1,4 @@
-[![CC Zero 1.0][cc-zero-shield]][cc-zero]
+![Static Badge](https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green)
 
 # The Vault of Knowledge
 
