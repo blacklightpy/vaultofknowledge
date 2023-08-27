@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green)
+[![CC Zero 1.0][cc-zero-shield]][cc-zero]
 
 # The Vault of Knowledge
 
@@ -27,4 +27,4 @@ To the extent possible under law, [Jyothish Kumar M S](https://ohai.social/@ssun
 
 [cc-zero]: http://creativecommons.org/publicdomain/zero/1.0/
 [cc-zero-image]: https://licensebuttons.net/p/zero/1.0/88x31.png
-[cc-zero-shield]: https://img.shields.io/badge/License-CC%20Zero%201.0-lightgrey.svg
+[cc-zero-shield]: https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green
