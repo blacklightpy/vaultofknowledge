@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
               }
             }
           },
@@ -251,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,7 +271,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
     "World Building/Fun and Activities/Slime/What is slime.md",
     "World Building/Fun and Activities/Slime/How to make slime.md",
