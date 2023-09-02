@@ -112,25 +112,12 @@
             }
           },
           {
-            "id": "bd0da72fbf45752c",
+            "id": "4569bda3a7aed1aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Vulnerabilities.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fd0b4f3740ed891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Resolution.md",
+                "file": "Tor DNS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security Vulnerabilities.md",
+                "file": "Tor DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security Vulnerabilities.md",
+                "file": "Tor DNS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Vulnerabilities.md"
+                "file": "Tor DNS.md"
               }
             }
           },
@@ -297,11 +284,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bd0da72fbf45752c",
+  "active": "4569bda3a7aed1aa",
   "lastOpenFiles": [
-    "Network Resolution.md",
-    "Security Vulnerabilities.md",
     "V8.md",
+    "Tor DNS.md",
+    "Security Vulnerabilities.md",
     "Free Hardware Projects.md",
     "New and Better Technologies.md",
     "Free Music.md",
