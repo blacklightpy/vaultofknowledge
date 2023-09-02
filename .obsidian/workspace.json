@@ -123,14 +123,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01b05d858a5a6197",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
         "currentTab": 8
@@ -294,9 +286,9 @@
   },
   "active": "2794619c5f72a93a",
   "lastOpenFiles": [
+    "Free Hardware Projects.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
-    "Free Hardware Projects.md",
     "_images/image_ytTUdIQR0j.avif",
     "V8.md",
     "FOSS CPU Cores.md",
@@ -338,7 +330,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/iOS App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Mobile App Development",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Cross Platform Application Development",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Browser Extension Development"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Cross Platform Application Development"
   ]
 }
