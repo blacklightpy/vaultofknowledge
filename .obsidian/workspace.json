@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "2152e06146283e7b",
+            "id": "2794619c5f72a93a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -284,8 +284,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2152e06146283e7b",
+  "active": "2794619c5f72a93a",
   "lastOpenFiles": [
+    "V8.md",
+    "Free Hardware Projects.md",
     "FOSS CPU Cores.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
@@ -294,7 +296,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Enterprise Key Management.md",
     "World Building/Fun and Activities/Slime/What is slime.md",
     "World Building/Fun and Activities/Slime/How to make slime.md",
-    "V8.md",
     "World Building/Fun and Activities/Slime/Types of Slime.md",
     "World Building/Fun and Activities/Slime",
     "Z1-Inbox/Graphics Libraries.md",
@@ -312,7 +313,6 @@
     "Personal/Task List/To Fill.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
     "Z1-Inbox/Server Management Tools.md",
-    "Z1-Inbox/Data Compression Algorithms.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

@@ -12,12 +12,15 @@
 - Pine64 Star64 (JH7110 + WiFi)
 - Milk-V Mars (JH7110)
 - BananaPi JH7110 based
-- Milk
+- Milk-V Meles (TH1520)
+- BeagleV Ahead (TH1520)
+- LicheePi 4A (TH1520; Also has tablet, workstation array and console form factors for the LP4A board)
 # Processors
 ## SoC
 - LibreSoC
 - Rocket Chip SoC Generator (Has Rocket Core and other CPUs, can also add custom cores)
-- StarTech StarFive J
+- StarFive JH7110 (4x SiFive FU740 + Imagination Tech GPU)
+- Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech GPU)
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
@@ -65,4 +68,4 @@ Hardware:
 
 | Open Firmware | Open Circuit Board | Open Hardware | Open Case Design | Open License |
 | ------------- | ------------------ | ------------- | ---------------- | ------------ |
-|               |                    |               |                  |         
+|               |                    |               |                  |              |
