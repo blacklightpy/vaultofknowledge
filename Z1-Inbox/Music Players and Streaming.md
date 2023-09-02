@@ -16,6 +16,7 @@
 - Ampache
 - Navidrome
 - Funkwhale (with Dracula theme; Has Subsonic API)
+- Mopidy (with Iris UI)
 - MPD + Icecast
 ## Radio
 - Poolsuite by Soundcloud (Curated Radio; Retro Aesthetic; not FOSS)
