@@ -23,9 +23,9 @@ Milk-V Pioneer (SG2042)
 - LibreSoC
 - Rocket Chip SoC Generator (Has Rocket Core and other CPUs, can also add custom cores)
 - StarFive JH7110 (4x SiFive FU740 + Imagination Tech GPU)
-- Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech GPU + 4 TOPS NPU)
+- Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech BXM-4-64 GPU + 4 TOPS NPU)
 - StarFive JH8100 (upcoming, 12nm)
-- SOPHON SG2042 (64 x C920; RVV 0.71)
+- SOPHON SG2042 (64 x C920; RV V Extension 0.7.1)
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
