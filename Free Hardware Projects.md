@@ -9,7 +9,7 @@
 - GNU/Linux PowerPC Notebook
 
 ## Motherboards
-Milk-V Pioneer (SPHON SG2042 64 core C920; RVV 0.71)
+Milk-V Pioneer (SG2042)
 ## Single Board Computers
 - StarFive VisionFive 2 (has a GPU; Compares to RPi 4, but with a GPU; JH7110 SoC = 4x FU740 + IT GPU)
 - Pine64 Star64 (JH7110 + WiFi)
@@ -24,6 +24,8 @@ Milk-V Pioneer (SPHON SG2042 64 core C920; RVV 0.71)
 - Rocket Chip SoC Generator (Has Rocket Core and other CPUs, can also add custom cores)
 - StarFive JH7110 (4x SiFive FU740 + Imagination Tech GPU)
 - Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech GPU + 4 TOPS NPU)
+- StarFive JH8100 (upcoming, 12nm)
+- SOPHON SG2042 (64 x C920; RVV 0.71)
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
