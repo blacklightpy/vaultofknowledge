@@ -43,7 +43,6 @@ Milk-V Pioneer (SG2042)
 ## GPU
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub
-
 ## FPGA
 NOTE: FPGA Cores can be implemented on FPGA development boards
 - Lattice Semiconductor FPGAs
