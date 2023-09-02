@@ -17,8 +17,8 @@ Milk-V Pioneer (SG2042)
 - BananaPi JH7110 based
 - Milk-V Meles (TH1520)
 - BeagleBoard Beagle-V Ahead (TH1520)
-- Sipeed LicheePi 4A (TH1520; Also has tablet, workstation array and console form factors for the LP4A board)
-- Planned Sipeed SBC based on C908 with RVV Extensions v1.0
+- Sipeed LicheePi 4A (TH1520; Also has tablet, workstation array and console form factors for the LM4A board)
+- Planned Sipeed SBC based on C908 with RVV Extensions v1.0 (https://twitter.com/SipeedIO/status/1654055669774036993/photo/1)
 # Processors
 ## SoC
 - LibreSoC
