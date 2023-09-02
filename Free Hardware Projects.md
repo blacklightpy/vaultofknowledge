@@ -29,6 +29,7 @@ Milk-V Pioneer (SPHON SG2042 64 core C920; RVV 0.71)
 - XuanTie by T-Head
 - SiFive (U74 is in SiFive Essential 7 Series; can run Linux)
 - Rocket Core (By SiFive, UCB and CHIPS Alliance; included with Rocket Chip Generator)
+- BOOM (Berkeley Out of Order Machines; By UCB)
 - asics.ws Cores
 - [[FOSS CPU Cores]]
 ## GPU
@@ -58,7 +59,7 @@ Milk-V Pioneer (SPHON SG2042 64 core C920; RVV 0.71)
 ## Radio
 - openwifi SDR
 - MyriadRF SDR
-- Xilinx Zynq based SDRs
+- Xilinx Zynq based SDRs (Xilinx is not open hardware)
 # Software
 - NVIDIA PhysX
 
