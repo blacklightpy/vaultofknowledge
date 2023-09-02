@@ -112,17 +112,28 @@
             }
           },
           {
-            "id": "06da143876153601",
+            "id": "f5dcd3cb7715dcf3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd0da72fbf45752c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Security Vulnerabilities.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -196,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "Security Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "Security Vulnerabilities.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "Security Vulnerabilities.md"
               }
             }
           },
@@ -281,15 +292,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06da143876153601",
+  "active": "bd0da72fbf45752c",
   "lastOpenFiles": [
+    "Security Vulnerabilities.md",
+    "V8.md",
     "Free Hardware Projects.md",
     "New and Better Technologies.md",
     "Free Music.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
-    "V8.md",
     "FOSS CPU Cores.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
@@ -312,7 +324,6 @@
     "Z1-Inbox/Steps encountered when installing Void.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "Z1-Inbox/FOSS Software.md",
-    "Personal/Task List/To Fill.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

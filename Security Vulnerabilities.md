@@ -1,0 +1,2 @@
+- Compromised Trusted CA issuing false public keys
+- Tor Exit nodes giving fake certificates
