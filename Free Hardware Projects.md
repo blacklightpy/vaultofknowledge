@@ -7,20 +7,23 @@
 - Novena Laptop
 - MNT Reform
 - GNU/Linux PowerPC Notebook
+
+## Motherboards
+Milk-V Pioneer (SPHON SG2042 64 core C920; RVV 0.71)
 ## Single Board Computers
 - StarFive VisionFive 2 (has a GPU; Compares to RPi 4, but with a GPU; JH7110 SoC = 4x FU740 + IT GPU)
 - Pine64 Star64 (JH7110 + WiFi)
 - Milk-V Mars (JH7110)
 - BananaPi JH7110 based
 - Milk-V Meles (TH1520)
-- BeagleV Ahead (TH1520)
-- LicheePi 4A (TH1520; Also has tablet, workstation array and console form factors for the LP4A board)
+- BeagleBoard Beagle-V Ahead (TH1520)
+- Sipeed LicheePi 4A (TH1520; Also has tablet, workstation array and console form factors for the LP4A board)
 # Processors
 ## SoC
 - LibreSoC
 - Rocket Chip SoC Generator (Has Rocket Core and other CPUs, can also add custom cores)
 - StarFive JH7110 (4x SiFive FU740 + Imagination Tech GPU)
-- Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech GPU)
+- Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech GPU + 4 TOPS NPU)
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
