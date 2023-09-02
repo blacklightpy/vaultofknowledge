@@ -112,25 +112,12 @@
             }
           },
           {
-            "id": "4569bda3a7aed1aa",
+            "id": "d76654b4c78d84af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tor DNS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d58039368bc3b5a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md",
+                "file": "Free Hardware Projects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -167,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mopi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,8 +179,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md",
+                "file": "Free Hardware Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md",
+                "file": "Free Hardware Projects.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Music Players and Streaming.md"
+                "file": "Free Hardware Projects.md"
               }
             }
           },
@@ -298,14 +284,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "d76654b4c78d84af",
   "lastOpenFiles": [
-    "Tor DNS.md",
+    "Free Music.md",
+    "New and Better Technologies.md",
     "V8.md",
+    "TOR Readable Names.md",
+    "Z1-Inbox/Music Players and Streaming.md",
     "Security Vulnerabilities.md",
     "Free Hardware Projects.md",
-    "New and Better Technologies.md",
-    "Free Music.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
@@ -329,7 +316,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/Steps encountered when installing Void.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/X WIndowing System.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",

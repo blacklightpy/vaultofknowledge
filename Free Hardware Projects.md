@@ -44,7 +44,7 @@ Milk-V Pioneer (SG2042)
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub
 ## FPGA
-NOTE: FPGA Cores can be implemented on FPGA development boards
+NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
 - Lattice Semiconductor FPGAs
 # Designs
 ## Organizations
