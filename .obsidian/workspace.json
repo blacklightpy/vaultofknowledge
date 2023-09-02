@@ -123,6 +123,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01b05d858a5a6197",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 8
@@ -286,8 +294,11 @@
   },
   "active": "2794619c5f72a93a",
   "lastOpenFiles": [
-    "V8.md",
+    "_images/image_ytTUdIQR0j 1.avif",
+    "_images/image_ytTUdIQR0j-1.avif",
     "Free Hardware Projects.md",
+    "_images/image_ytTUdIQR0j.avif",
+    "V8.md",
     "FOSS CPU Cores.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
@@ -312,7 +323,6 @@
     "Z1-Inbox/FOSS Software.md",
     "Personal/Task List/To Fill.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md",
-    "Z1-Inbox/Server Management Tools.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
@@ -329,8 +339,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/iOS App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Mobile App Development",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Cross Platform Application Development",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Browser Extension Development",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Smartphones",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Browser Extension Development"
   ]
 }

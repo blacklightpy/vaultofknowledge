@@ -18,6 +18,7 @@ Milk-V Pioneer (SG2042)
 - Milk-V Meles (TH1520)
 - BeagleBoard Beagle-V Ahead (TH1520)
 - Sipeed LicheePi 4A (TH1520; Also has tablet, workstation array and console form factors for the LP4A board)
+- Planned Sipeed SBC with RVV Extensions v1.0
 # Processors
 ## SoC
 - LibreSoC
@@ -26,6 +27,7 @@ Milk-V Pioneer (SG2042)
 - Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech BXM-4-64 GPU + 4 TOPS NPU)
 - StarFive JH8100 (upcoming, 12nm)
 - SOPHON SG2042 (64 x C920; RV V Extension 0.7.1)
+
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
@@ -34,9 +36,13 @@ Milk-V Pioneer (SG2042)
 - BOOM (Berkeley Out of Order Machines; By UCB)
 - asics.ws Cores
 - [[FOSS CPU Cores]]
+![](https://hackster.imgix.net/uploads/attachments/1587556/image_ytTUdIQR0j.png)
 ## GPU
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub
+
+## FPGA
+- Lattice Semiconductor FPGAs
 # Designs
 ## Organizations
 - OpenCores.org
