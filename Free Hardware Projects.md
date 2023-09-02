@@ -21,6 +21,7 @@ Milk-V Pioneer (SG2042)
 - Planned Sipeed SBC based on C908 with RVV Extensions v1.0 (https://twitter.com/SipeedIO/status/1654055669774036993/photo/1)
 # Processors
 ## SoC
+- AMIGA Chipset SoC
 - LibreSoC
 - Rocket Chip SoC Generator (Has Rocket Core and other CPUs, can also add custom cores)
 - StarFive JH7110 (4x SiFive FU740 + Imagination Tech GPU)
@@ -44,6 +45,7 @@ Milk-V Pioneer (SG2042)
 - asicguy/gplgpu on GitHub
 
 ## FPGA
+NOTE: FPGA Cores can be implemented on FPGA development boards
 - Lattice Semiconductor FPGAs
 # Designs
 ## Organizations
