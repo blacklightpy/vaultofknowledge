@@ -2,15 +2,22 @@
 - Free Software Foundation Europe (FSFE)
 - Open Source Society University (OSSU)
 # Production Computers
+
+## Laptops
+- Novena Laptop
+- MNT Reform
+- GNU/Linux PowerPC Notebook
 ## Single Board Computers
 - StarFive VisionFive 2 (has a GPU; Compares to RPi 4, but with a GPU; JH7110 SoC = 4x FU740 + IT GPU)
 - Pine64 Star64 (JH7110 + WiFi)
 - Milk-V Mars (JH7110)
 - BananaPi JH7110 based
+- Milk
 # Processors
 ## SoC
 - LibreSoC
 - Rocket Chip SoC Generator (Has Rocket Core and other CPUs, can also add custom cores)
+- StarTech StarFive J
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
@@ -58,4 +65,4 @@ Hardware:
 
 | Open Firmware | Open Circuit Board | Open Hardware | Open Case Design | Open License |
 | ------------- | ------------------ | ------------- | ---------------- | ------------ |
-|               |                    |               |                  |              |
+|               |                    |               |                  |         
