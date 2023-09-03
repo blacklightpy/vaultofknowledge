@@ -50,11 +50,14 @@ NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled
 ### FPGA Design Tooling
 OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
 - OpenFPGA
+- F4PGA (formerly SymbiFlow)
 ### FPGA Development Boards
 - Radiona ULX3S (Lattice ECP5 based; 4 variants - ECP5 12k-84k LUTs)
 - OrangeCrab FPGA
-- iCEBreaker FPGA
+- iCEBreaker FPGA (Lattice iCE40 based)
 - Embedded Micro Mojo V3 FPGA
+
+FPGA Fabrics: Lattice, Microchip, Xilinx, Intel, Analog Devices
 # Designs
 ## Organizations
 - OpenCores.org

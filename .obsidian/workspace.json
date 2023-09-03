@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb548a0073e78d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free Hardware Projects.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "Free Hardware Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "Free Hardware Projects.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "Free Hardware Projects.md"
               }
             }
           },
@@ -271,16 +284,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "bb548a0073e78d33",
   "lastOpenFiles": [
-    "My Hardware Wishlist.md",
-    "V8.md",
+    "Free Music.md",
+    "Free Hardware Projects.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Field Programmable Gate Arrays.md",
-    "Free Hardware Projects.md",
+    "V8.md",
+    "My Hardware Wishlist.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/htmx.md",
     "Z1-Inbox/Map of Folders.md",
-    "Free Music.md",
     "New and Better Technologies.md",
     "TOR Readable Names.md",
     "Z1-Inbox/Music Players and Streaming.md",
