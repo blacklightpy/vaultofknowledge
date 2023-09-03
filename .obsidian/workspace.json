@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "field programmable",
+                "query": "zynq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,7 +298,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d76654b4c78d84af",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Field Programmable Gate Arrays.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
