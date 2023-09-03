@@ -52,8 +52,9 @@ OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2
 - OpenFPGA
 ### FPGA Development Boards
 - Radiona ULX3S (Lattice ECP5 based; 4 variants - ECP5 12k-84k LUTs)
-- OrangeCrab
-- iCEBreaker
+- OrangeCrab FPGA
+- iCEBreaker FPGA
+- Embedded Micro Mojo V3 FPGA
 # Designs
 ## Organizations
 - OpenCores.org

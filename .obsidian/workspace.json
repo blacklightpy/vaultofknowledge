@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Hardware Wishlist.md",
+                "file": "Free Hardware Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Hardware Wishlist.md",
+                "file": "Free Hardware Projects.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Hardware Wishlist.md"
+                "file": "Free Hardware Projects.md"
               }
             }
           },
@@ -297,10 +297,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b990dfaa7feac3e2",
+  "active": "d76654b4c78d84af",
   "lastOpenFiles": [
-    "Free Hardware Projects.md",
     "My Hardware Wishlist.md",
+    "Free Hardware Projects.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/htmx.md",
     "Z1-Inbox/Map of Folders.md",
     "Free Music.md",
