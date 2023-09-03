@@ -36,6 +36,7 @@ Milk-V Pioneer (SG2042)
 - Rocket Core (By SiFive, UCB and CHIPS Alliance; included with Rocket Chip Generator)
 - BOOM (Berkeley Out of Order Machines; By UCB)
 - asics.ws Cores
+- Pile of Cores (PoC; VLSI-EDA/PoC on GitHub)
 - [[FOSS CPU Cores]]
 
 **Some Comparison Overview**
@@ -46,6 +47,9 @@ Milk-V Pioneer (SG2042)
 ## FPGA
 NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
 - Lattice Semiconductor FPGAs
+### FPGA Design Tooling
+- OpenFPGA
+
 # Designs
 ## Organizations
 - OpenCores.org
