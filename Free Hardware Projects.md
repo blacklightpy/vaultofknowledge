@@ -66,6 +66,7 @@ NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled
 - Embedded Micro Mojo V3 FPGA
 
 FPGA Fabrics: Lattice, Microchip, Xilinx, Intel, Analog Devices, QuickLogic
+The FPGA bitstreams are vendor secrets, and open source development boards are made by reverse engineering various core bitstreams.
 # Designs
 ## Organizations
 - OpenCores.org
