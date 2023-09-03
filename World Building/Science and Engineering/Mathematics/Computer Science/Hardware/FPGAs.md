@@ -8,4 +8,4 @@ This refers to the plain hardware of the FPGA, composed of PLBs and PIPs.
 ## FPGA Core
 This can mean either:
 - FPGA RTL code designed for a purpose. e.g. HDMI FPGA Core, LED Blinking FPGA Core
-- Or in case of FPGA based SoCs, it can refer to the part of the SoC that includes the FPGA 
+- Or in case of FPGA based SoCs, it can refer to the part of the SoC that includes the FPGA die, alongside other CPU cores etc. e.g. Xilinx Zynq MPSoCs, Intel Altera SoCs

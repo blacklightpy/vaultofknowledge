@@ -110,35 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d76654b4c78d84af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b990dfaa7feac3e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Hardware Wishlist.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -167,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zynq",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md"
+                "file": "V8.md"
               }
             }
           },
@@ -298,17 +271,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Field Programmable Gate Arrays.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
-    "Free Hardware Projects.md",
     "My Hardware Wishlist.md",
+    "V8.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Field Programmable Gate Arrays.md",
+    "Free Hardware Projects.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/htmx.md",
     "Z1-Inbox/Map of Folders.md",
     "Free Music.md",
     "New and Better Technologies.md",
-    "V8.md",
     "TOR Readable Names.md",
     "Z1-Inbox/Music Players and Streaming.md",
     "Security Vulnerabilities.md",
