@@ -326,6 +326,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Cascading Style Sheets]]
 				- [[Extended Markup Language]]
 				- [[Hosting Platforms]]
+				- [[htmx]]
 				- [[JAMStack]]
 				- [[JavaScript Object Notation]]
 				- [[JavaScript]]

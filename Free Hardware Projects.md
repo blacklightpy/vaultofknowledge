@@ -49,7 +49,6 @@ NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled
 - Lattice Semiconductor FPGAs
 ### FPGA Design Tooling
 - OpenFPGA
-
 # Designs
 ## Organizations
 - OpenCores.org
