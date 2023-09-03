@@ -59,7 +59,7 @@ OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2
 - OpenCores.org
 - CHIPS Alliance
 ## Sub-organizations
-- Digilent Vivado IPs (including PMod BLE)
+- Digilent Vivado IPs (e.g. Pmod BLE)
 - Redwood EDA TL-Verilog
 - Redwood EDA Makerchip
 ## Designs
