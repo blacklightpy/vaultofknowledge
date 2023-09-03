@@ -65,7 +65,7 @@ NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled
 - iCEBreaker FPGA (Lattice iCE40 based)
 - Embedded Micro Mojo V3 FPGA
 
-FPGA Fabrics: Lattice, Microchip, Xilinx, Intel, Analog Devices
+FPGA Fabrics: Lattice, Microchip, Xilinx, Intel, Analog Devices, QuickLogic
 # Designs
 ## Organizations
 - OpenCores.org

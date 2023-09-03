@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+                "file": "Free Hardware Projects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+                "file": "Free Hardware Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+                "file": "Free Hardware Projects.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md"
+                "file": "Free Hardware Projects.md"
               }
             }
           },
@@ -286,10 +286,10 @@
   },
   "active": "bb548a0073e78d33",
   "lastOpenFiles": [
-    "Free Hardware Projects.md",
-    "Free Music.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+    "Free Hardware Projects.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Field Programmable Gate Arrays.md",
+    "Free Music.md",
     "V8.md",
     "My Hardware Wishlist.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/htmx.md",
