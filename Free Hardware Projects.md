@@ -48,7 +48,15 @@ Milk-V Pioneer (SG2042)
 NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
 - Lattice Semiconductor FPGAs
 ### FPGA Design Tooling
-OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
+> [!NOTE]
+> OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
+
+> [!NOTE]
+> ASIC and FPGA EDA Tooling has three components: Hardware Description, Backend and Frontend
+> 
+> Hardware Description: Verilog, VHDL, Chisel, etc.
+> Backend: ASIC/FPGA Tooling, Verification, Testing and Simulation
+> Frontend: Synthesis Tools
 - OpenFPGA
 - F4PGA (formerly SymbiFlow)
 ### FPGA Development Boards
