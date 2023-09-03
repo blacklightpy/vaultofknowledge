@@ -3,3 +3,4 @@
 - Physics Videos by Eugene Khutoryasky
 - Spherical Harmonics Visualized: https://www.youtube.com/watch?v=Ziz7t1HHwBwi (CC-BY)
 - Steve Jobs talks about GNU (elevenai.io, ChatGPT): https://www.youtube.com/watch?v=copPTPfQPMI
+- Swatantra Software (Malayalam): https://videos.fsci.in/videos/watch/8a1f6e31-fc98-4d6f-bf59-b706d768cbb3
