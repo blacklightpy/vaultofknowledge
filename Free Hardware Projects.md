@@ -51,7 +51,9 @@ NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled
 OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
 - OpenFPGA
 ### FPGA Development Boards
-- Radiona ULX3S (Lattice ECP5 based)
+- Radiona ULX3S (Lattice ECP5 based; 4 variants - ECP5 12k-84k LUTs)
+- OrangeCrab
+- iCEBreaker
 # Designs
 ## Organizations
 - OpenCores.org
