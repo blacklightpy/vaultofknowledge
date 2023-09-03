@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b990dfaa7feac3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Hardware Wishlist.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "My Hardware Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "My Hardware Wishlist.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Hardware Projects.md"
+                "file": "My Hardware Wishlist.md"
               }
             }
           },
@@ -284,11 +297,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d76654b4c78d84af",
+  "active": "b990dfaa7feac3e2",
   "lastOpenFiles": [
+    "Free Hardware Projects.md",
+    "My Hardware Wishlist.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/htmx.md",
     "Z1-Inbox/Map of Folders.md",
-    "Free Hardware Projects.md",
     "Free Music.md",
     "New and Better Technologies.md",
     "V8.md",
@@ -315,7 +329,6 @@
     "PeerTube Content.md",
     "Considerations for Freedom.md",
     "Evolution of Engineering.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
