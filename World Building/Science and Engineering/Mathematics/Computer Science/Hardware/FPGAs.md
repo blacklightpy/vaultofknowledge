@@ -5,6 +5,8 @@ An FPGA consists of programmable logic blocks (PLB) such as LUTs, MUX, DSP and R
 Larger FPGA based SoCs can have other macro blocks, e.g. Ethernet, PCIe, etc. or even larger blocks like video codecs for easy onboarding.
 ## FPGA Fabric
 This refers to the plain hardware of the FPGA, composed of PLBs and PIPs.
+The PLBs and other hardwired circuits are known as primitives, and they are the IP of the manufacturer.
+FPGA IP Cores may or may not make use of them.
 ## FPGA Core
 This can mean either:
 - FPGA RTL code designed for a purpose. e.g. HDMI FPGA Core, LED Blinking FPGA Core
