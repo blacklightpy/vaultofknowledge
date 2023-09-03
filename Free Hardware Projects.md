@@ -48,7 +48,10 @@ Milk-V Pioneer (SG2042)
 NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
 - Lattice Semiconductor FPGAs
 ### FPGA Design Tooling
+OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
 - OpenFPGA
+### FPGA Development Boards
+- Radiona ULX3S (Lattice ECP5 based)
 # Designs
 ## Organizations
 - OpenCores.org
