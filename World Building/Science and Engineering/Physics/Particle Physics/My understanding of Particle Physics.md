@@ -5,6 +5,15 @@
 - Some particles have charges that direct their field lines
 - Opposite charges repel each other
 - Some particles have charges which are a fraction of the elementary charge
+- UPDATE: Klein bottles could explain the nature of charge arising from a topology in the spacetime fabric.
+
+---
+About fields:
+- Any field should have point particles to be able to propagate disturbances, just like water.
+- Speed of propagation is the speed of sound in that field, and it is also dependent on the elasticity of the field.
+- Electrons and photons have elastic collisions because they are not part of a complex system like an atom, where collisions don't happen just with the electrons themselves.
+- Electron fields should have point particles in the photon field to propagate their disturbances, just as water molecules are connected by the electric and gravitational force fields.
+- Similarly, spacetime should have point particles constituting the gravity field.
 
 --- 
 
