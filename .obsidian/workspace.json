@@ -138,11 +138,16 @@
             }
           },
           {
-            "id": "e0be0377f91ae90b",
+            "id": "4352f0d6fec6cee2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sound.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -159,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sound",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,8 +218,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Untitled.md",
+                "file": "Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Untitled.md",
+                "file": "Sound.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -263,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Untitled.md"
+                "file": "Sound.md"
               }
             }
           },
@@ -319,10 +323,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "40c93131094b3ecd",
+  "active": "4352f0d6fec6cee2",
   "lastOpenFiles": [
-    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "Sound.md",
+    "Z1-Inbox/Untitled.md",
+    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "Free Hardware Projects.md",
     "Technology.md",
     "V8.md",
@@ -348,9 +354,7 @@
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Enterprise Key Management.md",
     "World Building/Fun and Activities/Slime/What is slime.md",
     "World Building/Fun and Activities/Slime/How to make slime.md",
-    "World Building/Fun and Activities/Slime/Types of Slime.md",
     "World Building/Fun and Activities/Slime",
-    "Z1-Inbox/Graphics Libraries.md",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png",
