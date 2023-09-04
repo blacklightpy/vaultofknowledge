@@ -125,19 +125,6 @@
             }
           },
           {
-            "id": "8c849fdaa071d130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "24d54d7e4fd0443d",
             "type": "leaf",
             "state": {
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "Sound.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md"
+                "file": "Sound.md"
               }
             }
           },
@@ -310,15 +297,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8c849fdaa071d130",
+  "active": "24d54d7e4fd0443d",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
+    "Free Hardware Projects.md",
     "Sound.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "Z1-Inbox/Untitled.md",
     "Z1-Inbox/Tasks.md",
     "Electromagnetic Waves.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
-    "Free Hardware Projects.md",
     "Technology.md",
     "V8.md",
     "PeerTube Content.md",
@@ -340,7 +328,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Hardware Security Module.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Key Management Systems.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Enterprise Key Management.md",
     "World Building/Fun and Activities/Slime",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
