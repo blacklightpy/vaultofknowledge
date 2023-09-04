@@ -277,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,8 +298,8 @@
   },
   "active": "0e2c5f5b0cdc8a13",
   "lastOpenFiles": [
-    "Technology.md",
     "Free Hardware Projects.md",
+    "Technology.md",
     "V8.md",
     "PeerTube Content.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
