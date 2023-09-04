@@ -112,19 +112,6 @@
             }
           },
           {
-            "id": "bb548a0073e78d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Hardware Projects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "24d54d7e4fd0443d",
             "type": "leaf",
             "state": {
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waves.md",
+                "file": "Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waves.md",
+                "file": "Sound.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waves.md"
+                "file": "Sound.md"
               }
             }
           },
@@ -310,20 +297,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ecdd07f863f363fc",
+  "active": "24d54d7e4fd0443d",
   "lastOpenFiles": [
+    "Waves.md",
     "Sound.md",
+    "V8.md",
+    "Free Hardware Projects.md",
+    "PeerTube Content.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
-    "Free Hardware Projects.md",
-    "Waves.md",
     "Z1-Inbox/Untitled.md",
     "Z1-Inbox/Tasks.md",
     "Electromagnetic Waves.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "Technology.md",
-    "V8.md",
-    "PeerTube Content.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Field Programmable Gate Arrays.md",
     "Free Music.md",

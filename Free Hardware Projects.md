@@ -47,6 +47,9 @@ Milk-V Pioneer (SG2042)
 NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
 - Lattice Semiconductor FPGAs
 ### FPGA Design Tooling
+- OpenFPGA
+- F4PGA (formerly SymbiFlow)
+
 > [!NOTE]
 > OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
 
@@ -56,8 +59,6 @@ NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled
 > Hardware Description: Verilog, VHDL, Chisel, etc.
 > Backend: ASIC/FPGA Tooling, Verification, Testing and Simulation
 > Frontend: Synthesis Tools
-- OpenFPGA
-- F4PGA (formerly SymbiFlow)
 ### FPGA Development Boards
 - Radiona ULX3S (Lattice ECP5 based; 4 variants - ECP5 12k-84k LUTs)
 - OrangeCrab FPGA
