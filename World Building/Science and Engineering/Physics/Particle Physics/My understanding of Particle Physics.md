@@ -5,7 +5,8 @@
 - Some particles have charges that direct their field lines
 - Opposite charges repel each other
 - Some particles have charges which are a fraction of the elementary charge
-- UPDATE: Klein bottles could explain the nature of charge arising from a topology in the spacetime fabric.
+- UPDATE: Topological structures like klein bottles could explain the nature of charge arising from a topological knot in the spacetime fabric.
+	- A page with similar visuals: https://www.scirp.org/journal/paperinformation.aspx?paperid=112562
 
 ---
 About fields:

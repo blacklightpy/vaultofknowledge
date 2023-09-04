@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dd1dc496021f70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fabric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +205,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waves.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waves.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waves.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md"
               }
             }
           },
@@ -297,10 +311,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ecdd07f863f363fc",
+  "active": "3dd1dc496021f70e",
   "lastOpenFiles": [
-    "Special Relativity.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "Waves.md",
+    "Special Relativity.md",
     "World Building/Science and Engineering/Physics/Mechanics/Work, Energy and Power/Kugelblitz.md",
     "World Building/Fun and Activities/Photography/Polarising Filter.md",
     "Sound.md",
@@ -324,7 +339,6 @@
     "Z1-Inbox/Map of Folders.md",
     "New and Better Technologies.md",
     "TOR Readable Names.md",
-    "Z1-Inbox/Music Players and Streaming.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
