@@ -136,9 +136,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ec6279db83c5cf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecdd07f863f363fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Waves.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -212,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound.md",
+                "file": "Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound.md",
+                "file": "Waves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound.md"
+                "file": "Waves.md"
               }
             }
           },
@@ -297,11 +318,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "24d54d7e4fd0443d",
+  "active": "ecdd07f863f363fc",
   "lastOpenFiles": [
+    "Waves.md",
+    "Sound.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "Free Hardware Projects.md",
-    "Sound.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "Z1-Inbox/Untitled.md",
     "Z1-Inbox/Tasks.md",
@@ -327,7 +349,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Hardware Security Module.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Key Management Systems.md",
     "World Building/Fun and Activities/Slime",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
