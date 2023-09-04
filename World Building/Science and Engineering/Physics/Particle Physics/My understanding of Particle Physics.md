@@ -14,6 +14,7 @@ About fields:
 - Electrons and photons have elastic collisions because they are not part of a complex system like an atom, where collisions don't happen just with the electrons themselves.
 - Since mass is the warping of spacetime, any disturbance propagates though the spacetime field.
 - So spacetime field should be composed of point particles.
+- Simply put, the wavelength of a wave is a function of its speed of sound, which depends on it
 
 --- 
 
