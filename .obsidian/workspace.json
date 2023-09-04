@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound.md",
+                "file": "Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound.md",
+                "file": "Waves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound.md"
+                "file": "Waves.md"
               }
             }
           },
@@ -297,8 +297,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "24d54d7e4fd0443d",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Wavefunctions.md",
     "Waves.md",
     "Sound.md",
     "V8.md",
@@ -327,7 +328,6 @@
     "FOSS CPU Cores.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Hardware Security Module.md",
     "World Building/Fun and Activities/Slime",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",

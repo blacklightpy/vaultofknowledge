@@ -521,6 +521,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Atomic Orbitals]]
 			- [[Grassman Numbers]]
 			- [[Quantum Field Theory]]
+			- [[Wavefunctions]]
 		- [[Relativistic Quantum Mechanics]]
 		- [[Springs]]
 		- **Thermodynamics**
