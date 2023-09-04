@@ -10,7 +10,7 @@
 ---
 About fields:
 - Any field should have point particles to be able to propagate disturbances, just like water.
-- Speed of propagation is the speed of sound in that field, and it is also dependent on the elasticity of the field.
+- Speed of propagation of disturbances is the speed of sound in that field, and it is also dependent on the elasticity of the field.
 - Electrons and photons have elastic collisions because they are not part of a complex system like an atom, where collisions don't happen just with the electrons themselves.
 - Since mass is the warping of spacetime, any disturbance propagates though the spacetime field.
 - So spacetime field should be composed of point particles.
