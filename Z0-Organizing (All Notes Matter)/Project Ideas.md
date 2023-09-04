@@ -9,3 +9,4 @@
 - Build converters and visualizers like: 
 	- Wavelength visualizer - acswebcontent.acs.org/ChemistryInContextSuite/applets/ElectromagneticSpectrum/electromagneticSpectrum.html (it needs a fix for the js function of Energy display (it wrongly outputs frequency instead))
 	- Colour Space Converters
+- Snapchat in XMPP
