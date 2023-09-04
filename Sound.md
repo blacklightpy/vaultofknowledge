@@ -1,4 +1,4 @@
-Sound is a wave that propagates through a physical medium by pushing on other particles in the medium. Every wave has a frequency and a wavelength, 
+Sound is a wave that propagates through a physical medium by pushing on other particles in the medium. Every wave has a frequency and a wavelength, which are related by the speed of the wave. Since waves propagate by pushing on neighbouring particles, 
 
 Speed of Sound = $\sqrt{\text{(elastic properties) / (inertial properties)}}$
 ## Speed of sound in various media
