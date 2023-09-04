@@ -1,0 +1,5 @@
+
+
+**Why light has momentum but no mass:**
+> https://www.wtamu.edu/~cbaird/sq/2014/04/01/light-has-no-mass-so-it-also-has-no-energy-according-to-einstein-but-how-can-sunlight-warm-the-earth-without-energy/
+> How can an object have momentum without mass? It can do this if it is a wave. A wave transports momentum via its waving motion and not by physically transporting an object with mass. "Momentum" is the directional property of an object in motion that describes its ability to influence another object upon impact. An object with high momentum (such as a truck) can greatly influence the object it collides with (such as a barrel). If a giant water wave collides with a barrel, it can also influence the barrel to move. The water wave therefore carries momentum even though it has no mass. The water itself has mass, but the wave has no mass.
