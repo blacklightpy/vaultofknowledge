@@ -162,9 +162,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d036880b8da5aefc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "16a3538d700ae7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electromagnetic Waves.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -238,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound.md",
+                "file": "Electromagnetic Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound.md",
+                "file": "Electromagnetic Waves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -267,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound.md"
+                "file": "Electromagnetic Waves.md"
               }
             }
           },
@@ -323,11 +344,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "24d54d7e4fd0443d",
+  "active": "16a3538d700ae7e3",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
-    "Sound.md",
+    "Electromagnetic Waves.md",
     "Z1-Inbox/Untitled.md",
+    "Sound.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "Free Hardware Projects.md",
     "Technology.md",
@@ -353,7 +375,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Key Management Systems.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Enterprise Key Management.md",
     "World Building/Fun and Activities/Slime/What is slime.md",
-    "World Building/Fun and Activities/Slime/How to make slime.md",
     "World Building/Fun and Activities/Slime",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
