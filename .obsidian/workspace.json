@@ -138,14 +138,6 @@
             }
           },
           {
-            "id": "2ec6279db83c5cf2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ecdd07f863f363fc",
             "type": "leaf",
             "state": {
@@ -159,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -320,11 +312,11 @@
   },
   "active": "ecdd07f863f363fc",
   "lastOpenFiles": [
-    "Waves.md",
     "Sound.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
-    "Free Hardware Projects.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "Free Hardware Projects.md",
+    "Waves.md",
     "Z1-Inbox/Untitled.md",
     "Z1-Inbox/Tasks.md",
     "Electromagnetic Waves.md",
