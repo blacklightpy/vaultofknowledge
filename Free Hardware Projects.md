@@ -28,7 +28,6 @@ Milk-V Pioneer (SG2042)
 - Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech BXM-4-64 GPU + 4 TOPS NPU)
 - StarFive JH8100 (upcoming, 12nm)
 - SOPHON SG2042 (64 x C920; RV V Extension 0.7.1)
-
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
@@ -89,7 +88,7 @@ The FPGA bitstreams are vendor secrets, and open source development boards are m
 - DERULF's 8-bit Computer (based on Ben Eater's)
 # Peripherals
 ## Radio
-- openwifi SDR
+- openwifi SDR (based on Vivado)
 - MyriadRF SDR
 - Xilinx Zynq based SDRs (Xilinx is not open hardware)
 # Software
