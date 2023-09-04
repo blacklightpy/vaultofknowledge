@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6f0dc219b79dcaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sound.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sound.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sound.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md"
               }
             }
           },
@@ -284,11 +297,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "24d54d7e4fd0443d",
+  "active": "d6f0dc219b79dcaa",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quarks.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Bosons.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Baryons.md",
+    "Sound.md",
     "Waves.md",
     "PeerTube Content.md",
-    "Sound.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "Special Relativity.md",
@@ -301,17 +325,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Spacetime.md",
     "Z1-Inbox/Untitled.md",
     "Z1-Inbox/Tasks.md",
-    "Electromagnetic Waves.md",
-    "Z0-Organizing (All Notes Matter)/Project Ideas.md",
-    "Technology.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
-    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Field Programmable Gate Arrays.md",
-    "Free Music.md",
-    "My Hardware Wishlist.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/htmx.md",
-    "Z1-Inbox/Map of Folders.md",
-    "New and Better Technologies.md",
-    "TOR Readable Names.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
