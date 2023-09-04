@@ -151,7 +151,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/Project Ideas.md",
+                "file": "Z1-Inbox/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -234,6 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z1-Inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,6 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z1-Inbox/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +262,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z1-Inbox/Untitled.md"
+              }
             }
           },
           {
@@ -315,7 +319,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e0be0377f91ae90b",
+  "active": "40c93131094b3ecd",
   "lastOpenFiles": [
     "Z0-Organizing (All Notes Matter)/Project Ideas.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
