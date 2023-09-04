@@ -7,7 +7,7 @@
 - Novena Laptop
 - MNT Reform
 - GNU/Linux PowerPC Notebook
-- ROMA Laptop
+- T-Head ROMA Laptop
 ## Motherboards
 Milk-V Pioneer (SG2042)
 ## Single Board Computers
