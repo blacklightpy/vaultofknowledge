@@ -16,6 +16,10 @@ About fields:
 - So spacetime field should be composed of point particles.
 - Simply put, the wavelength of a wave is a function of its speed of sound, which depends on its elasticity.
 
+> [!NOTE] Atoms of spacetime
+> - http://www.bio21.bas.bg/conference/Conference_files/sa17/Cartas.pdf (read conclusion) [18 slides]
+> - http://kirkmcd.princeton.edu/examples/stiffness.pdf [3 pages, Kip Thorne, Princeton]
+
 --- 
 
 >[! NOTE] Note: Regarding Dimensions
