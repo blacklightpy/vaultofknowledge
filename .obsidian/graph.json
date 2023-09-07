@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file:Obsidian Notes_book",
+  "search": "file:-\"Obsidian Notes_book\" file:-\"Science and Engineering\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 6.875,
   "linkStrength": 0.755208333333333,
   "linkDistance": 280,
-  "scale": 0.32133638605037446,
+  "scale": 0.08317427835927993,
   "close": false
 }
