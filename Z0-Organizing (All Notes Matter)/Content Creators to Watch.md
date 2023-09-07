@@ -14,3 +14,5 @@
 - ScienceClick
 - eigenchris
 - Lesics
+- Zap Physics
+- Pretty Much Physics
