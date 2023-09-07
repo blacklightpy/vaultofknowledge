@@ -110,9 +110,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5562779b69906210",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,9 +220,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "V8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -271,15 +275,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "5562779b69906210",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
+    "V8.md",
     "Sound.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Black Body Radiation.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Black Body.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
@@ -296,7 +301,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Work, Energy and Power/Kugelblitz.md",
     "World Building/Fun and Activities/Photography/Polarising Filter.md",
     "World Building/Science and Engineering/Information and Communication Technology/Antennas.md",
-    "V8.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Wavefunctions.md",
     "Free Hardware Projects.md",
     "_images/image_ytTUdIQR0j 1.avif",
