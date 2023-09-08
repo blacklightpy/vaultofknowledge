@@ -110,17 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5562779b69906210",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "V8.md"
+              }
             }
           },
           {
@@ -275,7 +271,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5562779b69906210",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
