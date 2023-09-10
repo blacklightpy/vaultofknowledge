@@ -71,6 +71,7 @@ The FPGA bitstreams are vendor secrets, and open source development boards are m
 ## Organizations
 - OpenCores.org
 - CHIPS Alliance
+- LibreSilicon
 ## Sub-organizations
 - Digilent Vivado IPs (e.g. Pmod BLE)
 - Redwood EDA TL-Verilog
