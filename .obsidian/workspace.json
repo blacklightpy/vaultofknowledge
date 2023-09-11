@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "296cbf717b669dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SNS Clients.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "SNS Clients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "SNS Clients.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -215,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "SNS Clients.md"
               }
             }
           },
@@ -271,10 +284,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "296cbf717b669dac",
   "lastOpenFiles": [
-    "Free Hardware Projects.md",
+    "SNS Clients.md",
+    "Existing XMPP Clients.md",
     "V8.md",
+    "Free Hardware Projects.md",
     "Duality.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
@@ -297,8 +312,6 @@
     "PeerTube Content.md",
     "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "Special Relativity.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Work, Energy and Power/Kugelblitz.md",
-    "World Building/Fun and Activities/Photography/Polarising Filter.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",

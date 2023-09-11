@@ -1,0 +1,6 @@
+- Conversations / Quicksy / Snikket: Not so great UI
+- Xabber: Clean UI, but no support for OMEMO, not on Play Store
+- yaxim: Classic UI, but outdated app
+- GTalkSMS: Classic UI, does not work with other XMPP servers, outdated
+- Stork IM: Too minimal of an UI, glitchy
+- Kontalk: Can only communicate with Kontalk servers
