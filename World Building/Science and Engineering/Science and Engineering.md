@@ -560,6 +560,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Strong Interactions]]
 		- [[To Learn in Physics]]
 		- [[Weak Interactions]]
+		- [[Zeeman Effect]]
 	- [[Starship Engines]]
 	- **Units and Measurements**
 		- [[Dynamic Range]]

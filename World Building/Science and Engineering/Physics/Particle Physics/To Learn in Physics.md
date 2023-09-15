@@ -2,7 +2,7 @@
 	- Premise: Conservation of Angular Momentum
 	- Einstein de-Haas effect - experiment involving a suspended iron cylinder subjected to a vertical magnetic field causing it to rotate
 	- Electrons have a spin property, which is conserved when they are aligned by the magnetic field
-	- Zeeman Effect: Zeeman, Lorentz figured out that while looking at specific wavelengths emitted by electrons when jumping between energy levels, these energy levels split when atoms are put in an external magnetic field 
+	- [[Zeeman Effect]]: Zeeman, Lorentz figured out that while looking at specific wavelengths emitted by electrons when jumping between energy levels, these energy levels split when atoms are put in an external magnetic field 
 		- Lorentz described this using the ideas of classical physics - that an electron being a spinning ball of charge moving in circles around an atom would lead to a magnetic moment - a dipole magnetic field. The different alignments of that orbital magnetic field relative to the external magnetic field turns one energy level into three.
 		- Anomalous Zeeman effect - In some cases the magnetic field causes energy levels to split even further
 		- One explanation was that each electron has its own magnetic spin

@@ -1,0 +1,3 @@
+- Magnetic Moment - Interaction with Magnetic Fields
+- Causes Splitting of Electron Orbitals
+- The ratio between the lines is the fine structure constant
