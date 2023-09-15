@@ -1,0 +1,1 @@
+Every two body system subject to a scalar field orbits around their common barycenter in one of the conic sections. If the velocity isn't large enough to escape the pull, the trajectory is an ellipse (or circle), or else diverges in a parabolic or hyperbolic path.
