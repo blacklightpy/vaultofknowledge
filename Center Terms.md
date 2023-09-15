@@ -1,6 +1,6 @@
 ## Astronomy
 - Barycenter: The center of mass of two separate bodies, or the weighted midpoint of the line connecting them.
-- Pericenter / Perihelion / Ap:
+- Pericenter / Perihelion / Apohelion:
 - Epicenter:
 
 ## Triangle
