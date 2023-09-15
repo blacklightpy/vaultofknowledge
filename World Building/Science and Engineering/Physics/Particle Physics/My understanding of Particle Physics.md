@@ -5,7 +5,7 @@
 - Some particles have charges that direct their field lines
 - Opposite charges repel each other
 - Some particles have charges which are a fraction of the elementary charge
-- UPDATE: Topological structures like klein bottles could explain the nature of charge arising from a topological knot in the spacetime fabric.
+- UPDATE: Topological structures like Klein bottles could explain the nature of charge arising from a topological knot in the spacetime fabric.
 	- A page with similar visuals: https://www.scirp.org/journal/paperinformation.aspx?paperid=112562
 
 ---
@@ -22,6 +22,11 @@ About fields:
 > [!NOTE] Atoms of spacetime
 > - http://www.bio21.bas.bg/conference/Conference_files/sa17/Cartas.pdf (read conclusion) [18 slides]
 > - http://kirkmcd.princeton.edu/examples/stiffness.pdf [3 pages, Kip Thorne, Princeton]
+
+> [!NOTE] Fields
+> Particles are excitations of fields
+> Electrons are excitations of the Dirac electron field
+> Photons are excitations of the electromagnetic field
 
 --- 
 

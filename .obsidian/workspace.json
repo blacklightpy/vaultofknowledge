@@ -112,17 +112,20 @@
             }
           },
           {
-            "id": "0ed04d0186e74330",
+            "id": "838acd87fb1b5fab",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.10"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -161,14 +164,6 @@
             }
           },
           {
-            "id": "12c99fd5c97351dd",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "f3fe2d9c9de27298",
             "type": "leaf",
             "state": {
@@ -196,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "TIL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "TIL.md"
               }
             }
           },
@@ -291,17 +286,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0ed04d0186e74330",
+  "active": "67b6405ee1d48ed2",
   "lastOpenFiles": [
+    "V8.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Z1-Inbox/Untitled.md",
+    "World Building/Philosophy/The importance of not knowing.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "Electromagnetic Waves.md",
     "SNS Clients.md",
     "Existing XMPP Clients.md",
-    "V8.md",
     "Free Hardware Projects.md",
     "Duality.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "Sound.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Black Body Radiation.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Black Body.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
@@ -315,10 +314,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Baryons.md",
-    "Waves.md",
-    "PeerTube Content.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
-    "Special Relativity.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
