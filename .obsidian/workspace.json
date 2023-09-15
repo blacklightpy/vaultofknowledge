@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88aae47501df5c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Center Terms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "V8.md",
+                "file": "Center Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "V8.md",
+                "file": "Center Terms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "V8.md"
+                "file": "Center Terms.md"
               }
             }
           },
@@ -273,10 +286,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "88aae47501df5c2e",
   "lastOpenFiles": [
-    "Astrophysics.md",
+    "Center Terms.md",
     "V8.md",
+    "Astrophysics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Zeeman Effect.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JavaScript Object Notation.md",
@@ -300,7 +314,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
