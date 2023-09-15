@@ -16,8 +16,9 @@ About fields:
 - Since mass is the warping of spacetime, any disturbance propagates though the spacetime field.
 - So spacetime field should be composed of point particles.
 - Simply put, the wavelength of a wave is a function of its speed of sound, which depends on its elasticity.
+	- Try using stacked pendulum bobs to explain speed of sound
 - I believe the elasticity of the universe is not yet understood, because that could also explain black holes.
-	- Also reference: https://www.physicsforums.com/threads/elastic-limit-of-spacetime.709613/post-4504923 (This bending is known by almost all those who tackled the challenge of understanding astrophysics as Gravity. The elasticity of the Univers is unkown hence we couldn't give you an exact answer, mainly because manifestation of pushing the Universe to the limits, also known as black holes, aren't very well understood when it comes for studying the exact singularity effect on space-time)
+	- Also reference: https://www.physicsforums.com/threads/elastic-limit-of-spacetime.709613/post-4504923 (This bending is known by almost all those who tackled the challenge of understanding astrophysics as Gravity. The elasticity of the Universe is unkown hence we couldn't give you an exact answer, mainly because manifestation of pushing the Universe to the limits, also known as black holes, aren't very well understood when it comes for studying the exact singularity effect on space-time)
 
 > [!NOTE] Atoms of spacetime
 > - http://www.bio21.bas.bg/conference/Conference_files/sa17/Cartas.pdf (read conclusion) [18 slides]
