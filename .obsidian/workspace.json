@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scientists",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -273,7 +274,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06cb80babc5f6d98",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Zeeman Effect.md",
