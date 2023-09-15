@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scientists",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,15 +273,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
+    "Astrophysics.md",
+    "V8.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Zeeman Effect.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JavaScript Object Notation.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/JavaScript.md",
     "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "TIL.md",
-    "V8.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Untitled.md",
     "World Building/Philosophy/The importance of not knowing.md",
@@ -301,7 +301,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
