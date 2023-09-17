@@ -2,6 +2,7 @@
 - Nextcloud
 - YUNOHost
 - Jellyfin
+- ONLYOFFICE Workspace
 
 - Heimdall Dashboard
 - Yacht Container Manager
