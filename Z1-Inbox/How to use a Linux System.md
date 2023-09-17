@@ -156,6 +156,6 @@ GUIDE TODO:
 8. Free Codecs
 9. Free Software
 	1. Cloud: Nextcloud
-	2. Office: LibreOffice
+	2. Office: LibreOffice, ONLYOFFICE
 	3. CAD: FreeCAD, KiCAD, LibrePCB, gEDA, OpenFOAM, Paraview
 	4. Others

@@ -21,7 +21,7 @@
 - **Download Mangers:** Motrix, JDownloader2, AWGG, Download Master (Portable Edition = EN), IDM
 - **Torrent Clients:** Deluge
 - **VPN:** Windscribe
-- **Document Editors:** Drawboard PDF, WPS Office, LibreOffice
+- **Document Editors:** Drawboard PDF, WPS Office, LibreOffice, ONLYOFFICE
 - **Tools:** VMWare Workstation Player, Android Debug Bridge, WinPE, Gandalf's Recovery Image
 - **Games:** San Andreas Multiplayer, Prince of Persia Series, Road Rash, Minecraft, Turing Complete, Crysis, Digital: A Love Story, Start Trek Legacy
 - **Gaming Apps:** Bluestacks Player, Steam, Epic Games, Itch.io, Overwolf

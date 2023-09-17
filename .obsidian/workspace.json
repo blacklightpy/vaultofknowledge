@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab.md",
+                "file": "Z1-Inbox/Steps encountered when installing Void.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "libreo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab.md",
+                "file": "Z1-Inbox/Steps encountered when installing Void.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab.md",
+                "file": "Z1-Inbox/Steps encountered when installing Void.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab.md"
+                "file": "Z1-Inbox/Steps encountered when installing Void.md"
               }
             }
           },
@@ -289,6 +289,9 @@
   },
   "active": "40b3f9f0f5869eda",
   "lastOpenFiles": [
+    "Z1-Inbox/How to use a Linux System.md",
+    "Z1-Inbox/FOSS Software.md",
+    "Apps Database.md",
     "Homelab.md",
     "V8.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
@@ -312,9 +315,6 @@
     "Duality.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "Sound.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Black Body Radiation.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Black Body.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Composite Particles.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",

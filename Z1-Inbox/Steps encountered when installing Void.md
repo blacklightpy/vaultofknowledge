@@ -102,6 +102,7 @@ TODO: Add instructions on enabiling other services like elogind, socklog-void, n
 	- Lutris
 	- Steam
 	- LibreOffice
+	- ONLYOFFICE
 	- Discord
 	- Element (Flatpak didn't work for me (bug))
 - Optional: Install Timeshift for snapshots

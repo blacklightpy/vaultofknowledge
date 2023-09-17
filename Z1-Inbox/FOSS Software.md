@@ -10,6 +10,7 @@
 	4. ProtonUp-Qt
 2. Office
 	1. LibreOffice
+	2. ONLYOFFICE
 3. Browsers
 4. General Work
 	1. Workrave (RSI Prevention)
