@@ -8,7 +8,7 @@ TODO: Add instructions on enabiling other services like elogind, socklog-void, n
 - Optional: Enable Audio Playback
 	- System Update: `sudo xbps-install -Su`
 	- Install ALSA: `sudo xbps-install alsa-utils` 
-	- Add pulsewire?
+	- Add Pipewire and Pipewire-Pulse?
 	- Add user to audio group: `sudo usermod -G audio <username>`
 	- Add user to video group: `sudo usermod -G video <username>`
 	- Install Python: `sudo xbps-install alsa-utils`
