@@ -4,4 +4,6 @@
 - Jellyfin
 
 - Heimdall Dashboard
-- Yatch Container Manager (also Portainer / Ranch )
+- Yacht Container Manager
+	- Portainer (more feature rich)
+	- Rancher by SUSE (Advanced Kubernetes manager based on kubectl etc.)
