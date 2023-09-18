@@ -123,9 +123,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c581a6e3a79c93b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -287,7 +297,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "40b3f9f0f5869eda",
+  "active": "c581a6e3a79c93b8",
   "lastOpenFiles": [
     "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/FOSS Software.md",
