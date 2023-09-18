@@ -112,30 +112,20 @@
             }
           },
           {
-            "id": "40b3f9f0f5869eda",
+            "id": "9dd37f180bb6fa1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Inbox/Steps encountered when installing Void.md",
+                "file": "Orbital Mechanics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c581a6e3a79c93b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -164,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "libreo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Steps encountered when installing Void.md",
+                "file": "Orbital Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Steps encountered when installing Void.md",
+                "file": "Orbital Mechanics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -231,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Steps encountered when installing Void.md"
+                "file": "Orbital Mechanics.md"
               }
             }
           },
@@ -297,15 +287,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c581a6e3a79c93b8",
+  "active": "9dd37f180bb6fa1a",
   "lastOpenFiles": [
+    "Astrophysics.md",
+    "Orbital Mechanics.md",
+    "Z1-Inbox/Steps encountered when installing Void.md",
     "Z1-Inbox/How to use a Linux System.md",
     "Z1-Inbox/FOSS Software.md",
     "Apps Database.md",
     "Homelab.md",
     "V8.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
-    "Astrophysics.md",
     "2-body systems.md",
     "3-body systems.md",
     "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
@@ -323,8 +315,6 @@
     "Existing XMPP Clients.md",
     "Free Hardware Projects.md",
     "Duality.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
-    "Sound.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",

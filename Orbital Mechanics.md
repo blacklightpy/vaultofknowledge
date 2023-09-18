@@ -1,0 +1,1 @@
+- Johannes Kepler, based on the work of his teacher Tycho Brahe, formulated three laws to describe the motion of planets. It wasn't until Isaac Newton came up with the theory of universal gravitation that the reason for this behaviour was explained.
