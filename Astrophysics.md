@@ -7,3 +7,6 @@
 - [[2-body systems]]
 - [[3-body systems]]
 - [[N-body systems]]
+
+- Tidal Locking / Gravitational Locking (In all moons, Venus and Mercury)
+- Tidal Forces (Relativity)
