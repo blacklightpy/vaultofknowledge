@@ -39,3 +39,7 @@ For example, to represent all the quantum states of the electrons for which $n=2
 Fundamental particles contain many quantum numbers intrinsic to them. Fundamental particles themselves are quantum states of the standard model of particle physics. So they bear the same relation to the Hamiltonian of the model as the Bohr atom does to it's Hamiltonian. So, quantum numbers represent the symmetries of a model.
 
 It is useful in [[quantum field theory]] to distinguish between the symmetries of spacetime and internal symmetries.
+
+Examples of spacetime symmetries include spin (related to rotational symmetry), parity, C-parity and T-parity (related to [[poincare symmetries]] of spacetime).
+
+Examples of intrinsic symmetries include the baryon number, lepton number and electric charge. For a full list, see [[flavour]].
