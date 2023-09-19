@@ -1,3 +1,3 @@
-Quantum Hadrodynamics explains the hadron-hadron interactions using mesons. It is partly derived from the field of [[quantum chromodynamics]].
+Quantum Hadrodynamics is an [[effective field theory]] that explains the hadron-hadron interactions using mesons. It is partly derived from the field of [[quantum chromodynamics]].
 
 It explains the nuclear many-body problem as a relativistic system of baryons and mesons. One of the important phenomenon the theory describes are the nuclear forces, or the strong forces between nucleons, which are hadrons, which binds them to form the atomic nucleus. The bosons which mediate the nuclear force are three types of [[mesons]] - pions, rho mesons and omega mesons. Since mesons themselves are hadrons quantum hadrodynamics deals with both the nucleons and the nuclear force carriers.

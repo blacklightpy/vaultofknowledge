@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cc65945e0495cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -233,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md"
               }
             }
           },
@@ -298,14 +311,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bdeeeeb5d2fcbab4",
+  "active": "5cc65945e0495cec",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Effective Field Theory.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Mechanics/Hamiltonian Mechanics.md",
@@ -326,7 +340,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quarks.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
