@@ -6,14 +6,18 @@ energy and their corresponding eigenstates. Together, the set of all quantum num
 
 Most quantum numbers are additive, but some like parity are multiplicative.
 ## For Electrons In Atomic Orbitals
-- Principal Quantum Number (Shell): Can give the energy level of an electron
-- Azimuthal Quantum Number (Subshell): Can give the orbital angular momentum ($L$) through a relation
-- Magnetic Quantum Number (Orbital Orientation): Can specify the orbital cloud, or the projection of the orbital angular momentum along an axis ($L_z$), conventionally the z-axis
-- Magnetic Spin Quantum Number (Electron Spin): Can specify the spin angular momentum ($S$) of the electron
+- Principal Quantum Number, $n$ (Shell)
+	- Can give the energy level of an electron
+- Azimuthal Quantum Number, $l$ (Subshell)
+	- Can give the orbital angular momentum ($L$) through a relation
+- Magnetic Quantum Number, $m_l$ (Orbital Orientation)
+	- Can specify the orbital cloud, or the projection of the orbital angular momentum along an axis ($L_z$), conventionally the z-axis
+- Magnetic Spin Quantum Number ($m_s$) (Electron Spin)
+	- Can specify the spin angular momentum ($S$) of the electron. Values range from $-s$ to $s$, where $s$ is the spin of the particle. For electrons, $s=\frac{1}{2}$, and hence $m_s=\pm\frac{1}{2}$. 
 ## For Total Angular Momentum
 When one takes the spin-orbital interactions into consideration, the $L$ and $S$ operators no longer commute with the [[Hamiltonian]], and their eigenvalues change over time. Hence new quantum numbers should be used.
 ### Of a particle 
-- Total Angular Momentum
+- Total Angular Momentum ($j$): $j=|l \pm m_s|$  
 - Projection of Total Angular Momentum along a specified axis
 - Parity
 ### Nuclear Angular Momentum
