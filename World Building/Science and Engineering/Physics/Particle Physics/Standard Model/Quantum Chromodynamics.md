@@ -10,3 +10,5 @@ It studies the interactions between quarks and the strong nuclear force.
 - This would also explain particles with only two quarks by using anti-quarks which have anti-colours
 - Quarks are bound together by a binding force, mediated by [[bosons]] called [[gluons]]
 - When attempting to remove a quark
+
+Vacuum Expectation Value of Higgs Field

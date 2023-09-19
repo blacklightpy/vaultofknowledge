@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2359362af3a382aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md"
+                "file": "World Building/Philosophy/Western Philosophy/Western Philosophy.md"
               }
             }
           },
@@ -311,16 +324,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5cc65945e0495cec",
+  "active": "2359362af3a382aa",
   "lastOpenFiles": [
+    "World Building/Philosophy/Western Philosophy/Ancient Greek Philosophy.md",
+    "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
+    "World Building/Philosophy/Philosophy.md",
+    "World Building/Philosophy/The importance of not knowing.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
+    "World Building/Philosophy/Metaphysics/Metaphysics.md",
+    "World Building/Philosophy/Metaphysics",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics/Superfluidity.md",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics/Quantum Hydrodynamics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Effective Field Theory.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md",
     "Technobabble.md",
@@ -335,11 +354,6 @@
     "Z1-Inbox/Obsidian Notes_book.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Baryons.md",
     "Bloch Sphere.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Hamiltonian.md",
-    "World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Mechanics.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Index.md",
     "World Building/Science and Engineering/Physics/Astrophysics",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
@@ -357,7 +371,6 @@
     "_images/7.1 Surround Sound System.png",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/iOS App Development"
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development"
   ]
 }
