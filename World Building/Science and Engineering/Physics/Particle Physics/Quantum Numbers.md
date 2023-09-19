@@ -30,6 +30,9 @@ For example, to represent all the quantum states of the electrons for which $n=2
 	- Like the above, $m_j=m_l+m_s$ and $|m_l+m_s| \leq j$ 
 - Parity: It is +1 for states coming from even $l$ and -1 for states coming from odd $l$
 ### Nuclear Angular Momentum
-- The nucleons have a total angular momentum due to the angular momenta of the individual nucleons, and are denoted by $I$.
+- The nucleons have a total angular momentum due to the angular momenta of the individual nucleons, and is denoted by $I$.
+- If the total angular momentum of a neutron is $j_n=l+s$ and that of a proton is $j_p=l+s$ (where $s$ for both protons and neutrons happens to be $\frac{1}{2}$), the values of the total nuclear angular momentum quantum numbers, $I$ are $|j_n-j_p|$, $|j_n-j_p|+1$, $|j_n-j_p|+2$, ..., $|j_n+j_p|-2$, $|j_n+j_p|-1$, $|j_n+j_p|$.
 
+> [!NOTE]
+> The angular orbital momentum of the nucleons are an integer multiple of $\hslash$, while the intrinsic angular momentum of both neutrons and protons are $\frac{1}{2}$. It should be clear that the total angular momentum will always give
 ## In Fundamental Particles
