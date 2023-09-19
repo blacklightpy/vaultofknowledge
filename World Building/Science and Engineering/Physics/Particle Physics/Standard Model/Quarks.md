@@ -1,5 +1,6 @@
 - They have the spin quantum number of 1/2
 - They have [[Color Charge]]
+- They have fractional electric charges
 - They participate in strong interactions
 
 ### Three generations
