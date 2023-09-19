@@ -1,0 +1,1 @@
+The Hamiltonian is an operation which when applied to a system gives the total energy of that system. 
