@@ -469,8 +469,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Vias]]
 	- [[Maxwell's Demon]]
 	- **[[Mechanics]]**
-		- **Astrophysics**
-			- [[Index]]
+		- **[[Astrophysics]]**
 			- [[Orbital Mechanics]]
 		- [[cam synthesis]]
 		- [[Classical Mechanics]]
@@ -542,6 +541,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Models of Particle Physics]]
 		- [[My understanding of Particle Physics]]
 		- [[Poincare Symmetries]]
+		- [[Quantum Numbers]]
 		- [[Spacetime]]
 		- **Standard Model**
 			- [[Baryons]]
