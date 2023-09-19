@@ -1,0 +1,3 @@
+Normal quantum fields vibrate in their ground state due to the creation and annihilation of virtual particles due to the Heisenberg's uncertainty principle. And particles are just excitations in their respective quantum fields. Higgs field is a special field that has an amount of energy in its ground state, and when other fields interact with it, the energy of the combined field increases, and gives rise to mass.
+
+The fields of all fundamental particles with mass interact with the Higgs field.

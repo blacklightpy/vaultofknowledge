@@ -534,6 +534,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Supersymmetry]]
 		- [[Coleman-Mandula Theorem]]
 		- [[Gravitational Lensing]]
+		- [[Higgs Field]]
 		- [[Models of Particle Physics]]
 		- [[My understanding of Particle Physics]]
 		- [[Poincare Symmetries]]

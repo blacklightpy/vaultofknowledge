@@ -1,0 +1,1 @@
+It studies the interactions between quarks and the strong nuclear force.
