@@ -18,10 +18,12 @@ Most quantum numbers are additive, but some like parity are multiplicative.
 	- Can specify the spin angular momentum ($S$) of the electron within an orbital. Values range from $-s$ to $s$, where $s$ is the spin of the particle. For electrons, $s=\frac{1}{2}$, and hence $m_s=\pm\frac{1}{2}$.
 	- It also gives the projection of the spin angular momentum along the specified axis ($S_z = m_s\hslash$).
 ## For Total Angular Momentum
-When one takes the spin-orbital interactions into consideration, the $L$ and $S$ operators no longer commute with the [[Hamiltonian]], and their eigenvalues change over time. Hence new quantum numbers should be used.
+When one takes the spin-orbital interactions into consideration, the $L$ and $S$ operators no longer commute with the [[Hamiltonian]], and their eigenvalues change over time. Hence new quantum numbers should be used. With spin orbital interactions, the total angular momentum $J$ shifts back and forth between $L$ and $S$, while still remaining conserved.
 ### Of a particle 
 - Total Angular Momentum ($j$): $j=|l \pm m_s|$  
-- Projection of Total Angular Momentum along a specified axis
-- Parity
+- Projection of Total Angular Momentum along a specified axis: $m_j$ ranges from $-j$ to $+j$. 
+- Parity: It is positive
 ### Nuclear Angular Momentum
+- For 
+
 ## In Fundamental Particles
