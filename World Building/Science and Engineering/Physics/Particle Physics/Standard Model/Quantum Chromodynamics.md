@@ -6,7 +6,7 @@ It studies the interactions between quarks and the strong nuclear force.
 - So a new parameter named colour charge was established for quarks
 - The colour charges were red, green and blue, analogous to the primary colours in human colour perception
 - Only combinations of colour charges that result in a neutral charge would be valid
-- In other words, colour must be conserved
+- In other words, colour must be conserved, with the net colour charge being zero.
 - This would also explain particles with only two quarks by using anti-quarks which have anti-colours
 - Quarks are bound together by a binding force, mediated by particles called gluons
 - When attempting to remove a quark
