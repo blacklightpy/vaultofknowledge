@@ -20,10 +20,16 @@ Most quantum numbers are additive, but some like parity are multiplicative.
 ## For Total Angular Momentum
 When one takes the spin-orbital interactions into consideration, the $L$ and $S$ operators no longer commute with the [[Hamiltonian]], and their eigenvalues change over time. Hence new quantum numbers should be used. With spin orbital interactions, the total angular momentum $J$ shifts back and forth between $L$ and $S$, while still remaining conserved.
 ### Of a particle 
+In the presence of spin-orbital interactions, particles cannot be described using the previously mentioned quantum numbers with separate angular momentum and spin angular momentum components. These new quantum numbers should hence be used to represent the same states.
+
+For example, to represent all the quantum states of the electrons for which $n=2$.
+
 - Total Angular Momentum ($j$): $j=|l \pm m_s|$  
-- Projection of Total Angular Momentum along a specified axis: $m_j$ ranges from $-j$ to $+j$. 
-- Parity: It is positive
+- Projection of Total Angular Momentum along a specified axis
+	- $m_j$ ranges from $-j$ to $+j$
+	- Like the above, $m_j=m_l+m_s$ and $|m_l+m_s| \leq j$ 
+- Parity: It is +1 for states coming from even $l$ and -1 for states coming from odd $l$
 ### Nuclear Angular Momentum
-- For 
+- The nucleons have a total angular momentum due to the angular momenta of the individual nucleons, and are denoted by $I$.
 
 ## In Fundamental Particles
