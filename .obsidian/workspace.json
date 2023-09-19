@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8eb70bb2c49f15e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -233,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md"
               }
             }
           },
@@ -298,11 +311,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bdeeeeb5d2fcbab4",
+  "active": "8eb70bb2c49f15e5",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Mechanics/Hamiltonian Mechanics.md",
@@ -325,8 +340,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
     "_images/image_ytTUdIQR0j.avif",
