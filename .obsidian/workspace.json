@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Astrophysics/Index.md",
+                "file": "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Astrophysics/Index.md",
+                "file": "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Astrophysics/Index.md",
+                "file": "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Astrophysics/Index.md"
+                "file": "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md"
               }
             }
           },
@@ -300,7 +300,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -326,6 +327,10 @@
   },
   "active": "cb50c9da6c64280f",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Physical Cosmology.md",
+    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
+    "World Building/Science and Engineering/Physics/Astrophysics/Orbital Mechanics.md",
+    "World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology",
@@ -351,10 +356,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Hamiltonian Mechanics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Strong Interactions.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
-    "Z1-Inbox/Obsidian Notes_book.md",
     "World Building/Science and Engineering/Physics/Astrophysics",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",

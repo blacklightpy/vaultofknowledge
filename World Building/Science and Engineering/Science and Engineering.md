@@ -442,10 +442,10 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Transcendal Function]]
 	- [[Smoothing]]
 - **Physics**
-	- **Astrophysics**
-		- [[Index]]
+	- **[[Astrophysics]]**
 		- [[Orbital Mechanics]]
-		- **Physical Cosmology**
+		- **[[Physical Cosmology]]**
+			- [[Big Bang Theory]]
 			- [[Quark Epoch]]
 			- [[Timeline of the Universe]]
 	- **Condensed Matter Physics**
