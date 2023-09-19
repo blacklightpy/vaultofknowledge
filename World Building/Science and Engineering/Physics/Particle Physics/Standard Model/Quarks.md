@@ -8,3 +8,5 @@
 3. Top and Bottom
 
 and their respective anti-particles. Anti-quarks have the same mass, mean lifetime and spin, but have opposite electric charges and colour charges.
+
+There are 6 distinct types of quarks, and together with their colour charge and anti-quark variants, there are 36 types of quarks.

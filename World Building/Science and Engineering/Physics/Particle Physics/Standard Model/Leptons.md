@@ -10,3 +10,5 @@
 and their respective anti-particles. Anti-leptons have the same mass, mean lifetime and spin, but opposite electric charges.
 
 - An antielectron is also called a positron.
+
+There are 6 distinct types of leptons, and together with their anti-particle variants, there are 12 types of leptons.
