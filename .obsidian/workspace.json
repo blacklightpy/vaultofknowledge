@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d15a6d4f31de5c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orbital Mechanics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orbital Mechanics.md",
+                "file": "V8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orbital Mechanics.md",
+                "file": "V8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orbital Mechanics.md"
+                "file": "V8.md"
               }
             }
           },
@@ -287,12 +274,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d15a6d4f31de5c1",
+  "active": "06cb80babc5f6d98",
   "lastOpenFiles": [
+    "Orbital Mechanics.md",
     "Astrophysics.md",
     "Tools for animating 3D models in Web.md",
     "V8.md",
-    "Orbital Mechanics.md",
     "Learning Management Systems.md",
     "Z1-Inbox/Steps encountered when installing Void.md",
     "Z1-Inbox/How to use a Linux System.md",
