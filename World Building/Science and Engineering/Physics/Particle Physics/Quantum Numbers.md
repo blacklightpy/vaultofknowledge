@@ -15,7 +15,8 @@ Most quantum numbers are additive, but some like parity are multiplicative.
 - Magnetic Quantum Number, $m_l$ (Orbital Orientation)
 	- Can specify the orbital cloud, or the projection of the orbital angular momentum along an axis ($L_z$), conventionally the z-axis. Values range from $-l$ to $+l$. It also describes the specific orbital cloud within the orbital.
 - Magnetic Spin Quantum Number ($m_s$) (Electron Spin)
-	- Can specify the spin angular momentum ($S$) of the electron. Values range from $-s$ to $s$, where $s$ is the spin of the particle. For electrons, $s=\frac{1}{2}$, and hence $m_s=\pm\frac{1}{2}$. 
+	- Can specify the spin angular momentum ($S$) of the electron within an orbital. Values range from $-s$ to $s$, where $s$ is the spin of the particle. For electrons, $s=\frac{1}{2}$, and hence $m_s=\pm\frac{1}{2}$.
+	- It also gives the projection of the spin angular momentum along the specified axis ($S_z = m_s\hslash$).
 ## For Total Angular Momentum
 When one takes the spin-orbital interactions into consideration, the $L$ and $S$ operators no longer commute with the [[Hamiltonian]], and their eigenvalues change over time. Hence new quantum numbers should be used.
 ### Of a particle 
