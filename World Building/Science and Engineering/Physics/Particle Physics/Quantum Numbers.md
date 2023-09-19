@@ -7,11 +7,13 @@ energy and their corresponding eigenstates. Together, the set of all quantum num
 Most quantum numbers are additive, but some like parity are multiplicative.
 ## For Electrons In Atomic Orbitals
 - Principal Quantum Number, $n$ (Shell)
-	- Can give the energy level of an electron
+	- Can give the energy level of an electron. It also describes the n-th eigenvalue of the Hamiltonian, that is, the energy excluding the term with the angular momentum $J^2$. So this number only depends on $r$, the distance from the center, and it increases with it. Hence, electrons are said to be in different shells based on $n$.
 - Azimuthal Quantum Number, $l$ (Subshell)
-	- Can give the orbital angular momentum ($L$) through a relation
+	- Can give the orbital angular momentum ($L$) through the relation $L^2=\hslash^2 l(l+1)$. Values range from $0$ to $n-1$.
+	- The orbitals are named s-orbital, d
+	- It also describes the shape of the orbital.
 - Magnetic Quantum Number, $m_l$ (Orbital Orientation)
-	- Can specify the orbital cloud, or the projection of the orbital angular momentum along an axis ($L_z$), conventionally the z-axis
+	- Can specify the orbital cloud, or the projection of the orbital angular momentum along an axis ($L_z$), conventionally the z-axis. Values range from $-l$ to $+l$.
 - Magnetic Spin Quantum Number ($m_s$) (Electron Spin)
 	- Can specify the spin angular momentum ($S$) of the electron. Values range from $-s$ to $s$, where $s$ is the spin of the particle. For electrons, $s=\frac{1}{2}$, and hence $m_s=\pm\frac{1}{2}$. 
 ## For Total Angular Momentum
