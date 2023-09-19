@@ -34,5 +34,8 @@ For example, to represent all the quantum states of the electrons for which $n=2
 - If the total angular momentum of a neutron is $j_n=l+s$ and that of a proton is $j_p=l+s$ (where $s$ for both protons and neutrons happens to be $\frac{1}{2}$), the values of the total nuclear angular momentum quantum numbers, $I$ are $|j_n-j_p|$, $|j_n-j_p|+1$, $|j_n-j_p|+2$, ..., $|j_n+j_p|-2$, $|j_n+j_p|-1$, $|j_n+j_p|$.
 
 > [!NOTE]
-> The angular orbital momentum of the nucleons are an integer multiple of $\hslash$, while the intrinsic angular momentum of both neutrons and protons are $\frac{1}{2}$. It should be clear that the total angular momentum will always give
+> The angular orbital momentum of the nucleons are an integer multiples of $\hslash$, while the intrinsic angular momentum of both neutrons and protons are half integer multiples. It should be clear that the total angular momentum will always give half integer values for nuclei with odd A and integer values for even A. (A being the atomic mass)
 ## In Fundamental Particles
+Fundamental particles contain many quantum numbers intrinsic to them. Fundamental particles themselves are quantum states of the standard model of particle physics. So they bear the same relation to the Hamiltonian of the model as the Bohr atom does to it's Hamiltonian. So, quantum numbers represent the symmetries of a model.
+
+It is useful in [[quantum field theory]] to distinguish between the symmetries of spacetime and internal symmetries.
