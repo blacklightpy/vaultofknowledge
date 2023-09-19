@@ -2,9 +2,9 @@
 - They have [[Color Charge]]
 - They have fractional electric charges
 - They participate in strong interactions
-### Three generations
+### Three generations (+2/3 and -1/3 electric charges respectively)
 1. Up and Down
 2. Charm and Strange
 3. Top and Bottom
 
-They also have anti-particles known as anti-quarks. They have the same spin, but have opposite electric charges and colour charges.
+and their respective anti-particles. Anti-quarks have the same mass, mean lifetime and spin, but have opposite electric charges and colour charges.
