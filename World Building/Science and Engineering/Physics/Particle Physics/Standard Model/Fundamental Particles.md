@@ -6,17 +6,14 @@ As a result of flavour and colour charges and anti-particles, fermions and boson
 They are subatomics particles with fractional spin quantum numbers. They obey Fermi-Dirac statistics. They are: 
 - [[Quarks]] and Antiquarks
 - [[Leptons]] and Antileptons
-
 ### [[Bosons]]
 They are subatomics particles with integer spin quantum numbers. They obey Bose-Einstein statistics. They are:
 - [[Gauge Bosons]]: [[Photons]], [[W and Z Bosons]], Eight types of [[Gluons]], [[Gravitons]] (hypothetical)
 - [[Scalar Bosons]]: [[Higgs Boson]]
-
 ### [[Hadrons]]
 They are [[Composite Particles]] made by two or more quarks held together by [[Strong Interactions]]. Each hadron must fall under the category of either a boson or a fermion. They are of two types:
 - [[Baryons]]
 - [[Mesons]]
-
 ### Quasiparticles
 #### Fermion-like
 - Three degrees of freedom of an electron within a molecule (charge, spin, orbital) can be seperated by the wavefunction into three particles: Holon, Spinon, Orbiton

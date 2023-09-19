@@ -2,7 +2,6 @@ They are the particles responsible for forces between other particles. The known
 
 The hypothetical [[Gravitons]] have spin = 2 and is a tensor boson. But it is not known whether it is a gauge boson as well.
 
-
 There are four types of gauge bosons:
 - [[Photons]] (they are the EM )
 - [[W and Z Bosons|W Bosons]]

@@ -545,6 +545,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Color Charge]]
 			- [[Composite Particles]]
 			- [[Fermions]]
+			- [[Flavour]]
 			- [[Fundamental Particles]]
 			- [[Gauge Bosons]]
 			- [[Gluons]]
