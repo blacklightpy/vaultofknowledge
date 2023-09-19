@@ -1,1 +1,1 @@
-Quantum Electrodynamics (QED) explains interactions of electrons using virtual photons and the electromagnetic field.
+Quantum Electrodynamics (QED) explains interactions of electric charges using virtual photons and the electromagnetic field.

@@ -1,5 +1,9 @@
 It studies the interactions between quarks and the strong nuclear force.
 
 - Mesons and Baryons are made up of quarks
-- Quarks have fractional charges
-- More than two quarks in the 
+- Quarks have fractional charges and half spins
+- More than two quarks with equal spin in the same region would violate Pauli's exclusion principle
+- So a new parameter named colour charge was established for quarks
+- The colour charges were red, green and blue, analogous to the primary colours in human colour perception
+- Only combinations of colour charges that result in a neutral charge would be valid
+- This would also explain particles with only two quarks by using anti-quarks which have anti-colours
