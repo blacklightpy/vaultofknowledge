@@ -469,6 +469,9 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Vias]]
 	- [[Maxwell's Demon]]
 	- **[[Mechanics]]**
+		- **Astrophysics**
+			- [[Index]]
+			- [[Orbital Mechanics]]
 		- [[cam synthesis]]
 		- [[Classical Mechanics]]
 		- **Continuum Mechanics**
@@ -531,6 +534,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Stress-Energy Tensor]]
 	- **Particle Physics**
 		- **Beyond the Standard Model**
+			- [[Grand Unified Theory]]
 			- [[Supersymmetry]]
 		- [[Coleman-Mandula Theorem]]
 		- [[Gravitational Lensing]]

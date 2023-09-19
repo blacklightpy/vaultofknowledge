@@ -1,5 +1,4 @@
-It is the study of the application of forces and the induced motions in an object.
-
+It is the study of the application of forces and the induced motions in an object. It also includes the nature of interactions between particles.
 # Branches
 - Classical Mechanics
 	- Continuum Mechanics
