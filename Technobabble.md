@@ -1,0 +1,2 @@
+- Positronic brain: First described by Asimov, used in Star Trek
+- Tachyons: Faster than light particles, used in Star Trek
