@@ -442,6 +442,12 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Transcendal Function]]
 	- [[Smoothing]]
 - **Physics**
+	- **Astrophysics**
+		- [[Index]]
+		- [[Orbital Mechanics]]
+	- **Condensed Matter Physics**
+		- [[Quantum Hydrodynamics]]
+		- [[Superfluidity]]
 	- **Electronics and Electricity**
 		- [[Active-Pixel Sensor]]
 		- [[Avalanche Breakdown]]
@@ -469,8 +475,6 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Vias]]
 	- [[Maxwell's Demon]]
 	- **[[Mechanics]]**
-		- **[[Astrophysics]]**
-			- [[Orbital Mechanics]]
 		- [[cam synthesis]]
 		- [[Classical Mechanics]]
 		- **Continuum Mechanics**
@@ -564,6 +568,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Photons]]
 			- [[Quantum Chromodynamics]]
 			- [[Quantum Electrodynamics]]
+			- [[Quantum Flavordynamics]]
 			- [[Quantum Hadrodynamics]]
 			- [[Quarks]]
 			- [[Scalar Bosons]]
