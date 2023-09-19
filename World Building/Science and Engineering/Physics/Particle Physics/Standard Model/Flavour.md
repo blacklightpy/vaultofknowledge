@@ -5,3 +5,12 @@ Flavours are the different types, or species of [[fundamental particles]]. There
 - Strangeness ($S$)
 - Topness ($T$)
 - Bottomness ($B'$)
+## Related Quantum Numbers
+- Baryon Number ($B$)
+- Lepton Number ($L$)
+- Weak Isospin ($T$ or $T_3$)
+- Electric Charge ($Q$)
+- X-Charge ($X$)
+### Combinations
+- Hypercharge
+- Weak hypercharge

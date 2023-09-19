@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md"
               }
             }
           },
@@ -288,12 +288,12 @@
   },
   "active": "bdeeeeb5d2fcbab4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quarks.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Flavour.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gauge Bosons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quarks.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Higgs Field.md",
