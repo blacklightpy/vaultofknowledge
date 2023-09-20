@@ -162,9 +162,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62ee630dbfd4bc1e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -230,7 +238,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +254,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -258,9 +264,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -325,10 +329,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bdeeeeb5d2fcbab4",
+  "active": "62ee630dbfd4bc1e",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Physical Cosmology.md",
