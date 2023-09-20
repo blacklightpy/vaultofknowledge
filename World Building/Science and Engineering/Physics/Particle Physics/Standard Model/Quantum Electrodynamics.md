@@ -2,4 +2,4 @@ Quantum Electrodynamics (QED) explains interactions of electric charges using vi
 
 It was the first theory which achieved full agreement between quantum mechanics and special relativity.
 
-QED served as the model and template for all subsequent quantum field theories. One example is [[quantum chromodynamics]].
+QED served as the model and template for all subsequent quantum field theories. One such example is [[quantum chromodynamics]].
