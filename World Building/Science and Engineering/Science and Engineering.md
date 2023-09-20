@@ -448,6 +448,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Big Bang Theory]]
 			- [[Quark Epoch]]
 			- [[Timeline of the Universe]]
+			- [[ΛCDM Model]]
 	- **Condensed Matter Physics**
 		- [[Quantum Hydrodynamics]]
 		- [[Superfluidity]]
