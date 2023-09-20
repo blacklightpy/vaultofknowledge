@@ -11,5 +11,5 @@ It studies the interactions between quarks and the strong nuclear force.
 - Quarks are bound together by a binding force, mediated by [[bosons]] called [[gluons]]
 - When attempting to remove a quark
 
-Chiral Symmetry breaking - Forming pions - Served as a prototype and an ingredient for the Higgs Mechanism
+Chiral Symmetry breaking - quark confinement - Forming pions - Served as a prototype and an ingredient for the Higgs Mechanism
 Vacuum Expectation Value of Higgs Field (246 GeV).
