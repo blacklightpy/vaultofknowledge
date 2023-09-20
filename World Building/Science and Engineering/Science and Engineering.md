@@ -16,6 +16,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Jablonski Diagrams]]
 		- [[Luminescence]]
 		- [[Phosphor]]
+		- [[Quantum Chemistry]]
 		- **Spectroscopy**
 			- [[Hyperspectral Imaging]]
 			- [[Multispectral Imaging]]
