@@ -15,6 +15,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Flourescence]]
 		- [[Jablonski Diagrams]]
 		- [[Luminescence]]
+		- [[Molecular Orbital Theory]]
 		- [[Phosphor]]
 		- [[Quantum Chemistry]]
 		- **Spectroscopy**
@@ -26,6 +27,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Spectrophotometry]]
 			- [[Wavelength-weighted Power]]
 		- [[Spectroscopy]]
+		- [[Valence Bond Theory]]
 - **Engineering**
 	- **Aerospace Engineering**
 		- **Aeronautical Engineering**

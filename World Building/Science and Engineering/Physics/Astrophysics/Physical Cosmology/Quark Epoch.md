@@ -1,1 +1,1 @@
-It was the 
+It was the period in evolution of the early universe in which the four fundamental interactions had taken their present forms, but the temperature of the universe was still too high for the [[quarks]] to bind to form [[hadrons]].

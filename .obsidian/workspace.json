@@ -162,35 +162,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86c84811f4e6e1a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Inorganic/Crystal Field Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3ecf60159830002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Physical/Quantum Chemistry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -256,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Physical/Quantum Chemistry.md",
+                "file": "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Physical/Quantum Chemistry.md",
+                "file": "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Chemistry/Physical/Quantum Chemistry.md"
+                "file": "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md"
               }
             }
           },
@@ -350,10 +324,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e3ecf60159830002",
+  "active": "cb50c9da6c64280f",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Chemistry/Physical/Quantum Chemistry.md",
     "World Building/Science and Engineering/Chemistry/Inorganic/Crystal Field Theory.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Valence Bond Theory.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Molecular Orbital Theory.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Quantum Chemistry.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
@@ -378,8 +354,6 @@
     "World Building/Philosophy/The importance of not knowing.md",
     "World Building/Philosophy/Metaphysics",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics/Superfluidity.md",
-    "World Building/Science and Engineering/Physics/Condensed Matter Physics/Quantum Hydrodynamics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics",
     "World Building/Science and Engineering/Physics/Astrophysics",
     "_images/image_ytTUdIQR0j 1.avif",
