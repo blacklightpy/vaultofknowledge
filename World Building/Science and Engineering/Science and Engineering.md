@@ -560,6 +560,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Poincare Symmetries]]
 		- [[Quantum Numbers]]
 		- [[Spacetime]]
+		- [[Spontaneous Symmetry Breaking]]
 		- **Standard Model**
 			- [[Baryons]]
 			- [[Bosons]]
