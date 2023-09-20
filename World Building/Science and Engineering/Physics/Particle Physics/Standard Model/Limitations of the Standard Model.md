@@ -1,0 +1,4 @@
+- It does not explain gravity
+- At extremely high energies, all forces should unify, but experiments in particle physics have shown that the unification energies don't match up.
+- Dark matter was used to explain the acceleration of the stars on outer edges of the galaxy being faster than what's predicted by gravity. We do not understand dark matter, though it comprises 2/3-rds of the universe.
+- Dark matter could not be made from any of the fundamental particles. Astronomical evidence also suggests that they are not simply small black holes.

@@ -167,8 +167,13 @@
             "id": "62ee630dbfd4bc1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -238,6 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,6 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -264,7 +271,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md"
+              }
             }
           },
           {
@@ -331,6 +340,8 @@
   },
   "active": "62ee630dbfd4bc1e",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
@@ -358,8 +369,6 @@
     "World Building/Science and Engineering/Physics/Condensed Matter Physics",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Flavordynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Gluons.md",
     "World Building/Science and Engineering/Physics/Astrophysics",
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/image_ytTUdIQR0j-1.avif",
