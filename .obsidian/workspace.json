@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md"
               }
             }
           },
@@ -325,8 +325,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5cc65945e0495cec",
+  "active": "bdeeeeb5d2fcbab4",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Physical Cosmology.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Orbital Mechanics.md",
@@ -334,17 +337,14 @@
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology",
-    "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Effective Field Theory.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "World Building/Philosophy/Metaphysics/Metaphysics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Western Philosophy/Western Philosophy.md",
     "World Building/Philosophy/Western Philosophy/Ancient Greek Philosophy.md",
     "World Building/Philosophy/The importance of not knowing.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Philosophy/Metaphysics",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics/Superfluidity.md",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics/Quantum Hydrodynamics.md",
