@@ -10189,7 +10189,7 @@
 
 # Desktop Environments
 
-![[Desktop Environments|Desktop Environments.md]]
+![[Z1-Inbox/Desktop Environments|Desktop Environments.md]]
 
 ---
 

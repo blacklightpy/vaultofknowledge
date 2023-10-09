@@ -454,6 +454,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Quark Epoch]]
 			- [[Timeline of the Universe]]
 			- [[ΛCDM Model]]
+		- [[Tidal Locking]]
 	- **Condensed Matter Physics**
 		- [[Quantum Hydrodynamics]]
 		- [[Superfluidity]]
@@ -536,6 +537,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Atomic Orbitals]]
 			- [[Grassman Numbers]]
 			- [[Quantum Field Theory]]
+			- [[Spin-Orbit Interactions]]
 			- [[Wavefunctions]]
 		- [[Relativistic Quantum Mechanics]]
 		- [[Springs]]
@@ -544,6 +546,8 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- **Work, Energy and Power**
 			- [[Kugelblitz]]
 			- [[Stress-Energy Tensor]]
+	- **Nuclear Physics**
+		- [[Nuclear Shell Model]]
 	- **Particle Physics**
 		- **Beyond the Standard Model**
 			- [[Fifth Force]]
@@ -589,6 +593,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[To Learn in Physics]]
 		- [[Weak Interactions]]
 		- [[Zeeman Effect]]
+	- **[[Spintronics]]**
 	- [[Starship Engines]]
 	- **Units and Measurements**
 		- [[Dynamic Range]]

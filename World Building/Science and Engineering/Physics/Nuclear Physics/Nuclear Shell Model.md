@@ -1,0 +1,1 @@
+This is analogous to the [[Atomic Orbitals|atomic shell model]].

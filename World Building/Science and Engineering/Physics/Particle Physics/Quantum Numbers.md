@@ -20,7 +20,7 @@ Most quantum numbers are additive, but some like parity are multiplicative.
 ## For Total Angular Momentum
 When one takes the spin-orbital interactions into consideration, the $L$ and $S$ operators no longer commute with the [[Hamiltonian]], and their eigenvalues change over time. Hence new quantum numbers should be used. With spin orbital interactions, the total angular momentum $J$ shifts back and forth between $L$ and $S$, while still remaining conserved.
 ### Of a particle 
-In the presence of spin-orbital interactions, particles cannot be described using the previously mentioned quantum numbers with separate angular momentum and spin angular momentum components. These new quantum numbers should hence be used to represent the same states.
+In the presence of [[spin-orbit interactions|spin-orbital interactions]], particles cannot be described using the previously mentioned quantum numbers with separate angular momentum and spin angular momentum components. These new quantum numbers should hence be used to represent the same states.
 
 For example, to represent all the quantum states of the electrons for which $n=2$.
 

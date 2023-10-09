@@ -1,0 +1,1 @@
+Path integral formulation of quantum mechanics was a way of thinking about quantum mechanics proposed by Richard Feynman in his college years. This way of thinking has proved to be essential in our current understanding of quantum mechanical systems.

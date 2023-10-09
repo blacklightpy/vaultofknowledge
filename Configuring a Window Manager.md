@@ -1,0 +1,20 @@
+# Aspects
+- [[Compositors|Compositor]]
+- Volume and Brightness Status and Control
+- Network Status and Control
+- SSH agent, GPG agent, polkit agent
+- Screenshot Tools
+- Application Launcher
+- Media controls
+- Notifications
+- HiDPI Support
+	- Cursor Resizing
+- Automounting of external ddrives
+- Automatic multi-monitor support
+	- Desktop gracefully adapting to monitors being added and removed
+- Screen Locking
+- Power Management
+	- Battery Status
+	- Low Power Warnings
+- Clipboard Preservation
+- [[Colour Management]]

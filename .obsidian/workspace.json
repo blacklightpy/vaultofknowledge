@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfe29688793fb7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Responding to hateful interactions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+                "file": "Responding to hateful interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+                "file": "Responding to hateful interactions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md"
+                "file": "Responding to hateful interactions.md"
               }
             }
           },
@@ -279,8 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,35 +310,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5cc65945e0495cec",
+  "active": "bfe29688793fb7b4",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
+    "Responding to hateful interactions.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Electroweak interactions.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Electrodynamics.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Electroweak Epoch.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Hadron Epoch.md",
-    "World Building/Science and Engineering/Physics/Electronics and Electricity/Electromagnetic Theory.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
-    "World Building/Science and Engineering/Chemistry/Inorganic/Crystal Field Theory.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Valence Bond Theory.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Molecular Orbital Theory.md",
-    "World Building/Science and Engineering/Chemistry/Physical/Quantum Chemistry.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Orbital Mechanics.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Physical Cosmology.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/ΛCDM Model.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Fifth Force.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "Configuring a Window Manager.md",
+    "Path Integral Formulation.md",
+    "Personal/Creative and Recreational/Colours I like.md",
+    "Personal/Creative and Recreational/Desktop Environments.md",
+    "Personal/Task List/To Fill.md",
+    "Personal/Creative and Recreational/Playlists.md",
+    "Personal/Creative and Recreational/Clothing.md",
+    "Personal/Creative and Recreational/To Learn.md",
+    "Personal/Creative and Recreational/3D File Formats.md",
+    "Personal/Creative and Recreational/3D Modelling.md",
+    "Personal/Creative and Recreational/Blender.md",
+    "Personal/Creative and Recreational/Aesthetics.md",
+    "Personal/Creative and Recreational/Cartography.md",
+    "Personal/Creative and Recreational/Computer Aided Design.md",
+    "Personal/Creative and Recreational/Design.md",
+    "Personal/Creative and Recreational/Engineering.md",
+    "Personal/Creative and Recreational/Games and Activities.md",
+    "Personal/Creative and Recreational/Graphics.md",
+    "Personal/Creative and Recreational/LaTeX.md",
+    "Personal/Creative and Recreational/Math Rendering.md",
+    "Personal/Creative and Recreational/Maya.md",
+    "Personal/Creative and Recreational/Nature.md",
+    "Personal/Creative and Recreational/Nostalgia.md",
+    "Personal/Creative and Recreational/RPG Development.md",
+    "World Building/Science and Engineering/Physics/Spintronics",
+    "World Building/Science and Engineering/Physics/Nuclear Physics",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Hadrodynamics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Effective Field Theory.md",
-    "World Building/Philosophy/Metaphysics/Metaphysics.md",
-    "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Metaphysics",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics",
     "World Building/Science and Engineering/Physics/Astrophysics",
@@ -344,8 +357,6 @@
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
     "_images/5.1 Surround Sound System.png",
-    "_images/7.1 Surround Sound System.png",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development/Flutter",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Cross Platform App Development"
+    "_images/7.1 Surround Sound System.png"
   ]
 }

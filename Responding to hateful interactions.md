@@ -1,0 +1,5 @@
+"I don't like to leave your responses unattended, because I always do my best to interact with people and form friendly relationships. However, your opinion seems to be negative and controlling, and engaging further in the conversation will likely only lead to me losing my peace and temper. It is important for anyone to have their individuality, and unless it affects someone directly, there should be no problem with keeping it. Even if it does threaten someone, but the individual doesn't care about it, this is applicable - and such issues should ideally be resolved by diplomatic force, not by arguments that don't fall on their ears.
+
+"STATE YOUR REASONS"
+
+I will not be responding further regarding this unless you are going to respect my opinion. I believe I've done my best to respond to your opinion."
