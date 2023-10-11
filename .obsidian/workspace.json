@@ -138,12 +138,12 @@
             }
           },
           {
-            "id": "bfe29688793fb7b4",
+            "id": "f3eb5db8336676a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responding to hateful interactions.md",
+                "file": "History of Intel CPUs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Responding to hateful interactions.md",
+                "file": "History of Intel CPUs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Responding to hateful interactions.md",
+                "file": "History of Intel CPUs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Responding to hateful interactions.md"
+                "file": "History of Intel CPUs.md"
               }
             }
           },
@@ -287,7 +287,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -310,10 +311,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bfe29688793fb7b4",
+  "active": "f3eb5db8336676a3",
   "lastOpenFiles": [
-    "Responding to hateful interactions.md",
+    "History of Intel CPUs.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+    "Responding to hateful interactions.md",
     "Configuring a Window Manager.md",
     "Path Integral Formulation.md",
     "Personal/Creative and Recreational/Colours I like.md",
@@ -337,7 +339,6 @@
     "Personal/Creative and Recreational/Maya.md",
     "Personal/Creative and Recreational/Nature.md",
     "Personal/Creative and Recreational/Nostalgia.md",
-    "Personal/Creative and Recreational/RPG Development.md",
     "World Building/Science and Engineering/Physics/Spintronics",
     "World Building/Science and Engineering/Physics/Nuclear Physics",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology",
