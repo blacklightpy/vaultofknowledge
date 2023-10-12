@@ -1,0 +1,1 @@
+- https://linuxfr.org/users/apichat/journaux/salut-toto-salutation-regle-editoriale-et-nom-sur-internet

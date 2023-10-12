@@ -1,3 +1,5 @@
+See: The Collector's Guide to Vintage Intel Microchips
+# From 4000 series
 - Micro-Computer Set-4 (MCS-4) - 4000 series chips
 	- The system consisted of 4 chips - 4001 (ROM), 4002 (RAM), 4003 (Shift Register), 4004 (CPU)
 	- Additionally, two more chips were added to work with other memory chips - 4008 (Address Latch), 4009 (I/O interface)
