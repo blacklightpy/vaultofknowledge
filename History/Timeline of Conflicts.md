@@ -1,0 +1,32 @@
+- World War I
+	- Allied Powers (Britain, etc.) vs Axis/Central Powers (Ottoman Empire, etc.)
+- Arab Revolt - The first ever Arab nationalist movement
+	- Started in 1916 to establish a unified Arab state from Aleppo (Syria) to Aden (Yemen) (middle east area)
+	- Britain promised to support them, and together they conquered the Ottoman Empire
+	- British secretly signed the Sykes-Picot agreement with the French government
+	- So they went back on their promise and divided the middle east into a number of League of Nations Mandates controlled by Britain and France
+- Paris Peace Conference and the establishment of League of Nations
+	- British Mandate for Palestine
+		- Formed Mandatory Palestine
+		- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
+		- The Balfour declaration was further confusing the issue with the Arabs
+		- Transjordan was added to the mandate after Franco-Syrian War
+- Formation of Nationalist Socialist German Workers party
+- World War 2
+	- Holocaust
+	- Death of Hitler
+	- Atomic bombs
+- Cold War
+- UN Partition Plan for Palestine at the end of British mandate
+	- Formation of Arabic and Jewish states
+		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
+- Israel-Palestine Conflicts
+	- 1949 War
+	- 1967 War
+	- 1993 Oslo Peace Accords with the Palestine Liberation Organization (PLO)
+	- Intifadas in 90s and in 00s by Hamas
+	- Gaza War 2008
+	- Gaza War 2014
+	- 2023 Israel-Hamas War
+- Geneva Convention
+- Berlin Wall

@@ -31,6 +31,10 @@ Gym Equipment
 - Dumbells
 - Workout Bench
 - Workout mat
+	- Eco Friendly: Natural Tree Rubber, Jute+Polymer Environmental Resin, Natural Rubber+Polyurethane (PU), Cotton+Hemp, Hemp, Cork+Rubber base
+	- Non-Eco Friendly: NBR (Nitrile Butadiene / Synthetic Rubber)
+		- Recyclable: PVC, TPE (Thermoplastic Elastomer)
+		- Non-recyclable: EVA (+Low Density Polyethelene Foam), Polypropylene (degrades in ~20-30 years)
 - Equipment mat
 
 - Jump rope
