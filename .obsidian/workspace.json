@@ -292,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,9 +314,9 @@
   },
   "active": "85f7ce22a0d0c956",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-    "History/Timeline of Conflicts.md",
     "Z1-Inbox/To Do.md",
+    "History/Timeline of Conflicts.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "Culture/Muslim Culture.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "History of Intel CPUs.md",
