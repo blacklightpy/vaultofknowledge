@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "85f7ce22a0d0c956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Timeline of Conflicts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -217,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -246,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md"
               }
             }
           },
@@ -312,10 +299,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "85f7ce22a0d0c956",
+  "active": "5cc65945e0495cec",
   "lastOpenFiles": [
-    "Z1-Inbox/To Do.md",
     "History/Timeline of Conflicts.md",
+    "Z1-Inbox/To Do.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "Culture/Muslim Culture.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
