@@ -149,22 +149,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d73ccdcc56d5a04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Klein Bottle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -230,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Klein Bottle.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Klein Bottle.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Klein Bottle.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -305,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,10 +312,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d73ccdcc56d5a04f",
+  "active": "9c03053a48c039bc",
   "lastOpenFiles": [
-    "_images/170px-Klein_bottle.svg.png",
     "Klein Bottle.md",
+    "_images/170px-Klein_bottle.svg.png",
     "History/Timeline of Conflicts.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Supersymmetry.md",
@@ -370,7 +358,6 @@
     "_images/Antenna Gain.png",
     "_images/GStreamer Filter Graph Example.png",
     "_images/9.2.2 Surround Sound System.png",
-    "_images/5.1 Surround Sound System.png",
-    "_images/7.1 Surround Sound System.png"
+    "_images/5.1 Surround Sound System.png"
   ]
 }
