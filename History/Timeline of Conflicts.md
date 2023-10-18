@@ -1,3 +1,9 @@
+- Constantinople moved the capital of Roman Empire from Rome to Constantine
+- Roman empire was invaded by the barbarians, or non-Romans
+- Roman empire was split into Western Roman empire and Eastern Roman empire, also called the Byzantine empire
+- Islam was invented
+- The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire
+- [CisJordan was the area west of Jordan river (historically known as Palestine, Caanan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and TransJordan was the area east of Jordan river (now Jordan).]
 - World War I
 	- Allied Powers (Britain, etc.) vs Axis/Central Powers (Ottoman Empire, etc.)
 - Arab Revolt - The first ever Arab nationalist movement
