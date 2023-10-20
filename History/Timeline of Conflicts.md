@@ -9,7 +9,9 @@
 - Constantine took the help of Pope in Western Roman empire to start the crusades to capture back the holy land
 - Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
 	- They werere
-- [Sunni muslims belive the caliphates should be elected. Shia Muslims believe that they should be an imam chosen by god]
+- [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet)]
+	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
+	- Mahdi is not based on the Quran, but on the haddiths.
 - [Cis-Jordan was the area west of Jordan river (historically known as Caanan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
 - 
 - World War I
