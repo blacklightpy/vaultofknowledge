@@ -1,9 +1,16 @@
-- Constantinople moved the capital of Roman Empire from Rome to Constantine
+- Constantine The Great moved the capital of Roman Empire from Rome to Constantinople
 - Roman empire was invaded by the barbarians, or non-Romans
 - Roman empire was split into Western Roman empire and Eastern Roman empire, also called the Byzantine empire
-- Islam was invented
+- Islam was founded
+	- The polytheists of Quraysh had the Muslims move from Mecca to Medina
+	- While at Medina, according to the Quran, the prophet declared a 
+	- Banu Qurayza, Banu Qaynua and Banu Nadir
 - The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire
-- [CisJordan was the area west of Jordan river (historically known as Caanan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and TransJordan was the area east of Jordan river (now Jordan). Basically Transjoradan and CisJordan was in combination called Palestine]
+- Constantine took the help of Pope in Western Roman empire to start the crusades to capture back the holy land
+- Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
+	- They werere
+- [Sunni muslims belive the caliphates should be elected. Shia Muslims believe that they should be an imam chosen by god]
+- [Cis-Jordan was the area west of Jordan river (historically known as Caanan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
 - 
 - World War I
 	- Allied Powers (Britain, etc.) vs Axis/Central Powers (Ottoman Empire, etc.)
