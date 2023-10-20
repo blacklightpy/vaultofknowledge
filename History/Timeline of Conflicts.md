@@ -1,5 +1,12 @@
+- Lambda-CDM Model of the Big Bang Theory
+(don't go too far Jyothish)
+Firstly, our models of physical cosmology has consensus on the Lambda-CDM parametrization of the Big Bang Theory. The parts beyond physics (meta-physics) are the subject of religions and philosophy. I don't think we disag
+
 - [Semitic languages were a Afroasiatic group of languages including Arabic, Amharic, Hebrew, etc.]
-- 
+- Mesopotamian civilization originated between the rivers Euphrates and Tigris in modern day Iraq.
+# 3 Millenia BC
+- Akkadian empire was the first known major empire in Mesopotamia.
+# 2 Millenia BC
 - Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
 - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
 - The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
@@ -7,6 +14,7 @@
 - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
 - Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
 - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
+- They were conquered by the First Persian Empire.
 
 
 
