@@ -7,6 +7,7 @@
 	- Banu Qurayza, Banu Qaynua and Banu Nadir
 - The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire
 - Constantine took the help of Pope in Western Roman empire to start the crusades to capture back the holy land
+- The fourth crusade ended up capturing the Byzantine empire as part of the Latin empire and weaking Constantinople
 - Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
 	- They werere
 - [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet)]
@@ -44,5 +45,5 @@
 	- Gaza War 2008
 	- Gaza War 2014
 	- 2023 Israel-Hamas War
-- Geneva Convention
+- Geneva Conventions of 1949
 - Berlin Wall
