@@ -1,12 +1,16 @@
-"A man (or woman) becomes a hero only after he's dead. When he's alive, you can't see the divinity in him (or her), as a person among us, so you elevate them after their deaths."
+"A man (or woman) becomes a hero only after he's dead. When he's alive, you can't see the divinity in him (or her), as a person among us, so you elevate them after their deaths." (The prophets; only older prophets, not modern day prophets.)
 
-"Each religion presents history in their own manner with a sprinkle of faith, so how convenient is it to present them as right it history? To all believers, they are the ones who are right."
+"Each religion presents history in their own manner in the name of god's will, so how convenient is it to present themselves as right in history? To all believers, they are the ones who are right."
+
+Also, the Jews didn't agree with Muslims because his teachings differed from their own scriptures. How convenient is it to then reject the interpretation of what's true by rejecting anything that deviates from the previous model? It is one thing to say they don't believe it, and another to say that it deviates from the scriptures. If it didn't deviate from the scriptures, it'd be the same, isn't it? I'd say the same is true for Muslims, because now they too will not believe in anything besides their scriptures. [Verify context of deviation and decide if you need this.]
 
 - Lambda-CDM Model of the Big Bang Theory
 (don't go too far Jyothish)
 Firstly, our models of physical cosmology has consensus on the Lambda-CDM parametrization of the Big Bang Theory, based on QFT and General Relativity. The parts beyond physics (meta-physics) are the subject of religions and philosophy. I don't think we disagree on physical cosmology, but some people seem to do. But I'll be skipping that part, and focusing only on the human civilizations. So we had the solar system form, the Cambrian explosion happen and the evolution of mammals.
 
 Now, the history of human civilization can be mapped to the oldest known traces, or the cradles of civilization.
+
+With agriculture, food became more reliable, but less varied, and people became more prone to diseases, and settling together made diseases easier to spread.
 
 - [Semitic languages were a Afroasiatic group of languages including Arabic, Amharic, Hebrew, etc.]
 - Mesopotamian civilization originated between the rivers Euphrates and Tigris in modern day Iraq.
