@@ -1,6 +1,12 @@
+"A man (or woman) becomes a hero only after he's dead. When he's alive, you can't see the divinity in him (or her), as a person among us, so you elevate them after their deaths."
+
+"Each religion presents history in their own manner with a sprinkle of faith, so how convenient is it to present them as right it history? To all believers, they are the ones who are right."
+
 - Lambda-CDM Model of the Big Bang Theory
 (don't go too far Jyothish)
-Firstly, our models of physical cosmology has consensus on the Lambda-CDM parametrization of the Big Bang Theory. The parts beyond physics (meta-physics) are the subject of religions and philosophy. I don't think we disag
+Firstly, our models of physical cosmology has consensus on the Lambda-CDM parametrization of the Big Bang Theory, based on QFT and General Relativity. The parts beyond physics (meta-physics) are the subject of religions and philosophy. I don't think we disagree on physical cosmology, but some people seem to do. But I'll be skipping that part, and focusing only on the human civilizations. So we had the solar system form, the Cambrian explosion happen and the evolution of mammals.
+
+Now, the history of human civilization can be mapped to the oldest known traces, or the cradles of civilization.
 
 - [Semitic languages were a Afroasiatic group of languages including Arabic, Amharic, Hebrew, etc.]
 - Mesopotamian civilization originated between the rivers Euphrates and Tigris in modern day Iraq.
