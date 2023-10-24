@@ -1,0 +1,6 @@
+- Talmud: The canonical oral law which helps interpret the laws of the Tanakh. It is the collection of sayings by the rabbis and Jewish scholars.
+	- Mishnah: How to apply the commandment of the Torah
+- Tanakh: The Hebrew scriptures (An acronym made of the three subsets of it)
+	- Torah: Law, five books of Moses
+	- Nevi'im: Prophets, eight books of prophets
+	- Ketuvim: Writings, eleven books of writings
