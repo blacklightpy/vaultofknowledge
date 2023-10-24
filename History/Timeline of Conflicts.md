@@ -50,6 +50,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Indo-Europeans or Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
 	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
 	- [Indo-Iranians split into Iranians and Indo-Aryans]
+		- According to the Rigveda and Avesta, being an Indo-Iranian or Aryan was about rituals and linguistic, not about race. If you did the right rituals, you would be an Aryan.
 		- [Indo-Iranians were the ones who called themselves Aryans, even though the term -arya is of Proto-Indo-European origin]
 	- [By the beginning of CE, they had control over all of Europe and Western Asia]
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
