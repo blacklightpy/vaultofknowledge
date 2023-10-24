@@ -115,7 +115,7 @@ Arabic arrived in Palestine after 1st century AD.
 ---
 - Mayans figure out the stars
 - Teotihuacan is a highly populated city
-- 576 AD: Go:ktu:rks have taken over the entire Eurasian Steppe (Middle)
+- 576 AD: Göktürks have taken over the entire Eurasian Steppe (Middle)
 - India is broken, China is back together with the Sui Dynasty
 - Trading kingdoms of Southeast Asia get bigger Dvaravati, Chenla and Champa
 - Korea has 3 kingdoms: Goguryeo, Silla, Baekje
