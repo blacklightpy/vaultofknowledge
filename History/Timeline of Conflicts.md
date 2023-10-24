@@ -111,6 +111,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 (Akkadian), Amorite, Kassite, Elamite, Aramean, Assyrian, Chaldean, Persian, Greek and Parthian
 
 Jews are named after the Kingdom of Judah.
+Some of the Jews exiled during the Babylonian exile came to Er
 Arabic arrived in Palestine after 1st century AD.
 
 - Alexander the Great conquered Mesopotamia and the rest of the Roman empire.
