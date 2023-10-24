@@ -126,7 +126,7 @@ Arabic arrived in Palestine after 1st century AD.
 	- 622 AD: The polytheist tribe of Quraysh had the Muslims move from Mecca to Medina
 	- While at Medina, according to the Quran, the prophet declared a 
 	- Banu Qurayza, Banu Qaynua and Banu Nadir
-- 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa
+- 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the Sassanid Empire
 ---
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
 - The Moors (Black Arabs) spread over all of the Arabic countries and Western Europe
