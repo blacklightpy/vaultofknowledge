@@ -22,4 +22,6 @@
 - Chinese 
 - Mesoamerican
 - Elamite script
-- 
+- Early Semitic Alphabets
+- Anatolian Hieroglyphics (Indo-European)
+- Cretan and Greek Scripts
