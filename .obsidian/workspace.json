@@ -331,7 +331,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,7 +351,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9c03053a48c039bc",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
     "History/Periods of Archaeological History.md",
     "History/Timeline of Conflicts.md",
