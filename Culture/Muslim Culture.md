@@ -1,8 +1,9 @@
 # Important Festivals
 - Id
 # Keywords
-- Ifthar
+- Iftar
 - Ramzan
+- ibn - Son of
 # The Quran
 - Al Qu'uran, translates to the "word of god".
 - Allah is the god of the world

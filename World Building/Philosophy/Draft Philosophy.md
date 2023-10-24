@@ -6,5 +6,5 @@ Not all levels of light can be observed and radiatied by energy sources. This al
 
 The photoelectric effect allows camera sensors to take in light filtered at different levels and thereby allow perception of energy in different colours.
 
-- Mathematics can be though of as trying to abstractly trying to discipline the flowing real world.
+- Mathematics can be thought of as trying to abstractly trying to discipline the flowing real world.
 - Same for digital signals, as they can be thought of as trying to discipline the flowing analog world.

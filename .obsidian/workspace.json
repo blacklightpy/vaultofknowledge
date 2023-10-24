@@ -162,9 +162,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d831c5fc470ff85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Periods of Archaeological History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d9bffcac4cfd03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -230,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -305,8 +331,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,37 +350,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "280247d5cf002403",
+  "active": "9c03053a48c039bc",
   "lastOpenFiles": [
+    "History/Periods of Archaeological History.md",
+    "History/Timeline of Conflicts.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "History/Timeline of Greek History.md",
+    "Untitled.md",
+    "Literature/Evolution of Ancient Greek Literature.md",
+    "Literature/Legalese.md",
+    "World Building/Philosophy/Draft Philosophy.md",
+    "Mathematics.md",
+    "Culture/Muslim Culture.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+    "Literature/Roman and Greek Poets.md",
+    "World Building/Science and Engineering/Chemistry/Physical/Attosecond Chemistry.md",
     "World Building/Philosophy/Metaphysics/Metaphysics.md",
     "World Building/Philosophy/Philosophy.md",
     "World Building/Philosophy/Life.md",
-    "World Building/Philosophy/Draft Philosophy.md",
     "World Building/Philosophy/Elements of the world.md",
     "World Building/Philosophy/Spirituality.md",
     "World Building/Philosophy/The importance of not knowing.md",
-    "History/Timeline of Conflicts.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Klein Bottle.md",
     "_images/Klein bottle.svg.png",
-    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Supersymmetry.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "Z1-Inbox/To Do.md",
-    "Culture/Muslim Culture.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "History of Intel CPUs.md",
-    "New way of addressing identities.md",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
-    "Responding to hateful interactions.md",
-    "Configuring a Window Manager.md",
-    "Path Integral Formulation.md",
-    "Personal/Creative and Recreational/Colours I like.md",
-    "Personal/Creative and Recreational/Desktop Environments.md",
-    "Personal/Task List/To Fill.md",
-    "Personal/Creative and Recreational/Playlists.md",
-    "Personal/Creative and Recreational/Clothing.md",
     "World Building/Science and Engineering/Physics/Spintronics",
     "World Building/Science and Engineering/Physics/Nuclear Physics",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology",
