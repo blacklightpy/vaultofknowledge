@@ -167,7 +167,7 @@ Arabic arrived in Palestine after 1st century AD.
 - 1100 AD: Tolteks appears, and then they disappear
 - Mississippi appears along the mounds
 - Pueblo appears, and it's a town in a cliff
-- 1150 AD: Khmer appears in Cambodia and Pagan appears in Burma
+- 1150 AD: Khmer appears in Cambodia and Pagan (also called Bagan) appears in Burma
 - Vietnam, or Dia Vet unconquered itself
 - Korea, or Goryeo became itself
 - 1192 AD: Japan is so addicted to art that the Shogunate military takes over
