@@ -68,7 +68,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 --------
 - The Median empire conquered part of the Neo-Babylonian empire
-- They were conquered by the First Persian Empire.
+- They were conquered by the First Persian Empire, the Achaemenid Empire.
 - Buddha was enlightened in Bodh Gaya
 - China just got split
 - Confucius was figuring out morals
