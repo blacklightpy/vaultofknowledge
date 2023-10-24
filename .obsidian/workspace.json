@@ -164,19 +164,6 @@
             }
           },
           {
-            "id": "3d831c5fc470ff85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Periods of Archaeological History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d9bffcac4cfd03e",
             "type": "leaf",
             "state": {
@@ -190,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -256,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Periods of Archaeological History.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Periods of Archaeological History.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Periods of Archaeological History.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -351,11 +338,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3d831c5fc470ff85",
+  "active": "9c03053a48c039bc",
   "lastOpenFiles": [
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Untitled.md",
     "History/Timeline of Conflicts.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "History/Periods of Archaeological History.md",
     "History/Timeline of Greek History.md",
     "Literature/Evolution of Ancient Greek Literature.md",
