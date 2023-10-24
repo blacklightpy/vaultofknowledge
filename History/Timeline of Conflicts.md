@@ -24,6 +24,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - People spread everywhere across Europe, Africa and Asia
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
+### H
 # 4 Millenia BC
 [Chalcolithic Age]
 [Bronze Age]
