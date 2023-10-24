@@ -50,8 +50,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Indo-Europeans or Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
 	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
 	- [Indo-Iranians split into Iranians and Indo-Aryans]
+		- [Indo-Iranians were the ones who called themselves Aryans, even though]
 	- [By the beginning of CE, they had control over all of Europe and Western Asia]
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
+	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
+		- [Urdu is Indo-European, but was standardized as Persian Arabic script]
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
 - Iron Age begins
