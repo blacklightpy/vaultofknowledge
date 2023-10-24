@@ -51,6 +51,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
 	- [Indo-Iranians split into Iranians and Indo-Aryans]
 		- According to the Rigveda and Avesta, being an Indo-Iranian or Aryan was about rituals and linguistic, not about race. If you did the right rituals, you would be an Aryan.
+		- Later texts reinterpreted the meaning as Aryans being a honorific title for Brahmins, and the non-Aryans were seen as a lower class.
 		- [Indo-Iranians were the ones who called themselves Aryans, even though the term -arya is of Proto-Indo-European origin]
 	- [By the beginning of CE, they had control over all of Europe and Western Asia]
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
