@@ -48,7 +48,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Egypt and Mycenaean Greece also form
 - Indus River Valley Civilization died
 - Indo-Europeans or Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
-	- [Indo-Europeans > Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
+	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
+	- [Indo-Iranians split into Iranians and Indo-Aryans]
+	- [By the Med]
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
 - Iron Age begins
