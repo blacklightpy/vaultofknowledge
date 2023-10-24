@@ -15,7 +15,6 @@
 - Vinca symbols
 - Dispilio tablet
 - Indus script / Harappan script
-
 ## Bronze Age
 - Sumerian cuneiform
 - Egyptian hieroglyphics
@@ -25,3 +24,10 @@
 - Early Semitic Alphabets
 - Anatolian Hieroglyphics (Indo-European)
 - Cretan and Greek Scripts
+
+# Language families
+There are many, but I'll name just a few I'm familiar with:
+
+- Indo-European > Anatolian, Indo-Iranian
+- Afro-Asiatic > Semitic Languages
+- Dravidian > Malayalam, Tamil
