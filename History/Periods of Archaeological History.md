@@ -11,6 +11,5 @@ Generally we have the three age system of Stone Age, Bronze Age and Iron Age, wi
 	- Middle
 	- Late
 - Iron Age
-	- I
-	- II
 - Medieval Period
+- Modern Period
