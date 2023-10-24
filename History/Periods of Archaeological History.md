@@ -1,3 +1,8 @@
+The periods of history can be classified into Eons > Eras > Periods > Epochs > Ages
+We are presently in the Holocene Epoch, since the end of the last Ice Age.
+
+
+
 This is different for different regions (Levant, Indus River Valley, Greece, etc.)
 
 Generally we have the three age system of Stone Age, Bronze Age and Iron Age, with finer extensions and then the modern historical period.
