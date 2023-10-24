@@ -39,6 +39,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [Canaan is the grandson of Noah]
 	- [He was cursed to perpetual slavery because his father Ham "looked upon" the drunk and naked Noah]
 	- [The Bible separates Israelites from Canaanites, but archaeology points that Israelites are a subset of Canaanites]
+	- [The Twelve sons of Jacob fled to Egypt after a drought in Canaan]
+	- [The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]
+	- 
 ----
 - Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites)
 - Indo-Europeans made the Hittite empire
