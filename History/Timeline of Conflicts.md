@@ -274,7 +274,7 @@ Arabic arrived in Palestine after 1st century AD.
 		- He was opposed to slavery for this contamination of whites
 	- His Novel "Ternove" was the first one with which he linked class with race
 	- He wrote his theory of scientific racism in his book, "An Essay on the Inequality of the Human Races" and wanted to be remembered as its author.
-	- Aside from that, he was known as a poet and a writer, writing about his adventures in Iran and Brazil
+	- Aside from that, in his time he was known as a poet and a writer, writing about his adventures in Iran and Brazil
 - Hitler 
 ---
 
