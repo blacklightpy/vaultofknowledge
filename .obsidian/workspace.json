@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Periods of Archaeological History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Periods of Archaeological History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "History/Periods of Archaeological History.md"
               }
             }
           },
@@ -351,12 +351,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9c03053a48c039bc",
+  "active": "3d831c5fc470ff85",
   "lastOpenFiles": [
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "History/Periods of Archaeological History.md",
     "Untitled.md",
     "History/Timeline of Conflicts.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "History/Periods of Archaeological History.md",
     "History/Timeline of Greek History.md",
     "Literature/Evolution of Ancient Greek Literature.md",
     "Literature/Legalese.md",
