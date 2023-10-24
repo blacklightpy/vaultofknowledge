@@ -259,7 +259,8 @@ Arabic arrived in Palestine after 1st century AD.
 - Qing dynasty of China is tired of Britan, France, Germany, Russia and Japan trying to conquer them so they dissolve and form the Republic of China, which is controlled by Yuan Shikai of the Qing Dynasty
 ---
 ---
-- In the 1850s, French writer Joseph Arthur de Gobineau 
+- In the 1850s, French writer Joseph Arthur de Gobineau developed a theory of Aryan master race and Nordicism.
+	- He was a born in a French aristocratic family, and was a military officer and a staunch royalist.
 - Hitler 
 ---
 
