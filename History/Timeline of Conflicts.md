@@ -231,8 +231,9 @@ Arabic arrived in Palestine after 1st century AD.
 - 1788 AD: Britain has to send their prisoners to Australia, which they call New South Wales
 - 1794 AD: France was broke, but the Royal family was rich, so Robespierre announced the French Revolution guillotined King Louis XIV and Queen Marie Antoinette and others, and someone also guillotined him too
 - 1791 AD: Slaves of Haiti start a revolution and get their freedom, led by Toussaint L'ouverture?
-- 1804 AD: Napoleon rules France, and tried to conquer Europe
-	- He was banished to the Island Elba, but he returned
+- 1799 AD: Napoleon became the First Consul of the French Republic
+- 1804-1814 AD: Napoleon rules French Empire, and tried to conquer Europe
+	- He was banished to the Island Elba, but he returned in 1815
 	- He was banished to St. Helena Island in the Atlantic Ocean
 - 1812 AD: Latin American wars of Independence (Mexico, Gran Colombia, Paraguay, Peru, Chile, Argentina, Brazil, Central America, Uruguay, Bolivia, Ecuador, Colombia, Venezuela)
 - Steam Engine is invented in Britain
