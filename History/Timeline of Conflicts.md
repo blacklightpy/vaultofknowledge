@@ -129,7 +129,7 @@ Arabic arrived in Palestine after 1st century AD.
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the Persian Sassanid Empire and they reached Central Asia
-- 
+- The Turks were starting to convert to Islam from the Central Asia, and they were also influenced by Persian civilization more than Turkish
 ---
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
 - The Moors (Black Arabs) spread over all of the Arabic countries and Western Europe
@@ -148,7 +148,7 @@ Arabic arrived in Palestine after 1st century AD.
 - All of them get Christianized, but fight over Roman Catholic or Eastern Orthodox brands
 - 1066 AD: William the Conqueror conquers England
 ---
-- 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire
+- 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire (Anatolian peninsula)
 - 1099 AD: Constantine took the help of Pope in Western Roman empire to start the crusades to capture back the holy land
 ---
 - Italians from Genoa and Venice get spice trades from the Seljuk Empire
