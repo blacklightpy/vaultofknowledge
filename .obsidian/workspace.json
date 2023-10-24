@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture/Jewish Culture.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture/Jewish Culture.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture/Jewish Culture.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -351,11 +351,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "71db4c43f32e26ad",
+  "active": "6d9bffcac4cfd03e",
   "lastOpenFiles": [
+    "Culture/Jewish Culture.md",
     "Untitled.md",
     "History/Timeline of Conflicts.md",
-    "Culture/Jewish Culture.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/Periods of Archaeological History.md",
