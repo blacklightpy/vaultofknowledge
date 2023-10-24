@@ -50,7 +50,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Indo-Europeans or Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
 	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
 	- [Indo-Iranians split into Iranians and Indo-Aryans]
-		- [Indo-Iranians were the ones who called themselves Aryans, even though]
+		- [Indo-Iranians were the ones who called themselves Aryans, even though the term -arya is of Proto-Indo-European origin]
 	- [By the beginning of CE, they had control over all of Europe and Western Asia]
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
 	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
@@ -257,6 +257,10 @@ Arabic arrived in Palestine after 1st century AD.
 - US kicks Panama out of Panama and makes the Panama canal
 - 1908 AD: Britain found oil in the Middle East
 - Qing dynasty of China is tired of Britan, France, Germany, Russia and Japan trying to conquer them so they dissolve and form the Republic of China, which is controlled by Yuan Shikai of the Qing Dynasty
+---
+---
+- In the 1850s, French writer Joseph Arthur de Gobineau 
+- Hitler 
 ---
 
 - 1914: World War I
