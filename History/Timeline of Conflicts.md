@@ -260,7 +260,12 @@ Arabic arrived in Palestine after 1st century AD.
 ---
 ---
 - In the 1850s, French writer Joseph Arthur de Gobineau developed a theory of Aryan master race and Nordicism.
-	- He was a born in a French aristocratic family, and was a military officer and a staunch royalist.
+	- He was born in a French aristocratic family
+	- His father was a military officer and a staunch royalist.
+	- His mother was the daughter of a non-noble royal tax official
+	- He feared that his mother may have black ancestors
+	- He wrote a lot about his hatred for French Revolution
+	- He loved the Middle Ages, and preferred  chivalry and knighthood
 - Hitler 
 ---
 
