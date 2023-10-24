@@ -193,11 +193,11 @@ Arabic arrived in Palestine after 1st century AD.
 - Aztec empire of North America and Inca empire of South America start, but Europe had just discovered their continent
 - The Habsburg married royal families all over Europe
 - 1500 AD: Part of Lithuania is conquered by Ivan The Great, building Muscovy
-- Baburs of Timurids conquer India and start the Mughal Empire
-- 1501 AD: Persia formed the Safavids Dynasty, but it is now Shi'a Islam
+- Baburs of Timurids (what was part of the Seljuk Empire after Mongol invasions) conquer India and start the Mughal Empire
+- 1501 AD: Persia formed the Safavids Dynasty, but it is now Shi'a Islam (Central East / Afghanistan to Syria)
 - The Catholic church lets people pay a premium to escape sin
 - 1517 AD: Martin Luther said it's all a scam and wrote 95 reasons why in his book, and it started the protestant reformation
-- 1530 AD: Suleiman The Magnificent makes the Ottoman Empire big
+- 1530 AD: Suleiman The Magnificent makes the Ottoman Empire big, and gets part of the holy land which was previously a part of the Seljuk Empire
 - 1556 AD: Ivan the Terrible makes Russia big
 - Portugal decided to control the entire Indian Ocean and control all the spice trades
 - Spain realized America is not India, but they pillaged it and made it New Spain
