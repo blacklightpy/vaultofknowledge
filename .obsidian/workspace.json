@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "242cedc94c7af8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Origin of Writing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -256,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Periods of Archaeological History.md",
+                "file": "Literature/Origin of Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Periods of Archaeological History.md",
+                "file": "Literature/Origin of Writing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Periods of Archaeological History.md"
+                "file": "Literature/Origin of Writing.md"
               }
             }
           },
@@ -351,12 +364,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "86ae333279de9c8c",
+  "active": "242cedc94c7af8cb",
   "lastOpenFiles": [
+    "History/Periods of Archaeological History.md",
+    "Literature/Origin of Writing.md",
     "History/Timeline of Conflicts.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Untitled.md",
-    "History/Periods of Archaeological History.md",
     "History/Timeline of Greek History.md",
     "Literature/Evolution of Ancient Greek Literature.md",
     "Literature/Legalese.md",
@@ -379,7 +393,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "Z1-Inbox/To Do.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "History of Intel CPUs.md",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
     "World Building/Science and Engineering/Physics/Spintronics",
