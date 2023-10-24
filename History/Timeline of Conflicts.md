@@ -158,7 +158,8 @@ Arabic arrived in Palestine after 1st century AD.
 - Korea, or Goryeo became itself
 - 1192 AD: Japan is so addicted to art that the Shogunate military takes over
 - China invented bombs and typing
-- 1236 AD: Mongols invaded all of central Asia and Europe under Genghis Khan
+- 1228-1259 AD: Mongols invaded all of central Asia and Europe under Genghis Khan
+	- This weakened the Seljuk Empire
 - It breaks into Yuan, Golden Horde, Chagatai, Ilkhanate
 - Mu'iz Al-din Muhammad (Ghurid Sultan) of the Turks were unaffected by the Mongols, because they were busy invading India and forming the Delhi Sultanate
 - Tu'i Tonga empire conquers the Pacific Ocean
