@@ -269,9 +269,10 @@ Arabic arrived in Palestine after 1st century AD.
 	- He loved the Middle Ages, and preferred chivalry and knighthood compared to the norm of his time.
 	- Someone describes him as a \*romantic\*, "with chivalrous ideas and spirit, dreaming of what was most noble and most grand"
 		- [I must emphasize that this could've been the problem]
-		- ["Romantics" caring about "beauty", and religions seeking "purity" - while love, which is defined as caring for another, goes unseen; and what is beauty, except what is felt]
+		- ["Romantics" caring about "beauty", and religions seeking "purity" - while love, which is defined as caring for another, goes unseen]
 	- He also worried his wife would have black ancestors due to slave owners taking slave mistresses.
 		- He was opposed to slavery for this contamination of whites
+	- His Novel "Ternove" was the first one with which he linked class with race
 - Hitler 
 ---
 
