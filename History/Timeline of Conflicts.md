@@ -86,7 +86,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Confucius was figuring out morals
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
-	- Yehud was now called Coelo-Syria, in the Seleucid Empire
+	- 312 BC: Yehud was now called Coelo-Syria, in the Seleucid Empire
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
 - They traded spices with the Arabians via the seas
@@ -95,8 +95,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Horse nomads of Mongolian Steppe ransacked Qin dynasty
 - Xiongu confederacy appears in Mongolian Steppe?
 - The Greek Kingdoms (Hellenistic Kingdoms) are all now Hellenistic
+	- 140 BC: Hasmonian Dynasty takes control over Judea
+	- 37 BC: Herodian Kingdom succeeds it
+	- 4 BC: When Herod died, his kingdom was inherited by his four sons to form the Herodian tetrarchy
 - Parthians leave Hellenistic Empire
-- Judea leaves the Hellenistic Empire
+- 6 AD: Kingdom of Judea becomes an independent state in the Hellenistic Empire
 - Parthians conquer a part of the Hellenistic Empire (East Central Asia) to form Parthian Empire
 - Roman Empire captured the entire Mediterranean belt
 - Roman Empire took a part of the Kingdom of Judea
