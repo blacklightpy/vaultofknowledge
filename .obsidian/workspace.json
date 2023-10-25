@@ -175,9 +175,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e16c0ab16b76748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Origin of Writing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -243,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Literature/Origin of Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Literature/Origin of Writing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -272,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "Literature/Origin of Writing.md"
               }
             }
           },
@@ -338,12 +351,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9c03053a48c039bc",
+  "active": "3e16c0ab16b76748",
   "lastOpenFiles": [
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Untitled.md",
-    "Culture/Jewish Culture.md",
     "History/Timeline of Conflicts.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Culture/Jewish Culture.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/Periods of Archaeological History.md",
     "Literature/Origin of Writing.md",

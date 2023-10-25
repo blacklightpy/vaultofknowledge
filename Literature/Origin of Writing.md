@@ -26,8 +26,11 @@
 - Cretan and Greek Scripts
 
 # Language families
-There are many, but I'll name just a few I'm familiar with:
 
+> [!NOTE]
+> Database of languages and families: https://glottolog.org/glottolog/family
+
+There are many, but I'll name just a few I'm familiar with:
 - Indo-European > Anatolian, Indo-Iranian
 - Afro-Asiatic > Semitic Languages
 - Dravidian > Malayalam, Tamil
