@@ -80,12 +80,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 --------
 - The Median empire conquered part of the Neo-Babylonian empire
 - They were conquered by the First Persian Empire, the Achaemenid Empire.
-	- Yehud now became Yehud Med
+	- Yehud now became Yehud Medinata
 - Buddha was enlightened in Bodh Gaya
 - China just got split
 - Confucius was figuring out morals
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
+	- Yehud was now called Coelo-Syria, in the Seleucid Empire
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
 - They traded spices with the Arabians via the seas
