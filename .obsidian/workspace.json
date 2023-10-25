@@ -138,19 +138,6 @@
             }
           },
           {
-            "id": "9c03053a48c039bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Timeline of Conflicts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "280247d5cf002403",
             "type": "leaf",
             "state": {
@@ -177,12 +164,12 @@
             }
           },
           {
-            "id": "3e16c0ab16b76748",
+            "id": "5a9d64a4d1de3c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Origin of Writing.md",
+                "file": "History/Israel Palestine Current Affairs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -256,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Israel Palestine Current Affairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Israel Palestine Current Affairs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "History/Israel Palestine Current Affairs.md"
               }
             }
           },
@@ -351,10 +338,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9c03053a48c039bc",
+  "active": "5a9d64a4d1de3c1d",
   "lastOpenFiles": [
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Untitled.md",
+    "History/Israel Palestine Current Affairs.md",
     "Literature/Origin of Writing.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/Timeline of Conflicts.md",
     "History/History.md",
     "History/Periods of Archaeological History.md",
@@ -362,8 +352,6 @@
     "Literature/Roman and Greek Poets.md",
     "Literature/Evolution of Ancient Greek Literature.md",
     "Culture/Jewish Culture.md",
-    "Untitled.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/Timeline of Greek History.md",
     "Literature/Legalese.md",
     "World Building/Philosophy/Draft Philosophy.md",
@@ -379,7 +367,6 @@
     "History/Civilizations/Cradles of Civilization.md",
     "Klein Bottle.md",
     "_images/Klein bottle.svg.png",
-    "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Supersymmetry.md",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
     "World Building/Science and Engineering/Physics/Spintronics",
