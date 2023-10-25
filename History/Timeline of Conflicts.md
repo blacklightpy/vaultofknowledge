@@ -98,6 +98,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Parthians conquer a part of the Hellenistic Empire (East Central Asia) to form Parthian Empire
 - Roman Empire captured the entire Mediterranean belt
 - Roman Empire took a part of the Kingdom of Judea
+- 33 AD: Crucifixion of Jesus
+- 
 - China invents the Silk road
 - China conquered Vietnam
 - India finds a sea route to Eastern China
@@ -117,10 +119,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 Jews are named after the Kingdom of Judah.
 Kingdom of Israel had Samaria, Galilee and some of Transjordan. Kingdom of Judah had Jerusalem.
 Kingdom of Israel was also known as Kingdom of Samaria
-Kingd
+Kingdom of Israel was assimilated by the Neo-Assyrian Empire
+Kingdom of Israel was assimilated later by the Neo-Babylonian Empire
 
 Some of the Jews exiled during the Babylonian exile came to Mattanchery
-Arabic arrived in Palestine after 1st century AD.
+Arabs arrived in Palestine after 1st century AD.
 
 - Alexander the Great conquered Mesopotamia and the rest of the Roman empire.
 
