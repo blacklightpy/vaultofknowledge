@@ -1,1 +1,15 @@
-- Israel
+- Israel was
+- Oct 7 2023 Hamas attack and hostages
+	- Started the Israel-Hamas War 2023
+	- Israel asked civilians to relocate south, then bombed the evacuation route
+	- Israel cut off electricity and water supply to Gaza
+	- Bombed Hospital (French Intelligence claims it was not Israeli missiles, IDF and Hamas blame each other)
+	- Israel returned water in limited supply
+	- Israel Bombed a church
+	- Israel is controlling the media, censoring the good sides of Hamas
+	- Israel believes Hamas is in north Gaza
+	- Israel gave an ultimatum that whoever resides in north Gaza will be seen as a terrorist
+	- Israel doesn't consider that it was the home of civilians of Gaza
+	- Israel bombed the entrance to Rafa crossing
+	- Egypt asked Gazan citizens to stay in the land and fight, rather than lose the land as refugees
+	- Egypt had a hard 
