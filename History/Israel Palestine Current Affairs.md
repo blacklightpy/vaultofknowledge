@@ -1,5 +1,13 @@
 - Israel has been raiding West Bank since the 2021 tensions due to Israel's forced occupation in East Jerusalem
-	- By 2023, West Bank had a death toll of 38, including children
+	- 2022 Dec 12: 16 year old Jana shot dead https://www.aljazeera.com/news/2022/12/12/israeli-forces-kill-palestinian-girl-in-occupied-west-bank-raid
+	- By Sep 2023, West Bank had a death toll of 38, including children
+	- 26 Jan: Al Jazeera - Why are Palestinians dying? https://www.aljazeera.com/news/2023/1/26/why-israeli-raids-killed-many-palestinians-this-year-explainer
+	- 26 Jan: 9 Palestini
+	- 19 Jun: 5 Palestinians https://www.aljazeera.com/news/2023/6/19/deaths-injuries-as-israeli-forces-raid-jenin
+	- 25 Jul: 3 Palestinians https://www.aljazeera.com/news/2023/7/25/three-palestinians-killed-by-israeli-forces-in-occupied-west-bank-2
+	- Jul 5: West Bank Jenin operation explained https://www.reuters.com/world/middle-east/why-is-israel-attacking-jenin-west-bank-operation-explained-2023-07-04/
+	- Timeline: https://www.washingtonpost.com/world/2023/07/03/israel-jenin-military-raid-palestinians/
+	- Aug 21: Israeli, Palestinian deaths 230+, highest since 2005 https://globalnews.ca/news/9910926/israel-palestinian-deaths-rising-un/
 - Oct 7 2023 Hamas attack and kidnapping hostages
 	- Started the Israel-Hamas War 2023
 	- Israel asked civilians to relocate south, then bombed the evacuation route
