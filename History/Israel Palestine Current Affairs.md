@@ -12,4 +12,9 @@
 	- Israel doesn't consider that it was the home of civilians of Gaza
 	- Israel bombed the entrance to Rafa crossing
 	- Egypt asked Gazan citizens to stay in the land and fight, rather than lose the land as refugees
-	- Egypt had a hard 
+	- Egypt had to wait a long time before they could cross Rafa
+	- Hamas released 2 hostages, unscathed
+	- One of them didn't say anything bad about Hamas, and was kind of chill, but the media twisted her words anyways
+	- Hamas released 2 more elder women hostages, one of them whom shook hands with Hamas soldier, said Salam and told how Hamas treated her very attentively and kindly, and didn't hurt her due to their following of Quran
+	- Israel blames media for letting her give PR to Hamas
+	- Israel says presenting both sides of the argument is the same as supporting Hamas - a classic flaw that just says you don't have anything
