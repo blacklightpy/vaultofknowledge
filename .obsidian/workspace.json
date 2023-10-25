@@ -175,22 +175,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "71db4c43f32e26ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture/Jewish Culture.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -256,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -351,12 +338,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6d9bffcac4cfd03e",
+  "active": "9c03053a48c039bc",
   "lastOpenFiles": [
-    "Culture/Jewish Culture.md",
-    "Untitled.md",
-    "History/Timeline of Conflicts.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Untitled.md",
+    "Culture/Jewish Culture.md",
+    "History/Timeline of Conflicts.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/Periods of Archaeological History.md",
     "Literature/Origin of Writing.md",
