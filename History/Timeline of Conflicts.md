@@ -80,6 +80,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 --------
 - The Median empire conquered part of the Neo-Babylonian empire
 - They were conquered by the First Persian Empire, the Achaemenid Empire.
+	- Yehud now became Yehud Med
 - Buddha was enlightened in Bodh Gaya
 - China just got split
 - Confucius was figuring out morals
@@ -99,7 +100,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Roman Empire captured the entire Mediterranean belt
 - Roman Empire took a part of the Kingdom of Judea
 - 33 AD: Crucifixion of Jesus
-- 
+- 66-73 AD: Siege of Jerusalem and destruction of the Second Temple
+- 132 AD: Judea was merged with Galilee to form "Syria Palaestina" or "Roman Palestine"
 - China invents the Silk road
 - China conquered Vietnam
 - India finds a sea route to Eastern China
@@ -121,6 +123,7 @@ Kingdom of Israel had Samaria, Galilee and some of Transjordan. Kingdom of Judah
 Kingdom of Israel was also known as Kingdom of Samaria
 Kingdom of Israel was assimilated by the Neo-Assyrian Empire
 Kingdom of Israel was assimilated later by the Neo-Babylonian Empire
+Kingdom of Judah was then called Yehud province
 
 Some of the Jews exiled during the Babylonian exile came to Mattanchery
 Arabs arrived in Palestine after 1st century AD.
