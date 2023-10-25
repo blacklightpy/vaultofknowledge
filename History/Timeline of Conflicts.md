@@ -115,6 +115,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 (Akkadian), Amorite, Kassite, Elamite, Aramean, Assyrian, Chaldean, Persian, Greek and Parthian
 
 Jews are named after the Kingdom of Judah.
+Kingdom of Israel had Samaria, Galilee and some of Transjordan. Kingdom of Judah had Jerusalem.
+Kingdom of Israel was also known as Kingdom of Samaria
+Kingd
+
 Some of the Jews exiled during the Babylonian exile came to Mattanchery
 Arabic arrived in Palestine after 1st century AD.
 

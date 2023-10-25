@@ -1,4 +1,4 @@
-- Joothan: Malayalam word, derived from Judah
+- Joothan: Malayalam word for Jew, derived from Judah
 - Yehud: The Babylonian province of what was previously Judah
 - Ya'uda: Assyrian cuneiform writing of the name Judah
 # Scriptures
