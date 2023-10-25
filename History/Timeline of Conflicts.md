@@ -99,7 +99,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 37 BC: Herodian Kingdom succeeds it
 	- 4 BC: When Herod died, his kingdom was inherited by his four sons to form the Herodian tetrarchy
 - Parthians leave Hellenistic Empire
-- 6 AD: Kingdom of Judea becomes an semi-autonomous province in the Hellenistic Empire
+- 6 AD: Kingdom of Judea becomes an independent state in the Hellenistic Empire
 - Parthians conquer a part of the Hellenistic Empire (East Central Asia) to form Parthian Empire
 - Roman Empire captured the entire Mediterranean belt
 - Roman Empire took a part of the Kingdom of Judea
