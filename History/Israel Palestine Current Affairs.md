@@ -2,8 +2,9 @@
 	- 2022 Dec 12: 16 year old Jana shot dead https://www.aljazeera.com/news/2022/12/12/israeli-forces-kill-palestinian-girl-in-occupied-west-bank-raid
 	- By Sep 2023, West Bank had a death toll of 38, including children
 	- 26 Jan: Al Jazeera - Why are Palestinians dying? https://www.aljazeera.com/news/2023/1/26/why-israeli-raids-killed-many-palestinians-this-year-explainer
-	- 26 Jan: 9 Palestini
+	- 26 Jan: 9 Palestininans https://news.un.org/en/story/2023/01/1132882
 	- 19 Jun: 5 Palestinians https://www.aljazeera.com/news/2023/6/19/deaths-injuries-as-israeli-forces-raid-jenin
+	- 29 Jun: 15 year old girl killed https://apnews.com/article/israel-palestinians-west-bank-militants-jenin-1eb3c665247a493e90174b068fc39fec
 	- 25 Jul: 3 Palestinians https://www.aljazeera.com/news/2023/7/25/three-palestinians-killed-by-israeli-forces-in-occupied-west-bank-2
 	- Jul 5: West Bank Jenin operation explained https://www.reuters.com/world/middle-east/why-is-israel-attacking-jenin-west-bank-operation-explained-2023-07-04/
 	- Timeline: https://www.washingtonpost.com/world/2023/07/03/israel-jenin-military-raid-palestinians/
