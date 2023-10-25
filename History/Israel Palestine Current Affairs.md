@@ -1,5 +1,6 @@
-- Israel was
-- Oct 7 2023 Hamas attack and hostages
+- Israel has been raiding West Bank since the 2021 tensions
+	- By 2023, West Bank had a death toll of 38, including children
+- Oct 7 2023 Hamas attack and kidnapping hostages
 	- Started the Israel-Hamas War 2023
 	- Israel asked civilians to relocate south, then bombed the evacuation route
 	- Israel cut off electricity and water supply to Gaza
@@ -17,4 +18,5 @@
 	- One of them didn't say anything bad about Hamas, and was kind of chill, but the media twisted her words anyways
 	- Hamas released 2 more elder women hostages, one of them whom shook hands with Hamas soldier, said Salam and told how Hamas treated her very attentively and kindly, and didn't hurt her due to their following of Quran
 	- Israel blames media for letting her give PR to Hamas
-	- Israel says presenting both sides of the argument is the same as supporting Hamas - a classic flaw that just says you don't have anything
+	- Israel says presenting both sides of the argument is the same as supporting Hamas - a classic flaw that just says you don't have anything true on your side, so you have to hide the reports of the other side.
+	- Hostages have blamed Israel for shooting captives, which is a thing for their military officers at least, according to their Hannibal Directive. This may have been extended into the 
