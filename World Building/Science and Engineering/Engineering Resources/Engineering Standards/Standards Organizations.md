@@ -1,0 +1,3 @@
+- International Organization for Standardization (ISO)
+- International Electrotechnical Commission (IEC)
+- [[International Telecommunication Union]] (ITU)
