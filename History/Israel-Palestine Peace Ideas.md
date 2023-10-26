@@ -15,5 +15,8 @@
 				- It is opposed by Arab nationalists who think it goes against the idea of pan-Arabism
 	- "one-state reality" is a term that means in the current situation in Israel and Palestine is de-facto one state 
 - Two State proposal
-	- In 2014, 60% of all Palestinians said their final goal of their national movement should be "to work towards reclaiming all of historic Palestine from the river to the sea".
+	- Against
+		- In 2014, 60% of all Palestinians said their final goal of their national movement should be "to work towards reclaiming all of historic Palestine from the river to the sea".
+			- Civic figures say it calls for a single state with people of all religions having equal citizenship
+			- Islamic scholars say that Mahdi - a redemptive apocalyptic figure central to Islamic 
 - Three State proposal
