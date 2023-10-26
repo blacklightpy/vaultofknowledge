@@ -1,45 +1,45 @@
 - **\[Q1.\]** Why can't god guide everyone personally, like he guided people in the past? He should be very capable of doing is.
-	- **\[Q1.A1.\]** If said god's ways are his and shouldn't be questioned
-		- **(Q1.A1.Q1.)** Is he not responsible for all the suffering in the world
-			- Q1.A1.Q1.A1. If said, not following his word is the reason
-				- Q1.A1.Q1.A1.Q1. He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others? **(A non-monotheistic explanation is all is one, one is all.)**
-					- Q1.A1.Q1.A1.Q1.A1. If said, our aim should be to preach and convert everyone
-						- Q1.A1.Q1.A1.Q1.A1.Q1. Why can't god do it himself, if he is capable of making people think in different languages in an instant, like with the Tower of Babel?
-							- Q1.A1.Q1.A1.Q1.A1.Q1.A1. If said, his ways are unknown
-								- Q1.A1.Q1.A1.Q1.A1.Q1.A1.Q1. Repeat, is he not responsible for all the suffering in the world?
-							- Q1.A1.Q1.A1.Q1.A1.Q1.A2. If said, because he expects us to do it ourselves, because that is the reason for humanity as a whole
-								- Why would someone not fix a problem he can fix in an instant?
-									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
-										- But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
-											- If said, we will suffer now so that the evil ones will burn in hell
-												- Why did you have to suffer that much
+	- **\[Q1.A1.\]** If they say, god's ways are his and shouldn't be questioned
+		- **\[Q1.A1.Q1.\]** Is he not responsible for all the suffering in the world
+			- **\[Q1.A1.Q1.A1.\]** If they say, not following his word is the reason
+				- **\[Q1.A1.Q1.A1.Q1.\]** He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others? **(A non-monotheistic explanation is all is one, one is all.)**
+					- **\[Q1.A1.Q1.A1.Q1.A1.\]** If they say, our aim should be to preach and convert everyone
+						- **\[Q1.A1.Q1.A1.Q1.A1.Q1.\]** Why can't god do it himself, if he is capable of making people think in different languages in an instant, like with the Tower of Babel?
+							- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A1.\]** If they say, his ways are unknown
+								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Repeat, is he not responsible for all the suffering in the world?
+							- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.\]** If they say, because he expects us to do it ourselves, because that is the reason for humanity as a whole
+								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1\]** Why would someone not fix a problem he can fix in an instant?
+									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
+										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.\]** But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
+											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** If they say, we will suffer now so that the evil ones will burn in hell
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** Why did you have to suffer that much?
 												- And ask, some people don't like whatever is available heaven, because it does not satisfy their desires, will they not suffer in heaven?
-													- If said, they were not meant to be in heaven anyways
+													- If they say, they were not meant to be in heaven anyways
 														- Is it not god's fault for giving them desires that cannot be found in heaven?
-													- If said, all desires will be satisfied in heaven
+													- If they say, all desires will be satisfied in heaven
 														- Say couldn't that have been possible well in earth itself, without having to be tested?
-															- If said, the test is necessary for obedience
+															- If they say, the test is necessary for obedience
 																- Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
-								- But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
-									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
+								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
+									- If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
-											- If said it's not him, it's the devil
-	- If said he gave a few chances to humanity, but they never learn:
+											- If they say, it's not him, it's the devil
+	- If they say, he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
 				- Then he should've known that a few chances are futile, so he shouldn't have given any in the first place.
-					- If said that he hasn't forgiven anyone:
+					- If they say, that he hasn't forgiven anyone:
 						- Why is god a narcissist? Or is god just a reflection of your own desire for control?
 						- Why would you worship an unforgiving god, when he put desires in our mind, when he could have just not done that
 							- If they tell you it's about freedom:
 								- If one gives someone freedom, then he is also give freedom to make mistakes, and then he is also responsible for forgiving mistakes.
 									- If it's said that one should repent:
 										- Again, because of the desires we're given, we are bound to make the same mistakes again and again due. Even if we wish to eliminate them, they always return, because that's the way we are made. Is it not unfair to create us in that manner?
-											- If said it is to prepare you for something bigger ^heaven-without-test
+											- If they say, it is to prepare you for something bigger ^heaven-without-test
 												- Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
 												- Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
 												- The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
-												- If said, he's just testing our faith so we obey him in the future
+												- If they say, he's just testing our faith so we obey him in the future
 													- Is it not a slave kingdom?
-												- If said, he will allow us to have any of what we desire without side-effects
+												- If they say, he will allow us to have any of what we desire without side-effects
 													- Why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.**
