@@ -3,10 +3,11 @@ IEEE 802.11, or 802.11x (not 802.11X) is a set of standards related to Wi-Fi net
 # Evolution
 802.11 was developed as a wireless local network alternative to Ethernet.
 It was quickly improved by 802.11a and then 802.11b.
-The evolutions are named with short letter suffixes (hence 802.11x)
+The evolutions are named with short letter suffixes (hence 802.11x).
+Capitalized suffixes are for 
 
 The main Wi-Fi standards are:
-- 802.11-1997 or 802.11-199 (Wi-Fi 0)
+- 802.11-1997 or 802.11-1999 (Wi-Fi 0)
 - 802.11b (Wi-Fi 1) [802.11a and 802.11b was developed together, but 802.11b was more affordable then]
 - 802.11a (Wi-Fi 2)
 - 802.11g (Wi-Fi 3)
