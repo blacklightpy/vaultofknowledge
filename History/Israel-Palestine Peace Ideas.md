@@ -20,7 +20,8 @@
 			- Civic figures say it calls for a single state with people of all religions having equal citizenship
 			- Islamic scholars say that Mahdi - a redemptive apocalyptic figure central to Islamic 
 - Two State solution with pre-1967 Borders
-	- UN General assembly adopted 5 resolutions, urging states to refuse changes to pre-1967 borders
+	- I'm not aware of other resolutions, but here's one I got from Wikipedia.
+	- In 2019, UN General assembly adopted 5 resolutions, urging states to refuse changes to pre-1967 borders
 		- #### Article Terminology
 		- In A/XX/L.Y
 			- A stands for Assembly
@@ -57,6 +58,12 @@
 				- Though the Jewish people have a biblical and historic right to the entire land, Israel accepted the partition plan in the spirit of compromise. The Arab leadership, by contrast, chose war. During the twentieth century an estimated 850,000 Jews were forced out of Arab countries and became refugees but were ignored by the international community because it didn’t serve the Palestinian narrative.
 				- Accepting the Palestinian Authority’s stated policy of glorifying terrorism against Jews and condemning Jews for living in Jerusalem is counterproductive to peace, he said, calling the international community morally bankrupt.
 			- The representative of the US echoed Israel's sentiments that the resolutions are biased against Israel, adding that such a one-sided approach undermines trust.
+			- #### Right to Reply
+				- The representative of Iran, responding to the representative of Israel, said
+					- That country uses fallacies as tools to divert attention from its expansionist policies and brutalities.
+					- As such, these fallacies constitute weapons of mass deception.
+					- The Israeli regime is famous for its atrocities, apartheid policies and well-documented war crimes, he said, adding that it has a long history of following opportunistic policies to divert attention from its own savage actions against innocent Palestinians.
+					- Israel is the only regime openly practicing racism, having recently legalized it, he said, stressing that Israel’s occupation and racism lie at the heart of all conflicts in the Middle East.
 		- #### Source
 			- 3 Dec 2019 | GA/12220: [General Assembly Adopts 5 Resolutions on Middle East, including Text Urging States Not to Recognize Changes on Status of Jerusalem, Pre-1967 Borders](https://press.un.org/en/2019/ga12220.doc.htm)
 			- More (26 Nov 2013 | GA/11460 Press Release | [General Assembly, Wrapping Up Annual Consideration Of Question Of Palestine, Situation In Middle East, Adopts Six Resolutions By Recorded Vote](https://web.archive.org/web/20140728231059/http://domino.un.org/unispal.nsf/5ba47a5c6cef541b802563e000493b8c/08cf374a114bda2385257c320052a1e5?OpenDocument)
