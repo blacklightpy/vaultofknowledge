@@ -7,3 +7,7 @@
 - American Society for Testing and Materials International (ASTM International)
 - [[International Commission on Illumination]] (CIE)
 - [[Internet Engineering Task Force]] (IETF)
+- Society of Automotive Engineers International (SAE International)
+- World Wide Web Consortium (W3C)
+- Universal Postal Union (UPU)
+- Airlines Electronics Engineering Committee (AEEC)
