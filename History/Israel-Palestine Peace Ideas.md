@@ -23,7 +23,7 @@
 	- I'm not aware of other resolutions, but here's one I got from Wikipedia.
 	- In 2019, UN General assembly adopted 5 resolutions, urging states to refuse changes to pre-1967 borders ([[Israel-Palestine Peace Ideas#^main-source|Source]])
 		- #### Document Nomenclature
-			- UN Document nomenclature: https://research.un.org/en/docs
+			- Guide: https://research.un.org/en/docs
 		- #### The Resolutions
 			- 1. Peaceful settlement of the question of Palestine (A/17/L.15)
 				- won by 147 in favour, 7 against (Australia, Canada, Israel, Marshall Islands, Federated States of Micronesia, Nauru, US), with 13 abstentions
