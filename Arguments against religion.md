@@ -8,7 +8,15 @@
 							- If said, because he expects us to do it ourselves, because that is the reason for humanity as a whole
 								- Why would someone not fix a problem he can fix in an instant?
 									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
-										- But answer the previous question, is it not his responsibility to fix the suff
+										- But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
+											- If said, we will suffer now so that the evil ones will burn in hell
+												- Why did you have to suffer that much
+												- And ask, some people don't like whatever is available heaven, because it does not satisfy their desires, will they not suffer in heaven?
+													- If said, they were not meant to be in heaven anyways
+														- Is it not god's fault for giving them desires that cannot be found in heaven?
+													- If said, all desires will be satisfied in heaven
+														- Say couldn't that have been possible well in earth itself, without having to be tested?
+															- If said, the test is necessary for obedience
 								- But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
 									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
