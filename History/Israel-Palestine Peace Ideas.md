@@ -27,8 +27,12 @@
 		- 2. The Syrian Golan (A/74/L.9)
 			- won by 91 in favour, 9 against (Australia, Brazil, Canada, Israel, Marshall Islands, Federated States of Micronesia, Palau, United Kingdom, United States),  with 65 Abstentions
 			- Israeli decision to impose its law in Golan Heights is "null and void", and demands withdrawal
-		- 3. Committee on the Exercise of the Inalienable Rights of the Palestinian People (A/74/L.14)
-			- 
-			- Requests the UN committee to exert all efforts to support the right to self-determination of Palestinian people and to support the achievement of an end Israeli occupation
+		- 3. UN also adopted 3 resolutions dealing with UN Committee system's own support to Palestinian people
+			- 3.1. Committee on the Exercise of the Inalienable Rights of the Palestinian People (A/74/L.14)
+				- Requests the UN committee to exert all efforts to support the right to self-determination of Palestinian people and to support the achievement of an end Israeli occupation
+			- 3.2. Division for Palestinian Rights of the Secretariat (A/74/L.16)
+				- Monitor developments relevant to the question of Palestine
+			- 3.3. Special information programme on the question of Palestine of the Department of Global Communications of the Secretariat (A/74/L.17)
+				- Requests the DGCS
 	- Source: https://press.un.org/en/2019/ga12220.doc.htm
 - Three State proposal
