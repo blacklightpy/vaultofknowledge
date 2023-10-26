@@ -4,7 +4,9 @@
 			- If said, not following his word is the reason
 				- He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others? **(A non-monotheistic explanation is all is one, one is all.)**
 					- Our aim should be to preach and convert everyone
-						- Why can't god do it himself, if he is capable of converting people
+						- Why can't god do it himself, if he is capable of making people think in different languages in an instant, like with the Tower of Babel?
+							- Because he expects us to do it ourselves, because that is the reason for humanity as a whole
+								- But that results in suffering, so isn't he re
 	- If said he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
