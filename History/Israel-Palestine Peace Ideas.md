@@ -23,7 +23,12 @@
 	- UN General assembly adopted 5 resolutions, urging states to refuse changes to pre-1967 borders
 		- 1. Peaceful settlement of the question of Palestine (A/17/L.15)
 			- won by 147 in favour, 7 against (Australia, Canada, Israel, Marshall Islands, Federated States of Micronesia, Nauru, US), with 13 abstentions
-			- Lasting peace in Israel, and an end to Israeli occupation, while calling on Israel, the occupying power to comply strictly with int
-		- 2. 
+			- Lasting peace in Israel, and an end to Israeli occupation, while calling on Israel, the occupying power to comply strictly with international law, cease actions aimed at altering the demographics and immediately halt any settlement activities
+		- 2. The Syrian Golan (A/74/L.9)
+			- won by 91 in favour, 9 against (Australia, Brazil, Canada, Israel, Marshall Islands, Federated States of Micronesia, Palau, United Kingdom, United States),  with 65 Abstentions
+			- Israeli decision to impose its law in Golan Heights is "null and void", and demands withdrawal
+		- 3. Committee on the Exercise of the Inalienable Rights of the Palestinian People (A/74/L.14)
+			- 
+			- Requests the UN committee to exert all efforts to support the right to self-determination of Palestinian people and to support the achievement of an end Israeli occupation
 	- Source: https://press.un.org/en/2019/ga12220.doc.htm
 - Three State proposal
