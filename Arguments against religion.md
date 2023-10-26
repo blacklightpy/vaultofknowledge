@@ -32,7 +32,12 @@
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.\]** If they say, it's not him, it's the devil
 												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.\]** Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.\]** If they say, he expects us to do the right thing and follow his commands:
-														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.Q1.\]** Say, 
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.Q1.\]** Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
+													- If they say, killing the devil would make other angels worship him out of fear and not love
+														- Aren't we forced to worship god out of fear than love?
+															- If they say, they are angels and we are mortals
+																- Isn't the judgement same for all
+																	- If they say, yes, it 
 	- If they say, he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
