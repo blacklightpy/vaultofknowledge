@@ -13,4 +13,6 @@
 											- If said it is to prepare you for something bigger
 												- Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
 												- Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
-												- The vision of heaven so boring 
+												- The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
+												- If he's just testing our faith so we obey him in the future, is it not a slave kingdom?
+												- If he will allow us to have any of what we desire without side-effects, why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even a **
