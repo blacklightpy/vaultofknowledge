@@ -29,6 +29,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.\]** Say couldn't that have been possible well in earth itself, without having to be tested?
 															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.\]** If they say, the test is necessary for obedience
 																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
+																				- 
 								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
 									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.\]** Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
