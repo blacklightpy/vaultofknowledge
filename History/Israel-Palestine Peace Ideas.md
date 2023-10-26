@@ -21,18 +21,22 @@
 			- Islamic scholars say that Mahdi - a redemptive apocalyptic figure central to Islamic 
 - pre-1967 Borders
 	- UN General assembly adopted 5 resolutions, urging states to refuse changes to pre-1967 borders
-		- 1. Peaceful settlement of the question of Palestine (A/17/L.15)
-			- won by 147 in favour, 7 against (Australia, Canada, Israel, Marshall Islands, Federated States of Micronesia, Nauru, US), with 13 abstentions
-			- Lasting peace in Israel, and an end to Israeli occupation, while calling on Israel, the occupying power to comply strictly with international law, cease actions aimed at altering the demographics and immediately halt any settlement activities
-		- 2. The Syrian Golan (A/74/L.9)
-			- won by 91 in favour, 9 against (Australia, Brazil, Canada, Israel, Marshall Islands, Federated States of Micronesia, Palau, United Kingdom, United States),  with 65 Abstentions
-			- Israeli decision to impose its law in Golan Heights is "null and void", and demands withdrawal
-		- 3. UN also adopted 3 resolutions dealing with UN Committee system's own support to Palestinian people
-			- 3.1. Committee on the Exercise of the Inalienable Rights of the Palestinian People (A/74/L.14)
-				- Requests the UN committee to exert all efforts to support the right to self-determination of Palestinian people and to support the achievement of an end Israeli occupation
-			- 3.2. Division for Palestinian Rights of the Secretariat (A/74/L.16)
-				- Monitor developments relevant to the question of Palestine
-			- 3.3. Special information programme on the question of Palestine of the Department of Global Communications of the Secretariat (A/74/L.17)
-				- Requests the DGCS
+		- #### The Resolutions
+			- 1. Peaceful settlement of the question of Palestine (A/17/L.15)
+				- won by 147 in favour, 7 against (Australia, Canada, Israel, Marshall Islands, Federated States of Micronesia, Nauru, US), with 13 abstentions
+				- Lasting peace in Israel, and an end to Israeli occupation, while calling on Israel, the occupying power to comply strictly with international law, cease actions aimed at altering the demographics and immediately halt any settlement activities
+			- 2. The Syrian Golan (A/74/L.9)
+				- won by 91 in favour, 9 against (Australia, Brazil, Canada, Israel, Marshall Islands, Federated States of Micronesia, Palau, United Kingdom, United States),  with 65 Abstentions
+				- Israeli decision to impose its law in Golan Heights is "null and void", and demands withdrawal
+			- 3. UN also adopted 3 resolutions dealing with UN Committee system's own support to Palestinian people
+				- 3.1. Committee on the Exercise of the Inalienable Rights of the Palestinian People (A/74/L.14)
+					- Requests the UN committee to exert all efforts to support the right to self-determination of Palestinian people and to support the achievement of an end Israeli occupation
+				- 3.2. Division for Palestinian Rights of the Secretariat (A/74/L.16)
+					- Monitor developments relevant to the question of Palestine
+				- 3.3. Special information programme on the question of Palestine of the Department of Global Communications of the Secretariat (A/74/L.17)
+					- Requests the Department of Global Communications to disseminate information on the activities of the UN system relating to the question of Palestine and peace efforts.
+		- #### Response
+			- The Permanent Observer of the State of Palestine said that international support for the Palestinian people has not wavered despite Israel's attempts to destroy a two-state formula, and recent aberrations by US Administration that contradict international law.
+			- 
 	- Source: https://press.un.org/en/2019/ga12220.doc.htm
 - Three State proposal
