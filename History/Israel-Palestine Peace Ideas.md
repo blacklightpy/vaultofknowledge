@@ -19,4 +19,11 @@
 		- In 2014, 60% of all Palestinians said their final goal of their national movement should be "to work towards reclaiming all of historic Palestine from the river to the sea".
 			- Civic figures say it calls for a single state with people of all religions having equal citizenship
 			- Islamic scholars say that Mahdi - a redemptive apocalyptic figure central to Islamic 
+- pre-1967 Borders
+	- UN General assembly adopted 5 resolutions, urging states to refuse changes to pre-1967 borders
+		- 1. Peaceful settlement of the question of Palestine (A/17/L.15)
+			- won by 147 in favour, 7 against (Australia, Canada, Israel, Marshall Islands, Federated States of Micronesia, Nauru, US), with 13 abstentions
+			- Lasting peace in Israel, and an end to Israeli occupation, while calling on Israel, the occupying power to comply strictly with int
+		- 2. 
+	- Source: https://press.un.org/en/2019/ga12220.doc.htm
 - Three State proposal
