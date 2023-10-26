@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arguments against religion.md",
+                "file": "History/Israel-Palestine Peace Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arguments against religion.md",
+                "file": "History/Israel-Palestine Peace Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arguments against religion.md"
+                "file": "History/Israel-Palestine Peace Ideas.md"
               }
             }
           },
@@ -377,10 +377,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d24e6a72e216a46c",
+  "active": "347e4038755d0cc1",
   "lastOpenFiles": [
-    "History/Israel-Palestine Peace Ideas.md",
     "Arguments against religion.md",
+    "History/Israel-Palestine Peace Ideas.md",
     "Pan-Arabism.md",
     "Untitled.md",
     "History/Timeline of Conflicts.md",
