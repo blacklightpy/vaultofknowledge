@@ -1,3 +1,6 @@
+# How to use this
+Find a question (or answer). Read the first answer (or question) to it, and then collapse it to look for any secondary answers or questions to the same question (or answer).
+
 - **\[Q1.\]** Why can't god guide everyone personally, like he guided people in the past? He should be very capable of doing is.
 	- **\[Q1.A1.\]** If they say, god's ways are his and shouldn't be questioned
 		- **\[Q1.A1.Q1.\]** Is he not responsible for all the suffering in the world
@@ -61,4 +64,6 @@
 					- If they say, they are angels and we are mortals
 						- Isn't the judgement same for all
 							- If they say, yes, it is the same at the time of judgement
-							- 
+	- If they say it is to test us:
+		- Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
+		- Also backcontexts in Q1.
