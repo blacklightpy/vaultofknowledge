@@ -12,7 +12,13 @@
 									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.\]** But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** If they say, we will suffer now so that the evil ones will burn in hell
-												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** Why did you have to suffer that much?
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.\]** Why did you have to suffer that much?
+													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.\]** If they say, the test is necessary for obedience
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
+													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.\]** If they say, people who follow the word don't suffer
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** Why do other people who follow the law suffer, because of the desires they have been given?
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** If they say, one must repent to eliminate those desires, and a true heart will have eliminated those desires
+															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.\]**
 												- And ask, some people don't like whatever is available heaven, because it does not satisfy their desires, will they not suffer in heaven?
 													- If they say, they were not meant to be in heaven anyways
 														- Is it not god's fault for giving them desires that cannot be found in heaven?
