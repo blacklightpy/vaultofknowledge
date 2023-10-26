@@ -1,5 +1,13 @@
-- Can't an infinite lord give infinite chances?
-	- If opposed
-		- Then he should've known that a few chances are futile, so he shouldn't have given any in the first place.
-			- If said that he hasn't forgiven anyone.
-				- Why is god a narcissist? Or is god just a reflection of your own desire for control?
+- Why can't god guide everyone personally, like he guided people in the past?
+	- If said he gave a few chances to humanity, but they never learn:
+		- Can't an infinite lord give infinite chances?
+			- If opposed:
+				- Then he should've known that a few chances are futile, so he shouldn't have given any in the first place.
+					- If said that he hasn't forgiven anyone:
+						- Why is god a narcissist? Or is god just a reflection of your own desire for control?
+						- Why would you worship an unforgiving god, when he put desires in our mind, when he could have just not done that
+							- If they tell you it's about freedom:
+								- If one gives someone freedom, then he is also give freedom to make mistakes, and then he is also responsible for forgiving mistakes.
+									- If it's said that one should repent:
+										- Again, because of the desires we're given, we are bound to make the same mistakes again and again due. Even if we wish to eliminate them, they always return, because that's the way we are made. Is it not unfair to create us in that manner?
+										- 
