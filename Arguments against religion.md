@@ -10,4 +10,7 @@
 								- If one gives someone freedom, then he is also give freedom to make mistakes, and then he is also responsible for forgiving mistakes.
 									- If it's said that one should repent:
 										- Again, because of the desires we're given, we are bound to make the same mistakes again and again due. Even if we wish to eliminate them, they always return, because that's the way we are made. Is it not unfair to create us in that manner?
-										- 
+											- If said it is to prepare you for something bigger
+												- Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
+												- Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
+												- The vision of heaven so boring 
