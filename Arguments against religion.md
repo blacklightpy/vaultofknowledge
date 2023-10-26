@@ -13,7 +13,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 							- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.\]** If they say, because he expects us to do it ourselves, because that is the reason for humanity as a whole
 								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1\]** Why would someone not fix a problem he can fix in an instant?
 									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
-										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.\]** But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
+										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.\]** But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world? ^backlink-to-devil
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** If they say, we will suffer now so that the evil ones will burn in hell
 												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.\]** Why did you have to suffer that much?
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.\]** If they say, the test is necessary for obedience
@@ -29,12 +29,13 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.\]** Say couldn't that have been possible well in earth itself, without having to be tested?
 															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.\]** If they say, the test is necessary for obedience
 																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
-																				- 
+											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.\]** If they say, it's not him, it's the devil
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.Q1.\]** Jump to [[Arguments against religion#^devil|Devil]]
 								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
 									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.\]** Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.\]** If they say, it's not him, it's the devil
-												- Jump to [[Arguments against religion#^devil|Devil]]
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^devil|Devil]]
 	- If they say, he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
@@ -65,5 +66,6 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 						- Isn't the judgement same for all
 							- If they say, yes, it is the same at the time of judgement
 	- If they say it was to test us:
+		- Ask 
 		- Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
 		- Backcontexts in Q1. about god not wanting to guide us himself: [[]]
