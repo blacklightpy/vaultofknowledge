@@ -27,9 +27,12 @@
 															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.\]** If they say, the test is necessary for obedience
 																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
 								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
-									- If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
-										- Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
-											- If they say, it's not him, it's the devil
+									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
+										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.\]** Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
+											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.\]** If they say, it's not him, it's the devil
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.\]** Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
+													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.\]** If they say, he expects us to do the right thing and follow his commands:
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.Q1.\]** Say, 
 	- If they say, he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
