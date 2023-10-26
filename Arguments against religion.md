@@ -1,4 +1,4 @@
-- Why can't god guide everyone personally, like he guided people in the past? He seems very capable of doing 
+- Why can't god guide everyone personally, like he guided people in the past? He seems very capable of doing  ^5fd6a4
 	- If said god's ways are his and shouldn't be questioned
 		- Is he not responsible for all the suffering in the world
 			- If said, not following his word is the reason
@@ -17,6 +17,7 @@
 													- If said, all desires will be satisfied in heaven
 														- Say couldn't that have been possible well in earth itself, without having to be tested?
 															- If said, the test is necessary for obedience
+																- Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
 								- But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
 									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
@@ -32,9 +33,11 @@
 								- If one gives someone freedom, then he is also give freedom to make mistakes, and then he is also responsible for forgiving mistakes.
 									- If it's said that one should repent:
 										- Again, because of the desires we're given, we are bound to make the same mistakes again and again due. Even if we wish to eliminate them, they always return, because that's the way we are made. Is it not unfair to create us in that manner?
-											- If said it is to prepare you for something bigger
+											- If said it is to prepare you for something bigger ^heaven-without-test
 												- Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
 												- Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
 												- The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
-												- If he's just testing our faith so we obey him in the future, is it not a slave kingdom?
-												- If he will allow us to have any of what we desire without side-effects, why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.**
+												- If said, he's just testing our faith so we obey him in the future
+													- Is it not a slave kingdom?
+												- If said, he will allow us to have any of what we desire without side-effects
+													- Why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.**
