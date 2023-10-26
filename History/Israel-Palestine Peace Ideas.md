@@ -2,11 +2,12 @@
 	- Isratine
 		- Both for and against group believe that Isratine will have equal rights for all citizens without regard for religion or ethnicity. But it is for the same reason that most of them believe it's unthinkable.
 		- A multi-poll option by Near East Consulting (NEC) in Nov 2007 noted that "one-state proposal" got less votes than either "two-state" or "a Palestinian state on all historical Palestine".
-		- A poll by NEC in Feb 2007 also found that 70% of Palestinians backed it when given a straight choice as supporting or opposing
+		- A poll by NEC in Feb 2007 also found that 70% of Palestinians backed it when given a straight choice as supporting or opposing "a one-state solution in historic Palestine where Muslims, Christians and Jews have equal rights and responsibilities"
 		- Against
 			- Among Israelites
 				- It is opposed by both the Arab and Jewish left, because they argue that the current West Bank settlement is creating a situation where either Israel and West Bank will turn into an apartheid state with full civil rights for Israeli Arabs and Jews, with limited autonomy for Palestinian Arabs, just like how it is currently practiced under the Palestinian authority; or it will turn into a bi-national state which will no longer be a Zionist national home for the Jewish people.
 				- A large majority of Israeli Arabs oppose any political solution that would reduce their status as purely Israeli Arabs because they enjoy better life in Israel than in Palestine
+				- They argue that it would erode the notion of Israel as a Jewish state. The demographic trends show that the west of Jordan river would have an Arab majority population, and they are afraid that Palestinians would constitute an electoral majority, which would pose a threat to the very premise of Israel, explicitly created as a Jewish state in response to the Holocaust. A 2000 poll shortly after the outbreak of the second In
 			- Among Palestinians
 				- Similar arguments like Israeli left are used, and they stress that the time to implement a two-state solution is running out as the West Bank settlements increase
 				- It is opposed by Islamists who think it goes against the idea of an Islamic state
