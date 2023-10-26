@@ -30,14 +30,8 @@
 									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.\]** Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.\]** If they say, it's not him, it's the devil
-												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.\]** Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
-													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.\]** If they say, he expects us to do the right thing and follow his commands:
-														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.Q1.\]** Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
-													- If they say, killing the devil would make other angels worship him out of fear and not love
-														- Aren't we forced to worship god out of fear than love?
-															- If they say, they are angels and we are mortals
-																- Isn't the judgement same for all
-																	- If they say, yes, it 
+												- Jump to
+
 	- If they say, he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
@@ -57,3 +51,14 @@
 													- Is it not a slave kingdom?
 												- If they say, he will allow us to have any of what we desire without side-effects
 													- Why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.**
+- **\[Q2.\]** Why did god create the devil?
+	- If they say he was an angel who was cast out
+		- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.\]** Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
+			- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.\]** If they say, he expects us to do the right thing and follow his commands:
+				- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.A1.Q1.\]** Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
+			- If they say, killing the devil would make other angels worship him out of fear and not love
+				- Aren't we forced to worship god out of fear than love?
+					- If they say, they are angels and we are mortals
+						- Isn't the judgement same for all
+							- If they say, yes, it is the same at the time of judgement
+							- 
