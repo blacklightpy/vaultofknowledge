@@ -17,7 +17,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** If they say, we will suffer now so that the evil ones will burn in hell
 												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.\]** Why did you have to suffer that much?
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.\]** If they say, the test is necessary for obedience
-														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.\]** If they say, people who follow the word don't suffer
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** Why do other people who follow the law suffer, because of the desires they have been given?
 															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, one must repent to eliminate those desires, and a true heart will have eliminated those desires
@@ -28,7 +28,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.\]** If they say, all desires will be satisfied in heaven
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.\]** Say couldn't that have been possible well in earth itself, without having to be tested?
 															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.\]** If they say, the test is necessary for obedience
-																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
+																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.\]** If they say, it's not him, it's the devil
 												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.Q1.\]** Jump to [[Arguments against religion#^devil|Devil]]
 								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
@@ -47,7 +47,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 								- If one gives someone freedom, then he is also give freedom to make mistakes, and then he is also responsible for forgiving mistakes.
 									- If it's said that one should repent:
 										- Again, because of the desires we're given, we are bound to make the same mistakes again and again due. Even if we wish to eliminate them, they always return, because that's the way we are made. Is it not unfair to create us in that manner?
-											- If they say, it is to prepare you for something bigger ^heaven-without-test
+											- If they say, it is to prepare you for something bigger ^heaven-without-test-for-obedience
 												- Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
 												- Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
 												- The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
@@ -66,6 +66,10 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 						- Isn't the judgement same for all
 							- If they say, yes, it is the same at the time of judgement
 	- If they say it was to test us:
-		- Ask 
-		- Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
+		- Ask why would he need to test us instead of making us proper in the first place?
+			- If they say, freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
+				- Ask, does it not go against the idea of freedom itself?
+					- Say that freedom without discipline leads to bad outcomes, and we can't have bad people in heaven
+						- Ask, why couldn't he just have created perfect people without freedom, instead of making some people suffer first? Did he not know in the first place when he made someone that put in their body and situation, they would behave exactly as they were built to?
+		- Jump to [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
 		- Backcontexts in Q1. about god not wanting to guide us himself: [[]]
