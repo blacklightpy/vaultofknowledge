@@ -67,5 +67,5 @@
 		- #### Source
 			- 3 Dec 2019 | GA/12220: [General Assembly Adopts 5 Resolutions on Middle East, including Text Urging States Not to Recognize Changes on Status of Jerusalem, Pre-1967 Borders](https://press.un.org/en/2019/ga12220.doc.htm)
 			- More (26 Nov 2013 | GA/11460 Press Release | [General Assembly, Wrapping Up Annual Consideration Of Question Of Palestine, Situation In Middle East, Adopts Six Resolutions By Recorded Vote](https://web.archive.org/web/20140728231059/http://domino.un.org/unispal.nsf/5ba47a5c6cef541b802563e000493b8c/08cf374a114bda2385257c320052a1e5?OpenDocument)
-			- More (25 Jan 2011 | A/RES/65/16): ["Peaceful settlement of the question of Palestine, United Nations General Assembly"](https://web.archive.org/web/20110728142758/http://unispal.un.org/UNISPAL.NSF/0/7EB10BD6D4BCACCF85257829005379D9)
+			- More (25 Jan 2011 | A/RES/65/16): [Peaceful settlement of the question of Palestine, United Nations General Assembly](https://web.archive.org/web/20110728142758/http://unispal.un.org/UNISPAL.NSF/0/7EB10BD6D4BCACCF85257829005379D9)
 - Three State proposal
