@@ -19,7 +19,7 @@
 		- In 2014, 60% of all Palestinians said their final goal of their national movement should be "to work towards reclaiming all of historic Palestine from the river to the sea".
 			- Civic figures say it calls for a single state with people of all religions having equal citizenship
 			- Islamic scholars say that Mahdi - a redemptive apocalyptic figure central to Islamic 
-- pre-1967 Borders
+- Two State solution with pre-1967 Borders
 	- UN General assembly adopted 5 resolutions, urging states to refuse changes to pre-1967 borders
 		- #### The Resolutions
 			- 1. Peaceful settlement of the question of Palestine (A/17/L.15)
@@ -45,8 +45,9 @@
 			- The representative of Israel, voicing opposition to the 5 resolutions said that:
 				- The international community has fully embraced the Palestinian perspective and thereby stands in the way of ending the conflict by encouraging Palestinians to refuse any proposed solution.
 				- Though the Jewish people have a biblical and historic right to the entire land, Israel accepted the partition plan in the spirit of compromise. The Arab leadership, by contrast, chose war. During the twentieth century an estimated 850,000 Jews were forced out of Arab countries and became refugees but were ignored by the international community because it didn’t serve the Palestinian narrative.
-				- Accepting the Palestinian Authority’s stated policy of glorifying terrorism against Jews and condemning Jews for living in Jerusalem is counterproductive to peace
-				- He also called the international community morally bankrupt
-			
-	- Source: https://press.un.org/en/2019/ga12220.doc.htm
+				- Accepting the Palestinian Authority’s stated policy of glorifying terrorism against Jews and condemning Jews for living in Jerusalem is counterproductive to peace, he said, calling the international community morally bankrupt.
+			- The representative of the US echoed Israel's sentiments that the resolutions are biased against Israel, adding that such a one-sided approach undermines trust.
+		- #### Source
+			- https://press.un.org/en/2019/ga12220.doc.htm
+			- More: https://web.archive.org/web/20140728231059/http://domino.un.org/unispal.nsf/5ba47a5c6cef541b802563e000493b8c/08cf374a114bda2385257c320052a1e5?OpenDocument
 - Three State proposal
