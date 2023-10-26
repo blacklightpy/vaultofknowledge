@@ -36,7 +36,17 @@
 				- 3.3. Special information programme on the question of Palestine of the Department of Global Communications of the Secretariat (A/74/L.17)
 					- Requests the Department of Global Communications to disseminate information on the activities of the UN system relating to the question of Palestine and peace efforts.
 		- #### Response
-			- The Permanent Observer of the State of Palestine said that international support for the Palestinian people has not wavered despite Israel's attempts to destroy a two-state formula, and recent aberrations by US Administration that contradict international law.
-			- 
+			- The Permanent Observer of the State of Palestine said that:
+				- International support for the Palestinian people has not wavered despite Israel's attempts to destroy a two-state formula, and recent aberrations by US Administration that contradict international law.
+				- Failure to hold Israel accountable for its crimes has led it to believe it is a State above the law. 
+				- As a result, the UNs Charter and UN resolutions are being trampled with utter contempt.
+				- Palestinian civilians, including women and children, continue to be killed and injured.
+				- Israel’s 12-year blockade of Gaza has caused 2 million Palestinians to live in an “open-air prison,” where the unemployment rate is a staggering 53 per cent.
+			- The representative of Israel, voicing opposition to the 5 resolutions said that:
+				- The international community has fully embraced the Palestinian perspective and thereby stands in the way of ending the conflict by encouraging Palestinians to refuse any proposed solution.
+				- Though the Jewish people have a biblical and historic right to the entire land, Israel accepted the partition plan in the spirit of compromise. The Arab leadership, by contrast, chose war. During the twentieth century an estimated 850,000 Jews were forced out of Arab countries and became refugees but were ignored by the international community because it didn’t serve the Palestinian narrative.
+				- Accepting the Palestinian Authority’s stated policy of glorifying terrorism against Jews and condemning Jews for living in Jerusalem is counterproductive to peace
+				- He also called the international community morally bankrupt
+			
 	- Source: https://press.un.org/en/2019/ga12220.doc.htm
 - Three State proposal
