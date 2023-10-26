@@ -3,10 +3,16 @@
 		- Is he not responsible for all the suffering in the world
 			- If said, not following his word is the reason
 				- He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others? **(A non-monotheistic explanation is all is one, one is all.)**
-					- Our aim should be to preach and convert everyone
+					- If said, our aim should be to preach and convert everyone
 						- Why can't god do it himself, if he is capable of making people think in different languages in an instant, like with the Tower of Babel?
-							- Because he expects us to do it ourselves, because that is the reason for humanity as a whole
-								- But that results in suffering, so isn't he re
+							- If said, because he expects us to do it ourselves, because that is the reason for humanity as a whole
+								- Why would someone not fix a problem he can fix in an instant?
+									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
+										- But answer the previous question, is it not his responsibility to fix the suff
+								- But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
+									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
+										- Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
+											- If said it's not him, it's the devil
 	- If said he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
