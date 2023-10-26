@@ -1,10 +1,12 @@
 - One State proposal
 	- Isratine
+		- Both for and against group believe that Isratine will have equal rights for all citizens without regard for religion. 
 		- Against
 			- Among Israelites
-				- It is opposed by both the Arab and Jewish left, because they argue that the current West Bank settlement is creating a situation where either Israel and West Bank will turn into an apartheid state with full civil rights for Israeli Arabs and Jews, with limited autonomy for Palestinian Arabs, just like how it is currently practiced under the Palestinian authority; or it will turn into a bi-national state which will no longer be a Zionist national home for the Jewish people
+				- It is opposed by both the Arab and Jewish left, because they argue that the current West Bank settlement is creating a situation where either Israel and West Bank will turn into an apartheid state with full civil rights for Israeli Arabs and Jews, with limited autonomy for Palestinian Arabs, just like how it is currently practiced under the Palestinian authority; or it will turn into a bi-national state which will no longer be a Zionist national home for the Jewish people.
 				- A large majority of Israeli Arabs oppose any political solution that would reduce their status as purely Israeli Arabs because they enjoy better life in Israel than in Palestine
 			- Among Palestinians
+				- Similar arguments like Israeli left are used, and they stress that the time to implement a two-state solution is running out as the West Bank settlements increase
 				- It is opposed by Islamists who think it goes against the idea of an Islamic state
 				- It is opposed by Arab nationalists who think it goes against the idea of pan-Arabism
 	- "one-state reality" is a term that means in the current situation in Israel and Palestine is de-facto one state 
