@@ -5,6 +5,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 - Each question could just be it's own question, instead of being chained.
 	- For example, Q>A>Link to next Question.
 - The chains of questions, since this is religion, is likely to make a circular web. This is speculation, of course, let's see.
+- Try philosophizing the principles of religion too
 
 - **\[Q1.\]** Why can't god guide everyone personally, like he guided people in the past? He should be very capable of doing is.
 	- **\[Q1.A1.\]** If they say, god's ways are his and shouldn't be questioned
