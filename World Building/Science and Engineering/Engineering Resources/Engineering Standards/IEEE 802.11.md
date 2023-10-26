@@ -1,4 +1,7 @@
 IEEE 802.11, or 802.11x (not 802.11X) is a set of standards related to Wi-Fi networks.
+
+# Terms
+- Service Set Identifier (SSID): A 32 character case-insensitive name for the network
 # Evolution
 802.11 was developed as a wireless local network alternative to Ethernet.
 It was quickly improved by 802.11a and then 802.11b.
