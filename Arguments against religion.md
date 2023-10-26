@@ -1,6 +1,11 @@
 # How to use this
 Find a question (or answer). Read the first answer (or question) to it, and then collapse it to look for any secondary answers (or questions) to the same question (or answer).
 
+**Edits to make:**
+- Each question could just be it's own question, instead of being chained.
+	- For example, Q>A>Link to next Question.
+- The chains of questions, since this is religion, is likely to make a circular web. This is speculation, of course, let's see.
+
 - **\[Q1.\]** Why can't god guide everyone personally, like he guided people in the past? He should be very capable of doing is.
 	- **\[Q1.A1.\]** If they say, god's ways are his and shouldn't be questioned
 		- **\[Q1.A1.Q1.\]** Is he not responsible for all the suffering in the world
@@ -66,7 +71,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 						- Isn't the judgement same for all
 							- If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
 			- If they say, killing the devil would make other angels fear him, but letting him live will let others see the results of his wicked ways
-				- Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person t
+				- Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person to disagree with god's ways and still make a life that's good for himself and others.
 	- If they say it was to test us:
 		- Ask why would he need to test us instead of making us proper in the first place?
 			- If they say, freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
