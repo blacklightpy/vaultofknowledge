@@ -53,6 +53,6 @@
 				- Accepting the Palestinian Authority’s stated policy of glorifying terrorism against Jews and condemning Jews for living in Jerusalem is counterproductive to peace, he said, calling the international community morally bankrupt.
 			- The representative of the US echoed Israel's sentiments that the resolutions are biased against Israel, adding that such a one-sided approach undermines trust.
 		- #### Source
-			- GA/12220: https://press.un.org/en/2019/ga12220.doc.htm
-			- More (GA/11460 Press Release): https://web.archive.org/web/20140728231059/http://domino.un.org/unispal.nsf/5ba47a5c6cef541b802563e000493b8c/08cf374a114bda2385257c320052a1e5?OpenDocument
+			- 3 Dec 2019 | GA/12220: https://press.un.org/en/2019/ga12220.doc.htm
+			- More (26 Nov 2013 | GA/11460 Press Release): https://web.archive.org/web/20140728231059/http://domino.un.org/unispal.nsf/5ba47a5c6cef541b802563e000493b8c/08cf374a114bda2385257c320052a1e5?OpenDocument
 - Three State proposal
