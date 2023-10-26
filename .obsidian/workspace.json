@@ -203,14 +203,6 @@
             }
           },
           {
-            "id": "8ffb2c7e035db4a3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d24e6a72e216a46c",
             "type": "leaf",
             "state": {
@@ -224,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -274,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -388,8 +379,8 @@
   },
   "active": "d24e6a72e216a46c",
   "lastOpenFiles": [
-    "Arguments against religion.md",
     "History/Israel-Palestine Peace Ideas.md",
+    "Arguments against religion.md",
     "Pan-Arabism.md",
     "Untitled.md",
     "History/Timeline of Conflicts.md",

@@ -5,6 +5,8 @@
 				- He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others? **(A non-monotheistic explanation is all is one, one is all.)**
 					- If said, our aim should be to preach and convert everyone
 						- Why can't god do it himself, if he is capable of making people think in different languages in an instant, like with the Tower of Babel?
+							- If said, his ways are unknown
+								- Repeat, is he not responsible for all the suffering in the world?
 							- If said, because he expects us to do it ourselves, because that is the reason for humanity as a whole
 								- Why would someone not fix a problem he can fix in an instant?
 									- If said, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
