@@ -1,4 +1,4 @@
-- Why can't god guide everyone personally, like he guided people in the past? He seems very capable of doing  ^5fd6a4
+- Why can't god guide everyone personally, like he guided people in the past? He seems very capable of doing  
 	- If said god's ways are his and shouldn't be questioned
 		- Is he not responsible for all the suffering in the world
 			- If said, not following his word is the reason

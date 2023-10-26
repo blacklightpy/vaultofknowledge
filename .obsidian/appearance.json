@@ -1,8 +1,8 @@
 {
   "baseFontSize": 11,
   "theme": "obsidian",
-  "translucency": false,
-  "cssTheme": "80s Neon",
+  "translucency": true,
+  "cssTheme": "",
   "accentColor": "",
   "nativeMenus": false
 }
