@@ -61,3 +61,5 @@
 			- More (26 Nov 2013 | GA/11460 Press Release): [General Assembly, Wrapping Up Annual Consideration Of Question Of Palestine, Situation In Middle East, Adopts Six Resolutions By Recorded Vote](https://web.archive.org/web/20140728231059/domino.un.org/unispal.nsf/5ba47a5c6cef541b802563e000493b8c/08cf374a114bda2385257c320052a1e5?OpenDocument)
 			- More (25 Jan 2011 | A/RES/65/16): [Peaceful settlement of the question of Palestine, United Nations General Assembly](https://web.archive.org/web/20110728142758/unispal.un.org/UNISPAL.NSF/0/7EB10BD6D4BCACCF85257829005379D9)
 - Three State proposal
+	- Egypt should take control of Gaza and Jordan should take control of West Bank
+	- The proposal that Palestinians be given Jordan citizenship is strongly opposed by Jordan
