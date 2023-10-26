@@ -17,15 +17,15 @@
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.\]** If they say, people who follow the word don't suffer
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** Why do other people who follow the law suffer, because of the desires they have been given?
-														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** If they say, one must repent to eliminate those desires, and a true heart will have eliminated those desires
-															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.\]**
-												- And ask, some people don't like whatever is available heaven, because it does not satisfy their desires, will they not suffer in heaven?
-													- If they say, they were not meant to be in heaven anyways
-														- Is it not god's fault for giving them desires that cannot be found in heaven?
-													- If they say, all desires will be satisfied in heaven
-														- Say couldn't that have been possible well in earth itself, without having to be tested?
-															- If they say, the test is necessary for obedience
-																- Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
+															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, one must repent to eliminate those desires, and a true heart will have eliminated those desires
+																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.\]** It is not as easy as it sounds. If it was so easy, why didn't he make us without desires so that we didn't have to do it in the first place? **(A non-monotheistic explanation is that all desires are part of our nature, and it's not a sin. Suffering arises from our ability to not understand and control our nature, and instead choosing to repress it, leading to unintentional violent outbursts.)**
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.\]** And ask, some people don't like whatever is available heaven, because it does not satisfy their desires, will they not suffer in heaven?
+													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A1.\]** If they say, they were not meant to be in heaven anyways
+														**\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A1.Q1.\]** - Is it not god's fault for giving them desires that cannot be found in heaven?
+													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.\]** If they say, all desires will be satisfied in heaven
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.\]** Say couldn't that have been possible well in earth itself, without having to be tested?
+															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.\]** If they say, the test is necessary for obedience
+																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test|Heaven without test]]
 								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
 									- If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
