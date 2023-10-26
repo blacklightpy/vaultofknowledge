@@ -96,13 +96,14 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Camera Interfaces]]
 			- [[Camera Serial Interface]]
 			- [[D-PHY]]
+			- [[IEEE 802.11]]
 			- [[Mobile Industry Processor Interface]]
 			- [[Ports and Connectors]]
 			- [[Voltage Level Standards]]
-		- [[IEEE 802.11]]
-		- [[Institute of Electrical and Electronics Engineers]]
-		- [[Internet Engineering Task Force]]
 		- [[OSI Model]]
+		- **Standards Organizations**
+			- [[Institute of Electrical and Electronics Engineers]]
+			- [[Internet Engineering Task Force]]
 		- [[Standards Organizations]]
 	- **Engineering Tools and Machines**
 		- [[CNC Machines]]

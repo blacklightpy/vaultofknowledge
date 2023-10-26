@@ -1,1 +1,1 @@
-The D65 is a [[Spectral Power Distribution|SPD]] in increments of 5nm from 300nm to 830nm, using [[linear interpolation]] on the original data binned at 10nm. [[Primary Colours]]
+The D65 is a [[Spectral Power Distribution|spectal power distribution (SPD)]] in increments of 5nm from 300nm to 830nm, using [[linear interpolation]] on the original data binned at 10nm. [[Primary Colours]]
