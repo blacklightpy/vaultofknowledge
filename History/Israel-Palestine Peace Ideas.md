@@ -1,6 +1,8 @@
 - One State proposal
 	- Isratine
-		- Both for and against group believe that Isratine will have equal rights for all citizens without regard for religion. 
+		- Both for and against group believe that Isratine will have equal rights for all citizens without regard for religion or ethnicity. But it is for the same reason that most of them believe it's unthinkable.
+		- A multi-poll option by Near East Consulting (NEC) in Nov 2007 noted that "one-state proposal" got less votes than either "two-state" or "a Palestinian state on all historical Palestine".
+		- A poll by NEC in Feb 2007 also found that 70% of Palestinians backed it when given a straight choice as supporting or opposing
 		- Against
 			- Among Israelites
 				- It is opposed by both the Arab and Jewish left, because they argue that the current West Bank settlement is creating a situation where either Israel and West Bank will turn into an apartheid state with full civil rights for Israeli Arabs and Jews, with limited autonomy for Palestinian Arabs, just like how it is currently practiced under the Palestinian authority; or it will turn into a bi-national state which will no longer be a Zionist national home for the Jewish people.
