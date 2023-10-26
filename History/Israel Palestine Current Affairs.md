@@ -1,3 +1,6 @@
+- 2021 Israel-Palestine crisis
+	- 
+
 - Israel has been raiding West Bank since the 2021 tensions due to Israel's forced occupation in East Jerusalem
 	- 2022 Dec 12: 16 year old Jana shot dead https://www.aljazeera.com/news/2022/12/12/israeli-forces-kill-palestinian-girl-in-occupied-west-bank-raid
 	- By Sep 2023, West Bank had a death toll of 38, including children
