@@ -64,7 +64,9 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 				- Aren't we forced to worship god out of fear than love?
 					- If they say, they are angels and we are mortals
 						- Isn't the judgement same for all
-							- If they say, yes, it is the same at the time of judgement
+							- If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
+			- If they say, killing the devil would make other angels fear him, but letting him live will let others see the results of his wicked ways
+				- Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person t
 	- If they say it was to test us:
 		- Ask why would he need to test us instead of making us proper in the first place?
 			- If they say, freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
