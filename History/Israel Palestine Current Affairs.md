@@ -1,5 +1,6 @@
-- 2021 Israel-Palestine crisis
-	- 
+- 2021 Israel-Palestine crisis (10 May - 21 May 2021)
+	- On 6 May, the Supreme Court of Israel decided to evict 6 Palestinian families from the neighbourhood of Sheikh Jarrah in East Jerusalem
+	- Under international law, the area is part of the Palestinian territories, although it was effectively annexed by Israel in 1980
 
 - Israel has been raiding West Bank since the 2021 tensions due to Israel's forced occupation in East Jerusalem
 	- 2022 Dec 12: 16 year old Jana shot dead https://www.aljazeera.com/news/2022/12/12/israeli-forces-kill-palestinian-girl-in-occupied-west-bank-raid
