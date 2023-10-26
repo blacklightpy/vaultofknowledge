@@ -1,4 +1,10 @@
-- Why can't god guide everyone personally, like he guided people in the past?
+- Why can't god guide everyone personally, like he guided people in the past? He seems very capable of doing 
+	- If said god's ways are his and shouldn't be questioned
+		- Is he not responsible for all the suffering in the world
+			- If said, not following his word is the reason
+				- He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others? **(A non-monotheistic explanation is all is one, one is all.)**
+					- Our aim should be to preach and convert everyone
+						- Why can't god do it himself, if he is capable of converting people
 	- If said he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
@@ -15,4 +21,4 @@
 												- Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
 												- The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
 												- If he's just testing our faith so we obey him in the future, is it not a slave kingdom?
-												- If he will allow us to have any of what we desire without side-effects, why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even a **
+												- If he will allow us to have any of what we desire without side-effects, why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.**
