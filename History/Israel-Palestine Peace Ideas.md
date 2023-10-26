@@ -1,5 +1,10 @@
 - One State proposal
 	- Isratine
-		- Among Palestinians, it is opposed by Islamists who think it goes agains
+		- Among Israelites
+			- It is opposed by both the Arab and Jewish left, because they think it would 
+			- A large majority of Israeli Arabs oppose any political solution that would reduce their status as purely Israeli Arabs because they enjoy better life in Israel than in Palestine
+		- Among Palestinians
+			- It is opposed by Islamists who think it goes against the idea of an Islamic state
+	- "one-state reality" is a term that means in the current situation in Israel and Palestine is de-facto one state 
 - Two State proposal
 - Three State proposal
