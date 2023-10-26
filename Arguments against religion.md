@@ -1,0 +1,5 @@
+- Can't an infinite lord give infinite chances?
+	- If opposed
+		- Then he should've known that a few chances are futile, so he shouldn't have given any in the first place.
+			- If said that he hasn't forgiven anyone.
+				- Why is god a narcissist? Or is god just a reflection of your own desire for control?

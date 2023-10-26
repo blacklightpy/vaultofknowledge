@@ -201,9 +201,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ffb2c7e035db4a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d24e6a72e216a46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arguments against religion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -269,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Israel-Palestine Peace Ideas.md",
+                "file": "Arguments against religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Israel-Palestine Peace Ideas.md",
+                "file": "Arguments against religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Israel-Palestine Peace Ideas.md"
+                "file": "Arguments against religion.md"
               }
             }
           },
@@ -364,10 +385,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "347e4038755d0cc1",
+  "active": "d24e6a72e216a46c",
   "lastOpenFiles": [
-    "Pan-Arabism.md",
+    "Arguments against religion.md",
     "History/Israel-Palestine Peace Ideas.md",
+    "Pan-Arabism.md",
     "Untitled.md",
     "History/Timeline of Conflicts.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
@@ -392,7 +414,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/History.md",
     "History/Periods of Archaeological History.md",
-    "History/Civilizations/Civilizations.md",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
