@@ -1,5 +1,5 @@
 - One State proposal
 	- Isratine
-		- Among Palestinians, it is opposed by Islamists
+		- Among Palestinians, it is opposed by Islamists who think it goes agains
 - Two State proposal
 - Three State proposal
