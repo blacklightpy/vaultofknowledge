@@ -374,7 +374,8 @@ Arabs arrived in Palestine after 1st century AD.
 	- It was a movement by the Muslims in India, against Britain's plan for Turkey and abolishing of the Ottoman Caliphate
 	- It was supported by Gandhi, Sardar Vallabhbhai Patel and Bal Gangadhar Tilak
 	- It led to Malabar Kalapam in Kerala in 1921
-		- It was primarily among the elite Hindus and the jenmi system, where the high-caste landowners would have absolute family ownership of the land
+		- It was a riot against British officers who forcibly converted and killed many Hindus, trying to stir up conflict between Hindus and Muslims
+		- It was also against the elite Hindus landowners, who had absolute family ownership of the land under the [jenmi system](https://en.wikipedia.org/wiki/Malabar_rebellion#Jenmi)
 - 1919: Turkish War for Independence begins
 - 1922: Soviet Union forms with Communism
 - 1924: Türkiye becomes independent 
