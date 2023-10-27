@@ -165,6 +165,8 @@ Arabs arrived in Palestine after 1st century AD.
 		- When in war, both tribes would fight for their allies. And during war, they would kill the Arab enemies, and they would also kill Jews who were allies of the other tribe, although the Jews were prohibited from killing each other according to their books.
 		- They would also drive each other from their homes and loot all the furniture they could.
 		- But at the end of the war, they would release the prisoners of the defeated party, according to the Tawrah.
+		- Tawrah said: Do not kill each other, nor expel one another from their homes, nor participate in fighting against them.
+		- During war, the Jewish tribes would fight among themselves, while the Aws and Khazraj were polytheists who worshipped idols, and did not know about Paradise, the Fire, Resurrection, the Divine Books, the lawful and the prohibitted.
 		- 
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
 - They started spreading Islam and conquering lands
