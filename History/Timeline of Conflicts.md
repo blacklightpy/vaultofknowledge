@@ -167,7 +167,9 @@ Arabs arrived in Palestine after 1st century AD.
 		- But at the end of the war, they would release the prisoners of the defeated party, according to the Tawrah.
 		- Tawrah said: Do not kill each other, nor expel one another from their homes, nor participate in fighting against them.
 		- During war, the Jewish tribes would fight among themselves, while the Aws and Khazraj were polytheists who worshipped idols, and did not know about Paradise, the Fire, Resurrection, the Divine Books, the lawful and the prohibitted.
-		- 
+		- At the end of the war, they would ransom the prisoners according to the Tawrah, and also ask for blood money.
+		- Allah reminded that they ignore the Tawrah when it said you to not kill your members or expel them from their homes, and follow it to implement ransom. By this, they believe one part of the scripture and reject the rest. "You do this all to acquire the life of this world".
+		- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
