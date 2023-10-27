@@ -188,9 +188,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6aba0fadc949860d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f5b1a482abd72f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -257,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "My Ideas on solving the Arab-Israel conflict.md"
               }
             }
           },
@@ -352,11 +373,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf565ae2159cfc68",
+  "active": "1f5b1a482abd72f6",
   "lastOpenFiles": [
+    "My Ideas on solving the Arab-Israel conflict.md",
+    "History/Timeline of Conflicts.md",
     "History/Israel-Palestine Peace Ideas.md",
     "History/Israel Palestine Current Affairs.md",
-    "History/Timeline of Conflicts.md",
     "Untitled.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Z1-Inbox/Arguments against religion.md",
@@ -380,7 +402,6 @@
     "Literature/Origin of Writing.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/History.md",
-    "History/Periods of Archaeological History.md",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
