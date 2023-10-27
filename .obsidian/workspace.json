@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Israel-Palestine Peace Ideas.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Israel-Palestine Peace Ideas.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Israel-Palestine Peace Ideas.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -352,13 +352,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5a9d64a4d1de3c1d",
+  "active": "cf565ae2159cfc68",
   "lastOpenFiles": [
+    "History/Israel-Palestine Peace Ideas.md",
     "History/Israel Palestine Current Affairs.md",
     "History/Timeline of Conflicts.md",
     "Untitled.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "History/Israel-Palestine Peace Ideas.md",
     "Z1-Inbox/Arguments against religion.md",
     "Pan-Arabism.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",

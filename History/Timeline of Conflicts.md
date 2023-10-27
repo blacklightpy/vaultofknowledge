@@ -357,7 +357,7 @@ Arabs arrived in Palestine after 1st century AD.
 	- It was said to the The Great War that would end all wars
 - 1917: Russian Revolution
 - 1922: Soviet Union forms with Communism
-- Arab Revolt - The first ever Arab nationalist movement
+- 1919Arab Revolt - The first ever Arab nationalist movement
 	- Started in 1916 to establish a unified Arab state from Aleppo (Syria) to Aden (Yemen) (middle east area)
 	- Britain promised to support them, and together they conquered the Ottoman Empire
 	- British secretly signed the Sykes-Picot agreement with the French government
