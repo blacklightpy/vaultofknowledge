@@ -156,7 +156,7 @@ Arabs arrived in Palestine after 1st century AD.
 	- While at Medina, according to the Quran, the prophet declared a treaty, "The Constitution of Medina"
 		- The contract upheld peace between Jews, Christians and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
 		- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
-	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynua and Banu Nadir
+	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Nadir
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
