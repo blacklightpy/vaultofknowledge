@@ -187,6 +187,11 @@ Arabs arrived in Palestine after 1st century AD.
 	- 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
 		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
 		- The constitution had an 
+	- More trivia:
+		- The belief is that in 620 AD, Mohammed was invited as a neutral arbitrator by the twelve clans of Medina for their community
+		- Eye for an Eye (law of reciprocal justice)
+			- Use in Babylonian "Code of Hammurabi"
+			- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
