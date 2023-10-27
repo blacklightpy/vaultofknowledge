@@ -151,6 +151,8 @@ Arabs arrived in Palestine after 1st century AD.
 - Japan has a kingdom named Yamato, or the sunrise kingdom
 ----
 - 610 AD: Islam was founded by Prophet Mohammed
+	- Mohammed was a member of the Meccan pagan tribe Banu Quraysh.
+	- One day he has a revelation.
 	- He goes to the Cube (Kaaba) of Mecca and presents his revelations
 	- 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
 	- While at Medina, according to the Quran, the prophet declared a treaty, "The Constitution of Medina"
