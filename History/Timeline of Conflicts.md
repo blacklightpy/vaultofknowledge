@@ -202,6 +202,9 @@ Arabs arrived in Palestine after 1st century AD.
 - [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
 	- The Hadiths say that the Judgement day will not come until Jews and Muslims fight ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Hadith))
 	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Life_under_Muslim_rule))
+		- Things started to slowly change towards the 19th century, with the slow rise of Anti-semitism
+		- Ottoman Sultan believed the empire was declining due to punishment from Allah for not implementing Sharia law - and this led to persecution of Christians (not Jews though).
+		- With the beginning of Nazism, and with the Arab revolts, the general sentiment became popular with Arabs too (although many Arabs defended their resident Jews from the Holocaust)
 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
