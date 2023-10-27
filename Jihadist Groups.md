@@ -6,7 +6,10 @@
 	- Taliban is condemned for human rights violations, such as the right of women and girls to work and education
 - Islamic State
 	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
+	- Also known by its acronym, Da'ish
 - Lakshar-e-Taiba
 - Al-Qaeda
 - Hamas
-- Palestinian Islamic 
+- Palestinian Islamic Jihad
+- Hezbollah
+	- In Lebanon
