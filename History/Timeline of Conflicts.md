@@ -177,7 +177,14 @@ Arabs arrived in Palestine after 1st century AD.
 		- This way, they killed or rejected all Prophets
 		- This happened because they altered the Tawrah, and the prophets upheld the truths which clashed with their desires
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
-	- It is said that a jeweller from Banu Qaynua asked a woman 
+	- Expulsion of Banu Qaynuqa
+		- It is said that a jeweller from Banu Qaynuqa asked a woman to reveal her hair, and he pinned her dress so when she got up, she was stripped naked. A Muslim man killed the jeweller in retaliation.
+			- This story has been debated by many people. Nevertheless, this is the story.
+			- Some say that Mohammed 
+		- Prophet Mohammed warned them to be fair, or else, they'll suffer the same fate as Quraysh. He also asked them to follow the true word of god. But Banu Qaynuqa mocked his followers for accepting him as the prophet and mocked their victory claiming Quraysh had no knowledge of war, and if you fight with us, we'll show you who's boss. So this was seen as a declaration of war.
+		- The Banu Qaynuqa tribes were defeated and exiled.
+	- 625 AD: Banu Nadir tribe was evicted from Medina for trying to assassinate prophet Mohammed.
+	- 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the holy land and the Persian Sassanid Empire and they reached Central Asia
