@@ -150,11 +150,13 @@ Arabs arrived in Palestine after 1st century AD.
 - Korea has 3 kingdoms: Goguryeo, Silla, Baekje
 - Japan has a kingdom named Yamato, or the sunrise kingdom
 ----
-- 610 AD: Islam was founded
+- 610 AD: Islam was founded by Prophet Mohammed
 	- He goes to the Cube (Kaaba) of Mecca and presents his revelations
-	- 622 AD: The polytheist tribe of Quraysh had the Muslims move from Mecca to Medina
-	- While at Medina, according to the Quran, the prophet declared a 
-	- Banu Qurayza, Banu Qaynua and Banu Nadir
+	- 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
+	- While at Medina, according to the Quran, the prophet declared a treaty, "The Constitution of Medina"
+		- The contract upheld peace between Jews, Christians and Muslims, defining them all, under given conditions, as the 
+	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynua and Banu Nadir
+	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the holy land and the Persian Sassanid Empire and they reached Central Asia
