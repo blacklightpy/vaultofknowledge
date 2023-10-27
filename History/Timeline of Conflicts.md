@@ -157,7 +157,7 @@ Arabs arrived in Palestine after 1st century AD.
 		- The contract upheld peace between Jews, Christians and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
 		- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
 	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Al-Nadir
-	- From Quran> surah Al Baqarah 2:84-2:86 (The Terms of the Covenant and their Breach of It)
+	- From Quran> surah Al Baqarah 2:84-2:86 (The Terms of the Covenant and their Breach of It) [citing the Quran is ok here, since the general argument is that Quran incites violence]
 		- Allah criticized the Jews who lived in Al-Madinah (Medina) at the time.
 		- They used to suffer, because of the armed conflicts between the tribes Aws and Khazraj
 		- Banu Qaynuqa and Banu Al-Nadir were allies of the Khazraj
@@ -166,10 +166,12 @@ Arabs arrived in Palestine after 1st century AD.
 		- They would also drive each other from their homes and loot all the furniture they could.
 		- But at the end of the war, they would release the prisoners of the defeated party, according to the Tawrah.
 		- Tawrah said: Do not kill each other, nor expel one another from their homes, nor participate in fighting against them.
-		- During war, the Jewish tribes would fight among themselves, while the Aws and Khazraj were polytheists who worshipped idols, and did not know about Paradise, the Fire, Resurrection, the Divine Books, the lawful and the prohibitted.
+		- During war, the Jewish tribes would fight among themselves, while the Aws and Khazraj were polytheists who worshipped idols, and did not know about Paradise, the Fire, Resurrection, the Divine Books, the lawful and the prohibited.
 		- At the end of the war, they would ransom the prisoners according to the Tawrah, and also ask for blood money.
 		- Allah reminded that they ignore the Tawrah when it said you to not kill your members or expel them from their homes, and follow it to implement ransom. By this, they believe one part of the scripture and reject the rest. "You do this all to acquire the life of this world".
-		- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet
+		- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet, his coming, his expulsion, etc.
+		- On the Day of Resurrection, they will be subject to torment because they defied the book they were given.
+	- From Quran> surah Al Baqarah 2:87-2:86 (The Terms of the Covenant and their Breach of It)
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire

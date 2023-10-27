@@ -240,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -351,7 +352,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf565ae2159cfc68",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "History/Israel Palestine Current Affairs.md",
     "Untitled.md",
