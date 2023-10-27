@@ -154,7 +154,7 @@ Arabs arrived in Palestine after 1st century AD.
 	- He goes to the Cube (Kaaba) of Mecca and presents his revelations
 	- 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
 	- While at Medina, according to the Quran, the prophet declared a treaty, "The Constitution of Medina"
-		- The contract upheld peace between Jews, Christians and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
+		- The contract upheld peace between Jews, Christians (other "People of the Book") and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
 		- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
 	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Al-Nadir
 	- From Quran> surah Al Baqarah 2:84-2:86 (The Terms of the Covenant and their Breach of It) [citing the Quran is ok here, since the general argument is that Quran incites violence]
@@ -166,7 +166,7 @@ Arabs arrived in Palestine after 1st century AD.
 		- They would also drive each other from their homes and loot all the furniture they could.
 		- But at the end of the war, they would release the prisoners of the defeated party, according to the Tawrah.
 		- Tawrah said: Do not kill each other, nor expel one another from their homes, nor participate in fighting against them.
-		- During war, the Jewish tribes would fight among themselves, while the Aws and Khazraj were polytheists who worshipped idols, and did not know about Paradise, the Fire, Resurrection, the Divine Books, the lawful and the prohibited.
+		- During the "Battle of Bu'ath", the Jewish tribes would fight among themselves, while the Aws and Khazraj were polytheists who worshipped idols, and did not know about Paradise, the Fire, Resurrection, the Divine Books, the lawful and the prohibited.
 		- At the end of the war, they would ransom the prisoners according to the Tawrah, and also ask for blood money.
 		- Allah reminded that they ignore the Tawrah when it said you to not kill your members or expel them from their homes, and follow it to implement ransom. By this, they believe one part of the scripture and reject the rest. "You do this all to acquire the life of this world".
 		- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet, his coming, his expulsion, etc.
@@ -188,8 +188,9 @@ Arabs arrived in Palestine after 1st century AD.
 		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
 		- The constitution had an 
 	- More trivia:
-		- The belief is that in 620 AD, Mohammed was invited as a neutral arbitrator by the twelve clans of Medina for their community
-		- Eye for an Eye (law of reciprocal justice)
+		- The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
+		- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
+		- UsaEye for an Eye (law of reciprocal justice)
 			- Use in Babylonian "Code of Hammurabi"
 			- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
 
