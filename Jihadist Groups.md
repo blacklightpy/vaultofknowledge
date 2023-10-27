@@ -1,4 +1,12 @@
 - Taliban
+	- Also known by its state name Islamic Emirate of Afghanistan
+	- It ruled Afghanistan from 1996-2001
+	- Following 9/11 Attacks, US invaded Afghanistan and overthrew the Taliban
+	- They captured Afghanistan on 15 August 2021, after 20 years of insurgency
+	- Taliban is condemned for human rights violations, such as the right of women and girls to work and education
 - Islamic State
-	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of )
+	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
 - Lakshar-e-Taiba
+- Al-Qaeda
+- Hamas
+- Palestinian Islamic 
