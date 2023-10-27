@@ -156,6 +156,11 @@ Arabs arrived in Palestine after 1st century AD.
 	- While at Medina, according to the Quran, the prophet declared a treaty, "The Constitution of Medina"
 		- The contract upheld peace between Jews, Christians (other "People of the Book") and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
 		- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
+		- **Rights of Non-Muslims according to the constitution:**
+			- The security of God is equal for all groups.
+			- Non-Muslim members have the same political and cultural rights as Muslims. They have autonomy and freedom of religion.
+			- Non-Muslims take up arms against the enemy of the nation and share the cost of war. There is to be no treachery between the two.
+			- Non-Muslims are not obliged to take part in the Muslims' religious wars.
 	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Al-Nadir
 	- From Quran> surah Al Baqarah 2:84-2:86 (The Terms of the Covenant and their Breach of It) [citing the Quran is ok here, since the general argument is that Quran incites violence]
 		- Allah criticized the Jews who lived in Al-Madinah (Medina) at the time.
@@ -186,11 +191,11 @@ Arabs arrived in Palestine after 1st century AD.
 	- 625 AD: Banu Nadir tribe was evicted from Medina for trying to assassinate prophet Mohammed.
 	- 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
 		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
-		- The constitution had an 
-	- More trivia:
+		- The constitution had an arbiter 
+	- More info:
 		- The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
 		- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
-		- UsaEye for an Eye (law of reciprocal justice)
+		- Usage of the Eye for an Eye concept (law of reciprocal justice)
 			- Use in Babylonian "Code of Hammurabi"
 			- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
 
