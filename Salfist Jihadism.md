@@ -1,3 +1,6 @@
+# Terms
+- Salafist Jihadism: The correct term for these attacks
+- Global Jihad: Jihadism with an international pan-Islamist scope.
 - Taliban
 	- Also known by its state name Islamic Emirate of Afghanistan
 	- It ruled Afghanistan from 1996-2001
@@ -6,10 +9,13 @@
 	- Taliban is condemned for human rights violations, such as the right of women and girls to work and education
 - Islamic State
 	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
-	- Also known by its acronym, Da'ish
+	- Also known by its acronym, Da'ish/Daesh
+- Islamic State of Iraq
+	- Formerly Al-Qaeda in Iraq
 - Lakshar-e-Taiba
 - Al-Qaeda
+- Boko Haram
 - Hamas
-- Palestinian Islamic Jihad
+- Palestinian Islamic Jihad (PIJ)
 - Hezbollah
 	- In Lebanon
