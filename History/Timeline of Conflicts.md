@@ -356,21 +356,23 @@ Arabs arrived in Palestine after 1st century AD.
 	- Allied Powers (Britain, France, Russia, Italy, Japan, US, etc.) vs Axis/Central Powers (Ottoman Empire, Austria-Hungary, Germany, Bulgaria, etc.)
 	- It was said to the The Great War that would end all wars
 - 1917: Russian Revolution
-- 1922: Soviet Union forms with Communism
-- 1919Arab Revolt - The first ever Arab nationalist movement
+- 1916-1918 Arab Revolt - The first ever "Arab nationalist" movement
 	- Started in 1916 to establish a unified Arab state from Aleppo (Syria) to Aden (Yemen) (middle east area)
 	- Britain promised to support them, and together they conquered the Ottoman Empire
+	- Anatolia was retained by the Allied powers
 	- British secretly signed the Sykes-Picot agreement with the French government
 	- So they went back on their promise and divided the middle east into a number of League of Nations Mandates controlled by Britain and France
-- Paris Peace Conference and the establishment of League of Nations
+- 1919: Paris Peace Conference and the establishment of League of Nations
 	- British Mandate for Palestine
 		- Formed Mandatory Palestine
 		- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
 		- The Balfour declaration was further confusing the issue with the Arabs
 		- Transjordan was added to the mandate after Franco-Syrian War
 	- In total, Palestine, Lebanon, Syria, Iraq, Transjordan
+- 1919: Turkish War for Independence begins
+- 1922: Soviet Union forms with Communism
 - 1924: Türkiye becomes independent 
-	- The last caliphate, the Sultanate of Ottoman Empire Caliphate was abolished by Ataturk
+	- The last caliphate, the Sultanate of Ottoman Empire Caliphate was abolished by Mustafa Kemel Ataturk
 - ibn Saud and team formed Saudi Arabia
 - Formation of Nationalist Socialist German Workers party
 - 1929: The Great Depression in the US
