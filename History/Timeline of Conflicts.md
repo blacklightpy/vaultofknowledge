@@ -393,10 +393,11 @@ Arabs arrived in Palestine after 1st century AD.
 - 1947: UN Partition Plan for Palestine at the end of British mandate
 	- Formation of Arabic and Jewish states
 		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
-- Israel-Palestine Conflicts
+- Arab-Israel Conflicts
 	- 1948 War
 		- HK of Transjordan annexed West Bank and was renamed to HK of Jordan
 	- 1967 War
+	- 1982 Lebanon War
 	- 1993 Oslo Peace Accords with the Palestine Liberation Organization (PLO)
 	- Intifadas in 90s and in 00s by Hamas
 	- Gaza War 2008
