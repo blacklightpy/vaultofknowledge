@@ -1,4 +1,6 @@
 # Terms
+- Salafism: 
+- Jihadism: Attempt to establish Islamism by force
 - Salafist Jihadism: The correct term for these attacks
 - Global Jihad: Jihadism with an international pan-Islamist scope.
 - Mujahid: One engaged in Jihad
@@ -20,6 +22,8 @@
 - Al-Qaeda
 - Boko Haram
 - Al-Shabaab
+
+
 - Hamas
 - Palestinian Islamic Jihad (PIJ)
 - Hezbollah
