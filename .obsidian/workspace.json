@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+                "file": "Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -351,11 +351,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "280247d5cf002403",
+  "active": "6d9bffcac4cfd03e",
   "lastOpenFiles": [
-    "Untitled.md",
     "History/Israel Palestine Current Affairs.md",
     "History/Timeline of Conflicts.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Untitled.md",
     "History/Israel-Palestine Peace Ideas.md",
     "Z1-Inbox/Arguments against religion.md",
     "Pan-Arabism.md",
@@ -376,7 +377,6 @@
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/IEEE 802.11.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations/Internet Engineering Task Force.md",
     "Literature/Origin of Writing.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/History.md",
     "History/Periods of Archaeological History.md",
