@@ -155,9 +155,10 @@ Arabs arrived in Palestine after 1st century AD.
 	- One day he has a revelation.
 	- He goes to the Cube (Kaaba) of Mecca and presents his revelations
 	- 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
+	- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
+	- The Jews of Medina were probably Jews expelled from Roman Palestine.
 	- While at Medina, according to the Quran, the prophet declared a treaty, "The Constitution of Medina"
 		- The contract upheld peace between Jews, Christians (other "People of the Book") and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
-		- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
 		- **Rights of Non-Muslims according to the constitution:**
 			- The security of God is equal for all groups.
 			- Non-Muslim members have the same political and cultural rights as Muslims. They have autonomy and freedom of religion.
