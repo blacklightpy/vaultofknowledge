@@ -192,12 +192,14 @@ Arabs arrived in Palestine after 1st century AD.
 	- 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
 		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
 		- The constitution had an arbiter 
+		- They were all beheaded
 	- More info:
 		- The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
 		- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
 		- Usage of the Eye for an Eye concept (law of reciprocal justice)
 			- Use in Babylonian "Code of Hammurabi"
 			- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
+- [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
