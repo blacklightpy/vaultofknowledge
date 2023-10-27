@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfe47d69047f5155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jihadist Groups.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -270,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Jihadist Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Jihadist Groups.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "Jihadist Groups.md"
               }
             }
           },
@@ -365,9 +378,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf565ae2159cfc68",
+  "active": "bfe47d69047f5155",
   "lastOpenFiles": [
     "My Ideas on solving the Arab-Israel conflict.md",
+    "Jihadist Groups.md",
     "History/Timeline of Conflicts.md",
     "History/Israel-Palestine Peace Ideas.md",
     "History/Israel Palestine Current Affairs.md",
@@ -393,7 +407,6 @@
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations/Internet Engineering Task Force.md",
     "Literature/Origin of Writing.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-    "History/History.md",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
     "Center Terms.md.crswap",

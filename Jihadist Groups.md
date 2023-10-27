@@ -1,0 +1,4 @@
+- Taliban
+- Islamic State
+	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of )
+- Lakshar-e-Taiba
