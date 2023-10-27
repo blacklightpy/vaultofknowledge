@@ -157,12 +157,15 @@ Arabs arrived in Palestine after 1st century AD.
 		- The contract upheld peace between Jews, Christians and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
 		- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
 	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Al-Nadir
-	- Al Baqarah 2:84-2:86 (The Terms of the Covenant and their Breach of It)
+	- From Quran> surah Al Baqarah 2:84-2:86 (The Terms of the Covenant and their Breach of It)
 		- Allah criticized the Jews who lived in Al-Madinah (Medina) at the time.
 		- They used to suffer, because of the armed conflicts between the tribes Aws and Khazraj
 		- Banu Qaynuqa and Banu Al-Nadir were allies of the Khazraj
 		- Banu Qurayza used to be the allies of Aws
-		- When in war, both tribes would fight for their allies. And during war, they would kill the Arab enemies, and they would also kill Jews who were enemies of 
+		- When in war, both tribes would fight for their allies. And during war, they would kill the Arab enemies, and they would also kill Jews who were allies of the other tribe, although the Jews were prohibited from killing each other according to their books.
+		- They would also drive each other from their homes and loot all the furniture they could.
+		- But at the end of the war, they would release the prisoners of the defeated party, according to the Tawrah.
+		- 
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
