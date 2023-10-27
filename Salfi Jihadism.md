@@ -31,6 +31,10 @@
 # Regional Resistance Groups
 ## Palestine
 - Hamas
+	- Had its origin with the peaceful Muslim Brotherhood, which later turned violent
+	- Hamas is the manifestation of Muslim Brotherhood, fighting for the Palestinian cause alone
 - Palestinian Islamic Jihad (PIJ)
+- Palestinian Liberation Organization (PLO)
+	- Used to be in West Bank
 ## Lebanon
 - Hezbollah
