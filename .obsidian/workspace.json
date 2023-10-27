@@ -188,35 +188,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "347e4038755d0cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Israel-Palestine Peace Ideas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d24e6a72e216a46c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arguments against religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -282,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arguments against religion.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arguments against religion.md",
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arguments against religion.md"
+                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md"
               }
             }
           },
@@ -377,13 +351,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d24e6a72e216a46c",
+  "active": "280247d5cf002403",
   "lastOpenFiles": [
-    "History/Israel-Palestine Peace Ideas.md",
-    "Arguments against religion.md",
-    "Pan-Arabism.md",
     "Untitled.md",
+    "History/Israel Palestine Current Affairs.md",
     "History/Timeline of Conflicts.md",
+    "History/Israel-Palestine Peace Ideas.md",
+    "Z1-Inbox/Arguments against religion.md",
+    "Pan-Arabism.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
     "Personal/Creative and Recreational/Colours I like.md",
@@ -393,7 +368,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
     "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/International Commission on Illumination.md",
-    "History/Israel Palestine Current Affairs.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
