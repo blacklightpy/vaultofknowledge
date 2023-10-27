@@ -1,7 +1,12 @@
 # Terms
-- Salafism: 
+- salaf: They refer to the first three generations of Muslims.
+- Salafism: A conservative belief system that says Muslims should follow the Quran, Sunnah and Ijma (consensus) of the salaf.
+	- They are generally classified into three types
+	- 1. Purists/Quetists
+	- 2. Activitsts
+	- 3. Jihadists
 - Jihadism: Attempt to establish Islamism by force
-- Salafist Jihadism: The correct term for these attacks
+- Salafi Jihadism: The correct term for these attacks
 - Global Jihad: Jihadism with an international pan-Islamist scope.
 - Mujahid: One engaged in Jihad
 # Groups
@@ -23,8 +28,9 @@
 - Boko Haram
 - Al-Shabaab
 
-
+# Regional Resistance Groups
+## Palestine
 - Hamas
 - Palestinian Islamic Jihad (PIJ)
+## Lebanon
 - Hezbollah
-	- In Lebanon
