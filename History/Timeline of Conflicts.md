@@ -172,6 +172,11 @@ Arabs arrived in Palestine after 1st century AD.
 		- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet, his coming, his expulsion, etc.
 		- On the Day of Resurrection, they will be subject to torment because they defied the book they were given.
 	- From Quran> surah Al Baqarah 2:87-2:86 (The Terms of the Covenant and their Breach of It)
+		- The Tawrah was revealed to Musa (Moses), but they distorted it's meaning to fulfil their fantasies
+		- So Allah sent Isa (Jesus), and sent miracles to support him, but Jews didn't want to differ from a single word
+		- This way, they killed or rejected all Prophets
+		- This happened because they altered the Tawrah, and the prophets upheld the truths which clashed with their desires
+		- 
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
