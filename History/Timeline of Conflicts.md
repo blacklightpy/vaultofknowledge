@@ -176,8 +176,8 @@ Arabs arrived in Palestine after 1st century AD.
 		- So Allah sent Isa (Jesus), and sent miracles to support him, but Jews didn't want to differ from a single word
 		- This way, they killed or rejected all Prophets
 		- This happened because they altered the Tawrah, and the prophets upheld the truths which clashed with their desires
-		- 
 	- 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
+	- It is said that a jeweller from Banu Qaynua asked a woman 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the holy land and the Persian Sassanid Empire and they reached Central Asia
