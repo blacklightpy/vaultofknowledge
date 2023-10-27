@@ -200,8 +200,8 @@ Arabs arrived in Palestine after 1st century AD.
 			- Use in Babylonian "Code of Hammurabi"
 			- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
 - [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
-	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe
-	- 
+	- The Hadiths say that the Judgement day will not come until Jews and Muslims fight ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Hadith))
+	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Life_under_Muslim_rule))
 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
