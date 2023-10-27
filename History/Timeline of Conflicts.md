@@ -202,7 +202,7 @@ Arabs arrived in Palestine after 1st century AD.
 		- Usage of the Eye for an Eye concept (law of reciprocal justice)
 			- Use in Babylonian "Code of Hammurabi"
 			- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
-		- The ayahs were revealed during prayer sessions, with the direction of prayer changing from facing Jerusalem to the Kaaba in Mecca during one such session, when the ayahs 
+		- The ayahs were revealed during prayer sessions, with the direction of prayer changing from facing Jerusalem to the Kaaba in Mecca during one such session, when the ayahs 2:144, 2:149 and 2:150 were revealed.
 - [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
 	- The Hadiths say that the Judgement day will not come until Jews and Muslims fight ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Hadith))
 	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Life_under_Muslim_rule))
