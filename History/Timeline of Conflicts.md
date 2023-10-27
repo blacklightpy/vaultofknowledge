@@ -184,7 +184,9 @@ Arabs arrived in Palestine after 1st century AD.
 		- Prophet Mohammed warned them to be fair, or else, they'll suffer the same fate as Quraysh. He also asked them to follow the true word of god. But Banu Qaynuqa mocked his followers for accepting him as the prophet and mocked their victory claiming Quraysh had no knowledge of war, and if you fight with us, we'll show you who's boss. So this was seen as a declaration of war.
 		- The Banu Qaynuqa tribes were defeated and exiled.
 	- 625 AD: Banu Nadir tribe was evicted from Medina for trying to assassinate prophet Mohammed.
-	- 627 AD: Banu Quraysh and their allies besieged the city in the "Battle of Trench". The Quraysh 
+	- 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
+		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
+		- The constitution had an 
 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
