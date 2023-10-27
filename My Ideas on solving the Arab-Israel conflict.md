@@ -33,9 +33,9 @@ Nevertheless, if the countries wish to implement the law among themselves, they 
 - A single Arab nation with a recognition for the historic value of the land, as well Islamic law in all other jurisdictions will be in line with pan-Islamism
 
 
-In essence, Israel will be a Jewish-flavoured state which is a part of the Arab national state.
-How about borders? Well, the border will have to be diffused, as instead of having solid boundaries.
-If there need be boundaries, i.e. if people are not ready to see differences in regions without demarcated boundaries, the current state of Israel, Palestine 
+- In essence, Israel will be a Jewish-flavoured state which is a part of the Arab national state.
+- How about borders? Well, the border will have to be diffused, as instead of having solid boundaries.
+- If there need be boundaries, i.e. if people are not ready to see differences in regions without demarcated boundaries, the current state of Israel, Palestine and Jordan can be merged together to be called by both names Palestine and Israel, like we call India Hindustan and Bharat. It will be fair because that is the spot where Abrahamic religions originated, so 
 
 
 Israel, Palestine and Jordan can be called the land of Palestine.
