@@ -1,0 +1,1 @@
+- We generally believe that one of the factions, such as Sunni or Shia Muslims could be more extremist than the other. However, that's not true, and it is the 

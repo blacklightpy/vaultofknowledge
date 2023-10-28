@@ -16,11 +16,13 @@
 	- Following 9/11 Attacks, US invaded Afghanistan and overthrew the Taliban
 	- They captured Afghanistan on 15 August 2021, after 20 years of insurgency
 	- Taliban is condemned for human rights violations, such as the right of women and girls to work and education
+	- Taliban has a more localized goal
 - Pakistani Taliban
 	- A branch of Taliban
 - Islamic State
 	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
 	- Also known by its acronym, Da'ish/Daesh
+	- It is a self-declared pan-Islamic Caliphate
 	- Compared to Al-Qaeda
 		- Takes a puritan, sectarian approach
 		- Insists on establishing Shariah law in territories
@@ -31,6 +33,7 @@
 	- Formerly Al-Qaeda in Iraq
 - Lakshar-e-Taiba
 - Al-Qaeda
+	- Basically less religiously trained, but global
 	- Compared to IS
 		- Takes an inclusive, pragmatic, populist approach
 		- Calls for tolerance and applying Islamic law
