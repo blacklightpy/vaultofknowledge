@@ -29,4 +29,4 @@ How to setup an experiment:
 
 
 # Notes
-- Generally, smell is viewed as the reaction of the receptors in the nose to the presence of certain particles. I find that misleading, as even vision is the reaction of the photo-cells in the eyes to electromagnetic waves and the hair cells of the cochlea in the ears to vibrations in the air.
+- Generally, smell is viewed as the reaction of the receptors in the nose to the presence of certain particles. I find that misleading, as even vision is the reaction of the photo-cells in the eyes to electromagnetic waves and the hair cells of the cochlea in the ears to vibrations in the air; yet we don't refer to them as just reactions to the presence of some form of particles or energy. If that was the case, we would refer to vision as "reactions" to the eyes to photons, and sound as the "reactions" of the ears to air phonons, or (oscillating air molecule bundles - just as much of an abstraction as photons are to EM field)
