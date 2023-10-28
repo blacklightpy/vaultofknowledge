@@ -1,5 +1,5 @@
 # Terms
-- Wahabbism: Followers of the idea of Wahab, to follow the salaf, or Salafism. The term is not used by the followers of Wahab, who prefer the term Salafism, and is used by other people. 
+- Wahhabism: Followers of the idea of Mohammed ibn Abd Al-Wahhab, to follow the salaf, or Salafism. The term is not used by the followers of Wahab, who prefer the term Salafism, and is used by other people. 
 - salaf: They refer to the first three generations of Muslims.
 - Salafism: A conservative belief system that says Muslims should follow the Quran, Sunnah and Ijma (consensus) of the salaf.
 	- They are generally classified into three types
