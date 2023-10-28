@@ -26,3 +26,7 @@ How to setup an experiment:
 		- This makes me curious about how a balloon works. If we assume constant temperature, we are
 		- I have also heard from Richard Feynman that rubber bands work on the principle of long chains of molecules trying to get tangled up due to the bombardment of other rapidly moving particles rather than be ordered. So, when heating up a rubber band, it has a tendency to crumble up further, because you increase the kinetic energy of these particles, leading to shrinking of the rubber band. I believe this applies to balloons too. So heating up a balloon to increase it's volume would.. increase the pressure of the air and also shrink the size of the balloon? These would counteract each other, and I'm curious to 
 	- 
+
+
+# Notes
+- Generally, smell is viewed as the reaction of the receptors in the nose to the presence of certain particles. I find that misleading, as even vision is the reaction of the photo-cells in the eyes to electromagnetic waves and the ears to 
