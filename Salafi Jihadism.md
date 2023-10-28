@@ -23,30 +23,27 @@
 	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
 	- Also known by its acronym, Da'ish/Daesh
 	- It is a self-declared pan-Islamic Caliphate
-	- Compared to Al-Qaeda
+	- Compared to Al-Qaeda ([IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):
 		- Takes a puritan, sectarian approach
-		- [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)
-			- Establishes Islamic states in the territories it controls
-			- Insists on establishing Shariah law in territories
-			- Embraces Sunni sectarianism
-			- Does not cooperate with ideologically different factions
-			- Thinks IS is the only faction on the pure salafi path
+		- Establishes Islamic states in the territories it controls
+		- Insists on establishing Shariah law in territories
+		- Embraces Sunni sectarianism
+		- Does not cooperate with ideologically different factions
+		- Thinks IS is the only faction on the pure salafi path
 - Islamic State of Iraq
 	- Formerly Al-Qaeda in Iraq
 - Lakshar-e-Taiba
 - Al-Qaeda
 	- Basically less religiously trained, but global
-	- Compared to IS
+	- Compared to IS (Source: [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):
 		- Takes an inclusive, pragmatic, populist approach
-		- [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)
-			- Cautions against the formation of Islmaic states in the present time
-			- Calls for tolerance and gradualism in applying Islamic law
-			- De-emphasizes sectarianism
-			- Cooperates with a wide range of political and military factions
-			- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
+		- Cautions against the formation of Islmaic states in the present time
+		- Calls for tolerance and gradualism in applying Islamic law
+		- De-emphasizes sectarianism
+		- Cooperates with a wide range of political and military factions
+		- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
 - Boko Haram
 - Al-Shabaab
-
 # Regional Resistance Groups
 ## Palestine
 - Hamas
