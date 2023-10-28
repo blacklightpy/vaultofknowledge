@@ -10,3 +10,14 @@
 
 # Serial Protocols
 - MAVLink
+
+# Notes
+- Older Raspberry Pi SoCs have 2 UARTs - a PL011 and a mini UART
+- On RPis with WiFi/BT Module, primary UART is mini UART
+- On RPis without WiFi/BT Module, primary UART is PL011
+- /dev/serial0 is a symlink to the primary UART
+- /dev/serial1 is a symlink to the secondary UART
+- /dev/ttyS0 refers to the mini UART
+- /dev/ttyAMA0 refers to the PL011
+
+- On Raspberyy 
