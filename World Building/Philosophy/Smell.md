@@ -18,3 +18,8 @@ Experiments to do:
 
 - Keep in mind that the particles have to be properly inhaled, and no significant particles should be lost in the experiment.
 
+How to setup an experiment:
+- Find a type of particle
+	- A candidate in my opinion would be water mixed with Tulsi leaves, or maybe a quantifiable amount of a herbal therapeutic inhalant.
+- Heat the vessel so that vapours are generated
+- We know that PV=nRT  F/A*
