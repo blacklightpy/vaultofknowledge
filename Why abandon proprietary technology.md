@@ -1,5 +1,6 @@
-- Suppose you were to make a kite
-- Social media (or Soci)
+- Suppose you were to make a kite. You are the first to know how to make this kite.
+
+- Social media
 	- A social media network, is a media network of a community.
 	- A social network belonging to a community, should be controlled by the laws of that community.
 	- 
