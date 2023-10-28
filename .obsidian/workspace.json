@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -296,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jihadist Attacks.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jihadist Attacks.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -325,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jihadist Attacks.md"
+                "file": "My Ideas on solving the Arab-Israel conflict.md"
               }
             }
           },
@@ -391,10 +391,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c68b9e460711edde",
+  "active": "1f5b1a482abd72f6",
   "lastOpenFiles": [
-    "Islamist factions.md",
     "Salafi Jihadism.md",
+    "Islamist factions.md",
     "Jihadist Attacks.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "History/Israel-Palestine Peace Ideas.md",

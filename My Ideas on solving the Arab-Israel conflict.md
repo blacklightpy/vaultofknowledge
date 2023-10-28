@@ -50,3 +50,4 @@ But with Israel being a special state whose laws are exempt from the general Ara
 Now, Egypt has built it's own infrastructure, and countries will be disinterested in sharing their wealth.
 But it's ok, Gaza and West Bank can enter a reconstruction period, funded by UN and Israel.
 
+- As for the feasibility of pan-Arabism or pan-Islamism, it has to do with the national politics of other Arab nations, and they have to solve it politically among themselves. Some countries like Saudi Arabia for example are more restrictive, while others aren't so restrictive.
