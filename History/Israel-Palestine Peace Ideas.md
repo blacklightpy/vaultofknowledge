@@ -51,7 +51,7 @@
 				- Accepting the Palestinian Authority’s stated policy of glorifying terrorism against Jews and condemning Jews for living in Jerusalem is counterproductive to peace, he said, calling the international community morally bankrupt.
 			- The representative of the US echoed Israel's sentiments that the resolutions are biased against Israel, adding that such a one-sided approach undermines trust.
 			- #### Right to Reply
-				- The representative of Iran, responding to the representative of Israel, said
+				- The representative of Iran, responding to the representative of Israel, said:
 					- That country uses fallacies as tools to divert attention from its expansionist policies and brutalities.
 					- As such, these fallacies constitute weapons of mass deception.
 					- The Israeli regime is famous for its atrocities, apartheid policies and well-documented war crimes, he said, adding that it has a long history of following opportunistic policies to divert attention from its own savage actions against innocent Palestinians.
