@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31709223244c28b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salfi Jihadism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -257,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Salfi Jihadism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Salfi Jihadism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md"
+                "file": "Salfi Jihadism.md"
               }
             }
           },
@@ -352,10 +365,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f5b1a482abd72f6",
+  "active": "31709223244c28b9",
   "lastOpenFiles": [
-    "Salfi Jihadism.md",
     "My Ideas on solving the Arab-Israel conflict.md",
+    "Salfi Jihadism.md",
     "History/Israel-Palestine Peace Ideas.md",
     "History/Timeline of Conflicts.md",
     "History/Israel Palestine Current Affairs.md",

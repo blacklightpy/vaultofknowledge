@@ -21,10 +21,22 @@
 - Islamic State
 	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
 	- Also known by its acronym, Da'ish/Daesh
+	- Compared to Al-Qaeda
+		- Takes a puritan, sectarian approach
+		- Insists on establishing Shariah law in territories
+		- Embraces Sunni sectarianism
+		- Does not cooperate with ideologically different factions
+		- Thinks IS is the only faction on the pure salafi path
 - Islamic State of Iraq
 	- Formerly Al-Qaeda in Iraq
 - Lakshar-e-Taiba
 - Al-Qaeda
+	- Compared to IS
+		- Takes an inclusive, pragmatic, populist approach
+		- Calls for tolerance and applying Islamic law
+		- De-emphasizes sectarianism
+		- Cooperates with a wide range of political and military factions
+		- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just)
 - Boko Haram
 - Al-Shabaab
 
