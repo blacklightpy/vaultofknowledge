@@ -10,7 +10,11 @@ But not all particles in rapid motion are understood by the human senses, just l
 
 
 # Experiment to quantify smell
-Assumption: Smell is the measure of internal energy of particles, rather than the number of particles.
+Assumption: Smell is the measure of "internal energy" of known particles, rather than the "amount" of particles.
 
 Experiments to do:
-- Try inhaling the same number of moles of a particle, and see if the smell
+- Try inhaling the same number of moles of a particle, but at different temperatures, and see if there is a difference in smell
+- Try inhaling a lower number of moles of a particle and a higher number of moles of the same particle, but with the lower number of particles having a higher temperature
+
+- Keep in mind that the particles have to be properly inhaled, and no significant particles should be lost in the experiment.
+
