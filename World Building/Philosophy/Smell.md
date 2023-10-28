@@ -23,4 +23,5 @@ How to setup an experiment:
 	- A candidate in my opinion would be water mixed with Tulsi leaves, or maybe a quantifiable amount of a herbal therapeutic inhalant.
 - Heat the vessel so that vapours are generated
 - We know that by ideal gas laws, PV=nRT
-	- Since PV is a measure of the "internal energy" of the particle system (I was trying to say the rest of it, but while writing, I just noticed that PV is exactly what I want to measure), $\text{n \propto PV/T}$
+	- Since PV is a measure of the "internal energy" of the particle system (I was trying to say the rest of it, but while writing, I just noticed that PV is exactly what I want to measure), n $\propto$ PV/T. That is, for lower higher temperatures, the Pressure and Velocity product can vary. So our apparatus should take that into consider by having a constant pressure chamber that expands with temperature, or a constant volume chamber that regulates the maximum pressure. I think the latter is more experimentally feasible (the former would need something like a balloon?)
+	- 
