@@ -268,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serial Ports.md",
+                "file": "History/Israel-Palestine Peace Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serial Ports.md",
+                "file": "History/Israel-Palestine Peace Ideas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serial Ports.md"
+                "file": "History/Israel-Palestine Peace Ideas.md"
               }
             }
           },
@@ -429,20 +429,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6adb1601ef434bad",
+  "active": "5a9d64a4d1de3c1d",
   "lastOpenFiles": [
+    "My Ideas on solving the Arab-Israel conflict.md",
+    "Serial Ports.md",
     "Why abandon proprietary technology.md",
     "Culture/Muslim Culture.md",
     "Salafi Jihadism.md",
     "Islamist factions.md",
-    "Serial Ports.md",
     "Jihadist Attacks.md",
     "World Building/Philosophy/Smell.md",
     "Z1-Inbox/Arguments against religion.md",
     "Sound.md",
     "Z1-Inbox/Things I don't understand.md",
     "World Building/Philosophy/Elements of the world.md",
-    "My Ideas on solving the Arab-Israel conflict.md",
     "History/Israel-Palestine Peace Ideas.md",
     "History/Timeline of Conflicts.md",
     "History/Israel Palestine Current Affairs.md",
