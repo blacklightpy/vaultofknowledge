@@ -20,4 +20,12 @@
 - /dev/ttyS0 refers to the mini UART
 - /dev/ttyAMA0 refers to the PL011
 
-- On Raspberyy 
+> [!NOTE]
+> - On Raspberry Pi 4, they appear as ttyAMA0, ttyAMA1, ... , ttyAMA5, when enabled (0 is already enabled)
+> ```
+> dtoverlay=uart1
+> dtoverlay=uart2
+> dtoverlay=uart3
+> dtoverlay=uart4
+> dtoverlay=uart5
+> ```
