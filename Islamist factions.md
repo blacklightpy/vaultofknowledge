@@ -13,4 +13,4 @@
 - Jordan is more traditional than Morocco, but more restrictive than Saudi Arabia.
 - UAE is hailed as the most liberal and progressive place in the world.
 - Sunni Islam in Afghanistan is labelled as the most restrictive and most anti-Western Muslim country
-	- Hazaras in 
+	- The Shia Hazara women in Afghanistan protest for women's right and education
