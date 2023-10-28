@@ -25,10 +25,12 @@
 	- It is a self-declared pan-Islamic Caliphate
 	- Compared to Al-Qaeda
 		- Takes a puritan, sectarian approach
-		- Insists on establishing Shariah law in territories
-		- Embraces Sunni sectarianism
-		- Does not cooperate with ideologically different factions
-		- Thinks IS is the only faction on the pure salafi path
+		- [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)
+			- Establishes Islamic states in the territories it controls
+			- Insists on establishing Shariah law in territories
+			- Embraces Sunni sectarianism
+			- Does not cooperate with ideologically different factions
+			- Thinks IS is the only faction on the pure salafi path
 - Islamic State of Iraq
 	- Formerly Al-Qaeda in Iraq
 - Lakshar-e-Taiba
@@ -36,10 +38,12 @@
 	- Basically less religiously trained, but global
 	- Compared to IS
 		- Takes an inclusive, pragmatic, populist approach
-		- Calls for tolerance and applying Islamic law
-		- De-emphasizes sectarianism
-		- Cooperates with a wide range of political and military factions
-		- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
+		- [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)
+			- Cautions against the formation of Islmaic states in the present time
+			- Calls for tolerance and gradualism in applying Islamic law
+			- De-emphasizes sectarianism
+			- Cooperates with a wide range of political and military factions
+			- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
 - Boko Haram
 - Al-Shabaab
 

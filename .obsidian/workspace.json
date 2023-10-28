@@ -268,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serial Ports.md",
+                "file": "Salafi Jihadism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serial Ports.md",
+                "file": "Salafi Jihadism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serial Ports.md"
+                "file": "Salafi Jihadism.md"
               }
             }
           },
@@ -429,8 +429,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "619c0879553d771c",
+  "active": "31709223244c28b9",
   "lastOpenFiles": [
+    "Islamist factions.md",
+    "Jihadist Attacks.md",
     "Serial Ports.md",
     "Why abandon proprietary technology.md",
     "World Building/Philosophy/Smell.md",
@@ -440,8 +442,6 @@
     "World Building/Philosophy/Elements of the world.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Salafi Jihadism.md",
-    "Islamist factions.md",
-    "Jihadist Attacks.md",
     "History/Israel-Palestine Peace Ideas.md",
     "History/Timeline of Conflicts.md",
     "History/Israel Palestine Current Affairs.md",
