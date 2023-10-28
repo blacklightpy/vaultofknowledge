@@ -240,9 +240,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28c192ac3747339f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/Arguments against religion.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -308,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Smell.md",
+                "file": "Z1-Inbox/Arguments against religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Smell.md",
+                "file": "Z1-Inbox/Arguments against religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Smell.md"
+                "file": "Z1-Inbox/Arguments against religion.md"
               }
             }
           },
@@ -403,11 +416,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6f26e34f9d2d2fa6",
+  "active": "28c192ac3747339f",
   "lastOpenFiles": [
+    "World Building/Philosophy/Smell.md",
     "Sound.md",
     "Z1-Inbox/Things I don't understand.md",
-    "World Building/Philosophy/Smell.md",
     "World Building/Philosophy/Elements of the world.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Salafi Jihadism.md",
