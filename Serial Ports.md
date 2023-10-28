@@ -10,7 +10,6 @@
 
 # Serial Protocols
 - MAVLink
-
 # Notes
 - Older Raspberry Pi SoCs have 2 UARTs - a PL011 and a mini UART
 - On RPis with WiFi/BT Module, primary UART is mini UART

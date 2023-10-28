@@ -201,19 +201,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6adb1601ef434bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serial Ports.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 14
@@ -266,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -379,23 +367,24 @@
   },
   "active": "e6d01a38c9eaaa9a",
   "lastOpenFiles": [
+    "Serial Ports.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Untitled.md",
     "My Ideas on solving the Arab-Israel conflict.md",
+    "World Building/Philosophy/Smell.md",
+    "Why abandon proprietary technology.md",
     "Jihadist Attacks.md",
     "Islamist factions.md",
     "Salafi Jihadism.md",
-    "Untitled.md",
     "History/Israel-Palestine Peace Ideas.md",
-    "Serial Ports.md",
-    "Why abandon proprietary technology.md",
     "Culture/Muslim Culture.md",
-    "World Building/Philosophy/Smell.md",
     "Z1-Inbox/Arguments against religion.md",
     "Sound.md",
     "Z1-Inbox/Things I don't understand.md",
     "World Building/Philosophy/Elements of the world.md",
     "History/Timeline of Conflicts.md",
     "History/Israel Palestine Current Affairs.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Pan-Arabism.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
@@ -404,7 +393,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "World Building/Creativity and Arts/Colour Theory/D65 Standard Illuminant.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
-    "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
