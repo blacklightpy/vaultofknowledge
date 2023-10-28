@@ -6,7 +6,7 @@
 	- 2. Activitsts
 	- 3. Jihadists
 - Jihadism: Attempt to establish Islamism by force
-- Salafi Jihadism: The correct term for these attacks
+- Salafi Jihadism/jihadist-Salafism: The correct term for these attacks
 - Global Jihad: Jihadism with an international pan-Islamist scope.
 - Mujahid: One engaged in Jihad
 # Groups
@@ -36,7 +36,7 @@
 		- Calls for tolerance and applying Islamic law
 		- De-emphasizes sectarianism
 		- Cooperates with a wide range of political and military factions
-		- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just)
+		- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
 - Boko Haram
 - Al-Shabaab
 
