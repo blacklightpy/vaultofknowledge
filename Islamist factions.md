@@ -1,1 +1,5 @@
-- We generally believe that one of the factions, such as Sunni or Shia Muslims could be more extremist than the other. However, that's not true, and it is the dominant culture of the regions that affect how extreme they ar
+- We generally believe that one of the factions, such as Sunni or Shia Muslims could be more extremist than the other. However, that's not true, and it is the dominant culture of the regions that affect how extreme they are.
+- Currently the only Shia dominant country is Iran
+	- Before the fall of Shah in 1979, Iran was a very secular and modern.
+	- Now, it is highly restrictive, with women wearing full black burqas
+- Indonesia is the largest Sunni dominated contrie
