@@ -4,6 +4,10 @@
 - Iftar
 - Ramzan
 - ibn - Son of
+# Branches of Islam
+- Ibadi (popular in Oman)
+- Sunni
+- Shia
 # The Quran
 - Al Qu'uran, translates to the "word of god".
 - Allah is the god of the world
