@@ -29,4 +29,4 @@ How to setup an experiment:
 
 
 # Notes
-- Generally, smell is viewed as the reaction of the receptors in the nose to the presence of certain particles. I find that misleading, as even vision is the reaction of the photo-cells in the eyes to electromagnetic waves and the ears to 
+- Generally, smell is viewed as the reaction of the receptors in the nose to the presence of certain particles. I find that misleading, as even vision is the reaction of the photo-cells in the eyes to electromagnetic waves and the hair cells of the cochlea in the ears to vibrations in the air.
