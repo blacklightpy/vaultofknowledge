@@ -268,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture/Muslim Culture.md",
+                "file": "Salafi Jihadism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture/Muslim Culture.md",
+                "file": "Salafi Jihadism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture/Muslim Culture.md"
+                "file": "Salafi Jihadism.md"
               }
             }
           },
@@ -429,8 +429,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dd32035d4f0661e7",
+  "active": "31709223244c28b9",
   "lastOpenFiles": [
+    "Culture/Muslim Culture.md",
     "Islamist factions.md",
     "Why abandon proprietary technology.md",
     "Serial Ports.md",
@@ -456,7 +457,6 @@
     "World Building/Creativity and Arts/Colour Theory/D65 Standard Illuminant.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
     "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/International Commission on Illumination.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
