@@ -22,4 +22,5 @@ How to setup an experiment:
 - Find a type of particle
 	- A candidate in my opinion would be water mixed with Tulsi leaves, or maybe a quantifiable amount of a herbal therapeutic inhalant.
 - Heat the vessel so that vapours are generated
-- We know that PV=nRT  F/A*
+- We know that by ideal gas laws, PV=nRT
+	- Since PV is a measure of the "internal energy" of the particle system (I was trying to say the rest of it, but while writing, I just noticed that PV is exactly what I want to measure), $\text{n \propto PV/T}$
