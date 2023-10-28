@@ -240,22 +240,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "28c192ac3747339f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Inbox/Arguments against religion.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -321,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Arguments against religion.md",
+                "file": "World Building/Philosophy/Smell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Arguments against religion.md",
+                "file": "World Building/Philosophy/Smell.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -350,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Arguments against religion.md"
+                "file": "World Building/Philosophy/Smell.md"
               }
             }
           },
@@ -416,8 +403,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "28c192ac3747339f",
+  "active": "6f26e34f9d2d2fa6",
   "lastOpenFiles": [
+    "Z1-Inbox/Arguments against religion.md",
     "World Building/Philosophy/Smell.md",
     "Sound.md",
     "Z1-Inbox/Things I don't understand.md",
@@ -431,7 +419,6 @@
     "History/Israel Palestine Current Affairs.md",
     "Untitled.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "Z1-Inbox/Arguments against religion.md",
     "Pan-Arabism.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Primary Colours.md",
