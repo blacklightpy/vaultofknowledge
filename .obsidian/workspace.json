@@ -240,9 +240,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6d01a38c9eaaa9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why abandon proprietary technology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -308,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Philosophy/Smell.md",
+                "file": "Why abandon proprietary technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Philosophy/Smell.md",
+                "file": "Why abandon proprietary technology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Philosophy/Smell.md"
+                "file": "Why abandon proprietary technology.md"
               }
             }
           },
@@ -403,10 +416,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6f26e34f9d2d2fa6",
+  "active": "e6d01a38c9eaaa9a",
   "lastOpenFiles": [
-    "Z1-Inbox/Arguments against religion.md",
     "World Building/Philosophy/Smell.md",
+    "Why abandon proprietary technology.md",
+    "Z1-Inbox/Arguments against religion.md",
     "Sound.md",
     "Z1-Inbox/Things I don't understand.md",
     "World Building/Philosophy/Elements of the world.md",
@@ -430,7 +444,6 @@
     "World Building/Creativity and Arts/Colour Theory/Standard Illuminant.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/International Commission on Illumination.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
