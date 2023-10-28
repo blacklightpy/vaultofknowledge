@@ -227,9 +227,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f26e34f9d2d2fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Smell.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -258,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "smell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,8 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -296,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "World Building/Philosophy/Smell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "World Building/Philosophy/Smell.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -325,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md"
+                "file": "World Building/Philosophy/Smell.md"
               }
             }
           },
@@ -391,12 +403,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f5b1a482abd72f6",
+  "active": "6f26e34f9d2d2fa6",
   "lastOpenFiles": [
+    "World Building/Philosophy/Elements of the world.md",
+    "World Building/Philosophy/Smell.md",
+    "My Ideas on solving the Arab-Israel conflict.md",
     "Salafi Jihadism.md",
     "Islamist factions.md",
     "Jihadist Attacks.md",
-    "My Ideas on solving the Arab-Israel conflict.md",
     "History/Israel-Palestine Peace Ideas.md",
     "History/Timeline of Conflicts.md",
     "History/Israel Palestine Current Affairs.md",
@@ -418,8 +432,6 @@
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations/Institute of Electrical and Electronics Engineers.md",
-    "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/IEEE 802.11.md",
-    "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations/Internet Engineering Task Force.md",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
