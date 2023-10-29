@@ -201,22 +201,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e3a9041751d8141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serial Ports.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -283,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serial Ports.md",
+                "file": "Why abandon proprietary technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serial Ports.md",
+                "file": "Why abandon proprietary technology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serial Ports.md"
+                "file": "Why abandon proprietary technology.md"
               }
             }
           },
@@ -378,10 +365,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e3a9041751d8141",
+  "active": "e6d01a38c9eaaa9a",
   "lastOpenFiles": [
-    "Why abandon proprietary technology.md",
     "Serial Ports.md",
+    "Why abandon proprietary technology.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Untitled.md",
