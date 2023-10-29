@@ -28,3 +28,8 @@
 > dtoverlay=uart4
 > dtoverlay=uart5
 > ```
+> 
+- Serial Interaction Software (for Windows)
+	- SSCOM
+	- NetAssist (unknown origin)
+	- HW-Group Hercules SETUP Utility

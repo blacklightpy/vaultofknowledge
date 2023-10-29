@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e3a9041751d8141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Serial Ports.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -270,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why abandon proprietary technology.md",
+                "file": "Serial Ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why abandon proprietary technology.md",
+                "file": "Serial Ports.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why abandon proprietary technology.md"
+                "file": "Serial Ports.md"
               }
             }
           },
@@ -365,15 +378,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6d01a38c9eaaa9a",
+  "active": "2e3a9041751d8141",
   "lastOpenFiles": [
+    "Why abandon proprietary technology.md",
     "Serial Ports.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Untitled.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "World Building/Philosophy/Smell.md",
-    "Why abandon proprietary technology.md",
     "Jihadist Attacks.md",
     "Islamist factions.md",
     "Salafi Jihadism.md",
