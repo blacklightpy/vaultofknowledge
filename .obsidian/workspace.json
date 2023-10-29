@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65cf23dd54d720af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Inbox/Steps encountered when installing Void.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -232,7 +245,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smell",
+                "query": "hibernate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,12 +262,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -270,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why abandon proprietary technology.md",
+                "file": "Z1-Inbox/Steps encountered when installing Void.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why abandon proprietary technology.md",
+                "file": "Z1-Inbox/Steps encountered when installing Void.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why abandon proprietary technology.md"
+                "file": "Z1-Inbox/Steps encountered when installing Void.md"
               }
             }
           },
@@ -365,10 +378,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6d01a38c9eaaa9a",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "Serial Ports.md",
     "Why abandon proprietary technology.md",
+    "Serial Ports.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Untitled.md",
