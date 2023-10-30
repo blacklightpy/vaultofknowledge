@@ -203,19 +203,6 @@
             }
           },
           {
-            "id": "68a54a3228cda0a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Timeline of Conflicts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "635e707808e88796",
             "type": "leaf",
             "state": {
@@ -229,7 +216,20 @@
             }
           },
           {
-            "id": "7f8c5f98e7f483d0",
+            "id": "0d565f770c5f57ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of Conflicts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90cd83209a34109a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -271,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caral",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,8 +288,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -404,11 +403,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "90cd83209a34109a",
   "lastOpenFiles": [
     "History/Timeline of Conflicts.md",
-    "History/General List of Civilizations.md",
     "History/The Origin of Judaism.md",
+    "History/General List of Civilizations.md",
+    "Why abandon proprietary technology.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Literature/Origin of Writing.md",
     "History/Periods of Archaeological History.md",
@@ -416,7 +416,6 @@
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
     "_images/Sumerian Cuneiform.jpg",
     "Culture/Muslim Culture.md",
-    "Why abandon proprietary technology.md",
     "History/The Origin of Islam.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "World Building/Philosophy/Smell.md",

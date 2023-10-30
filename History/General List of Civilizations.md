@@ -3,7 +3,10 @@
 	- Amorites
 		- Isin, Larsa
 	- Babylonian Kingdom
+	- Elam
 	- Assyria
+	- Canaan
+	- Hittites
 	- First Babylonian Empire
 	- First Assyrian Empire
 	- The tribes of Israel
@@ -12,13 +15,18 @@
 	- Neo-Babylonian
 	- Persian Achaemenid Empire
 
-- Europe and East A
+- Europe and East Asia
+	- Indo
 	- Macedonian Empire
 	- Hellenistic Empire
 	- Roman Empire
 	- Latin Empire and Byzantine Empire
 	- Norse Kingdoms
 	- Kievan Rus
+	- Spain and Portugal
+	- France
+	- Britain
+	- Ottoman Empire
 
 - Asia
 	- Indus Valley River
@@ -42,6 +50,7 @@
 	- Tamil Kings
 	- Persian Empires
 	- Mongol Turks
+	- Seljuk Turks
 	- The Islamic Invasions
 	- Mughal Empire
 	- Delhi Sultanate
