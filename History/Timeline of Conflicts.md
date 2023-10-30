@@ -165,7 +165,7 @@ Arabs arrived in Palestine after 1st century AD.
 			- Non-Muslims take up arms against the enemy of the nation and share the cost of war. There is to be no treachery between the two.
 			- Non-Muslims are not obliged to take part in the Muslims' religious wars.
 	- The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Al-Nadir
-	- From Quran> surah Al Baqarah 2:84-2:86 (The Terms of the Covenant and their Breach of It) [citing the Quran is ok here, since the general argument is that Quran incites violence]
+	- The Terms of the Covenant and their Breach of It (From Quran> surah Al Baqarah 2:84-2:86) [citing the Quran is ok here, since the general argument is that Quran incites violence]
 		- Allah criticized the Jews who lived in Al-Madinah (Medina) at the time.
 		- They used to suffer, because of the armed conflicts between the tribes Aws and Khazraj
 		- Banu Qaynuqa and Banu Al-Nadir were allies of the Khazraj
@@ -179,7 +179,7 @@ Arabs arrived in Palestine after 1st century AD.
 		- Allah reminded that they ignore the Tawrah when it said you to not kill your members or expel them from their homes, and follow it to implement ransom. By this, they believe one part of the scripture and reject the rest. "You do this all to acquire the life of this world".
 		- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet, his coming, his expulsion, etc.
 		- On the Day of Resurrection, they will be subject to torment because they defied the book they were given.
-	- From Quran> surah Al Baqarah 2:87-2:86 (The Terms of the Covenant and their Breach of It)
+	- The Terms of the Covenant and their Breach of It (From Quran> surah Al Baqarah 2:87-2:86)
 		- The Tawrah was revealed to Musa (Moses), but they distorted it's meaning to fulfil their fantasies
 		- So Allah sent Isa (Jesus), and sent miracles to support him, but Jews didn't want to differ from a single word
 		- This way, they killed or rejected all Prophets
@@ -192,10 +192,10 @@ Arabs arrived in Palestine after 1st century AD.
 		- Prophet Mohammed warned them to be fair, or else, they'll suffer the same fate as Quraysh. He also asked them to follow the true word of god. But Banu Qaynuqa mocked his followers for accepting him as the prophet and mocked their victory claiming Quraysh had no knowledge of war, and if you fight with us, we'll show you who's boss. So this was seen as a declaration of war.
 		- The Banu Qaynuqa tribes were defeated and exiled.
 	- 625 AD: Banu Nadir tribe was evicted from Medina for trying to assassinate prophet Mohammed.
-	- 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
+	- 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city of Medina in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
 		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
 		- The constitution had an arbiter 
-		- They were all beheaded
+		- They were all beheaded (700 men)
 	- More info:
 		- The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
 		- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
