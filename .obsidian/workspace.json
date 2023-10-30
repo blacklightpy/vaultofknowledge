@@ -271,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "caral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,7 +288,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -403,13 +404,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7f8c5f98e7f483d0",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "History/Timeline of Conflicts.md",
     "History/General List of Civilizations.md",
     "History/The Origin of Judaism.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Literature/Origin of Writing.md",
-    "History/Timeline of Conflicts.md",
     "History/Periods of Archaeological History.md",
     "History/Periods of Greek History.md",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",

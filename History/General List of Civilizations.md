@@ -12,7 +12,7 @@
 	- Neo-Babylonian
 	- Persian Achaemenid Empire
 
-- Europe
+- Europe and East A
 	- Macedonian Empire
 	- Hellenistic Empire
 	- Roman Empire
@@ -22,10 +22,34 @@
 
 - Asia
 	- Indus Valley River
-	- Chinese Kingdoms
+	- Chinese Empires
+		- Xia
+		- Shang
+		- Zhou
+		- Qin
+		- Han
+		- Wei, Shu and Wu
+		- Jin
+		- Sui
+		- Tang
+		- Song
+		- Yuan
+		- Ming
+		- Qing
+		- People's Republic of China
 	- The Gokturks
+	- Mauryan Empire
+	- Tamil Kings
 	- Persian Empires
 	- Mongol Turks
-	- Islam
+	- The Islamic Invasions
+	- Mughal Empire
+	- Delhi Sultanate
 
 - South America
+	- Norte Chico
+	- Olmecs
+
+- North America
+	- The Red Indians
+	- Carribean Islands
