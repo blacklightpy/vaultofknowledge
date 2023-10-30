@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/General List of Civilizations.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/General List of Civilizations.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/General List of Civilizations.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -403,11 +403,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a5ec3d3876ebd10",
+  "active": "0d565f770c5f57ca",
   "lastOpenFiles": [
+    "History/General List of Civilizations.md",
     "History/Timeline of Conflicts.md",
     "History/The Origin of Judaism.md",
-    "History/General List of Civilizations.md",
     "Why abandon proprietary technology.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Literature/Origin of Writing.md",
