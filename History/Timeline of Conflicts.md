@@ -216,7 +216,6 @@ Arabs arrived in Palestine after 1st century AD.
 - 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
 	- They were
 	- Ottomans banned India from the European spice trade
-	- The capital was renamed Istanbul, from Constantinople
 	- They established the Ottoman Caliphate (fourth caliphate), as the successors of Sunni Islam
 - [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]
 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
@@ -328,6 +327,8 @@ Arabs arrived in Palestine after 1st century AD.
 - 1919: Turkish War for Independence begins
 - 1922: Soviet Union forms with Communism
 - 1924: Türkiye becomes independent 
+	- 6 Oct 1923: The capital, Constantinople was renamed to Istanbul
+	- 29 Oct 1923: Ankara was declared the capital of the Turkish Republic
 	- The last caliphate, the Sultanate of Ottoman Empire Caliphate was abolished by Mustafa Kemel Ataturk
 - ibn Saud and team formed Saudi Arabia
 - Formation of Nationalist Socialist German Workers party

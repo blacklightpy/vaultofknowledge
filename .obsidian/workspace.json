@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/The Origin of Judaism.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/The Origin of Judaism.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/The Origin of Judaism.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -390,10 +390,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "635e707808e88796",
+  "active": "68a54a3228cda0a3",
   "lastOpenFiles": [
-    "History/Timeline of Conflicts.md",
     "History/The Origin of Judaism.md",
+    "History/Timeline of Conflicts.md",
     "Why abandon proprietary technology.md",
     "History/The Origin of Islam.md",
     "Culture/Muslim Culture.md",
