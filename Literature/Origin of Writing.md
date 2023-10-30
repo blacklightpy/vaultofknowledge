@@ -17,6 +17,7 @@
 - Indus script / Harappan script
 ## Bronze Age
 - Sumerian cuneiform
+	- These
 - Egyptian hieroglyphics
 - Chinese 
 - Mesoamerican
