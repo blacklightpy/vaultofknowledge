@@ -200,9 +200,12 @@ Arabs arrived in Palestine after 1st century AD.
 		- But they didn't get any hostages because the Meccans were exhausted, and soon cold and heavy rains set in, and the Meccans marched home to the horror and dismay of Banu Qurayza
 		- This betrayal was considered a violation of the "Constitution of Medina".
 		- The Muslims commenced a 25-day siege against they Banu Qurayza's fortress. Finally both sides agreed to an arbitration.
-		- The chosen judge was a former ally of Banu Qurayza, Sa'd ibn Muadh, who was now a Muslim.
-		- Although Sa'd judged according to his own views, it was consistent with Deuteronomy 20:12-14
+		- The chosen judge was a former ally of Banu Qurayza, Sa'd ibn Muadh, who was now a Muslim. Sa'd was wounded in battle and would soon die. Though his fellow chiefs asked him to spare their former allies, he decided to kill all of them as they violated the social order and failed to honour the agreement to protect the town.
+		- Although Sa'd judged according to his own views, it was consistent with Deuteronomy 20:12-14.
 		- They were all beheaded (700 men)
+		- The Muslims were at the threat of extinction and wanted to send this as a message to anyone who would try to betray them in the future.
+		- Mohammed did not confuse the behaviour of the clans with Judaism
+			- As it's written in the Quran _We sent down the Torah, in which there is guidance and light, by which the Prophets who surrendered to God's will provided judgments for the Jewish people. Also, the rabbis and doctors of the Law (did likewise), according to that portion of God's Book with which they were entrusted, and they became witnesses to it as well…. Whoever does not judge by what God has sent down (including the Torah), they are indeed unbelievers. (5:44)_
 	- More info:
 		- The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
 		- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
