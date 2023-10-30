@@ -234,7 +234,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/General List of Civilizations.md",
+                "file": "History/The Origin of Islam.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/The Origin of Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/The Origin of Islam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "History/The Origin of Islam.md"
               }
             }
           },
@@ -403,7 +403,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0d565f770c5f57ca",
+  "active": "6a5ec3d3876ebd10",
   "lastOpenFiles": [
     "History/General List of Civilizations.md",
     "History/Timeline of Conflicts.md",
