@@ -4,4 +4,28 @@
 		- Isin, Larsa
 	- Babylonian Kingdom
 	- Assyria
-	- 
+	- First Babylonian Empire
+	- First Assyrian Empire
+	- The tribes of Israel
+	- Egypt
+	- Neo-Assyrian
+	- Neo-Babylonian
+	- Persian Achaemenid Empire
+
+- Europe
+	- Macedonian Empire
+	- Hellenistic Empire
+	- Roman Empire
+	- Latin Empire and Byzantine Empire
+	- Norse Kingdoms
+	- Kievan Rus
+
+- Asia
+	- Indus Valley River
+	- Chinese Kingdoms
+	- The Gokturks
+	- Persian Empires
+	- Mongol Turks
+	- Islam
+
+- South America
