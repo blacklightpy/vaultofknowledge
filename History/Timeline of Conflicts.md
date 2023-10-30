@@ -167,7 +167,7 @@ Arabs arrived in Palestine after 1st century AD.
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
 	- Zoroastrianism lost it's dominant position when this happened
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the holy land and the Persian Sassanid Empire and they reached Central Asia
-- The Turks were starting to convert to Islam from the Central Asia, and they were also influenced by Persian civilization more than Turkish
+- The Turks of Central Asia were starting to convert to Islam, and they were also influenced by Persian civilization more than Turkish
 - Most Turks were domestic servants in the Umayyad caliphate (second caliphate), but by the Abbasid caliphate (third caliphate), they were trained as soldiers, and some of them became commanders. As the Abbasid caliphate weakened, they assumed control.
 ---
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
@@ -188,6 +188,7 @@ Arabs arrived in Palestine after 1st century AD.
 - 1066 AD: William the Conqueror conquers England
 ---
 - 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire (Anatolian peninsula)
+	- This weakened the Zoroastrian culture in Iran
 - 1099 AD: Constantine took the help of Pope in Western Roman empire to start the crusades to capture back the holy land
 ---
 - Italians from Genoa and Venice get spice trades from the Seljuk Empire
@@ -202,6 +203,7 @@ Arabs arrived in Palestine after 1st century AD.
 - China invented bombs and typing
 - 1228-1259 AD: Mongols invaded all of central Asia and Europe under Genghis Khan
 	- This weakened the Seljuk Empire
+	- The remaining Zoroastrianism followers withdrew to the desert towns of Kerman and Yazd
 - It breaks into Yuan, Golden Horde, Chagatai, Ilkhanate
 - Mu'iz Al-din Muhammad (Ghurid Sultan) of the Turks were unaffected by the Mongols, because they were busy invading India and forming the Delhi Sultanate
 - Tu'i Tonga empire conquers the Pacific Ocean
