@@ -82,7 +82,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 --------
 - The Median empire conquered part of the Neo-Babylonian empire
-- -550 BCThey were conquered by the First Persian Empire, the Achaemenid Empire.
+- 550 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
 - ~500 BC: Buddha was enlightened in Bodh Gaya
 - China just got split
@@ -93,8 +93,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
 - They traded spices with the Arabians via the seas
-- 221 BC: China put itself back together with the Qin Dynasty by following Confucian morals
+- 221 BC: China put itself back together with the Qin Dynasty which followed Legalism
 - They now had three philosophies: Confucianism (morals), Taoism (Dao) and Legalism (Obey the Law)
+- 206 BC: The Han Dynasty took over China and Confucianism was once again back
 - Horse nomads of Mongolian Steppe ransacked Qin dynasty
 - Xiongu confederacy appears in Mongolian Steppe?
 - The Greek Kingdoms (Hellenistic Kingdoms) are all now Hellenistic
