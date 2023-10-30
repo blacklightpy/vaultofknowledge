@@ -1,3 +1,3 @@
-[[Timeline of Greek History]]
+[[Periods of Greek History]]
 
 - Main Epics: Iliad, Odyssey
