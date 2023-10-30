@@ -203,9 +203,9 @@ Arabs arrived in Palestine after 1st century AD.
 		- The chosen judge was a former ally of Banu Qurayza, Sa'd ibn Muadh, who was now a Muslim. Sa'd was wounded in battle and would soon die. Though his fellow chiefs asked him to spare their former allies, he decided to kill all of them as they violated the social order and failed to honour the agreement to protect the town.
 		- Although Sa'd judged according to his own views, it was consistent with Deuteronomy 20:12-14.
 		- They were all beheaded (700 men)
-		- The Muslims were at the threat of extinction and wanted to send this as a message to anyone who would try to betray them in the future.
+		- This wasn't unusual for the normal behaviour in Arabia at the time. The Muslims were at the threat of extinction and wanted to send this as a message to anyone who would try to betray them in the future. It is not sure that both the parties could've behaved in any other way at the time.
 		- Mohammed did not confuse the behaviour of the clans with Judaism
-			- As it's written in the Quran _We sent down the Torah, in which there is guidance and light, by which the Prophets who surrendered to God's will provided judgments for the Jewish people. Also, the rabbis and doctors of the Law (did likewise), according to that portion of God's Book with which they were entrusted, and they became witnesses to it as well…. Whoever does not judge by what God has sent down (including the Torah), they are indeed unbelievers. (5:44)_
+			- As per the Quran, the problem was not Judaism, but Mohammed's belief that they modified the Torah: _We sent down the Torah, in which there is guidance and light, by which the Prophets who surrendered to God's will provided judgments for the Jewish people. Also, the rabbis and doctors of the Law (did likewise), according to that portion of God's Book with which they were entrusted, and they became witnesses to it as well…. Whoever does not judge by what God has sent down (including the Torah), they are indeed unbelievers. (5:44)_
 	- More info:
 		- The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
 		- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
@@ -213,6 +213,7 @@ Arabs arrived in Palestine after 1st century AD.
 			- Use in Babylonian "Code of Hammurabi"
 			- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
 		- The ayahs were revealed during prayer sessions, with the direction of prayer changing from facing Jerusalem to the Kaaba in Mecca during one such session, when the ayahs 2:144, 2:149 and 2:150 were revealed.
+		- Other Jewish clans who signed the treaty continued to live in peace long after Medina became the capital of Arabia.
 - [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
 	- The Hadiths say that the Judgement day will not come until Jews and Muslims fight ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Hadith))
 	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Life_under_Muslim_rule))
