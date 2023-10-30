@@ -66,7 +66,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Phoenicians start trade and invent the alphabets
 - Iron Age begins
 - 12 Tribes of Israel arrive
-- Olmecs start in South America
+- Olmecs start in Mexico
 - Phoenicians start colonies
 - Greeks also copy their ideas and make colonies
 - Phoenicians made the Carthage colony that made it's own colonies
@@ -82,18 +82,18 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 --------
 - The Median empire conquered part of the Neo-Babylonian empire
-- They were conquered by the First Persian Empire, the Achaemenid Empire.
+- -550 BCThey were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
-- Buddha was enlightened in Bodh Gaya
+- ~500 BC: Buddha was enlightened in Bodh Gaya
 - China just got split
-- Confucius was figuring out morals
+- ~500 BC Confucius was figuring out morals
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
 	- 312 BC: Yehud was now called Coelo-Syria, in the Seleucid Empire
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
 - They traded spices with the Arabians via the seas
-- China put itself back together with the Qin Dynasty by following Confucian morals
+- 221 BC: China put itself back together with the Qin Dynasty by following Confucian morals
 - They now had three philosophies: Confucianism (morals), Taoism (Dao) and Legalism (Obey the Law)
 - Horse nomads of Mongolian Steppe ransacked Qin dynasty
 - Xiongu confederacy appears in Mongolian Steppe?
