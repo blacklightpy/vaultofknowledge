@@ -45,7 +45,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]
 	- 
 ----
-- Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites)
+- Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 - Indo-Europeans made the Hittite empire
 - Egypt and Mycenaean Greece also form
 - Indus River Valley Civilization died

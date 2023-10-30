@@ -5,18 +5,19 @@
 	- Babylonian Kingdom
 	- Elam
 	- Assyria
-	- Canaan
 	- Hittites
+	- Canaan
+	- Egypt
 	- First Babylonian Empire
 	- First Assyrian Empire
 	- The tribes of Israel
-	- Egypt
 	- Neo-Assyrian
 	- Neo-Babylonian
 	- Persian Achaemenid Empire
 
 - Europe and East Asia
-	- Indo
+	- Indo-Europeans
+	- Mycenaean Greeks
 	- Macedonian Empire
 	- Hellenistic Empire
 	- Roman Empire
@@ -45,6 +46,8 @@
 		- Ming
 		- Qing
 		- People's Republic of China
+	- Iranians
+	- Indo-Aryans
 	- The Gokturks
 	- Mauryan Empire
 	- Tamil Kings
