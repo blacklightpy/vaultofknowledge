@@ -193,6 +193,11 @@ Arabs arrived in Palestine after 1st century AD.
 		- The Banu Qaynuqa tribes were defeated and exiled.
 	- 625 AD: Banu Nadir tribe was evicted from Medina for trying to assassinate prophet Mohammed.
 	- 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city of Medina in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
+		- The Meccans came with the support of the other two exiled Jewish tribes, and sent envoys to gain the support of the Banu Qurayza
+		- The Banu Qurayza was hesitant, but when a large Meccan army arrived, they joined in
+		- Mohammed tried to make diplomatic efforts to keep Banu Qurayza on their side
+		- But by the third week, Banu Qurayza decided to act against Mohammed, although they had demanded hostages from the Meccans to ensure they wouldn't be left to face Mohammed alone
+		- But they didn't get any hostages because the Meccans were exhauste
 		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
 		- The constitution had an arbiter 
 		- They were all beheaded (700 men)
