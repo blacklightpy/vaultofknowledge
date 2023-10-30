@@ -50,8 +50,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Egypt and Mycenaean Greece also form
 - Indus River Valley Civilization died
 - Some of the Indo-Europeans, Indo-Iranians founded the religion of Zoroastrianism
+	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
 - Some of the Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
-	- So Hinduism has a lot in common with Zoroa
+	- So Hinduism has a lot in common with Zoroastrianism.
 	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
 	- [Indo-Iranians split into Iranians and Indo-Aryans]
 		- According to the Rigveda and Avesta, being an Indo-Iranian or Aryan was about rituals and linguistic, not about race. If you did the right rituals, you would be an Aryan.
