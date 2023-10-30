@@ -1,0 +1,4 @@
+ ![\oiint](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/25px-OiintLaTeX.svg.png) ${\scriptstyle A}$ $\mathbf {E} \cdot {\rm {d}}\mathbf {A} ={\frac {Q_{A}}{\varepsilon _{0}}}$ 
+
+ ![\oiint](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/25px-OiintLaTeX.svg.png) A ![{\scriptstyle A}](https://wikimedia.org/api/rest_v1/media/math/render/svg/2c1dabbf21acfa318113b7dad41854d5d46cbce1) E ⋅ d A = Q A ε 0 ![\mathbf {E} \cdot {\rm {d}}\mathbf {A} ={\frac {Q_{A}}{\varepsilon _{0}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/cf851c5bb276a1e9f9b5ca95b0450e96c40d5b72)
+ 
