@@ -1,5 +1,6 @@
 $\large ∯_A E \cdot dA = {\dfrac {q}{\varepsilon_{0}}}$ (Gauss's Law)
 
+A uniform enclosure for a region would be a sphere.
 For a sphere, surface area = $\large 4 \pi r^2$
 Assuming the surface enclosing the charge is a sphere,
 
