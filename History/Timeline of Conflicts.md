@@ -85,7 +85,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 550 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
 - ~500 BC: Buddha was enlightened in Bodh Gaya
-- ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang)
+- ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 - ~500 BC Confucius was figuring out morals
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
