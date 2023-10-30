@@ -197,9 +197,11 @@ Arabs arrived in Palestine after 1st century AD.
 		- The Banu Qurayza was hesitant, but when a large Meccan army arrived, they joined in
 		- Mohammed tried to make diplomatic efforts to keep Banu Qurayza on their side
 		- But by the third week, Banu Qurayza decided to act against Mohammed, although they had demanded hostages from the Meccans to ensure they wouldn't be left to face Mohammed alone
-		- But they didn't get any hostages because the Meccans were exhauste
-		- This was considered a violation of the "Constitution of Medina" and they were captured for treason.
-		- The constitution had an arbiter 
+		- But they didn't get any hostages because the Meccans were exhausted, and soon cold and heavy rains set in, and the Meccans marched home to the horror and dismay of Banu Qurayza
+		- This betrayal was considered a violation of the "Constitution of Medina".
+		- The Muslims commenced a 25-day siege against they Banu Qurayza's fortress. Finally both sides agreed to an arbitration.
+		- The chosen judge was a former ally of Banu Qurayza, Sa'd ibn Muadh, who was now a Muslim.
+		- Although Sa'd judged according to his own views, it was consistent with Deuteronomy 20:12-14
 		- They were all beheaded (700 men)
 	- More info:
 		- The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
