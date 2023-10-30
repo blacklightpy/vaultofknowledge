@@ -164,6 +164,7 @@ Arabs arrived in Palestine after 1st century AD.
 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
+	- Zoroastrianism lost it's dominant position when this happened
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the holy land and the Persian Sassanid Empire and they reached Central Asia
 - The Turks were starting to convert to Islam from the Central Asia, and they were also influenced by Persian civilization more than Turkish
 - Most Turks were domestic servants in the Umayyad caliphate (second caliphate), but by the Abbasid caliphate (third caliphate), they were trained as soldiers, and some of them became commanders. As the Abbasid caliphate weakened, they assumed control.
