@@ -18,10 +18,11 @@
 ## Bronze Age
 - Sumerian cuneiform
 	- These are the oldest writing system we know of, which is pictographic.
-		- 
+		- ![[Sumerian Cuneiform.jpg]]
 	- Cuneiform means "wedge-shaped", referring the the reed stylus used to make a wedge shape on the clay tablets
 	- Cuneiform was used to write around 15 different languages including Sumerian, Akkadian, Babylonian, Assyrian, Elamite, Hittite, Urartian and Old Persian.
 	- The story of the Flood: https://www.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/the-ancient-near-east-an-introduction/a/cuneiform
+		- The Flood Tablet (part of the "Epic of Gilgamesh") ![[The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg]]
 - Egyptian hieroglyphics
 - Chinese 
 - Mesoamerican

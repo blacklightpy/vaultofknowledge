@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4ca760377650bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of Conflicts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -321,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Origin of Writing.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Origin of Writing.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -350,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Origin of Writing.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -416,9 +429,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "928cb3a870a02267",
+  "active": "f4ca760377650bd8",
   "lastOpenFiles": [
-    "_images/59d49f3cd291d060c46f04afdd89e75495ab4df6.jpg",
+    "Literature/Origin of Writing.md",
+    "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
+    "_images/Sumerian Cuneiform.jpg",
     "History/Civilizations/Cradles of Civilization.md",
     "History/The Origin of Judaism.md",
     "History/Timeline of Conflicts.md",
@@ -447,7 +462,6 @@
     "History/Israel-Palestine Peace Ideas.md",
     "Z1-Inbox/Arguments against religion.md",
     "Sound.md",
-    "Z1-Inbox/Things I don't understand.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
@@ -461,8 +475,6 @@
     "_images/image_ytTUdIQR0j 1.avif",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
-    "_images/Canary Deployment.png",
-    "_images/Run unit tests first.png",
-    "_images/Blue Green Deployment.png"
+    "_images/Canary Deployment.png"
   ]
 }
