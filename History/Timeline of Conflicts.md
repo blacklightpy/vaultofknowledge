@@ -329,7 +329,7 @@ Arabs arrived in Palestine after 1st century AD.
 - 1924: Türkiye becomes independent 
 	- 6 Oct 1923: The capital, Constantinople was renamed to Istanbul
 	- 29 Oct 1923: Ankara was declared the capital of the Turkish Republic
-	- The last caliphate, the Sultanate of Ottoman Empire Caliphate was abolished by Mustafa Kemel Ataturk
+	- 3 March 1924: The last caliphate, the Sultanate of Ottoman Empire Caliphate was abolished by Mustafa Kemel Ataturk
 - ibn Saud and team formed Saudi Arabia
 - Formation of Nationalist Socialist German Workers party
 - 1929: The Great Depression in the US
