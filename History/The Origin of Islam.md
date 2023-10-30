@@ -32,6 +32,7 @@
 	- This way, they killed or rejected all Prophets
 	- This happened because they altered the Tawrah, and the prophets upheld the truths which clashed with their desires
 - 624 AD: Meccans of Banu Quraysh was defeated in the "Battle of Badr"
+- Battle of Uhud soon ensued, in which Mohammed was defeated by the Quraysh. After returning to Medina, the Jewish tribes would make fun of him for the defeat.
 - A dispute broke up between the Muslims and Banu Qaynuqa
 	- It is said that a jeweller from Banu Qaynuqa asked a woman to reveal her hair, and he pinned her dress so when she got up, she was stripped naked. A Muslim man killed the jeweller in retaliation.
 		- This story has been debated by many people. Nevertheless, this is the story.
@@ -40,6 +41,7 @@
 	- The Banu Qaynuqa tribes were defeated and exiled.
 - 625 AD: Banu Nadir tribe was evicted from Medina for trying to assassinate prophet Mohammed.
 - 627 AD: Banu Quraysh (of Mecca) and their allies besieged the city of Medina in the "Battle of Trench". Banu Qurayza initially tried to stay neutral, but they entered into negotiations with the besieging army.
+	- They dug trenches to keep the Meccans away, so it's called the Battle of the Trench
 	- The Meccans came with the support of the other two exiled Jewish tribes, and sent envoys to gain the support of the Banu Qurayza
 	- The Banu Qurayza was hesitant, but when a large Meccan army arrived, they joined in
 	- Mohammed tried to make diplomatic efforts to keep Banu Qurayza on their side
