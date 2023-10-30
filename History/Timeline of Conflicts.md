@@ -151,6 +151,7 @@ Arabs arrived in Palestine after 1st century AD.
 - Japan has a kingdom named Yamato, or the sunrise kingdom
 ----
 - 610 AD: Islam was founded by Prophet Mohammed [[The Origin of Islam]]
+
 - [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
 	- The Hadiths say that the Judgement day will not come until Jews and Muslims fight ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Hadith))
 	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Life_under_Muslim_rule))
