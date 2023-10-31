@@ -12,6 +12,7 @@
 - Copenhagen Interpretation
 	- Doesn't tell you what $\psi$ means, but just tells you that $\psi\psi^*$ gives the probability of finding a particle at a point (https://www.youtube.com/watch?v=WcNiA06WNvI)
 - Pilot Wave Theory
+	- The silicon droplet hydrodynamic analogue
 - Quantum Logic
 - Time Symmetric Theory
 - Many Words Interpretation
