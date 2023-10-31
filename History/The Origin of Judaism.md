@@ -5,5 +5,6 @@
 	- The Twelve sons of Jacob fled to Egypt after a drought in Canaan. Jacob was also known as Israel.
 	- The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel
 	- They formed kingdoms
+	- Originally, they practiced Yahwism, with other secondary gods such as Baal, Shamash, Yarikh, Mor, Astarte, etc. each of whom had their own prophets.
 	- The original god of Israel was not Yahweh, but El. Israel means "El strives".
 	- Beth-el also means "House of El"
