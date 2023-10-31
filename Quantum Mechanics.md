@@ -11,6 +11,8 @@
 # Various Interpretations of the Model
 - Ensemble interpretation
 - Copenhagen Interpretation
+	- https://www.youtube.com/watch?v=WcNiA06WNvI
+	- Doesn't tell you what $\psi$ means, but just tells you that $\psi\psi^*$ gives the probability
 - Pilot Wave Theory
 - Quantum Logic
 - Time Symmetric Theory
