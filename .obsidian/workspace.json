@@ -255,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -321,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coulomb's Law from Gauss's Law.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coulomb's Law from Gauss's Law.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coulomb's Law from Gauss's Law.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -416,10 +416,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e0ca4823ffa35f2",
+  "active": "c8d0ec58c907351c",
   "lastOpenFiles": [
-    "History/Timeline of Conflicts.md",
     "Coulomb's Law from Gauss's Law.md",
+    "History/Timeline of Conflicts.md",
     "History/General List of Civilizations.md",
     "History/The Origin of Judaism.md",
     "History/The Origin of Islam.md",
