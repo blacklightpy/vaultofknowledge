@@ -8,3 +8,4 @@
 	- Originally, they practiced Yahwism, with other secondary gods such as Baal, Shamash, Yarikh, Mor, Astarte, etc. each of whom had their own prophets.
 	- The original god of Israel was not Yahweh, but El. Israel means "El strives".
 	- Beth-el also means "House of El"
+	- El Shaddai means God Almighty, but he was also called Adonai. Yahweh apparently came later.
