@@ -227,48 +227,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c8d0ec58c907351c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Timeline of Conflicts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e0ca4823ffa35f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coulomb's Law from Gauss's Law.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16eb17b6883b0ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Mechanics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -334,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics.md",
+                "file": "History/General List of Civilizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum Mechanics.md",
+                "file": "History/General List of Civilizations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum Mechanics.md"
+                "file": "History/General List of Civilizations.md"
               }
             }
           },
@@ -429,11 +390,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "16eb17b6883b0ba6",
+  "active": "6909428a06a315ea",
   "lastOpenFiles": [
+    "History/Timeline of Conflicts.md",
     "Coulomb's Law from Gauss's Law.md",
     "Quantum Mechanics.md",
-    "History/Timeline of Conflicts.md",
     "History/General List of Civilizations.md",
     "History/The Origin of Judaism.md",
     "History/The Origin of Islam.md",
