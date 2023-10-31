@@ -214,22 +214,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6909428a06a315ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/General List of Civilizations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -295,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/General List of Civilizations.md",
+                "file": "History/The Origin of Judaism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/General List of Civilizations.md",
+                "file": "History/The Origin of Judaism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -324,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/General List of Civilizations.md"
+                "file": "History/The Origin of Judaism.md"
               }
             }
           },
@@ -390,12 +377,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6909428a06a315ea",
+  "active": "635e707808e88796",
   "lastOpenFiles": [
+    "History/General List of Civilizations.md",
     "History/Timeline of Conflicts.md",
     "Coulomb's Law from Gauss's Law.md",
     "Quantum Mechanics.md",
-    "History/General List of Civilizations.md",
     "History/The Origin of Judaism.md",
     "History/The Origin of Islam.md",
     "Why abandon proprietary technology.md",
