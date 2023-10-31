@@ -4,8 +4,14 @@
 	- The Bible separates Israelites from Canaanites, but archaeology points that Israelites are a subset of Canaanites
 	- The Twelve sons of Jacob fled to Egypt after a drought in Canaan. Jacob was also known as Israel.
 	- The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel
+	- The laws given to them by Moses was the Torah.
 	- They formed kingdoms
 	- Originally, they practiced Yahwism, with other secondary gods such as Baal, Shamash, Yarikh, Mor, Astarte, etc. each of whom had their own prophets.
 	- The original god of Israel was not Yahweh, but El. Israel means "El strives".
 	- Beth-el also means "House of El"
 	- El Shaddai means God Almighty, but he was also called Adonai. Yahweh apparently came later.
+	- The kingdoms later separated into the kingdoms of Judah and Israel
+	- They built the Temple of Solomon during their time.
+	- The kingdom of Israel was captured by Neo-Assyrian empire
+	- The kingdom of Judah was captured by Neo-Babylonian empire
+	- When the Neo-Babylonian empire was captured by the Achaemenid Persian empire, they built the Second Temple.

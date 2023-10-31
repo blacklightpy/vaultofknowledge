@@ -214,9 +214,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4b8f10da780c0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Mechanics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/The Origin of Judaism.md",
+                "file": "Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/The Origin of Judaism.md",
+                "file": "Quantum Mechanics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/The Origin of Judaism.md"
+                "file": "Quantum Mechanics.md"
               }
             }
           },
@@ -377,15 +390,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "635e707808e88796",
+  "active": "a4b8f10da780c0bb",
   "lastOpenFiles": [
+    "History/The Origin of Judaism.md",
+    "Why abandon proprietary technology.md",
     "History/General List of Civilizations.md",
     "History/Timeline of Conflicts.md",
     "Coulomb's Law from Gauss's Law.md",
     "Quantum Mechanics.md",
-    "History/The Origin of Judaism.md",
     "History/The Origin of Islam.md",
-    "Why abandon proprietary technology.md",
     "History/Civilizations/Cradles of Civilization.md",
     "Literature/Origin of Writing.md",
     "History/Periods of Archaeological History.md",
