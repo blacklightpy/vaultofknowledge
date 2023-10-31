@@ -1,5 +1,4 @@
 # Shortcomings
-
 - "God does not play dice" - Einstein
 - Is the electron a probability wave ($\psi^*\psi$), or is it the orbital itself ($\psi$)?
 - It could be that the wave is vibrating in 4D space, like a string is vibrating in 2D space.
@@ -11,8 +10,7 @@
 # Various Interpretations of the Model
 - Ensemble interpretation
 - Copenhagen Interpretation
-	- https://www.youtube.com/watch?v=WcNiA06WNvI
-	- Doesn't tell you what $\psi$ means, but just tells you that $\psi\psi^*$ gives the probability
+	- Doesn't tell you what $\psi$ means, but just tells you that $\psi\psi^*$ gives the probability of finding a particle at a point (https://www.youtube.com/watch?v=WcNiA06WNvI)
 - Pilot Wave Theory
 - Quantum Logic
 - Time Symmetric Theory
