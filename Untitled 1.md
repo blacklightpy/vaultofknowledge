@@ -8,3 +8,5 @@
 - missing people
 - "shame on you" - babies beheaded campaign
 - 1 house clip
+- 1 doll claim
+- 1 dead
