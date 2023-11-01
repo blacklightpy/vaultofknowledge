@@ -1,0 +1,6 @@
+- al jazeera old video
+- babies narrative
+- hamas = isis
+	- Firstly ISIS is an entirely differe
+- testimonies with no proofs
+- "hamas calls" as if they communicate over unencrypted radio
