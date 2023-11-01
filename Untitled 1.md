@@ -11,6 +11,8 @@
 - 1 doll claim
 - 1 dead
 - 100 victims in body bags
+- AI prompts
+- 100s of women - 2 dead, 1 in jeep was alive
 
 
 "trust until disproven"
