@@ -10,6 +10,7 @@
 - 1 house clip
 - 1 doll claim
 - 1 dead
+- 100 victims in body bags
 
 
 "trust until disproven"
