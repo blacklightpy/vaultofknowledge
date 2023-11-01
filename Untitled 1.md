@@ -2,6 +2,7 @@
 - 40 babies narrative
 - hamas = isis
 	- Firstly ISIS is an isolationist group with entirely different goals, and hamas isn't even about jihad
+	- wishful thinking
 - testimonies of deaths with no proofs
 - "hamas calls" as if they communnicate over unencrypted radio
 - a burned man twice: the only proof
