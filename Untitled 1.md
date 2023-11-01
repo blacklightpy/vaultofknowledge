@@ -14,3 +14,6 @@
 
 "trust until disproven"
 "trust better when proven"
+
+
+"will somebody please think of the children"
