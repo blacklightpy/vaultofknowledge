@@ -18,5 +18,6 @@
 "trust until disproven"
 "trust better when proven"
 
+They use dramatic intros to hype up the situation
 
 "will somebody please think of the children"
