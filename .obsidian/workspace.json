@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maxwell's Laws of Electromagnetism.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maxwell's Laws of Electromagnetism.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maxwell's Laws of Electromagnetism.md"
+                "file": "My Ideas on solving the Arab-Israel conflict.md"
               }
             }
           },
@@ -377,7 +377,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f67f8cdbe748e5a1",
+  "active": "1f5b1a482abd72f6",
   "lastOpenFiles": [
     "Maxwell's Laws of Electromagnetism.md",
     "My Ideas on solving the Arab-Israel conflict.md",
