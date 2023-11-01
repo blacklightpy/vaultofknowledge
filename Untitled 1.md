@@ -1,6 +1,8 @@
 - al jazeera old video
 - babies narrative
 - hamas = isis
-	- Firstly ISIS is an entirely differe
-- testimonies with no proofs
+	- Firstly ISIS is an isolationist group with entirely different goals, and hamas isn't even about jihad
+- testimonies of deaths with no proofs
 - "hamas calls" as if they communicate over unencrypted radio
+- a burned man
+- missing people
