@@ -4,5 +4,7 @@
 	- Firstly ISIS is an isolationist group with entirely different goals, and hamas isn't even about jihad
 - testimonies of deaths with no proofs
 - "hamas calls" as if they communicate over unencrypted radio
-- a burned man
+- a burned man twice: the only proof
 - missing people
+- "shame on you" - babies beheaded campaign
+- 1 house clip
