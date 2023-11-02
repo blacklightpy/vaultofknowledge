@@ -57,6 +57,8 @@ But it's ok, Gaza and West Bank can enter a reconstruction period, funded by UN 
 
 ![[MapChart_Map-Israel-Stripe.png]]
 
+Palestine / Jordan / Mesopotamia
 ![[MapChart_Map-Palestine-Stripe.png]]
 
+- CisJordan / Palestine
 ![[MapChart_Map-Cisjordan.png]]
