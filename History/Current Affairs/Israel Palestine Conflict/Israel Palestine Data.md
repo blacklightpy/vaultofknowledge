@@ -8,6 +8,44 @@
 ###### 40 Babies were beheaded
 - Status: Level 2
 - Claim: 40 Babies were beheaded by Hamas
-- Proof given: Pictures of blood stained rooms
-- 
-- Counter Argument: Deoxygenated blood stains won't leave pink stains
+- Proof given: Pictures of blood stained rooms.
+- Suspicious data: Some of the stains were pink
+- Invalidating Argument: Deoxygenated blood stains won't leave pink stains. No clear proof was given.
+	- Israeli citizens say that the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
