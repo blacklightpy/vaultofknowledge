@@ -3,3 +3,5 @@
 	- They also say that Hamas leaders exploit Palestine and live in rich countries
 	- 
 - Some people believe that Hamas are the resistance groups of Palestine
+- IDF Soldiers want to wipe out Gaza because they've seen it as evil
+	- Source: Middle East Eye posts

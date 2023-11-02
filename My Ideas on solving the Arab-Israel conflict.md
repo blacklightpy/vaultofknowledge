@@ -37,6 +37,7 @@ Nevertheless, if the countries wish to implement the law among themselves, they 
 - How about borders? Well, the border will have to be diffused, as instead of having solid boundaries.
 - If there need be boundaries, i.e. if people are not ready to see differences in regions without demarcated boundaries, the current state of Israel, Palestine and Jordan can be merged together to be called by both names Palestine and Israel, like we call India Hindustan and Bharat. It will be fair because that is the spot where Abrahamic religions originated, so 
 
+- It cannot be 
 
 Israel, Palestine and Jordan can be called the land of Palestine.
 Due to historic reasons, the land of Israel is considered nostalgic by the Jews.
