@@ -261,9 +261,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49f7a42c2b14c68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terrorism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -329,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "Terrorism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "Terrorism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -358,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salafi Jihadism.md"
+                "file": "Terrorism.md"
               }
             }
           },
@@ -424,8 +437,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8e9f6d67e1766402",
+  "active": "49f7a42c2b14c68b",
   "lastOpenFiles": [
+    "Salafi Jihadism.md",
     "Terrorism.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "History/The Origin of Judaism.md",
@@ -455,7 +469,6 @@
     "Culture/Muslim Culture.md",
     "Z1-Inbox/Motors.md",
     "TIL.md",
-    "V8.md",
     "_images/MapChart_Map-Israel-Stripe.png",
     "_images/Arab-Israeli Ma.png",
     "_images/MapChart_Map-Cisjordan.png",
