@@ -227,6 +227,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "176b824529d3bd3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature/Origin of Writing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 16
@@ -392,6 +405,8 @@
   },
   "active": "dedffbfcbfd0468c",
   "lastOpenFiles": [
+    "Literature/Origin of Writing.md",
+    "History/Timeline of Conflicts.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine State of Media Reaction.md",
     "Why abandon proprietary technology.md",
@@ -410,10 +425,8 @@
     "Coulomb's Law from Gauss's Law.md",
     "History/The Origin of Judaism.md",
     "History/General List of Civilizations.md",
-    "History/Timeline of Conflicts.md",
     "History/The Origin of Islam.md",
     "History/Civilizations/Cradles of Civilization.md",
-    "Literature/Origin of Writing.md",
     "History/Periods of Archaeological History.md",
     "History/Periods of Greek History.md",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
