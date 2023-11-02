@@ -208,7 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Israel Palestine Arguments.md",
+                "file": "History/Israel Palestine Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Israel Palestine Arguments.md",
+                "file": "History/Israel Palestine Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Israel Palestine Arguments.md",
+                "file": "History/Israel Palestine Data.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Israel Palestine Arguments.md"
+                "file": "History/Israel Palestine Data.md"
               }
             }
           },
@@ -379,8 +379,11 @@
   },
   "active": "3ab24d850c453c94",
   "lastOpenFiles": [
-    "History/Israel Palestine Arguments.md",
+    "History/Israel Palestine Current Affairs.md",
+    "History/Israel-Palestine Peace Ideas.md",
     "My Ideas on solving the Arab-Israel conflict.md",
+    "History/Israel Palestine Data.md",
+    "History/Israel Palestine Arguments.md",
     "World Building/Philosophy/Smell.md",
     "Untitled.md",
     "Why abandon proprietary technology.md",
@@ -404,13 +407,10 @@
     "V8.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "_images/MapChart_Map-Israel-Stripe.png",
-    "Arab-Israeli Ma.png.md",
     "_images/Arab-Israeli Ma.png",
     "_images/MapChart_Map-Cisjordan.png",
     "_images/MapChart_Map-Palestine-Stripe.png",
-    "Z1-Inbox/Steps encountered when installing Void.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "_images/Klein bottle.svg.png",
     "mdSilo-all.json",
