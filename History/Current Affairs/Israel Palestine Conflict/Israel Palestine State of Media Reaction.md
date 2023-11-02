@@ -1,0 +1,5 @@
+- People believe that Hamas is against the civilians
+	- The claim is that Hamas wants the war to go on
+	- They also say that Hamas leaders exploit Palestine and live in rich countries
+	- 
+- Some people believe that Hamas are the resistance groups of Palestine
