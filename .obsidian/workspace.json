@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/The Origin of Judaism.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/The Origin of Judaism.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/The Origin of Judaism.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -403,8 +403,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "176b824529d3bd3a",
+  "active": "dedffbfcbfd0468c",
   "lastOpenFiles": [
+    "History/The Origin of Judaism.md",
     "Literature/Origin of Writing.md",
     "History/Timeline of Conflicts.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
@@ -423,7 +424,6 @@
     "Untitled 1.md",
     "Quantum Mechanics.md",
     "Coulomb's Law from Gauss's Law.md",
-    "History/The Origin of Judaism.md",
     "History/General List of Civilizations.md",
     "History/The Origin of Islam.md",
     "History/Civilizations/Cradles of Civilization.md",
