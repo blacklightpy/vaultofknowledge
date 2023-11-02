@@ -21,8 +21,13 @@
 ###### Rockets launched on the Al-Ahli Arab hospital
 - Status: Level 4
 - Claim (from Israel): The rockets were a failed launch by Palestinian Islamic Jihad (PIJ)
-
-- Personal 
+- Claim (from Palestine): The rockets could've only been from Israel
+- Proofs Given (from Israel)
+	- They've claimed that they analyzed the trajectory of the rockets and found out that it's from the PIJ
+	- 
+- 
+- Personal thoughts:
+	- I find it confusing how the misfired rocket managed to hit directly at a hospital, also a few days after Israel asked Hospitals to evacuate.
 
 
 
