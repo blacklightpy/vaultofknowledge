@@ -167,6 +167,7 @@ Arabs arrived in Palestine after 1st century AD.
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
 	- Zoroastrianism lost it's dominant position when this happened, but they still lived on
 	- Some of them had to move to the Indian subcontinent, where they lived as Parsis, and they became an influential minority under the British rule. They later migrated to different parts of the world, and live in diasporic communities nowadays.
+	- Parsis are basi
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the holy land and the Persian Sassanid Empire and they reached Central Asia
 - The Turks of Central Asia were starting to convert to Islam, and they were also influenced by Persian civilization more than Turkish
 - Most Turks were domestic servants in the Umayyad caliphate (second caliphate), but by the Abbasid caliphate (third caliphate), they were trained as soldiers, and some of them became commanders. As the Abbasid caliphate weakened, they assumed control.
@@ -373,4 +374,4 @@ Arabs arrived in Palestine after 1st century AD.
 - Martin Luther King Jr. abolishes racism
 - South Africa's Apartheid regime
 - 1991: USSR split
-- 1999: EU forms to use the same money, but Britain doesn't use the same money
+- 1999: EU forms to use the same money, but Britain doesn't use th
