@@ -227,9 +227,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9029b07a15429f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -295,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terrorism.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terrorism.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -324,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terrorism.md"
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md"
               }
             }
           },
@@ -390,11 +403,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "49f7a42c2b14c68b",
+  "active": "f9029b07a15429f6",
   "lastOpenFiles": [
+    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Terrorism.md",
-    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "History/Timeline of Conflicts.md",
