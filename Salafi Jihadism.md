@@ -50,6 +50,8 @@
 - Hamas
 	- Had its origin with the peaceful Muslim Brotherhood, which later turned violent
 	- Hamas is the manifestation of Muslim Brotherhood, fighting for the Palestinian cause alone
+	- They fight to establish take back the entire land of Palestine, and establish an Islamic state.
+		- Palestine Nationalist sentiment began as an opposition to the Is
 - Palestinian Islamic Jihad (PIJ)
 - Palestinian Liberation Organization (PLO)
 	- Used to be in West Bank
