@@ -208,7 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Israel Palestine Data.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Israel Palestine Data.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Israel Palestine Data.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Israel Palestine Data.md"
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md"
               }
             }
           },
@@ -379,11 +379,14 @@
   },
   "active": "3ab24d850c453c94",
   "lastOpenFiles": [
-    "History/Israel Palestine Current Affairs.md",
-    "History/Israel-Palestine Peace Ideas.md",
+    "History/Current Affairs/Israel Palestine Conflict/Israel-Palestine Peace Ideas.md",
+    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
+    "History/Current Affairs/Israel Palestine Conflict",
+    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
+    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
+    "History/Current Affairs",
     "My Ideas on solving the Arab-Israel conflict.md",
-    "History/Israel Palestine Data.md",
-    "History/Israel Palestine Arguments.md",
+    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
     "World Building/Philosophy/Smell.md",
     "Untitled.md",
     "Why abandon proprietary technology.md",
@@ -405,8 +408,6 @@
     "Z1-Inbox/Motors.md",
     "TIL.md",
     "V8.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "_images/MapChart_Map-Israel-Stripe.png",
     "_images/Arab-Israeli Ma.png",
     "_images/MapChart_Map-Cisjordan.png",
@@ -420,8 +421,6 @@
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology",
     "World Building/Philosophy/Metaphysics",
     "World Building/Science and Engineering/Physics/Condensed Matter Physics",
-    "World Building/Science and Engineering/Physics/Astrophysics",
-    "_images/image_ytTUdIQR0j 1.avif",
     "_images/Continuous Deployment.png",
     "_images/Comparison of Tests.png",
     "_images/Canary Deployment.png"

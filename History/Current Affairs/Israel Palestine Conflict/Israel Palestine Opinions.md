@@ -1,0 +1,2 @@
+###### Israel has morally corrupted the west in three weeks
+The west was all about liberalism and human rights. Now they don't even want to say ceasefire or to tell Israel to stop. And McDonalds is now giving free meals to Israel citizens as if it's going to help with anything.
