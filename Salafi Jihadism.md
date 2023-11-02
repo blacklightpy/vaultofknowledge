@@ -51,7 +51,7 @@
 	- Had its origin with the peaceful Muslim Brotherhood, which later turned violent
 	- Hamas is the manifestation of Muslim Brotherhood, fighting for the Palestinian cause alone
 	- They fight to establish take back the entire land of Palestine, and establish an Islamic state.
-		- Palestine Nationalist sentiment began as an opposition to the Is
+	- The Palestinian nationalist sentiment began as an opposition to the Israeli invasion. This doesn't mean Palestine was unimportant until then; but that all community movements begin as an opposition to some entity, as they need to place importance on their identity.
 - Palestinian Islamic Jihad (PIJ)
 - Palestinian Liberation Organization (PLO)
 	- Used to be in West Bank
