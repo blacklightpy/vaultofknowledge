@@ -52,7 +52,9 @@
 	- Hamas is the manifestation of Muslim Brotherhood, fighting for the Palestinian cause alone
 	- They fight to establish take back the entire land of Palestine, and establish an Islamic state.
 	- The Palestinian nationalist sentiment began as an opposition to the Israeli invasion. This doesn't mean Palestine was unimportant until then; but that all community movements begin as an opposition to some entity, as they need to place importance on their identity.
-	- Hamas is recognized as terrorist organization only by the US, EU, 
+	- Hamas is recognized as a terrorist organization only by the US, EU, Australia, Canada, Israel, Japan, Paraguay, UK
+	- Hamas is not recognized as a terrorist organization by: Brazil, China, Egypt, India, Iran, Jordan, Norway, Philippines, Qatar, Russia, Saudi Arabia, Switzerland, Syria, Türkiye and the UN
+	- New Zealand and Paraguay recognize it's military wing, Izz ad-Din
 - Palestinian Islamic Jihad (PIJ)
 - Palestinian Liberation Organization (PLO)
 	- Used to be in West Bank
