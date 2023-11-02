@@ -3,7 +3,7 @@ Terrorism = Terror + ism, which is to say, the spreading of terror, or frighteni
 
 It can mean any "morally wrong" act. In a general sense, it is the use of intentional violence and fear to achieve political or ideological aims.
 
-
+Governments and non-state groups often use the term to abuse or denounce opposing groups.
 
 
 ## Examples
