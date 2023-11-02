@@ -234,7 +234,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Origin of Writing.md",
+                "file": "History/The Origin of Judaism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/The Origin of Judaism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/The Origin of Judaism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "History/The Origin of Judaism.md"
               }
             }
           },
@@ -403,7 +403,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dedffbfcbfd0468c",
+  "active": "176b824529d3bd3a",
   "lastOpenFiles": [
     "Literature/Origin of Writing.md",
     "History/Timeline of Conflicts.md",

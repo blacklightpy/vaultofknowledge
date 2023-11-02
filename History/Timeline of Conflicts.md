@@ -16,7 +16,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Jesus spoke Aramaic and Hebrew
 		- He was from Nazareth in Galilee
 			- Aramaic > Western Aramaic > Jewish Palestinian Aramaic > Galilean Dialect
-	- Heiroglyphics > Sumerian (Of Sumer), Elamtite/Hatamtite/Susian> East Semitic Akkadian, West Semitic > Central Semitic > Northwest Semtic, Arabic > Aramaic, Canaanite Languages (Arabic, Hebrew, Aramaic, etc.) > Classical Arabic (Quran based)
+	- Heiroglyphics > Sumerian (Of Sumer), Elamtite/Hatamtite/Susian> East Semitic Akkadian, West Semitic > Central Semitic > Northwest Semtic, Arabic > Aramaic, Canaanite Languages (Hebrew, Aramaic, etc.) > Classical Arabic (Quran based)
 		- Semite was derived from Shem, Noah's faithful son
 
 # Prehistory
