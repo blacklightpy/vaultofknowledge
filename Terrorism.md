@@ -1,0 +1,3 @@
+
+- Islamic terrorism is the most common form of terrorism nowadays. This has nothing to do with Islam, I would say. Islamic is a religion, much like every other religion. Now, religions are supposed to grant people a deep sense of meaning into the meaning of their lives, and Islam does a very good job at this. Because of this reason, people interpreted the religion very strictly to preserve it's 'purity', and Wahhabism is one such school of thought. 
+	- [[Salafi Jihadism]]
