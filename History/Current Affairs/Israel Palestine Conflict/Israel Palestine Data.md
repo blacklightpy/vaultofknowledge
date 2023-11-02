@@ -12,20 +12,17 @@
 - Suspicious data: Some of the stains were pink
 - Invalidating Argument: Deoxygenated blood stains won't leave pink stains. No clear proof was given.
 	- Israeli citizens say that the requests for actual photos are inhuman, and they often respond with "shame on you" for making such requests.
-	- Israel's official social media handle has also
+	- Israel's official social media handle has also posted "shame on you" as part of their awareness campaign.
 - Further reports:
 	- The reporter who first reported this, said that she heard about it from some IDF soldier.
 	- Later IDF denied it had solid reports that babies were killed, and whether any count was taken.
 	- Yet Israel's official social media handles have posted this information several times.
 
+###### Rockets launched on the Al-Ahli Arab hospital
+- Status: Level 4
+- Claim (from Israel): The rockets were a failed launch by Palestinian Islamic Jihad (PIJ)
 
-
-
-
-
-
-
-
+- Personal 
 
 
 
