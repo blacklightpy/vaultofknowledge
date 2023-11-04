@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salafi Jihadism.md"
+                "file": "My Ideas on solving the Arab-Israel conflict.md"
               }
             }
           },
@@ -390,8 +390,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "49f7a42c2b14c68b",
+  "active": "1f5b1a482abd72f6",
   "lastOpenFiles": [
+    "Salafi Jihadism.md",
     "Terrorism.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
     "History/Timeline of Conflicts.md",
@@ -402,7 +403,6 @@
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "My Ideas on solving the Arab-Israel conflict.md",
-    "Salafi Jihadism.md",
     "Literature/Origin of Writing.md",
     "Why abandon proprietary technology.md",
     "History/Current Affairs/Israel Palestine Conflict",
