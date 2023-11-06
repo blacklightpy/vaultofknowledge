@@ -214,9 +214,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "226440b136e908b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solving the Operating System naming schemes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "Solving the Operating System naming schemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "Solving the Operating System naming schemes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salafi Jihadism.md"
+                "file": "Solving the Operating System naming schemes.md"
               }
             }
           },
@@ -377,14 +390,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2f75b227c7ce292",
+  "active": "226440b136e908b2",
   "lastOpenFiles": [
+    "Salafi Jihadism.md",
+    "Solving the Operating System naming schemes.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Why abandon proprietary technology.md",
     "Free Subdomain Services.md",
     "World Building/Philosophy/Smell.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
-    "Salafi Jihadism.md",
     "Free Hardware Projects.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
     "Terrorism.md",
@@ -406,7 +420,6 @@
     "History/The Origin of Islam.md",
     "History/Civilizations/Cradles of Civilization.md",
     "History/Periods of Archaeological History.md",
-    "History/Periods of Greek History.md",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
     "_images/Sumerian Cuneiform.jpg",
     "_images/MapChart_Map-Israel-Stripe.png",
