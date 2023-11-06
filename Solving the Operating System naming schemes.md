@@ -14,6 +14,9 @@ So we can adopt a naming scheme like u(Userland)/k(Kernel). For examples,
 - uFreeBSD/kLinux - Chimera Linux is an example of an OS that uses the FreeBSD userland with Linux
 - uGNU/kFreeBSD - A GNU system with the FreeBSD kernel, for example "Debian GNU/kFreeBSD"
 - uGNU/kGNU - A complete GNU system with the GNU Hurd kernel
-- u(MacOS/Darwin)/kXNU - MacOS is a properietary OS based on the open source Apple Darwin OS, which runs on the Apple XNU kernel
-- uFreeBSD/kFreeBSD - The FreeBSD Operating System.
-- uWindows
+- u(MacOS/Apple Darwin)/k(Apple XNU) - MacOS is a properietary OS based on the open source Apple Darwin OS, which runs on the Apple XNU kernel
+- uFreeBSD/kFreeBSD - The FreeBSD Operating System
+- u(Windows 7)/k(Windows NT) - Microsoft Windows 7
+- u(Windows 98)/k(Windows 9x) - Microsoft Windows 98
+
+With this, systems like Ubuntu can call themselves just Ubuntu, an describe itself as a uGNU/kLinux system which is a direct derivative of Debian. Debian projects like Debian GNU/kFreeBSD however will need to address
