@@ -1,17 +1,17 @@
-# MacOS
+# Apple macOS (Userland: Apple macOS/Apple Darwin; Kernel: Apple XNU)
 ## Package Management
 - Mac App Store (Installed to /Applications)
 - DMG Disk Image Files (Drag and Drop; Installed to /Applications)
 - PKG (Install Wizard; Installed to Home or Global /Applications)
 - Command Line Programs (Installed to UNIX paths)
-# Windows
+# Microsoft Windows (Userland: Microsoft Windows; Kernel: Microsoft Windows NT)
 ## Package Management
 - Win32 Installers
 - MSI Installers
 - Standalone EXE
 - Windows Store (Installed to WindowsApps)
 - Command Line Programs (Installed normally)
-# SUSE
+# openSUSE (Userland: GNU; Kernel: Linux)
 ## Package Management
 - Zypper Package Manager
 - YaST / KDE Discover / GNOME Software
