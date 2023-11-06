@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solving the problem of naming free operating systems.md",
+                "file": "Salafi Jihadism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solving the problem of naming free operating systems.md",
+                "file": "Salafi Jihadism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solving the problem of naming free operating systems.md"
+                "file": "Salafi Jihadism.md"
               }
             }
           },
@@ -370,8 +370,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -390,10 +389,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "226440b136e908b2",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
-    "Salafi Jihadism.md",
     "Solving the problem of naming free operating systems.md",
+    "Salafi Jihadism.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Why abandon proprietary technology.md",
     "Free Subdomain Services.md",
