@@ -6,11 +6,11 @@ For the sake of pragmatism, one can either call these systems by entirely differ
 
 Another problem is that, some people argue that if GNU is to be given importance, we should have to give importance to many other projects that make up a Linux distribution, like GNU/Linux/systemd/X/KDE/.. and so on. But speaking with a sense of pragmatism and idealism, GNU deserves a special mention in such distributions because the GNU project is what makes such systems be an operating system at the lowest level and not just the Linux kernel. So the name of the operating system would have to include GNU and Linux. For systems that don't use the GNU userland, Stallman hasn't given any rules, and projects like Android and it's derivatives just call themselves whatever they feel like. Alpine Linux is an example that retains the name Linux.
 
-To standardize this, we can take a look at a system I mentioned earlier: Debian GNU/kFreeBSD. The "k" in kFreeBSD stands for kernel, and since it uses the GNU system, it uses the GNU/kFreeBSD naming scheme. Looking at this, I think we can also extend this to operating systems that use a different userland, but with the Linux kernel, by giving a "u" prefix to specify the userland. 
+To standardize this, we can take a look at a system I mentioned earlier: Debian GNU/kFreeBSD. The "k" in kFreeBSD stands for kernel, and since it uses the GNU system, it uses the GNU/kFreeBSD naming scheme. Looking at this, I think we can also extend this to operating systems that use a different userland, but with the Linux kernel, by giving a "u" prefix to specify the userland. Of course, the userland (or even the kernel) can comprise of other utilities, but in such cases, we can use our own senses to assign a name that includes the most important components and leaves the rest in a documentation. With this, we can also call full fledged operating system projects by their official name alone, and specify the 'ethnicity' of the OS in its description.
 
-We can adopt a naming scheme like u(Userland)/k(Kernel).
+So we can adopt a naming scheme like u(Userland)/k(Kernel). For examples,
 
-- uAndroid/kLinux - Android, which is an OS that uses the Linux kernel
+- uAndroid/kLinux - Android, which is an OS now developed by Google that uses the Linux kernel
 - uFreeBSD/kLinux - Chimera Linux is an example of an OS that uses the FreeBSD userland with Linux
 - uGNU/kFreeBSD - A GNU system with the FreeBSD kernel, for example "Debian GNU/kFreeBSD"
 - uGNU/kGNU - A complete GNU system with the GNU Hurd kernel
