@@ -201,22 +201,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a533392f8ab797a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Subdomain Services.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -282,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Subdomain Services.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Subdomain Services.md",
+                "file": "My Ideas on solving the Arab-Israel conflict.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Subdomain Services.md"
+                "file": "My Ideas on solving the Arab-Israel conflict.md"
               }
             }
           },
@@ -357,7 +344,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,7 +364,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b99af105343a65c0",
+  "active": "1f5b1a482abd72f6",
   "lastOpenFiles": [
     "Free Subdomain Services.md",
     "My Ideas on solving the Arab-Israel conflict.md",
