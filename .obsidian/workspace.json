@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2f75b227c7ce292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salafi Jihadism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -269,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Salafi Jihadism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Salafi Jihadism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md"
+                "file": "Salafi Jihadism.md"
               }
             }
           },
@@ -364,10 +377,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f5b1a482abd72f6",
+  "active": "f2f75b227c7ce292",
   "lastOpenFiles": [
-    "Why abandon proprietary technology.md",
     "My Ideas on solving the Arab-Israel conflict.md",
+    "Why abandon proprietary technology.md",
     "Free Subdomain Services.md",
     "World Building/Philosophy/Smell.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",

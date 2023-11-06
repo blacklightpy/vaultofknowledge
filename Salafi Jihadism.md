@@ -3,9 +3,9 @@
 - salaf: They refer to the first three generations of Muslims.
 - Salafism: A conservative belief system that says Muslims should follow the Quran, Sunnah and Ijma (consensus) of the salaf.
 	- They are generally classified into three types
-	- 1. Purists/Quetists
-	- 2. Activitsts
-	- 3. Jihadists
+	- 1) Purists/Quetists
+	- 2) Activitsts
+	- 3) Jihadists
 - Jihadism: Attempt to establish Islamism by force
 - Salafi Jihadism/jihadist-Salafism: The correct term for these attacks
 - Global Jihad: Jihadism with an international pan-Islamist scope.
