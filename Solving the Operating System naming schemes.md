@@ -4,7 +4,10 @@ It is true that the Linux kernel by itself is just a kernel, and not an OS, but 
 
 For the sake of pragmatism, one can either call these systems by entirely different names - for example, GNU/Linux could just be called Swash. But this differentiates them from other systems like GNU/kFreeBSD.
 
-Another problem is that, some people argue that if GNU is to be given importance, we should have to give importance to many other projects that make up a Linux distribution, like GNU/Linux/systemd/X/KDE/.. and so on. But speaking with a sense of pragmatism and idealism, GNU deserves a special mention in such distributions because the GNU project is what m
+Another problem is that, some people argue that if GNU is to be given importance, we should have to give importance to many other projects that make up a Linux distribution, like GNU/Linux/systemd/X/KDE/.. and so on. But speaking with a sense of pragmatism and idealism, GNU deserves a special mention in such distributions because the GNU project is what makes such systems be an operating system at the lowest level and not just the Linux kernel. So the name of the operating system would have to include GNU and Linux. For systems that don't use the GNU userland, Stallman hasn't given any rules, and projects like Android and it's derivatives just call themselves whatever they feel like. Alpine Linux is an example that retains the name Linux.
+
+To standardize this, we can take a look at a system I mentioned earlier - Debian GNU/kFreeBSD. The "k" in kFreeBSD stands for kernel, and since 
+
 
 We can adopt a naming scheme like u(Userland)/k(Kernel).
 
