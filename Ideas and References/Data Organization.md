@@ -1,7 +1,7 @@
 Tags: #ideas #knowledge-management #database
 
 **Screen utilization**
-Linearly seperated content (A | B | C) saves a lot of screen space in comparison to using bullet points, that too without disregarding whitespaces.
+Horizontally separated content (A | B | C) saves a lot of screen space in comparison to using bullet points, that too without disregarding whitespaces.
 
 **Folders**
 Folders are like boxes. Too many or too less folders and it becomes harder to find data. This means folders must be created in proportion to the notes.
