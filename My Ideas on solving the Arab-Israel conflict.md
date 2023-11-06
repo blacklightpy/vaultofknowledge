@@ -1,3 +1,5 @@
+NOTE: Before I learned about the Arab ethnic cleansing in Israel
+
 Arab nationalism could also lead to Shariah law.
 Religion should stay out of politics.
 Nevertheless, if the countries wish to implement the law among themselves, they can by consensus, without forcing it on other states.
