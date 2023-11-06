@@ -196,14 +196,14 @@
               "type": "markdown",
               "state": {
                 "file": "My Ideas on solving the Arab-Israel conflict.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Why abandon proprietary technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Why abandon proprietary technology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md"
+                "file": "Why abandon proprietary technology.md"
               }
             }
           },
@@ -364,10 +364,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f5b1a482abd72f6",
+  "active": "e6d01a38c9eaaa9a",
   "lastOpenFiles": [
-    "Free Subdomain Services.md",
     "My Ideas on solving the Arab-Israel conflict.md",
+    "Free Subdomain Services.md",
     "Why abandon proprietary technology.md",
     "World Building/Philosophy/Smell.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
