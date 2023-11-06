@@ -203,38 +203,12 @@
             }
           },
           {
-            "id": "3ab24d850c453c94",
+            "id": "a533392f8ab797a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49f7a42c2b14c68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salafi Jihadism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e0e97d8a2c6587a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "Free Subdomain Services.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -308,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "Free Subdomain Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Hardware Projects.md",
+                "file": "Free Subdomain Services.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Hardware Projects.md"
+                "file": "Free Subdomain Services.md"
               }
             }
           },
@@ -383,8 +357,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -403,14 +376,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8e0e97d8a2c6587a",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
-    "Free Hardware Projects.md",
+    "Free Subdomain Services.md",
     "My Ideas on solving the Arab-Israel conflict.md",
-    "Salafi Jihadism.md",
-    "Terrorism.md",
+    "Why abandon proprietary technology.md",
+    "World Building/Philosophy/Smell.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
+    "Salafi Jihadism.md",
+    "Free Hardware Projects.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
+    "Terrorism.md",
     "History/Timeline of Conflicts.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
@@ -419,10 +395,8 @@
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "Literature/Origin of Writing.md",
-    "Why abandon proprietary technology.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
-    "World Building/Philosophy/Smell.md",
     "Untitled.md",
     "Maxwell's Laws of Electromagnetism.md",
     "Quantum Mechanics.md",
@@ -434,7 +408,6 @@
     "History/Periods of Greek History.md",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
     "_images/Sumerian Cuneiform.jpg",
-    "Culture/Muslim Culture.md",
     "_images/MapChart_Map-Israel-Stripe.png",
     "_images/Arab-Israeli Ma.png",
     "_images/MapChart_Map-Cisjordan.png",
