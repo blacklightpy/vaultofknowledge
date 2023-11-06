@@ -1,4 +1,5 @@
-There has been a 
+There has been a naming controversy with the free desktop operating systems, because many of them are built using the Linux kernel, but the rest of the system is usually part of the GNU project. Since they are based on the Linux kernel, many people got used to calling them Linux distributions. Richard Stallman, the founder of the FSF and GNU project however emphasizes that they should be called GNU/Linux distributions to credit the importance of the GNU project in the realization of those operating systems. This however isn't appealing to most consumers as they prefer a simple name, and think that Richard Stallman is being too arrogant with this.
+
 
 We can adopt a naming scheme like u(Userland)/k(Kernel).
 
