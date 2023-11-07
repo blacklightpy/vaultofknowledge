@@ -46,6 +46,10 @@
 - GSM - Global System for Mobile communications, by ETSI (2G)
   - GSM was also based on TDMA (Time Division Multiple Access)
   - GSM base stations (cell towers) are called BTS (Base Transciever Stations).
+  - GERAN (GSM EDGE Radio Access Network) refers to the radio part of GSM/EDGE combined with the network that joins the base stations (Abis and Ater interfaces) with the base station controllers (A interfaces, etc.)
+    - GERAN without EDGE is called GRAN, and without GSM, is called ERAN.
+    - GERAN represents the core of the network, through which the phone calls and packet data are routed from and to the PSTNs (Public Switched Telephone Network) and the internet from the subscribers' handsets.
+    - A mobile phone operator's network consists of one or more GERANs, coupled with UTRANs in the case of a GSM/UMTS network. If LTE is included, it would also include E-UTRANs.
 - cdmaOne - Code Division Multiple Access One (2G)
   - Also known as IS-95 (Interim Standard 95)
   - It is the first technology that made use of the CDMA access method
