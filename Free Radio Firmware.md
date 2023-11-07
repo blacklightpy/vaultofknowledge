@@ -66,6 +66,8 @@
 - IEEE
 # Technologies
 ## 0G
+They were commonly called the car phones due to them mostly being inside cars. The ones that look like landline phones with a handset transciever, but portable rather than wired.
+
 - PTT - Push to Talk / Manual (0G)
 - MTS - Mobile Telephone Service (0G)
 - IMTS - Improved Mobile Telephone Service (0G)
@@ -135,6 +137,7 @@ They are the protocols that meet the IMT Advanced (International Mobile Telecomm
   - WiMAX Release 2.1 / WiMAX Release 2+ is interoperable with LTE-TDD because the bands overlap
 ## 5G
 - 5G NR - 5G New Radio (5G)
+  - Analogous to E-UTRA in 5G is the NG-RA (Next Generation Radio Access), and NG-RA along with the user equipment (UE) and the Node B (the base station, anologous to eNB in LTE, called the Next Generation Node B, gNodeB or gNB) forms the NG-RAN (Next Generation Radio Access Network).
 - WiMAX Release 3 - Worldwide Interoperability for Microwave Access Release 3, interoperable with 5G NR alongside LTE-TDD as introduced in WiMAX Release 2+ (5G)
 - 5G Advanced (5.5G)
 - NB-IoT - Narrow Band IoT (5.5G)
