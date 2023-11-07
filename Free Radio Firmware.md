@@ -2,6 +2,17 @@
 - Pinephone Modem SDK - The modem is not entirely free, but the userspace firmware is free, and the modem is isolated with the non-free components on the flash. 
 
 # Terms
+- RAT - Radio Access Technology
+  - Includes Wi-Fi, Bluetooth, GSM, GPRS, LTE (E-UTRA), 5G NR, etc.
+- Channel access method / Multiple access method -  It refers to the technology used to connect two device terminals for communication
+  - A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
+    - In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
+    - The LLC forms the top part of the data link layer, while MAC deals with the abstraction of the physical layer.
+    - The physical layer, or PHY is connected to the data link layer using a Media-independent Interface (MII)
+      - The MII was originally defined as a standard interface to connect the Fast Ethernet MAC to a PHY chip.
+      - It is standardized by IEEE 802.3u
+  - The five categories of multiple access methods are: FDMA, TDMA, CDMA, SDMA, and Random access (according to Daniel Minoli, in Satellite Systems Engineering in an IPv6 Environment, from page 136-)
+# Technologies
 - Analog (0G)
 - PTT - Push to Talk / Manual (0G)
 - MTS - Mobile Telephone Service (0G)
@@ -15,7 +26,7 @@
 - GSM - Global System for Mobile communications, by ETSI (2G)
 - cdmaOne - Code Division Multiple Access One (2G)
   - Also known as IS-95 (Interim Standard 95)
-  - It is the first technology that made use of the CDMA method
+  - It is the first technology that made use of the CDMA access method
 - ETSI - European Telecommunications Standards Institute
 - GPRS - General Packet Radio Service (2.5G)
 - EDGE - Enhanced Data rates for GSM Evolution (2.75G)
@@ -34,4 +45,9 @@
 - EV-DO Revision A (3.9G/3.95G/4G)
 - EV-DO Revision B (3.9G/3.95G/4G)
 - EV-DO Revision C (3.9G/3.95G/4G)
-- Mobile WiMAX (3.9G/3.95G/4G)
+- Mobile WiMAX - Mobile Worldwide Interoperability for Microwave Access, by IEEE (3.9G/3.95G/4G)
+- LTE Advanced (4G)
+  - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
+- LTE Advanced Pro - Long Term Evolution Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
+- WiMAX - Worldwide Interoperability for Microwave Access, by IEEE (4.9G)
+  - WiBro - South Korean name for Mobile WiMAX, but it evolved to higher speeds
