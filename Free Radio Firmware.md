@@ -119,6 +119,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
     - E-UTRA along with the user equipment (UE) and the Node B (the base stations in LTE, like Node B in UMTS's UTRAN, known as Evolved Node B, eNodeB, or eNB), is referred to as E-UTRAN (Evolved UMTS Terrestrial Radio Access Network).
   - Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
     - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
+  - Orthogonal Frequency Divison Multiplexing (OFDMA) for downlink and SC-FDMA (Single Carrier FDMA) for uplink are the access modes used in LTE.
 - EV-DO Revision A (3.9G/3.95G/4G)
 - EV-DO Revision B (3.9G/3.95G/4G)
 - EV-DO Revision C (3.9G/3.95G/4G)
@@ -138,6 +139,7 @@ They are the protocols that meet the IMT Advanced (International Mobile Telecomm
 ## 5G
 - 5G NR - 5G New Radio (5G)
   - Analogous to E-UTRA in 5G is the NG-RA (Next Generation Radio Access), and NG-RA along with the user equipment (UE) and the Node B (the base station, anologous to eNB in LTE, called the Next Generation Node B, gNodeB or gNB) forms the NG-RAN (Next Generation Radio Access Network).
+  - In addition, 5G also has ng-eNB (Next Generation Evolved Node B) which allows LTE devices to connect to the 5G network, using LTE radio.
 - WiMAX Release 3 - Worldwide Interoperability for Microwave Access Release 3, interoperable with 5G NR alongside LTE-TDD as introduced in WiMAX Release 2+ (5G)
 - 5G Advanced (5.5G)
 - NB-IoT - Narrow Band IoT (5.5G)
