@@ -11,7 +11,17 @@
     - The physical layer, or PHY is connected to the data link layer using a Media-independent Interface (MII)
       - The MII was originally defined as a standard interface to connect the Fast Ethernet MAC to a PHY chip.
       - It is standardized by IEEE 802.3u
+  - A channel access method is based on multiplexing, to allow multiple data streams to share the same channel.
   - The five categories of multiple access methods are: FDMA, TDMA, CDMA, SDMA, and Random access (according to Daniel Minoli, in Satellite Systems Engineering in an IPv6 Environment, from page 136-)
+    - FDMA - Frequency Division Multiple Access
+    - TDMA - Time Division Multiple Access
+    - CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
+    - SDMA - Space Division Multiple Access
+    - Random Access
+  - There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), etc. which are niche methods different from these.
+  - Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
+  - In addition to channel mode, there are also packet mode channel access methods
+  - Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
 # Technologies
 - Analog (0G)
 - PTT - Push to Talk / Manual (0G)
