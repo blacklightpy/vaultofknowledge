@@ -114,11 +114,13 @@ They were commonly called the car phones due to them mostly being inside cars. T
 They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department. There were 5 standards set by IMT-2000, W-CDMA, CDMA2000, TD-SCDMA, EDGE and DECT. EDGE is considered pre-3G, and meets ITU's standards for 3G and is hence considered 3G and standardized under IMT-2000.
 
 - UMTS - Universal Mobile Telecommunications System (3G)
-  - The radio access technology is known as UTRAN (UMTS Terrestrial Radio Access / Universal Terrestrial Radio Access).
+  - UMTS comprises of three air interfaces, GSM's Mobile Application Part (MAP) (the caller, SMS, services, etc.) and the GSM family of speech codecs.
+  - The radio access technology is known as UTRA (UMTS Terrestrial Radio Access / Universal Terrestrial Radio Access). It defines three air interfaces - W-CDMA, TD-CDMA and TD-SCDMA. All three of them are standardized under the IMT-2000 standards.
     - UTRA along with the user equipment (UE) and the Node B (the base stations in UMTS, like BTS in GSM) is referred to as UTRAN (UMTS Terrestrial Radio Access Network / Universal Terrestrial Radio Access Network)
     - In UTRA, we use channel duplexing for the base station and receiving station to have simulataneous access to the medium.
       - UTRA-FDD uses W-CDMA (Wideband Code Division Multiple Access) with Direct Sequence Spread Spectrum (DSSS) as the air interface. The standardization of W-CDMA is called IMT-2000 CDMA Direct Spread.
-      - UTRA-TDD uses TD-CDMA and TD-SCDMA as the air interfaces. Both air interfaces a combination of the CDMA and TDMA access modes. TD-CDMA and TD-SCDMA are standardized under IMT-2000 CDMA TDD or IMT-2000 Time Division (IMT-TD).
+      - UTRA-TDD uses TD-CDMA and TD-SCDMA as the air interfaces. Both air interfaces a combination of the CDMA and TDMA access modes. Both TD-CDMA and TD-SCDMA are standardized under IMT-2000 CDMA TDD or IMT-2000 Time Division (IMT-TD).
+        - UMTS's HSUPA and HSDPA enhancements are also implemented under TD-CDMA.
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
   - The EV-DO family is standardized as IS-856
