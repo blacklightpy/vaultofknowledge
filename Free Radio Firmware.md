@@ -1,12 +1,26 @@
 - OsmocommBB is a free and open source GSM baseband firmware project. It is recognized by Replicant, but it only supports the OpenMoko GTA01 and GTA02 phones as of now. It also has support for SIMCom SIM800 module.
 - Pinephone Modem SDK - The modem is not entirely free, but the userspace firmware is free, and the modem is isolated with the non-free components on the flash. 
 
-Terms:
-GSM - Global System for Mobile communications, by ETSI (2G)
-ETSI - European Telecommunications Standards Institute
-GPRS - General Packet Radio Service (2G)
-EDGE - Enhanced Data rates for GSM Evolution (2.5G)
-UMTS - Universal Mobile Telecommunications System (3G)
-HSPA - High Speed Packet Access (3.5G/3G+) (HS-Downlink/Uplink-PA)
-HSPA+ - Evolved High Speed Packet Access (3.75G)
-LTE - Long Term Evolution (4G)
+# Terms
+- Analog (0G)
+- PTT - Push to Talk / Manual (0G)
+- MTS - Mobile Telephone Service (0G)
+- IMTS - Improved Mobile Telephone Service (0G)
+- RCC - Radio Common Carrier (0G)
+- AMTS - Advanced Mobile Telephone System (0G)
+- D-AMTS - Digital Advanced Mobile Telephone System (1.5G)
+  - IS-54 - Interim Standard 54
+  - IS-136 - Interim Standard 136
+- GSM - Global System for Mobile communications, by ETSI (2G)
+- ETSI - European Telecommunications Standards Institute
+- GPRS - General Packet Radio Service (2.5G)
+- EDGE - Enhanced Data rates for GSM Evolution (2.75G)
+- CDMA2000 1X - Code Division Multiple Access 2000 (2.9G/3G)
+  - CDMA2000 is also known as C2K or IMT-MC (IMT Multi-Carrier)
+  - CDMA2000 1X is also known as 1x or 1xRTT (1x Radio Transmission Technology)
+    - 1xRTT means the same radio frequency bandwidth as the older Interim Standard 95 (IS-95)
+      - IS-95 is also known as cdmaOne, and it is the first technology that made use of CDMA method.
+- UMTS - Universal Mobile Telecommunications System (3G)
+- HSPA - High Speed Packet Access (3.5G/3G+) (HS-Downlink/Uplink-PA)
+- HSPA+ - Evolved High Speed Packet Access (3.75G)
+- LTE - Long Term Evolution (3.9G/3.95G/4G)
