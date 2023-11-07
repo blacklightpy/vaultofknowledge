@@ -38,16 +38,31 @@
 - MMI Code - Man-Machine Interface Code. It includes USSD, SS and SIM unlock codes. The complete specification is defined by 3GPP [here](http://www.etsi.org/deliver/etsi_ts/122000_122099/122030/10.00.00_60/ts_122030v100000p.pdf).
   - USSD codes - Unstructured Supplimentary Service Data codes
     - They are the normal cellular network service codes used for WAP, balance checks, recharging, ringtones, etc.
+    - These codes have to be sent, rather than just typed.
   - SS codes - Supplimentary Service codes
     - For example, the call forwarding function is invoked by dialling `*21*123456789#`, which forwards all calls to the number 123456789. The SS code here is not directly sent to the network, but is parsed by the phone which constructs an ASN.1 coded request to the network. This code is common to all phones.
+      - ANS.1 is a popular protocol in data encoding, which is used in a wide number of protocols including WiMAX 2, 5G, LDAP, SS7, etc.
+        - The UAE PM's daughter was abducted in 2018 by tracking her using an SS7 vulnerability.
+    - These codes too have to be "sent", rather than just typed.
   - Manufacturer defined MMI Codes - Samsung has for example a set of codes. The IMEI code, *#06# is mandatory for all phones.
+    - These codes only have to be typed.
   - SIM Unlock codes - Used to change SIM PIN codes, etc.
+    - These codes too, only have to be typed.
 - WAP - Wireless Application Protocol, a protocol for transferring information over cellular networks based on the Wireless Markup Language (WML). Nowadays, all browsers support the Hyper-Text Markup Language (HTML).
   - i-mode - An alternative to WAP, implemented in Japan by NTT Docomo
+- SIM - Subscriber Identity Module
+  - In the GSM-only days, the SIM was both the hardware and the software. But with UMTS, the SIM is only software.
+  - The software part of the SIM used to be called just the SIM application in GSM, but with UMTS networks, it was called USIM (Universal SIM application).
+  - The physical SIM card, which is a smart card, is called UICC (Universal Integrated Circuit Card). A UICC card consists of CPU, ROM, RAM, EEPROM and I/O units.
+  - The UICC form factor is necessary to support older handsets because they won't function with the USIM alone. So the SIM card bundles both the SIM application and the USIM application in GSM/UMTS networks.
+  - In 3GPP2 CDMA network parlance, the physical SIM card was called R-UIM (Removable User Idenitity Module) and the application was called CSIM (CDMA Subscriber Idenitity Module).
+  - An R-UIM card could be inserted to GSM, UMTS and CDMA handsets, and it would work in all of them.
+  - In summary, in a UMTS network, the application is called USIM, in a GSM network it is called the SIM application and in a cdmaOne network, it is called the CSIM application.
+  - In 3G networks, it won't be correct to talk about the USIM, CSIM or SIM applications, since all three applications are running on a UICC card. 
 # Standards Bodies
-- GSM
-- 3GPP
-- 3GPP2
+- GSMA - GSM Association, the body formed to popularize the use of GSM, developed by ETSI. Currently it works on "future networks" (RCS, VoLTE, etc.), "identity" and the "Internet of Things". Although the GSM networks are in decline, the name GSM is carried over to the G technologies derived from it, mostly managed by the 3GPP group.
+- 3GPP - 3rd Generation Partnership Project, the umbrella term associated with standard organizations dealing with GSM (and related 2G and 2.5G standards including GPRS and EDGE), UMTS (and related 3G standards, including HSPA and HSPA+), LTE (and related 4G standards, including LTE Advanced and LTE Advanced Pro), 5G NR (and related 5G standards, including 5G-Advanced). It was developed with the aim of making a 3G mobile phone system based on the 2G GSM system.
+- 3GPP2 - Not to be confused with 3GPP, it is the standards body associated with the competing 3G standard to 3GPP's UMTS, CDMA2000, which is the 3G upgrade to cdmaOne which was popular in the US (and to some extent also in Japan, China, Canada, South Korea and India). Ultra Mobile Broadband (UMB) was the planned 4G successor to CDMA2000, but Qualcomm, the lead sponsor of UMB in 2008 announced they were ending the development and favouring LTE instead. Most countries favoured the GSM/UMTS (GSM family of standards) while some countries (mentioned before) adopted both standards. 3GPP2 had it's last activity in 2013, and they had been dormant ever since, with the website taken down, due to the adoption of LTE a decade prior, and due to the shutdown of CDMA networks.
 - IEEE
 # Technologies
 ## 0G
@@ -57,6 +72,7 @@
 - RCC - Radio Common Carrier (0G)
 - AMTS - Advanced Mobile Telephone System (0G)
 ## 1G
+- NMT - Nordic Mobile Telephony (1G)
 - AMPS - Advanced Mobile Phone System (1G)
 - D-AMPS - Digital Advanced Mobile Phone System (1.5G)
   - IS-54 - Interim Standard 54
