@@ -41,14 +41,16 @@
   - It is the first technology that made use of the CDMA access method
 - ETSI - European Telecommunications Standards Institute
 - GPRS - General Packet Radio Service (2.5G)
-- EDGE - Enhanced Data rates for GSM Evolution (2.75G)
-  - Also known as EGPRS (Evolved General Packet Radio Service)
+- EDGE - Enhanced Data rates for GSM Evolution / Enhanced Data Rates for Global Evolution (2.75G)
+  - Also known as EGPRS (Evolved General Packet Radio Service) and IMT-SC (International Mobile Telecommunications - Single Carrier)
 - CDMA2000 1X - Code Division Multiple Access 2000 (2.9G/3G)
   - CDMA2000 is also known as C2K or IMT-MC (IMT Multi-Carrier)
   - CDMA2000 1X is also known as 1x or 1xRTT (1x Radio Transmission Technology) or IS-2000 (Interim Standard 2000)
     - 1xRTT means the same radio frequency bandwidth as the older Interim Standard 95 (IS-95)
 - CDMA2000 1X Advanced - Code Division Multiple Access 2000 1X Advanced (2.9G/3G)
 ## 3G
+They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department.
+
 - UMTS - Universal Mobile Telecommunications System (3G)
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
@@ -56,18 +58,28 @@
 - HSPA - High Speed Packet Access (3.5G/3G+) (HSDPA/HSUPA - HS-Downlink/Uplink-PA)
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
+  - Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
+    - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
 - EV-DO Revision A (3.9G/3.95G/4G)
 - EV-DO Revision B (3.9G/3.95G/4G)
 - EV-DO Revision C (3.9G/3.95G/4G)
-- Mobile WiMAX - Mobile Worldwide Interoperability for Microwave Access, by IEEE (3.9G/3.95G/4G)
+- WiMAX - Worldwide Interoperability for Microwave Access, by IEEE (3.9G/3.95G/4G)
+  - It is standardized under IEEE 802.16 set of wireless broadband standards
+  - IEEE 802.16 is named WirelessMAN by the IEEE, and is commercialized as WiMAX
+  - Mobile WiMAX - Mobile Worldwide Interoperability for Microwave Access
+  - WiBro - South Korean name for Mobile WiMAX, but it evolved to higher speeds
 ## 4G
-- LTE Advanced (4G)
+They are the protocols that meet the IMT Advanced (International Mobile Telecommunications Advanced) specifications set by the ITU under the ITU-R department. But in Turkey, these, including LTE Advanced were called 4.5G. Because of market pressures, and the improvements the technologies brought over 3G, WiMAX, HSPA+ and 
+
+- LTE Advanced (4.5G)
   - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
 - LTE Advanced Pro - Long Term Evolution Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
-- WiMAX - Worldwide Interoperability for Microwave Access, by IEEE (4.9G)
-  - WiBro - South Korean name for Mobile WiMAX, but it evolved to higher speeds
+- WiMAX Release 2 (IEEE 802.16m)
+  - It is also known as WirelessMAN-Advanced, and was aimed at fulfilling the ITU-R IMT-Advanced criteria for 4G systems.
+  - WiMAX Release 2.1 / WiMAX Release 2+ is interoperable with LTE-TDD because the bands overlap
 ## 5G
 - 5G NR - 5G New Radio (5G)
+- WiMAX Release 3 - Worldwide Interoperability for Microwave Access Release 3, interoperable with 5G NR (5G)
 - 5G Advanced (5.5G)
 - NB-IoT - Narrow Band IoT (5.5G)
 - LTE-M - Long Term Evolution - Machine communication (5.5G)
