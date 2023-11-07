@@ -27,10 +27,11 @@
 - UMTS - Universal Mobile Telecommunications System (3G)
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
+  - The EV-DO family is standardized as IS-856
 - HSPA - High Speed Packet Access (3.5G/3G+) (HSDPA/HSUPA - HS-Downlink/Uplink-PA)
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
-- CDMA2000 1xEV-DO Revision A (TIA/EIA/IS-856-A)
-- EV-DO Revision B
-  - TIA/EIA/IS-856-B
-- EV-DO Revision C
+- EV-DO Revision A (3.9G/3.95G/4G)
+- EV-DO Revision B (3.9G/3.95G/4G)
+- EV-DO Revision C (3.9G/3.95G/4G)
+- Mobile WiMAX (3.9G/3.95G/4G)
