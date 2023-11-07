@@ -26,6 +26,8 @@
   - Examples are W-CDMA, E-UTRA
 - World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
 - RNC - Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
+- Abis - The interface between the BTS (Base Transciever Station) and the BSC (Base Station Controller)
+- Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.
 # Technologies
 ## 0G
 - PTT - Push to Talk / Manual (0G)
