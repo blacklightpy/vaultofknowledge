@@ -62,7 +62,8 @@
 They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department.
 
 - UMTS - Universal Mobile Telecommunications System (3G)
-  - The access method is known as UTRAN (UMTS Terrestrial R
+  - The access method is known as UTRAN (UMTS Terrestrial Radio Access / Universal Terrestrial Radio Access).
+    - UTRA along with the user equipment (UE) and the Node B (the base stations in UMTS, like BTS in GSM) is referred to as UTRAN (UMTS Terrestrial Radio Access Network / Universal Terrestrial Radio Access Network)
   - W-CDMA (Wideband Code Division Multiple Access) is the access mode used in UMTS.
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
