@@ -70,7 +70,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
   - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
-    - E-UTRA along with the user equipment (UE) and the Node B (the base stations in LTE, like BTS in GSM, also called Evolved Node B or eNodeB, or eNB), is referred to as E-UTRAN (Evolved UMTS Terrestrial Radio Access Network).
+    - E-UTRA along with the user equipment (UE) and the Node B (the base stations in LTE, like Node B in UMTS's UTRAN, known as Evolved Node B, eNodeB, or eNB), is referred to as E-UTRAN (Evolved UMTS Terrestrial Radio Access Network).
   - Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
     - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
 - EV-DO Revision A (3.9G/3.95G/4G)
