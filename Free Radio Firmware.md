@@ -97,6 +97,7 @@ They were commonly called the car phones due to them mostly being inside cars. T
 - GPRS - General Packet Radio Service (2.5G)
 - EDGE - Enhanced Data rates for GSM Evolution / Enhanced Data Rates for Global Evolution (2.75G)
   - Also known as EGPRS (Evolved General Packet Radio Service) and IMT-SC (International Mobile Telecommunications - Single Carrier)
+- Evolved EDGE / EDGE Evolution (2.875G)
 - CDMA2000 1X - Code Division Multiple Access 2000 (2.9G/3G)
   - CDMA2000 is also known as C2K or IMT-MC (IMT Multi-Carrier)
   - CDMA2000 1X is also known as 1x or 1xRTT (1x Radio Transmission Technology) or IS-2000 (Interim Standard 2000)
