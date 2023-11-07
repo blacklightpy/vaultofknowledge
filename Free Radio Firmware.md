@@ -25,6 +25,7 @@
 - Air interface - Air interface or access mode is the link between two terminals in a wireless communication. While a channel access mode defines a single method (for example, a variant of CDMA), air interface (or access mode) standards include a wide range of standards related to the communications.
   - Examples are W-CDMA, E-UTRA
 - World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
+- RNC - Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
 # Technologies
 ## 0G
 - PTT - Push to Talk / Manual (0G)
@@ -42,6 +43,7 @@
 ## 2G
 - GSM - Global System for Mobile communications, by ETSI (2G)
   - GSM was also based on TDMA (Time Division Multiple Access)
+  - GSM base stations (cell towers) are called BTS (Base Transciever Stations).
 - cdmaOne - Code Division Multiple Access One (2G)
   - Also known as IS-95 (Interim Standard 95)
   - It is the first technology that made use of the CDMA access method
@@ -66,7 +68,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
   - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
-    - E-UTRA along with the user equipment (UE) and the Node B (the base transceiver station, also called Evolved Node B or eNodeB, or eNB in LTE networks), is referred to as E-UTRAN (Evolved UMTS Terrestrial Radio Access Network).
+    - E-UTRA along with the user equipment (UE) and the Node B (the base stations in LTE, like BTS in GSM, also called Evolved Node B or eNodeB, or eNB), is referred to as E-UTRAN (Evolved UMTS Terrestrial Radio Access Network).
   - Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
     - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
 - EV-DO Revision A (3.9G/3.95G/4G)
