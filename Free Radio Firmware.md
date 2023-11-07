@@ -29,8 +29,21 @@
   - Examples are W-CDMA, E-UTRA
 - World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
 - RNC - Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
-- Abis - The interface between the BTS (Base Transciever Station) and the BSC (Base Station Controller)
-- Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.
+- Base Station Subsystem - It is the part of a cellular network which is responsible for handling traffic between a mobile phone and a network switching subsystem, like PSTN.
+  - It is comprised of the BTS (Base Transciever Station) and the BSC (Base Station Controller). A later addition to the GSM standard is the Packet Control Unit (PCU).
+  - Interfaces include Um, Abis, A, Ater and Gb (Image: https://en.wikipedia.org/wiki/File:Gsm_structures.svg)
+  - Abis - The interface between the BTS and the BSC.
+  - Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.
+  - More info on Wikipedia.
+- MMI Code - Man-Machine Interface Code. It includes USSD, SS and SIM unlock codes. The complete specification is defined by 3GPP [here](http://www.etsi.org/deliver/etsi_ts/122000_122099/122030/10.00.00_60/ts_122030v100000p.pdf).
+  - USSD codes - Unstructured Supplimentary Service Data codes
+    - They are the normal cellular network service codes used for WAP, balance checks, recharging, ringtones, etc.
+  - SS codes - Supplimentary Service codes
+    - For example, the call forwarding function is invoked by dialling `*21*123456789#`, which forwards all calls to the number 123456789. The SS code here is not directly sent to the network, but is parsed by the phone which constructs an ASN.1 coded request to the network. This code is common to all phones.
+  - Manufacturer defined MMI Codes - Samsung has for example a set of codes. The IMEI code, *#06# is mandatory for all phones.
+  - SIM Unlock codes - Used to change SIM PIN codes, etc.
+- WAP - Wireless Application Protocol, a protocol for transferring information over cellular networks based on the Wireless Markup Language (WML). Nowadays, all browsers support the Hyper-Text Markup Language (HTML).
+  - i-mode - An alternative to WAP, implemented in Japan by NTT Docomo
 # Standards Bodies
 - GSM
 - 3GPP
