@@ -85,7 +85,7 @@ They were commonly called the car phones due to them mostly being inside cars. T
 - GSM - Global System for Mobile communications, by ETSI (2G)
   - GSM was also based on TDMA (Time Division Multiple Access)
   - GSM base stations (cell towers) are called BTS (Base Transciever Stations).
-  - GERAN (GSM EDGE Radio Access Network) refers to the radio part of GSM/EDGE combined with the network that joins the base stations (Abis and Ater interfaces) with the base station controllers (A interfaces, etc.)
+  - GERAN (GSM EDGE Radio Access Network) is the radio access technology in GSM/EDGE, and it refers to the radio part of GSM/EDGE combined with the network that joins the base stations (Abis and Ater interfaces) with the base station controllers (A interfaces, etc.)
     - It is a key part of GSM, and also of combined networks like GSM/UMTS and GSM/UMTS/LTE.
     - GERAN without EDGE is called GRAN, and without GSM, is called ERAN.
     - GERAN represents the core of the network, through which the phone calls and packet data are routed from and to the PSTNs (Public Switched Telephone Network) and the internet from the subscribers' handsets.
@@ -106,7 +106,7 @@ They were commonly called the car phones due to them mostly being inside cars. T
 They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department.
 
 - UMTS - Universal Mobile Telecommunications System (3G)
-  - The access method is known as UTRAN (UMTS Terrestrial Radio Access / Universal Terrestrial Radio Access).
+  - The radio access technology is known as UTRAN (UMTS Terrestrial Radio Access / Universal Terrestrial Radio Access).
     - UTRA along with the user equipment (UE) and the Node B (the base stations in UMTS, like BTS in GSM) is referred to as UTRAN (UMTS Terrestrial Radio Access Network / Universal Terrestrial Radio Access Network)
   - W-CDMA (Wideband Code Division Multiple Access) is the access mode used in UMTS.
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
@@ -115,7 +115,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
 - HSPA - High Speed Packet Access (3.5G/3G+) (HSDPA/HSUPA - HS-Downlink/Uplink-PA)
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
-  - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
+  - The radio access technology is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
     - E-UTRA along with the user equipment (UE) and the Node B (the base stations in LTE, like Node B in UMTS's UTRAN, known as Evolved Node B, eNodeB, or eNB), is referred to as E-UTRAN (Evolved UMTS Terrestrial Radio Access Network).
   - Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
     - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
@@ -138,7 +138,7 @@ They are the protocols that meet the IMT Advanced (International Mobile Telecomm
   - WiMAX Release 2.1 / WiMAX Release 2+ is interoperable with LTE-TDD because the bands overlap
 ## 5G
 - 5G NR - 5G New Radio (5G)
-  - Analogous to E-UTRA in 5G is the NG-RA (Next Generation Radio Access), and NG-RA along with the user equipment (UE) and the Node B (the base station, anologous to eNB in LTE, called the Next Generation Node B, gNodeB or gNB) forms the NG-RAN (Next Generation Radio Access Network).
+  - The radio access technology in 5G is the NG-RA (Next Generation Radio Access), and NG-RA along with the user equipment (UE) and the Node B (the base station, anologous to eNB in LTE, called the Next Generation Node B, gNodeB or gNB) forms the NG-RAN (Next Generation Radio Access Network).
   - In addition, 5G also has ng-eNB (Next Generation Evolved Node B) which allows LTE devices to connect to the 5G network, using LTE radio.
 - WiMAX Release 3 - Worldwide Interoperability for Microwave Access Release 3, interoperable with 5G NR alongside LTE-TDD as introduced in WiMAX Release 2+ (5G)
 - 5G Advanced (5.5G)
