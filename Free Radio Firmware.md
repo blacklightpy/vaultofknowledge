@@ -69,7 +69,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
   - Mobile WiMAX - Mobile Worldwide Interoperability for Microwave Access
   - WiBro - South Korean name for Mobile WiMAX, but it evolved to higher speeds
 ## 4G
-They are the protocols that meet the IMT Advanced (International Mobile Telecommunications Advanced) specifications set by the ITU under the ITU-R department. But in Turkey, these, including LTE Advanced were called 4.5G. Because of market pressures, and the improvements the technologies brought over 3G, WiMAX, HSPA+ and 
+They are the protocols that meet the IMT Advanced (International Mobile Telecommunications Advanced) specifications set by the ITU under the ITU-R department. But in Turkey, these, including LTE Advanced were called 4.5G. Because of market pressures, and the improvements the technologies brought over 3G, WiMAX, HSPA+ and LTE were added to the definition of 4G.
 
 - LTE Advanced (4.5G)
   - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
@@ -79,7 +79,7 @@ They are the protocols that meet the IMT Advanced (International Mobile Telecomm
   - WiMAX Release 2.1 / WiMAX Release 2+ is interoperable with LTE-TDD because the bands overlap
 ## 5G
 - 5G NR - 5G New Radio (5G)
-- WiMAX Release 3 - Worldwide Interoperability for Microwave Access Release 3, interoperable with 5G NR (5G)
+- WiMAX Release 3 - Worldwide Interoperability for Microwave Access Release 3, interoperable with 5G NR alongside LTE-TDD as introduced in WiMAX Release 2+ (5G)
 - 5G Advanced (5.5G)
 - NB-IoT - Narrow Band IoT (5.5G)
 - LTE-M - Long Term Evolution - Machine communication (5.5G)
