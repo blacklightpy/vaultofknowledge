@@ -3,7 +3,7 @@
 
 # Terms
 - RAT - Radio Access Technology
-  - Includes Wi-Fi, Bluetooth, GSM, GPRS, LTE (E-UTRA), 5G NR, etc.
+  - Includes Wi-Fi, Bluetooth, GSM, GPRS, UMTS (UTRA), LTE (E-UTRA), 5G NR, etc.
 - Channel access method / Multiple access method -  It refers to the technology used to connect two terminals for communication
   - A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
     - In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
@@ -62,6 +62,7 @@
 They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department.
 
 - UMTS - Universal Mobile Telecommunications System (3G)
+  - The access method is known as UTRAN (UMTS Terrestrial R
   - W-CDMA (Wideband Code Division Multiple Access) is the access mode used in UMTS.
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
