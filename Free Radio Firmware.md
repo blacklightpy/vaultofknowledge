@@ -31,6 +31,11 @@
 - RNC - Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
 - Abis - The interface between the BTS (Base Transciever Station) and the BSC (Base Station Controller)
 - Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.
+# Standards Bodies
+- GSM
+- 3GPP
+- 3GPP2
+- IEEE
 # Technologies
 ## 0G
 - PTT - Push to Talk / Manual (0G)
@@ -50,6 +55,7 @@
   - GSM was also based on TDMA (Time Division Multiple Access)
   - GSM base stations (cell towers) are called BTS (Base Transciever Stations).
   - GERAN (GSM EDGE Radio Access Network) refers to the radio part of GSM/EDGE combined with the network that joins the base stations (Abis and Ater interfaces) with the base station controllers (A interfaces, etc.)
+    - It is a key part of GSM, and also of combined networks like GSM/UMTS and GSM/UMTS/LTE.
     - GERAN without EDGE is called GRAN, and without GSM, is called ERAN.
     - GERAN represents the core of the network, through which the phone calls and packet data are routed from and to the PSTNs (Public Switched Telephone Network) and the internet from the subscribers' handsets.
     - A mobile phone operator's network consists of one or more GERANs, coupled with UTRANs in the case of a GSM/UMTS network. If LTE is included, it would also include E-UTRANs.
