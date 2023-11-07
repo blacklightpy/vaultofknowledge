@@ -61,3 +61,8 @@
 - LTE Advanced Pro - Long Term Evolution Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
 - WiMAX - Worldwide Interoperability for Microwave Access, by IEEE (4.9G)
   - WiBro - South Korean name for Mobile WiMAX, but it evolved to higher speeds
+- 5G NR - 5G New Radio (5G)
+- 5G Advanced (5.5G)
+- NB-IoT - Narrow Band IoT (5.5G)
+- LTE-M - Long Term Evolution - Machine communication (5.5G)
+  - Also known as LTE-MTC (Long Term Evolution Machine Type Communication)
