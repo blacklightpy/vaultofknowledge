@@ -4,7 +4,7 @@
 # Terms
 - RAT - Radio Access Technology
   - Includes Wi-Fi, Bluetooth, GSM, GPRS, LTE (E-UTRA), 5G NR, etc.
-- Channel access method / Multiple access method -  It refers to the technology used to connect two device terminals for communication
+- Channel access method / Multiple access method -  It refers to the technology used to connect two terminals for communication
   - A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
     - In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
     - The LLC forms the top part of the data link layer, while MAC deals with the abstraction of the physical layer.
@@ -22,6 +22,8 @@
   - Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
   - In addition to channel mode, there are also packet mode channel access methods
   - Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
+- Air interface - Air interface or access mode is the link between two terminals in a wireless communication
+- World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
 # Technologies
 ## 0G
 - PTT - Push to Talk / Manual (0G)
@@ -30,12 +32,15 @@
 - RCC - Radio Common Carrier (0G)
 - AMTS - Advanced Mobile Telephone System (0G)
 ## 1G
-- D-AMTS - Digital Advanced Mobile Telephone System (1.5G)
+- AMPS - Advanced Mobile Phone System (1G)
+- D-AMPS - Digital Advanced Mobile Phone System (1.5G)
   - IS-54 - Interim Standard 54
   - IS-136 - Interim Standard 136
   - Note: Interim Standards are published by the Telecommunications Industry Association (TIA) and Electronic Industries Alliance (EIA), and are fully named TIA/EIA/IS standards.
+  - It is also most commonly referred to as TDMA (Time Division Multiple Access)
 ## 2G
 - GSM - Global System for Mobile communications, by ETSI (2G)
+  - GSM was also based on TDMA (Time Division Multiple Access)
 - cdmaOne - Code Division Multiple Access One (2G)
   - Also known as IS-95 (Interim Standard 95)
   - It is the first technology that made use of the CDMA access method
@@ -52,6 +57,7 @@
 They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department.
 
 - UMTS - Universal Mobile Telecommunications System (3G)
+  - W-CDMA (Wideband Code Division Multiple Access) is the access mode used in UMTS.
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
   - The EV-DO family is standardized as IS-856
