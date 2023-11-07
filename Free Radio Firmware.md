@@ -65,7 +65,7 @@
 - 3GPP2 - Not to be confused with 3GPP, it is the standards body associated with the competing 3G standard to 3GPP's UMTS, CDMA2000, which is the 3G upgrade to cdmaOne which was popular in the US (and to some extent also in Japan, China, Canada, South Korea and India). Ultra Mobile Broadband (UMB) was the planned 4G successor to CDMA2000, but Qualcomm, the lead sponsor of UMB in 2008 announced they were ending the development and favouring LTE instead. Most countries favoured the GSM/UMTS (GSM family of standards) while some countries (mentioned before) adopted both standards. 3GPP2 had it's last activity in 2013, and they had been dormant ever since, with the website taken down, due to the adoption of LTE a decade prior, and due to the shutdown of CDMA networks.
 - IEEE
 # Technologies
-## 0G
+## 0G (Analog Telecommunications)
 They were commonly called the car phones due to them mostly being inside cars. The ones that look like landline phones with a handset transciever, but portable rather than wired.
 
 - PTT - Push to Talk / Manual (0G)
@@ -81,7 +81,8 @@ They were commonly called the car phones due to them mostly being inside cars. T
   - IS-136 - Interim Standard 136
   - Note: Interim Standards are published by the Telecommunications Industry Association (TIA) and Electronic Industries Alliance (EIA), and are fully named TIA/EIA/IS standards.
   - It is also most commonly referred to as TDMA (Time Division Multiple Access)
-## 2G
+  - It is also considered 2G, since it started the transition from analog to digital communications.
+## 2G (Digital Telecommunications)
 - GSM - Global System for Mobile communications, by ETSI (2G)
   - GSM was also based on TDMA (Time Division Multiple Access)
   - GSM base stations (cell towers) are called BTS (Base Transciever Stations).
