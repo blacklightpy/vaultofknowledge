@@ -6,7 +6,11 @@
 
 # Terms
 - RAT - Radio Access Technology
-  - Includes Wi-Fi, Bluetooth, GSM, GPRS, UMTS (UTRA), LTE (E-UTRA), 5G NR, etc.
+  - Includes Wi-Fi, Bluetooth, GSM, GPRS, UMTS, LTE, 5G NR, etc.
+- RAN - Radio Access Network is a system implementing a RAT. It includes the user equipment (UE) and the cellular base station, and connects you to the core network (CN).
+  - Includes GRAN (GSM), GERAN (GSM/EDGE), UTRAN (UMTS), E-UTRAN (LTE)
+- User Equipment - The devices on the side of the user
+  - Includes the Mobile Handset and the SIM card.
 - Channel access method / Multiple access method -  It refers to the technology used to connect two terminals for communication
   - A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
     - In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
@@ -97,20 +101,24 @@ They were commonly called the car phones due to them mostly being inside cars. T
 - ETSI - European Telecommunications Standards Institute
 - GPRS - General Packet Radio Service (2.5G)
 - EDGE - Enhanced Data rates for GSM Evolution / Enhanced Data Rates for Global Evolution (2.75G)
-  - Also known as EGPRS (Evolved General Packet Radio Service) and IMT-SC (International Mobile Telecommunications - Single Carrier)
+  - Also known as EGPRS (Evolved General Packet Radio Service)
+  - It is standardized as IMT-2000 TDMA Single Carrier or IMT-SC for short.
 - Evolved EDGE / EDGE Evolution, a lower latency evolution of EDGE (2.875G)
 - CDMA2000 1X - Code Division Multiple Access 2000 (2.9G/3G)
-  - CDMA2000 is also known as C2K or IMT-MC (IMT Multi-Carrier)
+  - CDMA2000 is also known as C2K and is a family of 3G standards, developed as backwards compatible with the 2G cdmaOne standard.
+  - It is standardized as IMT-2000 CDMA Multi Carrier or IMT-MC for short.
   - CDMA2000 1X is also known as 1x or 1xRTT (1x Radio Transmission Technology) or IS-2000 (Interim Standard 2000)
     - 1xRTT means the same radio frequency bandwidth as the older Interim Standard 95 (IS-95)
 - CDMA2000 1X Advanced - Code Division Multiple Access 2000 1X Advanced (2.9G/3G)
 ## 3G
-They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department.
+They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department. There were 5 standards set by IMT-2000, W-CDMA, CDMA2000, TD-SCDMA, EDGE and DECT. EDGE is considered pre-3G, and meets ITU's standards for 3G and is hence considered 3G and standardized under IMT-2000.
 
 - UMTS - Universal Mobile Telecommunications System (3G)
   - The radio access technology is known as UTRAN (UMTS Terrestrial Radio Access / Universal Terrestrial Radio Access).
     - UTRA along with the user equipment (UE) and the Node B (the base stations in UMTS, like BTS in GSM) is referred to as UTRAN (UMTS Terrestrial Radio Access Network / Universal Terrestrial Radio Access Network)
-  - W-CDMA (Wideband Code Division Multiple Access) is the access mode used in UMTS.
+    - In UTRA, we use channel duplexing for the base station and receiving station to have simulataneous access to the medium.
+      - UTRA-FDD uses W-CDMA (Wideband Code Division Multiple Access) with Direct Sequence Spread Spectrum (DSSS) as the air interface. The standardization of W-CDMA is called IMT-2000 CDMA Direct Spread.
+      - UTRA-TDD uses TD-CDMA and TD-SCDMA as the air interfaces. Both air interfaces a combination of the CDMA and TDMA access modes. TD-CDMA and TD-SCDMA are standardized under IMT-2000 CDMA TDD or IMT-2000 Time Division (IMT-TD).
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
   - The EV-DO family is standardized as IS-856
