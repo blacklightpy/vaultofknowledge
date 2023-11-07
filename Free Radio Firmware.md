@@ -22,7 +22,8 @@
   - Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
   - In addition to channel mode, there are also packet mode channel access methods
   - Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
-- Air interface - Air interface or access mode is the link between two terminals in a wireless communication
+- Air interface - Air interface or access mode is the link between two terminals in a wireless communication. While a channel access mode defines a single method (for example, a variant of CDMA), air interface (or access mode) standards include a wide range of standards related to the communications.
+  - Examples are W-CDMA, E-UTRA
 - World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
 # Technologies
 ## 0G
@@ -64,6 +65,8 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
 - HSPA - High Speed Packet Access (3.5G/3G+) (HSDPA/HSUPA - HS-Downlink/Uplink-PA)
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
+  - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
+    - E-UTRA along with the user equipment (UE) and the Node B (the base transceiver station, also called Evolved Node B or eNodeB, or eNB in LTE networks), is referred to as E-UTRAN.
   - Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
     - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
 - EV-DO Revision A (3.9G/3.95G/4G)
@@ -78,7 +81,6 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
 They are the protocols that meet the IMT Advanced (International Mobile Telecommunications Advanced) specifications set by the ITU under the ITU-R department. But in Turkey, these, including LTE Advanced were called 4.5G. Because of market pressures, and the improvements the technologies brought over 3G, WiMAX, HSPA+ and LTE were added to the definition of 4G.
 
 - LTE Advanced (4.5G)
-  - The access method is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
 - LTE Advanced Pro - Long Term Evolution Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
 - WiMAX Release 2 (IEEE 802.16m)
   - It is also known as WirelessMAN-Advanced, and was aimed at fulfilling the ITU-R IMT-Advanced criteria for 4G systems.
