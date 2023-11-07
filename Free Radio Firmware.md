@@ -72,3 +72,5 @@
 - NB-IoT - Narrow Band IoT (5.5G)
 - LTE-M - Long Term Evolution - Machine communication (5.5G)
   - Also known as LTE-MTC (Long Term Evolution Machine Type Communication)
+## 6G
+Millimeter waves (30-300 GHz, and according to some speculations, terahertz radiations (300-3000 GHz) may also be used in 6G)
