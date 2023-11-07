@@ -125,6 +125,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
   - The EV-DO family is standardized as IS-856
 - HSPA - High Speed Packet Access (3.5G/3G+) (HSDPA/HSUPA - HS-Downlink/Uplink-PA)
+  - It was an upgrade to UMTS
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
   - The radio access technology is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
