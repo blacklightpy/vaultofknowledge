@@ -11,6 +11,7 @@
 - D-AMTS - Digital Advanced Mobile Telephone System (1.5G)
   - IS-54 - Interim Standard 54
   - IS-136 - Interim Standard 136
+  - Note: Interim Standards are published by the Telecommunications Industry Association (TIA) and Electronic Industries Alliance (EIA), and are fully named TIA/EIA/IS standards.
 - GSM - Global System for Mobile communications, by ETSI (2G)
 - cdmaOne - Code Division Multiple Access One (2G)
   - Also known as IS-95 (Interim Standard 95)
@@ -20,9 +21,16 @@
 - EDGE - Enhanced Data rates for GSM Evolution (2.75G)
 - CDMA2000 1X - Code Division Multiple Access 2000 (2.9G/3G)
   - CDMA2000 is also known as C2K or IMT-MC (IMT Multi-Carrier)
-  - CDMA2000 1X is also known as 1x or 1xRTT (1x Radio Transmission Technology)
+  - CDMA2000 1X is also known as 1x or 1xRTT (1x Radio Transmission Technology) or IS-2000 (Interim Standard 2000)
     - 1xRTT means the same radio frequency bandwidth as the older Interim Standard 95 (IS-95)
+- CDMA2000 1X Advanced - Code Division Multiple Access 2000 1X Advanced (2.9G/3G)
 - UMTS - Universal Mobile Telecommunications System (3G)
-- HSPA - High Speed Packet Access (3.5G/3G+) (HS-Downlink/Uplink-PA)
+- CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
+  - CDMA2000 1X EV-DO may also be just called EV-DO or EV
+- HSPA - High Speed Packet Access (3.5G/3G+) (HSDPA/HSUPA - HS-Downlink/Uplink-PA)
 - HSPA+ - Evolved High Speed Packet Access (3.75G)
 - LTE - Long Term Evolution (3.9G/3.95G/4G)
+- CDMA2000 1xEV-DO Revision A (TIA/EIA/IS-856-A)
+- EV-DO Revision B
+  - TIA/EIA/IS-856-B
+- EV-DO Revision C
