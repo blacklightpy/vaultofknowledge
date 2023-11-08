@@ -2,7 +2,7 @@
   - How patent laws affect open-source projects like OpenMoko, OpenBTS, OsmocommBB, GNU, etc.
  
 - OsmocommBB is a free and open source GSM baseband firmware project. It is recognized by Replicant, but it only supports the OpenMoko GTA01 and GTA02 phones as of now. It also has support for SIMCom SIM800 module.
-- Pinephone Modem SDK - The modem is not entirely free, but the userspace firmware is free, and the modem is isolated with the non-free components on the flash. 
+- Community Pinephone Modem SDK - The modem is not entirely free, but the userspace firmware is free, and the modem is isolated with the non-free components on the flash. Link: https://github.com/the-modem-distro/pinephone_modem_sdk
 
 # Terms
 - RAT - Radio Access Technology
