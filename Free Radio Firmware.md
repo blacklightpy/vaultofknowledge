@@ -71,7 +71,11 @@ sublayers include:
   - In 3GPP2 CDMA network parlance, the physical SIM card was called R-UIM (Removable User Idenitity Module) and the application was called CSIM (CDMA Subscriber Idenitity Module).
   - An R-UIM card could be inserted to GSM, UMTS and CDMA handsets, and it would work in all of them.
   - In summary, in a UMTS network, the application is called USIM, in a GSM network it is called the SIM application and in a cdmaOne network, it is called the CSIM application.
-  - In 3G networks, it won't be correct to talk about the USIM, CSIM or SIM applications, since all three applications are running on a UICC card. 
+  - In 3G networks, it won't be correct to talk about the USIM, CSIM or SIM applications, since all three applications are running on a UICC card.
+- SAE - System Architecture Evolution
+  - It is an evolution of the GPRS Core Network.
+  - It is the core network architecture of the mobile communication protocol group 3GPP's LTE Wireless standard.
+  - It supports mobility between other networks, such as E-UTRAN, GERAN, UTRAN, and even non-3GPP networks like Wi-Fi, WiMAX or CDMA2000. 
 # Standards Bodies
 - GSMA - GSM Association, the body formed to popularize the use of GSM, developed by ETSI. Currently it works on "future networks" (RCS, VoLTE, etc.), "identity" and the "Internet of Things". Although the GSM networks are in decline, the name GSM is carried over to the G technologies derived from it, mostly managed by the 3GPP group.
 - 3GPP - 3rd Generation Partnership Project, the umbrella term associated with standard organizations dealing with GSM (and related 2G and 2.5G standards including GPRS and EDGE), UMTS (and related 3G standards, including HSPA and HSPA+), LTE (and related 4G standards, including LTE Advanced and LTE Advanced Pro), 5G NR (and related 5G standards, including 5G-Advanced). It was developed with the aim of making a 3G mobile phone system based on the 2G GSM system.
