@@ -12,6 +12,7 @@
   - A Radio Access Network consists of one or more Radio Network Systems.
     - A Radio Network System consists of a base station (or Node B in 3G) and a Radio Network Controller (RNC).
   - Includes GRAN (GSM), GERAN (GSM/EDGE), UTRAN (UMTS), E-UTRAN (LTE), NG-RAN (5G NR)
+  - A RAN stack consists of the PHY layer, MAC sublayer, RLC sublayer, PDCP sublayer and the RRC sublayer. External interface layers (connecting to devices) include the Non-Access-Stratum (NAS) and the IP layer.
 - User Equipment - The devices on the side of the user
   - Includes the Mobile Handset and the SIM card.
 - Channel access method / Multiple access method -  It refers to the technology used to connect two terminals for communication
@@ -144,7 +145,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
       - The RNS in E-UTRA only consists of the eNodeB, which functions as both a Node B and an RNC.
     - Like with UTRA, Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
       - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
-    - The air interfaces in E-UTRA are Orthogonal Frequency Divison Multiplexing (OFDMA), with Multiple-Input Multiple-Output (MIMO) antenna technology for downlink and both OFDMA and a precoded version of OFDM called SC-FDMA (Single Carrier FDMA) for uplink.
+    - The air interfaces in E-UTRA are Orthogonal Frequency Divison Multiplexing (OFDMA), with Multiple-Input Multiple-Output (MIMO) antenna technology for downlink and both OFDMA and a precoded version of OFDM called SC-FDMA (Single Carrier FDMA) for uplink. In later releases of LTE, SDMA/MIMO, Single User MIMO (SU-MIMO) and Multi User MIMO (MU-MIMO) are supported for uplink.
 - EV-DO Revision A (3.9G/3.95G/4G)
 - EV-DO Revision B (3.9G/3.95G/4G)
 - EV-DO Revision C (3.9G/3.95G/4G)
