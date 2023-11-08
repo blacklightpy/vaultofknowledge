@@ -159,6 +159,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
   - IEEE 802.16 is named WirelessMAN by the IEEE, and is commercialized as WiMAX
   - Mobile WiMAX - Mobile Worldwide Interoperability for Microwave Access
   - WiBro - South Korean name for Mobile WiMAX, but it evolved to higher speeds
+- DECT - Digital Enhanced Cordless Communications (3.9G/4G)
 ## 4G
 They are the protocols that meet the IMT Advanced (International Mobile Telecommunications Advanced) specifications set by the ITU under the ITU-R department. But in Turkey, these, including LTE Advanced were called 4.5G. Because of market pressures, and the improvements the technologies brought over 3G, WiMAX, HSPA+ and LTE were added to the definition of 4G.
 
@@ -176,5 +177,7 @@ They are the protocols that meet the IMT Advanced (International Mobile Telecomm
 - NB-IoT - Narrow Band IoT (5.5G)
 - LTE-M - Long Term Evolution - Machine communication (5.5G)
   - Also known as LTE-MTC (Long Term Evolution Machine Type Communication)
+- DECT-2020 NR - DECT 2020 New Radio (marketed as New Radio +)
+- EUHT - Enhanced Ultra High Throughput
 ## 6G
 Millimeter waves (30-300 GHz, and according to some speculations, terahertz radiations (300-3000 GHz) may also be used in 6G)
