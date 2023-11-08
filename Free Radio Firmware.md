@@ -144,7 +144,7 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
       - The RNS in E-UTRA only consists of the eNodeB, which functions as both a Node B and an RNC.
     - Like with UTRA, Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
       - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
-    - The air interfaces in E-UTRA are Orthogonal Frequency Divison Multiplexing (OFDMA) for downlink and SC-FDMA (Single Carrier FDMA) for uplink are the access modes used in LTE.
+    - The air interfaces in E-UTRA are Orthogonal Frequency Divison Multiplexing (OFDMA), with Multiple-Input Multiple-Output (MIMO) antenna technology for downlink and both OFDMA and a precoded version of OFDM called SC-FDMA (Single Carrier FDMA) for uplink.
 - EV-DO Revision A (3.9G/3.95G/4G)
 - EV-DO Revision B (3.9G/3.95G/4G)
 - EV-DO Revision C (3.9G/3.95G/4G)
