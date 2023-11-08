@@ -7,7 +7,8 @@
 # Terms
 - RAT - Radio Access Technology
   - Includes Wi-Fi, Bluetooth, GSM, GPRS, UMTS, LTE, 5G NR, etc.
-- RAN - Radio Access Network is a system implementing a RAT. It includes the user equipment (UE) and the cellular base station, and connects you to the core network (CN).
+- RAN - Radio Access Network is a system implementing a RAT. It connects the user equipment (UE) to the core network (CN).
+  - A Radio Access Network consists of one or more Radio Network Systems.
   - Includes GRAN (GSM), GERAN (GSM/EDGE), UTRAN (UMTS), E-UTRAN (LTE)
 - User Equipment - The devices on the side of the user
   - Includes the Mobile Handset and the SIM card.
@@ -25,12 +26,17 @@
     - CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
     - SDMA - Space Division Multiple Access
     - Random Access
-  - There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), etc. which are niche methods different from these.
+  - There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
   - Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
   - In addition to channel mode, there are also packet mode channel access methods
   - Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
-- Air interface - Air interface or access mode is the link between two terminals in a wireless communication. While a channel access mode defines a single method (for example, a variant of CDMA), air interface (or access mode) standards include a wide range of standards related to the communications.
-  - Examples are W-CDMA, E-UTRA
+- Air interface - Air interface or access mode is the link between two terminals in a wireless communication. While a channel access mode defines a single method (for example, a variant of CDMA), air interface (or access mode) standards include a wide range of standards related to the communications. Air interfaces are described as part of radio access technologies (RATs).
+  - Examples are W-CDMA, TD-CDMA, TD-SCDMA, OFDMA
+  - The data link layer of an air interface is often divided farther than the simple MAC and LLC layers. The MAC sublayer is generally unmodified, but the LLC sublayer is often subdivided into two or three sublayers depending on the standard. Common 
+sublayers include:
+    - Radio Link Control (RLC), between the MAC and PDCP sublayers
+    - Packet Data Convergence Protocol (PDCP), on top of the RLC layer
+    - Radio Resource Control (RRC), is on the network layer (layer 3)
 - World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
 - RNC - Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
 - Base Station Subsystem - It is the part of a cellular network which is responsible for handling traffic between a mobile phone and a network switching subsystem, like PSTN.
@@ -121,6 +127,9 @@ They are the protocols that meet the IMT-2000 (International Mobile Telecommunic
       - UTRA-FDD uses W-CDMA (Wideband Code Division Multiple Access) with Direct Sequence Spread Spectrum (DSSS) as the air interface. The standardization of W-CDMA is called IMT-2000 CDMA Direct Spread.
       - UTRA-TDD uses TD-CDMA and TD-SCDMA as the air interfaces. Both air interfaces a combination of the CDMA and TDMA access modes. Both TD-CDMA and TD-SCDMA are standardized under IMT-2000 CDMA TDD or IMT-2000 Time Division (IMT-TD).
         - UMTS's HSUPA and HSDPA enhancements are also implemented under TD-CDMA.
+        - TD-SCDMA was developed by The People's Republic of China. It wasn't as popular as TD-CDMA.
+        - TD-CDMA is closely related to W-CDMA and tries to provide the same type of channels whenever possible.
+        - TD-SCDMA / UMTS-TDD (LCR) networks are incompatible with W-CDMA (UMTS-FDD) and TD-CDMA (UMTS-TDD (HCR)) networks.
 - CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
   - CDMA2000 1X EV-DO may also be just called EV-DO or EV
   - The EV-DO family is standardized as IS-856
