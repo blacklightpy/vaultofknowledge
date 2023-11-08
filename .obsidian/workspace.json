@@ -209,7 +209,7 @@
               "type": "markdown",
               "state": {
                 "file": "Free Radio Firmware.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -379,9 +379,9 @@
   },
   "active": "41da6e8c0c603dc7",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "International Mobile Telephony 2000.md",
     "Free Radio Firmware.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Comparing UX of Operating Systems.md",
     "Z1-Inbox/Interoperability.md",
     "Z1-Inbox/Things I don't understand.md",
