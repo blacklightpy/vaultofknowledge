@@ -1,0 +1,204 @@
+- Read: https://en.wikipedia.org/wiki/GSM#GSM_open-source_software
+  - How patent laws affect open-source projects like OpenMoko, OpenBTS, OsmocommBB, GNU, etc.
+ 
+- OsmocommBB is a free and open source GSM baseband firmware project. It is recognized by Replicant, but it only supports the OpenMoko GTA01 and GTA02 phones as of now. It also has support for SIMCom SIM800 module.
+- Community Pinephone Modem SDK - The modem is not entirely free, but the userspace firmware is free, and the modem is isolated with the non-free components on the flash. Link: https://github.com/the-modem-distro/pinephone_modem_sdk
+- OpenBTS implements the lower three layers of the GSM Protocol Stack as free software.
+
+# Terms
+- RAT - Radio Access Technology
+  - Includes Wi-Fi, Bluetooth, GSM, GPRS, UMTS, LTE, 5G NR, etc.
+  - It describes the air interfaces used by these technologies, such as GERA (or GRA/ERA), UTRA, E-UTRA, NG-RA.
+- RAN - Radio Access Network is a system implementing a RAT. It connects the user equipment (UE) to the core network (CN).
+  - A Radio Access Network consists of one or more Radio Network Systems.
+    - A Radio Network System consists of a base station (or Node B in 3G) and a Radio Network Controller (RNC).
+  - Includes GRAN (GSM), GERAN (GSM/EDGE), UTRAN (UMTS), E-UTRAN (LTE), NG-RAN (5G NR)
+  - A RAN stack consists of the PHY layer, MAC sublayer, RLC sublayer, PDCP sublayer and the RRC sublayer. External interface layers (connecting to devices) include the Non-Access-Stratum (NAS) and the IP layer.
+- User Equipment - The devices on the side of the user
+  - Includes the Mobile Handset and the SIM card.
+- Channel access method / Multiple access method -  It refers to the technology used to connect two terminals for communication
+  - A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
+    - In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
+    - The LLC forms the top part of the data link layer, while MAC deals with the abstraction of the physical layer.
+    - The physical layer, or PHY is connected to the data link layer using a Media-independent Interface (MII)
+      - The MII was originally defined as a standard interface to connect the Fast Ethernet MAC to a PHY chip.
+      - It is standardized by IEEE 802.3u
+  - A channel access method is based on multiplexing, to allow multiple data streams to share the same channel.
+  - The five categories of multiple access methods are: FDMA, TDMA, CDMA, SDMA, and Random access (according to Daniel Minoli, in Satellite Systems Engineering in an IPv6 Environment, from page 136-)
+    - FDMA - Frequency Division Multiple Access
+    - TDMA - Time Division Multiple Access
+    - CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
+    - SDMA - Space Division Multiple Access
+    - Random Access
+  - There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
+  - Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
+  - In addition to channel mode, there are also packet mode channel access methods
+  - Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
+- Air interface - Air interface or access mode is the link between two terminals in a wireless communication. While a channel access mode defines a single method (for example, a variant of CDMA), air interface (or access mode) standards include a wide range of standards related to the communications. Air interfaces are described as part of radio access technologies (RATs).
+  - Examples are W-CDMA, TD-CDMA, TD-SCDMA, OFDMA
+  - The data link layer of an air interface is often divided farther than the simple MAC and LLC layers. The MAC sublayer is generally unmodified, but the LLC sublayer is often subdivided into two or three sublayers depending on the standard. Common 
+sublayers include:
+    - Radio Link Control (RLC), between the MAC and PDCP sublayers
+    - Packet Data Convergence Protocol (PDCP), on top of the RLC layer
+    - Radio Resource Control (RRC), is on the network layer (layer 3)
+- World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
+- RNC - Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
+- Base Station Subsystem - It is the part of a cellular network which is responsible for handling traffic between a mobile phone and a network switching subsystem, like PSTN.
+  - It is comprised of the BTS (Base Transciever Station) and the BSC (Base Station Controller). A later addition to the GSM standard is the Packet Control Unit (PCU).
+  - Interfaces include Um, Abis, A, Ater and Gb (Image: https://en.wikipedia.org/wiki/File:Gsm_structures.svg)
+  - Abis - The interface between the BTS and the BSC.
+  - Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.
+  - More info on Wikipedia.
+- MMI Code - Man-Machine Interface Code. It includes USSD, SS and SIM unlock codes. The complete specification is defined by 3GPP [here](http://www.etsi.org/deliver/etsi_ts/122000_122099/122030/10.00.00_60/ts_122030v100000p.pdf).
+  - USSD codes - Unstructured Supplimentary Service Data codes
+    - They are the normal cellular network service codes used for WAP, balance checks, recharging, ringtones, etc.
+    - These codes have to be sent, rather than just typed.
+  - SS codes - Supplimentary Service codes
+    - For example, the call forwarding function is invoked by dialling `*21*123456789#`, which forwards all calls to the number 123456789. The SS code here is not directly sent to the network, but is parsed by the phone which constructs an ASN.1 coded request to the network. This code is common to all phones.
+      - ANS.1 is a popular protocol in data encoding, which is used in a wide number of protocols including WiMAX 2, 5G, LDAP, SS7, etc.
+        - The UAE PM's daughter was abducted in 2018 by tracking her using an SS7 vulnerability.
+    - These codes too have to be "sent", rather than just typed.
+  - Manufacturer defined MMI Codes - Samsung has for example a set of codes. The IMEI code, *#06# is mandatory for all phones.
+    - These codes only have to be typed.
+  - SIM Unlock codes - Used to change SIM PIN codes, etc.
+    - These codes too, only have to be typed.
+- WAP - Wireless Application Protocol, a protocol for transferring information over cellular networks based on the Wireless Markup Language (WML). Nowadays, all browsers support the Hyper-Text Markup Language (HTML).
+  - i-mode - An alternative to WAP, implemented in Japan by NTT Docomo
+- SIM - Subscriber Identity Module
+  - In the GSM-only days, the SIM was both the hardware and the software. But with UMTS, the SIM is only software.
+  - The software part of the SIM used to be called just the SIM application in GSM, but with UMTS networks, it was called USIM (Universal SIM application).
+  - The physical SIM card, which is a smart card, is called UICC (Universal Integrated Circuit Card). A UICC card consists of CPU, ROM, RAM, EEPROM and I/O units.
+  - The UICC form factor is necessary to support older handsets because they won't function with the USIM alone. So the SIM card bundles both the SIM application and the USIM application in GSM/UMTS networks.
+  - In 3GPP2 CDMA network parlance, the physical SIM card was called R-UIM (Removable User Idenitity Module) and the application was called CSIM (CDMA Subscriber Idenitity Module).
+  - An R-UIM card could be inserted to GSM, UMTS and CDMA handsets, and it would work in all of them.
+  - In summary, in a UMTS network, the application is called USIM, in a GSM network it is called the SIM application and in a cdmaOne network, it is called the CSIM application.
+  - In 3G networks, it won't be correct to talk about the USIM, CSIM or SIM applications, since all three applications are running on a UICC card.
+- SAE - System Architecture Evolution
+  - It is an evolution of the GPRS Core Network.
+  - It is the core network architecture of the mobile communication protocol group 3GPP's LTE Wireless standard.
+  - It supports mobility between other networks, such as E-UTRAN, GERAN, UTRAN, and even non-3GPP networks like Wi-Fi, WiMAX or CDMA2000.
+- NSS - Network Switching Subsystem is the component of a GSM system that carries out call out and mobility management functions for mobile phones roaming on the network of base stations.
+  - It is owned and deployed by mobile phone operators and allows mobile devices to communicate with each other and telephones in the wider public switched telephone network (PSTN)
+  - The NSS architecture specifically is for "mobile" devices and contains features specific for them.
+  - The NSS originally consisted of the GSM core network, which allowed for calls, SMS and Circuit Switched Data (CSD) calls.
+  - It was extended with an overlay architecture to provide packet-switched data services known as the GPRS Core Network. This allowed to have access to WAP, MMS and the Internet.
+  - Parts of the NSS
+    - The mobile switching center (MSC) is the primary service delivery node for GSM/CDMA, responsible for routing voice calls and SMS as well as other services (such as conference calls, FAX, and circuit-switched data).
+      - The MSC sets up and releases the end-to-end connection, handles mobility and hand-over requirements during the call and takes care of charging and real-time prepaid account monitoring.
+      - The MSC connects to the following elements:
+        - The home location register (HLR) for obtaining data about the SIM and mobile services ISDN number (MSISDN; i.e., the telephone number).
+        - The base station subsystems (BSS) which handles the radio communication with 2G and 2.5G mobile phones.
+        - The UMTS terrestrial radio access network (UTRAN) which handles the radio communication with 3G mobile phones.
+        - The visitor location register (VLR) provides subscriber information when the subscriber is outside its home network.
+        - Other MSCs for procedures such as hand over.
+    - The home location register (HLR) is a central database that contains details of each mobile phone subscriber that is authorized to use the GSM core network. There can be several logical, and physical, HLRs per public land mobile network (PLMN), though one international mobile subscriber identity (IMSI)/MSISDN pair can be associated with only one logical HLR (which can span several physical nodes) at a time.
+      - The HLRs store details of every SIM card issued by the mobile phone operator. Each SIM has a unique identifier called an IMSI which is the primary key to each HLR record.
+    - The authentication center (AuC) is a function to authenticate each SIM card that attempts to connect to the gsm core network (typically when the phone is powered on). Once the authentication is successful, the HLR is allowed to manage the SIM and services described above. An encryption key is also generated that is subsequently used to encrypt all wireless communications (voice, SMS, etc.) between the mobile phone and the GSM core network.
+    - The Visitor Location Register (VLR) is a database of the MSs (Mobile stations) that have roamed into the jurisdiction of the Mobile Switching Center (MSC) which it serves. Each main base transceiver station in the network is served by exactly one VLR (one BTS may be served by many MSCs in case of MSC in pool), hence a subscriber cannot be present in more than one VLR at a time.
+    - Equipment Identity Register (EIR) is a system that handles real-time requests to check the IMEI (checkIMEI) of mobile devices that come from the switching equipment (MSC, SGSN, MME).
+  - Lawful Intervention
+    - The US law "Communications Assistance for Law Enforcement Act" (CALEA), also known as the "Digital Telephony Act," is a wiretapping law passed in 1994, during the presidency of Bill Clinton. This approach has been adopted by several other countries. The EFF has filed several lawsuits against extending such forms of domestic surveillance.
+# Standards Bodies
+- GSMA - GSM Association, the body formed to popularize the use of GSM, developed by ETSI. Currently it works on "future networks" (RCS, VoLTE, etc.), "identity" and the "Internet of Things". Although the GSM networks are in decline, the name GSM is carried over to the G technologies derived from it, mostly managed by the 3GPP group.
+- 3GPP - 3rd Generation Partnership Project, the umbrella term associated with standard organizations dealing with GSM (and related 2G and 2.5G standards including GPRS and EDGE), UMTS (and related 3G standards, including HSPA and HSPA+), LTE (and related 4G standards, including LTE Advanced and LTE Advanced Pro), 5G NR (and related 5G standards, including 5G-Advanced). It was developed with the aim of making a 3G mobile phone system based on the 2G GSM system.
+- 3GPP2 - Not to be confused with 3GPP, it is the standards body associated with the competing 3G standard to 3GPP's UMTS, CDMA2000, which is the 3G upgrade to cdmaOne which was popular in the US (and to some extent also in Japan, China, Canada, South Korea and India). Ultra Mobile Broadband (UMB) was the planned 4G successor to CDMA2000, but Qualcomm, the lead sponsor of UMB in 2008 announced they were ending the development and favouring LTE instead. Most countries favoured the GSM/UMTS (GSM family of standards) while some countries (mentioned before) adopted both standards. 3GPP2 had it's last activity in 2013, and they had been dormant ever since, with the website taken down, due to the adoption of LTE a decade prior, and due to the shutdown of CDMA networks.
+- IEEE - In our context, IEEE defines the wireless standards like Wi-Fi and Wi-Max (WirelessMAN).
+# Technologies
+## 0G (Analog Telecommunications)
+They were commonly called the car phones due to them mostly being inside cars. The ones that look like landline phones with a handset transciever, but portable rather than wired.
+
+- PTT - Push to Talk / Manual (0G)
+- MTS - Mobile Telephone Service (0G)
+- IMTS - Improved Mobile Telephone Service (0G)
+- RCC - Radio Common Carrier (0G)
+- AMTS - Advanced Mobile Telephone System (0G)
+## 1G
+- NMT - Nordic Mobile Telephony (1G)
+- AMPS - Advanced Mobile Phone System (1G)
+- D-AMPS - Digital Advanced Mobile Phone System (1.5G)
+  - IS-54 - Interim Standard 54
+  - IS-136 - Interim Standard 136
+  - Note: Interim Standards are published by the Telecommunications Industry Association (TIA) and Electronic Industries Alliance (EIA), and are fully named TIA/EIA/IS standards.
+  - It is also most commonly referred to as TDMA (Time Division Multiple Access)
+  - It is also considered 2G, since it started the transition from analog to digital communications.
+## 2G (Digital Telecommunications)
+- GSM - Global System for Mobile communications, by ETSI (2G)
+  - GSM was also based on TDMA (Time Division Multiple Access)
+  - GSM base stations (cell towers) are called BTS (Base Transciever Stations).
+  - GERAN (GSM EDGE Radio Access Network) is the radio access technology in GSM/EDGE, and it refers to the radio part of GSM/EDGE combined with the network that joins the base stations (Abis and Ater interfaces) with the base station controllers (A interfaces, etc.)
+    - It is a key part of GSM, and also of combined networks like GSM/UMTS and GSM/UMTS/LTE.
+    - GERAN without EDGE is called GRAN, and without GSM, is called ERAN.
+    - GERAN represents the core of the network, through which the phone calls and packet data are routed from and to the PSTNs (Public Switched Telephone Network) and the internet from the subscribers' handsets.
+    - A mobile phone operator's network consists of one or more GERANs, coupled with UTRANs in the case of a GSM/UMTS network. If LTE is included, it would also include E-UTRANs.
+- cdmaOne - Code Division Multiple Access One (2G)
+  - Also known as IS-95 (Interim Standard 95)
+  - It is the first technology that made use of the CDMA access method
+- ETSI - European Telecommunications Standards Institute
+- GPRS - General Packet Radio Service (2.5G)
+- EDGE - Enhanced Data rates for GSM Evolution / Enhanced Data Rates for Global Evolution (2.75G)
+  - Also known as EGPRS (Evolved General Packet Radio Service)
+  - It is standardized as IMT-2000 TDMA Single Carrier or IMT-SC for short.
+- Evolved EDGE / EDGE Evolution, a lower latency evolution of EDGE (2.875G)
+- CDMA2000 1X - Code Division Multiple Access 2000 (2.9G/3G)
+  - CDMA2000 is also known as C2K and is a family of 3G standards, developed as backwards compatible with the 2G cdmaOne standard.
+  - It is standardized as IMT-2000 CDMA Multi Carrier or IMT-MC for short.
+  - CDMA2000 1X is also known as 1x or 1xRTT (1x Radio Transmission Technology) or IS-2000 (Interim Standard 2000)
+    - 1xRTT means the same radio frequency bandwidth as the older Interim Standard 95 (IS-95)
+- CDMA2000 1X Advanced - Code Division Multiple Access 2000 1X Advanced (2.9G/3G)
+## 3G
+They are the protocols that meet the IMT-2000 (International Mobile Telecommunications 2000) specifications set by the ITU under the ITU-R department. There were 5 standards set by IMT-2000, W-CDMA, CDMA2000, TD-SCDMA, EDGE and DECT. EDGE is considered pre-3G, and meets ITU's standards for 3G and is hence considered 3G and standardized under IMT-2000.
+
+- UMTS - Universal Mobile Telecommunications System (3G)
+  - UMTS comprises of three air interfaces, GSM's Mobile Application Part (MAP) (the caller, SMS, services, etc.) and the GSM family of speech codecs.
+  - The radio access technology is known as UTRA (UMTS Terrestrial Radio Access / Universal Terrestrial Radio Access). It defines three air interfaces - W-CDMA, TD-CDMA and TD-SCDMA. All three of them are standardized under the IMT-2000 standards.
+    - UTRA along with the user equipment (UE) and the Node B (the base stations in UMTS, like BTS in GSM) is referred to as UTRAN (UMTS Terrestrial Radio Access Network / Universal Terrestrial Radio Access Network)
+    - In UTRA, we use channel duplexing for the base station and receiving station to have simulataneous access to the medium.
+      - UTRA-FDD uses W-CDMA (Wideband Code Division Multiple Access) with Direct Sequence Spread Spectrum (DSSS) as the air interface. The standardization of W-CDMA is called IMT-2000 CDMA Direct Spread.
+      - UTRA-TDD uses TD-CDMA and TD-SCDMA as the air interfaces. Both air interfaces a combination of the CDMA and TDMA access modes. Both TD-CDMA and TD-SCDMA are standardized under IMT-2000 CDMA TDD or IMT-2000 Time Division (IMT-TD).
+        - UMTS's HSUPA and HSDPA enhancements are also implemented under TD-CDMA.
+        - TD-SCDMA was developed by The People's Republic of China. It wasn't as popular as TD-CDMA.
+        - TD-CDMA is closely related to W-CDMA and tries to provide the same type of channels whenever possible.
+        - TD-SCDMA / UMTS-TDD (LCR) networks are incompatible with W-CDMA (UMTS-FDD) and TD-CDMA (UMTS-TDD (HCR)) networks.
+- CDMA2000 1X EV-DO Release 0 - CDMA2000 1X Evolution Data Optimized (3G)
+  - CDMA2000 1X EV-DO may also be just called EV-DO or EV
+  - The EV-DO family is standardized as IS-856
+- HSPA - High Speed Packet Access (3.5G/3G+) (HSDPA/HSUPA - HS-Downlink/Uplink-PA)
+  - It was an upgrade to UMTS
+- HSPA+ - Evolved High Speed Packet Access (3.75G)
+- LTE - Long Term Evolution (3.9G/3.95G/4G)
+  - The radio access technology is known as E-UTRA (Evolved UMTS Terrestrial Radio Access / Evolved Universal Terrestrial Radio Access)
+    - E-UTRA along with the user equipment (UE) and the Node B (the base stations in LTE, like Node B in UMTS's UTRAN, known as Evolved Node B, eNodeB, or eNB), is referred to as E-UTRAN (Evolved UMTS Terrestrial Radio Access Network).
+      - The RNS in E-UTRA only consists of the eNodeB, which functions as both a Node B and an RNC.
+    - Like with UTRA, Time Division Duplexing (TDD) and Frequency Division Duplexing (FDD) are the two data transmission technologies used in LTE (LTE-TDD and LTE-FDD).
+      - LTE-TDD is also referred to as TD-LTE for familiarity with TD-SCDMA
+    - The air interfaces in E-UTRA are Orthogonal Frequency Divison Multiplexing (OFDMA), with Multiple-Input Multiple-Output (MIMO) antenna technology for downlink and both OFDMA and a precoded version of OFDM called SC-FDMA (Single Carrier FDMA) for uplink. In later releases of LTE, SDMA/MIMO, Single User MIMO (SU-MIMO) and Multi User MIMO (MU-MIMO) are supported for uplink.
+- EV-DO Revision A (3.9G/3.95G/4G)
+- EV-DO Revision B (3.9G/3.95G/4G)
+- EV-DO Revision C (3.9G/3.95G/4G)
+- WiMAX - Worldwide Interoperability for Microwave Access, by IEEE (3.9G/3.95G/4G)
+  - It is standardized under IEEE 802.16 set of wireless broadband standards
+  - IEEE 802.16 is named WirelessMAN by the IEEE, and is commercialized as WiMAX
+  - Mobile WiMAX - Mobile Worldwide Interoperability for Microwave Access
+  - WiBro - South Korean name for Mobile WiMAX, but it evolved to higher speeds
+- DECT - Digital Enhanced Cordless Communications (3.9G/4G)
+## 4G
+They are the protocols that meet the IMT Advanced (International Mobile Telecommunications Advanced) specifications set by the ITU under the ITU-R department. But in Turkey, these, including LTE Advanced were called 4.5G. Because of market pressures, and the improvements the technologies brought over 3G, WiMAX, HSPA+ and LTE were added to the definition of 4G.
+
+- LTE Advanced (4.5G)
+- LTE Advanced Pro - Long Term Evolution Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
+- WiMAX Release 2 (IEEE 802.16m)
+  - It is also known as WirelessMAN-Advanced, and was aimed at fulfilling the ITU-R IMT-Advanced criteria for 4G systems.
+  - WiMAX Release 2.1 / WiMAX Release 2+ is interoperable with LTE-TDD because the bands overlap
+## 5G
+- 5G NR - 5G New Radio (5G)
+  - The radio access technology in 5G is the NG-RA (Next Generation Radio Access), and NG-RA along with the user equipment (UE) and the Node B (the base station, anologous to eNB in LTE, called the Next Generation Node B, gNodeB or gNB) forms the NG-RAN (Next Generation Radio Access Network).
+    - In addition, 5G also has ng-eNB (Next Generation Evolved Node B) which allows LTE devices to connect to the 5G network, using LTE radio.
+- WiMAX Release 3 - Worldwide Interoperability for Microwave Access Release 3, interoperable with 5G NR alongside LTE-TDD as introduced in WiMAX Release 2+ (5G)
+- 5G Advanced (5.5G)
+- NB-IoT - Narrow Band IoT (5.5G)
+- LTE-M - Long Term Evolution - Machine communication (5.5G)
+  - Also known as LTE-MTC (Long Term Evolution Machine Type Communication)
+- DECT-2020 NR - DECT 2020 New Radio (marketed as New Radio +)
+- EUHT - Enhanced Ultra High Throughput
+## 6G
+Millimeter waves (30-300 GHz, and according to some speculations, terahertz radiations (300-3000 GHz) may also be used in 6G)
