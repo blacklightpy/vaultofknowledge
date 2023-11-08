@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41da6e8c0c603dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Free Radio Firmware.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -269,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Free Radio Firmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+                "file": "Free Radio Firmware.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
+                "file": "Free Radio Firmware.md"
               }
             }
           },
@@ -364,8 +377,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "41da6e8c0c603dc7",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "International Mobile Telephony 2000.md",
+    "Free Radio Firmware.md",
     "Z1-Inbox/Comparing UX of Operating Systems.md",
     "Z1-Inbox/Interoperability.md",
     "Z1-Inbox/Things I don't understand.md",
@@ -389,9 +405,6 @@
     "History/Timeline of Conflicts.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
-    "History/The Origin of Judaism.md",
-    "History/Current Affairs/Israel Palestine Conflict/Israel-Palestine Peace Ideas.md",
-    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",

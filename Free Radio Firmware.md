@@ -1,8 +1,8 @@
 - Read: https://en.wikipedia.org/wiki/GSM#GSM_open-source_software
-  - How patent laws affect open-source projects like OpenMoko, OpenBTS, OsmocommBB, GNU, etc.
+	- How patent laws affect open-source projects like OpenMoko, OpenBTS, OsmocommBB, GNU, etc.
  
 - OsmocommBB is a free and open source GSM baseband firmware project. It is recognized by Replicant, but it only supports the OpenMoko GTA01 and GTA02 phones as of now. It also has support for SIMCom SIM800 module.
-- Community Pinephone Modem SDK - The modem is not entirely free, but the userspace firmware is free, and the modem is isolated with the non-free components on the flash. Link: https://github.com/the-modem-distro/pinephone_modem_sdk
+- Community PinePhone Modem SDK - The modem is not entirely free, but the userspace firmware is free, and the modem is isolated with the non-free components on the flash. Link: https://github.com/the-modem-distro/pinephone_modem_sdk
 - OpenBTS implements the lower three layers of the GSM Protocol Stack as free software.
 
 # Terms
@@ -17,38 +17,37 @@
 - User Equipment - The devices on the side of the user
   - Includes the Mobile Handset and the SIM card.
 - Channel access method / Multiple access method -  It refers to the technology used to connect two terminals for communication
-  - A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
-    - In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
-    - The LLC forms the top part of the data link layer, while MAC deals with the abstraction of the physical layer.
-    - The physical layer, or PHY is connected to the data link layer using a Media-independent Interface (MII)
-      - The MII was originally defined as a standard interface to connect the Fast Ethernet MAC to a PHY chip.
-      - It is standardized by IEEE 802.3u
-  - A channel access method is based on multiplexing, to allow multiple data streams to share the same channel.
-  - The five categories of multiple access methods are: FDMA, TDMA, CDMA, SDMA, and Random access (according to Daniel Minoli, in Satellite Systems Engineering in an IPv6 Environment, from page 136-)
-    - FDMA - Frequency Division Multiple Access
-    - TDMA - Time Division Multiple Access
-    - CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
-    - SDMA - Space Division Multiple Access
-    - Random Access
-  - There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
-  - Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
-  - In addition to channel mode, there are also packet mode channel access methods
-  - Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
+	- A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
+		- In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
+		- The LLC forms the top part of the data link layer, while MAC deals with the abstraction of the physical layer.
+		- The physical layer, or PHY is connected to the data link layer using a Media-independent Interface (MII)
+			- The MII was originally defined as a standard interface to connect the Fast Ethernet MAC to a PHY chip.
+			- It is standardized by IEEE 802.3u
+	- A channel access method is based on multiplexing, to allow multiple data streams to share the same channel.
+	- The five categories of multiple access methods are: FDMA, TDMA, CDMA, SDMA, and Random access (according to Daniel Minoli, in Satellite Systems Engineering in an IPv6 Environment, from page 136-)
+		- FDMA - Frequency Division Multiple Access
+		- TDMA - Time Division Multiple Access
+		- CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
+		- SDMA - Space Division Multiple Access
+		- Random Access
+	- There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
+	- Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
+	- In addition to channel mode, there are also packet mode channel access methods
+	- Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
 - Air interface - Air interface or access mode is the link between two terminals in a wireless communication. While a channel access mode defines a single method (for example, a variant of CDMA), air interface (or access mode) standards include a wide range of standards related to the communications. Air interfaces are described as part of radio access technologies (RATs).
-  - Examples are W-CDMA, TD-CDMA, TD-SCDMA, OFDMA
-  - The data link layer of an air interface is often divided farther than the simple MAC and LLC layers. The MAC sublayer is generally unmodified, but the LLC sublayer is often subdivided into two or three sublayers depending on the standard. Common 
-sublayers include:
-    - Radio Link Control (RLC), between the MAC and PDCP sublayers
-    - Packet Data Convergence Protocol (PDCP), on top of the RLC layer
-    - Radio Resource Control (RRC), is on the network layer (layer 3)
+	- Examples are W-CDMA, TD-CDMA, TD-SCDMA, OFDMA
+	- The data link layer of an air interface is often divided farther than the simple MAC and LLC layers. The MAC sublayer is generally unmodified, but the LLC sublayer is often subdivided into two or three sublayers depending on the standard. Common sublayers include:
+		- Radio Link Control (RLC), between the MAC and PDCP sublayers
+		- Packet Data Convergence Protocol (PDCP), on top of the RLC layer
+		- Radio Resource Control (RRC), is on the network layer (layer 3)
 - World Phones - Multi-band and/or multi-mode phones that allow roaming between countries
 - RNC - Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
 - Base Station Subsystem - It is the part of a cellular network which is responsible for handling traffic between a mobile phone and a network switching subsystem, like PSTN.
-  - It is comprised of the BTS (Base Transciever Station) and the BSC (Base Station Controller). A later addition to the GSM standard is the Packet Control Unit (PCU).
-  - Interfaces include Um, Abis, A, Ater and Gb (Image: https://en.wikipedia.org/wiki/File:Gsm_structures.svg)
-  - Abis - The interface between the BTS and the BSC.
-  - Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.
-  - More info on Wikipedia.
+	- It is comprised of the BTS (Base Transciever Station) and the BSC (Base Station Controller). A later addition to the GSM standard is the Packet Control Unit (PCU).
+	- Interfaces include Um, Abis, A, Ater and Gb (Image: https://en.wikipedia.org/wiki/File:Gsm_structures.svg)
+	- Abis - The interface between the BTS and the BSC.
+	- Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.
+	- More info on Wikipedia.
 - MMI Code - Man-Machine Interface Code. It includes USSD, SS and SIM unlock codes. The complete specification is defined by 3GPP [here](http://www.etsi.org/deliver/etsi_ts/122000_122099/122030/10.00.00_60/ts_122030v100000p.pdf).
   - USSD codes - Unstructured Supplimentary Service Data codes
     - They are the normal cellular network service codes used for WAP, balance checks, recharging, ringtones, etc.
