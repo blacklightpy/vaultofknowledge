@@ -13,5 +13,7 @@ Also, well, Li-Fi is a thing. And, Morse code using light, is nothing but flicke
 
 Ahh, here I see the problem of using cameras. They just measure the intensity of light to a good approximation for optical vision. They struggle at differentiating different levels of lightness, especially visible in low light conditions. So we don't have the transceiver technology for light that is modulated in any other way than by the intensity. This is also why AM is easier than FM and it is less prone to obstructions than FM, but is more prone to interference than FM.
 
+This is partly because AM uses longer wavelengths and omnidirectional antennas, while FM antennas are usually directional and has shorter wavelengths. To account for good bandwidth, FM uses UHF or VHF bands to have many frequency channels, while AM uses SW
+
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
