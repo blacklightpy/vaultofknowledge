@@ -255,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -321,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Logarithmic Scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Logarithmic Scale.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md"
+                "file": "Logarithmic Scale.md"
               }
             }
           },
@@ -416,10 +416,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "710159f96c2dc4fd",
+  "active": "ea2640998d36c8dd",
   "lastOpenFiles": [
-    "Logarithmic Scale.md",
     "Why aren't LEDs used as transmitters.md",
+    "Logarithmic Scale.md",
     "Untitled 1.md",
     "Free Radio Firmware.md",
     "My Ideas on solving the Arab-Israel conflict.md",

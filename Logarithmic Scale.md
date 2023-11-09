@@ -15,5 +15,5 @@ It is a scale where values are plotted by their logarithmic values. This is comm
 - Richter Scale
 - pH scale
 # Units of frequency level
-- Decade, decidecade, savart
+- Decade, decidecade, savart (10 times apart)
 - Octave, tone, semitone, cent
