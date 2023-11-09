@@ -279,35 +279,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "66626d8e50bef577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jihad as per Quran.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45aae30bb8b5b03a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jihad as per Quran.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -373,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jihad as per Quran.md",
+                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jihad as per Quran.md",
+                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -402,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jihad as per Quran.md"
+                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md"
               }
             }
           },
@@ -468,10 +442,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "45aae30bb8b5b03a",
+  "active": "61c4f2508465cc5b",
   "lastOpenFiles": [
-    "Salafi Jihadism.md",
     "Jihad as per Quran.md",
+    "Salafi Jihadism.md",
     "28.md",
     "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
