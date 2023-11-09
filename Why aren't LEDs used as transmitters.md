@@ -19,3 +19,10 @@ But, the range is only affected by the frequency of the carrier wave, not the mo
 
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
+
+
+# Terms
+- Passband: The frequency range that can pass through a bandpass filter
+- Bandpass Filter: A filter that only allows some bands to pass.
+- Bandpass signal: The filtered signal after passing through a bandpass filter
+- Baseband signal: A signal with frequencies from 0 to the baseband frequency
