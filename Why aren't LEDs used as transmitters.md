@@ -24,13 +24,15 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 # Terms
 - Passband: The frequency range that can pass through a bandpass filter.
 - Bandpass Filter: A filter that only allows bands in a given range to pass. It usually has two band-stop filters. The response of a bandpass filter would include the bandpass signal and the stopband filter outputs on either sides.
+	- Bandpass is different from passband, because of the ways of English, where the adjective goes first. We are highlighting the "pass" here, while there we are highlighting the "band".
 - Band-stop Filter: A filter that attenuates frequencies of a given range, usually used in a bandpass filter. It has two non-zero and non-infinite corner frequencies. The required attenuation maybe 20-120 dB higher than the passband attenuation, which is often 0 dB.
 - Stopband: The frequency range that is stopped by a band-stop filter.
-	- 1 decade away
-	- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency.
-	- 10 dB is 10 times the amplitude (or 1 B, to avoid the confusion. 20 dB is 2B, and 100 times)
-	- So one decade is 20 dB apart in signal levels, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade. Which is to say, 100 times the signal level.
-	- So low pass filter will have a slope of 6db/octave beyond its passband, which is equal to 20db/decade.
+	- Typically, the width of the stopband is 1 or 2 decades away.
+		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency.
+		- 10 dB is 10 times the amplitude (or 1 B, to avoid the confusion. 20 dB is 2B, and 100 times)
+		- So one decade is 20 dB apart in signal levels, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade. Which is to say, 100 times the signal level.
+		- So low pass filter will have a slope of 6db/octave beyond its passband, which is equal to 20db/decade.
+		- A decade is logarithmic scale for frequency levels
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
 - Lowpass Filter: A filter than only allows bands below a cut-off frequency to pass.
 - Lowpass signal: The filtered signal after passing through a lowpass filter.
