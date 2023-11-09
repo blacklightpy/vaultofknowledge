@@ -214,9 +214,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfd56d8e13fe3d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Radio Firmware.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Radio Firmware.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Radio Firmware.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -377,10 +390,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b99af105343a65c0",
+  "active": "dfd56d8e13fe3d34",
   "lastOpenFiles": [
-    "My Ideas on solving the Arab-Israel conflict.md",
     "Free Radio Firmware.md",
+    "Untitled 1.md",
+    "My Ideas on solving the Arab-Israel conflict.md",
     "International Mobile Telephony 2000.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Comparing UX of Operating Systems.md",
@@ -404,7 +418,6 @@
     "Terrorism.md",
     "History/Timeline of Conflicts.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
-    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
