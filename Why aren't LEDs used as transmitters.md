@@ -27,6 +27,6 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 - Bandpass signal: The filtered signal after passing through a bandpass filter
 - Baseband signal: A signal with frequencies from 0 to the baseband frequency
 
-AM generates double sidebands with the same bandwidth, which is eliminated by using a filter, and is reintroduced for remodulation at the receiver using a Beat Frequency Oscillator (BFO).
+AM generates double sidebands (DSB) with the same bandwidth, which is eliminated or suppressed by using a filter, to form a single sideband (SSB), or single sideband suppressed carrier (SSB-SC) wave, and is reintroduced for remodulation at the receiver using a Beat Frequency Oscillator (BFO). This is done to avoid wastage of power, as carrier waves don't transmit information at all.
 
-The frequencies used in a 
+The frequencies used in the signal are lower than the frequencies in the carrier wave.
