@@ -6,7 +6,10 @@ It is a scale where values are plotted by their logarithmic values. This is comm
 - Shannon
 # Units of level
 - Decibel, Bel
+	- For sound in air, the decibel scale is relative to $20\micro Pa$
 - Neper
+- Richter Scale
+- pH scale
 # Units of frequency level
 - Decade, decidecade, savart
 - Octave, tone, semitone, cent
