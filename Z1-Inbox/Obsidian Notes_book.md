@@ -10437,7 +10437,7 @@
 
 # Untitled 2
 
-![[Untitled 2|Untitled 2.md]]
+![[Why aren't LEDs used as transmitters|Untitled 2.md]]
 
 ---
 
