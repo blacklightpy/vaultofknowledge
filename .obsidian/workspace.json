@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "647ef1e36f63f1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predator or Prey.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -321,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logarithmic Scale.md",
+                "file": "Predator or Prey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logarithmic Scale.md",
+                "file": "Predator or Prey.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -350,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logarithmic Scale.md"
+                "file": "Predator or Prey.md"
               }
             }
           },
@@ -416,10 +429,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ea2640998d36c8dd",
+  "active": "647ef1e36f63f1d1",
   "lastOpenFiles": [
-    "Why aren't LEDs used as transmitters.md",
+    "Predator or Prey.md",
     "Logarithmic Scale.md",
+    "Why aren't LEDs used as transmitters.md",
     "Untitled 1.md",
     "Free Radio Firmware.md",
     "My Ideas on solving the Arab-Israel conflict.md",
@@ -443,7 +457,6 @@
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
     "Free Hardware Projects.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
-    "Terrorism.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
