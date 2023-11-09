@@ -27,4 +27,4 @@ Now, they are no longer fighting for Kashmir, but for the control of water. One 
 - Pakistanis fear India may cut off water supply, due to the growing population of India, and due to certain projects such as the Kishanganga hydroelectric project.
 # Arguments
 - The IWT has been honoured for over 50 years, so Pakistan's worries are baseless.
-- They allow fooling Pakistani civilians and s
+- The conflict allows fooling Pakistani civilians and staying in power.
