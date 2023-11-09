@@ -1,9 +1,11 @@
 6G is entering the THz range.
 
-But 4THz is the beginning of visible spectrum!
+But 400THz is the beginning of visible spectrum! (Oops, I thought it was 4, and that sounded too close to me at first :P. But the idea holds)
 
 We have IR LEDs, IR sensors, Visible LEDs and Visible Cameras.
 What does 6G, or 7G mean for these?
+
++NOTE: I also just heard that above 300 GHz, all power is absorbed within a few metres, and the atmosphere is 
 
 My guess is that LEDs are diffuse radiators with a mix of frequencies, and hence they are not ideal for modulation.
 And I would guess IR LEDs are used as remote controllers by intensity modulation within a pretty large margin of error.
