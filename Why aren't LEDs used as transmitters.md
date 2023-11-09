@@ -29,7 +29,8 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 - Stopband: The frequency range that is stopped by a band-stop filter.
 	- Typically, the width of the stopband is 1 or 2 decades away.
 		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency. This is measures frequency levels, unlike decibel, another [[logarithmic scale]] unit which measures amplitudes.
-		- So one decade is 20 dB apart in signal levels, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade. Which is to say, 100 times the signal level.
+		- The steepness of the [[World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function|transfer function]] with frequency of a filter is called the roll-off.
+		- The roll off of a filter is usually 20 dB/decade apart in signal levels, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade. Which is to say, 100 times the signal level.
 		- So low pass filter will have a slope of 6db/octave beyond its passband, which is equal to 20db/decade.
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
 - Lowpass Filter: A filter than only allows bands below a cut-off frequency to pass.
