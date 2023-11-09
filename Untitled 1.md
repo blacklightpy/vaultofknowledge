@@ -11,4 +11,4 @@ He can search the entire world for it, but he will never find it. So he has to b
 
 The spectacles here can mean anything - god, heaven, peace, goodness. We say that god is goodness, he is peace, he is the creator of heavens.
 
-This happened to me the other day when I was looking for my shorts. I couldn't find it
+This happened to me the other day when I was looking for my shorts. I couldn't find it anywhere outside my room, so I started asked my parents, "where the hell did you place my shorts?". I always take care to take my clothes and fold it neatly, and the only time I have to put it in the washing machine, you guys misplace it? Actually, I had taken the shorts myself and placed it on 
