@@ -28,3 +28,10 @@ Now, they are no longer fighting for Kashmir, but for the control of water. One 
 # Arguments
 - The IWT has been honoured for over 50 years, so Pakistan's worries are baseless.
 - The conflict allows fooling Pakistani civilians and staying in power.
+
+# Wars
+- War of 1947-48
+- War of 1965
+- War of 1971
+- Siachen Conflict (1984-2003)
+- War of 1999 (Kargil War)
