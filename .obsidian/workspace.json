@@ -268,12 +268,12 @@
             }
           },
           {
-            "id": "11c8f6c62cfc9e39",
+            "id": "61c4f2508465cc5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "History/Current Affairs/Khalistan Movement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -347,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "History/Current Affairs/Khalistan Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "History/Current Affairs/Khalistan Movement.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md"
+                "file": "History/Current Affairs/Khalistan Movement.md"
               }
             }
           },
@@ -442,11 +442,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "11c8f6c62cfc9e39",
+  "active": "61c4f2508465cc5b",
   "lastOpenFiles": [
+    "History/Current Affairs/Khalistan Movement.md",
+    "Predator or Prey.md",
     "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
     "History/Current Affairs/India Pakistan Conflict",
-    "Predator or Prey.md",
     "Forms of religion.md",
     "Isn't using technology built by atheists wrong for religious people.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
@@ -470,7 +471,6 @@
     "Z1-Inbox/Interoperability.md",
     "Z1-Inbox/Things I don't understand.md",
     "Z1-Inbox/To Do.md",
-    "Z1-Inbox/Arguments against religion.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",

@@ -1,0 +1,1 @@
+It is a separationist movement by the Sikhs of Punjab who want a state for the Sikhs, with a major motive being having more share 
