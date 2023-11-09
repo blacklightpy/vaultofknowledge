@@ -28,7 +28,7 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 - Band-stop Filter: A filter that attenuates frequencies of a given range, usually used in a bandpass filter. It has two non-zero and non-infinite corner frequencies. The required attenuation maybe 20-120 dB higher than the passband attenuation, which is often 0 dB.
 - Stopband: The frequency range that is stopped by a band-stop filter.
 	- Typically, the width of the stopband is 1 or 2 decades away.
-		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency. This is measures frequency levels, unlike amplitudes which decibel measures, 
+		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency. This is measures frequency levels, unlike decibel, another [[logarithmic scale]] unit which measures amplitudes.
 		- So one decade is 20 dB apart in signal levels, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade. Which is to say, 100 times the signal level.
 		- So low pass filter will have a slope of 6db/octave beyond its passband, which is equal to 20db/decade.
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
