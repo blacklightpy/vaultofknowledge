@@ -4,7 +4,7 @@
 ```
 $ nano /etc/ssh/sshd_config
 PermitRootLogin no
-````
+```
 
 * Change SSH port - from 22
 * Disable unused ports - iptables and ip6tables - ufw on Ubuntu
