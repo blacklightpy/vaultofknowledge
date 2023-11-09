@@ -26,6 +26,10 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 - Bandpass Filter: A filter that only allows bands in a given range to pass. It usually has two band-stop filters. The response of a bandpass filter would include the bandpass signal and the stopband filter outputs on either sides.
 - Band-stop Filter: A filter that attenuates frequencies of a given range, usually used in a bandpass filter. It has two non-zero and non-infinite corner frequencies. The required attenuation maybe 20-120 dB higher than the passband attenuation, which is often 0 dB.
 - Stopband: The frequency range that is stopped by a band-stop filter.
+	- 1 decade away
+	- A decade is an interval of ten times, like an octave, which is twice the original frequency.
+	- 10 dB is 10 times
+	- So one decade is 20 dB.
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
 - Lowpass Filter: A filter than only allows bands below a cut-off frequency to pass.
 - Lowpass signal: The filtered signal after passing through a lowpass filter.
