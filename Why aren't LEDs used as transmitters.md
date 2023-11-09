@@ -23,10 +23,14 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 
 # Terms
 - Passband: The frequency range that can pass through a bandpass filter
-- Bandpass Filter: A filter that only allows bands in a given range to pass. It usually has
+- Bandpass Filter: A filter that only allows bands in a given range to pass. It usually has two band-stop filters.
+- Band-stop Filter: A filter that
+- Stopband: The frequency range that is stopped by a band-stop filter
 - Lowpass Filter: 
+
 - Bandpass signal: The filtered signal after passing through a bandpass filter
 - Baseband signal: A signal with frequencies from 0 to the baseband frequency
+- Bandwidth: The range of frequencies in a signal. For a bandpass signal, f_max - f_min. For a lowpass signal, f_cutoff - 0 = f_cutoff.
 
 AM generates double sidebands (DSB) with the same bandwidth, which is eliminated or suppressed by using a filter, to form a single sideband (SSB), or single sideband suppressed carrier (SSB-SC) wave, and is reintroduced for remodulation at the receiver using a Beat Frequency Oscillator (BFO). This is done to avoid wastage of power, as carrier waves don't transmit information at all.
 
