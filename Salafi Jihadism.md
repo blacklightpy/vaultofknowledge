@@ -34,6 +34,13 @@
 - Islamic State of Iraq
 	- Formerly Al-Qaeda in Iraq
 - Lakshar-e-Taiba
+	- From Pakistan
+	- They are followers of Ahl-e-Hadith, a South Asian salafi jihadist group
+- Ahl-e-Hadith
+	- They are a South Asian group
+	- They justify jihad with the Quranic ayah 2:216, which states: 
+		- "Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."
+		- But this is the ayah taken out of context, like all Jihadist groups do. Specifically, this was written for a time of war, when the Arabs were being under threat from the Quraysh tribes of Mecca. This ayah was to give them hope for war. It also had verses requiring them to protect all the civilians who have made peace with them, or taken refuge with them, and also c
 - Al-Qaeda
 	- Basically less religiously trained, but global
 	- Compared to IS (Source: [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):

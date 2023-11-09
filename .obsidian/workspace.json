@@ -279,9 +279,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51fc23322efd825a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salafi Jihadism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -347,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "Salafi Jihadism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "Salafi Jihadism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +389,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md"
+                "file": "Salafi Jihadism.md"
               }
             }
           },
@@ -442,10 +455,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "61c4f2508465cc5b",
+  "active": "51fc23322efd825a",
   "lastOpenFiles": [
-    "_images/Pakistan-Kashmir Map 1.jpg",
     "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+    "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/Khalistan Movement.md",
     "Predator or Prey.md",
