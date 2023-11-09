@@ -240,9 +240,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea2640998d36c8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logarithmic Scale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -308,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Logarithmic Scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Logarithmic Scale.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md"
+                "file": "Logarithmic Scale.md"
               }
             }
           },
@@ -403,9 +416,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "710159f96c2dc4fd",
+  "active": "ea2640998d36c8dd",
   "lastOpenFiles": [
     "Why aren't LEDs used as transmitters.md",
+    "Logarithmic Scale.md",
     "Untitled 1.md",
     "Free Radio Firmware.md",
     "My Ideas on solving the Arab-Israel conflict.md",
@@ -430,7 +444,6 @@
     "Free Hardware Projects.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
     "Terrorism.md",
-    "History/Timeline of Conflicts.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",

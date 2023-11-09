@@ -30,6 +30,7 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 	- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency.
 	- 10 dB is 10 times the amplitude (or 1 B, to avoid the confusion. 20 dB is 2B, and 100 times)
 	- So one decade is 20 dB. away, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade.
+	- So low pass filter will have a slope of 6db/octave beyond its passband, which is equal to 20db/decade.
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
 - Lowpass Filter: A filter than only allows bands below a cut-off frequency to pass.
 - Lowpass signal: The filtered signal after passing through a lowpass filter.
