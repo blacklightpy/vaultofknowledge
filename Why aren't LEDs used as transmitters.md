@@ -19,7 +19,7 @@ This is partly because AM typically uses longer wavelengths and hence more omnid
 
 But, the range is only affected by the frequency of the carrier wave, not the modulation used. It's just that the higher the frequency, more the possible bandwidth of the modulated signal. Now, for a given bandwidth, the data rate depends on the specific modulation used (such as FSK, QPSK, etc.). That is a part of digital communications and signal processing. After all, all digital signals are analog signals in the first place, just cut off periodically. 
 
-The AM waves also travel longer at night, this is commonly to the benefit of amateur radio operators, because the lower altitude D and E layers of the ionosphere lose energy, and the reflection happens at the higher F1/F2 layers.
+Longer waves also travel longer at night, this is commonly to the benefit of amateur radio operators, because the lower altitude D and E layers of the ionosphere lose energy, and the reflection happens at the higher F1/F2 layers allowing DX. Skywave propagation happens 
 
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
