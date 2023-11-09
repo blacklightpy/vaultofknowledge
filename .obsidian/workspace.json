@@ -281,12 +281,12 @@
             }
           },
           {
-            "id": "51fc23322efd825a",
+            "id": "66626d8e50bef577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "Jihad as per Quran.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "Jihad as per Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Salafi Jihadism.md",
+                "file": "Jihad as per Quran.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -389,7 +389,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salafi Jihadism.md"
+                "file": "Jihad as per Quran.md"
               }
             }
           },
@@ -455,9 +455,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "51fc23322efd825a",
+  "active": "66626d8e50bef577",
   "lastOpenFiles": [
+    "28.md",
+    "Jihad as per Quran.md",
     "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+    "Salafi Jihadism.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/Khalistan Movement.md",
@@ -483,8 +486,6 @@
     "International Mobile Telephony 2000.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Comparing UX of Operating Systems.md",
-    "Z1-Inbox/Interoperability.md",
-    "Z1-Inbox/Things I don't understand.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
