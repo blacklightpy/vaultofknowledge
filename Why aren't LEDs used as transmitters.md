@@ -28,16 +28,14 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 - Band-stop Filter: A filter that attenuates frequencies of a given range, usually used in a bandpass filter. It has two non-zero and non-infinite corner frequencies. The required attenuation maybe 20-120 dB higher than the passband attenuation, which is often 0 dB.
 - Stopband: The frequency range that is stopped by a band-stop filter.
 	- Typically, the width of the stopband is 1 or 2 decades away.
-		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency.
-		- 10 dB is 10 times the amplitude (or 1 B, to avoid the confusion. 20 dB is 2B, and 100 times)
+		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency. This is measures frequency levels, unlike amplitudes which decibel measures, 
 		- So one decade is 20 dB apart in signal levels, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade. Which is to say, 100 times the signal level.
 		- So low pass filter will have a slope of 6db/octave beyond its passband, which is equal to 20db/decade.
-		- A decade is logarithmic scale for frequency levels, much like an octave.
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
 - Lowpass Filter: A filter than only allows bands below a cut-off frequency to pass.
 - Lowpass signal: The filtered signal after passing through a lowpass filter.
 - Baseband signal: An unmodulated signal, with frequencies ranging from near zero to the baseband cut-off frequency. It is also called a lowpass signal, because it is limited by a lowpass filter.
-- Bandwidth: The range of frequencies in a signal. For a bandpass signal, f_max - f_min. For a lowpass signal, f_cutoff - 0 = f_cutoff.
+- Bandwidth: The range of frequencies in a signal. For a bandpass signal, $f_\text{max}$ - $f_\text{min}$. For a lowpass signal, $f_\text{cutoff}$ - 0 = $f_\text{cutoff}$.
 
 AM generates double sidebands (DSB) with the same bandwidth, which is eliminated or suppressed by using a filter, to form a single sideband (SSB), or single sideband suppressed carrier (SSB-SC) wave, and is reintroduced for remodulation at the receiver using a Beat Frequency Oscillator (BFO). This is done to avoid wastage of power, as carrier waves don't transmit information at all.
 

@@ -240,35 +240,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ea2640998d36c8dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logarithmic Scale.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "647ef1e36f63f1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Predator or Prey.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -334,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predator or Prey.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predator or Prey.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predator or Prey.md"
+                "file": "Why aren't LEDs used as transmitters.md"
               }
             }
           },
@@ -429,10 +403,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "647ef1e36f63f1d1",
+  "active": "710159f96c2dc4fd",
   "lastOpenFiles": [
-    "Predator or Prey.md",
     "Logarithmic Scale.md",
+    "Predator or Prey.md",
     "Why aren't LEDs used as transmitters.md",
     "Untitled 1.md",
     "Free Radio Firmware.md",
