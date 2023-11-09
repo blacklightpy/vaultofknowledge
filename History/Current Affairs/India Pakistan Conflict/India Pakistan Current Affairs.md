@@ -19,4 +19,6 @@ The real problem of Pakistan however is water. For this reason, they don't care 
 
 India controls the origins of Indus, Jhelum, Chenab, Ravi and Sutlej.
 
-No
+Now, they are no longer fighting for Kashmir, but for the control of water. One can say that the original terrorist attacks have backfired against them in this case.
+# Solution Ideas
+General Musharaff of Pakistan said that they are okay with a sovereign state of Kashmir. This is because they are concerned with the illegal, undemocratic and unethical occupation of Kashmir by Indians.
