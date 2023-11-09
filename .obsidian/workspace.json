@@ -357,7 +357,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,7 +377,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "306bcf01c84bf4ae",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
     "My Ideas on solving the Arab-Israel conflict.md",
     "Free Radio Firmware.md",
