@@ -10,7 +10,7 @@ It is a scale where values are plotted by their logarithmic values. This is comm
 	- Sound Intensity Level (SIL) is different, and varies according to the room conditions. The human auditory threshold has an SIL of 0.98 $pW/m^2$ at 1 atm and 25$\degree$C.
 	- SIL can be related to SPL by the specific acoustic impedance value $\text{z}_0$, At ambient temperature, $\text{z}_0$ = 410 Pa-s/m, and therefore the reference value $\text{I}_0$ = 1 $pW/m^2$.
 	- I=pv, where p is the pressure and v is the velocity.
-		- For a given period, $I=\int\limits_5^4$
+		- For a given period, $I=\int\limits_0^T p(t)v(t)dt$. For a plane wave, this is $I=2\pi^2v^2A^2$.
 - Neper
 - Richter Scale
 - pH scale
