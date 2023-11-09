@@ -30,8 +30,7 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 	- Typically, the width of the stopband is 1 or 2 decades away.
 		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency. This is measures frequency levels, unlike decibel, another [[logarithmic scale]] unit which measures amplitudes.
 		- The steepness of the [[World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function|transfer function]] with frequency of a filter is called the roll-off.
-		- The roll off of a filter is usually 20 dB/decade apart in signal levels, because by signal theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB, which is 20 dB for a decade. Which is to say, 100 times the signal level.
-		- So low pass filter will have a slope of 6db/octave beyond its passband, which is equal to 20db/decade.
+		- The roll off of a filter is usually 20 dB/decade, because by theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB. It is also equal to 6db/octave.
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
 - Lowpass Filter: A filter than only allows bands below a cut-off frequency to pass.
 - Lowpass signal: The filtered signal after passing through a lowpass filter.
@@ -42,7 +41,7 @@ AM generates double sidebands (DSB) with the same bandwidth, which is eliminated
 
 The frequencies used in the signal are lower than the frequencies in the carrier wave.
 
-
+## Baseband and Passband transmissions
 There are two types of transmission. Baseband and Passband. Passband refers to the modulated signal, while baseband signal just transmits the information from the near zero the baseband frequency with all it's energy. Only one message is passed through the entire baseband bandwidth. So, when this signal is modulated, we get the passband signal.
 
 The baseband bandwidth is concentrated about 0 Hz, while the passband bandwidth is concentrated about the carrier wave frequency. Baseband signal is also known as lowpass signal, because the original signal bandwidth is only limited by a lowpass filter.
