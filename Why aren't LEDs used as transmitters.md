@@ -21,7 +21,7 @@ But, the range is only affected by the frequency of the carrier wave, not the mo
 
 Longer waves also travel longer at night, this is commonly to the benefit of amateur radio operators, because the lower altitude D and E layers of the ionosphere lose energy, and the reflection happens at the higher F1/F2 layers allowing DX. Skywave propagation only happens in the 3MHz - 30 MHz range.
 
-The frequencies above 30 MHz can also be scattered by the troposphere (troposcattering) back to Earth, which gives it a shorter range, and this also requires more power.
+The frequencies above 30 MHz can also be scattered by the troposphere (tropo-scattering) back to Earth, which gives it a shorter range, and this also requires more power. UHF and SHF frequencies are commonly used. The propagation losses are very high (only about 1 trillionth of the signal level is reflected back), and hence lower frequencies like HF and VHF aren't enough.
 
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
