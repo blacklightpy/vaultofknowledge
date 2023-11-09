@@ -23,6 +23,8 @@ Longer waves also travel longer at night, this is commonly to the benefit of ama
 
 The frequencies above 30 MHz can also be scattered by the troposphere (tropo-scattering) back to Earth, which gives it a shorter range, and this also requires more power. UHF and SHF frequencies are commonly used. The propagation losses are very high (only about 1 trillionth of the signal level is reflected back), and hence lower frequencies like HF and VHF aren't enough.
 
+Higher frequencies usually pass through the ionosphere. Lower frequencies are obstructed, especially by the Van Allen belt, but we don't use them for space communications, and there can still be some leakage.
+
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
 
