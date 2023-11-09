@@ -5,7 +5,7 @@ But 400THz is the beginning of visible spectrum! (Oops, I thought it was 4, and 
 We have IR LEDs, IR sensors, Visible LEDs and Visible Cameras.
 What does 6G, or 7G mean for these?
 
-+NOTE: I also just heard that above 300 GHz, all power is absorbed within a few metres, and the atmosphere is 
++NOTE: I also just heard that above 300 GHz, all power is absorbed within a few metres, and the atmosphere is effectively opaque. Although I'd have to verify this claim, considering the progress.
 
 My guess is that LEDs are diffuse radiators with a mix of frequencies, and hence they are not ideal for modulation.
 And I would guess IR LEDs are used as remote controllers by intensity modulation within a pretty large margin of error.
@@ -18,6 +18,8 @@ Ahh, here I see the problem of using cameras. They just measure the intensity of
 This is partly because AM typically uses longer wavelengths and hence more omnidirectional antennas, while FM antennas use shorter wavelengths and more directed antennas. This is to account for good bandwidth, FM uses UHF or VHF bands to have many frequency channels, while AM generally uses SW, MW or LW bands. The directionality is a by-product of the frequency, generally, higher frequency antennas are more directional, or line-of-sight. This is also because AM waves are refracted back to the ground by the ionosphere, but FM waves pass through the ionosphere, and hence are more directional.
 
 But, the range is only affected by the frequency of the carrier wave, not the modulation used. It's just that the higher the frequency, more the possible bandwidth of the modulated signal. Now, for a given bandwidth, the data rate depends on the specific modulation used (such as FSK, QPSK, etc.). That is a part of digital communications and signal processing. After all, all digital signals are analog signals in the first place, just cut off periodically. 
+
+The AM waves also travel longer at night, this is commonly to the benefit of amateur radio operators, because the lower altitude D and E layers of the ionosphere lose energy, and the reflection happens at the higher F1/F2 layers.
 
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
