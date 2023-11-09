@@ -1,0 +1,3 @@
+- Pakistan is situated in a water scarce land
+- They are afraid that during times of conflict, India may cut off water supply to Pakistan
+- Pakistan is expected to go water scarce soon, while India is expected to go scarce by 2050
