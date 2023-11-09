@@ -15,7 +15,7 @@ Ahh, here I see the problem of using cameras. They just measure the intensity of
 
 This is partly because AM uses longer wavelengths and omnidirectional antennas, while FM antennas are usually directional and has shorter wavelengths. To account for good bandwidth, FM uses UHF or VHF bands to have many frequency channels, while AM uses SW, MW or LW bands.
 
-But, the range is only affected by the frequency of the carrier wave, not the modulation used. It's just that the higher the frequency, more the possible bandwidth of the modulated signal. Now, for a given bandwidth, the data rate depends on the specific modulation used. That is a part of digital communications and signal processing.
+But, the range is only affected by the frequency of the carrier wave, not the modulation used. It's just that the higher the frequency, more the possible bandwidth of the modulated signal. Now, for a given bandwidth, the data rate depends on the specific modulation used (such as FSK, QPSK, etc.). That is a part of digital communications and signal processing. After all, all digital signals are analog signals in the first place, just cut off periodically. 
 
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 

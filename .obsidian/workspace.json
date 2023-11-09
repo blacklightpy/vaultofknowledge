@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -403,7 +403,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "710159f96c2dc4fd",
+  "active": "dfd56d8e13fe3d34",
   "lastOpenFiles": [
     "Why aren't LEDs used as transmitters.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function.md",
