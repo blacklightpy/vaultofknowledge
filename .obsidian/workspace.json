@@ -151,19 +151,6 @@
             }
           },
           {
-            "id": "6d9bffcac4cfd03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f26e34f9d2d2fa6",
             "type": "leaf",
             "state": {
@@ -308,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Isn't using technology built by atheists wrong for religious people.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
+                "file": "Isn't using technology built by atheists wrong for religious people.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md"
+                "file": "Isn't using technology built by atheists wrong for religious people.md"
               }
             }
           },
@@ -403,13 +390,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "710159f96c2dc4fd",
+  "active": "900078cca459b669",
   "lastOpenFiles": [
-    "Isn't using technology built by atheists wrong for religious people.md",
-    "Religious views on technology.md",
-    "Why aren't LEDs used as transmitters.md",
-    "Untitled 1.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Springs.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Spring Equation.md",
     "My Ideas on solving the Arab-Israel conflict.md",
+    "Why abandon proprietary technology.md",
+    "World Building/Philosophy/Smell.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Why aren't LEDs used as transmitters.md",
+    "Isn't using technology built by atheists wrong for religious people.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
+    "Religious views on technology.md",
     "Free Radio Firmware.md",
     "Predator or Prey.md",
     "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
@@ -427,13 +421,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Minimal Project Tree.md",
     "Serial Ports.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/General Programming/Callbacks.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Transfer Functions in Imaging.md",
-    "Z1-Inbox/Transfer Function.md",
-    "Logarithmic Scale.md",
-    "International Mobile Telephony 2000.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",

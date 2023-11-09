@@ -4812,7 +4812,7 @@
 
 ##### Artificial Intelligence
 
-![[/World Building/Science and Engineering/Engineering/Mechanical Engineering/Artificial Intelligence.md|Artificial Intelligence.md]]
+![[Mechanical Engineering|Artificial Intelligence.md]]
 
 ---
 

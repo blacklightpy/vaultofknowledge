@@ -59,8 +59,8 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Very Large Scale Integration]]
 	- **Materials Engineering**
 		- [[Strength to Weight Ratio]]
-	- **Mechanical Engineering**
-		- [[Artificial Intelligence]]
+	- **[[Mechanical Engineering]]**
+		- [[Spring Equation]]
 	- **[[Mechanical Manufacturing]]**
 	- **Mechatronics**
 		- [[Micro Electromechanical Systems]]

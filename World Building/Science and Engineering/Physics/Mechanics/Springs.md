@@ -1,0 +1,1 @@
+See: [[Spring Equation]]
