@@ -6,7 +6,7 @@ It is a scale where values are plotted by their logarithmic values. This is comm
 - Shannon
 # Units of level
 - Decibel, Bel
-	- For sound in air, the decibel scale is relative to $20\micro Pa$
+	- For sound in air, the decibel scale is relative to an air pressure of $\text{20 }\micro\text{Pa}$, which is approximately the sound of a mosquito flying 3 metres away, which is 
 - Neper
 - Richter Scale
 - pH scale
