@@ -4,4 +4,4 @@ Because, I was wondering if a modern technology could solve the problem of hunge
 
 Of course, I'm keeping this aside from the fact that the world created in this manner could effectively be heaven itself, because some people could still think heaven is something better, because that's the nature of addictions, to seek a higher high.
 
-So, if that is the case, shouldn't they have had not used any form of technology invented by heretics so they'd end up dependent on them?
+So, if that is the case, shouldn't they have had not used any form of technology invented by heretics so they'd end up dependent on them? Because right now, people of faith lavishly use technology, while much of them were built by non-faithful engineers?
