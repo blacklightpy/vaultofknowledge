@@ -240,9 +240,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2cac148d848cc313",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -308,7 +316,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +332,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why aren't LEDs used as transmitters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -336,9 +342,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Why aren't LEDs used as transmitters.md"
-              }
+              "state": {}
             }
           },
           {
@@ -403,10 +407,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "710159f96c2dc4fd",
+  "active": "2cac148d848cc313",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Why aren't LEDs used as transmitters.md",
+    "Untitled 1.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Transfer Functions in Imaging.md",
     "Z1-Inbox/Transfer Function.md",
