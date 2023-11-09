@@ -292,9 +292,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45aae30bb8b5b03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jihad as per Quran.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -455,12 +468,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "66626d8e50bef577",
+  "active": "45aae30bb8b5b03a",
   "lastOpenFiles": [
-    "28.md",
-    "Jihad as per Quran.md",
-    "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
     "Salafi Jihadism.md",
+    "Jihad as per Quran.md",
+    "28.md",
+    "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/Khalistan Movement.md",
