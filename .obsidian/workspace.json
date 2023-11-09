@@ -268,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predator or Prey.md",
+                "file": "Isn't using technology built by atheists wrong for religious people.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predator or Prey.md",
+                "file": "Isn't using technology built by atheists wrong for religious people.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predator or Prey.md"
+                "file": "Isn't using technology built by atheists wrong for religious people.md"
               }
             }
           },
@@ -429,8 +429,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "91051b8c1963920d",
+  "active": "900078cca459b669",
   "lastOpenFiles": [
+    "Predator or Prey.md",
     "Isn't using technology built by atheists wrong for religious people.md",
     "Why aren't LEDs used as transmitters.md",
     "Untitled 1.md",
@@ -438,7 +439,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Transfer Functions in Imaging.md",
     "Z1-Inbox/Transfer Function.md",
     "Logarithmic Scale.md",
-    "Predator or Prey.md",
     "Free Radio Firmware.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "International Mobile Telephony 2000.md",

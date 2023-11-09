@@ -6,4 +6,4 @@ But you see the cat aiming for the bird when it flies too low, and your percepti
 Are we not siding with the hunger of the cat, which we can relate to?
 Why is hunger even a thing in nature?
 
-What benefit does hunger even have 
+What benefit does hunger even have? Harnessing energy? For this, I wrote: [[Isn't using technology built by atheists wrong for religious people]].
