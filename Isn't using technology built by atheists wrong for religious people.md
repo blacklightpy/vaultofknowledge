@@ -12,6 +12,8 @@ Another argument would be that inventing technology was hard, and while the unfa
 
 In any case, I can assure you that, I don't consider my work as hard work. It is just something I enjoy. Life does become hard, because people don't mind you much when you don't have the time to interact with them, even though you value them. But that's beyond my control, and I wouldn't be able to do what I'm happy about if I tried to keep their attention. In either case, I had to lose one of them, and suffering is something that's part of life. Even if you did your best, people may ignore you for other reasons, but technology is always just the same. For this reason, I decided to pay more attention to my other interest than with friendships.
 # Views on technology
-- Hinduism: Doesn't really care
-- Buddhism: The first principle requires not 
-- Taoism
+- Hinduism: Doesn't really care. It cares about ending the cycle of birth and rebirth.
+- Buddhism: The first principle requires not wishing for anything in life. Hence, technology is kind of useless.
+- Taoism: Doesn't like interfering with nature. But as Alan Watts said, perhaps, technology is not bad in the hands of the people who know they are connected to the world around them.
+- Judaism: Mixed. After the original sin, we are supposed to till the earth with soil and sweat. God helped Noah build the Ark, and allowed the use of tools, and even gave him the instructions, but shunned the Tower of Babel.
+- 
