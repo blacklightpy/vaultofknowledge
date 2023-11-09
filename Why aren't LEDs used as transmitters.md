@@ -32,5 +32,6 @@ AM generates double sidebands (DSB) with the same bandwidth, which is eliminated
 The frequencies used in the signal are lower than the frequencies in the carrier wave.
 
 
-There are two types of transmission. Baseband and Passband.
-Passband refers to the modulated signal, while baseband just tran
+There are two types of transmission. Baseband and Passband. Passband refers to the modulated signal, while baseband signal just transmits the information from the near zero the baseband frequency with all it's energy. Only one message is passed through the entire baseband bandwidth. So, when this signal is modulated, we get the passband signal.
+The baseband bandwidth is concentrated about 0 Hz, while the passband bandwidth is concentrated about the carrier wave frequency.
+
