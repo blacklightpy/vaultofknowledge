@@ -23,7 +23,8 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 
 # Terms
 - Passband: The frequency range that can pass through a bandpass filter
-- Bandpass Filter: A filter that only allows some bands to pass.
+- Bandpass Filter: A filter that only allows bands in a given range to pass. It usually has
+- Lowpass Filter: 
 - Bandpass signal: The filtered signal after passing through a bandpass filter
 - Baseband signal: A signal with frequencies from 0 to the baseband frequency
 
@@ -33,5 +34,6 @@ The frequencies used in the signal are lower than the frequencies in the carrier
 
 
 There are two types of transmission. Baseband and Passband. Passband refers to the modulated signal, while baseband signal just transmits the information from the near zero the baseband frequency with all it's energy. Only one message is passed through the entire baseband bandwidth. So, when this signal is modulated, we get the passband signal.
-The baseband bandwidth is concentrated about 0 Hz, while the passband bandwidth is concentrated about the carrier wave frequency.
+
+The baseband bandwidth is concentrated about 0 Hz, while the passband bandwidth is concentrated about the carrier wave frequency. Baseband signal is also known as lowpass signal, because the original signal bandwidth is only limited by a lowpass filter.
 
