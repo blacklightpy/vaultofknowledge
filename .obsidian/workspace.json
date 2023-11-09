@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Free Radio Firmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "Free Radio Firmware.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -311,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md"
+                "file": "Free Radio Firmware.md"
               }
             }
           },
@@ -357,8 +357,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,10 +376,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f5b1a482abd72f6",
+  "active": "306bcf01c84bf4ae",
   "lastOpenFiles": [
-    "Free Radio Firmware.md",
     "My Ideas on solving the Arab-Israel conflict.md",
+    "Free Radio Firmware.md",
     "International Mobile Telephony 2000.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Z1-Inbox/Comparing UX of Operating Systems.md",
