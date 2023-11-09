@@ -25,3 +25,6 @@ Now, they are no longer fighting for Kashmir, but for the control of water. One 
 # Fears
 - Indians fear that if they are given Kashmir, then they will claim the rest of India. I believe this stems from not understanding the issue.
 - Pakistanis fear India may cut off water supply, due to the growing population of India, and due to certain projects such as the Kishanganga hydroelectric project.
+# Arguments
+- The IWT has been honoured for over 50 years, so Pakistan's worries are baseless.
+- They allow fooling Pakistani civilians and s
