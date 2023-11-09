@@ -30,3 +30,7 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 AM generates double sidebands (DSB) with the same bandwidth, which is eliminated or suppressed by using a filter, to form a single sideband (SSB), or single sideband suppressed carrier (SSB-SC) wave, and is reintroduced for remodulation at the receiver using a Beat Frequency Oscillator (BFO). This is done to avoid wastage of power, as carrier waves don't transmit information at all.
 
 The frequencies used in the signal are lower than the frequencies in the carrier wave.
+
+
+There are two types of transmission. Baseband and Passband.
+Passband refers to the modulated signal, while baseband just tran
