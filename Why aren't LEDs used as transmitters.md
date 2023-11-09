@@ -26,3 +26,7 @@ Fun fact: LEDs are used as transmitters and detectors too. This was invented by 
 - Bandpass Filter: A filter that only allows some bands to pass.
 - Bandpass signal: The filtered signal after passing through a bandpass filter
 - Baseband signal: A signal with frequencies from 0 to the baseband frequency
+
+AM generates double sidebands with the same bandwidth, which is eliminated by using a filter, and is reintroduced for remodulation at the receiver using a Beat Frequency Oscillator (BFO).
+
+The frequencies used in a 
