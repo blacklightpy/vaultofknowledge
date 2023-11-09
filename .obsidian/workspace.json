@@ -242,11 +242,16 @@
             }
           },
           {
-            "id": "2cac148d848cc313",
+            "id": "900078cca459b669",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Isn't using technology built by atheists wrong for religious people.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -316,6 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Isn't using technology built by atheists wrong for religious people.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,6 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Isn't using technology built by atheists wrong for religious people.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -342,7 +349,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Isn't using technology built by atheists wrong for religious people.md"
+              }
             }
           },
           {
@@ -407,9 +416,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2cac148d848cc313",
+  "active": "900078cca459b669",
   "lastOpenFiles": [
     "Why aren't LEDs used as transmitters.md",
+    "Isn't using technology built by atheists wrong for religious people.md",
     "Untitled 1.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Transfer Functions in Imaging.md",
@@ -434,7 +444,6 @@
     "Solving the problem of naming free operating systems.md",
     "Why abandon proprietary technology.md",
     "Free Subdomain Services.md",
-    "World Building/Philosophy/Smell.md",
     "History/Current Affairs/Israel Palestine Conflict",
     "History/Current Affairs",
     "_images/The Flood Tablet in Nineveh, Iraq from 7 BC, at Neo-Assyria.jpg",
