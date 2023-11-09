@@ -16,4 +16,5 @@ In any case, I can assure you that, I don't consider my work as hard work. It is
 - Buddhism: The first principle requires not wishing for anything in life. Hence, technology is kind of useless.
 - Taoism: Doesn't like interfering with nature. But as Alan Watts said, perhaps, technology is not bad in the hands of the people who know they are connected to the world around them.
 - Judaism: Mixed. After the original sin, we are supposed to till the earth with soil and sweat. God helped Noah build the Ark, and allowed the use of tools, and even gave him the instructions, but shunned the Tower of Babel.
-- 
+- Christianity: Still mixed. Some churches had sacred arts, and distanced themselves from secular crafts, while some embraced modern technology.
+- Islam: Creating larger structures for meetings was necessary, but the depiction of the godhead or any living being is forbidden in arts and crafts.

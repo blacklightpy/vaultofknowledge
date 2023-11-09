@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isn't using technology built by atheists wrong for religious people.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isn't using technology built by atheists wrong for religious people.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isn't using technology built by atheists wrong for religious people.md"
+                "file": "Why aren't LEDs used as transmitters.md"
               }
             }
           },
@@ -403,10 +403,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "900078cca459b669",
+  "active": "710159f96c2dc4fd",
   "lastOpenFiles": [
-    "Religious views on technology.md",
     "Isn't using technology built by atheists wrong for religious people.md",
+    "Religious views on technology.md",
     "Why aren't LEDs used as transmitters.md",
     "Untitled 1.md",
     "My Ideas on solving the Arab-Israel conflict.md",
