@@ -1,0 +1,6 @@
+- Monotheism - Worship of one god alone. e.g. Abrahamic religions
+- Polytheism - Worship of many gods. e.g. Egyptian Gods, Greek Gods
+- Henotheism - Worship of one supreme god doesn't mean you can't worship other gods. e.g. Hinduism
+- Animism - The belief that all entities possess a spiritual essence. e.g. Hinduism
+- Pantheism - The belief that reality itself is god
+- Pantheistic Animism - The belief that all reality has a soul and that is god
