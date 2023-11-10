@@ -51,6 +51,7 @@
 ### FPGA Design Tooling
 - OpenFPGA
 - F4PGA (formerly SymbiFlow)
+- Yosys Open Synthesis Suite
 
 > [!NOTE]
 > OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
