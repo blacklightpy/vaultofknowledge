@@ -44,8 +44,10 @@
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub
 ## FPGA
-NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
-- Lattice Semiconductor FPGAs
+
+> [!NOTE]
+> - FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
+> - FPGA Development boards are based on FPGA Fabrics. The bitstreams associated with the FPGA Fabrics are usually proprietary and compiled using vendor software, but reverse engineering projects have led to the availability of open source development boards.
 ### FPGA Design Tooling
 - OpenFPGA
 - F4PGA (formerly SymbiFlow)
@@ -60,13 +62,14 @@ NOTE: FPGA Cores can be implemented on FPGA development boards. Also, a compiled
 > Backend: ASIC/FPGA Tooling, Verification, Testing and Simulation
 > Frontend: Synthesis Tools
 ### FPGA Development Boards
+The FPGA bitstreams are vendor secrets, and open source development boards are made by reverse engineering various core bitstreams.
+
 - Radiona ULX3S (Lattice ECP5 based; 4 variants - ECP5 12k-84k LUTs)
 - OrangeCrab FPGA
 - iCEBreaker FPGA (Lattice iCE40 based)
 - Embedded Micro Mojo V3 FPGA
-
-FPGA Fabrics: Lattice, Microchip, Xilinx, Intel, Analog Devices, QuickLogic
-The FPGA bitstreams are vendor secrets, and open source development boards are made by reverse engineering various core bitstreams.
+### FPGA Fabrics
+Lattice Semiconductor, Microchip, Xilinx, Intel, Analog Devices, QuickLogic
 # Designs
 ## Organizations
 - OpenCores.org
