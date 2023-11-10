@@ -7,4 +7,4 @@ Speed of Sound = $\sqrt{\dfrac{\text{elastic properties}}{\text{inertial propert
 - For a liquid medium: $v=B/\rho$, where $B$ is the Bulk modulus and $\rho$ is the density.
 - For an ideal gas: $v=\gamma RT/M$, where $\gamma$ is the adiabatic index, $R$ is the gas constant, $T$ is the temperature and $M$ is the molar mass.
 
-- For speed of light: $v=\sqrt{\mu_r\epsilon_r}$, where $\mu_r$ is the relative permeability and $\epsilon_r$ is the relative permittivity.
+- For speed of light: $v=\sqrt{\mu\epsilon}$, where $\mu$ is the relative permeability and $\epsilon$ is the relative permittivity.
