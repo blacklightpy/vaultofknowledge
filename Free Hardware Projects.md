@@ -9,7 +9,7 @@
 - GNU/Linux PowerPC Notebook
 - T-Head ROMA Laptop
 ## Motherboards
-Milk-V Pioneer (SG2042)
+- Milk-V Pioneer (SG2042)
 ## Single Board Computers
 - StarFive VisionFive 2 (has a GPU; Compares to RPi 4, but with a GPU; JH7110 SoC = 4x FU740 + IT GPU)
 - Pine64 Star64 (JH7110 + WiFi)
@@ -38,7 +38,7 @@ Milk-V Pioneer (SG2042)
 - Pile of Cores (PoC; VLSI-EDA/PoC on GitHub)
 - [[FOSS CPU Cores]]
 
-**Some Comparison Overview**
+**Some RISC-V Comparison Overview**
 	![RISC V Core Comparison](https://hackster.imgix.net/uploads/attachments/1587556/image_ytTUdIQR0j.png)
 ## GPU
 - MIAOW GPGPU Core
