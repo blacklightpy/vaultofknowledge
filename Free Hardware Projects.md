@@ -49,7 +49,7 @@
 > - FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
 > - FPGA Development boards are based on FPGA Fabrics. The bitstreams associated with the FPGA Fabrics are usually proprietary and compiled using vendor software, but reverse engineering projects have led to the availability of open source development boards.
 ### FPGA Design Tooling
-- OpenFPGA
+- OpenFPGA - A complete FPGA development framework
 - F4PGA (formerly SymbiFlow)
 - Yosys Open Synthesis Suite - It is the framework used by F4PGA
 

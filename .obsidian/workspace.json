@@ -268,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions and Walled Gardens.md",
+                "file": "Free Hardware Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religions and Walled Gardens.md",
+                "file": "Free Hardware Projects.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religions and Walled Gardens.md"
+                "file": "Free Hardware Projects.md"
               }
             }
           },
@@ -429,7 +429,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f289100f639efff4",
+  "active": "fe6b29f12eb1cb2a",
   "lastOpenFiles": [
     "Religions and Walled Gardens.md",
     "Free Hardware Projects.md",
