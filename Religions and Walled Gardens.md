@@ -9,4 +9,6 @@ A common observation in religions that rely on scriptures is that they provide a
 # Morality under religion
 As a society, we need a sense of stability to live peacefully. That is to say, one should not harm the autonomy of another living being, even though he has the full freedom to do so. If that is to happen, the individual's peace will be destroyed. If one person's life in the world is not peaceful, we cannot say that the world is a peaceful place to live, because no fault of their own, a random person's peace was destroyed.
 
-This sense o
+This sense of stability comes from a general understanding of nature and life, which should be easy and innate because the world is full of wonders and has allowed us to exist, and choose peace. But nature does have it's fair share of wild behaviours, such as the food chain. But we do not think of this as evil, for example when a lion eats a deer, and instead we view it as natural - because hunger and desire for survival are also opposing natural sensations.
+
+However, as thinking beings, we are capable of much more, and we are capable of identifying with one another as a team, so that we can
