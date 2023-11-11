@@ -1,0 +1,1 @@
+A common observation in religions that rely on scriptures is that they provide a walled garden of safety. Unlike physical walls, 
