@@ -260,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensive property.md",
+                "file": "Extensive Property.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensive property.md",
+                "file": "Extensive Property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensive property.md",
+                "file": "Extensive Property.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensive property.md"
+                "file": "Extensive Property.md"
               }
             }
           },
@@ -431,9 +431,9 @@
   },
   "active": "a5868f4f4b94c131",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Susceptibility.md",
-    "extensive property.md",
     "Religions and Walled Gardens.md",
+    "Extensive Property.md",
+    "World Building/Science and Engineering/Physics/Susceptibility.md",
     "Sound.md",
     "Free Hardware Projects.md",
     "World Building/Business and Finance/Company Management/Project Management/Managing Hardware Projects.md",
