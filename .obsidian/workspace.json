@@ -268,14 +268,6 @@
             }
           },
           {
-            "id": "1c7dac37b962996d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "18b67e7575e938ca",
             "type": "leaf",
             "state": {
@@ -289,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -355,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration, not Force, is constant at a given distance.md",
+                "file": "Religions and Walled Gardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration, not Force, is constant at a given distance.md",
+                "file": "Religions and Walled Gardens.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -384,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceleration, not Force, is constant at a given distance.md"
+                "file": "Religions and Walled Gardens.md"
               }
             }
           },
@@ -450,11 +442,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "18b67e7575e938ca",
+  "active": "f289100f639efff4",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
-    "Acceleration, not Force, is constant at a given distance.md",
     "Extensive Property.md",
+    "Acceleration, not Force, is constant at a given distance.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
     "Religions and Walled Gardens.md",
     "World Building/Science and Engineering/Physics/Susceptibility.md",
     "Sound.md",
