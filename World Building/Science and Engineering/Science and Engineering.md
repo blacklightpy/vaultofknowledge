@@ -601,6 +601,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Zeeman Effect]]
 	- **[[Spintronics]]**
 	- [[Starship Engines]]
+	- [[Susceptibility]]
 	- **Units and Measurements**
 		- [[Dynamic Range]]
 

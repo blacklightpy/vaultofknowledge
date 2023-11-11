@@ -1,0 +1,1 @@
+It is the quantification of change in an [[extensive property]] due to the variation of an [[intensive property]].
