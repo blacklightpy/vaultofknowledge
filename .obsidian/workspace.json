@@ -344,8 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -436,7 +435,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -455,7 +455,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "11312ac1c5e0c7f7",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
     "History/Periods of Archaeological History.md",
     "Timeline of Geological History.md",
