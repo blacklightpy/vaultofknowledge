@@ -282,6 +282,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- They were
 	- Ottomans banned India from the European spice trade
 	- They established the Ottoman Caliphate (fourth caliphate), as the successors of Sunni Islam
+
 > [!NOTE] INTERMEDIATE NOTE: Islam and Palestine
 > - [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]
 > 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
@@ -312,7 +313,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1556 AD: Ivan the Terrible makes Russia big
 
 ## Time Period 17
-### Eurasia and America
+### Europe, Asia, America, Australia and Africa
 - Portugal decided to control the entire Indian Ocean and control all the spice trades
 - Spain realized America is not India, but they pillaged it and made it New Spain
 - England and France decided to copy them
@@ -358,24 +359,24 @@ With agriculture, food became more reliable, but less varied, and people became 
 - US kicks Panama out of Panama and makes the Panama canal
 - 1908 AD: Britain found oil in the Middle East
 - Qing dynasty of China is tired of Britan, France, Germany, Russia and Japan trying to conquer them so they dissolve and form the Republic of China, which is controlled by Yuan Shikai of the Qing Dynasty
----
-# Intermediate Note: Antisemitism and "Scientific" Racism
-- In the 1850s, French writer Joseph Arthur de Gobineau developed a theory of Aryan master race and Nordicism.
-	- He was born in a French aristocratic family
-	- His father was a military officer and a staunch royalist.
-	- His mother was the daughter of a non-noble royal tax official
-	- He feared that his mother may have black ancestors
-	- He wrote a lot about his hatred for French Revolution
-	- He loved the Middle Ages, and preferred chivalry and knighthood compared to the norm of his time.
-	- Someone describes him as a \*romantic\*, "with chivalrous ideas and spirit, dreaming of what was most noble and most grand"
-		- [I must emphasize that this could've been the problem]
-		- ["Romantics" caring about "beauty", and religions seeking "purity" - while love, which is defined as caring for another, goes unseen]
-	- He also worried his wife would have black ancestors due to slave owners taking slave mistresses.
-		- He was opposed to slavery for this contamination of whites
-	- His Novel "Ternove" was the first one with which he linked class with race
-	- He wrote his theory of scientific racism in his book, "An Essay on the Inequality of the Human Races" and wanted to be remembered as its author.
-	- Aside from that, in his time he was known as a poet and a writer, writing about his adventures in Iran and Brazil
-- Hitler 
+
+> [!NOTE] INTERMEDIATE NOTE: Antisemitism and "Scientific" Racism
+>- In the 1850s, French writer Joseph Arthur de Gobineau developed a theory of Aryan master race and Nordicism.
+>	- He was born in a French aristocratic family
+>	- His father was a military officer and a staunch royalist.
+>	- His mother was the daughter of a non-noble royal tax official
+>	- He feared that his mother may have black ancestors
+>	- He wrote a lot about his hatred for French Revolution
+>	- He loved the Middle Ages, and preferred chivalry and knighthood compared to the norm of his time.
+>	- Someone describes him as a \*romantic\*, "with chivalrous ideas and spirit, dreaming of what was most noble and most grand"
+>		- [I must emphasize that this could've been the problem]
+>		- ["Romantics" caring about "beauty", and religions seeking "purity" - while love, which is defined as caring for another, goes unseen]
+>	- He also worried his wife would have black ancestors due to slave owners taking slave mistresses.
+>		- He was opposed to slavery for this contamination of whites
+>	- His Novel "Ternove" was the first one with which he linked class with race
+>	- He wrote his theory of scientific racism in his book, "An Essay on the Inequality of the Human Races" and wanted to be remembered as its author.
+>	- Aside from that, in his time he was known as a poet and a writer, writing about his adventures in Iran and Brazil
+> - Hitler 
 ---
 
 - 1914: World War I
@@ -421,6 +422,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Formation of Arabic and Jewish states
 		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
 - Arab-Israel Conflicts
+- 
 	- 1948 War
 		- HK of Transjordan annexed West Bank and was renamed to HK of Jordan
 	- 1967 War
