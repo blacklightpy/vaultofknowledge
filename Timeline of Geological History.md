@@ -13,7 +13,7 @@ The GTS is divided into chronostratigraphic units and their corresponding geochr
 
 In simple terms, chronostratigraphy deals with the dating of physical evidence, and geochronology deals with forming the temporal evidence extrapolated from it. In other words, chronostatigraphic units define a rock's identity according to age, while geochronographic units define the time period in which the rock was formed.
 
-Much like saying "Egyptian Civilization" originated in "3 Millenia BC"
+Much like saying "Egyptian Civilization" formed in "3 Millenia BC".
 
 > [!NOTE] How chronostratigraphic units are separated, and hence geochronometric units are defined
 > A **Global Boundary Stratotype Section and Point (GSSP)** is an internationally agreed upon reference point on a stratigraphic section which defines the lower boundaries of stages on the geologic time scale. (Recently this has been used to define the base of a system)
@@ -22,6 +22,12 @@ Much like saying "Egyptian Civilization" originated in "3 Millenia BC"
 
 The units used in GTS are as follows:
 
-| Chronostratigraphic Units | Geochronometric Units | Time Span |
-| ------------------------- | --------------------- | --------- |
-|                           |                       |           |
+| Chronostratigraphic Units (Strata Type) | Geochronometric Units (Time) | Time Span                                                   |
+| --------------------------------------- | ---------------------------- | ----------------------------------------------------------- |
+| Eonothem                                | Eon                          | Several hundred million years to two billion years          |
+| Erathem                                 | Era                          | Tens to hundreds of millions of years                       |
+| System                                  | Period                       | Millions of years to tens of millions of years              |
+| Series                                  | Epoch                        | Hundreds of thousands of years to tens of millions of years |
+| Subseries                               | Subepoch                     | Thousands of years to millions of years                     |
+| Stage                                   | Age                          | Thousands of years to millions of years                     |
+# Timeline of GTS
