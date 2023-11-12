@@ -255,25 +255,12 @@
             }
           },
           {
-            "id": "d764b3f3a69ae13b",
+            "id": "e0e730a13da87827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Geology/Timeline of Geological History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ff3c689a4881d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
+                "file": "Wolfram Physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -281,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -310,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compose",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,8 +314,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -348,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
+                "file": "Wolfram Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
+                "file": "Wolfram Physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -385,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md"
+                "file": "Wolfram Physics.md"
               }
             }
           },
@@ -435,13 +421,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4ff3c689a4881d02",
+  "active": "e0e730a13da87827",
   "lastOpenFiles": [
+    "Wolfram Physics.md",
+    "Acceleration, not Force, is constant at a given distance.md",
     "History/Geology/Timeline of Geological History.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "Why aren't LEDs used as transmitters.md",
     "Isn't using technology built by atheists wrong for religious people.md",
     "Religions and Walled Gardens.md",
-    "Acceleration, not Force, is constant at a given distance.md",
     "History/Current Affairs/Salafi Jihadism.md",
     "History/Current Affairs/Jihadist Attacks.md",
     "History/Current Affairs/Terrorism.md",
@@ -463,8 +451,6 @@
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/ΛCDM Model.md",
-    "World Building/Science and Engineering/Physics/Intensive Property.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",

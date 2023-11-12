@@ -1,0 +1,1 @@
+It is a computational approach to physics, by Stephen Wolfram
