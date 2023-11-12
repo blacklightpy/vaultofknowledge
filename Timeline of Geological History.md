@@ -44,12 +44,29 @@ The units used in GTS are as follows:
 ### Mesoarchean Era
 ### Paleoarchean Era
 ### Neoarchean Era
+
 ## Proterozoic Eon
+### Paleoproterozoic Era
+#### Siderian Period
+#### Rhyacian Period
+#### Orosirian Period
+#### Statherian Period
+### Mesoproterozoic Era
+#### Calymmian Period
+#### Ectasian Period
+#### Stenian Period
+### Neoproterozoic Era
+#### Tonian Period
+#### Cryogenian Period
+#### Ediacaran Period
+## Phanerozoic Eon
 ### Paleozoic Era
-
+#### Cambrian Period
+#### Ordovician Period
+#### Silurian Period
+#### Devonian Period
+#### Carboniferous Period
 #### Permian Period
-
-#### 
 ### Mesozoic Era
 #### Triassic Period
 #### Jurassic Period
