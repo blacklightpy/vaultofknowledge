@@ -22,9 +22,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 > [!Note]
 > Organize by:
-> - Millenia >
-> 	- Sizable Period >
+> - Millenia (From - To) >
+> 	- Sizable Time Period (From - To) >
 > 		- Civilization
+> 			- DATE: Event
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
 - People spread everywhere across Europe, Africa and Asia
@@ -370,7 +371,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 >	- He wrote his theory of scientific racism in his book, "An Essay on the Inequality of the Human Races" and wanted to be remembered as its author.
 >	- Aside from that, in his time he was known as a poet and a writer, writing about his adventures in Iran and Brazil
 > - Hitler 
----
 
 - 1914: World War I
 	- Allied Powers (Britain, France, Russia, Italy, Japan, US, etc.) vs Axis/Central Powers (Ottoman Empire, Austria-Hungary, Germany, Bulgaria, etc.)
