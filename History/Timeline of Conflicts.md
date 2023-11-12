@@ -31,7 +31,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
-
 # 4 Millenia BC
 [Chalcolithic Age]
 [Bronze Age]
@@ -420,6 +419,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Pakistan attacks Jammu and Kashmir
 	- 1948 India-Pakistan War and establishment of Line of Control
 - Cold War (1947-1991)
+	- Created the concept of Three Worlds
+		- First World / Western Bloc / Capitalist Bloc
+		- Second World / Eastern Bloc
+		- Third World / Neutral Countries / Non Aligned Movement
 - 1947: UN Partition Plan for Palestine at the end of British mandate
 	- Formation of Arabic and Jewish states
 		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
