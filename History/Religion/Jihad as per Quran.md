@@ -13,6 +13,6 @@ The mentions according to the Hadiths would only hold as much value as a army of
 
 Meanwhile, the Islamic Golden Age saw the origin of a specific Hadith that's more rational:
 
-> A related hadith tradition that has "found its way into popular Muslim literature",[[71]](https://en.wikipedia.org/wiki/Jihad#cite_note-71) and which has been said to "embody the Muslim mindset" of the [Islamic Golden Age](https://en.wikipedia.org/wiki/Abbasid_Caliphate#Islamic_Golden_Age "Abbasid Caliphate") (the period from the mid-8th century to mid-13th century following the relocation of the [Abbasid](https://en.wikipedia.org/wiki/Abbasid_Caliphate "Abbasid Caliphate") capital from [Damascus](https://en.wikipedia.org/wiki/Damascus "Damascus") to [Baghdad](https://en.wikipedia.org/wiki/Baghdad "Baghdad")), is:
+> A related hadith tradition that has "found its way into popular Muslim literature",\[[71](https://en.wikipedia.org/wiki/Jihad#cite_note-71)\] and which has been said to "embody the Muslim mindset" of the Islamic Golden Age "Abbasid Caliphate") (the period from the mid-8th century to mid-13th century following the relocation of the Abbasid capital from Damascus to Baghdad), is:
 > 
 > "The ink of the scholar is more holy than the blood of the martyr."

@@ -253,22 +253,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e15f57b5aa31a0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Jihad as per Quran.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -334,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Jihad as per Quran.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Jihad as per Quran.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Jihad as per Quran.md"
+                "file": "Why aren't LEDs used as transmitters.md"
               }
             }
           },
@@ -429,18 +416,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e15f57b5aa31a0b8",
+  "active": "710159f96c2dc4fd",
   "lastOpenFiles": [
-    "Acceleration, not Force, is constant at a given distance.md",
+    "Isn't using technology built by atheists wrong for religious people.md",
     "Religions and Walled Gardens.md",
-    "World Building/Science and Engineering/Physics/Susceptibility.md",
-    "History/Timeline of Conflicts.md",
+    "Acceleration, not Force, is constant at a given distance.md",
+    "History/Current Affairs/Salafi Jihadism.md",
     "History/Current Affairs/Jihadist Attacks.md",
     "History/Current Affairs/Terrorism.md",
+    "History/Religion/Islamist factions.md",
+    "History/Religion/Forms of religion.md",
+    "History/Religion",
+    "History/Religion/Jihad as per Quran.md",
+    "World Building/Science and Engineering/Physics/Susceptibility.md",
+    "History/Timeline of Conflicts.md",
     "Mathematics.md",
     "Center Terms.md",
     "Electromagnetic Waves.md",
-    "History/Jihad as per Quran.md",
     "History/Geology/Timeline of Geological History.md",
     "History/Geology",
     "History/Periods of Archaeological History.md",
@@ -454,10 +446,6 @@
     "World Building/Science and Engineering/Physics/Intensive Property.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Frequency Division Multiplexing.md",
-    "World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/GNSS Bands.md",
-    "World Building/Science and Engineering/Physics/Extensive Property.md",
-    "World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",
@@ -475,7 +463,6 @@
     "Center Terms.md.crswap",
     "World Building/Science and Engineering/Physics/Spintronics",
     "World Building/Science and Engineering/Physics/Nuclear Physics",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology",
     "_images/Continuous Deployment.png"
   ]
 }
