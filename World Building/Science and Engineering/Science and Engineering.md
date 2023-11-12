@@ -490,6 +490,8 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Transistors]]
 		- **[[Vacuum Tubes]]**
 		- [[Vias]]
+	- [[Extensive Property]]
+	- [[Intensive Property]]
 	- [[Maxwell's Demon]]
 	- **[[Mechanics]]**
 		- [[cam synthesis]]
