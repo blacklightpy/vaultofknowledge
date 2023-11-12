@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -347,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md"
               }
             }
           },
@@ -443,8 +443,8 @@
   },
   "active": "ef1e74cc0a29f7c8",
   "lastOpenFiles": [
-    "History/Current Affairs/Khalistan Movement.md",
     "History/Timeline of Conflicts.md",
+    "History/Current Affairs/Khalistan Movement.md",
     "Common Problems with Religions.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
