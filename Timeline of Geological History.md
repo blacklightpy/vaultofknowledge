@@ -13,6 +13,12 @@ The GTS is divided into chronostratigraphic units and their corresponding geochr
 
 In simple terms, chronostratigraphy deals with the dating of physical evidence, and geochronology deals with forming the temporal evidence extrapolated from it.
 
-A Global Boundary Stratotype Section and Point (GSSP) is an internationally agreed upon reference point on a stratigraphic section which defines the lower boundaries of stages on the geologic time scale.[9] (Recently this has been used to define the base of a system)[10]
+> [!NOTE] How chronostratigraphic units are separated, and hence geochronometric units are defined
+> A **Global Boundary Stratotype Section and Point (GSSP)** is an internationally agreed upon reference point on a stratigraphic section which defines the lower boundaries of stages on the geologic time scale. (Recently this has been used to define the base of a system)
+> 
+> A **Global Standard Stratigraphic Age (GSSA)** is a numeric only, chronologic reference point used to define the base of geochronologic units prior to the Cryogenian. These points are arbitrarily defined. They are used where GSSPs have not yet been established. Research is ongoing to define GSSPs for the base of all units that are currently defined by GSSAs. 
 
-A Global Standard Stratigraphic Age (GSSA)[11] is a numeric only, chronologic reference point used to define the base of geochronologic units prior to the Cryogenian. These points are arbitrarily defined.[7] They are used where GSSPs have not yet been established. Research is ongoing to define GSSPs for the base of all units that are currently defined by GSSAs. 
+The units used in GTS are as follows:
+
+| Chronostratigraphic Units || 
+| ------------------------- | --- |
