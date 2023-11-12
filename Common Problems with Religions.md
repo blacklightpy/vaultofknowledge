@@ -14,6 +14,8 @@
 - Sree Narayana Religion
 	- Casteist Superiority Complex
 		- Sree Narayana Guru said "one caste, one religion, for all man"
-		- But the Ezhava caste members after his dead maintai
+		- But the members of his caste, Ezhava after his dead maintained that the one caste is Ezhava
+- Buddhism
+	- Sees life as a problem which one needs to escape from forever
 - Atheism
 	- Because you can't see or form an explanation about something, it doesn't exist
