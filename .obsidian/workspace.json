@@ -279,9 +279,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11312ac1c5e0c7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Periods of Archaeological History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -347,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Periods of Archaeological History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "History/Periods of Archaeological History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +389,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "History/Periods of Archaeological History.md"
               }
             }
           },
@@ -441,10 +454,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ef1e74cc0a29f7c8",
+  "active": "11312ac1c5e0c7f7",
   "lastOpenFiles": [
-    "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+    "Timeline of Geological History.md",
+    "History/Periods of Archaeological History.md",
     "History/Timeline of Conflicts.md",
+    "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
     "History/Current Affairs/Khalistan Movement.md",
     "Common Problems with Religions.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
@@ -467,8 +482,6 @@
     "Untitled 1.md",
     "Isn't using technology built by atheists wrong for religious people.md",
     "Sound.md",
-    "Religions and Walled Gardens.md",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",

@@ -1,5 +1,8 @@
 The periods of history can be classified into Eons > Eras > Periods > Epochs > Ages
 We are presently in the Holocene Epoch, since the end of the last Ice Age, ~11,700 years ago.
+
+Archaeology is the study of human history.
+Etymology: Archae (ancient)  + logy (study)
 # Archaeological Ages
 This is different for different regions (Levant, Indus River Valley, Greece, etc.)
 
