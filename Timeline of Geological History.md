@@ -6,7 +6,6 @@ The definition of standardized international units of geological time is the res
 
 The GTS is divided into chronostratigraphic units and their corresponding geochronologic units.
 
-Chronostraigraphy is a part of stratigraphy. Stratigraphy is the branch of geology concerned with the study of rock layers (strata) and layering (stratification). Chronostratigraphy is one of the three subdivisions of stratigraphy, dealing with the
-
-
-
+- Chronostraigraphy is a part of stratigraphy. Stratigraphy is the branch of geology concerned with the study of rock layers (strata) and layering (stratification).
+- Chronostratigraphy is one of the three subdivisions of stratigraphy (the other two being lithostratigraphy and biostratigraphy), dealing with placing an absolute age to rock strata.
+- 
