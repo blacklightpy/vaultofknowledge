@@ -21,7 +21,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 
 > [!Note]
-> Organize by 
+> Organize by
+> - Millenia >
+> 	- Sizable Period >
+> 		- Civilization
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
 - People spread everywhere across Europe, Africa and Asia
