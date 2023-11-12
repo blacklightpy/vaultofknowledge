@@ -75,3 +75,10 @@ The units used in GTS are as follows:
 #### Paleogene Period
 #### Neogene Period
 #### Quaternary Period
+##### Pleistocene Epoch
+###### Gelasian Age
+###### Calabrian Age
+###### Chibanian Age
+###### Late/Upper Pleistocene (Tarantian Age)
+##### Holocene Epoch
+
