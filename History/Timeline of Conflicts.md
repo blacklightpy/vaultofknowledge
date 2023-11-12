@@ -12,16 +12,16 @@ Now, the history of human civilization can be mapped to the oldest known traces,
 
 With agriculture, food became more reliable, but less varied, and people became more prone to diseases, and settling together made diseases easier to spread.
 
-- [Semitic languages were a Afroasiatic group of languages including Arabic, Amharic, Hebrew, etc.]
-	- Jesus spoke Aramaic and Hebrew
-		- He was from Nazareth in Galilee
-			- Aramaic > Western Aramaic > Jewish Palestinian Aramaic > Galilean Dialect
-	- Heiroglyphics > Sumerian (Of Sumer), Elamtite/Hatamtite/Susian> East Semitic Akkadian, West Semitic > Central Semitic > Northwest Semtic, Arabic > Aramaic, Canaanite Languages (Hebrew, Aramaic, etc.) > Classical Arabic (Quran based)
-		- Semite was derived from Shem, Noah's faithful son
-
+> [!NOTE] INTERMEDIATE NOTE: Semitic Languages
+>- [Semitic languages were a Afroasiatic group of languages including Arabic, Amharic, Hebrew, etc.]
+>	- Jesus spoke Aramaic and Hebrew
+>		- He was from Nazareth in Galilee
+>			- Aramaic > Western Aramaic > Jewish Palestinian Aramaic > Galilean Dialect
+>	- Heiroglyphics > Sumerian (Of Sumer), Elamtite/Hatamtite/Susian> East Semitic Akkadian, West Semitic > Central Semitic > Northwest Semtic, Arabic > Aramaic, Canaanite Languages (Hebrew, Aramaic, etc.) > Classical Arabic (Quran based)
+>		- Semite was derived from Shem, Noah's faithful son
 
 > [!Note]
-> Organize by
+> Organize by:
 > - Millenia >
 > 	- Sizable Period >
 > 		- Civilization
@@ -132,6 +132,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 37 BC: Herodian Kingdom succeeds it
 	- 4 BC: When Herod died, his kingdom was inherited by his four sons to form the Herodian tetrarchy
 - Parthians leave Hellenistic Empire
+- Jesus was born, marking the Common Era (CE), also denoted as Anno Domini (AD).
 - 6 AD: Kingdom of Judea becomes an independent state in the Hellenistic Empire
 - Parthians conquer a part of the Hellenistic Empire (East Central Asia) to form Parthian Empire
 - Roman Empire captured the entire Mediterranean belt
