@@ -304,7 +304,7 @@ Arabs arrived in Palestine after 1st century AD.
 - 1517 AD: Martin Luther said it's all a scam and wrote 95 reasons why in his book, and it started the protestant reformation
 ### Eurasia, Africa
 
-#### Levant
+#### Levant and Africa
 - 1530 AD: Suleiman The Magnificent makes the Ottoman Empire big, and gets part of the holy land which was previously a part of the Seljuk Empire
 #### Russia
 - 1556 AD: Ivan the Terrible makes Russia big
