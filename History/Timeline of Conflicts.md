@@ -417,15 +417,17 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Death of Hitler
 	- Atomic bombs
 - 1947: Independence in India, and formation of Pakistan and Bangladesh
+	- Pakistan attacks Jammu and Kashmir
+	- India-Pakistan War and establishment of Line of Control
 - Cold War
 - 1947: UN Partition Plan for Palestine at the end of British mandate
 	- Formation of Arabic and Jewish states
 		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
 - Arab-Israel Conflicts
-- 
+	- Establishment of Israel with expulsion and massacre of Arabs
 	- 1948 War
 		- HK of Transjordan annexed West Bank and was renamed to HK of Jordan
-	- 1967 War
+	- 1967 War (Six Day War)
 	- 1982 Lebanon War
 	- 1993 Oslo Peace Accords with the Palestine Liberation Organization (PLO)
 	- Intifadas in 90s and in 00s by Hamas
