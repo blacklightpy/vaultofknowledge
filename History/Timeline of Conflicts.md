@@ -233,12 +233,10 @@ Arabs arrived in Palestine after 1st century AD.
 - 1066 AD: William the Conqueror conquers England
 ---
 ## Time Period 12
-### Europe, Asia
+### Eurasia
 - 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire (Anatolian peninsula)
 	- This weakened the Zoroastrian culture in Iran
 - 1099 AD: Constantine took the help of Pope in Western Roman empire to start the crusades to capture back the holy land
----
-### Europe
 - Italians from Genoa and Venice get spice trades from the Seljuk Empire
 ### America
 - The Classic Maya civilization collapses
@@ -251,7 +249,7 @@ Arabs arrived in Palestine after 1st century AD.
 - Korea, or Goryeo became itself
 - 1192 AD: Japan is so addicted to art that the Shogunate military takes over
 - China invented bombs and typing
-
+## Time Period 13
 ### Eurasia
 - 1228-1259 AD: Mongols invaded all of central Asia and Europe under Genghis Khan
 	- This weakened the Seljuk Empire
@@ -259,16 +257,21 @@ Arabs arrived in Palestine after 1st century AD.
 - The Mongol Empire breaks into Yuan, Golden Horde, Chagatai, Ilkhanate
 ### India
 - Mu'iz Al-din Muhammad (Ghurid Sultan) of the Turks were unaffected by the Mongols, because they were busy invading India and forming the Delhi Sultanate
+### Australia
 - Tu'i Tonga empire conquers the Pacific Ocean
+### Africa
 - Swahili gets all its gold from The Great Zimbabwe
 - The Khanem Empire forms around the African Chad lake
 - 1324 AD: Mansa Musa, the King of Mali travels the world (I guess to Mecca) letting everyone know he's rich
+### Europe
 - Christians conquer Liberia from the Muslims to form Spain and Portugal (not Spain)
 - Spanish Inquisition
 - 1350 AD: Black Death kills half of Europe
+### Asia
 - China's back with the Ming Dynasty
 - 1400 AD: Khmer shares kingdoms with Ayutthaya and Ian Xang
 - The Majapahit controls part of the India China sea routes.
+### Europe
 - 1450 AD: Italy is rich and cares about art and the Ancient Greek Classics (The Renaissance Period)
 - Gutenberg invents the printing press
 ---
