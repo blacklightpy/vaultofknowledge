@@ -195,8 +195,8 @@ The units used in GTS are as follows:
 ###### 4.3.2.1.5. Tortonian Age
 ###### 4.3.2.1.6. Messinian Age
 ##### 4.3.2.2. Pliocene Epoch
-###### Zanclean Age
-###### Piacenzian Age
+###### 4.3.2.2.1. Zanclean Age
+###### 4.3.2.2.2. Piacenzian Age
 #### 4.3.3. Quaternary Period
 ##### 4.3.3.1. Pleistocene Epoch
 ###### 4.3.3.1.1. Gelasian Age
