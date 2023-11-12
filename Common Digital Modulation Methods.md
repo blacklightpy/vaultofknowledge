@@ -24,4 +24,7 @@
 - Wavelet Modulation
 - Trellis Coded Modulation (TCM)
 - Spread Spectrum
-	- Direct Sequence 
+	- Direct Sequence Spread Spectrum (DSSS)
+	- Chirp Spread Spectrum (CSS)
+	- Frequency-Hopping Spread Spectrum (FHSS)
+	- 
