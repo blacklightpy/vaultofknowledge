@@ -211,7 +211,6 @@ Arabs arrived in Palestine after 1st century AD.
 - Roman Empire's gone, but the Pope is still the Pope
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
 - The Moors (Black Arabs) spread over all of the Arabic countries and Western Europe
-
 ## Time Period 11
 ### Middle East Asia
 - 786 AD: Baghdad House of Wisdom and the Islamic Golden Age
@@ -271,10 +270,9 @@ Arabs arrived in Palestine after 1st century AD.
 - China's back with the Ming Dynasty
 - 1400 AD: Khmer shares kingdoms with Ayutthaya and Ian Xang
 - The Majapahit controls part of the India China sea routes.
-### Europe
-- 1450 AD: Italy is rich and cares about art and the Ancient Greek Classics (The Renaissance Period)
-- Gutenberg invents the printing press
----
+## Time Period 14
+
+### Eurasia
 - The fourth crusade ended up capturing the Byzantine empire as part of the Latin empire and weaking Constantinople
 - 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
 	- They were
@@ -284,10 +282,12 @@ Arabs arrived in Palestine after 1st century AD.
 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
 	- Mahdi is not based on the Quran, but on the haddiths.
 - [Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
-
----
+### Europe
+- 1450 AD: Italy is rich and cares about art and the Ancient Greek Classics (The Renaissance Period)
+- Gutenberg invents the printing press
 - Portugal finds another way to India to get spices
 - 1492 AD: Christopher Columbus asks Portugal to find a way to India by travelling west since the Earth is round. Portugal refuses, so he asks Spain a couple of time and they agree.
+
 - 1494 AD: Columbus reaches the Indies and what they think is Japan (but North America though)
 - They make the Treaty of Tordesillas to decide who of Spain and Portugal gets which part of the world
 - Aztec empire of North America and Inca empire of South America start, but Europe had just discovered their continent
