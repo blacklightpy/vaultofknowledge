@@ -59,23 +59,54 @@ The units used in GTS are as follows:
 #### 4.1.1. Cambrian Period
 ##### Terreneuvian Epoch
 ###### Fortunian Age
-###### Stage 2 Age
-##### Series 2 Epoch
+###### Cambrian Stage 2 Age
+##### Cambrian Series 2 Epoch
+###### Cambrian Stage 3 Age
+###### Cambrian Stage 4 Age
 ##### Miaolingian Epoch
+###### Wuliuan Age
+###### Drumian Age
+###### Guzhangian Age
 ##### Furongian Epoch
+###### Paibian Age
+###### Jiangshanian Age
+###### Cambrian Stage 10 Age
+
 #### 4.1.2. Ordovician Period
 ##### Lower/Early Ordovician Epoch
+###### Tremadocian Age
+###### Floian Age (formerly Arenig Age)
 ##### Middle Ordovician Epoch
+###### Dapingian Age
+###### Darriwilian Age
 ##### Upper/Late Ordovician Epoch
+###### Sandbian Age
+###### Katian Age
+###### Hirnantian Age
 #### 4.1.3. Silurian Period
 ##### Llandovery Epoch
+###### Rhuddanian Age
+###### Aeronian Age
+###### Telychian Age
 ##### Wenlock Epoch
+###### Sheinwoodian Age
+###### Homerian Age
+
 ##### Ludlow Epoch
+###### Gorstian Age
+###### Ludfordian Age
 ##### Pridoli Epoch
 #### 4.1.4. Devonian Period
 ##### Lower/Early Devonian Epoch
+###### Lochkovian Age
+###### Pragian Age
+###### Emsian Age
 ##### Middle Devonian Epoch
+###### Eifelian Age
+###### Givetian Age
 ##### Upper/Late Devonian Epoch
+###### Frasnian Age
+###### Famennian Age
 #### 4.1.5. Carboniferous Period
 ##### Mississippian Epoch
 ##### Pennsylvanian Epoch
@@ -119,37 +150,8 @@ The units used in GTS are as follows:
 ---
 
 
-###### Wuliuan Age
-###### Drumian Age
-###### Guzhangian Age
-###### Paibian Age
-###### Jiangshanian Age
-###### Stage 10 Age
-###### Tremadocian Age
-###### (formerly Arenig) Age
-###### Floian Age
-###### Dapingian Age
-###### Darriwilian Age
-###### Sandbian Age
-###### Katian Age
-###### Hirnantian Age
-###### Rhuddanian Age
-###### Aeronian Age
-###### Telychian Age
-###### Sheinwoodian Age
-###### Homerian Age
-###### Gorstian Age
-###### Ludfordian Age
-###### Lochkovian Age
-###### Pragian Age
-###### Emsian Age
-###### Eifelian Age
-###### Givetian Age
-###### Frasnian Age
-###### Famennian Age
-###### Tournaisian Age
-###### Viséan Age
-###### Serpukhovian Age
+
+
 ###### Bashkirian Age
 ###### Moscovian Age
 ###### Kasimovian Age
