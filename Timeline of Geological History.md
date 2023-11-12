@@ -80,43 +80,46 @@ The units used in GTS are as follows:
 ###### 4.3.3.2.2. Northgrippian Age
 ###### 4.3.3.2.3. Meghalayan Age
 
-##### Holocene
-##### Pleistocene
-##### Pliocene
-##### Miocene
-##### Oligocene
-##### Eocene
-##### Paleocene
-##### Upper/Late
-##### Lower/Early
-##### Upper/Late
-##### Middle
-##### Lower/Early
-##### Upper/Late
-##### Middle
-##### Lower/Early
-##### Lopingian
-##### Guadalupian
-##### Cisuralian
-##### Pennsylvanian
-##### Mississippian
-##### Upper/Late
-##### Middle
-##### Lower/Early
-##### Pridoli
-##### Ludlow
-##### Wenlock
-##### Llandovery
-##### Upper/Late
-##### Middle
-##### Lower/Early
-##### Furongian
-##### Miaolingian
-##### Series 2
-##### Terreneuvian
 
 
+---
+##### Terreneuvian Epoch
+##### Series 2 Epoch
+##### Miaolingian Epoch
+##### Furongian Epoch
+##### Lower/Early Epoch
+##### Middle Epoch
+##### Upper/Late Epoch
+##### Llandovery Epoch
+##### Wenlock Epoch
+##### Ludlow Epoch
+##### Pridoli Epoch
+##### Lower/Early Epoch
+##### Middle Epoch
+##### Upper/Late Epoch
+##### Mississippian Epoch
+##### Pennsylvanian Epoch
+##### Cisuralian Epoch
+##### Guadalupian Epoch
+##### Lopingian Epoch
+##### Lower/Early Epoch
+##### Middle Epoch
+##### Upper/Late Epoch
+##### Lower/Early Epoch
+##### Middle Epoch
+##### Upper/Late Epoch
+##### Lower/Early Epoch
+##### Upper/Late Epoch
+##### Paleocene Epoch
+##### Eocene Epoch
+##### Oligocene Epoch
+##### Miocene Epoch
+##### Pliocene Epoch
+##### Pleistocene Epoch
+##### Holocene Epoch
 
+
+---
 
 ###### Meghalayan
 ###### Northgrippian
