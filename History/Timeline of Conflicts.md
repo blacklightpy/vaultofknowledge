@@ -175,10 +175,10 @@ Arabs arrived in Palestine after 1st century AD.
 - 330 AD: Constantine The Great moved the capital of Roman Empire from Rome to Constantinople to be closer to the Persian Sassanid Empire
 - 476 AD: Roman empire was invaded by the barbarians, or non-Romans
 - Roman empire was split into Western Roman empire and Eastern Roman empire, also called the Byzantine empire
-- 576 AD: Göktürks have taken over the entire Eurasian Steppe (Middle)
 ### Asia
 - 400 AD: Golden Age of India (Medicine, Astronomy, Maths, Science)
 - Gupta Empire by Chandra Gupta I starts
+- 576 AD: Göktürks have taken over the entire Eurasian Steppe (Middle)
 - India is broken, China is back together with the Sui Dynasty
 - Trading kingdoms of Southeast Asia get bigger Dvaravati, Chenla and Champa
 - Korea has 3 kingdoms: Goguryeo, Silla, Baekje
@@ -187,6 +187,8 @@ Arabs arrived in Palestine after 1st century AD.
 - Mayans figure out the stars
 - Teotihuacan is a highly populated city
 ----
+## Time Period 10
+### Asia
 - 610 AD: Islam was founded by Prophet Mohammed [[The Origin of Islam]]
 
 - [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
@@ -205,10 +207,16 @@ Arabs arrived in Palestine after 1st century AD.
 - The Turks of Central Asia were starting to convert to Islam, and they were also influenced by Persian civilization more than Turkish
 - Most Turks were domestic servants in the Umayyad caliphate (second caliphate), but by the Abbasid caliphate (third caliphate), they were trained as soldiers, and some of them became commanders. As the Abbasid caliphate weakened, they assumed control.
 ---
+### Europe
+- Roman Empire's gone, but the Pope is still the Pope
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
 - The Moors (Black Arabs) spread over all of the Arabic countries and Western Europe
+### Middle East Asia
 - 786 AD: Baghdad House of Wisdom and the Islamic Golden Age
+### Africa
 - On the Swahili Coast of Africa, Swahilians sell products via sea routes
+
+###
 - Srivijaya Empire of Southeast Asia controls part of the sea route from India to Eastern China
 - Enlightenment in Tibetan Mountains
 - Franks have the biggest kingdom in Europe
