@@ -211,14 +211,16 @@ Arabs arrived in Palestine after 1st century AD.
 - Roman Empire's gone, but the Pope is still the Pope
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
 - The Moors (Black Arabs) spread over all of the Arabic countries and Western Europe
+
+## Time Period 11
 ### Middle East Asia
 - 786 AD: Baghdad House of Wisdom and the Islamic Golden Age
 ### Africa
 - On the Swahili Coast of Africa, Swahilians sell products via sea routes
-
-###
+### South East Asia
 - Srivijaya Empire of Southeast Asia controls part of the sea route from India to Eastern China
 - Enlightenment in Tibetan Mountains
+### Europe
 - Franks have the biggest kingdom in Europe
 - 800 AD: The Pope invites King Charlemagne to his kingdom for Christmas and crowns him as the head of the Roman Empire (even though what remains of Roman Empire is now Byzantine Empire, and the Pope isn't there)
 - France broke their kingdom. Western France would later be called France.
@@ -230,24 +232,32 @@ Arabs arrived in Palestine after 1st century AD.
 - All of them get Christianized, but fight over Roman Catholic or Eastern Orthodox brands
 - 1066 AD: William the Conqueror conquers England
 ---
+## Time Period 12
+### Europe, Asia
 - 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire (Anatolian peninsula)
 	- This weakened the Zoroastrian culture in Iran
 - 1099 AD: Constantine took the help of Pope in Western Roman empire to start the crusades to capture back the holy land
 ---
+### Europe
 - Italians from Genoa and Venice get spice trades from the Seljuk Empire
+### America
 - The Classic Maya civilization collapses
 - 1100 AD: Tolteks appears, and then they disappear
 - Mississippi appears along the mounds
 - Pueblo appears, and it's a town in a cliff
+### Asia
 - 1150 AD: Khmer appears in Cambodia and Pagan (also called Bagan) appears in Burma
 - Vietnam, or Dia Vet unconquered itself
 - Korea, or Goryeo became itself
 - 1192 AD: Japan is so addicted to art that the Shogunate military takes over
 - China invented bombs and typing
+
+### Eurasia
 - 1228-1259 AD: Mongols invaded all of central Asia and Europe under Genghis Khan
 	- This weakened the Seljuk Empire
 	- The remaining Zoroastrianism followers withdrew to the desert towns of Kerman and Yazd
-- It breaks into Yuan, Golden Horde, Chagatai, Ilkhanate
+- The Mongol Empire breaks into Yuan, Golden Horde, Chagatai, Ilkhanate
+### India
 - Mu'iz Al-din Muhammad (Ghurid Sultan) of the Turks were unaffected by the Mongols, because they were busy invading India and forming the Delhi Sultanate
 - Tu'i Tonga empire conquers the Pacific Ocean
 - Swahili gets all its gold from The Great Zimbabwe
