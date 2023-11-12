@@ -31,54 +31,51 @@ The units used in GTS are as follows:
 | Subseries                               | Subepoch                     | Thousands of years to millions of years                     |
 | Stage                                   | Age                          | Thousands of years to millions of years                     |
 # Timeline of GTS
-## Eon
-### Era
-#### Period
-##### Epoch
-###### Age
 
-## Hadean Eon
+## 1. Hadean Eon
 
-## Archean Eon
-### Eoarchean Era
-### Mesoarchean Era
-### Paleoarchean Era
-### Neoarchean Era
+## 2. Archean Eon
+### 2.1. Eoarchean Era
+### 2.2. Mesoarchean Era
+### 2.3. Paleoarchean Era
+### 2.4. Neoarchean Era
 
-## Proterozoic Eon
-### Paleoproterozoic Era
-#### Siderian Period
-#### Rhyacian Period
-#### Orosirian Period
-#### Statherian Period
-### Mesoproterozoic Era
-#### Calymmian Period
-#### Ectasian Period
-#### Stenian Period
-### Neoproterozoic Era
-#### Tonian Period
-#### Cryogenian Period
-#### Ediacaran Period
-## Phanerozoic Eon
-### Paleozoic Era
-#### Cambrian Period
-#### Ordovician Period
-#### Silurian Period
-#### Devonian Period
-#### Carboniferous Period
-#### Permian Period
-### Mesozoic Era
-#### Triassic Period
-#### Jurassic Period
-#### Cretaceous Period
-### Cenozoic Era
-#### Paleogene Period
-#### Neogene Period
-#### Quaternary Period
-##### Pleistocene Epoch
-###### Gelasian Age
-###### Calabrian Age
-###### Chibanian Age
+## 3. Proterozoic Eon
+### 3.1. Paleoproterozoic Era
+#### 3.1.1. Siderian Period
+#### 3.1.2. Rhyacian Period
+#### 3.1.3. Orosirian Period
+#### 3.1.4. Statherian Period
+### 3.2. Mesoproterozoic Era
+#### 3.2.1. Calymmian Period
+#### 3.2.2. Ectasian Period
+#### 3.2.3. Stenian Period
+### 3.3. Neoproterozoic Era
+#### 3.3.1. Tonian Period
+#### 3.3.2. Cryogenian Period
+#### 3.3.3. Ediacaran Period
+## 4. Phanerozoic Eon
+### 4.1 Paleozoic Era
+#### 4.1.1. Cambrian Period
+#### 4.1.2. Ordovician Period
+#### 4.1.3. Silurian Period
+#### 4.1.4. Devonian Period
+#### 4.1.5. Carboniferous Period
+#### 4.1.6. Permian Period
+### 4.2. Mesozoic Era
+#### 4.2.1. Triassic Period
+#### 4.2.2. Jurassic Period
+#### 4.2.3. Cretaceous Period
+### 4.3. Cenozoic Era
+#### 4.3.1. Paleogene Period
+#### 4.3.2. Neogene Period
+#### 4.3.3. Quaternary Period
+##### 4.3.3.1. Pleistocene Epoch
+###### 4.3.3.1.1. Gelasian Age
+###### 4.3.3.1.2. Calabrian Age
+###### 4.3.3.1.3. Chibanian Age
 ###### Late/Upper Pleistocene (Tarantian Age)
 ##### Holocene Epoch
-
+###### Greenlandian Age
+###### Northgrippian Age
+###### Meghalayan Age
