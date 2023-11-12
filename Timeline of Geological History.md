@@ -11,3 +11,4 @@ The GTS is divided into chronostratigraphic units and their corresponding geochr
 - A chronostratigraphic unit is a body of rock, layered or unlayered, that is defined between stratigraphic horizons which represent specified intervals of geologic time.
 
 - Geochronology is the branch of geology that aims to determine the age of rocks, fossils and sediments either through absolute or relative means.
+- A geochronological unit is a subdivision of geologic time.
