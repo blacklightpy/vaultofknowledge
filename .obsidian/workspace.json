@@ -266,9 +266,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ff3c689a4881d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -297,7 +310,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "compose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,7 +327,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Geology/Timeline of Geological History.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Geology/Timeline of Geological History.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Geology/Timeline of Geological History.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md"
               }
             }
           },
@@ -421,8 +435,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d764b3f3a69ae13b",
+  "active": "4ff3c689a4881d02",
   "lastOpenFiles": [
+    "History/Geology/Timeline of Geological History.md",
     "Why aren't LEDs used as transmitters.md",
     "Isn't using technology built by atheists wrong for religious people.md",
     "Religions and Walled Gardens.md",
@@ -439,7 +454,6 @@
     "Mathematics.md",
     "Center Terms.md",
     "Electromagnetic Waves.md",
-    "History/Geology/Timeline of Geological History.md",
     "History/Geology",
     "History/Periods of Archaeological History.md",
     "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",

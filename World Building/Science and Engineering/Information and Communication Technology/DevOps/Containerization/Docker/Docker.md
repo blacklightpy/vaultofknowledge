@@ -69,6 +69,7 @@ e.g. You have an app that has both a web component and a database component.
 e.g.:
 ```yaml
 ...
+services:
 	webserver:
 		image: dockersamples/visualizer: stable
 		ports:
