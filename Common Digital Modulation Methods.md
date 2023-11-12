@@ -8,4 +8,20 @@
 	- Offset QPSK (OQPSK)
 	- $\pi/4$ QPSK
 - Frequency Shift Keying (FSK)
-	- Audo FSK (AFSK)
+	- Audio Frequency Shift Keying (AFSK)
+	- Multi-Frequency Shift Keying (MFSK)
+	- Dual-tone Multi-Frequency (DTMF)
+- Amplitude Shift Keying (ASK)
+	- On-off Keying (OOK)
+- Quadrature Amplitude Modulation (QAM) (A combination of PSK and ASK)
+	- Polar Modulation
+- Continuous Phase Modulation (CPM)
+	- Minimum Shift Keying (MSK)
+	- Gaussian Minimum Shift Keying (GMSK)
+	- Continuous Phase Frequency Shift Keying (CPFSK)
+- Orthogonal Frequency-Division Multiplexing (OFDM)
+	- Discrete Multitone (DMT)
+- Wavelet Modulation
+- Trellis Coded Modulation (TCM)
+- Spread Spectrum
+	- Direct Sequence 
