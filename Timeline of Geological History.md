@@ -45,4 +45,16 @@ The units used in GTS are as follows:
 ### Paleoarchean Era
 ### Neoarchean Era
 ## Proterozoic Eon
+### Paleozoic Era
 
+#### Permian Period
+
+#### 
+### Mesozoic Era
+#### Triassic Period
+#### Jurassic Period
+#### Cretaceous Period
+### Cenozoic Era
+#### Paleogene Period
+#### Neogene Period
+#### Quaternary Period
