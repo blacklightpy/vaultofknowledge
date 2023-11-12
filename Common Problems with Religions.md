@@ -10,4 +10,6 @@
 		- But unlike Islam, it doesn't matter what they do, one only has to accept Jesus as his saviour
 - Hinduism
 	- Casteism
-		- The Vedic texts were originally written by Indo-Europeans with positive goals, describing civilizations, but as time went on, it was used to segregate people into castes, and also started rampant idolatry
+		- The Vedic texts were originally written by Indo-Europeans with positive goals, describing mythological civilizations comprised of a hierarchical society, where the roles are taken up by choice, but as time went on, it was used to segregate people into castes, and also started rampant idol worship
+- Atheism
+	- Because you can't see or form an explanation about something, it doesn't exist
