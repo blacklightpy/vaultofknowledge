@@ -37,9 +37,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Fertile Crescent (Ancient Mesopotamia and the Levant)
 	- Mesopotamian civilization originated in the valley between the rivers Euphrates and Tigris in modern day Iraq.
 - Nile Valley (Egypt)
-- North China Plain (Near )
-- Indus River Valley
-- Norte Chico
+- North China Plain (Eastern China)
+- Indus River Valley (Northwest India)
+- Norte Chico ()
 # 3 Millenia BC
 
 ## Time Period 1
@@ -81,14 +81,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Phoenicians start trade and invent the alphabets
 - Iron Age begins
 - 12 Tribes of Israel arrive
-### South America
+### America
 - Olmecs start in Mexico
 ## Time Period 4
 ### Mesopotamia
 - Phoenicians start colonies
 - Greeks also copy their ideas and make colonies
 - Phoenicians made the Carthage colony that made it's own colonies
---------
 # 2 Millenia BC
 ## Time Period 5
 ### Mesopotamia
@@ -99,8 +98,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
 - Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
 - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
-
---------
 ## Time Period 6
 ### Mesopotamia, Asia
 - The Median empire conquered part of the Neo-Babylonian empire
@@ -168,7 +165,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 >
 > Some of the Jews exiled during the Babylonian exile came to Mattanchery
 > Arabs arrived in Palestine after 1st century AD.
-
 ## Time Period 9
 ### Eurasia
 - 312 AD: Emperor Constantine The Great began favouring Christianity
@@ -186,7 +182,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### America
 - Mayans figure out the stars
 - Teotihuacan is a highly populated city
-----
 ## Time Period 10
 ### Asia
 - 610 AD: Islam was founded by Prophet Mohammed. See: [[The Origin of Islam]]
@@ -205,9 +200,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Some of them had to move to the Indian subcontinent, where they lived as Parsis, and they became an influential minority under the British rule. They later migrated to different parts of the world, and live in diasporic communities nowadays.
 	- Parsis or Farsis are basically Persians
 - 650 AD: Rashidun Caliphate conquers the Middle East Asia and Northern Africa, including the holy land and the Persian Sassanid Empire and they reached Central Asia
-- The Turks of Central Asia were starting to convert to Islam, and they were also influenced by Persian civilization more than Turkish
-- Most Turks were domestic servants in the Umayyad caliphate (second caliphate), but by the Abbasid caliphate (third caliphate), they were trained as soldiers, and some of them became commanders. As the Abbasid caliphate weakened, they assumed control.
----
+	- The Turks of Central Asia were starting to convert to Islam, and they were also influenced by Persian civilization more than Turkish
+	- Most Turks were domestic servants in the Umayyad caliphate (second caliphate), but by the Abbasid caliphate (third caliphate), they were trained as soldiers, and some of them became commanders. As the Abbasid caliphate weakened, they assumed control.
 ### Europe
 - Roman Empire's gone, but the Pope is still the Pope
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
@@ -231,7 +225,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 - New kingdoms: Norway, Sweden, Poland, Denmark, Hungary, Kievan Rus, Scotland, England, Welsh States
 - All of them get Christianized, but fight over Roman Catholic or Eastern Orthodox brands
 - 1066 AD: William the Conqueror conquers England
----
 ## Time Period 12
 ### Eurasia
 - 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire (Anatolian peninsula)
