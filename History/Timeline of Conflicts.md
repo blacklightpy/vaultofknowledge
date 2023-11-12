@@ -310,7 +310,7 @@ Arabs arrived in Palestine after 1st century AD.
 - 1556 AD: Ivan the Terrible makes Russia big
 
 ## Time Period 17
-### Europe
+### Eurasia and America
 - Portugal decided to control the entire Indian Ocean and control all the spice trades
 - Spain realized America is not India, but they pillaged it and made it New Spain
 - England and France decided to copy them

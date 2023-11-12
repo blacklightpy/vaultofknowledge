@@ -1,0 +1,3 @@
+- Judaism
+	- Superiority Complex: God gave them a covenant, but not to anyone else. In other words, they are the chosen people.
+		- This is one of the reasons they haven't colonized the rest of the world, as they had no interest in spreading their religon 
