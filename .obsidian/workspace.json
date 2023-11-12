@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intensive Property.md",
+                "file": "World Building/Science and Engineering/Physics/Susceptibility.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intensive Property.md",
+                "file": "World Building/Science and Engineering/Physics/Susceptibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intensive Property.md",
+                "file": "World Building/Science and Engineering/Physics/Susceptibility.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intensive Property.md"
+                "file": "World Building/Science and Engineering/Physics/Susceptibility.md"
               }
             }
           },
@@ -431,12 +431,14 @@
   },
   "active": "a5868f4f4b94c131",
   "lastOpenFiles": [
-    "Extensive Property.md",
-    "World Building/Science and Engineering/Physics/Susceptibility.md",
     "Intensive Property.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Frequency Division Multiplexing.md",
+    "World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/GNSS Bands.md",
+    "Extensive Property.md",
+    "World Building/Science and Engineering/Physics/Susceptibility.md",
     "World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/SIM Cards.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
@@ -455,8 +457,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Springs.md",
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Spring Equation.md",
     "Why abandon proprietary technology.md",
-    "World Building/Philosophy/Smell.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",
