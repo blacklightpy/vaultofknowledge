@@ -258,8 +258,13 @@
             "id": "e15f57b5aa31a0b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "History/Jihad as per Quran.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -329,6 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Jihad as per Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,6 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Jihad as per Quran.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -355,7 +362,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Jihad as per Quran.md"
+              }
             }
           },
           {
@@ -420,7 +429,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "e15f57b5aa31a0b8",
   "lastOpenFiles": [
     "Acceleration, not Force, is constant at a given distance.md",
     "Religions and Walled Gardens.md",
