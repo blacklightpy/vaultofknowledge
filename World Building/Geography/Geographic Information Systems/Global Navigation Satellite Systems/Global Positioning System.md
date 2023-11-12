@@ -5,7 +5,7 @@ M-Code (Military Code)
 
 **Protocols**
 Q. NMEA vs RTCM?
-Some Telite modules have NMEA (LG79D, etc.) and others too. RTKLib supports RTCM as well as proprietary formats of some devices in their reports. So.. implementing a custom format should be possible if required data is available. I saw in NMEA 0183 (used in LG79D) wiki that GSV (visible satellites) and GSA (list of satellites and data for obtaining fix position) are available parameters. Seems similar to the stuff needed in RTCM ig. Gotta see more into what params are needed.
+Some Telit modules have NMEA (LG79D, etc.) and others too. RTKLib supports RTCM as well as proprietary formats of some devices in their reports. So.. implementing a custom format should be possible if required data is available. I saw in NMEA 0183 (used in LG79D) wiki that GSV (visible satellites) and GSA (list of satellites and data for obtaining fix position) are available parameters. Seems similar to the stuff needed in RTCM ig. Gotta see more into what params are needed.
 
 **Streams (as per RTKLIB)**
 Serial, TCP, NTRIP, File, FTP, HTTP
@@ -36,7 +36,7 @@ If each chip is considered a symbol, each symbol contains far less than one bit 
 
 Symbols are used instead of data bits (in GPS, CDMA cell phones, Spread Spectrum) where each symbol is a chip, per data bits. Even though this has low channel spectral efficiency in (bits/s)/Hz, it has higher system spectral efficiency (bits/s)/Hz per unit area.
 
-A chip is a pulse of Direct Sequence Spread Spectrum Code (DSSS), such as Pseudorandom Noise (PRN) used in direct-sequence code division multiple access (CDMA) channel access techniques.
+A chip is a pulse of Direct Sequence Spread Spectrum Code (DSSS), such as Pseudorandom Noise (PRN) used in direct-sequence code division multiple access (DS-CDMA) channel access techniques.
 
 Spreading Factor = Chip Rate/Symbol Rate
 

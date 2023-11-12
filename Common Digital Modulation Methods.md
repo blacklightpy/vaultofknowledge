@@ -27,4 +27,4 @@
 	- Direct Sequence Spread Spectrum (DSSS)
 	- Chirp Spread Spectrum (CSS)
 	- Frequency-Hopping Spread Spectrum (FHSS)
-	- 
+	- Time-Hopping Spread Spectrum (THSS)
