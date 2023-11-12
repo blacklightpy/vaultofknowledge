@@ -169,23 +169,23 @@ Kingdom of Judah was then called Yehud province
 Some of the Jews exiled during the Babylonian exile came to Mattanchery
 Arabs arrived in Palestine after 1st century AD.
 
-##
+## Time Period 9
+### Eurasia
 - 312 AD: Emperor Constantine The Great began favouring Christianity
 - 330 AD: Constantine The Great moved the capital of Roman Empire from Rome to Constantinople to be closer to the Persian Sassanid Empire
----
-- 400 AD: Golden Age of India (Medicine, Astronomy, Maths, Science)
-- Gupta Empire by Chandra Gupta I starts
----
 - 476 AD: Roman empire was invaded by the barbarians, or non-Romans
 - Roman empire was split into Western Roman empire and Eastern Roman empire, also called the Byzantine empire
----
-- Mayans figure out the stars
-- Teotihuacan is a highly populated city
 - 576 AD: Göktürks have taken over the entire Eurasian Steppe (Middle)
+### Asia
+- 400 AD: Golden Age of India (Medicine, Astronomy, Maths, Science)
+- Gupta Empire by Chandra Gupta I starts
 - India is broken, China is back together with the Sui Dynasty
 - Trading kingdoms of Southeast Asia get bigger Dvaravati, Chenla and Champa
 - Korea has 3 kingdoms: Goguryeo, Silla, Baekje
 - Japan has a kingdom named Yamato, or the sunrise kingdom
+### America
+- Mayans figure out the stars
+- Teotihuacan is a highly populated city
 ----
 - 610 AD: Islam was founded by Prophet Mohammed [[The Origin of Islam]]
 
