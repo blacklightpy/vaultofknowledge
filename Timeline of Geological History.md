@@ -57,18 +57,52 @@ The units used in GTS are as follows:
 ## 4. Phanerozoic Eon
 ### 4.1 Paleozoic Era
 #### 4.1.1. Cambrian Period
+##### Terreneuvian Epoch
+###### Fortunian Age
+###### Stage 2 Age
+##### Series 2 Epoch
+##### Miaolingian Epoch
+##### Furongian Epoch
 #### 4.1.2. Ordovician Period
+##### Lower/Early Ordovician Epoch
+##### Middle Ordovician Epoch
+##### Upper/Late Ordovician Epoch
 #### 4.1.3. Silurian Period
+##### Llandovery Epoch
+##### Wenlock Epoch
+##### Ludlow Epoch
+##### Pridoli Epoch
 #### 4.1.4. Devonian Period
+##### Lower/Early Devonian Epoch
+##### Middle Devonian Epoch
+##### Upper/Late Devonian Epoch
 #### 4.1.5. Carboniferous Period
+##### Mississippian Epoch
+##### Pennsylvanian Epoch
 #### 4.1.6. Permian Period
+##### Cisuralian Epoch
+##### Guadalupian Epoch
+##### Lopingian Epoch
 ### 4.2. Mesozoic Era
 #### 4.2.1. Triassic Period
+##### Lower/Early Triassic Epoch
+##### Middle Triassic Epoch
+##### Upper/Late Triassic Epoch
 #### 4.2.2. Jurassic Period
+##### Lower/Early Jurassic Epoch
+##### Middle Jurassic Epoch
+##### Upper/Late Jurassic Epoch
 #### 4.2.3. Cretaceous Period
+##### Lower/Early Cretaceous Epoch
+##### Upper/Late Cretaceous Epoch
 ### 4.3. Cenozoic Era
 #### 4.3.1. Paleogene Period
+##### Paleocene Epoch
+##### Eocene Epoch
+##### Oligocene Epoch
 #### 4.3.2. Neogene Period
+##### Miocene Epoch
+##### Pliocene Epoch
 #### 4.3.3. Quaternary Period
 ##### 4.3.3.1. Pleistocene Epoch
 ###### 4.3.3.1.1. Gelasian Age
@@ -83,143 +117,103 @@ The units used in GTS are as follows:
 
 
 ---
-##### Terreneuvian Epoch
-##### Series 2 Epoch
-##### Miaolingian Epoch
-##### Furongian Epoch
-##### Lower/Early Epoch
-##### Middle Epoch
-##### Upper/Late Epoch
-##### Llandovery Epoch
-##### Wenlock Epoch
-##### Ludlow Epoch
-##### Pridoli Epoch
-##### Lower/Early Epoch
-##### Middle Epoch
-##### Upper/Late Epoch
-##### Mississippian Epoch
-##### Pennsylvanian Epoch
-##### Cisuralian Epoch
-##### Guadalupian Epoch
-##### Lopingian Epoch
-##### Lower/Early Epoch
-##### Middle Epoch
-##### Upper/Late Epoch
-##### Lower/Early Epoch
-##### Middle Epoch
-##### Upper/Late Epoch
-##### Lower/Early Epoch
-##### Upper/Late Epoch
-##### Paleocene Epoch
-##### Eocene Epoch
-##### Oligocene Epoch
-##### Miocene Epoch
-##### Pliocene Epoch
-##### Pleistocene Epoch
-##### Holocene Epoch
 
 
----
-
-###### Meghalayan
-###### Northgrippian
-###### Greenlandian
-###### Upper/Late ('Tarantian')
-###### Chibanian
-###### Calabrian
-###### Gelasian
-###### Piacenzian
-###### Zanclean
-###### Messinian
-###### Tortonian
-###### Serravallian
-###### Langhian
-###### Burdigalian
-###### Aquitanian
-###### Chattian
-###### Rupelian
-###### Priabonian
-###### Bartonian
-###### Lutetian
-###### Ypresian
-###### Thanetian
-###### Selandian
-###### Danian
-###### Maastrichtian
-###### Campanian
-###### Santonian
-###### Coniacian
-###### Turonian
-###### Cenomanian
-###### Albian
-###### Aptian
-###### Barremian
-###### Hauterivian
-###### Valanginian
-###### Berriasian
-###### Tithonian
-###### Kimmeridgian
-###### Oxfordian
-###### Callovian
-###### Bathonian
-###### Bajocian
-###### Aalenian
-###### Toarcian
-###### Pliensbachian
-###### Sinemurian
-###### Hettangian
-###### Rhaetian
-###### Norian
-###### Carnian
-###### Ladinian
-###### Anisian
-###### Olenekian
-###### Induan
-###### Changhsingian
-###### Wuchiapingian
-###### Capitanian
-###### Wordian
-###### Roadian
-###### Kungurian
-###### Artinskian
-###### Sakmarian
-###### Asselian
-###### Gzhelian
-###### Kasimovian
-###### Moscovian
-###### Bashkirian
-###### Serpukhovian
-###### Viséan
-###### Tournaisian
-###### Famennian
-###### Frasnian
-###### Givetian
-###### Eifelian
-###### Emsian
-###### Pragian
-###### Lochkovian
-###### Ludfordian
-###### Gorstian
-###### Homerian
-###### Sheinwoodian
-###### Telychian
-###### Aeronian
-###### Rhuddanian
-###### Hirnantian
-###### Katian
-###### Sandbian
-###### Darriwilian
-###### Dapingian
-###### Floian
-###### (formerly Arenig)
-###### Tremadocian
-###### Stage 10
-###### Jiangshanian
-###### Paibian
-###### Guzhangian
-###### Drumian
-###### Wuliuan
-###### Stage 4
-###### Stage 3
-###### Stage 2
-###### Fortunian
+###### Wuliuan Age
+###### Drumian Age
+###### Guzhangian Age
+###### Paibian Age
+###### Jiangshanian Age
+###### Stage 10 Age
+###### Tremadocian Age
+###### (formerly Arenig) Age
+###### Floian Age
+###### Dapingian Age
+###### Darriwilian Age
+###### Sandbian Age
+###### Katian Age
+###### Hirnantian Age
+###### Rhuddanian Age
+###### Aeronian Age
+###### Telychian Age
+###### Sheinwoodian Age
+###### Homerian Age
+###### Gorstian Age
+###### Ludfordian Age
+###### Lochkovian Age
+###### Pragian Age
+###### Emsian Age
+###### Eifelian Age
+###### Givetian Age
+###### Frasnian Age
+###### Famennian Age
+###### Tournaisian Age
+###### Viséan Age
+###### Serpukhovian Age
+###### Bashkirian Age
+###### Moscovian Age
+###### Kasimovian Age
+###### Gzhelian Age
+###### Asselian Age
+###### Sakmarian Age
+###### Artinskian Age
+###### Kungurian Age
+###### Roadian Age
+###### Wordian Age
+###### Capitanian Age
+###### Wuchiapingian Age
+###### Changhsingian Age
+###### Induan Age
+###### Olenekian Age
+###### Anisian Age
+###### Ladinian Age
+###### Carnian Age
+###### Norian Age
+###### Rhaetian Age
+###### Hettangian Age
+###### Sinemurian Age
+###### Pliensbachian Age
+###### Toarcian Age
+###### Aalenian Age
+###### Bajocian Age
+###### Bathonian Age
+###### Callovian Age
+###### Oxfordian Age
+###### Kimmeridgian Age
+###### Tithonian Age
+###### Berriasian Age
+###### Valanginian Age
+###### Hauterivian Age
+###### Barremian Age
+###### Aptian Age
+###### Albian Age
+###### Cenomanian Age
+###### Turonian Age
+###### Coniacian Age
+###### Santonian Age
+###### Campanian Age
+###### Maastrichtian Age
+###### Danian Age
+###### Selandian Age
+###### Thanetian Age
+###### Ypresian Age
+###### Lutetian Age
+###### Bartonian Age
+###### Priabonian Age
+###### Rupelian Age
+###### Chattian Age
+###### Aquitanian Age
+###### Burdigalian Age
+###### Langhian Age
+###### Serravallian Age
+###### Tortonian Age
+###### Messinian Age
+###### Zanclean Age
+###### Piacenzian Age
+###### Gelasian Age
+###### Calabrian Age
+###### Chibanian Age
+###### Upper/Late ('Tarantian') Age
+###### Greenlandian Age
+###### Northgrippian Age
+###### Meghalayan Age
