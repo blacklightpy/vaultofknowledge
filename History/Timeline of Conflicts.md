@@ -169,6 +169,7 @@ Kingdom of Judah was then called Yehud province
 Some of the Jews exiled during the Babylonian exile came to Mattanchery
 Arabs arrived in Palestine after 1st century AD.
 
+##
 - 312 AD: Emperor Constantine The Great began favouring Christianity
 - 330 AD: Constantine The Great moved the capital of Roman Empire from Rome to Constantinople to be closer to the Persian Sassanid Empire
 ---
