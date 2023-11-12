@@ -111,17 +111,22 @@ With agriculture, food became more reliable, but less varied, and people became 
 - ~500 BC: Buddha was enlightened in Bodh Gaya
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 - ~500 BC Confucius was figuring out morals
+### Europe
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
 	- 312 BC: Yehud was now called Coelo-Syria, in the Seleucid Empire
+## Time Period 7
+### India
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
 - They traded spices with the Arabians via the seas
+### China
 - 221 BC: China put itself back together with the Qin Dynasty which followed Legalism
 - They now had three philosophies: Confucianism (morals), Taoism (Dao) and Legalism (Obey the Law)
 - 206 BC: The Han Dynasty took over China and Confucianism was once again back
 - Horse nomads of Mongolian Steppe ransacked Qin dynasty
 - Xiongu confederacy appears in Mongolian Steppe?
+### Europe
 - The Greek Kingdoms (Hellenistic Kingdoms) are all now Hellenistic
 	- 140 BC: Hasmonian Dynasty takes control over Judea
 	- 37 BC: Herodian Kingdom succeeds it
@@ -159,8 +164,6 @@ Kingdom of Judah was then called Yehud province
 
 Some of the Jews exiled during the Babylonian exile came to Mattanchery
 Arabs arrived in Palestine after 1st century AD.
-
-- Alexander the Great conquered Mesopotamia and the rest of the Roman empire.
 
 - Constantine The Great moved the capital of Roman Empire from Rome to Constantinople to be closer to the Persian Sassanid Empire
 ---
