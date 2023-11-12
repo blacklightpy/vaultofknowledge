@@ -57,15 +57,15 @@ The units used in GTS are as follows:
 ## 4. Phanerozoic Eon
 ### 4.1 Paleozoic Era
 #### 4.1.1. Cambrian Period
-##### Terreneuvian Epoch
-###### Fortunian Age
-###### Cambrian Stage 2 Age
-##### Cambrian Series 2 Epoch
-###### Cambrian Stage 3 Age
-###### Cambrian Stage 4 Age
-##### Miaolingian Epoch
-###### Wuliuan Age
-###### Drumian Age
+##### 4.1.1.1. Terreneuvian Epoch
+###### 4.1.1.1.1. Fortunian Age
+###### 4.1.1.1.2. Cambrian Stage 2 Age
+##### 4.1.1.2. Cambrian Series 2 Epoch
+###### 4.1.1.2.1. Cambrian Stage 3 Age
+###### 4.1.1.2.2. Cambrian Stage 4 Age
+##### 4.1.1.3. Miaolingian Epoch
+###### 4.1.1.3.1. Wuliuan Age
+###### 4.1.1.3.2. Drumian Age
 ###### Guzhangian Age
 ##### Furongian Epoch
 ###### Paibian Age
@@ -109,31 +109,94 @@ The units used in GTS are as follows:
 ###### Famennian Age
 #### 4.1.5. Carboniferous Period
 ##### Mississippian Epoch
+###### Tournaisian Age
+###### Viséan Age
+###### Serpukhovian Age
 ##### Pennsylvanian Epoch
+###### Bashkirian Age
+###### Moscovian Age
+###### Kasimovian Age
+###### Gzhelian Age
 #### 4.1.6. Permian Period
 ##### Cisuralian Epoch
+###### Asselian Age
+###### Sakmarian Age
+###### Artinskian Age
+###### Kungurian Age
 ##### Guadalupian Epoch
+###### Roadian Age
+###### Wordian Age
+###### Capitanian Age
 ##### Lopingian Epoch
+###### Wuchiapingian Age
+###### Changhsingian Age
 ### 4.2. Mesozoic Era
 #### 4.2.1. Triassic Period
 ##### Lower/Early Triassic Epoch
+###### Induan Age
+###### Olenekian Age
 ##### Middle Triassic Epoch
+###### Anisian Age
+###### Ladinian Age
 ##### Upper/Late Triassic Epoch
+###### Carnian Age
+###### Norian Age
+###### Rhaetian Age
 #### 4.2.2. Jurassic Period
 ##### Lower/Early Jurassic Epoch
+###### Hettangian Age
+###### Sinemurian Age
+###### Pliensbachian Age
+###### Toarcian Age
 ##### Middle Jurassic Epoch
+###### Aalenian Age
+###### Bajocian Age
+###### Bathonian Age
+###### Callovian Age
 ##### Upper/Late Jurassic Epoch
+###### Oxfordian Age
+###### Kimmeridgian Age
+###### Tithonian Age
 #### 4.2.3. Cretaceous Period
 ##### Lower/Early Cretaceous Epoch
+###### Berriasian Age
+###### Valanginian Age
+###### Hauterivian Age
+###### Barremian Age
+###### Aptian Age
+###### Albian Age
 ##### Upper/Late Cretaceous Epoch
+###### Cenomanian Age
+###### Turonian Age
+###### Coniacian Age
+###### Santonian Age
+###### Campanian Age
+###### Maastrichtian Age
 ### 4.3. Cenozoic Era
 #### 4.3.1. Paleogene Period
 ##### Paleocene Epoch
+###### Danian Age
+###### Selandian Age
+###### Thanetian Age
 ##### Eocene Epoch
+###### Ypresian Age
+###### Lutetian Age
+###### Bartonian Age
+###### Priabonian Age
 ##### Oligocene Epoch
+###### Rupelian Age
+###### Chattian Age
 #### 4.3.2. Neogene Period
 ##### Miocene Epoch
+###### Aquitanian Age
+###### Burdigalian Age
+###### Langhian Age
+###### Serravallian Age
+###### Tortonian Age
+###### Messinian Age
 ##### Pliocene Epoch
+###### Zanclean Age
+###### Piacenzian Age
 #### 4.3.3. Quaternary Period
 ##### 4.3.3.1. Pleistocene Epoch
 ###### 4.3.3.1.1. Gelasian Age
@@ -144,78 +207,3 @@ The units used in GTS are as follows:
 ###### 4.3.3.2.1. Greenlandian Age
 ###### 4.3.3.2.2. Northgrippian Age
 ###### 4.3.3.2.3. Meghalayan Age
-
-
-
----
-
-
-
-
-###### Bashkirian Age
-###### Moscovian Age
-###### Kasimovian Age
-###### Gzhelian Age
-###### Asselian Age
-###### Sakmarian Age
-###### Artinskian Age
-###### Kungurian Age
-###### Roadian Age
-###### Wordian Age
-###### Capitanian Age
-###### Wuchiapingian Age
-###### Changhsingian Age
-###### Induan Age
-###### Olenekian Age
-###### Anisian Age
-###### Ladinian Age
-###### Carnian Age
-###### Norian Age
-###### Rhaetian Age
-###### Hettangian Age
-###### Sinemurian Age
-###### Pliensbachian Age
-###### Toarcian Age
-###### Aalenian Age
-###### Bajocian Age
-###### Bathonian Age
-###### Callovian Age
-###### Oxfordian Age
-###### Kimmeridgian Age
-###### Tithonian Age
-###### Berriasian Age
-###### Valanginian Age
-###### Hauterivian Age
-###### Barremian Age
-###### Aptian Age
-###### Albian Age
-###### Cenomanian Age
-###### Turonian Age
-###### Coniacian Age
-###### Santonian Age
-###### Campanian Age
-###### Maastrichtian Age
-###### Danian Age
-###### Selandian Age
-###### Thanetian Age
-###### Ypresian Age
-###### Lutetian Age
-###### Bartonian Age
-###### Priabonian Age
-###### Rupelian Age
-###### Chattian Age
-###### Aquitanian Age
-###### Burdigalian Age
-###### Langhian Age
-###### Serravallian Age
-###### Tortonian Age
-###### Messinian Age
-###### Zanclean Age
-###### Piacenzian Age
-###### Gelasian Age
-###### Calabrian Age
-###### Chibanian Age
-###### Upper/Late ('Tarantian') Age
-###### Greenlandian Age
-###### Northgrippian Age
-###### Meghalayan Age
