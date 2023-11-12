@@ -11,7 +11,9 @@ The GTS is divided into chronostratigraphic units and their corresponding geochr
 > - **Geochronology** is the branch of geology that aims to determine the age of rocks, fossils and sediments either through absolute or relative means.
 > - A **geochronological unit** is a subdivision of geologic time.
 
-In simple terms, chronostratigraphy deals with the dating of physical evidence, and geochronology deals with forming the temporal evidence extrapolated from it.
+In simple terms, chronostratigraphy deals with the dating of physical evidence, and geochronology deals with forming the temporal evidence extrapolated from it. In other words, chronostatigraphic units define a rock's identity according to age, while geochronographic units define the time period in which the rock was formed.
+
+Much like saying "Egyptian Civilization" originated in "3 Millenia BC"
 
 > [!NOTE] How chronostratigraphic units are separated, and hence geochronometric units are defined
 > A **Global Boundary Stratotype Section and Point (GSSP)** is an internationally agreed upon reference point on a stratigraphic section which defines the lower boundaries of stages on the geologic time scale. (Recently this has been used to define the base of a system)
@@ -20,5 +22,6 @@ In simple terms, chronostratigraphy deals with the dating of physical evidence, 
 
 The units used in GTS are as follows:
 
-| Chronostratigraphic Units || 
-| ------------------------- | --- |
+| Chronostratigraphic Units | Geochronometric Units | Time Span |
+| ------------------------- | --------------------- | --------- |
+|                           |                       |           |
