@@ -30,21 +30,20 @@ The units used in GTS are as follows:
 | Series                                  | Epoch                        | Hundreds of thousands of years to tens of millions of years |
 | Subseries                               | Subepoch                     | Thousands of years to millions of years                     |
 | Stage                                   | Age                          | Thousands of years to millions of years                     |
+
 # Timeline of GTS (list)
 
-
-> [!NOTE] Eons
+> [!NOTE] Eons (4)
 > Hadean, Archean, Proterozoic, Phanerozoic
 
+> [!NOTE] Periods (22)
+> Siderian, Rhyacian, Orosirian, Statherian, Calymmian, Ectasian, Stenian, Tonian, Cryogenian, Ediacaran, Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous, Paleogene, Neogene, Quaternary
 
-> [!NOTE] Epochs
-> Terreneuvian, Series 2, Miaolingian, Furongian, Lower/Early Ordovici, Middle, Upper/Late, Llandovery, Wenlock, Ludlow, Pridoli, Lower/Early, Middle, Upper/Late, Mississippian, Pennsylvanian, Cisuralian, Guadalupian, Lopingian, Lower/Early, Middle, Upper/Late, Lower/Early, Middle, Upper/Late, Lower/Early, Upper/Late, Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Holocene
+> [!NOTE] Epochs (34)
+> Terreneuvian, Series 2, Miaolingian, Furongian, Lower/Early Ordovician, Middle Ordovician, Upper/Late Ordovician, Llandovery, Wenlock, Ludlow, Pridoli, Lower/Early Devonian, Middle Devonian, Upper/Late Devonian, Mississippian, Pennsylvanian, Cisuralian, Guadalupian, Lopingian, Lower/Early Triassic, Middle Triassic, Upper/Late Triassic, Lower/Early Jurassic, Middle Jurassic, Upper/Late Jurassic, Lower/Early Cretacious, Upper/Late Cretaceous, Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Holocene
 
-
-
-> [!NOTE] Ages
+> [!NOTE] Ages (102)
 > Fortunian, Stage 2, Stage 3, Stage 4, Wuliuan, Drumian, Guzhangian, Paibian, Jiangshanian, Stage 10, Tremadocian, (formerly Arenig), Floian, Dapingian, Darriwilian, Sandbian, Katian, Hirnantian, Rhuddanian, Aeronian, Telychian, Sheinwoodian, Homerian, Gorstian, Ludfordian, Lochkovian, Pragian, Emsian, Eifelian, Givetian, Frasnian, Famennian, Tournaisian, Viséan, Serpukhovian, Bashkirian, Moscovian, Kasimovian, Gzhelian, Asselian, Sakmarian, Artinskian, Kungurian, Roadian, Wordian, Capitanian, Wuchiapingian, Changhsingian, Induan, Olenekian, Anisian, Ladinian, Carnian, Norian, Rhaetian, Hettangian, Sinemurian, Pliensbachian, Toarcian, Aalenian, Bajocian, Bathonian, Callovian, Oxfordian, Kimmeridgian, Tithonian, Berriasian, Valanginian, Hauterivian, Barremian, Aptian, Albian, Cenomanian, Turonian, Coniacian, Santonian, Campanian, Maastrichtian, Danian, Selandian, Thanetian, Ypresian, Lutetian, Bartonian, Priabonian, Rupelian, Chattian, Aquitanian, Burdigalian, Langhian, Serravallian, Tortonian, Messinian, Zanclean, Piacenzian, Gelasian, Calabrian, Chibanian, Upper/Late ('Tarantian'), Greenlandian, Northgrippian, Meghalayan
-
 # Timeline of GTS (heirarchical)
 
 ## 1. Hadean Eon
