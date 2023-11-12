@@ -156,7 +156,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Bantu in Africa and Malay from Southeast Asia populate Madagascar
 - Ghana Empire sells gold crossing Sahara with camels
 
-> [!NOTE] INTERMEDIATE NOTE
+> [!NOTE] INTERMEDIATE NOTE: Mesopotamian Nations, Jews and Arabs
 > (Akkadian), Amorite, Kassite, Elamite, Aramean, Assyrian, Chaldean, Persian, Greek and Parthian
 > 
 > Jews are named after the Kingdom of Judah.
@@ -189,14 +189,15 @@ With agriculture, food became more reliable, but less varied, and people became 
 ----
 ## Time Period 10
 ### Asia
-- 610 AD: Islam was founded by Prophet Mohammed [[The Origin of Islam]]
+- 610 AD: Islam was founded by Prophet Mohammed. See: [[The Origin of Islam]]
 
-- [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
-	- The Hadiths say that the Judgement day will not come until Jews and Muslims fight ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Hadith))
-	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Life_under_Muslim_rule))
-		- Things started to slowly change towards the 19th century, with the slow rise of Anti-semitism
-		- Ottoman Sultan believed the empire was declining due to punishment from Allah for not implementing Sharia law - and this led to persecution of Christians (not Jews though).
-		- With the beginning of Nazism, and with the Arab revolts, the general sentiment became popular with Arabs too (although many Arabs defended their resident Jews from the Holocaust)
+> [!NOTE] INTERMEDIATE NOTE: Islam and Antisemitism
+> - [Islamic Antisemitism is influenced by European influence rather than the Quran, Quran just gives more reasons for people to criticize Jews]
+>	- The Hadiths say that the Judgement day will not come until Jews and Muslims fight ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Hadith))
+>	- In the medieval period, although there were restrictions, Jews enjoyed a better life in Muslim world than Christian Europe ([Source](https://en.wikipedia.org/wiki/Antisemitism_in_Islam#Life_under_Muslim_rule))
+>		- Things started to slowly change towards the 19th century, with the slow rise of Anti-semitism
+>		- Ottoman Sultan believed the empire was declining due to punishment from Allah for not implementing Sharia law - and this led to persecution of Christians (not Jews though).
+>		- With the beginning of Nazism, and with the Arab revolts, the general sentiment became popular with Arabs too (although many Arabs defended their resident Jews from the Holocaust)
 
 - They started spreading Islam and conquering lands
 - 642 AD: Battle of Nihavend with the Persian Sassanid Empire
@@ -281,11 +282,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- They were
 	- Ottomans banned India from the European spice trade
 	- They established the Ottoman Caliphate (fourth caliphate), as the successors of Sunni Islam
-# Intermediate Note: Islam and Palestine
-- [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]
-	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
-	- Mahdi is not based on the Quran, but on the haddiths.
-- [Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
+> [!NOTE] INTERMEDIATE NOTE: Islam and Palestine
+> - [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]
+> 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
+> 	- Mahdi is not based on the Quran, but on the haddiths.
+> - [Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
 ## Time Period 15
 
 ### Europe, America
