@@ -272,6 +272,9 @@ Arabs arrived in Palestine after 1st century AD.
 - The Majapahit controls part of the India China sea routes.
 ## Time Period 14
 
+### Europe
+- 1450 AD: Italy is rich and cares about art and the Ancient Greek Classics (The Renaissance Period)
+- Gutenberg invents the printing press
 ### Eurasia
 - The fourth crusade ended up capturing the Byzantine empire as part of the Latin empire and weaking Constantinople
 - 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
@@ -282,23 +285,29 @@ Arabs arrived in Palestine after 1st century AD.
 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
 	- Mahdi is not based on the Quran, but on the haddiths.
 - [Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
-### Europe
-- 1450 AD: Italy is rich and cares about art and the Ancient Greek Classics (The Renaissance Period)
-- Gutenberg invents the printing press
+## Time Period 15
+
+### Europe, America
+- The Habsburg married royal families all over Europe
+- 1500 AD: Part of Lithuania is conquered by Ivan The Great, building Muscovy
 - Portugal finds another way to India to get spices
 - 1492 AD: Christopher Columbus asks Portugal to find a way to India by travelling west since the Earth is round. Portugal refuses, so he asks Spain a couple of time and they agree.
-
 - 1494 AD: Columbus reaches the Indies and what they think is Japan (but North America though)
 - They make the Treaty of Tordesillas to decide who of Spain and Portugal gets which part of the world
 - Aztec empire of North America and Inca empire of South America start, but Europe had just discovered their continent
-- The Habsburg married royal families all over Europe
-- 1500 AD: Part of Lithuania is conquered by Ivan The Great, building Muscovy
+### Asia
 - Baburs of Timurids (what was part of the Seljuk Empire after Mongol invasions) conquer India and start the Mughal Empire
 - 1501 AD: Persia formed the Safavids Dynasty, but it is now Shi'a Islam (Central East / Afghanistan to Syria)
+## Time Period 16
+### Europe
 - The Catholic church lets people pay a premium to escape sin
 - 1517 AD: Martin Luther said it's all a scam and wrote 95 reasons why in his book, and it started the protestant reformation
+### Eurasia
 - 1530 AD: Suleiman The Magnificent makes the Ottoman Empire big, and gets part of the holy land which was previously a part of the Seljuk Empire
 - 1556 AD: Ivan the Terrible makes Russia big
+
+## Time Period 17
+### Europe
 - Portugal decided to control the entire Indian Ocean and control all the spice trades
 - Spain realized America is not India, but they pillaged it and made it New Spain
 - England and France decided to copy them
