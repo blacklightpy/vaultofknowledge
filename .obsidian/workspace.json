@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "History/Timeline of Conflicts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -347,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -443,6 +443,7 @@
   },
   "active": "ef1e74cc0a29f7c8",
   "lastOpenFiles": [
+    "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
     "History/Timeline of Conflicts.md",
     "History/Current Affairs/Khalistan Movement.md",
     "Common Problems with Religions.md",
@@ -468,7 +469,6 @@
     "Sound.md",
     "Religions and Walled Gardens.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Continuous Integration and Deployment/Continuous Integration, Delivery and Deployment.md",
-    "Free Hardware Projects.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",

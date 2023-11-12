@@ -33,7 +33,6 @@ Now, they are no longer fighting for Kashmir, but for the control of water. One 
 - The IWT has been honoured for over 50 years, so Pakistan's worries are baseless.
 - The conflict allows fooling Pakistani civilians and staying in power.
 - Pakistan has never dropped their weapons.
-
 # Wars
 - War of 1947-48
 - War of 1965

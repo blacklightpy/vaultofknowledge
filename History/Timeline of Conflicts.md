@@ -418,8 +418,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Atomic bombs
 - 1947: Independence in India, and formation of Pakistan and Bangladesh
 	- Pakistan attacks Jammu and Kashmir
-	- India-Pakistan War and establishment of Line of Control
-- Cold War
+	- 1948 India-Pakistan War and establishment of Line of Control
+- Cold War (1947-1991)
 - 1947: UN Partition Plan for Palestine at the end of British mandate
 	- Formation of Arabic and Jewish states
 		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
