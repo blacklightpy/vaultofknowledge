@@ -155,19 +155,19 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 300 AD: Axum empire in Africa built the Obelisk
 - Bantu in Africa and Malay from Southeast Asia populate Madagascar
 - Ghana Empire sells gold crossing Sahara with camels
---------
 
-(Akkadian), Amorite, Kassite, Elamite, Aramean, Assyrian, Chaldean, Persian, Greek and Parthian
-
-Jews are named after the Kingdom of Judah.
-Kingdom of Israel had Samaria, Galilee and some of Transjordan. Kingdom of Judah had Jerusalem.
-Kingdom of Israel was also known as Kingdom of Samaria
-Kingdom of Israel was assimilated by the Neo-Assyrian Empire
-Kingdom of Israel was assimilated later by the Neo-Babylonian Empire
-Kingdom of Judah was then called Yehud province
-
-Some of the Jews exiled during the Babylonian exile came to Mattanchery
-Arabs arrived in Palestine after 1st century AD.
+> [!NOTE] INTERMEDIATE NOTE
+> (Akkadian), Amorite, Kassite, Elamite, Aramean, Assyrian, Chaldean, Persian, Greek and Parthian
+> 
+> Jews are named after the Kingdom of Judah.
+> Kingdom of Israel had Samaria, Galilee and some of Transjordan. Kingdom of Judah had Jerusalem.
+> Kingdom of Israel was also known as Kingdom of Samaria
+> Kingdom of Israel was assimilated by the Neo-Assyrian Empire
+> Kingdom of Israel was assimilated later by the Neo-Babylonian Empire
+> Kingdom of Judah was then called Yehud province
+>
+> Some of the Jews exiled during the Babylonian exile came to Mattanchery
+> Arabs arrived in Palestine after 1st century AD.
 
 ## Time Period 9
 ### Eurasia
@@ -281,6 +281,7 @@ Arabs arrived in Palestine after 1st century AD.
 	- They were
 	- Ottomans banned India from the European spice trade
 	- They established the Ottoman Caliphate (fourth caliphate), as the successors of Sunni Islam
+# Intermediate Note: Islam and Palestine
 - [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]
 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
 	- Mahdi is not based on the Quran, but on the haddiths.
@@ -357,7 +358,7 @@ Arabs arrived in Palestine after 1st century AD.
 - 1908 AD: Britain found oil in the Middle East
 - Qing dynasty of China is tired of Britan, France, Germany, Russia and Japan trying to conquer them so they dissolve and form the Republic of China, which is controlled by Yuan Shikai of the Qing Dynasty
 ---
----
+# Intermediate Note: Antisemitism and "Scientific" Racism
 - In the 1850s, French writer Joseph Arthur de Gobineau developed a theory of Aryan master race and Nordicism.
 	- He was born in a French aristocratic family
 	- His father was a military officer and a staunch royalist.
