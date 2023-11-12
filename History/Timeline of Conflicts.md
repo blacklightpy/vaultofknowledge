@@ -55,13 +55,14 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 
 ----
 - Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
-## Indo-Europe
+### Indo-Europe
 - Indo-Europeans made the Hittite empire
-## Europe, Mesopotamia
+## Time Period 2
+### Europe, Mesopotamia
 - Egypt and Mycenaean Greece also form
-## Indus River Valley
+### Indus River Valley
 - Indus River Valley Civilization died
-## Indo-Europe
+### Indo-Europe
 - Some of the Indo-Europeans, Indo-Iranians founded the religion of Zoroastrianism
 	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
 - Some of the Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
@@ -75,18 +76,23 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
 	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
 		- [Urdu is Indo-European, but was standardized as Persian Arabic script]
-## Mesopotamia
+## Time Period 3
+### Mesopotamia
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
 - Iron Age begins
 - 12 Tribes of Israel arrive
-
+### South America
 - Olmecs start in Mexico
+## Time Period 4
+### Mesopotamia
 - Phoenicians start colonies
 - Greeks also copy their ideas and make colonies
 - Phoenicians made the Carthage colony that made it's own colonies
 --------
 # 2 Millenia BC
+## Time Period 5
+### Mesopotamia
 - Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
 - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
 - The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
@@ -96,9 +102,12 @@ With agriculture, food became more reliable, but less varied, and people became 
 - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
 
 --------
+## Time Period 6
+### Mesopotamia, Asia
 - The Median empire conquered part of the Neo-Babylonian empire
 - 550 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
+### Asia
 - ~500 BC: Buddha was enlightened in Bodh Gaya
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 - ~500 BC Confucius was figuring out morals
