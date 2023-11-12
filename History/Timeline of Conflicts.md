@@ -36,6 +36,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Indus River Valley
 - Norte Chico
 # 3 Millenia BC
+
+## Mesopotamia
 - Akkadian empire was the first known major empire in Mesopotamia.
 - Canaanites appear in the region
 	- [Canaan is the grandson of Noah]
@@ -46,8 +48,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 
 ----
 - Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
+## Indo-Europe
 - Indo-Europeans made the Hittite empire
-- Egypt and Mycenaean Greece also form
+# Eur
+- Egyptand Mycenaean Greece also form
 - Indus River Valley Civilization died
 - Some of the Indo-Europeans, Indo-Iranians founded the religion of Zoroastrianism
 	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
@@ -374,4 +378,4 @@ Arabs arrived in Palestine after 1st century AD.
 - Martin Luther King Jr. abolishes racism
 - South Africa's Apartheid regime
 - 1991: USSR split
-- 1999: EU forms to use the same money, but Britain doesn't use the same money
+- 1999: EU forms to use the same money, but Britain doesn't use the same mone
