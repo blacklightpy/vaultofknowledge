@@ -43,7 +43,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Norte Chico
 # 3 Millenia BC
 
-## Mesopotamia
+## Time Period 1
+### Mesopotamia
 - Akkadian empire was the first known major empire in Mesopotamia.
 - Canaanites appear in the region
 	- [Canaan is the grandson of Noah]
