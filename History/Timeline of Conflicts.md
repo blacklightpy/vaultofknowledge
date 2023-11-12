@@ -38,8 +38,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Mesopotamian civilization originated in the valley between the rivers Euphrates and Tigris in modern day Iraq.
 - Nile Valley (Egypt)
 - North China Plain (Eastern China)
-- Indus River Valley (Northwest India)
-- Norte Chico ()
+- Indus River Valley / Harappan (Northwest India and Pakistan)
+- Norte Chico / Caral Supe (South America)
 # 3 Millenia BC
 
 ## Time Period 1
