@@ -31,3 +31,18 @@ The units used in GTS are as follows:
 | Subseries                               | Subepoch                     | Thousands of years to millions of years                     |
 | Stage                                   | Age                          | Thousands of years to millions of years                     |
 # Timeline of GTS
+## Eon
+### Era
+#### Period
+##### Epoch
+###### Age
+
+## Hadean Eon
+
+## Archean Eon
+### Eoarchean Era
+### Mesoarchean Era
+### Paleoarchean Era
+### Neoarchean Era
+## Proterozoic Eon
+
