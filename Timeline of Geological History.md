@@ -66,67 +66,67 @@ The units used in GTS are as follows:
 ##### 4.1.1.3. Miaolingian Epoch
 ###### 4.1.1.3.1. Wuliuan Age
 ###### 4.1.1.3.2. Drumian Age
-###### Guzhangian Age
-##### Furongian Epoch
-###### Paibian Age
-###### Jiangshanian Age
-###### Cambrian Stage 10 Age
+###### 4.1.1.3.3. Guzhangian Age
+##### 4.1.1.4. Furongian Epoch
+###### 4.1.1.4.1. Paibian Age
+###### 4.1.1.4.2. Jiangshanian Age
+###### 4.1.1.4.3. Cambrian Stage 10 Age
 
 #### 4.1.2. Ordovician Period
-##### Lower/Early Ordovician Epoch
-###### Tremadocian Age
-###### Floian Age (formerly Arenig Age)
-##### Middle Ordovician Epoch
-###### Dapingian Age
-###### Darriwilian Age
-##### Upper/Late Ordovician Epoch
-###### Sandbian Age
-###### Katian Age
-###### Hirnantian Age
+##### 4.1.2.1. Lower/Early Ordovician Epoch
+###### 4.1.2.1.1. Tremadocian Age
+###### 4.1.2.1.2. Floian Age (formerly Arenig Age)
+##### 4.1.2.2. Middle Ordovician Epoch
+###### 4.1.2.2.1. Dapingian Age
+###### 4.1.2.2.2. Darriwilian Age
+##### 4.1.2.3. Upper/Late Ordovician Epoch
+###### 4.1.2.3.1. Sandbian Age
+###### 4.1.2.3.2. Katian Age
+###### 4.1.2.3.3. Hirnantian Age
 #### 4.1.3. Silurian Period
-##### Llandovery Epoch
-###### Rhuddanian Age
-###### Aeronian Age
-###### Telychian Age
-##### Wenlock Epoch
-###### Sheinwoodian Age
-###### Homerian Age
+##### 4.1.3.1. Llandovery Epoch
+###### 4.1.3.1.1. Rhuddanian Age
+###### 4.1.3.1.2. Aeronian Age
+###### 4.1.3.1.3. Telychian Age
+##### 4.1.3.2. Wenlock Epoch
+###### 4.1.3.2.1. Sheinwoodian Age
+###### 4.1.3.2.2. Homerian Age
 
-##### Ludlow Epoch
-###### Gorstian Age
-###### Ludfordian Age
-##### Pridoli Epoch
+##### 4.1.3.3. Ludlow Epoch
+###### 4.1.3.3.1. Gorstian Age
+###### 4.1.3.3.2. Ludfordian Age
+##### 4.1.3.4. Pridoli Epoch
 #### 4.1.4. Devonian Period
-##### Lower/Early Devonian Epoch
-###### Lochkovian Age
-###### Pragian Age
-###### Emsian Age
-##### Middle Devonian Epoch
-###### Eifelian Age
-###### Givetian Age
-##### Upper/Late Devonian Epoch
-###### Frasnian Age
-###### Famennian Age
+##### 4.1.4.1. Lower/Early Devonian Epoch
+###### 4.1.4.1.1. Lochkovian Age
+###### 4.1.4.1.2. Pragian Age
+###### 4.1.4.1.3. Emsian Age
+##### 4.1.4.2. Middle Devonian Epoch
+###### 4.1.4.2.1. Eifelian Age
+###### 4.1.4.2.2. Givetian Age
+##### 4.1.4.3. Upper/Late Devonian Epoch
+###### 4.1.4.3.1. Frasnian Age
+###### 4.1.4.3.2. Famennian Age
 #### 4.1.5. Carboniferous Period
-##### Mississippian Epoch
-###### Tournaisian Age
-###### Viséan Age
-###### Serpukhovian Age
-##### Pennsylvanian Epoch
-###### Bashkirian Age
-###### Moscovian Age
-###### Kasimovian Age
-###### Gzhelian Age
+##### 4.1.5.1. Mississippian Epoch
+###### 4.1.5.1.1. Tournaisian Age
+###### 4.1.5.1.2. Viséan Age
+###### 4.1.5.1.3. Serpukhovian Age
+##### 4.1.5.2. Pennsylvanian Epoch
+###### 4.1.5.2.1. Bashkirian Age
+###### 4.1.5.2.2. Moscovian Age
+###### 4.1.5.2.3. Kasimovian Age
+###### 4.1.5.2.4. Gzhelian Age
 #### 4.1.6. Permian Period
-##### Cisuralian Epoch
-###### Asselian Age
-###### Sakmarian Age
-###### Artinskian Age
-###### Kungurian Age
-##### Guadalupian Epoch
-###### Roadian Age
-###### Wordian Age
-###### Capitanian Age
+##### 4.1.6.1. Cisuralian Epoch
+###### 4.1.6.1.1. Asselian Age
+###### 4.1.6.1.2. Sakmarian Age
+###### 4.1.6.1.3. Artinskian Age
+###### 4.1.6.1.4. Kungurian Age
+##### 4.1.6.2. Guadalupian Epoch
+###### 4.1.6.2.1. Roadian Age
+###### 4.1.6.2.2. Wordian Age
+###### 4.1.6.2.3. Capitanian Age
 ##### Lopingian Epoch
 ###### Wuchiapingian Age
 ###### Changhsingian Age
