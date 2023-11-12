@@ -1,3 +1,13 @@
 - Judaism
-	- Superiority Complex: God gave them a covenant, but not to anyone else. In other words, they are the chosen people.
-		- This is one of the reasons they haven't colonized the rest of the world, as they had no interest in spreading their religon 
+	- Ethnic Superiority Complex: God gave them a covenant, but not to anyone else. In other words, they are the chosen people.
+		- This is one of the reasons they haven't colonized the rest of the world, as they had no interest in spreading their religion as they are already superior
+		- Some of them also say that chosen means chosen to be a channel to reach the rest of the world, but this is entirely contradictory to the previous point
+- Islam
+	- Saviour Complex: This is the only law of god, and it should reach everyone
+		- Some factions have interpreted it to mean that the use of force is necessary
+- Christianity
+	- Saviour Complex: This is the only law of god, and it should reach everyone
+		- But unlike Islam, it doesn't matter what they do, one only has to accept Jesus as his saviour
+- Hinduism
+	- Casteism
+		- The Vedic texts were originally written by Indo-Europeans with positive goals, describing civilizations, but as time went on, it was used to segregate people into castes, and also started rampant idolatry
