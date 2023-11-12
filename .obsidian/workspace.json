@@ -358,6 +358,14 @@
             }
           },
           {
+            "id": "b99af105343a65c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "3298e62d4c40f851",
             "type": "leaf",
             "state": {
@@ -379,22 +387,6 @@
             }
           },
           {
-            "id": "91b11c5ac5709c5c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b99af105343a65c0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "7ab42dcc53840b27",
             "type": "leaf",
             "state": {
@@ -409,7 +401,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -428,7 +421,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d764b3f3a69ae13b",
+  "active": "b99af105343a65c0",
   "lastOpenFiles": [
     "Why aren't LEDs used as transmitters.md",
     "Isn't using technology built by atheists wrong for religious people.md",
