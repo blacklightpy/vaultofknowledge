@@ -112,6 +112,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 - ~500 BC Confucius was figuring out morals
 ### Europe
+- Greeks started philosophizing
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
 	- 312 BC: Yehud was now called Coelo-Syria, in the Seleucid Empire
@@ -126,7 +127,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 206 BC: The Han Dynasty took over China and Confucianism was once again back
 - Horse nomads of Mongolian Steppe ransacked Qin dynasty
 - Xiongu confederacy appears in Mongolian Steppe?
-### Europe
+### Eurasia
 - The Greek Kingdoms (Hellenistic Kingdoms) are all now Hellenistic
 	- 140 BC: Hasmonian Dynasty takes control over Judea
 	- 37 BC: Herodian Kingdom succeeds it
@@ -139,6 +140,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 33 AD: Crucifixion of Jesus
 - 66-73 AD: Siege of Jerusalem and destruction of the Second Temple
 - 132 AD: Judea was merged with Galilee to form "Syria Palaestina" or "Roman Palestine"
+## Time Period 8
+### Asia
 - China invents the Silk road
 - China conquered Vietnam
 - India finds a sea route to Eastern China
@@ -146,10 +149,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Funan trading kingdom appears in Southeast Asia
 - 220 AD: Buddhism travels from Afghanistan to Eastern China, but before it reaches, China collapses again into Wei, Wu and Shu
 - 225 AD: Persians start the Sassanid Empire
-- 300 AD: Axum empire in Africa built the Obelisk
-- Bantu in Africa and Malay from Southeast Asia populate Madagascar
 - 280 AD: China forms the Jin Dynasty
 - 320 AD: China split into Cheng Han, Liang, Zhao and Jin
+### Africa
+- 300 AD: Axum empire in Africa built the Obelisk
+- Bantu in Africa and Malay from Southeast Asia populate Madagascar
 - Ghana Empire sells gold crossing Sahara with camels
 --------
 
