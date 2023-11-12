@@ -19,6 +19,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Heiroglyphics > Sumerian (Of Sumer), Elamtite/Hatamtite/Susian> East Semitic Akkadian, West Semitic > Central Semitic > Northwest Semtic, Arabic > Aramaic, Canaanite Languages (Hebrew, Aramaic, etc.) > Classical Arabic (Quran based)
 		- Semite was derived from Shem, Noah's faithful son
 
+
+> [!Note]
+> Organize by 
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
 - People spread everywhere across Europe, Africa and Asia
@@ -68,10 +71,12 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
 	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
 		- [Urdu is Indo-European, but was standardized as Persian Arabic script]
+## Mesopotamia
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
 - Iron Age begins
 - 12 Tribes of Israel arrive
+
 - Olmecs start in Mexico
 - Phoenicians start colonies
 - Greeks also copy their ideas and make colonies
