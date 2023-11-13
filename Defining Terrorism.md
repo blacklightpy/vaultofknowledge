@@ -11,6 +11,13 @@ A simple example which makes a difference is saying "this is a phone" instead of
 > - Public/Private
 > - Mental/Physical
 > - Individual/Collective
+>
+> Is there even an order?
+> - Minor Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
+> - Standard Punishment (Public, Private), (Mental, Physical), (Individual, Collective)
+> - Abuse
+
+
 
 - Class 1 Terrorism: Private Humiliation
 	- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them stand at the back of the class.
@@ -26,4 +33,4 @@ A simple example which makes a difference is saying "this is a phone" instead of
 - Class 6 Terrorism: Physical Abuse
 	- When someone harms a person physically
 - Class 7 Terrorism: Abuse Relatives
-	- When someone harms a person close to the target to achieve a goal, mentally or physically
+	- When someone harms a person close to the target to achieve a goal, mentally or physica
