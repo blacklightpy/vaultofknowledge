@@ -14,8 +14,21 @@ A simple example which makes a difference is saying "this is a phone" instead of
 >
 > Is there even an order?
 > - Minor Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
-> - Standard Punishment (Public, Private), (Mental, Physical), (Individual, Collective)
-> - Abuse
+> - Major Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
+> - Abuse: (Public, Private), (Mental, Physical), (Individual, Collective)
+> - Severe: (Public, Private), (Mental, Physical), (Individual, Collective)
+>
+> Ordering Properties by Major Class
+> - Private Mental Individual
+> - Public Mental Individual
+> - Private Physical Individual
+> - Public Physical Individual
+> - Private Mental Collective
+> - Public Mental Collective
+> - Private Physical Collective
+> - Public Physical Collective
+
+
 
 
 
@@ -33,4 +46,4 @@ A simple example which makes a difference is saying "this is a phone" instead of
 - Class 6 Terrorism: Physical Abuse
 	- When someone harms a person physically
 - Class 7 Terrorism: Abuse Relatives
-	- When someone harms a person close to the target to achieve a goal, mentally or physica
+	- When someone harms a person close to the target to achieve a goal, mentally or physically
