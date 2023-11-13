@@ -292,17 +292,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed041fcc71d97451",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -331,7 +323,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "source code",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -348,8 +340,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -452,7 +443,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Writing good Dockerfiles.md",

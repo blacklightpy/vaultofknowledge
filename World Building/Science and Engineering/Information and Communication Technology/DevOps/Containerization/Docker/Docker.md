@@ -70,12 +70,12 @@ Obviously, this is for debugging, and not for production.
 
 ### `RUN` vs `CMD` vs `ENTRYPOINT`
 
-| | No ENTRYPOINT| ENTRYPOINT exec_entry p1_entry| ENTRYPOINT ["exec_entry", "p1_entry"]|
-|---|---|---|---|
-| No CMD| error, not allowed| /bin/sh -c exec_entry p1_entry| exec_entry p1_entry|
-| CMD ["exec_cmd", "p1_cmd"]| exec_cmd p1_cmd| /bin/sh -c exec_entry p1_entry| exec_entry p1_entry exec_cmd p1_cmd|
-| CMD ["p1_cmd", "p2_cmd"]| p1_cmd p2_cmd| /bin/sh -c exec exec_entry p1_entry| exec_entry p1_entry p1_cmd p2_cmd|
-| CMD exec_cmd p1_cmd| /bin/sh exec_cmd p1_cmd| /bin/sh -c exec_entry p1_entry| exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd|
+|                            | No ENTRYPOINT           | ENTRYPOINT exec_entry p1_entry (Shell Form) | ENTRYPOINT ["exec_entry", "p1_entry"] (Exec Form) |
+| -------------------------- | ----------------------- | ------------------------------------------- | ------------------------------------------------- |
+| No CMD                     | error, not allowed      | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry                               |
+| CMD ["exec_cmd", "p1_cmd"] | exec_cmd p1_cmd         | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry exec_cmd p1_cmd               |
+| CMD ["p1_cmd", "p2_cmd"]   | p1_cmd p2_cmd           | /bin/sh -c exec exec_entry p1_entry         | exec_entry p1_entry p1_cmd p2_cmd                 |
+| CMD exec_cmd p1_cmd        | /bin/sh exec_cmd p1_cmd | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd    |
 
 `RUN` executes commands in a new layer and creates a new image. So it is recommended to chain them together.
 e.g. it's used for installing software packages
