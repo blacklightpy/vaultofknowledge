@@ -19,9 +19,12 @@ A simple example which makes a difference is saying "this is a phone" instead of
 	- When someone pressures a person
 - Class 6 Terrorism: Physical Abuse
 	- When someone harms a person physically
-- Class 7 Terrorism: Abuse Relatives
-	- When someone harms a person close to the target to achieve a goal, mentally or physically
-- Class 8 Terrorism: Targeted Murder
-- Class 9 Terrorism: 
+- Class 7 Terrorism: Mentally Abuse Relatives
+	- When someone harms a person close to the target if the target cannot be found, to achieve a goal, mentally or physically
+	- I placed this after physical abuse, because it is more likely that someone will be physically abused directly before their relatives are mentally abused regarding a problem.
+- Class 8 Terrorism: Murder
+	- When someone kills a person who is against a goal to achieve that goal
+- Class 9 Terrorism: Murder Relatives
+	- When someone kills people close to the target if the target cannot be found, to achieve a goal
 
 Some of these punishments can be grouped, for example, making a student stand outside the class may also be physical punishment to an extent.
