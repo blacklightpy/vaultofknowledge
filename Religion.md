@@ -1,0 +1,5 @@
+A religion is a form of understanding of reality which is similar to, but distinct from the philosophical branch of metaphysics.
+
+The difference is that metaphysics is the study of the nature of reality and the unknown aspects of it, while religion is the definition of the the nature of reality by using dogmas which cannot be questioned.
+
+The reason for this is that, people often spend their entire lifetimes puzzling over metaphysical questions. But for many other people, there are funerals to conduct, sorrows to comfort, weddings to conduct

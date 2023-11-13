@@ -271,8 +271,13 @@
             "id": "6731dbace51bf993",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Religion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -342,6 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,6 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +383,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Religion.md"
+              }
             }
           },
           {
@@ -427,6 +436,7 @@
   },
   "active": "6731dbace51bf993",
   "lastOpenFiles": [
+    "Religion.md",
     "Defining Terrorism.md",
     "World Building/Philosophy/Disciplines.md",
     "Personal/Creative and Recreational/Aesthetics.md",
@@ -454,7 +464,6 @@
     "History/Geology",
     "History/Periods of Archaeological History.md",
     "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
-    "History/Current Affairs/Khalistan Movement.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",
