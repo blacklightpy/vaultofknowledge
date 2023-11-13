@@ -72,9 +72,10 @@ Obviously, this is for debugging, and not for production.
 
 - `RUN` executes commands in a new layer and creates a new image. So it is recommended to chain them together.
 	- e.g. it's used for installing software packages
-- `CMD` sets default commands and/or parameters for the container, which can be overwritten from the command line when a Docker container runs.
+- `CMD` sets default commands and/or parameters for the container.
 	- If the `CMD` does not define an executable, it should be defined by the `ENTRYPOINT`
-	- In case of multiple `CMD` statements, only the last one gets executed.
+	- In case there are multiple `CMD` statements, only the last one gets executed.
+	- It can be overwritten from the command line when a Docker container runs.
 - `ENTRYPOINT` configures a container that'll run as an executable.
 	- Unlike `CMD`, an `ENTRYPOINT` command does not get ignored by additional parameters that are specified in the `docker run` command.
 
@@ -82,7 +83,7 @@ Obviously, this is for debugging, and not for production.
 
 - In the absence of an `ENTRYPOINT`, If the `CMD` has an executable, it will be executed along with its parameters.
 - If there is an `ENTRYPOINT`, the `CMD` parameters are passed in addition to the `ENTRYPOINT` executable and parameters.
-- If there are executables in both `CMD` and `ENTRYPOINT`, `ENTRYPOINT TAKES PRECEDENCE`
+- If there are executables in both `CMD` and `ENTRYPOINT`, `ENTRYPOINT` takes precedence.
 
 > [!NOTE]
 > - `exec` means executable
@@ -93,9 +94,9 @@ Obviously, this is for debugging, and not for production.
 |                                                                | No ENTRYPOINT           | ENTRYPOINT exec_entry p1_entry (Shell Form) | ENTRYPOINT ["exec_entry", "p1_entry"] (Exec Form) |
 | -------------------------------------------------------------- | ----------------------- | ------------------------------------------- | ------------------------------------------------- |
 | No CMD                                                         | error, not allowed      | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry                               |
-| CMD ["exec_cmd", "p1_cmd"] (Exec form)                         | exec_cmd p1_cmd         | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry exec_cmd p1_cmd               |
-| CMD ["p1_cmd", "p2_cmd"] (as default parameters to ENTRYPOINT) | p1_cmd p2_cmd           | /bin/sh -c exec exec_entry p1_entry         | exec_entry p1_entry p1_cmd p2_cmd                 |
-| CMD exec_cmd p1_cmd (Shell form)                               | /bin/sh exec_cmd p1_cmd | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd    |
+| CMD ["exec_cmd", "p1_cmd"] *(Exec form)*                         | exec_cmd p1_cmd         | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry exec_cmd p1_cmd               |
+| CMD ["p1_cmd", "p2_cmd"] *(as default parameters to ENTRYPOINT)* | p1_cmd p2_cmd           | /bin/sh -c exec exec_entry p1_entry         | exec_entry p1_entry p1_cmd p2_cmd                 |
+| CMD exec_cmd p1_cmd *(Shell form)*                               | /bin/sh exec_cmd p1_cmd | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd    |
 
 #### Shell form
 `<Instruction> <Command>`
