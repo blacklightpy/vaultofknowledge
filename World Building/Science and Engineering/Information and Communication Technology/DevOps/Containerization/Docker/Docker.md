@@ -20,11 +20,9 @@ docker pull <container image URL>
 
 docker run -d \
 --name=<NAME> \
-[
--e <ENV VARIABLE> \
+[ -e <ENV VARIABLE> \
 -p <PORT MAPPING/PROTOCOL> \
--v <VOLUME MAPPING> \
-]
+-v <VOLUME MAPPING> ] \
 [other options] \
 <container image URL>
 ```
@@ -50,7 +48,7 @@ services:
     [other options]
 ```
 ### Building a container
-Containers are built using Dockerfiles. A Dockerfile is comprised of many instructions and
+Containers are built using Dockerfiles. A Dockerfile is comprised of many instructions. The instructions are written as uppercase by convention. All Dockerfiles begin with the `FROM <base image>` instruction, which may only be preceded by `ARG` instructions.
 
 When using a Dockerfile, the easiest way to think about what needs to be put into a new container is this way: You're taking some base-level container and adding or overriding stuff in your Dockerfile to ultimately generate a stand-lone container that's a new image.
 
@@ -59,7 +57,7 @@ So if you're trying a centos:7 container and installing an application into it a
 - Use the `RUN` syntax for any command-line things you'd need to do
 - Use the `COPY` syntax to take files from your local computer and put them into the container image
 - Learn `BASH` scripting and update the default `ENTRYPOINT` so your Bash script executes the new software and doesn't exit the script.
-  
+
   e.g.:
 ``` Bash
 #!/bin/bash
