@@ -6,3 +6,7 @@ That is not to say all schools, or the concept of education falls under the same
 
 A simple example which makes a difference is saying "this is a phone" instead of "we refer to this by the name phone".
 
+- Class 0 Terrorism: Private Humiliation
+	- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them s
+	- 
+

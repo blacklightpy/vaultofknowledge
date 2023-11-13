@@ -266,22 +266,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6731dbace51bf993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -347,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion.md",
+                "file": "Defining Terrorism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion.md",
+                "file": "Defining Terrorism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -384,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion.md"
+                "file": "Defining Terrorism.md"
               }
             }
           },
@@ -434,7 +421,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6731dbace51bf993",
+  "active": "e0e730a13da87827",
   "lastOpenFiles": [
     "Religion.md",
     "Defining Terrorism.md",
