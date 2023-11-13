@@ -43,9 +43,9 @@ A simple example which makes a difference is saying "this is a phone" instead of
 	1) Mentally, Privately, on an Individual Level
 		- When a teacher scolds you privately for doing something mischievous.
 	2) Mentally, Publicly, on an Individual Level
-		- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them stand at the back of the class.
+		- When a teacher scolds you in front of the whole class for doing something mischievous.
 	3) Physically, Privately, on an Individual Level
-		- When a teacher
+		- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them stand at the back of the class.
 	4) Physically, Publicly, on an Individual Level
 	5) Mentally, Privately, on a Collective Level
 	6) Mentally, Publicly, on a Collective Level
