@@ -22,10 +22,11 @@ A simple example which makes a difference is saying "this is a phone" instead of
 - Class 7 Terrorism: Physical Abuse
 	- When someone harms a person physically
 - Class 8 Terrorism: Physically Abuse Relatives
-	- When someone harms a person close to a person
-- Class 9 Terrorism: Dangerous Attack or Murder
-	- When someone kills a person who is against a goal to achieve that goal
-- Class 10 Terrorism: Dangerous Attack or Murder Relatives
-	- When someone kills people close to the target if the target cannot be found, to achieve a goal
+	- When someone physically harms a person close to a person to achieve a goal.
+- Class 9 Terrorism: Murder
+	- When someone kills a person to achieve a goal.
+- Class 10 Terrorism: Murder Relatives
+	- When someone kills people close to a person to achieve a goal. These are what we ordinarily refer to as terrorist attacks.
+	- People related to the government of a country can include either non-combatant military personnel or civilians.
 
 Some of these punishments can be grouped, for example, making a student stand outside the class may also be physical punishment to an extent.
