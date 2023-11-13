@@ -4,13 +4,13 @@ SysAdmins - run containers
 ### Running a container
 It is similar to launching an application.
 
-There is a preconfigured script configured at buildtime with `ENTRYPOINT` that contains the script to launch and the container runs till the script exits with status 0.
+There is a pre-configured script configured at build time with the `ENTRYPOINT` instruction that contains the script to launch and the container runs till the script exits with status 0.
 #### Using command line
 
 ```bash
 docker pull <container image URL>
 
-docker run -d --name=<NAME> [-e <ENV VARIABLE> -p <PORT MAPPING/PROTOCOL> -v <VOLUME MAPPING>] [other options] <container image URL>
+docker run -d --name=<NAME> [ -e <ENV VARIABLE> -p <PORT MAPPING/PROTOCOL> -v <VOLUME MAPPING> ] [other options] <container image URL>
 ```
 
 You may be used to seeing the parts of the command being split into lines:
@@ -20,9 +20,11 @@ docker pull <container image URL>
 
 docker run -d \
 --name=<NAME> \
-[-e <ENV VARIABLE> \
+[
+-e <ENV VARIABLE> \
 -p <PORT MAPPING/PROTOCOL> \
--v <VOLUME MAPPING>] \
+-v <VOLUME MAPPING> \
+]
 [other options] \
 <container image URL>
 ```
@@ -48,6 +50,8 @@ services:
     [other options]
 ```
 ### Building a container
+Containers are built using Dockerfiles. A Dockerfile is comprised of many instructions and
+
 When using a Dockerfile, the easiest way to think about what needs to be put into a new container is this way: You're taking some base-level container and adding or overriding stuff in your Dockerfile to ultimately generate a stand-lone container that's a new image.
 
 So if you're trying a centos:7 container and installing an application into it and make it autostartup and run when you do the `run` command, you'll need to remember these key things:
@@ -67,8 +71,7 @@ echo "Hello World" > test.txt
 With this script in place, even if the binary crashes, the container will fallback to bash shell and you can then check for any logs or troubleshoot.
 
 Obviously, this is for debugging, and not for production.
-
-### `RUN` vs `CMD` vs `ENTRYPOINT`
+### `RUN` vs `CMD` vs `ENTRYPOINT` instructions
 
 - `RUN` executes commands in a new layer and creates a new image. So it is recommended to chain them together.
 	- e.g. it's used for installing software packages
@@ -81,6 +84,8 @@ Obviously, this is for debugging, and not for production.
 
 > [!NOTE]
 > If `CMD` is defined in base image, setting an `ENTRYPOINT` will override it in the derived image. In such a case, `CMD` has to be redefined.
+
+All three instructions have two forms: Shell form and Executable form.
 #### Shell form
 `<Instruction> <Command>`
 e.g.: 
@@ -99,12 +104,12 @@ RUN ["apt", "install", "firefox"]
 - If there is an `ENTRYPOINT`, the `CMD` parameters are passed in addition to the `ENTRYPOINT` executable and parameters.
 - If there are executables in both `CMD` and `ENTRYPOINT`, `ENTRYPOINT` takes precedence.
 
-|                                                                | No ENTRYPOINT           | ENTRYPOINT exec_entry p1_entry (Shell Form) | ENTRYPOINT ["exec_entry", "p1_entry"] (Exec Form) |
-| -------------------------------------------------------------- | ----------------------- | ------------------------------------------- | ------------------------------------------------- |
-| No CMD                                                         | error, not allowed      | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry                               |
-| CMD ["exec_cmd", "p1_cmd"] (Exec form)                         | exec_cmd p1_cmd         | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry exec_cmd p1_cmd               |
-| CMD ["p1_cmd", "p2_cmd"] (as default parameters to ENTRYPOINT) | p1_cmd p2_cmd           | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry p1_cmd p2_cmd                 |
-| CMD exec_cmd p1_cmd (Shell form)                               | /bin/sh exec_cmd p1_cmd | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd    |
+|                            | No ENTRYPOINT           | ENTRYPOINT exec_entry p1_entry | ENTRYPOINT ["exec_entry", "p1_entry"]          |
+| -------------------------- | ----------------------- | ------------------------------ | ---------------------------------------------- |
+| No CMD                     | error, not allowed      | /bin/sh -c exec_entry p1_entry | exec_entry p1_entry                            |
+| CMD ["exec_cmd", "p1_cmd"] | exec_cmd p1_cmd         | /bin/sh -c exec_entry p1_entry | exec_entry p1_entry exec_cmd p1_cmd            |
+| CMD ["p1_cmd", "p2_cmd"]   | p1_cmd p2_cmd           | /bin/sh -c exec_entry p1_entry | exec_entry p1_entry p1_cmd p2_cmd              |
+| CMD exec_cmd p1_cmd        | /bin/sh exec_cmd p1_cmd | /bin/sh -c exec_entry p1_entry | exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd |
 
 > [!NOTE]
 > - `exec` means executable
