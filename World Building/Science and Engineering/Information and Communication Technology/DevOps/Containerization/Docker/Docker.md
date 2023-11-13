@@ -1,6 +1,5 @@
 App Developers - build containers
 SysAdmins - run containers
-
 ## Running vs Building a container
 ### Running a container
 It is similar to launching an application.
@@ -15,6 +14,7 @@ docker run -d --name=<NAME> [-e <ENV VARIABLE> -p <PORT MAPPING/PROTOCOL> -v <VO
 ```
 
 You may be used to seeing the parts of the command being split into lines:
+
 ```bash
 docker pull <container image URL>
 
@@ -27,23 +27,25 @@ docker run -d \
 <container image URL>
 ```
 #### Using Docker Compose
+Create a .yml Docker Compose file with the following contents to describe the parameters of the container.
+
 ```yaml
 version: <version>
 
 services:
   <NAME>:
     image: <container image URL>
-    [environment:
+    [
+    environment:
       - [ENV VARIABLE 1]
       - [ENV VARIABLE 2]
     ports:
       - [PORT MAPPING/PROTOCOL]
     volumes:
-      - /home/myname/wireguard:/config
-      - /lib/modules:/lib/modules
-    cap_add:
-      - NET_ADMIN
-      - SYS_MODULE
+      - [VOLUME MAPPING 1]
+      - [VOLUME MAPPING 2]
+    ]
+    [other options]
 ```
 ### Building a container
 When using a Dockerfile, the easiest way to think about what needs to be put into a new container is this way: You're taking some base-level container and adding or overriding stuff in your Dockerfile to ultimately generate a stand-lone container that's a new image.
