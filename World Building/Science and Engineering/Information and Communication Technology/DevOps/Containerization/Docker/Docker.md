@@ -72,10 +72,14 @@ Obviously, this is for debugging, and not for production.
 
 - `RUN` executes commands in a new layer and creates a new image. So it is recommended to chain them together.
 	- e.g. it's used for installing software packages
-- `CMD` sets default commands and/or parameters, which can be overwritten from the command line when a Docker container runs.
+- `CMD` sets default commands and/or parameters for the container, which can be overwritten from the command line when a Docker container runs.
+	- If the `CMD` does not define an executable, it should be defined by the `ENTRYPOINT`
 	- In case of multiple `CMD` statements, only the last one gets executed.
-- `ENTRYPOINT` configures a container that'll run as an executable. Unlike `CMD`, an `ENTRYPOINT` command does not get ignored by additional parameters that are specified in the `docker run` command.
+- `ENTRYPOINT` configures a container that'll run as an executable.
+	- Unlike `CMD`, an `ENTRYPOINT` command does not get ignored by additional parameters that are specified in the `docker run` command.
 
+#### How `CMD` and `ENTRYPOINT` interact
+In the absence of an ENTRYPOINT, If the CMD has an executable, it 
 
 |                                                                | No ENTRYPOINT           | ENTRYPOINT exec_entry p1_entry (Shell Form) | ENTRYPOINT ["exec_entry", "p1_entry"] (Exec Form) |
 | -------------------------------------------------------------- | ----------------------- | ------------------------------------------- | ------------------------------------------------- |
