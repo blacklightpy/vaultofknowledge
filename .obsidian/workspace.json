@@ -266,9 +266,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6731dbace51bf993",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -334,7 +342,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defining Terrorism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +358,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defining Terrorism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -370,9 +376,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Defining Terrorism.md"
-              }
+              "state": {}
             }
           },
           {
@@ -421,13 +425,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e0e730a13da87827",
+  "active": "6731dbace51bf993",
   "lastOpenFiles": [
+    "Defining Terrorism.md",
     "World Building/Philosophy/Disciplines.md",
     "Personal/Creative and Recreational/Aesthetics.md",
     "World Building/Philosophy/Epistemology.md",
     "World Building/Philosophy/Philosophy.md",
-    "Defining Terrorism.md",
     "Wolfram Physics.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "History/Geology/Timeline of Geological History.md",
