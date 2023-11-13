@@ -8,9 +8,9 @@ A simple example which makes a difference is saying "this is a phone" instead of
 
 > [!NOTE]
 > Maybe use the following Properties:
-> - Public/Private
-> - Mental/Physical
-> - Individual/Collective
+> - Mental/Physical 
+> 	- Private/Public
+> 		- Individual/Collective
 >
 > Is there even an order?
 > 
@@ -21,8 +21,9 @@ A simple example which makes a difference is saying "this is a phone" instead of
 > - Severe: (Public, Private), (Mental, Physical), (Individual, Collective)
 >
 > Ordering Properties by Major Classes
-> - Individual Private Mental
-> - Public Mental
+> This is taken as, first condition is Mental/Physical, for while Mental comes before Physical. Next, It is whether it's private of public, and private comes before public
+> - Private Mental Individual
+> - Public Mental Individual
 > - Private Physical Individual
 > - Public Physical Individual
 > - Private Mental Collective
