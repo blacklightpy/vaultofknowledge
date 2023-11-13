@@ -253,22 +253,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0e730a13da87827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Defining Terrorism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -334,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defining Terrorism.md",
+                "file": "Acceleration, not Force, is constant at a given distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defining Terrorism.md",
+                "file": "Acceleration, not Force, is constant at a given distance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defining Terrorism.md"
+                "file": "Acceleration, not Force, is constant at a given distance.md"
               }
             }
           },
@@ -421,10 +408,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b99af105343a65c0",
+  "active": "18b67e7575e938ca",
   "lastOpenFiles": [
-    "Wolfram Physics.md",
+    "War.md",
+    "History/Current Affairs/Terrorism.md",
     "Defining Terrorism.md",
+    "Wolfram Physics.md",
     "Free Radio Firmware.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Writing good Dockerfiles.md",
@@ -442,14 +431,12 @@
     "Religions and Walled Gardens.md",
     "History/Current Affairs/Salafi Jihadism.md",
     "History/Current Affairs/Jihadist Attacks.md",
-    "History/Current Affairs/Terrorism.md",
     "History/Religion/Islamist factions.md",
     "History/Religion/Forms of religion.md",
     "History/Religion",
     "History/Religion/Jihad as per Quran.md",
     "World Building/Science and Engineering/Physics/Susceptibility.md",
     "History/Timeline of Conflicts.md",
-    "Mathematics.md",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",

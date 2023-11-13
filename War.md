@@ -1,0 +1,1 @@
+War is what ensues when a conflict between two parties escalates to the use of lethal forces. In the modern day, war would mean a battle between armed forces between two groups of people. This is usually between countries or between a country and a militant group, which is referred to as a war on terrorism.
