@@ -17,6 +17,10 @@
 	- A RAN stack consists of the PHY layer, MAC sublayer, RLC sublayer, PDCP sublayer and the RRC sublayer. External interface layers (connecting to devices) include the Non-Access-Stratum (NAS) and the IP layer.
 - User Equipment: The devices on the side of the user
 	- Includes the Mobile Handset and the SIM card.
+- Channel Resource Sharing
+	- Duplexing: Simple Duplex, Half Duplex, Full Duplex
+	- Multiplexing: FDM, TDM, CDM, SDM
+	- Multiple Access: FDMA, TD
 - Channel access method / Multiple access method:  It refers to the technology used to connect two terminals for communication
 	- A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
 		- In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
@@ -31,8 +35,8 @@
 		- CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
 		- SDMA - Space Division Multiple Access
 		- RAMA - Random Access Multiple Access
-	- There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
-	- Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
+		- There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
+	- Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA; Also known as Fixed-assigned Multiple Access (FAMA) or Pre-Assigned Multiple Access (PAMA))  are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
 	- In addition to channel mode, there are also packet mode channel access methods
 	- Example of multiple access methods include CSMA/CA, CDMA, OFDM/OFDMA, etc.
 - Air interface: Air interface or access mode is the link between two terminals in a wireless communication. While a channel access mode defines a single method (for example, a variant of CDMA), air interface (or access mode) standards include a wide range of standards related to the communications. Air interfaces are described as part of radio access technologies (RATs).
