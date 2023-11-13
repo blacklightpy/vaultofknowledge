@@ -19,9 +19,10 @@ A simple example which makes a difference is saying "this is a phone" instead of
 - Class 5 Terrorism: Mental Abuse
 	- When someone mentally pressures a person to achieve a goal
 - Class 6 Terrorism: Mentally Abuse Relatives
-	- When someone mentally pressures uninvolved people close to a person
+	- When someone mentally pressures uninvolved people close to a person to achieve a goal.
+	- Abusing someone close to someone is worse than abusing them directly.
 - Class 7 Terrorism: Physical Abuse
-	- When someone harms a person physically
+	- When someone harms a person physically to achieve a goal.
 - Class 8 Terrorism: Physically Abuse Relatives
 	- When someone physically harms uninvolved people close to a person to achieve a goal.
 - Class 9 Terrorism: Murder
