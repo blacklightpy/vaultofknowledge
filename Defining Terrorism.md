@@ -6,52 +6,6 @@ That is not to say all schools, or the concept of education falls under the same
 
 A simple example which makes a difference is saying "this is a phone" instead of "we refer to this by the name phone".
 
-> [!NOTE]
-> Maybe use the following Properties:
-> - Mental/Physical 
-> 	- Private/Public
-> 		- Individual/Collective
->
-> Is there even an order for this?
-> 
-> Classification by Classes and Properties:
-> 
-> 1. Minor Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
-> 2. Major Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
-> 3. Abuse: (Public, Private), (Mental, Physical), (Individual, Collective)
-> 4. Severe: (Public, Private), (Mental, Physical), (Individual, Collective)
->
-> Ordering Properties by Major Classes:
-> 
-> This is taken as, first condition is mental or physical, and there mental comes before physical.
-> Next, it is whether it's private of public, and private comes before public.
-> The last condition is whether it's individual or collective, and collective comes before public.
-> 
-> 1. Mentally, Privately, on an Individual Level
-> 2. Mentally, Publicly, on an Individual Level
-> 3. Physically, Privately, on an Individual Level
-> 4. Physically, Publicly, on an Individual Level
-> 5. Mentally, Privately, on a Collective Level
-> 6. Mentally, Publicly, on a Collective Level
-> 7. Physically, Privately, on a Collective Level
-> 8. Physically, Publicly, on a Collective Level
->
-> Which would lead to a total of 4 major classes with 8 subclasses each, leading to 32 total classes of terrorism
-
-
-- Class 1 Terrorism: Minor Punishment
-	1) Mentally, Privately, on an Individual Level
-		- When a teacher scolds you privately for doing something mischievous.
-	2) Mentally, Publicly, on an Individual Level
-		- When a teacher scolds you in front of the whole class for doing something mischievous.
-	3) Physically, Privately, on an Individual Level
-		- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them stand at the back of the class.
-	4) Physically, Publicly, on an Individual Level
-	5) Mentally, Privately, on a Collective Level
-	6) Mentally, Publicly, on a Collective Level
-	7) Physically, Privately, on a Collective Level
-	8) Physically, Publicly, on a Collective Level
-
 - Class 1 Terrorism: Private Humiliation
 	- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them stand at the back of the class.
 - Class 2 Terrorism: Public Humiliation
@@ -67,3 +21,7 @@ A simple example which makes a difference is saying "this is a phone" instead of
 	- When someone harms a person physically
 - Class 7 Terrorism: Abuse Relatives
 	- When someone harms a person close to the target to achieve a goal, mentally or physically
+- Class 8 Terrorism: Targeted Murder
+- Class 9 Terrorism: 
+
+Some of these punishments can be grouped, for example, making a student stand outside the class may also be physical punishment to an extent.
