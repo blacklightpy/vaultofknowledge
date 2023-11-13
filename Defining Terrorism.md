@@ -6,7 +6,12 @@ That is not to say all schools, or the concept of education falls under the same
 
 A simple example which makes a difference is saying "this is a phone" instead of "we refer to this by the name phone".
 
-- Class 0 Terrorism: Private Humiliation
-	- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them s
-	- 
-
+- Class 1 Terrorism: Private Humiliation
+	- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them stand at the back of the class.
+- Class 2 Terrorism: Public Humiliation
+	- When a teacher makes the students who did not submit homework stand outside the class.
+- Class 3 Terrorism: Physical Punishment
+	- When a teacher beats the students who did not submit homework with a stick.
+- Class 4 Terrorism: Collective Punishment
+	- When a teacher punishes the whole class because one person committed a mistake.
+	- I ranked this higher than other punishments because a teacher is not likely to resort to this without a high sense of anger and lack of rationality.
