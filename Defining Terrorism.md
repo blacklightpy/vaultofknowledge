@@ -7,45 +7,46 @@ That is not to say all schools, or the concept of education falls under the same
 A simple example which makes a difference is saying "this is a phone" instead of "we refer to this by the name phone".
 
 > [!NOTE]
-> Maybe use the following Properties:
+> **Maybe use the following Properties:**
 > - Mental/Physical 
 > 	- Private/Public
 > 		- Individual/Collective
 >
 > Is there even an order for this?
 > 
-> Classification by Classes and Properties:
+> **Classification by Classes and Properties:**
 > 1. Minor Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
 > 2. Major Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
 > 3. Abuse: (Public, Private), (Mental, Physical), (Individual, Collective)
 > 4. Severe: (Public, Private), (Mental, Physical), (Individual, Collective)
 >
-> Ordering Properties by Major Classes
+> **Ordering Properties by Major Classes:**
+> 
 > This is taken as, first condition is mental or physical, and there mental comes before physical.
 > Next, it is whether it's private of public, and private comes before public.
 > The last condition is whether it's individual or collective, and collective comes before public.
 > 
-> 1. Private Mental Individual
-> 2. Public Mental Individual
-> 3. Private Physical Individual
-> 4. Public Physical Individual
-> 5. Private Mental Collective
-> 6. Public Mental Collective
-> 7. Private Physical Collective
-> 8. Public Physical Collective
+> 1. Mentally, Privately, on an Individual Level
+> 2. Mentally, Publicly, on an Individual Level
+> 3. Physically, Privately, on an Individual Level
+> 4. Physically, Publicly, on an Individual Level
+> 5. Mentally, Privately, on a Collective Level
+> 6. Mentally, Publicly, on a Collective Level
+> 7. Physically, Privately, on a Collective Level
+> 8. Physically, Publicly, on a Collective Level
 >
 > Which would lead to a total of 4 major classes with 8 subclasses each, leading to 32 total classes of terrorism
 
 
 - Class 1 Terrorism: Minor Punishment
-	1. Private Minor Mental Punishment on an Individual level
-	2. Public Mental Individual
-	3. Private Physical Individual
-	4. Public Physical Individual
-	5. Private Mental Collective
-	6. Public Mental Collective
-	7. Private Physical Collective
-	8. Public Physical Collective
+	1. Mentally, Privately, on an Individual Level
+	2. Mentally, Publicly, on an Individual Level
+	3. Physically, Privately, on an Individual Level
+	4. Physically, Publicly, on an Individual Level
+	5. Mentally, Privately, on a Collective Level
+	6. Mentally, Publicly, on a Collective Level
+	7. Physically, Privately, on a Collective Level
+	8. Physically, Publicly, on a Collective Level
 
 - Class 1 Terrorism: Private Humiliation
 	- When a teacher asks the class leader to note the names of students who are making noise in her absence so that she can make them stand at the back of the class.
