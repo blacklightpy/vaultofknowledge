@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceleration, not Force, is constant at a given distance.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -284,7 +284,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "moire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -301,7 +301,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -321,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration, not Force, is constant at a given distance.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration, not Force, is constant at a given distance.md",
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -358,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceleration, not Force, is constant at a given distance.md"
+                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md"
               }
             }
           },
@@ -410,6 +411,8 @@
   },
   "active": "18b67e7575e938ca",
   "lastOpenFiles": [
+    "World Building/Fun and Activities/Photography/Moiré.md",
+    "Acceleration, not Force, is constant at a given distance.md",
     "War.md",
     "History/Current Affairs/Terrorism.md",
     "Defining Terrorism.md",
@@ -424,7 +427,6 @@
     "Personal/Creative and Recreational/Aesthetics.md",
     "World Building/Philosophy/Epistemology.md",
     "World Building/Philosophy/Philosophy.md",
-    "Acceleration, not Force, is constant at a given distance.md",
     "History/Geology/Timeline of Geological History.md",
     "Why aren't LEDs used as transmitters.md",
     "Isn't using technology built by atheists wrong for religious people.md",
@@ -436,7 +438,6 @@
     "History/Religion",
     "History/Religion/Jihad as per Quran.md",
     "World Building/Science and Engineering/Physics/Susceptibility.md",
-    "History/Timeline of Conflicts.md",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
