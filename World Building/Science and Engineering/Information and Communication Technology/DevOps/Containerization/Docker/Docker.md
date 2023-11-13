@@ -79,38 +79,38 @@ Obviously, this is for debugging, and not for production.
 - `ENTRYPOINT` configures a container that'll run as an executable.
 	- Unlike `CMD`, an `ENTRYPOINT` command does not get ignored by additional parameters that are specified in the `docker run` command.
 
-#### How `CMD` and `ENTRYPOINT` interact
-
-- In the absence of an `ENTRYPOINT`, If the `CMD` has an executable, it will be executed along with its parameters.
-- If there is an `ENTRYPOINT`, the `CMD` parameters are passed in addition to the `ENTRYPOINT` executable and parameters.
-- If there are executables in both `CMD` and `ENTRYPOINT`, `ENTRYPOINT` takes precedence.
-
 > [!NOTE]
-> - `exec` means executable
-> - `p1` and `p2` are parameters, for the executable
-> - `_cmd` suffix means from CMD
-> - `_entry` suffix means from ENTRYPOINT
-
-|                                                                | No ENTRYPOINT           | ENTRYPOINT exec_entry p1_entry (Shell Form) | ENTRYPOINT ["exec_entry", "p1_entry"] (Exec Form) |
-| -------------------------------------------------------------- | ----------------------- | ------------------------------------------- | ------------------------------------------------- |
-| No CMD                                                         | error, not allowed      | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry                               |
-| CMD ["exec_cmd", "p1_cmd"] *(Exec form)*                         | exec_cmd p1_cmd         | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry exec_cmd p1_cmd               |
-| CMD ["p1_cmd", "p2_cmd"] *(as default parameters to ENTRYPOINT)* | p1_cmd p2_cmd           | /bin/sh -c exec exec_entry p1_entry         | exec_entry p1_entry p1_cmd p2_cmd                 |
-| CMD exec_cmd p1_cmd *(Shell form)*                               | /bin/sh exec_cmd p1_cmd | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd    |
-
+> If `CMD` is defined in base image, setting an `ENTRYPOINT` will override it in the derived image. In such a case, `CMD` has to be redefined.
 #### Shell form
 `<Instruction> <Command>`
 e.g.: 
 ```
 CMD echo "Hello World!"
 ```
-
 #### Executable form
 `<Instruction> ["executable", "parameter1", "parameter2", ...]`
 e.g.: ```
 ```
 RUN ["apt", "install", "firefox"]
 ```
+#### How `CMD` and `ENTRYPOINT` interact
+
+- In the absence of an `ENTRYPOINT`, If the `CMD` has an executable, it will be executed along with its parameters.
+- If there is an `ENTRYPOINT`, the `CMD` parameters are passed in addition to the `ENTRYPOINT` executable and parameters.
+- If there are executables in both `CMD` and `ENTRYPOINT`, `ENTRYPOINT` takes precedence.
+
+|                                                                | No ENTRYPOINT           | ENTRYPOINT exec_entry p1_entry (Shell Form) | ENTRYPOINT ["exec_entry", "p1_entry"] (Exec Form) |
+| -------------------------------------------------------------- | ----------------------- | ------------------------------------------- | ------------------------------------------------- |
+| No CMD                                                         | error, not allowed      | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry                               |
+| CMD ["exec_cmd", "p1_cmd"] (Exec form)                         | exec_cmd p1_cmd         | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry exec_cmd p1_cmd               |
+| CMD ["p1_cmd", "p2_cmd"] (as default parameters to ENTRYPOINT) | p1_cmd p2_cmd           | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry p1_cmd p2_cmd                 |
+| CMD exec_cmd p1_cmd (Shell form)                               | /bin/sh exec_cmd p1_cmd | /bin/sh -c exec_entry p1_entry              | exec_entry p1_entry /bin/sh -c exec_cmd p1_cmd    |
+
+> [!NOTE]
+> - `exec` means executable
+> - `p1` and `p2` are parameters, for the executable
+> - `_cmd` suffix means from CMD
+> - `_entry` suffix means from ENTRYPOINT
 
 ## Docker Compose
 Docker compose is used to keep a seperation of conerns. Different apps and services should run in different containers.
