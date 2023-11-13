@@ -1,6 +1,6 @@
 ### Tips on writing good Dockerfiles
 
-1. **Avoid installing unncessary packages, and re-installing packages**
+1. **Avoid installing unnecessary packages, and re-installing packages**
    
    Use a requirements.txt file to install all required packages at once instead of re-installing them each time.
    

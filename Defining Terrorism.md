@@ -21,8 +21,8 @@ A simple example which makes a difference is saying "this is a phone" instead of
 > - Severe: (Public, Private), (Mental, Physical), (Individual, Collective)
 >
 > Ordering Properties by Major Classes
-> - Private Mental Individual
-> - Public Mental Individual
+> - Individual Private Mental
+> - Public Mental
 > - Private Physical Individual
 > - Public Physical Individual
 > - Private Mental Collective

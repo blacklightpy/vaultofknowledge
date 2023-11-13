@@ -266,35 +266,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f841bd0a26d8b1a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Radio Firmware.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11cf14ac7f2c3e80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -360,6 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Defining Terrorism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -376,6 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Defining Terrorism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -394,7 +370,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Defining Terrorism.md"
+              }
             }
           },
           {
@@ -443,12 +421,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "e0e730a13da87827",
   "lastOpenFiles": [
+    "Free Radio Firmware.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Writing good Dockerfiles.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Useful Docker Containers.md",
-    "Free Radio Firmware.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "Defining Terrorism.md",
     "Religion.md",
