@@ -20,8 +20,8 @@
 - Channel Resource Sharing
 	- Duplexing: Simple Duplex, Half Duplex, Full Duplex
 	- Multiplexing: FDM, TDM, CDM, SDM
-	- Multiple Access: FDMA, TD
-- Channel access method / Multiple access method:  It refers to the technology used to connect two terminals for communication
+	- Multiple Access: FDMA, TDMA, CDMA, SDMA, RAMA, Hybrid
+- Channel Access method / Multiple Access method:  It refers to the technology used to connect two terminals for communication
 	- A channel access method might also be a part of the multiple access protocol and control mechanism, also known as Medium Access Control (MAC)
 		- In IEEE 802 LAN/MAN standards, MAC, along with the Logical Link Control (LLC) makes up the data link layer.
 		- The LLC forms the top part of the data link layer, while MAC deals with the abstraction of the physical layer.
@@ -35,6 +35,7 @@
 		- CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
 		- SDMA - Space Division Multiple Access
 		- RAMA - Random Access Multiple Access
+		- Hybrid Access Methods
 		- There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
 	- Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA; Also known as Fixed-assigned Multiple Access (FAMA) or Pre-Assigned Multiple Access (PAMA))  are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
 	- In addition to channel mode, there are also packet mode channel access methods

@@ -310,7 +310,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "imei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,7 +327,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -436,6 +437,8 @@
   },
   "active": "f841bd0a26d8b1a3",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
+    "Free Radio Firmware.md",
     "Defining Terrorism.md",
     "Religion.md",
     "World Building/Philosophy/Disciplines.md",
@@ -462,8 +465,6 @@
     "Center Terms.md",
     "Electromagnetic Waves.md",
     "History/Geology",
-    "History/Periods of Archaeological History.md",
-    "History/Current Affairs/India Pakistan Conflict/India Pakistan Current Affairs.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",
