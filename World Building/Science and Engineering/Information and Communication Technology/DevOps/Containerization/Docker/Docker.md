@@ -79,7 +79,10 @@ Obviously, this is for debugging, and not for production.
 	- Unlike `CMD`, an `ENTRYPOINT` command does not get ignored by additional parameters that are specified in the `docker run` command.
 
 #### How `CMD` and `ENTRYPOINT` interact
-In the absence of an ENTRYPOINT, If the CMD has an executable, it will be executed along with its parameters. If there is an ENTRYPOINT, the CMD parameters are passed to the ENTRYPOINT executable and parameters
+
+- In the absence of an `ENTRYPOINT`, If the `CMD` has an executable, it will be executed along with its parameters.
+- If there is an `ENTRYPOINT`, the `CMD` parameters are passed in addition to the `ENTRYPOINT` executable and parameters.
+- If there are executables in both `CMD` and `ENTRYPOINT`, `ENTRYPOINT TAKES PRECEDENCE`
 
 > [!NOTE]
 > - `exec` means executable
