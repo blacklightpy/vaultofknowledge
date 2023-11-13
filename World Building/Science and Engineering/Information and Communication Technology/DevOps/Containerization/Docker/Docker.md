@@ -6,7 +6,14 @@ SysAdmins - run containers
 It is similar to launching an application.
 
 There is a preconfigured script configured at buildtime with `ENTRYPOINT` that contains the script to launch and the container runs till the script exits with status 0.
+#### Using command line
 
+```
+docker pull <container image URL>
+
+docker run -d --name=<NAME> [-e <ENV VARIABLE> -p <PORT MAPPING/PROTOCOL> -v <VOLUME MAPPING>] [other options] <container image URL>
+```
+###
 ### Building a container
 When using a Dockerfile, the easiest way to think about what needs to be put into a new container is this way: You're taking some base-level container and adding or overriding stuff in your Dockerfile to ultimately generate a stand-lone container that's a new image.
 
