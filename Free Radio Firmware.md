@@ -30,7 +30,7 @@
 		- TDMA - Time Division Multiple Access
 		- CDMA - Code Division Multiple Access, a scheme based on spread spectrum techniques (DSSS, FHSS, etc.)
 		- SDMA - Space Division Multiple Access
-		- Random Access
+		- RAMA - Random Access Multiple Access
 	- There are also Power Division Multiple Access (PDMA), Pulse Address Multiple Access (PAMA), Opportunity Driven Multiple Access (ODMA, by 3GPP for UMTS TDD), etc. which are niche methods different from these.
 	- Demand Assigned Multiple Access (DAMA) and Permanently Assigned Multiple Access (PAMA) are not multiple access methods (like CDMA, TDMA, FDMA, etc.), they are channel resource allocation methods.
 	- In addition to channel mode, there are also packet mode channel access methods
