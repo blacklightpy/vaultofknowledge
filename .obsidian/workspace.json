@@ -279,9 +279,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11cf14ac7f2c3e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -327,8 +340,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -348,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Radio Firmware.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Radio Firmware.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -385,7 +397,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Radio Firmware.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md"
               }
             }
           },
@@ -435,10 +447,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f841bd0a26d8b1a3",
+  "active": "11cf14ac7f2c3e80",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Writing good Dockerfiles.md",
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Useful Docker Containers.md",
     "Free Radio Firmware.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "Defining Terrorism.md",
     "Religion.md",
     "World Building/Philosophy/Disciplines.md",
@@ -462,8 +476,6 @@
     "World Building/Science and Engineering/Physics/Susceptibility.md",
     "History/Timeline of Conflicts.md",
     "Mathematics.md",
-    "Center Terms.md",
-    "Electromagnetic Waves.md",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
