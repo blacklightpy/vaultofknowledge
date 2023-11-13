@@ -260,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wolfram Physics.md",
+                "file": "Defining Terrorism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wolfram Physics.md",
+                "file": "Defining Terrorism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wolfram Physics.md",
+                "file": "Defining Terrorism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wolfram Physics.md"
+                "file": "Defining Terrorism.md"
               }
             }
           },
@@ -424,6 +424,7 @@
   "active": "e0e730a13da87827",
   "lastOpenFiles": [
     "Wolfram Physics.md",
+    "Defining Terrorism.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "History/Geology/Timeline of Geological History.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
@@ -450,7 +451,6 @@
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Big Bang Theory.md",
-    "World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/ΛCDM Model.md",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
     "History/Current Affairs/India Pakistan Conflict",
