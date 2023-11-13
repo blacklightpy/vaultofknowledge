@@ -7,18 +7,20 @@ That is not to say all schools, or the concept of education falls under the same
 A simple example which makes a difference is saying "this is a phone" instead of "we refer to this by the name phone".
 
 > [!NOTE]
-> Maybe use the following classes:
+> Maybe use the following Properties:
 > - Public/Private
 > - Mental/Physical
 > - Individual/Collective
 >
 > Is there even an order?
+> 
+> Classification by Classes and Properties:
 > - Minor Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
 > - Major Punishment: (Public, Private), (Mental, Physical), (Individual, Collective)
 > - Abuse: (Public, Private), (Mental, Physical), (Individual, Collective)
 > - Severe: (Public, Private), (Mental, Physical), (Individual, Collective)
 >
-> Ordering Properties by Major Class
+> Ordering Properties by Major Classes
 > - Private Mental Individual
 > - Public Mental Individual
 > - Private Physical Individual
@@ -27,9 +29,8 @@ A simple example which makes a difference is saying "this is a phone" instead of
 > - Public Mental Collective
 > - Private Physical Collective
 > - Public Physical Collective
-
-
-
+>
+> Which would lead to a total of 4 major classes with 8 subclasses each, leading to 32 total classes of terrorism
 
 
 - Class 1 Terrorism: Private Humiliation
