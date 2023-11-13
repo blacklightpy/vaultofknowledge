@@ -12,7 +12,10 @@ A simple example which makes a difference is saying "this is a phone" instead of
 	- When a teacher makes the students who did not submit homework stand outside the class.
 - Class 3 Terrorism: Physical Punishment
 	- When a teacher beats the students who did not submit homework with a stick.
-
+- Class 4 Terrorism: Collective Punishment
+	- When a teacher punishes the whole class because one person committed a mistake.
+	- I ranked this higher than other punishments because a teacher is not likely to resort to this without a high sense of anger and lack of a rational means to establish the intended order. Punishing an innocent person is in a sense worse than taking out too much anger on another person (although both are equally bad).
+	- For other classes, I've grouped Collective Punishment separately, as this can be generalized outside schools.
 - Class 5 Terrorism: Mental Abuse
 	- When someone mentally pressures a person to achieve a goal
 - Class 6 Terrorism: Mentally Abuse Relatives
@@ -26,9 +29,5 @@ A simple example which makes a difference is saying "this is a phone" instead of
 - Class 10 Terrorism: Murder Relatives
 	- When someone kills people close to a person to achieve a goal. These are what we ordinarily refer to as terrorist attacks.
 	- People related to the government of a country can include either non-combatant military personnel or civilians.
-
-- Class 4 Terrorism: Collective Punishment
-	- When a teacher punishes the whole class because one person committed a mistake.
-	- I ranked this higher than other punishments because a teacher is not likely to resort to this without a high sense of anger and lack of a rational means to establish the intended order.
 
 Some of these punishments can be grouped, for example, making a student stand outside the class may also be physical punishment to an extent.
