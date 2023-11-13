@@ -8,12 +8,43 @@ It is similar to launching an application.
 There is a preconfigured script configured at buildtime with `ENTRYPOINT` that contains the script to launch and the container runs till the script exits with status 0.
 #### Using command line
 
-```
+```bash
 docker pull <container image URL>
 
 docker run -d --name=<NAME> [-e <ENV VARIABLE> -p <PORT MAPPING/PROTOCOL> -v <VOLUME MAPPING>] [other options] <container image URL>
 ```
-###
+
+You may be used to seeing the parts of the command being split into lines:
+```bash
+docker pull <container image URL>
+
+docker run -d \
+--name=<NAME> \
+[-e <ENV VARIABLE> \
+-p <PORT MAPPING/PROTOCOL> \
+-v <VOLUME MAPPING>] \
+[other options] \
+<container image URL>
+```
+#### Using Docker Compose
+```yaml
+version: <version>
+
+services:
+  <NAME>:
+    image: <container image URL>
+    [environment:
+      - [ENV VARIABLE 1]
+      - [ENV VARIABLE 2]
+    ports:
+      - [PORT MAPPING/PROTOCOL]
+    volumes:
+      - /home/myname/wireguard:/config
+      - /lib/modules:/lib/modules
+    cap_add:
+      - NET_ADMIN
+      - SYS_MODULE
+```
 ### Building a container
 When using a Dockerfile, the easiest way to think about what needs to be put into a new container is this way: You're taking some base-level container and adding or overriding stuff in your Dockerfile to ultimately generate a stand-lone container that's a new image.
 
