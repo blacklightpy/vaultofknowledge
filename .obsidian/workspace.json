@@ -292,9 +292,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed041fcc71d97451",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -323,7 +331,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imei",
+                "query": "source code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -340,7 +348,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -360,7 +369,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +385,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -396,9 +403,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -447,8 +452,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "11cf14ac7f2c3e80",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Writing good Dockerfiles.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Useful Docker Containers.md",
     "Free Radio Firmware.md",
@@ -462,7 +468,6 @@
     "Wolfram Physics.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "History/Geology/Timeline of Geological History.md",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "Why aren't LEDs used as transmitters.md",
     "Isn't using technology built by atheists wrong for religious people.md",
     "Religions and Walled Gardens.md",
