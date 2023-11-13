@@ -17,14 +17,15 @@ A simple example which makes a difference is saying "this is a phone" instead of
 	- I ranked this higher than other punishments because a teacher is not likely to resort to this without a high sense of anger and lack of a rational means to establish the intended order.
 - Class 5 Terrorism: Mental Abuse
 	- When someone pressures a person
-- Class 6 Terrorism: Physical Abuse
+- Class 6 Terrorism: Mentally Abuse Relatives
+	- When someone pressures people close to a person
+- Class 7 Terrorism: Physical Abuse
 	- When someone harms a person physically
-- Class 7 Terrorism: Mentally Abuse Relatives
-	- When someone harms a person close to the target if the target cannot be found, to achieve a goal, mentally or physically
-	- I placed this after physical abuse, because it is more likely that someone will be physically abused directly before their relatives are mentally abused regarding a problem.
-- Class 8 Terrorism: Murder
+- Class 8 Terrorism: Physically Abuse Relatives
+	- When someone harms a person close to a person
+- Class 9 Terrorism: Dangerous Attack or Murder
 	- When someone kills a person who is against a goal to achieve that goal
-- Class 9 Terrorism: Murder Relatives
+- Class 10 Terrorism: Dangerous Attack or Murder Relatives
 	- When someone kills people close to the target if the target cannot be found, to achieve a goal
 
 Some of these punishments can be grouped, for example, making a student stand outside the class may also be physical punishment to an extent.
