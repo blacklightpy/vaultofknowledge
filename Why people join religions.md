@@ -15,7 +15,7 @@ All your actions are guided by your intentions. Don't worry if your actions don'
 ---
 What's the difference between
 - A woman walking naked because she believes it's
-- A woman walking naked with the intention of ..., because she believes ..., and she can justify it using ....
+- A woman walking naked with the intention of ..., because she believes ..., and she can justify it using ...,
 The intention
 
 ---

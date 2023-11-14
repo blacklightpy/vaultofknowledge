@@ -266,9 +266,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70608225cccb99b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diffie-Hellman Key Exchange.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -314,7 +327,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why people join religions.md",
+                "file": "Diffie-Hellman Key Exchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why people join religions.md",
+                "file": "Diffie-Hellman Key Exchange.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why people join religions.md"
+                "file": "Diffie-Hellman Key Exchange.md"
               }
             }
           },
@@ -421,8 +435,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "91afa1eabf707107",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "Diffie-Hellman Key Exchange.md",
+    "Why people join religions.md",
     "Z1-Inbox/How to use a Linux System.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Cryptography.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
@@ -432,7 +448,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md",
     "Linux.md",
-    "Why people join religions.md",
     "World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
     "World Building/Fun and Activities/Photography/Moiré.md",
@@ -448,7 +463,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "Religion.md",
     "World Building/Philosophy/Disciplines.md",
-    "Personal/Creative and Recreational/Aesthetics.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
