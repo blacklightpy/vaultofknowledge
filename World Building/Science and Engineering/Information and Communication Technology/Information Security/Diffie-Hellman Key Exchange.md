@@ -1,5 +1,4 @@
-It is used to form a shared secret between two parties to use symmetric key encryption.
-Symmetric key encryption is preferred for live communications, because asymmetric key encryption is often very difficult.
+Diffie-Hellman key exchange is a method used to form a shared secret between two parties over a public network to use symmetric key encryption. Symmetric key encryption is preferred for live communications, because asymmetric key encryption is often very difficult.
 # Theory
 $a^b \: \text{mod} \: p = (a \: \text{mod} \: p)^b$
 [Proof: Just use binomial expansion, assuming $a = np+m$, making $a \: \text{mod} \: p = m$]
@@ -30,6 +29,9 @@ This is called the Shared Secret.
 
 > [!NOTE] How the security of the secret is guaranteed
 >In short, the shared secret can be generated only by using $g$, $p$, $a$ and $b$, that is, $F(g,p,a,b)$. But a middleman only knows $g$, $p$, $f(g,p,a)$ and $f(g,p,b)$. They don't know $a$ or $b$, nor can they use $g$, $p$, $f(g,p,a)$ and $f(g,p,b)$ to generate $F(g,p,a,b)$. Also note that they can't use $f(g,p,a)$ to figure out $a$, because $p$ is a very large prime number used as modulus, so brute-forcing combinations is practically impossible.
+
+>[!NOTE] Considerations
+> The channel through which the messages are relayed should be tamper proof, as
 # Practice
 
 - One party generates the two numbers $g$ and $p$.
