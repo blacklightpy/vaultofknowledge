@@ -1,4 +1,4 @@
-> [!NOTE]
+> [! ]
 >NOTE: Before I learned about the Arab ethnic cleansing in Israel, this was my proposed solution. But after learning about the ethnic cleansing, it feels like the solution was exactly the state of Palestine and what the Zionists did not want.
 
 Arab nationalism could also lead to Shariah law.
