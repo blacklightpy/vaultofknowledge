@@ -1,7 +1,7 @@
 Public Key Cryptography is a system of cryptography using two sets of keys: private and public.
 It can be used in the following ways:
 **For Secure Communications**
-- The reciever's public key can be used to sign a message
+- The reciever's public key can be used to encrypt a message
 - The message can only be decrypted using the reciever's private key
 **For Digital Signatures**
 - The private key can be used to sign a message
