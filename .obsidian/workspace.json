@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91afa1eabf707107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why people join religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -284,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moire",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -301,8 +314,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -322,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
+                "file": "Why people join religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
+                "file": "Why people join religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -359,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md"
+                "file": "Why people join religions.md"
               }
             }
           },
@@ -409,8 +421,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "18b67e7575e938ca",
+  "active": "91afa1eabf707107",
   "lastOpenFiles": [
+    "Why people join religions.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
     "World Building/Fun and Activities/Photography/Moiré.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "War.md",
@@ -436,8 +450,6 @@
     "History/Religion/Islamist factions.md",
     "History/Religion/Forms of religion.md",
     "History/Religion",
-    "History/Religion/Jihad as per Quran.md",
-    "World Building/Science and Engineering/Physics/Susceptibility.md",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "_images/Pakistan-Kashmir Map 2.jpg",
