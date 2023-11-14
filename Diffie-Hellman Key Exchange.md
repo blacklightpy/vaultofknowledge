@@ -1,18 +1,18 @@
 # Theory
-a^b mod p = (a mod p)^b
-[Proof: Just use binomial expansion, assuming a = np+m, making a mod p = m]
+$a^b \: mod \: p = (a \: mod \: p)^b$
+[Proof: Just use binomial expansion, assuming $a = np+m$, making $a \: mod \: p = m$]
 # Algorithm math
 
-A = g^a mod p
-B = g^b mod p
+$A = g^a \: mod \: p$
+$B = g^b \: mod \: p$
 
-Secret_B = (A^b) mod p
-= (g^a mod p)^b mod p
-= (g mod p)^ab mod p
+$\text{Secret\_B} = (A^b) \: mod \: p$
+$= (g^a \: mod \: p)^b \: mod \: p$
+$= (g \: mod \: p)^ab \: mod \: p$
 
-Secret_A = (B^a) mod p
-= (g^b mod p)^a mod p
-= (g mod p)^ab mod p
+$\text{Secret\_A} = (B^a) \: mod \: p$
+$= (g^b \: mod \: p)^a \: mod \: p$
+$= (g \: mod \: p)^{ab} \: mod \: p$
 
 Secret_A = Secret_B
 This is called the Shared Secret.
@@ -25,9 +25,9 @@ The group used in the Diffie-Hellman key exchange can either be $\Bbb Z^∗_p$ w
 - Both parties generate unique secret numbers (practically between $1$ and $p-1$ because the $\text {mod}$ will do that anyways). One side can call their number a, and the other side theirs $b$.
 - They generate intermediate values as $A = g^a \: \text{mod} \: p$ and $B = g^b \: \text{mod} \: p$ respectively.
 - They share these values over tamper-proof, but public network.
-- Both generate shared secrets as $K = B^a mod p = A^b \text{mod} p$
+- Both generate shared secrets as $K = B^a \: \text{mod} \: p = A^b \: \text{mod} \: p$
 
-In short, the shared secret can be generated only by using g, p, a and b, that is, F(g,p,a,b). But a middleman only knows g, p, f(g,p,a) and f(g,p,b). They don't know a or b, nor can they use g, p, f(g,p,a) and f(g,p,b) to generate F(g,p,a,b). Also note that they can't use f(g,p,a) to figure out a, because p is a very large prime number used as modulus, so brute-forcing combinations is practically impossible.
+In short, the shared secret can be generated only by using $g$, $p$, $a$ and $b$, that is, $F(g,p,a,b)$. But a middleman only knows $g$, $p$, $f(g,p,a)$ and $f(g,p,b)$. They don't know $a$ or $b$, nor can they use $g$, $p$, $f(g,p,a)$ and $f(g,p,b)$ to generate $F(g,p,a,b)$. Also note that they can't use $f(g,p,a)$ to figure out $a$, because $p$ is a very large prime number used as modulus, so brute-forcing combinations is practically impossible.
 
 Practice:
 

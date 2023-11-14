@@ -327,8 +327,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -435,7 +434,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "70608225cccb99b1",
   "lastOpenFiles": [
     "Diffie-Hellman Key Exchange.md",
     "Why people join religions.md",
