@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -347,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "Z1-Inbox/How to use a Linux System.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -384,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "Z1-Inbox/How to use a Linux System.md"
               }
             }
           },
@@ -436,6 +436,7 @@
   },
   "active": "b7e30d53d9a3b9e7",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md",
     "Linux.md",
     "Why people join religions.md",
     "World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
@@ -461,7 +462,6 @@
     "Isn't using technology built by atheists wrong for religious people.md",
     "Religions and Walled Gardens.md",
     "History/Current Affairs/Salafi Jihadism.md",
-    "History/Current Affairs/Jihadist Attacks.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
