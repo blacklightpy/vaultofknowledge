@@ -19,5 +19,5 @@ That's the thing, you do not know
 
 What do you do in such a scenario?
 - You impose your religious law on them ❎
-- You judge them according to how you feel ❎
-- You ✅
+- You judge them according to how you feel ❎ (because feelings are not always right)
+- You do not judge, and accept that there are such people in the world ✅
