@@ -34,8 +34,9 @@ This is called the Shared Secret.
 > The channel through which the messages are relayed should be tamper proof, as a man-in-the-middle could intercept the traffic and send his keys instead of the original keys to read the messages.
 > 
 > It is for this reason that both WhatsApp and Signal have an option to verify the shared key, if it's the same for both parties using the numbers or by QR codes. Simply sharing the numbers would be enough.
+> 
+> There are other methods to prevent consistent eavesdroppin
 # Practice
-
 - One party generates the two numbers $g$ and $p$.
 - They also generate their secret number $a$, with which they generate their number $A$.
 - Then they pass the numbers $g$, $p$ and $A$ to the other party.
