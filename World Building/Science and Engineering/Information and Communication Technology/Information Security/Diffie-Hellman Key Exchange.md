@@ -35,7 +35,9 @@ This is called the Shared Secret.
 > 
 > It is for this reason that both WhatsApp and Signal have an option to verify the shared key, if it's the same for both parties using the numbers or by QR codes. Simply sharing the numbers would be enough.
 > 
-> There are other methods to prevent consistent eavesdroppin
+> - There are other methods to prevent consistent eavesdropping, such as using a long-term shared secret (like KMAC) to verify the message.
+> 	- Signal uses DH key exchange with Double Ratchet Algorithm for encryption and Triple Extended Diffie Hellman (X3DH) / Post Quantum Extended Diffie Hellman (PQXDH) for the authentication.
+> 	- Another group of methods used is called the Station to Station (STS) protocol
 # Practice
 - One party generates the two numbers $g$ and $p$.
 - They also generate their secret number $a$, with which they generate their number $A$.
