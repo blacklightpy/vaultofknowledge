@@ -9,5 +9,15 @@
 
 
 
-
 All your actions are guided by your intentions. Don't worry if your actions don't represent your intentions and if people misunderstand you. In the larger picture, the sum of your actions will manifest as the result of your intentions.
+
+
+---
+
+How do you know which one is it?
+That's the thing, you do not know
+
+What do you do in such a scenario?
+- You impose your religious law on them ❎
+- You judge them according to how you feel ❎
+- You ✅
