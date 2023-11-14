@@ -18,14 +18,14 @@ Secret_A = Secret_B
 This is called the Shared Secret.
 
 # Algorithm
-The group used in the Diffie-Hellman key exchange can either be Z∗p $\bb Z$ where p is a prime number, a subgroup of Z∗p of order q where q is a prime number or an elliptic curve group, but in the following we use the group Z∗p for simplification.
+The group used in the Diffie-Hellman key exchange can either be $\Bbb Z^∗_p$ where $p$ is a prime number, a subgroup of $\Bbb Z^∗_p$ of order $q$ where $q$ is a prime number or an elliptic curve group, but in the following we use the group $\Bbb Z^∗_p$ for simplification.
 
-- One party chooses a large prime number p and a generator g from the group Z*p
+- One party chooses a large prime number $p$ and a generator $g$ from the group $\Bbb Z^*_p$
 - They share these values over tamper-proof, but public network.
-- Both parties generate unique secret numbers (practically between 1 and p-1 because the mod will do that anyways). One side can call their number a, and the other side theirs b.
-- They generate intermediate values as A = g^a mod p and B = g^b mod p respectively.
+- Both parties generate unique secret numbers (practically between $1$ and $p-1$ because the $\text {mod}$ will do that anyways). One side can call their number a, and the other side theirs $b$.
+- They generate intermediate values as $A = g^a \: \text{mod} \: p$ and $B = g^b \: \text{mod} \: p$ respectively.
 - They share these values over tamper-proof, but public network.
-- Both generate shared secrets as K = B^a mod p = A^b mod p
+- Both generate shared secrets as $K = B^a mod p = A^b \text{mod} p$
 
 In short, the shared secret can be generated only by using g, p, a and b, that is, F(g,p,a,b). But a middleman only knows g, p, f(g,p,a) and f(g,p,b). They don't know a or b, nor can they use g, p, f(g,p,a) and f(g,p,b) to generate F(g,p,a,b). Also note that they can't use f(g,p,a) to figure out a, because p is a very large prime number used as modulus, so brute-forcing combinations is practically impossible.
 
@@ -44,4 +44,4 @@ The first party generates the same secret using the value B.
 **How will this large number help with encryption?**
 Encryption is done using large numbers in general, to get a result that can only be decrypted using the same number. If the number is large enough, brute-forcing it will become difficult.
 
-Multiverse clusters full of computers as small as the Planck volume brute forcing the number should not be able to get it in a million ye
+Multiverse clusters full of computers as small as the Planck volume brute forcing the number should not be able to get it in a million years.
