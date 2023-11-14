@@ -31,7 +31,8 @@ This is called the Shared Secret.
 >In short, the shared secret can be generated only by using $g$, $p$, $a$ and $b$, that is, $F(g,p,a,b)$. But a middleman only knows $g$, $p$, $f(g,p,a)$ and $f(g,p,b)$. They don't know $a$ or $b$, nor can they use $g$, $p$, $f(g,p,a)$ and $f(g,p,b)$ to generate $F(g,p,a,b)$. Also note that they can't use $f(g,p,a)$ to figure out $a$, because $p$ is a very large prime number used as modulus, so brute-forcing combinations is practically impossible.
 
 >[!NOTE] Considerations
-> The channel through which the messages are relayed should be tamper proof, as a man-in-the-middle could intercept the traffic and send his keys instead of the original keys to read the messages. For this reason, messages are encrypted to a trusted third party server via TLS, and 
+> The channel through which the messages are relayed should be tamper proof, as a man-in-the-middle could intercept the traffic and send his keys instead of the original keys to read the messages.
+> - Signal uses DH key exchange with Double Ratchet protocl
 # Practice
 
 - One party generates the two numbers $g$ and $p$.
