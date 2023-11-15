@@ -1,3 +1,4 @@
 They use too much emotion, often to paint an unrealistic picture of the world.
 
-As my theory goes, religion is just the emotions of a person. If a movie show can interfere with the emotions of a person, it is the same as altering the religion of the person. The only difference being that people of organized religions value their books more so that any such interference is
+As my theory goes, religion is just the emotions of a person. If a movie show can interfere with the emotions of a person, it is the same as altering the religion of the person. The only difference being that people of organized religions value their books more so that any such interference is dismissed as deviations from the book.
+
