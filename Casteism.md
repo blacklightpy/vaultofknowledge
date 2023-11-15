@@ -7,4 +7,4 @@ Casteism has its roots in religious segregation
 - The priestly caste
 - The fishermen caste
 - The farmers caste
-- The 
+- The toilet cleaning and burial caste
