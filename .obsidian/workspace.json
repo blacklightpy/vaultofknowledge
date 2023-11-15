@@ -333,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -400,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -437,7 +437,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Differences between Islam and Judeo-Christianity.md"
               }
             }
           },
@@ -487,15 +487,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfd56d8e13fe3d34",
+  "active": "10d2c474e7dc6126",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Pulse Width Modulation.md",
+    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
+    "Differences between Islam and Judeo-Christianity.md",
+    "Untitled 1.md",
     "Why abandon proprietary technology.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "So we are all different, but how do we deal with it.md",
     "Why I hate Indian Movies.md",
     "Defining Religion.md",
-    "Differences between Islam and Judeo-Christianity.md",
     "How Religion Limits People.md",
     "Why capitalism is harmful to society.md",
     "Casteism.md",
@@ -513,10 +517,6 @@
     "Z1-Inbox/Tasks.md",
     "Z1-Inbox/Methods in Fluid Dynamics.md",
     "Z1-Inbox/Motors.md",
-    "TIL.md",
-    "Why aren't LEDs used as transmitters.md",
-    "Isn't using technology built by atheists wrong for religious people.md",
-    "Religions and Walled Gardens.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
