@@ -279,9 +279,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f81f04c49a2dea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defining Religoin.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00ad28ee39edc75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Religion Limits People.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "333efdb19df4351b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why I hate Indian Movies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -347,7 +386,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
+                "file": "Why I hate Indian Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +403,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
+                "file": "Why I hate Indian Movies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -384,7 +423,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md"
+                "file": "Why I hate Indian Movies.md"
               }
             }
           },
@@ -434,8 +473,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0cd8ddec46273cdb",
+  "active": "333efdb19df4351b",
   "lastOpenFiles": [
+    "How Religion Limits People.md",
+    "Why I hate Indian Movies.md",
+    "Defining Religoin.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Why abandon proprietary technology.md",
     "World Building/Philosophy/Smell.md",
@@ -454,14 +497,10 @@
     "Why people join religions.md",
     "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "Z1-Inbox/How to use a Linux System.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Cryptography.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Public Key Cryptography.md",
-    "Z1-Inbox/Systems and Protocols.md",
-    "World Building/Marketplace and Creations/Software Implementations/Git.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
