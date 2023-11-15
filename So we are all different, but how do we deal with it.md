@@ -1,5 +1,5 @@
 # Regarding men and women
-The natural technology of sexual reproduction of living beings has demanded life forms to be in one of two forms, masculine and feminine. Nature also has several categories of living beings, of which we are human beings. We call the 
+The natural technology of sexual reproduction of living beings has demanded life forms to be in one of two forms, masculine and feminine. Nature also has several categories of living beings, of which we are human beings. We call the predominantly masculine humans as men and the predominantly feminine humans as women. There are some edge cases which we term as transgenders, and unfortunately due to their undesirable characteristics in the context of sexual reproduction, they are not desirable to most people as romantic partners, and hence they barely if not never experience romantic relati
 
 I used to have a theory that one must treat both a man and a woman the same, because they both are human beings in the end, and their feelings are the same.
 
