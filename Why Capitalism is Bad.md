@@ -1,7 +1,8 @@
 
 ## Against "No incentive to innovate"
 
-**Argument summary:** Innovative here means "different" more than "useful". And "different" is all about artistic nature of things, and "art" while is important, is not worth dying for. Because art and beauty flourishes through love, and there is no love in letting other people suffer for your benefit, and hence there is no art in it. And hence, there is no innovation, useful or artistic either.
+> [!NOTE]
+> **Summary:** Innovative here means "different" more than "useful". And "different" is meant to be all about "artistic" nature of things, and "art", while is important, is not worth dying for. Because art and beauty flourishes through love, and there is no love in letting other people suffer for your benefit, and hence there is no art in it. And hence, there is no innovation, useful or artistic, either. In other words, the proponents of the 
 
 This is often used as an argument against "right to repair" and "capitalism". This plays on the feelings of an individual to the word "innovation" as something new and better, leading to "progress". "Innovative", "better" and "progress" are all good to have, which is why a person is encouraged to defend these ideas. However, this argument simply skews the true meaning of these words.
 
