@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -413,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
+                "file": "Defining Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
+                "file": "Defining Religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -450,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md"
+                "file": "Defining Religion.md"
               }
             }
           },
@@ -500,7 +500,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "10d2c474e7dc6126",
+  "active": "ccca3326433106c3",
   "lastOpenFiles": [
     "Differences between Islam and Judeo-Christianity.md",
     "Why I hate Indian Movies.md",
