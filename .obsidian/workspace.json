@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -413,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Defining Religion.md",
+                "file": "So we are all different, but how do we deal with it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Defining Religion.md",
+                "file": "So we are all different, but how do we deal with it.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -450,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Defining Religion.md"
+                "file": "So we are all different, but how do we deal with it.md"
               }
             }
           },
@@ -500,11 +500,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ccca3326433106c3",
+  "active": "9518d10f5ace5659",
   "lastOpenFiles": [
-    "Differences between Islam and Judeo-Christianity.md",
     "Why I hate Indian Movies.md",
     "Defining Religion.md",
+    "Differences between Islam and Judeo-Christianity.md",
     "How Religion Limits People.md",
     "So we are all different, but how do we deal with it.md",
     "Why capitalism is harmful to society.md",
