@@ -1,0 +1,1 @@
+Islam is a religion, much like many other religons,
