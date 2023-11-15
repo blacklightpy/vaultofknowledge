@@ -6,8 +6,12 @@
 - Currently the only Shia dominant country is Iran
 	- Before the fall of Shah in 1979, Iran was a very secular and modern.
 	- Now, it is highly restrictive, with women wearing full black burqas.
+
 > [!NOTE]
-> The rule regarding women having to wear hijab
+> Regarding the rule for women having to wear hijab, in the olden times it was seen as a mark of respect aside from protection, in the same manner all three Abrahamic religions refuse to look at or draw images of god, because that is somehow seen as a sign of great respect.
+>
+> In the modern day, this is obviously misused in oppressive regimes. However, Quran does demand men and women to dress modestly, rather than provocatively. While that is reasonable, any sort
+
 - Indonesia is the largest Sunni dominated countries and is less restrictive, with girls wearing just a headscarf
 	- I hear the public is still striving for conservatism, with one province, Ache getting Shariah law for itself.
 - But Saudi Arabia is the spiritual heart of Sunni Islam, but it is very restrictive

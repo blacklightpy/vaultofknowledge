@@ -281,12 +281,12 @@
             }
           },
           {
-            "id": "0f81f04c49a2dea7",
+            "id": "ccca3326433106c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defining Religoin.md",
+                "file": "Defining Religion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -359,7 +359,7 @@
             }
           },
           {
-            "id": "9089049e2a66a4d6",
+            "id": "0059bd9c15e06339",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -401,7 +401,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "women",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -418,12 +418,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -526,15 +526,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9089049e2a66a4d6",
+  "active": "0059bd9c15e06339",
   "lastOpenFiles": [
+    "Defining Religion.md",
+    "History/Religion/Islamist factions.md",
     "Why capitalism is harmful to society.md",
     "Technology.md",
     "So we are all different, but how do we deal with it.md",
     "Taking words out of context.md",
     "Why I hate Indian Movies.md",
     "How Religion Limits People.md",
-    "Defining Religoin.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Why abandon proprietary technology.md",
@@ -553,7 +554,6 @@
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
     "Why people join religions.md",
     "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
