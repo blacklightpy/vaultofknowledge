@@ -15,7 +15,7 @@
 - Al Qu'uran, translates to the "word of god".
 - Allah is the god of the world
 - A Muslim is one who follows the words of Allah
-## Sections of Qu'ran
+## Sections of Quran
 The Quran is divided in various ways.
 
 - Surahs - A Surah is a chapter in the Quran, as divided by Allah. There are 114 Surahs.
