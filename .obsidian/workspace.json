@@ -357,9 +357,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9089049e2a66a4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Religion/Islamist factions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -388,7 +401,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "women",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -405,7 +418,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -425,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why capitalism is harmful to society.md",
+                "file": "History/Religion/Islamist factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why capitalism is harmful to society.md",
+                "file": "History/Religion/Islamist factions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -462,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why capitalism is harmful to society.md"
+                "file": "History/Religion/Islamist factions.md"
               }
             }
           },
@@ -512,10 +526,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5bdce8ab432c72e0",
+  "active": "9089049e2a66a4d6",
   "lastOpenFiles": [
-    "Technology.md",
     "Why capitalism is harmful to society.md",
+    "Technology.md",
     "So we are all different, but how do we deal with it.md",
     "Taking words out of context.md",
     "Why I hate Indian Movies.md",

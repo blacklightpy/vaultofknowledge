@@ -2,9 +2,12 @@
 
 - Some also say that Shia Islam is tending towards liberalism, while Sunni Islam tends to preserving Islamic values.
 
+
 - Currently the only Shia dominant country is Iran
 	- Before the fall of Shah in 1979, Iran was a very secular and modern.
 	- Now, it is highly restrictive, with women wearing full black burqas.
+> [!NOTE]
+> The rule regarding women having to wear hijab
 - Indonesia is the largest Sunni dominated countries and is less restrictive, with girls wearing just a headscarf
 	- I hear the public is still striving for conservatism, with one province, Ache getting Shariah law for itself.
 - But Saudi Arabia is the spiritual heart of Sunni Islam, but it is very restrictive
