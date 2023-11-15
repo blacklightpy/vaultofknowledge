@@ -14,7 +14,7 @@
 > 
 > Also, a hijabs and burqas not only the only form of modest coverings, there are others too.
 > Examples:
-> 
+> ![[55a9f1a39fc36d3545f591657c06ace2.jpg]]
 
 - Indonesia is the largest Sunni dominated countries and is less restrictive, with girls wearing just a headscarf
 	- I hear the public is still striving for conservatism, with one province, Ache getting Shariah law for itself.
