@@ -17,12 +17,12 @@ This is often used as an argument against "right to repair" and "capitalism". Th
 
 People will be interested in new technology that **actually** serves a purpose than a new phone with a different style of notch, aside from for artistic reasons.
 
-[REFAC]
+**[REFACTOR ARTICLE BY REFERRING THE SUMMARY TO DISTINGUISH BETWEEN "ARTISTIC" AND "DIFFERENT"]**.
 
 Then it becomes more of an art piece than just a useful technology. (See my definition of technology [[Technology]], where you can see that it is a word that means "a form or work of art", which can also be "useful".)
 
 What capitalism encourages is forcing people to buy new art pieces because they are the "new technology", and "old technology" is outdated.
 
-But see, the natural way of life always happens in cycles. for a simple understanding, no matter how strong of a food technology you invent, a human needs to intake a certain quantity of energy, and needs to digest it and get enough rest. Even if you turn people into cyborgs who can be recharged, you will need to spend enough time to recharge the being in proportion to the energy capacity of the individual. And even if faster charging technologies are invented, you still need to carry around the 
+But see, the natural way of life always happens in cycles. for a simple understanding, no matter how strong of a food technology you invent, a human needs to intake a certain quantity of energy, and needs to digest it and get enough rest. Even if you turn people into cyborgs who can be recharged, you will need to spend enough time to recharge the being in proportion to the energy capacity of the individual. And even if faster charging technologies (Power, E/t, in W) are invented, you still need to carry around the weight of the cyborg battery, which is also large in proportion with the energy capacity. And even if we are able to minimize the weight of the battery (specific energy, E/m, in kJ/kg), we'll still be dependent on a device, like crutch just to keep living. This is just like food in the natural world, except that with this being a capitalist world, 
 
 The thing about art pieces is that, while they are good, and are very important to have because we all love wonderful things, they are not better than starving. And also, some people even find the aesthetic of a simple life to be wonderful, because all people are different (minimalism, plain-text interface lovers, naturalists, etc.).
