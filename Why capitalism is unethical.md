@@ -17,7 +17,9 @@ This is often used as an argument against "right to repair" and "capitalism". Th
 
 People will be interested in new technology that **actually** serves a purpose than a new phone with a different style of notch, aside from for artistic reasons.
 
-Then it becomes more of an art piece than just a useful technology. (See my definition of technology [[Technology]], where you can see that technology itself is a word that means a form of art, which can also be useful.)
+[REFAC]
+
+Then it becomes more of an art piece than just a useful technology. (See my definition of technology [[Technology]], where you can see that it is a word that means "a form or work of art", which can also be "useful".)
 
 What capitalism encourages is forcing people to buy new art pieces because they are the "new technology", and "old technology" is outdated.
 

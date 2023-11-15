@@ -8,4 +8,5 @@ It is a combination of the words τέχνη (tékhnē) + -λόγος (-lógos) w
 
 λόγος (-lógos) further derives from the word λέγω (légō) which means "to put in order".
 
-So technology by itself in the modern world means the methods as well as devices created out of such methods, which organize the wonders of nature. This in itself while is just a form of art, by adding our intentions to such a device or method, we can make it "useful".
+## Modern day definition
+So technology by itself in the modern world means the methods as well as devices created out of such methods, which organize the wonders of nature. This while in itself is just a form of "art", by adding our intentions to such a device or method, we can make it "useful".
