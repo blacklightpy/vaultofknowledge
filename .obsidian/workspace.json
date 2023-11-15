@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -412,7 +412,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Taking words out of context.md",
+                "file": "So we are all different, but how do we deal with it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +429,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Taking words out of context.md",
+                "file": "So we are all different, but how do we deal with it.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -449,7 +449,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taking words out of context.md"
+                "file": "So we are all different, but how do we deal with it.md"
               }
             }
           },
@@ -499,7 +499,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8902fb0d41b780a6",
+  "active": "9518d10f5ace5659",
   "lastOpenFiles": [
     "Taking words out of context.md",
     "So we are all different, but how do we deal with it.md",

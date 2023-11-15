@@ -1,3 +1,6 @@
+# Regarding men and women
+The natural technology of sexual reproduction of living beings has demanded life forms to be in one of two forms, masculine and feminine. Nature also has several categories of living beings, of which we are human beings. We call the 
+
 I used to have a theory that one must treat both a man and a woman the same, because they both are human beings in the end, and their feelings are the same.
 
 But repeated sequences of evidences suggest that it's not the same. Men and women have aside from physical and chemical differences, also have differences in psychological responses, particularly with regard to natural behaviour.
