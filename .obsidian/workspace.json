@@ -190,19 +190,6 @@
             }
           },
           {
-            "id": "0cd8ddec46273cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dfd56d8e13fe3d34",
             "type": "leaf",
             "state": {
@@ -346,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -413,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "So we are all different, but how do we deal with it.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "So we are all different, but how do we deal with it.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -450,7 +437,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "So we are all different, but how do we deal with it.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -500,13 +487,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9518d10f5ace5659",
+  "active": "dfd56d8e13fe3d34",
   "lastOpenFiles": [
+    "Why abandon proprietary technology.md",
+    "My Ideas on solving the Arab-Israel conflict.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
+    "So we are all different, but how do we deal with it.md",
     "Why I hate Indian Movies.md",
     "Defining Religion.md",
     "Differences between Islam and Judeo-Christianity.md",
     "How Religion Limits People.md",
-    "So we are all different, but how do we deal with it.md",
     "Why capitalism is harmful to society.md",
     "Casteism.md",
     "Taking words out of context.md",
@@ -516,9 +506,6 @@
     "_images/Pasted image 20231115165007.png",
     "Culture/Jewish Culture.md",
     "Technology.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
-    "My Ideas on solving the Arab-Israel conflict.md",
-    "Why abandon proprietary technology.md",
     "World Building/Philosophy/Smell.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",

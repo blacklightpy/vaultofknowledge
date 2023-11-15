@@ -1,5 +1,7 @@
 Why Ben Shapiro and conservatives' arguments never fail.
 
+(Conservatives are.. conservative within their faith, so it is easy for them to justify any situation outside their faith as wrong.)
+
 
 
 - What I'm proposing is that the earth is diverse, so you also have to be diverse.
