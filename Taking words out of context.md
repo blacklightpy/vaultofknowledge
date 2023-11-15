@@ -1,3 +1,5 @@
 Once in 2020, I made an Instagram story post in support of communism. Since only so much information can be put into a single picture, I used multiple stories to convey my idea.
 
-Among one of them, I posted a picture highlighting the deaths under Lenin, Stalin and Mao Zedong. I posted it to point out the mistakes by those leaders because of which it occurred, and 
+Among one of them, I posted a picture highlighting the deaths under Lenin, Stalin and Mao Zedong. I posted it to point out the mistakes by those leaders because of which it occurred, and suddenly one of my followers screenshotted that story and posted it on his story, with my username displayed. And he posted it saying that "communism is responsible for all these deaths", making it seem like I was against communism, when I was in fact in favour of the same. Any viewer of his story would've thought that I was against communism.
+
+So I asked him to please mention that it's not my point, and then he just posted another story telling
