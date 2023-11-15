@@ -331,22 +331,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1079ef4e17a6e9e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quran Verses in Context.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -413,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quran Verses in Context.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quran Verses in Context.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -450,7 +437,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quran Verses in Context.md"
+                "file": "Differences between Islam and Judeo-Christianity.md"
               }
             }
           },
@@ -500,7 +487,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1079ef4e17a6e9e1",
+  "active": "10d2c474e7dc6126",
   "lastOpenFiles": [
     "Quran Verses in Context.md",
     "Differences between Islam and Judeo-Christianity.md",
