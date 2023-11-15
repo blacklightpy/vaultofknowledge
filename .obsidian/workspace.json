@@ -364,25 +364,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Religion/Islamist factions.md",
+                "file": "Culture/Muslim Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a52728490d618f5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_images/55a9f1a39fc36d3545f591657c06ace2.jpg"
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -448,7 +438,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_images/55a9f1a39fc36d3545f591657c06ace2.jpg",
+                "file": "Culture/Muslim Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_images/55a9f1a39fc36d3545f591657c06ace2.jpg",
+                "file": "Culture/Muslim Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -485,7 +475,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_images/55a9f1a39fc36d3545f591657c06ace2.jpg"
+                "file": "Culture/Muslim Culture.md"
               }
             }
           },
@@ -535,10 +525,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a52728490d618f5",
+  "active": "0059bd9c15e06339",
   "lastOpenFiles": [
     "History/Religion/Islamist factions.md",
-    "_images/55a9f1a39fc36d3545f591657c06ace2.jpg",
+    "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
     "Culture/Muslim Culture.md",
     "Culture/Jewish Culture.md",
