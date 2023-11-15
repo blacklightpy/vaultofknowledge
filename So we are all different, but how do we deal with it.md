@@ -10,4 +10,6 @@ For this reason, men are likely to get more attached to a single woman, while wo
 
 For men, this would mean the same toxic behaviour, but it's not because they don't think the women are problem makers, it's just that they never see them as anything more than a "tool for sex", or a "piece of meat".
 
-Of course, both men and women do see their partners as both "trash" and as a "piece of meat", but the difference lies in what they are generally inclined to. You often see women saying men are "trash" than that they are "pieces of meat", and men saying that women are "pieces of meat" that that they are "trash". Now this, I believe is something we can agree upon, and that's what this article is 
+Of course, both men and women do see their partners as both "trash" and as a "piece of meat", but the difference lies in what they are generally inclined to. You often see women saying men are "trash" than that they are "pieces of meat", and men saying that women are "pieces of meat" that that they are "trash". Now this, I believe is something we can agree upon, and that's what this article is about.
+
+The reason here is that, before such a phase, both these men and women would've been through one or more bad relationships in their life, taking a toll on their emotional health. After this 
