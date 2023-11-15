@@ -344,9 +344,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bdce8ab432c72e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why Capitalism is Bad.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -412,7 +425,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "So we are all different, but how do we deal with it.md",
+                "file": "Why Capitalism is Bad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +442,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "So we are all different, but how do we deal with it.md",
+                "file": "Why Capitalism is Bad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -449,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "So we are all different, but how do we deal with it.md"
+                "file": "Why Capitalism is Bad.md"
               }
             }
           },
@@ -499,10 +512,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9518d10f5ace5659",
+  "active": "5bdce8ab432c72e0",
   "lastOpenFiles": [
-    "Taking words out of context.md",
+    "Why Capitalism is Bad.md",
     "So we are all different, but how do we deal with it.md",
+    "Taking words out of context.md",
     "Why I hate Indian Movies.md",
     "How Religion Limits People.md",
     "Defining Religoin.md",
@@ -526,7 +540,6 @@
     "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Website Encryption.md",
     "Z1-Inbox/How to use a Linux System.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Cryptography.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
