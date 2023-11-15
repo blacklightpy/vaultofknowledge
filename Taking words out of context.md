@@ -6,4 +6,6 @@ So I asked him to please mention that it's not my point, and then he just posted
 
 That is when I knew that words could be taken totally out of context, not just to argue against someone, but **also to convince that someone is on the other side of an opinion.**
 
-If we recall the speech by Rhodes in Iron Man 2, both aspects were presented as the same side of the coin, but most of us only notice how Rhodes' speech was taken out of context by the Senator to argue against Tony, 
+If we recall the speech by Rhodes in Iron Man 2, both aspects were presented as the same side of the coin, but most of us only notice how Rhodes' speech was taken out of context by the Senator to argue against Tony, not that had Tony not understood what Rhodes intended, he would've felt that he betrayed him. But in the movie that does not happen because Rhodes is Tony's friend and he also tries to explain the rest, and Tony is intelligent enough to understand the situation.
+
+In real life however, we might be seen as betraying the same people we stood for, just because we made a holistic critical analysis the net sum of arguments which was always in their favour.
