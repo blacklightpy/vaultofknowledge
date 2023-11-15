@@ -422,8 +422,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -528,8 +527,11 @@
   },
   "active": "0059bd9c15e06339",
   "lastOpenFiles": [
-    "Defining Religion.md",
+    "_images/Pasted image 20231115165007.png",
     "History/Religion/Islamist factions.md",
+    "Culture/Muslim Culture.md",
+    "Culture/Jewish Culture.md",
+    "Defining Religion.md",
     "Why capitalism is harmful to society.md",
     "Technology.md",
     "So we are all different, but how do we deal with it.md",
@@ -551,9 +553,6 @@
     "Isn't using technology built by atheists wrong for religious people.md",
     "Religions and Walled Gardens.md",
     "Acceleration, not Force, is constant at a given distance.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Aliasing.md",
-    "Why people join religions.md",
-    "Z0-Organizing (All Notes Matter)/Password Management Strategy.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
@@ -572,7 +571,6 @@
     "mdSilo-all.json",
     "Center Terms.md.crswap",
     "World Building/Science and Engineering/Physics/Spintronics",
-    "World Building/Science and Engineering/Physics/Nuclear Physics",
-    "_images/Continuous Deployment.png"
+    "World Building/Science and Engineering/Physics/Nuclear Physics"
   ]
 }
