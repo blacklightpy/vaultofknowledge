@@ -318,9 +318,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9518d10f5ace5659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "So we are all different, but how do we deal with it.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -386,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why I hate Indian Movies.md",
+                "file": "So we are all different, but how do we deal with it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +416,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why I hate Indian Movies.md",
+                "file": "So we are all different, but how do we deal with it.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -423,7 +436,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why I hate Indian Movies.md"
+                "file": "So we are all different, but how do we deal with it.md"
               }
             }
           },
@@ -473,10 +486,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "333efdb19df4351b",
+  "active": "9518d10f5ace5659",
   "lastOpenFiles": [
-    "How Religion Limits People.md",
+    "So we are all different, but how do we deal with it.md",
     "Why I hate Indian Movies.md",
+    "How Religion Limits People.md",
     "Defining Religoin.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "My Ideas on solving the Arab-Israel conflict.md",
@@ -500,7 +514,6 @@
     "Z1-Inbox/How to use a Linux System.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Cryptography.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Public Key Cryptography.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
