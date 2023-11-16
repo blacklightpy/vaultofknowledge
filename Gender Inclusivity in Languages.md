@@ -6,3 +6,8 @@ However, this is a terrible argument for judging people, because we formed langu
 If you point at a non-binary person and ask them what they are to a conservative person, they will likely say that "he is a male" or "she is a female". But I can point at their physical or mental differences and ask them how can that be explained. They will then likely say that it is a flaw which has to be medically cured. But I must then ask, on what basis should one person's natural form be decided as faulty and has to be prescribed a cure?
 
 It is only under the conservative faith that one can justify such a judgement. Because the lord has created Adam and Eve as the two distinct genders, just like any other genders.
+
+# About non-binary adoptions
+It is not scientific that a child can only be raised properly with the care of a completely feminine mother and a completely masculine father. The so called results are only statistic, and they are only statistic because the majority of people are either dominantly feminine or dominantly masculine. Also, statistic models are not scientific models, they are only useful as guiding information for us to understand general trends. 
+
+We can
