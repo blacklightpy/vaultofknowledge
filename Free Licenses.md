@@ -8,8 +8,10 @@ I have listed some free licenses which can be used to give legal rights to the p
 ## Permissive
 - Creative Commons Attribution
 - Creative Commons Attribution ShareAlike
-## NonCommercial
+## Non Commercial
 - Creative Commons Attribution NonCommercial
+- Creative Commons Attribution NonCommercial NoDerivatives
+## Non Modifiable
 - Creative Commons Attribution NoDerivatives
 - Creative Commons Attribution NonCommercial NoDerivatives
 # Software
