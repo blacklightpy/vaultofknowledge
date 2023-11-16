@@ -10,4 +10,4 @@ It is only under the conservative faith that one can justify such a judgement. B
 # About non-binary adoptions
 It is not scientific that a child can only be raised properly with the care of a completely feminine mother and a completely masculine father. The so called results are only statistic, and they are only statistic because the majority of people are either dominantly feminine or dominantly masculine. Also, statistic models are not scientific models, they are only useful as guiding information for us to understand general trends. 
 
-We cannot always follow general trends to make absolute decisions, in the same manner that we cannot say in a group of people equally distributed from ages 7-40 that everyone should join mandatory military service during a crisis, just because the general trend says that peo
+We cannot always follow general trends to make absolute decisions, in the same manner that we cannot say in a dorm full of people equally distributed from ages 7-80 
