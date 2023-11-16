@@ -1,7 +1,7 @@
 - GNOME Extensions
 	- Vitals, Extensions, PieMenu, Compiz Windows Effect, Burn My Desktop, GSConnect, Cube Desktop, AppIndicator and KStatusNotifierItem Support, Dash to Dock, Blur My Shell, Alphabetical App Grid, Battery Time, Bedtime Mode, Extension List, Gtk4-DING, Tray Icons: Reloaded, Just Perfection, Aylur's Widgets, Pano Clipboard Manager
 	- Systemd Manager, Easy Docker Containers
-	- ChatGPT GNOME Desktop Extension
+	- ChatGPT GNOME Desktop Extension (uses the proprietary AI service, but I added it here for the cool factor)
 
 1. Gaming
 	1. Lutris
@@ -60,7 +60,11 @@
 	2. Video Players
 		1. VLC
 		2. mpv
-8. Terminal Apps
+8. Organizing
+	1. Music Library Management
+		1. Beets
+		2. MusicBrainz Picard
+9. Terminal Apps
 	1. Git
 	2. GNU GCC
 	3. Make
