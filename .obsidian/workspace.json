@@ -416,7 +416,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Path Integral Formulation.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -453,7 +453,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\" his\"",
+                "query": "\"man\" \"middle\" attack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -491,7 +491,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Path Integral Formulation.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -508,7 +508,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Path Integral Formulation.md",
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -528,7 +528,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Path Integral Formulation.md"
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md"
               }
             }
           },
@@ -578,8 +578,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5cc58ae546e110ca",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Cryptography.md",
+    "Path Integral Formulation.md",
     "Unfair practices.md",
     "Gender Inclusivity in Languages.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
@@ -604,8 +606,6 @@
     "Why capitalism is harmful to society.md",
     "Casteism.md",
     "Taking words out of context.md",
-    "Culture/Muslim Culture.md",
-    "History/Religion/Islamist factions.md",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
     "History/Religion",
