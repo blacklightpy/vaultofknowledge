@@ -10,6 +10,8 @@ It is only under the conservative faith that one can justify such a judgement. B
 # About non-binary adoptions
 It is not scientific that a child can only be raised properly with the care of a completely feminine mother and a completely masculine father. The so called results are only statistic, and they are only statistic because the majority of people are either dominantly feminine or dominantly masculine. Also, statistic models are not scientific models, they are only useful as guiding information for us to understand general trends. Even scientific models themselves aren't absolute truths, they are only the best known representations we have regarding something.
 
+For example, Newton's theory of gravitation was improved upon by Einstein, but the theory is still our closest observation, and not the definitive truth. A person could come up with something else, for example, the theory of Quantum Mechanics has several different interpretations such as the Pilot Wave Theory, Copenhagen Interpretation, and so on. One being different from the other doesn't make it any wrong.
+
 
 
 
