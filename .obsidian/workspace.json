@@ -357,9 +357,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ed1f03859429273",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -509,7 +517,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "5ed1f03859429273",
   "lastOpenFiles": [
     "Arguments against Religion 2.md",
     "Z1-Inbox/Arguments against religion.md",
