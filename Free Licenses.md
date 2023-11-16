@@ -1,4 +1,6 @@
-Free licenses 
+Free licenses are used to grant rights to all people in a world where all marketable content is protected by intellectual property laws by default. This includes everything from media (literary works, music, images, craftworks), software and hardware designs. Granting rights to the public is not easy because without strongly written licenses, the author of the content can be held liable for any damage caused by anyone using her works.
+
+I have listed some free licenses which can be used to give legal rights to 
 # Software
 ## Legally Strong
 ### Public Domain
