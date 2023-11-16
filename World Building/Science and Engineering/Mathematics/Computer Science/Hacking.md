@@ -3,5 +3,5 @@
 - Signalling System 7
 
 ## Types of Attacks
-- Man In The Middle (MITM)
+- Person In The Middle (PITM) (also known as: Adversary In The Middle (AITM), Man In The Middle (MITM), etc.)
 - [[Sybil attacks]]

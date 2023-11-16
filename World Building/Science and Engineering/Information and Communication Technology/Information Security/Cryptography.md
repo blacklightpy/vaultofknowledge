@@ -18,13 +18,13 @@ Normal communication:
 - The user verifies the certificate issued by a CA and uses it to encrypt their message
 - The server uses the private key to decrypt the message
 
-In case of self-signed certificates, there can be a Man-in-the-middle attack:
+In case of self-signed certificates, there can be a Person-in-the-middle attack:
 - The user trusts the self-signed certificate, thinking it was from the web server, and uses it to encrypt her message
-- Man-in-the-middle (Hacker) actually supplied a fake self-signed certificate to the user, who can now read her message
+- Person-in-the-middle (Hacker) actually supplied a fake self-signed certificate to the user, who can now read her message
 - Hacker sends the message (optionally modified) by signing with the actual self-signed certificate of the website
 - Website reads the message believing the message was sent by the user
 
-Reference: https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+Reference: https://en.wikipedia.org/wiki/Man-in-the-middle_attack (PITM is more commonly known by the name MITM, but I prefer using the gender neutral name)
 
 Tags:
 #cryptography
