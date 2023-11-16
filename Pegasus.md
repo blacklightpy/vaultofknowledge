@@ -1,0 +1,1 @@
+It's an Israeli tracking software that tracks people by leveraging loopholes in proprietary modem firmware.

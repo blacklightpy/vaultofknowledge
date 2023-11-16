@@ -383,9 +383,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3fa0fc4cfd5ce6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pegasus.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -453,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Licenses.md",
+                "file": "Pegasus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Licenses.md",
+                "file": "Pegasus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -490,7 +503,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Licenses.md"
+                "file": "Pegasus.md"
               }
             }
           },
@@ -540,13 +553,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5ed1f03859429273",
+  "active": "a3fa0fc4cfd5ce6e",
   "lastOpenFiles": [
+    "Pegasus.md",
+    "Free Licenses.md",
     "Gender Inclusivity in Languages.md",
     "Z1-Inbox/FOSS Software.md",
     "Personal/Toolkits/Software Toolkit.md",
     "Awesome Proprietary Software.md",
-    "Free Licenses.md",
     "LICENSE.MD",
     "World Building/Philosophy/Spirituality.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Cryptography.md",
@@ -567,7 +581,6 @@
     "My Ideas on solving the Arab-Israel conflict.md",
     "So we are all different, but how do we deal with it.md",
     "Why I hate Indian Movies.md",
-    "Defining Religion.md",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
     "History/Religion",
