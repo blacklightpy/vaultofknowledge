@@ -37,4 +37,4 @@ I have listed some free licenses which can be used to give legal rights to the p
 - WTFPL
 - The Unlicense
 # Hardware
-- 
+- CERN Open Hardware
