@@ -3,5 +3,6 @@ The general argument by conservative people are that there is no grammatical or 
 However, this is a terrible argument for judging people, because we formed languages and scientific models to help us understand the world around us. If they are not doing a good job at that, then we must improve our languages and models.
 
 
-If you point at a non-binary person and ask them what they are to a conservative person, they will likely say that "he is a male" or "she is a female". But I can point at their physical or mental differences and ask them how can that be explained. Physical differences are stronger here, but mental differences are just as important.
-It is only under the conservative 
+If you point at a non-binary person and ask them what they are to a conservative person, they will likely say that "he is a male" or "she is a female". But I can point at their physical or mental differences and ask them how can that be explained. They will then likely say that it is a flaw which has to be medically cured. But I must then ask, on what basis should one person's natural form be decided as faulty and has to be prescribed a cure?
+
+It is only under the conservative faith that one can justify such a judgement. Because the lord has created Adam and Eve as the two distinct genders, just like any other genders.
