@@ -7,7 +7,7 @@ I have listed some free licenses which can be used to give legal rights to the p
 - CC0 1.0 Universal
 ## Permissive
 - Creative Commons Attribution
-## Non-Copyleft but Partially Restrictive
+## Conditionally Permissive
 - Creative Commons Attribution NonCommercial
 ## Copyleft
 - Creative Commons Attribution ShareAlike
