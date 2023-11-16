@@ -396,17 +396,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2693157e33369157",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -473,6 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World Building/Philosophy/Spirituality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -489,6 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World Building/Philosophy/Spirituality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -507,7 +501,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World Building/Philosophy/Spirituality.md"
+              }
             }
           },
           {
@@ -556,8 +552,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2693157e33369157",
+  "active": "56ea4e5c60c7a620",
   "lastOpenFiles": [
+    "Gender Inclusivity in Languages.md",
     "World Building/Philosophy/Spirituality.md",
     "LICENSE.MD",
     "Free Licenses.md",
@@ -585,7 +582,6 @@
     "_images/Pasted image 20231115165007.png",
     "Culture/Jewish Culture.md",
     "Technology.md",
-    "World Building/Philosophy/Smell.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
