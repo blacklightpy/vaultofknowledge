@@ -370,9 +370,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdbbbe11ee0b794e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.MD",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ea4e5c60c7a620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Philosophy/Spirituality.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2693157e33369157",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -401,7 +435,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "his",
+                "query": "\" his\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -439,7 +473,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Licenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +489,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Licenses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -475,9 +507,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Free Licenses.md"
-              }
+              "state": {}
             }
           },
           {
@@ -526,8 +556,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "2693157e33369157",
   "lastOpenFiles": [
+    "World Building/Philosophy/Spirituality.md",
+    "LICENSE.MD",
     "Free Licenses.md",
     "Arguments against Religion 2.md",
     "Z1-Inbox/Arguments against religion.md",
@@ -554,8 +586,6 @@
     "Culture/Jewish Culture.md",
     "Technology.md",
     "World Building/Philosophy/Smell.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
