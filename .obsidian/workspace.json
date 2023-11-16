@@ -409,9 +409,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cc58ae546e110ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Path Integral Formulation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -478,7 +491,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gender Inclusivity in Languages.md",
+                "file": "Path Integral Formulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +508,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gender Inclusivity in Languages.md",
+                "file": "Path Integral Formulation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -515,7 +528,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gender Inclusivity in Languages.md"
+                "file": "Path Integral Formulation.md"
               }
             }
           },
@@ -565,10 +578,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6eb8a430f5564c09",
+  "active": "5cc58ae546e110ca",
   "lastOpenFiles": [
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
+    "Unfair practices.md",
     "Gender Inclusivity in Languages.md",
+    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
     "World Building/Philosophy/Spirituality.md",
     "LICENSE.MD",
     "Free Licenses.md",
@@ -594,7 +608,6 @@
     "History/Religion/Islamist factions.md",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
-    "Culture/Jewish Culture.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
