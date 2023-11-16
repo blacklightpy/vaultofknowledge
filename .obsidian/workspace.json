@@ -362,8 +362,13 @@
             "id": "5ed1f03859429273",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Free Licenses.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -434,6 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Free Licenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -450,6 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Free Licenses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -468,7 +475,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Free Licenses.md"
+              }
             }
           },
           {
@@ -519,6 +528,7 @@
   },
   "active": "5ed1f03859429273",
   "lastOpenFiles": [
+    "Free Licenses.md",
     "Arguments against Religion 2.md",
     "Z1-Inbox/Arguments against religion.md",
     "Differences between Islam and Judeo-Christianity.md",
@@ -546,7 +556,6 @@
     "World Building/Philosophy/Smell.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-    "Z1-Inbox/Untitled.md",
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
