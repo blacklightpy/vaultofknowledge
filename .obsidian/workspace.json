@@ -359,7 +359,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Inbox/Arguments against religion.md",
+                "file": "Arguments against Religion 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Inbox/Arguments against religion.md",
+                "file": "Arguments against Religion 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -463,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Inbox/Arguments against religion.md"
+                "file": "Arguments against Religion 2.md"
               }
             }
           },
@@ -513,10 +513,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5cca553b5daae52c",
+  "active": "cc43cd252ec462db",
   "lastOpenFiles": [
-    "Arguments against Religion 2.md",
     "Z1-Inbox/Arguments against religion.md",
+    "Arguments against Religion 2.md",
     "Differences between Islam and Judeo-Christianity.md",
     "Quran Verses in Context.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Pulse Width Modulation.md",
