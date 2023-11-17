@@ -383,22 +383,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e00a8f542728a56a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pegasus.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -466,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pegasus.md",
+                "file": "Gender Inclusivity in Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pegasus.md",
+                "file": "Gender Inclusivity in Languages.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -503,7 +490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pegasus.md"
+                "file": "Gender Inclusivity in Languages.md"
               }
             }
           },
@@ -553,10 +540,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e00a8f542728a56a",
+  "active": "6eb8a430f5564c09",
   "lastOpenFiles": [
+    "Pegasus Spyware.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
-    "Pegasus.md",
     "Software Styling.md",
     "Gender Inclusivity in Languages.md",
     "Free Licenses.md",
