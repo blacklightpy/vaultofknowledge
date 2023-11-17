@@ -9,6 +9,10 @@ All of them believe that there's only one god, he is all merciful, but they just
 All three religions consider polytheism as evil, wicked or pathetic, because they believe in a unified creator for the sake of minimalism. Well, also because they believe the actual god gave them a word as well, but this should be the reason for their inclination to this faith.
 
 ---
+Muslims pointing out corruption in Torah: https://www.islamawareness.net/Judaism/torah.html
+Jews pointing out corruption in Quran: 
+
+---
 
 Once again, from the perspective of a person without a religion, people of Abrahamic religions believe that there's just one true creator for all of humanity. Which is fine, but then they say that he has given us rules, without following which, they will be sentenced to eternal torture in hell. The books have really terrible ideas about god and societal norms, which disgusts a normal person.
 
