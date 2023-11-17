@@ -5,12 +5,13 @@
 - Talmud: The canonical oral law which helps interpret the laws of the Tanakh. It is the collection of sayings by the rabbis and Jewish scholars.
 	- Mishnah: How to apply the commandment of the Torah
 	- Gemara: Clarifies the doubts in Mishnah in more detail
-- Tanakh: The Hebrew scriptures (An acronym made of the three subsets of it)
-	- Torah: Law, five books of Moses
+- Tanakh: The Hebrew scriptures (An acrostic made of the three subsets of it)
+	- **Torah: Law, five books of Moses**
 		- Genesis, Exodus, Leviticus, Numbers and Deuteronomy
-	- Nevi'im: Prophets, eight books of prophets
+	- **Nevi'im: Prophets, eight books of prophets**
 		- Yehoshua (Joshua), Shoftim (Judges), Shmuel (I & II Samuel), Melakhim (I & II Kings), Yeshayah (Isaiah), Yirmyah (Jeremiah), Yechezqel (Ezekiel)
 		- The Twelve (treated as one book)
 			- Hoshea (Hosea), Yoel (Joel), Amos, Ovadyah (Obadiah), Yonah (Jonah), Mikhah (Micah), Nachum, Chavaqquq (Habbakkuk), Tzefanyah (Zephaniah), Chaggai, Zekharyah (Zechariah), Malakhi
-	- Ketuvim: Writings, eleven books of writings
-		- 
+	- **Ketuvim: Writings, eleven books of writings**
+		- Tehillim (Psalms), Mishlei (Proverbs), Iyov (Job), Shir Ha-Shirim (Song of Songs), Ruth, Eikhah (Lamentations), Qoheleth (the author's name) (Ecclesiastes), Esther, Daniel, Ezra & Nechemyah (Nehemiah) (treated as one book), Divrei Ha-Yamim (The words of the days) (Chronicles)
+- Other writings: https://www.jewfaq.org/torah.htm
