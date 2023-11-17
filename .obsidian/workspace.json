@@ -229,19 +229,6 @@
             }
           },
           {
-            "id": "f289100f639efff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religions and Walled Gardens.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "18b67e7575e938ca",
             "type": "leaf",
             "state": {
@@ -255,12 +242,12 @@
             }
           },
           {
-            "id": "91afa1eabf707107",
+            "id": "69ff25ca4f0f6553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why people join religions.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -268,12 +255,25 @@
             }
           },
           {
-            "id": "ccca3326433106c3",
+            "id": "f289100f639efff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defining Religion.md",
+                "file": "Religions and Walled Gardens.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91afa1eabf707107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why people join religions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -320,19 +320,6 @@
             }
           },
           {
-            "id": "10d2c474e7dc6126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cc43cd252ec462db",
             "type": "leaf",
             "state": {
@@ -359,7 +346,20 @@
             }
           },
           {
-            "id": "2d9234df89706600",
+            "id": "ccca3326433106c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defining Religion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e4a5e675ce88dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -439,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion.md"
+                "file": "Differences between Islam and Judeo-Christianity.md"
               }
             }
           },
@@ -526,14 +526,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2d9234df89706600",
+  "active": "69ff25ca4f0f6553",
   "lastOpenFiles": [
+    "Acceleration, not Force, is constant at a given distance.md",
+    "Religion.md",
     "Differences between Islam and Judeo-Christianity.md",
+    "Why people join religions.md",
+    "Defining Religion.md",
+    "Why I hate Indian Movies.md",
+    "So we are all different, but how do we deal with it.md",
+    "Why capitalism is harmful to society.md",
+    "Gender Inclusivity in Languages.md",
+    "Free Licenses.md",
     "Quran Verses in Context.md",
     "Arguments against Religion 2.md",
-    "Free Licenses.md",
     "Z1-Inbox/Arguments against religion.md",
-    "Gender Inclusivity in Languages.md",
     "Pegasus Spyware.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "Software Styling.md",
@@ -548,12 +555,6 @@
     "Path Integral Formulation.md",
     "Unfair practices.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Pulse Width Modulation.md",
-    "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
-    "Untitled 1.md",
-    "Why abandon proprietary technology.md",
-    "My Ideas on solving the Arab-Israel conflict.md",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
     "History/Religion",

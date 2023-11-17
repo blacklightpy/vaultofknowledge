@@ -13,10 +13,10 @@ All your actions are guided by your intentions. Don't worry if your actions don'
 
 
 ---
-What's the difference between
+What's the difference between (TODO: Complete the sentence and post)
 - A woman walking naked because she believes it's
 - A woman walking naked with the intention of ..., because she believes ..., and she can justify it using ...,
-The intention
+The intention!
 
 ---
 How do you know which one is it?
