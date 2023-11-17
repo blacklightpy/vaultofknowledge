@@ -23,7 +23,9 @@ jobs:
           pip install --upgrade pip
           pip install git+https://github.com/blacklightpy/obsidian-html
           sudo apt install git-restore-mtime
-          git restore-mtime vaultofknowledge
+          cd vaultofknowledge
+          git restore-mtime
+          cd ..
           obsidianhtml convert -i vaultofknowledge/config.yaml -v
           touch html/.nojekyll
     
