@@ -5,7 +5,9 @@
 - The First Crusade and the murder of 2000 Jews, instead of Muslims
 	- Saladin was important only in the Third Crusade
 - The Jewish Problem
-- The Jewish Question
+- The Jewish Question 1750
+	- A neutral term first used in Great Britain
+	- Marx said that Jews are the embodiment of capitalism, which was correct. He however also questioned if they could be politically emancipated.
 - The Aliens Act 1905
 - Balfour Declaration and Antisemitism
 - "The Final Solution to the Jewish Question"
