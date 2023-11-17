@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -439,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
+                "file": "Gender Inclusivity in Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
+                "file": "Gender Inclusivity in Languages.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md"
+                "file": "Gender Inclusivity in Languages.md"
               }
             }
           },
@@ -526,13 +526,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "69ff25ca4f0f6553",
+  "active": "6eb8a430f5564c09",
   "lastOpenFiles": [
-    "Acceleration, not Force, is constant at a given distance.md",
+    "Defining Religion.md",
     "Religion.md",
     "Differences between Islam and Judeo-Christianity.md",
+    "Religions and Walled Gardens.md",
+    "Acceleration, not Force, is constant at a given distance.md",
     "Why people join religions.md",
-    "Defining Religion.md",
     "Why I hate Indian Movies.md",
     "So we are all different, but how do we deal with it.md",
     "Why capitalism is harmful to society.md",
@@ -554,7 +555,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "Path Integral Formulation.md",
     "Unfair practices.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
     "History/Religion",
