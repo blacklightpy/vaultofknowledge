@@ -20,7 +20,7 @@ jobs:
         run: |
           cd ${{ github.workspace }}
           pip install --upgrade pip
-          pip install git+https://github.com/obsidian-html/obsidian-html
+          pip install git+https://github.com/blacklightpy/obsidian-html
           obsidianhtml convert -i vaultofknowledge/config.yaml -v
           touch html/.nojekyll
     
