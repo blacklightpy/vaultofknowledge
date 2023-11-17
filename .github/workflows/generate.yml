@@ -15,12 +15,15 @@ jobs:
         with:
           ref: main
           path: vaultofknowledge
+          fetch-depth: 0
     
       - name: Install dependencies and run build
         run: |
           cd ${{ github.workspace }}
           pip install --upgrade pip
-          pip install git+https://github.com/obsidian-html/obsidian-html
+          pip install git+https://github.com/blacklightpy/obsidian-html
+          sudo apt install git-restore-mtime
+          git restore-mtime
           obsidianhtml convert -i vaultofknowledge/config.yaml -v
           touch html/.nojekyll
     
