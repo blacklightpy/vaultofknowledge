@@ -18,4 +18,5 @@
 - 1935 Nuremberg Laws
 - 1938 Kristallnacht pogrom
 	- Jews were moved to concentration camps
-- 1941 "The Final Solution to the Jewish Question"
+- "The Final Solution to the Jewish Question": 1941-45 Holocaust
+- The Jews moved to America, but a lot of them were pushed from there and finally they all went to Palestine.
