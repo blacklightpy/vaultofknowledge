@@ -35,17 +35,20 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 5400 BC: Sumerian Civilization develops
 # 4 Millenia BC (3500-1800 BC)
 [Chalcolithic Age]
-[Bronze Age]
 - Fertile Crescent (Ancient Mesopotamia and the Levant)
 	- Mesopotamian civilization originated in the valley between the rivers Euphrates and Tigris in modern day Iraq.
+[3300 BC Bronze Age]
 - Nile Valley (Egypt)
 - North China Plain (Eastern China)
 - Indus River Valley / Harappan (Northwest India and Pakistan)
 - Norte Chico / Caral Supe (South America)
 
+- 2200 BC: The Proto Indo-Europeans learn how to u
+
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia
 - 2334 - 2154 BC: Akkadian empire was the first known major empire in Mesopotamia.
+- There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
 - Canaanites appear in the region
 	- [Canaan is the grandson of Noah]
 	- [He was cursed to perpetual slavery because his father Ham "looked upon" the drunk and naked Noah]
@@ -55,7 +58,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 
 ----
 - 3500 - 3000 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
-- 2334-2154 BC: There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
 
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
