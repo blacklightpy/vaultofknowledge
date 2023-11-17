@@ -62,10 +62,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
 > - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
 > - The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
-> - Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
-> - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
-> - Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
-> - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
+
 ### Europe, Mesopotamia
 - Egypt and Mycenaean Greece also form
 ### Indus River Valley
@@ -102,7 +99,12 @@ With agriculture, food became more reliable, but less varied, and people became 
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 ## Time Period 6 (700 BC - 300 BC)
 ### Mesopotamia, Asia
-- 678 BC: The Median empire conquered part of the Neo-Babylonian empire
+- 678 BC: The Median Empire forms in Iran
+- 671 BC: Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
+- Chaldeans broke away from the Neo-Assyrian empire into the Babylon
+- 612 BC: Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
+	- [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
+- The Median empire conquered part of the Neo-Babylonian empire
 - 539 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
 ### Asia
