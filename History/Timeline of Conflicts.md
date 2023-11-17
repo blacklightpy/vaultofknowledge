@@ -81,8 +81,9 @@ Gutians
 > - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
 > - The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
 ### Europe, Mesopotamia
-- 1650 BC: Indo-Europeans made the Hittite empire in Anatolia
+- 1750 BC: The Indo-Europeans arrived at Anatolia and started settling
 - Everyone else in Mesopotamia copy their horses
+- 1650 BC: They made the Hittite Empire
 - Mycenaean Greece also forms
 ### Indus River Valley
 - 1700 BC: Indus River Valley Civilization died
