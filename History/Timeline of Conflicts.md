@@ -32,6 +32,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
+- 5400 BC: Sumerian Civilization develops
 # 4 Millenia BC (3500-1800 BC)
 [Chalcolithic Age]
 [Bronze Age]
@@ -54,6 +55,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 
 ----
 - 3500 - 3000 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
+- 2334-2154 BC: There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
 
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
