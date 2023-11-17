@@ -6,6 +6,8 @@ All three religions have the concept of proselyting. This is because they believ
 
 All of them believe that there's only one god, he is all merciful, but they just argue over what rules he has prescribed and they agree on the punishment that he will give for not following his word.
 
+Also, according to Jews, their covenant with god as Israelites is complete, and the age of prophecy for them is over. Said covenant is obtained by circumcision of people within So they do not have a problem with 
+
 All three religions consider polytheism as evil, wicked or pathetic, because they believe in a unified creator for the sake of minimalism. Well, also because they believe the actual god gave them a word as well, but this should be the reason for their inclination to this faith.
 
 ---
