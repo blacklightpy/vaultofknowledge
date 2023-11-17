@@ -383,9 +383,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d084f921acba736a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6bf94c5299a4992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of Conflicts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -451,7 +477,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intention as a Force.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -468,7 +494,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intention as a Force.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -488,7 +514,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intention as a Force.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -537,19 +563,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6250b5ffc906190b",
+  "active": "b6bf94c5299a4992",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
+    "Intention as a Force.md",
     "The History of Oppression of Jews.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
     "Wavelet Transform.md",
     "Free Radio Firmware.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
     "Why aren't LEDs used as transmitters.md",
     "_images/Types of Digital Modulation.png",
     "_images/Expulsion_judios-en.svg.png",
-    "Intention as a Force.md",
     "Defining Terrorism.md",
     "Religions and Walled Gardens.md",
     "Religion.md",
@@ -565,8 +593,6 @@
     "Web App Frameworks.md",
     "Waves.md",
     "War.md",
-    "Visions.md",
-    "VPNs.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
