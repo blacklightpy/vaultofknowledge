@@ -76,19 +76,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
 	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
 		- [Urdu is Indo-European, but was standardized as Persian Arabic script]
-## Time Period 3 ()
-### Mesopotamia
-- Bronze Age collapsed
-- Phoenicians start trade and invent the alphabets
-- Iron Age begins
-- 12 Tribes of Israel arrive
-### America
-- Olmecs start in Mexico
-## Time Period 4
-### Mesopotamia
-- Phoenicians start colonies
-- Greeks also copy their ideas and make colonies
-- Phoenicians made the Carthage colony that made it's own colonies
 # 2 Millenia BC
 ## Time Period 5 (2000 BC - 1000 BC)
 ### Mesopotamia
@@ -99,6 +86,20 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
 - Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
 - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
+## Time Period 3 (1200 BC - 1000 BC)
+### Mesopotamia
+- Bronze Age collapsed
+- Phoenicians start trade and invent the alphabets
+- Iron Age begins
+- 12 Tribes of Israel arrive
+### America
+- Olmecs start in Mexico
+## Time Period 4 (1000 BC - 700 BC)
+### Mesopotamia
+- Phoenicians start colonies
+- Greeks also copy their ideas and make colonies
+- Phoenicians made the Carthage colony that made it's own colonies
+
 ## Time Period 6 (1000 BC - 300 BC)
 ### Mesopotamia, Asia
 - The Median empire conquered part of the Neo-Babylonian empire
