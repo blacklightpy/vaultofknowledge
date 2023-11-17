@@ -45,9 +45,19 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
 
+Main Empires: Sumerian, Akkadian > Assyrian, Babylonian'
+Ancient Assyrian, Ancient Babylonian
+Babylonian Kingdom
+Ancient Greek
+
+
+Third Dynasty of Ur / Neo-Sumerian Empire
+Isin-Larsa Period
+1894-1595: Old/First Babylonian Empire/Dynasty by King Hammurabi
+
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East
-- 3500 - 3000 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
+- 2700 - 1500 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 	- Canaanites appear in the region
 	- [Canaan is the grandson of Noah]
 	- [He was cursed to perpetual slavery because his father Ham "looked upon" the drunk and naked Noah]
