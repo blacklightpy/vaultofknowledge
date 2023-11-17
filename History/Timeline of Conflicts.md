@@ -50,9 +50,15 @@ Ancient Assyrian, Ancient Babylonian
 Babylonian Kingdom
 Ancient Greek
 
+Uruk Period
+Jemdet Nasr Period
+Early Dynastic Period
+Akkadian Empire
+Gutians
 2500 - 2400 BC: First Dynasty of Ur / Ur I
 2112 - 2004 BC: Third Dynasty of Ur / Ur III / Neo-Sumerian Empire
-2025 - 1763 BC: Isin-Larsa Period
+2025 - 1763 BC: Isin-Larsa Period || Old Assyrian Period || Mari and other states
+	It was attacked by Amorites from the West and Elamites from the East
 1894 - 1595 BC: Old/First Babylonian Empire/Dynasty by King Hammurabi
 1531 - 1155 BC: Kassaties and their Sack of Babylon
 
