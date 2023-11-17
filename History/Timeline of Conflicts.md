@@ -60,9 +60,11 @@ Gutians
 1155–1026 BC: Second Dynasty of Isin, 
 911–605 BC: Neo-Assyrian Empire
 Neo-Babylonian Empire / Chaldean Empire
-Achaemenid Empire
+539 BC: Achaemenid Empire
 
 2700-1500 BC: Minoan Civilization (In Crete)
+Myacenean Greeks
+Ancient Greeks (Macedonian Empire)
 
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East
