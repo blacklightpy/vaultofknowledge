@@ -43,10 +43,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Indus River Valley / Harappan (Northwest India and Pakistan)
 - Norte Chico / Caral Supe (South America)
 
-- 2200 BC: The Proto Indo-Europeans learn how to u
+- 2200 BC: The Indo-Europeans learn how to put wheels on horses
 
 ## Time Period 1 (2350 BC - 1700 BC)
-### Mesopotamia
+### Mesopotamia, Africa and Middle East
+- 3500 - 3000 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 - 2334 - 2154 BC: Akkadian empire was the first known major empire in Mesopotamia.
 - There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
 - Canaanites appear in the region
@@ -56,9 +57,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [The Twelve sons of Jacob fled to Egypt after a drought in Canaan]
 	- [The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]
 	- 
-----
-- 3500 - 3000 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
-
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
 
@@ -66,13 +64,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
 > - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
 > - The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
-
 ### Europe, Mesopotamia
-- Egypt and Mycenaean Greece also form
+- 1650 BC: Indo-Europeans made the Hittite empire in Anatolia
+- Everyone else in Mesopotamia copy their horses
+- Mycenaean Greece also forms
 ### Indus River Valley
 - 1700 BC: Indus River Valley Civilization died
 ### Indo-Europe
-- 1650 BC: Indo-Europeans made the Hittite empire
 - Some of the Indo-Europeans, Indo-Iranians founded the religion of Zoroastrianism
 	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
 - Some of the Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
