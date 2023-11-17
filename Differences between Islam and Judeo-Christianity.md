@@ -4,7 +4,7 @@ Christians say the Torah wasn't enough to solve world problems, so the son of ma
 
 All three religions have the concept of proselyting. This is because they believe god to be the one true creator for all of humanity, and their messengers as the messengers for all of humanity. But this is more common for Christianity and Islam, because in Judaism, only the laws are for all humans, but the covenant of Israel is only for the Jews. The other two religions acknowledge this too, but they are instead for all people.
 
-While Christianity believes that the Old 
+While Christianity believes that the old testament is still valid, it is too difficult for a human to follow, and will most likely lead to him reaching hell unless he constantly begs god to forgive his sins, and hence, the new testament is shown as an easier choice offered by god. Islam on the other hand tells people of both faiths that their laws are based on lies to avoid doing what's right, and rejects the idea that Jews had a special covenant separate from the rest, and that bel
 
 All of them believe that there's only one god, he is all merciful, but they just argue over what rules he has prescribed and they agree on the punishment that he will give for not following his word.
 
