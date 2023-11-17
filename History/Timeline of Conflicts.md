@@ -76,7 +76,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
 	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
 		- [Urdu is Indo-European, but was standardized as Persian Arabic script]
-## Time Period 3
+## Time Period 3 ()
 ### Mesopotamia
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
@@ -90,7 +90,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Greeks also copy their ideas and make colonies
 - Phoenicians made the Carthage colony that made it's own colonies
 # 2 Millenia BC
-## Time Period 5
+## Time Period 5 (2000 BC - 1000 BC)
 ### Mesopotamia
 - Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
 - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
@@ -99,7 +99,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
 - Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
 - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
-## Time Period 6
+## Time Period 6 (1000 BC - 300 BC)
 ### Mesopotamia, Asia
 - The Median empire conquered part of the Neo-Babylonian empire
 - 550 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
@@ -113,7 +113,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
 	- 312 BC: Yehud was now called Coelo-Syria, in the Seleucid Empire
-## Time Period 7
+## Time Period 7 (300 BC - 220 AD)
 ### India
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
@@ -138,7 +138,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 33 AD: Crucifixion of Jesus
 - 66-73 AD: Siege of Jerusalem and destruction of the Second Temple
 - 132 AD: Judea was merged with Galilee to form "Syria Palaestina" or "Roman Palestine"
-## Time Period 8
+## Time Period 8 (220-310)
 ### Asia
 - China invents the Silk road
 - China conquered Vietnam
@@ -166,7 +166,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 >
 > Some of the Jews exiled during the Babylonian exile came to Mattanchery
 > Arabs arrived in Palestine after 1st century AD.
-## Time Period 9
+## Time Period 9 (310-600)
 ### Eurasia
 - 312 AD: Emperor Constantine The Great began favouring Christianity
 - 330 AD: Constantine The Great moved the capital of Roman Empire from Rome to Constantinople to be closer to the Persian Sassanid Empire
@@ -183,7 +183,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### America
 - Mayans figure out the stars
 - Teotihuacan is a highly populated city
-## Time Period 10
+## Time Period 10 (610-780: The Founding of Islam)
 ### Asia
 - 610 AD: Islam was founded by Prophet Mohammed. See: [[The Origin of Islam]]
 
@@ -207,7 +207,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Roman Empire's gone, but the Pope is still the Pope
 - New kingdoms all over Europe: Avar, Aquitaine, Anglo/Saxon Kingdoms, Wessex, Bavaria, Irish Kingdoms, Visigoth, Brittonic Kingdoms, Austrasia, Lombard, Neustria, Samo's Kingdom
 - The Moors (Black Arabs) spread over all of the Arabic countries and Western Europe
-## Time Period 11
+## Time Period 11 (780-1070)
 ### Middle East Asia
 - 786 AD: Baghdad House of Wisdom and the Islamic Golden Age
 ### Africa
@@ -226,7 +226,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - New kingdoms: Norway, Sweden, Poland, Denmark, Hungary, Kievan Rus, Scotland, England, Welsh States
 - All of them get Christianized, but fight over Roman Catholic or Eastern Orthodox brands
 - 1066 AD: William the Conqueror conquers England
-## Time Period 12
+## Time Period 12 (1070-1200)
 ### Eurasia
 - 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire (Anatolian peninsula)
 	- This weakened the Zoroastrian culture in Iran
@@ -243,7 +243,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Korea, or Goryeo became itself
 - 1192 AD: Japan is so addicted to art that the Shogunate military takes over
 - China invented bombs and typing
-## Time Period 13 (1220-1400)
+## Time Period 13 (1200-1400)
 ### Eurasia
 - 1228-1259 AD: Mongols invaded all of central Asia and Europe under Genghis Khan
 	- This weakened the Seljuk Empire
