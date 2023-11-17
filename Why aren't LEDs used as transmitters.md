@@ -28,7 +28,7 @@ Higher frequencies usually pass through the ionosphere. Lower frequencies are ob
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
 
-NOTE:
+NOTE: YES! Remotes use on-off keying (OOK), which is the simplest form of ASK. Which is something like Morse code. This is referred to as Continuous Wave (CW) operation. OOK is more spectrally efficient that FSK, but is more sensitive to noise when using a regenerative receiver or a poorly implemented superheterodyne reciever.
 
 
 
