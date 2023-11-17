@@ -44,7 +44,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia
-- Akkadian empire was the first known major empire in Mesopotamia.
+- 2334 - 2154 BC: Akkadian empire was the first known major empire in Mesopotamia.
 - Canaanites appear in the region
 	- [Canaan is the grandson of Noah]
 	- [He was cursed to perpetual slavery because his father Ham "looked upon" the drunk and naked Noah]
@@ -54,8 +54,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 
 ----
 - Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
-### Indo-Europe
-- Indo-Europeans made the Hittite empire
+
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
 
@@ -70,8 +69,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Europe, Mesopotamia
 - Egypt and Mycenaean Greece also form
 ### Indus River Valley
-- Indus River Valley Civilization died
+- 1700 BC: Indus River Valley Civilization died
 ### Indo-Europe
+- 1650 BC: Indo-Europeans made the Hittite empire
 - Some of the Indo-Europeans, Indo-Iranians founded the religion of Zoroastrianism
 	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
 - Some of the Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
