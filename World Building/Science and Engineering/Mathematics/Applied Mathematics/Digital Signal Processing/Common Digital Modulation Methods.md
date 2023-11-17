@@ -21,7 +21,7 @@
 	- Continuous Phase Frequency Shift Keying (CPFSK)
 - Orthogonal Frequency-Division Multiplexing (OFDM)
 	- Discrete Multitone (DMT)
-- Wavelet Modulation
+- Wavelet Modulation / Fractal Modulation
 - Trellis Coded Modulation (TCM)
 - Spread Spectrum
 	- Direct Sequence Spread Spectrum (DSSS)
