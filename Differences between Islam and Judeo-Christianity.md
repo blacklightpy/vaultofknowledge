@@ -8,6 +8,8 @@ All three religions consider polytheism as evil, wicked or pathetic, because the
 
 All of them believe that there's only one god, he is all merciful, but they just argue over what rules he has prescribed and they agree on the punishment that he will give for not following his word.
 
-Once again, from the perspective of a person without a religion, people of Abrahamic religions believe that there's just one true creator for all of humanity. Which is fine, but then they say that he has given us rules, without following which, they will be sentenced to eternal torture in hell. The books have really terrible ideas about god and societal no
+Once again, from the perspective of a person without a religion, people of Abrahamic religions believe that there's just one true creator for all of humanity. Which is fine, but then they say that he has given us rules, without following which, they will be sentenced to eternal torture in hell. The books have really terrible ideas about god and societal norms, which disgusts a normal person.
 
-Then another group comes along and says that it's true that god gave us rules, but these people modified it to suit their fantasies
+Then another group comes along and says that it's true that god gave us rules, but these people modified it to suit their fantasies. And they give their new "word of god", which is a concise book providing just the rules without any ugly stories to disgust people. While this way of life is reasonable in one sense, being forced to live in that lifestyle is very difficult for a person without having to combat against their natural desires.
+
+In between there was yet another group that said that, yes the old word of god was true, but god then decided that people can't stop falling to sin, so he with all his love manifested to earth in human form and took the punishments for the whole world, for all time as a human being, and all we hav
