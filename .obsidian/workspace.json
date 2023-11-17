@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions and Walled Gardens.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religions and Walled Gardens.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -463,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religions and Walled Gardens.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
               }
             }
           },
@@ -509,7 +509,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
