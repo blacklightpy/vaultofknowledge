@@ -7,3 +7,5 @@ The reason for this is that, people often spend their entire lifetimes puzzling 
 As Hegel says, "Religion is for everybody - Philosophy is not for everybody". Which is true, because most people are on track to pursue a professional career to make a comfortable living, and have no time to deal with metaphysics.
 
 Everyone can understand the picture presented by religion. It is a shorthand, because it has a key role to play in societies.
+
+**Take it from me: The divine cannot be found in a set of symbols, or by practicing rituals.**
