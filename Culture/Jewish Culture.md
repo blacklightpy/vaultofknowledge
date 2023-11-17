@@ -6,6 +6,7 @@
 	- Mishnah: How to apply the commandment of the Torah
 	- Gemara: Clarifies the doubts in Mishnah in more detail
 - Tanakh: The Hebrew scriptures (An acronym made of the three subsets of it)
-	- Torah: Law, five books of Moses
+	- Torah: Law, five books of Moses (Genesis, Exodus, Leviticus, Numbers and Deuteronomy)
 	- Nevi'im: Prophets, eight books of prophets
+		- 
 	- Ketuvim: Writings, eleven books of writings

@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
+                "file": "Culture/Jewish Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -439,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
+                "file": "Culture/Jewish Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md",
+                "file": "Culture/Jewish Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differences between Islam and Judeo-Christianity.md"
+                "file": "Culture/Jewish Culture.md"
               }
             }
           },
@@ -528,10 +528,11 @@
   },
   "active": "69ff25ca4f0f6553",
   "lastOpenFiles": [
+    "Differences between Islam and Judeo-Christianity.md",
+    "Culture/Jewish Culture.md",
     "Gender Inclusivity in Languages.md",
     "Defining Religion.md",
     "Religion.md",
-    "Differences between Islam and Judeo-Christianity.md",
     "Religions and Walled Gardens.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "Why people join religions.md",
@@ -554,7 +555,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "Path Integral Formulation.md",
-    "Unfair practices.md",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
     "History/Religion",
