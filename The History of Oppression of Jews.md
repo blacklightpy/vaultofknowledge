@@ -1,2 +1,8 @@
+- The Rise of Jewish Capitalism under Catholic Persecution
+- The First Crusade
+	- Saladin was important only in the Third Crusade
 - The Jewish Problem
 - The Jewish Question
+- The Aliens Act 1905
+- Balfour Declaration and Antisemitism
+- The Final Answer to the Jewish Question

@@ -383,9 +383,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc2cc9800a986908",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -451,7 +459,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intention as a Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -468,7 +475,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intention as a Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -487,9 +493,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Intention as a Force.md"
-              }
+              "state": {}
             }
           },
           {
@@ -537,13 +541,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6250b5ffc906190b",
+  "active": "fc2cc9800a986908",
   "lastOpenFiles": [
     "The History of Oppression of Jews.md",
     "Intention as a Force.md",
+    "Defining Terrorism.md",
     "Religions and Walled Gardens.md",
     "Religion.md",
-    "Defining Terrorism.md",
     "Defining Religion.md",
     "Differences between Islam and Judeo-Christianity.md",
     "3-body systems.md",
