@@ -388,7 +388,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "torah",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -515,6 +515,8 @@
   },
   "active": "10d2c474e7dc6126",
   "lastOpenFiles": [
+    "Quran Verses in Context.md",
+    "Differences between Islam and Judeo-Christianity.md",
     "Arguments against Religion 2.md",
     "Free Licenses.md",
     "Z1-Inbox/Arguments against religion.md",
@@ -533,8 +535,6 @@
     "Path Integral Formulation.md",
     "Unfair practices.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
-    "Differences between Islam and Judeo-Christianity.md",
-    "Quran Verses in Context.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Pulse Width Modulation.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
