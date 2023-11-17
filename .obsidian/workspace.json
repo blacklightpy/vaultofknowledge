@@ -370,6 +370,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a684091766acfcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The History of Oppression of Jews.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 27
@@ -526,6 +539,7 @@
   },
   "active": "6250b5ffc906190b",
   "lastOpenFiles": [
+    "The History of Oppression of Jews.md",
     "Intention as a Force.md",
     "Religions and Walled Gardens.md",
     "Religion.md",
@@ -551,7 +565,6 @@
     "Unfair practices.md",
     "Tools for animating 3D models in Web.md",
     "Telemetry.md",
-    "Technology.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
