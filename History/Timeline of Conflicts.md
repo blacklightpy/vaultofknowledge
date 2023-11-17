@@ -41,9 +41,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - North China Plain (Eastern China)
 - Indus River Valley / Harappan (Northwest India and Pakistan)
 - Norte Chico / Caral Supe (South America)
-# 3 Millenia BC
 
-## Time Period 1
+## Time Period 1 (4000 BC - )
 ### Mesopotamia
 - Akkadian empire was the first known major empire in Mesopotamia.
 - Canaanites appear in the region
@@ -57,7 +56,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 ### Indo-Europe
 - Indo-Europeans made the Hittite empire
-## Time Period 2 (200)
+## Time Period 2 (3150 BC - 2000 BC)
 ### Europe, Mesopotamia
 - Egypt and Mycenaean Greece also form
 ### Indus River Valley
