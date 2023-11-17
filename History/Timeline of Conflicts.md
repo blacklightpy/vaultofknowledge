@@ -32,7 +32,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
-# 4 Millenia BC
+# 4 Millenia BC (3500-1800 BC)
 [Chalcolithic Age]
 [Bronze Age]
 - Fertile Crescent (Ancient Mesopotamia and the Levant)
@@ -42,7 +42,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Indus River Valley / Harappan (Northwest India and Pakistan)
 - Norte Chico / Caral Supe (South America)
 
-## Time Period 1 (4000 BC - )
+## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia
 - Akkadian empire was the first known major empire in Mesopotamia.
 - Canaanites appear in the region
@@ -58,14 +58,15 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Indo-Europeans made the Hittite empire
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
-### Mesopotamia (NOTES)
-- Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
-- Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
-- The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
-- Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
-- Chaldeans broke away from the Neo-Assyrian empire into the Babylon
-- Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
-- [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
+
+> [!NOTE] Ancient Mesopotamia 
+> - Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
+> - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
+> - The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
+> - Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
+> - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
+> - Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
+> - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
 ### Europe, Mesopotamia
 - Egypt and Mycenaean Greece also form
 ### Indus River Valley
