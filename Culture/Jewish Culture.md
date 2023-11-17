@@ -6,7 +6,11 @@
 	- Mishnah: How to apply the commandment of the Torah
 	- Gemara: Clarifies the doubts in Mishnah in more detail
 - Tanakh: The Hebrew scriptures (An acronym made of the three subsets of it)
-	- Torah: Law, five books of Moses (Genesis, Exodus, Leviticus, Numbers and Deuteronomy)
+	- Torah: Law, five books of Moses
+		- Genesis, Exodus, Leviticus, Numbers and Deuteronomy
 	- Nevi'im: Prophets, eight books of prophets
-		- 
+		- Yehoshua (Joshua), Shoftim (Judges), Shmuel (I & II Samuel), Melakhim (I & II Kings), Yeshayah (Isaiah), Yirmyah (Jeremiah), Yechezqel (Ezekiel)
+		- The Twelve (treated as one book)
+			- Hoshea (Hosea), Yoel (Joel), Amos, Ovadyah (Obadiah), Yonah (Jonah), Mikhah (Micah), Nachum, Chavaqquq (Habbakkuk), Tzefanyah (Zephaniah), Chaggai, Zekharyah (Zechariah), Malakhi
 	- Ketuvim: Writings, eleven books of writings
+		- 
