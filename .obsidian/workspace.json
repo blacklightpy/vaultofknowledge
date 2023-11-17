@@ -357,9 +357,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6250b5ffc906190b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intention as a Force.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -425,7 +438,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions and Walled Gardens.md",
+                "file": "Intention as a Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religions and Walled Gardens.md",
+                "file": "Intention as a Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -462,7 +475,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religions and Walled Gardens.md"
+                "file": "Intention as a Force.md"
               }
             }
           },
@@ -511,8 +524,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f289100f639efff4",
+  "active": "6250b5ffc906190b",
   "lastOpenFiles": [
+    "Intention as a Force.md",
+    "Religions and Walled Gardens.md",
     "Religion.md",
     "Defining Terrorism.md",
     "Defining Religion.md",
@@ -537,8 +552,6 @@
     "Tools for animating 3D models in Web.md",
     "Telemetry.md",
     "Technology.md",
-    "Technobabble.md",
-    "Taking words out of context.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
