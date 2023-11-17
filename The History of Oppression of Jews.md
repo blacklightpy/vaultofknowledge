@@ -10,4 +10,12 @@
 	- Marx said that Jews are the embodiment of capitalism, which was correct. He however also questioned if they could be politically emancipated.
 - The Aliens Act 1905
 - Balfour Declaration and Antisemitism
-- "The Final Solution to the Jewish Question"
+- 1933 Nazi Germany
+	- The Jewish Question in Nazi Germany was about the belief that Jews posed a problem to the state of Germany
+	- They discussed the solutions to move the Jews out, to resettle them in Uganda or Madagascar
+	- Moving them to Mandatory Palestine would cause humanitarian and political problems for the region
+	- When Hitler came to power, he started implementing laws to remove the Jews from Germany, and all of Europe
+- 1935 Nuremberg Laws
+- 1938 Kristallnacht pogrom
+	- Jews were moved to concentration camps
+- 1941 "The Final Solution to the Jewish Question"
