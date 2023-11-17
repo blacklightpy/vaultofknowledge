@@ -45,11 +45,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
 
-Main Empires: Sumerian, Akkadian > Assyrian, Babylonian'
-Ancient Assyrian, Ancient Babylonian
-Babylonian Kingdom
-Ancient Greek
-
+### Kingdoms:
 Uruk Period
 Jemdet Nasr Period
 Early Dynastic Period
@@ -59,9 +55,12 @@ Gutians
 2112 - 2004 BC: Third Dynasty of Ur / Ur III / Neo-Sumerian Empire
 2025 - 1763 BC: Isin-Larsa Period || Old Assyrian Period || Mari and other states
 	It was attacked by Amorites from the West and Elamites from the East
-1894 - 1595 BC: Old/First Babylonian Empire/Dynasty by King Hammurabi
+1894 - 1595 BC: Old/First Babylonian Empire/ Amorite Dynasty by King Hammurabi
 1531 - 1155 BC: Kassaties and their Sack of Babylon
-
+1155–1026 BC: Second Dynasty of Isin, 
+911–605 BC: Neo-Assyrian Empire
+Neo-Babylonian Empire / Chaldean Empire
+Achaemenid Empire
 
 2700-1500 BC: Minoan Civilization (In Crete)
 
