@@ -2,14 +2,16 @@ Mohammedans say that the Quran is the true word of god, and the Torah isn't.
 Yehudians say that the Torah is the true word of god, which has no flaws in it.
 Christians say the Torah wasn't enough to solve world problems, so the son of man came down to bear all the sins of the world. Because of this, God can manifest in three forms - the father, the son and the holy spirit.
 
-All three religions have the concept of proselyting.
+All three religions have the concept of proselyting. This is because they believe god to be the one true creator for all of humanity, and their prophets as the prophets for all of humanity.
+
+All of them believe that there's only one god, he is all merciful, but they just argue over what rules he has prescribed and they agree on the punishment that he will give for not following his word.
 
 All three religions consider polytheism as evil, wicked or pathetic, because they believe in a unified creator for the sake of minimalism. Well, also because they believe the actual god gave them a word as well, but this should be the reason for their inclination to this faith.
 
-All of them believe that there's only one god, he is all merciful, but they just argue over what rules he has prescribed and they agree on the punishment that he will give for not following his word.
+---
 
 Once again, from the perspective of a person without a religion, people of Abrahamic religions believe that there's just one true creator for all of humanity. Which is fine, but then they say that he has given us rules, without following which, they will be sentenced to eternal torture in hell. The books have really terrible ideas about god and societal norms, which disgusts a normal person.
 
 Then another group comes along and says that it's true that god gave us rules, but these people modified it to suit their fantasies. And they give their new "word of god", which is a concise book providing just the rules without any ugly stories to disgust people. While this way of life is reasonable in one sense, being forced to live in that lifestyle is very difficult for a person without having to combat against their natural desires.
 
-In between there was yet another group that said that, yes the old word of god was true, but god then decided that people can't stop falling to sin, so he with all his love manifested to earth in human form and took the punishments for the whole world, for all time as a human being, and all we hav
+In between there was yet another group that said that, yes the old word of god was true, but god then decided that people can't stop falling to sin, so he with all his love manifested to earth in human form and took the punishments for the whole world, for all time as a human being, and all we have to avoid the hellfire is to recognize him as our lord and saviour, and follow in his footsteps to the best of our ability, but falling astray is not a big deal, as he's already paid for that weakness of human beings.
