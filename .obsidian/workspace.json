@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -439,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gender Inclusivity in Languages.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gender Inclusivity in Languages.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gender Inclusivity in Languages.md"
+                "file": "Differences between Islam and Judeo-Christianity.md"
               }
             }
           },
@@ -526,8 +526,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6eb8a430f5564c09",
+  "active": "69ff25ca4f0f6553",
   "lastOpenFiles": [
+    "Gender Inclusivity in Languages.md",
     "Defining Religion.md",
     "Religion.md",
     "Differences between Islam and Judeo-Christianity.md",
@@ -537,7 +538,6 @@
     "Why I hate Indian Movies.md",
     "So we are all different, but how do we deal with it.md",
     "Why capitalism is harmful to society.md",
-    "Gender Inclusivity in Languages.md",
     "Free Licenses.md",
     "Quran Verses in Context.md",
     "Arguments against Religion 2.md",
