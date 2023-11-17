@@ -1,1 +1,3 @@
-The concept of free will is very much an unknown. By our objective physical understandings of nature, there are four fundamental forces that govern all motion. The forces we interact with on a day to day level are the elect
+The concept of free will is very much an unknown. By our objective physical understandings of nature, there are four fundamental forces that govern all motion. The forces we interact with on a day to day level are the electromagnetic forces and the force of gravitation.
+
+When we push an object, aside from the gravitational forces acting downwards, the other forces at play are solely the electrostatic forces, which are nothing but electromagnetic forces, but since they are neutral with respect to the broader surroundings and are only repulsive when you get too close. We know that if a body changes it's state o
