@@ -391,7 +391,7 @@
               "type": "markdown",
               "state": {
                 "file": "Pegasus.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -555,10 +555,10 @@
   },
   "active": "e00a8f542728a56a",
   "lastOpenFiles": [
-    "_images/Pasted image 20231117055501.png",
+    "_images/A misleading Pegasus infographic from Guardian.png",
+    "Pegasus.md",
     "Software Styling.md",
     "Gender Inclusivity in Languages.md",
-    "Pegasus.md",
     "Free Licenses.md",
     "Z1-Inbox/FOSS Software.md",
     "Personal/Toolkits/Software Toolkit.md",
@@ -595,7 +595,6 @@
     "_images/MapChart_Map-Israel-Stripe.png",
     "_images/Arab-Israeli Ma.png",
     "_images/MapChart_Map-Cisjordan.png",
-    "_images/MapChart_Map-Palestine-Stripe.png",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
