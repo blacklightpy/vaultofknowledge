@@ -314,7 +314,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1600 AD: Dutch revolt, and all the hipsters moved to Amsterdam
 - Amsterdam also decided to pillage stuff
 - England, Amsterdam and France tried to get to India through North America
-	- No, but they found Beavers?
+	- They couldn't find a way but they found Beavers, and Beaver skin was very marketable.
 - Dutch stole the spice trade
 - 1640 AD: All the Sugar was made in Brazil. Dutch stole it.
 - Spain, France, Dutch and England exploited the Caribbean and started slavery by importing people from Africa
