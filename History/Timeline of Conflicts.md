@@ -48,15 +48,14 @@ With agriculture, food became more reliable, but less varied, and people became 
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East
 - 3500 - 3000 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
-- 2334 - 2154 BC: Akkadian empire was the first known major empire in Mesopotamia.
-- There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
-- Canaanites appear in the region
+	- Canaanites appear in the region
 	- [Canaan is the grandson of Noah]
 	- [He was cursed to perpetual slavery because his father Ham "looked upon" the drunk and naked Noah]
 	- [The Bible separates Israelites from Canaanites, but archaeology points that Israelites are a subset of Canaanites]
 	- [The Twelve sons of Jacob fled to Egypt after a drought in Canaan]
 	- [The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]
-	- 
+- 2334 - 2154 BC: Akkadian empire was the first known major empire in Mesopotamia.
+- There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
 
