@@ -53,7 +53,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]
 	- 
 ----
-- Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
+- 3500 - 3000 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
