@@ -56,7 +56,16 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 ### Indo-Europe
 - Indo-Europeans made the Hittite empire
-## Time Period 2 (3150 BC - 2000 BC)
+# 2 Millenia BC
+## Time Period 3 (1700 BC - 1200 BC)
+### Mesopotamia (NOTES)
+- Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
+- Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
+- The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
+- Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
+- Chaldeans broke away from the Neo-Assyrian empire into the Babylon
+- Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
+- [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
 ### Europe, Mesopotamia
 - Egypt and Mycenaean Greece also form
 ### Indus River Valley
@@ -75,16 +84,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [By the Medieval period, only Semitic, Dravidian, Caucasian, Uralic and Basque remained of the native languages of Europe and Western Asia]
 	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
 		- [Urdu is Indo-European, but was standardized as Persian Arabic script]
-# 2 Millenia BC
-## Time Period 3 (2000 BC - 1200 BC)
-### Mesopotamia
-- Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
-- Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
-- The Chaldeans were a Semitic speaking people who settled somewhere in Assyria.
-- Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
-- Chaldeans broke away from the Neo-Assyrian empire into the Babylon
-- Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
-- [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
 ## Time Period 4 (1200 BC - 1000 BC)
 ### Mesopotamia
 - Bronze Age collapsed
