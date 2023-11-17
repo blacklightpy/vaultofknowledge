@@ -7,7 +7,7 @@
 - The Jewish Problem
 - The Jewish Question 1750
 	- A neutral term first used in Great Britain
-	- Marx said that Jews are the embodiment of capitalism, which was correct. He however also questioned if they could be politically emancipated.
+	- Marx said that Jews are the embodiment of capitalism, which was correct, as that's how they had come to be under persecution. He however also questioned if they could be politically emancipated. His idea was that Judaism is so closely connected with capitalism, so without dropping that identity, society would never be free from capitalism.
 - The Aliens Act 1905
 - Balfour Declaration and Antisemitism
 - 1933 Nazi Germany
