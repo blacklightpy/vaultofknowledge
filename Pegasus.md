@@ -6,3 +6,8 @@ Exploits like this are possible due to the regulatory authorities fooling people
 - Tivoized open baseband firmware with unpatchable loopholes
 - Non-isolated basebands
 - Non-removable smartphone batteries
+
+
+- NSO Group Page: https://www.nsogroup.com/
+- FSF Article:
+- Analysis linked by FSF: https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf

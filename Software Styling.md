@@ -2,4 +2,3 @@
 - Catpuccin
 - Dracula
 - Freeplay
-- 
