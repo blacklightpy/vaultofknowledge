@@ -357,22 +357,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dc056e8b53bc1cc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comparison of OSes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -422,7 +409,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -438,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comparison of OSes.md",
+                "file": "Religions and Walled Gardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -455,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comparison of OSes.md",
+                "file": "Religions and Walled Gardens.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -475,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comparison of OSes.md"
+                "file": "Religions and Walled Gardens.md"
               }
             }
           },
@@ -524,35 +512,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc056e8b53bc1cc6",
+  "active": "f289100f639efff4",
   "lastOpenFiles": [
-    "Common Problems with Religions.md",
-    "Center Terms.md",
-    "Casteism.md",
-    "Bloch Sphere.md",
-    "Awesome Proprietary Software.md",
-    "Arguments against Religion 2.md",
-    "Apps Database.md",
-    "Acceleration, not Force, is constant at a given distance.md",
-    "3-body systems.md",
-    "2-body systems.md",
-    "Religions and Walled Gardens.md",
     "Religion.md",
-    "Differences between Islam and Judeo-Christianity.md",
-    "Gender Inclusivity in Languages.md",
+    "Defining Terrorism.md",
     "Defining Religion.md",
-    "So we are all different, but how do we deal with it.md",
-    "Why I hate Indian Movies.md",
+    "Differences between Islam and Judeo-Christianity.md",
+    "3-body systems.md",
+    "home.md",
+    "Wolfram Physics.md",
     "Why people join religions.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-    "Culture/Jewish Culture.md",
     "Why capitalism is harmful to society.md",
-    "Free Licenses.md",
-    "Quran Verses in Context.md",
-    "Z1-Inbox/Arguments against religion.md",
-    "Pegasus Spyware.md",
+    "Why aren't LEDs used as transmitters.md",
+    "Why abandon proprietary technology.md",
+    "Why I hate Indian Movies.md",
+    "Web App Frameworks.md",
+    "Waves.md",
+    "War.md",
+    "Visions.md",
+    "VPNs.md",
+    "Untitled.md",
+    "V8.md",
+    "Untitled 1.md",
+    "Unfair practices.md",
+    "Tools for animating 3D models in Web.md",
+    "Telemetry.md",
+    "Technology.md",
+    "Technobabble.md",
+    "Taking words out of context.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
-    "Software Styling.md",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
     "History/Religion",
