@@ -306,10 +306,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 #### Russia
 - 1556 AD: Ivan the Terrible makes Russia big
 
-## Time Period 17
+## Time Period 17 (1500 - Present)
 ### Europe, Asia, America, Australia and Africa
-- Portugal decided to control the entire Indian Ocean and control all the spice trades
-- Spain realized America is not India, but they pillaged it and made it New Spain
+- 1503 AD: Portugal decided to control the entire Indian Ocean and control all the spice trades
+- 1503-1521 AD: Spain realized America is not India, but they pillaged it and made it New Spain
 - England and France decided to copy them
 - 1600 AD: Dutch revolt, and all the hipsters moved to Amsterdam
 - Amsterdam also decided to pillage stuff
