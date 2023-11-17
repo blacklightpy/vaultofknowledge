@@ -89,7 +89,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Mesopotamia
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
-- Iron Age begins
+- [Iron Age]
 - 12 Tribes of Israel arrive
 ### America
 - Olmecs start in Mexico
@@ -97,13 +97,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Mesopotamia
 - Phoenicians start colonies
 - Greeks also copy their ideas and make colonies
-- Phoenicians made the Carthage colony that made it's own colonies
+- 800 BC: Phoenicians made the Carthage colony that made it's own colonies
 ### Asia
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 ## Time Period 6 (700 BC - 300 BC)
 ### Mesopotamia, Asia
 - 678 BC: The Median empire conquered part of the Neo-Babylonian empire
-- 550 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
+- 539 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
 ### Asia
 - ~500 BC: Buddha was enlightened in Bodh Gaya
