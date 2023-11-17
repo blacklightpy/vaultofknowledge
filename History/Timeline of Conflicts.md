@@ -243,7 +243,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Korea, or Goryeo became itself
 - 1192 AD: Japan is so addicted to art that the Shogunate military takes over
 - China invented bombs and typing
-## Time Period 13
+## Time Period 13 (1220-1400)
 ### Eurasia
 - 1228-1259 AD: Mongols invaded all of central Asia and Europe under Genghis Khan
 	- This weakened the Seljuk Empire
@@ -265,7 +265,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - China's back with the Ming Dynasty
 - 1400 AD: Khmer shares kingdoms with Ayutthaya and Ian Xang
 - The Majapahit controls part of the India China sea routes.
-## Time Period 14
+## Time Period 14 (1450-1460)
 
 ### Europe
 - 1450 AD: Italy is rich and cares about art and the Ancient Greek Classics (The Renaissance Period)
@@ -282,7 +282,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 > 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
 > 	- Mahdi is not based on the Quran, but on the haddiths.
 > - [Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
-## Time Period 15
+## Time Period 15 (1490-1500)
 
 ### Europe, America
 - The Habsburg married royal families all over Europe
@@ -295,7 +295,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Asia
 - Baburs of Timurids (what was part of the Seljuk Empire after Mongol invasions) conquer India and start the Mughal Empire
 - 1501 AD: Persia formed the Safavids Dynasty, but it is now Shi'a Islam (Central East / Afghanistan to Syria)
-## Time Period 16
+## Time Period 16 (1500-1550s)
 ### Europe
 - The Catholic church lets people pay a premium to escape sin
 - 1517 AD: Martin Luther said it's all a scam and wrote 95 reasons why in his book, and it started the protestant reformation
