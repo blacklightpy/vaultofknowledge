@@ -57,7 +57,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
 ### Indo-Europe
 - Indo-Europeans made the Hittite empire
-## Time Period 2
+## Time Period 2 (200)
 ### Europe, Mesopotamia
 - Egypt and Mycenaean Greece also form
 ### Indus River Valley
@@ -77,7 +77,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [Indo-European languages include English, Spanish, Portuguese, Hindustani (Hindi-Urdu), Sanskrit, Ancient Greek, Hittite, etc.]
 		- [Urdu is Indo-European, but was standardized as Persian Arabic script]
 # 2 Millenia BC
-## Time Period 5 (2000 BC - 1000 BC)
+## Time Period 3 (2000 BC - 1200 BC)
 ### Mesopotamia
 - Assyria was a major civilization from Mesopotamia, a cradle of civilization. Assyrian history has been classified from the Bronze age (35th century BC) to the late Iron Age (lasted till AD 1500) as Early Assyrian, Old Assyrian, Middle Assyrian, Neo-Assyrian and post-Imperial Assyrian.
 - Babylon was another city in Mesopotamia, who were in rivalry with Assyrians.
@@ -86,7 +86,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
 - Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
 - [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
-## Time Period 3 (1200 BC - 1000 BC)
+## Time Period 4 (1200 BC - 1000 BC)
 ### Mesopotamia
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
@@ -94,23 +94,23 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 12 Tribes of Israel arrive
 ### America
 - Olmecs start in Mexico
-## Time Period 4 (1000 BC - 700 BC)
+## Time Period 5 (1000 BC - 700 BC)
 ### Mesopotamia
 - Phoenicians start colonies
 - Greeks also copy their ideas and make colonies
 - Phoenicians made the Carthage colony that made it's own colonies
-
-## Time Period 6 (1000 BC - 300 BC)
+### Asia
+- ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
+## Time Period 6 (700 BC - 300 BC)
 ### Mesopotamia, Asia
-- The Median empire conquered part of the Neo-Babylonian empire
+- 678 BC: The Median empire conquered part of the Neo-Babylonian empire
 - 550 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
 ### Asia
 - ~500 BC: Buddha was enlightened in Bodh Gaya
-- ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 - ~500 BC Confucius was figuring out morals
 ### Europe
-- Greeks started philosophizing
+- ~600 BC: Greeks started philosophizing
 - Alexander from Macedonia, Greece conquered the entire Persian Empire and was called Alexander the Great
 - The Macedonian Empire was split into Cassander, Lysimachus, Antigonus, Seleucus, Ptolemy
 	- 312 BC: Yehud was now called Coelo-Syria, in the Seleucid Empire
