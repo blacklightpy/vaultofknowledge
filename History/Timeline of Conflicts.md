@@ -62,6 +62,9 @@ Gutians
 1894 - 1595 BC: Old/First Babylonian Empire/Dynasty by King Hammurabi
 1531 - 1155 BC: Kassaties and their Sack of Babylon
 
+
+2700-1500 BC: Minoan Civilization (In Crete)
+
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East
 - 2700 - 1500 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
