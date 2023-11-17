@@ -28,6 +28,9 @@ Higher frequencies usually pass through the ionosphere. Lower frequencies are ob
 Fun fact: LEDs are used as transmitters and detectors too. This was invented by Forrest Mimms.
 
 
+NOTE:
+
+
 
 # Terms
 - Passband: The frequency range that can pass through a bandpass filter.

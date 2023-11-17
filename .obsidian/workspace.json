@@ -398,7 +398,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -472,7 +472,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -489,7 +489,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
+                "file": "Why aren't LEDs used as transmitters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -509,7 +509,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md"
+                "file": "Why aren't LEDs used as transmitters.md"
               }
             }
           },
@@ -560,8 +560,11 @@
   },
   "active": "c9b5784e692dc64a",
   "lastOpenFiles": [
-    "_images/Types of Digital Modulation.png",
+    "Free Radio Firmware.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
+    "_images/Types of Digital Modulation.png",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
     "The History of Oppression of Jews.md",
     "_images/Expulsion_judios-en.svg.png",
@@ -585,8 +588,6 @@
     "Visions.md",
     "VPNs.md",
     "Untitled.md",
-    "V8.md",
-    "Untitled 1.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
