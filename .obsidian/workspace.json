@@ -346,32 +346,6 @@
             }
           },
           {
-            "id": "5cca553b5daae52c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Inbox/Arguments against religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ed1f03859429273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Licenses.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6eb8a430f5564c09",
             "type": "leaf",
             "state": {
@@ -385,7 +359,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -431,8 +405,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -453,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gender Inclusivity in Languages.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gender Inclusivity in Languages.md",
+                "file": "Differences between Islam and Judeo-Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -490,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gender Inclusivity in Languages.md"
+                "file": "Differences between Islam and Judeo-Christianity.md"
               }
             }
           },
@@ -540,13 +513,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6eb8a430f5564c09",
+  "active": "10d2c474e7dc6126",
   "lastOpenFiles": [
+    "Arguments against Religion 2.md",
+    "Free Licenses.md",
+    "Z1-Inbox/Arguments against religion.md",
+    "Gender Inclusivity in Languages.md",
     "Pegasus Spyware.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "Software Styling.md",
-    "Gender Inclusivity in Languages.md",
-    "Free Licenses.md",
     "Z1-Inbox/FOSS Software.md",
     "Personal/Toolkits/Software Toolkit.md",
     "Awesome Proprietary Software.md",
@@ -558,8 +533,6 @@
     "Path Integral Formulation.md",
     "Unfair practices.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Uniform Colour Spaces.md",
-    "Arguments against Religion 2.md",
-    "Z1-Inbox/Arguments against religion.md",
     "Differences between Islam and Judeo-Christianity.md",
     "Quran Verses in Context.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Pulse Width Modulation.md",

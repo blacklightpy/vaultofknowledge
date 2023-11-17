@@ -8,7 +8,7 @@ Exploits like this are possible due to the regulatory authorities fooling people
 - Non-removable smartphone batteries
 # More References
 - NSO Group Page: https://www.nsogroup.com/
-- FSF Article:
+- The Guardian News Report linked by FSF: https://www.theguardian.com/news/2021/jul/18/what-is-pegasus-spyware-and-how-does-it-hack-phones
 - Analysis linked by FSF: https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf
 
 > [!NOTE]
