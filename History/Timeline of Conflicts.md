@@ -50,10 +50,11 @@ Ancient Assyrian, Ancient Babylonian
 Babylonian Kingdom
 Ancient Greek
 
-
-Third Dynasty of Ur / Neo-Sumerian Empire
-Isin-Larsa Period
-1894-1595: Old/First Babylonian Empire/Dynasty by King Hammurabi
+2500 - 2400 BC: First Dynasty of Ur / Ur I
+2112 - 2004 BC: Third Dynasty of Ur / Ur III / Neo-Sumerian Empire
+2025 - 1763 BC: Isin-Larsa Period
+1894 - 1595 BC: Old/First Babylonian Empire/Dynasty by King Hammurabi
+1531 - 1155 BC: Kassaties and their Sack of Babylon
 
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East
