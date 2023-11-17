@@ -1,8 +1,11 @@
 - The Rise of Jewish Capitalism under Catholic Persecution
-- The First Crusade
+- Edict of Expulsion 1290
+	- ![[Expulsion_judios-en.svg.png]]
+	- This is the image Bassem showed Piers, I got this from Wikipedia after jumping around from Aliens Act 1905
+- The First Crusade and the murder of 2000 Jews, instead of Muslims
 	- Saladin was important only in the Third Crusade
 - The Jewish Problem
 - The Jewish Question
 - The Aliens Act 1905
 - Balfour Declaration and Antisemitism
-- The Final Answer to the Jewish Question
+- "The Final Solution to the Jewish Question"

@@ -372,7 +372,15 @@
             }
           },
           {
-            "id": "1a684091766acfcd",
+            "id": "e0396e5f6481e806",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca67ff5eded0791e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -382,14 +390,6 @@
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fc2cc9800a986908",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -459,6 +459,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -475,6 +476,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -493,7 +495,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The History of Oppression of Jews.md"
+              }
             }
           },
           {
@@ -541,9 +545,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fc2cc9800a986908",
+  "active": "ca67ff5eded0791e",
   "lastOpenFiles": [
     "The History of Oppression of Jews.md",
+    "_images/Expulsion_judios-en.svg.png",
     "Intention as a Force.md",
     "Defining Terrorism.md",
     "Religions and Walled Gardens.md",
@@ -568,7 +573,6 @@
     "Untitled 1.md",
     "Unfair practices.md",
     "Tools for animating 3D models in Web.md",
-    "Telemetry.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
@@ -583,7 +587,6 @@
     "_images/Sumerian Cuneiform.jpg",
     "_images/MapChart_Map-Israel-Stripe.png",
     "_images/Arab-Israeli Ma.png",
-    "_images/MapChart_Map-Cisjordan.png",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
