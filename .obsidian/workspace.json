@@ -396,9 +396,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c02e76be58a65622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The True Principles of Life Which are suppressed in society.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -465,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spectral Efficiency.md",
+                "file": "The True Principles of Life Which are suppressed in society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spectral Efficiency.md",
+                "file": "The True Principles of Life Which are suppressed in society.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -502,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spectral Efficiency.md"
+                "file": "The True Principles of Life Which are suppressed in society.md"
               }
             }
           },
@@ -551,8 +564,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2f60c80a44c8d33d",
+  "active": "c02e76be58a65622",
   "lastOpenFiles": [
+    "The True Principles of Life Which are suppressed in society.md",
     "Spectral Efficiency.md",
     "The History of Oppression of Jews.md",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
@@ -580,7 +594,6 @@
     "Why people join religions.md",
     "Why capitalism is harmful to society.md",
     "Why abandon proprietary technology.md",
-    "Why I hate Indian Movies.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
