@@ -4,6 +4,12 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > [!NOTE] Different Nations
 > US: A western stranger nation, who merely adopted Christianity from the Spaniards, but are more capitalist
 > Jews: A persecuted identity, who were forced to develop capitalism as the only means of survival
+> Arabs: A community close to the Jews, where Islam originated
+
+> All Christian institutions in India are funded by the imperial British.
+> Britain established Christian missionaries, schools and hospitals in India with better services.
+> These private hospitals could've shared their profits to help bring up the standards of other government hospitals, but they chose not to.
+> UK also funds India a lot as business investments.
 
 - The Rise of Jewish Capitalism under Catholic Persecution
 - Edict of Expulsion 1290
