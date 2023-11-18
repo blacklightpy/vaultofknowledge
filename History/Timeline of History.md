@@ -60,7 +60,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- It was the Greek name for the valley between the rivers Euphrates and Tigris in modern day Iraq.
 	- Mesopotamia and the Levant comprised the Fertile Crescent
 	- 4100 BC: The first "civilization" in Mesopotamia was that of Sumer, during the Uruk Period
-- 3500 BC Indo-European nomads from the European steppe learn to tame horses and cattle
+- 3500 BC Indo-European nomads from the European steppe learn to tame horses and cattle, which helped during the Piora Oscillation, a cold period post the Holocene Climatic Optimum
 [3300 BC Bronze Age]
 - Nile Valley Civilization (Egypt)
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
