@@ -423,9 +423,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- So they went back on their promise and divided the middle east into a number of League of Nations Mandates controlled by Britain and France
 - 1919: Paris Peace Conference and the establishment of League of Nations
 	- The League of Nations was established to make sure that countries don't invade other countries
-	- That's when all countries were fixed and decided
+		- That's when all countries were fixed and decided
 	- Japan still got to keep all the land they took from Germany
+	- The Allied powers were confronted with the question of the disposal of the former German colonies in Africa and the Pacific, and the several Arabic-speaking provinces of the Ottoman Empire.
 	- League of Nations Mandates were also set up
+		- The Allied powers wanted to annex the captured lands of the Central powers, but instead, they decided to just supervise it until the inhabitants decide to achieve self-governance and independence
 		- The mandates were governed by the seven mandatory powers, except the Kingdom of Iraq, which joined the League of Nations in 1932
 		- British Mandate for Palestine
 			- Formed Mandatory Palestine
