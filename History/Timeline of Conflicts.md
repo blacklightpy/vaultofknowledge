@@ -379,6 +379,7 @@ Ancient Greeks (Macedonian Empire)
 - US kicks Panama out of Panama and makes the Panama canal
 - 1908 AD: Britain found oil in the Middle East
 - Qing dynasty of China is tired of Britan, France, Germany, Russia and Japan trying to conquer them so they dissolve and form the Republic of China, which is controlled by Yuan Shikai of the Qing Dynasty
+- 1910: Japanese Empire annexed Korea
 
 > [!NOTE] INTERMEDIATE NOTE: Antisemitism and "Scientific" Racism
 >- In the 1850s, French writer Joseph Arthur de Gobineau developed a theory of Aryan master race and Nordicism.

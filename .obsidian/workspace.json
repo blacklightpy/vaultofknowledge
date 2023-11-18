@@ -424,19 +424,6 @@
             }
           },
           {
-            "id": "3d98e701da96d371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Influential Communist Leaders.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5851ba5c0bef04dc",
             "type": "leaf",
             "state": {
@@ -450,7 +437,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -517,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Influential Communist Leaders.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -534,7 +521,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Influential Communist Leaders.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -554,7 +541,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Influential Communist Leaders.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -603,10 +590,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3d98e701da96d371",
+  "active": "5f197e4778a27596",
   "lastOpenFiles": [
-    "History/Timeline of Conflicts.md",
     "Influential Communist Leaders.md",
+    "History/Timeline of Conflicts.md",
     "Famous Philosophers.md",
     "Social Philosophies.md",
     "Be happy, not proud.md",
