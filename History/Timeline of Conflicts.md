@@ -463,6 +463,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- US Helped Britain, and stopped helping Japan because their friends are not friends of their friends, and also because they wanted to invade the entire East and Pacific
 	- US did not want to focus on the war, caring about their image
 	- 1941: Japan attacks Pearl Harbour, Hawaii
+	- So US entered the war
+	- So Allied Powers (Britain, France, US, China, etc.) vs Axis/Central Powers (Germany, Italy, Japan, etc.)
 	- Holocaust
 	- Death of Hitler
 	- Atomic bombs
