@@ -517,7 +517,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the "fascist West Berlin who conspires to prevent the will of the peopl"
 - 1969: Space Race
 - Vietnam War
-	- Vietnam was a French colony, and some of it was invaded by Japan during World War II
+	- Viet Minh declared Vietnamese Independence from Japan after World War II, but France still wanted to rule it
+	- 1954: Treaty of Geneva decided that 17th parallel north should divide Vietnam until elections could be held
+	- Elections were never held, North Vietnam was a communist state led by Ho Chi Minh and South Vietnam was a capitalist republic led by Ngo Dinh Diem.
+	- Viet Minh wan
 	- North Vietnam + China + USSR + communist allies vs South Vietnam + US + anti-communist allies
 	- US joined the war because it was afraid of the spread of communism
 	- US believed that if one country became communist, all neighbouring countries would become communist
