@@ -38,7 +38,16 @@
 
 There are many, but I'll name just a few I'm familiar with:
 - Indo-European > Anatolian, Indo-Iranian
+	- Pre-Anatolian (4200 BC)
+	- Pre-Tocharian (3700 BC)
+	- Pre-Germanic (3300 BC)
+	- Pre-Italic and Pre-Celtic (3000 BC)
+	- Pre-Armenian (2800 BC)
+	Pre-Balto-Slavic (2800 BC)
+	Pre-Greek (2500 BC)
+	Proto-Indo-Iranian 
 	- Greek, Armenian
 	- Celtic, Slav, Baltic, Germanic, Italic
+	- North Germanic, West Germanic, East Germanic
 - Afro-Asiatic > Semitic Languages
 - Dravidian > Malayalam, Tamil
