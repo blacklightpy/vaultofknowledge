@@ -16,4 +16,4 @@ By marketing, they will have access to more belongings and a better lifestyle, a
 
 No one could've ever forced (aside from by slavery) someone to do some common good for all people. If a man worked just enough for himself, there would be no reason for people to hate him.
 
-The only thing that could've happened is that a person had the resources to help others, such as if the place where a person
+The only thing that could've happened is that a person had the resources to help others, such as if the place where a person chose to live had a lake, or if a tree a person planed bore more fruits than what the average tree in a place grew. In such cases it would be reasonable to assume that people would've desired the fruits of his tree, and would've argued that the tree is the common property of all people. Note that the tree did not belong to the person, it was only nurtured by them.
