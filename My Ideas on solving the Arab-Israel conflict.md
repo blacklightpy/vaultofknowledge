@@ -18,6 +18,10 @@ Nevertheless, if the countries wish to implement the law among themselves, they 
 - Islamic monarchies
 - Islamic republics
 
+Examples:
+- Arabs are just the Arab speaking nations
+- Turks, P
+
 > [!NOTE] **These are the properties of an Islamic state:**
 >The guiding principles of an Islamic government is the concept of Al-Shura. The general consensus is that it should have the following:
 >- Meeting or consultation that follows the teachings of Islam.
