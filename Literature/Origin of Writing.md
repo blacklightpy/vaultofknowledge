@@ -47,12 +47,19 @@ There are many, but I'll name just a few I'm familiar with:
 	- Pre-Greek (2500 BC)
 	- Proto-Indo-Iranian (2200 BC)
 	- Evolution From Then
-		- 1500-500 BC
-			- pre-Proto-Germanic develops in Scandinavia during Nordic Bronze Age
-			- pre-Proto-Celtic Urnfield and Hallstatt cultures emerge in Central Europe, introducing the Iron Age
-			- Indo-Aryans move to India and start the Vedic Age and the
+		- 1500 - 1000 BC
+			- Pre-Proto-Germanic develops in Scandinavia during Nordic Bronze Age
+			- Pre-Proto-Celtic Urnfield and Hallstatt cultures emerge in Central Europe, introducing the Iron Age
+			- Indo-Aryans move to India and start the Vedic Age and the Iron Age in Punjab
 			- Proto-Italic speakers move to the Italian peninsula
-			- 
+			- Hittites go extinct
+			- Mycenaean civilization makes way for Greek Dark Ages
+			- Iranian speakers start migrating towards Greater Iran
+			- Balto-Slavic splits into Baltic and Slavic
+		- 1000 - 500 BC
+			- Celtic Languages spread to Central and Western Europe, including Britain
+			- Baltic languages were spoken in modern day Poland to Moscow
+			- Pre-Proto-Germanic gives rise to Proto-Germanic in Scandinavia
 
 	- Greek, Armenian
 	- Celtic, Slav, Baltic, Germanic, Italic
