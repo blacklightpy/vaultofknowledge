@@ -12,4 +12,8 @@ In the same sense, the world wasn't waiting for you to save it. The world is alw
 
 Also, everyone has their own interests, but not everything may be valued by the rest of the people due to shared beliefs. In that case, pride only creates a sense of separation from the rest, making you feel that you are better than the rest, either because you are better at something than other people or if you are interested in something that other people do not value. This also makes people not want to share the knowledge or tricks which they used to get better at it with other people to preserve their superiority, and some of them may choose to market it for other benefits.
 
-By marketing, they 
+By marketing, they will have access to more belongings and a better lifestyle, and they'll fail to realize natural belongings, food for example belonged to everyone as a whole, in other words, to nature. It is through pride of the ego that we invented marketing, for marketing, we invented "ownership", and that's how we deviated from nature.
+
+No one could've ever forced (aside from by slavery) someone to do some common good for all people. If a man worked just enough for himself, there would be no reason for people to hate him.
+
+The only thing that could've happened is that a person had the resources to help others, such as if the place where a person
