@@ -11,4 +11,3 @@
 # Of Pre-Modern Era
 - Hegel
 - Immanuel Kant
-- Karl Marx

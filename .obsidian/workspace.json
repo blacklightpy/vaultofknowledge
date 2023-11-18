@@ -416,7 +416,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/Origin of Writing.md",
+                "file": "History/Timeline of Conflicts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -429,7 +429,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Famous Philosophers.md",
+                "file": "Famous General Philosophers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -437,7 +437,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -504,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Famous Philosophers.md",
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -521,7 +521,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Famous Philosophers.md",
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -541,7 +541,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Famous Philosophers.md"
+                "file": "History/Timeline of Conflicts.md"
               }
             }
           },
@@ -590,13 +590,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5851ba5c0bef04dc",
+  "active": "5f197e4778a27596",
   "lastOpenFiles": [
     "Literature/Origin of Writing.md",
+    "Famous General Philosophers.md",
+    "Influential Communist Leaders.md",
     "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
     "History/Timeline of Conflicts.md",
-    "Influential Communist Leaders.md",
-    "Famous Philosophers.md",
     "Social Philosophies.md",
     "Be happy, not proud.md",
     "Barbie The Movie.md",
