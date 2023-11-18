@@ -524,12 +524,14 @@ With agriculture, food became more reliable, but less varied, and people became 
 		- Diem was corrupted and didn't give lands to the peasants. He also hated Buddhism. 
 	- A war broke out between North and South Vietnam
 	- From 1958, South Vietnam was attacked by the South Vietnamese communist group, National Liberation Front (NLF)
-	- 1964: North V
+	- 1964: North Vietnam attacked a US patrolling ship in the Gulf of Tonkin, Vietnam
+	- There was also a questionable attack in Washington, but US took this as fact to escalate the war.
 	- North Vietnam + China + USSR + communist allies vs South Vietnam + US + anti-communist allies
 	- US joined the war because it was afraid of the spread of communism
 	- US believed that if one country became communist, all neighbouring countries would become communist
 		- That is, if South Vietnam fell to communism, Indonesia, Thailand, Burma, Malaysia, Laos, and Cambodia would too.
-- 1973: Paris Peace Accords
+	- US dropped more than twice the amount of bombs used in the entirety of World War II
+- 1973: Paris Peace Accords ordering US to withdraw their troops from Vietnam
 - 1975: Communist North Vietnam gains control of South Vietnam
 - 1976: Socialist Republic of Vietnam forms
 - Other countries got independence, but there was neo-colonialism
