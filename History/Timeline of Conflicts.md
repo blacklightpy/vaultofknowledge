@@ -270,7 +270,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Vietnam, or Dia Vet unconquered itself
 - Korea, or Goryeo became itself
 - 1192 AD: Japan is so addicted to art that the Samurais form the Shogunate military and takes over
-	- They let the emperor still be the emperor, but the Shogunate is actually the leader
+	- They let the emperor still be the emperor, but the Shogun is actually the leader
 - China invented bombs and typing
 ## Time Period 13 (1200-1400)
 ### Eurasia
