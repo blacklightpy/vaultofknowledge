@@ -426,6 +426,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- That's when all countries were fixed and decided
 	- Japan still got to keep all the land they took from Germany
 	- League of Nations Mandates were also set up
+		- The mandates were governed by the seven mandatory powers, except the Kingdom of Iraq, which joined the League of Nations in 1932
 		- British Mandate for Palestine
 			- Formed Mandatory Palestine
 			- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
