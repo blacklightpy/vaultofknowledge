@@ -37,7 +37,7 @@
 > Database of languages and families: https://glottolog.org/glottolog/family
 
 There are many, but I'll name just a few I'm familiar with:
-- Indo-European ()
+- Indo-European (Includes Vedic Sanskrit, Greek, Hittite, Latin, etc.)
 	- Pre-Anatolian (4200 BC)
 		- Hittite (Earliest recorded Indo-European Language)
 	- Pre-Tocharian (3700 BC)
