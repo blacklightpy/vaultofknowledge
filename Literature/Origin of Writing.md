@@ -60,7 +60,8 @@ There are many, but I'll name just a few I'm familiar with:
 		- 1000 - 500 BC
 			- Celtic Languages spread to Central and Western Europe, including Britain
 			- Baltic languages were spoken in modern day Poland to Moscow
-			- Indo-Aryan tongue reaches eastwards to a broader Mahajanapadas, giving rise to Greater Magadha cultural sphere, where Mahavira preaches Jainism and Gautama Buddha preaches Buddhism.
+			- Homer writes the Epics Iliad and Odyssey
+			- Indo-Aryan tongue reaches eastwards to a broader Mahajanapadas, 16 kingdoms, giving rise to Greater Magadha cultural sphere, where Mahavira preaches Jainism and Gautama Buddha preaches Buddhism.
 			- In Iran, Zoroaster composes Gathas.
 			- Pre-Proto-Germanic gives rise to Proto-Germanic in Scandinavia
 			- Achaemenid Empire replaces the Elamites and Babylonia
@@ -137,7 +138,11 @@ There are many, but I'll name just a few I'm familiar with:
 			- Modern dialects of Indo-European languages start emerging.
 		- 1500–2000 (Early Modern period to present)
 			- Colonialism results in the spread of Indo-European languages to every habitable continent, most notably:
-				- Romance, to North, Central and South America, North and Sub-Saharan Africa, West Asia
+				- Romance (or Latin or Neo-Latin Languages), to North, Central and South America, North and Sub-Saharan Africa, West Asia
+					- Spanish
+					- Portugese
+					- French
+					- Italian
 				- West Germanic, to North America, Sub-Saharan Africa, East Asia and Australia
 					- English
 					- Dutch and German
