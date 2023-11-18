@@ -507,7 +507,12 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1949: China becomes the People's Republic of China
 	- Kuomintang national party disagreed, so they moved to an island named Taiwan and called in the Taiwan Republic of China
 - 1949: Geneva Conventions of 1949 to define humanitarian rules during war
-- 1950 Korean war. No one wins, but South Korea is backed by US and North Korea is backed by Russia.
+- 1950 Korean war, when North Korea crossed the 38 North latitude
+	- UN Security Council Resolution 82 asked them to retreat to north of 38 North.
+	- UN troops, mostly American, aid South Koreans
+	- In 1953 Armistice Agreement, a new line was formed to separate North Korea and South Korea.
+	- The Military Demarcation Line is surrounded by a demilitarized zone (DMZ)
+		- ![[Korea_DMZ.svg.png]]
 - 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the "fascist West Berlin who conspires to prevent the will of the peopl"
 - 1969: Space Race
 - Vietnam War
