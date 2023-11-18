@@ -70,7 +70,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Norte Chico / Caral Supe Civilization (Mesoamerica)
 
 ---
-### Kingdoms to sort and chronological list of civilizations
+## Kingdoms to sort and chronological list of civilizations
 
 > [!NOTE] Sorting Kingdoms
 > 
