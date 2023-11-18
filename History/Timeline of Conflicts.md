@@ -424,6 +424,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1919: Paris Peace Conference and the establishment of League of Nations
 	- The League of Nations was established to make sure that countries don't invade other countries
 		- That's when all countries were fixed and decided
+		- US didn't join it because Article X would require it to help other nations under war, which threated
 	- The Allied powers had to decide what to do about the German colonies in Africa and the Pacific, and the Arabic-speaking provinces of the Ottoman Empire.
 	- The Allied powers originally wanted to annex the captured lands of the Central powers, but instead, they decided to just supervise it until the inhabitants decide to achieve self-governance and independence.
 	- So the League of Nations Mandates were also set up
@@ -497,6 +498,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 		- Lehi's main aim was to remove British authorities and establish a Jewish state. It referred to it's members as terrorists.
 	- 1948 War
 		- HK of Transjordan annexed West Bank and was renamed to HK of Jordan
+	- 1949: Israel was admitted to the UN, and it had accumulated 78% of historic Palestine, and the remaining 22% was Gaza and West Bank. Many Palestinians were refugees, waiting to return home.
 	- 1967 War (Six Day War)
 	- 1982 Lebanon War
 	- 1993 Oslo Peace Accords with the Palestine Liberation Organization (PLO)
