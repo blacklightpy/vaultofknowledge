@@ -448,10 +448,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 29 Oct 1923: Ankara was declared the capital of the Turkish Republic
 	- 3 March 1924: The last caliphate, the Sultanate of Ottoman Empire Caliphate was abolished by Mustafa Kemel Ataturk
 - ibn Saud and team formed Saudi Arabia
-- 1926: Germany was accepted into the League of Nations thinking tthe
+- 1926: Germany was accepted into the League of Nations thinking they've become peaceful
 - Formation of Nationalist Socialist German Workers party
 - 1929: The Great Depression in the US
 - 1931: Japan seizes Manchuria from China, and instead of removing their troops as voted by the members, they withdrew from the League of Nations
+- 1933: Hitler rose to power, and withdrew from the League of Nations and the World Disarmament Conference
 - 1937: Japan has an empire, and they rape Nanking, but then they deny it
 - 1939: After the invasion of Poland and Finland by Soviet Union, they were expelled from the League of Nations
 - 1939: World War 2
