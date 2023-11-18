@@ -379,15 +379,16 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 1899: Japan captures the Liaodong Peninsula, but Russians said they wanted to build a railroads there to get more water. So under military supervision, they build it.
 	- 1902: Because Russia doesn't let Japan invade northwards, Japan forms an alliance with Britain, who are also scared of Russia.
 	- 1904: Russo-Japanese War, but no one wins and they just stop
-	- 1905: Japan makes a treaty with Korea making it a protectorate under Imperial Japan
+	- 1905: Japanese Empire makes a treaty with Korea making it a protectorate under Imperial Japan
+	- 1907: Japanese Empire makes a treaty with Korea making it deprived of administrative affairs
+	- 1910: Japanese Empire makes a treaty with Korea, formally annexing it
 - US captures Hawaii
 - Spain controls Cuba, so they blame the destruction of USS Maine on Spain and goes to war with them
 	- 1898 Spanish American War
 	- Now they have business with Philippines
 - US kicks Panama out of Panama and makes the Panama canal
 - 1908 AD: Britain found oil in the Middle East
-- Qing dynasty of China is tired of Britan, France, Germany, Russia and Japan trying to conquer them so they dissolve and form the Republic of China, which is controlled by Yuan Shikai of the Qing Dynasty
-- 1910: Japanese Empire annexed Korea
+- Qing dynasty of China is tired of Britain, France, Germany, Russia and Japan trying to conquer them so they dissolve and form the Republic of China, which is controlled by Yuan Shikai of the Qing Dynasty
 
 > [!NOTE] INTERMEDIATE NOTE: Antisemitism and "Scientific" Racism
 >- In the 1850s, French writer Joseph Arthur de Gobineau developed a theory of Aryan master race and Nordicism.
