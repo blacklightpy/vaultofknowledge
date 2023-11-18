@@ -31,9 +31,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 > ![[Centres_of_origin_and_spread_of_agriculture.svg.png]]
 > Map of the world showing approximate centres of origin of agriculture and its spread in prehistory: the Fertile Crescent (11,000 BP), the Yangtze and Yellow River basins (9,000 BP) and the Papua New Guinea Highlands (9,000–6,000 BP), Central Mexico (5,000–4,000 BP), Northern South America (5,000–4,000 BP), sub-Saharan Africa (5,000–4,000 BP, exact location unknown), eastern North America (4,000–3,000 BP).
 # Holocene Epoch Begins
-# 4 Millenia BC (5000-2500 BC)
+# 6-3 Millenia BC (55000-2500 BC)
 - 5400 BC: Sumerian settlements begin
-- Indo-European Horse nomads appear
+- 5200 BC Indo-European nomads learn to tame horses and cattle
 - 8000 BC: Neolithic settlements
 - 6000 BC: Neolithic settlements appear all over Egypt
 - West Asia
@@ -43,15 +43,14 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Mesopotamia and the Levant comprised the Fertile Crescent
 	- 4100 BC: The first "civilization" in Mesopotamia was that of Sumer, during the Uruk Period
 [3300 BC Bronze Age]
-- Nile Valley (Egypt)
-- North China Plain (Eastern China)
-- Indus River Valley / Harappan (Northwest India and Pakistan)
-- Norte Chico / Caral Supe (Mesoamerica)
-
+- Nile Valley Civilization (Egypt)
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
+- North China Plain Civilization (Eastern China)
+- Indus River Valley / Harappan Civilization (Northwest India and Pakistan)
+- Norte Chico / Caral Supe Civilization (Mesoamerica)
 
 ---
-### Kingdoms:
+### Kingdoms to sort and chronological list of civilizations:
 
 > [!NOTE] Sorting Kingdoms
 > 
@@ -380,6 +379,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - [British Ceylon](https://en.wikipedia.org/wiki/British_Ceylon "British Ceylon")   (1815–1948 CE)
 
 ---
+
+---
+# 3 Millenia BC
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East
 - 2700 - 1500 BC: Middle east is getting complicated: Mitanni, Assyria, Babylon, Elam, Hyksos (Canaanites in Egypt and Sinai)
