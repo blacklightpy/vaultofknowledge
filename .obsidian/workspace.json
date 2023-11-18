@@ -450,7 +450,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -517,7 +517,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Famous Philosophers.md",
+                "file": "Influential Communist Leaders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -534,7 +534,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Famous Philosophers.md",
+                "file": "Influential Communist Leaders.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -554,7 +554,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Famous Philosophers.md"
+                "file": "Influential Communist Leaders.md"
               }
             }
           },
@@ -603,7 +603,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5851ba5c0bef04dc",
+  "active": "3d98e701da96d371",
   "lastOpenFiles": [
     "Famous Philosophers.md",
     "Influential Communist Leaders.md",

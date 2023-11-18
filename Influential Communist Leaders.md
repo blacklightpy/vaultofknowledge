@@ -1,2 +1,5 @@
 - Karl Marx and Friedrich Engels
-- 
+- Vladimir Lenin
+- Joseph Stalin
+- Mao Zedong
+- Ho Chi Minh
