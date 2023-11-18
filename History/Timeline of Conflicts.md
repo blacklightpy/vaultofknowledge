@@ -26,11 +26,12 @@ With agriculture, food became more reliable, but less varied, and people became 
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
 # 4 Millenia BC (5000-2500 BC)
-- 5400 BC: Sumerian civilization begins in Mesopotamia
+- 5400 BC: Sumerian settlements begin
 - Indo-European Horse nomads appear
-- Fertile Crescent (Ancient Mesopotamia and the Levant)
-	- Mesopotamian civilization originated in the valley between the rivers Euphrates and Tigris in modern day Iraq.
 [5000 BC: Chalcolithic Age]
+- Fertile Crescent was the land comprisiAncient Mesopotamia and the Levant)
+	- Mesopotamian civilization originated in the valley between the rivers Euphrates and Tigris in modern day Iraq.
+	- The first civilization in Mesopotamia was the Sumerian Civilization
 [3300 BC Bronze Age]
 - Nile Valley (Egypt)
 - North China Plain (Eastern China)
