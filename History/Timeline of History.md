@@ -432,7 +432,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
 - Some of the Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
 	- Hinduism was a combination of the Aryan Vedas and the Dravidian Hinduism
-	- The Vedas included the yajnas and yaagams
+	- The Vedas included the yajnas, yaagams, etc.
 	- So Hinduism has a lot in common with Zoroastrianism.
 	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
 	- [Indo-Iranians split into Iranians and Indo-Aryans]
