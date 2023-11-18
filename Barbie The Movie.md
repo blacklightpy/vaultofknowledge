@@ -4,6 +4,8 @@ He says, the core message is:
 - Matriarchy is good, patriarchy is bad
 - The only way to escape patriarchy is to hate men
 
-I'm not usually a fan of Ben as he's conservative and I disagree with him a lot, but I believe Barbie movie could potentially be used as a movement to separate men and women in the name of feminisim.
+I'm not usually a fan of Ben as he's conservative and I disagree with him a lot, but I believe Barbie movie could potentially be used as a movement to separate men and women in the name of feminism. If it is about rights, any means to do it is fair, right?
 
-If it is about rights, we can
+I believe feminism is important in that women need to be free of the fixed rules placed on them, and it has nothing to do with hating the other gender. It's certainly not all men who are responsible for this, but that's the reasoning used here.
+
+"Skewed feminism" isn't much different from "skewed counter-terrorism" or "skewed Islamic jihad" (a spiritual war) or "skewed Christianity".
