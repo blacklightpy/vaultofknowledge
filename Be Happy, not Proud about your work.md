@@ -18,8 +18,10 @@ No one could've ever forced (aside from by slavery) someone to do some common go
 
 The only thing that could've happened is that a person had the resources to help others, such as if the place where a person chose to live had a lake, or if a tree a person planed bore more fruits than what the average tree in a place grew. In such cases it would be reasonable to assume that people would've desired the fruits of his tree, and would've argued that the tree is the common property of all people. Note that the tree did not belong to the person, it was only nurtured by them. This is bad, because while the tree was the common property of all people, they did not nurture it together.
 
-The only fair way of life is when people take care of everything th
+The only fair way of life is when people take care of everything that matters to them together. In the communist parlance, this is that whatever affects a group of people should be collectively owned by that group of people.
 
-One might say that if there is no concept of ownership, people will be lazy and will never do anything. But that is totally meaningless, because why would people even work under capitalism? It is for survival, and that is the same without money. The only differences would be benefits such as equality and reduced unnecessary labour.
+One might say that if there is no concept of ownership, people will be lazy and will never do anything. But that is totally meaningless, because why would people even work under capitalism? It is for survival, and that is the same without money. The only differences would be benefits such as equality and reduced unnecessary labour. If they give the example of Scar's rule in Lion King, it still doesn't address what people will do for survival. It somehow assumes that people will be okay with starving due to emptying the resources by endless and mindless consumption. But does that not make it seem like people are no longer concerned with sustainable growth for their survival? If that was the case, why do we see people always fight for survival under capitalism? 
 
-They might say no development will c
+They might say no development will take place
+
+Tags for to#capitalism #pride
