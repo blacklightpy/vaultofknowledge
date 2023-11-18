@@ -375,6 +375,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Then the Americans kick out the Mexicans to the south
 - 1884 AD: Europe rapes Africa (They got everywhere except Ethiopia)
 - Britain and France gets Southeast Asia (Burma, French Indochina, Malaya, Sarawak, Dutch East Indies, Philippines (Spain)) (They didn't get Thailand)
+- 1894: Japan conquers Korea from China following the footsteps of the west
+	- 1899: Japan captures the Liaodong Peninsula, but Russians said they wanted to build a railroads there to get more water. So under military supervision, they build it.
 - US captures Hawaii
 - Spain controls Cuba, so they blame the destruction of USS Maine on Spain and goes to war with them
 	- 1898 Spanish American War
