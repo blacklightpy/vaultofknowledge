@@ -1,4 +1,9 @@
-The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they persevered in their identity. The Christians tossed them around throughout Europe.
+The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties.
+
+
+> [!NOTE] Different Nations
+> US: A western stranger nation, who merely adopted Christianity from the Spaniards, but are more capitalist
+> Jews: A persecuted identity, who were forced to develop capitalism as the only means of survival
 
 - The Rise of Jewish Capitalism under Catholic Persecution
 - Edict of Expulsion 1290
