@@ -409,9 +409,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f197e4778a27596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of Conflicts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -478,6 +491,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Timeline of Conflicts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -494,6 +508,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Timeline of Conflicts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -512,7 +527,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Timeline of Conflicts.md"
+              }
             }
           },
           {
@@ -560,11 +577,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "5f197e4778a27596",
   "lastOpenFiles": [
+    "The true principles of life which are suppressed in society.md",
     "The History of Oppression of Jews.md",
     "Spectral Efficiency.md",
-    "The true principles of life which are suppressed in society.md",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
