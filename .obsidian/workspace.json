@@ -411,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -440,7 +440,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "torah",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -478,7 +478,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +494,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -514,9 +512,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The History of Oppression of Jews.md"
-              }
+              "state": {}
             }
           },
           {
@@ -564,11 +560,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ca67ff5eded0791e",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "The History of Oppression of Jews.md",
     "Spectral Efficiency.md",
     "The true principles of life which are suppressed in society.md",
-    "The History of Oppression of Jews.md",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
