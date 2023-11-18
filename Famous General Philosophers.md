@@ -1,6 +1,7 @@
 ## Arab
 - Al-Khwarizmi
 ## Greek
+- Eratosthenes of Cyrene
 - Aristotle
 - Socrates
 - Diogenes
