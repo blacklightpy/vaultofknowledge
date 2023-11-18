@@ -472,6 +472,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- US tries to see if Atom bombs work by dropping one on Japan. They had one more so they dropped that too.
 - 1945: Japan is now controlled by US
 	- US establishes USA Military Government in Japanese Korea
+	- 38th Parallel Latitude was established as a boundary between Russian and US Occupied Korea
 	- 1948: Japanese Korea is granted independence as The Republic of Korea (South Korea)
 	- US establishes a new government in Japan inspired by their own government, where government closely cooperates with the industry
 - 1946: The League of Nations was abolished and the United Nations took its place
@@ -511,6 +512,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1969: Space Race
 - Vietnam War
 	- North Vietnam + USSR vs South Vietnam + US
+- 1973: Paris Peace Accords
+- 1975: Communist North Vietnam gains control of South Vietnam
+- 1976: Socialist Republic of Vietnam forms
 - Other countries got independence, but there was neo-colonialism
 - Martin Luther King Jr. abolishes racism
 - South Africa's Apartheid regime
