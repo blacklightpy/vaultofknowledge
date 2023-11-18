@@ -37,7 +37,7 @@
 > Database of languages and families: https://glottolog.org/glottolog/family
 
 There are many, but I'll name just a few I'm familiar with:
-- Indo-European > Anatolian, Indo-Iranian
+- Indo-European
 	- Pre-Anatolian (4200 BC)
 	- Pre-Tocharian (3700 BC)
 	- Pre-Germanic (3300 BC)
@@ -66,3 +66,7 @@ There are many, but I'll name just a few I'm familiar with:
 	- North Germanic, West Germanic, East Germanic
 - Afro-Asiatic > Semitic Languages
 - Dravidian > Malayalam, Tamil
+
+
+# Images
+![[Indo-European_language_tree_(with_major_international_languages_highlighted).svg]]
