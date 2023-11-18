@@ -72,17 +72,29 @@ There are many, but I'll name just a few I'm familiar with:
 			- Germanic speakers start migrating southwards to occupy formerly Celtic territories.
 			- Scythian cultures extend from Eastern Europe (Pontic Scythians) to Northwest China (Ordos culture).
 		- 1 BC – AD 500
-		- Late Antiquity, Gupta period; attestation of Armenian.
-		- Proto-Slavic emerges
-		- The Roman Empire and then the Germanic migrations marginalize the Celtic languages to the British Isles. Sogdian, an eastern Iranian language, becomes the lingua franca of the Silk Road in Central Asia leading to China, due to the proliferation of Sogdian merchants there. Greek settlements and Byzantine rule make the last Anatolian languages extinct. Turkic languages start replacing Scythian languages.
-500–1000: Early Middle Ages. The Viking Age forms an Old Norse koine spanning Scandinavia, the British Isles and Iceland. Phrygian becomes extinct. The Islamic conquests and the Turkic expansion result in the Arabization and Turkification of significant areas where Indo-European languages were spoken, but Persian still develops under Islamic rule and extends into Afghanistan and Tajikistan. Due to further Turkic migrations, Tocharian becomes fully extinct while Scythian languages are overwhelmingly replaced. Slavic languages spread over wide areas in central, eastern and southeastern Europe, largely replacing Romance in the Balkans (with the exception of Romanian) and whatever was left of the Paleo-Balkan languages with the exception of Albanian. Pannonian Basin is taken by the Magyars from the western Slavs.
+			- Late Antiquity, Gupta period; attestation of Armenian.
+			- Proto-Slavic emerges
+			- The Roman Empire and then the Germanic migrations marginalize the Celtic languages to the British Isles. Sogdian, an eastern Iranian language, becomes the lingua franca of the Silk Road in Central Asia leading to China, due to the proliferation of Sogdian merchants there. Greek settlements and Byzantine rule make the last Anatolian languages extinct. Turkic languages start replacing Scythian languages.
+		- 500–1000: Early Middle Ages. The Viking Age forms an Old Norse koine spanning Scandinavia, the British Isles and Iceland. Phrygian becomes extinct. The Islamic conquests and the Turkic expansion result in the Arabization and Turkification of significant areas where Indo-European languages were spoken, but Persian still develops under Islamic rule and extends into Afghanistan and Tajikistan. Due to further Turkic migrations, Tocharian becomes fully extinct while Scythian languages are overwhelmingly replaced. Slavic languages spread over wide areas in central, eastern and southeastern Europe, largely replacing Romance in the Balkans (with the exception of Romanian) and whatever was left of the Paleo-Balkan languages with the exception of Albanian. Pannonian Basin is taken by the Magyars from the western Slavs.
 1000–1500: Late Middle Ages: Attestation of Albanian and Baltic. Modern dialects of Indo-European languages start emerging.
 1500–2000: Early Modern period to present: Colonialism results in the spread of Indo-European languages to every habitable continent, most notably Romance (North, Central and South America, North and Sub-Saharan Africa, West Asia), West Germanic (English in North America, Sub-Saharan Africa, East Asia and Australia; to a lesser extent Dutch and German), and Russian to Central Asia and North Asia.
 
 - Baltic
 	- East Baltic
+		- Lithuanian
+		- Latvian
+		- Latgalian
+		- Samogitian
+		- Selonian
+		- Semigallian
+		- Old Curonian
 	- West Baltic
-		- Lithuanian, Latvian, Old Prussian
+		- Skalvian
+		- Sudonian
+		- Western Galindian
+		- Old Prussian
+	- Dnieper Baltic
+		- Eastern Galindian
 
 - East Slavic languages
 	- Belarusian
@@ -119,9 +131,13 @@ There are many, but I'll name just a few I'm familiar with:
 - Celtic, Slav, Baltic, Germanic, Italic
 - North Germanic, West Germanic, East Germanic
 
-- Afro-Asiatic > Semitic Languages
-- Dravidian > Malayalam, Tamil
+- Afro-Asiatic
+	- Semitic Languages
+- Dravidian
+	- Malayalam
+	- Tamil
 
 
 # Images
-![[Indo-European_language_tree_(with_major_international_languages_highlighted).svg]]
+- Indo-European Language Families
+	- ![[Indo-European_language_tree_(with_major_international_languages_highlighted).svg]]
