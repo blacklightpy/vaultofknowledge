@@ -472,7 +472,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 		- Overnight, many Palestinians became stateless as US and Russia recognized Israel
 		- By 1949, more than 750,000 Palestinians were expelled, and more than 13000 Arabs were killed during the ethnic cleansing. It was either to leave or be killed.
 		- Folke Bernadotte, a Swedish diplomat was assigned as the mediator of the situation by the UN. He was assassinated by the Zionist group Lehi in 1948 while at Jerusalem.
-		- Lehi's main aim was to remove British Authorities from 
+		- Lehi's main aim was to remove British authorities and establish a Jewish state.
 	- 1948 War
 		- HK of Transjordan annexed West Bank and was renamed to HK of Jordan
 	- 1967 War (Six Day War)
