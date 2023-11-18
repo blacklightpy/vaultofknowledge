@@ -43,9 +43,17 @@ There are many, but I'll name just a few I'm familiar with:
 	- Pre-Germanic (3300 BC)
 	- Pre-Italic and Pre-Celtic (3000 BC)
 	- Pre-Armenian (2800 BC)
-	Pre-Balto-Slavic (2800 BC)
-	Pre-Greek (2500 BC)
-	Proto-Indo-Iranian 
+	- Pre-Balto-Slavic (2800 BC)
+	- Pre-Greek (2500 BC)
+	- Proto-Indo-Iranian (2200 BC)
+	- Evolution From Then
+		- 1500-500 BC
+			- pre-Proto-Germanic develops in Scandinavia during Nordic Bronze Age
+			- pre-Proto-Celtic Urnfield and Hallstatt cultures emerge in Central Europe, introducing the Iron Age
+			- Indo-Aryans move to India and start the Vedic Age and the
+			- Proto-Italic speakers move to the Italian peninsula
+			- 
+
 	- Greek, Armenian
 	- Celtic, Slav, Baltic, Germanic, Italic
 	- North Germanic, West Germanic, East Germanic
