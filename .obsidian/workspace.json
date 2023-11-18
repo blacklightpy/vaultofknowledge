@@ -416,7 +416,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Literature/Origin of Writing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -487,7 +487,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -503,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Literature/Origin of Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -520,7 +521,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Literature/Origin of Writing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -540,7 +541,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "Literature/Origin of Writing.md"
               }
             }
           },
@@ -591,8 +592,8 @@
   },
   "active": "5f197e4778a27596",
   "lastOpenFiles": [
-    "Influential Communist Leaders.md",
     "History/Timeline of Conflicts.md",
+    "Influential Communist Leaders.md",
     "Famous Philosophers.md",
     "Social Philosophies.md",
     "Be happy, not proud.md",

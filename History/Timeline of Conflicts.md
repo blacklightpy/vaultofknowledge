@@ -436,6 +436,7 @@ Ancient Greeks (Macedonian Empire)
 	- Holocaust
 	- Death of Hitler
 	- Atomic bombs
+	- Japan Leaves Korea
 - 1947: Independence in India, and formation of Pakistan and Bangladesh
 	- Pakistan attacks Jammu and Kashmir
 	- 1948 India-Pakistan War and establishment of Line of Control

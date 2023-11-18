@@ -38,5 +38,7 @@
 
 There are many, but I'll name just a few I'm familiar with:
 - Indo-European > Anatolian, Indo-Iranian
+	- Greek, Armenian
+	- Celtic, Slav, Baltic, Germanic, Italic
 - Afro-Asiatic > Semitic Languages
 - Dravidian > Malayalam, Tamil
