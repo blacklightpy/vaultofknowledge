@@ -27,9 +27,29 @@ With agriculture, food became more reliable, but less varied, and people became 
 - People travelled from Asia to Americas through the bridge
 - Neolithic Revolution (or the First Agricultural Revolution) in the West Asian Fertile Crescent saw the transition from hunting and gathereing to agriculture and settlements
 
-> [!NOTE] From Wikipedia
+> [!NOTE] From Wikipedia: Origin of Agricultural Settlements
 > ![[Centres_of_origin_and_spread_of_agriculture.svg.png]]
 > Map of the world showing approximate centres of origin of agriculture and its spread in prehistory: the Fertile Crescent (11,000 BP), the Yangtze and Yellow River basins (9,000 BP) and the Papua New Guinea Highlands (9,000–6,000 BP), Central Mexico (5,000–4,000 BP), Northern South America (5,000–4,000 BP), sub-Saharan Africa (5,000–4,000 BP, exact location unknown), eastern North America (4,000–3,000 BP).
+
+>[!NOTE] From Wikipedia: Indo-European migrations
+>![[Indo-European_expansions.jpg]]
+> Scheme of Indo-European language dispersals from c. 4000 to 1000 BCE according to the widely held [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis "Kurgan hypothesis").  
+> 
+> – Center: Steppe cultures  
+> 1 (black): Anatolian languages (archaic PIE)  
+> 2 (black): Afanasievo culture (early PIE)  
+> 3 (black): Yamnaya culture expansion (Pontic-Caspian steppe, Danube Valley) (late PIE)  
+> 4A (black): Western Corded Ware  
+> 4B-C (blue & dark blue): Bell Beaker; adopted by Indo-European speakers  
+> 5A-B (red): Eastern Corded ware  
+> 5C (red): Sintashta (proto-Indo-Iranian)  
+> 6 (magenta): Andronovo  
+> 7A (purple): Indo-Aryans (Mittani)  
+> 7B (purple): Indo-Aryans (India)  
+> [NN] (dark yellow): proto-Balto-Slavic  
+> 8 (grey): Greek  
+> 9 (yellow): Iranians  
+> – [not drawn]: Armenian, expanding from [Catacomb culture](https://en.wikipedia.org/wiki/Catacomb_culture "Catacomb culture") into the South Caucasus
 # Holocene Epoch Begins
 # 6-3 Millenia BC (5400-2350 BC)
 - 5400 BC: Sumerian settlements begin
