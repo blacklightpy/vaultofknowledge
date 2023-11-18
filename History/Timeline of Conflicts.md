@@ -425,12 +425,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- The League of Nations was established to make sure that countries don't invade other countries
 	- That's when all countries were fixed and decided
 	- Japan still got to keep all the land they took from Germany
-	- British Mandate for Palestine
-		- Formed Mandatory Palestine
-		- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
-		- The Balfour declaration was further confusing the issue with the Arabs
-		- Transjordan was added to the mandate after Franco-Syrian War
-	- In total, Palestine, Lebanon, Syria, Iraq, Transjordan
+	- League of Nations Mandates were also set up
+		- British Mandate for Palestine
+			- Formed Mandatory Palestine
+			- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
+			- The Balfour declaration was further confusing the issue with the Arabs
+			- Transjordan was added to the mandate after Franco-Syrian War
+		- In total, Palestine, Lebanon, Syria, Iraq, Transjordan were League of Mandates
 - 1919: Khilafat Movement
 	- It was a movement by the Muslims in India, against Britain's plan for Turkey and abolishing of the Ottoman Caliphate
 	- It was supported by Gandhi, Sardar Vallabhbhai Patel and Bal Gangadhar Tilak
