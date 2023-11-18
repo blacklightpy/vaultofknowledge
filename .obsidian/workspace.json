@@ -409,9 +409,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bd89c67ac528f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -478,7 +491,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md",
+                "file": "History/Timeline of History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +508,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md",
+                "file": "History/Timeline of History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -515,7 +528,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md"
+                "file": "History/Timeline of History.md"
               }
             }
           },
@@ -564,8 +577,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c02e76be58a65622",
+  "active": "7bd89c67ac528f53",
   "lastOpenFiles": [
+    "The true principles of life which are suppressed in society.md",
     "History/Timeline of History.md",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
@@ -578,7 +592,6 @@
     "Social Philosophies.md",
     "Be happy, not proud.md",
     "Barbie The Movie.md",
-    "The true principles of life which are suppressed in society.md",
     "The History of Oppression of Jews.md",
     "Spectral Efficiency.md",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",

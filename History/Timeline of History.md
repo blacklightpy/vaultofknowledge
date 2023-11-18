@@ -53,7 +53,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 # Holocene Epoch Begins
 # 6-3 Millenia BC (5400-2350 BC)
 - 5400 BC: Sumerian settlements begin
-- 5200 BC Indo-European nomads from the European steppe learn to tame horses and cattle
 - 8000 BC: Neolithic settlements
 - 6000 BC: Neolithic settlements appear all over Egypt
 [5000 BC: Chalcolithic Age]
@@ -61,6 +60,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- It was the Greek name for the valley between the rivers Euphrates and Tigris in modern day Iraq.
 	- Mesopotamia and the Levant comprised the Fertile Crescent
 	- 4100 BC: The first "civilization" in Mesopotamia was that of Sumer, during the Uruk Period
+- 3500 BC Indo-European nomads from the European steppe learn to tame horses and cattle
 [3300 BC Bronze Age]
 - Nile Valley Civilization (Egypt)
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
