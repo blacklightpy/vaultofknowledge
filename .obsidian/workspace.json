@@ -422,9 +422,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6aef462b0af217e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Philosophies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -491,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Social Philosophies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -508,7 +521,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Social Philosophies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -528,7 +541,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "Social Philosophies.md"
               }
             }
           },
@@ -577,11 +590,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f197e4778a27596",
+  "active": "6aef462b0af217e5",
   "lastOpenFiles": [
+    "Social Philosophies.md",
+    "History/Timeline of Conflicts.md",
     "Be happy, not proud.md",
     "Barbie The Movie.md",
-    "History/Timeline of Conflicts.md",
     "The true principles of life which are suppressed in society.md",
     "The History of Oppression of Jews.md",
     "Spectral Efficiency.md",
@@ -606,7 +620,6 @@
     "3-body systems.md",
     "home.md",
     "Wolfram Physics.md",
-    "Why people join religions.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
