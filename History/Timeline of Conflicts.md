@@ -413,6 +413,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- It was said to the The Great War that would end all wars
 	- Japan wanted to conquer a part of China and the south east islands, which where controlled by Germany
 	- Germany had war declared on Britain, because Germany was trespassing their friend Belgium to get to France to attack them because they were Friends with Russia, who was ready to attack Austria because Austria was ready to attack Serbia because someone from Serbia shot the leader of Austria in his head. And Britain was friends with Japan.
+	- They took over south east islands, and also helped Britain at Singapore, Malta and Cape Town
 - 1917: Russian Revolution
 - 1916-1918 Arab Revolt - The first ever "Arab nationalist" movement
 	- Started in 1916 to establish a unified Arab state from Aleppo (Syria) to Aden (Yemen) (middle east area)
@@ -422,6 +423,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- So they went back on their promise and divided the middle east into a number of League of Nations Mandates controlled by Britain and France
 - 1919: Paris Peace Conference and the establishment of League of Nations
 	- The League of Nations was established to make sure that countries don't invade other countries
+	- That's when all countries were fixed and decided
+	- Japan still got to keep all the land they took from Germany
 	- British Mandate for Palestine
 		- Formed Mandatory Palestine
 		- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
