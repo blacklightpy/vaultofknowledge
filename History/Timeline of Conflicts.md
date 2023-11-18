@@ -454,6 +454,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Death of Hitler
 	- Atomic bombs
 	- Japan Leaves Korea
+- 1946: The League of Nations was abolished and the United Nations took its place
 - 1947: Independence in India, and formation of Pakistan and Bangladesh
 	- Pakistan attacks Jammu and Kashmir
 	- 1948 India-Pakistan War and establishment of Line of Control
