@@ -25,12 +25,12 @@ With agriculture, food became more reliable, but less varied, and people became 
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
-- 5400 BC: Sumerian settlements
-- Indo-European Horse nomads
 # 4 Millenia BC (5000-2500 BC)
-[5000 BC: Chalcolithic Age]
+- 5400 BC: Sumerian civilization begins in Mesopotamia
+- Indo-European Horse nomads appear
 - Fertile Crescent (Ancient Mesopotamia and the Levant)
 	- Mesopotamian civilization originated in the valley between the rivers Euphrates and Tigris in modern day Iraq.
+[5000 BC: Chalcolithic Age]
 [3300 BC Bronze Age]
 - Nile Valley (Egypt)
 - North China Plain (Eastern China)
