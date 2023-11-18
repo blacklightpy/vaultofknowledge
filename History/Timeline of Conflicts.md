@@ -538,7 +538,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Martin Luther King Jr. abolishes racism
 	- 1963: March on Washington, and his delivery of the "I have a dream" speech
 	- The civil rights movement achieved their goals in the Civil Rights Act of 1964, Voting Rights Act of 1965, and the Fair Housing Act of 1968
-	- He was assassinated in 1968 by a racist
+	- He was assassinated in 1968 by a racist named James Earl Ray
 - South Africa's Apartheid regime
 - 1991: USSR split
 - 1999: EU forms to use the same money, but Britain doesn't use the same money
