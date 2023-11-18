@@ -1,4 +1,4 @@
-The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties.
+The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam.
 
 
 > [!NOTE] Different Nations
@@ -10,6 +10,9 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > Britain established Christian missionaries, schools and hospitals in India with better services.
 > These private hospitals could've shared their profits to help bring up the standards of other government hospitals, but they chose not to.
 > UK also funds India a lot as business investments.
+
+> About Christians:
+> My dad told me how he knew a Christian who would always go to the Church and confess his misdeeds every weekend. But after the confession, he would feel cleared of his sins, and he'd think to himself that now he's earned the right to sin again for the weekend.
 
 - The Rise of Jewish Capitalism under Catholic Persecution
 - Edict of Expulsion 1290
