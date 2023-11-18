@@ -377,6 +377,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Britain and France gets Southeast Asia (Burma, French Indochina, Malaya, Sarawak, Dutch East Indies, Philippines (Spain)) (They didn't get Thailand)
 - 1894: Japan conquers Korea from China following the footsteps of the west
 	- 1899: Japan captures the Liaodong Peninsula, but Russians said they wanted to build a railroads there to get more water. So under military supervision, they build it.
+	- 1902: Because Russia doesn't let Japan invade northwards, Japan forms an alliance with Britain, who are also scared of Russia.
+	- 1904: Russo-Japanese War, but no one wins and they just stop
+	- 1905: Japan makes a treaty with Korea making it a protectorate under Imperial Japan
 - US captures Hawaii
 - Spain controls Cuba, so they blame the destruction of USS Maine on Spain and goes to war with them
 	- 1898 Spanish American War
