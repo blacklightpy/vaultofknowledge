@@ -520,7 +520,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Viet Minh declared Vietnamese Independence from Japan after World War II, but France still wanted to rule it
 	- 1954: Treaty of Geneva decided that 17th parallel north should divide Vietnam until elections could be held
 	- Elections were never held, North Vietnam was a communist state led by Ho Chi Minh and South Vietnam was a capitalist republic led by Ngo Dinh Diem.
-	- Viet Minh wan
+	- Viet Minh wanted to unite Vietnam into a communist state, and most South Vietnamese people also didn't like Ngo Dinh Diem
+		- Diem was corrupted and didn't give lands to the peasants. He also hated Buddhism. 
+	- A war broke out between North and South Vietnam
+	- From 1958, South Vietnam was attacked by the South Vietnamese communist group, National Liberation Front (NLF)
+	- 1964: North V
 	- North Vietnam + China + USSR + communist allies vs South Vietnam + US + anti-communist allies
 	- US joined the war because it was afraid of the spread of communism
 	- US believed that if one country became communist, all neighbouring countries would become communist
