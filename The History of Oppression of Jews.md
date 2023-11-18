@@ -14,7 +14,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > About Christians:
 > My dad told me how he knew a Christian who would always go to the Church and confess his misdeeds every weekend. But after the confession, he would feel cleared of his sins, and he'd think to himself that now he's earned the right to sin again for the weekend. 
 > 
-> I used to think that Christians would only not refrain from sinning because they could always confess, but I never thought that they would sin routinely just because they just earned the right to sin. Again, this is a misuse of Christianity, because it is said that a true believer of Christ would at least feel the need to turn away from his sins.
+> I used to think that Christians would only not refrain from sinning because they could always confess, but I never thought that they would sin routinely just because they just earned the right to sin. Again, this is a misuse of Christianity, because it is said that a true believer of Christ would at least feel the need to turn away from his sins. But you know, people can be mentally ill, such as having ADHD.
 >
 > I'm not sure if I'm missing some context here, such as if the sins are just human nature, as I'd say, about how religions are fundamentally restrictive of human nature, and in that sense, Christianity does help it in a slight sense. Because there is still the guilt of being a sinner for one's entire life.
 
