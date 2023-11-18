@@ -20,7 +20,7 @@ Nevertheless, if the countries wish to implement the law among themselves, they 
 
 Examples:
 - Arabs are just the Arab speaking nations
-- Turks, P
+- Turks, Persians, North African Berbers are all Muslims, but not Arab
 
 > [!NOTE] **These are the properties of an Islamic state:**
 >The guiding principles of an Islamic government is the concept of Al-Shura. The general consensus is that it should have the following:
