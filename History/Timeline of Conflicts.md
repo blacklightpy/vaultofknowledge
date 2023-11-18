@@ -424,10 +424,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1919: Paris Peace Conference and the establishment of League of Nations
 	- The League of Nations was established to make sure that countries don't invade other countries
 		- That's when all countries were fixed and decided
-	- Japan still got to keep all the land they took from Germany
-	- The Allied powers were confronted with the question of the disposal of the former German colonies in Africa and the Pacific, and the several Arabic-speaking provinces of the Ottoman Empire.
-	- League of Nations Mandates were also set up
-		- The Allied powers wanted to annex the captured lands of the Central powers, but instead, they decided to just supervise it until the inhabitants decide to achieve self-governance and independence
+	- The Allied powers had to decide what to do about the German colonies in Africa and the Pacific, and the Arabic-speaking provinces of the Ottoman Empire.
+	- The Allied powers originally wanted to annex the captured lands of the Central powers, but instead, they decided to just supervise it until the inhabitants decide to achieve self-governance and independence.
+	- So the League of Nations Mandates were also set up
 		- The mandates were governed by the seven mandatory powers, except the Kingdom of Iraq, which joined the League of Nations in 1932
 		- British Mandate for Palestine
 			- Formed Mandatory Palestine
@@ -435,6 +434,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 			- The Balfour declaration was further confusing the issue with the Arabs
 			- Transjordan was added to the mandate after Franco-Syrian War
 		- In total, Palestine, Lebanon, Syria, Iraq, Transjordan were League of Mandates
+		- Japan got to keep all the land they took from Germany
 - 1919: Khilafat Movement
 	- It was a movement by the Muslims in India, against Britain's plan for Turkey and abolishing of the Ottoman Caliphate
 	- It was supported by Gandhi, Sardar Vallabhbhai Patel and Bal Gangadhar Tilak
@@ -450,6 +450,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - ibn Saud and team formed Saudi Arabia
 - Formation of Nationalist Socialist German Workers party
 - 1929: The Great Depression in the US
+- 1931: Japan seizes Manchuria from China, and has to withdraw from the League of Nations
 - 1937: Japan has an empire, and they rape Nanking, but then they deny it
 - 1939: World War 2
 	- Holocaust
