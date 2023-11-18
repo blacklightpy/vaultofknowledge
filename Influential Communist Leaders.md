@@ -4,4 +4,4 @@
 - Mao Zedong (1949)
 - Ho Chi Minh (Vietnam, 1923)
 - Kim II-Sung (Korea, 1948)
-- Fidel Castro (Cuba, 1959)
+- Ernesto Che Guevara and Fidel Castro (Cuba, 1959)
