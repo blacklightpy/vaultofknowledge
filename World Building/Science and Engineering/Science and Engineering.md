@@ -30,9 +30,6 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Spectroscopy]]
 		- [[Valence Bond Theory]]
 - **Engineering**
-	- **Aerospace Engineering**
-		- **Aeronautical Engineering**
-		- **Astronautical Engineeing**
 	- **Automotive Engineering**
 		- [[Vehicles]]
 	- **Electronics Engineering**
@@ -557,6 +554,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Kugelblitz]]
 			- [[Stress-Energy Tensor]]
 	- **Nuclear Physics**
+		- [[Chernobyl Disaster]]
 		- [[Nuclear Shell Model]]
 	- **Particle Physics**
 		- **Beyond the Standard Model**

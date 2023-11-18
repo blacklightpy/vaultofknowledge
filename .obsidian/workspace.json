@@ -435,9 +435,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f981afc386ad8254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Physics/Nuclear Physics/Chernobyl Disaster.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -504,7 +517,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "World Building/Science and Engineering/Physics/Nuclear Physics/Chernobyl Disaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -521,7 +534,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "World Building/Science and Engineering/Physics/Nuclear Physics/Chernobyl Disaster.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -541,7 +554,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "World Building/Science and Engineering/Physics/Nuclear Physics/Chernobyl Disaster.md"
               }
             }
           },
@@ -590,13 +603,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f197e4778a27596",
+  "active": "f981afc386ad8254",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Nuclear Physics/Chernobyl Disaster.md",
+    "History/Timeline of Conflicts.md",
     "Literature/Origin of Writing.md",
     "Famous General Philosophers.md",
     "Influential Communist Leaders.md",
     "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
-    "History/Timeline of Conflicts.md",
     "Social Philosophies.md",
     "Be happy, not proud.md",
     "Barbie The Movie.md",
@@ -620,7 +634,6 @@
     "Religions and Walled Gardens.md",
     "Religion.md",
     "Defining Religion.md",
-    "Differences between Islam and Judeo-Christianity.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
