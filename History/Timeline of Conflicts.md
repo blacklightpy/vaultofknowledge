@@ -470,8 +470,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Holocaust
 	- Death of Hitler
 	- US tries to see if Atom bombs work by dropping one on Japan. They had one more so they dropped that too.
-	- Japan Leaves Korea
-- 1945: US establishes a new government in Japan inspired by their own government, where government closely cooperates with the industry
+- 1945: Japan is now controlled by US
+	- US establishes USA Military Government in Japanese Korea
+	- 1948: Japanese Korea is granted independence as The Republic of Korea (South Korea)
+	- US establishes a new government in Japan inspired by their own government, where government closely cooperates with the industry
 - 1946: The League of Nations was abolished and the United Nations took its place
 - 1947: Independence in India, and formation of Pakistan and Bangladesh
 	- Pakistan attacks Jammu and Kashmir
@@ -484,7 +486,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1947: UN Partition Plan for Palestine at the end of British mandate
 	- Formation of Arabic and Jewish states
 		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
-- Arab-Israel Conflicts
+- 1948-Present: Arab-Israel Conflicts
 	- Establishment of Israel with expulsion and massacre of Arabs ("Al Nakba" / "The Catastrophe")
 		- The Zionists did so using guns from London
 		- Overnight, many Palestinians became stateless as US and Russia recognized Israel
@@ -507,7 +509,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Geneva Conventions of 1949 to define humanitarian rules during war
 - 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the fascist' West Berlin
 - 1969: Space Race
-- North Vietnam + USSR vs South Vietnam + US
+- Vietnam War
+	- North Vietnam + USSR vs South Vietnam + US
 - Other countries got independence, but there was neo-colonialism
 - Martin Luther King Jr. abolishes racism
 - South Africa's Apartheid regime
