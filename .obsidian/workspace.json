@@ -396,22 +396,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7bd89c67ac528f53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Timeline of History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -478,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md",
+                "file": "The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -515,7 +502,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Ideas on solving the Arab-Israel conflict.md"
+                "file": "The History of Oppression of Jews.md"
               }
             }
           },
@@ -564,8 +551,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f5b1a482abd72f6",
+  "active": "ca67ff5eded0791e",
   "lastOpenFiles": [
+    "My Ideas on solving the Arab-Israel conflict.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "Arguments against Religion 2.md",
     "History/Timeline of History.md",
@@ -597,7 +585,6 @@
     "Why aren't LEDs used as transmitters.md",
     "_images/Types of Digital Modulation.png",
     "_images/Expulsion_judios-en.svg.png",
-    "Defining Terrorism.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",

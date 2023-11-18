@@ -1,10 +1,22 @@
 The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam.
 
 
+> [!NOTE] Forms of antisemitism
+> - Religious (Jew as Christ-killer),
+> - Economic (Jew as banker, usurer, money-obsessed),
+> - Social (Jew as social inferior, "pushy", vulgar, therefore excluded from personal contact),
+> - Racist (Jews as an inferior "race", resulting in Holocaust),
+> - Ideological (Jews regarded as subversive or revolutionary, for following rituals like Shabbath),
+> - Cultural (Jews regarded as undermining the moral and structural fiber of civilization).
+
+
+
 > [!NOTE] Different Nations
 > US: A western stranger nation, who merely adopted Christianity from the Spaniards, but are more capitalist
 > Jews: A persecuted identity, who were forced to develop capitalism as the only means of survival
 > Arabs: A community close to the Jews, where Islam originated
+> Christians: A community of historic Jews who were convinced that Jesus was their Messiah, and went on converting everyone to accept Jesus Christ as god in human form
+> Indians: 
 
 > All Christian institutions in India are funded by the imperial British.
 > Britain established Christian missionaries, schools and hospitals in India with better services.
