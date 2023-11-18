@@ -20,4 +20,6 @@ The only thing that could've happened is that a person had the resources to help
 
 The only fair way of life is when 
 
-One might say that if there is no concept of ownership, people will be lazy and will never invent anything.
+One might say that if there is no concept of ownership, people will be lazy and will never invent anything. But that is totally meaningless, because 
+
+They might say no development
