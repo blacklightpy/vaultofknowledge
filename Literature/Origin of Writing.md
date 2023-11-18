@@ -159,7 +159,10 @@ There are many, but I'll name just a few I'm familiar with:
 						- Friulian
 					- Gallo-Italic
 						- Piedmontese
-						- Ligurian, Lombard, Emilian, Romagnol
+						- Ligurian
+						- Lombard
+						- Emilian
+						- Romagnol
 					- Venetan
 					- Italo-Dalmatian
 						- Italian
