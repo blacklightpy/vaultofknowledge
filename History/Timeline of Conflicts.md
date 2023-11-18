@@ -26,6 +26,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
 - 5400 BC: Sumerian settlements
+- Indo-European Horse nomads
 # 4 Millenia BC (5000-2500 BC)
 [5000 BC: Chalcolithic Age]
 - Fertile Crescent (Ancient Mesopotamia and the Levant)
@@ -41,21 +42,23 @@ With agriculture, food became more reliable, but less varied, and people became 
 ---
 ### Kingdoms:
 
-- 4100 - 3100 BC: Uruk Period
-- Jemdet Nasr Period / Uruk III Phase
-- Early Dynastic Period
-- Akkadian Empire
-- Gutians
-- 2500 - 2400 BC: First Dynasty of Ur / Ur I
-- 2112 - 2004 BC: Third Dynasty of Ur / Ur III / Neo-Sumerian Empire
-- 2025 - 1763 BC: Isin-Larsa Period || Old Assyrian Period || Mari and other states
-	- It was attacked by Amorites from the West and Elamites from the East
-- 1894 - 1595 BC: Old/First Babylonian Empire/ Amorite Dynasty by King Hammurabi
-- 1531 - 1155 BC: Kassaties and their Sack of Babylon
-- 1155–1026 BC: Second Dynasty of Isin, 
-- 911–605 BC: Neo-Assyrian Empire
-- Neo-Babylonian Empire / Chaldean Empire
-- 539 BC: Achaemenid Empire
+> [!NOTE] Sorting Kingdoms
+> 
+> - 4100 - 3100 BC: Uruk Period
+> - Jemdet Nasr Period / Uruk III Phase
+> - Early Dynastic Period
+> - Akkadian Empire
+> - Gutians
+> - 2500 - 2400 BC: First Dynasty of Ur / Ur I
+> - 2112 - 2004 BC: Third Dynasty of Ur / Ur III / Neo-Sumerian Empire
+> - 2025 - 1763 BC: Isin-Larsa Period || Old Assyrian Period || Mari and other states
+> 	- It was attacked by Amorites from the West and Elamites from the East
+> - 1894 - 1595 BC: Old/First Babylonian Empire/ Amorite Dynasty by King Hammurabi
+> - 1531 - 1155 BC: Kassaties and their Sack of Babylon
+> - 1155–1026 BC: Second Dynasty of Isin, 
+> - 911–605 BC: Neo-Assyrian Empire
+> - Neo-Babylonian Empire / Chaldean Empire
+> - 539 BC: Achaemenid Empire
 
 > [!NOTE] Sorting Greek History
 > - 2700-1500 BC: Minoan Civilization (In Crete)
@@ -156,6 +159,19 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - [Late Antiquity](https://en.wikipedia.org/wiki/Late_Antiquity "Late Antiquity")
 >     - [Asōristān](https://en.wikipedia.org/wiki/As%C5%8Drist%C4%81n "Asōristān") (3rd to 7th century AD)
 >     - [Muslim conquest](https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia "Muslim conquest of Persia") (mid-7th century AD)
+
+> [!NOTE] History of Egypt
+> - [Prehistoric Egypt](https://en.wikipedia.org/wiki/Prehistoric_Egypt "Prehistoric Egypt") (prior to 3100 BC)
+> - [Naqada III](https://en.wikipedia.org/wiki/Naqada_III "Naqada III") ("the protodynastic period", approximately 3100–3000 BC; sometimes referred to as "Dynasty 0")
+> - [Early Dynastic Period](https://en.wikipedia.org/wiki/Early_Dynastic_Period_(Egypt) "Early Dynastic Period (Egypt)") ([First](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt "First Dynasty of Egypt")–[Second](https://en.wikipedia.org/wiki/Second_Dynasty_of_Egypt "Second Dynasty of Egypt") Dynasties)
+> - [Old Kingdom](https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt "Old Kingdom of Egypt") ([Third](https://en.wikipedia.org/wiki/Third_Dynasty_of_Egypt "Third Dynasty of Egypt")–[Sixth](https://en.wikipedia.org/wiki/Sixth_Dynasty_of_Egypt "Sixth Dynasty of Egypt") Dynasties)
+> - [First Intermediate Period](https://en.wikipedia.org/wiki/First_Intermediate_Period_of_Egypt "First Intermediate Period of Egypt") ([Seventh](https://en.wikipedia.org/wiki/Seventh_Dynasty_of_Egypt "Seventh Dynasty of Egypt") or [Eighth](https://en.wikipedia.org/wiki/Eighth_Dynasty_of_Egypt "Eighth Dynasty of Egypt")–[Eleventh](https://en.wikipedia.org/wiki/Eleventh_Dynasty_of_Egypt "Eleventh Dynasty of Egypt") Dynasties)
+> - [Middle Kingdom](https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt "Middle Kingdom of Egypt") ([Twelfth](https://en.wikipedia.org/wiki/Twelfth_Dynasty_of_Egypt "Twelfth Dynasty of Egypt")–[Thirteenth](https://en.wikipedia.org/wiki/Thirteenth_Dynasty_of_Egypt "Thirteenth Dynasty of Egypt") Dynasties)
+> - [Second Intermediate Period](https://en.wikipedia.org/wiki/Second_Intermediate_Period_of_Egypt "Second Intermediate Period of Egypt") ([Fourteenth](https://en.wikipedia.org/wiki/Fourteenth_Dynasty_of_Egypt "Fourteenth Dynasty of Egypt")–[Seventeenth](https://en.wikipedia.org/wiki/Seventeenth_Dynasty_of_Egypt "Seventeenth Dynasty of Egypt") Dynasties)
+> - [New Kingdom](https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt "New Kingdom of Egypt") ([Eighteenth](https://en.wikipedia.org/wiki/Eighteenth_Dynasty_of_Egypt "Eighteenth Dynasty of Egypt")–[Twentieth](https://en.wikipedia.org/wiki/Twentieth_Dynasty_of_Egypt "Twentieth Dynasty of Egypt") Dynasties)
+> - [Third Intermediate Period](https://en.wikipedia.org/wiki/Third_Intermediate_Period_of_Egypt "Third Intermediate Period of Egypt") (also known as the Libyan Period; [Twenty-first](https://en.wikipedia.org/wiki/Twenty-first_Dynasty_of_Egypt "Twenty-first Dynasty of Egypt")–[Twenty-fifth](https://en.wikipedia.org/wiki/Twenty-fifth_Dynasty_of_Egypt "Twenty-fifth Dynasty of Egypt") Dynasties)
+> - [Late Period](https://en.wikipedia.org/wiki/Late_Period_of_ancient_Egypt "Late Period of ancient Egypt") ([Twenty-sixth](https://en.wikipedia.org/wiki/Twenty-sixth_Dynasty_of_Egypt "Twenty-sixth Dynasty of Egypt")–[Thirty-first](https://en.wikipedia.org/wiki/Thirty-first_Dynasty_of_Egypt "Thirty-first Dynasty of Egypt") Dynasties)
+> - [Ptolemaic Egypt](https://en.wikipedia.org/wiki/Ptolemaic_Kingdom "Ptolemaic Kingdom") (305–30 BC)
 
 ---
 ## Time Period 1 (2350 BC - 1700 BC)
