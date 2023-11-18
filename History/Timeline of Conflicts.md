@@ -460,7 +460,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1939: World War 2
 	- Germany invades their neighbours - Netherlands, Belgium, Luxembourg, Austria, Czechoslovakia, Poland and Denmark
 	- Then they invaded France, the neighbours' neighbour and then they tried to invade Britain
-	- Japan captured Viet
+	- Japan captured North Vietnam which was a French colony with the help of Germany
 	- US Helped Britain, and stopped helping Japan because their friends are not friends of their friends, and also because they wanted to invade the entire East and Pacific
 	- US did not want to focus on the war, caring about their image
 	- 1941: Japan attacks Pearl Harbour, Hawaii
@@ -518,8 +518,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1969: Space Race
 - Vietnam War
 	- Vietnam was a French colony, and some of it was invaded by Japan during World War II
-	- North Vietnam + USSR vs South Vietnam + US
+	- North Vietnam + China + USSR + communist allies vs South Vietnam + US + anti-communist allies
 	- US joined the war because it was afraid of the spread of communism
+	- US believed that if one country became communist, all neighbouring countries would become communist
+	- believed that if South Vietnam fell to communism, so would the surrounding countries of Indonesia, Thailand, Burma, Malaysia, Laos, and Cambodia.
 - 1973: Paris Peace Accords
 - 1975: Communist North Vietnam gains control of South Vietnam
 - 1976: Socialist Republic of Vietnam forms
