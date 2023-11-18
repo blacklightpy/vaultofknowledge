@@ -521,7 +521,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- North Vietnam + China + USSR + communist allies vs South Vietnam + US + anti-communist allies
 	- US joined the war because it was afraid of the spread of communism
 	- US believed that if one country became communist, all neighbouring countries would become communist
-	- believed that if South Vietnam fell to communism, so would the surrounding countries of Indonesia, Thailand, Burma, Malaysia, Laos, and Cambodia.
+		- That is, if South Vietnam fell to communism, Indonesia, Thailand, Burma, Malaysia, Laos, and Cambodia would too.
 - 1973: Paris Peace Accords
 - 1975: Communist North Vietnam gains control of South Vietnam
 - 1976: Socialist Republic of Vietnam forms
