@@ -460,6 +460,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1939: World War 2
 	- Germany invades their neighbours - Netherlands, Belgium, Luxembourg, Austria, Czechoslovakia, Poland and Denmark
 	- Then they invaded France, the neighbours' neighbour and then they tried to invade Britain
+	- Japan captured Viet
 	- US Helped Britain, and stopped helping Japan because their friends are not friends of their friends, and also because they wanted to invade the entire East and Pacific
 	- US did not want to focus on the war, caring about their image
 	- 1941: Japan attacks Pearl Harbour, Hawaii
@@ -507,8 +508,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1949: China becomes the People's Republic of China
 	- Kuomintang national party disagreed, so they moved to an island named Taiwan and called in the Taiwan Republic of China
 - 1949: Geneva Conventions of 1949 to define humanitarian rules during war
-- 1950 Korean war, when North Korea crossed the 38 North latitude
-	- UN Security Council Resolution 82 asked them to retreat to north of 38 North.
+- 1950 Korean war, when North Korea crossed the 38th parallel north latitude
+	- UN Security Council Resolution 82 asked them to retreat to north of 38th parallel north.
 	- UN troops, mostly American, aid South Koreans
 	- In 1953 Armistice Agreement, a new line was formed to separate North Korea and South Korea.
 	- The Military Demarcation Line is surrounded by a demilitarized zone (DMZ)
@@ -516,7 +517,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the "fascist West Berlin who conspires to prevent the will of the peopl"
 - 1969: Space Race
 - Vietnam War
+	- Vietnam was a French colony, and some of it was invaded by Japan during World War II
 	- North Vietnam + USSR vs South Vietnam + US
+	- US joined the war because it was afraid of the spread of communism
 - 1973: Paris Peace Accords
 - 1975: Communist North Vietnam gains control of South Vietnam
 - 1976: Socialist Republic of Vietnam forms
