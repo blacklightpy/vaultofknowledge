@@ -608,6 +608,12 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1192 AD: Japan is so addicted to art that the Samurais form the Shogunate military and takes over
 	- They let the emperor still be the emperor, but the Shogun is actually the leader
 - China invented bombs and typing
+
+> [!NOTE] The Crusades
+> - First Crusade
+> 	- They massacred the Jews of Rhineland instead of attacking the Jews
+> 	- Siege of Jerusalem, where Muslims and Jews fought side by side to defend the city
+> 	- They (Franks) burned down the synagogue over their heads
 ## Time Period 13 (1200-1400)
 ### Eurasia
 - 1228-1259 AD: Mongols invaded all of central Asia and Europe under Genghis Khan

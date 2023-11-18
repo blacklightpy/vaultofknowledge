@@ -1,6 +1,5 @@
 The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam.
 
-
 > [!NOTE] Forms of antisemitism
 > - Religious (Jew as Christ-killer),
 > - Economic (Jew as banker, usurer, money-obsessed),
