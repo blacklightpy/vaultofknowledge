@@ -251,6 +251,7 @@ Ancient Greeks (Macedonian Empire)
 - New kingdoms: Norway, Sweden, Poland, Denmark, Hungary, Kievan Rus, Scotland, England, Welsh States
 - All of them get Christianized, but fight over Roman Catholic or Eastern Orthodox brands
 - 1066 AD: William the Conqueror conquers England
+	- He invited the French Jews over to England
 ## Time Period 12 (1070-1200)
 ### Eurasia
 - 1071 AD: The Seljuk Turks invaded the region from Central Asia to the Levant, including parts of the Byzantine empire (Anatolian peninsula)

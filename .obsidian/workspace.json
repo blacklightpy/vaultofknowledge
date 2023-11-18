@@ -424,12 +424,25 @@
             }
           },
           {
-            "id": "6aef462b0af217e5",
+            "id": "3d98e701da96d371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Philosophies.md",
+                "file": "Influential Communist Leaders.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5851ba5c0bef04dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Famous Philosophers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -437,7 +450,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -504,7 +517,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Philosophies.md",
+                "file": "Famous Philosophers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -521,7 +534,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Philosophies.md",
+                "file": "Famous Philosophers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -541,7 +554,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Philosophies.md"
+                "file": "Famous Philosophers.md"
               }
             }
           },
@@ -590,10 +603,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6aef462b0af217e5",
+  "active": "5851ba5c0bef04dc",
   "lastOpenFiles": [
-    "Social Philosophies.md",
+    "Famous Philosophers.md",
+    "Influential Communist Leaders.md",
     "History/Timeline of Conflicts.md",
+    "Social Philosophies.md",
     "Be happy, not proud.md",
     "Barbie The Movie.md",
     "The true principles of life which are suppressed in society.md",
@@ -618,8 +633,6 @@
     "Defining Religion.md",
     "Differences between Islam and Judeo-Christianity.md",
     "3-body systems.md",
-    "home.md",
-    "Wolfram Physics.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",

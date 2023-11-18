@@ -9,4 +9,6 @@
 - Communism
 - Bolshevism
 - Fascism
-- Democracies
+- Democracy
+- Dictatorship
+- Anarchism
