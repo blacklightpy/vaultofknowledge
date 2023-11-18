@@ -413,6 +413,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- British secretly signed the Sykes-Picot agreement with the French government
 	- So they went back on their promise and divided the middle east into a number of League of Nations Mandates controlled by Britain and France
 - 1919: Paris Peace Conference and the establishment of League of Nations
+	- The League of Nations was established to make sure that countries don't invade other countries
 	- British Mandate for Palestine
 		- Formed Mandatory Palestine
 		- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
