@@ -1,5 +1,7 @@
-- Karl Marx and Friedrich Engels
-- Vladimir Lenin
-- Joseph Stalin
-- Mao Zedong
-- Ho Chi Minh
+- Karl Marx and Friedrich Engels (Theory, 19th century)
+- Vladimir Lenin (1917)
+- Joseph Stalin (1924)
+- Mao Zedong (1949)
+- Ho Chi Minh (Vietnam, 1923)
+- Kim II-Sung (Korea, 1948)
+- Fidel Castro (Cuba, 1959)
