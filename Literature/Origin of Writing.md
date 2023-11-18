@@ -139,10 +139,46 @@ There are many, but I'll name just a few I'm familiar with:
 		- 1500–2000 (Early Modern period to present)
 			- Colonialism results in the spread of Indo-European languages to every habitable continent, most notably:
 				- Romance (or Latin or Neo-Latin Languages), to North, Central and South America, North and Sub-Saharan Africa, West Asia
-					- Spanish
-					- Portugese
-					- French
-					- Italian
+					- Ibero-Romance
+						- Portuguese
+						- Galician
+						- Asturleonese/Mirandese
+						- Spanish
+						- Aragonese
+						- Ladino
+					- Occitano-Romance
+						- Catalan/Valencian
+						- Occitan (lenga d'oc)
+						- Gascon (sometimes not considered part of Occitan)
+					- Gallo-Romance
+						- French/Oïl languages
+						- Franco-Provençal (Arpitan)
+					- Rhaeto-Romance
+						- Romansh
+						- Ladin
+						- Friulian
+					- Gallo-Italic
+						- Piedmontese
+						- Ligurian, Lombard, Emilian, Romagnol
+					- Venetan
+					- Italo-Dalmatian
+						- Italian
+							- Tuscan
+							- Corsican
+							- Sassarese
+							- Central Italian
+						- Sicilian/Extreme-Southern Italian
+						- Neapolitan/Southern Italian
+						- Dalmatian (extinct in 1898)
+						- Istriot
+					- Eastern Romance
+						- Romanian
+						- Aromanian
+						- Megleno-Romanian
+						- Istro-Romanian
+					- Sardinian
+						- Campidanese
+						- Logudorese
 				- West Germanic, to North America, Sub-Saharan Africa, East Asia and Australia
 					- English
 					- Dutch and German
