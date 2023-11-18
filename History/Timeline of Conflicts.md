@@ -505,9 +505,9 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1949: Germany is divided into West Berlin / Federal Republic of Germany and East Berlin / German Democratic Republic
 - 1949: China becomes the People's Republic of China
 	- Kuomintang national party disagreed, so they moved to an island named Taiwan and called in the Taiwan Republic of China
+- 1949: Geneva Conventions of 1949 to define humanitarian rules during war
 - 1950 Korean war. No one wins, but South Korea is backed by US and North Korea is backed by Russia.
-- Geneva Conventions of 1949 to define humanitarian rules during war
-- 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the fascist' West Berlin
+- 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the "fascist West Berlin who conspires to prevent the will of the peopl"
 - 1969: Space Race
 - Vietnam War
 	- North Vietnam + USSR vs South Vietnam + US
