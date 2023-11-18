@@ -468,12 +468,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 		- The plan was boycotted by the Arabs because 62% of the land was allocated to Jewish people, although Arabs had twice the population
 - Arab-Israel Conflicts
 	- Establishment of Israel with expulsion and massacre of Arabs ("Al Nakba" / "The Catastrophe")
+		- The Zionists did so using guns from London
 		- Overnight, many Palestinians became stateless as US and Russia recognized Israel
-		- By 1949, more than 
-		- Do you recognize the pre-1948 borders? (state of Palestine?
-		- Do you recognize the state of Israel?
-		- Do you recognize pre-1967 borders?
-		- Do you recognize current borders?
+		- By 1949, more than 750,000 Palestinians were expelled, and more than 13000 Arabs were killed during the ethnic cleansing. It was either to leave or be killed.
+		- Folke Bernadotte, a Swedish diplomat was assigned 
 	- 1948 War
 		- HK of Transjordan annexed West Bank and was renamed to HK of Jordan
 	- 1967 War (Six Day War)
