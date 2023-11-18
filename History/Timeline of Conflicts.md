@@ -22,16 +22,16 @@ With agriculture, food became more reliable, but less varied, and people became 
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
 - People spread everywhere across Europe, Africa and Asia
+- 55000 BC: Australian aboriginals were found in this period
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
+- Neolithic Revolution (or the First Agricultural Revolution) in the West Asian Fertile Crescent saw the transition from hunting and gathereing to agriculture and settlements
 
 > [!NOTE] From Wikipedia
 > ![[Centres_of_origin_and_spread_of_agriculture.svg.png]]
 > Map of the world showing approximate centres of origin of agriculture and its spread in prehistory: the Fertile Crescent (11,000 BP), the Yangtze and Yellow River basins (9,000 BP) and the Papua New Guinea Highlands (9,000–6,000 BP), Central Mexico (5,000–4,000 BP), Northern South America (5,000–4,000 BP), sub-Saharan Africa (5,000–4,000 BP, exact location unknown), eastern North America (4,000–3,000 BP).
 # Holocene Epoch Begins
 # 4 Millenia BC (5000-2500 BC)
-- 55000 BC: Australian aboriginals were found in this period
-- Neolithic Revolution (or the First Agricultural Revolution) s
 - 5400 BC: Sumerian settlements begin
 - Indo-European Horse nomads appear
 - 8000 BC: Neolithic settlements
