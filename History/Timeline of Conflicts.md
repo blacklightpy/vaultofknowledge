@@ -465,10 +465,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- 1941: Japan attacks Pearl Harbour, Hawaii
 	- So US entered the war
 	- So Allied Powers (Britain, France, US, China, etc.) vs Axis/Central Powers (Germany, Italy, Japan, etc.)
+	- They chased Germany back into Germany
+	- They also chased Japan back into Japan
 	- Holocaust
 	- Death of Hitler
-	- Atomic bombs
+	- US tries to see if Atom bombs work by dropping one on Japan. They had one more so they dropped that too.
 	- Japan Leaves Korea
+- 1945: US establishes a new government in Japan inspired by their own government, where government closely cooperates with the industry
 - 1946: The League of Nations was abolished and the United Nations took its place
 - 1947: Independence in India, and formation of Pakistan and Bangladesh
 	- Pakistan attacks Jammu and Kashmir
