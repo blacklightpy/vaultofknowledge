@@ -411,6 +411,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1914: World War I
 	- Allied Powers (Britain, France, Russia, Italy, Japan, US, etc.) vs Axis/Central Powers (Ottoman Empire, Austria-Hungary, Germany, Bulgaria, etc.)
 	- It was said to the The Great War that would end all wars
+	- Japan wanted to conquer a part of China and the south east islands, which where controlled by Germany
+	- Germany had war declared on Britain, because Germany was trespassing their friend Belgium to get to France to attack them because they were Friends with Russia, who was ready to attack Austria because Austria was ready to attack Serbia because someone from Serbia shot the leader of Austria in his head. And Britain was friends with Japan.
 - 1917: Russian Revolution
 - 1916-1918 Arab Revolt - The first ever "Arab nationalist" movement
 	- Started in 1916 to establish a unified Arab state from Aleppo (Syria) to Aden (Yemen) (middle east area)
