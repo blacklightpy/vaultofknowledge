@@ -31,12 +31,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 > ![[Centres_of_origin_and_spread_of_agriculture.svg.png]]
 > Map of the world showing approximate centres of origin of agriculture and its spread in prehistory: the Fertile Crescent (11,000 BP), the Yangtze and Yellow River basins (9,000 BP) and the Papua New Guinea Highlands (9,000–6,000 BP), Central Mexico (5,000–4,000 BP), Northern South America (5,000–4,000 BP), sub-Saharan Africa (5,000–4,000 BP, exact location unknown), eastern North America (4,000–3,000 BP).
 # Holocene Epoch Begins
-# 6-3 Millenia BC (55000-2500 BC)
+# 6-3 Millenia BC (5400-2350 BC)
 - 5400 BC: Sumerian settlements begin
-- 5200 BC Indo-European nomads learn to tame horses and cattle
+- 5200 BC Indo-European nomads from the European steppe learn to tame horses and cattle
 - 8000 BC: Neolithic settlements
 - 6000 BC: Neolithic settlements appear all over Egypt
-- West Asia
 [5000 BC: Chalcolithic Age]
 - Mesopotamia was the site of the earliest civilizations
 	- It was the Greek name for the valley between the rivers Euphrates and Tigris in modern day Iraq.
@@ -50,7 +49,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Norte Chico / Caral Supe Civilization (Mesoamerica)
 
 ---
-### Kingdoms to sort and chronological list of civilizations:
+### Kingdoms to sort and chronological list of civilizations
 
 > [!NOTE] Sorting Kingdoms
 > 
