@@ -39,6 +39,7 @@
 There are many, but I'll name just a few I'm familiar with:
 - Indo-European
 	- Pre-Anatolian (4200 BC)
+		- Hittite
 	- Pre-Tocharian (3700 BC)
 	- Pre-Germanic (3300 BC)
 	- Pre-Italic and Pre-Celtic (3000 BC)
@@ -59,7 +60,9 @@ There are many, but I'll name just a few I'm familiar with:
 		- 1000 - 500 BC
 			- Celtic Languages spread to Central and Western Europe, including Britain
 			- Baltic languages were spoken in modern day Poland to Moscow
+			- Indo-Aryan tongue reaches eastwards to a broader Mahajanapadas, where Mahavira preaches Jainism and Gautama Buddha 
 			- Pre-Proto-Germanic gives rise to Proto-Germanic in Scandinavia
+			- Achaemenid Empire replaces the Elamites and Babylonia
 
 	- Greek, Armenian
 	- Celtic, Slav, Baltic, Germanic, Italic
