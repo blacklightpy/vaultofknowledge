@@ -9,7 +9,17 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - Ideological (Jews regarded as subversive or revolutionary, for following rituals like Shabbath),
 > - Cultural (Jews regarded as undermining the moral and structural fiber of civilization).
 
-
+> [!NOTE]
+> Europe has blamed the Jews for an encyclopedia of sins.
+> - The Church blamed the Jews for killing Jesus;
+> - Voltaire blamed the Jews for inventing Christianity.
+> - In the febrile minds of anti-Semites, Jews were usurers and well-poisoners and spreaders of disease.
+> - Jews were the creators of both communism and capitalism;
+> - they were clannish but also cosmopolitan;
+> - cowardly and warmongering;
+> - self-righteous moralists and defilers of culture.
+> 
+> Ideologues and demagogues of many permutations have understood the Jews to be a singularly malevolent force standing between the world and its perfection. 
 
 > [!NOTE] Different Nations
 > US: A western stranger nation, who merely adopted Christianity from the Spaniards, but are more capitalist
