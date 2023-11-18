@@ -422,9 +422,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98739c702f1bab81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Happy, not Proud about your work.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -491,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Be Happy, not Proud about your work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -508,7 +521,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of Conflicts.md",
+                "file": "Be Happy, not Proud about your work.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -528,7 +541,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of Conflicts.md"
+                "file": "Be Happy, not Proud about your work.md"
               }
             }
           },
@@ -577,8 +590,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f197e4778a27596",
+  "active": "98739c702f1bab81",
   "lastOpenFiles": [
+    "Be Happy, not Proud about your work.md",
+    "History/Timeline of Conflicts.md",
     "The true principles of life which are suppressed in society.md",
     "The History of Oppression of Jews.md",
     "Spectral Efficiency.md",
@@ -586,7 +601,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
     "Evolution of Communications.md",
-    "History/Timeline of Conflicts.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
     "Intention as a Force.md",
     "World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
@@ -606,7 +620,6 @@
     "Wolfram Physics.md",
     "Why people join religions.md",
     "Why capitalism is harmful to society.md",
-    "Why abandon proprietary technology.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",

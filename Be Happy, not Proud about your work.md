@@ -1,0 +1,1 @@
+One should always feel happy, and not "proud" about their work, as we are taught to be in our lives. The word proud carries certain connotations, which confuse and divide viewers.
