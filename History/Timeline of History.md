@@ -61,6 +61,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- Mesopotamia and the Levant comprised the Fertile Crescent
 	- 4100 BC: The first "civilization" in Mesopotamia was that of Sumer, during the Uruk Period
 - 3500 BC Indo-European nomads from the European steppe learn to tame horses and cattle, which helped during the Piora Oscillation, a cold period post the Holocene Climatic Optimum
+	- The Piora Oscillation is also associated with the climate changes at the end of the Uruk Period, and with the Flood of Noah in the Book of Genesis and the floods in the Epic of Gilgamesh
 [3300 BC Bronze Age]
 - Nile Valley Civilization (Egypt)
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
@@ -430,6 +431,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Some of the Indo-Europeans, Indo-Iranians founded the religion of Zoroastrianism
 	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
 - Some of the Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
+	- Hinduism was a combination of the Aryan Vedas and the Dravidian Hinduism
 	- So Hinduism has a lot in common with Zoroastrianism.
 	- [Indo-Europeans branched into Iranians, Indo-Aryans, Celtics, Greeks, Romans, Germans, Slavs]
 	- [Indo-Iranians split into Iranians and Indo-Aryans]
