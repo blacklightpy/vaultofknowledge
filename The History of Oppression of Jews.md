@@ -1,3 +1,5 @@
+The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they persevered in their identity. The Christians tossed them around throughout Europe.
+
 - The Rise of Jewish Capitalism under Catholic Persecution
 - Edict of Expulsion 1290
 	- ![[Expulsion_judios-en.svg.png]]
