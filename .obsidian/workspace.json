@@ -424,7 +424,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -491,7 +491,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of History.md",
+                "file": "Acceleration, not Force, is constant at a given distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -508,7 +508,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of History.md",
+                "file": "Acceleration, not Force, is constant at a given distance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -528,7 +528,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of History.md"
+                "file": "Acceleration, not Force, is constant at a given distance.md"
               }
             }
           },
@@ -577,10 +577,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7bd89c67ac528f53",
+  "active": "18b67e7575e938ca",
   "lastOpenFiles": [
-    "Culture/Kerala Hindu Culture.md",
+    "Arguments against Religion 2.md",
     "History/Timeline of History.md",
+    "Culture/Kerala Hindu Culture.md",
     "Famous General Philosophers.md",
     "The true principles of life which are suppressed in society.md",
     "_images/Indo-European_expansions.jpg",
@@ -610,7 +611,6 @@
     "_images/Expulsion_judios-en.svg.png",
     "Defining Terrorism.md",
     "Religions and Walled Gardens.md",
-    "Religion.md",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
