@@ -40,6 +40,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 ---
 ### Kingdoms:
+
 - 4100 - 3100 BC: Uruk Period
 - Jemdet Nasr Period / Uruk III Phase
 - Early Dynastic Period
@@ -56,9 +57,105 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Neo-Babylonian Empire / Chaldean Empire
 - 539 BC: Achaemenid Empire
 
-- 2700-1500 BC: Minoan Civilization (In Crete)
-- Myacenean Greeks
-- Ancient Greeks (Macedonian Empire)
+> [!NOTE] Sorting Greek History
+> - 2700-1500 BC: Minoan Civilization (In Crete)
+> - Myacenean Greeks
+> - Ancient Greeks (Macedonian Empire)
+
+> [!NOTE] History of Sumer
+> - [New Stone Age](https://en.wikipedia.org/wiki/New_Stone_Age#Pre-Pottery_Neolithic_C "New Stone Age"): c. 10000 – c. 5000 BC
+>     - [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period "Ubaid period"): c. 6500 – c. 4100 BC
+> - [Copper Age](https://en.wikipedia.org/wiki/Copper_Age "Copper Age"): c. 5000 – c. 3300 BC
+>     - [Uruk period](https://en.wikipedia.org/wiki/Uruk_period "Uruk period"): c. 4100 – c. 3100 BC
+>         - Uruk XIV–V phases: c. 4100 – c. 3300 BC
+>         - Uruk IV phase: c. 3300 – c. 3100 BC
+> - [Early Bronze Age I](https://en.wikipedia.org/wiki/Early_Bronze_Age_I "Early Bronze Age I"): c. 3300 – c. 3000 BC
+>     - [Jemdet Nasr period](https://en.wikipedia.org/wiki/Jemdet_Nasr_period "Jemdet Nasr period") (Uruk III phase): c. 3100 – c. 2900 BC
+>         - Uruk III phase: c. 3100 – c. 2900 BC
+> - [Early Bronze Age II](https://en.wikipedia.org/wiki/Early_Bronze_Age_II "Early Bronze Age II"): c. 3000 – c. 2700 BC
+>     - [Early Dynastic period](https://en.wikipedia.org/wiki/Early_Dynastic_Period_(Mesopotamia) "Early Dynastic Period (Mesopotamia)") c. 2900 – c. 2334 BC
+>         - Early Dynastic I period: c. 2900 – c. 2800 BC
+>             - Eridu dynasty ([Alulim](https://en.wikipedia.org/wiki/Alulim "Alulim"))
+>             - Bad-tibira dynasty ([Dumuzid](https://en.wikipedia.org/wiki/Dumuzid "Dumuzid"))
+>             - Larak dynasty ([En-sipad-zid-ana](https://en.wikipedia.org/wiki/En-sipad-zid-ana "En-sipad-zid-ana"))
+>             - Sippar dynasty ([Enmeduranki](https://en.wikipedia.org/wiki/Enmeduranki "Enmeduranki"))
+>             - Shuruppak dynasty ([Ziusudra](https://en.wikipedia.org/wiki/Ziusudra "Ziusudra"))
+>             - Kish I dynasty ([Enmebaragesi](https://en.wikipedia.org/wiki/Enmebaragesi "Enmebaragesi"))
+>         - Early Dynastic II period: c. 2800 – c. 2600 BC
+>             - Uruk I dynasty ([Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh "Gilgamesh"))
+>         - Early Dynastic IIIa period: c. 2600 – c. 2500 BC
+>             - [Ur I dynasty](https://en.wikipedia.org/wiki/First_dynasty_of_Ur "First dynasty of Ur")
+>             - [Awan dynasty](https://en.wikipedia.org/wiki/Awan_dynasty "Awan dynasty")
+>             - Kish II dynasty
+>             - Hamazi dynasty
+>         - Early Dynastic IIIb period: c. 2500 – c. 2334 BC
+>             - Uruk II dynasty
+>             - Ur II dynasty
+>             - Adab dynasty
+>             - Mari dynasty
+>             - Kish III dynasty
+>             - Akshak dynasty
+>             - Kish IV dynasty
+>             - Uruk III dynasty
+> - [Early Bronze Age III](https://en.wikipedia.org/wiki/Early_Bronze_Age_III "Early Bronze Age III"): c. 2700 – c. 2200 BC
+>     - [Akkadian period](https://en.wikipedia.org/wiki/Akkadian_Period "Akkadian Period"): c. 2334 – c. 2154 BC
+>         - [Akkad dynasty](https://en.wikipedia.org/wiki/List_of_kings_of_Akkad "List of kings of Akkad") ([Sargon](https://en.wikipedia.org/wiki/Sargon_of_Akkad "Sargon of Akkad"))
+> - [Early Bronze Age IV](https://en.wikipedia.org/wiki/Early_Bronze_Age_IV "Early Bronze Age IV"): c. 2200 – c. 2100 BC
+>     - [Gutian period](https://en.wikipedia.org/wiki/Gutian_period "Gutian period"): c. 2154 – c. 2119 BC
+>         - Uruk IV dynasty
+>         - Gutian dynasty
+> - [Middle Bronze Age I](https://en.wikipedia.org/wiki/Middle_Bronze_Age_I "Middle Bronze Age I"): c. 2100 – c. 2000 BC
+>     - [Ur III period](https://en.wikipedia.org/wiki/Ur_III_period "Ur III period"): c. 2119 – c. 2004 BC
+>         - Uruk V dynasty
+>         - Ur III dynasty
+> - Middle Bronze Age II A: c. 2000 – c. 1750 BC
+>     - [Isin-Larsa period](https://en.wikipedia.org/wiki/Isin-Larsa_period "Isin-Larsa period"): c. 2004 – c. 1736 BC
+>         - [Isin I dynasty](https://en.wikipedia.org/wiki/Dynasty_of_Isin "Dynasty of Isin")
+>         - Larsa dynasty
+> - Middle Bronze Age II B: c. 1750 – c. 1650 BC
+>     - [Old Babylonian period](https://en.wikipedia.org/wiki/Old_Babylonian_period "Old Babylonian period"): c. 1736 – c. 1475 BC
+>         - [Sealand dynasty](https://en.wikipedia.org/wiki/Sealand_Dynasty "Sealand Dynasty")
+
+> [!NOTE] History of Mesopotamia
+> - Pre- and protohistory
+>     - [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A "Pre-Pottery Neolithic A") (10,000–8700 BC)
+>     - [Pre-Pottery Neolithic B](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_B "Pre-Pottery Neolithic B") (8700–6800 BC)
+>     - [Jarmo](https://en.wikipedia.org/wiki/Jarmo "Jarmo") (7500–5000 BC)
+>     - [Hassuna](https://en.wikipedia.org/wiki/Hassuna_culture "Hassuna culture") (~6000 BC)
+>     - [Samarra](https://en.wikipedia.org/wiki/Samarra_culture "Samarra culture") (~5700–4900 BC)
+>     - [Halaf cultures](https://en.wikipedia.org/wiki/Halaf_culture "Halaf culture") (~6000–5300 BC)
+>     - [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period "Ubaid period") (~6500–4000 BC)
+>     - [Uruk period](https://en.wikipedia.org/wiki/Uruk_period "Uruk period") (~4000–3100 BC)
+>     - [Jemdet Nasr period](https://en.wikipedia.org/wiki/Jemdet_Nasr_period "Jemdet Nasr period") (~3100–2900 BC)[[19]](https://en.wikipedia.org/wiki/Mesopotamia#cite_note-20)
+> - Early Bronze Age
+>     - [Early Dynastic period](https://en.wikipedia.org/wiki/Early_Dynastic_Period_(Mesopotamia) "Early Dynastic Period (Mesopotamia)") (~2900–2350 BC)
+>     - [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire "Akkadian Empire") (~2350–2100 BC)
+>     - [Third Dynasty of Ur](https://en.wikipedia.org/wiki/Third_Dynasty_of_Ur "Third Dynasty of Ur") (2112–2004 BC)
+> - Middle Bronze Age
+>     - [Isin-Larsa period](https://en.wikipedia.org/wiki/Isin-Larsa_period "Isin-Larsa period") (19th to 18th century BC)
+>     - [First Babylonian dynasty](https://en.wikipedia.org/wiki/First_Babylonian_dynasty "First Babylonian dynasty") (18th to 17th century BC)
+>     - [Minoan eruption](https://en.wikipedia.org/wiki/Minoan_eruption "Minoan eruption") (c. 1620 BC)
+> - Late Bronze Age
+>     - [Old Assyrian period](https://en.wikipedia.org/wiki/Old_Assyrian_Empire "Old Assyrian Empire") (16th to 11th century BC)
+>     - [Middle Assyrian period](https://en.wikipedia.org/wiki/Middle_Assyrian_Empire "Middle Assyrian Empire") (c. 1365–1076 BC)
+>     - [Kassites](https://en.wikipedia.org/wiki/Kassites "Kassites") in [Babylon](https://en.wikipedia.org/wiki/Babylon "Babylon"), (c. 1595–1155 BC)
+>     - [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse "Late Bronze Age collapse") (12th to 11th century BC)
+> - [Iron Age](https://en.wikipedia.org/wiki/Iron_Age "Iron Age")
+>     - [Syro-Hittite states](https://en.wikipedia.org/wiki/Syro-Hittite_states "Syro-Hittite states") (11th to 7th century BC)
+>     - [Neo-Assyrian Empire](https://en.wikipedia.org/wiki/Neo-Assyrian_Empire "Neo-Assyrian Empire") (10th to 7th century BC)
+>     - [Neo-Babylonian Empire](https://en.wikipedia.org/wiki/Neo-Babylonian_Empire "Neo-Babylonian Empire") (7th to 6th century BC)
+> - [Classical antiquity](https://en.wikipedia.org/wiki/Classical_antiquity "Classical antiquity")
+>     - [Fall of Babylon](https://en.wikipedia.org/wiki/Fall_of_Babylon "Fall of Babylon") (6th century BC)
+>     - [Achaemenid Babylonia](https://en.wikipedia.org/wiki/Persian_Babylonia "Persian Babylonia"), [Achaemenid Assyria](https://en.wikipedia.org/wiki/Achaemenid_Assyria "Achaemenid Assyria") (6th to 4th century BC)
+>     - [Seleucid](https://en.wikipedia.org/wiki/Seleucid_Empire "Seleucid Empire") Mesopotamia (4th to 3rd century BC)
+>     - [Parthian Babylonia](https://en.wikipedia.org/wiki/Parthian_Empire "Parthian Empire") (3rd century BC to 3rd century AD)
+>     - [Osroene](https://en.wikipedia.org/wiki/Osroene "Osroene") (2nd century BC to 3rd century AD)
+>     - [Adiabene](https://en.wikipedia.org/wiki/Adiabene "Adiabene") (1st to 2nd century AD)
+>     - [Hatra](https://en.wikipedia.org/wiki/Hatra "Hatra") (1st to 2nd century AD)
+>     - [Roman Mesopotamia](https://en.wikipedia.org/wiki/Mesopotamia_(Roman_province) "Mesopotamia (Roman province)") (2nd to 7th centuries AD), [Roman Assyria](https://en.wikipedia.org/wiki/Assyria_(Roman_province) "Assyria (Roman province)") (2nd century AD)
+> - [Late Antiquity](https://en.wikipedia.org/wiki/Late_Antiquity "Late Antiquity")
+>     - [Asōristān](https://en.wikipedia.org/wiki/As%C5%8Drist%C4%81n "Asōristān") (3rd to 7th century AD)
+>     - [Muslim conquest](https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia "Muslim conquest of Persia") (mid-7th century AD)
 
 ---
 ## Time Period 1 (2350 BC - 1700 BC)
@@ -70,7 +167,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- [The Bible separates Israelites from Canaanites, but archaeology points that Israelites are a subset of Canaanites]
 	- [The Twelve sons of Jacob fled to Egypt after a drought in Canaan]
 	- [The Twelve were led out of Egypt by Moses to Canaan, and they formed the Twelve tribes of Israel]
-- 2334 - 2154 BC: Akkadian empire was the first known major empire in Mesopotamia.
+- 2334 - 2154 BC: Akkadian empire was the first known major "empire" in Mesopotamia.
 - There was a merger of Sumerian civilization with Akkadian to form a Sumero-Akkadian civilization, and Akkadian would replace Sumerian
 # 2 Millenia BC
 ## Time Period 3 (1700 BC - 1200 BC)
