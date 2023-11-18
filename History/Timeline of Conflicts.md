@@ -451,11 +451,14 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1926: Germany was accepted into the League of Nations thinking they've become peaceful
 - Formation of Nationalist Socialist German Workers party
 - 1929: The Great Depression in the US
-- 1931: Japan seizes Manchuria from China, and instead of removing their troops as voted by the members, they withdrew from the League of Nations
+- 1931: Japan invades Manchuria from China by making a false flag bombing incident at Mukden, and instead of removing their troops as voted by the members, they withdrew from the League of Nations
 - 1933: Hitler rose to power, and withdrew from the League of Nations and the World Disarmament Conference
-- 1937: Japan has an empire, and they rape Nanking, but then they deny it
+- 1937: Japan has an empire, but they kept invading more of China, and they rape Nanking, but then they deny it
+	- They were planning to invade the entire East, or the Greater East Co-Prosperity Sphere
+- Hitler makes friends with Japan and also Italy to take over the world
 - 1939: After the invasion of Poland and Finland by Soviet Union, they were expelled from the League of Nations
 - 1939: World War 2
+	- Germany invades Netherlands, Belgium, Luxembourg, Austria, Czeckosolvakia, Poland
 	- Holocaust
 	- Death of Hitler
 	- Atomic bombs
