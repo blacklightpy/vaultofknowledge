@@ -29,9 +29,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 5400 BC: Sumerian settlements begin
 - Indo-European Horse nomads appear
 [5000 BC: Chalcolithic Age]
-- Fertile Crescent was the land comprisiAncient Mesopotamia and the Levant)
-	- Mesopotamian civilization originated in the valley between the rivers Euphrates and Tigris in modern day Iraq.
-	- The first civilization in Mesopotamia was the Sumerian Civilization
+- Mesopotamia was the site of the earliest civilizations
+	- It was the Greek name for the valley between the rivers Euphrates and Tigris in modern day Iraq.
+	- Mesopotamia and the Levant comprised the Fertile Crescent
+	- The first civilization in Mesopotamia was that of Sumer
 [3300 BC Bronze Age]
 - Nile Valley (Egypt)
 - North China Plain (Eastern China)
