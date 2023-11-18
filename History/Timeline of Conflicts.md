@@ -19,20 +19,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 >			- Aramaic > Western Aramaic > Jewish Palestinian Aramaic > Galilean Dialect
 >	- Heiroglyphics > Sumerian (Of Sumer), Elamtite/Hatamtite/Susian> East Semitic Akkadian, West Semitic > Central Semitic > Northwest Semtic, Arabic > Aramaic, Canaanite Languages (Hebrew, Aramaic, etc.) > Classical Arabic (Quran based)
 >		- Semite was derived from Shem, Noah's faithful son
-
-> [!Note]
-> Organize by:
-> - Millenia (From - To) >
-> 	- Sizable Time Period (From - To) >
-> 		- Civilization
-> 			- DATE: Event
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
 - People spread everywhere across Europe, Africa and Asia
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
-- 5400 BC: Sumerian Civilization develops
+- 5400 BC: Sumerian settlements
 # 4 Millenia BC (5000-2500 BC)
 [5000 BC: Chalcolithic Age]
 - Fertile Crescent (Ancient Mesopotamia and the Levant)
@@ -47,8 +40,8 @@ With agriculture, food became more reliable, but less varied, and people became 
 
 ---
 ### Kingdoms:
-- Uruk Period
-- Jemdet Nasr Period
+- 4100 - 3100 BC: Uruk Period
+- Jemdet Nasr Period / Uruk III Phase
 - Early Dynastic Period
 - Akkadian Empire
 - Gutians
@@ -424,7 +417,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1919: Paris Peace Conference and the establishment of League of Nations
 	- The League of Nations was established to make sure that countries don't invade other countries
 		- That's when all countries were fixed and decided
-		- US didn't join it because Article X would require it to help other nations under war, which threated
+		- US didn't join it because Article X would require them to help other nations under war, which threatened their sovereignty.
 	- The Allied powers had to decide what to do about the German colonies in Africa and the Pacific, and the Arabic-speaking provinces of the Ottoman Empire.
 	- The Allied powers originally wanted to annex the captured lands of the Central powers, but instead, they decided to just supervise it until the inhabitants decide to achieve self-governance and independence.
 	- So the League of Nations Mandates were also set up
