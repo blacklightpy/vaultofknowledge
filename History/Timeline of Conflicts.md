@@ -26,18 +26,22 @@ With agriculture, food became more reliable, but less varied, and people became 
 - People travelled from Asia to Americas through the bridge
 # Holocene Epoch Begins
 # 4 Millenia BC (5000-2500 BC)
+- 55000 BC: Australian aboriginals were found in this period
 - 5400 BC: Sumerian settlements begin
 - Indo-European Horse nomads appear
+- 8000 BC: Neolithic settlements
+- 6000 BC: Neolithic settlements appear all over Egypt
+- West Asia
 [5000 BC: Chalcolithic Age]
 - Mesopotamia was the site of the earliest civilizations
 	- It was the Greek name for the valley between the rivers Euphrates and Tigris in modern day Iraq.
 	- Mesopotamia and the Levant comprised the Fertile Crescent
-	- The first civilization in Mesopotamia was that of Sumer
+	- 4100 BC: The first "civilization" in Mesopotamia was that of Sumer, during the Uruk Period
 [3300 BC Bronze Age]
 - Nile Valley (Egypt)
 - North China Plain (Eastern China)
 - Indus River Valley / Harappan (Northwest India and Pakistan)
-- Norte Chico / Caral Supe (South America)
+- Norte Chico / Caral Supe (Mesoamerica)
 
 - 2200 BC: The Indo-Europeans learn how to put wheels on horses
 
