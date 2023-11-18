@@ -458,7 +458,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Hitler makes friends with Japan and also Italy to take over the world
 - 1939: After the invasion of Poland and Finland by Soviet Union, they were expelled from the League of Nations
 - 1939: World War 2
-	- Germany invades Netherlands, Belgium, Luxembourg, Austria, Czeckosolvakia, Poland
+	- Germany invades their neighbours - Netherlands, Belgium, Luxembourg, Austria, Czechoslovakia, Poland and Denmark
+	- Then they invaded France, the neighbours' neighbour and then they tried to invade Britain
+	- US Helped Britain, and stopped helping Japan because their friends are not friends of their friends, and also because they wanted to invade the entire East and Pacific
+	- US did not want to focus on the war, caring about their image
+	- 1941: Japan attacks Pearl Harbour, Hawaii
 	- Holocaust
 	- Death of Hitler
 	- Atomic bombs
