@@ -173,6 +173,201 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - [Late Period](https://en.wikipedia.org/wiki/Late_Period_of_ancient_Egypt "Late Period of ancient Egypt") ([Twenty-sixth](https://en.wikipedia.org/wiki/Twenty-sixth_Dynasty_of_Egypt "Twenty-sixth Dynasty of Egypt")–[Thirty-first](https://en.wikipedia.org/wiki/Thirty-first_Dynasty_of_Egypt "Thirty-first Dynasty of Egypt") Dynasties)
 > - [Ptolemaic Egypt](https://en.wikipedia.org/wiki/Ptolemaic_Kingdom "Ptolemaic Kingdom") (305–30 BC)
 
+> [!NOTE] History of South Asia
+> ### Paleolithic and Mesolithic age
+> 
+> - [Madrasian culture](https://en.wikipedia.org/wiki/Madrasian_culture "Madrasian culture") ( 1.5 MYA)
+> - [Soanian culture](https://en.wikipedia.org/wiki/Soanian "Soanian") (c. 500,000–125,000 BCE)
+> 
+> - [South Asian Stone Age](https://en.wikipedia.org/wiki/South_Asian_Stone_Age "South Asian Stone Age") (c. 50,000–5000 BCE)
+> 
+> ### Neolithic age
+> 
+> - [Bhirrana culture](https://en.wikipedia.org/wiki/Bhirrana "Bhirrana") (7570–6200 BCE)
+> - [Mehrgarh culture](https://en.wikipedia.org/wiki/Mehrgarh "Mehrgarh") (7000–3300 BCE)
+> 
+> ### Bronze Age
+> 
+> [Bronze Age India](https://en.wikipedia.org/wiki/Bronze_Age_India "Bronze Age India") (3500–1500 BCE)
+> 
+> - [Kalibangan](https://en.wikipedia.org/wiki/Kalibangan "Kalibangan") (3500–2000 BCE)
+> - [Indus Valley civilization](https://en.wikipedia.org/wiki/Indus_Valley_civilization "Indus Valley civilization") (3300–1300 BCE)
+>     - Early Harappan Culture (3300–2600 BCE)
+>     - Mature Harappan Culture (2600–1750 BCE)
+>     - Late Harappan Culture (1750–1300 BCE)
+> - [Ahar Banas culture](https://en.wikipedia.org/wiki/Ahar%E2%80%93Banas_culture "Ahar–Banas culture")
+> - [Copper Hoard culture](https://en.wikipedia.org/wiki/Copper_Hoard_Culture "Copper Hoard Culture")
+> - [Painted Grey Ware culture](https://en.wikipedia.org/wiki/Painted_Grey_Ware_culture "Painted Grey Ware culture")
+> - [Black and red ware culture](https://en.wikipedia.org/wiki/Black_and_red_ware "Black and red ware")
+> - [Bara culture](https://en.wikipedia.org/wiki/Bara_culture "Bara culture")
+> - [Malwa culture](https://en.wikipedia.org/wiki/Malwa_culture "Malwa culture")
+> - [Jorwe culture](https://en.wikipedia.org/wiki/Jorwe_culture "Jorwe culture")
+> - Other [chalcolithic](https://en.wikipedia.org/wiki/Chalcolithic "Chalcolithic") sites include Patapadu (Andhra Pradesh)
+> 
+> ### Iron Age and Vedic period
+> 
+> Main article: [Vedic period](https://en.wikipedia.org/wiki/Vedic_period "Vedic period")
+> 
+> - [Vedic period](https://en.wikipedia.org/wiki/Vedic_period "Vedic period") (c. 1500–600 BCE)
+>     - [Puru Kingdom](https://en.wikipedia.org/wiki/Puru_(Vedic_tribe) "Puru (Vedic tribe)") (c. 1500–1200 BCE)
+>     - [Brihadratha Dynasty](https://en.wikipedia.org/wiki/Brihadratha "Brihadratha") (c. 1700–689 BCE)
+>     - [Gandhara Kingdom](https://en.wikipedia.org/wiki/Gandhara_Kingdom "Gandhara Kingdom") (c. 1500–500 BCE)
+>     - [Kuru Dynasty](https://en.wikipedia.org/wiki/Kuru_Dynasty "Kuru Dynasty") (c. 1200–350 BCE)
+>     - [Panchala Dynasty](https://en.wikipedia.org/wiki/Panchala_Dynasty "Panchala Dynasty") (c. 1200–500 BCE)
+>     - [Avanti Kingdom](https://en.wikipedia.org/wiki/Avanti_(Ancient_India) "Avanti (Ancient India)") (c. 1200–300 BCE)
+> - Later [Vedic period](https://en.wikipedia.org/wiki/Vedic_period "Vedic period") (c. 1000–600 BCE)
+>     - [Matsya Kingdom](https://en.wikipedia.org/wiki/Matsya_(tribe) "Matsya (tribe)")   ( c.1000–500 BCE )
+>     - [Chedi Kingdom](https://en.wikipedia.org/wiki/Chedi_Kingdom "Chedi Kingdom")   ( c.1000–300 BCE)
+>     - [Surasena Kingdom](https://en.wikipedia.org/wiki/Surasena_Kingdom "Surasena Kingdom")   (c.1000–600 BCE)
+>     - [Kamboja Kingdom](https://en.wikipedia.org/wiki/Kamboja_Kingdom "Kamboja Kingdom")   (c. 1000–550 BCE)
+>     - [Videha Kingdom](https://en.wikipedia.org/wiki/Kingdom_of_the_Videhas "Kingdom of the Videhas")   (c. 800–300 BCE)
+> - [Pradyota dynasty](https://en.wikipedia.org/wiki/Pradyota_dynasty "Pradyota dynasty")   (c. 682–544 BCE)
+> - [Haryanka Kingdom](https://en.wikipedia.org/wiki/Haryanka_dynasty "Haryanka dynasty")   (544–415 BCE)
+> - [Pandyan Kingdom](https://en.wikipedia.org/wiki/Pandyan_dynasty "Pandyan dynasty")   (600 BCE–1650 CE)
+> - [Chera Kingdom](https://en.wikipedia.org/wiki/Chera_dynasty "Chera dynasty")   (600 BCE–1102 CE)
+> - [Chola Kingdom](https://en.wikipedia.org/wiki/Chola_dynasty "Chola dynasty")   (600 BCE–1279 CE)
+> - [Ror Kingdom](https://en.wikipedia.org/wiki/History_of_Sindh "History of Sindh")   (450 BCE–489 CE)
+> - [Shishunaga dynasty](https://en.wikipedia.org/wiki/Shishunaga_dynasty "Shishunaga dynasty")   (415–321 BCE)
+> - [Nanda Empire](https://en.wikipedia.org/wiki/Nanda_Empire "Nanda Empire")   (421–345 BCE)
+> - [Malava Dynasty](https://en.wikipedia.org/wiki/Malava "Malava")   (392 BCE–78 CE)
+> - [Macedonian Empire](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)#Empire "Macedonia (ancient kingdom)")   (330–323 BCE)
+> - [Maurya Empire](https://en.wikipedia.org/wiki/Maurya_Empire "Maurya Empire")   (321–184 BCE)
+> - [Pallava Kingdom](https://en.wikipedia.org/wiki/Pallava_dynasty "Pallava dynasty")   (250 BCE–800 CE)
+> - [Maha-Megha-Vahana Empire](https://en.wikipedia.org/wiki/Mahameghavahana_dynasty "Mahameghavahana dynasty")   (250 BCE–400 CE)
+> 
+> ### Middle kingdoms
+> 
+> Main article: [Middle kingdoms of India](https://en.wikipedia.org/wiki/Middle_kingdoms_of_India "Middle kingdoms of India")
+> 
+> - [Satavahana Empire](https://en.wikipedia.org/wiki/Satavahana_dynasty "Satavahana dynasty")   (230 BCE–220 CE)
+> - [Kuninda Kingdom](https://en.wikipedia.org/wiki/Kuninda_Kingdom "Kuninda Kingdom")   (200 BCE–300 CE)
+> - [Indo-Scythian Kingdom](https://en.wikipedia.org/wiki/Indo-Scythians "Indo-Scythians")   (200 BCE–400 CE)
+> - [Shunga Empire](https://en.wikipedia.org/wiki/Shunga_Empire "Shunga Empire")   (185–73 BCE)
+> - [Indo-Greek Kingdom](https://en.wikipedia.org/wiki/Indo-Greek_Kingdom "Indo-Greek Kingdom")   (180 BCE–10 CE)
+> - [Kanva Empire](https://en.wikipedia.org/wiki/Kanva_dynasty "Kanva dynasty")   (75–26 BCE)
+> - [Indo-Parthian Kingdom](https://en.wikipedia.org/wiki/Indo-Parthian_Kingdom "Indo-Parthian Kingdom")   (21–130s CE)
+> - [Western Satrap Empire](https://en.wikipedia.org/wiki/Western_Satraps "Western Satraps")   (35–405 CE)
+> - [Kushan Empire](https://en.wikipedia.org/wiki/Kushan_Empire "Kushan Empire")   (60–240 CE)
+> - [Bharshiva Dynasty](https://en.wikipedia.org/wiki/Bharshiva_dynasty "Bharshiva dynasty")   (170–350 CE)
+> - [Nagas of Padmavati](https://en.wikipedia.org/wiki/Nagas_of_Padmavati "Nagas of Padmavati")   (210–340 CE)
+> - [Sasanian Empire](https://en.wikipedia.org/wiki/Sasanian_Empire "Sasanian Empire")   (224–651 CE)
+> - [Indo-Sassanid Kingdom](https://en.wikipedia.org/wiki/Indo-Sasanians "Indo-Sasanians")   (230–360 CE)
+> - [Vakataka Empire](https://en.wikipedia.org/wiki/Vakataka_dynasty "Vakataka dynasty")   (250s–6th century CE)
+> - [Kalabhra Empire](https://en.wikipedia.org/wiki/Kalabhra_dynasty "Kalabhra dynasty")   (250–600 CE)
+> - [Gupta Empire](https://en.wikipedia.org/wiki/Gupta_Empire "Gupta Empire")   (280–550 CE)
+> - [Kadamba Empire](https://en.wikipedia.org/wiki/Kadamba_dynasty "Kadamba dynasty")   (345–525 CE)
+> - [Western Ganga Kingdom](https://en.wikipedia.org/wiki/Western_Ganga_dynasty "Western Ganga dynasty")   (350–1000 CE)
+> - [Kamarupa Kingdom](https://en.wikipedia.org/wiki/Kamarupa "Kamarupa")   (350–1100 CE)
+> - [Vishnukundina Empire](https://en.wikipedia.org/wiki/Vishnukundina "Vishnukundina")   (420–624 CE)
+> - [Maitraka Empire](https://en.wikipedia.org/wiki/Maitraka "Maitraka")   (475–767 CE)
+> - [Huna Kingdom](https://en.wikipedia.org/wiki/Huna_people "Huna people")   (475–576 CE)
+> - [Rai Kingdom](https://en.wikipedia.org/wiki/Rai_dynasty "Rai dynasty")   (489–632 CE)
+> - [Guhila dynasty](https://en.wikipedia.org/wiki/Guhila_dynasty "Guhila dynasty") (500-1950 CE)
+> - [Turk Shahis](https://en.wikipedia.org/wiki/Turk_Shahis "Turk Shahis") (500–850 CE)
+> - [Hindu Shahis](https://en.wikipedia.org/wiki/Hindu_Shahis "Hindu Shahis") (850–1026 CE)
+> - [Chalukya Empire](https://en.wikipedia.org/wiki/Chalukya_dynasty "Chalukya dynasty")   (543–753 CE)
+> - [Maukhari Empire](https://en.wikipedia.org/wiki/Maukhari "Maukhari")   (550s–8th century CE)
+> - [Kalachuris of Mahishmati](https://en.wikipedia.org/wiki/Kalachuris_of_Mahishmati "Kalachuris of Mahishmati") (6th–7th century CE)
+> - [Harsha Empire](https://en.wikipedia.org/wiki/Empire_of_Harsha "Empire of Harsha")   (606–647 CE)
+> - [Eastern Chalukya Kingdom](https://en.wikipedia.org/wiki/Eastern_Chalukyas "Eastern Chalukyas")   (624–1075 CE)
+> - [Rashidun Caliphate](https://en.wikipedia.org/wiki/Rashidun_Caliphate "Rashidun Caliphate")   (632–661 CE)
+> - [Gurjara-Pratihara Empire](https://en.wikipedia.org/wiki/Gurjara-Pratihara "Gurjara-Pratihara")   (650–1036 CE)
+> - [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate "Umayyad Caliphate")   (661–750 CE)
+> - [Kalachuris of Tripuri](https://en.wikipedia.org/wiki/Kalachuris_of_Tripuri "Kalachuris of Tripuri")   (7th-12th century CE)
+> - [Pala Empire](https://en.wikipedia.org/wiki/Pala_Empire "Pala Empire")   (750–1174 CE)
+> - [Rashtrakuta Empire](https://en.wikipedia.org/wiki/Rashtrakuta_dynasty "Rashtrakuta dynasty")   (753–982 CE)
+> - [Paramara Kingdom](https://en.wikipedia.org/wiki/Paramara_dynasty "Paramara dynasty")   (800–1327 CE)
+> - [Yadava Empire](https://en.wikipedia.org/wiki/Seuna_dynasty "Seuna dynasty")   (850–1334 CE)
+> - [Chaulukya Kingdom](https://en.wikipedia.org/wiki/Chaulukya_dynasty "Chaulukya dynasty")   (942–1244 CE)
+> - [Western Chalukya Empire](https://en.wikipedia.org/wiki/Western_Chalukya_Empire "Western Chalukya Empire")   (973–1189 CE)
+> - [Lohara Kingdom](https://en.wikipedia.org/wiki/Lohara_dynasty "Lohara dynasty")   (1003–1320 CE)
+> - [Hoysala Empire](https://en.wikipedia.org/wiki/Hoysala_Empire "Hoysala Empire")   (1040–1346 CE)
+> - [Sena Empire](https://en.wikipedia.org/wiki/Sena_dynasty "Sena dynasty")   (1070–1230 CE)
+> - [Eastern Ganga Empire](https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty "Eastern Ganga dynasty")   (1078–1434 CE)
+> - [Zamorin Kingdom](https://en.wikipedia.org/wiki/Zamorin_of_Calicut "Zamorin of Calicut")   (1102–1766 CE)
+> - [Kakatiya Kingdom](https://en.wikipedia.org/wiki/Kakatiya_dynasty "Kakatiya dynasty")   (1083–1323 CE)
+> - [Chutiya Kingdom](https://en.wikipedia.org/wiki/Chutiya_Kingdom "Chutiya Kingdom")   (1187-1673 CE)
+> - [Kalachuris of Kalyani](https://en.wikipedia.org/wiki/Kalachuris_of_Kalyani "Kalachuris of Kalyani")   (1156–1184 CE)
+> 
+> ### Late medieval period
+> 
+> [Late medieval period](https://en.wikipedia.org/wiki/Medieval_India "Medieval India")   (1206–1596)
+> 
+> - [Delhi Sultanate](https://en.wikipedia.org/wiki/Delhi_Sultanate "Delhi Sultanate")   (1206–1526 CE)
+>     - [Mamluk Sultanate](https://en.wikipedia.org/wiki/Mamluk_Dynasty_(Delhi) "Mamluk Dynasty (Delhi)")   (1206–1290 CE)
+>     - [Khalji Sultanate](https://en.wikipedia.org/wiki/Khalji_dynasty "Khalji dynasty")   (1290–1320 CE)
+>     - [Tughlaq Sultanate](https://en.wikipedia.org/wiki/Tughlaq_dynasty "Tughlaq dynasty")   (1320–1414 CE)
+>     - [Sayyid Sultanate](https://en.wikipedia.org/wiki/Sayyid_dynasty "Sayyid dynasty")   (1414–1451 CE)
+>     - [Lodi Sultanate](https://en.wikipedia.org/wiki/Lodi_dynasty "Lodi dynasty")   (1451–1526 CE)
+> - [Deva Kingdom](https://en.wikipedia.org/wiki/Deva_dynasty "Deva dynasty")   (12th century–13th century CE)
+> - [Ahom kingdom](https://en.wikipedia.org/wiki/Ahom_kingdom "Ahom kingdom")   (1228–1826 CE)
+> - [Chitradurga Kingdom](https://en.wikipedia.org/wiki/Nayakas_of_Chitradurga "Nayakas of Chitradurga")   (1300–1779 CE)
+> - [Reddy Kingdom](https://en.wikipedia.org/wiki/Reddy_dynasty "Reddy dynasty")   (1325–1448 CE)
+> - [Vijayanagara Empire](https://en.wikipedia.org/wiki/Vijayanagara_Empire "Vijayanagara Empire")   (1336–1646 CE)
+> - [Bengal Sultanate](https://en.wikipedia.org/wiki/Bengal_Sultanate "Bengal Sultanate")   (1352–1576 CE)
+>     - [Ilyas Shahi Sultanate](https://en.wikipedia.org/wiki/Ilyas_Shahi_dynasty "Ilyas Shahi dynasty") (1352-1487 CE)
+>     - [Hussain Shahi Sultanate](https://en.wikipedia.org/wiki/Hussain_Shahi_dynasty "Hussain Shahi dynasty") (1494-1538 CE)
+>     - [Karrani Sultanate](https://en.wikipedia.org/wiki/Karrani_dynasty "Karrani dynasty") (1564-1576 CE)
+> - [Garhwal Kingdom](https://en.wikipedia.org/wiki/Garhwal_Kingdom "Garhwal Kingdom")   (1358–1803 CE)
+> - [Mysore Kingdom](https://en.wikipedia.org/wiki/Kingdom_of_Mysore "Kingdom of Mysore")   (1399–1947 CE)
+> - [Gajapati Empire](https://en.wikipedia.org/wiki/Gajapati_Empire "Gajapati Empire")   (1434–1541 CE)
+> - [Keladi Kingdom](https://en.wikipedia.org/wiki/Nayakas_of_Keladi "Nayakas of Keladi")   (1499–1763 CE)
+> - [Deccan Sultanates](https://en.wikipedia.org/wiki/Deccan_sultanates "Deccan sultanates")   (1490–1596 CE)
+> - [Koch Kingdom](https://en.wikipedia.org/wiki/Koch_dynasty "Koch dynasty")   (1515–1947 CE)
+> 
+> ### Early modern period
+> 
+> [Early modern period](https://en.wikipedia.org/wiki/India#Early_modern_India "India")   (1526–1858)
+> 
+> - [Bengal Sultanate](https://en.wikipedia.org/wiki/Bengal_Sultanate "Bengal Sultanate")   (1352–1576 CE)
+>     - [Hussain Shahi Sultanate](https://en.wikipedia.org/wiki/Hussain_Shahi_dynasty "Hussain Shahi dynasty") (1494-1538 CE)
+>     - [Karrani Sultanate](https://en.wikipedia.org/wiki/Karrani_dynasty "Karrani dynasty") (1564-1576 CE)
+> - [Mughal Empire](https://en.wikipedia.org/wiki/Mughal_Empire "Mughal Empire")   (1526–1858 CE)
+>     - [Sur Empire](https://en.wikipedia.org/wiki/Sur_Empire "Sur Empire")   (1540–1556 CE)
+> - [Madurai Kingdom](https://en.wikipedia.org/wiki/Madurai_Nayak_dynasty "Madurai Nayak dynasty")   (1559–1736 CE)
+> - [Thanjavur Kingdom](https://en.wikipedia.org/wiki/Thanjavur_Nayak_kingdom "Thanjavur Nayak kingdom")   (1572–1918 CE)
+> - [Marava Kingdom](https://en.wikipedia.org/wiki/Ramnad_estate "Ramnad estate")   (1600–1750 CE)
+> - [Thondaiman Kingdom](https://en.wikipedia.org/wiki/Tondaiman "Tondaiman")   (1650–1948 CE)
+> - [Maratha Empire](https://en.wikipedia.org/wiki/Maratha_Empire "Maratha Empire")   (1674–1947 CE)
+> - [Sikh Confederacy](https://en.wikipedia.org/wiki/Misl "Misl")   (1707–1799 CE)
+> - [Durrani Empire](https://en.wikipedia.org/wiki/Durrani_Empire "Durrani Empire")   (1747–1823 CE)
+> - [Travancore Kingdom](https://en.wikipedia.org/wiki/Travancore "Travancore")   (1729–1947 CE)
+> - [Sikh Empire](https://en.wikipedia.org/wiki/Sikh_Empire "Sikh Empire")   (1799–1849 CE)
+> 
+> ### European colonial period
+> 
+> [Colonial period](https://en.wikipedia.org/wiki/Colonial_India "Colonial India")   (1510–1961 CE)
+> 
+> - [Portuguese India](https://en.wikipedia.org/wiki/Portuguese_India "Portuguese India")   (1510–1961 CE)
+> - [Dutch India](https://en.wikipedia.org/wiki/Dutch_India "Dutch India")   (1605–1825 CE)
+> - [Danish India](https://en.wikipedia.org/wiki/Danish_India "Danish India")   (1620–1869 CE)
+> - [French India](https://en.wikipedia.org/wiki/French_India "French India")   (1759–1954 CE)
+> - [Company Raj](https://en.wikipedia.org/wiki/Company_rule_in_India "Company rule in India")   (1757–1858 CE)
+> - [British Raj](https://en.wikipedia.org/wiki/British_Raj "British Raj")   (1858–1947 CE)
+> - [Partition of British India](https://en.wikipedia.org/wiki/Partition_of_British_India "Partition of British India")   (1947 CE)
+> 
+> ### Kingdoms of Sri Lanka
+> 
+> Main article: [History of Sri Lanka](https://en.wikipedia.org/wiki/History_of_Sri_Lanka "History of Sri Lanka")
+> 
+> - [Kingdom of Tambapanni](https://en.wikipedia.org/wiki/Kingdom_of_Tambapanni "Kingdom of Tambapanni")   (543–505 BCE)
+> - [Kingdom of Upatissa Nuwara](https://en.wikipedia.org/wiki/Kingdom_of_Upatissa_Nuwara "Kingdom of Upatissa Nuwara")   (505–377 BCE)
+> - [Anuradhapura Kingdom](https://en.wikipedia.org/wiki/Anuradhapura_Kingdom "Anuradhapura Kingdom")   (377 BCE–1017 CE)
+> - [Kingdom of Ruhuna](https://en.wikipedia.org/wiki/Principality_of_Ruhuna "Principality of Ruhuna")   (200 CE)
+> - [Kingdom of Polonnaruwa](https://en.wikipedia.org/wiki/Kingdom_of_Polonnaruwa "Kingdom of Polonnaruwa")   (300–1310 CE)
+> - [Jaffna Kingdom](https://en.wikipedia.org/wiki/Jaffna_kingdom "Jaffna kingdom")   (1215–1624 CE)
+> - [Kingdom of Dambadeniya](https://en.wikipedia.org/wiki/Kingdom_of_Dambadeniya "Kingdom of Dambadeniya")   (1220–1272 CE)
+> - [Kingdom of Yapahuwa](https://en.wikipedia.org/wiki/Yapahuwa "Yapahuwa")   (1272–1293 CE)
+> - [Kingdom of Kurunegala](https://en.wikipedia.org/wiki/Kurunegala "Kurunegala")   (1293–1341 CE)
+> - [Kingdom of Gampola](https://en.wikipedia.org/wiki/Gampola "Gampola")   (1341–1347 CE)
+> - [Kingdom of Raigama](https://en.wikipedia.org/wiki/Kingdom_of_Gampola "Kingdom of Gampola")   (1347–1415 CE)
+> - [Kingdom of Kotte](https://en.wikipedia.org/wiki/Kingdom_of_Kotte "Kingdom of Kotte")   (1412–1597 CE)
+> - [Kingdom of Sitawaka](https://en.wikipedia.org/wiki/Kingdom_of_Sitawaka "Kingdom of Sitawaka")   (1521–1594 CE)
+> - [Kingdom of Kandy](https://en.wikipedia.org/wiki/Kingdom_of_Kandy "Kingdom of Kandy")   (1469–1815 CE)
+> - [Portuguese Ceylon](https://en.wikipedia.org/wiki/Portuguese_Ceylon "Portuguese Ceylon")   (1505–1658 CE)
+> - [Dutch Ceylon](https://en.wikipedia.org/wiki/Dutch_Ceylon "Dutch Ceylon")   (1656–1796 CE)
+> - [British Ceylon](https://en.wikipedia.org/wiki/British_Ceylon "British Ceylon")   (1815–1948 CE)
+
 ---
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East
