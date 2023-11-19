@@ -26,6 +26,7 @@ A very wild addition to this, perhaps $c$ is the constant of our universe, but a
 		- The problem with most hidden variable theories is that when you try to write a Lagrangian for such a system, you aren't able to incorporate the Lorentz Invariant to start with.
 		- This answer says, it doesn't fit with special relativity, and violating it would be kind of a major sin because of how successful it is: https://physics.stackexchange.com/a/666576
 			- He also explains how string theory aims to solve this
+			- He says Heisenberg just showed how the first quantization and second quantization are equivalent, which people misunderstood as everything is quantum fields
 
 # Various Interpretations of the Model
 - Ensemble interpretation
