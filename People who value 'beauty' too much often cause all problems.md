@@ -1,4 +1,4 @@
-People who value beauty too much often cause all problems.
+People who value beauty too much often cause all problems. That is to say, in the conventional idea of beautiful and ugly things, because otherwise, I wouldn't be making any point.
 
 For example, I'm talking about people who view themselves as romantics and are attracted to beautiful aspects of life. The problem is that the definition of beauty often depends on viewing other aspects of life as less beautiful or important.
 
