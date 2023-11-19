@@ -77,6 +77,8 @@ Banu Shutayba: One of the Jewish tribes of Arabia during Muhammad’s era. They 
 ## Jews in Yemen
 
 Yemenite Jewish traditions have traced the earliest settlement of Jews in this region back to the time of King Solomon. King Solomon sent Jewish merchant marines to Yemen to prospect for gold and silver with which to adorn the Temple in Jerusalem. The average Jewish population of Yemen for the first five centuries CE is said to have been about 3,000. Maimonides, the great rabbi and thinker of the 12th century, leader of Egyptian Jewry, wrote his famous Letter to Yemen. Emigration from Yemen to Palestine – then ruled by the Ottomom Empire – began in 1881 and continued almost without interruption until 1914.
+
+Source: https://www.israelandyou.com/jews-in-the-arabia/
 ~~~
 
 ~~~
