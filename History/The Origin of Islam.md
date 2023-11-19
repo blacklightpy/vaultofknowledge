@@ -49,6 +49,20 @@ Judaism found its place in the Arabian Peninsula by immigration of Jews, which 
 - Survivors of the Bar Kochba Revolt, in 135 CE, who sought religious freedom in the Arabian desert rather than live under the yoke of the Romans.
 - Immigration, around 300 CE, by people who are known in Islamic literature as the Banu Aus and the Banu Khazraj who fled the Ghassanids in Syria.
 - Migration from Judea into southern Arabian Peninsula to ride the ascent of the Himyarite Kingdom around 380 CE. Immigration to the Arabian Peninsula began in earnest in the 2nd century CE, and by the 6th and 7th centuries there was a considerable Jewish population in Hejaz, mostly in and around Medina. This was in part due to the embrace of Judaism by such leaders as Dhu Nuwas.
+
+# Jewish Tribes of Medina
+- Banu Alfageer: one of the Jewish tribes of Arabia during Muhammad’s era.
+- Banu Alkahinan:  patrilineal descent from the biblical Aaron (also Aharon), brother of Moses.
+- Banu Awf: One of the Jewish tribes of Arabia during Muhammad’s era. The Banu Awf: was an Arab tribe who wished to settle in the Jewish-ruled Tayma. The local people in Tayma insisted as a condition of settling in Tayma, Banu Awf must adopt Judaism. After having done so, they moved on to Yathrib.
+- Banu Aws: They fled Syria under Ghassanid rule, then fled Yathrib (presently known as Medina), and after expulsion by Muhammed, back to Syria.
+- Banu Harith: or Bnei Chorath were rulers of Najran.
+- Banu Nadir: Sub-clan of the al-Kāhinān, located in Yathrib (Medina). One of the three Jewish tribes that had settled in Medina before the rise of Islam in Arabia
+- Banu Najjar:  (“sons of the carpenter”) or Banu al-Naggar is the name of several unrelated historical and modern-day tribes throughout the Arab world. The individual tribes vary in religious composition.
+- Banu Qainuqa: Most powerful of all the Jewish tribes of the peninsula before Islam. One of the three Jewish tribes that had settled in Medina before the rise of Islam in Arabia. The great-grandfather of Banu Qaynuqa tribe is Qaynuqa ibn Amchel ibn Munshi ibn Yohanan ibn Benjamin ibn Saron ibn Naphtali ibn Hayy ibn Moses and they are descendant of Manasseh ibn Joseph ibn Jacob ibn Isaac son of Abraham.
+- Banu Quda’a: Himyarite tribe of converts to Sadducee Judaism. A group of Arab tribes with unclear genealogical origins, with traditional Arab genealogists ascribing their descent to Ma’add ( ancient ancestor of the Islamic prophet Muhammad), Himyar Kingdom or both.
+- Banu Qurayza:  Sub-clan of the al-Kāhinān, located in Yathrib (Medina), “principal family” fled Syria under Ghassanid rule, then fled Medina, after expulsion by Prophet Muhammed, back to Syria. One of the three Jewish tribes that had settled in Medina before the rise of Islam in Arabia.
+- Banu Sa’ida: A clan of the Banu Khazraj tribe of Medina in the era. Their Jewish allies or clients are mentioned in the Constitution of Medina of Muhammad.
+Banu Shutayba: One of the Jewish tribes of Arabia during Muhammad’s era. They were included in the Constitution of Medina as allies to the Muslims.
 ~~~
 
 ~~~
