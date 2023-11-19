@@ -24,7 +24,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - The name Syria derives from Assyria, which originated in modern day Iraq
 > - The Syria region refers to Greater Syria or Syria-Palestine, which is just the Levant in the Narrow definition (Syria, Jordan, Lebanon, Palestine, Hatay Province (Turkey), Cyprus, and UK Territories in Cyprus Islands)
 > - During Hellenistic period, the term Coele-Syria applied to the entire Levant
-> - Under Roman rule, it referred to the province of Syria, which was divided into Syria Ph
+> - Under Roman rule, it referred to the province of Syria, which was divided into Syria Phoenecia and Coele Syria, and to the province of Syria Palaestina.
+> - After the Muslim conquest of the Levant, it was renamed to Sham
+> - In the 19th century, the name Syria was revived in it's modern Arabic form to denote the whole of Bilad al-Sham, as Suriyah or Suriyya.
+> - After WWI, Britain and France split up the regions
 
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
@@ -774,7 +777,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 			- Formed Mandatory Palestine
 			- Britain mandated equal residence for Jews and Arabs in Palestine, as per the Balfour Declaration
 			- The Balfour declaration was further confusing the issue with the Arabs
-			- Transjordan was added to the mandate after Franco-Syrian War
+			- The Emirate of Transjordan was added to the mandate after Franco-Syrian War
 		- In total, Palestine, Lebanon, Syria, Iraq, Transjordan were League of Mandates
 		- Japan got to keep all the land they took from Germany
 - 1919: Khilafat Movement
