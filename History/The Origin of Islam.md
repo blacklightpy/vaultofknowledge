@@ -61,6 +61,10 @@ These killings destroyed the trade of Yemen with Europe and involved Dhu Nuwas i
 ~~~
 
 ~~~
+Sabaean Kingdom (Arab kingdom of Saba / Biblican Kingdom of Sheba) > Himyarite Dynasty (Greeks) > Aksum/Axum Dynasty
+~~~
+
+~~~
 - The Medinese, which consisted of Aws and Khazraj, along with their Jewish allies, Banu Nadir, Banu Qurayza, and Banu Qaynuqa, were involved in degenerating years of warfare such as battle of Sumair, battle of Banu Jahjaha of Aus-Banu Mazin of Khazraj, battle of Sararah day, battle of Banu Wa'il ibn Zayd, battle of Zhufr-Malik, battle of Fari', battle of Hathib, battle of Rabi' day, first battle of Fijar in Yathrib (not Fijar war between Qays with Kinana in Mecca), battle of Ma'is, battle of Mudharras, and second battle of Fijar in Yathrib. The Medinese also even contacted against foreign invaders came from outside Hejaz, including such as Shapur II of Sasanian Empire in relatively vague result, and also in successful defense against Himyarite Kingdom under their sovereign, Tabban Abu Karib, who also known as Dhu al-Adh'ar. However, the most terrible conflict for both Aws and Khazraj were a civil war called the battle of Bu'ath, which leave bitter taste for both clans, and caused them to grew weary of war, due to the exceptionally high level of violence, even by their standards, and the needless massacres that occurred during that battle.
 ~~~
 
