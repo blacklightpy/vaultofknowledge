@@ -396,9 +396,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0f3817d12cfe3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Mechanics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -465,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md",
+                "file": "Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md",
+                "file": "Quantum Mechanics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -502,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md"
+                "file": "Quantum Mechanics.md"
               }
             }
           },
@@ -551,13 +564,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c02e76be58a65622",
+  "active": "b0f3817d12cfe3e2",
   "lastOpenFiles": [
+    "Spectral Efficiency.md",
+    "The true principles of life which are suppressed in society.md",
     "People who value 'beauty' too much often cause all problems.md",
     "My idea of the dual nature of electrons.md",
     "History/Timeline of History.md",
     "The History of Oppression of Jews.md",
-    "The true principles of life which are suppressed in society.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "Arguments against Religion 2.md",
@@ -573,7 +587,6 @@
     "Social Philosophies.md",
     "Be happy, not proud.md",
     "Barbie The Movie.md",
-    "Spectral Efficiency.md",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",

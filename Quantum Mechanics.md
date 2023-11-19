@@ -1,3 +1,4 @@
+My usual interpretation was based on the ["classical wave optics formulation"](https://en.wikipedia.org/wiki/Double-slit_experiment#Classical_wave-optics_formulation)
 # Shortcomings
 - "God does not play dice" - Einstein
 - Is the electron a probability wave ($\psi^*\psi$), or is it the orbital itself ($\psi$)?
