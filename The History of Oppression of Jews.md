@@ -1,4 +1,6 @@
-The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam. Later on Muslims only became less secular due to threats from non-Muslims such as Europeans.
+The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam. Muslims paid Zakat and Jews paid Jizah as taxes, so they both went along fairly well. Later on Muslims only became less secular due to threats from non-Muslims such as Europeans.
+
+Zakat was given to the poor, but Jizah was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizah.
 
 > [!NOTE] Forms of antisemitism
 > - Religious (Jew as Christ-killer),
