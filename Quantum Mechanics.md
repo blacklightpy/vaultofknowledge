@@ -1,4 +1,4 @@
-My usual interpretation was based on the ["classical wave optics formulation"](https://en.wikipedia.org/wiki/Double-slit_experiment#Classical_wave-optics_formulation)
+My usual interpretation was based on the ["classical wave optics formulation"](https://en.wikipedia.org/wiki/Double-slit_experiment#Classical_wave-optics_formulation). But it looks like I need to consider the individual particle double slit experiment more. Well, my idea is still then to consider the complex part of the wavefunction instead of neglecting its value.
 # Shortcomings
 - "God does not play dice" - Einstein
 - Is the electron a probability wave ($\psi^*\psi$), or is it the orbital itself ($\psi$)?
