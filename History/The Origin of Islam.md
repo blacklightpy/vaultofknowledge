@@ -19,6 +19,19 @@
 	- (Source: https://www.jewishvirtuallibrary.org/arabia)
 
 ~~~
+- [Banu Alfageer](https://en.wikipedia.org/wiki/Banu_Alfageer "Banu Alfageer")
+- [Banu Alkahinan](https://en.wikipedia.org/wiki/Kohen "Kohen") — they traced their descent from [Aaron](https://en.wikipedia.org/wiki/Aaron "Aaron")
+- [Banu Awf](https://en.wikipedia.org/wiki/Banu_Awf "Banu Awf")
+- [Banu Harith](https://en.wikipedia.org/wiki/Banu_Harith "Banu Harith") or Bnei Chorath were rulers of [Najran](https://en.wikipedia.org/wiki/Najran "Najran").
+- [Banu Nadir](https://en.wikipedia.org/wiki/Banu_Nadir "Banu Nadir") — sub-clan of the [al-Kāhinān](https://en.wikipedia.org/wiki/Kohanim "Kohanim"), located in Yathrib([Medina](https://en.wikipedia.org/wiki/Medina "Medina"))
+- [Banu Najjar](https://en.wikipedia.org/wiki/Banu_Najjar "Banu Najjar")
+- [Banu Qainuqa](https://en.wikipedia.org/wiki/Banu_Qainuqa "Banu Qainuqa") — most powerful of all the Jewish tribes of the peninsula before Islam
+- [Banu Quda'a](https://en.wikipedia.org/wiki/Banu_Quda%27a "Banu Quda'a") — [Himyarite](https://en.wikipedia.org/wiki/Himyarite "Himyarite") tribe of converts to [Sadducee](https://en.wikipedia.org/wiki/Sadducee "Sadducee") [Judaism](https://en.wikipedia.org/wiki/Judaism "Judaism")
+- [Banu Qurayza](https://en.wikipedia.org/wiki/Banu_Qurayza "Banu Qurayza") — sub-clan of the [al-Kāhinān](https://en.wikipedia.org/wiki/Kohanim "Kohanim"), located in Yathrib([Medina](https://en.wikipedia.org/wiki/Medina "Medina")), "principal family" fled Syria under [Ghassanid](https://en.wikipedia.org/wiki/Ghassanid "Ghassanid") rule, then fled Medina, after expulsion by Muhammed, back to Syria
+- [Banu Shutayba](https://en.wikipedia.org/wiki/Banu_Shutayba "Banu Shutayba")
+~~~
+
+~~~
 Judaism found its place in the Arabian Peninsula by immigration of Jews, which took place mainly during six periods:
 
 - After the collapse of Kingdom of Judah in 586 BCE.
