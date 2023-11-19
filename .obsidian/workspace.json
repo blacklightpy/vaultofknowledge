@@ -370,9 +370,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4efced8b8336ee6b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -439,7 +447,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +463,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -475,9 +481,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The History of Oppression of Jews.md"
-              }
+              "state": {}
             }
           },
           {
@@ -525,8 +529,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ca67ff5eded0791e",
+  "active": "4efced8b8336ee6b",
   "lastOpenFiles": [
+    "The History of Oppression of Jews.md",
+    "Culture/Jewish Culture.md",
     "History/Timeline of History.md",
     "Spectral Efficiency.md",
     "The true principles of life which are suppressed in society.md",
@@ -537,7 +543,6 @@
     "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
     "14.md",
     "My idea of the dual nature of electrons.md",
-    "The History of Oppression of Jews.md",
     "My Ideas on solving the Arab-Israel conflict.md",
     "Acceleration, not Force, is constant at a given distance.md",
     "Arguments against Religion 2.md",
@@ -556,7 +561,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
-    "Evolution of Communications.md",
     "_images/Types of Digital Modulation.png",
     "_images/Expulsion_judios-en.svg.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
