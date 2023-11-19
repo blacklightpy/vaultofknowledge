@@ -18,8 +18,15 @@ So the argument goes:
 		2.23 Therefore, the temporal series of past events cannot be actually infinite.
 3. Therefore, the universe has a cause of its existence.
 # Let's attack this argument
+
 ---
-Why can't an infinite exist?
+What is cause and why should everything have it?
+
+Sometimes I like some stuff, and there may not be an attributable cause for it.
+If you say that the universe has some cause to exist, doesn't that the same apply to 
+
+---
+2.1 Why can't an infinite exist?
 
 Just imagine a sea of water, and nothing else. Imagine it stretches on forever, and there is no end to it. Simply by this imagination, you have seen infinity. Definitely it exists in your mind, which exists in this world.
 
@@ -29,8 +36,9 @@ What exactly are you claiming cannot be infinite? Infinite has to be of somethin
 
 A simple piece of paper can be used to draw infinite images, with just one colour, all you need is a pen with a smaller tip.
 
-And perhaps, for the universe, the total energy is finite, but it's all part of the play, and will return to itself. That's the saying that energy can neither be created, nor be destroyed. There doesn't need to be infinite number water for the oceans to make waves 
+And perhaps, for the universe, the total energy is finite, but it's all part of the play, and will return to itself. That's the saying that energy can neither be created, nor be destroyed. There doesn't need to be infinite number water for the oceans to make waves continuously for all eternity. It just has to form the water cycle. The argument against it is the dissipation of "free" energy. But what if the universe reclaims that energy, since it was only converted to other, unusable forms of energy. And we don't even know mysteries about the world like the observed unexplainable, or dark energy. Perhaps, we are a growth of the universe, experiencing itself.
 
+---
 What is 2.2?
 2.2 is described simply as that an infinite distance cannot be traversed. For example, in time, if the past was infinite, then today would never arrive.
 
