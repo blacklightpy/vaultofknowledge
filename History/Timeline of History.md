@@ -399,8 +399,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - [British Ceylon](https://en.wikipedia.org/wiki/British_Ceylon "British Ceylon")   (1815–1948 CE)
 
 ---
-
----
 # 3 Millenia BC
 ## Time Period 1 (2350 BC - 1700 BC)
 ### Mesopotamia, Africa and Middle East

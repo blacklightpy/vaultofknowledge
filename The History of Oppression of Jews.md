@@ -57,6 +57,8 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - ### Persecution in England, France and Holy Roman Empire
 > - Christians accused the Jews of blood libels (drinking the blood of Christians) to mock the Last Supper and having superpowers by making deals with the devil.
 > - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
+> - The Roman Empire largely condemned persecution, but they weren't able to prevent it much.
+> - Many Jews moved to Poland, Lithuania and Hungary, where the rulers were often receptive to Jewish settlement
 
 > [!NOTE]
 > Europe has blamed the Jews for an encyclopedia of sins.

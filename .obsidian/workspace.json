@@ -370,22 +370,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "4efced8b8336ee6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Timeline of History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -452,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Timeline of History.md",
+                "file": "The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Timeline of History.md",
+                "file": "The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -489,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Timeline of History.md"
+                "file": "The History of Oppression of Jews.md"
               }
             }
           },
@@ -538,11 +525,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4efced8b8336ee6b",
+  "active": "ca67ff5eded0791e",
   "lastOpenFiles": [
+    "History/Timeline of History.md",
     "The History of Oppression of Jews.md",
     "Culture/Jewish Culture.md",
-    "History/Timeline of History.md",
     "Spectral Efficiency.md",
     "The true principles of life which are suppressed in society.md",
     "Quantum Mechanics.md",
