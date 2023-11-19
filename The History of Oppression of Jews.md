@@ -39,12 +39,17 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - They started with the goal of recapturing Jerusalem
 > - First Crusade
 > 	- It was accompanied by the People's Crusade against the Jews in Germany, France and England
-> 		- 1096: Rhineland Massacres killed about 12000 Jews
+> 		- 1096: Rhineland Massacres killed about 2000 Jews
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
 > 	- Siege of Jerusalem, where Muslims and Jews fought side by side to defend the city
 > 	- They Jews decided to prepare for their death inside the synagogue
 > 	- They (Franks) surrounded and burned down the synagogue over their heads
 > 	- The captured Jews from Al-Aqsa's Dome of The Rock and the native Christians were made to clean up the slain
+> 	- Some were taken as PoW, but many of them were beheaded or thrown into the sea en-route
+> 	- Some Jews were rescued by the Karaite Jews of Ashkelon with help from their people in Alexandria
+> - The Catholic Church condemned the massacres, and gave
+> - Second Crusade
+> 	- Jewish money was used for financing the crusade, and Jews were massacred too, but not on the scale of 1096
 > - ### Persecution in England, France and Holy Roman Empire
 > - Christians accused the Jews of blood libels (drinking the blood of Christians) to mock the Last Supper and having superpowers by making deals with the devil.
 > - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
