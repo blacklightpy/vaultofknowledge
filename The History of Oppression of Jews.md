@@ -65,7 +65,9 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - ##17th Century
 > - 
 > - ## 18th Century (Age of Englightenment)
-> - The origin of the Jewish Question
+> - The age of enlightenment saw the dismantling of archaic, corporate and hierarchical forms of society in favour of individual equality of citizens before the law
+> 	- How this would affect the previously autonomous, but subordinated Jews became known as the Jewish Question
+> 	- Enhanced civil rights were gradually extended to the Jews, but only on the 
 > - ## 19th Century
 > - ## 20th Century
 > - ## Reduction of Antisemitism
