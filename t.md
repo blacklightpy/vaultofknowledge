@@ -12,4 +12,4 @@ True understanding of beauty would be by seeing its presence in all aspects of l
 
 Once again, this doesn't mean that one must chip away what's evil, because the stone wasn't an evil entity that masked the real beauty. Rather, this means the stone was an inanimate entity that lend itself to be chipped away to see itself in a different light, just like getting a haircut.
 
-When one can see the uniformity of the universe, in that bl
+When one can see the uniformity of the universe, of how black implies white, self implies other, and so on, one can see that the existence of one aspect of the universe was always dependent on the opposing aspect. Even matter exists in space, and by wave theory of matter, density is simply the result of matter coming in and out of existence at a faster rate.
