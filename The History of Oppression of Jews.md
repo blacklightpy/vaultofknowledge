@@ -33,11 +33,13 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - 6,000 Jews were killed by a Muslim mob during the 1033 Fez massacre.
 > - There were further massacres in Fez in 1276 and 1465
 > - Massacres in Marrakesh in 1146 and 1232.
+> - Arguments from the Jewish Virtual Library: https://www.jewishvirtuallibrary.org/the-treatment-of-jews-in-arab-islamic-countries
 > ## The Middle Ages
 > ### The Crusades
+> - They started with the goal of recapturing Jerusalem
 > - First Crusade
-> 	- It was accompanied by the People's Crusade
-> 		- 1096: Rhineland Massacres killed about 
+> 	- It was accompanied by the People's Crusade against the Jews in Germany, France and England
+> 		- 1096: Rhineland Massacres killed about 12000 Jews
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
 > 	- Siege of Jerusalem, where Muslims and Jews fought side by side to defend the city
 > 	- They Jews decided to prepare for their death inside the synagogue
