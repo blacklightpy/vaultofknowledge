@@ -10,7 +10,10 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 
 > [!NOTE] History of Antisemitism
 > ## Roman Empire
-> - Tiberius forbade the Jews
+> - Tiberius forbade Judaism in Rome
+> - After the Jewish Roman wars, Hadrian renamed Judea to Syria Palaestina and Jerusalem to Aelia Capitolina to erase the history of the Jewish religion
+> - After 70, Jews and Jewish proselytes were only allowed to practice their religion if they paid the Jewish Tax
+> - After 135, they were banned from entering Aelia Capitolina except for the day of Tisha B'Av
 > 
 > ## The Crusades
 > - First Crusade
