@@ -47,9 +47,10 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > 	- The captured Jews from Al-Aqsa's Dome of The Rock and the native Christians were made to clean up the slain
 > 	- Some were taken as PoW, but many of them were beheaded or thrown into the sea en-route
 > 	- Some Jews were rescued by the Karaite Jews of Ashkelon with help from their people in Alexandria
-> - The Catholic Church condemned the massacres, and gave
+> - The Catholic Church condemned the massacres, and gave protection to the Jews, but only if they didn't threaten Christianity and remained submissive to their rule.
 > - Second Crusade
-> 	- Jewish money was used for financing the crusade, and Jews were massacred too, but not on the scale of 1096
+> 	- Jewish money was used for financing the crusade, and Jews were attacked too, but not on the scale of Rhineland
+> 	- 
 > - ### Persecution in England, France and Holy Roman Empire
 > - Christians accused the Jews of blood libels (drinking the blood of Christians) to mock the Last Supper and having superpowers by making deals with the devil.
 > - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
