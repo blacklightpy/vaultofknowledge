@@ -60,6 +60,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - The Roman Empire largely condemned persecution, but they weren't able to prevent it much.
 > - Many Jews moved to Poland, Lithuania and Hungary, where the rulers were often receptive to Jewish settlement
 > - ## Early Modern Period
+> - Martin Luther King started the Protestant reformation and criticized the Jews harshly, but later on said that Jews should be treated with Christian love, so that they may receive the Lord
 > - ##17th Century
 > - ## 18th Century
 > - ## 19th Century
@@ -67,7 +68,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - ## Reduction of Antisemitism
 > - Protestant Reformation
 > - Rise of capitalism in England in the 19th century without a notable Jewish presence reduced the blame on Jews
-> - Antisemitism was lower, in addition to US and Britain, in English speaking countries such as Canada, Australia, New Zealand and South Africa due to cultural acceptance. The Quebec region of Canada still had higher levels of antisemitism because they speak French.
+> - Antisemitism was lower, in addition to US and Britain, in English speaking countries such as Canada, Australia, New Zealand and South Africa due to cultural acceptance. The Quebec region of Canada still had higher levels of antisemitism because they are French, and has a long history of Catholic hostility.
 
 > [!NOTE]
 > Europe has blamed the Jews for an encyclopedia of sins.
