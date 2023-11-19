@@ -4,6 +4,9 @@ Zakat was given to the poor, but Jizah was given to the state. The definition wa
 
 Non-Muslims didn't have to fight for Muslim religious wars. So this tax was held to support those who protected them.
 
+Elon Musk would pay $1000 in Jizya in the most expensive caliphates I could find.  
+Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.9 Billion. Unless I’ve misplaced a zero somewhere, I think that’s 790 million percent more.
+
 > [!NOTE] Forms of antisemitism
 > - Religious (Jew as Christ-killer),
 > - Economic (Jew as banker, usurer, money-obsessed),
