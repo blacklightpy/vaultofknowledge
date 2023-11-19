@@ -19,6 +19,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 >			- Aramaic > Western Aramaic > Jewish Palestinian Aramaic > Galilean Dialect
 >	- Heiroglyphics > Sumerian (Of Sumer), Elamtite/Hatamtite/Susian> East Semitic Akkadian, West Semitic > Central Semitic > Northwest Semtic, Arabic > Aramaic, Canaanite Languages (Hebrew, Aramaic, etc.) > Classical Arabic (Quran based)
 >		- Semite was derived from Shem, Noah's faithful son
+
+> [!NOTE] Syria and Palestine
+> The name Syria derives from Assyria.
+> The Syria region refers to Greater Syria or Syria-Palestine, which is just the Levant
+
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
 - People spread everywhere across Europe, Africa and Asia
