@@ -12,6 +12,8 @@
 > - Third Muslim Civil War / Third Fitna against Ummayad Caliphate and establishment of Abbasid Caliphate
 > - Ottoman Empire Caliphate
 
+- Muslim Rulers who protected Jews: https://web.archive.org/web/20150402101019/http://mirajnews.com/article/opinion/muslim-rulers-saved-jews/
+
 - Arab historians mention about 20 tribes who lived in the region, among them the well-known 
 	- Banu-Nadir and Banu Qurayza who were called al-Kahinan, i.e., "Two Tribes of Priests,"
 	- Banu Qaynuqa
