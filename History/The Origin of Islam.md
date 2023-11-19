@@ -4,7 +4,10 @@
 - 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
 - The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam; belonged to Banu al-Aws and Banu Khazraj), Arab pagans, three Jewish tribes and some Christians.
 
-> [!NOTE] Caliphates
+---
+# Rough notes section
+
+> [!NOTE] Caliphates (add dates)
 > - Rashidun Caliphate
 > - First Muslim Civil War / First Fitna against Rashidun Caliphate and establishment of Ummayad Caliphate
 > - Second Muslim Civil War / Second Fitna: Ummayad Caliphate vs Zubayrid Caliphate (Battle of Khazir)
@@ -38,6 +41,8 @@
 	- (Source: https://www.jewishvirtuallibrary.org/arabia)
 
 ~~~
+# Jewish Tribes of Medina
+
 - [Banu Alfageer](https://en.wikipedia.org/wiki/Banu_Alfageer "Banu Alfageer")
 - [Banu Alkahinan](https://en.wikipedia.org/wiki/Kohen "Kohen") — they traced their descent from [Aaron](https://en.wikipedia.org/wiki/Aaron "Aaron")
 - [Banu Awf](https://en.wikipedia.org/wiki/Banu_Awf "Banu Awf")
@@ -51,6 +56,8 @@
 ~~~
 
 ~~~
+From: https://www.israelandyou.com/jews-in-the-arabia/
+
 Judaism found its place in the Arabian Peninsula by immigration of Jews, which took place mainly during six periods:
 
 - After the collapse of Kingdom of Judah in 586 BCE.
@@ -77,8 +84,6 @@ Banu Shutayba: One of the Jewish tribes of Arabia during Muhammad’s era. They 
 ## Jews in Yemen
 
 Yemenite Jewish traditions have traced the earliest settlement of Jews in this region back to the time of King Solomon. King Solomon sent Jewish merchant marines to Yemen to prospect for gold and silver with which to adorn the Temple in Jerusalem. The average Jewish population of Yemen for the first five centuries CE is said to have been about 3,000. Maimonides, the great rabbi and thinker of the 12th century, leader of Egyptian Jewry, wrote his famous Letter to Yemen. Emigration from Yemen to Palestine – then ruled by the Ottomom Empire – began in 1881 and continued almost without interruption until 1914.
-
-Source: https://www.israelandyou.com/jews-in-the-arabia/
 ~~~
 
 ~~~
@@ -135,9 +140,9 @@ Eventually the Banu 'Aws and the Banu Khazraj became hostile to each other and b
 Their last and bloodiest known battle was the [Battle of Bu'ath](https://en.wikipedia.org/w/index.php?title=Battle_of_Bu%27ath&action=edit&redlink=1 "Battle of Bu'ath (page does not exist)"), fought a few years prior to the arrival of Muhammad. The outcome of the battle was inconclusive, and the feud continued.
 ~~~
 
+---
 
-
-- The Jews of Medina were probably Jews expelled from Roman Palestine.
+- The Jews of Medina were probably Jews expelled from Roman Palestine (more accurate sources in the rough notes above)
 - While at Medina, according to the Quran, the prophet declared a treaty, "The Constitution of Medina"
 	- The contract upheld peace between Jews, Christians (other "People of the Book") and Muslims, defining them all, under given conditions, as the "community" of Medina, and granting all of them freedom of religious thought and practice.
 	- **Rights of Non-Muslims according to the constitution:**

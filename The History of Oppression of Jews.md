@@ -4,8 +4,19 @@ Zakat was given to the poor, but Jizah was given to the state. The definition wa
 
 Non-Muslims didn't have to fight for Muslim religious wars. So this tax was held to support those who protected them.
 
-Elon Musk would pay $1000 in Jizya in the most expensive caliphates I could find.  
-Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.9 Billion. Unless I’ve misplaced a zero somewhere, I think that’s 790 million percent more.
+>Elon Musk would pay $1000 in Jizya in the most expensive caliphates I could find.  
+> Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.9 Billion. Unless I’ve misplaced a zero somewhere, I think that’s 790 million percent more.
+
+> Muslims also have to pay a yearly tax called Zakat. Zakat is even binding on property and jewellery. Zakat should also be paid in the form of food as well. The Jizya is not binding on the property of the Christians and Jews.
+> 
+> Abu Bakr fought against the Muslims who didn't pay Zakat so it doesn’t seem to discriminate against the Christians and Jews.
+> 
+> If they go against the Islamic rule and government they deserve to be punished. What else was Abu Bakr supposed to do? In America if someone does not pay their taxes they can go to jail. Does that make America unjust? In China they kill tax evaders
+> https://www.irishtimes.com/news/7-face-execution-for-chinese-tax-fraud-1.286850
+> 
+> Zakah is one of the 5 pillars of Islam and it is compulsory on everyone. It is compulsory even on the non-Muslim, this is called Jizya. Jizya does not degrade the non-Muslim people, it actually brings equality.
+> 
+> The Jizya is a tax levied on non-Muslims in lieu of military service which is compulsory for Muslims but not for non-Muslims. The Non-Muslims paying Jizya were exempt from compulsory military service in a Muslim State but were entitled to full protection.
 
 > [!NOTE] Forms of antisemitism
 > - Religious (Jew as Christ-killer),
@@ -61,7 +72,7 @@ Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.
 > - Second Crusade
 > 	- Jewish money was used for financing the crusade, and Jews were attacked too, but not on the scale of Rhineland
 > 	- 
-> - ### Persecution in England, France and Holy Roman Empire
+> ### Persecution in England, France and Holy Roman Empire
 > - Christians accused the Jews of blood libels (drinking the blood of Christians) to mock the Last Supper and having superpowers by making deals with the devil.
 > - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
 > - The Roman Empire largely condemned persecution, but they weren't able to prevent it much.
@@ -71,12 +82,12 @@ Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.
 > - The disappearance and death of a boy named Simon of Trent was blamed on the Jews, which fuelled antisemitism at the time. He was mutilated and his blood was drained.
 > - ##17th Century
 > - 
-> - ## 18th Century (Age of Englightenment)
+> ## 18th Century (Age of Enlightenment)
 > - The age of enlightenment saw the dismantling of archaic, corporate and hierarchical forms of society in favour of individual equality of citizens before the law
 > 	- How this would affect the previously autonomous, but subordinated Jews became known as the Jewish Question
 > 	- Enhanced civil rights were gradually extended to the Jews, but only on the condition that they abandon many aspects of their previous identity to fit in with the rest of society
-> - ## 19th Century
-> - ## 20th Century
+> ## 19th Century
+> ## 20th Century
 > - Tsar Alexander III of Russia hated the Jews, because he believed they had a role in his father's murder
 > - Jews were allowed reside to the west of Pale of Settlement, but not beyond that. The land was not good for agriculture, and Jews were in poverty.
 > - Tsar Alexander III started many pogroms against the Jews
