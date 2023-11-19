@@ -59,6 +59,14 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
 > - The Roman Empire largely condemned persecution, but they weren't able to prevent it much.
 > - Many Jews moved to Poland, Lithuania and Hungary, where the rulers were often receptive to Jewish settlement
+> - ## Early Modern Period
+> - ##17th Century
+> - ## 18th Century
+> - ## 19th Century
+> - ## 20th Century
+> - ## Reduction of Antisemitism
+> - Protestant Reformation
+> - Rise of capitalism 
 
 > [!NOTE]
 > Europe has blamed the Jews for an encyclopedia of sins.
