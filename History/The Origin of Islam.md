@@ -4,6 +4,11 @@
 - 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
 - The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam; belonged to Banu al-Aws and Banu Khazraj), Arab pagans, three Jewish tribes and some Christians.
 
+> [!NOTE] Caliphates
+> - Rashidun Caliphate
+> - First Muslim Civil War / First Fitna against Rashidun Caliphate and establishment of Ummayad Caliphate
+> - Abbasid Caliphate
+> - Ottoman Empire Caliphate
 
 - Arab historians mention about 20 tribes who lived in the region, among them the well-known 
 	- Banu-Nadir and Banu Qurayza who were called al-Kahinan, i.e., "Two Tribes of Priests,"
