@@ -14,6 +14,8 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - After the Jewish Roman wars, Hadrian renamed Judea to Syria Palaestina and Jerusalem to Aelia Capitolina to erase the history of the Jewish religion
 > - After 70, Jews and Jewish proselytes were only allowed to practice their religion if they paid the Jewish Tax
 > - After 135, they were banned from entering Aelia Capitolina except for the day of Tisha B'Av
+> - Until Constantine's time, for a while Christians were persecuted more for trying to start a new religion, and for their criticism of the Gods that the Romans believed to have blessed their city
+> 	- 
 > 
 > ## The Crusades
 > - First Crusade
