@@ -396,22 +396,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0f3817d12cfe3e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quantum Mechanics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -478,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics.md",
+                "file": "The true principles of life which are suppressed in society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum Mechanics.md",
+                "file": "The true principles of life which are suppressed in society.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -515,7 +502,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum Mechanics.md"
+                "file": "The true principles of life which are suppressed in society.md"
               }
             }
           },
@@ -564,10 +551,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b0f3817d12cfe3e2",
+  "active": "c02e76be58a65622",
   "lastOpenFiles": [
-    "14.md",
     "Quantum Mechanics.md",
+    "14.md",
     "Spectral Efficiency.md",
     "The true principles of life which are suppressed in society.md",
     "People who value 'beauty' too much often cause all problems.md",
