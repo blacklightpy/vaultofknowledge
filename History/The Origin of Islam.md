@@ -7,7 +7,8 @@
 > [!NOTE] Caliphates
 > - Rashidun Caliphate
 > - First Muslim Civil War / First Fitna against Rashidun Caliphate and establishment of Ummayad Caliphate
-> - Second Muslim Civil War / Second Fitna: Ummayad Caliphate vs 
+> - Second Muslim Civil War / Second Fitna: Ummayad Caliphate vs Zubayrid Caliphate (Battle of Khazir)
+> 	- This led to the the sectarian division of Sunni and Shi'a Muslims
 > - Third Muslim Civil War / Third Fitna against Ummayad Caliphate and establishment of Abbasid Caliphate
 > - Ottoman Empire Caliphate
 
