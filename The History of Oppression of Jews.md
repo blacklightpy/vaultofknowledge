@@ -9,16 +9,19 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - Cultural (Jews regarded as undermining the moral and structural fiber of civilization).
 
 > [!NOTE] History of Antisemitism
-> ## Roman Empire
+> ## Pre-Christian Roman Empire
 > - Tiberius forbade Judaism in Rome
 > - After the Jewish Roman wars, Hadrian renamed Judea to Syria Palaestina and Jerusalem to Aelia Capitolina to erase the history of the Jewish religion
 > - After 70, Jews and Jewish proselytes were only allowed to practice their religion if they paid the Jewish Tax
 > - After 135, they were banned from entering Aelia Capitolina except for the day of Tisha B'Av
+> ## Rise of Christianity in Roman Empire
 > - Until Constantine's time, for a while Christians were persecuted more for trying to start a new religion, and for their criticism of the Gods that the Romans believed to have blessed their city, stating "all the gods of the heathens are devils."
 > - Christians, unlike Jews didn't contain themselves to a single state, and wanted to convert other people
 > - 137 AD: Christians started blaming all Jews for all time, for deicide of Jesus
 > - Christianity became to official religion of Rome
-> ## Islamic
+> - 438 AD: Codex Theodosianus barred Jews from civil service, army and legal profession. Jewish Patriarchate was abolished and the scope of Jewish courts were restricted. Synagogues were confiscated and old synagogues could only be repaired if they were in the danger of collapsing. Synagogues either fell into ruin, were destroyed, or converted to churches.
+> ## Rise of Islam
+> - The series of conflicts addressed in the Quran - with Banu Nadir, Banu Qaynuqa and Banu Qurayza
 > - 628 AD: After the Battle of Trench, there were still some conflicts, most notable being the Battle of Khaybar. The Banu Nadir members, who claimed to be the descendants of Aaron, moved to Khaybar after their expulsion from Medina city in 625. There they had firearms and weapons, and were plotting to attack the Muslims again.
 > - After the conflict, they remained peacefully in the Oasis, but later the Caliph Umar expelled them in 642 AD to the newly conquered regions of Syria and Iraq, claiming that Mohammed before his death said that the two religions cannot exist together in the Hejaz.
 > ## The Crusades
