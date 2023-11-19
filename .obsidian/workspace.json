@@ -403,7 +403,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Mechanics.md",
+                "file": "de Broglie Wavelength.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -478,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics.md",
+                "file": "de Broglie Wavelength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum Mechanics.md",
+                "file": "de Broglie Wavelength.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -515,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum Mechanics.md"
+                "file": "de Broglie Wavelength.md"
               }
             }
           },
@@ -566,12 +566,13 @@
   },
   "active": "962e88a55551cc18",
   "lastOpenFiles": [
-    "The true principles of life which are suppressed in society.md",
+    "People who value 'beauty' too much often cause all problems.md",
+    "de Broglie Wavelength.md",
     "Quantum Mechanics.md",
+    "The true principles of life which are suppressed in society.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Quantum Numbers.md",
     "14.md",
     "Spectral Efficiency.md",
-    "People who value 'beauty' too much often cause all problems.md",
     "My idea of the dual nature of electrons.md",
     "History/Timeline of History.md",
     "The History of Oppression of Jews.md",
@@ -595,7 +596,6 @@
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
     "Evolution of Communications.md",
     "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
-    "Intention as a Force.md",
     "_images/Types of Digital Modulation.png",
     "_images/Expulsion_judios-en.svg.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
