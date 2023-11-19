@@ -72,7 +72,10 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - ## 20th Century
 > - Tsar Alexander III of Russia hated the Jews, because he believed they had a role in his father's murder
 > - Jews were allowed reside to the west of Pale of Settlement, but not beyond that. The land was not good for agriculture, and Jews were in poverty.
-> - Tsar Alexander III sta
+> - Tsar Alexander III started many pogroms against the Jews
+> - So the Jews moved to Europe, and the people hated it.
+> - Arthur Balfour headed the Aliens Act 1905, limiting Jewish immigration
+> - He didn't want Britain to become the dumping ground for the scum of Europe
 > - ## Reduction of Antisemitism
 > - Protestant Reformation
 > - Rise of capitalism in England in the 19th century without a notable Jewish presence reduced the blame on Jews
