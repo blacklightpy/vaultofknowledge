@@ -38,6 +38,9 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
 > 	- Siege of Jerusalem, where Muslims and Jews fought side by side to defend the city
 > 	- They (Franks) burned down the synagogue over their heads
+> - Christians accused the Jews of blood libels (drinking the blood of Christians) to mock the Last Supper and having superpowers by making deals with the devil.
+> - ## Persecution in England, France and Holy Roman Empire
+> - The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned.
 
 > [!NOTE]
 > Europe has blamed the Jews for an encyclopedia of sins.
