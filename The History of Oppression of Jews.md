@@ -61,8 +61,11 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - Many Jews moved to Poland, Lithuania and Hungary, where the rulers were often receptive to Jewish settlement
 > - ## Early Modern Period
 > - Martin Luther King started the Protestant reformation and criticized the Jews harshly, but later on said that Jews should be treated with Christian love, so that they may receive the Lord
+> - The disappearance and death of a boy named Simon of Trent was blamed on the Jews, which fuelled antisemitism at the time. He was mutilated and his blood was drained.
 > - ##17th Century
-> - ## 18th Century
+> - 
+> - ## 18th Century (Age of Englightenment)
+> - The origin of the Jewish Question
 > - ## 19th Century
 > - ## 20th Century
 > - ## Reduction of Antisemitism
