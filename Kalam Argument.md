@@ -20,8 +20,12 @@ So the argument goes:
 # Let's attack this argument
 ---
 Why can't an infinite exist?
-A reason is that an infinite distance cannot be traversed. For example, in time, if the past was infinite, then today would never arrive.
 
-But I must ask, to arrive, where do you start from? You have to start somewhere, and if you pick a point, you have a finite distance from there! You 
+Just imagine a sea of water, and nothing else. Imagine it stretches on forever, and there is no end to it. Si
+
+What is 2.2?
+2.2 is described simply as that an infinite distance cannot be traversed. For example, in time, if the past was infinite, then today would never arrive.
+
+But I must ask, to arrive, where do you start from? You have to start somewhere, and if you pick a point, you have a finite distance from there! You can't start from the "beginning", because there's no beginning in infinity! But if you pick a point, you have a present.
 
 ---
