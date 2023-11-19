@@ -2,23 +2,23 @@
 - One day he has a revelation.
 - 610 AD: He goes to the Cube (Kaaba) of Mecca and presents his revelations
 - 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
-- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
+- The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam; belonged to Banu al-Aws and Banu Khazraj), Arab pagans, three Jewish tribes and some Christians.
 
 
 - Arab historians mention about 20 tribes who lived in the region, among them the well-known 
-	- Banu-Naḍīr and Banu Qurayẓa who were called al-Kāhinān, i.e., "Two Tribes of Priests,"
-	- Banu Qaynuqāʿ
-	- Many Jews also lived in Khaybar and in other oases of Wadi al-Qurā ("Valley of the Villages"), such as 
-		- al-ʿUlā (Dīdān)
-		- Madāʾin Ṣāliḥ
-		- al-Ḥijr, Fadak
+	- Banu-Nadir and Banu Qurayza who were called al-Kahinan, i.e., "Two Tribes of Priests,"
+	- Banu Qaynuqa
+	- Many Jews also lived in Khaybar and in other oases of Wadi al-Qura ("Valley of the Villages"), such as 
+		- al-'Ula (Didan)
+		- Mada'in Salih
+		- al-Hijr, Fadak
 		- the Transjordanian plains of Adhruḥ, Jarba, Edrei,
-		- the port of Maqnā on the Gulf of Eilat. 
-	- Apparently, Jewish refugees from south Arabia also settled in the environs of Ṭāʾif after the war of Yūsuf Dhū Nuwās.
+		- the port of Maqna on the Gulf of Eilat. 
+	- Apparently, Jewish refugees from south Arabia also settled in the environs of Ta'if after the war of Yusuf Dhu Nuwas.
 	- The reports from Medina attracted many Arab tribes who settled in this area, in particular two tribes from south Arabia, Banu al-Aws and Banu Khazraj, who from the start were vassals of the Jewish tribes. In the early seventh century they became stronger and the Jews were compelled to seek their protection.
 	- (Source: https://www.jewishvirtuallibrary.org/arabia)
 
-
+~~~
 Judaism found its place in the Arabian Peninsula by immigration of Jews, which took place mainly during six periods:
 
 - After the collapse of Kingdom of Judah in 586 BCE.
@@ -27,11 +27,13 @@ Judaism found its place in the Arabian Peninsula by immigration of Jews, which 
 - Survivors of the Bar Kochba Revolt, in 135 CE, who sought religious freedom in the Arabian desert rather than live under the yoke of the Romans.
 - Immigration, around 300 CE, by people who are known in Islamic literature as the Banu Aus and the Banu Khazraj who fled the Ghassanids in Syria.
 - Migration from Judea into southern Arabian Peninsula to ride the ascent of the Himyarite Kingdom around 380 CE. Immigration to the Arabian Peninsula began in earnest in the 2nd century CE, and by the 6th and 7th centuries there was a considerable Jewish population in Hejaz, mostly in and around Medina. This was in part due to the embrace of Judaism by such leaders as Dhu Nuwas.
+~~~
 
-
+~~~
 - The Medinese, which consisted of Aws and Khazraj, along with their Jewish allies, Banu Nadir, Banu Qurayza, and Banu Qaynuqa, were involved in degenerating years of warfare such as battle of Sumair, battle of Banu Jahjaha of Aus-Banu Mazin of Khazraj, battle of Sararah day, battle of Banu Wa'il ibn Zayd, battle of Zhufr-Malik, battle of Fari', battle of Hathib, battle of Rabi' day, first battle of Fijar in Yathrib (not Fijar war between Qays with Kinana in Mecca), battle of Ma'is, battle of Mudharras, and second battle of Fijar in Yathrib. The Medinese also even contacted against foreign invaders came from outside Hejaz, including such as Shapur II of Sasanian Empire in relatively vague result, and also in successful defense against Himyarite Kingdom under their sovereign, Tabban Abu Karib, who also known as Dhu al-Adh'ar. However, the most terrible conflict for both Aws and Khazraj were a civil war called the battle of Bu'ath, which leave bitter taste for both clans, and caused them to grew weary of war, due to the exceptionally high level of violence, even by their standards, and the needless massacres that occurred during that battle.
+~~~
 
-
+~~~
 ### Early history and Jewish control
 
 Medina has been inhabited at least 1500 years before the Hijra, or approximately the 9th century BCE. By the fourth century CE, Arab tribes began to encroach from [Yemen](https://en.wikipedia.org/wiki/Yemen "Yemen"), and there were three prominent [Jewish](https://en.wikipedia.org/wiki/Jewish_tribes_of_Arabia "Jewish tribes of Arabia") [tribes](https://en.wikipedia.org/wiki/Arabian_tribes_that_interacted_with_Muhammad "Arabian tribes that interacted with Muhammad") that inhabited the city around the time of Muhammad: the [Banu Qaynuqa](https://en.wikipedia.org/wiki/Banu_Qaynuqa "Banu Qaynuqa"), the [Banu Qurayza](https://en.wikipedia.org/wiki/Banu_Qurayza "Banu Qurayza"), and [Banu Nadir](https://en.wikipedia.org/wiki/Banu_Nadir "Banu Nadir"). [Ibn Khordadbeh](https://en.wikipedia.org/wiki/Ibn_Khordadbeh "Ibn Khordadbeh") later reported that during the [Persian Empire](https://en.wikipedia.org/wiki/History_of_Iran "History of Iran")'s domination in Hejaz, the Banu Qurayza served as [tax collectors](https://en.wikipedia.org/wiki/Tax_collector "Tax collector") for the Persian [Shah](https://en.wikipedia.org/wiki/Shah "Shah").
@@ -39,10 +41,10 @@ Medina has been inhabited at least 1500 years before the Hijra, or approximately
 The situation changed after the arrival of two new [Arab](https://en.wikipedia.org/wiki/Arab "Arab") tribes, the ['Aws](https://en.wikipedia.org/wiki/Banu_Aws "Banu Aws") or Banu 'Aws and the [Khazraj](https://en.wikipedia.org/wiki/Khazraj "Khazraj"), also known as the Banu Khazraj. At first, these tribes were allied with the Jewish tribes who ruled the region, but they later revolted and became independent.
 ### Under the 'Aws and Khazraj
 
-Toward the end of the 5th century,[[18]](https://en.wikipedia.org/wiki/Medina#cite_note-19) the Jewish rulers lost control of the city to the two Arab tribes. The [Jewish Encyclopedia](https://en.wikipedia.org/wiki/Jewish_Encyclopedia "Jewish Encyclopedia") states that "by calling in outside assistance and treacherously massacring at a banquet the principal Jews", Banu Aus and Banu Khazraj finally gained the upper hand at Medina.[[15]](https://en.wikipedia.org/wiki/Medina#cite_note-jewishencyclopedia_1-16)
+Toward the end of the 5th century,[[18]](https://en.wikipedia.org/wiki/Medina#cite_note-19) the Jewish rulers lost control of the city to the two Arab tribes. The [Jewish Encyclopedia](https://en.wikipedia.org/wiki/Jewish_Encyclopedia "Jewish Encyclopedia") states that "by calling in outside assistance and treacherously massacring at a banquet the principal Jews", Banu Aus and Banu Khazraj finally gained the upper hand at Medina.
 
-Most modern historians accept the claim of the Muslim sources that after the revolt, the Jewish tribes became clients of the 'Aws and the Khazraj.[](https://en.wikipedia.org/wiki/Medina#cite_note-20)
-
+Most modern historians accept the claim of the Muslim sources that after the revolt, the Jewish tribes became clients of the 'Aws and the Khazraj.
+~~~
 
 
 
