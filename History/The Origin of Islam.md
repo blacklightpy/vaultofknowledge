@@ -63,6 +63,10 @@ Judaism found its place in the Arabian Peninsula by immigration of Jews, which 
 - Banu Qurayza:  Sub-clan of the al-Kāhinān, located in Yathrib (Medina), “principal family” fled Syria under Ghassanid rule, then fled Medina, after expulsion by Prophet Muhammed, back to Syria. One of the three Jewish tribes that had settled in Medina before the rise of Islam in Arabia.
 - Banu Sa’ida: A clan of the Banu Khazraj tribe of Medina in the era. Their Jewish allies or clients are mentioned in the Constitution of Medina of Muhammad.
 Banu Shutayba: One of the Jewish tribes of Arabia during Muhammad’s era. They were included in the Constitution of Medina as allies to the Muslims.
+
+## Jews in Yemen
+
+Yemenite Jewish traditions have traced the earliest settlement of Jews in this region back to the time of King Solomon. King Solomon sent Jewish merchant marines to Yemen to prospect for gold and silver with which to adorn the Temple in Jerusalem. The average Jewish population of Yemen for the first five centuries CE is said to have been about 3,000. Maimonides, the great rabbi and thinker of the 12th century, leader of Egyptian Jewry, wrote his famous Letter to Yemen. Emigration from Yemen to Palestine – then ruled by the Ottomom Empire – began in 1881 and continued almost without interruption until 1914.
 ~~~
 
 ~~~
