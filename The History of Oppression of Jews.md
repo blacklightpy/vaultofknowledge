@@ -24,8 +24,11 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - The series of conflicts addressed in the Quran - with Banu Nadir, Banu Qaynuqa and Banu Qurayza
 > - 628 AD: After the Battle of Trench, there were still some conflicts, most notable being the Battle of Khaybar. The Banu Nadir members, who claimed to be the descendants of Aaron, moved to Khaybar after their expulsion from Medina city in 625. There they had firearms and weapons, and were plotting to attack the Muslims again.
 > - After the conflict, they remained peacefully in the Oasis, but later the Caliph Umar expelled them in 642 AD to the newly conquered regions of Syria and Iraq, claiming that Mohammed before his death said that the two religions cannot exist together in the Hejaz.
-> - From the 9th century onwards, the medieval Islamic world imposed "protected" status on Christian and Jewish minorities. Nevertheless, Jews were granted more freedom to practise their religion in the Muslim world than they were in Christian Europe.
+> ## Protection and Persecution under Islam
+> - From the 9th century onwards, the medieval Islamic world imposed "dhimmi" or "protected" status on Christian and Jewish minorities. Nevertheless, Jews were granted more freedom to practise their religion in the Muslim world than they were in Christian Europe.
 > - Jewish communities in Spain thrived under tolerant Muslim rule during the Spanish Golden Age and Cordova became a centre of Jewish culture.
+> - But when Almoravids entered North Africa, they started pogroms against the Jews of Cordova in 1011 and Granada massacre in 1066. Later by 1147 they formed the Almohad Caliphate formed and started treating the dhimmis harshly.
+> - Faced with death or conversion, many fled. Some went to more tolerant Muslim nations, while others went northward to go Christian Europe.
 > ## The Crusades
 > - First Crusade
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
