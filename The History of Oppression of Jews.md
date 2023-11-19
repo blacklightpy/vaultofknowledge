@@ -33,14 +33,19 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - 6,000 Jews were killed by a Muslim mob during the 1033 Fez massacre.
 > - There were further massacres in Fez in 1276 and 1465
 > - Massacres in Marrakesh in 1146 and 1232.
-> ## The Crusades
+> ## The Middle Ages
+> ### The Crusades
 > - First Crusade
+> 	- It was accompanied by the People's Crusade
+> 		- 1096: Rhineland Massacres killed about 
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
 > 	- Siege of Jerusalem, where Muslims and Jews fought side by side to defend the city
-> 	- They (Franks) burned down the synagogue over their heads
+> 	- They Jews decided to prepare for their death inside the synagogue
+> 	- They (Franks) surrounded and burned down the synagogue over their heads
+> 	- The captured Jews from Al-Aqsa's Dome of The Rock and the native Christians were made to clean up the slain
+> - ### Persecution in England, France and Holy Roman Empire
 > - Christians accused the Jews of blood libels (drinking the blood of Christians) to mock the Last Supper and having superpowers by making deals with the devil.
-> - ## Persecution in England, France and Holy Roman Empire
-> - The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned.
+> - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
 
 > [!NOTE]
 > Europe has blamed the Jews for an encyclopedia of sins.
