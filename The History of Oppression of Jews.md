@@ -67,7 +67,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - ## 18th Century (Age of Englightenment)
 > - The age of enlightenment saw the dismantling of archaic, corporate and hierarchical forms of society in favour of individual equality of citizens before the law
 > 	- How this would affect the previously autonomous, but subordinated Jews became known as the Jewish Question
-> 	- Enhanced civil rights were gradually extended to the Jews, but only on the 
+> 	- Enhanced civil rights were gradually extended to the Jews, but only on the condition that they abandon many aspects of their previous identity to fit in with the rest of society
 > - ## 19th Century
 > - ## 20th Century
 > - ## Reduction of Antisemitism
