@@ -71,10 +71,17 @@ These killings destroyed the trade of Yemen with Europe and involved Dhu Nuwas i
 
 ~~~
 Sabaean Kingdom (Arab kingdom of Saba / Biblican Kingdom of Sheba) (1200 BCE–275 CE) > Himyarite Dynasty (110 BC-525 CE) > Aksum/Axum Dynasty (525-578) > Persian Sassanian Empire (224-651) > Rashidun Caliphate of Islam
+~~~
 
-Immigration to the [Arabian Peninsula](https://en.wikipedia.org/wiki/Arabian_Peninsula "Arabian Peninsula") began in earnest in the 2nd century CE, and by the 6th and 7th centuries there was a considerable Jewish population in [Hejaz](https://en.wikipedia.org/wiki/Hejaz "Hejaz"), mostly in and around [Medina](https://en.wikipedia.org/wiki/Medina "Medina"). This was in part due to the embrace of Judaism by such leaders as [Dhu Nuwas](https://en.wikipedia.org/wiki/Dhu_Nuwas "Dhu Nuwas"); who was very aggressive about converting his subjects to Judaism. Nuwas persecuted [Christians](https://en.wikipedia.org/wiki/Christians "Christians") in his kingdom as a reaction to the [Christian persecution of Jews](https://en.wikipedia.org/wiki/Persecution_of_Jews "Persecution of Jews") by the local Christians and [Abu Karib Asad](https://en.wikipedia.org/wiki/Tubba_Abu_Karab_As%27ad "Tubba Abu Karab As'ad").[[1]](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Saudi_Arabia#cite_note-1) In 523, the Himyarite king [Dhu Nuwas](https://en.wikipedia.org/wiki/Dhu_Nuwas "Dhu Nuwas") (Dunaan), who had converted to Judaism, massacred the Christians there.[[2]](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Saudi_Arabia#cite_note-2)
+~~~
+Immigration to the [Arabian Peninsula](https://en.wikipedia.org/wiki/Arabian_Peninsula "Arabian Peninsula") began in earnest in the 2nd century CE, and by the 6th and 7th centuries there was a considerable Jewish population in [Hejaz](https://en.wikipedia.org/wiki/Hejaz "Hejaz"), mostly in and around [Medina](https://en.wikipedia.org/wiki/Medina "Medina"). This was in part due to the embrace of Judaism by such leaders as [Dhu Nuwas](https://en.wikipedia.org/wiki/Dhu_Nuwas "Dhu Nuwas"); who was very aggressive about converting his subjects to Judaism. Nuwas persecuted [Christians](https://en.wikipedia.org/wiki/Christians "Christians") in his kingdom as a reaction to the [Christian persecution of Jews](https://en.wikipedia.org/wiki/Persecution_of_Jews "Persecution of Jews") by the local Christians and [Abu Karib Asad](https://en.wikipedia.org/wiki/Tubba_Abu_Karab_As%27ad "Tubba Abu Karab As'ad"). In 523, the Himyarite king [Dhu Nuwas](https://en.wikipedia.org/wiki/Dhu_Nuwas "Dhu Nuwas") (Dunaan), who had converted to Judaism, massacred the Christians there.
 
+# Najran community
+There was a small Jewish community, mostly members of [Bnei Chorath](https://en.wikipedia.org/wiki/Bnei_Chorath "Bnei Chorath"), in one border city from 1934 until 1950. The city of [Najran](https://en.wikipedia.org/wiki/Najran "Najran") was liberated by Saudi forces in 1934 after it been conquered by Yemenis in 1933, thus absorbing its Jewish community, which dates to pre-Islamic times. With increased persecution, the Jews of Najran made plans to evacuate. The local governor at the time, Amir Turki ben Mahdi, allowed the 600 Najrani Jews a single day on which to either evacuate or never leave again. Saudi soldiers accompanied them to the Yemeni border. These Jews arrived in [Saada](https://en.wikipedia.org/wiki/Saada "Saada"), and some 200 continued south to [Aden](https://en.wikipedia.org/wiki/Aden "Aden") between September and October 1949. The Saudi [King Abdulaziz](https://en.wikipedia.org/wiki/Ibn_Saud_of_Saudi_Arabia "Ibn Saud of Saudi Arabia") demanded their return, but the Yemeni king, [Ahmad bin Yahya](https://en.wikipedia.org/wiki/Ahmad_bin_Yahya "Ahmad bin Yahya") refused, because these refugees were Yemenite Jews. After settling in the Hashid Camp (also called Mahane Geula) they were airlifted to Israel as part of the larger [Operation Magic Carpet](https://en.wikipedia.org/wiki/Operation_Magic_Carpet_(Yemen) "Operation Magic Carpet (Yemen)").
 
+Some groups of Najran Jews escaped to Cochin, as they had very good relationship with the rulers of Cochin and maintained trade connections with [Paradesi Jews](https://en.wikipedia.org/wiki/Paradesi_Jews "Paradesi Jews").
+
+According to [Yemenite Jewish](https://en.wikipedia.org/wiki/Yemenite_Jews "Yemenite Jews") tradition, the Jews of Najran traced their origin to the [Ten Tribes](https://en.wikipedia.org/wiki/Ten_Lost_Tribes "Ten Lost Tribes").
 ~~~
 
 ~~~
@@ -97,20 +104,6 @@ Eventually the Banu 'Aws and the Banu Khazraj became hostile to each other and b
 
 Their last and bloodiest known battle was the [Battle of Bu'ath](https://en.wikipedia.org/w/index.php?title=Battle_of_Bu%27ath&action=edit&redlink=1 "Battle of Bu'ath (page does not exist)"), fought a few years prior to the arrival of Muhammad. The outcome of the battle was inconclusive, and the feud continued.
 ~~~
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
