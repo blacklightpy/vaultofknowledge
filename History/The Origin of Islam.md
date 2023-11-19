@@ -44,6 +44,10 @@ The situation changed after the arrival of two new [Arab](https://en.wikipedia.o
 Toward the end of the 5th century,[[18]](https://en.wikipedia.org/wiki/Medina#cite_note-19) the Jewish rulers lost control of the city to the two Arab tribes. The [Jewish Encyclopedia](https://en.wikipedia.org/wiki/Jewish_Encyclopedia "Jewish Encyclopedia") states that "by calling in outside assistance and treacherously massacring at a banquet the principal Jews", Banu Aus and Banu Khazraj finally gained the upper hand at Medina.
 
 Most modern historians accept the claim of the Muslim sources that after the revolt, the Jewish tribes became clients of the 'Aws and the Khazraj.
+
+Eventually the Banu 'Aws and the Banu Khazraj became hostile to each other and by the time of Muhammad's [Hijrah](https://en.wikipedia.org/wiki/Hijra_(Islam) "Hijra (Islam)") (emigration) to Medina in 622, they had been fighting for 120 years and were sworn enemies. The Banu Nadir and the Banu Qurayza were allied with the 'Aws, while the Banu Qaynuqa sided with the Khazraj. They fought a total of four wars.
+
+Their last and bloodiest known battle was the [Battle of Bu'ath](https://en.wikipedia.org/w/index.php?title=Battle_of_Bu%27ath&action=edit&redlink=1 "Battle of Bu'ath (page does not exist)"), fought a few years prior to the arrival of Muhammad. The outcome of the battle was inconclusive, and the feud continued.
 ~~~
 
 
