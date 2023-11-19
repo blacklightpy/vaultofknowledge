@@ -70,7 +70,7 @@ These killings destroyed the trade of Yemen with Europe and involved Dhu Nuwas i
 ~~~
 
 ~~~
-Sabaean Kingdom (Arab kingdom of Saba / Biblican Kingdom of Sheba) > Himyarite Dynasty (110 BC-550 CE) > Aksum/Axum Dynasty > Persian Sassanian Empire > Islam
+Sabaean Kingdom (Arab kingdom of Saba / Biblican Kingdom of Sheba) (1200 BCE–275 CE) > Himyarite Dynasty (110 BC-525 CE) > Aksum/Axum Dynasty (525-578) > Persian Sassanian Empire (224-651) > Rashidun Caliphate of Islam
 ~~~
 
 ~~~
