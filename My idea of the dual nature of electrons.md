@@ -2,4 +2,6 @@ I believe that the wavefunction in it's complex form represents the whole electr
 
 The objection to this is the single-electron double slit experiment.
 
-I could argue that this is because one should not just discard the complex form by multiplying it by its complex conjugate. But rather, it could be that the complex part of the wave at time t
+I could argue that this is because one should not just discard the complex form by multiplying it by its complex conjugate. But rather, it could be that the complex part of the wave at time t is outside the real dimension, and maybe the complex part occupies the imaginary, or 4th dimension.
+
+I haven't seen anyone thinking about this yet.

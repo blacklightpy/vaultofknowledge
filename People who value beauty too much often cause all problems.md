@@ -12,4 +12,6 @@ True understanding of beauty would be by seeing its presence in all aspects of l
 
 Once again, this doesn't mean that one must chip away what's evil, because the stone wasn't an evil entity that masked the real beauty. Rather, this means the stone was an inanimate entity that lend itself to be chipped away to see itself in a different light, just like getting a haircut.
 
-When one can see the uniformity of the universe, of how black implies white, self implies other, and so on, one can see that the existence of one aspect of the universe was always dependent on the opposing aspect. Even matter exists in space, and by wave theory of matter, density is simply the result of matter coming in and out of existence at a faster rate.
+When one can see the uniformity of the universe, of how black implies white, self implies other, and so on, one can see that the existence of one aspect of the universe was always dependent on the opposing aspect. Even matter exists in space, and by wave theory of matter, density is simply the result of matter coming in and out of existence at a faster rate (It is generally accepted that composite particles have the Compton wavelength, and it also makes intuitive sense because elementary particles still have to be made of some form of lower level binding).
+
+Then, one can do away with words such a beauty, because everything is beautiful. And by doing so, all evil is eliminated from the world, because there is no such thing that is purely beautiful or purely evil.
