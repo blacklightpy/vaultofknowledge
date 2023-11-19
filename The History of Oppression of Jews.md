@@ -28,7 +28,11 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - From the 9th century onwards, the medieval Islamic world imposed "dhimmi" or "protected" status on Christian and Jewish minorities. Nevertheless, Jews were granted more freedom to practise their religion in the Muslim world than they were in Christian Europe.
 > - Jewish communities in Spain thrived under tolerant Muslim rule during the Spanish Golden Age and Cordova became a centre of Jewish culture.
 > - But when Almoravids entered North Africa, they started pogroms against the Jews of Cordova in 1011 and Granada massacre in 1066. Later by 1147 they formed the Almohad Caliphate formed and started treating the dhimmis harshly.
-> - Faced with death or conversion, many fled. Some went to more tolerant Muslim nations, while others went northward to go Christian Europe.
+> - Faced with death or conversion, many fled. Some went to more tolerant Muslim nations, while others went northward to growing Christian kingdoms.
+> - Destruction of Synagogues were ordered in Egypt, Syria, Iraq and Yemen in the Middle Ages.
+> - 6,000 Jews were killed by a Muslim mob during the 1033 Fez massacre.
+> - There were further massacres in Fez in 1276 and 1465
+> - Massacres in Marrakesh in 1146 and 1232.
 > ## The Crusades
 > - First Crusade
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
@@ -39,7 +43,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > Europe has blamed the Jews for an encyclopedia of sins.
 > - The Church blamed the Jews for killing Jesus;
 > - Voltaire blamed the Jews for inventing Christianity.
-> - In the febrile minds of anti-Semites, Jews were usurers and well-poisoners and spreaders of disease.
+> - Jews were usurers and well-poisoners and spreaders of disease
 > - Jews were the creators of both communism and capitalism;
 > - they were clannish but also cosmopolitan;
 > - cowardly and warmongering;
