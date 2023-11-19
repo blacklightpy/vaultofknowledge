@@ -28,6 +28,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 > - After the Muslim conquest of the Levant, it was renamed to Sham
 > - In the 19th century, the name Syria was revived in it's modern Arabic form to denote the whole of Bilad al-Sham, as Suriyah or Suriyya.
 > - After WWI, Britain and France split up the regions
+> - Basically Palestine was known to the Arabs as western Syria, not Palestine, which was a Roman and British name.
 
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic

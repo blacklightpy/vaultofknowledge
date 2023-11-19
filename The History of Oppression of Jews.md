@@ -56,9 +56,10 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > 	- Faced with death or conversion, many fled. Some went to more tolerant Muslim nations, while others went northward to growing Christian kingdoms.
 > 	- Destruction of Synagogues were ordered in Egypt, Syria, Iraq and Yemen in the Middle Ages.
 > 	- 6,000 Jews were killed by a Muslim mob during the 1033 Fez (Morocco) massacre.
-> 	- Fez (Morocco) massacre of 1276
 > 	- Massacres in Marrakesh (Yemen) in 1146 and 1232
-> - Fez massacre of 1465
+> - In 1244, the Marinid Sultanate overthrew the Almohad Caliphate
+> 	- Fez (Morocco) massacre of 1276
+> 	- Fez massacre of 1465
 > - Arguments from the Jewish Virtual Library: https://www.jewishvirtuallibrary.org/the-treatment-of-jews-in-arab-islamic-countries
 > ## The Middle Ages
 > ### The Crusades
