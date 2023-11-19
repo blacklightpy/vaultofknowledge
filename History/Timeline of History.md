@@ -425,6 +425,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Everyone else in Mesopotamia copy their horses
 - 1650 BC: They made the Hittite Empire
 - Mycenaean Greece also forms
+- 1273 BC: 12 Tribes of Israel arrive in Canaan
 ### Indus River Valley
 - 1700 BC: Indus River Valley Civilization died
 ### Indo-Europe
@@ -448,7 +449,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Bronze Age collapsed
 - Phoenicians start trade and invent the alphabets
 - [Iron Age]
-- 12 Tribes of Israel arrive
 ### America
 - Olmecs start a civilization in Mexico
 ## Time Period 5 (1000 BC - 700 BC)

@@ -375,8 +375,13 @@
             "id": "4efced8b8336ee6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -447,6 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "History/Timeline of History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,6 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "History/Timeline of History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +488,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "History/Timeline of History.md"
+              }
             }
           },
           {
