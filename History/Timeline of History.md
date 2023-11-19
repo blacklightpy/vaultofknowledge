@@ -21,8 +21,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 >		- Semite was derived from Shem, Noah's faithful son
 
 > [!NOTE] Syria and Palestine
-> The name Syria derives from Assyria.
-> The Syria region refers to Greater Syria or Syria-Palestine, which is just the Levant
+> - The name Syria derives from Assyria, which originated in modern day Iraq
+> - The Syria region refers to Greater Syria or Syria-Palestine, which is just the Levant in the Narrow definition (Syria, Jordan, Lebanon, Palestine, Hatay Province (Turkey), Cyprus, and UK Territories in Cyprus Islands)
+> - During Hellenistic period, the term Coele-Syria applied to the entire Levant
+> - Under Roman rule, it referred to the province of Syria, which was divided into Syria Ph
 
 # Prehistory
 [Stone Age] - Palaeolithic and Neolithic
