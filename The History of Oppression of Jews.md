@@ -20,6 +20,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - Christianity became to official religion of Rome
 > ## Islamic
 > - 628 AD: After the Battle of Trench, there were still some conflicts, most notable being the Battle of Khaybar. The Banu Nadir members, who claimed to be the descendants of Aaron, moved to Khaybar after their expulsion from Medina city in 625. There they had firearms and weapons, and were plotting to attack the Muslims again.
+> - After the conflict, they remained peacefully in the Oasis, but later the Caliph Umar expelled them in 642 AD to the newly conquered regions of Syria and Iraq, claiming that Mohammed before his death said that the two religions cannot exist together in the Hejaz.
 > ## The Crusades
 > - First Crusade
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
