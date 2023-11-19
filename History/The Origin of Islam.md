@@ -11,6 +11,10 @@
 > 	- This led to the the sectarian division of Sunni and Shi'a Muslims
 > - Third Muslim Civil War / Third Fitna against Ummayad Caliphate and establishment of Abbasid Caliphate
 > - Ottoman Empire Caliphate
+> 
+> Other Caliphates
+> - Fatimid Caliphate (Shi'a)
+> - Almohad Caliphate (Berbers, who defeated the Almoravid Dynasty)
 
 - Muslim Rulers who protected Jews: https://web.archive.org/web/20150402101019/http://mirajnews.com/article/opinion/muslim-rulers-saved-jews/
 
