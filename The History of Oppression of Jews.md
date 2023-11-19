@@ -86,14 +86,28 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - ## Early Modern Period
 > - Martin Luther King started the Protestant reformation and criticized the Jews harshly, but later on said that Jews should be treated with Christian love, so that they may receive the Lord
 > - The disappearance and death of a boy named Simon of Trent was blamed on the Jews, which fuelled antisemitism at the time. He was mutilated and his blood was drained.
-> - ##17th Century
-> - 
+> ##17th Century
 > ## 18th Century (Age of Enlightenment)
 > - The age of enlightenment saw the dismantling of archaic, corporate and hierarchical forms of society in favour of individual equality of citizens before the law
 > 	- How this would affect the previously autonomous, but subordinated Jews became known as the Jewish Question
 > 	- Enhanced civil rights were gradually extended to the Jews, but only on the condition that they abandon many aspects of their previous identity to fit in with the rest of society
 > ## 19th Century
+> 	### Catholic counter-revolution
+> 	### Germany
+> 	### France
+> 	### Switzerland
+> 	### United States
+> 	### Russia
+> 	### The Muslim world
 > ## 20th Century
+> 	### Russia
+> 	### France
+> 	### Nazism and the Holocaust
+> 	### United States
+> 	### Eastern Europe after World War II
+> 	### United States after World War II
+> 	### The Muslim world
+> 
 > - Tsar Alexander III of Russia hated the Jews, because he believed they had a role in his father's murder
 > - Jews were allowed reside to the west of Pale of Settlement, but not beyond that. The land was not good for agriculture, and Jews were in poverty.
 > - Tsar Alexander III started many pogroms against the Jews
