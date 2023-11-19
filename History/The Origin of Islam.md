@@ -7,7 +7,8 @@
 > [!NOTE] Caliphates
 > - Rashidun Caliphate
 > - First Muslim Civil War / First Fitna against Rashidun Caliphate and establishment of Ummayad Caliphate
-> - Abbasid Caliphate
+> - Second Muslim Civil War / Second Fitna: Ummayad Caliphate vs 
+> - Third Muslim Civil War / Third Fitna against Ummayad Caliphate and establishment of Abbasid Caliphate
 > - Ottoman Empire Caliphate
 
 - Arab historians mention about 20 tribes who lived in the region, among them the well-known 
