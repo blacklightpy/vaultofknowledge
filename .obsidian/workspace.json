@@ -370,9 +370,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c051cc2f9196650f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kalam Argument.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -439,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The History of Oppression of Jews.md",
+                "file": "Kalam Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The History of Oppression of Jews.md",
+                "file": "Kalam Argument.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +489,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The History of Oppression of Jews.md"
+                "file": "Kalam Argument.md"
               }
             }
           },
@@ -525,10 +538,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ca67ff5eded0791e",
+  "active": "c051cc2f9196650f",
   "lastOpenFiles": [
-    "History/Timeline of History.md",
+    "Kalam Argument.md",
     "The History of Oppression of Jews.md",
+    "History/Timeline of History.md",
     "Culture/Jewish Culture.md",
     "Spectral Efficiency.md",
     "The true principles of life which are suppressed in society.md",
@@ -556,7 +570,6 @@
     "Barbie The Movie.md",
     "World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Development Sector.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
     "_images/Types of Digital Modulation.png",
     "_images/Expulsion_judios-en.svg.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
