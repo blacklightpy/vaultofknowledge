@@ -71,6 +71,10 @@ These killings destroyed the trade of Yemen with Europe and involved Dhu Nuwas i
 
 ~~~
 Sabaean Kingdom (Arab kingdom of Saba / Biblican Kingdom of Sheba) (1200 BCE–275 CE) > Himyarite Dynasty (110 BC-525 CE) > Aksum/Axum Dynasty (525-578) > Persian Sassanian Empire (224-651) > Rashidun Caliphate of Islam
+
+Immigration to the [Arabian Peninsula](https://en.wikipedia.org/wiki/Arabian_Peninsula "Arabian Peninsula") began in earnest in the 2nd century CE, and by the 6th and 7th centuries there was a considerable Jewish population in [Hejaz](https://en.wikipedia.org/wiki/Hejaz "Hejaz"), mostly in and around [Medina](https://en.wikipedia.org/wiki/Medina "Medina"). This was in part due to the embrace of Judaism by such leaders as [Dhu Nuwas](https://en.wikipedia.org/wiki/Dhu_Nuwas "Dhu Nuwas"); who was very aggressive about converting his subjects to Judaism. Nuwas persecuted [Christians](https://en.wikipedia.org/wiki/Christians "Christians") in his kingdom as a reaction to the [Christian persecution of Jews](https://en.wikipedia.org/wiki/Persecution_of_Jews "Persecution of Jews") by the local Christians and [Abu Karib Asad](https://en.wikipedia.org/wiki/Tubba_Abu_Karab_As%27ad "Tubba Abu Karab As'ad").[[1]](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Saudi_Arabia#cite_note-1) In 523, the Himyarite king [Dhu Nuwas](https://en.wikipedia.org/wiki/Dhu_Nuwas "Dhu Nuwas") (Dunaan), who had converted to Judaism, massacred the Christians there.[[2]](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Saudi_Arabia#cite_note-2)
+
+
 ~~~
 
 ~~~
