@@ -21,7 +21,9 @@ So the argument goes:
 ---
 Why can't an infinite exist?
 
-Just imagine a sea of water, and nothing else. Imagine it stretches on forever, and there is no end to it. Si
+Just imagine a sea of water, and nothing else. Imagine it stretches on forever, and there is no end to it. Simply by this imagination, you have seen infinity. Definitely it exists in your mind, which exists in this world.
+
+Besides, the universe doesn't have a wall, and maybe mass is just fluctuations, which just have to spread to different 
 
 What is 2.2?
 2.2 is described simply as that an infinite distance cannot be traversed. For example, in time, if the past was infinite, then today would never arrive.
