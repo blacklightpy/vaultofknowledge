@@ -23,7 +23,9 @@ So the argument goes:
 What is cause and why should everything have it?
 
 Sometimes I like some stuff, and there may not be an attributable cause for it.
-If you say that the universe has some cause to exist, doesn't that the same apply to 
+If you say that the universe has some cause to exist, doesn't that the same apply to god?
+Why does god exist?
+If you can answer that question, why can't we just replace god with universe and see it's existence?
 
 ---
 2.1 Why can't an infinite exist?
