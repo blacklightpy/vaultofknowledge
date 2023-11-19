@@ -3,7 +3,18 @@
 - 610 AD: He goes to the Cube (Kaaba) of Mecca and presents his revelations
 - 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
 - The population of Medina had, alongside the 200 emigrant followers from Mecca, the Faithful of Medina (who gave them accommodation and converted to Islam), Arab pagans, three Jewish tribes and some Christians.
-
+- Arab historians mention about 20 tribes who lived in the region, among them the well-known 
+	- Banu-Naḍīr and Banu Qurayẓa who were called al-Kāhinān, i.e., "Two Tribes of Priests,"
+	- Banu Qaynuqāʿ
+	- Many Jews also lived in Khaybar and in other oases of Wadi al-Qurā ("Valley of the Villages"), such as 
+		- al-ʿUlā (Dīdān)
+		- Madāʾin Ṣāliḥ
+		- al-Ḥijr, Fadak
+		- the Transjordanian plains of Adhruḥ, Jarba, Edrei,
+		- the port of Maqnā on the Gulf of Eilat. 
+	- Apparently, Jewish refugees from south Arabia also settled in the environs of Ṭāʾif after the war of Yūsuf Dhū Nuwās.
+	- The reports from Medina attracted many Arab tribes who settled in this area, in particular two tribes from south Arabia, Banu al-Aws and Banu Khazraj, who from the start were vassals of the Jewish tribes. 
+	- (Source: https://www.jewishvirtuallibrary.org/arabia)
 
 
 - The Jews of Medina were probably Jews expelled from Roman Palestine.
