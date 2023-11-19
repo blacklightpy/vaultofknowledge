@@ -370,22 +370,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "c051cc2f9196650f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kalam Argument.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -452,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalam Argument.md",
+                "file": "The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kalam Argument.md",
+                "file": "The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -489,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kalam Argument.md"
+                "file": "The History of Oppression of Jews.md"
               }
             }
           },
@@ -538,7 +525,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c051cc2f9196650f",
+  "active": "ca67ff5eded0791e",
   "lastOpenFiles": [
     "Kalam Argument.md",
     "The History of Oppression of Jews.md",
