@@ -66,7 +66,8 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - ## 20th Century
 > - ## Reduction of Antisemitism
 > - Protestant Reformation
-> - Rise of capitalism 
+> - Rise of capitalism in England in the 19th century without a notable Jewish presence reduced the blame on Jews
+> - Antisemitism was lower, in addition to US and Britain, in English speaking countries such as Canada, Australia, New Zealand and South Africa due to cultural acceptance. The Quebec region of Canada still had higher levels of antisemitism because they speak French.
 
 > [!NOTE]
 > Europe has blamed the Jews for an encyclopedia of sins.
