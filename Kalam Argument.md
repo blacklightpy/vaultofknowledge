@@ -17,3 +17,11 @@ So the argument goes:
 		2.22 The temporal series of past events is a collection formed by successive addition.  
 		2.23 Therefore, the temporal series of past events cannot be actually infinite.
 3. Therefore, the universe has a cause of its existence.
+# Let's attack this argument
+---
+Why can't an infinite exist?
+A reason is that an infinite distance cannot be traversed. For example, in time, if the past was infinite, then today would never arrive.
+
+But I must ask, to arrive, where do you start from? You have to start somewhere, and if you pick a point, you have a finite distance from there! You 
+
+---
