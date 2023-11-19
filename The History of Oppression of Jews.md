@@ -18,7 +18,8 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - Christians, unlike Jews didn't contain themselves to a single state, and wanted to convert other people
 > - 137 AD: Christians started blaming all Jews for all time, for deicide of Jesus
 > - Christianity became to official religion of Rome
-> 
+> ## Islamic
+> - 628 AD: After the Battle of Trench, there were still some conflicts, most notable being the Battle of Khaybar. The Banu Nadir members, who claimed to be the descendants of Aaron, moved to Khaybar after their expulsion from Medina city in 625. There they had firearms and weapons, and were plotting to attack the Muslims again.
 > ## The Crusades
 > - First Crusade
 > 	- They massacred the Jews of Rhineland instead of attacking the Jews
