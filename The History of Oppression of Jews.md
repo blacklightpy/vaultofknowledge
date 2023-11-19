@@ -17,6 +17,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 > - Until Constantine's time, for a while Christians were persecuted more for trying to start a new religion, and for their criticism of the Gods that the Romans believed to have blessed their city, stating "all the gods of the heathens are devils."
 > - Christians, unlike Jews didn't contain themselves to a single state, and wanted to convert other people
 > - 137 AD: Christians started blaming all Jews for all time, for deicide of Jesus
+> - Christianity became to official religion of Rome
 > 
 > ## The Crusades
 > - First Crusade
