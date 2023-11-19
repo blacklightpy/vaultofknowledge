@@ -8,4 +8,8 @@ People who are attracted to awesome music pieces may also forget that what makes
 
 Also, by seeing beauty as an attribution to what's visible, or what invokes a sensory experience, we fail to see the beauty of the real design or intention of something. A product or device maybe provide a really sensational experience, but it may have been designed on purpose by exploiting the fundamental nature of humans to get them addicted to it, to achieve some goal, which is most often marketing.
 
-True understanding of beauty would be by seeing its presence in all aspects of life. In other words, the concept of beauty would apply to both creative and destr
+True understanding of beauty would be by seeing its presence in all aspects of life. In other words, the concept of beauty would apply to both creative and destructive aspects of life, just as how an art piece is not formed by filling a piece of paper with colours, or how a sculpture is made by chipping away parts of the stone to form an image.
+
+Once again, this doesn't mean that one must chip away what's evil, because the stone wasn't an evil entity that masked the real beauty. Rather, this means the stone was an inanimate entity that lend itself to be chipped away to see itself in a different light, just like getting a haircut.
+
+When one can see the uniformity of the universe, in that bl
