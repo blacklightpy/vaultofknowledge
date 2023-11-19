@@ -390,7 +390,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md",
+                "file": "Quantum Mechanics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -427,7 +427,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lagrangian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -444,12 +444,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -465,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md",
+                "file": "Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md",
+                "file": "Quantum Mechanics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -502,7 +502,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The true principles of life which are suppressed in society.md"
+                "file": "Quantum Mechanics.md"
               }
             }
           },
@@ -553,8 +553,8 @@
   },
   "active": "c02e76be58a65622",
   "lastOpenFiles": [
-    "So we are all different, but how do we deal with it.md",
     "The true principles of life which are suppressed in society.md",
+    "So we are all different, but how do we deal with it.md",
     "Quantum Mechanics.md",
     "People who value 'beauty' too much often cause all problems.md",
     "de Broglie Wavelength.md",

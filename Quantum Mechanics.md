@@ -1,5 +1,5 @@
 # My ideas (listed first so that I can explore them later)
-
+The problems with this are listed further in this page, [[Quantum Mechanics#^my-idea|here]].
 ## Idea Part 1
 My usual interpretation was based on the ["classical wave optics formulation"](https://en.wikipedia.org/wiki/Double-slit_experiment#Classical_wave-optics_formulation). But it looks like I need to consider the individual particle double slit experiment more. Well, my idea is still then to consider the complex part of the wavefunction instead of neglecting its value.
 
@@ -19,11 +19,13 @@ A very wild addition to this, perhaps $c$ is the constant of our universe, but a
 # Shortcomings
 - "God does not play dice" - Einstein
 - Is the electron a probability wave ($\psi^*\psi$), or is it the orbital itself ($\psi$)?
-- It could be that the wave is vibrating in 4D space, like a string is vibrating in 2D space.
+- It could be that the wave is vibrating in 4D space, like a string is vibrating in 2D space. ^my-idea
 	- These theories are grouped under the "Hidden Variable Theory"
 		- e.g. Pilot Wave Theory (or de Broglie-Bohm Theory)
 			- Has hydrodynamic analogues
 		- The problem with most hidden variable theories is that when you try to write a Lagrangian for such a system, you aren't able to incorporate the Lorentz Invariant to start with.
+		- This answer says, it doesn't fit with special relativity, and violating it would be kind of a major sin because of how successful it is: https://physics.stackexchange.com/a/666576
+			- He also explains how string theory aims to solve this
 
 # Various Interpretations of the Model
 - Ensemble interpretation
