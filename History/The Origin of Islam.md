@@ -87,6 +87,7 @@ Yemenite Jewish traditions have traced the earliest settlement of Jews in this
 ~~~
 
 ~~~
+From: Wikipedia
 ### Sanaite
 
 The Sanaite Jews have a tradition that their ancestors settled in Yemen forty-two years before the destruction of the First Temple. According to Jeremiah some 75,000 Jews, including priests and Levites, traveled to Yemen. The [Banu Habban](https://en.wikipedia.org/wiki/Habbani_Jews "Habbani Jews") in southern Yemen have a tradition that they are the descendants of Judeans who settled in the area before the destruction of the Second Temple. These Judeans supposedly belonged to a brigade dispatched by King Herod to assist the Roman legions fighting in the region.

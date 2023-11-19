@@ -1,22 +1,28 @@
 The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam. Muslims paid Zakat and Jews paid Jizah as taxes, so they both went along fairly well. Later on Muslims only became less secular due to threats from non-Muslims such as Europeans.
 
-Zakat was given to the poor, but Jizah was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizah, but sick and disabled people, etc. didn't have to. But the point was, Jizah was still better than forced conversion or extermination as happened in Europe. Well, this is just normal tax collected in every state. Nowadays, it's the same tax, but Zakat still remains the offering of the Muslims in the name of Allah, which others just pay it to the state.
-
-Non-Muslims didn't have to fight for Muslim religious wars. So this tax was held to support those who protected them.
-
->Elon Musk would pay $1000 in Jizya in the most expensive caliphates I could find.  
-> Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.9 Billion. Unless I’ve misplaced a zero somewhere, I think that’s 790 million percent more.
-
-> Muslims also have to pay a yearly tax called Zakat. Zakat is even binding on property and jewellery. Zakat should also be paid in the form of food as well. The Jizya is not binding on the property of the Christians and Jews.
+> [!NOTE] Regarding Taxes
 > 
-> Abu Bakr fought against the Muslims who didn't pay Zakat so it doesn’t seem to discriminate against the Christians and Jews.
+> Zakat was given to the poor, but Jizah was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizah, but sick and disabled people, etc. didn't have to. But the point was, Jizah was still better than forced conversion or extermination as happened in Europe. Well, this is just normal tax collected in every state.
 > 
-> If they go against the Islamic rule and government they deserve to be punished. What else was Abu Bakr supposed to do? In America if someone does not pay their taxes they can go to jail. Does that make America unjust? In China they kill tax evaders
-> https://www.irishtimes.com/news/7-face-execution-for-chinese-tax-fraud-1.286850
+> Nowadays, it's the same tax, but Zakat still remains the offering of the Muslims in the name of Allah, which others just pay it to the state.
 > 
-> Zakah is one of the 5 pillars of Islam and it is compulsory on everyone. It is compulsory even on the non-Muslim, this is called Jizya. Jizya does not degrade the non-Muslim people, it actually brings equality.
+> Non-Muslims didn't have to fight for Muslim religious wars. So this tax was held to support those who protected them.
 > 
-> The Jizya is a tax levied on non-Muslims in lieu of military service which is compulsory for Muslims but not for non-Muslims. The Non-Muslims paying Jizya were exempt from compulsory military service in a Muslim State but were entitled to full protection.
+> About Zakat: https://en.wikishia.net/view/Zakat
+> 
+> >Elon Musk would pay $1000 in Jizya in the most expensive caliphates I could find.  
+> > Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.9 Billion. Unless I’ve misplaced a zero somewhere, I think that’s 790 million percent more.
+> 
+> > Muslims also have to pay a yearly tax called Zakat. Zakat is even binding on property and jewellery. Zakat should also be paid in the form of food as well. The Jizya is not binding on the property of the Christians and Jews.
+> > 
+> > Abu Bakr fought against the Muslims who didn't pay Zakat so it doesn’t seem to discriminate against the Christians and Jews.
+> > 
+> > If they go against the Islamic rule and government they deserve to be punished. What else was Abu Bakr supposed to do? In America if someone does not pay their taxes they can go to jail. Does that make America unjust? In China they kill tax evaders:
+> > https://www.irishtimes.com/news/7-face-execution-for-chinese-tax-fraud-1.286850
+> > 
+> > Zakah is one of the 5 pillars of Islam and it is compulsory on everyone. It is compulsory even on the non-Muslim, this is called Jizya. Jizya does not degrade the non-Muslim people, it actually brings equality.
+> > 
+> > The Jizya is a tax levied on non-Muslims in lieu of military service which is compulsory for Muslims but not for non-Muslims. The Non-Muslims paying Jizya were exempt from compulsory military service in a Muslim State but were entitled to full protection.
 
 > [!NOTE] Forms of antisemitism
 > - Religious (Jew as Christ-killer),
