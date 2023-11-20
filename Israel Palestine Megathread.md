@@ -27,6 +27,7 @@
 #### Megathreads in r/Judaism, on reddit.com
 - [Israel/Palestine Megathread on r/Judaism](https://old.reddit.com/r/Judaism/comments/17261bw/israelpalestine_megathread/)
 - [Israel/Palestine Megathread #2 on r/Judaism](https://old.reddit.com/r/Judaism/comments/172poze/israelpalestine_megathread_2/)
+- [\[Megathread\] Israel/Palestine Questions Thread. on r/geopolitics](https://www.reddit.com/r/geopolitics/comments/176sp7u/megathread_israelpalestine_questions_thread/)
 
 ### Videos on Instagram
 #### Arabs

@@ -370,22 +370,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f56bc603b5845668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Security Buzzwords.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -452,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Security Buzzwords.md",
+                "file": "Israel Palestine Megathread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Security Buzzwords.md",
+                "file": "Israel Palestine Megathread.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -489,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Security Buzzwords.md"
+                "file": "Israel Palestine Megathread.md"
               }
             }
           },
@@ -538,10 +525,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f56bc603b5845668",
+  "active": "d6ba07e46e706bc4",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "Digital Security Buzzwords.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "Israel Palestine Megathread.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
