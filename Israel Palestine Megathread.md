@@ -1,6 +1,5 @@
 ### The Global Timeline (including Jews and Muslims)
 - [[Timeline of History]]
-
 ### Antisemitism
 - [[The History of Oppression of Jews]]
 ### Regarding the claim that Muslims are aggressive

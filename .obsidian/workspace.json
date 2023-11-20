@@ -409,7 +409,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -511,11 +512,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "d6ba07e46e706bc4",
   "lastOpenFiles": [
+    "History/Current Affairs/Russo-Ukraine Conflict/Russo-Ukraine Conflict.md",
+    "Israel Palestine Megathread.md",
     "History/Current Affairs/Russo-Ukraine Conflict",
     "The History of Oppression of Jews.md",
-    "Israel Palestine Megathread.md",
     "Defining Religion.md",
     "The History of Islamic Rule.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
@@ -557,7 +559,6 @@
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations",
     "mdSilo-all.json",
     "Center Terms.md.crswap",
-    "World Building/Science and Engineering/Physics/Spintronics",
-    "World Building/Science and Engineering/Physics/Nuclear Physics"
+    "World Building/Science and Engineering/Physics/Spintronics"
   ]
 }
