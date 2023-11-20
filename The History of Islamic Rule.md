@@ -7,8 +7,11 @@ Shariah
 
 - Mughal Empire
 	- Babar ()
+		- He was descendant of Genghis Khan and Tamerlane, in 1526 after the First Battle of Panipat.
 	- Humayun ()
+		- He was driven out by Sher Shah, but a young Akbar got it back.
 	- Akbar (secular, married a Rajput)
+		- He respected all races and religions and was also a patron of the arts who commissioned the first beautifully illustrated translations of the Ramayana and Mahabharat into the state language of Farsi (Persian) to make them widely known.
 	- Jahangir (loved art and architecture)
 	- Shah Jahan (Built Taj Mahal)
 	- Aurangazeb (1658 to 1707)
