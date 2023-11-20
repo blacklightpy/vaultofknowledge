@@ -7,11 +7,14 @@ Shariah
 
 - Mughal Empire
 	- Babar ()
-		- He was descendant of Genghis Khan and Tamerlane, in 1526 after the First Battle of Panipat.
+		- He was descendant of Genghis Khan and Tamerlane (Timurids)
+		- He founded the empire in 1526 after the First Battle of Panipat.
 	- Humayun ()
 		- He was driven out by Sher Shah, but a young Akbar got it back.
 	- Akbar (secular, married a Rajput)
 		- He respected all races and religions and was also a patron of the arts who commissioned the first beautifully illustrated translations of the Ramayana and Mahabharat into the state language of Farsi (Persian) to make them widely known.
+		- In 1582, Akbar united all religions with the syncretic religion of Dīn-i Ilāhī (Persian: دین الهی, lit. 'Religion of God'), known during its time as Tawḥīd-i-Ilāhī ("Divine Monotheism", lit. 'Oneness of God') or Divine Faith.
+		- According to Iqtidar Alam Khan, it was based on the Timurid concept of Yasa-i Changezi (Code of Genghis Khan), to consider all sects as one. The elements were drawn from different religions. 
 	- Jahangir (loved art and architecture)
 	- Shah Jahan (Built Taj Mahal)
 	- Aurangazeb (1658 to 1707)
