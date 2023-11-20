@@ -5,4 +5,6 @@
 You can have "privacy and anonymity", "privacy without anonymity" or "anonymity without privacy", but all of them rely on security.
 # More features
 - **Deniability**: It is ensuring that one cannot argue that a secret message is contained in an encrypted message.
-	- This is achieved by creating an encrypted message comprised of two messages, a real message encrypted by a secret key and the other, a fake message encrypted by a fake message key. When a person who is supposed to have the key is asked to decrypt the message, they can just use the fake message key and decrypt that message. The questioner is not able to prove that there are other keys involved, unless he k
+	- This is achieved by creating an encrypted message comprised of two messages, a real message encrypted by a secret key and the other, a fake message encrypted by a fake message key. When a person who is supposed to have the key is asked to decrypt the message, they can use the fake key to decrypt the message, and reveal the fake message.
+	- Since the questioner is unable to prove that the suspect has more than one key for the same message, he cannot trust that any message the suspect reveals is the true message.
+	- Doubt: Can't the questioner re-encrypt the message? (This will work, unless cryptographic schemes can have multiple outputs for the same message. I'm not sure a single key can convert any of the multiple outputs back into the same message, but it may be possible)
