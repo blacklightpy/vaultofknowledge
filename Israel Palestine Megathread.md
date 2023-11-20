@@ -20,15 +20,17 @@
 
 - [[My Ideas on solving the Arab-Israel conflict]]
 
-### Megathreads on Lemmy
+### Discussion Boards
+#### Megathreads on Lemmy websites
 - https://sh.itjust.works/post/7253102
-- A Comment of the full history: https://lemmy.world/comment/4408495
-
-### Threads in r/Judaism
-- [Israel/Palestine Megathread on r/Judaism](https://www.reddit.com/r/Judaism/comments/17261bw/israelpalestine_megathread/)
-- [Israel/Palestine Megathread #2 on r/Judaism](https://www.reddit.com/r/Judaism/comments/172poze/israelpalestine_megathread_2/)
+- A comment of the full history: https://lemmy.world/comment/4408495
+#### Megathreads in r/Judaism, on reddit.com
+- [Israel/Palestine Megathread on r/Judaism](https://old.reddit.com/r/Judaism/comments/17261bw/israelpalestine_megathread/)
+- [Israel/Palestine Megathread #2 on r/Judaism](https://old.reddit.com/r/Judaism/comments/172poze/israelpalestine_megathread_2/)
 ### Video Resources on Instagram
 #### Arabs
 - @eye.on.palestine
 #### Zionists
 - @stateofisrael
+	- IDF Phone call recording confirming Hamas failed rockets
+	- IDF Phone call recording confirming
