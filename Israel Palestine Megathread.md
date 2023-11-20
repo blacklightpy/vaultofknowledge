@@ -27,11 +27,6 @@
 #### Megathreads in r/Judaism, on reddit.com
 - [Israel/Palestine Megathread on r/Judaism](https://old.reddit.com/r/Judaism/comments/17261bw/israelpalestine_megathread/)
 - [Israel/Palestine Megathread #2 on r/Judaism](https://old.reddit.com/r/Judaism/comments/172poze/israelpalestine_megathread_2/)
-#### Popular people on X
-- Jackson Hinkle, a pro-Russia "MAGA" influencer, who is anti-Zionism
-- Laura Loomer, an Islamophobic conspiracy theorist, who is Jewish
-- Ben Shapiro, Judeo-Christian conservative and Zionist supporter
-### Video Resources on Instagram
 #### Arabs
 - @eye.on.palestine
 - @muslim.daily
@@ -39,7 +34,9 @@
 #### Zionists
 - @stateofisrael
 	- IDF Phone call recording confirming Hamas failed rockets
-		- Jackson Hinkle showing IDF's posts on X: https://x.com/jacksonhinklle/status/1714752723394990150?s=20
+		- Jackson Hinkle, a (non-agreeable) influencer showing IDF's posts on X: https://x.com/jacksonhinklle/status/1714752723394990150?s=20
+		- Ika Ferrer Gotic, of N1 Channel, showing Hanafi's post on X: https://twitter.com/IkaFerrerGotic/status/1714395216122167467
+		- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In this now deleted tweet by <a href="https://twitter.com/HananyaNaftali?ref_src=twsrc%5Etfw">@HananyaNaftali</a>, <a href="https://twitter.com/hashtag/Israel?src=hash&amp;ref_src=twsrc%5Etfw">#Israel</a> first took credit for bombing the Baptist Hospital. Once they saw how many civilians it killed, he deleted this tweet and blamed the attack on <a href="https://twitter.com/hashtag/Hamas?src=hash&amp;ref_src=twsrc%5Etfw">#Hamas</a> and said Hamas bombed the hospital themselves. 500 civilians were murdered. <a href="https://t.co/mS3mJ8Z0SG">pic.twitter.com/mS3mJ8Z0SG</a></p>&mdash; Ika Ferrer Gotić (@IkaFerrerGotic) <a href="https://twitter.com/IkaFerrerGotic/status/1714395216122167467?ref_src=twsrc%5Etfw">October 17, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	- IDF Phone call recording confirming Hamas member calling family, proud that he killed 10 people
 		- "Several experts confirm Hamas’ view to @Channel4News that the audio tape of “Hamas” operatives talking about the missile malfunction is a fake. They say the tone, syntax, accent and idiom are absurd." -- [X post](https://x.com/alextomo/status/1714670858914894046?s=20) by @alextomo, Channel 4 News
 - IDF claims they found evidence that Hamas keeps curtains uselessly covering white walls to use them as spots to record hostages inside Al-Shifa
