@@ -11,6 +11,7 @@ Shariah
 		- He founded the empire in 1526 after the First Battle of Panipat.
 	- Humayun ()
 		- He was driven out by Sher Shah, but a young Akbar got it back, and Humayun ruled again.
+		- He banned forced Sati, but it was only enforced in Akbar's regime
 	- Akbar (secular, married a Rajput)
 		- He respected all races and religions and was also a patron of the arts who commissioned the first beautifully illustrated translations of the Ramayana and Mahabharat into the state language of Farsi (Persian) to make them widely known.
 		- He removed Jizya tax and pilgrimage tax (which was collected unbeknownst to him, from anyone who went to any place of worship according to how much the tax collector wanted)
@@ -20,7 +21,7 @@ Shariah
 			- Out of his 9 Navrathnas (9 Jewels), Raja Birbal, Raja Man Singh, Raja Todramal were from the majority Hindu community.
 		- He banned child marriage, and increased the minimum age from 14 to 16
 		- He introduced registration of marriages at the police station
-		- He introduced forced Sati, to ensure that she would die only if the husband died
+		- He banned forced Sati, to ensure that the wife would only do it if she wanted to
 	- Jahangir (loved art and architecture)
 	- Shah Jahan (Built Taj Mahal)
 	- Aurangazeb (1658 to 1707)
