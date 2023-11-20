@@ -13,6 +13,7 @@ Shariah
 		- He was driven out by Sher Shah, but a young Akbar got it back, and Humayun ruled again.
 	- Akbar (secular, married a Rajput)
 		- He respected all races and religions and was also a patron of the arts who commissioned the first beautifully illustrated translations of the Ramayana and Mahabharat into the state language of Farsi (Persian) to make them widely known.
+		- He removed Jizya tax and pilgrimage tax (which was for anyone who went to any place of worship)
 		- In 1582, Akbar united all religions with the syncretic religion of Dīn-i Ilāhī (Persian: دین الهی, lit. 'Religion of God'), known during its time as Tawḥīd-i-Ilāhī ("Divine Monotheism", lit. 'Oneness of God') or Divine Faith.
 		- According to Iqtidar Alam Khan, it was based on the Timurid concept of Yasa-i Changezi (Code of Genghis Khan), to consider all sects as one. The elements were drawn from different religions. 
 	- Jahangir (loved art and architecture)
