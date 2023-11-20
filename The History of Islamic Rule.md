@@ -1,4 +1,10 @@
 # Dynasties
+
+
+- Ottoman Caliphate
+	- They sided with Germany for support
+	- The late Young Turks movement for a civil government later turned to a sort of Turkish nationalism
+	- The Arabs didn't like this, and during WWI, they teamed up with Britain to defeat them to form an Arab national state from Aden to Aleppo.
 # Oppressive Regimes
 
 # Indian History
