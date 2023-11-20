@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Identity Buzzwords.md",
+                "file": "Digital Security Buzzwords.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -452,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Identity Buzzwords.md",
+                "file": "Digital Security Buzzwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital Identity Buzzwords.md",
+                "file": "Digital Security Buzzwords.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -489,7 +489,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Identity Buzzwords.md"
+                "file": "Digital Security Buzzwords.md"
               }
             }
           },
@@ -540,7 +540,7 @@
   },
   "active": "f56bc603b5845668",
   "lastOpenFiles": [
-    "Digital Identity Buzzwords.md",
+    "Digital Security Buzzwords.md",
     "Israel Palestine Megathread.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
