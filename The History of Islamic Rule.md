@@ -6,14 +6,22 @@ Shariah
 - Prithviraj Chouhan
 
 - Mughal Empire
-	- Babar
-	- Akbar ()
+	- Babar ()
+	- Humayun ()
+	- Akbar (secular, married a Rajput)
 	- Jahangir (loved art and architecture)
 	- Shah Jahan (Built Taj Mahal)
 	- Aurangazeb (1658 to 1707)
+		- He was often described as a ruthless tyrant who was an expansionist, imposed tough Sharia laws and brought back the discriminatory jizya tax that Hindu residents had to pay in return for protection.
 
 
 # Modi speaking against Aurangazeb
+It started when [the dispute over the Gyanvapi mosque began bubbling](https://www.bbc.com/news/world-asia-india-61476741) in the holy city of Varanasi - the mosque is built on the ruins of the Vishwanath temple, a grand 16th Century Hindu shrine destroyed in 1669 on Aurangzeb's orders. Now, his name is trending on social media with thousands of disparaging references, can be found in court files and has been invoked by India's present-day Hindu nationalist rulers.
+
+In December, Prime Minister Narendra Modi spoke about "Aurangzeb's atrocities, his terror" at an event in Varanasi. "He tried to change civilisation by the sword. He tried to crush culture with fanaticism," Mr Modi said.
+
+He [mentioned the Mughal ruler's name again last month](https://www.deccanherald.com/national/aurangzeb-severed-many-heads-but-could-not-shake-our-faith-says-pm-modi-at-red-fort-1102814.html) - speaking on the occasion of the 400th birth anniversary of Sikh Guru Tegh Bahadur who was beheaded for refusing to convert to Islam.
+
 "Even though Aurangzeb severed many heads, he could not shake our faith", Mr Modi said.
 
 His comments seemed to baffle a Canadian-American journalist who asked on Twitter why the Indian Prime Minister was "giving a long speech attacking a Mughal emperor who died 300+ years ago"?
@@ -25,3 +33,13 @@ She said Aurangzeb's name was being used as "a dog whistle to signal that it is 
 Prof Rezavi says the Mughal emperor did demolish a number of Hindu temples and imposed the discriminatory tax on Hindus, but he was a complicated figure, and not completely evil.
 
 "He gave the highest number of grants for maintaining Hindu temples, he himself was two-thirds Hindu by blood because Akbar, his great-grandfather, had married a Rajput [a warrior Hindu caste], and there were more Rajputs in higher echelons during his rule than that of any other Mughal."
+
+Despite popular perception, Prof Rezavi says Aurangzeb was not a fundamentalist in his personal life and that he "enjoyed wine, played the veena - an instrument favoured by Hindu goddesses - and more music books were written under him than any other Mughal".
+
+But, he adds that Aurangzeb "invoked religion to cover up for his political failures and strengthen his authority - much like India's present-day leaders.
+
+"But the question to ask is that even if Aurangzeb was all dark and evil, a sectarian and fundamentalist, who destroyed temples, should we be emulating him today?" Prof Rezavi asks.
+
+"He was a tyrant and an emperor who lived 300 years ago. At the time there was no modern democracy, there was no constitution to guide him. But today we are guided by the Indian constitution and laws of parliament, so how can you duplicate the deeds that were done in the 16th and 17th Century?
+
+"So if someone is indulging in the politics of 17th Century, they are committing a far greater crime than Aurangzeb did in the 17th Century," he adds.
