@@ -6,8 +6,8 @@ Shariah
 - Prithviraj Chouhan
 
 - Mughal Empire
-	- Babur
-	- Akbur
-	- Jahangir (art and architecture)
-	- Shah Jahan ()
+	- Babar
+	- Akbar ()
+	- Jahangir (loved art and architecture)
+	- Shah Jahan (Built Taj Mahal)
 	- Aurangazeb (1658 to 1707)
