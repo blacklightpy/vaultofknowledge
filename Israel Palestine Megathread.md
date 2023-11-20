@@ -28,8 +28,9 @@
 - [Israel/Palestine Megathread on r/Judaism](https://old.reddit.com/r/Judaism/comments/17261bw/israelpalestine_megathread/)
 - [Israel/Palestine Megathread #2 on r/Judaism](https://old.reddit.com/r/Judaism/comments/172poze/israelpalestine_megathread_2/)
 #### Popular people on X
-- Jackson Hinkle, a "Make America Great Again" supportive Influencer, who is anti-Zionism
-- 
+- Jackson Hinkle, a pro-Russia "MAGA" influencer, who is anti-Zionism
+- Laura Loomer, an Islamophobic conspiracy theorist, who is Jewish
+- Ben Shapiro, Judeo-Christian conservative and Zionist supporter
 ### Video Resources on Instagram
 #### Arabs
 - @eye.on.palestine
