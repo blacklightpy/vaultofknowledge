@@ -11,7 +11,7 @@ Shariah
 		- He founded the empire in 1526 after the First Battle of Panipat.
 	- Humayun ()
 		- He was driven out by Sher Shah
-		- His son Sher Shah Suri along with his general Hemachandra Vikramaditya established a secular rule until 1556, when a young Akbar got the empire back, and Humayun ruled again.
+		- His son Sher Shah Suri along with his general Hemachandra Vikramaditya established a secular rule until 1556, when a 13 year old Akbar got the empire back in the Second Battle of Paniput, and Humayun ruled again.
 		- He banned forced Sati, but it was only enforced in Akbar's regime
 	- Akbar (secular, married a Rajput)
 		- He respected all races and religions and was also a patron of the arts who commissioned the first beautifully illustrated translations of the Ramayana and Mahabharat into the state language of Farsi (Persian) to make them widely known.
