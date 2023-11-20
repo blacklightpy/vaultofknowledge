@@ -53,6 +53,7 @@ html_custom_inclusions:
   - <link rel="me" href="https://ohai.social/@ssunboyy" />
   - <link rel="me" href="https://firefish.social/@jyzkms" />
   - <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  - <script async src="//www.instagram.com/embed.js"></script>
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
