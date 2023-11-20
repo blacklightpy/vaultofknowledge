@@ -1,0 +1,2 @@
+- Security is about protecting access to your
+- Privacy is about making sure no one except who you want kno
