@@ -364,7 +364,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Israel Palestine Megathread.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -439,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Israel Palestine Megathread.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Israel Palestine Megathread.md",
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Israel Palestine Megathread.md"
+                "file": "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md"
               }
             }
           },
@@ -527,13 +527,14 @@
   },
   "active": "d6ba07e46e706bc4",
   "lastOpenFiles": [
-    "Digital Security Buzzwords.md",
-    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
-    "Israel Palestine Megathread.md",
-    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
+    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
+    "Israel Palestine Megathread.md",
+    "Digital Security Buzzwords.md",
+    "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
+    "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
     "The History of Islamic Rule.md",
     "The History of Oppression of Jews.md",
     "History/The Origin of Islam.md",
@@ -552,7 +553,6 @@
     "The true principles of life which are suppressed in society.md",
     "Quantum Mechanics.md",
     "So we are all different, but how do we deal with it.md",
-    "People who value 'beauty' too much often cause all problems.md",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",

@@ -29,6 +29,16 @@
 - Personal thoughts:
 	- I find it confusing how the misfired rocket managed to hit directly at a hospital, also a few days after Israel asked Hospitals to evacuate.
 
+# Unorganized
+- IDF Phone call recording confirming Hamas failed rockets
+	- [X post](https://x.com/jacksonhinklle/status/1714752723394990150) by Jackson Hinkle, a (non-agreeable) influencer showing IDF's deleted posts on X
+	- [X post](https://x.com/IkaFerrerGotic/status/1714395216122167467) by Ika Ferrer Gotic, a senior Journalist of N1 Channel, showing Hanafi's post on X
+	- Further data: 
+- IDF Phone call recording confirming Hamas member calling family, proud that he killed 10 people
+	- [X post](https://x.com/alextomo/status/1714670858914894046?s=20) by @alextomo, a journalist of Channel 4 News
+- IDF claims they found evidence that Hamas keeps curtains uselessly covering white walls to use them as spots to record hostages inside Al-Shifa
+	- [Instagram Reel video post](https://www.instagram.com/reel/Czvtj-Rss75/) by @muslim.daily pointing out the absurdity of this, because those curtains were used by their mothers to make the plain rooms look more 'chic'.
+
 
 
 
