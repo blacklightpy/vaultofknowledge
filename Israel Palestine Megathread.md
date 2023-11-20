@@ -45,4 +45,4 @@
 - IDF claims they found evidence that Hamas keeps curtains uselessly covering white walls to use them as spots to record hostages inside Al-Shifa
 	- [Instagram Reel video post](https://www.instagram.com/reel/Czvtj-Rss75/) by @muslim.daily pointing out the absurdity of this, because those curtains were used by their mothers to make the plain rooms look more 'chic'.
 
-<iframe>https://nitter.net/mhevery/status/1606438382561026049/embed</iframe>
+<iframe src="https://nitter.net/mhevery/status/1606438382561026049/embed" title="Sample X post by @mhevery, via Nitter"></iframe>
