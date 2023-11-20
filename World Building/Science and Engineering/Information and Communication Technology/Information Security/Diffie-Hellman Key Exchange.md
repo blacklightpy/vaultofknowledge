@@ -37,6 +37,7 @@ This is called the Shared Secret.
 > 
 > - There are other methods to prevent consistent eavesdropping, such as using a long-term shared secret (like KMAC) to verify the message.
 > 	- Signal uses DH key exchange with "Double Ratchet Algorithm" for **encryption** and "Triple Extended Diffie Hellman (X3DH)" / "Post Quantum Extended Diffie Hellman (PQXDH)" for the **authentication**.
+> 		- More details on X3DH: https://crypto.stackexchange.com/a/55433
 > 	- Another group of methods used is called the Station To Station (STS) protocol.
 > 		- More details on STS: https://crypto.stackexchange.com/questions/74601/station-to-station-protocol-questions
 # Practice

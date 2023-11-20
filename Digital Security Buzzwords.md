@@ -3,3 +3,4 @@
 - **Anonymity** is about ensuring your **identity** remains **private**.
 
 You can have "privacy and anonymity", "privacy without anonymity" or "anonymity without privacy", but all of them rely on security.
+# More features
