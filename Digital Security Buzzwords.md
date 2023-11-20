@@ -1,4 +1,4 @@
-- **Security** is about protecting **access** to your private data.
+- **Security** is about protecting **access** to your **belongings**.
 - **Privacy** is about ensuring your **private data** remains **private**.
 - **Anonymity** is about ensuring your **identity** remains **private**.
 
