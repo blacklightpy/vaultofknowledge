@@ -34,6 +34,32 @@ Jews are still very scared of the rise of Antisemitism.
 > - Ideological (Jews regarded as subversive or revolutionary, for following rituals like Shabbath),
 > - Cultural (Jews regarded as undermining the moral and structural fiber of civilization).
 
+Lehi was a Zionist organization, who referred to its members as terrorists. Upon establishment of Israel, they disbanded and formed the IDF.
+
+Lehi had three main goals:
+
+- To bring together all those interested in liberation (that is, those willing to join in active fighting against the British).
+- To appear before the world as the only active Jewish military organization.
+- To take over _[Eretz Yisrael](https://en.wikipedia.org/wiki/Eretz_Yisrael "Eretz Yisrael")_ (the Land of Israel) by armed force.[[35]](https://en.wikipedia.org/wiki/Lehi_(militant_group)#cite_note-37)
+
+Lehi believed in its early years that its goals would be achieved by finding a strong international ally that would expel the British from Palestine, in return for Jewish military help; this would require the creation of a broad and organised military force "demonstrating its desire for freedom through military operations."[[36]](https://en.wikipedia.org/wiki/Lehi_(militant_group)#cite_note-Weinberg_2003,_p._107-38)
+
+Lehi also referred to themselves as 'terrorists' and may have been one of the last organizations to do so.[[19]](https://en.wikipedia.org/wiki/Lehi_(militant_group)#cite_note-calderwalton-21)
+
+An article titled "Terror" in the Lehi underground newspaper _He Khazit_ (_The Front_) argued as follows:
+
+> Neither Jewish ethics nor Jewish tradition can disqualify terrorism as a means of combat. We are very far from having any moral qualms as far as our national war goes. We have before us the command of the [Torah](https://en.wikipedia.org/wiki/Torah "Torah"), whose morality surpasses that of any other body of laws in the world: "Ye shall blot them out to the last man."
+> 
+> But first and foremost, terrorism is for us a part of the political battle being conducted under the present circumstances, and it has a great part to play: speaking in a clear voice to the whole world, as well as to our wretched brethren outside this land, it proclaims our war against the occupier.
+> 
+> We are particularly far from this sort of hesitation in regard to an enemy whose moral perversion is admitted by all.
+
+The article described the goals of terror:
+
+> - It demonstrates ... against the true terrorist who hides behind his piles of papers and the laws he has legislated.
+> - It is not directed against people, it is directed against representatives. Therefore it is effective.
+> - If it also shakes the _Yishuv_ from their complacency, good and well
+
 > [!NOTE] History of Antisemitism
 > ## Pre-Christian Roman Empire
 > - Tiberius forbade Judaism in Rome
