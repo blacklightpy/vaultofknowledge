@@ -52,6 +52,7 @@ html_custom_inclusions:
   - <meta name="google-site-verification" content="UirlDYot4I965EnU-iSvktvULg5K7pwkFCuTXxeUs78" />
   - <link rel="me" href="https://ohai.social/@ssunboyy" />
   - <link rel="me" href="https://firefish.social/@jyzkms" />
+  - <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
