@@ -27,6 +27,9 @@
 #### Megathreads in r/Judaism, on reddit.com
 - [Israel/Palestine Megathread on r/Judaism](https://old.reddit.com/r/Judaism/comments/17261bw/israelpalestine_megathread/)
 - [Israel/Palestine Megathread #2 on r/Judaism](https://old.reddit.com/r/Judaism/comments/172poze/israelpalestine_megathread_2/)
+#### Popular people on X
+- Jackson Hinkle, a "Make America Great Again" supportive Influencer, who is anti-Zionism
+- 
 ### Video Resources on Instagram
 #### Arabs
 - @eye.on.palestine
