@@ -8,6 +8,8 @@
 - Empires of the time -- British, French, Dutch, Spanish, American, Ottoman, were all concerned with expanding their empires.
 # Oppressive Regimes
 
+Osama's Two letters to America, Nov 2002: https://en.rattibha.com/thread/1725195829621760272
+
 # Indian History
 Shariah
 - Prithviraj Chouhan
