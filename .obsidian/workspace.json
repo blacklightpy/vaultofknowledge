@@ -338,7 +338,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The History of Oppression of Jews.md",
+                "file": "Israel Palestine Megathread.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -409,8 +409,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -426,7 +425,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The History of Oppression of Jews.md",
+                "file": "Israel Palestine Megathread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +442,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The History of Oppression of Jews.md",
+                "file": "Israel Palestine Megathread.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -463,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The History of Oppression of Jews.md"
+                "file": "Israel Palestine Megathread.md"
               }
             }
           },
@@ -512,10 +511,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d6ba07e46e706bc4",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Israel Palestine Megathread.md",
+    "History/Current Affairs/Russo-Ukraine Conflict",
     "The History of Oppression of Jews.md",
+    "Israel Palestine Megathread.md",
     "Defining Religion.md",
     "The History of Islamic Rule.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
@@ -539,7 +539,6 @@
     "Culture/Jewish Culture.md",
     "Spectral Efficiency.md",
     "The true principles of life which are suppressed in society.md",
-    "Quantum Mechanics.md",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",
