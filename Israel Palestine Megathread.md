@@ -31,6 +31,7 @@
 #### Arabs
 - @eye.on.palestine
 - @muslim.daily
+- [Instagram Reel video](https://www.instagram.com/reel/CzydAcWsfOW/): Israel bombs UN run schools in Gaza, killing 2000 innocent (Graphic)
 #### Zionists
 - @stateofisrael
 	- IDF Phone call recording confirming Hamas failed rockets
