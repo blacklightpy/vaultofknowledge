@@ -19,47 +19,21 @@ Shariah
 	- Shah Jahan (Built Taj Mahal)
 	- Aurangazeb (1658 to 1707)
 		- He was often described as a ruthless tyrant who was an expansionist, imposed tough Sharia laws and brought back the discriminatory jizya tax that Hindu residents had to pay in return for protection.
-	- Azam Shah	1707
-	- Bahadur Shah I (Shah Alam I)	1707–1712
-	- Jahandar Shah	1712–1713
-	- Farrukh-Siyar	1713–1719
-	- Rafi-ud-Darajat	1719
-	- Rafi-ud-Daulah (Shah Jahan II)	1719
-	- Muhammad Shah	1719–1748
-	- Ahmad Shah	1748–1754
-	- Alamgir II	1754–1759
-	- Shah Jahan III	1759–1760
-	- Shah Alam II (first reign)	1760–1788
-	- Mahmud Shah (Shah Jahan IV)	1788
-	- Shah Alam II (second reign)	1788–1806
-	- Akbar II	1806–1837
-	- Bahadur Shah II	1837–1857
-
-
-- Babur	1526–1530
-- Humayun (first reign)	1530–1540
-- Humayun (second reign)	1555–1556
-- Akbar I	1556–1605
-- Jahangir I	1605–1627
-- Shahriyar (de facto)	1627–1628
-- Shah Jahan I	1628–1658
-- Aurangzeb (Alamgir I)	1658–1707
-- Azam Shah	1707
-- Bahadur Shah I (Shah Alam I)	1707–1712
-- Jahandar Shah	1712–1713
-- Farrukh-Siyar	1713–1719
-- Rafi-ud-Darajat	1719
-- Rafi-ud-Daulah (Shah Jahan II)	1719
-- Muhammad Shah	1719–1748
-- Ahmad Shah	1748–1754
-- Alamgir II	1754–1759
-- Shah Jahan III	1759–1760
-- Shah Alam II (first reign)	1760–1788
-- Mahmud Shah (Shah Jahan IV)	1788
-- Shah Alam II (second reign)	1788–1806
-- Akbar II	1806–1837
-- Bahadur Shah II	1837–1857
-
+	- Azam Shah (1707)
+	- Bahadur Shah (Shah Alam) (1707–1712)
+	- Jahandar Shah (1712–1713)
+	- Farrukh-Siyar (1713–1719)
+	- Rafi-ud-Darajat (1719)
+	- Rafi-ud-Daulah (Shah Jahan II) (1719)
+	- Muhammad Shah (1719–1748)
+	- Ahmad Shah (1748–1754)
+	- Alamgir II (1754–1759)
+	- Shah Jahan III	(1759–1760)
+	- Shah Alam II (first reign) (1760–1788)
+	- Mahmud Shah (Shah Jahan IV) (1788)
+	- Shah Alam II (second reign) (1788–1806)
+	- Akbar II (1806–1837)
+	- Bahadur Shah II (1837–1857)
 # Modi speaking against Aurangazeb
 It started when [the dispute over the Gyanvapi mosque began bubbling](https://www.bbc.com/news/world-asia-india-61476741) in the holy city of Varanasi - the mosque is built on the ruins of the Vishwanath temple, a grand 16th Century Hindu shrine destroyed in 1669 on Aurangzeb's orders. Now, his name is trending on social media with thousands of disparaging references, can be found in court files and has been invoked by India's present-day Hindu nationalist rulers.
 
