@@ -31,6 +31,7 @@
 - @eye.on.palestine
 - @muslim.daily
 - [Instagram Reel video](https://www.instagram.com/reel/CzydAcWsfOW/): Israel bombs UN run schools in Gaza, killing 2000 innocent (Graphic)
+- [Instagram post with video](https://www.instagram.com/p/CzzpVhStfo5/?img_index=1): Children in non-Euclidian shapes, turning to dust like Thanos snapped (Graphic)
 #### Zionists
 - @stateofisrael
 	- IDF Phone call recording confirming Hamas failed rockets
