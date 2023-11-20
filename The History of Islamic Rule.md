@@ -18,6 +18,9 @@ Shariah
 		- According to Iqtidar Alam Khan, it was based on the Timurid concept of Yasa-i Changezi (Code of Genghis Khan), to consider all sects as one. The elements were drawn from different religions.
 		- Akbar was the first to appoint Hindus in courts in large numbers
 			- Out of his 9 Navrathnas (9 Jewels), Raja Birbal, Raja Man Singh, Raja Todramal were from the majority Hindu community.
+		- He banned child marriage, and increased the minimum age from 14 to 16
+		- He introduced registration of marriages at the police station
+		- He introduced forced Sati, to ensure that she would die only if the husband died
 	- Jahangir (loved art and architecture)
 	- Shah Jahan (Built Taj Mahal)
 	- Aurangazeb (1658 to 1707)
