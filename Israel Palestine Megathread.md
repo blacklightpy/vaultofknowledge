@@ -22,7 +22,11 @@
 
 ### Megathreads on Lemmy
 - https://sh.itjust.works/post/7253102
-- Post: https://lemmy.world/comment/4408495
+- A Comment of the full history: https://lemmy.world/comment/4408495
+
+### Threads in r/Judaism
+- [Israel/Palestine Megathread on r/Judaism](https://www.reddit.com/r/Judaism/comments/17261bw/israelpalestine_megathread/)
+- [Israel/Palestine Megathread #2 on r/Judaism](https://www.reddit.com/r/Judaism/comments/172poze/israelpalestine_megathread_2/)
 ### Video Resources on Instagram
 #### Arabs
 - @eye.on.palestine
