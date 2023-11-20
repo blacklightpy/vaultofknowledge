@@ -21,8 +21,7 @@
 - [[My Ideas on solving the Arab-Israel conflict]]
 
 ### Megathreads on Lemmy
-
-
+- https://sh.itjust.works/post/7253102
 ### Video Resources on Instagram
 #### Arabs
 - @eye.on.palestine
