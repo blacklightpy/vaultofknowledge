@@ -37,6 +37,12 @@ Rename and sort these:
 - https://www.reddit.com/r/IntellectualDarkWeb/comments/17z3qvt/israelpalestine_megathread_until_1126/
 - https://www.reddit.com/r/unitedkingdom/comments/17u4wjl/israelpalestine_conflict_megathread_continued/
 - https://www.reddit.com/r/Judaism/comments/17rd2w0/daily_sadly_war_in_israel_megathread/
+
+
+- https://www.fanverse.org/threads/the-israel-hamas-war.1303460/page-47
+- https://ground.news/timeline/israel-palestine-war
+- https://www.themotte.org/post/705/israelgaza-megathread-1
+- https://tildes.net/~news/1c6h/israel_hamas_war_megathread_november_16_and_ongoing
 ### Videos on Instagram
 #### Arabs
 - @eye.on.palestine
