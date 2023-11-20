@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -439,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Israel Palestine Megathread.md",
+                "file": "The History of Islamic Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Israel Palestine Megathread.md",
+                "file": "The History of Islamic Rule.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Israel Palestine Megathread.md"
+                "file": "The History of Islamic Rule.md"
               }
             }
           },
@@ -525,14 +525,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d6ba07e46e706bc4",
+  "active": "682c812be60682be",
   "lastOpenFiles": [
+    "Israel Palestine Megathread.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Arguments.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
-    "Israel Palestine Megathread.md",
     "Digital Security Buzzwords.md",
     "World Building/Science and Engineering/Information and Communication Technology/Information Security/Diffie-Hellman Key Exchange.md",
     "The History of Islamic Rule.md",
