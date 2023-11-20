@@ -505,7 +505,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -523,7 +524,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d6ba07e46e706bc4",
+  "active": "c44d69e882960f23",
   "lastOpenFiles": [
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Data.md",
     "Israel Palestine Megathread.md",
