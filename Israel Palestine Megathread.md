@@ -1,5 +1,8 @@
 ### The Global Timeline (including Jews and Muslims)
 - [[Timeline of History]]
+
+### Antisemitism
+- [[The History of Oppression of Jews]]
 ### Regarding the claim that Muslims are aggressive
 - [[The Origin of Islam]]
 - [[The History of Islamic Rule]]
@@ -18,6 +21,7 @@
 - [[My Ideas on solving the Arab-Israel conflict]]
 
 ### Megathreads on Lemmy
+
 
 ### Video Resources on Instagram
 #### Arabs
