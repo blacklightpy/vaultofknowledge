@@ -1,11 +1,8 @@
-- Communism
-	- Russia
-	- China
-	- Cuba
-	- North Korea
+- Communism (Marx, Russia, China, Korea, Cuba, Vietnam)
 
-- Hindu Empires
-- Muslim Empires of India
+- Hindu Empires (Mauryan, Gupta, etc.)
+- Muslim Empires of India (Delhi Sultanate, Mughal, Maratha, Mysore, etc.)
+- History of Kerala and Tamil Nadu
 - Russia-Ukraine War
 
 - African History
