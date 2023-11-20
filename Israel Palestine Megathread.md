@@ -46,5 +46,3 @@
 		- [X post](https://x.com/alextomo/status/1714670858914894046?s=20) by @alextomo, Channel 4 News: <blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">Several experts confirm Hamas’ view to <a href="https://twitter.com/Channel4News?ref_src=twsrc%5Etfw">@Channel4News</a> that the audio tape of “Hamas” operatives talking about the missile malfunction is a fake . They say the tone, syntax, accent and idiom are absurd.</p>&mdash; alex thomson (@alextomo) <a href="https://twitter.com/alextomo/status/1714670858914894046?ref_src=twsrc%5Etfw">October 18, 2023</a></blockquote>
 - IDF claims they found evidence that Hamas keeps curtains uselessly covering white walls to use them as spots to record hostages inside Al-Shifa
 	- [Instagram Reel video post](https://www.instagram.com/reel/Czvtj-Rss75/) by @muslim.daily pointing out the absurdity of this, because those curtains were used by their mothers to make the plain rooms look more 'chic'.
-
-<iframe src="https://nitter.net/mhevery/status/1606438382561026049/embed"></iframe>
