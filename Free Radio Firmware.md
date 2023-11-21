@@ -7,7 +7,8 @@
 - OpenBTS implements the lower three layers of the GSM Protocol Stack as free software.
 
 # Terms
-- Intentional Radiator: A device which is deliberately designed to transmit radio waves, unlike non-intentional or incidental radiators, which only radiate frequencies as a side effect.
+- Intentional Radiator: A device which is deliberately designed to transmit radio waves, unlike non-intentional or incidental radiators, which only radiate frequencies as a side effect. This includes all radio transmitters.
+	- All commercial intentional radiators are usually subject to be licensed.
 - RAT: Radio Access Technology
 	- Includes Wi-Fi, Bluetooth, GSM, GPRS, UMTS, LTE, 5G NR, etc.
 	- It describes the air interfaces used by these technologies, such as GERA (or GRA/ERA), UTRA, E-UTRA, NG-RA.
