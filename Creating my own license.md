@@ -1,0 +1,1 @@
+> The software and it's binaries are not protected by intellectual property, meaning you have all the rights to do whatever you want to do with it. Of course if you print it on a paper, fold it and throw it on your teacher's head, I'm not the one who asked you to do it.
