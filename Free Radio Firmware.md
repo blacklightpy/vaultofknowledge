@@ -12,8 +12,21 @@
 - Multiple Input Multiple Output (MIMO): The technique using multiple antennas at the transmitter and/or receiver to increase the radio link capacity using multipath propagation.
 	- The specific cases of MIMO are SISO, SIMO, MISO and MIMO
 	- The different types of MIMO are:
-		- Multi-antenna types:
-			- 
+		- Single User types:
+			- Bell Laboratories Layered Space-Time (BLAST)
+			- Per Antenna Rate Control (PARC)
+			- Selective Per Antenna Rate Control (SPARC)
+		- Multi User types:
+			- Multi User MIMO (MU-MIMO)
+			- Cooperative MIMO (CO-MIMO)
+			- Macrodiversity MIMO
+			- MIMO Routing
+			- Massive MIMO
+			- Holographic MIMO
+	- The different functions of a MIMO system are:
+		- Precoding
+		- Spatial Multiplexing
+		- Diversity Coding
 - Diversity Schemes: It refers to methods for improving the reliability of a message signal using two or more communication channels with different characteristics. This is commonly used in radio communications. The types of diversity schemes are:
 	- Time Diversity
 	- Frequency Diversity (e.g. OFDM, Spread Spectrum)
