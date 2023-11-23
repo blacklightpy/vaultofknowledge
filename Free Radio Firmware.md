@@ -9,10 +9,15 @@
 # Terms
 - Intentional Radiator: A device which is deliberately designed to transmit radio waves, unlike non-intentional or incidental radiators, which only radiate frequencies as a side effect. This includes all radio transmitters.
 	- All commercial intentional radiators are usually subject to be licensed.
+- Multiple Input Multiple Output (MIMO): The technique using multiple antennas at the transmitter and/or receiver to increase the radio link capacity using multipath propagation.
+	- The specific cases of MIMO are SISO, SIMO, MISO and MIMO
+	- The different types of MIMO are:
+		- Multi-antenna types:
+			- 
 - Diversity Schemes: It refers to methods for improving the reliability of a message signal using two or more communication channels with different characteristics. This is commonly used in radio communications. The types of diversity schemes are:
 	- Time Diversity
 	- Frequency Diversity (e.g. OFDM, Spread Spectrum)
-	- Space Diversity (e.g. MIMO (SISO, SIMO, MISO, MIMO), Space Time Coding (STC))
+	- Space Diversity (e.g. Space Time Coding)
 	- Polarization Diversity
 	- Multiuser Diversity
 	- Cooperative Diversity
