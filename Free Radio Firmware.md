@@ -9,6 +9,13 @@
 # Terms
 - Intentional Radiator: A device which is deliberately designed to transmit radio waves, unlike non-intentional or incidental radiators, which only radiate frequencies as a side effect. This includes all radio transmitters.
 	- All commercial intentional radiators are usually subject to be licensed.
+- Diversity Schemes: It refers to methods for improving the reliability of a message signal using two or more communication channels with different characteristics. This is commonly used in radio communications. The types of diversity schemes are:
+	- Time Diversity
+	- Frequency Diversity (e.g. OFDM, Spread Spectrum)
+	- Space Diversity (e.g. MIMO (SISO, SIMO, MISO, MIMO), Space Time Coding (STC))
+	- Polarization Diversity
+	- Multiuser Diversity
+	- Cooperative Diversity
 - RAT: Radio Access Technology
 	- Includes Wi-Fi, Bluetooth, GSM, GPRS, UMTS, LTE, 5G NR, etc.
 	- It describes the air interfaces used by these technologies, such as GERA (or GRA/ERA), UTRA, E-UTRA, NG-RA.
