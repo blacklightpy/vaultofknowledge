@@ -359,7 +359,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL.md",
+                "file": "Why people join religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL.md",
+                "file": "Why people join religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -463,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL.md"
+                "file": "Why people join religions.md"
               }
             }
           },
@@ -512,8 +512,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "73f24068e651d88f",
+  "active": "91afa1eabf707107",
   "lastOpenFiles": [
+    "Defining Religion.md",
+    "Gender Inclusivity in Languages.md",
+    "So we are all different, but how do we deal with it.md",
+    "TIL.md",
     "Israel Palestine Megathread.md",
     "International Mobile Telephony 2000.md",
     "Free Radio Firmware.md",
@@ -523,7 +527,6 @@
     "The History of Oppression of Jews.md",
     "History/Current Affairs/Russo-Ukraine Conflict/Russo-Ukraine Conflict.md",
     "History/Current Affairs/Russo-Ukraine Conflict",
-    "Defining Religion.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine People's Opinions.md",
     "History/Current Affairs/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
@@ -536,11 +539,8 @@
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "Why abandon proprietary technology.md",
     "My Ideas on solving the Arab-Israel conflict.md",
-    "Gender Inclusivity in Languages.md",
     "Philosophy of Religion.md",
     "Intention as a Force.md",
-    "The Constitution of Medina.md",
-    "Kalam Argument.md",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",

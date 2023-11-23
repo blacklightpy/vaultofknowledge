@@ -18,6 +18,9 @@ What's the difference between (TODO: Complete the sentence and post)
 - A woman walking naked with the intention of ..., because she believes ..., and she can justify it using ...,
 The intention!
 
+Counter argument: https://www.reddit.com/r/unpopularopinion/comments/en7oks/comment/fe02lqg/
+It is said that sexualizing is a "nuanced" topic. It says that sexualization isn't bad, but it
+
 ---
 How do you know which one is it?
 That's the thing, you do not know
