@@ -357,22 +357,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "055cc6e07bd4e1fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Radio Firmware.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -439,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Radio Firmware.md",
+                "file": "TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Radio Firmware.md",
+                "file": "TIL.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -476,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Radio Firmware.md"
+                "file": "TIL.md"
               }
             }
           },
@@ -525,8 +512,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "055cc6e07bd4e1fc",
+  "active": "73f24068e651d88f",
   "lastOpenFiles": [
+    "Free Radio Firmware.md",
     "Why people join religions.md",
     "Defining Religion.md",
     "Gender Inclusivity in Languages.md",
@@ -534,7 +522,6 @@
     "TIL.md",
     "Israel Palestine Megathread.md",
     "International Mobile Telephony 2000.md",
-    "Free Radio Firmware.md",
     "Creating my own license.md",
     "The History of Islamic Rule.md",
     "History and GK I have to learn.md",
