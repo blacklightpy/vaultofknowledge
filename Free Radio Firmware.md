@@ -26,7 +26,7 @@
 	- The different functions of a MIMO system are:
 		- Precoding
 		- Spatial Multiplexing
-		- Diversity Coding
+		- Diversity Coding (For MIMO, it refers to spatial diversity coding techniques, which are called Space Time Coding (STC))
 - Diversity Schemes: It refers to methods for improving the reliability of a message signal using two or more communication channels with different characteristics. This is commonly used in radio communications. The types of diversity schemes are:
 	- Time Diversity
 	- Frequency Diversity (e.g. OFDM, Spread Spectrum)
