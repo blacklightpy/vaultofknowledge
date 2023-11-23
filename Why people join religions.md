@@ -19,7 +19,11 @@ What's the difference between (TODO: Complete the sentence and post)
 The intention!
 
 Counter argument: https://www.reddit.com/r/unpopularopinion/comments/en7oks/comment/fe02lqg/
-It is said that sexualizing is a "nuanced" topic. It says that sexualization isn't bad, but it
+It is said that sexualizing is a "nuanced" topic. It says that sexualization isn't bad, but it's when it's without consent it is problematic.
+
+However, what is one supposed to infer from this? Is one supposed to ask the woman whether they can sexualize her? That seems problematic and really terrible to me.
+
+The people who say "sexualization with consent" is okay have a problem with religions that prohibit sexualization, and sexualization
 
 ---
 How do you know which one is it?
