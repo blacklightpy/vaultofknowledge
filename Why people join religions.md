@@ -23,7 +23,11 @@ It is said that sexualizing is a "nuanced" topic. It says that sexualization isn
 
 However, what is one supposed to infer from this? Is one supposed to ask the woman whether they can sexualize her? That seems problematic and really terrible to me.
 
-The people who say "sexualization with consent" is okay have a problem with religions that prohibit sexualization, and sexualization
+The people who say "sexualization with consent" is okay have a problem with religions that prohibit sexualization, but also with sexualization itself outside the context of consent. The problem I see with this is that, as we can see, it is more complicated. It literally also means that consent varies from person to person. One
+
+Freely Given
+Retractable
+I
 
 ---
 How do you know which one is it?
