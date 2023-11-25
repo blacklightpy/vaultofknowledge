@@ -1,6 +1,8 @@
 - Satellite
-	- Direct to Home (DTH)
+	- Direct to Home (DTH) - Satellite radio waves
 - Terrestrial
 	- Cable Television
-	- Internet Protocol Television (IPTV)
-	- Digital Terrestrial Television (DTT)
+	- Internet Protocol Television (IPTV) - A private network
+	- Digital Terrestrial Television (DTT) - Terrestrial radio waves
+- Hybrid
+	- Over The Top (OTT) - The public internet
