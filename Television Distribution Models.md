@@ -1,0 +1,6 @@
+- Satellite
+	- Direct to Home (DTH)
+- Terrestrial
+	- Cable Television
+	- Internet Protocol Television (IPTV)
+	- Digital Terrestrial Television (DTT)
