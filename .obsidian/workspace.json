@@ -351,7 +351,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -463,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "home.md"
               }
             }
           },
@@ -514,8 +514,8 @@
   },
   "active": "a8b83ddae7546490",
   "lastOpenFiles": [
-    "cc-zero-image.md",
     "README.md",
+    "cc-zero-image.md",
     "Israel Palestine Megathread.md",
     "TIL.md",
     "History/Current Affairs/Khalistan Movement.md",

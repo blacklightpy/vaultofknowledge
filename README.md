@@ -19,7 +19,9 @@ You can visit it at https://blacklightpy.github.io/vaultofknowledge
 
 ## License
 
-This work is waived to the public domain using the [Creative Commons Zero 1.0 Universal Public Domain Dedication][cc-zero]. Please note that, I have used some images in some instances without verifying if they have a license, and those assets are not provided under the same license. Also, while I generally write all my notes by hand, I've copy pasted some of the content from Wikipedia, mostly timelines o
+(Please note that, I have used some images in some instances without verifying if they have a license, and those assets are not provided under the same license. Also, while I generally write all my notes by hand, I've copy pasted some of the content from Wikipedia, mostly outlines of concept rather than paragraphs. In any case, the content used here is under fair use, and the license used here applies to everything else in this repository.)
+
+This work is waived to the public domain using the [Creative Commons Zero 1.0 Universal Public Domain Dedication][cc-zero].
 
 To the extent possible under law, [Jyothish Kumar M S](https://ohai.social/@ssunboyy) has waived all copyright and related or neighboring rights to The Vault of Knowledge. This work is published from: India
 
