@@ -1,0 +1,2 @@
+- People are often more motivated to join the army after the release of anti-war movies
+- The WWI Armstice was passed on the 11th hour of the 11th day of the 11th month, 6 hours after it was signed, just for the sake of poetic justice, in All Quiet on The Western Front. In that timeframe, 3000+ soldiers were killed. This is an example of narcissistic poetic justice.
