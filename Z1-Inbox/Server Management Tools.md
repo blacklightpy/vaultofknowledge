@@ -1,5 +1,5 @@
 **Configuration Management**
-- Ansible
+- [[Ansible]]
 **Container Management**
 - Docker
 **Easy Server Oriented Distros**
