@@ -8,3 +8,9 @@
 - Congruent: The system is forced to be in the same state as the configuration management (Nix)
 
 Source: https://flyingcircus.io/blog/thoughts-on-systems-management-methods/
+
+# Related
+- Vagrant: VM Manager, usually on top of Virtualbox, but can be used with other VMs
+- chezomoi: Dotfiles manager
+- GNU Stow: Symlink farm manager, also used as a dotfile manager
+- git bare repos: Used to store dotfiles, but the setup is a bit clunky, although easy. Doesn't handle multiple profiles.
