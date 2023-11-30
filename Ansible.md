@@ -11,7 +11,10 @@ Ansible has YAML playbooks, and a .cfg config file.
 - Inventory: Configurations for a system
 - Managed Node: A system which is controlled by Ansible
 
-- Inventories (INI/YAML)
-- Playbooks (YAML)
+- Inventories (INI/YAML) - specifies the hosts
+- Playbooks (YAML) - specifies the jobs (plays) and tasks.
+- Modules
+- Plugins
+- Collections (Contains playbooks, modules, plugins and roles. Can be installed from Ansible Galaxy)
 
 Also Nix only works on Linux/macOS, not on Windows.
