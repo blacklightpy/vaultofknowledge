@@ -1,4 +1,4 @@
-- Mohammed was a member of the Meccan pagan tribe Banu Quraysh.
+- Mohammed was a member of the Meccan pagan tribe Banu Hashim, a part of the bigger Banu Quraysh.
 - One day he has a revelation.
 - 610 AD: He goes to the Cube (Kaaba) of Mecca and presents his revelations
 - 622 AD: The polytheist tribe, Banu Quraysh had the Muslims move from Mecca to Medina
