@@ -13,3 +13,5 @@ Ansible has YAML playbooks, and a .cfg config file.
 
 - Inventories (INI/YAML)
 - Playbooks (YAML)
+
+Also Nix only works on Linux/macOS, not on Windows.
