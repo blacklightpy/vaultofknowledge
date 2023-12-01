@@ -4,7 +4,9 @@ This means, for example, when considering a desktop graphical environment, they 
 
 While a desktop environment by itself is a highly cohesive entity, the subcomponents may be highly coupled, making the whole desktop environment a big bundle which cannot be broken down. This is bad from a developer perspective, but is perfectly normal for a user.
 
-Now, when it comes to window managers in the nerd space, they prefer a barebones window manager, which is often separate even from the compositing manager, and to add in all the functionality they desire themselves. This, while allows flexibility, can be daunting to a new user. One has to choose:
+Now, when it comes to window managers in the nerd space, they prefer a barebones window manager, which is often separate even from the compositing manager, and to add in all the functionality they desire themselves. This, while allows flexibility, can be daunting to a new user. 
+
+One has to choose:
 
 - The type of window manager (Manual Stacking, Manual Tiling, Dynamic Tiling)
 - The choice of displaying protocol (X or Wayland)
