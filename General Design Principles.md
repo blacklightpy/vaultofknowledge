@@ -19,10 +19,9 @@ Now, when it comes to window managers in the nerd space, they prefer a barebones
 > - The choice of application launcher
 > - The choice of visual compositing manager (If it isn't already part of the window manager)
 > - The choice of login greeter
-> - The choice of global colour schemes
-> - The choice of global sound schemes
+> - The choice of themes (colour schemes, sound schemes, fonts)
 > - The choice of default set of applications (What is expected to be there aside from what is installed casually)
-> - The choice of colour schemes for default applications (To make them fit with the rest of the system)
+> - The choice of themes for default applications (To make them fit with the rest of the system)
 > 
 > Furthermore, users choosing distributions like Arch may also have to choose stuff like:
 > - The choice of audio manager
