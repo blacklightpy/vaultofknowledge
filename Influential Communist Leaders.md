@@ -5,5 +5,5 @@
 - Ho Chi Minh (Vietnam, 1923)
 - Kim II-Sung (Korea, 1948)
 - Mao Zedong (1949)
-- Pol Pot (Cambodia, 1975)
 - Ernesto Che Guevara and Fidel Castro (Cuba, 1959)
+- Pol Pot (Cambodia, 1975)
