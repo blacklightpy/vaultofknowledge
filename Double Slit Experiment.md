@@ -1,5 +1,5 @@
-https://javalab.org/en/double_slit_en/
-https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html
+- https://javalab.org/en/double_slit_en/
+- https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html
 
 - Wider the slits, lesser the intensity is spread, without affecting the fringe width (because most of the wavefronts from each slit move straight forward; see single slit version). There is a higher tendency to form fringes.
   - The narrower the slits, the less the overall intensity too, because less light enters. To adjust for this, amplitude should be increased.
