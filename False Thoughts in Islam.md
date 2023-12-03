@@ -10,3 +10,8 @@ The Quran makes no mention of music being forbidden; rather, it says:
 During the time of prophet, it was common to buy singing girls. Some people who bought them would made them sing so loudly, So that Muslims cannot pray. They would purchase them with evil intention of distracting others from the path of Allah.
 
 So, this does not include that music itself is haram. But clearly states that using music to mislead from the path of Allah is haram.
+
+--- 
+Often quoted is the Ayah (31:6): But there are some who employ theatrics,1 only to lead others away from Allah’s Way—without any knowledge—and to make a mockery of it. They will suffer a humiliating punishment.
+
+But theatrics here refer to not music or dances itself, but their use to distract a person from Allah's Way. Even as a secular person, I can see the point in this, because theatrics are often deployed as a tool for deception.
