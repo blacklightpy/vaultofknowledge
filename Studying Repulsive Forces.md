@@ -1,0 +1,7 @@
+- Density
+- Viscosity
+- Elastic Properties
+- Intermolecular Forces of Bonding and Repulsion
+- States of Matter and Nature of Intermolecular Forces
+- Compton Frequency
+- Diffraction of Matter Waves in Materials
