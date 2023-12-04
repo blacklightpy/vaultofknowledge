@@ -5,7 +5,7 @@ EIRP(dB) = ERP(dB) + 2.15 dB
 ## Law
 The limits are generally known as link budget.
 
-India allows 4W ERP (36 dBm) in 2.4GHz and in 868 GHz.
+India allows 4W ERP (36 dBm) in 2.4GHz and in 865-868 MHz.
 The tranmission power is 1W (30 dBm).
 
 FCC allows 36 dBm EIRP for Point to Point (PtP) and 30 dB EIRP for Point to Multipoint (PtMP) connections.
