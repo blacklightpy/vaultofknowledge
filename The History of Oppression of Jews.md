@@ -81,8 +81,9 @@ Jews are still very scared of the rise of Antisemitism.
 > ## Protection and Persecution under Islam
 > - From the 9th century onwards, the medieval Islamic world imposed "dhimmi" or "protected" status on Christian and Jewish minorities. Nevertheless, Jews were granted more freedom to practise their religion in the Muslim world than they were in Christian Europe.
 > - Jewish communities in Spain thrived under tolerant Muslim rule during the Spanish Golden Age and Cordova became a centre of Jewish culture.
-> - All these incidents were under the Almoravid Dynasty / Almohad Caliphate in North Africa
-> 	- But when Almoravids entered North Africa, they started pogroms against the Jews of Cordova in 1011 and Granada massacre in 1066. Later by 1147 they formed the Almohad Caliphate formed and started treating the dhimmis harshly.
+> - This period was called golden age of Jewish culture in Spain, and it started from the Muslim conquest of Iberia in 711 by the Ummayad Caliphate, and further in 912, during the rule of Abd al-Rahman II and the establishment of the Caliphate of Cordova.
+> - All the following incidents were under the Almoravid Dynasty / Almohad Caliphate in North Africa
+> 	- When Almoravids entered North Africa, they started pogroms against the Jews of Cordova in 1011 and Granada massacre in 1066. Later by 1147 they formed the Almohad Caliphate formed and started treating the dhimmis harshly.
 > 	- Faced with death or conversion, many fled. Some went to more tolerant Muslim nations, while others went northward to growing Christian kingdoms.
 > 	- Destruction of Synagogues were ordered in Egypt, Syria, Iraq and Yemen in the Middle Ages.
 > 	- 6,000 Jews were killed by a Muslim mob during the 1033 Fez (Morocco) massacre.
@@ -93,6 +94,21 @@ Jews are still very scared of the rise of Antisemitism.
 > 		- Again, massacre of Moroccan Jews
 > 		- End of Marinid Dynasty, and establishment of Wattasid Dynasty
 > - Arguments from the Jewish Virtual Library: https://www.jewishvirtuallibrary.org/the-treatment-of-jews-in-arab-islamic-countries
+> - More notes about pogroms on Jews by Berber Muslims: https://www.quora.com/Why-did-so-many-Muslims-commit-pogroms-on-Jews-throughout-history/answer/Oleg-Zachary-Kis
+> 	- Virtually all of the pogroms and massacres that took place prior to the early 1900s when the Zionist agenda became activated were done in the context of Muslim vs. Muslim and Muslim vs. French colonialist conflicts in which the Jews, rightly or wrongly, were perceived as having chosen to favor the wrong side in those conflicts.
+>  	- The sacks of Cordoba took place in the context of Berber vs. Umayyad conflict in which the Berbers massacred many non-Jews too.
+>   		- The First Fitna happened starting during the third caliph of the Rashidun Caliphate, where the caliph Uthman was accused of nepotism and killed by rebels. After him, Ali was elected as the caliph by the rebels.
+>     		- Ali was non-violent, but since the rebels elected him, he was seen as an accomplice in the murder of Uthman by some. Ali also lost support when he arbitrated with Mu'awiya instead of defeating him, when he chose to plead in the name of Quran, which others said was a deceptive move. By Islam, the judgement had to be left to God, but Ali took matters into his own hands.
+>   		- Ayisha (wife of Mohammed at 6), Talha and Zubayr revolted against Ali to depose him. In the Battle of Camel, they were defeated, and Ayisha was not killed, and pardoned, but blamed for the loss of life. She herself felt bad about it afterwards.
+> 		- These rebels were Kharijites (the leavers, of caliph Ali), who later formed into a non-activist Ibadiyya. Sunnis believe the caliphs should be from Qurayshite descent, Shi'ias believe the Imams should be descendants of Ali, and Ibadis believe anyone can be a leader, and they need not rule the entire Islamic world.
+>   		- Mu'awiya ibn Abu Sufiyan, the governor of Syria fought Ali. The first Kharijites were original supporters of Ali who rebelled against his acceptance of arbitration talks to settle the conflict with Mu'awiya at the Battle of Siffin. They asserted that "judgement belongs to God alone". They were defeated in the Battle of Nahrawan in 658. Ali was assassinated later in 661 by a Kharijite member.
+>     		- The Ummayyad Caliphate was formed in 661 by Mu'awiya, and he kept the Kharijites in check. The Kharijite revolts continued into the the Abbasid period, but the militant groups were later eliminated, and were replaced by the non-activist Ibadiyya. Ibadis live in Oman and some parts of North Africa, and they condemn Kharijites as extremists.
+>         	- Later, the Kharijite Revolt, or the Berber Revolt took place during the 10th Ummayad caliph.
+>         	- The Berbers were taxed heavily by the Umayyad military caste, contrary to Islamic law. So many Berbers grew receptive to puritan Kharijite activists.
+> - More, related (General history of Jewish oppression): https://www.quora.com/Why-have-the-Jews-been-persecuted-throughout-history/answer/David-Bledsoe?no_redirect=1
+> - King Mohammed V of Morocco didn't hand over the Jews to the Germans, calling them their citizens
+> - When Portugese massacred Jews in Kerala, as a continuation of their genocide of Jews in Iberia, the Muslims of Kerala (Mappila) protected them by making them dress like them so the Portugese won't identify them - https://www.quora.com/Did-Muslims-protect-the-Jewish-people/answer/Arun-Mohan-%E0%B4%85%E0%B4%B0%E0%B5%81%E0%B5%BA-%E0%B4%AE%E0%B5%8B%E0%B4%B9%E0%B5%BB
+> - Tipu Sultan destroyed some Synagogues in Kerala.
 > ## The Middle Ages
 > ### The Crusades
 > - They started with the goal of recapturing Jerusalem
