@@ -3,10 +3,12 @@ Effective Radiated Power (ERP) is the percieved power of anetnna along the direc
 EIRP(dB) = ERP(dB) + 2.15 dB
 
 ## Law
+The limits are generally known as link budget.
+
 India allows 4W ERP (36 dBm) in 2.4GHz and in 868 GHz.
 The tranmission power is 1W (30 dBm).
 
-FCC allows 36 dBm for Point to Point (PTP) and 30 dB for Point to Multipoint (PTMP).
+FCC allows 36 dBm EIRP for Point to Point (PtP) and 30 dB EIRP for Point to Multipoint (PtMP) connections.
 
 In general, for every 1 dB lowered at the transmitter, the antenna gain can be increased by 3 dB.
 ## Measurement of ERP
@@ -39,3 +41,12 @@ e.g: https://www.cpcstech.com/dbm-to-watt-conversion-information.htm
 |                     13 |                     20 mW  |   |                     29  |                     800 mW |   |                     45  |                     32 W  |
 |                     14 |                     25 mW  |   |                     30  |                     1.0 W  |   |                     46  |                     40 W  |
 |                     15 |                     32 mW  |   |                     31  |                     1.3 W  |   |                     47  |                     50 W  |
+
+# Additional Link factors
+- Radiation angle (direction in degrees)
+- Polarity (horizontal, vertical, circular)
+- Beam width (In degrees)
+- Fresnel Zone (Propagation path, an ellipsoidal region around the LoS; Important to check to decide if the channel will have a proper link)
+- Link Budget = Power_TX + Gain_TX + Gain_RX + RX_Sensitivity – Path Loss
+- Calculators
+  - Fresnel Zone: https://www.everythingrf.com/rf-calculators/fresnel-zone-calculator
