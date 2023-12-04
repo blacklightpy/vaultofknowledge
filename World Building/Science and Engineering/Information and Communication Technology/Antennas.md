@@ -6,4 +6,6 @@ The gain of an antenna tells you it's degree of diagonality. Gain is measured in
 
 Some manufacturers also measure gain in decibels relative to dipole (dBd), which is relative to the dipole antenna.
 
+0 dBd = 2.15 dBi
+
 ![[Antenna Gain.png]]
