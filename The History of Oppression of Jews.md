@@ -158,7 +158,7 @@ Jews are still very scared of the rise of Antisemitism.
 > 	### Eastern Europe after World War II
 > 	### United States after World War II
 > 	### The Muslim world
-> 
+> ---
 > - Tsar Alexander III of Russia hated the Jews, because he believed they had a role in his father's murder
 > - Jews were allowed reside to the west of Pale of Settlement, but not beyond that. The land was not good for agriculture, and Jews were in poverty.
 > - Tsar Alexander III started many pogroms against the Jews
