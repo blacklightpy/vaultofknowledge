@@ -2,15 +2,19 @@ Effective Radiated Power (ERP) is the percieved power of anetnna along the direc
 
 EIRP(dB) = ERP(dB) + 2.15 dB
 
-India allows 4W ERP in 2.4GHz and in 868 GHz.
+## Law
+India allows 4W ERP (36 dBm) in 2.4GHz and in 868 GHz.
+The tranmission power is 1W (30 dBm).
 
+FCC allows 36 dBm for Point to Point (PTP) and 30 dB for Point to Multipoint (PTMP).
+
+In general, for every 1 dB lowered at the transmitter, the antenna gain can be increased by 3 dB.
 ## Measurement of ERP
 ERP(dbW) = $P_{TX}$ (dBW) - $P_{loss}$ (dB) + G(dBi) - 2.15 dB
 
 EIRP(dbW) = $P_{TX}$ (dBW) - $P_{loss}$ (dB) + G(dBi)
 
 Note: Antenna losses are included in the gain
-
 
 ## How to convert dBm to Watts
 Use a dBm to Watts conversion table.
