@@ -2,6 +2,8 @@
   - Monotheistic
   - Polytheistic
   - Pantheistic
+  - Panentheistic
+  - Henotheistic
 - Animistic
 
 ---
