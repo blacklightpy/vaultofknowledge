@@ -11,3 +11,11 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Lalita Sahasranamam
 - Saundarya Lahari
 - Devi Mahatmyam
+
+---
+## Caste Divisions / Chatur Varnas
+- Brahmins
+- Kshathriyas
+- Vaishyas
+- Shudras
+- Untouchables (Casteless)
