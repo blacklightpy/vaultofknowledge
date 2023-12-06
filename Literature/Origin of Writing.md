@@ -201,6 +201,11 @@ There are many, but I'll name just a few I'm familiar with:
 - Dravidian
 	- Malayalam
 	- Tamil
+ 	- Kannada
+  	- Telugu
+  	- Tulu
+  	- Kodava
+  	- Brauhi
 
 
 # Images
