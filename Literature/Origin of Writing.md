@@ -29,6 +29,29 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 	- Bound Morphemes (prefixe, infix or suffix morphemes)
 - Discourse (Tulus)
 
+- Ideograms (A graphical symbol that represents an idea or a concept, either by prior familiarity or by resemblance to a physical object)
+- Pictograms (A graphical symbol that represents an object by having resemblance to it)
+- Logograms
+	- Logographic systems often included phonograms, usually used according to the rebus principle, in which a pure ideogram was suffixed with a phonogram in an attempt to clarify meaning.
+- 
+
+Consonants
+Vowels
+Syllables
+
+Logoconsonantal scripts
+Logosyllabic scripts
+Logosyllabry
+
+
+## Etymology of these words
+- Lexeme
+	- It comes from Latin lexis, which comes from Ancient Greek word λέξις (léxis), meaning "word" + -eme, which means a unit in a linguistic structure, extracted from the Ancient Greek word φώνημα (phṓnēma), meaning "sound".
+ 	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
+
+	- *swe means self, which is related to *dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
+ 		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning 
+
 # Evolution of Writing
 ## Neolithic Age
 - Jihau symbols
