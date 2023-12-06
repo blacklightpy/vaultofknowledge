@@ -14,6 +14,21 @@ In any case, the sounds or letters were not the sources of meaning, they were on
 	- Syllabic: Grapheme represents a syllable
 	- Alphabetic: Grapheme represents an elementary sound
 
+# Elements of Language
+Languages generally consist of a lexicon and grammar. Lexicons are the set of lexemes, and grammar is the rules of combinations of lexemes.
+
+- Lexicon (A reference of all lexemes with their meaning, like a dictionary)
+- Lexemes (word forms, or basic units of a language's vocabulary. It is the abstract representation of a set of words that have the same meaning, such as run, ran and running. The lexeme can be best represented as by the free morpheme, "run")
+- Glyphs
+- Graphemes (The smallest visible unit of a language)
+	- Another definition, in English is that a grapheme is a letter that represents a single phoneme
+- Phonograms (A grapheme or set of graphemes that is associated with a phoneme)
+- Phonemes (The smallest sonic unit of a language, which defines the phonetics of that language)
+- Morphemes (the smallest unit of a word that provides meaning to a combination of letters)
+	- Free morphemes (simplest form of a lexeme)
+	- Bound Morphemes (prefixe, infix or suffix morphemes)
+- Discourse (Tulus)
+
 # Evolution of Writing
 ## Neolithic Age
 - Jihau symbols
