@@ -249,3 +249,5 @@ There are many, but I'll name just a few I'm familiar with:
 # Images
 - Indo-European Language Families
 	- ![[Indo-European_language_tree_(with_major_international_languages_highlighted).svg]]
+- Proto-Indo-European expansions
+	- ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/74bcbbdc-51a3-4198-8170-989f993a802f)
