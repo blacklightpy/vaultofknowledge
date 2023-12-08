@@ -18,6 +18,8 @@ Since the velocity of the vehicle with respect to light remains the same in this
 ## Doubts
 - Why is the line shifting frames of references hyperbolic, rather than the lines resizing to match the flat line?
 - What is the non-mathematical intuition for spacetime compression as opposed to expansion, or remaining the same?
+- Is Doppler effect due to spacetime contraction? When the relative velocity of the radiator increases, the frequency of radiation increases, rather than the velocity of light, and the wavelength decreases.
+  - Similar, does all matter occupying space an time follow the principles of Fourier transformation? m = hf, all mass has frequency and also time, which are inverse to one another. 
 
 ## Idea
 If everything is made of light, then, just like resistors, everything is simply taking a longer route, and that's the cause of relativity.
