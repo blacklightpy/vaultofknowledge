@@ -1,6 +1,6 @@
 Mail servers have two parts:
 
-- **MSA - Mail Submission Agent** or **MDA - Mail Delivery Agent**
+- **MSA - Mail Submission Agent** (also known as **MDA - Mail Delivery Agent**)
 - **MTA - Mail Transmission Agent**
 
 MTA and MSA may not be on the same server always
