@@ -1,9 +1,11 @@
 Mail servers have two parts:
 
-**MSA - Mail Submission Agent**
-**MTA - Mail Transmission Agent**
+- **MSA - Mail Submission Agent** or **MDA - Mail Delivery Agent**
+- **MTA - Mail Transmission Agent**
 
 MTA and MSA may not be on the same server always
+
+A third part for the client side is the **MUA - Mail User Agent**, or the mail reader.
 
 ## Google mail server addresses
 
