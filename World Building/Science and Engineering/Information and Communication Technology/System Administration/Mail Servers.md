@@ -13,7 +13,7 @@ A third part for the client side is the **MUA - Mail User Agent**, or the mail r
 * smpt.google.com - CNAME to gmail-smtp-msa.l.google.com; normal Gmail/GWorkspace mail; Port 465 (SSL)/Port 587 (TLS)
 * aspmx.l.google.com - SMTP Restricted only to gmail/your GWorkspace organization; Port 25 (No TLS required); add SPF of domain to GAdmin Console
 * gmail-smtp-in.google.com - MSA
-* imap.google.com - CNAME too gmail-imap.l.google.com
+* imap.google.com - CNAME to gmail-imap.l.google.com
 * pop.google.com (may be a CNAME too)
 
 # Mail Server software
