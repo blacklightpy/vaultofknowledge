@@ -20,8 +20,9 @@ A third part for the client side is the **MUA - Mail User Agent**, or the mail r
 - Postfix - MTA (SMTP server)
 - Dovecot - MDA (IMAP/POP3 server)
 - Mail-in-a-box/iRedMail - AIO
-- /usr/bin/mail - Mail shells (Provided by bsd-mail, heirloom-mail, GNU mailutils)
-- /usr/sbin/sendmail (MTA - sendmail/exim/postfix)
+- /usr/bin/mail - Mail shells (Provided by bsd-mailx, heirloom-mailx, S-mailx, GNU mailutils)
+- /usr/sbin/sendmail (MTA - sendmail/exim/postfix/msmtp)
+- msmtp - Minimal MTA
 
 MySQL/MariaDB - Virtual Mailboxes
 
