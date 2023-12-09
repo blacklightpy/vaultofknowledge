@@ -15,9 +15,11 @@ MTA and MSA may not be on the same server always
 * pop.google.com (may be a CNAME too)
 
 # Mail Server software
-Postfix - SMTP server
-Dovecot - IMAP/POP3 server
-Mail-in-a-box/iRedMail - AIO
+- Postfix - MTA (SMTP server)
+- Dovecot - MDA (IMAP/POP3 server)
+- Mail-in-a-box/iRedMail - AIO
+- /usr/bin/mail - Mail shells (Provided by bsd-mail, heirloom-mail, GNU mailutils)
+- /usr/sbin/sendmail (MTA - sendmail/exim/postfix)
 
 MySQL/MariaDB - Virtual Mailboxes
 
