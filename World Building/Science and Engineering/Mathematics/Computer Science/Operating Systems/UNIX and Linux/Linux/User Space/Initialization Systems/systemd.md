@@ -4,15 +4,24 @@ systemd is criticized for making applications depend too much on it so that soft
 
 systemd also depends on "GNU glibc" as the system C library (`libc`), so it does not run on systems that use other libc implementations like "musl".
 
-# Targets
-Unlike the previously popular SysVInit which uses numbered "runlevels" to describe system states, systemd uses named "targets" to describe system states. Rather than using the `/etc/inittab` file to describe runlevels, systemd uses separate appropriately named files ending in `.target` to specify targets. For compatibility with SysVInit style runlevels, there are targets that are named `runlevelX.target`.
+The core utilities provided by systemd are:
+- `systemd`, the service manager,
+- `systemctl`, the shell to control or query systemd, and
+- `systemd-analyze` to identify systemd performance statistics.
 
-# Units
+Some of the common daemons included by systemd are: `journald`, `udevd`, `localed`, `logind`, `homed`, `networkd`, `firewalld`, `resolved`, `systemd-boot`, `systemd-bsod`, `timedated`, `timesyncd`, `systemd-tmpfiles`, etc.
+
+systemd also includes related libraries and command line utilities such as `libudevd` and `journalctl`.
+
+## Units
 In systemd, daemons are described using plain text "unit" files. The syntax of unit files is declarative, and is inspired by .INI files used in Microsoft Windows.
 
 The different types of unit files are: `.service`, `.socket`, `.device`, `.mount`, `.automount`, `.swap`, `.target`, `.path`, `.timer`, `.snapshot`, `.slice`, `.scope`, etc.
 
-# Use of Control Groups
+## Targets
+Unlike the previously popular SysVInit which uses numbered "runlevels" to describe system states, systemd uses named "targets" to describe system states. Rather than using the `/etc/inittab` file to describe runlevels, systemd uses separate appropriately named files ending in `.target` to specify targets. For compatibility with SysVInit style runlevels, there are targets that are named `runlevelX.target`.
+
+## Use of Control Groups
 Systemd makes use of [[control groups]] using the following types of units:
 - Services / .service units (Encapsulates processes started and stopped by systemd)
 - Scopes / .scope units (Encapsulates processes started by arbitrary processes via fork())
@@ -25,6 +34,6 @@ Systemd always maintains control over the root `cgroup`, as it is essential that
 - Systemd accessing `cgroups` exclusively
   - ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Linux_kernel_unified_hierarchy_cgroups_and_systemd.svg)
 
-# More examples
+## Examples of systemd architecture
 - Architecture of systemd as used in Tizen
   - ![](https://upload.wikimedia.org/wikipedia/commons/3/35/Systemd_components.svg)
