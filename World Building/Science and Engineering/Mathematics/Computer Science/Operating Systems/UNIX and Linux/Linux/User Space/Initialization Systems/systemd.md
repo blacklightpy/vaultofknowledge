@@ -22,16 +22,16 @@ The different types of unit files are: `.service`, `.socket`, `.device`, `.mount
 Unlike the previously popular SysVInit which uses numbered "runlevels" to describe system states, systemd uses named "targets" to describe system states. Rather than using the `/etc/inittab` file to describe runlevels, systemd uses separate appropriately named files ending in `.target` to specify targets. For compatibility with SysVInit style runlevels, there are targets that are named `runlevelX.target`.
 
 ## Use of Control Groups
-Systemd makes use of [[control groups]] using the following types of units:
+systemd makes use of [[control groups]] using the following types of units:
 - Services / .service units (Encapsulates processes started and stopped by systemd)
 - Scopes / .scope units (Encapsulates processes started by arbitrary processes via fork())
 - Slices / .slice units (Encapsulates service and scope trees)
 
 Services, slices and scopes maybe dynamically created or be created by administrators. However some built-in services are necessary for systemd to work. Also four slices are defined by default.
 
-Systemd always maintains control over the root `cgroup`, as it is essential that `cgroup` should be controlled by one process only.
+systemd always maintains control over the root `cgroup`, as it is essential that `cgroup` should be controlled by one process only.
 
-- Systemd accessing `cgroups` exclusively
+- systemd accessing `cgroups` exclusively
   - ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Linux_kernel_unified_hierarchy_cgroups_and_systemd.svg)
 
 ## Examples of systemd architecture
