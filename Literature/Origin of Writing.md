@@ -1,7 +1,8 @@
 If I recall the way my mom taught me to write when I was two or three, I first learned to write using rice in a bowl. She would make me write the first letter, and map it to the corresponding sound, the next letter, and so on. As for speaking, this was taught in the same manner as I learned emotes. So it was like "sha", then combinations "shan", and so on. In that way, I started to learn to read, by translating those words into sounds and sounds into meaning. Later on it would become second nature for me to translate the words into meaning without referring back to sounds. 
 
-In any case, the sounds or letters were not the sources of meaning, they were only the methods of communication, for a meaning that existed beyond it. Because even before I knew any words, I knew the meaning of events, because I could feel them.
+In any case, the sounds or letters were not the sources of meaning, they were only the methods of communication, for a meaning that existed beyond it. Because even before I knew any words, I knew the meaning of events, because I could feel them. I only learned to map my interpretations to those sounds.
 
+The problem is that unlike percieving the world, which comes naturally, mapping those perceptions to words was more like a skill, because not any combination of words would sound just right, and some combinations of words are more difficult to interpret than others.
 
 # Forms of writing
 - Pictorial writing system
