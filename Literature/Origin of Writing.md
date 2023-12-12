@@ -56,7 +56,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Lexeme
 	- It comes from Latin lexis, which comes from Ancient Greek word λέξις (léxis), meaning "word" + -eme, which means a unit in a linguistic structure, extracted from the Ancient Greek word φώνημα (phṓnēma), meaning "sound".
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
-
+---
 [TO COMPLETE]
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
 - assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
@@ -72,6 +72,27 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 				- Proto-Iranian (Persian) word \*Háhurah, which turned into Avestan word 𐬀𐬵𐬎𐬭𐬀‎ (ahura), meaning “lord”
 			- Proto-Germanic word \*ansuz
 
+> - But the Jews found also in the Persian faith the one among all religions most like their own, in this, that it had no idols (https://www.theatlantic.com/magazine/archive/1869/08/zoroaster-and-the-zend-avesta/630001/)
+> - Zoroaster quickly perceived that the ancient monotheistic religion of the Aryas was degenerating into a state of image and idol worship (https://oll.libertyfund.org/page/zoroaster-s-teachings)
+> - We never worshipped murtis (idols) (http://parsizoroastrianism.com/Tenets/noidols33.html)
+
+- A murti is actually the vessel for the spirit of god, not a god; produced according to Shilpa Shasthras (https://en.wikipedia.org/wiki/Prana_Pratishtha), from (https://en.wikipedia.org/wiki/Murti)
+	- Hmmm? (Beyond anthropomorphic forms of religious murti, some traditions of Hinduism cherish aniconism, where alternate symbols are shaped into a murti, such as the linga for Shiva, yoni for Devi, and the saligrama for Vishnu.) 
+
+> From (https://en.wikipedia.org/wiki/Murti)
+ > While murti are an easily and commonly visible aspect of Hinduism, they are not necessary to Hindu worship.[45] Among Hindus, states Gopinath Rao,[76] one who has realised Self (Soul, Atman) and the Universal Principle (Brahman, god) within himself, there is no need for any temple or divine image for worship. Those who have yet to reach this height of realisation, various symbolic manifestations through images, idols and icons as well as mental modes of worship are offered as one of the spiritual paths in the Hindu way of life. This belief is repeated in ancient Hindu scriptures. For example, the Jabaladarshana Upanishad states:[76]
+> 
+>    शिवमात्मनि पश्यन्ति प्रतिमासु न योगिनः |
+>    अज्ञानं भावनार्थाय प्रतिमाः परिकल्पिताः || ५९ ||
+>    - जाबालदर्शनोपनिषत्
+>
+>    A yogin perceives god (Siva) within himself,
+>    images are for those who have not reached this knowledge. (Verse 59)
+>    — Jabaladarsana Upanishad, [77]
+
+Not related, but fun fact: murti is an anagram of timur > Timurids > Tamerlane > Persian تیمور لنگ‎ (teymur-(e) lang, literally “Timur the Lame”) > Proto-Turkic \*temür (“iron”)
+
+---
 # Evolution of Writing
 ## Neolithic Age
 - Jihau symbols
