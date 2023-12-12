@@ -19,7 +19,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 
 - Lexicon (A reference of all lexemes with their meaning, like a dictionary)
 - Lexemes (word forms, or basic units of a language's vocabulary. It is the abstract representation of a set of words that have the same meaning, such as run, ran and running. The lexeme can be best represented as by the free morpheme, "run")
-- Glyphs
+- Glyphs (A glyph is a specific shape of a character in a typeface. A glyph can represent a grapheme, part of a grapheme (such as a diatric), or a combination of graphemes. A single character can be represented in different styles, and the specific calligraphic design of a character is called a glyph)
 - Graphemes (The smallest visible unit of a language)
 	- Another definition, in English is that a grapheme is a letter that represents a single phoneme
 - Phonograms (A grapheme or set of graphemes that is associated with a phoneme)
