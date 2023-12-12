@@ -63,7 +63,6 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 
 	- The Proto-Indo-European word \*swe means relating to self, which is related to \*dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning "god", and also the Zoroastrian word "daiv", meaning "demon".
  		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning [TO COMPLETE]
-		- 
 			- द्यौष्पितृ (dyauṣ-pitṛ), meaning sky god, husband of Prithvi and father of Agni and Indra.
 				- द्यौस् (dyaús, nominative singular of द्यु (dyú, “sky”))
 					- द्यु (dyú) comes from Proto-Indo-Aryan \*dyā́wṣ, from Proto-Indo-Iranian \*dyā́wš, from Proto-Indo-European \*dyḗws (“sky, heaven”). Cognate with Ancient Greek Ζεύς (Zeús), Latin diēs, Hittite 𒅆𒍑 (sius).
@@ -73,6 +72,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 								- Another derivative was Proto-Indo-Iranian \*dinám, which led to Proto-Indo-Aryan \*dinám, and to Sanskrit दिन (din), meaning "day"
 								- Similarly, Sanskrit word दिव (div) also came from \*dyew
 				- पितृ (pitṛ) came from Proto-Indo-Iranian *pHtā́ (“father”), from Proto-Indo-European *ph₂tḗr (“father”). Cognate with Avestan 𐬞𐬌𐬙𐬀𐬭‎ (pitar)
+				- Closely related is Jupiter, whose etymology follows from Latin Iūpiter (“father Jove”), from Proto-Italic \*djous patēr (literally “sky father”) (cognate with Ancient Greek Ζεῦ πάτερ (Zeû páter, “father Zeus”)), from \*djous (“day, sky”) + \*patēr (“father”), from Proto-Indo-European \*dyḗws (literally “the bright one”), from \*dyew- (“to be bright, day sky”), and \*ph₂tḗr (“father”). Doublet of Dyaus Pita. (Doublets are like cognates, but includes loanwords)
 		- Related words: Dyaus, deywós
 		- Indo-Iranian (Persian) Zoroastrianism took "daiv" to mean demonic entities, which could've found its ways to Judaism and hence Islam too. (Yes this is apparently true)
 		- Proto-Indo-Iranian word daywás >
