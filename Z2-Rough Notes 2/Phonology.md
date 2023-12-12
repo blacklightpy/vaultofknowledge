@@ -1,4 +1,4 @@
-Phonology is a layer above [[phonetics]], which deals with what the units of speech are.
+Phonology is a layer above [[Phonetics]], which deals with what the units of speech are.
 
 A segment is a basic unit of sounds. For example:
 - Phonemes are segments of a word

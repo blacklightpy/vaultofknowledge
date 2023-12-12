@@ -7,15 +7,6 @@ The title for this site was inspired by a location in the game Sky: Children of 
 This website was generated in HTML using [ObsidianHTML](https://github.com/obsidian-html/obsidian-html).
 The GitHub repository for this page is available at https://github.com/blacklightpy/vaultofknowledge
 
-### Navigation
-- There is directory view at the left side, to browse through the folders.
-- There is a search button at the top for searching notes.
-- There is a small graph view at the bottom, and a full page graph view button at the top. You can switch between 2D and 3D views to visualize the connections between notes. In the small graph view, left clicking a note opens the note, and right click just selects the note in graph view. In the full page graph view, it is the other way round.
-
-
-
-
-
 >Hi there! This method of taking notes is called a [[Zettelkasten]], or connected atomic notes. It is more commonly referred to as a second brain. The purpose of taking notes this way is to build a lifelong store of information.
 >
 >You can explore the notes using the graph, sidebar index (at the bottom for mobiles), search bar and links within pages.
