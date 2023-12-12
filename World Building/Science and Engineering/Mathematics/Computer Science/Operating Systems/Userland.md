@@ -1,6 +1,6 @@
 Userland refers to everything outside the kernel of an operating system. A kernel is generally only the heart of the operating system, which connects all the hardware components and defines the flow of operations. However, the core userland software is what allows one to interact with the kernel, making it an actual operating system.
 
-Every operating system has at minimum a core userland.
+At minimum, every operating system has a core userland to provide interaction with the kernel.
 
 The core userland involves the essential runtimes, shell utilities, and any other essential applications such as a graphical user interface.
 
