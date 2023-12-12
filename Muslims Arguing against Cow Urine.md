@@ -1,6 +1,10 @@
+Firstly, Hinduism considers cows sacred due to their provision of milk, which can make butter and ghee. The urine as medicine is an Ayurvedic practice, which was developed by Hindu scholars, but it is not part of the Hindu faith.
+
 Prophet Mohammed asked his followers to drink camel urine as medicine in the Hadith: https://sunnah.com/bukhari/76/9
 
-One person argues against this by saying that:
+Some people on Quora defended this claim by backing it up with scientific papers.
+
+One person on Quora argues against this by saying that:
 - If one Hadith disagrees with another, we take the most accurate one
 - Hadiths stress on the importance of cleanliness
 - We know that all animal urine is filthy
