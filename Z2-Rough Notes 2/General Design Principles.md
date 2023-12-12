@@ -27,7 +27,7 @@ Now, when it comes to window managers in the nerd space, they prefer a barebones
 > - The choice of audio manager
 > - The choice of network and radio manager
 > - The choice of daemons to use (such as logging, power handling, session and multi-user seat handling)
-> - The choice of any additional convenience libraries (GNOME userspace virtual FS, XDG Desktop Portal API)
+> - The choice of any additional convenience libraries (GNOME userspace virtual FS, XDG Desktop Portal API, XDG User Directories)
 > - The choice of any proprietary drivers and codecs to use
 > - The choice of secure access control mechanism
 > - The choice of kernel

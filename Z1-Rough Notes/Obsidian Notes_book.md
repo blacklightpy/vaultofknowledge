@@ -9362,7 +9362,7 @@
 
 ## Android Games I Like
 
-![[/Z0-Organizing (All Notes Matter)/Android Games I Like.md|Android Games I Like.md]]
+![[Android Games I Like|Android Games I Like.md]]
 
 ---
 
@@ -9370,7 +9370,7 @@
 
 ## Aspects of the Drone Project
 
-![[/Z0-Organizing (All Notes Matter)/Aspects of the Drone Project.md|Aspects of the Drone Project.md]]
+![[Aspects of the Drone Project|Aspects of the Drone Project.md]]
 
 ---
 
@@ -9378,7 +9378,7 @@
 
 ## Content Creators to Watch
 
-![[/Z0-Organizing (All Notes Matter)/Content Creators to Watch.md|Content Creators to Watch.md]]
+![[Content Creators to Watch|Content Creators to Watch.md]]
 
 ---
 
@@ -9386,7 +9386,7 @@
 
 ## Creative Ideas
 
-![[/Z0-Organizing (All Notes Matter)/Creative Ideas.md|Creative Ideas.md]]
+![[Creative Ideas|Creative Ideas.md]]
 
 ---
 
@@ -9394,7 +9394,7 @@
 
 ## Favorite PC Games
 
-![[/Z0-Organizing (All Notes Matter)/Favorite PC Games.md|Favorite PC Games.md]]
+![[Favorite PC Games|Favorite PC Games.md]]
 
 ---
 
@@ -9402,7 +9402,7 @@
 
 ## Knowing what I should do
 
-![[/Z0-Organizing (All Notes Matter)/Knowing what I should do.md|Knowing what I should do.md]]
+![[Knowing what I should do|Knowing what I should do.md]]
 
 ---
 
@@ -9410,7 +9410,7 @@
 
 ## Master ToDo
 
-![[/Z0-Organizing (All Notes Matter)/Master ToDo.md|Master ToDo.md]]
+![[Master ToDo|Master ToDo.md]]
 
 ---
 
@@ -9418,7 +9418,7 @@
 
 ## Password Management Strategy
 
-![[/Z0-Organizing (All Notes Matter)/Password Management Strategy.md|Password Management Strategy.md]]
+![[Password Management Strategy|Password Management Strategy.md]]
 
 ---
 
@@ -9426,7 +9426,7 @@
 
 ## Personal Website Inspirations
 
-![[/Z0-Organizing (All Notes Matter)/Personal Website Inspirations.md|Personal Website Inspirations.md]]
+![[Personal Website Inspirations|Personal Website Inspirations.md]]
 
 ---
 
@@ -9434,7 +9434,7 @@
 
 ## PM Software Comparison
 
-![[/Z0-Organizing (All Notes Matter)/PM Software Comparison.md|PM Software Comparison.md]]
+![[PM Software Comparison|PM Software Comparison.md]]
 
 ---
 
@@ -9442,7 +9442,7 @@
 
 ## Project Ideas
 
-![[/Z0-Organizing (All Notes Matter)/Project Ideas.md|Project Ideas.md]]
+![[Project Ideas|Project Ideas.md]]
 
 ---
 
@@ -9450,7 +9450,7 @@
 
 ## Sticky Notes
 
-![[/Z0-Organizing (All Notes Matter)/Sticky Notes.md|Sticky Notes.md]]
+![[Sticky Notes|Sticky Notes.md]]
 
 ---
 
@@ -9458,7 +9458,7 @@
 
 ## Tried Software Review
 
-![[/Z0-Organizing (All Notes Matter)/Tried Software Review.md|Tried Software Review.md]]
+![[Tried Software Review|Tried Software Review.md]]
 
 ---
 
@@ -9466,7 +9466,7 @@
 
 ## What all must a person do
 
-![[/Z0-Organizing (All Notes Matter)/What all must a person do.md|What all must a person do.md]]
+![[What all must a person do|What all must a person do.md]]
 
 ---
 
@@ -9533,7 +9533,7 @@
 
 ### Articles to Read
 
-![[/Z1-Inbox/Fusion 360/Articles to Read.md|Articles to Read.md]]
+![[Articles to Read|Articles to Read.md]]
 
 ---
 
@@ -9541,7 +9541,7 @@
 
 ### Blogs to Read
 
-![[/Z1-Inbox/Fusion 360/Blogs to Read.md|Blogs to Read.md]]
+![[Blogs to Read|Blogs to Read.md]]
 
 ---
 
@@ -9549,7 +9549,7 @@
 
 ### Capacitors
 
-![[/Z1-Inbox/Fusion 360/Capacitors.md|Capacitors.md]]
+![[Capacitors|Capacitors.md]]
 
 ---
 
@@ -9557,7 +9557,7 @@
 
 ### Ceramic Engines
 
-![[/Z1-Inbox/Fusion 360/Ceramic Engines.md|Ceramic Engines.md]]
+![[Ceramic Engines|Ceramic Engines.md]]
 
 ---
 
@@ -9565,7 +9565,7 @@
 
 ### Customer Service
 
-![[/Z1-Inbox/Fusion 360/Customer Service.md|Customer Service.md]]
+![[Customer Service|Customer Service.md]]
 
 ---
 
@@ -9573,7 +9573,7 @@
 
 ### Engine Aspiration
 
-![[/Z1-Inbox/Fusion 360/Engine Aspiration.md|Engine Aspiration.md]]
+![[Engine Aspiration|Engine Aspiration.md]]
 
 ---
 
@@ -9581,7 +9581,7 @@
 
 ### Ground
 
-![[/Z1-Inbox/Fusion 360/Ground.md|Ground.md]]
+![[Ground|Ground.md]]
 
 ---
 
@@ -9589,7 +9589,7 @@
 
 ### PCBs
 
-![[/Z1-Inbox/Fusion 360/PCBs.md|PCBs.md]]
+![[PCBs|PCBs.md]]
 
 ---
 
@@ -9597,7 +9597,7 @@
 
 ### Resistors
 
-![[/Z1-Inbox/Fusion 360/Resistors.md|Resistors.md]]
+![[Resistors|Resistors.md]]
 
 ---
 
@@ -9605,7 +9605,7 @@
 
 ### Sketchnoting
 
-![[/Z1-Inbox/Fusion 360/Sketchnoting.md|Sketchnoting.md]]
+![[Sketchnoting|Sketchnoting.md]]
 
 ---
 
@@ -9613,7 +9613,7 @@
 
 ### Fusion 360
 
-![[/Z1-Inbox/Fusion 360/Fusion 360.md|Fusion 360.md]]
+![[Fusion 360|Fusion 360.md]]
 
 ---
 
@@ -9621,7 +9621,7 @@
 
 ## 3D Modelling Software
 
-![[/Z1-Inbox/3D Modelling Software.md|3D Modelling Software.md]]
+![[3D Modelling Software|3D Modelling Software.md]]
 
 ---
 
@@ -9629,7 +9629,7 @@
 
 ## Android Customization
 
-![[/Z1-Inbox/Android Customization.md|Android Customization.md]]
+![[Android Customization|Android Customization.md]]
 
 ---
 
@@ -9637,7 +9637,7 @@
 
 ## Article Reading List
 
-![[/Z1-Inbox/Article Reading List.md|Article Reading List.md]]
+![[Article Reading List|Article Reading List.md]]
 
 ---
 
@@ -9645,7 +9645,7 @@
 
 ## Business Ethics
 
-![[/Z1-Inbox/Business Ethics.md|Business Ethics.md]]
+![[Business Ethics|Business Ethics.md]]
 
 ---
 
@@ -9653,7 +9653,7 @@
 
 ## Courses To Take
 
-![[/Z1-Inbox/Courses To Take.md|Courses To Take.md]]
+![[Courses To Take|Courses To Take.md]]
 
 ---
 
@@ -9661,7 +9661,7 @@
 
 ## Degrees of Freedom
 
-![[/Z1-Inbox/Degrees of Freedom.md|Degrees of Freedom.md]]
+![[Degrees of Freedom|Degrees of Freedom.md]]
 
 ---
 
@@ -9669,7 +9669,7 @@
 
 ## Design Elements
 
-![[/Z1-Inbox/Design Elements.md|Design Elements.md]]
+![[Design Elements|Design Elements.md]]
 
 ---
 
@@ -9677,7 +9677,7 @@
 
 ## Entropy
 
-![[/Z1-Inbox/Entropy.md|Entropy.md]]
+![[Entropy|Entropy.md]]
 
 ---
 
@@ -9685,7 +9685,7 @@
 
 ## Favorite Text Editors
 
-![[/Z1-Inbox/Favorite Text Editors.md|Favorite Text Editors.md]]
+![[Favorite Text Editors|Favorite Text Editors.md]]
 
 ---
 
@@ -9693,7 +9693,7 @@
 
 ## Filesystem in Userspace
 
-![[/Z1-Inbox/Filesystem in Userspace.md|Filesystem in Userspace.md]]
+![[Filesystem in Userspace|Filesystem in Userspace.md]]
 
 ---
 
@@ -9701,7 +9701,7 @@
 
 ## How to be a good Analog engineer
 
-![[/Z1-Inbox/How to be a good Analog engineer.md|How to be a good Analog engineer.md]]
+![[How to be a good Analog engineer|How to be a good Analog engineer.md]]
 
 ---
 
@@ -9709,7 +9709,7 @@
 
 ## How to make a program that prints it's own source
 
-![[/Z1-Inbox/How to make a program that prints it's own source.md|How to make a program that prints it's own source.md]]
+![[How to make a program that prints it's own source|How to make a program that prints it's own source.md]]
 
 ---
 
@@ -9717,7 +9717,7 @@
 
 ## Identity
 
-![[/Z1-Inbox/Identity.md|Identity.md]]
+![[Identity|Identity.md]]
 
 ---
 
@@ -9725,7 +9725,7 @@
 
 ## Is position of microparticles really random
 
-![[/Z1-Inbox/Is position of microparticles really random.md|Is position of microparticles really random.md]]
+![[Is position of microparticles really random|Is position of microparticles really random.md]]
 
 ---
 
@@ -9733,7 +9733,7 @@
 
 ## Libraries for Data Science - Python
 
-![[/Z1-Inbox/Libraries for Data Science - Python.md|Libraries for Data Science - Python.md]]
+![[Libraries for Data Science - Python|Libraries for Data Science - Python.md]]
 
 ---
 
@@ -9741,7 +9741,7 @@
 
 ## Logic and Creativity
 
-![[/Z1-Inbox/Logic and Creativity.md|Logic and Creativity.md]]
+![[Logic and Creativity|Logic and Creativity.md]]
 
 ---
 
@@ -9749,7 +9749,7 @@
 
 ## Map of Computer Science
 
-![[/Z1-Inbox/Map of Computer Science.md|Map of Computer Science.md]]
+![[Map of Computer Science|Map of Computer Science.md]]
 
 ---
 
@@ -9757,7 +9757,7 @@
 
 ## Morality
 
-![[/Z1-Inbox/Morality.md|Morality.md]]
+![[Morality|Morality.md]]
 
 ---
 
@@ -9765,7 +9765,7 @@
 
 ## Necessity of Politics
 
-![[/Z1-Inbox/Necessity of Politics.md|Necessity of Politics.md]]
+![[Necessity of Politics|Necessity of Politics.md]]
 
 ---
 
@@ -9773,7 +9773,7 @@
 
 ## multisig
 
-![[/Z1-Inbox/multisig.md|multisig.md]]
+![[multisig|multisig.md]]
 
 ---
 
@@ -9781,7 +9781,7 @@
 
 ## Newton's Bucket
 
-![[/Z1-Inbox/Newton's Bucket.md|Newton's Bucket.md]]
+![[Newton's Bucket|Newton's Bucket.md]]
 
 ---
 
@@ -9789,7 +9789,7 @@
 
 ## On chasing experiences
 
-![[/Z1-Inbox/On chasing experiences.md|On chasing experiences.md]]
+![[On chasing experiences|On chasing experiences.md]]
 
 ---
 
@@ -9797,7 +9797,7 @@
 
 ## Overview example wiki
 
-![[/Z1-Inbox/Overview example wiki.md|Overview example wiki.md]]
+![[Overview example wiki|Overview example wiki.md]]
 
 ---
 
@@ -9805,7 +9805,7 @@
 
 ## Power Usage Comparison of CC and banking systems
 
-![[/Z1-Inbox/Power Usage Comparison of CC and banking systems.md|Power Usage Comparison of CC and banking systems.md]]
+![[Power Usage Comparison of CC and banking systems|Power Usage Comparison of CC and banking systems.md]]
 
 ---
 
@@ -9813,7 +9813,7 @@
 
 ## Server Management Tools
 
-![[/Z1-Inbox/Server Management Tools.md|Server Management Tools.md]]
+![[Server Management Tools|Server Management Tools.md]]
 
 ---
 
@@ -9821,7 +9821,7 @@
 
 ## Shareworthy articles
 
-![[/Z1-Inbox/Shareworthy articles.md|Shareworthy articles.md]]
+![[Shareworthy articles|Shareworthy articles.md]]
 
 ---
 
@@ -9829,7 +9829,7 @@
 
 ## Vitamin D from Sunlight
 
-![[/Z1-Inbox/Vitamin D from Sunlight.md|Vitamin D from Sunlight.md]]
+![[Vitamin D from Sunlight|Vitamin D from Sunlight.md]]
 
 ---
 
@@ -9837,7 +9837,7 @@
 
 ## Werewolves
 
-![[/Z1-Inbox/Werewolves.md|Werewolves.md]]
+![[Werewolves|Werewolves.md]]
 
 ---
 
@@ -9845,7 +9845,7 @@
 
 ## What science is
 
-![[/Z1-Inbox/What science is.md|What science is.md]]
+![[What science is|What science is.md]]
 
 ---
 
@@ -9853,7 +9853,7 @@
 
 ## Why cryptocurrencies may not be necessary
 
-![[/Z1-Inbox/Why cryptocurrencies may not be necessary.md|Why cryptocurrencies may not be necessary.md]]
+![[Why cryptocurrencies may not be necessary|Why cryptocurrencies may not be necessary.md]]
 
 ---
 
@@ -9861,7 +9861,7 @@
 
 ## Wikipedia
 
-![[/Z1-Inbox/Wikipedia.md|Wikipedia.md]]
+![[Wikipedia|Wikipedia.md]]
 
 ---
 
@@ -10013,7 +10013,7 @@
 
 # To Learn
 
-![[Z1-Inbox/To Learn|To Learn.md]]
+![[Z1-Rough Notes/To Learn|To Learn.md]]
 
 ---
 
@@ -10021,7 +10021,7 @@
 
 # Transfer Function
 
-![[Z1-Inbox/Transfer Function|Transfer Function.md]]
+![[Z1-Rough Notes/Transfer Function|Transfer Function.md]]
 
 ---
 
@@ -10109,7 +10109,7 @@
 
 # Motors
 
-![[Z1-Inbox/Motors|Motors.md]]
+![[Z1-Rough Notes/Motors|Motors.md]]
 
 ---
 
@@ -10189,7 +10189,7 @@
 
 # Desktop Environments
 
-![[Z1-Inbox/Desktop Environments|Desktop Environments.md]]
+![[Z1-Rough Notes/Desktop Environments|Desktop Environments.md]]
 
 ---
 
@@ -10557,7 +10557,7 @@
 
 # Graphics Libraries
 
-![[Z1-Inbox/Graphics Libraries|Graphics Libraries.md]]
+![[Z1-Rough Notes/Graphics Libraries|Graphics Libraries.md]]
 
 ---
 

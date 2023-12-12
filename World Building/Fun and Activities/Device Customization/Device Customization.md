@@ -37,7 +37,7 @@ The general components to modify are:
 - GNOME Extensions
 - Plasma Addons
 - Kando Pie Menu
-- [[Window Mangers]]
+- [[Window Managers]]
 
 # Workflow Customization
 ## In Microsoft Windows [Proprietary]

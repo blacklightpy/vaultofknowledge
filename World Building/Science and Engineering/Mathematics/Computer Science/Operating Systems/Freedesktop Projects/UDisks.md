@@ -4,7 +4,7 @@ UDisks provides access to block devices via D-Bus. This is why devices are mount
 
 Udisks consists of a D-Bus daemon `udisksd` and a command line shell `udisksctl`.
 
-Access to UDisks can be restricted using [[PolicyKit]].
+Access to UDisks can be restricted using [[Polkit]].
 
 Some frontends for udisks2 are:
 - GNOME Disks

@@ -1,5 +1,5 @@
 For reference:
-- [[Z1-Inbox/Desktop Environments|What is a desktop environment?]]
+- [[Z1-Rough Notes/Desktop Environments|What is a desktop environment?]]
 
 For window managers, see [[Window Manager Showcase]]
 For stylized screenshots, see [[Rice Showcase]]

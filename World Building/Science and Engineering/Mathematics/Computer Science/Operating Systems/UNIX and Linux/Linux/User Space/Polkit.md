@@ -1,4 +1,4 @@
-PolicyKit, or Polkit is the service that handles graphical user authentication. Polkit uses [[Pluggable Authentication Module|PAM]] to verify user credentials.
+Polkit (formerly PolicyKit) is the service that handles graphical user authentication. Polkit uses the Linux kernel module "[[Pluggable Authentication Module|PAM]]" to verify user credentials.
 
 > [!NOTE]
 > Polkit replaces `gksudo` as the de-facto GUI elevation handler
@@ -14,7 +14,7 @@ Common Polkit agents available are:
 - `mate-polkit` (MATE Polkit Integration)
 - `xfce-polkit` (Xfce Polkit Agent)
 - `pantheon-agent-polkit` (Pantheon Polkit Agent)
-- `lxsession` (LXDE X11 Session Handler, which provides lxpolkit)
+- `lxsession` (LXDE X11 Session Handler, which provides `lxpolkit`)
 - `lxqt-policykit` (LXQt Polkit Agent)
 
 The default agent is set in the configuration file `/etc/pam.d/polkit-1`

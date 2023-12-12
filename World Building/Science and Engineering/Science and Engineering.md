@@ -384,6 +384,12 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- **Operating Systems**
 			- [[Configuration]]
 			- [[Filesystems]]
+			- **Freedesktop Projects**
+				- [[PulseAudio]]
+				- [[UDisks]]
+				- [[Wayland]]
+				- [[X Windowing System]]
+			- [[Freedesktop Projects]]
 			- [[Kernel]]
 			- [[Keywords]]
 			- [[Remote Desktop Connections]]
@@ -394,15 +400,20 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Intrusion Detection System]]
 				- [[Intrusion Prevention System]]
 				- **Linux**
+					- **Kernel Space**
+						- [[Control Groups]]
+						- [[Pluggable Authentication Module]]
 					- [[Linux Components]]
+					- **User Space**
+						- [[Polkit]]
+						- [[systemd]]
 				- [[Linux Basics]]
 				- [[Linux Distros]]
 				- [[Linux firewalls]]
 				- [[Linux Security Modules]]
 				- [[Shells and Terminals]]
-				- [[Wayland]]
 				- [[Windowing Systems]]
-				- [[X WIndowing System]]
+			- [[Userland]]
 			- **Virtualization and Scaling**
 				- [[Cloud Computing Platforms]]
 				- [[Cluster Computing]]
@@ -534,6 +545,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Electronic Camming]]
 		- [[Feynman Diagrams]]
 		- [[Force]]
+		- [[General Relativity]]
 		- [[Hamiltonian Mechanics]]
 		- [[Index of Mechanics]]
 		- [[Jerk]]
@@ -547,6 +559,8 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Spin-Orbit Interactions]]
 			- [[Wavefunctions]]
 		- [[Relativistic Quantum Mechanics]]
+		- [[Special Relativity 1]]
+		- [[Special Relativity]]
 		- [[Springs]]
 		- **Thermodynamics**
 			- [[Temperature]]
