@@ -78,11 +78,12 @@ TODO: Add instructions on enabiling other services like elogind, socklog-void, n
 				- `exec pipewire&`
 				- `exec pipewire-pulse&`
 - If using GNOME, add some cool extensions
-	- PieMenu - For Pie Menu
+	- Fly-Pie - For Pie Menu, by Schneegans
+	- Desktop Cube - For cube desktop layout switcher, by Schneegans
+	- Burn my Windows - For burning window effect, by Schneegans
+	- Compiz Windows Effect - For wobble effect, by Schneegans
+ 	- Aylur's Widgets - For a set of GJS based widgets, by Aylur (who also made AGS, or Aylur's GTK Shell)
 	- Dash to Dock - For a dock like macOS or Ubuntu
-	- Cube Desktop - for cube desktop layout switcher
-	- Burn my Windows - for burning window effect
-	- Compiz Windows Effect - for wobble effect
 	- AppIndicator and KStatusNotifierItem Support - for apps like steam
 	- GSConnect - For sync with Phone
 	- Vitals - For panel status (RAM, CPU, network, etc.)
