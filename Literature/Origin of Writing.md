@@ -68,16 +68,21 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 		- Related: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begettor", which turned into 
 			- Hittite word 𒈗𒍑 (hassus), meaning "king"
 			- Proto-Indo-Iranian word Hasuras which turned into 
-				- Proto-Indo-Aryan word \*Hásuras, which turned into the Sanskrit word असुर (ásura), meaning "demon"
-				- Proto-Iranian (Persian) word \*Háhurah, which turned into Avestan word 𐬀𐬵𐬎𐬭𐬀‎ (ahura), meaning “lord”
+				- Proto-Indo-Aryan word \*Hásuras which turned into
+					- Sanskrit word असुर (ásura), meaning "demon"
+				- Proto-Iranian (Persian) word \*Háhurah, which turned into
+					- Avestan word 𐬀𐬵𐬎𐬭𐬀‎ (ahura), meaning “lord”
 			- Proto-Germanic word \*ansuz
 
 > - But the Jews found also in the Persian faith the one among all religions most like their own, in this, that it had no idols (https://www.theatlantic.com/magazine/archive/1869/08/zoroaster-and-the-zend-avesta/630001/)
 > - Zoroaster quickly perceived that the ancient monotheistic religion of the Aryas was degenerating into a state of image and idol worship (https://oll.libertyfund.org/page/zoroaster-s-teachings)
 > - We never worshipped murtis (idols) (http://parsizoroastrianism.com/Tenets/noidols33.html)
 
-- A murti is actually the vessel for the spirit of god, not a god; produced according to Shilpa Shasthras (https://en.wikipedia.org/wiki/Prana_Pratishtha), from (https://en.wikipedia.org/wiki/Murti)
+- A murti is actually the vessel for the spirit of god, not a god; produced according to Shilpa Shasthras. (https://en.wikipedia.org/wiki/Prana_Pratishtha), from (https://en.wikipedia.org/wiki/Murti)
+	- This also explains the concept of ishta-devas and ishta-devatas (it's just what nature of god resonates with your feelings as a diverse person)
 	- Hmmm? (Beyond anthropomorphic forms of religious murti, some traditions of Hinduism cherish aniconism, where alternate symbols are shaped into a murti, such as the linga for Shiva, yoni for Devi, and the saligrama for Vishnu.) 
+
+- मूर्ति (murti) comes from मूर्छ् (murch), meaning "to take form", which is likely from the Proto-Indo-European word \*mr̥tós, meaning "mortal" (often compared to Ancient Greek βρότος (brótos), meaning “blood from a wound”)
 
 > From (https://en.wikipedia.org/wiki/Murti)
  > While murti are an easily and commonly visible aspect of Hinduism, they are not necessary to Hindu worship.[45] Among Hindus, states Gopinath Rao,[76] one who has realised Self (Soul, Atman) and the Universal Principle (Brahman, god) within himself, there is no need for any temple or divine image for worship. Those who have yet to reach this height of realisation, various symbolic manifestations through images, idols and icons as well as mental modes of worship are offered as one of the spiritual paths in the Hindu way of life. This belief is repeated in ancient Hindu scriptures. For example, the Jabaladarshana Upanishad states:[76]
@@ -89,6 +94,8 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 >    A yogin perceives god (Siva) within himself,
 >    images are for those who have not reached this knowledge. (Verse 59)
 >    — Jabaladarsana Upanishad, [77]
+
+Hinduism differentiates Bhakti (spiritual love) from Kama (erotic love).
 
 Not related, but fun fact: murti is an anagram of timur > Timurids > Tamerlane > Persian تیمور لنگ‎ (teymur-(e) lang, literally “Timur the Lame”) > Proto-Turkic \*temür (“iron”)
 
