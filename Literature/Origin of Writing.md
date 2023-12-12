@@ -43,7 +43,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 ## Types of languages
 - Logoconsonantal scripts (Scripts in which graphemes could be extended phonetically according to the consonants of the words they represent, ignoring the vowels)
 - Logosyllabic scripts (These are scripts in which the graphemes represent morphemes, often polysyllabic morphemes, but when extended phoentically represent single syllables)
-- Logosyllabry (Syllabry is nothing but the collection of syllabic characters)
+- Logosyllabry (It is a syllabry consisting of logosyllabic characters)
 
 - Alphabets: Consists of consonants and vowels
 - Abjads: Consists only of consonants in the script, leaving the vowels to be inferred by the reader (e.g: Hebrew and Arabic)
@@ -56,7 +56,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
 
 	- *swe means self, which is related to *dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
- 		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning 
+ 		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning [TO COMPLETE]
 
 # Evolution of Writing
 ## Neolithic Age
