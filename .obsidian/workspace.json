@@ -320,7 +320,7 @@
             }
           },
           {
-            "id": "ccca3326433106c3",
+            "id": "f2def58a9cb66255",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -344,17 +344,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2698a3df9c216735",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -420,6 +412,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -436,6 +429,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -455,7 +449,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md"
               }
             }
           },
@@ -504,7 +498,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "f2def58a9cb66255",
   "lastOpenFiles": [
     "Test.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/Israel Palestine Megathread.md",
