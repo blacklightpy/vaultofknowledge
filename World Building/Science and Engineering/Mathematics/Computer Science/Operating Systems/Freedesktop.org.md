@@ -1,1 +1,0 @@
-Freedesktop.org maintains free and open source software and specifications which can help build operating systems and their subsystems. Most Freedesktop.org projects support  *nix systems, but they are not limited to *nix.
