@@ -1,8 +1,11 @@
-Desktop customization is an activity that people enjoy, to make their computing devices look neat.
+Device customization is an activity that people enjoy, to make the interfaces of their devices look personalized.
 
-Open source operating systems are in principle more customizable than proprietary operating systems, however due to popularity and associated or otherwise monetary advantages, proprietary operating systems can also be pretty customizable, although they will ultimately be limited to the extend to which the developers allow for customization.
-
-In essence, customization is about altering the default working and appearance of the system, and at the deepest level, customization is only possible to the extent to which a system or a layer above it is open source. 
+> [!NOTE] Importance of availability of source code and modularity for customization
+> Open source operating systems are in principle more customizable than proprietary operating systems, however due to popularity and associated or otherwise monetary advantages, proprietary operating systems can also be pretty customizable, although they will ultimately be limited to the extend to which the developers allow for customization.
+> 
+> In essence, customization is about altering the default working and appearance of the system, and at the deepest level, customization is only possible to the extent to which a system or a layer above it is open source.
+> 
+> Modularity is another important factor, because that is the design feature which allows a different interface to work with the other components.
 
 # Appearance and Workflow
 The general components to modify are:
