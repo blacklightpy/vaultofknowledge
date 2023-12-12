@@ -61,22 +61,36 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
 - assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
 
-	- \*swe means relating to self, which is related to \*dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
+	- The Proto-Indo-European word \*swe means relating to self, which is related to \*dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning "god", and also the Zoroastrian word "daiv", meaning "demon".
  		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning [TO COMPLETE]
 		- 
 			- द्यौष्पितृ (dyauṣ-pitṛ), meaning sky god, husband of Prithvi and father of Agni and Indra.
 				- द्यौस् (dyaús, nominative singular of द्यु (dyú, “sky”))
-					- द्यु (dyú) comes from Proto-Indo-Aryan *dyā́wṣ, from Proto-Indo-Iranian *dyā́wš, from Proto-Indo-European *dyḗws (“sky, heaven”). Cognate with Ancient Greek Ζεύς (Zeús), Latin diēs, Hittite 𒅆𒍑 (sius). 
+					- द्यु (dyú) comes from Proto-Indo-Aryan \*dyā́wṣ, from Proto-Indo-Iranian \*dyā́wš, from Proto-Indo-European \*dyḗws (“sky, heaven”). Cognate with Ancient Greek Ζεύς (Zeús), Latin diēs, Hittite 𒅆𒍑 (sius).
+						- \*dyḗws comes from earlier \*dyéws, from \*dyew- +‎ *-s.
+							- \*dyew means "heaven" or "sky" or "to shine"
+								- The Persian derivative was لیو • (liv), meaning "sunlight"
+								- Another derivative was Proto-Indo-Iranian \*dinám, which led to Proto-Indo-Aryan \*dinám, and to Sanskrit दिन (din), meaning "day"
+								- Similarly, Sanskrit word दिव (div) also came from \*dyew
 				- पितृ (pitṛ) came from Proto-Indo-Iranian *pHtā́ (“father”), from Proto-Indo-European *ph₂tḗr (“father”). Cognate with Avestan 𐬞𐬌𐬙𐬀𐬭‎ (pitar)
 		- Related words: Dyaus, deywós
-		- Indo-Iranian (Persian) Zoroastrianism took "daiv" to mean demonic entities, which could've found its ways
+		- Indo-Iranian (Persian) Zoroastrianism took "daiv" to mean demonic entities, which could've found its ways to Judaism and hence Islam too. (Yes this is apparently true)
 		- Proto-Indo-Iranian word daywás >
-			- Proto-Indo-Aryan: *daywás (“god, deity”)
+			- Proto-Indo-Aryan: \*daywás (“god, deity”)
 				- Sanskrit: देव (devá), meaning "god" and later देवता (devatā), meaning "goddess", and देवसभा (devasabhā), meaning "the court of Indra, or assembly of gods"
-			- Proto-Iranian: *daywáh (“demon”)
-				- Avestan: 𐬛𐬀𐬉𐬎𐬎𐬀 (
+			- Proto-Iranian: \*daywáh (“demon”)
+				- Avestan: 𐬛𐬀𐬉𐬎𐬎𐬀 (daēuua), meaning "demon"
+				- Old Persian: 𐎭𐎡𐎺 (d-i-v /⁠daivaʰ⁠/), meaning "demon"
+				- Classical Persian: دیو‎ (div), meaning “demon”
+					- Ottoman Turkish: دیو (div), meaning "demon"
+     					- Urdu: دیو‎ (dīv), meaning "demon"
+    				- Derived word: \*daywánah, (by \*daywá + \*nah), meaning "demon possessed"
+        				- Classical Persian: دیوانه‎ (devâna)
+						- Urdu: دیوانہ‎ (divana), meaning "mad"
+						- Hindi: दीवाना (dīvānā), meaning "mad"
 		- So obviously, when Proto-Indo-Aryans split into Indo-Iranians and Indo-Aryans, they mixed up the words, and Indo-Aryans formed a happy religion in India, while Indo-Iranians met the exiled Jews and helped them get back their land, and introduced the idea of daivs and idol worship as demons to them. So the Jews said "WRITE THAT DOWN". So later on, Islam came, and stuck with the same idea that idol worshippers are demons and must be destroyed at all costs. Then Islam went on spreading their religion, and they reached India and guess what, they found idol worship. So they looked at each other, and said, bruh, the bastards are here. "FUCKING kill them" (Zach star voice). So they destroyed our culture and our places of worship.
-		- Dinam > Din AND Deevanaa all came from these too!
+		- From Zoroastrians, Jews learned monotheism, and El and Yahweh became one; They learned to hate idols, and they also learned individual morality, which up until then was such that sons inherit the sins of the ancestors. They also learned the concept of a fiery hell, judgement and the end days from Zoroastrianism.
+			- Book of Daniel (El is my Judge) first reveals the end times, directly after the period of Babylonian Exile.
 		- [[Hatred of Idol Worship]]
 		- Related: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begettor", which turned into 
 			- Hittite word 𒈗𒍑 (hassus), meaning "king"
