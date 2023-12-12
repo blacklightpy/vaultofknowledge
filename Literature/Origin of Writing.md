@@ -61,8 +61,16 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
 - assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
 
-	- *swe means self, which is related to *dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
- 		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning [TO COMPLETE]
+	- \*swe means self, which is related to \*dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
+ 		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning [TO COMPLETE]
+		- Related words: Dyaus, deywós
+		- Indo-Iranian (Persian) Zoroastrianism took "daiv" to mean demonic entities, which could've found its ways
+		- Related: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begettor", which turned into 
+			- Hittite word 𒈗𒍑 (hassus), meaning "king"
+			- Proto-Indo-Iranian word Hasuras which turned into 
+				- Proto-Indo-Aryan word \*Hásuras, which turned into the Sanskrit word असुर (ásura), meaning "demon"
+				- Proto-Iranian (Persian) word \*Háhurah, which turned into Avestan word 𐬀𐬵𐬎𐬭𐬀‎ (ahura), meaning “lord”
+			- Proto-Germanic word \*ansuz
 
 # Evolution of Writing
 ## Neolithic Age
