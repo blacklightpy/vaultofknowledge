@@ -255,19 +255,6 @@
             }
           },
           {
-            "id": "333efdb19df4351b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why I hate Indian Movies.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9518d10f5ace5659",
             "type": "leaf",
             "state": {
@@ -333,12 +320,12 @@
             }
           },
           {
-            "id": "d6ba07e46e706bc4",
+            "id": "83fe8ac44a6b294a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z2-Rough Notes 2/Israel Palestine Rough/Israel Palestine Megathread.md",
+                "file": "Phonetics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -346,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -412,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "Phonetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -429,7 +416,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "Phonetics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -449,7 +436,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md"
+                "file": "Phonetics.md"
               }
             }
           },
@@ -498,14 +485,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2def58a9cb66255",
+  "active": "83fe8ac44a6b294a",
   "lastOpenFiles": [
+    "Phonology.md",
+    "Zoroastrian Influence on Judaism.md",
+    "Muslims Arguing against Cow Urine.md",
+    "Meditation in Islam.md",
+    "Literature/Hatred of Idol Worship.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Untitled 1.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Arguments against Religion 2.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Why people join religions.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Why I hate Indian Movies.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Gender Inclusivity in Languages.md",
+    "Doubt - Are Viscosity and Density Related.md",
     "Test.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/Israel Palestine Megathread.md",
     "Test.md",
     "Z1-Rough Notes/Arguments against religion.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
-    "Phonology.md",
     "Phonetics.md",
     "Z2-Rough Notes 2/Sound.md",
     "Z2-Rough Notes 2/Homelab.md",
@@ -516,16 +513,6 @@
     "Z2-Rough Notes 2/What happens to a fluid released in space.md",
     "Z2-Rough Notes 2/Why there aren't many open source GPUs.md",
     "Z2-Rough Notes 2/War.md",
-    "Z2-Rough Notes 2/VPNs.md",
-    "Z2-Rough Notes 2/V8.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Unfair practices.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Treatment of Heretics in Religions.md",
-    "Z2-Rough Notes 2/Israel Palestine Rough/The Constitution of Medina.md",
-    "Z2-Rough Notes 2/Technology.md",
-    "Z2-Rough Notes 2/Technobabble.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Taking words out of context.md",
-    "Z2-Rough Notes 2/Studying Repulsive Forces.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Special Relativity 1.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",

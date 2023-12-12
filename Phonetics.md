@@ -1,4 +1,4 @@
-It is the study of how humans produce and percieve sounds.
+It is the study of how humans produce and perceive sounds.
 
 It consists of:
 - articulatory phoenetics (how humans plan and produce speech),
