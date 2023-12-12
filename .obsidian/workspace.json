@@ -344,9 +344,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2698a3df9c216735",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e71a54f3db9fd87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -396,8 +417,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -413,7 +433,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +450,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "Test.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -450,7 +470,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md"
+                "file": "Test.md"
               }
             }
           },
@@ -499,8 +519,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ccca3326433106c3",
+  "active": "e71a54f3db9fd87d",
   "lastOpenFiles": [
+    "Test.md",
+    "Z2-Rough Notes 2/Israel Palestine Rough/Israel Palestine Megathread.md",
+    "Test.md",
+    "Z1-Rough Notes/Arguments against religion.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+    "Phonology.md",
+    "Phonetics.md",
     "Z2-Rough Notes 2/Sound.md",
     "Z2-Rough Notes 2/Homelab.md",
     "Z2-Rough Notes 2/General Design Principles.md",
@@ -520,13 +547,6 @@
     "Z2-Rough Notes 2/Thoughts to Complete/Taking words out of context.md",
     "Z2-Rough Notes 2/Studying Repulsive Forces.md",
     "World Building/Science and Engineering/Physics/Mechanics/Special Relativity 1.md",
-    "Z2-Rough Notes 2/Spectral Efficiency.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Solving the problem of naming free operating systems.md",
-    "Z2-Rough Notes 2/Software Styling.md",
-    "Z2-Rough Notes 2/Social Philosophies.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Service as a Software Substitute.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/So we are all different, but how do we deal with it.md",
-    "Z2-Rough Notes 2/Security Vulnerabilities.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
