@@ -1,7 +1,8 @@
-If I recall the way my mom taught me to write when I was two or three, I first learned to write using rice in a bowl. She would make me write the first letter, and map it to the corresponding sound, the next letter, and so on. As for speaking, this was taught in the same manner as I learned emotes. So it was like "sha", then combinations "shan", and so on. In that way, I started to learn to read, by translating those words into sounds and sounds into meaning. Later on it would become second nature for me to translate the words into meaning without referring back to sounds. 
+If I recall the way my mom taught me to write when I was two or three, I first learned to write using rice in a bowl. She would make me write the first letter, and map it to the corresponding sound, the next letter, and so on. As for speaking, this was taught in the same manner as I learned emotes. So it was like "ഷ" ("sha"), then combinations "ഷൺ" ("shan"), and so on. In that way, I started to learn to read, by translating those words into sounds and sounds into meaning. Later on it would become second nature for me to translate the words into meaning without referring back to sounds. 
 
-In any case, the sounds or letters were not the sources of meaning, they were only the methods of communication, for a meaning that existed beyond it. Because even before I knew any words, I knew the meaning of events, because I could feel them.
+In any case, the sounds or letters were not the sources of meaning, they were only the methods of communication, for a meaning that existed beyond it. Because even before I knew any words, I knew the meaning of events, because I could feel them. I only learned to map my interpretations to those sounds.
 
+The problem is that unlike percieving the world, which comes naturally, mapping those perceptions to words was more like a skill, because not any combination of words would sound just right, and some combinations of words are more difficult to interpret than others.
 
 # Forms of writing
 - Pictorial writing system
@@ -19,8 +20,8 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 
 - Lexicon (A reference of all lexemes with their meaning, like a dictionary)
 - Lexemes (word forms, or basic units of a language's vocabulary. It is the abstract representation of a set of words that have the same meaning, such as run, ran and running. The lexeme can be best represented as by the free morpheme, "run")
-- Glyphs
-- Graphemes (The smallest visible unit of a language)
+- Glyphs (A glyph is a specific shape of a character in a typeface. A glyph can represent a grapheme, part of a grapheme (such as a diacritic), or a combination of graphemes. A single character can be represented in different styles, and the specific calligraphic design of a character is called a glyph)
+- Graphemes (The smallest functional unit of a writing system)
 	- Another definition, in English is that a grapheme is a letter that represents a single phoneme
 - Phonograms (A grapheme or set of graphemes that is associated with a phoneme)
 - Phonemes (The smallest sonic unit of a language, which defines the phonetics of that language)
@@ -31,26 +32,35 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 
 - Ideograms (A graphical symbol that represents an idea or a concept, either by prior familiarity or by resemblance to a physical object)
 - Pictograms (A graphical symbol that represents an object by having resemblance to it)
-- Logograms
+- Logograms or Lexigram
+	- A logogram is a written character that represents a whole word
 	- Logographic systems often included phonograms, usually used according to the rebus principle, in which a pure ideogram was suffixed with a phonogram in an attempt to clarify meaning.
-- 
+ 	- Examples of pure logograms: https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1
 
-Consonants
-Vowels
-Syllables
+## Elements of Phonetic Articulation
+- Consonants (In articulatory phonetics, a consonant is a speech sound that is articulated with complete or partial closure of the vocal tract)
+- Vowels (A vowel is a speech sound that is articulated without anty stricture in the vocal tract)
+- Syllables (A syllable is a unit of organization for a sequence of speech sounds, which form the building blocks of spoken words)
 
-Logoconsonantal scripts
-Logosyllabic scripts
-Logosyllabry
+## Types of languages
+- Logoconsonantal scripts (Scripts in which graphemes could be extended phonetically according to the consonants of the words they represent, ignoring the vowels)
+- Logosyllabic scripts (These are scripts in which the graphemes represent morphemes, often polysyllabic morphemes, but when extended phoentically represent single syllables)
+- Logosyllabry (It is a syllabry consisting of logosyllabic characters)
 
+- Alphabets: Consists of consonants and vowels
+- Abjads: Consists only of consonants in the script, leaving the vowels to be inferred by the reader (e.g: Hebrew and Arabic)
+- Syllabries: They consists of characters that represent entire syllables. There are a lot more characters than Abugidas here. (e.g. Hiragana)
+- Abugidas: Abugidas are also referred to as alphasyllabries or semisyllabries, because they are a combination of alphabets and syllabries. The letters are combined with diacritics, or additional lines, to represent the vowels. (e.g. Hindi, Malayalam, Tamil)
 
 ## Etymology of these words
 - Lexeme
 	- It comes from Latin lexis, which comes from Ancient Greek word λέξις (léxis), meaning "word" + -eme, which means a unit in a linguistic structure, extracted from the Ancient Greek word φώνημα (phṓnēma), meaning "sound".
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
 
+[TO COMPLETE]
+
 	- *swe means self, which is related to *dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
- 		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning 
+ 		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning [TO COMPLETE]
 
 # Evolution of Writing
 ## Neolithic Age
