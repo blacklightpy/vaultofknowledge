@@ -71,6 +71,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 			- Proto-Iranian: *daywáh (“demon”)
 				- Avestan: 𐬛𐬀𐬉𐬎𐬎𐬀 (
 		- So obviously, when Proto-Indo-Aryans split into Indo-Iranians and Indo-Aryans, they mixed up the words, and Indo-Aryans formed a happy religion in India, while Indo-Iranians met the exiled Jews and helped them get back their land, and introduced the idea of daivs and idol worship as demons to them. So the Jews said "WRITE THAT DOWN". So later on, Islam came, and stuck with the same idea that idol worshippers are demons and must be destroyed at all costs. Then Islam went on spreading their religion, and they reached India and guess what, they found idol worship. So they looked at each other, and said, bruh, the bastards are here. "FUCKING kill them" (Zach star voice). So they destroyed our culture and our places of worship.
+		- [[Hatred of Idol Worship]]
 		- Related: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begettor", which turned into 
 			- Hittite word 𒈗𒍑 (hassus), meaning "king"
 			- Proto-Indo-Iranian word Hasuras which turned into 
