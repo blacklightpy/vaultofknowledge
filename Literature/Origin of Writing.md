@@ -31,18 +31,24 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 
 - Ideograms (A graphical symbol that represents an idea or a concept, either by prior familiarity or by resemblance to a physical object)
 - Pictograms (A graphical symbol that represents an object by having resemblance to it)
-- Logograms
+- Logograms or Lexigram
 	- Logographic systems often included phonograms, usually used according to the rebus principle, in which a pure ideogram was suffixed with a phonogram in an attempt to clarify meaning.
-- 
+ 	- Examples of pure logograms: https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1
 
-Consonants
-Vowels
-Syllables
+## Elements of Phonetic Articulation
+- Consonants (In articulatory phonetics, a consonant is a speech sound that is articulated with complete or partial closure of the vocal tract)
+- Vowels (A vowel is a speech sound that is articulated without anty stricture in the vocal tract)
+- Syllables (A syllable is a unit of organization for a sequence of speech sounds, which form the building blocks of spoken words)
 
-Logoconsonantal scripts
-Logosyllabic scripts
-Logosyllabry
+## Types of languages
+- Logoconsonantal scripts (Scripts in which graphemes could be extended phonetically according to the consonants of the words they represent, ignoring the vowels)
+- Logosyllabic scripts (These are scripts in which the graphemes represent morphemes, often polysyllabic morphemes, but when extended phoentically represent single syllables)
+- Logosyllabry
 
+- Alphabets: Consists of consonants and vowels
+- Abjads: Consists only of consonants in the script, leaving the vowels to be inferred by the reader (e.g: Hebrew and Arabic)
+- Abugidas: Abugidas are also referred to as alphasyllabries, because they are a combination of alphabets and syllabries. The letters are combined with diacritics, or additional lines, to represent the vowels. (e.g. Hindi, Malayalam, Tamil)
+- Syllabries: They consists of characters that represent entire syllables. There are a lot more characters than Abugidas here. (e.g. Hiragana)
 
 ## Etymology of these words
 - Lexeme
