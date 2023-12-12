@@ -1,7 +1,7 @@
 PolicyKit, or Polkit is the service that handles graphical user authentication. Polkit uses [[Pluggable Authentication Module|PAM]] to verify user credentials.
 
 > [!NOTE]
-> PolicKit replaces `gksudo` as the default GUI elevation handler
+> Polkit replaces `gksudo` as the de-facto GUI elevation handler
 
 A Polkit agent provides an interface to handle the input of credentials.
 
