@@ -58,6 +58,8 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
 
 [TO COMPLETE]
+- palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
+- assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
 
 	- *swe means self, which is related to *dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
  		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning [TO COMPLETE]
