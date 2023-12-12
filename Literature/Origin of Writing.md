@@ -43,12 +43,12 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 ## Types of languages
 - Logoconsonantal scripts (Scripts in which graphemes could be extended phonetically according to the consonants of the words they represent, ignoring the vowels)
 - Logosyllabic scripts (These are scripts in which the graphemes represent morphemes, often polysyllabic morphemes, but when extended phoentically represent single syllables)
-- Logosyllabry
+- Logosyllabry (Syllabry is nothing but the collection of syllabic characters)
 
 - Alphabets: Consists of consonants and vowels
 - Abjads: Consists only of consonants in the script, leaving the vowels to be inferred by the reader (e.g: Hebrew and Arabic)
-- Abugidas: Abugidas are also referred to as alphasyllabries, because they are a combination of alphabets and syllabries. The letters are combined with diacritics, or additional lines, to represent the vowels. (e.g. Hindi, Malayalam, Tamil)
 - Syllabries: They consists of characters that represent entire syllables. There are a lot more characters than Abugidas here. (e.g. Hiragana)
+- Abugidas: Abugidas are also referred to as alphasyllabries or semisyllabries, because they are a combination of alphabets and syllabries. The letters are combined with diacritics, or additional lines, to represent the vowels. (e.g. Hindi, Malayalam, Tamil)
 
 ## Etymology of these words
 - Lexeme
