@@ -20,8 +20,8 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 
 - Lexicon (A reference of all lexemes with their meaning, like a dictionary)
 - Lexemes (word forms, or basic units of a language's vocabulary. It is the abstract representation of a set of words that have the same meaning, such as run, ran and running. The lexeme can be best represented as by the free morpheme, "run")
-- Glyphs (A glyph is a specific shape of a character in a typeface. A glyph can represent a grapheme, part of a grapheme (such as a diatric), or a combination of graphemes. A single character can be represented in different styles, and the specific calligraphic design of a character is called a glyph)
-- Graphemes (The smallest visible unit of a language)
+- Glyphs (A glyph is a specific shape of a character in a typeface. A glyph can represent a grapheme, part of a grapheme (such as a diacritic), or a combination of graphemes. A single character can be represented in different styles, and the specific calligraphic design of a character is called a glyph)
+- Graphemes (The smallest functional unit of a writing system)
 	- Another definition, in English is that a grapheme is a letter that represents a single phoneme
 - Phonograms (A grapheme or set of graphemes that is associated with a phoneme)
 - Phonemes (The smallest sonic unit of a language, which defines the phonetics of that language)
@@ -33,6 +33,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Ideograms (A graphical symbol that represents an idea or a concept, either by prior familiarity or by resemblance to a physical object)
 - Pictograms (A graphical symbol that represents an object by having resemblance to it)
 - Logograms or Lexigram
+	- A logogram is a written character that represents a whole word
 	- Logographic systems often included phonograms, usually used according to the rebus principle, in which a pure ideogram was suffixed with a phonogram in an attempt to clarify meaning.
  	- Examples of pure logograms: https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1
 
@@ -55,6 +56,8 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Lexeme
 	- It comes from Latin lexis, which comes from Ancient Greek word λέξις (léxis), meaning "word" + -eme, which means a unit in a linguistic structure, extracted from the Ancient Greek word φώνημα (phṓnēma), meaning "sound".
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
+
+[TO COMPLETE]
 
 	- *swe means self, which is related to *dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning god.
  		- *Dyēus derives from the stem *dyeu-, meaning brightness of the day, which comes from the root *di or dei-, meaning [TO COMPLETE]
