@@ -57,12 +57,11 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 	- It comes from Latin lexis, which comes from Ancient Greek word λέξις (léxis), meaning "word" + -eme, which means a unit in a linguistic structure, extracted from the Ancient Greek word φώνημα (phṓnēma), meaning "sound".
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
 ---
-[TO COMPLETE]
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
 - assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
  	- I couldn't get any further etymology for \*sweysd, but I found out about \*swe and \*dwes, which caught my attention because of language proximity.
 	- The Proto-Indo-European word \*swe means relating to self, which is related to \*dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning "god", and also the Zoroastrian word "daiv", meaning "demon".
- 		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning [TO COMPLETE]
+ 		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning "to shine" or "be bright".
    			- ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/%D0%A2-%D0%BB%D0%B8%D0%BC%D0%B0%D0%BD10.JPG)
    			- *Dyēus was often paired with *Dʰéǵʰōm, the Earth Mother, in a relationship of union and contrast (think of the Horizon). This remained the same in the Vedas.
 			- द्यौष्पितृ (dyauṣ-pitṛ), meaning sky god, husband of Prithvi and father of Agni and Indra.
@@ -92,11 +91,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 	        				- Classical Persian: دیوانه‎ (devâna)
 							- Urdu: دیوانہ‎ (divana), meaning "mad"
 							- Hindi: दीवाना (dīvānā), meaning "mad"
-			- So obviously, when Proto-Indo-Aryans split into Indo-Iranians and Indo-Aryans, they mixed up the words, and Indo-Aryans formed a happy religion in India, while Indo-Iranians met the exiled Jews and helped them get back their land, and introduced the idea of daivs and idol worship as demons to them. So the Jews said "WRITE THAT DOWN". So later on, Islam came, and stuck with the same idea that idol worshippers are demons and must be destroyed at all costs. Then Islam went on spreading their religion, and they reached India and guess what, they found idol worship. So they looked at each other, and said, bruh, the bastards are here. "FUCKING kill them" (Zach star voice). So they destroyed our culture and our places of worship.
-			- From Zoroastrians, Jews learned monotheism, and El and Yahweh became one; They learned to hate idols, and they also learned individual morality, which up until then was such that sons inherit the sins of the ancestors. They also learned the concept of a fiery hell, judgement and the end days from Zoroastrianism.
-				- Book of Daniel (El is my Judge) first reveals the end times, directly after the period of Babylonian Exile.
-			- [[Hatred of Idol Worship]]
-			- Related: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begettor", which turned into 
+			- Related, about demons: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begettor", which turned into 
 				- Hittite word 𒈗𒍑 (hassus), meaning "king"
 				- Proto-Indo-Iranian word Hasuras which turned into 
 					- Proto-Indo-Aryan word \*Hásuras which turned into
@@ -104,6 +99,12 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 					- Proto-Iranian (Persian) word \*Háhurah, which turned into
 						- Avestan word 𐬀𐬵𐬎𐬭𐬀‎ (ahura), meaning “lord”
 				- Proto-Germanic word \*ansuz
+---
+
+- So obviously, when Proto-Indo-Aryans split into Indo-Iranians and Indo-Aryans, they mixed up the words, and Indo-Aryans formed a happy religion in India, while Indo-Iranians met the exiled Jews and helped them get back their land, and introduced the idea of daivs and idol worship as demons to them. So the Jews said "WRITE THAT DOWN". So later on, Islam came, and stuck with the same idea that idol worshippers are demons and must be destroyed at all costs. Then Islam went on spreading their religion, and they reached India and guess what, they found idol worship. So they looked at each other, and said, bruh, the bastards are here. "FUCKING kill them" (Zach star voice). So they destroyed our culture and our places of worship.
+- From Zoroastrians, Jews learned monotheism, and El and Yahweh became one; They learned to hate idols, and they also learned individual morality, which up until then was such that sons inherit the sins of the ancestors. They also learned the concept of a fiery hell, judgement and the end days from Zoroastrianism.
+	- Book of Daniel (El is my Judge) first reveals the end times, directly after the period of Babylonian Exile.
+- [[Hatred of Idol Worship]]
 
 > - But the Jews found also in the Persian faith the one among all religions most like their own, in this, that it had no idols (https://www.theatlantic.com/magazine/archive/1869/08/zoroaster-and-the-zend-avesta/630001/)
 > - Zoroaster quickly perceived that the ancient monotheistic religion of the Aryas was degenerating into a state of image and idol worship (https://oll.libertyfund.org/page/zoroaster-s-teachings)
