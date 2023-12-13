@@ -1,0 +1,4 @@
+- Chera Dynasty
+- Samoothiri of Calicut, Kingdom of Travancore and Kingdom of Cochin
+- Invasion by Hyder Ali of Calicut and Kingdom of Cochin
+- British Raj
