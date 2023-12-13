@@ -23,6 +23,7 @@ More Arguments:
 - Islam makes women hide their entire bodies, however sex slaves are ok, which encourages men to invade other countries to rape women ("Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession. This is Allah’s commandment to you...." [Quran 4:24])
 - Apparently Mohammed could neither read, nor write?? Still, speech is language, to be confused by.
 - God is insecure, so he needed to create temptations so people would forcefully worship him to prevent the punishment.
+- The highest goods in heaven are stuff like women, cars, etc. So why not just get them at earth?
 
 My faith is based on that the purpose of life is to explore and have fun. Even if there was a god, he would be of the same belief, not a passive-aggressive sadistic narcissist who demands strict obedience from innocent people who have natural desires he himself created. So I wouldn't need to worry about it at all. 
 
