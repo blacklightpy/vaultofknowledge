@@ -1,5 +1,7 @@
 This is a topic that's often avoided, but the similarities can be seen easily.
 
+Judaism used to believe that we turn to dust, prior to encountering Zoroastrianism. Zoroaster came up with the idea that there is one perfect god, and all other gods and idols are fake, and that there is hell and heaven.
+
 From Quora:
 > Zoroastrianism is an ancient monotheistic religion that originated in Persia and exerted a significant influence on the region's culture and history. Here are some of its main influences:
 > 
