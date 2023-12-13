@@ -12,6 +12,7 @@
 All your actions are guided by your intentions. Don't worry if your actions don't represent your intentions and if people misunderstand you. In the larger picture, the sum of your actions will manifest as the result of your intentions.
 
 
+# Post Idea
 ---
 What's the difference between (TODO: Complete the sentence and post)
 - A woman walking naked because she believes it's
@@ -40,3 +41,4 @@ What do you do in such a scenario?
 - You impose your religious law on them ❎
 - You judge them according to how you feel ❎ (because feelings are not always right)
 - You do not judge, and accept that there are such people in the world ✅
+---

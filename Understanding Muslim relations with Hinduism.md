@@ -1,4 +1,0 @@
-- How Indo-Europeans split into Indo-Aryans and Indo-Iranians
-- [[Meditation in Islam]]
-- [[Muslims Arguing against Cow Urine]]
-- [[Zoroastrian Influence on Judaism]]
