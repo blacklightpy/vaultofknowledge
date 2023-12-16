@@ -214,9 +214,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96922043d4c7cf45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Religion/Connection of Semitic and Aryan religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -282,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "History/Religion/Connection of Semitic and Aryan religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "History/Religion/Connection of Semitic and Aryan religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -319,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md"
+                "file": "History/Religion/Connection of Semitic and Aryan religions.md"
               }
             }
           },
@@ -368,15 +381,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2def58a9cb66255",
+  "active": "96922043d4c7cf45",
   "lastOpenFiles": [
+    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "Arguments against Islam.md",
     "History of South India.md",
     "History/Religion/Connection of Semitic and Aryan religions.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
     "Literature/Origin of Writing.md",
     "History/Timeline of History.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Untitled 1.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",

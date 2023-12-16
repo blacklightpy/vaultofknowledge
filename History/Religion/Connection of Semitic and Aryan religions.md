@@ -2,6 +2,7 @@
 - Aryan religion (Vikings, Celtics, Greeks, Slavs, Vedic, Avestan Religion)
 - Dravidian Folk Religion (Kerala, Tamil Nadu)
 - The Israelites speaking people had a specific religion, which we currently call Yahwism
+- Yahwism was a polytheistic religion which consisted of gods and goddesses, with the head god Yahweh, with his consort, the goddess Asherah, and second-tier g
 - Some of the Proto-Indo-Europeans, the Proto-Indo-Iranians had a religion and were known as Indo-Iranian Aryans
 - Some of them went to India and wrote Sanskrit Vedas were called Indo-Aryans, while the others were called Iranians, also known as Persians.
 - The Persians started a religion known as Zoroastrianism based on Avestan Gathas, which was the opposite of the Vedic Aryan religion.
