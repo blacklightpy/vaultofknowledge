@@ -18,3 +18,7 @@ Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)), Ve
 
 
 - Proto-Indo-European \*Manu and \*Yemo (Swayambhava Manu and Yama (his twin))
+- Manus are one of 14 rulers of Earth in each kalpa
+	- Each kalpa has 14 Manuvratas, headed by a different Manu
+	- The current universe, is asserted to be ruled by the 7th Manu named Vaivasvata.  He was the king of Dravida before the flood. He was warned of the flood by the Matsya avatar of Vishnu, and built a boat that carried the Vedas, Manu's family and the seven sages to safety, helped by Matsya. This is similar to the flood of Gilgamesh and Noah.
+	- The flood could have been inspired by the floods in the wake of the Last
