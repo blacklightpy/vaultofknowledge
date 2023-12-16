@@ -214,9 +214,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78c6cdb2e7892e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98d0e09f6dfee37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Timeline of History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -245,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "indo-iran",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,12 +288,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -283,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
+                "file": "History/Timeline of History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
+                "file": "History/Timeline of History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -320,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md"
+                "file": "History/Timeline of History.md"
               }
             }
           },
@@ -369,8 +395,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "710159f96c2dc4fd",
+  "active": "78c6cdb2e7892e4e",
   "lastOpenFiles": [
+    "Connection of Semitic and Aryan religions.md",
+    "History/Timeline of History.md",
+    "History of South India.md",
+    "Arguments against Islam.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Untitled 1.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Philosophy/Smell.md",
@@ -381,22 +413,16 @@
     "Z2-Rough Notes 2/V8.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Gender Inclusivity in Languages.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Religions and Walled Gardens.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
     "Z2-Rough Notes 2/Thoughts to Complete/So we are all different, but how do we deal with it.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why people join religions.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Isn't using technology built by atheists wrong for religious people.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why abandon proprietary technology.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "README.md",
     "Z2-Rough Notes 2/Understanding Muslim relations with Hinduism.md",
-    "home.md",
-    "Z2-Rough Notes 2/Phonology.md",
-    "Z2-Rough Notes 2/Meditation in Islam.md",
-    "Z2-Rough Notes 2/Muslims Arguing against Cow Urine.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",

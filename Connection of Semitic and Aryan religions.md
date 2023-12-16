@@ -1,0 +1,4 @@
+- Proto-Indo-European Nomads and Mesopotamian civilization
+- Aryan religion (Vikings, Celtics, Greeks, Slavs, Vedic, Zoroastrianism)
+- Dravidian Folk Religion (Kerala, Tamil Nadu)
+- Indo-Europeans split into Iranians and Indo-Aryans
