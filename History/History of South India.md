@@ -10,7 +10,9 @@
 
 - Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)), Vels (related to Ays) > Venad (Vel-Nadu; part of Chera/Perumals) (ruled by Venad Cheras or Kulasekharas) > Kingdom of Travancore (Marthanda Verma)
 - Ay-Vel family
-- Pandya 
+- Pandya king sacked Vizhinjam port by defeating the Vel Mannan and took possession of the Ay-Vel country
+- The Pandya foray bought Chera-Perumal rulers to fight in the Pandya-Ay/Chera conflict
+- Ay-Vel was split into Vel-Nadu and Ay, with its base at Vizhinjam under the control of Pandya ruler Srimara Srivallabha
 
 
 
