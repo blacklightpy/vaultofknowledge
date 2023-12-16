@@ -4,7 +4,7 @@
 - British Raj
 
 
-
+Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)), Vels (related to Ays) > Venad (part of Chera/Perumals) (ruled by Venad Cheras or Kulasekharas) > Kingdom of Travancore (Marthanda Verma)
 
 
 
