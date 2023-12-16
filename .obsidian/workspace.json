@@ -112,32 +112,6 @@
             }
           },
           {
-            "id": "27163ce56a30308f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cc65945e0495cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "280247d5cf002403",
             "type": "leaf",
             "state": {
@@ -242,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -309,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md"
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md"
               }
             }
           },
@@ -395,9 +369,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f2def58a9cb66255",
+  "active": "710159f96c2dc4fd",
   "lastOpenFiles": [
+    "Z2-Rough Notes 2/Thoughts to Complete/Untitled 1.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "World Building/Philosophy/Smell.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Arguments against Religion 2.md",
+    "Z1-Rough Notes/Motors.md",
+    "Z1-Rough Notes/Methods in Fluid Dynamics.md",
+    "Z1-Rough Notes/Tasks.md",
+    "Z2-Rough Notes 2/V8.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
+    "World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Gender Inclusivity in Languages.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Religions and Walled Gardens.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
@@ -405,24 +389,14 @@
     "Z2-Rough Notes 2/Thoughts to Complete/Why people join religions.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Isn't using technology built by atheists wrong for religious people.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Untitled 1.md",
-    "World Building/Philosophy/Smell.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why abandon proprietary technology.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "README.md",
     "Z2-Rough Notes 2/Understanding Muslim relations with Hinduism.md",
     "home.md",
     "Z2-Rough Notes 2/Phonology.md",
     "Z2-Rough Notes 2/Meditation in Islam.md",
     "Z2-Rough Notes 2/Muslims Arguing against Cow Urine.md",
-    "Z2-Rough Notes 2/Zoroastrian Influence on Judaism.md",
-    "Z2-Rough Notes 2/Phonetics.md",
-    "Z2-Rough Notes 2/Doubt - Are Viscosity and Density Related.md",
-    "Literature/Hatred of Idol Worship.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Why I hate Indian Movies.md",
-    "Test.md",
-    "Z2-Rough Notes 2/Israel Palestine Rough/Israel Palestine Megathread.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
