@@ -258,7 +258,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " hell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,12 +275,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -382,10 +382,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "78c6cdb2e7892e4e",
   "lastOpenFiles": [
-    "History/Timeline of History.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
+    "Literature/Origin of Writing.md",
     "Connection of Semitic and Aryan religions.md",
+    "History/Timeline of History.md",
     "History of South India.md",
     "Arguments against Islam.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
@@ -408,8 +410,6 @@
     "Z2-Rough Notes 2/Thoughts to Complete/Isn't using technology built by atheists wrong for religious people.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why abandon proprietary technology.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
-    "README.md",
-    "Z2-Rough Notes 2/Understanding Muslim relations with Hinduism.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
