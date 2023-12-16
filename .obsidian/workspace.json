@@ -221,7 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/History of South India.md",
+                "file": "History/Timeline of History.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -296,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/History of South India.md",
+                "file": "History/Timeline of History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/History of South India.md",
+                "file": "History/Timeline of History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -333,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/History of South India.md"
+                "file": "History/Timeline of History.md"
               }
             }
           },
@@ -382,10 +382,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "fb3d24b2d267ac47",
   "lastOpenFiles": [
-    "History/Timeline of History.md",
     "History/History of South India.md",
+    "History/Geology/Timeline of Geological History.md",
+    "History/Timeline of History.md",
     "History/History.md",
     "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "World Building/Geography/Western Ghats.md",
@@ -409,7 +410,6 @@
     "Z2-Rough Notes 2/Thoughts to Complete/Gender Inclusivity in Languages.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Religions and Walled Gardens.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/So we are all different, but how do we deal with it.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
