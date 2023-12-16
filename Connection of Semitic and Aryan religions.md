@@ -1,11 +1,12 @@
 - Proto-Indo-European Nomads and Mesopotamian civilization
 - Aryan religion (Vikings, Celtics, Greeks, Slavs, Vedic, Avestan Religion)
 - Dravidian Folk Religion (Kerala, Tamil Nadu)
+- The Israelites speaking people had a specific religion, which we currently call Yahwism
 - Some of the Proto-Indo-Europeans, the Proto-Indo-Iranians had a religion based on the Avestan tales
 - Some of them went to India and were called Indo-Aryans, while the others were called Indo-Iranians, also known as Persians.
 - The Persians started a religion known as Zoroastrianism, which was the opposite of the Vedic religion.
-- The Jews got exiled by the Neo-Babylonian empire, and the Persian Sassanid Empire helped them recover their lands, and also influenced their religion during the Second Temple period.
+- The Israelites got exiled by the Neo-Babylonian empire, and the Persian Sassanid Empire helped them recover their lands, and also influenced their religion during the Second Temple period.
+- They were known as Jews because of their kingdom of Judah, which survived after the Neo-Assyrian c
 - This new influence included the concept of heaven and hell (before which Jews only knew about returning to dust), the concept of end times and the return of a Messiah, strong monotheism and hatred of idols.
 - Christianity developed in Roman Empire as a derivative of the Jewish religion
-- Islam developed in Arabia as an alternate derivation of the Jewish religion and Christianity
-- Islam and Christianity are derivatives of the Jewish folk religion
+- Islam developed in Arabia as a derivation of the Jewish religion
