@@ -15,3 +15,6 @@ Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)), Ve
 	- Between Travancore (under Marthanda Varma) and combined forces of Odanad (ruled by Kotha Varma)
 - Battle between Travancore and Cochin (1754)
 - Battle between Travancore and Samoothiri (1756)
+
+
+- Proto-Indo-European \*Manu and \*Yemo (Swayambhava Manu and Yama (his twin))
