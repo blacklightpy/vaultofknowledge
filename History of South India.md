@@ -1,0 +1,4 @@
+- Chera Dynasty, Chola Empire (maritime), Pandya Dynasty, Chalukya Dynasty, etc.
+- Samoothiri of Calicut, Kingdom of Travancore and Kingdom of Cochin
+- Invasion by Hyder Ali of Calicut and Kingdom of Cochin
+- British Raj
