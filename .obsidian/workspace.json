@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Religion/Connection of Semitic and Aryan religions.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Religion/Connection of Semitic and Aryan religions.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -332,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Religion/Connection of Semitic and Aryan religions.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md"
               }
             }
           },
@@ -362,7 +362,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -380,7 +381,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "96922043d4c7cf45",
+  "active": "c44d69e882960f23",
   "lastOpenFiles": [
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "Arguments against Islam.md",
