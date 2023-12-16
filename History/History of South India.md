@@ -7,14 +7,12 @@
 - Invasion by Hyder Ali of Calicut and Kingdom of Cochin
 - British Raj
 
-
-- Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)), Vels (related to Ays) > Venad (Vel-Nadu; part of Chera/Perumals) (ruled by Venad Cheras or Kulasekharas) > Kingdom of Travancore (Marthanda Verma)
-- Ay-Vel family
+- Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)) > Venad (Vel-Nadu; part of Chera/Perumals) (ruled by Venad Cheras or Kulasekharas) > Kingdom of Travancore (Marthanda Verma)
+- Ay-Vel family (Vels mean the people of Ay)
 - Pandya king sacked Vizhinjam port by defeating the Vel Mannan and took possession of the Ay-Vel country
 - The Pandya foray bought Chera-Perumal rulers to fight in the Pandya-Ay/Chera conflict
 - Ay-Vel was split into Vel-Nadu and Ay, with its base at Vizhinjam under the control of Pandya ruler Srimara Srivallabha
-
-
+- 
 
 # Unrelated
 - Purakkad experiences **Chakara**, also experienced in Kodungallur of Kochi and in South America. The Tulu regions call it Palke. This phenomenon was mentioned in the Malayalam film **Chemmeen**.
@@ -23,7 +21,6 @@
 	- Between Travancore (under Marthanda Varma) and combined forces of Odanad (ruled by Kotha Varma)
 - Battle between Travancore and Cochin (1754)
 - Battle between Travancore and Samoothiri (1756)
-
 
 - Proto-Indo-European \*Manu and \*Yemo (Swayambhava Manu and Yama (his twin))
 - Manus are one of 14 rulers of Earth in each kalpa
