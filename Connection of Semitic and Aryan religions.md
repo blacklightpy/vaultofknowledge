@@ -2,8 +2,8 @@
 - Aryan religion (Vikings, Celtics, Greeks, Slavs, Vedic, Avestan Religion)
 - Dravidian Folk Religion (Kerala, Tamil Nadu)
 - The Israelites speaking people had a specific religion, which we currently call Yahwism
-- Some of the Proto-Indo-Europeans, the Proto-Indo-Iranians had a religion based
-- Some of them went to India and were called Indo-Aryans, while the others were called Indo-Iranians, also known as Persians.
+- Some of the Proto-Indo-Europeans, the Proto-Indo-Iranians had a religion and were known as Indo-Iranian Aryans
+- Some of them went to India and were called Indo-Aryans, while the others were called Iranians, also known as Persians.
 - The Persians started a religion known as Zoroastrianism, which was the opposite of the Vedic religion.
 - The Vedic Religion combined with Dravidian folk religion to form Hinduism.
 - The Israelites got exiled by the Neo-Babylonian empire, and the Persian Sassanid Empire helped them recover their lands, called it the province of Yehud Medinata, and also influenced their religion during the Second Temple period.
