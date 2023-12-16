@@ -6,8 +6,11 @@
 - Some of them went to India and wrote Sanskrit Vedas were called Indo-Aryans, while the others were called Iranians, also known as Persians.
 - The Persians started a religion known as Zoroastrianism based on Avestan Gathas, which was the opposite of the Vedic Aryan religion.
 - The Vedic Religion combined with Dravidian folk religion to form Hinduism.
-- The Israelites got exiled by the Neo-Babylonian empire, and the Persian Sassanid Empire helped them recover their lands, called it the province of Yehud Medinata, and also influenced their religion during the Second Temple period.
+- The Israelites got exiled by the Neo-Babylonian empire, and the Persian Achaemenid Empire helped them recover their lands, called it the province of Yehud Medinata, and also influenced their religion during the Second Temple period.
 - This new influence included the concept of heaven and hell (before which Jews only knew about returning to dust), the concept of end times and the return of a Messiah, strong monotheism and hatred of idols.
 - They were known as Jews because of their kingdom of Judah, or Yehud
 - Christianity developed in Roman Empire as a derivative of the Jewish religion according to the teachings of Jesus Christ
 - Islam developed in Arabia as a derivation of the Jewish religion, according to the teachings of Jesus Christ and the teachings of Mohammed
+
+Kingdoms related: Pashtun, Gandhara, Maurya
+Later, Afghanistan and Pakistani Indo-Aryan languages were replaced by Iranian languages
