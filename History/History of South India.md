@@ -1,4 +1,7 @@
-- Tamilakam, was the area south of Maurya Empire ()
+- Tamilakam, was the area south of Maurya Empire (Kerala, TN and a bit of Andhra)
+	- Consisted of Cheras, Pandyas, Cholas and Pallavas, etc.
+	- In the Sangam period, Tamil culture began to spread outside Tamilakam
+	- Ancient Tamil settlements were also established in Sri Lanka and Maldives
 - Chera Dynasty, Chola Empire (maritime), Pandya Dynasty, Chalukya Dynasty, etc.
 - Samoothiri of Calicut, Kingdom of Travancore and Kingdom of Cochin
 - Invasion by Hyder Ali of Calicut and Kingdom of Cochin
