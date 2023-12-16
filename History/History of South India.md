@@ -1,10 +1,13 @@
+- Tamilakam, was the area south of Maurya Empire ()
 - Chera Dynasty, Chola Empire (maritime), Pandya Dynasty, Chalukya Dynasty, etc.
 - Samoothiri of Calicut, Kingdom of Travancore and Kingdom of Cochin
 - Invasion by Hyder Ali of Calicut and Kingdom of Cochin
 - British Raj
 
 
-Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)), Vels (related to Ays) > Venad (part of Chera/Perumals) (ruled by Venad Cheras or Kulasekharas) > Kingdom of Travancore (Marthanda Verma)
+- Ays (Claimed to be from Yadava lineage (from Yadu of Chandravamsha dynasty)), Vels (related to Ays) > Venad (Vel-Nadu; part of Chera/Perumals) (ruled by Venad Cheras or Kulasekharas) > Kingdom of Travancore (Marthanda Verma)
+- Ay-Vel family
+- Pandya 
 
 
 
