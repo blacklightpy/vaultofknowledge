@@ -70,6 +70,7 @@ jobs:
         run: |
           pwd
           echo workspace is ${{ github.workspace }}
+          ls -l
           git status
           cd ${{ github.workspace }}
           
