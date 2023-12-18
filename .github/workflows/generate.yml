@@ -42,6 +42,12 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+      
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment (Not needed as it is set to permissive by default)
+    # permissions:
+    #   pages: write      # to deploy to Pages
+    #   id-token: write   # to verify the deployment originates from an appropriate source
+    
     name: Generate Sitemap and Deploy to Github Pages
     needs: build
     runs-on: ubuntu-latest
@@ -61,11 +67,12 @@ jobs:
           exclude-paths: /not_created.html /index.html # excluded in config.yaml
           
       - name: Commit & Push changes # used this because I'm too lazy to do manually
-        uses: actions-js/push@master
+        uses: devops-infra/action-commit-push@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
-          message: 'Added Sitemap: ${date}'
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+          commit_message: "Added sitemap"
+          force: false
+          target_branch: gh-pages
           
       - name: Output sitemap stats
         run: |
