@@ -15,7 +15,6 @@ jobs:
         with:
           ref: gh-pages
           path: vaultofknowledge
-          fetch-depth: 0
     
       - name: Generate the sitemap
         id: sitemap
