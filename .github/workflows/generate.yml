@@ -37,3 +37,44 @@ jobs:
           SQUASH_HISTORY: true # Squashes branch history to avoid file buildup
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
           MESSAGE: "Build: ({sha}) {msg}" # The commit message
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    name: Generate Sitemap and Deploy to Github Pages
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: vaultofknowledge
+        
+      - name: Generate the sitemap
+        id: sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://blacklightpy.github.io/vaultofknowledge
+          additional-extensions: jpg jpeg png webp gif
+          exclude-paths: /not_created.html /index.html # excluded in config.yaml
+          
+      - name: Output sitemap stats
+        run: |
+          echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
+          echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
+          echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+          
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          # Upload entire repository
+          path: '.'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v3
