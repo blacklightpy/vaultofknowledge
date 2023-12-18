@@ -60,6 +60,13 @@ jobs:
           additional-extensions: jpg jpeg png webp gif
           exclude-paths: /not_created.html /index.html # excluded in config.yaml
           
+      - name: Commit & Push changes # used this because I'm too lazy to do manually
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          message: 'Added Sitemap: ${date}'
+          
       - name: Output sitemap stats
         run: |
           echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
