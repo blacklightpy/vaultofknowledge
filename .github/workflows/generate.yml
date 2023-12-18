@@ -65,12 +65,6 @@ jobs:
           base-url-path: https://blacklightpy.github.io/vaultofknowledge
           additional-extensions: jpg jpeg png webp gif
           exclude-paths: /not_created.html /index.html # excluded in config.yaml
-          
-      - name: Commit & Push changes # used this because I'm too lazy to do manually
-        uses: devops-infra/action-commit-push@master
-        with:
-          github_token: "${{ secrets.GITHUB_TOKEN }}"
-          commit_message: "Added sitemap"
 
       - name: Return to working directory (since previous step seems to have changed it)
         run: |
@@ -81,6 +75,12 @@ jobs:
           echo "sitemap-path = ${{ steps.sitemap.outputs.sitemap-path }}"
           echo "url-count = ${{ steps.sitemap.outputs.url-count }}"
           echo "excluded-count = ${{ steps.sitemap.outputs.excluded-count }}"
+          
+      - name: Commit & Push changes # used this because I'm too lazy to do manually
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+          commit_message: "Added sitemap"
           
       - name: Setup Pages
         uses: actions/configure-pages@v4
