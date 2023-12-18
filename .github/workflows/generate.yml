@@ -43,10 +43,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
       
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment (Not needed as it is set to permissive by default)
-    # permissions:
-    #   pages: write      # to deploy to Pages
-    #   id-token: write   # to verify the deployment originates from an appropriate source
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    # 'pages' and 'content' are set to read and write by default in settings
+    permissions:
+      # pages: write
+      # content: write
+      id-token: write   # to verify the deployment originates from an appropriate source
     
     name: Generate Sitemap and Deploy to Github Pages
     needs: build
