@@ -68,6 +68,9 @@ jobs:
 
       - name: Return to working directory (since previous step seems to have changed it)
         run: |
+          pwd
+          echo workspace is ${{ github.workspace }}
+          git status
           cd ${{ github.workspace }}
           
       - name: Output sitemap stats
