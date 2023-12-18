@@ -71,6 +71,10 @@ jobs:
         with:
           github_token: "${{ secrets.GITHUB_TOKEN }}"
           commit_message: "Added sitemap"
+
+      - name: Return to working directory (since previous step seems to have changed it)
+        run: |
+          cd ${{ github.workspace }}
           
       - name: Output sitemap stats
         run: |
