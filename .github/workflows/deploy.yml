@@ -34,6 +34,7 @@ jobs:
         with:
           base-url-path: https://blacklightpy.github.io/vaultofknowledge
           additional-extensions: jpg jpeg png webp gif
+          exclude-paths: /not_created.html /index.html # excluded in config.yaml
           
       - name: Output sitemap stats
         run: |
