@@ -12,7 +12,10 @@
 - Pandya king sacked Vizhinjam port by defeating the Vel Mannan and took possession of the Ay-Vel country
 - The Pandya foray bought Chera-Perumal rulers to fight in the Pandya-Ay/Chera conflict
 - Ay-Vel was split into Vel-Nadu and Ay, with its base at Vizhinjam under the control of Pandya ruler Srimara Srivallabha
-- 
+
+- Velir were a royal house of minor dynastic kings and chieftains in Tamilakam. Medieval inscriptions and Sangam literature claim that they belong to the Yadu dynasty
+- Velirs (18 groups of Vellalars), included Haihayas, Pallavas, Andhras, Yadhavas, Chalukyas, etc.
+- The Ay Velirs linked themselves with Haihaya origins.
 
 # Unrelated
 - Purakkad experiences **Chakara**, also experienced in Kodungallur of Kochi and in South America. The Tulu regions call it Palke. This phenomenon was mentioned in the Malayalam film **Chemmeen**.
