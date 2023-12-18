@@ -1,0 +1,25 @@
+name: Generate sitemap
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate sitemap
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          path: vaultofknowledge
+          fetch-depth: 0
+    
+      - name: Generate the sitemap
+        id: sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://blacklightpy.github.io/vaultofknowledge
+          additional-extensions: jpg jpeg png webp gif
