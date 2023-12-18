@@ -24,6 +24,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: vaultofknowledge
         
       - name: Generate the sitemap
         id: sitemap
