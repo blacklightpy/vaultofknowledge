@@ -1,9 +1,10 @@
 name: Generate sitemap
 
 on:
-  push:
-    branches:
-      - gh-pages
+  page_build
+  #push:
+  #  branches:
+  #    - gh-pages
 
 jobs:
   build:
