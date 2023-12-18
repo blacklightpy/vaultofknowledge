@@ -15,7 +15,6 @@ jobs:
         with:
           ref: main
           path: vaultofknowledge
-          fetch-depth: 1
     
       - name: Install dependencies and run build
         run: |
