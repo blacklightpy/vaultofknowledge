@@ -71,8 +71,6 @@ jobs:
         with:
           github_token: "${{ secrets.GITHUB_TOKEN }}"
           commit_message: "Added sitemap"
-          force: false
-          target_branch: gh-pages
           
       - name: Output sitemap stats
         run: |
