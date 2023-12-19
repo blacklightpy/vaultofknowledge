@@ -23,4 +23,4 @@
 	- Set locale
 	- Set timezone
 	- Install essential software like Mesa3D
-	- 
+	- For Steam: `useradd -u <UID> -m -G audio,video steam` (create)
