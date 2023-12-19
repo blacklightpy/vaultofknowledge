@@ -7,10 +7,31 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Shaktism
 - Smartism
 
+## Scriptures
+- Srutis (eternal words)
+  - Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)
+    - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
+    - Vedangas / Supplimentaries: (Shiksha, Chandas, Vyakarana, Nirukta, Kalpa, Jyotisha)
+- Smritis (human works)
+  - Ithihasas (Mahabharatam, Ramayanam)
+    - Bhagavad Gita is a part of Mahabharatam
+  - Puranas (18 in Number)
+    - Bhagavata Purana / Sreemad Bhagavatam (last by Ved Vyas; begins where Bhagavad Gita ends; most important Purana)
+  - Upa Puranas (18 in Number)
+  - Tantras / Agamas
+    - Astya (Orthodox Hindu schools of philosophy)
+      - Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)
+    - Nastya (Hindu schools of philosophy not accepting of Vedic authority)
+  - Sangam Literature
+    - Five Great Epics (includes Silappatikaram)
+   
+![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
+
+
 ## Books
-- Lalita Sahasranamam
-- Saundarya Lahari
-- Devi Mahatmyam
+- Lalita Sahasranamam (from Brahmanda Purana)
+- Saundarya Lahari (Tantra text)
+- Devi Mahatmyam (from Markandeya Purana)
 
 ---
 ## Caste Divisions / Chatur Varnas
