@@ -2,3 +2,6 @@
 - But why is the water at the bottom pushing upwards?
 	- Pressure is the volumetric energy of the particles in the fluid
 	- Technically, you can apply this to solids too, as energy per unit volume is the normal force per unit area.
+	- For air, the energy is due to the collisions of the number of particles, due to compression increasing the number of particles per unit volume
+	- For fluids and solids, the energy due to the restorative forces, acting like compressed springs, due to incompressibility
+	- Because of the energy, it exerts a force on the body, pushing on it in the normal direction(s)
