@@ -13,8 +13,13 @@ I'll start by looking at the filesystem, in Void Linux
 	- ??
 - /etc : Configurations
 - /home : User home directory
-	- Stores app configurations in .config
-	- Stores local installations in .local
+	- Stores software configurations in `.config`
+	- Stores local software files in `.local`
+	- Stores software cache in `.cache` and in the root folder
+	- Important files include
+		- X11 Related: `.XAuthority`, `.xprofile`, `.xinitrc`
+		- Bash Shell Profile: `.bashrc`
+		- Bash History
 - /proc : A ton of interfaces
 	- ??
 - /root : Root home directory
