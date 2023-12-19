@@ -12,10 +12,11 @@ I'll start by looking at the filesystem, in Void Linux
 - /dev : A ton of interfaces
 	- ??
 - /etc : Configurations
-- /home : User home directory
-	- Stores software configurations in `.config`
-	- Stores local software files in `.local`
+- /home/`` : User home directory
+	- Stores user specific software configurations in `.config` and in the root folder
+	- Stores local software files in `.local`, but in a more casual style compared to `/usr/local`
 	- Stores software cache in `.cache` and in the root folder
+	- Flatpak uses `.var` folder to store user specific app installations
 	- Commonplace files include
 		- X11 Related: `.XAuthority`, `.xprofile`, `.xinitrc`
 		- Bash Related: `.bashrc`, `.bash_history`, `.bash_profile`, `.bash_logout`
