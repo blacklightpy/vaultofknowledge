@@ -3,7 +3,7 @@
 - Copy `/etc/resolv.conf` to `chroot-dir/etc`
 	- Set permissions: `chmod a+r etc/resolv.conf`
 - Make any other mounts
-	- `mkdir var/db/repos/gentoo`  (Gentoo example)
+	- `mkdir var/db/repos/gentoo`  (Gentoo example: package manager db)
 - mount the required directories
 	- `mount -t proc /proc proc`
 	- `mount -R /sys sys`
@@ -14,3 +14,5 @@
 > [!NOTE]
 > `mount -t` has the syntax `mount -t type [device] [directory]`
 > `mount -R` is an alias for `mount --rbind`, and has the syntax `mount -R [directory] [device]`
+
+- 
