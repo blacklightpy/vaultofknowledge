@@ -12,7 +12,14 @@ I'll start by looking at the filesystem, in Void Linux
 - /dev : A ton of interfaces
 	- ??
 - /etc : Configurations
-- /home/`` : User home directory
+	- Commonplace files include
+		- `hosts` : Stores host configuration
+		- `passwd` : Stores user ID mappings
+		- `shadow` : Stores user passwords
+		- `sudoers` : Stores sudo configuration
+		- `hostname` : Stores hostname
+		- `resolv.conf` : Stores DNS Resolver configuration
+- /home/username : User home directory
 	- Stores user specific software configurations in `.config` and in the root folder
 	- Stores local software files in `.local`, but in a more casual style compared to `/usr/local`
 	- Stores software cache in `.cache` and in the root folder
