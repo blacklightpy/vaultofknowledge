@@ -16,10 +16,12 @@ I'll start by looking at the filesystem, in Void Linux
 	- Stores software configurations in `.config`
 	- Stores local software files in `.local`
 	- Stores software cache in `.cache` and in the root folder
-	- Important files include
+	- Commonplace files include
 		- X11 Related: `.XAuthority`, `.xprofile`, `.xinitrc`
-		- Bash Shell Profile: `.bashrc`
-		- Bash History
+		- Bash Related: `.bashrc`, `.bash_history`, `.bash_profile`, `.bash_logout`
+		- Git Config: `.gitconfig`
+		- Miscellaneous: `.python_history`
+		- I don't know what: `.inputrc`, `.lesshst`, `.gtkrc-2.0`, `.profile`, `.wget-hsts`
 - /proc : A ton of interfaces
 	- ??
 - /root : Root home directory
