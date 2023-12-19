@@ -227,22 +227,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fbe1d65169e52ee9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using Emacs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -309,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using Emacs.md",
+                "file": "Understanding Buoyancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using Emacs.md",
+                "file": "Understanding Buoyancy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Using Emacs.md"
+                "file": "Understanding Buoyancy.md"
               }
             }
           },
@@ -395,7 +382,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fbe1d65169e52ee9",
+  "active": "fa5b4fdd811d45f4",
   "lastOpenFiles": [
     "Using Emacs.md",
     "Understanding Buoyancy.md",
