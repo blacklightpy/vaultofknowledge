@@ -19,7 +19,7 @@ I'll start by looking at the filesystem, in Void Linux
 		- `sudoers` : Stores sudo configuration
 		- `hostname` : Stores FQDN and partial hostname mappings to IPs, aside from DNS
 		- `resolv.conf` : Stores DNS Resolver configuration
-		- `nsswitch.conf` : Sets the order of DNS resolution 
+		- `nsswitch.conf` : Sets the order of host resolution by system library functions
 - /home/username : User home directory
 	- Stores user specific software configurations in `.config` and in the root folder
 	- Stores local software files in `.local`, but in a more casual style compared to `/usr/local`
