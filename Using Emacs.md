@@ -2,7 +2,7 @@
 - mu4e (Mail)
 - elfeed (News)
 - rcirc
-- magit
+- magit (Git)
 - org-mode (Organization)
 - org-roam (Roam Research mode for org-mode)
 
