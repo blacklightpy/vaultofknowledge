@@ -13,6 +13,8 @@ I'll start by looking at the filesystem, in Void Linux
 	- ??
 - /etc : Configurations
 - /home : User home directory
+	- Stores app configurations in .config
+	- Stores local installations in .local
 - /proc : A ton of interfaces
 	- ??
 - /root : Root home directory
@@ -30,4 +32,5 @@ I'll start by looking at the filesystem, in Void Linux
 	- /usr/share : Shared assets
 		- Includes `fonts`, `applications`, `icons`, ...
 	- /usr/src : Empty folder
-- /var : 
+- /var : A ton of runtime files
+	- ??
