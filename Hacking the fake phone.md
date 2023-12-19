@@ -16,4 +16,26 @@ ro.board.platform=mt6580
 ro.build.product=yuanda6580_we_l
 /# do not try to parse description, fingerprint or thumbprint
 ro.build.description=full_yuanda6580_we_l-user 5.1 LMY47I 1561359554 release-keys
-ro.build.fingerprint=alps/full_yuanda
+ro.build.fingerprint=alps/full_yuanda6580_we_l/yuanda6580_we_l:5.1/LMY47I/1561359554:user/release-keys
+
+persisit.sys.timezone=Asia/Shanghai
+persist.sys.ram=1
+persist.sys.devicememory=1
+persist.sys.FrontCamera=3
+persist.sys.BackCamera=5
+
+/# end build properties
+/#
+/# from device/yuanda/yuanda6580_we_l/system.prop
+/#
+/#
+/# system.prop for generic sdk
+/#
+
+
+
+
+ro.mediatek.version.release=ALPS.L1.MP6.V2_YUANDA6580.WE.L
+
+mediatek.wlan.chip=CONSYS_MT6735
+ro.com.google.gmsversion=5.1
