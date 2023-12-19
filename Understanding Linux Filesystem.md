@@ -6,6 +6,7 @@ I'll start by looking at the filesystem, in Void Linux
 	- Includes C/C++ Libraries in `/usr/lib/gcc/<arch-kernel-libc>`
 	- The root folder includes the C shared libraries
 	- Subfolders include package specific libraries, like Python, GCC, etc.
+	- Some applications (especially in `/usr/local/lib`) put files in the root folder too
 - /usr/lib32 : The multilib library path (symlinks: /lib32)
 - /boot : The boot files - EFI and GRUB
 - /dev : A ton of interfaces
@@ -27,5 +28,6 @@ I'll start by looking at the filesystem, in Void Linux
 	- /usr/local : The manual installations as opposed to package manager installations
 		- Has `/usr/local/bin`, `/usr/local/lib`, `/usr/local/include` and `/usr/local/share`
 	- /usr/share : Shared assets
+		- Includes `fonts`, `applications`, `icons`, ...
 	- /usr/src : Empty folder
 - /var : 
