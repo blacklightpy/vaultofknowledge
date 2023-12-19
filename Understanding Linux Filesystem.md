@@ -13,12 +13,13 @@ I'll start by looking at the filesystem, in Void Linux
 	- ??
 - /etc : Configurations
 	- Commonplace files include
-		- `hosts` : Stores host configuration
+		- `hosts` : Stores system host name
 		- `passwd` : Stores user ID mappings
 		- `shadow` : Stores user passwords
 		- `sudoers` : Stores sudo configuration
-		- `hostname` : Stores hostname
+		- `hostname` : Stores FQDN and partial hostname mappings to IPs, aside from DNS
 		- `resolv.conf` : Stores DNS Resolver configuration
+		- `nsswitch.conf` : Sets the order of DNS resolution 
 - /home/username : User home directory
 	- Stores user specific software configurations in `.config` and in the root folder
 	- Stores local software files in `.local`, but in a more casual style compared to `/usr/local`
