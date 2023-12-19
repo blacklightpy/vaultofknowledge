@@ -1,3 +1,4 @@
+- Optional: Run the commands as `root` instead of elevating at each command by `sudo` or `doas`
 - Make directory and enter it
 - Unpack a stage-3 Gentoo tarball / Bootstrap a distro
 - Copy `/etc/resolv.conf` to `chroot-dir/etc`
@@ -7,9 +8,10 @@
 - Mount the required directories
 	- `mount -t proc /proc proc`
 	- `mount -R /sys sys`
-	- `mount -R /dev dev`
-	- `mount -R /run run`
+	- `mount -R /dev dev`  (Steam requires `/dev/shm`)
+	- `mount -R /run run` (For accessing D-Bus; essential for some optional convenience features of Steam)
 	- `mount -R /var/db/repos/gentoo var/db/repos/gentoo` (Gentoo example)
+	- If using `systemd`, do `mount --`
 
 > [!NOTE]
 > `mount -t` has the syntax `mount -t type [device] [directory]`
@@ -27,8 +29,8 @@
 - Unmount mounted directories
 	- `umount -l proc`
 	- `umount -l sys`
-	- `umount -l dev` (Steam requires /dev/shm)
-	- `umount -l run` (For accessing D-Bus; essential for some optional convenience features of Steam)
+	- `umount -l dev`
+	- `umount -l run`
 	- `umount -l var/db/repos/gentoo`
 - Optional (For Steam on X11)
 	- For Steam
@@ -38,4 +40,51 @@
 		- Install `xhosts` on the host and restart the display manager to allow X11 forwarding to `chroot`
 		- This allows the DM or `xinit` to grant permissions according to `xhosts` to the local UID
 		- A more insecure method is to run `xhosts +local`, which will allow any user to access X Server. Revoke this by `xhosts -local`
-- 
+# Example Wrapper Script for Steam
+
+```sh
+#!/bin/sh
+ 
+# steam chroot bits
+chroot_bits="64"
+ 
+# steam chroot directory
+chroot_dir="/usr/local/steam64/"
+ 
+# check if chroot bits is valid
+if [ "${chroot_bits}" = "32" ] ; then
+  chroot_arch="linux32"
+elif [ "${chroot_bits}" = "64" ] ; then
+  chroot_arch="linux64"
+else
+  printf "Invalid chroot bits value '%s'. Permitted values are '32' and '64'.\n" "${chroot_bits}"
+  exit 1
+fi
+ 
+# check if the chroot directory exists
+if [ ! -d "${chroot_dir}" ] ; then
+  printf "The chroot directory '%s' does not exist!\n" "${chroot_dir}"
+  exit 1
+fi
+ 
+# mount the chroot directories
+mount -v -t proc /proc "${chroot_dir}proc"
+mount -vR /sys "${chroot_dir}sys"
+mount --make-rslave "${chroot_dir}sys"
+mount -vR /dev "${chroot_dir}dev"
+mount --make-rslave "${chroot_dir}dev"
+mount -vR /run "${chroot_dir}run"
+mount --make-rslave "${chroot_dir}run"
+mount -vR /var/db/repos/gentoo "${chroot_dir}var/db/repos/gentoo"
+# the --make-rslave flags are needed for systemd support (not needed in runit)
+ 
+# chroot, substitute user, and start steam
+"${chroot_arch}" chroot "${chroot_dir}" su -c 'steam' steam
+ 
+# unmount the chroot directories when steam exits
+umount -vl "${chroot_dir}proc"
+umount -vl "${chroot_dir}sys"
+umount -vl "${chroot_dir}dev"
+umount -vl "${chroot_dir}run"
+umount -vl "${chroot_dir}var/db/repos/gentoo"
+```
