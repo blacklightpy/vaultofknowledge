@@ -16,4 +16,11 @@ I'll start by looking at the filesystem, in Void Linux
 - /run : A ton of runtime interfaces
 	- ??
 - Empty standard directories : /media /mnt /opt /srv
-- /tmp : Temp directory
+- /tmp : Temporary directory
+- Other /usr Subdirectories:
+	- /usr/include
+	- /usr/libexec
+	- /usr/local : The manual installations as opposed to package manager installations
+	- /usr/share : Shared assets
+	- /usr/src : Empty folder
+- /var : 
