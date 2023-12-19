@@ -355,6 +355,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
