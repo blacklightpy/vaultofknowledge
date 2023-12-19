@@ -1,0 +1,1 @@
+- If the bottom has no pressure to form a difference, there is no buoyancy. For example, in suction cups.
