@@ -1,3 +1,6 @@
+# The easy way
+- Install Atoms from Flatpak, and you get an easy GUI
+# The manual way
 - Optional: Run the commands as `root` instead of elevating at each command by `sudo` or `doas`
 - Make directory and enter it
 - Unpack a stage-3 Gentoo tarball / Bootstrap a distro
@@ -11,11 +14,17 @@
 	- `mount -R /dev dev`  (Steam requires `/dev/shm`)
 	- `mount -R /run run` (For accessing D-Bus; essential for some optional convenience features of Steam)
 	- `mount -R /var/db/repos/gentoo var/db/repos/gentoo` (Gentoo example)
-	- If using `systemd`, do `mount --`
+	- If using `systemd`, do `mount --make-rslave path` for `sys`, `dev` and `run`
 
 > [!NOTE]
 > `mount -t` has the syntax `mount -t type [device] [directory]`
 > `mount -R` is an alias for `mount --rbind`, and has the syntax `mount -R [directory] [device]`
+
+
+> [!NOTE] Regarding mount directories
+> Look at the distro documentation and the app requirements to decide what directories to mount. It is better to invoke chroot by an script which unmounts the paths when the program exits, to avoid accidentally deleting the mounted files.
+> 
+> Generally
 
 - `chroot dir` : Enter chroot 
 	- Use `linux64 chroot dir` if on a 32-bit OS and need to run a 64 bit program (`linux64` is an alias to `setarch linux64`)
@@ -41,6 +50,7 @@
 		- This allows the DM or `xinit` to grant permissions according to `xhosts` to the local UID
 		- A more insecure method is to run `xhosts +local`, which will allow any user to access X Server. Revoke this by `xhosts -local`
 # Example Wrapper Script for Steam
+This simply makes a `chroot` and runs `steam`
 
 ```sh
 #!/bin/sh
