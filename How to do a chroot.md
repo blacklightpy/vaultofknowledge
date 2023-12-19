@@ -16,7 +16,11 @@
 > `mount -R` is an alias for `mount --rbind`, and has the syntax `mount -R [directory] [device]`
 
 - `chroot dir` : Enter chroot 
-	- Use `linux64 chroot dir` if not on `amd64` (`linux64` is an alias to `setarch linux64`)
+	- Use `linux64 chroot dir` if on a 32-bit OS and need to run a 64 bit program (`linux64` is an alias to `setarch linux64`)
 - `env update && source /etc/profile` : Load environment variables
 - `export PS1="(chroot) $PS1"` : Set shell prompt
-- 
+- Perform other configurations
+	- Set locale
+	- Set timezone
+	- Install essential software like Mesa3D
+	- 
