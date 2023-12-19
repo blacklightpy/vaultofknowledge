@@ -2,6 +2,9 @@ I'll start by looking at the filesystem, in Void Linux
 
 - /usr/bin : The binary path (symlinks: /bin /sbin)
 - /usr/lib : The library path (symlinks: /lib /lib64)
+	- Includes Python in, because many programs depend on Python runtime; in `/usr/lib/python3`
+	- Includes C/C++ Libraries in `/usr/lib/gcc/<arch-kernel-libc>`
+	- The root folder includes the C
 - /usr/lib32 : The multilib library path (symlinks: /lib32)
 - /boot : The boot files - EFI and GRUB
 - /dev : A ton of interfaces
