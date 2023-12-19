@@ -23,15 +23,19 @@
 	- Set locale
 	- Set timezone
 	- Install essential software like Mesa3D
-	- For Steam
-		- Run `id -u` from outside the chroot to get the local user's UID
-		- `useradd -u <UID> -m -G audio,video steam` : Create steam user with the same UID as the user
 - Exit
 - Unmount mounted directories
 	- `umount -l proc`
 	- `umount -l sys`
-	- `umount -l dev`
-	- `umount -l run`
+	- `umount -l dev` (Steam requires /dev/shm)
+	- `umount -l run` (For accessing D-Bus; essential for some optional convenience features of Steam)
 	- `umount -l var/db/repos/gentoo`
-- Optional: Install `xhosts` on the host and restart the display manager to allow X11 forwarding to `chroot`
-	- This an
+- Optional (For Steam on X11)
+	- For Steam
+		- Run `id -u` from outside the chroot to get the local user's UID
+		- `useradd -u <UID> -m -G audio,video steam` : Create steam user with the same UID as the user
+	- For X11 Forwarding
+		- Install `xhosts` on the host and restart the display manager to allow X11 forwarding to `chroot`
+		- This allows the DM or `xinit` to grant permissions according to `xhosts` to the local UID
+		- A more insecure method is to run `xhosts +local`, which will allow any user to access X Server. Revoke this by `xhosts -local`
+- 
