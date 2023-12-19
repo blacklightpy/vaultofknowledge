@@ -4,7 +4,7 @@
 	- Set permissions: `chmod a+r etc/resolv.conf`
 - Make any other mounts
 	- `mkdir var/db/repos/gentoo`  (Gentoo example: package manager db)
-- mount the required directories
+- Mount the required directories
 	- `mount -t proc /proc proc`
 	- `mount -R /sys sys`
 	- `mount -R /dev dev`
@@ -23,4 +23,15 @@
 	- Set locale
 	- Set timezone
 	- Install essential software like Mesa3D
-	- For Steam: `useradd -u <UID> -m -G audio,video steam` (create)
+	- For Steam
+		- Run `id -u` from outside the chroot to get the local user's UID
+		- `useradd -u <UID> -m -G audio,video steam` : Create steam user with the same UID as the user
+- Exit
+- Unmount mounted directories
+	- `umount -l proc`
+	- `umount -l sys`
+	- `umount -l dev`
+	- `umount -l run`
+	- `umount -l var/db/repos/gentoo`
+- Optional: Install `xhosts` on the host and restart the display manager to allow X11 forwarding to `chroot`
+	- This an
