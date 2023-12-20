@@ -216,19 +216,6 @@
             }
           },
           {
-            "id": "fa5b4fdd811d45f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding Buoyancy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1c31d5b0de95ec05",
             "type": "leaf",
             "state": {
@@ -242,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -309,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding Buoyancy.md",
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understanding Buoyancy.md",
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understanding Buoyancy.md"
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md"
               }
             }
           },
@@ -395,12 +382,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fa5b4fdd811d45f4",
+  "active": "f2def58a9cb66255",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Understanding Buoyancy.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
+    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Spring Equation.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Understanding Linux Filesystem.md",
     "Qt for Android.md",
     "How to do a chroot.md",
-    "Understanding Buoyancy.md",
     "Hacking the fake phone.md",
     "Using Emacs.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
@@ -420,9 +411,6 @@
     "Z2-Rough Notes 2/Thoughts to Complete/Untitled 1.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Philosophy/Smell.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Arguments against Religion 2.md",
-    "Z1-Rough Notes/Motors.md",
-    "Z1-Rough Notes/Methods in Fluid Dynamics.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
@@ -441,7 +429,6 @@
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
     "History/Current Affairs/India Pakistan Conflict",
-    "History/Current Affairs/Israel Palestine Conflict",
-    "History/Current Affairs"
+    "History/Current Affairs/Israel Palestine Conflict"
   ]
 }

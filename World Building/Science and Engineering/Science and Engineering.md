@@ -506,6 +506,9 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[cam synthesis]]
 		- [[Classical Mechanics]]
 		- **Continuum Mechanics**
+			- **Fluid Mechanics**
+				- [[Capillary Action]]
+				- [[Understanding Buoyancy]]
 			- **Solid Mechanics**
 				- [[Fracture Mechanics]]
 				- [[Strength]]
