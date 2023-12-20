@@ -1,3 +1,5 @@
+- Upthrust = Weight of Displaced Fluid = Volume x Density
+	- So it is about relative density
 - If the bottom has no pressure to form a difference, there is no buoyancy. For example, in suction cups.
 - But why is the water at the bottom pushing upwards?
 	- Pressure is the volumetric energy of the particles in the fluid
