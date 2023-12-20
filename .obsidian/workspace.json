@@ -234,7 +234,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understanding Linux Filesystem.md",
+                "file": "How to do a chroot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding Linux Filesystem.md",
+                "file": "How to do a chroot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understanding Linux Filesystem.md",
+                "file": "How to do a chroot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understanding Linux Filesystem.md"
+                "file": "How to do a chroot.md"
               }
             }
           },
@@ -397,13 +397,13 @@
   },
   "active": "1c31d5b0de95ec05",
   "lastOpenFiles": [
+    "Understanding Linux Filesystem.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Understanding Buoyancy.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Spring Equation.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
-    "Understanding Linux Filesystem.md",
     "Qt for Android.md",
     "How to do a chroot.md",
     "Hacking the fake phone.md",
