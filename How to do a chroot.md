@@ -48,6 +48,11 @@
 		- Install `xhosts` on the host and restart the display manager to allow X11 forwarding to `chroot`
 		- This allows the DM or `xinit` to grant permissions according to `xhosts` to the local UID
 		- A more insecure method is to run `xhosts +local`, which will allow any user to access X Server. Revoke this by `xhosts -local`
+# Other considerations
+- Copy `/lib/modules/$(uname -r)`  to `lib/modules`: For kernel modules
+- Re-mount vs Bind mount
+- `/dev/pts`
+- Files like `/etc/passwd`, `/etc/shadow`, `/etc/groups`, sshd server keys
 # Example Wrapper Script for Steam
 This simply makes a `chroot` and runs `steam`
 
