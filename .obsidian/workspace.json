@@ -391,8 +391,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "1c31d5b0de95ec05",
