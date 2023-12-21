@@ -24,6 +24,8 @@
 > Look at the distro documentation and the app requirements to decide what directories to mount. It is better to invoke chroot by an script which unmounts the paths when the program exits, to avoid accidentally deleting the mounted files.
 > 
 > Generally we mount `/proc`, `/dev/shm`, `/dev/pts` and `/run` (for XDG and D-Bus related stuff)
+> 
+> - Atoms uses `proot` which mounts a number of directories and files, and it is worth taking note of too.
 
 - `chroot dir` : Enter chroot 
 	- Use `linux64 chroot dir` if on a 32-bit OS and need to run a 64 bit program (`linux64` is an alias to `setarch linux64`)
