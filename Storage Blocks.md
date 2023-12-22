@@ -12,4 +12,5 @@
 - Operating systems often use larger blocks of 4096 bytes called a "page" or an "allocation unit".
 	- A page consists of 8 sectors.
 - Modern disks are also using physical sizes or sectors of 4096 bytes.
-	- This can make the operating systems that don
+	- This can make the operating systems that write in 512 byte sectors inefficient, because the disk has to read 4096 bytes to access just 512 bytes on every read/write.
+- SSDs use physical units of 512K bytes.
