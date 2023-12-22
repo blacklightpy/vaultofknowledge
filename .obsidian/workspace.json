@@ -227,9 +227,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9ede443c0609b6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -296,7 +304,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storage Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +320,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storage Blocks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -332,9 +338,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Storage Blocks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -382,7 +386,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c69310dab5e5bf70",
+  "active": "b9ede443c0609b6e",
   "lastOpenFiles": [
     "Storage Blocks.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
