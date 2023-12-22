@@ -227,22 +227,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b9ede443c0609b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manual vs Automated.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -309,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manual vs Automated.md",
+                "file": "Storage Blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manual vs Automated.md",
+                "file": "Storage Blocks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manual vs Automated.md"
+                "file": "Storage Blocks.md"
               }
             }
           },
@@ -395,7 +382,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b9ede443c0609b6e",
+  "active": "c69310dab5e5bf70",
   "lastOpenFiles": [
     "Manual vs Automated.md",
     "Storage Blocks.md",
