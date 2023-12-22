@@ -3,4 +3,5 @@
 
 - When typing on a phone or with a keyboard, the press of a control point generates a glyph on the presenter device, digitally.
 - The glyph is a representation of the data, so a press from you generated an ASCII character, which was displayed as a glyph. So by your hand, you stored signals onto the digital storage.
-- But when code is automated, the press of a single button sets a lot of things into action, and 
+- But when code is automated, the press of a single button sets a lot of things into action, and a binary is generated. This is like using an electric car.
+- Using a complex program also performs a similar role, and most of the times, the user doesn't really understand what's going on under the hood. 
