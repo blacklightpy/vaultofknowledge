@@ -232,8 +232,13 @@
             "id": "b9ede443c0609b6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Manual vs Automated.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -304,6 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Manual vs Automated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,6 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Manual vs Automated.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -338,7 +345,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Manual vs Automated.md"
+              }
             }
           },
           {
@@ -388,6 +397,7 @@
   },
   "active": "b9ede443c0609b6e",
   "lastOpenFiles": [
+    "Manual vs Automated.md",
     "Storage Blocks.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "CMake.md",
@@ -414,7 +424,6 @@
     "History/Religion/Arguments against Islam.md",
     "History/Religion/Connection of Semitic and Aryan religions.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
-    "Literature/Origin of Writing.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",

@@ -1,0 +1,6 @@
+- When you write something, you usually use your hand and ink.
+- Even using a pen automates the flow of the ink by the shape of the container and the nib, as opposed to writing with a feather, or by hand-painting.
+
+- When typing on a phone or with a keyboard, the press of a control point generates a glyph on the presenter device, digitally.
+- The glyph is a representation of the data, so a press from you generated an ASCII character, which was displayed as a glyph. So by your hand, you stored signals onto the digital storage.
+- But when code is automated, the press of a single button sets a lot of things into action, and 
