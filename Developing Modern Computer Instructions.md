@@ -1,5 +1,5 @@
 - Instead of `git clone <repository>`
 	- CLONE USING GIT: REPOSITORY
 	- CLONE REPOSITORY USING GIT
-- We must remember that we first designed tools without an abstract interface, such as running 
+- We must remember that we first designed tools without an abstract interface, even for something as simple as a water spray bottle. At first, we had to collect the water in a mug and pour water, but later, we developed spray cans, where it becomes easier for the user to simply press a button, and have the mechanical system output the right amount of spray. This isn't automated, as compared to a clockwork automaton, however, it
 - The computer looks at the command
