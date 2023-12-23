@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Modern Computer Instructions.md",
+                "file": "How to configure a system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Modern Computer Instructions.md",
+                "file": "How to configure a system.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Modern Computer Instructions.md"
+                "file": "How to configure a system.md"
               }
             }
           },
@@ -395,10 +395,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0f08bb298d370a74",
+  "active": "2291c9f9808f2b38",
   "lastOpenFiles": [
-    "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
+    "How to configure a system.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
     "Storage Blocks.md",
     "Manual vs Automated.md",
