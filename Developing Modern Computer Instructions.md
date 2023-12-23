@@ -1,0 +1,5 @@
+- Instead of `git clone <repository>`
+	- CLONE USING GIT: REPOSITORY
+	- CLONE REPOSITORY USING GIT
+- We must remember that we first designed tools without an abstract interface, such as running 
+- The computer looks at the command
