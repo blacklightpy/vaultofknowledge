@@ -12,9 +12,8 @@ You must also set a limit on the features, because otherwise you will never fini
 > This is the reason for the appeal towards simple systems.
 > 
 >
-> > [!NOTE]
-> > Note that simple doesn't mean easy, as easy often refers to having to do no effort at all, while simple is about having finer control over the systems. Also, complex doesn't necessarily mean complicated, as a system that can be built from several parts can still be easy to work with.
->
-> > [!NOTE]
-> > - Design: Simple, Complex
-> > - Experience: Easy, Complicated
+> Note that simple doesn't mean easy, as easy often refers to having to do no effort at all, while simple is about having finer control over the systems. Also, complex doesn't necessarily mean complicated, as a system that can be built from several parts can still be easy to work with. 
+
+> [!NOTE]
+> - **Design:** Simple, Complex
+> - **Experience:** Easy, Complicated
