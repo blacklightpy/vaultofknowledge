@@ -20,14 +20,17 @@ So, I put 2 for the number of great-grandparents (or Gen 4, Gen 1 being my gener
 
 Next, I went down to their children, and I assumed they would have Y children.
 
-**NOTE: X would be the number of children (siblings) in Gen 4, Y would be the same number of Gen 3, Z would be that for Gen 2 and N would be the number of siblings for Gen 1.**
+> **NOTE:** X would be the number of children (siblings) in Gen 4, Y would be the same number of Gen 3, Z would be that for Gen 2 and N would be the number of siblings for Gen 1.
 
 So, the number of members in Gen 3 would be *(oops, I realized my mistake, and I'll be adding corrections as I write here)*: (1 + 2X)Y *(I first calculated it as 2+2X, but really, both father and mother doesn't have separate number of children, but in case of siblings, there are X on each side, and we didn't count their spouses, so 2X is valid.)*
 
 > Please remember BODMAS, because I don't want to make the symbols look weird by using too many brackets
 
 The total number of people will be: 2+2(2X) + (1+2X)Y
-I will refactor it as {2\[2(1+X)-1\]} + \[2(1+X)\-1\]Y   \[(2(1+X) is better than 2+2X for the number of people,\]
+I will refactor it as {2\[2(1+X)-1\]} + \[2(1+X)\-1\]Y    -> \[2(1+X) is better than 2+2X for the number of people by modelling, and also when considering spouses, it becomes 2\[2(1+X)-1\] because the couple we started with to get the two sides are already married! Amazing how genetic binding is expressed mathematically.\]
+
+This simplifies to 2 + 4X + Y + 2XY (I'll put them in brackets as (2 + Y)+(4X + 2XY) to group parents and their kids together.)
 
 Since they will marry and have children *(again realizing the effects of that mistake, and correcting it)*, they will then have Z children each, so the number of children will be 
 ### Model 2: Starting at the bottom
+

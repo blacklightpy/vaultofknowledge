@@ -1,5 +1,5 @@
 # To Do
-
+## Window Manage
 
 ## GNOME
 - GNOME the first and only rice (https://www.reddit.com/r/unixporn/comments/12tmdtb/gnome_first_and_only_rice_on_gnome/)
