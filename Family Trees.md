@@ -1,5 +1,4 @@
 I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I think I've arrived at a general formula.
-
 ## Premise
 These are the generations (except great-great-grandparents) up to which I'm interested in calculating. Most likely I won't be able to complete all the data, but at least I can try.
 
@@ -41,5 +40,5 @@ This simplifies to: 8 + 16X + 2Y + 4XY + YZ + 2XYZ
 I can group them as 2{\[2 + Y + Z\] + \[4X + 2XY + 2XYZ\]}
 
 Coming to Gen 2, we can use the same method and get the number of children.
+The number of children will be 
 ### Model 2: Starting at the bottom
-
