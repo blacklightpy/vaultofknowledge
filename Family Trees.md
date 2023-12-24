@@ -24,8 +24,10 @@ Next, I went down to their children, and I assumed they would have Y children.
 
 So, the number of members in Gen 3 would be *(oops, I realized my mistake, and I'll be adding corrections as I write here)*: (1 + 2X)Y *(I first calculated it as 2+2X, but really, both father and mother doesn't have separate number of children, but in case of siblings, there are X on each side, and we didn't count their spouses, so 2X is valid.)*
 
+> Please remember BODMAS, because I don't want to make the symbols look weird by using too many brackets
+
 The total number of people will be: 2+2(2X) + (1+2X)Y
-I will refactor it as {2\[2(1+X)\]} + {}
+I will refactor it as {2\[2(1+X)-1\]} + \[2(1+X)\-1\]Y   \[(2(1+X) is better than 2+2X for the number of people,\]
 
 Since they will marry and have children *(again realizing the effects of that mistake, and correcting it)*, they will then have Z children each, so the number of children will be 
 ### Model 2: Starting at the bottom
