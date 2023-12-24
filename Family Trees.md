@@ -38,6 +38,6 @@ The total number of people upto Gen 4 people due to family expansion would be 2(
 The total number of people will be 2(2+4X) + 2\[(2 + Y)+(4X + 2XY)\] + (1+2X)YZ.
 
 This simplifies to: 8 + 16X + 2Y + 4XY + YZ + 2XYZ
-I can group them as (4 + 8X) + ()
+I can group them as 2{\[2 + Y + Z\] + \[4X + 2XY\]}
 ### Model 2: Starting at the bottom
 
