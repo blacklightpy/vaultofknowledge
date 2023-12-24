@@ -3,7 +3,7 @@
 ### 1.1. Desktop Shells
 - dwm
 - awesome-wm
-- LCARS DE
+- LCARS DE (build failed in Void)
 #### 1.1. Specific Desktop Shell Configurations
 - \[GNOME\] GNOME the first and only rice (https://www.reddit.com/r/unixporn/comments/12tmdtb/gnome_first_and_only_rice_on_gnome/)
 - \[dwm\] dwm
