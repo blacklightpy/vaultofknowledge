@@ -44,6 +44,12 @@
 #### 1.1. Specific Desktop Shell Configurations
 - \<nothing-yet\>
 ### 1.2. Desktop Widget Toolkits
-
+#### Specific Widget Sets
 ## 2. Specific Desktop Shell Configurations
 - \[AGS\] Aylur's Dotfiles w/ Hyprland
+## 3. Other Experience Components
+### 3.1. Login Manager Greeter
+#### 3.1.1. Specific Greeters
+##### 3.1.1.1. Specific Greeter Themes
+### 3.2. Boot Splash
+#### 3.2.1. Specific Themes
