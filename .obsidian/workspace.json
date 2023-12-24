@@ -252,8 +252,7 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "4f4b627a28f586cf"
+            }
           },
           {
             "id": "cedc0fb43eb052fc",
@@ -283,23 +282,6 @@
           }
         ],
         "currentTab": 18
-      },
-      {
-        "id": "7a6367831d30d5dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "52c5c8c8ca6a21ce",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md"
-              }
-            },
-            "group": "4f4b627a28f586cf"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -452,7 +434,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "52c5c8c8ca6a21ce",
+  "active": "c44d69e882960f23",
   "lastOpenFiles": [
     "How to configure a system.md",
     "Developing Modern Computer Instructions.md",

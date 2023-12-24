@@ -1,37 +1,41 @@
-
 # To Do
-## Desktop Shells
+## 1. Desktop Shells
 - dwm
 - awesome-wm
 - LCARS DE
-### Specific Desktop Shell Configurations
+### 1.1. Specific Desktop Shell Configurations
 - \[GNOME\] GNOME the first and only rice (https://www.reddit.com/r/unixporn/comments/12tmdtb/gnome_first_and_only_rice_on_gnome/)
 - \[dwm\] dwm
 - \[dwm\] chadwm with Nord theme
 - \[awesome wm\]\[picom\] awesome-wm with picom effects
 
 > **NOTE:** Not sorting because multi-valued entries can't be sorted.
-## UI Style Components
+### 1.2. Desktop Widget Toolkits
+- EWW
+- AGS
+- 
+## 2. UI Style Components
 - I like Aqua-Joy GTK2 theme
-## Other Experience Components
-### Login Manager Greeter
+## 3. Other Experience Components
+### 3.1. Login Manager Greeter
 - XDM
 - GDM
 - SDDM
 - LXDM
 - LightDM
-#### Specific Greeters
+#### 3.1.1. Specific Greeters
 - LightDM WebKit2 Greeter
 - LightDM Slick Greeter
-##### Specific Greeter Themes
+##### 3.1.1.1. Specific Greeter Themes
 - \[LightDM WebKit2 Greeter\] \<placeholder-for-theme\>
-### Boot Splash
+### 3.2. Boot Splash
 - Plymouth
-#### Specific Themes
+#### 3.2.1. Specific Themes
 - \[Plymouth\] \<placeholder-for-theme\>
 # Done
-## Desktop Shells
+## 1. Desktop Shells
 - Hyprland
 - GNOME
 - KDE Plasma
-## Specific Desktop Shell Configurations
+## 2. Specific Desktop Shell Configurations
+- \[AGS\] Aylur's Dotfiles w/ Hyprland
