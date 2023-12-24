@@ -1,3 +1,4 @@
+
 # To Do
 ## Desktop Shells
 - dwm
@@ -8,6 +9,8 @@
 - \[dwm\] dwm
 - \[dwm\] chadwm with Nord theme
 - \[awesome wm\]\[picom\] awesome-wm with picom effects
+
+> **NOTE:** Not sorting because multi-valued entries can't be sorted.
 ## UI Style Components
 - I like Aqua-Joy GTK2 theme
 ## Other Experience Components
@@ -17,8 +20,15 @@
 - SDDM
 - LXDM
 - LightDM
+#### Specific Greeters
+- LightDM WebKit2 Greeter
+- LightDM Slick Greeter
+##### Specific Greeter Themes
+- \[LightDM WebKit2 Greeter\] \<placeholder-for-theme\>
 ### Boot Splash
-- Plymouth Themes
+- Plymouth
+#### Specific Themes
+- \[Plymouth\] \<placeholder-for-theme\>
 # Done
 ## Desktop Shells
 - Hyprland
