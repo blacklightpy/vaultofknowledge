@@ -7,7 +7,7 @@
 - \[GNOME\] GNOME the first and only rice (https://www.reddit.com/r/unixporn/comments/12tmdtb/gnome_first_and_only_rice_on_gnome/)
 - \[dwm\] dwm
 - \[dwm\] chadwm with Nord theme
-- \[awesome wm +awesome-wm with picom effects
+- \[awesome wm\]\[picom\] awesome-wm with picom effects
 ## UI Style Components
 - I like Aqua-Joy GTK2 theme
 ## Other Experience Components
