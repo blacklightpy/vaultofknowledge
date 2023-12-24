@@ -1,3 +1,7 @@
 Always do more than what is necessary. But make note of the minimum possible system (not the sales oriented "minimum viable product").
 
-A system is the minimum function + experience. But the experienc
+A system is the minimum function + experience. But the experience must be the focus of design from the beginning, or else, we will limit the experience to the confines of what's possible from the system, rather than creating the experience from what's possible from the world.
+
+You must also set a limit on the features, because otherwise you will never finish developing, adding features on the fly.
+
+A guiding principle for this is keeping in mind is that human attention is limited by by time, and they can't possibly explore every possible ways in which they can use a complicated system. Although it is sometimes appealing to a user to have a tool which can do everything, 
