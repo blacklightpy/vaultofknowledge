@@ -16,7 +16,7 @@ At first, I tried starting from the parents of grandparents (and assumed an X fo
 
 But this isn't an issue in principle, as we have to start somewhere, and apparently, anywhere would do just fine. We just have to model from there, and therefore choosing a right spot can come in handy. Ideally this model can find out all the children, siblings and ancestors from any individual.
 
-So, I put 2 for the number of great-grandparents (or Gen 4, Gen 1 being my generation), and X for the number of siblings each of them had. So Gen 4 would have 2+2X members (2X because both of them had X siblings). *(As I've stated below, Including the spouses of the siblings, Gen 4 will have 2+4X members).*
+So, I put 2 for the number of great-grandparents (or Gen 4, Gen 1 being my generation), and X for the number of siblings each of them had. So Gen 4 would have 2+2X members (2X because both of them had X siblings). *(As I've stated below, Including the spouses of the siblings, Gen 4 will have 2+2(2X) members).*
 
 Next, I went down to their children, and I assumed they would have Y children.
 
@@ -38,6 +38,8 @@ The total number of people upto Gen 4 people due to family expansion would be 2(
 The total number of people will be 2(2+4X) + 2\[(2 + Y)+(4X + 2XY)\] + (1+2X)YZ.
 
 This simplifies to: 8 + 16X + 2Y + 4XY + YZ + 2XYZ
-I can group them as 2{\[2 + Y + Z\] + \[4X + 2XY\]}
+I can group them as 2{\[2 + Y + Z\] + \[4X + 2XY + 2XYZ\]}
+
+Coming to Gen 2, we can use the same method and get the number of children.
 ### Model 2: Starting at the bottom
 
