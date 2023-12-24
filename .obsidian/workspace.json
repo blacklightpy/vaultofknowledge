@@ -240,9 +240,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73dcf51187d4a80d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z1-Rough Notes/Rices I want to try out.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -309,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Modern Computer Instructions.md",
+                "file": "Z1-Rough Notes/Rices I want to try out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Modern Computer Instructions.md",
+                "file": "Z1-Rough Notes/Rices I want to try out.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Modern Computer Instructions.md"
+                "file": "Z1-Rough Notes/Rices I want to try out.md"
               }
             }
           },
@@ -387,18 +400,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "random-note:Open random note": false
     }
   },
-  "active": "0f08bb298d370a74",
+  "active": "73dcf51187d4a80d",
   "lastOpenFiles": [
-    "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
+    "How to configure a system.md",
     "Principles of System Design.md",
     "Z2-Rough Notes 2/General Design Principles.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
