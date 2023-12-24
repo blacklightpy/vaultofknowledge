@@ -349,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
+                "file": "Why I calculate too much.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
+                "file": "Why I calculate too much.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -386,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md"
+                "file": "Why I calculate too much.md"
               }
             }
           },
@@ -435,12 +435,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "cc6335f0d81476ac",
   "lastOpenFiles": [
+    "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
+    "Why I calculate too much.md",
     "Z1-Rough Notes/Rices I want to try out.md",
     "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
-    "Why I calculate too much.md",
     "Family Trees.md",
     "Principles of System Design.md",
     "Z2-Rough Notes 2/General Design Principles.md",
@@ -463,7 +464,6 @@
     "Fat Binaries.md",
     "History/History of South India.md",
     "History/Timeline of History.md",
-    "History/Geology/Timeline of Geological History.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
