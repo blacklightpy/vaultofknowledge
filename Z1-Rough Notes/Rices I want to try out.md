@@ -1,6 +1,5 @@
 # To Do
 ## 1. Desktop Environments
-
 ### 1.1. Desktop Shells
 - dwm
 - awesome-wm
@@ -10,6 +9,7 @@
 - \[dwm\] dwm
 - \[dwm\] chadwm with Nord theme
 - \[awesome wm\]\[picom\] awesome-wm with picom effects
+- \[Hyprland\] 
 
 > **NOTE:** Not sorting because multi-valued entries can't be sorted.
 ### 1.2. Desktop Widget Toolkits
