@@ -40,5 +40,5 @@ This simplifies to: 8 + 16X + 2Y + 4XY + YZ + 2XYZ
 I can group them as 2{\[2 + Y + Z\] + \[4X + 2XY + 2XYZ\]}
 
 Coming to Gen 2, we can use the same method and get the number of children.
-The number of children will be 
+The number of children will be (1+2X)
 ### Model 2: Starting at the bottom
