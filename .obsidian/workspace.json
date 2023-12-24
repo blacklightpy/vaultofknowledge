@@ -242,19 +242,6 @@
             }
           },
           {
-            "id": "73dcf51187d4a80d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cedc0fb43eb052fc",
             "type": "leaf",
             "state": {
@@ -336,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md",
+                "file": "Family Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md",
+                "file": "Family Trees.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -373,7 +360,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md"
+                "file": "Family Trees.md"
               }
             }
           },
@@ -422,14 +409,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "73dcf51187d4a80d",
+  "active": "cedc0fb43eb052fc",
   "lastOpenFiles": [
+    "Developing Modern Computer Instructions.md",
+    "Z1-Rough Notes/Rices I want to try out.md",
     "Family Trees.md",
     "Why I calculate too much.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
-    "Z1-Rough Notes/Rices I want to try out.md",
     "How to configure a system.md",
-    "Developing Modern Computer Instructions.md",
     "Principles of System Design.md",
     "Z2-Rough Notes 2/General Design Principles.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
