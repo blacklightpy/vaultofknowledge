@@ -281,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -327,7 +327,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -348,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md",
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md",
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -385,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Rough Notes/Rices I want to try out.md"
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md"
               }
             }
           },
@@ -434,13 +435,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c44d69e882960f23",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "Z1-Rough Notes/Rices I want to try out.md",
     "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
     "Why I calculate too much.md",
     "Family Trees.md",
-    "Z1-Rough Notes/Rices I want to try out.md",
     "Principles of System Design.md",
     "Z2-Rough Notes 2/General Design Principles.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
