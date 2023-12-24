@@ -10,7 +10,7 @@ These are the generations (except great-great-grandparents) up to which I'm inte
 - Me
 
 I will also be including cousins, their parents, and all of their parents, and so on.
-## How I Arrived at it
+## How I arrived at it
 ### Model 1: Starting from the top
 At first, I tried starting from the parents of grandparents (and assumed an X for their siblings). I did not realize I was only considering one of my parents' grandparents, and I was thinking along my father's family side, since that's the only side I knew the name of a great-grandparent.
 
@@ -21,4 +21,4 @@ So, I put 2 for the number of great-grandparents (or Gen 4, Gen 1 being my gener
 Next, I went down to their children, and I assumed they would have Y children.
 
 **NOTE: X would be the number of children (siblings) in Gen 4, Y would be the same number of Gen 3, Z would be that for Gen 2 and N would be the number of siblings for Gen 1.**
-### Model 2: 
+### Model 2: Starting at the bottom
