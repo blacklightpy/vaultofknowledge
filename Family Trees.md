@@ -33,6 +33,11 @@ This simplifies to 2 + 4X + Y + 2XY (I'll put them in brackets as (2 + Y)+(4X + 
 
 Since they will marry and have children *(again realizing the effects of that mistake, and correcting it)*, they will then have Z children each, so the number of members in Gen 2 would be (1+2X)YZ *(I also multiplied the number of Gen 3 members by 2 to include for their spouses before multiplying by Z to get the number of children, without remembering that children only have to be calculated for every pair of parents, not for each parent.)*
 
-The total number of Gen 3 people due to family expansion would be 2 [ ]
+The total number of Gen 3 people due to family expansion would be 2\[(2 + Y)+(4X + 2XY)\].
+The total number of people upto Gen 4 people due to family expansion would be 2(2+4X).
+The total number of people will be 2(2+4X) + 2\[(2 + Y)+(4X + 2XY)\] + (1+2X)YZ.
+
+This simplifies to: 8 + 16X + 2Y + 4XY + YZ + 2XYZ
+I can group them as (4 + 8X) + ()
 ### Model 2: Starting at the bottom
 
