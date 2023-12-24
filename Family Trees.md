@@ -21,4 +21,6 @@ So, I put 2 for the number of great-grandparents (or Gen 4, Gen 1 being my gener
 Next, I went down to their children, and I assumed they would have Y children.
 
 **NOTE: X would be the number of children (siblings) in Gen 4, Y would be the same number of Gen 3, Z would be that for Gen 2 and N would be the number of siblings for Gen 1.**
+
+So, the number of members in Gen 3 would be (oops, I realized my mistake, and I'll be adding corrections as I write here): (1 + 2X)Y (I first calculated it as 2+)
 ### Model 2: Starting at the bottom
