@@ -54,27 +54,32 @@ When starting at the bottom, I can still choose include my cousins, just as I ha
 
 And when going upwards, the general principle is that we do not come down. Or, we could come down, but without going back up again.
 
-The numbers obtained in both ways won't match up, but you'll at least get one of the family trees
+The numbers obtained in both ways won't match up though for obvious reasons, as the tracks of exploration will turn out different.
+
+### Model 3: Going up and down
+This was what I thought the real answer was when I started writing this article, only to later realize that I had made a minor mistake. In the end, going up and down traverses both up and down, as well as towards the left and right directions outward
 
 
+```C++
 class Person {
-std::string identity;
-
-enum parent_type {father, mother, lab-grown};
-enum guardian_type {step_father, step_mother, caretaker}
-enum social_relationship {married, unmarried_with_baby}
-enum biological_sex {male, female, intersex}
-enum gender {male, female, transgender, non-binary}
-
-std:vector<Person> siblings;
-std::vector<std::map<Person, Person::parent_type>> parent;
-std::vector<std::map<Person, Person::guardian_type>> guardians; // Guardians overrides parents as caretakers
-std::vector<std::map<Person, Person::social_relationship>> spouses; // Spouse can be married or unmarried with baby
-std::vector<std::map<Person, Person>> children; // affiliated Person must be a spouse
-std::vector<Person> wards;
+	std::string identity;
+	
+	enum parent_type {father, mother, lab-grown};
+	enum guardian_type {step_father, step_mother, caretaker}
+	enum social_relationship {married, unmarried_with_baby}
+	enum biological_sex {male, female, intersex}
+	enum gender {male, female, transgender, non-binary}
+	
+	std:vector<Person> siblings;
+	std::vector<std::map<Person, Person::parent_type>> parent;
+	std::vector<std::map<Person, Person::guardian_type>> guardians; // Guardians overrides parents as caretakers
+	std::vector<std::map<Person, Person::social_relationship>> spouses; // Spouse can be married or unmarried with baby
+	std::vector<std::map<Person, Person>> children; // affiliated Person must be a spouse
+	std::vector<Person> wards;
 
 public:
 	Person(identity, biological_sex, gender);
+	
 	add_sibling(Person var_sibling);
 	add_parent(Person var_parent, parent_type pt);
 	add_guardian(Person var_guardian, guardian_type gt);
@@ -84,11 +89,15 @@ public:
 	
 	delete_sibling(Person var_sibling);
 	delete_parent(Person var_parent);
-	delete_spouse(Person var_spouse)
+	delete_spouse(Person var_spouse);
+	delete_children(Person var_child);
+	delete_ward(Person var_ward);
 	
 	modify_parent(Person var_parent, parent_type pt);
 	modify_parent_type(Person var_parent, parent_type pt);
 	modify_guardian(Person var_guardian, guardian_type gt);
 	modify_guardian_type(Person var_guardian, guardian_type gt);
 	modify_spouse(Person var_spouse, social_relationship sr);
+	modify_child(Person var_child, Person var_spouse);
 }
+```
