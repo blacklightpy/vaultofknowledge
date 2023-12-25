@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b9a7cacd0e7fbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developing Portable Programs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -323,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Family Trees.md",
+                "file": "Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Family Trees.md",
+                "file": "Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -360,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Family Trees.md"
+                "file": "Developing Portable Programs.md"
               }
             }
           },
@@ -409,11 +422,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cedc0fb43eb052fc",
+  "active": "3b9a7cacd0e7fbfb",
   "lastOpenFiles": [
+    "Developing Portable Programs.md",
+    "Family Trees.md",
     "Developing Modern Computer Instructions.md",
     "Z1-Rough Notes/Rices I want to try out.md",
-    "Family Trees.md",
     "Why I calculate too much.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
     "How to configure a system.md",
@@ -437,7 +451,6 @@
     "Using Emacs.md",
     "Fat Binaries.md",
     "History/History of South India.md",
-    "History/Timeline of History.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
