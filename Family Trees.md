@@ -1,4 +1,7 @@
 I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I think I've arrived at some conclusions.
+
+> [!NOTE]
+> As a fun note, I think calculating the complete human family tree would take terabytes of data assuming about 150 bytes of data per record of the database and 190 billion humans ever to have lived on Earth.
 ## Premise
 These are the generations (except great-great-grandparents) up to which I'm interested in calculating. Most likely I won't be able to complete all the data, but at least I can try.
 
@@ -45,6 +48,8 @@ The number of children will be (1+2X)YZN
 Before calculating the total number of members, one thing I noticed here is that my attempts to calculate backwards to the parents of the spouses are flawed, because then I'll have to consider their siblings and their spouses' and children's family trees too. But that in mind, I can stop this section, and maybe I should remove the multiplier to the number of parents since I don't want to be taking note of the parents of spouses.
 
 I guess I could keep them but then just avoid listing the chains of siblings of spouses.
-
-Also I'd assume listing the entire human family tree including all people would take Terabytes of Data
 ### Model 2: Starting at the bottom
+
+When starting at the bottom, I can still choose include my cousins, just as I have included the siblings of my grandparents.
+
+And when going upwar
