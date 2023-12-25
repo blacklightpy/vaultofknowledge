@@ -4,8 +4,10 @@ An Operating System is like a pattern of arranging and retrieving books.
 
 So a bookshelf can hold books arranged in different patterns.
 
-A book here is a part of t
-
 The compiler arranges books in a specific pattern within the bookshelf.
 
 A runtime retrieves the requested books from the bookshelf because it knows the pattern in which the books are to be retrieved.
+
+Typically OS-default runtimes only understand the calling conventions of the specific operating system, and even that is built for a specific architecture.
+
+Java and in
