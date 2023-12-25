@@ -1,0 +1,3 @@
+- SIGTRAP
+- SIGHUP (Signal Hang Up)
+- SIGCONT (Signal Con)

@@ -266,9 +266,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3597ba2467de788c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux System Calls.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -336,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Family Trees.md",
+                "file": "Linux System Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Family Trees.md",
+                "file": "Linux System Calls.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -373,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Family Trees.md"
+                "file": "Linux System Calls.md"
               }
             }
           },
@@ -422,10 +435,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cedc0fb43eb052fc",
+  "active": "3597ba2467de788c",
   "lastOpenFiles": [
-    "Developing Portable Programs.md",
+    "Linux System Calls.md",
     "Family Trees.md",
+    "Developing Portable Programs.md",
     "Developing Modern Computer Instructions.md",
     "Z1-Rough Notes/Rices I want to try out.md",
     "Why I calculate too much.md",
@@ -450,7 +464,6 @@
     "Hacking the fake phone.md",
     "Using Emacs.md",
     "Fat Binaries.md",
-    "History/History of South India.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
