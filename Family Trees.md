@@ -61,7 +61,7 @@ class Person {
 std::string identity;
 enum parent_type {father, mother, lab-grown};
 std:vector<Person> siblings;
-std::map<Person, parent_type> parent;
+std::map<Person, Person::parent_type> parent;
 std::map<Person, string> guardian;
 std::vector<Person> spouses;
 std::map<Person, Person> children;
