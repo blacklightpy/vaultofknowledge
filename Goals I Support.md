@@ -3,4 +3,5 @@
 - Equality of Humanity
 - Freedom of Speech
 - Freedom of Identity
-- Right to Privacy
+- Freedom of Privacy
+- Right to Personal Liberty and Abortions
