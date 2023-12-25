@@ -255,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to configure a system.md",
+                "file": "Developing Modern Computer Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to configure a system.md",
+                "file": "Developing Modern Computer Instructions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to configure a system.md"
+                "file": "Developing Modern Computer Instructions.md"
               }
             }
           },
@@ -408,8 +408,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2291c9f9808f2b38",
+  "active": "0f08bb298d370a74",
   "lastOpenFiles": [
+    "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
     "Family Trees.md",
     "Developing Portable Programs.md",
@@ -420,7 +421,6 @@
     "Z1-Rough Notes/Rices I want to try out.md",
     "Why I calculate too much.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
-    "How to configure a system.md",
     "Principles of System Design.md",
     "Z2-Rough Notes 2/General Design Principles.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",

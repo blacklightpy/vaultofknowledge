@@ -8,8 +8,7 @@ Assumptions: Hardware is non modifiable, and software runs on top of hardware wh
 
 
 
-## Notes from Phone
-
+# Notes from Phone
 - Firmware Program Loader
 - Bootloader (To set any parameters)
 - Hardware Interfaces (Kernel)
