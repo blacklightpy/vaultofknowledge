@@ -5,14 +5,15 @@
 # C Standard Signals
 - SIGABRT ("abort", abnormal termination)
 - SIGFPE (floating point exception)
-- SIGILL ("illegal", invalid instruction)
-- SIGINT ("interrupt", interactive attention request sent to the program)
-- SIGSEGV ("segmentation violation", invalid memory access)
+- SIGILL (Illegal instruction)
+- SIGINT (Interrup)
+- SIGSEGV (Segmentation Violation due to invalid memory access)
 - SIGTERM (Terminate a program)
-# POSIX Standard Signals
+# UNIX POSIX/SUS Standard Signals
 
 > [!NOTE]
-> - Different signals are defined because 
+> - Different signals are defined for software to use them in the way they want, but if they don't make use of them, they fall back to the default action
+> - Signal numbers are usually left to implementations, but POSIX standard defines numbers for a few signals
 
 | Signal | Signal Number | Default Action | Description |
 | --- | --- | --- | --- |
@@ -40,8 +41,18 @@
 | SIGTTOU | — | Stop | Background process attempting write |
 | SIGUSR1 | — | Terminate | User-defined signal 1 |
 | SIGUSR2 | — | Terminate | User-defined signal 2 |
-| SIGURG | — | Ignore | [Out-of-band data](https://en.wikipedia.org/wiki/Out-of-band_data "Out-of-band data") is available at a socket |
+| SIGURG | — | Ignore | Out-of-band data is available at a socket |
 | SIGVTALRM | — | Terminate | Virtual timer expired |
 | SIGXCPU | — | Terminate (core dump) | CPU time limit exceeded |
 | SIGXFSZ | — | Terminate (core dump) | File size limit exceeded |
 | SIGWINCH | — | Ignore | Terminal window size changed |
+# Miscellaneous Signals
+These signals aren't defined by POSIX, but are used in some systems.
+
+- SIGEMT
+- SIGINFO
+- SIGPWR
+- SIGLOST
+- SIGSTKFLT
+- SIGUNUSED
+- SIGCLD
