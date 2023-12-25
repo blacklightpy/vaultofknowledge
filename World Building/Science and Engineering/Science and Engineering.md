@@ -390,6 +390,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Wayland]]
 				- [[X Windowing System]]
 			- [[Freedesktop Projects]]
+			- [[Inter-Process Communications]]
 			- [[Kernel]]
 			- [[Keywords]]
 			- [[Remote Desktop Connections]]

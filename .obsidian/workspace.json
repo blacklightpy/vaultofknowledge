@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -347,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -384,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md"
               }
             }
           },
@@ -435,6 +435,7 @@
   },
   "active": "3597ba2467de788c",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
@@ -462,7 +463,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Qt for Android.md",
     "Hacking the fake phone.md",
-    "Using Emacs.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",

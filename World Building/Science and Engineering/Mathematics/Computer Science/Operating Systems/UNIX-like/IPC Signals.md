@@ -1,3 +1,4 @@
+Signals are generally used in UNIX-like systems for performing [[Inter-Process Communications|IPC]] actions.
 # C Standard Signals
 - SIGABRT (Abort)
 - SIGFPE (Floating point exception)
