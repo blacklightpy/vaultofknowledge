@@ -75,6 +75,6 @@ functions:
 	add_sibling(Person);
 	add_parent(Person, parent_type)
 	add_guardian(Person, guardian_type)
-	add_spouse(Person, social_relationship)
+	add_spouse(Person, social_relationship) // if added spouse already exists as unmarried, modify them as married
 	add_children(Person child, Person spouse) // If spouse isn't in Person::spouses, add them there.
 }
