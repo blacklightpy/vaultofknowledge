@@ -60,6 +60,12 @@ The numbers obtained in both ways won't match up though for obvious reasons, as 
 This was what I thought the real answer was when I started writing this article, only to later realize that I had made a minor mistake. In the end, going up and down traverses both up and down, as well as towards the sides outward going up and down in a zigzag motion.
 
 Going up and down will only end if you have enough data, and people intermarry well enough. That may not be ideal, and hence won't be possible with any real world data.
+# Conclusion
+Don't aim for a perfect family tree.
+
+But rather, impose any these two limits:
+- Go only in one direction (for minimalism)
+- If you do go in the opposite direction from where you started, don't explore the chains of siblings, as such a traversal will end up in an infinite loop (for maximalism)
 # Data Structure
 I sketched a data structure to connect each person with their relationships to form a full family tree while I was sleepy. Here's how it is:
 
@@ -68,10 +74,10 @@ class Person {
 	std::string identity;
 	
 	enum parent_type {father, mother, lab-grown};
-	enum guardian_type {step_father, step_mother, caretaker}
-	enum social_relationship {married, unmarried_with_baby}
-	enum biological_sex {male, female, intersex}
-	enum gender {male, female, transgender, non-binary}
+	enum guardian_type {step_father, step_mother, caretaker};
+	enum social_relationship {married, unmarried_with_baby};
+	enum biological_sex {male, female, intersex};
+	enum gender {male, female, transgender, non-binary};
 	
 	std:vector<Person> siblings;
 	std::vector<std::map<Person, Person::parent_type>> parent;
