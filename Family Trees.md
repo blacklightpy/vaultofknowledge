@@ -62,7 +62,7 @@ std::string identity;
 
 enum parent_type {father, mother, lab-grown};
 enum guardian_type {step_father, step_mother, caretaker}
-enum social_relationships {married, unmarried_with_baby}
+enum social_relationship {married, unmarried_with_baby}
 
 std:vector<Person> siblings;
 std::vector<std::map<Person, Person::parent_type>> parent;
@@ -72,4 +72,9 @@ std::vector<std::map<Person, Person>> children; // affiliated Person must be a s
 std::vector<Person> wards;
 
 functions:
+	add_sibling(Person);
+	add_parent(Person, parent_type)
+	add_guardian(Person, guardian_type)
+	add_spouse(Person, social_relationship)
+	add_children(Person child, Person spouse) // If spouse isn't in Person::spouses, add them there.
 }
