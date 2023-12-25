@@ -52,5 +52,6 @@ I guess I could keep them but then just avoid listing the chains of siblings of 
 - I would link other integers by columns
 
 INT,NAME,{INT,INT},{INT,INT},INT,{INT,INT}
-50B, 14INT
+
+117 
 ### Model 2: Starting at the bottom
