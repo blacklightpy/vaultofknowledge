@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux System Calls.md",
+                "file": "CPU Signals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -349,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Calls.md",
+                "file": "CPU Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Calls.md",
+                "file": "CPU Signals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -386,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux System Calls.md"
+                "file": "CPU Signals.md"
               }
             }
           },
@@ -437,7 +437,7 @@
   },
   "active": "3597ba2467de788c",
   "lastOpenFiles": [
-    "Linux System Calls.md",
+    "CPU Signals.md",
     "Family Trees.md",
     "Developing Portable Programs.md",
     "Developing Modern Computer Instructions.md",
