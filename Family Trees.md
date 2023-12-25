@@ -46,7 +46,11 @@ Before calculating the total number of members, one thing I noticed here is that
 
 I guess I could keep them but then just avoid listing the chains of siblings of spouses.
 
-- 160 GB to list names
+- 240 GB to list names
 - Connections? Each person would have 5 siblings, 5 children, 1 spouse and 2 parents
-- I would use a MySQL table. 
+- I would use a MySQL table. Without it, I would not be able to reference a person. I would give each person a unique ID, as a long integer.
+- I would link other integers by columns
+
+INT,NAME,{INT,INT},{INT,INT},INT,{INT,INT}
+50B, 14INT
 ### Model 2: Starting at the bottom
