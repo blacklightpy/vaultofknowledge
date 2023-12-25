@@ -240,9 +240,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6297fb77376f0e37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals I Support.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -309,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Goals I Support.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Goals I Support.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -346,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Portable Programs.md"
+                "file": "Goals I Support.md"
               }
             }
           },
@@ -395,12 +408,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3b9a7cacd0e7fbfb",
+  "active": "6297fb77376f0e37",
   "lastOpenFiles": [
+    "Goals I Support.md",
+    "Developing Portable Programs.md",
     "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
     "Family Trees.md",
-    "Developing Portable Programs.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
@@ -424,7 +438,6 @@
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Spring Equation.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Qt for Android.md",
-    "Hacking the fake phone.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",

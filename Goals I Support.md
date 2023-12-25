@@ -1,0 +1,6 @@
+- Feminism
+- LGBTQIA+ Rights
+- Equality of Humanity
+- Freedom of Speech
+- Freedom of Identity
+- Right to Privacy
