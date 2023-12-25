@@ -1,4 +1,4 @@
-I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I think I've arrived at a general formula.
+I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I think I've arrived at some conclusions.
 ## Premise
 These are the generations (except great-great-grandparents) up to which I'm interested in calculating. Most likely I won't be able to complete all the data, but at least I can try.
 
@@ -9,7 +9,7 @@ These are the generations (except great-great-grandparents) up to which I'm inte
 - Me
 
 I will also be including cousins, their parents, and all of their parents, and so on.
-## How I arrived at it
+## What I tried
 ### Model 1: Starting from the top
 At first, I tried starting from the parents of grandparents (and assumed an X for their siblings). I did not realize I was only considering one of my parents' grandparents, and I was thinking along my father's family side, since that's the only side I knew the name of a great-grandparent.
 
@@ -44,5 +44,9 @@ The number of children will be (1+2X)YZN
 
 Before calculating the total number of members, one thing I noticed here is that my attempts to calculate backwards to the parents of the spouses are flawed, because then I'll have to consider their siblings and their spouses' and children's family trees too. But that in mind, I can stop this section, and maybe I should remove the multiplier to the number of parents since I don't want to be taking note of the parents of spouses.
 
-I guess I could keep them but then just avoid 
+I guess I could keep them but then just avoid listing the chains of siblings of spouses.
+
+160 GB to list names
+
+Connections? Each person would have 5 siblings, 5 children, 1 spouse and 2 parents
 ### Model 2: Starting at the bottom
