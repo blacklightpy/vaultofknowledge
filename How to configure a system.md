@@ -10,4 +10,5 @@ Assumptions: Hardware is non modifiable, and software runs on top of hardware wh
 
 
 
-Notes from Android
+- Firmware Program Loader
+- Boo
