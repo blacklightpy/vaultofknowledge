@@ -59,8 +59,9 @@ The numbers obtained in both ways won't match up, but you'll at least get one of
 
 class Person {
 std::string identity;
+enum parent_type {father, mother, lab-grown};
 std:vector<Person> siblings;
-std::vector<Person> father;
+std::map<Person, parent_type> parent;
 std::map<Person, string> guardian;
 std::vector<Person> spouses;
 std::map<Person, Person> children;
