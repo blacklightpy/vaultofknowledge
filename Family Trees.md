@@ -62,12 +62,13 @@ std::string identity;
 
 enum parent_type {father, mother, lab-grown};
 enum guardian_type {step_father, step_mother, caretaker}
+enum social_relationships {married, unmarried_with_baby}
 
 std:vector<Person> siblings;
 std::vector<std::map<Person, Person::parent_type>> parent;
-std::std::map<Person, string> guardian;
-std::vector<Person> spouses; // Spouse can be married or unmarried with baby
-std::vector<std::map<Person, Person>> children; // Person must be a spouse
+std::std::map<Person, string> guardian; // Guardians overrides parents as caretakers
+std::vector<std::map<Person, social_relationships>> spouses; // Spouse can be married or unmarried with baby
+std::vector<std::map<Person, Person>> children; // affiliated Person must be a spouse
 std::vector<Person> wards;
 
 functions:
