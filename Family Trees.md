@@ -57,8 +57,11 @@ And when going upwards, the general principle is that we do not come down. Or, w
 The numbers obtained in both ways won't match up though for obvious reasons, as the tracks of exploration will turn out different.
 
 ### Model 3: Going up and down
-This was what I thought the real answer was when I started writing this article, only to later realize that I had made a minor mistake. In the end, going up and down traverses both up and down, as well as towards the left and right directions outward
+This was what I thought the real answer was when I started writing this article, only to later realize that I had made a minor mistake. In the end, going up and down traverses both up and down, as well as towards the sides outward going up and down in a zigzag motion.
 
+Going up and down will only end if you have enough data, and people intermarry well enough. That may not be ideal, and hence won't be possible with any real world data.
+# Data Structure
+I sketched a data structure to connect each person with their relationships to form a full family tree while I was sleepy. Here's how it is:
 
 ```C++
 class Person {
@@ -76,7 +79,7 @@ class Person {
 	std::vector<std::map<Person, Person::social_relationship>> spouses; // Spouse can be married or unmarried with baby
 	std::vector<std::map<Person, Person>> children; // affiliated Person must be a spouse
 	std::vector<Person> wards;
-
+	
 public:
 	Person(identity, biological_sex, gender);
 	
