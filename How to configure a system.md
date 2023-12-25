@@ -11,4 +11,38 @@ Assumptions: Hardware is non modifiable, and software runs on top of hardware wh
 
 
 - Firmware Program Loader
-- Boo
+- Bootloader (To set any parameters)
+- Hardware Interfaces (Kernel)
+	- Signal Modem(s)
+	- Storage(s)
+	- Filesystem(s)
+	- Shared Memory Interface, etc.
+	- Processor Instruction Interfaces
+- Load Filesystem
+- Load Configuration Stores
+	- Storage Addressing
+- Background Services and Management
+	- Wi-Fi Protocol and Management
+	- Bluetooth Protocol and Management
+- Network Addressing
+- System Error Logging
+- Filesystem Backup
+- Users and Session Management
+- User Interface
+	- Textual, Graphical, Audio, Haptic, etc.
+		- Graphical
+			- Window Management
+			- Composition and Animation
+			- Status Panels, Widgets, Launchers
+- Core Utilities
+	- Shared Runtime Libraries
+- Additional System Utilities
+	- System Monitor
+	- Settings Management Interface
+	- Storage Manager
+- Extra Utilities
+	- Network Service Explorers
+	- Filesystem Explorer
+	- Media Players
+	- Clock, Calendar, etc.
+	- Text Editor
