@@ -63,23 +63,25 @@ std::string identity;
 enum parent_type {father, mother, lab-grown};
 enum guardian_type {step_father, step_mother, caretaker}
 enum social_relationship {married, unmarried_with_baby}
-enum biological_sex {}
+enum biological_sex {male, female, intersex}
+enum gender {male, female, transgender, non-binary}
 
 std:vector<Person> siblings;
 std::vector<std::map<Person, Person::parent_type>> parent;
-std::std::map<Person, string> guardian; // Guardians overrides parents as caretakers
+std::vector<std::map<Person, string>> guardian; // Guardians overrides parents as caretakers
 std::vector<std::map<Person, social_relationships>> spouses; // Spouse can be married or unmarried with baby
 std::vector<std::map<Person, Person>> children; // affiliated Person must be a spouse
 std::vector<Person> wards;
 
 functions:
-	Person();
+	Person(identity, biological_sex, gender);
 	add_sibling(Person var_sibling);
-	add_parent(Person var_parent, parent_type pt)
-	add_guardian(Person var_guardian, guardian_type gt)
-	add_spouse(Person var_spouse, social_relationship sr) // if added spouse already exists as unmarried, modify them as married
-	add_children(Person var_child, Person var_spouse) // If spouse isn't in Person::spouses, add them there.
-	add_ward(Person var_ward)
-	delete_sibling(Person var_sibling)
-	
+	add_parent(Person var_parent, parent_type pt);
+	add_guardian(Person var_guardian, guardian_type gt);
+	add_spouse(Person var_spouse, social_relationship sr); // if added spouse already exists as unmarried, modify them as married
+	add_children(Person var_child, Person var_spouse); // If spouse isn't in Person::spouses, add them there.
+	add_ward(Person var_ward);
+	delete_sibling(Person var_sibling);
+	delete_parent(Person var_parent);
+	modify_parent(Person var_parent, )
 }
