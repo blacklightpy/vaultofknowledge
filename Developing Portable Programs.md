@@ -12,3 +12,10 @@ Typically OS-default runtimes only understand the calling conventions of the spe
 
 Java and similarly interpreted languages are an exception to this, as they are run atop virtual machines with backends for different bare-metal CPUs and OSes.
 
+
+
+
+
+
+
+Candidates: LLVM, WASM
