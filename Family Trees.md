@@ -52,4 +52,4 @@ I guess I could keep them but then just avoid listing the chains of siblings of 
 
 When starting at the bottom, I can still choose include my cousins, just as I have included the siblings of my grandparents.
 
-And when going upwar
+And when going upwards, the general principle is that we do not come down. Or, we could come down, but without 
