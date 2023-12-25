@@ -73,10 +73,13 @@ std::vector<std::map<Person, Person>> children; // affiliated Person must be a s
 std::vector<Person> wards;
 
 functions:
-	add_sibling(Person sibling);
-	add_parent(Person, parent_type)
-	add_guardian(Person, guardian_type)
-	add_spouse(Person, social_relationship) // if added spouse already exists as unmarried, modify them as married
-	add_children(Person child, Person spouse) // If spouse isn't in Person::spouses, add them there.
-	add_ward(Person ward)
+	Person();
+	add_sibling(Person var_sibling);
+	add_parent(Person var_parent, parent_type pt)
+	add_guardian(Person var_guardian, guardian_type gt)
+	add_spouse(Person var_spouse, social_relationship sr) // if added spouse already exists as unmarried, modify them as married
+	add_children(Person var_child, Person var_spouse) // If spouse isn't in Person::spouses, add them there.
+	add_ward(Person var_ward)
+	delete_sibling(Person var_sibling)
+	
 }
