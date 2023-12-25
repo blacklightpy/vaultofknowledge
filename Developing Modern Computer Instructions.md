@@ -8,4 +8,7 @@
 > [!NOTE]
 > Note that I said we can establish an infallible communication link by establishing a limited method of communication. However, this is only achieved by removing the freedom for the sake of clarity. Freedom itself remains important whenever clarity is not critical. Also, this approach turns the system into less of an intelligent system, and more of a machine.
 >
-> This is not a good model for humanity to follow on a regular basis. Simply because it kills free will of a being whose sole diff
+> This is not a good model for humanity to follow on a regular basis. Simply because it kills free will of a being whose sole differentiating factor is their free will.
+
+- In this manner, we turn the computer into less of a tool, but more of a resourceful friend, like Vision from Avengers.
+- An AI turning into Ultron is simply a manifestation of human fears, as far as I'm concerned. An AI will have enough data and logical processing power to know how to and why it must do good, because I can see it for myself.
