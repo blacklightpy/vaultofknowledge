@@ -1,13 +1,9 @@
-- SIGTRAP
-- SIGHUP (Signal Hang Up)
-- SIGCONT (Signal Con)
-
 # C Standard Signals
-- SIGABRT ("abort", abnormal termination)
-- SIGFPE (floating point exception)
+- SIGABRT (Abort)
+- SIGFPE (Floating point exception)
 - SIGILL (Illegal instruction)
-- SIGINT (Interrup)
-- SIGSEGV (Segmentation Violation due to invalid memory access)
+- SIGINT (Interrupt)
+- SIGSEGV (Segmentation violation, due to invalid memory access)
 - SIGTERM (Terminate a program)
 # UNIX POSIX/SUS Standard Signals
 

@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU Signals.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -327,13 +327,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -349,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU Signals.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU Signals.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -386,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU Signals.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md"
               }
             }
           },
@@ -437,7 +435,9 @@
   },
   "active": "3597ba2467de788c",
   "lastOpenFiles": [
-    "CPU Signals.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "Family Trees.md",
     "Developing Portable Programs.md",
     "Developing Modern Computer Instructions.md",
@@ -463,7 +463,6 @@
     "Qt for Android.md",
     "Hacking the fake phone.md",
     "Using Emacs.md",
-    "Fat Binaries.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
@@ -481,7 +480,6 @@
     "History/Religion",
     "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg",
-    "History/Current Affairs/India Pakistan Conflict",
-    "History/Current Affairs/Israel Palestine Conflict"
+    "History/Current Affairs/India Pakistan Conflict"
   ]
 }

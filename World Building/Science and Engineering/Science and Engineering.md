@@ -393,12 +393,14 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Kernel]]
 			- [[Keywords]]
 			- [[Remote Desktop Connections]]
-			- **UNIX and Linux**
+			- **UNIX-like**
 				- [[C Libraries]]
 				- [[Display Protocols]]
+				- **[[GNU's Not UNIX]]**
 				- [[inodes]]
 				- [[Intrusion Detection System]]
 				- [[Intrusion Prevention System]]
+				- [[IPC Signals]]
 				- **Linux**
 					- **Kernel Space**
 						- [[Control Groups]]

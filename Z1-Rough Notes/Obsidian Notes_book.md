@@ -7655,7 +7655,7 @@
 
 ###### Linux Components
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux/Linux Components.md|Linux Components.md]]
+![[Linux Components|Linux Components.md]]
 
 ---
 
@@ -7663,7 +7663,7 @@
 
 ###### C Libraries
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/C Libraries.md|C Libraries.md]]
+![[C Libraries|C Libraries.md]]
 
 ---
 
@@ -7671,7 +7671,7 @@
 
 ###### Display Protocols
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Display Protocols.md|Display Protocols.md]]
+![[Display Protocols|Display Protocols.md]]
 
 ---
 
@@ -7679,7 +7679,7 @@
 
 ###### inodes
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/inodes.md|inodes.md]]
+![[inodes|inodes.md]]
 
 ---
 
@@ -7687,7 +7687,7 @@
 
 ###### Intrusion Detection System
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Intrusion Detection System.md|Intrusion Detection System.md]]
+![[Intrusion Detection System|Intrusion Detection System.md]]
 
 ---
 
@@ -7695,7 +7695,7 @@
 
 ###### Intrusion Prevention System
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Intrusion Prevention System.md|Intrusion Prevention System.md]]
+![[Intrusion Prevention System|Intrusion Prevention System.md]]
 
 ---
 
@@ -7703,7 +7703,7 @@
 
 ###### Linux Basics
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Basics.md|Linux Basics.md]]
+![[Linux Basics|Linux Basics.md]]
 
 ---
 
@@ -7711,7 +7711,7 @@
 
 ###### Linux Distros
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Distros.md|Linux Distros.md]]
+![[Linux Distros|Linux Distros.md]]
 
 ---
 
@@ -7719,7 +7719,7 @@
 
 ###### Linux firewalls
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux firewalls.md|Linux firewalls.md]]
+![[Linux firewalls|Linux firewalls.md]]
 
 ---
 
@@ -7727,7 +7727,7 @@
 
 ###### Linux Security Modules
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Linux Security Modules.md|Linux Security Modules.md]]
+![[Linux Security Modules|Linux Security Modules.md]]
 
 ---
 
@@ -7735,7 +7735,7 @@
 
 ###### Shells and Terminals
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Shells and Terminals.md|Shells and Terminals.md]]
+![[Shells and Terminals|Shells and Terminals.md]]
 
 ---
 
@@ -7759,7 +7759,7 @@
 
 ###### Windowing Systems
 
-![[/World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX and Linux/Windowing Systems.md|Windowing Systems.md]]
+![[Windowing Systems|Windowing Systems.md]]
 
 ---
 
