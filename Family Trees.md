@@ -60,5 +60,9 @@ The numbers obtained in both ways won't match up, but you'll at least get one of
 class Person {
 std::string identity;
 std:vector<Person> siblings;
-std::Parent<>
+std::vector<Person> father;
+std::map<Person, string> guardian;
+std::vector<Person> spouses;
+std::map<Person, Person> children;
+std::vector<Person> wards;
 }
