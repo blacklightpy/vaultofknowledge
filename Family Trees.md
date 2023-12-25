@@ -52,4 +52,13 @@ I guess I could keep them but then just avoid listing the chains of siblings of 
 
 When starting at the bottom, I can still choose include my cousins, just as I have included the siblings of my grandparents.
 
-And when going upwards, the general principle is that we do not come down. Or, we could come down, but without 
+And when going upwards, the general principle is that we do not come down. Or, we could come down, but without going back up again.
+
+The numbers obtained in both ways won't match up, but you'll at least get one of the family trees
+
+
+class Person {
+std::string identity;
+std:vector<Person> siblings;
+std::Parent<>
+}
