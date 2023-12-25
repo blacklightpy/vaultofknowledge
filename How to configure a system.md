@@ -8,7 +8,7 @@ Assumptions: Hardware is non modifiable, and software runs on top of hardware wh
 
 
 
-
+## Notes from Phone
 
 - Firmware Program Loader
 - Bootloader (To set any parameters)
@@ -45,4 +45,5 @@ Assumptions: Hardware is non modifiable, and software runs on top of hardware wh
 	- Filesystem Explorer
 	- Media Players
 	- Clock, Calendar, etc.
-	- Text Editor
+	- Text Editors
+	- Any Application Software
