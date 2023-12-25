@@ -42,5 +42,7 @@ I can group them as 2{\[2 + Y + Z\] + \[4X + 2XY + 2XYZ\]}
 Coming to Gen 2, we can use the same method and get the number of children.
 The number of children will be (1+2X)YZN
 
-Before calculating the total number of members, one thing I noticed here is that my attempts to calculate backwards to the parents of the spouses are flawed, because then I'll have to consider their siblings and their spouses' and children's family trees too. But that in mind, I can stop this section, and maybe I should remove the multiplier to the number of parents since I don't want to be taking note of the parents of 
+Before calculating the total number of members, one thing I noticed here is that my attempts to calculate backwards to the parents of the spouses are flawed, because then I'll have to consider their siblings and their spouses' and children's family trees too. But that in mind, I can stop this section, and maybe I should remove the multiplier to the number of parents since I don't want to be taking note of the parents of spouses.
+
+I guess I could keep them but then just avoid 
 ### Model 2: Starting at the bottom
