@@ -266,9 +266,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3edc3d0c67e80e20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -318,8 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -335,7 +342,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The political history of western religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +358,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The political history of western religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,9 +376,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The political history of western religions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -421,7 +424,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "40f7ce2a99e998dc",
+  "active": "3edc3d0c67e80e20",
   "lastOpenFiles": [
     "The political history of western religions.md",
     "Apostasy in Islam.md",
