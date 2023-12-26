@@ -271,8 +271,13 @@
             "id": "3edc3d0c67e80e20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -326,7 +331,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -342,6 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,6 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +384,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md"
+              }
             }
           },
           {
@@ -426,13 +436,14 @@
   },
   "active": "3edc3d0c67e80e20",
   "lastOpenFiles": [
+    "Goals I Support.md",
+    "Personal/Random Ideas",
     "The political history of western religions.md",
     "Apostasy in Islam.md",
     "Developing Portable Programs.md",
-    "Goals I Support.md",
     "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
-    "Family Trees.md",
+    "Personal/Random Ideas/Family Trees.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
@@ -452,7 +463,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Understanding Buoyancy.md",
     "Understanding Linux Filesystem.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
@@ -470,7 +480,6 @@
     "_images/Pasted image 20231115165007.png",
     "History/Religion",
     "History/Geology",
-    "_images/Pakistan-Kashmir Map 1.jpg",
-    "History/Current Affairs/India Pakistan Conflict"
+    "_images/Pakistan-Kashmir Map 1.jpg"
   ]
 }
