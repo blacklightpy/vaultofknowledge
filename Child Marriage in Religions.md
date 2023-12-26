@@ -5,3 +5,8 @@
 > However, **discard** the desire (kama) and material wealth (artha) if contrary to Dharma; **as also, any usage or custom or rules regarded as source of Dharma if at any time they were to lead to unhappiness or arouse people's indignation.**
 
 Manu Smriti 4.176
+# Islam
+## Law in India
+- Muslim Personal Law set the marriageable age of women at the age of 15, when puberty is attained, while they are still a minor.
+# Christianity
+# Judaism
