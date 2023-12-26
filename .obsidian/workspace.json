@@ -279,22 +279,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7808ac462ff8cda3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eastern Religions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -361,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eastern Religions.md",
+                "file": "Child Marriage in Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eastern Religions.md",
+                "file": "Child Marriage in Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -398,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eastern Religions.md"
+                "file": "Child Marriage in Religions.md"
               }
             }
           },
@@ -449,9 +436,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7808ac462ff8cda3",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Eastern Religions.md",
+    "Culture/Eastern Religions.md",
+    "Z2-Rough Notes 2/Kalam Argument.md",
+    "Z2-Rough Notes 2/Muslims Arguing against Cow Urine.md",
     "Child Marriage in Religions.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
     "Goals I Support.md",
@@ -477,8 +466,6 @@
     "CMake.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Build Systems.md",
     "Z2-Rough Notes 2/Electromagnetics is just like acoustics.md",
-    "How to do a chroot.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Understanding Buoyancy.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",

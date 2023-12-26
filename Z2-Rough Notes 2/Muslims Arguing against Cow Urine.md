@@ -5,14 +5,14 @@ Prophet Mohammed asked his followers to drink camel urine as medicine in the Had
 Some people on Quora defended this claim by backing it up with scientific papers.
 
 One person on Quora argues against this by saying that:
-- If one Hadith disagrees with another, we take the most accurate one
-- Hadiths stress on the importance of cleanliness
-- We know that all animal urine is filthy
-- Hence, camel urine is also filthy
-- In Islam we say "EVERYTHING WAS HALAL UNTIL PROVEN HARAM"
-- Since it is proven haram, it is not to be followed
-- Islam is a religion based on facts and practicality. Superstitious and illogical behaviour is condemned in Islam.
-- Fabricating the teachings of Islam and Mohammed is a major sin
+> - If one Hadith disagrees with another, we take the most accurate one
+> - Hadiths stress on the importance of cleanliness
+> - We know that all animal urine is filthy
+> - Hence, camel urine is also filthy
+> - In Islam we say "EVERYTHING WAS HALAL UNTIL PROVEN HARAM"
+> - Since it is proven haram, it is not to be followed
+> - Islam is a religion based on facts and practicality. Superstitious and illogical behaviour is condemned in Islam.
+> - Fabricating the teachings of Islam and Mohammed is a major sin
 
 How terrible. They use science whenever it's in their favour, never does actual science, but only use wild reasoning (just like how they prove god using the Kalam cosmological argument, and also add in from nowhere that this is the word of god).
 
