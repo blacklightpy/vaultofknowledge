@@ -242,12 +242,12 @@
             }
           },
           {
-            "id": "6297fb77376f0e37",
+            "id": "82beada85e9b06c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals I Support.md",
+                "file": "Apostasy in Islam.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals I Support.md",
+                "file": "Apostasy in Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals I Support.md",
+                "file": "Apostasy in Islam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals I Support.md"
+                "file": "Apostasy in Islam.md"
               }
             }
           },
@@ -408,10 +408,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6297fb77376f0e37",
+  "active": "82beada85e9b06c7",
   "lastOpenFiles": [
-    "Goals I Support.md",
+    "Apostasy in Islam.md",
     "Developing Portable Programs.md",
+    "Goals I Support.md",
     "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
     "Family Trees.md",
@@ -437,7 +438,6 @@
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Spring Equation.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
-    "Qt for Android.md",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
