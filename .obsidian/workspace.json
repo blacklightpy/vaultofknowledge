@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40f7ce2a99e998dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The political history of western religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -322,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apostasy in Islam.md",
+                "file": "The political history of western religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apostasy in Islam.md",
+                "file": "The political history of western religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -359,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apostasy in Islam.md"
+                "file": "The political history of western religions.md"
               }
             }
           },
@@ -408,8 +421,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "82beada85e9b06c7",
+  "active": "40f7ce2a99e998dc",
   "lastOpenFiles": [
+    "The political history of western religions.md",
     "Apostasy in Islam.md",
     "Developing Portable Programs.md",
     "Goals I Support.md",
@@ -436,7 +450,6 @@
     "Understanding Linux Filesystem.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
-    "World Building/Science and Engineering/Engineering/Mechanical Engineering/Spring Equation.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
