@@ -279,9 +279,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a23954cc92ea1d1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -406,7 +416,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -434,7 +446,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3edc3d0c67e80e20",
+  "active": "a23954cc92ea1d1d",
   "lastOpenFiles": [
     "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
     "Child Marriage in Religions.md",
