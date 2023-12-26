@@ -2,3 +2,5 @@
 - Buddhism
 - Taoism
 - Shinto
+- Sikhism
+- Jainism
