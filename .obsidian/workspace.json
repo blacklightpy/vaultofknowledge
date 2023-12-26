@@ -281,12 +281,15 @@
             }
           },
           {
-            "id": "a23954cc92ea1d1d",
+            "id": "7808ac462ff8cda3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Eastern Religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -358,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Eastern Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +378,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Eastern Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -395,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Child Marriage in Religions.md"
+                "file": "Eastern Religions.md"
               }
             }
           },
@@ -446,10 +449,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a23954cc92ea1d1d",
+  "active": "7808ac462ff8cda3",
   "lastOpenFiles": [
-    "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
+    "Eastern Religions.md",
     "Child Marriage in Religions.md",
+    "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
     "Goals I Support.md",
     "Personal/Random Ideas",
     "The political history of western religions.md",
@@ -475,7 +479,6 @@
     "Z2-Rough Notes 2/Electromagnetics is just like acoustics.md",
     "How to do a chroot.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Understanding Buoyancy.md",
-    "Understanding Linux Filesystem.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
