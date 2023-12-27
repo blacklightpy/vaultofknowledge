@@ -266,9 +266,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6028004b5afe85d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture/Eastern Religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -335,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture/Hindu Culture.md",
+                "file": "Culture/Eastern Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture/Hindu Culture.md",
+                "file": "Culture/Eastern Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture/Hindu Culture.md"
+                "file": "Culture/Eastern Religions.md"
               }
             }
           },
@@ -423,11 +436,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3edc3d0c67e80e20",
+  "active": "6028004b5afe85d9",
   "lastOpenFiles": [
+    "Culture/Hindu Culture.md",
     "Apostasy in Islam.md",
     "How to configure a system.md",
-    "Culture/Hindu Culture.md",
     "Child Marriage in Religions.md",
     "Developing Portable Programs.md",
     "The political history of western religions.md",
