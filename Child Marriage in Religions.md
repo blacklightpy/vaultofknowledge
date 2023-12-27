@@ -1,7 +1,7 @@
 # Hinduism
 ## Claims and Reasoning
-- The wife must be one third of age
-- The girl must be married off before puberty
+- The wife must be one third of age (because ___ )
+- The girl must be married off before puberty (to avoid lust, dating, which are all considered immorality)
 ## Ruling In Favour
 
 **NOTE:** Source and more information for rules 1-15: https://hinduism.stackexchange.com/questions/44019/why-does-the-vishnu-purana-and-mahabharat-promote-child-marriage
