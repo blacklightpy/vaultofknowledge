@@ -18,7 +18,34 @@ Fourth:
 Fifth:
 > Āśvalāyana (Do.).—‘A maiden seven years old is called Śaiśavī; a man eighteen years of age shall marry her; a maiden eight years old is called Gaurī, conducive to richness of sons and grandsons; and she shall be married by a man twenty-five years old; a girl nine years old is called Rohiṇī conducive to richness of wealth; a wise man shall wed her for the accomplishment of all his desires; a girl over ten years age, until she has her courses, is called Gāndhārī; and she shall be married by a man desirous of living long.’
 
-Some other scriptures say that the girl should be same in caste, education and age. This contradicts these statements above, however
+Sixth:
+> [Manu 9.96](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201461.html) - Women were created for the purpose of child-bearing, and men for the purpose of procreation. hence it is that Religious Rites have been ordained in the Veda as common between the man and his wife.
+
+Seventh:
+> Gautama (18-21).—‘A girl should be given in marriage before puberty.’
+
+Eighth:
+> Vaśiṣṭha (17.70).—‘Out of fear of the appearance of the menses, let the father marry his daughter while she still runs about naked. For if she stays in the home after the age of puberty, sin falls on the father.’
+
+Ninth:
+> Baudhāyana (4. 1.11).—let him not keep the daughter in his house after she has reached the age of puberty.’
+
+Tenth:
+> [Manu 8.226](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201156.html) - The marriage-ritual texts are applicable to virgins only, and nowhere among men, to non-virgins; and this because these latter are excluded from religious acts.
+
+Eleventh:
+> [Manu 9.90](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201455.html) - Having reached puberty, the maiden may wait for three years; after that time, she shall procure a suitable husband.
+
+> 9.91 - When a maiden, when not given away, herself procures a husband, she incurs no sort of sin; nor does the man whom she weds.
+
+> [Manu 3.27](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199802.html) - When one himself invites a man endowed with learning and character and gives to him his daughter, after having dressed and worshipped (them),—this is called the “Brāhma” form.
+
+
+> [Manu 3.32](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199807.html) - The mutual union of the bride and bridegroom, through love is to be known as the “Gāndharva” form; it has sexual intercourse for its end and it has its source in lust.
+
+
+### Contradictions
+Some other scriptures say that the girl should be same in caste, education and age. This contradicts these statements above, however Hinduism is much more nuanced, and several scriptures are not the main scriptures, so I must distinguish between them.
 ## Ruling against
 
 > However, **discard** the desire (kama) and material wealth (artha) if contrary to Dharma; **as also, any usage or custom or rules regarded as source of Dharma if at any time they were to lead to unhappiness or arouse people's indignation.**
