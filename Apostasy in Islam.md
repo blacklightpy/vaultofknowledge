@@ -1,4 +1,7 @@
 - Nasr Abu Zayd
 	- Court ruled that owning slave girls is permitted as long as conditions are met and it is proven without any doubt by Islam
 	- By attacking Islam, he is attacking the state on which it was found
-	- Egyptian Islamic Jihad 
+	- He was denied promotion, and
+	- Egyptian Islamic Jihad tried to kill him
+	- He sought police protection, but police still referred to him as "the kafir"
+	- He flew to Europe with his wife later

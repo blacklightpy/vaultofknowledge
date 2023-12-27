@@ -247,7 +247,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Culture/Hindu Culture.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abecf009c26db6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apostasy in Islam.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -255,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -322,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Apostasy in Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Apostasy in Islam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -359,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Child Marriage in Religions.md"
+                "file": "Apostasy in Islam.md"
               }
             }
           },
@@ -410,8 +423,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3edc3d0c67e80e20",
+  "active": "abecf009c26db6e4",
   "lastOpenFiles": [
+    "How to configure a system.md",
     "Culture/Hindu Culture.md",
     "Child Marriage in Religions.md",
     "Developing Portable Programs.md",
@@ -429,7 +443,6 @@
     "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
     "Goals I Support.md",
     "Personal/Random Ideas",
-    "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
     "Personal/Random Ideas/Family Trees.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/IPC Signals.md",
