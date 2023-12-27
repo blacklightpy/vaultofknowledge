@@ -19,4 +19,7 @@
 
 ## My response
 
-- It says it is a way of life, or a philosophy, however, philosophies are reasonable, 
+- It says it is a way of life, or a philosophy, however, philosophies are reasonable, while Abrahamic religions are dogmas, which can never be changed, even if reasoning goes against it. Then it seeks to break reasoning to defend itself.
+- It provides state laws, but as a person who is dependent on a state, it is very oppressive that the state cannot accommodate my differences.
+- To Islam, human lives are precious, but it is only prioritized after the worship of God. In other words, dissent can result in death.
+- 
