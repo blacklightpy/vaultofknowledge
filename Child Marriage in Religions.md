@@ -17,6 +17,8 @@ Fourth:
 
 Fifth:
 > Āśvalāyana (Do.).—‘A maiden seven years old is called Śaiśavī; a man eighteen years of age shall marry her; a maiden eight years old is called Gaurī, conducive to richness of sons and grandsons; and she shall be married by a man twenty-five years old; a girl nine years old is called Rohiṇī conducive to richness of wealth; a wise man shall wed her for the accomplishment of all his desires; a girl over ten years age, until she has her courses, is called Gāndhārī; and she shall be married by a man desirous of living long.’
+
+Some other scriptures say that the girl should be same in caste, education and age. This contradicts these statements above, however
 ## Ruling against
 
 > However, **discard** the desire (kama) and material wealth (artha) if contrary to Dharma; **as also, any usage or custom or rules regarded as source of Dharma if at any time they were to lead to unhappiness or arouse people's indignation.**
