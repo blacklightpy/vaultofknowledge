@@ -1,11 +1,10 @@
 Hindus subscribe to a diversity of ideas on spirituality and traditions, but have no ecclesiastical order, no unquestionable religious authorities, no governing body, no prophet(s) nor any binding holy book; Hindus can choose to be polytheistic, pantheistic, monotheistic, monistic, agnostic, atheistic or humanist.
-
 ## Types of Hinduism
 - Folk Hinduism, based on local traditions and cults of local deities prior to the Vedic Age
 - Shrauta or "Vedic" Hinduism as practised by traditionalist brahmins
-- Vedantic Hinduism, including Advaita Vedanta (Smartism), based on the philosophical approach of the Upanishads.
-- Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali.
-- "Dharmic" Hinduism or "daily morality", based on Karma and upon societal norms such as Vivāha (Hindu marriage customs).
+- Vedantic Hinduism, including Advaita Vedanta (Smartism), based on the philosophical approach of the Upanishads
+- Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali
+- "Dharmic" Hinduism or "daily morality", based on Karma and upon societal norms such as Vivāha (Hindu marriage customs)
 - Bhakti or devotionalist practices
 ## Hindu denominations / sampradayas
 - Shaivism
@@ -13,7 +12,6 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Shaktism
 - Smartism (Advaita Vedanta + bhakti tradition)
 	- Worship of 5 dieties in a quincuix pattern, with Shiva, Vishnu, Devi/Durga, Surya and one Ishta Devata in the middle
-
 ## Scriptures
 - Srutis (eternal words)
   - Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)

@@ -65,3 +65,4 @@ Manu Smriti 4.176
 - Muslim Personal Law set the marriageable age of women at the age of 15, when puberty is attained, while they are still a minor.
 # Christianity
 # Judaism
+As per the Talmud, a three year old can marry and be had sex with.

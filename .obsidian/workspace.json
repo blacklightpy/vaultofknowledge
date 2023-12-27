@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Hindu Culture.md",
+                "file": "Child Marriage in Religions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture/Hindu Culture.md",
+                "file": "Child Marriage in Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture/Hindu Culture.md",
+                "file": "Child Marriage in Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture/Hindu Culture.md"
+                "file": "Child Marriage in Religions.md"
               }
             }
           },
@@ -412,6 +412,7 @@
   },
   "active": "3edc3d0c67e80e20",
   "lastOpenFiles": [
+    "Culture/Hindu Culture.md",
     "Child Marriage in Religions.md",
     "Developing Portable Programs.md",
     "Apostasy in Islam.md",
@@ -439,7 +440,6 @@
     "Why I calculate too much.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
     "Principles of System Design.md",
-    "Z2-Rough Notes 2/General Design Principles.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
