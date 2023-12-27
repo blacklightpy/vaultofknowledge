@@ -1,5 +1,10 @@
 # Hinduism
-## Ruling for
+## Claims and Reasoning
+- The wife must be one third of age
+- The girl must be married off before puberty
+## Ruling In Favour
+
+**NOTE:** Source and more information for rules 1-15: https://hinduism.stackexchange.com/questions/44019/why-does-the-vishnu-purana-and-mahabharat-promote-child-marriage
 
 First:
 > If he marry, he must select a maiden who is of a third of his age; one who has not too much hair, but is not without any; one who is not very black nor yellow complexioned, and who is not from birth a cripple or deformed. He must not marry a girl who is vicious or unhealthy, of low origin, or labouring under disease; one who has been ill brought up; one who talks improperly; one who inherits some malady from father or mother; one who has a beard, or who is of a masculine appearance; one who speaks thick or thin, or croaks like a raven; one who keeps her eyes shut, or has the eyes very prominent; one who has hairy legs, or thick ancles; or one who has dimples in her cheeks when she laughs. Let not a wise and prudent man marry a girl of such a description: nor let a considerate man wed a girl of a harsh skin; or one with white nails; or one with red eyes, or with very fat hands and feet; or one who is a dwarf, or who is very tall; or one whose eyebrows meet, or whose teeth are far apart, and resemble tusks. Let a householder marry a maiden who is in kin at least five degrees remote from his mother, and seven from his father, with the ceremonies enjoined by law 9. 
@@ -36,16 +41,20 @@ Tenth:
 Eleventh:
 > [Manu 9.90](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201455.html) - Having reached puberty, the maiden may wait for three years; after that time, she shall procure a suitable husband.
 
+Twelfth:
 > 9.91 - When a maiden, when not given away, herself procures a husband, she incurs no sort of sin; nor does the man whom she weds.
 
+Thirteenth:
 > [Manu 3.27](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199802.html) - When one himself invites a man endowed with learning and character and gives to him his daughter, after having dressed and worshipped (them),—this is called the “Brāhma” form.
 
-
+Fourteenth:
 > [Manu 3.32](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199807.html) - The mutual union of the bride and bridegroom, through love is to be known as the “Gāndharva” form; it has sexual intercourse for its end and it has its source in lust.
 
+Fifteenth:
+> [Manu 3.39](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199814.html) - Only from the four marriages mentioned successively, beginning with the Brāhma, are born sons endowed with Brahmic glory and respected by cultured persons.
 
-### Contradictions
-Some other scriptures say that the girl should be same in caste, education and age. This contradicts these statements above, however Hinduism is much more nuanced, and several scriptures are not the main scriptures, so I must distinguish between them.
+>[!NOTE] Contradictions
+Some other scriptures say that the girl should be same in caste, education and **age**. This contradicts these statements above, however Hinduism is much more nuanced, and several scriptures are not the main scriptures, so I must distinguish between them.
 ## Ruling against
 
 > However, **discard** the desire (kama) and material wealth (artha) if contrary to Dharma; **as also, any usage or custom or rules regarded as source of Dharma if at any time they were to lead to unhappiness or arouse people's indignation.**
