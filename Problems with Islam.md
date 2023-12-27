@@ -23,5 +23,6 @@
 - It provides state laws, but as a person who is dependent on a state, it is very oppressive that the state cannot accommodate my differences.
 - To Islam, human lives are precious, but it is only prioritized after the worship of God. In other words, dissent can result in death.
 - "Don't trust 'man made religions' or 'manipulated religions', Islam is the only true religion" - there is no proof for manipulation, because if so, the believers wouldn't be following them in the first place. 
-	- That is, simply changing the text doesn't become problematic, however, changing the historical claims, such
 	- Besides, religion is simply a way of thought, so it doesn't matter what it was originally, it only matters what it is now. And what Judaism is now is that people believe the laws of Moses were not altered.
+	- That is, simply changing the text doesn't become problematic, however, changing the historical claims, such as saying these are what Moses said, as opposed to we have corrected what Moses said, is wrong.
+	- And I don't think Jews believe the laws of Moses were modified, so I don't see the problem.
