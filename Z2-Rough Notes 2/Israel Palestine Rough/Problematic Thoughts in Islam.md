@@ -25,6 +25,10 @@ By this, it looks like the Hadiths are worse than music itself, because music by
 # Halal meat
 Sikhism has a ruling against consuming Halal meat, and I wondered why because I thought Halal meat was about respecting the animal before consuming it. Rather, I realized it was on the contrary!
 
-Halal meat
+Halal meat requires that the throat of the animal be slit, and the blood be drained, however, the spinal cord must not be cut. This is to ensure that the animal is kept alive while it's blood is being removed.
+
+This is horrible!
+
+On the contrary, Sikhism
 
 

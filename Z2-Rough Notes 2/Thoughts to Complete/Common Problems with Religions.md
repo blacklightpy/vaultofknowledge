@@ -11,6 +11,8 @@
 - Hinduism
 	- Casteism
 		- The Vedic texts were originally written by Indo-Europeans with positive goals, describing mythological civilizations comprised of a hierarchical society, where the roles are taken up by choice, but as time went on, it was used to segregate people into castes, and also started rampant idol worship
+	- Justification for Rituals
+		- Dharma Shastra defines laws, but if you keep asking why questions, the only answer will be that it is the will of god.
 - Sree Narayana Religion
 	- Casteist Superiority Complex
 		- Sree Narayana Guru said "one caste, one religion, for all man"
