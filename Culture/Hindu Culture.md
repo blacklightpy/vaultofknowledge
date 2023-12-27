@@ -3,9 +3,9 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 ## Hindu denominations / sampradayas
 - Shaivism
 - Vaishnavism
-  - Worship of 5 dieties in a quincuix pattern, with one Ishta Devata in the middle
 - Shaktism
-- Smartism
+- Smartism (Advaita Vedanta + bhakti tradition)
+	- Worship of 5 dieties in a quincuix pattern, with Shiva, Vishnu, Devi/Durga, Surya and one Ishta Devata in the middle
 
 ## Scriptures
 - Srutis (eternal words)
