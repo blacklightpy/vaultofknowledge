@@ -14,4 +14,5 @@
 - It rejects circumcision and burial of the dead.
 ## Shinto
 - It regards the Kami as the god
-- It is 
+- It is nature itself, and can be seen as single or as multiple
+- Western classification of it as polytheistic is not supported by Japanese people
