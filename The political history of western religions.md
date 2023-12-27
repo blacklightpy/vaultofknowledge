@@ -8,4 +8,4 @@ Britain: Christians arrived in India, Hated Jews initially, Started institutions
 
 Islam: Strict from the start, Against America's interests of lavish freedom to do anything, Seen as terrorists after 9/11
 
-America: Was neutral and capitalist, Took in the Jews during the Holocaust, Allied with their ways, Backed Israel
+America: Original Americans were kicked out south after the Independence, They are Spanish and French, Was neutral and capitalist, Took in the Jews during the Holocaust, Allied with their ways, Backed Israel

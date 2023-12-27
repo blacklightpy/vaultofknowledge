@@ -266,9 +266,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03818b88cecd4680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The political history of western religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -335,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "The political history of western religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "The political history of western religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Child Marriage in Religions.md"
+                "file": "The political history of western religions.md"
               }
             }
           },
@@ -423,11 +436,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3edc3d0c67e80e20",
+  "active": "03818b88cecd4680",
   "lastOpenFiles": [
+    "Child Marriage in Religions.md",
     "Apostasy in Islam.md",
     "The political history of western religions.md",
-    "Child Marriage in Religions.md",
     "History/Religion/Arguments against Islam.md",
     "Problems with Islam.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Problems with Religions in General (long).md",
