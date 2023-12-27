@@ -64,7 +64,6 @@ Manu Smriti 4.176
 ## Law in India
 - Muslim Personal Law set the marriageable age of women at the age of 15, when puberty is attained, while they are still a minor.
 # Christianity
-Jesus and David never outlawed these.
 
 > > Mary was estimated to be 12 or so when she had Jesus
 >
@@ -77,5 +76,9 @@ Jesus and David never outlawed these.
 > - Abraham told others about Rebekah’s birth when Sarah was 127 (So, Rebekah was born the same year that Sarah died, and therefore Isaac would have been 37).
 > 
 > So, 3 years passed between the death of his mother, the birth of Rebekah, and then his marriage.
+
+Jesus never outlawed the Talmudian tradition of having sex with 3 year olds.
 # Judaism
-As per the Talmud, a three year old can marry and be had sex with.
+As per the Talmud, a 3 year old can marry and be had sex with.
+
+A Jew may have sex with a girl as long as she is less than nine years old.
