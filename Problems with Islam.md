@@ -22,4 +22,6 @@
 - It says it is a way of life, or a philosophy, however, philosophies are reasonable, while Abrahamic religions are dogmas, which can never be changed, even if reasoning goes against it. Then it seeks to break reasoning to defend itself.
 - It provides state laws, but as a person who is dependent on a state, it is very oppressive that the state cannot accommodate my differences.
 - To Islam, human lives are precious, but it is only prioritized after the worship of God. In other words, dissent can result in death.
-- 
+- "Don't trust 'man made religions' or 'manipulated religions', Islam is the only true religion" - there is no proof for manipulation, because if so, the believers wouldn't be following them in the first place. 
+
+Besides, religion is simply a way of thought, so it doesn't matter what it was originally, it only matters what it is now. And what Judaism is now is that 
