@@ -64,5 +64,18 @@ Manu Smriti 4.176
 ## Law in India
 - Muslim Personal Law set the marriageable age of women at the age of 15, when puberty is attained, while they are still a minor.
 # Christianity
+Jesus and David never outlawed these.
+
+> > Mary was estimated to be 12 or so when she had Jesus
+>
+> Isaac literally married a 3-year-old. One can see that with simple math:
+> 
+> - Sarah was 90 when Abraham was 100 (Genesis 17:17).
+> - Abraham was 100 when Isaac was born (Genesis 21:5).
+> - Sarah died at aged 127 (Genesis 23:1-2) [Thus, Isaac would be 37 as 127-90=37]
+> - Isaac was 40 when he married Rebekah (Genesis 25:20)
+> - Abraham told others about Rebekah’s birth when Sarah was 127 (So, Rebekah was born the same year that Sarah died, and therefore Isaac would have been 37).
+> 
+> So, 3 years passed between the death of his mother, the birth of Rebekah, and then his marriage.
 # Judaism
 As per the Talmud, a three year old can marry and be had sex with.
