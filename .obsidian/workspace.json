@@ -279,9 +279,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95134d20bde975a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems with Islam.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -348,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Problems with Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +378,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Problems with Islam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -385,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Child Marriage in Religions.md"
+                "file": "Problems with Islam.md"
               }
             }
           },
@@ -436,18 +449,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "95134d20bde975a4",
   "lastOpenFiles": [
+    "Z2-Rough Notes 2/Thoughts to Complete/Problems with Religions in General (long).md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Problems with Abrahamic Religions.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Common Problems with Religions.md",
+    "Problems with Islam.md",
+    "Z2-Rough Notes 2/Israel Palestine Rough/Problematic Thoughts in Islam.md",
+    "History/Religion/Arguments against Islam.md",
+    "Developing Portable Programs.md",
+    "Apostasy in Islam.md",
+    "The political history of western religions.md",
+    "Child Marriage in Religions.md",
     "Culture/Eastern Religions.md",
     "Z2-Rough Notes 2/Kalam Argument.md",
     "Z2-Rough Notes 2/Muslims Arguing against Cow Urine.md",
-    "Child Marriage in Religions.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
     "Goals I Support.md",
     "Personal/Random Ideas",
-    "The political history of western religions.md",
-    "Apostasy in Islam.md",
-    "Developing Portable Programs.md",
     "How to configure a system.md",
     "Developing Modern Computer Instructions.md",
     "Personal/Random Ideas/Family Trees.md",
@@ -460,12 +479,6 @@
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
     "Principles of System Design.md",
     "Z2-Rough Notes 2/General Design Principles.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
-    "Storage Blocks.md",
-    "Manual vs Automated.md",
-    "CMake.md",
-    "World Building/Science and Engineering/Information and Communication Technology/DevOps/Build Systems.md",
-    "Z2-Rough Notes 2/Electromagnetics is just like acoustics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
