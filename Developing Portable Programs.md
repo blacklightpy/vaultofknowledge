@@ -15,7 +15,4 @@ Java and similarly interpreted languages are an exception to this, as they are r
 
 
 
-
-
-
-Candidates: LLVM, WASM
+Candidates: LLVM, WASM, and the new Cosmopolitan C Library.

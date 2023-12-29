@@ -242,19 +242,6 @@
             }
           },
           {
-            "id": "3edc3d0c67e80e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Child Marriage in Religions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "abecf009c26db6e4",
             "type": "leaf",
             "state": {
@@ -281,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -348,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Child Marriage in Religions.md",
+                "file": "Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -385,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Child Marriage in Religions.md"
+                "file": "Developing Portable Programs.md"
               }
             }
           },
@@ -436,13 +423,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3edc3d0c67e80e20",
+  "active": "3b9a7cacd0e7fbfb",
   "lastOpenFiles": [
+    "Child Marriage in Religions.md",
     "Culture/Hindu Culture.md",
     "Culture/Eastern Religions.md",
     "Apostasy in Islam.md",
     "How to configure a system.md",
-    "Child Marriage in Religions.md",
     "Developing Portable Programs.md",
     "The political history of western religions.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/Problematic Thoughts in Islam.md",
