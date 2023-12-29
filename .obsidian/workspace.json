@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture/Hindu Culture.md",
+                "file": "Child Marriage in Religions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -281,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture/Eastern Religions.md",
+                "file": "Child Marriage in Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture/Eastern Religions.md",
+                "file": "Child Marriage in Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -385,7 +385,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture/Eastern Religions.md"
+                "file": "Child Marriage in Religions.md"
               }
             }
           },
@@ -436,15 +436,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6028004b5afe85d9",
+  "active": "3edc3d0c67e80e20",
   "lastOpenFiles": [
     "Culture/Hindu Culture.md",
+    "Culture/Eastern Religions.md",
     "Apostasy in Islam.md",
     "How to configure a system.md",
     "Child Marriage in Religions.md",
     "Developing Portable Programs.md",
     "The political history of western religions.md",
-    "Culture/Eastern Religions.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/Problematic Thoughts in Islam.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Common Problems with Religions.md",
     "History/Religion/Arguments against Islam.md",

@@ -76,6 +76,8 @@ Manu Smriti 4.176
 > - Abraham told others about Rebekah’s birth when Sarah was 127 (So, Rebekah was born the same year that Sarah died, and therefore Isaac would have been 37).
 > 
 > So, 3 years passed between the death of his mother, the birth of Rebekah, and then his marriage.
+> 
+> **But this could just be a mistake in the chronology of storytelling, but anyways that points to how the story is false, because those events took place, and if the timing is off, then events will unfold in different ways only (especially whenever there's a lot of activity).**
 
 Jesus never outlawed the Talmudian tradition of having sex with 3 year olds.
 # Judaism
