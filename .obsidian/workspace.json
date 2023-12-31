@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conway's Game of Life.md",
+                "file": "Garden of Eden Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conway's Game of Life.md",
+                "file": "Garden of Eden Patterns.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conway's Game of Life.md"
+                "file": "Garden of Eden Patterns.md"
               }
             }
           },
@@ -454,7 +454,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Conway's Game of Life.md",
+                    "file": "Cellular Automaton.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "49676251937ae890",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Garden of Eden Patterns.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -462,7 +475,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -475,10 +488,12 @@
       }
     ]
   },
-  "active": "e29e5994f9746acf",
+  "active": "49676251937ae890",
   "lastOpenFiles": [
+    "Garden of Eden Patterns.md",
     "Cellular Automaton.md",
     "Conway's Game of Life.md",
+    "Universal Constructor.md",
     "Digital Physics.md",
     "Feynman's Theory of Cellular Automata.md",
     "Z2-Rough Notes 2/Wolfram Physics.md",
@@ -501,8 +516,6 @@
     "Z2-Rough Notes 2/Thoughts to Complete/Problems with Abrahamic Religions.md",
     "Z2-Rough Notes 2/Kalam Argument.md",
     "Z2-Rough Notes 2/Muslims Arguing against Cow Urine.md",
-    "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
-    "Goals I Support.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
