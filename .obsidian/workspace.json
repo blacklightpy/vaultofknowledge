@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Displacement Current.md",
+                "file": "Capacitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Displacement Current.md",
+                "file": "Capacitance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Displacement Current.md"
+                "file": "Capacitance.md"
               }
             }
           },
@@ -493,7 +493,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Displacement Current.md",
+                    "file": "Dielectric.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -501,7 +501,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -514,8 +514,13 @@
       }
     ]
   },
-  "active": "abccf88dad16a04c",
+  "active": "65885c939d9a222f",
   "lastOpenFiles": [
+    "Dielectric.md",
+    "World Building/Science and Engineering/Physics/Susceptibility.md",
+    "Electrical Susceptibility.md",
+    "Magnetic Susceptibility.md",
+    "World Building/Science and Engineering/Physics/Extensive Property.md",
     "Displacement Current.md",
     "Capacitance.md",
     "Z1-Rough Notes/Fusion 360/Capacitors.md",
@@ -537,11 +542,6 @@
     "Eigenvalues.md",
     "Developing Portable Programs.md",
     "Flow of Electricity.md",
-    "Waveguide.md",
-    "Telegrapher's equations.md",
-    "Submarine Telecommunication Cables.md",
-    "Fermi velocity.md",
-    "Fermi surface.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
