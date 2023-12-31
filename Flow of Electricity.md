@@ -14,20 +14,20 @@
 - The circuit needs multiple cycles before the full power is negotiated, and the circuit enters the steady state.
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
-> ElectroBOOM
+> ElectroBOOM:
 - The current flow can be modeled using infinite capacitors and infinite inductors along the wire.
 	- This is called a lumped element model
 - Because of this, the burst of current gets flattened out as it moves along the wire, because of the inductances pushing back and the capacitors sucking out the charges.
 - But if you consider that the bulb turns on at any current, there is always the leakage current from the battery jumping the gap, even when the circuit is closed, so the bulb will always be on.
 
-> Veritasium
+> Veritasium:
 - The Poynting vector shows the direction of flow of power according to Maxwell's laws
 	- $\large \vec S = \dfrac{1}{\mu_0} \vec E \times \vec B = \vec E \times \vec H$
 	- Should one use $\large \vec B$ or $\large \vec H$? It seems like one can choose it as they wish, because some times, $\large \vec E$ is more comparable to $\large \vec B$ and at other times with $\large \vec H$.
 	- Remember, $\large \vec B$ or $\large \vec H$ don't contain $\large \mu_0$, but $\large \vec E$ does contain $\large \epsilon_0$. So that value stays outside whether you use $\large \vec B$ or $\large \vec H$.
 	- According to Ecosia Chat (powered by ChatGPT), $\large \vec B$ is used best when a magnetic material is involved and $\large \vec H$ is used best when a magnetic circuit is involved.
 
-> 
+> EEVBlog:
 - In AC, the Poynting vector points outwards, but it spreads out in all directions and much of the energy also radiates away, and this gets more with higher frequency.
 	- Inductors and Capacitors only matter later on for transient / AC cases.
 - In DC, the Poynting vector actually points inwards, considering a circuit with uniform resistance.
@@ -36,6 +36,7 @@
 	- In DC, there is no skin effect, which is the AC tendency to have higher current density at the surface, so the Poynting vector goes all the way to the center.
 	- So in DC, power can be said as flowing through the wire.
 
+> The Science Asylum:
 - The Poynting Vector points outside the battery, and inwards to the circuit wire.
 
 - In engineering, we have
@@ -43,6 +44,7 @@
 	- Transient analysis (for AC)
 	- Steady State analysis (for DC)
 
+> AlphaPhoenix:
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
 	- $v_d=\mu E$
@@ -51,7 +53,6 @@
 		- Math checks out :p
 - For DV voltages in a copper wire of 2mm at 1 A, $\large v_d$ is about 8 cm/hr.
 - For AC voltages, there is no net drift velocity, as the electrons oscillate back and forth.
-
 - Why this drift happens is a bit more complicated (that is, about the Fermi velocity)
 
 ## More points from Wikipedia
