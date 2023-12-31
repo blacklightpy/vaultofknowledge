@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow of Electricity.md",
+                "file": "Feynman's Theory of Cellular Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow of Electricity.md",
+                "file": "Feynman's Theory of Cellular Automata.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow of Electricity.md"
+                "file": "Feynman's Theory of Cellular Automata.md"
               }
             }
           },
@@ -447,8 +447,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "81d288c4f3008390",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Feynman's Theory of Cellular Automata.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -461,10 +475,11 @@
       }
     ]
   },
-  "active": "6413e9df60d0dfcd",
+  "active": "81d288c4f3008390",
   "lastOpenFiles": [
-    "Problems with Islam.md",
     "Flow of Electricity.md",
+    "Feynman's Theory of Cellular Automata.md",
+    "Problems with Islam.md",
     "Developing Portable Programs.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "Velocity Factor.md",
@@ -490,7 +505,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
-    "Z1-Rough Notes/Rices I want to try out.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",

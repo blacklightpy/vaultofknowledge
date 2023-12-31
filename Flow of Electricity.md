@@ -42,10 +42,6 @@
 		- Carrier Mobility: For both holes and electrons
 
 - Lattice Model, in ==mathematical physics==
-	- Feynman cited the Game of Life as an example of cellular automata.
-	- He wondered what was at the smallest level of the universe.
-	- One possible answer was that it was a cellular automaton.
-	- The notion is that, at the lowest level, the "continuum" might be discrete in both space and time, and the laws of physics might be a macroscopic result of the behaviour of those tiny cells.
-	- Each cell 
+	- [[Feynman's Theory of Cellular Automata]]
 - Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
 	- For approximate solutions, starting from an exact solution of a related, but simpler problem
