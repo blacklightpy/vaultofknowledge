@@ -16,7 +16,8 @@
 		- Math checks out :p
 - For DV voltages in a copper wire of 2mm at 1 A, $\large v_d$ is about 8 cm/hr.
 - For AC voltages, there is no net drift velocity, as the electrons oscillate back and forth.
-- Why this happens is a bit more complicated
+
+- Why this drift happens is a bit more complicated (that is, about the Fermi velocity)
 
 ## More points from Wikipedia
 - The magnetic component is considered to be in phase with the current, and the electric component is considered to be in phase with the voltage.
