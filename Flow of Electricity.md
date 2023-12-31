@@ -11,6 +11,7 @@
 
 - The current flow can be modeled using infinite capacitors and infinite inductors along the wire.
 - Because of this, the burst of current gets flattened out as it moves along the wire, because of the inductances pushing back and the capacitors sucking out the charges.
+- But if you consider that the bulb turns on at any current, there is always the leakage current from the battery jumping the gap, even when the circuit is closed, so the bulb will always be on.
 
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
