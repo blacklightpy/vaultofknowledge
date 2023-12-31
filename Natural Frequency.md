@@ -10,6 +10,8 @@ For a mass-spring system of mass $\large m$ and stiffness $\large k$, the natura
 
 $\large \omega_0 = \sqrt{\dfrac{k}{m}}$,
 
-In [[LC Circuits|LC]] and [[RLC circuits]], its natural angular frequency can be calculated as
+In [[LC Circuits|LC]] and [[RLC circuits]], its natural angular frequency can be calculated as:
+
+$\large \omega_0 = \sqrt{\dfrac{1}{LC}}$,
 # Related
 - [[Fundamental Frequency]]
