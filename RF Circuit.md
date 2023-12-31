@@ -1,2 +1,15 @@
 # Components
 - [[Resonator]]
+- Active Components
+	- Amplifiers
+		- Low Noise Amplifier
+		- Power Amplifier
+	- Mixer
+	- Phase-Locked Loops (PLLs)
+	- [[Analog to Digital Converters|ADCs]] and DACs
+- Passive Compone
+- Filter
+- Switch
+- Transmitter Antenna
+- Reciever Antenna
+- Waveguide
