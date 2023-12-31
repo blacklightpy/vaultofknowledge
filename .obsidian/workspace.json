@@ -335,6 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flow of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,6 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flow of Electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -369,7 +371,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flow of Electricity.md"
+              }
             }
           },
           {
@@ -435,8 +439,13 @@
                 "id": "6413e9df60d0dfcd",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Flow of Electricity.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
                 }
               }
             ]
@@ -454,6 +463,7 @@
   },
   "active": "6413e9df60d0dfcd",
   "lastOpenFiles": [
+    "Flow of Electricity.md",
     "Velocity Factor.md",
     "Developing Portable Programs.md",
     "Child Marriage in Religions.md",
@@ -481,7 +491,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "Z1-Rough Notes/Rices I want to try out.md",
     "Why I calculate too much.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
