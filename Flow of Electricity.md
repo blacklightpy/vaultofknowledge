@@ -13,10 +13,7 @@
 	- $v_d=\mu E$
 	- Can be reformulated as $v_d = J/ne = I/nAe$, where $n$ is the charge carrier number density ($N/V$) and $e$ is the charge of the charge carrier
 	- Also as $v_d = \dfrac{m \sigma \Delta V}{\rho e f l}$, where $m$ is the molecular mass ($M/N_0$), $\sigma$ is the conductivity, $\Delta V$ is the voltage, $\rho$ is the density, $e$ is the electric charge, $f$ is the number of free electrons, $l$ is the length of the conductor.
-
-sigma deltaV
-nN0 L                   ne 
-
+		- Math checks out :p
 - Why this happens is a bit more complicated
 # More topics to cover
 - Thermodynamic Potential
