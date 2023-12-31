@@ -1,1 +1,1 @@
-A resonator is a device or system that exhibits [[Resonance]] or resonant behaviour.
+A resonator is a device or system that exhibits [[resonance]] or resonant behaviour.
