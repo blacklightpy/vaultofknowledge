@@ -27,9 +27,13 @@
 - In DC, the Poynting vector actually points inwards, considering a circuit with uniform resistance.
 	- In DC, once the circuit is negotiated, energy has to flow through the full path, and not through the shortcut path.
 	- This is called the DC steady state.
-	- In DC, there is no skin effect
+	- In DC, there is no skin effect, which is the AC tendency to have higher current density at the surface, so the Poynting vector goes all the way to the center.
+	- So in DC, power can be said as flowing through the wire.
 
-In eng
+- In engineering, we have
+	- Transmission Line Analysis (first part)
+	- Transient analysis (for AC)
+	- Steady State analysis (for DC)
 
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
