@@ -1,0 +1,1 @@
+Used in [[mechanical engineering]] and in electrodynamics.

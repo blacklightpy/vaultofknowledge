@@ -10,4 +10,16 @@ $\large \omega_0 = \sqrt{\dfrac{k}{m}}$,
 
 where:
 $\large k$ is the stiffness of the string
-$\large $
+$\large m$ is the mass of the body
+$\large \omega_0$ is the natural frequency in rad/s
+
+In [[modal analysis]], the frequency of  the 1st mode is the fundamental frequency.
+This is also expressed as:
+
+$\large f_0 = \dfrac{1}{2l} \sqrt{\dfrac{T}{\mu}}$,
+
+where:
+$\large f_0$
+$\large l$
+$\large \mu$
+$\large T$
