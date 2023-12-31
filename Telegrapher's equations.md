@@ -13,3 +13,4 @@ $\large Z = R = \sqrt{\dfrac{2L}{C}}$
 So we can remove the capacitor and inductor chain and replace it with a resistor.
 This is how the circuit will perceive the current, until it reaches the end and returns with the information.
 Then it will proceed to the next step of negotiation, and repeat. Just like solving a maze, but of circuit paths here.
+The final state is called the steady state.

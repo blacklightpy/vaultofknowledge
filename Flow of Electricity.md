@@ -8,7 +8,7 @@
 - The wire acts as a [[waveguide]].
 
 - Ohm's law is a good approximation, and comes into effect after the circuit has solved the potential path.
-- The circuit needs multiple cycles before the full power is negotiated.
+- The circuit needs multiple cycles before the full power is negotiated, and the circuit enters the steady state.
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
 - The current flow can be modeled using infinite capacitors and infinite inductors along the wire.
@@ -23,6 +23,7 @@
 	- According to Ecosia Chat (powered by ChatGPT), $\large \vec B$ is used best when a magnetic material is involved and $\large \vec H$ is used best when a magnetic circuit is involved.
 
 - In AC, the Poynting vector points outwards, but it spreads out in all directions and much of the energy also radiates away, and this gets more with higher frequency.
+	- Inductors and Capacitors only matter 
 - In DC, the Poynting vector actually points inwards, considering a circuit with uniform resistance.
 
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
