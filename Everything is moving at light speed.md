@@ -1,0 +1,7 @@
+- 1. Flow of information or events in spacetime.
+- 2. I was thinking of the slowest speed
+	- I thought the distance to start thinking with is the Planck distance
+	- Planck distance in Planck time is lightspeed
+	- But 1 Planck distance in 2 Planck time seems weird. As if things that weren't moving suddenly chose to move in some frames of the universe.
+	- This led me to think back about my idea of disregarding the notion of length, and only considering velocity and momentum, or more fundamentally, just energy curvature.
+	- All particles are at least oscillating at light speed. And all particles are in motion too, but co
