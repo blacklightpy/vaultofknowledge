@@ -6,3 +6,5 @@ It is an electronic circuit that produces a periodic, oscillating or alternating
 	- This term is used in the field of audio synthesizers, to distinguish it from audio frequency oscillators
 - Audio Oscillator: Produces frequencies between 20 Hz to 20 kHz
 - RF Oscillator
+
+## 

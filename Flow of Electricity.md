@@ -15,6 +15,10 @@
 	- Also as $v_d = \dfrac{m \sigma \Delta V}{\rho e f l}$, where $m$ is the molecular mass ($M/N_0$), $\sigma$ is the conductivity, $\Delta V$ is the voltage, $\rho$ is the density, $e$ is the electric charge, $f$ is the number of free electrons, $l$ is the length of the conductor.
 		- Math checks out :p
 - Why this happens is a bit more complicated
+
+## More points from Wikipedia
+- The magnetic component is considered to be in phase with the current, and the electric component is considered to be in phase with the voltage.
+- As a note, the fields do not move through space, it is just the electromagnetic energy that moves, which increases and decreases the field intensity in the space.
 # More topics to cover
 - Thermodynamic Potential
 	- e.g. Internal Energy, Helmholtz Free Energy, Enthalpy, Gibbs Energy
@@ -41,7 +45,7 @@
 		- Hole mobility: For holes
 		- Carrier Mobility: For both holes and electrons
 
-- The flow of electromagnetic waves when they interact with the materials around the cable and the presence of electric charge carriers and magnetic dipoles are usually described using "mean field theory" by the permeability and permittivity of the materials involved.
+- The flow of electromagnetic waves when they interact with the materials around the cable and the presence of electric charge carriers and magnetic dipoles are usually described using "mean field theory" by the [[permeability]] and [[permittivity]] of the materials involved.
 - Mean Field Theory, in ==physics== and ==probability theory==
 - Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
 	- For approximate solutions, starting from an exact solution of a related, but simpler problem
