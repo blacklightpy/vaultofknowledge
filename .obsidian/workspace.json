@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existential Theories.md",
+                "file": "Flow of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existential Theories.md",
+                "file": "Flow of Electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Existential Theories.md"
+                "file": "Flow of Electricity.md"
               }
             }
           },
@@ -447,35 +447,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "e29e5994f9746acf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Digital Physics.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "650f1e32a6931040",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Existential Theories.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -488,19 +461,19 @@
       }
     ]
   },
-  "active": "650f1e32a6931040",
+  "active": "6413e9df60d0dfcd",
   "lastOpenFiles": [
-    "Culture/Taoism.md",
-    "Existential Theories.md",
+    "Feynman's Theory of Cellular Automata.md",
+    "Flow of Electricity.md",
     "Digital Physics.md",
+    "Existential Theories.md",
+    "Culture/Taoism.md",
     "Cellular Automaton.md",
     "Garden of Eden Patterns.md",
     "Conway's Game of Life.md",
     "Universal Constructor.md",
-    "Feynman's Theory of Cellular Automata.md",
     "Z2-Rough Notes 2/Wolfram Physics.md",
     "Bekenstein bound.md",
-    "Flow of Electricity.md",
     "Problems with Islam.md",
     "Developing Portable Programs.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",

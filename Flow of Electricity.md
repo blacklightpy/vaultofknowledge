@@ -42,6 +42,10 @@
 		- Carrier Mobility: For both holes and electrons
 
 - Lattice Model, in ==mathematical physics==
-	- [[Feynman's Theory of Cellular Automata]]
+	- [[Quantum Chromodynamics|QCD]] Lattice Model
+	- [[Digital Physics]]
+		- Limit on Information Density
+			- Holographic Principle, in ==String theory==
+		- [[Feynman's Theory of Cellular Automata]]
 - Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
 	- For approximate solutions, starting from an exact solution of a related, but simpler problem
