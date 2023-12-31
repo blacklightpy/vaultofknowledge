@@ -12,7 +12,7 @@
 - When a potential is applied, they will move about at a drift velocity towards one direction.
 	- $v_d=\mu E$
 	- Can be reformulated as $v_d = J/nq = I/nAq$
-	- Also as $v_d = \dfrac{m \sigma \Delta V}{\rho e f l}$, where 
+	- Also as $v_d = \dfrac{m \sigma \Delta V}{\rho e f l}$, where $m$ is the molecular mass ($M/N_0$), $\sigma$ is the conductivity, $\Delta V$ is the voltage, $\rho$  
 - Why this happens is a bit more complicated
 # More topics to cover
 - Thermodynamic Potential
@@ -36,3 +36,6 @@
 		- $J=\sigma E$ (By Ohm's Law)
 		- $\sigma=en\mu_e+ep\mu_h$
 		- $\sigma=e(n\mu_e+p\mu_e)$
+	- Related quantities:
+		- Hole mobility: For holes
+		- Carrier Mobility: For both holes and electrons
