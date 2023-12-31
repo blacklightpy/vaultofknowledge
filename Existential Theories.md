@@ -1,0 +1,6 @@
+- Simulation Hypothesis
+- It for Bit
+- Dream Hypothesis
+	- Butterfly Dream by Zhaugzi
+		- It is one of the two foundational texts of [[Taoism]]
+	- Indian Philosophy of Maya
