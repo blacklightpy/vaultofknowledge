@@ -9,7 +9,7 @@
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
 - Free electrons in a conductor will move at the Fermi velocity in random directions. The net velocity will be 0.
-- When a potential is applied, they will move about at a drift velocity.
+- When a potential is applied, they will move about at a drift velocity towards one direction.
 - Why this happens is a bit more complicated
 # More topics to cover
 - Thermodynamic Potential
