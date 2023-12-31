@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Velocity Factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Velocity Factor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Portable Programs.md"
+                "file": "Velocity Factor.md"
               }
             }
           },
@@ -423,14 +423,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3b9a7cacd0e7fbfb",
+  "floating": {
+    "id": "f9d423485a55ecda",
+    "type": "floating",
+    "children": [
+      {
+        "id": "bf07d75a2116d679",
+        "type": "window",
+        "children": [
+          {
+            "id": "569062d0a2306dcb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0927ee6874d0b9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Velocity Factor.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 22,
+        "y": 84,
+        "width": 1236,
+        "height": 918,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b0927ee6874d0b9d",
   "lastOpenFiles": [
+    "Velocity Factor.md",
+    "Developing Portable Programs.md",
     "Child Marriage in Religions.md",
     "Culture/Hindu Culture.md",
     "Culture/Eastern Religions.md",
     "Apostasy in Islam.md",
     "How to configure a system.md",
-    "Developing Portable Programs.md",
     "The political history of western religions.md",
     "Z2-Rough Notes 2/Israel Palestine Rough/Problematic Thoughts in Islam.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Common Problems with Religions.md",
@@ -452,7 +491,6 @@
     "Z1-Rough Notes/Rices I want to try out.md",
     "Why I calculate too much.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why capitalism is harmful to society.md",
-    "Principles of System Design.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
