@@ -8,6 +8,4 @@
 > Source: [Cellular Automata | Talk: Bekenstein bound | Wikipedia](https://en.wikipedia.org/wiki/Talk:Bekenstein_bound#Cellular_automata)
 
 # Related
-- Bekenstein bound
-	- It is an upper limit on the thermodynamic entropy $S$
-	- Proof in [[Quantum Field Theory|QFT]] was given in 2008
+- [[Bekenstein bound]]
