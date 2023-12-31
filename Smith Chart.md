@@ -1,1 +1,1 @@
-The one I encountered when I dived deep into bilinear mapping [[bilinear]]
+The one I encountered when I dived deep into bilinear mapping.
