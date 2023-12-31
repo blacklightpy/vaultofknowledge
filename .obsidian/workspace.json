@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eigenvalues.md",
+                "file": "Natural Frequency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eigenvalues.md",
+                "file": "Natural Frequency.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eigenvalues.md"
+                "file": "Natural Frequency.md"
               }
             }
           },
@@ -473,22 +473,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "b1165a9e9fd54f45",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Eigenvalues.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -501,7 +488,7 @@
       }
     ]
   },
-  "active": "b1165a9e9fd54f45",
+  "active": "e92ec81f2cf06a3c",
   "lastOpenFiles": [
     "Eigenvalues.md",
     "Natural Frequency.md",

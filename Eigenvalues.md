@@ -1,1 +1,1 @@
-Something in maths and quantum mechanic
+Something in linear algebra.
