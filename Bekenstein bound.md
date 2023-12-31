@@ -5,6 +5,5 @@ It implies that the information of a physical system, or the information necessa
 In computer science, this implies that non-finite models such as [[Turing Machine|Turning machines]] are not realizable as finite devices.
 
 A proof using [[Quantum Field Theory|QFT]] was given in 2008.
-
-# Applications
-The entropy of a black hole i
+# Examples
+- According to Bekenstein bound, the entropy of a [[black hole]] is proportional to the number of Planck areas that it would take to cover the black hole's event horizon.

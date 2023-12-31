@@ -6,6 +6,6 @@
 - If the universe in fact worked this way, it would have testable consequences, such as an upper limit on the density of information per cubic meter of space.
 
 > Source: [Cellular Automata | Talk: Bekenstein bound | Wikipedia](https://en.wikipedia.org/wiki/Talk:Bekenstein_bound#Cellular_automata)
-
 # Related
 - [[Bekenstein bound]]
+- [[Digital Physics]]
