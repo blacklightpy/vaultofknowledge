@@ -10,6 +10,9 @@
 
 - Free electrons in a conductor will move at the Fermi velocity in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
+	- $v_d=\mu E$
+	- Can be reformulated as $v_d = J/nq = I/nAq$
+	- Also as $v_d = \dfrac{m \sigma \Delta V}{\rho e f l}$, where 
 - Why this happens is a bit more complicated
 # More topics to cover
 - Thermodynamic Potential
