@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quartz.md",
+                "file": "Crystal Oscillator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quartz.md",
+                "file": "Crystal Oscillator.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quartz.md"
+                "file": "Crystal Oscillator.md"
               }
             }
           },
@@ -467,7 +467,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Quartz.md",
+                    "file": "Crystal Oscillator.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -490,9 +490,12 @@
   },
   "active": "e6efbed3c9d084c9",
   "lastOpenFiles": [
+    "Crystal.md",
+    "Crystal Oscillator.md",
+    "Piezoelectricity.md",
+    "Quartz.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
     "Resonator.md",
-    "Quartz.md",
     "RLC Circuits.md",
     "Fundamental Frequency.md",
     "Z1-Rough Notes/Music Theory.md",
@@ -513,9 +516,6 @@
     "Smith Chart.md",
     "Permittivity.md",
     "Everything is moving at light speed.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
-    "World Building/Science and Engineering/Engineering Resources/Engineering Tools and Machines/Oscilloscope.md",
-    "Green's function.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
