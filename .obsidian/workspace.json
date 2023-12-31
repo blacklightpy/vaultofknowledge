@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crystal.md",
+                "file": "Piezoelectricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crystal.md",
+                "file": "Piezoelectricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crystal.md"
+                "file": "Piezoelectricity.md"
               }
             }
           },
@@ -467,7 +467,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Crystal.md",
+                    "file": "Piezoelectricity.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false

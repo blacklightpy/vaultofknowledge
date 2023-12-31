@@ -1,1 +1,1 @@
-A crystal or crystalline solid is a solid material whose constituents (such as atoms, molecules or ions) are arranged emotion inhibitors
+A crystal or crystalline solid is a solid material whose constituents (such as atoms, molecules or ions) are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions.
