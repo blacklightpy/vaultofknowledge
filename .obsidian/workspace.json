@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacitance.md",
+                "file": "Dielectric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capacitance.md",
+                "file": "Dielectric.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capacitance.md"
+                "file": "Dielectric.md"
               }
             }
           },
@@ -501,7 +501,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -514,15 +514,15 @@
       }
     ]
   },
-  "active": "65885c939d9a222f",
+  "active": "abccf88dad16a04c",
   "lastOpenFiles": [
+    "Capacitance.md",
     "Dielectric.md",
     "World Building/Science and Engineering/Physics/Susceptibility.md",
     "Electrical Susceptibility.md",
     "Magnetic Susceptibility.md",
     "World Building/Science and Engineering/Physics/Extensive Property.md",
     "Displacement Current.md",
-    "Capacitance.md",
     "Z1-Rough Notes/Fusion 360/Capacitors.md",
     "RF Circuit.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
