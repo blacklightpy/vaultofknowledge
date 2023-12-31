@@ -12,4 +12,4 @@ It is an electronic circuit that produces a periodic, oscillating or alternating
 # Examples
 The most common linear oscillator is a crystal oscillator, in which the output frequency is controlled by a piezo-electric [[resonator]] consisting of a vibrating [[Quartz|quartz crystal]].
 
-In common language, resonators are 
+In common language, resonators refer to low budget, or ceramic oscillators, while oscillators refer to [[crystal oscillator|crystal oscillators]].
