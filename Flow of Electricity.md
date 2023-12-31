@@ -3,25 +3,31 @@
 - AlphaPhoenix
 - ElectroBOOM
 - EEVblog
+- The Science Asylum
 # Key Points
+> AlphaPhoenix:
 - Energy is transmitted by the electric field that flows around the wires, not by the flow of electrons
 - The wire acts as a [[waveguide]].
 
+> AlphaPhoenix:
 - Ohm's law is a good approximation, and comes into effect after the circuit has solved the potential path.
 - The circuit needs multiple cycles before the full power is negotiated, and the circuit enters the steady state.
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
+> ElectroBOOM
 - The current flow can be modeled using infinite capacitors and infinite inductors along the wire.
 	- This is called a lumped element model
 - Because of this, the burst of current gets flattened out as it moves along the wire, because of the inductances pushing back and the capacitors sucking out the charges.
 - But if you consider that the bulb turns on at any current, there is always the leakage current from the battery jumping the gap, even when the circuit is closed, so the bulb will always be on.
 
+> Veritasium
 - The Poynting vector shows the direction of flow of power according to Maxwell's laws
 	- $\large \vec S = \dfrac{1}{\mu_0} \vec E \times \vec B = \vec E \times \vec H$
 	- Should one use $\large \vec B$ or $\large \vec H$? It seems like one can choose it as they wish, because some times, $\large \vec E$ is more comparable to $\large \vec B$ and at other times with $\large \vec H$.
 	- Remember, $\large \vec B$ or $\large \vec H$ don't contain $\large \mu_0$, but $\large \vec E$ does contain $\large \epsilon_0$. So that value stays outside whether you use $\large \vec B$ or $\large \vec H$.
 	- According to Ecosia Chat (powered by ChatGPT), $\large \vec B$ is used best when a magnetic material is involved and $\large \vec H$ is used best when a magnetic circuit is involved.
 
+> 
 - In AC, the Poynting vector points outwards, but it spreads out in all directions and much of the energy also radiates away, and this gets more with higher frequency.
 	- Inductors and Capacitors only matter later on for transient / AC cases.
 - In DC, the Poynting vector actually points inwards, considering a circuit with uniform resistance.
