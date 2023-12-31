@@ -1,0 +1,1 @@
+It is the velocity at which the envelope of a wave
