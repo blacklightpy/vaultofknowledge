@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dielectric.md",
+                "file": "RF Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dielectric.md",
+                "file": "RF Circuit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dielectric.md"
+                "file": "RF Circuit.md"
               }
             }
           },
@@ -473,35 +473,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "65885c939d9a222f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Capacitance.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "abccf88dad16a04c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dielectric.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -514,12 +488,12 @@
       }
     ]
   },
-  "active": "abccf88dad16a04c",
+  "active": "3923b7dfb9a63382",
   "lastOpenFiles": [
-    "Z2-Rough Notes 2/Coulomb's Law from Gauss's Law.md",
-    "Dielectric.md",
-    "Developing Portable Programs.md",
     "Capacitance.md",
+    "Dielectric.md",
+    "Z2-Rough Notes 2/Coulomb's Law from Gauss's Law.md",
+    "Developing Portable Programs.md",
     "World Building/Science and Engineering/Physics/Susceptibility.md",
     "Electrical Susceptibility.md",
     "Magnetic Susceptibility.md",
