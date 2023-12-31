@@ -5,4 +5,4 @@ It is an electronic circuit that produces a periodic, oscillating or alternating
 - Low Frequency Oscillator (LFO): Produces frequencies below 20 Hz
 	- This term is used in the field of audio synthesizers, to distinguish it from audio frequency oscillators
 - Audio Oscillator: Produces frequencies between 20 Hz to 20 kHz
-- [[Radio ]] Oscillator
+- RF Oscillator
