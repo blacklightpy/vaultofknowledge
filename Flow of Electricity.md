@@ -27,6 +27,9 @@
 - In DC, the Poynting vector actually points inwards, considering a circuit with uniform resistance.
 	- In DC, once the circuit is negotiated, energy has to flow through the full path, and not through the shortcut path.
 	- This is called the DC steady state.
+	- In DC, there is no skin effect
+
+In eng
 
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
