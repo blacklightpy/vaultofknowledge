@@ -40,3 +40,6 @@
 	- Related quantities:
 		- Hole mobility: For holes
 		- Carrier Mobility: For both holes and electrons
+
+- Pertubation theory, in ==applied mathematics== and ==quantum mechanics==
+	- 
