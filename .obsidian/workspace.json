@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group Velocity.md",
+                "file": "Flow of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Group Velocity.md",
+                "file": "Flow of Electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Group Velocity.md"
+                "file": "Flow of Electricity.md"
               }
             }
           },
@@ -459,22 +459,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "e70df2c52a86e1fb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Group Velocity.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -487,7 +473,7 @@
       }
     ]
   },
-  "active": "e70df2c52a86e1fb",
+  "active": "6413e9df60d0dfcd",
   "lastOpenFiles": [
     "Group Velocity.md",
     "Flow of Electricity.md",
