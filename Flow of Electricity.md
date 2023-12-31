@@ -8,12 +8,14 @@
 - Ohm's law is a good approximation, and comes into effect after the circuit has solved the potential path.
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
-- Free electrons in a conductor will move at the Fermi velocity in random directions. The net velocity will be 0.
+- Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
 	- $v_d=\mu E$
 	- Can be reformulated as $v_d = J/ne = I/nAe$, where $n$ is the charge carrier number density ($N/V$) and $e$ is the charge of the charge carrier
 	- Also as $v_d = \dfrac{m \sigma \Delta V}{\rho e f l}$, where $m$ is the molecular mass ($M/N_0$), $\sigma$ is the conductivity, $\Delta V$ is the voltage, $\rho$ is the density, $e$ is the electric charge, $f$ is the number of free electrons, $l$ is the length of the conductor.
 		- Math checks out :p
+- For DV voltages in a copper wire of 2mm at 1 A, $\large v_d$ is about 8 cm/hr.
+- For AC voltages, there is no net drift velocity, as the electrons oscillate back and forth.
 - Why this happens is a bit more complicated
 
 ## More points from Wikipedia
@@ -29,7 +31,7 @@
 - Fermi Energy, in ==quantum mechanics==
 	- relating to [[fermions]]
 	- Related quantities
-		- Fermi velocity
+		- [[Fermi velocity]]
 		- Fermi temperature
 		- Fermi momentum
 - Band theory and Fermi-Dirac distribution, in ==semiconductor physics== and ==quantum mechanics==
