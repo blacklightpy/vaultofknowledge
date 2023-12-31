@@ -12,6 +12,7 @@
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
 - The current flow can be modeled using infinite capacitors and infinite inductors along the wire.
+	- This is called a lumped element model
 - Because of this, the burst of current gets flattened out as it moves along the wire, because of the inductances pushing back and the capacitors sucking out the charges.
 - But if you consider that the bulb turns on at any current, there is always the leakage current from the battery jumping the gap, even when the circuit is closed, so the bulb will always be on.
 
