@@ -5041,7 +5041,7 @@
 
 ##### Oscillator
 
-![[/World Building/Science and Engineering/Engineering Resources/Engineering Components/Oscillator.md|Oscillator.md]]
+![[Electronic Oscillator|Oscillator.md]]
 
 ---
 

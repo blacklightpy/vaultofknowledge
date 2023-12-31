@@ -334,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Oscillator.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Oscillator.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Oscillator.md"
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md"
               }
             }
           },
@@ -453,7 +453,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Oscillator.md",
+                    "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
