@@ -1,6 +1,8 @@
 # References
 - Veritasium
 - AlphaPhoenix
+- ElectroBOOM
+- EEVblog
 # Key Points
 - Energy is transmitted by the electric field that flows around the wires, not by the flow of electrons
 - The wire acts as a [[waveguide]].
