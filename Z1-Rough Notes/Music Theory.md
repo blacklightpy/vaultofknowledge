@@ -30,6 +30,9 @@ This is in contrast to noise, which consists of sounds that do not have a specif
 - Harmonics: They are overtones which are integer multiples of the fundamental frequency
 - Timbre (or Texture): It is the perceived quality of the tone when multiple frequencies are played together. One sound may have more 880 Hz than another, for example. It is how we can tell the same note played on different instruments apart.
 - Tone: It is the perceived sound. It may mean a note along with its overtones, or it may mean just a single pitch. It can also mean a step, such a a half-tone can mean a half-step. It depends on the context, since it describes what is perceived.
+- Partial: It is any pitch or simple tone of which a complex tone is composed, and is not necessarily an integer multiple of the fundamental.
+- Inharmonic partial: It is a partial that does not match an ideal harmonic.
+- Inharmonicity: It is a measure of the deviation of a partial from its closest ideal harmonic, typically measured in [[Logarithmic Scale|cents]] for each partial.
 - Standard Tuning: The standard matching of a note to its fundamental frequency
 - Scordatura (or Alternative Tuning): A mistuning done intentionally to produce a different kind of sound
 - Dropped Tuning: A type of alternate tuning where a single key is lowered in pitch
