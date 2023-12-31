@@ -4,3 +4,6 @@
 	- Butterfly Dream by Zhaugzi
 		- It is one of the two foundational texts of [[Taoism]]
 	- Indian Philosophy of Maya
+		- Maya can refer to hidden principles, deception
+		- Some philosophies consider Maya to be the hidden principles by which god makes the world
+		- Advaida Vedanta school considers the world to be a manifestation of Maya, and thus illusory
