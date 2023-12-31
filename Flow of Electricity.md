@@ -41,11 +41,11 @@
 		- Hole mobility: For holes
 		- Carrier Mobility: For both holes and electrons
 
-- Lattice Model, in ==mathematical physics==
-	- [[Quantum Chromodynamics|QCD]] Lattice Model
-	- [[Digital Physics]]
-		- Limit on Information Density
-			- Holographic Principle, in ==String theory==
-		- [[Feynman's Theory of Cellular Automata]]
+
 - Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
 	- For approximate solutions, starting from an exact solution of a related, but simpler problem
+## Random
+- Lattice Model, in ==mathematical physics==
+	- [[Quantum Chromodynamics|QCD]] Lattice Model, a discretization of QCD is an example of continuum theory studied by lattice models.
+	- However, [[digital physics]] considers nature to have a limit on information density.
+- [[Green's function]]
