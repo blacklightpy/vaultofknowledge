@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crystal Oscillator.md",
+                "file": "Crystal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crystal Oscillator.md",
+                "file": "Crystal.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crystal Oscillator.md"
+                "file": "Crystal.md"
               }
             }
           },
@@ -467,7 +467,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Crystal Oscillator.md",
+                    "file": "Crystal.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -490,8 +490,8 @@
   },
   "active": "e6efbed3c9d084c9",
   "lastOpenFiles": [
-    "Crystal.md",
     "Crystal Oscillator.md",
+    "Crystal.md",
     "Piezoelectricity.md",
     "Quartz.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
