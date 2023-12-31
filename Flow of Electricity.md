@@ -30,6 +30,8 @@
 	- In DC, there is no skin effect, which is the AC tendency to have higher current density at the surface, so the Poynting vector goes all the way to the center.
 	- So in DC, power can be said as flowing through the wire.
 
+- The Poynting Vector points outside the battery, and inwards to the circuit wire.
+
 - In engineering, we have
 	- Transmission Line Analysis (first part)
 	- Transient analysis (for AC)
