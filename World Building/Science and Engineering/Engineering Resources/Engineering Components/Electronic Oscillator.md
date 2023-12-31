@@ -7,4 +7,6 @@ It is an electronic circuit that produces a periodic, oscillating or alternating
 - Audio Oscillator: Produces frequencies between 20 Hz to 20 kHz
 - RF Oscillator
 
-## 
+## By behaviour
+- Linear / Harmonic Oscillator
+- Nonlinear / Relaxation Oscillator
