@@ -16,7 +16,7 @@
 - But if you consider that the bulb turns on at any current, there is always the leakage current from the battery jumping the gap, even when the circuit is closed, so the bulb will always be on.
 
 - The Poynting vector shows the direction of flow of power according to Maxwell's laws
-	- $\large \vec S = \dfrac{1}{\mu_0} \vec E \times \vec B$
+	- $\large \vec S = \dfrac{1}{\mu_0} \vec E \times \vec B = \vec E \times \vec H$
 
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
