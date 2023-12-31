@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resonator.md",
+                "file": "Quartz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resonator.md",
+                "file": "Quartz.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resonator.md"
+                "file": "Quartz.md"
               }
             }
           },
@@ -454,7 +454,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Resonator.md",
+                    "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -467,7 +467,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Quartz Crystals.md",
+                    "file": "Quartz.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -475,7 +475,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -488,11 +488,12 @@
       }
     ]
   },
-  "active": "eb59318dcad7d7fe",
+  "active": "e6efbed3c9d084c9",
   "lastOpenFiles": [
-    "RLC Circuits.md",
+    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
     "Resonator.md",
-    "Quartz Crystals.md",
+    "Quartz.md",
+    "RLC Circuits.md",
     "Fundamental Frequency.md",
     "Z1-Rough Notes/Music Theory.md",
     "Z2-Rough Notes 2/Logarithmic Scale.md",
@@ -500,7 +501,6 @@
     "Natural Frequency.md",
     "Modal Analysis.md",
     "Eigenvalues.md",
-    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
     "Developing Portable Programs.md",
     "Flow of Electricity.md",
     "Waveguide.md",
