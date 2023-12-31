@@ -24,6 +24,12 @@
 		- Fermi velocity
 		- Fermi temperature
 		- Fermi momentum
+- Band theory and Fermi-Dirac distribution
 - Electron Mobility, in ==solid state physics==
 	- How quickly an electron can move through a conductor when pulled by an electric field
-	- $\mu=E/v_d$ (As)
+	- $\mu=E/v_d$ (from $v_d=\mu E$)
+	- Relation to conductivity and current density
+		- $J=J_e+J_h=(en\mu_e+ep\mu_h)E$ (find this relation and derivation of drift velocity on Wikipedia)
+		- $J=\sigma E$ (By Ohm's Law)
+		- $en\mu_e+ep\mu_h$
+		- 
