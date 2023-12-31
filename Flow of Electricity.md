@@ -41,5 +41,10 @@
 		- Hole mobility: For holes
 		- Carrier Mobility: For both holes and electrons
 
-- Pertubation theory, in ==applied mathematics== and ==quantum mechanics==
-	- 
+- Lattice Model, in ==mathematical physics==
+	- Feynman cited the Game of Life as an example of cellular automata.
+	- He wondered what was at the smallest level of the universe.
+	- One possible answer was that it was a cellular automaton.
+	- The notion is that, at the lowere
+- Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
+	- For approximate solutions, starting from an exact solution of a related, but simpler problem
