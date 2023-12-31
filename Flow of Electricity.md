@@ -6,9 +6,11 @@
 - The wire acts as a [[waveguide]].
 
 - Ohm's law is a good approximation, and comes into effect after the circuit has solved the potential path.
+- The circuit needs multiple cycles before the full power is negotiated.
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
 - The current flow can be modeled using infinite capacitors and infinite inductors along the wire.
+- Because of this, the burst of current gets flattened out as it moves along the wire, because of the inductances pushing back and the capacitors sucking out the charges.
 
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
