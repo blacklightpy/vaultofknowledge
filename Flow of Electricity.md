@@ -41,7 +41,8 @@
 		- Hole mobility: For holes
 		- Carrier Mobility: For both holes and electrons
 
-
+- The flow of electromagnetic waves when they interact with the materials around the cable and the presence of electric charge carriers and magnetic dipoles are usually described using "mean field theory".
+- Mean Field Theory, in ==physics== and ==probability theory==
 - Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
 	- For approximate solutions, starting from an exact solution of a related, but simpler problem
 ## Random
@@ -49,3 +50,4 @@
 	- [[Quantum Chromodynamics|QCD]] Lattice Model, a discretization of QCD is an example of continuum theory studied by lattice models.
 	- However, [[digital physics]] considers nature to have a limit on information density.
 - [[Green's function]]
+- [[Smith Chart]]
