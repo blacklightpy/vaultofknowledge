@@ -454,7 +454,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
+                    "file": "Piezoelectricity.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -467,7 +467,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Piezoelectricity.md",
+                    "file": "Quartz.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -475,7 +475,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -488,14 +488,14 @@
       }
     ]
   },
-  "active": "e6efbed3c9d084c9",
+  "active": "eb59318dcad7d7fe",
   "lastOpenFiles": [
     "Crystal Oscillator.md",
-    "Crystal.md",
-    "Piezoelectricity.md",
     "Quartz.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
     "Resonator.md",
+    "Piezoelectricity.md",
+    "Crystal.md",
     "RLC Circuits.md",
     "Fundamental Frequency.md",
     "Z1-Rough Notes/Music Theory.md",

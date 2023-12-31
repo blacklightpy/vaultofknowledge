@@ -10,5 +10,6 @@ It is an electronic circuit that produces a periodic, oscillating or alternating
 - Linear / Harmonic Oscillator (makes sinusoidal waves)
 - Nonlinear / Relaxation Oscillator (makes square / triangular waves)
 # Examples
-
 The most common linear oscillator is a crystal oscillator, in which the output frequency is controlled by a piezo-electric [[resonator]] consisting of a vibrating [[Quartz|quartz crystal]].
+
+In common language, resonators are 
