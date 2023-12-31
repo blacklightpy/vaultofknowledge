@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamental Frequency.md",
+                "file": "Resonator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamental Frequency.md",
+                "file": "Resonator.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamental Frequency.md"
+                "file": "Resonator.md"
               }
             }
           },
@@ -460,22 +460,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "29b58a612dd51794",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Fundamental Frequency.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -488,11 +475,11 @@
       }
     ]
   },
-  "active": "29b58a612dd51794",
+  "active": "eb59318dcad7d7fe",
   "lastOpenFiles": [
+    "Fundamental Frequency.md",
     "Z1-Rough Notes/Music Theory.md",
     "Z2-Rough Notes 2/Logarithmic Scale.md",
-    "Fundamental Frequency.md",
     "Resonator.md",
     "Resonance.md",
     "Natural Frequency.md",

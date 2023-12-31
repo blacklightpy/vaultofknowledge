@@ -1,5 +1,5 @@
 The fundamental frequency, or just the fundamental, is the lowest frequency of a periodic waveform. In [[music theory]], the fundamental is the musical pitch of a note that is perceived as the lowest partial present.
-# Values
+# In mechanical systems
 For a single degree of freedom oscillator, like a mass-spring system, the natural frequency of oscillation depends on two quantities: mass and stiffness (provided the system is undamped)
 
 $\large \omega_0 = \sqrt{\dfrac{k}{m}}$,
