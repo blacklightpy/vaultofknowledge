@@ -10,7 +10,8 @@ A common example is [[quartz]] used in RF transmitters and quartz watches to pro
 - [[RLC circuits]]
 - Particle Accelerators
 ## In Mechanics
-- Quartz Crystal
+- [[Quartz]] [[crystal]]
+- Ceramic Resonators
 ## In Acoustics
 - Musical Instruments
 	- Percussion
