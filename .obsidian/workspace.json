@@ -335,7 +335,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Velocity Factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +351,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Velocity Factor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,9 +369,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Velocity Factor.md"
-              }
+              "state": {}
             }
           },
           {
@@ -436,16 +432,11 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b0927ee6874d0b9d",
+                "id": "6413e9df60d0dfcd",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Velocity Factor.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -461,7 +452,7 @@
       }
     ]
   },
-  "active": "b0927ee6874d0b9d",
+  "active": "6413e9df60d0dfcd",
   "lastOpenFiles": [
     "Velocity Factor.md",
     "Developing Portable Programs.md",
