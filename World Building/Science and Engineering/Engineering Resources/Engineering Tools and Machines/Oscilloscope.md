@@ -1,0 +1,1 @@
+It is a high precision device that plots the voltage between two scoped points against time.
