@@ -318,7 +318,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -422,54 +423,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f9d423485a55ecda",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bf07d75a2116d679",
-        "type": "window",
-        "children": [
-          {
-            "id": "569062d0a2306dcb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6413e9df60d0dfcd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Flow of Electricity.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 22,
-        "y": 84,
-        "width": 1236,
-        "height": 918,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "3b9a7cacd0e7fbfb",
   "lastOpenFiles": [
     "Flow of Electricity.md",
+    "Developing Portable Programs.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
     "RF Circuit.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Components/Analog to Digital Converters.md",
     "Capacitance.md",
     "Dielectric.md",
     "Z2-Rough Notes 2/Coulomb's Law from Gauss's Law.md",
-    "Developing Portable Programs.md",
     "World Building/Science and Engineering/Physics/Susceptibility.md",
     "Electrical Susceptibility.md",
     "Magnetic Susceptibility.md",
