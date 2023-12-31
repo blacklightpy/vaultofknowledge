@@ -1,5 +1,4 @@
 It is an electronic circuit that produces a periodic, oscillating or alternating current (AC) signal, usually a sine wave, a square wave, or a triangle wave, powered by a DC source.
-
 # Classification
 ## By the frequency of their signal
 - Low Frequency Oscillator (LFO): Produces frequencies below 20 Hz
@@ -8,5 +7,8 @@ It is an electronic circuit that produces a periodic, oscillating or alternating
 - RF Oscillator
 
 ## By behaviour
-- Linear / Harmonic Oscillator
-- Nonlinear / Relaxation Oscillator
+- Linear / Harmonic Oscillator (makes sinusoidal waves)
+- Nonlinear / Relaxation Oscillator (makes square / triangular waves)
+# Examples
+
+The most common linear oscillator is a crystal oscillator, in which the output frequency is controlled by a piezo-electric [[resonator]] consisting of a vibrating quartz crystal.
