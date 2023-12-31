@@ -8,6 +8,8 @@
 - Ohm's law is a good approximation, and comes into effect after the circuit has solved the potential path.
 - Electrons are not particles, but for most use cases, it's easier to think of them as particles.
 
+- The current flow can be modeled using infinite capacitors and infinite inductors along the wire.
+
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
 	- $v_d=\mu E$
