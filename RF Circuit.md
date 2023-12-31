@@ -1,5 +1,4 @@
-# Components
-- [[Resonator]]
+# Low Level Components
 - Active Components
 	- Amplifiers
 		- Low Noise Amplifier
@@ -7,9 +6,14 @@
 	- Mixer
 	- Phase-Locked Loops (PLLs)
 	- [[Analog to Digital Converters|ADCs]] and DACs
-- Passive Compone
-- Filter
-- Switch
-- Transmitter Antenna
-- Reciever Antenna
-- Waveguide
+- Passive Components
+	- [[Capacitors]]
+	- Inductors
+	- Resistors, et al.
+	- [[Resonator]]
+	- Baluns (balanced to unbalanced; transformers)
+	- Filter
+	- Switch
+	- Transmitter Antenna
+	- Reciever Antenna
+	- Waveguide
