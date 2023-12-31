@@ -5,5 +5,5 @@ In computer networking and cable industries, the terms "velocity of propagation"
 - For optical signals, the velocity factor is the reciprocal of the refractive index.
 - For radio signals in vacuum, the velocity factor is 1.0
 - For electric waves
-	- In the most general case, VF = $\large{\dfrac{1}{\sqrt{\mu_r\epsilon_r}}}$ (= $\large{\dfrac{1}{\dfrac{\mu}{\mu_0}\dfrac{\epsilon}{\epsilon_r}}}$)
+	- In the most general case, VF = $\large{\dfrac{1}{\sqrt{\mu_r\epsilon_r}}}$ (= $\large{\dfrac{1}{\sqrt{\mu\epsilon}} / \dfrac{1}{\sqrt{\mu_0\epsilon_0}}}$ = $\large \text{v}_\text{p}/v_0}$)
 	- For most cases, VF = $\large{\dfrac{1}{\sqrt{\kappa}}}$ (where there is no magnetic conducting materials)
