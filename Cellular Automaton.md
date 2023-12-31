@@ -3,4 +3,5 @@ A cellular automaton is a discrete model of computation studied in automata theo
 It has found application in various areas, including [[physics]], [[biology]] and [[microstructure]] modelling.
 
 # Popular Applications
-- 
+- Simulation of Physical Process
+- Stephen Wolfram's [[Wolfram Physics]]
