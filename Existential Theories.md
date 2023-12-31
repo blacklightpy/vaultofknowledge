@@ -14,4 +14,5 @@
 - Rene Descartes's "Evil Demon", in this 1641 book "Meditations on First Philosophy"
 	- "A malevolent God or an evil demon of utmost power and cunning has employed all his energies in order to deceive me".
 	- "I shall think that the sky, the air, the earth, colours, shapes, sounds and all external things are merely the delusions of dreams which he has devised to ensnare my judgement. I shall consider myself as not having hands or eyes, or flesh, or blood or senses, but as falsely believing I have those things".
-- Aztec philosophical texts that the world 
+- Aztec philosophical texts that the world was a painting or book written by Teotl, the universe.
+- Nietzsche, in @mineall
