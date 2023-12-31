@@ -23,8 +23,10 @@
 	- According to Ecosia Chat (powered by ChatGPT), $\large \vec B$ is used best when a magnetic material is involved and $\large \vec H$ is used best when a magnetic circuit is involved.
 
 - In AC, the Poynting vector points outwards, but it spreads out in all directions and much of the energy also radiates away, and this gets more with higher frequency.
-	- Inductors and Capacitors only matter 
+	- Inductors and Capacitors only matter later on for transient / AC cases.
 - In DC, the Poynting vector actually points inwards, considering a circuit with uniform resistance.
+	- In DC, once the circuit is negotiated, energy has to flow through the full path, and not through the shortcut path.
+	- This is called the DC steady state.
 
 - Free electrons in a conductor will move at the [[Fermi velocity]] in random directions. The net velocity will be 0.
 - When a potential is applied, they will move about at a drift velocity towards one direction.
