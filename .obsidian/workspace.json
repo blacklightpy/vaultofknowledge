@@ -516,8 +516,9 @@
   },
   "active": "abccf88dad16a04c",
   "lastOpenFiles": [
-    "Capacitance.md",
     "Dielectric.md",
+    "Developing Portable Programs.md",
+    "Capacitance.md",
     "World Building/Science and Engineering/Physics/Susceptibility.md",
     "Electrical Susceptibility.md",
     "Magnetic Susceptibility.md",
@@ -540,7 +541,6 @@
     "Natural Frequency.md",
     "Modal Analysis.md",
     "Eigenvalues.md",
-    "Developing Portable Programs.md",
     "Flow of Electricity.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
