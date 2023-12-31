@@ -335,7 +335,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +351,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow of Electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -371,9 +369,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Flow of Electricity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -447,8 +443,17 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "3c5793a8db84189a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -461,7 +466,7 @@
       }
     ]
   },
-  "active": "6413e9df60d0dfcd",
+  "active": "3c5793a8db84189a",
   "lastOpenFiles": [
     "Flow of Electricity.md",
     "Velocity Factor.md",

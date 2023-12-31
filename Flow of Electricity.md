@@ -7,6 +7,10 @@
 
 
 # More topics to cover
-- Chemical Potential (aka partial molar Gibbs free energy), from Thermodynamics
+- Thermodynamic Potential
+	- e.g. Internal Energy, Helmholtz Free Energy, Enthalpy, Gibbs Energy
+- Chemical Potential (aka partial molar Gibbs free energy), ==from Thermodynamics==
 - Electrochemical Potential (Energy/mole)
+	- aka Fermi Level, in ==semiconductor physics==
 	- Not to be confused with Electrode Potential (V/C)
+- 
