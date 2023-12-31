@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Flow of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Flow of Electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Portable Programs.md"
+                "file": "Flow of Electricity.md"
               }
             }
           },
@@ -461,8 +461,9 @@
       }
     ]
   },
-  "active": "3b9a7cacd0e7fbfb",
+  "active": "6413e9df60d0dfcd",
   "lastOpenFiles": [
+    "Developing Portable Programs.md",
     "Flow of Electricity.md",
     "Smith Chart.md",
     "Green's function.md",
@@ -477,7 +478,6 @@
     "Z2-Rough Notes 2/Wolfram Physics.md",
     "Bekenstein bound.md",
     "Problems with Islam.md",
-    "Developing Portable Programs.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "Velocity Factor.md",
     "Child Marriage in Religions.md",

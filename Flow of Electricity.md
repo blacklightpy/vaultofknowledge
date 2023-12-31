@@ -45,7 +45,7 @@
 - Mean Field Theory, in ==physics== and ==probability theory==
 - Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
 	- For approximate solutions, starting from an exact solution of a related, but simpler problem
-## Random
+## Random Topics
 - Lattice Model, in ==mathematical physics==
 	- [[Quantum Chromodynamics|QCD]] Lattice Model, a discretization of QCD is an example of continuum theory studied by lattice models.
 	- However, [[digital physics]] considers nature to have a limit on information density.
