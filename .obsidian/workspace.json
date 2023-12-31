@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cellular Automaton.md",
+                "file": "Conway's Game of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cellular Automaton.md",
+                "file": "Conway's Game of Life.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cellular Automaton.md"
+                "file": "Conway's Game of Life.md"
               }
             }
           },
@@ -454,7 +454,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cellular Automaton.md",
+                    "file": "Conway's Game of Life.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -477,10 +477,11 @@
   },
   "active": "e29e5994f9746acf",
   "lastOpenFiles": [
-    "Z2-Rough Notes 2/Wolfram Physics.md",
     "Cellular Automaton.md",
+    "Conway's Game of Life.md",
     "Digital Physics.md",
     "Feynman's Theory of Cellular Automata.md",
+    "Z2-Rough Notes 2/Wolfram Physics.md",
     "Bekenstein bound.md",
     "Flow of Electricity.md",
     "Problems with Islam.md",
@@ -503,7 +504,6 @@
     "Z2-Rough Notes 2/Israel Palestine Rough/The History of Oppression of Jews.md",
     "Goals I Support.md",
     "Personal/Random Ideas",
-    "Developing Modern Computer Instructions.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
