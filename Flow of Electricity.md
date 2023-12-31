@@ -12,5 +12,5 @@
 - Chemical Potential (aka partial molar Gibbs free energy), ==from Thermodynamics==
 - Electrochemical Potential (Energy/mole)
 	- aka Fermi Level, in ==semiconductor physics==
-	- Not to be confused with Electrode Potential (V/C)
-- 
+	- Not to be confused with Electrode Potential (Voltage, or Energy/charge)
+- Fermi Energy

@@ -335,6 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flow of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -351,6 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flow of Electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -369,7 +371,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flow of Electricity.md"
+              }
             }
           },
           {
@@ -443,17 +447,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "3c5793a8db84189a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -466,8 +461,9 @@
       }
     ]
   },
-  "active": "3c5793a8db84189a",
+  "active": "6413e9df60d0dfcd",
   "lastOpenFiles": [
+    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "Flow of Electricity.md",
     "Velocity Factor.md",
     "Developing Portable Programs.md",
@@ -495,7 +491,6 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "Z1-Rough Notes/Rices I want to try out.md",
-    "Why I calculate too much.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "Z2-Rough Notes 2/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
