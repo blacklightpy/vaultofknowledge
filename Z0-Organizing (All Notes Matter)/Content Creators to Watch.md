@@ -1,3 +1,4 @@
+Also checkout [[Educational Videos to Watch]]
 #### Electronics Engineering
 - Phil's Lab
 - Robert Feranec
@@ -17,3 +18,8 @@
 - Zap Physics
 - Pretty Much Physics
 - Physics With Elliot
+- The Science Asylum
+#### Experimental
+- Veritasium
+- ElectroBOOM
+- AlphaPhoenix

@@ -4,7 +4,7 @@ The inferences are that space and time are not absolute, but rather they contrac
 
 The discovery was made through the Michelson-Morley experiment, which attempted to measure the relative motion of earth with the universal frame of reference, which they termed the lumineferous aether.
 
-Now, classical relativity states that if a vehicle moves with a velocity v1, and a body moving along it moves with a velocity v2, the velocity of the body from the frame of reference of the vehicle would simply be v2, while the velocity from frame of reference of the ground would be (v1+v2).
+Now, classical relativity states that if a vehicle moves with a velocity $v_1$, and a body moving along it moves with a velocity $v_2$, the velocity of the body from the frame of reference of the vehicle would simply be $v_2$, while the velocity from frame of reference of the ground would be $(v_1+v_2)$.
 
 But when it comes to light, the velocity of light from the frame of reference of the vehicle is $c$, but the velocity of the body from the frame of reference of the ground was also $c$, rather than $v_1+c$.
 
