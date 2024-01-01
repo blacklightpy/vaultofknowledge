@@ -1049,7 +1049,7 @@
 
 #### Implementing Agile
 
-![[Notes from TcGen's Guide on Agile|Implementing Agile.md]]
+![[Understanding Agile|Implementing Agile.md]]
 
 ---
 
@@ -1081,7 +1081,7 @@
 
 ### Ideas
 
-![[Ideas|Ideas.md]]
+![[Ideas for Project Management|Ideas.md]]
 
 ---
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
+                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
+                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
+                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md"
+                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md"
               }
             }
           },
@@ -176,13 +176,14 @@
   },
   "active": "1dcaad360605559e",
   "lastOpenFiles": [
-    "Personal/AVIASYS/Project Management/Understanding Agile Model/Notes from TcGen's Guide on Agile.md",
-    "Personal/AVIASYS/Project Management/Understanding Agile Model/Ideas.md",
     "Personal/AVIASYS/Project Management/Project Management Ideas.md",
+    "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model/Articles on Aglie.md",
+    "Personal/AVIASYS/Project Management/Agile for Hardware.md",
+    "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
     "Personal/AVIASYS/Areas to Talk About.md",
     "Personal/AVIASYS/Teams.md",
-    "Personal/AVIASYS/Project Management/Understanding Agile Model/Articles on Aglie.md",
-    "Personal/AVIASYS/Project Management/Understanding Agile Model/Agile for Hardware.md",
     "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/What is Agile.md",
     "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/Agile Product Development.md",
     "Personal/AVIASYS/Project Management/Software/PM Software Requirements.md",
@@ -206,7 +207,6 @@
     "Unorganized/General Notes/Engine Aspiration.md",
     "Unorganized/General Notes/Customer Service.md",
     "Unorganized/General Notes/Ceramic Engines.md",
-    "Unorganized/General Notes/Capacitors.md",
     "Unorganized/Studying Social Problems",
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",
