@@ -2,7 +2,13 @@
 - Battery has an EF
 - When connected to a wire, it acts as a [[waveguide]], through which the field passes, and the battery supplies electrons to continue this flow.
 - But as the field flows, if it reaches an open circuit, and it can't jump the gap, the electrons won't move further, and will begin to push back.
-- In that case, the field flows back and cancels, returni
+- In that case, the field flows back and cancels, returning to the initial state
+- But if that's not the case, the circuit keeps supplying electrons, and the required energy due to wire resistance is sent back to the battery after the fields flowing from both sides meet and reflect back
+- This will generate a more appropriate current in the next cycle, and in a few cycles, the right amount of current, or "steady state DC current" is obtained in the circuit
+- If the circuit was AC, the field always keeps changing, and there's the skin effect as well.
+
+- Electrons flow, but it's the field flows by the electrons that carry the energy.
+- More precisely, it's the fields that carry energy, and electrons are just field sink points which are present in a material, so obviously they are affected by fields from the battery at close proximity.
 
 ---
 # References
