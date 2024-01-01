@@ -3,6 +3,7 @@ They have not been observed. They were predicted by Dirac and many [[Grand Unifi
 - Dirac proposed magnetic monopoles which would simplify the model of electromagnetism. Dirac monopoles would not fit into the standard model, and would require modifications.
 - In GUT theories, early universe would've produced magnetic monopoles. But it is hard to reproduce, and [[Large Hadron Collider|LHC]] energies are too low for them.
 # Studies
+- [Nature Materials Article (Open Access)](https://www.nature.com/articles/nmat3905) (2014): Discovery of magnetic monopole quasi-particles in a spinor Bose-Einstein condensate. They do violate the zero-divergence law.
 - [HN Thread](https://news.ycombinator.com/item?id=38550994) | [Nature Materials Article (Open Access)](https://www.nature.com/articles/s41563-023-01737-4) (Dec 2023): Discovery of magnetic monopole quasi-particles, which are multiple particles whose combined spin effects generate a monopole on a 2D cross-section. Not a big deal fundamentally. But could be in line with my idea of making magnetic monopoles manually.
 # Implications
 Their existence would imply:
