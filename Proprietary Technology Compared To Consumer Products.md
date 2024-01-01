@@ -23,5 +23,5 @@ Now, on one hand, this is misdirecting the argument, because if we consider how 
 
 Of course, if I simply criticize this like that, it's like I'm pointing out a problem with no real solution. People will say that you can't just dictatorship everything, because then the ones in power will now exploit everyone as opposed to people having the freedom to choose how they can be cunning, which is better, or else it will be anarchy if we don't choose a decentralized system like capital.
 
-I agree with that. However, capital starts by exploiting individuals and it's no good. Also, there is the problem of inheritance, even if everything starts out normally, so if anyone exploits others, the benefits he reaped doesn't end there, it's passed on to his offsprings.
+I agree with that. However, capital starts by exploiting individuals and it's no good. Also, there is the problem of inheritance, even if everything starts out normally, so if anyone exploits others, the benefits he reaped doesn't end there, it's passed on to his offspring
 
