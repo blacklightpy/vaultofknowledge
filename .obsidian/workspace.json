@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alan Watts Speeches.md",
+                "file": "Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alan Watts Speeches.md",
+                "file": "Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alan Watts Speeches.md"
+                "file": "Developing Portable Programs.md"
               }
             }
           },
@@ -488,7 +488,7 @@
       }
     ]
   },
-  "active": "58274c5127dbc313",
+  "active": "3b9a7cacd0e7fbfb",
   "lastOpenFiles": [
     "Alan Watts Speeches.md",
     "Magnetic Monopoles.md",
