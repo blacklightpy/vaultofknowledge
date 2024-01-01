@@ -1,7 +1,8 @@
 We often say that technology has to be open source. What is the analogy of that compared to a consumer product?
 # Conditions
-- We require the design data of the hardware - on one hand for security, and on another, for societal progress
-- We require the source code of the software - for security, 
+- We require the design data of the hardware - on one hand for security, and on another, for societal progress (so that the technology can be built easier)
+- We require the source code of the software - for security, for modifiability (so that one doesn't have to rewrite the whole program just to change one aspect to their liking), for portability, for societal progress (so the methods contained in the software can be used for universal benefit)
+- We require that these be provided without a restrictive license - so that any modifications we make can be shared publicly for universal benefit, 
 # Arguments
 - You can't access the internals of the computer
 - You can't also access the internals of a bottle, but our purpose of drinking from it is served?
