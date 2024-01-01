@@ -27,7 +27,7 @@
 	- Remember, $\large \vec B$ or $\large \vec H$ don't contain $\large \mu_0$, but $\large \vec E$ does contain $\large \epsilon_0$. So that value stays outside whether you use $\large \vec B$ or $\large \vec H$.
 	- According to Ecosia Chat (powered by ChatGPT), $\large \vec B$ is used best when a magnetic material is involved and $\large \vec H$ is used best when a magnetic circuit is involved.
 
-> EEVBlog:
+> EEVblog:
 - In AC, the Poynting vector points outwards, but it spreads out in all directions and much of the energy also radiates away, and this gets more with higher frequency.
 	- Inductors and Capacitors only matter later on for transient / AC cases.
 - In DC, the Poynting vector actually points inwards, considering a circuit with uniform resistance.
@@ -39,6 +39,7 @@
 > The Science Asylum:
 - The Poynting Vector points outside the battery, and inwards to the circuit wire.
 
+> EEVblog:
 - In engineering, we have
 	- Transmission Line Analysis (first part)
 	- Transient analysis (for AC)
@@ -54,6 +55,9 @@
 - For DV voltages in a copper wire of 2mm at 1 A, $\large v_d$ is about 8 cm/hr.
 - For AC voltages, there is no net drift velocity, as the electrons oscillate back and forth.
 - Why this drift happens is a bit more complicated (that is, about the Fermi velocity)
+
+> ElectroBOOM:
+- Coaxial Twisted Pair cables form a differential pair, which cancels out inductances along the length of the wire, and thus conserves energy.
 
 ## More points from Wikipedia
 - The magnetic component is considered to be in phase with the current, and the electric component is considered to be in phase with the voltage.
