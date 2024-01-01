@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magnetic Monopoles.md",
+                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magnetic Monopoles.md",
+                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magnetic Monopoles.md"
+                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md"
               }
             }
           },
@@ -475,7 +475,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -488,11 +488,11 @@
       }
     ]
   },
-  "active": "ab03528f3f891d57",
+  "active": "5b4c0866bc8f0077",
   "lastOpenFiles": [
-    "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
-    "Developing Portable Programs.md",
     "Magnetic Monopoles.md",
+    "Developing Portable Programs.md",
+    "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
     "Flow of Electricity.md",
     "Fermi velocity.md",
     "Telegrapher's equations.md",
