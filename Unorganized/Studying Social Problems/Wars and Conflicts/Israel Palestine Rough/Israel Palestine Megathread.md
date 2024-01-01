@@ -29,20 +29,20 @@
 - [Megathread: Israel/Palestine Questions Thread. on r/geopolitics](https://www.reddit.com/r/geopolitics/comments/176sp7u/megathread_israelpalestine_questions_thread/)
 - [Palestine and Israel Megathread on r/exmuslim](https://old.reddit.com/r/exmuslim/comments/17292z7/palestine_and_israel_megathread/)
 Rename and sort these:
-- https://old.reddit.com/r/cyprus/comments/17r9d4d/palestine_israel_megathread_ii_everything_about/
-- https://old.reddit.com/r/TooAfraidToAsk/comments/174177f/megathread_for_israelpalestine_situation/
-- https://old.reddit.com/r/UNC/comments/17m6ajp/israelpalestine_megathread/
-- https://www.reddit.com/r/unitedkingdom/comments/17ejaqh/israelpalestine_conflict_megathread/
-- https://www.reddit.com/r/stevenwilson/comments/178pzvl/israelpalestine_discourse_megathread/
-- https://www.reddit.com/r/IntellectualDarkWeb/comments/17z3qvt/israelpalestine_megathread_until_1126/
-- https://www.reddit.com/r/unitedkingdom/comments/17u4wjl/israelpalestine_conflict_megathread_continued/
-- https://www.reddit.com/r/Judaism/comments/17rd2w0/daily_sadly_war_in_israel_megathread/
+- [on r/cyprus](https://old.reddit.com/r/cyprus/comments/17r9d4d/palestine_israel_megathread_ii_everything_about/)
+- [on r/TooAfraidToAsk](https://old.reddit.com/r/TooAfraidToAsk/comments/174177f/megathread_for_israelpalestine_situation/)
+- [on r/UNC](https://old.reddit.com/r/UNC/comments/17m6ajp/israelpalestine_megathread/)
+- [on r/unitedkingdom](https://www.reddit.com/r/unitedkingdom/comments/17ejaqh/israelpalestine_conflict_megathread/)
+- [on r/stevenwilson](https://www.reddit.com/r/stevenwilson/comments/178pzvl/israelpalestine_discourse_megathread/)
+- [on r/IntellectualDarkWeb](https://www.reddit.com/r/IntellectualDarkWeb/comments/17z3qvt/israelpalestine_megathread_until_1126/)
+- [on r/unitedkingdom](https://www.reddit.com/r/unitedkingdom/comments/17u4wjl/israelpalestine_conflict_megathread_continued/)
+- [on r/Judaism](https://www.reddit.com/r/Judaism/comments/17rd2w0/daily_sadly_war_in_israel_megathread/)
 
 
-- https://www.fanverse.org/threads/the-israel-hamas-war.1303460/page-47
-- https://ground.news/timeline/israel-palestine-war
-- https://www.themotte.org/post/705/israelgaza-megathread-1
-- https://tildes.net/~news/1c6h/israel_hamas_war_megathread_november_16_and_ongoing
+- [Fanverse.org thread](https://www.fanverse.org/threads/the-israel-hamas-war.1303460/page-47
+- [Ground News coverage](https://ground.news/timeline/israel-palestine-war)
+- [Themotte.org thread](https://www.themotte.org/post/705/israelgaza-megathread-1)
+- [Tildes.net thread](https://tildes.net/~news/1c6h/israel_hamas_war_megathread_november_16_and_ongoing)
 ### Videos on Instagram
 #### Arabs
 - @eye.on.palestine

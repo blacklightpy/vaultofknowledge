@@ -11,8 +11,13 @@
             "id": "e8b3b9830e6300d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized/Studying Social Problems/Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unorganized/Studying Social Problems/Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unorganized/Studying Social Problems/Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unorganized/Studying Social Problems/Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md"
+              }
             }
           },
           {
