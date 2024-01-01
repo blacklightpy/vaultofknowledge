@@ -4,8 +4,7 @@
 - 
 - Aside from internal pressure due to density, there is atmospheric pressure and gravitational force
 
-P = P0 + pgh + 1/2pv^2
-
+P = P0 + pgh + 1/2pv^2 (P0 is the "external pressure", and pgh is the "static pressure" and 1/2pv^2 is the "dynamic pressure")
 
 > Different arrangements of the same charged particles can have a different close range effect (influencing the chemistry, for example, by hybridization of orbitals and thus generated dipole moment). However, the net effect is same outside the sphere of influence if you apply Gauss's law.
 > 

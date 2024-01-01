@@ -12,5 +12,10 @@ In case of gases, they just spread out to infinity without the influence of grav
 - Medium Energy, Medium Attraction: Liquids
 - Low Energy, High Attraction: Solids
 
-It looks like Energy x Attraction remains a constant, with 
-It's as if one always trades freedom for closeness.
+It looks like Energy x Attraction remains close, maybe with some proportionality constant.
+Instead of Energy x Forces, maybe we can look in terms of Momentum x Curvature / Charge too.
+The units aren't clear, I haven't thought much about the details here, but the idea can be seen.
+
+It's as if one always trades freedom for oneness.
+
+But with freedom too, one can see the oneness, if you don't limit yourself to simply being closer to one another. Free particles can meet other particles much more easily than solids, where that's not possible.
