@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,14 +175,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "75827870e2438b4a",
   "lastOpenFiles": [
+    "home.md",
     "Unorganized/General Notes/Drift Velocity.md",
     "Unorganized/General Notes/Obsidian Notes_book.md",
     "Unorganized/General Notes/Delocalized Electrons.md",
     "favicon.ico",
     "LICENSE.md",
-    "home.md",
     "README.md",
     "Personal/Creative and Recreational/Clothing.md",
     "Personal/Knowledge/Photo Editing.md",
