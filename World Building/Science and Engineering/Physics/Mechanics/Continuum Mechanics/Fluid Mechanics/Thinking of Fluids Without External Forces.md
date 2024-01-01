@@ -7,6 +7,8 @@ In free space, they would simply boil, since the internal energy of the particle
 So it's as if liquids are only held in place because something keeps hitting them from the outside, in other words, due to external heat of gases (which itself is due to gravity and the amount of gas).
 # Gaseous State
 In case of gases, they just spread out to infinity without the influence of gravity or a container.
+
+I find it funny how air is 1000 times less dense than water (830 to be precise, but it's $\text{1.x} \: \frac{kg}{m^3} \: / \: \text{1.y} \: \frac{g}{cm^3}$).
 # General Case of States of Matter
 - High Energy, Low Attraction: Gases
 - Medium Energy, Medium Attraction: Liquids
