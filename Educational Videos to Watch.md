@@ -7,7 +7,6 @@
 - Eugene Khutoryaski
 - 3Blue1Brown
 - ScienceClic
-
 ## Quantum Mechanics
 - Pretty Much Physics
 ## Special Relativity
@@ -17,18 +16,25 @@
 ## FreeCAD
 
 ## KiCAD
-
+- Phil's Lab
 ## SPICE
 
 ## XFlow5 / XRotor
 
+# Mathematics and Computer Science
+- MIT OCW
+- Harvard
 # Software
 ## C/C++
 - TheCherno
 ## Rust
 
-## Web Development
+## Web Development (HTML/CSS/JS/Frameworks)
 
 ## Machine Learning
-
-## 
+- Siraj Raval (no hate on him :))
+- FastAI
+## Software News
+- Fireship
+## Reverse Engineering
+- AlaskaLinuxUserAKLU
