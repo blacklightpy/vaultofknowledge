@@ -1,7 +1,7 @@
 # Final Theory
 - Battery has an electric field around it, due to its charge concentration at the electrodes.
 - One side is a sink, and the other side is a source. This like is a powerful dipole, except that it is willing to accept charges on one side and expel them on the other side, keeping the net intake 0, as it discharges the stored electrochemical potential energy.
-- When connected to a conducting wire (that is, something with a dielectric constant of 1 or close), it acts as an ideal [[waveguide]], through which the field passes, and the battery supplies electrons to continue this flow.
+- When connected to a conducting wire (that is, something with a dielectric constant of 1 or close), it acts as an ideal [[Waveguide]], through which the field passes, and the battery supplies electrons to continue this flow.
 - But as the field flows, if it reaches an open circuit, and it can't jump the gap, the electrons won't move further, and will begin to push back.
 - In that case, the field flows back and cancels, returning to the initial state
 - But if that's not the case, the circuit keeps supplying electrons, and the required energy due to wire resistance is sent back to the battery after the fields flowing from both sides meet and reflect back
@@ -33,7 +33,7 @@
 # Key Points
 > AlphaPhoenix:
 - Energy is transmitted by the electric field that flows around the wires, not by the flow of electrons
-- The wire acts as a [[waveguide]].
+- The wire acts as a [[Waveguide]].
 
 > AlphaPhoenix:
 - Ohm's law is a good approximation, and comes into effect after the circuit has solved the potential path.
@@ -129,7 +129,7 @@
 		- Hole mobility: For holes
 		- Carrier Mobility: For both holes and electrons
 
-- The flow of electromagnetic waves when they interact with the materials around the cable and the presence of electric charge carriers and magnetic dipoles are usually described using "mean field theory" by the [[permeability]] and [[permittivity]] of the materials involved.
+- The flow of electromagnetic waves when they interact with the materials around the cable and the presence of electric charge carriers and magnetic dipoles are usually described using "mean field theory" by the [[Permeability]] and [[Permittivity]] of the materials involved.
 - Mean Field Theory, in ==physics== and ==probability theory==
 - Perturbation theory, in ==applied mathematics== and ==quantum mechanics==
 	- For approximate solutions, starting from an exact solution of a related, but simpler problem

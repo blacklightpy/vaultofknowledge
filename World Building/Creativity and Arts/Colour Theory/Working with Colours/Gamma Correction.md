@@ -1,4 +1,4 @@
-Gamma Correction or Gamma is defined as the average slope of the function that relates the logarithm of pixels to the logarithm of exposure. It is a nonlinear operation used to encode and decode [[Luminance]] or [[Tristimulus|tristimulus values]] in [[Video]] or still image systems.
+Gamma Correction or Gamma is defined as the average slope of the function that relates the logarithm of pixels to the logarithm of exposure. It is a nonlinear operation used to encode and decode [[Luminance]] or [[Tristimulus|tristimulus values]] in [[Video 1]] or still image systems.
 
 The relationship is called [[Tone Response Curve]].
 

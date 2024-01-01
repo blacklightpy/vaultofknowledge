@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z2-Rough Notes 2/Waveguide.md",
+                "file": "Z2-Rough Notes 2/General/Awesome Awesomes 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Waveguide.md",
+                "file": "Z2-Rough Notes 2/General/Awesome Awesomes 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Waveguide.md",
+                "file": "Z2-Rough Notes 2/General/Awesome Awesomes 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Waveguide.md"
+                "file": "Z2-Rough Notes 2/General/Awesome Awesomes 1.md"
               }
             }
           },
@@ -174,28 +174,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "18b8ad5bf267dac2",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Z2-Rough Notes 2/Why I calculate too much.md",
+    "Z2-Rough Notes 2/General/Waveguide.md",
+    "Z2-Rough Notes 2/General/Why I calculate too much.md",
     "Z2-Rough Notes 2/Religious Discourse/The political history of western religions.md",
-    "Z2-Rough Notes 2/Waveguide.md",
-    "Z2-Rough Notes 2/Phonology.md",
+    "Z2-Rough Notes 2/General/Phonology.md",
     "Z2-Rough Notes 2/Religious Discourse/Understanding Muslim relations with Hinduism.md",
-    "Z2-Rough Notes 2/What happens to a fluid released in space.md",
-    "Z2-Rough Notes 2/War.md",
-    "Z2-Rough Notes 2/PeerTube Content.md",
-    "Z2-Rough Notes 2/Pegasus Spyware.md",
-    "Z2-Rough Notes 2/New way of addressing identities.md",
-    "Z2-Rough Notes 2/Music Gestures.md",
-    "Z2-Rough Notes 2/Mathematics.md",
-    "Z1-Rough Notes/Awesome Awesomes.md",
-    "Z1-Rough Notes/BigPicture.md",
-    "Z1-Rough Notes/Business Ethics.md",
-    "Z1-Rough Notes/Android Customization.md",
+    "Z2-Rough Notes 2/General/What happens to a fluid released in space.md",
+    "Z2-Rough Notes 2/General/War.md",
+    "Z2-Rough Notes 2/General/PeerTube Content.md",
+    "Z2-Rough Notes 2/General/Pegasus Spyware.md",
+    "Z2-Rough Notes 2/General/New way of addressing identities.md",
+    "Z2-Rough Notes 2/General/Music Gestures.md",
+    "Z2-Rough Notes 2/General/Mathematics.md",
+    "Z2-Rough Notes 2/General/Awesome Awesomes 1.md",
+    "Z2-Rough Notes 2/General/BigPicture 1.md",
+    "Z2-Rough Notes 2/General/Business Ethics 1.md",
+    "Z2-Rough Notes 2/General/Android Customization 1.md",
     "Personal/Creative and Recreational/3D Modelling.md",
-    "Z1-Rough Notes/3D Modelling Software.md",
-    "Z2-Rough Notes 2/Tools for animating 3D models in Web.md",
-    "Z1-Rough Notes/Force.md",
+    "Z2-Rough Notes 2/General/3D Modelling Software 1.md",
+    "Z2-Rough Notes 2/General/Tools for animating 3D models in Web.md",
+    "Z2-Rough Notes 2/General/Force 1.md",
     "Z1-Rough Notes/Fusion 360/Articles to Read.md",
     "Z2-Rough Notes 2/Developing My Own Philosophy",
     "World Building/Philosophy/The importance of not knowing.md",

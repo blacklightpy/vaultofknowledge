@@ -8,4 +8,4 @@ A data scientist is someone who creates programming code and combines it with st
 - Data Mining
 - Data Analysis
 - Data Integration - Developing data driven solutions
-- [[Data and Information Visualization]] - Presenting findings to inform high-level decisions in a broad range of application domains
+- [[Data and Information Visualization 1]] - Presenting findings to inform high-level decisions in a broad range of application domains
