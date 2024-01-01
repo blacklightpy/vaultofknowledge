@@ -49,15 +49,16 @@ site_name: Vault of Knowledge
 html_url_prefix: '/vaultofknowledge'
 html_template_path_str: ''
 html_custom_inclusions:
+  - <meta name="description" content="This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about. You can call this a knowledge-base or to use the modern terminology, a second brain or digital garden.">
   - <meta name="google-site-verification" content="UirlDYot4I965EnU-iSvktvULg5K7pwkFCuTXxeUs78" />
   - <link rel="me" href="https://ohai.social/@ssunboyy" />
   - <link rel="me" href="https://firefish.social/@jyzkms" />
-  - <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  - <script async src="//www.instagram.com/embed.js"></script>
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
-    link: index.html
+    link: index.html
+  - name: GitHub
+    link: https://github.com/blacklightpy/vaultofknowledge
 file_exports: []
 toggles:
   compile_md: true
