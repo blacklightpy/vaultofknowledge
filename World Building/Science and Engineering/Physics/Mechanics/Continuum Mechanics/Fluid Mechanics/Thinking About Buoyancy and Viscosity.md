@@ -17,6 +17,8 @@ And this, is further due to intermolecular forces between molecules. So this, is
 > 
  > The static pressure P0 should account for the container pressure too (PV=nRT), as without either gravitational pressure or external atmospheric pressure (which will be pushed back against), there is no such state as a fluid. Also you never atmospheric pressure without gravity, as it is what causes atmospheric pressure (unless you're blowing air). In other words, without gravity, you're always separately compressing a fluid into a space.
  > 
+ > (I forgot that the pressure can get really low as the heat radiates outwards by the walls of the container..)
+ > 
  > Is PV=nRT is an approximation at earth? If so outside these conditions, it could be better modeled by [[Van der Waals forces]] or by taking into account the [[Compressibility Factor]].
  >
  > But I think no, because P = nRT/V, V is same everywhere, and n and T determines the Pressure in Vacuum.
@@ -26,7 +28,7 @@ And this, is further due to intermolecular forces between molecules. So this, is
 ## Container pressure doubt (cleared above too)
 > I'm confused by how the container pressure is measured
 > 
-> I know A1v1 = A2v2, and with this, we can calculate the velocity of air leaving a bottle when it is opened in space, because without gravity and external pressure, the pressure inside the bottle is 1 atm, since we didn't push the air further when the bottle was closed while at earth.
+> I know A1v1 = A2v2, and with this, we can calculate the velocity of air leaving a bottle when it is opened in space, because without gravity and external pressure, the pressure inside the bottle is 1 atm, since we didn't push the air further when the bottle was closed while at earth. But again, the pressure in the bottle usually radiates outward if the surroundings are cooler, since heat is just electromagnetic field flows.
 > 
 > But in case of manually pumping air, I guess we'll use PV = nRT. Oh yeah, just remembered it while writing!
 ## Arrangement of particles affecting macroscopic effects

@@ -6,7 +6,9 @@ In free space, they would simply boil, since the internal energy of the particle
 
 So it's as if liquids are only held in place because something keeps hitting them from the outside, in other words, due to external heat of gases (which itself is due to gravity and the amount of gas).
 # Gaseous State
-In case of gases, they just spread out to infinity without the influence of gravity or a container.
+In case of gases, if they have a pressure, they just spread out to infinity without the influence of gravity or a container.
+
+But in normal cases, a bottle will remain in ambient temperature and pressure due to heat radiating out if the external temperature isn't the same as internal temperature.
 
 I find it interesting how air is 1000 times less dense than water (830 to be precise, but it's like $\dfrac{\text{1.x} \: kg/m^3}{\text{1.y} \: g/cm^3}$).
 # General Case of States of Matter
