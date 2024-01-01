@@ -11,8 +11,13 @@
             "id": "e2e3290be1682410",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized/General Notes/Drift Velocity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unorganized/General Notes/Drift Velocity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unorganized/General Notes/Drift Velocity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unorganized/General Notes/Drift Velocity.md"
+              }
             }
           },
           {
@@ -166,9 +175,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "e2e3290be1682410",
   "lastOpenFiles": [
     "Unorganized/General Notes/Delocalized Electrons.md",
+    "Unorganized/General Notes/Drift Velocity.md",
+    "favicon.ico",
     "LICENSE.md",
     "home.md",
     "Unorganized/General Notes/Obsidian Notes_book.md",
@@ -193,7 +204,6 @@
     "Personal/AVIASYS Related/Project Management/Ideas for Project Management.md",
     "Personal/AVIASYS/Project Management/Project Management Ideas.md",
     "Personal/AVIASYS/Project Management/Understanding Agile Model/Articles on Aglie.md",
-    "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
     "Personal/AVIASYS Related/Project Management/Software",
     "Personal/AVIASYS Related/Project Management/Software/Ways to Use Software",
     "Personal/AVIASYS Related/Project Management",
@@ -203,7 +213,6 @@
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",
     "Unorganized/Studying Social Problems/Socio-Political Discourse",
-    "Personal/Random Ideas",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",
