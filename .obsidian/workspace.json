@@ -60,58 +60,6 @@
             }
           },
           {
-            "id": "d8f6ea7ad653df17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Rough Notes/Methods in Fluid Dynamics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ceb588880a799ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Rough Notes/Motors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67b6405ee1d48ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/TIL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06cb80babc5f6d98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/V8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "280247d5cf002403",
             "type": "leaf",
             "state": {
@@ -143,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Untitled 1.md",
+                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why Conservative Arguments are Loaded.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -221,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to configure a system.md",
+                "file": "Z2-Rough Notes 2/Religious Discourse/Apostasy in Islam.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -234,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Z2-Rough Notes 2/General/How to configure a system.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -247,20 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apostasy in Islam.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6028004b5afe85d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture/Eastern Religions.md",
+                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -268,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -335,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Z1-Rough Notes/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,18 +287,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Z1-Rough Notes/Tasks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "c44d69e882960f23",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -372,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Portable Programs.md"
+                "file": "Z1-Rough Notes/Tasks.md"
               }
             }
           },
@@ -398,13 +325,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "9f70af76281fdc1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
+    "width": 320.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -423,8 +358,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "6e5bb090bdc4e561",
   "lastOpenFiles": [
+    "Z1-Rough Notes/Methods in Fluid Dynamics.md",
+    "Z1-Rough Notes/Motors.md",
+    "Z2-Rough Notes 2/Things I Learned 1.md",
+    "Z2-Rough Notes 2/Project - Designing a V8 Engine.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "World Building/Philosophy/Smell.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Why Conservative Arguments are Loaded.md",
+    "Z2-Rough Notes 2/General/Developing Portable Programs.md",
+    "Culture/Eastern Religions.md",
+    "Z2-Rough Notes 2/General/How to configure a system.md",
+    "Z2-Rough Notes 2/Religious Discourse/Apostasy in Islam.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Flow of Electricity.md",
     "Developing Portable Programs.md",
     "Telegrapher's equations.md",
@@ -438,19 +386,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Compressibility Factor.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Van der Waals forces.md",
     "Magnetic Monopoles.md",
-    "Proprietary Technology Compared To Consumer Products.md",
-    "Personal/Creative and Recreational/To Learn.md",
-    "Educational Videos to Watch.md",
-    "().md",
-    "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
-    "Z1-Rough Notes/To Learn.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-    "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
-    "Large Hadron Collider.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
