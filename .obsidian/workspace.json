@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -146,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +166,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b95e54a0833f5c1",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "home.md",
     "Unorganized/General Notes/Obsidian Notes_book.md",
