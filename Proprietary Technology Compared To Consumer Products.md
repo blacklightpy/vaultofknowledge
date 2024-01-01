@@ -1,4 +1,4 @@
-We progressive community often say that technology has to be open source. What is the analogy of that compared to a consumer product?
+We in the progressive community often say that technology has to be open source. What is the analogy of that compared to a consumer product?
 
 This is kind of like comparing electromagnetic effects to gravity, where the details of latter is neither experienced directly nor intuitive to the average person, while the effects of gravity is commonly understood. However, the forces are very different in both scales (electromagnetic force is many orders of magnitude above gravity for bodies of similar dimensions).
 # Conditions
@@ -9,6 +9,7 @@ This is kind of like comparing electromagnetic effects to gravity, where the det
 	- But this argument falls apart with a copyleft license so that any modifications are provided back rather than restricted. So even if the new party has a better development team, the benefits are contributed back to the society. Gradually, this means that the technology will be able to be delivered by a team more cheaply than the first developer, which ultimately makes the technology cheaper.
 	- The ultimate goal is however that technology becomes cheaper without artificial limitations due to greed.
 	- But if greed is what we are solving, then even when technology is being first developed, money shouldn't be entering the scene. But rather, we will be ensuring that all people can access the system in harmony without anyone feeling left out due to lack of capacity.
+	- Also, since copyleft licenses became necessary due to capitalism, in the new philosophy, we can do away with licenses entirely.
 # Arguments
 ## About needing the design or source code
 - You can't access the internals of the computer
@@ -26,7 +27,9 @@ Of course, if I simply criticize this like that, it's like I'm pointing out a pr
 
 I agree with that. I don't think that if a few people are in disagreement, an assigned person being in charge can somehow fairly judge the scene. However, capital starts by exploiting individuals and it's no good. Also, there is the problem of inheritance, even if everything starts out normally, so if anyone exploits others, the benefits he reaped doesn't end there, it's passed on to his children and so on.
 
-My solution requires a change from a philosophical level. That, is something I'll be working on. The idea is to recognize the connectedness of society as opposed to thinking in terms of individual benefit, so that exploiting one another seems like eating your own arms when hungry. So when a problem arises, insWith that in mind, even without drastically altering your mindset to be complete altruists, you can focus on building a better world, and do away with "artificial limitations".
+My solution requires a change from a philosophical level. That, is something I'll be working on. The idea is to recognize the connectedness of society as opposed to thinking in terms of individual benefit, so that exploiting one another seems like eating your own arms when hungry. So when a problem arises, instead of trying to find the blame and judge with a punishment, we try to solve the problem, understand it, and try to prevent it from occurring in the future with this understanding, since that is in everyone's best interest.
+
+With that in mind, even without drastically altering your mindset to be complete altruists, you can focus on building a better world, and do away with "artificial limitations".
 ### The problem with artificial limitations
 To elaborate on the "artificial limitation", you never artificially limit something without a reason. The usual reasons are to keep the design a secret, which I've explained is wrong, and to ensure that people buy newer products without having the option to keep using the older product, which could've very well been reused had it not been artificially limited.
 
