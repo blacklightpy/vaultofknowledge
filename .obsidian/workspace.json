@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Portable Programs.md"
+                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md"
               }
             }
           },
@@ -454,7 +454,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Magnetic Monopoles.md",
+                    "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -475,16 +475,16 @@
       }
     ]
   },
-  "active": "3b9a7cacd0e7fbfb",
+  "active": "ab03528f3f891d57",
   "lastOpenFiles": [
     "Magnetic Monopoles.md",
+    "Large Hadron Collider.md",
+    "Developing Portable Programs.md",
     "Alan Watts Speeches.md",
     "Flow of Electricity.md",
     "Scientists I've Encountered A Lot In My Notes.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-    "Developing Portable Programs.md",
-    "Large Hadron Collider.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "Dyons.md",
     "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
