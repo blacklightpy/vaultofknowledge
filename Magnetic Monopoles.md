@@ -7,6 +7,7 @@ They have not been observed. They were predicted by Dirac and many [[Grand Unifi
 - [HN Thread](https://news.ycombinator.com/item?id=38550994) | [Nature Materials Article (Open Access)](https://www.nature.com/articles/s41563-023-01737-4): Discovery of magnetic monopole quasi-particles, which are multiple particles whose combined spin effects generate a monopole on a 2D cross-section. Not a big deal fundamentally. But could be in line with my idea of making magnetic monopoles manually.
 # Implications
 Their existence would imply:
+- Max
 - Quantization of all electric charge
 - We would be able to catalyse proton decay via the Rubakov-Callan effect.
 	- With this, we could get energy from protons using monopoles without using up the monopole itself.
