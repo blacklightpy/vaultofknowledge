@@ -1,7 +1,7 @@
 # Final Theory
 - Battery has an electric field around it, due to its charge concentration at the electrodes.
 - One side is a sink, and the other side is a source. This like is a powerful dipole, except that it is willing to accept charges on one side and expel them on the other side, keeping the net intake 0, as it discharges the stored electrochemical potential energy.
-- When connected to a wire, it acts as a [[waveguide]], through which the field passes, and the battery supplies electrons to continue this flow.
+- When connected to a conducting wire (that is, something with a dielectric constant of 1 or close), it acts as an ideal [[waveguide]], through which the field passes, and the battery supplies electrons to continue this flow.
 - But as the field flows, if it reaches an open circuit, and it can't jump the gap, the electrons won't move further, and will begin to push back.
 - In that case, the field flows back and cancels, returning to the initial state
 - But if that's not the case, the circuit keeps supplying electrons, and the required energy due to wire resistance is sent back to the battery after the fields flowing from both sides meet and reflect back
@@ -13,6 +13,10 @@
 - The Poynting Vector can describe the energy flow direction as a shortcut due to the rising electric and magnetic fields (which arise due to the motion of electrons), and this points in the direction of the resistances in the circuit, and outwards from the battery.
 - This means current flows to each point in the circuit.
 - In AC too, though electric field flips, the magnetic field does too, and hence the direction of flow of energy remains the same.
+- Since the load continuously uses up the energy passed by the fields, that is why current keeps flowing, because the load is an energy sink.
+
+>[!NOTE]
+> For machines, it can be understood as flowing through the machine circuit or PCB traces, but in case of living beings, they use the energy in strange patterns, as if they are electric fieldbenders
 
 - The main experiment Derek used to show this theory was a classic case of a transmission line, which is modeled using a "lumped element method", and the equations used in it are called the [[Telegrapher's equations]].
 ---
