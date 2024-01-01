@@ -28,4 +28,8 @@ I agree with that. However, capital starts by exploiting individuals and it's no
 
 My solution requires a change from a philosophical level. That, is something I'll be working on. The idea is to recognize the connectedness of society as opposed to thinking in terms of individual benefit, so that exploiting one another seems like eating your own arms when hungry. With that in mind, even without drastically altering your mindset to be complete altruists, you can focus on building a better world, and do away with "artificial limitations".
 ### The problem with artificial limitations
-To elaborate on the "artificial limitation", you never artificially limit something without a reason. The usual reasons are to keep the design a secret, which I've explained is wrong, and to ensure that people buy newer products without having the option to keep using the older product, which could've very well been reused had it not been artificially limited. This is not 
+To elaborate on the "artificial limitation", you never artificially limit something without a reason. The usual reasons are to keep the design a secret, which I've explained is wrong, and to ensure that people buy newer products without having the option to keep using the older product, which could've very well been reused had it not been artificially limited.
+
+This is not only worse in terms of ethics, as we at least had some genuine reason in the former case, it is also harmful for the environment directly, as new products are more waste of resources than quality products. This maybe justified as the world has enough resource to do whatever you want, but that's not true as millions of people are starving right now. This is simply an argument similar to climate change denial, where one believes their actions have no effect on the surroundings.
+
+By avoiding artificial limitations, we can do more with less, and stop chasing new and new shiny toys, which simply harm us and others in the long run.
