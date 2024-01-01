@@ -7,3 +7,5 @@ Features:
 	- Allows users to delete messages one-by-one
 	- Simple APIs
 	- Open-source but not federated
+
+In hindsight, federation seems nice.

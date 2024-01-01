@@ -54,7 +54,7 @@ I used horizontal screenshots to show them without having to scroll too much.
 | Plank Dock (app)                | ![[Plank Dock (app).png]]                |
 | Pantheon Dock                   | ![[Pantheon Dock.png]]                   |
 
-I tried to display vertical screenshots using a table, but the site generator has some issues with converting the tables. So they're linked in another page [[Screenshots of docks placed vertically 1|here]]
+I tried to display vertical screenshots using a table, but the site generator has some issues with converting the tables. So they're linked in another page [[Screenshots of docks placed vertically|here]]
 
 ### Bar (/ Panel / Status bar)
 They are conventionally placed at the top. Some window managers include a bar with them.

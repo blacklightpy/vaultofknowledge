@@ -3,7 +3,7 @@ Beware of: Editor Holy Wars (Vim/Emacs; use Nano)
 # Areas of Customization
 Shell Appearance: Window Decorations, Blur, Animations
 Icon Packs
-[[Themes 1]] / [[Colour Schemes]]
+[[Themes]] / [[Colour Schemes]]
 Sound Themes (optional)
 Pointers (optional)
 Fonts (option)

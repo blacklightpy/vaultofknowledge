@@ -4,4 +4,4 @@
 - Model View Indent (MVI)
 - Model View Update (MVU)
 - Client-Server
-- [[Pipe and Filter Architecture 1]]
+- [[Pipe and Filter Architecture]]

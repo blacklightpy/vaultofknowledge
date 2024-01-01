@@ -44,7 +44,7 @@ Ceiling speakers are any speakers placed above the head. They cover the same fre
 They also balance audio inside a large room as they can be placed nearby the center of the room if floor-standing speakers are too intrusive.
 
 ## 6. AV Recievers
-They are the brain of a surround sound system. They have ports to plug in all your speakers, TV, DVD player, etc. Modern AV receivers support various [[Surround Sound Formats 1]] such as Dolby Atmos and DTS.
+They are the brain of a surround sound system. They have ports to plug in all your speakers, TV, DVD player, etc. Modern AV receivers support various [[Surround Sound Formats]] such as Dolby Atmos and DTS.
 
 # Reference
 https://www.makeuseof.com/understanding-surround-sound-systems

@@ -101,7 +101,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- **Standards Organizations**
 			- [[Institute of Electrical and Electronics Engineers]]
 			- [[Internet Engineering Task Force]]
-		- [[Standards Organizations]]
+		- [[World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations]]
 	- **Engineering Tools and Machines**
 		- [[CNC Machines]]
 		- [[Numerical Control]]
@@ -201,7 +201,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Lyapunov Stability]]
 			- [[PID Control]]
 			- [[State Observers]]
-			- [[Transfer Function]]
+			- [[World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function]]
 		- **[[Data Science]]**
 			- [[Data Acquisition]]
 		- **Digital Signal Processing**

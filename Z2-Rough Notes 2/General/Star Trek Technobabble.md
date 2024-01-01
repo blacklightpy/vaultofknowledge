@@ -1,0 +1,32 @@
+# Technologies or Items
+- Tractor Beam
+- Warp Drive
+- Impulse Drive
+- Spore Drive
+- Transwarp
+- Transwarp Coils
+- Warp Core
+- Warp Engine
+- Computer
+- Dilithium
+- Subspace Field
+- Tachyon Particles
+- Transporter
+- Plasma Conduit
+- Positronic Matrix
+- Duotronics
+- Multitronics
+- Trilithium Resin
+# Events
+- Subspace Interference
+- The Burn
+- Temporal Rift
+# Commands
+- Lock Phasors
+- Rotating Phasor Frequencies
+- Pattern Riker Alpha
+- Arm Photon Torpedos
+- Fire.
+- Engage.
+- Hit It.
+- Manifest.

@@ -2,7 +2,7 @@ For reference:
 - [[Z2-Rough Notes 2/General/Desktop Environments|What is a desktop environment?]]
 
 For window managers, see [[Window Manager Showcase 1]]
-For stylized screenshots, see [[Rice Showcase 1]]
+For stylized screenshots, see [[Rice Showcase]]
 
 For OS specific changes to desktop environments, [[#OS Specific Adjustments|jump here]]
 

@@ -1,4 +1,4 @@
-Surround Sound Formats are digital audio playback formats that contain information for [[Surround Sound Systems 1]].
+Surround Sound Formats are digital audio playback formats that contain information for [[Surround Sound Systems]].
 
 # Dolby Atmos
 It is the most popular surround sound format used in home theatres. In addition, most streaming services support Dolby Atmos. It supports up to 24 floor speakers and up to 10 overhead speakers, which allows to have any object-based surround system that you can have inside your home.

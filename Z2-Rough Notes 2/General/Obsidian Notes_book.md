@@ -9765,7 +9765,7 @@
 
 ## Necessity of Politics
 
-![[Necessity of Politics 1|Necessity of Politics.md]]
+![[Necessity of Politics|Necessity of Politics.md]]
 
 ---
 
@@ -9781,7 +9781,7 @@
 
 ## Newton's Bucket
 
-![[Newton's Bucket 1|Newton's Bucket.md]]
+![[Newton's Bucket|Newton's Bucket.md]]
 
 ---
 
@@ -9789,7 +9789,7 @@
 
 ## On chasing experiences
 
-![[On chasing experiences 1|On chasing experiences.md]]
+![[On chasing experiences|On chasing experiences.md]]
 
 ---
 
@@ -9797,7 +9797,7 @@
 
 ## Overview example wiki
 
-![[Overview example wiki 1|Overview example wiki.md]]
+![[Overview example wiki|Overview example wiki.md]]
 
 ---
 
@@ -9805,7 +9805,7 @@
 
 ## Power Usage Comparison of CC and banking systems
 
-![[Power Usage Comparison of CC and banking systems 1|Power Usage Comparison of CC and banking systems.md]]
+![[Power Usage Comparison of CC and banking systems|Power Usage Comparison of CC and banking systems.md]]
 
 ---
 
@@ -9813,7 +9813,7 @@
 
 ## Server Management Tools
 
-![[Server Management Tools 1|Server Management Tools.md]]
+![[Server Management Tools|Server Management Tools.md]]
 
 ---
 
@@ -9821,7 +9821,7 @@
 
 ## Shareworthy articles
 
-![[Shareworthy articles 1|Shareworthy articles.md]]
+![[Shareworthy articles|Shareworthy articles.md]]
 
 ---
 
@@ -9829,7 +9829,7 @@
 
 ## Vitamin D from Sunlight
 
-![[Vitamin D from Sunlight 1|Vitamin D from Sunlight.md]]
+![[Vitamin D from Sunlight|Vitamin D from Sunlight.md]]
 
 ---
 
@@ -9973,7 +9973,7 @@
 
 # Planckian Locus
 
-![[Planckian Locus 1|Planckian Locus.md]]
+![[Planckian Locus|Planckian Locus.md]]
 
 ---
 
@@ -9989,7 +9989,7 @@
 
 # Studying FreeCAD Source Code
 
-![[Studying FreeCAD Source Code 1|Studying FreeCAD Source Code.md]]
+![[Studying FreeCAD Source Code|Studying FreeCAD Source Code.md]]
 
 ---
 
@@ -9997,7 +9997,7 @@
 
 # Tasks
 
-![[Tasks (from Jan 2023) 1|Tasks.md]]
+![[Tasks (from Jan 2023)|Tasks.md]]
 
 ---
 
@@ -10005,7 +10005,7 @@
 
 # To Do
 
-![[To Do 1|To Do.md]]
+![[To Do|To Do.md]]
 
 ---
 
@@ -10013,7 +10013,7 @@
 
 # To Learn
 
-![[To Learn 1|To Learn.md]]
+![[Z2-Rough Notes 2/General/To Learn|To Learn.md]]
 
 ---
 
@@ -10021,7 +10021,7 @@
 
 # Transfer Function
 
-![[Transfer Function 1|Transfer Function.md]]
+![[Z2-Rough Notes 2/General/Transfer Function|Transfer Function.md]]
 
 ---
 
@@ -10037,7 +10037,7 @@
 
 # Video
 
-![[Video 1|Video.md]]
+![[Video|Video.md]]
 
 ---
 
@@ -10101,7 +10101,7 @@
 
 # Steps encountered when installing Void
 
-![[Steps encountered when installing Void 1|Steps encountered when installing Void.md]]
+![[Steps encountered when installing Void|Steps encountered when installing Void.md]]
 
 ---
 
@@ -10317,7 +10317,7 @@
 
 # Neofetch alternatives
 
-![[Neofetch alternatives 1|Neofetch alternatives.md]]
+![[Neofetch alternatives|Neofetch alternatives.md]]
 
 ---
 
@@ -10325,7 +10325,7 @@
 
 # Network Management
 
-![[Network Management 1|Network Management.md]]
+![[Network Management|Network Management.md]]
 
 ---
 
@@ -10333,7 +10333,7 @@
 
 # Next generation filesystems
 
-![[Next generation filesystems 1|Next generation filesystems.md]]
+![[Next generation filesystems|Next generation filesystems.md]]
 
 ---
 
@@ -10341,7 +10341,7 @@
 
 # Operating System Good-to-haves
 
-![[Operating System Good-to-haves 1|Operating System Good-to-haves.md]]
+![[Operating System Good-to-haves|Operating System Good-to-haves.md]]
 
 ---
 
@@ -10349,7 +10349,7 @@
 
 # Physical Constants
 
-![[Physical Constants 1|Physical Constants.md]]
+![[Physical Constants|Physical Constants.md]]
 
 ---
 
@@ -10357,7 +10357,7 @@
 
 # Rice Showcase
 
-![[Rice Showcase 1|Rice Showcase.md]]
+![[Rice Showcase|Rice Showcase.md]]
 
 ---
 
@@ -10365,7 +10365,7 @@
 
 # Ricer Guide
 
-![[Ricer Guide 1|Ricer Guide.md]]
+![[Ricer Guide|Ricer Guide.md]]
 
 ---
 
@@ -10373,7 +10373,7 @@
 
 # Rices I want to try out
 
-![[Rices I want to try out 1|Rices I want to try out.md]]
+![[Rices I want to try out|Rices I want to try out.md]]
 
 ---
 
@@ -10381,7 +10381,7 @@
 
 # Screenshots of docks placed vertically
 
-![[Screenshots of docks placed vertically 1|Screenshots of docks placed vertically.md]]
+![[Screenshots of docks placed vertically|Screenshots of docks placed vertically.md]]
 
 ---
 
@@ -10389,7 +10389,7 @@
 
 # Settings Apps
 
-![[Settings Apps 1|Settings Apps.md]]
+![[Settings Apps|Settings Apps.md]]
 
 ---
 
@@ -10397,7 +10397,7 @@
 
 # Shell
 
-![[Shell 1|Shell.md]]
+![[Shell|Shell.md]]
 
 ---
 
@@ -10405,7 +10405,7 @@
 
 # Surface Finishing
 
-![[Surface Finishing 1|Surface Finishing.md]]
+![[Surface Finishing|Surface Finishing.md]]
 
 ---
 
@@ -10413,7 +10413,7 @@
 
 # Themes
 
-![[Themes 1|Themes.md]]
+![[Themes|Themes.md]]
 
 ---
 
@@ -10421,7 +10421,7 @@
 
 # Things I don't understand
 
-![[Things I don't understand 1|Things I don't understand.md]]
+![[Things I don't understand|Things I don't understand.md]]
 
 ---
 
@@ -10429,7 +10429,7 @@
 
 # Types of Politics
 
-![[Types of Politics 1|Types of Politics.md]]
+![[Types of Politics|Types of Politics.md]]
 
 ---
 
@@ -10445,7 +10445,7 @@
 
 # Vegan Art Supplies
 
-![[Vegan Art Supplies 1|Vegan Art Supplies.md]]
+![[Vegan Art Supplies|Vegan Art Supplies.md]]
 
 ---
 
@@ -10453,7 +10453,7 @@
 
 # Vim Customizing
 
-![[Vim Customizing 1|Vim Customizing.md]]
+![[Vim Customizing|Vim Customizing.md]]
 
 ---
 
@@ -10501,7 +10501,7 @@
 
 # Process Design Kit
 
-![[Process Design Kit 1|Process Design Kit.md]]
+![[Process Design Kit|Process Design Kit.md]]
 
 ---
 
@@ -10517,7 +10517,7 @@
 
 # Principles of Mechanics
 
-![[Principles of Mechanics 1|Principles of Mechanics.md]]
+![[Principles of Mechanics|Principles of Mechanics.md]]
 
 ---
 
@@ -10525,7 +10525,7 @@
 
 # Torque
 
-![[Torque 1|Torque.md]]
+![[Torque|Torque.md]]
 
 ---
 
@@ -10533,7 +10533,7 @@
 
 # Tasks 2
 
-![[Tasks 2 1|Tasks 2.md]]
+![[Tasks 2|Tasks 2.md]]
 
 ---
 
@@ -10541,7 +10541,7 @@
 
 # Poetry
 
-![[Poetry 1|Poetry.md]]
+![[Poetry|Poetry.md]]
 
 ---
 
@@ -10565,7 +10565,7 @@
 
 # Star Trek Stuff
 
-![[Star Trek Stuff 1|Star Trek Stuff.md]]
+![[Star Trek Technobabble|Star Trek Stuff.md]]
 
 ---
 
@@ -10653,7 +10653,7 @@
 
 # My Philosophy of Software Design
 
-![[My Philosophy of Software Design 1|My Philosophy of Software Design.md]]
+![[My Philosophy of Software Design|My Philosophy of Software Design.md]]
 
 ---
 
@@ -10661,7 +10661,7 @@
 
 # Optical Flow
 
-![[Optical Flow 1|Optical Flow.md]]
+![[Optical Flow|Optical Flow.md]]
 
 ---
 
@@ -10669,7 +10669,7 @@
 
 # Technical Drawing
 
-![[Technical Drawing 1|Technical Drawing.md]]
+![[Technical Drawing|Technical Drawing.md]]
 
 ---
 

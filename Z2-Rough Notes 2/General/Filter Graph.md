@@ -1,4 +1,4 @@
-Filter Graphs in multimedia processing are directed graphs. The edges represent one-way transfer of data and the nodes represent [[filters]]. The edges are called pipes, and they are part of the [[Pipe and Filter Architecture 1]].
+Filter Graphs in multimedia processing are directed graphs. The edges represent one-way transfer of data and the nodes represent [[filters]]. The edges are called pipes, and they are part of the [[Pipe and Filter Architecture]].
 
 Filters are functional blocks that do a specific activity in the multimedia processing workflow.
 
