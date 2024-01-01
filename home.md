@@ -12,7 +12,7 @@ You can explore the notes using the search functionality or from the table of co
 - **World Building:** Notes on Science, Engineering, Philosophy, etc. which can be used to make the world a better place.
 	- Note that you may not see a conventional ordering of categories here. For example, I consider ==computer science== to be a subcategory of ==mathematics==, ==optics== to be under ==electrodynamics== and ==fluid dynamics== under ==continuum mechanics==.
 - **World Exploration:** Not to improve the world per-se, but just exploring the world around us for the sake of it.
-- **Unorganized:** Most notes I take are under General Notes section here, because I can be too lazy to organize them.
+- **Unorganized:** Most notes I take are under the "General Notes" section here, because I can be too lazy to organize them.
 
 ## Other Notes
 **NOTE:** The UI of the website isn't optimized for mobile phones, and even for websites. I built this page using a Obsidian-flavoured markdown vault to website generator named ObsidianHTML. I haven't taken the time to style out the website, but this is it for now. I went with that it is better to make something than avoid doing anything at all while waiting for perfection.
