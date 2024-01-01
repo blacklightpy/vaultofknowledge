@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f54d29b71250e86a",
+        "id": "b76946831f09a639",
         "type": "tabs",
         "children": [
           {
-            "id": "75827870e2438b4a",
+            "id": "e26d58595ad1ba52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "835ea9552c3a8961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized/General Notes/Drift Velocity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3689f431f45a923a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Is Nature doing any calculations?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is Nature doing any calculations?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Is Nature doing any calculations?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Is Nature doing any calculations?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,14 +166,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3689f431f45a923a",
+  "active": "e26d58595ad1ba52",
   "lastOpenFiles": [
-    "Is Nature doing any calculations?.md",
-    "Unorganized/General Notes/Drift Velocity.md",
-    "Unorganized/General Notes/Delocalized Electrons.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
-    "_images/favicon.ico",
     "home.md",
+    "Unorganized/General Notes/Drift Velocity.md",
+    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Is Nature doing any calculations?.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
+    "Unorganized/General Notes/Delocalized Electrons.md",
+    "_images/favicon.ico",
     "_images/favicon.png",
     "Unorganized/General Notes/Obsidian Notes_book.md",
     "favicon.ico",
