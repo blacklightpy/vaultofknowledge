@@ -5,10 +5,10 @@
 - Case
 - Armband for Atom/Jelly
 - Wrist Lanyard
-
 # System (on Normal Phones)
 - Root System
 - Custom Recovery - TWRP/OrangeFox
 ## Apps
-- Aurora Store
-- NewPipe
+- Aurora Store (Google Play Alternative Client)
+- NewPipe (YouTube Alternative Client)
+- Droidify (F-Droid FOSS App Store Client)

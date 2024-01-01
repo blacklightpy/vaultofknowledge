@@ -4,167 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1f49d6b4705030",
+        "id": "485dd002e7b02a49",
         "type": "tabs",
         "children": [
           {
-            "id": "12e3035c46da34cc",
+            "id": "18b8ad5bf267dac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Force.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db4139267dd603e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Philosophy/The importance of not knowing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "280247d5cf002403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f26e34f9d2d2fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building/Philosophy/Smell.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfd56d8e13fe3d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why Conservative Arguments are Loaded.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "710159f96c2dc4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "900078cca459b669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Isn't using technology built by atheists wrong for religious people.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f289100f639efff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Religions and Walled Gardens.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc43cd252ec462db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Arguments against Religion 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2def58a9cb66255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b9a7cacd0e7fbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/General/How to configure a system.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abecf009c26db6e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md",
+                "file": "Z2-Rough Notes 2/Waveguide.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -231,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md",
+                "file": "Z2-Rough Notes 2/Waveguide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md",
+                "file": "Z2-Rough Notes 2/Waveguide.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md"
+                "file": "Z2-Rough Notes 2/Waveguide.md"
               }
             }
           },
@@ -319,34 +174,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "abecf009c26db6e4",
+  "active": "18b8ad5bf267dac2",
   "lastOpenFiles": [
-    "Z2-Rough Notes 2/General/How to configure a system.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
-    "Z2-Rough Notes 2/Religious Discourse/Apostasy in Islam.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "Z2-Rough Notes 2/Why I calculate too much.md",
+    "Z2-Rough Notes 2/Religious Discourse/The political history of western religions.md",
+    "Z2-Rough Notes 2/Waveguide.md",
+    "Z2-Rough Notes 2/Phonology.md",
+    "Z2-Rough Notes 2/Religious Discourse/Understanding Muslim relations with Hinduism.md",
+    "Z2-Rough Notes 2/What happens to a fluid released in space.md",
+    "Z2-Rough Notes 2/War.md",
+    "Z2-Rough Notes 2/PeerTube Content.md",
+    "Z2-Rough Notes 2/Pegasus Spyware.md",
+    "Z2-Rough Notes 2/New way of addressing identities.md",
+    "Z2-Rough Notes 2/Music Gestures.md",
+    "Z2-Rough Notes 2/Mathematics.md",
+    "Z1-Rough Notes/Awesome Awesomes.md",
+    "Z1-Rough Notes/BigPicture.md",
+    "Z1-Rough Notes/Business Ethics.md",
+    "Z1-Rough Notes/Android Customization.md",
+    "Personal/Creative and Recreational/3D Modelling.md",
+    "Z1-Rough Notes/3D Modelling Software.md",
+    "Z2-Rough Notes 2/Tools for animating 3D models in Web.md",
+    "Z1-Rough Notes/Force.md",
+    "Z1-Rough Notes/Fusion 360/Articles to Read.md",
+    "Z2-Rough Notes 2/Developing My Own Philosophy",
     "World Building/Philosophy/The importance of not knowing.md",
     "Z0-Organizing (All Notes Matter)/What all must a person do.md",
-    "Z1-Rough Notes/To Take Notes On.md",
-    "Z1-Rough Notes/Tasks (from Jan 2023).md",
-    "Z1-Rough Notes/Methods in Fluid Dynamics.md",
-    "Z1-Rough Notes/Motors.md",
-    "Z2-Rough Notes 2/Things I Learned 1.md",
-    "Z2-Rough Notes 2/Project - Designing a V8 Engine.md",
     "World Building/Philosophy/Smell.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Why Conservative Arguments are Loaded.md",
-    "Z2-Rough Notes 2/General/Developing Portable Programs.md",
-    "Culture/Eastern Religions.md",
-    "Flow of Electricity.md",
-    "Developing Portable Programs.md",
-    "Telegrapher's equations.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/To Read - on \"Are Viscosity and Density Related\".md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking of Fluids Without External Forces.md",
-    "Waveguide.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Navier-Stokes Equations.md",
-    "Partial Differential Equations.md",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/NP-Completeness.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Why aren't LEDs used as transmitters.md",
+    "Z2-Rough Notes 2/Sociopolitical Discourse/Why Conservative Arguments are Loaded.md",
+    "Z2-Rough Notes 2/Sociopolitical Discourse",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
@@ -364,8 +221,6 @@
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png",
-    "History/Religion",
-    "History/Geology",
     "_images/Pakistan-Kashmir Map 1.jpg"
   ]
 }

@@ -558,7 +558,6 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Waveplate]]
 		- [[Electronic Camming]]
 		- [[Feynman Diagrams]]
-		- [[Force]]
 		- [[General Relativity]]
 		- [[Hamiltonian Mechanics]]
 		- [[Index of Mechanics]]

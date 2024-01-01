@@ -8959,7 +8959,7 @@
 
 ##### Force
 
-![[/World Building/Science and Engineering/Physics/Mechanics/Force.md|Force.md]]
+![[Force|Force.md]]
 
 ---
 
