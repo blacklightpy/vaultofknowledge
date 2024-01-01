@@ -514,7 +514,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Doubt - Are Viscosity and Density Related]]
 				- [[Surface Tension]]
 				- [[Thinking About Buoyancy and Viscosity]]
-				- [[Thinking of Fluids Without External Pressure]]
+				- [[Thinking of Fluids Without External Forces]]
 				- [[Understanding Buoyancy]]
 			- **Solid Mechanics**
 				- [[Fracture Mechanics]]
