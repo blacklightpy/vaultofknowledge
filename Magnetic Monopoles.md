@@ -23,5 +23,7 @@ Their existence would imply:
 	- Quanta Magazine: https://www.youtube.com/watch?v=Unl1jXFnzgo
 	- PBS Space Time: https://www.youtube.com/watch?v=kixAljyfdqU
 	- ScienceClic English: https://www.youtube.com/watch?v=n7cOlBxtKSo
+- Physics Explained: https://www.youtube.com/watch?v=hkmoZ8e5Qn0
+- Pretty Much Physics Videos
 # Related
 - [[Dyons]]
