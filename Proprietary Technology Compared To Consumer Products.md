@@ -1,4 +1,6 @@
-We often say that technology has to be open source. What is the analogy of that compared to a consumer product?
+We progressive community often say that technology has to be open source. What is the analogy of that compared to a consumer product?
+
+This is kind of like comparing electromagnetic effects to gravity, where the details of latter is neither experienced directly nor intuitive to the average person, while the effects of gravity is commonly understood. However, the forces are very different in both scales (electromagnetic force is many orders of magnin)
 # Conditions
 - We require the design data of the hardware - on one hand for security, and on another, for societal progress (so that the technology can be built easier)
 - We require the source code of the software - for security, for modifiability (so that one doesn't have to rewrite the whole program just to change one aspect to their liking), for portability, for societal progress (so the methods contained in the software can be used for universal benefit)
@@ -19,4 +21,6 @@ Technology often takes care of the second aspect. If you don't like a device wit
 
 Now, on one hand, this is misdirecting the argument, because if we consider how capitalism runs the world, the flow of economy has an effect on each individual, because the money that should benefit the society could end up in the hands of the people who are making shallow things to exploit people's desires, all in the name of "free market".
 
-Of course, if I simply criticize this like that, it's like I'm pointing out a problem with no real solution. People will say that you can't just dictatorship everything, because then the ones in power will now exploit everyone as opposed to people having the freedom to choose how they can be cunning, which is better than slavery;
+Of course, if I simply criticize this like that, it's like I'm pointing out a problem with no real solution. People will say that you can't just dictatorship everything, because then the ones in power will now exploit everyone as opposed to people having the freedom to choose how they can be cunning, which is better, or else it will be anarchy if we don't choose a decentralized system like capital.
+
+I agree with that. However, capital starts by exploiting individuals and it's no good. Also, 
