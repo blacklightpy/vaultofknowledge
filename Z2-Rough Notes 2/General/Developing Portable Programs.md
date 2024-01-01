@@ -1,3 +1,4 @@
+# Bookshelf Analogy
 A CPU Instruction Set Architecture is like a bookshelf pattern.
 
 An Operating System is like a pattern of arranging and retrieving books.
@@ -16,3 +17,5 @@ Java and similarly interpreted languages are an exception to this, as they are r
 
 
 Candidates: LLVM, WASM, and the new Cosmopolitan C Library.
+
+Also related: Developing a Web Browser (Layout Renderer, Style Renderer, Script Processer)

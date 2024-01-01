@@ -34,32 +34,6 @@
             }
           },
           {
-            "id": "a1cc1594c6ca16fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Rough Notes/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e5bb090bdc4e561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z1-Rough Notes/Tasks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "280247d5cf002403",
             "type": "leaf",
             "state": {
@@ -164,19 +138,6 @@
             }
           },
           {
-            "id": "2291c9f9808f2b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z2-Rough Notes 2/Religious Discourse/Apostasy in Islam.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3b9a7cacd0e7fbfb",
             "type": "leaf",
             "state": {
@@ -203,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -270,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Rough Notes/Tasks.md",
+                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Rough Notes/Tasks.md",
+                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Rough Notes/Tasks.md"
+                "file": "Z2-Rough Notes 2/General/Developing Portable Programs.md"
               }
             }
           },
@@ -358,21 +319,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e5bb090bdc4e561",
+  "active": "abecf009c26db6e4",
   "lastOpenFiles": [
+    "Z2-Rough Notes 2/General/How to configure a system.md",
+    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
+    "Z2-Rough Notes 2/Religious Discourse/Apostasy in Islam.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
+    "World Building/Philosophy/The importance of not knowing.md",
+    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
+    "Z1-Rough Notes/To Take Notes On.md",
+    "Z1-Rough Notes/Tasks (from Jan 2023).md",
     "Z1-Rough Notes/Methods in Fluid Dynamics.md",
     "Z1-Rough Notes/Motors.md",
     "Z2-Rough Notes 2/Things I Learned 1.md",
     "Z2-Rough Notes 2/Project - Designing a V8 Engine.md",
-    "Z0-Organizing (All Notes Matter)/What all must a person do.md",
     "World Building/Philosophy/Smell.md",
     "Z2-Rough Notes 2/Thoughts to Complete/Why Conservative Arguments are Loaded.md",
     "Z2-Rough Notes 2/General/Developing Portable Programs.md",
     "Culture/Eastern Religions.md",
-    "Z2-Rough Notes 2/General/How to configure a system.md",
-    "Z2-Rough Notes 2/Religious Discourse/Apostasy in Islam.md",
-    "Z2-Rough Notes 2/Thoughts to Complete/Defining Religion.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Force.md",
     "Flow of Electricity.md",
     "Developing Portable Programs.md",
     "Telegrapher's equations.md",
@@ -383,9 +347,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Navier-Stokes Equations.md",
     "Partial Differential Equations.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/NP-Completeness.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Compressibility Factor.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Van der Waals forces.md",
-    "Magnetic Monopoles.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
