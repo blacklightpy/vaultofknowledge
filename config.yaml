@@ -53,14 +53,17 @@ html_custom_inclusions:
   - <meta name="google-site-verification" content="UirlDYot4I965EnU-iSvktvULg5K7pwkFCuTXxeUs78" />
   - <link rel="me" href="https://ohai.social/@ssunboyy" />
   - <link rel="me" href="https://firefish.social/@jyzkms" />
-  - <link rel="icon" type="image/png" href="https://blacklightpy.github.io/vaultofknowledge/_images/favicon.png">
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
     link: index.html
   - name: GitHub
     link: https://github.com/blacklightpy/vaultofknowledge
-file_exports: []
+    type: external
+file_exports:
+  - encoding: binary
+    src: _images/favicon.ico
+    dst: favicon.ico
 toggles:
   compile_md: true
   compile_html: true
@@ -199,6 +202,7 @@ toggles:
       exclude_files:
         - .gitignore
         - not_created.html
+        - favicon.ico
         - config.yaml
       homepage_label: Home
     create_index_from_tags:
