@@ -78,7 +78,7 @@
 	- Values to know
 		- Current Density?
 		- Critical Velocity?
-		- 
+	- Anyways, the order of speed is said to be very low normally (contradicts with what I said earlier about YBCO's Fermi velocity.. have to verify)
 # More topics to cover
 - Thermodynamic Potential
 	- e.g. Internal Energy, Helmholtz Free Energy, Enthalpy, Gibbs Energy

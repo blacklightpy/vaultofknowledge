@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
+                "file": "Flow of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
+                "file": "Flow of Electricity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md"
+                "file": "Flow of Electricity.md"
               }
             }
           },
@@ -461,8 +461,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -475,8 +474,9 @@
       }
     ]
   },
-  "active": "ab03528f3f891d57",
+  "active": "e0034cc6cc20370c",
   "lastOpenFiles": [
+    "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
     "Magnetic Monopoles.md",
     "Large Hadron Collider.md",
     "Developing Portable Programs.md",
@@ -487,7 +487,6 @@
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "Dyons.md",
-    "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
     "Displacement Current.md",
     "Fermi velocity.md",
     "Telegrapher's equations.md",
