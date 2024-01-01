@@ -6,4 +6,4 @@
 
 The asymmetry of many terms in the magnetic field not having a counterpart for the electric field is because we do not have [[magnetic monopoles]], or magnetons.
 
-Also, displacement current comes from time varying electric fields, but when it  we don't have a charge
+Also, [[displacement current]] comes from time-varying electric fields, but when it comes to the charge term, we don't have a counterpart for magnetic fields.
