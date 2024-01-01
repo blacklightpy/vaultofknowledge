@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "835ea9552c3a8961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md"
               }
             }
           },
@@ -175,10 +189,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "835ea9552c3a8961",
   "lastOpenFiles": [
-    "_images/favicon.png",
     "home.md",
+    "_images/favicon.png",
     "Unorganized/General Notes/Drift Velocity.md",
     "Unorganized/General Notes/Obsidian Notes_book.md",
     "Unorganized/General Notes/Delocalized Electrons.md",
@@ -221,7 +235,6 @@
     "_images/Expulsion_judios-en.svg.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
     "_images/Islamic Covering Clothing for Women.jpg",
-    "_images/Pasted image 20231115165007.png",
-    "_images/Pakistan-Kashmir Map 1.jpg"
+    "_images/Pasted image 20231115165007.png"
   ]
 }
