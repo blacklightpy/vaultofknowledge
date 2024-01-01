@@ -7,7 +7,6 @@ We could also split some teams to go completely Agile, where it fits (eg: Softwa
 - Notion/Confluence (Docs)
 # Using Scrum Methodology
 (Adjusted for our workflow)
-
 - Sprint Planning + Backlog pruning -> Monday
 - Sprint Review -> Wednesday
 - Sprint Retrospective -> Friday
@@ -17,14 +16,14 @@ We could also split some teams to go completely Agile, where it fits (eg: Softwa
 * Other personal projects
 * Flexibility in all that
 * Mental health breaks
-# Further Ideas
+# Workplace Ideas
+Incorporate healthy workplace habits like:
 
-- Incorporate healthy workplace habits like:
-	- 20-20-20 rule
-	- Ergonomic screens and furniture
-	- Pomodoro technique
-	- Stretching exercises
-	- Refreshment breaks
-	- Follow procedure under stress
+- 20-20-20 rule
+- Ergonomic screens and furniture
+- Pomodoro technique
+- Stretching exercises
+- Refreshment breaks
+- Follow procedure under stress
 
 

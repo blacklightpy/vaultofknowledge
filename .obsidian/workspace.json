@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f09e328954db3b79",
+        "id": "e7b128b54319c91f",
         "type": "tabs",
         "children": [
           {
-            "id": "1dcaad360605559e",
+            "id": "3ceef754894b2ac7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
+                "file": "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
+                "file": "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/AVIASYS/Project Management/Ideas for Project Management.md"
+                "file": "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md"
               }
             }
           },
@@ -174,13 +169,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1dcaad360605559e",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Personal/AVIASYS/Project Management/Project Management Ideas.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model.md",
+    "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md",
     "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
-    "Personal/AVIASYS/Project Management/Understanding Agile.md",
+    "Personal/AVIASYS/Project Management/Project Management Ideas.md",
     "Personal/AVIASYS/Project Management/Understanding Agile Model/Articles on Aglie.md",
-    "Personal/AVIASYS/Project Management/Agile for Hardware.md",
     "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
     "Personal/AVIASYS/Areas to Talk About.md",
     "Personal/AVIASYS/Teams.md",

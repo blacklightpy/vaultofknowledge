@@ -1,4 +1,4 @@
-[[Agile]] for [[Software Toolkit]]:
+Using Agile in Software Development:
 
 | v1          | v2          | v2          |
 | ----------- | ----------- | ----------- |
@@ -6,9 +6,7 @@
 | Frontend    | Frontend    | Frontend    |
 | Backend     | Backend     | Backend     |
 | Ship        | Ship        | Ship        |
-
-Similarly,
-[[Agile]] for [[Hardware]]:
+Using Agile in Hardware Development:
 
 | v1          | v2          |
 | ----------- | ----------- |
@@ -16,10 +14,8 @@ Similarly,
 | Engineering | Frontend    |
 | Software    | Backend     |
 | Ship        | Ship        |
-
+# Example
 ![[Agile HW and SW planning.png]]
-
-Optimizing Teamwork
----
+# Optimizing Teamwork
 -   Upper management encourages teams to plan from the bottom up
 -   Middle management changes their focus from micro-managing to removing roadblocks

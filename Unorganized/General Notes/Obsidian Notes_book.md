@@ -1049,7 +1049,7 @@
 
 #### Implementing Agile
 
-![[Understanding Agile|Implementing Agile.md]]
+![[Understanding Agile Model|Implementing Agile.md]]
 
 ---
 
@@ -1065,7 +1065,7 @@
 
 ### Agile for Hardware
 
-![[Agile for Hardware|Agile for Hardware.md]]
+![[Using Agile Model for a Hardware Project|Agile for Hardware.md]]
 
 ---
 
