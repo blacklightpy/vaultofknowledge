@@ -8,7 +8,9 @@ So it's as if liquids are only held in place because something keeps hitting the
 # Gaseous State
 In case of gases, if they have a pressure, they just spread out to infinity without the influence of gravity or a container.
 
-But in normal cases, a bottle will remain in ambient temperature and pressure due to heat radiating out if the external temperature isn't the same as internal temperature.
+But in normal cases, a bottle will remain in ambient temperature and pressure due to heat radiating out if the external temperature isn't the same as internal temperature. While it's true there could be more air inside the container, the attractive forces between particles is higher as the kinetic energy is lowered.. (density doesn't change, because gas expands to fill the entire volume of the container). So the little energy left in space, if any, could motivate it to move outside the container.
+
+In air, there's some pressure inside the container, and there's less particles per volume outside the bottle. But the pressure is the same. Given more volume, the pressure is likely to only decrease, so the air inside the bottle probably wouldn't move out. Instead, the air outside the bottle would probably enter the bottle first and increase the kinetic energy of individual molecules, and then t
 
 I find it interesting how air is 1000 times less dense than water (830 to be precise, but it's like $\dfrac{\text{1.x} \: kg/m^3}{\text{1.y} \: g/cm^3}$).
 # General Case of States of Matter
