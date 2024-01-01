@@ -6,7 +6,9 @@
 
 > P = P0 + pgh + 1/2pv^2 (P0 is the "static fluid pressure", and pgh is the "gravitational pressure" and 1/2pv^2 is the "dynamic pressure")
 > 
- > The static pressure P0 should account for the container pressure too (PV=nRT), as without either gravitational pressure or external atmospheric pressure (which will be pushed back against), there is no such state as a fluid. Also you never atmospheric pressure without gravity, as it is what causes atmospheric pressure (unless you're blowing air). In other words, without gravity, you're always compressing a fluid into a space. For more thoughts on this see [[Thinking of Fluids Without External Forces]].
+ > The static pressure P0 should account for the container pressure too (PV=nRT), as without either gravitational pressure or external atmospheric pressure (which will be pushed back against), there is no such state as a fluid. Also you never atmospheric pressure without gravity, as it is what causes atmospheric pressure (unless you're blowing air). In other words, without gravity, you're always separately compressing a fluid into a space. For more thoughts on this see [[Thinking of Fluids Without External Forces]].
+ >
+ > PV=nRT is an approximation at earth, and outside these conditions, it is better modeled by [[Van der Waals forces]] or by taking into account the [[Compressibility Factor]]
 
 > I'm confused by how the container pressure is measured
 > 

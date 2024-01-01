@@ -511,11 +511,13 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- **Continuum Mechanics**
 			- **Fluid Mechanics**
 				- [[Capillary Action]]
+				- [[Compressibility Factor]]
 				- [[Doubt - Are Viscosity and Density Related]]
 				- [[Surface Tension]]
 				- [[Thinking About Buoyancy and Viscosity]]
 				- [[Thinking of Fluids Without External Forces]]
 				- [[Understanding Buoyancy]]
+				- [[Van der Waals forces]]
 			- **Solid Mechanics**
 				- [[Fracture Mechanics]]
 				- [[Strength]]
