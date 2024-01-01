@@ -13,7 +13,7 @@
 - This means current flows to each point in the circuit.
 - In AC too, though electric field flips, the magnetic field does too, and hence the direction of flow of energy remains the same.
 
-- The main experiment Derek used to start this 
+- The main experiment Derek used to show this theory was a classic case of a transmission line, which is modeled using a "lumped element method", and the equations used in it are called the [[Telegrapher's equations]].
 ---
 # References
 > Literally ~5 hrs 40 min of videos on this small, yet intricate topic.
