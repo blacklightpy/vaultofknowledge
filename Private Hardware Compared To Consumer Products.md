@@ -3,6 +3,8 @@ We often say that technology has to be open source. What is the analogy of that 
 - We require the design data of the hardware - on one hand for security, and on another, for societal progress (so that the technology can be built easier)
 - We require the source code of the software - for security, for modifiability (so that one doesn't have to rewrite the whole program just to change one aspect to their liking), for portability, for societal progress (so the methods contained in the software can be used for universal benefit)
 - We require that these be provided without a restrictive license - so that any modifications we make can be shared publicly for universal benefit, 
+	- The problem with this is usually that things are sold for a profit, and if it is provided freely, someone else may sell it with a better marketing overshadowing you (which breaks the argument that customers will prefer the original for the leadership), then use their profits to develop their technology better and put you at a disadvantage.
+	- But this argument falls apart with a copyleft license so that any modifications are provided back rather than restricted. So even if the new party has a better development team, the benefits are contributed back to the society.
 # Arguments
 - You can't access the internals of the computer
 - You can't also access the internals of a bottle, but our purpose of drinking from it is served?
