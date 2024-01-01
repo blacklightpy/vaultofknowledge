@@ -1,7 +1,9 @@
 They have not been observed. They were predicted by Dirac and many [[Grand Unified Theory|GUT]] models.
 
-- Dirac 
+- Dirac proposed magnetic monopoles which would simplify the model of electromagnetism. Dirac monopoles would not fit into the standard model, and would require modifications.
 - In GUT theories, early universe would've produced magnetic monopoles. But it is hard to reproduce, and [[Large Hadron Collider|LHC]] energies are too low for them.
+
+
 # Implications
 Their existence would imply:
 - Quantization of all electric charge
