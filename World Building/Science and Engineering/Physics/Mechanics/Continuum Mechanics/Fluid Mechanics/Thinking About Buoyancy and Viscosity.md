@@ -1,8 +1,8 @@
 - Buoyancy is dependent on density, but viscosity isn't
 - Pressure and Density are what contribute to buoyancy
 - Intermolecular forces are what contribute to viscosity
-- 
-- Aside from internal pressure due to density, there is atmospheric pressure and gravitational force
+- External pressure also contributes to viscosity, as that's what holds the fluid together. But dynamic pressure may not affect it (I'll need to see)
+- Aside from internal pressure due to density, there is atmospheric pressure and gravitational force, and also the normal forces on the sides of the container.
 
 P = P0 + pgh + 1/2pv^2 (P0 is the "external pressure", and pgh is the "static pressure" and 1/2pv^2 is the "dynamic pressure")
 
