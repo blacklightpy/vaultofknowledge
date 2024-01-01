@@ -447,19 +447,6 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "ab03528f3f891d57",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
             ]
           }
@@ -476,12 +463,12 @@
   },
   "active": "e0034cc6cc20370c",
   "lastOpenFiles": [
+    "Developing Portable Programs.md",
+    "Flow of Electricity.md",
     "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
     "Magnetic Monopoles.md",
     "Large Hadron Collider.md",
-    "Developing Portable Programs.md",
     "Alan Watts Speeches.md",
-    "Flow of Electricity.md",
     "Scientists I've Encountered A Lot In My Notes.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
