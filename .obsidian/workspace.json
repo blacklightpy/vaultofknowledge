@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51895af8bdb705e4",
+            "id": "8b95e54a0833f5c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -166,7 +165,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "51895af8bdb705e4",
+  "active": "8b95e54a0833f5c1",
   "lastOpenFiles": [
     "home.md",
     "Unorganized/General Notes/Obsidian Notes_book.md",
