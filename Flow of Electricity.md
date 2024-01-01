@@ -1,5 +1,6 @@
 # Final Theory
-- Battery has an EF
+- Battery has an electric field around it, due to its charge concentration at the electrodes.
+- One side is a sink, and the other side is a source. This like is a powerful dipole, except that it is willing to accept charges on one side and expel them on the other side, keeping the net intake 0, as it discharges the stored electrochemical potential energy.
 - When connected to a wire, it acts as a [[waveguide]], through which the field passes, and the battery supplies electrons to continue this flow.
 - But as the field flows, if it reaches an open circuit, and it can't jump the gap, the electrons won't move further, and will begin to push back.
 - In that case, the field flows back and cancels, returning to the initial state
