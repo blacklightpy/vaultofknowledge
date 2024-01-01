@@ -60,6 +60,7 @@ navbar_links:
     link: index.html
   - name: GitHub
     link: https://github.com/blacklightpy/vaultofknowledge
+    type: external
 file_exports: []
 toggles:
   compile_md: true
@@ -199,6 +200,7 @@ toggles:
       exclude_files:
         - .gitignore
         - not_created.html
+        - favicon.ico
         - config.yaml
       homepage_label: Home
     create_index_from_tags:
