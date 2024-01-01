@@ -512,7 +512,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- **Fluid Mechanics**
 				- [[Capillary Action]]
 				- [[Doubt - Are Viscosity and Density Related]]
-				- [[Thinking About Pressure and Viscosity]]
+				- [[Thinking About Buoyancy and Viscosity]]
 				- [[Understanding Buoyancy]]
 			- **Solid Mechanics**
 				- [[Fracture Mechanics]]

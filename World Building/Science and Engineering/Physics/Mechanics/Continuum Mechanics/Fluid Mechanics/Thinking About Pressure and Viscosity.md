@@ -1,2 +1,0 @@
-- Pressure is dependent on density, but viscosity isn't
-- Aside from internal pressure due to density, there 
