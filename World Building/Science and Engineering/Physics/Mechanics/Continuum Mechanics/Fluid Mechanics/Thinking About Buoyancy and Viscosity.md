@@ -4,9 +4,9 @@
 - External pressure also contributes to viscosity, as that's what holds the fluid together. But dynamic pressure may not affect it (I'll need to see)
 - Aside from internal pressure due to density, there is atmospheric pressure and gravitational force, and also the normal forces on the sides of the container.
 
-P = P0 + pgh + 1/2pv^2 (P0 is the "static fluid pressure" (which should account for the container pressure too), and pgh is the "gravitational pressure" and 1/2pv^2 is the "dynamic pressure")
-
-Also see
+> P = P0 + pgh + 1/2pv^2 (P0 is the "static fluid pressure", and pgh is the "gravitational pressure" and 1/2pv^2 is the "dynamic pressure")
+> 
+ > The static pressure P0 should account for the container pressure too (PV=nRT), as without either gravitational pressure or external atmospheric pressure (which will be pushed back against), there is no such state as a fluid. Also you never atmospheric pressure without gravity, as it is what causes atmospheric pressure (unless you're blowing air). In other words, without gravity, you're always compressing a fluid into a space. For more thoughts on this see [[Thinking of Fluids Without External Forces]].
 
 > I'm confused by how the container pressure is measured
 > 
