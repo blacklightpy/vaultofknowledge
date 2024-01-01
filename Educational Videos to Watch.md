@@ -13,6 +13,13 @@
 ## General Relativity
 
 # Engineering
+## Mechanical Engineering
+- The Efficient Engineer
+- NPTEL
+## Engineering Mathematics
+- Zach Star
+- 3Blue1Brown
+# Engineering Tools
 ## FreeCAD
 
 ## KiCAD
@@ -22,6 +29,7 @@
 ## XFlow5 / XRotor
 
 # Mathematics and Computer Science
+## OS Fundamentals
 - MIT OCW
 - Harvard
 # Software
@@ -38,3 +46,5 @@
 - Fireship
 ## Reverse Engineering
 - AlaskaLinuxUserAKLU
+## Design
+-
