@@ -199,7 +199,7 @@ toggles:
         - favicon.ico
         - not_created.html
         - config.yaml
-      homepage_label: index
+      homepage_label: Home
     create_index_from_tags:
       enabled: false
       verbose: false
