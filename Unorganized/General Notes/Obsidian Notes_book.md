@@ -1352,7 +1352,7 @@
 
 ### Cradles of Civilization
 
-![[/History/Civilizations/Cradles of Civilization.md|Cradles of Civilization.md]]
+![[Cradles of Civilization|Cradles of Civilization.md]]
 
 ---
 
@@ -1360,7 +1360,7 @@
 
 ### Civilizations
 
-![[/History/Civilizations/Civilizations.md|Civilizations.md]]
+![[Civilizations|Civilizations.md]]
 
 ---
 
@@ -1368,7 +1368,7 @@
 
 ## History
 
-![[/History/History.md|History.md]]
+![[History|History.md]]
 
 ---
 
