@@ -2,10 +2,10 @@
 > Literally ~5 hrs 40 min of videos on this small, yet intricate topic.
 
 - Veritasium (2 videos)
-- AlphaPhoenix (3 videos on main, 2 videos on main, )
-- ElectroBOOM
-- EEVblog
-- The Science Asylum
+- AlphaPhoenix (4 videos on main, 1 video on second, 4 videos extra)
+- ElectroBOOM (3 videos)
+- EEVblog (1 video)
+- The Science Asylum (1 video)
 # Key Points
 > AlphaPhoenix:
 - Energy is transmitted by the electric field that flows around the wires, not by the flow of electrons
