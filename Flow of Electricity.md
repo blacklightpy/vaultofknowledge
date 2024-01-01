@@ -70,6 +70,9 @@
 - Drift Velocity in superconductors
 	- I assumed it would be infinite, but limited by relativistic effects and external fields somehow..
 	- Superconductors are used in thick bundles because a superconducting material loses its property after a bunch of electrons, so more area is used to pack in a higher current density. In other words, superconductors have a maximum current density.
+		- Related: Cooper pairs are a way of looking at charges in the superconducting phase. But having less cooper pairs in an amount of material, and electrons getting depleted if you try to pass more current isn't the reason for losing superconductivity at high current draw.
+	- The speed limit is the Landau critical velocity / Fermi velocity.
+		- In type II ceramic superconductors like YBCO it's about 250 km/s. 
 # More topics to cover
 - Thermodynamic Potential
 	- e.g. Internal Energy, Helmholtz Free Energy, Enthalpy, Gibbs Energy
