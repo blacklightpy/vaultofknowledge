@@ -57,9 +57,7 @@ html_custom_inclusions:
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
-    link: index.html
-  - name: Science and Engineering
-    link: World Building/Science and Engineering/Science and Engineering.html
+    link: index.html
 file_exports: []
 toggles:
   compile_md: true
@@ -201,12 +199,12 @@ toggles:
         - favicon.ico
         - not_created.html
         - config.yaml
-      homepage_label: index
+      homepage_label: Home
     create_index_from_tags:
       enabled: false
       verbose: false
       rel_output_path: obs.html/tag_index.md
-      homepage_label: index
+      homepage_label: Home
       use_as_homepage: false
       add_links_in_graph_tree: true
       tags: []
