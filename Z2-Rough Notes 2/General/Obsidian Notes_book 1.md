@@ -8959,7 +8959,7 @@
 
 ##### Force
 
-![[Force 1|Force.md]]
+![[Force|Force.md]]
 
 ---
 
@@ -9637,7 +9637,7 @@
 
 ## Article Reading List
 
-![[Article Reading List 1|Article Reading List.md]]
+![[Article Reading List|Article Reading List.md]]
 
 ---
 
@@ -9645,7 +9645,7 @@
 
 ## Business Ethics
 
-![[Business Ethics 1|Business Ethics.md]]
+![[Business Ethics|Business Ethics.md]]
 
 ---
 
@@ -9653,7 +9653,7 @@
 
 ## Courses To Take
 
-![[Courses To Take 1|Courses To Take.md]]
+![[Courses To Take|Courses To Take.md]]
 
 ---
 
@@ -9661,7 +9661,7 @@
 
 ## Degrees of Freedom
 
-![[Degrees of Freedom 1|Degrees of Freedom.md]]
+![[Degrees of Freedom|Degrees of Freedom.md]]
 
 ---
 
@@ -9669,7 +9669,7 @@
 
 ## Design Elements
 
-![[Design Elements 1|Design Elements.md]]
+![[Design Elements|Design Elements.md]]
 
 ---
 
@@ -9677,7 +9677,7 @@
 
 ## Entropy
 
-![[Entropy 1|Entropy.md]]
+![[Entropy|Entropy.md]]
 
 ---
 
@@ -9685,7 +9685,7 @@
 
 ## Favorite Text Editors
 
-![[Favorite Text Editors 1|Favorite Text Editors.md]]
+![[Favorite Text Editors|Favorite Text Editors.md]]
 
 ---
 
@@ -9693,7 +9693,7 @@
 
 ## Filesystem in Userspace
 
-![[Filesystem in Userspace 1|Filesystem in Userspace.md]]
+![[Filesystem in Userspace|Filesystem in Userspace.md]]
 
 ---
 
@@ -9701,7 +9701,7 @@
 
 ## How to be a good Analog engineer
 
-![[How to be a good Analog engineer 1|How to be a good Analog engineer.md]]
+![[How to be a good Analog engineer|How to be a good Analog engineer.md]]
 
 ---
 
@@ -9709,7 +9709,7 @@
 
 ## How to make a program that prints it's own source
 
-![[How to make a program that prints it's own source 1|How to make a program that prints it's own source.md]]
+![[How to make a program that prints it's own source|How to make a program that prints it's own source.md]]
 
 ---
 
@@ -9717,7 +9717,7 @@
 
 ## Identity
 
-![[Identity 1|Identity.md]]
+![[Identity|Identity.md]]
 
 ---
 
@@ -9725,7 +9725,7 @@
 
 ## Is position of microparticles really random
 
-![[Is position of microparticles really random 1|Is position of microparticles really random.md]]
+![[Is position of microparticles really random|Is position of microparticles really random.md]]
 
 ---
 
@@ -9733,7 +9733,7 @@
 
 ## Libraries for Data Science - Python
 
-![[Libraries for Data Science - Python 1|Libraries for Data Science - Python.md]]
+![[Libraries for Data Science - Python|Libraries for Data Science - Python.md]]
 
 ---
 
@@ -9741,7 +9741,7 @@
 
 ## Logic and Creativity
 
-![[Logic and Creativity 1|Logic and Creativity.md]]
+![[Logic and Creativity|Logic and Creativity.md]]
 
 ---
 
@@ -9749,7 +9749,7 @@
 
 ## Map of Computer Science
 
-![[Map of Computer Science 1|Map of Computer Science.md]]
+![[Map of Computer Science|Map of Computer Science.md]]
 
 ---
 
@@ -9757,7 +9757,7 @@
 
 ## Morality
 
-![[Morality 1|Morality.md]]
+![[Morality|Morality.md]]
 
 ---
 
@@ -9869,7 +9869,7 @@
 
 # BigPicture
 
-![[BigPicture 1|BigPicture.md]]
+![[BigPicture|BigPicture.md]]
 
 ---
 
@@ -9877,7 +9877,7 @@
 
 # Chroma Subsampling
 
-![[Chroma Subsampling 1|Chroma Subsampling.md]]
+![[Chroma Subsampling|Chroma Subsampling.md]]
 
 ---
 
@@ -9885,7 +9885,7 @@
 
 # Composite Video
 
-![[Composite Video 1|Composite Video.md]]
+![[Composite Video|Composite Video.md]]
 
 ---
 
@@ -9893,7 +9893,7 @@
 
 # CSS colours
 
-![[CSS colours 1|CSS colours.md]]
+![[CSS colours|CSS colours.md]]
 
 ---
 
@@ -9901,7 +9901,7 @@
 
 # Data and Information Visualization
 
-![[Data and Information Visualization 1|Data and Information Visualization.md]]
+![[Data and Information Visualization|Data and Information Visualization.md]]
 
 ---
 
@@ -9909,7 +9909,7 @@
 
 # Diet
 
-![[Diet 1|Diet.md]]
+![[Diet|Diet.md]]
 
 ---
 
@@ -9917,7 +9917,7 @@
 
 # Digital and Analog Systems
 
-![[Digital and Analog Systems 1|Digital and Analog Systems.md]]
+![[Digital and Analog Systems|Digital and Analog Systems.md]]
 
 ---
 
@@ -9925,7 +9925,7 @@
 
 # Doubts
 
-![[Doubts 1|Doubts.md]]
+![[Doubts|Doubts.md]]
 
 ---
 
@@ -9933,7 +9933,7 @@
 
 # Energy Production Efficiency
 
-![[Energy Production Efficiency 1|Energy Production Efficiency.md]]
+![[Energy Production Efficiency|Energy Production Efficiency.md]]
 
 ---
 
@@ -9941,7 +9941,7 @@
 
 # Internet of Things
 
-![[Internet of Things 1|Internet of Things.md]]
+![[Internet of Things|Internet of Things.md]]
 
 ---
 
@@ -9957,7 +9957,7 @@
 
 # Maths to Learn
 
-![[Maths to Learn 1|Maths to Learn.md]]
+![[Maths to Learn|Maths to Learn.md]]
 
 ---
 
@@ -9965,7 +9965,7 @@
 
 # Methods in Fluid Dynamics
 
-![[Methods in Fluid Dynamics 1|Methods in Fluid Dynamics.md]]
+![[Methods in Fluid Dynamics|Methods in Fluid Dynamics.md]]
 
 ---
 
@@ -10093,7 +10093,7 @@
 
 # Converting Distro Looks
 
-![[Converting Distro Looks 1|Converting Distro Looks.md]]
+![[Converting Distro Looks|Converting Distro Looks.md]]
 
 ---
 
@@ -10109,7 +10109,7 @@
 
 # Motors
 
-![[Motors 1|Motors.md]]
+![[Z2-Rough Notes 2/General/Motors|Motors.md]]
 
 ---
 
@@ -10117,7 +10117,7 @@
 
 # Economics
 
-![[Economics 1|Economics.md]]
+![[Economics|Economics.md]]
 
 ---
 
@@ -10125,7 +10125,7 @@
 
 # Awesome Awesomes
 
-![[Awesome Awesomes 1|Awesome Awesomes.md]]
+![[Awesome Awesomes|Awesome Awesomes.md]]
 
 ---
 
@@ -10133,7 +10133,7 @@
 
 # Comparing UX of Operating Systems
 
-![[Comparing UX of Operating Systems 1|Comparing UX of Operating Systems.md]]
+![[Comparing UX of Operating Systems|Comparing UX of Operating Systems.md]]
 
 ---
 
@@ -10141,7 +10141,7 @@
 
 # Compositors
 
-![[Compositors 1|Compositors.md]]
+![[Compositors|Compositors.md]]
 
 ---
 
@@ -10149,7 +10149,7 @@
 
 # Computational Fluid Dynamics
 
-![[Computational Fluid Dynamics 1|Computational Fluid Dynamics.md]]
+![[Computational Fluid Dynamics|Computational Fluid Dynamics.md]]
 
 ---
 
@@ -10157,7 +10157,7 @@
 
 # Customization
 
-![[Customization 1|Customization.md]]
+![[Customization|Customization.md]]
 
 ---
 
@@ -10165,7 +10165,7 @@
 
 # Debugging Terminology
 
-![[Debugging Terminology 1|Debugging Terminology.md]]
+![[Debugging Terminology|Debugging Terminology.md]]
 
 ---
 
@@ -10173,7 +10173,7 @@
 
 # Desktop Environment Ecosystems
 
-![[Desktop Environment Ecosystems 1|Desktop Environment Ecosystems.md]]
+![[Desktop Environment Ecosystems|Desktop Environment Ecosystems.md]]
 
 ---
 
@@ -10181,7 +10181,7 @@
 
 # Desktop Environment Showcase
 
-![[Desktop Environment Showcase 1|Desktop Environment Showcase.md]]
+![[Desktop Environment Showcase|Desktop Environment Showcase.md]]
 
 ---
 
@@ -10189,7 +10189,7 @@
 
 # Desktop Environments
 
-![[Desktop Environments 1|Desktop Environments.md]]
+![[Z2-Rough Notes 2/General/Desktop Environments|Desktop Environments.md]]
 
 ---
 
@@ -10197,7 +10197,7 @@
 
 # Diagramming Tools
 
-![[Diagramming Tools 1|Diagramming Tools.md]]
+![[Diagramming Tools|Diagramming Tools.md]]
 
 ---
 
@@ -10205,7 +10205,7 @@
 
 # Differences between BSD and GNU Linux
 
-![[Differences between BSD and GNU Linux 1|Differences between BSD and GNU Linux.md]]
+![[Differences between BSD and GNU Linux|Differences between BSD and GNU Linux.md]]
 
 ---
 
@@ -10213,7 +10213,7 @@
 
 # Enable Show Desktop Button
 
-![[Enable Show Desktop Button 1|Enable Show Desktop Button.md]]
+![[Enable Show Desktop Button|Enable Show Desktop Button.md]]
 
 ---
 
@@ -10221,7 +10221,7 @@
 
 # FOSS Software
 
-![[FOSS Software 1|FOSS Software.md]]
+![[FOSS Software|FOSS Software.md]]
 
 ---
 
@@ -10229,7 +10229,7 @@
 
 # Finite Element Method
 
-![[Finite Element Method 1|Finite Element Method.md]]
+![[Finite Element Method|Finite Element Method.md]]
 
 ---
 
@@ -10237,7 +10237,7 @@
 
 # FreeBSD
 
-![[FreeBSD 1|FreeBSD.md]]
+![[FreeBSD|FreeBSD.md]]
 
 ---
 
@@ -10245,7 +10245,7 @@
 
 # How to Make a Font
 
-![[How to Make a Font 1|How to Make a Font.md]]
+![[How to Make a Font|How to Make a Font.md]]
 
 ---
 
@@ -10253,7 +10253,7 @@
 
 # Injection Molding
 
-![[Injection Molding 1|Injection Molding.md]]
+![[Injection Molding|Injection Molding.md]]
 
 ---
 
@@ -10261,7 +10261,7 @@
 
 # Interoperability
 
-![[Interoperability 1|Interoperability.md]]
+![[Interoperability|Interoperability.md]]
 
 ---
 
@@ -10269,7 +10269,7 @@
 
 # Intriguing Physics
 
-![[Intriguing Physics 1|Intriguing Physics.md]]
+![[Intriguing Physics|Intriguing Physics.md]]
 
 ---
 
@@ -10277,7 +10277,7 @@
 
 # Kicking a football to fly
 
-![[Kicking a football to fly 1|Kicking a football to fly.md]]
+![[Kicking a football to fly|Kicking a football to fly.md]]
 
 ---
 
@@ -10285,7 +10285,7 @@
 
 # Linux Pro
 
-![[Linux Pro 1|Linux Pro.md]]
+![[Linux Pro|Linux Pro.md]]
 
 ---
 
@@ -10293,7 +10293,7 @@
 
 # Making of a Photolithography Machine
 
-![[Making of a Photolithography Machine 1|Making of a Photolithography Machine.md]]
+![[Making of a Photolithography Machine|Making of a Photolithography Machine.md]]
 
 ---
 
@@ -10301,7 +10301,7 @@
 
 # Mirrors
 
-![[Mirrors 1|Mirrors.md]]
+![[Mirrors|Mirrors.md]]
 
 ---
 
@@ -10309,7 +10309,7 @@
 
 # Music Visualizers
 
-![[Music Visualizers 1|Music Visualizers.md]]
+![[Music Visualizers|Music Visualizers.md]]
 
 ---
 
@@ -10509,7 +10509,7 @@
 
 # Free Software Index
 
-![[Free Software Index 1|Free Software Index.md]]
+![[Free Software Index|Free Software Index.md]]
 
 ---
 
@@ -10549,7 +10549,7 @@
 
 # Music Theory
 
-![[Music Theory 1|Music Theory.md]]
+![[Music Theory|Music Theory.md]]
 
 ---
 
@@ -10557,7 +10557,7 @@
 
 # Graphics Libraries
 
-![[Graphics Libraries 1|Graphics Libraries.md]]
+![[Z2-Rough Notes 2/General/Graphics Libraries|Graphics Libraries.md]]
 
 ---
 
@@ -10573,7 +10573,7 @@
 
 # Device Trees
 
-![[Device Trees 1|Device Trees.md]]
+![[Device Trees|Device Trees.md]]
 
 ---
 
@@ -10581,7 +10581,7 @@
 
 # Differences in Distros
 
-![[Differences in Distros 1|Differences in Distros.md]]
+![[Differences in Distros|Differences in Distros.md]]
 
 ---
 
@@ -10589,7 +10589,7 @@
 
 # Display Managers
 
-![[Display Managers 1|Display Managers.md]]
+![[Display Managers|Display Managers.md]]
 
 ---
 
@@ -10597,7 +10597,7 @@
 
 # Electronic Speed Control
 
-![[Electronic Speed Control 1|Electronic Speed Control.md]]
+![[Electronic Speed Control|Electronic Speed Control.md]]
 
 ---
 
@@ -10605,7 +10605,7 @@
 
 # Free Wordpress WSIWYG Builders
 
-![[Free Wordpress WSIWYG Builders 1|Free Wordpress WSIWYG Builders.md]]
+![[Free Wordpress WSIWYG Builders|Free Wordpress WSIWYG Builders.md]]
 
 ---
 
@@ -10613,7 +10613,7 @@
 
 # Grammar of Programming Languages
 
-![[Grammar of Programming Languages 1|Grammar of Programming Languages.md]]
+![[Grammar of Programming Languages|Grammar of Programming Languages.md]]
 
 ---
 
@@ -10621,7 +10621,7 @@
 
 # How to use firewalld
 
-![[How to use firewalld 1|How to use firewalld.md]]
+![[How to use firewalld|How to use firewalld.md]]
 
 ---
 
@@ -10629,7 +10629,7 @@
 
 # Init Systems
 
-![[Init Systems 1|Init Systems.md]]
+![[Init Systems|Init Systems.md]]
 
 ---
 
@@ -10637,7 +10637,7 @@
 
 # Map of Folders
 
-![[Map of Folders 1|Map of Folders.md]]
+![[Map of Folders|Map of Folders.md]]
 
 ---
 
@@ -10645,7 +10645,7 @@
 
 # Motors - To Read
 
-![[Motors - To Read 1|Motors - To Read.md]]
+![[Motors - To Read|Motors - To Read.md]]
 
 ---
 
@@ -10677,7 +10677,7 @@
 
 # Compositing
 
-![[Compositing 1|Compositing.md]]
+![[Compositing|Compositing.md]]
 
 ---
 

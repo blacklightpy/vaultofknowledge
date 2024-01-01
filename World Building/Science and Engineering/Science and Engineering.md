@@ -82,7 +82,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Field Programmable Gate Arrays]]
 		- [[GPUs]]
 		- [[Lens Mounts]]
-		- [[Motors]]
+		- [[World Building/Science and Engineering/Engineering Resources/Engineering Components/Motors]]
 		- [[Quanta Image Sensors]]
 		- [[Secure Cryptoprocessor]]
 		- [[SIM Cards]]
@@ -320,7 +320,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Virtual Machines]]
 				- [[Webhooks]]
 			- **Graphics and GUI Development**
-				- [[Graphics Libraries]]
+				- [[World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries]]
 				- [[Java GUI Libraries]]
 			- [[Hacking]]
 			- [[Matrix Protocol]]

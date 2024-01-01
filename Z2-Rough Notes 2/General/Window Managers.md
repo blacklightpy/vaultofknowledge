@@ -6,7 +6,7 @@ Window managers can be divided based on their style as: Tiling, Stacking and Dyn
 There are two main displaying systems in UNIX-Like operating systems: [[X WIndowing System]] (or X) and the newer [[Wayland]]. For other operating systems, see [[Windowing Systems]].
 
 In [[X WIndowing System]]:
-Display Server > [[Compositors 1|Compositor]] > Window Manager
+Display Server > [[Compositors|Compositor]] > Window Manager
 
 Compositing Window Mangers are Window Managers with an integrated compositor.
 A desktop environment shell has a window manager, compositor and other panels, docks and widgets running on an X display server.

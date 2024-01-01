@@ -1,6 +1,0 @@
-- One should not do 'good' by supporting a person who hasn't done their duty. By encouraging their bad behaviour this way, you are doing wrong. It is okay to make this mistake when you do not know about the cosequences, but once you already know it, doing it is wrong.
-	- e.g. Helping a student on a homework question where he hasn't put in any/adequate effort, Helping a 'not so worse off' beggar who clearly has better opportunities available.
-In simple words, doing someone's duty which they refuse to do out of disregard is wrong. By doing so, you are not only doing wrong, but you are also disrespecting yourself.
-
-The situations in which you have to support someone in that scenario is if it is past the time for practice and they fail in a serious situation, and you cannot afford to let them fail there because the person is worth more than their misbehaviour in other aspects.
-The other time is when their failure to do a job affects you or others. In these cases, the person must be dealt with soon after so that they may not repeat this behaviour again.

@@ -30,4 +30,4 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 - CAM16 (It also comes with the CAM16-UCS space; not a CIE standard although published by CIE)
 - CIECAM16 (The 2022 CIE standard release of CAM16)
 - OKLab (Same structure as [[CIELAB]], but fitted with improved data such as CAM16 output for lightness and IPT data for hue; It was meant to be easy to implement and use like CIELAB and IPT where, unlike sRGB)
-	- As of December 2022, it is part of the [[CSS colours 1]] level 4 draft.
+	- As of December 2022, it is part of the [[CSS colours]] level 4 draft.

@@ -1,2 +1,0 @@
-- Theory of Computation
-- Coding Theory

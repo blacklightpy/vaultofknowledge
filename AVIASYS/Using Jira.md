@@ -12,7 +12,7 @@
 - Support Agents
 	- Jira Service Management
 
-# [[BigPicture 1]]
+# [[BigPicture]]
 
 - Skills, Holiday Plans, Workloads, Teams (Availability etc.)
 - Absences

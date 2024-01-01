@@ -1,5 +1,5 @@
 # Aspects
-- [[Compositors 1|Compositor]]
+- [[Compositors|Compositor]]
 - Volume and Brightness Status and Control
 - Network Status and Control
 - SSH agent, GPG agent, polkit agent
