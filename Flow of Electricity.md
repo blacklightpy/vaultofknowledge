@@ -8,8 +8,12 @@
 - If the circuit was AC, the field always keeps changing, and there's the skin effect as well.
 
 - Electrons flow, but it's the field flows by the electrons that carry the energy.
-- More precisely, it's the fields that carry energy, and electrons are just field sink points which are present in a material, so obviously they are affected by fields from the battery at close proximity.
+- More precisely, it's the fields that carry energy, and electrons are just field sink points which are present in a material, so obviously they are affected by the force of strong fields from the battery at close proximity, and gain a drift velocity.
+- The Poynting Vector can describe the energy flow direction as a shortcut due to the rising electric and magnetic fields (which arise due to the motion of electrons), and this points in the direction of the resistances in the circuit, and outwards from the battery.
+- This means current flows to each point in the circuit.
+- In AC too, though electric field flips, the magnetic field does too, and hence the direction of flow of energy remains the same.
 
+- The main experiment Derek used to start this 
 ---
 # References
 > Literally ~5 hrs 40 min of videos on this small, yet intricate topic.
