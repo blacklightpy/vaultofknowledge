@@ -65,6 +65,11 @@
 ## More points from Wikipedia
 - The magnetic component is considered to be in phase with the current, and the electric component is considered to be in phase with the voltage.
 - As a note, the fields do not move through space, it is just the electromagnetic energy that moves, which increases and decreases the field intensity in the space.
+
+## Other doubts
+- Drift Velocity in superconductors
+	- I assumed it would be infinite, but limited by relativistic effects and external fields somehow..
+	- Superconductors are used in thick bundles because a superconducting material loses its property after a bunch of electrons, so more area is used to pack in a higher current density. In other words, superconductors have a maximum current density.
 # More topics to cover
 - Thermodynamic Potential
 	- e.g. Internal Energy, Helmholtz Free Energy, Enthalpy, Gibbs Energy
