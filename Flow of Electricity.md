@@ -1,6 +1,8 @@
 # References
-- Veritasium
-- AlphaPhoenix
+> Literally ~5 hrs 40 min of videos on this small, yet intricate topic.
+
+- Veritasium (2 videos)
+- AlphaPhoenix (3 videos on main, 2 videos on main, )
 - ElectroBOOM
 - EEVblog
 - The Science Asylum
