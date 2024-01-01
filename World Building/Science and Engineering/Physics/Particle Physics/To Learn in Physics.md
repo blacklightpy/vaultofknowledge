@@ -1,3 +1,5 @@
+> Remember to thin
+
 - Quantum Spin - Spinors - Spin Statistic Theorem - Knots (More on this and spinors, on PBS Space Time at YT)
 	- Premise: Conservation of Angular Momentum
 	- Einstein de-Haas effect - experiment involving a suspended iron cylinder subjected to a vertical magnetic field causing it to rotate
@@ -53,3 +55,12 @@
 	- Problems: This works with special relativity, but not with general relativity.
 - String Theory
 - M-Theory
+
+- [[General Relativity]]
+- Fluid Mechanics and Analysis
+- Solid Mechanics and Analysis
+- Radio and Signal Processing
+- Electrical Networks and Analysis
+- Condensed Matter Physics
+- Solid State Physics
+- Thermodynamics
