@@ -16,7 +16,9 @@
 - Since the load continuously uses up the energy passed by the fields, that is why current keeps flowing, because the load is an energy sink.
 
 >[!NOTE]
-> For machines, it can be understood as flowing through the machine circuit or PCB traces, but in case of living beings, they use the energy in strange patterns, as if they are electric fieldbenders
+> For machines, it can be understood as flowing through the machine circuit or PCB traces, but in case of living beings, they use the energy in strange patterns, as if they are electric field benders.
+> 
+> Wait! I forgot humans die if current is passed to them LMAO. I guess I was thinking about the natural cycle of food and sunlight, which is still electromagnetic field flow, and thus energy, but unlike a circuit, energy is obtained as it is needed, in a specific manner.
 
 - The main experiment Derek used to show this theory was a classic case of a transmission line, which is modeled using a "lumped element method", and the equations used in it are called the [[Telegrapher's equations]].
 ---
