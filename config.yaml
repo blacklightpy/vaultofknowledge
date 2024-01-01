@@ -57,9 +57,7 @@ html_custom_inclusions:
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
-    link: index.html
-  - name: Science and Engineering
-    link: World Building/Science and Engineering/Science and Engineering.html
+    link: index.html
 file_exports: []
 toggles:
   compile_md: true
