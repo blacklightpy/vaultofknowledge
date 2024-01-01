@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,12 +176,12 @@
   },
   "active": "e2e3290be1682410",
   "lastOpenFiles": [
-    "Unorganized/General Notes/Delocalized Electrons.md",
+    "Unorganized/General Notes/Obsidian Notes_book.md",
     "Unorganized/General Notes/Drift Velocity.md",
+    "Unorganized/General Notes/Delocalized Electrons.md",
     "favicon.ico",
     "LICENSE.md",
     "home.md",
-    "Unorganized/General Notes/Obsidian Notes_book.md",
     "README.md",
     "Personal/Creative and Recreational/Clothing.md",
     "Personal/Knowledge/Photo Editing.md",
