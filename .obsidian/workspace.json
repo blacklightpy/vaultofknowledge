@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow of Electricity.md",
+                "file": "Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow of Electricity.md",
+                "file": "Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow of Electricity.md"
+                "file": "Developing Portable Programs.md"
               }
             }
           },
@@ -447,8 +447,35 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "5b4c0866bc8f0077",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ab03528f3f891d57",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magnetic Monopoles.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -461,8 +488,10 @@
       }
     ]
   },
-  "active": "e0034cc6cc20370c",
+  "active": "3b9a7cacd0e7fbfb",
   "lastOpenFiles": [
+    "Magnetic Monopoles.md",
+    "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
     "Developing Portable Programs.md",
     "Flow of Electricity.md",
     "Fermi velocity.md",
@@ -487,8 +516,6 @@
     "Crystal Oscillator.md",
     "Piezoelectricity.md",
     "Crystal.md",
-    "RLC Circuits.md",
-    "Fundamental Frequency.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
