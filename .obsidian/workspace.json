@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71599f961881534e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Current Affairs/Russo-Ukraine Conflict/Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed5371a3f6ca58d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Current Affairs/Jihadist Attacks.md",
+                "file": "History/Wars and Conflicts/Jihadist Attacks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,46 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Current Affairs/Khalistan Movement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45645c90917a38b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Current Affairs/India Pakistan Conflict/Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bad8c6720e54a41c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Current Affairs/Israel Palestine Conflict/Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "896ff9d4e9ec53a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Current Affairs/Russo-Ukraine Conflict/Index.md",
+                "file": "History/Civilizations/Civilizations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Current Affairs/Russo-Ukraine Conflict/Index.md",
+                "file": "History/Civilizations/Civilizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Current Affairs/Russo-Ukraine Conflict/Index.md",
+                "file": "History/Civilizations/Civilizations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -181,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Current Affairs/Russo-Ukraine Conflict/Index.md"
+                "file": "History/Civilizations/Civilizations.md"
               }
             }
           },
@@ -240,41 +188,41 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "896ff9d4e9ec53a0",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "History/Current Affairs/Israel Palestine Conflict/Index.md",
-    "History/Current Affairs/India Pakistan Conflict/Index.md",
-    "History/Current Affairs/Russo-Ukraine Conflict/Index.md",
-    "History/Current Affairs/Salafi Jihadism.md",
-    "History/Current Affairs/Khalistan Movement.md",
-    "History/Current Affairs/Jihadist Attacks.md",
-    "History/Current Affairs/Terrorism.md",
-    "Z2-Rough Notes 2/Religious Discourse/Jihad as per Quran.md",
-    "History/The Origin of Islam.md",
-    "History/The Origin of Judaism.md",
-    "History/Timeline of History.md",
-    "History/Islamic Caliphates.md",
+    "Z2-Rough Notes 2/Studying Social Problems",
+    "History/Civilizations/Civilizations by Region.md",
+    "History/Civilizations/Civilizations.md",
+    "History/Civilizations/Cradles of Civilization.md",
+    "History/Wars and Conflicts/History of South India.md",
+    "History/Wars and Conflicts/The Origin of Judaism.md",
+    "History/Wars and Conflicts/Timeline of History.md",
     "History/Periods of Archaeological History.md",
     "History/Periods of Greek History.md",
-    "History/History of South India.md",
+    "History/Wars and Conflicts/Islamic Caliphates.md",
+    "History/History.md",
+    "History/Wars and Conflicts/Jihadist Attacks.md",
+    "History/Wars and Conflicts/Khalistan Movement.md",
+    "History/Wars and Conflicts/India Pakistan Conflict/Index.md",
+    "History/Current Affairs/India Pakistan Conflict/Index.md",
+    "History/Current Affairs/Israel Palestine Conflict/Index.md",
+    "History/Current Affairs/Russo-Ukraine Conflict/Index.md",
+    "History/Wars and Conflicts/Salafi Jihadism.md",
+    "History/Wars and Conflicts/Terrorism.md",
+    "Z2-Rough Notes 2/Studying Social Problems/Religious Discourse/Jihad as per Quran.md",
+    "History/Wars and Conflicts/The Origin of Islam.md",
     "History/Wars and Conflicts",
     "Z2-Rough Notes 2/General/Star Trek Technobabble.md",
     "Z2-Rough Notes 2/General/Surround Sound Systems.md",
     "Z2-Rough Notes 2/General/Surround Sound Formats.md",
     "Z2-Rough Notes 2/General/Surface Finishing.md",
     "Z2-Rough Notes 2/General/Studying FreeCAD Source Code.md",
-    "Z2-Rough Notes 2/General/Steps encountered when installing Void.md",
-    "Z2-Rough Notes 2/General/Standards Organizations.md",
-    "Z2-Rough Notes 2/General/Systems and Protocols.md",
-    "Z2-Rough Notes 2/General/Tasks 2.md",
-    "Z2-Rough Notes 2/General/Tasks (from Jan 2023).md",
-    "Z2-Rough Notes 2/General/Technical Drawing.md",
     "Z2-Rough Notes 2/Developing My Own Philosophy",
-    "Z2-Rough Notes 2/Sociopolitical Discourse",
+    "Z2-Rough Notes 2/Studying Social Problems/Sociopolitical Discourse",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
-    "Z2-Rough Notes 2/Israel Palestine Rough",
+    "Z2-Rough Notes 2/Studying Social Problems/Israel Palestine Rough",
     "Z2-Rough Notes 2/Thoughts to Complete",
     "Z2-Rough Notes 2",
     "World Building/Fun and Activities/Device Customization",
