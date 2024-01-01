@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -150,11 +151,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +175,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "558d786f75239fe1",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "README.md",
     "Personal/Creative and Recreational/Clothing.md",
