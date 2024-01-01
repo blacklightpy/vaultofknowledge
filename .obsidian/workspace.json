@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md"
               }
             }
           },
@@ -454,7 +454,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+                    "file": "World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -529,6 +529,8 @@
   },
   "active": "89fe19dc00e566c2",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking of Fluids Without External Pressure.md",
     "Magnetic Monopoles.md",
@@ -537,7 +539,6 @@
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "Developing Portable Programs.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Doubt - Are Viscosity and Density Related.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "Z1-Rough Notes/To Learn.md",
     "Personal/Creative and Recreational/To Learn.md",
     "Flow of Electricity.md",
@@ -554,7 +555,6 @@
     "Telegrapher's equations.md",
     "Porosity.md",
     "World Building/Science and Engineering/Information and Communication Technology/DevOps/Version Control/Version Control Systems.md",
-    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Electronic Oscillator.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",

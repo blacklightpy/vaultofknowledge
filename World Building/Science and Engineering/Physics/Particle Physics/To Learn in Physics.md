@@ -1,4 +1,4 @@
-> Remember to thin
+> Remember to think freely and not confine to the terminologies!
 
 - Quantum Spin - Spinors - Spin Statistic Theorem - Knots (More on this and spinors, on PBS Space Time at YT)
 	- Premise: Conservation of Angular Momentum
@@ -53,9 +53,11 @@
 		- If the particles were an electron and a positron, they would attract.
 	- Therefore, in QFT, the evolution of the universe is described as the synthesis of all possible scenarios in the microscopic scale.
 	- Problems: This works with special relativity, but not with general relativity.
+
 - String Theory
 - M-Theory
 
+- [[Special Relativity]]
 - [[General Relativity]]
 - Fluid Mechanics and Analysis
 - Solid Mechanics and Analysis
@@ -64,3 +66,8 @@
 - Condensed Matter Physics
 - Solid State Physics
 - Thermodynamics
+- [[Black Body Radiation]] and Quantization of Light
+- Quantum Mechanics and its Interpretations
+- Chemical Bonding
+- Organic Chemistry
+- Biology
