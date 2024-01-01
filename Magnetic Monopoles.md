@@ -4,7 +4,8 @@ They have not been observed. They were predicted by Dirac and many [[Grand Unifi
 - In GUT theories, early universe would've produced magnetic monopoles. But it is hard to reproduce, and [[Large Hadron Collider|LHC]] energies are too low for them.
 
 # Studies
-- https://news.ycombinator.com/item?id=38550994: Discovery of magnetic monopole quasi-particles, which are multiple particles whose combined spin effects generate a monopole on a 2D cross-section. Not a big deal.
+- https://news.ycombinator.com/item?id=38550994: Discovery of magnetic monopole quasi-particles, which are multiple particles whose combined spin effects generate a monopole on a 2D cross-section. Not a big deal fundamentally. But could be in line with my idea of making magnetic monopoles manually.
+- 
 # Implications
 Their existence would imply:
 - Quantization of all electric charge
