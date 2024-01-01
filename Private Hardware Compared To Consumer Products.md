@@ -17,4 +17,6 @@ Well, it depends on two factors:
 
 Technology often takes care of the second aspect. If you don't like a device with a specific feature, just buy something else! Not everyone wants an access to that.
 
-Now, on one hand, this is misdirecting the argument, because if we consider how capitalism runs the world, the flow of economy on 
+Now, on one hand, this is misdirecting the argument, because if we consider how capitalism runs the world, the flow of economy has an effect on each individual, because the money that should benefit the society could end up in the hands of the people who are making shallow things to exploit people's desires, all in the name of "free market".
+
+Of course, if I simply criticize this like that, it's like I'm pointing out a problem with no real solution. People will say that you can't just dictatorship everything, because then the ones in power will now exploit everyone as opposed to people having the freedom to choose how they can be cunning, which is better than slavery;
