@@ -19,7 +19,7 @@ Also checkout [[Educational Videos to Watch]]
 - Pretty Much Physics
 - Physics With Elliot
 - The Science Asylum
-#### Experimental
+#### Experimental Science
 - Veritasium
 - ElectroBOOM
 - AlphaPhoenix

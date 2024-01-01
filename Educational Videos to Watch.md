@@ -4,9 +4,9 @@
 ## Particle Physics and Field Theories in General
 - Arvin Ash
 - PBS Space Time
-- Eugene Khutoryaski
+- Physics Videos by Eugene Khutaryoski
 - 3Blue1Brown
-- ScienceClic
+- ScienceClick
 ## Quantum Mechanics
 - Pretty Much Physics
 ## Special Relativity
@@ -47,4 +47,4 @@
 ## Reverse Engineering
 - AlaskaLinuxUserAKLU
 ## Design
--
+- Apple Videos

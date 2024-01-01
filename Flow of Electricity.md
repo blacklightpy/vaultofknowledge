@@ -55,7 +55,7 @@
 	- Can be reformulated as $v_d = J/ne = I/nAe$, where $n$ is the charge carrier number density ($N/V$) and $e$ is the charge of the charge carrier
 	- Also as $v_d = \dfrac{m \sigma \Delta V}{\rho e f l}$, where $m$ is the molecular mass ($M/N_0$), $\sigma$ is the conductivity, $\Delta V$ is the voltage, $\rho$ is the density, $e$ is the electric charge, $f$ is the number of free electrons per atom, $l$ is the length of the conductor.
 		- Math checks out :p
-- For DV voltages in a copper wire of 2mm at 1 A, $\large v_d$ is about 8 cm/hr.
+- For DC voltages in a copper wire of 2 mm at 1 A, $\large v_d$ is about 8 cm/hr.
 - For AC voltages, there is no net drift velocity, as the electrons oscillate back and forth.
 - Why this drift happens is a bit more complicated (that is, about the Fermi velocity)
 

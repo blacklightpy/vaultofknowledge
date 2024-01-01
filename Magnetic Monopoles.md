@@ -11,9 +11,9 @@ Their existence would imply:
 	- ∇∗E = ρ/ϵ0
 	- ∇∗B = μ0 ρ m
 	- ∇×B = μ0 ϵ0 ∂E/∂t + μ0 Je
-	- ∇×E = −∂B/∂t − Jm
+	- $\nabla \times \vec E = \frac{\partial{−B}}{\partial t} − J_m$ 
 - Quantization of all electric charge as proposed by Dirac
-	- 2eem=nπ
+	- $2q_eq_m=n\pi$
 - We would be able to catalyze proton decay via the [Rubakov]()-Callan effect.
 	- With this, we could get energy from protons using monopoles without using up the monopole itself.
 - Other than that technological impact would likely be zero since they are rare.

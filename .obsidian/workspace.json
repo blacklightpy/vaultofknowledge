@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Videos to Watch.md",
+                "file": "Magnetic Monopoles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Videos to Watch.md",
+                "file": "Magnetic Monopoles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Videos to Watch.md"
+                "file": "Magnetic Monopoles.md"
               }
             }
           },
@@ -449,19 +449,6 @@
                 }
               },
               {
-                "id": "b89af478c8a5193c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Educational Videos to Watch.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "e369c286fb9a54d6",
                 "type": "leaf",
                 "state": {
@@ -514,7 +501,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -527,23 +514,23 @@
       }
     ]
   },
-  "active": "b89af478c8a5193c",
+  "active": "8aee960895352d4b",
   "lastOpenFiles": [
+    "Developing Portable Programs.md",
+    "Magnetic Monopoles.md",
+    "Flow of Electricity.md",
+    "Personal/Creative and Recreational/To Learn.md",
     "Z0-Organizing (All Notes Matter)/Content Creators to Watch.md",
     "Educational Videos to Watch.md",
-    "Personal/Creative and Recreational/To Learn.md",
-    "Flow of Electricity.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking of Fluids Without External Pressure.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
     "Z1-Rough Notes/To Learn.md",
     "World Building/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md",
     "World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "Magnetic Monopoles.md",
     "Proprietary Technology Compared To Consumer Products.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-    "Developing Portable Programs.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Doubt - Are Viscosity and Density Related.md",
     "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
     "Large Hadron Collider.md",
