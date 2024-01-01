@@ -1,12 +1,12 @@
 # Trackers
-- Vertical
+- Vertical DAW
 - "A format of DAW where you put notes to a Excel kind of sheet instead of piano roll"
-ModPlug, OpenMPT, Impulse Tracker, Renoise, ReViSiT
+- **Software:** ModPlug Tracker, OpenMPT, Impulse Tracker, Schism Tracker, Renoise, ReViSiT
 # Sequencers
-https://en.wikipedia.org/wiki/Music_sequencer
-- Horizontal
-Rebirth, Reaktor, Frooty Loops, Reason, Reaper, LMMS
-
+- Horizontal DAW
+- https://en.wikipedia.org/wiki/Music_sequencer
+- **Software:** Rebirth, Reaktor, Frooty Loops Studio, Reason, Reaper, LMMS
+# Related Stuff
 - DAW
 - MIDI
 - VST, VST3, VSTi
@@ -16,20 +16,19 @@ Rebirth, Reaktor, Frooty Loops, Reason, Reaper, LMMS
 - Sound Textures
 - Notes, Chords
 - Equalizer
-- Chips: Atari ST's Yamaha YM2149
-
-- Music Theory
+- **Chips:** Atari ST's Yamaha YM2149, Commodore Amiga's PAULA chip
+# Related Theory
+- [[Music Theory]]
 - [[Sound Engineering]]
 - Sine waves, [[Digital Communications#^Heading|Pulse Code Modulation]]
 - Audio Spectrography and Analysis
-
 # Genres
-Dubstep
-Jungle
-DnB
-Hip Hop
-Progressive
-House
-Electronic
-Reggae
-Reggeton
+- Dubsteps
+- Jungle
+- DnB
+- Hip Hop
+- Progressive
+- House
+- Electronic
+- Reggae
+- Reggeton

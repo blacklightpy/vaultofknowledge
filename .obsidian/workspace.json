@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Knowledge/Colour Schemes.md",
+                "file": "Personal/Knowledge/Music.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Knowledge/Colour Schemes.md",
+                "file": "Personal/Knowledge/Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Knowledge/Colour Schemes.md",
+                "file": "Personal/Knowledge/Music.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Knowledge/Colour Schemes.md"
+                "file": "Personal/Knowledge/Music.md"
               }
             }
           },
@@ -176,12 +176,13 @@
   },
   "active": "fa38617c13c940b1",
   "lastOpenFiles": [
+    "Personal/Knowledge/Literature.md",
+    "Personal/Knowledge/Graphics.md",
+    "Personal/Knowledge/Art Concepts.md",
     "Personal/Knowledge/Building Structures.md",
     "Personal/Knowledge/Colour Schemes.md",
     "Personal/Knowledge/Colour Theory.md",
-    "Personal/Knowledge/Graphics.md",
     "Personal/Knowledge/Concepts of Interest.md",
-    "Personal/Knowledge/Art Concepts.md",
     "Personal/AVIASYS Related/Teams.md",
     "Personal/AVIASYS Related/Project Management/Using Agile Model for a Hardware Project.md",
     "Personal/AVIASYS Related/Project Management/Understanding Agile Model.md",
@@ -206,7 +207,6 @@
     "World Exploration",
     "Unorganized/General Notes/Articles to Read.md",
     "Unorganized/General Notes/Printed Circuit Boards.md",
-    "Unorganized/General Notes/Sketchnoting.md",
     "Unorganized/Studying Social Problems",
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",

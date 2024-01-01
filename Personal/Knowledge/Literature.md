@@ -1,5 +1,5 @@
-Grammar
-Phonetics
-Allegory
-Metaphor
-Similie
+- Grammar
+- Phonetics
+- Allegory
+- Metaphor
+- Similie
