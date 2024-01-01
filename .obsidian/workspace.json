@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow of Electricity.md",
+                "file": "Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow of Electricity.md",
+                "file": "Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow of Electricity.md"
+                "file": "Developing Portable Programs.md"
               }
             }
           },
@@ -423,52 +423,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f9d423485a55ecda",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c60114429372b06a",
-        "type": "window",
-        "children": [
-          {
-            "id": "d8e29b2ef4928585",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e0034cc6cc20370c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Flow of Electricity.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 22,
-        "y": 84,
-        "width": 1236,
-        "height": 918,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e0034cc6cc20370c",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Telegrapher's equations.md",
     "Flow of Electricity.md",
+    "Developing Portable Programs.md",
+    "Telegrapher's equations.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/To Read - on \"Are Viscosity and Density Related\".md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking of Fluids Without External Forces.md",
-    "Developing Portable Programs.md",
     "Waveguide.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Navier-Stokes Equations.md",
     "Partial Differential Equations.md",
