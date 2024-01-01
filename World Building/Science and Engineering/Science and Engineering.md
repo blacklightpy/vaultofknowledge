@@ -238,6 +238,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Flight Control Algorithms]]
 			- [[Kalman Filters]]
 			- [[Monte Carlo methods]]
+			- [[NP-Completeness]]
 			- [[Real Time Kinematic]]
 		- **Computation**
 			- [[Abstract Machines]]

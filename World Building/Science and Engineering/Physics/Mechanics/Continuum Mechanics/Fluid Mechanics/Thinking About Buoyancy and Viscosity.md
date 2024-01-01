@@ -17,9 +17,9 @@ And this, is further due to intermolecular forces between molecules. So this, is
 > 
  > The static pressure P0 should account for the container pressure too (PV=nRT), as without either gravitational pressure or external atmospheric pressure (which will be pushed back against), there is no such state as a fluid. Also you never atmospheric pressure without gravity, as it is what causes atmospheric pressure (unless you're blowing air). In other words, without gravity, you're always separately compressing a fluid into a space.
  > 
+ > PV=nRT is an approximation at earth, and outside these conditions, it is better modeled by [[Van der Waals forces]] or by taking into account the [[Compressibility Factor]].
+ > 
  > For more thoughts on this see [[Thinking of Fluids Without External Forces]].
- >
- > PV=nRT is an approximation at earth, and outside these conditions, it is better modeled by [[Van der Waals forces]] or by taking into account the [[Compressibility Factor]]
 
 ## Container pressure doubt (cleared above too)
 > I'm confused by how the container pressure is measured

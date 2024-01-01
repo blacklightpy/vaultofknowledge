@@ -318,8 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -335,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
+                "file": "Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
+                "file": "Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md"
+                "file": "Developing Portable Programs.md"
               }
             }
           },
@@ -475,12 +474,15 @@
       }
     ]
   },
-  "active": "e369c286fb9a54d6",
+  "active": "3b9a7cacd0e7fbfb",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Doubt - Are Viscosity and Density Related.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Van der Waals forces.md",
+    "Navier-Stokes Equations.md",
+    "Partial Differential Equations.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/NP-Completeness.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Compressibility Factor.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Doubt - Are Viscosity and Density Related.md",
+    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Van der Waals forces.md",
     "Developing Portable Programs.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking of Fluids Without External Forces.md",
     "Magnetic Monopoles.md",
@@ -500,9 +502,6 @@
     "Large Hadron Collider.md",
     "Alan Watts Speeches.md",
     "Scientists I've Encountered A Lot In My Notes.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
-    "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-    "World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
