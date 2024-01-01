@@ -1041,7 +1041,7 @@
 
 #### Agile Product Development
 
-![[/AVIASYS/Reading on Agile/TcGen's Guide on Agile/Agile Product Development.md|Agile Product Development.md]]
+![[Agile Product Development|Agile Product Development.md]]
 
 ---
 
@@ -1049,7 +1049,7 @@
 
 #### Implementing Agile
 
-![[/AVIASYS/Reading on Agile/TcGen's Guide on Agile/Implementing Agile.md|Implementing Agile.md]]
+![[Implementing Agile|Implementing Agile.md]]
 
 ---
 
@@ -1057,7 +1057,7 @@
 
 #### What is Agile
 
-![[/AVIASYS/Reading on Agile/TcGen's Guide on Agile/What is Agile.md|What is Agile.md]]
+![[What is Agile|What is Agile.md]]
 
 ---
 
@@ -1065,7 +1065,7 @@
 
 ### Agile for Hardware
 
-![[/AVIASYS/Reading on Agile/Agile for Hardware.md|Agile for Hardware.md]]
+![[Agile for Hardware|Agile for Hardware.md]]
 
 ---
 
@@ -1073,7 +1073,7 @@
 
 ### Articles on Aglie
 
-![[/AVIASYS/Reading on Agile/Articles on Aglie.md|Articles on Aglie.md]]
+![[Articles on Aglie|Articles on Aglie.md]]
 
 ---
 
@@ -1081,7 +1081,7 @@
 
 ### Ideas
 
-![[/AVIASYS/Reading on Agile/Ideas.md|Ideas.md]]
+![[Ideas|Ideas.md]]
 
 ---
 
@@ -1104,7 +1104,7 @@
 
 ### BigPicture for Jira and Trello
 
-![[/AVIASYS/Testing Software/BigPicture for Jira and Trello.md|BigPicture for Jira and Trello.md]]
+![[BigPicture for Jira and Trello|BigPicture for Jira and Trello.md]]
 
 ---
 
@@ -1112,7 +1112,7 @@
 
 ### Google Sheets
 
-![[/AVIASYS/Testing Software/Google Sheets.md|Google Sheets.md]]
+![[Google Sheets|Google Sheets.md]]
 
 ---
 
@@ -1120,7 +1120,7 @@
 
 ### Jira Software
 
-![[/AVIASYS/Testing Software/Jira Software.md|Jira Software.md]]
+![[Jira Software|Jira Software.md]]
 
 ---
 
@@ -1128,7 +1128,7 @@
 
 ### Linear.app
 
-![[/AVIASYS/Testing Software/Linear.app.md|Linear.app.md]]
+![[Linear.app|Linear.app.md]]
 
 ---
 
@@ -1136,7 +1136,7 @@
 
 ### LiquidPlanner
 
-![[/AVIASYS/Testing Software/LiquidPlanner.md|LiquidPlanner.md]]
+![[LiquidPlanner|LiquidPlanner.md]]
 
 ---
 
@@ -1144,7 +1144,7 @@
 
 ### Shortcut.com
 
-![[/AVIASYS/Testing Software/Shortcut.com.md|Shortcut.com.md]]
+![[Shortcut.com|Shortcut.com.md]]
 
 ---
 
@@ -1152,7 +1152,7 @@
 
 ### Trello
 
-![[/AVIASYS/Testing Software/Trello.md|Trello.md]]
+![[Trello|Trello.md]]
 
 ---
 
@@ -1160,7 +1160,7 @@
 
 ## Project Management Ideas
 
-![[/AVIASYS/Project Management Ideas.md|Project Management Ideas.md]]
+![[Project Management Ideas|Project Management Ideas.md]]
 
 ---
 
@@ -1168,7 +1168,7 @@
 
 ## Selected Software Candidates
 
-![[/AVIASYS/Selected Software Candidates.md|Selected Software Candidates.md]]
+![[Selected Software Candidates|Selected Software Candidates.md]]
 
 ---
 
@@ -1176,7 +1176,7 @@
 
 ## Software Requirements
 
-![[/AVIASYS/Software Requirements.md|Software Requirements.md]]
+![[PM Software Requirements|Software Requirements.md]]
 
 ---
 
@@ -1184,7 +1184,7 @@
 
 ## Teams
 
-![[/AVIASYS/Teams.md|Teams.md]]
+![[Teams|Teams.md]]
 
 ---
 
@@ -1192,7 +1192,7 @@
 
 ## To discuss
 
-![[/AVIASYS/To discuss.md|To discuss.md]]
+![[To discuss|To discuss.md]]
 
 ---
 
@@ -1200,7 +1200,7 @@
 
 ## Using Jira
 
-![[/AVIASYS/Using Jira.md|Using Jira.md]]
+![[Using Jira|Using Jira.md]]
 
 ---
 
@@ -1390,7 +1390,7 @@
 
 ## All about PKM
 
-![[/Ideas and References/All about PKM.md|All about PKM.md]]
+![[All about PKM|All about PKM.md]]
 
 ---
 
@@ -1398,7 +1398,7 @@
 
 ## Classification Systems
 
-![[/Ideas and References/Classification Systems.md|Classification Systems.md]]
+![[Classification Systems|Classification Systems.md]]
 
 ---
 
@@ -1406,7 +1406,7 @@
 
 ## Data Organization
 
-![[/Ideas and References/Data Organization.md|Data Organization.md]]
+![[Data Organization|Data Organization.md]]
 
 ---
 
@@ -1414,7 +1414,7 @@
 
 ## How to use tags
 
-![[/Ideas and References/How to use tags.md|How to use tags.md]]
+![[How to use tags|How to use tags.md]]
 
 ---
 
@@ -1422,7 +1422,7 @@
 
 ## Maps of Content
 
-![[/Ideas and References/Maps of Content.md|Maps of Content.md]]
+![[Maps of Content|Maps of Content.md]]
 
 ---
 
@@ -1430,7 +1430,7 @@
 
 ## Wikipedia Organization
 
-![[/Ideas and References/Wikipedia Organization.md|Wikipedia Organization.md]]
+![[Wikipedia Organization|Wikipedia Organization.md]]
 
 ---
 
@@ -1447,7 +1447,7 @@
 
 ## Legalese
 
-![[/Literature/Legalese.md|Legalese.md]]
+![[Legalese|Legalese.md]]
 
 ---
 
@@ -2113,7 +2113,7 @@
 
 ## Decentralized Technologies
 
-![[/Resources/Decentralized Technologies.md|Decentralized Technologies.md]]
+![[Decentralized Technologies|Decentralized Technologies.md]]
 
 ---
 
@@ -2121,7 +2121,7 @@
 
 ## Open-Source Tools
 
-![[/Resources/Open-Source Tools.md|Open-Source Tools.md]]
+![[Open-Source Tools|Open-Source Tools.md]]
 
 ---
 
@@ -2141,7 +2141,7 @@
 
 ## Java Phone Programming
 
-![[/Retro/Java Phone Programming.md|Java Phone Programming.md]]
+![[Java Phone Programming|Java Phone Programming.md]]
 
 ---
 
@@ -2149,7 +2149,7 @@
 
 ## Retro Computers
 
-![[/Retro/Retro Computers.md|Retro Computers.md]]
+![[Retro Computers|Retro Computers.md]]
 
 ---
 
@@ -2157,7 +2157,7 @@
 
 ## Retro Culture
 
-![[/Retro/Retro Culture.md|Retro Culture.md]]
+![[Retro Culture|Retro Culture.md]]
 
 ---
 
@@ -2165,7 +2165,7 @@
 
 ## Tech Parts I Remember
 
-![[/Retro/Tech Parts I Remember.md|Tech Parts I Remember.md]]
+![[Tech Parts I Remember|Tech Parts I Remember.md]]
 
 ---
 

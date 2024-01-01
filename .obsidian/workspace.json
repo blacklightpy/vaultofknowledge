@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed5371a3f6ca58d6",
+            "id": "1dcaad360605559e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized/Studying Social Problems/Wars and Conflicts/Jihadist Attacks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f23c0403fef26fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized/First Set of Unorganized Notes/Master ToDo.md",
+                "file": "Personal/AVIASYS/Selected Software Candidates.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/First Set of Unorganized Notes/Master ToDo.md",
+                "file": "Personal/AVIASYS/Selected Software Candidates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/First Set of Unorganized Notes/Master ToDo.md",
+                "file": "Personal/AVIASYS/Selected Software Candidates.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/First Set of Unorganized Notes/Master ToDo.md"
+                "file": "Personal/AVIASYS/Selected Software Candidates.md"
               }
             }
           },
@@ -188,8 +174,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "1dcaad360605559e",
   "lastOpenFiles": [
+    "Personal/AVIASYS/Project Management/PM Software Requirements.md",
+    "Personal/AVIASYS/Project Management",
+    "Personal/AVIASYS/Selected Software Candidates.md",
+    "Personal/AVIASYS/Project Management/Project Management Ideas.md",
+    "Personal/AVIASYS/Understanding Agile Model/Agile for Hardware.md",
+    "Personal/AVIASYS/Understanding Agile Model/Articles on Aglie.md",
+    "Personal/AVIASYS/Understanding Agile Model/Ideas.md",
+    "Unorganized/Studying Social Problems/Index of Studying Social Problems.md",
+    "Unorganized/First Set of Unorganized Notes/Master ToDo.md",
+    "Public",
     "World Exploration",
     "Unorganized/General Notes/Articles to Read.md",
     "Unorganized/General Notes/Printed Circuit Boards.md",
@@ -202,7 +198,6 @@
     "Unorganized/General Notes/Ceramic Engines.md",
     "Unorganized/General Notes/Capacitors.md",
     "Unorganized/General Notes/Blogs to Read.md",
-    "Unorganized/Studying Social Problems/Index.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Intention as a Force.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "World Exploration/History/Civilizations/Index.md",
@@ -211,21 +206,12 @@
     "World Exploration/History/Civilizations/Cradles of Civilization.md",
     "Unorganized/Studying Social Problems/Wars and Conflicts/History of South India.md",
     "Unorganized/Studying Social Problems/Wars and Conflicts/The Origin of Judaism.md",
-    "Unorganized/Studying Social Problems/Wars and Conflicts/Timeline of History.md",
-    "World Exploration/History/Periods of Archaeological History.md",
-    "World Exploration/History/Periods of Greek History.md",
-    "Unorganized/Studying Social Problems/Wars and Conflicts/Islamic Caliphates.md",
-    "World Exploration/History/Index.md",
-    "Unorganized/Studying Social Problems/Wars and Conflicts/Jihadist Attacks.md",
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",
     "Unorganized/Studying Social Problems/Socio-Political Discourse",
     "Personal/Random Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
-    "Unorganized/Studying Social Problems/Wars and Conflicts/Israel Palestine Rough",
-    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings",
-    "Unorganized",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",
