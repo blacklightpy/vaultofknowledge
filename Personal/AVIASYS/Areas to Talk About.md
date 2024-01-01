@@ -1,0 +1,93 @@
+- Design
+	- Payload Location and Dimensions
+	- Props and Wings
+	- Camera Placement
+	- Landing carriage
+	- Antenna Placement
+	- Components Layout
+	- Aesthetics
+	- Noise Considerations
+	- Emergency Parachute
+- Technical Design
+	- Motors
+	- Battery
+	- Flow Analyisis
+	- Material
+	- Overall Weight
+
+- Engineering
+	- Mechanical CAD
+	- Electronics CAD
+	- Bill of Materials
+
+- Quality Control Check
+	- Live Testing
+
+- Hardware Side
+	- Application Processor
+	- Realtime Processor and IMUs
+	- GNSS Module
+	- Cameras
+	- Battery Control System
+	- Motors, Servos, ESCs
+- External Hardware
+	- CORS VRS
+		- RTK Base Station with good Antenna
+
+- Software Side
+	- AutoGPS Delivery
+		- Geolocation
+		- Path Planning WRT Map
+	- Obstacle Avoidance
+		- Compression of Feed
+		- Obstacle Detection
+		- Avoidance Algorithm
+	- Calibration System
+		- Data Packs
+		- Component Testing
+		- Weather Checking
+		- No-Fly Zones compliance
+	- Drone Traffic Control
+	- Cloud Data Communications
+	- Ground Control Software
+		- Cross-Platform Client Software
+	- Customer Level API
+		- Provide Reference Widgets
+
+- External Software
+	- Server Side
+		- Mail Server
+			- Custom Domain
+		- Website
+			- Introduction
+			- Services Layout
+			- Contacts
+			- Policies
+			- Product Documentation
+			- Customer Support
+		- Security Systems
+		- Cloud Services
+			- CI/CD
+
+- Management Software
+	- Enterprise Resource Planning
+		- Supply Chain Management
+		- Project Management
+			- HR Management
+		- Financial Planning
+		- Customer Relationship Management
+		- Documents Management
+			- Standards
+			- Legal
+			- Standard Operating Procedures
+		- Key Management
+
+- Hardware Design
+	- Firmware Level
+		- Integration Level
+			- Architecture Level
+				- Physics Level
+
+- Relocation of Office
+- Setup Planning
+	- Computers and Setup

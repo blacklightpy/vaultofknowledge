@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/AVIASYS/Selected Software Candidates.md",
+                "file": "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/What is Agile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/AVIASYS/Selected Software Candidates.md",
+                "file": "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/What is Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/AVIASYS/Selected Software Candidates.md",
+                "file": "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/What is Agile.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/AVIASYS/Selected Software Candidates.md"
+                "file": "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/What is Agile.md"
               }
             }
           },
@@ -176,13 +176,23 @@
   },
   "active": "1dcaad360605559e",
   "lastOpenFiles": [
-    "Personal/AVIASYS/Project Management/PM Software Requirements.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/Implementing Agile.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/Agile Product Development.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/What is Agile.md",
+    "Personal/AVIASYS/Project Management/Software/PM Software Requirements.md",
+    "Personal/AVIASYS/Project Management/Software/Ways to Use Software/Using Jira.md",
+    "Personal/AVIASYS/Project Management/Software",
+    "Personal/AVIASYS/Project Management/Software/Ways to Use Software",
+    "Personal/AVIASYS/Project Management/Software/Testing Software/Jira Software.md",
+    "Personal/AVIASYS/Project Management/Software/Testing Software/BigPicture for Jira and Trello.md",
+    "Personal/AVIASYS/Teams.md",
+    "Personal/AVIASYS/Areas to Talk About.md",
+    "Personal/AVIASYS/Project Management/Software/Selected Software Candidates.md",
     "Personal/AVIASYS/Project Management",
-    "Personal/AVIASYS/Selected Software Candidates.md",
     "Personal/AVIASYS/Project Management/Project Management Ideas.md",
-    "Personal/AVIASYS/Understanding Agile Model/Agile for Hardware.md",
-    "Personal/AVIASYS/Understanding Agile Model/Articles on Aglie.md",
-    "Personal/AVIASYS/Understanding Agile Model/Ideas.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model/Agile for Hardware.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model/Articles on Aglie.md",
+    "Personal/AVIASYS/Project Management/Understanding Agile Model/Ideas.md",
     "Unorganized/Studying Social Problems/Index of Studying Social Problems.md",
     "Unorganized/First Set of Unorganized Notes/Master ToDo.md",
     "Public",
@@ -197,21 +207,11 @@
     "Unorganized/General Notes/Customer Service.md",
     "Unorganized/General Notes/Ceramic Engines.md",
     "Unorganized/General Notes/Capacitors.md",
-    "Unorganized/General Notes/Blogs to Read.md",
-    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Intention as a Force.md",
-    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
-    "World Exploration/History/Civilizations/Index.md",
     "Unorganized/Studying Social Problems",
-    "World Exploration/History/Civilizations/Civilizations by Region.md",
-    "World Exploration/History/Civilizations/Cradles of Civilization.md",
-    "Unorganized/Studying Social Problems/Wars and Conflicts/History of South India.md",
-    "Unorganized/Studying Social Problems/Wars and Conflicts/The Origin of Judaism.md",
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",
     "Unorganized/Studying Social Problems/Socio-Political Discourse",
     "Personal/Random Ideas",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",

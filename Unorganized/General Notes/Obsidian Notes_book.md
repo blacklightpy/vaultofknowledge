@@ -1192,7 +1192,7 @@
 
 ## To discuss
 
-![[To discuss|To discuss.md]]
+![[Areas to Talk About|To discuss.md]]
 
 ---
 
