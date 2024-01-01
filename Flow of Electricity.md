@@ -36,6 +36,7 @@
 	- In DC, once the circuit is negotiated, energy has to flow through the full path, and not through the shortcut path.
 	- This is called the DC steady state.
 	- In DC, there is no skin effect, which is the AC tendency to have higher current density at the surface, so the Poynting vector goes all the way to the center.
+		- The thickness of the skin effect, or skin depth is proportional to the frequency of the current.
 	- So in DC, power can be said as flowing through the wire.
 
 > The Science Asylum:
