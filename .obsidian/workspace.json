@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
+                "file": "Unorganized/General Notes/Drift Velocity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3689f431f45a923a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is Nature doing any calculations?.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
+                "file": "Is Nature doing any calculations?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
+                "file": "Is Nature doing any calculations?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md"
+                "file": "Is Nature doing any calculations?.md"
               }
             }
           },
@@ -189,13 +202,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "835ea9552c3a8961",
+  "active": "3689f431f45a923a",
   "lastOpenFiles": [
+    "Is Nature doing any calculations?.md",
+    "Unorganized/General Notes/Drift Velocity.md",
+    "Unorganized/General Notes/Delocalized Electrons.md",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
+    "_images/favicon.ico",
     "home.md",
     "_images/favicon.png",
-    "Unorganized/General Notes/Drift Velocity.md",
     "Unorganized/General Notes/Obsidian Notes_book.md",
-    "Unorganized/General Notes/Delocalized Electrons.md",
     "favicon.ico",
     "LICENSE.md",
     "README.md",
@@ -217,7 +233,6 @@
     "Personal/AVIASYS Related/Project Management/Using Agile Model for a Hardware Project.md",
     "Personal/AVIASYS Related/Project Management/Understanding Agile Model.md",
     "Personal/AVIASYS Related/Project Management/Ideas for Project Management.md",
-    "Personal/AVIASYS/Project Management/Project Management Ideas.md",
     "Personal/AVIASYS Related/Project Management/Software",
     "Personal/AVIASYS Related/Project Management/Software/Ways to Use Software",
     "Personal/AVIASYS Related/Project Management",
@@ -226,7 +241,6 @@
     "Unorganized/Studying Social Problems",
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",
-    "Unorganized/Studying Social Problems/Socio-Political Discourse",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",
