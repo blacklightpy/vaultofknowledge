@@ -1049,7 +1049,7 @@
 
 #### Implementing Agile
 
-![[Implementing Agile|Implementing Agile.md]]
+![[Notes from TcGen's Guide on Agile|Implementing Agile.md]]
 
 ---
 
