@@ -2,7 +2,7 @@
 ## Regarding Electromagnetism and Electricity
 - I've made a playlist on YouTube, titled Veritasium's Electricity Flow Video
 ## Particle Physics and Field Theories in General
-QFT, Q
+> This includes QFT, QCD, QED, QFD, String Theory, General Relativity, Special Relativity, M-Theory, etc.
 
 - Arvin Ash
 - PBS Space Time
