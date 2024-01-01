@@ -4,7 +4,9 @@ We often say that technology has to be open source. What is the analogy of that 
 - We require the source code of the software - for security, for modifiability (so that one doesn't have to rewrite the whole program just to change one aspect to their liking), for portability, for societal progress (so the methods contained in the software can be used for universal benefit)
 - We require that these be provided without a restrictive license - so that any modifications we make can be shared publicly for universal benefit, 
 	- The problem with this is usually that things are sold for a profit, and if it is provided freely, someone else may sell it with a better marketing overshadowing you (which breaks the argument that customers will prefer the original for the leadership), then use their profits to develop their technology better and put you at a disadvantage.
-	- But this argument falls apart with a copyleft license so that any modifications are provided back rather than restricted. So even if the new party has a better development team, the benefits are contributed back to the society.
+	- But this argument falls apart with a copyleft license so that any modifications are provided back rather than restricted. So even if the new party has a better development team, the benefits are contributed back to the society. Gradually, this means that the technology will be able to be delivered by a team more cheaply than the first developer, which ultimately makes the technology cheaper.
+	- The ultimate goal is however that technology becomes cheaper without artificial limitations due to greed.
+	- But if greed is what we are solving, then even when technology is being first developed, money shouldn't be entering the scene. But rather, we will be ensuring that all people can access the system in harmony without anyone feeling left out due to lack of capacity.
 # Arguments
 - You can't access the internals of the computer
 - You can't also access the internals of a bottle, but our purpose of drinking from it is served?
@@ -15,4 +17,4 @@ Well, it depends on two factors:
 
 Technology often takes care of the second aspect. If you don't like a device with a specific feature, just buy something else! Not everyone wants an access to that.
 
-Now, on one hand, this is
+Now, on one hand, this is misdirecting the argument, because if we consider how capitalism runs the world, the flow of economy on 
