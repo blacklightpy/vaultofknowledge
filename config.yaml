@@ -197,7 +197,6 @@ toggles:
         - obs.html
       exclude_files:
         - .gitignore
-        - favicon.ico
         - not_created.html
         - config.yaml
       homepage_label: Home
