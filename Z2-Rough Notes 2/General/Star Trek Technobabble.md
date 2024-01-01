@@ -17,10 +17,6 @@
 - Duotronics
 - Multitronics
 - Trilithium Resin
-# Events
-- Subspace Interference
-- The Burn
-- Temporal Rift
 # Commands
 - Lock Phasors
 - Rotating Phasor Frequencies
@@ -30,3 +26,7 @@
 - Engage.
 - Hit It.
 - Manifest.
+# Events
+- Subspace Interference
+- The Burn
+- Temporal Rift

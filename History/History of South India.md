@@ -1,4 +1,4 @@
-c- Tamilakam, was the area south of Maurya Empire (Kerala, TN and a bit of Andhra)
+- Tamilakam, was the area south of Maurya Empire (Kerala, TN and a bit of Andhra)
 	- Consisted of Cheras, Pandyas, Cholas and Pallavas, etc.
 	- In the Sangam period, Tamil culture began to spread outside Tamilakam
 	- Ancient Tamil settlements were also established in Sri Lanka and Maldives
