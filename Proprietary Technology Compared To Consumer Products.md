@@ -1,6 +1,6 @@
 We progressive community often say that technology has to be open source. What is the analogy of that compared to a consumer product?
 
-This is kind of like comparing electromagnetic effects to gravity, where the details of latter is neither experienced directly nor intuitive to the average person, while the effects of gravity is commonly understood. However, the forces are very different in both scales (electromagnetic force is many orders of magnin)
+This is kind of like comparing electromagnetic effects to gravity, where the details of latter is neither experienced directly nor intuitive to the average person, while the effects of gravity is commonly understood. However, the forces are very different in both scales (electromagnetic force is many orders of magnitude above gravity for bodies of similar dimensions).
 # Conditions
 - We require the design data of the hardware - on one hand for security, and on another, for societal progress (so that the technology can be built easier)
 - We require the source code of the software - for security, for modifiability (so that one doesn't have to rewrite the whole program just to change one aspect to their liking), for portability, for societal progress (so the methods contained in the software can be used for universal benefit)

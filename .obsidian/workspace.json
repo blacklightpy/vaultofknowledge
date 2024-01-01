@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proprietary Technology Compared To Consumer Products.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proprietary Technology Compared To Consumer Products.md",
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proprietary Technology Compared To Consumer Products.md"
+                "file": "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md"
               }
             }
           },
@@ -514,7 +514,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -527,11 +527,11 @@
       }
     ]
   },
-  "active": "ef06906d52d351fe",
+  "active": "e369c286fb9a54d6",
   "lastOpenFiles": [
+    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking of Fluids Without External Pressure.md",
     "Proprietary Technology Compared To Consumer Products.md",
     "Magnetic Monopoles.md",
-    "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking of Fluids Without External Pressure.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Thinking About Buoyancy and Viscosity.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
     "World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
