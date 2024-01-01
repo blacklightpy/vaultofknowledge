@@ -1,0 +1,8 @@
+- Paul Dirac
+- Erwin Schrodinger
+- James Clark Maxwell
+- Hermann von Helmholtz
+- Isaac Newton
+- Robert Hooke
+- Robert Boyle
+- Albert Einstein

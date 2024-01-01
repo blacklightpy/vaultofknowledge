@@ -2,13 +2,17 @@ They have not been observed. They were predicted by Dirac and many [[Grand Unifi
 
 - Dirac proposed magnetic monopoles which would simplify the model of electromagnetism. Dirac monopoles would not fit into the standard model, and would require modifications.
 - In GUT theories, early universe would've produced magnetic monopoles. But it is hard to reproduce, and [[Large Hadron Collider|LHC]] energies are too low for them.
-
 # Studies
 - [HN Thread](https://news.ycombinator.com/item?id=38550994) | [Nature Materials Article (Open Access)](https://www.nature.com/articles/s41563-023-01737-4): Discovery of magnetic monopole quasi-particles, which are multiple particles whose combined spin effects generate a monopole on a 2D cross-section. Not a big deal fundamentally. But could be in line with my idea of making magnetic monopoles manually.
 # Implications
 Their existence would imply:
-- Max
-- Quantization of all electric charge
+- Maxwell's equations would clean up
+	- ∇∗E = ρ/ϵ0
+	- ∇∗B = μ0 ρ m
+	- ∇×B = μ0 ϵ0 ∂E/∂t + μ0 Je
+	- ∇×E = −∂B/∂t − Jm
+- Quantization of all electric charge as proposed by Dirac
+	- 2eem=nπ
 - We would be able to catalyse proton decay via the Rubakov-Callan effect.
 	- With this, we could get energy from protons using monopoles without using up the monopole itself.
 - Other than that technological impact would likely be zero since they are rare.
