@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Magnetic Monopoles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developing Portable Programs.md",
+                "file": "Magnetic Monopoles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developing Portable Programs.md"
+                "file": "Magnetic Monopoles.md"
               }
             }
           },
@@ -488,11 +488,11 @@
       }
     ]
   },
-  "active": "3b9a7cacd0e7fbfb",
+  "active": "ab03528f3f891d57",
   "lastOpenFiles": [
-    "Magnetic Monopoles.md",
     "Z2-Rough Notes 2/Maxwell's Laws of Electromagnetism.md",
     "Developing Portable Programs.md",
+    "Magnetic Monopoles.md",
     "Flow of Electricity.md",
     "Fermi velocity.md",
     "Telegrapher's equations.md",

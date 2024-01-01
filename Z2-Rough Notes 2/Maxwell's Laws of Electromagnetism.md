@@ -4,4 +4,4 @@
 - Ampere's Law with Maxwell's Addition
 	- Maxwell's Addition is displacement current, which is defined in terms of the displacement current field, D.
 
-The weirdness of many artifacts in the magnetic field not having a counterpart for the electric field is because we do not have magnetic monopoles, or magnetons.
+The weirdness of many artifacts in the magnetic field not having a counterpart for the electric field is because we do not have [[magnetic monopoles]], or magnetons.
