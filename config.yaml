@@ -200,6 +200,7 @@ toggles:
         - .gitignore
         - favicon.ico
         - not_created.html
+        - config.yaml
       homepage_label: index
     create_index_from_tags:
       enabled: false
