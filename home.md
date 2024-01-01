@@ -1,6 +1,6 @@
 Welcome!
 
-This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about. You call this a knowledge-base or to use the modern terminology, a second brain or digital garden.
+This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about. You can call this a knowledge-base or to use the modern terminology, a second brain or digital garden.
 
 The name for the website was inspired by a place of the same name in the game Sky: Children of The Light.
 # How to explore
