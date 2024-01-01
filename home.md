@@ -18,3 +18,4 @@ You can explore the notes using the search functionality or from the table of co
 **NOTE:** The UI of the website isn't optimized for mobile phones, and even for websites. I built this page using a Obsidian-flavoured markdown vault to website generator named ObsidianHTML. I haven't taken the time to style out the website, but this is it for now. I went with that it is better to make something than avoid doing anything at all while waiting for perfection.
 
 - The website and the vault is hosted on my [GitHub account](https://github.com/blacklightpy/vaultofknowledge)
+- Favicon from "Education icons created by smashingstocks" at [Flaticon](https://www.flaticon.com/free-icons/education) 
