@@ -1,1 +1,0 @@
-https://nathawatbrothers.net/why-life-is-painful/amp/

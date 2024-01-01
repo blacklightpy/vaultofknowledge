@@ -1,0 +1,1 @@
+It is a self-replicating machine in a [[Cellular Automaton]] environment, designed by John von Neumann.

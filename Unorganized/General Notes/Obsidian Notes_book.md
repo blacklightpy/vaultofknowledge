@@ -1219,7 +1219,7 @@
 
 ## Brownian Motors
 
-![[/Biology/Brownian Motors.md|Brownian Motors.md]]
+![[Brownian Motors|Brownian Motors.md]]
 
 ---
 
@@ -1227,7 +1227,7 @@
 
 ## Colour Perception
 
-![[/Biology/Colour Perception.md|Colour Perception.md]]
+![[Colour Perception|Colour Perception.md]]
 
 ---
 
@@ -1235,7 +1235,7 @@
 
 ## Prions
 
-![[/Biology/Prions.md|Prions.md]]
+![[Prions|Prions.md]]
 
 ---
 
@@ -1260,7 +1260,7 @@
 
 ## Buddhism
 
-![[/Culture/Buddhism.md|Buddhism.md]]
+![[Buddhism|Buddhism.md]]
 
 ---
 
@@ -1268,7 +1268,7 @@
 
 ## Christian Culture
 
-![[/Culture/Christian Culture.md|Christian Culture.md]]
+![[Christian Culture|Christian Culture.md]]
 
 ---
 
@@ -1276,7 +1276,7 @@
 
 ## Indian Culture
 
-![[/Culture/Indian Culture.md|Indian Culture.md]]
+![[Indian Culture|Indian Culture.md]]
 
 ---
 
@@ -1284,7 +1284,7 @@
 
 ## International Culture
 
-![[/Culture/International Culture.md|International Culture.md]]
+![[International Culture|International Culture.md]]
 
 ---
 
@@ -1292,7 +1292,7 @@
 
 ## Kerala Hindu Culture
 
-![[/Culture/Kerala Hindu Culture.md|Kerala Hindu Culture.md]]
+![[Kerala Hindu Culture|Kerala Hindu Culture.md]]
 
 ---
 
@@ -1300,7 +1300,7 @@
 
 ## Muslim Culture
 
-![[/Culture/Muslim Culture.md|Muslim Culture.md]]
+![[Muslim Culture|Muslim Culture.md]]
 
 ---
 
@@ -1308,7 +1308,7 @@
 
 ## Taoism
 
-![[/Culture/Taoism.md|Taoism.md]]
+![[Taoism|Taoism.md]]
 
 ---
 
@@ -1316,7 +1316,7 @@
 
 ## Western Culture
 
-![[/Culture/Western Culture.md|Western Culture.md]]
+![[Western Culture|Western Culture.md]]
 
 ---
 
@@ -1324,7 +1324,7 @@
 
 ## Zen
 
-![[/Culture/Zen.md|Zen.md]]
+![[Zen|Zen.md]]
 
 ---
 
@@ -9589,7 +9589,7 @@
 
 ### PCBs
 
-![[PCBs|PCBs.md]]
+![[Printed Circuit Boards|PCBs.md]]
 
 ---
 
@@ -10013,7 +10013,7 @@
 
 # To Learn
 
-![[Z2-Rough Notes 2/General/To Learn|To Learn.md]]
+![[Unorganized/General Notes/To Learn|To Learn.md]]
 
 ---
 
@@ -10021,7 +10021,7 @@
 
 # Transfer Function
 
-![[Z2-Rough Notes 2/General/Transfer Function|Transfer Function.md]]
+![[Unorganized/General Notes/Transfer Function|Transfer Function.md]]
 
 ---
 
@@ -10109,7 +10109,7 @@
 
 # Motors
 
-![[Z2-Rough Notes 2/General/Motors|Motors.md]]
+![[Unorganized/General Notes/Motors|Motors.md]]
 
 ---
 
@@ -10189,7 +10189,7 @@
 
 # Desktop Environments
 
-![[Z2-Rough Notes 2/General/Desktop Environments|Desktop Environments.md]]
+![[Unorganized/General Notes/Desktop Environments|Desktop Environments.md]]
 
 ---
 
@@ -10557,7 +10557,7 @@
 
 # Graphics Libraries
 
-![[Z2-Rough Notes 2/General/Graphics Libraries|Graphics Libraries.md]]
+![[Unorganized/General Notes/Graphics Libraries|Graphics Libraries.md]]
 
 ---
 

@@ -1,4 +1,4 @@
-It is an [[electronic oscillator]] that uses a [[Resonator|resonating]] [[Piezoelectricity|piezoelectric]] [[crystal]] as a "frequency-selective element".
+It is an [[electronic oscillator]] that uses a [[Resonator|resonating]] [[Piezoelectricity|piezoelectric]] [[Crystal]] as a "frequency-selective element".
 
 A commonly used crystal is [[Quartz]].
 # Uses

@@ -1,1 +1,0 @@
-It is the electric charge that accumulates in certain solid materials such as [[crystal|crystals]], certain ceramics, and biological matter such as bone, DNA and various proteins in response to applied [[stress|mechanical stress]].

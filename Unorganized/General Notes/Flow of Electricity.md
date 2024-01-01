@@ -136,6 +136,6 @@
 ## Random Topics
 - Lattice Model, in ==mathematical physics==
 	- [[Quantum Chromodynamics|QCD]] Lattice Model, a discretization of QCD is an example of continuum theory studied by lattice models.
-	- However, [[digital physics]] considers nature to have a limit on information density.
+	- However, [[Digital Physics]] considers nature to have a limit on information density.
 - [[Green's function]]
 - [[Smith Chart]]

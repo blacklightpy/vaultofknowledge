@@ -1,4 +1,4 @@
-[[Z2-Rough Notes 2/General/Transfer Function]]s in Imaging:
+[[Unorganized/General Notes/Transfer Function]]s in Imaging:
 
 - Linear
 - Gamma
