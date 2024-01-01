@@ -1,10 +1,7 @@
-- CIECAM02 Model
-- Chromaticity Diagram
-- Gamut - Adobe RGB
-- Colour Space
+# Theory and Processes
+- See [[World Building/Creativity and Arts/Colour Theory/Colour Theory|World Building > Colour Theory]]
 - Colour Grading
-
-## Colour Theory
+# Aspects of Colours
 - Tint
 - Shade
 - Tone

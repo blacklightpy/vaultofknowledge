@@ -1787,7 +1787,7 @@
 
 ### Concepts
 
-![[/Personal/Knowledge/Concepts.md|Concepts.md]]
+![[Concepts of Interest|Concepts.md]]
 
 ---
 

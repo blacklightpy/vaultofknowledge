@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e7b128b54319c91f",
+        "id": "9423fedec9c1fb5a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ceef754894b2ac7",
+            "id": "fa38617c13c940b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Knowledge/Colour Schemes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md",
+                "file": "Personal/Knowledge/Colour Schemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md",
+                "file": "Personal/Knowledge/Colour Schemes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md"
+                "file": "Personal/Knowledge/Colour Schemes.md"
               }
             }
           },
@@ -169,26 +174,32 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "fa38617c13c940b1",
   "lastOpenFiles": [
-    "Personal/AVIASYS/Project Management/Understanding Agile Model.md",
-    "Personal/AVIASYS/Project Management/Using Agile Model for a Hardware Project.md",
-    "Personal/AVIASYS/Project Management/Ideas for Project Management.md",
+    "Personal/Knowledge/Building Structures.md",
+    "Personal/Knowledge/Colour Schemes.md",
+    "Personal/Knowledge/Colour Theory.md",
+    "Personal/Knowledge/Graphics.md",
+    "Personal/Knowledge/Concepts of Interest.md",
+    "Personal/Knowledge/Art Concepts.md",
+    "Personal/AVIASYS Related/Teams.md",
+    "Personal/AVIASYS Related/Project Management/Using Agile Model for a Hardware Project.md",
+    "Personal/AVIASYS Related/Project Management/Understanding Agile Model.md",
+    "Personal/AVIASYS Related/Project Management/Ideas for Project Management.md",
     "Personal/AVIASYS/Project Management/Project Management Ideas.md",
     "Personal/AVIASYS/Project Management/Understanding Agile Model/Articles on Aglie.md",
     "World Building/Business and Finance/Company Management/Project Management/Methods/Agile Methodology/Agile.md",
-    "Personal/AVIASYS/Areas to Talk About.md",
-    "Personal/AVIASYS/Teams.md",
+    "Personal/AVIASYS Related/Areas to Talk About.md",
     "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/What is Agile.md",
     "Personal/AVIASYS/Project Management/Understanding Agile Model/TcGen's Guide on Agile/Agile Product Development.md",
-    "Personal/AVIASYS/Project Management/Software/PM Software Requirements.md",
-    "Personal/AVIASYS/Project Management/Software/Ways to Use Software/Using Jira.md",
-    "Personal/AVIASYS/Project Management/Software",
-    "Personal/AVIASYS/Project Management/Software/Ways to Use Software",
-    "Personal/AVIASYS/Project Management/Software/Testing Software/Jira Software.md",
-    "Personal/AVIASYS/Project Management/Software/Testing Software/BigPicture for Jira and Trello.md",
-    "Personal/AVIASYS/Project Management/Software/Selected Software Candidates.md",
-    "Personal/AVIASYS/Project Management",
+    "Personal/AVIASYS Related/Project Management/Software/PM Software Requirements.md",
+    "Personal/AVIASYS Related/Project Management/Software/Ways to Use Software/Using Jira.md",
+    "Personal/AVIASYS Related/Project Management/Software",
+    "Personal/AVIASYS Related/Project Management/Software/Ways to Use Software",
+    "Personal/AVIASYS Related/Project Management/Software/Testing Software/Jira Software.md",
+    "Personal/AVIASYS Related/Project Management/Software/Testing Software/BigPicture for Jira and Trello.md",
+    "Personal/AVIASYS Related/Project Management/Software/Selected Software Candidates.md",
+    "Personal/AVIASYS Related/Project Management",
     "Unorganized/Studying Social Problems/Index of Studying Social Problems.md",
     "Unorganized/First Set of Unorganized Notes/Master ToDo.md",
     "Public",
@@ -196,12 +207,6 @@
     "Unorganized/General Notes/Articles to Read.md",
     "Unorganized/General Notes/Printed Circuit Boards.md",
     "Unorganized/General Notes/Sketchnoting.md",
-    "Unorganized/General Notes/Resistors.md",
-    "Unorganized/General Notes/Ground.md",
-    "Unorganized/General Notes/Fusion 360.md",
-    "Unorganized/General Notes/Engine Aspiration.md",
-    "Unorganized/General Notes/Customer Service.md",
-    "Unorganized/General Notes/Ceramic Engines.md",
     "Unorganized/Studying Social Problems",
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",
