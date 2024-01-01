@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magnetic Monopoles.md",
+                "file": "Developing Portable Programs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magnetic Monopoles.md",
+                "file": "Developing Portable Programs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magnetic Monopoles.md"
+                "file": "Developing Portable Programs.md"
               }
             }
           },
@@ -475,11 +475,11 @@
       }
     ]
   },
-  "active": "ab03528f3f891d57",
+  "active": "3b9a7cacd0e7fbfb",
   "lastOpenFiles": [
+    "Magnetic Monopoles.md",
     "Alan Watts Speeches.md",
     "Flow of Electricity.md",
-    "Magnetic Monopoles.md",
     "Scientists I've Encountered A Lot In My Notes.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
