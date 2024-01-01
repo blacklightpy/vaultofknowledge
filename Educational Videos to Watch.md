@@ -2,6 +2,8 @@
 ## Regarding Electromagnetism and Electricity
 - I've made a playlist on YouTube, titled Veritasium's Electricity Flow Video
 ## Particle Physics and Field Theories in General
+QFT, Q
+
 - Arvin Ash
 - PBS Space Time
 - Physics Videos by Eugene Khutaryoski
@@ -9,6 +11,8 @@
 - ScienceClick
 ## Quantum Mechanics
 - Pretty Much Physics
+## Search for Magnetic Monopoles
+- [[Magnetic Monopoles#^videos]]
 ## Special Relativity
 ## General Relativity
 

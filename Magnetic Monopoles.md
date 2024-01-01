@@ -18,6 +18,9 @@ Their existence would imply:
 	- With this, we could get energy from protons using monopoles without using up the monopole itself.
 - Other than that technological impact would likely be zero since they are rare.
 # Videos to watch
+
+^videos
+
 - PBS Spacetime: https://www.youtube.com/watch?v=dw1sekg6SUY
 - Royal Institution lecture: https://www.youtube.com/watch?v=S3xH97Su-KY (talks about magneticity)
 - Related Royal Institution, et al. videos on QFT (I was watching them during Dec 11 - Dec 21 2022)
