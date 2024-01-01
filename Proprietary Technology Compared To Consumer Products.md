@@ -18,14 +18,14 @@ Well, it depends on two factors:
 1. A bottle is not normally "artificially limited"
 2. If you are required to have access, such as a means to clean the bottle, that should be available.
 
-- Technology often takes care of the second aspect. If you don't like a device with a specific feature, just buy something else! Not everyone wants an access to that.
+Technology often takes care of the second aspect. If you don't like a device with a specific feature, just buy something else! Not everyone wants an access to that.
+### The problem with saying it's a free market, you can do whatever you want
+Now, on one hand, this is misdirecting the argument, because if we consider how capitalism runs the world, the flow of economy has an effect on each individual, because the money that should benefit the society could end up in the hands of the people who are making shallow things to exploit people's desires, all in the name of "free market".
 
-	- Now, on one hand, this is misdirecting the argument, because if we consider how capitalism runs the world, the flow of economy has an effect on each individual, because the money that should benefit the society could end up in the hands of the people who are making shallow things to exploit people's desires, all in the name of "free market".
+Of course, if I simply criticize this like that, it's like I'm pointing out a problem with no real solution. People will say that you can't just dictatorship everything, because then the ones in power will now exploit everyone as opposed to people having the freedom to choose how they can be cunning, which is better, or else it will be anarchy if we don't choose a decentralized system like capital.
 
-	- Of course, if I simply criticize this like that, it's like I'm pointing out a problem with no real solution. People will say that you can't just dictatorship everything, because then the ones in power will now exploit everyone as opposed to people having the freedom to choose how they can be cunning, which is better, or else it will be anarchy if we don't choose a decentralized system like capital.
+I agree with that. However, capital starts by exploiting individuals and it's no good. Also, there is the problem of inheritance, even if everything starts out normally, so if anyone exploits others, the benefits he reaped doesn't end there, it's passed on to his children and so on.
 
-	- I agree with that. However, capital starts by exploiting individuals and it's no good. Also, there is the problem of inheritance, even if everything starts out normally, so if anyone exploits others, the benefits he reaped doesn't end there, it's passed on to his children and so on.
-
-	- My solution requires a change from a philosophical level. That, is something I'll be working on. The idea is to recognize the connectedness of society as opposed to thinking in terms of individual benefit, so that exploiting one another seems like eating your own arms when hungry. With that in mind, even without drastically altering your mindset to be complete altruists, you can focus on building a better world, and do away with "artificial limitations".
-
-- Secondly, 
+My solution requires a change from a philosophical level. That, is something I'll be working on. The idea is to recognize the connectedness of society as opposed to thinking in terms of individual benefit, so that exploiting one another seems like eating your own arms when hungry. With that in mind, even without drastically altering your mindset to be complete altruists, you can focus on building a better world, and do away with "artificial limitations".
+### The problem with artificial limitations
+To elaborate on the "artificial limitation", you never artificially limit something without a reason. The usual reasons are to keep the design a secret, which I've explained is wrong, and to ensure that people buy newer products without having the option to keep using the older product, which could've very well been reused had it not been artificially limited. This is not 
