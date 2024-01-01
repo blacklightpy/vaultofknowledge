@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "75827870e2438b4a",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "home.md",
     "Unorganized/General Notes/Drift Velocity.md",
