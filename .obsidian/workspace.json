@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9423fedec9c1fb5a",
+        "id": "9372d101f1f6cdb2",
         "type": "tabs",
         "children": [
           {
-            "id": "fa38617c13c940b1",
+            "id": "558d786f75239fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Knowledge/Music.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Camera Lenses.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Knowledge/Music.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Camera Lenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Knowledge/Music.md",
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Camera Lenses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Knowledge/Music.md"
+                "file": "World Building/Science and Engineering/Engineering Resources/Engineering Components/Camera Lenses.md"
               }
             }
           },
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,15 +173,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fa38617c13c940b1",
+  "active": "558d786f75239fe1",
   "lastOpenFiles": [
-    "Personal/Knowledge/Literature.md",
-    "Personal/Knowledge/Graphics.md",
-    "Personal/Knowledge/Art Concepts.md",
-    "Personal/Knowledge/Building Structures.md",
+    "Personal/Knowledge/Photography.md",
+    "World Building/Fun and Activities/Photography/Aperture.md",
+    "Personal/Knowledge/Photo Editing.md",
+    "Personal/Knowledge/P2P Networks.md",
     "Personal/Knowledge/Colour Schemes.md",
+    "Personal/Knowledge/Building Structures.md",
+    "Personal/Knowledge/Art Concepts.md",
     "Personal/Knowledge/Colour Theory.md",
     "Personal/Knowledge/Concepts of Interest.md",
+    "Personal/Knowledge/Graphics.md",
+    "Personal/Knowledge/Literature.md",
+    "Personal/Knowledge/Music.md",
     "Personal/AVIASYS Related/Teams.md",
     "Personal/AVIASYS Related/Project Management/Using Agile Model for a Hardware Project.md",
     "Personal/AVIASYS Related/Project Management/Understanding Agile Model.md",
@@ -199,14 +203,9 @@
     "Personal/AVIASYS Related/Project Management/Software/Ways to Use Software",
     "Personal/AVIASYS Related/Project Management/Software/Testing Software/Jira Software.md",
     "Personal/AVIASYS Related/Project Management/Software/Testing Software/BigPicture for Jira and Trello.md",
-    "Personal/AVIASYS Related/Project Management/Software/Selected Software Candidates.md",
     "Personal/AVIASYS Related/Project Management",
-    "Unorganized/Studying Social Problems/Index of Studying Social Problems.md",
-    "Unorganized/First Set of Unorganized Notes/Master ToDo.md",
     "Public",
     "World Exploration",
-    "Unorganized/General Notes/Articles to Read.md",
-    "Unorganized/General Notes/Printed Circuit Boards.md",
     "Unorganized/Studying Social Problems",
     "Unorganized/Studying Social Problems/Wars and Conflicts",
     "Unorganized/Developing My Own Philosophy",

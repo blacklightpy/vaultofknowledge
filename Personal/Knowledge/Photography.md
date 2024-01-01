@@ -1,6 +1,2 @@
-**Bokeh**
-Aesthetic effect created by soft out of focus backgrounds in an image. ^2ceb3b
-
-[[ISO]]
-
-[[Personal/Knowledge/Colour Theory]]
+- Bokeh: Aesthetic effect created by soft out of focus backgrounds in an image. ^2ceb3b
+- [[ISO]]

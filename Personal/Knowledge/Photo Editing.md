@@ -1,4 +1,4 @@
-Filters
-Glare
-White Balance
-Tint
+- Filters
+- Glare
+- White Balance
+- Tint

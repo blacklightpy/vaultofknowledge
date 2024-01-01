@@ -1827,7 +1827,7 @@
 
 ### P2P
 
-![[/Personal/Knowledge/P2P.md|P2P.md]]
+![[P2P Networks|P2P.md]]
 
 ---
 
