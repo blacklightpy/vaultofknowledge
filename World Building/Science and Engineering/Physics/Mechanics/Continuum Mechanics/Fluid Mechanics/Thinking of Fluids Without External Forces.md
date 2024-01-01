@@ -8,7 +8,7 @@ So it's as if liquids are only held in place because something keeps hitting the
 # Gaseous State
 In case of gases, they just spread out to infinity without the influence of gravity or a container.
 
-I find it funny how air is 1000 times less dense than water (830 to be precise, but it's $\text{1.x} \: \frac{kg}{m^3} \: / \: \text{1.y} \: \frac{g}{cm^3}$).
+I find it interesting how air is 1000 times less dense than water (830 to be precise, but it's like $\dfrac{\text{1.x} \: kg/m^3}{\text{1.y} \: g/cm^3}$).
 # General Case of States of Matter
 - High Energy, Low Attraction: Gases
 - Medium Energy, Medium Attraction: Liquids

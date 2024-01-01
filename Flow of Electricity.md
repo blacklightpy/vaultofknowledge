@@ -1,3 +1,10 @@
+# Final Theory
+- Battery has an EF
+- When connected to a wire, it acts as a [[waveguide]], through which the field passes, and the battery supplies electrons to continue this flow.
+- But as the field flows, if it reaches an open circuit, and it can't jump the gap, the electrons won't move further, and will begin to push back.
+- In that case, the field flows back and cancels, returni
+
+---
 # References
 > Literally ~5 hrs 40 min of videos on this small, yet intricate topic.
 
