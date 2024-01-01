@@ -4,15 +4,20 @@
 - External pressure also contributes to viscosity, as that's what holds the fluid together. But dynamic pressure may not affect it (I'll need to see)
 - Aside from internal pressure due to density, there is atmospheric pressure and gravitational force, and also the normal forces on the sides of the container.
 
-My doubt is whether Viscosity can be expressed in terms of density just as buoyancy can be. That is, because density should somehow depend on the intermolecular forces, which is the same thing for viscosity.
+## My doubt (which is about intermolecular forces)
+My doubt is whether viscosity can be expressed in terms of density just as buoyancy can be. That is, because density should somehow depend on the intermolecular forces, which is the same thing for viscosity.
 
 Density would them be relatable to the degree to which the spacetime bends, with volume being considered too. Perhaps macroscopic spacetime curvature is an added effect of spacetime curvatures of subatomic particles? In that case, the magnitude will remain the same, but the volumetric effect of curvature will vary for this reason.
 
-This seems relatable to my doubt when I wanted to fig
-## What the terms are
+This seems relatable to my doubt when I wanted to figure out the frequency of a water wave as a function of its amplitude and frequency, before realizing that the speed of the wave was the speed of sound in water, and that's how the wavelength could be determined, which had nothing to do with amplitude.
+
+And this, is further due to intermolecular forces between molecules. So this, is what I wish to learn more about.
+## What the terms in Bernoulli's Equation are
 > P = P0 + pgh + 1/2pv^2 (P0 is the "static fluid pressure", and pgh is the "gravitational pressure" and 1/2pv^2 is the "dynamic pressure")
 > 
- > The static pressure P0 should account for the container pressure too (PV=nRT), as without either gravitational pressure or external atmospheric pressure (which will be pushed back against), there is no such state as a fluid. Also you never atmospheric pressure without gravity, as it is what causes atmospheric pressure (unless you're blowing air). In other words, without gravity, you're always separately compressing a fluid into a space. For more thoughts on this see [[Thinking of Fluids Without External Forces]].
+ > The static pressure P0 should account for the container pressure too (PV=nRT), as without either gravitational pressure or external atmospheric pressure (which will be pushed back against), there is no such state as a fluid. Also you never atmospheric pressure without gravity, as it is what causes atmospheric pressure (unless you're blowing air). In other words, without gravity, you're always separately compressing a fluid into a space.
+ > 
+ > For more thoughts on this see [[Thinking of Fluids Without External Forces]].
  >
  > PV=nRT is an approximation at earth, and outside these conditions, it is better modeled by [[Van der Waals forces]] or by taking into account the [[Compressibility Factor]]
 
