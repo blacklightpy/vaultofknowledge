@@ -3,7 +3,7 @@ Welcome!
 
 This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about. You can call this a knowledge-base or to use the modern terminology, a second brain or digital garden.
 
-The name for the website was inspired by a place of the same name in the game Sky: Children of The Light.
+The name for the website was inspired by a place of the same name in the game [Sky: Children of The Light](https://www.thatskygame.com/).
 ## How to explore
 You can explore the notes using the search functionality or from the table of contents sidebar. A quick overview on the main categories:
 
