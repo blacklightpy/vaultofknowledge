@@ -86,7 +86,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Field Programmable Gate Arrays]]
 		- [[GPUs]]
 		- [[Lens Mounts]]
-		- [[World Building/Science and Engineering/Engineering Resources/Engineering Components/Motors]]
+		- [[Motors]]
 		- [[Quanta Image Sensors]]
 		- [[Secure Cryptoprocessor]]
 		- [[SIM Cards]]
@@ -105,7 +105,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- **Standards Organizations**
 			- [[Institute of Electrical and Electronics Engineers]]
 			- [[Internet Engineering Task Force]]
-		- [[World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations]]
+		- [[Standards Organizations]]
 	- **Engineering Tools and Machines**
 		- [[CNC Machines]]
 		- [[Numerical Control]]
@@ -205,7 +205,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Lyapunov Stability]]
 			- [[PID Control]]
 			- [[State Observers]]
-			- [[World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function]]
+			- [[Transfer Function]]
 		- **[[Data Science]]**
 			- [[Data Acquisition]]
 		- **Digital Signal Processing**
@@ -324,7 +324,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Virtual Machines]]
 				- [[Webhooks]]
 			- **Graphics and GUI Development**
-				- [[World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries]]
+				- [[Graphics Libraries]]
 				- [[Java GUI Libraries]]
 			- [[Hacking]]
 			- [[Matrix Protocol]]
@@ -368,6 +368,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 					- [[THORChain]]
 					- [[Web3 Ecosystem]]
 					- [[Web3 To-Do]]
+					- [[Web3]]
 				- [[Web Design and Marketing]]
 				- [[Web Development Tools]]
 				- [[Web Frameworks]]

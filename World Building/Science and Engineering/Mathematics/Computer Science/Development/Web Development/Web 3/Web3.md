@@ -1,0 +1,1 @@
+Index note for the folder.

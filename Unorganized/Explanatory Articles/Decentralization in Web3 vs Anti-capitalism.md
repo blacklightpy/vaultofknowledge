@@ -1,3 +1,4 @@
+[[Web3]] is a modern trend on the internet based on the concept of [[blockchain]] since the invention of Bitcoin in 2009, and later on [[History of Ethereum|Ethereum]] in 2016. Just like the vision of blockchain projects, they focus 
 # Web3
 ## The effects of capitalism even in decentralization
 - Web3 uses cryptocurrencies
@@ -13,4 +14,5 @@
 - And also for social media, we choose federation, so that the user can choose which server to host on
 - This is in line with trust, however, it also seems to divide people in a sense. I understand that it is about encouraging diversity - but at the same time, it takes away from the sense of oneness, by having to choose a server identity.
 - It is also a bit messy for many people, like email, but see how all of us have converged to GMail. This is only partly corporate monopoly, but partly also because people got tired of complex IDs, or the inability to find a cool server name, etc. So they chose to place their cool usernames in their username.
-- So it also d
+
+- So it also deals with the problem about [[Sharing Resources]].
