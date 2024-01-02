@@ -16,28 +16,7 @@ Wait, it only has Snap builds for now!!
 # GitHub: raindropio/app
 Raindrop also has the "app" repository, which builds for Electron. I should try it too.
 
-```YAML
-name: Use Node.js 16.x
-      uses: actions/setup-node@v1
-      with:
-        node-version: 16.x
-
-    - name: Install dependencies
-      run: npm i
-
-    - name: Make version.sh for xcode project executable
-      run: chmod +x build/xcode/Save\ to\ Raindrop.io/version.sh
-
-    - name: Build for all platforms
-      env:
-        SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
-      run: npm run build && npm run build:extension && npm run build:electron
-
-    - name: Read package json
-      id: json
-      uses: zoexx/github-action-json-file-properties@release
-      with:
-        file_path: "package.json"
-
-    Files will be in dist/.zip
-  ```
+- Install Node 16.x from Actions
+- Install dependencies: `npm i`
+- Build for Web and Electron: `npm run build && npm run build:electron`
+- Files will be in dist/.zip
