@@ -10,4 +10,11 @@
 
 #draft 
 - So we store individual names in a db, and assign each of them to each person, saving a lot of data
-- The names themselves are character strings, so they have to be stored separately, but can be done so using a separator character sequence at the end, so that the character
+- The names themselves are character strings, so they have to be stored separately
+- But we can use a separator character at the end, so that the string doesn't waste empty characters
+- But this approach isn't computationally any better, and is rather worse, unless the db storing user names is more constrained than the db storing the list of names
+- That is a very weird, but possible use case though
+
+- For normal cases, we could just make use of the separator character in the input itself
+
+- As for storing name db separately, it's better to store a list of names as each
