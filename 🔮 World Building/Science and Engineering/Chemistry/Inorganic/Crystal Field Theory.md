@@ -1,0 +1,3 @@
+Crystal Field Theory (CFT) describes the breaking of degeneracies of electron orbital states, usually d or f orbitals due to static electric field produced by a surrounding charge distribution from anion neighbours. CFT accounts for some magnetic properties, colours, hydration enthalpies and other spectroscopic properties of transition metal coordination compounds. But it does not try to explain the process of chemical bonding.
+
+It was developed by Hans Bethe and John Hasbrouck van Vleck in the 1930s. Subsequently, it was combined with the [[Molecular Orbital Theory]] (MOT) to form a more realistic and complex Ligand Field Theory (LFT), which delivers insight into the chemical bonding of transitional metal complexes.

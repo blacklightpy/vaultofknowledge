@@ -1,1 +1,0 @@
-This is called the strong force, strong nuclear force or colour force, and is described by [[quantum chromodynamics]].

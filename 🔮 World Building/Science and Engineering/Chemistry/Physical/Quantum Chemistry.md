@@ -1,0 +1,1 @@
+[[Molecular Orbital Theory]] and [[Valence Bond Theory]] form the foundational theories of quantum chemistry.
