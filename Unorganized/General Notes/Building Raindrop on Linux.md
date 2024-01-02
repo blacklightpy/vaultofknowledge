@@ -12,3 +12,5 @@ It looks like the latest commit titled "Upgrade Electron" (Jun 26 2023) that rep
 
 Wait, it only has Snap builds for now!!
 
+
+Raindrop also has the "app" repository, which builds for Electron.

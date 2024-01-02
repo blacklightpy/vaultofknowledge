@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Exploration/History/Index.md",
+                "file": "Unorganized/General Notes/Building Raindrop on Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Exploration/History/Index.md",
+                "file": "Unorganized/General Notes/Building Raindrop on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Exploration/History/Index.md",
+                "file": "Unorganized/General Notes/Building Raindrop on Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Exploration/History/Index.md"
+                "file": "Unorganized/General Notes/Building Raindrop on Linux.md"
               }
             }
           },
@@ -203,8 +204,8 @@
   },
   "active": "6a46db085f99397b",
   "lastOpenFiles": [
-    "Personal/Knowledge/Literature.md",
     "World Exploration/History/Index.md",
+    "Personal/Knowledge/Literature.md",
     "Unorganized/General Notes/Building Raindrop on Linux.md",
     "Unorganized/General Notes/Building Anytype on Linux.md",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
