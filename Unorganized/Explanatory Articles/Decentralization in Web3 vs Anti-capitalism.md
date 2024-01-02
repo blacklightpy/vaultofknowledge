@@ -10,4 +10,7 @@
 - There is also the concern about duplication - see [[Sharing Resources]].
 # Anti-capitalism
 - As of now, we choose to self-host programs instead of using some else's cloud services
-- And also for social media, we choose federation, so that 
+- And also for social media, we choose federation, so that the user can choose which server to host on
+- This is in line with trust, however, it also seems to divide people in a sense. I understand that it is about encouraging diversity - but at the same time, it takes away from the sense of oneness, by having to choose a server identity.
+- It is also a bit messy for many people, like email, but see how all of us have converged to GMail. This is only partly corporate monopoly, but partly also because people got tired of complex IDs, or the inability to find a cool server name, etc. So they chose to place their cool usernames in their username.
+- So it also d
