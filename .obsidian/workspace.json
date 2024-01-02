@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Project Ideas/Project - Designing a V8 Engine.md",
+                "file": "Unorganized/General Notes/PDE Solver.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Project Ideas/Project - Designing a V8 Engine.md",
+                "file": "Unorganized/General Notes/PDE Solver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Project Ideas/Project - Designing a V8 Engine.md",
+                "file": "Unorganized/General Notes/PDE Solver.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Project Ideas/Project - Designing a V8 Engine.md"
+                "file": "Unorganized/General Notes/PDE Solver.md"
               }
             }
           },
@@ -217,7 +217,9 @@
   "active": "e8fcd4e8ebe66b37",
   "lastOpenFiles": [
     "Personal/Project Ideas/Project Ideas (old list).md",
+    "Unorganized/General Notes/PDE Solver.md",
     "Unorganized/General Notes/Thinking About How to Convery Information.md",
+    "Personal/Project Ideas/Designing a V8 Engine.md",
     "Personal/Project Ideas",
     "Personal/Project Idea",
     "Unorganized/General Notes/Binary Numbers.md",
@@ -243,7 +245,6 @@
     "Unorganized/General Notes/Drift Velocity.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Is Nature doing any calculations?.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Monte Carlo methods.md",
-    "Unorganized/General Notes/Delocalized Electrons.md",
     "_images/favicon.ico",
     "_images/favicon.png",
     "favicon.ico",
