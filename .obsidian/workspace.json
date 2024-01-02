@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c029fa5439a77d13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unorganized/General Notes/Thinking About How to Convery Information.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/General Notes/Thinking About How to Convery Information.md",
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/General Notes/Thinking About How to Convery Information.md",
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/General Notes/Thinking About How to Convery Information.md"
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md"
               }
             }
           },
@@ -202,15 +189,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c029fa5439a77d13",
+  "active": "ac4d74e05aea91ef",
   "lastOpenFiles": [
-    "Personal/Project Ideas/Coding a PDE Solver.md",
+    "Unorganized/General Notes/Binary Numbers.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Thinking About How to Convery Information.md",
     "Personal/Project Ideas/Project Ideas (old list).md",
-    "Unorganized/General Notes/Thinking About How to Convery Information.md",
+    "Personal/Project Ideas/Coding a PDE Solver.md",
     "Personal/Project Ideas/Designing a V8 Engine.md",
     "Personal/Project Ideas",
     "Personal/Project Idea",
-    "Unorganized/General Notes/Binary Numbers.md",
     "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
     "Personal/Random Ideas/Family Trees.md",
     "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)",
