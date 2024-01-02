@@ -45,9 +45,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd44f2f29f69efe8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,12 +205,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a46db085f99397b",
+  "active": "cd44f2f29f69efe8",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
     "🤠 Personal/Creative and Recreational/Design.md",
     "Home.md",
-    "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
     "🗃️ Unorganized/General Notes/Layouts.md",
     "🗺️ World Exploration/History/Index.md",
     "🤠 Personal/Knowledge/Literature.md",
