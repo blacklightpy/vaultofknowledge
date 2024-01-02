@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31cd6b9dac7fa5b8",
+        "id": "39f6ce1dc3a5c367",
         "type": "tabs",
         "children": [
           {
-            "id": "79fda4b4425ba82c",
+            "id": "6a3e3c415c53f807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
+                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
+                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
+                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md"
+                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Arguments against Religion 2.md"
               }
             }
           },
@@ -174,12 +174,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "6a3e3c415c53f807",
   "lastOpenFiles": [
-    "Unorganized/Developing My Own Philosophy/Idea Articles (out of fun more than reason)",
-    "Unorganized/Developing My Own Philosophy/Idea Articles (out of fun more than reason)/Understanding Family Trees.md",
-    "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
+    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Barbie The Movie.md",
+    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/A computer is a friend.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is every disturbance fundamentally a combination of harmonics.md",
     "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Thinking About How to Convery Information.md",
+    "Unorganized/Developing My Own Philosophy/Project Related Idea Articles/Trying to Understand Family Trees.md",
+    "Unorganized/Developing My Own Philosophy/Project Related Idea Articles",
+    "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
     "Unorganized/Studying Social Problems (to solve them)/Socio-Economic Discourse/The scope of sharing resources.md",
     "Unorganized/Developing My Own Philosophy/Trust, Love and Faith.md",
     "Unorganized/General Notes/Untitled.md",
@@ -199,10 +204,6 @@
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Arguments.md",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/India Pakistan Conflict/India Pakistan Current Affairs.md",
-    "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Timeline of History.md",
-    "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/The Origin of Judaism.md",
-    "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/The Origin of Islam.md",
-    "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Terrorism.md",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Russo-Ukraine Conflict",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Rough",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Conflict",
@@ -211,7 +212,6 @@
     "Unorganized/Studying Social Problems (to solve them)/Socio-Political Discourse",
     "Unorganized/Studying Social Problems (to solve them)/Socio-Economic Discourse",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse",
-    "Unorganized/Studying Social Problems (to solve them)",
     "_images/favicon.png",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
