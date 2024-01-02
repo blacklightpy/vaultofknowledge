@@ -42,4 +42,10 @@
 - For example, as ((tone a + tone b) - (tone c + tone d))
 - The combination of the tones 'a' and 'b' could have a set of harmonics close to the combination of the tones 'c' and 'd'.
 - That is to say, the brain could only understand tones, not individual frequencies.
-- This is similar to how our eyes do not really understand specific frequencies of light, but only the [[Spectral Responsivity|spectral response]].
+- This is similar to how our eyes do not really understand specific frequencies of electromagnetic waves, but only the [[Spectral Responsivity|spectral response]] of the [[tristimulus]] from the different types of photocells in our eyes.
+
+- Even considering electromagnetic waves, is it correct for us to consider that every disturbance or sound can be modeled as a combination of harmonics?
+- Sure, it is possible, and mathematically valid; however, is it fundamental?
+- I think that vibrations are the natural state of an undisturbed field, however, the fields in our universe are not undisturbed.
+- That's not to say there can't be an undisturbed universe. It just wouldn't be alive.
+- A universe should have a prime motive configuration. This should be a cellular automata
