@@ -17,5 +17,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unorganized/General Notes"
 }
