@@ -3,14 +3,15 @@ My takeaway from writing this article is that data conservation, or conservation
 But when it comes to casual life, which is what religion deals with, fundamentalism can be very ridiculous, and hence this article.
 # Example 1: List of names
 > [!note] Note
-> **Pre-requisite knowledge of binary numbers**:
+> **Pre-requisite knowledge for those who don't know the binary number system:**
 > - For the uninitiated in number systems, the binary number system is the most fundamental number system, where there are only 2 "face values" (if you remember elementary school)
 > - Our decimal system has 10 "face values", since we used to count with 10 fingers
 > - We call the number of face values the "base" of a number system
-> - So decimal is a 'base 10' system, and binary is a 'base 2' system
+> - So decimal is a "base 10" system, and binary is a "base 2" system
 > - Given a number of digital, say 3 digits, our decimal system can represent 1000 values (10^3)
 > - Similarly, given 3 digits, the binary system can represent 8 values (2^3)
-> - More generally, the number of values for a number of digits is given by base^(number of digits)
+> - More generally, the number of values for a number of digits is given by: base^(number of digits)
+> - And finally, we call digits in the binary system **bi**nary digi**ts**, or "**bits**".
 
 - Assume each person has a name of 30 characters
 - The alphabet has 55 characters with upper case, lower case, -, \' and spaces
