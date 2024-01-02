@@ -8,4 +8,9 @@ Genesis 38:8-10:
 - Secondly, I don't see why one should find it weird that the child born from him having sex will not be his.
 - Normally, people are afraid that the child they are raising is not theirs due to infidelity, not the other way round.
 - Thirdly, it is stupid that he chose to have sex because god commanded him to, but he didn't follow the full command because he did not like it. Then why did he follow through in the first place?
-- Fourthly, god killed him for this act. Christians probably won't find it weird, but a god who can 
+- Fourthly, god killed him for this act. Christians probably won't find it weird, but a god who can create the world could also be a good teacher and tell the person why something must be done.
+	- If it's simply a commandment for the sake of it, Christians can't argue that it is good.
+	- It is simply good in the eyes of god, and pathetic in the eyes of anyone who hasn't totally discarded their natural beliefs for the teachings of this religion.
+	- The effect being them always feeling like a sinner, and begging for mercy for what seems like a self-inflicted sin.
+	- You see, nothing stops someone from believing in something that's not real and being affected by it.
+	- And common sense goes against the teachings of this religion, and hence why can't I say that 
