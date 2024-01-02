@@ -28,14 +28,14 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Morphemes (the smallest unit of a word that provides meaning to a combination of letters)
 	- Free morphemes (simplest form of a lexeme)
 	- Bound Morphemes (prefix, infix or suffix morphemes)
-- Discourse (Tulus)
+- Other discourse forms (used by Tulus)
 
 - Ideograms (A graphical symbol that represents an idea or a concept, either by prior familiarity or by resemblance to a physical object)
 - Pictograms (A graphical symbol that represents an object by having resemblance to it)
 - Logograms or Lexigram
 	- A logogram is a written character that represents a whole word
 	- Logographic systems often included phonograms, usually used according to the rebus principle, in which a pure ideogram was suffixed with a phonogram in an attempt to clarify meaning.
- 	- Examples of pure logograms: https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1
+- Examples of pure logograms: https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1
 
 ## Elements of Phonetic Articulation
 - Consonants (In articulatory phonetics, a consonant is a speech sound that is articulated with complete or partial closure of the vocal tract)
@@ -57,7 +57,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 	- It comes from Latin lexis, which comes from Ancient Greek word λέξις (léxis), meaning "word" + -eme, which means a unit in a linguistic structure, extracted from the Ancient Greek word φώνημα (phṓnēma), meaning "sound".
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
 
-While I was at it, I decided to see the etymology of the words "palates" and "assibilate", 
+While I was at it, I decided to see the etymology of the words "palates" and "assibilate", and I realized this:
 
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
 - assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
