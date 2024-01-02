@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md"
               }
             }
           },
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +215,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3f034e3fc24e1af2",
+  "active": "6a46db085f99397b",
   "lastOpenFiles": [
+    "Home.md",
     "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
     "🗃️ Unorganized/General Notes/Layouts.md",
     "🗺️ World Exploration/History/Index.md",
@@ -240,7 +242,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Studying Social Problems (to solve them)/Socio-Economic Discourse/Sharing Resources.md",
-    "Home.md",
     "🗃️ Unorganized/Explanatory Articles",
     "🗃️ Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Predator or Prey.md",
     "🗃️ Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Philosophy of Religion.md",
