@@ -2,7 +2,7 @@ My takeaway from writing this article is that data conservation, or conservation
 
 But when it comes to casual life, which is what religion deals with, fundamentalism can be very ridiculous, and hence this article.
 
-As for connections to the idea of conservation in society, that should be separately discussed under my "Socio-Economic Discourse" category, and I've made a draft note for [[the scope of sharing resources]].
+As for connections to the idea of conserving resources in society, that will be separately discussed under my "Socio-Economic Discourse" category, and I've made a draft note on [[the scope of sharing resources]].
 # Example 1: Storing a List of names
 > [!note] Note
 > **Prerequisite knowledge (what [[Binary Numbers|binary digits]] are):**
