@@ -14,4 +14,4 @@ Genesis 38:8-10:
 	- The effect being them always feeling like a sinner, and begging for mercy for what seems like a self-inflicted sin.
 	- You see, nothing stops someone from believing in something that's not real and being affected by it.
 	- And common sense goes against the teachings of this religion, and hence why can't I say that it is much more likely that this is all cooked up than real?
-	- And if I can prove that, why exactly would someone still believe in this religion
+	- And if I can prove that, why exactly would someone still believe in this religion, aside from blind faith
