@@ -18,6 +18,7 @@ Wait, it only has Snap builds for now!!
 - Readme says `npm`, but it used to be `yarn`
 - Readme says `npm build`, but it used to be `yarn build:linux`
 - Debugging commits will be hard, and I'm sleepy
+
 - So I think the right way is to checkout to an older commit, and build with `yarn`.
 # GitHub: raindropio/app
 Raindrop also has the "app" repository, which builds for Electron. I should try it too.
@@ -27,4 +28,4 @@ Raindrop also has the "app" repository, which builds for Electron. I should try 
 - Build for Web and Electron: `npm run build && npm run build:electron`
 - Files will be in dist/.zip
 
-Apparently "app" is a submodule in desktop, under the "webapp" folder.
+Apparently "app" is a submodule in desktop, under the "webapp" folder. So this wouldn't be very useful just by itself.

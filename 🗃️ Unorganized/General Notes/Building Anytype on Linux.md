@@ -18,4 +18,4 @@ From `build.yml` workflow (and the Electron build action's parameters, default c
 		- If not interested in ARM builds, skip `--arm64`
 - The releases (Snap, DEB, RPM, AppImage, TAR.GZ) will be in "dist" folder.
 # Test Result
-This did not work in the last step, because I did not have libxcrypt.so.1 in musl
+This did not work in the last step, because I did not have "libxcrypt.so.1" in musl, as `libxcrypt` is not packaged.
