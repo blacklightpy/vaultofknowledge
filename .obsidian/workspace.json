@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Exploration/Literature/Origin of Writing.md",
+                "file": "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Exploration/Literature/Origin of Writing.md",
+                "file": "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Exploration/Literature/Origin of Writing.md"
+                "file": "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md"
               }
             }
           },
@@ -215,10 +215,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7771a5d4ea085d0a",
+  "active": "ac4d74e05aea91ef",
   "lastOpenFiles": [
-    "Unorganized/General Notes/Problems with Modern World.md",
     "World Exploration/Literature/Origin of Writing.md",
+    "Unorganized/General Notes/Problems with Modern World.md",
     "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md",
     "Unorganized/General Notes/Untitled.md",
     "Personal/Random Ideas/Family Trees.md",

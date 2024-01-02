@@ -28,8 +28,6 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Morphemes (the smallest unit of a word that provides meaning to a combination of letters)
 	- Free morphemes (simplest form of a lexeme)
 	- Bound Morphemes (prefix, infix or suffix morphemes)
-- Other discourse forms (used by Tulus)
-
 - Ideograms (A graphical symbol that represents an idea or a concept, either by prior familiarity or by resemblance to a physical object)
 - Pictograms (A graphical symbol that represents an object by having resemblance to it)
 - Logograms or Lexigram
@@ -37,6 +35,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 	- Logographic systems often included phonograms, usually used according to the rebus principle, in which a pure ideogram was suffixed with a phonogram in an attempt to clarify meaning.
 - Examples of pure logograms
 	- [Answer by Oscar Tay on "What are the languages that are only spoken and what are the languages that are only written?" | Quora](https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1)
+- Other discourse forms (used by Tulus)
 
 ## Elements of Phonetic Articulation
 - Consonants (In articulatory phonetics, a consonant is a speech sound that is articulated with complete or partial closure of the vocal tract)

@@ -22,4 +22,11 @@
 - We still haven't avoided the problem of having to use more bits than the possible names.
 
 - This problem arises fundamentally from the nature of languages, where words are made of graphemes.
-- 
+- Perhaps we could map
+- The computer scientist, or mathematical way of modelling this would be to do away with names and use binary numbers to identify users.
+- This is already done by using a unique key.
+
+- Any other data would be more relevant than using names, and everything would be numeric IDs.
+- Sounds would be seen as bloated encoders of data, unless it is just background noise.
+- Noise would be a fundamental, unavoidable quality of the universe.
+- Any data represented in sound however, would be meaningless.
