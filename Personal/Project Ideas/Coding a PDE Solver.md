@@ -1,6 +1,6 @@
 Purpose (reason): To help solve equations to solve mathematical models.
 Purpose (as a system): To solve [[partial differential equations]].
-How: For non [[NP-Completeness|NP-complete]] equations usually use an approximation known as [[Finite Element Method]].
+How: For non [[NP-Completeness|NP-complete]] equations usually approximate them using [[Finite Element Method]] (FEM).
 # Applications
-- [[Computational Fluid Dynamics]]
-- [[Finite Element Method]]
+- [[Finite Element Method]] in general
+- [[Computational Fluid Dynamics]], which uses FVM
