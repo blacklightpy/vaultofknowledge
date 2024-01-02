@@ -1,5 +1,5 @@
 For reference:
-- [[🗃️ Unorganized/General Notes/Desktop Environments|What is a desktop environment?]]
+- [[🗃️ Unorganized/🗒️ General Notes/Desktop Environments|What is a desktop environment?]]
 
 For window managers, see [[Window Manager Showcase 1]]
 For stylized screenshots, see [[Rice Showcase]]
