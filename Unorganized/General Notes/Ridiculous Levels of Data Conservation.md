@@ -1,4 +1,8 @@
 # Example 1: List of names
 - Assume each person has a name of 30 characters
 - The alphabet has 55 characters with upper case, lower case, -, \' and spaces
-- A minimal data structure would utilize
+- A minimal data structure for characters would have 6 bits, which can hold 64 separate numbers.
+- 9 digits are wasted, but it has to be this way, considering we need separation of characters.
+- **Aside:** We could also just skip the concept of characters to save data, but we'll come to that idea later.
+- For 30 characters for each name, we are using 180 bits.
+- Asumming 
