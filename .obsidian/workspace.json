@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Ridiculous Levels of Data Conservation.md",
+                "file": "Unorganized/General Notes/Should the universe have a prime mover.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Ridiculous Levels of Data Conservation.md",
+                "file": "Unorganized/General Notes/Should the universe have a prime mover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Ridiculous Levels of Data Conservation.md",
+                "file": "Unorganized/General Notes/Should the universe have a prime mover.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Ridiculous Levels of Data Conservation.md"
+                "file": "Unorganized/General Notes/Should the universe have a prime mover.md"
               }
             }
           },
@@ -217,8 +217,10 @@
   },
   "active": "ac4d74e05aea91ef",
   "lastOpenFiles": [
-    "Unorganized/Developing My Own Philosophy/Is audio fundamentally comprised of frequencies.md",
+    "Unorganized/General Notes/Is every disturbance fundamentally a combination of harmonics.md",
+    "Unorganized/General Notes/Should the universe have a prime mover.md",
     "Unorganized/Developing My Own Philosophy/Ridiculous Levels of Data Conservation.md",
+    "Unorganized/Developing My Own Philosophy/Is audio fundamentally comprised of frequencies.md",
     "Unorganized/General Notes/Cellular Automata.md",
     "Unorganized/General Notes/Feynman's Theory of Cellular Automata.md",
     "Unorganized/General Notes/Garden of Eden Patterns.md",
@@ -244,8 +246,6 @@
     "LICENSE.md",
     "README.md",
     "Personal/Creative and Recreational/Clothing.md",
-    "Personal/Knowledge/Photo Editing.md",
-    "World Building/Science and Engineering/Engineering Resources/Engineering Components/Camera Lenses.md",
     "Personal/AVIASYS Related/Project Management/Software",
     "Personal/AVIASYS Related/Project Management/Software/Ways to Use Software",
     "Personal/AVIASYS Related/Project Management",
