@@ -13,6 +13,10 @@ It looks like the latest commit titled "Upgrade Electron" (Jun 26 2023) that rep
 
 Wait, it only has Snap builds for now!!
 
+- First clone the git repository
+- Merge submodules
+- Readme says `npm`, but it used to be `yarn`
+- Readme says `npm build`, but it used to be yarn `build:linux`
 # GitHub: raindropio/app
 Raindrop also has the "app" repository, which builds for Electron. I should try it too.
 
