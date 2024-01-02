@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "94f7e0192d37f526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6a46db085f99397b",
             "type": "leaf",
             "state": {
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md"
+                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md"
               }
             }
           },
@@ -202,17 +189,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "94f7e0192d37f526",
+  "active": "6a46db085f99397b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
+    "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
     "Home.md",
     "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
-    "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
     "🤠 Personal/Creative and Recreational/Design.md",
     "🗃️ Unorganized/General Notes/Layouts.md",
     "🗺️ World Exploration/History/Index.md",
     "🤠 Personal/Knowledge/Literature.md",
-    "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
     "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Quran Verses in Context.md",
     "🤠 Personal/Creative and Recreational/Graphics Software.md",
     "Unorganized/General Notes/Standards Organizations.md",

@@ -11,9 +11,9 @@ From `build.yml` workflow (and the Electron build action's parameters, default c
 - **Commented Out** - Update Deps: `npm run build:deps`
 - Install anytype-heart:  `./update-ci.sh ubuntu-latest amd`
 - Electron Build action
-	- Installing Dependencies using NPM: `npm install .`
-	- Running the build script: `npm run build --if-present .`
-	- Building and releasing the Electron app: `npx --no-install electron-builder --linux --publish always --arm64 --x64 .`
+	- Installing Dependencies using NPM: `npm install`
+	- Running the build script: `npm run build --if-present`
+	- Building and releasing the Electron app: `npx --no-install electron-builder --linux --publish always --arm64 --x64`
 		- To not release, skip `--publish always`
 		- If not interested in ARM builds, skip `--arm64`
 - The releases (Snap, DEB, RPM, AppImage, TAR.GZ) will be in "dist" folder.
