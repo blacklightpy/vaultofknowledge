@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b76946831f09a639",
+        "id": "31cd6b9dac7fa5b8",
         "type": "tabs",
         "children": [
           {
-            "id": "76d3848e43d93a6a",
+            "id": "79fda4b4425ba82c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md"
+              }
             }
           },
           {
@@ -167,7 +176,9 @@
   },
   "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Unorganized/Developing My Own Philosophy/Idea Articles (out of curiosity than by reason)/Family Trees.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (out of fun more than reason)",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (out of fun more than reason)/Understanding Family Trees.md",
+    "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
     "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
     "Unorganized/Studying Social Problems (to solve them)/Socio-Economic Discourse/The scope of sharing resources.md",
     "Unorganized/Developing My Own Philosophy/Trust, Love and Faith.md",
@@ -192,7 +203,6 @@
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/The Origin of Judaism.md",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/The Origin of Islam.md",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Terrorism.md",
-    "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Salafi Jihadism.md",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Russo-Ukraine Conflict",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Rough",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Conflict",
@@ -202,7 +212,6 @@
     "Unorganized/Studying Social Problems (to solve them)/Socio-Economic Discourse",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse",
     "Unorganized/Studying Social Problems (to solve them)",
-    "Personal/Project Ideas",
     "_images/favicon.png",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
