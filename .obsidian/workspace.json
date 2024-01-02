@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized 🗃️/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
+                "file": "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized 🗃️/General Notes/Building Anytype on Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized 🗃️/General Notes/Building Raindrop on Linux.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f993ef9f0ea0f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -214,53 +202,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f993ef9f0ea0f75",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "Unorganized 🗃️/General Notes/Building Raindrop on Linux.md",
-    "Unorganized 🗃️/General Notes/Building Anytype on Linux.md",
+    "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
+    "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
     "Home.md",
-    "World Building 🔮/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
-    "Personal 🤠/Creative and Recreational/Design.md",
-    "Unorganized 🗃️/General Notes/Layouts.md",
-    "World Exploration 🗺️/History/Index.md",
-    "Personal 🤠/Knowledge/Literature.md",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Religious Discourse/Quran Verses in Context.md",
-    "Personal 🤠/Creative and Recreational/Graphics Software.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
+    "🤠 Personal/Creative and Recreational/Design.md",
+    "🗃️ Unorganized/General Notes/Layouts.md",
+    "🗺️ World Exploration/History/Index.md",
+    "🤠 Personal/Knowledge/Literature.md",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Quran Verses in Context.md",
+    "🤠 Personal/Creative and Recreational/Graphics Software.md",
     "Unorganized/General Notes/Standards Organizations.md",
-    "World Building 🔮/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
-    "World Building 🔮/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Java GUI Libraries.md",
-    "World Building 🔮/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
-    "World Building 🔮/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
-    "Unorganized 🗃️/General Notes/Design Elements.md",
-    "Personal 🤠/Leisure/Animes.md",
-    "Personal 🤠/Leisure/TV Shows.md",
-    "Unorganized 🗃️/Explanatory Articles/Decentralization in Web3 vs Anti-capitalism.md",
-    "Unorganized 🗃️/General Notes/Free Software Index.md",
-    "World Building 🔮/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
-    "World Building 🔮/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3 Ecosystem.md",
-    "World Building 🔮/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Java GUI Libraries.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
+    "🗃️ Unorganized/General Notes/Design Elements.md",
+    "🤠 Personal/Leisure/Animes.md",
+    "🤠 Personal/Leisure/TV Shows.md",
+    "🗃️ Unorganized/Explanatory Articles/Decentralization in Web3 vs Anti-capitalism.md",
+    "🗃️ Unorganized/General Notes/Free Software Index.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3 Ecosystem.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Socio-Economic Discourse/Sharing Resources.md",
-    "Unorganized 🗃️/Explanatory Articles",
-    "Unorganized 🗃️/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Predator or Prey.md",
-    "Unorganized 🗃️/Developing My Own Philosophy/Project Related Idea Articles",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Socio-Economic Discourse/Sharing Resources.md",
+    "🗃️ Unorganized/Explanatory Articles",
+    "🗃️ Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Predator or Prey.md",
+    "🗃️ Unorganized/Developing My Own Philosophy/Project Related Idea Articles",
     "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Wars and Conflicts/Russo-Ukraine Conflict",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Rough",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Conflict",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Wars and Conflicts/India Pakistan Conflict",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Wars and Conflicts",
-    "Unorganized 🗃️/Studying Social Problems (to solve them)/Socio-Political Discourse",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Russo-Ukraine Conflict",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Rough",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Israel Palestine Conflict",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/India Pakistan Conflict",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts",
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Socio-Political Discourse",
     "_images/favicon.png",
-    "_images 📎️/Indo-European_expansions.jpg",
-    "_images 📎️/Centres_of_origin_and_spread_of_agriculture.svg.png",
-    "_images 📎️/Korea_DMZ.svg.png",
-    "_images 📎️/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
-    "_images 📎️/Types of Digital Modulation.png",
-    "_images 📎️/Expulsion_judios-en.svg.png",
-    "_images 📎️/A misleading Pegasus infographic from Guardian.png",
-    "_images 📎️/Islamic Covering Clothing for Women.jpg",
+    "_images/Indo-European_expansions.jpg",
+    "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
+    "_images/Korea_DMZ.svg.png",
+    "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
+    "_images/Types of Digital Modulation.png",
+    "_images/Expulsion_judios-en.svg.png",
+    "_images/A misleading Pegasus infographic from Guardian.png",
+    "_images/Islamic Covering Clothing for Women.jpg",
     "_images/Pasted image 20231115165007.png"
   ]
 }
