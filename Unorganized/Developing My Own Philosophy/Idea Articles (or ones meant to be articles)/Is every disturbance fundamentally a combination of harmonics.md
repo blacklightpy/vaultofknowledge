@@ -1,5 +1,4 @@
-
-Related: [[Is audio fundamentally comprised of frequencies]]
+I started this by thinking of this: [[Is audio fundamentally comprised of frequencies]]
 
 - Even considering electromagnetic waves, is it correct for us to consider that every disturbance or sound can be modeled as a combination of harmonics?
 - Sure, it is possible, and mathematically valid; however, is it fundamental?

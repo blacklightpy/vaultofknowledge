@@ -36,5 +36,4 @@
 - It can be argued that simple tones can influence emotions too.
 
 - [[Is audio fundamentally comprised of frequencies]] (moved to a separate page)
-
-- [[Is every disturbance fundamentally a combination of harmonics]]
+- [[Is every disturbance fundamentally a combination of harmonics]] (moved to a separate page)

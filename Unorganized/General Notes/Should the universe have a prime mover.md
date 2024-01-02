@@ -8,4 +8,4 @@ We would then also have to see if there is any advantage for either case of cell
 
 For example, is a Garden of Eden pattern any more alive than the (personally hypothesized) "natural" pattern?
 
-Of course, I'll 
+Of course, I'll need to update my way of thinking if there is no one "natural" model.
