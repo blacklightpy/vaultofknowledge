@@ -11,8 +11,13 @@
             "id": "350c266e5629bff8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Bible Verses.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Bible Verses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Bible Verses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Bible Verses.md"
+              }
             }
           },
           {
@@ -167,6 +176,7 @@
   },
   "active": "350c266e5629bff8",
   "lastOpenFiles": [
+    "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Bible Verses.md",
     "Personal/Creative and Recreational/Graphics Software.md",
     "Unorganized/General Notes/Standards Organizations.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
@@ -194,7 +204,6 @@
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Ideas From My Dreams.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Untitled.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Considerations for Freedom.md",
-    "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/How Religion Limits People.md",
     "Unorganized/Developing My Own Philosophy/Project Related Idea Articles",
     "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Russo-Ukraine Conflict",
