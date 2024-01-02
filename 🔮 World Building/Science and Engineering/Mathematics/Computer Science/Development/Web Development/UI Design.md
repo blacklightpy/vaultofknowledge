@@ -6,6 +6,7 @@
 - Neumorphism (Flat + Skeumorphism)
 ## Other
 - Glassmorphism
+- Gaming UI (close to Sci-Fi UI; COD:Mobile Menu, etc.)
 # Trends
 - 2019 - Glitch (https://www.webdesignbites.com/2019/02/18/glitch-art-is-a-trend-for-2019/)
 ## Platform Specific
