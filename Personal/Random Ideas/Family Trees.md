@@ -1,5 +1,5 @@
-For ease of use, I can agree that using a graph library is better than building my own. **Boost::Graph** is a good choice.
-# Introduction
+> [!summary]
+> For ease of use, I can agree that using a graph library is better than building my own. **Boost::Graph** is a good choice.
 
 I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I figured out that there is no specific formula, and it depends on how many couples choose to intermarry. Unless there are an infinite number of parents, each couple cannot have completely separate family lines.
 
@@ -15,7 +15,7 @@ These are the generations (except great-great-grandparents) up to which I'm inte
 - Me
 
 I will also be including cousins, their parents, and all of their parents, and so on.
-# What I tried
+# How I tried to come at a formula for the number of members in a single family for  generations
 ## Model 1: Starting from the top
 At first, I tried starting from the parents of grandparents (and assumed an X for their siblings). I did not realize I was only considering one of my parents' grandparents, and I was thinking along my father's family side, since that's the only side I knew the name of a great-grandparent.
 
@@ -113,3 +113,8 @@ public:
 	modify_child(Person var_child, Person var_spouse);
 }
 ```
+
+# Closing Thoughts
+After going through some StackOverflow discussions on the topic, I think it's best to use **Boost::Graph** than code up my own data structure and functions.
+
+The family tree is a [[graphs|graph]] in any case.
