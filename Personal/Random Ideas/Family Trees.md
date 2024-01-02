@@ -3,8 +3,7 @@
 
 I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I figured out that there is no specific formula, and it depends on how many couples choose to intermarry. Unless there are an infinite number of parents, each couple cannot have completely separate family lines.
 
-> [!note]
-> As a fun note, I think calculating the complete human family tree would take terabytes of data assuming about 150 bytes of data per record of the database and 190 billion humans ever to have lived on Earth.
+On an interesting thought, I think calculating the complete human family tree would take terabytes of data assuming about 150 bytes of data per record of the database and 190 billion humans ever to have lived on Earth.
 # Premise
 These are the generations (except great-great-grandparents) up to which I'm interested in calculating. Most likely I won't be able to complete all the data, but at least I can try.
 
@@ -15,8 +14,8 @@ These are the generations (except great-great-grandparents) up to which I'm inte
 - Me
 
 I will also be including cousins, their parents, and all of their parents, and so on.
-# How I tried to come at a formula for the number of members in a single family for  generations
-## Model 1: Starting from the top
+# How I tried to come at a formula for the number of members in a single family for 'n' generations
+## Model 1: Start counting from the top (ancestor along a parent of a specific gender)
 At first, I tried starting from the parents of grandparents (and assumed an X for their siblings). I did not realize I was only considering one of my parents' grandparents, and I was thinking along my father's family side, since that's the only side I knew the name of a great-grandparent.
 
 But this isn't an issue in principle, as we have to start somewhere, and apparently, anywhere would do just fine. We just have to model from there, and therefore choosing a right spot can come in handy. Ideally this model can find out all the children, siblings and ancestors from any individual.
@@ -113,7 +112,6 @@ public:
 	modify_child(Person var_child, Person var_spouse);
 }
 ```
-
 # Closing Thoughts
 After going through some StackOverflow discussions on the topic, I think it's best to use **Boost::Graph** than code up my own data structure and functions.
 
