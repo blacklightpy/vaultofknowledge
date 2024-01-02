@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/General Notes/Building Anytype on Linux.md",
+                "file": "Unorganized/General Notes/Building Raindrop on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/General Notes/Building Anytype on Linux.md",
+                "file": "Unorganized/General Notes/Building Raindrop on Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/General Notes/Building Anytype on Linux.md"
+                "file": "Unorganized/General Notes/Building Raindrop on Linux.md"
               }
             }
           },
@@ -202,10 +202,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "94f7e0192d37f526",
+  "active": "6a46db085f99397b",
   "lastOpenFiles": [
-    "Unorganized/General Notes/Building Raindrop on Linux.md",
     "Unorganized/General Notes/Building Anytype on Linux.md",
+    "Unorganized/General Notes/Building Raindrop on Linux.md",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Quran Verses in Context.md",
     "Personal/Creative and Recreational/Graphics Software.md",

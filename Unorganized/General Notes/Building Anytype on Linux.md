@@ -2,7 +2,7 @@ I had difficulty building this, since I'm using Void Linux musl edition.
 
 I will follow the release build commands from the GitHub Actions than the build guide now. I'm only taking the steps relevant to Linux.
 
-From build.yml workflow (and following the)
+From `build.yml` workflow (and the Electron build action's parameters, default configuration and script)
 
 - Setup distutils: `sudo -H pip install setuptools`
 - Install Webpack CLI: `npm install --save-dev webpack-cli --legacy-peer-deps`
@@ -10,9 +10,10 @@ From build.yml workflow (and following the)
 - Update locale: `npm run update:locale`
 - **Commented Out** - Update Deps: `npm run build:deps`
 - Install anytype-heart:  `./update-ci.sh ubuntu-latest amd`
-- Electron Build
+- Electron Build action
 	- Installing Dependencies using NPM: `npm install .`
 	- Running the build script: `npm run build --if-present .`
 	- Building and releasing the Electron app: `npx --no-install electron-builder --linux --publish always --arm64 --x64 .`
 		- To not release, skip `--publish always`
+		- If not interested in ARM builds, skip `--arm64`
 - The releases (Snap, DEB, RPM, AppImage, TAR.GZ) will be in "dist" folder.
