@@ -11,7 +11,8 @@ From build.yml
 - **Commented Out** - Update Deps: `npm run build:deps`
 - Install anytype-heart:  `./update-ci.sh ubuntu-latest amd`
 - Electron Build
-	- `npm install .`
-	- 
-	- release: ${{ startsWith(github.ref, 'refs/tags/v') }}
+	- Installing Dependencies using NPM: `npm install .`
+	- Running the build script: `npm run build --if-present .`
+	- Building and releasing the Electron app: `npx --no-install electron-builder --linux --publish always --arm64 --x64`
+		- release: ${{ startsWith(github.ref, 'refs/tags/v') }}
 - The releases (Snap, DEB, RPM, Flatpak) will be in "dist" folder.
