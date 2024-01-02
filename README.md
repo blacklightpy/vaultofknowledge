@@ -1,4 +1,4 @@
-[![CC Zero 1.0](https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green)[cc-zero]
+[![CC Zero 1.0](https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 # The Vault of Knowledge
 
@@ -25,8 +25,4 @@ This work is waived to the public domain using the [Creative Commons Zero 1.0 Un
 
 To the extent possible under law, [Jyothish Kumar M S](https://ohai.social/@ssunboyy) has waived all copyright and related or neighboring rights to The Vault of Knowledge. This work is published from: India
 
-[![CC Zero 1.0][cc-zero-image]][cc-zero]
-
-[cc-zero]: http://creativecommons.org/publicdomain/zero/1.0/
-[cc-zero-image]: https://licensebuttons.net/p/zero/1.0/88x31.png
-[cc-zero-shield]: https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green
+[![CC Zero 1.0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
