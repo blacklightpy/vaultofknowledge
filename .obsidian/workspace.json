@@ -34,28 +34,20 @@
             }
           },
           {
-            "id": "6021f6e6b3725811",
+            "id": "1a929df653e85f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Models of Reality.md",
+                "file": "Unorganized/General Notes/Shared Resources.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a929df653e85f5c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md"
+              }
             }
           },
           {
@@ -206,10 +202,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1a929df653e85f5c",
+  "active": "ac4d74e05aea91ef",
   "lastOpenFiles": [
-    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Models of Reality.md",
+    "Unorganized/General Notes/Shared Resources.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
     "Unorganized/Developing My Own Philosophy/Trust, Love and Faith.md",
     "Unorganized/General Notes/Binary Numbers.md",
     "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Thinking About How to Convery Information.md",
@@ -236,7 +233,6 @@
     "World Building/Creativity and Arts/Colour Theory/Trichromatic Theory of Colours.md",
     "Unorganized/General Notes/Untitled.md",
     "home.md",
-    "Unorganized/General Notes/Drift Velocity.md",
     "_images/favicon.ico",
     "_images/favicon.png",
     "favicon.ico",
