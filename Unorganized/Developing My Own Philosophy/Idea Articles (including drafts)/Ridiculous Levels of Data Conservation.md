@@ -1,9 +1,9 @@
 My takeaway from writing this article is that data conservation, or conservation of anything really is about being a minimalist or fundamentalist. That's stating the obvious, but fundamentalism can be taken to extreme levels, as in the case of religions for a societal example, and is also very common in engineering, particularly computer science, to allow systems to be more efficient. 
 
 But when it comes to casual life, which is what religion deals with, fundamentalism can be very ridiculous, and hence this article.
-# Example 1: List of names
+# Example 1: Storing a List of names
 > [!note] Note
-> **Pre-requisite knowledge for those who don't know the binary number system:**
+> **Pre-requisite knowledge (what [[Binary Numbers|binary digits]] are):**
 > - For the uninitiated in number systems, the binary number system is the most fundamental number system, where there are only 2 "face values" (if you remember elementary school)
 > - Our decimal system has 10 "face values", since we used to count with 10 fingers
 > - We call the number of face values the "base" of a number system
