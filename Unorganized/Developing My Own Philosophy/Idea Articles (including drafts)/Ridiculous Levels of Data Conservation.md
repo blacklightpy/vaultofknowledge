@@ -1,3 +1,6 @@
+My takeaway from writing this article is that data conservation, or conservation of anything really is about being a minimalist or fundamentalist. That's stating the obvious, but fundamentalism can be taken to extreme levels, as in the case of religions for a societal example, and is also very common in engineering, particularly computer science, to allow systems to be more efficient. 
+
+But when it comes to casual life, which is what religion deals with, fundamentalism can be very ridiculous, and hence this article.
 # Example 1: List of names
 - Assume each person has a name of 30 characters
 - The alphabet has 55 characters with upper case, lower case, -, \' and spaces
@@ -34,6 +37,8 @@
 - However, that has to be very fundamental, and not something that can be achieved in a smaller quantity of sound.
 - For example, music can touch one's emotions.
 - It can be argued that simple tones can influence emotions too.
+
+- At this point, this has turned into some sort of fundamentalism.
 
 - [[Is audio fundamentally comprised of frequencies]] (moved to a separate page)
 - [[Is every disturbance fundamentally a combination of harmonics]] (moved to a separate page)

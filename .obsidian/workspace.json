@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)/Ridiculous Levels of Data Conservation.md",
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)/Ridiculous Levels of Data Conservation.md",
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)/Ridiculous Levels of Data Conservation.md",
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)/Ridiculous Levels of Data Conservation.md"
+                "file": "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md"
               }
             }
           },
@@ -188,15 +189,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "ac4d74e05aea91ef",
   "lastOpenFiles": [
-    "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Problems with Modern World.md",
-    "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)/Ridiculous Levels of Data Conservation.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
     "World Exploration/Literature/Origin of Writing.md",
-    "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)/Is every disturbance fundamentally a combination of harmonics.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is every disturbance fundamentally a combination of harmonics.md",
     "Unorganized/General Notes/Should the universe have a prime mover.md",
-    "Unorganized/Developing My Own Philosophy/Idea Articles (or ones meant to be articles)/Is audio fundamentally comprised of frequencies.md",
+    "Unorganized/Developing My Own Philosophy/Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
     "Unorganized/General Notes/Cellular Automata.md",
     "Unorganized/General Notes/Feynman's Theory of Cellular Automata.md",
     "Unorganized/General Notes/Garden of Eden Patterns.md",
