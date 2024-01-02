@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c468f6598196f8fa",
+        "id": "ae4acaa233ed0bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "6e480147f33c6565",
+            "id": "7cec37cd0965730a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,11 +166,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e480147f33c6565",
+  "active": "7cec37cd0965730a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
     "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
     "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
-    "🗃️ Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
     "Home.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
     "🤠 Personal/Creative and Recreational/Design.md",

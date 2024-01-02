@@ -16,3 +16,4 @@ Genesis 38:8-10:
 	- And common sense goes against the teachings of this religion, and hence why can't I say that it is much more likely that this is all cooked up than real?
 	- And if I can prove that, why exactly would someone still believe in this religion, aside from blind faith?
 	- If so, isn't that simply because that's what their parents taught them to believe, as opposed what they understood for themselves?
+	- I know it gives comfort, but that doesn't make it right.
