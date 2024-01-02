@@ -69,7 +69,7 @@ navbar_links:
     type: external
 file_exports:
   - encoding: binary
-    src: "_images 📎️/favicon.ico"
+    src: "_images/favicon.ico"
     dst: favicon.ico
 toggles:
   compile_md: true
