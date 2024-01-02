@@ -1,6 +1,9 @@
-I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I think I've arrived at some conclusions.
+For ease of use, I can agree that using a graph library is better than building my own. **Boost::Graph** is a good choice.
+# Introduction
 
-> [!NOTE]
+I've been wondering about what data structure a family tree would be best represented in, and how large it will be for a few generations. After a while of thinking, I figured out that there is no specific formula, and it depends on how many couples choose to intermarry. Unless there are an infinite number of parents, each couple cannot have completely separate family lines.
+
+> [!note]
 > As a fun note, I think calculating the complete human family tree would take terabytes of data assuming about 150 bytes of data per record of the database and 190 billion humans ever to have lived on Earth.
 # Premise
 These are the generations (except great-great-grandparents) up to which I'm interested in calculating. Most likely I won't be able to complete all the data, but at least I can try.
