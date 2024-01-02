@@ -39,5 +39,7 @@
 - We do know sound is composed of vibrations, and hence sine waves.
 - But audio is not sound, audio is the brain's response to a specific range of sound.
 - Audio could be a macroscopic effect fundamentally, and a single frequency could simply be perceived as a combination of tones.
-- For example, as ((tone a + audio b) - (audio c + audio d))
-- The combination of the tones 'a' and 'b' could have a set of harmonics close to the combination of the tones
+- For example, as ((tone a + tone b) - (tone c + tone d))
+- The combination of the tones 'a' and 'b' could have a set of harmonics close to the combination of the tones 'c' and 'd'.
+- That is to say, the brain could only understand tones, not individual frequencies.
+- This is similar to how our eyes do not really understand specific frequencies of light, but only the [[Spectral Responsivity|spectral response]].
