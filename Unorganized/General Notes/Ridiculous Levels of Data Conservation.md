@@ -8,7 +8,6 @@
 - For every 200 people who input their names, we will be using 36000 bits of data, or 4.5 KB.
 - But, it's just 200 people, so why couldn't we save space on this?
 
-#draft 
 - So we store individual names in a db, and assign each of them to each person, saving a lot of data
 - The names themselves are character strings, so they have to be stored separately
 - But we can use a separator character at the end, so that the string doesn't waste empty characters
@@ -17,7 +16,7 @@
 
 - For normal cases, we could just make use of the separator character in the input itself
 
-- As for storing name db separately, it's better to store a list of names as each 
-- We do have the character glyphs in the device, and we can use our own encoding scheme.
-- However, we still don't have a way to avoid wasting space kept for the characters we do not use.
-- We could work around this by using an encoding scheme that only uses the characters that appear in the name db.
+- As for storing name db separately, we could also save space by ignoring other possible names.
+- We have the character glyphs in the device, but we need to encode them to use them.
+- We could use an encoding scheme that only uses the characters that appear in the name db.
+- We still haven't avoided the problem of having to use 
