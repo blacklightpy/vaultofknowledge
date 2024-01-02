@@ -35,6 +35,9 @@
 - For example, music can touch one's emotions.
 - It can be argued that simple tones can influence emotions too.
 
-- Is our thinking of "sound" in terms of frequencies correct?
+- Is our thinking of "audio" in terms of frequencies correct?
 - We do know sound is composed of vibrations, and hence sine waves.
-- But sound is not audio, sound is the brain's response to a specific range of audio.
+- But audio is not sound, audio is the brain's response to a specific range of sound.
+- Audio could be a macroscopic effect fundamentally, and a single frequency could simply be perceived as a combination of tones.
+- For example, as ((tone a + audio b) - (audio c + audio d))
+- The combination of the tones 'a' and 'b' could have a set of harmonics close to the combination of the tones
