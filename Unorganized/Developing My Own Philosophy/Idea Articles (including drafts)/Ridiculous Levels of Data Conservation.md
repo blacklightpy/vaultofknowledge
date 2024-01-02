@@ -2,6 +2,11 @@ My takeaway from writing this article is that data conservation, or conservation
 
 But when it comes to casual life, which is what religion deals with, fundamentalism can be very ridiculous, and hence this article.
 # Example 1: List of names
+> [!note] Note
+> **Pre-requisite knowledge**:
+> - For the uninitiated in number systems, the binary number system is the most fundamental number system, where there are only 2 "face values" (if you remember elementary school)
+> - Our decimal system has 10 "face values", since we developed it  our 10 fingers
+
 - Assume each person has a name of 30 characters
 - The alphabet has 55 characters with upper case, lower case, -, \' and spaces
 - A minimal data structure for characters would have 6 bits, which can hold 64 separate numbers.
