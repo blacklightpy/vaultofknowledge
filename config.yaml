@@ -28,6 +28,7 @@ included_file_suffixes:
   - 3gp
   - flac
   - pdf
+  - ico
 video_format_suffixes:
   - mp4
   - webm
