@@ -8,4 +8,4 @@ From build.yml
 - Install Webpack CLI: `npm install --save-dev webpack-cli --legacy-peer-deps`
 - Install Node.JS, NPM and Yarn (Yarn not needed since we have NPM) from Actions
 - Update locale: `npm run update:locale`
-- 
+- Update Deps: `npm run build:deps`
