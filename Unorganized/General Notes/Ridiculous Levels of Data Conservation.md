@@ -19,4 +19,7 @@
 - As for storing name db separately, we could also save space by ignoring other possible names.
 - We have the character glyphs in the device, but we need to encode them to use them.
 - We could use an encoding scheme that only uses the characters that appear in the name db.
-- We still haven't avoided the problem of having to use 
+- We still haven't avoided the problem of having to use more bits than the possible names.
+
+- This problem arises fundamentally from the nature of languages, where words are made of graphemes.
+- 

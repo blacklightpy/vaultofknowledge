@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7771a5d4ea085d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Exploration/Literature/Origin of Writing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md",
+                "file": "World Exploration/Literature/Origin of Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md",
+                "file": "World Exploration/Literature/Origin of Writing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md"
+                "file": "World Exploration/Literature/Origin of Writing.md"
               }
             }
           },
@@ -189,10 +202,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ac4d74e05aea91ef",
+  "active": "7771a5d4ea085d0a",
   "lastOpenFiles": [
-    "Unorganized/General Notes/Untitled.md",
     "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md",
+    "Unorganized/General Notes/Untitled.md",
     "Personal/Random Ideas/Family Trees.md",
     "home.md",
     "Unorganized/General Notes/Drift Velocity.md",

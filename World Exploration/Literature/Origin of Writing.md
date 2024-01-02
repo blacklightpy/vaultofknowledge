@@ -2,7 +2,7 @@ If I recall the way my mom taught me to write when I was two or three, I first l
 
 In any case, the sounds or letters were not the sources of meaning, they were only the methods of communication, for a meaning that existed beyond it. Because even before I knew any words, I knew the meaning of events, because I could feel them. I only learned to map my interpretations to those sounds.
 
-The problem is that unlike percieving the world, which comes naturally, mapping those perceptions to words was more like a skill, because not any combination of words would sound just right, and some combinations of words are more difficult to interpret than others.
+The problem is that unlike perceiving the world, which comes naturally, mapping those perceptions to words was more like a skill, because not any combination of words would sound just right, and some combinations of words are more difficult to interpret than others.
 
 # Forms of writing
 - Pictorial writing system
@@ -27,7 +27,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Phonemes (The smallest sonic unit of a language, which defines the phonetics of that language)
 - Morphemes (the smallest unit of a word that provides meaning to a combination of letters)
 	- Free morphemes (simplest form of a lexeme)
-	- Bound Morphemes (prefixe, infix or suffix morphemes)
+	- Bound Morphemes (prefix, infix or suffix morphemes)
 - Discourse (Tulus)
 
 - Ideograms (A graphical symbol that represents an idea or a concept, either by prior familiarity or by resemblance to a physical object)
@@ -39,12 +39,12 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 
 ## Elements of Phonetic Articulation
 - Consonants (In articulatory phonetics, a consonant is a speech sound that is articulated with complete or partial closure of the vocal tract)
-- Vowels (A vowel is a speech sound that is articulated without anty stricture in the vocal tract)
+- Vowels (A vowel is a speech sound that is articulated without any stricture in the vocal tract)
 - Syllables (A syllable is a unit of organization for a sequence of speech sounds, which form the building blocks of spoken words)
 
 ## Types of languages
 - Logoconsonantal scripts (Scripts in which graphemes could be extended phonetically according to the consonants of the words they represent, ignoring the vowels)
-- Logosyllabic scripts (These are scripts in which the graphemes represent morphemes, often polysyllabic morphemes, but when extended phoentically represent single syllables)
+- Logosyllabic scripts (These are scripts in which the graphemes represent morphemes, often polysyllabic morphemes, but when extended phonetically represent single syllables)
 - Logosyllabry (It is a syllabry consisting of logosyllabic characters)
 
 - Alphabets: Consists of consonants and vowels
@@ -91,7 +91,7 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 	        				- Classical Persian: دیوانه‎ (devâna)
 							- Urdu: دیوانہ‎ (divana), meaning "mad"
 							- Hindi: दीवाना (dīvānā), meaning "mad"
-			- Related, about demons: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begettor", which turned into 
+			- Related, about demons: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begetter", which turned into 
 				- Hittite word 𒈗𒍑 (hassus), meaning "king"
 				- Proto-Indo-Iranian word Hasuras which turned into 
 					- Proto-Indo-Aryan word \*Hásuras which turned into
@@ -101,14 +101,14 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 				- Proto-Germanic word \*ansuz
 ---
 
-- So obviously, when Proto-Indo-Aryans split into Indo-Iranians and Indo-Aryans, they mixed up the words, and Indo-Aryans formed a happy religion in India, while Indo-Iranians met the exiled Jews and helped them get back their land, and introduced the idea of daivs and idol worship as demons to them. So the Jews said "WRITE THAT DOWN". So later on, Islam came, and stuck with the same idea that idol worshippers are demons and must be destroyed at all costs. Then Islam went on spreading their religion, and they reached India and guess what, they found idol worship. So they looked at each other, and said, bruh, the bastards are here. "FUCKING kill them" (Zach star voice). So they destroyed our culture and our places of worship.
+- So obviously, when Proto-Indo-Aryans split into Indo-Iranians and Indo-Aryans, they mixed up the words, and Indo-Aryans formed a happy religion in India, while Indo-Iranians met the exiled Jews and helped them get back their land, and introduced the idea of daivs and idol worship as demons to them. So the Jews said "WRITE THAT DOWN". So later on, Islam came, and stuck with the same idea that idol worshipers are demons and must be destroyed at all costs. Then Islam went on spreading their religion, and they reached India and guess what, they found idol worship. So they looked at each other, and said, bruh, the bastards are here. "FUCKING kill them" (Zach star voice). So they destroyed our culture and our places of worship.
 - From Zoroastrians, Jews learned monotheism, and El and Yahweh became one; They learned to hate idols, and they also learned individual morality, which up until then was such that sons inherit the sins of the ancestors. They also learned the concept of a fiery hell, judgement and the end days from Zoroastrianism.
 	- Book of Daniel (El is my Judge) first reveals the end times, directly after the period of Babylonian Exile.
 - [[Hatred of Idol Worship]]
 
 > - But the Jews found also in the Persian faith the one among all religions most like their own, in this, that it had no idols (https://www.theatlantic.com/magazine/archive/1869/08/zoroaster-and-the-zend-avesta/630001/)
 > - Zoroaster quickly perceived that the ancient monotheistic religion of the Aryas was degenerating into a state of image and idol worship (https://oll.libertyfund.org/page/zoroaster-s-teachings)
-> - We never worshipped murtis (idols) (http://parsizoroastrianism.com/Tenets/noidols33.html)
+> - We never worshiped murtis (idols) (http://parsizoroastrianism.com/Tenets/noidols33.html)
 
 - A murti is actually the vessel for the spirit of god, not a god; produced according to Shilpa Shasthras. (https://en.wikipedia.org/wiki/Prana_Pratishtha), from (https://en.wikipedia.org/wiki/Murti)
 	- This also explains the concept of ishta-devas and ishta-devatas (it's just what nature of god resonates with your feelings as a diverse person)
