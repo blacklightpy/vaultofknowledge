@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "29d2a5e069d4d238",
+        "id": "73e2e88e80dd312d",
         "type": "tabs",
         "children": [
           {
-            "id": "7a273cfcae3e9328",
+            "id": "f9a44e7270fb9e41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Leisure/TV Shows.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tv show",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Leisure/TV Shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Leisure/TV Shows.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Leisure/TV Shows.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +165,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7a273cfcae3e9328",
+  "active": "f9a44e7270fb9e41",
   "lastOpenFiles": [
+    "Personal/Leisure/Animes.md",
+    "Personal/Leisure/TV Shows.md",
     "Unorganized/Explanatory Articles/Decentralization in Web3 vs Anti-capitalism.md",
     "Unorganized/General Notes/Free Software Index.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
@@ -203,8 +195,6 @@
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Problems with Religions in General (long).md",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Quran Verses in Context.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Klein Bottle.md",
-    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Is Nature doing any calculations?.md",
-    "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "Unorganized/Developing My Own Philosophy/Project Related Idea Articles",
     "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
     "Unorganized/Studying Social Problems (to solve them)/Wars and Conflicts/Russo-Ukraine Conflict",
