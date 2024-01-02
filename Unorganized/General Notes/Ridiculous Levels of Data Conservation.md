@@ -17,4 +17,7 @@
 
 - For normal cases, we could just make use of the separator character in the input itself
 
-- As for storing name db separately, it's better to store a list of names as each
+- As for storing name db separately, it's better to store a list of names as each 
+- We do have the character glyphs in the device, and we can use our own encoding scheme.
+- However, we still don't have a way to avoid wasting space kept for the characters we do not use.
+- We could work around this by using an encoding scheme that only uses the characters that appear in the name db.
