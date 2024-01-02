@@ -14,5 +14,5 @@ From build.yml
 	- Installing Dependencies using NPM: `npm install .`
 	- Running the build script: `npm run build --if-present .`
 	- Building and releasing the Electron app: `npx --no-install electron-builder --linux --publish always --arm64 --x64 .`
-		- release: ${{ startsWith(github.ref, 'refs/tags/v') }}
+		- To not release, skip `--publish always`
 - The releases (Snap, DEB, RPM, AppImage, TAR.GZ) will be in "dist" folder.
