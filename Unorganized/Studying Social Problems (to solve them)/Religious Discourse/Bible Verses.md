@@ -1,3 +1,0 @@
-> Genesis 38:8-10
-> 
-> 8 Then Judah said to Onan, “Sleep with your brother’s wife and fulfill your duty to her as a brother-in-law to raise up offspring for your brother.” 9 But Onan knew that the child would not be his; so whenever he slept with his brother’s wife, he spilled his semen on the ground to keep from providing offspring for his brother. 10 What he did was wicked in the Lord’s sight; so the Lord put him to death also.
