@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -202,16 +201,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a46db085f99397b",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "Unorganized/General Notes/Layouts.md",
     "Unorganized/General Notes/Building Raindrop on Linux.md",
     "World Exploration/History/Index.md",
-    "Personal/Knowledge/Literature.md",
+    "🤠 Personal/Knowledge/Literature.md",
     "Unorganized/General Notes/Building Anytype on Linux.md",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Terrible Bible Verses.md",
     "Unorganized/Studying Social Problems (to solve them)/Religious Discourse/Quran Verses in Context.md",
-    "Personal/Creative and Recreational/Graphics Software.md",
+    "🤠 Personal/Creative and Recreational/Graphics Software.md",
     "Unorganized/General Notes/Standards Organizations.md",
     "World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Java GUI Libraries.md",
@@ -219,8 +218,8 @@
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "Unorganized/General Notes/Design Elements.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
-    "Personal/Leisure/Animes.md",
-    "Personal/Leisure/TV Shows.md",
+    "🤠 Personal/Leisure/Animes.md",
+    "🤠 Personal/Leisure/TV Shows.md",
     "Unorganized/Explanatory Articles/Decentralization in Web3 vs Anti-capitalism.md",
     "Unorganized/General Notes/Free Software Index.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
