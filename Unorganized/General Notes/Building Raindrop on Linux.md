@@ -10,3 +10,5 @@ It looks like the latest commit titled "Upgrade Electron" (Jun 26 2023) that rep
 - Latest release (5.6.5, from Jun 5 2023) is still from the Action, so I guess I can just use that.
 - Linux build script was last modified many commits ago, in Jul 2022 (i.e. before the latest commit)
 
+Wait, it only has Snap builds for now!!
+
