@@ -29,4 +29,12 @@
 - Any other data would be more relevant than using names, and everything would be numeric IDs.
 - Sounds would be seen as bloated encoders of data, unless it is just background noise.
 - Noise would be a fundamental, unavoidable quality of the universe.
-- Any data represented in sound however, would be meaningless.
+- Any data represented in sound however, would be a waste of space.
+- That is, unless sounds serve a purpose, in some psychological manner, due to the connection between ears and brains, perhaps even in a response to previously stored memories in the brain.
+- However, that has to be very fundamental, and not something that can be achieved in a smaller quantity of sound.
+- For example, music can touch one's emotions.
+- It can be argued that simple tones can influence emotions too.
+
+- Is our thinking of "sound" in terms of frequencies correct?
+- We do know sound is composed of vibrations, and hence sine waves.
+- But sound is not audio, sound is the brain's response to a specific range of audio.
