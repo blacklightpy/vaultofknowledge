@@ -324,7 +324,6 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Virtual Machines]]
 				- [[Webhooks]]
 			- **Graphics and GUI Development**
-				- [[Graphics Libraries 1]]
 				- [[Graphics Libraries]]
 				- [[Java GUI Libraries]]
 			- [[Hacking]]

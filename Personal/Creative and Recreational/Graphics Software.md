@@ -1,4 +1,3 @@
-# Software
 ## Desktop
 
 ### Drawing
