@@ -48,4 +48,7 @@
 - Sure, it is possible, and mathematically valid; however, is it fundamental?
 - I think that vibrations are the natural state of an undisturbed field, however, the fields in our universe are not undisturbed.
 - That's not to say there can't be an undisturbed universe. It just wouldn't be alive.
-- A universe should have a prime motive configuration. This should be a cellular automata
+- A universe should have a prime mover configuration.
+- Now, "should" is a bit questionable for me once again, because if we consider a [[cellular automaton]], I cannot say for certain that any configuration cannot arise from any other configuration, or that, all configurations will arise naturally from cellular automata, with the exception of [[Garden of Eden Patterns|Garden of Eden patterns]]
+- If I could know that for sure, one could say that a universe could either be "natural" or "created".
+- We would then also have to see if there is

@@ -1,6 +1,6 @@
 According to the designer of the Connection Machine:
 
-- Feynman cited the Game of Life as an example of cellular automata.
+- Feynman cited the Game of Life as an example of [[cellular automaton|cellular automata]].
 - He wondered what was at the smallest level of the universe.
 - One possible answer was that it was a cellular automaton.
 - The notion is that, at the lowest level, the "continuum" might be discrete in both space and time, and the laws of physics might be a macroscopic result of the behaviour of those tiny cells.
