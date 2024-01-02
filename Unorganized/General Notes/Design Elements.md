@@ -1,7 +1,9 @@
 - Whitespaces and Information Spacing
 - Compactness and Information Density
-- Visual Heirarchy
+- Visual Hierarchy
 - Font typeface, size and weight
+- Cursor Styles
+- Tooltip Texts
 - Colour Scheme
 - Grayscale Colour Scheme
 - Intuitiveness
