@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "🗃️ Unorganized/General Notes/Building Anytype on Linux.md"
               }
             }
           },
@@ -202,11 +202,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "94f7e0192d37f526",
   "lastOpenFiles": [
+    "Home.md",
     "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
     "🗃️ Unorganized/General Notes/Building Anytype on Linux.md",
-    "Home.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/UI Design.md",
     "🤠 Personal/Creative and Recreational/Design.md",
     "🗃️ Unorganized/General Notes/Layouts.md",
