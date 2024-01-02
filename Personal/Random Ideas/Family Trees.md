@@ -2,7 +2,7 @@ I've been wondering about what data structure a family tree would be best repres
 
 > [!NOTE]
 > As a fun note, I think calculating the complete human family tree would take terabytes of data assuming about 150 bytes of data per record of the database and 190 billion humans ever to have lived on Earth.
-## Premise
+# Premise
 These are the generations (except great-great-grandparents) up to which I'm interested in calculating. Most likely I won't be able to complete all the data, but at least I can try.
 
 - Their Parents (Can add later if available) \[They would be in 1800s, assuming everyone lives to 100, and have kids at 30\] \[\Strangely, I figured out my dad was born when grandpa was 47\]
@@ -12,8 +12,8 @@ These are the generations (except great-great-grandparents) up to which I'm inte
 - Me
 
 I will also be including cousins, their parents, and all of their parents, and so on.
-## What I tried
-### Model 1: Starting from the top
+# What I tried
+## Model 1: Starting from the top
 At first, I tried starting from the parents of grandparents (and assumed an X for their siblings). I did not realize I was only considering one of my parents' grandparents, and I was thinking along my father's family side, since that's the only side I knew the name of a great-grandparent.
 
 But this isn't an issue in principle, as we have to start somewhere, and apparently, anywhere would do just fine. We just have to model from there, and therefore choosing a right spot can come in handy. Ideally this model can find out all the children, siblings and ancestors from any individual.
@@ -48,7 +48,7 @@ The number of children will be (1+2X)YZN
 Before calculating the total number of members, one thing I noticed here is that my attempts to calculate backwards to the parents of the spouses are flawed, because then I'll have to consider their siblings and their spouses' and children's family trees too. But that in mind, I can stop this section, and maybe I should remove the multiplier to the number of parents since I don't want to be taking note of the parents of spouses.
 
 I guess I could keep them but then just avoid listing the chains of siblings of spouses.
-### Model 2: Starting at the bottom
+## Model 2: Starting at the bottom
 
 When starting at the bottom, I can still choose include my cousins, just as I have included the siblings of my grandparents.
 
@@ -56,7 +56,7 @@ And when going upwards, the general principle is that we do not come down. Or, w
 
 The numbers obtained in both ways won't match up though for obvious reasons, as the tracks of exploration will turn out different.
 
-### Model 3: Going up and down
+## Model 3: Going up and down
 This was what I thought the real answer was when I started writing this article, only to later realize that I had made a minor mistake. In the end, going up and down traverses both up and down, as well as towards the sides outward going up and down in a zigzag motion.
 
 Going up and down will only end if you have enough data, and people intermarry well enough. That may not be ideal, and hence won't be possible with any real world data.
