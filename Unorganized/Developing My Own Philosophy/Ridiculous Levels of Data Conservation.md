@@ -35,14 +35,7 @@
 - For example, music can touch one's emotions.
 - It can be argued that simple tones can influence emotions too.
 
-- Is our thinking of "audio" in terms of frequencies correct?
-- We do know sound is composed of vibrations, and hence sine waves.
-- But audio is not sound, audio is the brain's response to a specific range of sound.
-- Audio could be a macroscopic effect fundamentally, and a single frequency could simply be perceived as a combination of tones.
-- For example, as ((tone a + tone b) - (tone c + tone d))
-- The combination of the tones 'a' and 'b' could have a set of harmonics close to the combination of the tones 'c' and 'd'.
-- That is to say, the brain could only understand tones, not individual frequencies.
-- This is similar to how our eyes do not really understand specific frequencies of electromagnetic waves, but only the [[Spectral Responsivity|spectral response]] of the [[tristimulus]] from the different types of photocells in our eyes.
+- [[Is audio fundamentally comprised of frequencies]] (moved to a separate page)
 
 - Even considering electromagnetic waves, is it correct for us to consider that every disturbance or sound can be modeled as a combination of harmonics?
 - Sure, it is possible, and mathematically valid; however, is it fundamental?
@@ -51,4 +44,4 @@
 - A universe should have a prime mover configuration.
 - Now, "should" is a bit questionable for me once again, because if we consider a [[cellular automaton]], I cannot say for certain that any configuration cannot arise from any other configuration, or that, all configurations will arise naturally from cellular automata, with the exception of [[Garden of Eden Patterns|Garden of Eden patterns]]
 - If I could know that for sure, one could say that a universe could either be "natural" or "created".
-- We would then also have to see if there is
+- We would then also have to see if there is any advantage for either case of cellular automata to consider our universe as either "created" or "natural", when thinking with this framework.
