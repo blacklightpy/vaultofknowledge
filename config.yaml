@@ -61,6 +61,12 @@ navbar_links:
   - name: GitHub
     link: https://github.com/blacklightpy/vaultofknowledge
     type: external
+  - name: Draft Blog
+    link: https://hypotheticallyy.blogspot.com
+    type: external
+  - name: Mastodon
+    link: https://ohai.social/@ssunboyy
+    type: external
 file_exports:
   - encoding: binary
     src: _images/favicon.ico
@@ -122,7 +128,7 @@ toggles:
     folder_notes:
       enabled: true
       placement: inside folder
-      naming: Index
+      naming: 'folder name'
     eraser:
       enabled: true
     breadcrumbs:
