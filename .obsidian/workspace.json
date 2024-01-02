@@ -11,8 +11,13 @@
             "id": "898f9f86701d0822",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Be happy, not proud.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Be happy, not proud.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Be happy, not proud.md"
+                "file": "Home.md"
               }
             }
           },
@@ -150,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +173,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "898f9f86701d0822",
   "lastOpenFiles": [
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Predator or Prey.md",
     "Unorganized/Developing My Own Philosophy/Unorganized or Incomplete Ponderings/Philosophy of Religion.md",
