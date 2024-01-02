@@ -86,7 +86,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[Field Programmable Gate Arrays]]
 		- [[GPUs]]
 		- [[Lens Mounts]]
-		- [[World Building/Science and Engineering/Engineering Resources/Engineering Components/Motors]]
+		- [[World Building 🔮/Science and Engineering/Engineering Resources/Engineering Components/Motors]]
 		- [[Quanta Image Sensors]]
 		- [[Secure Cryptoprocessor]]
 		- [[SIM Cards]]
@@ -101,7 +101,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Mobile Industry Processor Interface]]
 			- [[Ports and Connectors]]
 			- [[Voltage Level Standards]]
-		- [[OSI Model]]
+		- [[World Building 🔮/Science and Engineering/Engineering Resources/Engineering Standards/OSI Model]]
 		- **Standards Organizations**
 			- [[Institute of Electrical and Electronics Engineers]]
 			- [[Internet Engineering Task Force]]
@@ -121,7 +121,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 		- [[ITU Radiocommunication Sector]]
 		- [[ITU Standardization Sector]]
 		- [[Modulation]]
-		- [[OSI Model]]
+		- [[World Building 🔮/Science and Engineering/Engineering Resources/Engineering Standards/OSI Model]]
 		- [[Pulse Width Modulation]]
 	- **[[DevOps]]**
 		- [[Blue Green Deployment]]
@@ -205,7 +205,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Lyapunov Stability]]
 			- [[PID Control]]
 			- [[State Observers]]
-			- [[World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function]]
+			- [[World Building 🔮/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function]]
 		- **[[Data Science]]**
 			- [[Data Acquisition]]
 		- **Digital Signal Processing**
@@ -326,7 +326,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- **Graphics and GUI Development**
 				- [[Graphics Libraries]]
 				- [[Java GUI Libraries]]
-			- [[Hacking]]
+			- [[World Building 🔮/Science and Engineering/Mathematics/Computer Science/Hacking]]
 			- [[Matrix Protocol]]
 			- [[No Code Platforms]]
 			- [[Popular Types of Development]]
@@ -377,7 +377,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 				- [[Web Technologies]]
 				- [[Website Encryption]]
 				- [[YAML]]
-		- [[Hacking]]
+		- [[World Building 🔮/Science and Engineering/Mathematics/Computer Science/Hacking]]
 		- **Hardware**
 			- [[FPGAs]]
 			- **Hardware Design**
