@@ -46,11 +46,11 @@ audio_format_suffixes:
 embeddable_file_suffixes:
   - pdf
 md_source_host_urls: []
-site_name: Vault of Knowledge
+site_name: Vault of Knowledge - A place where I take notes
 html_url_prefix: '/vaultofknowledge'
 html_template_path_str: ''
 html_custom_inclusions:
-  - <meta name="description" content="This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about. You can call this a knowledge-base or to use the modern terminology, a second brain or digital garden.">
+  - <meta name="description" content="This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about.">
   - <meta name="google-site-verification" content="UirlDYot4I965EnU-iSvktvULg5K7pwkFCuTXxeUs78" />
   - <link rel="me" href="https://ohai.social/@ssunboyy" />
   - <link rel="me" href="https://firefish.social/@jyzkms" />
