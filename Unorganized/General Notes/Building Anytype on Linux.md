@@ -10,6 +10,8 @@ From build.yml
 - Update locale: `npm run update:locale`
 - **Commented Out** - Update Deps: `npm run build:deps`
 - Install anytype-heart:  `./update-ci.sh ubuntu-latest amd`
-- 
+- Electron Build
+	- `npm install .`
+	- 
 	- release: ${{ startsWith(github.ref, 'refs/tags/v') }}
 - The releases (Snap, DEB, RPM, Flatpak) will be in "dist" folder.
