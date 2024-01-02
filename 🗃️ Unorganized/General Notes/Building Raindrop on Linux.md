@@ -26,3 +26,5 @@ Raindrop also has the "app" repository, which builds for Electron. I should try 
 - Install dependencies: `npm i`
 - Build for Web and Electron: `npm run build && npm run build:electron`
 - Files will be in dist/.zip
+
+Apparently "app" is a submodule in desktop, under the "webapp" folder.
