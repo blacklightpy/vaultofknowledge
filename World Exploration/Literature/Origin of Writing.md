@@ -35,7 +35,8 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Logograms or Lexigram
 	- A logogram is a written character that represents a whole word
 	- Logographic systems often included phonograms, usually used according to the rebus principle, in which a pure ideogram was suffixed with a phonogram in an attempt to clarify meaning.
-- Examples of pure logograms: https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1
+- Examples of pure logograms
+	- [Answer by Oscar Tay on "What are the languages that are only spoken and what are the languages that are only written?" | Quora](https://www.quora.com/What-are-the-languages-that-are-only-spoken-and-what-are-the-languages-that-are-only-written/answer/Oscar-Tay-1?share=1)
 
 ## Elements of Phonetic Articulation
 - Consonants (In articulatory phonetics, a consonant is a speech sound that is articulated with complete or partial closure of the vocal tract)

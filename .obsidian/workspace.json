@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72d9b2e2f847366e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unorganized/General Notes/Problems with Modern World.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -204,6 +217,8 @@
   },
   "active": "7771a5d4ea085d0a",
   "lastOpenFiles": [
+    "Unorganized/General Notes/Problems with Modern World.md",
+    "World Exploration/Literature/Origin of Writing.md",
     "Unorganized/General Notes/Ridiculous Levels of Data Conservation.md",
     "Unorganized/General Notes/Untitled.md",
     "Personal/Random Ideas/Family Trees.md",
@@ -231,8 +246,6 @@
     "Personal/Knowledge/Concepts of Interest.md",
     "Personal/Knowledge/Graphics.md",
     "Personal/Knowledge/Literature.md",
-    "Personal/Knowledge/Music.md",
-    "Personal/AVIASYS Related/Teams.md",
     "Personal/AVIASYS Related/Project Management/Software",
     "Personal/AVIASYS Related/Project Management/Software/Ways to Use Software",
     "Personal/AVIASYS Related/Project Management",
