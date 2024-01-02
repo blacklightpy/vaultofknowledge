@@ -56,7 +56,9 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 - Lexeme
 	- It comes from Latin lexis, which comes from Ancient Greek word λέξις (léxis), meaning "word" + -eme, which means a unit in a linguistic structure, extracted from the Ancient Greek word φώνημα (phṓnēma), meaning "sound".
  	- λέξις (léxis) comes from the combination of λέγω (légō), meaning "speak" +‎ -σῐς (-sis), a suffix referring to a process. -σῐς (-sis) was a modification of the original sound -τις (-tis) due to palatilization (the change in sound due to differences in speech capabilities due to differences in the palates, or roof of the mouth).
----
+
+While I was at it, I decided to see the etymology of the words "palates" and "assibilate", 
+
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
 - assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
  	- I couldn't get any further etymology for \*sweysd, but I found out about \*swe and \*dwes, which caught my attention because of language proximity.
@@ -160,6 +162,7 @@ Not related, but fun fact: murti is an anagram of timur > Timurids > Tamerlane >
 > Database of languages and families: https://glottolog.org/glottolog/family
 
 There are many, but I'll name just a few I'm familiar with:
+## Indo-European family
 - Indo-European (Includes Vedic Sanskrit, Greek, Hittite, Latin, etc.)
 	- Pre-Anatolian (4200 BC)
 		- Hittite (Earliest recorded Indo-European Language)
@@ -310,22 +313,19 @@ There are many, but I'll name just a few I'm familiar with:
 					- Dutch and German
 				- Russian, to Central Asia and North Asia.
 
-- Greek, Armenian
-- Celtic, Slav, Baltic, Germanic, Italic
-- North Germanic, West Germanic, East Germanic
-
+## Afro-Asiatic
 - Afro-Asiatic
 	- Semitic Languages
+
+## Dravidian
 - Dravidian
 	- Malayalam
 	- Tamil
- 	- Kannada
-  	- Telugu
-  	- Tulu
-  	- Kodava
-  	- Brauhi
-
-
+	- Kannada
+	- Telugu
+	- Tulu
+	- Kodava
+	- Brauhi
 # Images
 - Indo-European Language Families
 	- ![[Indo-European_language_tree_(with_major_international_languages_highlighted).svg]]
