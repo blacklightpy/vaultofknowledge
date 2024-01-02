@@ -2,7 +2,9 @@
 
 Even if it presents the theoretical possibility, economic value has to be generated to distribute any wealth, and if Web3 projects don't do that very well globally, it will be no different from the previous state of the world, and this is why many people call Web3 a scam although I feel that many Web3 developers had good intentions.
 
-The problem is that Web3 doesn't give an incentive to generate value, aside from promising a profit for being miners, which is the problem this article addresses.
+The problem is that Web3 doesn't give an incentive to generate value, aside from promising a profit for being miners. But that incentive simply continues the problems of capitalism, as I'll explain in this article. So many developers tried to create artificial value using projects like NFTs, etc. Again, the problem with capitalism is exactly that it creates artificial value and wastes efforts that would otherwise go to developing the society - at least Web3 visionaries did not have the greed part.
+
+Sadly, th"The road to hell is paved with good intentions".
 # Web3
 ## The effects of capitalism even in decentralization
 - Web3 uses cryptocurrencies
