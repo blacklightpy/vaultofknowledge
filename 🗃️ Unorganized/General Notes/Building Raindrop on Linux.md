@@ -16,7 +16,9 @@ Wait, it only has Snap builds for now!!
 - First clone the git repository
 - Merge submodules
 - Readme says `npm`, but it used to be `yarn`
-- Readme says `npm build`, but it used to be yarn `build:linux`
+- Readme says `npm build`, but it used to be `yarn build:linux`
+- Debugging commits will be hard, and I'm sleepy
+- So I think the right way is to checkout to an older commit, and build with `yarn`.
 # GitHub: raindropio/app
 Raindrop also has the "app" repository, which builds for Electron. I should try it too.
 
