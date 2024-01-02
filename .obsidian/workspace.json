@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unorganized/General Notes/PDE Solver.md",
+                "file": "Personal/Project Ideas/Coding a PDE Solver.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unorganized/General Notes/PDE Solver.md",
+                "file": "Personal/Project Ideas/Coding a PDE Solver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unorganized/General Notes/PDE Solver.md",
+                "file": "Personal/Project Ideas/Coding a PDE Solver.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unorganized/General Notes/PDE Solver.md"
+                "file": "Personal/Project Ideas/Coding a PDE Solver.md"
               }
             }
           },
@@ -217,7 +217,7 @@
   "active": "e8fcd4e8ebe66b37",
   "lastOpenFiles": [
     "Personal/Project Ideas/Project Ideas (old list).md",
-    "Unorganized/General Notes/PDE Solver.md",
+    "Personal/Project Ideas/Coding a PDE Solver.md",
     "Unorganized/General Notes/Thinking About How to Convery Information.md",
     "Personal/Project Ideas/Designing a V8 Engine.md",
     "Personal/Project Ideas",
