@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bc0d1f974379a36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md"
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
               }
             }
           },
@@ -279,11 +266,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bc0d1f974379a36e",
+  "active": "c1c8a27142d26df1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md",
     "🗃️ Unorganized/General Notes/Cold Dark Matter.md",
-    "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/More about why electric field and magnetic field aren't relativistic effects of one another.md",
     "🗃️ Unorganized/Explanatory Articles/Understanding Quantum Fields.md",
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
