@@ -1,4 +1,6 @@
-A waveguide is used to direct a wave along a specific path. But waves emitted from a body falls off as it spreads out 
+A waveguide is used to direct a wave along a specific path. But waves emitted from a body falls off as it spreads out in all directions by the inverse of the area of the sphere intersecting the point originating at the source. So a wave needs amplification to keep flowing.
+
+Aside from the amplifiers used in discrete points in telecommunications, the medium itself serves as an amplifier to counteract the attenuation of the fields
 # Types
 - Acoustic Waveguides
 	- Tin Can Telephone
