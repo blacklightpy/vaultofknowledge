@@ -1,6 +1,10 @@
 - The basic field is electromagnetic, but depending on our frame of reference, we will measure the values of electric field and magnetic field values differently.
-- That is, there are no separate
+- That is, there are no separate electric and magnetic fields, because both are connected aspects of the electromagnetic field.
+- One could say that the magnetic field is just a relativistic effect of the electric field in certain reference frames, but the one would have to always stick to a reference frame where the charge carriers in question are stationary.
+- And they would certainly not be able explain the fields from a charge an a magnet kept together in a system, or at least a stationary charge and a moving charge.
+
 - Changing electric field produces a magnetic field and vice versa.
+- Again, this is because 
 - To do that, we have to accelerate a charge carrier, which are the only things through which we can alter the field.
 - We can also move magnets, which are aggregates of moving electrons producing a magnetic field.
 - That is, we can only move charge carriers or aggregates of charge carriers, and we only have charge carriers for the electric field, but not for the magnetic field since we haven't observed any [[magnetic monopoles]].
