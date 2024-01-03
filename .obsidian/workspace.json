@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+                "file": "🗃️ Unorganized/General Notes/quantized electromagnetic field tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+                "file": "🗃️ Unorganized/General Notes/quantized electromagnetic field tensor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md"
+                "file": "🗃️ Unorganized/General Notes/quantized electromagnetic field tensor.md"
               }
             }
           },
@@ -306,12 +306,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bc0d1f974379a36e",
+  "active": "c1c8a27142d26df1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Klein Bottle.md",
     "🗃️ Unorganized/General Notes/quantized electromagnetic field tensor.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
     "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
