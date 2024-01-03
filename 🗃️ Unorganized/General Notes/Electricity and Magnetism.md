@@ -1,4 +1,7 @@
-- The universe is comprised of basic fundamental fields
+- The universe is comprised of basic fundamental fields as we have learned to describe it, and each field has it's own particles, which are points in space that affect the values of the field at that point.
+- Each point in space has a specific value for the intensity of each field at that point.
+- We have the electromagnetic field, 
+
 - The basic field is electromagnetic, but depending on our frame of reference, we will measure the values of electric field and magnetic field values differently.
 - That is, there are no separate electric and magnetic fields, because both are connected aspects of the electromagnetic field.
 - One could say that the magnetic field is just a relativistic effect of the electric field in certain reference frames, but the one would have to always stick to a reference frame where the charge carriers in question are stationary.
