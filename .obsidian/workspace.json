@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "336cf16b34893e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
+                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md"
               }
             }
           },
@@ -280,10 +293,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e02808b88fe5ceef",
+  "active": "336cf16b34893e57",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
+    "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
     "README.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
@@ -307,7 +321,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/General Notes/Magnetic Field in AC vs DC.md",
     "🗃️ Unorganized/General Notes/Transformer.md",
-    "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",

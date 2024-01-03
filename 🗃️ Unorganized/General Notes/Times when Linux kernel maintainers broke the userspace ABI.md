@@ -1,0 +1,4 @@
+- K3b bug
+- OSS to ALSA transition (did it break?)
+- cgroups v2
+- Ending support for ELF binaries (they introduced a compatibility tool before doing it though)
