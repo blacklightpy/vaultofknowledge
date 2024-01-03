@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e02808b88fe5ceef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
               }
             }
           },
@@ -171,13 +185,15 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "e02808b88fe5ceef",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/cc-zero-shield.md",
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "README.md",
+    "🗃️ Unorganized/General Notes/cc-zero-shield.md",
     "LICENSE.md",
     "🗃️ Unorganized/General Notes/Text Notes to Import.md",
     "Untitled.md",
@@ -202,7 +218,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Java GUI Libraries.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
-    "🗃️ Unorganized/General Notes/Design Elements.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
