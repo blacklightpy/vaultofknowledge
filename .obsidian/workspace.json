@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b658953e221a8f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Visible Spectrum in Life Forms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Could Ears See.md",
+                "file": "🗃️ Unorganized/General Notes/Visible Spectrum in Life Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Could Ears See.md",
+                "file": "🗃️ Unorganized/General Notes/Visible Spectrum in Life Forms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Could Ears See.md"
+                "file": "🗃️ Unorganized/General Notes/Visible Spectrum in Life Forms.md"
               }
             }
           },
@@ -241,11 +254,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cfe39d4b677f1522",
+  "active": "b658953e221a8f6f",
   "lastOpenFiles": [
+    "_images/Pasted image 20240103210806.png",
+    "🗃️ Unorganized/General Notes/Visible Spectrum in Life Forms.md",
+    "🗃️ Unorganized/General Notes/Could Ears See.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Sensitivity.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/inodes.md",
-    "🗃️ Unorganized/General Notes/Could Ears See.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
@@ -267,8 +282,6 @@
     "🗃️ Unorganized/General Notes/Text Notes to Import.md",
     "Untitled.md",
     "Text.md",
-    "🤠 Personal/Project Ideas/Project Ideas (old list).md",
-    "🤠 Personal/Project Ideas/Designing a V8 Engine.md",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
