@@ -1,0 +1,7 @@
+- Electromagnetic field is like water
+- Photons are like waves
+- Electrons are like molecules
+- When we see water, we don't see the atoms, we also see what's not covered by atoms
+- In fact, we only see what connects the atoms - the electromagnetic field
+- When atoms move, the field moves, and what we see is the ripples
+- And they will never remain still, but if they did, we wouldn't see them, and it would be dark everywhere

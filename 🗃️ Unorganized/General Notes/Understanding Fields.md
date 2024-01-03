@@ -1,4 +1,0 @@
-- Electromagnetic field is like water
-- Photons are like waves
-- Electrons are like molecules
-- They
