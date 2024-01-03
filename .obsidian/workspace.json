@@ -89,8 +89,13 @@
             "id": "aa5ebb430b9770d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -161,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md"
+              }
             }
           },
           {
@@ -248,6 +257,7 @@
   "active": "aa5ebb430b9770d5",
   "lastOpenFiles": [
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
+    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🗃️ Unorganized/General Notes/Waveguide.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Radio.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
@@ -273,7 +283,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
     "🗃️ Unorganized/General Notes/Application Programming Interface.md",
-    "README.md",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",

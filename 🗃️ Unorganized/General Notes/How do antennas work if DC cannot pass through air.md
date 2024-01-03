@@ -1,0 +1,1 @@
+The long range fall off of electromagnetic field strength cannot make electrons drift, just like how sound doesn't move without a medium. However, AC, although it does not transmit power with a reasonable strength wirelessly, can can 
