@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "e02808b88fe5ceef",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
@@ -230,7 +231,6 @@
     "🗺️ World Exploration/History/Index.md",
     "🤠 Personal/Knowledge/Literature.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
-    "🤠 Personal/Creative and Recreational/Graphics Software.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",

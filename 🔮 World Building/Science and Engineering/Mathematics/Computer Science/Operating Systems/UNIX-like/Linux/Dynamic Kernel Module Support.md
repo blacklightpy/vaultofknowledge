@@ -1,1 +1,1 @@
-It is a framework used to manuall
+It is a framework used to recompile [[Kernel Module|kernel modules]] whenever the kernel is updated.
