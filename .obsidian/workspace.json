@@ -123,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "336cf16b34893e57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -205,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md"
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
               }
             }
           },
@@ -293,15 +280,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "336cf16b34893e57",
+  "active": "c1c8a27142d26df1",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Basics.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Open Sound System.md",
+    "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Advanced Linux Sound Architecture.md",
+    "🗃️ Unorganized/General Notes/Interesting Ways to Think of Physics.md",
     "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
-    "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
     "README.md",
@@ -316,11 +308,6 @@
     "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
     "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
     "🗃️ Unorganized/General Notes/Waveguide.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Radio.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Radio Waves.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
-    "🗃️ Unorganized/General Notes/Magnetic Field in AC vs DC.md",
-    "🗃️ Unorganized/General Notes/Transformer.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
