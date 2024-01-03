@@ -9,9 +9,9 @@ This is true for perception as well, because our eyes collect incoming electroma
 
 
 # HTML RENDERERS
-- KJS
-- Gecko
-- Google Blink
+- KDE KHTML
+- Mozilla Firefox Gecko
+- Google Chromium Blink
 - Apple WebKit
 - UltraLight
 - Modeset
