@@ -14,4 +14,4 @@ This also explains gives you insight into why the Klein bottle can be formed by 
 
 # Applications
 - In [[Quantum Field Theory|QFT]], Klein bottles can be used to represent 3-dimensional structures called "qubits".
-- Someone's idea on LinkedIn, which is a nice way to think about: [Spacetime Quarks as Klein Bottles | James Cupps | LinkedIn Pulse](https://www.linkedin.com/pulse/spacetime-klein-bottles-quarks-james-cupps)
+- Someone's idea on LinkedIn, which is a nice way to think about it to look for a theory: [Spacetime Quarks as Klein Bottles | James Cupps | LinkedIn Pulse](https://www.linkedin.com/pulse/spacetime-klein-bottles-quarks-james-cupps)
