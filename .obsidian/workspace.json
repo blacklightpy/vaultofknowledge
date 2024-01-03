@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4fa29e96384dc495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Tree Visualization Formats.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tree Visualization Formats.md",
+                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tree Visualization Formats.md",
+                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tree Visualization Formats.md"
+                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md"
               }
             }
           },
@@ -215,13 +202,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4fa29e96384dc495",
+  "active": "4fb05ef373793f9d",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Tree Visualization Formats.md",
+    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
-    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
     "🗃️ Unorganized/General Notes/Application Programming Interface.md",
