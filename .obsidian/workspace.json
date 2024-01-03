@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9c30e8847b896836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -218,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md"
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
               }
             }
           },
@@ -306,10 +293,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9c30e8847b896836",
+  "active": "c1c8a27142d26df1",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
+    "🗃️ Unorganized/General Notes/quantized electromagnetic field tensor.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
@@ -334,7 +322,6 @@
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🗃️ Unorganized/General Notes/Tree Visualization Formats.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
