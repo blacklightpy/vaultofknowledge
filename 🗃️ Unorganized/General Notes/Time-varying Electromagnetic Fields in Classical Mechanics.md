@@ -1,0 +1,1 @@
+It can be due to either of two causes. One is either charges or currents (which are described as sources), and the other is a variation in the other field.
