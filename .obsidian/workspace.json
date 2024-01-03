@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
+                "file": "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md"
               }
             }
           },
@@ -293,20 +293,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e02808b88fe5ceef",
+  "active": "336cf16b34893e57",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
     "README.md",
-    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/inodes.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Sensitivity.md",
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
