@@ -1,4 +1,4 @@
-A waveguide is used to direct a wave along a specific path.
+A waveguide is used to direct a wave along a specific path. But waves emitted from a body falls off as it spreads out 
 # Types
 - Acoustic Waveguides
 	- Tin Can Telephone
