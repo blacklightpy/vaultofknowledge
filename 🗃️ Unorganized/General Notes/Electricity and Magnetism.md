@@ -1,4 +1,4 @@
-Notes for me: EM field is a classical (non-quantum) field. It is described as a "[[quantized electromagnetic field tensor]]" in QED, which is the quantum counter part of the classical field.
+Notes for me: EM field is a classical (non-quantum) field. It is described as a "[[Quantized Electromagnetic Field Tensor]]" in QED, which is the quantum counter part of the classical field.
 
 - The universe is comprised of basic fundamental fields as we have learned to describe it, and each field has it's own particles, which are points in space that affect the values of the field at that point.
 - Each point in space has a specific value for the intensity of each field at that point.

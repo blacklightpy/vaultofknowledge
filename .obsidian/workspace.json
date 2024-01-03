@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
+                "file": "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md"
               }
             }
           },
@@ -280,17 +280,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c1c8a27142d26df1",
+  "active": "bc0d1f974379a36e",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Basics.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Open Sound System.md",
     "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Advanced Linux Sound Architecture.md",
     "🗃️ Unorganized/General Notes/Interesting Ways to Think of Physics.md",
-    "🗃️ Unorganized/General Notes/Parsing Markup.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
@@ -303,7 +303,7 @@
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/quantized electromagnetic field tensor.md",
+    "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Klein Bottle.md",
     "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
     "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
