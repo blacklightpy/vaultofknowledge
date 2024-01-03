@@ -9,6 +9,7 @@ It is used in relativistic physics, but it can be quantized by a [[Lagrangian Me
 - The electron field, also known as the electron-positron field, is a matter field, whose quanta are the electron and positron.
 - The electric field, also known as the electromagnetic field, is a force field, whose quanta are the photons.
 
-- Electrons and positrons are affected by the electromagnetic field, but neutrinos aren't.
+- All particles are excitations of their own particle-antiparticle field.
+- Charged particles such as quarks, electrons, muons and taus, and their antiparticles interact via the electromagnetic field.
+- For example, electrons and positrons are affected by the electromagnetic field, but neutrinos aren't.
 - Quarks are disturbances in the [[quarks|quark]] field, and they interact via the [[gluons|gluon]] field.
-- Charged particles such as quarks, electrons, muons and taus interact via the [[electrom]]
