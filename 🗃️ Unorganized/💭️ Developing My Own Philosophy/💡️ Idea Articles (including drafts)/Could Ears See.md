@@ -2,7 +2,9 @@ Ears don't measure electromagnetic field intensities like the eyes do. They meas
 
 SONAR is different in concept as it is about using the sound itself to see. But I'm taking about seeing through the subtle fluctuations in the electromagnetic waves that cause the vibrations.
 
-It is slightly questionable, as the hair cells may not have the ability to understand minor electromagnetic field changes, and can only be influenced by 
+It is slightly questionable, as the hair cells may not have the ability to understand minor electromagnetic field changes, and can only be influenced by the large scale electromagnetic forces which actually move the hair cells, that is the intermolecular repulsion.
+
+But if we think about the [[flow of electricity]], the speed of the field flow is higher than the speed at which electrons move, and while the drift motion of electrons is not a good indicator of how sound works as much as the frequency of AC oscillation is, it still show how the field changes do propagate far and wide. Well, due to the presence of air, the permittivity maybe really high
 
 It is somewhat like being able to read braille. A normal person touching a Braille script when blindfolded may not immediately recognize it, and they would require a great deal of processing to parse the text. But a blind person can simply place their hands on the inscription and they'll know exactly what it reads. This is because of a person's affinity to detail. The detail is present in both cases, but the person does not have the training to process it fast enough.
 # Negating argument
