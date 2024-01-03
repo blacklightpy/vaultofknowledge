@@ -595,7 +595,7 @@ Entry to Science and Engineering, the most structured folder in here (As of May 
 			- [[Supersymmetry]]
 		- [[Coleman-Mandula Theorem]]
 		- [[Effective Field Theory]]
-		- [[Electroweak interactions]]
+		- [[Electroweak Interactions]]
 		- [[Gravitational Lensing]]
 		- [[Hamiltonian]]
 		- [[Higgs Field]]
