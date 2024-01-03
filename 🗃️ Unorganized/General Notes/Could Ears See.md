@@ -1,4 +1,4 @@
-Ears don't measure electromagnetic field intensities like the eyes do. They measure the motion of the hair cells, which generate a pulse
+Ears don't measure electromagnetic field intensities like the eyes do. They measure the motion of the hair cells, which generate a field change when the hair cells are moved. 
 
 SONAR is different in concept as it is about using the sound itself to see. But I'm taking about seeing through the subtle fluctuations in the electromagnetic waves that cause the vibrations.
 
