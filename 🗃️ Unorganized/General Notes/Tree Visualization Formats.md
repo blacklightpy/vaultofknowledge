@@ -1,0 +1,10 @@
+- Circular
+	- Limitations: Fails to handle complexity
+- Linear
+	- Limitations: Fails to handle universal visibility (seeing all subsections at once)
+- Collapsed circular
+	- Limitations: Fails to handle complete visibility (seeing deeper subsections)
+- Linear collapsed flowchart
+	- Limitations: Fails to handle complete visibility (seeing deeper subsections)
+- Linear collapsed
+	- Limitations: Fails to handle complete visibility (seeing deeper subsections)
