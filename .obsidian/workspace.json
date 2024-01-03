@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "136c5c077d7c5cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to Play Metal Gear Rising Revengeance in musl libc using Flatpak.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+                "file": "🗃️ Unorganized/General Notes/How to Play Metal Gear Rising Revengeance in musl libc using Flatpak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
+                "file": "🗃️ Unorganized/General Notes/How to Play Metal Gear Rising Revengeance in musl libc using Flatpak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md"
+                "file": "🗃️ Unorganized/General Notes/How to Play Metal Gear Rising Revengeance in musl libc using Flatpak.md"
               }
             }
           },
@@ -306,8 +319,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bc0d1f974379a36e",
+  "active": "136c5c077d7c5cbd",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to Play Metal Gear Rising Revengeance in musl libc using Flatpak.md",
     "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/quantized electromagnetic field tensor.md",
@@ -334,7 +348,6 @@
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Quantum Efficiency.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
-    "🗃️ Unorganized/General Notes/Tree Visualization Formats.md",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
