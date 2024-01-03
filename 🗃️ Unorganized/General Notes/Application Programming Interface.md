@@ -1,0 +1,1 @@
+It is a high level endpoint to use a library or service within a program or script.
