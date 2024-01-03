@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Sensitivity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe39d4b677f1522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Could Ears See.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "🗃️ Unorganized/General Notes/Could Ears See.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "🗃️ Unorganized/General Notes/Could Ears See.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md"
+                "file": "🗃️ Unorganized/General Notes/Could Ears See.md"
               }
             }
           },
@@ -228,11 +241,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fa821dc903f65f93",
+  "active": "cfe39d4b677f1522",
   "lastOpenFiles": [
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md",
+    "🗃️ Unorganized/General Notes/Could Ears See.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Sensitivity.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
@@ -254,9 +269,7 @@
     "Text.md",
     "🤠 Personal/Project Ideas/Project Ideas (old list).md",
     "🤠 Personal/Project Ideas/Designing a V8 Engine.md",
-    "🤠 Personal/Project Ideas/Coding a PDE Solver.md",
     "🤠 Personal/Project Ideas",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Terrible Bible Verses.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
