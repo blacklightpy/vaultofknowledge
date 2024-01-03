@@ -1,0 +1,1 @@
+DC produces a static magnetic field, while AC produces an oscillating magnetic field. This is why AC devices like [[Transformer|transformers]] work.

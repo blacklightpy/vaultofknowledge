@@ -1,0 +1,1 @@
+It is a device used in AC circuits to shift the ratio of voltage and current from a power source.
