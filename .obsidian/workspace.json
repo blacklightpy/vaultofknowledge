@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Parsing Markup.md",
+                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Parsing Markup.md",
+                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Parsing Markup.md"
+                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md"
               }
             }
           },
@@ -280,7 +280,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "86ae0c512f713942",
+  "active": "a581315c406370a5",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
