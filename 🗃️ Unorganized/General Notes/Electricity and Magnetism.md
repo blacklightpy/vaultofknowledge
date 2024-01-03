@@ -1,0 +1,5 @@
+- Changing electric field produces a magnetic field and vice versa.
+- To do that, we have to accelerate a charge carrier, which are the only things through which we can alter the field.
+- We can also move magnets, which are aggregates of moving electrons producing a magnetic field.
+- That is, we can only move charge carriers or aggregates of charge carriers, and we only have charge carriers for the electric field, but not 
+- Changing acceleration of a charge carrier produces a change in the change of an electric field.
