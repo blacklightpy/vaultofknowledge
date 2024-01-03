@@ -11,3 +11,6 @@ It is not a miracle that happened by twisting the strip, but rather, the idea of
 This also explains gives you insight into why the Klein bottle can be formed by attaching two Mobius strips (or looping one in 360 degrees) - because it's the same way a cylinder can be built from a plain strip.
 
 ![[Klein bottle.svg.png]]
+
+# Applications
+- In [[Quantum Field Theory|QFT]], Klein bottle

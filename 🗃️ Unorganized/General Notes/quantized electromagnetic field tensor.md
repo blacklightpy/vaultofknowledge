@@ -6,4 +6,5 @@ From Wikipedia:
 
 It is used in relativistic physics, but it can be quantized by a [[Lagrangian Mechanics|Lagrangian]] formulation.
 # Doubt clearance
-- The electron field, is known as the
+- The electron field, also known as the electron-positron field, is a matter field, whose quanta are the electron and positron.
+- The electric field, also known as the electromagnetic field, is a force field, whose quanta are the photons.
