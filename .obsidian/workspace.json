@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md",
+                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md",
+                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md",
+                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md"
+                "file": "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md"
               }
             }
           },
@@ -281,8 +281,9 @@
   },
   "active": "bc0d1f974379a36e",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md",
+    "🗃️ Unorganized/General Notes/Cold Dark Matter.md",
+    "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/More about why electric field and magnetic field aren't relativistic effects of one another.md",
     "🗃️ Unorganized/Explanatory Articles/Understanding Quantum Fields.md",
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
@@ -306,7 +307,6 @@
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Dynamic Kernel Module Support.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",

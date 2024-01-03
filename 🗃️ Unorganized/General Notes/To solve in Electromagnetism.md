@@ -1,4 +1,4 @@
 - [[Magnetic Monopoles]]
 - [[Abraham–Minkowski controversy]]
-- Electroperception
-- Magnetoperception
+- Electroperception: Organisms sensing electric field
+- Magnetoperception: Organisms sensing Earth's magnetic field
