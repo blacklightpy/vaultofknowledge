@@ -1,13 +1,16 @@
+- The universe is comprised of basic fundamental fields
 - The basic field is electromagnetic, but depending on our frame of reference, we will measure the values of electric field and magnetic field values differently.
 - That is, there are no separate electric and magnetic fields, because both are connected aspects of the electromagnetic field.
 - One could say that the magnetic field is just a relativistic effect of the electric field in certain reference frames, but the one would have to always stick to a reference frame where the charge carriers in question are stationary.
 - And they would certainly not be able explain the fields from a charge an a magnet kept together in a system, or at least a stationary charge and a moving charge.
 
-- Changing electric field produces a magnetic field and vice versa.
-- Again, this is because 
+- Changing electric field at a point produces a changing magnetic field at that point and vice versa.
+- We call this electromagnetic induction, that is, the induction of a change in magnetic field from a change in the electric field and vice versa.
 - To do that, we have to accelerate a charge carrier, which are the only things through which we can alter the field.
 - We can also move magnets, which are aggregates of moving electrons producing a magnetic field.
 - That is, we can only move charge carriers or aggregates of charge carriers, and we only have charge carriers for the electric field, but not for the magnetic field since we haven't observed any [[magnetic monopoles]].
+- Again, this change is due to the fact that to bring about this change, 
+
 - Changing acceleration of a charge carrier produces a change in the change of an electric field, that is a change in the magnetic field, and that will produce yet another electric field outward, and as the magnetic field keeps varying, that electric field will also keep varying and hence the disturbances keep propagating outward as a wave.
 - The key idea here is that electrons in a circuit move at a drift velocity rather than accelerate, and that is why there is no change in the magnetic field.
 - The reason there is no change is because when it is moving at a constant velocity, since the speed of light is constant too, there is always a frame is which the charge carrier is stationary, but the electric field is not
