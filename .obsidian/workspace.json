@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md"
               }
             }
           },
@@ -230,12 +230,13 @@
   },
   "active": "fa821dc903f65f93",
   "lastOpenFiles": [
-    "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Sensitivity.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Quantum Efficiency.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Responsivity.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Spectral Sensitivity.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Quantum Efficiency.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/inodes.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Kernel Space/Kernel Module.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
@@ -256,7 +257,6 @@
     "🤠 Personal/Project Ideas/Coding a PDE Solver.md",
     "🤠 Personal/Project Ideas",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Terrible Bible Verses.md",
-    "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
