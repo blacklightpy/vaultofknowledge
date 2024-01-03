@@ -1,5 +1,6 @@
+- The basic field is electromagnetic, but depending on our frame of reference, we will measure the values of electric field and magnetic field values differently.
 - Changing electric field produces a magnetic field and vice versa.
 - To do that, we have to accelerate a charge carrier, which are the only things through which we can alter the field.
 - We can also move magnets, which are aggregates of moving electrons producing a magnetic field.
-- That is, we can only move charge carriers or aggregates of charge carriers, and we only have charge carriers for the electric field, but not 
-- Changing acceleration of a charge carrier produces a change in the change of an electric field.
+- That is, we can only move charge carriers or aggregates of charge carriers, and we only have charge carriers for the electric field, but not for the magnetic field since we haven't observed any [[magnetic monopoles]].
+- Changing acceleration of a charge carrier produces a change in the change of an electric field, that is a change in the magnetic field, and 
