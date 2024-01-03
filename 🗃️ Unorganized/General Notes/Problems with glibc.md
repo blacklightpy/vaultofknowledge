@@ -4,4 +4,10 @@ You can view the compatibility graph [here](https://abi-laboratory.pro/?view=tim
 # Comparison with Linux kernel ABI
 The Linux kernel userspace ABI is also completely forwards compatible by principle, and it also tries to be backwards compatible as much as possible. Linus Torvalds gets very angry if someone suggests the user to change their ways.
 
-A problem with this is that the system call design seems poorly designed, and the reason is definitely an aversion to change, thus sticking with the original ways. In on
+A problem with this is that the system call design seems poorly designed, and the reason is definitely an aversion to change, thus sticking with the original ways. In one or two
+
+Also the Linux kernel apparently does not provide a stable ABI for modules, so kernel drivers always have to be recompiled.
+
+Kernel modules are not baked into the kernel, and are separately compiled. Still, they are in the kernel space. 
+
+Frameworks like DKMS can work around this issue.
