@@ -13,4 +13,4 @@ This also explains gives you insight into why the Klein bottle can be formed by 
 ![[Klein bottle.svg.png]]
 
 # Applications
-- In [[Quantum Field Theory|QFT]], Klein bottle
+- In [[Quantum Field Theory|QFT]], Klein bottles can be used to represent 3-dimensional structures called "qubits".
