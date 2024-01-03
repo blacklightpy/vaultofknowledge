@@ -1,0 +1,1 @@
+Read here for the details: https://www.physicsforums.com/threads/difference-between-an-electromagnetic-field-and-a-photon.953394/post-6041796

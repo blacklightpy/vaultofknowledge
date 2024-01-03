@@ -1,4 +1,4 @@
 - [[Magnetic Monopoles]]
-- Abraham–Minkowski controversy
+- [[Abraham–Minkowski controversy]]
 - Electroperception
 - Magnetoperception
