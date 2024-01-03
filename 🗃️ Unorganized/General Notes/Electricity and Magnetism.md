@@ -4,3 +4,5 @@
 - We can also move magnets, which are aggregates of moving electrons producing a magnetic field.
 - That is, we can only move charge carriers or aggregates of charge carriers, and we only have charge carriers for the electric field, but not for the magnetic field since we haven't observed any [[magnetic monopoles]].
 - Changing acceleration of a charge carrier produces a change in the change of an electric field, that is a change in the magnetic field, and 
+- Now, an initial change in the electric field from the default value as an electron flows, accelerating until it settles at a drift velocity will produce a corresponding change in the magnetic field, and surely it will generate and electric field and so on.
+- But that is weak as compared to an actively oscillating strong electric field or magnetic field, as we achieve with generators or batteries.
