@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89cd56f4f85d2bbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Considering Acceleration as Inertial.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
+                "file": "🗃️ Unorganized/General Notes/Considering Acceleration as Inertial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
+                "file": "🗃️ Unorganized/General Notes/Considering Acceleration as Inertial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md"
+                "file": "🗃️ Unorganized/General Notes/Considering Acceleration as Inertial.md"
               }
             }
           },
@@ -280,8 +293,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bc0d1f974379a36e",
+  "active": "89cd56f4f85d2bbb",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Considering Acceleration as Inertial.md",
+    "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
     "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Parsing Markup.md",
@@ -303,11 +318,9 @@
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Klein Bottle.md",
     "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
     "🗃️ Unorganized/General Notes/Time-varying Electromagnetic Fields in Classical Mechanics.md",
-    "🗃️ Unorganized/General Notes/Waveguide.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
