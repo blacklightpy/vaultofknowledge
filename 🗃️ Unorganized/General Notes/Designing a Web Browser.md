@@ -13,5 +13,8 @@ This is true for perception as well, because our eyes collect incoming electroma
 - Mozilla Firefox Gecko
 - Google Chromium Blink
 - Apple WebKit
-- UltraLight
-- Modeset
+- UltraLight (Proprietary)
+- lexbor
+- Modeset (superseded by lexbor)
+- litehtml
+	- litehtml uses the "gumbo-parser" to parse HTML. Gumbo is an implementation of the HTML5 parsing algorithm implemented as a pure C99 library with no outside dependencies. It's designed to serve as a building block for other tools and libraries such as linters, validators, templating languages, and refactoring and analysis tools.
