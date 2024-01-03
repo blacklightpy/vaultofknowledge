@@ -10,5 +10,5 @@ It is used in relativistic physics, but it can be quantized by a [[Lagrangian Me
 - The electric field, also known as the electromagnetic field, is a force field, whose quanta are the photons.
 
 - Electrons and positrons are affected by the electromagnetic field, but neutrinos aren't.
-- Fermions interact via the 
 - Quarks are disturbances in the [[quarks|quark]] field, and they interact via the [[gluons|gluon]] field.
+- Charged particles such as quarks, electrons, muons and taus interact via the [[electrom]]
