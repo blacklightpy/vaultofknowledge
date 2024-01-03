@@ -10,4 +10,4 @@ Also the Linux kernel apparently does not provide a stable ABI for modules, so k
 
 Kernel modules are not baked into the kernel, and are separately compiled. Still, they are in the kernel space. 
 
-Frameworks like DKMS can work around this issue.
+Frameworks like [[Dynamic Kernel Module Support|DKMS]] can work around this issue.
