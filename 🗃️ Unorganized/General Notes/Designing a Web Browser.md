@@ -2,4 +2,6 @@ The web is defined as a medium of communication through. A web browser is expect
 
 For us, that means text, images, audio and video.
 
-Since all data is transmitted by electromagnetic waves, we need to encode data in specific formats to retain them. This is true for perception as well, because our eyes collect incoming electromagnetic radiations, but only a certain portion of them is filtered by the eye, for example when compared to what the ears collect.
+Since all data is transmitted by electromagnetic waves, we need to encode data in specific formats to retain them. 
+
+This is true for perception as well, because our eyes collect incoming electromagnetic radiations, but only a certain portion of them is filtered by the eye, for example when compared to what the ears collect. The eyes capture the raw field, while the ears capture the rhythm. This is because unlike the photocells in the eyes which measure the spectral response, the hair cells in the 
