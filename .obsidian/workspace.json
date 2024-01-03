@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md"
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
               }
             }
           },
@@ -202,10 +202,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4fb05ef373793f9d",
+  "active": "e02808b88fe5ceef",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
     "🗃️ Unorganized/General Notes/Application Programming Interface.md",
