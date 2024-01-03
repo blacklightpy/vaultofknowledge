@@ -1,0 +1,1 @@
+The web is defined as a medium of communication through. A web browser is expected to most the generic type of data
