@@ -84,22 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ef40ecc6f55a4a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Index.md",
+                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Index.md",
+                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Index.md"
+                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md"
               }
             }
           },
@@ -235,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,8 +240,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8ef40ecc6f55a4a5",
+  "active": "a3a8a62a6e6e0466",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Index.md",
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
@@ -284,7 +271,6 @@
     "🗃️ Unorganized/General Notes/Ohnesorge Number.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
