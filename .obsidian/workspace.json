@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ef40ecc6f55a4a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+                "file": "🔮 World Building/Science and Engineering/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+                "file": "🔮 World Building/Science and Engineering/Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md"
+                "file": "🔮 World Building/Science and Engineering/Index.md"
               }
             }
           },
@@ -241,7 +254,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "8ef40ecc6f55a4a5",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
