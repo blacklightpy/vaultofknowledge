@@ -143,4 +143,6 @@ NOTE:
 
 - @container gets elements as opposed to @media which only gets viewport and devices
 	- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries
+	- https://blog.logrocket.com/choose-between-media-container-queries/
+	- https://stackoverflow.com/questions/16056591/font-scaling-based-on-size-of-container
 	- 
