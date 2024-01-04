@@ -137,3 +137,10 @@ NOTE:
 	   ["html/css/global_overwrites.css", "global_overwrites.css"]
 */
 ```
+
+- Viewport width font size: https://www.geeksforgeeks.org/font-scaling-based-on-width-of-container-using-css/ (font-size: 1vw;)
+- Let the user set font size by zoom: https://medium.com/@damon.smith/let-the-user-set-the-font-size-ae5c18852d6
+
+- @container gets elements as opposed to @media which only gets viewport and devices
+	- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries
+	- 
