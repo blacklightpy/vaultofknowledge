@@ -71,7 +71,7 @@ I only had a result for 1.0 scaling.
 
 # Sizing title and headers
 
-I need to keep the content big, but headers small and exp
+I need to keep the content big, but headers small and expanded for small screens.
 
 ```css
 /* Reduce font-size here */
