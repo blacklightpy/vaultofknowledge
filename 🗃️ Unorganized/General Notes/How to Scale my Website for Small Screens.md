@@ -90,10 +90,14 @@ I need to keep the content big, but headers small
 	 id header class header
 		 id header_flex class flex_row
 			 id navbar, class navbar (at below 602 px, it has to be toggled active)
-				 navbar-link
+					
+				 id menu_toggle_button class navbar-button onclick toggle_menu() (< 602 px)
+					
+				 navbar-link (this is what is relevant to us)
 				 icon-tray
-				 div style "display: flex; flex-direction:column"
-					 <div id="left_pane_toggle_nav" class="left_pane_toggle_nav">Toggle Directory Tree Pane</div>
+				 div style "display: flex; flex-direction:column" (used under 450 px)
+					 id left_pane_toggle_nav class left_pane_toggle_nav
+					 id right_pane_toggle_nav class right_pane_toggle_nav
 */
 .header {
   font-size: 12pt; /* default set in template_document.html*/
