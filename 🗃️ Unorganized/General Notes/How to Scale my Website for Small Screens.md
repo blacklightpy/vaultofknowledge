@@ -91,6 +91,9 @@ I need to keep the content big, but headers small
 		 id header_flex class flex_row
 			 id navbar, class navbar (at below 602 px, it has to be toggled active)
 				 navbar-link
+				 icon-tray
+				 div style "display: flex; flex-direction:column"
+					 <div id="left_pane_toggle_nav" class="left_pane_toggle_nav">Toggle Directory Tree Pane</div>
 */
 .header {
   font-size: 12pt; /* default set in template_document.html*/
