@@ -91,8 +91,10 @@ I need to keep the content big, but headers small
 		 id header_flex class flex_row
 			 id navbar, class navbar (at below 602 px, it has to be toggled active)
 				 navbar-link
-	
 */
+.header {
+  font-size: 12pt; /* default set in template_document.html*/
+}
 
 }
 ```
