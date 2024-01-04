@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
+                "file": "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md"
               }
             }
           },
@@ -306,15 +306,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "7dbd599c2425963f",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "_assets/html_template.html.md",
     "_assets/html_template.html",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "README.md",
     "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "_assets",
     "other assets",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
