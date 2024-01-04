@@ -49,7 +49,7 @@ embeddable_file_suffixes:
 md_source_host_urls: []
 site_name: Vault of Knowledge - A place where I take notes
 html_url_prefix: '/vaultofknowledge'
-html_template_path_str: _assets/html_template.html
+html_template_path_str: vaultofknowledge/_assets/html_template.html
 html_custom_inclusions: []
 html_custom_footer_inclusions: []
 navbar_links:
