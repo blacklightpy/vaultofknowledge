@@ -105,10 +105,13 @@ I need to keep the content big, but headers small and expanded for small screens
 NOTE:
 	 body has class theme-obsidian-light/dark so header values can inherit from theme. 
 	 Although probably only colours.
+
+NOTE:
+	 12pt is already 16px, the normal for browsers
 */
 
 .header {
-  font-size: 12pt; /* default set in template_document.html*/
+  font-size: 12pt; /* default set in main_documentation.css*/
 }
 
 /* IDEA: Try using the max width thing to dynamically adjust font size
