@@ -149,22 +149,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e55553011f082366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_assets/html_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_assets/html_template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_assets/html_template.md"
               }
             }
           },
@@ -319,8 +306,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "e02808b88fe5ceef",
   "lastOpenFiles": [
+    "README.md",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "_assets/html_template.md",
     "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
@@ -348,7 +336,6 @@
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Considering Acceleration as Inertial.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
