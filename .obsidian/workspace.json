@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_assets/html_template.md",
+                "file": "_assets/html_template.html.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/html_template.md",
+                "file": "_assets/html_template.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/html_template.md",
+                "file": "_assets/html_template.html.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_assets/html_template.md"
+                "file": "_assets/html_template.html.md"
               }
             }
           },
@@ -310,7 +310,7 @@
   "lastOpenFiles": [
     "README.md",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
-    "_assets/html_template.md",
+    "_assets/html_template.html.md",
     "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
