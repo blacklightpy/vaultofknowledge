@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "_assets/html_template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "_assets/html_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "_assets/html_template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
+                "file": "_assets/html_template.md"
               }
             }
           },
@@ -294,11 +293,14 @@
   },
   "active": "e02808b88fe5ceef",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "_assets/html_template.md",
+    "_assets",
+    "other assets",
     "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
     "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
@@ -319,7 +321,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Considering Acceleration as Inertial.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Basics.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Open Sound System.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
@@ -329,8 +330,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/India Pakistan Conflict",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts",
     "_images/favicon.png",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
