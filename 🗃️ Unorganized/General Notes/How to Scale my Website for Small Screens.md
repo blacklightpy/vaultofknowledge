@@ -71,7 +71,7 @@ I only had a result for 1.0 scaling.
 
 # Sizing title and headers
 
-I need to keep the content big, but headers small
+I need to keep the content big, but headers small and exp
 
 ```css
 /* Reduce font-size here */
@@ -80,11 +80,14 @@ I need to keep the content big, but headers small
 	 id header class header
 		 id header_flex class flex_row
 			 id homelink
+			 id navbar, class navbar (explained in the next section)
 */
+
 #homelink {
   margin-left: 1.5rem;
   margin-right: 1.7rem;
   font-size: 12pt;
+}
 
 /* id page_holder class flex_col
 	 id header class header (this is what we modify to modify navbar font sizes)
@@ -98,10 +101,12 @@ I need to keep the content big, but headers small
 				 div style "display: flex; flex-direction:column" (used under 450 px)
 					 id left_pane_toggle_nav class left_pane_toggle_nav
 					 id right_pane_toggle_nav class right_pane_toggle_nav
-  
-  NOTE: body has class theme-obsidian-light/dark so header values can inherit from theme. 
-        Although probably only colours.
+
+NOTE:
+	 body has class theme-obsidian-light/dark so header values can inherit from theme. 
+	 Although probably only colours.
 */
+
 .header {
   font-size: 12pt; /* default set in template_document.html*/
 }
@@ -111,7 +116,11 @@ I need to keep the content big, but headers small
    Can I do it as a function of width too?
 
    @media is used to check orientation, resolution, viewport and device dimensions
-*/
 
-}
+   Order of creating master.css:
+	   [["html/css/global_main.css", "global_main.css"]]
+	   [f'html/layouts/{pb.gc("_css_file")}', "main.css"],
+	   ["html/themes/theme-obsidian.css", "theme-obsidian.css"],
+	   ["html/css/global_overwrites.css", "global_overwrites.css"]
+*/
 ```
