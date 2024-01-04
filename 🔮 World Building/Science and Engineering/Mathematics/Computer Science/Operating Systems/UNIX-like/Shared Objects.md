@@ -1,4 +1,4 @@
-Shared Objects are [[shared libraries]] in UNIX-like systems.
+Shared Objects are [[Shared Libraries]] in UNIX-like systems.
 
 They have the file name extension `.so`.
 
