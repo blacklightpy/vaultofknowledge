@@ -14,6 +14,10 @@ If the width is less than 800 px, the right pane will close too.
 If the width is less than 450 px, the pane arrows won't show. This is from the template CSS files.
 
 If the width is less than 602 px, the title won't show.
+
+The right pane will be at the rightmost side of the viewport.
+
+So if you want content only scaling, or universal font scaling, I need to do some CSS.
 # Viewport values
 ### Mull Viewport:
 | Viewport Size (w x h px) | Viewport Outer Size (w x h px - reported by Firefox) | DPR (reported by Mull) | DPR (reported by Firefox) | Scaling |
