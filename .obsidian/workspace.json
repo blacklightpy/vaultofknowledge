@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+                "file": "🗃️ Unorganized/General Notes/Shared Libraries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+                "file": "🗃️ Unorganized/General Notes/Shared Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+                "file": "🗃️ Unorganized/General Notes/Shared Libraries.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Application Binary Interface.md"
+                "file": "🗃️ Unorganized/General Notes/Shared Libraries.md"
               }
             }
           },
@@ -308,10 +308,11 @@
   },
   "active": "4fb05ef373793f9d",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
-    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
+    "🗃️ Unorganized/General Notes/Shared Libraries.md",
+    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "_assets/html_template.html.md",
     "_assets/html_template.html",
@@ -336,7 +337,6 @@
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "🗃️ Unorganized/General Notes/Weak Nuclear Forces.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
