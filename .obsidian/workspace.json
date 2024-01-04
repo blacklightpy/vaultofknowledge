@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f0cacc7d6ef1c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+                "file": "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+                "file": "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md"
+                "file": "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md"
               }
             }
           },
@@ -241,10 +254,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "1f0cacc7d6ef1c5a",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Index.md",
+    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+    "🔮 World Building/Science and Engineering/Index.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
@@ -271,7 +285,6 @@
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
     "🗃️ Unorganized/General Notes/Ohnesorge Number.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
