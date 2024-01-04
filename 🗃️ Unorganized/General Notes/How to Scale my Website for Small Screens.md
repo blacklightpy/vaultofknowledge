@@ -109,6 +109,9 @@ NOTE:
 
 NOTE:
 	 12pt is already 16px, the normal for browsers
+
+NOTE:
+	 Last added classes will override previously added classes for definitions. Although we may not be making use of that here, as we intend to keep the same classes.
 */
 
 
@@ -123,6 +126,8 @@ NOTE:
    Perhaps for a max-width of 300 px?
    Can I do it as a function of width too?
 
+   Idea! Scale fonts based on viewport width. 1vw = 1% viewport width!
+  
    @media is used to check orientation, resolution, viewport and device dimensions
 
    Order of creating master.css:
