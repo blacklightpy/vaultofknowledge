@@ -98,6 +98,9 @@ I need to keep the content big, but headers small
 				 div style "display: flex; flex-direction:column" (used under 450 px)
 					 id left_pane_toggle_nav class left_pane_toggle_nav
 					 id right_pane_toggle_nav class right_pane_toggle_nav
+  
+  NOTE: body has class theme-obsidian-light/dark so header values can inherit from theme. 
+        Although probably only colours.
 */
 .header {
   font-size: 12pt; /* default set in template_document.html*/
@@ -106,6 +109,8 @@ I need to keep the content big, but headers small
 /* IDEA: Try using the max width thing to dynamically adjust font size
    Perhaps for a max-width of 300 px?
    Can I do it as a function of width too?
+
+   @media is used to check orientation, resolution, viewport and device dimensions
 */
 
 }
