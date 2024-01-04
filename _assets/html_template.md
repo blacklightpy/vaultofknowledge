@@ -6,7 +6,7 @@
                 <!-- Page information -->
                 <meta charset="UTF-8" />
                 <meta name="node_id" content="{node_id}">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <meta name="viewport" content="width=560, initial-scale=1.0" />
                 <link rel="shortcut icon" href="{html_url_prefix}/favicon.ico" />
 
                 <!-- Set title -->

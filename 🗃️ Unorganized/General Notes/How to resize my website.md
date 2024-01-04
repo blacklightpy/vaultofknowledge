@@ -1,5 +1,11 @@
 # Purpose
-To set my website visibility 
+To set change website readability for the better.
+# How I will do it
+Copy the template file into `_assets` folder.
+
+Replace all the viewport width with the value 500, so that it will be the minimum value.
+
+The viewport will scale up for larger resolutions, as I've heard, which is what I want.
 # Viewport values
 ### Mull Viewport:
 | Viewport Size (w x h px) | DPR (reported by Mull) | Scaling |
