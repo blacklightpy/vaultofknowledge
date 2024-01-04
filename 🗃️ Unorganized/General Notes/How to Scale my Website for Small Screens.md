@@ -23,7 +23,7 @@ Keeping it simple, we do not need `minimum-scaling` or `height`. We need `width=
 
 By default `initial-scaling` is set to 1, and `maximum-scaling` is set to 10. This is okay.
 
-`user-scalability` is set to yes, and anything else would viol
+`user-scalability` is set to yes, and anything else would violate Web Content Accessibility Guidelines (WCAG).
 # Viewport values
 ### Mull Viewport:
 | Viewport Size (w x h px) | Viewport Outer Size (w x h px - reported by Firefox) | DPR (reported by Mull) | DPR (reported by Firefox) | Scaling |
