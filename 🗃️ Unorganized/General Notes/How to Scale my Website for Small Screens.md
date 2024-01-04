@@ -68,3 +68,25 @@ I only had a result for 1.0 scaling.
 	initial-scale: 1;
 }
 ```
+
+# Sizing title and headers
+
+I need to keep the content big, but headers small
+
+```css
+/* Reduce font-size here */
+
+#homelink {
+  margin-left: 1.5rem;
+  margin-right: 1.7rem;
+  font-size: 12pt;
+
+/* id header-flex class flex-row
+	header
+		 id navbar, class navbar (at below 602 px, it has to be toggl)
+			 navbar-link
+	
+	*/
+
+}
+```
