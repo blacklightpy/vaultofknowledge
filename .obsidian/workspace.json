@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_assets/html_template.html.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/html_template.html.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/html_template.html.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_assets/html_template.html.md"
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
               }
             }
           },
@@ -306,10 +306,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e02808b88fe5ceef",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "_assets/html_template.html.md",
+    "_assets/html_template.html",
+    "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "README.md",
     "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
@@ -335,7 +336,6 @@
     "🗃️ Unorganized/General Notes/Weak Nuclear Forces.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Considering Acceleration as Inertial.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
@@ -344,7 +344,6 @@
     "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict",
     "_images/favicon.png",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
