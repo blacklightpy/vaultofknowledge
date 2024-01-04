@@ -3,7 +3,7 @@ To set change website readability for the better.
 # How I will do it
 Copy the template file into `_assets` folder.
 
-Replace all the viewport width with the value 500, so that it will be the minimum value.
+Replace all the viewport width with the value 720, so that it will be the minimum value.
 
 The viewport will scale up for larger resolutions, as I've heard, which is what I want.
 
@@ -17,7 +17,13 @@ If the width is less than 602 px, the title won't show.
 
 The right pane will be at the rightmost side of the viewport.
 
-So if you want content only scaling, or universal font scaling, I need to do some CSS.
+So if I want content-only scaling, or universal font scaling, I need to do some CSS.
+
+Keeping it simple, we do not need `minimum-scaling` or `height`. We need `width=device-width`.
+
+By default `initial-scaling` is set to 1, and `maximum-scaling` is set to 10. This is okay.
+
+`user-scalability` is set to yes, and anything else would viol
 # Viewport values
 ### Mull Viewport:
 | Viewport Size (w x h px) | Viewport Outer Size (w x h px - reported by Firefox) | DPR (reported by Mull) | DPR (reported by Firefox) | Scaling |
