@@ -83,6 +83,7 @@ I need to keep the content big, but headers small and expanded for small screens
 			 id navbar, class navbar (explained in the next section)
 */
 
+/* this is in html/css/global_main.css, under fixes */
 #homelink {
   margin-left: 1.5rem;
   margin-right: 1.7rem;
@@ -109,6 +110,8 @@ NOTE:
 NOTE:
 	 12pt is already 16px, the normal for browsers
 */
+
+/* @media max-width */
 
 .header {
   font-size: 12pt; /* default set in main_documentation.css*/
