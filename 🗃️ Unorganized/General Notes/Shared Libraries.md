@@ -2,10 +2,14 @@ A shared library is simply a compiled executable much like a program. They are u
 
 Shared libraries is the same fashion as executables. In fact, if an executable can provide a [[symbol table]] within itself, it can be accessed as an [[Application Binary Interface|ABI]], making it a shared library.
 
-Basically, the compiler compiles the source code and into object files. The linker statically links all the libraries and executables together, leaving a symbol table
+Basically, the compiler compiles the source code and into object files. The linker statically links all the libraries and executables together, leaving the executable
 
-Nowadays, both libraries and programs use the same loaders to keep uniformity. Once both are loaded into the memory, the program can refer
+Nowadays, both libraries and programs use the same loaders to keep uniformity. Once both are loaded into the memory, the program can refer to the symbol table and map the ABI endpoints to the memory locations of the shared library.
 
+**Needs more clarity.**
 
-Linker
-Loader - Dynamic Linking - Shared objects
+# Related topics
+- Symbol Table
+- Debugging Symbols
+- Shared Memory
+- Position Independent Executables (PIEs)
