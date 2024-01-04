@@ -11,19 +11,19 @@ Chrome Viewport:
 Screen Size: 393x873 px
 # Viewport meta
 
-`<meta name="viewport" content="width=device-width, initial-scale=1">`
+- `<meta name="viewport" content="width=device-width, initial-scale=1">`
+- `<meta name="viewport" content="width=550, initial-scale=1">`
 
-maximum-scale=1
-minimum-scale=1
-user-scalable=no
+## Meta Viewport Parameter Samples
+- maximum-scale=1
+- minimum-scale=1
+- user-scalable=no
 
 
-css:
+### CSS Options
 -webkit-text-size-adjust: none;
 
 -moz-@viewport {
 	width: device-width;
 	initial-scale: 1;
 }
-
-`<meta name="viewport" content="width=550, initial-scale=1">`
