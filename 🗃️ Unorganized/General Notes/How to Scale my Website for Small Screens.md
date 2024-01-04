@@ -76,17 +76,23 @@ I need to keep the content big, but headers small
 ```css
 /* Reduce font-size here */
 
+/* id page_holder class flex_col
+	 id header class header
+		 id header_flex class flex_row
+			 id homelink
+*/
 #homelink {
   margin-left: 1.5rem;
   margin-right: 1.7rem;
   font-size: 12pt;
 
-/* id header-flex class flex-row
-	header
-		 id navbar, class navbar (at below 602 px, it has to be toggl)
-			 navbar-link
+/* id page_holder class flex_col
+	 id header class header
+		 id header_flex class flex_row
+			 id navbar, class navbar (at below 602 px, it has to be toggled active)
+				 navbar-link
 	
-	*/
+*/
 
 }
 ```
