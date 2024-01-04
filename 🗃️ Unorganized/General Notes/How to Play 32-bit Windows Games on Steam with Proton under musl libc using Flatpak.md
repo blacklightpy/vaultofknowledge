@@ -6,7 +6,9 @@
 # Thinking about the problem and solutions solutions
 Doing a glibc chroot would be best for games that don't require the Steam runtime, but I'm lazy to chroot. So the other best option is to use Flatpak. It was then that I noticed that the game just doesn't load.
 
-At first I was confused by the `gameoverlayrenderer.so` ELF compatibility warning, but turns out that was only because Proton tries to load both 32 bit and 64 bit libraries, and since my system is 64 bit, it ended up showing a a warning for the 32 bit libraries. 
+At first I was confused by the `gameoverlayrenderer.so` and some other libraries' ELF compatibility warning, but turns out that was only because Proton tries to load both 32 bit and 64 bit libraries, and since my system is 64 bit, it ended up showing a a warning for the 32 bit libraries. But the real problem was after this, and that didn't show up in the logs.
+
+After a long time of searching, I came across a solution from the Arch Wiki.
 
 As for compiling WINE from scratch, I'm too lazy for that, and I'm not certain why even the Void Linux maintainers decided that WINE should just be left 64 bit only in musl.
 # Solution

@@ -6,6 +6,12 @@ Copy the template file into `_assets` folder.
 Replace all the viewport width with the value 500, so that it will be the minimum value.
 
 The viewport will scale up for larger resolutions, as I've heard, which is what I want.
+
+As I've observed, which is in line with the script, if the width is less than 1000 px, the left pane will close.
+
+If the width is less than 800 px, the right pane will close too.
+
+If the width is less than 4
 # Viewport values
 ### Mull Viewport:
 | Viewport Size (w x h px) | DPR (reported by Mull) | Scaling |
