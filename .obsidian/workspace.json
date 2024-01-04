@@ -222,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +241,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3a8a62a6e6e0466",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "🔮 World Building/Science and Engineering/Index.md",
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
