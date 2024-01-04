@@ -295,11 +295,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,7 +319,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e55553011f082366",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "_assets/html_template.md",
