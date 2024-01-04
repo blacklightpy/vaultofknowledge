@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18458ef731a380bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
+                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
+                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -221,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md"
+                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md"
               }
             }
           },
@@ -279,8 +292,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8e8829670cee84c7",
+  "active": "18458ef731a380bc",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
@@ -306,7 +320,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Basics.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Open Sound System.md",
     "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux/Advanced Linux Sound Architecture.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
