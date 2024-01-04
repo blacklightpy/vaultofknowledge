@@ -5,7 +5,10 @@ Firefox Viewport:
 432x809 (0.9)
 396x742 (1.0)
 
+Chrome Viewport:
 
+393x736 px DPR:2.75
+Screen Size: 393x873 px
 # Viewport meta
 
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
