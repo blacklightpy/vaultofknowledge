@@ -5,6 +5,7 @@ exclude_glob:
   - /.trash
   - /.DS_Store
   - /.git
+  - /_assets
 max_note_depth: -1
 copy_vault_to_tempdir: true
 copy_vault_to_tempdir_method: default
@@ -48,12 +49,8 @@ embeddable_file_suffixes:
 md_source_host_urls: []
 site_name: Vault of Knowledge - A place where I take notes
 html_url_prefix: '/vaultofknowledge'
-html_template_path_str: ''
-html_custom_inclusions:
-  - <meta name="description" content="This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about.">
-  - <meta name="google-site-verification" content="UirlDYot4I965EnU-iSvktvULg5K7pwkFCuTXxeUs78" />
-  - <link rel="me" href="https://ohai.social/@ssunboyy" />
-  - <link rel="me" href="https://firefish.social/@jyzkms" />
+html_template_path_str: '_assets/html-template.html'
+html_custom_inclusions: []
 html_custom_footer_inclusions: []
 navbar_links:
   - name: Home
@@ -67,10 +64,7 @@ navbar_links:
   - name: Mastodon
     link: https://ohai.social/@ssunboyy
     type: external
-file_exports:
-  - encoding: binary
-    src: "_images/favicon.ico"
-    dst: favicon.ico
+file_exports: []
 toggles:
   compile_md: true
   compile_html: true
@@ -110,7 +104,7 @@ toggles:
       enabled: true
     embedded_note_titles:
       enabled: true
-      hide_on_h1: true
+      hide_on_h1: false
     search:
       enabled: true
       styling:
@@ -209,7 +203,6 @@ toggles:
       exclude_files:
         - .gitignore
         - not_created.html
-        - favicon.ico
         - config.yaml
       homepage_label: Home
     create_index_from_tags:
