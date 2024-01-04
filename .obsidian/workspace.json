@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5136e5fbfbbd1245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to resize my website.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -205,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_assets/html_template.md",
+                "file": "🗃️ Unorganized/General Notes/How to resize my website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_assets/html_template.md",
+                "file": "🗃️ Unorganized/General Notes/How to resize my website.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_assets/html_template.md"
+                "file": "🗃️ Unorganized/General Notes/How to resize my website.md"
               }
             }
           },
@@ -292,10 +305,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e02808b88fe5ceef",
+  "active": "5136e5fbfbbd1245",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "🗃️ Unorganized/General Notes/How to resize my website.md",
     "_assets/html_template.md",
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "_assets",
     "other assets",
     "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
@@ -321,7 +335,6 @@
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Considering Acceleration as Inertial.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Basics.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
