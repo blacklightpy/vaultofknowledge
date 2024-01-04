@@ -3,14 +3,17 @@
 <html lang="en">
 
         <head>
+        
+                <!-- Set title -->
+                <title>{title}</title>
+
                 <!-- Page information -->
                 <meta charset="utf-8" />
                 <meta name="viewport" content="width=720, initial-scale=1" />
                 <link rel="icon" href="/_images/favicon.ico" />
+                
+                <!-- Something specific to ObsidianHtml, I guess -->
                 <meta name="node_id" content="{node_id}">
-
-                <!-- Set title -->
-                <title>{title}</title>
                 
                 <!-- Meta tags for SEO and social sharing -->
                 <link rel="canonical" href="https://blacklightpy.github.io/vaultofknowledge" />
@@ -57,17 +60,17 @@
                 <div id="page_holder" class="flex_col">
                 
                         {header}  
-                        <div class="flex_row">                
-                                {left_pane}         
-                                
-                                <div class="container">                        
-                                        {content}                                
-                                </div>         
-                                
-                                <div class="container_filler"></div>   
-                                
-                                {right_pane}
-                        </div>
+                              <div class="flex_row">                
+                                      {left_pane}         
+                                      
+                                      <div class="container">                        
+                                              {content}                                
+                                      </div>         
+                                      
+                                      <div class="container_filler"></div>   
+                                      
+                                      {right_pane}
+                              </div>
                         
                 </div>
 

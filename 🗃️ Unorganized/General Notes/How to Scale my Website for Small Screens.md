@@ -111,10 +111,12 @@ NOTE:
 	 12pt is already 16px, the normal for browsers
 */
 
-/* @media max-width */
 
+/* the file is main_documentation.css
+   @media max-width=602px is set here, but font size is default / 16px=12pt
+*/
 .header {
-  font-size: 12pt; /* default set in main_documentation.css*/
+  font-size: 12pt;
 }
 
 /* IDEA: Try using the max width thing to dynamically adjust font size
