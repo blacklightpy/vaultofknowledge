@@ -8,64 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b60031df3fa576b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e02808b88fe5ceef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2449e22c62db59fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "033a5f279688e4e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fb05ef373793f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Shared Libraries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,19 +60,6 @@
             }
           },
           {
-            "id": "86ae0c512f713942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Parsing Markup.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c1c8a27142d26df1",
             "type": "leaf",
             "state": {
@@ -138,12 +73,12 @@
             }
           },
           {
-            "id": "8e8829670cee84c7",
+            "id": "28ba05ffe92ba9a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
+                "file": "🗃️ Unorganized/General Notes/Shared Libraries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -306,26 +241,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4fb05ef373793f9d",
+  "active": "28ba05ffe92ba9a0",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
+    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
+    "🗃️ Unorganized/General Notes/Shared Libraries.md",
+    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+    "README.md",
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
+    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
+    "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
+    "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
-    "🗃️ Unorganized/General Notes/Shared Libraries.md",
-    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
-    "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "_assets/html_template.html.md",
     "_assets/html_template.html",
-    "README.md",
-    "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "_assets",
     "other assets",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
-    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
     "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md",
     "🗃️ Unorganized/General Notes/Cold Dark Matter.md",

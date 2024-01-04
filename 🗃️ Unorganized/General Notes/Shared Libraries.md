@@ -7,9 +7,12 @@ Basically, the compiler compiles the source code and into object files. The link
 Nowadays, both libraries and programs use the same loaders to keep uniformity. Once both are loaded into the memory, the program can refer to the symbol table and map the ABI endpoints to the memory locations of the shared library.
 
 **Needs more clarity.**
-
 # Related topics
 - Symbol Table
 - Debugging Symbols
 - Shared Memory
 - Position Independent Executables (PIEs)
+
+Guide: 
+- https://medium.com/ax1al/a-brief-info-on-linker-loader-symbol-symbol-tables-2fed729eb490
+- https://blog.ramdoot.in/linkers-and-symbol-tables-40f85f6df3c9
