@@ -12,8 +12,7 @@ Screen Size: 393x873 px
 # Viewport meta
 
 - `<meta name="viewport" content="width=device-width, initial-scale=1">`
-- `<meta name="viewport" content="width=550, initial-scale=1">`
-
+- `<meta name="viewport" content="width=558, initial-scale=1">` => Preferred solution
 ## Meta Viewport Parameter Samples
 - maximum-scale=1
 - minimum-scale=1
