@@ -87,7 +87,7 @@ I need to keep the content big, but headers small
   font-size: 12pt;
 
 /* id page_holder class flex_col
-	 id header class header
+	 id header class header (this is what we modify to modify navbar font sizes)
 		 id header_flex class flex_row
 			 id navbar, class navbar (at below 602 px, it has to be toggled active)
 					
@@ -102,6 +102,11 @@ I need to keep the content big, but headers small
 .header {
   font-size: 12pt; /* default set in template_document.html*/
 }
+
+/* IDEA: Try using the max width thing to dynamically adjust font size
+   Perhaps for a max-width of 300 px?
+   Can I do it as a function of width too?
+*/
 
 }
 ```
