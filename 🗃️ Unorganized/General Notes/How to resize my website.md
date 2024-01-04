@@ -13,26 +13,27 @@ Screen Size: 393x873 px
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1">
-```
 
-```html
-<meta name="viewport" content="width=558, initial-scale=1">
+<meta name="viewport" content="width=558, initial-scale=1"> <!-- Preferred -->
 ```
 
 ```css
-# Meta Viewport Parameter Samples
-- maximum-scale=1
-- minimum-scale=1
-- user-scalable=no
+/* Meta Viewport Parameter Samples */
 
-
-### CSS Options
+-maximum-scale=1
+-minimum-scale=1
+-user-scalable=no
+```
 
 ```css
+/*********************************/
+/* Font size scaling CSS Options */
+/*********************************/
+
+/* Apple Safari (WebKit Engine) */
 -webkit-text-size-adjust: none;
-```
 
-```css
+/* Mozilla Firefox */
 -moz-@viewport {
 	width: device-width;
 	initial-scale: 1;
