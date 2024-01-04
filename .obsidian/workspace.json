@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
+                "file": "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
+                "file": "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
+                "file": "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md"
+                "file": "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md"
               }
             }
           },
@@ -309,7 +309,7 @@
   "lastOpenFiles": [
     "_assets/html_template.md",
     "🗃️ Unorganized/General Notes/How to resize my website.md",
-    "🗃️ Unorganized/General Notes/How to Play 64-bit Windows games on Steam in musl libc using Proton under Flatpak.md",
+    "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "_assets",
     "other assets",
