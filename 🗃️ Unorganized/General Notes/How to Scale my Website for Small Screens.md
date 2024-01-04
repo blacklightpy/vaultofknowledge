@@ -146,4 +146,4 @@ NOTE:
 	- https://blog.logrocket.com/choose-between-media-container-queries/
 	- https://stackoverflow.com/questions/16056591/font-scaling-based-on-size-of-container
 
-- Find the origin of the index title
+- Find the origin of the "index" title (Posed discussion thread)
