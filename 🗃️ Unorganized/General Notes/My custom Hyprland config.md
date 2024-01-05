@@ -15,7 +15,12 @@
 
 I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), PipeWire Audio Service, KDE Connect Daemon, KDE Connect Tray Indicator, [[Polkit]] KDE Agent, XHost command (To add a rule to allow programs launched as root to access the X server)
 
-Hyprland already adds the XHost rule for the local user, and I had to add one for root.
+> [!info] More on XHost
+> Hyprland already adds the XHost rule for the local user, and I had to add one for root.
+> 
+> XHost is similar to XAuth, which does the same, but with setting up a magic number for authentication.
+> f
+> Both then use 
 
 ```
 # Execute your favorite apps at launch
