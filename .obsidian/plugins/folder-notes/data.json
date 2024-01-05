@@ -16,5 +16,5 @@
   "folderNoteName": "Index",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
-  "newFolderNoteName": "Index"
+  "newFolderNoteName": "{{folder_name}}"
 }

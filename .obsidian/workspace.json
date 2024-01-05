@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Index.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Index.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Index.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Index.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md"
               }
             }
           },
@@ -308,32 +308,32 @@
   },
   "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict/Index.md",
+    "🗺️ World Exploration/History/Index.md",
+    "🔮 World Building/Business and Finance/Company Management/Project Management/Index.md",
+    "🔮 World Building/Business and Finance/Trading/Index.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Index.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Index.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Image Colour Appearance Models/Index.md",
+    "🔮 World Building/Philosophy/Index.md",
+    "🔮 World Building/Philosophy/Metaphysics/Index.md",
+    "🔮 World Building/Philosophy/Western Philosophy/Index.md",
+    "🔮 World Building/Fun and Activities/Device Customization/Index.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science/Index.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Index.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+    "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
+    "🔮 World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Physical Cosmology.md",
+    "🔮 World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes/Vacuum Tubes.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
+    "🔮 World Building/Science and Engineering/Physics/Spintronics/Spintronics.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/DevOps.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Electroweak Epoch.md",
-    "🗃️ Unorganized/General Notes/Standard Model.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
-    "🗃️ Unorganized/General Notes/Four-vector.md",
-    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
-    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
-    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Higgs Mechanism.md",
-    "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
-    "🗃️ Unorganized/General Notes/Drift Velocity.md",
-    "🗃️ Unorganized/General Notes/Delocalized Electrons.md",
-    "🗃️ Unorganized/General Notes/Flow of Electricity.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
-    "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Higgs Boson.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Higgs Field.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
