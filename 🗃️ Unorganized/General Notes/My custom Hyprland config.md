@@ -1,8 +1,8 @@
 # My additions / modifications
 
-- `monitor=eDP-1,disable` (because my laptop screen is broken)
+1. `monitor=eDP-1,disable` (because my laptop screen is broken)
 
-- Optional (as I wanted to scale the resolution of my monitor to make it smaller. The result was blurry)
+2. Optional (as I wanted to scale the resolution of my monitor to make it smaller. The result was blurry)
 
 ```
 # uncomment below lines to scale the monitor (bad in X11)
@@ -11,9 +11,16 @@
 # monitor=HDMI-A-1,1280x1024,0x0,$scale
 ```
 
-- Programs to execute.
+3. Programs to execute
 
-I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), PipeWire Audio Service, KDE Connect Daemon, KDE Connect Tray Indicator, [[Polkit]] KDE Agent, XHosts command (To add a rule to allow programs launched as root to access the X server)
+I used the following programs:
+- AGS (Aylur's GTK Shell; for Aylur's AGS Widgets)
+- SWWW Daemon (Simple Wayland Wallpaper Widget Daemon; to change wallpaper)
+- PipeWire Audio Service
+- KDE Connect Daemon
+- KDE Connect Tray Indicator
+- [[Polkit]] KDE Agent
+- XHosts command (To add a rule to allow programs launched as root to access the X server)
 
 > [!info] More on XHosts
 > Hyprland already adds the XHosts rule for the local user, and I had to add one for root.
@@ -28,15 +35,16 @@ I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), P
 exec-once = ags & swww-daemon & pipewire & /usr/libexec/kdeconnectd & kdeconnect-indicator & /usr/libexec/polkit-kde-authentication-agent-1 & xhost +SI:localuser:root
 ```
 
-- Keybindings
+4. Keybindings
 
-First I disabled the 
+First I disabled the Wofi launcher keybinding to use Aylur's AGS app launcher widget instead.
 
 ```Shell
 # bind = $mainMod, R, exec, wofi --show drun`
 ```
 
-AGS
+Aylur's AGS widget keybindings
+
 ```Shell
 # reload
 bind=CTRL SHIFT, R,  exec, ags quit; ags -b hypr
