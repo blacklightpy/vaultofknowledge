@@ -130,11 +130,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "9a2732966b1ecf3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -205,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md"
               }
             }
           },
@@ -294,9 +302,10 @@
   },
   "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
@@ -319,7 +328,6 @@
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "README.md",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
-    "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
