@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25c407ed817b5ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md"
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md"
               }
             }
           },
@@ -266,10 +279,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fa821dc903f65f93",
+  "active": "25c407ed817b5ccc",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
@@ -293,7 +307,6 @@
     "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
