@@ -1,6 +1,9 @@
 # My additions / modifications
+
 - `monitor=eDP-1,disable` (because my laptop screen is broken)
-- Optional (as I wanted to )
+
+- Optional (as I wanted to scale the resolution of my monitor to make it smaller. The result was blurry)
+
 ```
 # uncomment below lines to scale the monitor (bad in X11)
 # 0.937 gives back 1366 points horizontally
@@ -8,7 +11,15 @@
 # monitor=HDMI-A-1,1280x1024,0x0,$scale
 ```
 
+- Programs to execute.
 
+I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), PipeWire Audio Service, KDE Connect Daemon, KDE Connect Tray Indicator, [[Polkit]] KDE Agent, XHost (with command to set)
+
+```
+# Execute your favorite apps at launch
+# exec-once = waybar & hyprpaper & firefox
+exec-once = ags & swww-daemon & pipewire & /usr/libexec/kdeconnectd & kdeconnect-indicator & /usr/libexec/polkit-kde-authentication-agent-1 & xhost +SI:localuser:root
+```
 # Default Hyprland config
 ```Shell
 
