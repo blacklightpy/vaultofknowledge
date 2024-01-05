@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:index",
+                "query": "file: index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Index.md"
               }
             }
           },
@@ -308,32 +308,32 @@
   },
   "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict/Index.md",
-    "🗺️ World Exploration/History/Index.md",
-    "🔮 World Building/Business and Finance/Company Management/Project Management/Index.md",
+    "🔮 World Building/Philosophy/Philosophy.md",
+    "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
+    "🔮 World Building/Philosophy/Western Philosophy/Western Philosophy.md",
+    "🔮 World Building/Fun and Activities/Device Customization/Device Customization.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science/Data Science.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Smartphones.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
     "🔮 World Building/Business and Finance/Trading/Index.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Index.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Index.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Image Colour Appearance Models/Index.md",
-    "🔮 World Building/Philosophy/Index.md",
-    "🔮 World Building/Philosophy/Metaphysics/Index.md",
-    "🔮 World Building/Philosophy/Western Philosophy/Index.md",
-    "🔮 World Building/Fun and Activities/Device Customization/Index.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science/Index.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Index.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict/Index.md",
+    "🗺️ World Exploration/History/Civilizations/Index.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Index.md",
+    "🔮 World Building/Business and Finance/Company Management/Project Management/Index.md",
+    "🗺️ World Exploration/History/Index.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
     "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "🔮 World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Physical Cosmology.md",
     "🔮 World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes/Vacuum Tubes.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
     "🔮 World Building/Science and Engineering/Physics/Spintronics/Spintronics.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Docker/Docker.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/DevOps.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",

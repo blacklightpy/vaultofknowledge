@@ -1,4 +1,4 @@
-Architecture - ARM
+Architectures - ARM, RISC-V (upcoming)
 
 ### Graphics APIs:
 OpenGL
