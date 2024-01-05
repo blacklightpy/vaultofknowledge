@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
+                "file": "🗃️ Unorganized/General Notes/Standard Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
+                "file": "🗃️ Unorganized/General Notes/Standard Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
+                "file": "🗃️ Unorganized/General Notes/Standard Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md"
+                "file": "🗃️ Unorganized/General Notes/Standard Model.md"
               }
             }
           },
@@ -294,10 +294,11 @@
   },
   "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Higgs Mechanism.md",
+    "🗃️ Unorganized/General Notes/Standard Model.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
+    "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-    "🗃️ Unorganized/General Notes/Higgs Mechanism.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Higgs Boson.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Higgs Field.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
@@ -319,7 +320,6 @@
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "🗃️ Unorganized/General Notes/Changing Boot Order from Windows with BCDEdit.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Symlinks.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
