@@ -201,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -308,8 +309,9 @@
   "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "🗃️ Unorganized/General Notes/Standard Model.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Electroweak Epoch.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
@@ -329,7 +331,6 @@
     "🔮 World Building/Fun and Activities/Device Customization/Device Customization.md",
     "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Data Science/Data Science.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Smartphones/Smartphones.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
     "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "🔮 World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
