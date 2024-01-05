@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+                "file": "🗃️ Unorganized/General Notes/How to destroy the world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+                "file": "🗃️ Unorganized/General Notes/How to destroy the world.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md"
+                "file": "🗃️ Unorganized/General Notes/How to destroy the world.md"
               }
             }
           },
@@ -319,11 +319,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "66d9253c4720e167",
+  "active": "7f22760383ab3cde",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
     "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
     "🗃️ Unorganized/General Notes/Principles of Mechanics.md",
-    "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
     "🗃️ Unorganized/General Notes/Finite Element Method.md",
     "🗃️ Unorganized/General Notes/Btrfs Notes.md",
     "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
