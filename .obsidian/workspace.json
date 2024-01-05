@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a2732966b1ecf3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -218,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md"
               }
             }
           },
@@ -305,7 +292,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9a2732966b1ecf3f",
+  "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
