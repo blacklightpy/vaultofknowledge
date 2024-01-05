@@ -18,4 +18,4 @@
 
 I'm saying that the universe is like a dancer in an outfit.
 
-He is the painter and the painting
+It is the painter and the painting
