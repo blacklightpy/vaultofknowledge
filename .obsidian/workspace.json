@@ -162,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "106800bd837d76d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -231,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
+                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md"
               }
             }
           },
@@ -299,8 +312,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,9 +330,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "39051a90292dbf6a",
+  "active": "106800bd837d76d0",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
     "🗃️ Unorganized/General Notes/Standard Model.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
@@ -345,7 +358,6 @@
     "🗃️ Unorganized/General Notes/Fermi surface.md",
     "🗃️ Unorganized/General Notes/Drift Velocity.md",
     "🗃️ Unorganized/General Notes/Delocalized Electrons.md",
-    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
