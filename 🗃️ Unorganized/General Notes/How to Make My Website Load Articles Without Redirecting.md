@@ -1,24 +1,35 @@
 # Premise
 - I don't like how pages redirect whenever I click a folder note, but I like there being folder notes..
-- I'd like to avoid using iframes.
-
+- I'd like to avoid using `iframe`s.
 
 > [!summary] Result
 > I chose to go with the Idea 1, omitting folder notes, instead choosing to simply let them be present with breadcrumbs.
 > 
-> Howe
+> However, since ObsidianHTML doesn't allow index.html for other pages in breadcrumbs (unless I try fixing that), I'll have to use a different name for page indices, like 
+> 
+> Why would that be? Because breadcrumbs use a unique name for every directory? That would have problems for similarly named directories too.. But perhaps they also store paths? But then it wouldn't conflict with an index.html file..
+
+```HTML
+<div class="breadcrumbs" style="flex:1 ;padding: 0.5rem; width: fit-content;display: inline;border-radius: 0.2rem;">
+	<a href="/vaultofknowledge/" style="color: rgb(var(--normal-text-color));">Home</a>
+	<span style="color: #666;">🔮 world building</span>
+	<span style="color: #666;">science and engineering</span>
+	<span style="color: #666;">Biology</span>
+	<a href="/vaultofknowledge/🔮 World Building/Science and Engineering/Biology/Brownian Motors.html">Brownian Motors</a>
+                    </div>
+```
 
 # Idea 1 (Don't have folder notes)
 - Folder notes are different from traditional idea of folders.
 - But websites usually have index.html files for folders
 - But we don't usually navigate like that in a wiki of articles, as for us there are no folders in a website
 - Usually all the "folders" are in the "navigation bar" itself.
-- Otherwise, subfolders or subpages can only be reached from other pages, like a sub-brand page
+- Otherwise, sub-folders or sub-pages can only be reached from other pages, like a sub-brand page
 - Anyways, the concept of a folder doesn't lend itself well to navigation
 - Dynamically loading site content can be weird when you are simply going through navigation elements
 - Instead, a better approach would be to have an index page which does affect the breadcrumbs, but not the directory tree clicks.
 # Idea 2 (Going to do it)
-- Replace the content and the TOC pane divs with the page selected at the left, upon clicking the links.
+- Replace the content and the ToC pane divs with the page selected at the left, upon clicking the links.
 - So the ToC links must be replaced by an action that inserts them for every `onclick` event. So no redirection takes place.
 - The JS should fetch the other page, extract it's content and ToC panes, and replace it for the front page.
 ## Extra idea: Splitting the 'Index' from 'Content and ToC'
