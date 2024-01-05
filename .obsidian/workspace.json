@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md"
               }
             }
           },
@@ -303,7 +303,9 @@
   "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Interactions.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
@@ -326,8 +328,6 @@
     "🔮 World Building/Science and Engineering/Index.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
-    "README.md",
-    "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
