@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
+                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md"
               }
             }
           },
@@ -253,14 +254,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e02808b88fe5ceef",
+  "active": "a3a8a62a6e6e0466",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "🗃️ Unorganized/General Notes/Changing Boot Order from Windows with BCDEdit.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Symlinks.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Hard links.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🔮 World Building/Science and Engineering/Index.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
@@ -281,9 +285,6 @@
     "🗃️ Unorganized/General Notes/Cold Dark Matter.md",
     "🗃️ Unorganized/General Notes/More about why electric field and magnetic field aren't relativistic effects of one another.md",
     "🗃️ Unorganized/Explanatory Articles/Understanding Quantum Fields.md",
-    "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
-    "🗃️ Unorganized/General Notes/Ohnesorge Number.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
