@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdd813cca1f43f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -257,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My custom Hyprland config.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md"
               }
             }
           },
@@ -345,7 +358,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7d77749accb0940f",
+  "active": "cdd813cca1f43f31",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
     "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
