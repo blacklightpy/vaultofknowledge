@@ -9,7 +9,7 @@
 *Goals Level 1:*
 - Knowledgebase should support backlink views
 - Search functionality for notes
-Goals Level 2:
+*Goals Level 2:*
 - Should show graph of interconnections. Useful for large data.
 **Writing blog**
 - Use categories (and tags?) to your advantage
