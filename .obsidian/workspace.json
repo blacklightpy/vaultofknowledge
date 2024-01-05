@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+                "file": "🗃️ Unorganized/General Notes/Standard Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+                "file": "🗃️ Unorganized/General Notes/Standard Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md"
+                "file": "🗃️ Unorganized/General Notes/Standard Model.md"
               }
             }
           },
@@ -305,7 +305,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "25259ec8e613230f",
+  "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
