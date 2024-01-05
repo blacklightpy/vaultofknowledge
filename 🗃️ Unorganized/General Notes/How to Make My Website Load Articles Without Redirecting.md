@@ -1,17 +1,27 @@
 # Premise
 - I don't like how pages redirect whenever I click a folder note, but I like there being folder notes..
 - I'd like to avoid using iframes.
+
+
+> [!summary] Result
+> I chose to go with the Idea 1, omitting folder notes, instead choosing to simply let them be present with breadcrumbs.
+> 
+> Howe
+
 # Idea 1 (Don't have folder notes)
 - Folder notes are different from traditional idea of folders.
 - But websites usually have index.html files for folders
 - But we don't usually navigate like that in a wiki of articles, as for us there are no folders in a website
-- Usually all the "folders" are in the "navigation bar" itself
+- Usually all the "folders" are in the "navigation bar" itself.
+- Otherwise, subfolders or subpages can only be reached from other pages, like a sub-brand page
+- Anyways, the concept of a folder doesn't lend itself well to navigation
+- Dynamically loading site content can be weird when you are simply going through navigation elements
+- Instead, a better approach would be to have an index page which does affect the breadcrumbs, but not the directory tree clicks.
 # Idea 2 (Going to do it)
 - Replace the content and the TOC pane divs with the page selected at the left, upon clicking the links.
 - So the ToC links must be replaced by an action that inserts them for every `onclick` event. So no redirection takes place.
 - The JS should fetch the other page, extract it's content and ToC panes, and replace it for the front page.
-# Other Ideas for Extending It
-## Splitting the 'Index' from 'Content and ToC'
+## Extra idea: Splitting the 'Index' from 'Content and ToC'
 - On the larger term, we can make it so that pages are only stored as content and ToC divs.. and the index page simply loads the articles using JS as per the queries (`website.com?content=Article Name`)
 - The content will be directly available to read without the Index page (`website.com/Aritcle Name.html`)
 	- But it will not have the ToC tree, which is okay as we don't care about the Index if we want just the content URL.
