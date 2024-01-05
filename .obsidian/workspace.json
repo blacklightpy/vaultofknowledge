@@ -97,9 +97,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0289a2cac21f7b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md"
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
               }
             }
           },
@@ -230,8 +242,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -254,14 +265,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3a8a62a6e6e0466",
+  "active": "e02808b88fe5ceef",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
-    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/Flow of Electricity.md",
+    "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
+    "🗃️ Unorganized/General Notes/Fermi velocity.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Fermions.md",
+    "🗃️ Unorganized/General Notes/Fermi surface.md",
+    "🗃️ Unorganized/General Notes/Drift Velocity.md",
+    "🗃️ Unorganized/General Notes/Delocalized Electrons.md",
+    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Changing Boot Order from Windows with BCDEdit.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Symlinks.md",
@@ -275,16 +293,9 @@
     "🗃️ Unorganized/General Notes/Parsing Markup.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Windows/Dynamically Linked Libraries.md",
-    "_assets/html_template.html.md",
     "_assets/html_template.html",
-    "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "_assets",
     "other assets",
-    "🗃️ Unorganized/General Notes/To solve in Electromagnetism.md",
-    "🗃️ Unorganized/General Notes/Abraham–Minkowski controversy.md",
-    "🗃️ Unorganized/General Notes/Cold Dark Matter.md",
-    "🗃️ Unorganized/General Notes/More about why electric field and magnetic field aren't relativistic effects of one another.md",
-    "🗃️ Unorganized/Explanatory Articles/Understanding Quantum Fields.md",
     "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
