@@ -137,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Standard Model.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Standard Model.md",
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Standard Model.md"
+                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
               }
             }
           },
@@ -292,10 +291,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "62a1f2aac175ca28",
+  "active": "e02808b88fe5ceef",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Higgs Mechanism.md",
+    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/Standard Model.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Higgs Mechanism.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "🗃️ Unorganized/General Notes/Scientific Theories are Not Proven, They Are Validated.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
@@ -308,8 +309,6 @@
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
-    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
     "🗃️ Unorganized/General Notes/Fermi velocity.md",
