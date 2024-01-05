@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Today's Todos (5 Jan 2023).md",
+                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Today's Todos (5 Jan 2023).md",
+                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Today's Todos (5 Jan 2023).md"
+                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md"
               }
             }
           },
@@ -332,20 +332,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "161684a4658afa1e",
+  "active": "66bfa2835cdf1692",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+    "🗃️ Unorganized/General Notes/How to destroy the world.md",
+    "🗃️ Unorganized/General Notes/Today's Todos (5 Jan 2023).md",
     "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
     "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
     "🤠 Personal/Personal Website Ideas.md",
-    "🗃️ Unorganized/General Notes/Today's Todos (5 Jan 2023).md",
     "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
-    "🗃️ Unorganized/General Notes/How to destroy the world.md",
     "🗃️ Unorganized/General Notes/Standard Model.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
@@ -359,7 +360,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict/Russo-Ukraine Conflict.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Colour Models.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Image Colour Appearance Models/Image Colour Appearance Models.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",

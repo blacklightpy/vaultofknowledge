@@ -10,12 +10,17 @@
 
 - So the logic is slavery
 - Slavery is a part of life, the strong prey upon the weak - which is the way of nature.
+
+- If that is the case why must I not kill a human if I'm stronger than them?
+- Because the people they care about will fight back
+
+- Why can't I kill a random person who no body likes, but is innocent
 # Precise design
 - As far as I'm concerned, the universe is of a precise design.
 
-- But that doesn't mean it was designed by a "god" or 
+- But that doesn't mean it was designed by a "god" or a outside creator
 
-WiFi
+- Wi-Fi for example, was not designed by a "designer".
 # My view
 - I'm not even saying that it is polytheistic
 
