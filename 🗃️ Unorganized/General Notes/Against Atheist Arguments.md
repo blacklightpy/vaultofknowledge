@@ -11,6 +11,7 @@
 - So the logic is slavery
 - Slavery is a part of life, the strong prey upon the weak - which is the way of nature.
 # Precise design
+- As far as I'm concerned, the universe is of a precise design.
 
 - WiFi
 # My view
@@ -18,4 +19,4 @@
 
 I'm saying that the universe is like a dancer in an outfit.
 
-It is the painter and the painting
+It is the painter and the painting.
