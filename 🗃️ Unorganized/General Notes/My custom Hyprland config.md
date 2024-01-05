@@ -13,12 +13,12 @@
 
 - Programs to execute.
 
-I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), PipeWire Audio Service, KDE Connect Daemon, KDE Connect Tray Indicator, [[Polkit]] KDE Agent, XHost command (To add a rule to allow programs launched as root to access the X server)
+I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), PipeWire Audio Service, KDE Connect Daemon, KDE Connect Tray Indicator, [[Polkit]] KDE Agent, XHosts command (To add a rule to allow programs launched as root to access the X server)
 
-> [!info] More on XHost
-> Hyprland already adds the XHost rule for the local user, and I had to add one for root.
+> [!info] More on XHosts
+> Hyprland already adds the XHosts rule for the local user, and I had to add one for root.
 > 
-> XHost is similar to XAuth, which does the same, but with setting up a magic number for authentication.
+> XHosts is similar to XAuth, which does the same, but with setting up a magic number for authentication.
 > 
 > Both then use $XAUTHORITY, $HOME/.XAuthority, or other variables to get the access control list.
 
@@ -28,7 +28,41 @@ I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), P
 exec-once = ags & swww-daemon & pipewire & /usr/libexec/kdeconnectd & kdeconnect-indicator & /usr/libexec/polkit-kde-authentication-agent-1 & xhost +SI:localuser:root
 ```
 
-- 
+- Keybindings
+
+First I disabled the 
+
+```Shell
+# bind = $mainMod, R, exec, wofi --show drun`
+```
+
+AGS
+```Shell
+# reload
+bind=CTRL SHIFT, R,  exec, ags quit; ags -b hypr
+
+# opening windows
+bind=SUPER, R,       exec, ags -t applauncher
+bind=,XF86PowerOff,  exec, ags -t powermenu
+bind=SUPER, Tab,     exec, ags -t overview
+
+# screenshot & screenrecord
+bind=SUPER SHIFT, R, exec, ags -r 'recorder.start()' # start/stop toggle
+bind=SUPER ALT, P,   exec, ags -r 'recorder.screenshot()'
+bind=SUPER SHIFT, P, exec, ags -r 'recorder.screenshot(true)'
+
+# brightness adjusting
+bindle=,XF86MonBrightnessUp,   exec, ags -r 'brightness.screen += 0.05; indicator.display()'
+bindle=,XF86MonBrightnessDown, exec, ags -r 'brightness.screen -= 0.05; indicator.display()'
+bindle=,XF86KbdBrightnessUp,   exec, ags -r 'brightness.kbd++; indicator.kbd()'
+bindle=,XF86KbdBrightnessDown, exec, ags -r 'brightness.kbd--; indicator.kbd()'
+
+# volume adjusting
+bindle=,XF86AudioRaiseVolume,  exec, ags -r 'audio.speaker.volume += 0.05; indicator.speaker()'
+bindle=,XF86AudioLowerVolume,  exec, ags -r 'audio.speaker.volume -= 0.05; indicator.speaker()'
+
+bind= SUPER, F, fullscreen
+```
 # Default Hyprland config
 ```Shell
 
