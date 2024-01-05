@@ -10,7 +10,7 @@
 
 3. Optional (as I wanted to scale the resolution of my monitor to make it smaller. The result was blurry)
 
-```
+```Shell
 # uncomment below lines to scale the monitor (bad in X11)
 # 0.937 gives back 1366 points horizontally
 # $scale=1
@@ -35,7 +35,7 @@ I used the following programs:
 > 
 > Both then use $XAUTHORITY, $HOME/.XAuthority, or other variables to get the access control list.
 
-```
+```Shell
 # Execute your favorite apps at launch
 # exec-once = waybar & hyprpaper & firefox
 exec-once = ags & swww-daemon & pipewire & /usr/libexec/kdeconnectd & kdeconnect-indicator & /usr/libexec/polkit-kde-authentication-agent-1 & xhost +SI:localuser:root
@@ -49,7 +49,7 @@ First I disabled the Wofi launcher keybinding to use Aylur's AGS app launcher wi
 # bind = $mainMod, R, exec, wofi --show drun`
 ```
 
-Aylur's AGS widget keybindings
+Aylur's AGS widget keybindings (I believe I had to make some modification to set the screenshot/recording utility used)
 
 ```Shell
 # reload
@@ -79,6 +79,7 @@ bind= SUPER, F, fullscreen
 ```
 
 Adding my own bindings
+
 `bind= SUPER, F, fullscreen`
 # Default Hyprland config
 ```Shell
