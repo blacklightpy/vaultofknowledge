@@ -1,4 +1,4 @@
-> [!NOTE] Notes on [[Orbital Mechanics]]
+> [!NOTE] Notes on Orbital Mechanics
 > - Kepler's Laws of Motion
 > - Newton's Laws of Gravitation
 > - Newton's Laws of Motion

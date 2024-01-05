@@ -188,22 +188,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cdd813cca1f43f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -270,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
+                "file": "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
+                "file": "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md"
+                "file": "🗃️ Unorganized/General Notes/My custom Hyprland config.md"
               }
             }
           },
@@ -358,8 +345,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cdd813cca1f43f31",
+  "active": "7d77749accb0940f",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
     "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
     "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
@@ -385,7 +373,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Colour Models.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Image Colour Appearance Models/Image Colour Appearance Models.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
