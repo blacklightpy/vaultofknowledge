@@ -13,7 +13,9 @@
 # Precise design
 - As far as I'm concerned, the universe is of a precise design.
 
-- WiFi
+- But that doesn't mean it was designed by a "god" or 
+
+WiFi
 # My view
 - I'm not even saying that it is polytheistic
 
