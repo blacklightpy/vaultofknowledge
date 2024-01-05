@@ -111,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md",
+                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -207,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Problems with glibc.md"
+                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md"
               }
             }
           },
@@ -265,8 +266,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e02808b88fe5ceef",
+  "active": "fa821dc903f65f93",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
@@ -280,7 +282,6 @@
     "🗃️ Unorganized/General Notes/Delocalized Electrons.md",
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
-    "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Changing Boot Order from Windows with BCDEdit.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Symlinks.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Hard links.md",
