@@ -9,6 +9,8 @@
 > 
 > Why would that be? Because breadcrumbs use a unique name for every directory? That would have problems for similarly named directories too.. But perhaps they also store paths? But then it wouldn't conflict with an index.html file..
 
+**Format of breadcrumbs:**
+
 ```HTML
 <div class="breadcrumbs" style="flex:1 ;padding: 0.5rem; width: fit-content;display: inline;border-radius: 0.2rem;">
 	<a href="/vaultofknowledge/" style="color: rgb(var(--normal-text-color));">Home</a>
