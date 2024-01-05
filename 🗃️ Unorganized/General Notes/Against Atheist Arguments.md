@@ -14,7 +14,9 @@
 - If that is the case why must I not kill a human if I'm stronger than them?
 - Because the people they care about will fight back
 
-- Why can't I kill a random person who no body likes, but is innocent
+- Why can't I kill a random person who no body cares about, but is innocent
+
+This is only the 
 # Precise design
 - As far as I'm concerned, the universe is of a precise design.
 

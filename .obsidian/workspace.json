@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md"
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md"
               }
             }
           },
@@ -332,8 +332,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "66bfa2835cdf1692",
+  "active": "4d5e0cc893485e2b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/How to destroy the world.md",
@@ -359,7 +360,6 @@
     "🗺️ World Exploration/History/Civilizations/Civilizations.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict/Russo-Ukraine Conflict.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Colour Models.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
