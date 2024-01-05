@@ -1,0 +1,1 @@
+It explains the way in which particles acquire mass due to the [[Higgs field]].
