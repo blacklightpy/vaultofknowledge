@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
+                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
+                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
+                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md"
+                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md"
               }
             }
           },
@@ -321,6 +321,11 @@
   },
   "active": "66d9253c4720e167",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
+    "🗃️ Unorganized/General Notes/Principles of Mechanics.md",
+    "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+    "🗃️ Unorganized/General Notes/Finite Element Method.md",
+    "🗃️ Unorganized/General Notes/Btrfs Notes.md",
     "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
@@ -342,11 +347,6 @@
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/ΛCDM Model.md",
     "🔮 World Building/Business and Finance/Trading/Trading.md",
-    "🔮 World Building/Business and Finance/Company Management/Project Management/Project Management.md",
-    "🗺️ World Exploration/History/History.md",
-    "🗺️ World Exploration/History/Civilizations/Civilizations.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict/Russo-Ukraine Conflict.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
