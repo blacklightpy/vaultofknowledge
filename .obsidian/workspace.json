@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +197,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -247,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md"
               }
             }
           },
@@ -309,8 +308,12 @@
   "active": "62a1f2aac175ca28",
   "lastOpenFiles": [
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/ΛCDM Model.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
+    "🗃️ Unorganized/General Notes/Standard Model.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Electroweak Epoch.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/ΛCDM Model.md",
     "🔮 World Building/Business and Finance/Trading/Trading.md",
     "🔮 World Building/Business and Finance/Company Management/Project Management/Project Management.md",
     "🗺️ World Exploration/History/History.md",
@@ -330,10 +333,6 @@
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Index of Mechanics.md",
     "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
     "🔮 World Building/Science and Engineering/Engineering/Mechanical Manufacturing/Mechanical Manufacturing.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Physical Cosmology.md",
-    "🔮 World Building/Science and Engineering/Physics/Electronics and Electricity/Vacuum Tubes/Vacuum Tubes.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Optics.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
