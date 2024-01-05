@@ -19,8 +19,8 @@ I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), P
 > Hyprland already adds the XHost rule for the local user, and I had to add one for root.
 > 
 > XHost is similar to XAuth, which does the same, but with setting up a magic number for authentication.
-> f
-> Both then use 
+> 
+> Both then use $XAUTHORITY, $HOME/.XAuthority, or other variables to get the access control list.
 
 ```
 # Execute your favorite apps at launch
