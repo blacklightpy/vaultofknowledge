@@ -13,7 +13,7 @@
 
 - Programs to execute.
 
-I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), PipeWire Audio Service, KDE Connect Daemon, KDE Connect Tray Indicator, [[Polkit]] KDE Agent, XHost (with command to set)
+I used AGS (Aylur's GTK Shell), SWWW Daemon (Simple Wayland Wallpaper Widget), PipeWire Audio Service, KDE Connect Daemon, KDE Connect Tray Indicator, [[Polkit]] KDE Agent, XHost command (To add a rule to allow X11  programs launched as root to access the X server)
 
 ```
 # Execute your favorite apps at launch
