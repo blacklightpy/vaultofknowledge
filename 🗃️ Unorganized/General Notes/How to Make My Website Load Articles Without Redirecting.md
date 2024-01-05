@@ -1,13 +1,15 @@
 # Premise
 - I don't like how pages redirect whenever I click a folder note, but I like there being folder notes..
-- I'd like to avoid using `iframe`s.
+- I'd like to avoid using `iframe` s.
 
 > [!summary] Result
 > I chose to go with the Idea 1, omitting folder notes, instead choosing to simply let them be present with breadcrumbs.
 > 
-> However, since ObsidianHTML doesn't allow index.html for other pages in breadcrumbs (unless I try fixing that), I'll have to use a different name for page indices, like "Index of {title}".
+> However, since ObsidianHTML doesn't allow `index.html` for other pages in breadcrumbs (unless I try fixing that), I'll have to use a different name for page indices, like "Index of {title}".
 > 
-> Why would that be? Because breadcrumbs use a unique name for every directory? That would have problems for similarly named directories too.. But perhaps they also store paths? But then it wouldn't conflict with an index.html file..
+> But why would that be? Because breadcrumbs use a unique name for every directory? That would have problems for similarly named directories too.. But perhaps they also store paths? But then it wouldn't conflict with an `index.html` file.. Perhaps it is relative addressing that causes problems?
+> 
+> Anyways, I'll have to edit Breadcrumbs code if I'm to let it accept "Index of {title}" pages, so I might as well deal with fixing the `index.html` files
 
 **Format of breadcrumbs:**
 
