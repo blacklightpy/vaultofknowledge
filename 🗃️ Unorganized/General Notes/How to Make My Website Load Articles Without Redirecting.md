@@ -5,7 +5,7 @@
 > [!summary] Result
 > I chose to go with the Idea 1, omitting folder notes, instead choosing to simply let them be present with breadcrumbs.
 > 
-> However, since ObsidianHTML doesn't allow index.html for other pages in breadcrumbs (unless I try fixing that), I'll have to use a different name for page indices, like 
+> However, since ObsidianHTML doesn't allow index.html for other pages in breadcrumbs (unless I try fixing that), I'll have to use a different name for page indices, like "Index of {title}".
 > 
 > Why would that be? Because breadcrumbs use a unique name for every directory? That would have problems for similarly named directories too.. But perhaps they also store paths? But then it wouldn't conflict with an index.html file..
 
