@@ -14,8 +14,8 @@ Video Compression Method
 			- PAL (625 (576 visible) lines 50 Hz) (digital: 576i or 576i50 (50i/25p)) - YUV
 				- Variants: B, G, H, I, D/K, L, M (YUV), N (YDbDr)
 			- SECAM (built in search of NTSC hue problems) - YDbDr
-		- Signal contans on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [[Luminance]] (Y) of the picture and a [[Modulation|modulated]] [[Chrominance]] (C), a combination of [[Hue]] and [[Saturation]]. The combining process is different for NTSC, PAL and SECAM systems.
-		- The signals may be seperated by a [[comb filter]]. The combination is a frequency division technique, but it is more complex that [[Frequency Division Multiplexing]].
+		- Signal contains on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [[Luminance]] (Y) of the picture and a [[Modulation|modulated]] [[Chrominance]] (C), a combination of [[Hue]] and [[Saturation]]. The combining process is different for NTSC, PAL and SECAM systems.
+		- The signals may be separated by a [[comb filter]]. The combination is a frequency division technique, but it is more complex that [[Frequency Division Multiplexing]].
 	- S-Video
 		- 2 channel YC
 	- Component Video
@@ -35,10 +35,10 @@ Video Compression Method
 
 # Types
 - Interlaced
-- Interlaced video is a technique for doubling the percieved frame rate of a video without consuming more bandwidth. It only contains two fields fo a video frame captured conescutively. This enhances motion perception and reduces flicker by taking advantage of the phi phenomenon (illusory ).
+- Interlaced video is a technique for doubling the perceived frame rate of a video without consuming more bandwidth. It only contains two fields for a video frame captured consecutively. This enhances motion perception and reduces flicker by taking advantage of the phi phenomenon (illusory ).
 	- Fields
-		- One of the many still images which are displayes sequentially to create the impression of motion on the screen. Two fields comprise one video frame.
-		- When fields are displayed on a video monitor, they are interlaced so that the ocntent of one field will be used on all of the odd-numbered lines on the screen and the other field will be displayed on the even lines.
+		- One of the many still images which are displayed sequentially to create the impression of motion on the screen. Two fields comprise one video frame.
+		- When fields are displayed on a video monitor, they are interlaced so that the content of one field will be used on all of the odd-numbered lines on the screen and the other field will be displayed on the even lines.
 		- Converting fields to a still frame image requires a process called deinterlacing, in which the missing lines are duplicated or interpolated to recreate the information that would have been contained in the field. However, since each field contains only half of the information, deinterlaced images do not have the resolution of a full frame.
 	- Frames
 		- Video
