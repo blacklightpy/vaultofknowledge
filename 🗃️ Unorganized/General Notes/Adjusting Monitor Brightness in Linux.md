@@ -1,13 +1,16 @@
 The kernel backlight interface does not include external monitor support.
 
-We use `i2c-dev` and `ddcci-linux` kernel modules for the same.
+- We use `i2c-dev` and `ddcci-linux` kernel modules for the same.
 
-The utilities are `ddcutil`, and others like Brightness, brillo, `ddccontrol`, etc.
+- The utilities are `ddcutil`, and others like Brightness, brillo, `ddccontrol`, etc.
 
-The interface is called DDC/CI (Display Data Channel/Command Interface), a bidirectional interface.
+- The interface is called DDC/CI (Display Data Channel/Command Interface), a bidirectional interface
+	- The commands to control the monitors are specified in the Monitor Control Command Set (MCCS) standard
 
-The commands to control the monitors are specified in the Monitor Control Command Set (MCCS) standard.
+- The Extended Display Identification Data (EDID) and Enhanced-EDID are metadata standards published by [[Video Electronics Standards Association|VESA]] for display devices to convey their display capabilities to the video source.
+	- It is said to be replaced by DisplayID
 
-- The Extended Display Identification Data (EDID) and  is a standard published by [[Video Electronics Standards Association|VESA]].
+- EDID is used in combination with DCC
 # Notes from Arch Wiki
-- using `i2c-dev` and `ddcci-linux` simultaneously may cause problems
+- Using `i2c-dev` and `ddcci-linux` simultaneously may cause problems.
+	- I find contra
