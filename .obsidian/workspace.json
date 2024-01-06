@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Running Linux Programs in FreeBSD.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Running Linux Programs in FreeBSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Running Linux Programs in FreeBSD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md"
+                "file": "🗃️ Unorganized/General Notes/Running Linux Programs in FreeBSD.md"
               }
             }
           },
@@ -360,8 +360,9 @@
   },
   "active": "7c1b4ce3b0564c8a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Graphing My Website.md",
     "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+    "🗃️ Unorganized/General Notes/Running Linux Programs in FreeBSD.md",
+    "🗃️ Unorganized/General Notes/Graphing My Website.md",
     "Home.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
     "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
@@ -388,7 +389,6 @@
     "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
     "🗃️ Unorganized/General Notes/Principles of Mechanics.md",
     "🗃️ Unorganized/General Notes/Finite Element Method.md",
-    "🗃️ Unorganized/General Notes/Btrfs Notes.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
