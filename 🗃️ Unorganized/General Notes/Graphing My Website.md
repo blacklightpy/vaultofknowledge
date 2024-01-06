@@ -5,7 +5,7 @@
 There are some ideas from d3-force gallery like:
 - [Mobile Patent Suites](https://observablehq.com/@d3/mobile-patent-suits?collection=@d3/d3-force) (Named nodes with unidirectional arrow links)
 - [Temporal Force Graph](https://observablehq.com/@d3/temporal-force-directed-graph?collection=@d3/d3-force)
-- 
+- [Disjoint force-directed graph](https://observablehq.com/@d3/disjoint-force-directed-graph/2?collection=@d3/d3-force) (Prevents nodes from going outside the viewport)
 # Considerations
 One may expect the graph to look like this:
 ![[Force Graph.png]]
