@@ -1,0 +1,410 @@
+{
+  "main": {
+    "id": "b70ca383e6375113",
+    "type": "split",
+    "children": [
+      {
+        "id": "23033e7b1a74d49b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ed843398b6d55d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d9028e5761b43b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0d5f7e58d33878a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7f726abb0bb778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53e120e55fc44eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "860062730af21542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d5e0cc893485e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66bfa2835cdf1692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04eda086ef04f633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "749d0cfa63fac9b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f22760383ab3cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to destroy the world.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66d9253c4720e167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5606b075e65f074a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c1b4ce3b0564c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fbf6acc6e309647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Art of Creation/Particles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77bfa6f717c9b8f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "09852b9a2f6708a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44eef348059920d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07135975f7c01c70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3fe2d9c9de27298",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ded3abf6202b66bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c54109d5cffb082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16ff280e8d0f3b88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔮 World Building/Art of Creation/Particles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d20ce981f3f0a6f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🔮 World Building/Art of Creation/Particles.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3298e62d4c40f851",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🔮 World Building/Art of Creation/Particles.md"
+              }
+            }
+          },
+          {
+            "id": "9c01d4e2aecebd34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ab42dcc53840b27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "9f70af76281fdc1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "8fbf6acc6e309647",
+  "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+    "🔮 World Building/Art of Creation/Particles.md",
+    "Home.md",
+    "🔮 World Building/Art of Creation/Creation.md",
+    "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
+    "🗃️ Unorganized/General Notes/How to destroy the world.md",
+    "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
+    "🗃️ Unorganized/General Notes/Principles of Mechanics.md",
+    "🗃️ Unorganized/General Notes/Finite Element Method.md",
+    "🗃️ Unorganized/General Notes/Btrfs Notes.md",
+    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
+    "🗃️ Unorganized/General Notes/Four-vector.md",
+    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+    "🗃️ Unorganized/General Notes/Today's Todos (5 Jan 2023).md",
+    "🗃️ Unorganized/General Notes/My custom Hyprland config.md",
+    "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
+    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
+    "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
+    "🤠 Personal/Personal Website Ideas.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
+    "_assets/html_template.html",
+    "_assets",
+    "other assets",
+    "_images/Pasted image 20240103210806.png",
+    "🤠 Personal/Project Ideas",
+    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
+    "🗃️ Unorganized/Explanatory Articles",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
+    "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough",
+    "_images/favicon.png",
+    "_images/Indo-European_expansions.jpg",
+    "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
+    "_images/Korea_DMZ.svg.png",
+    "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
+    "_images/Types of Digital Modulation.png",
+    "_images/Expulsion_judios-en.svg.png",
+    "_images/A misleading Pegasus infographic from Guardian.png",
+    "_images/Islamic Covering Clothing for Women.jpg"
+  ]
+}
