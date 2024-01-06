@@ -11,3 +11,4 @@
 - World Wide Web Consortium (W3C)
 - Universal Postal Union (UPU)
 - Airlines Electronics Engineering Committee (AEEC)
+- [[Video Electronics Standards Association]] (VESA)
