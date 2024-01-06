@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md"
               }
             }
           },
@@ -360,11 +360,15 @@
   },
   "active": "7c1b4ce3b0564c8a",
   "lastOpenFiles": [
+    "Home.md",
+    "🗃️ Unorganized/General Notes/Graphing My Website.md",
+    "_images/Force Graph.png",
+    "_images/Light penetration in water.png",
+    "_images/Pasted image 20240106180105.png",
     "🔮 World Building/Art of Creation/Particles.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-    "Home.md",
     "🔮 World Building/Art of Creation/Creation.md",
     "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
@@ -384,12 +388,9 @@
     "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Astrophysics.md",
     "🗃️ Unorganized/General Notes/How to Scale my Website for Small Screens.md",
-    "🤠 Personal/Personal Website Ideas.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/GNU's Not UNIX/GNU's Not UNIX.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
-    "_images/Pasted image 20240103210806.png",
     "🤠 Personal/Project Ideas",
     "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
     "🗃️ Unorganized/Explanatory Articles",
@@ -403,8 +404,6 @@
     "_images/Korea_DMZ.svg.png",
     "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
     "_images/Types of Digital Modulation.png",
-    "_images/Expulsion_judios-en.svg.png",
-    "_images/A misleading Pegasus infographic from Guardian.png",
-    "_images/Islamic Covering Clothing for Women.jpg"
+    "_images/Expulsion_judios-en.svg.png"
   ]
 }
