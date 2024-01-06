@@ -8,7 +8,7 @@ There are some ideas from d3-force gallery like:
 - [Disjoint force-directed graph](https://observablehq.com/@d3/disjoint-force-directed-graph/2?collection=@d3/d3-force) (Prevents nodes from going outside the viewport)
 
 For other libraries:
-- [Profus | Java Library](https://www.youtube.com/watch?v=dCLc6oB3Q3o) (Visualization of a wiki, with node sizes representing activity)
+- [Prefuse | Java Library](https://www.youtube.com/watch?v=dCLc6oB3Q3o) (Temporal visualization of a wiki, with node sizes representing activity)
 # Considerations
 One may expect the graph to look like this:
 ![[Force Graph.png]]
