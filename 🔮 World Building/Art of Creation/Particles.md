@@ -1,4 +1,4 @@
-Particles are the basic units with which we work with in our world. Any entity can be a
+Particles are the basic units with which we work with in our world. Any entity can be a particle, and particles can have subparticles. 
 
 - Energy
 ### Fundamental Particles

@@ -8,6 +8,7 @@ A four-vector
 - Spin Groups (SO(1,3), etc.)
 - Abelian Groups ([[Quantum Electrodynamics]])
 - Non-Abelian Groups
+- Gauge Symmetries
 - Lie Groups
 	- SO()
 	- SU()
