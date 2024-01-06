@@ -18,7 +18,7 @@ You can explore the notes using the search functionality or from the table of co
 - **🗃️ Unorganized:** Most notes I take are under the "General Notes" section here, because I can be too lazy to organize them.
 ## Other Notes
 
-This site additionaly features a **graph view** for all the notes in both 3D and 2D, under each page, and also as a separate global view. While this may not be very useful, it can help to see the ways in which some groups of tightly related topics connect to a very di
+This site additionaly features a **graph view** for all the notes in both 3D and 2D, under each page, and also as a separate global view. While this may not be very useful, it can help to see the ways in which some groups of tightly related topics connect to a very different set of topics.
 
 I haven't taken the time to style out the website, but this is it for now. I went with that it is better to make something than avoid doing anything at all while waiting for perfection.
 
