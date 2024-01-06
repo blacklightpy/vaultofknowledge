@@ -1,0 +1,1 @@
+An intuitive descriptionhttps://cronodon.com/Atomic/Strings.html

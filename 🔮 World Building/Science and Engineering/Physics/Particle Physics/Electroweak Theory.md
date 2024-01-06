@@ -1,6 +1,6 @@
 This is a theory that combines two of the four fundamental forces, the electromagnetic force and the weak nuclear force into a single, electroweak force.
 
-In simple terms, at high energies, the $Z^0$ boson dominates the photon-photon interactions. This behav
+In simple terms, the $Z^0$ boson can mediate any reaction mediated by virtual photons. This means it can interact with electromagnetic-like particles. But this contribution is very low at low energies. But at high energies, the $Z^0$ boson dominates the photon-photon interactions.
 # Description
 
 According to the electroweak theory, at very high energies, the universe has four components to the Higgs field, whose interactions are carried by four massless gauge bosons, similar to the photon, forming a complex scalar Higgs field doublet.

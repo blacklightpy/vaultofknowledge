@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+                "file": "🗃️ Unorganized/General Notes/String Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+                "file": "🗃️ Unorganized/General Notes/String Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+                "file": "🗃️ Unorganized/General Notes/String Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md"
+                "file": "🗃️ Unorganized/General Notes/String Theory.md"
               }
             }
           },
@@ -334,9 +334,10 @@
   },
   "active": "5606b075e65f074a",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+    "🗃️ Unorganized/General Notes/String Theory.md",
     "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
     "🗃️ Unorganized/General Notes/How to destroy the world.md",
     "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
     "🗃️ Unorganized/General Notes/Principles of Mechanics.md",
@@ -359,7 +360,6 @@
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Electroweak Epoch.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/ΛCDM Model.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
