@@ -1,6 +1,6 @@
-Particles are the basic units with which we work with in our world.
+Particles are the basic units with which we work with in our world. Any entity can be a
 
-Energy
+- Energy
 ### Fundamental Particles
 - Quarks, Leptons, Vector Bosons, Scalar Bosons
 - Neutrons, Protons, Electrons
