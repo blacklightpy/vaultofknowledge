@@ -7,3 +7,6 @@ It combines quantum mechanics with special relativity.
 - [[Quantum Hadrodynamics]] - An effective field theory that explains [[Hadrons|hadron]]-hadron interactions
 - [[Quantum Hydrodynamics]] - Deals with hydrodynamic-like systems which exhibit quantum mechanical behaviour
 - [[Electroweak Theory]] - Unifies QCD and QFD at the high energies observed in the [[electroweak epoch]] of the universe according to the [[ΛCDM model]] of [[physical cosmology]]
+
+## Proposed names
+- Quan
