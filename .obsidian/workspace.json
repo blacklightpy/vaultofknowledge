@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md",
+                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md",
+                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md",
+                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Graphing My Website.md"
+                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md"
               }
             }
           },
@@ -360,16 +360,17 @@
   },
   "active": "7c1b4ce3b0564c8a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Graphing My Website.md",
+    "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+    "_images/Force Graph.png",
+    "_images/Light penetration in water.png",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
-    "🗃️ Unorganized/General Notes/Graphing My Website.md",
     "🔮 World Building/Art of Creation/Particles.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "Home.md",
-    "_images/Force Graph.png",
-    "_images/Light penetration in water.png",
     "_images/Pasted image 20240106180105.png",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",

@@ -1,6 +1,5 @@
 - ObsidianHTML uses vasturiano/force-graph (3D) and vasturiano/2d-force-graph (2D)
 - Both are based on d3-force library.
-
 # Ideas
 There are some ideas from d3-force gallery like:
 - [Mobile Patent Suites](https://observablehq.com/@d3/mobile-patent-suits?collection=@d3/d3-force) (Named nodes with unidirectional arrow links)
