@@ -1,4 +1,4 @@
-- ObsidianHTML uses vasturiano/3d-force-graph and vasturiano/2d-force-graph
+- ObsidianHTML uses vasturiano/force-graph (3D) and vasturiano/2d-force-graph (2D)
 - Both are based on d3-force library.
 
 # Ideas
