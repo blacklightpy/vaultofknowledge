@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fbf6acc6e309647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Art of Creation/Creation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -257,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "🔮 World Building/Art of Creation/Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "🔮 World Building/Art of Creation/Creation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "🔮 World Building/Art of Creation/Creation.md"
               }
             }
           },
@@ -345,8 +358,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7c1b4ce3b0564c8a",
+  "active": "8fbf6acc6e309647",
   "lastOpenFiles": [
+    "Home.md",
     "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
@@ -372,7 +386,6 @@
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Grand Unified Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Electroweak Epoch.md",
-    "🔮 World Building/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Quark Epoch.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",
