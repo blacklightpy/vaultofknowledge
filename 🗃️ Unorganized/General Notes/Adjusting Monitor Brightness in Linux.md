@@ -1,12 +1,19 @@
 # Problem
 
 The kernel backlight interface does not include external monitor support.
-# Process
+# Plan and Data
 
 - We need to gather information about external monitors using their display information interface (DDC/CI and EDID) and supply the right commands.
 
 - We use `i2c-dev` and `ddcci-linux` kernel modules for the same.
 - The main utility is `ddcutil`, but there are others like Brightness, brillo, `ddccontrol`, etc.
+
+From [](https://linux-i2c.vger.kernel.narkive.com/BwIEWfXY/ddc-ci-over-i2c):
+- A monitor is accessed via device `/dev/i2c-n`, created by the video device driver.
+- EDID data is found by reading address 0x50.
+- The monitor's settings are read and written at address 0x37.
+- 
+# Notes I've
 # Display Information
 ## Interaction Interface
 - The interface is called DDC/CI (Display Data Channel/Command Interface), a bidirectional interface
