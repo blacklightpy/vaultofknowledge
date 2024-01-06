@@ -15,7 +15,7 @@ You can explore the notes using the search functionality or from the table of co
 - **🗃️ Unorganized:** Most notes I take are under the "General Notes" section here, because I can be too lazy to organize them.
 ## Other Notes
 
-The UI of the website isn't optimized for mobile phones, and even for websites. I built this page using a Obsidian-flavoured markdown vault to website generator named ObsidianHTML.
+I have updated the UI for mobile phone
 
 I haven't taken the time to style out the website, but this is it for now. I went with that it is better to make something than avoid doing anything at all while waiting for perfection.
 
