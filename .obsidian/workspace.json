@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -270,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md"
+                "file": "Home.md"
               }
             }
           },
@@ -360,8 +360,10 @@
   },
   "active": "7c1b4ce3b0564c8a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
+    "🗃️ Unorganized/General Notes/Graphing My Website.md",
     "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
+    "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Display Systems.md",
     "🗃️ Unorganized/General Notes/Video.md",
     "🗃️ Unorganized/General Notes/Comb Filter.md",
@@ -369,7 +371,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/International Commission on Illumination.md",
     "🗃️ Unorganized/General Notes/Video Electronics Standards Association.md",
     "🗃️ Unorganized/General Notes/KVM Switch.md",
-    "🗃️ Unorganized/General Notes/Graphing My Website.md",
     "_images/Force Graph.png",
     "_images/Light penetration in water.png",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
@@ -388,7 +389,6 @@
     "🗃️ Unorganized/General Notes/Principles of Mechanics.md",
     "🗃️ Unorganized/General Notes/Finite Element Method.md",
     "🗃️ Unorganized/General Notes/Btrfs Notes.md",
-    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",

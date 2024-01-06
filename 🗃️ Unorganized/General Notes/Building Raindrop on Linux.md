@@ -1,10 +1,9 @@
 Just like Anytype, I had difficulty building Raindrop too, since I'm using Void Linux musl libc edition.
 
 I will follow the release build commands from the GitHub Actions than the build guide now. I'm only taking the steps relevant to Linux, given in `linux.yml` workflow.
-
 # What works for now
 - The Flatpakref by https://github.com/tinywrkb/flathub works, but it doesn't build from scratch. It takes the binary from the snap release and unsquashes it, and packs it into a glibc container.
-- I believe the packages have dependency
+- I believe the packages have dependency conflict, so even replicating that build may not be enough, I'd have to updated the package versions manually.
 # GitHub: raindropio/desktop
 It looks like the latest commit titled "Upgrade Electron" (Jun 26 2023) that replaced all Yarn commands with NPM commands is what broke the build action. He also updated the Readme, so perhaps I should follow the old commands.
 
