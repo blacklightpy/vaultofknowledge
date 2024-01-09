@@ -151,12 +151,12 @@
             }
           },
           {
-            "id": "66d9253c4720e167",
+            "id": "090beaf9fcf38dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+                "file": "🗃️ Unorganized/General Notes/The importance of different ranges of vision.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,20 +164,7 @@
             }
           },
           {
-            "id": "5606b075e65f074a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c1b4ce3b0564c8a",
+            "id": "a9201e154b479910",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,22 +175,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8fbf6acc6e309647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Art of Creation/Particles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -334,13 +308,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,37 +330,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7c1b4ce3b0564c8a",
+  "active": "a9201e154b479910",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Running Linux Programs in FreeBSD.md",
-    "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
-    "🗃️ Unorganized/General Notes/Graphing My Website.md",
-    "Home.md",
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
-    "🗃️ Unorganized/General Notes/Building Raindrop on Linux.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Display Systems.md",
-    "🗃️ Unorganized/General Notes/Video.md",
-    "🗃️ Unorganized/General Notes/Comb Filter.md",
-    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/International Commission on Illumination.md",
-    "🗃️ Unorganized/General Notes/Video Electronics Standards Association.md",
-    "🗃️ Unorganized/General Notes/KVM Switch.md",
+    "🗃️ Unorganized/General Notes/The importance of different ranges of vision.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
+    "🔮 World Building/Geography/Deccan Plateau.md",
+    "🔮 World Building/Geography/Western Ghats.md",
+    "🗃️ Unorganized/General Notes/How to destroy the world.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Wavelength-weighted Power.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminous Intensity.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Radiometry.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
+    "🗃️ Unorganized/General Notes/Standard Model.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Fifth Force.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Beyond the Standard Model.md",
+    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+    "🗃️ Unorganized/General Notes/Yang-Mills Theory.md",
+    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+    "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+    "🔮 World Building/Art of Creation/Particles.md",
+    "🔮 World Building/Art of Creation/Creation.md",
+    "🗃️ Unorganized/General Notes/Four-vector.md",
+    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+    "🗃️ Unorganized/General Notes/Gauge Theory.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Lagrangian Mechanics.md",
     "_images/Force Graph.png",
     "_images/Light penetration in water.png",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
-    "🗃️ Unorganized/General Notes/Four-vector.md",
-    "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
-    "🔮 World Building/Art of Creation/Particles.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Quantum Mechanics/Quantum Field Theory.md",
     "_images/Pasted image 20240106180105.png",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🔮 World Building/Art of Creation/Creation.md",
-    "🗃️ Unorganized/General Notes/How to destroy the world.md",
-    "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
-    "🗃️ Unorganized/General Notes/Principles of Mechanics.md",
-    "🗃️ Unorganized/General Notes/Finite Element Method.md",
     "_assets/html_template.html",
     "_assets",
     "other assets",

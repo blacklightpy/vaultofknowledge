@@ -1,4 +1,6 @@
-Particles are the basic units with which we work with in our world. Any entity can be a particle, and particles can have subparticles. 
+Particles are the basic units with which we work with in our world.
+
+Any entity can be a particle, and particles can have sub-particles. In other words, a particle is much like a unit quantity with which other particles are made of.
 
 - Energy
 ### Fundamental Particles

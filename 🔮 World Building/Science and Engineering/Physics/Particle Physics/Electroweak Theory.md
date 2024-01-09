@@ -1,4 +1,4 @@
-This is a theory that combines two of the four fundamental forces, the electromagnetic force and the weak nuclear force into a single, electroweak force.
+This is a theory that combines two of the four fundamental forces, the electromagnetic force and the weak nuclear force into a single, electroweak force. It is also known as the Glashow-Weinberg–Salam theory.
 
 In simple terms, the $Z^0$ boson can mediate any reaction mediated by virtual photons. This means it can interact with electromagnetic-like particles. But this contribution is very low at low energies. But at high energies, the $Z^0$ boson dominates the photon-photon interactions.
 # Description
