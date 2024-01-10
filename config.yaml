@@ -104,7 +104,7 @@ toggles:
       enabled: true
     embedded_note_titles:
       enabled: true
-      hide_on_h1: true
+      hide_on_h1: false
     search:
       enabled: true
       styling:
