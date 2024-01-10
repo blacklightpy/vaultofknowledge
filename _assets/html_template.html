@@ -7,7 +7,7 @@
 
         <!-- Page information -->
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=720" />
+        <meta name="viewport" content="width=device_width" />
         <link rel="icon" href="/_images/favicon.ico" />
 
         <!-- Something specific to ObsidianHtml, I guess -->
@@ -146,14 +146,14 @@
             function set_pane_folding_start(left_header, right_header) {
                 // small screen = closed
                 let right_pane_enabled = true;
-                let left_pane_enabled = true;
+                let left_pane_enabled = true; /* TEMP DISABLED
                 let w = window.visualViewport.width;
                 if (w < 1000) {
                     left_pane_enabled = false;
                 }
                 if (w < 800) {
                     right_pane_enabled = false;
-                }
+                } */
 
                 // get saved values if present
                 let rval = load_panel_folding_state("right");
