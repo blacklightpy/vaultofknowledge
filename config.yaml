@@ -123,7 +123,7 @@ toggles:
       enabled: false
       folder: obs.html/export
     folder_notes:
-      enabled: true
+      enabled: false
       placement: inside folder
       naming: 'folder name'
     eraser:
