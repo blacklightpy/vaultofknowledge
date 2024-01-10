@@ -67,7 +67,7 @@ navbar_links:
 file_exports:
   - encoding: binary
     src: vaultofknowledge/_assets/favicon.ico
-    dst: favicon.ico
+    dst: _images/favicon.ico
 toggles:
   compile_md: true
   compile_html: true
