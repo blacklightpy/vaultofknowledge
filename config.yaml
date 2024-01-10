@@ -64,7 +64,10 @@ navbar_links:
   - name: Mastodon
     link: https://ohai.social/@ssunboyy
     type: external
-file_exports: []
+file_exports:
+  - encoding: binary
+    src: _assets/favicon.ico
+    dst: favicon.ico
 toggles:
   compile_md: true
   compile_html: true
