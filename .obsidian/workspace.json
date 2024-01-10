@@ -164,12 +164,25 @@
             }
           },
           {
-            "id": "a9201e154b479910",
+            "id": "476ab1cec234394a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+                "file": "🗃️ Unorganized/General Notes/How to dress well.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "467976c4359a3c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -239,12 +252,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9f70af76281fdc1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "16ff280e8d0f3b88",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+                "file": "Home.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md"
+                "file": "Home.md"
               }
             }
           },
@@ -299,14 +320,6 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "9f70af76281fdc1e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -330,13 +343,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a9201e154b479910",
+  "active": "467976c4359a3c2f",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to dress well.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+    "🗃️ Unorganized/General Notes/How to destroy the world.md",
     "🗃️ Unorganized/General Notes/The importance of different ranges of vision.md",
+    "🗃️ Unorganized/General Notes/How to do a chroot.md",
+    "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Electronic Design Automation.md",
+    "🗃️ Unorganized/General Notes/Filesystem in Userspace.md",
+    "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
     "🔮 World Building/Geography/Deccan Plateau.md",
     "🔮 World Building/Geography/Western Ghats.md",
-    "🗃️ Unorganized/General Notes/How to destroy the world.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Wavelength-weighted Power.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminous Intensity.md",
@@ -347,17 +368,9 @@
     "🗃️ Unorganized/General Notes/Standard Model.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Fifth Force.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Beyond the Standard Model.md",
-    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/Yang-Mills Theory.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
     "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-    "🔮 World Building/Art of Creation/Particles.md",
-    "🔮 World Building/Art of Creation/Creation.md",
-    "🗃️ Unorganized/General Notes/Four-vector.md",
-    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
-    "🗃️ Unorganized/General Notes/Gauge Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Lagrangian Mechanics.md",
     "_images/Force Graph.png",
     "_images/Light penetration in water.png",
     "_images/Pasted image 20240106180105.png",

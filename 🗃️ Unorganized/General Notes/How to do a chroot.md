@@ -1,3 +1,6 @@
+
+> [!tip] Also checkout
+> [[Alternatives sandboxes to plain chroot]]
 # The easy way
 - Install Atoms from Flatpak, and you get an easy GUI
 # The manual way

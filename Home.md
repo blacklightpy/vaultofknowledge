@@ -1,3 +1,8 @@
+---
+graph_name: Home
+obs.html.tags:
+  - dont_add_embedded_title
+---
 # Home
 Welcome!
 
