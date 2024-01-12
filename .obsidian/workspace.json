@@ -47,38 +47,12 @@
             }
           },
           {
-            "id": "cc7f726abb0bb778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "53e120e55fc44eed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "860062730af21542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,22 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "749d0cfa63fac9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md"
+                "file": "🗃️ Unorganized/General Notes/Four-vector.md"
               }
             }
           },
@@ -292,11 +253,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "749d0cfa63fac9b1",
+  "active": "4d5e0cc893485e2b",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/Influential Communist Leaders.md",
-    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
+    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
+    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
+    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/Influential Communist Leaders.md",
     "🗃️ Unorganized/General Notes/How to destroy the world.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/History of Banana Republics.md",
     "🗃️ Unorganized/General Notes/The importance of different ranges of vision.md",
@@ -322,12 +289,6 @@
     "🌎 Public/Retro/Retro Culture.md",
     "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
     "🤠 Personal/Personal Website Ideas.md",
-    "🗃️ Unorganized/General Notes/Graphing My Website.md",
-    "🗃️ Unorganized/General Notes/Fractional Scaling in UNIX-like Systems.md",
-    "🗃️ Unorganized/General Notes/Dots Per Inch.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Display Systems.md",
-    "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
     "_images/Knitting vs Crocheting.png",
     "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing",
     "🗺️ World Exploration/Fun and Activities/Cloth Making",
