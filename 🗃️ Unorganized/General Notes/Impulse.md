@@ -22,3 +22,11 @@ Once the board is cracked, the rest of the propagation is due to the shock wave.
 We use knife hand rather than fist.
 
 So the pressure also is important, as all the force is acting on a small area to create a crack.
+
+
+# To Read in Impulse
+- https://physics.stackexchange.com/questions/149482/impulse-and-force-in-a-karate-chop-can-we-maximize-force-minimizing-the-time-of
+- https://physics.stackexchange.com/questions/270030/newtons-3rd-law-hitting-drywall-which-i-break-vs-hitting-a-brick-which-br
+- https://physics.stackexchange.com/questions/512334/the-physics-of-board-breaking
+- https://physics.stackexchange.com/questions/517580/what-happens-when-a-weapon-breaks-on-impact
+- https://www.physicsclassroom.com/class/momentum/Lesson-1/Real-World-Applications

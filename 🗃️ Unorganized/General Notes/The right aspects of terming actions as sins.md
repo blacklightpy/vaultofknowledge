@@ -13,3 +13,5 @@
 - They don't realize that they are doing self-harm just because they hate someone
 
 - You don't bang your head against a wall because you don't like someone
+
+TODO: See if this was completed
