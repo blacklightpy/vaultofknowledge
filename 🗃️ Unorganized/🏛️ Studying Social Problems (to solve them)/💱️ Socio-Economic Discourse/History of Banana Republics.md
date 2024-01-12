@@ -9,13 +9,16 @@
 - They bought out smaller family owned plantations
 - They became their own competitions
 ## Notes from TED-Ed
+### Some Early History
 - Bananas were first cultivated in south-east Asia thousands of years ago
 - They reached the Americas in the early 1500s
 - Enslaved Africans cultivated them in plots alongside sugar plantations.
+### 1800s-1900s
 - In the 1800s captains from New Orleans and New England ventured to the Caribbean in search for coconuts and other goods
 - They liked the Gros Michel bananas from Afro-Caribbean farmers in Jamaica, Cuba and Honduras
 - They produced large bunches of thick skinned fruit
 - By the end of 1800s, bananas were a big hit in the US
+### Events of 1900s
 - As they became big business, US fruit companies wanted to grow there own bananas
 - In order to secure access to land, banana moguls lobbied and bribed government officials in Central America, and funded coups to ensure they had allies in power
 - By 1930, United Fruit dominated the region, and owned over 40% of Guatemala's arable land
