@@ -23,6 +23,7 @@
 - In order to secure access to land, banana moguls lobbied and bribed government officials in Central America, and funded coups to ensure they had allies in power
 - By 1930, United Fruit dominated the region, and owned over 40% of Guatemala's arable land
 - They cleared rainforests in Costa Rica, Colombia, Guatemala, Honduras and Panama to build plantations, and railroads, ports and towns to house workers.
+### The state of banana farms due to lack of biodiversity 
 - People migrated to banana zones to get high paying jobs
 - From Guatemala to Colombia, United Fruit grew exclusively Gros Michel bananas
 - These farms had low biological diversity, and was prone to epidemics
