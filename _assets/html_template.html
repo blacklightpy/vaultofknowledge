@@ -3,12 +3,12 @@
 <html lang="en">
     <head>
         <!-- Set title -->
-        <title>{title}</title>
+        <title>My {title}</title>
 
         <!-- Page information -->
         <meta charset="utf-8" />
         <meta name="viewport" content="width=720" />
-        <link rel="icon" href="/_images/favicon.ico" />
+        <link rel="icon" href="favicon.ico" />
 
         <!-- Something specific to ObsidianHtml, I guess -->
         <meta name="node_id" content="{node_id}" />
@@ -149,11 +149,11 @@
                 let left_pane_enabled = true;
                 let w = window.visualViewport.width;
                 if (w < 1000) {
-                    left_pane_enabled = false;
-                }
-                if (w < 800) {
                     right_pane_enabled = false;
                 }
+                /* if (w < 800) {
+                    right_pane_enabled = false;
+                } */
 
                 // get saved values if present
                 let rval = load_panel_folding_state("right");

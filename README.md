@@ -1,6 +1,6 @@
 [![CC Zero 1.0](https://img.shields.io/badge/License-CC0%201.0%20Universal%20Public%20Domain%20Dedication-green)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-# The Vault of Knowledge
+# Vault of Knowledge
 
 This is my personal knowledgebase where I organize information for future reference. Taking notes in this manner helps reduce entropy in my head, and might also help others.
 
