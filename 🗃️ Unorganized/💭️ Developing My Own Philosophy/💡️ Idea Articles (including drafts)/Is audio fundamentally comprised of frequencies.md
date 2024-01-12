@@ -7,3 +7,5 @@
 - That is to say, the brain could only understand tones, not individual frequencies.
 - This is similar to how our eyes do not really understand specific frequencies of electromagnetic waves, but only the [[Spectral Responsivity|spectral response]] of the [[Tristimulus]] from the different types of photocells in our eyes.
 - As for mathematical modelling, that would mean audio is not an effect formed directly sound, but is an effect formed from the perceived tones, which are directly formed from sound.
+
+- In another way of thinking, is music composed of "beats"?

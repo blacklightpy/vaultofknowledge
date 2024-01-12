@@ -1,0 +1,1 @@
+Write Once, Read Many (WORM) is the term used to refer to technologies such as CD-ROMs and DVD-ROMs.

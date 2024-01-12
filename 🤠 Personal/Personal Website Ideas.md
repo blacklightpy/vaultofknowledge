@@ -30,6 +30,10 @@
 - Buy Me A Coffee (no patreon bec I'm not working full time)
 - Link to socials
 
+- [[How to Make My Website Load Articles Without Redirecting]]
+- [[Graphing My Website]]
+- [[How to Scale my Website for Small Screens]]
+
 # Tools
 - Obsidian wikilinks to MD links converter (Rust) - https://github.com/zoni/obsidian-export/
 - Markdown to HTML - https://zapier.com/blog/markdown-html-export/

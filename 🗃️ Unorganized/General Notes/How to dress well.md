@@ -1,4 +1,4 @@
-My general idea is to imagine what I want to look like, getting them tailored well, and if I'm not feeling like detailing it yet, I can just select readymade fashion. In either case, I plan my budget on a spreadsheet.
+My personal idea is to imagine what I want to look like, getting them tailored well, and if I'm not feeling like detailing it yet, I can just select readymade fashion. In either case, I plan my budget on a spreadsheet.
 
 Now let's take a look at The Style Theorists' video: ["How to Dress Rich"](https://www.youtube.com/watch?v=HnLTR-9HCBs).
 # Key points

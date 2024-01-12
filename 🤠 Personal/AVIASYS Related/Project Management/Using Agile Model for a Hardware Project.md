@@ -14,6 +14,7 @@ Using Agile in Hardware Development:
 | Engineering | Frontend    |
 | Software    | Backend     |
 | Ship        | Ship        |
+
 # Example
 ![[Agile HW and SW planning.png]]
 # Optimizing Teamwork

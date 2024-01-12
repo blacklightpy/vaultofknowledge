@@ -1,3 +1,23 @@
+> [!tip] New Idea
+> See this website's ToC: https://elementor.com/help/elementor-editor/getting-around-the-elementor-editor/
+> - There are the expand buttons, as well as clickable links
+> - If the links are clicked, they redirect to a folder note
+> - This is not a new observation, but the design is cool
+> - It also has breadcrumbs
+> - One more observation is that there are no folders with both subfolders and other notes - that is, all folders with subfolders do not contain notes alongside those subfolders
+> 	- I like that organization
+> - More ideas from the page
+> 	- The navbar has main ideas, browse by topic, browse by product (with selected links), and resources
+> 	- The front page showcases subsections broadly
+> 	- The ToC has extra sections at the bottom for New Features and Known Issues
+> 	- Downside: Mobile UI doesn't have sidebar
+> 		- But they make up for it, by using breadcrumbs and good folder notes
+> 	- The folder notes contain big sized subfolder or note titles
+> 		- The subfolders have an arrow icon, while notes have a note icon
+> 		- This is similar to the expand button in ToC
+> 		- But if there are too many notes or subfolders, the folder note takes multiple pages
+> 	- Downside: There is no search
+> - This is the Elementor help center; the main page design is an art, as it is for all sites.
 # Premise
 - I don't like how pages redirect whenever I click a folder note, but I like there being folder notes..
 - I'd like to avoid using `iframe` s.

@@ -149,48 +149,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "090beaf9fcf38dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/The importance of different ranges of vision.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "476ab1cec234394a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/How to dress well.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "467976c4359a3c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -265,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/How to destroy the world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "🗃️ Unorganized/General Notes/How to destroy the world.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -294,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "🗃️ Unorganized/General Notes/How to destroy the world.md"
               }
             }
           },
@@ -343,53 +304,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "467976c4359a3c2f",
+  "active": "7f22760383ab3cde",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/How to dress well.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/How to destroy the world.md",
+    "World Exploration/Fun and Activities/Martial Arts/Do Martial Arts Like Tai Chi Work.md",
     "🗃️ Unorganized/General Notes/The importance of different ranges of vision.md",
-    "🗃️ Unorganized/General Notes/How to do a chroot.md",
-    "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Electronic Design Automation.md",
-    "🗃️ Unorganized/General Notes/Filesystem in Userspace.md",
+    "🗃️ Unorganized/General Notes/Impulse.md",
+    "World Exploration/Fun and Activities/Martial Arts",
+    "World Exploration/Fun and Activities",
+    "World Exploration",
+    "🗃️ Unorganized/General Notes/Doubts on Quantization of Light.md",
+    "🗃️ Unorganized/General Notes/Infinite Derivatives of Motion.md",
+    "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
+    "🗺️ World Exploration/Fun and Activities/Sailing/Sailing.md",
+    "🗺️ World Exploration/Fun and Activities/Scuba Diving/Scuba Diving.md",
+    "🗺️ World Exploration/Fun and Activities/Scuba Diving",
+    "🗺️ World Exploration/Fun and Activities/Cloth Making/Knitting and Crocheting.md",
+    "🗺️ World Exploration/Fun and Activities/Sailing",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
+    "🗃️ Unorganized/General Notes/Ideas.md",
+    "🌎 Public/Retro/Retro Gaming",
+    "🌎 Public/Retro/Retro Culture.md",
+    "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
+    "🤠 Personal/Personal Website Ideas.md",
+    "🗃️ Unorganized/General Notes/Graphing My Website.md",
+    "🗃️ Unorganized/General Notes/Fractional Scaling in UNIX-like Systems.md",
+    "🗃️ Unorganized/General Notes/Dots Per Inch.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Systems.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Display Systems.md",
     "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
-    "🔮 World Building/Geography/Deccan Plateau.md",
-    "🔮 World Building/Geography/Western Ghats.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Spectral Power Distribution.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Wavelength-weighted Power.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Physical Aspects of Colours/Luminous Intensity.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Photometry.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Spectroscopy/Radiometry.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Types of Spectrometry.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Tristimulus.md",
-    "🗃️ Unorganized/General Notes/Standard Model.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Fifth Force.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Beyond the Standard Model/Beyond the Standard Model.md",
-    "🗃️ Unorganized/General Notes/Yang-Mills Theory.md",
-    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
-    "🗃️ Unorganized/General Notes/Methods to Solve Complex PDEs.md",
+    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Salafi Jihadism.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Jihadist Attacks.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/History of Banana Republics.md",
+    "_images/Knitting vs Crocheting.png",
+    "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing",
+    "🗺️ World Exploration/Fun and Activities/Cloth Making",
     "_images/Force Graph.png",
     "_images/Light penetration in water.png",
     "_images/Pasted image 20240106180105.png",
     "_assets/html_template.html",
     "_assets",
-    "other assets",
-    "🤠 Personal/Project Ideas",
-    "World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Untitled",
-    "🗃️ Unorganized/Explanatory Articles",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
-    "Unorganized/Developing My Own Philosophy/Personally Interesting Ideas (",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Russo-Ukraine Conflict",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough",
     "_images/favicon.png",
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",
     "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
-    "_images/Types of Digital Modulation.png",
-    "_images/Expulsion_judios-en.svg.png"
+    "_images/Types of Digital Modulation.png"
   ]
 }

@@ -6,3 +6,6 @@
 - Ozone layer absorbs a lot of the UV radiation and protects the Earth.
 
 
+TODO: See how things fit in their close environment, and what's outside it is too opaque for them, even if they could see them. That is, there is a certain range of frequencies where everything exists. If solids were sentient could see through them, then they would see gamma rays and would see visible light as opaque perhaps.
+
+(Take into account light penetration in water vs the same in solids, because much of the out of visible spectrum gets too scattered away by air and water to contain any meaningful data).

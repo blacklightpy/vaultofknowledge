@@ -24,6 +24,9 @@
 	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
 	- Also known by its acronym, Da'ish/Daesh
 	- It is a self-declared pan-Islamic Caliphate
+	- It is a Sunni Muslim elected group
+	- It is concerned with the "near enemy" of heretical Muslims
+	- It is not pan-Islamic as in accepting of all Muslims, as they put Shia Muslims to death
 	- Compared to Al-Qaeda ([IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):
 		- Takes a puritan, sectarian approach
 		- Establishes Islamic states in the territories it controls
