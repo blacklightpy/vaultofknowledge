@@ -41,19 +41,25 @@ You can install these additional components later from settings.
 > [!warning]
 > Read this warning carefully to understand.
 > 
-> This program is trying to install itself to /usr/bin.
+> This program is trying to install itself to `/usr/bin`. This is expecting a standard Linux style filesystem layout, or the FHS. 
 > 
-> Blacklight OS does not use this system layout. Applications are installed to /Programs and Libraries are installed to /Libraries.
+> Blacklight OS does not use this system layout. Programs are installed to `/Programs` and Libraries are installed to `/Libraries`.
 > 
-> This is a standard Linux style filesystem layout. To install this package properly please modify the references to those directories accordingly. It won't be hard usually.
+> To install this package properly please modify the references to those directories accordingly. It won't be hard usually.
 > 
 > **\>** Open this to see the list of affected path declarations, and what you should replace them with.
 > 
-> Blacklight OS will not let you install packages in this manner via this package manager (unless you hack it). You are however free to 
+> Blacklight OS will not let you install packages in this manner via this package manager (unless you hack it). You are however free to manually copy the files into the aforementioned directories, in which case you will have to deal with getting the libraries right.
+> 
+> Blacklight OS recommends that you just build such packages only locally, if you can't set the paths correctly.
+> 
+> For convenience, Blacklight OS can also attempt to automatically do that task for you.
+> 
+> Attempt to automatically reconfigure the path declarations? (A backup of affected files will be placed in an archive called `backup-<Current Date>.zip` in the current folder)
 ## GNU Automake Installations
 WARNING: This Makefile makes use of the /usr/lib directories. But Blacklight OS stores libraries in /Libraries. Do you want to edit the paths in the Makefile?
 
-Without Setting proper paths in the Makefile, 
+Without Setting proper paths in the Makefile, the libraries cannot be loaded
 ### Settings Options
 - [ ] Suppress warnings for these issues (dangerous)
-- 
+- [ ] Attempt to automatically configure paths
