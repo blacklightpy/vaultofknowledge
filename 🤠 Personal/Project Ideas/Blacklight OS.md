@@ -22,11 +22,11 @@ Cool Features: Features a troubleshooter, powered by Blacklight AI
 	- [ ] Use Busybox instead of Toybox? (If you prefer it for some reason)
 - [ ] Include Musl C Library? (With Musl C Library, you can reduce the size of downloaded files by sharing libraries)
 - [ ] Exclude Flatpak from installation? (Flatpak is an application store framework, for easily distributing applications without restrictions from specific Linux operating systems. Blacklight OS enables the Flathub repository by default)
-- [ ] Use a custom kernel?
+- [ ] Use a different kernel? (Blacklight OS uses a kernel with proprietary modules removed, called the Linux-libre kernel)
 	- [ ] Zen Kernel (Optimized Kernel patched for gaming)
 	- [ ] Mainline Kernel (Complete with all features)
 	- [ ] Xanmod Kernel (Kernel patched by Garuda Linux team)
-	- [ ] Realtime Kernel (With PREEMPT_RT patch)
+	- [ ] Realtime Kernel (With `PREEMPT_RT` patch)
 ### Additional Components
 #### Compatibility
 - [ ] Enable support for X? (old applications may utilize the X windowing system)
@@ -48,7 +48,7 @@ You can install these additional components later from settings.
 
 - [ ] Gaming Mode (WINE, Lutris, Steam)
 - [ ] Multimedia Editor (Audacity, GNOME Pitivi, KDE Kdenlive, Handbrake, Openshot)
-- [ ] Creative Mode (Ardour, LMMS, )
+- [ ] Creative Mode (Ardour, LMMS, ZRhythm, Krita, Blender)
 - [ ] Common Utilities (7-Zip CLI, 7-Zip GUI, GNU Gzip, TAR Archiver)
 - [ ] Fancy Programs (xPlorer File Manager)
 # Additional System Changes
@@ -88,4 +88,10 @@ Anyways, the idea is that the system should never let a user install in such a w
 ## Wizards
 ### Package Manager Templates
 - Allows setting flags by their complete description rather than as hyphenated flags
-- Declares of dependencies in a readable fashion
+- Declares dependencies in a readable fashion (with their custom name)
+
+## Blacklight OS Desktop
+- The App Launcher lists applications by their customized name (Web Browser for Mozilla Firefox)
+- But the "All Programs" view lists it by it's name
+- If using Dash View (rather than the Menu View), make the choice toggleable.
+- The compositor has Frutiger Aero style effects and animations
