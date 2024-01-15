@@ -2,11 +2,12 @@
 Blacklight OS
 
 Kernel: Linux
-Includes: GNU Core Utilities, Musl C Library
+Includes: GNU Core Utilities, Musl C Library, Polkit
 # Installation
 ## Optional Choices
 - [ ] Replace GNU Core Utilities with Toybox?
-- [ ] Include Musl C Library? (With Musl C Library, you can reduce the size of )
+	- [ ] Use Busybox instead of Toybox? (If you prefer it for some reason)
+- [ ] Include Musl C Library? (With Musl C Library, you can reduce the size of downloaded files by sharing libraries)
 ## Additional Components
 - [ ] Enable support for X? (old applications may utilize the X windowing system)
 - [ ] Enable support for GNU C Library? (Some 3rd party software may require GNU C Library to load)
@@ -19,3 +20,15 @@ Includes: GNU Core Utilities, Musl C Library
 	- [ ] Headless Installation (Choose this if you would like to install a custom Wayland compositor)
 
 You can install these additional components later from settings.
+
+
+
+# Additional System Changes
+## GNU Automake Installations
+WARNING: This Makefile makes use of the /usr/lib directories. But Blacklight OS stores libraries in /Libraries. Do you want to edit the paths in the Makefile?
+
+Without Setting proper locations for libraries in the Makefile, 
+
+### Settings Options
+- [ ] Suppress warnings for these issues (dangerous)
+- 
