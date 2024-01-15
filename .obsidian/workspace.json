@@ -97,9 +97,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83a2524b3c9de62b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +198,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Four-vector.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -202,9 +208,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Four-vector.md"
-              }
+              "state": {}
             }
           },
           {
@@ -253,8 +257,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4d5e0cc893485e2b",
+  "active": "83a2524b3c9de62b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
@@ -288,7 +293,6 @@
     "🌎 Public/Retro/Retro Gaming",
     "🌎 Public/Retro/Retro Culture.md",
     "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
-    "🤠 Personal/Personal Website Ideas.md",
     "_images/Knitting vs Crocheting.png",
     "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing",
     "🗺️ World Exploration/Fun and Activities/Cloth Making",
