@@ -102,8 +102,13 @@
             "id": "83a2524b3c9de62b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🤠 Personal/Project Ideas/Blacklight OS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -182,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🤠 Personal/Project Ideas/Blacklight OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🤠 Personal/Project Ideas/Blacklight OS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🤠 Personal/Project Ideas/Blacklight OS.md"
+              }
             }
           },
           {
@@ -259,6 +268,7 @@
   },
   "active": "83a2524b3c9de62b",
   "lastOpenFiles": [
+    "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
@@ -292,7 +302,6 @@
     "🗃️ Unorganized/General Notes/Ideas.md",
     "🌎 Public/Retro/Retro Gaming",
     "🌎 Public/Retro/Retro Culture.md",
-    "🗃️ Unorganized/General Notes/How to Make My Website Load Articles Without Redirecting.md",
     "_images/Knitting vs Crocheting.png",
     "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing",
     "🗺️ World Exploration/Fun and Activities/Cloth Making",
