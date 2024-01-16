@@ -56,7 +56,7 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - GraphViz
 - Pkg-config
 - Python3 SetupTools
-- SWIG
+- SWIG (A C++-Python Binding generator; Apparently used by IfcOpenShell)
 
 **Target specific build dependencies:**
 - Boost Development Files (Some distributions may need specific Boost Libraries)
@@ -76,8 +76,8 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - OpenMPI Development Files (A parallel computing library)
 
 - Python 3
-- Python 3 Pivy Library
-- PySide2 Library Python 3 Development Files (PySide gives Qt API for Python)
+- Python 3 Pivy Module
+- PySide2 Python 3 Development Files (PySide gives Qt API for Python)
 - PySide2 Tools
 
 - Qt5 Development Files
@@ -91,13 +91,31 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Space Navigator Library Development Files (FOSS Drivers for 3DConnection CAD Mice)
 - VTK Development Files (A scientific visualization toolkit)
 - Xerces C++ Library Development Files (Apache Xerces C++ XML Library)
-- ZLib Development Files
+- zlib Development Files (zlib is the reference implementation of the Deflate compression algorithm)
 
 **Runtime dependencies:**
-- Python 3 Matplotlib Library
-- Python 3 PySide2 WebEngine Library
-- Python 3 Pivy Library
+- Python 3 Matplotlib Module
+- Python 3 PySide2 WebEngine Module
+- Python 3 Pivy Module
 
+## Additional Dependency Notes
 **Dependencies pre-bundled with FreeCAD source code:**
 - Quarter (Coin3D binding to Qt)
-- 
+
+**Debugging Build Dependencies:**
+- GNU Debugger
+
+**Unknown Depencies (I saw in lists)**
+- DOS2UNIX (DOS to UNIX text file converter; Also listed in Fedora and OBS FreeCAD.spec)
+- HDF5 OpenMPI 4 Development files
+- OpenCV Development Files
+- FreeGLUT Development Files
+- X Input Libraries
+- Netgen Development files
+
+*Listed in OBS for openSUSE*
+- Matplotlib Qt5 Python 3 Module (Listed in OBS for OpenSUSE)  
+- GitPython Python 3 Module (Listed in OBS for OpenSUSE)
+
+*From FreeCAD Wiki*
+- FreeType2 Development Files (From the FreeCAD Wiki)
