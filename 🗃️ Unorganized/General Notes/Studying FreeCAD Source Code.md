@@ -3,7 +3,7 @@ Before reviewing source code, let's talk about what a source code is.
 A program's source code defines the functionality of the program, which the computer uses to run it.
 We generally write programs in high-level languages which are then converted to CPU-specific assembly instructions, which are internally converted to operations by the computer. The assembly instructions are represented as words for humans, and as bytes for computers.
 
-A software project usually consists of multiple **source files**, in order to seperate the functionality, **resources** like images, **external libraries** to extend functionality or enable system-level integration, the source code **documentation** and the **build configuration**. The source files can consist of header files and source files, as well as source files from other languages. Typically, source files from multiple languages interact with each other by using storage or interfaces like inter-process communication or a common runtime. The external libraries can either be open-source, or closed source dynamically linked libraries. The build configuration files set the default values for the build system with which the code is to be built with. The build system is a set of automated scripts that handle the steps involved in compiling projects with multiple source files. The build system handles versioning and computing dependency graphs. The project may also contain pre-install and post-install scripts for managing certain configurations.
+A software project usually consists of multiple **source files**, in order to separate the functionality, **resources** like images, **external libraries** to extend functionality or enable system-level integration, the source code **documentation** and the **build configuration**. The source files can consist of header files and source files, as well as source files from other languages. Typically, source files from multiple languages interact with each other by using storage or interfaces like inter-process communication or a common runtime. The external libraries can either be open-source, or closed source dynamically linked libraries. The build configuration files set the default values for the build system with which the code is to be built with. The build system is a set of automated scripts that handle the steps involved in compiling projects with multiple source files. The build system handles versioning and computing dependency graphs. The project may also contain pre-install and post-install scripts for managing certain configurations.
 
 To keep track of code changes during development and for collaboration, a version control system is used. Other aspects in the software development workflow include issue trackers and communication channels like mailing lists, forums and chat networks.
 # The structure of FreeCAD Source
@@ -47,33 +47,32 @@ Other folders and files include:
 - cMake - cMake includes local modules and cMake/FreeCAD_Helpers includes macros
 - cMakeLists.txt and .cmake files - Used by cmake meta-build system
 
-**NOTE:** Libararies are called by source files by include statements. For example, zipios++ library components are called by Base/ZipHeader.cpp by `#include<zipios++/zipinputstream.h>`
-
-# Dependencies
+**NOTE:** Libraries are called by source files by include statements. For example, zipios++ library components are called by Base/ZipHeader.cpp by `#include<zipios++/zipinputstream.h>`
+# Build and Runtime Dependencies
 After so long, I figured out the list of dependencies from the Void Linux build template. Here they are:
 
-**HOST SIDE BUILD DEPENDENCIES (For Cross Compilation):**
+**Host side build dependencies (for cross-compiling):**
 - Doxygen
 - GraphViz
 - Pkg-config
 - Python3 SetupTools
 - SWIG
 
-**TARGET SPECIFIC BUILD DEPENDENCIES:**
+**Target specific build dependencies:**
 - Boost Development Files
 
 - Coin 3 Development Files
 - Coin 3 Docs
 
 - Double Conversion Development Files
-- Eigen
+- Eigen (A Linear Algebra Library)
 - GLEW Development Files
 - HDF5 Development Files
 - JSONCPP Development Files
 - LZ4 Library Development Files
-- MED Library Development Files
-- NetCDF Development Files
-- OCCT Development Files
+- MED Library Development Files ()
+- NetCDF Development Files (A scientific data format)
+- OCCT Development Files (The OpenCASCADE Technology CAD Geometric Kernel)
 - OpenMPI Development Files
 
 - Python 3
@@ -87,14 +86,14 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Qt5 WebKit Development Files
 - Qt5 XMLPatterns Development Files
 
-- Shiboken2 Library  Development Files
+- Shiboken2 Library Development Files (Python bindings for Qt)
 
 - Space Navigator Library Development Files
 - VTK Development Files
-- Xerces C Library Development Files
+- Xerces C++ Library Development Files (Apache Xerces C++ XML Library)
 - ZLib Development Files
 
-**RUNTIME DEPENDENCIES:**
+**Runtime dependencies:**
 - Python 3 Matplotlib Library
 - Python 3 PySide2 WebEngine Library
 - Python 3 Pivy Library
