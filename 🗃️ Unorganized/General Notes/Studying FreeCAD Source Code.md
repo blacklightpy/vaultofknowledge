@@ -48,3 +48,53 @@ Other folders and files include:
 - cMakeLists.txt and .cmake files - Used by cmake meta-build system
 
 **NOTE:** Libararies are called by source files by include statements. For example, zipios++ library components are called by Base/ZipHeader.cpp by `#include<zipios++/zipinputstream.h>`
+
+# Dependencies
+After so long, I figured out the list of dependencies from the Void Linux build template. Here they are:
+
+**HOST SIDE BUILD DEPENDENCIES (For Cross Compilation):**
+- Doxygen
+- GraphViz
+- Pkg-config
+- Python3 SetupTools
+- SWIG
+
+**TARGET SPECIFIC BUILD DEPENDENCIES:**
+- Boost Development Files
+
+- Coin 3 Development Files
+- Coin 3 Docs
+
+- Double Conversion Development Files
+- Eigen
+- GLEW Development Files
+- HDF5 Development Files
+- JSONCPP Development Files
+- LZ4 Library Development Files
+- MED Library Development Files
+- NetCDF Development Files
+- OCCT Development Files
+- OpenMPI Development Files
+
+- Python 3
+- Python 3 Pivy Library
+- PySide2 Library Python 3 Development Files
+- PySide2 Tools
+
+- Qt5 Development Files
+- Qt5 SVG Development Files
+- Qt5 Tools Development Files
+- Qt5 WebKit Development Files
+- Qt5 XMLPatterns Development Files
+
+- Shiboken2 Library  Development Files
+
+- Space Navigator Library Development Files
+- VTK Development Files
+- Xerces C Library Development Files
+- ZLib Development Files
+
+**RUNTIME DEPENDENCIES:**
+- Python 3 Matplotlib Library
+- Python 3 PySide2 WebEngine Library
+- Python 3 Pivy Library

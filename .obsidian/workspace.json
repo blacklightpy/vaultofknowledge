@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1e9c1a954c8e4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md"
               }
             }
           },
@@ -253,11 +266,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04eda086ef04f633",
+  "active": "e1e9c1a954c8e4d8",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
