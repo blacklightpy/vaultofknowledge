@@ -59,7 +59,7 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - SWIG
 
 **Target specific build dependencies:**
-- Boost Development Files
+- Boost Development Files (Some distributions may need specific Boost Libraries)
 
 - Coin3D 3 Development Files (OpenInventor's OpenGL 3D Library, used instead of OCCT Viewer)
 - Coin3D 3 Docs
@@ -67,13 +67,13 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Double Conversion Development Files
 - Eigen (A Linear Algebra Library)
 - GLEW Development Files
-- HDF5 Development Files
+- HDF5 Development Files (A data storage format)
 - JSONCPP Development Files
 - LZ4 Library Development Files
-- MED Library Development Files ()
+- MED Library Development Files (SALOME's data format to store meshes, based on HDF5)
 - NetCDF Development Files (A scientific data format)
 - OCCT Development Files (The OpenCASCADE Technology CAD Geometric Kernel)
-- OpenMPI Development Files
+- OpenMPI Development Files (A parallel computing library)
 
 - Python 3
 - Python 3 Pivy Library
@@ -88,8 +88,8 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 
 - Shiboken2 Library Development Files (Generates Python bindings for Qt)
 
-- Space Navigator Library Development Files
-- VTK Development Files
+- Space Navigator Library Development Files (FOSS Drivers for 3DConnection CAD Mice)
+- VTK Development Files (A scientific visualization toolkit)
 - Xerces C++ Library Development Files (Apache Xerces C++ XML Library)
 - ZLib Development Files
 
