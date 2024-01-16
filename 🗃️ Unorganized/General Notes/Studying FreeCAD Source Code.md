@@ -106,6 +106,7 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - GNU Debugger
 
 **Unknown Depencies (I saw in lists)**
+- F2C (Fortran to C Converter)
 - DOS2UNIX (DOS to UNIX text file converter; Also listed in Fedora and OBS FreeCAD.spec)
 - HDF5 OpenMPI 4 Development files
 - OpenCV Development Files
@@ -114,8 +115,8 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Netgen Development files
 
 *Listed in OBS for openSUSE*
-- Matplotlib Qt5 Python 3 Module (Listed in OBS for OpenSUSE)  
-- GitPython Python 3 Module (Listed in OBS for OpenSUSE)
+- Matplotlib Qt5 Python 3 Module
+- GitPython Python 3 Module
 
 *From FreeCAD Wiki*
 - FreeType2 Development Files (From the FreeCAD Wiki)
