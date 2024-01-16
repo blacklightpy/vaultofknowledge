@@ -61,8 +61,8 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 **Target specific build dependencies:**
 - Boost Development Files
 
-- Coin 3 Development Files
-- Coin 3 Docs
+- Coin3D 3 Development Files (OpenInventor's OpenGL 3D Library, used instead of OCCT Viewer)
+- Coin3D 3 Docs
 
 - Double Conversion Development Files
 - Eigen (A Linear Algebra Library)
@@ -77,7 +77,7 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 
 - Python 3
 - Python 3 Pivy Library
-- PySide2 Library Python 3 Development Files
+- PySide2 Library Python 3 Development Files (PySide gives Qt API for Python)
 - PySide2 Tools
 
 - Qt5 Development Files
@@ -86,7 +86,7 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Qt5 WebKit Development Files
 - Qt5 XMLPatterns Development Files
 
-- Shiboken2 Library Development Files (Python bindings for Qt)
+- Shiboken2 Library Development Files (Generates Python bindings for Qt)
 
 - Space Navigator Library Development Files
 - VTK Development Files
@@ -97,3 +97,7 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Python 3 Matplotlib Library
 - Python 3 PySide2 WebEngine Library
 - Python 3 Pivy Library
+
+**Dependencies pre-bundled with FreeCAD source code:**
+- Quarter (Coin3D binding to Qt)
+- 
