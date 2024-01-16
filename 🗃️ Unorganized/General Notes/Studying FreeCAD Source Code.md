@@ -60,6 +60,15 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 
 **Target specific build dependencies:**
 - Boost Development Files (Some distributions may need specific Boost Libraries)
+	- Boost.Headers
+	- Boost.ProgramOptions
+	- Boost.System
+	- Boost.Regex
+	- Boost.Thread
+	- Boost.Graph
+	- Boost.MPI Python 3 Serialization Library
+	- Boost.Python3
+	- Boost.FileSystem
 
 - Coin3D 3 Development Files (OpenInventor's OpenGL 3D Library, used instead of OCCT Viewer)
 - Coin3D 3 Docs
@@ -120,3 +129,5 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 
 *From FreeCAD Wiki*
 - FreeType2 Development Files (From the FreeCAD Wiki)
+- GNU Triangulated Surface Library
+- KDTree++ (For Sorting; on Debian and Fedora FreeCAD.spec; Looks like is included in FreeCAD)  
