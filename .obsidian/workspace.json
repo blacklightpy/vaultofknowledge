@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "e6ad165fe36c3637",
+            "id": "d675be80736f4fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -266,10 +266,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6ad165fe36c3637",
+  "active": "d675be80736f4fa4",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
@@ -278,7 +279,6 @@
     "🗃️ Unorganized/General Notes/How to use a Linux System.md",
     "🗃️ Unorganized/General Notes/How to do a chroot.md",
     "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",

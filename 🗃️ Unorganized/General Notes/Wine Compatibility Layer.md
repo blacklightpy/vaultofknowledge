@@ -2,12 +2,12 @@ Wine, formerly WINE, originally stood for "WINE Is Not an Emulator".
 
 It is a compatibility layer which allows running Windows applications on other operating systems such as UNIX systems, Haiku, etc.
 
-As the original name implies, it is not an emulator, but rather, a layer that translates the Windows [[Application Binary Interface|ABI]] into the host system ABI.
+As the original name implies, it is not an emulator, but rather, a layer that translates the Windows [[Application Binary Interface|ABI]] into the host ABI.
 # Clearing up confusion
 ## What is an Emulator?
-An [[emulators|emulator]] is a program that virtually creates a system, on which a program runs. That is, rather than translating system calls which get eventually passed on to a kernel, the entire machine is implemented as software. Only the instruction set architecture is emulated by the host kernel, but any application running within the emulator has nothing to do with the host kernel. In other words, emulators are type 2 hypervisors.
+An [[emulators|emulator]] or software virtualizer is a program that virtually creates a system, on which a program runs. That is, rather than translating system calls which get eventually passed on to a kernel, the entire machine is implemented as software. Only the instruction set architecture is emulated by the host kernel, but any application running within the emulator has nothing to do with the host kernel. In other words, emulators are type 2 hypervisors.
 ## Similar to Emulators: Virtualizer
-Similar to this is a [[Virtualization|virtualizer]], or hypervisor, also known as hardware virtualizationwhich is a program that does not virtually create a machine, but instead creates an abstract interface through which it can run a separate instance of a program or an operating system. With a virtualizer, all programs running in the guest operating system will have direct access to the underlying hardware, rather than an emulated hardware. The access to the hardware would either be direct (in which case it is a type 1 hypervisor), or through the host operating system (in which case it's a type 2 hypervisor).
+Similar to this is a hardware [[Virtualization|virtualizer]], or hypervisor, which is a program that does not virtually create a machine, but instead creates an abstract interface through which it can run a separate instance of a program or an operating system. With a virtualizer, all programs running in the guest operating system will have direct access to the underlying hardware, rather than an emulated hardware. The access to the hardware would either be direct (in which case it is a type 1 hypervisor), or through the host operating system (in which case it's a type 2 hypervisor).
 ## What is a Compatibility Layer like Wine?
 Being a compatibility layer, running a program on Wine is similar to running a 32 bit binary on a 64 bit kernel. 64 bit kernels cannot directly run 32 bit binaries, but a compatibility layer could translate the 32 bit binary calls to the native 64 bit kernel. For example, WoW64 on Windows allows running 32 bit programs in 64 bit Windows systems.
 
@@ -22,4 +22,15 @@ So basically there's no difference between an ABI translation layer and an ABI i
 ### Is there any meaningful difference?
 Yes, an emulator will have to emulate the entire underlying hardware with all it's hardware instructions, that is, creating a hardware within hardware using software. It will certainly have a noticable latency.
 
-To run a virtualizer, the entire operating system must be able to run on the host hardware. This is not possible, say for an Android ROM built for ARM64, to run hardware virtualized on an x86_64 host. It would require emulation, or software virtualization, although virtualizer passthrough can be provided
+To run a virtualizer, the entire operating system must be able to run on the host hardware. This is not possible, say for an Android ROM built for ARM64, to run hardware virtualized on an x86_64 host. It would require emulation, or software virtualization, although the emulator can be provided with access to native GPU or memory by passthrough to achieve a higher performance, for example with QEMU/KVM.
+
+But to run a compatibility layer, only the relevant parts of the operating system or runtime has to be re-implemented for the particular host operating system. If an official effort was made, this compatibility layer would simply be a native runtime.
+
+### How does the confusion arise?
+However, we tend to refer to call software compatibility layers if they are a layer above the main operating system. For example, although WSL is native, 
+
+So it seems fair to call Wine just a Windows runtime!
+
+WINEBAR
+
+Wine Is Not an Emulator, But A Runtime
