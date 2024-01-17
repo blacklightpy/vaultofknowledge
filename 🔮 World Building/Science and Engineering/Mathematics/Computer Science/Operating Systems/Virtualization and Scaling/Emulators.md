@@ -23,12 +23,15 @@ See [[Retro Emulation]]
 ### Windows
 #### Windows on UNIX
 - Wine
+	- Has WINED3D (OpenGL based implementation of Direct3D and DirectDraw from DirectX 1-11)
 - Crossover (paid Wine front-end)
 - PlayOnLinux (Wine Manager)
 - Bottles (Wine Manager)
 - Lutris (Wine Games Manager)
 - Proton (Steam Compatibility Layer)
-- DXVK (Vulkan based re-implementation of DirectX)
+- Gallium Nine (Implementation of Direct3D 9)
+- DXVK (Vulkan based implementation of Direct3D 9 and DirectX 10-11)
+- VKD3D (Vulkan based implementation of Direct3D 12)
 ### UNIX
 #### UNIX on Windows
 - Cygwin

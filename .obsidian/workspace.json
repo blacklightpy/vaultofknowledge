@@ -99,12 +99,25 @@
             }
           },
           {
-            "id": "d675be80736f4fa4",
+            "id": "779bf4e3e4ef6dde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8496b228c4a01ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md"
               }
             }
           },
@@ -247,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,10 +279,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "8496b228c4a01ae9",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
@@ -292,7 +307,6 @@
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/Influential Communist Leaders.md",
-    "🗃️ Unorganized/General Notes/How to destroy the world.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
