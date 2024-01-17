@@ -32,6 +32,9 @@ For Networking:
 # cp /etc/hosts <chroot_dir>/etc
 ```
 Chroot:
+> [!warning]
+> Remember to unmount the chroot after use. If destructive actions are taken on a mounted chroot, the directories will have to be repopulated by a reboot. Luckily no permanent files are required as chroot mounts.
+
 ```
 # mount -t proc none <chroot_dir>/proc
 # mount -t sysfs none <chroot_dir>/sys
