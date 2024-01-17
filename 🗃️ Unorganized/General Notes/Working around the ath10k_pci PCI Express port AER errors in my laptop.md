@@ -34,6 +34,35 @@ $ sudo dmesg
 [ 3637.717843] ath10k_pci 0000:02:00.0: AER:   Error of this Agent is reported first            
 ```
 
+> [!note]
+> Apparently the 0000:00:1c.5 port is not the Network Card, but the PCIe Bridge. Only the PCIe bridge had errors in Linux Mint Live CD, and the ath10k firmware was loaded successfully. But in Void, the ath10k_pci port also had errors although
+
+This is an early state dmesg message I found now:
+```
+[   10.431425] ath10k_pci 0000:02:00.0: pci irq msi oper_irq_mode 2 irq_mode 0 reset_mode 0
+[   10.573881] ath10k_pci 0000:02:00.0: PCIe Bus Error: severity=Corrected, type=Physical Layer, (Transmitter ID)
+[   10.575560] ath10k_pci 0000:02:00.0:   device [168c:0042] error status/mask=00001101/00006000
+[   10.577287] ath10k_pci 0000:02:00.0:    [ 0] RxErr                  (First)
+[   10.578992] ath10k_pci 0000:02:00.0:    [ 8] Rollover              
+[   10.580666] ath10k_pci 0000:02:00.0:    [12] Timeout  
+```
+This part resembles the Linux Mint dmesg:
+```
+[   10.833047] ath10k_pci 0000:02:00.0: qca9377 hw1.1 target 0x05020001 chip_id 0x003821ff sub 11ad:08a6
+[   10.834867] ath10k_pci 0000:02:00.0: kconfig debug 0 debugfs 0 tracing 0 dfs 0 testmode 0
+[   10.837828] ath10k_pci 0000:02:00.0: firmware ver WLAN.TF.2.1-00021-QCARMSWP-1 api 6 features wowlan,ignore-otp crc32 42e41877
+[   10.920871] ath10k_pci 0000:02:00.0: board_file api 2 bmi_id N/A crc32 8aedfa4a
+[   11.017056] ath10k_pci 0000:02:00.0: htt-ver 3.56 wmi-op 4 htt-op 3 cal otp max-sta 32 raw 0 hwcrypto 1
+```
+I also saw something like ath here, I don't know if it is related. The final renaming of wlan0 is canonica.
+```
+[   11.080470] ath: EEPROM regdomain: 0x69
+[   11.080475] ath: EEPROM indicates we should expect a direct regpair map
+[   11.080484] ath: Country alpha2 being used: 00
+[   11.080485] ath: Regpair used: 0x69
+[   11.082558] ath10k_pci 0000:02:00.0 wlp2s0: renamed from wlan0
+```
+
 Problems are:
 - Flooding the TTYs
 - Flooding the dmesg (was ~360 KB after 1 hour of boot time)
@@ -46,3 +75,92 @@ Known solutions are:
 
 Notes:
 - Disabling the PCIe port makes the Wi-Fi card unrecognized (deleted Reddit.com comment on what command was used)
+
+# Debugging
+Running `lspci -v` with `sudo` shows card capabilities, which lists MSI features.
+
+```
+02:00.0 Network controller: Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter (rev 31)
+	Subsystem: Lite-On Communications Inc Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter
+	Flags: bus master, fast devsel, latency 0, IRQ 132, IOMMU group 10
+	Memory at b1000000 (64-bit, non-prefetchable) [size=2M]
+	Capabilities: [40] Power Management version 3
+	Capabilities: [50] MSI: Enable+ Count=1/8 Maskable+ 64bit-
+	Capabilities: [70] Express Endpoint, MSI 00
+	Capabilities: [100] Advanced Error Reporting
+	Capabilities: [148] Virtual Channel
+	Capabilities: [168] Device Serial Number 00-00-00-00-00-00-00-00
+	Capabilities: [178] Latency Tolerance Reporting
+	Capabilities: [180] L1 PM Substates
+	Kernel driver in use: ath10k_pci
+	Kernel modules: ath10k_pci
+
+```
+
+So perhaps "pcie_msi=off" could help?
+# More Notes taken from the LiveCD
+> Notes
+> -----
+> linux-firmware-network contains the network part of linux-firmware
+> wifi-firmware is another set of wifi firmware, we don't need it
+> 
+> Linux Mint LiveCD (which got this output) had linux-firmware and intel-microcode. (Had also amd64-microcode, etc. but we don't need 'em all)
+> 
+> 2022 releases of Void probably had 5.15 kernel which misbehaved after kernel update / microcode update.
+> 
+> Same for openSUSE at the time. I wonder if the errors were really ath10k or PCI bridge.
+> 
+> Both have the same kernel flags. Except in Void, CONFIG_PCIEAER_INJECT=m, not unset
+> 
+> Kernel version was 5.15.0 in Linux Mint and 6.6.10 in Void.
+> 
+> CONFIG_PCIEAER=y
+> # CONFIG_PCIEAER_INJECT is not set
+> CONFIG_PCIEASPM=y
+> CONFIG_PCIEASPM_DEFAULT=y
+> # CONFIG_PCIEASPM_POWERSAVE is not set
+> # CONFIG_PCIEASPM_POWER_SUPERSAVE is not set
+> # CONFIG_PCIEASPM_PERFORMANCE is not set
+> 
+> No Errors
+> ---------
+> $ dmesg
+> 
+> [   20.454073] ath10k_pci 0000:02:00.0: qca9377 hw1.1 target 0x05020001 chip_id 0x003821ff sub 11ad:08a6
+> [   20.454082] ath10k_pci 0000:02:00.0: kconfig debug 0 debugfs 1 tracing 1 dfs 0 testmode 0
+> [   20.455150] ath10k_pci 0000:02:00.0: firmware ver WLAN.TF.2.1-00021-QCARMSWP-1 api 6 features wowlan,ignore-otp crc32 42e41877
+> [   20.520811] ath10k_pci 0000:02:00.0: board_file api 2 bmi_id N/A crc32 8aedfa4a
+> [   20.614141] ath10k_pci 0000:02:00.0: htt-ver 3.56 [   11.025862] intel_rapl_common: Found RAPL domain package
+[   11.026841] intel_rapl_common: Found RAPL domain core
+[   11.027778] intel_rapl_common: Found RAPL domain uncore
+[   11.028718] intel_rapl_common: Found RAPL domain dram
+[   11.029656] intel_rapl_common: Found RAPL domain psyswmi-op 4 htt-op 3 cal otp max-sta 32 raw 0 hwcrypto 1
+> 
+> =======================================
+> 
+> PCI List
+> --------
+> $ lspci
+> 
+> 00:1c.5 PCI bridge: Intel Corporation Sunrise Point-LP PCI Express Root Port #6 (rev f1)
+> 02:00.0 Network controller: Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter (rev 31)
+> 
+> Errors
+> ------
+> 
+> Got a few PCI bridge errors:
+> 
+> [ 1969.824402] pcieport 0000:00:1c.5: AER: Multiple Corrected error received: 0000:00:1c.5
+> [ 1969.824458] pcieport 0000:00:1c.5: PCIe Bus Error: severity=Corrected, type=Physical Layer, (Receiver ID)
+> [ 1969.824465] pcieport 0000:00:1c.5:   device [8086:9d15] error status/mask=00000081/00002000
+> [ 1969.824473] pcieport 0000:00:1c.5:    [ 0] RxErr                 
+> [ 1969.824479] pcieport 0000:00:1c.5:    [ 7] BadDLLP               
+> [ 1969.824490] pcieport 0000:00:1c.5: AER: Multiple Corrected error received: 0000:00:1c.5
+> [ 1969.824503] pcieport 0000:00:1c.5: AER: can't find device of ID00e5
+> [ 1969.858494] pcieport 0000:00:1c.5: AER: Multiple Corrected error received: 0000:00:1c.5
+> [ 1969.858510] pcieport 0000:00:1c.5: PCIe Bus Error: severity=Corrected, type=Physical Layer, (Receiver ID)
+> [ 1969.858514] pcieport 0000:00:1c.5:   device [8086:9d15] error status/mask=00002041/00002000
+> [ 1969.858521] pcieport 0000:00:1c.5:    [ 0] RxErr                 
+> [ 1969.858525] pcieport 0000:00:1c.5:    [ 6] BadTLP
+> 
+> But no pcieport 0000:02:00.0 errors, which is what ath10k uses.
