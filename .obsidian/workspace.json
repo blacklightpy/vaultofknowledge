@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ebcbb59c7929a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
+                "file": "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md"
               }
             }
           },
@@ -253,11 +266,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04eda086ef04f633",
+  "active": "9ebcbb59c7929a4a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
@@ -286,7 +300,6 @@
     "🗺️ World Exploration/Fun and Activities/Sailing/Sailing.md",
     "🗺️ World Exploration/Fun and Activities/Scuba Diving/Scuba Diving.md",
     "🗺️ World Exploration/Fun and Activities/Scuba Diving",
-    "🗺️ World Exploration/Fun and Activities/Cloth Making/Knitting and Crocheting.md",
     "🗺️ World Exploration/Fun and Activities/Sailing",
     "🌎 Public/Retro/Retro Gaming",
     "_images/Knitting vs Crocheting.png",
