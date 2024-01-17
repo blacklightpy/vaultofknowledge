@@ -97,22 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a5c272f0ecd29e65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md"
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
               }
             }
           },
@@ -266,8 +253,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a5c272f0ecd29e65",
+  "active": "04eda086ef04f633",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
@@ -299,8 +288,6 @@
     "🗺️ World Exploration/Fun and Activities/Scuba Diving",
     "🗺️ World Exploration/Fun and Activities/Cloth Making/Knitting and Crocheting.md",
     "🗺️ World Exploration/Fun and Activities/Sailing",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
-    "🗃️ Unorganized/General Notes/Ideas.md",
     "🌎 Public/Retro/Retro Gaming",
     "_images/Knitting vs Crocheting.png",
     "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing",

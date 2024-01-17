@@ -12,7 +12,12 @@ Nowadays, both libraries and programs use the same loaders to keep uniformity. O
 - Debugging Symbols
 - Shared Memory
 - Position Independent Executables (PIEs)
-
-Guide: 
+# Guide (on how the linking and loading processes take place):
 - https://medium.com/ax1al/a-brief-info-on-linker-loader-symbol-symbol-tables-2fed729eb490
 - https://blog.ramdoot.in/linkers-and-symbol-tables-40f85f6df3c9
+# How shared libraries are loaded in Linux
+- https://news.ycombinator.com/item?id=32473099
+- https://www.akkadia.org/drepper/dsohowto.pdf
+- https://stackoverflow.com/questions/5130654/when-how-does-linux-load-shared-libraries-into-address-space
+# Notes on Shared Libraries in Apache NuttX RTOS
+- https://cwiki.apache.org/confluence/display/NUTTX/Kernel+Modules+vs+Shared+Libaries
