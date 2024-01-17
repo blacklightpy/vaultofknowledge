@@ -27,7 +27,7 @@ To run a virtualizer, the entire operating system must be able to run on the hos
 But to run a compatibility layer, only the relevant parts of the operating system or runtime has to be re-implemented for the particular host operating system. If an official effort was made, this compatibility layer would simply be a native runtime.
 
 ### How does the confusion arise?
-However, we tend to refer to call software compatibility layers if they are a layer above the main operating system. For example, although WSL is native, 
+However, we tend to refer to call software compatibility layers if they are a layer above the main operating system. For example, although WSL is native, we don't refer to it as a runtime, but as a compatibility layer. But when it comes to runtimes, we don't make such a distinction, although they too are in a layer above the operating system.
 
 So it seems fair to call Wine just a Windows runtime!
 
