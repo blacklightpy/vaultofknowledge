@@ -97,22 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "779bf4e3e4ef6dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md"
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
               }
             }
           },
@@ -266,10 +253,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "779bf4e3e4ef6dde",
+  "active": "04eda086ef04f633",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
