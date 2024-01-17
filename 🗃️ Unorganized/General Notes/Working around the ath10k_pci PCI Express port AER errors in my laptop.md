@@ -80,7 +80,7 @@ Problems are:
 - Flooding the `dmesg` (was ~360 KB after 1 hour of boot time)
 
 Known solutions are:
-- Disable AER (Advanced Error Reporting) with "pcie=noaer" kernel boot parameter
+- Disable AER (Advanced Error Reporting) with "pci=noaer" kernel boot parameter
 - Disable ASPM (Active State Power Management) with "pcie_aspm=off" kernel boot parameter
 - Disable AER error reporting by disabling CONFIG_PCIAER kernel flag and recompiling the kernel
 - Disable Power Saving in NetworkManager by changing "wifi.powersave = 3" to "wifi.powersave=2"
@@ -89,7 +89,7 @@ Notes:
 - Disabling the PCIe port makes the Wi-Fi card unrecognized (deleted Reddit.com comment on what command was used)
 
 # Debugging
-Running `lspci -v` with `sudo` shows card capabilities, which lists MSI features.
+Running `lspci -v` with `sudo` shows card capabilities, which lists MSI features. Apparently MSI is Message Signaled Interrupts, not the MSI
 
 ```
 00:1c.5 PCI bridge: Intel Corporation Sunrise Point-LP PCI Express Root Port #6 (rev f1) (prog-if 00 [Normal decode])
@@ -125,7 +125,7 @@ Running `lspci -v` with `sudo` shows card capabilities, which lists MSI features
 
 ```
 
-So perhaps "pcie_msi=off" could help?
+So perhaps "pci=nomsi" could help?
 # More Notes taken from the LiveCD
 > Notes
 > -----
