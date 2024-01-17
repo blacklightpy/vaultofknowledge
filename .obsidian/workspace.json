@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "1d6f8bcc2bb0f869",
+            "id": "3e522048b1b878fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -247,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,8 +266,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1d6f8bcc2bb0f869",
+  "active": "3e522048b1b878fb",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
@@ -297,7 +299,6 @@
     "🗃️ Unorganized/General Notes/Doubts on Quantization of Light.md",
     "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "🗺️ World Exploration/Fun and Activities/Sailing/Sailing.md",
-    "🗺️ World Exploration/Fun and Activities/Scuba Diving/Scuba Diving.md",
     "🗺️ World Exploration/Fun and Activities/Scuba Diving",
     "🗺️ World Exploration/Fun and Activities/Sailing",
     "🌎 Public/Retro/Retro Gaming",
