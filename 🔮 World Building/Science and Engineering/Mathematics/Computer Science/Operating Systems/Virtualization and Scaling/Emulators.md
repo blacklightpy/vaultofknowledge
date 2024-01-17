@@ -1,3 +1,5 @@
+> [!note]
+> This article has to be updated. For example, [[Wine Compatibility Layer|Wine]] is not an emulator. Only something like QEMU would be an emulator. The others are compatibility layers. 
 ### Windows
 - Wine
 - Crossover (paid Wine front-end)
