@@ -6,4 +6,4 @@ As the original name implies, it is not an emulator, but rather, a layer that tr
 
 An [[emulators|emulator]] 
 
-It is similar to running a 32 bit 
+It is similar to running a 32 bit binary on a 64 bit kernel.

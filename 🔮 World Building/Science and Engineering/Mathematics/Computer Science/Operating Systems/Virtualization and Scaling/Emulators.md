@@ -1,6 +1,10 @@
 > [!note]
 > This article has to be updated. For example, [[Wine Compatibility Layer|Wine]] is not an emulator. Only something like QEMU would be an emulator. The others are compatibility layers. 
-### Windows
+# Emulators
+### Linux
+- Windows Subsystem for Linux 1
+# Compatibility Layers
+### Windows on UNIX
 - Wine
 - Crossover (paid Wine front-end)
 - PlayOnLinux (Wine Manager)
@@ -8,8 +12,8 @@
 - Lutris (Wine Games Manager)
 - Proton (Steam Compatibility Layer)
 - DXVK (Vulkan based re-implementation of DirectX)
-### Linux
-- Windows Subsystem for Linux - 1/2
+### UNIX on Windows
+- Windows Subsystem for Linux 2
 - Cygwin
 - MSYS2
 #### On Chromebook
