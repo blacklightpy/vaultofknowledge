@@ -31,6 +31,5 @@ However, we tend to refer to call software compatibility layers if they are a la
 
 So it seems fair to call Wine just a Windows runtime!
 
-WINEBAR
-
-Wine Is Not an Emulator, But A Runtime
+> [!idea]
+> It could be renamed WINEBAR: Wine Is Not an Emulator, But A Runtime
