@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +265,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e522048b1b878fb",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",

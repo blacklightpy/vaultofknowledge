@@ -49,7 +49,7 @@ $ sudo dmesg
 >
 > (A slot goes by `[domain]:bus:device.function` - as per `lspci` man pages)
 
-This is an early state `dmesg` message I found now:
+This is an early state `dmesg` message I found now (the three code blocks below):
 ```
 [   10.431425] ath10k_pci 0000:02:00.0: pci irq msi oper_irq_mode 2 irq_mode 0 reset_mode 0
 [   10.573881] ath10k_pci 0000:02:00.0: PCIe Bus Error: severity=Corrected, type=Physical Layer, (Transmitter ID)
