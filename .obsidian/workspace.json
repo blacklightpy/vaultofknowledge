@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "83cddbc849d455b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -200,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -229,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md"
+                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md"
               }
             }
           },
@@ -279,10 +266,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "83cddbc849d455b5",
+  "active": "e6ad165fe36c3637",
   "lastOpenFiles": [
-    "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+    "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
