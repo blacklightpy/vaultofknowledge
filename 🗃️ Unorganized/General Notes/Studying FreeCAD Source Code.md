@@ -49,6 +49,7 @@ Other folders and files include:
 
 **NOTE:** Libraries are called by source files by include statements. For example, zipios++ library components are called by Base/ZipHeader.cpp by `#include<zipios++/zipinputstream.h>`
 # Build and Runtime Dependencies
+[This](https://forum.freecad.org/viewtopic.php?style=8&p=678323#p678323) was my old post from last year when I worked on mapping these out.
 After so long, I figured out the list of dependencies from the Void Linux build template. Here they are:
 
 **Host side build dependencies (for cross-compiling):**
@@ -59,14 +60,14 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - SWIG (A C++-Python Binding generator; Apparently used by IfcOpenShell)
 
 **Target specific build dependencies:**
-- Boost Development Files (Some distributions may need specific Boost Libraries)
+- Boost Development Files (Some distributions may need to specify Boost libraries, I listed what I think are needed below)
 	- Boost.Headers
 	- Boost.ProgramOptions
 	- Boost.System
 	- Boost.Regex
 	- Boost.Thread
 	- Boost.Graph
-	- Boost.MPI Python 3 Serialization Library
+	- Boost.MPI Python 3 Bindings
 	- Boost.Python3
 	- Boost.FileSystem
 
@@ -108,6 +109,8 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Python 3 Pivy Module
 
 ## Additional Dependency Notes
+These are not listed in the Void Linux templates, but I found them elsewhereas I had listed in the original post. They maybe useful for certain configurations, perhaps. So I'm keeping notes about them too.
+
 **Dependencies pre-bundled with FreeCAD source code:**
 - Quarter (Coin3D binding to Qt)
 
