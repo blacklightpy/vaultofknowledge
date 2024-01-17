@@ -89,7 +89,7 @@ Notes:
 - Disabling the PCIe port makes the Wi-Fi card unrecognized (deleted Reddit.com comment on what command was used)
 
 # Debugging
-Running `lspci -v` with `sudo` shows card capabilities, which lists MSI features. Apparently MSI is Message Signaled Interrupts, not the MSI
+Running `lspci -v` with `sudo` shows card capabilities, which lists MSI features. Apparently MSI is Message Signaled Interrupts, not the MSI company :P.
 
 ```
 00:1c.5 PCI bridge: Intel Corporation Sunrise Point-LP PCI Express Root Port #6 (rev f1) (prog-if 00 [Normal decode])
@@ -125,7 +125,7 @@ Running `lspci -v` with `sudo` shows card capabilities, which lists MSI features
 
 ```
 
-So perhaps "pci=nomsi" could help?
+So perhaps "pci=nomsi" could help? Maybe not, because MSI isn't reporting errors here, AER is.
 # More Notes taken from the LiveCD
 > Notes
 > -----
