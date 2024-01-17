@@ -3,6 +3,41 @@
 > [[Alternatives sandboxes to plain chroot]]
 # The easy way
 - Install Atoms from Flatpak, and you get an easy GUI
+# The easy way in Void Linux
+>[!note]
+>- For XBPS_ARCH, available options are `x86_64`, `x86_64-musl` and `i686`
+## Using xvoidstrap and xchroot
+Bootstrap chroot:
+```
+# mkdir <chroot_dir>
+# XBPS_ARCH=<chroot_arch> xvoidstrap <chroot_dir> base-container
+```
+Chroot:
+```
+xchroot <chroot_dir>
+```
+## Manually
+Copy XBPS RSA keys:
+```
+# mkdir -p "<chroot_dir>/var/db/xbps/keys"
+# cp -a /var/db/xbps/keys/* "<chroot_dir>/var/db/xbps/keys"
+```
+Bootstrap chroot:
+```
+# XBPS_ARCH=<chroot_arch> xbps-install -S -r <chroot_dir> -R <repository> base-container
+```
+For Networking:
+```
+# cp /etc/resolv.conf <chroot_dir>/etc
+# cp /etc/hosts <chroot_dir>/etc
+```
+Chroot:
+```
+# mount -t proc none <chroot_dir>/proc
+# mount -t sysfs none <chroot_dir>/sys
+# mount --rbind /dev <chroot_dir>/dev
+# mount --rbind /run <chroot_dir>/run
+```
 # The manual way
 - Optional: Run the commands as `root` instead of elevating at each command by `sudo` or `doas`
 - Make directory and enter it
@@ -58,6 +93,8 @@
 - Re-mount vs Bind mount
 - `/dev/pts`
 - Files like `/etc/passwd`, `/etc/shadow`, `/etc/groups`, sshd server keys
+
+One thing I missed was setting up users, etc.
 # Example Wrapper Script for Steam
 This simply makes a `chroot` and runs `steam`
 
