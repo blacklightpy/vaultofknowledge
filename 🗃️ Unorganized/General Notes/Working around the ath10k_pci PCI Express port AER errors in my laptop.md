@@ -1,6 +1,7 @@
 The network card is Qualcomm Atheros QCA9377 (Wi-Fi)
 The driver in use is ath10k_pci with the corresponding kernel module
 
+`lspci` output (Available in PCI Utilities, usually included in the OS distribution):
 ```
 $ lspci -v
 
