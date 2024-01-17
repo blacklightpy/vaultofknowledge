@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8496b228c4a01ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -200,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -229,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md"
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md"
               }
             }
           },
@@ -279,13 +266,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8496b228c4a01ae9",
+  "active": "779bf4e3e4ef6dde",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
