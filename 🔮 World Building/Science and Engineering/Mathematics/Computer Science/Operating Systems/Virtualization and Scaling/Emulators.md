@@ -1,12 +1,11 @@
 ### Windows
-- WINE
-- Crossover (paid WINE front-end)
+- Wine
+- Crossover (paid Wine front-end)
 - PlayOnLinux (Wine Manager)
 - Bottles (Wine Manager)
 - Lutris (Wine Games Manager)
 - Proton (Steam Compatibility Layer)
 - DXVK (Vulkan based re-implementation of DirectX)
-
 ### Linux
 - Windows Subsystem for Linux - 1/2
 - Cygwin

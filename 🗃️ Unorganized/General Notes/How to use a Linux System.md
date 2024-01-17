@@ -90,7 +90,7 @@ GUIDE TODO: Install from Flathub, Steam and Epic Games.
 GUIDE TODO: Enable Steam Play
 ### 2.3. I want to play any Windows games
 GUIDE TODO: Inform about:
-1. WINE, its wrappers (Lutris, Bottles, PlayOnLinux)
+1. Wine, its wrappers (Lutris, Bottles, PlayOnLinux)
 2. Valve's Proton
 3. DirectX-Vulkan Compatibility layers (DXVK or Gallium Nine, VKD3D)
 ### 2.4. Pro Gamer - I want all the optimizations I can get from Linux

@@ -12,7 +12,7 @@ Cool Features: Features a troubleshooter, powered by Blacklight AI
 - [ ] Manually Configure Partitions
 ### Choose Preset
 - [ ] I'm a soccer mom who wants to watch YouTube
-- [ ] I'm a gamer
+- [ ] I'm a gamer who wants the system set for gaming with a performant kernel
 - [ ] I'm a system administrator
 - [ ] I'm an engineer
 - [ ] Advanced installation (Also I'm a control freak)
@@ -46,7 +46,7 @@ You can install these additional components later from settings.
 ## Choose Default Application Packs
 (Pre-select what's already chosen by presets)
 
-- [ ] Gaming Mode (WINE, Lutris, Steam)
+- [ ] Gaming Mode (Wine, Lutris, Steam)
 - [ ] Multimedia Editor (Audacity, GNOME Pitivi, KDE Kdenlive, Handbrake, Openshot)
 - [ ] Creative Mode (Ardour, LMMS, ZRhythm, Krita, Blender)
 - [ ] Common Utilities (7-Zip CLI, 7-Zip GUI, GNU Gzip, TAR Archiver)

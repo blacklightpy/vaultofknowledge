@@ -99,12 +99,12 @@
             }
           },
           {
-            "id": "993daff8742d23d5",
+            "id": "e6ad165fe36c3637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to do a chroot.md",
+                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to do a chroot.md",
+                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to do a chroot.md",
+                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to do a chroot.md"
+                "file": "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md"
               }
             }
           },
@@ -266,17 +266,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "993daff8742d23d5",
+  "active": "e6ad165fe36c3637",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
+    "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
+    "🤠 Personal/Project Ideas/Blacklight OS.md",
+    "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
+    "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
+    "🗃️ Unorganized/General Notes/How to use a Linux System.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "🗃️ Unorganized/General Notes/How to do a chroot.md",
+    "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shared Objects.md",
     "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
-    "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
@@ -288,17 +294,11 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/Influential Communist Leaders.md",
     "🗃️ Unorganized/General Notes/How to destroy the world.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/History of Banana Republics.md",
-    "🗃️ Unorganized/General Notes/The importance of different ranges of vision.md",
-    "🗃️ Unorganized/Explanatory Articles/Why the Visible Spectrum in Life Forms is Limited.md",
     "_images/Light penetration in water.png",
-    "🗃️ Unorganized/General Notes/Impulse.md",
-    "🗃️ Unorganized/General Notes/Infinite Derivatives of Motion.md",
     "_assets/favicon.ico",
-    "World Exploration/Fun and Activities/Martial Arts/Do Martial Arts Like Tai Chi Work.md",
     "World Exploration/Fun and Activities/Martial Arts",
     "World Exploration/Fun and Activities",
     "World Exploration",
-    "🗃️ Unorganized/General Notes/Doubts on Quantization of Light.md",
     "🗺️ World Exploration/Fun and Activities/Scuba Diving",
     "🗺️ World Exploration/Fun and Activities/Sailing",
     "🌎 Public/Retro/Retro Gaming",
