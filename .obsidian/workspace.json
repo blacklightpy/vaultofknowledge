@@ -125,12 +125,12 @@
             }
           },
           {
-            "id": "c6aa7cab0e33e49a",
+            "id": "eb8fc63480fb7e58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md"
+                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md"
               }
             }
           },
@@ -293,12 +293,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c6aa7cab0e33e49a",
+  "active": "eb8fc63480fb7e58",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
-    "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+    "🗃️ Unorganized/General Notes/Tesla Coils.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+    "🗃️ Unorganized/General Notes/Wireless Power.md",
+    "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+    "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
@@ -321,8 +323,6 @@
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "🗃️ Unorganized/General Notes/How to use a Linux System.md",
     "🗃️ Unorganized/General Notes/How to do a chroot.md",
-    "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
-    "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
