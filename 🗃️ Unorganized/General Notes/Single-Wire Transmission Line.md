@@ -17,6 +17,9 @@ Nikola Tesla spoke about this.
 	- Black (Neutral Wire): Return wire, taken as 0V
 	- Green (Earth Wire): Wire to Mother Earth, either from appliance, or from neutral wire (Teachoo article said Mother Earth XD)
 
+> [!note]
+> Neutral Wire is safe to touch because it is near the 0V point (so the circuit gradient makes it 0V near that point) - But don't test it too much. The differences maybe higher if the wire isn't close to GND.
+
 - Electric Wire Colour Schemes (US)
 	- DC
 		- Red: Live
