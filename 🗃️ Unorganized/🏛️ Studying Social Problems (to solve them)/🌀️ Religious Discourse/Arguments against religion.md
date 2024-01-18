@@ -22,7 +22,8 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 ## 2. Is god not responsible for all the suffering in the world?
 ### Not following god's word is the reason for suffering
 - Counter: Question 3
-## 3. He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others? **(A non-monotheistic explanation is all is one, one is all.)**
+## 3. He has given everyone the freedom to choose, but why is it that the ones who follow suffer from the actions of others?
+**(A non-monotheistic explanation is all is one, one is all.)**
 ### Our aim should be to preach and convert everyone
 - Counter: Question 4
 ## 4. Why can't god convert people himself, if he is capable of making people think in different languages in an instant, like with the Tower of Babel?
@@ -49,7 +50,6 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 ### One must repent to eliminate those desires, and a true heart will have eliminated those desires
 - Counter: Question 10
 ## 10. It is not as easy as it sounds. If it was so easy, why didn't he make us without desires so that we didn't have to do it in the first place?
-
 **(A non-monotheistic explanation is that all desires are part of our nature, and it's not a sin. Suffering arises from our ability to not understand and control our nature, and instead choosing to repress it, leading to unintentional violent outbursts.)**
 
 No Answer Yet
