@@ -11,7 +11,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 		- Vault 2: Questions and Answers in separate files
 - Try philosophizing the principles of religion too
 ### 1. Why can't god guide everyone personally, like he guided people in the past? He should be very capable of doing it.
-#### A. God's ways are his and shouldn't be questioned
+#### God's ways are his and shouldn't be questioned
 - Counter: Question 2
 #### He gave a few chances to humanity, but they never learn
 - Counter: Question 16
@@ -88,31 +88,37 @@ No Answer Yet
 ### 24. The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
 ### 25. Is it not a slave kingdom?
 
-
+---
 #### If they say, he will allow us to have any of what we desire without side-effects
 - Counter: Question 26
 ### 26. Why would he not just let us have them peacefully in this world without all the side-effects?
 **(Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.)**
 
 No Answer Yet
-
 ### 27. Why did god create the devil?
 #### If they say he was an angel who was cast out
-	- Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
-		- If they say, he expects us to do the right thing and follow his commands:
-			- Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
-		- If they say, killing the devil would make other angels worship him out of fear and not love
-			- Aren't we forced to worship god out of fear than love?
-				- If they say, they are angels and we are mortals
-					- Isn't the judgement same for all
-						- If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
-		- If they say, killing the devil would make other angels fear him, but letting him live will let others see the results of his wicked ways
-			- Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person to disagree with god's ways and still make a life that's good for himself and others.
-#### If they say it was to test us:
-	- Ask why would he need to test us instead of making us proper in the first place?
-		- If they say, freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
-			- Ask, does it not go against the idea of freedom itself?
-				- Say that freedom without discipline leads to bad outcomes, and we can't have bad people in heaven
-					- Ask, why couldn't he just have created perfect people without freedom, instead of making some people suffer first? Did he not know in the first place when he made someone that put in their body and situation, they would behave exactly as they were built to?
-	- Jump to [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
-	- Backcontexts in Q1. about god not wanting to guide us himself (and it being his reponsibility - Q7)
+- Counter: Question 28
+### 28. Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
+#### He expects us to do the right thing and follow his commands:
+- Counter: Question 29
+#### Killing the devil would make other angels worship him out of fear and not love
+- Counter: Question 30
+#### Killing the devil would make other angels fear him, but letting him live will let others see the results of his wicked ways
+- Counter: Question 32
+### 29. Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
+### 30. Aren't we forced to worship god out of fear than love?
+#### If they say, they are angels and we are mortals
+- Counter: Question 31
+### 31. Isn't the judgement same for all
+#### If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
+No Counter Yet
+### 32. Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person to disagree with god's ways and still make a life that's good for himself and others.
+#### It was to test us
+- Counter: [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]], Question 33 (Also Refer back to Question 1 chain about god not wanting to guide us himself \[and it being his responsibility - Question 7\])
+### 33. Why would he need to test us instead of making us proper in the first place?
+#### Freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
+- Counter: Question 34
+### 34. Ask, does it not go against the idea of freedom itself?
+#### Say that freedom without discipline leads to bad outcomes, and we can't have bad people in heaven
+- Counter: Question 35
+### 35. Why couldn't god just have created perfect people without freedom, instead of making some people suffer first? Did he not know in the first place when he made someone that put in their body and situation, they would behave exactly as they were built to?
