@@ -75,17 +75,17 @@ No Answer Yet
 # 18. Why is god a narcissist? Or is god just a reflection of your own desire for control?
 No Answer Yet
 # 19. Why would you worship an unforgiving god, when he put desires in our mind, when he could have just not done that
-## If they tell you it's about freedom:
+## It's about having freedom
 - Counter: Question 20
 # 20. If one gives someone freedom, then he is also give freedom to make mistakes, and then he is also responsible for forgiving mistakes.
-## If it's said that one should repent:
+## One should repent
 - Counter: Question 21
 # 21. Again, because of the desires we're given, we are bound to make the same mistakes again and again due. Even if we wish to eliminate them, they always return, because that's the way we are made. Is it not unfair to create us in that manner?
-## If they say, it is to prepare you for something bigger ^heaven-without-test-for-obedience
+## It is to prepare you for something bigger ^heaven-without-test-for-obedience
 - Counter: Question 22, Question 23, Question 24
-## If they say, he's just testing our faith so we obey him in the future
+## God's just testing our faith so we obey him in the future
 - Counter: Question 25
-## If they say, he will allow us to have any of what we desire without side-effects in heaven
+## God will allow us to have any of what we desire without side-effects in heaven
 - Counter: Question 26
 # 22. Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
 # 23. Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
@@ -111,7 +111,7 @@ No Answer Yet
 - Counter: Question 32
 # 29. Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
 # 30. Aren't we forced to worship god out of fear than love?
-## If they say, they are angels and we are mortals
+## They are angels and we are mortals
 - Counter: Question 31
 # 31. Isn't the judgement same for all
 ## If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
