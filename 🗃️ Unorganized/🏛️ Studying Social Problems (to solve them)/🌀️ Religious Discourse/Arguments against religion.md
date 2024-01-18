@@ -19,20 +19,23 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 
 ### 4. Why can't god do it himself, if he is capable of making people think in different languages in an instant, like with the Tower of Babel?
 
-#### If they say, his ways are unknown
-- Counter: Question 5
-#### If they say, because he expects us to do it ourselves, because that is the reason for humanity as a whole
-- Counter: Question 6
+- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A1.\]** If they say, his ways are unknown
+	- Counter: Question 5
+- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.\]** If they say, because he expects us to do it ourselves, because that is the reason for humanity as a whole
+	- Counter: Question 6, Question X1
 
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Repeat, is he not responsible for all the suffering in the world?
+### 5. **\[Q1.A1.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Repeat, is he not responsible for all the suffering in the world?
+- No Answer Yet
 
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1\]** Why would someone not fix a problem he can fix in an instant?
+### 6. Why would someone not fix a problem he can fix in an instant?
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
+	- Counter: Question 7
 
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.\]** But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world? ^backlink-to-devil
+### 7. But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** If they say, we will suffer now so that the evil ones will burn in hell
-
+	- Counter: [[Arguments against religion#^devil]]
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.\]** If they say, it's not him, it's the devil
+
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.Q1.\]** Jump to [[Arguments against religion#^devil|Devil]]
 
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.\]** Why did you have to suffer that much?
@@ -61,7 +64,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 
 ---
 
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
+### **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** X1. But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.\]** Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
