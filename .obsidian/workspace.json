@@ -97,9 +97,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ae46e3a09ebbb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a2766eeff03cdb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -174,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
+                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md"
               }
             }
           },
@@ -253,10 +279,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04eda086ef04f633",
+  "active": "3a2766eeff03cdb6",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Kubernetes.md",
+    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/General Notes/Flow of Electricity.md",
+    "🗃️ Unorganized/General Notes/Submarine Telecommunication Cables.md",
+    "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Kubernetes.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
@@ -276,11 +307,6 @@
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/The right aspects of terming actions as sins.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
-    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/Designing a Web Browser.md",
-    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
-    "🗃️ Unorganized/General Notes/Why isn't LCARS DE building.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
