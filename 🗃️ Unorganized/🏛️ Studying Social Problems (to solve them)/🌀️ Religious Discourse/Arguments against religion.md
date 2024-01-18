@@ -8,7 +8,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 - **Note:** Questions could have been unordered and ID referenced, but I'll instead go with a sequence, just because I prefer it
 	- I could try creating a link and see it's graph by using a separate vault though
 		- Vault 1: Questions in separate files
-		- Vault 2: Questions and Answers in separate file
+		- Vault 2: Questions and Answers in separate files
 - Try philosophizing the principles of religion too
 ### 1. Why can't god guide everyone personally, like he guided people in the past? He should be very capable of doing it.
 #### A. God's ways are his and shouldn't be questioned
@@ -33,9 +33,9 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 - Counter: Question 7, [[Arguments against religion#^devil]] (Why did he create evil)
 ### 7. But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
 #### We will suffer now so that the evil ones will burn in hell
-- Counter: [[Arguments against religion#^devil]] (Why did he create evil), Question 8, Question 11
+- Counter: Question 27 (Devil - to know Why did he create evil), Question 8, Question 11
 #### It's not god, it's the devil
-- Counter: [[Arguments against religion#^devil]]
+- Counter: Question 27 (Devil)
 ### 8. Why did you have to suffer that much?
 #### The test is necessary for obedience
 - Counter: [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
@@ -63,13 +63,13 @@ No Answer Yet
 - Counter: Question 15
 ### 15. Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
 #### It's not him, it's the devil
-- Counter: Jump to [[Arguments against religion#^devil|Devil]]
+- Counter: Question 27 (Devil)
 ### 16. Can't an infinite lord give infinite chances?
 #### No, people will never change
 - Counter: Question 17
 ### 17. Then he should've known that a few chances are futile, so he shouldn't have given any in the first place.
 #### He hasn't forgiven anyone
-- Counter: Question 18
+- Counter: Question 18, Question 19
 ### 18. Why is god a narcissist? Or is god just a reflection of your own desire for control?
 No Answer Yet
 ### 19. Why would you worship an unforgiving god, when he put desires in our mind, when he could have just not done that
@@ -80,32 +80,39 @@ No Answer Yet
 - Counter: Question 21
 ### 21. Again, because of the desires we're given, we are bound to make the same mistakes again and again due. Even if we wish to eliminate them, they always return, because that's the way we are made. Is it not unfair to create us in that manner?
 #### If they say, it is to prepare you for something bigger ^heaven-without-test-for-obedience
-- Counter: Question 22, Question 23, Question 24, Question 25, Question 26
+- Counter: Question 22, Question 23, Question 24
+#### If they say, he's just testing our faith so we obey him in the future
+- Counter: Question 25
 ### 22. Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
 ### 23. Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
 ### 24. The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
-### 25. If they say, he's just testing our faith so we obey him in the future
-- Is it not a slave kingdom?
-### 26. If they say, he will allow us to have any of what we desire without side-effects
-- Why would he not just let us have them peacefully in this world without all the side-effects? **Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.**
+### 25. Is it not a slave kingdom?
 
-- **\[Q2.\]** Why did god create the devil? ^devil
-	- If they say he was an angel who was cast out
-		- Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
-			- If they say, he expects us to do the right thing and follow his commands:
-				- Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
-			- If they say, killing the devil would make other angels worship him out of fear and not love
-				- Aren't we forced to worship god out of fear than love?
-					- If they say, they are angels and we are mortals
-						- Isn't the judgement same for all
-							- If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
-			- If they say, killing the devil would make other angels fear him, but letting him live will let others see the results of his wicked ways
-				- Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person to disagree with god's ways and still make a life that's good for himself and others.
-	- If they say it was to test us:
-		- Ask why would he need to test us instead of making us proper in the first place?
-			- If they say, freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
-				- Ask, does it not go against the idea of freedom itself?
-					- Say that freedom without discipline leads to bad outcomes, and we can't have bad people in heaven
-						- Ask, why couldn't he just have created perfect people without freedom, instead of making some people suffer first? Did he not know in the first place when he made someone that put in their body and situation, they would behave exactly as they were built to?
-		- Jump to [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
-		- Backcontexts in Q1. about god not wanting to guide us himself (and it being his reponsibility - Q7)
+
+#### If they say, he will allow us to have any of what we desire without side-effects
+- Counter: Question 26
+### 26. Why would he not just let us have them peacefully in this world without all the side-effects?
+**(Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.)**
+
+No Answer Yet
+
+### 27. Why did god create the devil?
+#### If they say he was an angel who was cast out
+	- Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
+		- If they say, he expects us to do the right thing and follow his commands:
+			- Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
+		- If they say, killing the devil would make other angels worship him out of fear and not love
+			- Aren't we forced to worship god out of fear than love?
+				- If they say, they are angels and we are mortals
+					- Isn't the judgement same for all
+						- If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
+		- If they say, killing the devil would make other angels fear him, but letting him live will let others see the results of his wicked ways
+			- Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person to disagree with god's ways and still make a life that's good for himself and others.
+#### If they say it was to test us:
+	- Ask why would he need to test us instead of making us proper in the first place?
+		- If they say, freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
+			- Ask, does it not go against the idea of freedom itself?
+				- Say that freedom without discipline leads to bad outcomes, and we can't have bad people in heaven
+					- Ask, why couldn't he just have created perfect people without freedom, instead of making some people suffer first? Did he not know in the first place when he made someone that put in their body and situation, they would behave exactly as they were built to?
+	- Jump to [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
+	- Backcontexts in Q1. about god not wanting to guide us himself (and it being his reponsibility - Q7)
