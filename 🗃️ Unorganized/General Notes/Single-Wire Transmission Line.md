@@ -38,6 +38,11 @@ Nikola Tesla spoke about this.
 		- Neutral: Grey
 		- Ground: Green
 
+> [!note]
+> Home connections are 1 phase, industrial is 3 phase. A phase and neutral is used to power a simple circuit.
+> 
+> In Serbia, households use 3 phase power as it reduces the amount of current a single wire would carry. It helps give voltage stability as well, by not overloading a single line.
+
 - Earthing and Grounding
 	- Earthing: Connecting Circuit to the Earthing System
 	- Grounding: Connecting the Earthing System to the Earth.
