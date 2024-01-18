@@ -29,22 +29,21 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 
 ### 6. Why would someone not fix a problem he can fix in an instant?
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
-	- Counter: Question 7
+	- Counter: Question 7, [[Arguments against religion#^devil]] (Why did he create evil)
 
 ### 7. But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** If they say, we will suffer now so that the evil ones will burn in hell
-	- Counter: [[Arguments against religion#^devil]]
+	- Counter: Question 8, [[Arguments against religion#^devil]] (Why did he create evil)
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.\]** If they say, it's not him, it's the devil
+	- Counter: [[Arguments against religion#^devil]]
 
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.Q1.\]** Jump to [[Arguments against religion#^devil|Devil]]
-
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.\]** Why did you have to suffer that much?
+### 8. Why did you have to suffer that much?
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.\]** If they say, the test is necessary for obedience
+	- Counter: [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.\]** If they say, people who follow the word don't suffer
+	- Counter: Question 9
 
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]]
-
-- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** Why do other people who follow the law suffer, because of the desires they have been given?
+-  **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** Why do other people who follow the law suffer, because of the desires they have been given?
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, one must repent to eliminate those desires, and a true heart will have eliminated those desires
 
 - **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.\]** It is not as easy as it sounds. If it was so easy, why didn't he make us without desires so that we didn't have to do it in the first place? **(A non-monotheistic explanation is that all desires are part of our nature, and it's not a sin. Suffering arises from our ability to not understand and control our nature, and instead choosing to repress it, leading to unintentional violent outbursts.)**
