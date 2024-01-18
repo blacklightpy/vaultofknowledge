@@ -30,7 +30,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 - No Answer Yet
 ### 6. Why would someone not fix a problem he can fix in an instant?
 #### It is not god's responsibility to fix our lack of faith. Those who have faith have no problems.
-- Counter: Question 7, [[Arguments against religion#^devil]] (Why did he create evil)
+- Counter: Question 7, Question 27 (Devil - to know Why did he create evil)
 ### 7. But answer the previous question, is it not his responsibility to fix the suffering in the world that's due to lack of faith, which he allowed in the world?
 #### We will suffer now so that the evil ones will burn in hell
 - Counter: Question 27 (Devil - to know Why did he create evil), Question 8, Question 11
@@ -96,8 +96,10 @@ No Answer Yet
 
 No Answer Yet
 ### 27. Why did god create the devil?
-#### If they say he was an angel who was cast out
+#### He was an angel who was cast out
 - Counter: Question 28
+#### It was to test us
+- Counter: [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]], Question 33 (Also Refer back to Question 1 chain about god not wanting to guide us himself \[and it being his responsibility - Question 7\])
 ### 28. Ask why would a god create a devil separately to foil his own plans? If the devil was a cast out, why couldn't he just have burned him without letting him cause problems for others? After all, mortals die in flesh, and the dead ones won't spread problems with their minds, so why could he have not made the same decision with the devil?
 #### He expects us to do the right thing and follow his commands:
 - Counter: Question 29
@@ -113,8 +115,8 @@ No Answer Yet
 #### If they say, yes, it is the same at the time of judgement, and hence all will be punished equally
 No Counter Yet
 ### 32. Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person to disagree with god's ways and still make a life that's good for himself and others.
-#### It was to test us
-- Counter: [[Arguments against religion#^heaven-without-test-for-obedience|Heaven without test]], Question 33 (Also Refer back to Question 1 chain about god not wanting to guide us himself \[and it being his responsibility - Question 7\])
+No Answer Yet
+
 ### 33. Why would he need to test us instead of making us proper in the first place?
 #### Freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
 - Counter: Question 34
@@ -122,3 +124,4 @@ No Counter Yet
 #### Say that freedom without discipline leads to bad outcomes, and we can't have bad people in heaven
 - Counter: Question 35
 ### 35. Why couldn't god just have created perfect people without freedom, instead of making some people suffer first? Did he not know in the first place when he made someone that put in their body and situation, they would behave exactly as they were built to?
+No Answer Yet
