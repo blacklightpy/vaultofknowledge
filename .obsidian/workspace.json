@@ -287,7 +287,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,7 +306,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "43b480f5a7a50d48",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
