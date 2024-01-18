@@ -19,6 +19,7 @@ And we are all parts of his body, moving with the rhythm.
 - It's almost like a test - it is certain that if the world was fair, everyone would have had an easier time being nice -- but provided that it isn't the case, are you willing to do what's necessary to restore it? -- But it's not entirely a test, because this is something that has to be done at all times -- so it is the nature of existence itself -- because we always need to have thoughtfulness.
 # The Goal of Life is Coexistence in Harmony
 
-# Solution
+# Solution to Harmony
 - If we consider a system to handle everyone's needs, that will be what politics is
-- It is not possible to have complete peace in a secular society, because somewhere, people will disagree -- but that
+- It is not possible to have complete peace in a secular society, because somewhere, people will disagree -- but that's not to say a particular belief system would be better
+- Generally, a peaceful belief system > secular governments > dictatorship
