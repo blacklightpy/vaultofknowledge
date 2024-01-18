@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6aa7cab0e33e49a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -201,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md"
+                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md"
               }
             }
           },
@@ -261,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,13 +293,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "c6aa7cab0e33e49a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
     "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "🗃️ Unorganized/General Notes/Arguments against religion^devil.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
@@ -308,7 +323,6 @@
     "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
     "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Shared Libraries.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
