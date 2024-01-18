@@ -23,7 +23,7 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.\]** If they say, we will suffer now so that the evil ones will burn in hell
 												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.\]** Why did you have to suffer that much?
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.\]** If they say, the test is necessary for obedience
-														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion 1#^heaven-without-test-for-obedience|Heaven without test]]
+														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A1.Q1.\]** Jump to [[Z2-Rough Notes 2/General/Arguments against religion 1#^heaven-without-test-for-obedience|Heaven without test]]
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.\]** If they say, people who follow the word don't suffer
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.\]** Why do other people who follow the law suffer, because of the desires they have been given?
 															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q1.A2.Q1.A1.\]** If they say, one must repent to eliminate those desires, and a true heart will have eliminated those desires
@@ -34,14 +34,14 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 													- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.\]** If they say, all desires will be satisfied in heaven
 														- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.\]** Say couldn't that have been possible well in earth itself, without having to be tested?
 															- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.\]** If they say, the test is necessary for obedience
-																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Arguments against religion 1#^heaven-without-test-for-obedience|Heaven without test]]
+																- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A1.Q2.A2.Q1.A1.Q1.\]** Jump to [[Z2-Rough Notes 2/General/Arguments against religion 1#^heaven-without-test-for-obedience|Heaven without test]]
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.\]** If they say, it's not him, it's the devil
-												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.Q1.\]** Jump to [[Arguments against religion 1#^devil|Devil]]
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q1.A1.Q1.A2.Q1.\]** Jump to [[Z2-Rough Notes 2/General/Arguments against religion 1#^devil|Devil]]
 								- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2\]** But that hasn't worked out well, and has resulted in suffering, so isn't he responsible for not acting on a problem that he can fix?
 									- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.\]** If they say, it is not his responsibility to fix our lack of faith. Those who have faith have no problems.
 										- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.\]** Is it not his responsibility to fix the problem of lack of faith he put in our hearts?
 											- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.\]** If they say, it's not him, it's the devil
-												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.\]** Jump to [[Arguments against religion 1#^devil|Devil]]
+												- **\[Q1.A1.Q1.A1.Q1.A1.Q1.A2.Q2.A1.Q1.A1.Q1.\]** Jump to [[Z2-Rough Notes 2/General/Arguments against religion 1#^devil|Devil]]
 	- If they say, he gave a few chances to humanity, but they never learn:
 		- Can't an infinite lord give infinite chances?
 			- If opposed:
@@ -79,5 +79,5 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 				- Ask, does it not go against the idea of freedom itself?
 					- Say that freedom without discipline leads to bad outcomes, and we can't have bad people in heaven
 						- Ask, why couldn't he just have created perfect people without freedom, instead of making some people suffer first? Did he not know in the first place when he made someone that put in their body and situation, they would behave exactly as they were built to?
-		- Jump to [[Arguments against religion 1#^heaven-without-test-for-obedience|Heaven without test]]
+		- Jump to [[Z2-Rough Notes 2/General/Arguments against religion 1#^heaven-without-test-for-obedience|Heaven without test]]
 		- Backcontexts in Q1. about god not wanting to guide us himself: [[]]
