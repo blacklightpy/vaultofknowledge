@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7947bbb811466368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -214,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+                "file": "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
+                "file": "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md"
+                "file": "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md"
               }
             }
           },
@@ -293,8 +306,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c6aa7cab0e33e49a",
+  "active": "7947bbb811466368",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
     "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
@@ -322,7 +336,6 @@
     "🗃️ Unorganized/General Notes/How to do a chroot.md",
     "🗃️ Unorganized/General Notes/Alternatives sandboxes to plain chroot.md",
     "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
