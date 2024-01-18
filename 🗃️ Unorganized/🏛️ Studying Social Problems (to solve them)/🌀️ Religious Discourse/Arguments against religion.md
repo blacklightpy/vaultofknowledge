@@ -96,7 +96,6 @@ No Answer Yet
 ## 25. Is it not a slave kingdom?
 
 ## 26. Why would he not just let us have them peacefully in this world without all the side-effects?
-
 **(Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.)**
 
 No Answer Yet
