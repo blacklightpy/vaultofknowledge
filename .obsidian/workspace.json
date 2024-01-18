@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -201,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md"
               }
             }
           },
@@ -280,10 +280,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3a2766eeff03cdb6",
+  "active": "015c4fcd23a907f7",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+    "🗃️ Unorganized/General Notes/Waveguide.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
     "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
     "🗃️ Unorganized/General Notes/Tesla Coils.md",
     "🗃️ Unorganized/General Notes/Wireless Power.md",
@@ -309,7 +310,6 @@
     "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
-    "🗃️ Unorganized/General Notes/How to use a Linux System.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
