@@ -110,6 +110,7 @@ No Answer Yet
 ## Killing the devil would make other angels fear him, but letting him live will let others see the results of his wicked ways
 - Counter: Question 32
 # 29. Say, did he not know that we are so fragile that the devil could corrupt us? Knowing that we would do that, why did he make us so that we will be punished because of his own mistake?
+No Answer Yet
 # 30. Aren't we forced to worship god out of fear than love?
 ## They are angels and we are mortals
 - Counter: Question 31
@@ -118,7 +119,6 @@ No Answer Yet
 No Counter Yet
 # 32. Ask them, why should one who disagrees always be wrong and evil? It is also possible for a person to disagree with god's ways and still make a life that's good for himself and others.
 No Answer Yet
-
 # 33. Why would he need to test us instead of making us proper in the first place?
 ## Freedom is essential, but in heaven, bad deeds are disallowed, and we need to do good things while having freedom
 - Counter: Question 34
