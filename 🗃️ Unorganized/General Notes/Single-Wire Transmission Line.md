@@ -5,7 +5,6 @@ This is different from single-wire earth return (SWER), which relies on earth as
 Commercial Applications are unknown.
 
 Nikola Tesla spoke about this.
-
 # Related
 - Single-Wire Earth Return
 	- Avoids neutral wire
@@ -16,6 +15,7 @@ Nikola Tesla spoke about this.
 	- Red (Live Wire): Taken as having voltage
 	- Black (Neutral Wire): Return wire, taken as 0V
 	- Green (Earth Wire): Wire to Mother Earth, either from appliance, or from neutral wire (Teachoo article said Mother Earth XD)
+		- Grounding is done both at home and at the transformer - those are the two grounds
 
 > [!note]
 > Neutral Wire is safe to touch because it is near the 0V point (so the circuit gradient makes it 0V near that point) - But don't test it too much. The differences maybe higher if the wire isn't close to GND.
