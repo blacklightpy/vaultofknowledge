@@ -83,14 +83,13 @@ No Answer Yet
 - Counter: Question 22, Question 23, Question 24
 #### If they say, he's just testing our faith so we obey him in the future
 - Counter: Question 25
+#### If they say, he will allow us to have any of what we desire without side-effects in heaven
+- Counter: Question 26
 ### 22. Why would an infinite god's justification be to make someone suffer to prepare them for something bigger, when he could've just prepared them in an instant?
 ### 23. Is it just not your lack of imagination of all the better things that could've happened in this world that's leading you to believe in something bigger that needs a great deal of sacrifice to be able to experience?
 ### 24. The vision of heaven is so boring to many people already, which is why they don't believe in it. Why did god give us desires which are not so-called heavenly, why did he give them to us in the first place to make things pointlessly harder?
 ### 25. Is it not a slave kingdom?
 
----
-#### If they say, he will allow us to have any of what we desire without side-effects
-- Counter: Question 26
 ### 26. Why would he not just let us have them peacefully in this world without all the side-effects?
 **(Anyways, theoretically, all desires do have to be balanced or else we will lose interest in them. This leads me to believe heaven is just an illusion, like a mirage, that even god would consider pointless. It is no different from a drug that will give a temporary high that you can never reach again, leading you into an endless addiction, because first time's the charm.)**
 

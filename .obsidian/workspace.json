@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25cb6f1a7621616f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -214,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md"
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md"
               }
             }
           },
@@ -293,10 +306,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "25cb6f1a7621616f",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+    "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "🗃️ Unorganized/General Notes/Arguments against religion^devil.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "Z2-Rough Notes 2/General",
