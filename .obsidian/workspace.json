@@ -125,12 +125,12 @@
             }
           },
           {
-            "id": "eb8fc63480fb7e58",
+            "id": "b00e992e04f20c56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md",
+                "file": "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md",
+                "file": "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md",
+                "file": "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tesla Coils.md"
+                "file": "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md"
               }
             }
           },
@@ -293,11 +293,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "eb8fc63480fb7e58",
+  "active": "b00e992e04f20c56",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Tesla Coils.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+    "🗃️ Unorganized/General Notes/Tesla Coils.md",
+    "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
     "🗃️ Unorganized/General Notes/Wireless Power.md",
     "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
     "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
@@ -322,7 +323,6 @@
     "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "🗃️ Unorganized/General Notes/How to use a Linux System.md",
-    "🗃️ Unorganized/General Notes/How to do a chroot.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
