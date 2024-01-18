@@ -11,6 +11,9 @@ Find a question (or answer). Read the first answer (or question) to it, and then
 		- Vault 2: Questions and Answers in separate files
 - Try philosophizing the principles of religion too
 
+> [!important]
+> Import corrections from the Test2 Vault
+
 ## 1. Why can't god guide everyone personally, like he guided people in the past? He should be very capable of doing it.
 ### God's ways are his and shouldn't be questioned
 - Counter: Question 2

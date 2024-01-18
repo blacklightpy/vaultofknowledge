@@ -99,19 +99,6 @@
             }
           },
           {
-            "id": "2ae46e3a09ebbb93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a2766eeff03cdb6",
             "type": "leaf",
             "state": {
@@ -125,7 +112,7 @@
             }
           },
           {
-            "id": "43b480f5a7a50d48",
+            "id": "015c4fcd23a907f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,22 +123,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "25cb6f1a7621616f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -306,8 +280,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "015c4fcd23a907f7",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
     "🗃️ Unorganized/General Notes/Differential Signalling.md",
@@ -315,12 +292,9 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
-    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "🗃️ Unorganized/General Notes/Submarine Telecommunication Cables.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Kubernetes.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
