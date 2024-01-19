@@ -1,7 +1,6 @@
 I guess Apple started this.
 
 I mean, reinventing is great, and is my thing, but I don't appreciate the hype that much.
-
 # What is an app really?
 App, is short for Application.
 
@@ -11,17 +10,17 @@ This is different from utility software, which performs tasks which the user wou
 
 Windows used to refer to all user-space software as programs, and any system provided applications would be classified as accessories (such as Wordpad, Paint, etc.)
 
-
-
+The big picture is that all software that faces a user are programs of some sort, but right now we have classified everything into applications for ease of marketing. With this ideology, we have converted software that can be run locally into network services (termed as the cloud), 
 # My Ideas of Software
-## Purpose-Build Software
+## Purpose-Built Software
 - Infrastructure Software: General Purpose Infrastructure Software (Replaces [[Enterprise Management Software|EMS]], [[Learning Management Systems|LMS]], etc.)
 - Organization Software: Software tailored to a specific Organization (is expected to have interfaces with other infrastructure software)
 
 - Presentation Software: To present ideas to others (e.g. Educational Software, Slideshows, etc.)
-- Computing Software: (e.g. Mathematical Analysis, )
+- Computing Software: (e.g. Mathematical Analysis, Math Libraries, Physics Engines)
 - Creative Software: Software used to bring ideas to life (e.g. Painting, 3D Modelling, CAD, CFD)
-- Productivity Software: Software used for personal matters (e.g. Spreadsheets)
+- Productivity Software: Software used for personal matters (e.g. Spreadsheets, Sticky Notes)
+- Libraries: Software that allows other software to easily perform routines (e.g. Vulkan, Qt, GTK)
 ### Philosophy of Classification
 - There are categories such as infrastructure management, creative and personal productivity.
 - While most tasks are similar and hence can use the same software, some organizations may choose to be different for themselves. Even if they like to share their ideas, it may not suit others, for example. Think of womens' sleepovers. Men aren't usually interested in those areas. Well, I'm not implying that things can't change over time, but rather that at a given time, interests can be different for different people.

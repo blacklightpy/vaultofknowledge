@@ -136,17 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "00a9900d75b75875",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -221,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The App Hype.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md"
               }
             }
           },
@@ -301,8 +293,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "b2d6ab4e27dc842c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/My Cloud Computing Speech.md",
+    "🗃️ Unorganized/General Notes/The App Hype.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Frutiger Aero.md",
     "🗃️ Unorganized/General Notes/Sci-Fi HUD UI.md",
@@ -327,8 +321,6 @@
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "🗃️ Unorganized/General Notes/Low Voltage Differential Signalling.md",
-    "🗃️ Unorganized/General Notes/Display Serial Interface.md",
-    "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
