@@ -23,15 +23,18 @@ Windows used to refer to all user-space software as programs, and any system pro
 - Organization Software: Software tailored to a specific Organization (is expected to have interfaces with other infrastructure software)
 - Network Service Software: Software that provides network services (Self-hosting / Web Applications)
 
-- Local Service (Container Service, Waydroid Session)
-- Local Utility / Web Utility (Video Converters, Virus Scanners)
+- Local Service (e.g. Container Service, Waydroid Session, ADB Server, Download Manager)
+- Local Utility / Web Utility (e.g. Video Converters, Virus Scanners, Compiler)
 - Local Applications / Web Applications
-- System Software
-- System Service (Init System, ACPI, Defragmenter, Logging)
-- Software Libraries
+- System Software (e.g. Service Software Manager, )
+- System Service (e.g. Service Software Monitor, ACPI, Defragmenter, Logging, Firewall, Clipboard Capture, Notification Handler, Keybind Handler, [[Inter-Process Communications|IPC]] Bus)
+- Software Libraries (System API Runtime, Application Specific Runtimes)
 
 - Applications vs Clients?
 - Notion is an application, but Firefox is a Client, or an Accessory
 - Office Suites are also application software, not accessories
 
 Software can be further divided into Local and Network software.
+
+
+\* There's only just software. All software either runs directly on the CPU, or it is dependent (or restricted) on other software such as the booted **Kernel**, **Kernel+System API Runtime** (aka the OS), **Kernel+System API Runtime+Application Specific Runtime**, or just an **Application Specific Runtime** (in which case, the runtime already depends on the OS, without the developer having to worry about it)
