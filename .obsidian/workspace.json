@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e63e7185999b2a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -201,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md"
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md"
               }
             }
           },
@@ -281,11 +268,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4e63e7185999b2a6",
+  "active": "3a2766eeff03cdb6",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
+    "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
     "🗃️ Unorganized/General Notes/Choke.md",
