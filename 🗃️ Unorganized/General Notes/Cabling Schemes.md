@@ -4,6 +4,7 @@
 - Balanced Line
 	- Pair of conductors to carry signals which have equal impedances along their lengths and to ground and other circuits
 	- It reduces common-mode noise and interference when fed to a differential device such as a transformer or differential amplifier
+	- It eliminates common-mode noise because it has equal impedances (how?)
 	- Examples: Twin-lead, Twisted Pair cable (reduces EM radiation from crosstalk)
 
 # Notes
