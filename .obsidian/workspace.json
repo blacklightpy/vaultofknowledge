@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2d6ab4e27dc842c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md"
               }
             }
           },
@@ -293,8 +306,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c98ffe90d639a53f",
+  "active": "b2d6ab4e27dc842c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
     "🗃️ Unorganized/General Notes/How to use a Linux System.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
@@ -320,7 +334,6 @@
     "🗃️ Unorganized/General Notes/Abstract Syntax Tree.md",
     "🗃️ Unorganized/General Notes/Starting with CSS.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
-    "🗃️ Unorganized/General Notes/The App Hype.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
