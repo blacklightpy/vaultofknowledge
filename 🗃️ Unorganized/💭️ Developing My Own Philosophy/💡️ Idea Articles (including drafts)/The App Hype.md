@@ -1,5 +1,4 @@
 I guess Apple started this.
-
 I mean, reinventing is great, and is my thing, but I don't appreciate the hype that much.
 # What is an app really?
 App, is short for Application.
@@ -30,6 +29,13 @@ You don't really need to download an app just so you can convert an image and de
 Same is the case for Microblogging platforms. Sure, if you do need to catch up with notifications. But you don't really need them if you could just login to the site using your web browser from time to time. This will also help you reduce cognitive overload from all the timely notifications delivered straight to your device.
 
 Apps also make sense when they perform some system intensive work, not so suited for a web browser, such as Instagram with it's filters and story editors. Some such experiences need apps, but not all of them do.
+
+> [!tip] Thought
+> Far more than apps, we need standards for doing anything. For example, a drawing standard. With the presence of so many apps, all doing similar things, we are getting stuck trying to make the right choices. Going with the flow may not seem as easy as its sounds. Apps present experiences, and we all love having good experiences.
+> 
+> But sometimes, or if you consider that the general world is capitalist, most of the time, the main intention of an app is not to help the user, but to make money by doing so. Sometimes this takes the approach of dark UI patterns, such as using algorithms to make the user spend more time, which by itself makes the user less productive, but also failing to notice that at the same.
+>
+> This is often achieved by giving the user a false sense of productivity, for example, by pushing in tons of video resources, all of which the person won't be able to watch. There is often a better way of doing things.
 # My Ideas of Software
 ## Purpose-Built Software
 - Infrastructure Software: General Purpose Infrastructure Software (Replaces [[Enterprise Management Software|EMS]], [[Learning Management Systems|LMS]], etc.)

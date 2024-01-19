@@ -7,4 +7,7 @@
 - That is because changing electric field creates a magnetic field
 - Electric charges are just sinks or sources in the electric field
 - That, is further due to spacetime warping due to the energy flow causing a charge variation
-- The fields, just like to be neutral, so it is like something was taken away
+- (The fields just like to be neutral, so it is like something was taken away)
+- Since a voltage moves electrons at a drift velocity, the rate at which the electric field flows is constant
+- Since changing electric fields create a magnetic field, the magnetic field itself does not change when the rate of change is constant (that is, after the electric field flow rate has settled, and the magnetic field has risen in proportion)
+- Now, changing the velocity of the flow of elec
