@@ -112,20 +112,7 @@
             }
           },
           {
-            "id": "3dce14247d87ddd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Choke.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0915cc0d60285282",
+            "id": "78c7631e53f636bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -294,12 +281,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0915cc0d60285282",
+  "active": "78c7631e53f636bd",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
     "🗃️ Unorganized/General Notes/Choke.md",
     "🗃️ Unorganized/General Notes/Ferrite block.md",
     "🗃️ Unorganized/General Notes/Inductor.md",
-    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
     "🗃️ Unorganized/General Notes/Transatlantic Submarine Telecommunication Cables.md",
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
@@ -323,7 +311,6 @@
     "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Kubernetes.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",

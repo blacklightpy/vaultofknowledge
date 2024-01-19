@@ -8,17 +8,20 @@
 - Process and Thread Scheduling
 	- Scheduling Algorithms
 	- Scheduling Models
+	- Interrupts
+	- Threads
+	- Concurrency Control
 - Locks
-	- Deadlocks
-	- Semaphore
+	- Spinlocks
 	- Mutual Exclusions
+	- Semaphore
+	- Deadlocks
 	- Starvation
 	- File Locks
 - Memory Management
 	- Paging
 	- Segmentation
 - Virtual Memory
-- Interrupts
 - Storage and Devices
 - System Calls
 - System Programs
