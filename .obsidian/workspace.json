@@ -149,9 +149,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00a9900d75b75875",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,7 +234,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +250,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,9 +260,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -306,10 +310,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b2d6ab4e27dc842c",
+  "active": "00a9900d75b75875",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Why can't I resize partitions to the left.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
+    "🗃️ Unorganized/General Notes/Why can't I resize partitions to the left.md",
     "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
     "🗃️ Unorganized/General Notes/How to use a Linux System.md",
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
