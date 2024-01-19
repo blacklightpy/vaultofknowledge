@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58aaa4fad2fd07d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Submarine Telecommunication Cables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+                "file": "🗃️ Unorganized/General Notes/Submarine Telecommunication Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+                "file": "🗃️ Unorganized/General Notes/Submarine Telecommunication Cables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Schemes.md"
+                "file": "🗃️ Unorganized/General Notes/Submarine Telecommunication Cables.md"
               }
             }
           },
@@ -267,12 +280,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3a2766eeff03cdb6",
+  "active": "58aaa4fad2fd07d4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/General Notes/Telegrapher's equations.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
     "🗃️ Unorganized/General Notes/Electricity is Just Kamehameya.md",
     "🗃️ Unorganized/General Notes/Waveguide.md",
-    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
     "🗃️ Unorganized/General Notes/Tesla Coils.md",
     "🗃️ Unorganized/General Notes/Wireless Power.md",
@@ -286,7 +301,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
-    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "🗃️ Unorganized/General Notes/Submarine Telecommunication Cables.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Kubernetes.md",
@@ -296,7 +310,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
     "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
-    "🗃️ Unorganized/General Notes/Times when Linux kernel maintainers broke the userspace ABI.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
