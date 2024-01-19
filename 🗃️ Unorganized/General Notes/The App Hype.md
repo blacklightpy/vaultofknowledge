@@ -19,5 +19,19 @@ Windows used to refer to all user-space software as programs, and any system pro
 
 
 # My Ideas of Software
-Infrastructure Software: 
-Organization Software: Tailormad
+- Infrastructure Software: General Purpose Infrastructure Software (Replaces [[Enterprise Management Software|EMS]])
+- Organization Software: Software tailored to a specific Organization (is expected to have interfaces with other infrastructure software)
+- Network Service Software: Software that provides network services (Self-hosting / Web Applications)
+
+- Local Service (Container Service, Waydroid Session)
+- Local Utility / Web Utility (Video Converters, Virus Scanners)
+- Local Applications / Web Applications
+- System Software
+- System Service (Init System, ACPI, Defragmenter, Logging)
+- Software Libraries
+
+- Applications vs Clients?
+- Notion is an application, but Firefox is a Client, or an Accessory
+- Office Suites are also application software, not accessories
+
+Software can be further divided into Local and Network software.
