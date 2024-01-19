@@ -1,5 +1,8 @@
 - History of Operating Systems
 - Files and IO
+	- Memory Mapped I/O
+	- Direct Memory Access
+	- Block Devices
 - Filesystems
 - Kernel
 - Rings
@@ -25,3 +28,4 @@
 - Storage and Devices
 - System Calls
 - System Programs
+- Security
