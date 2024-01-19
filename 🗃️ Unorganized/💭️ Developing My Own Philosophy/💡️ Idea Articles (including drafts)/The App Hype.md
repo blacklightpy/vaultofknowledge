@@ -16,10 +16,20 @@ The big picture is that all software that faces a user are programs of some sort
 For example, the popularity of apps has led to users not accessing network services via the de-facto network service explorer, the web browser. Instead of addressing any drawbacks with the web browser platform, people have chosen to build bloated apps for every use case. This is primarily due to the philosophy, or meme, whereby an app is closer to an individual by being on their device, but a website has to be manually dialed in or bookmarked for ease of use. Also, the web browser UI gets in the way.
 
 But in doing so, we have firstly changed the internet from a freely distributed network to a centralized platform. This is avoidable if we use 3rd party app stores, however, the problem of apps still remains.
-
+### Problem 1: Sandboxing (Forced / Free)
 The mobile app is a packaged piece of software that is sandboxed in its own environment, and does not interact with other apps or with system software. That is, unless we hack into the blockade and enable system access to the applications. Even then, the app ecosystem makes it so that apps themselves are standalone packages which do not interface with other applications aside from via notifications, etc.
 
+This is also becoming a trend in the general computing space, with the trend towards immutable file systems. The system software remains immutable, while the userspace programs stay in their sandboxed environments.
 
+One of the problems with this is the inability to use shared libraries. It is a pretty big deal in of itself, because that allows applications to just stop repeatedly using the same UI libraries and so on and save space.
+### Problem 2: Temporary Apps
+More importantly, I'd say - not everything needs an app. You don't need an app per se to book a ticket or to read a piece of documentation. A properly designed website would do much better than downloading a package that bundles all the assets related to the website, even if you are not making use of all of it. These apps then flood your mobile device and you'll have to clean them when you run out of space.
+
+You don't really need to download an app just so you can convert an image and delete it. For temporary use cases, you can use network services. Such a network service could simply perform the operations on the client side as well, to avoid operational costs. Of course, you could keep the app if you intend to use it from time to time, but apps being used for temporary purposes could've been built in a better fashion, I'd say.
+### Social Networking Apps
+Same is the case for Microblogging platforms. Sure, if you do need to catch up with notifications. But you don't really need them if you could just login to the site using your web browser from time to time. This will also help you reduce cognitive overload from all the timely notifications delivered straight to your device.
+
+Apps also make sense when they perform some system intensive work, not so suited for a web browser, such as Instagram with it's filters and story editors. Some such experiences need apps, but not all of them do.
 # My Ideas of Software
 ## Purpose-Built Software
 - Infrastructure Software: General Purpose Infrastructure Software (Replaces [[Enterprise Management Software|EMS]], [[Learning Management Systems|LMS]], etc.)
