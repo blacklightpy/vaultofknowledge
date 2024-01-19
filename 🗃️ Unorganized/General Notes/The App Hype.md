@@ -36,5 +36,4 @@ Windows used to refer to all user-space software as programs, and any system pro
 
 Software can be further divided into Local and Network software.
 
-
 \* There's only just software. All software either runs directly on the CPU, or it is dependent (or restricted) on other software such as the booted **Kernel**, **Kernel+System API Runtime** (aka the OS), **Kernel+System API Runtime+Application Specific Runtime**, or just an **Application Specific Runtime** (in which case, the runtime already depends on the OS, without the developer having to worry about it)

@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c98ffe90d639a53f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Drift Velocity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
+                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
+                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The App Hype.md"
+                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md"
               }
             }
           },
@@ -279,10 +292,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "46dcfefebd367f8b",
+  "active": "04c7e48d9894653e",
   "lastOpenFiles": [
-    "🔮 World Building/Business and Finance/Company Management/Areas/Enterprise Management Software.md",
+    "🗃️ Unorganized/General Notes/Drift Velocity.md",
+    "🗃️ Unorganized/General Notes/Delocalized Electrons.md",
+    "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "🗃️ Unorganized/General Notes/The App Hype.md",
+    "🔮 World Building/Business and Finance/Company Management/Areas/Enterprise Management Software.md",
     "🗃️ Unorganized/General Notes/Frutiger Aero.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Stylesheets.md",
@@ -304,9 +320,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
-    "🗃️ Unorganized/General Notes/Choke.md",
-    "🗃️ Unorganized/General Notes/Ferrite block.md",
-    "🗃️ Unorganized/General Notes/Inductor.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
