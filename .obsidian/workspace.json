@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46dcfefebd367f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
+                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
+                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md"
+                "file": "🗃️ Unorganized/General Notes/The App Hype.md"
               }
             }
           },
@@ -266,8 +279,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04c7e48d9894653e",
+  "active": "46dcfefebd367f8b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/The App Hype.md",
     "🗃️ Unorganized/General Notes/Frutiger Aero.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Stylesheets.md",
@@ -293,7 +307,6 @@
     "🗃️ Unorganized/General Notes/Ferrite block.md",
     "🗃️ Unorganized/General Notes/Inductor.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
-    "🗃️ Unorganized/General Notes/Transatlantic Submarine Telecommunication Cables.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
