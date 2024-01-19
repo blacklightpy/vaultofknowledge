@@ -1,5 +1,5 @@
 
-D-PHY is a physical layer developed by [[Mobile Industry Processor Interface]] and is used in [[Camera Serial Interface|CSI]]. 
+D-PHY is a physical layer developed by [[Mobile Industry Processor Interface]] and is used in [[Camera Serial Interface|CSI]] and [[Display Serial Interface|DSI]].
 
 - Versions: 1.0, 1.1, 1.2, 2.0, 3.0
 - Data Rates:

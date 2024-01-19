@@ -1,0 +1,6 @@
+- Micro Control Unit (MCU)
+- [[Serial Peripheral Interface|SPI]]
+- TTL-RGB
+- MIPI [[Display Serial Interface|DSI]]
+- [[Low Voltage Differential Signalling|LVDS]]
+- [[Embedded Display Port|eDP]]

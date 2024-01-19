@@ -97,22 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3a2766eeff03cdb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md"
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
               }
             }
           },
@@ -268,11 +255,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3a2766eeff03cdb6",
+  "active": "04eda086ef04f633",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
+    "🗃️ Unorganized/General Notes/Embedded Display Port.md",
+    "🗃️ Unorganized/General Notes/Display Interfaces.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Camera Interfaces.md",
+    "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/D-PHY.md",
+    "🗃️ Unorganized/General Notes/Display Serial Interface.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Differential Signalling.md",
+    "🗃️ Unorganized/General Notes/Low Voltage Differential Signalling.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Camera Serial Interface.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
     "🗃️ Unorganized/General Notes/Choke.md",
@@ -287,17 +283,8 @@
     "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
     "🗃️ Unorganized/General Notes/Tesla Coils.md",
     "🗃️ Unorganized/General Notes/Wireless Power.md",
-    "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
-    "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
-    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
-    "🗃️ Unorganized/General Notes/Arguments against religion^devil.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
-    "🗃️ Unorganized/General Notes/Flow of Electricity.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Kubernetes.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",

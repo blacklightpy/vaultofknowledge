@@ -1,7 +1,7 @@
 It is commonly confused with balanced cabling, which is a [[Cabling Schemes|cabling scheme]] usually used with differential signalling.
 
-Basically, any external noise will affect both polarities equally, so taking their difference, the noise can be cancelled out.
+Differential signals have higher headroom due to doubled voltage, by subtracting the opposing wire voltages.
 
-A differential receiver performs the subtraction, and hence common-mode noise rejection, regardless of whether the signal is differential or single-ended.
+So it is used in low voltage high throughput data channels, such as [[D-PHY]], [[Low Voltage Differential Signalling|LVDS]], etc.
 
-Basically, differential signalling is concerned with the added headroom (due to doubled voltage), while balanced signalling
+Differential signalling is commonly paired with balanced cabling for noise cancellation.

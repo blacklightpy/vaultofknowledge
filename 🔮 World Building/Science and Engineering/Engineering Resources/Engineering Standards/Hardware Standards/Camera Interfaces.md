@@ -1,4 +1,4 @@
-## Protocols
+## Protocols and their Physical Interfaces
 - MIPI CSI-2
 	- [[D-PHY]]
 	- [[C-PHY]]
@@ -8,9 +8,9 @@
 - USB3Vision
 - CameraLink / CameraLink HS
 - CoaXPress (CXP)
-	- Pure LVDS (no transport layer)
+	- Pure [[Low Voltage Differential Signalling|LVDS]] (no transport layer)
 - FPD-Link
-	- LVDS
+	- [[Low Voltage Differential Signalling|LVDS]]
 - OpenLDI
 	- LVDS
 - SLVS-EC
