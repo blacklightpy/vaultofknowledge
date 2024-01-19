@@ -9,8 +9,17 @@ An application is a type of computer program that faces the user, and performs a
 This is different from utility software, which performs tasks which the user would like to get done, but don't interact with much. For example, Virus Scanners, Backup Utilities, Video Conversion Utilities.
 
 Windows used to refer to all user-space software as programs, and any system provided applications would be classified as accessories (such as Wordpad, Paint, etc.)
+## The big picture and the problem
 
-The big picture is that all software that faces a user are programs of some sort, but right now we have classified everything into applications for ease of marketing. With this ideology, we have converted software that can be run locally into network services (termed as the cloud), 
+The big picture is that all software that faces a user are programs of some sort, but right now we have classified everything into applications for ease of marketing. With this ideology, we have converted software that can be run locally into network services (termed as the cloud), and network services further into apps which can be obtained from centralized app stores.
+
+For example, the popularity of apps has led to users not accessing network services via the de-facto network service explorer, the web browser. Instead of addressing any drawbacks with the web browser platform, people have chosen to build bloated apps for every use case. This is primarily due to the philosophy, or meme, whereby an app is closer to an individual by being on their device, but a website has to be manually dialed in or bookmarked for ease of use. Also, the web browser UI gets in the way.
+
+But in doing so, we have firstly changed the internet from a freely distributed network to a centralized platform. This is avoidable if we use 3rd party app stores, however, the problem of apps still remains.
+
+The mobile app is a packaged piece of software that is sandboxed in its own environment, and does not interact with other apps or with system software. That is, unless we hack into the blockade and enable system access to the applications. Even then, the app ecosystem makes it so that apps themselves are standalone packages which do not interface with other applications aside from via notifications, etc.
+
+
 # My Ideas of Software
 ## Purpose-Built Software
 - Infrastructure Software: General Purpose Infrastructure Software (Replaces [[Enterprise Management Software|EMS]], [[Learning Management Systems|LMS]], etc.)

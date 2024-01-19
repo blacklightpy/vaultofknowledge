@@ -6,7 +6,8 @@ The partitioning standard must also be something that's recognized by all types 
 
 To load an operating system, the firmware (BIOS (legacy)/UEFI) will need to identify the partition table, load the boot sector (MBR/EFI), and then look for any bootable partitions, and then load a bootloader stub that it recognizes to identify the kernel, userspace and the parameters with which they should be loaded.
 
-Since the hardware needs to know if a device is capable of booting an operating system, it needs a special record to look for.
+> [!note]
+> Different operating systems may require different filesystems, which is why there needs to be different partitions, and hence a standard partition table, and a way to identify bootable partitions.
 # Characteristics
 Journalling
 Metadata
