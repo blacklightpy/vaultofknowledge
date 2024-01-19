@@ -14,21 +14,32 @@ Windows used to refer to all user-space software as programs, and any system pro
 
 
 # My Ideas of Software
-- Infrastructure Software: General Purpose Infrastructure Software (Replaces [[Enterprise Management Software|EMS]])
+## Purpose-Build Software
+- Infrastructure Software: General Purpose Infrastructure Software (Replaces [[Enterprise Management Software|EMS]], [[Learning Management Systems|LMS]], etc.)
 - Organization Software: Software tailored to a specific Organization (is expected to have interfaces with other infrastructure software)
 
+- Presentation Software: To present ideas to others (e.g. Educational Software, Slideshows, etc.)
+- Computing Software: (e.g. Mathematical Analysis, )
+- Creative Software: Software used to bring ideas to life (e.g. Painting, 3D Modelling, CAD, CFD)
+- Productivity Software: Software used for personal matters (e.g. Spreadsheets)
+### Philosophy of Classification
+- There are categories such as infrastructure management, creative and personal productivity.
+- While most tasks are similar and hence can use the same software, some organizations may choose to be different for themselves. Even if they like to share their ideas, it may not suit others, for example. Think of womens' sleepovers. Men aren't usually interested in those areas. Well, I'm not implying that things can't change over time, but rather that at a given time, interests can be different for different people.
+## General
 - Applications (e.g. Office Software, Productivity Suites, 3D Modeling Software, CAE Software)
-- Accessories (e.g. Web Browser, E-Mail, Audio manager, Podman)
+- Accessories (e.g. Web Browser, E-Mail, Audio Manager, Podman)
 	- System Accessories (e.g. File Manager, Shell)
 - Utilities (e.g. Video Converters, Virus Scanners, Compiler)
 	- System Utilities (e.g. Service Software Manager, Disk Checker)
 - Local Service (e.g. Steam Update Service, ADB Server, Download Manager)
 	- Local System Service (e.g. Service Software Monitor, ACPI, Defragmenter)
 - Network Host Service: Software that provides network services (Self-hosting / Web Applications)
-- Software Library Runtimes (e.g. DirectX, Wine, Mesa, X)
+	- System Network Host Service (e.g. Remote Shell)
+- Software Library Runtimes (e.g. DirectX, Wine, Mesa, GTK Library)
 	- System Software Library API Runtimes (e.g. Win32 DLLs, GNU C Library)
 - Media and Games (Games are a combination of Media and Application)
 
+### Philosophy of Classification
 Software can be further divided into Local and Network software.
 Local Software can be divided into User and System Software.
 Network Software can be divided into Host and Client Software.
