@@ -9,7 +9,7 @@ Aside from the amplifiers used in discrete points in telecommunications, the med
 	- Optical Fibre
 - Transmission Lines
 	- Long lines need to take wave nature into account
-	- In the past, the [[Submarine Telecommunication Cables|submarine telegraph cables]] faced interference, for which the [[Telegrapher's equations|theory of tranmission lines]] had to be devised.
+	- In the past, the [[Transatlantic Submarine Telecommunication Cables|submarine telegraph cables]] faced interference, for which the [[Telegrapher's equations|theory of tranmission lines]] had to be devised.
 	- In the present, submarine telecommunication cables are made of optical fibers, so the data is completely free of any interference.
 # Features
 - Mode Profile
