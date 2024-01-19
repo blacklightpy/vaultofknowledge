@@ -2,13 +2,23 @@
 - Files and IO
 - Filesystems
 - Kernel
+- Rings
+- Process Management
+	- Inter-Process Communication
 - Process and Thread Scheduling
-- Semaphore
-- Mutual Exclusions
+	- Scheduling Algorithms
+	- Scheduling Models
 - Locks
-- Deadlocks
-- Inter-Process Communication
+	- Deadlocks
+	- Semaphore
+	- Mutual Exclusions
+	- Starvation
+	- File Locks
 - Memory Management
-- Interrupts
+	- Paging
+	- Segmentation
 - Virtual Memory
+- Interrupts
 - Storage and Devices
+- System Calls
+- System Programs
