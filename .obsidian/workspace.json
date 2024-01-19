@@ -112,20 +112,28 @@
             }
           },
           {
-            "id": "2a212d0fbe86a33b",
+            "id": "3dce14247d87ddd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Choke.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0915cc0d60285282",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -201,7 +209,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +225,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +235,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -281,10 +285,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2a212d0fbe86a33b",
+  "active": "0915cc0d60285282",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
+    "🗃️ Unorganized/General Notes/Choke.md",
+    "🗃️ Unorganized/General Notes/Ferrite block.md",
+    "🗃️ Unorganized/General Notes/Inductor.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
     "🗃️ Unorganized/General Notes/Transatlantic Submarine Telecommunication Cables.md",
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🗃️ Unorganized/General Notes/Waveguide.md",
@@ -308,9 +315,6 @@
     "🔮 World Building/Science and Engineering/Information and Communication Technology/DevOps/Containerization/Kubernetes.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Emulators.md",
-    "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Virtualization and Scaling/Virtualization.md",
-    "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "World Exploration/Fun and Activities/Martial Arts",
