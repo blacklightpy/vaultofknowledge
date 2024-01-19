@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -234,6 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,6 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +262,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md"
+              }
             }
           },
           {
@@ -310,8 +314,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "00a9900d75b75875",
+  "active": "04c7e48d9894653e",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Sci-Fi HUD UI.md",
+    "🗃️ Unorganized/General Notes/Frutiger Aero.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "🗃️ Unorganized/General Notes/Why can't I resize partitions to the left.md",
     "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
@@ -336,8 +342,6 @@
     "🗃️ Unorganized/General Notes/Display Serial Interface.md",
     "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
     "🗃️ Unorganized/General Notes/Display Interfaces.md",
-    "🗃️ Unorganized/General Notes/Embedded Display Port.md",
-    "🗃️ Unorganized/General Notes/Abstract Syntax Tree.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
