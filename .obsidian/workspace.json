@@ -97,9 +97,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a0814e13f1adb66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Stylesheets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33503d243cd535f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/abstract syntax tree.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -175,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/abstract syntax tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/abstract syntax tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
+                "file": "🗃️ Unorganized/General Notes/abstract syntax tree.md"
               }
             }
           },
@@ -255,11 +281,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04eda086ef04f633",
+  "active": "33503d243cd535f4",
   "lastOpenFiles": [
-    "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Starting with CSS.md",
+    "🗃️ Unorganized/General Notes/abstract syntax tree.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Stylesheets.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Cascading Style Sheets.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🗃️ Unorganized/General Notes/Embedded Display Port.md",
     "🗃️ Unorganized/General Notes/Display Interfaces.md",
@@ -279,10 +309,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Treatment of Women in Religions.md",
     "🗃️ Unorganized/General Notes/Transatlantic Submarine Telecommunication Cables.md",
     "🗃️ Unorganized/General Notes/Waveguide.md",
-    "🗃️ Unorganized/General Notes/Telegrapher's equations.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
-    "🗃️ Unorganized/General Notes/Electricity is Just Kamehameya.md",
-    "🗃️ Unorganized/General Notes/Single-Wire Transmission Line.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
