@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Drift Velocity.md",
+                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
+                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
+                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md"
+                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md"
               }
             }
           },
@@ -292,14 +292,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04c7e48d9894653e",
+  "active": "c98ffe90d639a53f",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Drift Velocity.md",
+    "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
+    "🗃️ Unorganized/General Notes/Frutiger Aero.md",
     "🗃️ Unorganized/General Notes/Delocalized Electrons.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "🗃️ Unorganized/General Notes/The App Hype.md",
     "🔮 World Building/Business and Finance/Company Management/Areas/Enterprise Management Software.md",
-    "🗃️ Unorganized/General Notes/Frutiger Aero.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Stylesheets.md",
     "🗃️ Unorganized/General Notes/Starting with CSS.md",
@@ -319,7 +320,6 @@
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Camera Serial Interface.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
