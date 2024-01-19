@@ -9,8 +9,7 @@ An application is a type of computer program that faces the user, and performs a
 
 This is different from utility software, which performs tasks which the user would like to get done, but don't interact with much. For example, Virus Scanners, Backup Utilities, Video Conversion Utilities.
 
-Windows used to refer to all user-space software as programs, and any system provided applications would 
-
+Windows used to refer to all user-space software as programs, and any system provided applications would be classified as accessories (such as Wordpad, Paint, etc.)
 
 
 
@@ -24,11 +23,12 @@ Windows used to refer to all user-space software as programs, and any system pro
 - Network Service Software: Software that provides network services (Self-hosting / Web Applications)
 
 - Local Service (e.g. Container Service, Waydroid Session, ADB Server, Download Manager)
-- Local Utility / Web Utility (e.g. Video Converters, Virus Scanners, Compiler)
-- Local Applications / Web Applications
-- System Software (e.g. Service Software Manager, )
-- System Service (e.g. Service Software Monitor, ACPI, Defragmenter, Logging, Firewall, Clipboard Capture, Notification Handler, Keybind Handler, [[Inter-Process Communications|IPC]] Bus)
-- Software Libraries (System API Runtime, Application Specific Runtimes)
+- Utilities (e.g. Video Converters, Virus Scanners, Compiler)
+- Applications (e.g. )
+- System Software (e.g. Service Software Manager, Disk Checker)
+- System Service (e.g. Service Software Monitor, ACPI, Defragmenter)
+- Software Library Runtimes (e.g. System API Runtime, Application Specific Runtimes)
+- Media and Games (Games are a combination of Media and Application)
 
 - Applications vs Clients?
 - Notion is an application, but Firefox is a Client, or an Accessory

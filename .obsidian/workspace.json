@@ -99,19 +99,6 @@
             }
           },
           {
-            "id": "04c7e48d9894653e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "46dcfefebd367f8b",
             "type": "leaf",
             "state": {
@@ -234,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
+                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md",
+                "file": "🗃️ Unorganized/General Notes/The App Hype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Frutiger Aero.md"
+                "file": "🗃️ Unorganized/General Notes/The App Hype.md"
               }
             }
           },
@@ -314,10 +301,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04c7e48d9894653e",
+  "active": "46dcfefebd367f8b",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Sci-Fi HUD UI.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Frutiger Aero.md",
+    "🗃️ Unorganized/General Notes/Sci-Fi HUD UI.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "🗃️ Unorganized/General Notes/Why can't I resize partitions to the left.md",
     "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
@@ -341,7 +329,6 @@
     "🗃️ Unorganized/General Notes/Low Voltage Differential Signalling.md",
     "🗃️ Unorganized/General Notes/Display Serial Interface.md",
     "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
-    "🗃️ Unorganized/General Notes/Display Interfaces.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
