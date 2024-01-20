@@ -74,5 +74,13 @@ The same charge which previously had a magnetic field around it now doesn't have
 > [!tip] Doubt \[CLEARED\]
 > What if, one body is moving relative to X at -0.7c and another at +0.7c? Won't they see the other body as moving away from them at 1.4c?
 > 
-> **Answer:** Yes, relative speed can be faster than c. 
-> https://physics.stackexchange.com/a/165712/205108
+> **Answer:** Yes, relative speed can be faster than c. But the apparent speed won't be. It will be according to the perceived spacetime contraction, which ends up being slower than c (0.9396c here).
+> - https://physics.stackexchange.com/a/165712/205108
+> - https://physics.stackexchange.com/a/356354/205108
+> 	- A third party's observation doesn't mean anything compared to each other's perspective towards one another (which is 0.9396c)
+> 	- The third party only saw the two bodies separately move at 0.7c in either directions, and he used that information to conclude their relative velocity was 1.4c
+> 	- This is kind of philosophical
+> 
+> **Extra info:** Though you can't add velocities just like that, you can add rapidities. Rapidity is the hyperbolic angle between two velocities in the Minkowski diagram.
+
+
