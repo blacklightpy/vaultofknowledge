@@ -33,4 +33,26 @@
 
 
 
-Lie: Moving electric charges create a magnetic field around them
+**Lie:** Moving electric charges create a magnetic field around them
+
+**Truth:** Moving charges don't create field change around them
+
+Applying newton's first law: All things are in a state of rest or uniform motion unless an external force is applied.
+
+Now, this rest is only within a frame of reference. The same body can be seen as moving with a constant velocity from another inertial (non-accelerating) frame of reference, even though the body's state of motion wasn't altered by any force.
+
+
+> [!tip ] Wait..
+>If for a charge, if the electromagnetic field stays same around it
+>And if I change the frame of reference to one where it is moving, and observe a magnetic field
+>That, without any actual change in motion of the object, but only of my reference frames
+>Then isn't magnetic field just the velocity component of the electromagnetic field?
+
+In other words, the magnitude of the magnetic field is proportional to the velocity of the charge.
+
+**Wild thoughts**
+So if I move myself, I see the charge as producing a field, although it is my eyes which are fooling me into thinking so
+That is an ever-present illusion of the universe, right?
+
+(Also refer back to the stackoverflow article I linked in the second Idea section)
+(Also read the Idea section at the top)
