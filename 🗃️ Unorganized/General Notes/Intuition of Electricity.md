@@ -31,8 +31,6 @@
 
 
 
-
-
 **Lie:** Moving electric charges create a magnetic field around them
 
 **Truth:** Moving charges don't create field change around them
@@ -41,18 +39,40 @@ Applying newton's first law: All things are in a state of rest or uniform motion
 
 Now, this rest is only within a frame of reference. The same body can be seen as moving with a constant velocity from another inertial (non-accelerating) frame of reference, even though the body's state of motion wasn't altered by any force.
 
+Similarly, a moving charge can be seen to be at rest if the camera is moving along with it, provided it's not accelerating.
+
+The same charge which previously had a magnetic field around it now doesn't have a magnetic field. What happened? Obviously it's field didn't change. Only what was apparent to you about it changed.
+
+**Outcome:** The way in which you perceive electric and magnetic fields is through relative motion.
 
 > [!tip ] Wait..
 >If for a charge, if the electromagnetic field stays same around it
 >And if I change the frame of reference to one where it is moving, and observe a magnetic field
 >That, without any actual change in motion of the object, but only of my reference frames
 >Then isn't magnetic field just the velocity component of the electromagnetic field?
+>
+>In other words, the magnitude of the magnetic field is proportional to the velocity of the charge.
+>
+>**Wild thoughts**
+>So if I move myself, I see the charge as producing a field, although it is my eyes which are fooling me into thinking so
+>That is an ever-present illusion of the universe, right?
+>
+>(Also refer back to the stackoverflow article I linked in the second Idea section)
+>(Also read the Idea section at the top)
 
-In other words, the magnitude of the magnetic field is proportional to the velocity of the charge.
+> [!tip] Thoughts
+> If the field measurements are relative, then true, the only criteria would be that two bodies cannot move relative to one another faster than at the speed of light.
+> 
+> However, one of those bodies must also not move faster than the speed of light relative to a third body.
+> 
+> So the speed of light has to be references with respected to some stationary state. What we do know is that whatever it is, we can observe the relative velocity of light.
+> 
+> That is, we have measured the speed of light relative to Earth. But that may not be the velocity we observe if we are on another planet.
+> 
+> Am I wrong here? Did we really measure the true speed of light somehow?
 
-**Wild thoughts**
-So if I move myself, I see the charge as producing a field, although it is my eyes which are fooling me into thinking so
-That is an ever-present illusion of the universe, right?
-
-(Also refer back to the stackoverflow article I linked in the second Idea section)
-(Also read the Idea section at the top)
+> [!tip] Doubt \[CLEARED\]
+> What if, one body is moving relative to X at -0.7c and another at +0.7c? Won't they see the other body as moving away from them at 1.4c?
+> 
+> **Answer:** Yes, relative speed can be faster than c. 
+> https://physics.stackexchange.com/a/165712/205108
