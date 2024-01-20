@@ -15,7 +15,7 @@
 - That is, changing the velocity of a moving electric charge, by accelerating it
 - We can achieve this in one way increasing the voltage repeatedly (since drift velocity depends on the voltage)
 - Or we can simply generate alternating current, where the electrons keep changing velocities forwards and backwards
-- Since the change in electric field keeps changing, the subsequent magnetic field also keeps changing, and it further generates a change in electric field, and this 
+- Since the change in electric field keeps changing, the subsequent magnetic field also keeps changing, and it further generates a change in electric field, and this induces 
 
 > [!tip] Why is this true?
 >  This is actually due to the fact that all thing are in constant motion, and their velocity only depends on the frame of reference. That is, if we choose a different reference frame, a charged particle was still in motion. The measured electric and magnetic fields may change around that region of space, but the electromagnetic field won't as it is a tensor describing the complete field state, regardless of the inertial frame of reference used.
