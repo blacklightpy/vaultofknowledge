@@ -15,7 +15,8 @@
 - That is, changing the velocity of a moving electric charge, by accelerating it
 - We can achieve this in one way increasing the voltage repeatedly (since drift velocity depends on the voltage)
 - Or we can simply generate alternating current, where the electrons keep changing velocities forwards and backwards
-- Since the change in electric field keeps changing, the subsequent magnetic field also keeps changing, and it further generates a change in electric field, and this induces 
+- Since the change in electric field keeps changing, the subsequent magnetic field also keeps changing, and it further generates a change in electric field, and this change keeps propagating outward, and that is what we perceive as electromagnetic radiation.
+	- This is a true effect, as the change in velocity implies an acceleration, and hence a change in uniform motion in all reference frames. This change is something new that can flow outwards.
 
 > [!tip] Why is this true?
 >  This is actually due to the fact that all thing are in constant motion, and their velocity only depends on the frame of reference. That is, if we choose a different reference frame, a charged particle was still in motion. The measured electric and magnetic fields may change around that region of space, but the electromagnetic field won't as it is a tensor describing the complete field state, regardless of the inertial frame of reference used.
@@ -29,9 +30,7 @@
 >  When does velocity ever change to begin with? When it's accelerated!
 >  
 >  So acceleration is not just any kind of motion. It's just something that initiates motion itself! Or in other words, a force is what creates acceleration. Since mass and energy refer to the same concept, even a change in the fields is an acceleration generated due to a force.
-
-
-
+# The Lie and The Truth
 **Lie:** Moving electric charges create a magnetic field around them
 
 **Truth:** Moving charges don't create field change around them
@@ -45,6 +44,7 @@ Similarly, a moving charge can be seen to be at rest if the camera is moving alo
 The same charge which previously had a magnetic field around it now doesn't have a magnetic field. What happened? Obviously it's field didn't change. Only what was apparent to you about it changed.
 
 **Outcome:** The way in which you perceive electric and magnetic fields is through relative motion.
+
 
 > [!tip ] Wait..
 >If for a charge, if the electromagnetic field stays same around it
@@ -84,4 +84,5 @@ The same charge which previously had a magnetic field around it now doesn't have
 > 
 > **Extra info:** Though you can't add velocities just like that, you can add rapidities. Rapidity is the hyperbolic angle between two velocities in the Minkowski diagram.
 
-
+> [!tip] Doubt
+> If electrons and protons are chosen by convention, does it mean that they
