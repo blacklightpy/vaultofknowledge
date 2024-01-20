@@ -10,6 +10,7 @@
 - (The fields just like to be neutral, so it is like something was taken away)
 - Since a voltage moves electrons at a drift velocity, the rate at which the electric field flows is constant
 - Since changing electric fields create a magnetic field, the magnetic field itself does not change when the rate of change is constant (that is, after the electric field flow rate has settled, and the magnetic field has risen in proportion)
+	- This is not a true effect, no magnetic field is created by the motion. If an electron is moving at a constant velocity in an inertial frame of reference, you could always see it as at rest from another inertial frame of reference. This doesn't change the field.
 - If we then change the rate of change of the electric fields, we get a change in the magnetic field.
 - That is, changing the velocity of a moving electric charge, by accelerating it
 - We can achieve this in one way increasing the voltage repeatedly (since drift velocity depends on the voltage)
