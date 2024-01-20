@@ -17,8 +17,20 @@
 - Since the change in electric field keeps changing, the subsequent magnetic field also keeps changing, and it further generates a change in electric field, and this 
 
 > [!tip] Why is this true?
-> - This is actually due to the fact that all thing are in constant motion, and their velocity only depends on the frame of reference. That is, if we choose a different reference frame, a charged particle was still in motion. The measured electric and magnetic fields may change around that region of space, but the electromagnetic field won't as it is a tensor describing the complete field state, regardless of the inertial frame of reference used.
-> - 
-> - Whenever the velocity changes, information about the change in fields simply travel outwards at the speed of light, which is not relative to the charge, but relative to the background. This is because 
-> - 
-> - When does velocity ever change to begin with? When it's accelerated!
+>  This is actually due to the fact that all thing are in constant motion, and their velocity only depends on the frame of reference. That is, if we choose a different reference frame, a charged particle was still in motion. The measured electric and magnetic fields may change around that region of space, but the electromagnetic field won't as it is a tensor describing the complete field state, regardless of the inertial frame of reference used.
+>  
+>  Whenever the velocity changes, information about the change in fields simply travel outwards at the speed of light, which is not relative to the charge, but relative to the background. This is because the speed of light is simply the speed at which changes flow. For example, the speed of sound is the speed at which the disturbance in water propagates.
+>  
+>  (So you see, information is not your grandpa's name. It simply is the flow of events reaching from one place to another.)
+> 
+>  \[Doubt: How is light speed fixed, if all motion is relative? (Try reading: https://physics.stackexchange.com/questions/192891/if-all-motion-is-relative-how-does-light-have-a-finite-speed)\]
+>  
+>  When does velocity ever change to begin with? When it's accelerated!
+>  
+>  So acceleration is not just any kind of motion. It's just something that initiates motion itself! Or in other words, a force is what creates acceleration. Since mass and energy refer to the same concept, even a change in the fields is an acceleration generated due to a force.
+
+
+
+
+
+Lie: Moving electric charges create a magnetic field around them
