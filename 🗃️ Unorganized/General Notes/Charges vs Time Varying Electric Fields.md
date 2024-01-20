@@ -1,0 +1,1 @@
+- https://physics.stackexchange.com/questions/661142/are-moving-charges-and-changing-electric-fields-different-causes

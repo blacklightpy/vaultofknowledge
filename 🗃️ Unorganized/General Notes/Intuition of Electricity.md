@@ -85,4 +85,7 @@ The same charge which previously had a magnetic field around it now doesn't have
 > **Extra info:** Though you can't add velocities just like that, you can add rapidities. Rapidity is the hyperbolic angle between two velocities in the Minkowski diagram.
 
 > [!tip] Doubt
-> If electrons and protons are chosen by convention, does it mean that they
+> If electrons and protons are chosen by convention, does it mean that it doesn't matter whether the electron is a sink or a source?
+> 
+> Both models should come to the same results then..
+> Or rather, the model is the same whichever pattern you consider.
