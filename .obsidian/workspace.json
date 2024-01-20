@@ -97,35 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c98ffe90d639a53f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae8adc65acb54fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Understanding Electric Charges.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -200,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Understanding Electric Charges.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Understanding Electric Charges.md",
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Understanding Electric Charges.md"
+                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
               }
             }
           },
@@ -280,11 +254,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4ae8adc65acb54fa",
+  "active": "04eda086ef04f633",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Understanding Electric Charges.md",
-    "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/My Cloud Computing Speech.md",

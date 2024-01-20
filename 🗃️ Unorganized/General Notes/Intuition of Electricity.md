@@ -25,7 +25,8 @@
 >  
 >  (So you see, information is not your grandpa's name. It simply is the flow of events reaching from one place to another.)
 > 
->  \[Doubt: How is light speed fixed, if all motion is relative? (Try reading: https://physics.stackexchange.com/questions/192891/if-all-motion-is-relative-how-does-light-have-a-finite-speed)\]
+>  - \[**Doubt (SOLVED):** How is light speed fixed, if all motion is relative? (Try reading: https://physics.stackexchange.com/questions/192891/if-all-motion-is-relative-how-does-light-have-a-finite-speed) \]
+> 	 - **Answer:** Speed of light is fixed, but it is fixed as the same for every observer. This is the result of the Michelson-Morley experiments, when they tried to find the speed of light against the background. So if the speed of light must be same for bodies moving at all velocities, it must mean that at higher velocities, the space must contract to create the same measurement. (The main answer in the link above explains this in terms of geometry better)
 >  
 >  When does velocity ever change to begin with? When it's accelerated!
 >  
