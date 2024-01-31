@@ -1,4 +1,49 @@
 # Characters
+The American Philosophers
+The Chinese Philosophers
+The Russian Philosophers
+The Boss / The Joy / The Mother of The Special Forces
+Big Boss
+EVA
+Ocelot / Revolver Ocelot / Adamska / Adam / ADAM / Shakalaska
+Colonel Volgin
+Zero
+
+The Patriots
+The Patriots AI / Cypher / La-Li-Lu-Le-Lo
+Solid Snake
+Liquid Snake
+Solidus Snake
+Raiden
+Kaz Miller
+Dr. Strangelove
+Huey Emmerich
+
+Colonel Campbell
+Naomi Hunter
+Meryl
+Hal Emmerich
+Emma Emmerich
+Splinter Wolf
+
+Olga
+Sunny Emmerich
+Rosemary
+Vamp
+
+Drebin
+Liquid Ocelot
+
+Kevin
+Courtney
+Boris
+Samuel Rodriguez
+Monsoon
+Mistral
+Sundowner
+Blade Wolf
+Armstrong
+# Plot
 The philosophers were wealthy individuals of powerful nations who controlled them.
 The Boss is a female legendary war hero from the US
 
@@ -33,7 +78,8 @@ He became the 73rd President of the US.
 
 Raiden was a child soldier from Liberia raised by Solidus Snake.
 Solidus had killed his parents to experiment with him.
-Raiden signed up for military training and be
+Raiden signed up for military training and became a cyborg.
+...
 # Chronology
 Snake Eater Operation (Metal Gear Solid 3: Snake Eater / Metal Gear Solid Delta: Snake Eater)
 Metal Gear Solid: Portable Ops
