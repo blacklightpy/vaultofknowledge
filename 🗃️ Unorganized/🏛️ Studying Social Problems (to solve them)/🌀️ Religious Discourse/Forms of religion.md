@@ -1,8 +1,8 @@
 - Monotheism - Worship of one god alone. e.g. Abrahamic religions
 - Polytheism - Worship of many gods. e.g. Egyptian Gods, Greek Gods
-- Henotheism - Worship of one supreme god doesn't mean you can't worship other gods. e.g. Hinduism
+- Henotheism - Worship of one supreme god doesn't mean you can't have other gods. e.g. Hinduism
 - Animism - The belief that all entities possess a spiritual essence. e.g. Hinduism, Buddhism, Jainism, Sikhism
 - Pantheism - The belief that reality itself is god. e.g. Hinduism, Taoism, Sikhism, Confucianism
 - Pantheistic Animism - The belief that all reality has a soul and that is god. e.g. Giordano Bruno's religion.
-- Monistic Theism: A combination of Pantheism and Panentheism, but does not attribute personality to God. This is the belief in God in Hinduism
+- Monistic Theism: A combination of Pantheism and Panentheism, but does not attribute personality to god. This is the core idea of Hinduism
 - Substance monotheism: The belief that there are many different gods, but that they are all essentially forms of the same essence
