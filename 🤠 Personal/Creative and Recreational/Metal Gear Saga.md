@@ -1,14 +1,20 @@
 # Characters
+## MGS 3
 The American Philosophers
 The Chinese Philosophers
 The Russian Philosophers
 The Boss / The Joy / The Mother of The Special Forces
 Big Boss
-EVA
-Ocelot / Revolver Ocelot / Adamska / Adam / ADAM / Shakalaska
+Major Zero / Major Tom
+Para-Medic
+EVA / Tatyana / Big Mama
+Ocelot / Revolver Ocelot / Adamska / Adam / ADAM / Shalashaska
 Colonel Volgin
-Zero
-
+The Cobra Unit
+## MGS: PW
+Dr. Strangelove
+Huey Emmerich
+## MGS V: GZ
 The Patriots
 The Patriots AI / Cypher / La-Li-Lu-Le-Lo
 Solid Snake
@@ -16,30 +22,38 @@ Liquid Snake
 Solidus Snake
 Raiden
 Kaz Miller
-Dr. Strangelove
-Huey Emmerich
+Silent
+Skull Face
+DD / Diamond Dog
+## MGS V: TPP
 
+## MG
+Grey Fox / Frank Jaeger
+## MG 2 / MGS
 Colonel Campbell
 Naomi Hunter
 Meryl
 Hal Emmerich
 Emma Emmerich
 Splinter Wolf
-
+## MGS 2
+Raiden / Jack The Ripper
 Olga
 Sunny Emmerich
 Rosemary
 Vamp
-
-Drebin
+## MGS 4
+Drebin 893
 Liquid Ocelot
+The Beauty and The Beast Corps
 
 Kevin
 Courtney
 Boris
-Samuel Rodriguez
+Samuel Rodriguez / Jetstream Sam
 Monsoon
 Mistral
+Khamsin
 Sundowner
 Blade Wolf
 Armstrong
@@ -92,3 +106,16 @@ Shadow Moses Incident (Metal Gear Solid / Metal Gear Solid: The Twin Snakes)
 Metal Gear Solid 2: The Sons of Liberty
 Metal Gear Solid 4: Guns of The Patriots
 Metal Gear Rising: Revengeance
+# Organizations
+The Philosophers
+The Patriots
+The Patriots AI / Cipher
+Outer Heaven
+FOX
+XOF
+FOXHOUND
+MSF
+Philanthropy
+Diamond Dogs
+Outer Have
+Desperado Enforcement LLC
