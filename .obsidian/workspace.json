@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/IEEE 802.11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/IEEE 802.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/IEEE 802.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/IEEE 802.11.md"
               }
             }
           },
@@ -295,6 +295,7 @@
   },
   "active": "f4292fb7f08a711f",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
     "🗃️ Unorganized/General Notes/How to Question Physics.md",
@@ -320,7 +321,6 @@
     "🗃️ Unorganized/General Notes/Waveguide.md",
     "🗃️ Unorganized/General Notes/Ferrite block.md",
     "🗃️ Unorganized/General Notes/Inductor.md",
-    "🗃️ Unorganized/General Notes/Choke.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
