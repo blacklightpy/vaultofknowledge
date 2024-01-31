@@ -16,29 +16,32 @@ Dr. Strangelove
 Huey Emmerich
 ## MGS V: GZ
 The Patriots
-The Patriots AI / Cypher / La-Li-Lu-Le-Lo
+The Patriots AI / Cypher / La-Li-Lu-Le-Lo (TJ, TR, AL, GW, JD)
 Solid Snake
 Liquid Snake
 Solidus Snake
 Raiden
-Kaz Miller
+Benedict Kazhuhira Miller / Kaz Miller / Master Miller
 Silent
 Skull Face
 DD / Diamond Dog
 ## MGS V: TPP
+Venom Snake
 
 ## MG
 Grey Fox / Frank Jaeger
 ## MG 2 / MGS
-Colonel Campbell
+Colonel Roy Campbell
 Naomi Hunter
 Meryl
 Hal Emmerich
 Emma Emmerich
 Splinter Wolf
+Mei Ling
 ## MGS 2
 Raiden / Jack The Ripper
-Olga
+Olga Gurlukovich
+Fortune / Lady Luck
 Sunny Emmerich
 Rosemary
 Vamp
@@ -117,5 +120,7 @@ FOXHOUND
 MSF
 Philanthropy
 Diamond Dogs
-Outer Have
+Outer Haven
+Maverick Security Consulting, Inc.
 Desperado Enforcement LLC
+World Marshall Inc.

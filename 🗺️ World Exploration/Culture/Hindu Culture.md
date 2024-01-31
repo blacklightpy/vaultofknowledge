@@ -32,7 +32,6 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
    
 ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
 
-
 ## Books
 - Lalita Sahasranamam (from Brahmanda Purana)
 - Saundarya Lahari (Tantra text)

@@ -4,3 +4,5 @@
 - Animism - The belief that all entities possess a spiritual essence. e.g. Hinduism, Buddhism, Jainism, Sikhism
 - Pantheism - The belief that reality itself is god. e.g. Hinduism, Taoism, Sikhism, Confucianism
 - Pantheistic Animism - The belief that all reality has a soul and that is god. e.g. Giordano Bruno's religion.
+- Monistic Theism: A combination of Pantheism and Panentheism, but does not attribute personality to God. This is the belief in God in Hinduism
+- Substance monotheism: The belief that there are many different gods, but that they are all essentially forms of the same essence
