@@ -1,7 +1,8 @@
 # Characters
 The Boss is a female legendary war hero from the US.
+A boy named John was recruited by The Boss, and together they developed a fighting style named CQC.
+He was ordered to kill 
 The Boss is the boss of Big Boss.
-A man named
 Solid Snake and Liquid Snake are the first two clones of Big Boss, created by Zero.
 # Chronology
 Snake Eater Operation (Metal Gear Solid 3: Snake Eater / Metal Gear Solid Delta: Snake Eater)
