@@ -6,8 +6,9 @@ A boy named John was recruited by The Boss, and together they developed a fighti
 He was code named Naked Snake.
 The Boss was sent on a double-agent mission to obtain the Philosophers' Legacy from the Russians.
 EVA was another female spy from the Chinese Philosophers sent for the same mission.
-Colonel Volgin was in possession of the Philosophers' Legacy, and he caused a nuclear explosion.
-The nuclear explosion was made using an American missile, and triggered concerns of a war.
+Colonel Volgin was in possession of the Philosophers' Legacy
+He fired an American made Davy Crockett nuclear warhead at a Russian research facility.
+It made it look like the Americans fired it.
 Snake was ordered to kill The Boss by the US to make her a scapegoat for the explosion.
 The Boss told Snake that she had a vision of a world without borders shortly before they fought.
 After killing The Boss, he got the title of Big Boss by Zero, a member of the American Philosophers.
@@ -18,7 +19,21 @@ Afraid that Big Boss would leave, Zero decided to covertly clone Big Boss to mak
 The project was called Les Infantes Terribles, and EVA was chosen as the surrogate mother.
 
 Solid Snake and Liquid Snake are the first two clones of Big Boss.
-Big Boss rejected both clones as he did not want this done, and he left the Patriots
+Solid Snake was the imperfect clone, and Liquid was a better clone.
+Big Boss rejected both clones as he did not want this done, and he left the Patriots.
+He referred to Solid as the Brother of Light and Liquid as brother of the Dark.
+This made Liquid think he was the imperfect clone.
+Big Boss started his own Private Military Company (PMC), named Military Sans Frontiers (MSF).
+
+Ocelot came to see Big Boss as a legend.
+Ocelot was the lost son of The Boss.
+
+A third perfect clone of Big Boss was made, called Solidus Snake.
+He became the 73rd President of the US.
+
+Raiden was a child soldier from Liberia raised by Solidus Snake.
+Solidus had killed his parents to experiment with him.
+Raiden signed up for military training and be
 # Chronology
 Snake Eater Operation (Metal Gear Solid 3: Snake Eater / Metal Gear Solid Delta: Snake Eater)
 Metal Gear Solid: Portable Ops
