@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcb27c33d10cdb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to Question Physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/How to Question Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🗃️ Unorganized/General Notes/How to Question Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
+                "file": "🗃️ Unorganized/General Notes/How to Question Physics.md"
               }
             }
           },
@@ -254,11 +267,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04eda086ef04f633",
+  "active": "bcb27c33d10cdb1b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to Question Physics.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Understanding Electric Charges.md",
     "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/My Cloud Computing Speech.md",
@@ -281,7 +295,6 @@
     "🗃️ Unorganized/General Notes/Choke.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
-    "🗃️ Unorganized/General Notes/Differential Signalling.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
