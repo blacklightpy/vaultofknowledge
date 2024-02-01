@@ -6,6 +6,7 @@ Range of intervals: 10 octaves
 Discrete audible volumes?
 
 A phon is the unit of perceptible audio intensity: https://courses.lumenlearning.com/suny-physics/chapter/17-6-hearing/
+Wikipedia says the JND amplitude for humans is 1 dB.
 
 
 Discrete audible intervals:
@@ -26,7 +27,7 @@ Related resource: https://en.wikipedia.org/wiki/Just-noticeable_difference
 - The human perceptible range has 1400 notes.
 - If notes are played together, the listener can distinguish them via their beat frequencies, increasing the number of notes.
 
-24 tone equal-tempered (TET) tuning system has 24 notes per octave. This is also called 24-EDO (Equal Divisions of the Octave). Higher divisions exist, but are not commonly played unless the notes are adjacent to notice the differences. e.g. 
+24 tone equal-tempered (TET) tuning system has 24 notes per octave. This is also called 24-EDO (Equal Divisions of the Octave). Higher divisions exist, but are not commonly played unless the notes are adjacent to notice the differences. e.g. 31-tone, 34-tone, 41-tone, 53-tone, 58-tone, 72-tone, 96-tone.
 
 The whole thing about tone intervals is called musical temperament. There are equal temperaments as well as irregular temperament scales.
 
