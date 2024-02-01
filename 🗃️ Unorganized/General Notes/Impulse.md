@@ -23,7 +23,7 @@ We use knife hand rather than fist.
 
 So the pressure also is important, as all the force is acting on a small area to create a crack.
 
-
+Ultimately it seems the change in momentum by time taken, or a force, that breaks up a brick. Think of it as a sudden jolt in a structure, giving them no time to regroup before the force breaks all joints.
 # To Read in Impulse
 - https://physics.stackexchange.com/questions/149482/impulse-and-force-in-a-karate-chop-can-we-maximize-force-minimizing-the-time-of
 - https://physics.stackexchange.com/questions/270030/newtons-3rd-law-hitting-drywall-which-i-break-vs-hitting-a-brick-which-br
