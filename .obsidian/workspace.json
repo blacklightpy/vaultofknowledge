@@ -123,9 +123,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2d00f5e606fcfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
+                "file": "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
+                "file": "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md"
+                "file": "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md"
               }
             }
           },
@@ -280,10 +293,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e4693ba2de5fd963",
+  "active": "e2d00f5e606fcfc5",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "🗃️ Unorganized/General Notes/Impulse.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Chromatography.md",
     "🗃️ Unorganized/General Notes/Cohesive Force.md",
@@ -307,7 +321,6 @@
     "🗃️ Unorganized/General Notes/How to Play 32-bit Windows Games on Steam with Proton under musl libc using Flatpak.md",
     "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
     "🗃️ Unorganized/General Notes/Is It Even Worth Going To Space.md",
-    "🗃️ Unorganized/General Notes/Is radiation from electronic gadgets harmful.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
