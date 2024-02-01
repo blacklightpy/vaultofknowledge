@@ -40,4 +40,6 @@ The whole thing about tone intervals is called musical temperament. There are eq
 
 > The largest physically possible EDO in a frequency range can be found through molecular physics such as the mean free path combined with the speed of sound in a given substance. 
 
+EDO vs ET: https://en.xen.wiki/w/EDO_vs_ET
+
 Related fields: Psychosomatics, Psycho-acoustics
