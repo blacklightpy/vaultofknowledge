@@ -4,6 +4,10 @@ Range of frequencies: 20 kHz
 Range of intervals: 10 octaves
 
 Discrete audible volumes?
+
+A phon is the unit of perceptible audio intensity: https://courses.lumenlearning.com/suny-physics/chapter/17-6-hearing/
+
+
 Discrete audible intervals:
 
 Some say 1/12th of a half-step (i.e. 8 cents)
@@ -34,3 +38,5 @@ The whole thing about tone intervals is called musical temperament. There are eq
 	- Larger EDOs are for use in molecular physics, etc.
 
 > The largest physically possible EDO in a frequency range can be found through molecular physics such as the mean free path combined with the speed of sound in a given substance. 
+
+Related fields: Psychosomatics, Psycho-acoustics
