@@ -7,6 +7,9 @@ Discrete audible volumes?
 
 A phon is the unit of perceptible audio intensity: https://courses.lumenlearning.com/suny-physics/chapter/17-6-hearing/
 Wikipedia says the JND amplitude for humans is 1 dB.
+There are about 120 phons till the threshold of pain. So I'll include 80 phons for music.
+
+![[Frequency and Loudness Response of the Ear.png]]
 
 
 Discrete audible intervals:
