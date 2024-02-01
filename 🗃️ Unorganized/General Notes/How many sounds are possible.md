@@ -42,4 +42,8 @@ The whole thing about tone intervals is called musical temperament. There are eq
 
 EDO vs ET: https://en.xen.wiki/w/EDO_vs_ET
 
+> You are exactly right in your conclusion that higher frequencies are harder to distinguish apart, due in large part to the non-linearity of frequency distribution in the cochlea. 
+
+![[Frequency Areas of the Cochlea.png]]
+
 Related fields: Psychosomatics, Psycho-acoustics
