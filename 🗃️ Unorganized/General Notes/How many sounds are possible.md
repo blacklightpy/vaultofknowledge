@@ -3,11 +3,13 @@ Highest audible [[beat frequency]]: 10 (maximum different sounds one can hear in
 Range of frequencies: 20 kHz
 Range of intervals: 10 octaves
 
+Sound should also last between 0.004 to 0.013 seconds to be perceived, depending on the frequency.
+
 Discrete audible volumes?
 
 A phon is the unit of perceptible audio intensity: https://courses.lumenlearning.com/suny-physics/chapter/17-6-hearing/
 Wikipedia says the JND amplitude for humans is 1 dB.
-There are about 120 phons till the threshold of pain. So I'll include 80 phons for music.
+There are about 120 phons till the threshold of pain. So I'll include 60 phons for music (also to account for frequency distribution)
 
 ![[Frequency and Loudness Response of the Ear.png]]
 
@@ -49,4 +51,5 @@ EDO vs ET: https://en.xen.wiki/w/EDO_vs_ET
 
 ![[Frequency Areas of the Cochlea.png]]
 
-Related fields: Psychosomatics, Psycho-acoustics
+Sound perception Notes: https://faculty.tamuc.edu/cbertulani/music/lectures/lec15/lec15.pdf
+**Related fields:** Psychosomatics, Psycho-acoustics
