@@ -34,7 +34,7 @@ There are 1200 cents in an octave.
 - We can distinguish amplitudes of approximately 1dB, for about 60 distinct phons.
 
 With this, there are 1000 x 2400 x 60 = 144,000,000 possible sounds in a second.
-In 
+In 5 minutes, there are 144 million^300 possible sounds = 
 # Resources
 Related resource: https://en.wikipedia.org/wiki/Just-noticeable_difference
 - The equally tempered scale ranges form 16-16000 Hz and has 120 tones
