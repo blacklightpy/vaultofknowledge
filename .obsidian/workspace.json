@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+                "file": "🗃️ Unorganized/General Notes/Microtones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+                "file": "🗃️ Unorganized/General Notes/Microtones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md"
+                "file": "🗃️ Unorganized/General Notes/Microtones.md"
               }
             }
           },
@@ -332,11 +332,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3bb418e5030936e4",
+  "active": "11f8116805af6f92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Music Theory.md",
     "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
+    "🗃️ Unorganized/General Notes/Music Theory.md",
+    "🗃️ Unorganized/General Notes/Sound Perception.md",
+    "🗃️ Unorganized/General Notes/Music Gestures.md",
+    "🗃️ Unorganized/General Notes/Sound.md",
+    "🗃️ Unorganized/General Notes/Next Generation Audio.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Ultra HD Forum.md",
+    "_images/Frequency Areas of the Cochlea.png",
     "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
     "🗃️ Unorganized/General Notes/Beat Frequency.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
@@ -355,11 +361,6 @@
     "🗃️ Unorganized/General Notes/Understanding Electric Charges.md",
     "🗃️ Unorganized/General Notes/Intuition of Electricity.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/My Cloud Computing Speech.md",
-    "🗃️ Unorganized/General Notes/Frutiger Aero.md",
-    "🗃️ Unorganized/General Notes/Sci-Fi HUD UI.md",
-    "🗃️ Unorganized/General Notes/Why can't I resize partitions to the left.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
@@ -378,7 +379,6 @@
     "_images/Indo-European_expansions.jpg",
     "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "_images/Korea_DMZ.svg.png",
-    "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg",
-    "_images/Types of Digital Modulation.png"
+    "_images/Indo-European_language_tree_(with_major_international_languages_highlighted).svg"
   ]
 }

@@ -1,0 +1,1 @@
+![[Frequency Areas of the Cochlea.png]]
