@@ -1,9 +1,11 @@
 
-Highest audible [[beat frequency]]: 10 (maximum different sounds one can hear in a second)
+Highest audible [[beat frequency]]: 10 Hz (maximum different sounds one can hear in a second)
 Range of frequencies: 20 kHz
 Range of intervals: 10 octaves
 
-Sound should also last between 0.004 to 0.013 seconds to be perceived, depending on the frequency.
+Sound should also last between 0.004 to 0.013 seconds to be perceived, depending on the frequency. The average time is 13 ms. That would make for 100 possible notes in one seond.
+
+I can put this and beat frequency together to get 100 x 10 = 1000 possible sounds in one seco
 
 Discrete audible volumes?
 
