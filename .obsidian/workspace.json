@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+                "file": "🗃️ Unorganized/General Notes/Microtones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+                "file": "🗃️ Unorganized/General Notes/Microtones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md"
+                "file": "🗃️ Unorganized/General Notes/Microtones.md"
               }
             }
           },
@@ -306,11 +306,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3bb418e5030936e4",
+  "active": "e547f8d73bcf4fdc",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
     "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
-    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "🗃️ Unorganized/General Notes/Music Theory.md",
     "🗃️ Unorganized/General Notes/Learning kernel development.md",
     "🗃️ Unorganized/General Notes/How to Question Physics.md",
