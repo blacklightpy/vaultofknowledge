@@ -3,9 +3,9 @@ Highest audible [[beat frequency]]: 10 Hz (maximum different sounds one can hear
 Range of frequencies: 20 kHz
 Range of intervals: 10 octaves
 
-Sound should also last between 0.004 to 0.013 seconds to be perceived, depending on the frequency. The average time is 13 ms. That would make for 100 possible notes in one seond.
+Sound should also last between 0.004 to 0.013 seconds to be perceived, depending on the frequency. The average time is 13 ms. That would make for 100 possible notes in one second.
 
-I can put this and beat frequency together to get 100 x 10 = 1000 possible sounds in one seco
+I can put this and beat frequency together to get 100 x 10 = 1000 possible sounds of a single volume and pitch in one second.
 
 Discrete audible volumes?
 
@@ -28,6 +28,13 @@ There are 1200 cents in an octave.
 
 1200 / 5 = 240.
 1200 / 25 = 48.
+
+- We have 1000 possible sounds of a same pitch and volume (tones and beats) in 1 second.
+- We have at best 2400 different distinguishable notes across all 10 octaves.
+- We can distinguish amplitudes of approximately 1dB, for about 60 distinct phons.
+
+With this, there are 1000 x 2400 x 60 = 144,000,000 possible sounds in a second.
+In 
 # Resources
 Related resource: https://en.wikipedia.org/wiki/Just-noticeable_difference
 - The equally tempered scale ranges form 16-16000 Hz and has 120 tones
