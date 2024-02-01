@@ -13,4 +13,4 @@ At liquid-air interfaces, this is due to the greater intermolecular forces of at
 
 There is an inward force and an outward force tangential to the surface. This outward force is referred to as the surface tension.
 
-This is similar to liquid being covered in an elastic membrane, but in elastic membranes, the tension is due to the amount of deformation, while in liquid, it is
+This is similar to liquid being covered in an elastic membrane, but in elastic membranes, the tension is due to the amount of deformation, while surface tension is an inherent property of the liquid-vapour or liquid-air interfaces.
