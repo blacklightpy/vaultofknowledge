@@ -110,48 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e2d00f5e606fcfc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e547f8d73bcf4fdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Microtones.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bb418e5030936e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -226,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+                "file": "🗃️ Unorganized/General Notes/How to Question Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+                "file": "🗃️ Unorganized/General Notes/How to Question Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md"
+                "file": "🗃️ Unorganized/General Notes/How to Question Physics.md"
               }
             }
           },
@@ -306,13 +267,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3bb418e5030936e4",
+  "active": "bcb27c33d10cdb1b",
   "lastOpenFiles": [
-    "_images/Frequency and Loudness Response of the Ear.png",
-    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/General Notes/Microtones.md",
     "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
+    "🗃️ Unorganized/General Notes/Microtones.md",
+    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+    "_images/Frequency and Loudness Response of the Ear.png",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Music Theory.md",
     "🗃️ Unorganized/General Notes/Learning kernel development.md",
     "🗃️ Unorganized/General Notes/How to Question Physics.md",
