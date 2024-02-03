@@ -1,0 +1,1 @@
+The energy is stored by the elasticity of the quantum fields, as they propagate. This is similar to wate

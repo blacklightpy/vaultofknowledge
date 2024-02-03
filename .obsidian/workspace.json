@@ -84,8 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b1b73d6e95f23e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
+                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md"
               }
             }
           },
@@ -240,8 +254,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a0ed843398b6d55d",
+  "active": "7b1b73d6e95f23e4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
@@ -268,8 +284,6 @@
     "_images/Frequency Areas of the Cochlea.png",
     "🗃️ Unorganized/General Notes/Beat Frequency.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-    "🗃️ Unorganized/General Notes/Impulse.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Chromatography.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
