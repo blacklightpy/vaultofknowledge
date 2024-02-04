@@ -98,17 +98,17 @@ Solidus had killed his parents to experiment with him.
 Raiden signed up for military training and became a cyborg.
 ...
 # Chronology
-Snake Eater Operation (Metal Gear Solid 3: Snake Eater / Metal Gear Solid Delta: Snake Eater)
-Metal Gear Solid: Portable Ops
-Metal Gear Solid: Peace Walker
-Metal Gear Solid V: Ground Zeroes
-Metal Gear Solid V: The Phantom Pain
-Metal Gear
-Metal Gear 2: Solid Snake
-Shadow Moses Incident (Metal Gear Solid / Metal Gear Solid: The Twin Snakes)
-Metal Gear Solid 2: The Sons of Liberty
-Metal Gear Solid 4: Guns of The Patriots
-Metal Gear Rising: Revengeance
+- Snake Eater Operation (Metal Gear Solid 3: Snake Eater / Metal Gear Solid Δ: Snake Eater)
+- Metal Gear Solid: Portable Ops
+- Peace Walker Incident (Metal Gear Solid: Peace Walker)
+- Ground Zeroes Incident (Metal Gear Solid V: Ground Zeroes)
+- Phantom Pain Incident (Metal Gear Solid V: The Phantom Pain)
+- Outer Heaven Uprising (Metal Gear)
+- Zanzibar Lands Incident (Metal Gear 2: Solid Snake)
+- Shadow Moses Incident (Metal Gear Solid / Metal Gear Solid: The Twin Snakes)
+- Tanker Incident, Big Shell Incident and The Sons of Liberty (Metal Gear Solid 2: The Sons of Liberty)
+- Guns of The Patriots Incident (Metal Gear Solid 4: Guns of The Patriots)
+- Metal Gear Rising: Revengeance
 
 
 1918-1947: The Philosophers and The Cobra Unit
@@ -127,7 +127,7 @@ Metal Gear Rising: Revengeance
 - He is sent on a mission to ambush the Guerrilla leader Kazuhira Miller
 - Miller and Big Boss becomes friends
 - They create the MSF (Military Sans Frontiers) to honour the will of The Boss.
-Metal Gear: Portable Ops also happened during this time period.
+Events of Metal Gear: Portable Ops also happened during this time period.
 1974: Peace Walker Incident
 - The MSF gets a contract from Ramon Galvez Mena and Paz Ortega Andrade.
 - They need assistance for defending Costa Rica, but Big Boss initially refuses.
@@ -135,7 +135,7 @@ Metal Gear: Portable Ops also happened during this time period.
 - Galvez gives Big Boss control of an offshore rig, which Big Boss names Mother Base.
 - There are guerrilla fighters and AI weapons.
 - Huey Emmerich developed the Peace Walker weapon.
-- Paz takes control of Metal Gear C.
+- Paz takes control of Metal Gear ZEKE.
 - Paz wanted to take it back to Cipher, and was actually their spy.
 - She accuses Big Boss of having chosen the wrong path.
 - After the fight, Paz falls into the ocean, presumed dead.
@@ -197,7 +197,7 @@ Metal Gear: Portable Ops also happened during this time period.
 - But Snake fakes his death using Liquid's old body and it works.
 2009-2011: Big Shell Incident and The Sons of Liberty
 2014: Guns of The Patriots Incident and The End of Solid Snake
-2020: E
+2020: Events of Metal Gear Rising: Revengeance
 # Organizations
 The Philosophers
 The Patriots
