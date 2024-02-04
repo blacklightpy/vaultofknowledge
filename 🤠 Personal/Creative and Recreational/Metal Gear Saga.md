@@ -114,12 +114,12 @@ Metal Gear Rising: Revengeance
 1918-1947: The Philosophers and The Cobra Unit
 1947-1967: FOX, Virtuous MIssion and Snake Eater
 - Big Boss Leaves FOX, followed by Major Zero, and XOF leader Skull face is infuriated by this.
-1970-1972: The Patriots and The MSF
+1970-1972: The Patriots, Les Enfantes Terribles and The MSF
 - The Patriots were formed by Zero, EVA, SIGINT and Big Boss to carry out the will of The Boss.
 - Big Boss is put as the face of the organization.
 - But Big Boss and Zero differ in the ideas of what The Boss wanted and they divert.
 - Zero grows afraid of losing Big Boss.
-- Zero secretly clones Big Boss to create the Les Infantes Terribles project.
+- Zero secretly clones Big Boss to create the Les Enfantes Terribles project.
 - Big Boss leaves The Patriots, EVA leaves soon after, but Ocelot remains as a spy for The Patriots.
 - SIGINT and the Para-Medic stays as well, but they soon become power hungry.
 - Zero renames himself and the Patriots Cipher.
@@ -139,7 +139,7 @@ Metal Gear: Portable Ops also happened during this time period.
 - Paz wanted to take it back to Cipher, and was actually their spy.
 - She accuses Big Boss of having chosen the wrong path.
 - After the fight, Paz falls into the ocean, presumed dead.
-Ground Zeros:
+1976: Ground Zeros
 - Kaz Miller tells Big Boss that Cipher is actually Major Zero
 - He knew it all along, but kept quiet because they were indirectly assisting MSF.
 - The Peace Walker incident helps the MSF expand into a global force.
@@ -153,8 +153,30 @@ Ground Zeros:
 - Skull Face gets the location of Zero from Paz telling it will help Big Boss.
 - He then puts two bombs inside Paz knowing Big Boss will come to rescue her.
 - Chico tells boss Paz is dead, but he manages to deduce her location from a tape recording.
-- He rescues Paz, and on the rescue chopper, Bg
-
+- He rescues Paz, and on the rescue chopper, Chico finds a scar on Paz's stomach.
+- The onboard medic is forced to operate on her without anaesthesia.
+- One bomb was removed and they thought it was all.
+- They find that mother base was being attacked by XOF.
+- Big Boss tries to support, and eventually escapes with Kaz and the Medic.
+- Paz tells them that she has a second bomb inside her.
+- She jumps out of the heli, but it's too late and the explosion causes the helicopter to collide into an enemy one.
+- The damage caused is impossible to hide.
+- The Media reports it as the work of money hungry private militias.
+- Kaz, Big Boss and the Medic are moved to a hospital in Columbia.
+- The Medic has a shrapnel stuck on to his head, impossible to safely remove by surgery.
+1984: Phantom Pain
+- Big Boss was moved to a hospital in Cyprus by EVA and Ocelot
+- Ocelot tells Big Boss Zero wanted the Medic to act as Big Boss.
+- The Medic does so going by the code name Venom Snake.
+- Big Boss pretends to be his bodyguard, going by the name Ishmael.
+1995: Outer Heaven Uprising
+- Big Boss returns to US as commander of FOXHOUND
+- Venom Snake orchestrates the Outer Heaven uprising
+- He makes a scientist build the Metal Gear TX-55 by holding his daughter Ellen hostage.
+- The US realizes this and calls on Big Boss's FOXHOUND unit to neutralize this threat.
+- This is carried out by operation Intrude N312, carried out by Frank Jaeger, codenamed Grey Fox.
+- Grey Fox di
+Zanzibar Lands
 # Organizations
 The Philosophers
 The Patriots
