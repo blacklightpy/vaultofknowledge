@@ -132,7 +132,28 @@ Metal Gear: Portable Ops also happened during this time period.
 - The MSF gets a contract from Ramon Galvez Mena and Paz Ortega Andrade.
 - They need assistance for defending Costa Rica, but Big Boss initially refuses.
 - Hearing what seems to be the voice of The Boss in a recording, Big Boss agrees to help.
-- 
+- Galvez gives Big Boss control of an offshore rig, which Big Boss names Mother Base.
+- There are guerrilla fighters and AI weapons.
+- Huey Emmerich developed the Peace Walker weapon.
+- Paz takes control of Metal Gear Z.
+- Paz wanted to take it back to Cipher, and was actually their spy.
+- She accuses Big Boss of having chosen the wrong path.
+- After the fight, Paz falls into the ocean, presumed dead.
+Ground Zeros:
+- Kaz Miller tells Big Boss that Cipher is actually Major Zero
+- He knew it all along, but kept quiet because they were indirectly assisting MSF.
+- The Peace Walker incident helps the MSF expand into a global force.
+- Paz Ortega was actually rescued by a fisherman who found her floating in the Carribean.
+- Kaz tells Big Boss she's alive, and Big Boss plans to assassinate her
+- An intelligence leak by Paz coincides with a UN inspection on Mother Base.
+- This makes Kaz doubt whether Paz is truly an enemy of the MSF.
+- Big Boss and Kaz decides to rescue Paz and fellow MSF member Chico.
+- Chico was captured while trying to rescue Paz from a maximum security prison in Camp Omega.
+- Villainous XOF leader Skull Face knows Paz is the only Cipher agent who met Zero face to face.
+- Skull Face gets the location of Zero from Paz telling it will help Big Boss.
+- He then puts two bombs inside Paz knowing Big Boss will come to rescue her.
+- Chico tells boss Paz is dead, but he manages to deduce her location from a tape recording.
+- He rescues Paz, and on the rescue chopper, Bg
 
 # Organizations
 The Philosophers
