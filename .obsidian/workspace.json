@@ -89,8 +89,13 @@
             "id": "f4a48f504389f110",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -169,6 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🤠 Personal/Creative and Recreational/Metal Gear Saga.md"
+              }
             }
           },
           {
