@@ -113,7 +113,27 @@ Metal Gear Rising: Revengeance
 
 1918-1947: The Philosophers and The Cobra Unit
 1947-1967: FOX, Virtuous MIssion and Snake Eater
-Big Bo
+- Big Boss Leaves FOX, followed by Major Zero, and XOF leader Skull face is infuriated by this.
+1970-1972: The Patriots and The MSF
+- The Patriots were formed by Zero, EVA, SIGINT and Big Boss to carry out the will of The Boss.
+- Big Boss is put as the face of the organization.
+- But Big Boss and Zero differ in the ideas of what The Boss wanted and they divert.
+- Zero grows afraid of losing Big Boss.
+- Zero secretly clones Big Boss to create the Les Infantes Terribles project.
+- Big Boss leaves The Patriots, EVA leaves soon after, but Ocelot remains as a spy for The Patriots.
+- SIGINT and the Para-Medic stays as well, but they soon become power hungry.
+- Zero renames himself and the Patriots Cipher.
+- Big Boss works as a mercenary for the Colombian government.
+- He is sent on a mission to ambush the Guerrilla leader Kazuhira Miller
+- Miller and Big Boss becomes friends
+- They create the MSF (Military Sans Frontiers) to honour the will of The Boss.
+Metal Gear: Portable Ops also happened during this time period.
+1974: Peace Walker Incident
+- The MSF gets a contract from Ramon Galvez Mena and Paz Ortega Andrade.
+- They need assistance for defending Costa Rica, but Big Boss initially refuses.
+- Hearing what seems to be the voice of The Boss in a recording, Big Boss agrees to help.
+- 
+
 # Organizations
 The Philosophers
 The Patriots
