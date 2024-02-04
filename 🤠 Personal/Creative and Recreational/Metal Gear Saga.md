@@ -104,10 +104,11 @@ Raiden signed up for military training and became a cyborg.
 - 1984: Phantom Pain Incident (Metal Gear Solid V: The Phantom Pain)
 - 1995: Outer Heaven Uprising (Metal Gear)
 - 1999: Zanzibar Lands Incident (Metal Gear 2: Solid Snake)
-- Shadow Moses Incident (Metal Gear Solid / Metal Gear Solid: The Twin Snakes)
-- Tanker Incident, Big Shell Incident and The Sons of Liberty (Metal Gear Solid 2: The Sons of Liberty)
-- Guns of The Patriots Incident (Metal Gear Solid 4: Guns of The Patriots)
-- Metal Gear Rising: Revengeance
+- 2005: Shadow Moses Incident (Metal Gear Solid / Metal Gear Solid: The Twin Snakes)
+- 2007: Tanker Incident (Metal Gear Solid 2: The Sons of Liberty)
+- 2009: Big Shell Incident (Metal Gear Solid 2: The Sons of Liberty)
+- 2014: Guns of The Patriots Incident (Metal Gear Solid 4: Guns of The Patriots)
+- 2020: World Marshall Incident
 # Timeline Brief
 1918-1947: The Philosophers and The Cobra Unit
 1947-1967: FOX, Virtuous MIssion and Snake Eater
