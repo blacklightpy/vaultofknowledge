@@ -190,7 +190,14 @@ Metal Gear: Portable Ops also happened during this time period.
 2005: Shadow Moses Incident
 - Snake is called into action again by Roy Campbell
 - To differentiate from Liquid Snake, Solid snake gets a mullet haircut.
-2007: 
+2006-2008: The Tanker Incident
+- The Metal Gear RAY is being transported to the US on an oil tanker
+- Solid Snake is tasked to prove that it exists
+- The Patriots led media frames Solid Snake for the attack on the Tanker
+- But Snake fakes his death using Liquid's old body and it works.
+2009-2011: Big Shell Incident and The Sons of Liberty
+2014: Guns of The Patriots Incident and The End of Solid Snake
+2020: E
 # Organizations
 The Philosophers
 The Patriots
