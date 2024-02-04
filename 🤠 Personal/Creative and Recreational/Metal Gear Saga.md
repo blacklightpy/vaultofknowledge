@@ -113,14 +113,7 @@ Metal Gear Rising: Revengeance
 
 1918-1947: The Philosophers and The Cobra Unit
 1947-1967: FOX, Virtuous MIssion and Snake Eater
-- 1961: Sokolov starts working on the Shagohod tank capable of launching a nuclear warhead
-- He tries to abort development and defect from Russia, but is captured in Berlin
-- 1962: CIA creates FOX (Force Operation X) and puts Major Zero in-charge
-- Zero creates a secret group, XOF to provide even more support to FOX, and places Skull Face as in-charge of it
-- The Boss is forced to kill The Sorrow to prevent their son from being executed by The Philosophers
-- 1964: The Boss was sent to retrieve The Philosophers' Legacy, and FOX agent Naked Snake was sent to rescue Sokolov, radio-assisted by Major Zero and Para-Medic.
-- The Boss appears to have defected to Russia
-
+Big Bo
 # Organizations
 The Philosophers
 The Patriots
