@@ -86,7 +86,7 @@
             }
           },
           {
-            "id": "f4a48f504389f110",
+            "id": "92b35ce681ccb1bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -235,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,9 +253,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f4a48f504389f110",
+  "active": "92b35ce681ccb1bb",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
     "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
@@ -283,7 +283,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Ultra HD Forum.md",
     "_images/Frequency Areas of the Cochlea.png",
     "🗃️ Unorganized/General Notes/Beat Frequency.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
