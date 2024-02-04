@@ -86,16 +86,11 @@
             }
           },
           {
-            "id": "7b1b73d6e95f23e4",
+            "id": "f4a48f504389f110",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -174,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,8 +245,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7b1b73d6e95f23e4",
+  "active": "f4a48f504389f110",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
@@ -264,7 +256,6 @@
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/How to Question Physics.md",
     "🗃️ Unorganized/General Notes/How well can Kubernetes scale.md",
     "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
