@@ -96,21 +96,19 @@ He became the 73rd President of the US.
 Raiden was a child soldier from Liberia raised by Solidus Snake.
 Solidus had killed his parents to experiment with him.
 Raiden signed up for military training and became a cyborg.
-...
-# Chronology
-- Snake Eater Operation (Metal Gear Solid 3: Snake Eater / Metal Gear Solid Δ: Snake Eater)
-- Metal Gear Solid: Portable Ops
-- Peace Walker Incident (Metal Gear Solid: Peace Walker)
-- Ground Zeroes Incident (Metal Gear Solid V: Ground Zeroes)
-- Phantom Pain Incident (Metal Gear Solid V: The Phantom Pain)
-- Outer Heaven Uprising (Metal Gear)
-- Zanzibar Lands Incident (Metal Gear 2: Solid Snake)
+# Chronology of Games
+- 1967: Snake Eater Operation (Metal Gear Solid 3: Snake Eater / Metal Gear Solid Δ: Snake Eater)
+- 1970: San Hieronymo Incident (Metal Gear Solid: Portable Ops)
+- 1974: Peace Walker Incident (Metal Gear Solid: Peace Walker)
+- 1975: Ground Zeroes Incident (Metal Gear Solid V: Ground Zeroes)
+- 1984: Phantom Pain Incident (Metal Gear Solid V: The Phantom Pain)
+- 1995: Outer Heaven Uprising (Metal Gear)
+- 1999: Zanzibar Lands Incident (Metal Gear 2: Solid Snake)
 - Shadow Moses Incident (Metal Gear Solid / Metal Gear Solid: The Twin Snakes)
 - Tanker Incident, Big Shell Incident and The Sons of Liberty (Metal Gear Solid 2: The Sons of Liberty)
 - Guns of The Patriots Incident (Metal Gear Solid 4: Guns of The Patriots)
 - Metal Gear Rising: Revengeance
-
-
+# Timeline Brief
 1918-1947: The Philosophers and The Cobra Unit
 1947-1967: FOX, Virtuous MIssion and Snake Eater
 - Big Boss Leaves FOX, followed by Major Zero, and XOF leader Skull face is infuriated by this.
