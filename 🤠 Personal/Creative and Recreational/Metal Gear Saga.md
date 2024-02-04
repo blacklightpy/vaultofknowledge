@@ -135,7 +135,7 @@ Metal Gear: Portable Ops also happened during this time period.
 - Galvez gives Big Boss control of an offshore rig, which Big Boss names Mother Base.
 - There are guerrilla fighters and AI weapons.
 - Huey Emmerich developed the Peace Walker weapon.
-- Paz takes control of Metal Gear Z.
+- Paz takes control of Metal Gear C.
 - Paz wanted to take it back to Cipher, and was actually their spy.
 - She accuses Big Boss of having chosen the wrong path.
 - After the fight, Paz falls into the ocean, presumed dead.
@@ -175,8 +175,22 @@ Metal Gear: Portable Ops also happened during this time period.
 - He makes a scientist build the Metal Gear TX-55 by holding his daughter Ellen hostage.
 - The US realizes this and calls on Big Boss's FOXHOUND unit to neutralize this threat.
 - This is carried out by operation Intrude N312, carried out by Frank Jaeger, codenamed Grey Fox.
-- Grey Fox di
-Zanzibar Lands
+- Grey Fox discovers intel about Metal Gear, but is captured before he can relay all of it to FOXHOUND.
+- In operation N313, rookie agent Solid Snake is given his first assignment
+- Big Boss tells Snake the mission briefing.
+- Snake completes the mission, and kills Venom Snake, believing him to be Big Boss.
+1997-1999: Zanzibar Land Disturbance
+- Big Boss and his army participate in a mercenary war, and the formerly autonomous USSR Zone, Zanzibar province, becomes Zanzibar Land, and Big Boss becomes the president.
+- There, Big Boss recruits child soldiers from Third World nations, and they come to see Big Boss as a father figure.
+- He gets Metal Gear D built do defend the place.
+- The Cold War begins, and a scientist named Marv develops an alternate fuel named oil eggs.
+- Marv is kidnapped and kept in Outer Heaven.
+- FOXHOUND's new commander, Roy Campbell brings Solid Snake out of retirement to commence operation FO14.
+- Solid Snake destroys Metal Gear D, and defeats Grey Fox in hand-to-hand combat.
+2005: Shadow Moses Incident
+- Snake is called into action again by Roy Campbell
+- To differentiate from Liquid Snake, Solid snake gets a mullet haircut.
+2007: 
 # Organizations
 The Philosophers
 The Patriots
