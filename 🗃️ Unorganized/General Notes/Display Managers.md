@@ -12,3 +12,5 @@ The visible part of a display manager is called its greeter. The greeter can be 
 - LightDM
 
 LightDM has a set of greeters: lightdm-gtk-greeter, lightdm-unity-greeter, slick-greeter (fork of unity-greeter), lightdm-webkit2-greeter.
+# Resources
+- How to write a greeter: https://web.archive.org/web/20210923235052/https://www.mattfischer.com/blog/archives/5
