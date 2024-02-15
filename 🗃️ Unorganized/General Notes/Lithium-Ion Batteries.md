@@ -10,10 +10,10 @@ The electrolyte is also protected from degradation by interaction with electrons
 - Overdischarging supersaturates Cobalt Oxide (in LCO) and forms Lithium Oxide, which is irreversible.
 - [[Electrochemical Potential]]
 ## Cathode
-- $\text{LiMX}$ (M = Metal, X=Oxidizing agent)
+- $\text{LiMO}$ (M = Metal)
 
 **Reaction During Charging:**
-$\text{LiMX} \rightarrow \text{MX} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus = \text{1.0 V}$)
+$\text{LiMX} \rightarrow \text{MX} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus = \text{-1.0 V}$)
 ### Examples of Cathodes
 | Battery Type | Abbreviation | Cathode |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ $\text{LiMX} \rightarrow \text{MX} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominu
 - $\text{LiY}$ (Y=Lattice Material)
 
 **Reaction During Charging:**
-$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{E}^\ominus = \text{-3.05 V}$)
+$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{E}^\ominus = \text{3.05 V}$)
 ### Examples of Anode
 - $\text{LiC}_6$
 - $\text{LiTi}_5\text{O}_{12}$ 
