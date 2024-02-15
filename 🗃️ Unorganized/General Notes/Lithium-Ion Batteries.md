@@ -5,9 +5,8 @@ They work using a *Lithium Metal Oxide* **cathode**, which is oxidized during ch
 The **electrolyte** is made up of various Lithium salts.
 
 The electrolyte is also protected from degradation by interaction with electrons by the formation of a *Solid Electrolyte Interface (SEI)*.
-# Resources and Notes
+## Resources
 - [A reflection on lithium-ion battery cathode chemistry | Nature Communications (Open Access)](https://www.nature.com/articles/s41467-020-15355-0): Differences between Li-Ion battery chemistries
-- Overdischarging supersaturates Cobalt Oxide (in LCO) and forms Lithium Oxide, which is irreversible.
 - [[Electrochemical Potential]]
 ## Cathode
 - $\text{LiMO}$ (MO = Metal Oxide)
@@ -47,9 +46,16 @@ When a load is connected, the electron current flows through it to the cathode, 
 # Considerations
 - Overcharging is bad for the battery, and besides that, it may even explode.
 - A *Constant Current-Constant Voltage (CC-CV) charger* is to be used along with a *Battery Management System (BMS)* to carefully handle charging and discharging cycles of the battery.
-- A *BMS* is sometimes included in Li-Ion Battery packs, and always in Li-Po pouches.
+- A *BMS* is sometimes included in Li-Ion battery packs, but they definitely should be included in any battery that combines Li-Ion cells. They are usually excluded in favour of using custom *BMSs*.
+- Overdischarging supersaturates the Metal Oxide and forms Lithium Oxide, which is irreversible.
 # Variations
-- *Lithium Polymer (Li-Po)* has a high specific energy.
-- 
+- *Lithium Polymer (Li-Po)* has a relatively higher specific energy, and is also inflammable and can explode if it is overcharged. It uses a polymer electrolyte, but the electrode chemistry is the same as that of Li-Ion cells.
+- *Solid State Batteries (SSBs)* has a much higher specific energy and is being researched on. They either use solid Lithium anode or Silicon anode to achieve these high specific energies. They may also use solid electrolytes, and are also called *All-Solid-State Batteries (ASSBs)*.
+- *Lithium Sulphur (Li-S)* batteries use a *Lithium Sulphide ($\text{Li}_2\text{S}$)* cathode for its high specific energy. The cathode is coated with *Carbon* to help with electrical conductivity. During charging, the movement of *Lithium ions* cause the cathode to turn into 
 # Physical Design
 The thickness and proportions of the battery are designed after careful studies and optimizations based on the industrial engineering data.
+## Form Factors
+- Wrapped Cylindrical Cell (18560, etc.)
+- Pouch (used in Phones)
+- Cuboid (Li-Po)
+- Box (Stacked Li-Ion Cells, used in EVs)
