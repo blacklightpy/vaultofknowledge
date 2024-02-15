@@ -31,8 +31,10 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominu
 **Reaction During Charging:**
 $\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{E}^\ominus = \text{-3.05 V}$)
 ### Examples of Anode
-- $\text{LiC}_6$
+- $\text{LiC}_6$ (Has a charge density of 372 mAh/g)
 - $\text{LiTi}_5\text{O}_{12}$ (In LTO)
+- $\text{LiSi6}_6$ (Solid State Silicon Battery, In development)
+- $\text{Li (s)}$ (Solid State Li-Ion, in development)
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.
