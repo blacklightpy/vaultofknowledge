@@ -18,11 +18,11 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominu
 | Battery Type | Abbreviation | Cathode |
 | --- | --- | --- |
 | Lithium Cobalt Oxide | LCO | $\text{LiCoO}_2$ |
-| Lithium Manganese Oxide | LMO | $\text{LiMn}_2\text{O}_4$ |
+| Lithium Manganese Oxide | LMO | $\text{LiMn}_2\text{O}_4$ / $\text{LiMnO}_2$ |
 | Lithium Iron Phosphate | LFP | $\text{LiFePO}_4$ |
 | Lithium Nickel Manganese Cobalt | NMC | $\text{LiNiMnCoO}_4$ |
 | Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{LiNiCoAlO}_2$ |
-| Lithium Titanate | LTO | $\text{LiMnO}_2$ |
+| Lithium Titanate | LTO | $\text{LiMnO}_2$ (same as LMO) |
 
 ==Battery cell descriptions like NMCXYZ means NMC with proportions of Ni:Mn:Co in the ratio X:Y:Z.==
 ## Anode
@@ -42,5 +42,5 @@ The electrolyte only expects Lithium ions to pass through. If the electrons move
 The Lithium Ions are stored in a stable concentration by the Graphite/Silicon lattice. When the potential is removed, the electrons will be stuck, wanting to move back into the cathode, but are not able to move through the electrolyte due to the SEI.
 ## Discharging
 When a load is connected, the electron current flows through it to the cathode, and when an electron reaches the cathode, it also makes a Lithium Ion from the other side flow in, returning the cathode to it's original discharged state, as Lithium Metal Oxide.
-# Design
-The thickness and proportions of the battery are designed after careful studies and optimizations at the industrial level.
+# Physical Design
+The thickness and proportions of the battery are designed after careful studies and optimizations based on the industrial engineering data.
