@@ -1,8 +1,8 @@
-The standard electrode potential is expressed as the *reduction potential*. The electrochemical potential difference of a cell is then given as:
+The standard electrode potential ($\text{E}^\ominus$) is expressed as the *reduction potential*. The electrochemical potential difference of a cell is then given as:
 
 $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} - \text{E}^\ominus_\text{anode}$
 
-However, the potential of the reaction at the anode is sometimes expressed as an _oxidation potential_:
+However, the potential of the reaction at the anode is \*sometimes\* expressed as an _oxidation potential_:
 
 $\text{E}^\ominus_\text{oxidation} = -\text{E}^\ominus_\text{reduction}$
 
