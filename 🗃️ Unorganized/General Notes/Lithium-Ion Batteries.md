@@ -10,10 +10,10 @@ The electrolyte is also protected from degradation by interaction with electrons
 - Overdischarging supersaturates Cobalt Oxide (in LCO) and forms Lithium Oxide, which is irreversible.
 - [[Electrochemical Potential]]
 ## Cathode
-- $\text{LiMO}$ (M = Metal)
+- $\text{LiMO}$ (MO = Metal Oxide)
 
 **Reaction During Charging:**
-$\text{LiMX} \rightarrow \text{MX} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus = \text{1.0 V}$)
+$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus = \text{1.0 V}$)
 ### Examples of Cathodes
 | Battery Type | Abbreviation | Cathode |
 | --- | --- | --- |
@@ -23,6 +23,7 @@ $\text{LiMX} \rightarrow \text{MX} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominu
 | Lithium Nickel Manganese Cobalt | NMC | $\text{LiNiMnCoO}_4$ |
 | Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{LiNiCoAlO}_2$ |
 | Lithium Titanate | LTO | $\text{LiMnO}_2$ |
+
 ==Battery cell descriptions like NMCXYZ means NMC with proportions of Ni:Mn:Co in the ratio X:Y:Z.==
 ## Anode
 - $\text{LiY}$ (Y=Lattice Material)
@@ -38,6 +39,8 @@ Basically, upon initial charging, the positive plate attracts the electrons and 
 
 The electrolyte only expects Lithium ions to pass through. If the electrons move through the electrolyte, they will react and destroy the electrolyte. But through an accidental discovery, the Lithium Ions passing through the electrolyte seemed to carry the electrolyte around it, and together with Graphite, the initial batch of Lithium ions reacted to form a protective layer called the *Solid Electrolyte Interface (SEI)*. The SEI keeps the electrons from passing through the electrolyte, while the other Lithium Ions can pass in through to the anode.
 
-The Lithium Ions are stored in a stable concentration by the Graphite/Silicon lattice. 
+The Lithium Ions are stored in a stable concentration by the Graphite/Silicon lattice. When the potential is removed, the electrons will be stuck, wanting to move back into the cathode, but are not able to move through the electrolyte due to the SEI.
 ## Discharging
-When the charger i
+When a load is connected, the electron current flows through it to the cathode, and when an electron reaches the cathode, it also makes a Lithium Ion from the other side flow in, returning the cathode to it's original discharged state, as Lithium Metal Oxide.
+# Design
+The thickness and proportions of the battery are designed after careful studies and optimizations at the industrial level.
