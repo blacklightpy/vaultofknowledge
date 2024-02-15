@@ -16,7 +16,7 @@ $\text{LiMX} \rightarrow \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus = \text{1.
 | Lithium Manganese Oxide | LMO | $\text{LiMn}_2\text{O}_4$ |
 | Lithium Iron Phosphate | LFP | $\text{LiFePO}_4$ |
 | Lithium Nickel Manganese Cobalt | NMC | $\text{LiNMC}$ |
-| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{LiNiCoAl)}$ |
+| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{LiNiCoAlO}_2$ |
 | Lithium Titanate | LTO | $\text{}$ |
 ## Anode
 - $\text{LiY}$ (Y=Lattice Material)
