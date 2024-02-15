@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Inorganic/Redox Reactions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Inorganic/Redox Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Inorganic/Redox Reactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Inorganic/Redox Reactions.md"
               }
             }
           },
@@ -266,7 +266,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "edccef2194c0b86a",
+  "active": "e39f5e4674ca5981",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md",
