@@ -19,7 +19,7 @@ The standard reduction potential ${\displaystyle E_{reduction}^{\ominus }}$ is d
 
 The two may be explicitly distinguished by the symbols ${\displaystyle E_{reduction}}$ and ${\displaystyle E_{oxidation}}$, with ${\displaystyle E_{oxidation}=-E_{reduction}}$.
 # Nernst Equation
-**Also cover:** Full Nernst Equation, Reaction Quotient, Equilibrium Quotient
+**Also cover:** Full Nernst Equation, Reaction Quotient, Equilibrium Quotient, pH
 
 The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ is given by:
 
