@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Performance of Battery Technologies.md",
+                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Performance of Battery Technologies.md",
+                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Performance of Battery Technologies.md",
+                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Performance of Battery Technologies.md"
+                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -255,6 +255,7 @@
   },
   "active": "edccef2194c0b86a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Performance of Battery Technologies.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
@@ -263,7 +264,6 @@
     "World Building/Science and Engineering/Engineering",
     "World Building/Science and Engineering",
     "World Building",
-    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
