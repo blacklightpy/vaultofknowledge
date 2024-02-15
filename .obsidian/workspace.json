@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Display Managers.md",
+                "file": "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
+                "file": "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -253,10 +253,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f70af76281fdc1e",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
     "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
@@ -282,7 +283,6 @@
     "🗃️ Unorganized/General Notes/Next Generation Audio.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Ultra HD Forum.md",
     "_images/Frequency Areas of the Cochlea.png",
-    "🗃️ Unorganized/General Notes/Beat Frequency.md",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
