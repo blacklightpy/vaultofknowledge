@@ -44,16 +44,18 @@ The electrolyte only expects Lithium ions to pass through. If the electrons move
 
 The Lithium Ions are stored in a stable concentration by the Graphite/Silicon lattice. When the potential is removed, the electrons will be stuck, wanting to move back into the cathode, but are not able to move through the electrolyte due to the SEI. During this process, a chunk of Lithium Ions are lost, however this happens at the factory and end-users will not notice a degradation in performance unless they exert it in other ways.
 
-**Reactions:**
-$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^- (\text{-E}^\ominus_\text{cathode} = \text{-1.15 V} = \text{-E}^\ominus_\text{reduction}$)
-$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{-E}^\ominus_\text{anode} = \text{3.05 V} = \text{E}^\ominus_\text{oxidation}$) (Anode being LiC6, n)
-$\text{E}^\ominus_\text{charger} = \text{-E}^\ominus_\text{cell} = \text{-E}^\ominus_\text{cathode} -\text{-E}^\ominus_\text{anode} = \text{-4.2 V}$
+**Reactions (the opposite of the spontaneous reaction):**
+$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^- (-\text{E}^\ominus_\text{cathode} = -\text{1.15 V} = -\text{E}^\ominus_\text{reduction}$)
+$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($-\text{E}^\ominus_\text{anode} = \text{3.05 V} = \text{E}^\ominus_\text{oxidation}$)
+$\text{E}^\ominus_\text{charger} = -\text{E}^\ominus_\text{cell} = -(\text{E}^\ominus_\text{cathode} - \text{E}^\ominus_\text{anode}) = -\text{4.2 V}$
 ## Discharging
+
 When a load is connected, the electron current flows through it to the cathode, and when an electron reaches the cathode, it also makes a Lithium Ion from the other side flow in, returning the cathode to it's original discharged state, as Lithium Metal Oxide.
 
 **Reactions:**
+
 $\text{MO} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiMO}$ ($\text{E}^\ominus_\text{cathode} = \text{1.15 V} = \text{E}^\ominus_\text{reduction}$)
-$\text{LiC}_6 \rightarrow \text{C}_6 + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus_\text{anode} = \text{-3.05 V} = \text{-E}^\ominus_\text{oxidation}$)
+$\text{LiC}_6 \rightarrow \text{C}_6 + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus_\text{anode} = -\text{3.05 V} = -\text{E}^\ominus_\text{oxidation}$)
 $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominus_\text{anode} = \text{4.2 V}$
 # Considerations
 - Overcharging is bad for the battery, and besides that, it may even explode.

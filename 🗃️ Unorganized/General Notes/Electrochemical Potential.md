@@ -10,10 +10,12 @@ The oxidation potential is a measure of the tendency of the reducing agent to be
 
 $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{oxidation} + \text{E}^\ominus_\text{reduction}$
 
+> [!NOTE] 
+> **If you get confused:** basically the half-cells want to do their spontaneous reactions, whether it be oxidation or reduction. Where there is oxidation, there is a reduction too ([[redox reactions]]). So their potentials will add up to give the cell's electrochemical potential.
 # Definition
-The standard reduction potential ${\displaystyle E_{reduction}^{\ominus}}$ is measured under standard conditions: T = 298.15 K (25 °C, or 77 °F), a unity activity (a = 1) for each ion participating into the reaction, a partial pressure of 1 atm (1.013 bar) for each gas taking part into the reaction, and metals in their pure state.
+The standard reduction potential ${\displaystyle E_{reduction}^{\ominus}}$ is measured under standard conditions: ==T = 298.15 K (25 °C / 77 °F), a unity activity (a = 1) for each ion participating into the reaction, a partial pressure of 1 atm (1.013 bar) for each gas taking part into the reaction, and metals in their pure state.==
 
-The standard reduction potential ${\displaystyle E_{reduction}^{\ominus }}$ is defined relative to the standard hydrogen electrode (SHE) used as reference electrode, which is arbitrarily given a potential of 0.00 V. However, because these can also be referred to as "redox potentials", the terms "reduction potentials" and "oxidation potentials" are preferred by the IUPAC.
+The standard reduction potential ${\displaystyle E_{reduction}^{\ominus }}$ is defined relative to the standard hydrogen electrode (SHE). However, because these can also be referred to as "redox potentials", the terms "reduction potentials" and "oxidation potentials" are preferred by the IUPAC.
 
 The two may be explicitly distinguished by the symbols ${\displaystyle E_{reduction}}$ and ${\displaystyle E_{oxidation}}$, with ${\displaystyle E_{oxidation}=-E_{reduction}}$.
 # Nernst Equation
