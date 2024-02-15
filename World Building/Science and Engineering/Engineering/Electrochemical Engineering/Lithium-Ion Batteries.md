@@ -8,12 +8,12 @@ The electrolyte is also protected from degradation by interaction with electrons
 ## Resources
 - [A reflection on lithium-ion battery cathode chemistry | Nature Communications (Open Access)](https://www.nature.com/articles/s41467-020-15355-0): Differences between Li-Ion battery chemistries
 - [[Electrochemical Potential]]
-- [[Performance of Battery Technologies]]
+- [[Comparing Performances of Battery Technologies]]
 ## Cathode
 - $\text{LiMO}$ (MO = Metal Oxide)
 
 **Reaction During Charging:**
-$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\ominus = -\text{1.0 V}$)
+$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\ominus_\text{cathode} = -\text{1.0 V}$)
 ### Examples of Cathode Materials
 | Battery Type | Abbreviation | Cathode |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\omin
 - $\text{LiY}$ (Y=Lattice Material)
 
 **Reaction During Charging:**
-$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($-\text{E}^\ominus = \text{3.05 V}$)
+$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($-\text{E}^\ominus_{anode} = \text{3.05 V}$)
 ### Examples of Anode Materials
 - $\text{LiC}_6$ (Most common, Has a charge density of 372 mAh/g)
 - $\text{Li}_4\text{Ti}_5\text{O}_{12}$ (Durable, used in LTO)
@@ -62,9 +62,11 @@ $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominu
 - A *BMS* is sometimes included in Li-Ion battery packs, but they definitely should be included in any battery that combines Li-Ion cells. They are usually excluded in favour of using custom *BMSs*.
 - Overdischarging supersaturates the Metal Oxide and forms Lithium Oxide, which is irreversible.
 # Variations
-- *Lithium Polymer (Li-Po)* has a relatively higher specific energy, and is also inflammable and can explode if it is overcharged. It uses a polymer electrolyte, but the electrode chemistry is the same as that of Li-Ion cells.
-- *Solid State Batteries (SSBs)* has a much higher specific energy and is being researched on. They either use solid Lithium anode or Silicon anode to achieve these high specific energies. They may also use solid electrolytes, and are also called *All-Solid-State Batteries (ASSBs)*.
-- *Lithium Sulphur (Li-S)* batteries use a *Lithium Sulphide ($\text{Li}_2\text{S}$)* cathode for its high specific energy. The cathode is coated with *Carbon* to help with electrical conductivity. During charging, the movement of *Lithium ions* cause the cathode to turn into *Sulphur ($\text{S}_8$)*. *Sulphur* is very cheap, and with its high energy density is very appealing to use for battery cells. For the anode side, *Solid Lithium* is used. One of the shortfalls of these batteries is that while *Lithium Sulphide* and *Sulphur* are non-reactive with the electrolytes, some *intermediary polysulphides* aren't, and they end up destroying the electrolytes. For this reason, sometimes a protective coating with something like *Teflon* is used at the anode side to protect the electrolytes. Electrolytes commonly used in the Li-Ion batteries, based on organic carbonates (such as Polycarbonate, Ethylene Carbonate and Diethyl Carbonate) are not compatible with *(Li-S)* batteries. They have a charge density of about 1675 $\text{mAh/g}$.
+- **Lithium Polymer (Li-Po)** has a relatively higher specific energy, and is also inflammable and can explode if it is overcharged. It uses a polymer electrolyte, but the electrode chemistry is the same as that of Li-Ion cells.
+- **Solid State Batteries (SSBs)** has a much higher specific energy and is being researched on. They either use *solid Lithium or Silicon* **anode** to achieve these high specific energies. They may also use *solid electrolytes*, and are also called *All-Solid-State Batteries (ASSBs)*.
+- **Lithium Sulphur (Li-S)** batteries use a *Lithium Sulphide ($\text{Li}_2\text{S}$)* **cathode** for its high specific energy. The cathode is coated with *Carbon* to help with electrical conductivity. During charging, the movement of *Lithium ions* cause the cathode to turn into *Sulphur ($\text{S}_8$)*. *Sulphur* is very cheap, and with its high energy density is very appealing to use for battery cells. For the **anode** side, *Solid Lithium* is used. One of the shortfalls of these batteries is that while *Lithium Sulphide* and *Sulphur* are non-reactive with the electrolytes, some *intermediary polysulphides* aren't, and they end up destroying the electrolytes. For this reason, sometimes a protective coating with something like *Teflon* is used at the anode side to protect the electrolytes. Electrolytes commonly used in the Li-Ion batteries, based on organic carbonates (such as Polycarbonate, Ethylene Carbonate and Diethyl Carbonate) are not compatible with *(Li-S)* batteries. They have a charge density of about 1675 $\text{mAh/g}$.
+
+Actually **Li-S** isn't exclusive from **SSBs**. A *Solid State Battery* would typically make use of a Sulfur/Oxide anode, Solid Electrolyte and Lithium/Silicon Anode.
 # Physical Design
 The thickness and proportions of the battery are designed after careful studies and optimizations based on the industrial engineering data.
 ## Form Factors
