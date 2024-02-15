@@ -13,7 +13,7 @@ The electrolyte is also protected from degradation by interaction with electrons
 - $\text{LiMO}$ (MO = Metal Oxide)
 
 **Reaction During Charging:**
-$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus = \text{1.0 V}$)
+$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($\text{-E}^\ominus = \text{-1.0 V}$)
 ### Examples of Cathode Materials
 | Battery Type | Abbreviation | Cathode |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominu
 - $\text{LiY}$ (Y=Lattice Material)
 
 **Reaction During Charging:**
-$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{E}^\ominus = \text{-3.05 V}$)
+$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{-E}^\ominus = \text{3.05 V}$)
 ### Examples of Anode Materials
 - $\text{LiC}_6$ (Most common, Has a charge density of 372 mAh/g)
 - $\text{Li}_4\text{Ti}_5\text{O}_{12}$ (Durable, used in LTO)
@@ -45,16 +45,16 @@ The electrolyte only expects Lithium ions to pass through. If the electrons move
 The Lithium Ions are stored in a stable concentration by the Graphite/Silicon lattice. When the potential is removed, the electrons will be stuck, wanting to move back into the cathode, but are not able to move through the electrolyte due to the SEI. During this process, a chunk of Lithium Ions are lost, however this happens at the factory and end-users will not notice a degradation in performance unless they exert it in other ways.
 
 **Reactions:**
-$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus_\text{cathode} = \text{1.15 V}$\text{E}^\ominus_\text{reduction}$)
-$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{E}^\ominus_\text{anode} = \text{3.05 V} = \text{-E}^\ominus_\text{oxidation}$)
-$\text{E}^\ominus_\text{charger} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominus_\text{anode} = \text{4.2 V}$ (because it's opposite to the spontaneous reaction of the cell)
+$\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^- (\text{-E}^\ominus_\text{cathode} = \text{-1.15 V} = \text{-E}^\ominus_\text{reduction}$)
+$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($\text{-E}^\ominus_\text{anode} = \text{3.05 V} = \text{E}^\ominus_\text{oxidation}$) (Anode being LiC6, n)
+$\text{E}^\ominus_\text{charger} = \text{-E}^\ominus_\text{cell} = \text{-E}^\ominus_\text{cathode} -\text{-E}^\ominus_\text{anode} = \text{-4.2 V}$
 ## Discharging
 When a load is connected, the electron current flows through it to the cathode, and when an electron reaches the cathode, it also makes a Lithium Ion from the other side flow in, returning the cathode to it's original discharged state, as Lithium Metal Oxide.
 
 **Reactions:**
-$\text{MO} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiMO}$ ($\text{E}^\ominus_\text{cathode} = \text{-1.15 V}$)
-$\text{LiC}_6 \rightarrow \text{C}_6 + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus_\text{anode} = \text{3.05 V}$)
-$\text{E}^\ominus_\text{charger} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominus_\text{anode} = \text{-4.2 V}$ (because it's opposite to the spontaneous reaction of the cell)
+$\text{MO} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiMO}$ ($\text{E}^\ominus_\text{cathode} = \text{1.15 V} = \text{E}^\ominus_\text{reduction}$)
+$\text{LiC}_6 \rightarrow \text{C}_6 + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus_\text{anode} = \text{-3.05 V} = \text{-E}^\ominus_\text{oxidation}$)
+$\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominus_\text{anode} = \text{4.2 V}$
 # Considerations
 - Overcharging is bad for the battery, and besides that, it may even explode.
 - A *Constant Current-Constant Voltage (CC-CV) charger* is to be used along with a *Battery Management System (BMS)* to carefully handle charging and discharging cycles of the battery.
