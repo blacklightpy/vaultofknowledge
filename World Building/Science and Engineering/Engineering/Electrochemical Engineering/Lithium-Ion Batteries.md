@@ -20,7 +20,7 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\omin
 | Lithium Cobalt Oxide | LCO | $\text{LiCoO}_2$ |
 | Lithium Manganese Oxide | LMO | $\text{LiMn}_2\text{O}_4$ / $\text{LiMnO}_2$ |
 | Lithium Iron Phosphate | LFP | $\text{LiFePO}_4$ |
-| Lithium Nickel Manganese Cobalt | NMC | $\text{LiNiMnCoO}_4$ |
+| Lithium Nickel Manganese Cobalt | NMC | $\text{LiNi}_{x}\text{Mn}_{1-x}\text{Co}_{1-x-y}\text{O}_4$ |
 | Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{LiNiCoAlO}_2$ |
 | Lithium Titanate | LTO | $\text{LiMnO}_2$ (same as LMO) |
 | Lithium Sulfur (In Development) | Li-S | $\text{Li}_2\text{S}$ |
