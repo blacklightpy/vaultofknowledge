@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Display Managers.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Display Managers.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Display Managers.md"
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
               }
             }
           },
@@ -234,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,7 +253,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "edccef2194c0b86a",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
