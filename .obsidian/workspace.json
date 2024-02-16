@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -234,8 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,16 +252,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "edccef2194c0b86a",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
-    "World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "_images/Pasted image 20240216063322.png",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry",
-    "World Building/Science and Engineering/Engineering/Electrochemical Engineering",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
     "World Building/Science and Engineering/Engineering",
     "World Building/Science and Engineering",
     "World Building",
@@ -292,7 +291,7 @@
     "Z2-Rough Notes 2",
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
-    "World Exploration/Fun and Activities/Martial Arts",
+    "🗺️ World Exploration/Fun and Activities/Martial Arts",
     "World Exploration/Fun and Activities",
     "_images/Knitting vs Crocheting.png",
     "_images/Force Graph.png",
