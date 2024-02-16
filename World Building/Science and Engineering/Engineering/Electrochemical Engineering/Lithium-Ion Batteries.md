@@ -34,7 +34,7 @@ $\text{* x+y+z = 1}$
 $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ ($-\text{E}^\ominus_\text{anode} = \text{3.05 V}$)
 ### Examples of Anode Materials
 - $\text{LiC}_\text{6}$ (Most common, Has a maximum theoretical specific charge of about 372 $\text{mAh/g}$)
-- $\text{Li}_\text{4}\text{Ti}_\text{5}\text{O}_\text{12}$ (Durable, used in LTO)
+- $\text{Li}_\text{4}\text{Ti}_\text{5}\text{O}_\text{12}$ / $\text{Li}_\text{2}\text{TiO}_\text{3}$ (Durable, used in LTO)
 - $\text{Li}_\text{15}\text{Si}_\text{4}$ (Used in Solid State Batteries, In development, Maximum theoretical specific charge of about 3600 $\text{mAh/g}$. Each crystalline Silicon atom can hold about 3.75 Lithium ions compared to Graphite, which can only hold 1 Lithium ion for every 6 Carbon atoms at best.)
 - $\text{Li (s)}$ (Used in Solid State Batteries, in development, Maximum theoretical specific charge of about 3863 $\text{mAh/g}$)
 ## Charging and Formation of Solid Electrolyte Interface
