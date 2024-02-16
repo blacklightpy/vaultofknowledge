@@ -15,14 +15,15 @@ Since C-rating is about setting the time to drain the total power, it can be use
 | --- | --- | --- | --- |
 | Li-Ion LCO |  |  |  |
 | Li-Ion LMO |  |  |  |
-| Li-Ion LFP |  |  |  |
+| Li-Ion LFP |  |  | LMFP is LFP + Mn |
 | Li-Ion NMC111 / NMC333 |  |  |  |
 | Li-Ion NMC523/NMC532 |  |  |  |
 | Li-Ion NMC622 |  |  |  |
 | Li-Ion NMC811 |  |  |  |
-| Li-Ion NCA |  |  |  |
+| Li-Ion NCA $(\text{LiNi}_\text{0.84}\text{Co}_\text{0.12}\text{Al}_\text{0.04})$ | 200 (Theoretically: 279) |  |  |
 | Li-Ion NCMA |  |  |  |
 | Li-Ion LTO |  |  |  |
 | Li-Ion SSB (Li-S Cathode + Graphite Anode) |  |  |  |
 | Li-Ion SSB (NMC811 Cathode + Silicon / Lithium Anode) |  |  |  |
 | Li-Ion SSB (Li-S Cathode + Solid Electrolyte + Silicon / Lithium Anode) |  |  |  |
+| Li-Ion SSB (Thin Film) | 150-170 | 580-590 |  |
