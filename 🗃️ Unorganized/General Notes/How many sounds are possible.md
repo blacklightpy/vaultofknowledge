@@ -61,4 +61,5 @@ EDO vs ET: https://en.xen.wiki/w/EDO_vs_ET
 ![[Frequency Areas of the Cochlea.png]]
 
 Sound perception Notes: https://faculty.tamuc.edu/cbertulani/music/lectures/lec15/lec15.pdf
+Also see: https://www.appstate.edu/~steelekm/classes/psy3203/Audition/Platt_chap1.htm
 **Related fields:** Psychosomatics, Psycho-acoustics

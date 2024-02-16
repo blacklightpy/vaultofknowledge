@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -253,11 +253,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04eda086ef04f633",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
-    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "_images/Pasted image 20240216063322.png",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
@@ -279,7 +280,6 @@
     "🗃️ Unorganized/General Notes/How well can Kubernetes scale.md",
     "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
-    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "_images/Frequency and Loudness Response of the Ear.png",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Music Theory.md",
