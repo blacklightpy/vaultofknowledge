@@ -11,19 +11,19 @@ A battery also has a discharge rate, usually specified by the C-rating. The C-ra
 
 Since C-rating is about setting the time to drain the total power, it can be used to find the maximum current draw as $\text{Capacity * C-Rating}$. Multiplying that by the voltage tells you the maximum power of the battery. With this, we can also find out the specific power ($\text{W/kg}$) and power density ($\text{W/m}^\text{3}$) of the battery too.
 
-| Battery Type | Specific Charge ($\text{mAh/g}$) | Specific Energy ($\text{Wh/kg}$) | Any Other Remarks |
-| --- | --- | --- | --- |
-| Li-Ion LCO |  |  |  |
-| Li-Ion LMO |  |  |  |
-| Li-Ion LFP |  |  | LMFP is LFP + Mn |
-| Li-Ion NMC111 / NMC333 |  |  |  |
-| Li-Ion NMC523/NMC532 |  |  |  |
-| Li-Ion NMC622 |  |  |  |
-| Li-Ion NMC811 |  |  |  |
-| Li-Ion NCA $(\text{LiNi}_\text{0.84}\text{Co}_\text{0.12}\text{Al}_\text{0.04})$ | 200 (Theoretically: 279) |  |  |
-| Li-Ion NCMA |  |  |  |
-| Li-Ion LTO |  |  |  |
-| Li-Ion SSB (Li-S Cathode + Graphite Anode) |  |  |  |
-| Li-Ion SSB (NMC811 Cathode + Silicon / Lithium Anode) |  |  |  |
-| Li-Ion SSB (Li-S Cathode + Solid Electrolyte + Silicon / Lithium Anode) |  |  |  |
-| Li-Ion SSB (Thin Film) | 150-170 | 580-590 |  |
+| Battery Type | Specific Charge ($\text{mAh/g}$) | Specific Energy ($\text{Wh/kg}$) | Specific Power ($\text{W/kg}$) | Any Other Remarks |
+| ---- | ---- | ---- | ---- | ---- |
+| Li-Ion LCO |  |  |  |  |
+| Li-Ion LMO |  |  |  |  |
+| Li-Ion LFP |  | 160 | 200 | LMFP is LFP + Mn |
+| Li-Ion NMC111 / NMC333 |  |  |  |  |
+| Li-Ion NMC523/NMC532 |  |  |  |  |
+| Li-Ion NMC622 |  |  |  |  |
+| Li-Ion NMC811 |  |  |  |  |
+| Li-Ion NCA $(\text{LiNi}_\text{0.84}\text{Co}_\text{0.12}\text{Al}_\text{0.04})$ | 200 (Theoretically: 279) |  |  |  |
+| Li-Ion NCMA |  |  |  |  |
+| Li-Ion LTO |  |  |  |  |
+| Li-Ion SSB (Li-S Cathode + Graphite Anode) |  |  |  |  |
+| Li-Ion SSB (NMC811 Cathode + Silicon / Lithium Anode) |  |  |  |  |
+| Li-Ion SSB (Li-S Cathode + Solid Electrolyte + Silicon / Lithium Anode) |  |  |  |  |
+| Li-Ion SSB (Thin Film) | 150-170 | 580-590 |  |  |
