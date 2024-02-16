@@ -20,10 +20,11 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\omin
 | Lithium Cobalt Oxide | LCO | $\text{LiCoO}_2$ |
 | Lithium Manganese Oxide | LMO | $\text{LiMn}_2\text{O}_4$ / $\text{LiMnO}_2$ |
 | Lithium Iron Phosphate | LFP | $\text{LiFePO}_4$ |
-| Lithium Nickel Manganese Cobalt | NMC | $\text{LiNi}_{x}\text{Mn}_{1-x}\text{Co}_{1-x-y}\text{O}_4$ |
-| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{LiNiCoAlO}_2$ |
-| Lithium Titanate | LTO | $\text{LiMnO}_2$ (same as LMO) |
+| Lithium Nickel Manganese Cobalt | NMC | $\text{* LiNi}_\text{x}\text{Mn}_\text{y}\text{Co}_\text{z}\text{O}_4$ |
+| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{* LiNi}_\text{x}\text{Co}_\text{y}\text{Al}_\text{z}\text{O}_2$ |
+| Lithium Titanate | LTO | $\text{LiMnO}_\text{2}$ (same as LMO) |
 | Lithium Sulfur (In Development) | Li-S | $\text{Li}_2\text{S}$ |
+$\text{* x+y+z = 1}$
 
 ==Battery cell descriptions like NMCXYZ means NMC with proportions of Ni:Mn:Co in the ratio X:Y:Z.==
 ## Anode
