@@ -2,13 +2,13 @@
 Different cell chemistries perform differently. Firstly, we'll understand the basic traits of a battery's performance. 
 
 ## Charge Capacity and Voltage
-A battery of a given size (mass or volume) can store a specific amount of *charge*, and the choice and size of electrodes will dictate the *potential difference* between them. The *charge* held is the **capacity** of the battery, and has units of Coulomb ($\text{C}$) or milliAmp-Hours ($\text{mAh}$) (since $\text{Q=It}$), and the *potential difference* sets the **voltage**, which has units of Volts ($\text{V}$) or Joules/Coulomb ($\text{J/C}$).
+A battery of a given size (mass or volume) can store a specific amount of *charge*, and the choice and size of electrodes will dictate the *potential difference* between them. The *charge* held is the **capacity** of the battery, and has units of Coulomb ($\text{C}$) or milliAmp-Hours ($\text{mAh}$) (since $\text{Q=It}$), and the *potential difference* sets the **nominal voltage**, which has units of Volts ($\text{V}$) or Joules/Coulomb ($\text{J/C}$).
 
+The voltage is not fixed because as the electrochemical reaction goes on, the potential difference will shift.
 ## Energy Content
 The capacity multiplied by the voltage will give the energy contained by the battery, in units of Watt-Hours ($\text{Wh}$) (since $\text{E=VIt}$). If we are using multiple batteries, the voltage or capacity of a single cell won't matter as we can stack up multiple batteries in series to add voltages or in parallel to add capacities.
 
 Not to mention the infamous equation $\text{E=mc}^\text{2}$, which underlies every process, and is helpful here when you understand energy in terms of mass transfer (chemical bonding energy being an example). Not very essential, but I find that the knowledge comes in handy at times.
-
 ## Capacity and Energy per Mass or Volume
 The *capacity per mass* ($\text{Q/m}$) is called the **specific charge** ($\text{mAh/kg}$), and the *energy per mass* ($\text{E/m}$) is called the **specific energy** ($\text{Wh/kg}$). The *capacity per volume* ($\text{Q/V}$) is called the **charge density** ($\text{mAh/m}^\text{3}$), and the *energy per volume* ($\text{E/V}$) is called the **energy density** ($\text{Wh/m}^\text{3}$). Specific charge and specific energy can be converted to charge and energy densities by considering the mass density ($\text{kg/m}^\text{3}$) of the battery itself.
 
@@ -32,8 +32,8 @@ Since C-rating is about setting the time to drain the total power, it can be use
 The power is not a fixed value as the voltage and current available will vary as the battery discharges according to its *characteristic discharge curve*. It is based on this curve that a safe discharge rate is specified.
 ## Maximum Power Draw per Mass or Volume
 With this, we can also find out the **specific power** ($\text{W/kg}$) and **power density** ($\text{W/m}^\text{3}$) of the battery too.
-
-# Specific Cha
+# Specific Charge, Energy and Power of Batteries
+I didn't list nominal voltage, maximum current, maximum power and volumetric densities, because I was not concerned about them myself. It takes time to scour the web individually for each cell type and build a table, so I just lazied out for now.
 ## Li-Ion Batteries
 | Battery Type | Specific Charge ($\text{mAh/g}$) | Specific Energy ($\text{Wh/kg}$) | Specific Power ($\text{W/kg}$) | Any Other Remarks |
 | ---- | ---- | ---- | ---- | ---- |
@@ -52,7 +52,6 @@ With this, we can also find out the **specific power** ($\text{W/kg}$) and **pow
 | Li-Ion SSB (NMC811 Cathode + Silicon / Lithium Anode) |  |  |  |  |
 | Li-Ion SSB (Li-S Cathode + Solid Electrolyte + Silicon / Lithium Anode) |  |  |  |  |
 | Li-Ion SSB (Thin Film) | 150-170 | 580-590 |  |  |
-
 ## Other Modern Batteries
 | Battery Type | Specific Charge ($\text{mAh/g}$) | Specific Energy ($\text{Wh/kg}$) | Specific Power ($\text{W/kg}$) | Any Other Remarks |
 | --- | --- | --- | --- | --- |

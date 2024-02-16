@@ -70,9 +70,8 @@ $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominu
 
 Actually **Li-S** isn't exclusive from **SSBs**. An SSB would typically make use of a Sulphur/Oxide anode, Solid Electrolyte and Lithium/Silicon Anode.
 # Physical Design
-The thickness and proportions of the battery are designed after careful studies and optimizations based on the industrial engineering data.
+The thickness and proportions of the battery internals are designed after careful studies and optimizations based on the industrial engineering data.
 ## Form Factors
 - Wrapped Cylindrical Cell (18560, etc.)
-- Pouch (used in Phones)
-- Cuboid (Li-Po)
-- Box (Stacked Li-Ion Cells, used in EVs)
+- Pouch (Mainly for Li-Po, flexible in design and has no standard footprints)
+- Prismatic (Stacked Li-Ion Cells, used in EVs)
