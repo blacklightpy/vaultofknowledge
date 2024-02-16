@@ -1,6 +1,6 @@
 They work using a *Lithium Metal Oxide* **cathode**, which is oxidized during charging and that forms the **anode**, which is comprised of *Lithium Ions* held in place by a *Graphite (or Silicon) Lattice* and *Electrons*.
 
-==**Exception:** *Lithium Titanate* batteries replace the *Graphite or Silicon* anode with *Titanium Oxide*.==
+==**Exception:** *Lithium Titanate* batteries replace the *Graphite or Silicon* anode with *Titanium Oxide*. Solid State Batteries change the cathode==
 
 The **electrolyte** is made up of various Lithium salts.
 
@@ -17,13 +17,13 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\omin
 ### Examples of Cathode Materials
 | Battery Type | Abbreviation | Cathode |
 | --- | --- | --- |
-| Lithium Cobalt Oxide | LCO | $\text{LiCoO}_2$ |
-| Lithium Manganese Oxide | LMO | $\text{LiMn}_2\text{O}_4$ / $\text{LiMnO}_2$ |
-| Lithium Iron Phosphate | LFP | $\text{LiFePO}_4$ |
-| Lithium Nickel Manganese Cobalt | NMC | $\text{* LiNi}_\text{x}\text{Mn}_\text{y}\text{Co}_\text{z}\text{O}_4$ |
-| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{* LiNi}_\text{x}\text{Co}_\text{y}\text{Al}_\text{z}\text{O}_2$ |
+| Lithium Cobalt Oxide | LCO | $\text{LiCoO}_\text{2}$ |
+| Lithium Manganese Oxide | LMO | $\text{LiMn}_\text{2}\text{O}_\text{4}$ / $\text{LiMnO}_\text{2}$ |
+| Lithium Iron Phosphate | LFP | $\text{LiFePO}_\text{4}$ |
+| Lithium Nickel Manganese Cobalt | NMC | $\text{* LiNi}_\text{x}\text{Mn}_\text{y}\text{Co}_\text{z}\text{O}_\text{4}$ |
+| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{* LiNi}_\text{x}\text{Co}_\text{y}\text{Al}_\text{z}\text{O}_\text{2}$ |
 | Lithium Titanate | LTO | $\text{LiMnO}_\text{2}$ (same as LMO) |
-| Lithium Sulfur (In Development) | Li-S | $\text{Li}_2\text{S}$ |
+| Lithium Sulfur (In Development) | Li-S | $\text{Li}_\text{2}\text{S}$ |
 $\text{* x+y+z = 1}$
 
 ==Battery cell descriptions like NMCXYZ means NMC with proportions of Ni:Mn:Co in the ratio X:Y:Z.==
@@ -31,11 +31,11 @@ $\text{* x+y+z = 1}$
 - $\text{LiY}$ (Y=Lattice Material)
 
 **Reaction During Charging:**
-$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($-\text{E}^\ominus_{anode} = \text{3.05 V}$)
+$\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ ($-\text{E}^\ominus_\text{anode} = \text{3.05 V}$)
 ### Examples of Anode Materials
-- $\text{LiC}_6$ (Most common, Has a maximum theoretical specific charge of about 372 $\text{mAh/g}$)
-- $\text{Li}_4\text{Ti}_5\text{O}_{12}$ (Durable, used in LTO)
-- $\text{Li}_15\text{Si}_14$ (Used in Solid State Batteries, In development, Maximum theoretical specific charge of about 3600 $\text{mAh/g}$. Each crystalline Silicon atom can hold about 3.75 Lithium ions compared to Graphite, which can only hold 1 Lithium ion for every 6 Carbon atoms at best.)
+- $\text{LiC}_\text{6}$ (Most common, Has a maximum theoretical specific charge of about 372 $\text{mAh/g}$)
+- $\text{Li}_\text{4}\text{Ti}_\text{5}\text{O}_\text{12}$ (Durable, used in LTO)
+- $\text{Li}_\text{15}\text{Si}_\text{14}$ (Used in Solid State Batteries, In development, Maximum theoretical specific charge of about 3600 $\text{mAh/g}$. Each crystalline Silicon atom can hold about 3.75 Lithium ions compared to Graphite, which can only hold 1 Lithium ion for every 6 Carbon atoms at best.)
 - $\text{Li (s)}$ (Used in Solid State Batteries, in development, Maximum theoretical specific charge of about 3863 $\text{mAh/g}$)
 ## Charging and Formation of Solid Electrolyte Interface
 
@@ -47,7 +47,7 @@ The Lithium Ions are stored in a stable concentration by the Graphite/Silicon la
 
 **Reactions (the opposite of the spontaneous reaction):**
 $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^- (-\text{E}^\ominus_\text{cathode} = -\text{1.15 V} = -\text{E}^\ominus_\text{reduction}$) (The oxidizing agent gets forcibly oxidized)
-$\text{C}_6 + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_6$ ($-\text{E}^\ominus_\text{anode} = \text{3.05 V} = \text{E}^\ominus_\text{oxidation}$) (The reducing agent gets forcibly reduced)
+$\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ ($-\text{E}^\ominus_\text{anode} = \text{3.05 V} = \text{E}^\ominus_\text{oxidation}$) (The reducing agent gets forcibly reduced)
 $\text{E}^\ominus_\text{charger} = -\text{E}^\ominus_\text{cell} = -(\text{E}^\ominus_\text{cathode} - \text{E}^\ominus_\text{anode}) = -\text{4.2 V}$ 
 ## Discharging
 
@@ -55,7 +55,7 @@ When a load is connected, the electron current flows through it to the cathode, 
 
 **Reactions:**
 $\text{MO} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiMO}$ ($\text{E}^\ominus_\text{cathode} = \text{1.15 V} = \text{E}^\ominus_\text{reduction}$) (The oxidizing agent is spontaneously reduced)
-$\text{LiC}_6 \rightarrow \text{C}_6 + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus_\text{anode} = -\text{3.05 V} = -\text{E}^\ominus_\text{oxidation}$) (The reducing agent is spontaneously oxidized)
+$\text{LiC}_\text{6} \rightarrow \text{C}_\text{6} + \text{Li}^+ + \text{e}^-$ ($\text{E}^\ominus_\text{anode} = -\text{3.05 V} = -\text{E}^\ominus_\text{oxidation}$) (The reducing agent is spontaneously oxidized)
 $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominus_\text{anode} = \text{4.2 V}$ 
 # Considerations
 - Overcharging is bad for the battery, and besides that, it may even explode.
@@ -66,7 +66,7 @@ $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} -\text{E}^\ominu
 - **Lithium Ion (Li-Ion)** is the standard type of Li-Ion batteries, as the name implies. It has a theoretical maximum specific energy of 370 $\text{Wh/kg}$, when using a Lithium Cobaltate **cathode** and a Graphite **anode**.
 - **Lithium Polymer (Li-Po)** has a relatively higher specific energy, and is also inflammable and can explode if it is overcharged. It uses a polymer electrolyte, but the electrode chemistry is the same as that of Li-Ion cells.
 - **Solid State Batteries (SSBs)** has a much higher specific energy and is being researched on. They either use *solid Lithium or Silicon* **anode** to achieve these high specific energies. They may also use *solid electrolytes*, and are also called *All-Solid-State Batteries (ASSBs)*. A good SSB can show a specific charge of about 2890 $\text{mAh/g}$ and it has a maximum theoretical specific energy of about 1440 $\text{Wh/kg}$ when using a Sulphide **cathode**. Practical specific energies come to around 500-900 $\text{Wh/kg}$.
-- **Lithium Sulphur (Li-S)** batteries use a *Lithium Sulphide ($\text{Li}_2\text{S}$)* **cathode** for its high specific energy. The cathode is coated with *Carbon* to help with electrical conductivity. During charging, the movement of *Lithium ions* cause the cathode to turn into *Sulphur ($\text{S}_8$)*. *Sulphur* is very cheap, and with its high energy density is very appealing to use for battery cells. For the **anode** side, *Solid Lithium* is used. One of the shortfalls of these batteries is that while *Lithium Sulphide* and *Sulphur* are non-reactive with the electrolytes, some *intermediary polysulphides* aren't, and they end up destroying the electrolytes. For this reason, sometimes a protective coating with something like *Teflon* is used at the anode side to protect the electrolytes. Electrolytes commonly used in the Li-Ion batteries, based on organic carbonates (such as Polycarbonate, Ethylene Carbonate and Diethyl Carbonate) are not compatible with *(Li-S)* batteries. They have a specific charge of about 1675 $\text{mAh/g}$ and a specific energy of about 500 $\text{Wh/kg}$.
+- **Lithium Sulphur (Li-S)** batteries use a *Lithium Sulphide ($\text{Li}_\text{2}\text{S}$)* **cathode** for its high specific energy. The cathode is coated with *Carbon* to help with electrical conductivity. During charging, the movement of *Lithium ions* cause the cathode to turn into *Sulphur ($\text{S}_8$)*. *Sulphur* is very cheap, and with its high energy density is very appealing to use for battery cells. For the **anode** side, *Solid Lithium* is used. One of the shortfalls of these batteries is that while *Lithium Sulphide* and *Sulphur* are non-reactive with the electrolytes, some *intermediary polysulphides* aren't, and they end up destroying the electrolytes. For this reason, sometimes a protective coating with something like *Teflon* is used at the anode side to protect the electrolytes. Electrolytes commonly used in the Li-Ion batteries, based on organic carbonates (such as Polycarbonate, Ethylene Carbonate and Diethyl Carbonate) are not compatible with *(Li-S)* batteries. They have a specific charge of about 1675 $\text{mAh/g}$ and a specific energy of about 500 $\text{Wh/kg}$.
 
 Actually **Li-S** isn't exclusive from **SSBs**. An SSB would typically make use of a Sulphur/Oxide anode, Solid Electrolyte and Lithium/Silicon Anode.
 # Physical Design
