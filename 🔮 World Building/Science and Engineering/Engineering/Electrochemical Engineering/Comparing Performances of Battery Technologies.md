@@ -29,7 +29,7 @@ A *Specific quantity* is also known as **gravimetric density** of that quantity 
 
 The theoretical specific charge capacity can be calculated by considering the molar mass of the atoms and considering the number of moles available, using it to find the weight of the electrode and dividing the theoretical charge capacity by this weight. It will also vary according to the other housing components required by the battery.
 
-Specific Charge = Mass/Mol * *
+Specific Charge = Charge/Atom x Mol/Mass x Atoms/Mol
 ## Maximum Current and Maximum Power
 A battery also has a **discharge rate**, usually specified by the *C-rating*. The C-rating tells you the maximum charge in multiples of the capacity $\text{C}$ that you can draw from the battery in an hour. For example, a C-rating of $\text{xC}$ means that you can draw $\text{xC mAh}$ of charge every hour, but since one charge cycle only has a capacity of $\text{C mAh}$, what it actually means is that the amount of current drawn should be at that rate. In other words, the battery should not be discharged faster than once every $\text{1/x}$ hours. A C-rating of $\text{C/x}$ is a short-hand for saying $\text{1/x C}$, which means the battery should not be discharged faster than once every $\text{x}$ hours.
 
