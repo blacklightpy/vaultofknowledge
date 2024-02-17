@@ -39,6 +39,7 @@ At chemical equilibrium, the ratio $\text{Q}_\text{r}$ of the activity of the re
 
 ${\displaystyle K={\frac {a_{\text{reduction}}}{a_{\text{oxidation}}}}}$
 
+## Gibbs Free Energy in Electrochemical Reactions
 The standard thermodynamics also says that the actual Gibbs free energy $\displaystyle \Delta G$ is related to the free energy change under standard state $\displaystyle \Delta G^\ominus$ by the relationship:
 
 ${\displaystyle \Delta G=\Delta G^{\ominus }+RT\ln Q_{r}}$
@@ -51,16 +52,22 @@ From this we can see that:
 
 $\displaystyle \text{E} = \frac{-\Delta\text{G}}{\text{nF}}$
 
-The standard Gibbs free energy $Δ G ⊖ ${\displaystyle \Delta G^{\ominus }}$ is related to the equilibrium constant K as follows:
+The standard Gibbs free energy ${\displaystyle \Delta G^{\ominus }}$ is related to the equilibrium constant K as follows:
 
 ${\displaystyle \Delta G^{\ominus }=-RT\ln {K}}$
+
+So that would mean ${\displaystyle \Delta G=RT\ln{\frac{Q_r}{K}}}$
 ## Nernst Equation
 
-The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ can now be given by:
+By the equations above, we can calculate the cell EMF based on the concentration of reactants as:
+
+${\displaystyle E_{\text{reduction}}=\frac{\text{RT}}{\text{nF}}\text{K}-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
+
+The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ can be given by:
 
 $\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{nF}}$
 
-${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
+${\displaystyle \therefore E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
 # Electrochemical Series
 Since the standard electrode potential is a strong dependency of the Nernst equation, we have to select elements with the highest electrode potential for the anode, and highest negative electrode potential for the cathode.
 
