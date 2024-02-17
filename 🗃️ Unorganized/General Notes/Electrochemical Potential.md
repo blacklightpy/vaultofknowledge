@@ -26,7 +26,7 @@ The **reaction quotient** ($\displaystyle \text{Q}_\text{r}$), also often called
 
 The chemical activity of a dissolved species corresponds to its true thermodynamic concentration taking into account the electrical interactions between all ions present in solution at elevated concentrations.
 
-When the **[[chemical potential]]** of a reaction is calculated by the laws of thermodynamics, non-ideal solutions (deviating from [[Raoult's Law]]) have to be accommodated using **chemical activity** ($\displaystyle \text{a}$) by multiplying the **molar ($\displaystyle \text{mol/L solution}$), or molal ($\displaystyle \text{mol/kg water}$), concentration** ($\displaystyle \text{C}$) with an adjustment factor, called the **activity coefficient** ($\gamma$). 
+When the **[[chemical potential]]** of a reaction is calculated by the laws of thermodynamics, non-ideal solutions (deviating from [[Raoult's Law]]) have to be accommodated using chemical activity ($\displaystyle \text{a}$) by multiplying the **molar or molal concentration** ($\displaystyle \text{C}$) with an adjustment factor, called the **activity coefficient** ($\gamma$). 
 
 $\displaystyle \text{a} = \text{γC}$
 
@@ -35,7 +35,7 @@ So, if the concentration ($\displaystyle C$, also denoted here below with square
 ${\displaystyle Q_{r}={\frac {a_{\text{reduction}}}{a_{\text{oxidation}}}}={\frac {[\operatorname {Reductant} ]}{[\operatorname {Oxidant} ]}}}$
 
 
-At chemical equilibrium, the ratio $\text{Q}_\text{r}$ of the activity of the reaction product ($\text{a}_\text{reduction}$) by the reagent activity ($\text{a}_\text{oxidation}$) is equal to the equilibrium constant K of the half-reaction:
+At chemical equilibrium, the ratio $\text{Q}_\text{r}$ of the activity of the reaction product ($\text{a}_\text{reduction}$) by the reagent activity ($\text{a}_\text{oxidation}$) is equal to the equilibrium constant $K$ of the half-reaction:
 
 ${\displaystyle K={\frac {a_{\text{reduction}}}{a_{\text{oxidation}}}}}$
 
@@ -43,17 +43,22 @@ The standard thermodynamics also says that the actual Gibbs free energy $\displa
 
 ${\displaystyle \Delta G=\Delta G^{\ominus }+RT\ln Q_{r}}$
 
-The cell potential E associated with the electrochemical reaction is defined as the decrease in Gibbs free energy per coulomb of charge transferred, which leads to the relationship ${\displaystyle \Delta G=-\text{zFE}}$.
+The cell potential E associated with the electrochemical reaction is defined as the decrease in Gibbs free energy per coulomb of charge transferred, which leads to the relationship ${\displaystyle \Delta G=-\text{nFE}}$.
 
-$\displaystyle \text{F}$ is the Faraday's constant, and it is a placeholder for *molar electric charge*, $N_Aq$, and $\displaysty$
+$\displaystyle \text{F}$ is the Faraday's constant, and it is a placeholder for *molar electric charge*, $N_Aq$, and $\displaystyle \text{z}$ is the number of electrons transferred in the half-cell reaction.
 
+From this we can see that:
+
+$\displaystyle \text{E} = \frac{-\Delta\text{G}}{\text{nF}}$
+
+The standard Gibbs free energy $Δ G ⊖ ${\displaystyle \Delta G^{\ominus }}$ is related to the equilibrium constant K as follows:
+
+${\displaystyle \Delta G^{\ominus }=-RT\ln {K}}$
 ## Nernst Equation
 
-The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ is given by:
+The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ can now be given by:
 
-$\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{nF}}$,
-
-where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $\displaystyle n$ is the number of electrons involved and $\displaystyle F$ is Faraday's constant.
+$\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{nF}}$
 
 ${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
 # Electrochemical Series
