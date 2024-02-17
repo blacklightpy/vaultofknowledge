@@ -2,7 +2,7 @@
 Different cell chemistries perform differently. Firstly, we'll understand the basic traits of a battery's performance. 
 
 ## Charge Capacity and Voltage
-A battery of a given size (mass or volume) can store a specific amount of *charge*, and the choice and size of electrodes will dictate the *potential difference* between them. The *charge* held is the **capacity** of the battery, and has units of Coulomb ($\text{C}$) or milliAmp-Hours ($\text{mAh}$) (since $\text{Q=It}$), and the *potential difference* sets the **nominal voltage**, which has units of Volts ($\text{V}$) or Joules/Coulomb ($\text{J/C}$).
+A battery of a given size (mass or volume) can store a specific amount of *charge*, and the choice and size of electrodes and electrolyte will dictate the *potential difference* between them. The *charge* held is the **capacity** of the battery, and has units of Coulomb ($\text{C}$) or milliAmp-Hours ($\text{mAh}$) (since $\text{Q=It}$), and the *potential difference* sets the **nominal voltage**, which has units of Volts ($\text{V}$) or Joules/Coulomb ($\text{J/C}$).
 
 The voltage is not fixed because as the electrochemical reaction goes on, the potential difference will shift.
 ## Energy Content
@@ -34,6 +34,8 @@ The power is not a fixed value as the voltage and current available will vary as
 With this, we can also find out the **specific power** ($\text{W/kg}$) and **power density** ($\text{W/m}^\text{3}$) of the battery too.
 # Specific Charge, Energy and Power of Batteries
 I didn't list nominal voltage, maximum current, maximum power and volumetric densities, because I was not concerned about them myself. It takes time to scour the web individually for each cell type and build a table, so I just lazied out for now.
+
+==Note that the **anode** or **cathode** can have their own **specific charge**, but the specific charge of the battery will be based on the *limiting reagent*.==
 ## Li-Ion Batteries
 | Battery Type | Specific Charge ($\text{mAh/g}$) | Specific Energy ($\text{Wh/kg}$) | Specific Power ($\text{W/kg}$) | Any Other Remarks |
 | ---- | ---- | ---- | ---- | ---- |
