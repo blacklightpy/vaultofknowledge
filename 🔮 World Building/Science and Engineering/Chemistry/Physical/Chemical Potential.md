@@ -6,19 +6,23 @@ Chemical potential is also referred to as **partial molar Gibbs energy** ($\text
 # Formula
 The chemical potential, ${\displaystyle \mu _{\mathrm {B}}}$, of a substance $\text{B}$ in an ideal mixture of liquids or an ideal solution is given by:
 
-${\displaystyle \mu _{\mathrm {B} }=\mu _{\mathrm {B} }^{\ominus }+RT\chi_{\mathrm {B}}}$,
+${\displaystyle \mu _{\mathrm {B} }=\mu _{\mathrm {B} }^{\ominus }+\text{RT}\chi_{\mathrm {B}}}$,
 
 where $\chi$ is the chemical potential of a pure substance ${\displaystyle \mathrm {B} }$, and ${\displaystyle \chi_{\mathrm {B} }}$ is the mole fraction of the substance in the mixture.
 
-This is generalised to include non-ideal behavior by writing:
+This is generalized to include non-ideal behavior by writing:
 
-${\displaystyle \mu _{\mathrm {B} }=\mu _{\mathrm {B} }^{\ominus }+RT\ln a_{\mathrm {B}}}$,
+${\displaystyle \mu _{\mathrm {B} }=\mu _{\mathrm {B} }^{\ominus }+\text {RT} \ln a_{\mathrm {B}}}$, (i.e. because ${\displaystyle \mu = \mu_{\mathrm{ideal}}+\mu_{\mathrm{excess}}}$, ${\displaystyle \mu_\text{ideal} = \mu^\ominus + \text{RT}\ln\chi}$ and $\mu_\text{excess}=\text{RT}\ln\chi$)
 
-when ${\displaystyle a_{\mathrm {B} }}$ is the activity of the substance in the mixture,
+when ${\displaystyle a_{\mathrm {B} }}$ is the **activity** of the substance in the mixture,
 
 ${\displaystyle a_{\mathrm {B} }=\chi_{\mathrm {B} }\gamma _{\mathrm {B} }}$,
 
-where ${\displaystyle \gamma _{\mathrm {B} }}$ is the activity coefficient, which may itself depend on ${\displaystyle \chi_{\mathrm {B} }}$. As ${\displaystyle \gamma _{\mathrm {B} }}$ approaches 1, the substance behaves as if it were ideal. For instance, if γ B {\displaystyle \gamma _{\mathrm {B} }} ≈ 1, then Raoult's law is accurate. For γ B {\displaystyle \gamma _{\mathrm {B} }} > 1 and γ B {\displaystyle \gamma _{\mathrm {B} }} < 1, substance B shows positive and negative deviation from Raoult's law, respectively. A positive deviation implies that substance B is more volatile. 
+where ${\displaystyle \gamma _{\mathrm {B} }}$ is the **activity coefficient**, which may itself depend on ${\displaystyle \chi_{\mathrm {B} }}$. As ${\displaystyle \gamma _{\mathrm {B} }}$ approaches 1, the substance behaves as if it were ideal.
+
+For instance, if ${\displaystyle \gamma _{\mathrm {B} }}$ ≈ 1, then [[Raoult's Law]] is accurate. For ${\displaystyle \gamma _{\mathrm {B} }}$ > 1 and ${\displaystyle \gamma _{\mathrm {B} }}$ < 1, substance B shows positive and negative deviation from Raoult's law, respectively. A positive deviation implies that substance B is more volatile.
+
+In many cases, as ${\displaystyle \chi_{\mathrm {B} }}$ goes to zero, the activity coefficient of substance B approaches a constant; this relationship is Henry's law for the solvent. These relationships are related to each other through the Gibbs–Duhem equation.
 # Notes
 
 The total chemical potential can be divided into the **internal and external chemical potentials**.
