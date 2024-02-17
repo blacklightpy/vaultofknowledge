@@ -33,5 +33,19 @@ where $\displaystyle \text{Q}_\text{r}$ is the reaction quotient.
 
 $\displaystyle \text{Q}_\text{r} = \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}}) = \frac{\text{[Reductant]}}{\text{[Oxidant]}}$
 $\displaystyle \alpha$ is the chemical activity, which is the chemical potential multiplied by the activity coefficient to compensate for non-ideal behaviour (deviation from [[Raoult's Law]]).
+
+---
+The reaction quotient (Qr), also often called the ion activity product (IAP), is the ratio between the chemical activities ($\displaystyle \text {a}$) of the reduced form (the reductant, $\displaystyle \text{a}_\text{reduction}$) and the oxidized form (the oxidant, $\displaystyle \text{a}_\text{oxidation}$). The chemical activity of a dissolved species corresponds to its true thermodynamic concentration taking into account the electrical interactions between all ions present in solution at elevated concentrations. For a given dissolved species, its chemical activity (a) is the product of its activity coefficient ($\displaystyle  γ$) by its molar (mol/L solution), or molal (mol/kg water), concentration (C): $a = γ C$. So, if the concentration (C, also denoted here below with square brackets [ ]) of all the dissolved species of interest are sufficiently low and that their activity coefficients are close to unity, their chemical activities can be approximated by their concentrations as commonly done when simplifying, or idealizing, a reaction for didactic purposes:
+
+${\displaystyle Q_{r}={\frac {a_{\text{reduction}}}{a_{\text{oxidation}}}}={\frac {[\operatorname {Reductant} ]}{[\operatorname {Oxidant} ]}}}$
+
+
+At chemical equilibrium, the ratio $\text{Q}_\text{r}$ of the activity of the reaction product ($\text{a}_\text{reduction}$) by the reagent activity ($\text{a}_\text{oxidation}$) is equal to the equilibrium constant K of the half-reaction:
+
+${\displaystyle K={\frac {a_{\text{reduction}}}{a_{\text{oxidation}}}}}$
+
+The standard thermodynamics also says that the actual Gibbs free energy $\displaystyle \Delta G$ is related to the free energy change under standard state $\displaystyle \Delta G^\ominus$ by the relationship:
+
+${\displaystyle \Delta G=\Delta G^{\ominus }+RT\ln Q_{r}}$
 # Electrochemical Series
 Since the standard electrode potential 
