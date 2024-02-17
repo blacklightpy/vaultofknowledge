@@ -5,6 +5,8 @@ Different cell chemistries perform differently. Firstly, we'll understand the ba
 A battery of a given size (mass or volume) can store a specific amount of *charge*, and the choice and size of electrodes and electrolyte will dictate the *potential difference* between them. The *charge* held is the **capacity** of the battery, and has units of Coulomb ($\text{C}$) or milliAmp-Hours ($\text{mAh}$) (since $\text{Q=It}$), and the *potential difference* sets the **nominal voltage**, which has units of Volts ($\text{V}$) or Joules/Coulomb ($\text{J/C}$).
 
 The voltage is not fixed because as the electrochemical reaction goes on, the potential difference will shift.
+
+The theoretical charge capacity can be calculated by considering the charge per atom of the electrode and multiplying it by the number of atoms. However the practical charge capacity will vary drastically as there are other components required too to make a battery.
 ## Energy Content
 The capacity multiplied by the voltage will give the energy contained by the battery, in units of Watt-Hours ($\text{Wh}$) (since $\text{E=VIt}$). If we are using multiple batteries, the voltage or capacity of a single cell won't matter as we can stack up multiple batteries in series to add voltages or in parallel to add capacities.
 
@@ -24,6 +26,10 @@ A *Specific quantity* is also known as **gravimetric density** of that quantity 
 | $\text{Q/V}$ | Charge Density | Volumetric Charge Density | $\text{mAh/m}^\text{3}$ |
 | $\text{E/V}$ | Energy Density | Volumetric Energy Density | $\text{Wh/m}^\text{3}$ |
 | $\text{P/V}$ | Power Density | Volumetric Power Density | $\text{W/m}^\text{3}$ |
+
+The theoretical specific charge capacity can be calculated by considering the molar mass of the atoms and considering the number of moles available, using it to find the weight of the electrode and dividing the theoretical charge capacity by this weight. It will also vary according to the other housing components required by the battery.
+
+Specific Charge = Mass/Mol * *
 ## Maximum Current and Maximum Power
 A battery also has a **discharge rate**, usually specified by the *C-rating*. The C-rating tells you the maximum charge in multiples of the capacity $\text{C}$ that you can draw from the battery in an hour. For example, a C-rating of $\text{xC}$ means that you can draw $\text{xC mAh}$ of charge every hour, but since one charge cycle only has a capacity of $\text{C mAh}$, what it actually means is that the amount of current drawn should be at that rate. In other words, the battery should not be discharged faster than once every $\text{1/x}$ hours. A C-rating of $\text{C/x}$ is a short-hand for saying $\text{1/x C}$, which means the battery should not be discharged faster than once every $\text{x}$ hours.
 

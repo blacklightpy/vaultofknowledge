@@ -63,6 +63,8 @@ By the equations above, we can calculate the cell EMF based on the concentration
 
 ${\displaystyle E_{\text{reduction}}=\frac{\text{RT}}{\text{nF}}\text{K}-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
 
+$\displaystyle \Rightarrow E_{\text{reduction}}=\frac{\text{RT}}{\text{nF}}(\frac{\text{K}}{\text{Q}_\text{r}})$
+
 The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ can be given by:
 
 $\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{nF}}$
