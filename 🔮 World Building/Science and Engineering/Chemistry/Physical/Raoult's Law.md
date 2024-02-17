@@ -1,6 +1,12 @@
 Raoult's Law states that the partial pressure of each component of an ideal mixture of liquids is equal to the vapour pressure of the pure component (liquid or solid) multiplied by its mole fraction in the mixture.
 
 It also implies that the relative lowering of vapour pressure of a dilute solution of non-volatile solute is equal to the mole fraction of solute in the solution.
+
+> [!NOTE]
+> Raoult's Law is only valid for liquids that are almost pure solutions, while for sufficiently dissolved solutions, Henry's Law is used.
+>
+> - Raoult's law: ${\displaystyle \lim _{x\to 1}\left({\frac {p}{x}}\right)=p^{*}}$
+> - Henry's law: ${\displaystyle \lim _{x\to 0}\left({\frac {p}{x}}\right)=H_{\rm {v}}^{px}}$
 # Formulas
 ## Partial Pressure of Vapours in a Solution
 ${\displaystyle p_{i}=p_{i}^{\star }x_{i}}$,
@@ -22,4 +28,4 @@ ${\displaystyle p=p_{\text{A}}^{\star }x_{\text{A}}}$ (just $\displaystyle p$ be
 ${\displaystyle \Delta p=p_{\text{A}}^{\star }-p}$
 ${\displaystyle \Rightarrow \Delta p=p_{\text{A}}^{\star }(1-x_{\text{A}})=p_{\text{A}}^{\star }x_{\text{B}}}$
 
-In non
+In non-ideal solutions, if the solute associates with the solvent, the [[van 't Hoff factor]] is introduced as correction.
