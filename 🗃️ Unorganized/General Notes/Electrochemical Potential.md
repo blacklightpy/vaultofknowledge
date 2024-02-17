@@ -27,15 +27,25 @@ $\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\omi
 
 where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $\displaystyle n$ is the number of electrons involved and $\displaystyle F$ is Faraday's constant.
 
-${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$,
+${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
 
-where $\displaystyle \text{Q}_\text{r}$ is the reaction quotient.
+Since the Ner
 
 $\displaystyle \text{Q}_\text{r} = \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}}) = \frac{\text{[Reductant]}}{\text{[Oxidant]}}$
 $\displaystyle \alpha$ is the chemical activity, which is the chemical potential multiplied by the activity coefficient to compensate for non-ideal behaviour (deviation from [[Raoult's Law]]).
 
 ---
-The reaction quotient (Qr), also often called the ion activity product (IAP), is the ratio between the chemical activities ($\displaystyle \text {a}$) of the reduced form (the reductant, $\displaystyle \text{a}_\text{reduction}$) and the oxidized form (the oxidant, $\displaystyle \text{a}_\text{oxidation}$). The chemical activity of a dissolved species corresponds to its true thermodynamic concentration taking into account the electrical interactions between all ions present in solution at elevated concentrations. For a given dissolved species, its chemical activity (a) is the product of its activity coefficient ($\displaystyle  γ$) by its molar (mol/L solution), or molal (mol/kg water), concentration (C): $a = γ C$. So, if the concentration (C, also denoted here below with square brackets [ ]) of all the dissolved species of interest are sufficiently low and that their activity coefficients are close to unity, their chemical activities can be approximated by their concentrations as commonly done when simplifying, or idealizing, a reaction for didactic purposes:
+The **reaction quotient** ($\displaystyle \text{Q}_\text{r}$), also often called the ion activity product (IAP), is the ratio between the **chemical activities** ($\displaystyle \text {a}$) of the reduced form (the reductant, $\displaystyle \text{a}_\text{reduction}$) and the oxidized form (the oxidant, $\displaystyle \text{a}_\text{oxidation}$). 
+
+The chemical activity of a dissolved species corresponds to its true thermodynamic concentration taking into account the electrical interactions between all ions present in solution at elevated concentrations.
+
+When the **[[chemical potential]]** of a reaction is calculated by 
+
+For a given dissolved species, its chemical activity ($\displaystyle \text{a}$) is the product of its **activity coefficient** ($\displaystyle  γ$) by its **molar ($\displaystyle \text{mol/L}$ solution), or molal ($\displaystyle \text{mol/kg}$ water), concentration** ($\displaystyle \text{C}$):
+
+$\displaystyle \text{a} = \text{γC}$
+
+So, if the concentration ($\displaystyle C$, also denoted here below with square brackets [ ]) of all the dissolved species of interest are sufficiently low and that their activity coefficients are close to unity, their chemical activities can be approximated by their concentrations as commonly done when simplifying, or idealizing, a reaction for didactic purposes:
 
 ${\displaystyle Q_{r}={\frac {a_{\text{reduction}}}{a_{\text{oxidation}}}}={\frac {[\operatorname {Reductant} ]}{[\operatorname {Oxidant} ]}}}$
 
