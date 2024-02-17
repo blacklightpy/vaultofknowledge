@@ -23,6 +23,12 @@ The two may be explicitly distinguished by the symbols ${\displaystyle E_{reduct
 
 The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ is given by:
 
-$\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{zF}}$,
+$\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{nF}}$,
 
-where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $z$ is the number of electrons involved and $F$ is Faraday's constant.
+where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $\displaystyle n$ is the number of electrons involved and $\displaystyle F$ is Faraday's constant.
+
+${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}})}$,
+
+where $\displaystyle \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}})$ is the reaction quotient.
+# Electrochemical Series
+Since the standard electrode potential 
