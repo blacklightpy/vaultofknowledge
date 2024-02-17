@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61245f53e288ac9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md"
               }
             }
           },
@@ -266,8 +279,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "efde3eb19cde17ad",
+  "active": "61245f53e288ac9d",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Dalton's Law of Partial Pressures.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
+    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
@@ -276,7 +292,6 @@
     "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "_images/Pasted image 20240216063322.png",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
-    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
     "World Building/Science and Engineering/Engineering",
@@ -299,8 +314,6 @@
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Music Theory.md",
     "🗃️ Unorganized/General Notes/Learning kernel development.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
-    "🗃️ Unorganized/General Notes/seL4 Microkernel.md",
     "_images/Frequency Areas of the Cochlea.png",
     "Z2-Rough Notes 2/General",
     "Z2-Rough Notes 2",

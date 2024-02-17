@@ -27,8 +27,10 @@ $\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\omi
 
 where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $\displaystyle n$ is the number of electrons involved and $\displaystyle F$ is Faraday's constant.
 
-${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}})}$,
+${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$,
 
-where $\displaystyle \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}})$ is the reaction quotient.
+where $\displaystyle \text{Q}_\text{r}$ is the reaction quotient.
+
+$\displaystyle \text{Q}_\text{r} = \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}}) = \frac{\text{[Reductant]}}{\text{[Oxidant]}}$
 # Electrochemical Series
 Since the standard electrode potential 
