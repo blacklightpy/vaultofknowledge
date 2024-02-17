@@ -26,7 +26,7 @@ The **reaction quotient** ($\displaystyle \text{Q}_\text{r}$), also often called
 
 The chemical activity of a dissolved species corresponds to its true thermodynamic concentration taking into account the electrical interactions between all ions present in solution at elevated concentrations.
 
-When the **[[chemical potential]]** of a reaction is calculated by the laws of thermodynamics, non-ideal solutions have to be accommodated using **chemical activity** ($\displaystyle \text{a}$) by multiplying the **molar ($\displaystyle \text{mol/L solution}$), or molal ($\displaystyle \text{mol/kg water}$), concentration** ($\displaystyle \text{C}$) with an adjustment factor, called the **activity coefficient** ($\gamma$). 
+When the **[[chemical potential]]** of a reaction is calculated by the laws of thermodynamics, non-ideal solutions (deviating from [[Raoult's Law]]) have to be accommodated using **chemical activity** ($\displaystyle \text{a}$) by multiplying the **molar ($\displaystyle \text{mol/L solution}$), or molal ($\displaystyle \text{mol/kg water}$), concentration** ($\displaystyle \text{C}$) with an adjustment factor, called the **activity coefficient** ($\gamma$). 
 
 $\displaystyle \text{a} = \text{γC}$
 
@@ -43,6 +43,10 @@ The standard thermodynamics also says that the actual Gibbs free energy $\displa
 
 ${\displaystyle \Delta G=\Delta G^{\ominus }+RT\ln Q_{r}}$
 
+The cell potential E associated with the electrochemical reaction is defined as the decrease in Gibbs free energy per coulomb of charge transferred, which leads to the relationship ${\displaystyle \Delta G=-\text{zFE}}$.
+
+$\displaystyle \text{F}$ is the Faraday's constant, and it is a placeholder for *molar electric charge*, $N_Aq$, and $\displaysty$
+
 ## Nernst Equation
 
 The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ is given by:
@@ -52,10 +56,9 @@ $\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\omi
 where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $\displaystyle n$ is the number of electrons involved and $\displaystyle F$ is Faraday's constant.
 
 ${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
-
-Since the Ner
-
-$\displaystyle \text{Q}_\text{r} = \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}}) = \frac{\text{[Reductant]}}{\text{[Oxidant]}}$
-$\displaystyle \alpha$ is the chemical activity, which is the chemical potential multiplied by the activity coefficient to compensate for non-ideal behaviour (deviation from [[Raoult's Law]]).
 # Electrochemical Series
-Since the standard electrode potential 
+Since the standard electrode potential is a strong dependency of the Nernst equation, we have to select elements with the highest electrode potential for the anode, and highest negative electrode potential for the cathode.
+
+Elements further to the right in the periodic table achieve higher ratios here because the ionic radius of the elements decreases and the electrons are more strongly attracted to the nucleus, resulting in a higher tendency to attract electrons.
+
+This is why transition metals like Nickel, Cobalt, Iron and Manganese are chosen for Lithium-Ion batteries. They have the highest positive electrode potential of all elements.
