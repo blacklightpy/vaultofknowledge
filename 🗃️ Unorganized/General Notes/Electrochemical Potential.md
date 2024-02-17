@@ -21,27 +21,12 @@ The two may be explicitly distinguished by the symbols ${\displaystyle E_{reduct
 # Nernst Equation
 **Also cover:** Full Nernst Equation, Reaction Quotient, Equilibrium Quotient, pH
 
-The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ is given by:
-
-$\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{nF}}$,
-
-where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $\displaystyle n$ is the number of electrons involved and $\displaystyle F$ is Faraday's constant.
-
-${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
-
-Since the Ner
-
-$\displaystyle \text{Q}_\text{r} = \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}}) = \frac{\text{[Reductant]}}{\text{[Oxidant]}}$
-$\displaystyle \alpha$ is the chemical activity, which is the chemical potential multiplied by the activity coefficient to compensate for non-ideal behaviour (deviation from [[Raoult's Law]]).
-
----
+## Basics
 The **reaction quotient** ($\displaystyle \text{Q}_\text{r}$), also often called the ion activity product (IAP), is the ratio between the **chemical activities** ($\displaystyle \text {a}$) of the reduced form (the reductant, $\displaystyle \text{a}_\text{reduction}$) and the oxidized form (the oxidant, $\displaystyle \text{a}_\text{oxidation}$). 
 
 The chemical activity of a dissolved species corresponds to its true thermodynamic concentration taking into account the electrical interactions between all ions present in solution at elevated concentrations.
 
-When the **[[chemical potential]]** of a reaction is calculated by 
-
-For a given dissolved species, its chemical activity ($\displaystyle \text{a}$) is the product of its **activity coefficient** ($\displaystyle  γ$) by its **molar ($\displaystyle \text{mol/L}$ solution), or molal ($\displaystyle \text{mol/kg}$ water), concentration** ($\displaystyle \text{C}$):
+When the **[[chemical potential]]** of a reaction is calculated by the laws of thermodynamics, non-ideal solutions have to be accommodated using **chemical activity** ($\displaystyle \text{a}$) by multiplying the **molar ($\displaystyle \text{mol/L solution}$), or molal ($\displaystyle \text{mol/kg water}$), concentration** ($\displaystyle \text{C}$) with an adjustment factor, called the **activity coefficient** ($\gamma$). 
 
 $\displaystyle \text{a} = \text{γC}$
 
@@ -57,5 +42,20 @@ ${\displaystyle K={\frac {a_{\text{reduction}}}{a_{\text{oxidation}}}}}$
 The standard thermodynamics also says that the actual Gibbs free energy $\displaystyle \Delta G$ is related to the free energy change under standard state $\displaystyle \Delta G^\ominus$ by the relationship:
 
 ${\displaystyle \Delta G=\Delta G^{\ominus }+RT\ln Q_{r}}$
+
+## Nernst Equation
+
+The half-cell standard reduction potential ${\displaystyle E_{\text{reduction}}^{\ominus }}$ is given by:
+
+$\displaystyle E_{\text{reduction}}^{\ominus }\text{(V)}=-{\frac {\Delta G^{\ominus }}{nF}}$,
+
+where ${\displaystyle \Delta G^{\ominus }}$ is the standard Gibbs free energy change, $\displaystyle n$ is the number of electrons involved and $\displaystyle F$ is Faraday's constant.
+
+${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text{RT}}{\text{nF}}\text{Q}_\text{r}}$
+
+Since the Ner
+
+$\displaystyle \text{Q}_\text{r} = \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}}) = \frac{\text{[Reductant]}}{\text{[Oxidant]}}$
+$\displaystyle \alpha$ is the chemical activity, which is the chemical potential multiplied by the activity coefficient to compensate for non-ideal behaviour (deviation from [[Raoult's Law]]).
 # Electrochemical Series
 Since the standard electrode potential 

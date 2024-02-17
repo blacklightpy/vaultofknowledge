@@ -12,13 +12,19 @@ where $\chi$ is the chemical potential of a pure substance ${\displaystyle \math
 
 This is generalized to include non-ideal behavior by writing:
 
-${\displaystyle \mu _{\mathrm {B} }=\mu _{\mathrm {B} }^{\ominus }+\text {RT} \ln a_{\mathrm {B}}}$, (i.e. because ${\displaystyle \mu = \mu_{\mathrm{ideal}}+\mu_{\mathrm{excess}}}$, ${\displaystyle \mu_\text{ideal} = \mu^\ominus + \text{RT}\ln\chi}$ and $\mu_\text{excess}=\text{RT}\ln\chi$)
+${\displaystyle \mu = \mu_{\mathrm{ideal}}+\mu_{\mathrm{excess}}}$,
+${\displaystyle \Rightarrow \mu_\text{ideal} = \mu^\ominus + \text{RT}\ln\chi}$, and
+$\displaystyle \Rightarrow \mu_\text{excess}=\text{RT}\ln\gamma$
+$\displaystyle \Rightarrow \mu=\mu^\ominus + \text{RT}\ln\chi + \text{RT}\ln\gamma$
+$\displaystyle \Rightarrow \mu=\mu^\ominus + \text{RT}\ln\chi\gamma$
+
+${\displaystyle \therefore \mu _{\mathrm {B} }=\mu _{\mathrm {B} }^{\ominus }+\text {RT} \ln a_{\mathrm {B}}}$,
 
 when ${\displaystyle a_{\mathrm {B} }}$ is the **activity** of the substance in the mixture,
 
 ${\displaystyle a_{\mathrm {B} }=\chi_{\mathrm {B} }\gamma _{\mathrm {B} }}$,
 
-where ${\displaystyle \gamma _{\mathrm {B} }}$ is the **activity coefficient**, which may itself depend on ${\displaystyle \chi_{\mathrm {B} }}$. As ${\displaystyle \gamma _{\mathrm {B} }}$ approaches 1, the substance behaves as if it were ideal.
+${\displaystyle \gamma _{\mathrm {B} }}$ will be the **activity coefficient**, which may itself depend on ${\displaystyle \chi_{\mathrm {B} }}$. As ${\displaystyle \gamma _{\mathrm {B} }}$ approaches 1, the substance behaves as if it were ideal.
 
 For instance, if ${\displaystyle \gamma _{\mathrm {B} }}$ ≈ 1, then [[Raoult's Law]] is accurate. For ${\displaystyle \gamma _{\mathrm {B} }}$ > 1 and ${\displaystyle \gamma _{\mathrm {B} }}$ < 1, substance B shows positive and negative deviation from Raoult's law, respectively. A positive deviation implies that substance B is more volatile.
 
