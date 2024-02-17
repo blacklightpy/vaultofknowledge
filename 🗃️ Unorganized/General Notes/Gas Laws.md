@@ -1,0 +1,13 @@
+- Boyle's Law
+- Charles's Law
+- Gay-Lussac's Law
+- Combined Gas Law
+- Avogadro's Law
+- Ideal Gas Law
+## Other Laws
+- Graham's Law
+- Dalton's Law of Partial Pressures
+- Amagat's Law of Partial Volumes
+- [[Raoult's Law]]
+- Henry's Law
+- Real Gas Law by van der Waals

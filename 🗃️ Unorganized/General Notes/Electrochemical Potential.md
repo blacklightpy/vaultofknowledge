@@ -32,5 +32,6 @@ ${\displaystyle E_{\text{reduction}}=E_{\text{reduction}}^{\ominus }-\frac{\text
 where $\displaystyle \text{Q}_\text{r}$ is the reaction quotient.
 
 $\displaystyle \text{Q}_\text{r} = \text{ln}(\frac{\alpha_\text{reduction}}{\alpha_\text{oxidation}}) = \frac{\text{[Reductant]}}{\text{[Oxidant]}}$
+
 # Electrochemical Series
 Since the standard electrode potential 
