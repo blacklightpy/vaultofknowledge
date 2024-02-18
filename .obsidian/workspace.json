@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "080276fa68d70567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -304,6 +291,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "webpage-html-export:Export Vault to HTML": false
     }
+  },
+  "floating": {
+    "id": "2d311040981a604e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "34acd35c93875510",
+        "type": "window",
+        "children": [
+          {
+            "id": "35f3392b9191e86b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "080276fa68d70567",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 22,
+        "y": 78,
+        "width": 605,
+        "height": 922,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "080276fa68d70567",
   "lastOpenFiles": [
