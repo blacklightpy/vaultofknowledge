@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "080276fa68d70567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -292,48 +305,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "2d311040981a604e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "34acd35c93875510",
-        "type": "window",
-        "children": [
-          {
-            "id": "35f3392b9191e86b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "080276fa68d70567",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 22,
-        "y": 78,
-        "width": 605,
-        "height": 922,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "080276fa68d70567",
   "lastOpenFiles": [
     "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
     "🗺️ World Exploration/Food and Drinks/Coffee.md",
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗺️ World Exploration/Food and Drinks/Kitchen Equipment.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
@@ -364,7 +340,6 @@
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electronegativity.md",
     "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "_images/Pasted image 20240216063322.png",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
     "World Building/Science and Engineering/Engineering",
