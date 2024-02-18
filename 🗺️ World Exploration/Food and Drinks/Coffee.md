@@ -29,7 +29,10 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Vienna Coffee
 - Coconut Latte
 ## Starbucks Coffee
-### Frappuccino
+They basically have hot/cold coffee/tea/drinks, and then Frappuccino blends.
+
+Basically they are either of the main coffee types
+### Frappuccino (Blended Beverages)
 - Coffee or cream base drinks, blended with ice and syrups, topped with whipped cream and/or spices.
 - It may also include blended Starbucks cold drinks.
 - It is high in sugar
