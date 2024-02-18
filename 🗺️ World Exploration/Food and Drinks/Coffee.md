@@ -38,8 +38,9 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Ground Coffee
 - Instant Coffee (Soluble, extracted after brewing and evaporating water)
 ## Syrup
+- (Recipes are free)
 # Equipment
-### Brewing Machine
+### Brewing Equipment
 - French Press (For flavour-rich cup of coffee)
 - Espresso Machine (For espressos)
 - Pour-over / Drip Coffee Maker (Purer Taste, water flows over coffee beans)
