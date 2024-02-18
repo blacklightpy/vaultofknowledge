@@ -1,3 +1,5 @@
+# Resources
+- [[Tea Leaf Processing]]
 # Ingredients
 All tea (except herbal tea) is made from the same plant, *Camellia sinensis*. Different types of tea are based on the processing that's done on them.
 
@@ -19,6 +21,7 @@ All tea (except herbal tea) is made from the same plant, *Camellia sinensis*. Di
 - Matcha (More caffeine rich flavour of green tea)
 - Mate Tea
 - Rooibos Tea
+- Fermented Tea
 - Yellow Tea
 - Herbal Tea (Caffeine free)
 	- Hibiscus
