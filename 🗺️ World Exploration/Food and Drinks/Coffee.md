@@ -3,6 +3,7 @@ Coffee is a cherry fruit. Green coffe beans are the raw seeds which are processe
 - Types of Coffee: https://carmelbaycoffee.com/coffee-drinks/
 - [[Coffee Processing]]
 - [[Coffee Brands]]
+- [[Coffee Grading]]
 # Third-Wave Coffee Drinks
 It refers to considering coffee as an aritsanal food, like wine. It involves appreciating the nuances of flavour, sourcing of the beans and the method of preparation.
 # Types

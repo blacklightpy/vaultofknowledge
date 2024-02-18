@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee Grading.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee Grading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee Grading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md"
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee Grading.md"
               }
             }
           },
@@ -320,9 +320,10 @@
   },
   "active": "de19b19409acda6f",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Food and Drinks/Tea.md",
     "🗺️ World Exploration/Food and Drinks/Coffee.md",
+    "🗺️ World Exploration/Food and Drinks/Coffee Grading.md",
     "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
+    "🗺️ World Exploration/Food and Drinks/Tea.md",
     "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
     "🗺️ World Exploration/Food and Drinks/Coffee Processing.md",
     "🗺️ World Exploration/Food and Drinks/Tea Leaf Processing.md",
@@ -356,7 +357,6 @@
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
     "World Building/Science and Engineering/Engineering",
     "World Building/Science and Engineering",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "_images/Frequency and Loudness Response of the Ear.png",
     "_images/Frequency Areas of the Cochlea.png",
     "_images/Light penetration in water.png",
