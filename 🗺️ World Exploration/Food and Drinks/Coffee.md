@@ -8,8 +8,8 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 # Types
 
 ### Main Types
-- Regular Filter Coffee (Running hot water over Coffee)
-- Espresso (Forcing pressurized hot water through finely ground coffee beans)
+- Regular Filter Coffee (Pouring hot water slowly over ground coffee)
+- Espresso (Concentrated, Forcing pressurized hot water through ground coffee)
 - Cortado (1:1 ratio of Espresso, Milk)
 - Cappuccino (1:1:1 ratio of Espresso, Steamed Milk, Frothed Milk)
 - Americano (1:2 ratio of Espresso:Water)
@@ -34,7 +34,7 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Arabica Coffee Beans (Smooth, Less Bitter)
 - Robusta Coffee Beans (Strong, Caffeine-Rich)
 ### Available as
-- Whole Beans (Unroasted / Roasted to a degree)
+- Whole Beans (Unroasted / Roasted to a degree; for fresh/customized grinding)
 - Ground Coffee (Coarse, Medium, Fine, Extra-fine)
 - Instant Coffee (Soluble, extracted after brewing and evaporating water)
 ## Syrup
@@ -46,7 +46,7 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Pour-over / Drip Coffee Maker (Purer Taste, water flows over coffee beans)
 - Filter (Indian Style)
 - Percolator (Device for what Indians pour from one glass to another)
-- Moka Pot (Italian, higher pressure than drip coffee)
+- Moka Pot (Pressurized steam driven through ground coffee)
 
 > [!NOTE]
 > Most countries either pour hot water over filter or percolate, but in India we add coffee to hot water, then filter and then percolate for uniformly distributing the taste.
