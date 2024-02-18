@@ -130,15 +130,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Self-Care/Health and Fitness/Placeholder Note.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Tea.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad9cfbf28bd74a92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -212,7 +221,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Self-Care/Health and Fitness/Placeholder Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +237,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Self-Care/Health and Fitness/Placeholder Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,9 +247,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🔮 World Building/Self-Care/Health and Fitness/Placeholder Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -291,17 +296,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "ad9cfbf28bd74a92",
   "lastOpenFiles": [
+    "🗺️ World Exploration/Food and Drinks/Tea.md",
+    "🗺️ World Exploration/Food and Drinks/Coffee.md",
+    "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
+    "🔮 World Building/Marketplace and Creations/Food",
+    "🔮 World Building/Self-Care/Health and Fitness/Placeholder Note.md",
     "🔮 World Building/Self-Care/Cleaning and Housekeeping/Placeholder Note.md",
     "🗺️ World Exploration/Beauty and Fashion/Placeholder Note.md",
-    "🔮 World Building/Self-Care/Health and Fitness/Placeholder Note.md",
-    "🗺️ World Exploration/Food and Drinks/Tea.md",
     "🗺️ World Exploration/Beauty and Fashion",
     "🔮 World Building/Self-Care/Health and Fitness",
     "🔮 World Building/Self-Care/Cleaning and Housekeeping",
     "🔮 World Building/Self-Care",
-    "🗺️ World Exploration/Food and Drinks/Coffee.md",
     "🗺️ World Exploration/Food and Drinks",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
@@ -323,13 +330,11 @@
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
     "World Building/Science and Engineering/Engineering",
     "World Building/Science and Engineering",
-    "World Building",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
     "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
     "_images/Frequency and Loudness Response of the Ear.png",
     "_images/Frequency Areas of the Cochlea.png",
     "_images/Light penetration in water.png",
