@@ -141,12 +141,17 @@
             "id": "ad9cfbf28bd74a92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -221,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +254,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md"
+              }
             }
           },
           {
@@ -296,11 +305,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad9cfbf28bd74a92",
+  "active": "de19b19409acda6f",
   "lastOpenFiles": [
     "🗺️ World Exploration/Food and Drinks/Tea.md",
-    "🗺️ World Exploration/Food and Drinks/Coffee.md",
+    "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
     "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
+    "🗺️ World Exploration/Food and Drinks/Coffee.md",
     "🔮 World Building/Marketplace and Creations/Food",
     "🔮 World Building/Self-Care/Health and Fitness/Placeholder Note.md",
     "🔮 World Building/Self-Care/Cleaning and Housekeeping/Placeholder Note.md",
@@ -334,7 +344,6 @@
     "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
     "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "_images/Frequency and Loudness Response of the Ear.png",
     "_images/Frequency Areas of the Cochlea.png",
     "_images/Light penetration in water.png",

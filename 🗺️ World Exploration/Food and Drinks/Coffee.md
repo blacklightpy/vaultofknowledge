@@ -25,7 +25,10 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Vienna Coffee
 - Coconut Latte
 # Ingredients
+
+Note: What's on the market maybe blended coffee, and I found that most are not either Arabica or Robusta, but rather a mix of both.
 ## Coffee Beans
+
 - Arabica Coffee Beans (Smooth, Less Bitter)
 - Robusta Coffee Beans (Strong, Caffeine-Rich)
 ## Syrup
