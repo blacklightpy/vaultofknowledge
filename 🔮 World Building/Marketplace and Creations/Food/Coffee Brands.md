@@ -1,7 +1,4 @@
-# Forms
-- 
 # Local (Kerala, India)
-
 Indian filter coffee usually comes mixed with chicory, a herb.
 
 - BRU Coffee (What mom buys)
