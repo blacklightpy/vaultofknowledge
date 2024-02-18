@@ -28,6 +28,18 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Lungo
 - Vienna Coffee
 - Coconut Latte
+## Starbucks Coffee
+### Frappuccino
+- Coffee or cream base drinks, blended with ice and syrups, topped with whipped cream and/or spices.
+- It may also include blended Starbucks cold drinks.
+- It is high in sugar
+#### Frappuccino Flavours
+- Mocha
+- Vanilla
+- Coffee
+- Toasted White Chocolate Mocha
+- Pumpkin Spice
+- Caramel
 # Ingredients
 
 **Note:** What's on the market maybe pre-grounded coffee, and I found that most are not either Arabica or Robusta, but rather a mix of both. Starbucks does the same thing, but with better descriptions.
@@ -39,7 +51,8 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Ground Coffee (Coarse, Medium, Fine, Extra-fine)
 - Instant Coffee (Soluble, extracted after brewing and evaporating water)
 ## Syrup
-- (Recipes are free)
+- (Recipes are free, or you can get from store)
+	- Basically boil sugar + water (+flavour bean) then heat for 5 min and cool it
 # Equipment
 ### Brewing Equipment
 - French Press (For flavour-rich cup of coffee)
