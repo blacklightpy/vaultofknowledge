@@ -1,17 +1,28 @@
+# Forms
+- 
 # Local (Kerala, India)
-## Ground Coffee
+
+Indian filter coffee usually comes mixed with chicory, a herb.
+
 - BRU Coffee (What mom buys)
-- Eastern Adimali Kappi What mom buys)
-	- 55% Coffee + 45% Chicory blend
+	- Filter Coffee
+		- Green Label (53% Coffee + 47% Chicory)
+		- Select
+	- Instant Coffee
+		- Gold 
+		- Instant (100% Coffee Arabica+Robusta)
+- Eastern Adimali Kappi (What mom buys)
+	- 55% Coffee + 45% Chicory
 	- Unique Blend of Arabica + Robusta beans
 # Global
+- Nescafe
 - Starbucks
 
 > [!NOTE]
-> What's on the market maybe pre-grounded coffee, and I found that most are not either Arabica or Robusta, but rather a mix of both. Starbucks does the same thing, but with better descriptions.
+> I found that most of what's on the market are not either Arabica or Robusta, but rather a mix of both. Starbucks does the same, but with a bit more attention and better descriptions.
 > 
 > Example of Starbucks Christmas Blend Ground:
-> > Back again and filled with joy, Starbucks® Christmas Blend Ground is here to brighten up any celebration. Our beloved recipe combines perfectly aged Sumatran coffee with dark-roasted beans from Guatemala, Colombia and Papua New Guinea. The rich, robust flavor complements traditions new and old, with sweet, velvety notes of spiced chocolate and spruce tips. With each cup comes a way to make the holidays all your own.
+> > Back again and filled with joy, Starbucks® Christmas Blend Ground is here to brighten up any celebration. Our beloved recipe combines perfectly aged **Sumatran coffee** with **dark-roasted beans from Guatemala, Colombia and Papua New Guinea**. The rich, robust flavor complements traditions new and old, with sweet, velvety notes of spiced chocolate and spruce tips. With each cup comes a way to make the holidays all your own.
 
 
 
