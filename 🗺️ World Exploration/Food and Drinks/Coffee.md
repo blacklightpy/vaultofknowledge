@@ -36,7 +36,7 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 ### Available as
 - Whole Beans (Unroasted / Roasted to a degree)
 - Ground Coffee
-- Instant Coffee (Soluble)
+- Instant Coffee (Soluble, extracted after brewing and evaporating water)
 ## Syrup
 # Equipment
 ### Brewing Machine
