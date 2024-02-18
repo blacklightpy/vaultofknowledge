@@ -67,14 +67,14 @@ It is also high in sugar.
 
 The level to which you roast the whole beans sets the flavour of coffee. Starbucks gives three grades of roasts (Blonde, Medium, Dark).
 
-The size to which you grind the beans sets the suitable brewing method.
+The size to which you grind the beans sets the suitable brewing method. It also sets the level of extraction you get. The longer method you use, the coarser the coffee should be.
 ## Syrup
 - (Recipes are free, or you can get from store)
 	- Basically boil sugar + water (+flavour bean) then heat for 5 min and cool it
 # Equipment
 ### Brewing Equipment
-- French Press (For flavour-rich cup of coffee; Needs )
-- Espresso Machine (For espressos; Needs fine grind)
+- French Press (For flavour-rich cup of coffee)
+- Espresso Machine (For espressos)
 - Pour-over / Drip Coffee Maker (Purer Taste, water flows over coffee beans)
 - Filter (Indian Style)
 - Percolator (Device for what Indians pour from one glass to another)
