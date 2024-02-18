@@ -31,11 +31,14 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 ## Starbucks Coffee
 They basically have hot/cold coffee/tea/drinks, and then Frappuccino blends.
 
-Basically they are either of the main coffee types
+Basically they are either of the main coffee types with flavour variations (except for the Nitrogen infusion I found, in the Nitro variants).
+
+Also some names are Spanish (eg. "Con Panna" means "with cream).
 ### Frappuccino (Blended Beverages)
-- Coffee or cream base drinks, blended with ice and syrups, topped with whipped cream and/or spices.
-- It may also include blended Starbucks cold drinks.
-- It is high in sugar
+They are Coffee or cream base drinks, blended with ice and syrups, topped with whipped cream and/or spices.
+
+It may also include blended Starbucks cold drinks.
+It is also high in sugar.
 #### Frappuccino Flavours
 - Mocha
 - Vanilla
@@ -44,7 +47,6 @@ Basically they are either of the main coffee types
 - Pumpkin Spice
 - Caramel
 # Ingredients
-
 **Note:** What's on the market maybe pre-grounded coffee, and I found that most are not either Arabica or Robusta, but rather a mix of both. Starbucks does the same thing, but with better descriptions.
 ## Coffee Beans
 - Arabica Coffee Beans (Smooth, Less Bitter)
@@ -66,10 +68,12 @@ Basically they are either of the main coffee types
 - Moka Pot (Pressurized steam driven through ground coffee)
 
 > [!NOTE]
-> Most countries either pour hot water over filter or percolate, but in India we add coffee to hot water, then filter and then percolate for uniformly distributing the taste.
+> Most countries seem to either pour hot water over filter or percolate, but in India we add coffee to hot water, then filter and then percolate for uniformly distributing the taste.
 ### Grinder
 - Blade Grinder
 - Burr Grinder (Gets consistent grind)
+### Other
+- Frother (for frothing milk)
 # Tips
 ### Brewing
 - Water Temperature (Sets the degree of extraction)
