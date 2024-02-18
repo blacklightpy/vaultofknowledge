@@ -28,6 +28,8 @@ All tea (except herbal tea) is made from the same plant, *Camellia sinensis*. Di
 	- Hibiscus
 	- Peppermint, etc.
 # Drinks
+- Dark Tea (Sulaimani)
+- Latte Tea
 - Iced Tea
 
 Starbucks uses Tazo Tea brand.
