@@ -1,5 +1,6 @@
 # Resources
 - [[Tea Leaf Processing]]
+- [[Tea Brands]]
 # Ingredients
 All tea (except herbal tea) is made from the same plant, *Camellia sinensis*. Different types of tea are based on the processing that's done on them.
 

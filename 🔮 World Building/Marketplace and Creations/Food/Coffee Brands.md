@@ -10,3 +10,15 @@
 Filter Coffee
 Instant Coffee
 Espresso (Pre-Ground/Roasted)
+
+##Starbucks Coffee
+
+###Frappuccino
+Coffee or Cream base drinks
+####Flavours
+Mocha
+Vanilla
+Coffee
+Toasted White Chocolate Mocha
+Pumpkin Spice
+Caramel

@@ -7,3 +7,7 @@
 - Sweltering / Yellowing (Unique to Yellow Tea)
 - Rolling / Shaping (Removes sap and juices to ooze out)
 - Drying (To make it ready for distribution)
+- Aging / Curing (Damping to add or enhance flavour, etc.)
+- Sorting (Removing stems, etc. and classifying by colour, shape etc.)
+# Type-specific
+https://en.wikipedia.org/wiki/Tea_processing#Type-specific
