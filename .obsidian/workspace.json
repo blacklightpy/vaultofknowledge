@@ -117,7 +117,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Coffee.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0c02c312c272e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗺️ World Exploration/Food and Drinks/Tea.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Coffee.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Tea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Coffee.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Tea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Coffee.md"
+                "file": "🗺️ World Exploration/Food and Drinks/Tea.md"
               }
             }
           },
@@ -279,9 +292,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de19b19409acda6f",
+  "active": "c0c02c312c272e00",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Coffee.md",
+    "🗺️ World Exploration/Food and Drinks/Coffee.md",
+    "🗺️ World Exploration/Food and Drinks/Tea.md",
+    "🗺️ World Exploration/Food and Drinks",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
@@ -312,7 +327,6 @@
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/Four-vector.md",
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
-    "🗃️ Unorganized/General Notes/How to Question Physics.md",
     "_images/Frequency and Loudness Response of the Ear.png",
     "_images/Frequency Areas of the Cochlea.png",
     "Z2-Rough Notes 2/General",
@@ -320,7 +334,6 @@
     "_images/Light penetration in water.png",
     "_assets/favicon.ico",
     "🗺️ World Exploration/Fun and Activities/Martial Arts",
-    "World Exploration/Fun and Activities",
     "_images/Knitting vs Crocheting.png",
     "_images/Force Graph.png",
     "_images/Pasted image 20240106180105.png",

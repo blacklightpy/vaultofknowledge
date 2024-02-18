@@ -2,11 +2,7 @@
 - Types of Coffee: https://carmelbaycoffee.com/coffee-drinks/
 # Third-Wave Coffee Drinks
 It refers to considering coffee as an aritsanal food, like wine. It involves appreciating the nuances of flavour, sourcing of the beans and the method of preparation.
-# Ingredients
-## Coffee Beans
-- Arabica Coffee Beans (Smooth, Less Bitter)
-- Robusta Coffee Beans (Strong, Caffeine-Rich)
-## Syrup
+# Types
 
 ### Main Types
 - Regular Drip Coffee (Running hot water over Coffee)
@@ -28,7 +24,12 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Lungo
 - Vienna Coffee
 - Coconut Latte
-# Equipments
+# Ingredients
+## Coffee Beans
+- Arabica Coffee Beans (Smooth, Less Bitter)
+- Robusta Coffee Beans (Strong, Caffeine-Rich)
+## Syrup
+# Equipment
 ### Brewing Machine
 - French Press (For flavour-rich cup of coffee)
 - Espresso Machine (For espressos)
@@ -41,7 +42,3 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Water Temperature (Sets the degree of extraction)
 - Right Coffee to Water ratio
 - Brewing Time
-# Main Differences
-- Latte and Cappuccino
-	- They differ by the ratio of coffee, steamed milk and coffee
-	- A cappuccino has equal parts of all three, while a latte has more steamed milk and a small amount of foam.
