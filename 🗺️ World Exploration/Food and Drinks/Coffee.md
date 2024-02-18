@@ -33,7 +33,7 @@ They basically have hot/cold coffee/tea/drinks, and then Frappuccino blends.
 
 Basically they are either of the main coffee types with flavour variations (except for the Nitrogen infusion I found, in the Nitro variants).
 
-Also some names are Spanish (eg. "Con Panna" means "with cream).
+Also some names are Spanish (e.g. "Con Panna" means "with cream").
 ### Frappuccino (Blended Beverages)
 They are Coffee or cream base drinks, blended with ice and syrups, topped with whipped cream and/or spices.
 
@@ -46,13 +46,17 @@ It is also high in sugar.
 - Toasted White Chocolate Mocha
 - Pumpkin Spice
 - Caramel
-### Addons
+### Extra Addons
 - Hot/Cold Whipped Cream
 - Cold Foam
-- Flavour Syrup
-- 
+- Flavour Syrup (number of pumps)
+- Mocha Drizzle
+- Mocha Sauce
+- Caramel Drizzle
+- Matcha
+- Espresso Shot
 # Ingredients
-**Note:** What's on the market maybe pre-grounded coffee, and I found that most are not either Arabica or Robusta, but rather a mix of both. Starbucks does the same thing, but with better descriptions.
+**Note:** I found that most on the market are not either Arabica or Robusta, but rather a mix of both. Starbucks does the same thing, but with more attention and better descriptions.
 ## Coffee Beans
 - Arabica Coffee Beans (Smooth, Less Bitter)
 - Robusta Coffee Beans (Strong, Caffeine-Rich)
