@@ -5,7 +5,7 @@ Coffee is a cherry fruit. Green coffe beans are the raw seeds which are processe
 - [[Coffee Brands]]
 - [[Coffee Size Grading in India]]
 # Third-Wave Coffee Drinks
-It refers to considering coffee as an aritsanal food, like wine. It involves appreciating the nuances of flavour, sourcing of the beans and the method of preparation.
+It refers to considering coffee as an aritsanal food, like wine. It involves appreciating the nuances of flavour, sourcing of the beans and the method of preparation. The "third-wave" name is copied from the "three waves of feminism".
 # Types
 
 ### Main Types
@@ -46,6 +46,11 @@ It is also high in sugar.
 - Toasted White Chocolate Mocha
 - Pumpkin Spice
 - Caramel
+### Addons
+- Hot/Cold Whipped Cream
+- Cold Foam
+- Flavour Syrup
+- 
 # Ingredients
 **Note:** What's on the market maybe pre-grounded coffee, and I found that most are not either Arabica or Robusta, but rather a mix of both. Starbucks does the same thing, but with better descriptions.
 ## Coffee Beans
