@@ -35,7 +35,7 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Robusta Coffee Beans (Strong, Caffeine-Rich)
 ### Available as
 - Whole Beans (Unroasted / Roasted to a degree)
-- Ground Coffee
+- Ground Coffee (Coarse, Medium, Fine, Extra-fine)
 - Instant Coffee (Soluble, extracted after brewing and evaporating water)
 ## Syrup
 - (Recipes are free)
