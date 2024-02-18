@@ -84,7 +84,7 @@ It is also high in sugar.
 ### Other
 - Frother (for frothing milk)
 # Tips
-### Brewing
+### Brewing (Setting Flavour Extraction Level)
 - Water Temperature (Sets the degree of extraction)
 - Right Coffee to Water ratio
 - Brewing Time
