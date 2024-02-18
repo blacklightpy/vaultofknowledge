@@ -5,7 +5,7 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 # Types
 
 ### Main Types
-- Regular Drip Coffee (Running hot water over Coffee)
+- Regular Filter Coffee (Running hot water over Coffee)
 - Espresso (Forcing pressurized hot water through finely ground coffee beans)
 - Cortado (1:1 ratio of Espresso, Milk)
 - Cappuccino (1:1:1 ratio of Espresso, Steamed Milk, Frothed Milk)
@@ -37,6 +37,12 @@ Note: What's on the market maybe pre-grounded coffee, and I found that most are 
 - French Press (For flavour-rich cup of coffee)
 - Espresso Machine (For espressos)
 - Pour-over / Drip Coffee Maker (Purer Taste, water flows over coffee beans)
+- Filter (Indian Style)
+- Percolator (Device for what Indians pour from one glass to another)
+- Moka Pot (Italian, higher pressure than drip coffee)
+
+> [!NOTE]
+> Most countries either heat, filter or percolate, but in India we heat, then filter and then percolate for uniformly distributing the taste.
 ### Grinder
 - Blade Grinder
 - Burr Grinder (Gets consistent grind)

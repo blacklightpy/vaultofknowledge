@@ -5,3 +5,8 @@
 	- 55% Coffee + 45% Chicory blend
 	- Unique Blend of Arabica + Robusta beans
 # Global
+
+
+Filter Coffee
+Instant Coffee
+Espresso (Pre-Ground/Roasted)
