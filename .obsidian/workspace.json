@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md"
+                "file": "🗺️ World Exploration/Food and Drinks/Coffee.md"
               }
             }
           },
@@ -318,13 +318,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad9cfbf28bd74a92",
+  "active": "de19b19409acda6f",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Food and Drinks/Coffee.md",
-    "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
-    "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
     "🗺️ World Exploration/Food and Drinks/Tea.md",
+    "🗺️ World Exploration/Food and Drinks/Coffee.md",
+    "🗺️ World Exploration/Food and Drinks/Coffee Processing.md",
     "🗺️ World Exploration/Food and Drinks/Tea Leaf Processing.md",
+    "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
+    "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
     "🗺️ World Exploration/Beauty and Fashion/Placeholder Note.md",
     "🗺️ World Exploration/Food and Drinks/Kitchen Equipment.md",
     "🔮 World Building/Marketplace and Creations/Food",
@@ -356,7 +357,6 @@
     "World Building/Science and Engineering/Engineering",
     "World Building/Science and Engineering",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🤠 Personal/Creative and Recreational/Metal Gear Saga.md",
     "_images/Frequency and Loudness Response of the Ear.png",
     "_images/Frequency Areas of the Cochlea.png",
     "_images/Light penetration in water.png",

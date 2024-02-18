@@ -1,5 +1,7 @@
+Coffee is a cherry fruit. Green coffe beans are the raw seeds which are processed and roasted to a certain taste profile before they are used to make the coffee drink.
 # Resources
 - Types of Coffee: https://carmelbaycoffee.com/coffee-drinks/
+- [[Coffee Processing]]
 - [[Coffee Brands]]
 # Third-Wave Coffee Drinks
 It refers to considering coffee as an aritsanal food, like wine. It involves appreciating the nuances of flavour, sourcing of the beans and the method of preparation.
@@ -31,6 +33,10 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 ## Coffee Beans
 - Arabica Coffee Beans (Smooth, Less Bitter)
 - Robusta Coffee Beans (Strong, Caffeine-Rich)
+### Available as
+- Whole Beans (Unroasted / Roasted to a degree)
+- Ground Coffee
+- Instant Coffee
 ## Syrup
 # Equipment
 ### Brewing Machine
@@ -42,7 +48,7 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 - Moka Pot (Italian, higher pressure than drip coffee)
 
 > [!NOTE]
-> Most countries either heat, filter or percolate, but in India we heat, then filter and then percolate for uniformly distributing the taste.
+> Most countries either pour hot water over filter or percolate, but in India we add coffee to hot water, then filter and then percolate for uniformly distributing the taste.
 ### Grinder
 - Blade Grinder
 - Burr Grinder (Gets consistent grind)
