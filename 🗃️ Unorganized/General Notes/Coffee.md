@@ -9,15 +9,16 @@ It refers to considering coffee as an aritsanal food, like wine. It involves app
 ## Syrup
 
 ### Main Types
-- Espresso (Strong Coffee, No Milk)
-- Cortado (Espresso with equal amounts of Milk)
-- Cappuccino (Equal amounts of Espresso, Steamed Milk, Frothed Milk)
-- Americano (Diluted Espresso)
+- Regular Drip Coffee (Running hot water over Coffee)
+- Espresso (Forcing pressurized hot water through finely ground coffee beans)
+- Cortado (1:1 ratio of Espresso, Milk)
+- Cappuccino (1:1:1 ratio of Espresso, Steamed Milk, Frothed Milk)
+- Americano (1:2 ratio of Espresso:Water)
 - Flat White (Espresso with less Milk)
-- Latte (1/3rd Espresso, 2/3rd Milk + Milk Foam Topping)
-- Mocha (Latte with Chocolate (as Cocoa Powder or Chocolate Syrup))
-- Macchiato (Espresso with a small amount of milk on top)
-- Ristretto
+- Latte (1:2 ratio of Espresso, Milk + Milk Foam Topping)
+- Mocha (Latte + Chocolate, added as Cocoa Powder / Chocolate Syrup)
+- Macchiato (Espresso + a small amount of milk on top)
+- Ristretto (Espresso shot brewed with half the amount of water, less bitter and has more flavour)
 ### Specific Types
 - Black Eye
 - Red Eye
