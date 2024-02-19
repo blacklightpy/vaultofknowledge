@@ -40,6 +40,7 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{Li (s)}$ (Used in Solid State Batteries, in development, Maximum theoretical specific charge of about 3863 $\text{mAh/g}$)
 ## Electrolyte
 - $\text{LiPF}_\text{6}$ salts dissolved in organic solvents like EC, PC, DMC, EMC, DEC
+- The electrolyte's characteristics also sets the maximum allowed voltage (decomposition voltage), beyond which the electrolyte breaks down.
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.
