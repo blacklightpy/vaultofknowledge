@@ -11,6 +11,7 @@ The electrolyte is also protected from degradation by interaction with electrons
 - [[Comparing Performances of Battery Technologies]]
 ## Cathode
 - $\text{LiMO}$ (MO = Metal Oxide)
+	- The metals are 3d transition metals on the right end due their highly positive electronegativity values.
 
 **Reaction During Charging:**
 $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\ominus_\text{cathode} = -\text{1.0 V}$)
