@@ -38,6 +38,8 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{Li}_\text{4}\text{Ti}_\text{5}\text{O}_\text{12}$ / $\text{Li}_\text{2}\text{TiO}_\text{3}$ (Durable, used in LTO)
 - $\text{Li}_\text{15}\text{Si}_\text{4}$ (Used in Solid State Batteries, In development, Maximum theoretical specific charge of about 3600 $\text{mAh/g}$. Each crystalline Silicon atom can hold about 3.75 Lithium ions compared to Graphite, which can only hold 1 Lithium ion for every 6 Carbon atoms at best.)
 - $\text{Li (s)}$ (Used in Solid State Batteries, in development, Maximum theoretical specific charge of about 3863 $\text{mAh/g}$)
+## Electrolyte
+- $\text{LiPF}_\text{6}$ salts dissolved in organic solvents like EC, PC, DMC, EMC, DEC
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.
