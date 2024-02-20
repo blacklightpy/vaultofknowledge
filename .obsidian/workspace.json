@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb42952bd138e5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗺️ World Exploration/Literature/Lingua Franca.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+                "file": "🗺️ World Exploration/Literature/Lingua Franca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+                "file": "🗺️ World Exploration/Literature/Lingua Franca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md"
+                "file": "🗺️ World Exploration/Literature/Lingua Franca.md"
               }
             }
           },
@@ -292,8 +305,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04a9098b55a81d39",
+  "active": "bb42952bd138e5fd",
   "lastOpenFiles": [
+    "🗺️ World Exploration/Literature/Lingua Franca.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
@@ -325,7 +339,6 @@
     "🔮 World Building/Science and Engineering/Chemistry/Physical/van 't Hoff factor.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Dalton's Law of Partial Pressures.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Phosphor.md",
     "_images/Pasted image 20240216063322.png",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
