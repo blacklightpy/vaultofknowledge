@@ -1,8 +1,8 @@
 They work using a *Lithium Metal Oxide* **cathode**, which is oxidized during charging and that forms the **anode**, which is comprised of *Lithium Ions* held in place by a *Graphite Lattice* and *Electrons*.
 
-==**Exceptions:** *Lithium Titanate* batteries replace the *Graphite* **anode** with *Titanium Oxide*. *Solid State Li-Ion* batteries change the **anode** to either *crystalline Silicon* or *solid Lithium* and may change the **cathode** to *Lithium Sulphide*.
+==**Exceptions:** *Lithium Titanate* batteries replace the *Graphite* **anode** with *Titanium Oxide*. *Solid State Li-Ion* batteries change the **anode** to either *crystalline Silicon* or *solid Lithium* and may change the **cathode** to *Lithium Sulphide*.==
 
-The **electrolyte** is made up of various Lithium salts.
+The **electrolyte** is a solution made of *Lithium salts* and *organic solvents.*
 
 The electrolyte is also protected from degradation by interaction with electrons by the formation of a *Solid Electrolyte Interface (SEI)*.
 ## Resources
@@ -40,8 +40,32 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{Li}_\text{15}\text{Si}_\text{4}$ (Used in Solid State Batteries, In development, Maximum theoretical specific charge of about 3600 $\text{mAh/g}$. Each crystalline Silicon atom can hold about 3.75 Lithium ions compared to Graphite, which can only hold 1 Lithium ion for every 6 Carbon atoms at best.)
 - $\text{Li (s)}$ (Used in Solid State Batteries, in development, Maximum theoretical specific charge of about 3863 $\text{mAh/g}$)
 ## Electrolyte
-- $\text{LiPF}_\text{6}$ salts dissolved in organic solvents like EC, PC, DMC, EMC, DEC
-- The electrolyte's characteristics also sets the maximum allowed voltage (decomposition voltage), beyond which the electrolyte breaks down.
+- The electrolyte is the medium through which the ions move between electrodes.
+- Its characteristics also sets the maximum allowed voltage (decomposition voltage), beyond which the electrolyte breaks down.
+- $\text{LiX}$ ($\text X$ = Anion)
+### Examples of Salts
+- $\text{LiPF}_\text{6}$ (most common)
+- $\text{LiBr}$
+- $\text{LiAsF}_\text{6}$
+- $\text{LiBF}\text{4}$
+- $\text{LiAlCl}_\text{4}$
+- $\text{LiCF}_\text{3}\text{SO}_\text{3}$
+- $\text{LiN(CF}_\text{2}\text{SO}_\text{3}\text{)}_\text{2}$
+- $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$
+### Example of organic solvents
+#### Cyclic Esters
+- Ethylene Carbonate (EC)
+- Propylene Carbonate (PC)
+- γ-Butyrolactone (BL)
+#### Linear Esters
+- DMC
+- EMC
+- DEC
+
+- 
+
+cyclic esters (ethylene carbonate (EC)
+propylene carbonate (PC), γ-butyrolactone (BL)), linear esters and cyclic ethers (2-methyltetrahydrofuran, 1-3 dioxolane), and linear ethers (1,2-dimethoxyethane). 
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.
