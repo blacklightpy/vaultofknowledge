@@ -19,11 +19,11 @@ $\text{LiMO} \rightarrow \text{MO} + \text{Li}^+ + \text{e}^-$ ($-\text{E}^\omin
 ### Examples of Cathode Materials
 | Battery Type | Abbreviation | Cathode |
 | --- | --- | --- |
-| Lithium Cobalt Oxide | LCO | $\text{LiCoO}_\text{2}$ |
+| Lithium Cobalt Oxide | LCO | $\text{LiCo(III)O}_\text{2}$ |
 | Lithium Manganese Oxide | LMO | $\text{LiMn}_\text{2}\text{O}_\text{4}$ / $\text{LiMnO}_\text{2}$ |
-| Lithium Iron Phosphate | LFP | $\text{LiFePO}_\text{4}$ |
+| Lithium Iron Phosphate | LFP | $\text{LiFe(II)PO}_\text{4}$ |
 | Lithium Nickel Manganese Cobalt | NMC | $\text{* LiNi}_\text{x}\text{Mn}_\text{y}\text{Co}_\text{z}\text{O}_\text{4}$ |
-| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{* LiNi}_\text{x}\text{Co}_\text{y}\text{Al}_\text{z}\text{O}_\text{2}$ |
+| Lithium Nickel Cobalt Aluminium Oxide | NCA | $\text{LiNi}_\text{0.8}\text{Co}_\text{0.15}\text{Al}_\text{0.05}\text{O}_\text{2}$ |
 | Lithium Titanate | LTO | $\text{LiMnO}_\text{2}$ (same as LMO) |
 | Lithium Sulfur (In Development) | Li-S | $\text{Li}_\text{2}\text{S}$ |
 $\text{* x+y+z = 1}$
@@ -56,9 +56,9 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{LiAsF}_\text{6}$ (Lithium Hexafluoroarsenate)
 - $\text{LiClO}_\text{4}$ (Lithium Perchlorate)
 - $\text{LiBF}\text{4}$ (Lithium Tetrafluoroborate)
-- $\text{LiAlCl}_\text{4}$
+- $\text{LiAlCl}_\text{4}$ (Lithium Tetrachloroaluminate)
 - $\text{LiCF}_\text{3}\text{SO}_\text{3}$ (Lithium Trifluoromethanesulfonate / Lithium Triflate)
-- $\text{LiN(CF}_\text{2}\text{SO}_\text{3}\text{)}_\text{2}$
+- $\text{LiN(CF}_\text{2}\text{SO}_\text{3}\text{)}_\text{2}$ (Lithium bis(trifluoromethanesulfonimide) / Lithium bis(triflate))
 - $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$
 
 hexafluoroarsenate (AsF6−), perchlorate (ClO4−), hexafluorophosphate (PF6−), tetrafluoroborate (BF4−), and trifluoromethanesulfonate or triflate (Tf) (CF3SO3−)
