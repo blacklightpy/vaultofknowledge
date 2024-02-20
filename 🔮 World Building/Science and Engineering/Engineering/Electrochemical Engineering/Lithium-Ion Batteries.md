@@ -57,14 +57,20 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{LiClO}_\text{4}$ (Lithium Perchlorate)
 - $\text{LiBF}\text{4}$ (Lithium Tetrafluoroborate)
 - $\text{LiAlCl}_\text{4}$ (Lithium Tetrachloroaluminate)
-- $\text{LiCF}_\text{3}\text{SO}_\text{3}$ (Lithium Trifluoromethanesulfonate / Lithium Triflate / Li-TFS)
-- $\text{LiN(CF}_\text{3}\text{SO}_\text{2}\text{)}_\text{2}$ (Lithium bis(trifluoromethanesulfonyl)imide / Lithium bistriflimide / Li-TFSI)
+- $\text{LiCF}_\text{3}\text{SO}_\text{3}$ (Lithium Trifluoromethanesulfonate / Lithium Triflate / Li-TFS / $\text{LiOTf}$)
+- $\text{LiN(CF}_\text{3}\text{SO}_\text{2}\text{)}_\text{2}$ (Lithium bis(trifluoromethanesulfonyl)imide / Lithium Bistriflimide / Li-TFSI / $\text{LiNTf}_\text{2}$)
 
 - $\text{LiN(CF}_\text{2}\text{SO}_\text{3}\text{)}_\text{2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide) ?
 - $\text{LiN(CF}_\text{3}\text{SO}_\text{3}\text{)}_\text{2}$(Lithium bis(trifluoromethylsulfonyl)imide / Lithium bistriflimide) ?
 - $\text{LiN(CF}_\text{2}\text{SO}_\text{2}\text{)}_\text{2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide / Li-DFSI) ?
 
-- $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$ (Lithium tris(trifluoromethanesulfonyl)methide / Lithium tristriflide / Li-TFSM)
+- $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$ (Lithium tris(trifluoromethanesulfonyl)methide / Lithium Triflide / Li-TFSM / )
+
+> [!NOTE]
+> Trifluoromethanesulfonate is also called Triflate, denoted as TF or -OTf
+> Trifluoromethanesulfonyl group is also called Triflyl, denoted as -Tf
+> Trifluoromethanesunfonyl)
+
 
 hexafluoroarsenate (AsF6−), perchlorate (ClO4−), hexafluorophosphate (PF6−), tetrafluoroborate (BF4−), and trifluoromethanesulfonate or triflate (Tf) (CF3SO3−)
 ### Example of organic solvents
