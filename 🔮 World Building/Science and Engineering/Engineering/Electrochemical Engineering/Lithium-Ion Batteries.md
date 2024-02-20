@@ -41,17 +41,27 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{Li (s)}$ (Used in Solid State Batteries, in development, Maximum theoretical specific charge of about 3863 $\text{mAh/g}$)
 ## Electrolyte
 - The electrolyte is the medium through which the ions move between electrodes.
-- Its characteristics also sets the maximum allowed voltage (decomposition voltage), beyond which the electrolyte breaks down.
+- Its *characteristics* (temperature range, passivation, conductivity, etc.) also sets the maximum allowed voltage (decomposition voltage), beyond which the electrolyte breaks down.
+- Other roles of the electrolyte:
+	- Coulombic efficiency (charge efficiency)
+	- Dendrite formation of Li–metal
+	- Degradation of electrolytes by the intermediate and final reaction products in $\text{Li–S}$ and $\text{Li–Air}$ batteries
 - A mixture of $\text{LiX}$ ($\text X$ = Anion) salts + Organic Solvent
+
+> [!NOTE]
+> Next-gen Lithium batteries like Li-metal, $\text{Li-S}$ and Li-air (metal-air) batteries need different types of salts for their changed properties.
 ### Examples of Salts
-- $\text{LiPF}_\text{6}$ (Lithium Hexafluorophosphate; main conductive salt, decomposes at high temperatures)
-- $\text{LiBr}$ (Lithium Bromate; common additive salt)
-- $\text{LiAsF}_\text{6}$
-- $\text{LiBF}\text{4}$
+- $\text{LiPF}_\text{6}$ (Lithium Hexafluorophosphate) (main conductive salt, decomposes at high temperatures, reacts with water traces to form toxic $\text{HF}$)
+- $\text{LiBr}$ (Lithium Bromate) (common additive salt)
+- $\text{LiAsF}_\text{6}$ (Lithium Hexafluoroarsenate)
+- $\text{LiClO}_\text{4}$ (Lithium Perchlorate)
+- $\text{LiBF}\text{4}$ (Lithium Tetrafluoroborate)
 - $\text{LiAlCl}_\text{4}$
-- $\text{LiCF}_\text{3}\text{SO}_\text{3}$
+- $\text{LiCF}_\text{3}\text{SO}_\text{3}$ (Lithium Trifluoromethanesulfonate / Lithium Triflate)
 - $\text{LiN(CF}_\text{2}\text{SO}_\text{3}\text{)}_\text{2}$
 - $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$
+
+hexafluoroarsenate (AsF6−), perchlorate (ClO4−), hexafluorophosphate (PF6−), tetrafluoroborate (BF4−), and trifluoromethanesulfonate or triflate (Tf) (CF3SO3−)
 ### Example of organic solvents
 
 #### Cyclic Esters
