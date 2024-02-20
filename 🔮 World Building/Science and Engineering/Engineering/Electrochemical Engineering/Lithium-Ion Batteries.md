@@ -42,10 +42,10 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 ## Electrolyte
 - The electrolyte is the medium through which the ions move between electrodes.
 - Its characteristics also sets the maximum allowed voltage (decomposition voltage), beyond which the electrolyte breaks down.
-- $\text{LiX}$ ($\text X$ = Anion)
+- A mixture of $\text{LiX}$ ($\text X$ = Anion) salts + Organic Solvent
 ### Examples of Salts
-- $\text{LiPF}_\text{6}$ (most common)
-- $\text{LiBr}$
+- $\text{LiPF}_\text{6}$ (Lithium Hexafluorophosphate; main conductive salt, decomposes at high temperatures)
+- $\text{LiBr}$ (Lithium Bromate; common additive salt)
 - $\text{LiAsF}_\text{6}$
 - $\text{LiBF}\text{4}$
 - $\text{LiAlCl}_\text{4}$
@@ -53,19 +53,20 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{LiN(CF}_\text{2}\text{SO}_\text{3}\text{)}_\text{2}$
 - $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$
 ### Example of organic solvents
+
 #### Cyclic Esters
 - Ethylene Carbonate (EC)
 - Propylene Carbonate (PC)
 - γ-Butyrolactone (BL)
 #### Linear Esters
-- DMC
-- EMC
-- DEC
-
-- 
-
-cyclic esters (ethylene carbonate (EC)
-propylene carbonate (PC), γ-butyrolactone (BL)), linear esters and cyclic ethers (2-methyltetrahydrofuran, 1-3 dioxolane), and linear ethers (1,2-dimethoxyethane). 
+- Dimethyl Carbonate (DMC) 
+- Ethyl Methyl Carbonate (EMC) ($\text C_\text 4\text H_\text 8\text O_\text 3$ )
+- DEC 
+- 2-Methyltetrahydrofuran
+#### Cyclic Ethers
+- 1-3 Dioxolane
+#### Linear Ethers
+- 1,2-Dimethoxyethane
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.
