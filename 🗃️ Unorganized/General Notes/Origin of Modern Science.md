@@ -1,8 +1,7 @@
-Historic Science
+### Historic Science
 - Agrarian
 - Handicraft
-
-Modern Science
+### Modern Science
 - Periodic Classification of Elements
 - Newton's Laws
 - Hooke's finding of the cell

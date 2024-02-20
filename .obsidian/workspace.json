@@ -136,22 +136,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb42952bd138e5fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗺️ World Exploration/Literature/Lingua Franca.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -226,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Literature/Lingua Franca.md",
+                "file": "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Literature/Lingua Franca.md",
+                "file": "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Literature/Lingua Franca.md"
+                "file": "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md"
               }
             }
           },
@@ -305,10 +292,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bb42952bd138e5fd",
+  "active": "ecb019d0129de27e",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Literature/Lingua Franca.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+    "🗺️ World Exploration/Literature/Lingua Franca.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
