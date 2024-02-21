@@ -63,10 +63,14 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 
 $\ce{LiCF3SO3}$, $\ce{(LiNCF3SO2)2}$ and $\ce{LiC(CF3SO3)3}$, which makes sense considering $\ce{CF3SO2}$ has charge $+1$ and $\ce{CF3SO3}$ has charge $-1$.
 
-
 That would mean $\ce{LiN(CF3SO3)2}$ is probably a mistake.
 
-As for the supposed anions $\ce{CF2SO3}$ and $\ce{CF2SO2}$, 
+As for the supposed anions $\ce{(CF2SO3)2}$ and $\ce{(CF2SO2)2}$, which are supposed to have $+2$ charge since they bond with $\ce{N}$, 
+
+`-SO3-CF2-CF2-SO3-` ($-2$)
+`-CF2-SO3-SO3-CF2-` ($-2$)
+`-SO2-CF3-CF3-SO2-` ($+2$)
+`-CF3-SO2-SO2-CF3-` ($+2$)
 
 Isn't $\ce{CF3SO3}$ Sulfonyl and $\ce{CF3SO2}$ Sulfoxyl?
 $\ce{CF2SO3}$? DFM Sulfonyl?
