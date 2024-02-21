@@ -109,7 +109,7 @@ After so long, I figured out the list of dependencies from the Void Linux build 
 - Python 3 Pivy Module
 
 ## Additional Dependency Notes
-These are not listed in the Void Linux templates, but I found them elsewhereas I had listed in the original post. They maybe useful for certain configurations, perhaps. So I'm keeping notes about them too.
+These are not listed in the Void Linux templates, but I found them elsewhere as I had listed in the original post. They maybe useful for certain configurations, perhaps. So I'm keeping notes about them too.
 
 **Dependencies pre-bundled with FreeCAD source code:**
 - Quarter (Coin3D binding to Qt)
@@ -136,6 +136,7 @@ These are not listed in the Void Linux templates, but I found them elsewhereas I
 - KDTree++ (For Sorting; on Debian and Fedora FreeCAD.spec; Looks like is included in FreeCAD)  
 
 # Table
+
 **Host side build dependencies (for cross-compiling):**
 
 | Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
@@ -145,10 +146,11 @@ These are not listed in the Void Linux templates, but I found them elsewhereas I
 | Pkg-config |  |  |  |  |  |  |
 | Python3 SetupTools |  |  |  |  |  |  |
 | SWIG |  |  |  |  |  | A C++-Python Binding generator; Apparently used by IfcOpenShell |
+
 **Target specific build dependencies:**
 
 | Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
-| --- | --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Boost - Development Files (If AIO) |  |  |  |  |  |  |
 | Boost.Headers |  |  |  |  |  |  |
 | Boost.ProgramOptions |  |  |  |  |  |  |
@@ -168,47 +170,61 @@ These are not listed in the Void Linux templates, but I found them elsewhereas I
 | JSONCPP - Development Files |  |  |  |  |  |  |
 | LZ4 Library - Development Files |  |  |  |  |  |  |
 | MED Library - Development Files |  |  |  |  |  | SALOME's data format to store meshes, based on HDF5 |
+| NetCDF - Development Files |  |  |  |  |  | A scientific data format |
+| OCCT - Development Files |  |  |  |  |  | The OpenCASCADE Technology CAD Geometric Kernel |
+| OpenMPI - Development Files |  |  |  |  |  | A parallel computing library |
+| Python 3 |  |  |  |  |  |  |
+| Python 3 Pivy Module |  |  |  |  |  |  |
+| PySide 2 - Python 3 Development Files |  |  |  |  |  | PySide gives Qt API for Python |
+| PySide 2 Tools |  |  |  |  |  |  |
+| Qt5 - Development Files |  |  |  |  |  |  |
+| Qt5 SVG - Development Files |  |  |  |  |  |  |
+| Qt5 Tools - Development Files |  |  |  |  |  |  |
+| Qt5 WebKit - Development Files |  |  |  |  |  |  |
+| Qt5 XMLPatterns - Development Files |  |  |  |  |  |  |
+| Shiboken2 Library - Development Files |  |  |  |  |  | Generates Python bindings for Qt |
+| Space Navigator Library - Development Files |  |  |  |  |  | FOSS Drivers for 3DConnection CAD Mice |
+| VTK - Development Files |  |  |  |  |  | A scientific visualization toolkit |
+| Xerces C++ Library  - Development Files |  |  |  |  |  | Apache Xerces C++ XML Library |
+| zlib - Development Files |  |  |  |  |  | zlib is the reference implementation of the Deflate compression algorithm |
+
+
+**Runtime dependencies:**
+
+| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
+| --- | --- | --- | --- | --- | --- | --- |
+| Python 3 Matplotlib Module |  |  |  |  |  |  |
+| Python 3 PySide2 WebEngine Module |  |  |  |  |  |  |
+| Python 3 Pivy Module |  |  |  |  |  |  |
+#### Additional Dependencies
+
+| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
+| --- | --- | --- | --- | --- | --- | --- |
+| Quarter | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | Coin3D binding to Qt |
+| GNU Debugger |  |  |  |  |  |  |
+| F2C (Fortran to C Converter) |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 
-- Boost Development Files (Some distributions may need to specify Boost libraries, I listed what I think are needed below)
-	- Boost.Headers
-	- Boost.ProgramOptions
-	- Boost.System
-	- Boost.Regex
-	- Boost.Thread
-	- Boost.Graph
-	- Boost.MPI Python 3 Bindings
-	- Boost.Python3
-	- Boost.FileSystem
+**Dependencies pre-bundled with FreeCAD source code:**
+- Quarter (Coin3D binding to Qt)
 
-- Coin3D 3 Development Files (OpenInventor's OpenGL 3D Library, used instead of OCCT Viewer)
-- Coin3D 3 Docs
+**Debugging Build Dependencies:**
+- GNU Debugger
 
-- Double Conversion Development Files
-- Eigen (A Linear Algebra Library)
-- GLEW Development Files
-- HDF5 Development Files (A data storage format)
-- JSONCPP Development Files
-- LZ4 Library Development Files
-- MED Library Development Files (SALOME's data format to store meshes, based on HDF5)
-- NetCDF Development Files (A scientific data format)
-- OCCT Development Files (The OpenCASCADE Technology CAD Geometric Kernel)
-- OpenMPI Development Files (A parallel computing library)
+**Unknown Depencies (I saw in lists)**
+- F2C (Fortran to C Converter)
+- DOS2UNIX (DOS to UNIX text file converter; Also listed in Fedora and OBS FreeCAD.spec)
+- HDF5 OpenMPI 4 Development files
+- OpenCV Development Files
+- FreeGLUT Development Files
+- X Input Libraries
+- Netgen Development files
 
-- Python 3
-- Python 3 Pivy Module
-- PySide2 Python 3 Development Files (PySide gives Qt API for Python)
-- PySide2 Tools
+*Listed in OBS for openSUSE*
+- Matplotlib Qt5 Python 3 Module
+- GitPython Python 3 Module
 
-- Qt5 Development Files
-- Qt5 SVG Development Files
-- Qt5 Tools Development Files
-- Qt5 WebKit Development Files
-- Qt5 XMLPatterns Development Files
-
-- Shiboken2 Library Development Files (Generates Python bindings for Qt)
-
-- Space Navigator Library Development Files (FOSS Drivers for 3DConnection CAD Mice)
-- VTK Development Files (A scientific visualization toolkit)
-- Xerces C++ Library Development Files (Apache Xerces C++ XML Library)
-- zlib Development Files (zlib is the reference implementation of the Deflate compression algorithm)
+*From FreeCAD Wiki*
+- FreeType2 Development Files (From the FreeCAD Wiki)
+- GNU Triangulated Surface Library
+- KDTree++ (For Sorting; on Debian and Fedora FreeCAD.spec; Looks like is included in FreeCAD)  
