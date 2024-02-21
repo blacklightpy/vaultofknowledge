@@ -117,7 +117,7 @@ These are not listed in the Void Linux templates, but I found them elsewhere as 
 **Debugging Build Dependencies:**
 - GNU Debugger
 
-**Unknown Depencies (I saw in lists)**
+**Unknown Dependencies (I saw in lists)**
 - F2C (Fortran to C Converter)
 - DOS2UNIX (DOS to UNIX text file converter; Also listed in Fedora and OBS FreeCAD.spec)
 - HDF5 OpenMPI 4 Development files
@@ -135,11 +135,11 @@ These are not listed in the Void Linux templates, but I found them elsewhere as 
 - GNU Triangulated Surface Library
 - KDTree++ (For Sorting; on Debian and Fedora FreeCAD.spec; Looks like is included in FreeCAD)  
 
-# Table
+## Table of Dependencies
 
 **Host side build dependencies (for cross-compiling):**
 
-| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
+| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE Tumbleweed | Remarks |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Doxygen |  |  |  |  |  |  |
 | GraphViz |  |  |  |  |  |  |
@@ -149,7 +149,7 @@ These are not listed in the Void Linux templates, but I found them elsewhere as 
 
 **Target specific build dependencies:**
 
-| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
+| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE Tumbleweed | Remarks |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Boost - Development Files (If AIO) |  |  |  |  |  |  |
 | Boost.Headers |  |  |  |  |  |  |
@@ -198,33 +198,21 @@ These are not listed in the Void Linux templates, but I found them elsewhere as 
 | Python 3 Pivy Module |  |  |  |  |  |  |
 #### Additional Dependencies
 
-| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
-| --- | --- | --- | --- | --- | --- | --- |
-| Quarter | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | Coin3D binding to Qt |
-| GNU Debugger |  |  |  |  |  |  |
-| F2C (Fortran to C Converter) |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE Tumbleweed | Remarks | Category |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Quarter | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | \<INCLUDED\> | Coin3D binding to Qt | Dependencies pre-bundled with FreeCAD source code |
+| GNU Debugger |  |  |  |  |  |  | Debugging Build Dependencies |
+| F2C |  |  |  |  |  | Fortran to C Converter | Unknown Dependencies (I saw in lists) |
+| DOS2UNIX |  |  |  |  |  | DOS to UNIX text file converter; Also listed in Fedora and OBS FreeCAD.spec | Unknown Dependencies (I saw in lists) |
+| HDF5 OpenMPI 4 - Development files |  |  |  |  |  |  | Unknown Dependencies (I saw in lists) |
+| OpenCV - Development Files |  |  |  |  |  |  | Unknown Dependencies (I saw in lists) |
+| FreeGLUT - Development Files |  |  |  |  |  |  | Unknown Dependencies (I saw in lists) |
+| X Input Libraries |  |  |  |  |  |  | Unknown Dependencies (I saw in lists) |
+| Netgen - Development files |  |  |  |  |  |  | Unknown Dependencies (I saw in lists) |
+| Matplotlib Qt5 Python 3 Module |  |  |  |  |  |  | Listed in OBS for openSUSE |
+| GitPython Python 3 Module |  |  |  |  |  |  | Listed in OBS for openSUSE |
+| FreeType2 - Development Files |  |  |  |  |  |  | From FreeCAD Wiki |
+| GNU Triangulated Surface Library |  |  |  |  |  |  | From FreeCAD Wiki |
+| KDTree++ |  |  |  |  |  | For Sorting; on Debian and Fedora FreeCAD.spec; Looks like is included in FreeCAD | From FreeCAD Wiki |
 
-**Dependencies pre-bundled with FreeCAD source code:**
-- Quarter (Coin3D binding to Qt)
 
-**Debugging Build Dependencies:**
-- GNU Debugger
-
-**Unknown Depencies (I saw in lists)**
-- F2C (Fortran to C Converter)
-- DOS2UNIX (DOS to UNIX text file converter; Also listed in Fedora and OBS FreeCAD.spec)
-- HDF5 OpenMPI 4 Development files
-- OpenCV Development Files
-- FreeGLUT Development Files
-- X Input Libraries
-- Netgen Development files
-
-*Listed in OBS for openSUSE*
-- Matplotlib Qt5 Python 3 Module
-- GitPython Python 3 Module
-
-*From FreeCAD Wiki*
-- FreeType2 Development Files (From the FreeCAD Wiki)
-- GNU Triangulated Surface Library
-- KDTree++ (For Sorting; on Debian and Fedora FreeCAD.spec; Looks like is included in FreeCAD)  
