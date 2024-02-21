@@ -97,9 +97,11 @@ $\ce{N(CF3SO3)2^{-}}$ is an ion (e.g. $\ce{ZnN(CF3SO3)2}$ and $\ce{Ca[N(CF3SO3)2
 This is not Bistriflimide, which is $\ce{N(CF3SO2)2^-}$.
 This would mean $\ce{CF3SO3}$ has $+1$ charge.
 
-$\ce{(CF2SO3)2$ is an ion (e.g. $\ce{ZnN(CF3SO3)2}$ and $\ce{Ca[N(CF3SO3)2]2}$).
+$\ce{(CF2SO3)2^{2-}}$ is an ion (e.g. $\ce{Zn(CF2SO3)2}$ and $\ce{Mg(CF3SO3)2}$).
+They are also listed as Triflates, while Wikipedia lists Triflates as $\ce{CF3SO3^-}$.
+This would mean $\ce{CF2SO3}$ has $-1$ charge.
 
-
+cyclic fluorinated trisulfone ($\ce{(CF2SO2)3}$)
 
 > [!NOTE]
 > Trifluoromethanesulfonate is also called Triflate, denoted as TF or -OTf
