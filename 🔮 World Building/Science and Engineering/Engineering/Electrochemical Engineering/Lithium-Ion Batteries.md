@@ -85,12 +85,13 @@ hexafluoroarsenate (AsF6−), perchlorate (ClO4−), hexafluorophosphate (PF6−
 #### Linear Esters
 - Dimethyl Carbonate (DMC) 
 - Ethyl Methyl Carbonate (EMC) ($\text C_\text 4\text H_\text 8\text O_\text 3$ )
-- DEC 
-- 2-Methyltetrahydrofuran
+- Diethyl Carbonate (DEC)
+- 2-Methyl tetrahydrofuran (2-MTHF)
 #### Cyclic Ethers
-- 1-3 Dioxolane
+- 1-3 Dioxolane (DOL)
 #### Linear Ethers
-- 1,2-Dimethoxyethane
+- 1,2-Dimethoxyethane (DME / monoglyme / G1)
+- Tetraethylene glycol dimethyl ether (TEGDME / tetraglyme / G4) 
 ### Common mixtures of solvents
 - EC-PC-DMC (20%:20%:60% vol.)
 ## Charging and Formation of Solid Electrolyte Interface
