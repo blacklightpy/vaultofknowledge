@@ -149,9 +149,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bda5f1211f4bf1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make Linux GUI components.md"
+                "file": "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md"
               }
             }
           },
@@ -305,11 +318,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d21d18e02429def1",
+  "active": "bda5f1211f4bf1ae",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
-    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗺️ World Exploration/Literature/Lingua Franca.md",
