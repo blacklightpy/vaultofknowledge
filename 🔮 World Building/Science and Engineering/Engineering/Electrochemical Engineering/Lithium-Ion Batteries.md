@@ -57,51 +57,56 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{LiClO}_\text{4}$ (Lithium Perchlorate)
 - $\text{LiBF}\text{4}$ (Lithium Tetrafluoroborate)
 - $\text{LiAlCl}_\text{4}$ (Lithium Tetrachloroaluminate)
-- $\text{LiCF}_\text{3}\text{SO}_\text{3}$ (Lithium Trifluoromethanesulfonate / Lithium Triflate / Li-TFS / $\text{LiOTf}$)
-- $\text{LiN(CF}_\text{3}\text{SO}_\text{2}\text{)}_\text{2}$ (Lithium bis(trifluoromethanesulfonyl)imide / Lithium Bistriflimide / Li-TFSI / $\text{LiNTf}_\text{2}$)
-- $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$ (Lithium tris(trifluoromethanesulfonyl)methide / Lithium Triflide / Li-TFSM / $\text{LiCTf}_\text{3}$)
-
-#### Doubtful names
-- $\ce{LiN(CF2SO3)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide) ?
-- $\ce{LiN(CF3SO3)2}$ (Lithium bis(trifluoromethylsulfonyl)imide / Lithium bistriflimide) ?
-- $\ce{LiN(CF2SO2)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide / Li-DFSI) ?
-
-I have the names of $\ce{LiCF3SO3}$, $\ce{(LiNCF3SO2)2}$ and $\ce{LiC(CF3SO3)3}$, which makes sense considering $\ce{CF3SO2}$ has charge $+1$ and $\ce{CF3SO3}$ has charge $-1$.
-
-That would mean $\ce{LiN(CF3SO3)2}$ is probably a mistake, since $\ce{N}$ expects positive ions.
-
-As for the supposed anions $\ce{(CF2SO3)2}$ and $\ce{(CF2SO2)2}$, which are supposed to have $+2$ charge since they bond with $\ce{N}$, 
-
-`-SO3-CF2-CF2-SO3-` ($-2$)
-`-CF2-SO3-SO3-CF2-` ($-2$)
-`-SO2-CF3-CF3-SO2-` ($+2$)
-`-CF3-SO2-SO2-CF3-` ($+2$)
-
-Isn't $\ce{CF3SO3}$ Sulfonyl and $\ce{CF3SO2}$ Sulfoxyl?
-$\ce{CF2SO3}$? DFM Sulfonyl?
-$\ce{CF2SO2}$? DFM Sulfoxyl?
-
-$\ce{N(CF3SO3)2^{-}}$ is an ion (e.g. $\ce{ZnN(CF3SO3)2}$ and $\ce{Ca[N(CF3SO3)2]2}$).
-This is not Bistriflimide, which is $\ce{N(CF3SO2)2^-}$.
-This would mean $\ce{CF3SO3}$ has $+1$ charge.
-
-$\ce{(CF2SO3)2^{2-}}$ is an ion (e.g. $\ce{Zn(CF2SO3)2}$ and $\ce{Mg(CF3SO3)2}$).
-They are also listed as Triflates, while Wikipedia lists Triflates as $\ce{CF3SO3^-}$.
-This would mean $\ce{CF2SO3}$ has $-1$ charge.
-
-For $\ce{(CF2SO2)3}$:
-- Cyclic Fluorinated Trisulfone ($\ce{(CF2SO2)3}$)
-- $\ce{Ni(CF2SO2)2}$ 
-- $\ce{C(CF2SO2)3^-}$ listed specifically as an anion for electrolyte in https://data.epo.org/publication-server/pdf-document/EP18890772NWB1.pdf?PN=EP3671914%20EP%203671914&iDocId=7041186&iepatch=.pdf
-- $\ce{Phenyl-CF2-CF2-SO3-Na+}$ and $\ce{Phenyl-CF2-CF2-SO2-Na+}$ exist. That means $\ce{CF2-SO2}$ should be similar to $\ce{CF2-SO3}$.
-
-So $\ce{(CF2-SO2)2}$ should be an chained ion with $-2$ charge
-And $\ce{CF2SO2}$ should be an ion with $-2$ charge, $-1$ on each end.
+- $\text{LiCF}_\text{3}\text{SO}_\text{3}$ (Lithium Trifluoromethanesulfonate / Lithium Triflate / **Li-TFS** / **LiOTf**)
+- $\text{LiN(CF}_\text{3}\text{SO}_\text{2}\text{)}_\text{2}$ (Lithium bis(trifluoromethanesulfonyl)imide / Lithium Bistriflimide / **Li-TFSI** / **LiNTf₂**)
+- $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$ (Lithium tris(trifluoromethanesulfonyl)methide / Lithium Triflide / **Li-TFSM** / **LiCTf₃**)
 
 > [!NOTE]
 > - Trifluoromethanesulfonate is also called Triflate, denoted as **TF** or **-OTf**
 > - Trifluoromethanesulfonyl group is also called Triflyl, denoted as **-Tf**
-> - Bis(Trifluoromethanesunfonyl)imide group is also called Bistriflimide or Bistriflimide, denoted as **$\text{-NTf_2}$**
+> - Bis(Trifluoromethanesunfonyl)imide group is also called Bistriflimide or Bistriflimide, denoted as **TFSI** or **-NTF₂**
+
+> [!NOTE]
+> #### Doubtful names
+> - $\ce{LiN(CF2SO3)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide) ?
+> - $\ce{LiN(CF3SO3)2}$ (Lithium bis(trifluoromethylsulfonyl)imide / Lithium bistriflimide) ?
+> - $\ce{LiN(CF2SO2)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide / Li-DFSI) ?
+> 
+> ---
+> I have the names of $\ce{LiCF3SO3}$, $\ce{(LiNCF3SO2)2}$ and $\ce{LiC(CF3SO3)3}$, which makes sense considering $\ce{CF3SO2}$ has charge $+1$ and $\ce{CF3SO3}$ has charge $-1$.
+> 
+> That would mean $\ce{LiN(CF3SO3)2}$ is probably a mistake, since $\ce{N}$ expects positive ions.
+> 
+> As for the supposed anions $\ce{(CF2SO3)2}$ and $\ce{(CF2SO2)2}$, which are supposed to have $+2$ charge since they bond with $\ce{N}$, 
+> 
+> `-SO3-CF2-CF2-SO3-` ($-2$)
+> `-CF2-SO3-SO3-CF2-` ($-2$)
+> `-SO2-CF3-CF3-SO2-` ($+2$)
+> `-CF3-SO2-SO2-CF3-` ($+2$)
+> 
+> ---
+> Isn't $\ce{CF3SO3}$ Sulfonyl and $\ce{CF3SO2}$ Sulfoxyl?
+> $\ce{CF2SO3}$? DFM Sulfonyl?
+> $\ce{CF2SO2}$? DFM Sulfoxyl?
+> 
+> ---
+> $\ce{N(CF3SO3)2^{-}}$ is an ion (e.g. $\ce{ZnN(CF3SO3)2}$ and $\ce{Ca[N(CF3SO3)2]2}$).
+> This is not Bistriflimide, which is $\ce{N(CF3SO2)2^-}$.
+> This would mean $\ce{CF3SO3}$ has $+1$ charge.
+> 
+> $\ce{(CF2SO3)2^{2-}}$ is an ion (e.g. $\ce{Zn(CF2SO3)2}$ and $\ce{Mg(CF3SO3)2}$).
+> They are also listed as Triflates, while Wikipedia lists Triflates as $\ce{CF3SO3^-}$.
+> This would mean $\ce{CF2SO3}$ has $-1$ charge.
+> 
+> For $\ce{(CF2SO2)3}$:
+> - Cyclic Fluorinated Trisulfone ($\ce{(CF2SO2)3}$)
+> - $\ce{Ni(CF2SO2)2}$ 
+> - $\ce{C(CF2SO2)3^-}$ listed specifically as an anion for electrolyte in [here](https://data.epo.org/publication-server/pdf-document/EP18890772NWB1.pdf?PN=EP3671914%20EP%203671914&iDocId=7041186&iepatch=.pdf)
+> - $\ce{Phenyl-CF2-CF2-SO3-Na+}$ and $\ce{Phenyl-CF2-CF2-SO2-Na+}$ exist, according to [this](https://doi.org/10.1016/j.jfluchem.2003.11.031) paper. That means $\ce{CF2-SO2}$ should be similar to $\ce{CF2-SO3}$.
+> 
+> So $\ce{(CF2-SO2)2}$ should be an chained ion with $-2$ charge
+> And $\ce{CF2SO2}$ should be an ion with $-2$ charge, $-1$ on each end.
+
 ### Example of organic solvents
 
 #### Cyclic Esters
