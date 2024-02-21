@@ -121,6 +121,7 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 
 > [!TIP] More Resources
 > - [ScienceDirect Notes on Lithium Salts](https://www.sciencedirect.com/topics/chemistry/lithium-salt)
+> 	- Safety Levels
 > 	- Ionic Radius (from van der Waals volumes)
 > 	- Limiting Molar Conductivity
 > 	- Degree of Dissociation
