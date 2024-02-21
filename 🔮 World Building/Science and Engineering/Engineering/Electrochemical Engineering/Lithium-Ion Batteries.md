@@ -101,7 +101,12 @@ $\ce{(CF2SO3)2^{2-}}$ is an ion (e.g. $\ce{Zn(CF2SO3)2}$ and $\ce{Mg(CF3SO3)2}$)
 They are also listed as Triflates, while Wikipedia lists Triflates as $\ce{CF3SO3^-}$.
 This would mean $\ce{CF2SO3}$ has $-1$ charge.
 
-cyclic fluorinated trisulfone ($\ce{(CF2SO2)3}$)
+
+- Cyclic Fluorinated Trisulfone ($\ce{(CF2SO2)3}$)
+- $\ce{Ni(CF2SO2)2}$ 
+- $\ce{C(CF2SO2)3^-}$ listed specifically as an anion for electrolyte in https://data.epo.org/publication-server/pdf-document/EP18890772NWB1.pdf?PN=EP3671914%20EP%203671914&iDocId=7041186&iepatch=.pdf
+
+$\ce{Benzene-CF2-CF2-SO3-Na+ and $\ce{Benzene-CF2-CF2-SO2-Na+}$
 
 > [!NOTE]
 > Trifluoromethanesulfonate is also called Triflate, denoted as TF or -OTf
@@ -115,7 +120,7 @@ hexafluoroarsenate (AsF6−), perchlorate (ClO4−), hexafluorophosphate (PF6−
 #### Cyclic Esters
 - Ethylene Carbonate (EC)
 - Propylene Carbonate (PC)
-- γ-Butyrolactone (BL)
+- γ-Butyrolactone (GBL)
 #### Linear Esters
 - Dimethyl Carbonate (DMC) 
 - Ethyl Methyl Carbonate (EMC) ($\text C_\text 4\text H_\text 8\text O_\text 3$ )
