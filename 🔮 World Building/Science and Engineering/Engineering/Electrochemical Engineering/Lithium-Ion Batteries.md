@@ -79,6 +79,12 @@ By covalent bond sharing, the oxygen atoms can share electrons to form neutral S
 Which is why we have H2SO3 but no ZnSO3.
 Just look at H2SO3 (Sulfurous Acid) vs H2SO4 (Sulfuric Acide).
 
+Suflur Oxyanions (Ions of Sulfur Oxoacids):
+Sulfide=$\ce{S}$
+Sulfoxylate=$\ce{SO2^2-}$
+Sulfite=$\ce{SO3}$
+Sulfate=$\ce{SO4^2-}$
+
 Isn't $\ce{CF3SO3}$ Sulfonyl and $\ce{CF3SO2}$ Sulfoxyl?
 $\ce{CF2SO3}$? DFM Sulfonyl?
 $\ce{CF2SO2}$? DFM Sulfoxyl?
