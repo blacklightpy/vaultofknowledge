@@ -15,3 +15,7 @@ Slavery (Problems)
 Religion (Problematic Cure)
 
 Science (Neutral, Misused Methodology)
+# Factors
+Level of Freedom for Peace (Not full collectivization, But shared and isolated)
+
+Energy is a part of us, fool.

@@ -72,6 +72,8 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 > - $\ce{LiN(CF3SO3)2}$ (Lithium bis(trifluoromethylsulfonyl)imide / Lithium bistriflimide) ?
 > - $\ce{LiN(CF2SO2)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide / Li-DFSI) ?
 > 
+> Difluoromethylsulfonyl would have $\ce{CF2H}$, so it's not that. There are also DFSI (according to [this paper](https://doi.org/10.1002/celc.201801472) and others)
+> 
 > ---
 > I have the names of $\ce{LiCF3SO3}$, $\ce{(LiNCF3SO2)2}$ and $\ce{LiC(CF3SO3)3}$, which makes sense considering $\ce{CF3SO2}$ has charge $+1$ and $\ce{CF3SO3}$ has charge $-1$.
 > 
