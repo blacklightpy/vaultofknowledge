@@ -38,7 +38,7 @@ The performance of sulfide ASSLBs reported in the literature:
 - NCA80: $\ce{LiNi_{0.80}Co_{0.15}Al_{0.05}O_2}$
 - NCM70: $\ce{LiNi_{0.70}Co_{0.15}Mn_{0.15}O_2}$
 - LiTFSI: Lithium Bis(trifluoromethanesulfonyl)imide
-
+- LPSCI: Lithium Phosphorous Sulfur Chloride
 - 3D**−**composite : The p−LPSCl/P(PEGMEA) composite
 	- p−LPSCl: 3D self−supported porous skeleton with selenium sulfide (SeS2) as the pore former;
 	- P(PEGMEA): In-situ polymerization of Poly(ethylene glycol) methyl ether acrylate (PEGMEA)

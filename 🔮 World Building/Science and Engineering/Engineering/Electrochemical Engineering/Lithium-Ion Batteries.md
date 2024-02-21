@@ -9,6 +9,8 @@ The electrolyte is also protected from degradation by interaction with electrons
 - [A reflection on lithium-ion battery cathode chemistry | Nature Communications (Open Access)](https://www.nature.com/articles/s41467-020-15355-0): Differences between Li-Ion battery chemistries
 - [[Electrochemical Potential]]
 - [[Comparing Performances of Battery Technologies]]
+- [[Comparison of Lithium Ion Batteries]]
+- 
 ## Cathode
 - $\text{LiMO}$ (MO = Metal Oxide)
 	- The metals are 3d transition metals on the right end due their highest positive electronegativity values, which increases their electrode potential. So basically **Cobalt, Nickel, Manganese, Iron**.

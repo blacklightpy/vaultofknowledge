@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
+                "file": "🗃️ Unorganized/General Notes/Solid State Batteries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
+                "file": "🗃️ Unorganized/General Notes/Solid State Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
+                "file": "🗃️ Unorganized/General Notes/Solid State Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md"
+                "file": "🗃️ Unorganized/General Notes/Solid State Batteries.md"
               }
             }
           },
@@ -320,8 +320,9 @@
   },
   "active": "650515ebc6d11df8",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/Solid State Batteries.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🗃️ Unorganized/General Notes/Sulfur Ions.md",
@@ -351,7 +352,6 @@
     "🗺️ World Exploration/Food and Drinks",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Chemical Potential.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
     "_images/Pasted image 20240216063322.png",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
