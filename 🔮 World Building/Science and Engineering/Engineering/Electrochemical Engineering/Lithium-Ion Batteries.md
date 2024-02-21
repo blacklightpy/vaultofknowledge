@@ -50,6 +50,9 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 
 > [!NOTE]
 > Next-gen Lithium batteries like Li-metal, $\text{Li-S}$ and Li-air (metal-air) batteries need different types of salts for their changed properties.
+
+> [!TIP] Info
+> In general, for *All-Solid-State Alkali Metal Batteries* (ASSAMBs), *Solid Polymer Electrolytes* (SPEs) with high cationic conductivity are highly desired.
 ### Examples of Salts
 - $\text{LiPF}_\text{6}$ (Lithium Hexafluorophosphate) (main conductive salt, decomposes at high temperatures, reacts with water traces to form toxic $\text{HF}$)
 - $\text{LiBr}$ (Lithium Bromate) (common additive salt)
@@ -72,7 +75,8 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 > - $\ce{LiN(CF3SO3)2}$ (Lithium bis(trifluoromethylsulfonyl)imide / Lithium bistriflimide) ?
 > - $\ce{LiN(CF2SO2)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide / Li-DFSI) ?
 > 
-> Difluoromethylsulfonyl would have $\ce{CF2H}$, so it's not that. There are also DFSI (according to [this paper](https://doi.org/10.1002/celc.201801472) and others)
+> Difluoromethylsulfonyl would have $\ce{CF2H}$, so it's not that.
+> There are also DFTFSIs ($\ce{N[(CF2HSO2)(CF3SO2)]}$) (according to [this paper](https://doi.org/10.1002/celc.201801472) and others)
 > 
 > ---
 > I have the names of $\ce{LiCF3SO3}$, $\ce{(LiNCF3SO2)2}$ and $\ce{LiC(CF3SO3)3}$, which makes sense considering $\ce{CF3SO2}$ has charge $+1$ and $\ce{CF3SO3}$ has charge $-1$.
@@ -115,6 +119,12 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 > So $\ce{(CF2-SO2)2}$ should be an chained ion with $-2$ charge
 > And $\ce{CF2SO2}$ should be an ion with $-2$ charge, $-1$ on each end.
 
+> [!TIP] More Resources
+> - [ScienceDirect Notes on Lithium Salts](https://www.sciencedirect.com/topics/chemistry/lithium-salt)
+> 	- Ionic Radius (from van der Waals volumes)
+> 	- Limiting Molar Conductivity
+> 	- Degree of Dissociation
+> 	- Passivity
 ### Example of organic solvents
 
 #### Cyclic Esters
