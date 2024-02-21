@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -305,14 +305,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04a9098b55a81d39",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗺️ World Exploration/Literature/Lingua Franca.md",
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🗺️ World Exploration/Food and Drinks/Coffee.md",
