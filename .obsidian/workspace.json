@@ -149,22 +149,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f0cba14f2ad8405f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Sulfur Ions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -239,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sulfur Ions.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sulfur Ions.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sulfur Ions.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -318,11 +305,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f0cba14f2ad8405f",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🗃️ Unorganized/General Notes/Sulfur Ions.md",
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+    "🗃️ Unorganized/General Notes/Sulfur Ions.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Developing Linux on Embedded.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",

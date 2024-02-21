@@ -89,13 +89,17 @@ Isn't $\ce{CF3SO3}$ Sulfonyl and $\ce{CF3SO2}$ Sulfoxyl?
 $\ce{CF2SO3}$? DFM Sulfonyl?
 $\ce{CF2SO2}$? DFM Sulfoxyl?
 
-- $\text{LiN(CF}_\text{2}\text{SO}_\text{3}\text{)}_\text{2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide) ?
-- $\text{LiN(CF}_\text{3}\text{SO}_\text{3}\text{)}_\text{2}$(Lithium bis(trifluoromethylsulfonyl)imide / Lithium bistriflimide) ?
-- $\text{LiN(CF}_\text{2}\text{SO}_\text{2}\text{)}_\text{2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide / Li-DFSI) ?
+- $\ce{LiN(CF2SO3)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide) ?
+- $\ce{LiN(CF3SO3)2}$ (Lithium bis(trifluoromethylsulfonyl)imide / Lithium bistriflimide) ?
+- $\ce{LiN(CF2SO2)2}$ (Lithium bis(difluoromethylsulfonyl)imide / Lithium bisdiflimide / Li-DFSI) ?
 
-LiN(CF2SO3)2
-LiN(CF3SO3)2
-LiN(CF2SO2)2
+$\ce{N(CF3SO3)2^{-}}$ is an ion (e.g. $\ce{ZnN(CF3SO3)2}$ and $\ce{Ca[N(CF3SO3)2]2}$).
+This is not Bistriflimide, which is $\ce{N(CF3SO2)2^-}$.
+This would mean $\ce{CF3SO3}$ has $+1$ charge.
+
+$\ce{(CF2SO3)2$ is an ion (e.g. $\ce{ZnN(CF3SO3)2}$ and $\ce{Ca[N(CF3SO3)2]2}$).
+
+
 
 > [!NOTE]
 > Trifluoromethanesulfonate is also called Triflate, denoted as TF or -OTf
