@@ -72,6 +72,13 @@ As for the supposed anions $\ce{(CF2SO3)2}$ and $\ce{(CF2SO2)2}$, which are supp
 `-SO2-CF3-CF3-SO2-` ($+2$)
 `-CF3-SO2-SO2-CF3-` ($+2$)
 
+
+In a Sulfite ion, Sulfur is in +4 oxidation state
+Sulfite ion has 3 resonance states (one double bonded O and two single bonded Os).
+By covalent bond sharing, the oxygen atoms can share electrons to form neutral SO3, but the single O atoms can gain electrons to form SO32-.
+Which is why we have H2SO3 but no ZnSO3.
+Just look at H2SO3 (Sulfurous Acid) vs H2SO4 (Sulfuric Acide).
+
 Isn't $\ce{CF3SO3}$ Sulfonyl and $\ce{CF3SO2}$ Sulfoxyl?
 $\ce{CF2SO3}$? DFM Sulfonyl?
 $\ce{CF2SO2}$? DFM Sulfoxyl?
