@@ -92,15 +92,20 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 > ---
 > - $\ce{N(CF3SO3)2^{-}}$ is an ion (e.g. $\ce{ZnN(CF3SO3)2}$ and $\ce{Ca[N(CF3SO3)2]2}$).
 > - This is not Bistriflimide, which is $\ce{N(CF3SO2)2^-}$.
-> - Also $\ce{Ni(CF3SO3)2}$, according to [this paper](https://doi.org/10.1016/0040-6031(91)80387-X) and this [product listing](https://en.sinocompound.com/product/1036.html), where it is called Trifluoromethanesulfonate (TFSI) - this being $\ce{(CF3SO3)2}$, not $\ce{(CF3SO2)2}$.
-> - This would mean $\ce{CF3SO3}$ has $+1$ charge.
 > 
-> $\ce{(CF2SO3)2^{2-}}$ is an ion (e.g. $\ce{Zn(CF2SO3)2}$ and $\ce{Mg(CF3SO3)2}$).
-> They are also listed as Triflates, while Wikipedia lists Triflates as $\ce{CF3SO3^-}$.
+> This would mean $\ce{CF3SO3}$ has $+1$ charge.
+> 
+> - Also $\ce{Ni(CF3SO3)2}$, according to [this paper](https://doi.org/10.1016/0040-6031(91)80387-X) and this [product listing](https://en.sinocompound.com/product/1036.html), where it is called Trifluoromethanesulfonate (TF) - this being $\ce{(CF3SO3)2}$, not $\ce{(CF3SO2)2}$.
+> 
+> ---
+> - $\ce{(CF2SO3)2^{2-}}$ is an ion (e.g. $\ce{Zn(CF2SO3)2}$ and $\ce{Mg(CF3SO3)2}$).
+> - They are also listed as Triflates, while Wikipedia lists Triflates as $\ce{CF3SO3^-}$.
+> 
 > This would mean $\ce{CF2SO3}$ has $-1$ charge.
 > 
+> ---
 > For $\ce{(CF2SO2)3}$:
-> - Cyclic Fluorinated Trisulfone ($\ce{(CF2SO2)3}$)
+> - Cyclic Fluorinated Trisulfone ($\ce{(CF2SO2)3}$), according to this [paper](https://doi.org/10.1016/0022-1139(93)02925-5)
 > - $\ce{Ni(CF2SO2)2}$ 
 > - $\ce{C(CF2SO2)3^-}$ listed specifically as an anion for electrolyte in this [patent grant](https://data.epo.org/publication-server/pdf-document/EP18890772NWB1.pdf?PN=EP3671914%20EP%203671914&iDocId=7041186&iepatch=.pdf)
 > - $\ce{Phenyl-CF2-CF2-SO3-Na+}$ and $\ce{Phenyl-CF2-CF2-SO2-Na+}$ exist, according to [this paper](https://doi.org/10.1016/j.jfluchem.2003.11.031). That means $\ce{CF2-SO2}$ should be similar to $\ce{CF2-SO3}$.
