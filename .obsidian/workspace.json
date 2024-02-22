@@ -162,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42b611078583eafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Photoshop App In India.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -239,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sulfur Ions.md",
+                "file": "🗃️ Unorganized/General Notes/Photoshop App In India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sulfur Ions.md",
+                "file": "🗃️ Unorganized/General Notes/Photoshop App In India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sulfur Ions.md"
+                "file": "🗃️ Unorganized/General Notes/Photoshop App In India.md"
               }
             }
           },
@@ -318,14 +331,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "650515ebc6d11df8",
+  "active": "42b611078583eafb",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Photoshop App In India.md",
+    "🗃️ Unorganized/General Notes/Sulfur Ions.md",
     "🗃️ Unorganized/General Notes/Solid State Batteries.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
-    "🗃️ Unorganized/General Notes/Sulfur Ions.md",
     "🗃️ Unorganized/General Notes/Developing Linux on Embedded.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
@@ -351,7 +365,6 @@
     "🔮 World Building/Self-Care",
     "🗺️ World Exploration/Food and Drinks",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Chemical Potential.md",
     "_images/Pasted image 20240216063322.png",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering",
