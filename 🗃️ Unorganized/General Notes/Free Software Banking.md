@@ -8,11 +8,29 @@ But regardless, we need a pathway to it. Socialism is a terrible methodology in 
 
 As far as I see, some form of capitalism is the only way, and if so, cryptocurrencies are the only way in which we can have a fair and free economy.
 
-## Cryptocurrencies
+# Cryptocurrencies
+## Layer 1
 - Bitcoin
-
-## Exchanges
-### Exchanges by Cryptocurrency
+- Ethereum
+- NANO
+- Monero
+- ZCash
+## Layer 2
+# Exchanges
+## Exchanges by Cryptocurrency
 We'll list DEXs and CEXs (to be removed)
-
+### DEX
+- Bitcoin
+- Bitcoin (LN)
+- Ethereum
+- Tether
+#### CEX
 ### Cryptocurrencies by Exchanges
+#### DEX
+##### 
+
+Binance DEX
+#### CEX
+- PAXful
+- Binance
+- 
