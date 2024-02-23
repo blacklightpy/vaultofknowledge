@@ -190,19 +190,6 @@
             }
           },
           {
-            "id": "0fae7649ce3aa34d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7659677b9c638ebf",
             "type": "leaf",
             "state": {
@@ -213,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -363,7 +350,8 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "7659677b9c638ebf",
