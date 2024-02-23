@@ -201,9 +201,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7659677b9c638ebf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -353,11 +363,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0fae7649ce3aa34d",
+  "active": "7659677b9c638ebf",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Free Software Banking.md",
     "🗃️ Unorganized/General Notes/Photoshop App In India.md",
