@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -357,10 +357,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7659677b9c638ebf",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards/Standards Organizations.md",
     "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
+    "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards/Standards Organizations.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards",
     "🔮 World Building/Science and Engineering/Science Resources",
