@@ -97,6 +97,12 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - Tetraethylene glycol dimethyl ether (TEGDME / tetraglyme / G4) 
 ### Common mixtures of solvents
 - EC-PC-DMC (20%:20%:60% vol.)
+
+### Example of Solid Electrolytes
+-  (LGPS)
+- $\ce{Li6PS5Cl}$ (LSPCI)
+- Tetra-$\ce{Li7SiPS8}$ (LiSiPS)
+- $\ce{Li_{3+x}Si_xPi_{1-x}}$ (Thio-LISICON)
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.

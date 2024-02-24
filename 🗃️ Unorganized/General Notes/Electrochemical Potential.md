@@ -1,3 +1,5 @@
+**Doubt:** Who gets reduced, cathode or anode?
+
 The standard electrode potential ($\text{E}^\ominus$) is expressed as the *reduction potential*. The electrochemical potential difference of a cell is then given as:
 
 $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{cathode} - \text{E}^\ominus_\text{anode}$
