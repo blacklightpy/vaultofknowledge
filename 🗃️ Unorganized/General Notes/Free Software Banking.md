@@ -37,4 +37,6 @@ We'll list DEXs and CEXs (to be removed)
 - Unocoin
 # Wallets
 ## Non-Custodial (Safe)
-## 
+- Gaurda Wallet
+## Custodial (Unsafe)
+Exchange wallets fall in this category.

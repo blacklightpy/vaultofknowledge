@@ -1,0 +1,1 @@
+Electrolysis is the use of direct current to drive a non-spontaneous reaction. This is normally used for electroplating metals, separation of ores or electroplating machines.
