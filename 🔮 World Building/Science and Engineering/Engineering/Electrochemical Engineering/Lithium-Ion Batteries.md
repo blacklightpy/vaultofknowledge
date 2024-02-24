@@ -65,6 +65,7 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{LiCF}_\text{3}\text{SO}_\text{3}$ (Lithium Trifluoromethanesulfonate / Lithium Triflate / **Li-TFS** / **LiOTf**)
 - $\text{LiN(CF}_\text{3}\text{SO}_\text{2}\text{)}_\text{2}$ (Lithium bis(trifluoromethanesulfonyl)imide / Lithium Bistriflimide / **Li-TFSI** / **LiNTf₂**)
 - $\text{LiC(SO}_\text{2}\text{CF}_\text{3}\text{)}_\text{3}$ (Lithium tris(trifluoromethanesulfonyl)methide / Lithium Triflide / **Li-TFSM** / **LiCTf₃**)
+- (Lithium Cyclo-difluoromethane-1,1-bis(sulfonyl)imide / Li-DMSI)
 
 > [!NOTE]
 > - Trifluoromethanesulfonate is also called Triflate, denoted as **TF** or **-OTf**
@@ -97,12 +98,14 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - Tetraethylene glycol dimethyl ether (TEGDME / tetraglyme / G4) 
 ### Common mixtures of solvents
 - EC-PC-DMC (20%:20%:60% vol.)
-
 ### Example of Solid Electrolytes
--  (LGPS)
-- $\ce{Li6PS5Cl}$ (LSPCI)
+- $\ce{Li10GeP2S12}$ (LGPS)
+- $\ce{Li6PS5Cl}$ / $\ce{Li_{5.5}PS_{4.5}Cl_{1.5}}$ (LSPCI)
 - Tetra-$\ce{Li7SiPS8}$ (LiSiPS)
-- $\ce{Li_{3+x}Si_xPi_{1-x}}$ (Thio-LISICON)
+- $\ce{Li_{3+x}Si_xP_{1-x}S_4}$ (Thio-LISICON)
+- Poly(ethylene glycol) diglycidyl ether (PEGDE) 
+- Garnet
+- Thin Film (LiPON)
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.
