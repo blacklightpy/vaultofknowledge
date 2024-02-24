@@ -92,7 +92,7 @@
               "type": "markdown",
               "state": {
                 "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
+                "file": "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md"
               }
             }
           },
@@ -357,8 +357,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "edccef2194c0b86a",
+  "active": "7659677b9c638ebf",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+    "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
+    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards/Standards Organizations.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
@@ -369,13 +374,8 @@
     "🗃️ Unorganized/General Notes/Photoshop App In India.md",
     "🗃️ Unorganized/General Notes/Sulfur Ions.md",
     "🗃️ Unorganized/General Notes/Solid State Batteries.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
-    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
-    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🗃️ Unorganized/General Notes/Developing Linux on Embedded.md",
-    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
-    "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
     "🗺️ World Exploration/Literature/Lingua Franca.md",
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
