@@ -7,6 +7,10 @@
 - Hijra: The move from Mecca to Medina
 - Hijri Year: It is the calendar era used in the Islamic calendar (from 622 CE), which is based on lunar years (354-355 days a year)
 - AH: Anno Hegirae (romanized) - referring to the Islamic calendar years
+# Main Definitions
+- Islam: Submission to Allah
+- Muslim: One who submits
+- Quran: The Recitation (of the word of Allah)
 # Branches of Islam
 - Ibadi (popular in Oman)
 - Sunni
