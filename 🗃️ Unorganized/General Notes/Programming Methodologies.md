@@ -3,7 +3,7 @@
 - Object Oriented Programming
 ### Game Development Specific
 - Entity-Component
-- Entity Componenet
+- Entity Component
 ### Web Development
 - Model View Controller (MVC)
 - Model View View-Model (MVVM)

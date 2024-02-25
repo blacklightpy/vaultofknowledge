@@ -175,9 +175,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "784444bb36eb9217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "model view controller",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,8 +236,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Programming Methodologies.md",
+                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Programming Methodologies.md",
+                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Programming Methodologies.md"
+                "file": "🗃️ Unorganized/General Notes/Genres of Music.md"
               }
             }
           },
@@ -331,10 +343,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "850f279ee8613df8",
+  "active": "784444bb36eb9217",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Software Architectures.md",
+    "🗃️ Unorganized/General Notes/Map of Computer Science.md",
+    "🗃️ Unorganized/General Notes/Genres of Music.md",
     "🗃️ Unorganized/General Notes/Programming Methodologies.md",
+    "🗃️ Unorganized/General Notes/Software Architectures.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
     "🗃️ Unorganized/General Notes/Web App Frameworks.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Frameworks.md",
@@ -359,8 +373,6 @@
     "🔮 World Building/Science and Engineering/Science Resources",
     "Home.md",
     "🗃️ Unorganized/General Notes/Solid State Batteries.md",
-    "🗃️ Unorganized/General Notes/Developing Linux on Embedded.md",
-    "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
     "🔮 World Building/Marketplace and Creations/Food",
     "🗺️ World Exploration/Beauty and Fashion",
     "🔮 World Building/Self-Care/Health and Fitness",
