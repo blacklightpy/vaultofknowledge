@@ -5,3 +5,5 @@
 - Model View Update (MVU)
 - Client-Server
 - [[Pipe and Filter Architecture]]
+# Related
+- [[Programming Methodologies]]
