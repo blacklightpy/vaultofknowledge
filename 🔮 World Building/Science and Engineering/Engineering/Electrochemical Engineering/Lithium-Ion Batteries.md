@@ -58,16 +58,18 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 ### Examples of Salts
 - $\ce{LiPF6}$ (Lithium Hexafluorophosphate) (main conductive salt, decomposes at high temperatures, reacts with water traces to form toxic $\ce{HF}$)
 - $\ce{LiBr}$ (common additive salt)
-- **More:** $\ce{LiAsF6}$, $\ce{LiClO4}$, $\ce{LiBF4}$, Li-AC, Li-TFS, Li-TFSI, Li-TFSM, Li-DMSI, Li-HPSI, Li-FSI, Li-BOB, Li-FAP, Li-BETI, Li-DFOB, Li-BFMB, Li-Bison, Li-DCTA, Li-TDI, Li-PDI
-### Example of organic solvents
+- **More (details in separate note):** $\ce{LiAsF6}$, $\ce{LiClO4}$, $\ce{LiBF4}$, Li-AC, Li-TFS, Li-TFSI, Li-TFSM, Li-DMSI, Li-HPSI, Li-FSI, Li-BOB, Li-FAP, Li-BETI, Li-DFOB, Li-BFMB, Li-Bison, Li-DCTA, Li-TDI, Li-PDI
 
+> [!NOTE]
+> The abbreviations are short forms for their long IUPAC or common names, not some commercial name. More detailed notes are in [[Details about Lithium Ion Electrolyte Materials]]
+### Example of organic solvents
 #### Cyclic Esters
 - Ethylene Carbonate (EC)
 - Propylene Carbonate (PC)
 - γ-Butyrolactone (GBL)
 #### Linear Esters
 - Dimethyl Carbonate (DMC) 
-- Ethyl Methyl Carbonate (EMC) ($\text C_\text 4\text H_\text 8\text O_\text 3$ )
+- Ethyl Methyl Carbonate (EMC)
 - Diethyl Carbonate (DEC)
 - Tetrahydrofuran (THF)
 - 2-Methyl tetrahydrofuran (2-MTHF)
@@ -78,14 +80,11 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - Tetraethylene glycol dimethyl ether (TEGDME / tetraglyme / G4) 
 ### Common mixtures of solvents
 - EC-PC-DMC (20%:20%:60% vol.)
-### Example of Solid Electrolytes
-- $\ce{Li10GeP2S12}$ (**LGPS**)
-- $\ce{Li6PS5Cl}$ / $\ce{Li_{5.5}PS_{4.5}Cl_{1.5}}$ (**LSPCI**)
-- Tetra-$\ce{Li7SiPS8}$ (**LiSiPS**)
-- $\ce{Li_{3+x}Si_xP_{1-x}S_4}$ (**Thio-LISICON**)
-- Poly(ethylene glycol) diglycidyl ether (**PEGDE**) 
-- Garnet
-- Thin Film (**LiPON**)
+
+> [!NOTE]
+> Solid Electrolytes are different from the salt-solvent mixtures listed here.
+>  
+> **Examples:** LGPS, LSPCl, LiSiPS, LSPCI/LiSiPS 3D Composite, Thio-LISICON, NASICON, PEGDE, Garnet, LiPON. More notes on them are (or will be added) in [[Details about Lithium Ion Electrolyte Materials]].
 ## Charging and Formation of Solid Electrolyte Interface
 
 Basically, upon initial charging, the positive plate attracts the electrons and they move through the wires and towards the negative plate and into the anode while the Lithium ions move through the electrolyte into the anode.

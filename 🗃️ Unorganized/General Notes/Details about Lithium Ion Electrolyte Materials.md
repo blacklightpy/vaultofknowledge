@@ -1,4 +1,4 @@
-## Examples of Salts
+## Notes of Electrolyte Salts
 - $\text{LiPF}_\text{6}$ (Lithium Hexafluorophosphate) (main conductive salt, decomposes at high temperatures, reacts with water traces to form toxic $\text{HF}$)
 - $\text{LiBr}$ (Lithium Bromate) (common additive salt)
 - $\text{LiAsF}_\text{6}$ (Lithium Hexafluoroarsenate)
@@ -35,3 +35,12 @@
 > 	- Passivity
 > - [Royal Society of Chemistry Notes of Lithium Salts for Advance Lithium Batteries](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c5ee01215e)
 > 	- Shows structures
+
+## Solid Electrolytes
+- $\ce{Li10GeP2S12}$ (**LGPS**)
+- $\ce{Li6PS5Cl}$ / $\ce{Li_{5.5}PS_{4.5}Cl_{1.5}}$ (**LSPCI**)
+- Tetra-$\ce{Li7SiPS8}$ (**LiSiPS**)
+- $\ce{Li_{3+x}Si_xP_{1-x}S_4}$ (**Thio-LISICON**)
+- Poly(ethylene glycol) diglycidyl ether (**PEGDE**) 
+- Garnet
+- Thin Film (**LiPON**)
