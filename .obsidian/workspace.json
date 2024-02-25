@@ -92,7 +92,7 @@
               "type": "markdown",
               "state": {
                 "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+                "file": "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
+                "file": "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md"
               }
             }
           },
@@ -357,10 +357,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "edccef2194c0b86a",
+  "active": "f1e4f7583fe77002",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
     "🗃️ Unorganized/General Notes/Programming Methodologies.md",
     "🗃️ Unorganized/General Notes/Genres of Music.md",
     "🗃️ Unorganized/General Notes/Map of Computer Science.md",

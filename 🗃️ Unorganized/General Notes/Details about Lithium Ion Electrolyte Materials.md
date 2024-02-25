@@ -37,6 +37,23 @@
 > 	- Shows structures
 
 ## Solid Electrolytes
+They are divided into *All-Solid-State-Electrolytes* and *Quasi-Solid-State-Electrolytes* (or *Gel Polymer Electrolytes*).
+
+All-Solid-State-Electrolytes can be divided into three categories, namely *Inorganic Solid Electrolytes (ISEs)*, *Solid Polymer Electrolytes (SPEs)*, and *Composite Solid Electrolytes (CSEs)*.
+### Inorganic Solid Electrolytes
+### Solid Polymer Electrolytes / Dry SPE
+These are used in Lithium-Polymer (Li-Po) batteries.
+
+An SPE was initially defined as a polymer matrix swollen with lithium salts, but is now referred to as Dry Solid Polymer Electrolyte
+
+- Polyethylene Glycol (PEG)
+- Polyacrylonitrile (PAN)
+- Poly(methyl methacrylate) (PMMA)
+- Poly(vinylidene fluoride) (PVdF). 
+### Composite Solid Electrolytes
+
+### Gel Polymer Electrolytes
+
 - $\ce{Li10GeP2S12}$ (**LGPS**)
 - $\ce{Li6PS5Cl}$ / $\ce{Li_{5.5}PS_{4.5}Cl_{1.5}}$ (**LSPCI**)
 - Tetra-$\ce{Li7SiPS8}$ (**LiSiPS**)
