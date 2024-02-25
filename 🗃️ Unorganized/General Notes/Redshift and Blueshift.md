@@ -1,0 +1,1 @@
+Redshift is decrease in energy and Blueshift is increase in energy (frequency, and $E=h\nu$).

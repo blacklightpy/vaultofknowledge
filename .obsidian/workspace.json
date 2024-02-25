@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04de28fb66b3dc1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -278,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/People who value 'beauty' too much often cause all problems.md",
+                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/People who value 'beauty' too much often cause all problems.md",
+                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/People who value 'beauty' too much often cause all problems.md"
+                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md"
               }
             }
           },
@@ -357,8 +370,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "48a958a96689097f",
+  "active": "04de28fb66b3dc1e",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/People who value 'beauty' too much often cause all problems.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
@@ -383,10 +398,8 @@
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrolysis.md",
     "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards/Standards Organizations.md",
-    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards",
     "🔮 World Building/Science and Engineering/Science Resources",
-    "Home.md",
     "🔮 World Building/Marketplace and Creations/Food",
     "🗺️ World Exploration/Beauty and Fashion",
     "🔮 World Building/Self-Care/Health and Fitness",
