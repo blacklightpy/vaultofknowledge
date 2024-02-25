@@ -53,18 +53,32 @@ Other roles of the electrolyte include:
 
 **Formula:** A mixture of $\text{LiX}$ ($\text X$ = Anion) salts + Organic Solvent
 
-> [!NOTE]
-> Next-gen Lithium batteries like Li-metal, $\text{Li-S}$ and Li-air (metal-air) batteries need different types of salts for their changed properties.
+> [!TIP] Info: Safety and Next-Gen Batteries
+> Liquid Electrolytes used in typical Lithium-Ion batteries are inflammable and have attained their maximum energy density, making it technically limited and also potentially dangerous.
+> 
+> For this reason, *Solid State Batteries (SSBs)* are the next generation of batteries.
+> 
+> They use a solid polymer matrix or solid electrolyte (SE) with little liquid electrolyte (LE) (*Hybrid Solid State Batteries (HSSB)*) or none at all (*All Solid State Batteries (ASSB)*).
 
-> [!TIP] Info
-> In general, for *All-Solid-State Alkali Metal Batteries* (ASSAMBs), *Solid Polymer Electrolytes* (SPEs) with high cationic conductivity are highly desired.
-### Examples of Salts
+> [!NOTE]
+> Next-gen Lithium batteries like Li-metal, Li-S and Li-air (metal-air) batteries need different types of salts for their changed properties.
+### Examples of Lithium Salts
 - $\ce{LiPF6}$ (Lithium Hexafluorophosphate) (main conductive salt, decomposes at high temperatures, reacts with water traces to form toxic $\ce{HF}$)
 - $\ce{LiBr}$ (common additive salt)
-- **More (details in separate note):** $\ce{LiAsF6}$, $\ce{LiClO4}$, $\ce{LiBF4}$, Li-AC, Li-TFS, Li-TFSI, Li-TFSM, Li-DMSI, Li-HPSI, Li-FSI, Li-BOB, Li-FAP, Li-BETI, Li-DFOB, Li-BFMB, Li-Bison, Li-DCTA, Li-TDI, Li-PDI
+- **More (details in separate note):** $\ce{LiAsF6}$, $\ce{LiClO4}$, $\ce{LiBF4}$, $\ce{LiAlCl4}$, Li-TFS, Li-TFSI, Li-TFSM, Li-DMSI, Li-HPSI, Li-FSI, Li-BOB, Li-FAP, Li-BETI, Li-DFOB, Li-BFMB, Li-Bison, Li-DCTA, Li-TDI, Li-PDI
 
 > [!NOTE]
-> The abbreviations are short forms for their long IUPAC or common names, not some commercial name. More detailed notes are in [[Details about Lithium Ion Electrolyte Materials]]
+> The abbreviations are short forms for their long IUPAC or common names, not some commercial name. I put their full names in a separate note: [[Details about Lithium Ion Electrolyte Materials]]
+
+> [!TIP] More Resources
+> - [ScienceDirect Notes on Lithium Salts](https://www.sciencedirect.com/topics/chemistry/lithium-salt)
+> 	- Safety Levels
+> 	- Ionic Radius (from van der Waals volumes)
+> 	- Limiting Molar Conductivity
+> 	- Degree of Dissociation
+> 	- Passivity
+> - [Royal Society of Chemistry Notes of Lithium Salts for Advance Lithium Batteries](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c5ee01215e)
+> 	- Shows structures
 ### Example of organic solvents
 #### Cyclic Esters
 - Ethylene Carbonate (EC)
@@ -85,7 +99,7 @@ Other roles of the electrolyte include:
 - EC-PC-DMC (20%:20%:60% vol.)
 
 > [!NOTE]
-> Solid Electrolytes are different from the salt-solvent mixtures listed here.
+> In general, all *All Solid State Alkali Metal Batteries (ASSAMBs)* use *Solid Electrolytes (SEs)* which are different from the typical salt-solvent mixtures used by typical Li-Ion batteries.
 >  
 > **Examples:** LGPS, LSPCl, LiSiPS, LSPCI/LiSiPS 3D Composite, Thio-LISICON, NASICON, PEGDE, Garnet, LiPON. More notes on them are (or will be added) in [[Details about Lithium Ion Electrolyte Materials]].
 ## Charging and Formation of Solid Electrolyte Interface
