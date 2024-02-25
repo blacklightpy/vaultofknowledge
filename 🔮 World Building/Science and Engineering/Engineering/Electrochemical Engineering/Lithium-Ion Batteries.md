@@ -10,7 +10,6 @@ The electrolyte is also protected from degradation by interaction with electrons
 - [[Electrochemical Potential]]
 - [[Comparing Performances of Battery Technologies]]
 - [[Comparison of Lithium Ion Batteries]]
-- 
 ## Cathode
 - $\text{LiMO}$ (MO = Metal Oxide)
 	- The metals are 3d transition metals on the right end due their highest positive electronegativity values, which increases their electrode potential. So basically **Cobalt, Nickel, Manganese, Iron**.

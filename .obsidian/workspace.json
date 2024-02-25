@@ -92,7 +92,7 @@
               "type": "markdown",
               "state": {
                 "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -264,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Programming Methodologies.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Programming Methodologies.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Programming Methodologies.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -343,10 +344,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "850f279ee8613df8",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Genres of Music.md",
     "🗃️ Unorganized/General Notes/Programming Methodologies.md",
+    "🗃️ Unorganized/General Notes/Genres of Music.md",
     "🗃️ Unorganized/General Notes/Map of Computer Science.md",
     "🗃️ Unorganized/General Notes/Software Architectures.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
