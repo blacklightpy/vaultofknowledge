@@ -42,13 +42,16 @@ $\text{C}_\text{6} + \text{Li}^+ + \text{e}^- \rightarrow \text{LiC}_\text{6}$ (
 - $\text{Li}_\text{15}\text{Si}_\text{4}$ (Used in Solid State Batteries, In development, Maximum theoretical specific charge of about 3600 $\text{mAh/g}$. Each crystalline Silicon atom can hold about 3.75 Lithium ions compared to Graphite, which can only hold 1 Lithium ion for every 6 Carbon atoms at best.)
 - $\text{Li (s)}$ (Used in Solid State Batteries, in development, Maximum theoretical specific charge of about 3863 $\text{mAh/g}$)
 ## Electrolyte
-- The electrolyte is the medium through which the ions move between electrodes.
-- Its *characteristics* (temperature range, passivation, conductivity, etc.) also sets the maximum allowed voltage (decomposition voltage), beyond which the electrolyte breaks down.
-- Other roles of the electrolyte:
-	- Coulombic efficiency (charge efficiency)
-	- Dendrite formation of Li–metal
-	- Degradation of electrolytes by the intermediate and final reaction products in $\text{Li–S}$ and $\text{Li–Air}$ batteries
-- A mixture of $\text{LiX}$ ($\text X$ = Anion) salts + Organic Solvent
+The electrolyte is the medium through which the ions move between electrodes.
+
+Its characteristics, such as **temperature range**, **passivation**, **conductivity**, etc. also sets the **maximum allowed voltage** (or **decomposition voltage**), beyond which the electrolyte breaks down.
+
+Other roles of the electrolyte include:
+- Coulombic efficiency (charge efficiency)
+- Dendrite formation of Li–metal
+- Degradation of electrolytes by the intermediate and final reaction products in $\text{Li–S}$ and $\text{Li–Air}$ batteries
+
+**Formula:** A mixture of $\text{LiX}$ ($\text X$ = Anion) salts + Organic Solvent
 
 > [!NOTE]
 > Next-gen Lithium batteries like Li-metal, $\text{Li-S}$ and Li-air (metal-air) batteries need different types of salts for their changed properties.
