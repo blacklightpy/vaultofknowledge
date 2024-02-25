@@ -188,35 +188,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "48a958a96689097f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/People who value 'beauty' too much often cause all problems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04de28fb66b3dc1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -245,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "decoheren",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,12 +236,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -291,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Redshift and Blueshift.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -370,8 +344,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04de28fb66b3dc1e",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Photoshop App In India.md",
     "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/People who value 'beauty' too much often cause all problems.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
@@ -386,7 +361,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Frameworks.md",
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
-    "🗃️ Unorganized/General Notes/Photoshop App In India.md",
     "🗃️ Unorganized/General Notes/Comparison of OSes.md",
     "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
