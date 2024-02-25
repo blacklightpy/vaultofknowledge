@@ -17,3 +17,5 @@
 - Graph Model
 ### Miscellaneous
 - Component Object Model (COM)
+
+Terms: Design Pattern, Architectural Pattern, Programming Paradigm
