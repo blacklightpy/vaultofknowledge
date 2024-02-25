@@ -56,9 +56,9 @@ Other roles of the electrolyte include:
 > [!TIP] Info: Safety and Next-Gen Batteries
 > Liquid Electrolytes used in typical Lithium-Ion batteries are inflammable and have attained their maximum energy density, making it technically limited and also potentially dangerous.
 > 
-> For this reason, *Solid State Batteries (SSBs)* are the next generation of batteries.
+> For this reason, *All Solid State Batteries (ASSBs)* are the next generation of batteries. *ASSBs* are different from *SSBs* which may only replace the anode material with *solid Lithium* or a *Silicon lattice*.
 > 
-> They use a solid polymer matrix or solid electrolyte (SE) with little liquid electrolyte (LE) (*Hybrid Solid State Batteries (HSSB)*) or none at all (*All Solid State Batteries (ASSB)*).
+> They either use a solid polymer matrix or solid electrolyte (SE) with little to no liquid electrolyte (LE). Liquid electrolyte often helps with conductivity at the cathode-electrolyte interface.
 
 > [!NOTE]
 > Next-gen Lithium batteries like Li-metal, Li-S and Li-air (metal-air) batteries need different types of salts for their changed properties.
