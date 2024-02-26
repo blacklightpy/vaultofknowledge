@@ -18,4 +18,7 @@
 ### Miscellaneous
 - Component Object Model (COM)
 
-Terms: Design Pattern, Architectural Pattern, Programming Paradigm
+Terms:
+Design Pattern (Flow and execution of a single component)
+Architectural Pattern (Flow and execution of a large system)
+Programming Paradigm (Principles of Programming)
