@@ -1,0 +1,3 @@
+- Procedural Programming
+- Object Oriented Programming
+- Functional Programming

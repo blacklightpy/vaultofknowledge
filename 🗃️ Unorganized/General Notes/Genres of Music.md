@@ -4,7 +4,7 @@
 - Electro
 - Techno
 - Drum 'n Bass
-## Mixed Generes
+## Mixed Genres
 - Electronic Dance Music
 ## Modern Genres
 - Trap
