@@ -37,3 +37,7 @@ Note: Vamp is used for analysis (like DSP)
 	- Serum
 	- Cthulhu
 - Scaler
+
+## Free
+- [Wav2Bar](https://picorims.github.io/wav2bar-website/) Audio visualizer
+- 
