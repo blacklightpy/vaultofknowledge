@@ -30,3 +30,10 @@ Note: Vamp is used for analysis (like DSP)
 | ----------------- | --- | ------- | --------- | --------- |
 | Apple Audio Units |     |         |           | Apple     |
 | DirectX Plugin    |     |         |           | Windows   |
+
+# List of Plugins
+- FL Studio Default
+- Xfer Records Plugins
+	- Serum
+	- Cthulhu
+- Scaler
