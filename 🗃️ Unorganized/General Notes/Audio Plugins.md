@@ -30,7 +30,19 @@ Note: Vamp is used for analysis (like DSP)
 | ----------------- | --- | ------- | --------- | --------- |
 | Apple Audio Units |     |         |           | Apple     |
 | DirectX Plugin    |     |         |           | Windows   |
-
+# Plugin Frameworks
+- JUCE
+- Rust VST
+- VSTGUI
+- GTK
+- FLTK
+- Qt
+- DPF
+- SAF
+- WDL-OL
+- FLUID
+- Faust
+- WAM
 # List of Plugins
 - FL Studio Default
 - Xfer Records Plugins
