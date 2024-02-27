@@ -1,8 +1,8 @@
 Audio Plugins are used to provide additional audio-related functionality to a computer program. It may include audio effects or [[virtual instruments|instruments]] (synthesizers and [[samplers]]).
 
-Plugin > Instances (Loader) > Plugin Host (DAW, Carla, etc.)
+Plugin > Instances (Loader) > Plugin Host
 
-Plugin hosts are used to extend plugin functionality in a DAW (such as saving presets, etc.) or to 
+[[Plugin hosts]] are used to extend plugin functionality in a DAW (such as saving presets, mixing plugins, etc.) or to use them standalone.
 # Plugin Architectures
 ## Free Software
 - VST2/VST3 (Virtual Studio Technology)
