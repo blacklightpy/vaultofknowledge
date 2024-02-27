@@ -1,6 +1,8 @@
 A plugin host is used to load an [[Audio Plugins|audio plugin]].
 
 It may be the [[Digital Audio Workstation|DAW]], or a plugin loader.
+
+Sometimes, even a plugin host can be used as a plugin into another plugin host using a [[Audio Patchbay|patchbay]].
 # Plugin Loaders
 - Carla by KXStudio
 	- Features a Rack and Patchbay

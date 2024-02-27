@@ -188,22 +188,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f4937fa8d12e9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Plugin Hosts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -278,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Plugin Hosts.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +282,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Plugin Hosts.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Plugin Hosts.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md"
               }
             }
           },
@@ -357,11 +344,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0f4937fa8d12e9a4",
+  "active": "fc085f744d25a159",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Digital Audio Workstation.md",
-    "🗃️ Unorganized/General Notes/Plugin Hosts.md",
     "🗃️ Unorganized/General Notes/Audio Plugins.md",
+    "🗃️ Unorganized/General Notes/Plugin Hosts.md",
+    "🗃️ Unorganized/General Notes/Digital Audio Workstation.md",
     "🗃️ Unorganized/General Notes/Virtual Instruments.md",
     "🗃️ Unorganized/General Notes/Samplers.md",
     "🗃️ Unorganized/General Notes/Audio Patchbay.md",
