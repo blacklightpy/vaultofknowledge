@@ -1,0 +1,5 @@
+- How music is compressed
+- How data is stored in magnetic tape / optical discs / hard discs
+- How photographs are taken
+- How a printer works
+- How ink is made
