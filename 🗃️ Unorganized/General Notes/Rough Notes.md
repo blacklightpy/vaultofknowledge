@@ -25,7 +25,6 @@
 - Recording Studio:
 - Record Labels:
 - Platforms:
-
 # Music Video
 - Performers:
 - Set Designers:
