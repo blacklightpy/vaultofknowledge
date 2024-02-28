@@ -1,7 +1,7 @@
 # Distros by Userbase
 
 > [!NOTE]
-> Remember, get familiarized with **Desktop Environments**. I'm biased to think that among *GNOME* and *KDE Plasma*, people will generally like *GNOME* purely based on personal feelings, mainly because *Plasma*'s default styli aren't what I think most people will find coolest.
+> Remember, get familiarized with **Desktop Environments**. I'm biased to think that among *GNOME* and *Plasma*, people will generally like *GNOME* purely based on personal feelings, mainly because *Plasma*'s default styling isn't what I think most people will find coolest.
 ## Baby Newbie Friendly
 I don't know what a computer is but I've seen Windows.
 
