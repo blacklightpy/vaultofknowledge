@@ -52,4 +52,3 @@ Note: Vamp is used for analysis (like DSP)
 
 ## Free
 - [Wav2Bar](https://picorims.github.io/wav2bar-website/) Audio visualizer
-- 
