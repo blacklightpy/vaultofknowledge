@@ -1,5 +1,5 @@
 References:
-[[Window Managers 1]] -> [[Window Managers 1#Examples|List of Window Managers]]
+[[Window Managers]] -> [[Window Managers#Examples|List of Window Managers]]
 For riced screenshots, see [[Rice Showcase]].
 
 Remember, window managers don't look cool out of the box. They are for you to tweak.

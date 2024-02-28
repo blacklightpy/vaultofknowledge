@@ -17,7 +17,8 @@ Wayland takes a combined approach to the display ecosystem.
 The display server, window manager and compositor are a single program, called a compositor.
 A desktop environment shell has a compositor and and other panels, docks and widgets.
 
-## Components
+## Additional Components
+When using a window manager setup, we can use these parts to our liking to make it have the functionality of a desktop environment.
 ### Dash (/ App Menu / Launcher)
 
 Windows 8 Start Menu:

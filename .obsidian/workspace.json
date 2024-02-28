@@ -195,7 +195,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤠 Personal/Creative and Recreational/Desktop Environments.md",
+                "file": "🗃️ Unorganized/General Notes/Window Managers.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa6878e50512581e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Rough Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -278,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤠 Personal/Creative and Recreational/Desktop Environments.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤠 Personal/Creative and Recreational/Desktop Environments.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤠 Personal/Creative and Recreational/Desktop Environments.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes.md"
               }
             }
           },
@@ -357,12 +370,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "94f940086a49c4c7",
+  "active": "aa6878e50512581e",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
+    "🗃️ Unorganized/General Notes/Rough Notes.md",
+    "🗃️ Unorganized/General Notes/Window Managers.md",
     "🤠 Personal/Creative and Recreational/Desktop Environments.md",
     "🗃️ Unorganized/General Notes/Desktop Environments.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
     "🗃️ Unorganized/General Notes/Audio Plugins.md",
+    "🗃️ Unorganized/General Notes/Window Manager Showcase 1.md",
+    "🗃️ Unorganized/General Notes/Desktop Environment Showcase.md",
+    "🗃️ Unorganized/General Notes/Window Managers 1.md",
+    "🗃️ Unorganized/General Notes/Window Manager Showcase.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/Wayland.md",
+    "🗃️ Unorganized/General Notes/Linux Pro.md",
+    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "🗃️ Unorganized/General Notes/Free Games.md",
     "🗃️ Unorganized/General Notes/Plugin Hosts.md",
     "🗃️ Unorganized/General Notes/Audio Patchbay.md",
@@ -376,15 +398,6 @@
     "🗃️ Unorganized/General Notes/Software Design Patterns.md",
     "🗃️ Unorganized/General Notes/Programming Paradigms.md",
     "🗃️ Unorganized/General Notes/Pipe and Filter Architecture.md",
-    "🗃️ Unorganized/General Notes/Software Architectural Patterns.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
-    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
-    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
-    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
-    "🗃️ Unorganized/General Notes/Redshift and Blueshift.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/People who value 'beauty' too much often cause all problems.md",
-    "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards",
     "🔮 World Building/Science and Engineering/Science Resources",
     "🔮 World Building/Marketplace and Creations/Food",
