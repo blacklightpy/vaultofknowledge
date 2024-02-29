@@ -201,35 +201,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa6878e50512581e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44784aac294b901f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Technology to Know.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -304,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Technology to Know.md",
+                "file": "🗃️ Unorganized/General Notes/Window Managers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -321,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Technology to Know.md",
+                "file": "🗃️ Unorganized/General Notes/Window Managers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Technology to Know.md"
+                "file": "🗃️ Unorganized/General Notes/Window Managers.md"
               }
             }
           },
@@ -383,10 +357,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44784aac294b901f",
+  "active": "94f940086a49c4c7",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to set metadata for public domain music.md",
     "🗃️ Unorganized/General Notes/Technology to Know.md",
-    "🗃️ Unorganized/General Notes/Rough Notes.md",
     "🗃️ Unorganized/General Notes/Window Managers.md",
     "🤠 Personal/Creative and Recreational/Desktop Environments.md",
     "🗃️ Unorganized/General Notes/Desktop Environments.md",
