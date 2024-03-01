@@ -188,9 +188,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d888321219cf727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -265,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
+                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
+                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Genres of Music.md"
+                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md"
               }
             }
           },
@@ -344,14 +357,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "784444bb36eb9217",
+  "active": "7d888321219cf727",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Genres of Music.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
     "🗃️ Unorganized/General Notes/Audio Plugins.md",
     "🗃️ Unorganized/General Notes/Window Managers.md",
     "🗃️ Unorganized/General Notes/Music Quantization and Black Body Radiation.md",
-    "🗃️ Unorganized/General Notes/Genres of Music.md",
     "🗃️ Unorganized/General Notes/How to set metadata for public domain music.md",
     "🗃️ Unorganized/General Notes/Technology to Know.md",
     "🤠 Personal/Creative and Recreational/Desktop Environments.md",
