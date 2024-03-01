@@ -17,4 +17,7 @@ This is terrible because without the hard labour that these people performed for
 
 # Vedas
 
-- Smartas follow Smriti
+- Smartas follow Smritis
+
+Through DWIJA, Brahmin can become Shudra and vice versa.
+
