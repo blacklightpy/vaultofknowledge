@@ -31,4 +31,9 @@ Just some
 Music is composed
 But not all rules of composition.
 
+# Mujahideen
+Do you expect, me, the lord
+
+To lower me to the level of a human king?
+
 # Applications
