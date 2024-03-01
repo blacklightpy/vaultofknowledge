@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ae6309ccab5e7be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -278,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
+                "file": "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
+                "file": "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md"
+                "file": "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md"
               }
             }
           },
@@ -357,8 +370,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7d888321219cf727",
+  "active": "7ae6309ccab5e7be",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
+    "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
     "🗃️ Unorganized/General Notes/Genres of Music.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
@@ -383,8 +398,6 @@
     "🗃️ Unorganized/General Notes/Virtual Instruments.md",
     "🗃️ Unorganized/General Notes/Samplers.md",
     "🗃️ Unorganized/General Notes/Photoshop App In India.md",
-    "🗃️ Unorganized/General Notes/Programming Methodologies.md",
-    "🗃️ Unorganized/General Notes/Software Design Patterns.md",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards",
     "🔮 World Building/Science and Engineering/Science Resources",
     "🔮 World Building/Marketplace and Creations/Food",
