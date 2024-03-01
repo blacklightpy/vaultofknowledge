@@ -14,3 +14,21 @@ You're still only drinking from the top
 Until You reach the first mutt
 
 Also, the shape of the triangle was elongated for a reason
+
+[volume remains the same, but length differs]
+
+\<scuse me>
+Capitalism is not the problem
+The biggest mistake that the communists make
+Right wing also
+
+Teachings of christ
+But that's an oversimplification
+Well religion itself is
+
+Of course you don't have to know everything,
+Just some
+Music is composed
+But not all rules of composition.
+
+# Applications
