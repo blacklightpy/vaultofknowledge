@@ -1,8 +1,9 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "theme": "obsidian",
   "translucency": false,
   "cssTheme": "Vileplume",
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true
 }
