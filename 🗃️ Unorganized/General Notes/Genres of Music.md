@@ -9,3 +9,8 @@
 ## Modern Genres
 - Trap
 - Phonk
+
+# Popular Sample Loops
+## Drums
+- Amen Break (from "The Winstons - Amen Brother ()")
+- Funky Drummer (from "James Brown - Funky Drummer (1970)")

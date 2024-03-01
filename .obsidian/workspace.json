@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Window Managers.md",
+                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Window Managers.md",
+                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Window Managers.md"
+                "file": "🗃️ Unorganized/General Notes/Genres of Music.md"
               }
             }
           },
@@ -357,11 +357,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "94f940086a49c4c7",
+  "active": "784444bb36eb9217",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Window Managers.md",
     "🗃️ Unorganized/General Notes/How to set metadata for public domain music.md",
     "🗃️ Unorganized/General Notes/Technology to Know.md",
-    "🗃️ Unorganized/General Notes/Window Managers.md",
     "🤠 Personal/Creative and Recreational/Desktop Environments.md",
     "🗃️ Unorganized/General Notes/Desktop Environments.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Distros.md",
