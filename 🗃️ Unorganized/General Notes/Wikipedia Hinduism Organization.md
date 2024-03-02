@@ -24,10 +24,14 @@ The early Upanishads were composed over 900-300 BCE).
 - Yoga Vasistha (750 CE)
 ---
 
-- Agamas are traditions
-28 Shaiva Agamas
-64 Shakta Agamas (also called Tantras)
-108 Vaishnava Agamas (also called Pancharatra Samhitas), and numerous Upa-Agamas.
+- Agamas are traditions.
+	- They are voluminous and are divided into Shaiva, Shakta and Vaishnava.
+	- They are also called Tantras, but that's mostly Shakta Agamas.
+	- The Agama texts include:
+		- 28 Shaiva Agamas
+		- 64 Shakta Agamas (also called Tantras)
+		- 108 Vaishnava Agamas (also called Pancharatra Samhitas)
+		- and numerous Upa-Agamas.
 
 - Dvaita Vedanta is dualistic
 - Advaita Vedanta is monistic
