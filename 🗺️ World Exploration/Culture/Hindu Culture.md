@@ -213,55 +213,173 @@ Hindu "Om" symbol
 	- Yoga Vasistha
 	- Yoga Sutras of Patanjali
 
-Sangam Literature	
+- Sangam Literature	
+	- Tirumurai
+	- Divya Prabandham
+	- Tirumurukāṟṟuppaṭai
+	- Thiruppugal
+	- Thirukkural
+	- Kamba Ramayanam
+	- Five Great Epics
+	- Eighteen Greater Texts
+	- Eighteen Lesser Texts
+	- Athichudi
+	- Iraiyanar Akapporul
+	- Abhirami Antati
+	- Thiruvilaiyadal Puranam
+	- Vinayagar Agaval
+	- Vedarthasamgraha
 
-    Tirumurai Divya Prabandham Tirumurukāṟṟuppaṭai Thiruppugal Thirukkural Kamba Ramayanam Five Great Epics Eighteen Greater Texts Eighteen Lesser Texts Athichudi Iraiyanar Akapporul Abhirami Antati Thiruvilaiyadal Puranam Vinayagar Agaval Vedarthasamgraha
+- Deities	
+- Gods
+	- Trimurti
+		- Brahma
+		- Vishnu
+		- Shiva 
+	- Agni 
+	- Dattatreya 
+	- Ganesha 
+	- Hanuman 
+	- Indra 
+	- Kartikeya 
+	- Krishna 
+	- Rama 
+	- Surya 
+	- Varuna 
+	- Vayu 
+	- etc.
+- Goddesses
+	- Tridevi
+		- Saraswati 
+		- Lakshmi
+		- Parvati
+	- Bhumi
+	- Durga
+	- Kali
+	- Mahavidya
+	- Matrika 
+	- Radha 
+	- Rukmini 
+	- Sati 
+	- Shakti 
+	- Shashthi 
+	- Sita 
+	- etc.
 
-Deities	
-Gods	
+- Practices
+	- Worship
+		- Temple
+		- Murti
+		- Puja 
+		- Bhakti 
+		- Japa 
+		- Bhajan 
+		- Naivedhya 
+		- Yajna 
+		- Homa 
+		- Tapas 
+		- Dhyāna
+		- Tirthatana
 
-    Trimurti
-        Brahma Vishnu Shiva Agni Dattatreya Ganesha Hanuman Indra Kartikeya Krishna Rama Surya Varuna Vayu more
+- Sanskaras
+	- Garbhadhana
+	- Pumsavana 
+	- Simantonayana 
+	- Jatakarma 
+	- Namakarana 
+	- Nishkramana 
+	- Annaprashana 
+	- Chudakarana 
+	- Karnavedha 
+	- Vidyarambha 
+	- Upanayana 
+	- Keshanta 
+	- Ritushuddhi 
+	- Samavartanam 
+	- Vivaha
+	- Antyeshti
 
-Goddesses	
+- Varnashrama
+	- Varna
+		- Brahmin
+		- Kshatriya
+		- Vaishya
+		- Shudra
+	- Ashrama
+		- Brahmacharya
+		- Grihastha
+		- Vanaprastha
+		- Sannyasa
 
-    Tridevi
-        Saraswati Lakshmi Parvati Bhumi Durga Kali Mahavidya Matrika Radha Rukmini Sati Shakti Shashthi Sita more
+- Festivals
+	- Diwali
+	- Holi 
+	- Shivaratri
+	- Raksha Bandhan
+	- Navaratri
+		- Durga Puja 
+		- Ramlila 
+		- Vijayadashami 
+	- Ganesh Chaturthi 
+	- Rama Navami 
+	- Janmashtami 
+	- Onam 
+	- Pongal 
+	- Makar 
+	- Sankranti
+	- New Year
+		- Bihu
+		- Gudi Padwa
+		- Pahela Baishakh
+		- Puthandu
+		- Vaisakhi
+		- Vishu
+		- Ugadi
+	- Kumbh Mela
+		- Haridwar
+		- Nashik
+		- Prayag
+		- Ujjain
+	- Ratha Yatra
+	- Teej
+	- Vasant Panchami
+	- for Others
 
-Practices	
-Worship	
+- Other
+	- Svādhyāya
+	- Namaste
+	- Bindi
+	- Tilaka
 
-    Temple Murti Puja Bhakti Japa Bhajan Naivedhya Yajna Homa Tapas Dhyāna Tirthatana
-
-Sanskaras	
-
-    Garbhadhana Pumsavana Simantonayana Jatakarma Namakarana Nishkramana Annaprashana Chudakarana Karnavedha Vidyarambha Upanayana Keshanta Ritushuddhi Samavartanam Vivaha Antyeshti
-
-Varnashrama	
-
-    Varna
-        Brahmin Kshatriya Vaishya Shudra Ashrama
-        Brahmacharya Grihastha Vanaprastha Sannyasa
-
-Festivals	
-
-    Diwali Holi Shivaratri Raksha Bandhan Navaratri
-        Durga Puja Ramlila Vijayadashami Ganesh Chaturthi Rama Navami Janmashtami Onam Pongal Makar Sankranti New Year
-        Bihu Gudi Padwa Pahela Baishakh Puthandu Vaisakhi Vishu Ugadi Kumbh Mela
-        Haridwar Nashik Prayag Ujjain
-
-    Ratha Yatra Teej Vasant Panchami Others
-
-Other	
-
-    Svādhyāya Namaste Bindi Tilaka
-
-Related	
-
-    Hindus
-        Etymology List Denominations Law Calendar Anti-Hindu sentiment Criticism Hindu gurus and sants Hindu studies Iconography Mythology Nationalism
-        Hindutva Persecution Pilgrimage sites
-        India Relations with other religions
-        Baháʼí Buddhism Islam Jainism Judaism Sikhism Theosophy Glossary Hinduism by country Hindu temples
-        List Architecture
+- Related
+	- Hindus
+		- Etymology
+		- List
+	- Denominations
+	- Law
+	- Calendar
+	- Anti-Hindu sentiment
+	- Criticism
+	- Hindu gurus and sants
+	- Hindu studies
+	- Iconography
+	- Mythology
+	- Nationalism
+		- Hindutva
+	- Persecution
+	- Pilgrimage sites
+		- India
+	- Relations with other religions
+		- Baháʼí
+		- Buddhism
+		- Islam
+		- Jainism
+		- Judaism
+		- Sikhism
+		- Theosophy 
+	- Glossary 
+	- Hinduism by country 
+	- Hindu temples
+		- List
+		- Architecture
 
