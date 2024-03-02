@@ -64,75 +64,78 @@ My apologies for misunderstanding your question earlier. I have been trained on 
 I have been trained to provide information and answer questions related to these topics and many others, so please let me know if you have any specific questions about Hindu scriptures!
 
 ---
-* The Linga Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Linga Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Linga Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
 
-* The Agni Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Agni Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Aditya Purana
 
-* The Bhavishya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Bhavishya Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Agni Purana
+* Agni Mahapurana
 
-* The Brahma Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Brahma Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Brahma Vaivarta Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Brahma Vaivarta Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Bhagavata Purana
+* Mahabhagavata Purana
 
-* The Brahmanda Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Brahmanda Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Bhavishya Purana
+* Bhavishya Mahapurana
 
-* The Markandeya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Markandeya Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Brahma Purana
+* Brahma Rahasya Purana
+* Brahma Vaivarta Mahapurana
+* Brahma Vaivarta Purana
 
-* The Shiva Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Shiva Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Brahmavaivarta Purana
 
-* The Skanda Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Brahmanda Purana
+* Brahmanda Mahapurana
 
-* The Vamana Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Garuda Mahapurana
+* Garuda Purana
 
-* The Varaha Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Kalika Purana
 
-* The Vayu Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Kurma Mahapurana
+* Kurma Purana
 
-* The Vishnu Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Linga Purana
+* Linga Rahasya Purana
+* Linga Mahapurana
 
+* Markandeya Purana
+* Markandeya Mahapurana
+
+* Matsya Mahapurana
+* Matsya Purana
+
+* Padma Mahapurana
+* Padma Purana
+
+* Shiva Purana
+* Shiva Rahasya Purana
+* Shiva Mahapurana
+
+* Skanda Rahasya Purana
+* Skanda Mahapurana
+* Skanda Purana
+
+* Vamana Rahasya Purana
+* Vamana Mahapurana
+* Vamana Purana
+
+* Varaha Rahasya Purana
+* Varaha Purana
+
+* Vayu Purana
+* Vayu Mahapurana
+
+* Vishnu Purana
+
+---
 * Bhakti Marga: the path of devotion in Hinduism, which involves the worship of a personal god or goddess
 
 * Karma and Rebirth: the Hindu beliefs in the law of cause and effect and the cycle of birth, death, and rebirth
 
-* The Aditya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* Srimad Bhagavatam
 
-* The Bhagavata Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Mahabhagavata Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-
-* The Brahmavaivarta Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-
-* The Garuda Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Garuda Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-
-* The Kalika Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-
-* The Kurma Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Kurma Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-
-* The Matsya Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Matsya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-
-* The Padma Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Padma Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-
-* The Shiva Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Skanda Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Skanda Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Srimad Bhagavatam: a 12th-century Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Vamana Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Vamana Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Varaha Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Vayu Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
-* The Yoga Vasistha: a Hindu scripture that discusses spiritual knowledge and the nature of reality
-* Yoga Sutras: a classical Hindu text that discusses the philosophy and practice of yoga
+* Yoga Vasistha
+* Yoga Sutras
 
 ---
 The **Yoga Sutras of Patanjali** are a collection of 196 Sanskrit sutras (aphorisms) on the practice of yoga, written by the Indian **sage Patanjali** around 400 CE. The Yoga Sutras are considered to be one of the most important texts on the philosophy and practice of yoga, and are considered to be a foundational text of the Yoga Darshana, or Yoga Philosophy.
