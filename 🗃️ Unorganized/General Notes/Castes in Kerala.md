@@ -14,4 +14,7 @@ The word Dheevara is of Sanskrit origin, and has been used to describe fishermen
 
 The Dheevara community was formed by Arayan, Valan and other castes to lobby for the fishers' rights, and to seek caste-based reservations in government jobs.
 
-The members of the community formed "Akhila Kerala Dheevara Sabha"(AKDS) andDheevara Mahasabha ("Dheevara Great Assembly"), which are politically powerful organizations. 
+The members of the community formed "Akhila Kerala Dheevara Sabha"(AKDS) and Dheevara Mahasabha ("Dheevara Great Assembly"), which are politically powerful organizations. 
+
+---
+The Hindu fisherfolk worship Bhagavati and Kali. Convert to Christianity and Muslim from the fisher castes are grouped under Dheevara. 
