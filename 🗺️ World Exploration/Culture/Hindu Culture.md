@@ -28,7 +28,7 @@ Saguna - All good attributes
 - Shaktism
 - Advaita Vedanta
 - Smartism (Advaita Vedanta + bhakti tradition)
-	- Worship of 5 dieties in a quincuix pattern, with Shiva, Vishnu, Devi/Durga, Surya and one Ishta Devata in the middle
+	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 - Ganapataya
 - Kaumaram
 ## Scriptures
@@ -99,4 +99,3 @@ These are in the order of superiority.
 	- Says in Kali Yuga, all scriptures were corrupted
 	- No Idol Worship
 	- No Priests
-	- 
