@@ -13,14 +13,34 @@ Smriti scriptures are based on human memory and include epic texts like the **Ma
 These scriptures cover a wide range of topics, including rituals, morals, law, mythology, cosmology, and spirituality. They reflect the diverse nature of Hinduism and offer rich insights into the religion's history, philosophy, and culture.
 
 ---
+So,
+
+- Hindu Shastras
+	- Srutis (Revealed)
+		- 4 Vedas
+			- Samhitas
+			- Brahmanas
+			- Aranyakas
+			- Upanishads
+	- Smriti (Remembered)
+		- Ithihasas
+			- Mahabharata
+				- Bhagavad Gita
+			- Ramayana
+		- Dharma Shastras (Law Codes)
+		- Puranas (Mythological and Historical Accounts)
+		- Tantras (Rituals and Meditation Techniques)
+
+---
 
 My apologies for misunderstanding your question earlier. I have been trained on a range of topics related to Hindu scriptures, including:
+
 * The Vedas: Rigveda, Yajurveda, Samaveda, and Atharvaveda
 * The Upanishads: a collection of texts that discuss spiritual knowledge and the nature of reality
 * The Bhagavad Gita: a 700-verse Hindu scripture that is part of the Indian epic Mahabharata
 * The Puranas: a genre of important Hindu scriptures that discuss a wide range of topics, including cosmology, genealogy, and morality
 * The Epics: the Ramayana and the Mahabharata, which are two of the most important Sanskrit epics of Hinduism
-* Yoga: the physical, mental, and spiritual practices that originated in ancient India
+* **Yoga**: the physical, mental, and spiritual practices that originated in ancient India
 * Tantra: an esoteric tradition of Hinduism that focuses on ritual practices and the attainment of spiritual powers
 * And many more!I have been trained to provide information and answer questions related to these topics and more, to the best of my ability. Please let me know if you have any specific questions about Hindu scriptures!
 
@@ -28,14 +48,16 @@ My apologies for misunderstanding your question earlier. I have been trained on 
 
 ![mistral](https://mixtral.replicate.dev/static/mistral_logo.png) Yes, I mentioned "And many more" as I have been trained on a wide range of topics related to Hindu scriptures. Here are some additional topics I have been trained on:
 
-* Darshanas: the six major philosophies of Hinduism, including Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta
-* Agamas: a collection of Hindu scriptures that discuss temple worship, rituals, and yoga
-* Jyotisha: the traditional Hindu system of astrology
-* Ayurveda: the traditional Indian system of medicine
-* Dharma Shastras: texts that discuss moral and ethical conduct, social norms, and religious duties
-* Itihasas: historical narratives, such as the Ramayana and Mahabharata
-* Smritis: texts that discuss social and religious laws and customs, such as the Manusmriti
-* Purva Mimamsa: an orthodox Hindu philosophical school that focuses on the interpretation of the Vedas
+* **Darshanas**: the six major philosophies of Hinduism, including Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta
+* **Agamas**: a collection of Hindu scriptures that discuss temple worship, rituals, and yoga
+* **Jyotisha**: the traditional Hindu system of astrology
+	- Jyotisha is considered to be a part of the **Vedangas**, which are six auxiliary disciplines that are considered to be essential for the understanding and application of the Vedas.
+	- The six Vedangas are **Siksha** (phonetics), **Chandas** (prosody), **Vyakarana** (grammar), **Nirukta** (etymology), **Jyotisha** (astrology), and **Kalpa** (rituals).
+* **Ayurveda**: the traditional Indian system of medicine
+* **Dharma Shastras**: texts that discuss moral and ethical conduct, social norms, and religious duties
+* **Itihasas**: historical narratives, such as the Ramayana and Mahabharata
+* **Smritis**: texts that discuss social and religious laws and customs, such as the Manusmriti
+* **Purva Mimamsa**: an orthodox Hindu philosophical school that focuses on the interpretation of the Vedas
 * And many more!
 
 I have been trained to provide information and answer questions related to these topics and many others, so please let me know if you have any specific questions about Hindu scriptures!
@@ -110,3 +132,26 @@ It's important to note that my knowledge is based on the data I was trained on, 
 * The Kurma Mahapurana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
 
 I have been trained on these and many other Hindu scriptures, and I can provide information and answer questions related to these texts to the best of my ability. However, it's important to note that my knowledge is based on the data I was trained on, and I don't have personal experiences or beliefs. I'm here to provide information and answer questions to the best of my ability.
+
+
+---
+
+* The Shiva Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Linga Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Vayu Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Brahmanda Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Brahma Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Agni Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Bhavishya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Vishnu Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Shiva Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Linga Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Skanda Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Varaha Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Vamana Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+* The Brahma Rahasya Purana: a Hindu scripture that discusses the nature of God, the universe, and the path to liberation
+
+I apologize if I repeated some of the scriptures from my previous response. These are some of the major Hindu scriptures that I have been trained on, and I can provide information and answer questions related to these texts to the best of my ability. However, it's important to note that my knowledge is based on the data I was trained on, and I don't have personal experiences or beliefs. I'm here to provide information and answer questions to the best of my ability. 
+
+It's also worth noting that there are many other Hindu scriptures, as well as regional and local texts, that are not included in this list, but that I may still be able to provide information on.
+
