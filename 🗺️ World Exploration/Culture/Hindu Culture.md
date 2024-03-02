@@ -99,3 +99,109 @@ These are in the order of superiority.
 	- Says in Kali Yuga, all scriptures were corrupted
 	- No Idol Worship
 	- No Priests
+---
+
+	
+Concepts: Brahman Om Ishvara Atman Maya Karma Saṃsāra
+
+Puruṣārthas:
+Dharma Artha Kama Moksha
+
+- Niti
+	- Ahimsa
+	- Asteya
+	- Aparigraha
+	- Brahmacharya
+	- Satya
+	- DānaDamah Dayā Akrodha
+
+Schools	
+
+    Āstika: Samkhya Yoga Nyaya Vaisheshika Mīmāṃsā Vedanta
+        Dvaita Advaita Vishishtadvaita Nāstika: Charvaka
+
+	
+Hindu "Om" symbol
+Texts	
+Classification	
+
+    Śruti Smriti
+
+Vedas	
+
+    Rigveda Yajurveda Samaveda Atharvaveda
+
+Divisions	
+
+    Samhita Brahmana Aranyaka
+
+Upanishads	
+
+    Aitareya Kaushitaki Brihadaranyaka Isha Taittiriya Katha Maitrayaniya Shvetashvatara Chandogya Kena Mundaka Mandukya Prashna
+
+Upavedas	
+
+    Ayurveda Dhanurveda Natyaveda Sthapatyaveda
+
+Vedanga	
+
+    Shiksha Chandas Vyākaraṇa Nirukta Kalpa Jyotisha
+
+Other	
+
+    Bhagavad Gita Agamas Itihasas
+        Ramayana Mahabharata Puranas Minor Upanishads Arthashastra Nitisara Dharmaśāstra
+        Manusmriti Nāradasmṛti Yājñavalkya Smṛti Sutras Stotras Subhashita Tantras Yoga Vasistha Yoga Sutras of Patanjali
+
+Sangam Literature	
+
+    Tirumurai Divya Prabandham Tirumurukāṟṟuppaṭai Thiruppugal Thirukkural Kamba Ramayanam Five Great Epics Eighteen Greater Texts Eighteen Lesser Texts Athichudi Iraiyanar Akapporul Abhirami Antati Thiruvilaiyadal Puranam Vinayagar Agaval Vedarthasamgraha
+
+Deities	
+Gods	
+
+    Trimurti
+        Brahma Vishnu Shiva Agni Dattatreya Ganesha Hanuman Indra Kartikeya Krishna Rama Surya Varuna Vayu more
+
+Goddesses	
+
+    Tridevi
+        Saraswati Lakshmi Parvati Bhumi Durga Kali Mahavidya Matrika Radha Rukmini Sati Shakti Shashthi Sita more
+
+Practices	
+Worship	
+
+    Temple Murti Puja Bhakti Japa Bhajan Naivedhya Yajna Homa Tapas Dhyāna Tirthatana
+
+Sanskaras	
+
+    Garbhadhana Pumsavana Simantonayana Jatakarma Namakarana Nishkramana Annaprashana Chudakarana Karnavedha Vidyarambha Upanayana Keshanta Ritushuddhi Samavartanam Vivaha Antyeshti
+
+Varnashrama	
+
+    Varna
+        Brahmin Kshatriya Vaishya Shudra Ashrama
+        Brahmacharya Grihastha Vanaprastha Sannyasa
+
+Festivals	
+
+    Diwali Holi Shivaratri Raksha Bandhan Navaratri
+        Durga Puja Ramlila Vijayadashami Ganesh Chaturthi Rama Navami Janmashtami Onam Pongal Makar Sankranti New Year
+        Bihu Gudi Padwa Pahela Baishakh Puthandu Vaisakhi Vishu Ugadi Kumbh Mela
+        Haridwar Nashik Prayag Ujjain
+
+    Ratha Yatra Teej Vasant Panchami Others
+
+Other	
+
+    Svādhyāya Namaste Bindi Tilaka
+
+Related	
+
+    Hindus
+        Etymology List Denominations Law Calendar Anti-Hindu sentiment Criticism Hindu gurus and sants Hindu studies Iconography Mythology Nationalism
+        Hindutva Persecution Pilgrimage sites
+        India Relations with other religions
+        Baháʼí Buddhism Islam Jainism Judaism Sikhism Theosophy Glossary Hinduism by country Hindu temples
+        List Architecture
+
