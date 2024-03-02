@@ -109,3 +109,19 @@ There is also this misconception that Brahmin were born from head Sudra from fee
 British revived the Manu Smriti?
 
 Shudra only really appears in the Purusha Pustaka of Vedas?
+
+# Evil effects of case
+
+> I'm 22 year old and I recently went through a mutual break up because she thinks her parents aren't going to accept the marriagecoz of my caste, it feels sad because all these days I never knew how important caste of a person played in this society and now only because of my caste I lost someone I loved, I never knew about all of this until I was 17, and when I turned 17, I knew that there were castes and stuff, I'm proud of my parents that they din't teach me what it means to be an upper caste or a lower caste, they always told me that everyone is equal, I'm happy I got a cleaner and clear picture of what life is unlike many others who hail from a higher caste but still discriminate people.
+
+> Yes. Dalits are unsafe in India.
+> 
+> I belong to the OBC category and I am from Tamil Nadu. Every time, I see the news regarding the mistreatment of Dalits, I get extremely furious. I will narrate some incidents that happened in TN, that would bring to light the atrocities of the so-called "OBC"(Other Backward classes) category people against Dalits in TN. I am not telling that every body from the community discriminates on the basis of caste but it is a trend that is deep-rooted in the society and is very difficult to eradicate.
+> 
+> Did you fall in love with a guy/girl from a higher caste? Get ready to die.
+> 
+> In TN, you frequently hear of news wherein a guy from a lower cast would have fallen in love with a girl or married a girl from a higher caste and after some days that guy would have left a suicide note or would have been killed. This predominantly happens in the southern part of TN wherein these "higher caste" guys form a huge vote bank. So, the police/government does not take a strong stand against these guys thinking that they would lose votes. The political parties don't even issue a condemnation against these groups for the attacks. Ironically, these so called "higher castes" are classified as OBC.
+> 
+> . . . . . .
+> 
+> I still do not know why the North Indian Media does not focus on these incidents with the same interest of Dadri/Rohit cases. Caste discrimination does not exist in the metros but it still is present in rural areas and Tier-II cities. You can easily see "educated" people from the higher caste communities supporting these incidents/killings. India has a long way to go ahead when it comes to equality. Till then, in my view reservation based on caste has to go on but it must be restricted to lower income people. If the situation is so bad in the "developed state of TN", I cannot imagine how worse it would be in the not so developed states.
