@@ -58,3 +58,22 @@ He set up four monasteries (called mathas or pithams) where realised men would t
 
 Purusa Sukta:
 - Rig Veda 10.90.1
+
+
+# Books
+
+- Brahma Sutras
+- Samkhya Sutras
+- Mimamsa Sutras
+- Nyāya Sūtras 
+- Vaiśeṣika Sūtra
+- Yoga Sutras
+- Pramana Sutras
+
+- Puranas
+- Dharma Shastra
+- Artha Śastra
+- Kamasutra
+- Divya Prabhandham
+- Tirumurai
+- Shiva Samhita

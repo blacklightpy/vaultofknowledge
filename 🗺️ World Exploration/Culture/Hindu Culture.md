@@ -102,10 +102,20 @@ These are in the order of superiority.
 ---
 
 	
-Concepts: Brahman Om Ishvara Atman Maya Karma Saṃsāra
+- Concepts
+	- Brahman
+	- Om
+	- Ishvara
+	- Atman
+	- Maya
+	- Karma
+	- Saṃsāra
 
-Puruṣārthas:
-Dharma Artha Kama Moksha
+- Puruṣārthas
+	- Dharma
+	- Artha
+	- Kama
+	- Moksha
 
 - Niti
 	- Ahimsa
@@ -113,45 +123,95 @@ Dharma Artha Kama Moksha
 	- Aparigraha
 	- Brahmacharya
 	- Satya
-	- DānaDamah Dayā Akrodha
+	- Dāna
+	- Damah
+	- Dayā
+	- Akrodha
 
-Schools	
-
-    Āstika: Samkhya Yoga Nyaya Vaisheshika Mīmāṃsā Vedanta
-        Dvaita Advaita Vishishtadvaita Nāstika: Charvaka
+- Schools
+	- Āstika (Follows Vedas)
+		- Samkhya 
+		- Yoga
+		- Nyaya
+		- Vaisheshika
+		- Mīmāṃsā
+		- Vedanta / Uttara Mimāṃsā
+	        - Dvaita
+	        - Advaita
+	        - Vishishtadvaita
+	- Nāstika (Doesn't Follow Vedas)
+		- Buddhism
+	    - Jainism
+	    - Charvaka
+		- Ājīvika
+		- Ajñana
 
 	
 Hindu "Om" symbol
-Texts	
-Classification	
+- Texts	
+	- Classification
+		- Śruti
+		- Smriti
 
-    Śruti Smriti
+- Vedas
+	- Rigveda
+	- Yajurveda
+	- Samaveda
+	- Atharvaveda
 
-Vedas	
+- Divisions
+	- Samhita
+	- Brahmana
+	- Aranyaka
+	- Upanishads
+		- Aitareya
+		- Kaushitaki
+		- Brihadaranyaka
+		- Isha
+		- Taittiriya
+		- Katha
+		- Maitrayaniya
+		- Shvetashvatara
+		- Chandogya
+		- Kena
+		- Mundaka
+		- Mandukya
+		- Prashna
 
-    Rigveda Yajurveda Samaveda Atharvaveda
+- Upavedas
+	- Ayurveda
+	- Dhanurveda
+	- Natyaveda
+	- Sthapatyaveda
 
-Divisions	
+- Vedanga	
+	- Shiksha
+	- Chandas
+	- Vyākaraṇa
+	- Nirukta
+	- Kalpa
+	- Jyotisha
 
-    Samhita Brahmana Aranyaka
-
-Upanishads	
-
-    Aitareya Kaushitaki Brihadaranyaka Isha Taittiriya Katha Maitrayaniya Shvetashvatara Chandogya Kena Mundaka Mandukya Prashna
-
-Upavedas	
-
-    Ayurveda Dhanurveda Natyaveda Sthapatyaveda
-
-Vedanga	
-
-    Shiksha Chandas Vyākaraṇa Nirukta Kalpa Jyotisha
-
-Other	
-
-    Bhagavad Gita Agamas Itihasas
-        Ramayana Mahabharata Puranas Minor Upanishads Arthashastra Nitisara Dharmaśāstra
-        Manusmriti Nāradasmṛti Yājñavalkya Smṛti Sutras Stotras Subhashita Tantras Yoga Vasistha Yoga Sutras of Patanjali
+- Other
+	- Bhagavad Gita
+	- Agamas
+	- Itihasas
+		- Ramayana
+		- Mahabharata
+	- Puranas 
+	- Minor Upanishads 
+	- Arthashastra
+	- Nitisara
+	- Dharmaśāstra
+		- Manusmriti
+		- Nāradasmṛti
+		- Yājñavalkya Smṛti
+	- Sutras
+	- Stotras
+	- Subhashita
+	- Tantras
+	- Yoga Vasistha
+	- Yoga Sutras of Patanjali
 
 Sangam Literature	
 
