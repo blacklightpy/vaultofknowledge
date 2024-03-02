@@ -53,6 +53,8 @@ My apologies for misunderstanding your question earlier. I have been trained on 
 * **Jyotisha**: the traditional Hindu system of astrology
 	- Jyotisha is considered to be a part of the **Vedangas**, which are six auxiliary disciplines that are considered to be essential for the understanding and application of the Vedas.
 	- The six Vedangas are **Siksha** (phonetics), **Chandas** (prosody), **Vyakarana** (grammar), **Nirukta** (etymology), **Jyotisha** (astrology), and **Kalpa** (rituals).
+	- **They are disciplines used to study the Vedas (limbs of the Vedas), not texts**
+
 * **Ayurveda**: the traditional Indian system of medicine
 * **Dharma Shastras**: texts that discuss moral and ethical conduct, social norms, and religious duties
 * **Itihasas**: historical narratives, such as the Ramayana and Mahabharata
