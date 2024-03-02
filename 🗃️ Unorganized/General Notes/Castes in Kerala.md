@@ -64,8 +64,48 @@ There is no evidence for the following
 When dealing with topic, one has to look at scientific evidence instead of the deliberate misinterpretations and selective reading of vedic literature. This comes from those who see these evidence as a threat to their legitimacy. This has to be taken with a pinch of salt.
 
 ---
+# Dvijas
+Dvijas (twice-born) i.e. Brahmins, Kshatriyas and Vaishyas.
+
+Non-Dvijas — Commoners i.e. Sudras.
+
+The Dvijas have privilege, but that privilege is contingent upon them fulfilling three conditional duties which are:–
+
+1. Undergoing Upanayana (Sacred thread) ceremony at the right time. Brahmins at age 8, Kshatriyas at 11 and Vaishyas at age 12 (Manu 2:36)
+2. Performing Sandhya Vandana twice a day - morning and evening for the rest of their lives.
+3. Veda-adhyayana – Studying and memorising a portion of the Vedas during a period of studentship under a guru.
+
+If these three conditions are not fulfilled they LOSE ALL PRIVILEGE of being a dvija and are demoted to Vrātya status - which is technically an expulsion from caste.
+
+The proof texts are;–
+
+> ata ūrdhvaṁ trayo 'py ete yathākālam asaṁskṛtāḥ | sāvitrīpatitā vrātyā bhavanty ārya-vigarhitāḥ ||
+> 
+> After those (periods - age 8 for Brahmins, 11 for kshatriyas and 12 for vaishyas, men of) these three (castes) who have not received the sacrament of Upanayana at the proper time, become Vrātyas (outcasts), excluded from the Savitri (initiation and access to education) and are despised by the Aryans (loss of all privilege). (Manu 2:39.)
+> 
+> na-etair apūtair vidhivad āpady api hi karhi cit | brāhmān yaunāṁś ca sambandhān na-ācared brāhmaṇaḥ saha || 40 ||
+> 
+> With such men, who have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connection either through the Veda (education) or by marriage. (Manu 2:40.)
+> 
+> na tiṣṭhati tu yaḥ pūrvāṁ na-upāste yaś ca paścimām | sa śūdravad bahiṣkāryaḥ sarvasmād dvija-karmaṇaḥ ||
+> 
+> But he who does not (perform Sandhya Vandana) standing in the morning, nor sitting in the evening, shall be excluded, like a Sudra, from all the duties and privileges of a Dvija. (Manu 2:103.)
+
+
+---
+
+# Debunk Caste
+
+**First of all there are no Hindu gods, only deities. Brahma never created low or high caste only differentiated people based on their work.**
+
+Read Bhagavad Gita chapter 18 verse 4.
+
+There is also this misconception that Brahmin were born from head Sudra from feet. No Veda ever mentioned it. It meta-morphed that a Brahmin is head(one who makes decisions). Kshatriya as someone who protects. Vaishya as someone who provide livelyhood. Sudra as person who helps all three(foundation). It shows society in krishna. It doesn't mean we are born from parts. :-! Just as we need every part in our body. A society needs every working class.
+
+**We were corrupted by people in long run making a son of Brahmin, a Brahmin and Sudra, a Sudra.**
+
+---
 
 British revived the Manu Smriti?
 
 Shudra only really appears in the Purusha Pustaka of Vedas?
-
