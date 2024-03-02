@@ -125,3 +125,8 @@ Shudra only really appears in the Purusha Pustaka of Vedas?
 > . . . . . .
 > 
 > I still do not know why the North Indian Media does not focus on these incidents with the same interest of Dadri/Rohit cases. Caste discrimination does not exist in the metros but it still is present in rural areas and Tier-II cities. You can easily see "educated" people from the higher caste communities supporting these incidents/killings. India has a long way to go ahead when it comes to equality. Till then, in my view reservation based on caste has to go on but it must be restricted to lower income people. If the situation is so bad in the "developed state of TN", I cannot imagine how worse it would be in the not so developed states.
+
+
+# State of ST without reservation
+- https://www.quora.com/What-is-the-worst-thing-about-the-reservation-system-in-India/answer/Swati-Mehta-211
+
