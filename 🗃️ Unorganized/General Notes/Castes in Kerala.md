@@ -63,3 +63,9 @@ There is no evidence for the following
 
 When dealing with topic, one has to look at scientific evidence instead of the deliberate misinterpretations and selective reading of vedic literature. This comes from those who see these evidence as a threat to their legitimacy. This has to be taken with a pinch of salt.
 
+---
+
+British revived the Manu Smriti?
+
+Shudra only really appears in the Purusha Pustaka of Vedas?
+
