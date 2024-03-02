@@ -6,12 +6,27 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali
 - "Dharmic" Hinduism or "daily morality", based on Karma and upon societal norms such as Vivāha (Hindu marriage customs)
 - Bhakti or devotionalist practices
+
+# Ideas
+Para Brahman is beyond all descriptions and conceptualisations. It is formless (devoid of Maya) and is eternal.
+
+Nirguna - No attributes
+Saguna - All good attributes
+
+
+In Advaita Ved
+
+Para Brahman is conceptualised in diverse ways. In the Advaita Vedanta tradition, the Para Brahman is a synonym of nirguna brahman, i.e., the attribute-less Absolute. Conversely, in Dvaita Vedanta and Vishistadvaita Vedanta traditions, the Para Brahman is defined as saguna brahman, i.e., the Absolute with attributes. In Vaishnavism, Shaivism, and Shaktism, Vishnu, Shiva, and Adi Shakti respectively are Para Brahman. Mahaganapati is considered as Para Brahman by the Ganapatya sect. Kartikeya is considered as Para Brahman by the Kaumaram sect. 
+
 ## Hindu denominations / sampradayas
-- Shaivism
+- Shaivism (Shiva is both Nirguna and Saguna Para Brahman)
 - Vaishnavism
 - Shaktism
+- Advaita Vedanta
 - Smartism (Advaita Vedanta + bhakti tradition)
 	- Worship of 5 dieties in a quincuix pattern, with Shiva, Vishnu, Devi/Durga, Surya and one Ishta Devata in the middle
+- Ganapataya
+- Kaumaram
 ## Scriptures
 - Srutis (eternal words)
   - Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)
@@ -69,3 +84,9 @@ These are in the order of superiority.
 	- Focus on Vedas
 	- Against untouchability
 	- Equal rights for women
+- Ayyavazhi
+	- Teachings of Ayya Vaikundar, in Kerala
+	- Says in Kali Yuga, all scriptures were corrupted
+	- No Idol Worship
+	- No Priests
+	- 
