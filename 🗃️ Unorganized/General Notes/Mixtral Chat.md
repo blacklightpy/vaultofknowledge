@@ -65,7 +65,34 @@ I have been trained to provide information and answer questions related to these
 
 ---
 
-* Aditya Purana
+There are 18 major Puranas, which are divided into three categories based on their dominant deity:
+
+1. Saura Puranas: These Puranas focus on the god Surya (the Sun god) and his various incarnations.
+	1. There are three Saura Puranas:
+		1. **Saura Purana**
+		2. **Aditya Purana**
+		3. **Martanda Purana**.
+2. Vaisnava Puranas: These Puranas focus on the god Vishnu and his avatars, or incarnations.
+	1. There are ten Vaisnava Puranas:
+		1. **Vishnu Purana**
+		2. **Bhagavata Purana**
+		3. **Narada Purana**
+		4. **Garuda Purana**
+		5. **Padma Purana**
+		6. **Varaha Purana**
+		7. **Kurma Purana**
+		8. **Matsya Purana**
+		9. **Brahmanda Purana**
+		10. **Brahma Vaivarta Purana**.
+3. Saiva Puranas: These Puranas focus on the god Shiva and his various forms and aspects.
+	1. There are five Saiva Puranas:
+		1. **Shiva Purana**
+		2. **Linga Purana**
+		3. **Skanda Purana**
+		4. **Agni Purana**
+		5. **Vayu Purana**
+ 
+In addition to these 18 major Puranas, there are also several minor Puranas and Upa Puranas, which are considered to be less authoritative and less widely studied than the major Puranas.
 
 * Agni Purana
 * Agni Mahapurana
@@ -138,7 +165,7 @@ I have been trained to provide information and answer questions related to these
 * Yoga Sutras
 
 ---
-The **Yoga Sutras of Patanjali** are a collection of 196 Sanskrit sutras (aphorisms) on the practice of yoga, written by the Indian **sage Patanjali** around 400 CE. The Yoga Sutras are considered to be one of the most important texts on the philosophy and practice of yoga, and are considered to be a foundational text of the Yoga Darshana, or Yoga Philosophy.
+The **Yoga Sutras of Patanjali** are a collection of 196 Sanskrit sutras (aphorisms) on the practice of yoga, written by the Indian **sage Patanjali** around 400 CEYoga Sutras are considered to be one of the most important texts on the philosophy and practice of yoga, and are considered to be a foundational text of the Yoga Darshana, or Yoga Philosophy.
 
 The Yoga Sutras of Patanjali are divided into four chapters, or **padas**, which cover the following topics:
 1. Samadhi Pada: This chapter discusses the nature of the mind, the causes of suffering, and the means of achieving liberation through the practice of yoga.
@@ -147,7 +174,7 @@ The Yoga Sutras of Patanjali are divided into four chapters, or **padas**, which
 4. Kaivalya Pada: This chapter discusses the ultimate goal of yoga, which is the attainment of kaivalya, or liberation from the cycle of birth and death.
 
 ---
-**Sutras** are a type of ancient Indian text that are written in a concise and aphoristic style. The word "sutra" comes from the Sanskrit word "sutra," which means "**thread**." Sutras are similar to *aphorisms* or *maxims*, and are meant to be brief and easy to remember.
+**Sutras** are a type of ancient Indian text that are written in a concise and aphoristic styleword "sutra" comes from the Sanskrit word "sutra," which means "**thread**." Sutras are similar to *aphorisms* or *maxims*, and are meant to be brief and easy to remember.
 
 Sutras were traditionally used as a **mnemonic device to help students remember** and understand complex concepts. In ancient India, sutras were often used as a teaching tool, and were memorized and recited by students as a way of learning and preserving the teachings of their guru (teacher).
 
