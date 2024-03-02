@@ -14,10 +14,14 @@ Nirguna - No attributes
 Saguna - All good attributes
 
 
-In Advaita Ved
-
-Para Brahman is conceptualised in diverse ways. In the Advaita Vedanta tradition, the Para Brahman is a synonym of nirguna brahman, i.e., the attribute-less Absolute. Conversely, in Dvaita Vedanta and Vishistadvaita Vedanta traditions, the Para Brahman is defined as saguna brahman, i.e., the Absolute with attributes. In Vaishnavism, Shaivism, and Shaktism, Vishnu, Shiva, and Adi Shakti respectively are Para Brahman. Mahaganapati is considered as Para Brahman by the Ganapatya sect. Kartikeya is considered as Para Brahman by the Kaumaram sect. 
-
+- In Advaita Vedanta
+	- Para Brahman = Nirguna Brahman (no attributes)
+- In Dvaita Vedanta
+	- Para Brahman = Saguna Brahman (All good attributes)
+- In Vishista Dvatia Vedanta
+	- Para Brahman = Saguna Brahman (All good attributes)
+- In Vaishnavism, Shaivism, Shaktism, Ganapataya, Kaumaram
+	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
 ## Hindu denominations / sampradayas
 - Shaivism (Shiva is both Nirguna and Saguna Para Brahman)
 - Vaishnavism

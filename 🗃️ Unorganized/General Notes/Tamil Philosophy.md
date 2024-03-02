@@ -1,0 +1,55 @@
+# Topics in Sangam literature
+- Sangam literature (சங்க இலக்கியம் / Caṅka Ilakkiyam)
+	- Historically known as "poetry of the noble ones" (சான்றோர் செய்யுள் / Cāṉṟōr Ceyyuḷ)
+- Agattiyam
+- Tolkāppiyam
+# Eighteen Greater Texts
+- Eight Anthologies / Ettuttokai
+	- Aiṅkurunūṟu
+	- Akanāṉūṟu
+	- Puṟanāṉūṟu
+	- Kalittokai
+	- Kuṟuntokai
+	- Natṟiṇai
+	- Paripāṭal
+	- Patiṟṟuppattu
+- Ten Idylls / Pattuppattu
+	- Tirumurukāṟṟuppaṭai
+	- Kuṟiñcippāṭṭu
+	- Malaipaṭukaṭām
+	- Maturaikkāñci
+	- Mullaippāṭṭu
+	- Neṭunalvāṭai
+	- Paṭṭiṉappālai
+	- Perumpāṇāṟṟuppaṭai
+	- Poruṇarāṟṟuppaṭai
+	- Ciṟupāṇāṟṟuppaṭai
+# Related topics
+- Sangam
+- Sangam landscape
+- Tamil history from Sangam literature
+- Ancient Tamil music
+# Eighteen Lesser Texts
+- Nālaṭiyār
+- Nāṉmaṇikkaṭikai
+- Iṉṉā Nāṟpatu
+- Iṉiyavai Nāṟpatu
+- Kār Nāṟpatu
+- Kaḷavaḻi Nāṟpatu
+- Aintiṇai Aimpatu
+- Tiṉaimoḻi Aimpatu
+- Aintinai Eḻupatu
+- Tiṇaimālai Nūṟṟaimpatu
+- Tirukkuṟaḷ
+- Tirikaṭukam
+- Ācārakkōvai
+- Paḻamoḻi Nāṉūṟu
+- Ciṟupañcamūlam
+- Mutumoḻikkānci
+- Elāti
+- Kainnilai
+# Bhakti Literature
+- Naalayira Divya Prabandham
+- Ramavataram
+- Tevaram
+- Tirumuṟai
