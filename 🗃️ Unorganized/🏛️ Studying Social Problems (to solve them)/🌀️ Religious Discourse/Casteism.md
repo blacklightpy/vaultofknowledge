@@ -13,8 +13,6 @@ But as time went on, people decided that castes were fixed by birth, and there w
 
 This is terrible because without the hard labour that these people performed for us, the society would not have sustained at all. It is not unlike thinking of your mother as having lower worth because she is the one who cleans the filthy plates for you.
 
-
-
 # Vedas
 
 - Smartas follow Smritis
