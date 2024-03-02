@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Castes in Kerala.md",
+                "file": "🗃️ Unorganized/General Notes/Mixtral Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Castes in Kerala.md",
+                "file": "🗃️ Unorganized/General Notes/Mixtral Chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Castes in Kerala.md"
+                "file": "🗃️ Unorganized/General Notes/Mixtral Chat.md"
               }
             }
           },
@@ -448,19 +448,6 @@
                 }
               },
               {
-                "id": "ca4e583476401649",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/History of South India.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "5e7ec6aa90b0df7f",
                 "type": "leaf",
                 "state": {
@@ -474,7 +461,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -487,16 +474,19 @@
       }
     ]
   },
-  "active": "5e7ec6aa90b0df7f",
+  "active": "2d9808123bc806ed",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
+    "🗃️ Unorganized/General Notes/Mixtral Chat.md",
+    "🗃️ Unorganized/General Notes/Tamil Philosophy.md",
     "🗃️ Unorganized/General Notes/Castes in Kerala.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/General Notes/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/History of South India.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/General Notes/Tamil Philosophy.md",
-    "🗃️ Unorganized/General Notes/Mixtral Chat.md",
+    "_images/Pasted image 20240302111638.png",
+    "_images/Pasted image 20240302111628.png",
+    "_images/Pasted image 20240302111613.png",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗺️ World Exploration/Culture/Kerala Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
     "🗃️ Unorganized/General Notes/Genres of Music.md",
@@ -514,7 +504,6 @@
     "🗃️ Unorganized/General Notes/Window Managers 1.md",
     "🗃️ Unorganized/General Notes/Window Manager Showcase.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/Wayland.md",
-    "🗃️ Unorganized/General Notes/Linux Pro.md",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards",
     "🔮 World Building/Science and Engineering/Science Resources",
     "🔮 World Building/Marketplace and Creations/Food",
@@ -531,9 +520,6 @@
     "_images/Light penetration in water.png",
     "_images/Knitting vs Crocheting.png",
     "_images/Force Graph.png",
-    "_images/Pasted image 20240106180105.png",
-    "_images/favicon.png",
-    "_images/Indo-European_expansions.jpg",
-    "_images/Centres_of_origin_and_spread_of_agriculture.svg.png"
+    "_images/Pasted image 20240106180105.png"
   ]
 }

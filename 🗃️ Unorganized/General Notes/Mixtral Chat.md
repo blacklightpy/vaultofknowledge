@@ -92,67 +92,9 @@ There are 18 major Puranas, which are divided into three categories based on the
 		4. **Agni Purana**
 		5. **Vayu Purana**
  
-In addition to these 18 major Puranas, there are also several minor Puranas and Upa Puranas, which are considered to be less authoritative and less widely studied than the major Puranas.
-
-* Agni Purana
-* Agni Mahapurana
-
-* Bhagavata Purana
-* Mahabhagavata Purana
-
-* Bhavishya Purana
-* Bhavishya Mahapurana
-
-* Brahma Purana
-* Brahma Rahasya Purana
-* Brahma Vaivarta Mahapurana
-* Brahma Vaivarta Purana
-
-* Brahmavaivarta Purana
-
-* Brahmanda Purana
-* Brahmanda Mahapurana
-
-* Garuda Mahapurana
-* Garuda Purana
-
-* Kalika Purana
-
-* Kurma Mahapurana
-* Kurma Purana
-
-* Linga Purana
-* Linga Rahasya Purana
-* Linga Mahapurana
-
-* Markandeya Purana
-* Markandeya Mahapurana
-
-* Matsya Mahapurana
-* Matsya Purana
-
-* Padma Mahapurana
-* Padma Purana
-
-* Shiva Purana
-* Shiva Rahasya Purana
-* Shiva Mahapurana
-
-* Skanda Rahasya Purana
-* Skanda Mahapurana
-* Skanda Purana
-
-* Vamana Rahasya Purana
-* Vamana Mahapurana
-* Vamana Purana
-
-* Varaha Rahasya Purana
-* Varaha Purana
-
-* Vayu Purana
-* Vayu Mahapurana
-
-* Vishnu Purana
+18 Maha Puranas
+18 Upa Puranas
+Minor Puranas
 
 ---
 * Bhakti Marga: the path of devotion in Hinduism, which involves the worship of a personal god or goddess

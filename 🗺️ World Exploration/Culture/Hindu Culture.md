@@ -48,7 +48,13 @@ Saguna - All good attributes
     - Nastya (Hindu schools of philosophy not accepting of Vedic authority)
   - Sangam Literature
     - Five Great Epics (includes Silappatikaram)
-   
+
+![[Pasted image 20240302111613.png]]
+
+![[Pasted image 20240302111628.png]]
+
+![[Pasted image 20240302111638.png]]
+
 ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
 
 ## Books

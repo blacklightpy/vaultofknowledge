@@ -53,3 +53,8 @@ He set up four monasteries (called mathas or pithams) where realised men would t
 | Sureśvara         | South     | Sringeri Śārada Pīṭhaṃ     | Aham brahmāsmi (I am the supreme being)                   | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
 | Hastāmalakācārya  | West      | Dvāraka Sharada Pīṭhaṃ     | Tattvamasi (That thou art)                                | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
 | Toṭakācārya       | North     | Badari Jyotirmaṭha Pīṭhaṃ  | Ayamātmānam brahma (This Atman is supreme being)          | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
+
+# Verses
+
+Purusa Sukta:
+- Rig Veda 10.90.1
