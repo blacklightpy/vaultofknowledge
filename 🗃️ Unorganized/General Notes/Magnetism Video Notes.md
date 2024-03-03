@@ -102,7 +102,49 @@ Water molecules but
 
 Like a ball moving forward among other balls
 
+Like it has a life of it's own
 
+But it's not same as the balls (well it is more like a comet)
+
+It is bound here..
+
+But the binding is from the same field though..
+
+What's an analogy for that?
+
+Hmm - 
+
+A string bound, flowing among other strings? (Isn't this like string theory?)
+
+But that doesn't explain charges though.
+
+It's almost like the fields are bound in a way that they are connected
+
+And opposite connections attract while like ones repel.
+
+So it's like creating a charge creates the anti charge too.
+
+But it's not protons vs electrons, but positrons vs electrons.
+
+Well, if one particle is bigger than the others, of course it will move slowly
+
+while the smaller ones jiggle harder (Brownian motion, different particle sizes)
+
+And electron shells are like the same projections I saw in Steve Mould's video?
+
+Electrons should jiggle due to their repulsions and attractions
+
+Then, how does a wave of light excite them to another state?
+
+Btw why do neutrons bind with protons?
+
+Also why do they take a specific shape of orbitals even?
+
+Also why do Hydrogen's electrons don't fall into the proton?
+
+Of course energy levels, but why?
+
+Because electrons are basically clouds, made of smaller particles?
 # TOPIC: If undo was system wide
 You want to copy a text off to another note, then clear it from the present note.
 
