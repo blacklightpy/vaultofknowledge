@@ -78,6 +78,8 @@ Will anyone have an objection?
 ---
 Whirlpool mode
 
+Like water is being sucked in, if a positive charge moves to left, or negative charge moves right (when looking from behind). (right hand thumb rule)
+
 ---
 EXPERIMENT
 
