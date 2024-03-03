@@ -52,22 +52,24 @@ So what you need to realize is that paint and colours are nothing more than ever
 			- So your hand is constantly **radiating** the rope field
 			- And the waves would be the photons
 				- Although we call particles of mechanical waves, aka sound waves, phonons
-				- Although mechanical waves are just a larger scale phenomena of electromagnetic waves
+				- Even though mechanical waves are just a larger scale phenomena of electromagnetic waves
 					- Like waves of electromagnetic waves
-						- Which would again be like a low amplitude high frequency wave added to a high amplitude low frequency wave if I'm correct
+						- Which would be just a low amplitude high frequency wave added to a high amplitude low frequency wave if I'm correct
 		- And also just like every sound is comprised of multiple unit frequencies in several amplitudes
 			- Which is again because you never vibrate many things together at specific exact frequencies, but only to close to a frequency
 			- Like when you use something like a tuning fork
 			- Because vibration is just due to the arrangements of particles, approximated by their Elastic Moduli
-		- Every motion is also comprised of multiple oscillations
+		- Every motion is also comprised of multiple oscillations at several amplitudes
 			- If you think of it as added oscillations of a pendulum
 			- Or deeper (how you always need a home to come back to)
 		- Only at a mathematical modelling level though, but it's still not a bad way to think of it, is it?
+		- So this is what we plot on a graph and call the frequency **spectrum** of so and so material.
 - **Which is all a fancy way to say accelerating charged particles emit radiation**
 - And every atom has charged particles contained with them
-
-
-	- They have a characteristic radiation spectrum and
+	- So they have a characteristic radiation spectrum
+	- And same goes for their molecules
+	- Which is generally in sync with the material, since molecular bonds don't change the spectrum much, unless you mess with the temperature
+		- Because temperature just means pushing the particles more and making them vibrate more rapidly than how they were at the room temperature
 	- Our eyes have cone cells (colour detectors) and rod cells (intensity detectors) and
 	- We have three kinds of cone cells and
 	- 
