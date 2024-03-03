@@ -97,7 +97,12 @@ If I rotate this forwards and backwards, won't I get a wave-like radiation outwa
 	_
 ```
 
+# If undo was system wide
+Copy text - Paste somewhere else - Save - Undo in first notepad - Deletes the saved file - Even 
+# Corruption
+Sense of truth can change.. NO, that's needed in science.
 
+Sense of morality can change.. PROBLEM.
 
 
 
