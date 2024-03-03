@@ -38,8 +38,10 @@ So what you need to realize is that paint and colours are nothing more than ever
 	- Charges particles are defined by having a field or aura around them that extends to infinity
 		- And falls down in intensity with distance by inverse square law
 		- Because the world is 3D and uniform outward radiation would be spherical
-		- And the surface are of a sphere is $\display \frac{}{}$
-	- Anything that changes velocity or state of motion accelerates and
+		- And the surface are of a sphere is $\displaystyle 4\pi r^2$
+		- And anything at a single point on the surface would be per unit area
+		- Which would be $\displaystyle \frac{1}{4\pi r^2}$ times that.
+	- And anything that changes velocity or state of motion accelerates and
 	- Accelerating charged particles also change their fields intensities around them, but the change can only propagate at the speed of information
 	- So any new change will lag behind the previous change which flowed outward at the speed of information
 	- Which means if you oscillate a charged particle, the field around it will also oscillate and flow outward
@@ -48,6 +50,11 @@ So what you need to realize is that paint and colours are nothing more than ever
 			- The rope is the rope field
 			- And at the rope's end is your hand
 			- So your hand is constantly **radiating** the rope field
+			- And the waves would be the photons
+				- Although we call particles of mechanical waves, aka sound waves, phonons
+				- Although mechanical waves are just a larger scale phenomena of electromagnetic waves
+					- Like waves of electromagnetic waves
+						- Which would again be like a low amplitude high frequency wave added to a high amplitude low frequency wave if I'm correct
 		- And also just like every sound is comprised of multiple unit frequencies in several amplitudes
 			- Which is again because you never vibrate many things together at specific exact frequencies, but only to close to a frequency
 			- Like when you use something like a tuning fork
@@ -56,7 +63,9 @@ So what you need to realize is that paint and colours are nothing more than ever
 			- If you think of it as added oscillations of a pendulum
 			- Or deeper (how you always need a home to come back to)
 		- Only at a mathematical modelling level though, but it's still not a bad way to think of it, is it?
-- Which is a fancy way to say accelerating charged particles emit
+- **Which is all a fancy way to say accelerating charged particles emit radiation**
+- And every atom has charged particles contained with them
+
 
 	- They have a characteristic radiation spectrum and
 	- Our eyes have cone cells (colour detectors) and rod cells (intensity detectors) and
