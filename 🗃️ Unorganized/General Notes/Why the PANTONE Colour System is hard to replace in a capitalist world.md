@@ -13,19 +13,25 @@ From Reddit:
 This has topics I have more to study about, but I have some notes taken on it already, so I have a general idea.
 
 - How are colours made?
-	- What are colours (Ink, Dyes, Pigments)
-		- Paint is comprised of Pigments, Dyes or Fillers and Vehicle
-			- Pigments, Dyes of Fillers
-				- Pigments are granular solids incorporated in paints to give colour
-				- Dyes are colourants that dissolve in paint
-				- Fillers are granular solids incorporated in paints to give texture, toughness and other special properties
-			- Vehicle (Binder / Binder + Solvent)
-				- Binder
+	- What are colours even (Ink, Dyes, Pigments)?
+		- Paint is comprised of **Pigments, Dyes or Fillers** and **Vehicle**
+			- ## Pigments, Dyes or Fillers
+				- **Pigments** are granular solids incorporated in paints to give colour
+				- **Dyes** are colourants that dissolve in paint
+				- **Fillers** are granular solids incorporated in paints to give texture, toughness and other special properties
+			- ## Vehicle (Binder / Binder + Solvent)
+				- **Binder**
 					- It is the adhesive that holds the paint together into a film.
-				- Solvent
-					- If the vehincle has to be thinned, a diluent or solvent is used alongside the binder.
+					- Film refers to whatever remains after the solvent component is evaporated (so we have thin layer or film holding together the paint on the surface)
+				- **Solvent**
+					- If the vehicle has to be thinned, a diluent or solvent is used alongside the binder.
 					- They adjust the viscosity of the paint
-			- Additives
-				- They may be used to adjust special properties like surface tension, bacterial grown, anti-freeze, etc.
+			- ## Additives
+				- They may be used to adjust special properties like surface tension, bacterial grown, anti-freeze, etc.<br><br>
 - How does paint work?
-	- Physical paint always uses subtractive mixing, as more components absorb more light, they are not sources.
+	- Physical paint always uses subtractive mixing, as more components absorb more light, they are not sources. <br><br>
+- The special formulas in which certain paints are made are standardized by PANTONE.
+	- A formula is not magic, but a consistent procedure.<br><br>
+So what you need to realize is that paint and colours are nothing more than everyday objects just provided to you in a mixed and mashed form.
+
+After all, they are just colourful because they have a characteristic frequency and our three kinds of cone cells have different 
