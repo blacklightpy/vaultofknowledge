@@ -34,4 +34,20 @@ This has topics I have more to study about, but I have some notes taken on it al
 	- A formula is not magic, but a consistent procedure.<br><br>
 So what you need to realize is that paint and colours are nothing more than everyday objects just provided to you in a mixed and mashed form.
 
-After all, they are just colourful because they have a characteristic frequency and our three kinds of cone cells have different 
+- After all, they are just colourful because
+	- Anything that changes velocity or state of motion accelerates and
+	- Accelerating charged particles also change their fields intensities around them, but the change can only propagate at the speed of information
+	- So any new change will lag behind the previous change which flowed outward at the speed of information
+	- Which means if you oscillate a charged particle, the field around it will also oscillate and flow outward
+	- And this outward flow of change is what we call radiation
+		- Like if a string was always being flicked at one end, we'd say
+			- The rope is the electromagnetic field
+			- And at the rope's end is 
+			- S
+
+	- They have a characteristic radiation spectrum and
+	- Our eyes have cone cells (colour detectors) and rod cells (intensity detectors) and
+	- We have three kinds of cone cells and
+	- 
+	- Our three kinds of cone cells has sensitivites to a different range of frequencies and amplitudes
+		- Meaning, for different frequency encounter
