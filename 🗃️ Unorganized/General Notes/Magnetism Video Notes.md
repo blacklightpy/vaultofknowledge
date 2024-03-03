@@ -145,6 +145,8 @@ Also why do Hydrogen's electrons don't fall into the proton?
 Of course energy levels, but why?
 
 Because electrons are basically clouds, made of smaller particles?
+
+(Lmao Duotrons from Star Trek)
 # TOPIC: If undo was system wide
 You want to copy a text off to another note, then clear it from the present note.
 
