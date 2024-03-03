@@ -284,7 +284,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "division multiplexing",
+                "query": "fhss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -514,10 +514,11 @@
   },
   "active": "4413a6f9bade8fa4",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Video.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Frequency Division Multiplexing.md",
     "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+    "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
+    "🗃️ Unorganized/General Notes/Video.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Frequency Division Multiplexing.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
@@ -539,7 +540,6 @@
     "🗃️ Unorganized/General Notes/Tamil Philosophy.md",
     "🗃️ Unorganized/General Notes/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/Castes in Kerala.md",
-    "🗃️ Unorganized/General Notes/Mixtral Chat.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",
