@@ -70,9 +70,36 @@ m x/t = ma x / (x/t)
 m x/t = m(x/t^2) x / (x/t)
 m x/t = m (x^2/t*2) / (x/t)
 
-
-
-
 ----
+So if I just replace Maxwell's laws
 
-So 
+Will anyone have an objection?
+
+---
+Whirlpool mode
+
+---
+EXPERIMENT
+
+If I rotate this stick, won't I get a radiation outward?
+If I rotate this forwards and backwards, won't I get a wave-like radiation outward?
+
+```
+	_
+	|
+	|
+	|
+	_
+  ( _ )
+	|
+	|
+	|
+	_
+```
+
+
+
+
+
+
+
