@@ -14,3 +14,18 @@ This has topics I have more to study about, but I have some notes taken on it al
 
 - How are colours made?
 	- What are colours (Ink, Dyes, Pigments)
+		- Paint is comprised of Pigments, Dyes or Fillers and Vehicle
+			- Pigments, Dyes of Fillers
+				- Pigments are granular solids incorporated in paints to give colour
+				- Dyes are colourants that dissolve in paint
+				- Fillers are granular solids incorporated in paints to give texture, toughness and other special properties
+			- Vehicle (Binder / Binder + Solvent)
+				- Binder
+					- It is the adhesive that holds the paint together into a film.
+				- Solvent
+					- If the vehincle has to be thinned, a diluent or solvent is used alongside the binder.
+					- They adjust the viscosity of the paint
+			- Additives
+				- They may be used to adjust special properties like surface tension, bacterial grown, anti-freeze, etc.
+- How does paint work?
+	- Physical paint always uses subtractive mixing, as more components absorb more light, they are not sources.
