@@ -68,8 +68,9 @@ So what you need to realize is that paint and colours are nothing more than ever
 - And every atom has charged particles contained with them
 	- So they have a characteristic radiation spectrum
 	- And same goes for their molecules
-	- Which is generally in sync with the material, since molecular bonds don't change the spectrum much, unless you mess with the temperature
-		- Because temperature just means pushing the particles more and making them vibrate more rapidly than how they were at the room temperature
+	- Which is generally in sync with the material (i.e., the material's radiation spectrum would be the same as the molecule's radiation spectrum, at least to an extent)
+		- Since molecular bonds don't change the spectrum much, unless you mess with the temperature
+			- Because temperature just means pushing the particles more and making them vibrate more rapidly than how they were at the room temperature
 	- Our eyes have cone cells (colour detectors) and rod cells (intensity detectors) and
 	- We have three kinds of cone cells and
 	- 
