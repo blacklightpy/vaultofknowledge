@@ -15,7 +15,7 @@ Video Compression Method
 				- Variants: B, G, H, I, D/K, L, M (YUV), N (YDbDr)
 			- SECAM (built in search of NTSC hue problems) - YDbDr
 		- Signal contains on one wire, the video information required to recreate a colour picture, as well as line and frame synchronization pulses. The colour video signal is a linear combination of the [[Luminance]] (Y) of the picture and a [[Modulation|modulated]] [[Chrominance]] (C), a combination of [[Hue]] and [[Saturation]]. The combining process is different for NTSC, PAL and SECAM systems.
-		- The signals may be separated by a [[comb filter]]. The combination is a frequency division technique, but it is more complex that [[Frequency Division Multiplexing]].
+		- The signals may be separated by a [[comb filter]]. The combination is a frequency division technique, but it is more complex than [[Frequency Division Multiplexing]].
 	- S-Video
 		- 2 channel YC
 	- Component Video
