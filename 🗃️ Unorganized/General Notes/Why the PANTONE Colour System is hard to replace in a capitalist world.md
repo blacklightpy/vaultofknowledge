@@ -35,15 +35,28 @@ This has topics I have more to study about, but I have some notes taken on it al
 So what you need to realize is that paint and colours are nothing more than everyday objects just provided to you in a mixed and mashed form.
 
 - After all, they are just colourful because
+	- Charges particles are defined by having a field or aura around them that extends to infinity
+		- And falls down in intensity with distance by inverse square law
+		- Because the world is 3D and uniform outward radiation would be spherical
+		- And the surface are of a sphere is $\display \frac{}{}$
 	- Anything that changes velocity or state of motion accelerates and
 	- Accelerating charged particles also change their fields intensities around them, but the change can only propagate at the speed of information
 	- So any new change will lag behind the previous change which flowed outward at the speed of information
 	- Which means if you oscillate a charged particle, the field around it will also oscillate and flow outward
 	- And this outward flow of change is what we call radiation
 		- Like if a string was always being flicked at one end, we'd say
-			- The rope is the electromagnetic field
-			- And at the rope's end is 
-			- S
+			- The rope is the rope field
+			- And at the rope's end is your hand
+			- So your hand is constantly **radiating** the rope field
+		- And also just like every sound is comprised of multiple unit frequencies in several amplitudes
+			- Which is again because you never vibrate many things together at specific exact frequencies, but only to close to a frequency
+			- Like when you use something like a tuning fork
+			- Because vibration is just due to the arrangements of particles, approximated by their Elastic Moduli
+		- Every motion is also comprised of multiple oscillations
+			- If you think of it as added oscillations of a pendulum
+			- Or deeper (how you always need a home to come back to)
+		- Only at a mathematical modelling level though, but it's still not a bad way to think of it, is it?
+- Which is a fancy way to say accelerating charged particles emit
 
 	- They have a characteristic radiation spectrum and
 	- Our eyes have cone cells (colour detectors) and rod cells (intensity detectors) and
