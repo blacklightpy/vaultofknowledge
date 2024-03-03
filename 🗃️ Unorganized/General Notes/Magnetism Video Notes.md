@@ -97,6 +97,12 @@ If I rotate this forwards and backwards, won't I get a wave-like radiation outwa
 	_
 ```
 
+---
+Water molecules but 
+
+Like a ball moving forward among other balls
+
+
 # TOPIC: If undo was system wide
 You want to copy a text off to another note, then clear it from the present note.
 
