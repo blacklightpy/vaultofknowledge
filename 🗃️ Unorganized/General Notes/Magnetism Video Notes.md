@@ -133,6 +133,7 @@ Well, if one particle is bigger than the others, of course it will move slowly
 while the smaller ones jiggle harder (Brownian motion, different particle sizes)
 
 And electron shells are like the same projections I saw in Steve Mould's video?
+("Everyone should see this experiment for themselves")
 
 Electrons should jiggle due to their repulsions and attractions
 
@@ -141,6 +142,7 @@ Then, how does a wave of light excite them to another state?
 Btw why do neutrons bind with protons?
 
 Also why do they take a specific shape of orbitals even?
+(Vibrations, spherical harmonics?)
 
 Also why do Hydrogen's electrons don't fall into the proton?
 
