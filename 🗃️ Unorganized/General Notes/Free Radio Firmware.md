@@ -137,6 +137,7 @@
 - 3GPP: 3rd Generation Partnership Project, the umbrella term associated with standard organizations dealing with GSM (and related 2G and 2.5G standards including GPRS and EDGE), UMTS (and related 3G standards, including HSPA and HSPA+), LTE (and related 4G standards, including LTE Advanced and LTE Advanced Pro), 5G NR (and related 5G standards, including 5G-Advanced). It was developed with the aim of making a 3G mobile phone system based on the 2G GSM system.
 - 3GPP2: Not to be confused with 3GPP, it is the standards body associated with the competing 3G standard to 3GPP's UMTS, CDMA2000, which is the 3G upgrade to cdmaOne which was popular in the US (and to some extent also in Japan, China, Canada, South Korea and India). Ultra Mobile Broadband (UMB) was the planned 4G successor to CDMA2000, but Qualcomm, the lead sponsor of UMB in 2008 announced they were ending the development and favouring LTE instead. Most countries favoured the GSM/UMTS (GSM family of standards) while some countries (mentioned before) adopted both standards. 3GPP2 had it's last activity in 2013, and they had been dormant ever since, with the website taken down, due to the adoption of LTE a decade prior, and due to the shutdown of CDMA networks.
 - IEEE: In our context, IEEE defines the wireless standards like Wi-Fi and Wi-Max (WirelessMAN).
+- ETSI: European Telecommunications Standards Institute
 # Technologies
 ## 0G (Analog Telecommunications)
 They were commonly called the car phones due to them mostly being inside cars. The ones that look like landline phones with a handset transciever, but portable rather than wired.
@@ -167,7 +168,6 @@ They were commonly called the car phones due to them mostly being inside cars. T
 - cdmaOne: Code Division Multiple Access One (2G)
 	- Also known as IS-95 (Interim Standard 95)
 	- It is the first technology that made use of the CDMA access method
-- ETSI: European Telecommunications Standards Institute
 - GPRS: General Packet Radio Service (2.5G)
 - EDGE: Enhanced Data rates for GSM Evolution / Enhanced Data Rates for Global Evolution (2.75G)
 	- Also known as EGPRS (Evolved General Packet Radio Service)

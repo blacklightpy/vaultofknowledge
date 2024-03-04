@@ -284,7 +284,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fhss",
+                "query": "gprs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -512,7 +512,7 @@
       }
     ]
   },
-  "active": "4413a6f9bade8fa4",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
