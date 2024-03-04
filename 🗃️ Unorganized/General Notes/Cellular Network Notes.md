@@ -97,19 +97,24 @@ Since I explained this much, here are some more and a summary:
 	- IMTS
 	- RCC
 	- AMTS
+	- More: Altai, OLT, MTA, MTB, MTC, MTD, Mobile TeleSeratout, Autotel (PALM), ARP, B-Netz, AMR
 - 1G (Analog - Digital)
 	- NMT
 	- AMPS
-	- Digital AMPS IS-54 (1.5G/2G)
-	- Digital AMPS IS-136 (1.5G/2G)
+	- N-AMPS
+	- D-AMPS IS-54 (1.5G/2G)
+	- D-AMPS IS-136 (1.5G/2G)
+	- More: C-450, Hicap, Mobitex, DataTAC, CT1, TACS, ETACS
 - 2G
 	- GSM
-	- cdmaOne/IS-95, GPRS (2.5G)
+	- cdmaOne/IS-95
+	- GPRS (2.5G)
 	- EDGE/EGPRS (2.75G)
 	- Evolved EDGE/EDGE Evolution (2.875G)
 	- CDMA2000 1X/1x/1xRTT/IS-2000 (2.9G/3G)
 		- 1x RTT means 1x bandwidth of IS-95
 	- CDMA2000 1X Advanced (2.9G/3G)
+	- More: CSD, HS
 - 3G
 	- UMTS
 	- CDMA2000 1X EV-DO Release 0
