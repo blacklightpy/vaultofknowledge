@@ -1,9 +1,9 @@
 - Hinduism
 - Buddhism
+- Jainism
 - Taoism
 - Shinto
 - Sikhism
-- Jainism
 # Details
 ## Sikhism
 - Sikhism is an offshoot of Hinduism, but is monotheistic. It was influenced by Sufis, but not by Islam.
