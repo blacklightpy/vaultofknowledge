@@ -6,7 +6,6 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali
 - "Dharmic" Hinduism or "daily morality", based on Karma and upon societal norms such as Vivāha (Hindu marriage customs)
 - Bhakti or devotionalist practices
-
 # Ideas
 Para Brahman is beyond all descriptions and conceptualisations. It is formless (devoid of Maya) and is eternal.
 
@@ -33,21 +32,23 @@ Saguna - All good attributes
 - Kaumaram
 ## Scriptures
 - Srutis (eternal words)
-  - Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)
+	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)
     - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
     - Vedangas / Supplimentaries: (Shiksha, Chandas, Vyakarana, Nirukta, Kalpa, Jyotisha)
 - Smritis (human works)
-  - Ithihasas (Mahabharatam, Ramayanam)
-    - Bhagavad Gita is a part of Mahabharatam
-  - Puranas (18 in Number)
-    - Bhagavata Purana / Sreemad Bhagavatam (last by Ved Vyas; begins where Bhagavad Gita ends; most important Purana)
-  - Upa Puranas (18 in Number)
-  - Tantras / Agamas
-    - Astya (Orthodox Hindu schools of philosophy)
-      - Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)
-    - Nastya (Hindu schools of philosophy not accepting of Vedic authority)
-  - Sangam Literature
-    - Five Great Epics (includes Silappatikaram)
+	- Ithihasas (Mahabharatam, Ramayanam)
+		- Bhagavad Gita is a part of Mahabharatam
+	- Puranas
+		- Puranas / Maha Puranas (18 in number)
+		- Upa Puranas (18 in Number)
+		- Bhagavata Purana / Sreemad Bhagavatam was the last Purana written by Ved Vyas
+			- It begins where Bhagavad Gita ends, and most important Purana
+	- Tantras / Agamas
+		- Astya (Orthodox Hindu schools of philosophy)
+			- Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)
+		- Nastya (Hindu schools of philosophy not accepting of Vedic authority)
+	- Sangam Literature
+		- Five Great Epics (includes Silappatikaram)
 
 ![[Pasted image 20240302111613.png]]
 

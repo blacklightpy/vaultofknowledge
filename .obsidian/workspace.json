@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hindu Schools of Thought.md",
+                "file": "🗃️ Unorganized/General Notes/Vedangas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hindu Schools of Thought.md",
+                "file": "🗃️ Unorganized/General Notes/Vedangas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hindu Schools of Thought.md"
+                "file": "🗃️ Unorganized/General Notes/Vedangas.md"
               }
             }
           },
@@ -563,9 +563,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "1034f7884ba046ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Vedangas.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 11
+            "currentTab": 12
           }
         ],
         "direction": "vertical",
@@ -578,15 +591,16 @@
       }
     ]
   },
-  "active": "f5186da4699e82d8",
+  "active": "1034f7884ba046ab",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Vedangas.md",
+    "🗃️ Unorganized/General Notes/Mixtral Chat.md",
+    "🗃️ Unorganized/General Notes/Puranas.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Hindu Schools of Thought.md",
     "🗃️ Unorganized/General Notes/Hindu Festivals In Kerala.md",
-    "🗃️ Unorganized/General Notes/Puranas.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
-    "🗃️ Unorganized/General Notes/Mixtral Chat.md",
     "🗃️ Unorganized/General Notes/Vedas.md",
     "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
     "🗃️ Unorganized/General Notes/Mahabharata.md",
@@ -606,7 +620,6 @@
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
     "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",

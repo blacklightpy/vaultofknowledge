@@ -9,6 +9,7 @@ It is debated which are Maha Puranas and which are Upa Puranas, however, there a
 		- Adyatma Ramayana (Tries to reconcile Rama Bhakti with Advaita Vedanta)
 	- Brahmavaivarta Purana
 	- Markandeya Purana
+		- Devi Mahatmyam
 	- Bhavishya Purana
 - Vaishnava Puranas
 	- Vishnu Purana
