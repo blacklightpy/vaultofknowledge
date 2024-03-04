@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
+                "file": "🗃️ Unorganized/General Notes/Puranas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
+                "file": "🗃️ Unorganized/General Notes/Puranas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md"
+                "file": "🗃️ Unorganized/General Notes/Puranas.md"
               }
             }
           },
@@ -524,9 +524,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "5fed8623fa3aa8ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Puranas.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 9
           }
         ],
         "direction": "vertical",
@@ -539,10 +552,12 @@
       }
     ]
   },
-  "active": "99b65cb3f149cc1c",
+  "active": "5fed8623fa3aa8ba",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/General Notes/Puranas.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/General Notes/Mixtral Chat.md",
     "🗃️ Unorganized/General Notes/Vedas.md",
     "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
@@ -550,7 +565,6 @@
     "🗃️ Unorganized/General Notes/Sutras.md",
     "🗃️ Unorganized/General Notes/Dharma Sutras.md",
     "🗃️ Unorganized/General Notes/Dharma Shastra.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Tamil Philosophy.md",
     "🗺️ World Exploration/Culture/Eastern Religions.md",
     "_images/Shamanistic Exorcism Ritual.png",
@@ -567,7 +581,6 @@
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "🗃️ Unorganized/General Notes/If Undos Were System Wide.md",
     "🔮 World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Multiplexing.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",
