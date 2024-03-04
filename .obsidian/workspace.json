@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Mahabharata.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Mahabharata.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Mahabharata.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md"
               }
             }
           },
@@ -505,7 +505,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/General Notes/Mahabharata.md",
+                    "file": "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -526,7 +526,7 @@
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -539,13 +539,15 @@
       }
     ]
   },
-  "active": "bd562b5e790ed163",
+  "active": "99b65cb3f149cc1c",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
-    "🗃️ Unorganized/General Notes/Sutras.md",
-    "🗃️ Unorganized/General Notes/Vedas.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
+    "🗃️ Unorganized/General Notes/Mixtral Chat.md",
+    "🗃️ Unorganized/General Notes/Vedas.md",
+    "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
+    "🗃️ Unorganized/General Notes/Mahabharata.md",
+    "🗃️ Unorganized/General Notes/Sutras.md",
     "🗃️ Unorganized/General Notes/Dharma Sutras.md",
     "🗃️ Unorganized/General Notes/Dharma Shastra.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
@@ -554,7 +556,6 @@
     "_images/Shamanistic Exorcism Ritual.png",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Castes in Kerala.md",
-    "🗃️ Unorganized/General Notes/Mahabharata.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against Islam.md",
     "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
     "🗃️ Unorganized/General Notes/Channel Access.md",
@@ -567,7 +568,6 @@
     "🗃️ Unorganized/General Notes/If Undos Were System Wide.md",
     "🔮 World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Multiplexing.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Duplexing.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",

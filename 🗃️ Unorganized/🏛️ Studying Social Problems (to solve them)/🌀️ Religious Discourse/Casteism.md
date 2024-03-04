@@ -24,7 +24,35 @@ Through DWIJA, Brahmin can become Shudra and vice versa.
 **Bhagavad Gita: 5.18**
 
 > vidyā-vinaya-sampanne brāhmaṇe gavi hastini
-śhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ
+> śhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ
 
 >The sages look with equal eye on a Brahmana endowed with knowledge and humility, on a cow, on an elephant, on a dog and on the outcaste who feeds on dog’s flesh.
 
+
+
+
+
+
+
+---
+**Gita 5.19**
+
+The key words for this discussion are ‘sama-darsinah’ which means same sight and ‘samam brahma’ which means Brahma is equally in all. As you can see untouchability violates both ‘sama-darsinah’ and is an insult to Brahma Itself who is present in all beings. Compassion to all living beings demanded by Gita 16.2 flows from the idea that Brahma is equally present in all beings. This idea is further expressed in the following Gita shloka:
+
+> Dominated by self-conceit, prone to the use of force, arrogant, lustful and choleric, these traducers of virtue violate Me, dwelling in them and also in others.
+
+**Gita 16.18**
+
+The practice of untouchability violates the basic teaching of the Gita that such beahviour violates the God within the other person. Moreover such a practice violates basic Hindu ethics. Some quotes from Hindu scripture on ethics
+
+> ...But those who cook food for the self alone without sharing with others (the needy), such degraded men eat sin. (**Gita 3.13**)
+> 
+> The man of spiritual insight, established in same-sightedness, sees the Self as residing in all beings and all beings as resting in the Self. (**Gita 6.29**)
+> 
+> He who sees Me in all beings and all beings in Me – to him I am never lost, nor he to Me. (**Gita 6.30**)  
+> 
+> Established in the unity of all existence, a Yogin who serves Me present in all beings, verily abides in Me, whatever be his mode of life. (**Gita 6.31**)
+> 
+> O Arjuna! In My view that Yogi is the best who, out of a sense of identity with others on account of the perception of the same Atman in all, feels their joy and suffering as his own. (**Gita 6.32**)
+> 
+> Works like sacrifice, charity, and austerity should not be abandoned. They should be performed, for they are purifying for the wise. (**Gita 18.5**)
