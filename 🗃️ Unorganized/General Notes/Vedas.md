@@ -1,13 +1,22 @@
 # Stuff to Learn
+- Scriptures
+	- Vedas (Tier 1)
+	- Dharma Shastras (Tier 2)
+	- Puranas (Tier 3)
+		- Maha Puranas
+		- Upa Puranas
+- Agamas (Related to Samhithas)
+- Smritis
+	- Bhakti Shastras
+		- Ithihasas
+		- Supplimentary
+	- Poetic Works (Kalidasa, etc.)
+	- Social Sciences
 
-- Agamas
-- Shastras
-	- Dharma Shastras (Tier 1)
-	- Puranas (Tier 2)
-	- Bhakti Shastras (Tier 3)
+Bhasyas (Commentaries)
+Nibandhas (Digests)
 
-Vedas have their respective Sakhas
-
+Vedas have their respective [[Vedic Shakhas]].
 Brahmanas are Vedic Sruti works attached to Samhitas
 # Samhithas
 

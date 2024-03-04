@@ -19,3 +19,12 @@ This is terrible because without the hard labour that these people performed for
 
 Through DWIJA, Brahmin can become Shudra and vice versa.
 
+# Verses
+
+**Bhagavad Gita: 5.18**
+
+> vidyā-vinaya-sampanne brāhmaṇe gavi hastini
+śhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ
+
+>The sages look with equal eye on a Brahmana endowed with knowledge and humility, on a cow, on an elephant, on a dog and on the outcaste who feeds on dog’s flesh.
+

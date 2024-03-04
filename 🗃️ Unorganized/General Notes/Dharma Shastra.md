@@ -20,7 +20,6 @@ Between the three, the **Manusmriti** became famous during the colonial British 
 
 Further, the Dharma Shastras were open texts, and they underwent alterations and rewriting through their history.
 # Contents of Dharma Shastras and Dharmasutras
-
 All Dharma, in Hindu traditions, has its foundation in the Vedas. The Dharma Shastra texts enumerate four sources of Dharma – **the precepts in the Vedas**, **the tradition**, **the virtuous conduct of those who know the Vedas**, and **approval of one's conscience (Atmasantushti, self-satisfaction)**.
 
 The Dharma Shastra texts include conflicting claims on the sources of dharma. The theological claim therein asserts, without any elaboration, that Dharma just like the Vedas are eternal and timeless, the former is directly or indirectly related to the Vedas. 
@@ -48,3 +47,13 @@ Prayaschitha (प्रायश्चित्त) literally means "atonement, 
 Thus, in the Apastambha text, a willing sexual act between a male and female is subject to penance, while rape is covered by harsher judicial punishments, with a few texts such as Manusmriti suggesting public punishments in extreme cases.
 
 Those texts that discuss Prayaschitha, states Robert Lingat, debate the intent and thought behind the improper act, and consider penance appropriate when the "effect" had to be balanced, but "cause" was unclear. The roots of this theory are found in the Brahmana layer of text in the Samaveda.
+# Contributions by different Hindu schools of thought
+The **Mimamsa** school of Hindu philosophy developed textual hermeneutics, theories on language and interpretation of Dharma, ideas which contributed to the Dharmasutras and Dharmasastras. The **Vedanga** fields of grammar and linguistics – **Vyakarana** and **Nirukta** – were the other significant contributors to the Dharma-text genre.
+
+Mimamsa literally means the "desire to think", states Donald Davis, and in colloquial historical context "how to think, interpret things, and the meaning of texts".
+
+In the early portions of the Vedas, the focus was largely on the **rituals**; in the later portions, largely on **philosophical speculations** and the **spiritual liberation** (**moksha**) of the individual. 
+
+The Dharma-texts, over time and each in its own way, attempted to present their theories on rules and duties of individuals from the perspective of a society, using the insights of hermeneutics and on language developed by Mimamsa and Vedanga.
+
+The **Nyaya** school of Hindu philosophy, and its insights into the theories on logic and reason, contributed to the development of and disagreements between the Dharmasastra texts, and the term Nyaya came to mean "justice".
