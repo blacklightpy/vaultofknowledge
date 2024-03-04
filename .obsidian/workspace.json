@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87582478e275891f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -284,7 +297,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fdma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -301,12 +314,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -330,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md"
+                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md"
               }
             }
           },
@@ -512,9 +525,10 @@
       }
     ]
   },
-  "active": "07135975f7c01c70",
+  "active": "87582478e275891f",
   "lastOpenFiles": [
     "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
@@ -539,7 +553,6 @@
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
     "🗃️ Unorganized/General Notes/Tamil Philosophy.md",
     "🗃️ Unorganized/General Notes/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/General Notes/Castes in Kerala.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",
