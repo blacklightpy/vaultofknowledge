@@ -1,0 +1,21 @@
+# Orthodox
+- Samkhya
+	- Dualism
+		- Purusa is part of Prakriti
+		- Purusa is bound to Prakriti by Jiva
+		- Moksha is how the soul is liberated
+- Yoga
+	- It is based on the Samkhya school of thought
+- Nyaya
+- Vaisheshika
+- Mimamsa / Purva Mimamsa
+- Vedanta / Uttara Mimamsa
+	- Bhedabheda Vedanta (difference and non-difference)
+	- Dvaitādvaita
+	- Advaita Vedanta
+	- Vishishtadvaita Vedanta
+		- Akshar-Purushottam Darshan
+	- Dvaita
+	- Shuddhādvaita
+	- Achintya-Bheda-Abheda
+# Unorthodox
