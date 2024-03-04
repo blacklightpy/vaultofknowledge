@@ -1,3 +1,6 @@
+Denominations are also called Sampradayas.
+# Based on Schools of thought
+Schools of thought are also called Darshanas.
 # Orthodox
 - Samkhya
 	- Dualism
@@ -23,10 +26,14 @@
 		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
 - Nyaya
 - Vaisheshika
+	- Naturalism
+	- It postulated that everything is made of atoms
 - Mimamsa / Purva Mimamsa
 	- It focuses on the early parts of the Vedas
 - Vedanta / Uttara Mimamsa
 	- It focuses on the later parts of the Vedas
+	- It is like the opposite of Samkhya school of thought
+		- It sees the world as a manifestation of Brahman
 	- Types
 		- Bhedabheda Vedanta (difference and non-difference)
 		- Dvaitādvaita Vedanta
@@ -37,3 +44,54 @@
 		- Shuddhādvaita Vedanta
 		- Achintya-Bheda-Abheda Vedanta
 # Unorthodox
+
+# Based on Deities
+Hinduism is subdivided into a number of major sampradayas. Of the historical division into six darsanas (philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
+
+Classified by primary deity or deities, four major Hinduism modern currents are Vaishnavism (Vishnu), Shaivism (Shiva), Shaktism (Shakti) and Smartism (five deities treated as same).
+
+These deity-centered denominations feature a synthesis of various philosophies such as Samkhya, Yoga and Vedanta, as well as shared spiritual concepts such as **moksha**, **dharma**, **karma**, **samsara**, ethical precepts such as **ahimsa**, texts (**Upanishads**, **Puranas**, **Mahabharata**, **Agamas**), **ritual grammar and rites of passage**.
+
+
+# Modern
+- Reformist
+	- Adi Dharm / Brahmoism
+		- Brahmo Samaj
+		- Sadharan Brahmo Samaj
+	- Ananda Marga
+	- Arya Samaj
+	- Ayyavazhi
+	- Brahma Kumaris
+	- Chinmaya Mission
+	- Divine Life Society
+	- Ramakrishna Mission and Ramakrishna Math
+	- Ravidas Panth
+		- Satnampanth
+	- Shri Ram Chandra Mission
+	- Sri Aurobindo Ashram
+- Sat Panth
+	- Dadu Panth (Part of the Sant Mat)
+	- Kabir Panth (Part of the Sant Mat)
+	- Pranami Sampraday
+	- Sathya Sai sampradaya
+- Yoga and meditation based
+	- Art of Living
+	- Isha Foundation
+	- Himalayan Yoga and Philosophy
+	- Prarthana Samaj
+	- Sahaj Panth (Buddhist and Hindu)
+		- Sahaja Yoga
+	- Self-Realization Fellowship / Yogoda Satsanga
+	- Swadhyay Parivar
+	- Transcendental Meditation
+- Others
+	- Hanuman Foundation
+	- Hindutva
+	- Inchegeri Sampradaya
+	- Kapadi Sampradaya
+	- Mahima Dharma
+	- Matua Mahasangha
+	- Nath Panth
+	- Ramsnehi Sampradaya
+	- Varkari Panth (Hindu)
+
