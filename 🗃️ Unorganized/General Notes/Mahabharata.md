@@ -28,105 +28,100 @@ Each adhyaya is comprised of several verses (shlokas).
 	- Parva 18: Haranaharana Parva
 	- Parva 19: Khandava Daha Parva
 	- Parva 20: Sabhakriya Parva
- - Book 2: Sabha Parva 
+ - Book 2: Sabha Parva
+	- Parva 21: Lokapala Sabhakhyana Parva
+	- Parva 22: Rajasuya Arambha Parva
+	- Parva 23: Jarasandha Vadha Parva
+	- Parva 24: Digvijaya Parva
+	- Parva 25: Rajasuyika Parva
+	- Parva 26: Arghyaharana Parva
+	- Parva 27: Shishupala Vadha Parva
+	- Parva 28: Dyuta Parva
+	- Parva 29: Anudyuta Parva
  - Book 3: Vana Parva 
+	- Parva 30: Aranyaka Parva
+	- Parva 31: Kirmira Vadha Parva
+	- Parva 32: Arjunabhigamana Parva
+	- Parva 33: Kairata Parva
+	- Parva 34: Indraloka Gamana Parva
+	- Parva 35: Nalopakhyana Parva
+	- Parva 36: Tirtha Yatra Parva
+	- Parva 37: Yaksha Yudha Parva
+	- Parva 38: Nivatakavacha Yudha Parva
+	- Parva 39: Ajagara Parva
+	- Parva 40: Markandeya Samasya Parva
+	- Parva 41: Draupadi Satyabhama Samvada Parva
+	- Parva 42: Ghosha Yatra Parva
+	- Parva 43: Mriga Sapnodbhava Parva
+	- Parva 44: Bruhi Drounika Parva
+	- Parva 45: Draupadi Harana Parva
+	- Parva 46: Jayadratha Vimokshana Parva
+	- Parva 47: Ramopakhyana Parva
+	- Parva 48: Pativrata Mahatmya Parva
+	- Parva 49: Kundala Harana Parva
+	- Parva 50: Aranya Parva
  - Book 4: Virata Parva 
+	- Parva 51: Pandava Pravesha Parva
+	- Parva 52: Kichaka Vadha Parva
+	- Parva 53: Goharana Parva
+	- Parva 54: Vaivahika Parva
  - Book 5: Udyoga Parva 
+	- Parva 55: Sainyodyoga Parva
+	- Parva 56: Sanjayayana Parva
+	- Parva 57: Prajagara Parva
+	- Parva 58: Sanat Sujata Parva
+	- Parva 59: Yanasandhi Parva
+	- Parva 60: Bhagavatyana Parva
+	- Parva 61: Sainya Nirnaya Parva
+	- Parva 62: Ulukabhigamana Parva
+	- Parva 63: Rathatiratha Sankhyana Parva
+	- Parva 64: Ambopakhyana Parva
  - Book 6: Bhishma Parva 
+	- Parva 65: Jambhukhanda Vinirmana Parva
+	- Parva 66: Bhumi Parva
+	- Parva 67: Bhagavad Gita Parva
+	- Parva 68: Bhishma Vadha Parva
  - Book 7: Drona Parva 
+	- Parva 69: Dronabhisheka Parva
+	- Parva 70: Samshaptaka Vadha Parva
+	- Parva 71: Abhimanyu Vadha Parva
+	- Parva 72: Pratignya Parva
+	- Parva 73: Jayadratha Vadha Parva
+	- Parva 74: Ghatotkacha Vadha Parva
+	- Parva 75: Drona Vadha Parva
+	- Parva 76: Narayanastra Mokshana Parva
  - Book 8: Karna Parva 
+	- Parva 77: Karna Parva
  - Book 9: Shalya Parva 
+	- Parva 78: Shalya Vadha Parva
+	- Parva 79: Shalya Parva
+	- Parva 80: Hrada Pravesha Parva
+	- Parva 81: Gada Yudha Parva
  - Book 10: Sauptika Parva 
+	- Parva 82: Sauptika Parva
+	- Parva 83: Aishika Parva
  - Book 11: Stri Parva 
+	- Parva 84: Vishoka Parva
+	- Parva 85: Stri Parva
+	- Parva 86: Shraddha Parva
+	- Parva 87: Jalapradanika Parva
  - Book 12: Santi Parva 
+	- Parva 88: Rajadharma Anushasana Parva
+	- Parva 89: Apaddharma Anushasana Parva
+	- Parva 90: Moksha Dharma Parva
  - Book 13: Anusasana Parva 
+	- Parva 91: Dana Dharma Parva
+	- Parva 92: Bhishma Swargarohana Parva
  - Book 14: Aswamedha Parva 
+	- Parva 93: Ashwamedhika Parva
+	- Parva 94: Anugita Parva
  - Book 15: Asramavasika Parva 
+	- Parva 95: Ashramavasa Parva
+	- Parva 96: Putradarshana Parva
+	- Parva 97: Naradagamana Parva
  - Book 16: Mausala Parva 
+	- Parva 98: Mausala Parva
  - Book 17: Mahaprasthanika Parva 
+	- Parva 99: Mahaprasthanika Parva
  - Book 18: Svargarohanika 
-
-
-
-- Parva 21: Lokapala Sabhakhyana Parva
-- Parva 22: Rajasuya Arambha Parva
-- Parva 23: Jarasandha Vadha Parva
-- Parva 24: Digvijaya Parva
-- Parva 25: Rajasuyika Parva
-- Parva 26: Arghyaharana Parva
-- Parva 27: Shishupala Vadha Parva
-- Parva 28: Dyuta Parva
-- Parva 29: Anudyuta Parva
-
-- Parva 30: Aranyaka Parva
-- Parva 31: Kirmira Vadha Parva
-- Parva 32: Arjunabhigamana Parva
-- Parva 33: Kairata Parva
-- Parva 34: Indraloka Gamana Parva
-- Parva 35: Nalopakhyana Parva
-- Parva 36: Tirtha Yatra Parva
-- Parva 37: Yaksha Yudha Parva
-- Parva 38: Nivatakavacha Yudha Parva
-- Parva 39: Ajagara Parva
-- Parva 40: Markandeya Samasya Parva
-- Parva 41: Draupadi Satyabhama Samvada Parva
-- Parva 42: Ghosha Yatra Parva
-- Parva 43: Mriga Sapnodbhava Parva
-- Parva 44: Bruhi Drounika Parva
-- Parva 45: Draupadi Harana Parva
-- Parva 46: Jayadratha Vimokshana Parva
-- Parva 47: Ramopakhyana Parva
-- Parva 48: Pativrata Mahatmya Parva
-- Parva 49: Kundala Harana Parva
-- Parva 50: Aranya Parva
-
-- Parva 51: Pandava Pravesha Parva
-- Parva 52: Kichaka Vadha Parva
-- Parva 53: Goharana Parva
-- Parva 54: Vaivahika Parva
-- Parva 55: Sainyodyoga Parva
-- Parva 56: Sanjayayana Parva
-- Parva 57: Prajagara Parva
-- Parva 58: Sanat Sujata Parva
-- Parva 59: Yanasandhi Parva
-- Parva 60: Bhagavatyana Parva
-- Parva 61: Sainya Nirnaya Parva
-- Parva 62: Ulukabhigamana Parva
-- Parva 63: Rathatiratha Sankhyana Parva
-- Parva 64: Ambopakhyana Parva
-- Parva 65: Jambhukhanda Vinirmana Parva
-- Parva 66: Bhumi Parva
-- Parva 67: Bhagavad Gita Parva
-- Parva 68: Bhishma Vadha Parva
-- Parva 69: Dronabhisheka Parva
-- Parva 70: Samshaptaka Vadha Parva
-- Parva 71: Abhimanyu Vadha Parva
-- Parva 72: Pratignya Parva
-- Parva 73: Jayadratha Vadha Parva
-- Parva 74: Ghatotkacha Vadha Parva
-- Parva 75: Drona Vadha Parva
-- Parva 76: Narayanastra Mokshana Parva
-- Parva 77: Karna Parva
-- Parva 78: Shalya Vadha Parva
-- Parva 79: Shalya Parva
-- Parva 80: Hrada Pravesha Parva
-- Parva 81: Gada Yudha Parva
-- Parva 82: Sauptika Parva
-- Parva 83: Aishika Parva
-- Parva 84: Vishoka Parva
-- Parva 85: Stri Parva
-- Parva 86: Shraddha Parva
-- Parva 87: Jalapradanika Parva
-- Parva 88: Rajadharma Anushasana Parva
-- Parva 89: Apaddharma Anushasana Parva
-- Parva 90: Moksha Dharma Parva
-- Parva 91: Dana Dharma Parva
-- Parva 92: Bhishma Swargarohana Parva
-- Parva 93: Ashwamedhika Parva
-- Parva 94: Anugita Parva
-- Parva 95: Ashramavasa Parva
-- Parva 96: Putradarshana Parva
-- Parva 97: Naradagamana Parva
-- Parva 98: Mausala Parva
-- Parva 99: Mahaprasthanika Parva
-- Parva 100: Swargarohana Parva
+	- Parva 100: Swargarohana Parva
