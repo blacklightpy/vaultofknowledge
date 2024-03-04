@@ -16,8 +16,26 @@
 Bhasyas (Commentaries)
 Nibandhas (Digests)
 
+Shastras, Sutras, Tantras, Upavedas, Stotras, Stutis
+
 Vedas have their respective [[Vedic Shakhas]].
 Brahmanas are Vedic Sruti works attached to Samhitas
+
+The Upanishads are late Vedic and post-Vedic Sanskrit texts that "document the transition from the archaic ritualism of the Veda into new religious ideas and institutions" and the emergence of the central religious concepts of Hinduism. They are the most recent addition to the Vedas, the oldest scriptures of Hinduism, and deal with meditation, philosophy, consciousness, and ontological knowledge. Earlier parts of the Vedas dealt with mantras, benedictions, rituals, ceremonies, and sacrifices.
+
+- Vedangas (Disciplines)
+	- 6 Vedangas
+- Parisista (Supplements / Appendix)
+	- Samhitas
+	- Brahmanas
+	- Aranyakas
+	- Sutras
+- Upavedas (Applied Knowledge)
+	- Archery (Dhanurveda), associated with the Yajurveda
+	- Architecture (Sthapatyaveda), associated with the Rigveda.
+	- Music and sacred dance (Gāndharvaveda), associated with the Samaveda
+	- Medicine (Āyurveda), associated with the Atharvaveda.
+
 # Samhithas
 
 # Aranyakas
