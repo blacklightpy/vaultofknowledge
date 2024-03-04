@@ -24,13 +24,16 @@
 - Nyaya
 - Vaisheshika
 - Mimamsa / Purva Mimamsa
+	- It focuses on the early parts of the Vedas
 - Vedanta / Uttara Mimamsa
-	- Bhedabheda Vedanta (difference and non-difference)
-	- Dvaitādvaita
-	- Advaita Vedanta
-	- Vishishtadvaita Vedanta
-		- Akshar-Purushottam Darshan
-	- Dvaita
-	- Shuddhādvaita
-	- Achintya-Bheda-Abheda
+	- It focuses on the later parts of the Vedas
+	- Types
+		- Bhedabheda Vedanta (difference and non-difference)
+		- Dvaitādvaita Vedanta
+		- Advaita Vedanta
+		- Vishishtadvaita Vedanta
+			- Akshar-Purushottam Darshan
+		- Dvaita Vedanta
+		- Shuddhādvaita Vedanta
+		- Achintya-Bheda-Abheda Vedanta
 # Unorthodox

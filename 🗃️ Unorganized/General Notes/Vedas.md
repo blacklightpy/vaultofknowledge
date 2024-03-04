@@ -21,7 +21,7 @@ Shastras, Sutras, Tantras, Upavedas, Stotras, Stutis
 Vedas have their respective [[Vedic Shakhas]].
 Brahmanas are Vedic Sruti works attached to Samhitas
 
-The Upanishads are late Vedic and post-Vedic Sanskrit texts that "document the transition from the archaic ritualism of the Veda into new religious ideas and institutions" and the emergence of the central religious concepts of Hinduism. They are the most recent addition to the Vedas, the oldest scriptures of Hinduism, and deal with meditation, philosophy, consciousness, and ontological knowledge. Earlier parts of the Vedas dealt with mantras, benedictions, rituals, ceremonies, and sacrifices.
+
 
 - Vedangas (Disciplines)
 	- 6 Vedangas
@@ -55,3 +55,18 @@ The Upanishads are late Vedic and post-Vedic Sanskrit texts that "document the t
 
 The Atharvaveda has no surviving Aranyaka, though the Gopatha Brahmana is regarded as its Aranyaka, a remnant of a larger, lost Atharva (Paippalada) Brahmana. 
 # Upanishads
+The Upanishads are late Vedic and post-Vedic Sanskrit texts that "document the transition from the archaic ritualism of the Veda into new religious ideas and institutions" and the emergence of the central religious concepts of Hinduism.
+
+They are the most recent addition to the Vedas, the oldest scriptures of Hinduism, and deal with meditation, philosophy, consciousness, and ontological knowledge.
+
+Earlier parts of the Vedas dealt with mantras, benedictions, rituals, ceremonies, and sacrifices.
+
+There are 108 Upanishads, and each Upanishad is associated with a separate [[Vedic Shakhas|Vedic Shakha]].
+
+## Mahavakyas
+They mean "Great Sayings", and these four are handpicked from Upanishads of the four Vedas. There are other Mahavakyas, but these are "the Mahavakyas".
+
+- "Prajñānam brahma" - "Consciousness is Brahman" (Aitareya Upanishad)
+- "Aham brahmāsmi" - "I am Brahman" (Brihadaranyaka Upanishad)
+- "Tat tvam asi" - "That Thou art" (Chandogya Upanishad)
+- "Ayamātmā brahma" - "This Atman is Brahman" (Mandukya Upanishad)
