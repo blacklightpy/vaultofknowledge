@@ -1,22 +1,28 @@
-
-
-- Signals
-- Modulation Schemes
-- Channel Access Schemes
+- Electromagnetic Waves
+- Communication Technologies
+	- Wired and Wireless
+	- Signal Modulation Schemes
+	- Channel Access Schemes
 - Radio Access Technologies
-- Radio Standard
+- Cellular Networks
+- Radio Standards
+	- Standards Organizations
 	- Radio Access Technologies
+		- Channel Access Schemes
 	- Radio Access Networks​
 		- User Equipment
 		- Base Transceiver Station
 		- Base Station Controller
-
+- Generations of Cellular Networks
+- Additional Technologies
+	- MIMO
+	- Space Division Multiple Access
+	- Beamforming
 # Notes
-@gcolombelli You're right if you consider 3G as UMTS-FDD/W-CDMA and 4G as LTE. But it goes deeper than just 3G or 4G. I'll explain. Also CDMA and OFDMA are not modulation schemes, but multiple access schemes (or channel access methods). 3G includes standards that meet the IMT-2000 standards set by ITU-R.
 
-A radio standard like GSM, EDGE, UMTS, etc. defines a radio access technology (RAT). For GSM, it is GRA, for EDGE, ERA (combined for 2G as GERA), for UMTS, UTRA, for LTE, E-UTRA and for 5G NR, NG-RA.
+A radio standard like GSM, EDGE, UMTS, etc. defines a **radio access technology (RAT)**. For GSM, it is GRA, for EDGE, ERA (combined for 2G as GERA), for UMTS, UTRA, for LTE, E-UTRA and for 5G NR, NG-RA.
 
-All these RATs are part of the wider radio access network (RAN) that inculdes them, like GERAN, UTRAN, E-UTRAN, 5G-RAN. 
+All these RATs are part of the wider **radio access network (RAN)** that inculdes them, like GERAN, UTRAN, E-UTRAN, 5G-RAN. 
 
 RAN is basically the network that uses RAT to connect the user equipment (UE) to the core network (CN). The operator side radio network system (RNS) consists of a base transceiver station and a base station controller, or radio network controller (RNC).
 
@@ -76,10 +82,49 @@ And for 5G, the standard is IMT-2020.
 
 Since I explained this much, here are some more and a summary:
 
-🔹0G (Analog): PTT, MTS, IMTS, RCC, AMTS
-🔹1G (Analog - Digital): NMT, AMPS, Digital AMPS IS-54 (1.5G/2G), Digital AMPS IS-136 (1.5G/2G)
-🔹2G: GSM, cdmaOne/IS-95, GPRS (2.5G), EDGE/EGPRS (2.75G), Evolved EDGE/EDGE Evolution (2.875G), CDMA2000 1X/1x/1xRTT/IS-2000 (1x RTT means 1x bandwidth of IS-95; 2.9G/3G), CDMA2000 1X Advanced (2.9G/3G)
-🔹3G: UMTS, CDMA2000 1X EV-DO Release 0, HSPA (3.5G/3G+), HSPA+ (3.75G), LTE (3.9G/3.95G/4G), EV-DO Revision A (3.9G/3.95G/4G), EV-DO Revision B (3.9G/3.95G/4G), EV-DO Revision C (3.9G/3.95G/4G), WiMAX (3.9G/3.95G/4G), DECT (3.9G/4G)
-🔹4G: LTE Advanced (4.5G), LTE Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G), WiMAX Release 2 (WiMAX Release 2.1 and Release 2+ are interoperable with LTE-TDD)
-🔹5G: 5G NR (ng-eNodeB allows LTE devices to connect to a 5G network, using LTE radio), WiMAX Release 3 (also interoperable with LTE-TDD), 5G Advanced (5.5G), NB-IoT (5.5G), LTE-M/LTE-MTC (5.5G), DECT-2020 NR/New Radio+, EUHT
-🔹6G uses mmwave (30-300 GHz), and may also use THz radiations (300-3000 GHz).
+- 0G (Analog)
+	- PTT
+	- MTS
+	- IMTS
+	- RCC
+	- AMTS
+- 1G (Analog - Digital)
+	- NMT
+	- AMPS
+	- Digital AMPS IS-54 (1.5G/2G)
+	- Digital AMPS IS-136 (1.5G/2G)
+- 2G
+	- GSM
+	- cdmaOne/IS-95, GPRS (2.5G)
+	- EDGE/EGPRS (2.75G)
+	- Evolved EDGE/EDGE Evolution (2.875G)
+	- CDMA2000 1X/1x/1xRTT/IS-2000 (2.9G/3G)
+		- 1x RTT means 1x bandwidth of IS-95
+	- CDMA2000 1X Advanced (2.9G/3G)
+- 3G
+	- UMTS
+	- CDMA2000 1X EV-DO Release 0
+	- HSPA (3.5G/3G+)
+	- HSPA+ (3.75G)
+	- LTE (3.9G/3.95G/4G)
+	- EV-DO Revision A (3.9G/3.95G/4G)
+	- EV-DO Revision B (3.9G/3.95G/4G)
+	- EV-DO Revision C (3.9G/3.95G/4G)
+	- WiMAX (3.9G/3.95G/4G)
+	- DECT (3.9G/4G)
+- 4G
+	- LTE Advanced (4.5G)
+	- LTE Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)
+	- WiMAX Release 2
+		- WiMAX Release 2.1 and Release 2+ are interoperable with LTE-TDD
+- 5G
+	- 5G NR
+		- ng-eNodeB allows LTE devices to connect to a 5G network, using LTE radio
+	- WiMAX Release 3
+		- Also interoperable with LTE-TDD
+	- 5G Advanced (5.5G)
+	- NB-IoT (5.5G)
+	- LTE-M/LTE-MTC (5.5G)
+	- DECT-2020 NR/New Radio+
+	- EUHT
+- 6G uses mmwave (30-300 GHz), and may also use THz radiations (300-3000 GHz).
