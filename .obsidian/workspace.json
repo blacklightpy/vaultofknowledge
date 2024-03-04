@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Eastern Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Dharma Shastra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Eastern Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Dharma Shastra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Eastern Religions.md"
+                "file": "🗃️ Unorganized/General Notes/Dharma Shastra.md"
               }
             }
           },
@@ -526,12 +526,12 @@
                 }
               },
               {
-                "id": "06e51a70223eb873",
+                "id": "9a09c9fab9e5fb52",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗺️ World Exploration/Culture/Eastern Religions.md",
+                    "file": "🗃️ Unorganized/General Notes/Dharma Shastra.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -552,12 +552,15 @@
       }
     ]
   },
-  "active": "06e51a70223eb873",
+  "active": "9a09c9fab9e5fb52",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
-    "🗺️ World Exploration/Culture/Eastern Religions.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Sutras.md",
+    "🗃️ Unorganized/General Notes/Dharma Shastra.md",
+    "🗃️ Unorganized/General Notes/Tamil Philosophy.md",
+    "🗺️ World Exploration/Culture/Eastern Religions.md",
+    "_images/Shamanistic Exorcism Ritual.png",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
     "🗃️ Unorganized/General Notes/Vedas.md",
     "🗃️ Unorganized/General Notes/Castes in Kerala.md",
@@ -578,8 +581,6 @@
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Duplexing.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Frequency Division Multiplexing.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Signal Modulation.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",
@@ -598,7 +599,6 @@
     "_images/Frequency Areas of the Cochlea.png",
     "_images/Light penetration in water.png",
     "_images/Knitting vs Crocheting.png",
-    "_images/Force Graph.png",
-    "_images/Pasted image 20240106180105.png"
+    "_images/Force Graph.png"
   ]
 }

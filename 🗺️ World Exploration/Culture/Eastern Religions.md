@@ -16,3 +16,11 @@
 - It regards the Kami as the god
 - It is nature itself, and can be seen as single or as multiple
 - Western classification of it as polytheistic is not supported by Japanese people
+## Shamanism
+I usually like Shamanism, but there are downsides.
+Like this exorcism ritual.
+
+![[Shamanistic Exorcism Ritual.png]]
+
+I guess, this is how human generally are when they start life.
+This could also explain the rise of strict monotheistic religions.

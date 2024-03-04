@@ -1,3 +1,5 @@
+- Tirukkural
+	- All major Indian religions and sects, including Shaivism, Vaishnavism, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaram**, **Manimekalai**, **Tirumurai**, **Periya Puranam**, and **Kamba Ramayanam**.
 # Topics in Sangam literature
 - Sangam literature (சங்க இலக்கியம் / Caṅka Ilakkiyam)
 	- Historically known as "poetry of the noble ones" (சான்றோர் செய்யுள் / Cāṉṟōr Ceyyuḷ)
