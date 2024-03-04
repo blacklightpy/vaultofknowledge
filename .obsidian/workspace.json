@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Vedas.md",
+                "file": "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Vedas.md",
+                "file": "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Vedas.md"
+                "file": "🗃️ Unorganized/General Notes/Vedic Shakhas.md"
               }
             }
           },
@@ -498,9 +498,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "bd562b5e790ed163",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           }
         ],
         "direction": "vertical",
@@ -513,10 +526,11 @@
       }
     ]
   },
-  "active": "e04a8dfae8f8b8ee",
+  "active": "bd562b5e790ed163",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/General Notes/Vedas.md",
+    "🗃️ Unorganized/General Notes/Vedic Shakhas.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/General Notes/Castes in Kerala.md",
     "🗃️ Unorganized/General Notes/Mahabharata.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against Islam.md",
@@ -540,7 +554,6 @@
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
     "🗃️ Unorganized/General Notes/Video.md",
     "🗃️ Unorganized/General Notes/Magnetic Monopoles.md",
-    "🔮 World Building/Science and Engineering/Physics/Nuclear Physics/Nuclear Shell Model.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",
