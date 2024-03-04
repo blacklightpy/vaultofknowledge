@@ -4,18 +4,25 @@
 	- Signal Modulation Schemes
 	- Channel Access Schemes
 - Radio Access Technologies
+	- Air Interfaces / Channel Interfaces / Radio Links
+		- Channel Access Schemes
 - Cellular Networks
 - Radio Standards
 	- Standards Organizations
 	- Radio Access Technologies
-		- Channel Access Schemes
+		- Air Interfaces
+			- Channel Access Schemes
 	- Radio Access Networks​
 		- User Equipment
-		- Base Transceiver Station
-		- Base Station Controller
+		- Radio Network System
+			- Base Transceiver Station / Node B
+			- Base Station Controller / Radio Network Controller
+		- Core Network
+			- Public Switched Telephone Network
+				- Telephone Exchanges
 - Generations of Cellular Networks
 - Additional Technologies
-	- MIMO
+	- Multiple Input-Multiple Output
 	- Space Division Multiple Access
 	- Beamforming
 # Notes
@@ -24,17 +31,17 @@ A radio standard like GSM, EDGE, UMTS, etc. defines a **radio access technology 
 
 All these RATs are part of the wider **radio access network (RAN)** that inculdes them, like GERAN, UTRAN, E-UTRAN, 5G-RAN. 
 
-RAN is basically the network that uses RAT to connect the user equipment (UE) to the core network (CN). The operator side radio network system (RNS) consists of a base transceiver station and a base station controller, or radio network controller (RNC).
+RAN is basically the network that uses RAT to connect the **user equipment (UE)** to the **core network (CN)**. The operator side **radio network system (RNS)** consists of a **base transceiver station** and a **base station controller**, or **radio network controller (RNC)**.
 
 The base station is called a BTS in GSM or Node B in UMTS (eNodeB in LTE and gNodeB in 5G NR). The newer base stations are more miniaturized, and eNodeB functions as both the Node B and RNC.
 
 A RAT further defines a set of air-interfaces, which define the links between two terminals. They are combinations of the aforementioned channel access methods like CDMA and OFDM/OFDMA.
 
-Examples of air interfaces are TDMA, FDMA, W-CDMA, TD-CDMA, TD-SCDMA and OFDMA (also the name for the air interface).
+Examples of **air interfaces** are TDMA, FDMA, W-CDMA, TD-CDMA, TD-SCDMA and OFDMA (also the name for the air interface).
 
 The IMT-2000 standards (for 3G) define W-CDMA, CDMA2000, TD-SCDMA, EDGE and DECT. Of these, W-CDMA and TD-SCDMA are as you can see air interfaces.
 
-The standards committees definiting 3G standards were the 3GPP Alliance and 3GPP2 (a competitor). This is compared to GSMA for GSM and EDGE, but they are now a division of 3GPP, which handles all cellular networks. Also IEEE handles Wi-Fi and Wi-Max.
+The **standards committees** definiting 3G standards were the 3GPP Alliance and 3GPP2 (a competitor). This is compared to GSMA for GSM and EDGE, but they are now a division of 3GPP, which handles all cellular networks. Also IEEE handles Wi-Fi and Wi-Max.
 
 3GPP defined initially UMTS, then HSPA and HSPA+ for 3G, and later LTE. 3GPP2 was developing the competitor of UMTS, CDMA2000, which was meant to succeed cdmaOne (2G). They also developed UMB for 4G, but the industry preferred LTE and they lost out.
 
@@ -70,9 +77,9 @@ DECT was yet another less popular standard that's considered 3.9G/4G.
 
 Then they started working on LTE. LTE is basically the evolution of UMTS, and the RAN was E-UTRAN. E-UTRA specified as air interfaces OFDMA with MIMO antenna technology for downlink and OFDMA along with a precoded version of OFDM called SC-FDMA for uplink. In later releases, SDMA/MIMO, SU-MIMO and MU-MIMO were also supported for uplink.
 
-SDMA is another channel access method.
+**SDMA** is another channel access method.
 
-MIMO (Multiple Input/Multiple Output) basically means the use of multiple antennas for exploiting multipath propagation of radio waves. MU-MIMI (Multi User MIMO) of forms 2x2, 3x3, 4x4 and 8x8 are being used in new Wi-Fi routers and will be popular in Wi-Fi 6 and Wi-Fi 6E.
+**MIMO (Multiple Input/Multiple Output)** basically means the use of multiple antennas for exploiting multipath propagation of radio waves. MU-MIMI (Multi User MIMO) of forms 2x2, 3x3, 4x4 and 8x8 are being used in new Wi-Fi routers and will be popular in Wi-Fi 6 and Wi-Fi 6E.
 
 Introduced with EV-DO, SDMA, MIMO and Beamforming were new technologies that could be used to improve performance.
 
