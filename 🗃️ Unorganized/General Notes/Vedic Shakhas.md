@@ -2,25 +2,42 @@ A Vedic **shakha** (Sanskrit śākhā, "branch" or "limb") is a Hindu theologica
 
 A related term **caraṇa**, ("conduct of life" or "behavior") is also used to refer to such a Vedic school: "although the words caraṇa and śākhā are sometimes used synonymously, yet caraṇa properly applies to the sect or collection of persons united in one school, and śākhā to the traditional text followed, as in the phrase **śākhām adhite** ("he recites a particular version of the Veda").
 
-The schools have different points of view, described as **śākhābhedaḥ** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Saṃhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrautasutras**, **Grhyasutras** and **Upanishads**.
+The schools have different points of view, described as **śākhābhedaḥ** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Saṃhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrauta Sutras**, **Grhya Sutras** and **Upanishads**.
 
 In traditional Hindu society affiliation with a specific school is an important aspect of class identity. By the end of the Rig Vedic period the term **Brāhmaṇa (Brahmin)** had come to be applied to all members of the priestly class, but there were subdivisions within this order based both on **varna** (class) and on the **shakha** (branch) with which they were affiliated.
 
 A **Brāhmaṇa (Brahmin)** who changed school would be called **śākhāraṇḍaḥ** ("a traitor to his śākhā").
-# List of Shakhas
+# List of Shakhas by Vedas
+I'm skipping Shrauta Sutras and Grhya Sutras for now.
 ## Rig Veda
 
 ### Saakala
-- Samhita:
-- Brahmana: Aitreya Samhita
-- Aranyaka: Aitreya Aranyaka
-- Upanishad: Aitreya Upanishad
+- **Samhita**:
+- **Brahmana**: Aitreya Samhita
+- **Aranyaka**: Aitreya Aranyaka
+- **Upanishad**: Aitreya Upanishad
 ## Yajur Veda
 
 The Yajurvedin shakhas are divided in Shukla (White) and Krishna (Black) schools.
 
 The White recensions have separate Brahmanas, while the Black ones have their(much earlier) Brahmanas interspersed between the Mantras.
 ### Shukla (White)
+#### Madhyandina
+- **Samhita**: Vajasneyi Samhita (Madhyandina) (VSM)
+	- Currently recited by all over North Indian Brahmins and by Deshastha Brahmins
+- **Brahmana**: Shatapatha Brahmana (Madhyandina) (SBM)
+- **Aranyaka**: Survives as Shatapatha XIV.1–8, with accents.
+- **Upanishad**: Brihadaranyaka Upanishad = SBM XIV.3–8 with accents, Ishavasya Upanishad = VSM 40
+#### Kanva
+- **Samhita**: Vajasneyi Samhita (Kanva) (VSK)
+- **Brahmana**: Shatapatha Brahmana (Kanva) (SBK)
+- **Aranyaka**: survives as book XVII of SBK
+- **Upanishad**: Brihadaranyaka Upanishad = SBK with accents, Ishavasya Upanishad = VSK 40
+#### Katyayana
+- **Samhita**: 
+- **Brahmana**: 
+- **Aranyaka**: 
+- **Upanishad**: 
 
 | Shakha                | Samhita                                                                                                                        | Brahmana                                                            | Aranyaka                                      | Upanishad                                              |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------ |
@@ -28,15 +45,44 @@ The White recensions have separate Brahmanas, while the Black ones have their(mu
 | **Kanva (VSK)**       | Vajasneyi Samhita (Kanva)<br><br>(Currently recited by Utkala Brahmins, Kannada Brahmins, some Karhade Brahmins and few Iyers) | Kanva Shatapatha Brahmana (SBK)<br><br>(different from Madhyandina) | survives as book XVII of SBK                  | Brihadaranyaka Upanishad<br><br>(different from above) |
 | **Katyayana**         |                                                                                                                                |                                                                     | -                                             | -                                                      |
 ### Krishna (Black)
-
-| Shakha                   | Samhita                                                                                                                                                | Brahmana                                                           | Aranyaka                                                           | Upanishad                                  |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------ |
-| Taittiriya               | Taittirīya Saṃhita<br><br>(Present all over South India and in Konkan)                                                                                 | Taittiriya Brahmana and Vadhula Br. (part of Vadhula Srautrasutra) | Taittiriya Aranyaka                                                | Taittiriya Upanishad                       |
-| **Maitrayani**           | Maitrayani Saṃhita<br><br>(Recited by few Brahmins in Nasik)                                                                                           | -                                                                  | Virtually same as the Upanishad                                    | Maitrayaniya Upanishad                     |
-| **Caraka-Katha / Katha** | Caraka-Katha Saṃhita / Kāṭhaka saṃhitā                                                                                                                 | Śatādhyāya Brāhmaṇa (only exists in fragments)                     | Katha Aranyaka (almost the entire text from a solitary manuscript) | Kathaka Upanishad, Katha-Shiksha Upanishad |
-| **Kapishthala**          | Kapiṣṭhala-Katha Saṃhita (fragmentary manuscript, a variant of Kathaka Samhita, only first sections accented), edited (without accents) by Raghu Vira. |                                                                    | -                                                                  | -                                          |
-
+#### Taittiriya
+- **Samhita**: Taittirīya Saṃhita
+	- Present all over South India and in Konkan
+- **Brahmana**: Taittiriya Brahmana and Vadhula Br. (part of Vadhula Srautrasutra)
+- **Aranyaka**: Taittiriya Aranyaka
+- **Upanishad**: Taittiriya Upanishad
+#### Maitrayani
+- **Samhita**: Maitrayani Saṃhita
+	- Recited by few Brahmins in Nasik
+- **Brahmana**: 
+- **Aranyaka**: Virtually same as the Upanishad
+- **Upanishad**: Maitrayaniya Upanishad
+#### Caraka-Katha / Katha
+- **Samhita**: Caraka-Katha Saṃhita / Kāṭhaka saṃhitā
+- **Brahmana**: Śatādhyāya Brāhmaṇa (only exists in fragments)
+- **Aranyaka**: Katha Aranyaka (almost the entire text from a solitary manuscript)
+- **Upanishad**: Kathaka Upanishad, Katha-Shiksha Upanishad
+#### Kapishthala
+- **Samhita**: Kapiṣṭhala-Katha Saṃhita (fragmentary manuscript, a variant of Kathaka Samhita, only first sections accented), edited (without accents) by Raghu Vira.
+- **Brahmana**: 
+- **Aranyaka**: 
+- **Upanishad**: 
 ## Sama Veda
+### Kauthuma
+- **Samhita**: Edited, Recited by all over North and in South India
+- **Brahmana**: 
+- **Aranyaka**: 
+- **Upanishad**: 
+### Ranayaniya
+- **Samhita**: Manuscripts of Samhita exist. Recited by Gokarna, and Deshastha Brahmins
+- **Brahmana**: 
+- **Aranyaka**: 
+- **Upanishad**: 
+### Jaiminiya/Talavakara
+- **Samhita**: Samhita edited.Recited by Nambudiris and choliyal of Tamil nadu. Two distinct styles of Saman recitation, partially recorded and published.
+- **Brahmana**: 
+- **Aranyaka**: 
+- **Upanishad**: 
 
 | Shakha                   | Samhita                                                                                                                                     | Brahmana                                                                    | Aranyaka                                                                            | Upanishad           |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------- |
@@ -46,6 +92,16 @@ The White recensions have separate Brahmanas, while the Black ones have their(mu
 | **Shatyayana**           |                                                                                                                                             |                                                                             | -                                                                                   | -                   |
 
 ## Atharva Veda
+
+- **Samhita**: 
+- **Brahmana**: 
+- **Aranyaka**: 
+- **Upanishad**: 
+
+- **Samhita**: 
+- **Brahmana**: 
+- **Aranyaka**: 
+- **Upanishad**: 
 
 Only one shakha of an original nine is now extant for the Atharvaveda. The nine sakhas were Paippalada, Tauda, Mauda, Shaunakiya, Jajala, Jalada, Brahmavada, Devadarsa and Chaarana-Vaidya.
 
