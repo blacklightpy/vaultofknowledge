@@ -151,15 +151,6 @@ Of course energy levels, but why?
 Because electrons are basically clouds, made of smaller particles?
 
 (Lmao Duotrons from Star Trek)
-# TOPIC: If undo was system wide
-You want to copy a text off to another note, then clear it from the present note.
-
-Copy text - Paste somewhere else - Save - Undo in first notepad - Deletes the saved file
-# TOPIC: Corruption
-Sense of truth can change.. NO, that's needed in science.
-
-Sense of morality can change.. PROBLEM.
-
 
 
 
