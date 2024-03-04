@@ -25,3 +25,10 @@ Ik Onkar Khalsa Waheguru Panj Pyare Nirgun and Sargun Khanda Literature Music Na
 	- Divisions
 - Concepts
 - Rituals
+
+- Societal Rules
+- Home Philosophy
+
+- Culture
+- Places
+- People

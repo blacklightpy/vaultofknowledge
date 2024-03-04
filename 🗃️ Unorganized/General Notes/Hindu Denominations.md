@@ -102,3 +102,44 @@ These deity-centered denominations feature a synthesis of various philosophies s
 	- Ramsnehi Sampradaya
 	- Varkari Panth (Hindu)
 
+# Notes
+
+Sampradaya in Indian origin religions, namely Hinduism, Buddhism, Jainism, and Sikhism, can be translated as 'tradition', 'spiritual lineage', 'sect', or 'religious system'.
+
+To ensure continuity and transmission of dharma, various sampradayas have the Guru-shishya parampara in which parampara or lineage of successive gurus (masters) and shishyas (disciples) serves as a spiritual channel and provides a reliable network of relationships that lends stability to a religious identity. 
+
+Shramana is vedic term for seeker or shishya. Identification with and followership of sampradayas is not static, as sampradayas allows flexibility where one can leave one sampradaya and enter another or practice religious syncretism by simultaneously following more than one sampradaya.
+
+Samparda is a punjabi language term, used in Sikhism, for sampradayas.
+
+## Guru-shishya parampara
+Sampradayas are living traditions of both teaching and practice within a specific religious-spiritual tradition. They are generally composed of a monastic order within a specific guru lineage, with ideas developed and transmitted, redefined and reviewed by each successive generation of followers. A particular guru lineage is called parampara. By receiving diksha (initiation) into the parampara of a living guru, one belongs to its proper sampradaya.
+
+To ensure continuity through dharma transmission, various smapardayas ensure continuity through Guru-shishya parampara where Guru teaches shishyas in gurukula, matha, akhara, and viharas. Buddhism also has lineage of gurus. Tibetan Buddhism has lineage of Lamas who teach in gompas and stupas.
+
+### Continuity of sampradaya
+See also: Guru gotra and Gurunath
+
+Sampradaya is a body of practice, views and attitudes, which are transmitted, redefined and reviewed by each successive generation of followers. Participation in sampradaya forces continuity with the past, or tradition, but at the same time provides a platform for change from within the community of practitioners of this particular traditional group.
+### Diksha: Initiation into sampradaya
+
+A particular guru lineage in guru-shishya tradition is called parampara, and may have its own akharas and gurukulas. By receiving diksha (initiation) into the parampara of a living guru, one belongs to its proper sampradaya.
+
+One cannot become a member by birth, as is the case with gotra, a seminal, or hereditary, dynasty.
+### Authority on knowledge of truth
+
+Membership in a sampradaya not only lends a level of authority to one's claims on truth in Hindu traditional context, but also allows one to make those claims in the first place. An often quoted verse from the Padma Purana states:
+
+> Mantras which are not received in sampradaya are considered fruitless.
+
+And another verse states:
+
+> Unless one is initiated by a bona-fide spiritual master in the disciplic succession, the mantra he might have received is without any effect.
+
+As Wright and Wright put it,
+
+> If one cannot prove natal legitimacy, one may be cast out as a bastard. The same social standard applies to religious organizations. If a religious group cannot prove its descent from one of the recognised traditions, it risks being dismissed as illegitimate.
+
+Nevertheless, there are also examples of teachers who were not initiated into a sampradaya, Ramana Maharshi being a well-known example.
+
+A sannyasin belonging to the Sringeri Sharada Peetham once tried to persuade Ramana to be initiated into sannyasa, but Ramana refused.

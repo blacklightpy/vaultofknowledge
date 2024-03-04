@@ -2,6 +2,9 @@ There are 18 Maha Puranas, 18 Upa Puranas, and many other puranas.
 It is debated which are Maha Puranas and which are Upa Puranas, however, there are some signs for us to work with.
 # Maha Puranas
 ## By Deity
+
+This is wrong, correct it
+
 - Brahma Puranas
 	- Brahma Purana
 	- Brahmānda Purana
@@ -13,7 +16,7 @@ It is debated which are Maha Puranas and which are Upa Puranas, however, there a
 	- Bhavishya Purana
 - Vaishnava Puranas
 	- Vishnu Purana
-	- Bhagavata Purana
+	- Bhagavata Purana / Srimad Bhagavatam
 	- Naradiya Purana
 	- Garuda Purana
 	- Padma Purana
