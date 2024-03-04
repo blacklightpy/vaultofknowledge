@@ -1,3 +1,16 @@
+# Stuff to Learn
+
+- Agamas
+- Shastras
+	- Dharma Shastras (Tier 1)
+	- Puranas (Tier 2)
+	- Bhakti Shastras (Tier 3)
+
+Vedas have their respective Sakhas
+
+Brahmanas are Vedic Sruti works attached to Samhitas
+# Samhithas
+
 # Aranyakas
 - Rigveda
 	- Aitareya Aranyaka belongs to the Aitareya Shakha of Rigveda
@@ -14,11 +27,4 @@
 	- Aranyaka Samhita is not a typical Aranyaka text: rather the Purvarchika of the Samaveda Samhitas has a section of mantras, called the 'Aranyaka Samhita', on which the Aranyagana Samans are sung.
 
 The Atharvaveda has no surviving Aranyaka, though the Gopatha Brahmana is regarded as its Aranyaka, a remnant of a larger, lost Atharva (Paippalada) Brahmana. 
-
-
-
-Brahmanas are Vedic Sruti works attached to Samhitas
-
-Vedas have their respective Sakhas
-
-
+# Upanishads

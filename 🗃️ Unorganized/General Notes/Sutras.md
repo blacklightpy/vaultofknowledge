@@ -1,4 +1,3 @@
-- Shrauta Sutras, Dharma Sutras, Grhya Sutras, Kalpa Sutra
+- Shrauta Sutras, Dharma Sutras, Griha Sutras, Kalpa Sutra
 
-# Dharma Sutras
-
+- [[Dharma Sutras]]
