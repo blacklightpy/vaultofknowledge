@@ -9,19 +9,16 @@ Multiple access schemes are based on [[multiplexing]].
 - Time Division Multiple Access (TDMA)
 	- Multi Frequency Time Division Multiple Access (MF-TDMA)
 	- Self-organized Time Division Multiple Access (STDMA)
-	- Statistical Time Division Multiplexing Multiple Access (STDM-MA)
-		- Carrier Sense Multiple Access (CSMA)
-			- Carrier Sense Multiple Access with Collision Detection (CSMA/CD) 
-			- Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA)
+	- Statistical Time Division Multiplexing Multiple Access (STDM-MA) / Packet Mode
 	- Dynamic Time Division Multiple Access (Dynamic TDMA)
 - Space Division Multiple Access (SDMA)
 ## Packet Mode Methods
 ### General (Statistical Time Division Multiple Access Methods)
+- Carrier Sense Multiple Access (CSMA)
 - Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+- Carrier Sense Multiple Access with Collision Avoidance and Resolution using Priorities (CSMA/CARP)
 - Multiple Access with Collision Avoidance (MACA)
 - Multiple Access with Collision Avoidance for Wireless (MACAW)
-- Carrier Sense Multiple Access (CSMA)
-- Carrier Sense Multiple Access with Collision Avoidance and Resolution using Priorities (CSMA/CARP)
 - Bitwise Arbitration based on constructive interference as used on CAN bus
 - Token bus
 - Token Ring
@@ -46,6 +43,14 @@ Multiple access schemes are based on [[multiplexing]].
 DS-CDMA (Direct Sequence Code Division Multiple Access) is a multiple access scheme based on [[Direct Sequence Spread Spectrum|DSSS]], by spreading the signals from/to different users with different codes. 
 
 It is the most widely used type of CDMA.
+### Frequency Hopping Code Division Multiple Access
+FH-CDMA (Frequency Hopping Code Division Multiple Access) is a multiple access scheme based on [[Frequency-Hopping Spread Spectrum|FHSS]].
+
+As an example, the Bluetooth communication system is based on a combination of frequency-hopping and either CSMA/CA statistical time-division multiplexing communication (for data communication applications) or TDMA (for audio transmission).
+
+All nodes belonging to the same user (to the same piconet) use the same frequency hopping sequence synchronously, meaning that they send on the same frequency channel, but CDMA/CA or TDMA is used to avoid collisions within the VPAN (Virtual Personal Area Network).
+
+Frequency-hopping is used by Bluetooth to reduce the cross-talk and collision probability between nodes in different VPANs.
 ## Frequency Division Multiple Access
 It is based on [[Frequency Division Multiplexing]] (FDM).
 ### Orthogonal Frequency Division Multiple Access
@@ -61,16 +66,17 @@ It is based on [[Time Division Multiplexing]] (TDM).
 It combines TDMA and FDMA, like in GSM.
 
 In GSM, the frequency channel is divided into eight time slots, of which seven are used for seven phone calls, and one for signaling data.
+### Self-organized Time Division Multiple Access
+### Statistical Time Division Multiplexing Multiple Access
+Statistical multiplexing is facilitated through packet mode communications.
 
+Hence this covered under Packet Mode methods. 
+
+Packet mode communications are also facilitated by CDMA and Random Frequency Hopping OFDMA (RFH-OFDMA).
 
 ---
 
 
-- Frequency Hopping Code Division Multiple Access (FH-CDMA)
-	- It is based on [[Frequency-Hopping Spread Spectrum]].
-	- As an example, the Bluetooth communication system is based on a combination of frequency-hopping and either CSMA/CA statistical time-division multiplexing communication (for data communication applications) or TDMA (for audio transmission)
-	- All nodes belonging to the same user (to the same piconet) use the same frequency hopping sequence synchronously, meaning that they send on the same frequency channel, but CDMA/CA or TDMA is used to avoid collisions within the VPAN.
-	- Frequency-hopping is used by Bluetooth to reduce the cross-talk and collision probability between nodes in different VPANs.
 - Multi Carrier Code Division Multiple Access (MC-CDMA).
 - Space Division Multiple Access (SDMA)
 	- Use directional antennas and power modulation to refine spatial transmission patterns.
@@ -102,7 +108,6 @@ Common multiple access protocols that may be used in packet radio wireless netwo
 - Code Division Multiple Access (CDMA)
 - Orthogonal Frequency Division Multiple Access (OFDMA)
 - Orthogonal Frequency Division Multiplexing (OFDM)
-
 ## Duplexing methods
 
 Where these methods are used for dividing forward and reverse communication channels, they are known as [[duplexing]] methods.
