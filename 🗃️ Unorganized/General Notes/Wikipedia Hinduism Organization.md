@@ -33,14 +33,10 @@ The early Upanishads were composed over 900-300 BCE).
 		- 64 Shakta Agamas (also called Tantras)
 		- 108 Vaishnava Agamas (also called Pancharatra Samhitas)
 		- and numerous Upa-Agamas.
-
 # Dvaita Vedanta vs Advaita Vedanta
 - Dvaita Vedanta is dualistic
 - Advaita Vedanta is monistic
-
-
 # Advaita Vedanta
-
 It is based on the teachings of Adi Shankara, who is the first Shankaracharya.
 
 His followers are Shankaracharyas. (Acharya means teacher, so Shankaracharya means teacher in the ways of Shankara)

@@ -48,19 +48,26 @@ Schools of thought are also called Darshanas.
 # Based on Deities
 Hinduism is subdivided into a number of major sampradayas. Of the historical division into six darsanas (philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
 
-Classified by primary deity or deities, four major Hinduism modern currents are Vaishnavism (Vishnu), Shaivism (Shiva), Shaktism (Shakti) and Smartism (five deities treated as same).
+Classified by primary deity or deities, four major Hinduism modern currents are **Vaishnavism** (Vishnu), **Shaivism** (Shiva), **Shaktism** (Shakti) and **Smartism** (five deities treated as same).
 
 These deity-centered denominations feature a synthesis of various philosophies such as Samkhya, Yoga and Vedanta, as well as shared spiritual concepts such as **moksha**, **dharma**, **karma**, **samsara**, ethical precepts such as **ahimsa**, texts (**Upanishads**, **Puranas**, **Mahabharata**, **Agamas**), **ritual grammar and rites of passage**.
-
-
 # Modern
+- Ganapatism
 - Reformist
 	- Adi Dharm / Brahmoism
 		- Brahmo Samaj
 		- Sadharan Brahmo Samaj
 	- Ananda Marga
 	- Arya Samaj
+		- Reform by Dayananda Saraswati
+		- Focus on Vedas
+		- Against untouchability
+		- Equal rights for women
 	- Ayyavazhi
+		- Teachings of Ayya Vaikundar, in Kerala
+		- Says in Kali Yuga, all scriptures were corrupted
+		- No Idol Worship
+		- No Priests
 	- Brahma Kumaris
 	- Chinmaya Mission
 	- Divine Life Society

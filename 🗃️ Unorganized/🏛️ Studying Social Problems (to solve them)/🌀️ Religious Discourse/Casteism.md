@@ -12,14 +12,10 @@ The types of castes included:
 But as time went on, people decided that castes were fixed by birth, and there was no escape from it. And also, some of the castes, such as fishermen, farmers who work in muddy fields, and toilet cleaning and burial groups were seen as people of lesser worth than the priestly castes.
 
 This is terrible because without the hard labour that these people performed for us, the society would not have sustained at all. It is not unlike thinking of your mother as having lower worth because she is the one who cleans the filthy plates for you.
-
 # Vedas
-
-- Smartas follow Smritis
-
-Through DWIJA, Brahmin can become Shudra and vice versa.
-
-# Verses
+- Smartas follow Smritis, not Srutis
+- Through DWIJA, Brahmin can become Shudra and vice versa.
+## Verses
 
 **Bhagavad Gita: 5.18**
 
@@ -27,10 +23,6 @@ Through DWIJA, Brahmin can become Shudra and vice versa.
 > śhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ
 
 >The sages look with equal eye on a Brahmana endowed with knowledge and humility, on a cow, on an elephant, on a dog and on the outcaste who feeds on dog’s flesh.
-
-
-
-
 
 
 

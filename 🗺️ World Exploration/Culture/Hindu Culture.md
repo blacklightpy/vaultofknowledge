@@ -90,19 +90,31 @@ These are in the order of superiority.
 ---
 
 # Modern Reforms
-- Arya Samaj
-	- Reform by Dayananda Saraswati
-	- Focus on Vedas
-	- Against untouchability
-	- Equal rights for women
-- Ayyavazhi
-	- Teachings of Ayya Vaikundar, in Kerala
-	- Says in Kali Yuga, all scriptures were corrupted
-	- No Idol Worship
-	- No Priests
----
 
-	
+Concepts
+Purusarthas
+Niti
+Schools (Astika/Nastika)
+Vedas / Divisions
+Upavedas
+\* Hindu Ohm Symbol
+Vedanga
+Other Books
+Sangam Literature
+Deities (Gods, Godesses)
+Practices
+Varnashramas
+Sanskaras
+Festivals
+Other Concepts (idk what)
+Related
+
+Qualities: Gunas
+Dharmas
+Sanskaras
+Poojas?
+Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
+
 - Concepts
 	- Brahman
 	- Om
@@ -282,7 +294,7 @@ Hindu "Om" symbol
 		- Dhyāna
 		- Tirthatana
 
-- Sanskaras
+- Sanskaras (Culture / Rituals)
 	- Garbhadhana
 	- Pumsavana 
 	- Simantonayana 
