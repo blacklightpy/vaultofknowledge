@@ -1,3 +1,4 @@
+Multiple access schemes are based on [[multiplexing]].
 ## Channel Based Methods
 - Code Division Multiple Access (CDMA)
 	- DS-CDMA
@@ -7,10 +8,12 @@
 - Wavelength Division Multiple Access (WDMA)
 - Time Division Multiple Access (TDMA)
 	- Multi Frequency Time Division Multiple Access (MF-TDMA)
-	- Statistical Time Division Multiplexing Multiple Access
+	- Self-organized Time Division Multiple Access (STDMA)
+	- Statistical Time Division Multiplexing Multiple Access (STDM-MA)
 		- Carrier Sense Multiple Access (CSMA)
 			- Carrier Sense Multiple Access with Collision Detection (CSMA/CD) 
-			- Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) 
+			- Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA)
+	- Dynamic Time Division Multiple Access (Dynamic TDMA)
 - Space Division Multiple Access (SDMA)
 ## Packet Mode Methods
 ### General (Statistical Time Division Multiple Access Methods)
