@@ -25,6 +25,9 @@ Schools of thought are also called Darshanas.
 		- It is mainly based on the Yoga Sutras of Patanjali
 		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
 - Nyaya
+	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyakṣa (perception), Anumāṇa (inference), Upamāṇa (comparison and analogy) and Śabda (word, testimony of past or present reliable experts).
+	- It states that suffering is caused by bad understandings and ignorance
+	- Liberation can be achieved with right understanding
 - Vaisheshika
 	- Naturalism
 	- It postulated that everything is made of atoms
