@@ -57,12 +57,10 @@ Saguna - All good attributes
 ![[Pasted image 20240302111638.png]]
 
 ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
-
 ## Books
 - Lalita Sahasranamam (from Brahmanda Purana)
 - Saundarya Lahari (Tantra text)
 - Devi Mahatmyam (from Markandeya Purana)
-
 ---
 ## Caste Divisions / Chatur Varnas
 - Brahmins
@@ -72,9 +70,7 @@ Saguna - All good attributes
 - Untouchables (Casteless)
 
 The religious theory states that according to the Rig Veda (ancient Hindu book) the Adipurush (primal man) destroyed himself to create a society where the different parts of his body represented the four Varnas. Brahmins came from his head, Kshatriyas came from his hands, Vaishyas came from his thighs, and Sudras came from his feet.
-
 ## Eight Types of Marriages
-
 These are in the order of superiority.
 
 - **Brahma Vivaha**: According to dharma sindhu, yogya vadhu varu vivaha is termed as Brahama Vivaha. The bride and groom belong to the same varna. Groom follows the brahmacharya, grihastha, vanaprastha and Sanyasa ashrams according to the laws of dharma. The groom's father approaches the girls family and requests the bride's father for his consent to give her as a gift (kanyadaan). This is considered as the best type of marriage.
@@ -85,10 +81,7 @@ These are in the order of superiority.
 - **Asura Vivaha**: In this type of marriage, lack of consent from either sides, is replaced by compensation with money or in the form of dowry or gift. This type of marriage is like a business transaction. Mostly, the groom is not suitable for the girl and might offer a huge sum of money as a compensation.
 - **Rakshasa Vivaha**: Groom has the bride's consent but not the consent of the girl's family. To marry a woman by abduction or by eloping, against the wishes of the parent is Rakshasa vivaha. The groom may also win over the bride's family in a battleground.
 - **Paisachika Vivah**: This is considered as the most inferior type of marriage as the bride is taken away by force as a wife. In this type of marriage, neither the girl's consent nor the family's consent is honored.
-
-
 ---
-
 # Modern Reforms
 
 Concepts
@@ -116,32 +109,32 @@ Poojas?
 Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 
 - Concepts
-	- Brahman
-	- Om
-	- Ishvara
-	- Atman
-	- Maya
-	- Karma
-	- Saṃsāra
+	- Brahman (The Universe)
+	- Om (The initial sound)
+	- Ishvara (God)
+	- Atman (The Soul)
+	- Maya (The World)
+	- Karma (Actions)
+	- Saṃsāra (The cycle of life)
 
 - Puruṣārthas
-	- Dharma
-	- Artha
-	- Kama
-	- Moksha
+	- Dharma (Morality)
+	- Artha (Meaning)
+	- Kama (Eroticism)
+	- Moksha (Liberation)
 
 - Niti
-	- Ahimsa
+	- Ahimsa (Non-Violence)
 	- Asteya
 	- Aparigraha
-	- Brahmacharya
-	- Satya
-	- Dāna
+	- Brahmacharya (Celibacy)
+	- Satya (Honesty)
+	- Dāna (Benovelence)
 	- Damah
-	- Dayā
-	- Akrodha
+	- Dayā (Kindness)
+	- Akrodha (Anger-Free)
 
-- Schools
+- Schools / Darshans
 	- Āstika (Follows Vedas)
 		- Samkhya 
 		- Yoga
@@ -159,125 +152,123 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 		- Ājīvika
 		- Ajñana
 
-	
-Hindu "Om" symbol
 - Texts	
 	- Classification
 		- Śruti
 		- Smriti
 
-- Vedas
-	- Rigveda
-	- Yajurveda
-	- Samaveda
-	- Atharvaveda
-
-- Divisions
-	- Samhita
-	- Brahmana
-	- Aranyaka
-	- Upanishads
-		- Aitareya
-		- Kaushitaki
-		- Brihadaranyaka
-		- Isha
-		- Taittiriya
-		- Katha
-		- Maitrayaniya
-		- Shvetashvatara
-		- Chandogya
-		- Kena
-		- Mundaka
-		- Mandukya
-		- Prashna
-
-- Upavedas
-	- Ayurveda
-	- Dhanurveda
-	- Natyaveda
-	- Sthapatyaveda
-
-- Vedanga	
-	- Shiksha
-	- Chandas
-	- Vyākaraṇa
-	- Nirukta
-	- Kalpa
-	- Jyotisha
-
-- Other
-	- Bhagavad Gita
-	- Agamas
-	- Itihasas
-		- Ramayana
-		- Mahabharata
-	- Puranas 
-	- Minor Upanishads 
-	- Arthashastra
-	- Nitisara
-	- Dharmaśāstra
-		- Manusmriti
-		- Nāradasmṛti
-		- Yājñavalkya Smṛti
-	- Sutras
-	- Stotras
-	- Subhashita
-	- Tantras
-	- Yoga Vasistha
-	- Yoga Sutras of Patanjali
-
-- Sangam Literature	
-	- Tirumurai
-	- Divya Prabandham
-	- Tirumurukāṟṟuppaṭai
-	- Thiruppugal
-	- Thirukkural
-	- Kamba Ramayanam
-	- Five Great Epics
-	- Eighteen Greater Texts
-	- Eighteen Lesser Texts
-	- Athichudi
-	- Iraiyanar Akapporul
-	- Abhirami Antati
-	- Thiruvilaiyadal Puranam
-	- Vinayagar Agaval
-	- Vedarthasamgraha
+	- Vedas
+		- Rigveda
+		- Yajurveda
+		- Samaveda
+		- Atharvaveda
+	
+		- Divisions
+			- Samhita
+			- Brahmana
+			- Aranyaka
+			- Upanishads
+				- Aitareya
+				- Kaushitaki
+				- Brihadaranyaka
+				- Isha
+				- Taittiriya
+				- Katha
+				- Maitrayaniya
+				- Shvetashvatara
+				- Chandogya
+				- Kena
+				- Mundaka
+				- Mandukya
+				- Prashna
+	
+	- Upavedas
+		- Ayurveda
+		- Dhanurveda
+		- Natyaveda
+		- Sthapatyaveda
+	
+	- Vedanga	
+		- Shiksha
+		- Chandas
+		- Vyākaraṇa
+		- Nirukta
+		- Kalpa
+		- Jyotisha
+	
+	- Other
+		- Bhagavad Gita
+		- Agamas
+		- Itihasas
+			- Ramayana
+			- Mahabharata
+		- Puranas 
+		- Minor Upanishads 
+		- Arthashastra
+		- Nitisara
+		- Dharmaśāstra
+			- Manusmriti
+			- Nāradasmṛti
+			- Yājñavalkya Smṛti
+		- Sutras
+		- Stotras
+		- Subhashita
+		- Tantras
+		- Yoga Vasistha
+		- Yoga Sutras of Patanjali
+	
+	- Sangam Literature	
+		- Tirumurai
+		- Divya Prabandham
+		- Tirumurukāṟṟuppaṭai
+		- Thiruppugal
+		- Thirukkural
+		- Kamba Ramayanam
+		- Five Great Epics
+		- Eighteen Greater Texts
+		- Eighteen Lesser Texts
+		- Athichudi
+		- Iraiyanar Akapporul
+		- Abhirami Antati
+		- Thiruvilaiyadal Puranam
+		- Vinayagar Agaval
+		- Vedarthasamgraha
 
 - Deities	
-- Gods
-	- Trimurti
-		- Brahma
-		- Vishnu
-		- Shiva 
-	- Agni 
-	- Dattatreya 
-	- Ganesha 
-	- Hanuman 
-	- Indra 
-	- Kartikeya 
-	- Krishna 
-	- Rama 
-	- Surya 
-	- Varuna 
-	- Vayu 
-	- etc.
-- Goddesses
-	- Tridevi
-		- Saraswati 
-		- Lakshmi
-		- Parvati
-	- Bhumi
-	- Durga
-	- Kali
-	- Mahavidya
-	- Matrika 
-	- Radha 
-	- Rukmini 
-	- Sati 
-	- Shakti 
-	- Shashthi 
-	- Sita 
-	- etc.
+	- Gods
+		- Trimurti
+			- Brahma
+			- Vishnu
+			- Shiva 
+		- Agni 
+		- Dattatreya 
+		- Ganesha 
+		- Hanuman 
+		- Indra 
+		- Kartikeya 
+		- Krishna 
+		- Rama 
+		- Surya 
+		- Varuna 
+		- Vayu 
+		- etc.
+	- Goddesses
+		- Tridevi
+			- Saraswati 
+			- Lakshmi
+			- Parvati
+		- Bhumi
+		- Durga
+		- Kali
+		- Mahavidya
+		- Matrika 
+		- Radha 
+		- Rukmini 
+		- Sati 
+		- Shakti 
+		- Shashthi 
+		- Sita 
+		- etc.
 
 - Practices
 	- Worship
@@ -294,75 +285,75 @@ Hindu "Om" symbol
 		- Dhyāna
 		- Tirthatana
 
-- Sanskaras (Culture / Rituals)
-	- Garbhadhana
-	- Pumsavana 
-	- Simantonayana 
-	- Jatakarma 
-	- Namakarana 
-	- Nishkramana 
-	- Annaprashana 
-	- Chudakarana 
-	- Karnavedha 
-	- Vidyarambha 
-	- Upanayana 
-	- Keshanta 
-	- Ritushuddhi 
-	- Samavartanam 
-	- Vivaha
-	- Antyeshti
+	- Sanskaras (Culture / Rituals)
+		- Garbhadhana
+		- Pumsavana 
+		- Simantonayana 
+		- Jatakarma 
+		- Namakarana 
+		- Nishkramana 
+		- Annaprashana 
+		- Chudakarana 
+		- Karnavedha 
+		- Vidyarambha 
+		- Upanayana 
+		- Keshanta 
+		- Ritushuddhi 
+		- Samavartanam 
+		- Vivaha
+		- Antyeshti
+	
+	- Varnashrama
+		- Varna
+			- Brahmin
+			- Kshatriya
+			- Vaishya
+			- Shudra
+		- Ashrama
+			- Brahmacharya
+			- Grihastha
+			- Vanaprastha
+			- Sannyasa
+	
+	- Festivals
+		- Diwali
+		- Holi 
+		- Shivaratri
+		- Raksha Bandhan
+		- Navaratri
+			- Durga Puja 
+			- Ramlila 
+			- Vijayadashami 
+		- Ganesh Chaturthi 
+		- Rama Navami 
+		- Janmashtami 
+		- Onam 
+		- Pongal 
+		- Makar 
+		- Sankranti
+		- New Year
+			- Bihu
+			- Gudi Padwa
+			- Pahela Baishakh
+			- Puthandu
+			- Vaisakhi
+			- Vishu
+			- Ugadi
+		- Kumbh Mela
+			- Haridwar
+			- Nashik
+			- Prayag
+			- Ujjain
+		- Ratha Yatra
+		- Teej
+		- Vasant Panchami
+		- for Others
 
-- Varnashrama
-	- Varna
-		- Brahmin
-		- Kshatriya
-		- Vaishya
-		- Shudra
-	- Ashrama
-		- Brahmacharya
-		- Grihastha
-		- Vanaprastha
-		- Sannyasa
-
-- Festivals
-	- Diwali
-	- Holi 
-	- Shivaratri
-	- Raksha Bandhan
-	- Navaratri
-		- Durga Puja 
-		- Ramlila 
-		- Vijayadashami 
-	- Ganesh Chaturthi 
-	- Rama Navami 
-	- Janmashtami 
-	- Onam 
-	- Pongal 
-	- Makar 
-	- Sankranti
-	- New Year
-		- Bihu
-		- Gudi Padwa
-		- Pahela Baishakh
-		- Puthandu
-		- Vaisakhi
-		- Vishu
-		- Ugadi
-	- Kumbh Mela
-		- Haridwar
-		- Nashik
-		- Prayag
-		- Ujjain
-	- Ratha Yatra
-	- Teej
-	- Vasant Panchami
-	- for Others
-
-- Other
-	- Svādhyāya
-	- Namaste
-	- Bindi
-	- Tilaka
+	- Other
+		- Svādhyāya
+		- Namaste
+		- Bindi
+		- Tilaka
 
 - Related
 	- Hindus
