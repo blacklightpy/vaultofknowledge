@@ -1,11 +1,26 @@
 # Orthodox
 - Samkhya
 	- Dualism
-		- Purusa is part of Prakriti
-		- Purusa is bound to Prakriti by Jiva
-		- Moksha is how the soul is liberated
+		- **Purusa** is part of **Prakriti**
+		- Purusa is bound to Prakriti by **Jiva**
+		- **Moksha** is how the soul is liberated
+	- Unmanifest, Prakriti is inactive.
+		- It is a balance of three **gunas**
+			- **Sattva** – poise, fineness, lightness, illumination, and joy
+			- **Rajas** – dynamism, activity, excitation, and pain
+			- **Tamas** – inertia, coarseness, heaviness, obstruction, and sloth
+	- Arguments against god by Samkhya philosophers
+		- If the existence of karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without karma. If however, he is assumed to be within the law of karma, then karma itself would be the giver of consequences and there would be no need of a God.
+		- Even if karma is denied, God still cannot be the enforcer of consequences. Because the motives of an enforcer God would be either egoistic or altruistic. Now, God's motives cannot be assumed to be altruistic because an altruistic God would not create a world so full of suffering. If his motives are assumed to be egoistic, then God must be thought to have desire, as agency or authority cannot be established in the absence of desire. However, assuming that God has desire would contradict God's eternal freedom which necessitates no compulsion in actions. Moreover, desire, according to Samkhya, is an attribute of prakṛti and cannot be thought to grow in God. The testimony of the Vedas, according to Samkhya, also confirms this notion.
+		- Despite arguments to the contrary, if God is still assumed to contain unfulfilled desires, this would cause him to suffer pain and other similar human experiences. Such a worldly God would be no better than Samkhya's notion of higher self.
+		- Furthermore, there is no proof of the existence of God. He is not the object of perception, there exists no general proposition that can prove him by inference and the testimony of the Vedas speak of prakṛti as the origin of the world, not God.
+	- Therefore, Samkhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
 - Yoga
 	- It is based on the Samkhya school of thought
+	- It derives onotology and epistemology from Samkhya, but adds the concept of Ishvara (god)
+	- Books
+		- It is mainly based on the Yoga Sutras of Patanjali
+		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
 - Nyaya
 - Vaisheshika
 - Mimamsa / Purva Mimamsa
