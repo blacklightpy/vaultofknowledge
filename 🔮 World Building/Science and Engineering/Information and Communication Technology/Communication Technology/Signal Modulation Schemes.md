@@ -1,9 +1,9 @@
 # Analog Signal
-### Analog Data
-- Amplitude Modulation (AM)
-- Frequency Modulation (FM)
-- Phase Modulation (PM)
-### Digital Data
+## Analog Data
+- [[Amplitude Modulation]] (AM)
+- [[Frequency Modulation]] (FM)
+- [[Phase Modulation]] (PM)
+## Digital Data
 - [[Phase Shift Keying]] (PSK)
 	- Binary PSK (BPSK)
 	- Quadrature PSK (QPSK)
@@ -28,7 +28,7 @@
 - [[Trellis Coded Modulation]] (TCM)
 
 - [[Hierarchical Modulation]]
-	- [[Quadrature Amplitude Modulation]] (QAM) (A combination of PSK and ASK)
+	- [[Quadrature Amplitude Modulation]] (QAM) **(A combination of PSK and ASK)**
 		- Polar Modulation
 	- [[Wavelet Modulation]] / Fractal Modulation
 
@@ -38,14 +38,14 @@
 	- [[Frequency-Hopping Spread Spectrum]] (FHSS)
 	- [[Time-Hopping Spread Spectrum]] (THSS)
 # Digital Signal
-### Analog Data
+## Analog Data
 - [[Pulse Amplitude Modulation]] (PAM)
 - [[Pulse Width Modulation]] (PWM)
 - [[Pulse Phase Modulation]] (PPM)
-### Digital Data
+## Digital Data
 - [[Pulse Code Modulation]] (PCM)
 # Images
-### ASK vs FSK vs PSK of a digital stream
+## ASK vs FSK vs PSK of a digital stream
 
 ![[Types of Digital Modulation.png]]
 # Niche Use Cases
@@ -59,7 +59,7 @@ They use analog signals to carry digital data.
 > - Composite BOC (CBOC) is used in Galileo
 > - Time-Multiplexed BOC (TMBOC) is used in GPS L1C
 
-- Binary Offset Carrier (BOC) / Split-Spectrum Modulation ([Wikipedia](https://en.wikipedia.org/wiki/Binary_offset_carrier_modulation))
+- Binary Offset Carrier (BOC) / Split-Spectrum Modulation
 	- Sine BOC (sinBOC)
 	- Cosine BOC (cosBOC)
 	- Alternate BOC (altBOC)
@@ -68,10 +68,14 @@ They use analog signals to carry digital data.
 		- Composite BOC (CBOC)
 		- Time-multiplexed BOC (TMBOC)
 		- Synthesized BOC (SBOC)
+## Notes
 
-# Notes
-- MBOC combines a sinBOC(1,1) signal with a sinBOC(6,1) signal, via either of CBOC or TMBOC Implemenation.
+### Binary Offset Carrier
+See the Wikipedia page: [Binary Offset Carrier | Wikipedia](https://en.wikipedia.org/wiki/Binary_offset_carrier_modulation)
+#### Multiplexed BOC
+Multiplexed BOC combines a sinBOC(1,1) signal with a sinBOC(6,1) signal, via either of CBOC or TMBOC Implemenation.
+##### Synthesized BOC
+Synthesized BOC Modulation Scheme is a non-linear combining method to generate constant envelope composite signal with MBOC (6,1,1/11) PSD.
 
-## 
-- SBOC Modulation Scheme is a non-linear combining method to generate constant envelope composite signal with MBOC (6,1,1/11) PSD.
-- Performance is similar to CBOC and TMBOC ([PowerPoint Presentation (unoosa.org)](https://www.unoosa.org/documents/pdf/icg/2021/ICG15/WGS/icg15_wgs_01.pdf))
+It's performance is similar to CBOC and TMBOC
+(Source: [PowerPoint Presentation | unoosa.org](https://www.unoosa.org/documents/pdf/icg/2021/ICG15/WGS/icg15_wgs_01.pdf))
