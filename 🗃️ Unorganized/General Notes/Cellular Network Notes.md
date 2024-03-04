@@ -67,7 +67,7 @@ UTRA-TDD uses TD-CDMA and TD-SCDMA, both of which are combinations of TDMA and C
 
 So you see, out of 3G, only UMTS-FDD used W-CDMA, although that was the most popular scheme, so UMTS is often synonymous with W-CDMA.
 
-TD-SCDMA was made by China and was incompatible with the other two, making it less popular.
+TD-SCDMA was made by China and was incompatible with the other two, making it less popular. It is called UTRA-TDD Low Chip Rate (LCR), while TD-CDMA was called UTRA-TDD High Chip Rate (HCR).
 
 HSPA and HSPA+ are upgrades to UMTS. HSPA consists of HSUPA and HSDPA (uplink and downlink) standards. They are included under TD-CDMA. HSPA is considered 3.5G or 3G+, and HSPA+ is considered 3.75G.
 
@@ -114,7 +114,7 @@ Since I explained this much, here are some more and a summary:
 	- CDMA2000 1X/1x/1xRTT/IS-2000 (2.9G/3G)
 		- 1x RTT means 1x bandwidth of IS-95
 	- CDMA2000 1X Advanced (2.9G/3G)
-	- More: CSD, HS
+	- More: CSD, HSCSD, CDPD, iDEN, PDC, PHS, CT2, WiDEN
 - 3G
 	- UMTS
 	- CDMA2000 1X EV-DO Release 0
@@ -124,8 +124,9 @@ Since I explained this much, here are some more and a summary:
 	- EV-DO Revision A (3.9G/3.95G/4G)
 	- EV-DO Revision B (3.9G/3.95G/4G)
 	- EV-DO Revision C (3.9G/3.95G/4G)
-	- WiMAX (3.9G/3.95G/4G)
+	- WiMAX (3.9G/3.95G/4G) (Includes Mobile WiMAX and WiBro)
 	- DECT (3.9G/4G)
+	- More: Flash-OFDM, iBurst (IEEE 802.20), HiperMAN
 - 4G
 	- LTE Advanced (4.5G)
 	- LTE Advanced Pro (4.5G Pro/pre-5G/5G E/4.9G)

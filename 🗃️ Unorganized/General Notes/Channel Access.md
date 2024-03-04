@@ -1,6 +1,8 @@
+It is also called Multiple Access.
+
 Multiple access schemes are based on [[multiplexing]].
 ## Channel Based Methods
-- Code Division Multiple Access (CDMA)
+- Code Division Multiple Access (CDMA) / Spread Spectrum Multiple Access (SSMA)
 	- Direct Sequence Code Division Multiple Access (DS-CDMA)
 	- Frequency Hopping Code Division Multiple Access (FH-CDMA)
 	- Multi Carrier Code Division Multiple Access (MC-CDMA)

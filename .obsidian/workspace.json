@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md"
+                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md"
               }
             }
           },
@@ -373,12 +373,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -492,7 +492,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
+                    "file": "🗃️ Unorganized/General Notes/Channel Access.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -513,19 +513,19 @@
       }
     ]
   },
-  "active": "d77ec1803b295b37",
+  "active": "5ceb6b012c15bf6c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Channel Access.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
+    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
     "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
-    "🗃️ Unorganized/General Notes/Channel Access.md",
     "🗃️ Unorganized/General Notes/If Undos Were System Wide.md",
-    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🔮 World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Multiplexing.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Duplexing.md",
