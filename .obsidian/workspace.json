@@ -260,20 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98f30e69d5e1821a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
+                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -281,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -356,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
+                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -373,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
+                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -385,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md"
+                "file": "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md"
               }
             }
           },
@@ -538,12 +525,13 @@
       }
     ]
   },
-  "active": "98f30e69d5e1821a",
+  "active": "87582478e275891f",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Modulation.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Signal Modulation.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Digital Signal Processing/Common Digital Modulation Methods.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Spectral Efficiency.md",
     "🗃️ Unorganized/General Notes/Video.md",
@@ -565,7 +553,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/YUV and YCbCr.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
-    "🗃️ Unorganized/General Notes/Tamil Philosophy.md",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
     "_images/Pasted image 20240302111613.png",
