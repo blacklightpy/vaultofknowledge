@@ -77,6 +77,13 @@ Purusa Sukta:
 
 
 Vedanta Sutras
+Grihya Sutras (Household Rites)
+
+Manu Smriti (Laws of Manu)
+Dharma Sutras (The Sacred Laws of The Aryas)
+	- Included Apastamba Dharma Sutra, Gautama Dharma Sutra, and the other 2 Sutras
+	- Sections: Prasna, Patla, Khanda
+Visnu Smriti / Vaishanava Dharma Shastra / Vishnu Sutras (The Institutes of Vishnu)
 # Later Texts
 The Yoga Sutras of Patanjali
 The Hatha Yoga Pradipika
@@ -89,7 +96,7 @@ Black Marigolds
 Vikram and the Vampire
 Hymns of the Tamil Shaivite Saints
 Songs of Kabîr
-Yoga Vashisht or Heaven Found
+Yoga Vashisht or Heaven Found (Excerpts from Yoga Vashishta)
 # Modern Books
 Relax with Yoga
 Great Systems of Yoga
