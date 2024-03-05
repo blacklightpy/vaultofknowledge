@@ -1,6 +1,6 @@
 - Tirukkural
 	- All major Indian religions and sects, including Shaivism, Vaishnavism, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaram**, **Manimekalai**, **Tirumurai**, **Periya Puranam**, and **Kamba Ramayanam**.
-
+# Tamil Literature
 # Time Periods
 - Sangam age
 - Post-Sangam period
@@ -64,8 +64,15 @@
 # Post-Sangam Period
 
 ## Didactic age
+
 ## Devotional period
+
 ## Narrative epics
+
 # Medieval literature
+The medieval period was the period of the Imperial Cholas when the entire south India was under a single administration. The period between the 11th and the 13th centuries, during which the Chola power was at its peak, there were relatively few foreign incursions and the life for the Tamil people was one of peace and prosperity.
 # Vijayanagar and Nayak period
+The period from 1300 CE to 1650 was a period of constant change in the political situation of Tamil Nadu. The Tamil country was invaded by the armies of the Delhi Sultanate and raided the Pandya kingdom.
 # Modern Period
+During the 18th and the 19th century Tamil Nadu witnessed some of the most profound changes in the political scene.
+
