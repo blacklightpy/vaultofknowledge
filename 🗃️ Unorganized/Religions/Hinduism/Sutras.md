@@ -3,17 +3,122 @@ In Buddhism and Jainism, they are important scriptures.
 
 Kalpa Sutras
 
-- Shrauta Sutras (Sutras based on Sruti, focusing on rituals)
-- Griha Sutras (Household Rites)
-- [[Dharma Sutras]] (Moral Code)
+  Shrauta Sutras (Sutras based on Sruti, focusing on rituals)
+  Griha Sutras (Household Rites)
+  [[Dharma Sutras]] (Moral Code)
 
 # List of Vedic Sutras
+## Rig Veda
+  - Srauta Sutras
+	  - Asvalayana Srauta Sutra
+	  - Sankhayana Srauta Sutra
+  - Sulba Sutras
+  - Griha Sutras
+	  - Asvalayana Griha Sutra
+	  - Kausitaki Griha Sutra (Baskala Shakha)  
+	  - Sankhayana Griha Sutra
+  - Dharma Sutras
+	  - Vasishtha Dharma Sutra
+## Sama Veda
+  - Srauta Sutras
+	  - Latyayana Srauta Sutra  
+	  - Drahyayana Srauta Sutra  
+	  - Jaiminiya Srauta Sutra
+  - Sulba Sutras
+  - Griha Sutras
+  - Dharma Sutras
+## Yajur Veda
+### Krishna Yajur Veda
+  - Srauta Sutras
+  - Sulba Sutras
+  - Griha Sutras
+  - Dharma Sutras
+### Shukla Yajur Veda
+  - Srauta Sutras
+  - Sulba Sutras
+  - Griha Sutras
+  - Dharma Sutras
+## Atharva Veda
+  - Srauta Sutras
+  - Sulba Sutras
+  - Griha Sutras
+  - Dharma Sutras
 
 
-| Veda              | Srautasutra                                                                                                                                                                                                                               | Sulbasutra                                                               | Grihyasutra                                                                                                                                                                                                                                                                                                                                                        | Dharmasutra                                                                                                                                                                           |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ṛgveda            | Āśvalāyana Śrautasūtra<br>Sāṅkhāyana Śrautasūtra                                                                                                                                                                                          |                                                                          | _Âśvalāyana-Gṛhyasūtra_  <br>Kausîtaki-Gṛhyasūtra  <br>(Bāṣkala śakha)  <br>_Śāṅkhāyana-Gr̥hyasūtra_                                                                                                                                                                                                                                                               | _Vasishtha Dharmasūtra_                                                                                                                                                               |
-| Sāmaveda          | _Lātyāyana Śrautasūtra  <br>Drāhyāyana Śrautasūtra  <br>Jaiminiya Śrautasūtra_                                                                                                                                                            |                                                                          | Gobhila-Gṛhyasūtra  <br>Khādira-Gṛhyasūtra  <br>(Drāhyāyana-Gṛhyasūtra)  <br>Jaiminiya-Gṛhyasūtra  <br>Kauthuma-Gṛhyasūtra                                                                                                                                                                                                                                         | _Gautama Dharmasūtra_                                                                                                                                                                 |
-| Kṛsna Yajurveda   | Baudhāyana Śrautasūtra<br><br>Vādhūla Śrautasūtra  <br><br>Mānava Śrautasūtra  <br><br>Bharadvāja Śrautasūtra  <br><br>Āpastamba Śrautasūtra  <br><br>Hiraṅyakeśi Śrautasūtra  <br><br>Vārāha Śrautasūtra  <br><br>Vaikhānasa Śrautasūtra | _Baudhāyana Śulbasûtra  <br>Mānava Śulbasûtra  <br>Āpastamba Śulbasûtra_ | Baudhāyana-Gṛhyasūtra  <br>_Hiraṇyakeśi-Gṛhyasūtra_  <br>(Satyāsādha-Gṛhyasūtra)<br>Mānava-Gṛhyasūtra  <br>Bhāradvāja-Gṛhyasūtra  <br>Āpastamba-Gṛhyasūtra  <br>_Āgniveśya-Gṛhyasūtra_  <br>Vaikhānasa-Gṛhyasūtra  <br>Kāthaka-Gṛhyasūtra  <br>(Laugāksi-Gṛhyasūtra)  <br>Vārāha-Gṛhyasūtra  <br>Vādhûla-Gṛhyasūtra  <br>Kapisthala-Katha Gṛhyasūtra (unpublished) | _Baudhāyana Dharmasūtra  <br>_<br><br>_Āpastamba Dharmasūtra_<br><br>_Hārīta Dharmasūtra_<br><br>_Hiraṇyakeśi Dharmasūtra_<br><br>_Vaikhānasa Dharmasūtra_<br><br>_Viṣṇu Dharmasūtra_ |
-| _Śukla Yajurveda_ | _Kātyāyana Śrautasūtra_                                                                                                                                                                                                                   | _Kātyāyana Śulbasūtra_                                                   | Pāraskara-Gṛhyasūtra  <br>Katyayana-Gṛhyasūtra                                                                                                                                                                                                                                                                                                                     | _Śaṅkha-Likhita Dharmasūtra_                                                                                                                                                          |
-| Atharvaveda       | _Vaitāna Śrautasũtra_                                                                                                                                                                                                                     |                                                                          | _Kauśika Gṛhyasūtra_                                                                                                                                                                                                                                                                                                                                               | _Auśanasa Dharmasūtra_                                                                                                                                                                |
+
+Gobhila Griha Sutra  
+Khadira Griha Sutra (Drahyayana Griha Sutra)  
+Jaiminiya Griha Sutra  
+Kauthuma Griha Sutra
+
+Gautama Dharma Sutra
+
+
+
+Baudhayana Srauta Sutra
+
+Vadhūla Srauta Sutra  
+
+Manava Srauta Sutra  
+
+Bharadvaja Srauta Sutra  
+
+apastamba Srauta Sutra  
+
+Hiranyakesi Srauta Sutra  
+
+Varaha Srauta Sutra  
+
+Vaikhanasa Srauta Sutra
+
+Baudhayana Sulba Sutra  
+Manava Sulba Sutra  
+Apastamba Sulba Sutra
+
+Baudhayana Griha Sutra  
+Hiranyakesi Griha Sutra (Satyasadha Griha Sutra)
+Manava Griha Sutra  
+Bharadvaja Griha Sutra  
+Apastamba Griha Sutra  
+Agnivesya Griha Sutra  
+Vaikhanasa Griha Sutra  
+Kathaka Griha Sutra (Laugaksi Griha Sutra)  
+Varaha Griha Sutra  
+Vadhula Griha Sutra  
+Kapisthala Katha Griha Sutra (unpublished)
+
+
+Baudhayana Dharma Sutra  
+
+
+apastamba Dharma Sutra
+
+Harita Dharma Sutra
+
+Hiranyakesi Dharma Sutra
+
+Vaikhanasa Dharma Sutra
+
+Visnu Dharma Sutra
+
+
+
+
+
+Katyayana Srauta Sutra
+
+Katyayana Sulba Sutra
+
+Paraskara Griha Sutra  
+Katyayana Griha Sutra
+
+Sankha Likhita Dharma Sutra
+
+
+
+Vaitana Srauta Sutra
+
+
+Kausika Griha Sutra
+
+ausanasa Dharma Sutra
