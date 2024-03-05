@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
+                "file": "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
+                "file": "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md"
+                "file": "🗃️ Unorganized/General Notes/Can sound waves excite materials.md"
               }
             }
           },
@@ -589,9 +589,35 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "a915619cd916e645",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/Religions/Hindu Text Excerpts.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "66913c71f994bb1c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 15
           }
         ],
         "direction": "vertical",
@@ -604,11 +630,13 @@
       }
     ]
   },
-  "active": "0d613a810772076d",
+  "active": "66913c71f994bb1c",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
-    "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
+    "🗃️ Unorganized/Religions/Hindu Text Excerpts.md",
     "🗃️ Unorganized/Religions/Vedas.md",
+    "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Tamil Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
@@ -631,8 +659,6 @@
     "🗃️ Unorganized/General Notes/Mixtral Chat.md",
     "🗃️ Unorganized/Religions/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Mahabharata.md",
-    "🗃️ Unorganized/Religions/Dharma Sutras.md",
-    "🗃️ Unorganized/Religions/Dharma Shastra.md",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
