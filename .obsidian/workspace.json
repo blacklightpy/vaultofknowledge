@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
+                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
+                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md"
+                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md"
               }
             }
           },
@@ -589,9 +589,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "abbc2cad347b1287",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Hindu Disagreements.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 14
           }
         ],
         "direction": "vertical",
@@ -604,15 +617,16 @@
       }
     ]
   },
-  "active": "99b65cb3f149cc1c",
+  "active": "5ceb6b012c15bf6c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hindu Disagreements.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/Religions/Hindu Text Excerpts.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/Religions/Castes in Kerala.md",
     "🗃️ Unorganized/Religions/Vedas.md",
     "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
-    "🗃️ Unorganized/Religions/Hindu Text Excerpts.md",
     "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
     "🗃️ Unorganized/General Notes/Sound Waves vs Light Waves.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
@@ -632,7 +646,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against Islam.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
-    "🗃️ Unorganized/General Notes/Mixtral Chat.md",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",
