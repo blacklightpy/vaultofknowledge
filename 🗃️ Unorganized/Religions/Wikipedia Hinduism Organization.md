@@ -135,25 +135,3 @@ Songs of Kabîr
 
 
 
-# Everything is Upside Down
-## Traditions
-We learn truths from our experience and improve upon older ideas.
-We pass it on for the benefit of our collective understanding.
-
-In traditions, we ignore the truths we learn from our experience.
-To preserve older ideas which are considered original beliefs.
-
-i.e. instead of passing on our experience, we pass on old mistakes
-
-We do so because people do not live virtuous lives, and believe their
-suffering was a result of not following traditions which their parents
-taught them.
-
-Perhaps it is the fault of the traditions for not being appealing to
-the younger folk enough to make them virtuous.
-## Capitalism
-Science is meant to improve our collective understanding.
-Technology is meant to ease our lives.
-
-But instead we keep our research findings trade secrets.
-Technology ends up taking life-sustaining jobs.
