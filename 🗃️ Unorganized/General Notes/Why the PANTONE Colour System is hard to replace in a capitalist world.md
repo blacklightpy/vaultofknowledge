@@ -73,6 +73,7 @@ So what you need to realize is that paint and colours are nothing more than ever
 			- Because temperature just means pushing the particles more and making them vibrate more rapidly than how they were at the room temperature
 	- Our eyes have cone cells (colour detectors) and rod cells (intensity detectors) and
 	- We have three kinds of cone cells and
-	- 
 	- Our three kinds of cone cells has sensitivites to a different range of frequencies and amplitudes
-		- Meaning, for different frequency encounter
+		- Meaning, for different frequencies encountered of a given amplitude, the sensitivity or response signal level produced by the cell is different
+	- Which leads to a given stream of radiation produces a different response in accordance to the amplitudes of the component frequencies in each of the three cells
+	- Which leads to the added response being a combination of the three different responses
