@@ -1,1 +1,1 @@
-It is 
+It is either Synchrotron Radiation or Bremsstrahlung (Breaking Radiation)

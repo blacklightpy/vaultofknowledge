@@ -240,22 +240,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a61017ba52067ba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Why do electron shell transitions radiate.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -330,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why do electron shell transitions radiate.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why do electron shell transitions radiate.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why do electron shell transitions radiate.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Sutras.md"
               }
             }
           },
@@ -630,13 +617,14 @@
       }
     ]
   },
-  "active": "a61017ba52067ba3",
+  "active": "2be819963c0eb4f3",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Why do electron shell transitions radiate.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/General Notes/Why do electron shell transitions radiate.md",
+    "🗃️ Unorganized/General Notes/Technology to Know.md",
     "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/Hindu Disagreements.md",
     "🗺️ World Exploration/Culture/Buddhism.md",
@@ -658,7 +646,6 @@
     "🗃️ Unorganized/Religions/Studying a Religion.md",
     "🗃️ Unorganized/Religions/Sikhism.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/Pasted image 20240302111638.png",
