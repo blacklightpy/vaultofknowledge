@@ -48,3 +48,7 @@ The practice of untouchability violates the basic teaching of the Gita that such
 > O Arjuna! In My view that Yogi is the best who, out of a sense of identity with others on account of the perception of the same Atman in all, feels their joy and suffering as his own. (**Gita 6.32**)
 > 
 > Works like sacrifice, charity, and austerity should not be abandoned. They should be performed, for they are purifying for the wise. (**Gita 18.5**)
+
+---
+
+Gita states that caste is created by Krishna on the basis of Gunas.
