@@ -51,7 +51,7 @@ Type: Monotheistic
 ## Connection to Other Religions
 ## Closing Notes (More details if any)
 # Hinduism
-Type: Monotheistic / Atheistic / Henotheistic / Pantheistic / Animistic / Panentheistic Animistic / Monistic Theistic / Substance Monotheism
+Type: Monotheistic / Atheistic / Henotheistic / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita, Vishistadvaita) / Monistic Theistic / Substance Monotheism
 ## Introduction (Place, Time, People, etc.)
 ## General Beliefs (World, Creator, Soul, Life, Peace)
 ## Principles
