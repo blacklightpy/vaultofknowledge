@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
+                "file": "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
+                "file": "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md"
+                "file": "🗃️ Unorganized/General Notes/The Story behind Padayani.md"
               }
             }
           },
@@ -578,19 +578,6 @@
                 }
               },
               {
-                "id": "7761885a59bc28d3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "a915619cd916e645",
                 "type": "leaf",
                 "state": {
@@ -602,22 +589,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "66913c71f994bb1c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 15
+            "currentTab": 12
           }
         ],
         "direction": "vertical",
@@ -630,12 +604,15 @@
       }
     ]
   },
-  "active": "66913c71f994bb1c",
+  "active": "5dd4270a5ea07ad6",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Sound Waves vs Light Waves.md",
-    "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "🗃️ Unorganized/Religions/Hindu Text Excerpts.md",
+    "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
+    "🗃️ Unorganized/General Notes/Sound Waves vs Light Waves.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
     "🗃️ Unorganized/Religions/Vedas.md",
     "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
@@ -646,9 +623,7 @@
     "🗃️ Unorganized/Religions/Puranas.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
     "🗃️ Unorganized/Religions/Sikhism.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "🗃️ Unorganized/Religions/Vedangas.md",
-    "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
     "🗃️ Unorganized/Religions/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hindu Festivals In Kerala.md",
     "🗃️ Unorganized/Religions/Kabbalah.md",
@@ -658,7 +633,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Mixtral Chat.md",
-    "🗃️ Unorganized/Religions/Vedic Shakhas.md",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/Pasted image 20240302111638.png",
     "_images/Pasted image 20240302111628.png",

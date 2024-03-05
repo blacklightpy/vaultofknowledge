@@ -35,13 +35,3 @@ Each Kolam has a purpose and a meaning, its function is not individual but socia
 
 ---
 
-Even though there are caste roles, some castes are lower than the others.
-Also, even among equal castes, people can fight with regards to duty.
-
-Also there religions are based on eventual death and rebirth.
-
-This is the problem I will solve.
-
-> Tapasya: Hmm I'll give you the wishes, my child
-
-Hinduism endorses wishes as return for efforts. Incel culture.
