@@ -71,8 +71,16 @@ Schools of thought are called **Darshanas**.
 
 There are six orthodox schools of thought, which accept the authority of the Vedas, and are called **Astika**. Then there are another six schools of thought, which do not accept the authority of the Vedas, and they are called **Nastika**.
 
-Since there are six orthodox schools of thought, they are called **sadh darshana**
-
+Since there are six orthodox schools of thought, they are called **sadh darshanas**.
+#### Astika (Orthodox / Sadh-Darshanas)
+- Samkhya
+- Yoga
+- Nyaya
+- Vaisheshika
+- Mimamsa / Purva Mimamsa
+- Advaita Vedanta / Uttara Mimamsa
+#### Heterodox
+- Buddhism
 ## Scriptures and Texts
 ## Connection to Other Religions
 ## Closing Notes (More details if any)
