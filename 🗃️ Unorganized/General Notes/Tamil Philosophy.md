@@ -1,11 +1,22 @@
 - Tirukkural
 	- All major Indian religions and sects, including Shaivism, Vaishnavism, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaram**, **Manimekalai**, **Tirumurai**, **Periya Puranam**, and **Kamba Ramayanam**.
-# Topics in Sangam literature
+
+# Time Periods
+- Sangam age
+- Post-Sangam period
+    - Didactic age
+    - Devotional period
+    - Narrative epics
+- Medieval literature
+- Vijayanagar and Nayak period
+- Modern era
+# Sangam literature
 - Sangam literature (சங்க இலக்கியம் / Caṅka Ilakkiyam)
 	- Historically known as "poetry of the noble ones" (சான்றோர் செய்யுள் / Cāṉṟōr Ceyyuḷ)
-- Agattiyam
-- Tolkāppiyam
-# Eighteen Greater Texts
+## Early Books
+- Agattiyam (Earliest non-extant book on Tamil grammar)
+- Tolkāppiyam (Earliest extant book on Tamil grammar)
+## Eighteen Greater Texts
 - Eight Anthologies / Ettuttokai
 	- Aiṅkurunūṟu
 	- Akanāṉūṟu
@@ -26,12 +37,7 @@
 	- Perumpāṇāṟṟuppaṭai
 	- Poruṇarāṟṟuppaṭai
 	- Ciṟupāṇāṟṟuppaṭai
-# Related topics
-- Sangam
-- Sangam landscape
-- Tamil history from Sangam literature
-- Ancient Tamil music
-# Eighteen Lesser Texts
+## Eighteen Lesser Texts
 - Nālaṭiyār
 - Nāṉmaṇikkaṭikai
 - Iṉṉā Nāṟpatu
@@ -50,8 +56,16 @@
 - Mutumoḻikkānci
 - Elāti
 - Kainnilai
-# Bhakti Literature
+## Bhakti Literature
 - Naalayira Divya Prabandham
 - Ramavataram
 - Tevaram
 - Tirumuṟai
+# Post-Sangam Period
+
+## Didactic age
+## Devotional period
+## Narrative epics
+# Medieval literature
+# Vijayanagar and Nayak period
+# Modern Period
