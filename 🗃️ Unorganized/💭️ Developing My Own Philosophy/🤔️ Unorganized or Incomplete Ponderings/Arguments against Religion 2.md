@@ -33,3 +33,53 @@ That is good when
 But it's more like when you say "life is good, can't you see how easy it is"
 
 They say "life is good, can't you see the "gospel"? All you have to do is follow it!"
+
+Wait a minute, I said nothing about following any ideology!
+
+Your adherence to an external source, such as book is what makes life miserable.
+
+Even if the book does give you solace, it is still a crutch.
+
+Let go of the crutch, 
+
+Now they will say that is the way of the devil.
+But no, it's just that you guys follow ideologies.
+Even the corrupt are ones who follow ideologies.
+We were born alike, by the same beautiful world.
+However, through life we lose touch with the oneness.
+And children become adult-like.
+Say it is because of the devil.
+The devil is then nothing but an ideology.
+One that arose out of misunderstandings.
+These misunderstandings are what we call primitive nature.
+To fix these misunderstandings, we created the word.
+
+To find peace
+But the initial ideas would not have been good enough
+for people to follow.
+
+So to get people to follow, they had to define a god
+to make sense of their existence.
+
+For easiness, they chose idol worship.
+But it caused problems like people caring more about
+idols than humans.
+
+So some of them decided to shift to monotheism.
+Everytime someone would harm them, they'd say it is
+the curse of god for idolatry.
+
+This is easily visible from human behaviour, because
+they would believe what affirms their beliefs.
+Even in spite of contradictory evidence.
+
+Now internal confidence may help health with some anti-vaxxers.
+After all, our minds are the drivers of our body and
+the immune system is part of our body.
+There is no scientific evidence, however, science isn't able
+to explain why we can interact with materials even though
+they can define all the forces.
+That itself is it's weakness, since it cannot explain the human mind.
+
+However, there are several other instances when people
+Believe fals
