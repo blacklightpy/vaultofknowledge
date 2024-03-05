@@ -1,4 +1,5 @@
-- Monotheism: Worship of one god alone.
+# Main Types
+- Monotheism: Worship of one god alone. It is different from Pantheism and Pantheistic
 	- e.g. Abrahamic religions
 - Polytheism: Worship of many gods.
 	- e.g. Egyptian Gods, Greek Gods
@@ -10,6 +11,60 @@
 	- e.g. Hinduism, Taoism, Sikhism, Confucianism
 - Pantheistic Animism - The belief that all reality has a single soul and that is god.
 	- e.g. Giordano Bruno's religion.
-- Panentheism
+- Panentheism: God intersects every part of the universe and also extends beyond space and time.
+	- 
 - Monistic Theism: A combination of Pantheism and Panentheism, but does not attribute personality to god. This is the core idea of Hinduism
 - Substance monotheism: The belief that there are many different gods, but that they are all essentially forms of the same essence
+# Subtypes
+For when you want to put it into more detail. Here are some examples.
+
+- Acosmism
+- Agnosticism
+- Animism
+- Antireligion
+- Apatheism
+- Atheism
+- Creationism
+- Dharmism
+- Deism
+- Divine Command Theory
+- Dualism
+- Esotericism
+- Elite religion
+- Exclusivism
+- Existentialism (Atheist / Christian)
+- Feminist
+- Fideism
+- Folk religion
+- Fundamentalism 
+- Gnosticism 
+- Henotheism 
+- Hermeticism 
+- Humanism (Christian / Religious / Secular)
+- Letsism 
+- Ignosticism 
+- Inclusivism 
+- Kathenotheism 
+- Lived Religion 
+- Monism 
+- Monotheism 
+- Mysticism 
+- Naturalism (Humanistic / Metaphysical / Religious)
+- New Age
+- Nondualism 
+- Nontheism 
+- Omnism 
+- Pandeism 
+- Panentheism 
+- Pantheism 
+- Perennialism 
+- Polytheism 
+- Process Theology 
+- Shendao Shejiao 
+- Spiritualism 
+- Shamanism 
+- Taoic 
+- Theism 
+- Transcendentalism 
+- Transtheism 
+- Unitarianism
