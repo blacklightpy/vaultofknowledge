@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
+                "file": "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md"
               }
             }
           },
@@ -590,7 +590,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -603,13 +604,15 @@
       }
     ]
   },
-  "active": "e3232100cc732118",
+  "active": "0d613a810772076d",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/Religions/Vedas.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Tamil Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/Religions/Castes in Kerala.md",
-    "🗃️ Unorganized/Religions/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/Religions/Vedas.md",
     "🗃️ Unorganized/Religions/Sutras.md",
     "🗃️ Unorganized/Religions/Puranas.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
@@ -618,7 +621,6 @@
     "🗃️ Unorganized/Religions/Vedangas.md",
     "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
     "🗃️ Unorganized/Religions/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/Religions/Hindu Festivals In Kerala.md",
     "🗃️ Unorganized/Religions/Kabbalah.md",
     "🗃️ Unorganized/Religions",
@@ -626,7 +628,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against Islam.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Mixtral Chat.md",
     "🗃️ Unorganized/Religions/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Mahabharata.md",

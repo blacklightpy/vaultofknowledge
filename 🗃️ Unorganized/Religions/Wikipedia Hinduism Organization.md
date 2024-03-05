@@ -73,3 +73,46 @@ Purusa Sukta:
 - Divya Prabhandham
 - Tirumurai
 - Shiva Samhita
+
+
+
+Vedanta Sutras
+# Later Texts
+The Yoga Sutras of Patanjali
+The Hatha Yoga Pradipika
+Dakshinamurti Stotra
+The Sánkhya Aphorisms of Kapila
+Shakuntala
+The Little Clay Cart
+Verses of Vemana
+Black Marigolds
+Vikram and the Vampire
+Hymns of the Tamil Shaivite Saints
+Songs of Kabîr
+Yoga Vashisht or Heaven Found
+# Modern Books
+Relax with Yoga
+Great Systems of Yoga
+Old Deccan Days
+Ramakrishna, His Life and Sayings
+The Gospel of Ramakrishna
+Hindu Mythology, Vedic and Puranic
+How To Be A Yogi
+Twenty-two Goblins
+Indian Fairy Tales
+Indian Myth and Legend
+Karma-Yoga
+Hindu Mysticism
+## Writings of Sister Nivedita (Margaret E. Noble)
+Kali the Mother
+The Web of Indian Life
+Studies from an Eastern Home
+## Writings of Rabindranath Tagore
+Gitanjali
+Saddhana, The Realisation of Life
+The Crescent Moon
+Fruit-Gathering
+Stray Birds
+The Home and the World
+Thought Relics
+Songs of Kabîr
