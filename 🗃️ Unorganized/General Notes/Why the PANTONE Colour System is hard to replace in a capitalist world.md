@@ -35,7 +35,8 @@ This has topics I have more to study about, but I have some notes taken on it al
 So what you need to realize is that paint and colours are nothing more than everyday objects just provided to you in a mixed and mashed form.
 
 - After all, they are just colourful because
-	- Charges particles are defined by having a field or aura around them that extends to infinity
+	- The elements of the physical universe have aspects of it exhibit certain phenomena we call charges, which we call charged particles
+	- And charges particles are defined by having a field or aura around them that extends to infinity
 		- And falls down in intensity with distance by inverse square law
 		- Because the world is 3D and uniform outward radiation would be spherical
 		- And the surface are of a sphere is $\displaystyle 4\pi r^2$
@@ -76,4 +77,11 @@ So what you need to realize is that paint and colours are nothing more than ever
 	- Our three kinds of cone cells has sensitivites to a different range of frequencies and amplitudes
 		- Meaning, for different frequencies encountered of a given amplitude, the sensitivity or response signal level produced by the cell is different
 	- Which leads to a given stream of radiation produces a different response in accordance to the amplitudes of the component frequencies in each of the three cells
-	- Which leads to the added response being a combination of the three different responses
+	- Which leads to the total response being a combination of the three different responses
+		- Which we call **tristimulus**
+	- Which the brain recognizes as a specific tristimulus value
+	- And each of those tristimulus values are perceived as separate
+	- And we call these perceptions **colour**.
+		- And we name the three cone cells by the colour that corresponds to the tristimulus of the pure frequency radiation of what's the peak frequency in the cell's response curve
+		- Which are red, green and blue
+		- Although for perceptual modelling, we like to think of colours based on their hue, saturation and lighting model on a **perceptually uniform colour space** such as CIELUV or CIELAB, which are defined by the International Committee on Illumination (CIE).
