@@ -78,25 +78,34 @@ Purusa Sukta:
 
 Vedanta Sutras
 Grihya Sutras (Household Rites)
+# Prior to 200 BC
+- Manu Smriti (Laws of Manu)
+- Dharma Sutras (The Sacred Laws of The Aryas)
+	- IApastamba Dharma Sutra, Gautama Dharma Sutra, and the other 2 Sutras
+	- Sections: Prasna, Patala, Khanda
+- Visnu Smriti / Vaishanava Dharma Shastra / Vishnu Sutras (The Institutes of Vishnu / Laws)
+	- Contains punishments (Insulting caste members, "I shall visit your 'daughter'/'wife'")
+	- Supports Casteism
+	- Death for all criminals
+	- Eunuchs as bodyguards for Warriors' wives
+## Minor Law Books
+- N
 
-Manu Smriti (Laws of Manu)
-Dharma Sutras (The Sacred Laws of The Aryas)
-	- Included Apastamba Dharma Sutra, Gautama Dharma Sutra, and the other 2 Sutras
-	- Sections: Prasna, Patla, Khanda
-Visnu Smriti / Vaishanava Dharma Shastra / Vishnu Sutras (The Institutes of Vishnu)
+# After 6th Century
+
 # Later Texts
-The Yoga Sutras of Patanjali
-The Hatha Yoga Pradipika
-Dakshinamurti Stotra
-The Sánkhya Aphorisms of Kapila
-Shakuntala
-The Little Clay Cart
-Verses of Vemana
-Black Marigolds
-Vikram and the Vampire
-Hymns of the Tamil Shaivite Saints
-Songs of Kabîr
-Yoga Vashisht or Heaven Found (Excerpts from Yoga Vashishta)
+- The Yoga Sutras of Patanjali
+- The Hatha Yoga Pradipika
+- Dakshinamurti Stotra
+- The Sánkhya Aphorisms of Kapila
+- Shakuntala (Poem, by Kalidas)
+- The Little Clay Cart (Drama)
+- Verses of Vemana
+- Black Marigolds
+- Vikram and the Vampire
+- Hymns of the Tamil Shaivite Saints
+- Songs of Kabir (By Tagore)
+- Yoga Vashisht or Heaven Found (Excerpts from Yoga Vashishta)
 # Modern Books
 Relax with Yoga
 Great Systems of Yoga
@@ -123,3 +132,13 @@ Stray Birds
 The Home and the World
 Thought Relics
 Songs of Kabîr
+
+
+
+# Everything is Upside Down
+## Traditions
+We learn truths when we understand and pass on.
+
+Traditions are the opposite.
+## Capitalism
+Technology is meant to 
