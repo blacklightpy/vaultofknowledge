@@ -16,8 +16,8 @@ This has topics I have more to study about, but I have some notes taken on it al
 	- What are colours even (Ink, Dyes, Pigments)?
 		- Paint is comprised of **Pigments, Dyes or Fillers** and **Vehicle**
 			- ## Pigments, Dyes or Fillers
-				- **Pigments** are granular solids incorporated in paints to give colour
-				- **Dyes** are colourants that dissolve in paint
+				- **Pigments** are granular solids incorporated in paints to give colour. They sit on the surface of the canvas and are not as vibrant.
+				- **Dyes** are colourants that dissolve in paint. They penetrate the canvas easily and have a wider colour gamut.
 				- **Fillers** are granular solids incorporated in paints to give texture, toughness and other special properties
 			- ## Vehicle (Binder / Binder + Solvent)
 				- **Binder**
