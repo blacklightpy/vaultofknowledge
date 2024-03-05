@@ -217,103 +217,64 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 		- Yoga Vasistha
 		- Yoga Sutras of Patanjali
 	
-	- Sangam Literature	
-		- Tirumurai
-		- Divya Prabandham
-		- Tirumurukāṟṟuppaṭai
-		- Thiruppugal
-		- Thirukkural
-		- Kamba Ramayanam
-		- Five Great Epics
-		- Eighteen Greater Texts
-		- Eighteen Lesser Texts
-		- Athichudi
-		- Iraiyanar Akapporul
-		- Abhirami Antati
-		- Thiruvilaiyadal Puranam
-		- Vinayagar Agaval
-		- Vedarthasamgraha
+- Sangam Literature	
+	- Tirumurai
+	- Divya Prabandham
+	- Tirumurukāṟṟuppaṭai
+	- Thiruppugal
+	- Thirukkural
+	- Kamba Ramayanam
+	- Five Great Epics
+	- Eighteen Greater Texts
+	- Eighteen Lesser Texts
+	- Athichudi
+	- Iraiyanar Akapporul
+	- Abhirami Antati
+	- Thiruvilaiyadal Puranam
+	- Vinayagar Agaval
+	- Vedarthasamgraha
+### Deities
+#### Gods
+**Trimurtis**: Brahma, Vishnu, Shiva
+**Others**: Agni (Fire), Dattatreya, Ganesha, Hanuman, Indra (Lord of Heavens), Kartikeya, Krishna, Rama, Surya (Sun), Varuna, Vayu (Wind), etc.
+#### Goddesses
+**Tridevis**: Saraswati, Lakshmi, Parvati
+**Others**: Bhumi (Earth), Durga, Kali, Mahavidya, Matrika, Radha, Rukmini, Sati, Shakti, Shashthi, Sita, etc.
+### Worship
+**Places**: Temple
+**Tools**: Murti (Idol / Vessel)
+**Rituals**: Puja, Japa, Bhajan, Naivedhya, Homa, Tapas, Dhyana, Tirthatana
+**Devotion:** Bhakti
+### Sanskaras (Culture / Rituals)
+- Garbhadhana
+- Pumsavana 
+- Simantonayana 
+- Jatakarma 
+- Namakarana 
+- Nishkramana 
+- Annaprashana 
+- Chudakarana 
+- Karnavedha 
+- Vidyarambha 
+- Upanayana 
+- Keshanta 
+- Ritushuddhi 
+- Samavartanam 
+- Vivaha
+- Antyeshti
+### Varnashrama
 
-- Deities	
-	- Gods
-		- Trimurti
-			- Brahma
-			- Vishnu
-			- Shiva 
-		- Agni 
-		- Dattatreya 
-		- Ganesha 
-		- Hanuman 
-		- Indra 
-		- Kartikeya 
-		- Krishna 
-		- Rama 
-		- Surya 
-		- Varuna 
-		- Vayu 
-		- etc.
-	- Goddesses
-		- Tridevi
-			- Saraswati 
-			- Lakshmi
-			- Parvati
-		- Bhumi
-		- Durga
-		- Kali
-		- Mahavidya
-		- Matrika 
-		- Radha 
-		- Rukmini 
-		- Sati 
-		- Shakti 
-		- Shashthi 
-		- Sita 
-		- etc.
-
-- Practices
-	- Worship
-		- Temple
-		- Murti
-		- Puja 
-		- Bhakti 
-		- Japa 
-		- Bhajan 
-		- Naivedhya 
-		- Yajna 
-		- Homa 
-		- Tapas 
-		- Dhyāna
-		- Tirthatana
-
-	- Sanskaras (Culture / Rituals)
-		- Garbhadhana
-		- Pumsavana 
-		- Simantonayana 
-		- Jatakarma 
-		- Namakarana 
-		- Nishkramana 
-		- Annaprashana 
-		- Chudakarana 
-		- Karnavedha 
-		- Vidyarambha 
-		- Upanayana 
-		- Keshanta 
-		- Ritushuddhi 
-		- Samavartanam 
-		- Vivaha
-		- Antyeshti
-	
-	- Varnashrama
-		- Varna
-			- Brahmin
-			- Kshatriya
-			- Vaishya
-			- Shudra
-		- Ashrama
-			- Brahmacharya
-			- Grihastha
-			- Vanaprastha
-			- Sannyasa
+It refers to Varnas and Ashramas
+#### Varnas
+- Brahmin
+- Kshatriya
+- Vaishya
+- Shudra
+#### Ashramas
+- Brahmacharya
+- Grihastha
+- Vanaprastha
+- Sannyasa
 	
 	- Festivals
 		- Diwali

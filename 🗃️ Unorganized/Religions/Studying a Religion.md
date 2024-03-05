@@ -14,6 +14,7 @@ List out these factors:
 	- Domestic Rituals
 - Denominations (May vary in beliefs)
 - Scriptures and Texts
+	- Divisions
 - Connection to Other Religions
 
 Also add:
