@@ -7,12 +7,12 @@
 	- e.g. Hinduism
 - Animism: All entities possess a spiritual essence.
 	- e.g. Hinduism, Buddhism, Jainism, Sikhism
-- Pantheism: Reality itself is what we call god.
+- Pantheism: Reality itself is what we call god. It is distinct from Panentheism in that god is not distinct from the world.
 	- e.g. Hinduism, Taoism, Sikhism, Confucianism
 - Pantheistic Animism - The belief that all reality has a single soul and that is god.
 	- e.g. Giordano Bruno's religion.
-- Panentheism: God intersects every part of the universe and also extends beyond space and time.
-	- 
+- Panentheism: God intersects every part of the universe and also extends beyond space and time. It is different from Pantheism in that god is a distinct quality from the world.
+	- e.g. Hinduism (Advaita Vedanta, Achintya-Bheda-Abheda)
 - Monistic Theism: A combination of Pantheism and Panentheism, but does not attribute personality to god. This is the core idea of Hinduism
 - Substance monotheism: The belief that there are many different gods, but that they are all essentially forms of the same essence
 # Subtypes

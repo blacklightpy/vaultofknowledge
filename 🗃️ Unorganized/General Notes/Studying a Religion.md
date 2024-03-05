@@ -43,6 +43,8 @@ Also add:
 ## General Beliefs (World, Creator, Soul, Life, Peace)
 ## Principles
 ### Concepts (What stuff mean)
+- Tawhid
+- Fitrah
 ### Ways (How stuff is applied)
 ## Practices (Rituals)
 ### Rituals
