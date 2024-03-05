@@ -11,3 +11,25 @@ And secondly, what kind of a father would punish their children for eternity if 
 So that would be as if this god gave humans desires, and imposed rules prohibiting their use of it. This is nothing but sadism, which is more like the expected behaviour of a corrupt person, not of a wise and merciful god.
 
 All this is reason for me to believe that the Abrahamic god is just a projection of peoples' ideas of what will happen to people they do not like, claiming that they will burn in afterlife.
+# The argument that god said so
+Doing things because of a higher power is no different from what Hitler did.
+
+He ascribed his actions to the higher truth that is Jews are an inferior race, and he was only acting on behalf of this ideology.
+
+Religious people are too acting on behalf of ideologies, not on testable truths.
+
+They claim to be acting on behalf of god the creator, but it is subjective that the creator is a god with a personific will, and that god is a he, and their book is his will.
+
+I'm not sure if Jews replace all "he"s with "G-D", which if it's true is much better. Still the other problems apply. I'd have still preferred "god" or "GOD" better, but hey, it's their religion.
+# What disgusts me about other humans
+It is the fact that they don't believe in themselves.
+
+Particularly those who have a religion.
+
+If you do have a dream, then it is 
+
+That is good when 
+
+But it's more like when you say "life is good, can't you see how easy it is"
+
+They say "life is good, can't you see the "gospel"? All you have to do is follow it!"
