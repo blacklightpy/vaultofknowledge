@@ -47,7 +47,11 @@ Schools of thought are also called Darshanas.
 		- Shuddhādvaita Vedanta
 		- Achintya-Bheda-Abheda Vedanta
 # Unorthodox
-
+- Buddhism
+- Jainism
+- Charvaka
+- Ājīvika
+- Ajñana
 # Based on Deities
 Hinduism is subdivided into a number of major sampradayas. Of the historical division into six darsanas (philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
 

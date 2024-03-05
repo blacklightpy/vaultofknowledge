@@ -78,7 +78,7 @@ Since there are six orthodox schools of thought, they are called **sadh darshana
 - Nyaya
 - Vaisheshika
 - Mimamsa / Purva Mimamsa
-- Advaita Vedanta / Uttara Mimamsa
+- Vedanta / Uttara Mimamsa
 #### Heterodox
 - Buddhism
 ## Scriptures and Texts
