@@ -42,7 +42,19 @@ Even if the book does give you solace, it is still a crutch.
 
 Let go of the crutch, 
 
+--
+
 Now they will say that is the way of the devil.
+
+(Hindus don't, but their religion was corruptible)
+(Also Taoists don't, but their religion doesn't tell you what to do)
+(So people need a religion with something like Shariah / Halakha / Dharma Shastra)
+
+Shariah is the main meme of Islam
+Halakha is the main meme of Judaism
+Dharma Shastra is the main meme of India
+But Jesus is not the main meme of Christianity.
+
 But no, it's just that you guys follow ideologies.
 Even the corrupt are ones who follow ideologies.
 We were born alike, by the same beautiful world.
@@ -82,4 +94,6 @@ they can define all the forces.
 That itself is it's weakness, since it cannot explain the human mind.
 
 However, there are several other instances when people
-Believe fals
+Believe mistakes when the truth is uncertain.
+Something like the "Pygmalion effect".
+
