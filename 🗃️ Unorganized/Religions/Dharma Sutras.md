@@ -7,7 +7,7 @@ These stages are also called ashramas. They also discuss the rites and duties of
 However, Dharma Sutras typically did not deal with rituals and ceremonies, a topic that was covered in the **Shrauta Sutras** and **Griha Sutras** texts of the **Kalpa** (Vedanga).
 
 ## Extant Texts
-The Dharma Sutras were numerous, but only four texts have survived into the modern era. The most important of these texts are the [[sutras]] of Apastamba, Gautama, Baudhayana, and Vasistha. These extant texts cite writers and refer opinions of seventeen authorities, implying that a rich Dharma Sutras tradition existed prior to when these texts were composed.
+The Dharma Sutras were numerous, but only four texts have survived into the modern era. The most important of these texts are the [[Sutras]] of Apastamba, Gautama, Baudhayana, and Vasistha. These extant texts cite writers and refer opinions of seventeen authorities, implying that a rich Dharma Sutras tradition existed prior to when these texts were composed.
 
 The extant Dharma Sutras are written in concise sutra format, with a very terse incomplete sentence structure which are difficult to understand and leave much to the reader to interpret. The Dharma Shastra are derivative works on the Dharma Sutras, using a shloka (four 8-syllable verse style chandas poetry, Anushtubh meter), which are relatively clearer.
 
