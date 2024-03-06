@@ -1,3 +1,8 @@
+I see that mathematical operators vary by the field.
+
+And also some operators are not even just symbols, but have a lot of theory backing them.
+
+This is why I suggest the reformation in theory that all subjects should be explainable from 
 ## Fluid Mechanics
 
 - $\nabla$ (Nabla)
