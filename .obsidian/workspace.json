@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -487,45 +487,6 @@
                 }
               },
               {
-                "id": "2be819963c0eb4f3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5fed8623fa3aa8ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f5186da4699e82d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "1034f7884ba046ab",
                 "type": "leaf",
                 "state": {
@@ -630,7 +591,7 @@
                 }
               }
             ],
-            "currentTab": 16
+            "currentTab": 12
           }
         ],
         "direction": "vertical",
@@ -643,9 +604,14 @@
       }
     ]
   },
-  "active": "9dda3f4fcbb71a96",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hinduism Index.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🔮 World Building/Waste Management/Fecal Sludge Management.md",
     "🔮 World Building/Waste Management/Sewage Sludge Management.md",
@@ -667,11 +633,6 @@
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Baryons.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quarks.md",
-    "🗃️ Unorganized/General Notes/Hinduism Index.md",
-    "🗃️ Unorganized/General Notes/All Weird Mathematical Operators.md",
-    "🗃️ Unorganized/General Notes/Maths to Learn.md",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",

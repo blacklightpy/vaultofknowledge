@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a looong summary: [Hinduism > Religious Beliefs | Encyclopaedia Britannica](https://www.britannica.com/topic/Hinduism/General-nature-of-Hinduism)
+
 - Hindu Scriptures
 	- Sruti (That which is heard)
 		- [[Vedas]]

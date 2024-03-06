@@ -49,6 +49,12 @@ Brahmanas are Vedic Sruti works attached to Samhitas
 	- Tantra (/ˈtæntrə/; Sanskrit: तन्त्र, lit. 'expansion-device, salvation-spreader; loom, weave, warp') is an esoteric **yogic** tradition that developed on the Indian subcontinent from the middle of the 1st millennium CE onwards in both Hinduism and Buddhism.
 	- The term tantra, in the Indian traditions, also means any systematic broadly applicable "text, theory, system, method, instrument, technique or practice". A key feature of these traditions is the use of mantras, and thus they are commonly referred to as **Mantramārga** ("Path of Mantra") in Hinduism or **Mantrayāna** ("Mantra Vehicle") and **Guhyamantra** ("Secret Mantra") in Buddhism.
 
+The Tantric texts can be divided into three classes:
+(1) Shaiva Agamas (traditions of the followers of Shiva)
+(2) Vaishnava Samhitas (“Collections of the Vaishnavas,” a name borrowed from the Vedic Samhitas)
+(3) Shakta Tantras (“Looms of the Followers of the Goddess Shakti”). 
+However, they all have the common bond of venerating the Goddess
+
 ---
 
 Hindu scriptures, also known as Shastras, are a vast and diverse collection of texts sacred to Hindus. They are generally divided into two categories: Shruti (heard) and Smriti (remembered).
