@@ -1,24 +1,30 @@
 - Hindu Scriptures
-	- Sruti
+	- Sruti (That which is heard)
 		- [[Vedas]]
 			- Samhithas (Mantras and hymns)
 			- Brahmanas (For rituals)
-			- Aranyakas (For forest dwellers)
+			- Aranyakas (Knowledge for forest dwellers)
 			- Upanishads (Spiritual and Philosophical teachings)
 		- Supplementary
 			- Veda Sutras
-				- Dharma Sutras
-				- Shrauta Sutras
-				- Griha Sutras
+				- Dharma Sutras (Manuals of Conduct)
+				- Shrauta Sutras (Manuals of Rituals)
+				- Griha Sutras (Manuals of Household Rites)
 			- Agamas (not sure if they are Sruti)
 				- Tantras
 		- Puranas
 			- 18 Mahapuranas (not sure which ones)
 			- 18 Upapuranas (not sure which ones)
 			- Other Puranas
-	- Smriti
-		- Manu Smriti
-		- Vishnu Smriti
+	- Smriti (Inspired works)
+		- Manu Smriti (The Laws of Manu, the first man)
+		- Vishnu Smriti / Vaishnava Dharma Shastra / Vishnu Sutras (The Laws of Vishnu)
+		- Dharma Shastras (Simplified Explanations of Dharma Sutras)
+		- Later Texts
+			- Poems
+				- Shakuntala by Kalidasa
+				- Kumarasambhava by Kalidasa
+		- Modern Works
 
 - Vedic Disciplines (Vedangas)
 	- Siksha (Phonetics)
@@ -27,5 +33,19 @@
 	- Nirukta (Etymology and Linguistics)
 	- Jyotisha (Astrology)
 	- Kalpa (Rituals and Rites of Passage)
+- Shakhas
+	- 
+	- Upavedas (Technical Knowledge from the Vedas)
 - [[Hindu Denominations]] (Sampradayas)
 	- Hindu Schools of Thought (Darshanas)
+	- Divisions
+		- Astika (Orthodox / Vedic)
+		- Nastika (Heterodox / Non-Vedic)
+- Concepts
+	- Existential
+		- Moksha
+		- Dharma
+		- Karma
+		- Samsara
+	- Ethical Values
+		- Ahimsa

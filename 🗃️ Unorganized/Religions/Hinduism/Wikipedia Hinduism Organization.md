@@ -51,13 +51,9 @@ He set up four monasteries (called mathas or pithams) where realised men would t
 | Toṭakācārya       | North     | Badari Jyotirmaṭha Pīṭhaṃ  | Ayamātmānam brahma (This Atman is supreme being)          | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
 
 # Verses
-
 Purusa Sukta:
 - Rig Veda 10.90.1
-
-
 # Books
-
 - Brahma Sutras
 - Samkhya Sutras
 - Mimamsa Sutras
@@ -74,14 +70,12 @@ Purusa Sukta:
 - Tirumurai
 - Shiva Samhita
 
-
-
 Vedanta Sutras
 Grihya Sutras (Household Rites)
 # Prior to 200 BC
 - Manu Smriti (Laws of Manu)
 - Dharma Sutras (The Sacred Laws of The Aryas)
-	- IApastamba Dharma Sutra, Gautama Dharma Sutra, and the other 2 Sutras
+	- Apastamba Dharma Sutra, Gautama Dharma Sutra, and the other 2 Sutras
 	- Sections: Prasna, Patala, Khanda
 - Visnu Smriti / Vaishanava Dharma Shastra / Vishnu Sutras (The Institutes of Vishnu / Laws)
 	- Contains punishments (Insulting caste members, "I shall visit your 'daughter'/'wife'")
