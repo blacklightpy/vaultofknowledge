@@ -1,8 +1,11 @@
 ## Fluid Mechanics
 
 - $\nabla$ (Nabla)
+	- Vector Calculus: Gradient / Divergence / Curl
 - $\Delta$ (Delta)
-- $R$ - Reynold's Operator
+	- Vector Calculus: Laplace Operator
+- ◻ (Square)
+	- Vector Calculus: D'Alembert Operator
 
 ## Quantum Mechanics
 - $\langle \: \rangle$ (Angle Brackets) - Expectation Values
