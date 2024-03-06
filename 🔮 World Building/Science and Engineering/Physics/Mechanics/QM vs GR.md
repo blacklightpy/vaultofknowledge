@@ -10,6 +10,4 @@ The nature of warping of particles are what gives some of these particles the ph
 
 Thus, charge is related to the warping of spacetime, as evidenced by the similarities between the interactions of charged particles and massive particles.
 
-The same phenomena that attracts or repels charged particles is what attracts all particles. But as for explaining repulsion, and also how the attraction is weaker, I'm inclined to assume that the neutrons have some role in this.
-
-They are not charged, yet are made of the same warping of spacetime, and have a mass similar to that of protons. And we have only observed the effects of gravitation on large bodies.
+The same phenomena that attracts or repels charged particles is what attracts all particles. But as for explaining repulsion, and also how the attraction is weaker, I'm stuck for now. I may not be able to explain how charge arises now, however the analogy of warping of spacetime is still valid for the formation of particles.
