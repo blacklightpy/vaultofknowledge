@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Origin of Modern Science.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
               }
             }
           },
@@ -630,7 +630,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 16
           }
         ],
         "direction": "vertical",
@@ -643,15 +643,20 @@
       }
     ]
   },
-  "active": "04a9098b55a81d39",
+  "active": "9dda3f4fcbb71a96",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
+    "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
+    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🤠 Personal/Project Ideas/Photoshop App In India.md",
     "🤠 Personal/Project Ideas/Project Ideas (old list).md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/General Notes/Tests for Particles.md",
     "🗃️ Unorganized/General Notes/Pigments.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
@@ -666,11 +671,6 @@
     "🗃️ Unorganized/General Notes/Maths to Learn.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
-    "🗃️ Unorganized/Religions/Sikhism.md",
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",

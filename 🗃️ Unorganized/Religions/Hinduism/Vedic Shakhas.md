@@ -1,6 +1,8 @@
-A Vedic **shakha** (Sanskrit śākhā, "branch" or "limb") is a Hindu theological school that specializes in learning certain Vedic texts, or else the traditional texts followed by such a school. An individual follower of a particular school or revision is called a **śākhin**. The term is also used in Hindu philosophy to refer to an adherent of a particular orthodox system.
+A Vedic **shakha** (Sanskrit śākhā, "branch" or "limb") is a Hindu theological school that specializes in learning certain Vedic texts, or else the traditional texts followed by such a school. An individual follower of a particular school or revision is called a **shakhin**. The term is also used in Hindu philosophy to refer to an adherent of a particular orthodox system.
 
-A related term **caraṇa**, ("conduct of life" or "behavior") is also used to refer to such a Vedic school: "although the words caraṇa and shakha are sometimes used synonymously, yet caraṇa properly applies to the sect or collection of persons united in one school, and shakha to the traditional text followed, as in the phrase **shakham adithe** ("he recites a particular version of the Veda").
+A related term, **charana** ("conduct of life" or "behavior") is also used to refer to such a Vedic school: "although the words charana and shakha are sometimes used synonymously, yet charana properly applies to the sect or collection of persons united in one school, and shakha to the traditional text followed, as in the phrase **shakham adithe** ("he recites a particular version of the Veda").
+
+In short, **shakha** is the branch and **charana** is the way of the followers of that branch.
 
 The schools have different points of view, described as **shakhabedhah** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Saṃhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrauta Sutras**, **Griha Sutras** and **Upanishads**.
 
