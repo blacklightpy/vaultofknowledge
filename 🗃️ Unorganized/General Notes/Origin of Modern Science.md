@@ -13,4 +13,5 @@
 - Faraday, Tesla
 - Edison's Light Bulb Industry
 - Maxwell, Einstein, etc.
+- Thomson, Rutherford, Chadwick, Bohr, Schrodinger, etc.
 - Lots of unknown scientists behind companies
