@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/All Weird Mathematical Operators.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/All Weird Mathematical Operators.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/All Weird Mathematical Operators.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md"
               }
             }
           },
@@ -641,9 +641,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "08f1387bc89a71ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 16
+            "currentTab": 17
           }
         ],
         "direction": "vertical",
@@ -656,10 +669,10 @@
       }
     ]
   },
-  "active": "bed2a13448011340",
+  "active": "08f1387bc89a71ab",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Tests for Particles.md",
     "🗃️ Unorganized/General Notes/All Weird Mathematical Operators.md",
+    "🗃️ Unorganized/General Notes/Tests for Particles.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/General Notes/Maths to Learn.md",
     "🗃️ Unorganized/General Notes/Hinduism Index.md",
