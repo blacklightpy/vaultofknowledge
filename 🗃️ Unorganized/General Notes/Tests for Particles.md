@@ -13,5 +13,39 @@
 - The Neutron
 	- James Chadwick's $\alpha$-ray Scattering Experiment
 - Quantization
+	- Bohr's Atomic Model
 	- Planck's Quantum Theory
 	- Photoelectric Effect
+	- Schrodinger's Atomic Model
+## Sub-Quantum Particles
+
+- Quarks
+	- Up
+	- Down
+	- Anti-Up
+	- Anti-Down
+	- Charm
+	- Strange
+	- Anti-Charm
+	- Anti-Strange
+	- Bottom
+	- Top
+	- Anti-Bottom
+	- Anti-Top
+- Leptons
+	- Electrons (Already Mentioned)
+	- Electron Neutrino
+	- Muon
+	- Muon Neutrino
+	- Tau
+	- Tau Neutrino
+	- Anti-Tau
+	- Anti-Tau Neutrino
+- Bosons
+	- Photons (Already Mentioned)
+	- Gluons
+	- W+ Bosons
+	- W- Bosons
+	- Z Bosons
+- Hadrons
+	- Protons
