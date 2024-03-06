@@ -3,7 +3,6 @@
 	- Thomson's Plum Pudding Model
 	- Rutherford's Atomic Model
 	- Bohr's Atomic Model
-	- 
 - The Electron
 	- Faraday's Cathode Ray Tube Discharge Experiment (Discovery)
 	- Thomson's Experiment (Mass to Charge Ratio)
@@ -49,8 +48,8 @@
 	- Z Bosons
 - Hadrons
 	- Baryons
-		- Protons
-		- Neutrons
+		- Protons (Already Mentioned)
+		- Neutrons (Already Mentioned)
 		- Anti-Protons
 		- Anti-Neutrons
 	- Mesons
