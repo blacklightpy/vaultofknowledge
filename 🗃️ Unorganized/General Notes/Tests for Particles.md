@@ -1,5 +1,9 @@
 - The Atom
-	- Thomson's Plum Pudding Model
+	- Dalton's Atomic Model
 - The Electron
-	- Millikan's Oil Drop Experiment
+	- Faraday's Cathode Ray Tube Discharge Experiment (Discovery)
+	- Thomson's Experiment (Mass to Charge Ratio)
+	- Millikan's Oil Drop Experiment (Charge, and hence Mass)
+- The Proton
+	- Chadwick's $\alpha$-ray Scattering Experiment
 - 
