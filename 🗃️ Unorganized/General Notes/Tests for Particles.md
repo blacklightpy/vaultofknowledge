@@ -1,5 +1,9 @@
 - The Atom
 	- Dalton's Atomic Model
+	- Thomson's Plum Pudding Model
+	- Rutherford's Atomic Model
+	- Bohr's Atomic Model
+	- 
 - The Electron
 	- Faraday's Cathode Ray Tube Discharge Experiment (Discovery)
 	- Thomson's Experiment (Mass to Charge Ratio)
@@ -7,3 +11,7 @@
 - The Proton
 	- Geiger–Marsden Experiments / Rutherford's Gold Foil $\alpha$-ray Scattering Experiment
 - The Neutron
+	- James Chadwick's $\alpha$-ray Scattering Experiment
+- Quantization
+	- Planck's Quantum Theory
+	- Photoelectric Effect
