@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -609,7 +609,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                    "file": "🗃️ Unorganized/General Notes/Hinduism Index.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -617,7 +617,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 8
           }
         ],
         "direction": "vertical",
@@ -630,24 +630,25 @@
       }
     ]
   },
-  "active": "5ceb6b012c15bf6c",
+  "active": "f5186da4699e82d8",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-    "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "🗃️ Unorganized/Religions/Sikhism.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
     "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+    "🗃️ Unorganized/General Notes/Hindu Disagreements.md",
+    "🗃️ Unorganized/General Notes/Hinduism Index.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/General Notes/Technology to Know.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🗃️ Unorganized/General Notes/Why do electron shell transitions radiate.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/General Notes/Hindu Disagreements.md",
     "🗺️ World Exploration/Culture/Buddhism.md",
     "🗃️ Unorganized/Religions/Buddhism.md",
     "🗃️ Unorganized/Religions/Zen.md",
@@ -658,7 +659,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
     "🗃️ Unorganized/General Notes/Can sound waves excite materials.md",
     "🗃️ Unorganized/General Notes/Sound Waves vs Light Waves.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
     "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/Pasted image 20240302111638.png",
