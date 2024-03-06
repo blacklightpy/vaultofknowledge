@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md"
               }
             }
           },
@@ -643,7 +643,7 @@
                 }
               }
             ],
-            "currentTab": 16
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -656,10 +656,10 @@
       }
     ]
   },
-  "active": "9dda3f4fcbb71a96",
+  "active": "99b65cb3f149cc1c",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Baryons.md",
     "🗃️ Unorganized/General Notes/Tests for Particles.md",

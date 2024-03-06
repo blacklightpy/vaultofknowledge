@@ -52,3 +52,6 @@ The practice of untouchability violates the basic teaching of the Gita that such
 ---
 
 Gita states that caste is created by Krishna on the basis of Gunas.
+
+Wiki:
+> One of the fifteen duties of slaves enumerated in Naradiya Samhita was of manual scavenging.
