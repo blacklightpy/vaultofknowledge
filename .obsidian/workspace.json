@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hinduism Index.md",
+                "file": "🗃️ Unorganized/General Notes/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hinduism Index.md",
+                "file": "🗃️ Unorganized/General Notes/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hinduism Index.md"
+                "file": "🗃️ Unorganized/General Notes/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md"
               }
             }
           },
@@ -583,7 +583,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                    "file": "🗃️ Unorganized/General Notes/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -591,7 +591,7 @@
                 }
               }
             ],
-            "currentTab": 12
+            "currentTab": 13
           }
         ],
         "direction": "vertical",
@@ -604,16 +604,18 @@
       }
     ]
   },
-  "active": "11ba25d75d5067fc",
+  "active": "9dda3f4fcbb71a96",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+    "🗃️ Unorganized/General Notes/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🗃️ Unorganized/General Notes/Pigments.md",
     "🗃️ Unorganized/General Notes/Hinduism Index.md",
+    "🗃️ Unorganized/General Notes/Pigments.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🔮 World Building/Waste Management/Fecal Sludge Management.md",
     "🔮 World Building/Waste Management/Sewage Sludge Management.md",
     "🔮 World Building/Waste Management",
@@ -631,8 +633,6 @@
     "🗃️ Unorganized/General Notes/Tests for Particles.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Hadrons.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Mesons.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Baryons.md",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",
