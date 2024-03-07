@@ -10,4 +10,4 @@ For an interesting part, let's look at how to make a big **transistor**. Let's s
 
 Vacuum Tubes were based on the observed *thermionic effect* or *Edison effect* of emission of electrons (at that time, current, since electrons weren't discovered) in light-bulbs.
 
-\<FILL: Design Vacuum Tubes, then get to transistor.>
+\<FILL: Design Vacuum Tubes, then get to a big transistor. Then miniaturize it.\>

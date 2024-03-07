@@ -151,51 +151,12 @@
             }
           },
           {
-            "id": "42b611078583eafb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "784444bb36eb9217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Genres of Music.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc085f744d25a159",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d888321219cf727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -317,6 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,6 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +306,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
+              }
             }
           },
           {
@@ -508,8 +473,17 @@
       }
     ]
   },
-  "active": "9f70af76281fdc1e",
+  "active": "e3232100cc732118",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
+    "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
+    "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
+    "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+    "🗃️ Unorganized/General Notes/Genres of Music.md",
+    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
+    "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🗃️ Unorganized/General Notes/multisig 1.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Shamir Secret Sharing.md",
     "🗃️ Unorganized/General Notes/What is a codec 1.md",
@@ -528,15 +502,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1976 Uniform Colour Spaces.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELUV.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
-    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
