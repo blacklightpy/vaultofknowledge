@@ -2,8 +2,8 @@ A Vedic **shakha** (Sanskrit śākhā, "branch" or "limb") is a Hindu theologica
 
 A related term, **charana** ("conduct of life" or "behavior") is also used to refer to such a Vedic school: "although the words charana and shakha are sometimes used synonymously, yet charana properly applies to the sect or collection of persons united in one school, and shakha to the traditional text followed, as in the phrase **shakham adithe** ("he recites a particular version of the Veda").
 
-In short, **shakha** is the branch and **charana** is the way of the followers of that branch.
-
+==In short, **shakha** is the branch and **charana** is the way of the followers of that branch.==
+## Some more intro notes
 The schools have different points of view, described as **shakhabedhah** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Saṃhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrauta Sutras**, **Griha Sutras** and **Upanishads**.
 
 In traditional Hindu society affiliation with a specific school is an important aspect of class identity. By the end of the Rig Vedic period the term **Brahmana (Brahmin)** had come to be applied to all members of the priestly class, but there were subdivisions within this order based both on **varna** (class) and on the **shakha** (branch) with which they were affiliated.
@@ -21,7 +21,7 @@ Note that several of the Sakhas have gone missing over the years.
 - **Aranyaka**: Aitreya Aranyaka
 - **Upanishad**: Aitreya Upanishad
 - **Shrauta Sutra**: Asvalayana Shrauta Sutra
-- **Griha Sutra**: Asvalayana Grihya Sutra.
+- **Griha Sutra**: Asvalayana Grihya Sutra
 ## Yajur Veda
 The Yajurvedin shakhas are divided in Shukla (White) and Krishna (Black) schools.
 

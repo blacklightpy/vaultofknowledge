@@ -240,22 +240,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4190c3a4f5863f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Philosophy/Disciplines.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -330,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Philosophy/Disciplines.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Philosophy/Disciplines.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Philosophy/Disciplines.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
               }
             }
           },
@@ -552,38 +539,12 @@
                 }
               },
               {
-                "id": "a915619cd916e645",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "abbc2cad347b1287",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/General Notes/Hindu Disagreements.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "11ba25d75d5067fc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/General Notes/Hinduism Index.md",
+                    "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -591,12 +552,12 @@
                 }
               },
               {
-                "id": "9dda3f4fcbb71a96",
+                "id": "85d62b9a3bb653dd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/General Notes/Evils of Hinduism 2 - Marrying Foreigners is Prohibited.md",
+                    "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -604,7 +565,7 @@
                 }
               }
             ],
-            "currentTab": 13
+            "currentTab": 11
           }
         ],
         "direction": "vertical",
@@ -617,35 +578,35 @@
       }
     ]
   },
-  "active": "4190c3a4f5863f02",
+  "active": "85d62b9a3bb653dd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Evils of Hinduism 2 - Marrying Foreigners is Prohibited.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Kabbalah.md",
+    "🗃️ Unorganized/Religions/Hinduism/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
+    "🗃️ Unorganized/Religions/Hinduism/Evils of Hinduism 2 - Marrying Foreigners is Prohibited.md",
+    "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+    "🗃️ Unorganized/General Notes/Disagreements Between Hindus.md",
     "🔮 World Building/Philosophy/Disciplines.md",
     "🤠 Personal/Project Ideas/Photoshop App In India.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🗃️ Unorganized/General Notes/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
-    "🗃️ Unorganized/General Notes/Hinduism Index.md",
     "🗃️ Unorganized/General Notes/Pigments.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🔮 World Building/Waste Management/Fecal Sludge Management.md",
     "🔮 World Building/Waste Management/Sewage Sludge Management.md",
     "🔮 World Building/Waste Management",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
-    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
-    "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
-    "🤠 Personal/Project Ideas/Project Ideas (old list).md",
-    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",
