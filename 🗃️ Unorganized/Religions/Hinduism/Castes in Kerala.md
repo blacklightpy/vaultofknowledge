@@ -104,7 +104,7 @@ British revived the Manu Smriti?
 
 Shudra only really appears in the Purusha Pustaka of Vedas?
 
-# Evil effects of case
+# Evil effects of caste
 
 > I'm 22 year old and I recently went through a mutual break up because she thinks her parents aren't going to accept the marriagecoz of my caste, it feels sad because all these days I never knew how important caste of a person played in this society and now only because of my caste I lost someone I loved, I never knew about all of this until I was 17, and when I turned 17, I knew that there were castes and stuff, I'm proud of my parents that they din't teach me what it means to be an upper caste or a lower caste, they always told me that everyone is equal, I'm happy I got a cleaner and clear picture of what life is unlike many others who hail from a higher caste but still discriminate people.
 

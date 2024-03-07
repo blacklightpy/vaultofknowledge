@@ -120,4 +120,4 @@ The Yoga Sutras of Patanjali are divided into four chapters, or **padas**, which
 
 # Words
 - Ashtanga
-- 
+- Anushtanam

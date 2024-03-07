@@ -15,8 +15,8 @@ The early Upanishads were composed over 900-300 BCE).
 - Mimamsa Sutra (300-200 BCE)
 - Shiva Sutras (120 BCE)
 - Yoga Sutras of Patanjali (500-100 BCE)
-- Nyāya Sūtras (200-100 BCE)
-- Vaiśeṣika Sūtra (200-100 BCE)
+- Nyaya Sutras (200-100 BCE)
+- Vaiseṣika Sutra (200-100 BCE)
 - Samkhya Sutra
 - Arthashastra (400-200 CE)
 - Puranas (250-1000 CE)
@@ -43,12 +43,12 @@ His followers are Shankaracharyas. (Acharya means teacher, so Shankaracharya mea
 
 He set up four monasteries (called mathas or pithams) where realised men would teach.
 
-| Shishya (lineage) | Direction | Monastery (Maṭha / Pīṭhaṃ) | Mahāvākya                                                 | Veda         | Sampradaya | Present Shankaracharya                                                                   |
+| Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                                 | Veda         | Sampradaya | Present Shankaracharya                                                                   |
 | ----------------- | --------- | -------------------------- | --------------------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
-| Padmapāda         | East      | Puri Govardhanmaṭha        | Pīṭhaṃ 	Prajñānam brahma (Consciousness is supreme being) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
-| Sureśvara         | South     | Sringeri Śārada Pīṭhaṃ     | Aham brahmāsmi (I am the supreme being)                   | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
-| Hastāmalakācārya  | West      | Dvāraka Sharada Pīṭhaṃ     | Tattvamasi (That thou art)                                | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
-| Toṭakācārya       | North     | Badari Jyotirmaṭha Pīṭhaṃ  | Ayamātmānam brahma (This Atman is supreme being)          | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
+| Padmapada         | East      | Puri Govardhanmatha        | Pitham 	Prajnanam brahma (Consciousness is supreme being) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
+| Suresvara         | South     | Sringeri sarada Pitham     | Aham brahmasmi (I am the supreme being)                   | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
+| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tattvamasi (That thou art)                                | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
+| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayamatmanam brahma (This Atman is supreme being)          | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
 
 # Verses
 Purusa Sukta:
@@ -57,14 +57,14 @@ Purusa Sukta:
 - Brahma Sutras
 - Samkhya Sutras
 - Mimamsa Sutras
-- Nyāya Sūtras 
-- Vaiśeṣika Sūtra
+- Nyaya Sutras 
+- Vaiseṣika Sutra
 - Yoga Sutras
 - Pramana Sutras
 
 - Puranas
 - Dharma Shastra
-- Artha Śastra
+- Artha Shastra
 - Kamasutra
 - Divya Prabhandham
 - Tirumurai

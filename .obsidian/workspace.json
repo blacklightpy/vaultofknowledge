@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3b8c85d1bedbe2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -253,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md"
+                "file": "🗃️ Unorganized/General Notes/Universal Translator.md"
               }
             }
           },
@@ -461,7 +473,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -474,9 +486,15 @@
       }
     ]
   },
-  "active": "85d62b9a3bb653dd",
+  "active": "e3b8c85d1bedbe2a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Universal Constructor.md",
+    "🗃️ Unorganized/General Notes/Universal Translator.md",
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
@@ -497,12 +515,6 @@
     "🗃️ Unorganized/General Notes/22.md",
     "🗃️ Unorganized/General Notes/10.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
-    "🗃️ Unorganized/General Notes/19.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
-    "🗃️ Unorganized/General Notes/dither 1.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
-    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
