@@ -2,7 +2,7 @@ List out these factors:
 
 **Type**: Monotheistic / Atheistic / Polytheistic / Henotheistic / Pantheistic / Animistic / Panentheistic Animistic / Monistic Theistic / Substance Monotheism
 
-**Subtype**: (If the religion is not fully represented by the main type)
+**Subtype**: (If the religion is not fully represented by the main types)
 
 - General Beliefs (World, Creator, Soul, Life, Peace)
 - Principles
@@ -16,10 +16,16 @@ List out these factors:
 - Scriptures and Texts
 	- Divisions
 - Connection to Other Religions
+- Places related to the Religion
 
-Also add:
+Also add (To fill optionally):
 - Introduction (General Idea)
-- Closing Notes (More Details)
+- Closing Notes (More Details; example template)
+	- People in The Religion
+	- Culture
+		- Later Influential People
+		- Later Places
+		- History and Any Conflicts
 
 --- 
 # Template
@@ -35,8 +41,14 @@ Also add:
 ### Domestic Rituals
 ## Denominations (May vary in beliefs)
 ## Scriptures and Texts
+### Divisions
 ## Connection to Other Religions
 ## Closing Notes (More details if any)
+### People In The Religion
+### Culture
+#### Later Influential People
+#### Later Places
+#### History and Any Conflicts
 
 # Islam
 **Type**: Monotheistic
@@ -53,6 +65,7 @@ Also add:
 ### Domestic Rituals
 ## Denominations (May vary in beliefs)
 ## Scriptures and Texts
+### Divisions
 ## Connection to Other Religions
 ## Closing Notes (More details if any)
 # Hinduism
@@ -83,7 +96,18 @@ Since there are six orthodox schools of thought, they are called **sadh darshana
 #### Heterodox
 - Buddhism
 ## Scriptures and Texts
+### Divisions
 ## Connection to Other Religions
 ## Closing Notes (More details if any)
+### People In The Religion
+### Culture
+#### Later Influential People
+#### Later Places
+#### History and Any Conflicts
 # Christianity
 # Judaism
+# Buddhism
+# Jainism
+# Zen
+# Taoism
+# 

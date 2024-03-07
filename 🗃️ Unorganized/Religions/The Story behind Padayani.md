@@ -31,7 +31,3 @@ Padayani, as it is known today, has, apart from its artistic function, the funct
 
 Each Kolam has a purpose and a meaning, its function is not individual but social.
 
-
-
----
-

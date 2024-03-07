@@ -29,6 +29,9 @@ Ik Onkar Khalsa Waheguru Panj Pyare Nirgun and Sargun Khanda Literature Music Na
 - Societal Rules
 - Home Philosophy
 
+- Places related to the Religion
+- People in The Religion
 - Culture
-- Places
-- People
+	- Later Influential People
+	- Later Places
+	- History and Any Conflicts

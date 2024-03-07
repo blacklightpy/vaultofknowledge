@@ -32,12 +32,12 @@ The White recensions have separate Brahmanas, while the Black ones have their(mu
 	- Currently recited by all over North Indian Brahmins and by Deshastha Brahmins
 - **Brahmana**: Shatapatha Brahmana (Madhyandina) (SBM)
 - **Aranyaka**: Survives as Shatapatha XIV.1–8, with accents.
-- **Upanishad**: Brihadaranyaka Upanishad = SBM XIV.3–8 with accents, Ishavasya Upanishad = VSM 40
+- **Upanishad**: Brihadaranyaka Upanishad (SBM XIV.3–8 with accents), Ishavasya Upanishad (VSM 40)
 #### Kanva Shakha
 - **Samhita**: Vajasneyi Samhita (Kanva) (VSK)
 - **Brahmana**: Shatapatha Brahmana (Kanva) (SBK)
 - **Aranyaka**: survives as book XVII of SBK
-- **Upanishad**: Brihadaranyaka Upanishad = SBK with accents, Ishavasya Upanishad = VSK 40
+- **Upanishad**: Brihadaranyaka Upanishad (SBK with accents), Ishavasya Upanishad (VSK 40)
 #### Katyayana Shakha
 - **Samhita**: 
 - **Brahmana**: 
@@ -52,7 +52,6 @@ The White recensions have separate Brahmanas, while the Black ones have their(mu
 - **Upanishad**: Taittiriya Upanishad
 - **Shrauta Sutras** The Shrauta Sutras of Apastamba (450–350 BCE), Bodhayana (500–200 BCE), and Vaikhanasa (300–100 BCE).
 	- All are attached to the Taittiriya Samhita.
-
 #### Maitrayani Shakha
 - **Samhita**: Maitrayani Saṃhita
 	- Recited by few Brahmins in Nasik

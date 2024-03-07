@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
+                "file": "🗃️ Unorganized/Religions/Studying a Religion.md"
               }
             }
           },
@@ -526,19 +526,6 @@
                 }
               },
               {
-                "id": "5dd4270a5ea07ad6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "11ba25d75d5067fc",
                 "type": "leaf",
                 "state": {
@@ -557,7 +544,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                    "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -565,7 +552,7 @@
                 }
               }
             ],
-            "currentTab": 11
+            "currentTab": 8
           }
         ],
         "direction": "vertical",
@@ -578,23 +565,25 @@
       }
     ]
   },
-  "active": "85d62b9a3bb653dd",
+  "active": "f8486fcb85d5d221",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Sikhism.md",
+    "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🗃️ Unorganized/Religions/The Story behind Padayani.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/Religions/Kabbalah.md",
     "🗃️ Unorganized/Religions/Hinduism/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "🗃️ Unorganized/Religions/Hinduism/Evils of Hinduism 2 - Marrying Foreigners is Prohibited.md",
-    "🗃️ Unorganized/General Notes/The Story behind Padayani.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "🗃️ Unorganized/General Notes/Disagreements Between Hindus.md",
     "🔮 World Building/Philosophy/Disciplines.md",
     "🤠 Personal/Project Ideas/Photoshop App In India.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
     "🗃️ Unorganized/General Notes/Pigments.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
@@ -605,8 +594,6 @@
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
-    "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
-    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",

@@ -64,14 +64,13 @@ Shruti scriptures are considered revealed and include the four Vedas:
 **Rigveda**, **Yajurveda**, **Samaveda**, and **Atharvaveda**. 
 
 Each Veda has four parts: **Samhitas** (mantras and hymns), **Brahmanas** (rituals and sacrifices), **Aranyakas** (contemplations for forest dwellers), and **Upanishads** (philosophical and spiritual teachings).
-
 # Smriti
 Smriti scriptures are based on human memory and include epic texts like the **Mahabharata** (which contains the **Bhagavad Gita**) and **Ramayana**, as well as law codes (**Dharma Shastras**), **Puranas** (mythological and historical accounts), and **Tantras** (esoteric rituals and meditation techniques).
 
 These scriptures cover a wide range of topics, including rituals, morals, law, mythology, cosmology, and spirituality. They reflect the diverse nature of Hinduism and offer rich insights into the religion's history, philosophy, and culture.
 
 
-So,
+So basically,
 
 - Hindu Shastras
 	- Srutis (Revealed)
