@@ -29,6 +29,7 @@
 				- Kumarasambhava by Kalidasa
 		- Modern Works
 
+- Mahavakyas (Great Words from the Vedas)
 - Vedic Disciplines (Vedangas)
 	- Siksha (Phonetics)
 	- Chandas (Prosody / Poetic Metre)

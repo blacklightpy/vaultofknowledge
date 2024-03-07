@@ -1,5 +1,5 @@
 # Timeline of Books
-## Samhita (Brahmana layers of the Vedas
+## Samhita (Brahmana layers of the Vedas)
 
 - Rigveda (1500-1100 BCE)
 - Samaveda (1200-800 BCE)

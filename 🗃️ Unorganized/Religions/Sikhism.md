@@ -17,21 +17,3 @@ Gurdwara Harmandir Sahib Akal Takht Keshgarh Sahib Damdama Sahib Patna Sahib Haz
 General topics and terminology
 
 Ik Onkar Khalsa Waheguru Panj Pyare Nirgun and Sargun Khanda Literature Music Names Nanakshahi calendar Criticism Jathedar of Akal Takht War Sects
-
-# What does a religion have in general
-- Sects / Denominations
-- Philosophies
-- Books
-	- Divisions
-- Concepts
-- Rituals
-
-- Societal Rules
-- Home Philosophy
-
-- Places related to the Religion
-- People in The Religion
-- Culture
-	- Later Influential People
-	- Later Places
-	- History and Any Conflicts
