@@ -266,7 +266,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -472,9 +473,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "7ba852359191cdc7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 7
           }
         ],
         "direction": "vertical",
@@ -489,8 +503,13 @@
   },
   "active": "e3b8c85d1bedbe2a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🗃️ Unorganized/General Notes/Universal Translator.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/smali.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Run Time.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Dalvik.md",
+    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel-Palestine Peace Ideas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Opinions.md",
@@ -523,11 +542,6 @@
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
     "🔮 World Building/Science and Engineering/Engineering/Automotive Engineering/Vehicles.md",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering",
-    "🗃️ Unorganized/General Notes/Universal Constructor.md",
-    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",

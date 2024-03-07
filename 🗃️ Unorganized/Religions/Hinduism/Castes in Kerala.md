@@ -85,7 +85,6 @@ The proof texts are;–
 > 
 > But he who does not (perform Sandhya Vandana) standing in the morning, nor sitting in the evening, shall be excluded, like a Sudra, from all the duties and privileges of a Dvija. (Manu 2:103.)
 
-
 ---
 
 # Debunk Caste

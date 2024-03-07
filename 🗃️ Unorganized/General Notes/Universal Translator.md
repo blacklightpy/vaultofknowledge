@@ -1,3 +1,3 @@
 - From Star Trek
 
-Basically, it 
+Basically, it (AI - verb patterns)
