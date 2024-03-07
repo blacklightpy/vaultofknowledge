@@ -39,7 +39,7 @@
 - [[FOSS CPU Cores]]
 
 **Some RISC-V Comparison Overview**
-	![[RISC V Core Comparison.avif]]])
+	![[RISC V Core Comparison.avif]]
 ## GPU
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub
@@ -104,6 +104,7 @@ Software:
 
 | Open Algorithm | Open Core | Open Source | Open License |
 | -------------- | --------- | ----------- | ------------ |
+|                |           |             |              |
 
 Hardware:
 

@@ -22,5 +22,5 @@ In Religion:
 - [[Castes in Kerala]]
 - [[Hindu Festivals In Kerala]]
 ## Evils
-- [[Evils of Hinduism 1 - Why is Intercaste Marriage Bad]]
-- [[Evils of Hinduism 2 - Marrying Foreigners is Prohibited]]
+- [[Evils in Hinduism 1 - Why is Intercaste Marriage Bad]]
+- [[Evils in Hinduism 2 - Marrying Foreigners is Prohibited]]
