@@ -221,7 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -235,14 +235,14 @@
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -317,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md"
               }
             }
           },
@@ -512,8 +512,13 @@
       }
     ]
   },
-  "active": "e3232100cc732118",
+  "active": "35629e0233fcda66",
   "lastOpenFiles": [
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELUV.md",
+    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
@@ -535,11 +540,6 @@
     "🗃️ Unorganized/General Notes/Disagreements Between Hindus.md",
     "🔮 World Building/Philosophy/Disciplines.md",
     "🤠 Personal/Project Ideas/Photoshop App In India.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
-    "🗃️ Unorganized/General Notes/Pigments.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
