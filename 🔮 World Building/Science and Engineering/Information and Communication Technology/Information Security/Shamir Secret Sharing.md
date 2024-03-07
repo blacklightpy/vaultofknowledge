@@ -1,1 +1,1 @@
-It is used to share a secret, unlike [[multisig 1]] - which shares the ability to sign, but not the private key itself.
+It is used to share a secret, unlike [[multisig]] - which shares the ability to sign, but not the private key itself.

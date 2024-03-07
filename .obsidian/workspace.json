@@ -221,7 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
+                "file": "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -240,9 +240,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0679388a59f54b28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -317,7 +325,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +341,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -345,9 +351,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md"
-              }
+              "state": {}
             }
           },
           {
@@ -373,12 +377,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -512,34 +516,35 @@
       }
     ]
   },
-  "active": "35629e0233fcda66",
+  "active": "0679388a59f54b28",
   "lastOpenFiles": [
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELUV.md",
-    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
+    "🗃️ Unorganized/General Notes/multisig 1.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Shamir Secret Sharing.md",
+    "🗃️ Unorganized/General Notes/What is a codec 1.md",
+    "🗃️ Unorganized/General Notes/How to use a Linux System.md",
+    "_images/i3 Screenshot 1.png",
+    "🗃️ Unorganized/General Notes/23.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
+    "🗃️ Unorganized/General Notes/22.md",
+    "🗃️ Unorganized/General Notes/10.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/General Notes/19.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+    "🗃️ Unorganized/General Notes/dither 1.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
+    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1976 Uniform Colour Spaces.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELUV.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIEUVW.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism.md",
     "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
-    "🗃️ Unorganized/General Notes/War.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
-    "🗃️ Unorganized/Religions/Sikhism.md",
-    "🗃️ Unorganized/Religions/The Story behind Padayani.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
-    "🗃️ Unorganized/Religions/Kabbalah.md",
-    "🗃️ Unorganized/Religions/Hinduism/Evils of Hinduism 1 - Why is Intercaste Marriage Bad.md",
-    "🗃️ Unorganized/Religions/Hinduism/Evils of Hinduism 2 - Marrying Foreigners is Prohibited.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
-    "🗃️ Unorganized/General Notes/Disagreements Between Hindus.md",
-    "🔮 World Building/Philosophy/Disciplines.md",
-    "🤠 Personal/Project Ideas/Photoshop App In India.md",
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
@@ -558,7 +563,6 @@
     "_images/Frequency and Loudness Response of the Ear.png",
     "_images/Frequency Areas of the Cochlea.png",
     "_images/Light penetration in water.png",
-    "_images/Knitting vs Crocheting.png",
-    "_images/Force Graph.png"
+    "_images/Knitting vs Crocheting.png"
   ]
 }

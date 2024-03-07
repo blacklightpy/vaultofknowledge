@@ -24,7 +24,7 @@
 > Every Linux distribution targeting the average user comes with the Firefox browser. But it may have trouble playing certain video files because they use patented encoding.
 > 
 > > [!NOTE] What are codecs?
-> > For example, you may have heard of MP3, JPEG, MPEG-4, etc. Some of them are open-source, but others are patented and require licensing fees to decode. Any application that plays these video formats without paying the royalties are technically in the legal grey zone. More info [[What is a codec 1|here]].
+> > For example, you may have heard of MP3, JPEG, MPEG-4, etc. Some of them are open-source, but others are patented and require licensing fees to decode. Any application that plays these video formats without paying the royalties are technically in the legal grey zone. More info [[What is a codec|here]].
 > 
 > To fix this, you need to install the appropriate codecs for playing those videos.
 > 

@@ -2,4 +2,6 @@ In [[Colorimetry]], the CIE 1976 L*,u*,v* colour space, also known as CIELUV is 
 
 It was based on the 1964 [[CIEUVW]] colour space.
 
+CIELUV was created alongside [[CIELAB]] in the set of [[CIE 1976 Uniform Colour Spaces]]. CIELAB is better suited for colour displays, while CIELUV is better for surfaces and dyes.
+
 Although additive mixtures of different coloured lights will fall on a line in CIELUV's uniform [[Chromaticity]] diagram, called the CIE 1976 UCS, they will not fall on a line unless the mixtures are constant in [[Lightness]].

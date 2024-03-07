@@ -170,7 +170,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 >     - [Halaf cultures](https://en.wikipedia.org/wiki/Halaf_culture "Halaf culture") (~6000–5300 BC)
 >     - [Ubaid period](https://en.wikipedia.org/wiki/Ubaid_period "Ubaid period") (~6500–4000 BC)
 >     - [Uruk period](https://en.wikipedia.org/wiki/Uruk_period "Uruk period") (~4000–3100 BC)
->     - [Jemdet Nasr period](https://en.wikipedia.org/wiki/Jemdet_Nasr_period "Jemdet Nasr period") (~3100–2900 BC)[[19]](https://en.wikipedia.org/wiki/Mesopotamia#cite_note-20)
+>     - [Jemdet Nasr period](https://en.wikipedia.org/wiki/Jemdet_Nasr_period "Jemdet Nasr period") (~3100–2900 BC)
 > - Early Bronze Age
 >     - [Early Dynastic period](https://en.wikipedia.org/wiki/Early_Dynastic_Period_(Mesopotamia) "Early Dynastic Period (Mesopotamia)") (~2900–2350 BC)
 >     - [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire "Akkadian Empire") (~2350–2100 BC)
