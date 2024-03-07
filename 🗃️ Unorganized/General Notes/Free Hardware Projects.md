@@ -39,7 +39,7 @@
 - [[FOSS CPU Cores]]
 
 **Some RISC-V Comparison Overview**
-	![RISC V Core Comparison](https://hackster.imgix.net/uploads/attachments/1587556/image_ytTUdIQR0j.png)
+	![[RISC V Core Comparison.avif]]])
 ## GPU
 - MIAOW GPGPU Core
 - asicguy/gplgpu on GitHub

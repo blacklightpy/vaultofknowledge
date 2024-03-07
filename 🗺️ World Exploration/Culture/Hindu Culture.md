@@ -50,11 +50,11 @@ Saguna - All good attributes
 	- Sangam Literature
 		- Five Great Epics (includes Silappatikaram)
 
-![[Pasted image 20240302111613.png]]
+![[Division of Hindu Literature 1.png]]
 
-![[Pasted image 20240302111628.png]]
+![[Division of Hindu Literature 2.png]]
 
-![[Pasted image 20240302111638.png]]
+![[Division of Hindu Literature 3.png]]
 
 ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
 ## Books

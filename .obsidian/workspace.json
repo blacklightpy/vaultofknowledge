@@ -208,7 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/Trust, Love and Faith.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/Trust, Love and Faith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/Trust, Love and Faith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md"
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/Trust, Love and Faith.md"
               }
             }
           },
@@ -346,7 +346,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -488,10 +489,31 @@
   },
   "active": "e3b8c85d1bedbe2a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Universal Constructor.md",
-    "🗃️ Unorganized/General Notes/Universal Translator.md",
-    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/Is war just part of who we are.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/Trust, Love and Faith.md",
+    "_images/Sway Screenshot 1.png",
+    "_images/Sumerian Cuneiform.jpg",
+    "_images/Stock Android Launcher.png",
+    "_images/Snapdragon 865 Metrics.png",
+    "_images/Run unit tests first.png",
+    "_images/QIS Low Light Comparison.png",
+    "_images/QIS Working Principle.png",
+    "_images/Mesh overlap Moire Effect.png",
+    "_images/MobileNet Power Usage in Energy per Frame.png",
+    "_images/MobileNet Power Usage in mW.png",
+    "🗃️ Unorganized/General Notes/Free Hardware Projects.md",
+    "🗃️ Unorganized/General Notes/FOSS CPU Cores.md",
     "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
+    "🗃️ Unorganized/General Notes/Universal Translator.md",
+    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Aeronautical Engineering.md",
+    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering/Astronautical Engineering.md",
+    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
+    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
+    "🔮 World Building/Science and Engineering/Engineering/Automotive Engineering/Vehicles.md",
+    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering",
+    "🗃️ Unorganized/General Notes/Universal Constructor.md",
+    "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
@@ -506,33 +528,12 @@
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🗃️ Unorganized/General Notes/multisig 1.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Shamir Secret Sharing.md",
-    "🗃️ Unorganized/General Notes/What is a codec 1.md",
-    "🗃️ Unorganized/General Notes/How to use a Linux System.md",
-    "_images/i3 Screenshot 1.png",
-    "🗃️ Unorganized/General Notes/23.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
-    "🗃️ Unorganized/General Notes/22.md",
-    "🗃️ Unorganized/General Notes/10.md",
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
-    "_images/Shamanistic Exorcism Ritual.png",
-    "_images/Pasted image 20240302111638.png",
-    "_images/Pasted image 20240302111628.png",
-    "_images/Pasted image 20240302111613.png",
     "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards",
     "🔮 World Building/Science and Engineering/Science Resources",
     "🔮 World Building/Marketplace and Creations/Food",
-    "🗺️ World Exploration/Beauty and Fashion",
-    "🔮 World Building/Self-Care/Health and Fitness",
-    "🔮 World Building/Self-Care/Cleaning and Housekeeping",
-    "🔮 World Building/Self-Care",
-    "_images/Pasted image 20240216063322.png",
-    "_images/Frequency and Loudness Response of the Ear.png",
-    "_images/Frequency Areas of the Cochlea.png",
-    "_images/Light penetration in water.png",
-    "_images/Knitting vs Crocheting.png"
+    "🗺️ World Exploration/Beauty and Fashion"
   ]
 }
