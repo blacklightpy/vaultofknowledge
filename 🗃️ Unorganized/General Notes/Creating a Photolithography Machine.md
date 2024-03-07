@@ -9,3 +9,5 @@ Firstly, we'll have to learn how to build **basic mechanical manufacturing machi
 For an interesting part, let's look at how to make a big **transistor**. Let's start with the basic logic devices, and find our way to the transistor. They include the **abacus**, **Napier's bones**, and **vacuum tube triodes / thermionic valves** (from Fleming's vacuum tubes).
 
 Vacuum Tubes were based on the observed *thermionic effect* or *Edison effect* of emission of electrons (at that time, current, since electrons weren't discovered) in light-bulbs.
+
+\<FILL: Design Vacuum Tubes, then get to transistor.>

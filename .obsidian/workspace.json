@@ -240,17 +240,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0679388a59f54b28",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -377,12 +369,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -516,7 +508,7 @@
       }
     ]
   },
-  "active": "0679388a59f54b28",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/multisig 1.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Shamir Secret Sharing.md",
