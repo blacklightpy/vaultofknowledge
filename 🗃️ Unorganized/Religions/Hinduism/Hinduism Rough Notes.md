@@ -117,3 +117,7 @@ The Yoga Sutras of Patanjali are divided into four chapters, or **padas**, which
 - Maxims: Belief Systems (Personal Rules included)
 
 ---
+
+# Words
+- Ashtanga
+- 

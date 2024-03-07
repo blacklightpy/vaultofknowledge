@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md"
               }
             }
           },
@@ -460,7 +460,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 6
           }
         ],
         "direction": "vertical",
@@ -473,9 +474,11 @@
       }
     ]
   },
-  "active": "e3232100cc732118",
+  "active": "85d62b9a3bb653dd",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/How to make Linux GUI components.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
     "🗃️ Unorganized/General Notes/Vitamin D from Sunlight.md",
@@ -500,8 +503,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/CcMmYK Colour Model.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Colour Space.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE Colour Spaces.md",
     "🔮 World Building/Waste Management",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/Religions",
