@@ -6,3 +6,4 @@ Doesn't have scriptures. But you can read some fun texts.
 - Blue Cliff Record
 - The Gateless Gate
 - Book of Equanimity
+- Zen and The Art of Archery

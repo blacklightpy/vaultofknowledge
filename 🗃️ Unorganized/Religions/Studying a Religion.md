@@ -75,7 +75,7 @@ Also add (To fill optionally):
 #### Later Places
 #### History and Any Conflicts
 # Hinduism
-**Type**: Monotheistic (Advaita Vedanta) / Atheistic (Samkhya) / Henotheistic / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita, Vishistadvaita) / Monistic Theistic / Substance Monotheism
+**Type**: Monotheistic (Advaita Vedanta) / Atheistic (Samkhya) / Henotheistic (Bhakti Traditions) / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita, Vishistadvaita) / Monistic Theistic / Substance Monotheism
 ## Introduction (Place, Time, People, etc.)
 ## General Beliefs (World, Creator, Soul, Life, Peace)
 ## Principles

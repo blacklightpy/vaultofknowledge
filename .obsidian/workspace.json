@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Studying a Religion.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md"
               }
             }
           },
@@ -462,24 +462,25 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 23,
+        "x": 651,
         "y": 79,
-        "width": 1234,
+        "width": 605,
         "height": 922,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "f8486fcb85d5d221",
+  "active": "0d613a810772076d",
   "lastOpenFiles": [
+    "🗺️ World Exploration/Culture/Zen.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
@@ -502,7 +503,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Android Games I Like.md",
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

@@ -1,4 +1,4 @@
-# Toc
+# ToC
 - Timeline of Books
 	- Samhitha
 	- Upanishads
@@ -6,8 +6,9 @@
 - Agamas
 	- Tantras (Shakta Agamas)
 - Vedanta (Dvaita vs Advaita)
-- Advaita Vedanta
+- Advaita Vedanta (by Adi Sankara)
 - Verses
+
 - Books
 - Prior to 200 BCE
 	- Minor Law Books
