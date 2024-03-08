@@ -50,6 +50,7 @@ Also add (To fill optionally):
 #### Later Places
 #### History and Any Conflicts
 
+---
 # Islam
 **Type**: Monotheistic
 ## Introduction (Place, Time, People, etc.)
@@ -68,6 +69,11 @@ Also add (To fill optionally):
 ### Divisions
 ## Connection to Other Religions
 ## Closing Notes (More details if any)
+### People In The Religion
+### Culture
+#### Later Influential People
+#### Later Places
+#### History and Any Conflicts
 # Hinduism
 **Type**: Monotheistic (Advaita Vedanta) / Atheistic (Samkhya) / Henotheistic / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita, Vishistadvaita) / Monistic Theistic / Substance Monotheism
 ## Introduction (Place, Time, People, etc.)
@@ -112,4 +118,3 @@ Since there are six orthodox schools of thought, they are called **sadh darshana
 # Taoism
 # Sikhism
 # Zoroastrianism
-# 

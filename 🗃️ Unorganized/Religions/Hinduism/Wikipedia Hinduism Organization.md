@@ -1,3 +1,21 @@
+# Toc
+- Timeline of Books
+	- Samhitha
+	- Upanishads
+	- Others
+- Agamas
+	- Tantras (Shakta Agamas)
+- Vedanta (Dvaita vs Advaita)
+- Advaita Vedanta
+- Verses
+- Books
+- Prior to 200 BCE
+	- Minor Law Books
+- After 6th Century
+- Later Texts
+- Modern Books
+	- Writings of Sister Nivedita (Margaret E. Noble)
+	- Writings of Rabindranath Tagore
 # Timeline of Books
 ## Samhita (Brahmana layers of the Vedas)
 
@@ -72,7 +90,7 @@ Purusa Sukta:
 
 Vedanta Sutras
 Grihya Sutras (Household Rites)
-# Prior to 200 BC
+## Prior to 200 BC
 - Manu Smriti (Laws of Manu)
 - Dharma Sutras (The Sacred Laws of The Aryas)
 	- Apastamba Dharma Sutra, Gautama Dharma Sutra, and the other 2 Sutras
@@ -82,12 +100,12 @@ Grihya Sutras (Household Rites)
 	- Supports Casteism
 	- Death for all criminals
 	- Eunuchs as bodyguards for Warriors' wives
-## Minor Law Books
+### Minor Law Books
 - N
 
-# After 6th Century
+## After 6th Century
 
-# Later Texts
+## Later Texts
 - The Yoga Sutras of Patanjali
 - The Hatha Yoga Pradipika
 - Dakshinamurti Stotra
@@ -100,7 +118,7 @@ Grihya Sutras (Household Rites)
 - Hymns of the Tamil Shaivite Saints
 - Songs of Kabir (By Tagore)
 - Yoga Vashisht or Heaven Found (Excerpts from Yoga Vashishta)
-# Modern Books
+## Modern Books
 Relax with Yoga
 Great Systems of Yoga
 Old Deccan Days
@@ -113,11 +131,11 @@ Indian Fairy Tales
 Indian Myth and Legend
 Karma-Yoga
 Hindu Mysticism
-## Writings of Sister Nivedita (Margaret E. Noble)
+### Writings of Sister Nivedita (Margaret E. Noble)
 Kali the Mother
 The Web of Indian Life
 Studies from an Eastern Home
-## Writings of Rabindranath Tagore
+### Writings of Rabindranath Tagore
 Gitanjali
 Saddhana, The Realisation of Life
 The Crescent Moon
