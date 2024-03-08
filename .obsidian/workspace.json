@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md"
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
               }
             }
           },
@@ -397,25 +397,12 @@
                 }
               },
               {
-                "id": "99b65cb3f149cc1c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "5e7ec6aa90b0df7f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
+                    "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -474,8 +461,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -488,11 +474,13 @@
       }
     ]
   },
-  "active": "99b65cb3f149cc1c",
+  "active": "e3232100cc732118",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/General Notes/Universal Translator.md",
@@ -514,8 +502,6 @@
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Android Games I Like.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/Trust, Love and Faith.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/Is war just part of who we are.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

@@ -1,3 +1,15 @@
+
+# ToC
+- Events
+- Castes
+
+- Who are Dalits (Quora)
+- Dalits in Hinduism (Quora)
+- How did Castes come? (Quora)
+- Dvijas (Quora)
+- Debunk Caste (Quora)
+- Evil effects of caste (Quora)
+- State of ST without reservation (Quora)
 # Events
 - Kayal Sammelanam (Lake Meeting)
 	- Fight for Dalit rights

@@ -1,3 +1,8 @@
+# ToC
+- Intro
+- Vedas (Significance)
+- Verses
+# Intro
 Casteism is often viewed as something similar to racism, but there is a certain difference to it.
 
 Casteism has its roots in religious segregation of labour required to sustain a civilization. This was how the Indo-Aryans created the scriptures of the Hindu religion. According to them, anyone could choose their caste by following the right rituals.
