@@ -112,3 +112,4 @@ Since there are six orthodox schools of thought, they are called **sadh darshana
 # Taoism
 # Sikhism
 # Zoroastrianism
+# 
