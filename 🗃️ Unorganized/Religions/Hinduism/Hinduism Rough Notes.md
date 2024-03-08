@@ -2,6 +2,17 @@
 - Stuff to Learn (An Index)
 	- Shastras, Tantras, Upavedas, Stotras, Srutis
 	- Sutras, Shlokas, Anuvakhya, Vakhya
+	- Vedangas, Parisistas (Supplements), Upavedas, Tantras
+- Again, Hindu Shastras
+	- Shruti
+	- Smriti
+	- Darshanas
+	- Agamas
+	- Bhakti Marga
+	- Karma and Rebirth
+- Sutras
+- Glossary 
+- Words
 # Stuff to Learn
 - Scriptures
 	- Vedas (Tier 1)
@@ -22,7 +33,7 @@ Nibandhas (Digests)
 
 Shastras, Sutras, Tantras, Upavedas, Stotras, Stutis
 
-## Shastras, Tantras, Upavedas, Storas, Srutis
+## Shastras, Tantras, Upavedas, Stotras, Srutis
 
 ## Sutras, Shlokas, Anuvakhya, Vakhya
 A Sutra is a condensed rule which succinctly states the message

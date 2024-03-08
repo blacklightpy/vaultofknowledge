@@ -6,6 +6,35 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali
 - "Dharmic" Hinduism or "daily morality", based on Karma and upon societal norms such as Vivāha (Hindu marriage customs)
 - Bhakti or devotionalist practices
+
+---
+# ToC
+- Types
+- Ideas
+	- Sampradayas
+	- Scriptures
+	- Books
+	- Caste Divisions
+	- Types of Marriages
+- Outline
+	- Concepts
+	- Purusarthas
+	- Niti
+	- Schools (Astika/Nastika)
+	- Vedas / Divisions
+	- Upavedas
+	- Vedanga
+	- Other Books
+	- Sangam Literature
+	- Deities (Gods, Godesses)
+	- Practices
+	- Varnashramas
+	- Sanskaras
+	- Festivals
+	- Other Concepts (idk what)
+	- Related
+- Gunas?
+---
 # Ideas
 Para Brahman is beyond all descriptions and conceptualisations. It is formless (devoid of Maya) and is eternal.
 
