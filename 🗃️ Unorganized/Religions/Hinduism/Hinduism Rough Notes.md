@@ -1,3 +1,7 @@
+# ToC
+- Stuff to Learn (An Index)
+	- Shastras, Tantras, Upavedas, Stotras, Srutis
+	- Sutras, Shlokas, Anuvakhya, Vakhya
 # Stuff to Learn
 - Scriptures
 	- Vedas (Tier 1)
@@ -20,7 +24,7 @@ Shastras, Sutras, Tantras, Upavedas, Stotras, Stutis
 
 ## Shastras, Tantras, Upavedas, Storas, Srutis
 
-## Sutras, Sholkas, Anuvakhya, Vakhya
+## Sutras, Shlokas, Anuvakhya, Vakhya
 A Sutra is a condensed rule which succinctly states the message
 A Shloka is a verse that conveys the complete message and is structured to certain rules of musical meter
 An Anuvakhya is an explanation of the reviewed text
