@@ -9,11 +9,11 @@ In Religion:
 - [[Hinduism Rough Notes]]
 ## Component Notes
 - [[Vedas]]
-- [[Vedangas]]
-- [[Vedic Shakhas]]
+	- [[Vedangas]]
+	- [[Vedic Shakhas]]
 - [[Sutras]]
-- [[Dharma Sutras]]
-- [[Dharma Shastra]]
+	- [[Dharma Sutras]]
+	- [[Dharma Shastra]]
 - [[Puranas]]
 - [[Mahabharata]]
 ## Culture

@@ -201,22 +201,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3b8c85d1bedbe2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -291,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Universal Translator.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
               }
             }
           },
@@ -384,12 +371,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "e3232100cc732118",
+                "id": "2f06b5294542fd79",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                    "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -409,9 +396,16 @@
       }
     ]
   },
-  "active": "e3b8c85d1bedbe2a",
+  "active": "2f06b5294542fd79",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
+    "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
+    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🤠 Personal/Project Ideas/Universal Translator.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
@@ -419,7 +413,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗺️ World Exploration/Culture/Zen.md",
     "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
-    "🗃️ Unorganized/General Notes/Universal Translator.md",
     "🗃️ Unorganized/General Notes/Free Hardware Projects.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
@@ -431,12 +424,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Opinions.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Data.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Current Affairs.md",
-    "🤠 Personal/AVIASYS Related/Areas to Talk About.md",
-    "🗃️ Unorganized/Religions/Hinduism/Evils in Hinduism 2 - Marrying Foreigners is Prohibited.md",
-    "🗃️ Unorganized/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Android Games I Like.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
