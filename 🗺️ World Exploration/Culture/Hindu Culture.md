@@ -94,7 +94,6 @@ Niti
 Schools (Astika/Nastika)
 Vedas / Divisions
 Upavedas
-\* Hindu Ohm Symbol
 Vedanga
 Other Books
 Sangam Literature
@@ -223,7 +222,6 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 - Literary Works
 	- Yoga Vasistha
 
-	
 - Sangam Literature	
 	- Tirumurai
 	- Divya Prabandham

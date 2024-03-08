@@ -43,12 +43,12 @@ His followers are Shankaracharyas. (Acharya means teacher, so Shankaracharya mea
 
 He set up four monasteries (called mathas or pithams) where realised men would teach.
 
-| Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                                 | Veda         | Sampradaya | Present Shankaracharya                                                                   |
-| ----------------- | --------- | -------------------------- | --------------------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
-| Padmapada         | East      | Puri Govardhanmatha        | Pitham 	Prajnanam brahma (Consciousness is supreme being) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
-| Suresvara         | South     | Sringeri sarada Pitham     | Aham brahmasmi (I am the supreme being)                   | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
-| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tattvamasi (That thou art)                                | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
-| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayamatmanam brahma (This Atman is supreme being)          | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
+| Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                                     | Veda         | Sampradaya | Present Shankaracharya                                                                   |
+| ----------------- | --------- | -------------------------- | ------------------------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
+| Padmapada         | East      | Puri Govardhanmatha        | Pitham(?) 	 Prajnanam brahma (Consciousness is supreme being) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
+| Suresvara         | South     | Sringeri sarada Pitham     | Aham brahmasmi (I am the supreme being)                       | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
+| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tattvamasi (That thou art)                                    | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
+| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayamatmanam brahma (This Atman is supreme being)              | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
 
 # Verses
 Purusa Sukta:

@@ -30,6 +30,10 @@
 		- Modern Works
 
 - Mahavakyas (Great Words from the Vedas)
+	- Pitham(?) Prajnanam brahma (Consciousness is supreme being)
+	- Aham brahmasmi (I am the supreme being)
+	- Tattvamasi (That thou art)
+	- Ayamatmanam brahma (This Atman is supreme being)
 - Vedic Disciplines (Vedangas)
 	- Siksha (Phonetics)
 	- Chandas (Prosody / Poetic Metre)

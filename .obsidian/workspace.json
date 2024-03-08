@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md"
               }
             }
           },
@@ -461,7 +461,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -474,15 +475,15 @@
       }
     ]
   },
-  "active": "e3232100cc732118",
+  "active": "11ba25d75d5067fc",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+    "🗃️ Unorganized/Religions/Studying a Religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Castes in Kerala.md",
     "🗃️ Unorganized/General Notes/Universal Translator.md",
     "🗃️ Unorganized/General Notes/Free Hardware Projects.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
