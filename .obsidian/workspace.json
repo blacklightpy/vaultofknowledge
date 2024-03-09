@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Patchbay.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Patchbay.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Patchbay.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -410,10 +410,11 @@
       }
     ]
   },
-  "active": "7ff210689d466a52",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/General Notes/Audio Patchbay.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
@@ -437,7 +438,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/smali.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Run Time.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Dalvik.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
