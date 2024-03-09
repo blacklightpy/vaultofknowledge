@@ -80,7 +80,7 @@ Other roles of the electrolyte include:
 > 	- Limiting Molar Conductivity
 > 	- Degree of Dissociation
 > 	- Passivity
-> - [Royal Society of Chemistry Notes of Lithium Salts for Advance Lithium Batteries](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c5ee01215e)
+> - [Royal Society of Chemistry Notes of Lithium Salts for Advanced Lithium Batteries](https://pubs.rsc.org/en/content/articlelanding/2015/ee/c5ee01215e)
 > 	- Shows structures
 ### Example of organic solvents
 #### Cyclic Esters

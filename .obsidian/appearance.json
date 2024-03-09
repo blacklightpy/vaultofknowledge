@@ -1,11 +1,12 @@
 {
   "baseFontSize": 15,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "translucency": false,
   "cssTheme": "Typewriter",
   "accentColor": "",
   "nativeMenus": false,
   "baseFontSizeAction": true,
   "textFontFamily": "Calibri",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "Calibri",
+  "monospaceFontFamily": ""
 }
