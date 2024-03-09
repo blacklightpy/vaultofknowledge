@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -396,15 +396,19 @@
       }
     ]
   },
-  "active": "2f06b5294542fd79",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
+    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
+    "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🤠 Personal/Project Ideas/Universal Translator.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
@@ -420,10 +424,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/smali.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Run Time.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Dalvik.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel-Palestine Peace Ideas.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Opinions.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Data.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

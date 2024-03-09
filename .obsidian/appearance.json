@@ -2,9 +2,10 @@
   "baseFontSize": 15,
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Vileplume",
+  "cssTheme": "Typewriter",
   "accentColor": "",
   "nativeMenus": false,
   "baseFontSizeAction": true,
-  "textFontFamily": ""
+  "textFontFamily": "Calibri",
+  "interfaceFontFamily": ""
 }
