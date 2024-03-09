@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗺️ World Exploration/Culture/Zen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗺️ World Exploration/Culture/Zen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
+                "file": "🗺️ World Exploration/Culture/Zen.md"
               }
             }
           },
@@ -381,8 +381,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "876ab032e02f4e8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗺️ World Exploration/Culture/Zen.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -395,13 +409,13 @@
       }
     ]
   },
-  "active": "2f06b5294542fd79",
+  "active": "876ab032e02f4e8b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Photopic Vision.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
     "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
