@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Patchbay.md",
+                "file": "🗃️ Unorganized/General Notes/Audio Mixer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Patchbay.md",
+                "file": "🗃️ Unorganized/General Notes/Audio Mixer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Patchbay.md"
+                "file": "🗃️ Unorganized/General Notes/Audio Mixer.md"
               }
             }
           },
@@ -389,7 +389,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🗃️ Unorganized/General Notes/Audio Patchbay.md",
+                    "file": "🗃️ Unorganized/General Notes/Audio Mixer.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -412,8 +412,10 @@
   },
   "active": "7ff210689d466a52",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Audio Patchbay.md",
+    "🗃️ Unorganized/General Notes/JACK Audio Connection Kit.md",
+    "🗃️ Unorganized/General Notes/Audio Mixer.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
@@ -436,8 +438,6 @@
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android App Frameworks.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/smali.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Run Time.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
