@@ -111,11 +111,11 @@ These are in the order of superiority.
 - **Gandharva Vivaha**: A **love marriage**, in which the bride and groom get married based on mutual consent without any other considerations. This is considered inferior than the above forms of marriages, as having sex is seen as the sole goal.
 - **Asura Vivaha**: In this type of marriage, **lack of consent** from either sides, is **replaced** by compensation with money or in the form of **dowry** or **gift**. This type of marriage is like a **business transaction**. Mostly, the groom is not suitable for the girl and might offer a huge sum of money as a compensation.
 - **Rakshasa Vivaha**: Groom has the bride's consent but not the consent of the girl's family. To marry a woman by abduction or by eloping, against the wishes of the parent is Rakshasa vivaha. The groom may also win over the bride's family in a battleground.
-	- Eloping counter (From Wikipedia):
+	- Counter to inclusion of eloping (From Wikipedia):
 		- "This form of a marriage is different from answering the marriage proposal of a bride, and eloping with her during her svayamvara, the ancient Indian ceremony where a bride chooses her groom from an approved assembly of suitors. For instance, in Hindu mythology, when the deity Krishna elopes with the princess Rukmini during her svayamvara, it is not a form of Rakshasa marriage; while he does take her away in his chariot and fights her attacking family members, she had sought to marry him, and hence consent was present."
 - **Paisachika Vivah**: This is considered as the most inferior type of marriage as the bride is taken away by force as a wife. In this type of marriage, neither the girl's consent nor the family's consent is honored.
 ---
-# Modern Reforms
+# Wikipedia Table
 
 Concepts
 Purusarthas
