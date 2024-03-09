@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Mixer.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Mixer.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Audio Mixer.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md"
               }
             }
           },
@@ -382,41 +382,27 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "7ff210689d466a52",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/General Notes/Audio Mixer.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 652,
+        "x": 23,
         "y": 79,
-        "width": 605,
+        "width": 1234,
         "height": 922,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "7ff210689d466a52",
+  "active": "edccef2194c0b86a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Audio Patchbay.md",
-    "🗃️ Unorganized/General Notes/JACK Audio Connection Kit.md",
-    "🗃️ Unorganized/General Notes/Audio Mixer.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/General Notes/Audio Patchbay.md",
+    "🗃️ Unorganized/General Notes/Audio Mixer.md",
+    "🗃️ Unorganized/General Notes/JACK Audio Connection Kit.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
