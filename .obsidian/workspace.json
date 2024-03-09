@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md"
               }
             }
           },
@@ -381,8 +381,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "e7247544cc50b958",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -395,8 +409,12 @@
       }
     ]
   },
-  "active": "a0ed843398b6d55d",
+  "active": "e7247544cc50b958",
   "lastOpenFiles": [
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Photopic Vision.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
@@ -419,10 +437,6 @@
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🤠 Personal/Project Ideas/Universal Translator.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
