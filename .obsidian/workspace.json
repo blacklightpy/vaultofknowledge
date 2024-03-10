@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md"
               }
             }
           },
@@ -382,8 +382,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "bb7c4e29e1bec144",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -396,11 +410,11 @@
       }
     ]
   },
-  "active": "2f06b5294542fd79",
+  "active": "bb7c4e29e1bec144",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗺️ World Exploration/Culture/Zen.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
