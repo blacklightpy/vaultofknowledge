@@ -2,6 +2,14 @@ In Culture:
 - [[Hindu Culture]]
 
 In Religion:
+
+## Temp rough (delete this section)
+- Hinduism
+	- Buddhism
+		- Sects
+			- Subsects (iterate)
+	- Jainism
+		- Sects
 ## Rough
 - [[Hinduism Index]]
 - [[Wikipedia Hinduism Organization]]
