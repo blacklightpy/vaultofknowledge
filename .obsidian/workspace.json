@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md"
               }
             }
           },
@@ -382,8 +382,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "20d4a94b62327496",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -396,9 +410,10 @@
       }
     ]
   },
-  "active": "2f06b5294542fd79",
+  "active": "20d4a94b62327496",
   "lastOpenFiles": [
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/General Notes/Audio Patchbay.md",
@@ -423,7 +438,6 @@
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
     "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
     "🗃️ Unorganized/General Notes/Creating a Photolithography Machine.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
