@@ -191,11 +191,13 @@ These are not listed in the Void Linux templates, but I found them elsewhere as 
 
 **Runtime dependencies:**
 
-| Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
-| --- | --- | --- | --- | --- | --- | --- |
-| Python 3 Matplotlib Module |  |  |  |  |  |  |
-| Python 3 PySide2 WebEngine Module |  |  |  |  |  |  |
-| Python 3 Pivy Module |  |  |  |  |  |  |
+| Package Name                      | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE | Remarks |
+| --------------------------------- | ---------- | ---------- | --------------- | ------ | -------- | ------- |
+| Python 3 Matplotlib Module        |            |            |                 |        |          |         |
+| Python 3 PySide2 WebEngine Module |            |            |                 |        |          |         |
+| Python 3 Pivy Module              |            |            |                 |        |          |         |
+
+
 #### Additional Dependencies
 
 | Package Name | Void Linux | Arch Linux | Ubuntu / Debian | Fedora | openSUSE Tumbleweed | Remarks | Category |
