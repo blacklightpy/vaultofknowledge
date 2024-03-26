@@ -8,7 +8,7 @@ Kubernetes was originally developed by Google, was was later donated to Cloud Na
 - ReplicaSets
 - Deployments
 - Namespaces
-- Kubernetes
+- Kubernetes System
 - Servers
 
 ### Implementations:

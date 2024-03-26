@@ -201,9 +201,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08b4b131461af0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing/How are Cotton clothes made.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5613a3af216401f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md"
+                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
               }
             }
           },
@@ -334,12 +359,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -383,12 +408,90 @@
                 }
               },
               {
-                "id": "20d4a94b62327496",
+                "id": "8426c1d3e5f8a6a0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
+                    "file": "🗃️ Unorganized/General Notes/How is software installed on Linux.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f575c1815ee8d095",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Making the Terminal Emulator Command Shell more Intuitive.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "509a54a79255e541",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "35acccf4724df76c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Styling in Qt and KDE.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "339f599fca566f28",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🗃️ Unorganized/General Notes/Nanoparticles.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "639815230efcba77",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🤠 Personal/Project Ideas/Blacklight OS Philosophy.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ac563594882bed72",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -396,47 +499,47 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 7
           }
         ],
         "direction": "vertical",
-        "x": 23,
-        "y": 79,
-        "width": 1234,
-        "height": 922,
+        "x": 655,
+        "y": 62,
+        "width": 596,
+        "height": 933,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "20d4a94b62327496",
+  "active": "a0ed843398b6d55d",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Studying FreeCAD Source Code.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Dalton's Law of Partial Pressures.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
-    "🗃️ Unorganized/General Notes/Audio Patchbay.md",
-    "🗃️ Unorganized/General Notes/Audio Mixer.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/PulseAudio.md",
-    "🗃️ Unorganized/General Notes/PipeWire.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux.md",
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗺️ World Exploration/Culture/Zen.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Photopic Vision.md",
-    "🗃️ Unorganized/General Notes/Quantized Electromagnetic Field Tensor.md",
-    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
-    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
-    "🗃️ Unorganized/General Notes/JACK Audio Connection Kit.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🗃️ Unorganized/General Notes/How to design a OS File System Hierarchy.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
+    "🗃️ Unorganized/General Notes/Linux Pro.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Basics.md",
+    "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing/How are Cotton clothes made.md",
+    "🤠 Personal/Project Ideas/Blacklight OS Philosophy.md",
+    "🗃️ Unorganized/General Notes/Difficulty of Making Analog Computers.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing/Textiles Manufacturing.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
+    "🗃️ Unorganized/General Notes/How is software installed on Linux.md",
+    "🗃️ Unorganized/General Notes/Women's Clothing.md",
+    "🗃️ Unorganized/General Notes/Making the Terminal Emulator Command Shell more Intuitive.md",
+    "🗃️ Unorganized/General Notes/Styling in Qt and KDE.md",
+    "🗃️ Unorganized/General Notes/Nanoparticles.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/C Libraries.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
+    "🗃️ Unorganized/General Notes/Android Bootup Process.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
+    "🔮 World Building/Art of Creation/History of Creating.md",
+    "🗃️ Unorganized/General Notes/Digital Audio Workstation.md",
+    "🗃️ Unorganized/General Notes/Audio Plugins.md",
+    "🗃️ Unorganized/General Notes/Components of an Operating System.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

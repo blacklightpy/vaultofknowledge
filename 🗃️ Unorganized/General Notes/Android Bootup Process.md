@@ -1,0 +1,31 @@
+- Bootloader
+	- See if a key is pressed (Fastboot / Recovery / Normal)
+	- Kernel (usually with an initrd) is loaded into RAM, generally from the `boot` partition
+- Kernel
+	- Core kernel initialization
+		- Memory and I/O areas are setup
+		- Interrupts are started
+		- Process Table is initialized
+	- Driver initialization
+	- Kernel daemons (threads) are started
+	- Root filesystem is mounted
+	- The first user-space process is started (`/init`)
+- init
+	- Reads and processes `init.rc` and `init.<machine>.rc`
+	- Dalvik / ART VM is started (Zygote)
+	- Several daemons are started
+		- rild (Radio Interface Link Daemon)
+		- vold (Volume Daemon - media volumes, not audio)
+	- `system_server` starts
+- System Server
+	-  Initializes several core services
+		- A library is loaded to initialize interfaces to native services
+		- Then Java-based core services are initialilzed in `ServerThread::run()` in `SystemServer.java`
+- The Activity Manager starts core applications (which are Dalvik applications)
+	- `com.android.phone` - Phone app
+	- `android.process.acore` - System UI and a few core apps
+- Other processes are also started by `/init`
+	- `adb`
+	- `mediaserver`
+	- `dbus-daemon`
+	- `akmd`

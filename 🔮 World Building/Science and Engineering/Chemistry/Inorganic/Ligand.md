@@ -1,0 +1,1 @@
+A ligand is a molecule or ion that binds to a central metal atom or ion to form a coordination complex.

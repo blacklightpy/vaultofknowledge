@@ -33,5 +33,7 @@ runC, container-d, CRI-O, Kubernetes CRI
 https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci/#cri-o
 Sandboxes
 -----------
-Flatpaks, Snap, chroot, Systemd-nspawn, libvirt-sandbox
-Chroot Jail, FreeBSD Jail
+**Kernel Level (BSD):** FreeBSD Jails
+**Kernel Level (Linux):** chroot Jails
+**Userland Level (Linux):** Flatpaks, Snap, Systemd-nspawn
+**Hypervisor:** libvirt-sandbox

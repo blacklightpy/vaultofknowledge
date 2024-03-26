@@ -1,0 +1,265 @@
+# Oldest
+- Stone Tools
+- Bone and Antler Tools
+- Fire
+- Clay Tools
+- Bricks
+- Wood Works
+- Agriculture
+- Copper
+- Bronze
+- Metal Tools
+- Molten Iron Tools
+- Glass
+- Ceramic
+- Starch Paste
+- Paper (Papyrus)
+- Natural Gum
+- Animal Glue
+- Pigments
+- Rubber
+# Old
+- Static Electricity (Rubbing amber, a tree resin)
+- Early Balloons
+- Kites
+- Lighthouses
+- Screw Pump
+- Water Wheel
+- Force Pump (by Cteisbo, Father of Pneumatics)
+- Steam Power (Hero of Alexandria)
+- Vending Machine (Hero of Alexandria)
+- Heron's Formula (Hero of Alexandria)
+- Heron's Fountain (Hero of Alexandria)
+- Limestone
+- Cement
+- Concrete (Roman Pozzolana)
+- Paper (Ts'ai Lun)
+- Clockwork Automata
+- Gear (Antikythera Mechanism)
+# Medieval
+- Windmills
+- Gunpowder and Fireworks
+- Eyeglasses
+- Flushing Handwash (al Jazari)
+- Rockets
+# 15th Century
+- Printing Press
+- Parachute Sketch
+# 16th Century
+- Cartography
+- Compound Microscope
+- Flush Toilets
+- Thermometer
+# 17th Century
+- Thermometer (Galileo)
+- Geomagnetism (William Gilbert)
+- Telescope (Galileo)
+- Microscope (by Hooke and Leeuwenhoek)
+- Barometer (Mercury) (Toricelli, Galileo's Student)
+- Pendulum Clock (Huygens, based on Galileo's teachings)
+- Laws of Motion and Gravitation (Newton)
+- Piano (by Cristofori)
+# 18th Century
+- Horse Drawn Seed Drill (Jethro Tull)
+- Binary Number System (Leibniz)
+- Steam Engine (Newcomen)
+- Internal Combusion Engine Theory (Huygens)
+- Zinc Extraction Process (William Champion)
+- Sextant (Campbell)
+- Chronometers / Seafaring Clocks (Harrison)
+- Discovery of Zeolites (Cronstedt)
+- Speech Synthesizer (Kempelen)
+- Iron Bridge (Darby III)
+- Pyrometer (Wedgewood)
+- Hot Air Balloon (Michel and Montgolfier)
+- Discovery of Titanium (Gregor)
+# 19th Century
+- Battery (Volta)
+- Punched Cards (Jacquard)
+- Automated Cloth-Weaving Loom (Jacquard)
+- Paper Making Machine (Henry and Sealy)
+- Electrolysis (Davy)
+- Long Range Military Rockets (Congreve)
+- Electric Arc Lamp (Davy)
+- Steam Locomotive (Stephenson)
+- Stirling Engine
+- Electric Generators (Faraday)
+- Primitive Electric Motors (Faraday)
+- Carnot Engine Theory (Carnot)
+- Photographs (Niepce)
+- Electric Motor (Sturgeon)
+- Daguerrotype Photographs (Daguerre)
+- Negatives (Talbot)
+- Telegraph (Wheatstone and Cooke)
+- Ship Propellers (Smith and Ericsson)
+- Vulcanized Rubber (Goodyear)
+- Conservation of Energy (Joule)
+- Chemical Fax Machine (Bain)
+- Hydropower Water Turbine (Francis)
+- Steel Manufacturing Process (Bessemer)
+- Pasteurization (Pasteur)
+- Mechanical Fax Machine / Pantelegraph (Caselli)
+- Internal Combustion Engine (Lenoir and Otto)
+- Laws of Electromagnetism (Maxwell)
+- Fire Extinguishers
+- Chewing Gum (Anna and Adams)
+- Elevator with Safety Brake (Otis)
+- Reinforced Concrete (Monier)
+- Modern Typewriter (Sholes)
+- QWERTY Keyboard (Sholes)
+- Wind Tunnel (Wenham)
+- Telephone (Bell)
+- Phonograph (Edison)
+- Pelton Wheel Turbine (Pelton)
+- Flare Gun / Very Piston (Very)
+- Incandescent Electric Lamp (Edison)
+- Piezoelectric Effect (Pierre and Curie)
+- Power Plants (Edison)
+- Autoclave / Steam Fertilizing Machine (Chamberland)
+- Aluminium Manufacturing Process (Hall and Heroult)
+- Silver, Gold and Copper Mining Process (Everson)
+- Ocean Thermal Energy Conversion (d'Arsonval)
+- Plastic Photographic Filem (Eastman)
+- Steam Turbine (Parsons)
+- Gasoline Engine Car (Benz)
+- Dishwasher (Cochran)
+- Liquid Crystals (Reinitzer)
+- Pneumatic Tires (Dunlop)
+- AC Electric Induction Motor (Tesla)
+- Optical Pyrometer (Morse)
+- Movie Projectors (Joseph and Lumiere)
+- Diesel Engine (Diesel)
+- Space Rocket Theory (Tsiolkovsky)
+- Radio Wave Message (Lodge)
+- X-Rays (Rontgen)
+- Electric Bicycle (Bolton)
+- Impulse Steam Turbine (Curtis)
+- Remote Control (Tesla)
+# 20th Century
+- Cross Atlantic Radio (Marconi)
+- Vacuum Cleaner
+- Airplane (Wright Brothers)
+- Photoelectric Effect (Einstein)
+- Chainsaw (Bens)
+- Air Conditioner (Carrier)
+- Chromatography (Tswett)
+- Bakelite (Synethic Plastic) (Baekeland)
+- Electric Clothes Washer (Fisher)
+- Electrostatic Smoke Precipitator / Smokestack Pollution Scrubber (Cottrell)
+- Affordable Car (Ford)
+- Glass Electrode (Haber and Klemensiewicz)
+- Primitive Jet Plane (Coanda)
+- Lithium Ion Rechargeable Battery Theory (Lewis)
+- Geiger Counter / Radioactivity Detector (Geiger)
+- Space Rocket Construction Theories (Goddard)
+- Mass Spectrometer (Aston)
+- Mechanical Television (Baird)
+- Electronic Television (Farnsworth)
+- Liquid Fueled Space Rocket Theory (Goddard)
+- Optical Character Recognition Scanners (Tauschek and Handel)
+- Magnetron (Hull)
+- Robot Theory (Novel) (Capek and his brother)
+- Polygraph / Lie Detector (Larson)
+- Coolant Chemicals (Midgley)
+- Electric Refrigerator
+- Bubble Gum (Deimer)
+- Jet Engines (Whittle and Ohain)
+- Colour Television (Goldmark)
+- Ballpoint Pen (Laszlo and Georg)
+- Solar Powered House (Telkes)
+- Neoprene Synthetic Rubber (Carothers)
+- Nylon (Carothers)
+- Radar (Watt)
+- Electronic pH meter (Beckman)
+- Xenon Flash Lamp (for high speed photography) (Edgerton)
+- Discovery of Shape Memory Effect in a Gold-Cadmium Alloy (Olander)
+- Magnetic Reed Switch (Laptop Lid State Detector) (Elwood)
+- Xerography / Photocopying (Carlson)
+- Teflon Nonstick Plastic Coating (Plunkett)
+- Helicopter (Sikorsky)
+- Comapct Magnetron (For airplane radar navigation) (Randall and Boot)
+- Nuclear Chain Reactor (Fermi)
+- Memex Document Store Concept (pioneer of electronic books and Internet)
+- Communications Satellite Concept (Clarke)
+- Transistor (Brattain and SHockley)
+- Barcodes (Silver and Woodland)
+- Maser / Microwave Laser (Townes and Arthur)
+- Practical Renewable Energy (Ovshinksy)
+- Flywheels as Regernative Breaks
+- Microwave Oven (Spencer)
+- Imitation Game / Turing Test (Alan Turing)
+- Automobile Airbag (Hetrick and Linderer)
+- Fiber Optics (Kapany)
+- TV Remote Control (Polley)
+- Commercial Nuclear Power
+- AI Concept (McCarthy)
+- Sputnik Space Satellite
+- Fiber Optic Gastroscope (Crutiss, Hirschowitz and Peters)
+- IC (Kilby and Noyce)
+- DAC-1 CAD system (IBM and General Motors)
+- Ski-Doo Snowmobile (Bombardier)
+- Ruby Laser (Maiman)
+- Light Sensitive Glass / Photochromic Glass (Corning Glass)
+- LED (Holonyak)
+- Sketchpad CAD (Sutherland)
+- SABRE Airline Ticker Reservation System (IBM)
+- Portable Defibrillator (Pantridge)
+- Kevlar (Kwolek)
+- DRAM (IBM)
+- Vacuum Fluorescent Display (VFD)
+- Molecular Beam Epitaxy (Cho, Arthur)
+- Solar Power Station
+- GORE-TEXT Waterproof Material (by stretching Teflon) (Gore)
+- Electronic Book Concept (Kay)
+- CCD chips (Boyle, Smith)
+- Moon Landing
+- Computer Mouse (Enegelbart)
+- Compact Discs (Russell)
+- E-Ink (Xerox PARC)
+- Microprocessor (Ted Hoff)
+- Mobile phone (Cooper)
+- Ethernet (Metcalfe)
+- Public Key Cryptography (Diffie and Hellman)
+- X-10 Smart Home (Pico Electronics)
+- Apple I (Wozniak and Jobs)
+- Bagless, Cyclonic Vacuum Cleaner (Dyson)
+- Quantum Computer Theory (Bennet, Beioff, Feynman, Deutsch)
+- Portable Music Player (Morita)
+- IBM PC
+- Space Shuttle
+- Laser Eye Surgery for Cataracts (Bath)
+- Flash Memory (Masuoka)
+- Quantum Dots (Ekimov, Brus)
+- Commercial CDs (Sony and Philips)
+- DLP Projection (Texas Instruments)
+- WWW (Berners-Lee)
+- MEGA-1 Radio Controlled Wristwatch (Junghans)
+- Linux (Torvalds)
+- Mathematics for iris scanning (Daugman)
+- QR Codes (Hara)
+- VoIP (Cohen, Haramaty)
+- Online Radio (Broadcast.com)
+- Online Auction (eBay)
+- HDTV (WRAL-HD)
+- Wi-Fi (IEEE)
+# 21st Century
+- Apple iPod
+- Energy Absorbing D3O Plastic (Palmer)
+- Online Encyclopedia (Wikipedia)
+- BitTorrent File Sharing
+- Self-Healing Materials (White, Sottos)
+- Roomba Vacuum Cleaning Robot (iRobot Corporation)
+- Electronic Voting
+- Graphene (Geim, Novoselov)
+- OLPC Program (MIT)
+- e-Reader (Amazon Kindle)
+- Touchscreen cellphone (Apple iPhone)
+- Touchscreen Tablet Computer (Apple iPad)
+- 3D TV
+- Hyprloop Tube Transport System (Elon Musk)
+- Supercomputers 30 times less powerful than brains
+- Molecular Machine Construction (Nobel Prize in Chemistry 2016)
+- Quantum Computer (Google)
+- Solution to Protein Folding (Google DeepMind AI)
+- SLS Rocket (NASA)
+- AI Integrated Search Engines

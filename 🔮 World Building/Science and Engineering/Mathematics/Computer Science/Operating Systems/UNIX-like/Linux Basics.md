@@ -1,6 +1,6 @@
 [[Linux Distros]] [[Linux]]
 
-## Users
+# Users
 ### Root
 
 root is the name of the system administrator account.
@@ -11,7 +11,7 @@ In modern UNIX systems, SELinux or Apple's SIP (aka rootless system), even root 
 
 NOTE: For the rest, read this answer: https://unix.stackexchange.com/a/291467
 
-## Groups
+# Groups
 
 # File System Heirarchy
 

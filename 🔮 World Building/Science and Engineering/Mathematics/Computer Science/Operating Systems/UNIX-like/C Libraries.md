@@ -7,3 +7,25 @@
 - Newlib
 - picolibc
 - klibc
+
+## Features
+- Data types
+- Character classification
+- Strings
+- Mathematics
+- File input/output
+- Date/time
+- Localization
+- Memory allocation
+- Process control
+- Signals
+- Alternative tokens
+### Miscellaneous headers
+- <assert.h>
+- <errno.h>
+- <setjmp.h>
+- <stdarg.h>
+- POSIX Threads
+	- Multithreading
+	- Networking
+	- Regular Expressions

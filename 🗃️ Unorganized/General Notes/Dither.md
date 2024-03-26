@@ -1,0 +1,2 @@
+- Used to create [[halftones|halftone]] imagery
+- Used to compress audio psychoacoustically
