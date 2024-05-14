@@ -494,7 +494,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -512,7 +513,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ac185b4f7daa803a",
+  "active": "9f70af76281fdc1e",
   "lastOpenFiles": [
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
     "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
