@@ -1,4 +1,6 @@
 # Science
+## Regarding Lightning
+- I've made a playlist on YouTube, titled Lightning
 ## Regarding Electromagnetism and Electricity
 - I've made a playlist on YouTube, titled Veritasium's Electricity Flow Video
 ## Particle Physics and Field Theories in General

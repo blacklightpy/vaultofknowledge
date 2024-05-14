@@ -33,7 +33,7 @@ Concepts:
 - Linux Archiving Formats: TAR, gzip, .tgz, ZIP
 
 - Linux DAWs: Ardour, MusE, ZRythm, LMMS, QTractor
-- CAD/CAM/CAE Software: Code_Aster (FEA), SALOME (Geometry and Meshing; Includes SHAPER CAD, PARAVIS, etc.), OpenFOAM, BARAM, CalculiX, FreeCAD, Elmer-FEM | Simscale uses Code_Aster and CalculiX for FEM and OpenFOAM for CFD | ANSYS/SimScale for ease of use | SALOME-Meca (Salome+Code_Aster), Salome CFD, Salome Hydro, TRUST
+- CAD/CAM/CAE Software: Code_Aster (FEA), SALOME (Geometry and Meshing; Includes SHAPER CAD, PARAVIS, etc.), OpenFOAM, BARAM, CalculiX, FreeCAD, Elmer-FEM, MOOSE | Simscale uses Code_Aster and CalculiX for FEM and OpenFOAM for CFD | ANSYS/SimScale for ease of use | SALOME-Meca (Salome+Code_Aster), Salome CFD, Salome Hydro, TRUST
 - Mathematics Software: FORTRAN / Octave / MATLAB Symbolic Math Toolbox / SciLab / Maple / Mathcad / Mathematica / Anaconda; SageMath; Lean
 
 - Intel: Atom, Celeron (Blank, N, J, G), Pentium (Blank,Pro,D,M,Silver, Gold), Core (2,i3,i5,i7,i9), Xeon (Blank,LV,MV,MP,ULV,L,X,D,E,W,E3,E5,E7,Bronze,Silver,Gold,Platinum) | AMD: AMD, A-Series (Blank, PRO A-Series), E-Series, FX-Series, Athlon (Blank, Gold, Gold PRO), Ryzen ((3,5,7,9)(Blank, PRO)), Embedded, Threadripper (Blank, PRO), EPYC

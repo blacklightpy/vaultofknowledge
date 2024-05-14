@@ -1,0 +1,4 @@
+- Racism
+	- Read about Black History in USA
+- Military Industrial Complex
+	- "Warrior Castes" by familial military service

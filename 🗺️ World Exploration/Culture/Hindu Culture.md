@@ -48,17 +48,17 @@ Saguna - All good attributes
 	- Para Brahman = Saguna Brahman (All good attributes)
 - In Vishista Dvatia Vedanta
 	- Para Brahman = Saguna Brahman (All good attributes)
-- In Vaishnavism, Shaivism, Shaktism, Ganapataya, Kaumaram
+- By Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship
 	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
 ## Hindu denominations / sampradayas
-- Shaivism (Shiva is both Nirguna and Saguna Para Brahman)
-- Vaishnavism
-- Shaktism
+- Paramashiva Worship
+- Vishnu Worship
+- Adiparashakti Worship
 - Advaita Vedanta
 - Smartism (Advaita Vedanta + bhakti tradition)
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
-- Ganapataya
-- Kaumaram
+- Ganapati Worship
+- Kartikeya Worship
 ## Scriptures
 - Srutis (eternal words)
 	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)

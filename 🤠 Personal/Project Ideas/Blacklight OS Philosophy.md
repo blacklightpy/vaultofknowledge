@@ -64,3 +64,23 @@ What I want my OS to do:
 - Ice Cream Theory Software Market
 
 Ice Cream Theory welcomes every project, but we would like to create our own reference implementations and make it the best. Nevertheless, this is not a product, and the sources are free for everyone to build upon.
+## Update Policy
+
+We do not believe in time, so the updates will be of the form of rolling releases, and compatibility is almost always attempted to be maintained for a given line of OSes.
+
+So any update will be named according to the date for reference, or it could simply be a number for dateless reference. But since we do not like time, it can instead be named based on events perhaps, as that is what would truly matter to us. If we've forgotten the events, there would be no reason to remember the date, so that we can relate to the time.
+
+So it will be like Blacklight OS Update 54 (Mistral 0.2 Release)
+
+Although an OS line will remain almost the same, it is possible that some update, such as a fundamental change in the ways of operation will make the programs incompatible, hence the compatibility breaking updates will have to be distinguished by a revision marker.
+
+So an update will be like Blacklight OS Revision 3 Update 47 (Israel-Palestine)
+## Name Change Policy
+
+We do not like to distinguish between natural laws, medicines, pliers and other inventions of engineering.
+
+We would like to be able to describe a generic operating system, with all the possible features.
+
+While Ice Cream Theory defines the possible blocks, Blacklight OS is a select combination of such blocks.
+
+If at all Blacklight OS ever becomes Ice Cream OS, it will carry over to the names of the previous references to Blacklight OS too, so that Blacklight OS Revision 3 July 2024 will be referred to as Ice Cream OS Revision 3 July 2024.

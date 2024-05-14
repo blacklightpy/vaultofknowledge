@@ -1,0 +1,753 @@
+# KDE Plasma
+
+- Shell
+	- plasma-desktop
+- Libraries
+- Programs
+	- 
+
+## Unorganized (from Chimera Repos)
+
+- contrib/libqalculate: new package (5.1.1)
+- [HACK] cbuild: fix update-check defaults for KDE packages 
+
+- contrib/qca-qt6: new package (2.3.8)
+- [WIP] contrib/qt6-qtspeech: new package (6.7.0)
+- [WIP] contrib/qt6-qtsensors: new package (6.7.0)
+- contrib/extra-cmake-modules: start running most tests, adopt
+- contrib/plasma-wayland-protocols: adopt
+- contrib/kwindowsystem: run more tests, CFI note, adopt 
+- contrib/kcoreaddons: new package (6.1.0)
+- contrib/polkit-qt6: new package (0.200.0)
+- contrib/kauth: new package (6.1.0)
+- contrib/kcrash: new package (6.1.0)
+- contrib/kconfig: new package (6.1.0)
+- contrib/plasma-activities: new package (6.0.4)
+- contrib/karchive: new package (6.1.0)
+- contrib/kcodecs: new package (6.1.0)
+- contrib/kguiaddons: new package (6.1.0)
+- contrib/ki18n: new package (6.1.0)
+- contrib/kwidgetsaddons: new package (6.1.0)
+- contrib/kcolorscheme: new package (6.1.0)
+- contrib/kconfigwidgets: new package (6.1.0)
+- contrib/kglobalaccel: new package (6.1.0)
+- contrib/kiconthemes: new package (6.1.0)
+- contrib/kservice: new package (6.1.0)
+- contrib/solid: new package (6.1.1)
+- contrib/kdbusaddons: new package (6.1.0)
+- contrib/kbookmarks: new package (6.1.0)
+- contrib/kcompletion: new package (6.1.0)
+- contrib/kitemviews: new package (6.1.0)
+- contrib/knotifications: new package (6.1.0)
+- contrib/kjobwidgets: new package (6.1.0)
+- contrib/kwallet: new package (6.1.0)
+- contrib/kio: new package (6.1.0)
+- contrib/kpackage: new package (6.1.0)
+- contrib/kirigami: new package (6.1.0)
+- contrib/breeze-icons: new package (6.1.0)
+- contrib/kxmlgui: new package (6.1.0)
+- contrib/kcmutils: new package (6.1.0)
+- contrib/ksvg: new package (6.1.0)
+- contrib/libplasma: new package (6.0.4)
+- contrib/plasma5support: new package (6.0.4)
+- contrib/attica: new package (6.1.0)
+- contrib/syndication: new package (6.1.0)
+- contrib/knewstuff: new package (6.1.0)
+- contrib/knotifyconfig: new package (6.1.0)
+- contrib/kitemmodels: new package (6.1.0)
+- contrib/krunner: new package (6.1.0)
+- contrib/plasma-activities-stats: new package (6.0.4)
+- contrib/sonnet: new package (6.1.0)
+- contrib/kwayland: new package (6.0.4)
+- contrib/kparts: new package (6.1.0)
+- contrib/kidletime: new package (6.1.0)
+- contrib/kdeclarative: new package (6.1.0)
+- contrib/ktextwidgets: new package (6.1.0)
+- contrib/prison: new package (6.1.0)
+- contrib/kunitconversion: new package (6.1.0)
+- contrib/syntax-highlighting: new package (6.1.0)
+- contrib/ktexteditor: new package (6.1.0)
+- contrib/kstatusnotifieritem: new package (6.1.0)
+- contrib/kded: new package (6.1.0)
+- contrib/libksysguard: new package (6.0.4)
+- contrib/kdecoration: new package (6.0.4)
+- contrib/frameworkintegration: new package (6.1.0)
+- contrib/breeze: new package (6.0.4)
+- contrib/kglobalacceld: new package (6.0.4)
+- contrib/layer-shell-qt6: new package (6.0.4)
+- contrib/libkscreen: new package (6.0.4)
+- contrib/kscreenlocker: new package (6.0.4)
+- contrib/kwin: new package (6.0.4.1)
+- contrib/phonon-qt6: new package (4.12.0)
+- contrib/kpipewire: new package (6.0.4)
+- contrib/plasma-workspace: new package (6.0.4)
+- contrib/plasma-desktop: new package (6.0.4)
+
+- [DROPME] cbuild: add KDE_UNSTABLE_SITE for now 
+
+## Unorganized (from Void Repos)
+### Plasma-Desktop
+- hostmakedepends
+	- extra-cmake-modules
+	- pkg-config 
+	- kcoreaddons 
+	- kdoctools
+	- kconfig-devel 
+	 - kcoreaddons-devel 
+	 - kded
+	 - kpackage-devel 
+	 - kcmutils-devel
+	 - plasma-framework
+	 - intltool
+	 - gettext
+	 - qt5-qmake
+	 - qt5-host-tools
+	 - wayland-protocols
+	 - plasma-wayland-protocols
+ 
+- makedepends
+	- ibus-devel
+	- kactivities5-stats-devel 
+	- kpeople-devel 
+	- libcanberra-devel
+	- plasma-workspace-devel
+	- pulseaudio-devel
+	- xf86-input-evdev-devel
+	- xf86-input-synaptics-devel
+	- xf86-input-libinput-devel ksolid-devel
+	- kaccounts-integration-devel
+	- libaccounts-qt5-devel
+ 
+- depends
+	- kmenuedit
+	- polkit-kde-agent
+	- powerdevil
+	- systemsettings
+	- accountsservice
+	- ksystemstats
+### KDE5
+
+- kde5
+- kde5-baseapps
+
+#### fulldeptree: kde5
+
+Total: 511 Packages
+
+- xdg-desktop-portal-kde 
+- upower 
+- libimobiledevice 
+- libusbmuxd 
+- libplist 
+- libupower-glib3 
+- udisks2 
+- libblockdev 
+- volume_key 
+- libparted 
+- libnvme 
+- libndctl 
+- libdaxctl 
+- libkmod 
+- libkeyutils 
+- libfdisk 
+- libcryptsetup 
+- libargon2 
+- libbytesize 
+- device-mapper 
+- libatasmart 
+- sddm-kcm 
+- sddm 
+- qt6-declarative 
+- qt6-widgets 
+- qt6-sql 
+- qt6-gui 
+- libmd4c 
+- qt6-network 
+- qt6-dbus 
+- qt6-core 
+- libb2 
+- plasma-workspace-wallpapers 
+- plasma-thunderbolt 
+- bolt 
+- plasma-systemmonitor 
+- plasma-pa 
+- sound-theme-freedesktop 
+- plasma-nm 
+- openconnect 
+- vpnc-scripts 
+- trousers 
+- libpcsclite 
+- liblz4 
+- modemmanager-qt5 
+- plasma-desktop 
+- ibus 
+- python3-xdg 
+- python3-gobject 
+- libgirepository 
+- python3-cairo 
+- python3 
+- gdbm 
+- gir-freedesktop 
+- ibus-gtk+3 
+- libibus 
+- dconf 
+- kaccounts-integration 
+- signon-ui 
+- libproxy 
+- libnotify 
+- qt5-webkit 6
+- hyphen 
+- hyphen-en 
+- signon-plugin-oauth2 
+- qt5 
+- qt5-opengl 
+- signon-kwallet-extension 
+- signond 
+- libaccounts-qt5 
+- libaccounts-glib 
+- qt5-concurrent 
+- plasma-workspace 
+- baloo5 
+- lmdb 
+- kfilemetadata5 
+- taglib 
+- poppler-qt5 
+- libpoppler 
+- poppler-data 
+- libopenjpeg2 
+- libqmobipocket 
+- exiv2 
+- inih 
+- ebook-tools 
+- libzip 
+- libqalculate 
+- mpfr 
+- kpipewire 
+- libswscale 
+- kpeople 
+- libXft 
+- ktexteditor 
+- syntax-highlighting 
+- qt5-xmlpatterns 
+- editorconfig 
+- prison 
+- zxing-cpp 
+- libqrencode 
+- libdmtx 
+- qt5-tools 
+- libclang17 
+- libllvm17 
+- clang17-headers 
+- qt5-translations 
+- qtchooser 
+- xorg-server-xwayland 
+- xorg-server-common 
+- libxshmfence 
+- libtirpc 
+- libXfont2 
+- kquickcharts 
+- plasma-integration 
+- qqc2-desktop-style 
+- font-hack-ttf 
+- xbps-triggers 
+- noto-fonts-ttf 
+- font-util 
+- mkfontscale 
+- libfontenc 
+- font-alias 
+- milou 
+- kwin 
+- libxcvt 
+- kscreenlocker 
+- xcb-util-cursor 
+- libpipewire 
+- libmysofa 
+- liblilv 
+- sratom 
+- libsord 
+- zix 
+- libserd 
+- libcap-progs 
+- kinit 
+- breeze 
+- breeze-snow-cursor-theme 
+- breeze-icons 
+- kactivitymanagerd 
+- kactivities5-stats 
+- phonon-qt5 
+- phonon-locale 
+- ksystemstats 
+- libksysguard 
+- qt5-webengine 
+- snappy 
+- re2 
+- qt5-webchannel 
+- qt5-location 
+- qt5-serialport 
+- minizip 
+- libavformat 
+- libsrt 
+- librtmp 0
+- librist 
+- mbedtls 
+- libmodplug 
+- libavcodec 
+- xvidcore 
+- x265 
+- x264 
+- libwebp 
+- libsharpyuv 
+- libvpx 
+- libswresample 
+- libsvt-av1 
+- libspeex 
+- libdav1d 
+- libavutil 
+- vulkan-loader 
+- ocl-icd 
+- libvdpau 
+- libva 
+- libaom 
+- libsensors 
+- accountsservice 
+- systemsettings 
+- kitemmodels 
+- xrdb 
+- mcpp 
+- libmcpp 
+- setxkbmap 
+- powerdevil 
+- knotifyconfig 
+- kidletime 
+- libXScrnSaver 
+- polkit-kde-agent 
+- kmenuedit 
+- khotkeys 
+- kdelibs4support 
+- kded 
+- oxygen 
+- frameworkintegration 
+- kwrited 
+- kwayland-integration 
+- kwallet-pam 
+- pam 
+- pam-base 
+- socat 
+- ksshaskpass 
+- kscreen 
+- layer-shell-qt 
+- qt5-sensors 
+- libkscreen 
+- hicolor-icon-theme 
+- kinfocenter 
+- hwids 
+- kgamma5 
+- libXxf86vm 
+- kdeplasma-addons5 
+- krunner 
+- threadweaver 
+- knewstuff 
+- syndication 
+- attica 
+- kholidays 
+- networkmanager-qt5 
+- NetworkManager 
+- libmm-glib 
+- libcurl 
+- libpsl 
+- public-suffix 
+- libssh2 
+- nghttp2 
+- c-ares 
+- jansson 
+- libev 
+- libndp 
+- newt 
+- slang 
+- oniguruma 
+- libpcre 
+- popt 
+- libnm 
+- mobile-broadband-provider-info 
+- wpa_supplicant 
+- openresolv 
+- iproute2 
+- libbpf 
+- iptables 
+- libpcap 
+- libnl3 
+- libnftnl 
+- libnetfilter_conntrack 
+- libnfnetlink 
+- libmnl 
+- kunitconversion 
+- plasma-framework 
+- qt5-quickcontrols 
+- qt5-multimedia 
+- gst-plugins-base1 
+- graphene 
+- libvisual 
+- SDL 4
+- libsndio 
+- libXv 
+- libcdparanoia 5
+- libtheora 
+- kwayland 
+- kirigami2 
+- qt5-quickcontrols2 
+- qt5-graphicaleffects 
+- kde-gtk-config5 
+- kdecoration 
+- gsettings-desktop-schemas 
+- kde-cli-tools 
+- kdesu 
+- kpty 
+- kparts 
+- kworkspace 
+- kactivities5 
+- qt5-plugin-tds 
+- freetds 
+- unixodbc 
+- qt5-plugin-sqlite 
+- qt5-plugin-pgsql 
+- postgresql-libs 
+- qt5-plugin-odbc 
+- libodbc 
+- qt5-plugin-mysql 
+- libmariadbclient 
+- libaio 
+- kcmutils 
+- xdg-utils 
+- xset 
+- libXmu 
+- libXt 
+- bash 
+- elogind 
+- dbus 
+- breeze-gtk 
+- bluedevil 
+- kdeclarative 
+- kpackage 
+- kio 
+- mit-krb5-libs 
+- e2fsprogs-libs 
+- libksolid 
+- kwallet 
+- qca-qt5 
+- nss 
+- nspr 
+- ca-certificates 
+- run-parts 
+- openssl 
+- botan 
+- gpgmepp 
+- libgpgme 
+- gnupg 
+- sqlite 
+- libedit 
+- libldap 
+- libsasl 
+- npth 
+- libksba 
+- pinentry 
+- libassuan 
+- ktextwidgets 
+- sonnet 
+- libhunspell1.7 
+- libaspell 
+- kservice 
+- kjobwidgets 
+- kdoctools 
+- libxslt 
+- libgcrypt 
+- libgpg-error 
+- docbook-xsl 
+- docbook-xml 
+- xmlcatmgr 
+- kcompletion 
+- kbookmarks 
+- kxmlgui 
+- qt5-printsupport 
+- kitemviews 
+- kiconthemes 
+- qt5-svg 
+- kglobalaccel 
+- kcrash 
+- kconfigwidgets 
+- kguiaddons 
+- qt5-wayland 
+- kcodecs 
+- kauth 
+- polkit-qt5 
+- polkit 
+- duktape 
+- pam-libs 
+- karchive 
+- desktop-file-utils 
+- acl 
+- bluez-qt5 
+- bluez 
+- libical 
+- json-c 
+- ell 
+- kwidgetsaddons 
+- knotifications 
+- qt5-speech 
+- libdbusmenu-qt5 
+- libcanberra 2
+- libpulseaudio 
+- webrtc-audio-processing 
+- speexdsp 
+- sbc 
+- orc 
+- libtdb 
+- libsoxr 
+- libsndfile 
+- libvorbis 
+- libmpg123 
+- libflac 
+- lame 
+- libjack 
+- opus 
+- libsamplerate 
+- libdb 
+- celt 
+- libogg 
+- libfftw 
+- libgomp 
+- libelogind 
+- libcap 
+- libasyncns 
+- libltdl 
+- gstreamer1 
+- alsa-lib 
+- kwindowsystem 
+- kcoreaddons 
+- kconfig 
+- qt5-xml 
+- kdbusaddons 
+- qt5-x11extras 
+- ki18n 
+- qt5-declarative 
+- qt5-sql 
+- qt5-widgets 
+- qt5-test 
+- qt5-gui 
+- qt5-network 
+- libinput 
+- mtdev 
+- libwacom 
+- libgudev 
+- libevdev 
+- tslib 
+- gtk+3 
+- libXinerama 
+- libXrandr 
+- libXcomposite 
+- libXdamage 
+- libXcursor 
+- libcolord 
+- libgusb 
+- libusb 
+- json-glib 
+- lcms2 
+- libcups 
+- gnutls 
+- libunbound 
+- libevent 
+- libsodium 
+- libssl3 
+- libcrypto3 
+- nettle 
+- gmp 
+- libidn2 
+- libunistring 
+- p11-kit 
+- libtasn1 
+- avahi-libs 
+- libXfixes 
+- at-spi2-atk 
+- at-spi2-core 
+- libXtst 
+- libXi 
+- libepoxy 
+- atk 
+- dbus-x11 
+- adwaita-icon-theme 
+- librsvg 
+- pango 
+- libthai 
+- libdatrie 
+- fribidi 
+- gtk-update-icon-cache 
+- gdk-pixbuf 
+- tiff 
+- jbigkit-libs 
+- shared-mime-info 
+- libxml2 
+- libreadline8 
+- ncurses-libs 
+- libjpeg-turbo 
+- gettext-libs 
+- libgbm 
+- wayland 
+- eudev-libudev 
+- libharfbuzz 
+- graphite 
+- cairo 
+- pixman 
+- lzo 
+- libXrender 
+- libXext 
+- libglvnd 
+- libxkbcommon-x11 
+- libxkbcommon 
+- xkeyboard-config 
+- xkbcomp 
+- libxkbfile 
+- libSM 
+- libuuid 
+- libICE 
+- xcb-util-renderutil 
+- xcb-util-keysyms 
+- xcb-util-image 
+- xcb-util 
+- xcb-util-wm 
+- libX11 
+- libxcb 
+- libXdmcp 
+- libXau 
+- qt5-dbus 
+- dbus-libs 
+- fontconfig 
+- freetype 
+- libpng 
+- brotli 
+- expat 
+- libdrm 
+- libpciaccess 
+- qt5-core 
+- glib 
+- libffi 
+- libmount 
+- libblkid 
+- util-linux-common 
+- libelf 
+- musl-fts 
+- liblzma 
+- bzip2 
+- libzstd 
+- libpcre2 
+- icu-libs 
+- double-conversion 
+- zlib 
+- libstdc++ 
+- musl 0
+- libgcc 
+- iso-codes 
+
+##### Keys (runtime-dependencies)
+- kde5
+	- bluedevil 
+	- breeze-gtk 
+	- elogind 
+	- kde-gtk-config5 
+	- kdeplasma-addons5 
+	- kgamma5 
+	- kinfocenter 
+	- kscreen 
+	- ksshaskpass 
+	- kwallet-pam 
+	- kwayland-integration 
+	- kwrited 
+	- oxygen 
+	- plasma-desktop 
+	- plasma-nm 
+	- plasma-pa 
+	- plasma-systemmonitor 
+	- plasma-thunderbolt 
+	- plasma-workspace-wallpapers 
+	- powerdevil 
+	- sddm-kcm 
+	- udisks2 
+	- upower 
+	- xdg-desktop-portal-kde
+- kde5-baseapps
+	- dolphin
+	- kate5
+	- khelpcenter
+	- konsole
+
+##### revdeps: plasma-desktop
+- kmenuedit 
+- polkit-kde-agent 
+- powerdevil 
+- systemsettings 
+- accountsservice 
+- ksystemstats 
+- kcoreaddons 
+- ki18n 
+- libxkbfile 
+- libX11 
+- qt5-x11extras 
+- qt5-declarative 
+- libxkbcommon 
+- qt5-gui 
+- qt5-core 
+- libstdc++ 
+- musl 
+- kcompletion 
+- kglobalaccel 
+- knotifications 
+- kwindowsystem 
+- kdbusaddons 
+- phonon-qt5 
+- kconfig 
+- qt5-widgets 
+- kcrash 
+- kio 
+- kjobwidgets 
+- kcodecs 
+- kwidgetsaddons 
+- libksolid 
+- libXi 
+- libXcursor 
+- kworkspace 
+- qt5-dbus 
+- kactivities5-stats 
+- libksysguard 
+- plasma-workspace 
+- kservice 
+- kguiaddons 
+- kactivities5 
+- plasma-framework 
+- kxmlgui 
+- kconfigwidgets 
+- kcmutils 
+- kdeclarative 
+- qt5-sql 
+- kiconthemes 
+- kdelibs4support 
+- kitemviews 
+- kauth 
+- sonnet 
+- kbookmarks 
+- qt5-xml 
+- knewstuff 
+- kpackage 
+- knotifyconfig 
+- wayland 
+- qt5-wayland 
+- krunner 
+- qt5-concurrent 
+- libxcb 
+- baloo5 
+- kaccounts-integration 
+- libaccounts-qt5 
+- qt5-network 
+- glib 
+- xcb-util-keysyms 
+- ibus 
+# GNOME Desktop
+- 
+# DDE

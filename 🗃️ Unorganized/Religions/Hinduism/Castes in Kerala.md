@@ -43,7 +43,7 @@ Other Backward Castes (OBCs) = Shudras (Placed at the 4th or the bottom tier of 
 > 3. Veda Vyasa - author of the Mahabharatha. the cataloger of the Vedas , the progenitor of the Kauravas and the Pandavas - was the son of a fisherwoman Satyawati, and Sage Parasara
 > 4. Chandragupta Maurya - founder of the Mauryan Empire and grandfather of Ashoka - believed to have belonged to the fringe tribe of the Mayuras / or the illegitimate son of a Nanda prince and a maid
 > 5. Thiruvalluvar - arguably the greatest Tamil saint belonged to the weaver community.
-> 6. Several saints - Namadeva (weaver), Tukaram (Kunbi) Kanakadasa (kuruba) Nammalvar (cultivator) Nandanar (Pulaya) Ravidas (chamar and guru of Mirabai) several Shaivaite and Vaishnavaite saints inc. from the Alwars and Nayanmars...to mention just a miniscule few.
+> 6. Several saints - Namadeva (weaver), Tukaram (Kunbi) Kanakadasa (kuruba) Nammalvar (cultivator) Nandanar (Pulaya) Ravidas (chamar and guru of Mirabai) several Shaiva and Vaishnava saints inc. from the Alwars and Nayanmars...to mention just a miniscule few.
 > 
 > Need I say more?? One cannot have more illustrious ancestors than the above surely?
 > 

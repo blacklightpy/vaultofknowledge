@@ -1,0 +1,22 @@
+
+| Gazebo Version            | Supported Ubuntu Versions               | Ubuntu Versions that packaged it                       | OSRF Supported Ubuntu Versions             | ROS Supported Ubuntu Versions |
+| ------------------------- | --------------------------------------- | ------------------------------------------------------ | ------------------------------------------ | ----------------------------- |
+| Gazebo (Classic) 1        | Precise                                 |                                                        | Precise, Quantal, Raring, Saucy            | To be filled                  |
+| Gazebo (Classic) 2        | Precise, Quantal, Raring, Saucy, Trusty |                                                        | Precise, Quantal, Raring, Saucy, Trusty    | To be filled                  |
+| Gazebo (Classic) 3        | Precise, Raring, Saucy, Trusty          |                                                        | Precise, Quantal, Raring, Saucy, Trusty    | To be filled                  |
+| Gazebo (Classic) 4        | Precise, Saucy, Trusty                  |                                                        | Precise, Trusty                            | To be filled                  |
+| Gazebo (Classic) 5        | Trusty, Utopic, Vivid                   |                                                        | Trusty, Vivid                              | To be filled                  |
+| Gazebo (Classic) 6        | Trusty, Utopic, Vivid                   | Wily, Xenial                                           | Trusty, Vivid                              | To be filled                  |
+| Gazebo (Classic) 7        | Trusty, Vivid, Wily, Xenial             | Xenial, Yakkety, Zesty, Artful, Bionic                 | Trusty, Vivid, Wily, Xenial, Zesty, Artful | To be filled                  |
+| Gazebo (Classic) 8        | Xenial, Yakkety                         |                                                        | Xenial, Yakkety, Zesty                     | To be filled                  |
+| Gazebo (Classic) 9        | Xenial, Aartful, Bionic                 | Bionic, Cosmic, Disco, Eoan, Focal, Groovy             | Xenial, Artful, Bionic, Disco, Focal       | To be filled                  |
+| Gazebo (Classic) 10       | Xenial, Bionic                          |                                                        | Xenial, Bionic                             | To be filled                  |
+| Gazebo (Classic) 11       | Bionic, Focal                           | Groovy, Hirsute, Impish, Jammy, Kinetic (build failed) | Bionic, Focal                              | To be filled                  |
+| Gazebo/Ignition Acropolis | Bionic                                  |                                                        | Bionic                                     | To be filled                  |
+| Gazebo/Ignition Blueprint | Bionic                                  |                                                        | Bionic                                     | To be filled                  |
+| Gazebo/Ignition Citadel   | Bionic, Focal                           |                                                        | Bionic, Focal                              | To be filled                  |
+| Gazebo/Ignition Dome      | Bionic, Focal                           |                                                        | Bionic, Focal                              | To be filled                  |
+| Gazebo/Ignition Edifice   | Bionic, Focal                           |                                                        | Bionic, Focal                              | To be filled                  |
+| Gazebo/Ignition Fortress  | Bionic, Focal, Jammy                    | Jammy, Kinetic, Lunar, Mantic, Noble (build failed)    | Bionic, Focal, Jammy                       | To be filled                  |
+| Gazebo Garden             | Focal, Jammy                            |                                                        | Focal, Jammy                               | To be filled                  |
+| Gazebo Harmonic           | Jammy, Noble                            |                                                        | Jammy                                      | To be filled                  |

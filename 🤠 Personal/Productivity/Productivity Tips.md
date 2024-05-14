@@ -26,11 +26,11 @@ Organized:
 	-   Journal: DayOne or Journey
 	-   Audio notes: Drafts, Noted
 
-2. Android verse.
+2. Android-verse
 
-	Google Keep for lists, todo, small notes.  
-	One Google Sheet, napkin, for things, ideas.  
-	Memorix for shopping lists
+	- Google Keep for lists, todo, small notes.  
+	- One Google Sheet, napkin, for things, ideas.  
+	- Memorix for shopping lists
 
 3. If you are using chrome or Edge browser, you can give try to a note-taking browser extension "Roughbook". You can download it from [Chrome Web Store.](https://chrome.google.com/webstore/detail/roughbook-quick-notes-tak/phomkpbjipcgmfpffhkaphddmclefofh)
 

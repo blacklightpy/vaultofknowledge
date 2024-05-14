@@ -1,4 +1,4 @@
-# Generations
+# Generations of OSes
 - **Before 1940s**: No OS
 	- Manual machine language input; limited accessibility due to expertise.
 - **1940s-50s**: Batch Processing
@@ -18,6 +18,7 @@
 # Timeline
 ## Early Computers
 - Abacus
+- Napier's Bones
 - Jacquard's Loom
 - Analytical Engine and Difference Engine
 ## Early Pre-Modern
@@ -25,65 +26,105 @@
 - EDSAC Series
 - UNIVAC Series
 - IBM Series
-## Year
+## From 1965
 - MULTICS
 - UNICS (for PDP-11)
 	- UNIX
 - Virtual VAX or Virtual UNIX (for VAX)
-## 1983
-- GNU (started)
+## 1971
+**Research Unix**
+- Research Unix Version 1
+- Research Unix Version 2
+- Research Unix Version 3
+- Research Unix Version 4
+- Research Unix Version 5
+- Research Unix Version 6
+- Research Unix Version 7
+	- UNIX/32V
+	- UNIX/V7M
+- Research Unix Version 8 (based on 4.1cBSD)
+- Research Unix Version 9
+- Research Unix Version 10
+- Plan 9
+# 1981
+**Commercial UNIX** (After Research Unix Version 7)
+- UNIX System III (based on Research Unix Version 7)
+- UNIX System V
+	- System V Release 1
+	- System V Release 2
+	- System V Release 3
+	- System V Release 4
+	- System V Release 4.2
+- UnixWare
+	- UnixWare 1.1.1
+- UnixWare 2.0
+- UnixWare 7
+- Open Unix 8 (UnixWare 7.1.2)
+- SCO UnixWare 7.1.3
 
-- UNIX System V R4
+**Other Commercial OSes**
 - Xenix
 - Solaris
-
-- UNIX System III
-- UNIX System V
 - SunOS
 - HP-UX
+
+**BSDs**
+- 1BSD (based on Research Unix Version 6)
+- 2BSD (PDP-11) (based on Research Unix Version 7)
+- 3BSD (VAX) (based on UNIX/32V)
+- 4BSD
+- 4.1BSD
+	- 4.1aBSD (BBN's TCP/IP implementation)
+	- 4.1bBSD (Berkeley Fast File System)
+	- 4.1cBSD
+- 4.2BSD
+- 4.3BSD-Tahoe
+- 4.3BSD Net/1 (based on 4.3BSD-Tahoe)
+- 4.3BSD-Reno
+- 4.3BSD Net/2 (based on 4.3BSD-Reno)
+- 4.4BSD-Alpha
+- 4.4BSD-Lite
+- 4.4BSD-Lite Release 2
+
+**386BSD (Pre-Lawsuit)**
+- 386BSD / Jolix (based on 4.3BSD Net/2)
+- BSD/386 / BSD/OS / BSDi by BSDi (based on 4.3BSD Net/2)
+## 1983
+- GNU (started, during the time of 4.2BSD, Research Unix Version 8 and UNIX System III)
 ## 1992
 - Linux Kernel (released)
-- GNU/Linux
-- BSD386
+- GNU on Linux
+### 1993 (BSD lawsuit finished)
+**386BSDs**
+- 386BSD
+- BSD/386 (BSDi) 1.0
+- 386BSD 2.0
+- BSD/OS (BSDi) 2.0
+- 386BSD 3.0
+- BSD/OS (BSDi) 3.0
+- BSD/OS (BSDi) 4.0
+- BSD/OS (BSDi) 4.3
+- BSD/OS (BSDi) 5.0
+- BSD/OS (BSDi) 5.1
 
-BSD 4.4 Lite
+**Modern BSDs**
+- FreeBSD (From BSD386 and 4.4BSD-Lite)
+- NetBSD (From BSD386 and 4.4BSD-Lite)
+- OpenBSD (From BSD386 and 4.4BSD-Lite)
 
-FreeBSD (From BSD386 and BSD 4.4 Lite)
-NetBSD (From BSD386 and BSD 4.4 Lite)
-OpenBSD (From BSD386 and BSD 4.4 Lite)
+**Apple**
+- Apple UA/X
+- NeXTSTEP 1.0 (based on 4.3BSD-Tahoe)
+- NeXTSTEP 2.0 (based on 4.3BSD-Reno)
+- NeXTSTEP 3.0 (based on 4.4BSD)
+## 2000
+- Apple Darwin (From NeXTSTEP, 4.4BSD-Lite2, FreeBSD and Mac OS)
+- Apple Mac OS X
+## 2004
+- DragonflyBSD (From FreeBSD)
 
-Apple Darwin (From NeXTSTEP, FreeBSD and Mac OS)
-
-DragonflyBSD (From FreeBSD)
-
-### Programming Languages and Old Computers
-- CTSS, CP/M, DOS/360, UNIVAC, GECOS
-- BCPL > B > C > C++.
-	- Objective C
-- C++
-	- Zig
-	- D | Rust
-	- Go | Python | Nim
-	- Carbon (which category?)
-- **Basic:** BASIC, MIT Scratch
-- **Web Dev Kiddies:** ECMAScript | JavaScript | TypeScript | CoffeeScript | PHP
-- **Cool to hear about:** Ruby | Clojure | Elm | Eiffel | Elixir | Haxe | WebAssembly | Vala | V
-- **VM and GC Based:** Java | .NET/C# | Erlang | OCaml
-- **New and Computing:** Julia | MATLAB | Octave
-- **Cool, Old and Computing:** FORTRAN | R | COBOL | ALGOL | Pascal | Perl | Ada | Delphi | F | F# | Haskell
-- **List Style:** Lisp | Common Lisp | Scheme | Guile | Nix | Smalltalk
-- **Fun:** Brainfuck
-
-- **Computer Aided Manufacturing:** G-Codes
-- **Game Engine Specific:** GDScript | Game Maker Language
-- **Parallel Computing:** Halide | OpenCL
-- **Hardware Design:** Verilog | SystemVerilog | SystemC
-
-- **Scripting:** Shell Scripting (Batch / Bash / Z Shell / Fish / Korn Shell / sh) | Lua | VimScript | Other Scripting
-- **Styling:** CSS
-- **Markup:** HTML | XML | Markdown | TOML | YAML | reStructuredText | LaTeX
-- **Blockchain:** Solidity
 # Timeline, Longer Brief
+## From EDVAC (1951)
 - [1951] EDSAC
 - [1955] GMOS for IBM 701
 - [1955] MIT Tape Director OS for UNIVAC 1103
@@ -95,12 +136,14 @@ DragonflyBSD (From FreeBSD)
 - MULTICS for GE-640
 - IBM DOS/360
 - IBM OS/360 PCP and MFT
+## From UNIX (1969)
 - Unics for DEC
 - Xerox OS
 - DOS-11 for the PDP-11
 - CP/M
 - UNIX Version 6
 - Cray
+## From BSD (1977)
 - 1BSD
 - 2BSD
 - Apple DOS
@@ -108,18 +151,22 @@ DragonflyBSD (From FreeBSD)
 - 3BSD
 - UNIX Version 7
 - UNIX 32/V
+## From MS-DOS (1981)
 - MS-DOS
 - Commodore DOS
 - Sun UNIX (later SunOS) 0.7
 - UNIX System III
+## From GNU (1983)
 - GNU
 - Novell NetWare (S-Net)
 - SunOS 1.0
+## From Mac OS (1984)
 - Mac OS (System 1.0)
 - AmigaOS
 - Atari TOS
 - SunOS 2.0
 - Unix Version 8
+## From Windows (1985)
 - Windows 1.0
 - Windows 1.01
 - Xenix 2.0
@@ -156,14 +203,16 @@ DragonflyBSD (From FreeBSD)
 - OpenVMS V1.0
 - OS/2 2.0
 - Plan 9 First Edition
+### From GNU/Linux (1992)
 - SLS
 - Solaris 2.0
 - Windows 3.1
+# From FreeBSD (1993)
 - FreeBSD
 - NetBSD
 - Novell NetWare 4
 - OS/2 2.1
-- Slackware 1.0
+- Slackware 1.0 (based on SLS)
 - Windows NT 3.1
 - AIX 4.0
 - AIX 4.1
@@ -210,7 +259,6 @@ DragonflyBSD (From FreeBSD)
 - University of Michigan Executive System (UMES), for IBM 704, 709, and 7090
 1959
 - SHARE Operating System (SOS), based on GM-NAA I/O
-
 ## 1960s
 
 1960
@@ -519,7 +567,7 @@ DragonflyBSD (From FreeBSD)
 - DOS/V
 - Genera 8.0
 - iS-DOS
-- LOCK[27] – TCSEC A1-class secure system with kernel & hardware support for type enforcement
+- LOCK – TCSEC A1-class secure system with kernel & hardware support for type enforcement
 - MVS/ESA SP Version 4
 - Novell NetWare 3
 - OS/2 1.3
@@ -528,7 +576,7 @@ DragonflyBSD (From FreeBSD)
 - Windows 3.0
 - Virtual Machine/Enterprise Systems Architecture (VM/XA ESA)
 - VSE/Enterprise Systems Architecture (VSE/ESA) Version 1[28]
-- 1991
+1991
 - Amoeba – microkernel-based, POSIX-compliant, distributed OS
 - Linux 0.01-0.1
 - Mac OS (System 7)
@@ -582,7 +630,7 @@ DragonflyBSD (From FreeBSD)
 1996
 - AIX 4.2
 - Debian 1.1
-- JN[31] – microkernel OS for embedded, Java apps
+- JN – microkernel OS for embedded, Java apps
 - Mac OS 7.6 (First officially-named Mac OS)
 - OS/2 Warp 4.0
 - Palm OS

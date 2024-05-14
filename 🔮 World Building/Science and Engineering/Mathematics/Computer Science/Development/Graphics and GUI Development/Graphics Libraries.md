@@ -41,9 +41,9 @@
 - Windows
 	- GDI (Original graphics interface; closely tied to Win32)
 	- GDI+ (Introduced as a successor to GDI in XP)
-	- Direct3D (3D API)
 	- Direct2D (Modern replacement for GDI based on Direct3D introduced in Windows 7)
 		- Supports fully hardware-accelerated alpha-blending, hence anti-aliasing, and also vector graphics
+	- Direct3D (3D API)
 	- DirectWrite (Text layout and rasterization engine; Rasterized text can be displayed with GDI/Direct2D)
 	- DXGI (Low level infrastructure for Direct3D)
 	- Window Compositing: Desktop Window Manager (DWM) was introduced in Vista. Before that, apps could draw directly to screen, causing trails when unresponsive.

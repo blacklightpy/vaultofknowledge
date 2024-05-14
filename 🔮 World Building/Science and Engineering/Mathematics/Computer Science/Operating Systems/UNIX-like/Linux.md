@@ -53,21 +53,11 @@ But anyways, let's go and explore the generic Linux kernel here!
 		- Free up unused kernel memory
 		- Run `init` program
 - `init`
-	- Start Networking Services
+	- Start Services
 	- Start getty
 
 You can use `printk()` to print messages at any point to debug when a service is started. You can check the appearances of your `printk` message relative to other subsystem initialization messages in `dmesg` to figure out where it is initialized.
-- `start_kernel()` does, among other things:
-    - Print out the kernel version and command line
-    - Start output to the console
-    - Enable interrupts
-    - Calibrate the delay loop
-    - Calls `rest_init()`, which does:
-        - Start a kernel thread to run the `init()` function
-        - Enter the idle loop
-
-
-# Where to start looking
+# Where to start studying
 ## System Startup and Initialization:
 `arch/<arch>/kernel/head.S` (Architecture specific setup)
 `init/main.c`

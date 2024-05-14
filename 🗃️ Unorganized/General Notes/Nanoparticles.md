@@ -1,3 +1,11 @@
+I'm taking these notes to understand nanoparticles in general, but also to understand Soni chechi's PhD research on "the origin of chirality at nanoscale by studying the optical activity in carbon nanodots and plasmonic nanoparticles."
+
+- The origin of chirality at nanoscale
+	- By studying the optical activity in
+		- Carbon Nanodots
+		- Plasmonic Nanoparticles
+
+
 # Types of Nanoparticles: At a Glance
 - Quantum Dot Semiconductors
 - Carbon Quantum Dots (Carbon Nanodots)

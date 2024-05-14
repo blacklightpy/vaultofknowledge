@@ -13,6 +13,7 @@ List out these factors:
 	- Political Practices
 	- Domestic Rituals
 - Denominations (May vary in beliefs)
+	- By Schools of thought
 - Scriptures and Texts
 	- Divisions
 - Connection to Other Religions
@@ -40,6 +41,7 @@ Also add (To fill optionally):
 ### Political Practices
 ### Domestic Rituals
 ## Denominations (May vary in beliefs)
+### By Schools of thought
 ## Scriptures and Texts
 ### Divisions
 ## Connection to Other Religions
@@ -53,6 +55,7 @@ Also add (To fill optionally):
 ---
 # Islam
 **Type**: Monotheistic
+**Subtype:** Commandment Style
 ## Introduction (Place, Time, People, etc.)
 ## General Beliefs (World, Creator, Soul, Life, Peace)
 ## Principles
@@ -65,6 +68,7 @@ Also add (To fill optionally):
 ### Political Practices
 ### Domestic Rituals
 ## Denominations (May vary in beliefs)
+### By Schools of thought
 ## Scriptures and Texts
 ### Divisions
 ## Connection to Other Religions
@@ -99,8 +103,17 @@ Since there are six orthodox schools of thought, they are called **sadh darshana
 - Vaisheshika
 - Mimamsa / Purva Mimamsa
 - Vedanta / Uttara Mimamsa
+	- Bhedabedha / Dvaitadvaita Vedanta
+	- Achinta Bhedabedha Vedanta
+	- Advaita Vedanta
+	- Dvaita (Tattvavada) Vedanta
+	- Vishishtadvaita Vedanta
+	- Shuddhadvaita Vedanta
+	- Neo-Vedanta
 #### Heterodox
+- Charvaka
 - Buddhism
+- Jainism
 ## Scriptures and Texts
 ### Divisions
 ## Connection to Other Religions
@@ -116,5 +129,6 @@ Since there are six orthodox schools of thought, they are called **sadh darshana
 # Jainism
 # Zen
 # Taoism
+# Shinto
 # Sikhism
 # Zoroastrianism

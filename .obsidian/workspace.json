@@ -203,12 +203,12 @@
             }
           },
           {
-            "id": "08b4b131461af0c0",
+            "id": "cfd08f2a4ee4c07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing/How are Cotton clothes made.md",
+                "file": "🔮 World Building/Art of Creation/Example - An Operating System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -216,19 +216,150 @@
             }
           },
           {
-            "id": "d5613a3af216401f",
+            "id": "e98d2c1437b80450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3a3325fbee47732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The rationale behind copyleft licensing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75d263043cf7fb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c5c11c1841aa4f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9f7533b97d25c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "621984260f936e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18ae2832f66679f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c4b1669c2075b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to create anything.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac185b4f7daa803a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/My Philosophy of Software Design.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6f25ea3811df36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Comparison of Nations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caff95bc1af0b0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -278,7 +409,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
+    "width": 353.5,
     "collapsed": true
   },
   "right": {
@@ -303,7 +434,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/My Philosophy of Software Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +451,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+                "file": "🗃️ Unorganized/General Notes/My Philosophy of Software Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +463,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electricity and Magnetism.md"
+                "file": "🗃️ Unorganized/General Notes/My Philosophy of Software Design.md"
               }
             }
           },
@@ -359,8 +490,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -382,164 +512,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f93dc5b9500296c3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ddb332fcf4a5e0aa",
-        "type": "window",
-        "children": [
-          {
-            "id": "d31415155d75ef9c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2f06b5294542fd79",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8426c1d3e5f8a6a0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/General Notes/How is software installed on Linux.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f575c1815ee8d095",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/General Notes/Making the Terminal Emulator Command Shell more Intuitive.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "509a54a79255e541",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "35acccf4724df76c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/General Notes/Styling in Qt and KDE.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "339f599fca566f28",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🗃️ Unorganized/General Notes/Nanoparticles.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "639815230efcba77",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🤠 Personal/Project Ideas/Blacklight OS Philosophy.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ac563594882bed72",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 7
-          }
-        ],
-        "direction": "vertical",
-        "x": 655,
-        "y": 62,
-        "width": 596,
-        "height": 933,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "a0ed843398b6d55d",
+  "active": "ac185b4f7daa803a",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/General Notes/How to design a OS File System Hierarchy.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
-    "🗃️ Unorganized/General Notes/Linux Pro.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux Basics.md",
-    "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing/How are Cotton clothes made.md",
-    "🤠 Personal/Project Ideas/Blacklight OS Philosophy.md",
-    "🗃️ Unorganized/General Notes/Difficulty of Making Analog Computers.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🔮 World Building/Science and Engineering/Engineering/Textiles Manufacturing/Textiles Manufacturing.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Raoult's Law.md",
-    "🗃️ Unorganized/General Notes/How is software installed on Linux.md",
-    "🗃️ Unorganized/General Notes/Women's Clothing.md",
-    "🗃️ Unorganized/General Notes/Making the Terminal Emulator Command Shell more Intuitive.md",
-    "🗃️ Unorganized/General Notes/Styling in Qt and KDE.md",
-    "🗃️ Unorganized/General Notes/Nanoparticles.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/C Libraries.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
-    "🗃️ Unorganized/General Notes/Android Bootup Process.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
+    "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
+    "🗃️ Unorganized/General Notes/How to create anything.md",
+    "🔮 World Building/Art of Creation/Example - An Operating System.md",
+    "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
+    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+    "🗃️ Unorganized/General Notes/Bookmarks List.md",
+    "🔮 World Building/Creativity and Arts/Sound Engineering.md",
+    "🗃️ Unorganized/General Notes/Comparison of Nations.md",
+    "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
+    "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
+    "🗃️ Unorganized/General Notes/American Social Problems.md",
+    "🗃️ Unorganized/General Notes/Qt and GTK+ APIs.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/Building DDE, KDE Plasma and GNOME.md",
+    "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
+    "🗃️ Unorganized/General Notes/Versions of Gazebo packaged by Ubuntu.md",
+    "🤠 Personal/Project Ideas/Updating my website.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
+    "🗃️ Unorganized/General Notes/Search Engines.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
+    "🤠 Personal/Knowledge/Graphics.md",
+    "🗃️ Unorganized/General Notes/Audio Mixer.md",
+    "🗃️ Unorganized/General Notes/Surround Sound Formats.md",
+    "🗃️ Unorganized/General Notes/Surround Sound Systems.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
-    "🔮 World Building/Art of Creation/History of Creating.md",
-    "🗃️ Unorganized/General Notes/Digital Audio Workstation.md",
-    "🗃️ Unorganized/General Notes/Audio Plugins.md",
-    "🗃️ Unorganized/General Notes/Components of an Operating System.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

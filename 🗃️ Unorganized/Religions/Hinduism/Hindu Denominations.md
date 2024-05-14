@@ -55,7 +55,7 @@ Schools of thought are also called Darshanas.
 # Based on Deities
 Hinduism is subdivided into a number of major sampradayas. Of the historical division into six darsanas (philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
 
-Classified by primary deity or deities, four major Hinduism modern currents are **Vaishnavism** (Vishnu), **Shaivism** (Shiva), **Shaktism** (Shakti) and **Smartism** (five deities treated as same).
+Classified by primary deity or deities, four major types of Hinduism include **Vishnu Worshippers**, **Shiva Worshippers**, **Adiparashakti Worshippers** and **Smartas** (five deities treated as same).
 
 These deity-centered denominations feature a synthesis of various philosophies such as Samkhya, Yoga and Vedanta, as well as shared spiritual concepts such as **moksha**, **dharma**, **karma**, **samsara**, ethical precepts such as **ahimsa**, texts (**Upanishads**, **Puranas**, **Mahabharata**, **Agamas**), **ritual grammar and rites of passage**.
 
@@ -64,7 +64,7 @@ These deity-centered denominations feature a synthesis of various philosophies s
 	- Shrauta communities are very rare in India, the most well known being the ultra-orthodox Nambudiri Brahmins of Kerala. They follow the "Purva-Mimamsa" (earlier portion of Vedas) in contrast to Vedanta followed by other Brahmins. They place importance on the performance of Vedic Sacrifice (Yajna). The Nambudiri Brahmins are famous for their preservation of the ancient Somayaagam, Agnicayana rituals which have vanished in other parts of India.
 - Suryaism / Saurism
 # Modern
-- Ganapatism
+- Ganapati Worship
 - Reformist
 	- Adi Dharm / Brahmoism
 		- Brahmo Samaj

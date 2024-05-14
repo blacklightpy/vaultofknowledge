@@ -67,7 +67,7 @@ Brahmanas are Vedic Sruti works attached to Samhitas
 The Tantric texts can be divided into three classes:
 (1) Shaiva Agamas (traditions of the followers of Shiva)
 (2) Vaishnava Samhitas (“Collections of the Vaishnavas,” a name borrowed from the Vedic Samhitas)
-(3) Shakta Tantras (“Looms of the Followers of the Goddess Shakti”). 
+(3) Shakta Tantras (“Looms of the followers of the Goddess Shakti”). 
 However, they all have the common bond of venerating the Goddess
 
 ---
