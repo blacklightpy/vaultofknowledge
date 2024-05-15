@@ -28,3 +28,8 @@ BMC: (Bookmarks: Chrome)
 BMO: (Bookmarks: Opera)
 BME: (Bookmarks: Edge)
 BMR: (Bookmarks: Raindrop)
+
+#rough 
+
+I'm not blind to the fact that the Muslims are devils
+I'm just trying to figure out if
