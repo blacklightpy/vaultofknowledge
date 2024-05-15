@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -447,7 +447,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
+                "file": "🗃️ Unorganized/General Notes/Missing Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +464,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
+                "file": "🗃️ Unorganized/General Notes/Missing Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -476,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md"
+                "file": "🗃️ Unorganized/General Notes/Missing Courses.md"
               }
             }
           },
@@ -526,11 +526,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ba635d557fcfc4a7",
+  "active": "d634c33ae357b278",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
-    "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
     "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",

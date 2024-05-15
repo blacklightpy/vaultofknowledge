@@ -16,7 +16,7 @@ Some believe it's always a gift, and sometimes, just hard work.
 
 BKP: (Backups)
 WRK: (Work)
-PER: (Personal)
+PER: (Personal Files)
 
 ACD: (Account Data) - Google, YouTube, Spotify, Forums, Generic
 
@@ -31,8 +31,3 @@ BMR: (Bookmarks: Raindrop)
 
 Sessions>America>Blacks>XYS
 Sessions>Israel-Palestine>YO>XYZ
-
-#rough 
-
-I'm not blind to the fact that the Muslims are devils
-I'm just trying to figure out if
