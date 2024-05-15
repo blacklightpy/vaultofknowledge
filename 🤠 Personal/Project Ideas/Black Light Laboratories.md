@@ -1,1 +1,0 @@
-Keep a Black and Yellow Compact Aesthetic, inspired by 
