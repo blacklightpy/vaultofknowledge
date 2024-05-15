@@ -29,6 +29,9 @@ BMO: (Bookmarks: Opera)
 BME: (Bookmarks: Edge)
 BMR: (Bookmarks: Raindrop)
 
+Sessions>America>Blacks>XYS
+Sessions>Israel-Palestine>YO>XYZ
+
 #rough 
 
 I'm not blind to the fact that the Muslims are devils
