@@ -20,3 +20,6 @@ I'm just trying to figure out if
 
 There are 216 folders in total. Much less than the 10000 possible in Johnny Decimal.
 Let's rearrange, shall we?
+
+[[Old Index]]
+
