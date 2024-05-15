@@ -11,3 +11,20 @@ Some believe it's always a gift, and sometimes, just hard work.
 > 	- Isn't that saying some people are worth more than others?
 > 	- That is, saying some people need to work harder than the others
 > - If it's hard work:
+
+#rough Systems
+
+BKP: (Backups)
+WRK: (Work)
+PER: (Personal)
+
+ACD: (Account Data) - Google, YouTube, Spotify, Forums, Generic
+
+VLT: (Vault)
+BKV: (Vault Bookmarks)
+
+BMF: (Bookmarks: Firefox)
+BMC: (Bookmarks: Chrome)
+BMO: (Bookmarks: Opera)
+BME: (Bookmarks: Edge)
+BMR: (Bookmarks: Raindrop)
