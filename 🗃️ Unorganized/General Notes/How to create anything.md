@@ -27,7 +27,8 @@ Starting from the basic blocks is known as the **bottom-up** approach. Starting 
 	- This optimization should not be done in such a way that the resulting program will end up being less customizable. That is, instead of converting a Lua program to C++, make a compiler that would efficiently convert the Lua implementation to C++. Also (I'm only using Lua as an example here), make sure that Lua is designed to provide a specific format of design workflow, by which you will always end up designing good programs.
 
 1. Story of the White bird.
-2. 
+	1. In a world the scientists figured out that when you are in the grace of god, a white bird will appear
+
    - What we need
 	   - Compute
 		   - Integer
