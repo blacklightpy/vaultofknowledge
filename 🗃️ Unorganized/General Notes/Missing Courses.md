@@ -8,4 +8,6 @@
 - Linux From Assembly
 - C From Assembly (Standardization)
 
-Concepts: DSA (Trees)
+Concepts: DSA (Trees), AST (PPL), 
+
+Black Light Laboratories.
