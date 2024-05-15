@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -421,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+                "file": "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -438,7 +438,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+                "file": "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md"
+                "file": "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md"
               }
             }
           },
@@ -500,21 +500,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "caff95bc1af0b0d7",
+  "active": "e9f7533b97d25c53",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
+    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
     "🔮 World Building/Creativity and Arts/Sound Engineering.md",
     "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗃️ Unorganized/General Notes/My Philosophy of Software Design.md",
     "🗃️ Unorganized/General Notes/Bookmarks List.md",
     "🗃️ Unorganized/General Notes/American Social Problems.md",
     "🗃️ Unorganized/General Notes/Comparison of Nations.md",
-    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
     "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
     "🔮 World Building/Art of Creation/Example - An Operating System.md",
     "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
-    "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
     "🗃️ Unorganized/General Notes/Qt and GTK+ APIs.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Building DDE, KDE Plasma and GNOME.md",
