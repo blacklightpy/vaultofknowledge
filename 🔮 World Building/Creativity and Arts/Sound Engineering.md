@@ -24,6 +24,10 @@ So higher bit depth makes for a smoother signal waveform, and a lower bit depth 
 
 Of course, the signals can be decomposed into harmonics. But when it does, depending on the bit depth, there will be white noise at lower amplitudes, called the noise floor.
 
-Similarly, if
+Harmonic relationships between the sample rate, audio and bit depth can also create patterns in the quantization noise, which is called correlated noise. This can result in higher amplitudes at certain frequencies due to resonance, leading to a higher noise floor.
 
+But this can be reduced by [[dither|dithering]], a process where randomized values are used instead of truncating amplitude values. This results in uncorrelated noise, with no resonance, and that gives a lower noise floor.
 ### Distortion (due to clipping)
+If the input value is larger than what the recorder is designed to encode, it will result in distortion, due to clipping.
+
+The maximum amplitude before which clipping occurs is called 0 dBFS (0dB relative to full scale).
