@@ -364,7 +364,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
+                "file": "🗃️ Unorganized/General Notes/Missing Courses.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -422,7 +422,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -446,7 +447,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
+                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -463,7 +464,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
+                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -475,7 +476,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md"
+                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md"
               }
             }
           },
@@ -525,7 +526,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d634c33ae357b278",
+  "active": "ba635d557fcfc4a7",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
