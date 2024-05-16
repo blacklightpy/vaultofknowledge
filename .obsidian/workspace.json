@@ -164,19 +164,6 @@
             }
           },
           {
-            "id": "bb7768ee45cc0b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7ae6309ccab5e7be",
             "type": "leaf",
             "state": {
@@ -411,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -486,7 +473,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Crazy Claims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -503,7 +490,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Crazy Claims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -515,7 +502,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md"
+                "file": "🗃️ Unorganized/General Notes/Crazy Claims.md"
               }
             }
           },
@@ -565,12 +552,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bb7768ee45cc0b36",
+  "active": "93e0e3faa3950283",
   "lastOpenFiles": [
-    "_images/Pasted image 20240516232753.png",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
+    "_images/Islam - Child Farming.png",
     "_images/Muslim Ideas of Sex - in India 1.png",
     "🗃️ Unorganized/General Notes/Crazy Claims.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
@@ -602,7 +589,6 @@
     "_images/QIS Low Light Comparison.png",
     "_images/QIS Working Principle.png",
     "_images/Mesh overlap Moire Effect.png",
-    "_images/MobileNet Power Usage in Energy per Frame.png",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering",
