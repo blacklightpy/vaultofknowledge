@@ -370,9 +370,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93e0e3faa3950283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Crazy Claims.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -447,7 +460,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Missing Courses.md",
+                "file": "🗃️ Unorganized/General Notes/Crazy Claims.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +477,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Missing Courses.md",
+                "file": "🗃️ Unorganized/General Notes/Crazy Claims.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -476,7 +489,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Missing Courses.md"
+                "file": "🗃️ Unorganized/General Notes/Crazy Claims.md"
               }
             }
           },
@@ -526,10 +539,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d634c33ae357b278",
+  "active": "93e0e3faa3950283",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Old Index.md",
+    "🗃️ Unorganized/General Notes/Crazy Claims.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
+    "🗃️ Unorganized/General Notes/Old Index.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
@@ -553,7 +567,6 @@
     "🤠 Personal/Project Ideas/Updating my website.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Search Engines.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
