@@ -164,6 +164,19 @@
             }
           },
           {
+            "id": "bb7768ee45cc0b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ae6309ccab5e7be",
             "type": "leaf",
             "state": {
@@ -398,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -473,7 +486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,7 +503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -502,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md"
+                "file": "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md"
               }
             }
           },
@@ -552,10 +565,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a0889395057228a6",
+  "active": "bb7768ee45cc0b36",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
+    "_images/Pasted image 20240516232753.png",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
     "_images/Muslim Ideas of Sex - in India 1.png",
     "🗃️ Unorganized/General Notes/Crazy Claims.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
@@ -579,8 +594,6 @@
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Building DDE, KDE Plasma and GNOME.md",
     "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
-    "🗃️ Unorganized/General Notes/Versions of Gazebo packaged by Ubuntu.md",
-    "🤠 Personal/Project Ideas/Updating my website.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
