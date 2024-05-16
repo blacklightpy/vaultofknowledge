@@ -7,7 +7,13 @@
 		- Some also believe that Hamas came in response to theft of territory, and it would not have happened if Israel did not displace the Palestinians from their homes in 1948.
 			- **Counter Argument:**
 				- Though it could be reasoned for Israel that even if the beef is with the authorities, it is not possible to attack them without attacking the population, because the authorities are a general representation of the population.
-				- And Israel displaced the population without murdering them, which is something Muslims have never done over the years. With Muslim invasions, if the adult males among the dhimmis who are free and healthy wouldn't pay the Jizya tax, they would be imprisoned and abused. That was the purpose of Jizya tax, for the dhimmis to accept the submission to the superior Islamic regime.
+				- And Israel displaced the population without murdering them, which is something Muslims have never done over the years. With Muslim invasions, if the adult males among the dhimmis who are free and healthy wouldn't pay the Jizya tax, they would be imprisoned and abused.
+				- That was the purpose of Jizya tax, for the dhimmis to accept the submission to the superior Islamic regime, as per Quran 9:29, which states:
+					- **Fight those who believe not in Allah and in the Last Day**,
+					- and **who do not forbid what Allah and His Messenger have forbidden**,
+					- and **who follow not the Religion of Truth among those who were given the Book**,
+					- till they **pay the jizyah with a willing hand**,
+					- being **humbled.**
 - All commies are pro-Palestinians (claimed by U.S. conservatives)
 	- Reality:
 		- Commies do not care about religion, so some of them share the same viewpoint as Israelis, who are secular, in that the problem is Islamism
