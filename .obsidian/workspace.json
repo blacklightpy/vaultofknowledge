@@ -396,9 +396,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ed2fb6b5a5ca2cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🤠 Personal/Productivity/Productivity Tips.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "346c6245352da4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🤠 Personal/Productivity/Productivity Frameworks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -473,7 +499,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Missing Courses.md",
+                "file": "🤠 Personal/Productivity/Productivity Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,7 +516,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Missing Courses.md",
+                "file": "🤠 Personal/Productivity/Productivity Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -502,7 +528,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Missing Courses.md"
+                "file": "🤠 Personal/Productivity/Productivity Frameworks.md"
               }
             }
           },
@@ -552,15 +578,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d634c33ae357b278",
+  "active": "346c6245352da4e1",
   "lastOpenFiles": [
+    "🤠 Personal/Productivity/Productivity Tips.md",
+    "🤠 Personal/Productivity/Productivity Frameworks.md",
+    "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Crazy fallacies used by political propagandists.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
     "_images/Islam - Child Farming.png",
     "_images/Muslim Ideas of Sex - in India 1.png",
-    "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Old Index.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
@@ -580,7 +608,6 @@
     "🗃️ Unorganized/General Notes/Qt and GTK+ APIs.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "🗃️ Unorganized/General Notes/Building DDE, KDE Plasma and GNOME.md",
-    "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

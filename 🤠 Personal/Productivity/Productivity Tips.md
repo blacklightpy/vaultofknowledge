@@ -35,5 +35,9 @@ Organized:
 3. If you are using chrome or Edge browser, you can give try to a note-taking browser extension "Roughbook". You can download it from [Chrome Web Store.](https://chrome.google.com/webstore/detail/roughbook-quick-notes-tak/phomkpbjipcgmfpffhkaphddmclefofh)
 
 ### Frameworks
-PARA (Projects, Areas, Resources, Archive)
-GTD (Getting Things Done)
+- PARA (Projects, Areas, Resources, Archive)
+- GTD (Getting Things Done)
+- Johnny Decimal
+
+[[Productivity Frameworks]]
+
