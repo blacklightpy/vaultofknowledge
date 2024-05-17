@@ -33,7 +33,9 @@ GTD is a task management system.
 	- If so, do it right away.
 - If not, see if it's a task that is meant for you.
 	- If not, delegate it.
-- 
+- If not, see if the task is urgent
+	- If so, add it to the next actions list
+- If not, see if 
 
 ### Analogies with computer file systems
 
