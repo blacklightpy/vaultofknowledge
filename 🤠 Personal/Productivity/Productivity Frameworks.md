@@ -25,12 +25,13 @@ Johnny Decimal is an organization system, which is a simplification of the Dewey
 PARA is a messy organization system, that goes like Projects, Areas, Resources, Archives. Some people also like to put Projects inside Areas, making it go like Projects > Areas, Resources, Archives.
 
 GTD is a task management system.
-- In it, first you have to write down all your goals.
+- In it, first you have to write down all your ideas.
 	- All new ideas go in the inbox, which you review at a specific time of the day.
-- Next, you have to see whether the goals in the inbox are important or not.
+- Next, you have to see whether the ideas in the inbox are actionable or not.
 	- If they are not, either trash it, or set it aside.
+- If they are, define the next physical action to complete it.
 - Next, see if the task can be completed in under two minutes.
-	- If so, do it right away.
+	- If so, do it right away. (Why? Because tracking it will be more time consuming that the time to do it)
 - If not, see if it's a task that is meant for you.
 	- If not, delegate it.
 - If not, see if the task is urgent
