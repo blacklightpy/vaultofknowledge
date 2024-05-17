@@ -21,3 +21,10 @@ Johnny Decimal is an organization system, which is a simplification of the Dewey
 20-29 Category Slot 3
 ...
 ```
+
+PARA is a messy organization system.
+
+GTD is a task management system.
+
+### Analogies with computer file systems
+
