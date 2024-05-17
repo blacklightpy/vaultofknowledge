@@ -29,14 +29,19 @@ GTD is a task management system.
 	- All new ideas go in the inbox, which you review at a specific time of the day.
 - Next, you have to see whether the ideas in the inbox are actionable or not.
 	- If they are not, either trash it, or set it aside.
-- If they are, define the next physical action to complete it.
-- Next, see if the task can be completed in under two minutes.
-	- If so, do it right away. (Why? Because tracking it will be more time consuming that the time to do it)
-- If not, see if it's a task that is meant for you.
-	- If not, delegate it.
-- If not, see if the task is urgent
-	- If so, add it to the next actions list
-- If not, see if 
+	- If they are, define the next physical action to move closer to its target
+		- Next, see if the task can be completed in under two minutes.
+			- If so, do it right away. (Why? Because tracking it will be more time consuming that the time to do it)
+	- Next, see if there are multiple tasks required to complete a goal
+		- If so, group them under a Project and move it to the **Project List**
+	- If not, see if it's a task that is meant for you.
+		- If not, delegate it.
+			- Add these tasks to the **waiting for list**, and contact the person, and mark the current date on the item
+	- If not, see if the task is urgent
+		- If so, add it to the **next actions list**
+	- If not, see if it is context-specific
+		- If so, add it to the **context-specific list**
+	- 
 
 ### Analogies with computer file systems
 
