@@ -22,9 +22,18 @@ Johnny Decimal is an organization system, which is a simplification of the Dewey
 ...
 ```
 
-PARA is a messy organization system.
+PARA is a messy organization system, that goes like Projects, Areas, Resources, Archives. Some people also like to put Projects inside Areas, making it go like Projects > Areas, Resources, Archives.
 
 GTD is a task management system.
+- In it, first you have to write down all your goals.
+	- All new ideas go in the inbox, which you review at a specific time of the day.
+- Next, you have to see whether the goals in the inbox are important or not.
+	- If they are not, either trash it, or set it aside.
+- Next, see if the task can be completed in under two minutes.
+	- If so, do it right away.
+- If not, see if it's a task that is meant for you.
+	- If not, delegate it.
+- 
 
 ### Analogies with computer file systems
 
