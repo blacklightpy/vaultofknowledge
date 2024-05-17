@@ -36,22 +36,40 @@ GTD is a task management system.
 	- If they are, define the next physical action to move closer to its target
 		- Next, see if the task can be completed in under two minutes.
 			- If so, do it right away. (Why? Because tracking it will be more time consuming that the time to do it)
-		- Next, see if there are multiple tasks required to complete a goal
-			- If so, group them under a Project and move it to the **Project List**
 		- If not, see if it's a task that is meant for you.
 			- If not, delegate it.
-				- Add these tasks to the **waiting for list**, and contact the person, and mark the current date on the item
+				- Add these tasks to the ==waiting for list==, and contact the person, and mark the current date on the item
 		- If not, see if the task is urgent
-			- If so, add it to the **next actions list**
+			- If so, add it to the ==next actions list==
+		- Next, see if there are multiple tasks required to complete a goal
+			- If so, group them under a Project
+				- If the project is active, move it to the ==Project List==
+				- Otherwise, add it to the ==someday/maybe list==
+			- Make sure every project has at least one action in the ==next actions list==.
 		- If not, see if it is context-specific
-			- If so, add it to the **context-specific list**
-		- If it is dependent on a next occurrence, add it to the ==agenda-specific list**==
+			- If so, add it to the ==context-specific list==
+		- If it is dependent on a next occurrence, add it to the ==agenda-specific list==
 		- If it is not time dependent, add it to to a ==someday/maybe list==
 		- If it is for a specific date, add it to the ==calendar==.
 
 Next, you should review your lists every week.
 
-Make sure every project has at least one ==next action==.
+- Make sure every Project has at least one ==next action==.
+- Make sure that each action on your ==next actions== list is still immediately relevant.
+	- If not, move it it to the ==someday/maybe list== or trash it.
+- See if any action on your ==someday/maybe== list should be added to your ==next actions list==.
 
-### Analogies with computer file systems
+# Analogies with computer file systems
 
+**Johnny Decimal:**
+
+D: (System) > 100 Categories > Folder 1 > Content
+(In practice, there will be generally 30 categories and 4-5 folders, which will have further nesting)
+
+D: (System) > 10 Category Lists > Folders (10 Categories) > Folders (IDs) > Content
+
+One difference is that usually, files are stored in folders that do not have a full Johnny Decimal address.
+
+But definitely, we can draw some parallels as all of these are forms of information organization, and will have similar patterns.
+
+Forget my "D: > New Folder (2) > new2 > new > New Folder (3) > Content" XD
