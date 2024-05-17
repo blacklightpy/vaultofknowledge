@@ -43,7 +43,7 @@ GTD is a task management system.
 			- If so, add it to the ==next actions list==
 		- Next, see if there are multiple tasks required to complete a goal
 			- If so, group them under a Project
-				- If the project is active, move it to the ==Project List==
+				- If the project is active, move it to the ==projects list==
 				- Otherwise, add it to the ==someday/maybe list==
 			- Make sure every project has at least one action in the ==next actions list==.
 		- If not, see if it is context-specific
@@ -54,10 +54,20 @@ GTD is a task management system.
 
 Next, you should review your lists every week.
 
-- Make sure every Project has at least one ==next action==.
+- Make sure every project has at least one ==next action==.
 - Make sure that each action on your ==next actions== list is still immediately relevant.
 	- If not, move it it to the ==someday/maybe list== or trash it.
-- See if any action on your ==someday/maybe== list should be added to your ==next actions list==.
+- See if any action on your ==someday/maybe== list should be added to your ==next actions list== or ==projects list==
+	- If you're adding a new project to the ==projects list==, make sure it has at least one action in the ==next actions list==
+- During weekly review, also populate a ==trigger list== which is a bunch of keywords about aspects of your life, which can make you remember things that you haven't captured.
+	- If any new idea comes up while reading your ==trigger list==, put it in your ==in list==
+
+**Optional Tools:**
+- Read/Review List: For reading/reviewing to-read lists [I don't need]
+- Tickler List: 43 folders (31+12)
+	- Put a reminder item in each day of the month + group others in the month specific folders.
+	- On each day, open the day's folder and have the right stuff for the day's actions.
+	- At the end of each month, open the next month's folder and arrange the files into the daily folders.
 
 # Analogies with computer file systems
 
