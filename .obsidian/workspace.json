@@ -390,7 +390,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
+                "file": "🗃️ Unorganized/General Notes/Database Software.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -473,7 +473,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
+                "file": "🗃️ Unorganized/General Notes/Database Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,7 +490,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
+                "file": "🗃️ Unorganized/General Notes/Database Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -502,7 +502,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spreadsheet Software.md"
+                "file": "🗃️ Unorganized/General Notes/Database Software.md"
               }
             }
           },
@@ -555,6 +555,7 @@
   "active": "beafde4addd60153",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
+    "🗃️ Unorganized/General Notes/Database Software.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Crazy fallacies used by political propagandists.md",
@@ -581,7 +582,6 @@
     "🔮 World Building/Art of Creation/Example - An Operating System.md",
     "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
     "🗃️ Unorganized/General Notes/Qt and GTK+ APIs.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
