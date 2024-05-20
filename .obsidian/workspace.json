@@ -396,9 +396,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7720e3636878e37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Eraser Diagramming Linux.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -473,7 +486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database Software.md",
+                "file": "🗃️ Unorganized/General Notes/Eraser Diagramming Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,7 +503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database Software.md",
+                "file": "🗃️ Unorganized/General Notes/Eraser Diagramming Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -502,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database Software.md"
+                "file": "🗃️ Unorganized/General Notes/Eraser Diagramming Linux.md"
               }
             }
           },
@@ -552,10 +565,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "beafde4addd60153",
+  "active": "7720e3636878e37b",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
+    "🗃️ Unorganized/General Notes/Eraser Diagramming Linux.md",
     "🗃️ Unorganized/General Notes/Database Software.md",
+    "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Crazy fallacies used by political propagandists.md",
@@ -581,7 +595,6 @@
     "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
     "🔮 World Building/Art of Creation/Example - An Operating System.md",
     "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
-    "🗃️ Unorganized/General Notes/Qt and GTK+ APIs.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
