@@ -372,19 +372,6 @@
             }
           },
           {
-            "id": "93e0e3faa3950283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Crazy fallacies used by political propagandists.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a0889395057228a6",
             "type": "leaf",
             "state": {
@@ -396,35 +383,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0ed2fb6b5a5ca2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🤠 Personal/Productivity/Productivity Tips.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "346c6245352da4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🤠 Personal/Productivity/Productivity Frameworks.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -499,7 +460,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤠 Personal/Productivity/Productivity Frameworks.md",
+                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -516,7 +477,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤠 Personal/Productivity/Productivity Frameworks.md",
+                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -528,7 +489,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤠 Personal/Productivity/Productivity Frameworks.md"
+                "file": "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md"
               }
             }
           },
@@ -578,13 +539,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "346c6245352da4e1",
+  "active": "ba635d557fcfc4a7",
   "lastOpenFiles": [
-    "🤠 Personal/Productivity/Productivity Tips.md",
-    "🤠 Personal/Productivity/Productivity Frameworks.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Crazy fallacies used by political propagandists.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🤠 Personal/Productivity/Productivity Tips.md",
+    "🤠 Personal/Productivity/Productivity Frameworks.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
     "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
     "_images/Islam - Child Farming.png",
