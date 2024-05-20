@@ -390,7 +390,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database Software.md",
+                "file": "🗃️ Unorganized/General Notes/Diagramming Tools.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -403,7 +403,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Eraser Diagramming Linux.md",
+                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -411,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -486,7 +486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database Software.md",
+                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -503,7 +503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database Software.md",
+                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -515,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database Software.md"
+                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md"
               }
             }
           },
@@ -565,10 +565,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "beafde4addd60153",
+  "active": "7720e3636878e37b",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Eraser Diagramming Linux.md",
+    "🗃️ Unorganized/General Notes/Diagramming Tools.md",
     "🗃️ Unorganized/General Notes/Database Software.md",
+    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
@@ -594,7 +595,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
     "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
     "🔮 World Building/Art of Creation/Example - An Operating System.md",
-    "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
