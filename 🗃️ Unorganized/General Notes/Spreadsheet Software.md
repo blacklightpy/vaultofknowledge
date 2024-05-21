@@ -1,11 +1,11 @@
 ## Local Software
 ### Free
 - LibreOffice Calc (ODF, XLS, XLSX)
-- ONLYOFFICE
+- ONLYOFFICE (ODF, XLS, XLSX)
 ### Proprietary Freeware
-- Microsoft Office Excel
-- WPS Office Spreadsheets
+- Microsoft Office Excel (XLS, XLSX)
+- WPS Office Spreadsheets (XLSX)
 ## Network Software
-- Grist
-- Google Sheets
-- Microsoft Office Online
+- Grist (SQLite3 DB)
+- Google Sheets (XLSX, gsheet, ODF)
+- Microsoft Office Online (XLS, XLSX)
