@@ -1,4 +1,32 @@
 
+## Format
+
+```
+
+// "color" will be autopicked, so only specify "icon"
+
+Name [color: color-id] {
+
+	Sub-Item Name [icon: icon-id] {
+
+		...
+		
+	}
+}
+
+```
+
+```
+Item1 > Item2
+...
+```
+
+
+## Attempt
+
+
+
+## Example
 ```
 
 title Abstract Linux Distribution Architecture
