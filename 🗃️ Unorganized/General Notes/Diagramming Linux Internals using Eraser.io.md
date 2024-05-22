@@ -74,11 +74,16 @@ Item1 > Item2
 - Shell
 	- e.g. GNU Bash
 
-- Login Manager
+- Login ManagerX Windowing System v11 Rev.7, or X11, or X
 	- e.g. LightDM
 
 - Graphical Environment
-	- 
+	- A graphical environment would consist of a **window manager**, which draws program windows, a **compositing manager** which handles any special effects with regards to the windows, such as animations, blur, etc., and other noticeable components such as the **status bar or task bar**, **app launcher** and any other widgets.
+	- If the **window manager** also consists of a **compositing manager**, it is then called a **compositing window manager** or **compositor**.
+	- If a project comes with a **window manager** or **compositor** bundled with a **status bar**, **app launcher** and any other widgets, then it is called a **desktop environment**.
+	- A graphical environment also needs to have protocol for applications to communicate with the window manager and for the window manager to communicate with the kernel.
+	- There are two major displaying protocols for desktop, namely the old **X Windowing System v11 Rev.7**, or **X11**, or **X**, and the newer **Wayland** protocol. There was also **Mir** by Canonical, but it did not gain any adoption.
+	- **X** was a client-server protocol where the **window manager** or **compositor** would be **X** clients just like other programs, with the **window manager** or **compositor** having exclusive access to the background **X Server**, the main implementation for which was by the X.Org Foundation, namely **X.Org**.
 
 
 
