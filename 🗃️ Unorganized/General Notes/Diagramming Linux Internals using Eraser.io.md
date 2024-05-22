@@ -82,11 +82,38 @@ Item1 > Item2
 	- If the **window manager** also consists of a **compositing manager**, it is then called a **compositing window manager** or **compositor**.
 	- If a project comes with a **window manager** or **compositor** bundled with a **status bar**, **app launcher** and any other widgets, then it is called a **desktop environment**.
 	- A graphical environment also needs to have protocol for applications to communicate with the window manager and for the window manager to communicate with the kernel.
+
+- Graphical Environment Protocols
 	- There are two major displaying protocols for desktop, namely the old **X Windowing System v11 Rev.7**, or **X11**, or **X**, and the newer **Wayland** protocol. There was also **Mir** by Canonical, but it did not gain any adoption.
-	- **X** was a client-server protocol where the **window manager** or **compositor** would be **X** clients just like other programs, with the **window manager** or **compositor** having exclusive access to the background **X Server**, the main implementation for which was by the X.Org Foundation, namely **X.Org**.
+	- **X** was a client-server protocol where the **window manager** or **compositor** would be **X** clients just like other programs, with the **window manager** or **compositor** having exclusive access to the background **X Server**, the main implementation for which was by the X.Org Foundation, namely the **X.Org X Server**.
+	- **Wayland** is too a client-server protocol, but one where the **window manager** also implements compositing and the **Wayland Server**, and they are thus called **compositors**, or **Wayland compositors** for clarity.
+	- **Wayland compositors** can handle legacy **X** clients using the **XWayland** compatibility layer.
 
+- Type of Window Managers
+	- Manual Tiling Window Managers
+	- Stacking/Floating Window Managers
+	- Dynamic Tiling Window Managers
 
+- Manual Tiling Window Managers
+	- List
+- Dynamic Tiling Window Managers
+	- List
+- Stacking/Floating Window Managers
+	- List
+- Status Bars
+	- List
+- App Launchers
+	- List
+- Desktop Widget Frameworks
+	- List
 
+- Desktop Environments
+	- List
+	- e.g. GNOME
+		- Wayland Compositor
+		- Status Bar
+		- Launcher
+		- Widgets
 
 ## Example
 ```
