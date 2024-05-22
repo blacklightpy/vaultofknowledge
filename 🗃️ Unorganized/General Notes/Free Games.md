@@ -1,4 +1,12 @@
-# 3D First Person Shooter
-- Xonotic
+# Fully Free
+- [3D FPS] Xonotic
+
+# Code Free, Content Paid
+
+## Original Release
+## Ports
+##
+
+# Unclassified
 - Unvanquished
 - Urban Terror
