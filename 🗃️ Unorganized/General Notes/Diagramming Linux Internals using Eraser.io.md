@@ -58,9 +58,9 @@ Item1 > Item2
 			- User Space Inter-Process Communication Service (D-Bus Service / dbus)
 			- IP Addressing Service (DHCP Client Service / dhcpcd)
 			- Logging Service (socklog-void Service (Void Linux specific) / socklog-unix + nanoklogd)
-			- Power Profile Management Service (Power Profiles Daemon / power-profiles-daemon)
-			- Plug and Play Device Service (eudevd, forked from systemd-udevd)
-			- User Seat and Session Manager Service (elogind, forked from systemd-logind)
+			- Power Profile Management Service (Power Profiles Daemon from UPower / power-profiles-daemon)
+			- Plug and Play Device Service (udevd from systemd / eudevd, forked from systemd-udevd)
+			- User Seat and Session Manager Service (logind from systemd / elogind, forked from systemd-logind)
 
 - Root File System (/) [Follows the Filesystem Hierarchy Standard (FHS) from the Linux Standard Base (LSB) project]
 	- Populated At Boot
@@ -159,42 +159,74 @@ Item1 > Item2
 - Shared Libraries
 	- e.g.
 		- System C Library (GNU C Library, already mentioned)
-		- GTK Library
+		- GTK+ Library
 		- zlib Library
 		- 3D Graphics Library (Mesa 3D)
 
 - Graphical Environment Utilities
 	- e.g.
 		- Authentication Service (Polkit, already mentioned in Services)
-		- Authentication Frontend (Polkit KDE Agent)
-		- Sound Mixer (PipeWire)
-		- Userland IPC (D-Bus)
+		- Authentication Frontend (Polkit KDE Agent / `polkit-kde-agent`)
+		- Sound Mixer (PipeWire / `pipewire`)
+		- Userland IPC (D-Bus, already mentioned in Services)
 
 - Graphical Environment Configuration Tools
 	- e.g.
-		- GTK Configuration Tool (nwg-look)
-		- Qt Configuration Tool (qt5ct/qt6ct)
-		- Kvantum Theme Manager for Qt (kvantummanager)
+		- GTK+ Configuration Tool (nwg-Look / `nwg-look`)
+		- Qt Configuration Tool (`qt5ct`/`qt6ct`)
+		- Kvantum Theme Manager for Qt (`kvantummanager`)
 
 - Utility Programs
 	- e.g.
-		- Web Browser (Firefox)
-		- Media Player (VLC)
-		- E-Mail Client (Thunderbird)
+		- Web Browser (Firefox / `firefox`)
+		- Media Player (VLC / `vlc`)
+		- E-Mail Client (Thunderbird / `thunderbird`)
 
 - Console Accessories
 	- e.g.
-		- Terminal (Alacritty)
-		- Modal Text Editor (Helix)
-		- Terminal File Manager (lf)
-		- Media Player (MPV)
-		- Music Player (ncmpcpp)
-		- Archiver (TAR)
-		- Archiver (ZIP)
-		- Archiver (7-Zip)
+		- Terminal (Alacritty / `alacritty`)
+		- Modal Text Editor (Helix / `hx`)
+		- Terminal File Manager (lf / `lf`)
+		- Media Player (MPV / `mpv`)
+		- Music Player (ncurses Music Player / `ncmpcpp`)
+		- Archiver (GNU TAR / `tar`)
+		- Archiver (Unzip / `unzip`)
+		- Archiver (7-Zip / `7z`)
+
+- Common Developer Tools
+	- Build Essentials
+		- C/C++ Toolchain (GNU GCC / `gcc` + g`++`)
+		- Build System (GNU Make / `make`)
+		- Build System Script Generator (GNU Autotools / `autoconf` + `automake`)
+	- Optionally:
+		- CMake Build System (`cmake`)
+		- Python 3 Toolchain (`python3`)
+		- Git Version Control System (`git`)
+		- Any Other Language’s Toolchains (Go, Rust, etc.)
+
+Alternatives	
+Type	Alternative Program
+- Shell	ZSH, KSH, Fish, NuShell, Powershell
+- Init	systemd, OpenRC, SysVInit
+- System Utilities	Busybox, Toybox, rust-coreutils
+- C Library	Musl
+- Login Manager	GDM, XDM, SDDM
+- (Greeter)	*many LightDM Greeters*
+- Display Protocols	X11, Mir
+- Window Managers	*many*
+- Status Bars	*many*
+- Launchers	*many*
+- Widgets	*many*
+- Icon Packs	*many*
+- GTK Themes	*many*
+- Qt Themes	*many*
+	
+- Program Customizations	*wild*
+- Program Alternatives	*wild*
+- C/C++ Compiler	Clang with LLVM
 
 
-
+## Attempt (Code)
 ## Example
 ```
 
