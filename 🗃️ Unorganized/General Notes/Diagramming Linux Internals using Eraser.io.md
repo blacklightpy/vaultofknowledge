@@ -1088,3 +1088,54 @@ Userland > Software
 Userland > Filesystem Directories
 
 ```
+
+# Final
+
+## 1. Kernel Overview
+```
+Kernel [icon: linux, color: blue] {
+
+CPU Related [icon: cpu, color:violet] {
+
+Processing Functions [icon: code]
+
+}
+
+Memory Related [icon: data, color:lightblue] {
+
+Memory Functions [icon: code]
+
+}
+
+Storage Related [icon: storage, color:green] {
+
+Storage Functions [icon: code]
+
+}
+
+Networking Related [icon: network, color:yellow] {
+
+Networking Functions [icon: code]
+
+}
+
+"I/O Ports Related" [icon: plug, color:orange] {
+
+System Functions [icon: code]
+
+}
+
+"I/O Devices Related" [icon:monitor, color:red] {
+
+Human Interface Functions [icon: code]
+
+}
+
+}
+```
+
+## 2. Some Kernel Systems
+
+```
+
+```
