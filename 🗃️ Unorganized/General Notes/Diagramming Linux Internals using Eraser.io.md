@@ -65,7 +65,8 @@ Item1 > Item2
 - Init System
 	- e.g. Runit
 - Service Management
-	- e.g. Runit
+	- Service Manager
+		- e.g. Runit
 	- Installed Services / Daemons
 		- e.g.
 			- Time Synchronization Service (NTP Daemon / ntpd)
@@ -77,7 +78,7 @@ Item1 > Item2
 			- Power Profile Management Service (Power Profiles Daemon from UPower / power-profiles-daemon)
 			- Plug and Play Device Service (udevd from systemd / eudevd, forked from systemd-udevd)
 			- User Seat and Session Manager Service (logind from systemd / elogind, forked from systemd-logind)
-			- Login Manager Service (LightDM / lightdm)
+			- Display Manager Service (LightDM / lightdm)
 
 ## File System and Programs
 
@@ -257,19 +258,11 @@ Item1 > Item2
 
 - Alternatives	
 	- Shell
-		- ZSH
-		- KSH
-		- Fish
-		- NuShell
-		- Microsoft Powershell
-	- Init System
-		- systemd
-		- OpenRC
-		- SysVInit
+		- ZSH (`zsh`) | Korn Shell (`ksh`) | Fish (`fish`) | NuShell (`nushell`) | Microsoft PowerShell (`pwsh`)
+	- Init System: 
+		- systemd | OpenRC | SysVInit
 	- System Core Utilities
-		- Busybox
-		- Toybox
-		- rust-coreutils
+		- Busybox | Toybox | rust-coreutils
 	- Firewall
 		- Low Level CLI
 			- `iptables` (older de-facto CLI tool)
@@ -280,14 +273,12 @@ Item1 > Item2
 	- C Library
 		- Musl
 	- Login Manager
-		- GDM
-		- XDM
+		- GDM | SDDM | XDM
 		- SDDM
-	- (Greeter)
+	- Greeter
 		- *many LightDM Greeters*
 	- Display Protocols
-		- X11
-		- Mir
+		- X11 | Mir
 	- Window Managers
 		- *many*
 	- Status Bars
@@ -307,17 +298,13 @@ Item1 > Item2
 	- Generic Program Alternatives
 		- *wildly many*
 	- C/C++ Compiler
-		- Clang with LLVM
+		- Clang + LLVM
 
 - Freedesktop.org Standards and Software
 	- Specifications
-		- XDG Window Manager Spec (formerly called EWMH Spec)
-		- XDG Icon Theme Spec
-		- XDG Icon Theme Naming Spec
-		- XDG Sound Theme Spec
-		- XDG Sound Theme Naming Spec
-		- XDG System Tray Spec
-		- XDG MPRIS Spec (Music Player Notification Controls, based on D-Bus)
+		- XDG Window Manager Spec (formerly called EWMH Spec) | XDG Icon Theme Spec
+		- XDG Icon Theme Naming Spec | XDG Sound Theme Spec | XDG Sound Theme Naming Spec
+		- XDG System Tray Spec | XDG MPRIS Spec (Music Player Notification Controls, based on D-Bus)
 		- XDG MIME Apps Spec (Default Apps)
 		- XDG Desktop Entry Spec (App Shortcuts (.desktop files))
 		- XDG Menu Spec (App Launcher Menu)
@@ -330,27 +317,14 @@ Item1 > Item2
 		- XDG Clipboard Extensions Spec
 		- D-Bus (User-Space Inter-process Communications)
 	- Software
-		- AccountService
-		- D-Bus
-		- Polkit
-		- NetworkManager
-		- Upower
-		- Desktop File Utils
-		- Shared MIME Info (MIME type collection)
-		- XDG Utils
-		- Cairo (Drawing Library)
-		- Mesa3D (Graphics API Impelementation)
-		- Noveau (NVIDIA Open Source Driver)
-		- Pixman (Low Level 2D Pixel Manipulation Library)
-		- Plymouth (Boot Splash)
-		- Wayland (Current Display Protocol – Core Library)
-		- X.Org (Old Display Protocol – Libraries and X Server)
-		- Gstreamer (Multimedia Framework)
-		- Fontconfig (Font Access Library)
-		- FreeType (TrueType Font Rendering Library)
-		- Libinput (Library for Input Device Handling)
-		- pkg-config (Build System Package Identification)
-		- PulseAudio (Sound Mixer)
+		- AccountService | D-Bus | Polkit | NetworkManager | Upower | Desktop File Utils
+		- Shared MIME Info (MIME type collection) | XDG Utils | Cairo (Drawing Library)
+		- Mesa3D (Graphics API Impelementation) | Noveau (NVIDIA Open Source Driver)
+		- Pixman (Low Level 2D Pixel Manipulation Library) | Plymouth (Boot Splash)
+		- Wayland (Current Display Protocol – Core Library) | X.Org (Old Display Protocol – Libraries and X Server)
+		- Gstreamer (Multimedia Framework) | Fontconfig (Font Access Library)
+		- FreeType (TrueType Font Rendering Library) | Libinput (Library for Input Device Handling)
+		- pkg-config (Build System Package Identification) | PulseAudio (Sound Mixer)
 		- PipeWire (Sound Mixer with low-latency driver, replacing both PulseAudio and JACK)
 	- Software Formerly Hosted on Freedesktop.org:
 		- AppStream (App Metadata)
