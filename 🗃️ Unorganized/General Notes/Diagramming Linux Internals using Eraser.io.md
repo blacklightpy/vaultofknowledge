@@ -324,7 +324,7 @@ Item1 > Item2
 		- XDG Autostart Spec (Startup Apps)
 		- XDG Base Directories Spec (Standard Paths)
 		- XDG Trash Spec
-		- XDG File Manager D-Bus Interfac
+		- XDG File Manager D-Bus Interface
 		- XDG Thumbnails Spec
 		- XDG Clipboard Spec
 		- XDG Clipboard Extensions Spec
@@ -745,7 +745,7 @@ Freedesktop.org Standards and Software {
 		XDG Autostart Spec (Startup Apps)
 		XDG Base Directories Spec (Standard Paths)
 		XDG Trash Spec
-		XDG File Manager D-Bus Interfac
+		XDG File Manager D-Bus Interface
 		XDG Thumbnails Spec
 		XDG Clipboard Spec
 		XDG Clipboard Extensions Spec
