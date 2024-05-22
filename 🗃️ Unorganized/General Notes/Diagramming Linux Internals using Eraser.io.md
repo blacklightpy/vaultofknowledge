@@ -1165,5 +1165,22 @@ Display System [icon: display, color: blue] {
 ## 3. Motherboard Firmware and Boot Stage
 
 ```
+"Motherboard" [color: black] {
 
+"Firmware (BIOS / UEFI)" [icon: azure-power]
+
+}
+
+  
+
+"Bootup" [color: black, icon: loader] {
+
+"UEFI/BIOS Boot Manager" [color: indigo, icon: menu]
+
+"Kernel" [color: yellow, icon: linux]
+
+"initramfs" [color: orange, icon: disc]
+
+}
 ```
+
