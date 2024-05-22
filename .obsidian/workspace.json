@@ -409,6 +409,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e15e495f4595c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux firewalls.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 30
@@ -567,8 +580,10 @@
   },
   "active": "7720e3636878e37b",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux firewalls.md",
+    "🗃️ Unorganized/General Notes/How to use firewalld.md",
     "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
+    "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
     "🗃️ Unorganized/General Notes/Diagramming Tools.md",
     "🗃️ Unorganized/General Notes/Database Software.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
@@ -593,8 +608,6 @@
     "🗃️ Unorganized/General Notes/American Social Problems.md",
     "🗃️ Unorganized/General Notes/Comparison of Nations.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
-    "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
-    "🔮 World Building/Art of Creation/Example - An Operating System.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

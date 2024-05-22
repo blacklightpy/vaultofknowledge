@@ -38,6 +38,11 @@ Item1 > Item2
 	- **Human Interface Functions**
 		- **I/O Devices Related**
 
+- Some Kernel Systems
+	- ALSA (Kernel Sound System)
+	- netfilter (Kernel Firewall System)
+	- DRM/KMS (Kernel Display System)
+
 # Userspace
 
 ## Motherboard Firmware and Boot Stage
@@ -100,6 +105,17 @@ Item1 > Item2
 		- GNU Core Utilities
 		- GNU Binary Utilities
 		- util-linux
+
+- Firewall
+	- Low Level CLI
+		- e.g.
+			- `nftables` (Newer de-facto tool)
+	- High Level CLI
+		- e.g.
+			- `firewalld` (Supports `iptables` and `nftables`)
+	- GUI
+		- e.g.
+			- `firewall-gui` (Frontend for `firewalld`)
 
 - Command Shell
 	- e.g. GNU Bash
@@ -248,7 +264,12 @@ Item1 > Item2
 		- Toybox
 		- rust-coreutils
 	- Firewall
-		- Low Level (iptables/ip6tables) / High Level ()
+		- Low Level CLI
+			- `iptables` (older de-facto CLI tool)
+		- High Level CLI
+			- `ufw` (Supports only `iptables`)
+		- High Level GUI
+			- `gufw` (Frontend for `ufw`)
 	- C Library
 		- Musl
 	- Login Manager
