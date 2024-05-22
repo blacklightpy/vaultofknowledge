@@ -281,22 +281,22 @@ Item1 > Item2
 
 - Freedesktop.org Standards and Software
 	- Specifications
-		- Window Manager Spec (formerly called EWMH Spec)
-		- Icon Theme Spec
-		- Icon Theme Naming Spec
-		- Sound Theme Spec
-		- Sound Theme Naming Spec
-		- System Tray Spec
+		- XDG Window Manager Spec (formerly called EWMH Spec)
+		- XDG Icon Theme Spec
+		- XDG Icon Theme Naming Spec
+		- XDG Sound Theme Spec
+		- XDG Sound Theme Naming Spec
+		- XDG System Tray Spec
 		- MPRIS Spec (Music Player Notification Controls)
-		- Menu Spec
-		- MIME Apps Spec (Default Apps)
-		- Desktop Entry Spec (App Shortcuts)
-		- Autostart Spec (Startup Apps)
-		- Base Directories Spec (Standard Paths)
-		- Trash Spec
-		- Thumbnails Spec
-		- Clipboard Spec
-		- Clipboard Extensions Spec
+		- XDG MIME Apps Spec (Default Apps)
+		- XDG Desktop Entry Spec (App Shortcuts (.desktop files))
+		- XDG Desktop Menu Spec (App Launcher Menu)
+		- XDG Autostart Spec (Startup Apps)
+		- XDG Base Directories Spec (Standard Paths)
+		- XDG Trash Spec
+		- XDG Thumbnails Spec
+		- XDG Clipboard Spec
+		- XDG Clipboard Extensions Spec
 		- D-Bus (User-Space Inter-process Communications)
 	- Software
 		- AccountService
@@ -320,6 +320,7 @@ Item1 > Item2
 		- Libinput (Library for Input Device Handling)
 		- pkg-config (Build System Package Identification)
 		- PulseAudio (Sound Mixer)
+		- PipeWire (Sound Mixer with low-latency driver, replacing both PulseAudio and JACK)
 	- Software Formerly Hosted on Freedesktop.org:
 		- AppStream (App Metadata)
 		- at-spi2  (Accessibility Framework)
