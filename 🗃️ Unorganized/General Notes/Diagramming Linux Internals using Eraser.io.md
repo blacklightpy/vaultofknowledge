@@ -41,8 +41,47 @@ Item1 > Item2
 	- Kernel
 	- initramfs
 
+- Kernel Modules
+
+- Boot Splash
+	- e.g. Plymouth
+
 - Init System
+	- e.g. Runit
+- Service Management
+	- e.g. Runit
+
+- Root File System (/)
+	- Populated At Boot
+		- dev (Devices)
+		- proc (Processes)
+		- run (Runtime Data Folder)
+		- tmp (Temporary Files Folder)
+	- Persistent
+		- boot (Boot Files)
+		- usr (Userland (Software))
+		- etc (System-Wide Configurations)
+		- var (Variable Storage (Program Data))
+		- srv (Dedicated Server Folder (optional))
+		- home (Users' Home)
+	- Other Folders
+		- /bin, /sbin, etc. are now links to /usr/bin
+
+- System Utilities
+	- e.g. GNU Core Utilities
+	- e.g. GNU Binary Utilities
+
+- Shell
+	- e.g. GNU Bash
+
+- Login Manager
+	- e.g. LightDM
+
+- Graphical Environment
 	- 
+
+
+
 
 ## Example
 ```
