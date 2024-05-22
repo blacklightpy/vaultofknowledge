@@ -87,15 +87,20 @@ Item1 > Item2
 		- proc (Processes)
 		- run (Runtime Data Folder)
 		- tmp (Temporary Files Folder)
+		- sys (I/O Devices)
 	- Persistent
 		- boot (Boot Files)
 		- usr (Userland (Software))
 		- etc (System-Wide Configurations)
 		- var (Variable Storage (Program Data))
 		- srv (Dedicated Server Folder (optional))
+		- opt (Optional Storage (For manual installations))
+		- mnt (Default Mount Directory)
 		- home (Users' Home)
+		- root (Root Home)
 	- Other Folders
-		- /bin, /sbin, etc. are now links to /usr/bin
+		- `/bin`, `/sbin`, etc. are now links to `/usr/bin`
+		- `/lib`, `/lib32` and `/lib64` now link to `/usr/lib`
 
 - System C Library
 	- e.g. GNU C Library
