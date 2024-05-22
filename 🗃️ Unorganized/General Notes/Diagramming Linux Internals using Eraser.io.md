@@ -247,6 +247,8 @@ Item1 > Item2
 		- Busybox
 		- Toybox
 		- rust-coreutils
+	- Firewall
+		- Low Level (iptables/ip6tables) / High Level ()
 	- C Library
 		- Musl
 	- Login Manager
@@ -287,13 +289,14 @@ Item1 > Item2
 		- XDG Sound Theme Spec
 		- XDG Sound Theme Naming Spec
 		- XDG System Tray Spec
-		- MPRIS Spec (Music Player Notification Controls)
+		- XDG MPRIS Spec (Music Player Notification Controls, based on D-Bus)
 		- XDG MIME Apps Spec (Default Apps)
 		- XDG Desktop Entry Spec (App Shortcuts (.desktop files))
-		- XDG Desktop Menu Spec (App Launcher Menu)
+		- XDG Menu Spec (App Launcher Menu)
 		- XDG Autostart Spec (Startup Apps)
 		- XDG Base Directories Spec (Standard Paths)
 		- XDG Trash Spec
+		- XDG File Manager D-Bus Interfac
 		- XDG Thumbnails Spec
 		- XDG Clipboard Spec
 		- XDG Clipboard Extensions Spec
