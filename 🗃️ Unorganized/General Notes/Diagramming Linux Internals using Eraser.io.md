@@ -72,6 +72,7 @@ Item1 > Item2
 			- Power Profile Management Service (Power Profiles Daemon from UPower / power-profiles-daemon)
 			- Plug and Play Device Service (udevd from systemd / eudevd, forked from systemd-udevd)
 			- User Seat and Session Manager Service (logind from systemd / elogind, forked from systemd-logind)
+			- Login Manager Service (LightDM / lightdm)
 
 ## File System and Programs
 
@@ -98,23 +99,25 @@ Item1 > Item2
 	- e.g. GNU Core Utilities
 	- e.g. GNU Binary Utilities
 
-- Shell
+- Command Shell
 	- e.g. GNU Bash
 
-- Login Manager
+> A login manager or display manager handles the login screen, and the screen during logout, instead of falling back to the Virtual Console or TTY. The visual part of the login manager is called its greeter, and some display managers let you customize it to let you have the design you want.
+
+- Login Manager / Display Manager
 	- e.g. LightDM
 
-- Graphical Environment
-	- A graphical environment would consist of a **window manager**, which draws program windows, a **compositing manager** which handles any special effects with regards to the windows, such as animations, blur, etc., and other noticeable components such as the **status bar or task bar**, **app launcher** and any other widgets.
-	- If the **window manager** also consists of a **compositing manager**, it is then called a **compositing window manager** or **compositor**.
-	- If a project comes with a **window manager** or **compositor** bundled with a **status bar**, **app launcher** and any other widgets, then it is called a **desktop environment**.
-	- A graphical environment also needs to have protocol for applications to communicate with the window manager and for the window manager to communicate with the kernel.
-
-- Graphical Environment Protocols
-	- There are two major displaying protocols for desktop, namely the old **X Windowing System v11 Rev.7**, or **X11**, or **X**, and the newer **Wayland** protocol. There was also **Mir** by Canonical, but it did not gain any adoption.
-	- **X** was a client-server protocol where the **window manager** or **compositor** would be **X** clients just like other programs, with the **window manager** or **compositor** having exclusive access to the background **X Server**, the main implementation for which was by the X.Org Foundation, namely the **X.Org X Server**.
-	- **Wayland** is too a client-server protocol, but one where the **window manager** also implements compositing and the **Wayland Server**, and they are thus called **compositors**, or **Wayland compositors** for clarity.
-	- **Wayland compositors** can handle legacy **X** clients using the **XWayland** compatibility layer.
+> - Graphical Environment
+> 	- A graphical environment would consist of a **window manager**, which draws program windows, a **compositing manager** which handles any special effects with regards to the windows, such as animations, blur, etc., and other noticeable components such as the **status bar or task bar**, **app launcher** and any other widgets.
+> 	- If the **window manager** also consists of a **compositing manager**, it is then called a **compositing window manager** or **compositor**.
+> 	- If a project comes with a **window manager** or **compositor** bundled with a **status bar**, **app launcher** and any other widgets, then it is called a **desktop environment**.
+> 	- A graphical environment also needs to have protocol for applications to communicate with the window manager and for the window manager to communicate with the kernel.
+> 
+> - Graphical Environment Protocols
+> 	- There are two major displaying protocols for desktop, namely the old **X Windowing System v11 Rev.7**, or **X11**, or **X**, and the newer **Wayland** protocol. There was also **Mir** by Canonical, but it did not gain any adoption.
+> 	- **X** was a client-server protocol where the **window manager** or **compositor** would be **X** clients just like other programs, with the **window manager** or **compositor** having exclusive access to the background **X Server**, the main implementation for which was by the X.Org Foundation, namely the **X.Org X Server**.
+> 	- **Wayland** is too a client-server protocol, but one where the **window manager** also implements compositing and the **Wayland Server**, and they are thus called **compositors**, or **Wayland compositors** for clarity.
+> 	- **Wayland compositors** can handle legacy **X** clients using the **XWayland** compatibility layer.
 
 - Type of Window Managers
 	- Manual Tiling Window Managers
@@ -142,22 +145,22 @@ Item1 > Item2
 		- Launcher
 		- Widgets
 
-- Package Manager
-	- Every distribution is opinionated in its own ways regarding how software is packaged.
-	- This has to do with how distributions originated with different sets of base software, requiring different names for the base packages, alongside their design decisions for maintaining packages and providing a certain experience to the users (such as naming development headers for a program as `pkg-devel` or `libpkg-dev`, or bundle them with `pkg`).
-	- So, every base distribution typically comes with their own **package format** and hence a **package installer** and **package manager**, unless they share common ideologies. Even then, the package names, and sometimes even the **package manager** would be different, with only the **package format** and the **package installer** being the same. Derivatives of a distribution tend to keep the same **package manager** and package names for the most part, but the versions of packages would vary, and there may be more packages than what the base distribution has.
-	- A simple **package installer** would simply install the contents of a package file, provided it does not conflict with any installed packages. But a **package manager** would connect to the software repositories configured in the system and install any package and any missing dependencies as well. It would likely make use of the **package installer** to carry out the installations of packages received from the repository.
-	- The **package manager** will also have security systems in place to verify file integrity during transit, by signing the packages.
-
-- Sandboxes and Containers
-	- The native package managers in any system tend to package software in such a way that programs depend on other programs in the repository, mostly to reduce duplication, for storage efficiency reasons.
-	- Also, for this reason, specific releases of a distribution tend to package only one version of packages, which would be the latest version at the time of the distribution's release, and put the binaries of all programs in a single folder, and shared libraries in another folder, and so on. This also saves the trouble of having to register every software's binary install location into the `PATH` variable so you can easily access installed programs from the command line, which is a very useful tool in free software systems for their powerful capabilities.
-	- Since software is not installed in separate folders, we cannot have multiple versions of a package installed at the same time, as it would overwrite the files of the other version. This is generally not an issue as distributions package versions that are best suited for the user, however, for whatever reason, you may want to have a different version of certain software that what's packaged. Perhaps you want to have a newer version of a program, but the distribution only makes newer releases every six months, unlike rolling release distributions.
-	- If you constantly need the latest packages, switching to a rolling release distribution would be best. However, for occasional packages, you either need to find a third party repository that provides the package (if you don't want to have the distribution's version), install it somewhere separately if you find a pre-packaged binary, build it from source if it's a lightweight program and you have the right computing power and time, or you can use a sandboxed package manager or container.
-	- Sandboxed package managers install packages and any of their dependencies in a separate location from the system, in its own folder structure, which allows installation of multiple versions of packages.
-	- Containers are usually used for production purposes, but can fulfil the same purpose. They allow you to run a set of packages in isolation from the system, and port the entire system as an image that you can run on other machines.
-	- Containers are essentially the thing as sandboxes, but they tend to be broader scoped than sandboxes, which are usually cross-platform, while containers generally tend to contain a minimal userspace of distributions including their package managers to leverage their package ecosystem.
-	- Also, containers are different from virtual machines as they are mistakenly understood, because they do not make use of virtualization, since they are simply programs that run in a space isolated from the rest of the system. But containers also provide features like RAM and CPU restriction, etc.
+> - Package Manager
+> 	- Every distribution is opinionated in its own ways regarding how software is packaged.
+> 	- This has to do with how distributions originated with different sets of base software, requiring different names for the base packages, alongside their design decisions for maintaining packages and providing a certain experience to the users (such as naming development headers for a program as `pkg-devel` or `libpkg-dev`, or bundle them with `pkg`).
+> 	- So, every base distribution typically comes with their own **package format** and hence a **package installer** and **package manager**, unless they share common ideologies. Even then, the package names, and sometimes even the **package manager** would be different, with only the **package format** and the **package installer** being the same. Derivatives of a distribution tend to keep the same **package manager** and package names for the most part, but the versions of packages would vary, and there may be more packages than what the base distribution has.
+> 	- A simple **package installer** would simply install the contents of a package file, provided it does not conflict with any installed packages. But a **package manager** would connect to the software repositories configured in the system and install any package and any missing dependencies as well. It would likely make use of the **package installer** to carry out the installations of packages received from the repository.
+> 	- The **package manager** will also have security systems in place to verify file integrity during transit, by signing the packages.
+> 
+> - Sandboxes and Containers
+> 	- The native package managers in any system tend to package software in such a way that programs depend on other programs in the repository, mostly to reduce duplication, for storage efficiency reasons.
+> 	- Also, for this reason, specific releases of a distribution tend to package only one version of packages, which would be the latest version at the time of the distribution's release, and put the binaries of all programs in a single folder, and shared libraries in another folder, and so on. This also saves the trouble of having to register every software's binary install location into the `PATH` variable so you can easily access installed programs from the command line, which is a very useful tool in free software systems for their powerful capabilities.
+> 	- Since software is not installed in separate folders, we cannot have multiple versions of a package installed at the same time, as it would overwrite the files of the other version. This is generally not an issue as distributions package versions that are best suited for the user, however, for whatever reason, you may want to have a different version of certain software that what's packaged. Perhaps you want to have a newer version of a program, but the distribution only makes newer releases every six months, unlike rolling release distributions.
+> 	- If you constantly need the latest packages, switching to a rolling release distribution would be best. However, for occasional packages, you either need to find a third party repository that provides the package (if you don't want to have the distribution's version), install it somewhere separately if you find a pre-packaged binary, build it from source if it's a lightweight program and you have the right computing power and time, or you can use a sandboxed package manager or container.
+> 	- Sandboxed package managers install packages and any of their dependencies in a separate location from the system, in its own folder structure, which allows installation of multiple versions of packages.
+> 	- Containers are usually used for production purposes, but can fulfil the same purpose. They allow you to run a set of packages in isolation from the system, and port the entire system as an image that you can run on other machines.
+> 	- Containers are essentially the thing as sandboxes, but they tend to be broader scoped than sandboxes, which are usually cross-platform, while containers generally tend to contain a minimal userspace of distributions including their package managers to leverage their package ecosystem.
+> 	- Also, containers are different from virtual machines as they are mistakenly understood, because they do not make use of virtualization, since they are simply programs that run in a space isolated from the rest of the system. But containers also provide features like RAM and CPU restriction, etc.
 
  > When we are speaking about containers, we are usually referring to the Open Container Infrastructure (OCI) standard for container images, distribution and runtimes, which was formed based on the container implementation by the Docker project.
 
@@ -275,7 +278,11 @@ Item1 > Item2
 
 ## Attempt (Code)
 
+```
 
+
+
+```
 
 ## Example
 ```
