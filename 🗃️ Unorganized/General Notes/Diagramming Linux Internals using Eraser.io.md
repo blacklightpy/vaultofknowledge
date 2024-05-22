@@ -116,6 +116,12 @@ Item1 > Item2
 		- Widgets
 
 - Package Manager
+	- Every distribution is opinionated in its own ways regarding how software is packaged.
+	- This has to do with how distributions originated with different sets of base software, requiring different names for the base packages, alongside their design decisions for maintaining packages and providing a certain experience to the users (such as naming development headers for a program as `pkg-devel` or `libpkg-dev`, or bundle them with `pkg`).
+	- So, every base distribution typically comes with their own **package format** and hence a **package installer** and **package manager**.
+	- A simple **package installer** would simply install the contents of a package file, provided it does not conflict with any installed packages. But a **package manager** would connect to the software repositories configured in the system and install any package and any missing dependen
+
+OCI Containers
 
 ## Example
 ```
