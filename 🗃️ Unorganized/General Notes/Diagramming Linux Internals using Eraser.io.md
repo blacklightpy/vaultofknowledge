@@ -1,5 +1,5 @@
 
-## Format
+# Format
 
 ```
 
@@ -21,8 +21,7 @@ Item1 > Item2
 ...
 ```
 
-
-## Attempt (Categorization)
+# Attempt (Categorization)
 
 - **Kernel**
 	- **Processing Functions**
@@ -45,7 +44,7 @@ Item1 > Item2
 
 # Userspace
 
-## Motherboard Firmware and Boot Stage
+### Motherboard Firmware and Boot Stage
 
 - Motherboard
 	- Firmware (BIOS / UEFI)
@@ -55,7 +54,7 @@ Item1 > Item2
 	- Kernel
 	- initramfs
 
-## Init Stage
+### Init Stage
 
 - Kernel Modules
 
@@ -80,7 +79,7 @@ Item1 > Item2
 			- User Seat and Session Manager Service (logind from systemd / elogind, forked from systemd-logind)
 			- Display Manager Service (LightDM / lightdm)
 
-## File System and Programs
+### File System and Programs
 
 - Root File System (/) [Follows the Filesystem Hierarchy Standard (FHS) from the Linux Standard Base (LSB) project]
 	- Populated At Boot
@@ -129,11 +128,13 @@ Item1 > Item2
 - Command Shell
 	- e.g. GNU Bash (`bash`)
 
+### Display Manager
 > A login manager or display manager handles the login screen, and the screen during logout, instead of falling back to the Virtual Console or TTY. The visual part of the login manager is called its greeter, and some display managers let you customize it to let you have the design you want.
 
 - Login Manager / Display Manager
 	- e.g. LightDM
 
+### Graphical Environment
 > - Graphical Environment
 > 	- A graphical environment would consist of a **window manager**, which draws program windows, a **compositing manager** which handles any special effects with regards to the windows, such as animations, blur, etc., and other noticeable components such as the **status bar or task bar**, **app launcher** and any other widgets.
 > 	- If the **window manager** also consists of a **compositing manager**, it is then called a **compositing window manager** or **compositor**.
@@ -148,7 +149,9 @@ Item1 > Item2
 >
 > - Additional Styling
 > 	- Not to mention, we can use **font packs**, **icon packs or icon themes**, **colour schemes or colour themes**, and even apply **sound schemes or sound themes**, although that's not as widespread these days.
-> 	- 
+> 	- **GTK+** and **Qt** are the main GUI frameworks for desktop operating systems. Applications based on them derive their widget styles from the active **GTK+ theme** or **Qt theme** in the system respectively.
+> 	- Some window managers (or compositors) like KDE Plasma's KWin allow theming the **window decorations** using a theme engine, which for KWin is Aurorae.
+> 	- Last but not the least, **desktop wallpapers** matter :D
 
 - Type of Window Managers
 	- Manual Tiling Window Managers
@@ -175,6 +178,8 @@ Item1 > Item2
 		- Status Bar
 		- Launcher
 		- Widgets
+
+### Package Manager
 
 > - Package Manager
 > 	- Every distribution is opinionated in its own ways regarding how software is packaged.
@@ -212,6 +217,7 @@ Item1 > Item2
 			- Nix
 	- Containers
 
+### Packages
 - Shared Libraries
 	- e.g.
 		- System C Library (GNU C Library, already mentioned)
@@ -260,6 +266,7 @@ Item1 > Item2
 		- Git Version Control System (`git`)
 		- Any Other Language’s Toolchains (Go, Rust, etc.)
 
+### Alternatives
 - Alternatives	
 	- Shell
 		- ZSH (`zsh`) | Korn Shell (`ksh`) | Fish (`fish`) | NuShell (`nushell`) | Microsoft PowerShell (`pwsh`)
@@ -305,6 +312,7 @@ Item1 > Item2
 	- C/C++ Compiler
 		- Clang + LLVM
 
+### Standards
 - Freedesktop.org Standards and Software
 	- Specifications
 		- XDG Window Manager Spec (formerly called EWMH Spec) | XDG Icon Theme Spec
@@ -330,7 +338,7 @@ Item1 > Item2
 		- Flatpak | HarfBuzz (OpenType Font Layout Engine) | LibreOffice | PackageKit
 		- systemd (Full System Manager) | UDisks (Storage Management)
 
-## Attempt (Code)
+# Attempt (Code)
 
 I made all notes into comments, and there are no icons yet. Still, I observed that Eraser.io did not render some blocks correctly, despite me accounting for any syntax errors.
 
@@ -757,7 +765,7 @@ Freedesktop.org Standards and Software {
 
 ```
 
-## Example
+# Example Code
 ```
 
 title Abstract Linux Distribution Architecture
