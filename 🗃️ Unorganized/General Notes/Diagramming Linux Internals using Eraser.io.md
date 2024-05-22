@@ -119,9 +119,15 @@ Item1 > Item2
 	- Every distribution is opinionated in its own ways regarding how software is packaged.
 	- This has to do with how distributions originated with different sets of base software, requiring different names for the base packages, alongside their design decisions for maintaining packages and providing a certain experience to the users (such as naming development headers for a program as `pkg-devel` or `libpkg-dev`, or bundle them with `pkg`).
 	- So, every base distribution typically comes with their own **package format** and hence a **package installer** and **package manager**.
-	- A simple **package installer** would simply install the contents of a package file, provided it does not conflict with any installed packages. But a **package manager** would connect to the software repositories configured in the system and install any package and any missing dependen
+	- A simple **package installer** would simply install the contents of a package file, provided it does not conflict with any installed packages. But a **package manager** would connect to the software repositories configured in the system and install any package and any missing dependencies as well. It would likely make use of the **package installer** to carry out the installations of packages received from the repository.
+	- The **package manager** will also have security systems in place to verify file integrity during transit, by signing the packages.
 
-OCI Containers
+- Sandboxes and Containers
+	- The native package managers in any system tend to package software in such a way that programs depend on other programs in the repository, mostly to reduce duplication, for storage efficiency reasons.
+	- Also, for this reason, specific releases of a distribution tend to package only one version of packages, which would be the latest version at the time of the distribution's release, and put the binaries of all programs in a single folder, and shared libraries in another folder, and so on.
+	- Since software is not installed in separate folders, we cannot have multiple versions of a package installed at the same time, as it would overwrite the files of the other version. This is generally not an issue as distributions package versions that are best suited for the user, however, for whatever reason, you may want to have a different version of certain software that what's packaged.
+	- 
+
 
 ## Example
 ```
