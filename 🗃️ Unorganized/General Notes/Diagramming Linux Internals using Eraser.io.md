@@ -22,7 +22,7 @@ Item1 > Item2
 ```
 
 
-## Attempt
+## Attempt (Categorization)
 
 | HW Feature  | Kernel Function           |
 | ----------- | ------------------------- |
@@ -50,8 +50,10 @@ Item1 > Item2
 	- e.g. Runit
 - Service Management
 	- e.g. Runit
+	- Installed Services
+		- e.g. Time Synchronization Service, Bluetooth Scanner Service, Wi-Fi Scanner Service, D-Bus Service, DHCP Client Service, Logging Service, Power Profiles Servic
 
-- Root File System (/)
+- Root File System (/) [Follows the Filesystem Hierarchy Standard (FHS) from the Linux Standard Base (LSB) project]
 	- Populated At Boot
 		- dev (Devices)
 		- proc (Processes)
@@ -66,6 +68,9 @@ Item1 > Item2
 		- home (Users' Home)
 	- Other Folders
 		- /bin, /sbin, etc. are now links to /usr/bin
+
+- System C Library
+	- e.g. GNU C Library
 
 - System Utilities
 	- e.g. GNU Core Utilities
@@ -129,9 +134,10 @@ Item1 > Item2
 	- If you constantly need the latest packages, switching to a rolling release distribution would be best. However, for occasional packages, you either need to find a third party repository that provides the package (if you don't want to have the distribution's version), install it somewhere separately if you find a pre-packaged binary, build it from source if it's a lightweight program and you have the right computing power and time, or you can use a sandboxed package manager or container.
 	- Sandboxed package managers install packages and any of their dependencies in a separate location from the system, in its own folder structure, which allows installation of multiple versions of packages.
 	- Containers are usually used for production purposes, but can fulfil the same purpose. They allow you to run a set of packages in isolation from the system, and port the entire system as an image that you can run on other machines.
-	- When we are speaking about containers, we are usually referring to the OCI container standard for container images,, based on the Docker project.
 	- Containers are essentially the thing as sandboxes, but they tend to be broader scoped than sandboxes, which are usually cross-platform, while containers generally tend to contain a minimal userspace of distributions including their package managers to leverage their package ecosystem.
 	- Also, containers are different from virtual machines as they are mistakenly understood, because they do not make use of virtualization, since they are simply programs that run in a space isolated from the rest of the system. But containers also provide features like RAM and CPU restriction, etc.
+
+ > When we are speaking about containers, we are usually referring to the Open Container Infrastructure (OCI) standard for container images, distribution and runtimes, which was formed based on the container implementation by the Docker project.
 
 - Native Package Installer
 	- e.g. dpkg (used in Debian), RPM (used in Fedora)
@@ -140,9 +146,17 @@ Item1 > Item2
 - Sandboxed Package Manager
 	- e.g. Flatpak, Nix
 - Containers
-	- e.g. OCI Container Images (aka Docker Containers)
 
+- Shared Libraries
+	- e.g. GTK Library, zlib Library, System C Library (GNU C Libary, already mentioned), 3D Graphics Library (Mesa 3D)
 
+- Graphical Environment Utilities
+	- e.g. Authentication Service (Polkit), Authentication Frontend (Polkit KDE Agent), Sound Mixer (PipeWire), Userland IPC (D-Bus)
+
+- Graphical Environment Configuration Tools
+	- e.g. GTK Configuration Tool (nwg-look), Qt Configuration Tool (qt5ct/qt6ct), Kvantum Theme Manager for Qt (kvantummanager)
+
+- 
 ## Example
 ```
 
