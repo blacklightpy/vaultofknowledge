@@ -24,7 +24,25 @@ Item1 > Item2
 
 ## Attempt
 
+| HW Feature  | Kernel Function           |
+| ----------- | ------------------------- |
+| CPU         | Processing Functions      |
+| Memory      | Memory Functions          |
+| Storage     | Storage Functions         |
+| Network     | Networking Functions      |
+| I/O Ports   | System Functions          |
+| I/O Devices | Human Interface Functions |
 
+- Motherboard
+	- Firmware (BIOS / UEFI)
+
+- Bootup
+	- UEFI/BIOS Boot Manager
+	- Kernel
+	- initramfs
+
+- Init System
+	- 
 
 ## Example
 ```
