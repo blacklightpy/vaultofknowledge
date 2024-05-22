@@ -97,7 +97,7 @@ Item1 > Item2
 
 - System Utilities
 	- e.g. GNU Core Utilities
-	- e.g. GNU Binary Utilities
+	- Binary Utilities GNU Binary Utilities
 
 - Command Shell
 	- e.g. GNU Bash
@@ -235,12 +235,12 @@ Item1 > Item2
 		- KSH
 		- Fish
 		- NuShell
-		- Powershell
-	- Init
+		- Microsoft Powershell
+	- Init System
 		- systemd
 		- OpenRC
 		- SysVInit
-	- System Utilities
+	- System Core Utilities
 		- Busybox
 		- Toybox
 		- rust-coreutils
@@ -275,6 +275,29 @@ Item1 > Item2
 		- *wildly many*
 	- C/C++ Compiler
 		- Clang with LLVM
+
+- Freedesktop.org Standards and Software
+	- Specifications
+
+Window Manager Spec (formerly called EWMH Spec)
+Icon Theme Spec
+Icon Theme Naming Spec
+Sound Theme Spec
+Sound Theme Naming Spec
+System Tray Spec
+MPRIS Spec (Music Player Notification Controls)
+Menu Spec
+MIME Apps Spec (Default Apps)
+Desktop Entry Spec (App Shortcuts)
+Autostart Spec (Startup Apps)
+Base Directories Spec (Standard Paths)
+Trash Spec
+Thumbnails Spec
+Clipboard Spec
+Clipboard Extensions Spec
+D-Bus (User-Space Inter-process Communications)
+
+
 
 ## Attempt (Code)
 
