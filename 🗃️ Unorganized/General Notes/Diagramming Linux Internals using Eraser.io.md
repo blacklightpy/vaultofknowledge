@@ -50,8 +50,17 @@ Item1 > Item2
 	- e.g. Runit
 - Service Management
 	- e.g. Runit
-	- Installed Services
-		- e.g. Time Synchronization Service, Bluetooth Scanner Service, Wi-Fi Scanner Service, D-Bus Service, DHCP Client Service, Logging Service, Power Profiles Servic
+	- Installed Services / Daemons
+		- e.g.
+			- Time Synchronization Service (NTP Daemon / ntpd)
+			- Bluetooth Scanner Service (Bluetooth Daemon / bluetoothd)
+			- Wi-Fi Scanner Service (NetworkManager Service / NetworkManager)
+			- User Space Inter-Process Communication Service (D-Bus Service / dbus)
+			- IP Addressing Service (DHCP Client Service / dhcpcd)
+			- Logging Service (socklog-void Service (Void Linux specific) / socklog-unix + nanoklogd)
+			- Power Profile Management Service (Power Profiles Daemon / power-profiles-daemon)
+			- Plug and Play Device Service (eudevd, forked from systemd-udevd)
+			- User Seat and Session Manager Service (elogind, forked from systemd-logind)
 
 - Root File System (/) [Follows the Filesystem Hierarchy Standard (FHS) from the Linux Standard Base (LSB) project]
 	- Populated At Boot
@@ -148,15 +157,44 @@ Item1 > Item2
 - Containers
 
 - Shared Libraries
-	- e.g. GTK Library, zlib Library, System C Library (GNU C Libary, already mentioned), 3D Graphics Library (Mesa 3D)
+	- e.g.
+		- System C Library (GNU C Library, already mentioned)
+		- GTK Library
+		- zlib Library
+		- 3D Graphics Library (Mesa 3D)
 
 - Graphical Environment Utilities
-	- e.g. Authentication Service (Polkit), Authentication Frontend (Polkit KDE Agent), Sound Mixer (PipeWire), Userland IPC (D-Bus)
+	- e.g.
+		- Authentication Service (Polkit, already mentioned in Services)
+		- Authentication Frontend (Polkit KDE Agent)
+		- Sound Mixer (PipeWire)
+		- Userland IPC (D-Bus)
 
 - Graphical Environment Configuration Tools
-	- e.g. GTK Configuration Tool (nwg-look), Qt Configuration Tool (qt5ct/qt6ct), Kvantum Theme Manager for Qt (kvantummanager)
+	- e.g.
+		- GTK Configuration Tool (nwg-look)
+		- Qt Configuration Tool (qt5ct/qt6ct)
+		- Kvantum Theme Manager for Qt (kvantummanager)
 
-- 
+- Utility Programs
+	- e.g.
+		- Web Browser (Firefox)
+		- Media Player (VLC)
+		- E-Mail Client (Thunderbird)
+
+- Console Accessories
+	- e.g.
+		- Terminal (Alacritty)
+		- Modal Text Editor (Helix)
+		- Terminal File Manager (lf)
+		- Media Player (MPV)
+		- Music Player (ncmpcpp)
+		- Archiver (TAR)
+		- Archiver (ZIP)
+		- Archiver (7-Zip)
+
+
+
 ## Example
 ```
 
