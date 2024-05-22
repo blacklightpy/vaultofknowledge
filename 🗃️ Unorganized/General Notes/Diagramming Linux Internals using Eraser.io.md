@@ -145,6 +145,10 @@ Item1 > Item2
 > 	- **X** was a client-server protocol where the **window manager** or **compositor** would be **X** clients just like other programs, with the **window manager** or **compositor** having exclusive access to the background **X Server**, the main implementation for which was by the X.Org Foundation, namely the **X.Org X Server**.
 > 	- **Wayland** is too a client-server protocol, but one where the **window manager** also implements compositing and the **Wayland Server**, and they are thus called **compositors**, or **Wayland compositors** for clarity.
 > 	- **Wayland compositors** can handle legacy **X** clients using the **XWayland** compatibility layer.
+>
+> - Additional Styling
+> 	- Not to mention, we can use **font packs**, **icon packs or icon themes**, **colour schemes or colour themes**, and even apply **sound schemes or sound themes**, although that's not as widespread these days.
+> 	- 
 
 - Type of Window Managers
 	- Manual Tiling Window Managers
@@ -270,11 +274,12 @@ Item1 > Item2
 			- `ufw` (Supports only `iptables`)
 		- High Level GUI
 			- `gufw` (Frontend for `ufw`)
+	- Sound Mixer
+		- ALSA-dmix | PulseAudio | JACK
 	- C Library
-		- Musl
+		- Musl C Library
 	- Login Manager
 		- GDM | SDDM | XDM
-		- SDDM
 	- Greeter
 		- *many LightDM Greeters*
 	- Display Protocols
@@ -305,16 +310,10 @@ Item1 > Item2
 		- XDG Window Manager Spec (formerly called EWMH Spec) | XDG Icon Theme Spec
 		- XDG Icon Theme Naming Spec | XDG Sound Theme Spec | XDG Sound Theme Naming Spec
 		- XDG System Tray Spec | XDG MPRIS Spec (Music Player Notification Controls, based on D-Bus)
-		- XDG MIME Apps Spec (Default Apps)
-		- XDG Desktop Entry Spec (App Shortcuts (.desktop files))
-		- XDG Menu Spec (App Launcher Menu)
-		- XDG Autostart Spec (Startup Apps)
-		- XDG Base Directories Spec (Standard Paths)
-		- XDG Trash Spec
-		- XDG File Manager D-Bus Interface
-		- XDG Thumbnails Spec
-		- XDG Clipboard Spec
-		- XDG Clipboard Extensions Spec
+		- XDG MIME Apps Spec (Default Apps) | XDG Desktop Entry Spec (App Shortcuts (.desktop files))
+		- XDG Menu Spec (App Launcher Menu) | XDG Autostart Spec (Startup Apps)
+		- XDG Base Directories Spec (Standard Paths) | XDG Trash Spec | XDG File Manager D-Bus Interface
+		- XDG Thumbnails Spec | XDG Clipboard Spec | XDG Clipboard Extensions Spec
 		- D-Bus (User-Space Inter-process Communications)
 	- Software
 		- AccountService | D-Bus | Polkit | NetworkManager | Upower | Desktop File Utils
@@ -327,15 +326,9 @@ Item1 > Item2
 		- pkg-config (Build System Package Identification) | PulseAudio (Sound Mixer)
 		- PipeWire (Sound Mixer with low-latency driver, replacing both PulseAudio and JACK)
 	- Software Formerly Hosted on Freedesktop.org:
-		- AppStream (App Metadata)
-		- at-spi2  (Accessibility Framework)
-		- Avahi (Multicast DNS)
-		- Flatpak
-		- HarfBuzz (OpenType Font Layout Engine)
-		- LibreOffice
-		- PackageKit
-		- systemd (Full System Manager)
-		- UDisks (Storage Management)
+		- AppStream (App Metadata) | at-spi2  (Accessibility Framework) | Avahi (Multicast DNS)
+		- Flatpak | HarfBuzz (OpenType Font Layout Engine) | LibreOffice | PackageKit
+		- systemd (Full System Manager) | UDisks (Storage Management)
 
 ## Attempt (Code)
 
@@ -527,13 +520,13 @@ Desktop Environments {
 	e.g. GNOME {
 		Wayland Compositor {
 			Mutter
-    }
+	    }
 		Status Bar {
 			GNOME Shell
-    }
+	    }
 		Launcher {
 			GNOME Shell
-    }
+	    }
 		Widgets {
 			GNOME Shell + GNOME Shell Extensions
 		}
@@ -1134,7 +1127,7 @@ Display System [icon: display, color: blue] {
 }
 ```
 
-# Userspace
+# User Space
 
 ## 3. Motherboard Firmware and Boot Stage
 

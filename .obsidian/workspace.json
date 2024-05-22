@@ -385,19 +385,6 @@
             }
           },
           {
-            "id": "beafde4addd60153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7720e3636878e37b",
             "type": "leaf",
             "state": {
@@ -409,22 +396,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e15e495f4595c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux firewalls.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -580,16 +554,16 @@
   },
   "active": "7720e3636878e37b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Missing Courses.md",
+    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/General Notes/Diagramming Tools.md",
+    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux firewalls.md",
     "🗃️ Unorganized/General Notes/How to use firewalld.md",
-    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
-    "🗃️ Unorganized/General Notes/Diagramming Tools.md",
     "🗃️ Unorganized/General Notes/Database Software.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
-    "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Crazy fallacies used by political propagandists.md",
-    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
     "🤠 Personal/Productivity/Productivity Tips.md",
     "🤠 Personal/Productivity/Productivity Frameworks.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
