@@ -115,6 +115,8 @@ Item1 > Item2
 		- Launcher
 		- Widgets
 
+- Package Manager
+
 ## Example
 ```
 
