@@ -117,8 +117,11 @@ Item1 > Item2
 		- e.g.
 			- `firewall-gui` (Frontend for `firewalld`)
 
+- Sound Mixer
+	- e.g. PipeWire (`pipewire`)
+
 - Command Shell
-	- e.g. GNU Bash
+	- e.g. GNU Bash (`bash`)
 
 > A login manager or display manager handles the login screen, and the screen during logout, instead of falling back to the Virtual Console or TTY. The visual part of the login manager is called its greeter, and some display managers let you customize it to let you have the design you want.
 
@@ -210,7 +213,6 @@ Item1 > Item2
 	- e.g.
 		- Authentication Service (Polkit, already mentioned in Services)
 		- Authentication Frontend (Polkit KDE Agent / `polkit-kde-agent`)
-		- Sound Mixer (PipeWire / `pipewire`)
 		- Userland IPC (D-Bus, already mentioned in Services)
 
 - Graphical Environment Configuration Tools
