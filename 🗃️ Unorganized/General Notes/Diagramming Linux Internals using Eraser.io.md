@@ -118,7 +118,7 @@ Item1 > Item2
 - Package Manager
 	- Every distribution is opinionated in its own ways regarding how software is packaged.
 	- This has to do with how distributions originated with different sets of base software, requiring different names for the base packages, alongside their design decisions for maintaining packages and providing a certain experience to the users (such as naming development headers for a program as `pkg-devel` or `libpkg-dev`, or bundle them with `pkg`).
-	- So, every base distribution typically comes with their own **package format** and hence a **package installer** and **package manager**.
+	- So, every base distribution typically comes with their own **package format** and hence a **package installer** and **package manager**, unless they share common ideologies. Even then, the package names, and sometimes even the **package manager** would be different, with only the **package format** and the **package installer** being the same. Derivatives of a distribution tend to keep the same **package manager** and package names for the most part, but the versions of packages would vary, and there may be more packages than what the base distribution has.
 	- A simple **package installer** would simply install the contents of a package file, provided it does not conflict with any installed packages. But a **package manager** would connect to the software repositories configured in the system and install any package and any missing dependencies as well. It would likely make use of the **package installer** to carry out the installations of packages received from the repository.
 	- The **package manager** will also have security systems in place to verify file integrity during transit, by signing the packages.
 
@@ -127,8 +127,20 @@ Item1 > Item2
 	- Also, for this reason, specific releases of a distribution tend to package only one version of packages, which would be the latest version at the time of the distribution's release, and put the binaries of all programs in a single folder, and shared libraries in another folder, and so on. This also saves the trouble of having to register every software's binary install location into the `PATH` variable so you can easily access installed programs from the command line, which is a very useful tool in free software systems for their powerful capabilities.
 	- Since software is not installed in separate folders, we cannot have multiple versions of a package installed at the same time, as it would overwrite the files of the other version. This is generally not an issue as distributions package versions that are best suited for the user, however, for whatever reason, you may want to have a different version of certain software that what's packaged. Perhaps you want to have a newer version of a program, but the distribution only makes newer releases every six months, unlike rolling release distributions.
 	- If you constantly need the latest packages, switching to a rolling release distribution would be best. However, for occasional packages, you either need to find a third party repository that provides the package (if you don't want to have the distribution's version), install it somewhere separately if you find a pre-packaged binary, build it from source if it's a lightweight program and you have the right computing power and time, or you can use a sandboxed package manager or container.
-	- Sandboxed package managers install packages and any of their dependencies in a separate location from the system, in its own folder structure, which allows installation of multiple versions of packages. Containers are usually used for production purposes, but can fulfil the same purpose. They allow you to run a set of packages in isolation from the system, and port the entire system as an image that you can run on other machines.
-	- Same thing, but they tend to be broader scoped than sandboxes, which are usually cross-platform, while containers 
+	- Sandboxed package managers install packages and any of their dependencies in a separate location from the system, in its own folder structure, which allows installation of multiple versions of packages.
+	- Containers are usually used for production purposes, but can fulfil the same purpose. They allow you to run a set of packages in isolation from the system, and port the entire system as an image that you can run on other machines.
+	- When we are speaking about containers, we are usually referring to the OCI container standard for container images,, based on the Docker project.
+	- Containers are essentially the thing as sandboxes, but they tend to be broader scoped than sandboxes, which are usually cross-platform, while containers generally tend to contain a minimal userspace of distributions including their package managers to leverage their package ecosystem.
+	- Also, containers are different from virtual machines as they are mistakenly understood, because they do not make use of virtualization, since they are simply programs that run in a space isolated from the rest of the system. But containers also provide features like RAM and CPU restriction, etc.
+
+- Native Package Installer
+	- e.g. dpkg (used in Debian), RPM (used in Fedora)
+- Native Package Manager
+	- e.g. APT (used in Debian), DNF (used in Fedora)
+- Sandboxed Package Manager
+	- e.g. Flatpak, Nix
+- Containers
+	- e.g. OCI Container Images (aka Docker Containers)
 
 
 ## Example
