@@ -96,8 +96,10 @@ Item1 > Item2
 	- e.g. GNU C Library
 
 - System Utilities
-	- e.g. GNU Core Utilities
-	- Binary Utilities GNU Binary Utilities
+	- e.g.
+		- GNU Core Utilities
+		- GNU Binary Utilities
+		- util-linux
 
 - Command Shell
 	- e.g. GNU Bash
@@ -224,6 +226,7 @@ Item1 > Item2
 		- Build System (GNU Make / `make`)
 		- Build System Script Generator (GNU Autotools / `autoconf` + `automake`)
 	- Optionally:
+		- Debugger (GNU GDB / `gdb`)
 		- CMake Build System (`cmake`)
 		- Python 3 Toolchain (`python3`)
 		- Git Version Control System (`git`)
@@ -278,24 +281,55 @@ Item1 > Item2
 
 - Freedesktop.org Standards and Software
 	- Specifications
-
-Window Manager Spec (formerly called EWMH Spec)
-Icon Theme Spec
-Icon Theme Naming Spec
-Sound Theme Spec
-Sound Theme Naming Spec
-System Tray Spec
-MPRIS Spec (Music Player Notification Controls)
-Menu Spec
-MIME Apps Spec (Default Apps)
-Desktop Entry Spec (App Shortcuts)
-Autostart Spec (Startup Apps)
-Base Directories Spec (Standard Paths)
-Trash Spec
-Thumbnails Spec
-Clipboard Spec
-Clipboard Extensions Spec
-D-Bus (User-Space Inter-process Communications)
+		- Window Manager Spec (formerly called EWMH Spec)
+		- Icon Theme Spec
+		- Icon Theme Naming Spec
+		- Sound Theme Spec
+		- Sound Theme Naming Spec
+		- System Tray Spec
+		- MPRIS Spec (Music Player Notification Controls)
+		- Menu Spec
+		- MIME Apps Spec (Default Apps)
+		- Desktop Entry Spec (App Shortcuts)
+		- Autostart Spec (Startup Apps)
+		- Base Directories Spec (Standard Paths)
+		- Trash Spec
+		- Thumbnails Spec
+		- Clipboard Spec
+		- Clipboard Extensions Spec
+		- D-Bus (User-Space Inter-process Communications)
+	- Software
+		- AccountService
+		- D-Bus
+		- Polkit
+		- NetworkManager
+		- Upower
+		- Desktop File Utils
+		- Shared MIME Info (MIME type collection)
+		- XDG Utils
+		- Cairo (Drawing Library)
+		- Mesa3D (Graphics API Impelementation)
+		- Noveau (NVIDIA Open Source Driver)
+		- Pixman (Low Level 2D Pixel Manipulation Library)
+		- Plymouth (Boot Splash)
+		- Wayland (Current Display Protocol – Core Library)
+		- X.Org (Old Display Protocol – Libraries and X Server)
+		- Gstreamer (Multimedia Framework)
+		- Fontconfig (Font Access Library)
+		- FreeType (TrueType Font Rendering Library)
+		- Libinput (Library for Input Device Handling)
+		- pkg-config (Build System Package Identification)
+		- PulseAudio (Sound Mixer)
+	- Software Formerly Hosted on Freedesktop.org:
+		- AppStream (App Metadata)
+		- at-spi2  (Accessibility Framework)
+		- Avahi (Multicast DNS)
+		- Flatpak
+		- HarfBuzz (OpenType Font Layout Engine)
+		- LibreOffice
+		- PackageKit
+		- systemd (Full System Manager)
+		- UDisks (Storage Management)
 
 
 
