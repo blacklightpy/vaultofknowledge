@@ -67,17 +67,26 @@ Item1 > Item2
 	- Service Manager
 		- e.g. Runit
 	- Installed Services / Daemons
-		- e.g.
-			- Time Synchronization Service (NTP Daemon / ntpd)
-			- Bluetooth Scanner Service (Bluetooth Daemon / bluetoothd)
-			- Wi-Fi Scanner Service (NetworkManager Service / NetworkManager)
-			- User Space Inter-Process Communication Service (D-Bus Service / dbus)
-			- IP Addressing Service (DHCP Client Service / dhcpcd)
-			- Logging Service (socklog-void Service (Void Linux specific) / socklog-unix + nanoklogd)
-			- Power Profile Management Service (Power Profiles Daemon from UPower / power-profiles-daemon)
-			- Plug and Play Device Service (udevd from systemd / eudevd, forked from systemd-udevd)
-			- User Seat and Session Manager Service (logind from systemd / elogind, forked from systemd-logind)
-			- Display Manager Service (LightDM / lightdm)
+		- e.g. Time Synchronization Service
+			- e.g. NTP Daemon (ntpd)
+		- e.g. Bluetooth Scanner Service
+			- e.g. Bluetooth Daemon (bluetoothd)
+		- e.g. Wi-Fi Scanner Service
+			- e.g. NetworkManager Service (NetworkManager)
+		- e.g. User Space Inter-Process Communication Service
+			- e.g. D-Bus Service (dbus)
+		- e.g. IP Addressing Service
+			- e.g. DHCP Client Service (dhcpcd)
+		- e.g. Logging Service
+			- e.g. socklog-void Service (Void Linux specific) (socklog-unix + nanoklogd)
+		- e.g. Power Profile Management Service
+			- e.g. Power Profiles Daemon from UPower (power-profiles-daemon)
+		- e.g. Plug and Play Device Service
+			- e.g. udevd from systemd (eudevd, forked from systemd-udevd)
+		- e.g. User Seat and Session Manager Service
+			- e.g. logind from systemd (elogind, forked from systemd-logind)
+		- e.g. Display Manager Service
+			- e.g. LightDM (lightdm)
 
 ### File System and Programs
 
