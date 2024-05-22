@@ -1137,5 +1137,33 @@ Human Interface Functions [icon: code]
 ## 2. Some Kernel Systems
 
 ```
+Some Kernel Systems [icon: linux, color: black] {
+
+Sound System [icon: sound, color: red] {
+
+ALSA [icon: code, color: red]
+
+}
+
+Firewall System [icon: firewall, color: orange] {
+
+netfilter [icon: code, color: orange]
+
+}
+
+Display System [icon: display, color: blue] {
+
+"DRM/KMS" [icon: code, color: blue]
+
+}
+
+}
+```
+
+# Userspace
+
+## 3. Motherboard Firmware and Boot Stage
+
+```
 
 ```
