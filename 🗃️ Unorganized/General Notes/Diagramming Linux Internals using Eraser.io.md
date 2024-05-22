@@ -24,14 +24,23 @@ Item1 > Item2
 
 ## Attempt (Categorization)
 
-| HW Feature  | Kernel Function           |
-| ----------- | ------------------------- |
-| CPU         | Processing Functions      |
-| Memory      | Memory Functions          |
-| Storage     | Storage Functions         |
-| Network     | Networking Functions      |
-| I/O Ports   | System Functions          |
-| I/O Devices | Human Interface Functions |
+- **Kernel**
+	- **Processing Functions**
+		- **CPU Related**
+	- **Memory Functions**
+		- **Memory Related**
+	- **Storage Functions**
+		- **Storage Related**
+	- **Networking Functions**
+		- **Network Related**
+	- **System Functions**
+		- **I/O Ports Related**
+	- **Human Interface Functions**
+		- **I/O Devices Related**
+
+# Userspace
+
+## Motherboard Firmware and Boot Stage
 
 - Motherboard
 	- Firmware (BIOS / UEFI)
@@ -40,6 +49,8 @@ Item1 > Item2
 	- UEFI/BIOS Boot Manager
 	- Kernel
 	- initramfs
+
+## Init Stage
 
 - Kernel Modules
 
@@ -61,6 +72,8 @@ Item1 > Item2
 			- Power Profile Management Service (Power Profiles Daemon from UPower / power-profiles-daemon)
 			- Plug and Play Device Service (udevd from systemd / eudevd, forked from systemd-udevd)
 			- User Seat and Session Manager Service (logind from systemd / elogind, forked from systemd-logind)
+
+## File System and Programs
 
 - Root File System (/) [Follows the Filesystem Hierarchy Standard (FHS) from the Linux Standard Base (LSB) project]
 	- Populated At Boot
@@ -88,7 +101,7 @@ Item1 > Item2
 - Shell
 	- e.g. GNU Bash
 
-- Login ManagerX Windowing System v11 Rev.7, or X11, or X
+- Login Manager
 	- e.g. LightDM
 
 - Graphical Environment
@@ -148,13 +161,22 @@ Item1 > Item2
 
  > When we are speaking about containers, we are usually referring to the Open Container Infrastructure (OCI) standard for container images, distribution and runtimes, which was formed based on the container implementation by the Docker project.
 
-- Native Package Installer
-	- e.g. dpkg (used in Debian), RPM (used in Fedora)
-- Native Package Manager
-	- e.g. APT (used in Debian), DNF (used in Fedora)
-- Sandboxed Package Manager
-	- e.g. Flatpak, Nix
-- Containers
+- Package Management
+	- Native Package Installer
+		- e.g.
+			- dpkg (used in Debian)
+			- RPM (used in Fedora)
+			- pacman (used in Arch)
+	- Native Package Manager
+		- e.g.
+			- APT (used in Debian)
+			- DNF (used in Fedora, based on YellowDog Linux's YUM)
+			- pacman (used in Arch, same as it's package installer)
+	- Sandboxed Package Manager
+		- e.g.
+			- Flatpak
+			- Nix
+	- Containers
 
 - Shared Libraries
 	- e.g.
@@ -204,29 +226,57 @@ Item1 > Item2
 		- Git Version Control System (`git`)
 		- Any Other Language’s Toolchains (Go, Rust, etc.)
 
-Alternatives	
-Type	Alternative Program
-- Shell	ZSH, KSH, Fish, NuShell, Powershell
-- Init	systemd, OpenRC, SysVInit
-- System Utilities	Busybox, Toybox, rust-coreutils
-- C Library	Musl
-- Login Manager	GDM, XDM, SDDM
-- (Greeter)	*many LightDM Greeters*
-- Display Protocols	X11, Mir
-- Window Managers	*many*
-- Status Bars	*many*
-- Launchers	*many*
-- Widgets	*many*
-- Icon Packs	*many*
-- GTK Themes	*many*
-- Qt Themes	*many*
-	
-- Program Customizations	*wild*
-- Program Alternatives	*wild*
-- C/C++ Compiler	Clang with LLVM
-
+- Alternatives	
+	- Shell
+		- ZSH
+		- KSH
+		- Fish
+		- NuShell
+		- Powershell
+	- Init
+		- systemd
+		- OpenRC
+		- SysVInit
+	- System Utilities
+		- Busybox
+		- Toybox
+		- rust-coreutils
+	- C Library
+		- Musl
+	- Login Manager
+		- GDM
+		- XDM
+		- SDDM
+	- (Greeter)
+		- *many LightDM Greeters*
+	- Display Protocols
+		- X11
+		- Mir
+	- Window Managers
+		- *many*
+	- Status Bars
+		- *many*
+	- Launchers
+		- *many*
+	- Widgets
+		- *many*
+	- Icon Packs
+		- *many*
+	- GTK Themes
+		- *many*
+	- Qt Themes
+		- *many*		
+	- Generic Program Customizations
+		- *wildly many*
+	- Generic Program Alternatives
+		- *wildly many*
+	- C/C++ Compiler
+		- Clang with LLVM
 
 ## Attempt (Code)
+
+
+
 ## Example
 ```
 
