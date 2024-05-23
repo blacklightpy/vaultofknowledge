@@ -10,5 +10,6 @@ Also known as DBFS, relational filesystems and semantic filesystems.
 - tagxfs (claimed to be a file system extension in Wikipedia)
 - TagFS (MIT Project)
 - supertag
+- TMSU (Virtual File System)
 ## File Managers
 - TagSpaces
