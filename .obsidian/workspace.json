@@ -396,9 +396,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b9c23370a9ae426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Network Booting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -473,7 +486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
+                "file": "🗃️ Unorganized/General Notes/Network Booting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,7 +503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
+                "file": "🗃️ Unorganized/General Notes/Network Booting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -502,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md"
+                "file": "🗃️ Unorganized/General Notes/Network Booting.md"
               }
             }
           },
@@ -552,15 +565,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7720e3636878e37b",
+  "active": "6b9c23370a9ae426",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Network Booting.md",
+    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🤠 Personal/Ideas and References/How to use tags.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/UDisks.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/Polkit.md",
     "🗃️ Unorganized/General Notes/Free Games.md",
-    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
     "🗃️ Unorganized/General Notes/Diagramming Tools.md",
@@ -581,7 +595,6 @@
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
     "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
-    "🔮 World Building/Creativity and Arts/Sound Engineering.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
