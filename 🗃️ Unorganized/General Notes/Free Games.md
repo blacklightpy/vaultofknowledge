@@ -7,6 +7,11 @@
 - [Fantasy Single Player/Multiplayer] Veloren
 - [Strategy, Planet Colonization] Colobot
 - [Racing, Tron Remake] Armagetron
+- [Space Travel Sim] Oolite
+- [FPS] Red Eclipse
+# Non-Commercial (Free Enough For Me)
+- Bugdom
+- Bugdom 2
 # Code Free, Content Paid
 
 ## Original Release
