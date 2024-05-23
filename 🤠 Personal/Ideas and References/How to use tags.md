@@ -14,4 +14,14 @@ Also known as DBFS, relational filesystems and semantic filesystems.
 ## File Managers
 - TagSpaces
 
-#rough Phone
+#rough Phones
+
+## Ubuntu Touch
+- OnePlus One
+- OnePlus 5
+- Pixel 3a
+- Zenfone Max Pro M1
+## pmOS
+- Nexus 4-7
+- OnePlus 6
+- OnePlus 6T
