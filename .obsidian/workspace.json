@@ -409,9 +409,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a03014d50b2a52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -486,7 +499,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤠 Personal/Ideas and References/How to use tags.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -503,7 +516,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤠 Personal/Ideas and References/How to use tags.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -515,7 +528,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤠 Personal/Ideas and References/How to use tags.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md"
               }
             }
           },
@@ -565,11 +578,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "27e27fe6a34904df",
+  "active": "7a03014d50b2a52f",
   "lastOpenFiles": [
+    "🤠 Personal/Ideas and References/How to use tags.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/UDisks.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/Polkit.md",
     "🗃️ Unorganized/General Notes/Free Games.md",
     "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
-    "🤠 Personal/Ideas and References/How to use tags.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
     "🗃️ Unorganized/General Notes/Diagramming Tools.md",
@@ -591,10 +608,6 @@
     "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
     "🔮 World Building/Creativity and Arts/Sound Engineering.md",
-    "🗃️ Unorganized/General Notes/How to create anything.md",
-    "🗃️ Unorganized/General Notes/My Philosophy of Software Design.md",
-    "🗃️ Unorganized/General Notes/Bookmarks List.md",
-    "🗃️ Unorganized/General Notes/American Social Problems.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
