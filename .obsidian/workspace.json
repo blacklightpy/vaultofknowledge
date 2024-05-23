@@ -398,12 +398,12 @@
             }
           },
           {
-            "id": "4cac4541c28fcf4d",
+            "id": "27e27fe6a34904df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Games.md",
+                "file": "🤠 Personal/Ideas and References/How to use tags.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -486,7 +486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Games.md",
+                "file": "🤠 Personal/Ideas and References/How to use tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -503,7 +503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Games.md",
+                "file": "🤠 Personal/Ideas and References/How to use tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -515,7 +515,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Games.md"
+                "file": "🤠 Personal/Ideas and References/How to use tags.md"
               }
             }
           },
@@ -565,9 +565,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4cac4541c28fcf4d",
+  "active": "27e27fe6a34904df",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Free Games.md",
     "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
+    "🤠 Personal/Ideas and References/How to use tags.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
     "🗃️ Unorganized/General Notes/Diagramming Tools.md",
@@ -593,8 +595,6 @@
     "🗃️ Unorganized/General Notes/My Philosophy of Software Design.md",
     "🗃️ Unorganized/General Notes/Bookmarks List.md",
     "🗃️ Unorganized/General Notes/American Social Problems.md",
-    "🗃️ Unorganized/General Notes/Comparison of Nations.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
