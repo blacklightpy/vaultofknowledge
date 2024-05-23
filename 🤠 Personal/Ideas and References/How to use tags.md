@@ -13,15 +13,3 @@ Also known as DBFS, relational filesystems and semantic filesystems.
 - TMSU (Virtual File System)
 ## File Managers
 - TagSpaces
-
-#rough Phones
-
-## Ubuntu Touch
-- OnePlus One
-- OnePlus 5
-- Pixel 3a
-- Zenfone Max Pro M1
-## pmOS
-- Nexus 4-7
-- OnePlus 6
-- OnePlus 6T

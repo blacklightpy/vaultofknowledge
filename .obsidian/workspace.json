@@ -396,35 +396,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "27e27fe6a34904df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🤠 Personal/Ideas and References/How to use tags.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a03014d50b2a52f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -499,7 +473,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
+                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -516,7 +490,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
+                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -528,7 +502,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md"
+                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md"
               }
             }
           },
@@ -578,7 +552,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7a03014d50b2a52f",
+  "active": "7720e3636878e37b",
   "lastOpenFiles": [
     "🤠 Personal/Ideas and References/How to use tags.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
