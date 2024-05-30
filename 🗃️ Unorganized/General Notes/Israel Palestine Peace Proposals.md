@@ -61,17 +61,26 @@ But then Muslims are like, but we are perfect!.
 	- Israeli PM Ahoud Olmare offered to withdraw from the entire West Bank, and partition Jerusalem on a demographic basis
 
 - 2008 War
-	- Why
+	- Why:
+		- Ceasefire Talks halted by escalation
 
-- 2014 War
-	- Why
 - 2014: Negotiations led by John Kerry collapse
 	- What:
+	- Status:
+		- Failed
 	- Why:
 		- Palestinians took steps to reject it
+		- Fatah Hamas reconciliation
+- 2014 War
+	- Why:
+		- Kidnapped Israelis
 
 - 2020 Trump Peace Plan
 	- What:
+
+- 2023 War:
+	- Why:
+		- Abraham Accords
 - 2023 Two State Call
 	- What:
 
@@ -80,6 +89,7 @@ But then Muslims are like, but we are perfect!.
 
 # Other Arabs
 
-- 1994: Israel-Jorda
-- 2020 Abraham Accords
+- 1994: Israel-Jordan Peace Treaty
+	- 
+- 2020 Abraham Accords (Islam-Judaism)
 	- Israel - UAE and Bahrain
