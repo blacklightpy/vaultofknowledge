@@ -47,7 +47,8 @@ But then Muslims are like, but we are perfect!.
 - 1987: First Intifada
 	- Lasted till 1993
 
-- 1988: Jordan relinquishes West Bank
+- 1988: Jordan relinquishes West Bank to PLO
+- 1988: PLO establishes the State of Palestine
 
 - 1991: Madrid Conference
 	- 
