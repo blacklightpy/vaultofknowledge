@@ -57,6 +57,9 @@ But then Muslims are like, but we are perfect!.
 - 2000: Second Intifada
 	- Why:
 
+- 2005: Disengagement
+- 2007: 
+
 - 2008
 	- Israeli PM Ahoud Olmare offered to withdraw from the entire West Bank, and partition Jerusalem on a demographic basis
 
