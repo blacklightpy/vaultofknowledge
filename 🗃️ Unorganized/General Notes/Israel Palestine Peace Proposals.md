@@ -47,16 +47,21 @@ But then Muslims are like, but we are perfect!.
 - 1987: First Intifada
 	- Lasted till 1993
 
+- 1991: Madrid Conference
+	- 
 
 - 1993 Oslo Peace Accords
 	- Derailed by Terrorism
 - 1995 Oslo II
 	- 
 
-- 2000 Camp David and the Clinton parameters
+- 2000 Camp David Summit and the Clinton parameters
 	- What:
 		- Israeli PM Ahoud Barak offered to offered to create a Palestinian state in all of Gaza and 97% of the West Bank, with land swaps to account for the other 3%.
+	- Status:
+		- 
 	- Why:
+		- 
 - 2000: Second Intifada
 	- Why:
 		- Ariel Sharon visited Temple Mount, which was seen as offensive
@@ -67,9 +72,7 @@ But then Muslims are like, but we are perfect!.
 
 - 2008
 	- What:
-		- Israeli PM Ahoud Olmare offered to withdraw from the entire West Bank, and partition Jerusalem on a demographic basis.
-	- 
-
+		- Israeli PM Ahoud Olmert offered to withdraw from the entire West Bank, and partition Jerusalem on a demographic basis.
 - 2008 War (Operation Lead Cast)
 	- Why:
 		- Ceasefire Talks halted by escalation
