@@ -1,3 +1,8 @@
+
+Why did I take an axe and cut down everyone's religions?
+To prove to y'all that we are all flawed.
+But then Muslims are like, but we are perfect!.
+
 - Ottoman Empire and Arab States
 - 1948 - Peel Commission Partition Plan
 	- Partition of Palestine into a Jewish State and Arab State
