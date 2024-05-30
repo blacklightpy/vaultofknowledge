@@ -60,38 +60,12 @@
             }
           },
           {
-            "id": "66bfa2835cdf1692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04eda086ef04f633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edccef2194c0b86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Lithium-Ion Batteries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,19 +177,6 @@
             }
           },
           {
-            "id": "cfd08f2a4ee4c07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Art of Creation/Example - An Operating System.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e98d2c1437b80450",
             "type": "leaf",
             "state": {
@@ -287,19 +248,6 @@
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18ae2832f66679f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -385,32 +333,6 @@
             }
           },
           {
-            "id": "7720e3636878e37b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b9c23370a9ae426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Network Booting.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "48e6e120806556b7",
             "type": "leaf",
             "state": {
@@ -450,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -607,33 +529,33 @@
   "active": "48e6e120806556b7",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Massacres of Jews.md",
+    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
+    "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
+    "🗃️ Unorganized/General Notes/Against Atheist Arguments.md",
+    "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
+    "🔮 World Building/Art of Creation/Example - An Operating System.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
+    "🗃️ Unorganized/General Notes/The rationale behind copyleft licensing.md",
+    "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
+    "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
+    "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
+    "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
+    "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
+    "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗃️ Unorganized/General Notes/Comparison of Nations.md",
+    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+    "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
+    "🗃️ Unorganized/General Notes/Missing Courses.md",
+    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🗃️ Unorganized/General Notes/Network Booting.md",
     "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
-    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🤠 Personal/Ideas and References/How to use tags.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/UDisks.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/Polkit.md",
-    "🗃️ Unorganized/General Notes/Free Games.md",
-    "🗃️ Unorganized/General Notes/Missing Courses.md",
-    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
-    "🗃️ Unorganized/General Notes/Diagramming Tools.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Linux firewalls.md",
-    "🗃️ Unorganized/General Notes/How to use firewalld.md",
-    "🗃️ Unorganized/General Notes/Spreadsheet Software.md",
-    "🗃️ Unorganized/General Notes/Database Software.md",
-    "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
-    "🗃️ Unorganized/General Notes/Crazy fallacies used by political propagandists.md",
-    "🤠 Personal/Productivity/Productivity Tips.md",
-    "🤠 Personal/Productivity/Productivity Frameworks.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
-    "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
     "_images/Islam - Child Farming.png",
     "_images/Muslim Ideas of Sex - in India 1.png",
-    "🗃️ Unorganized/General Notes/Old Index.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",

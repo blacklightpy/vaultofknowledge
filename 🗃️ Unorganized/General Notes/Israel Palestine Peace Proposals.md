@@ -56,6 +56,8 @@ But then Muslims are like, but we are perfect!.
 		- Israeli PM Ahoud Barak offered to offered to create a Palestinian state in all of Gaza and 97% of the West Bank, with land swaps to account for the other 3%.
 	- Why:
 - 2000: Second Intifada
+	- Why:
+		- Ariel Sharon visited Temple Mount, which was seen as offensive
 	- Lasted till 2005
 
 - 2005: Disengagement from Gaza
