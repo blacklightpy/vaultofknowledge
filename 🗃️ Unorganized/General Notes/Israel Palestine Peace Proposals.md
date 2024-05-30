@@ -3,9 +3,10 @@ Why did I take an axe and cut down everyone's religions?
 To prove to y'all that we are all flawed.
 But then Muslims are like, but we are perfect!.
 
+- Biblical Greater Israel
 - Ottoman Empire and Arab States
 - 1948 - Peel Commission Partition Plan
-	- Partition of Palestine into a Jewish State and Arab State
+- 1948 War - War by 5 countries
 - 1948 - Post-war Jordanian control over Palestinian Territory
 - 1967 War - Return of Sinai Peninsula to Egypt for peace
 - 1967 Khartoum Resolution
