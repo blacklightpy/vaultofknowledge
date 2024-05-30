@@ -29,16 +29,18 @@ But then Muslims are like, but we are perfect!.
 - Palestinian State
 
 - 1987: First Intifada
-- 2000: Second Intifada
-	- Why:
+
 
 - 1993 Oslo Peace Accords
 	- Derailed by Terrorism
 - 1995 Oslo II
 
 - 2000 Camp David and the Clinton parameters
-- 2000
-	- Israeli PM Ahoud Barak offered to offered to create a Palestinian state in all of Gaza and 97% of the West Bank, with land swaps to account for the other 3%
+	- What:
+		- Israeli PM Ahoud Barak offered to offered to create a Palestinian state in all of Gaza and 97% of the West Bank, with land swaps to account for the other 3%.
+	- 
+- 2000: Second Intifada
+	- Why:
 
 - 2008
 	- Israeli PM Ahoud Olmare offered to withdraw from the entire West Bank, and partition Jerusalem on a demographic basis
