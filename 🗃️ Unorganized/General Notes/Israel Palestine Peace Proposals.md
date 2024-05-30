@@ -26,7 +26,21 @@ But then Muslims are like, but we are perfect!.
 	- Offered Palestinians Autonomy
 	- Return of Sinai Peninsula (many times larger than Israel, and rich in oil)
 
-- Palestinian State
+- 1981 Fez Initiative / Fahd Peace Plan
+	- What: (Eight Point Peace Plan)
+		1. Israel to withdraw from all Arab territory occupied in 1967, including Arab Jerusalem.
+		2. Israeli settlements built on Arab land after 1967 to be dismantled, including those in Arab Jerusalem.
+		3. A guarantee of freedom of worship for all religions in the Holy Places.
+		4. An affirmation of the right of the Palestinian Arab people to return to their homes and compensation for those who do not wish to return.
+		5. The West Bank and the Gaza Strip to have a transitional period under the auspices of the United Nations for a period not exceeding several months.
+		6. An independent Palestinian State should be set up with Jerusalem as its capital.
+		7. All States in the region should be able to live in peace in the region.
+		8. The United Nations or Member States of the United Nations to guarantee the carrying out of these provisions.
+	- Status:
+		- Rejected
+	- Why:
+		- Israel Disagreed
+
 
 - 1987: First Intifada
 
@@ -34,11 +48,12 @@ But then Muslims are like, but we are perfect!.
 - 1993 Oslo Peace Accords
 	- Derailed by Terrorism
 - 1995 Oslo II
+	- 
 
 - 2000 Camp David and the Clinton parameters
 	- What:
 		- Israeli PM Ahoud Barak offered to offered to create a Palestinian state in all of Gaza and 97% of the West Bank, with land swaps to account for the other 3%.
-	- 
+	- Why:
 - 2000: Second Intifada
 	- Why:
 
@@ -63,3 +78,8 @@ But then Muslims are like, but we are perfect!.
 
 
 
+# Other Arabs
+
+- 1994: Israel-Jorda
+- 2020 Abraham Accords
+	- Israel - UAE and Bahrain
