@@ -12,5 +12,11 @@
 - Palestinian State
 
 
+- First Intifada
+- Second Intifada
+
+
+
+- 2008
 - 2014
-- 202
+- 2020
