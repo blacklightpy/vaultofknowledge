@@ -32,6 +32,8 @@
 [1947 Jerusalem riots](https://en.wikipedia.org/wiki/1947_Jerusalem_riots "en.wikipedia.org")
 [1947 Manama riots](https://en.wikipedia.org/wiki/1947_Manama_riots "en.wikipedia.org")
 
+---
+
 A partial list of Islamic/Arab Pogroms/Massacres against Jews for 500 years before the State of Israel
 
 1465 Fez Massacre Morocco [1]
@@ -89,6 +91,71 @@ End of 18th Century forced conversion of Bukharian Jews [3]
 
 During our 1,400 years of shared history, the Muslims have been at best tolerant, often the opposite, and with an attitude ranging from merely condescending to outright malevolent. Massacres of Jews occurred in 1009 (Cordoba), 1033 (Fez), 1056 (Granada), 1465 (Morocco), 1660 (separate attacks in Safed and Tiberias), 1839 (Iran), 1840 (Damascus), 1910 (Shiraz), 1929 (throughout Palestine), 1934, 1936, 1947, and 1967 (Tripoli). Hebron was the site of massacres in 1517, 1834, and 1929.
 
+---
+
+There is no evidence that Jews lived peacefully under Muslims.
+
+> I can understand many Jews fear Muslims. Muslim governments have been historically very cruel to Jews.
+> 
+> Dhimmis were excluded from public office and armed service, and were forbidden to bear arms. They were not allowed to ride horses or camels, to build synagogues or churches taller than mosques, to construct houses higher than those of Muslims or to drink wine in public. They were not allowed to pray or mourn in loud voices-as that might offend the Muslims.
+> 
+> The dhimmi had to show public deference toward Muslims-always yielding them the center of the road. The dhimmi was not allowed to give evidence in court against a Muslim, and his oath was unacceptable in an Islamic court. To defend himself, the dhimmi would have to purchase Muslim witnesses at great expense. This left the dhimmi with little legal recourse when harmed by a Muslim.[(4)](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html#N_4_ "www.jewishvirtuallibrary.org")
+
+Dhimmis were also forced to wear distinctive clothing. In the ninth century, for example, Baghdad's Caliph al-Mutawakkil designated a yellow badge for [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org"), setting a precedent that would be followed centuries later in Nazi Germany.[(5)](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html#N_5_ "www.jewishvirtuallibrary.org")[The Treatment of Jews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+Here’s a few highlights:
+
+On December 30, 1066, Joseph HaNagid, the Jewish vizier of [Granada](https://www.jewishvirtuallibrary.org/jsource/vjw/Granada.html "www.jewishvirtuallibrary.org"), Spain, was crucified by an Arab mob that proceeded to raze the Jewish quarter of the city and slaughter its 5,000 inhabitants. In 1465, Arab mobs in [Fez](https://www.jewishvirtuallibrary.org/jsource/vjw/Fez.html "www.jewishvirtuallibrary.org")slaughtered thousands of [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org"), leaving only 11 alive, after a Jewish deputy vizier treated a Muslim woman in "an offensive manner." The killings touched off a wave of similar massacres throughout [Morocco](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/morocjews.html "www.jewishvirtuallibrary.org").[(6)](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html#N_6_ "www.jewishvirtuallibrary.org") [The Treatment ofJews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+As distinguished Orientalist G.E. von Grunebaum has written: It would not be difficult to put together the names of a very sizeable number of Jewish subjects or citizens of the Islamic area who have attained to high rank, to power, to great financial influence, to significant and recognized intellectual attainment; and the same could be done for Christians. But it would again not be difficult to compile a lengthy list of persecutions, arbitrary confiscations, attempted forced conversions, or pogroms.[(9)](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html#N_9_ "www.jewishvirtuallibrary.org") [The Treatment of Jews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+To sum up, Jews face: Persecution. Arbitrary confiscations, attempted forced conversions and pogroms. The situation of [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org") in Arab lands reached a low point in the 19th century. [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org") in most of North Africa (including [Algeria](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/algjews.html "www.jewishvirtuallibrary.org"), [Tunisia](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/tunisjews.html "www.jewishvirtuallibrary.org"), [Egypt](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/egjews.html "www.jewishvirtuallibrary.org"), [Libya](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/libyajews.html "www.jewishvirtuallibrary.org") and [Morocco](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/morocjews.html "www.jewishvirtuallibrary.org")) were forced to live in ghettos. In [Morocco](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/morocjews.html "www.jewishvirtuallibrary.org"), which contained the largest Jewish community in the Islamic Diaspora, [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org") were made to walk barefoot or wear shoes of straw when outside the ghetto. Even Muslim children participated in the degradation of [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org"), by throwing stones at them or harassing them in other ways. The frequency of anti-Jewish violence increased, and many [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org") were executed on charges of apostasy. Ritual murder accusations against the [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org") became commonplace in the [Ottoman Empire](https://www.jewishvirtuallibrary.org/jsource/History/Ottoman.html "www.jewishvirtuallibrary.org").[(10)](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html#N_10_ "www.jewishvirtuallibrary.org") [The Treatment of Jews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+H.E.W. Young, British Vice Consul in Mosul, wrote in 1909:
+
+The attitude of the Muslims toward the Christians and the [Jews](https://www.jewishvirtuallibrary.org/jsource/jews.html "www.jewishvirtuallibrary.org") is that of a master towards slaves, whom he treats with a certain lordly tolerance so long as they keep their place. Any sign of pretension to equality is promptly repressed.[(11)](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html#N_11_ "www.jewishvirtuallibrary.org") [The Treatment of Jews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+This is not an ancient issue, it continued right up to the start of the state of Israel.
+
+In 1922, the government of [Yemen](http://www.jewishvirtuallibrary.org/jsource/arabs/Yementoc.html "www.jewishvirtuallibrary.org") reintroduced an ancient Islamic law requiring that Jewish orphans under age 12 be forcibly converted to [Islam](http://www.jewishvirtuallibrary.org/jsource/History/islamtoc.html "www.jewishvirtuallibrary.org"). [The Treatment of Jews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+In June 1941, armed Iraqi mobs, with the complicity of the police and the army, murdered 180 Jews and wounded almost 1,000 in what became known as the Farhud pogrom. [The Treatment of Jews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+A terrible pogrom in Tripoli on November 5, 1945, killed more than 140 Jews and wounded hundreds more. [The Treatment of Jews in Arab/Islamic Countries](https://www.jewishvirtuallibrary.org/jsource/anti-semitism/Jews_in_Arab_lands_(gen).html "www.jewishvirtuallibrary.org")
+
+> [ER Mikulincer's answer to Why is anti-semitism so prevalent in Islamic countries?](https://www.quora.com/Why-is-anti-semitism-so-prevalent-in-Islamic-countries/answer/ER-Mikulincer "www.quora.com")
+
+They were legally second class citizens.
+
+---
+
+Virtually all of the pogroms and massacres that took place prior to the early 1900s when the Zionist agenda became activated were done in the context of Muslim vs. Muslim and Muslim vs. French colonialist conflicts in which the Jews, rightly or wrongly, were perceived as having chosen to favor the wrong side in those conflicts.
+
+The sacks of Cordoba took place in the context of Berber vs. Umayyad conflict in which the Berbers massacred many non-Jews too.
+
+The Fez massacre of 1033 took place within the context of the conflict between the [Zenata](https://en.wikipedia.org/wiki/Zenata "en.wikipedia.org")
+
+[Berber](https://en.wikipedia.org/wiki/Berber_people "en.wikipedia.org") tribes of [Miknasa](https://en.wikipedia.org/wiki/Miknasa "en.wikipedia.org"), [Maghrawa](https://en.wikipedia.org/wiki/Maghrawa "en.wikipedia.org") and [Banu Ifran](https://en.wikipedia.org/wiki/Banu_Ifran "en.wikipedia.org") over Fez. Tamim, chief of the [Zenata](https://en.wikipedia.org/wiki/Zenata "en.wikipedia.org") [Berber](https://en.wikipedia.org/wiki/Berber_people "en.wikipedia.org") [Banu Ifran](https://en.wikipedia.org/wiki/Banu_Ifran "en.wikipedia.org")
+
+tribe which perpetrated the massacre was forced to flee Fez when it was retaken by the Maghrawa tribe a few years later.
+
+The 1066 Granada massacre took place in the context of the war between Granada and Al-Mu'taṣim of Almeria in which the Jews were suspected by Granada’s Berbers of being sympathetic to the Moors of Almeria. According to historian Bernard Lewis, “massacres such as that in Granada in 1066 are of rare occurrence in Islamic history."
+
+The 1465 Fes massacre was perpetrated during a time of revolt against the Marinid sultan by supporters of local Sharifs in [Fes](https://en.wikipedia.org/wiki/Fes "en.wikipedia.org")
+
+who perceived the Jews as having chosen to support the sultan, who appointed a Jewish vizier.
+
+In the 1517 Hebron attacks, not only Jews were killed but also representatives of the Ottoman regime including the governor.
+
+In 1660, non-Jewish parts of Hebron were destroyed too during the conflict in which the Ottomans sought to regain local control of Safed from the Druze emirs of the [Maan family](https://en.wikipedia.org/wiki/Maan_family "en.wikipedia.org")
+
+.
+
+In Oran, Jews were suspected of being pro-French sympathizers after some of them openly sided in 1813 with a local pro-French bey.
+
+The 1834 looting of Safed took place during an armed uprising against Egyptian rule during which Jews and Christians were seen as being given unfairly favorable treatment by being granted exemption from military conscription. After order was restored, many of the perpetrators were executed by Ibrahim Pasha’s army.
+
+Likewise 1838 was a time of Druze revolt against Egyptian rule. Some Arabs were friendly to the Jews at this time, most notably Muhammed Mustafa who helped protect them, lending them money and providing them with food and clothing.
 # Buzzwords
 - settler colonization
 - Ethnic cleansing
@@ -106,3 +173,16 @@ During our 1,400 years of shared history, the Muslims have been at best tolerant
 - storming houses midt-night,
 - killing civilians and massacres
 - uprooting trees
+# Treatment of Jews
+- Jews were forbidden to touch the Koran.
+- Jews were required to wear distinctive clothing.
+- Jews were required to wear a yellow piece of cloth as a badge (blue for Christians).
+- Jews were not allowed to perform their religious practices in public.
+- Jews were not allowed to own a horse which was a sign of a nobleman.
+- Jews were required to bury their dead without grieving in public.
+- Jews were required to pay special taxes.
+- Jews were not allowed to defend themselves against a Muslim.
+- Jews were not allowed to testify against a Muslim.
+- Jews were forbidden to build new synagogues.
+- The houses and tombs of Jews were not allowed to be higher than those of the Moslems.
+- The graves of Jews had to be level so that anyone could walk over them.
