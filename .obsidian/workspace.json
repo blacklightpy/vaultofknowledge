@@ -422,9 +422,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7516d54df9039605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -499,7 +512,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -516,7 +529,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -528,7 +541,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md"
               }
             }
           },
@@ -578,7 +591,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "48e6e120806556b7",
+  "active": "7516d54df9039605",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🗃️ Unorganized/General Notes/Network Booting.md",

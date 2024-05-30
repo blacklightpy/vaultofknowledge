@@ -1,10 +1,10 @@
-The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam. Muslims paid Zakat and Jews paid Jizah as taxes, so they both went along fairly well. Later on Muslims only became less secular due to threats from non-Muslims such as Europeans.
+The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam. Muslims paid Zakat and Jews paid Jizya as taxes, so they both went along fairly well. Later on Muslims only became less secular due to threats from non-Muslims such as Europeans.
 
 Jews are still very scared of the rise of Antisemitism.
 
 > [!NOTE] Regarding Taxes
 > 
-> Zakat was given to the poor, but Jizah was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizah, but sick and disabled people, etc. didn't have to. But the point was, Jizah was still better than forced conversion or extermination as happened in Europe. Well, this is just normal tax collected in every state.
+> Zakat was given to the poor, but Jizya was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizya, but sick and disabled people, etc. didn't have to. But the point was, Jizya was still better than forced conversion or extermination as happened in Europe. Well, this is just normal tax collected in every state.
 > 
 > Nowadays, it's the same tax, but Zakat still remains the offering of the Muslims in the name of Allah, which others just pay it to the state.
 > 
@@ -36,6 +36,8 @@ Jews are still very scared of the rise of Antisemitism.
 
 > [!NOTE] Lehi
 > Lehi was a Zionist organization established in 1940, who referred to its members as terrorists. They wanted to get rid of British occupation and establish a Jewish state. Upon establishment of Israel, they disbanded and formed the IDF.
+> 
+> Lehi's definition of terrorism explicitly referred to terrorism against the representatives and not the civilians in their article.
 > 
 > > [!NOTE]
 > > Lehi had three main goals:
