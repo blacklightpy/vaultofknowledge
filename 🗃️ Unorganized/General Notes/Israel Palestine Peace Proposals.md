@@ -97,6 +97,8 @@ But then Muslims are like, but we are perfect!.
 
 # Other Arabs
 
+- Lebanon
+- Syria
 - 1994: Israel-Jordan Peace Treaty
 	- 
 - 2020 Abraham Accords (Islam-Judaism)
