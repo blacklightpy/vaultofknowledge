@@ -47,6 +47,8 @@ But then Muslims are like, but we are perfect!.
 - 1987: First Intifada
 	- Lasted till 1993
 
+- 1988: Jordan relinquishes West Bank
+
 - 1991: Madrid Conference
 	- 
 
