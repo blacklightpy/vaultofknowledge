@@ -18,7 +18,7 @@ But then Muslims are like, but we are perfect!.
 	- Why:
 		- No peace with Israel
 		- No negotiation with Israel
-		- No recognition of Israel.
+		- No recognition of Israel
 
 - 1978 Camp David Accords
 
@@ -41,6 +41,8 @@ But then Muslims are like, but we are perfect!.
 	- Why:
 		- Israel Disagreed
 
+- 1982
+	- Withdrew from Sinai
 
 - 1987: First Intifada
 	- Lasted till 1993
