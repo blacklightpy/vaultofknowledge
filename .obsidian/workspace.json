@@ -435,9 +435,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9bd34a24283d9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -512,7 +525,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -529,7 +542,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -541,7 +554,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md"
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md"
               }
             }
           },
@@ -591,8 +604,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7516d54df9039605",
+  "active": "d9bd34a24283d9f8",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Massacres of Jews.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🗃️ Unorganized/General Notes/Network Booting.md",
     "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
@@ -619,8 +634,6 @@
     "_images/Muslim Ideas of Sex - in India 1.png",
     "🗃️ Unorganized/General Notes/Old Index.md",
     "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
-    "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
-    "🗃️ Unorganized/General Notes/What is the GNU system - Name Controversy Analysis.md",
     "_images/Sway Screenshot 1.png",
     "_images/Sumerian Cuneiform.jpg",
     "_images/Stock Android Launcher.png",
