@@ -32,6 +32,7 @@ But then Muslims are like, but we are perfect!.
 	- 4th Arab-Israeli War
 	- By Egypt and Syria - Surprise attack on the 10th day of Ramadan
 	- From Sinai and Golan Heights
+	- UN backed ceasefire
 
 - 1974 PLO gained UN observer status
 - 1974 PLO Ma'alot School Massacre
@@ -86,7 +87,10 @@ But then Muslims are like, but we are perfect!.
 	- Based on UN resolution 242 and 338
 	- Derailed by Terrorism
 - 1995 Oslo II Peace Accords
-	-
+	- Split West Bank into areas A, B and C
+	- A (Interior) - PLO
+	- B - Co-governed
+	- C (Near Jordan) - Israel
 
 - 1994 Jordan-Israel Peace Treaty
 
