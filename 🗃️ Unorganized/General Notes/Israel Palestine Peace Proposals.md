@@ -27,6 +27,8 @@ But then Muslims are like, but we are perfect!.
 - 1971 Formation of Black September Organization
 - 1972 Munich Olympics Massacre 
 
+- 1974 PLO gained UN observer status
+
 - 1978 Camp David Accords
 
 - 1979 Egypt-Israel Peace Treaty
@@ -59,20 +61,22 @@ But then Muslims are like, but we are perfect!.
 - 1987: First Intifada
 	- Lasted till 1993
 
+- 1987: US recognized PLO as a terrorist state
+
 - 1988: Jordan relinquishes West Bank to PLO
 - 1988: PLO establishes the State of Palestine
 
 - 1991: Madrid Conference
 	- 
 
-- 1993 Oslo Peace Accords
+- 1993 Oslo I Peace Accords
 	- Derailed by Terrorism
-- 1995 Oslo II
+- 1995 Oslo II Peace Accords
 	- 
 
 - 2000: Israel left the buffer zone in Lebanon
 	- Why:
-		- UN Security council 425
+		- UN Security council 425 (1978)
 - 2000: Hezbollah started
 	- Why:
 		- They took the retreat as a sign of victory
