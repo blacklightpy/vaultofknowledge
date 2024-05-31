@@ -33,6 +33,11 @@ But then Muslims are like, but we are perfect!.
 	- From Sinai and Golan Heights
 
 - 1974 PLO gained UN observer status
+- 1974 PLO Ma'alot School Massacre
+	- Killing 25 people, 22 children
+
+- 1976 Operation Entebbe
+	- Rescued 102 hostages from PLO and German communist terrorists in an Ugandan airport
 
 - 1978 Camp David Accords
 	- Withdrew from Sinai
