@@ -44,6 +44,9 @@ But then Muslims are like, but we are perfect!.
 - 1982
 	- Withdrew from Sinai
 
+- 1982: First War in Lebanon
+	- Lebanon was a launching pod for attacks by PLO
+
 - 1987: First Intifada
 	- Lasted till 1993
 
@@ -58,6 +61,13 @@ But then Muslims are like, but we are perfect!.
 - 1995 Oslo II
 	- 
 
+- 2000: Israel left the buffer zone in Lebanon
+	- Why:
+		- UN Security council 425
+- 2000: Hezbollah started
+	- Why:
+		- They took the retreat as a sign of victory
+
 - 2000 Camp David Summit and the Clinton parameters
 	- What:
 		- Israeli PM Ahoud Barak offered to offered to create a Palestinian state in all of Gaza and 97% of the West Bank, with land swaps to account for the other 3%.
@@ -71,6 +81,12 @@ But then Muslims are like, but we are perfect!.
 	- Lasted till 2005
 
 - 2005: Disengagement from Gaza
+
+- 2006: Second Lebanon War
+	- Why:
+		- Lebanon kidnapped Israelis
+		- Fired rockets till 2006
+
 - 2007: Hamas gained control over Gaza
 
 - 2008
