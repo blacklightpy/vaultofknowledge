@@ -16,6 +16,7 @@ But then Muslims are like, but we are perfect!.
 
 - 1967 War
 	- Why: Egypt setup a naval blockade in Tiran strait
+	- Ended with UN Security Council Resolution 242
 - 1967 Post War Khartoum Resolution
 	- What: Offered to return all captured territories purely for peace
 	- Status: Rejected
@@ -149,6 +150,11 @@ But then Muslims are like, but we are perfect!.
 - 2014 War
 	- Why:
 		- Kidnapped Israelis
+
+- 2017: PA cut salaries in Gaze
+- 2018 Qatar Funded Hamas
+	- Israel under Netanyahu approved it to destabilize PA
+	- PA had disapproved of the funding
 
 - 2020 Trump Peace Plan
 	- What:
