@@ -73,6 +73,7 @@ But then Muslims are like, but we are perfect!.
 
 - 1982: First War in Lebanon
 	- Lebanon was a launching pod for attacks by PLO
+- 1985: Hezbolla formed
 
 - 1987: First Intifada
 	- Lasted till 1993
