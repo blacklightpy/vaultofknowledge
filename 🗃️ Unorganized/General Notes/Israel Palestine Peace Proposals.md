@@ -137,7 +137,7 @@ But then Muslims are like, but we are perfect!.
 	- Status
 		- Rejected
 	- Why
-		- 
+		- Abbas didn't say yes, and it was a on the spot offer which he couldn't trust Israel would follow through
 - 2008 War (Operation Lead Cast)
 	- Why:
 		- Ceasefire Talks halted by escalation
@@ -164,20 +164,11 @@ But then Muslims are like, but we are perfect!.
 - 2020 Trump Peace Plan
 	- What:
 
+- 2020 Abraham Accords
+	- Israel - UAE and Bahrain
+
 - 2023 War:
 	- Why:
 		- Abraham Accords
 - 2023 Two State Call
 	- What:
-
-
-
-
-# Other Arabs
-
-- Lebanon
-- Syria
-- 1994: Israel-Jordan Peace Treaty
-	- 
-- 2020 Abraham Accords (Islam-Judaism)
-	- Israel - UAE and Bahrain
