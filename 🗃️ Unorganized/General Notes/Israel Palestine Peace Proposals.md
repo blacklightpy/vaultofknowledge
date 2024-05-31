@@ -24,6 +24,7 @@ But then Muslims are like, but we are perfect!.
 
 - 1971 Jordanian Civil War (Black September)
 	- Between Jordan and PLO
+	- PLO fled to Syria and then to Lebanon
 - 1971 Formation of Black September Organization
 - 1972 Munich Olympics Massacre 
 
@@ -81,9 +82,12 @@ But then Muslims are like, but we are perfect!.
 	- 
 
 - 1993 Oslo I Peace Accords
+	- Based on UN resolution 242 and 338
 	- Derailed by Terrorism
 - 1995 Oslo II Peace Accords
-	- 
+	-
+
+- 1994 Jordan-Israel Peace Treaty
 
 - 2000: Israel left the buffer zone in Lebanon
 	- Why:
