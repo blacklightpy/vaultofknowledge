@@ -108,7 +108,7 @@ But then Muslims are like, but we are perfect!.
 	- What:
 		- Israeli PM Ahoud Barak offered to offered to create a Palestinian state in all of Gaza and 97% of the West Bank, with land swaps to account for the other 3%.
 	- Status:
-		- 
+		- Rejected
 	- Why:
 		- 
 - 2000: Second Intifada
@@ -133,6 +133,10 @@ But then Muslims are like, but we are perfect!.
 - 2008
 	- What:
 		- Israeli PM Ahoud Olmert offered to withdraw from the entire West Bank, and partition Jerusalem on a demographic basis.
+	- Status
+		- Rejected
+	- Why
+		- 
 - 2008 War (Operation Lead Cast)
 	- Why:
 		- Ceasefire Talks halted by escalation
