@@ -131,12 +131,13 @@ But then Muslims are like, but we are perfect!.
 
 - 2009: Barack Obama became US president
 
-- 2014: Negotiations led by John Kerry collapse
+- 2014: Negotiations led by John Kerry
 	- What:
+		- Deal to refuse prisoners in 4 batches if Palestinians don't push for UN recognition
 	- Status:
 		- Failed
 	- Why:
-		- Palestinians took steps to reject it
+		- Israel said Palestinians pushed for more recognition by UN
 		- Fatah Hamas reconciliation
 - 2014 War
 	- Why:
