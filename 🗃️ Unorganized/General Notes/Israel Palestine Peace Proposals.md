@@ -77,6 +77,7 @@ But then Muslims are like, but we are perfect!.
 
 - 1988: Jordan relinquishes West Bank to PLO
 - 1988: PLO establishes the State of Palestine
+	- It also acknowledged Israel
 
 - 1991: Madrid Conference
 	- 
@@ -131,7 +132,7 @@ But then Muslims are like, but we are perfect!.
 
 - 2009: Barack Obama became US president
 
-- 2014: Negotiations led by John Kerry
+- 2014: Negotiations led by John Kerry / Abbas
 	- What:
 		- Deal to refuse prisoners in 4 batches if Palestinians don't push for UN recognition
 	- Status:
