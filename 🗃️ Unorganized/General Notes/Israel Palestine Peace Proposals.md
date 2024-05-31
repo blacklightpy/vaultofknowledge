@@ -81,6 +81,8 @@ But then Muslims are like, but we are perfect!.
 	- Lasted till 2005
 
 - 2005: Disengagement from Gaza
+	- Israel removed all occupiers forcibly
+	- But they monitored airspace with the aid of Egypt
 
 - 2006: Second Lebanon War
 	- Why:
@@ -95,6 +97,8 @@ But then Muslims are like, but we are perfect!.
 - 2008 War (Operation Lead Cast)
 	- Why:
 		- Ceasefire Talks halted by escalation
+
+- 2009: Barack Obama became US president
 
 - 2014: Negotiations led by John Kerry collapse
 	- What:
