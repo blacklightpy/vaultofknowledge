@@ -27,9 +27,15 @@ But then Muslims are like, but we are perfect!.
 - 1971 Formation of Black September Organization
 - 1972 Munich Olympics Massacre 
 
+- 1973: Yom Kippur War (Ramadan War)
+	- 4th Arab-Israeli War
+	- By Egypt and Syria - Surprise attack on the 10th day of Ramadan
+	- From Sinai and Golan Heights
+
 - 1974 PLO gained UN observer status
 
 - 1978 Camp David Accords
+	- Withdrew from Sinai
 
 - 1979 Egypt-Israel Peace Treaty
 	- Offered Palestinians Autonomy
@@ -51,7 +57,7 @@ But then Muslims are like, but we are perfect!.
 		- Israel Disagreed
 
 - 1982
-	- Withdrew from Sinai
+	- Egypt demilitarized Sinai
 
 - Groups like PLO, Black September began to resort to terrorism
 
@@ -92,6 +98,9 @@ But then Muslims are like, but we are perfect!.
 	- Why:
 		- Ariel Sharon visited Temple Mount, which was seen as offensive
 	- Lasted till 2005
+
+- 2002: Arab Peace Initiative
+	- Rejected by Israel because it wanted them to withdraw to pre-1967 borders
 
 - 2005: Disengagement from Gaza
 	- Israel removed all occupiers forcibly
