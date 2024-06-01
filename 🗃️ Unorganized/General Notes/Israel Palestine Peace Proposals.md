@@ -27,6 +27,7 @@ But then Muslims are like, but we are perfect!.
 
 - 1971 Jordanian Civil War (Black September)
 	- Between Jordan and PLO
+	- They contacted Israel for help, and Israel was ready to help, but before that, his troops were able to succeed.
 	- Jordan took the support of Pakistan to kill 25000 Palestinians
 	- PLO fled to Syria and then to Lebanon
 - 1971 Formation of Black September Organization
