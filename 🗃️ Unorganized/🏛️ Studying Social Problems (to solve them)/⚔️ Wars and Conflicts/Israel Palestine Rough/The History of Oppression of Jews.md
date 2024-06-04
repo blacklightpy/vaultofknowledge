@@ -29,7 +29,7 @@ Jews are still very scared of the rise of Antisemitism.
 > [!NOTE] Forms of antisemitism
 > - Religious (Jew as Christ-killer),
 > - Economic (Jew as banker, usurer, money-obsessed),
-> - Social (Jew as social inferior, "pushy", vulgar, therefore excluded from personal contact),
+> - Social (Jew as socially inferior, "pushy", vulgar, therefore excluded from personal contact),
 > - Racist (Jews as an inferior "race", resulting in Holocaust),
 > - Ideological (Jews regarded as subversive or revolutionary, for following rituals like Shabbath),
 > - Cultural (Jews regarded as undermining the moral and structural fiber of civilization).
@@ -133,12 +133,12 @@ Jews are still very scared of the rise of Antisemitism.
 > 	- 
 > ### Persecution in England, France and Holy Roman Empire
 > - Christians accused the Jews of blood libels (drinking the blood of Christians) to mock the Last Supper and having superpowers by making deals with the devil.
-> - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was corced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
+> - 1349: The Jews were accused of poisoning the wells and causing Black Death, and one of them was coerced into confessing that they did it, and all Jews of Strasbourg, France were burned alive on 14 Feb.
 > - The Roman Empire largely condemned persecution, but they weren't able to prevent it much.
 > - Many Jews moved to Poland, Lithuania and Hungary, where the rulers were often receptive to Jewish settlement
 > - ## Early Modern Period
 > - Martin Luther King started the Protestant reformation and criticized the Jews harshly, but later on said that Jews should be treated with Christian love, so that they may receive the Lord
-> - The disappearance and death of a boy named Simon of Trent was blamed on the Jews, which fuelled antisemitism at the time. He was mutilated and his blood was drained.
+> - The disappearance and death of a boy named Simon of Trent was blamed on the Jews, which fueled antisemitism at the time. He was mutilated and his blood was drained.
 > ##17th Century
 > ## 18th Century (Age of Enlightenment)
 > - The age of enlightenment saw the dismantling of archaic, corporate and hierarchical forms of society in favour of individual equality of citizens before the law
