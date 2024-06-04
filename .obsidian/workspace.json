@@ -331,19 +331,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "64ca00b1ac261b5b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_images/Muslim Ideas of Sex - in India 1.png"
-              }
-            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -393,7 +383,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -417,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_images/Muslim Ideas of Sex - in India 1.png",
+                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -434,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_images/Muslim Ideas of Sex - in India 1.png",
+                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -446,7 +437,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_images/Muslim Ideas of Sex - in India 1.png"
+                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md"
               }
             }
           },
@@ -496,44 +487,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "64ca00b1ac261b5b",
+  "active": "48e6e120806556b7",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
-    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
-    "🗃️ Unorganized/General Notes/Massacres of Jews.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
-    "🗃️ Unorganized/Religions/Christianity.md",
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles/Trying to Understand Family Trees.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Considering Acceleration as Inertial.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Ridiculous Levels of Data Conservation.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/My Cloud Computing Speech.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/Is war just part of who we are.md",
-    "🗃️ Unorganized/General Notes/Women's Clothing.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Untitled.md",
-    "🗃️ Unorganized/General Notes/To Do.md",
-    "🗃️ Unorganized/General Notes/Dither.md",
-    "🗃️ Unorganized/General Notes/Difficulty of Making Analog Computers.md",
-    "🗃️ Unorganized/General Notes/Digital Audio Workstation.md",
-    "🗃️ Unorganized/General Notes/Isomers.md",
-    "🗃️ Unorganized/General Notes/Molecular Chirality.md",
-    "_images/Islam - Child Farming.png",
-    "_images/Muslim Ideas of Sex - in India 1.png",
-    "_images/Sway Screenshot 1.png",
-    "_images/Sumerian Cuneiform.jpg",
-    "_images/Stock Android Launcher.png",
-    "_images/Snapdragon 865 Metrics.png",
-    "_images/Run unit tests first.png",
-    "_images/QIS Low Light Comparison.png",
-    "_images/QIS Working Principle.png",
-    "_images/Mesh overlap Moire Effect.png",
+    "🤠 Personal/Ideas for business.md",
+    "🤠 Personal/French.md",
+    "🤠 Personal/Zettelkasten.md",
+    "🤠 Personal/words I learned today.md",
+    "🔮 World Building/Waste Management/Sewage Sludge Management.md",
+    "🔮 World Building/Waste Management/Fecal Sludge Management.md",
+    "🔮 World Building/Self-Care/Cleaning and Housekeeping/Placeholder Note.md",
+    "🔮 World Building/Philosophy/Spirituality.md",
+    "🔮 World Building/Philosophy/Smell.md",
+    "🔮 World Building/Philosophy/Presentism.md",
+    "🔮 World Building/Philosophy/Philosophy.md",
+    "🔮 World Building/Philosophy/Epistemology.md",
+    "🔮 World Building/Philosophy/Narcissism.md",
+    "🔮 World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
+    "🔮 World Building/Marketplace and Creations/Software Implementations/Cython.md",
+    "🔮 World Building/Marketplace and Creations/Software Implementations/DLSS.md",
+    "🔮 World Building/Marketplace and Creations/Software Implementations/CPython.md",
+    "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
+    "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
+    "🔮 World Building/Geography/Western Ghats.md",
+    "🔮 World Building/Geography/Deccan Plateau.md",
+    "🔮 World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
+    "🔮 World Building/Geography/Geographic Information Systems/Differential GPS.md",
+    "🔮 World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
+    "🔮 World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/GNSS Bands.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md",
+    "_images/Agile HW and SW planning.png",
+    "_images/Antenna Gain.png",
+    "_images/A misleading Pegasus infographic from Guardian.png",
+    "_images/5.1 Surround Sound System.png",
+    "_images/7.1 Surround Sound System.png",
+    "_images/9.2.2 Surround Sound System.png",
+    "_images/BigPicture for Jira.png",
+    "_images/Blue Green Deployment.png",
+    "_images/Canon D450 Quantum Efficiency.png",
+    "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering",
