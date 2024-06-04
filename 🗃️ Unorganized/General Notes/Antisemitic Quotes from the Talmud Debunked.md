@@ -1,3 +1,5 @@
+Many of these quotations are not from the text, but a rewritten interpretation of the text to serve a narrative.
+
 **Claim: "Adam had sexual intercourse with all the animals in the Garden of Eden." Yebamoth 63a.**
 **Truth:** It was a hypothesis about what Adam did before he had Eve.
 
