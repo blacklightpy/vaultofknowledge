@@ -333,25 +333,12 @@
             }
           },
           {
-            "id": "d9bd34a24283d9f8",
+            "id": "d7f669a25c2efd24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cb7a802ce26ee0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles/Trying to Understand Family Trees.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -359,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -405,7 +392,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -433,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles/Trying to Understand Family Trees.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -450,7 +438,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles/Trying to Understand Family Trees.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -462,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles/Trying to Understand Family Trees.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md"
               }
             }
           },
@@ -512,8 +500,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7cb7a802ce26ee0f",
+  "active": "d7f669a25c2efd24",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/General Notes/Massacres of Jews.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
+    "🗃️ Unorganized/Religions/Christianity.md",
+    "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles/Trying to Understand Family Trees.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Is audio fundamentally comprised of frequencies.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Considering Acceleration as Inertial.md",
@@ -529,17 +528,6 @@
     "🗃️ Unorganized/General Notes/Digital Audio Workstation.md",
     "🗃️ Unorganized/General Notes/Isomers.md",
     "🗃️ Unorganized/General Notes/Molecular Chirality.md",
-    "🗃️ Unorganized/General Notes/Using Sound Themes.md",
-    "🗃️ Unorganized/General Notes/How MP3 Works.md",
-    "🗃️ Unorganized/General Notes/Dyons.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
-    "🗃️ Unorganized/General Notes/General Design Principles.md",
-    "🗃️ Unorganized/General Notes/Sound.md",
-    "🗃️ Unorganized/General Notes/de Broglie Wavelength.md",
-    "🗃️ Unorganized/General Notes/Werewolves.md",
-    "🗃️ Unorganized/General Notes/Wikipedia.md",
-    "🗃️ Unorganized/General Notes/Widget Toolkits.md",
-    "🗃️ Unorganized/General Notes/multisig.md",
     "_images/Islam - Child Farming.png",
     "_images/Muslim Ideas of Sex - in India 1.png",
     "_images/Sway Screenshot 1.png",
