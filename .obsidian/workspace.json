@@ -333,15 +333,12 @@
             }
           },
           {
-            "id": "d7f669a25c2efd24",
+            "id": "64ca00b1ac261b5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "_images/Muslim Ideas of Sex - in India 1.png"
               }
             }
           }
@@ -392,8 +389,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -421,7 +417,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+                "file": "_images/Muslim Ideas of Sex - in India 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -438,7 +434,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+                "file": "_images/Muslim Ideas of Sex - in India 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +446,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md"
+                "file": "_images/Muslim Ideas of Sex - in India 1.png"
               }
             }
           },
@@ -500,7 +496,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d7f669a25c2efd24",
+  "active": "64ca00b1ac261b5b",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
