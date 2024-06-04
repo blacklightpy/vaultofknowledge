@@ -351,7 +351,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Nations.md",
+                "file": "🗃️ Unorganized/General Notes/Starting with CSS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -433,7 +433,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Nations.md",
+                "file": "🗃️ Unorganized/General Notes/Starting with CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -450,7 +450,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Nations.md",
+                "file": "🗃️ Unorganized/General Notes/Starting with CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -462,7 +462,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Comparison of Nations.md"
+                "file": "🗃️ Unorganized/General Notes/Starting with CSS.md"
               }
             }
           },
@@ -514,32 +514,32 @@
   },
   "active": "7cb7a802ce26ee0f",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Side by Side Assembly.md",
-    "🗃️ Unorganized/General Notes/Search Engines.md",
-    "🗃️ Unorganized/General Notes/Versions of Gazebo packaged by Ubuntu.md",
-    "🗃️ Unorganized/General Notes/Building DDE, KDE Plasma and GNOME.md",
-    "🗃️ Unorganized/General Notes/Islam.md",
-    "🗃️ Unorganized/General Notes/Antisemitic Quotes from the Talmud Debunked.md",
-    "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
-    "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
-    "🗃️ Unorganized/General Notes/Network Topologies.md",
-    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
-    "🗃️ Unorganized/General Notes/Bookmarks List.md",
-    "🗃️ Unorganized/General Notes/Database Software.md",
-    "🗃️ Unorganized/General Notes/Missing Courses.md",
-    "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/India Pakistan Conflict/India Pakistan Current Affairs.md",
-    "🗃️ Unorganized/General Notes/Massacres of Jews.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel Palestine Opinions.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Israel-Palestine Peace Ideas.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Laws in Israel.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Jihadist Attacks.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Problematic Thoughts in Islam.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The Constitution of Medina.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Jews against Zionism.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse/Why Conservative Arguments are Loaded.md",
+    "🗃️ Unorganized/General Notes/Sci-Fi HUD UI.md",
+    "🗃️ Unorganized/General Notes/Music Theory.md",
+    "🗃️ Unorganized/General Notes/Next Generation Audio.md",
+    "🗃️ Unorganized/General Notes/Sound Perception.md",
+    "🗃️ Unorganized/General Notes/Learning kernel development.md",
+    "🗃️ Unorganized/General Notes/Microtones.md",
+    "🗃️ Unorganized/General Notes/Elasticity of Spacetime.md",
+    "🗃️ Unorganized/General Notes/Why can you run on water if you do it very fast.md",
+    "🗃️ Unorganized/General Notes/seL4 Microkernel.md",
+    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
+    "🗃️ Unorganized/General Notes/Developing Linux on Embedded.md",
+    "🗃️ Unorganized/General Notes/Sulfur Ions.md",
+    "🗃️ Unorganized/General Notes/Comparison of Lithium Ion Batteries.md",
+    "🗃️ Unorganized/General Notes/Details about Lithium Ion Electrolyte Materials.md",
+    "🗃️ Unorganized/General Notes/Software Architectural Patterns.md",
+    "🗃️ Unorganized/General Notes/Virtual Instruments.md",
+    "🗃️ Unorganized/General Notes/Programming Methodologies.md",
+    "🗃️ Unorganized/General Notes/Software Design Patterns.md",
+    "🗃️ Unorganized/General Notes/Gas Laws.md",
+    "🗃️ Unorganized/General Notes/Fermi level.md",
+    "🗃️ Unorganized/General Notes/Solid State Batteries.md",
+    "🗃️ Unorganized/General Notes/International Union of Pure and Applied Chemistry.md",
+    "🗃️ Unorganized/General Notes/Free Software Banking.md",
+    "🗃️ Unorganized/General Notes/Window Managers.md",
+    "🗃️ Unorganized/General Notes/Pigments.md",
+    "🗃️ Unorganized/General Notes/All Weird Mathematical Operators.md",
     "_images/Islam - Child Farming.png",
     "_images/Muslim Ideas of Sex - in India 1.png",
     "_images/Sway Screenshot 1.png",
