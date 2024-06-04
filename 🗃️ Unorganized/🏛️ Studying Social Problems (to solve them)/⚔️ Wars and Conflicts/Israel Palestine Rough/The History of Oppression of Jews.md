@@ -126,7 +126,7 @@ Jews are still very scared of the rise of Antisemitism.
 > 	- Some Jews were rescued by the Karaite Jews of Ashkelon with help from their people in Alexandria
 > - Many Jews viewed the deaths of Rhineland Jews as a sacrifice
 > - They started having suicidal thoughts, which were sins, but were honourable in the face of a larger enemy
-> - They killed children because it was better to die innocent than convert. This was what would've led to blood libel accusations later on.
+> - They killed their children because it was better to die innocent than convert. This was what would've led to blood libel accusations later on.
 > - The Catholic Church condemned the massacres, and gave protection to the Jews, but only if they didn't threaten Christianity and remained submissive to their rule.
 > - Second Crusade
 > 	- Jewish money was used for financing the crusade, and Jews were attacked too, but not on the scale of Rhineland
