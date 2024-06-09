@@ -333,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -408,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
+                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -425,7 +425,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
+                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -437,7 +437,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md"
+                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md"
               }
             }
           },
@@ -487,8 +487,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "48e6e120806556b7",
+  "active": "caff95bc1af0b0d7",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
+    "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
+    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🤠 Personal/Ideas for business.md",
     "🤠 Personal/French.md",
     "🤠 Personal/Zettelkasten.md",
@@ -511,10 +515,6 @@
     "🔮 World Building/Geography/Western Ghats.md",
     "🔮 World Building/Geography/Deccan Plateau.md",
     "🔮 World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
-    "🔮 World Building/Geography/Geographic Information Systems/Differential GPS.md",
-    "🔮 World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/Global Positioning System.md",
-    "🔮 World Building/Geography/Geographic Information Systems/Global Navigation Satellite Systems/GNSS Bands.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Biological Aspects of Colours/Anomalies in Human Colour Perception.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
