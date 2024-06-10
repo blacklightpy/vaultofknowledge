@@ -338,15 +338,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Religions in General (long).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3f182bfaba3eb84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -421,7 +429,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -438,7 +445,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -449,9 +455,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md"
-              }
+              "state": {}
             }
           },
           {
@@ -500,14 +504,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1b30d44d6a83a45a",
+  "active": "a3f182bfaba3eb84",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+    "🗃️ Unorganized/General Notes/Comparison of Nations.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
+    "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Religions in General (long).md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Common Problems with Religions.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md",
     "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
-    "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🤠 Personal/Ideas for business.md",
     "🤠 Personal/French.md",
     "🤠 Personal/Zettelkasten.md",
@@ -523,11 +532,6 @@
     "🔮 World Building/Philosophy/Narcissism.md",
     "🔮 World Building/Marketplace and Creations/Popular Companies, Products and Services Map.md",
     "🔮 World Building/Marketplace and Creations/Software Implementations/Cython.md",
-    "🔮 World Building/Marketplace and Creations/Software Implementations/DLSS.md",
-    "🔮 World Building/Marketplace and Creations/Software Implementations/CPython.md",
-    "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
-    "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
-    "🔮 World Building/Geography/Western Ghats.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
