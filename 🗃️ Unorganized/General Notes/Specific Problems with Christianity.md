@@ -14,9 +14,16 @@
 
 
 - Quran
+	- Against Jews and Polytheists, Supporting Christians
+		- 5:82
 	- Against Christians
+		- 
 	- Against Polytheists
+	- Mocking Ezra and Jesus as The Son of God (May Allah condemn them)
+		- 9:30
 	- A woman's testimony is half as worth that of a man
+	- Exception for 11 wives
+		- 33:51
 
 - Hadeeths
 	- Incitement against Jews
