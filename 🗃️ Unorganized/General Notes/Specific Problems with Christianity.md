@@ -17,7 +17,13 @@
 	- Against Jews and Polytheists, Supporting Christians
 		- 5:82
 	- Against Christians
-		- 
+	- Against Jews and Christians
+		- 2:111-114 (Their proofs are invalid)
+		- 2:125 (We won't follow you, we follow Abraham's faith, who wasn't a polytheist)
+		- 2:140 (Abraham's descendants were not Jews or Christians)
+		- 2:142, 144 (Proceeds to change prayer direction from Jerusalem to Mecca)
+		- 2:145-146 (They won't take your prayer direction, and the real ones recognize Mohammed as Prophet, while the others knowingly hide the truth)
+		- 5:51 (Do not take Jews or Christians as allies)
 	- Against Polytheists
 	- Mocking Ezra and Jesus as The Son of God (May Allah condemn them)
 		- 9:30
