@@ -331,9 +331,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b30d44d6a83a45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -408,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -425,7 +438,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -437,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The rhetoric of religions.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Islam.md"
               }
             }
           },
@@ -487,11 +500,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "caff95bc1af0b0d7",
+  "active": "1b30d44d6a83a45a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+    "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
+    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
     "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
-    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
     "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🤠 Personal/Ideas for business.md",
     "🤠 Personal/French.md",
@@ -513,8 +528,6 @@
     "🔮 World Building/Marketplace and Creations/Food/Tea Brands.md",
     "🔮 World Building/Marketplace and Creations/Food/Coffee Brands.md",
     "🔮 World Building/Geography/Western Ghats.md",
-    "🔮 World Building/Geography/Deccan Plateau.md",
-    "🔮 World Building/Geography/Geographic Information Systems/Real-Time Kinematic.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",

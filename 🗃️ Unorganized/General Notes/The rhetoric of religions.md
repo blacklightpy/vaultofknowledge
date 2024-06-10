@@ -21,4 +21,12 @@ But that would be semantic policing, because the language is designed that way.
 Language, was always designed around a culture, regardless of whether it's oppressive or not.
 3.
 The other thing is about pagans.
-Pagans were hated in the new testament, 
+Pagans were hated in the New Testament, in the Book of Mathew.
+> **Mathew 5:46-48**
+> And if you greet only your own people, what are you doing more than others? _Do_ not _even pagans do_ that?
+
+Their original fault was with the Roman pagans, who were xenophobic or prideful of their gods.
+The same ideas did not apply to Hindus, who would cherish the gods of other people.
+
+In the Old Testament, the treatment of pagans were far worse.
+But the reason in the Jewish religion as per the Talmud was that 
