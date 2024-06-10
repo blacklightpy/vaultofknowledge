@@ -22,4 +22,6 @@
 	- Incitement against Jews
 		- Sahih Al-Bukhari
 		- Sahih Muslim
-	- 
+	- Expulsion of Jews and Christians
+		- Sahih Muslim
+			- > I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim.
