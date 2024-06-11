@@ -405,12 +405,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -434,7 +434,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,7 +450,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -462,9 +460,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -513,10 +509,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3f182bfaba3eb84",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Abrahamic Religions.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Abrahamic Religions.md",
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
     "🗃️ Unorganized/General Notes/Comparison of Nations.md",
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
