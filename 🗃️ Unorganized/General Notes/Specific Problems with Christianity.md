@@ -3,6 +3,32 @@
 	- Hatred of Pagans
 	- Story of Lot and Gomorrah
 
+Read these truly:
+- Kill adulterers
+- Kill all witches
+- Kill blasphemers
+- Kill false prophets
+- Kill fortune-tellers
+- Kill anyone who sins
+- Kill the curious
+- Kill gays
+- Kill all non-Hebrews
+- Kill sons of sinners
+- Kill nonbelievers
+- Kill anyone who curses God
+- Kill any child who hits a parent
+- Kill children who disobey parents
+- Kill those who work on the Sabbath
+- Kill disobedient children
+- Kill strangers close to a church
+- Kill all males after winning battles
+- Kill those who curse father or mother
+- Kill any bride discovered not a virgin
+- Kill those who worship the wrong god
+- Kill anyone who does not observe the Sabbath
+- Kill everybody in a town that worships the wrong god
+- Kill anyone who kills anyone
+
 - New Testament
 	- Hatred of Pagans
 	- Marital Rape
@@ -65,4 +91,4 @@
 			- **6946 ((Statements made under) Coercion, Hadeeth 7):** I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the women be asked for their consent to their marriage?" He said, "Yes." I said, "A virgin, if asked, feels shy and keeps quiet." He said, "Her silence means her consent."
 	- Killing LGB
 		- Sunan Abi Dawud
-			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done. Abu Dawud said: A similar tradition has also been transmitted by Sulaiman b. Bilal from 'Amr b. Abi 'Umar. And 'Abbad b. Mansur transmitted it from 'Ikrimah on the authority of Ibn 'Abbas who transmitted it from the Prophet (ﷺ). It has also been transmitted by Ibn Juraij from Ibrahim from Dawud b. Al-Husain from 'Ikrimah on the authority of Ibn 'Abbas who transmitted it from the Prophet (ﷺ).
+			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done.
