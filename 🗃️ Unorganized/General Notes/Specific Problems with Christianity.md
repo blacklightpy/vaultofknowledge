@@ -10,7 +10,9 @@ Read these truly:
 - Kill blasphemers (Lev 24:14)
 - Kill false prophets (Zech 13:3)
 - Kill fortune-tellers (Lev 20:27)
+	- Kill necromancers and mediums
 - Kill anyone who sins (Ezek 18:4)
+	- Truth: God said all the souls who sins will die
 - Kill the curious (1 Sam 6:19-20)
 	- Truth: They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
 - Kill gays (Lev 20:13, Rom 1:21-32)
@@ -39,6 +41,8 @@ Read these truly:
 	- And that all who are born are sinners destined to hell
 	- Only his grace can save you
 
+- Romans 1:18-32
+	- No excuse, they are all liars
 
 
 - Quran
