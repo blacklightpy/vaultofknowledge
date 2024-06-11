@@ -61,6 +61,8 @@ He wants his plan done.
 	- Jesus claiming he's here to bring grace
 	- And that all who are born are sinners destined to hell
 	- Only his grace can save you
+	- Jews are the sons of Satan
+		- John 8:44 (incited violence)
 
 - Romans 1:18-32
 	- No excuse, they are all liars
