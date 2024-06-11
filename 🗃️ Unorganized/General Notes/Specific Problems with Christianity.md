@@ -14,17 +14,22 @@
 
 
 - Quran
+	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
+	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
 	- Against Jews and Polytheists, Supporting Christians
 		- 5:82
 	- Against Christians
 	- Against Jews and Christians
 		- 2:111-114 (Their proofs are invalid)
+		- 2:120 (Those who follow Jews or Christians would be misled)
 		- 2:125 (We won't follow you, we follow Abraham's faith, who wasn't a polytheist)
 		- 2:140 (Abraham's descendants were not Jews or Christians)
 		- 2:142, 144 (Proceeds to change prayer direction from Jerusalem to Mecca)
 		- 2:145-146 (They won't take your prayer direction, and the real ones recognize Mohammed as Prophet, while the others knowingly hide the truth)
 		- 5:51 (Do not take Jews or Christians as allies)
 	- Against Polytheists
+		- 6:23 (Saying that they lie about their beliefs on Judgement Day)
+		- 9:6 (Protect Polytheists who ask for your protection, they are dumb)
 	- Mocking Ezra and Jesus as The Son of God (May Allah condemn them)
 		- 9:30
 	- A woman's testimony is half as worth that of a man
