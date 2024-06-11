@@ -49,6 +49,9 @@ But only a small portion of the Bible is to Gentiles, most others are to Israel.
 Bible doesn't specify or condemn death penality to homosexuals. But it doesn't oppose.
 Romans 13:1-4 gives the state the power to execute criminals, but doesn't specify what is criminal.
 
+God doesn't always want what's moral.
+He wants his plan done.
+
 - New Testament
 	- Hatred of Pagans
 	- Marital Rape
