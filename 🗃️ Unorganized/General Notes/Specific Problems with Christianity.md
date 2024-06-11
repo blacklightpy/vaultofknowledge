@@ -18,9 +18,9 @@
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
 	- Against Jews and Polytheists, Supporting Christians
 		- 5:82
-	- Against Christians
 	- Against Jews and Christians
 		- 2:89 (The Jews deny everything that came afterward, may Allah condemn them)
+		- 2:96 (The Jews want to live forever, they are greedy)
 		- 2:102 (The Jews follow the magic of Solomon's period rather than Allah's word)
 		- 2:111-114 (Their proofs are invalid)
 		- 2:120 (Those who follow Jews or Christians would be misled)
