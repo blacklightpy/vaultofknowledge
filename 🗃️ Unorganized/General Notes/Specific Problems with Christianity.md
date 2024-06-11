@@ -134,7 +134,7 @@ https://www.gotquestions.org/father-of-lies.html
 		- Hadith
 	- Secondary Sources
 		- Ijma As Sahabah (Consensus)
-		- Qiyas (Analogy)
+		- Qiyas (Analogysaud)
 
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
