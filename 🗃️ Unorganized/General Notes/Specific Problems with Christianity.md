@@ -20,6 +20,8 @@
 		- 5:82
 	- Against Christians
 	- Against Jews and Christians
+		- 2:89 (The Jews deny everything that came afterward, may Allah condemn them)
+		- 2:102 (The Jews follow the magic of Solomon's period rather than Allah's word)
 		- 2:111-114 (Their proofs are invalid)
 		- 2:120 (Those who follow Jews or Christians would be misled)
 		- 2:125 (We won't follow you, we follow Abraham's faith, who wasn't a polytheist)
@@ -29,7 +31,10 @@
 		- 5:51 (Do not take Jews or Christians as allies)
 	- Against Polytheists
 		- 6:23 (Saying that they lie about their beliefs on Judgement Day)
+		- 9:5 (Kill all the polytheists)
 		- 9:6 (Protect Polytheists who ask for your protection, they are dumb)
+		- 9:23 (Do not take parents and siblings as allies if they disbelieve)
+		- 9:28 (Polytheists are spiritually impure)
 	- Against Atheists and Polytheists
 		- 98:6 (They're the worst of all beings and will be in hell)
 		- 8:55 (The worst of all beings are those who have no faith)
