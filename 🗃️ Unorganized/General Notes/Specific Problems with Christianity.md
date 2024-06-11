@@ -69,6 +69,9 @@ He wants his plan done.
 - Bible is the inspired word of God
 	- Timothy 3:16
 
+https://www.gotquestions.org/father-of-lies.html
+> Some of his more common lies are “there is no God,” “God doesn’t care about you,” “the Bible cannot be trusted,” and “your good works will get you into heaven.”
+
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
