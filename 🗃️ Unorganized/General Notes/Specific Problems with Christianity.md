@@ -60,6 +60,8 @@ Read these truly:
 		- 2:140 (Abraham's descendants were not Jews or Christians)
 		- 2:142, 144 (Proceeds to change prayer direction from Jerusalem to Mecca)
 		- 2:145-146 (They won't take your prayer direction, and the real ones recognize Mohammed as Prophet, while the others knowingly hide the truth)
+		- 5:14 (The Christians denied portions of the covenant)
+		- 5:18 (Jews and Christians claim to be the most beloved, but no, they are only humans *proceeds to do the same thing*)
 		- 5:51 (Do not take Jews or Christians as allies)
 	- Against Polytheists
 		- 6:23 (Saying that they lie about their beliefs on Judgement Day)
