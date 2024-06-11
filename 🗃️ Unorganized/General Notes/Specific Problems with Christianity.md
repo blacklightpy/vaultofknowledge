@@ -63,4 +63,6 @@
 	- Silence means Yes
 		- Sahih Al-Bukhari
 			- **6946 ((Statements made under) Coercion, Hadeeth 7):** I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the women be asked for their consent to their marriage?" He said, "Yes." I said, "A virgin, if asked, feels shy and keeps quiet." He said, "Her silence means her consent."
-- Prophet had 11 wives
+	- Killing LGB
+		- Sunan Abi Dawud
+			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done. Abu Dawud said: A similar tradition has also been transmitted by Sulaiman b. Bilal from 'Amr b. Abi 'Umar. And 'Abbad b. Mansur transmitted it from 'Ikrimah on the authority of Ibn 'Abbas who transmitted it from the Prophet (ﷺ). It has also been transmitted by Ibn Juraij from Ibrahim from Dawud b. Al-Husain from 'Ikrimah on the authority of Ibn 'Abbas who transmitted it from the Prophet (ﷺ).
