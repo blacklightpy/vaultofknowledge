@@ -2,6 +2,8 @@
 - Old Testament
 	- Hatred of Pagans
 	- Story of Lot and Gomorrah
+	- Samson's Marriage
+		- Judges 14:16
 
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
@@ -163,3 +165,11 @@ https://www.gotquestions.org/father-of-lies.html
 
 - Salafism
 - Khilafa Movement (to rebuild the Caliphates)
+
+
+- Hadeeth Verse
+	- 4:80
+	- 24:63
+	- 4:65
+	- 8:24
+	- Al-Tirmidhi reported from Abu Raafi’ and others that the Prophet (peace be upon him) said: “I do not want to see any one of you reclining on his couch and, when he hears of my instructions or prohibitions, saying ‘I don’t accept it; we didn’t find any such thing in the Book of Allah.’” Abu ‘Eesaa said: This is a saheeh hasan hadeeth. (See Sunan al-Tirmidhi, Shaakir edition, no. 2663).
