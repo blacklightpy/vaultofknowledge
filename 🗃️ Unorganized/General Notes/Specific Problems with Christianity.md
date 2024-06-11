@@ -30,6 +30,10 @@
 	- Against Polytheists
 		- 6:23 (Saying that they lie about their beliefs on Judgement Day)
 		- 9:6 (Protect Polytheists who ask for your protection, they are dumb)
+	- Against Atheists and Polytheists
+		- 98:6 (They're the worst of all beings and will be in hell)
+		- 8:55 (The worst of all beings are those who have no faith)
+		- 9:113 (Do not seek forgiveness for close relatives who are polytheists bound for Hellfire)
 	- Mocking Ezra and Jesus as The Son of God (May Allah condemn them)
 		- 9:30
 	- A woman's testimony is half as worth that of a man
