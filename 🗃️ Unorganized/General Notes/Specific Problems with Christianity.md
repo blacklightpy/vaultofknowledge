@@ -52,6 +52,9 @@ Romans 13:1-4 gives the state the power to execute criminals, but doesn't specif
 God doesn't always want what's moral.
 He wants his plan done.
 
+Christians justify that God ordered to kill all babies.
+They justify that if God says so, killing people is moral.
+
 - New Testament
 	- Hatred of Pagans
 	- Marital Rape
