@@ -127,3 +127,13 @@ https://www.gotquestions.org/father-of-lies.html
 	- Killing LGB
 		- Sunan Abi Dawud
 			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done.
+
+- Islam
+	- Primary Sources
+		- Quran
+		- Hadith
+	- Secondary Sources
+		- Ijma As Sahabah (Consensus)
+		- Qaynu
+
+- Shia-ism is not the same as Islam
