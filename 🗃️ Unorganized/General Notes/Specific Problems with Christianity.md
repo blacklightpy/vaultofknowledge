@@ -134,7 +134,26 @@ https://www.gotquestions.org/father-of-lies.html
 		- Hadith
 	- Secondary Sources
 		- Ijma As Sahabah (Consensus)
-		- Qiyas (Analogysaud)
+		- Qiyas (Analogical Reasoning)
+	- Modern Additions
+		- Maslahah Mursalah (Public Interest)
+		- Maqasid (Aims of Shariah)
+
+- Ijtihad (Critical Thinking)
+	- Istihsan (Equity in Islamic Law)
+- Urf (Customs)
+	- Sadd al-Dhara’i (Blocking the Means)
+
+- Fatwas of the Companions
+- Fatwas of the Followers (Tabi'un)
+- Consensus (Ijma')
+- The Practice of the People of Madina
+- Analogy (Qiyas)
+- Istihsan (Discretion)
+- Istishab (Presumption of Continuity)
+- al-Masalih al-Mursala (Public Interest)
+- adh-Dhara'i'(Means)
+- 'Adat (Customs) and 'Urf (Customary Usage) 
 
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
