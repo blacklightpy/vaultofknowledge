@@ -66,7 +66,8 @@ He wants his plan done.
 
 - Romans 1:18-32
 	- No excuse, they are all liars
-
+- Bible is the inspired word of God
+	- Timothy 3:16
 
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
