@@ -1,6 +1,7 @@
 
 - Old Testament
 	- Hatred of Pagans
+		- Psalm 106:37
 	- Story of Lot and Gomorrah
 	- Samson's Marriage
 		- Judges 14:16
