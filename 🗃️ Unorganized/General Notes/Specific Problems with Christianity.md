@@ -4,35 +4,50 @@
 	- Story of Lot and Gomorrah
 
 Read these truly:
-- Kill adulterers (Lev 20:10)
+- 1. Kill adulterers (Lev 20:10)
 	- If a man cheats on neighbour's wife, put them to death.
-- Kill all witches (Ex 22:18)
-- Kill blasphemers (Lev 24:14)
-- Kill false prophets (Zech 13:3)
-- Kill fortune-tellers (Lev 20:27)
+- 2. Kill all witches (Ex 22:18)
+- 3. Kill blasphemers (Lev 24:14)
+- 4. Kill false prophets (Zech 13:3)
+- 5. Kill fortune-tellers (Lev 20:27)
 	- Kill necromancers and mediums
-- Kill anyone who sins (Ezek 18:4)
+- 6. Kill anyone who sins (Ezek 18:4)
 	- Truth: God said all the souls who sins will die
-- Kill the curious (1 Sam 6:19-20)
+- 7. Kill the curious (1 Sam 6:19-20)
 	- Truth: They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
-- Kill gays (Lev 20:13, Rom 1:21-32)
-- Kill all non-Hebrews (Dt 20:16-17)
-- Kill sons of sinners (Isaiah 14:21)
+- 8. Kill gays (Lev 20:13, Rom 1:21-32)
+- 9. Kill all non-Hebrews (Dt 20:16-17)
+- 10. Kill sons of sinners (Isaiah 14:21)
 	- Isaiah is talking about the sons of sinners
-- Kill nonbelievers (2 Chron 15:12-13)
-- Kill anyone who curses God (Lev 24:16)
-- Kill any child who hits a parent (Ex 21:15)
-- Kill children who disobey parents (Dt 21:20)
-- Kill those who work on the Sabbath (Ex 31:15)
-- Kill disobedient children (Ex 21:17, Mk 7:10)
-- Kill strangers close to a church (Num 1:48-51)
-- Kill all males after winning battles (Dt 20:13)
-- Kill those who curse father or mother (Lev 20:13)
-- Kill any bride discovered not a virgin (Dt 22:21)
-- Kill those who worship the wrong god (Num 25:1-9)
-- Kill anyone who does not observe the Sabbath (Ex 31:14)
-- Kill everybody in a town that worships the wrong god (Dt 13:13-??)
-- Kill anyone who kills anyone (Lev 24:17)
+- 11. Kill nonbelievers (2 Chron 15:12-13)
+	- It was under King Asa, and was only for those who want to stay in Jerusalem
+- 12. Kill anyone who curses God (Lev 24:16)
+	- REPEAT of 3
+- 13. Kill any child who hits a parent (Ex 21:15)
+- 14. Kill children who disobey parents (Dt 21:20)
+- 15. Kill those who work on the Sabbath (Ex 31:15)
+- 16. Kill disobedient children (Ex 21:17, Mk 7:10)
+- 17. Kill strangers close to a church (Num 1:48-51)
+- 18. Kill all males after winning battles (Dt 20:13)
+- 19. Kill those who curse father or mother (Lev 20:13)
+- 20. Kill any bride discovered not a virgin (Dt 22:21)
+- 21. Kill those who worship the wrong god (Num 25:1-9)
+- 22. Kill anyone who does not observe the Sabbath (Ex 31:14)
+- 23. Kill everybody in a town that worships the wrong god (Dt 13:13-??)
+- 24. Kill anyone who kills anyone (Lev 24:17)
+
+Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
+It is also the responsibility of the Judges (Dt 17:6-9).
+The Church cannot punish sinners, only the government can (Romans 13:1-4).
+
+Lev 1:1-2 states that the book is for Israel.
+
+We are in the Church age (Eph 3:1-5).
+Lord will deal with Israel in the End Times (Rev 7-19).
+Paul is the APostle of the Gentiles (Rom 11:11-13).
+But only a small portion of the Bible is to Gentiles, most others are to Israel.
+Bible doesn't specify or condemn death penality to homosexuals. But it doesn't oppose.
+Romans 13:1-4 gives the state the power to execute criminals, but doesn't specify what is criminal.
 
 - New Testament
 	- Hatred of Pagans
