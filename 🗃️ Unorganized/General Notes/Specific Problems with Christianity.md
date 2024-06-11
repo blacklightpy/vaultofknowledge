@@ -4,30 +4,32 @@
 	- Story of Lot and Gomorrah
 
 Read these truly:
-- Kill adulterers
-- Kill all witches
-- Kill blasphemers
-- Kill false prophets
-- Kill fortune-tellers
-- Kill anyone who sins
-- Kill the curious
-- Kill gays
-- Kill all non-Hebrews
-- Kill sons of sinners
-- Kill nonbelievers
-- Kill anyone who curses God
-- Kill any child who hits a parent
-- Kill children who disobey parents
-- Kill those who work on the Sabbath
-- Kill disobedient children
-- Kill strangers close to a church
-- Kill all males after winning battles
-- Kill those who curse father or mother
-- Kill any bride discovered not a virgin
-- Kill those who worship the wrong god
-- Kill anyone who does not observe the Sabbath
-- Kill everybody in a town that worships the wrong god
-- Kill anyone who kills anyone
+- Kill adulterers (Lev 20:10)
+	- If a man cheats on neighbour's wife, put them to death.
+- Kill all witches (Ex 22:18)
+- Kill blasphemers (Lev 24:14)
+- Kill false prophets (Zech 13:3)
+- Kill fortune-tellers (Lev 20:27)
+- Kill anyone who sins (Ezek 18:4)
+- Kill the curious (1 Sam 6:19-20)
+	- Truth: They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
+- Kill gays (Lev 20:13, Rom 1:21-32)
+- Kill all non-Hebrews (Dt 20:16-17)
+- Kill sons of sinners (Isaiah 14:21)
+- Kill nonbelievers (2 Chron 15:12-13)
+- Kill anyone who curses God (Lev 24:16)
+- Kill any child who hits a parent (Ex 21:15)
+- Kill children who disobey parents (Dt 21:20)
+- Kill those who work on the Sabbath (Ex 31:15)
+- Kill disobedient children (Ex 21:17, Mk 7:10)
+- Kill strangers close to a church (Num 1:48-51)
+- Kill all males after winning battles (Dt 20:13)
+- Kill those who curse father or mother (Lev 20:13)
+- Kill any bride discovered not a virgin (Dt 22:21)
+- Kill those who worship the wrong god (Num 25:1-9)
+- Kill anyone who does not observe the Sabbath (Ex 31:14)
+- Kill everybody in a town that worships the wrong god (Dt 13:13-??)
+- Kill anyone who kills anyone (Lev 24:17)
 
 - New Testament
 	- Hatred of Pagans
