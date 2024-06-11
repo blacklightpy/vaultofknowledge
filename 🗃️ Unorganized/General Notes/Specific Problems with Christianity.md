@@ -157,3 +157,6 @@ https://www.gotquestions.org/father-of-lies.html
 
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
+
+- Salafism
+- Khilafa Movement (to rebuild the Caliphates)
