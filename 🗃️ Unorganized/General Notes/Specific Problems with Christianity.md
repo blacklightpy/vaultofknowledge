@@ -1,10 +1,11 @@
-
 - Old Testament
 	- Hatred of Pagans
 		- Psalm 106:37
 	- Story of Lot and Gomorrah
 	- Samson's Marriage
 		- Judges 14:16
+	- Don't Hide Your Sins (Good)
+		- Proverbs 28:13
 
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
@@ -109,8 +110,10 @@ https://www.gotquestions.org/father-of-lies.html
 	- Mocking Ezra and Jesus as The Son of God (May Allah condemn them)
 		- 9:30
 	- A woman's testimony is half as worth that of a man
-	- Exception for 11 wives
+	- Exception for 11 wives to Mohammed
 		- 33:51
+	- Hide your Sins
+		- 4:148
 
 - Hadeeths
 	- Incitement against Jews
@@ -133,6 +136,9 @@ https://www.gotquestions.org/father-of-lies.html
 	- Killing LGB
 		- Sunan Abi Dawud
 			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done.
+	- Hiding the sins of Muslims
+		- Sunan Ibn Majah
+			- **225 (The Book of the Sunnah, Hadeeth 225):** The Messenger of Allah said: Whoever relieves a Muslim of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection, and whoever conceals (the faults of) a Muslim, Allah will conceal him (his faults) in this world and the Day of Resurrection.
 
 - Islam
 	- Primary Sources
