@@ -18,6 +18,7 @@ Read these truly:
 - Kill gays (Lev 20:13, Rom 1:21-32)
 - Kill all non-Hebrews (Dt 20:16-17)
 - Kill sons of sinners (Isaiah 14:21)
+	- Isaiah is talking about the sons of sinners
 - Kill nonbelievers (2 Chron 15:12-13)
 - Kill anyone who curses God (Lev 24:16)
 - Kill any child who hits a parent (Ex 21:15)

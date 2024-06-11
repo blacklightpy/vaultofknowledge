@@ -435,6 +435,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,6 +452,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -461,7 +463,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+              }
             }
           },
           {
@@ -510,8 +514,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "a3f182bfaba3eb84",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Abrahamic Religions.md",
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
@@ -537,7 +542,6 @@
     "🔮 World Building/Philosophy/Presentism.md",
     "🔮 World Building/Philosophy/Philosophy.md",
     "🔮 World Building/Philosophy/Epistemology.md",
-    "🔮 World Building/Philosophy/Narcissism.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
