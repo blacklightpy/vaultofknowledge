@@ -31,7 +31,7 @@
 		- 5:51 (Do not take Jews or Christians as allies)
 	- Against Polytheists
 		- 6:23 (Saying that they lie about their beliefs on Judgement Day)
-		- 9:5 (Kill all the polytheists)
+		- 9:5 (Kill all the polytheists "who violate their treaties" (in sidenotes))
 		- 9:6 (Protect Polytheists who ask for your protection, they are dumb)
 		- 9:23 (Do not take parents and siblings as allies if they disbelieve)
 		- 9:28 (Polytheists are spiritually impure)
