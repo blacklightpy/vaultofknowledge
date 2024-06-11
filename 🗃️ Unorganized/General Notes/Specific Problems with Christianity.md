@@ -53,6 +53,8 @@ Romans 13:1-4 gives the state the power to execute criminals, but doesn't specif
 	- Hatred of Pagans
 	- Marital Rape
 	- Jesus claiming he's not come to abolish the old commandments
+	- Jesus claiming if you love him, we'll keep his commandments
+		- John 14:15-17
 	- Jesus claiming he's here to bring grace
 	- And that all who are born are sinners destined to hell
 	- Only his grace can save you
