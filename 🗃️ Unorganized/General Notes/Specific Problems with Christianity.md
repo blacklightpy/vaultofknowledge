@@ -166,6 +166,14 @@ https://www.gotquestions.org/father-of-lies.html
 	- Hiding the sins of Muslims
 		- Sunan Ibn Majah
 			- **225 (The Book of the Sunnah, Hadeeth 225):** The Messenger of Allah said: Whoever relieves a Muslim of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection, and whoever conceals (the faults of) a Muslim, Allah will conceal him (his faults) in this world and the Day of Resurrection.
+	- Jihad to everyone
+		- Sahih Al-Bukhari
+			- **25 (Belief, Hadeeth 18):** Allah's Messenger (ﷺ) said: "I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah."
+			- **3015 (Jihad, Hadeeth 224):** During some of the Ghazawat of Allah's Messenger (ﷺ) a woman was found killed, so Allah's Messenger (ﷺ) forbade the killing of women and children.
+				- Note how it doesn't say kill only those who fight.
+	- Killing all adult males who had pubic hair after battle
+		- Jami at-Tirmidhi (Sahih)
+			- **1584 (The Book on Military Expeditions, Hadeeth 41):** "We were presented to the Messenger of Allah (ﷺ) on the day of (the battle of) Quraizah. Whoever had pubic hair was killed and whoever did not was left to his way. I was of those who did not have pubic hair so I was left to my way." Abu 'Eisa said: This Hadith is Hasan Sahih. This is acted upon according to some of the people of knowledge. They consider pubic hair an indication of the age of responsibility, if it is not known whether he has had a wet dream, or his age. This is the view of Ahmad and Ishaq.
 
 - Islam
 	- Primary Sources
