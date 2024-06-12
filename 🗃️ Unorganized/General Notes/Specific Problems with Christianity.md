@@ -6,6 +6,9 @@
 		- Judges 14:16
 	- Don't Hide Your Sins (Good)
 		- Proverbs 28:13
+- Talmud
+	- Sanhedrin 43a (Stoning Jesus)
+		- He violated Deuteronomy 13:11-12 (Misleading people) and Leviticus 20:27 (Spirit Telling).
 
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
@@ -70,12 +73,17 @@ They justify that if God says so, killing people is moral.
 	- Only his grace can save you
 	- Jews are the sons of Satan
 		- John 8:44 (incited violence)
+	- Patriarchal Suppression of Women's Rights
+		- 1 Timothy 2:12
 
 - Romans 1:18-32
 	- No excuse, they are all liars
 - Bible is the inspired word of God
 	- Timothy 3:16
+- Acts 6:8-7:59
+	- Stephen was stoned for blasphemy
 
+- How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
 > Some of his more common lies are “there is no God,” “God doesn’t care about you,” “the Bible cannot be trusted,” and “your good works will get you into heaven.”
 
