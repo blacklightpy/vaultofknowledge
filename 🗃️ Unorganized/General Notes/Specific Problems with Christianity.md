@@ -34,9 +34,11 @@ Read these truly:
 - 14. Kill children who disobey parents (Dt 21:20)
 - 15. Kill those who work on the Sabbath (Ex 31:15)
 - 16. Kill disobedient children (Ex 21:17, Mk 7:10)
-	- Rep
+	- REPEAT of 14
 - 17. Kill strangers close to a church (Num 1:48-51)
+	- It refers to someone who's not a priest approaching the tabernacle
 - 18. Kill all males after winning battles (Dt 20:13)
+	- 
 - 19. Kill those who curse father or mother (Lev 20:13)
 - 20. Kill any bride discovered not a virgin (Dt 22:21)
 - 21. Kill those who worship the wrong god (Num 25:1-9)
@@ -193,3 +195,11 @@ https://www.gotquestions.org/father-of-lies.html
 	- 4:65
 	- 8:24
 	- Al-Tirmidhi reported from Abu Raafi’ and others that the Prophet (peace be upon him) said: “I do not want to see any one of you reclining on his couch and, when he hears of my instructions or prohibitions, saying ‘I don’t accept it; we didn’t find any such thing in the Book of Allah.’” Abu ‘Eesaa said: This is a saheeh hasan hadeeth. (See Sunan al-Tirmidhi, Shaakir edition, no. 2663).
+
+
+- People justifying killing polytheists
+	- Surah 9:5 isn't forbidden afterwards.
+	- Also, treaty is irrelevant for when Muslims conquered the land, meaning a treaty was broken.
+	- They remove parts of 2:191 saying drive them out from where they drove you out (meaning they came to attack you)
+	- They reply, emotions will lead you to failure, and follow the jurisprudence books, like the Book of Jihad
+	- https://islam.stackexchange.com/questions/80319/permissibility-to-kill-all-adult-males
