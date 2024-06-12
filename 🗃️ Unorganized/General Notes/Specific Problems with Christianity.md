@@ -30,12 +30,13 @@ Read these truly:
 - 11. Kill nonbelievers (2 Chron 15:12-13)
 	- It was under King Asa, and was only for those who want to stay in Jerusalem
 - 12. Kill anyone who curses God (Lev 24:16)
-	- SAME  3
+	- REPEAT of 3
 - 13. Kill any child who hits a parent (Ex 21:15)
 - 14. Kill children who disobey parents (Dt 21:20)
+	- SAME as 13
 - 15. Kill those who work on the Sabbath (Ex 31:15)
 - 16. Kill disobedient children (Ex 21:17, Mk 7:10)
-	- REPEAT of 14
+	- REPEAT of 13 / SAME as 13
 - 17. Kill strangers close to a church (Num 1:48-51)
 	- It refers to someone who's not a priest approaching the tabernacle
 - 18. Kill all males after winning battles (Dt 20:13)
@@ -52,6 +53,54 @@ Read these truly:
 	- Same in Quran 2:54
 - 24. Kill anyone who kills anyone (Lev 24:17)
 	- REPEAT of 12
+
+## Rearranging
+
+- 1. Kill any child who hits a parent (Ex 21:15)
+	- Kill disobedient children (Ex 21:17, Mk 7:10)
+- 2. Kill all witches (Ex 22:18)
+- 3. Kill anyone who does not observe the Sabbath (Ex 31:14)
+	- Kill those who work on the Sabbath (Ex 31:15)
+
+- 4. Kill those who curse father or mother (Lev 20:9)
+	- SAME as 1
+- 5. Kill adulterers (Lev 20:10)
+	- If a man cheats on neighbour's wife, put them to death.
+- 6. Kill gays (Lev 20:13, Rom 1:21-32)
+	- Kill necromancers and mediums
+- 7. Kill fortune-tellers (Lev 20:27)
+- 8. Kill blasphemers (Lev 24:14)
+	- Kill anyone who curses God (Lev 24:16)
+	- Kill anyone who kills anyone (Lev 24:17)
+
+- 17. Kill strangers close to a church (Num 1:48-51)
+	- It refers to someone who's not a priest approaching the tabernacle
+- 21. Kill those who worship the wrong god (Num 25:1-9)
+	- A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
+
+- 23. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
+	- Same in Quran 2:54
+- 18. Kill all males after winning battles (Dt 20:13)
+	- It's the Exodus story, and they had offered to not kill people first, but they wanted the land.
+	- Same applies in Islam (Quran and Sunnah, even beyond the Exodus story)
+	- 18.1. Kill all non-Hebrews (Dt 20:16-17)
+- 14. Kill children who disobey parents (Dt 21:20)
+	- SAME as 1
+- 20. Kill any bride discovered not a virgin (Dt 22:21)
+
+- 7. Kill the curious (1 Sam 6:19-20)
+	- Truth: They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
+
+- 11. Kill nonbelievers (2 Chron 15:12-13)
+	- It was under King Asa, and was only for those who want to stay in Jerusalem
+
+- 10. Kill sons of sinners (Isaiah 14:21)
+	- Isaiah is talking about the sons of sinners
+
+- 6. Kill anyone who sins (Ezek 18:4)
+	- Truth: God said all the souls who sins will die
+- 4. Kill false prophets (Zech 13:3)
+
 ## Notes on where and how the laws apply
 Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
 It is also the responsibility of the Judges (Dt 17:6-9).
