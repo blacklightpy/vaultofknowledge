@@ -135,7 +135,7 @@ He wants his plan done.
 	- Jews are the sons of Satan
 		- John 8:44 (incited violence)
 	- Patriarchal Suppression of Women's Rights
-		- 1 Timothy 2:12
+		- 1 Timothy 2:12 (women should remain silent)
 ## More Notes
 - Romans 1:18-32
 	- No excuse, they are all liars
