@@ -45,6 +45,7 @@ Read these truly:
 - 21. Kill those who worship the wrong god (Num 25:1-9)
 - 22. Kill anyone who does not observe the Sabbath (Ex 31:14)
 - 23. Kill everybody in a town that worships the wrong god (Dt 13:13-??)
+	- Same in Quran 2:54
 - 24. Kill anyone who kills anyone (Lev 24:17)
 
 Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
@@ -139,6 +140,7 @@ https://www.gotquestions.org/father-of-lies.html
 		- People say that killing baby Hitler is okay, but not killing any babies by knowing of their potential evil nature. But they ignore something fundamental about how evil arises as an emergent phenomena, not as something spiritual.
 	- Taking Sex Slaves
 		- They have to take care of the captive women, and they can get intimate with them without nikah
+		- 23:5-7 (Those who lose chastity not with wives or sex-sla)
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
