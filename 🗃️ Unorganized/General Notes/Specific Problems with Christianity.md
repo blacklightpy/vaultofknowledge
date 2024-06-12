@@ -140,7 +140,10 @@ https://www.gotquestions.org/father-of-lies.html
 		- People say that killing baby Hitler is okay, but not killing any babies by knowing of their potential evil nature. But they ignore something fundamental about how evil arises as an emergent phenomena, not as something spiritual.
 	- Taking Sex Slaves
 		- They have to take care of the captive women, and they can get intimate with them without nikah
-		- 23:5-7 (Those who lose chastity not with wives or sex-sla)
+		- 23:5-7 (Those who lose chastity not with wives or sex-slaves are transgressors)
+		- 4:3 (Content yourselves with one of your bondwomen, if you can't treat 4 wives justly)
+		- 70:29-31 (Same as 23:5-7, verbatim)
+		- 
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
