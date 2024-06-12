@@ -148,8 +148,11 @@ https://www.gotquestions.org/father-of-lies.html
 		- 4:24 (Married female captives are legal for marriage)
 		- 30:28 (Would you ever allow your slaves to be equal partners in wealth to you?)
 		- 24:33 (Only guideline: do not make them prostitutes to earn money / pimp)
-		- 33:50 (Have relationships with wives and slave women)
+		- 33:50 (Have relationships with wives to whom you've paid dowry to, and slave women)
 		- Freeing slaves to make up for sins is mentioned, but one could also just repent
+		- A slave woman could reject her master for illness, etc.
+		- Don't marry polytheist women, believing slaves are better
+			- Although slaves by definition would be originally non-Muslims
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
