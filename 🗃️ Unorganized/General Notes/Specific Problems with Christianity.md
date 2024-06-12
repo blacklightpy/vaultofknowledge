@@ -34,6 +34,7 @@ Read these truly:
 - 14. Kill children who disobey parents (Dt 21:20)
 - 15. Kill those who work on the Sabbath (Ex 31:15)
 - 16. Kill disobedient children (Ex 21:17, Mk 7:10)
+	- Rep
 - 17. Kill strangers close to a church (Num 1:48-51)
 - 18. Kill all males after winning battles (Dt 20:13)
 - 19. Kill those who curse father or mother (Lev 20:13)
