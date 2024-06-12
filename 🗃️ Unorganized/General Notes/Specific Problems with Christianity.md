@@ -38,7 +38,8 @@ Read these truly:
 - 17. Kill strangers close to a church (Num 1:48-51)
 	- It refers to someone who's not a priest approaching the tabernacle
 - 18. Kill all males after winning battles (Dt 20:13)
-	- 
+	- f
+	- Same applies in Islam
 - 19. Kill those who curse father or mother (Lev 20:13)
 - 20. Kill any bride discovered not a virgin (Dt 22:21)
 - 21. Kill those who worship the wrong god (Num 25:1-9)
@@ -133,7 +134,13 @@ https://www.gotquestions.org/father-of-lies.html
 		- 4:148
 	- Killing a boy in the name of future crimes
 		- 18:65 (Moses meets an enlightened servant, al-Khidr and walks with him, but he does questionable things)
-		- 18:74-76 (He killed an innocent boy, and Moses scolds him. He asks him to be patient, and Moses tells him this is the last time he's gon)
+		- 18:74-76 (He killed an innocent boy, and Moses scolds him. He asks him to be patient, and Moses tells him this is the last time he's gonna question him, and he'll leave)
+		- 18:80 (al-Khidr says that the boy was killed because his parents were true believers, and Allah believed he would pressure them into disbelief later)
+		- People say that killing baby Hitler is okay, but not killing any babies by knowing of their potential evil nature. But they ignore something fundamental about how evil arises as an emergent phenomena, not as something spiritual.
+	- Taking Sex Slaves
+		- They have to take care of the captive women, and they can get intimate with them without nikah
+	- Polygamy is good for men, bad for women
+	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
 - Hadeeths
 	- Incitement against Jews
