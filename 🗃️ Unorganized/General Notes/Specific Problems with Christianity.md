@@ -1,4 +1,6 @@
+
 # Old Testament
+## Old Testament and Talmud
 - Old Testament
 	- Hatred of Pagans
 		- Psalm 106:37
@@ -61,7 +63,6 @@ Read these truly:
 - 2. Kill all witches (Ex 22:18)
 - 3. Kill anyone who does not observe the Sabbath (Ex 31:14)
 	- Kill those who work on the Sabbath (Ex 31:15)
-
 - 4. Kill those who curse father or mother (Lev 20:9)
 	- SAME as 1
 - 5. Kill adulterers (Lev 20:10)
@@ -72,34 +73,28 @@ Read these truly:
 - 8. Kill blasphemers (Lev 24:14)
 	- Kill anyone who curses God (Lev 24:16)
 	- Kill anyone who kills anyone (Lev 24:17)
-
-- 17. Kill strangers close to a church (Num 1:48-51)
+- 9. Kill strangers close to a church (Num 1:48-51)
 	- It refers to someone who's not a priest approaching the tabernacle
-- 21. Kill those who worship the wrong god (Num 25:1-9)
+- 10. Kill those who worship the wrong god (Num 25:1-9)
 	- A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
-
-- 23. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
+- 11. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
 	- Same in Quran 2:54
-- 18. Kill all males after winning battles (Dt 20:13)
+- 12. Kill all males after winning battles (Dt 20:13)
+	- 18.1. Kill all non-Hebrews (Dt 20:16-17)
 	- It's the Exodus story, and they had offered to not kill people first, but they wanted the land.
 	- Same applies in Islam (Quran and Sunnah, even beyond the Exodus story)
-	- 18.1. Kill all non-Hebrews (Dt 20:16-17)
-- 14. Kill children who disobey parents (Dt 21:20)
+- 13. Kill children who disobey parents (Dt 21:20)
 	- SAME as 1
-- 20. Kill any bride discovered not a virgin (Dt 22:21)
-
-- 7. Kill the curious (1 Sam 6:19-20)
+- 14. Kill any bride discovered not a virgin (Dt 22:21)
+- 15. Kill the curious (1 Sam 6:19-20)
 	- Truth: They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
-
-- 11. Kill nonbelievers (2 Chron 15:12-13)
-	- It was under King Asa, and was only for those who want to stay in Jerusalem
-
-- 10. Kill sons of sinners (Isaiah 14:21)
-	- Isaiah is talking about the sons of sinners
-
-- 6. Kill anyone who sins (Ezek 18:4)
+- 16. Kill nonbelievers (2 Chron 15:12-13)
+	- It was under King Asa, and was only for those who want to stay in Jerusalem during a reform period.
+- 17. Kill sons of sinners (Isaiah 14:21)
+	- Isaiah is making a mock song about the Babylonian king, who's own people will kill his sons to destroy his lineage.
+- 18. Kill anyone who sins (Ezek 18:4)
 	- Truth: God said all the souls who sins will die
-- 4. Kill false prophets (Zech 13:3)
+- 19. Kill false prophets (Zech 13:3)
 
 ## Notes on where and how the laws apply
 Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.

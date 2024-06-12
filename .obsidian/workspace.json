@@ -491,12 +491,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -514,7 +514,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3f182bfaba3eb84",
+  "active": "3298e62d4c40f851",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
