@@ -142,8 +142,10 @@ https://www.gotquestions.org/father-of-lies.html
 		- They have to take care of the captive women, and they can get intimate with them without nikah
 		- 23:5-7 (Those who lose chastity not with wives or sex-slaves are transgressors)
 		- 4:3 (Content yourselves with one of your bondwomen, if you can't treat 4 wives justly)
+			- Christianity also sets the number of wives to one.
+			- In Judaism, the number of wives was ideally one.
 		- 70:29-31 (Same as 23:5-7, verbatim)
-		- 
+		- 4:24 (Married female captives are legal for marriage)
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
