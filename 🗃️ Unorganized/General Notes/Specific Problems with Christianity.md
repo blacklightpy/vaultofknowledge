@@ -176,10 +176,10 @@ https://www.gotquestions.org/father-of-lies.html
 		- Sahih Al-Bukhari
 			- **6946 ((Statements made under) Coercion, Hadeeth 7):** I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the women be asked for their consent to their marriage?" He said, "Yes." I said, "A virgin, if asked, feels shy and keeps quiet." He said, "Her silence means her consent."
 	- Killing LGB
-		- Sunan Abi Dawud
+		- Sunan Abi Dawud (Hasan Sahih)
 			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done.
 	- Hiding the sins of Muslims
-		- Sunan Ibn Majah
+		- Sunan Ibn Majah (Sahih)
 			- **225 (The Book of the Sunnah, Hadeeth 225):** The Messenger of Allah said: Whoever relieves a Muslim of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection, and whoever conceals (the faults of) a Muslim, Allah will conceal him (his faults) in this world and the Day of Resurrection.
 	- Jihad against nonbelievers.
 		- Sahih Al-Bukhari
@@ -189,6 +189,9 @@ https://www.gotquestions.org/father-of-lies.html
 	- Killing all adult males who had pubic hair after battle
 		- Jami at-Tirmidhi (Sahih)
 			- **1584 (The Book on Military Expeditions, Hadeeth 41):** "We were presented to the Messenger of Allah (ﷺ) on the day of (the battle of) Quraizah. Whoever had pubic hair was killed and whoever did not was left to his way. I was of those who did not have pubic hair so I was left to my way." Abu 'Eisa said: This Hadith is Hasan Sahih. This is acted upon according to some of the people of knowledge. They consider pubic hair an indication of the age of responsibility, if it is not known whether he has had a wet dream, or his age. This is the view of Ahmad and Ishaq.
+	- Revelation that sex slaves are lawful, when Aisha protested
+		- Sunan an-Nasa'i (Sahih)
+			- **3959 (The Book of the Kind Treatment of Women, Hadeeth 21):** It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 
 - Islam
 	- Primary Sources
@@ -224,7 +227,7 @@ https://www.gotquestions.org/father-of-lies.html
 - Khilafa Movement (to rebuild the Caliphates)
 
 
-- Hadeeth Verse
+- Believe Hadeeths Verse
 	- 4:80
 	- 24:63
 	- 4:65
@@ -249,3 +252,4 @@ https://www.gotquestions.org/father-of-lies.html
 		- One can masturbate to avoid sodomy or Zina, but if he has the ability, he should do nikah or purchase a legally valid slave-girl, or else he is a severe sinner.
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
+	- https://islam.stackexchange.com/questions/3004/is-masturbation-permissible-for-a-man-during-an-extended-period-of-unmarried-lif
