@@ -156,6 +156,10 @@ https://www.gotquestions.org/father-of-lies.html
 		- Don't marry polytheist women, believing slaves are better
 			- Although slaves by definition would be originally non-Muslims
 		- Many Tafsirs say that one can force slaves to do nikah, or marry them off without consent
+	- Treatment of Slaves
+		- If a slave woman is married by the owner, the children will be free
+		- If a slave woman is married to another man, the children will be slaves of the owner
+		- By marrying slaves off, the owner gets more slaves, and is lifted of the burden of accommodating them.
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
