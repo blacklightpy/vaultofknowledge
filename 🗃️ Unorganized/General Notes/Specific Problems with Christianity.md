@@ -140,6 +140,8 @@ https://www.gotquestions.org/father-of-lies.html
 		- People say that killing baby Hitler is okay, but not killing any babies by knowing of their potential evil nature. But they ignore something fundamental about how evil arises as an emergent phenomena, not as something spiritual.
 	- Taking Sex Slaves
 		- They have to take care of the captive women, and they can get intimate with them without nikah
+			- Exceptions are pregnant women and women whose husbands are also made captives
+			- But all adults are killed during war, so husbands cannot actually be captured.
 		- 23:5-7 (Those who lose chastity not with wives or sex-slaves are transgressors)
 		- 4:3 (Content yourselves with one of your bondwomen, if you can't treat 4 wives justly)
 			- Christianity also sets the number of wives to one.
@@ -153,7 +155,7 @@ https://www.gotquestions.org/father-of-lies.html
 		- A slave woman could reject her master for illness, etc.
 		- Don't marry polytheist women, believing slaves are better
 			- Although slaves by definition would be originally non-Muslims
-		- Pregnant slave women are not fit for sex
+		- Many Tafsirs say that one can force slaves to do nikah, or marry them off without consent
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
