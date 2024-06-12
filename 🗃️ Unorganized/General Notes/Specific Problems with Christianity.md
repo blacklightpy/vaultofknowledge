@@ -56,13 +56,15 @@ Read these truly:
 - 24. Kill anyone who kills anyone (Lev 24:17)
 	- REPEAT of 12
 
-## Rearranging
+## Rearranging the verses
 
+### Exodus Rulings
 - 1. Kill any child who hits a parent (Ex 21:15)
 	- Kill disobedient children (Ex 21:17, Mk 7:10)
 - 2. Kill all witches (Ex 22:18)
 - 3. Kill anyone who does not observe the Sabbath (Ex 31:14)
 	- Kill those who work on the Sabbath (Ex 31:15)
+### Leviticus Rulings (Levites)
 - 4. Kill those who curse father or mother (Lev 20:9)
 	- SAME as 1
 - 5. Kill adulterers (Lev 20:10)
@@ -73,10 +75,12 @@ Read these truly:
 - 8. Kill blasphemers (Lev 24:14)
 	- Kill anyone who curses God (Lev 24:16)
 	- Kill anyone who kills anyone (Lev 24:17)
+### Numbers
 - 9. Kill strangers close to a church (Num 1:48-51)
 	- It refers to someone who's not a priest approaching the tabernacle
 - 10. Kill those who worship the wrong god (Num 25:1-9)
 	- A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
+### Deuteronomy
 - 11. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
 	- Same in Quran 2:54
 - 12. Kill all males after winning battles (Dt 20:13)
@@ -86,14 +90,19 @@ Read these truly:
 - 13. Kill children who disobey parents (Dt 21:20)
 	- SAME as 1
 - 14. Kill any bride discovered not a virgin (Dt 22:21)
+### 1 Samuel
 - 15. Kill the curious (1 Sam 6:19-20)
 	- Truth: They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
+### 2 Chronicles
 - 16. Kill nonbelievers (2 Chron 15:12-13)
 	- It was under King Asa, and was only for those who want to stay in Jerusalem during a reform period.
+### Isaiah
 - 17. Kill sons of sinners (Isaiah 14:21)
 	- Isaiah is making a mock song about the Babylonian king, who's own people will kill his sons to destroy his lineage.
+### Ezekiel
 - 18. Kill anyone who sins (Ezek 18:4)
 	- Truth: God said all the souls who sins will die
+### Zecheriah
 - 19. Kill false prophets (Zech 13:3)
 
 ## Notes on where and how the laws apply
@@ -114,8 +123,10 @@ He wants his plan done.
 # New Testament
 - New Testament
 	- Hatred of Pagans
+		- Mathew 5:47
 	- Marital Rape
 	- Jesus claiming he's not come to abolish the old commandments
+		- Mathew 5:17
 	- Jesus claiming if you love him, we'll keep his commandments
 		- John 14:15-17
 	- Jesus claiming he's here to bring grace
@@ -125,7 +136,6 @@ He wants his plan done.
 		- John 8:44 (incited violence)
 	- Patriarchal Suppression of Women's Rights
 		- 1 Timothy 2:12
-
 ## More Notes
 - Romans 1:18-32
 	- No excuse, they are all liars
@@ -134,10 +144,9 @@ He wants his plan done.
 - Acts 6:8-7:59
 	- Stephen was stoned for blasphemy
 
-- Jesus as Messiah
+- Jesus as Messiah (Old Testament)
 	- Psalm 22
 	- Isaiah 42-53
-
 ## ## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
@@ -311,3 +320,8 @@ They justify that if God says so, killing people is moral.
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
 	- https://islam.stackexchange.com/questions/3004/is-masturbation-permissible-for-a-man-during-an-extended-period-of-unmarried-lif
+
+- The claim that Islam made people release slaves
+	- The idea is that slaves could be released, as one of the ways to erase sins
+	- Suppose I could buy games for currency
+	- Will I be inclined to spend currency for games, or to hoard currency?
