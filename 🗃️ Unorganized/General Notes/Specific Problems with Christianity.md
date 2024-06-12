@@ -1,3 +1,4 @@
+# Old Testament
 - Old Testament
 	- Hatred of Pagans
 		- Psalm 106:37
@@ -9,7 +10,7 @@
 - Talmud
 	- Sanhedrin 43a (Stoning Jesus)
 		- He violated Deuteronomy 13:11-12 (Misleading people) and Leviticus 20:27 (Spirit Telling).
-
+## Check these verses
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
 	- If a man cheats on neighbour's wife, put them to death.
@@ -47,26 +48,22 @@ Read these truly:
 - 23. Kill everybody in a town that worships the wrong god (Dt 13:13-??)
 	- Same in Quran 2:54
 - 24. Kill anyone who kills anyone (Lev 24:17)
-
+## Notes on where and how the laws apply
 Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
 It is also the responsibility of the Judges (Dt 17:6-9).
 The Church cannot punish sinners, only the government can (Romans 13:1-4).
-
 Lev 1:1-2 states that the book is for Israel.
 
 We are in the Church age (Eph 3:1-5).
 Lord will deal with Israel in the End Times (Rev 7-19).
-Paul is the APostle of the Gentiles (Rom 11:11-13).
+Paul is the Apostle of the Gentiles (Rom 11:11-13).
 But only a small portion of the Bible is to Gentiles, most others are to Israel.
 Bible doesn't specify or condemn death penality to homosexuals. But it doesn't oppose.
 Romans 13:1-4 gives the state the power to execute criminals, but doesn't specify what is criminal.
 
 God doesn't always want what's moral.
 He wants his plan done.
-
-Christians justify that God ordered to kill all babies.
-They justify that if God says so, killing people is moral.
-
+# New Testament
 - New Testament
 	- Hatred of Pagans
 	- Marital Rape
@@ -81,6 +78,7 @@ They justify that if God says so, killing people is moral.
 	- Patriarchal Suppression of Women's Rights
 		- 1 Timothy 2:12
 
+## More Notes
 - Romans 1:18-32
 	- No excuse, they are all liars
 - Bible is the inspired word of God
@@ -92,10 +90,15 @@ They justify that if God says so, killing people is moral.
 	- Psalm 22
 	- Isaiah 42-53
 
+## ## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
 > Some of his more common lies are “there is no God,” “God doesn’t care about you,” “the Bible cannot be trusted,” and “your good works will get you into heaven.”
 
+Christians justify that God ordered to kill all babies.
+They justify that if God says so, killing people is moral.
+
+# Quran
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
@@ -163,6 +166,7 @@ https://www.gotquestions.org/father-of-lies.html
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
+# Hadeeths
 - Hadeeths
 	- Incitement against Jews
 		- Sahih Al-Bukhari
@@ -199,6 +203,7 @@ https://www.gotquestions.org/father-of-lies.html
 		- Sunan an-Nasa'i (Sahih)
 			- **3959 (The Book of the Kind Treatment of Women, Hadeeth 21):** It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 
+# Islam
 - Islam
 	- Primary Sources
 		- Quran
@@ -225,21 +230,20 @@ https://www.gotquestions.org/father-of-lies.html
 - al-Masalih al-Mursala (Public Interest)
 - adh-Dhara'i'(Means)
 - 'Adat (Customs) and 'Urf (Customary Usage) 
-
+## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
 
 - Salafism
 - Khilafa Movement (to rebuild the Caliphates)
 
-
+# Specific Contexts in Islam
 - Believe Hadeeths Verse
 	- 4:80
 	- 24:63
 	- 4:65
 	- 8:24
 	- Al-Tirmidhi reported from Abu Raafi’ and others that the Prophet (peace be upon him) said: “I do not want to see any one of you reclining on his couch and, when he hears of my instructions or prohibitions, saying ‘I don’t accept it; we didn’t find any such thing in the Book of Allah.’” Abu ‘Eesaa said: This is a saheeh hasan hadeeth. (See Sunan al-Tirmidhi, Shaakir edition, no. 2663).
-
 
 - People justifying killing polytheists
 	- Surah 9:5 isn't forbidden afterwards.
