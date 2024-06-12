@@ -212,6 +212,7 @@ https://www.gotquestions.org/father-of-lies.html
 		- Tafsir Al Qurtubi and Tafsir Ibn Kathir (same)
 	- Hanafi and Hanbali allow it when fearing Zina
 		- Tafsir Al Qurtubi
+	- Hanafi Jurist
+		- One can masturbate to avoid sodomy or Zina, but if t the ability, he should do nikah or purchase a legally valid slave-girl, or else he is a severe sinner.
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
-	- 
