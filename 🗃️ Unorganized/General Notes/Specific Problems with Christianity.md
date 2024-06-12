@@ -30,7 +30,7 @@ Read these truly:
 - 11. Kill nonbelievers (2 Chron 15:12-13)
 	- It was under King Asa, and was only for those who want to stay in Jerusalem
 - 12. Kill anyone who curses God (Lev 24:16)
-	- REPEAT of 3
+	- SAME  3
 - 13. Kill any child who hits a parent (Ex 21:15)
 - 14. Kill children who disobey parents (Dt 21:20)
 - 15. Kill those who work on the Sabbath (Ex 31:15)
@@ -39,15 +39,19 @@ Read these truly:
 - 17. Kill strangers close to a church (Num 1:48-51)
 	- It refers to someone who's not a priest approaching the tabernacle
 - 18. Kill all males after winning battles (Dt 20:13)
-	- f
-	- Same applies in Islam
-- 19. Kill those who curse father or mother (Lev 20:13)
+	- It's the Exodus story, and they had offered to not kill people first, but they wanted the land.
+	- Same applies in Islam (Quran and Sunnah, even beyond the Exodus story)
+- 19. Kill those who curse father or mother (Lev 20:9)
+	- SAME as 14
 - 20. Kill any bride discovered not a virgin (Dt 22:21)
 - 21. Kill those who worship the wrong god (Num 25:1-9)
+	- A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
 - 22. Kill anyone who does not observe the Sabbath (Ex 31:14)
-- 23. Kill everybody in a town that worships the wrong god (Dt 13:13-??)
+	- REPEAT of 15
+- 23. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
 	- Same in Quran 2:54
 - 24. Kill anyone who kills anyone (Lev 24:17)
+	- REPEAT of 12
 ## Notes on where and how the laws apply
 Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
 It is also the responsibility of the Judges (Dt 17:6-9).
