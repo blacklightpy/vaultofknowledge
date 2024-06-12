@@ -83,6 +83,10 @@ They justify that if God says so, killing people is moral.
 - Acts 6:8-7:59
 	- Stephen was stoned for blasphemy
 
+- Jesus as Messiah
+	- Psalm 22
+	- Isaiah 42-53
+
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
 > Some of his more common lies are “there is no God,” “God doesn’t care about you,” “the Bible cannot be trusted,” and “your good works will get you into heaven.”
