@@ -122,6 +122,8 @@ https://www.gotquestions.org/father-of-lies.html
 		- 98:6 (They're the worst of all beings and will be in hell)
 		- 8:55 (The worst of all beings are those who have no faith)
 		- 9:113 (Do not seek forgiveness for close relatives who are polytheists bound for Hellfire)
+	- Against Disbelievers
+		- 47:4 (Subdue them in battle, and free them as an act of grace or ransom until the war comes to an end)
 	- Mocking Ezra and Jesus as The Son of God (May Allah condemn them)
 		- 9:30
 	- A woman's testimony is half as worth that of a man
