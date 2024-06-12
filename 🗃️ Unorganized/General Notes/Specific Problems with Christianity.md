@@ -143,6 +143,8 @@ He wants his plan done.
 	- Timothy 3:16
 - Acts 6:8-7:59
 	- Stephen was stoned for blasphemy
+- Lamb and Seals
+	- Rev 6
 
 - Jesus as Messiah (Old Testament)
 	- Psalm 22
