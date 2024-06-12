@@ -131,6 +131,9 @@ https://www.gotquestions.org/father-of-lies.html
 		- 33:51
 	- Hide your Sins
 		- 4:148
+	- Killing a boy in the name of future crimes
+		- 18:65 (Moses meets an enlightened servant, al-Khidr and walks with him, but he does questionable things)
+		- 18:74-76 (He killed an innocent boy, and Moses scolds him. He asks him to be patient, and Moses tells him this is the last time he's gon)
 
 - Hadeeths
 	- Incitement against Jews
@@ -213,6 +216,6 @@ https://www.gotquestions.org/father-of-lies.html
 	- Hanafi and Hanbali allow it when fearing Zina
 		- Tafsir Al Qurtubi
 	- Hanafi Jurist
-		- One can masturbate to avoid sodomy or Zina, but if t the ability, he should do nikah or purchase a legally valid slave-girl, or else he is a severe sinner.
+		- One can masturbate to avoid sodomy or Zina, but if he has the ability, he should do nikah or purchase a legally valid slave-girl, or else he is a severe sinner.
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
