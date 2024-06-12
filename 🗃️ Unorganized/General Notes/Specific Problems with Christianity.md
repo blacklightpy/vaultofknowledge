@@ -147,6 +147,11 @@ He wants his plan done.
 - Jesus as Messiah (Old Testament)
 	- Psalm 22
 	- Isaiah 42-53
+- Conditions of Messiah (failed to satisfy)
+	- Ezekiel 37:26-28 (build the Third Temple)
+	- Isaiah 43:5-6 (bring Jews back to Israel)
+	- Isaiah 2:4 (end wars)
+	- Zechariah 14:9 (Spread knowledge of the God of Israel to unite humanity)
 ## ## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
@@ -155,6 +160,8 @@ https://www.gotquestions.org/father-of-lies.html
 Christians justify that God ordered to kill all babies.
 They justify that if God says so, killing people is moral.
 
+They say that death is everywhere and humans cannot be united.
+This is wishful thinking.
 # Quran
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
