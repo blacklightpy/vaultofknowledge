@@ -146,6 +146,10 @@ https://www.gotquestions.org/father-of-lies.html
 			- In Judaism, the number of wives was ideally one.
 		- 70:29-31 (Same as 23:5-7, verbatim)
 		- 4:24 (Married female captives are legal for marriage)
+		- 30:28 (Would you ever allow your slaves to be equal partners in wealth to you?)
+		- 24:33 (Only guideline: do not make them prostitutes to earn money / pimp)
+		- 33:50 (Have relationships with wives and slave women)
+		- Freeing slaves to make up for sins is mentioned, but one could also just repent
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 
