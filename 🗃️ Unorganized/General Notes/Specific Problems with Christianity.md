@@ -205,7 +205,11 @@ https://www.gotquestions.org/father-of-lies.html
 	- https://islam.stackexchange.com/questions/80319/permissibility-to-kill-all-adult-males
 
 - Masturbation
-	- Forbidden by Hanafi and 
+	- Forbidden by Shafi and Maliki schools
+		- Quran 23:5-7 (Beyond wives or slaves, it is transgression)
+		- Tafsir Al Qurtubi and Tafsir Ibn Kathir (same)
+	- Hanafi and Hanbali allow it when fearing Zina
+		- Tafsir Al Qurtubi
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
 	- 
