@@ -203,3 +203,9 @@ https://www.gotquestions.org/father-of-lies.html
 	- They remove parts of 2:191 saying drive them out from where they drove you out (meaning they came to attack you)
 	- They reply, emotions will lead you to failure, and follow the jurisprudence books, like the Book of Jihad
 	- https://islam.stackexchange.com/questions/80319/permissibility-to-kill-all-adult-males
+
+- Masturbation
+	- Forbidden by Hanafi and 
+	- Weak Hadith
+		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
+	- 
