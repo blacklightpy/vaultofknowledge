@@ -291,12 +291,22 @@ This is wishful thinking.
 			- **4526 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet), Hadeeth 50):** Ibn Umar said, "It means one should approach his wife in .."
 		- Against
 			- Mishkat al-Masabih 3191 In-book reference	 : Book 13, Hadith 109
-			- Jami at-Tirmidhi 2980 In-book reference	 : Book 47, Hadith 32
 			- Mishkat al-Masabih 3192 In-book reference	 : Book 13, Hadith 110
 			- Mishkat al-Masabih 3193 In-book reference	 : Book 13, Hadith 111
-			- Sunan Abi Dawud 2162 In-book reference	 : Book 12, Hadith 117 cursed
-			- Mishkat al-Masabih 3195
-In-book reference	 : Book 13, Hadith 113
+			- Mishkat al-Masabih 3194 In-book reference	 : Book 13, Hadith 112
+			- Mishkat al-Masabih 3195 In-book reference	 : Book 13, Hadith 113
+			- Sunan Abi Dawud 2162 In-book reference	 : Book 12, Hadith 117 
+			- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
+			- Jami at-Tirmidhi 2980 In-book reference	 : Book 47, Hadith 32 (Hasan)
+			- Jami at-Tirmidhi 135 In-book reference	 : Book 1, Hadith 135 (Hasan)
+
+- Eyes are the leather strap of the anus
+	- Sunan Abi Dawud 203 In-book reference	 : Book 1, Hadith 203 (Hasan)
+	- Mishkat al-Masabih 315 In-book reference	 : Book 3, Hadith 32
+	- Many more hadiths, some daif, some hasan, some ungraded
+
+- Deny those who follow Musa
+	- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
 
 # Islam
 - Islam
