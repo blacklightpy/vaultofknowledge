@@ -19,20 +19,35 @@ The defining texts of the religion are the Tanakh and the Talmud
 	- **Gemara (Discussion and Analysis by Rabbis)**
 ## Active Law (Halakha)
 
-- Mishneh Torah by Rambam (or Maimonides) (One of the most organized pillars of Hebrew Legal Code)
+- Mishneh Torah by Rambam (or Maimonides) (12th century legal code which is one of the most organized pillars of Hebrew Legal Code)
 - The Tur (The 14th century legal code which formed the basis for The Shulchan Arukh, by Rabbi Yakov Ben Asher)
 	- The Beit Yosef by Rabbi Joseph Karo (Commentary)
 - The Shulchan Arukh (A simplified version of The Beit Yosef compiled in the 16th century by Rav Yosef Karo) (The most widely accepted legal code)
 	- Turei Zahav (or Taz) by Rabbi David HaLevi Segal (or Taz) (Commentary)
-	- Shiftei Kohen (or Shach) by Rabbi Shabbatai Hakohen (or Shach) (Commentary)
+	- Siftei Kohen (or Shach) by Rabbi Shabbatai Hakohen (or Shach) (Commentary)
 	- Mishna Berura by Rambam (or Maimonides) (Commentary)
-- Shulchan Arukh HaRav (18th century legal code practiced by ultra-Orthodox Hasidic Jews, a subset of Haredi Jews. A third of it remains.)
+- Shulchan Arukh HaRav (18th century legal code practiced by ultra-Orthodox Hasidic Jews, a subset of Haredi Jews. A third of it remains after a fire.)
 - Works of Rambam (or Maimonides) - Including Mishneh Torah
 ## Variants
-- Samaritans
-	- They follow a different Samaritan Torah
-- Karaites
-	- They only follow the written Torah
+- Old
+	- Pharisees
+	- Samaritans
+		- They follow a different Samaritan Torah
+- Current
+	- Karaites
+		- They only follow the written Torah
+	- Reform (Progressive and social justice oriented)
+	- Conservative (Mid-way between Reform and Orthodox)
+	- Orthodox
+		- Modern Orthodox (In Harmony with other religions)
+		- Haredi / Ultra-Orthodox
+			- Hasidic (Devotional)
+			- Yeshivish (Academic)
+		- Open Orthodox (Supports womens leadership and openness to non-Orthodox Jews)
+	- Smaller
+		- Reconstructionist (First to support gays)
+		- Jewish Renewal (Gender Equality, Eco-conscious, Secular)
+		- Humanistic Judaism (Non-theistic)
 ## Backgrounds
 - Assimilation
 - Atheists
