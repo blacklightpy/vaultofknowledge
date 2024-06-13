@@ -17,6 +17,8 @@ The defining texts of the religion are the Tanakh and the Talmud
 			- **Tohorot (Purities)** - Keilim, Oholot, Nega'im, Parah, Tohorot, Mikva'ot, Niddah, Makhshirin, Zavim, Tevul Yom, Yadayim, Uktzim
 		-  **Baraita (Outside the Six Orders)**
 	- **Gemara (Discussion and Analysis by Rabbis)**
+
+**Midrash** refers to early TaNaKh studies, which are not official.
 ## Active Law (Halakha)
 
 - Mishneh Torah by Rambam (or Maimonides) (12th century legal code which is one of the most organized pillars of Hebrew Legal Code)
@@ -30,10 +32,14 @@ The defining texts of the religion are the Tanakh and the Talmud
 - Works of Rambam (or Maimonides) - Including Mishneh Torah
 ## Variants
 - Old
-	- Pharisees
+	- Rabbinistic
+		- Pharisees
+		- Essenes
+		- Zealots
+	- Non-Rabbinistic
+		- Sadducees
 	- Samaritans
 		- They follow a different Samaritan Torah
-	- Sadducees
 - Current
 	- Karaites
 		- They only follow the written Torah
@@ -62,7 +68,7 @@ The defining texts of the religion are the Tanakh and the Talmud
 - Zionism, race and genetics
 ## Diaspora
 - Ashkenazim
-- Beta Israel
+- Beta Israel (Ethiopian Jews)
 - Desi Jews
 - Dönmeh Gruzínim
 - Italkim
