@@ -367,3 +367,6 @@ https://quranx.com/Hadith/Bukhari/USC-MSA/Volume-3/Book-47/Hadith-765/
 	- The slave girl can deny sex
 	- The slave girl cannot be forced to work
 
+You chose to humble yourselves. But who is it that you chose to humble yourselves towards?
+You chose to humble yourselves towards someone who asked of you, to cast aside your humanity.
+What does that make you?
