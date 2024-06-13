@@ -88,3 +88,13 @@ The defining texts of the religion are the Tanakh and the Talmud
 - Mustaʿravim (Arabian)
 - Romaniote
 - Sephardim (ex-Iberian Jews, including Paradesi Jews)
+
+## Rabbinical Eras
+- Chazal
+	- Zugot
+	- Tannaim (Mishna, Tosefta)
+	- Amoraim (Talmud)
+	- Savoraim
+- Geonim
+- Rishonim
+- Acharonim
