@@ -18,7 +18,9 @@ The defining texts of the religion are the Tanakh and the Talmud
 		-  **Baraita (Outside the Six Orders)**
 	- **Gemara (Discussion and Analysis by Rabbis)**
 
-**Midrash** refers to early TaNaKh studies, which are not official.
+- **Midrash** refers to early TaNaKh studies, which are not official.
+	- **Midrash Halakha (Laws)**
+	- **Midrash Aggada (Biblical Narratives)**
 ## Active Law (Halakha)
 
 - Mishneh Torah by Rambam (or Maimonides) (12th century legal code which is one of the most organized pillars of Hebrew Legal Code)
