@@ -348,6 +348,9 @@ This is wishful thinking.
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
 	- https://islam.stackexchange.com/questions/3004/is-masturbation-permissible-for-a-man-during-an-extended-period-of-unmarried-lif
+
+- Hamas Covenant
+	- https://avalon.law.yale.edu/20th_century/hamas.asp
 ## Philosophy
 - The claim that Islam made people release slaves
 	- The idea is that slaves could be released, as one of the ways to erase sins
@@ -359,4 +362,3 @@ Sahih Bukhari 9:89:296 states “The Prophet (ﷺ) came to know that one of his 
 Two more:
 https://quranx.com/Hadith/Muslim/USC-MSA/Book-15/Hadith-4112/
 https://quranx.com/Hadith/Bukhari/USC-MSA/Volume-3/Book-47/Hadith-765/
-
