@@ -46,6 +46,12 @@ The defining texts of the religion are the Tanakh and the Talmud
 	- Samaritans
 		- They were the ones who lived with Assyrians when Jews were exiled, and when the Jews returned, they accused them of associating partners to God and corrupting the Torah.
 			- 2 Kings 17:24-41 (They were brought to Assyrian Samaria because the God of Israel sent lions to kill the Assyrians who settled in Samaria, since they did not worship the God of Israel)
+		- They worship at Mount Gerizim, while Jews worship at Temple Mount.
+			- Their Ten Commandments tell them to build an altar at Mount Gerizim.
+			- Same goes in Deuteronomy, where Jews were asked to build an altar at Mount Ebal, while Samaritans were to build it at Mount Gerizim.
+			- 1946 Dead Sea Scrolls (Second Temple Era writings) that read Gerizim which suggests that the Samaritans had the correct reading.
+			- It was destroyed by John Hyrcanus in 108 BCE.
+			- John 4:21–24 (Jesus said neither temple will matter)
 		- They follow a different Samaritan Pentateuch, as opposed to the Masoretic Text
 		- Jesus was accused of being a demon-possessed Samaritan (John 8:44)
 		- About 900 of them remain
