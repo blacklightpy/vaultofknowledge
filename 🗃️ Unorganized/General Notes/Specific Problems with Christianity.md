@@ -247,21 +247,21 @@ This is wishful thinking.
 # Hadeeths
 - Hadeeths
 	- Incitement against Jews
-		- Sahih Al-Bukhari
+		- Sahih al-Bukhari
 		- Sahih Muslim
 	- Expulsion of Jews and Christians
 		- Sahih Muslim
 			- **1767a (The Book of _Jihad_ and Expeditions, Hadeeth 75):** I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim.
 	- Fighting Disbelievers
-		- Sahih Al-Bukhari
+		- Sahih al-Bukhari
 			- **392 (Prayers (Salat), Hadeeth 44):** Allah's Messenger (ﷺ) said, "I have been ordered to fight the people till they say: 'None has the right to be worshipped but Allah.' And if they say so, pray like our prayers, face our Qibla and slaughter as we slaughter, then their blood and property will be sacred to us and we will not interfere with them except legally and their reckoning will be with Allah."
 	- Demonizing Pictures
-		- Sahih Al-Bukhari
+		- Sahih al-Bukhari
 			- **5957 (Dress, Hadeeth 173):** I purchased a cushion with pictures on it. The Prophet (came and) stood at the door but did not enter. I said (to him), "I repent to Allah for what (the guilt) I have done." He said, "What is this cushion?" I said, "It is for you to sit on and recline on." He said, "The makers of these pictures will be punished on the Day of Resurrection and it will be said to them, 'Make alive what you have created.' Moreover, the angels do not enter a house where there are pictures.'"
 	- Washing Stains
 		- https://old.reddit.com/r/exmuslim/comments/162n43m/what_are_the_worst_disturbing_hadiths_or_facts/jxzv846/ (11 Hadeeths)
 	- Silence means Yes
-		- Sahih Al-Bukhari
+		- Sahih al-Bukhari
 			- **6946 ((Statements made under) Coercion, Hadeeth 7):** I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the women be asked for their consent to their marriage?" He said, "Yes." I said, "A virgin, if asked, feels shy and keeps quiet." He said, "Her silence means her consent."
 	- Killing LGB
 		- Sunan Abi Dawud (Hasan Sahih)
@@ -270,7 +270,7 @@ This is wishful thinking.
 		- Sunan Ibn Majah (Sahih)
 			- **225 (The Book of the Sunnah, Hadeeth 225):** The Messenger of Allah said: Whoever relieves a Muslim of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection, and whoever conceals (the faults of) a Muslim, Allah will conceal him (his faults) in this world and the Day of Resurrection.
 	- Jihad against nonbelievers.
-		- Sahih Al-Bukhari
+		- Sahih al-Bukhari
 			- **25 (Belief, Hadeeth 18):** Allah's Messenger (ﷺ) said: "I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah."
 			- **3015 (Jihad, Hadeeth 224):** During some of the Ghazawat of Allah's Messenger (ﷺ) a woman was found killed, so Allah's Messenger (ﷺ) forbade the killing of women and children.
 				- Note how it doesn't say kill only those who fight, so all adult males are to be killed (ones with pubic hair).
@@ -280,6 +280,9 @@ This is wishful thinking.
 	- Revelation that sex slaves are lawful, when Aisha protested
 		- Sunan an-Nasa'i (Sahih)
 			- **3959 (The Book of the Kind Treatment of Women, Hadeeth 21):** It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
+	- Censorship of Anal Sex Hadith
+		- Sahih al-Bukhari
+			- **4526 (**
 
 # Islam
 - Islam
