@@ -35,11 +35,13 @@ The defining texts of the religion are the Tanakh and the Talmud
 	- Roman Era
 		- Pharisees (a philosophical group)
 		- Essenes (they believed the others corrupted the city and the Temple)
-		- Sadducees (They wanted to be the priestly caste, and rejected the Oral Torah)
+		- Sadducees (They wanted to be the priestly caste, and rejected the Oral Torah and notions of afterlife as they were not in the Torah)
 		- Zealots (Anti-Roman group which led to the Great Revolt, or the "fourth group", as described by Josephus)
+			- Sicarii (Assassins) (Josephus described them as bandits who killed Jews who sympathized with Romans)
 	- Samaritans
 		- They follow a different Samaritan Pentateuch, as opposed to the Masoretic Text
-		- Jesus was accused
+		- Jesus was accused of being a demon-possessed Samaritan (John 8:44)
+		- About 900 of them remain
 	- Levites
 
 - Current
