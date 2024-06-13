@@ -14,6 +14,10 @@
 		- He violated Deuteronomy 13:11-12 (Misleading people) and Leviticus 20:27 (Spirit Telling).
 
 Sin (chet) is a result of improper channeling of our human impulses (Yetzer). We have Yetzer-Hatov (Good Inclination) and Yetzer-Hara (Good/Bad Inclination). And God forgives.
+
+It is commonly said that Israel claimed to be superior than the others. But really, Israel only claims to be people chosen for a purpose. A commonly cited Talmud excerpt is that the Israelites consider Gentiles to be like dogs, considering it to be pejorative. But the full excerpt is that Israelites consider Gentiles to be like dogs and themselves to be like donkeys. So when we walk the Earth, the commandments are like luggage. And the dogs, tired of the luggage, placed the burden on the donkeys, so that they both can walk in comfort. So the reference to dogs was only made in the sense that Israelites work harder for the sake of the Gentiles. This is in Yevamot 62a.11.
+
+However, Mohammed said that they are like donkeys carrying around the Torah, by not understanding its contents (Quran 62:5).
 ## Check these verses
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
