@@ -20,13 +20,13 @@ The defining texts of the religion are the Tanakh and the Talmud
 ## Active Law (Halakha)
 
 - Mishneh Torah by Rambam (or Maimonides) (One of the most organized pillars of Hebrew Legal Code)
-- The Tur 
+- The Tur (The 14th century legal code which formed the basis for The Shulchan Arukh, by Rabbi Yakov Ben Asher)
 	- The Beit Yosef by Rabbi Joseph Karo (Commentary)
 - The Shulchan Arukh (A simplified version of The Beit Yosef compiled in the 16th century by Rav Yosef Karo) (The most widely accepted legal code)
 	- Turei Zahav (or Taz) by Rabbi David HaLevi Segal (or Taz) (Commentary)
 	- Shiftei Kohen (or Shach) by Rabbi Shabbatai Hakohen (or Shach) (Commentary)
 	- Mishna Berura by Rambam (or Maimonides) (Commentary)
-- Shulchan Arukh HaRav
+- Shulchan Arukh HaRav (18th century legal code practiced by ultra-Orthodox Hasidic Jews, a subset of Haredi Jews. A third of it remains.)
 - Works of Rambam (or Maimonides) - Including Mishneh Torah
 ## Variants
 - Samaritans
