@@ -143,7 +143,7 @@ He wants his plan done.
 	- Timothy 3:16
 - Acts 6:8-7:59
 	- Stephen was stoned for blasphemy
-- Lamb and Seals
+- Lamb and Seals (Far Cry 5 reference)
 	- Rev 5-6
 
 - Jesus as Messiah (Old Testament)
@@ -154,6 +154,7 @@ He wants his plan done.
 	- Isaiah 43:5-6 (bring Jews back to Israel)
 	- Isaiah 2:4 (end wars)
 	- Zechariah 14:9 (Spread knowledge of the God of Israel to unite humanity)
+- Claim that Prophets were killed
 ## ## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
