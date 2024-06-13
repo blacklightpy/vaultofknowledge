@@ -33,6 +33,7 @@ The defining texts of the religion are the Tanakh and the Talmud
 	- Pharisees
 	- Samaritans
 		- They follow a different Samaritan Torah
+	- Sadducees
 - Current
 	- Karaites
 		- They only follow the written Torah
