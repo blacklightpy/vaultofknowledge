@@ -157,7 +157,7 @@ He wants his plan done.
 - Claim that Prophets were killed
 	- Mathew 23:33-36 (Jesus said Jews killed whoever he sent, from Abel to Zacheriah son of Berechiah)
 	- 2 Chronicles 24:20-21 (Zacheriah, son of Jehoiada was killed)
-	- 2 Kings 19-20
+	- 2 Kings 20-21
 ## ## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
@@ -338,3 +338,10 @@ This is wishful thinking.
 	- The idea is that slaves could be released, as one of the ways to erase sins
 	- Suppose I could buy games for currency
 	- Will I be inclined to spend currency for games, or to hoard currency?
+
+Sahih Bukhari 9:89:296 states “The Prophet (ﷺ) came to know that one of his companions had given the promise of freeing his slave after his death, but as he had no other property than that slave, the Prophet (ﷺ) sold that slave for 800 dirhams and sent the price to him.”
+
+Two more:
+https://quranx.com/Hadith/Muslim/USC-MSA/Book-15/Hadith-4112/
+https://quranx.com/Hadith/Bukhari/USC-MSA/Volume-3/Book-47/Hadith-765/
+
