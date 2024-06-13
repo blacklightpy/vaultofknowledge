@@ -359,3 +359,9 @@ Sahih Bukhari 9:89:296 states “The Prophet (ﷺ) came to know that one of his 
 Two more:
 https://quranx.com/Hadith/Muslim/USC-MSA/Book-15/Hadith-4112/
 https://quranx.com/Hadith/Bukhari/USC-MSA/Volume-3/Book-47/Hadith-765/
+
+- Logical Inconsistency of Slaves
+	- If both a wife and husband are slaves, the owner can't have sex with them
+	- The slave girl can deny sex
+	- The slave girl cannot be forced to work
+
