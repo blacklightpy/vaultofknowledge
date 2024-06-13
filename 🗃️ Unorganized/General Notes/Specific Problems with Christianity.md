@@ -155,6 +155,9 @@ He wants his plan done.
 	- Isaiah 2:4 (end wars)
 	- Zechariah 14:9 (Spread knowledge of the God of Israel to unite humanity)
 - Claim that Prophets were killed
+	- Mathew 23:33-36 (Jesus said Jews killed whoever he sent, from Abel to Zacheriah son of Berechiah)
+	- 2 Chronicles 24:20-21 (Zacheriah, son of Jehoiada was killed)
+	- 2 Kings 18
 ## ## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
