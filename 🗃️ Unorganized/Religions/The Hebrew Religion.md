@@ -32,6 +32,9 @@ The defining texts of the religion are the Tanakh and the Talmud
 - Works of Rambam (or Maimonides) - Including Mishneh Torah
 ## Variants
 - Old
+	- Tribes
+		- Levites
+		- 
 	- Roman Era
 		- Pharisees (a philosophical group)
 		- Essenes (they believed the others corrupted the city and the Temple)
@@ -42,7 +45,6 @@ The defining texts of the religion are the Tanakh and the Talmud
 		- They follow a different Samaritan Pentateuch, as opposed to the Masoretic Text
 		- Jesus was accused of being a demon-possessed Samaritan (John 8:44)
 		- About 900 of them remain
-	- Levites
 
 - Current
 	- Karaites
