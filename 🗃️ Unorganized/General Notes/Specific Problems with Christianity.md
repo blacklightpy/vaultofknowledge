@@ -20,6 +20,10 @@ It is commonly said that Israel claimed to be superior than the others. But real
 The reality on how Israel views Gentiles is given in another excerpt where the Israelites consider Gentiles to be like dogs and themselves to be like donkeys. So when we walk the Earth, the commandments are like luggage. And the dogs, tired of the luggage, placed the burden on the donkeys, so that they both can walk in comfort. So the reference to dogs was only made in the sense that Israelites work harder for the sake of the Gentiles. This is from Sifrei Devarim 343:6 (donkey is written as ass).
 
 However, Mohammed said that they are like donkeys carrying around the Torah, by not understanding its contents (Quran 62:5).
+
+
+Also, sin of Sodom was not explicitly mentioned as homosexuality by any prophets. They were only mentioned as wicked.
+https://books.google.co.in/books?id=TfBYd9xVaXcC&pg=PA37&redir_esc=y#v=onepage&q&f=false
 ## Check these verses
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
@@ -282,7 +286,7 @@ This is wishful thinking.
 			- **3959 (The Book of the Kind Treatment of Women, Hadeeth 21):** It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 	- Censorship of Anal Sex Hadith
 		- Sahih al-Bukhari
-			- **4526 (**
+			- **4526 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet), Hadeeth 50):** Ibn Umar said, "It means one should approach his wife in .."
 
 # Islam
 - Islam
