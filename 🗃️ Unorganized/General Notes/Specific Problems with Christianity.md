@@ -15,15 +15,17 @@
 
 Sin (chet) is a result of improper channeling of our human impulses (Yetzer). We have Yetzer-Hatov (Good Inclination) and Yetzer-Hara (Good/Bad Inclination). And God forgives.
 
-It is commonly said that Israel claimed to be superior than the others. But really, Israel only claims to be people chosen for a purpose. A commonly cited Talmud excerpt is that the Israelites consider Gentiles to be like donkeys, considering it to be pejorative. This is from Yevamot 62a.14, however, that was only a metaphoric tool used for declaring the legal status of the lineage a Gentile who wants to be Jew. The term donkey is not used in a perjorative sense.
+It is commonly said that Israel claimed to be superior than the others. But really, Israel only claims to be people chosen for a purpose. A commonly cited Talmud excerpt (Yevamot 62a.14) is that the Israelites consider Gentiles to be like donkeys, considering it to be pejorative. However, that was only a metaphoric tool used for declaring the legal status of the lineage a Gentile who wants to be Jew. The term donkey is not used in a pejorative sense.
 
-The reality on how Israel views Gentiles is given in another excerpt where the Israelites consider Gentiles to be like dogs and themselves to be like donkeys. So when we walk the Earth, the commandments are like luggage. And the dogs, tired of the luggage, placed the burden on the donkeys, so that they both can walk in comfort. So the reference to dogs was only made in the sense that Israelites work harder for the sake of the Gentiles. This is from Sifrei Devarim 343:6 (donkey is written as ass).
+The reality on how Israel views Gentiles is given in another excerpt where the Israelites consider Gentiles to be like dogs and themselves to be like donkeys. So when we walk the Earth, the commandments are like luggage. And the dogs, tired of the luggage, placed the burden on the donkeys, so that they both can walk in comfort. So the reference to dogs was only made in the sense that Israelites work harder for the sake of the Gentiles. This is from Sifrei Devarim 343:6 (donkey is written as ass, in case you don't see it with Ctrl+F).
 
 However, Mohammed said that they are like donkeys carrying around the Torah, by not understanding its contents (Quran 62:5).
 
 
 Also, sin of Sodom was not explicitly mentioned as homosexuality by any prophets. They were only mentioned as wicked.
 https://books.google.co.in/books?id=TfBYd9xVaXcC&pg=PA37&redir_esc=y#v=onepage&q&f=false
+It was the Church that decided to call homosexuality the sin, although the prophets only refer to Sodom the city.
+The people of Sodom tried to mass-rape the two heavenly emissaries.
 ## Check these verses
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
