@@ -12,6 +12,8 @@
 - Talmud
 	- Sanhedrin 43a (Stoning Jesus)
 		- He violated Deuteronomy 13:11-12 (Misleading people) and Leviticus 20:27 (Spirit Telling).
+
+Sin (chet) is a result of improper channeling of our human impulses (Yetzer). We have Yetzer-Hatov (Good Inclination) and Yetzer-Hara (Good/Bad Inclination). And God forgives.
 ## Check these verses
 Read these truly:
 - 1. Kill adulterers (Lev 20:10)
