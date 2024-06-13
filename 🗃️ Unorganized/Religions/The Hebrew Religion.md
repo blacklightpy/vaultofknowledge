@@ -32,18 +32,19 @@ The defining texts of the religion are the Tanakh and the Talmud
 - Works of Rambam (or Maimonides) - Including Mishneh Torah
 ## Variants
 - Old
-	- Rabbinistic
-		- Pharisees
-		- Essenes
-		- Zealots
-	- Non-Rabbinistic
-		- Sadducees
+	- Roman Era
+		- Pharisees (a philosophical group)
+		- Essenes (they believed the others corrupted the city and the Temple)
+		- Sadducees (They wanted to be the priestly caste, and rejected the Oral Torah)
+		- Zealots (Anti-Roman group which led to the Great Revolt, or the "fourth group", as described by Josephus)
 	- Samaritans
-		- They follow a different Samaritan Torah
+		- They follow a different Samaritan Pentateuch, as opposed to the Masoretic Text
+		- Jesus was accused
 	- Levites
+
 - Current
 	- Karaites
-		- They only follow the written Torah
+		- They only follow the written Torah. Some say they could be from the Sadducees.
 	- Reform (Progressive and social justice oriented)
 	- Conservative (Mid-way between Reform and Orthodox)
 	- Orthodox
