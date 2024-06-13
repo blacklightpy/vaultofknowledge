@@ -44,6 +44,8 @@ The defining texts of the religion are the Tanakh and the Talmud
 		- Zealots (Anti-Roman group which led to the Great Revolt, or the "fourth group", as described by Josephus)
 			- Sicarii (Assassins) (Josephus described them as bandits who killed Jews who sympathized with Romans)
 	- Samaritans
+		- They were the ones who lived with Assyrians when Jews were exiled, and when the Jews returned, they accused them of associating partners to God and corrupting the Torah.
+			- 2 Kings 17:24-41 (They were brought to Assyrian Samaria because the God of Israel sent lions to kill the Assyrians who settled in Samaria, since they did not worship the God of Israel)
 		- They follow a different Samaritan Pentateuch, as opposed to the Masoretic Text
 		- Jesus was accused of being a demon-possessed Samaritan (John 8:44)
 		- About 900 of them remain
