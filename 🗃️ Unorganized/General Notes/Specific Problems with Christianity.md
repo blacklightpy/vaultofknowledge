@@ -237,6 +237,9 @@ This is wishful thinking.
 			- In Judaism, the number of wives was ideally one.
 		- 70:29-31 (Same as 23:5-7, verbatim)
 		- 4:24 (Married female captives are legal for marriage)
+		- 4:25 (Impatient men who can't find a free Muslim woman should be given a **Muslim\*** slave women to marry, if the master hasn't had relations with them)
+			- True\* translation (doubtful, I guess I'm wrong by most Tafsirs): It says slaves of Muslims should be given, not Muslims slaves. I read the Arabic translation (maybe my bad).
+			- 
 		- 30:28 (Would you ever allow your slaves to be equal partners in wealth to you?)
 		- 24:33 (Only guideline: do not make them prostitutes to earn money / pimp)
 		- 33:50 (Have relationships with wives to whom you've paid dowry to, and slave women)
