@@ -159,6 +159,8 @@ He wants his plan done.
 	- Stephen was stoned for blasphemy
 - Lamb and Seals (Far Cry 5 reference)
 	- Rev 5-6
+- All those who don't do righteousness are not from God
+	- 1 John 3:9-11
 
 - Jesus as Messiah (Old Testament)
 	- Psalm 22
