@@ -57,7 +57,7 @@ The defining texts of the religion are the Tanakh and the Talmud
 		- About 900 of them remain
 
 - Current
-	- Karaites
+	- Karaites (non-Rabbinites)
 		- They only follow the written Torah. Some say they could be from the Sadducees.
 	- Reform (Progressive and social justice oriented)
 	- Conservative (Mid-way between Reform and Orthodox)
