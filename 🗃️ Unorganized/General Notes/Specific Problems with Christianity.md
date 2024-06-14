@@ -430,3 +430,8 @@ Say I sharpen a pencil. I can put the waste in my box (in a waste section), or w
 When I say that I know that Islam is harmful, even more than Muslims, I say it in a similar manner as I know that Alcohol is harmful even without drinking alcohol myself. Of course, moderate alcoholics do not pose a problem, but I can still know that if someone gets them to try something stronger, and being alcoholics, they are less likely to 
 
 Hell, it is even realistic for Christianity.
+
+
+- Who all can be captives?
+	- Claim: Only females who fight can be captured
+	- Claim: Only men who fight can be killed.
