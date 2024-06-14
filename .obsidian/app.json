@@ -19,5 +19,6 @@
     "downscalePercent": 100
   },
   "newFileLocation": "folder",
-  "newFileFolderPath": "🗃️ Unorganized/General Notes"
+  "newFileFolderPath": "🗃️ Unorganized/General Notes",
+  "readableLineLength": false
 }

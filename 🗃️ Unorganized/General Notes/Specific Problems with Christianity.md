@@ -421,3 +421,12 @@ Like-wise, the famous Hanafi scholar al-Kashani said, “The principle is that i
 
 
 Analysis of "Kafir's Blood Is Halal for You, So Shed It" (https://www.cell.com/heliyon/pdf/S2405-8440(20)31292-5.pdf). It studies the use of grammar to alter "mood and speech" to make them hate "Mushirikins".
+
+
+**The problem with taking a religion:**
+Say I sharpen a pencil. I can put the waste in my box (in a waste section), or walk upto the dustbin. Is there a contradiction in any of these actions? No. But someone can put it on the floor. It could be argued that
+
+
+When I say that I know that Islam is harmful, even more than Muslims, I say it in a similar manner as I know that Alcohol is harmful even without drinking alcohol myself. Of course, moderate alcoholics do not pose a problem, but I can still know that if someone gets them to try something stronger, and being alcoholics, they are less likely to 
+
+Hell, it is even realistic for Christianity.
