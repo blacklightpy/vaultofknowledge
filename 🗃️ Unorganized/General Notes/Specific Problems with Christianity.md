@@ -248,6 +248,7 @@ This is wishful thinking.
 			- **Now, why would a slave believe? What would she gain?**
 				- The master can have sex with her whether she believes or not, so no gain.
 				- Some impatient guy can have sex with her if she believes, so a downside.
+				- Also acceptance of Islam nullifies her previous marriage (if husband is alive), so, unfaithful.
 				- Is she coerced?
 		- 30:28 (Would you ever allow your slaves to be equal partners in wealth to you?)
 		- 24:33 (Only guideline: do not make them prostitutes to earn money / pimp)
@@ -263,7 +264,13 @@ This is wishful thinking.
 		- By marrying slaves off, the owner gets more slaves, and is lifted of the burden of accommodating them.
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
-
+	- God split water and heavens
+		- 21:30
+		- This is out of Genesis
+		- Contradictions
+			- God made every living thing (in Earth) out of water (21:30)
+			- God make Jinn from smokeless flame (55:15)
+				- Muslim claim: Jinn was made before earth
 # Hadeeths
 - Hadeeths
 	- Incitement against Jews
@@ -402,3 +409,8 @@ https://quranx.com/Hadith/Bukhari/USC-MSA/Volume-3/Book-47/Hadith-765/
 You chose to humble yourselves. But who is it that you chose to humble yourselves towards?
 You chose to humble yourselves towards someone who asked of you, to cast aside your humanity.
 What does that make you?
+
+
+- Comparing Amendment of constitution to Bible and Torah
+	- My leg grew, can't I change my shoes?
+	- My style changed, I learned new skills. Can't I wear studs now to improvise? Or should I continue to play barefoot?
