@@ -40,7 +40,7 @@ The defining texts of the religion are the Tanakh and the Talmud
 	- Roman Era
 		- Pharisees (a philosophical group, followed the Oral Torah. Mostly the common people and Rabbis. Jesus would've been a Pharisee.)
 		- Essenes (they believed the others corrupted the city and the Temple, and kinda followed the Oral Torah. They were Isolationists)
-		- Sadducees (They wanted to be the priestly caste, and rejected the Oral Torah and notions of afterlife as they were not in the Torah. They were the wealthy people.)
+		- Sadducees (They wanted to be the priestly caste, and rejected the Oral Torah, Nevi'im and Ketuvim (and hence notions of afterlife and the Temple rites). They were the wealthy people.)
 		- Zealots (Anti-Roman group which led to the Great Revolt, or the "fourth group", as described by Josephus)
 			- Sicarii (Assassins) (Josephus described them as bandits who killed Jews who sympathized with Romans)
 	- Samaritans (Excluded by Jews)
