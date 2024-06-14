@@ -414,3 +414,10 @@ What does that make you?
 - Comparing Amendment of constitution to Bible and Torah
 	- My leg grew, can't I change my shoes?
 	- My style changed, I learned new skills. Can't I wear studs now to improvise? Or should I continue to play barefoot?
+
+
+**Killing people:**
+Like-wise, the famous Hanafi scholar al-Kashani said, “The principle is that it is permissible to kill anyone from amongst the people who are at war (with the Muslims), whether they fight or do not fight.
+
+
+Analysis of "Kafir's Blood Is Halal for You, So Shed It" (https://www.cell.com/heliyon/pdf/S2405-8440(20)31292-5.pdf). It studies the use of grammar to alter "mood and speech" to make them hate "Mushirikins".
