@@ -332,7 +332,10 @@ This is wishful thinking.
 ## Weak Hadiths
 
 - Whoever hurts others annoys Allah
-	- Sunan Ibn Majah 2342 In-book reference	 : Book 13, Hadith 35
+	- Sunan Ibn Majah 2342 In-book reference : Book 13, Hadith 35 (**Daif**)
+	- (The Lawful and the Prohibited in Islam’ by Sheikh Yusuf Qaradawi, p.336) The Prophet ﷺ said, “He who hurts a dhimmi hurts me, and he who hurts me annoys Allah.” (**Mawdu (fabricated)**)
+	- True Hadeeth
+		- (Al-Awsat 3607) The Prophet ﷺ said, **“He who hurts a Muslim hurts me, and he who hurts me annoys Allah.”**
 
 # Islam
 - Islam
