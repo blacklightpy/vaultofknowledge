@@ -239,7 +239,16 @@ This is wishful thinking.
 		- 4:24 (Married female captives are legal for marriage)
 		- 4:25 (Impatient men who can't find a free Muslim woman should be given a **Muslim\*** slave women to marry, if the master hasn't had relations with them)
 			- True\* translation (doubtful, I guess I'm wrong by most Tafsirs): It says slaves of Muslims should be given, not Muslims slaves. I read the Arabic translation (maybe my bad).
-			- 
+			- More Notes:
+				- This is for impatient men. They can't marry slaves if they have free wives. (But what about Aisha Mohammed Hadith? I'll see)
+					- But they can marry multiple slaves, although if they already have one wife, they can't be considered impatient? Scholars vary. Some say he's satisfied, others say one can have upto 4 wives to be satisfied.
+				- Owners can't marry slaves without freeing them. But he can have sex.
+					- This is because the contract of ownership is stronger than the contract of marriage. And one cannot have both, the contract of ownership supersedes, until she's freed.
+						- And this is because the contracts of marriage give more rights that the contracts of slavery does not. So if she's not given those rights, it will make a contradiction.
+			- **Now, why would a slave believe? What would she gain?**
+				- The master can have sex with her whether she believes or not, so no gain.
+				- Some impatient guy can have sex with her if she believes, so a downside.
+				- Is she coerced?
 		- 30:28 (Would you ever allow your slaves to be equal partners in wealth to you?)
 		- 24:33 (Only guideline: do not make them prostitutes to earn money / pimp)
 		- 33:50 (Have relationships with wives to whom you've paid dowry to, and slave women)
