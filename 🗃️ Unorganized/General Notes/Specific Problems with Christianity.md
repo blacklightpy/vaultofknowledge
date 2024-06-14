@@ -329,6 +329,11 @@ This is wishful thinking.
 - Deny those who follow Musa
 	- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
 
+## Weak Hadiths
+
+- Whoever hurts others annoys Allah
+	- Sunan Ibn Majah 2342 In-book reference	 : Book 13, Hadith 35
+
 # Islam
 - Islam
 	- Primary Sources
