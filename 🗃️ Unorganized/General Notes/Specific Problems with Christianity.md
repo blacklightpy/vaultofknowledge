@@ -430,14 +430,13 @@ What does that make you?
 **Killing people:**
 Like-wise, the famous Hanafi scholar al-Kashani said, “The principle is that it is permissible to kill anyone from amongst the people who are at war (with the Muslims), whether they fight or do not fight.
 
-
 Analysis of "Kafir's Blood Is Halal for You, So Shed It" (https://www.cell.com/heliyon/pdf/S2405-8440(20)31292-5.pdf). It studies the use of grammar to alter "mood and speech" to make them hate "Mushirikins".
 
 
 **The problem with taking a religion ("no contradictions"):**
 Say I sharpen a pencil. I can put the waste in my box (in a waste section), or walk up to the dustbin. Is there a contradiction in any of these actions? No. But someone can put it on the floor. It could be argued that it is harmful for the environment or the workers. But the person could say that they don't care about workers or the environment. Now, to change his mind is a very difficult task. Although there are no contradictions in this situation, there are contradictions when you consider the larger picture.
 
-
+**What I mean when I say Islam is harmful:**
 When I say that I know that Islam is harmful, even more than Muslims, I say it in a similar manner as I know that Alcohol is harmful even without drinking alcohol myself. Of course, moderate alcoholics do not pose a problem, but I can still know that if someone gets them to try something stronger, and being alcoholics, they are less likely to 
 
 Hell, it is even realistic for Christianity.
@@ -446,3 +445,10 @@ Hell, it is even realistic for Christianity.
 - Who all can be captives?
 	- Claim: Only females who fight can be captured
 	- Claim: Only men who fight can be killed.
+
+- What happens when you fight
+	- People of the Book can pay Jizya
+	- Others will have to be fought till they convert
+
+This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
+He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism.
