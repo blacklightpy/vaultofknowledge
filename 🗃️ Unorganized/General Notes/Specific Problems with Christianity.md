@@ -442,13 +442,17 @@ When I say that I know that Islam is harmful, even more than Muslims, I say it i
 Hell, it is even realistic for Christianity.
 
 
-- Who all can be captives?
+- **Who all can be captives?**
 	- Claim: Only females who fight can be captured
 	- Claim: Only men who fight can be killed.
 
-- What happens when you fight
+- **What happens when you fight**
 	- People of the Book can pay Jizya
 	- Others will have to be fought till they convert
+		- **Hanafi School:** Jizya can be taken from everyone except Arab polytheists and apostates
+		- **Maliki School:** Jizya can be taken from everyone except apostates
+		- **Shafi'i and Hanbali Schools:** Jizya can be taken from Jews, Christians and Zoroastrians (Ahl al-Kitab)
 
 This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
-He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism.
+
+He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
