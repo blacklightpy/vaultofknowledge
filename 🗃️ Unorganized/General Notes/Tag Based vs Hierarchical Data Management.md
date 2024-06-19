@@ -1,0 +1,11 @@
+- Tag Based
+	- **Features:**
+		- Hierarchical Tags
+	- **Ways:**
+		- All files will be in the same folder
+
+- Hierarchical
+	- **Features:**
+		- Folders
+	- **Ways:**
+		- All files will be in separate folders
