@@ -39,5 +39,5 @@ Some ideas:
 - Think about organizing files in paper
 	- Even if you follow the Zettelkasten system, we'll want to file the notes separately for easier accessibility, than look at the tags each time. Oh-wait. Zettelkasten was not that dumb, and was genius. It used indexing rather than tagging.
 	- But then there had to be some way to find a specific note. Categorizing them would make it different from the Zettelkasten indexing system, and finding files of a specific index would be difficult. You would have to both tag the file and specify its category.
-	- That would be similar to the idea of parent tags as I said before. But more accurately, this i
+	- That would be similar to the idea of parent tags as I said before. But more accurately, this is like categories, in addition to index tags. Ham
 	- Instead, what was used was a separately collected set of notes called Maps of Contents.
