@@ -456,3 +456,6 @@ Hell, it is even realistic for Christianity.
 This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
 
 He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
+
+
+Hindu answer: https://qr.ae/pszIQD
