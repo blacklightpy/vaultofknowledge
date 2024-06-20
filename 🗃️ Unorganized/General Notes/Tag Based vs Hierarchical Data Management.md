@@ -20,3 +20,7 @@ Some ideas:
 	- Example: In StackOverflow, `integrals` is a subset of `calculus`. In other examples, using one tag makes it an umbrella for many other tags, so we can only use an umbrella tag.
 - It is better for a file picker to select by tags
 	- Example: When looking for a file, use the tags `projects/blender`, `donut`, `white`. This also lets you easily add more descriptions to the files.
+	- If you want to select multiple files, you could just group them all under yet another umbrella tag, for example, if you want both donuts and plates to be listed in a single window without listing all projects by using just `projects/blender`, you could use a tag like `kitchen` and supply `projects/blender`, `kitchen` to get all of them.
+- You can't expect the users to tag all files individually
+	- People are lazy, and put stuff in new folders, or save everything to desktop.
+	- We can fix it by listing everything as untagged, and creating `new-tag`s. Just copying what they do with folders.
