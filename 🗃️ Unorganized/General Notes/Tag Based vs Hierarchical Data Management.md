@@ -28,7 +28,15 @@ Some ideas:
 	- There can be many tags when there are too many files. So, selecting tags by mouse won't be easier than navigating folders, where only a few folders are displayed at once.
 		- Perhaps one can set a parent tags section with only a limited number of tags, and when you select them, you can select their subtags.
 		- However, that will mean you have to separate parent tags and adjective tags. At this point, the function of parent tags become similar to that of folders, except that they still can have multiple parent tags.
+		- The number of parent tags will then be limited by the user's own preferences. However, it is possible that even that can reach too many, if we consider the Johnny Decimal System, where up to 10000 folders are possible.
 		- The keyboard workflow will definitely become popular. The keyboard workflow exists in folder paradigms, however, it will become more useful in the tag paradigm.
 - Tags can lead to files getting lost
-	- It's questionable. Still, when files are placed in folders, 
-- 
+	- It's questionable. Still, when files are placed in folders, they remain inside one of them. But when files are tagged, they all remain in one location, only identified by their tags. But with this approach, they could become lost among too many files if you forget which tags you used for them. So I guess it's more reasonable than questionable.
+	- But one can fix this by the separation of parent tags and adjective tags, as I stated before.
+- The two ideas available are
+	- Use of parent tags
+	- Use of folders and tags based on a simplified alternative to Johnny Decimal System
+
+- Think about organizing files in paper
+	- Even if you follow the Zettelkasten system, we'll want to file the notes separately for easier accessibility, than look at the tags each time. Oh-wait. Zettelkasten was not that dumb, and was genius. It used indexing rather than tagging.
+	- But then there had to be some way to find a specific note. Categorizing them would make 
