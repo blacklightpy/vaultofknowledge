@@ -1,6 +1,7 @@
 - Tag Based
 	- **Features:**
 		- Hierarchical Tags
+		- Attribute-Value Tags
 	- **Ways:**
 		- All files will be in the same folder
 
@@ -40,4 +41,8 @@ Some ideas:
 	- Even if you follow the Zettelkasten system, we'll want to file the notes separately for easier accessibility, than look at the tags each time. Oh-wait. Zettelkasten was not that dumb, and was genius. It used indexing rather than tagging.
 	- But then there had to be some way to find a specific note. Categorizing them would make it different from the Zettelkasten indexing system, and finding files of a specific index would be difficult. You would have to both tag the file and specify its category.
 	- That would be similar to the idea of parent tags as I said before. But more accurately, this is like WordPress style categories, in addition to indexes.
-	- Instead, what was used was a separately collected set of notes called Maps of Contents. A Map of Contents could come under another Map of Contents. These Maps of Contents would be organized in categories.
+	- Instead, what was used (later) was a separately collected set of notes called Maps of Contents. A Map of Contents could come under another Map of Contents. These Maps of Contents would be organized in categories.
+		- The original Zettelkasten method used fleeting notes, literature notes and permanent notes.
+- Attribute-Value Tags can be more extensible than Hierarchical Tags (Tagging Tags)?
+
+More ideas: https://authorguide.learnosity.com/hc/en-us/articles/360000434878-How-Do-Tag-Hierarchies-Work

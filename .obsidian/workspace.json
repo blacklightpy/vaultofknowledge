@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -448,7 +448,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +465,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md"
               }
             }
           },
@@ -486,7 +486,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -528,11 +528,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3f182bfaba3eb84",
+  "active": "3b4f5a44d2267ea4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🤠 Personal/Ideas and References/Maps of Contents.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
     "🗃️ Unorganized/General Notes/Rapid Application Development.md",
     "🗃️ Unorganized/General Notes/Forward Secrecy.md",
