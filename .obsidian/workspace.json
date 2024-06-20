@@ -362,8 +362,13 @@
             "id": "3b4f5a44d2267ea4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Forward Secrecy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -418,7 +423,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -442,6 +448,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Forward Secrecy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +464,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Forward Secrecy.md"
+              }
             }
           },
           {
@@ -477,6 +486,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Forward Secrecy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -520,6 +530,10 @@
   },
   "active": "3b4f5a44d2267ea4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/FOSS Communications.md",
+    "🗃️ Unorganized/General Notes/Passwordless Login.md",
+    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
+    "🗃️ Unorganized/General Notes/Forward Secrecy.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Untitled.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
@@ -527,7 +541,6 @@
     "🗃️ Unorganized/General Notes/Antisemitic Quotes from the Talmud Debunked.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Differences between Islam and Judeo-Christianity.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Abrahamic Religions.md",
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
     "🗃️ Unorganized/General Notes/Comparison of Nations.md",
@@ -543,9 +556,6 @@
     "🤠 Personal/Ideas for business.md",
     "🤠 Personal/French.md",
     "🤠 Personal/Zettelkasten.md",
-    "🤠 Personal/words I learned today.md",
-    "🔮 World Building/Waste Management/Sewage Sludge Management.md",
-    "🔮 World Building/Waste Management/Fecal Sludge Management.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",

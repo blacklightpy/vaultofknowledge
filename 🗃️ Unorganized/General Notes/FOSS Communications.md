@@ -4,6 +4,11 @@
 	- Addon Protocols: OTR (realtime), OMEMO (based on Signal's Double Ratchet Algorithm) or OpenPGP
 - Signal
 	- Platforms: Signal
+- E-Mail Chat
+	- Platforms: Delta Chat
+	- Protocols: PGP, Fallback to Plain Text
+
+Note: PGP doesn't have [[forward secrecy]], and keys could be stolen if users don't store them securely using U2F/FIDO2.
 ## Networking
 - ActivityPub
 	- Platforms: Mastodon, Pixelfed, Calckey, Misskey, Lemmy, Kbin
