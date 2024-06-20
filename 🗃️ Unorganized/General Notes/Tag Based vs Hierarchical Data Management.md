@@ -33,10 +33,11 @@ Some ideas:
 - Tags can lead to files getting lost
 	- It's questionable. Still, when files are placed in folders, they remain inside one of them. But when files are tagged, they all remain in one location, only identified by their tags. But with this approach, they could become lost among too many files if you forget which tags you used for them. So I guess it's more reasonable than questionable.
 	- But one can fix this by the separation of parent tags and adjective tags, as I stated before.
-- The two ideas available are
+- The two ideas available so far are
 	- Use of parent tags
 	- Use of folders and tags based on a simplified alternative to Johnny Decimal System
-
 - Think about organizing files in paper
 	- Even if you follow the Zettelkasten system, we'll want to file the notes separately for easier accessibility, than look at the tags each time. Oh-wait. Zettelkasten was not that dumb, and was genius. It used indexing rather than tagging.
-	- But then there had to be some way to find a specific note. Categorizing them would make 
+	- But then there had to be some way to find a specific note. Categorizing them would make it different from the Zettelkasten indexing system, and finding files of a specific index would be difficult. You would have to both tag the file and specify its category.
+	- That would be similar to the idea of parent tags as I said before. But more accurately, this i
+	- Instead, what was used was a separately collected set of notes called Maps of Contents.
