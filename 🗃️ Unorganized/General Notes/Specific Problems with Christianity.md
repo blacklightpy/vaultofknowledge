@@ -367,6 +367,11 @@ This is wishful thinking.
 - al-Masalih al-Mursala (Public Interest)
 - adh-Dhara'i'(Means)
 - 'Adat (Customs) and 'Urf (Customary Usage) 
+
+- Tafsirs (Commentary)
+	- ibn Kathir
+	- Al-Qurtubi
+	- 
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
