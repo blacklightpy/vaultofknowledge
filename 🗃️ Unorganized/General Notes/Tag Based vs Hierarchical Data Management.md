@@ -28,7 +28,7 @@ Some ideas:
 	- There can be many tags when there are too many files. So, selecting tags by mouse won't be easier than navigating folders, where only a few folders are displayed at once.
 		- Perhaps one can set a parent tags section with only a limited number of tags, and when you select them, you can select their subtags.
 		- However, that will mean you have to separate parent tags and adjective tags. At this point, the function of parent tags become similar to that of folders, except that they still can have multiple parent tags.
-		- The keyboard workflow will definitely become popular. The 
+		- The keyboard workflow will definitely become popular. The keyboard workflow exists in folder paradigms, however, it will become more useful in the tag paradigm.
 - Tags can lead to files getting lost
-	- It's questionable. Still, when files are placed in folders
+	- It's questionable. Still, when files are placed in folders, 
 - 

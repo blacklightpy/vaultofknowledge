@@ -329,7 +329,7 @@ This is wishful thinking.
 - Deny those who follow Musa
 	- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
 
-- Coitus Interruptus (with regards to selling slaves)
+- Coitus Interruptus (with regards to selling slaves, and after taking them captive)
 	- Sahih Muslim 1438a In-book reference	 : Book 16, Hadith 146
 
 ## Weak Hadiths
