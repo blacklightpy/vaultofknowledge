@@ -357,9 +357,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b4f5a44d2267ea4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -410,8 +418,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -435,7 +442,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,9 +457,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -473,7 +477,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -515,10 +518,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3f182bfaba3eb84",
+  "active": "3b4f5a44d2267ea4",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Untitled.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Untitled.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗃️ Unorganized/General Notes/Antisemitic Quotes from the Talmud Debunked.md",
