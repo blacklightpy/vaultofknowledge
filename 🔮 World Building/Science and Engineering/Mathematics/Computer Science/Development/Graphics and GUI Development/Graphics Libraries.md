@@ -1,6 +1,6 @@
 **TODO:** Copy Notes from my notepad and Budgie Backup from Early 2022
 
-Some of the GUI frameworks are referred to as RAD frameworks.
+Some of the GUI frameworks are referred to as [[Rapid Application Development|RAD]] frameworks.
 
 - Hardware Abstraction API: OpenGL, Vulkan, DirectX
 - Graphics API implementations: 2D: DRM, GDI, Graphics Card Drivers (DirectX/OpenGL/Vulkan), | 3D: Graphics Card Drivers (DirectX/OpenGL/Vulkan), Mesa3D

@@ -370,22 +370,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d022222d51b0f642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -461,7 +448,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
+                "file": "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -478,7 +465,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md"
+                "file": "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md"
               }
             }
           },
@@ -499,7 +486,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
+                "file": "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -541,8 +528,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d022222d51b0f642",
+  "active": "3b4f5a44d2267ea4",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
+    "🗃️ Unorganized/General Notes/Rapid Application Development.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/General Notes/Forward Secrecy.md",
     "🗃️ Unorganized/General Notes/FOSS Communications.md",
@@ -567,8 +556,6 @@
     "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
     "🤠 Personal/Ideas for business.md",
-    "🤠 Personal/French.md",
-    "🤠 Personal/Zettelkasten.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",

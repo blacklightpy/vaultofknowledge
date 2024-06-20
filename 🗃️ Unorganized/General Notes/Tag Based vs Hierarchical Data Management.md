@@ -18,3 +18,5 @@ Some ideas:
 	- Example: With regards to discussion forums, etc. where you may sometimes want to seek help from just the specific community, and other times from the broader community.
 - Hierarchical Tags show tag relationships
 	- Example: In StackOverflow, `integrals` is a subset of `calculus`. In other examples, using one tag makes it an umbrella for many other tags, so we can only use an umbrella tag.
+- It is better for a file picker to select by tags
+	- Example: When looking for a file, use the tags `projects/blender`, `donut`, `white`. This also lets you easily add more descriptions to the files.
