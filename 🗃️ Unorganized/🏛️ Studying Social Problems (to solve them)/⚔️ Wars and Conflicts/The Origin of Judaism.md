@@ -14,4 +14,4 @@
 	- They built the Temple of Solomon during their time.
 	- The kingdom of Israel was captured by Neo-Assyrian empire
 	- The kingdom of Judah was captured by Neo-Babylonian empire
-	- When the Neo-Babylonian empire was captured by the Achaemenid Persian empire, they built the Second Temple.
+	- When the Neo-Babylonian empire was captured by the Median Persian empire, they built the Second Temple.
