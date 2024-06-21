@@ -369,9 +369,21 @@ This is wishful thinking.
 - 'Adat (Customs) and 'Urf (Customary Usage) 
 
 - Tafsirs (Commentary)
-	- ibn Kathir
-	- Al-Qurtubi
-	- 
+
+
+```
+Tafsir ibn Kathir (~1370). Isma`il ibn `Umar Ibn Kathir; Muhammad Nasib Rifa`i. Tafsir ibn Kathir. London: Al-Firdous, 1998. 6 vols. in English.
+
+Tafsir al-Qurtubi (~1273). Muhammad ibn Ahmad Qurtubi; Aisha Abdurrahman Bewley. Tafsir al-Qurtubi: classical commentary of the Holy Quran. London: Dar al-Taqwa, 2003.
+
+Tafsir al-Tabari (~922). Jāmi’ al-bayān ‘an ta’wīl āy al-Qur’ān, ta’līf Abī Ja’far Muḥammad ibn Jarīr al-Ṭabarī. Misr, Mustafá al-Babi al-Halabi, 1954-1968. 30 vols. in Arabic.
+
+Tafsir al-Jalalayn (1460-1505). Jalal al-Din Muhammad ibn Ahmad Mahalli; Suyuti; Feras Hamza. Tafsir al-Jalalayn. Al-Qāhirah: Dār al-Qalam, 1966.
+
+Tafsir Ibn Arabi. Ibn al-`Arabi, (1165-1240) and Mu.hammad `Ali, `Abd al-Warith. Tafsir al-Quran al-Karim. Bayrut, Lubnan: Manshurat Mu.hammad ’Ali Bay.dun: Dar al-Kutub al-’Ilmiyah, 2001. 2 vols. Sufi tafsir.
+```
+
+
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
