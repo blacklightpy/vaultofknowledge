@@ -437,6 +437,7 @@ Like-wise, the famous Hanafi scholar al-Kashani said, “The principle is that i
 
 Analysis of "Kafir's Blood Is Halal for You, So Shed It" (https://www.cell.com/heliyon/pdf/S2405-8440(20)31292-5.pdf). It studies the use of grammar to alter "mood and speech" to make them hate "Mushirikins".
 
+ISIS Rape: https://www.nytimes.com/2015/08/14/world/middleeast/isis-enshrines-a-theology-of-rape.html
 
 **The problem with taking a religion ("no contradictions"):**
 Say I sharpen a pencil. I can put the waste in my box (in a waste section), or walk up to the dustbin. Is there a contradiction in any of these actions? No. But someone can put it on the floor. It could be argued that it is harmful for the environment or the workers. But the person could say that they don't care about workers or the environment. Now, to change his mind is a very difficult task. Although there are no contradictions in this situation, there are contradictions when you consider the larger picture.
@@ -461,6 +462,5 @@ Hell, it is even realistic for Christianity.
 This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
 
 He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
-
 
 Hindu answer: https://qr.ae/pszIQD
