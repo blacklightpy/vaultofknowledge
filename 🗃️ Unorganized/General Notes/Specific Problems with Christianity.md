@@ -464,3 +464,11 @@ This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from
 He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
 
 Hindu answer: https://qr.ae/pszIQD
+
+## Comparison of Jews and Mohammedans
+
+| What the Jews did                                        | What Mohammed did                                                                                   |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Came from Europe to settle in old Israel, now in Ottoman | Came from a cave to Mecca, Arabia with a "revelation"                                               |
+| Arabs attacked them, but they remained there.            | Told others that their religions were false, so they attacked him, so he moved from Mecca to Medina |
+|                                                          | Established a treaty with them, so they didn't follow                                               |
