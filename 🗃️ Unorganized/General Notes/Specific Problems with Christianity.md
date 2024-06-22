@@ -188,6 +188,7 @@ This is wishful thinking.
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
+		- 2:62 (But Jews cannot be, because they will all have to be killed before the Hour)
 	- Against Jews and Polytheists, Supporting Christians
 		- 5:82
 	- Against Jews and Christians
@@ -467,6 +468,7 @@ Say I sharpen a pencil. I can put the waste in my box (in a waste section), or w
 **What I mean when I say Islam is harmful:**
 When I say that I know that Islam is harmful, even more than Muslims, I say it in a similar manner as I know that Alcohol is harmful even without drinking alcohol myself. Of course, moderate alcoholics do not pose a problem, but I can still know that if someone gets them to try something stronger, and being alcoholics, they are less likely to 
 
+But realistically
 Hell, it is even realistic for Christianity.
 
 
@@ -485,8 +487,7 @@ This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from
 
 He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
 
-Hindu answer: https://qr.ae/pszIQD
-
+Hindu answer (on Hindutva): https://qr.ae/pszIQD
 ## Comparison of Jews and Mohammedans
 
 | What the Jews did                                                                                                                                                                                                                                                                            | What Mohammed did                                                                                                                                                                 |
@@ -519,3 +520,22 @@ Hindu answer: https://qr.ae/pszIQD
 	- The Sun prostrates underneath Allah's Throne
 		- **Sahih al-Bukhari 4802 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))**
 
+
+Things I want to cover
+
+- [x] Jurispudence Terms
+- [ ] About sex slaves
+- [ ] About when is Jihad applicable
+- [ ] Whom can Jizya be taken from?
+- [x] Israel-Palestine Conflict
+- [ ] Extra: Stupidity
+- [ ] Extra: Immorality
+
+# Immoralities
+- An adulterer should marry an adulteress or polytheist
+	- 24:3
+- Whoever has a girl child will frown
+	- 16:58
+
+# Stupidity in Community
+- StackOverflow is built by Israeli/American Jew, who is openly gay
