@@ -369,19 +369,23 @@ This is wishful thinking.
 - 'Adat (Customs) and 'Urf (Customary Usage) 
 
 - Tafsirs (Commentary)
-	- Tafsir ibn Kathir (IK)
-		- by Ismail ibn Umar Ibn Kathir (~1370)
-	- Tafsir al-Qurtubi (Q)
-		- (or Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions))
-		- by Muhammad ibn Ahmad Qurtubi (~1273)
-	- Tafsir al-Tabari (T)
-		- by Jami al-bayān an tawil ay al-Quran, talif Abi Jafar Muḥammad ibn Jarir al-Tabari (~922)
-	- Tafsir al-Jalalayn (JJ)
-		- by Jalal al-Din Muhammad ibn Ahmad Mahalli (1460-1505)
-	- Tafsir Ibn Arabi (K)
-		- by Ibn al-Arabi, and Mu.hammad Ali, Abd al-Warith (1165-1240)
+	- Tafsir ibn Kathir (IK) (~1370)
+		- **By:** Ismail ibn Umar Ibn Kathir 
+	- Tafsir al-Qurtubi (Q) (~1273)
+		- **Also called:** Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions)
+		- **By:** Muhammad ibn Ahmad Qurtubi
+	- Tafsir al-Tabari (T) (~922)
+		- **By:** Jami al-bayān an tawil ay al-Quran, talif Abi Jafar Muḥammad ibn Jarir al-Tabari
+	- Tafsir al-Jalalayn (JJ) (1460-1505)
+		- **By:** Jalal al-Din Muhammad ibn Ahmad Mahalli 
+	- Tafsir Ibn Arabi (K) (1165-1240)
+		- **By:** Ibn al-Arabi, and Mu.hammad Ali, Abd al-Warith
 
 Ibn Kathir (IK), Isfahani (Is), Jalalayn (JJ), Qurtubi (Q), Razi (R), Samarqandi (Sa), Tustari (ST), Suyuti (Sy), Tabari (T), Tabrisi (Ts), Zamashshari (Z) and many more including ibn Arabi (K)
+
+IK, JJ, Q, T, K
+
+Is, R, Sa, Sy, Ts, Z
 
 
 - Maddhab (Schools)
