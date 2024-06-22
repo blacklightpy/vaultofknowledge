@@ -504,3 +504,19 @@ Hindu answer: https://qr.ae/pszIQD
 - 2:67
 	- A cow was to be sacrificed to revive a dead man by hitting him with a piece of it.
 	- What does god need with a starship?
+
+# Stupidities
+
+- Sun will moves to the resting place, and will ask the permission of Allah to rise
+	- Sun sets in a spring of warm water
+		- **Sunan Abi Dawud 4002 (Book 32, Hadith 34)**
+	- Sun glides under it reaches its resting place under Allah's Throne, and prostrates until it's asked to rise
+		- **Sahih Muslim 159a (The Book of Faith, Hadith 304)**
+	- The fixed course of the sun (36.28) is under the Throne of Allah
+		- **Sahih Al-Bukhari 7433 (Book  97, Hadith 60)**
+	- 
+
+
+
+
+
