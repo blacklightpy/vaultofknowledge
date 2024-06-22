@@ -19,6 +19,7 @@
 - Al Qu'uran, translates to the "word of god".
 - Allah is the god of the world
 - A Muslim is one who follows the words of Allah
+- Iblis is the name of Al-Shaytan, the devil
 ## Sections of Quran
 The Quran is divided in various ways.
 
@@ -31,6 +32,33 @@ The Quran is divided in various ways.
 # Other aspects
 - Sunnah - The sayings and actions of Prophet Mohammed PBUH. It is used to interpret the Quran right.
 - Hadith - The text that records the sunnah. It contains both the chain of reports and the main text.
+# Other Keywords
+- Din (Religion)
+- Iman (Faith)
+- Mumin (Believer)
+- Muslim (Submitter)
+- Fasiq (Open Sinner, Corrupt)
+- Fajir (Sinner)
+- Kafir (Disbeliever)
+- Munafiq (Hypocrite)
+
+- Aqidah (Creed)
+
+- Sects / Schools of Jurispudence
+	- Hanbali, etc. (Four Main + 1 Shia)
+	- Other
+	- Sufism
+
+- Schools of Theology
+	- Asharites, etc.
+
+- Aqidah (Creed)
+
+- Kalam School
+	- Ashardi, Maturidi, etc.
+	- Twelver Shia
+	- Ibadiyya
+
 # Dressing
 Both men and women are required to dress modestly under Islam. But what it means for a woman to dress modestly is highly subjective, and these rules are often very oppressive towards women. Islam in particular is known to be very strict with its women followers.
 
