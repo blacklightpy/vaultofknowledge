@@ -536,6 +536,8 @@ Things I want to cover
 	- 24:3
 - Whoever has a girl child will frown
 	- 16:58
+- Sex with animals during Hajj is okay (Fatwa)
+	- https://www.islamweb.net/ar/fatwa/214033 (Arabic)
 
 # Stupidity in Community
 - StackOverflow is built by Israeli/American Jew, who is openly gay
