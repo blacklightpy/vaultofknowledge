@@ -59,6 +59,28 @@ The Quran is divided in various ways.
 	- Twelver Shia
 	- Ibadiyya
 
+- Practices
+	- Shahadah (Profession of Faith)
+	- Salah (Prayer)
+	- Zakat (Almsgiving)
+	- Sawm (Fasting)
+	- Hajj (Pilgrimage)
+
+- Beliefs
+	- Tawhid (Oneness of God)
+	- Angels
+	- Revelations
+	- Prophets
+	- Day of Resurrection
+	- Qadr (Predestination)
+
+- People
+	- Imam
+	- Mufti
+
+- Rulings
+	- Fatwas
+
 # Dressing
 Both men and women are required to dress modestly under Islam. But what it means for a woman to dress modestly is highly subjective, and these rules are often very oppressive towards women. Islam in particular is known to be very strict with its women followers.
 
