@@ -74,12 +74,24 @@ The Quran is divided in various ways.
 	- Day of Resurrection
 	- Qadr (Predestination)
 
-- People
-	- Imam
-	- Mufti
+- Usul al-Fiqh (Principles of Jursipudence)
+	- Fiqh
+		- Ijma, etc.
+	- Akham (Juristic Concepts)
+		- Halal
+		- Fard
+		- Haram
+		- Jihad
+		- Taqiyya, etc.
+		- Sunnah
+		- Tafsir, etc.
+	- People
+		- Imam
+		- Mufti (Scholars)
+		- Maulana (Muslims scholar in India)
 
 - Rulings
-	- Fatwas
+	- Fatwas (Opinions by Muftis)
 
 # Dressing
 Both men and women are required to dress modestly under Islam. But what it means for a woman to dress modestly is highly subjective, and these rules are often very oppressive towards women. Islam in particular is known to be very strict with its women followers.

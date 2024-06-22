@@ -496,3 +496,7 @@ Hindu answer: https://qr.ae/pszIQD
 | Came from Europe to settle in old Israel, now in Ottoman | Came from a cave to Mecca, Arabia with a "revelation"                                               |
 | Arabs attacked them, but they remained there.            | Told others that their religions were false, so they attacked him, so he moved from Mecca to Medina |
 |                                                          | Established a treaty with them, so they didn't follow                                               |
+
+- 33:59 to 33:62
+	- The Tafsirs say Hijab should be worn (59)
+	- The Tafsirs say apostates should be killed (60-62)
