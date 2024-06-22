@@ -44,7 +44,7 @@ The Quran is divided in various ways.
 
 - Aqidah (Creed)
 
-- Sects / Schools of Jurispudence
+- Maddhabs (Sects / Schools of Jurispudence) (About 19, condensed to 5)
 	- Hanbali, etc. (Four Main + 1 Shia)
 	- Other
 	- Sufism
@@ -77,14 +77,18 @@ The Quran is divided in various ways.
 - Usul al-Fiqh (Principles of Jursipudence)
 	- Fiqh
 		- Ijma, etc.
-	- Akham (Juristic Concepts)
-		- Halal
-		- Fard
-		- Haram
-		- Jihad
-		- Taqiyya, etc.
-		- Sunnah
-		- Tafsir, etc.
+	- Ahkam (Juristic Concepts)
+		- Al-Ahkam Al-Khamsa (The five decisions in Shariah)
+			- Fard/Wajib (Compulsory)
+			- Mustahabb/Mandub (Recommended)
+			- Mubah (Neutral)
+			- Makruh (Disliked)
+			- Haram/Mahzur (Forbidden)
+		- Halal (Lawful)
+		- Jihad (Righteous war)
+		- Taqiyya (A sin for greater good)
+		- Sunnah (Tradition)
+		- Tafsir (Commentary)
 	- People
 		- Imam
 		- Mufti (Scholars)
