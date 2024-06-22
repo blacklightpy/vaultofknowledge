@@ -507,16 +507,15 @@ Hindu answer: https://qr.ae/pszIQD
 
 # Stupidities
 
-- Sun will moves to the resting place, and will ask the permission of Allah to rise
+- Sun will moves to the resting place, and will ask the permission of Allah to rise. Interpretation of Verse 36.28.
 	- Sun sets in a spring of warm water
-		- **Sunan Abi Dawud 4002 (Book 32, Hadith 34)**
-	- Sun glides under it reaches its resting place under Allah's Throne, and prostrates until it's asked to rise
+		- **Sunan Abi Dawud 4002 (Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at), Hadith 34)**
+	- Sun glides under it reaches its resting place under Allah's Throne, and prostrates until it's asked to rise, when it will go to the rising place. Then, it will be asked to go in the other direction
 		- **Sahih Muslim 159a (The Book of Faith, Hadith 304)**
+	- Sun always prostrates under Allah's Throne. Then it always prostrates and asks permission to rise, and it will be permitted. But one day, it will be denied the permission, and will be asked to rise in the other direction.
+		- **Sahih al-Bukhari 3199 (Characteristic of the sun and the moon, Hadith 10)**
 	- The fixed course of the sun (36.28) is under the Throne of Allah
-		- **Sahih Al-Bukhari 7433 (Book  97, Hadith 60)**
-	- 
-
-
-
-
+		- **Sahih al-Bukhari 7433 (Oneness, Uniqueness of Allah (Tawheed), Hadith 60)**
+	- The Sun prostrates underneath Allah's Throne
+		- **Sahih al-Bukhari 4802 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))**
 
