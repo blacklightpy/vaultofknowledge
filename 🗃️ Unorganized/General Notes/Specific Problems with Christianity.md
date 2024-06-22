@@ -368,7 +368,7 @@ This is wishful thinking.
 - adh-Dhara'i'(Means)
 - 'Adat (Customs) and 'Urf (Customary Usage) 
 
-- Tafsirs (Commentary)
+- Tafsirs (Commentary) (Based on the Quran)
 	- Tafsir ibn Kathir (IK) (~1370)
 		- **By:** Ismail ibn Umar Ibn Kathir 
 	- Tafsir al-Qurtubi (Q) (~1273)
@@ -383,12 +383,10 @@ This is wishful thinking.
 
 Ibn Kathir (IK), Isfahani (Is), Jalalayn (JJ), Qurtubi (Q), Razi (R), Samarqandi (Sa), Tustari (ST), Suyuti (Sy), Tabari (T), Tabrisi (Ts), Zamashshari (Z) and many more including ibn Arabi (K)
 
-IK, JJ, Q, T, K
+Found: IK, JJ, Q, T, K
+To list: Is, R, Sa, Sy, Ts, Z
 
-Is, R, Sa, Sy, Ts, Z
-
-
-- Maddhab (Schools)
+- Madhhab (Schools)
 	- Sunni
 		- Shafi
 		- Maliki
