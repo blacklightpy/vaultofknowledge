@@ -368,7 +368,7 @@ This is wishful thinking.
 - adh-Dhara'i'(Means)
 - 'Adat (Customs) and 'Urf (Customary Usage) 
 
-- Tafsirs (Commentary) (Based on the Quran)
+- Tafsirs (Commentary) (Based on the Quran, Hadiths, Fatwas of the Companions and the Fatwas of those who've known them)
 	- Tafsir ibn Kathir (IK) (~1370)
 		- **By:** Ismail ibn Umar Ibn Kathir 
 	- Tafsir al-Qurtubi (Q) (~1273)
@@ -498,3 +498,7 @@ Hindu answer: https://qr.ae/pszIQD
 - 33:59 to 33:62
 	- The Tafsirs say Hijab should be worn (59)
 	- The Tafsirs say apostates should be killed (60-62)
+
+- 2:67
+	- A cow was to be sacrificed to revive a dead man by hitting him with a piece of it.
+	- What does god need with a starship?
