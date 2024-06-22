@@ -341,7 +341,7 @@ This is wishful thinking.
 	- True Hadeeth
 		- (Al-Awsat 3607) The Prophet ﷺ said, **“He who hurts a Muslim hurts me, and he who hurts me annoys Allah.”**
 
-# Islam
+# Islam Data
 - Islam
 	- Primary Sources
 		- Quran
@@ -428,7 +428,7 @@ To list: Is, R, Sa, Sy, Ts, Z
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
 	- https://islam.stackexchange.com/questions/3004/is-masturbation-permissible-for-a-man-during-an-extended-period-of-unmarried-lif
-## Philosophy
+## Philosophizing
 - The claim that Islam made people release slaves
 	- The idea is that slaves could be released, as one of the ways to erase sins
 	- Suppose I could buy games for currency
@@ -527,17 +527,21 @@ Things I want to cover
 - [ ] About sex slaves
 - [ ] About when is Jihad applicable
 - [ ] Whom can Jizya be taken from?
+- [ ] Islamic State Fatwas
+- [ ] Fatwa Resources
 - [x] Israel-Palestine Conflict
 - [ ] Extra: Stupidity
 - [ ] Extra: Immorality
 
 # Immoralities
-- An adulterer should marry an adulteress or polytheist
-	- 24:3
-- Whoever has a girl child will frown
-	- 16:58
+### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
 	- https://www.islamweb.net/ar/fatwa/214033 (Arabic)
-
+### Misogyny
+- Whoever has a girl child will frown
+	- 16:58
+### Dumb Ruling
+- An adulterer should marry an adulteress or polytheist
+	- 24:3
 # Stupidity in Community
 - StackOverflow is built by Israeli/American Jew, who is openly gay
