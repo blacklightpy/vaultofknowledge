@@ -369,11 +369,17 @@ This is wishful thinking.
 - 'Adat (Customs) and 'Urf (Customary Usage) 
 
 - Tafsirs (Commentary)
-	- Tafsir ibn Kathir (~1370) by Isma\`il ibn \`Umar Ibn Kathir
-	- Tafsir al-Qurtubi (~1273) by Muhammad ibn Ahmad Qurtubi
-	- Tafsir al-Tabari (~922) by Jāmi’ al-bayān ‘an ta’wīl āy al-Qur’ān, ta’līf Abī Ja’far Muḥammad ibn Jarīr al-Ṭabarī
-	- Tafsir al-Jalalayn (1460-1505) by Jalal al-Din Muhammad ibn Ahmad Mahalli
-	- Tafsir Ibn Arabi by Ibn al-\`Arabi, (1165-1240) and Mu.hammad \`Ali, \`Abd al-Warith
+	- Tafsir ibn Kathir (IK)
+		- by Ismail ibn Umar Ibn Kathir (~1370)
+	- Tafsir al-Qurtubi (Q)
+		- (or Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions))
+		- by Muhammad ibn Ahmad Qurtubi (~1273)
+	- Tafsir al-Tabari (T)
+		- by Jami al-bayān an tawil ay al-Quran, talif Abi Jafar Muḥammad ibn Jarir al-Tabari (~922)
+	- Tafsir al-Jalalayn (JJ)
+		- by Jalal al-Din Muhammad ibn Ahmad Mahalli (1460-1505)
+	- Tafsir Ibn Arabi (K)
+		- by Ibn al-Arabi, and Mu.hammad Ali, Abd al-Warith (1165-1240)
 
 Ibn Kathir (IK), Isfahani (Is), Jalalayn (JJ), Qurtubi (Q), Razi (R), Samarqandi (Sa), Tustari (ST), Suyuti (Sy), Tabari (T), Tabrisi (Ts), Zamashshari (Z) and many more including ibn Arabi (K)
 
