@@ -534,6 +534,12 @@ Things I want to cover
 - [ ] Extra: Immorality
 
 # Immoralities
+### Evil
+- Aisha didn't hit puberty
+	- Sunan Abu Dawud 4933
+		- Sunnah.com translation: She breathed at the door, and I laghed. Because meant she menstruated.
+		- Darusallam translation: She breathed.
+		- Other translations: She breathed and he laughed.
 ### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
 	- https://www.islamweb.net/ar/fatwa/214033 (Arabic)
