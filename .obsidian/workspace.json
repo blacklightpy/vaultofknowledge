@@ -351,7 +351,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -370,22 +370,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "82fafe9ec2a9dc2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Music Quantization and Black Body Radiation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -461,7 +448,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Music Quantization and Black Body Radiation.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -478,7 +465,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Music Quantization and Black Body Radiation.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md"
               }
             }
           },
@@ -499,7 +486,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Music Quantization and Black Body Radiation.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -541,12 +528,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "82fafe9ec2a9dc2b",
+  "active": "a3f182bfaba3eb84",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Sound.md",
-    "🗃️ Unorganized/General Notes/Sound Perception.md",
-    "🔮 World Building/Science and Engineering/Biology/Colour Perception.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+    "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
+    "🔮 World Building/Science and Engineering/Biology/Colour Perception.md",
+    "🗃️ Unorganized/General Notes/Sound Perception.md",
+    "🗃️ Unorganized/General Notes/Sound.md",
+    "🗃️ Unorganized/General Notes/Music Quantization and Black Body Radiation.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Differences between Islam and Judeo-Christianity.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Islamist factions.md",
@@ -554,7 +545,6 @@
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Judaism.md",
-    "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🤠 Personal/Ideas and References/Maps of Contents.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
@@ -566,9 +556,6 @@
     "🗃️ Unorganized/General Notes/Untitled.md",
     "🗃️ Unorganized/General Notes/Antisemitic Quotes from the Talmud Debunked.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Abrahamic Religions.md",
-    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
-    "🗃️ Unorganized/General Notes/Comparison of Nations.md",
-    "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",

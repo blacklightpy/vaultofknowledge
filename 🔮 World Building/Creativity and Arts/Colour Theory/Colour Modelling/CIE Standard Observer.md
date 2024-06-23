@@ -12,6 +12,7 @@ In summary, the variants are:
 - CIE 1931 $2\degree$ RGB Standard Observer
 - CIE 1931 $2\degree$ XYZ Standard Observer (some sources also cite it as 1932)
 - CIE 1931 $2\degree$ Standard Observer
+- CIE 1964 $10\degree$ Standard Observer
 
 # Derivation
 ## Derivation of the CIE RGB colour matching functions
