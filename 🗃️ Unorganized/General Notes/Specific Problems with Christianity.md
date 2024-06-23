@@ -537,17 +537,26 @@ Things I want to cover
 ### Evil
 - Aisha didn't hit puberty (**Acts 17 Polemics**)
 	- Sunan Abu Dawud 4933
-		- Sunnah.com translation: She breathed at the door, and I laghed. Because meant she menstruated.
+		- Sunnah.com translation: She breathed at the door, and I laughed. Because meant she menstruated.
 		- Darusallam translation: She breathed.
 		- Other translations: She breathed and he laughed.
+- Aisha was playing with dolls right before that
+	- Sunan Abu Dawud 4931-4932
+- Prophet visited her family from the moment she could recall
 	- Sahih al-Bukhari 476 (86)
 		- Darusallam translation: She'd seen her parents following Islam since she hit puberty, and Prophet visited us not a day after.
 		- Translator translation: The word isn't puberty, but "since I could recall".
 		- Aishab Yuli's translation (464): I have no recollection of my parents doing anything but following Islam.
 	- Sahih al-Bukhari 2297
-		- Darusallam translation: 
-- Aisha was playing with dolls right before that
-	- Sunan Abu Dawud 4931-4932
+		- Darusallam translation: Prophet visited us from the moment I could recall.
+
+Sahih al Bukhari 5134 Narrated Aisha:
+
+that the Prophet (ﷺ) married her when she was six years old and he consummated his marriage when she was nine years old. Hisham said: I have been informed that Aisha remained with the Prophet (ﷺ) for nine years (i.e. till his death).
+
+Sahih al Bukhari 6130 Narrated Aisha:
+
+I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for Aisha at that time, as she was a little girl, not yet reached the age of puberty.) (Fath-ul-Bari page 143, Vol.13)
 ### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
 	- https://www.islamweb.net/ar/fatwa/214033 (Arabic)
