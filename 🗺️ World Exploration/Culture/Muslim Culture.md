@@ -93,12 +93,12 @@ The Quran is divided in various ways.
 		- Imam (Lead Scholar, Leads Prayer (Salat))
 		- Scholars (general category)
 			- They memorize Quran, a great deal of ahadeeth, Principles of Jurispudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith)
-		- Mufti (Scholars who are qualified to issue Fatwas of Sharee)
+		- Mufti (Scholars who are qualified to issue Shar'ee verdict (Fatwas))
 			- They have to have 5 qualities of discipline, and be recommended by 70+ scholars.
 		- Maulana (Learned person in India)
 		- Alim (Learned person)
 		- Faqih (Someone who knows how to apply Islam, well versed in Fiqh, and follow a Madhhab)
-		- Sheik (Respected Old Person, student or scholar, or who's above 60, or the head of a village, similar to Maulana)
+		- Sheik (Respected Old Person, student or scholar (in Egypt), or the head of a village, similar to Maulana)
 
 - Rulings
 	- Fatwas (Opinions by Muftis)
