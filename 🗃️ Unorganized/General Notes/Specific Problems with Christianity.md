@@ -550,6 +550,13 @@ Things I want to cover
 	- Sahih al-Bukhari 2297
 		- Darusallam translation: Prophet visited us from the moment I could recall.
 
+- Waiting period for divorce is only three months for girls above menstruating age
+	- Verse 65:4
+	- For Jews, the similar idea (about virginity) was about rape.
+	- For Muslims, this is about divorce.
+
+- Fath al-Bari is ibn Hajar's commentary on al-Bukhari. He's one of the greatest scholars in Islam.
+
 > Sunnah.com
 > 
 > Sahih al Bukhari 5134 Narrated Aisha:
