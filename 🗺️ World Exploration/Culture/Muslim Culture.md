@@ -90,9 +90,13 @@ The Quran is divided in various ways.
 		- Sunnah (Tradition)
 		- Tafsir (Commentary)
 	- People
-		- Imam
-		- Mufti (Scholars)
-		- Maulana (Muslims scholar in India)
+		- Imam (Leader in Prayer (Salat), Scholar)
+			- They memorize Quran, a great deal of ahadeeth, Principles of Jurispudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith)
+		- Mufti (Scholars who are qualified to give Sharee)
+		- Maulana (Learned person in India)
+		- Alim (Learned person)
+		- Faqih (Someone who knows how to apply Islam)
+		- Sheik (Wise old Person, similar to Maulana)
 
 - Rulings
 	- Fatwas (Opinions by Muftis)
