@@ -535,11 +535,19 @@ Things I want to cover
 
 # Immoralities
 ### Evil
-- Aisha didn't hit puberty
+- Aisha didn't hit puberty (**Acts 17 Polemics**)
 	- Sunan Abu Dawud 4933
 		- Sunnah.com translation: She breathed at the door, and I laghed. Because meant she menstruated.
 		- Darusallam translation: She breathed.
 		- Other translations: She breathed and he laughed.
+	- Sahih al-Bukhari 476 (86)
+		- Darusallam translation: She'd seen her parents following Islam since she hit puberty, and Prophet visited us not a day after.
+		- Translator translation: The word isn't puberty, but "since I could recall".
+		- Aishab Yuli's translation (464): I have no recollection of my parents doing anything but following Islam.
+	- Sahih al-Bukhari 2297
+		- Darusallam translation: 
+- Aisha was playing with dolls right before that
+	- Sunan Abu Dawud 4931-4932
 ### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
 	- https://www.islamweb.net/ar/fatwa/214033 (Arabic)
