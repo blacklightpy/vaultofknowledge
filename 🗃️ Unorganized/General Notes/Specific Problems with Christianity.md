@@ -555,6 +555,10 @@ Things I want to cover
 	- For Jews, the similar idea (about virginity) was about rape.
 	- For Muslims, this is about divorce.
 
+- Tafsir on 65:4
+	- Debating whether pre-pubescent girls can be divorced right away, or if one should wait for her to menstruate and then wait three months.
+		- (https://quran.com/ar/65:4/tafsirs/ar-tafsir-al-baghawi)
+
 - Fath al-Bari is ibn Hajar's commentary on al-Bukhari. He's one of the greatest scholars in Islam.
 
 > Sunnah.com
