@@ -351,7 +351,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -448,7 +448,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +465,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md"
               }
             }
           },
@@ -486,7 +486,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -530,10 +530,12 @@
   },
   "active": "a3f182bfaba3eb84",
   "lastOpenFiles": [
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
     "🗃️ Unorganized/General Notes/von Kries transform.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 RGB Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
@@ -554,8 +556,6 @@
     "🗃️ Unorganized/General Notes/Rapid Application Development.md",
     "🗃️ Unorganized/General Notes/Forward Secrecy.md",
     "🗃️ Unorganized/General Notes/FOSS Communications.md",
-    "🗃️ Unorganized/General Notes/Passwordless Login.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
