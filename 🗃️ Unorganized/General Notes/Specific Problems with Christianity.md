@@ -585,7 +585,22 @@ Things I want to cover
 # Detailing Counters
 
 - Aisha's age
-	- "Islamophobes use these arguments to turn Muslims away"
-	- Premise: Libido begins at puberty, at 12, and it peaks at 40 and descends. 
-	- Prophet married his first wife Khadija, who was middle aged only at 25.
+	- **Rhetoric:**"Islamophobes use these arguments to turn Muslims away. They want to paint the idea that prophet was a lustful man."
+	- **Premise: Libido begins at puberty, at 12, and it peaks at 40 and descends.**
+		- Status: Questionable
+	- 1. Prophet married his first wife Khadija, who was aged 40, only at 25.
+	- 2. He only married after she died, after he was 51. Was it for lust then?
+	- 
+
+- Normal person's viewpoint
+	- 1. Mohammed was not a likable person, so that's probably why he didn't get women.
+	- 2. He was 40 (15 years into marriage when he began to preach)
+	- 3. His wife died 9 years later, aged 64 (Year of Sorrow)
+	- He moved to Medina after that, and he gained power
+	- That's where he married 10 new wives
+	- Prophet had sex with slaves (beats)
+	- Prophet had sex with a child (pedophilia)
+	- The child's parents were Muslim (beats the claim that they were from other tribes)
+
+- Aisha's age (50 min video)
 	- Prophet Salallahu Ali Wassalam His Ali Wassalam wife Aisha Ali Wasslam
