@@ -581,3 +581,11 @@ Things I want to cover
 	- 24:3
 # Stupidity in Community
 - StackOverflow is built by Israeli/American Jew, who is openly gay
+
+# Detailing Counters
+
+- Aisha's age
+	- "Islamophobes use these arguments to turn Muslims away"
+	- Premise: Libido begins at puberty, at 12, and it peaks at 40 and descends. 
+	- Prophet married his first wife Khadija, who was middle aged only at 25.
+	- Prophet Salallahu Ali Wassalam His Ali Wassalam wife Aisha Ali Wasslam
