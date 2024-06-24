@@ -628,4 +628,4 @@ Things I want to cover
 	- Same article (Excerpt of a letter sent to the same editor by a police officer)
 		- Man of 84 wanted to marry a 14 year old, and he was invited
 		- He asked why he wants to marry a child
-		- H
+		- He said that his three wives became old, and when a woman gets old, she will be like a rusty car.
