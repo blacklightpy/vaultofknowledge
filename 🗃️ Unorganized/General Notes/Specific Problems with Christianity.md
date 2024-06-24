@@ -598,15 +598,19 @@ Things I want to cover
 	- 2. His first wife was not 16, but was 40.
 		- Khadija was a widow with three children.
 		- She proposed to Mohammed, because he was known for being handsome.
-		- He was
-		- Was it for lust then? (My claim: Neutral)
+		- He was also known for his ethics, and he was chaste and honest person. (Questionable)
+		- He'd never lied, so much that others called him El-Amin (The Trustworthy). (Questionable)
+		- Even his enemies trusted their belongings to him (Questionable).
+		- So it was easy for him to marry any girl he wanted, yet he chose a 40 year old.
+		- Was it for lust then? (My claim: Neutral, beauty is subjective, and could've been skill issue)
+	- 3. When she became an old woman and lost her beauty, he didn't think of marrying another woman (My claim: Neutral, beauty is subjective)
 	- 3. He only married after she died, after he was 51. Was it for lust then?
 	- 4. 
 
 - Normal person's viewpoint
 	- 1. Mohammed was not a likable person, so that's probably why he didn't get women.
 	- 2. He was 40 (15 years into marriage when he began to preach)
-	- 3. His wife died 9 years later, aged 64 (Year of Sorrow)
+	- 3. His wife died 10 years later, aged 65 (Year of Sorrow)
 	- 4. He moved to Medina after that, and he gained power
 	- 5. That's where he married 10 new wives
 	- 6. Prophet had sex with slaves (beats the argument that he was not lustful)
@@ -615,3 +619,13 @@ Things I want to cover
 
 - Aisha's age (50 min video)
 	- **Video Type:** Prophet Salallahu Ali Wassalam His Ali Wassalam wife Aisha Ali Wasslam
+
+- People justifying child marriage
+	- https://luk.staff.ugm.ac.id/kmi/off/XIslam/USA/chap0302.html (Excerpt of a letter sent to Egyptian editor)
+		- Husband's friend liked her 9 year old daughter, and agreed to marry her.
+		- He announced it with great joy.
+		- When she objected, he said, he's following the prophet's example in al-Bukhari.
+	- Same article (Excerpt of a letter sent to the same editor by a police officer)
+		- Man of 84 wanted to marry a 14 year old, and he was invited
+		- He asked why he wants to marry a child
+		- H
