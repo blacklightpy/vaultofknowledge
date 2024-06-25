@@ -716,7 +716,7 @@ Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like p
 	- Dr. Shabir Ally (Canadian?)
 	- Assimal Hakeem (the Arab)
 	- Mufti Menk (Funny looking Arab)
-	- 
+	- Usthad Simsarul Haq Hudavi (Kerala)
 
 - Changing verse contradiction
 	- 
