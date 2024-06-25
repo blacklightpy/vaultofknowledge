@@ -346,7 +346,7 @@
             }
           },
           {
-            "id": "a3f182bfaba3eb84",
+            "id": "daf154b5d6e24c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -359,7 +359,7 @@
             }
           },
           {
-            "id": "3b4f5a44d2267ea4",
+            "id": "f588624c3f9ad944",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -528,12 +528,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3f182bfaba3eb84",
+  "active": "daf154b5d6e24c1c",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Culture/Muslim Culture.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Reforms.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Religions in General (long).md",
+    "🗃️ Unorganized/General Notes/Untitled.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗺️ World Exploration/Culture/Muslim Culture.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Reforms.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 XYZ Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/LMS Colour Space.md",
@@ -554,8 +556,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Judaism.md",
     "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "🤠 Personal/Ideas and References/Maps of Contents.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Graphics and GUI Development/Graphics Libraries.md",
-    "🗃️ Unorganized/General Notes/Rapid Application Development.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
