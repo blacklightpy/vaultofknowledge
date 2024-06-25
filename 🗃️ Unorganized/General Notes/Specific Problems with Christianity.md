@@ -688,3 +688,5 @@ Things I want to cover
 		- Semen is pure because it's unlike urine and faeces
 
 Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like philosophy and exaggerations in trying to read between the lines, which causes some Mufassirun to abandon certain narrations. e.g. Razi's Tafsir (it was said: "It contains anything but Tafsir". But it had interesting explanations.)
+
+- Nikah Mutah was banned by Sunni, not Shia
