@@ -770,6 +770,6 @@ and I remember you know it was interesting to me as I was looking when I first s
 	- You can't believe rape is good, unless you trust what my philosophy says
 
 - Those who want religion are those who are bad
-	- They do bad things
-	- They seek forgiveness
-	- They again blame the innocent
+	- They do bad things, and the guilt weighs upon them
+	- They seek forgiveness, and they find it from God
+	- They again blame the victims again, for not being religious
