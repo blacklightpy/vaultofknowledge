@@ -719,3 +719,6 @@ If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'l
 	- 
 	- 16:101 (When WE change a verse, they say "Mohammed", you are a fabricator. But they don't know.)
 		- Citenoted 2:106, as an example of the slow prohibition of alcohol
+
+- Killing child
+	- https://www.youtube.com/watch?v=yj5ai4SvcX8: See 21:xx in the video (they guy said killing child early will make them go to heaven)
