@@ -658,6 +658,8 @@ Things I want to cover
 			- 12 (discourage?), 16; and 47 (after 2)
 	- Muslims argue on grape wine vs alcohol.
 	- Some think heroin is okay, because it is not explicitly prohibited.
+	- 56:17-19 (non-intoxicating alcohol in heaven)
+	- 47:15 (delicious wine)
 
 - Sin is vital (Allah prefers those who repent rather than are righteous)
 	- Sahih Muslim 2748b, 2749
@@ -672,3 +674,6 @@ Things I want to cover
 		- This is one of the secondary Ahadiths Shias use alongside their four main Ahadith books
 
 
+- Semen is pure
+	- Aisha used to wash scrape off dried semen (Muslim: 288, in Chapter 32 (Ruling on Semen))
+	- 
