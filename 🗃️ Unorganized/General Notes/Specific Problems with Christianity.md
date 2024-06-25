@@ -718,3 +718,4 @@ If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'l
 - Changing verse contradiction
 	- 
 	- 16:101 (When WE change a verse, they say "Mohammed", you are a fabricator. But they don't know.)
+		- Citenoted 2:106, as an example of the slow prohibition of alcohol
