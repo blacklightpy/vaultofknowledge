@@ -714,3 +714,7 @@ If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'l
 	- Zakir Naik (Indian)
 	- Dr. Shabir Ally
 	- Assimal Hakeem (the Arab)
+
+- Changing verse contradiction
+	- 
+	- 16:101 (When WE change a verse, they say "Mohammed", you are a fabricator. But they don't know.)
