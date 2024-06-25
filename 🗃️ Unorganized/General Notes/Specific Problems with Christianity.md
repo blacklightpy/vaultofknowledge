@@ -697,3 +697,8 @@ Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like p
 	- Of course, when it comes to Quran, it's context.
 
 - Muslims believe God is so pure that he cannot possibly become human.
+
+
+Narrative about Aisha **raḍiyata 'llāhu 'anhuma** and I've told this story in the past before about you know an incident that I had with a woman at University of Florida who could not come to terms or grapple with this particular issue of the age of Aisha **raḍiyata 'llāhu 'anhuma** but Allah **Subhanu Wa Ta'ala** blessed her through knowing the person of Aisha **raḍiyata 'llāhu 'anhuma** and had to actually come to Islam through that knowledge of Aisha as a person and actually to name her daughter Aisha once she gave birth to Aisha
+
+If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'llāhu 'anhuma_ gets is more than any women in the lifetime of the Prophet Salallahu alayhi wa sallam and as much as any 
