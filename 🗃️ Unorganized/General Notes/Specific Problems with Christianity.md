@@ -387,6 +387,8 @@ Ibn Kathir (IK), Isfahani (Is), Jalalayn (JJ), Qurtubi (Q), Razi (R), Samarqandi
 Found: IK, JJ, Q, T, K
 To list: Is, R, Sa, Sy, Ts, Z
 
+Tafsirs are written by Mufassir (plural: Mufassirun)
+
 - Madhhab (Schools)
 	- Sunni
 		- Shafi
@@ -666,7 +668,7 @@ Things I want to cover
 	- Riyad as-Salihin 1871, 422
 
 - Using a watermelon is better than hand (masturbation)
-	- Ibn al-Qayyim, an important Hanbali scholar
+	- Ibn al-Qayyim, an important Hanbali scholar, in "Badaʾi al-Fawaʾid"
 
 - Alcohol
 	- Prayers will not be accepted for forty days
@@ -675,5 +677,11 @@ Things I want to cover
 
 
 - Semen is pure
-	- Aisha used to wash scrape off dried semen (Muslim: 288, in Chapter 32 (Ruling on Semen))
-	- 
+	- Aisha used to scrape off dried semen (Muslim: 288, in Chapter 32 (Ruling on Semen))
+	- She used to wash semen off his dress (Muslim: 289b) (Bukhari:229-232 (Chapter 64 (see title), 65 (see title)))
+	- If it was dried, I'd scrape it off my nails, and if it was wet, I'd wash it (Muslim: 290)
+	- They say, for menstrual blood, it had to be washed (Muslim: 291, Bukhari: 277)
+		- So semen, unlike menstrual blood is pure.
+	- Ibn al-Qayyim in "Badaʾi al-Fawaʾid":
+		- Excrement like Suptum, Mucus and Sweat are pure
+		- Semen is pure because it's unlike urine and faeces
