@@ -538,13 +538,19 @@ Things I want to cover
 
 # Immoralities
 ### Evil
-- Aisha didn't hit puberty (**Acts 17 Polemics**)
+- Aisha didn't hit puberty (**Video: Acts 17 Polemics**)
 	- Sunan Abu Dawud 4933
 		- Sunnah.com translation: She breathed at the door, and I laughed. Because meant she menstruated.
 		- Darusallam translation: She breathed.
-		- Other translations: She breathed and he laughed.
+		- Other translations: She said he he (as in, breathed) and he laughed.
+		- Also, "cohabitation"
 - Aisha was playing with dolls right before that
 	- Sunan Abu Dawud 4931-4932
+- Aisha was playing on swings when she was called for consummation
+	- Sunan Abu Dawud 4933-4937
+- Another Hadith
+	- Sahih Muslim 1422a
+		- Sunnah.com: I was playing with my playmates. I said ha ha (as if I was gasping) until my agitation was over.
 - Prophet visited her family from the moment she could recall
 	- Sahih al-Bukhari 476 (86)
 		- Darusallam translation: She'd seen her parents following Islam since she hit puberty, and Prophet visited us not a day after.
@@ -785,3 +791,9 @@ and I remember you know it was interesting to me as I was looking when I first s
 		- Hermaphrodites are said to be cursed.
 		- All of them are to be expelled.
 		- Tomboy can mean any woman who questions authority, or works jobs.
+
+- Chapter 54 of Book of Etiquettes is about Aisha playing with dolls (which are forbidden for adults)
+- Chapter 55 is about Aisha called for consummation of marriage, while playing with swings
+
+- Playing with pigeons is Satanic
+	- Sunan Abu Dawud 4940: Messenger of Allah saw a man chasing a  pigeon and he said: “A devil chasing a she-devil.” (Hasan)
