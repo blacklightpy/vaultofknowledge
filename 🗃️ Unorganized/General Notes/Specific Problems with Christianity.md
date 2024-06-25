@@ -690,3 +690,10 @@ Things I want to cover
 Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like philosophy and exaggerations in trying to read between the lines, which causes some Mufassirun to abandon certain narrations. e.g. Razi's Tafsir (it was said: "It contains anything but Tafsir". But it had interesting explanations.)
 
 - Nikah Mutah was banned by Sunni, not Shia
+
+- Word of God cannot be corrupted
+	- 3:4 (Bible and Torah are the word of God)
+	- 18:27, 6:115 (The word of God cannot be corrupted)
+	- Of course, when it comes to Quran, it's context.
+
+- Muslims believe God is so pure that he cannot possibly become human.
