@@ -768,3 +768,8 @@ and I remember you know it was interesting to me as I was looking when I first s
 	- You cannot believe in lies unless you stop trusting the truth
 	- You can't believe there is an invisible dragon unless you believe in lies
 	- You can't believe rape is good, unless you trust what my philosophy says
+
+- Those who want religion are those who are bad
+	- They do bad things
+	- They seek forgiveness
+	- They again blame the innocent
