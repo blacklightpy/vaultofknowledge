@@ -543,14 +543,18 @@ Things I want to cover
 		- Sunnah.com translation: She breathed at the door, and I laughed. Because meant she menstruated.
 		- Darusallam translation: She breathed.
 		- Other translations: She said he he (as in, breathed) and he laughed.
-		- Also, "cohabitation"
+		- Also, "cohabitation" is a mistranslation of "intercourse".
 - Aisha was playing with dolls right before that
 	- Sunan Abu Dawud 4931-4932
 - Aisha was playing on swings when she was called for consummation
 	- Sunan Abu Dawud 4933-4937
-- Another Hadith
+- More Hadiths
 	- Sahih Muslim 1422a
 		- Sunnah.com: I was playing with my playmates. I said ha ha (as if I was gasping) until my agitation was over.
+	- Sahih Muslim 1422c
+		- Sunnah.com: "he" (instead of "she") - indicating mistranslations
+	- Sahih al-Bukhari 3894
+		- Sunnah.com: I was breathless then. (After playing).
 - Prophet visited her family from the moment she could recall
 	- Sahih al-Bukhari 476 (86)
 		- Darusallam translation: She'd seen her parents following Islam since she hit puberty, and Prophet visited us not a day after.
@@ -797,3 +801,9 @@ and I remember you know it was interesting to me as I was looking when I first s
 
 - Playing with pigeons is Satanic
 	- Sunan Abu Dawud 4940: Messenger of Allah saw a man chasing a  pigeon and he said: “A devil chasing a she-devil.” (Hasan)
+
+- About Mut'a marriage
+	- https://www.al-islam.org/muta-temporary-marriage-islamic-law-sachiko-murata/four-pillars-muta
+
+- 4:117
+	- Hatred of female gods explicitly as idols
