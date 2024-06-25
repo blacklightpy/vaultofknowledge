@@ -486,6 +486,8 @@ Hell, it is even realistic for Christianity.
 		- **Maliki School:** Jizya can be taken from everyone except apostates
 		- **Shafi'i and Hanbali Schools:** Jizya can be taken from Jews, Christians and Zoroastrians (Ahl al-Kitab)
 
+- 9:29 (Take Jizya only from those who were given the Scripture)
+
 This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
 
 He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
@@ -703,7 +705,7 @@ Things I want to cover
 		- Excrement like Suptum, Mucus and Sweat are pure
 		- Semen is pure because it's unlike urine and faeces
 
-Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like philosophy and exaggerations in trying to read between the lines, which causes some Mufassirun to abandon certain narrations. e.g. Razi's Tafsir (it was said: "It contains anything but Tafsir". But it had interesting explanations.)
+Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like philosophy and exaggerations in trying to read between the lines, which causes some Mufassirun to abandon certain narrations. e.g. al-Razi's Tafsir (it was said: "It contains anything but Tafsir". But it had interesting explanations.)
 
 - Nikah Mutah was banned by Sunni, not Shia
 
@@ -759,7 +761,7 @@ Prophet **Salallahu Alayihi Wasallam** character from Quraysh to the Orientalist
 
 and there are numerous ways that we could approach the issue you could approach it and say well look at marriages in the past right and you could say you could point to how unfair the uniqueness of the critique of the prophets **lie some** is in this regard because if you took from Christian tradition or Jewish tradition or completely secular tradition you will find people that were married with much larger age gaps than that of the prophets like some and Aisha **ice all of the ilan** including for example those that that believe that Mariam **Alayhi Al-Salaam** that Mary was married to Joseph and the age gap being almost twice as much as the age gap between the Prophet **like Simon** and Aisha **Radiyat Allahu 'anhuma** and huh with Maria **my audience** that I'm being in her teens and Joseph being in his 80s but that not being a discussion not being an issue to be brought up
 
-and I remember you know it was interesting to me as I was looking when I first started studying the biographies of people and the time of the Prophet **slice them** as a whole and I'll never forget something that actually happened with me and it wasn't in the context of an attack or a discourse I was just reading in the Tabaqat and the Isaba about Abdullah Ibn **Amira Billas**, may Allah be pleased with him and his father and it listed **Amira Billas** and the mother of Abdullah ibn**Amira Billas** as 12 and 10 when Abdullah was born and I went hmm that must be a typo then I realized it wasn't because I started cross-checking all the sources like wait they had twelve-year-old parents back to that could you imagine a twelve-year-old walking around with a child right a 12 year old man and a 10 year old woman walking around in the mess and you'd be like wait what is this that's because human beings looked so decidedly different 1,400 years ago than they do today right and some how are you finding Imam Al-Shafi'i **Rahim Allah** talking about you know a 50 year old grandmother with a 13 year old grandson and you're just like what's going on here how how is this all evolving and cases of law that took place at the time and you
+and I remember you know it was interesting to me as I was looking when I first started studying the biographies of people and the time of the Prophet **slice them** as a whole and I'll never forget something that actually happened with me and it wasn't in the context of an attack or a discourse I was just reading in the Tabaqat and the Isaba about Abdullah Ibn **Amira Billas**, may Allah be pleased with him and his father and it listed **Amira Billas** and the mother of Abdullah ibn **Amira Billas** as 12 and 10 when Abdullah was born and I went hmm that must be a typo then I realized it wasn't because I started cross-checking all the sources like wait they had twelve-year-old parents back to that could you imagine a twelve-year-old walking around with a child right a 12 year old man and a 10 year old woman walking around in the mess and you'd be like wait what is this that's because human beings looked so decidedly different 1,400 years ago than they do today right and some how are you finding Imam Al-Shafi'i **Rahim Allah** talking about you know a 50 year old grandmother with a 13 year old grandson and you're just like what's going on here how how is this all evolving and cases of law that took place at the time and you
 
 
 - Kerala
