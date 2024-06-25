@@ -644,6 +644,7 @@ Things I want to cover
 	- Clearly, the explicit prohibition came in 5, later (16, 47, 4, 5)
 	- al-Bukhari Hadith 2375 (Book 42 (Distribution of Water), Hadith 23)
 		- Hamza was drinking wine. Mohammed went to Hamza and spoke harshly to him. Hamza asked him, aren't you only the slaves of my forefathers? Mohammed went out. This happened before the prohibition of drinking.
+	- One article says prohibition was revealed after Hijrah
 
 - Other verses:
 	- 2:219 (More evil than good)
@@ -668,7 +669,7 @@ Things I want to cover
 	- Riyad as-Salihin 1871, 422
 
 - Using a watermelon is better than hand (masturbation)
-	- Ibn al-Qayyim, an important Hanbali scholar, in "Badaʾi al-Fawaʾid"
+	- Ibn al-Qayyim, an important Hanbali scholar, in "Badaʾi al-Fawaʾid" p.1472
 
 - Alcohol
 	- Prayers will not be accepted for forty days
@@ -685,3 +686,5 @@ Things I want to cover
 	- Ibn al-Qayyim in "Badaʾi al-Fawaʾid":
 		- Excrement like Suptum, Mucus and Sweat are pure
 		- Semen is pure because it's unlike urine and faeces
+
+Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like philosophy and exaggerations in trying to read between the lines, which causes some Mufassirun to abandon certain narrations. e.g. Razi's Tafsir (it was said: "It contains anything but Tafsir". But it had interesting explanations.)
