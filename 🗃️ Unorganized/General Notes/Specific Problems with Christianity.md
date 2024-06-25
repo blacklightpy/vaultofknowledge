@@ -722,3 +722,265 @@ If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'l
 
 - Killing child
 	- https://www.youtube.com/watch?v=yj5ai4SvcX8: See 21:xx in the video (they guy said killing child early will make them go to heaven)
+
+
+
+15 second prayer.
+
+So Alhamdulillah, we've moved into a different I'm set up but I pray that I lost pants on makes it more beneficial it's more conducive to a, classroom environment it is better to have people packed in, and you know
+
+hopefully **Insha Allah Ta'ala**, being regular in some of the classes that we have here but obviously this is a very unique
+
+lecture that we have here tonight. It's it's not one that's in response to any
+
+sort of emergency it's actually one that compliments is meant to compliment the collection that we just released which
+
+**has been in the works for months** **(Alhamdulillal adhfladfh;)** on the age of Aisha **la;jfd;ajfdsa** and the name of
+
+the collection was more than just a number and the idea was to make sure
+
+that we don't only contextualize the age of our I sold the Aisha **afdlhfdfds**
+in
+
+broader context using an interdisciplinary approach as did **Asadullah** along with dr. Brown or looking
+
+1:12
+
+at you know what the definition of a child has been and is today and will be
+
+1:18
+
+in the future but instead to actually reclaim the entire narrative about Aisha
+
+1:23
+
+**daffdafds** and I've told this story in the past before about you know an incident that I had with a woman at
+
+1:30
+
+University of Florida who could not come to terms or grapple with this particular issue of the age of Aisha **afdsfdsafsd** but Allah **Subhanahu WA Ta'ala** blessed her through knowing the person of Aisha **loved the Aloha** and had to
+
+1:43
+
+actually come to Islam through that knowledge of Aisha as a person and actually to name her daughter Aisha once
+
+1:50
+
+she gave birth to Aisha because one thing if you just pay very close attention to if you attend Jamar Altimas
+
+1:56
+
+if you attend Islamic lectures the amount of mentions that **AIsha alfdkhfd;ahdfda**
+
+2:01
+
+ gets is more than any woman in the lifetime of the Prophet **sallallaahu any who has seldom** and as much as any man in
+
+2:08
+
+the lifetime of the Prophet **sallallahu alayhi wa sallam** in fact the last culture that I gave I ended off with a story about Aisha
+
+2:15
+
+**about the Aloha** and because through Aisha we know the **prophet sallallaahu he was selling** through Aisha we know our
+
+2:21
+
+religion through **Aisha shuttle the Aloha Donna** we developed not just a greater appreciation of love for the prophet
+
+2:27
+
+**sallallaahu he was salam** but we actually develop a greater love and appreciation for her and she is our mother and so I
+
+2:34
+
+want you to first and foremost understand that we're talking about your
+
+2:40
+
+mom my mom she is as beloved to us as
+
+2:45
+
+our own biological mothers would be and she is our mother because **allah subhana**
+
+**wa ta'ala** gave her that distinction when he gave that distinction to the wives of the messenger **sallallahu wasallam** and
+
+
+she is our mother and that she is the access that had we not had we would not
+
+3:05
+
+know our religion in the way that we know our religion today can you imagine how much we'd be deprived from were not
+
+3:10
+
+fry **AIsha afdshfdfsdads** an huh and the wisdom of Allah subhana WA Ta'ala in placing a woman like each
+
+3:16
+
+other the Allah Hana and the life of the Prophet sallallaahu ani wa sallam and by extension in our lives through her
+
+3:23
+
+example and through her entrance into the example of the Prophet sallallahu
+
+3:28
+
+alayhi wa sallam so where does the debate about the age of Aisha about the Aloha come into and it's very
+
+3:34
+
+interesting because the Prophet fly sometime caned fourteen hundred and fifty years ago all right so we're
+
+3:41
+
+talking you know centuries ago and over the years there have been different
+
+3:48
+
+attacks on the prophet salallahu alayhi wasalam and obviously there is an agenda behind the attacks on the Prophet peace
+
+3:53
+
+be upon him starting from the time that he lived himself Salalah Hani hua Salaam and as you go through generation after
+
+4:01
+
+generation you see the evolution of those attacks on the person and the character of the prophet salallahu
+
+4:07
+
+alayhi wasalam this particular topic which is a favorite talking point of
+
+4:13
+
+Islamophobes today was not just a minor point or a footnote in the talking
+
+4:20
+
+points of Islamophobes over thirteen centuries it was completely non-existence meaning
+
+4:26
+
+you cannot find in the hundreds and hundreds of books of attacks on the prophet sallallaahu anima Salam's
+
+4:32
+
+character from Quraysh to the Orientalists to the to the early
+
+4:37
+
+European writers on the character of the prophet sallallaahu you assume you cannot find a single attack on this
+
+4:44
+
+particular facet of the prophet sallallaahu our newest cinemas life not one person takes objection to it in fact
+
+4:50
+
+it is not even an item for discussion within the Islamic tradition itself there are no lengthy discourses about
+
+4:57
+
+the age of Aisha the Aloha that exists from an imam al-ghazali or syphilis unbent a Nia so both the defense as well
+
+5:06
+
+as the discourse not necessarily in the context of a defense
+
+5:12
+
+both of those are contemporary issues that have been brought up so when we say not only was this not an issue in the
+
+5:19
+
+time of the prophets like some in the 7th century where Quraysh employed every attack they possibly could on the
+
+5:25
+
+character and the person of the Prophet peace be upon him it was not an issue until the 21st century yet somehow it's
+
+5:32
+
+become the favorite talking point to try to portray the prophet sallallaahu on Eva saw them in a certain way and there
+
+5:37
+
+are numerous ways that we could approach the issue you could approach it and say well look at marriages in the past right
+
+5:43
+
+and you could say you could point to how unfair the uniqueness of the critique of
+
+5:49
+
+the prophets lie some is in this regard because if you took from Christian tradition or Jewish tradition or
+
+5:55
+
+completely secular tradition you will find people that were married with much larger age gaps than that of the
+
+6:01
+
+prophets like some and nice all of the ilan including for example those that that believe that Maria Martinez Salaam
+
+6:08
+
+that Mary was married to Joseph and the age gap being almost twice as much as the age gap between the prophets like
+
+6:14
+
+Simon is all of the law and huh with Maria my audience that I'm being in her teens and Joseph being in his 80s but
+
+6:20
+
+that not being a discussion not being an issue to be brought up and I remember you know it was interesting to me as I
+
+6:26
+
+was looking when I first started studying the biographies of people and the time of the Prophet slice them as a
+
+6:31
+
+whole and I'll never forget something that actually happened with me and it wasn't in the context of an attack or a
+
+6:36
+
+discourse I was just reading in the table thought and the asaba about I'm the love nor I'm
+
+6:41
+
+gonna be Ross may Allah be pleased with him and his father and it listed I'm gonna bring us and the mother of Abdul
+
+6:48
+
+of Muhammad Oz as 12 and 10 when Abdullah was born and I went hmm that
+
+6:54
+
+must be a typo then I realized it wasn't because I started cross-checking all the
+
+6:59
+
+sources like wait they had twelve-year-old parents back to that could you imagine a twelve-year-old
+
+7:06
+
+walking around with a child right a 12 year old man and a 10 year old woman
+
+7:12
+
+walking around in the mess and you'd be like wait what is this that's because human beings looked so decidedly
+
+7:18
+
+different 1,400 years ago than they do today right and some how are you finding
+
+7:23
+
+mama Shafi I don't him a lot talking about you know a 50 year old grandmother with a 13 year old grandson and you're
+
+7:28
+
+just like what's going on here how how is this all evolving and cases of law that took place at the time and you
