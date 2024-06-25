@@ -19,3 +19,5 @@ Ambedkar vs Periyar (EVR): https://qr.ae/ps6lWo
 "all Tamil Brahmins must be killed and all temples and _murtis_ destroyed" - attributed to EVR in audio speech (didn't load) - https://twitter.com/realitycheckind/status/1304106874187309056
 
 **Manuvada**: Advocating for a society governed by "Manu Smriti". Opposition parties accuse each other of Manuvada.
+
+Dravidian-Aryan identity crisis (says it's British manufactured): https://bharatabharati.in/2012/08/27/the-dravidian-identity-crisis-s-aravindan-neelakandan/
