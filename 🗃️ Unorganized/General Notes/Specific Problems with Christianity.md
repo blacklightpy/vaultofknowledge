@@ -698,7 +698,19 @@ Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like p
 
 - Muslims believe God is so pure that he cannot possibly become human.
 
+- Lying is allowed
+	- Jami at-Tirmidhi 1939 (Sahih):
+		- Asma bint Yazid narrated that the Messenger of Allah said: "it is not lawful to lie except in three cases: 
+			- Something the man tells his wife to please her,
+			- To lie during war, and
+			- To lie in order to bring peace between the people."
 
 Narrative about Aisha **raḍiyata 'llāhu 'anhuma** and I've told this story in the past before about you know an incident that I had with a woman at University of Florida who could not come to terms or grapple with this particular issue of the age of Aisha **raḍiyata 'llāhu 'anhuma** but Allah **Subhanu Wa Ta'ala** blessed her through knowing the person of Aisha **raḍiyata 'llāhu 'anhuma** and had to actually come to Islam through that knowledge of Aisha as a person and actually to name her daughter Aisha once she gave birth to Aisha
 
-If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'llāhu 'anhuma_ gets is more than any women in the lifetime of the Prophet Salallahu alayhi wa sallam and as much as any 
+If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'llāhu 'anhuma_ gets is more than any women in the lifetime of the Prophet Salallahu alayhi wa sallam and as much as any man in the lifetime of the Propeht SAW in fact the last lecture that I gave, I ended off with a story about Aisha _raḍiyata 'llāhu 'anhuma_ because through Aisha we know the Prophet SAW through Aisha we know our religion, through Aisha _raḍiyata 'llāhu 'anhuma_ we developed not just a greater appreciation of love for the prophet SAW but we actually develop a greater love and appreciation for her and she is our mother
+
+
+- Preachers
+	- Zakir Naik (Indian)
+	- Dr. Shabir Ally
+	- Assimal Hakeem (the Arab)
