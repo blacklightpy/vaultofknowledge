@@ -632,7 +632,7 @@ Things I want to cover
 
 - Prohibition of Alcohol (to verify)
 	- Alcohol was sign from Allah. Then it changed after drunk Hamza insulted Mohammed as his family slave.
-	- 16:67 Intoxication used to be amongst signs from Allah
+	- 16:67 Intoxication used to be among the signs from Allah
 	- 47:15 (Wine will be a reward in paradise)
 	- 4:43 (The companions used to drink it)
 	- 5:90-91 (Alcohol is from Satan)
@@ -650,6 +650,12 @@ Things I want to cover
 	- 12:36
 	- 12:41
 	- Tafsir Ibn Kathir (IK) on 2:219-220 says the prohibition was gradual to convince them.
+	- Three step prohibition
+		- 1. Discourage (2)
+		- 2. Don't do prayers (4)
+		- 3. Full prohibition (5)
+		- Pre-Prohibition
+			- 12 (discourage?), 16; and 47 (after 2)
 	- Muslims argue on grape wine vs alcohol.
 	- Some think heroin is okay, because it is not explicitly prohibited.
 
@@ -657,6 +663,12 @@ Things I want to cover
 	- Sahih Muslim 2748b, 2749
 	- Riyad as-Salihin 1871, 422
 
-- 
+- Using a watermelon is better than hand (masturbation)
+	- Ibn al-Qayyim, an important Hanbali scholar
+
+- Alcohol
+	- Prayers will not be accepted for forty days
+		- According to Bihar al-Anwar, vol. 63, p. 488. (Ahadith by Shia scholar Muhammad Baqir Majlisi)
+		- This is one of the secondary Ahadiths Shias use alongside their four main Ahadith books
 
 
