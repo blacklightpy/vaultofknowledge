@@ -13,3 +13,5 @@ Ambedkar vs Periyar (EVR): https://qr.ae/ps6lWo
 - EVR didn't condemn when upper caste Dravidians killed Dalits
 - Ambedkar supported Jews and Israel
 - EVR hated Jews and justified antisemitic hatred drawing parallels to Brahmins who cared about themselves only
+
+"If you meet a Snake and a Brahmin, kill the Brahmin" (was not quoted by EVR directly, he quoted that Beverly Nicholas said it. It was kind of an adage at the time, but he didn't invent it.)
