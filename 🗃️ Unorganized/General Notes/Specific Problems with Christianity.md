@@ -635,7 +635,13 @@ Things I want to cover
 	- 16:67 Intoxication used to be amongst signs from Allah
 	- 47:15 (Wine will be a reward in paradise)
 	- 4:43 (The companions used to drink it)
-	- Order of Quran Revelation: 
+	- 5:90-91 (Alcohol is from Satan)
+	- Order of Quran Revelation:
+		- Mecca: 12 (53), 16 (70)
+		- Medina: 2 (87), 47 (90), 4 (92), 5 (112)
+	- Clearly, the explicit prohibition came in 5, later (16, 47, 4, 5)
+	- al-Bukhari Hadith 2375 (Book 42 (Distribution of Water), Hadith 23)
+		- Hamza was drinking wine. Mohammed went to Hamza and spoke harshly to him. Hamza asked him, aren't you only the slaves of my forefathers? Mohammed went out. This happened before the prohibition of drinking.
 
 - Other verses:
 	- 2:219 (More evil than good)
@@ -646,3 +652,11 @@ Things I want to cover
 	- Tafsir Ibn Kathir (IK) on 2:219-220 says the prohibition was gradual to convince them.
 	- Muslims argue on grape wine vs alcohol.
 	- Some think heroin is okay, because it is not explicitly prohibited.
+
+- Sin is vital (Allah prefers those who repent rather than are righteous)
+	- Sahih Muslim 2748b, 2749
+	- Riyad as-Salihin 1871, 422
+
+- 
+
+
