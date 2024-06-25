@@ -640,5 +640,9 @@ Things I want to cover
 - Other verses:
 	- 2:219 (More evil than good)
 	- 4:43 (Don't go to prayer while drunk)
-	- 5:90 (Alchol is from Satan)
-	- Tafsir Ibn Kathir says the prohibition was gradual to convince them.
+	- 5:90-91 (Alchol is from Satan)
+	- 12:36
+	- 12:41
+	- Tafsir Ibn Kathir (IK) on 2:219-220 says the prohibition was gradual to convince them.
+	- Muslims argue on grape wine vs alcohol.
+	- Some think heroin is okay, because it is not explicitly prohibited.
