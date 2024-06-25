@@ -11,4 +11,5 @@ Ambedkar vs Periyar (EVR): https://qr.ae/ps6lWo
 - Ambedkar loved Sanskrit
 - Ambedkar didn't whitewash Moplah massacre by Muslims against Hindus (though they were upper caste)
 - EVR didn't condemn when upper caste Dravidians killed Dalits
-- Ambedkar supported Jews
+- Ambedkar supported Jews and Israel
+- EVR hated Jews and justified antisemitic hatred drawing parallels to Brahmins who cared about themselves only
