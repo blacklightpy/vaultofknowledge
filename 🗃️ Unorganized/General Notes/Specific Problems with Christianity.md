@@ -583,6 +583,7 @@ Things I want to cover
 	- 24:3
 # Stupidity in Community
 - StackOverflow is built by Israeli/American Jew, who is openly gay
+- Well, Google search, and most of the web too is built by Jews and Americans. Alan Turing was gay.
 
 # Detailing Counters
 
@@ -635,6 +636,7 @@ Things I want to cover
 		- He asked why he wants to marry a child
 		- He said that his three wives became old, and when a woman gets old, she will be like a rusty car.
 
+# More Stupidities
 - Prohibition of Alcohol (to verify)
 	- Alcohol was sign from Allah. Then it changed after drunk Hamza insulted Mohammed as his family slave.
 	- 16:67 Intoxication used to be among the signs from Allah
@@ -701,17 +703,12 @@ Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like p
 
 - Muslims believe God is so pure that he cannot possibly become human.
 
-- Lying is allowed
+- Lying is allowed (Taqiyya)
 	- Jami at-Tirmidhi 1939 (Sahih):
 		- Asma bint Yazid narrated that the Messenger of Allah said: "it is not lawful to lie except in three cases: 
 			- Something the man tells his wife to please her,
 			- To lie during war, and
 			- To lie in order to bring peace between the people."
-
-Narrative about Aisha **raḍiyata 'llāhu 'anhuma** and I've told this story in the past before about you know an incident that I had with a woman at University of Florida who could not come to terms or grapple with this particular issue of the age of Aisha **raḍiyata 'llāhu 'anhuma** but Allah **Subhanu Wa Ta'ala** blessed her through knowing the person of Aisha **raḍiyata 'llāhu 'anhuma** and had to actually come to Islam through that knowledge of Aisha as a person and actually to name her daughter Aisha once she gave birth to Aisha
-
-If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'llāhu 'anhuma_ gets is more than any women in the lifetime of the Prophet Salallahu alayhi wa sallam and as much as any man in the lifetime of the Propeht SAW in fact the last lecture that I gave, I ended off with a story about Aisha _raḍiyata 'llāhu 'anhuma_ because through Aisha we know the Prophet SAW through Aisha we know our religion, through Aisha _raḍiyata 'llāhu 'anhuma_ we developed not just a greater appreciation of love for the prophet SAW but we actually develop a greater love and appreciation for her and she is our mother
-
 
 - Preachers
 	- Zakir Naik (Indian)
@@ -726,18 +723,18 @@ If you attend Islamic lectures, the amount of mentions that Aisha _raḍiyata 'l
 - Killing child
 	- https://www.youtube.com/watch?v=yj5ai4SvcX8: See 21:xx in the video (they guy said killing child early will make them go to heaven)
 
-
-
+# Prayer Mixed Speech
 **15 second prayer**
 **dafasfd**
 **adfafdsdas**
 
 So **Alhamdulillah**, we've moved into a different I'm set up but I pray that **Allah SWT** makes it more beneficial it's more conducive to a, classroom environment it is better to have people packed in, and you know hopefully **Insha Allah Ta'ala**, being regular in some of the classes that we have here but obviously this is a very unique lecture that we have here tonight. 
 
-It's it's not one that's in response to any sort of emergency it's actually one that compliments is meant to compliment the collection that we just released which **has been in the works for months** **(Alhamdulilla Rabb Ul Aal Ameen)** on the age of Aisha **Radiyat Allahu 'anhuma** and the name of the collection was more than just a number and the idea was to make sure that we don't only contextualize the age of our I sold the Aisha **Radiyat Allahu 'anhuma** in broader context using an 
+It's it's not one that's in response to any sort of emergency it's actually one that compliments is meant to compliment the collection that we just released which **has been in the works for months** **(Alhamdulilla Rabb Ul Aal Ameen)** on the age of Aisha **Radiyat Allahu 'anhuma** and the name of the collection was more than just a number and the idea was to make sure that we don't only contextualize the age of Aisha **Radiyat Allahu 'anhuma** in broader context using an interdisciplinary approach as did Azudallah along with Dr. Brown or looking at you know what the definition of a child has been and is today and will be in the future but instead to actually reclaim the entire narrative about Aisha **Radiyat Allahu 'anhuma**.
 
+And I've told this story in the past before about you know an incident that I had with a woman at University of Florida who could not come to terms or grapple with this particular issue of the age of Aisha **Radiyat Allahu 'anhuma** but Allah **Subhanahu Wa Ta'ala** blessed her through knowing the person of Aisha **Radiyat Allahu 'anhuma** and had to actually come to Islam through that knowledge of Aisha as a person and actually to name her daughter Aisha once she gave birth to Aisha.
 
-interdisciplinary approach as did Azudallah along with Dr. Brown or looking at you know what the definition of a child has been and is today and will be in the future but instead to actually reclaim the entire narrative about Aisha **daffdafds** and I've told this story in the past before about you know an incident that I had with a woman at University of Florida who could not come to terms or grapple with this particular issue of the age of Aisha **Radiyat Allahu 'anhuma** but Allah **Subhanahu Wa Ta'ala** blessed her through knowing the person of Aisha **loved the Aloha** and had to actually come to Islam through that knowledge of Aisha as a person and actually to name her daughter Aisha once she gave birth to Aisha because one thing if you just pay very close attention to if you attend Jamar Altimas if you attend Islamic lectures the amount of mentions that AIsha **Radiyat Allahu 'anhuma** gets is more than any woman in the lifetime of the Prophet **sallallaahu any who has seldom** and as much as any man in the lifetime of the Prophet **sallallahu alayhi wa sallam** in fact the last culture that I gave I ended off 
+Because one thing if you just pay very close attention to if you attend Jamar Altimas if you attend Islamic lectures the amount of mentions that AIsha **Radiyat Allahu 'anhuma** gets is more than any woman in the lifetime of the Prophet **sallallaahu any who has seldom** and as much as any man in the lifetime of the Prophet **Sallallahu Alayhi Wa-sallam** in fact the last culture that I gave I ended off 
 
 
 with a story about Aisha **Radiyat Allahu 'anhuma** and because through Aisha we know the **prophet sallallaahu he was selling** through Aisha we know our religion through Aisha **Radiyat Allahu 'anhuma** we developed not just a greater appreciation of love for the prophet **sallallaahu he was salam** but we actually develop a greater love and appreciation for her and she is our mother and so I want you to first and foremost understand that we're talking about your mom my mom she is as beloved to us as our own biological mothers would be and she is our mother because **allah subhana** **wa ta'ala** gave her that distinction when he gave that distinction to the wives of the messenger **sallallahu wasallam** and she is our mother and that she is the access that had we not had we would not know our religion in the way that we know our religion today can you imagine how much we'd be deprived from were not for Aisha **Radiyat Allahu 'anhuma** an huh and the wisdom of Allah **subhana WA Ta'ala** in placing a woman like each Aisha **Radiyat Allahu 'anhuma** in the life of the Prophet **sallallaahu ani wa sallam** and by extension in our lives through her example and through her entrance into the example of the Prophet **sallallahu** **alayhi wa sallam** so where does the debate about the age of Aisha **Radiyat Allahu 'anhuma** come into and it's very interesting 
