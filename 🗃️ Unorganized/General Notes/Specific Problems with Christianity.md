@@ -773,3 +773,15 @@ and I remember you know it was interesting to me as I was looking when I first s
 	- They do bad things, and the guilt weighs upon them
 	- They seek forgiveness, and they find it from God
 	- They again blame the victims again, for not being religious
+
+- Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
+	- Sunan Abu Dawud 4928-4931
+		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Daif)
+		- Expel them from homes
+	- Verdict:
+		- The hadith on not killing effeminate men is weak
+		- But that on expulsion of hermaphrodites, effeminate men and tomboys are sahih.
+		- So effeminate men are not safe.
+		- Hermaphrodites are said to be cursed.
+		- All of them are to be expelled.
+		- Tomboy can mean any woman who questions authority, or works jobs.
