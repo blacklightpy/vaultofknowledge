@@ -763,6 +763,9 @@ and there are numerous ways that we could approach the issue you could approach 
 
 and I remember you know it was interesting to me as I was looking when I first started studying the biographies of people and the time of the Prophet **Salallahu Alayihi Wasallam** as a whole and I'll never forget something that actually happened with me and it wasn't in the context of an attack or a discourse I was just reading in the Tabaqat and the Isaba about Abd Allah Ibn Amir ibn Al Aas, **May Allah Be Pleased With Him And His Father** and it listed Amir ibn Al Aas and the mother of Abd Allah ibn Amir ibn Al Aas as 12 and 10 when Abd Allah was born and I went hmm that must be a typo then I realized it wasn't because I started cross-checking all the sources like wait they had twelve-year-old parents back to that could you imagine a twelve-year-old walking around with a child right a 12 year old man and a 10 year old woman walking around in the mess and you'd be like wait what is this that's because human beings looked so decidedly different 1,400 years ago than they do today right and some how are you finding Imam Al-Shafi'i **Rahim Allah** talking about you know a 50 year old grandmother with a 13 year old grandson and you're just like what's going on here how how is this all evolving and cases of law that took place at the time and you 
 
+Max: 36% honorific.
+Avg: 15% honorific.
+
 
 - Kerala
 	- 7 Preachers: https://www.opindia.com/2021/11/kerala-highest-literacy-state-islamic-preachers-making-absurd-utterances/
