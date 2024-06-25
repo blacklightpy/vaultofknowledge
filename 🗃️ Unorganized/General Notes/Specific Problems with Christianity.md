@@ -629,3 +629,16 @@ Things I want to cover
 		- Man of 84 wanted to marry a 14 year old, and he was invited
 		- He asked why he wants to marry a child
 		- He said that his three wives became old, and when a woman gets old, she will be like a rusty car.
+
+- Prohibition of Alcohol (to verify)
+	- Alcohol was sign from Allah. Then it changed after drunk Hamza insulted Mohammed as his family slave.
+	- 16:67 Intoxication used to be amongst signs from Allah
+	- 47:15 (Wine will be a reward in paradise)
+	- 4:43 (The companions used to drink it)
+	- Order of Quran Revelation: 
+
+- Other verses:
+	- 2:219 (More evil than good)
+	- 4:43 (Don't go to prayer while drunk)
+	- 5:90 (Alchol is from Satan)
+	- Tafsir Ibn Kathir says the prohibition was gradual to convince them.

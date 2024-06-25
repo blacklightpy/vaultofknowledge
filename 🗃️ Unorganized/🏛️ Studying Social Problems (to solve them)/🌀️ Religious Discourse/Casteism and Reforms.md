@@ -1,6 +1,5 @@
 Ambedkar vs Periyar (EVR): https://qr.ae/ps6lWo
 
-
 - Ambedkar was pro-Dalit
 - EVR didn't care as much
 - EVR believed in Dravidian-Aryan divide
@@ -14,10 +13,13 @@ Ambedkar vs Periyar (EVR): https://qr.ae/ps6lWo
 - Ambedkar supported Jews and Israel
 - EVR hated Jews and justified antisemitic hatred drawing parallels to Brahmins who cared about themselves only
 
-"If you meet a Snake and a Brahmin, kill the Brahmin" (was not quoted by EVR directly, he quoted that Beverly Nicholas said it. It was kind of an adage at the time, but he didn't invent it.)
+**Anti-Periyar:**
+- "If you meet a Snake and a Brahmin, kill the Brahmin" (was not quoted by EVR directly, he quoted that Beverly Nicholas said it. It was kind of an adage at the time, but he didn't invent it.)
+- "all Tamil Brahmins must be killed and all temples and _murtis_ destroyed" - attributed to EVR in audio speech (didn't load) - https://twitter.com/realitycheckind/status/1304106874187309056
+- **Manuvada**: Advocating for a society governed by "Manu Smriti". Opposition parties accuse each other of Manuvada.
+- Dravidian-Aryan identity crisis (says it's British manufactured): https://bharatabharati.in/2012/08/27/the-dravidian-identity-crisis-s-aravindan-neelakandan/
 
-"all Tamil Brahmins must be killed and all temples and _murtis_ destroyed" - attributed to EVR in audio speech (didn't load) - https://twitter.com/realitycheckind/status/1304106874187309056
+**Pro-Periyar:**
+- In support of Periyar alongside Ambedkar (good, detailed): https://www.quora.com/Why-do-Tamil-Brahmins-accept-Ambedkar-reject-Periyar/answer/Pavel-S-32
 
-**Manuvada**: Advocating for a society governed by "Manu Smriti". Opposition parties accuse each other of Manuvada.
-
-Dravidian-Aryan identity crisis (says it's British manufactured): https://bharatabharati.in/2012/08/27/the-dravidian-identity-crisis-s-aravindan-neelakandan/
+Takeaways: Periyar was an atheist.
