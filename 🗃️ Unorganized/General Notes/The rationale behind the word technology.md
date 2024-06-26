@@ -10,7 +10,7 @@ It refers to applying scientific knowledge, to create fun works.
 
 
 
-
+#rough 
 Jews, have an unwritten, and unspoken word of god.
 And we can recognize that.
 

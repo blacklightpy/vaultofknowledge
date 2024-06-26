@@ -20,7 +20,7 @@ By the time GNU was done with the out of kernel parts, Linus Torvalds had develo
 
 This specific combination of a set of userland utilities packages with the Linux kernel is what forms a GNU/Linux system, contrasted with a BSD system. Since although Alpine replaces GNU glibc and GNU coreutils, musl and Toybox are still an alternative userland, paired with the Linux kernel. For this reason, the nature of the system is GNU/Linux.
 
-To say otherwise would be to say that
+To say otherwise would be to say that #incomplete
 
 It is as correct as when we say 
 JCB to mean

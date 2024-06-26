@@ -14,4 +14,4 @@ So, every network is like this, but may have different [[Network Topologies|topo
 
 So we could only form a "global internet" by connecting to a standard network. The WWW was thus the standard by which countries established network routers to form local Internet Service Providers (ISP).
 
-While these networks can only be used 
+While these networks can only be used #incomplete
