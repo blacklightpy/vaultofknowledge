@@ -229,19 +229,6 @@
             }
           },
           {
-            "id": "cc0c2a0ad9b7233e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6f25ea3811df36d",
             "type": "leaf",
             "state": {
@@ -359,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -434,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
+                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,7 +438,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md"
+                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md"
               }
             }
           },
@@ -472,7 +459,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
+                "file": "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -514,11 +501,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc0c2a0ad9b7233e",
+  "active": "48e6e120806556b7",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Who should not be killed - for religious people's knowledge.md",
+    "🗃️ Unorganized/General Notes/Missing Courses.md",
+    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
+    "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
+    "🗃️ Unorganized/General Notes/Comparison of Nations.md",
     "🗃️ Unorganized/General Notes/How to create anything.md",
-    "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
     "🗃️ Unorganized/General Notes/The Illusion of a Global Network.md",
+    "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
     "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
     "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
@@ -537,11 +529,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/CIE Standard Observer.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 RGB Colour Space.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Luminosity Functions.md",
-    "🔮 World Building/Science and Engineering/Biology/Colour Perception.md",
-    "🗃️ Unorganized/General Notes/Sound Perception.md",
-    "🗃️ Unorganized/General Notes/Sound.md",
-    "🗃️ Unorganized/General Notes/Music Quantization and Black Body Radiation.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Differences between Islam and Judeo-Christianity.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",

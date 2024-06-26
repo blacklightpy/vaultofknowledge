@@ -158,7 +158,7 @@ But then Muslims are like, but we are perfect!.
 	- Why:
 		- Kidnapped Israelis
 
-- 2017: PA cut salaries in Gaze
+- 2017: PA cut salaries in Gaza
 - 2018 Qatar Funded Hamas
 	- Israel under Netanyahu approved it to destabilize PA
 	- PA had disapproved of the funding
