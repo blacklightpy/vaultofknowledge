@@ -993,3 +993,22 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Just think of it, if someone else went through such levels of gymnastics to point at the truth, what would you think of them? There could be truth in case of one event, but several such instances? And that, while the effects of it continue to happen from other people who claim to be on the same cause?
 
 
+- Ramadan feasting
+
+- **Claim:** Do you work focused on reward? No, you work with the promise of a reward.
+	- **My claim:** No, you work because you want to make the world according to our desires.
+		- You are paid when you work to build the world according to someone else's plans.
+		- If you're working for your plans, you will have to spend effort from your side.
+		- After all, money is just "Proof of Work". Proof, for what?
+		- If people were doing their own part for the community, currency would be unnecessary.
+		- Of course, it is necessary assuming some people are lazy.
+		- But the truth is, what seems lazy to some people is not always the same thing.
+		- Artists may seem lazy to other people, but in reality, their mind is just less cloudy.
+		- And the society needs both artist
+
+
+
+
+
+
+
