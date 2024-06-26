@@ -106,38 +106,58 @@ Read these truly:
 	- **Propaganda:** Some things are more reasonable than questionable, but they add to the number of things.
 ### Numbers
 - 9. Kill strangers close to a church (Num 1:48-51)
-	- **Quotation:** Misleading
+	- **Quotation Validity:** Misleading
 	- **Explanation:** It refers to someone who's not a priest approaching the tabernacle (house of God)
 	- **Propaganda:** Misleading people, and adding to number of points.
 - 10. Kill those who worship the wrong god (Num 25:1-9)
-	- **Quotation:** Misleading
-	- **Explanation:** A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
-	- **Propaganda:** Misleading people, and adding to number of points.
+	- **Quotation Validity:** Exact (yet misleading in context)
+	- **Explanation:** A plague was in Israel, and it was said to be due to worshiping other gods. Killing stopped the plague.
+	- **Propaganda:** Misleading people by not giving context, and adding to number of points.
 ### Deuteronomy
 - 11. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
+	- **Quotation Validity:** Exact
 	- **Quran Hypocrisy:** Same in Quran 2:54
 - 12. Kill all males after winning battles (Dt 20:13)
 	- **Duplicate Verse:** Kill all non-Hebrews (Dt 20:16-17)
 		- **Exact Quotation (NIV):** "However, in the cities of the nations the Lord your God is giving you as an inheritance, do not leave alive anything that breathes. Completely destroy them—the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites—as the Lord your God has commanded you."
-	- **Explanation:** It's the Exodus story, and they had offered to not kill people first, but they wanted the land.
+	- **Quotation Validity:** Exact
+	- **Explanation:** It's the well known Exodus story, and they had offered to not kill people first, but they wanted the land.
 	- **Quran Hypocrisy:** Same applies in Islam (Quran and Sunnah, even beyond the Exodus story)
 - 13. Kill children who disobey parents (Dt 21:20)
 	- **Duplicate Verse:** SAME as 1
+	- **Quotation Validity:** Exact
+	- **Propaganda:** Duplicated the same idea three times, as separate points.
 - 14. Kill any bride discovered not a virgin (Dt 22:21)
+	- **Quotation Validity:** Exact
 ### 1 Samuel
 - 15. Kill the curious (1 Sam 6:19-20)
-	- Truth: They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
+	- **Quotation Validity:** False
+	- **Explanation:** They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
+	- **Propaganda:** Misleading people, and adding to the number of points.
 ### 2 Chronicles
 - 16. Kill nonbelievers (2 Chron 15:12-13)
-	- It was under King Asa, and was only for those who want to stay in Jerusalem during a reform period.
+	- **Quotation Validity:** Exact (yet misleading)
+	- **Explanation:** It was under King Asa, and was only for those who want to stay in Jerusalem during a reform period.
+	- **Propaganda:** Ignoring context.
 ### Isaiah
 - 17. Kill sons of sinners (Isaiah 14:21)
-	- Isaiah is making a mock song about the Babylonian king, who's own people will kill his sons to destroy his lineage.
+	- **Quotation Validity:** Misleading
+	- **Explanation:** Isaiah is making a mock song about the Babylonian king, who's own people will kill his sons to destroy his lineage.
+	- **Propaganda:** It was a diss track, yet it was shown as a commandment.
 ### Ezekiel
 - 18. Kill anyone who sins (Ezek 18:4)
-	- Truth: God said all the souls who sins will die
+	- **Quotation Validity:** False
+	- **Explanation:** God said all the souls who sins will die
+	- **Propaganda:** Outright lies, and adding to number of points.
 ### Zecheriah
 - 19. Kill false prophets (Zech 13:3)
+	- **Quotation Validity:** True (yet misleading)
+	- **Propaganda:** False prophets won't be killed on spot unlike Muslims do, they would ask them to stop lying first. Prophecy was considered import
+
+In essence, the verses harmful to Jews are:
+- 
+The verses harmful to non-Jews are:
+- 
 
 ## Notes on where and how the laws apply
 Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
