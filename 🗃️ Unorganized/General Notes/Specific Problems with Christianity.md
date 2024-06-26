@@ -986,7 +986,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 - Extras
 	- Point out we hate Islam (the idea), not Muslims (the humans)
-	- Point out we do not want to shame Prophet, we just want to 
+	- Point out that when we talk about Mohammed's marriage with Aisha, we do not want to shame him, we just want to point out it was a medieval practice, not ideal for today's world. There is no element of shame, but rather, it is a practice that has bad consequences.
 
 
 
