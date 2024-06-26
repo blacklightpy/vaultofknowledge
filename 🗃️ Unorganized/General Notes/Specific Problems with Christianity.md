@@ -851,3 +851,6 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- Hatred of female gods explicitly as idols
 
 - Instead of improving from history, these idiots follow it.
+
+
+- Dirty well water is holy
