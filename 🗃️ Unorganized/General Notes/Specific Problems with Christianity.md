@@ -966,3 +966,29 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 - Master List: https://old.reddit.com/r/exmuslim/comments/1950w67/trying_to_educate_a_tiktok_kid_on_islam_is_torture/
 
+- Analogy: consider a cult that sacrifices children
+	- We only have a problem with child sacrifice
+	- So we would want you to renounce child sacrifices
+	- But if you say child sacrifice is part of our religion, then we have no choice but to criticize the whole religion
+	- But our focus is always on the child sacrifice part
+	- We do not care if you do a 1000 good things, that is no justification for you to do evil
+	- Other people may not do 1000 good things, but they don't do evil either
+	- At least, those who do evil would be doing evil, not doing it in the name of God
+
+- Strategy
+	- Educate Muslims on Islam
+		- The four sources of Shari'ah
+		- The type of people
+		- The types of texts
+	- Start with logical fallacies
+	- Then demonstrate evils
+	- Then fill up other logical fallacies
+
+- Extras
+	- Point out we hate Islam (the idea), not Muslims (the humans)
+	- Point out we do not want to shame Prophet, we just want to 
+
+
+
+
+
