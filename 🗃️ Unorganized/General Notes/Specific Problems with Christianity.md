@@ -639,6 +639,17 @@ Things I want to cover
 - Aisha's age (50 min video)
 	- **Video Type:** Prophet Salallahu Ali Wassalam His Ali Wassalam wife Aisha Ali Wasslam
 
+- Claim that Aisha was older: https://old.reddit.com/r/islam/comments/tptmn/the_ages_of_asma_bint_abi_bakr_and_aisha_bint_abi/
+	- It's from non-Sahih Hadith like Tafsir Ibn Kathir
+- Other claim, by Yaqeen Institute: https://yaqeeninstitute.org/tag/more-than-just-a-number-perspectives-on-the-age-of-aisha-ra (Papers, Video Collections, Infographic)
+- Others claim Bukhari isn't reliable - but that's a shortly held opinion
+
+- I'm not trying to shame Mohammed, I'm just proving that it is just the way of a medieval tribe.
+- I do not find shame in pedophilia, I only find that it is wrong, as the child is not mature.
+- I do not believe in punishing those who do wrong, only correcting them.
+- Retributive Justice culture is a Middle Eastern problem.
+- **My problem is with people bringing the medieval ways to the 21st century.**
+
 - People justifying child marriage
 	- https://luk.staff.ugm.ac.id/kmi/off/XIslam/USA/chap0302.html (Excerpt of a letter sent to Egyptian editor)
 		- Husband's friend liked her 9 year old daughter, and agreed to marry her.
