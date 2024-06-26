@@ -176,15 +176,9 @@ In essence, the commandments harmful to Jews are:
 - 12. Kill any bride discovered not a virgin (Dt 22:21)
 
 The verses harmful to non-Jews are:
-- 1. Kill all males after winning battles (Dt 20:13)
+- 1. Kill all males after winning battles (Dt 20:13) [In the Exodus story]
 	- Kill all non-Hebrews (Dt 20:16-17)
-### Deuterono
-- 13. Kill children who disobey parents (Dt 21:20)
-	- **Duplicate Verse:** SAME as 1
-	- **Quotation Validity:** Exact
-	- **Propaganda:** Duplicated the same idea three times, as separate points.
-- 14. Kill any bride discovered not a virgin (Dt 22:21)
-	- **Quotation Validity:** Exact
+
 ### 1 Samuel
 - 15. Kill the curious (1 Sam 6:19-20)
 	- **Quotation Validity:** False
@@ -957,3 +951,8 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Sarah Haider (ex-Muslim)
 	- Islam is a sexist religion
 	- Islam is very political
+
+
+
+- **What Muslims see:** They are a bunch of mu'tazillas (deviants)
+	- **What we see:** Bunch of crazy followers of Mohammed
