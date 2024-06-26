@@ -24,3 +24,4 @@ Any method of thinking that automates a specific system is called an abstraction
 ## Example 3: Operating Systems
 ## Example 4: Politics
 
+#incomplete

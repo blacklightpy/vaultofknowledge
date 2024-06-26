@@ -20,3 +20,4 @@ They think of a woman, who is a person, as nothing more than property, and furth
 They are total fools who do not understand context, and their brains cannot bend enough to understand complex concepts, including matters of human relationships.
 # 3. If someone leaves a religion, they should not be killed
 
+#incomplete 
