@@ -997,14 +997,33 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 - **Claim:** Do you work focused on reward? No, you work with the promise of a reward.
 	- **My claim:** No, you work because you want to make the world according to our desires.
-		- You are paid when you work to build the world according to someone else's plans.
+		- **You are paid when you work to build the world according to someone else's plans.**
 		- If you're working for your plans, you will have to spend effort from your side.
-		- After all, money is just "Proof of Work". Proof, for what?
+		- **After all, money is just "Proof of Work". Proof, for what?**
 		- If people were doing their own part for the community, currency would be unnecessary.
-		- Of course, it is necessary assuming some people are lazy.
+		- **Of course, it is necessary assuming some people are lazy.**
 		- But the truth is, what seems lazy to some people is not always the same thing.
-		- Artists may seem lazy to other people, but in reality, their mind is just less cloudy.
-		- And the society needs both artist
+		- Artists may seem lazy to other people, but in reality, their minds are just less cloudy.
+		- And the society needs both artists and developers.
+		- **Also, it is forgotten that with automation, many forms of work will be replaced.**
+		- But with religion, one is not motivated to think in this manner, as you will be rewarded in paradise.
+		- As for non-religious people, their reward is the fruit of their labour, how they shape the world.
+		- Of course, one may be cheated upon. But much of that is part of God's tests.
+			- Surely, you did not suffer as much as many others who you see suffering.
+			- And many a times, the people who virtue signal cry more than the people they say are suffering.
+			- Many people have suffered in life, but virtue signalers don't think that they've gone through that too.
+			- They press people to give up their comforts, without giving them a reason to do so.
+			- Everyone really wants to live in a world of adventure, not live minimally.
+			- But the virtue signalers take on the world's suffering and discard their humanity.
+			- In discarding their humanity, and being machine like, they become unrelatable to other humans.
+			- So everyone hates them, because they think they've become dull by pretending to be morally superior.
+		- My point is that, if you make the world a better place, paradise is in of itself.
+			- But of course, religious people have come up with various explanations to hate the "world"
+				- Example: "Satan controls the world", "The world is a test"
+				- The primary reason for this is, they needed some way to explain away unreasonable sorrows
+				- They can't trust how God would want to test us if there was no heaven afterwards
+				- And they can't trust the atheist explanation of "it is like that" (even I agree with that)
+				- 
 
 
 
