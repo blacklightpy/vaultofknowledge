@@ -828,3 +828,5 @@ Avg: 15% honorific.
 
 - 4:117
 	- Hatred of female gods explicitly as idols
+
+- Instead of improving from history, these idiots follow it.
