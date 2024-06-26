@@ -859,3 +859,4 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - When Muslims are a minority, they want minority rights. When they are a majority, there are no minority rights.
 - When Islam is criticized in Islamic countries, it's blasphemy. When it is criticized in non-Islamic countries, it's Islamophobia.
 
+- What the hell is the left doing?
