@@ -739,13 +739,10 @@ Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like p
 	- https://www.youtube.com/watch?v=yj5ai4SvcX8: See 21:xx in the video (they guy said killing child early will make them go to heaven)
 
 # Prayer Mixed Speech
-**15 second prayer**
-**dafasfd**
-**adfafdsdas**
 
-So **Alhamdulillah**, we've moved into a different I'm set up but I pray that **Allah Subhanu Wa Ta'ala** makes it more beneficial it's more conducive to a, classroom environment it is better to have people packed in, and you know hopefully **Insha Allah Ta'ala**, being regular in some of the classes that we have here but obviously this is a very unique lecture that we have here tonight. 
+So **Alhamdulillah**, we've moved into a different set up, but I pray that **Allah Subhanu Wa Ta'ala** makes it more beneficial. It's more conducive to, a classroom environment. It is better to have people packed in, and you know hopefully, **Insha Allah Ta'ala**, being regular in some of the classes that we have here. But obviously this is a very unique lecture that we have here tonight. 
 
-It's it's not one that's in response to any sort of emergency it's actually one that compliments is meant to compliment the collection that we just released which **has been in the works for months** **(Alhamdulilla Rabbil Aalameen)** on the age of Aisha **Radi Allahu Ta'ala Anha** and the name of the collection was more than just a number and the idea was to make sure that we don't only contextualize the age of Aisha **Radi Allahu Ta'ala Anha** in broader context using an interdisciplinary approach as did Azudallah along with Dr. Brown or looking at you know what the definition of a child has been and is today and will be in the future but instead to actually reclaim the entire narrative about Aisha **Radi Allahu Ta'ala Anha**.
+It's it's not one that's in response to any sort of emergency. It's actually one that compliments- is meant to compliment the collection that we just released which **has been in the works for months** **(Alhamdulilla Rabbil Aalameen)** on the age of Aisha **Radi Allahu Ta'ala Anha** and the name of the collection was "More Than Just A Number". And the idea was to make sure that we don't only contextualize the age of Aisha **Radi Allahu Ta'ala Anha** in broader context using an interdisciplinary approach as did Asadullah along with Dr. Brown or looking at you know what the definition of a child has been and is today and will be in the future but instead to actually reclaim the entire narrative about Aisha **Radi Allahu Ta'ala Anha**.
 
 And I've told this story in the past before about you know an incident that I had with a woman at University of Florida who could not come to terms or grapple with this particular issue of the age of Aisha **Radi Allahu Ta'ala Anha** but Allah **Subhanahu Wa Ta'ala** blessed her through knowing the person of Aisha **Radi Allahu Ta'ala Anha** and had to actually come to Islam through that knowledge of Aisha as a person and actually to name her daughter Aisha once she gave birth to Aisha.
 
@@ -803,7 +800,9 @@ Avg: 15% honorific.
 - But when given an order, asking the question "WHY" can mean two things
 - In one sense, a reply would be "because I said so". This is assuming the why is a rebellious question.
 - By assuming the question is rebellious when it really isn't, the parent pressures the child later on to be rebellious.
-- In another sense, a reply would be, because I want you be like this, and I believe doing so will go against that goal, and therefore, I'm telling you
+- In another sense, a reply would be, because I want you be like this, and I believe doing so will go against that goal, and therefore, I'm telling you this.
+- The difference is that, to this answer, one can further ask whys towards a specific detail of the decision, share ideas and come to a more peaceful understanding.
+- 
 
 # More Hadiths
 - Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
