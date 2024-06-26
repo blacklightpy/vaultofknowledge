@@ -1027,7 +1027,11 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 
 
-
+- Ithna ‘Asharis (Twelvers) / Rafidis (Rejectors, of the caliphs) / Imamis
+	- The term Rafidis used for Shias in general, although only Twelvers are the ones who denied the caliphs
+	- Sunnis say they use Taqiyya to outwards pretend as Muslims, while inwardly being something else (lol)
+	- Sunnis say, because they called the Sahabah kafirs, they imply that the Quran is altered, and hence, curse it
+	- So Shias are seen as a greater threat to Islam than anyone else.
 
 
 
