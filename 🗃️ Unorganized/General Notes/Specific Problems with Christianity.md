@@ -988,7 +988,8 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- Point out we hate Islam (the idea), not Muslims (the humans)
 	- Point out that when we talk about Mohammed's marriage with Aisha, we do not want to shame him, we just want to point out it was a medieval practice, not ideal for today's world. There is no element of shame, but rather, it is a practice that has bad consequences.
 
+- Likelihood of children hitting puberty early is less due to lack of nutrition
 
-
+- Just think of it, if someone else went through such levels of gymnastics to point at the truth, what would you think of them? There could be truth in case of one event, but several such instances? And that, while the effects of it continue to happen from other people who claim to be on the same cause?
 
 
