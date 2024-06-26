@@ -959,6 +959,8 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- **What are Mu'tazillas, and why do Sunnis reject them?:**
 		- Orthodox Sunnis believe the Quran is the uncreated word of Allah and is co-eternal with Allah.
 		- Mu'tazillas believe that since Quran is the word of Allah, it was created later by Allah.
-	- **What we see:** Their own political or theological disagreements keep them divided, and their insistence on theocracy makes it a problem for all others, while each of them say that the problem is not us, but them.
+	- **What we see:** Their own political or theological disagreements keep them divided, and their insistence on theocracy makes it a problem for all others, while each of them say that "the problem is not us, but them".
 		- They think if you really knew Allah, you wouldn't have a complaint with their version of Islam.
+		- They do not think that human lives have intrinsic value, and they believe that when they die, the true believers will go to Allah, so death is not that big of a deal for them compared to their faith.
+		- In essence, they are a death cult, and they expect the others to share the same perspectives.
 
