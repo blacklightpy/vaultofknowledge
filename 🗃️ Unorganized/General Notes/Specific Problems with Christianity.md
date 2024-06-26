@@ -784,11 +784,28 @@ Avg: 15% honorific.
 	- You can't believe there is an invisible dragon unless you believe in lies
 	- You can't believe rape is good, unless you trust what my philosophy says
 
+# About Religious People
 - Those who want religion are those who are bad
 	- They do bad things, and the guilt weighs upon them
 	- They seek forgiveness, and they find it from God
 	- They again blame the victims again, for not being religious
 
+- Religious people are dumb
+- But they also want power
+- And power hungry idiots refuse to reason
+- So they think, if God is GOD, why should he conform to your reasons?
+- They do not think that a creator would be as dumb as them
+- So certainly, the God of their religion is created from their own image, of stupidity
+
+- An example they use is, you should not question your parents
+- But, question can imply different things
+- It is recognized that a parent is the legal caretaker of the child
+- But when given an order, asking the question "WHY" can mean two things
+- In one sense, a reply would be "because I said so". This is assuming the why is a rebellious question.
+- By assuming the question is rebellious when it really isn't, the parent pressures the child later on to be rebellious.
+- In another sense, a reply would be, because I want you be like this, and I believe doing so will go against that goal, and therefore, I'm telling you
+
+# More Hadiths
 - Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
 	- Sunan Abu Dawud 4928-4931
 		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Daif)
