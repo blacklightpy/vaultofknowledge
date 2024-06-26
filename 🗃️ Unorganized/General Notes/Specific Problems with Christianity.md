@@ -75,25 +75,44 @@ Read these truly:
 ### Exodus Rulings
 - 1. Kill any child who hits a parent (Ex 21:15)
 	- Kill disobedient children (Ex 21:17, Mk 7:10)
+	- **Quotation Validity:** Exact
+	- **Propaganda:** Duplicated next verse as a separate point.
 - 2. Kill all witches (Ex 22:18)
+	- **Quotation Validity:** Exact
 - 3. Kill anyone who does not observe the Sabbath (Ex 31:14)
 	- Kill those who work on the Sabbath (Ex 31:15)
+	- **Quotation Validity:** Exact
+	- **Propaganda:** Duplicated next verse as a separate point.
 ### Leviticus Rulings (Levites)
 - 4. Kill those who curse father or mother (Lev 20:9)
-	- SAME as 1
+	- **Duplicate Verse:** SAME as 1
+	- **Quotation Validity:**
+	- **Propaganda:** Duplicated verse without mentioning it.
+		- **Effect:** Exploitation of people's psychology towards the "number" of events.
 - 5. Kill adulterers (Lev 20:10)
-	- If a man cheats on neighbour's wife, put them to death.
+	- **Quotation Validity:** Vague (adultery can mean anything)
+	- **Explanation:** If a man cheats on neighbour's wife, put them to death.
 - 6. Kill gays (Lev 20:13, Rom 1:21-32)
+	- **Quotation Validity:** Exact
 - 7. Kill fortune-tellers (Lev 20:27)
-	- Kill necromancers and mediums
+	- **Quotation Validity:** Vague (it was concerning spirit communicators)
+	- **Explanation:** Kill necromancers and mediums
 - 8. Kill blasphemers (Lev 24:14)
 	- Kill anyone who curses God (Lev 24:16)
-	- Kill anyone who kills anyone (Lev 24:17)
+	- **Quotation Validity:** Vague
+	- **Propaganda:** Duplicated next verse as a separate point.
+- Kill anyone who kills anyone (Lev 24:17)
+	- **Quotation Validity:** Exact
+	- **Propaganda:** Some things are more reasonable than questionable, but they add to the number of things.
 ### Numbers
 - 9. Kill strangers close to a church (Num 1:48-51)
-	- It refers to someone who's not a priest approaching the tabernacle
+	- **Quotation:** Misleading
+	- **Explanation:** It refers to someone who's not a priest approaching the tabernacle (house of God)
+	- **Propaganda:** Misleading people, and adding to number of points.
 - 10. Kill those who worship the wrong god (Num 25:1-9)
-	- A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
+	- **Quotation:** Misleading
+	- **Explanation:** A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
+	- **Propaganda:** Misleading people, and adding to number of points.
 ### Deuteronomy
 - 11. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
 	- **Quran Hypocrisy:** Same in Quran 2:54
