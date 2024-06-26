@@ -964,3 +964,5 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 		- They do not think that human lives have intrinsic value, and they believe that when they die, the true believers will go to Allah, so death is not that big of a deal for them compared to their faith.
 		- In essence, they are a death cult, and they expect the others to share the same perspectives.
 
+- Master List: https://old.reddit.com/r/exmuslim/comments/1950w67/trying_to_educate_a_tiktok_kid_on_islam_is_torture/
+
