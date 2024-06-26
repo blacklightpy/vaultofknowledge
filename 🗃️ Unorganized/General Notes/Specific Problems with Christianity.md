@@ -84,8 +84,8 @@ Read these truly:
 - 5. Kill adulterers (Lev 20:10)
 	- If a man cheats on neighbour's wife, put them to death.
 - 6. Kill gays (Lev 20:13, Rom 1:21-32)
-	- Kill necromancers and mediums
 - 7. Kill fortune-tellers (Lev 20:27)
+	- Kill necromancers and mediums
 - 8. Kill blasphemers (Lev 24:14)
 	- Kill anyone who curses God (Lev 24:16)
 	- Kill anyone who kills anyone (Lev 24:17)
@@ -96,13 +96,14 @@ Read these truly:
 	- A plague was in Israel, and it was said to be due to worshipping other gods. Killing stopped the plague.
 ### Deuteronomy
 - 11. Kill everybody in a town that worships the wrong god (Dt 13:13-15)
-	- Same in Quran 2:54
+	- **Quran Hypocrisy:** Same in Quran 2:54
 - 12. Kill all males after winning battles (Dt 20:13)
-	- 18.1. Kill all non-Hebrews (Dt 20:16-17)
-	- It's the Exodus story, and they had offered to not kill people first, but they wanted the land.
-	- Same applies in Islam (Quran and Sunnah, even beyond the Exodus story)
+	- **Duplicate Verse:** Kill all non-Hebrews (Dt 20:16-17)
+		- **Exact Quotation (NIV):** "However, in the cities of the nations the Lord your God is giving you as an inheritance, do not leave alive anything that breathes. Completely destroy them—the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites—as the Lord your God has commanded you."
+	- **Explanation:** It's the Exodus story, and they had offered to not kill people first, but they wanted the land.
+	- **Quran Hypocrisy:** Same applies in Islam (Quran and Sunnah, even beyond the Exodus story)
 - 13. Kill children who disobey parents (Dt 21:20)
-	- SAME as 1
+	- **Duplicate Verse:** SAME as 1
 - 14. Kill any bride discovered not a virgin (Dt 22:21)
 ### 1 Samuel
 - 15. Kill the curious (1 Sam 6:19-20)
@@ -860,3 +861,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - When Islam is criticized in Islamic countries, it's blasphemy. When it is criticized in non-Islamic countries, it's Islamophobia.
 
 - What the hell is the left doing?
+
+- Sarah Haider (ex-Muslim)
+	- Islam is a sexist religion
+	- Islam is very political
