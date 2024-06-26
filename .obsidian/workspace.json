@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -447,7 +447,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -464,7 +464,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md"
               }
             }
           },
@@ -485,7 +485,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/GNU Plus Linux - Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -527,13 +527,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "daf154b5d6e24c1c",
+  "active": "8c5c11c1841aa4f9",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Religions in General (long).md",
+    "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
+    "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
     "🗃️ Unorganized/General Notes/Test.md",
     "🗃️ Unorganized/General Notes/Untitled.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Religions in General (long).md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Reforms.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE xyY Colour Space.md",
@@ -553,8 +555,6 @@
     "🗃️ Unorganized/General Notes/Islam.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Judaism.md",
-    "🗃️ Unorganized/General Notes/Israel Palestine Peace Proposals.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",

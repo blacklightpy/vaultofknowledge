@@ -6,7 +6,7 @@ I'll use the examples from Islam to highlight this issue:
 >
 > Source: [Why is the Qur’an only in Arabic? ](https://www.whyislam.org/arabic/)
 
-As we can see, the language was used by prophet Mohammed to tailor the Quran to the population of Arabia. But now, since they don't want to modify the original word believing in it's superiority, instead of tailoring the Quran to Arabic, they require non-Arabic speakers to learn Arabic.
+As we can see, the language was used by prophet Mohammed to tailor the Quran to the population of Arabia. But now, since they don't want to modify the original word believing in it's superiority, instead of tailoring the Quran to non-Arabic, they require non-Arabic speakers to learn Arabic.
 Now this is not very ideal. Because that would be against the purpose for which Mohammed explained the Quran in Arabic. But can you translate the Quran as it is into other languages? Not really, because the meaning of an idea is closely tied to the language.
 For a simple example, we all know how a joke told in one language may not translate well to another language.
 
