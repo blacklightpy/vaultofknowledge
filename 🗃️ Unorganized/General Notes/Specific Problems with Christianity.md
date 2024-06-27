@@ -156,6 +156,7 @@ Read these truly:
 	- **Propaganda:** False prophets won't be killed on spot unlike Muslims do, they would ask them to stop lying first. Prophecy was considered important to the society at the time. A false prophet had the ability to divert the culture, and to lead them to what was considered away from the Lord.
 	- **Quranic Hypocrisy:** They avoided this problem by saying that Mohammed is the last prophet. But anyone who denied it will be killed under apostasy laws. They also attack within sects of their own, such as Shi'ites.
 
+## Summary
 In essence, the commandments harmful to Jews are:
 - 1. Kill any child who hits a parent (Ex 21:15)
 	- Kill disobedient children (Ex 21:17, Mk 7:10)
@@ -172,56 +173,35 @@ In essence, the commandments harmful to Jews are:
 - 8. Kill anyone who kills anyone (Lev 24:17) [More reasonable]
 - 9. Kill non-priests who approach the tabernacle (house of God) (Num 1:48-51)
 - 10. Kill those who worship the wrong god (Num 25:1-9) [More reasonable, under reform laws during a plague]
-
-- 12. Kill any bride discovered not a virgin (Dt 22:21)
-
+- 11. Kill any bride discovered not a virgin (Dt 22:21)
+- 15. Kill the ones who looked into the Ark of the Covenant (1 Sam 6:19-20)
+- 16. Kill nonbelievers (2 Chron 15:12-13)
+- 17. Kill false prophets (Zech 13:3)
+ 
 The verses harmful to non-Jews are:
 - 1. Kill all males after winning battles (Dt 20:13) [In the Exodus story]
 	- Kill all non-Hebrews (Dt 20:16-17)
 
-### 1 Samuel
-- 15. Kill the curious (1 Sam 6:19-20)
-	- **Quotation Validity:** False
-	- **Explanation:** They looked into the Ark of the Covenant, which was holy and the laws for treating it was given in Numbers 4.
-	- **Propaganda:** Misleading people, and adding to the number of points.
-### 2 Chronicles
-- 16. Kill nonbelievers (2 Chron 15:12-13)
-	- **Quotation Validity:** Exact (yet misleading)
-	- **Explanation:** It was under King Asa, and was only for those who want to stay in Jerusalem during a reform period.
-	- **Propaganda:** Ignoring context.
-### Isaiah
-- 17. Kill sons of sinners (Isaiah 14:21)
-	- **Quotation Validity:** Misleading
-	- **Explanation:** Isaiah is making a mock song about the Babylonian king, who's own people will kill his sons to destroy his lineage.
-	- **Propaganda:** It was a diss track, yet it was shown as a commandment.
-### Ezekiel
-- 18. Kill anyone who sins (Ezek 18:4)
-	- **Quotation Validity:** False
-	- **Explanation:** God said all the souls who sins will die
-	- **Propaganda:** Outright lies, and adding to number of points.
-### Zecheriah
-- 19. Kill false prophets (Zech 13:3)
-	- **Quotation Validity:** True (yet misleading)
-	- **Propaganda:** False prophets won't be killed on spot unlike Muslims do, they would ask them to stop lying first. Prophecy was considered important to the society at the time. A false prophet had the ability to divert the culture, and to lead them to what was considered away from the Lord.
-	- **Quranic Hypocrisy:** They avoided this problem by saying that Mohammed is the last prophet. But anyone who denied it will be killed under apostasy laws. They also attack within sects of their own, such as Shi'ites.
-
-
 ## Notes on where and how the laws apply
-Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
-It is also the responsibility of the Judges (Dt 17:6-9).
-The Church cannot punish sinners, only the government can (Romans 13:1-4).
-Lev 1:1-2 states that the book is for Israel.
+**Old Testament:**
+- Lev 20:24-26 states that the rules (Lev 20:13, etc.) are for the people of Israel.
+- It is also the responsibility of the Judges (Dt 17:6-9).
+- Lev 1:1-2 states that the book is for Israel.
 
-We are in the Church age (Eph 3:1-5).
-Lord will deal with Israel in the End Times (Rev 7-19).
-Paul is the Apostle of the Gentiles (Rom 11:11-13).
-But only a small portion of the Bible is to Gentiles, most others are to Israel.
-Bible doesn't specify or condemn death penality to homosexuals. But it doesn't oppose.
-Romans 13:1-4 gives the state the power to execute criminals, but doesn't specify what is criminal.
+**New Testament:**
+- We are in the Church age (Eph 3:1-5).
+- The Church cannot punish sinners, only the government can (Romans 13:1-4).
+- Lord will deal with Israel in the End Times (Rev 7-19).
+- Paul is the Apostle of the Gentiles (Rom 11:11-13).
+- But only a small portion of the Bible is to Gentiles, most others are to Israel.
+- Bible doesn't specify or condemn death penality to homosexuals. But it doesn't oppose.
+- Romans 13:1-4 gives the state the power to execute criminals, but doesn't specify what is criminal.
 
-God doesn't always want what's moral.
-He wants his plan done.
+- God doesn't always want what's moral.
+- He wants his plan done.
 # New Testament
+
+## Problematic Verses 1
 - New Testament
 	- Hatred of Pagans
 		- Mathew 5:47
@@ -237,7 +217,7 @@ He wants his plan done.
 		- John 8:44 (incited violence)
 	- Patriarchal Suppression of Women's Rights
 		- 1 Timothy 2:12 (women should remain silent)
-## More Notes
+## Problematic Verses 2
 - Romans 1:18-32
 	- No excuse, they are all liars
 - Bible is the inspired word of God
@@ -271,7 +251,7 @@ They justify that if God says so, killing people is moral.
 
 They say that death is everywhere and humans cannot be united.
 This is wishful thinking.
-# Quran
+# Quran Verses
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
@@ -360,6 +340,7 @@ This is wishful thinking.
 			- God make Jinn from smokeless flame (55:15)
 				- Muslim claim: Jinn was made before earth
 # Hadeeths
+## Sahih Hadiths
 - Hadeeths
 	- Incitement against Jews
 		- Sahih al-Bukhari
@@ -428,7 +409,7 @@ This is wishful thinking.
 	- True Hadeeth
 		- (Al-Awsat 3607) The Prophet ﷺ said, **“He who hurts a Muslim hurts me, and he who hurts me annoys Allah.”**
 
-# Islam Data
+# Islam Data 1
 - Islam
 	- Primary Sources
 		- Quran
@@ -469,11 +450,14 @@ This is wishful thinking.
 		- **By:** Jalal al-Din Muhammad ibn Ahmad Mahalli 
 	- Tafsir Ibn Arabi (K) (1165-1240)
 		- **By:** Ibn al-Arabi, and Mu.hammad Ali, Abd al-Warith
-
-Ibn Kathir (IK), Isfahani (Is), Jalalayn (JJ), Qurtubi (Q), Razi (R), Samarqandi (Sa), Tustari (ST), Suyuti (Sy), Tabari (T), Tabrisi (Ts), Zamashshari (Z) and many more including ibn Arabi (K)
-
-Found: IK, JJ, Q, T, K
-To list: Is, R, Sa, Sy, Ts, Z
+	- More
+		- Isfahani (Is)
+		- Razi (R)
+		- Samarqandi (Sa)
+		- Tustari (ST)
+		- Suyuti (Sy)
+		- Tabrisi (Ts)
+		- Zamashshari (Z)
 
 Tafsirs are written by Mufassir (plural: Mufassirun)
 
@@ -598,7 +582,7 @@ Hindu answer (on Hindutva): https://qr.ae/pszIQD
 	- A cow was to be sacrificed to revive a dead man by hitting him with a piece of it.
 	- What does god need with a starship?
 
-# Stupidities
+# Stupidities 1
 
 - Sun will moves to the resting place, and will ask the permission of Allah to rise. Interpretation of Verse 36.28.
 	- Sun sets in a spring of warm water
@@ -681,7 +665,7 @@ Things I want to cover
 ### Dumb Ruling
 - An adulterer should marry an adulteress or polytheist
 	- 24:3
-# Stupidity in Community
+# Stupidity in Community 1
 - StackOverflow is built by Israeli/American Jew, who is openly gay
 - Well, Google search, and most of the web too is built by Jews and Americans. Alan Turing was gay.
 
@@ -747,7 +731,7 @@ Things I want to cover
 		- He asked why he wants to marry a child
 		- He said that his three wives became old, and when a woman gets old, she will be like a rusty car.
 
-# More Stupid Hadiths and Verses
+# Stupidities 2
 - Prohibition of Alcohol (to verify)
 	- Alcohol was sign from Allah. Then it changed after drunk Hamza insulted Mohammed as his family slave.
 	- 16:67 Intoxication used to be among the signs from Allah
@@ -872,7 +856,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Max:** 36% honorific
 **Avg:** 15% honorific
 
-# More Stupidity in Community 
+# Stupidity in Community 2
 - Kerala
 	- 7 Preachers: https://www.opindia.com/2021/11/kerala-highest-literacy-state-islamic-preachers-making-absurd-utterances/
 		- Shopping Malls are haram because women may look at men (Scholar Hussein Salafi)
@@ -1063,6 +1047,8 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 - That we need to worship God
 - Meaning of words like die
+
+# Data Collection 1
 
 **The Companions of Mohammed (Sahabah)**
 - The Rightly Guided Caliphs
