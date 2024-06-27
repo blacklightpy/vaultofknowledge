@@ -1104,6 +1104,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in   |
 
 **Sunni Schools of Jurisprudence / Madhhab (Minor / Merged)**
+- Zahiri
 
 **Other Madhhabs**
 - Salafis / Wahhabis
@@ -1116,7 +1117,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- They say they stick to the Athari creed (but not everyone agrees)
 	- Internet made them popular
 	- **Example Sites:** Islamqa.info, islamweb.net
-	- **Example People:** Assim Al-Hakeem
+	- **Example People:** Assim Al-Hakeem, Zakir Naik
 	- **Example Radicals:** ISIS, Al-Qaeda
 
 **Shi'a Schools of Jurisprudence / Madhhab**
