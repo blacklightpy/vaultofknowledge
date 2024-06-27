@@ -1075,24 +1075,27 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Tabi' at'Tabi'in | 3rd Generation of followers |
 **The Early Caliphs** (Name, Status, Caliphate, Time)
 
-| Name | Status | Caliphate | Time |
-| ---- | ------ | --------- | ---- |
-|      |        |           |      |
+| Name                    | Status         | Caliphate | Time    |
+| ----------------------- | -------------- | --------- | ------- |
+| Abu Bakr ibn Abi Quhafa | Rightly Guided | Rashidun  | 632-634 |
+| Umar ibn al-Khattab     | Rightly Guided | Rashidun  | 634-644 |
+| Uthman ibn Affan        | Rightly Guided | Rashidun  | 644-656 |
+| Ali ibn Talib           | Rightly Guided | Rashidun  | 656-661 |
 
-**Schools of Thought**
+**Schools of Theology**
 
-**Invalid Schools of Thought (as per Sunni Scholars)**
+**Invalid Schools of Theology (as per Sunni Scholars)**
 
-**Shi'a Schools of Thought**
+**Shi'a Schools of Theology**
 
 **Sunni Schools of Jurisprudence (Main / Active)**
 
 | School  | Based on              | Generation of Imams |
 | ------- | --------------------- | ------------------- |
-| Hanafi  | Imam Abu Hanifa       | Tabi'               |
-| Shafi'i | Imam Shafa'i          |                     |
-| Maliki  | Imam Malik            |                     |
-| Hanbali | Imam Ahmed ibn Hanbal |                     |
+| Hanafi  | Imam Abu Hanifa       | Tabi'oon            |
+| Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in    |
+| Maliki  | Imam Malik            | Tabi' at'Tabi'in    |
+| Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in    |
 
 **Sunni Schools of Jurisprudence (Minor / Merged)**
 
