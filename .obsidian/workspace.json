@@ -326,7 +326,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -344,7 +345,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "daf154b5d6e24c1c",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",

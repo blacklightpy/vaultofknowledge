@@ -1137,17 +1137,16 @@ Isma'ili
 
 **Trusted Mufassirun (Sunni)**
 
-Short Name, Full Name, What he was
-
-Imam Ibn Kathir
-Imam Ibn Taymiyya
-Imam Ibn Qayyim
-Imam Fakhr ad-Din Al-Razi
-Imam Al-Qurtubi
-Imam Al-Ghazali
-Imam Ibn Hajar Al-Asqalani
-Rumi (Poet, Hanafi Faqih, Maturdi Theologist)
-
+| Name                       | Role                                                         |
+| -------------------------- | ------------------------------------------------------------ |
+| Imam Ibn Kathir            | Mufassir (Tafsir on Quran), Shafi'i Faqih, Athari Theologist |
+| Imam Ibn Taymiyya          | Mufassir, Hanbali Faqih                                      |
+| Imam Ibn Qayyim            | Mufassir                                                     |
+| Imam Fakhr ad-Din Al-Razi  | Mufassir                                                     |
+| Imam Al-Qurtubi            | Mufassir (Tafsir on Quran)                                   |
+| Imam Al-Ghazali            | Mufassir                                                     |
+| Imam Ibn Hajar Al-Asqalani | Mufassir (Tafsir on al-Bukhari)                              |
+| Rumi                       | Poet, Hanafi Faqih, Maturdi Theologist                       |
 **Trusted Mufassirun (Shia)**
 
 **Popular Scholars / Preachers**
