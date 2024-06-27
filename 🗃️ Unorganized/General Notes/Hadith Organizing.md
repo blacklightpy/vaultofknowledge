@@ -1,11 +1,11 @@
-# Women
+# Women (general and married)
 
 **Right to Strike Women**
 
 > [Quran 4:34](https://quranx.com/4.34 "quranx.com"): Sahih Intl  
 > Allah: Men are in charge of women by [right of] what Allah has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allah would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them. But if they obey you [once more], seek no means against them. Indeed, Allah is ever Exalted and Grand.
 
-**Mohammed Struck Aisha:**
+**Mohammed Struck Aisha: (struck, pain changed to nudged, felt in Sunnah.com)**
 
 > [Sahih Muslim 974 b](http://hadithcollection.com/sahihmuslim/132-Sahih%20Muslim%20Book%2004.%20Prayer/9023-sahih-muslim-book-004-hadith-number-2127.html "hadithcollection.com"):  
 > He said: Tell me or the Subtle and the Aware would inform me. I said: Messenger of Allah, may my father and mother be ransom for you, and then I told him (the whole story). He said: Was it the darkness (of your shadow) that I saw in front of me? I said: Yes. He struck me on the chest which caused me pain, and then said: Did you think that Allah and His Apostle would deal unjustly with you?
@@ -75,5 +75,5 @@
 > [Sunan ibn Majah 9:1926](https://sunnah.com/urn/1261700 "sunnah.com"):  
 > It was narrated that: Abdullah bin Abu Awfa said “When Muadh bin Jabal came from Sham, he prostrated to the Prophet who said: 'What is this, O Muadh?' He said: 'I went to Sham and saw them prostrating to their bishops and patricians and I wanted to do that for you.' The messenger of Allah said: 'Do not do that. If I were to command anyone to prostrate to anyone other than Allah, I would have commanded women to prostrate to their husbands. By the One in Whose Hand is the soul of Muhammad! No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.”
 
-
+# Women (captives)
 
