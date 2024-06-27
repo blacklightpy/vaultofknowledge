@@ -1096,12 +1096,12 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Sunni Schools of Jurisprudence / Madhhab (Main / Active)**
 
-| School  | Based on              | Generation of Imam |
-| ------- | --------------------- | ------------------ |
-| Hanafi  | Imam Abu Hanifa       | Tabi'oon           |
-| Maliki  | Imam Malik            | Tabi' at'Tabi'in   |
-| Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in   |
-| Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in   |
+| School  | Based on              | Generation of Imam | Nominal Aqidah |
+| ------- | --------------------- | ------------------ | -------------- |
+| Hanafi  | Imam Abu Hanifa       | Tabi'oon           | Maturdi        |
+| Maliki  | Imam Malik            | Tabi' at'Tabi'in   | Ash'ari        |
+| Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in   | Ash'ari        |
+| Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in   | Athari         |
 
 **Sunni Schools of Jurisprudence / Madhhab (Minor / Merged)**
 - Zahiri
