@@ -1038,6 +1038,10 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 
 
+- Mohammed was white
+
+- Thighing
+
 # Speech Analysis
 
 - How Quran influences Muslim attitudes
