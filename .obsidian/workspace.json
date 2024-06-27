@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
               }
             }
           },
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,11 +358,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd19d31978b8cf05",
+  "active": "daf154b5d6e24c1c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "_images/Pasted image 20240628022104.png",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
@@ -395,7 +395,6 @@
     "_images/BigPicture for Jira.png",
     "_images/Blue Green Deployment.png",
     "_images/Canon D450 Quantum Efficiency.png",
-    "_images/Centres_of_origin_and_spread_of_agriculture.svg.png",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering",

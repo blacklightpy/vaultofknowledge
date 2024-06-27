@@ -126,9 +126,8 @@ Revelation of 4:24:
 - Allah does not love them
 - Allah forsakes them
 - Allah brought down destruction upon them
-- Allah has cursed them
-- Allah despises them
-- Allah abases them
+- Allah has made hell for them (17:18)
+- No one can honour whom Allah disgraces (22:18)
 
 ![[Pasted image 20240628022104.png]]
 
