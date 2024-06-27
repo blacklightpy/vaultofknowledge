@@ -1059,7 +1059,21 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 
 
-# Lies Muslims Say
+# Falsities Muslims Say
 
 - That we need to worship God
 - Meaning of words like die
+
+
+**Schools of Thought**
+
+**Invalid Schools of Thought (as per Sunni Scholars)**
+
+**Shi'a Schools of Thought**
+
+**Trusted Mufassirun (Sunni)**
+
+**Trusted Mufassirun (Shia)**
+
+**Popular Muftis**
+
