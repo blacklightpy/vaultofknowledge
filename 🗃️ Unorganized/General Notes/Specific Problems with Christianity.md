@@ -1138,11 +1138,13 @@ Isma'ili
 
 Short Name, Full Name, What he was
 
-Ibn Kathir
-Ibn Taymiyya
-Ibn Qayyim
-Al-Qurtubi
-Al-Ghazali
+Imam Ibn Kathir
+Imam Ibn Taymiyya
+Imam Ibn Qayyim
+Imam Fakhr ad-Din Al-Razi
+Imam Al-Qurtubi
+Imam Al-Ghazali
+Imam Ibn Hajar Al-Asqalani
 Rumi (Poet, Hanafi Faqih, Maturdi Theologist)
 
 **Trusted Mufassirun (Shia)**
