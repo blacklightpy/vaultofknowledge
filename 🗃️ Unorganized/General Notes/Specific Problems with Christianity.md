@@ -1094,7 +1094,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Shi'a Schools of Theology**
 
-**Sunni Schools of Jurisprudence (Main / Active)**
+**Sunni Schools of Jurisprudence / Madhhab (Main / Active)**
 
 | School  | Based on              | Generation of Imam |
 | ------- | --------------------- | ------------------ |
@@ -1103,22 +1103,23 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in   |
 | Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in   |
 
-**Sunni Schools of Jurisprudence (Minor / Merged)**
+**Sunni Schools of Jurisprudence / Madhhab (Minor / Merged)**
 
-**Other**
+**Other Madhhabs**
 - Salafis / Wahhabis
 	- Based on the ideas of Mohammed ibn Abd-al Wahhab
 	- They say they want to follow the Salafiyya
 	- They do their own Ijtihad (Reasoning)
 	- They say they take ideas from Madhhabs
 	- They say sticking to a Madhhab is crowd following
+	- They seem closer to Hanbali madhhab
 	- They say they stick to the Athari creed (but not everyone agrees)
 	- Internet made them popular
 	- **Example Sites:** Islamqa.info, islamweb.net
 	- **Example People:** Assim Al-Hakeem
 	- **Example Radicals:** ISIS, Al-Qaeda
 
-**Shi'a Schools of Jurisprudence**
+**Shi'a Schools of Jurisprudence / Madhhab**
 
 Twelver (Rafidi)
 Zaydi
