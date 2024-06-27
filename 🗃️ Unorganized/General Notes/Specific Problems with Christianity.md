@@ -1065,6 +1065,9 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Meaning of words like die
 
 **The Companions of Mohammed (Sahabah)**
+- The Rightly Guided Caliphs
+- Mohammed's wives
+- Other people
 
 **Members of the Salaf / Salafiyya (Rightly Guided Generations)**
 
@@ -1073,7 +1076,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Sahabah          | Companions of Mohammed      |
 | Tabi'oon         | 2nd Generation of followers |
 | Tabi' at'Tabi'in | 3rd Generation of followers |
-**The Early Caliphs** (Name, Status, Caliphate, Time)
+**The Rightly Guided Caliphs**
 
 | Name                    | Status         | Caliphate | Time    |
 | ----------------------- | -------------- | --------- | ------- |
@@ -1081,7 +1084,6 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Umar ibn al-Khattab     | Rightly Guided | Rashidun  | 634-644 |
 | Uthman ibn Affan        | Rightly Guided | Rashidun  | 644-656 |
 | Ali ibn Talib           | Rightly Guided | Rashidun  | 656-661 |
-
 **Sunni Schools of Theology / Aqidah**
 - Maturdi
 - Athari
@@ -1090,30 +1092,30 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Invalid Schools of Theology / Aqidah (as per Sunni Scholars)**
 - Mu'utazila
 
-**Shi'a Schools of Theology**
+**Shi'a Schools of Theology / Aqidah**
 - Jafari
 
-**Sunni Schools of Jurisprudence / Madhhab (Current / Active)**
+**Active Sunni Schools of Jurisprudence / Madhhabs**
 
-| School  | Based on              | Generation of Imam | Nominal Aqidah |
-| ------- | --------------------- | ------------------ | -------------- |
-| Hanafi  | Imam Abu Hanifa       | Tabi'oon           | Maturdi        |
-| Maliki  | Imam Malik            | Tabi' at'Tabi'in   | Ash'ari        |
-| Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in   | Ash'ari        |
-| Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in   | Athari         |
+| School  | Based on              | Generation of Imam | Their Aqidah |
+| ------- | --------------------- | ------------------ | ------------ |
+| Hanafi  | Imam Abu Hanifa       | Tabi'oon           | Maturdi      |
+| Maliki  | Imam Malik            | Tabi' at'Tabi'in   | Ash'ari      |
+| Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in   | Ash'ari      |
+| Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in   | Athari       |
 
-**Sunni Schools of Jurisprudence / Madhhab (Old / Merged)**
+**Older Sunni Schools of Jurisprudence / Maddhabs**
 - Zahiri
 - Awza'i
 - Thawri
 - Laythi
 - Jariri
 
-**Other Madhhabs**
+**Invalid Sunni Schools of Jurisprudence / Madhhabs**
 - Salafis / Wahhabis
 	- Based on the ideas of Mohammed ibn Abd-al Wahhab
-	- They say they want to follow the Salafiyya
-	- They do their own Ijtihad (Reasoning)
+	- They say they want to follow the Salafiyya (First three generations)
+	- They do their own Ijtihad (reasoning)
 	- They say they take ideas from Madhhabs
 	- They say sticking to a Madhhab is crowd following
 	- They seem closer to Hanbali madhhab
@@ -1125,7 +1127,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Shi'a Schools of Jurisprudence / Madhhab**
 
-- Twelver (Rafidi)
+- Twelver (Rafidi / Rejectionists)
 - Zaydi
 - Isma'ili
 
@@ -1138,36 +1140,32 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Nasa'i
 - Ibn Majah
 
-**Trusted Mufassirun (Sunni)**
+**Popular Commentators (Mufassirun) (Sunni)**
 
-- Tafsir ibn Kathir (IK) (~1370)
+- 1. Tafsir ibn Kathir (IK) (~1370)
 	- **By:** Ismail ibn Umar Ibn Kathir 
-- Tafsir al-Qurtubi (Q) (~1273)
+- 2. Tafsir al-Qurtubi (Q) (~1273)
 	- **Also called:** Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions)
 	- **By:** Muhammad ibn Ahmad Qurtubi
-- Tafsir al-Tabari (T) (~922)
+- 3. Tafsir al-Tabari (T) (~922)
 	- **By:** Jami al-bayān an tawil ay al-Quran, talif Abi Jafar Muḥammad ibn Jarir al-Tabari
-- Tafsir al-Jalalayn (JJ) (1460-1505)
+- 4. Tafsir al-Jalalayn (JJ) (1460-1505)
 	- **By:** Jalal al-Din Muhammad ibn Ahmad Mahalli 
-- Tafsir Ibn Arabi (K) (1165-1240)
+- 5. Tafsir Ibn Arabi (K) (1165-1240)
 	- **By:** Ibn al-Arabi, and Mu.hammad Ali, Abd al-Warith
+- More
+	- Isfahani (Is)
+	- Razi (R)
+	- Samarqandi (Sa)
+	- Tustari (ST)
+	- Suyuti (Sy)
+	- Tabrisi (Ts)
+	- Zamashshari (Z)
 
-Ibn Kathir (IK), Isfahani (Is), Jalalayn (JJ), Qurtubi (Q), Razi (R), Samarqandi (Sa), Tustari (ST), Suyuti (Sy), Tabari (T), Tabrisi (Ts), Zamashshari (Z) and many more including ibn Arabi (K)
+**Popular Commentators (Mufassirun) (Shia)**
+idk
 
-Found: IK, JJ, Q, T, K
-To list: Is, R, Sa, Sy, Ts, Z
-
-| Name                      | Madhah / Aqidah   | Timeline     |
-| ------------------------- | ----------------- | ------------ |
-| Imam Ibn Kathir           | Shafi'i / Athari  | 14th Century |
-| Imam Al-Qurtubi           | Maliki / Ash'ari  | 13th Century |
-| Imam Fakhr ad-Din Al-Razi | Shafi'i / Ash'ari | 12th Century |
-|                           |                   |              |
-|                           |                   |              |
-|                           |                   |              |
-|                           |                   |              |
-|                           |                   |              |
-**Other Important People in Fiqh**
+**Other Important Scholars**
 
 | Name                       | Role                                     | Madhhab / Aqidah  | Timeline     |
 | -------------------------- | ---------------------------------------- | ----------------- | ------------ |
@@ -1177,12 +1175,14 @@ To list: Is, R, Sa, Sy, Ts, Z
 | Imam Ibn Qayyim            | Scholar                                  | Hanbali / Athari  | 14th Century |
 | Imam Ibn Hajar Al-Asqalani | Scholar, Mufassir (Tafsir on al-Bukhari) | Shafi'i / Ash'ari | 15th Century |
 
-**Trusted Mufassirun (Shia)**
-
-
 **Popular Scholars / Preachers**
+- Zakir Naik (Indian)
+- Dr. Shabir Ally (Canadian?)
+- Assimal Hakeem (the Arab)
+- Mufti Menk (Funny looking Arab)
+- Usthad Simsarul Haq Hudavi (Kerala)
 
-**Concepts**
+**Concepts in Islam**
 - Islam (Submission)
 - Muslim (Submitter)
 - Shari'ah (The Way of Islam)
@@ -1214,8 +1214,10 @@ To list: Is, R, Sa, Sy, Ts, Z
 - Tafsir (Commentary)
 - Fatwa (Scholarly Opinion)
 
-**People:**
-A general Schoalr shoulg memorize the Quran, a great deal of Ahadeeth, Principles of Jurisprudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith), etc.
+**Types of Scholars**
+
+A good scholar should memorize the Quran, a great deal of Ahadeeth, Principles of Jurisprudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith), etc.
+
 - Imam
 - Mullah
 - Ayatollah
