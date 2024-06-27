@@ -899,7 +899,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - The difference is that, to this answer, one can further ask whys towards a specific detail of the decision, share ideas and come to a more peaceful understanding.
 - 
 
-# More Hadiths
+# Hadiths 2
 - Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
 	- Sunan Abu Dawud 4928-4931
 		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Daif)
