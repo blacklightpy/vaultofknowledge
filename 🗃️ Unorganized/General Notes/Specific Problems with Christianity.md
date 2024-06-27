@@ -1101,6 +1101,19 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Shi'a Schools of Jurisprudence**
 
+Twelver (Rafidi)
+Zaydi
+Isma'ili
+
+**The Six Sunni Hadiths**
+
+- Bukhari
+- Muslim
+- Abu Da'ud
+- Tirmidhi
+- Nasa'i
+- Ibn Majah
+
 **Trusted Mufassirun (Sunni)**
 
 Short Name, Full Name, What he was
@@ -1108,6 +1121,7 @@ Short Name, Full Name, What he was
 Shaykh al-Islam Ibn Taymiyah
 Al-Qurtubi
 Al-Ghazali
+Rumi (Poet, Hanafi Faqih, Maturdi Theologist)
 
 **Trusted Mufassirun (Shia)**
 
