@@ -1082,7 +1082,13 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Uthman ibn Affan        | Rightly Guided | Rashidun  | 644-656 |
 | Ali ibn Talib           | Rightly Guided | Rashidun  | 656-661 |
 
-**Schools of Theology**
+**Schools of Theology (Aqidah)**
+- Hadith
+- Kalam
+- Mu'utazila
+- Athari
+- Ash'ari
+- 
 
 **Invalid Schools of Theology (as per Sunni Scholars)**
 
@@ -1090,14 +1096,23 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Sunni Schools of Jurisprudence (Main / Active)**
 
-| School  | Based on              | Generation of Imams |
-| ------- | --------------------- | ------------------- |
-| Hanafi  | Imam Abu Hanifa       | Tabi'oon            |
-| Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in    |
-| Maliki  | Imam Malik            | Tabi' at'Tabi'in    |
-| Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in    |
+| School  | Based on              | Generation of Imam |
+| ------- | --------------------- | ------------------ |
+| Hanafi  | Imam Abu Hanifa       | Tabi'oon           |
+| Maliki  | Imam Malik            | Tabi' at'Tabi'in   |
+| Shafi'i | Imam Shafa'i          | Tabi' at'Tabi'in   |
+| Hanbali | Imam Ahmed ibn Hanbal | Tabi' at'Tabi'in   |
 
 **Sunni Schools of Jurisprudence (Minor / Merged)**
+
+**Other**
+- Salafis / Wahhabis
+	- Based on the ideas of Mohammed ibn Abd-al Wahhab
+	- They tri
+	- They do their own Ijtihad (Reasoning)
+	- They say they take ideas from Madhhabs
+	- They say sticking to a Madhhab is crowd following
+	- 
 
 **Shi'a Schools of Jurisprudence**
 
