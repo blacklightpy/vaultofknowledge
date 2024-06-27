@@ -747,7 +747,7 @@ Things I want to cover
 		- He asked why he wants to marry a child
 		- He said that his three wives became old, and when a woman gets old, she will be like a rusty car.
 
-# More Stupidities
+# More Stupid Hadiths and Verses
 - Prohibition of Alcohol (to verify)
 	- Alcohol was sign from Allah. Then it changed after drunk Hamza insulted Mohammed as his family slave.
 	- 16:67 Intoxication used to be among the signs from Allah
@@ -762,7 +762,7 @@ Things I want to cover
 		- Hamza was drinking wine. Mohammed went to Hamza and spoke harshly to him. Hamza asked him, aren't you only the slaves of my forefathers? Mohammed went out. This happened before the prohibition of drinking.
 	- One article says prohibition was revealed after Hijrah
 
-- Other verses:
+- Other verses about alcohol:
 	- 2:219 (More evil than good)
 	- 4:43 (Don't go to prayer while drunk)
 	- 5:90-91 (Alchol is from Satan)
@@ -872,6 +872,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Max:** 36% honorific
 **Avg:** 15% honorific
 
+# More Stupidity in Community 
 - Kerala
 	- 7 Preachers: https://www.opindia.com/2021/11/kerala-highest-literacy-state-islamic-preachers-making-absurd-utterances/
 		- Shopping Malls are haram because women may look at men (Scholar Hussein Salafi)
@@ -889,7 +890,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- You can't believe there is an invisible dragon unless you believe in lies
 	- You can't believe rape is good, unless you trust what my philosophy says
 
-# About Religious People
+# Thought: About Religious People
 - Those who want religion are those who are bad
 	- They do bad things, and the guilt weighs upon them
 	- They seek forgiveness, and they find it from God
