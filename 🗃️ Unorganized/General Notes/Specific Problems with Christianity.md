@@ -1064,6 +1064,9 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - That we need to worship God
 - Meaning of words like die
 
+**The Companions** ()
+
+**The Early Caliphs** (Name, Status, Caliphate, Time)
 
 **Schools of Thought**
 
@@ -1071,9 +1074,15 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Shi'a Schools of Thought**
 
+**Sunni Schools of Jurisprudence (Main / Active)**
+
+**Sunni Schools of Jurisprudence (Minor / Merged)**
+
+**Shi'a Schools of Jurisprudence**
+
 **Trusted Mufassirun (Sunni)**
 
 **Trusted Mufassirun (Shia)**
 
-**Popular Muftis**
+**Popular Scholars / Preachers**
 
