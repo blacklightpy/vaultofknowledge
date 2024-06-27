@@ -85,3 +85,14 @@ Revelation of 4:24:
 
 - Casually mentioning sex slaves
 	- https://sunnah.com/bukhari:4350 (Ali was bathing after having sex with a slave from the war booty)
+
+- Claim: Marriage is annulled because they are to convert to Islam, and their husbands will be forbidden by Islam.
+
+# Jihad
+
+- Claim: Don't kill them, because the goal is to hope they go to heaven. Killing will ruin it.
+
+# Stupidity
+- Ummah will be split into 73 sects, and 72 will go to hell
+	- https://sunnah.com/ibnmajah:3992
+	- https://sunnah.com/tirmidhi:2641
