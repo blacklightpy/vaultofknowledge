@@ -1038,3 +1038,8 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 
 
+# Speech Analysis
+
+- How Quran influences Muslim attitudes
+	- They are misguided by Satan
+	- Disbelievers are all clearly hypocrites
