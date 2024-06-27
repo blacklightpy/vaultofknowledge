@@ -1103,7 +1103,11 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Trusted Mufassirun (Sunni)**
 
+Short Name, Full Name, What he was
+
 Shaykh al-Islam Ibn Taymiyah
+Al-Qurtubi
+Al-Ghazali
 
 **Trusted Mufassirun (Shia)**
 
@@ -1113,7 +1117,21 @@ Shaykh al-Islam Ibn Taymiyah
 - Islam (Submission)
 - Muslim (Submitter)
 - Shari'ah (The Way of Islam)
+- Quran (Recitation)
+- Hadith (Reports of ways of Mohammed)
 - Ahkam (Rulings)
+- Fiqh (Practical Knowledge of Shariah)
+
+**Sources of Shari'ah**
+- Primary Sources
+	- Quran
+	- Ahadith (Hadiths)
+- Secondary Sources
+	- Fiqh
+		- Ijma as Sahabah
+		- Qiyas (Analogical Reasoning)
+
+**Principles of Jurisprudence (Usool al-Fiqh):**
 - Al-Ahkam Al-Khamsa (The five types of rulings)
 	- Fard/Wajib (Compulsory)
 	- Mustahabb/Mandub (Recommended)
@@ -1128,5 +1146,25 @@ Shaykh al-Islam Ibn Taymiyah
 - Fatwa (Scholarly Opinion)
 
 **People:**
-A general Schoalr shoulg memorize the Quran, a great deal of Ahadeeth, Principles of Jurisprudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith)
+A general Schoalr shoulg memorize the Quran, a great deal of Ahadeeth, Principles of Jurisprudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith), etc.
 - Imam
+- Mullah
+- Ayatollah
+- Mufti
+- Maulana
+- Alim
+- Faqih
+- Sheik
+
+
+
+
+
+
+
+
+
+
+
+
+
