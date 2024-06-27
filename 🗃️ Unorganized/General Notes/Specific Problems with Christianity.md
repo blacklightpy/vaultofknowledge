@@ -1137,16 +1137,16 @@ Isma'ili
 
 **Trusted Mufassirun (Sunni)**
 
-| Name                       | Role                                                         |
-| -------------------------- | ------------------------------------------------------------ |
-| Imam Ibn Kathir            | Mufassir (Tafsir on Quran), Shafi'i Faqih, Athari Theologist |
-| Imam Ibn Taymiyya          | Mufassir, Hanbali Faqih                                      |
-| Imam Ibn Qayyim            | Mufassir                                                     |
-| Imam Fakhr ad-Din Al-Razi  | Mufassir                                                     |
-| Imam Al-Qurtubi            | Mufassir (Tafsir on Quran)                                   |
-| Imam Al-Ghazali            | Mufassir                                                     |
-| Imam Ibn Hajar Al-Asqalani | Mufassir (Tafsir on al-Bukhari)                              |
-| Rumi                       | Poet, Hanafi Faqih, Maturdi Theologist                       |
+| Name                       | Works                                             | Madhah / Aqidah  | Timeline     |
+| -------------------------- | ------------------------------------------------- | ---------------- | ------------ |
+| Imam Al-Ghazali            | Scholar                                           | Shafi'i / Ashari | 11th Century |
+| Imam Fakhr ad-Din Al-Razi  | Mufassir                                          | Shafi'i / Ash    | 12th Century |
+| Imam Al-Qurtubi            | Mufassir (Tafsir on Quran)                        | Maliki / Ash'ari | 13th Century |
+| Imam Ibn Taymiyya          | Mufassir, Scholar                                 | Hanbali / Athari | 13th Century |
+| Imam Ibn Kathir            | Mufassir (Tafsir on Quran), Historian and Scholar | Shafi'i / Athari | 14th Century |
+| Imam Ibn Qayyim            | Scholar, Student of Ibn Taymiyya                  | Hanbali          | 14th Century |
+| Imam Ibn Hajar Al-Asqalani | Mufassir (Tafsir on al-Bukhari)                   |                  | 15th Century |
+| Rumi                       | Poet, Scholar                                     | Hanafi / Maturdi |              |
 **Trusted Mufassirun (Shia)**
 
 **Popular Scholars / Preachers**
