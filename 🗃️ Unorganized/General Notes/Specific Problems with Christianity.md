@@ -1064,7 +1064,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - That we need to worship God
 - Meaning of words like die
 
-**The Companions** ()
+**The Companions of Mohammed (Sahabah)** ()
 
 **The Early Caliphs** (Name, Status, Caliphate, Time)
 
