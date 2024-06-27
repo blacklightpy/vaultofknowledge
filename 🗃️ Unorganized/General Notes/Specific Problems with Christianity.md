@@ -1066,7 +1066,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **The Companions of Mohammed (Sahabah)**
 
-**Members of the Salaf (Rightly Guided Generations)**
+**Members of the Salaf / Salafiyya (Rightly Guided Generations)**
 
 | Name             | Meaning                     |
 | ---------------- | --------------------------- |
@@ -1108,11 +1108,15 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Other**
 - Salafis / Wahhabis
 	- Based on the ideas of Mohammed ibn Abd-al Wahhab
-	- They tri
+	- They say they want to follow the Salafiyya
 	- They do their own Ijtihad (Reasoning)
 	- They say they take ideas from Madhhabs
 	- They say sticking to a Madhhab is crowd following
-	- 
+	- They say they stick to the Athari creed (but not everyone agrees)
+	- Internet made them popular
+	- **Example Sites:** Islamqa.info, islamweb.net
+	- **Example People:** Assim Al-Hakeem
+	- **Example Radicals:** ISIS, Al-Qaeda
 
 **Shi'a Schools of Jurisprudence**
 
@@ -1133,7 +1137,9 @@ Isma'ili
 
 Short Name, Full Name, What he was
 
-Shaykh al-Islam Ibn Taymiyah
+Ibn Kathir
+Ibn Taymiyya
+Ibn Qayyim
 Al-Qurtubi
 Al-Ghazali
 Rumi (Poet, Hanafi Faqih, Maturdi Theologist)
