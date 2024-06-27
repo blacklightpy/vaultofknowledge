@@ -81,3 +81,7 @@ The word "سَبَايَا" (sabaya) means captive women.
 
 Revelation of 4:24:
 
+
+
+- Casually mentioning sex slaves
+	- https://sunnah.com/bukhari:4350 (Ali was bathing after having sex with a slave from the war booty)
