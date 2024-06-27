@@ -1047,3 +1047,12 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - How Quran influences Muslim attitudes
 	- They are misguided by Satan
 	- Disbelievers are all clearly hypocrites
+
+- Islam is the most logical religion
+	- You think you invented Tawhid?
+	- Monotheism is known to everyone (except Greeks, etc - but even Aristotle knew it.)
+	- Also, just because you say one true / potentially true thing, that doesn't make everything else true.
+	- I could say you should put your soap in your cupboard.
+		- It is reasonable. No logical flaws in it.
+		- But does that mean those who leave it in the bathroom are wrong? No
+		- This is the stupidity of the Muslims
