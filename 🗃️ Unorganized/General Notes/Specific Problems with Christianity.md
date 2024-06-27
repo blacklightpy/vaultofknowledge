@@ -1103,6 +1103,8 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Trusted Mufassirun (Sunni)**
 
+Shaykh al-Islam Ibn Taymiyah
+
 **Trusted Mufassirun (Shia)**
 
 **Popular Scholars / Preachers**
