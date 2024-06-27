@@ -77,3 +77,7 @@
 
 # Women (captives)
 
+The word "سَبَايَا" (sabaya) means captive women.
+
+Revelation of 4:24:
+
