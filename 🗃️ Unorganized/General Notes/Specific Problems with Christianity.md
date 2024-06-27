@@ -1109,3 +1109,24 @@ Shaykh al-Islam Ibn Taymiyah
 
 **Popular Scholars / Preachers**
 
+**Concepts**
+- Islam (Submission)
+- Muslim (Submitter)
+- Shari'ah (The Way of Islam)
+- Ahkam (Rulings)
+- Al-Ahkam Al-Khamsa (The five types of rulings)
+	- Fard/Wajib (Compulsory)
+	- Mustahabb/Mandub (Recommended)
+	- Mubah (Neutral)
+	- Makruh (Disliked)
+	- Haram/Mahzur (Forbidden)
+- Halal (Lawful, doubtful as to whether it includes Makruh)
+- Jihad (Righteous War)
+- Taqiyya (A sin for greater good)
+- Sunnah (Tradition)
+- Tafsir (Commentary)
+- Fatwa (Scholarly Opinion)
+
+**People:**
+A general Schoalr shoulg memorize the Quran, a great deal of Ahadeeth, Principles of Jurisprudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith)
+- Imam

@@ -219,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "haram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,12 +236,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -344,7 +344,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "daf154b5d6e24c1c",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
