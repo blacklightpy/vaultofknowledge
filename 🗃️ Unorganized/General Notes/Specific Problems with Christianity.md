@@ -889,6 +889,8 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- You cannot believe in lies unless you stop trusting the truth
 	- You can't believe there is an invisible dragon unless you believe in lies
 	- You can't believe rape is good, unless you trust what my philosophy says
+	- **Context:** She was talking about keeping faith. Muslims using it in different contexts, and that's what my reply is about.
+	- **And no, Aisha is not the smartest woman to ever live.**
 
 # Thought: About Religious People
 - Those who want religion are those who are bad
