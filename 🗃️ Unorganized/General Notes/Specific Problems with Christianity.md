@@ -1056,3 +1056,10 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 		- It is reasonable. No logical flaws in it.
 		- But does that mean those who leave it in the bathroom are wrong? No
 		- This is the stupidity of the Muslims
+
+
+
+# Lies Muslims Say
+
+- That we need to worship God
+- Meaning of words like die
