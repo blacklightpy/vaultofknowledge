@@ -96,3 +96,52 @@ Revelation of 4:24:
 - Ummah will be split into 73 sects, and 72 will go to hell
 	- https://sunnah.com/ibnmajah:3992
 	- https://sunnah.com/tirmidhi:2641
+
+# Disbelievers
+- Enjoy life like cattle eat grass (47:12)
+- Are apes (7:166, 5:60, 2:65)
+- Are pigs (5:60)
+- Are asses
+- Are the vilest of animals in Allah's sight
+- Are losers
+- Are hard-hearted
+- Are impure of hearts
+- Are blind and deaf to the word of Allah
+- Are misers
+- Their works shall be rendered ineffective
+- Are impure
+- Are scum
+- Are inordinate
+- Are transgressors
+- Are unjust
+- Make mischief
+- Are the worst of men
+- Are in a state of confusion
+- Are the lowest of low
+- Focus only on outward appearance
+- Are guilty
+- Are sinful liars
+- Follow falsehood
+- Their deeds are like the mirage in a desert
+- Allah does not love them
+- Allah forsakes them
+- Allah brought down destruction upon them
+- Allah has cursed them
+- Allah despises them
+- Allah abases them
+
+![[Pasted image 20240628022104.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
