@@ -1064,9 +1064,20 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - That we need to worship God
 - Meaning of words like die
 
-**The Companions of Mohammed (Sahabah)** ()
+**The Companions of Mohammed (Sahabah)**
 
+**Members of the Salaf (Rightly Guided Generations)**
+
+| Name             | Meaning                     |
+| ---------------- | --------------------------- |
+| Sahabah          | Companions of Mohammed      |
+| Tabi'oon         | 2nd Generation of followers |
+| Tabi' at'Tabi'in | 3rd Generation of followers |
 **The Early Caliphs** (Name, Status, Caliphate, Time)
+
+| Name | Status | Caliphate | Time |
+| ---- | ------ | --------- | ---- |
+|      |        |           |      |
 
 **Schools of Thought**
 
@@ -1075,6 +1086,13 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Shi'a Schools of Thought**
 
 **Sunni Schools of Jurisprudence (Main / Active)**
+
+| School  | Based on              | Generation of Imams |
+| ------- | --------------------- | ------------------- |
+| Hanafi  | Imam Abu Hanifa       | Tabi'               |
+| Shafi'i | Imam Shafa'i          |                     |
+| Maliki  | Imam Malik            |                     |
+| Hanbali | Imam Ahmed ibn Hanbal |                     |
 
 **Sunni Schools of Jurisprudence (Minor / Merged)**
 
