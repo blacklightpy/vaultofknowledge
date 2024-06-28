@@ -1,3 +1,8 @@
+# Plan
+- List Data and People
+- List Resources (Multiple Sources for Quran, Hadith, Fatwas)
+- List Incitement Verses
+- List by Context (Quran, Hadith, Tafsir, Philosophy)
 # Women (general and married)
 
 **Right to Strike Women**

@@ -1,7 +1,8 @@
 # RSS
 - https://qr.ae/psBGYZ (RSS is not terrorist)
 - https://qr.ae/psBGHy (RSS is not casteist)
-- Anyone in India who is NOT a Muslim, Christian, Parsi or Jew by religion, is a Hindu.
+- Anyone in India who is NOT a Muslim, Christian, Parsi (Zoroastrian) or Jew by religion, is a Hindu.
+- Also Hindutva wants to decentralize economy, as opposed to the socialist, centralized form
 # Old Testament
 ## Old Testament and Talmud
 - Old Testament
