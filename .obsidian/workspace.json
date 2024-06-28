@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "289d209662544ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -278,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Starship Engines.md"
               }
             }
           },
@@ -316,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,10 +371,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd19d31978b8cf05",
+  "active": "289d209662544ffa",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "_images/Pasted image 20240628022104.png",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
