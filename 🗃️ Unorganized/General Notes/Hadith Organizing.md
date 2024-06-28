@@ -75,6 +75,16 @@
 > [Sunan ibn Majah 9:1926](https://sunnah.com/urn/1261700 "sunnah.com"):  
 > It was narrated that: Abdullah bin Abu Awfa said “When Muadh bin Jabal came from Sham, he prostrated to the Prophet who said: 'What is this, O Muadh?' He said: 'I went to Sham and saw them prostrating to their bishops and patricians and I wanted to do that for you.' The messenger of Allah said: 'Do not do that. If I were to command anyone to prostrate to anyone other than Allah, I would have commanded women to prostrate to their husbands. By the One in Whose Hand is the soul of Muhammad! No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.”
 
+# Rules on Hitting Women
+
+- Wives are to obey their husbands
+- Their husbands can hit them
+- Wives cannot divorce husbands without "reason"
+- Wives cannot the house without the husband's permission
+- Total marital imprisonment
+
+- "Oh it is to protect women"
+- You don't protect women by restricting them
 # Women (captives)
 
 The word "سَبَايَا" (sabaya) means captive women.

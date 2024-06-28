@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
               }
             }
           },
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,11 +358,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "daf154b5d6e24c1c",
+  "active": "cd19d31978b8cf05",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "_images/Pasted image 20240628022104.png",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
