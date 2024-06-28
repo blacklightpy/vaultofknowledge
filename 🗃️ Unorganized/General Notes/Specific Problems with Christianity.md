@@ -251,6 +251,13 @@ They justify that if God says so, killing people is moral.
 
 They say that death is everywhere and humans cannot be united.
 This is wishful thinking.
+
+## Evils of Christianity
+- Salem Witch Trials (massacre of educated women)
+- Antisemitic Pogroms (massacre of Jews)
+- Anti-Abortion campaigns (against rational philosophy)
+- Persecution of LGBTQIA+ (dangerous to mental health, violation of humanity)
+- Terrorist attacks (minimal in the modern world, but radicals exist)
 # Quran Verses
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
