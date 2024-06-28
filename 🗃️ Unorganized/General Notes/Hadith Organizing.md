@@ -105,6 +105,10 @@
 	- He asked Abu Bakr to let him marry Aisha: https://sunnah.com/bukhari:5081
 # Kissing children
 - https://sunnah.com/adab:1183 (Kissing Hassan) (Hasan)
+
+- Former Iran Supreme Leader Ayatollah Ruhollah Musavi Khomeini
+	- Fatwa: Marrying pre-pubescent girls
+	- Fatwa: Kissing boys
 # Women (captives)
 
 The word "سَبَايَا" (sabaya) means captive women.
