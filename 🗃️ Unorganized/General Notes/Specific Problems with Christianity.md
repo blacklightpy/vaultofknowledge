@@ -1080,6 +1080,10 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 **Invalid Schools of Theology / Aqidah (as per Sunni Scholars)**
 - Mu'utazila
+- Jahami
+- Qadariyah
+- Kharijis
+- Raafidis (Twelver Shia)
 
 **Shi'a Schools of Theology / Aqidah**
 - Jafari
