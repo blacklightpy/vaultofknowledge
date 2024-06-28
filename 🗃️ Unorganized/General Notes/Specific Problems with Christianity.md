@@ -588,6 +588,8 @@ Hindu answer (on Hindutva): https://qr.ae/pszIQD
 | They didn't start a battle, but the Arabs fought them when they went with the partition plan. So they fought the battle, but they didn't kill everyone. Instead, 20% of Israelis are Arabs. And they didn't collect something like Jizya from them to humiliate them to let them live there. | So they killed every single member of those tribes, "except those from The People of The Book (Ahl Al-Kitab)", "who paid Jizya tax", "in humiliation to Islam" (Surah 9, Ayah 5). |
 | **Status: GENOCIDAL IMMORAL WAR**                                                                                                                                                                                                                                                            | **Status: NON-GENOCIDAL RIGHTEOUS WAR**                                                                                                                                           |
 
+- They wage war because one of two people didn't follow it, and everyone were punished for it. And it is doubtful whether all polytheists were killed, or if some were allowed to live under humiliation.
+
 - 33:59 to 33:62
 	- The Tafsirs say Hijab should be worn (59)
 	- The Tafsirs say apostates should be killed (60-62)
