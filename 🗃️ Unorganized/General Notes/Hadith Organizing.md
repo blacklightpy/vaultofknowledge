@@ -90,6 +90,10 @@
 
 - "Oh it is to protect women"
 - You don't protect women by restricting them
+
+# Age
+- Women become permissible at age 6
+- Their parents can give them to marriage
 # Women (captives)
 
 The word "سَبَايَا" (sabaya) means captive women.
