@@ -489,10 +489,10 @@ Tafsirs are written by Mufassir (plural: Mufassirun)
 
 # Specific Contexts in Islam
 - Believe Hadeeths Verse
-	- 4:80
-	- 24:63
-	- 4:65
-	- 8:24
+	- 4:80 (Obey Prophet)
+	- 24:63 (Don't disobey him)
+	- 4:65 (You won't be true believers until you accept him as your judge)
+	- 8:24 (Respond to Allah and his messenger)
 	- Al-Tirmidhi reported from Abu Raafi’ and others that the Prophet (peace be upon him) said: “I do not want to see any one of you reclining on his couch and, when he hears of my instructions or prohibitions, saying ‘I don’t accept it; we didn’t find any such thing in the Book of Allah.’” Abu ‘Eesaa said: This is a saheeh hasan hadeeth. (See Sunan al-Tirmidhi, Shaakir edition, no. 2663).
 
 - People justifying killing polytheists

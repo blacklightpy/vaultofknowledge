@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
               }
             }
           },
@@ -316,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,10 +358,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cd19d31978b8cf05",
+  "active": "daf154b5d6e24c1c",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
     "_images/Pasted image 20240628022104.png",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
