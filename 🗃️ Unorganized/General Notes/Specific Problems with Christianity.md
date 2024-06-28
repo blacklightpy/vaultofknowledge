@@ -673,7 +673,7 @@ Things I want to cover
 > 
 > I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for Aisha at that time, as she was a little girl, not yet reached the age of puberty.) (Fath-ul-Bari page 143, Vol.13)
 
-- Fath-ul-Bari on 6130 is on p. 543-544, Vol.10 on Archive.org
+- Fath-ul-Bari Tafsir on Hadith 6130 is on p. 543-544, Vol.10 on Archive.org
 	- https://archive.org/details/FathUlBari./Fath_Ul_Bari_Vol_10/page/n543/mode/2up) 
 ### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
