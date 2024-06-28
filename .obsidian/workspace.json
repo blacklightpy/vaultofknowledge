@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01d4b43611caadbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -278,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md"
               }
             }
           },
@@ -316,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,10 +371,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "daf154b5d6e24c1c",
+  "active": "01d4b43611caadbe",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Minimal Project Tree.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
+    "🗃️ Unorganized/General Notes/Layouts.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
     "_images/Pasted image 20240628022104.png",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
@@ -383,10 +400,6 @@
     "🗃️ Unorganized/General Notes/How to drink all the tea from a cup.md",
     "🗃️ Unorganized/General Notes/StackOverflow Buoyancy Viscosity doubt correction.md",
     "🗃️ Unorganized/General Notes/My Experience with Reading the Bible.md",
-    "🗃️ Unorganized/General Notes/Electricity and Magnetism.md",
-    "🗃️ Unorganized/General Notes/How do antennas work if DC cannot pass through air.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Could Ears See.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Religions in General (long).md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
