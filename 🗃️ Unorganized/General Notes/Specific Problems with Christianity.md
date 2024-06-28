@@ -502,6 +502,9 @@ Tafsirs are written by Mufassir (plural: Mufassirun)
 	- Weak Hadith
 		- The one who weds his hand is cursed (Tafseer Mazhari Vol. 12, Pg. 94)
 	- https://islam.stackexchange.com/questions/3004/is-masturbation-permissible-for-a-man-during-an-extended-period-of-unmarried-lif
+
+- Verse on sex revealed
+	- https://sunnah.com/muslim:1435b (Jews said sex from behind will result in child having a squint)
 ## Philosophizing
 - The claim that Islam made people release slaves
 	- The idea is that slaves could be released, as one of the ways to erase sins
