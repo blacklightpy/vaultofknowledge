@@ -1,4 +1,7 @@
-
+# RSS
+- https://qr.ae/psBGYZ (RSS is not terrorist)
+- https://qr.ae/psBGHy (RSS is not casteist)
+- Anyone in India who is NOT a Muslim, Christian, Parsi or Jew by religion, is a Hindu.
 # Old Testament
 ## Old Testament and Talmud
 - Old Testament
