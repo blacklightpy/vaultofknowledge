@@ -169,7 +169,7 @@ In essence, the commandments harmful to Jews are:
 - 2. Kill all witches (Ex 22:18)
 - 3. Kill anyone who does not observe the Sabbath (Ex 31:14)
 	- Kill those who work on the Sabbath (Ex 31:15)
-- 4. If a man cheats on his neighbour's wife, put them to death (Lev 20:10)
+- 4. If a man cheats on his neighbor's wife, put them to death (Lev 20:10)
 - 5. Kill gays (Lev 20:13, Rom 1:21-32)
 - 6. Kill necromancers and mediums (Lev 20:27)
 - 7. Kill blasphemers (Lev 24:14)
