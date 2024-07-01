@@ -201,19 +201,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01d4b43611caadbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 12
@@ -373,10 +360,10 @@
   },
   "active": "daf154b5d6e24c1c",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Missing Courses.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Minimal Project Tree.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🗃️ Unorganized/General Notes/Layouts.md",
