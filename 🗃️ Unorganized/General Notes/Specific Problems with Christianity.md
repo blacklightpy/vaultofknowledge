@@ -299,7 +299,7 @@ This is wishful thinking.
 	- A woman's testimony is half as worth that of a man
 	- Exception for 11 wives to Mohammed
 		- 33:51
-	- Hide your Sins
+	- Hide your Sins (don't speak of them)
 		- 4:148
 	- Killing a boy in the name of future crimes
 		- 18:65 (Moses meets an enlightened servant, al-Khidr and walks with him, but he does questionable things)
