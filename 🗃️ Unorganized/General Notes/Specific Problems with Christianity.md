@@ -446,7 +446,7 @@ This is wishful thinking.
 - Istihsan (Discretion)
 - Istishab (Presumption of Continuity)
 - al-Masalih al-Mursala (Public Interest)
-- adh-Dhara'i'(Means)
+- adh-Dhara'i' (Means)
 - 'Adat (Customs) and 'Urf (Customary Usage) 
 
 - Tafsirs (Commentary) (Based on the Quran, Hadiths, Fatwas of the Companions and the Fatwas of those who've known them)
