@@ -332,6 +332,8 @@ This is wishful thinking.
 		- 30:28 (Would you ever allow your slaves to be equal partners in wealth to you?)
 		- 24:33 (Only guideline: do not make them prostitutes to earn money / pimp)
 		- 33:50 (Have relationships with wives to whom you've paid dowry to, and slave women)
+		- 66:1 (Why refuse what Allah has made lawful?)
+			- 66:2-4 (you can break such oaths, and when the wives asked, he replied Allah said so)
 		- Freeing slaves to make up for sins is mentioned, but one could also just repent
 		- A slave woman could reject her master for illness, etc.
 		- Don't marry polytheist women, believing slaves are better
