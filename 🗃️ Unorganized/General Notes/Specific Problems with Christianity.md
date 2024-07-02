@@ -334,6 +334,12 @@ This is wishful thinking.
 		- 33:50 (Have relationships with wives to whom you've paid dowry to, and slave women)
 		- 66:1 (Why refuse what Allah has made lawful?)
 			- 66:2-4 (you can break such oaths, and when the wives asked, he replied Allah said so)
+			- 66:5 (if they are annoying, he may divorce you and Allah may give him other better wives)
+			- But an earlier worse said nobody can marry his wives if he divorces them
+			- 66:6-9 to change context to instill fear of hell
+			- 66:10 verse about bad women (Lot's daughters)
+			- 66:11 verse about obedient women
+			- 66:12 verse about Mariam, the chaste
 		- Freeing slaves to make up for sins is mentioned, but one could also just repent
 		- A slave woman could reject her master for illness, etc.
 		- Don't marry polytheist women, believing slaves are better
