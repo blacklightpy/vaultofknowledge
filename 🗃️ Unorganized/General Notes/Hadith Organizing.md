@@ -125,7 +125,7 @@ Revelation of 4:24:
 # Jihad
 
 - Claim: Don't kill them, because the goal is to hope they go to heaven. Killing will ruin it.
-
+- Killing children of polytheists in night raids: https://sunnah.com/muslim:1745a
 # Stupidity
 - Ummah will be split into 73 sects, and 72 will go to hell
 	- https://sunnah.com/ibnmajah:3992
