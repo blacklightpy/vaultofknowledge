@@ -50,3 +50,4 @@
 - Forgiving
 - Hospitality
 - Zakat and Charity
+
