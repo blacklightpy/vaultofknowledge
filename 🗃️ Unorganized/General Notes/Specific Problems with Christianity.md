@@ -686,12 +686,12 @@ Things I want to cover
 ### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
 	- https://www.islamweb.net/ar/fatwa/214033 (Arabic)
-### Misogyny
+### Misogyny (my bad)
 - Whoever has a girl child will frown
-	- 16:58
-### Dumb Ruling
+	- 16:58 (ACTUALLY that was for polytheists)
+### Dumb Ruling (my bad)
 - An adulterer should marry an adulteress or polytheist
-	- 24:3
+	- 24:3 (BECAUSE they're non-Muslim evil ones)
 # Stupidity in Community 1
 - StackOverflow is built by Israeli/American Jew, who is openly gay
 - Well, Google search, and most of the web too is built by Jews and Americans. Alan Turing was gay.
