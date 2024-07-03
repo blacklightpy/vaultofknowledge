@@ -19,34 +19,21 @@
 
 
 
-
-
+- Neutral
 The Islamic Tradition Itself
 Qur'an, Hadith and Sunnah
 Textual History of the Qur'an
-
 Satanic Verses
+
 Previous Scriptures
+
+- Trouble
 Booty
-Special Entitlements
 Jihad
 War
 Executions
 Torture
 Wives
-White Complexion
-
-Good Manners and Helping Others
-Good Manners (Adab)
-Caring for Orphans‎
-Caring for the Poor
-Caring for Widows
-Caring for Parents
-Forgiving Others
-Hospitality
-Zakat and Sadaqah
-
-Women
 Al-'Azl
 Beauty
 FGM
@@ -57,52 +44,52 @@ Rape
 Violence
 Wife Beating
 
+
+
+
+
 Jihad
 Peaceful Coexistence
 Defensive Jihad
 Offensive Jihad
-
 Miscellaneous Verses
 Mujahids
 Forced Conversion
 Fear and Terror in War
 Scholars on Jihad
-Non-Muslims
-Apostates
-Atheists
-Christians & Jews
-Characteristics
-Friendship
 
-Miscellaneous
 Aisha
 Alcohol
 Amputation
 Animals
-Banu Qurayza
-Cosmology
-Creation
-Dhimma
 Forbidden Things
 Homosexuality
-Heaven
-Hell
 Hygiene
 Jizyah
+
 Lying
 Mischief
+
 Music
 Child Marriage
 Pictures
-Predestination
-Punishments
-Race and Tribe
-Reproduction
-Sexuality
-Slavery
+
+
+- Punishments
 Stoning
+
+- Etiquette
 Toilet Etiquette
-Urine
-Sexuality
-Occult
 Peculiar Traditions
+Reproduction
+
+- Good 
+Good Manners and Helping Others
+Good Manners (Adab)
+Caring for Orphans‎
+Caring for the Poor
+Caring for Widows
+Caring for Parents
+Forgiving Others
+Hospitality
+Zakat and Sadaqah
