@@ -99,7 +99,7 @@
 	- Iddah is due to pregnancy chances
 	- Iddah is same for pre-pubescent women
 	- Women become fit for sex officially at age 9, as did Aisha
-	- While women are unfit for sex, they can be thighed (Mufa’khathat))
+	- While women are unfit for sex, they can be thighed (Mufa’khathat)
 
 - Aisha
 	- He asked Abu Bakr to let him marry Aisha: https://sunnah.com/bukhari:5081
