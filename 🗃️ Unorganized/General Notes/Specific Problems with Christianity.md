@@ -763,7 +763,7 @@ Things I want to cover
 	- Alcohol was sign from Allah. Then it changed after drunk Hamza insulted Mohammed as his family slave.
 	- 16:67 Intoxication used to be among the signs from Allah
 	- 47:15 (Wine will be a reward in paradise)
-	- 4:43 (The companions used to drink it)
+	- 4:43 (Don't go to prayer while drunk)
 	- 5:90-91 (Alcohol is from Satan)
 	- Order of Quran Revelation:
 		- Mecca: 12 (53), 16 (70)
@@ -775,7 +775,6 @@ Things I want to cover
 
 - Other verses about alcohol:
 	- 2:219 (More evil than good)
-	- 4:43 (Don't go to prayer while drunk)
 	- 5:90-91 (Alchol is from Satan)
 	- 12:36
 	- 12:41
