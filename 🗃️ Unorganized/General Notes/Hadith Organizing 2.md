@@ -53,38 +53,43 @@
 
 # Tawbah
 
-˹This is˺ a discharge from all obligations, by Allah and His Messenger, to the polytheists you ˹believers˺ have entered into treaties with:
+1. ˹This is˺ a discharge from all obligations, by Allah and His Messenger, to the polytheists you ˹believers˺ have entered into treaties with:
 
-“You ˹polytheists˺ may travel freely through the land for four months, but know that you will have no escape from Allah, and that Allah will disgrace the disbelievers.”
+2. “You ˹polytheists˺ may travel freely through the land for four months, but know that you will have no escape from Allah, and that Allah will disgrace the disbelievers.”
 
-A declaration from Allah and His Messenger ˹is made˺ to all people on the day of the greater pilgrimage that Allah and His Messenger are free of the polytheists. So if you ˹pagans˺ repent, it will be better for you. But if you turn away, then know that you will have no escape from Allah. And give good news ˹O Prophet˺ to the disbelievers of a painful punishment.
+3. A declaration from Allah and His Messenger ˹is made˺ to all people on the day of the greater pilgrimage that Allah and His Messenger are free of the polytheists. So if you ˹pagans˺ repent, it will be better for you. But if you turn away, then know that you will have no escape from Allah. And give good news ˹O Prophet˺ to the disbelievers of a painful punishment.
 
-As for the polytheists who have honoured every term of their treaty with you and have not supported an enemy against you, honour your treaty with them until the end of its term. Surely Allah loves those who are mindful ˹of Him˺.
+4. As for the polytheists who have honoured every term of their treaty with you and have not supported an enemy against you, honour your treaty with them until the end of its term. Surely Allah loves those who are mindful ˹of Him˺.
 
-But once the Sacred Months have passed, kill the polytheists ˹who violated their treaties˺ wherever you find them, capture them, besiege them, and lie in wait for them on every way. But if they repent, perform prayers, and pay alms-tax, then set them free. Indeed, Allah is All-Forgiving, Most Merciful.
+5. But once the Sacred Months have passed, kill the polytheists ˹who violated their treaties˺ wherever you find them, capture them, besiege them, and lie in wait for them on every way. But if they repent, perform prayers, and pay alms-tax, then set them free. Indeed, Allah is All-Forgiving, Most Merciful.
 
-And if anyone from the polytheists asks for your protection ˹O Prophet˺, grant it to them so they may hear the Word of Allah, then escort them to a place of safety, for they are a people who have no knowledge.
+6. And if anyone from the polytheists asks for your protection ˹O Prophet˺, grant it to them so they may hear the Word of Allah, then escort them to a place of safety, for they are a people who have no knowledge.
 
-How can such polytheists have a treaty with Allah and His Messenger, except those you have made a treaty with at the Sacred Mosque? So, as long as they are true to you, be true to them. Indeed Allah loves those who are mindful ˹of Him˺.
+7. How can such polytheists have a treaty with Allah and His Messenger, except those you have made a treaty with at the Sacred Mosque? So, as long as they are true to you, be true to them. Indeed Allah loves those who are mindful ˹of Him˺.
 
-How ˹can they have a treaty˺? If they were to have the upper hand over you, they would have no respect for kinship or treaty. They only flatter you with their tongues, but their hearts are in denial, and most of them are rebellious.
+8. How ˹can they have a treaty˺? If they were to have the upper hand over you, they would have no respect for kinship or treaty. They only flatter you with their tongues, but their hearts are in denial, and most of them are rebellious.
 
-They chose a fleeting gain over Allah’s revelations, hindering ˹others˺ from His Way. Evil indeed is what they have done!
+9. They chose a fleeting gain over Allah’s revelations, hindering ˹others˺ from His Way. Evil indeed is what they have done!
 
-They do not honour the bonds of kinship or treaties with the believers. It is they who are the transgressors.
+10. They do not honour the bonds of kinship or treaties with the believers. It is they who are the transgressors.
 
-But if they repent, perform prayer, and pay alms-tax, then they are your brothers in faith. This is how We make the revelations clear for people of knowledge.
+11. But if they repent, perform prayer, and pay alms-tax, then they are your brothers in faith. This is how We make the revelations clear for people of knowledge.
 
-But if they break their oaths after making a pledge and attack your faith, then fight the champions of disbelief—who never honour their oaths—so perhaps they will desist.
+12. But if they break their oaths after making a pledge and attack your faith, then fight the champions of disbelief—who never honour their oaths—so perhaps they will desist.
 
-Will you not fight those who have broken their oaths, conspired to expel the Messenger ˹from Mecca˺, and attacked you first? Do you fear them? Allah is more deserving of your fear, if you are ˹true˺ believers.
+13. Will you not fight those who have broken their oaths, conspired to expel the Messenger ˹from Mecca˺, and attacked you first? Do you fear them? Allah is more deserving of your fear, if you are ˹true˺ believers.
 
-˹So˺ fight them and Allah will punish them at your hands, put them to shame, help you overcome them, and soothe the hearts of the believers—
+14. ˹So˺ fight them and Allah will punish them at your hands, put them to shame, help you overcome them, and soothe the hearts of the believers—
 
 ## Questions
 
-1. What treaties are being referred to in verse 1?
+1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
-3. Who is broke the treaty first? Was the discharge of treaties preceded by breaking of treaties by the polytheists?
+3. Who broke the treaty first? Was the discharge of treaties preceded by breaking of treaties by the polytheists?
 4. What were the conditions of the treaties?
-5. Which pep
+5. Which conditions of the treaties did the polytheists break?
+6. Which polytheists are being referred to in Verse 2?
+7. What is meant by "you will have no escape from Allah" in Verse 2?
+8. When is the context of this greater pilgrimage as mentioned in Verse 3?
+9. Why are the polytheists being asked to repent?
+10. 

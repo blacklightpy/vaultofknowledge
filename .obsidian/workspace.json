@@ -217,6 +217,25 @@
           }
         ],
         "currentTab": 15
+      },
+      {
+        "id": "8b7f31f7b8ce2e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b285a5e45f047530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -371,7 +390,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0609db38870a64f9",
+  "active": "b285a5e45f047530",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
