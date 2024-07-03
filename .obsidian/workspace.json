@@ -201,9 +201,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fcbad275ca2d000a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -232,7 +240,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fire hell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -249,12 +257,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -278,7 +286,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,9 +301,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -316,7 +321,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,11 +362,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "daf154b5d6e24c1c",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Antisemitic Quotes from the Talmud Debunked.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/App Development/Android App Development/Android SDK.md",
