@@ -15,11 +15,11 @@
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
 - 5:32 Whoever saves a life
+- 2:256 Let there be no compulsion in religion, because the true din is clear
 
 
-
-
-
+- 60:10 Stealing Women
+- Shirk is a crime against Allah
 - Jihad against all non-believers
 - Killing Apostates
 
@@ -29,36 +29,24 @@
 
 - Most women are in hell
 - A woman's testimony is half as worth as that of a man 
+- Men can hit their wives (so long as there is no mark)
+- Women can't divorce as easily as men
 
 - Aisha was married at 6
 - Aisha was consummated at 9
-- Menstruation status is not mentioned (Abu Dawud mistranslation)
+	- Menstruation status is not mentioned (Abu Dawud mistranslation)
 - Child Marriages
 
 - Gay men are killed
 - Effeminate men, Hermaphrodites and Masculine Women are expelled
 
+- Music
+- Pictures
 
-Music
-Pictures
-
-- Punishments
-Stoning
-
----
-- Etiquette
-Toilet Etiquette
-Peculiar Traditions
-Reproduction
-Hygiene
-
-- Good 
-Good Manners and Helping Others
-Good Manners (Adab)
-Caring for Orphans‎
-Caring for the Poor
-Caring for Widows
-Caring for Parents
-Forgiving Others
-Hospitality
-Zakat and Sadaqah
+- Crazy Traditions
+- Hygiene and Etiquette
+- Good Manners
+- Caring for Orphans, Poor, Widows, Parents
+- Forgiving
+- Hospitality
+- Zakat and Charity
