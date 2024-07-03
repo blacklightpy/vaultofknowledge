@@ -19,69 +19,38 @@
 
 
 
-- Neutral
-The Islamic Tradition Itself
-Qur'an, Hadith and Sunnah
-Textual History of the Qur'an
-Satanic Verses
 
-Previous Scriptures
+- Jihad against all non-believers
+- Killing Apostates
 
-- Trouble
-Booty
-Jihad
-War
-Executions
-Torture
-Wives
-Al-'Azl
-Beauty
-FGM
-Hijab
-Honor Killing
-Mahr
-Rape
-Violence
-Wife Beating
+ - Sex Slaves
+ - Slave Trade
+ - Sons of a married slave will be slaves of the master
 
+- Most women are in hell
+- A woman's testimony is half as worth as that of a man 
 
+- Aisha was married at 6
+- Aisha was consummated at 9
+- Menstruation status is not mentioned (Abu Dawud mistranslation)
+- Child Marriages
 
+- Gay men are killed
+- Effeminate men, Hermaphrodites and Masculine Women are expelled
 
-
-Jihad
-Peaceful Coexistence
-Defensive Jihad
-Offensive Jihad
-Miscellaneous Verses
-Mujahids
-Forced Conversion
-Fear and Terror in War
-Scholars on Jihad
-
-Aisha
-Alcohol
-Amputation
-Animals
-Forbidden Things
-Homosexuality
-Hygiene
-Jizyah
-
-Lying
-Mischief
 
 Music
-Child Marriage
 Pictures
-
 
 - Punishments
 Stoning
 
+---
 - Etiquette
 Toilet Etiquette
 Peculiar Traditions
 Reproduction
+Hygiene
 
 - Good 
 Good Manners and Helping Others
