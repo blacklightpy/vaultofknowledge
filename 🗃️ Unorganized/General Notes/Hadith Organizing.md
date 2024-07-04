@@ -14,12 +14,25 @@
 	- So, what is this Allah?
 - Since his actions were evil, evil always leaves a loophole
 
-- What is Al-Ilah
+- What is Al-Ilah (Definition)
 	- Al-Ilah means the one to be worshipped
 	- Or else, it would've said Al-Khaliqu (The creator)
 	- Rather, it says Allah is "the creator" and "the one to be worshipped"
 	- That cannot be true, because a creator doesn't need worship
 
+- What is Allah (Rational)
+	- Is Allah closer to that of a land, or a king?
+	- That is, is he a person, who has a persona, or a mask?
+	- Or is he something in between, that is, neither a person, nor a land?
+	- f
+	- Bharat Mata or Uncle Sam
+
+- What is Satan?
+	- Satan would then be the abstract personification of evil
+
+- What is the evil?
+	- He needed to turn one set of people against another
+	- To do that, 
 # Women (general and married)
 
 ## Quran
