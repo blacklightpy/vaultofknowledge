@@ -3,6 +3,23 @@
 - List Resources (Multiple Sources for Quran, Hadith, Fatwas)
 - List Incitement Verses
 - List by Context (Quran, Hadith, Tafsir, Philosophy)
+
+# Rough
+## My claims
+- Mohammed wanted to rule
+- In doing so, his actions were evil
+- He used the name of God and rewards to fool Arabs
+- Like a good Mafia boss, he couldn't do so without helping his people, and hurting others
+	- So the Omerta was the belief in Allah (apostates would be killed)
+	- So, what is this Allah?
+- Since his actions were evil, evil always leaves a loophole
+
+- What is Al-Ilah
+	- Al-Ilah means the one to be worshipped
+	- Or else, it would've said Al-Khaliqu (The creator)
+	- Rather, it says Allah is "the creator" and "the one to be worshipped"
+	- That cannot be true, because a creator doesn't need worship
+
 # Women (general and married)
 
 ## Quran
@@ -44,6 +61,10 @@
 > [Sahih al-Bukhari 5095](http://sunnah.com/bukhari/67/33 "sunnah.com"):  
 > Narrated Sahl bin Saad: Allah's Messenger said, "If at all there is bad omen, it is in the horse, the woman, and the house."
 
+**Other women are like the devil (sexually attractive), so when you see a woman, he should go to his wive and have sex**
+
+> [Sahih Muslim 1403 a](https://sunnah.com/muslim/16/10 "sunnah.com")Jabir reported that Allah's Messenger saw a woman, and so he came to his wife, Zainab, as she was tanning a leather and had sexual intercourse with her. He then went to his Companions and told them:  
+> The woman advances and retires in the shape of a devil, so when one of you sees a woman, he should come to his wife, for that will repel what he feels in his heart.
 ## Other Sahih
 **Permission to Umar to beat his wife. He rebuked the women who complained**
 
@@ -70,12 +91,6 @@
 > [Sunan ibn Majah 9:1926](https://sunnah.com/urn/1261700 "sunnah.com"):  
 > It was narrated that: Abdullah bin Abu Awfa said “When Muadh bin Jabal came from Sham, he prostrated to the Prophet who said: 'What is this, O Muadh?' He said: 'I went to Sham and saw them prostrating to their bishops and patricians and I wanted to do that for you.' The messenger of Allah said: 'Do not do that. If I were to command anyone to prostrate to anyone other than Allah, I would have commanded women to prostrate to their husbands. By the One in Whose Hand is the soul of Muhammad! No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.”
 
-## Scholarly Works
-
-**If a woman commits any open indecency, you can shut them in separate rooms and beat them, but not severely.**
-
-> [The History of Al-Tabari, tr. & ann. by Ismail K Poonawala (1990), Vol 09, page 113](https://archive.org/stream/TabariEnglish/Tabari_Volume_09#page%2Fn129%2Fmode%2F2up "archive.org"):  
-> “They should not commit any open indecency (fāꜧishah). If they do then God permits you to shut them in separate rooms and beat them, but not severely. If they abstain from [evil] they’ve a right to food and clothing in accordance with custom (bi’l-ma’rũf). Treat women well [for] they are [like] domestic animals (‘awān) with you and do not possess anything for themselves.
 ## Quran Tafsirs
 
 **Women are like animals**
@@ -83,8 +98,12 @@
 > Tafsir al-Qurtabi, Vol. 15, page 172:  
 > A woman may be likened to a sheep-even a cow or a camel-for all are ridden.
 
+## Scholarly Works
 
+**If a woman commits any open indecency, you can shut them in separate rooms and beat them, but not severely.**
 
+> [The History of Al-Tabari, tr. & ann. by Ismail K Poonawala (1990), Vol 09, page 113](https://archive.org/stream/TabariEnglish/Tabari_Volume_09#page%2Fn129%2Fmode%2F2up "archive.org"):  
+> “They should not commit any open indecency (fāꜧishah). If they do then God permits you to shut them in separate rooms and beat them, but not severely. If they abstain from [evil] they’ve a right to food and clothing in accordance with custom (bi’l-ma’rũf). Treat women well [for] they are [like] domestic animals (‘awān) with you and do not possess anything for themselves.
 # Rules on Hitting Women
 
 - Wives are to obey their husbands
