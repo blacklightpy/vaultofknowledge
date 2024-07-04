@@ -83,6 +83,8 @@
 
 ## Questions
 
+Treaty of Hubaydiyyah (6 AH) / Tawbah is the second last revelation.
+
 1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
 3. Who broke the treaty first? Was the discharge of treaties preceded by breaking of treaties by the polytheists?
