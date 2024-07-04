@@ -24,7 +24,7 @@
 	- Is Allah closer to that of a land, or a king?
 	- That is, is he a person, who has a persona, or a mask?
 	- Or is he something in between, that is, neither a person, nor a land?
-	- f
+	- const. India [...]
 	- Bharat Mata or Uncle Sam
 
 - What is Satan?
@@ -32,7 +32,9 @@
 
 - What is the evil?
 	- He needed to turn one set of people against another
-	- To do that, 
+	- To do that, he needed to make them believe that many innocent actions by humans were evil
+	- In doing so, he asked of humans to cast aside their humanity and worship the one who gave this law
+	- Since that law is evil, who is the personification of evil? Satan
 # Women (general and married)
 
 ## Quran
