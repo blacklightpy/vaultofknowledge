@@ -84,6 +84,11 @@
 ## Questions
 
 Treaty of Hubaydiyyah (6 AH) / Tawbah is the second last revelation.
+Time: After Battle of Badr, Uhud (defeat), and Trench.
+Battle of Hubaydiyyah tested their faith.
+
+They wanted to enter Kaaba and perform Tawaf (circumbabulation)
+
 
 1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
