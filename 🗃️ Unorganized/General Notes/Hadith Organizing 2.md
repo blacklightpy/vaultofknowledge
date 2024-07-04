@@ -92,4 +92,7 @@
 7. What is meant by "you will have no escape from Allah" in Verse 2?
 8. When is the context of this greater pilgrimage as mentioned in Verse 3?
 9. Why are the polytheists being asked to repent?
-10. 
+10. What is the news of painful punishment being given to the disbelievers in Verse 3?
+11. Who are included among the list of "polytheists who honoured every term of their treaty" in Verse 4? Did all polytheists have an end date for their treaties?
+12. What will happen to them at the end of their treaties? What will happen to those who did not have an end-date for their treaties?
+13. "Surely 'Allah' loves those who are mindful of him" - does this include those who honoured the treaties with those who claim to worship Allah?
