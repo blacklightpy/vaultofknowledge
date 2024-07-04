@@ -97,7 +97,7 @@
 
 **Wives should prostrate to their husbands**
 
-> [Jami` at-Tirmidhi 1159](https://sunnah.com/tirmidhi/12/14 "sunnah.com"): Hasan, Darussalam  
+> [Jami\` at-Tirmidhi 1159](https://sunnah.com/tirmidhi/12/14 "sunnah.com"): Hasan, Darussalam  
 > Abu Hurairah narrated that The Prophet said:  
 > “If I were to order anyone to prostrate to anyone, then I would order the wife to prostrate to her husband.”
 
@@ -131,6 +131,16 @@
 - You don't protect women by restricting them
 
 # Age
+## Quran
+
+## Bukhari/Muslim
+
+## Other Sahih/Hasan
+
+## Quran Tafsirs
+
+## Scholarly Works
+
 - Women become permissible at age 6
 - Their parents can give them to marriage
 
@@ -143,12 +153,33 @@
 - Aisha
 	- He asked Abu Bakr to let him marry Aisha: https://sunnah.com/bukhari:5081
 # Kissing children
+
+## Quran
+
+## Bukhari/Muslim
+
+## Other Sahih/Hasan
+
+## Quran Tafsirs
+
+## Scholarly Works
+
 - https://sunnah.com/adab:1183 (Kissing Hassan) (Hasan)
 
 - Former Iran Supreme Leader Ayatollah Ruhollah Musavi Khomeini
 	- Fatwa: Marrying pre-pubescent girls
 	- Fatwa: Kissing boys
 # Women (captives)
+
+## Quran
+
+## Bukhari/Muslim
+
+## Other Sahih/Hasan
+
+## Quran Tafsirs
+
+## Scholarly Works
 
 The word "سَبَايَا" (sabaya) means captive women.
 
@@ -163,9 +194,30 @@ Revelation of 4:24:
 
 # Jihad
 
+## Quran
+
+## Bukhari/Muslim
+
+## Other Sahih/Hasan
+
+## Quran Tafsirs
+
+## Scholarly Works
+
 - Claim: Don't kill them, because the goal is to hope they go to heaven. Killing will ruin it.
 - Killing children of polytheists in night raids: https://sunnah.com/muslim:1745a
 # Stupidity
+
+## Quran
+
+## Bukhari/Muslim
+
+## Other Sahih/Hasan
+
+## Quran Tafsirs
+
+## Scholarly Works
+
 - Ummah will be split into 73 sects, and 72 will go to hell
 	- https://sunnah.com/ibnmajah:3992
 	- https://sunnah.com/tirmidhi:2641
