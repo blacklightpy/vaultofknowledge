@@ -262,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -337,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
               }
             }
           },
@@ -375,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,10 +417,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a9328595ddb6e5ef",
+  "active": "0609db38870a64f9",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
@@ -445,7 +446,6 @@
     "🗃️ Unorganized/General Notes/The rationale behind copyleft licensing.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Magnetism Video Notes.md",
-    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",

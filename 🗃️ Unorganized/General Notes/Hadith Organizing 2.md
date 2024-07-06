@@ -89,6 +89,8 @@ Battle of Hubaydiyyah tested their faith.
 
 They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 
+- Treaty of Hubaydiyyah
+	- Hudna (Truce) had a max-limit of 10 years
 
 1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
