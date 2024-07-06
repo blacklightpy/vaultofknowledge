@@ -99,7 +99,7 @@ They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 - Mohammed saw a dream of doing Hajj (Quran 48:27)
 
 - Hudna (used by Hamas): Tactical armstice (max 10 years)
-- Tahaida (temporary ceasefire)
+- Tahaida (temporary halt in violence)
 - Mu'ahada (Israel-Egypt style treaty)
 
 1. What treaties are being referred to in Verse 1?
