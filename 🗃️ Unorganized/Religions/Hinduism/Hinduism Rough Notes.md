@@ -15,16 +15,16 @@
 - Words
 # Stuff to Learn
 - Scriptures
-	- Vedas (Tier 1)
-	- Dharma Shastras (Tier 2)
-	- Puranas (Tier 3)
-		- Maha Puranas
-		- Upa Puranas
+	- Vedas
 - Agamas (Related to Samhithas)
 - Smritis
 	- Bhakti Shastras
 		- Ithihasas
-		- Supplimentary
+		- Supplementary
+	- Dharma Shastras (Tier 2)
+	- Puranas (Tier 3)
+		- Maha Puranas
+		- Upa Puranas
 	- Poetic Works (Kalidasa, etc.)
 	- Social Sciences
 
