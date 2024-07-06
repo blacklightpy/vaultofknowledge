@@ -94,10 +94,15 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 
 - Treaty of Hudaybiyyah
 	- Hudna (Truce) had a max-limit of 10 years
-	- Mohammed started stealing women (60:10, Bukhari 2731-2732 (lies, one the infidels said "By Allah" - and funny story))
-		- Because the treaty said "men"
-		- Bukhari 4180-81, 2711-12 (the true story)
-	- Banu Bakr attacked Banu Khuza'ah
+	- Mohammed's violations
+		- Mohammed started stealing women (60:10, Bukhari 2731-2732 (lies, one the infidels said "By Allah" - and funny story))
+			- Because the treaty said "men"
+			- Bukhari 4180-81, 2711-12 (the true story)
+		- Also Bukhari 2731-2732 said Abu Basir's team would attack caravans, kill them and steal their property
+		- Bukhari 6621 (Abu Bakr would replace oaths)
+		- Bukhar 3029-30 (War is deceit)
+	- They didn't attack because they didn't want to start a war
+	- Banu Bakr attacked Banu Khuza'ah (because they were always at war)
 	- This triggered the conquest of Mecca (8 AH)
 	- Abu Sufiyan surrendered and became a Muslim
 
