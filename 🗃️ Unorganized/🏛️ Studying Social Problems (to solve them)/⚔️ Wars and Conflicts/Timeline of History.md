@@ -438,9 +438,10 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Indus River Valley
 - 1700 BC: Indus River Valley Civilization died
 ### Indo-Europe
-- Some of the Indo-Europeans, Indo-Iranians founded the religion of Zoroastrianism
-	- Zoroastrianism was the most common religion is the Achaemenic, Parthian and Sassanid Persian empires.
-- Some of the Indo-Iranians came to India, and wrote hymns and stuff (Vedic Era)
+- Some of the Indo-Europeans split into the Indo-Iranians or Aryans
+- Some of the Indo-Iranians migrated to Iran, and Zarathustra wrote Gathas which founded Zoroastrianism
+	- Zoroastrianism was the most common religion is the Achaemenid, Parthian and Sassanid Persian empires.
+- Some of the Indo-Iranians migrated to India, and wrote hymns and stuff (Vedic Era)
 	- Hinduism was a combination of the Aryan Vedas and the Dravidian Hinduism
 	- The Vedas included the yajnas, yaagams, etc.
 	- So Hinduism has a lot in common with Zoroastrianism.
