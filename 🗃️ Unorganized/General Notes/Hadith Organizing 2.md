@@ -96,6 +96,12 @@ They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 	- This triggered the conquest of Mecca (8 AH)
 	- Abu Sufiyan surrendered and became a Muslim
 
+- Mohammed saw a dream of doing Hajj (Quran 48:27)
+
+- Hudna (used by Hamas): Tactical armstice (max 10 years)
+- Tahaida (temporary ceasefire)
+- Mu'ahada (Israel-Egypt style treaty)
+
 1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
 3. Who broke the treaty first? Was the discharge of treaties preceded by breaking of treaties by the polytheists?
