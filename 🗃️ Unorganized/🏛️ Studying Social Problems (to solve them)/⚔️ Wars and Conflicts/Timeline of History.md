@@ -476,6 +476,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 612 BC: Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
 	- [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
 - The Median empire conquered part of the Neo-Babylonian empire
+- 586 BC: The First Temple of Israel was destroyed
 - 539 BC: They were conquered by the First Persian Empire, the Achaemenid Empire.
 	- Yehud now became Yehud Medinata
 ### Asia
