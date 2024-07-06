@@ -93,7 +93,7 @@ They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 	- Hudna (Truce) had a max-limit of 10 years
 	- Mohammed started stealing women (60:10)
 	- Banu Bakr attacked Banu Khuza'ah
-	- This triggered the conquest of Mecca
+	- This triggered the conquest of Mecca (8 AH)
 	- Abu Sufiyan surrendered and became a Muslim
 
 1. What treaties are being referred to in Verse 1?
