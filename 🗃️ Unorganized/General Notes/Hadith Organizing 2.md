@@ -104,6 +104,7 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 	- They didn't attack because they didn't want to start a war
 	- Banu Bakr attacked Banu Khuza'ah (because they were always at war)
 	- This triggered the conquest of Mecca (8 AH)
+		- Muslim sources say he sent a letter to Quraysh first
 	- Abu Sufiyan surrendered and became a Muslim
 
 - Mohammed saw a dream of doing Hajj (Quran 48:27)
