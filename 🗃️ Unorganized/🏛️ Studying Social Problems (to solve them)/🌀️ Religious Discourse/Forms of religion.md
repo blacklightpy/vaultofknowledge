@@ -68,3 +68,45 @@ For when you want to put it into more detail. Here are some examples.
 - Transcendentalism 
 - Transtheism 
 - Unitarianism
+# Notes 2
+## Theistic Form
+
+### Belief in only one god
+
+- Monotheism (God monitors everything)
+- Deism (God made everything and left)
+### Belief in one god and sub-gods
+
+- Henotheism
+### Belief in many gods
+
+- Monolatry (Worship of only one god)
+- Kathenotheism (Worship one god at a time)
+- Polytheism (Worship many gods at once)
+### Don't know what's it exactly
+
+- Agnostic Theism (Whether god exists or not cannot be known)
+- Ietsism (Agnostic Atheism, Spiritual but Not Religious) (Tends to be more skeptical about the idea of god itself)
+### No God
+
+- Atheism
+## Attribute Form
+
+- Pan-theism (All is God) (Hinduism)
+- Pan-en-theism (All is in God) (Hinduism (Brahman-Creation) (achintya Bheda Abheda, Dvaitadvaita (differential monism), Vishistadvaita (qualified monism)), Shakti/Tantra, Kabbalah)
+- Pan-deism (God became All)
+
+- Monism (There is only one thing at the deepest level) (Vedanta)
+- Dualism (Dvaita Vedanta, Taoism (Yin-Yang))
+
+- Ignosticism/Igtheism (God is a incomprehensible entity, hence religions are meaningless (e.g. "God created everything except Himself" is meaningless))
+
+- Omnism (Belief in all religions as possible)
+- Transtheism (God is not an important aspect of reality)
+## Philosophical Viewpoints
+- Fideism (Faith is unreasonable)
+
+
+
+
+
