@@ -89,6 +89,7 @@ Battle of Hubaydiyyah tested their faith.
 
 They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 
+Allies: Bani Kinanah, Bani Khuza'ah and Bani Damrah.
 Treaty: Bukhari 2700, 4180-81, 2711-12
 
 - Treaty of Hudaybiyyah
