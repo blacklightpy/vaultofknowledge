@@ -470,9 +470,11 @@ With agriculture, food became more reliable, but less varied, and people became 
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 ## Time Period 6 (700 BC - 300 BC)
 ### Mesopotamia, Asia
-- 678 BC: The Median Empire forms in Iran
-- 671 BC: Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
+- 729 BC: Assyrians captured the Babylonian kingdom with the founding of Neo-Assyrian empire.
+- 720 BC: The Kingdom of Israel was destroyed by the Neo-Assyrian Empire
 - Chaldeans broke away from the Neo-Assyrian empire into the Babylon
+- 701 BC: Seige of Jerusalem by Neo-Assyrian empire fails
+- 678 BC: The Median Empire forms in Iran
 - 612 BC: Neo-Assyrian empire was captured by the Neo-Babylonian empire, also known as the Chaldean empire, also from Mesopotamia.
 	- [The Bible refers to Chaldeans as idolators who attacked the Jews. Some say that they are descendants of Abraham who turned to idolatry. Historically, the Chaldeans were educated people who studied science, history, languages, astronomy and also magic and astrology.]
 - The Median empire conquered part of the Neo-Babylonian empire
