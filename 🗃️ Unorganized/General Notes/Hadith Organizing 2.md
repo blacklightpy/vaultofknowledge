@@ -83,15 +83,15 @@
 
 ## Questions
 
-Treaty of Hubaydiyyah (6 AH) / Tawbah is the second last revelation.
+Treaty of Hudaybiyyah (6 AH) / Tawbah is the second last revelation.
 Time: After Battle of Badr, Uhud (defeat), and Trench.
 Battle of Hubaydiyyah tested their faith.
 
 They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 
-- Treaty of Hubaydiyyah
+- Treaty of Hudaybiyyah
 	- Hudna (Truce) had a max-limit of 10 years
-	- Mohammed started stealing women (60:10)
+	- Mohammed started stealing women (60:10, Bukhari 2731-2732 (lies, one the infidels said "By Allah" - and funny story))
 	- Banu Bakr attacked Banu Khuza'ah
 	- This triggered the conquest of Mecca (8 AH)
 	- Abu Sufiyan surrendered and became a Muslim
