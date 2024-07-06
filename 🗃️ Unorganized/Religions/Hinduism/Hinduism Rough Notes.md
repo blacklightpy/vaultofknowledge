@@ -21,10 +21,10 @@
 	- Bhakti Shastras
 		- Ithihasas
 		- Supplementary
-	- Dharma Shastras (Tier 2)
-	- Puranas (Tier 3)
+	- Puranas
 		- Maha Puranas
 		- Upa Puranas
+	- Dharma Shastras
 	- Poetic Works (Kalidasa, etc.)
 	- Social Sciences
 
