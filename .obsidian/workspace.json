@@ -273,22 +273,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f75232be11a239d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -363,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md"
               }
             }
           },
@@ -401,7 +388,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -443,8 +430,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f75232be11a239d",
+  "active": "e272ac037316e101",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
@@ -471,7 +459,6 @@
     "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🗃️ Unorganized/General Notes/The rationale behind copyleft licensing.md",
-    "🗃️ Unorganized/General Notes/Abstractions.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
