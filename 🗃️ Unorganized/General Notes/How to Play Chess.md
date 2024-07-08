@@ -1,5 +1,5 @@
 # Methods
-
+- Openings (See ECO (Encyclopedia of Chess Openings))
 
 # Outline
 - The field is 8x8
@@ -14,6 +14,7 @@
 	- The king should not be at check when castline
 - En Passant
 	- The pawn can attack another pawn which made two moves at first, as though it has only made one move
+	- This is only applicable immediately after the pawn has moved two steps
 
 # Related Games
 - Chaturanga
@@ -22,3 +23,12 @@
 	- The Chariot replaces Rook
 	- The Pawn can only move one step forward
 	- There is no castling
+- Go
+- Backgammon
+- Checkers
+- Monopoly
+- Scrabble
+- Battleship
+- Uno
+- Snakes and Ladders
+- Cards Against Humanity
