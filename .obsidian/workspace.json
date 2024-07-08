@@ -286,9 +286,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5c3f8f8c9e7a55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The Nature of Games.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -363,7 +376,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play Chess.md",
+                "file": "🗃️ Unorganized/General Notes/The Nature of Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +393,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play Chess.md"
+                "file": "🗃️ Unorganized/General Notes/The Nature of Games.md"
               }
             }
           },
@@ -401,7 +414,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play Chess.md",
+                "file": "🗃️ Unorganized/General Notes/The Nature of Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -443,8 +456,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c3692bfa544654b1",
+  "active": "d5c3f8f8c9e7a55f",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/The Nature of Games.md",
     "🗃️ Unorganized/General Notes/How to Play Chess.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
@@ -471,7 +485,6 @@
     "🗃️ Unorganized/General Notes/Comparison of Nations.md",
     "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
-    "🗃️ Unorganized/General Notes/The Internals of Robot Operating System.md",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
     "_images/A misleading Pegasus infographic from Guardian.png",
