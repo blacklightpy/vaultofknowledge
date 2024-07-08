@@ -12,6 +12,8 @@
 	- The king or rook should not have moved
 	- No square in between should be a check for the king
 	- The king should not be at check when castline
+- En Passant
+	- The pawn can attack another pawn which made two moves at first, as though it has only made one move
 
 # Related Games
 - Chaturanga

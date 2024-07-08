@@ -1,4 +1,4 @@
-There are two c
+There are two classifications.
 # Meccan Surahs
 
 | Sl. No. | Surah | Translation | Context |
