@@ -27,6 +27,8 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 	- Aswamedha is a ritual in which a horse is killed, and the queen will insert it's penis into her vagina, and say horse, give seed.
 - Claim: Shiva discharged semen into Agni as a parrot (https://ikhlaskhan008.wordpress.com/2016/12/21/sex-with-animals-and-hinduism/)
 	- Truth: Semen does not come from penis in this context
+- Claim: Vyasa ejaculated after seeing an Apsara in the form of a parrot (https://ikhlaskhan008.wordpress.com/2016/12/21/sex-with-animals-and-hinduism/)
+	- Truth: It's generally understood to be mythological
 
 # Scholars
 - Adi Shankaracharya (8th century Advaita Vedanta scholar and Bhasyakara)
