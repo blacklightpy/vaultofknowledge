@@ -23,3 +23,5 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 - Narada Smriti
 - Manusmrti 10:69-72 (72: Men born of animals become sages)
 - Mahabharata Adi Parva Chapter 95 (Pandu killed a Rishi who was having mating in the form of a deer)
+- Ramayana 1.14.33-34 (Kausaylya performed Aswamedha)
+	- Aswamedha is a ritual in which a horse is killed, and the queen will insert it's penis into her vagina, and say horse, give seed.
