@@ -327,7 +327,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -402,7 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play Chess.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play Chess.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -440,7 +440,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Play Chess.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -482,14 +482,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c3692bfa544654b1",
+  "active": "e272ac037316e101",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/How to Play Chess.md",
-    "🗃️ Unorganized/General Notes/Animism vs Abrahamic Religions.md",
-    "🗃️ Unorganized/General Notes/Chronology of Quran.md",
-    "🗃️ Unorganized/General Notes/List of Stories in the Hebrew Bible.md",
     "🗃️ Unorganized/General Notes/The Nature of Games.md",
+    "🗃️ Unorganized/General Notes/Chronology of Quran.md",
+    "🗃️ Unorganized/General Notes/Animism vs Abrahamic Religions.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/List of Stories in the Hebrew Bible.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
