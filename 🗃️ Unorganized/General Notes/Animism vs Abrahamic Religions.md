@@ -47,3 +47,5 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 - Hindus put their brains first, and religion second
 	- That is, they are not afraid to think beyond their religion if someone gives them a good enough argument
 	- Because "disbelief" is not a crime
+- They use misinterpretations to find flaws in a culture that they don't understand
+	- So much so that even where there are no problems, then find problems
