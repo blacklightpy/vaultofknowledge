@@ -16,3 +16,7 @@ Yoni never comes into play.
 Lingam means symbol.
 
 The Shiva Lingam consists of the Pullingam and the Pitham (Source).
+## Beastiality
+
+- Vishnu Smriti
+- Narada Smriti
