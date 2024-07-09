@@ -17,6 +17,8 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 ### Vedas
 - Tattiriya Aranyaka of Yajurveda 10.16.2 (Namaha to Atmalinga, Shivlinga, Jwalalinga, etc.)
 ## Beastiality
-- Vishnu Smriti
+- Vishnu Smriti 5:40-44
+	- Beastiality has the same fine as intercourse with lower caste women
+	- Who has intercourse with the lowest caste of women should be put to death
 - Narada Smriti
-	- Fine (same as intercourse with lower caste women)
+- Manusmrti 10:69-72 (72: Men born of animals become sages)
