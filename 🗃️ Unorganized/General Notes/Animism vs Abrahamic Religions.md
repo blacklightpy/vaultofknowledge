@@ -22,3 +22,4 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 	- Who has intercourse with the lowest caste of women should be put to death
 - Narada Smriti
 - Manusmrti 10:69-72 (72: Men born of animals become sages)
+- Mahabharata Adi Parva Chapter 95 (Pandu killed a Rishi who was having mating in the form of a deer)
