@@ -27,8 +27,8 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 	- Aswamedha is a ritual in which a horse is killed, and the queen will insert it's penis into her vagina, and say horse, give seed.
 
 # Scholars
-- Adi Shankaracharya
-- Sayana
+- Adi Shankaracharya (8th century Advaita Vedanta scholar and Bhasyakara)
+- Sayana (14th century Mimamsa scholar and Bhasyakara of Vedas)
 - Mahidhara (16th century Bhasyakara of Vedas; Tantric ritual centric)
 - Aurobindo Gosh (Modern)
 - Arya Samaj (Modern, rejects idol worship)
