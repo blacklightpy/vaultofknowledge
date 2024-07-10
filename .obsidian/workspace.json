@@ -328,8 +328,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -404,7 +403,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -421,7 +420,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
               }
             }
           },
@@ -442,7 +441,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -484,11 +483,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c30c6a14d59bd054",
+  "active": "b285a5e45f047530",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Animism vs Abrahamic Religions.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",

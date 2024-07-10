@@ -13,6 +13,11 @@
 - No Muslim should ever be killed for killing a Kafir
 - No repatriation shall be paid for killing a sex slave
 
+- Banu Mustaliq
+	- Attacking the tribe without warning
+	- Marrying Juwarriyah to give her freedom
+	- Four witnesses 
+
 # Quran Stuff
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
