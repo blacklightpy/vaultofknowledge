@@ -9,7 +9,9 @@
 	- Iddah Period
 - Apostasy
 - Jihad
-
+## Specifics
+- No Muslim should ever be killed for killing a Kafir
+- No repatriation shall be paid for killing a sex slave
 
 # Quran Stuff
 - 8:39 Strike their fingertips off
