@@ -34,6 +34,10 @@
 
 - Women cannot have sex with their male slaves (like men can)
 	- Because Quran only mentions men having sex with their slaves, and forbids everything else
+- Also means that a slave women cannot safeguard her private parts
+
+- Celibacy is forbidden
+	- Sunan an-Nasa'i 3215
 # Quran Stuff
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
