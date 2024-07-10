@@ -23,6 +23,8 @@
 	- Enslaved captive women can be made use of to satisfy desires
 	- Mohammed used to put a cloth and fondle Aisha during menses
 
+- Marry a young girl, not a matron, so you can play with her
+
 # Quran Stuff
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
