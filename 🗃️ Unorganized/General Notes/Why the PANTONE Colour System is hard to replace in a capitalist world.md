@@ -32,6 +32,7 @@ This has topics I have more to study about, but I have some notes taken on it al
 	- Physical paint always uses subtractive mixing, as more components absorb more light, they are not sources. <br><br>
 - The special formulas in which certain paints are made are standardized by PANTONE.
 	- A formula is not magic, but a consistent procedure.<br><br>
+
 So what you need to realize is that paint and colours are nothing more than everyday objects just provided to you in a mixed and mashed form.
 
 - After all, they are just colourful because

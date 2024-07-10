@@ -79,7 +79,7 @@
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -253,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
