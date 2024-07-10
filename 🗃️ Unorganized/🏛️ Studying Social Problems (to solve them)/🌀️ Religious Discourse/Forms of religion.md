@@ -87,7 +87,7 @@ For when you want to put it into more detail. Here are some examples.
 
 - Agnostic Theism (Whether god exists or not cannot be known)
 - Ietsism (Agnostic Atheism, Spiritual but Not Religious) (Tends to be more skeptical about the idea of god itself)
-### No God
+### No god
 
 - Atheism
 ## Attribute Form
