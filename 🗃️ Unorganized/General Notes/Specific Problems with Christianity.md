@@ -361,7 +361,7 @@ This is wishful thinking.
 # Hadeeths
 ## Sahih Hadiths
 - Hadeeths
-	- Incitement against Jews
+	- Incitement against Jews (and Turks)
 		- Sahih al-Bukhari
 		- Sahih Muslim
 	- Expulsion of Jews and Christians
@@ -374,7 +374,8 @@ This is wishful thinking.
 		- Sahih al-Bukhari
 			- **5957 (Dress, Hadeeth 173):** I purchased a cushion with pictures on it. The Prophet (came and) stood at the door but did not enter. I said (to him), "I repent to Allah for what (the guilt) I have done." He said, "What is this cushion?" I said, "It is for you to sit on and recline on." He said, "The makers of these pictures will be punished on the Day of Resurrection and it will be said to them, 'Make alive what you have created.' Moreover, the angels do not enter a house where there are pictures.'"
 	- Washing Stains
-		- https://old.reddit.com/r/exmuslim/comments/162n43m/what_are_the_worst_disturbing_hadiths_or_facts/jxzv846/ (11 Hadeeths)
+		- https://old.reddit.com/r/exmuslim/comments/162n43m/what_are_the_worst_disturbing_hadiths_or_facts/jxzv846/ (11 Hadeeths - from Bukhari and Muslim)
+		- (If it had died, I'd have scraped it with my nails) https://sunnah.com/muslim:290
 	- Silence means Yes
 		- Sahih al-Bukhari
 			- **6946 ((Statements made under) Coercion, Hadeeth 7):** I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the women be asked for their consent to their marriage?" He said, "Yes." I said, "A virgin, if asked, feels shy and keeps quiet." He said, "Her silence means her consent."

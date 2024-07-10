@@ -38,9 +38,8 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 - Mahidhara (16th century Bhasyakara of Vedas; Tantric ritual centric)
 - Aurobindo Gosh (Modern)
 - Arya Samaj (Modern, rejects idol worship)
-- Dayananda Saraswati
+- Dayananda Saraswati 
 ## Regarding Critics
-
 - Hindus generally consider their religion as myths
 - Apologists try to find problems in texts that Hindus don't even read
 	- For example, the Manu Smriti is no Bible - it is at most like a Sharia text
