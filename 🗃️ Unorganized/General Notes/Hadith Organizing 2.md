@@ -32,6 +32,8 @@
 - Compulsion is abrogated
 	- According to Tafsir IK: https://islam.stackexchange.com/questions/68512/is-the-commentary-by-ibn-kathir-about-the-abrogation-of-2256-real
 
+- Women cannot have sex with their male slaves (like men can)
+	- Because Quran only mentions men having sex with their slaves, and forbids everything else
 # Quran Stuff
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
