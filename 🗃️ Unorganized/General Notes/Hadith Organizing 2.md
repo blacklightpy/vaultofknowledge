@@ -18,6 +18,11 @@
 	- Marrying Juwarriyah to give her freedom
 	- Four witnesses 
 
+- Islam views men as highly sexual beings who will do Zina if not satisfied
+	- Hence wives should not refuse sex and guide him to sin
+	- Enslaved captive women can be made use of to satisfy desires
+	- Mohammed used to put a cloth and fondle Aisha during menses
+
 # Quran Stuff
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
