@@ -1,5 +1,7 @@
 # Methods
 - Openings (See ECO (Encyclopedia of Chess Openings))
+- Middlegame Strategies
+- Endgames
 
 # Outline
 - The field is 8x8
@@ -11,13 +13,13 @@
 	- The space between king and rook has to be empty
 	- The king or rook should not have moved
 	- No square in between should be a check for the king
-	- The king should not be at check when castline
+	- The king should not be at check when castling
 - En Passant
 	- The pawn can attack another pawn which made two moves at first, as though it has only made one move
 	- This is only applicable immediately after the pawn has moved two steps
 
 # Related Games
-- Chaturanga
+- Chathuranga
 	- The Ferz replaces Queen (can move one step diagonally)
 	- The Elephant replaces Bishop (can move two squares diagonally, with jumps)
 	- The Chariot replaces Rook
@@ -29,6 +31,6 @@
 - Monopoly
 - Scrabble
 - Battleship
-- Uno
+- UNO
 - Snakes and Ladders
 - Cards Against Humanity
