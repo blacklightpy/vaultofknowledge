@@ -25,6 +25,10 @@
 
 - Marry a young girl, not a matron, so you can play with her
 
+- Muslim-Muslim conflicts
+	- Ahl-as-Sunnah Wa'al Jama'ah (People of Sunnah and the Majority) think Rafidis (Rejectors / Shi'a Musilms) use Taqiyya to conceal their true beliefs, while pretending to follow the Aqidah of Ahl-as-Sunnah
+	- They think they themselves use Taqiyya only to pretend that they are non-Muslims
+
 # Quran Stuff
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
