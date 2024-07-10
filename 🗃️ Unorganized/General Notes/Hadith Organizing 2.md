@@ -38,6 +38,9 @@
 
 - Celibacy is forbidden
 	- Sunan an-Nasa'i 3215
+
+- Those who free a Muslim slave will be rewarded 
+	- Bukhari Hadiths (Quran says about freeing slaves)
 # Quran Stuff
 - 8:39 Strike their fingertips off
 - 9:1 Jihad 2
