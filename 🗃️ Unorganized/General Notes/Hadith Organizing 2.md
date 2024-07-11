@@ -152,6 +152,10 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 - Disallowing preaching can validate Jihad
 - No need to seek war, be patient with the enemy - as that is better strategically
 
+- Muslims respect their prophet more than their fathers. They value his sandals more than the honor of their parents, and there is no forgiveness.
+- Info: https://islam.stackexchange.com/a/47010/61109
+- This is regardless of whether they are an apostate, Dhimmi, Mu'aahid or Harbi. For Harbis, this comes as warfare.
+
 1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
 3. Who broke the treaty first? Was the discharge of treaties preceded by breaking of treaties by the polytheists?
