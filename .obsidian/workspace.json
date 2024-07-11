@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
               }
             }
           },
@@ -330,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,7 +372,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "cd19d31978b8cf05",
   "lastOpenFiles": [
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",

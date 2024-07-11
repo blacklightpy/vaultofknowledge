@@ -206,6 +206,7 @@ Revelation of 4:24:
 
 - Claim: Don't kill them, because the goal is to hope they go to heaven. Killing will ruin it.
 - Killing children of polytheists in night raids: https://sunnah.com/muslim:1745a
+- Strike the shaven part of those who shave the middle of their heads (monks) with swords: https://sunnah.com/urn/509710
 # Stupidity
 
 ## Quran
