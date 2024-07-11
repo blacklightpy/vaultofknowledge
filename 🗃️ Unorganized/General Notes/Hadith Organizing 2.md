@@ -132,6 +132,7 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 			- 48:24 (Tafsir IK 48:25-26) - He revealed it when Quraysh asked him to send him back.
 				- Also in Bukhari 2731-2732 and 2733
 			- He said their pride included preventing Muslims from visiting Kaaba, but they only said that for the first year.
+			- Scholars interpret it to mean, treaties do not apply between all Muslim tribes
 		- Bukhari 6621 (Abu Bakr would replace oaths)
 	- Bukhar 3029-30 (War is deceit)
 	- They didn't attack because they didn't want to start a war
