@@ -164,7 +164,7 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 - Whoever takes a life [except for spreading mischief in the land] \[5:32\]
 
 - Don't let hatred make you transgress
-- 
+- You are not forbidden from being kind
 
 
 1. What treaties are being referred to in Verse 1?
