@@ -36,7 +36,7 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Gunas?
 ---
 # Ideas
-Para Brahman is beyond all descriptions and conceptualisations. It is formless (devoid of Maya) and is eternal.
+Para Brahman is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
 
 Nirguna - No attributes
 Saguna - All good attributes

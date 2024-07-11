@@ -1,6 +1,8 @@
 Denominations are also called Sampradayas.
 # Based on Schools of thought
 Schools of thought are also called Darshanas.
+
+Notes: https://www.omyogashala.in/shad-darshan
 # Orthodox
 - 1. Samkhya
 	- Dualism
