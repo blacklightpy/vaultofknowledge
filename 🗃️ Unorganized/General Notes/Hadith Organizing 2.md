@@ -158,7 +158,14 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 - Info: https://islam.stackexchange.com/a/47010/61109
 - This is regardless of whether they are an apostate, Dhimmi, Mu'aahid or Harbi. For Harbis, this comes as warfare.
 
-- 4:97-98 (They should migrate from Dar Al-Harb)
+- 4:97-98 (They should migrate from Dar Al-Harb if they are oppressed and can't leave, otherwise they can stay there. Migration is good to increase the number of people for Jihad.)
+
+- Never take a life which Allah has made sacred (Not never take a life, which Allah has made sacred) [6:151, 25:68]
+- Whoever takes a life [except for spreading mischief in the land] \[5:32\]
+
+- Don't let hatred make you transgress
+- 
+
 
 1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
