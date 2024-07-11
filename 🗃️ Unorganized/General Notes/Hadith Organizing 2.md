@@ -151,6 +151,7 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 
 - Disallowing preaching can validate Jihad
 - No need to seek war, be patient with the enemy - as that is better strategically
+- Fighting was for Jizya or conversion: https://islam.stackexchange.com/questions/25699/how-should-quran-929-be-interpreted-fight-those-who-believe-not-in-allah-nor
 
 - Muslims respect their prophet more than their fathers. They value his sandals more than the honor of their parents, and there is no forgiveness.
 - Info: https://islam.stackexchange.com/a/47010/61109
