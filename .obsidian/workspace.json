@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
               }
             }
           },
@@ -329,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -371,13 +371,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "0609db38870a64f9",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
@@ -386,7 +387,6 @@
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Tag Based vs Hierarchical Data Management.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Animism vs Abrahamic Religions.md",
     "🗃️ Unorganized/General Notes/Chronology of Quran.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
