@@ -146,6 +146,12 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 - Tahaida (temporary halt in violence)
 - Mu'ahada (Israel-Egypt style treaty)
 
+- Mu'uahid (One in treaty, 9:4)
+- Mu'ustamin (One in temporary asylum, 9:6)
+
+- Disallowing preaching can validate Jihad
+- No need to seek war, be patient with the enemy - as that is better strategically
+
 1. What treaties are being referred to in Verse 1?
 2. Why were treaties necessary?
 3. Who broke the treaty first? Was the discharge of treaties preceded by breaking of treaties by the polytheists?
