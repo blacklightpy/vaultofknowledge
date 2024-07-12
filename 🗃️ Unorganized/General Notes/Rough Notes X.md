@@ -2,6 +2,11 @@
 
 - Tafsir
 
+- Scholarly opinion based on how the hadith denies
+
+- Enlightened man
+- Homosexuals
+
 - Safiyya
 
 - Reliance of the traveller
@@ -10,3 +15,5 @@
 	- df
 
 - History of al-Tabari
+	- Vol 8, 39 (Safiyya)
+	- Vol 9 (Fifteen women)
