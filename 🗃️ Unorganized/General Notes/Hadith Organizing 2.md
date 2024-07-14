@@ -3,6 +3,8 @@
 - Tafsirs
 - Fatwas
 - Sharia Books
+
+Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn Majah are considered to be the most authentic.  - http://iswy.co/e4cmq
 # Situations
 - Child Marriage
 	- Aisha's Age
