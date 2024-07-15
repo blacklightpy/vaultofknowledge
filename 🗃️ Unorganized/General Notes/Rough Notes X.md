@@ -17,3 +17,12 @@
 - History of al-Tabari
 	- Vol 8, 39 (Safiyya)
 	- Vol 9 (Fifteen women)
+
+
+
+
+# Terms
+
+- Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
+- Ahl al-Sunnah wa'l-Jamaa'ah (People of Tradition and The Majority) / Sunni
+- 
