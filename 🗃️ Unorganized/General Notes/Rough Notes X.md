@@ -9,6 +9,9 @@
 
 - Safiyya
 
+- Jews, Turks, People with Small Eyes, People who wear shoes made of hair
+- Black Dogs
+
 - Reliance of the traveller
 	- Those who kill a child or insane
 	- ff
@@ -17,8 +20,6 @@
 - History of al-Tabari
 	- Vol 8, 39 (Safiyya)
 	- Vol 9 (Fifteen women)
-
-
 
 
 # Terms
