@@ -44,11 +44,26 @@
 
 - Sabayya (Slave Women) | Sabiyya (Slave Woman)
 - Jaria (Slave Women) | Jawari (Slave Woman)
-
 ### Shaybani's writings
-
-- Mu'ahada (Fixed term truce)
+- Mu'ahada (Fixed Term Truce)
 - Muwaada'a (Truce)
 - 'Ahd (Contract or Pact)
 - Murawada / Hudna / Musalaha (Mutual Peace)
 - Mutaraka / Musalama (Mutual Peace)
+### Hanafi Jurists
+- Samarqandi
+	- Muwaada'a = Sulh (Fixed Term)
+- Kasani
+	- Muwaada'a = Sulh (Fixed Term)
+- Other
+	- Mu'ahada = Muwaada'a / Muqadat / Aman / Isti'man / Muhawada
+### Hanbali Jurists
+- Muhaadana = Muwaad'a / Mu'ahada / Musalama / Isti'man / Sulh
+### Islamic Legal Terms
+- Muwaad'a (Reconcilation) = Achievement of Sulh (Truce)
+- Mutaaraka (Suspension of Hostilities) = Granting Amaan to Mu'ustamin of Ahl al-Harb
+- Muhaadana (Conclusion of a Truce)
+- Musaalaha (Making of Peace)
+- Musaalama (Demand for Peaceful Agreement)
+- Muqaadaat (Taking Legal Judgement)
+- Hukm (Judgement)
