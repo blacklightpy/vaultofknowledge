@@ -20,14 +20,14 @@
 - History of al-Tabari
 	- Vol 8, 39 (Safiyya)
 	- Vol 9 (Fifteen women)
-
-
 # Terms
-
+## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
 - Ahl al-Sunnah wa'l-Jamaa'ah (People of Tradition and The Majority) / Sunni
+## About Law
+- Ahl al-'Ahd (People of Treaty)
+- Daar al-Harb (People of War)
 
-- Ahl al-'Ahd
-
-- Mu'ahada (Treaty)
-- Dhimma (Trea)
+- Ahadat (Treaties)
+- Mu'ahada (Mutual Treaty)
+- Dhimma (Protection)
