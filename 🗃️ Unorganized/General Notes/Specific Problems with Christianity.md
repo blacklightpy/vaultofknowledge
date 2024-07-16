@@ -400,20 +400,23 @@ This is wishful thinking.
 		- Sahih al-Bukhari
 			- **4526 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet), Hadeeth 50):** Ibn Umar said, "It means one should approach his wife in .."
 		- Against
-			- Mishkat al-Masabih 3191 In-book reference	 : Book 13, Hadith 109
-			- Mishkat al-Masabih 3192 In-book reference	 : Book 13, Hadith 110
-			- Mishkat al-Masabih 3193 In-book reference	 : Book 13, Hadith 111
-			- Mishkat al-Masabih 3194 In-book reference	 : Book 13, Hadith 112
-			- Mishkat al-Masabih 3195 In-book reference	 : Book 13, Hadith 113
-			- Sunan Abi Dawud 2162 In-book reference	 : Book 12, Hadith 117 
-			- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
-			- Jami at-Tirmidhi 2980 In-book reference	 : Book 47, Hadith 32 (Hasan)
-			- Jami at-Tirmidhi 135 In-book reference	 : Book 1, Hadith 135 (Hasan)
+			- Mishkat al-Masabih
+				- **3191 (Book 13, Hadith 109)**
+				- **3192 (Book 13, Hadith 110)**
+				- **3193 (Book 13, Hadith 111)**
+				- **3194 (Book 13, Hadith 112)**
+				- **3195 (Book 13, Hadith 113)**
+			- Sunan Abi Dawud
+				- **2162 (Book 12, Hadith 117)**
+				- **3904 (Book 30, Hadith 1)** (Sahih, also mentions Musa)
+			- Jami at-Tirmidhi
+				- **2980 (Book 47, Hadith 32)** (Hasan)
+				- **135 (Book 1, Hadith 135)** (Hasan)
 
 - Eyes are the leather strap of the anus
 	- Sunan Abi Dawud 203 In-book reference	 : Book 1, Hadith 203 (Hasan)
 	- Mishkat al-Masabih 315 In-book reference	 : Book 3, Hadith 32
-	- Many more hadiths, some daif, some hasan, some ungraded
+	- Many more hadiths, some Da'if, some hasan, some ungraded
 
 - Deny those who follow Musa
 	- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
@@ -424,7 +427,7 @@ This is wishful thinking.
 ## Weak Hadiths
 
 - Whoever hurts others annoys Allah
-	- Sunan Ibn Majah 2342 In-book reference : Book 13, Hadith 35 (**Daif**)
+	- Sunan Ibn Majah 2342 In-book reference : Book 13, Hadith 35 (**Da'if**)
 	- (The Lawful and the Prohibited in Islam’ by Sheikh Yusuf Qaradawi, p.336) The Prophet ﷺ said, “He who hurts a dhimmi hurts me, and he who hurts me annoys Allah.” (**Mawdu (fabricated)**)
 	- True Hadeeth
 		- (Al-Awsat 3607) The Prophet ﷺ said, **“He who hurts a Muslim hurts me, and he who hurts me annoys Allah.”**
@@ -776,8 +779,14 @@ Things I want to cover
 	- 4:43 (Don't go to prayer while drunk)
 	- 5:90-91 (Alcohol is from Satan)
 	- Order of Quran Revelation:
-		- Mecca: 12 (53), 16 (70)
-		- Medina: 2 (87), 47 (90), 4 (92), 5 (112)
+		- Mecca:
+			- Quran Order: 12 (Revelation Order: 53)
+			- Quran Order: 16 (Revelation Order: 70)
+		- Medina:
+			- Quran Order: 2 (Revelation Order: 87)
+			- Quran Order: 47 (Revelation Order: 90)
+			- Quran Order: 4 (Revelation Order: 92)
+			- Quran Order: 5 (Revelation Order: 112)
 	- Clearly, the explicit prohibition came in 5, later (16, 47, 4, 5)
 	- al-Bukhari Hadith 2375 (Book 42 (Distribution of Water), Hadith 23)
 		- Hamza was drinking wine. Mohammed went to Hamza and spoke harshly to him. Hamza asked him, aren't you only the slaves of my forefathers? Mohammed went out. This happened before the prohibition of drinking.
@@ -938,7 +947,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 # Hadiths 2
 - Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
 	- Sunan Abu Dawud 4928-4931
-		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Daif)
+		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Da'if)
 		- Expel them from homes
 	- Verdict:
 		- The hadith on not killing effeminate men is weak
@@ -952,7 +961,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Chapter 55 is about Aisha called for consummation of marriage, while playing with swings
 
 - Playing with pigeons is Satanic
-	- Sunan Abu Dawud 4940: Messenger of Allah saw a man chasing a  pigeon and he said: “A devil chasing a she-devil.” (Hasan)
+	- Sunan Abu Dawud **4940**: Messenger of Allah saw a man chasing a  pigeon and he said: “A devil chasing a she-devil.” (Hasan)
 
 - About Mut'a marriage
 	- https://www.al-islam.org/muta-temporary-marriage-islamic-law-sachiko-murata/four-pillars-muta
