@@ -23,7 +23,20 @@ In Religion:
 	- [[Dharma Sutras]]
 	- [[Dharma Shastra]]
 - [[Puranas]]
-- [[Mahabharata]]
+- Ithihasas
+	- [[Mahabharata]]
+	- 
+### Stats
+- Number of verses in Vedas: ~20,000
+	- Rig Veda
+	- Sama Veda
+	- Atharva Veda
+	- Yajur Veda
+- Number of verses in Puranas: ~400,000
+- Number of verses in Mahabharata: ~100,000
+	- Bhagavat Gita: ~745 verses
+	- Original (Jaya Samhitha): 8,800
+- Number of verses in 
 ## Culture
 - [[Hindu Denominations]]
 ## Kerala
