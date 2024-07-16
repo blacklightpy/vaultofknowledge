@@ -255,6 +255,14 @@ Revelation of 4:24:
 - Allah has made hell for them (17:18)
 - No one can honour whom Allah disgraces (22:18)
 
+| Verse | Claim               | Context             |
+| ----- | ------------------- | ------------------- |
+|       | Are apes            | Disbelievers        |
+|       | Are pigs            | Jews and Christians |
+|       | Are apes (REPEAT 1) | Atheists            |
+|       | Are apes (REPEAT 2) | Disbelievers        |
+|       | Are asses           |                     |
+
 ![[Pasted image 20240628022104.png]]
 
 
