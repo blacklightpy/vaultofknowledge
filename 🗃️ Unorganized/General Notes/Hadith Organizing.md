@@ -255,30 +255,37 @@ Revelation of 4:24:
 - Allah has made hell for them (17:18)
 - No one can honour whom Allah disgraces (22:18)
 
-| Verse | Claim | Context |
-| --- | --- | --- |
-|  | Enjoy life like cattle eat grass |  |
-|  | Are apes | Disbelievers |
-|  | Are pigs | Jews and Christians |
-|  | Are apes (REPEAT 1) | Atheists |
-|  | Are apes (REPEAT 2) | Disbelievers |
-|  | Are donkeys |  |
-|  | Are the vilest of animals in Allah's sight |  |
-|  | Are losers |  |
-|  | Have a disease in their hearts |  |
-|  | Are hard hearted |  |
-|  | Impure of hearts |  |
-|  | Are blind and deaf to hear the word of Allah |  |
-|  | Are misers |  |
-|  | Their works shall be rendered ineffective |  |
-|  | Are spiritually impure |  |
-|  | Are scum |  |
-|  | Are inordinate |  |
-|  | Are transgressors |  |
-|  | Are unjust |  |
-|  | Make mischief |  |
-|  | Are the worst of men |  |
-|  |  |  |
+| Verse | Claim                                        | Context             |
+| ----- | -------------------------------------------- | ------------------- |
+|       | Enjoy life like cattle eat grass             |                     |
+|       | Are apes                                     | Disbelievers        |
+|       | Are pigs                                     | Jews and Christians |
+|       | Are apes (REPEAT 1)                          | Atheists            |
+|       | Are apes (REPEAT 2)                          | Disbelievers        |
+|       | Are donkeys                                  |                     |
+|       | Are the vilest of animals in Allah's sight   |                     |
+|       | Are losers                                   |                     |
+|       | Have a disease in their hearts               |                     |
+|       | Are hard hearted                             |                     |
+|       | Impure of hearts                             |                     |
+|       | Are blind and deaf to hear the word of Allah |                     |
+|       | Are misers                                   |                     |
+|       | Their works shall be rendered ineffective    |                     |
+|       | Are spiritually impure                       |                     |
+|       | Are scum                                     |                     |
+|       | Are inordinate                               |                     |
+|       | Are transgressors                            |                     |
+|       | Are unjust                                   |                     |
+|       | Make mischief                                |                     |
+|       | Are the worst of men                         |                     |
+|       | Are in a state of confusion                  |                     |
+|       | Are the lowest of low                        |                     |
+|       | Focus only on outward appearance             |                     |
+|       | Are guilty                                   |                     |
+|       | Are sinful liars                             |                     |
+|       | Follow falsehood                             |                     |
+|       | Their deeds are like mirage in a desert      |                     |
+|       |                                              |                     |
 
 - Their works shall be rendered ineffective
 - Are impure
