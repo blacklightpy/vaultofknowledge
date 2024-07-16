@@ -25,9 +25,30 @@
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
 - Ahl al-Sunnah wa'l-Jamaa'ah (People of Tradition and The Majority) / Sunni
 ## About Law
+- Daar (House)
+- Ahl (People)
+
+- Daar al-Islaam (House of Islaam) 
+- Daar al-Harb (House of War)
+
+- Ahl al-Dhimma (People of Protection)
+- Ahl al-Aman (People of Temporary Protection)
 - Ahl al-'Ahd (People of Treaty)
-- Daar al-Harb (People of War)
+- Daar al-'Ahd (House of Treaty)
+- Daar al-Sulh (House of Truce)
 
 - Ahadat (Treaties)
 - Mu'ahada (Mutual Treaty)
-- Dhimma (Protection)
+- Dhimma (Protection Treaty)
+- Mu'ustamin (Person with Temporary Protection)
+
+- Sabayya (Slave Women) | Sabiyya (Slave Woman)
+- Jaria (Slave Women) | Jawari (Slave Woman)
+
+### Shaybani's writings
+
+- Mu'ahada (Fixed term truce)
+- Muwaada'a (Truce)
+- 'Ahd (Contract or Pact)
+- Murawada / Hudna / Musalaha (Mutual Peace)
+- Mutaraka / Musalama (Mutual Peace)
