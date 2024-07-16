@@ -352,7 +352,7 @@ This is wishful thinking.
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 	- God split water and heavens
-		- 21:30
+		- Quran 21:30 (Surah Yunus)
 		- This is out of Genesis
 		- Contradictions
 			- God made every living thing (in Earth) out of water (21:30)
@@ -588,7 +588,7 @@ Hell, it is even realistic for Christianity.
 This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
 
 He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
-
+**
 Hindu answer (on Hindutva): https://qr.ae/pszIQD
 ## Comparison of Jews and Mohammedans
 
@@ -946,7 +946,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 # Hadiths 2
 - Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
-	- Sunan Abu Dawud 4928-4931
+	- Sunan Abu Dawud **4928-4931**
 		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Da'if)
 		- Expel them from homes
 	- Verdict:
@@ -966,7 +966,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - About Mut'a marriage
 	- https://www.al-islam.org/muta-temporary-marriage-islamic-law-sachiko-murata/four-pillars-muta
 
-- 4:117
+- Quran 4:117 (Surah An-Nisa)
 	- Hatred of female gods explicitly as idols
 
 - Instead of improving from history, these idiots follow it.
