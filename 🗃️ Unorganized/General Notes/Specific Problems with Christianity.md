@@ -697,6 +697,15 @@ Things I want to cover
 - StackOverflow is built by Israeli/American Jew, who is openly gay
 - Well, Google search, and most of the web too is built by Jews and Americans. Alan Turing was gay.
 
+- Sahih Al-Bukhari (3094)
+	- Allah's Apostle said his property isn't to be inherited, but given to charity
+	- Abu Bakr took it for the purpose of giving it to charity
+	- Umar then took it to give it to charity
+	- Ali and ibn Abbas asked them to inherit it
+	- Umar told them that it is not to be inherited
+	- So they told him to give it to them
+	- Under the condition of giving it to charity, he gave it to them
+
 # Detailing Counters
 
 - Aisha's age (8 min video, by Towards Eternity)

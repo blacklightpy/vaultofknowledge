@@ -17,7 +17,7 @@
 	- Talavakara Aranyaka or Jaiminiya Upanishad Brahmana belongs to the Talavakara or Jaiminiya Shakha of the Samaveda. A part of this text forms the Kena Upanishad.
 	- Aranyaka Samhita is not a typical Aranyaka text: rather the Purvarchika of the Samaveda Samhitas has a section of mantras, called the 'Aranyaka Samhita', on which the Aranyagana Samans are sung.
 
-The Atharvaveda has no surviving Aranyaka, though the Gopatha Brahmana is regarded as its Aranyaka, a remnant of a larger, lost Atharva (Paippalada) Brahmana. 
+The Atharvaveda has no surviving Aranyaka, though the Gopatha Brahmana is regarded as its Aranyaka, a remnant of a larger, lost Atharva (Paippalada) Brahmana.
 # Upanishads
 The Upanishads are late Vedic and post-Vedic Sanskrit texts that "document the transition from the archaic ritualism of the Veda into new religious ideas and institutions" and the emergence of the central religious concepts of Hinduism.
 
@@ -26,11 +26,10 @@ They are the most recent addition to the Vedas, the oldest scriptures of Hinduis
 Earlier parts of the Vedas dealt with mantras, benedictions, rituals, ceremonies, and sacrifices.
 
 There are 108 Upanishads, and each Upanishad is associated with a separate [[Vedic Shakhas|Vedic Shakha]].
-
 ## Mahavakyas
 They mean "Great Sayings", and these four are handpicked from Upanishads of the four Vedas. There are other Mahavakyas, but these are "the Mahavakyas".
 
-- "Prajñānam brahma" - "Consciousness is Brahman" (Aitareya Upanishad)
-- "Aham brahmāsmi" - "I am Brahman" (Brihadaranyaka Upanishad)
-- "Tat tvam asi" - "That Thou art" (Chandogya Upanishad)
-- "Ayamātmā brahma" - "This Atman is Brahman" (Mandukya Upanishad)
+- "Prajñānam brahma" - "Consciousness is Brahman" (Aitareya Upanishad of Rig Veda)
+- "Aham brahmāsmi" - "I am Brahman" (Brihadaranyaka Upanishad of Sama Veda)
+- "Tat tvam asi" - "That Thou art" (Chandogya Upanishad of Yajur Veda)
+- "Ayamātmā brahma" - "This Atman is Brahman" (Mandukya Upanishad of Atharva Veda)
