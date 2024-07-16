@@ -68,4 +68,3 @@
 - Muqaadaat (Taking Legal Judgement)
 - Hukm (Judgement)
 - Maslaaha (Best Interest of Muslims / Maintain Upper Hand) (Q 3:139, Q 47:35)
-- 
