@@ -6,8 +6,8 @@
 # Old Testament
 ## Old Testament and Talmud
 - Old Testament
-	- Hatred of Pagans
-		- Psalm 106:37
+	- Hatred of Pagans (Reason)
+		- Psalms 106:37
 	- Story of Lot and Gomorrah
 	- Samson's Marriage
 		- Judges 14:16
