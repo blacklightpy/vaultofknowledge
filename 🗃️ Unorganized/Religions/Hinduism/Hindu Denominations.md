@@ -5,6 +5,10 @@ Schools of thought are also called Darshanas.
 Notes: https://www.omyogashala.in/shad-darshan
 # Orthodox
 - 1. Samkhya
+	- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
+	- It views 
+
+
 	- Dualism
 		- **Purusa** is part of **Prakriti**
 		- Purusa is bound to Prakriti by **Jiva**
