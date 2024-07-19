@@ -72,11 +72,12 @@
 - Jaria / Sabaya (Slave Women)
 
 ## Parallels
-| Category                 | Hindu Beliefs                                    | Islam                                                  | Judaism                                                      |
-| ------------------------ | ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
-| Holy Text                | Quran                                            | Srutis (Vedas)                                         | Torah, Talmud                                                |
-| Supplementary Texts      | Sunnah (Hadiths)                                 | Smritis (Puranas, Ithihasas)                           | Nevi'im, Ketuvim                                             |
-| Commentaries             | Tafsir                                           | Bhasya                                                 |                                                              |
-| Law Books                | Shari'ah Law Books (Reliance of The Traveller, ) | Manu Smriti, Dharma Shastras (explaning Dharma Sutras) | Shulchan Arukh, The Tur, Mishneh Torah, Works of Maimonaides |
-| Schools of Belief        | Aqeedah                                          | Darshana                                               |                                                              |
-| Schools of Jurisprudence | Madhhabs                                         | -                                                      |                                                              |
+| Category                 | Hindu Beliefs                                                                                  | Islam                                                  | Judaism                                                                            |
+| ------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Holy Text                | Quran                                                                                          | Srutis (Vedas)                                         | Torah, Talmud                                                                      |
+| Supplementary Texts      | Sunnah (Hadiths)                                                                               | Smritis (Puranas, Ithihasas)                           | Nevi'im, Ketuvim                                                                   |
+| Commentaries             | Tafsir                                                                                         | Bhasya                                                 | Mefareshim                                                                         |
+| Commentators             | Mufassirun                                                                                     | Bhasyakaras                                            | Parshanim                                                                          |
+| Law Books                | Shari'ah Law Books (Reliance of The Traveller, Heavenly Ornaments, A Digest of Mohammedan Law) | Manu Smriti, Dharma Shastras (explaning Dharma Sutras) | Shulchan Arukh, The Tur, Shulchan Arukh Harav, Mishneh Torah, Works of Maimonaides |
+| Schools of Belief        | Aqeedah                                                                                        | Darshana                                               |                                                                                    |
+| Schools of Jurisprudence | Madhhabs                                                                                       | -                                                      |                                                                                    |
