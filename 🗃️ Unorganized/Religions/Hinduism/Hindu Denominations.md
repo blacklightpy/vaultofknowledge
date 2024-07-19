@@ -4,16 +4,23 @@ Schools of thought are also called Darshanas.
 
 Notes: https://www.omyogashala.in/shad-darshan
 # Orthodox
-- 1. Samkhya
+- 1. Sankhya
 	- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
 	- It views **Purusha** (Humans) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
-	- Hence it is Dualistic
-
-
-	- Dualism
+	- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
+	- Differences with Dualism
+		- Western Dualism focuses on the difference between "mind" and "matter"
+		- Sankhya Darshana focuses on the difference between "being" and "nature"
+	- **Metaphysics**
 		- **Purusa** is part of **Prakriti**
 		- Purusa is bound to Prakriti by **Jiva**
 		- **Moksha** is how the soul is liberated
+	- **Epistemology**
+		- Knowledge is possible through three means:
+		- **Pratyaksha** (Direct Perception)
+		- **Anumana** (Logical Inference)
+		- **Sabda** (Verbal Testimony)
+
 	- Unmanifest, Prakriti is inactive.
 		- It is a balance of three **gunas**
 			- **Sattva** – poise, fineness, lightness, illumination, and joy
