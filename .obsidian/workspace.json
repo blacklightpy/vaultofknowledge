@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,10 +288,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0b2468e55a9411a0",
+  "active": "83fda12487ac4a0c",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Dualism.md",

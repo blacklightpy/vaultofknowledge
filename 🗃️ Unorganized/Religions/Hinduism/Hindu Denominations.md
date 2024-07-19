@@ -30,6 +30,7 @@ Notes: https://www.omyogashala.in/shad-darshan
 		- Cause and Effect
 			- The Sankhya Darshana is based on Sat-Karya-Vada (Cause and Effect)
 			- The effect is pre-existent in the cause
+			- That is, 
 			- The effect seems distinct from the cause due to an illusion, or Maya
 	- **Terms**
 		- Samsara (Cycle of Nature)
@@ -44,7 +45,7 @@ Notes: https://www.omyogashala.in/shad-darshan
 			- **Rajas** – dynamism, activity, excitation, and pain
 			- **Tamas** – inertia, coarseness, heaviness, obstruction, and sloth
 
-	- Arguments against god by Samkhya philosophers
+	- **Arguments against god by Sankhya philosophers**
 		- If the existence of karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without karma. If however, he is assumed to be within the law of karma, then karma itself would be the giver of consequences and there would be no need of a God.
 		- Even if karma is denied, God still cannot be the enforcer of consequences. Because the motives of an enforcer God would be either egoistic or altruistic. Now, God's motives cannot be assumed to be altruistic because an altruistic God would not create a world so full of suffering. If his motives are assumed to be egoistic, then God must be thought to have desire, as agency or authority cannot be established in the absence of desire. However, assuming that God has desire would contradict God's eternal freedom which necessitates no compulsion in actions. Moreover, desire, according to Samkhya, is an attribute of prakṛti and cannot be thought to grow in God. The testimony of the Vedas, according to Samkhya, also confirms this notion.
 		- Despite arguments to the contrary, if God is still assumed to contain unfulfilled desires, this would cause him to suffer pain and other similar human experiences. Such a worldly God would be no better than Samkhya's notion of higher self.
@@ -56,13 +57,18 @@ Notes: https://www.omyogashala.in/shad-darshan
 	- Books
 		- It is mainly based on the Yoga Sutras of Patanjali
 		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
+
 - 3. Nyaya
 	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyakṣa (perception), Anumāṇa (inference), Upamāṇa (comparison and analogy) and Śabda (word, testimony of past or present reliable experts).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
+
+- It postulates Asat-Karya-Vada (Theory of Non-Existent Effect)
+
 - 4. Vaisheshika
 	- Naturalism
 	- It postulated that everything is made of atoms
+
 - 5. Mimamsa / Purva Mimamsa
 	- It focuses on the early parts of the Vedas
 - 6. Vedanta / Uttara Mimamsa
