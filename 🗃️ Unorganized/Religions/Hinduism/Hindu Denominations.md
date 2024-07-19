@@ -6,7 +6,8 @@ Notes: https://www.omyogashala.in/shad-darshan
 # Orthodox
 - 1. Samkhya
 	- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
-	- It views 
+	- It views **Purusha** (Humans) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
+	- Hence it is Dualistic
 
 
 	- Dualism
