@@ -6,7 +6,7 @@ Notes: https://www.omyogashala.in/shad-darshan
 # Orthodox
 - 1. Sankhya
 	- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
-	- It views **Purusha** (Humans) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
+	- It views **Purusha** (Soul) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
 	- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
 	- Differences with Dualism
 		- Western Dualism focuses on the difference between "mind" and "matter"
@@ -16,16 +16,28 @@ Notes: https://www.omyogashala.in/shad-darshan
 		- Purusa is bound to Prakriti by **Jiva**
 		- **Moksha** is how the soul is liberated
 	- **Epistemology**
-		- Knowledge is possible through three means:
-		- **Pratyaksha** (Direct Perception)
-		- **Anumana** (Logical Inference)
-		- **Sabda** (Verbal Testimony)
+		- Knowledge is possible through three **Pramanas** (means):
+			- **Pratyaksha** (Direct Perception)
+			- **Anumana** (Logical Inference)
+			- **Sabda** (Verbal Testimony)
+	- **General Description**
+		- Nature evolves for the sake of the Soul in bondage (due to ignorance).
+		- A free Soul simply witnesses the evolution, but he misidentifies himself as being a part of it.
+		- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
+		- Liberation is the natural goal of every Soul.
+	- **Terms**
+		- Samsara (Cycle of Nature)
+		- Avidya (Ignorance)
+		- Moksha (Liberation)
+		- Buddhi (Intellect)
+		- Ahamkara (Ego)
 
 	- Unmanifest, Prakriti is inactive.
 		- It is a balance of three **gunas**
 			- **Sattva** – poise, fineness, lightness, illumination, and joy
 			- **Rajas** – dynamism, activity, excitation, and pain
 			- **Tamas** – inertia, coarseness, heaviness, obstruction, and sloth
+
 	- Arguments against god by Samkhya philosophers
 		- If the existence of karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without karma. If however, he is assumed to be within the law of karma, then karma itself would be the giver of consequences and there would be no need of a God.
 		- Even if karma is denied, God still cannot be the enforcer of consequences. Because the motives of an enforcer God would be either egoistic or altruistic. Now, God's motives cannot be assumed to be altruistic because an altruistic God would not create a world so full of suffering. If his motives are assumed to be egoistic, then God must be thought to have desire, as agency or authority cannot be established in the absence of desire. However, assuming that God has desire would contradict God's eternal freedom which necessitates no compulsion in actions. Moreover, desire, according to Samkhya, is an attribute of prakṛti and cannot be thought to grow in God. The testimony of the Vedas, according to Samkhya, also confirms this notion.
