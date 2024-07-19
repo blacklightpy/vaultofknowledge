@@ -5,12 +5,13 @@ Schools of thought are also called Darshanas.
 Notes: https://www.omyogashala.in/shad-darshan
 # Orthodox
 - 1. Sankhya
-	- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature)
-	- It views **Purusha** (Soul) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
-	- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
-	- Differences with Dualism
+	- **Brief**
+		- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature of Being)
+		- It views **Purusha** (Witness Consciousness) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
+		- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
+	- **Differences with Dualism**
 		- Western Dualism focuses on the difference between "mind" and "matter"
-		- Sankhya Darshana focuses on the difference between "being" and "nature"
+		- Sankhya Darshana focuses on the difference between "witness consciousness" and "nature of being" - that includes outside nature and one's feelings and sensations
 	- **Metaphysics**
 		- **Purusa** is part of **Prakriti**
 		- Purusa is bound to Prakriti by **Jiva**
@@ -21,10 +22,15 @@ Notes: https://www.omyogashala.in/shad-darshan
 			- **Anumana** (Logical Inference)
 			- **Sabda** (Verbal Testimony)
 	- **General Description**
-		- Nature evolves for the sake of the Soul in bondage (due to ignorance).
-		- A free Soul simply witnesses the evolution, but he misidentifies himself as being a part of it.
-		- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
-		- Liberation is the natural goal of every Soul.
+		- Evolution of Nature
+			- Nature evolves for the sake of the Soul in bondage (due to ignorance).
+			- A free Soul simply witnesses the evolution, but he misidentifies himself as being a part of it.
+			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
+			- Liberation is the natural goal of every Soul.
+		- Cause and Effect
+			- The Sankhya Darshana is based on Sat-Karya-Vada (Cause and Effect)
+			- The effect is pre-existent in the cause
+			- The effect seems distinct from the cause due to an illusion, or Maya
 	- **Terms**
 		- Samsara (Cycle of Nature)
 		- Avidya (Ignorance)
