@@ -28,12 +28,13 @@ Notes: https://www.omyogashala.in/shad-darshan
 			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
 			- Liberation is the natural goal of every Soul.
 		- Cause and Effect
-			- The Sankhya Darshana is based on Sat-Karya-Vada (Cause and Effect)
+			- The Sankhya Darshana is based on Sat-Karya-Vada (Theory of Existent Effect)
 			- The effect is pre-existent in the cause
-			- That is, 
 			- The effect seems distinct from the cause due to an illusion, or Maya
+			- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
+			- 
 	- **Terms**
-		- Samsara (Cycle of Nature)
+		- Samsara (Bondage in the Cycle of Nature)
 		- Avidya (Ignorance)
 		- Moksha (Liberation)
 		- Buddhi (Intellect)
