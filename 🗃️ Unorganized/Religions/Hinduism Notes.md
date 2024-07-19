@@ -25,7 +25,7 @@ In Religion:
 - [[Puranas]]
 - Ithihasas
 	- [[Mahabharata]]
-	- 
+	- Ramayana
 ### Stats
 - Number of verses in Vedas: ~20,000
 	- Rig Veda
