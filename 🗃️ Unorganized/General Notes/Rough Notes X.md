@@ -70,3 +70,13 @@
 - Maslaaha (Best Interest of Muslims / Maintain Upper Hand) \[Q 3:139, Q 47:35\]
 
 - Jaria / Sabaya (Slave Women)
+
+## Parallels
+| Category                 | Hindu Beliefs                                    | Islam                                                  | Judaism                                                      |
+| ------------------------ | ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
+| Holy Text                | Quran                                            | Srutis (Vedas)                                         | Torah, Talmud                                                |
+| Supplementary Texts      | Sunnah (Hadiths)                                 | Smritis (Puranas, Ithihasas)                           | Nevi'im, Ketuvim                                             |
+| Commentaries             | Tafsir                                           | Bhasya                                                 |                                                              |
+| Law Books                | Shari'ah Law Books (Reliance of The Traveller, ) | Manu Smriti, Dharma Shastras (explaning Dharma Sutras) | Shulchan Arukh, The Tur, Mishneh Torah, Works of Maimonaides |
+| Schools of Belief        | Aqeedah                                          | Darshana                                               |                                                              |
+| Schools of Jurisprudence | Madhhabs                                         | -                                                      |                                                              |
