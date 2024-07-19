@@ -32,19 +32,20 @@ Notes: https://www.omyogashala.in/shad-darshan
 			- The effect is pre-existent in the cause
 			- The effect seems distinct from the cause due to an illusion, or Maya
 			- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
+		- Cosmic Evolution
+			- 
+			- The world evolves due to tensions of the three **Gunas** (Traits) of Nature
+				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
+				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
+				- **Tamas** - Inertia or Resistance to Action (e.g. Coarseness, Heaviness, Obstruction, Sloth)
 			- 
 	- **Terms**
 		- Samsara (Bondage in the Cycle of Nature)
 		- Avidya (Ignorance)
 		- Moksha (Liberation)
+		- Manas (Mind)
 		- Buddhi (Intellect)
 		- Ahamkara (Ego)
-
-	- Unmanifest, Prakriti is inactive.
-		- It is a balance of three **gunas**
-			- **Sattva** – poise, fineness, lightness, illumination, and joy
-			- **Rajas** – dynamism, activity, excitation, and pain
-			- **Tamas** – inertia, coarseness, heaviness, obstruction, and sloth
 
 	- **Arguments against god by Sankhya philosophers**
 		- If the existence of karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without karma. If however, he is assumed to be within the law of karma, then karma itself would be the giver of consequences and there would be no need of a God.
