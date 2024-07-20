@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X2.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,8 +293,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "436030d53362eb4b",
+  "active": "357959afc0a5d438",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
@@ -320,7 +321,6 @@
     "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗃️ Unorganized/General Notes/The rationale behind the word technology.md",
     "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
-    "🗃️ Unorganized/General Notes/Origin of Modern Science.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
