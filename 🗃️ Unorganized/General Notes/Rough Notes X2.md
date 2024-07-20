@@ -12,9 +12,9 @@
 		- "Kindness is not forbidden", as it is said.
 
 - Example 2: Yaqeen Institute
-	- Ibn Taymiyyah held:
+	- **Source:** https://yaqeeninstitute.org/read/paper/jihad-in-islam-just-war-theory-in-the-quran-and-sunnah#ftnt_ref42
+	- Ibn al-Qayyim (student of Ibn Taymiyyah) held:
 		- "**Killing is only necessary to confront war and not to confront unbelief. For this reason, women and children are not killed, neither are the elderly, the blind, or monks who do not participate in fighting.** Rather, we only fight those who wage war against us. This was the way of the Messenger of Allah ﷺ with the people of the earth. He would fight those who declared war on him until they accepted his religion, or they proposed a peace treaty, or they came under his control by paying tribute."
-		- (**Source**: Ibn Qayyim al-Jawzīyah, _Aḥkām ahl al-dhimmah_ (Dammam: Ramādī lil-Nashr, 1997), 1:110)
 	- That is, Muslims believe that disbelief essentially leads to war, and to prevent it, they will kill all men excluding elderly, disabled or monks (an opinion which varies by Madhhabs)
 		- For example, this does not address the question of whether Muslims initiated the war or not
 		- The conditions of a "peace treaty" is questionable, once you read the Tafsir of Ibn Kathir on 9:29
