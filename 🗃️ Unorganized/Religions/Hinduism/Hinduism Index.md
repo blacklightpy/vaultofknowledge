@@ -23,6 +23,8 @@
 				- Dharma Sutras (Manuals of Conduct)
 				- Shrauta Sutras (Manuals of Rituals)
 				- Griha Sutras (Manuals of Household Rites)
+			- Upavedas
+
 		- Law Books
 			- Manu Smriti (The Laws of Manu, the first man)
 			- Vishnu Smriti / Vaishnava Dharma Shastra / Vishnu Sutras (The Laws of Vishnu)
@@ -45,6 +47,7 @@
 	- Nirukta (Etymology and Linguistics)
 	- Jyotisha (Astrology)
 	- Kalpa (Rituals and Rites of Passage)
+
 - Shakhas
 	- 
 	- Upavedas (Technical Knowledge from the Vedas)
