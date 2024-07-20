@@ -3,26 +3,30 @@
 
 - Hindu Scriptures
 	- Sruti (That which is heard)
-		- [[Vedas]]
+		- Nigamas / [[Vedas]]
 			- Samhithas (Mantras and hymns)
 			- Brahmanas (For rituals)
 			- Aranyakas (Knowledge for forest dwellers)
 			- Upanishads (Spiritual and Philosophical teachings)
-		- Supplementary
-			- Veda Sutras
-				- Dharma Sutras (Manuals of Conduct)
-				- Shrauta Sutras (Manuals of Rituals)
-				- Griha Sutras (Manuals of Household Rites)
-			- Agamas (not sure if they are Sruti)
-				- Tantras
+		- Agamas / Tantras
+	- Smriti (Inspired works)
 		- Puranas
 			- 18 Mahapuranas (not sure which ones)
 			- 18 Upapuranas (not sure which ones)
 			- Other Puranas
-	- Smriti (Inspired works)
-		- Manu Smriti (The Laws of Manu, the first man)
-		- Vishnu Smriti / Vaishnava Dharma Shastra / Vishnu Sutras (The Laws of Vishnu)
-		- Dharma Shastras (Simplified Explanations of Dharma Sutras)
+		- Ithihasas
+			- Mahabharata
+				- Bhagavat Gita
+			- Ramayana
+		- Supplements to the Vedas
+			- Veda Sutras
+				- Dharma Sutras (Manuals of Conduct)
+				- Shrauta Sutras (Manuals of Rituals)
+				- Griha Sutras (Manuals of Household Rites)
+		- Law Books
+			- Manu Smriti (The Laws of Manu, the first man)
+			- Vishnu Smriti / Vaishnava Dharma Shastra / Vishnu Sutras (The Laws of Vishnu)
+			- Dharma Shastras (Simplified Explanations of Dharma Sutras)
 		- Later Texts
 			- Poems
 				- Shakuntala by Kalidasa
