@@ -128,12 +128,17 @@
             "id": "436030d53362eb4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -208,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md"
               }
             }
           },
@@ -246,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,21 +293,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "83fda12487ac4a0c",
+  "active": "436030d53362eb4b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Dualism.md",
     "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
     "🗃️ Unorganized/General Notes/Duality.md",
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
