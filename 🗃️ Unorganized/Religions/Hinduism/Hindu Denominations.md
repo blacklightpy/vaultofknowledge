@@ -3,8 +3,15 @@ Denominations are also called Sampradayas.
 Schools of thought are also called Darshanas.
 
 Notes: https://www.omyogashala.in/shad-darshan
-# Orthodox
-- 1. Sankhya
+## Orthodox Schools
+
+There are six schools of thought, called the Sad-Darshanas (Six Schools). They are themselves grouped into three groups of two similar schools, as follows:
+
+1. Sankhya and Yoga
+2. Nyaya and Vaisheshika
+3. Mimamsa and Vedanta
+
+- 1. Sankhya (Digital)
 	- **Brief**
 		- It is a discrete school of thought that explains reality as evolving due to **Prakriti** (Nature of Being)
 		- It views **Purusha** (Witness Consciousness) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
@@ -39,7 +46,7 @@ Notes: https://www.omyogashala.in/shad-darshan
 				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
 				- **Tamas** - Inertia or Resistance to Action (e.g. Coarseness, Heaviness, Obstruction, Sloth)
 			- 
-	- **Terms**
+	- **Glossary of Terms**
 		- Samsara (Bondage in the Cycle of Nature)
 		- Avidya (Ignorance)
 		- Moksha (Liberation)
