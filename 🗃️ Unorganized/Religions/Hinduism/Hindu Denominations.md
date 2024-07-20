@@ -60,14 +60,14 @@ There are six schools of thought, called the Sad-Darshanas (Six Schools). They a
 		- Despite arguments to the contrary, if God is still assumed to contain unfulfilled desires, this would cause him to suffer pain and other similar human experiences. Such a worldly God would be no better than Samkhya's notion of higher self.
 		- Furthermore, there is no proof of the existence of God. He is not the object of perception, there exists no general proposition that can prove him by inference and the testimony of the Vedas speak of prakṛti as the origin of the world, not God.
 	- Therefore, Samkhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
-- 2. Yoga
+- 2. Yoga (Connection)
 	- It is based on the Samkhya school of thought
 	- It derives onotology and epistemology from Samkhya, but adds the concept of Ishvara (god)
 	- Books
 		- It is mainly based on the Yoga Sutras of Patanjali
 		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
 
-- 3. Nyaya
+- 3. Nyaya ()
 	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyakṣa (perception), Anumāṇa (inference), Upamāṇa (comparison and analogy) and Śabda (word, testimony of past or present reliable experts).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
@@ -93,14 +93,16 @@ There are six schools of thought, called the Sad-Darshanas (Six Schools). They a
 		- 6.5. Dvaita Vedanta
 		- 6.6. Shuddhādvaita Vedanta
 		- 6.7. Achintya-Bheda-Abheda Vedanta
-# Unorthodox
+# Heterodox
 - 1. Buddhism
 - 2. Jainism
 - 3. Charvaka
-- 4. Ājīvika
-- 5. Ajñana
+	- **Epistemology**
+	- It only supports
+- 4. Ajivika
+- 5. Ajnana
 # Based on Deities
-Hinduism is subdivided into a number of major sampradayas. Of the historical division into six darsanas (philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
+Hinduism is subdivided into a number of major Sampradayas. Of the historical division into six Darshanas (Philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
 
 Classified by primary deity or deities, four major types of Hinduism include **Vishnu Worshippers**, **Shiva Worshippers**, **Adiparashakti Worshippers** and **Smartas** (five deities treated as same).
 
