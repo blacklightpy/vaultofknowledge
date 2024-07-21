@@ -168,7 +168,7 @@ Sampradaya in Indian origin religions, namely Hinduism, Buddhism, Jainism, and S
 
 To ensure continuity and transmission of dharma, various Sampradayas have the Guru-Shishya Parampara in which Parampara or lineage of successive Gurus (masters) and Shishyas (disciples) serves as a spiritual channel and provides a reliable network of relationships that lends stability to a religious identity. 
 
-Shramana is Vedic term for seeker or Shishya. Identification with and followership of Sampradayas is not static, as Sampradayas allow flexibility where one can leave one sampradaya and enter another or practice religious syncretism by simultaneously following more than one Sampradaya.
+Shramana is Vedic term for seeker or Shishya. Identification with and followership of Sampradayas is not static, as Sampradayas allow flexibility where one can leave one sampradaya and enter another or practice religious syncretism by simultaneously following more than one Sampradaya. (This is in contrast to Shakhas)
 
 Samparda is a Punjabi language term, used in Sikhism, for Sampradayas.
 

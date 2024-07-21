@@ -4,7 +4,7 @@ A related term, **Charana** ("conduct of life" or "behavior") is also used to re
 
 ==In short, **Shakha** is the branch and **Charana** is the way of the followers of that branch.==
 ## Some more intro notes
-The schools have different points of view, described as **shakhabedhah** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Saṃhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrauta Sutras**, **Griha Sutras** and **Upanishads**.
+The schools have different points of view, described as **Shakhabedhah** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Samhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrauta Sutras**, **Griha Sutras** and **Upanishads**.
 
 In traditional Hindu society affiliation with a specific school is an important aspect of class identity. By the end of the Rig Vedic period the term **Brahmana (Brahmin)** had come to be applied to all members of the priestly class, but there were subdivisions within this order based both on **Varna** (class) and on the **Shakha** (branch) with which they were affiliated.
 
@@ -12,7 +12,7 @@ A **Brahmana (Brahmin)** who changed school would be called **Shakharandah** ("a
 # List of Shakhas by Vedas
 I'm skipping Shrauta Sutras and Grhya Sutras for now (except whenever I find it)
 
-Note that several of the Sakhas have gone missing over the years.
+Note that several of the Shakhas have gone missing over the years.
 ## Rig Veda
 
 ### Saakala Shakha
@@ -25,7 +25,7 @@ Note that several of the Sakhas have gone missing over the years.
 ## Yajur Veda
 The Yajurvedin shakhas are divided in Shukla (White) and Krishna (Black) schools.
 
-The White recensions have separate Brahmanas, while the Black ones have their(much earlier) Brahmanas interspersed between the Mantras.
+The White recensions have separate Brahmanas, while the Black ones have their (much earlier) Brahmanas interspersed between the Mantras.
 ### Shukla (White)
 #### Madhyandina Shakha
 - **Samhita**: Vajasneyi Samhita (Madhyandina) (VSM)
