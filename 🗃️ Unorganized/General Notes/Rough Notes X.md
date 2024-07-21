@@ -12,7 +12,7 @@
 - Jews, Turks, People with Small Eyes, People who wear shoes made of hair
 - Black Dogs
 
-- Reliance of the traveller
+- Reliance of the Traveler
 	- Those who kill a child or insane person are not to be punished
 	- Those who kill their own children or grandchildren are not to be punished
 	- Those who kill their own ancestors in retaliation for killing a family member are not to be punished
@@ -60,7 +60,7 @@
 ### Hanbali Jurists
 - Muhaadana = Muwaad'a / Mu'ahada / Musalama / Isti'man / Sulh
 ### Islamic Legal Terms
-- Muwaad'a (Reconcilation) = Achievement of Sulh (Truce)
+- Muwaad'a (Reconciliation) = Achievement of Sulh (Truce)
 - Mutaaraka (Suspension of Hostilities) = Granting Amaan to Mu'ustamin of Ahl al-Harb
 - Muhaadana (Conclusion of a Truce)
 - Musaalaha (Making of Peace)

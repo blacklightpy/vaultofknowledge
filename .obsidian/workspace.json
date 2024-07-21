@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌎 Public/Retro/Tech Parts I Remember.md",
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -212,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎 Public/Retro/Tech Parts I Remember.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎 Public/Retro/Tech Parts I Remember.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -250,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎 Public/Retro/Tech Parts I Remember.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,16 +293,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d45ad2fa6601162c",
+  "active": "0b2468e55a9411a0",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🌎 Public/Retro/Tech Parts I Remember.md",
     "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
     "🌎 Public/Retro/Java Phone Programming.md",
     "🗃️ Unorganized/General Notes/What all do I want to change.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
@@ -310,7 +313,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🤠 Personal/Project Ideas/Universal Translator.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🔮 World Building/Art of Creation/History of Creating.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
@@ -319,7 +321,6 @@
     "🗺️ World Exploration/Culture/Christian Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Zoroastrian Influence on Judaism.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
-    "🗺️ World Exploration/Culture/Muslim Culture.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
