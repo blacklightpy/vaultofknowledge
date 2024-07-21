@@ -1,13 +1,25 @@
 
+- Mohammed, the role model of Muslims married a 6 year old girl (from Hadiths)
+- He consummated the marriage when she was 9 (from Hadiths)
+- Her dolls were with her because she hadn't menstruated when she was 9 (from Hadiths)
 
 - Tafsir (IK)
 
 - Scholarly opinion based on how the hadith denies
 
-- Enlightened man
-- Homosexuals
+- An enlightened man killed a boy fearing that he might become an atheist in the future (from Quran)
+- Homosexuals are to be killed (as per Hadiths)
+- Effeminate men 
+
+
+- Adulterers are to be given 100 lashes
+
+- Mohammed said it is better to marry a young girl than an old woman because you can play with her
+
+- Mohammed told a woman who released her slave woman that it was better to 
 
 - Safiyya
+- Juwarriyah
 
 - Jews, Turks, People with Small Eyes, People who wear shoes made of hair
 - Black Dogs
@@ -20,6 +32,9 @@
 - History of al-Tabari
 	- Vol 8, 39 (Safiyya)
 	- Vol 9 (Fifteen wives)
+
+- Bells are the tools of Satan
+- Mohammed received revelations like the ringing of a bell
 # Terms
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
