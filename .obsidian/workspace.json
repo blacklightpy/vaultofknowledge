@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
+                "file": "🌎 Public/Retro/Tech Parts I Remember.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -213,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
+                "file": "🌎 Public/Retro/Tech Parts I Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Studying a Religion.md"
+                "file": "🌎 Public/Retro/Tech Parts I Remember.md"
               }
             }
           },
@@ -251,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
+                "file": "🌎 Public/Retro/Tech Parts I Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,8 +292,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "d45ad2fa6601162c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🌎 Public/Retro/Retro Gaming/Retro Emulation.md",
+    "🌎 Public/Retro/Java Phone Programming.md",
+    "🗃️ Unorganized/General Notes/What all do I want to change.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
@@ -317,10 +320,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Zoroastrian Influence on Judaism.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Dualism.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",

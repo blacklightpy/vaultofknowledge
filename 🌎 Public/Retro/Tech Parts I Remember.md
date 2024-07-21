@@ -3,7 +3,7 @@
 - Gigabyte Motherboard Driver CD
 
 - PS/2 Keyboard and Mouse
-- DIN to PS/2 Connecter Cables
+- DIN to PS/2 Connector Cables
 - SMPS with Voltage change switch
 - IDE 4-pin Molex Power Cable
 - IDE Cable
