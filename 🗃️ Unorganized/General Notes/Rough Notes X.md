@@ -3,7 +3,7 @@
 - He consummated the marriage when she was 9 (from Hadiths)
 - Her dolls were with her because she hadn't menstruated when she was 9 (from Hadiths)
 
-- Tafsir (IK)
+- Tafsir (IK) (I guess Iddah for pre-pubescent women, and Jihad)
 
 - Scholarly opinion based on how the hadith denies
 
@@ -11,18 +11,34 @@
 - Homosexuals are to be killed (as per Hadiths)
 - Effeminate men 
 
+- Mohammed broke the treaty
+- Mohammed stole the women
+
+- Mohammed said no repatriation shall be paid for her blood
+	- Slave Mother
+	- Jewess
 
 - Adulterers are to be given 100 lashes
 
 - Mohammed said it is better to marry a young girl than an old woman because you can play with her
 
-- Mohammed told a woman who released her slave woman that it was better to 
+- Mohammed told a woman who freed her slave woman that it would've been better if she had sold her to her uncle (from Hadiths)
+- Mohammed told a man who freed his slave to cancel the manumission, and 
+
+- Mohammed traded two black slaves to buy a Muslim slave (from Hadiths)
+
+- The slave woman who is the wife of slave can be taken by the husband(I think from the 4 pages I opened)
 
 - Safiyya
 - Juwarriyah
 
 - Jews, Turks, People with Small Eyes, People who wear shoes made of hair
 - Black Dogs
+
+- Mohammed was like Hitler
+	- Obsession with cleanliness (Hitler also used to bath a lot, to purify Germany)
+	- Pictures
+	- Geckos, Salamanders, Snakes
 
 - Reliance of the Traveler
 	- Those who kill a child or insane person are not to be punished
