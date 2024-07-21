@@ -32,10 +32,10 @@ This is wrong, correct it.
 - Shakta Puranas
 	- Devi Bhagavata Purana
 # Upa Puranas
-- Sanat-kumara Purana
+- Sanat-Kumara Purana
 - Narasimha Purana
-- Brihan-naradiya Purana
-- Siva-rahasya Purana
+- Brihan-Naradiya Purana
+- Siva-Rahasya Purana
 - Durvasa Purana
 - Kapila Purana
 - Vamana Purana
