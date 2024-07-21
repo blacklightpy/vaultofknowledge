@@ -11,15 +11,22 @@
 - Homosexuals are to be killed (as per Hadiths)
 - Effeminate men 
 
+- Children of slave women remain slaves
+
+- Slave women cannot be profited from by prostitution, but they can be shared among family members for sex
+
 - Mohammed broke the treaty
 - Mohammed stole the women
 - He used the conflict between two clans to initiate a perpetual war between people
 
-- A slave woman should not dress like a free woman (Muwatta Malik)
+- A slave woman should not dress like a free woman (Muwatta Malik) (also atheism-vs-islam page)
+- Slave women have no concept of Awrah
 
 See 6:153 again (forgot)
 4:25
 5:5
+
+- Strike those who shave the middle of their heads (monks)
 
 - Guarding private parts mean that men should guard theirs from entering women
 - Slave women do not have the right to guard their private parts, because that verse is for men
@@ -41,7 +48,12 @@ See 6:153 again (forgot)
 - The slave woman who is the wife of slave can be taken by the husband(I think from the 4 pages I opened)
 
 - Safiyya
+	- Khaybar is ruined
+	- Abu stood guard
 - Juwarriyah
+	- Traded herself in for freedom
+
+- Life of Mohammed by Ibn Ishaq (Sa'ad)
 
 - Jews, Turks, People with Small Eyes, People who wear shoes made of hair
 - Black Dogs
