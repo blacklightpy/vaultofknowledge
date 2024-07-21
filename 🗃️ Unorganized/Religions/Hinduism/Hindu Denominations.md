@@ -5,7 +5,7 @@ Schools of thought are also called Darshanas.
 Notes: https://www.omyogashala.in/shad-darshan
 ## Orthodox Schools
 
-There are six schools of thought, called the Sad-Darshanas (Six Schools). They are themselves grouped into three groups of two similar schools, as follows:
+There are six schools of thought, called the Sadh-Darshanas (Six Schools). They are themselves grouped into three groups of two similar schools, as follows:
 
 1. Sankhya and Yoga
 2. Nyaya and Vaisheshika
@@ -17,7 +17,7 @@ There are six schools of thought, called the Sad-Darshanas (Six Schools). They a
 		- It views **Purusha** (Witness Consciousness) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
 		- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
 	- **Differences with Dualism**
-		- Western Dualism focuses on the difference between "mind" and "matter"
+		- Western [[Dualism]] focuses on the difference between "mind" and "matter"
 		- Sankhya Darshana focuses on the difference between "witness consciousness" and "nature of being" - that includes outside nature and one's feelings and sensations
 	- **Metaphysics**
 		- **Purusa** is part of **Prakriti**
@@ -54,21 +54,22 @@ There are six schools of thought, called the Sad-Darshanas (Six Schools). They a
 		- Buddhi (Intellect)
 		- Ahamkara (Ego)
 
-	- **Arguments against god by Sankhya philosophers**
-		- If the existence of karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without karma. If however, he is assumed to be within the law of karma, then karma itself would be the giver of consequences and there would be no need of a God.
-		- Even if karma is denied, God still cannot be the enforcer of consequences. Because the motives of an enforcer God would be either egoistic or altruistic. Now, God's motives cannot be assumed to be altruistic because an altruistic God would not create a world so full of suffering. If his motives are assumed to be egoistic, then God must be thought to have desire, as agency or authority cannot be established in the absence of desire. However, assuming that God has desire would contradict God's eternal freedom which necessitates no compulsion in actions. Moreover, desire, according to Samkhya, is an attribute of prakṛti and cannot be thought to grow in God. The testimony of the Vedas, according to Samkhya, also confirms this notion.
+	- **Arguments against God by Sankhya philosophers**
+		- If the existence of Karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without Karma. If however, he is assumed to be within the law of Karma, then Karma itself would be the giver of consequences and there would be no need of a God.
+		- Even if Karma is denied, God still cannot be the enforcer of consequences. Because the motives of an enforcer God would be either egoistic or altruistic. Now, God's motives cannot be assumed to be altruistic because an altruistic God would not create a world so full of suffering. If his motives are assumed to be egoistic, then God must be thought to have desire, as agency or authority cannot be established in the absence of desire. However, assuming that God has desire would contradict God's eternal freedom which necessitates no compulsion in actions. Moreover, desire, according to Sankhya Darshana, is an attribute of Prakriti and cannot be thought to grow in God. The testimony of the Vedas, according to Sankhya Darshana, also confirms this notion.
 		- Despite arguments to the contrary, if God is still assumed to contain unfulfilled desires, this would cause him to suffer pain and other similar human experiences. Such a worldly God would be no better than Samkhya's notion of higher self.
-		- Furthermore, there is no proof of the existence of God. He is not the object of perception, there exists no general proposition that can prove him by inference and the testimony of the Vedas speak of prakṛti as the origin of the world, not God.
-	- Therefore, Samkhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
+		- Furthermore, there is no proof of the existence of God. He is not the object of perception, there exists no general proposition that can prove him by inference and the testimony of the Vedas speak of Prakriti as the origin of the world, not God.
+	- Therefore, Sankhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
+
 - 2. Yoga (Connection)
-	- It is based on the Samkhya school of thought
-	- It derives onotology and epistemology from Samkhya, but adds the concept of Ishvara (god)
+	- It is based on the Sankhya school of thought
+	- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
 	- Books
 		- It is mainly based on the Yoga Sutras of Patanjali
 		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
 
 - 3. Nyaya ()
-	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyakṣa (perception), Anumāṇa (inference), Upamāṇa (comparison and analogy) and Śabda (word, testimony of past or present reliable experts).
+	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyaksha (Perception), Anumāṇa (Logical Inference), Upamāṇa (Comparison and Analogy) and Shabda (Verbal Testimony).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
 
@@ -82,16 +83,16 @@ There are six schools of thought, called the Sad-Darshanas (Six Schools). They a
 	- It focuses on the early parts of the Vedas
 - 6. Vedanta / Uttara Mimamsa
 	- It focuses on the later parts of the Vedas
-	- It is like the opposite of Samkhya school of thought
+	- It is like the opposite of Sankhya school of thought
 		- It sees the world as a manifestation of Brahman
 	- Types
-		- 6.1. Bhedabheda Vedanta (difference and non-difference)
-		- 6.2. Dvaitādvaita Vedanta
+		- 6.1. Bheda-Abheda Vedanta (difference and non-difference)
+		- 6.2. Dvaitadvaita Vedanta
 		- 6.3. Advaita Vedanta
 		- 6.4. Vishishtadvaita Vedanta
-			- 6.4.1. Akshar-Purushottam Darshan
+			- 6.4.1. Akshar-Purushottam
 		- 6.5. Dvaita Vedanta
-		- 6.6. Shuddhādvaita Vedanta
+		- 6.6. Shuddhadvaita Vedanta
 		- 6.7. Achintya-Bheda-Abheda Vedanta
 # Heterodox
 - 1. Buddhism
