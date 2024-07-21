@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,8 +293,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "583a709572241bb8",
+  "active": "436030d53362eb4b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+    "🤠 Personal/Project Ideas/Universal Translator.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
@@ -319,8 +321,6 @@
     "🗃️ Unorganized/General Notes/Duality.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",

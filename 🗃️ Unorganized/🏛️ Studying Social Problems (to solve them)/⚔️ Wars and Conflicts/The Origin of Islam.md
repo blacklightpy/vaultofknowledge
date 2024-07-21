@@ -18,7 +18,7 @@
 > Other Caliphates
 > - Fatimid Caliphate (Shi'a)
 > - Almohad Caliphate (Berbers, who defeated the Almoravid Dynasty)
-> 	- dhimmis were rejected
+> 	- Dhimmis were rejected
 > 	- Prior to Almohad rule, they had just had a Golden Age in Spain
 > 		- The treatment and persecution of Jews under Almohad rule was a drastic change. Prior to Almohad rule during the Caliphate of Córdoba, Jewish culture experienced a Golden Age. María Rosa Menocal, a specialist in Iberian literature at Yale University, has argued that "tolerance was an inherent aspect of Andalusian society", and that the **Jewish dhimmis living under the Caliphate, while allowed fewer rights than Muslims, were still better off than in Christian Europe**. Many Jews migrated to al-Andalus, where they were not just tolerated but allowed to practice their faith openly. Christians had also practiced their religion openly in Córdoba, and both Jews and Christians lived openly in Morocco as well. 
 > 		- The first Almohad ruler, Abd al-Mumin, allowed an initial seven-month grace period. Then he forced most of the urban dhimmi population in Morocco, both Jewish and Christian, to convert to Islam. In 1198, the Almohad emir Abu Yusuf Yaqub al-Mansur decreed that Jews must wear a dark blue garb, with very large sleeves and a grotesquely oversized hat; his son altered the colour to yellow, a change that may have influenced Catholic ordinances some time later. Those who converted had to wear clothing that identified them as Jews since they were not regarded as sincere Muslims. Cases of mass martyrdom of Jews who refused to convert to Islam are recorded. The treatment and persecution of Christians under Almohad rule was a drastic change as well.
