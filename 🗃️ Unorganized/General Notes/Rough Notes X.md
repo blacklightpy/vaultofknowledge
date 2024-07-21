@@ -13,6 +13,17 @@
 
 - Mohammed broke the treaty
 - Mohammed stole the women
+- He used the conflict between two clans to initiate a perpetual war between people
+
+- A slave woman should not dress like a free woman (Muwatta Malik)
+
+See 6:153 again (forgot)
+4:25
+5:5
+
+- Guarding private parts mean that men should guard theirs from entering women
+- Slave women do not have the right to guard their private parts, because that verse is for men
+- Women cannot have relations with her slaves, because that verse was for men
 
 - Mohammed said no repatriation shall be paid for her blood
 	- Slave Mother
