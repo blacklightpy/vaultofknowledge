@@ -184,12 +184,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -293,7 +293,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d45ad2fa6601162c",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",

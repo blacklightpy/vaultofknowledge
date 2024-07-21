@@ -103,11 +103,12 @@ Since there are six orthodox schools of thought, they are called **sadh darshana
 - Vaisheshika
 - Mimamsa / Purva Mimamsa
 - Vedanta / Uttara Mimamsa
-	- Bhedabedha / Dvaitadvaita Vedanta
-	- Achinta Bhedabedha Vedanta
+	- Bheda-Abedha / Dvaitadvaita Vedanta
+	- Achintya Bheda-Abedha Vedanta
 	- Advaita Vedanta
-	- Dvaita (Tattvavada) Vedanta
+	- Dvaita / Tattvavada Vedanta
 	- Vishishtadvaita Vedanta
+		- Akshar Purushottam
 	- Shuddhadvaita Vedanta
 	- Neo-Vedanta
 #### Heterodox
