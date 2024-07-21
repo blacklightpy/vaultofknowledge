@@ -1,6 +1,6 @@
 
 
-- Tafsir
+- Tafsir (IK)
 
 - Scholarly opinion based on how the hadith denies
 
@@ -13,13 +13,13 @@
 - Black Dogs
 
 - Reliance of the traveller
-	- Those who kill a child or insane
-	- ff
-	- df
+	- Those who kill a child or insane person are not to be punished
+	- Those who kill their own children or grandchildren are not to be punished
+	- Those who kill their own ancestors in retaliation for killing a family member are not to be punished
 
 - History of al-Tabari
 	- Vol 8, 39 (Safiyya)
-	- Vol 9 (Fifteen women)
+	- Vol 9 (Fifteen wives)
 # Terms
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
