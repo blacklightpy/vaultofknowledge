@@ -21,7 +21,7 @@
 			- There, the treaty seemed so submissive, as if it was written at gunpoint
 			- This is the reference example of the nature of a treaty post the Conquest of Mecca
 			- Also, that example was of Dhimmah, and it is in line with the verse that says that the Dhimmis should be taxed under the knowledge of their humiliation under the rule of Islam
-	- A moderate interpretation of this is that not all disbelievers are to be killed, but only 
+	- A moderate interpretation of this is that not all disbelievers are to be killed, but only those who prevent Da'wah or practice of Islam in their territory.
 
 ## Islam doesn't condone slavery
 

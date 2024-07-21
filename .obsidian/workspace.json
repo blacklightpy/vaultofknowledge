@@ -86,19 +86,6 @@
             }
           },
           {
-            "id": "bab6e3b94466d3c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "83fda12487ac4a0c",
             "type": "leaf",
             "state": {
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -226,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X2.md"
               }
             }
           },
@@ -264,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,13 +293,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "357959afc0a5d438",
   "lastOpenFiles": [
-    "🔮 World Building/Art of Creation/History of Creating.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/Religions/The Hebrew Religion.md",
-    "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
+    "🔮 World Building/Art of Creation/History of Creating.md",
+    "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Problems with Religions in General (long).md",
