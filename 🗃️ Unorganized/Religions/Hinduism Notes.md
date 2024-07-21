@@ -35,8 +35,8 @@ In Religion:
 - Number of verses in Puranas: ~400,000
 - Number of verses in Mahabharata: ~100,000
 	- Bhagavat Gita: ~745 verses
-	- Original (Jaya Samhitha): 8,800
-- Number of verses in 
+	- Original (Jaya Samhitha): 8,800 verses or 24,000 verses (debated)
+- Number of verses in Ramayana: 
 ## Culture
 - [[Hindu Denominations]]
 ## Kerala

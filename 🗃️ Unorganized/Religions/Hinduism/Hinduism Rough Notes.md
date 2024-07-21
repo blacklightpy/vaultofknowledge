@@ -120,13 +120,13 @@ Sutras were traditionally used as a **mnemonic device to help students remember*
 Sutras are typically written in a highly condensed and elliptical style, and often use technical terminology and abbreviations. This makes them difficult for the uninitiated to understand, and requires a deep knowledge of the subject matter and the language in which they are written.
 ## Yoga Sutras of Patanjali
 
-The **Yoga Sutras of Patanjali** are a collection of 196 Sanskrit sutras (aphorisms) on the practice of yoga, written by the Indian **sage Patanjali** around 400 CE. Yoga Sutras are considered to be one of the most important texts on the philosophy and practice of yoga, and are considered to be a foundational text of the Yoga Darshana, or Yoga Philosophy.
+The **Yoga Sutras of Patanjali** are a collection of 196 Sanskrit Sutras (aphorisms) on the practice of yoga, written by the Indian **sage Patanjali** around 400 CE. Yoga Sutras are considered to be one of the most important texts on the philosophy and practice of yoga, and are considered to be a foundational text of the Yoga Darshana, or Yoga Philosophy.
 
-The Yoga Sutras of Patanjali are divided into four chapters, or **padas**, which cover the following topics:
+The Yoga Sutras of Patanjali are divided into four chapters, or **Padas**, which cover the following topics:
 1. Samadhi Pada: This chapter discusses the nature of the mind, the causes of suffering, and the means of achieving liberation through the practice of yoga.
-2. Sadhana Pada: This chapter discusses the practical aspects of yoga, including the eight limbs of yoga, which are: yama (ethical restraints), niyama (observances), asana (physical postures), pranayama (breath control), pratyahara (sense withdrawal), dharana (concentration), dhyana (meditation), and samadhi (absorption).
-3. Vibhuti Pada: This chapter discusses the supernatural powers that can be attained through the practice of yoga, and the dangers of becoming attached to these powers.
-4. Kaivalya Pada: This chapter discusses the ultimate goal of yoga, which is the attainment of kaivalya, or liberation from the cycle of birth and death.
+2. Sadhana Pada: This chapter discusses the practical aspects of Yoga, including the eight limbs of Yoga, which are: Yama (ethical restraints), Niyama (observances), Asana (physical postures), Pranayama (breath control), Pratyahara (sense withdrawal), Dharana (concentration), Dhyana (meditation), and Samadhi (absorption).
+3. Vibhuti Pada: This chapter discusses the supernatural powers that can be attained through the practice of Yoga, and the dangers of becoming attached to these powers.
+4. Kaivalya Pada: This chapter discusses the ultimate goal of Yoga, which is the attainment of Kaivalya, or liberation from the cycle of birth and death.
 # Glossary
 - Aphorism: General Truths we understand, proverbs, etc.
 - Maxims: Belief Systems (Personal Rules included)

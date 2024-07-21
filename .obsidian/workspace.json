@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -184,7 +184,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
               }
             }
           },
@@ -251,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,14 +294,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "436030d53362eb4b",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🤠 Personal/Project Ideas/Universal Translator.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🔮 World Building/Art of Creation/History of Creating.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
@@ -313,14 +318,10 @@
     "🗃️ Unorganized/Religions/Studying a Religion.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Dualism.md",
     "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
-    "🗃️ Unorganized/General Notes/Duality.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",

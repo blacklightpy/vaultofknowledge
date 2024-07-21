@@ -1,14 +1,14 @@
-A Vedic **shakha** (Sanskrit śākhā, "branch" or "limb") is a Hindu theological school that specializes in learning certain Vedic texts, or else the traditional texts followed by such a school. An individual follower of a particular school or revision is called a **shakhin**. The term is also used in Hindu philosophy to refer to an adherent of a particular orthodox system.
+A Vedic **Shakha** (Sanskrit śākhā, "branch" or "limb") is a Hindu theological school that specializes in learning certain Vedic texts, or else the traditional texts followed by such a school. An individual follower of a particular school or revision is called a **Shakhin**. The term is also used in Hindu philosophy to refer to an adherent of a particular orthodox system.
 
-A related term, **charana** ("conduct of life" or "behavior") is also used to refer to such a Vedic school: "although the words charana and shakha are sometimes used synonymously, yet charana properly applies to the sect or collection of persons united in one school, and shakha to the traditional text followed, as in the phrase **shakham adithe** ("he recites a particular version of the Veda").
+A related term, **Charana** ("conduct of life" or "behavior") is also used to refer to such a Vedic school: "although the words Charana and Shakha are sometimes used synonymously, yet Charana properly applies to the sect or collection of persons united in one school, and Shakha to the traditional text followed, as in the phrase **Shakham Adithe** ("he recites a particular version of the Veda").
 
-==In short, **shakha** is the branch and **charana** is the way of the followers of that branch.==
+==In short, **Shakha** is the branch and **Charana** is the way of the followers of that branch.==
 ## Some more intro notes
 The schools have different points of view, described as **shakhabedhah** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Saṃhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrauta Sutras**, **Griha Sutras** and **Upanishads**.
 
-In traditional Hindu society affiliation with a specific school is an important aspect of class identity. By the end of the Rig Vedic period the term **Brahmana (Brahmin)** had come to be applied to all members of the priestly class, but there were subdivisions within this order based both on **varna** (class) and on the **shakha** (branch) with which they were affiliated.
+In traditional Hindu society affiliation with a specific school is an important aspect of class identity. By the end of the Rig Vedic period the term **Brahmana (Brahmin)** had come to be applied to all members of the priestly class, but there were subdivisions within this order based both on **Varna** (class) and on the **Shakha** (branch) with which they were affiliated.
 
-A **Brahmana (Brahmin)** who changed school would be called **shakharandah** ("a traitor to his śākhā").
+A **Brahmana (Brahmin)** who changed school would be called **Shakharandah** ("a traitor to his śākhā").
 # List of Shakhas by Vedas
 I'm skipping Shrauta Sutras and Grhya Sutras for now (except whenever I find it)
 
