@@ -29,7 +29,7 @@ There are 108 Upanishads, and each Upanishad is associated with a separate [[Ved
 ## Mahavakyas
 They mean "Great Sayings", and these four are handpicked from Upanishads of the four Vedas. There are other Mahavakyas, but these are "the Mahavakyas".
 
-- "Prajñānam brahma" - "Consciousness is Brahman" (Aitareya Upanishad of Rig Veda)
-- "Aham brahmāsmi" - "I am Brahman" (Brihadaranyaka Upanishad of Sama Veda)
-- "Tat tvam asi" - "That Thou art" (Chandogya Upanishad of Yajur Veda)
-- "Ayamātmā brahma" - "This Atman is Brahman" (Mandukya Upanishad of Atharva Veda)
+- "Pitham Prajñānam Brahma" - "Consciousness is Brahman" (Aitareya Upanishad of Rig Veda)
+- "Aham Brahmasmi" - "I am Brahman" (Brihadaranyaka Upanishad of Sama Veda)
+- "Tat Tvam Asi" - "That Thou art" (Chandogya Upanishad of Yajur Veda)
+- "Ayam Atma Brahma" - "This Atman is Brahman" (Mandukya Upanishad of Atharva Veda)

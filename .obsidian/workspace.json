@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
+                "file": "🗃️ Unorganized/Religions/Studying a Religion.md"
               }
             }
           },
@@ -252,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Studying a Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,13 +293,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "d45ad2fa6601162c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
@@ -317,8 +318,6 @@
     "🗺️ World Exploration/Culture/Jewish Culture.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Dualism.md",
