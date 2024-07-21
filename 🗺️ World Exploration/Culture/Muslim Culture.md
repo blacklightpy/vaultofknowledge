@@ -55,7 +55,7 @@ The Quran is divided in various ways.
 - Aqidah (Creed)
 
 - Kalam School
-	- Ashardi, Maturidi, etc.
+	- Ash'ari, Maturidi, etc.
 	- Twelver Shia
 	- Ibadiyya
 

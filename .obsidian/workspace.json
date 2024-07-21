@@ -197,7 +197,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -308,6 +309,9 @@
   },
   "active": "0b2468e55a9411a0",
   "lastOpenFiles": [
+    "🗺️ World Exploration/Culture/Muslim Culture.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/Religions/Studying a Religion.md",
@@ -317,8 +321,6 @@
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/Religions/The Hebrew Religion.md",
     "🗃️ Unorganized/General Notes/Dualism.md",
     "🗃️ Unorganized/General Notes/Sexual Misconduct and Marital Rape in Religions.md",
     "🗃️ Unorganized/General Notes/Duality.md",
@@ -333,7 +335,6 @@
     "🗃️ Unorganized/General Notes/Exploring Fair Capitalist Models.md",
     "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
     "🗃️ Unorganized/General Notes/Comparison of Nations.md",
-    "🗃️ Unorganized/General Notes/How to create anything.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
