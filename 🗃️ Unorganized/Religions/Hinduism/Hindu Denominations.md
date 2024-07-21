@@ -164,34 +164,32 @@ These deity-centered denominations feature a synthesis of various philosophies s
 	- Varkari Panth (Hindu)
 
 # Notes
-
 Sampradaya in Indian origin religions, namely Hinduism, Buddhism, Jainism, and Sikhism, can be translated as 'tradition', 'spiritual lineage', 'sect', or 'religious system'.
 
-To ensure continuity and transmission of dharma, various sampradayas have the Guru-shishya parampara in which parampara or lineage of successive gurus (masters) and shishyas (disciples) serves as a spiritual channel and provides a reliable network of relationships that lends stability to a religious identity. 
+To ensure continuity and transmission of dharma, various Sampradayas have the Guru-Shishya Parampara in which Parampara or lineage of successive Gurus (masters) and Shishyas (disciples) serves as a spiritual channel and provides a reliable network of relationships that lends stability to a religious identity. 
 
-Shramana is vedic term for seeker or shishya. Identification with and followership of sampradayas is not static, as sampradayas allows flexibility where one can leave one sampradaya and enter another or practice religious syncretism by simultaneously following more than one sampradaya.
+Shramana is Vedic term for seeker or Shishya. Identification with and followership of Sampradayas is not static, as Sampradayas allow flexibility where one can leave one sampradaya and enter another or practice religious syncretism by simultaneously following more than one Sampradaya.
 
-Samparda is a punjabi language term, used in Sikhism, for sampradayas.
+Samparda is a Punjabi language term, used in Sikhism, for Sampradayas.
 
-## Guru-shishya parampara
-Sampradayas are living traditions of both teaching and practice within a specific religious-spiritual tradition. They are generally composed of a monastic order within a specific guru lineage, with ideas developed and transmitted, redefined and reviewed by each successive generation of followers. A particular guru lineage is called parampara. By receiving diksha (initiation) into the parampara of a living guru, one belongs to its proper sampradaya.
+## Guru-Shishya Parampara
+Sampradayas are living traditions of both teaching and practice within a specific religious-spiritual tradition. They are generally composed of a monastic order within a specific Guru lineage, with ideas developed and transmitted, redefined and reviewed by each successive generation of followers. A particular Guru lineage is called Parampara. By receiving Diksha (initiation) into the Parampara of a living guru, one belongs to its proper Sampradaya.
 
-To ensure continuity through dharma transmission, various smapardayas ensure continuity through Guru-shishya parampara where Guru teaches shishyas in gurukula, matha, akhara, and viharas. Buddhism also has lineage of gurus. Tibetan Buddhism has lineage of Lamas who teach in gompas and stupas.
+To ensure continuity through Dharma transmission, various Sampardayas ensure continuity through Guru-Shishya Parampara where Guru teaches Shishyas in Gurukula, Matha, Akhara, and Viharas. Buddhism also has lineage of Gurus. Tibetan Buddhism has lineage of Lamas who teach in Gompas and Stupas.
 
 ### Continuity of sampradaya
-See also: Guru gotra and Gurunath
+See also: Guru Gotra and Gurunath
 
-Sampradaya is a body of practice, views and attitudes, which are transmitted, redefined and reviewed by each successive generation of followers. Participation in sampradaya forces continuity with the past, or tradition, but at the same time provides a platform for change from within the community of practitioners of this particular traditional group.
+Sampradaya is a body of practice, views and attitudes, which are transmitted, redefined and reviewed by each successive generation of followers. Participation in Sampradaya forces continuity with the past, or tradition, but at the same time provides a platform for change from within the community of practitioners of this particular traditional group.
 ### Diksha: Initiation into sampradaya
+A particular Guru lineage in Guru-Shishya tradition is called Parampara, and may have its own Akharas and Gurukulas. By receiving Diksha (initiation) into the Parampara of a living Guru, one belongs to its proper Sampradaya.
 
-A particular guru lineage in guru-shishya tradition is called parampara, and may have its own akharas and gurukulas. By receiving diksha (initiation) into the parampara of a living guru, one belongs to its proper sampradaya.
-
-One cannot become a member by birth, as is the case with gotra, a seminal, or hereditary, dynasty.
+One cannot become a member by birth, as is the case with Gotra, a seminal, or hereditary, dynasty.
 ### Authority on knowledge of truth
 
-Membership in a sampradaya not only lends a level of authority to one's claims on truth in Hindu traditional context, but also allows one to make those claims in the first place. An often quoted verse from the Padma Purana states:
+Membership in a Sampradaya not only lends a level of authority to one's claims on truth in Hindu traditional context, but also allows one to make those claims in the first place. An often quoted verse from the Padma Purana states:
 
-> Mantras which are not received in sampradaya are considered fruitless.
+> Mantras which are not received in Sampradaya are considered fruitless.
 
 And another verse states:
 
@@ -199,8 +197,8 @@ And another verse states:
 
 As Wright and Wright put it,
 
-> If one cannot prove natal legitimacy, one may be cast out as a bastard. The same social standard applies to religious organizations. If a religious group cannot prove its descent from one of the recognised traditions, it risks being dismissed as illegitimate.
+> If one cannot prove natal legitimacy, one may be cast out as a bastard. The same social standard applies to religious organizations. If a religious group cannot prove its descent from one of the recognized traditions, it risks being dismissed as illegitimate.
 
-Nevertheless, there are also examples of teachers who were not initiated into a sampradaya, Ramana Maharshi being a well-known example.
+Nevertheless, there are also examples of teachers who were not initiated into a Sampradaya, Ramana Maharshi being a well-known example.
 
-A sannyasin belonging to the Sringeri Sharada Peetham once tried to persuade Ramana to be initiated into sannyasa, but Ramana refused.
+A Sanyasi belonging to the Sringeri Sharada Peetham once tried to persuade Ramana to be initiated into Sanyasa, but Ramana refused.
