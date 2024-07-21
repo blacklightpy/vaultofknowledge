@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -266,7 +267,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "83fda12487ac4a0c",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
