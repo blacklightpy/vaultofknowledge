@@ -4,6 +4,7 @@
 - Her dolls were with her because she hadn't menstruated when she was 9 (from Hadiths)
 
 - Tafsir (IK) (I guess Iddah for pre-pubescent women, and Jihad)
+- Something from Fiqh (varies by Madhhabs)
 
 - Scholarly opinion based on how the hadith denies
 
