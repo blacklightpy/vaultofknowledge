@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,12 +293,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0b2468e55a9411a0",
+  "active": "583a709572241bb8",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🔮 World Building/Art of Creation/History of Creating.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
