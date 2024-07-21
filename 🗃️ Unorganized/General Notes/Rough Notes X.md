@@ -41,9 +41,18 @@ See 6:153 again (forgot)
 - Mohammed said it is better to marry a young girl than an old woman because you can play with her
 
 - Mohammed told a woman who freed her slave woman that it would've been better if she had sold her to her uncle (from Hadiths)
-- Mohammed told a man who freed his slave to cancel the manumission, and 
+- Mohammed told a man who freed his slave to cancel the manumission, and instead he took it from him and sold him to another man
 
 - Mohammed traded two black slaves to buy a Muslim slave (from Hadiths)
+
+ - Burn the houses of those who skip prayers
+ - Kill apostates
+
+- Women cannot divorce men
+- Men can divorce women 
+
+- Majority in hell are women
+- Mohammed said women are inferior in intellect and said it is provable (by a circular reasoning)
 
 - The slave woman who is the wife of slave can be taken by the husband(I think from the 4 pages I opened)
 
