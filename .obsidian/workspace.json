@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "history",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md"
               }
             }
           },
@@ -225,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,6 +270,14 @@
   },
   "active": "83fda12487ac4a0c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "🗺️ World Exploration/History/Geology/Timeline of Geological History.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/General Notes/Map of Folders.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Keywords related to Operating Systems.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
@@ -284,17 +293,9 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/History of Banana Republics.md",
     "🗃️ Unorganized/General Notes/History and GK I have to learn.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-    "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
