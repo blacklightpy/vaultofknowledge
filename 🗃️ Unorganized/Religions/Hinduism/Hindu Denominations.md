@@ -107,11 +107,22 @@ Hinduism is subdivided into a number of major Sampradayas. Of the historical div
 
 Classified by primary deity or deities, four major types of Hinduism include **Vishnu Worshippers**, **Shiva Worshippers**, **Adiparashakti Worshippers** and **Smartas** (five deities treated as same).
 
-These deity-centered denominations feature a synthesis of various philosophies such as Sankhya, Yoga and Vedanta, as well as shared spiritual concepts such as **Moksha**, **Dharma**, **Karma**, **Samsara**, ethical precepts such as **Ahimsa**, common texts (**Upanishads**, **Puranas**, **Mahabharata**, **Agamas**), **ritual grammar and rites of passage (Kalpa)**.
+These deity-centered denominations feature a synthesis of various philosophies such as Sankhya, Yoga and Vedanta, as well as shared spiritual concepts such as **Moksha**, **Dharma**, **Karma**, **Samsara**, ethical precepts such as **Ahimsa**, common texts (**Upanishads**, **Puranas**, **Mahabharata**, **Agamas**), ritual grammar and rites of passage (**Vyakarana** and **Kalpa** Vedangas).
+
+## General Overview
+- Bhakti Traditions
+	- Paramashiva Worship
+	- Vishnu Worship
+	- Adiparashakti Worship
+	- Ganapati Worship
+	- Kartikeya Worship
+- Advaita Vedanta (No Worship)
+- Smarta Tradition (Advaita Vedanta + Bhakti tradition)
+	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 
 # Other Classic
 - Shrautism
-	- Shrauta communities are very rare in India, the most well known being the ultra-orthodox Nambudiri Brahmins of Kerala. They follow the "Purva-Mimamsa" (earlier portion of Vedas) in contrast to Vedanta followed by other Brahmins. They place importance on the performance of Vedic Sacrifice (Yajna). The Nambudiri Brahmins are famous for their preservation of the ancient Somayaagam, Agnicayana rituals which have vanished in other parts of India.
+	- Shrauta communities are very rare in India, the most well known being the ultra-orthodox Nambudiri Brahmins of Kerala. They follow the "Purva-Mimamsa" (earlier portion of Vedas) in contrast to Vedanta followed by other Brahmins. They place importance on the performance of Vedic Sacrifice (Yajna). The Nambudiri Brahmins are famous for their preservation of the ancient Somayaagam, Agnichayana rituals which have vanished in other parts of India.
 - Suryaism / Saurism
 # Modern
 - Ganapati Worship
@@ -167,14 +178,14 @@ These deity-centered denominations feature a synthesis of various philosophies s
 # Notes
 Sampradaya in Indian origin religions, namely Hinduism, Buddhism, Jainism, and Sikhism, can be translated as 'tradition', 'spiritual lineage', 'sect', or 'religious system'.
 
-To ensure continuity and transmission of dharma, various Sampradayas have the Guru-Shishya Parampara in which Parampara or lineage of successive Gurus (masters) and Shishyas (disciples) serves as a spiritual channel and provides a reliable network of relationships that lends stability to a religious identity. 
+To ensure continuity and transmission of Dharma, various Sampradayas have the Guru-Shishya Parampara in which Parampara or lineage of successive Gurus (masters) and Shishyas (disciples) serves as a spiritual channel and provides a reliable network of relationships that lends stability to a religious identity. 
 
-Shramana is Vedic term for seeker or Shishya. Identification with and followership of Sampradayas is not static, as Sampradayas allow flexibility where one can leave one sampradaya and enter another or practice religious syncretism by simultaneously following more than one Sampradaya. (This is in contrast to Shakhas)
+Shramana is Vedic term for seeker or Shishya. Identification with and followership of Sampradayas is not static, as Sampradayas allow flexibility where one can leave one Sampradaya and enter another or practice religious syncretism by simultaneously following more than one Sampradaya. (This is in contrast to Shakhas)
 
 Samparda is a Punjabi language term, used in Sikhism, for Sampradayas.
 
 ## Guru-Shishya Parampara
-Sampradayas are living traditions of both teaching and practice within a specific religious-spiritual tradition. They are generally composed of a monastic order within a specific Guru lineage, with ideas developed and transmitted, redefined and reviewed by each successive generation of followers. A particular Guru lineage is called Parampara. By receiving Diksha (initiation) into the Parampara of a living guru, one belongs to its proper Sampradaya.
+Sampradayas are living traditions of both teaching and practice within a specific religious-spiritual tradition. They are generally composed of a monastic order within a specific Guru lineage, with ideas developed and transmitted, redefined and reviewed by each successive generation of followers. A particular Guru lineage is called Parampara. By receiving Diksha (initiation) into the Parampara of a living Guru, one belongs to its proper Sampradaya.
 
 To ensure continuity through Dharma transmission, various Sampardayas ensure continuity through Guru-Shishya Parampara where Guru teaches Shishyas in Gurukula, Matha, Akhara, and Viharas. Buddhism also has lineage of Gurus. Tibetan Buddhism has lineage of Lamas who teach in Gompas and Stupas.
 
@@ -182,7 +193,7 @@ To ensure continuity through Dharma transmission, various Sampardayas ensure con
 See also: Guru Gotra and Gurunath
 
 Sampradaya is a body of practice, views and attitudes, which are transmitted, redefined and reviewed by each successive generation of followers. Participation in Sampradaya forces continuity with the past, or tradition, but at the same time provides a platform for change from within the community of practitioners of this particular traditional group.
-### Diksha: Initiation into sampradaya
+### Diksha: Initiation into Sampradaya
 A particular Guru lineage in Guru-Shishya tradition is called Parampara, and may have its own Akharas and Gurukulas. By receiving Diksha (initiation) into the Parampara of a living Guru, one belongs to its proper Sampradaya.
 
 One cannot become a member by birth, as is the case with Gotra, a seminal, or hereditary, dynasty.
