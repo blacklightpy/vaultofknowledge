@@ -54,6 +54,10 @@ See 6:153 again (forgot)
 
 - Majority in hell are women
 - Mohammed said women are inferior in intellect and said it is provable (by a circular reasoning)
+- A woman's testimony is half as worth that of a man
+
+- Men could have 4 wives but women cannot have multiple husbands
+- Mohammed could have 11 wives
 
 - The slave woman who is the wife of slave can be taken by the husband(I think from the 4 pages I opened)
 
