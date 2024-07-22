@@ -650,7 +650,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1450 AD: Italy is rich and cares about art and the Ancient Greek Classics (The Renaissance Period)
 - Gutenberg invents the printing press
 ### Eurasia
-- The fourth crusade ended up capturing the Byzantine empire as part of the Latin empire and weaking Constantinople
+- The fourth crusade ended up capturing the Byzantine empire as part of the Latin empire and weakening Constantinople
 - 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
 	- They were
 	- Ottomans banned India from the European spice trade
@@ -659,7 +659,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 > [!NOTE] INTERMEDIATE NOTE: Islam and Palestine
 > - [Sunni muslims belive the caliphates should be elected. Shi'a Muslims believe that they should be an imam chosen by god from the Ahl-al-Bayat (family of the prophet). To Sunnis the first caliphate was Abu Bakr, the father in law of Mohammed. To Shia Muslims, it was Ali ibn-Talib, the husband of Fatima, the daughter of Mohammed.]
 > 	- Twelver Shi'ism is the largest branch of Shi'a Islam, consisting of 85% of Shi'a Muslims. They believe in twelve divinely ordained leaders, or the Twelve Imams, and that the last of them (Imam Mohammed al-Mahdi) is currently living in secret and will reappear in the end times as the final Islamic leader (or Mahdi) to rid the world of evil and injustice, after which Jesus will return to rule the world.
-> 	- Mahdi is not based on the Quran, but on the haddiths.
+> 	- Mahdi is not based on the Quran, but on the Hadiths.
 > - [Cis-Jordan was the area west of Jordan river (historically known as Canaan and Mandatory Palestine (as of British League of Nations), now part of Israel and Palestine), and Trans-Jordan was the area east of Jordan river (now Jordan). Basically Trans-Joradan and Cis-Jordan was in combination called Palestine]
 ## Time Period 15 (1490-1500)
 
@@ -791,7 +791,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- It was supported by Gandhi, Sardar Vallabhbhai Patel and Bal Gangadhar Tilak
 	- It led to Malabar Kalapam in Kerala in 1921
 		- It was a riot against British officers who forcibly converted and killed many Hindus, trying to stir up conflict between Hindus and Muslims
-		- It was also against the elite Hindus landowners, who had absolute family ownership of the land under the [jenmi system](https://en.wikipedia.org/wiki/Malabar_rebellion#Jenmi)
+		- It was also against the elite Hindus landowners, who had absolute family ownership of the land under the [Jenmi system](https://en.wikipedia.org/wiki/Malabar_rebellion#Jenmi)
 - 1919: Turkish War for Independence begins
 - 1922: Soviet Union forms with Communism
 - 1924: Türkiye becomes independent 
@@ -866,7 +866,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 	- In 1953 Armistice Agreement, a new line was formed to separate North Korea and South Korea.
 	- The Military Demarcation Line is surrounded by a demilitarized zone (DMZ)
 		- ![[Korea_DMZ.svg.png]]
-- 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the "fascist West Berlin who conspires to prevent the will of the peopl"
+- 1961: Berlin Wall was constructed to prevent East Berlin citizens from moving to the "fascist West Berlin who conspires to prevent the will of the people"
 - 1969: Space Race
 - Vietnam War
 	- Viet Minh declared Vietnamese Independence from Japan after World War II, but France still wanted to rule it
