@@ -1,4 +1,4 @@
-- **Tirukkural**
+- **Thirukkural**
 	- It is a book on secular philosophy
 	- It is part of the eighteen lesser texts of Sangam Literature
 	- All major Indian religions and sects, including Shiva Worshippers, Vishnu Worshippers, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaram**, **Manimekalai**, **Tirumurai**, **Periya Puranam**, and **Kamba Ramayanam**.

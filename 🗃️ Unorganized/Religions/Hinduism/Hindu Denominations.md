@@ -1,4 +1,4 @@
-Denominations are also called Sampradayas.
+Denominations are also called Sampradayas. (I guess Darshanas should be moved to a separate note.)
 # Based on Schools of thought
 Schools of thought are also called Darshanas.
 

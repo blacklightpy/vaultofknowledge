@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chandas",
+                "query": "kural",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,6 +269,7 @@
   },
   "active": "83fda12487ac4a0c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
@@ -294,7 +295,6 @@
     "🗃️ Unorganized/General Notes/What all do I want to change.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🤠 Personal/Project Ideas/Universal Translator.md",
-    "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",

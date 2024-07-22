@@ -48,7 +48,7 @@ Saguna - All good attributes
 	- Para Brahman = Saguna Brahman (All good attributes)
 - In Vishista Dvatia Vedanta
 	- Para Brahman = Saguna Brahman (All good attributes)
-- By Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship
+- By Bhakti Traditions (Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship)
 	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
 ## Hindu denominations / Sampradayas
 - Bhakti Traditions
