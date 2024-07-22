@@ -124,7 +124,7 @@
 - Wives are to obey their husbands
 - Their husbands can hit them
 - Wives cannot divorce husbands without "reason"
-- Wives cannot the house without the husband's permission
+- Wives cannot leave the house without the husband's permission
 - Total marital imprisonment
 
 - "Oh it is to protect women"

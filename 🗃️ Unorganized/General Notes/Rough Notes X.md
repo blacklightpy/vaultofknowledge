@@ -6,6 +6,21 @@
 - Tafsir (IK) (I guess Iddah for pre-pubescent women, and Jihad)
 - Something from Fiqh (varies by Madhhabs)
 
+- Husbands can hit their wives, so long as it's not on the face and if it doesn't leave marks
+- Women are the worst trial for men
+- Seeing women and donkeys disrupt prayer
+- Mohammed said one should pray for the good in your wives and for protection from the evil in her
+- A woman approaches and leaves like the devil, so if a woman tempts you, you should have sex with your wife
+
+- Women should not deny sex to their husbands, even on a camel saddle
+- Mohammed gave permission to beat women and said those who complain are not the best of women
+- A man should not be asked why he beats his wife
+- Wives should prostrate before their husbands
+
+- Women are like animals (from Tafsir of Quran by Al-Qurtubi)
+- If a woman commits open indecency, one can lock her up in a room and beat her (from The History of Al-Tabari)
+- Treat women well because they are like domestic animals and don't own anything (from The History of Al-Tabari)
+
 - Scholarly opinion based on how the hadith denies
 
 - An enlightened man killed a boy fearing that he might become an atheist in the future (from Quran)
@@ -21,7 +36,9 @@
 - He used the conflict between two clans to initiate a perpetual war between people
 
 - It is permitted to lie in war
-- 
+- War is deceit
+
+- Mohammed drank water from a dirty well and said water is pure
 
 - A slave woman should not dress like a free woman (Muwatta Malik) (also atheism-vs-islam page)
 - Slave women have no concept of Awrah

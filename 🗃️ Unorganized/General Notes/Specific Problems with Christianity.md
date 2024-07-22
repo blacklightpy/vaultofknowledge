@@ -967,7 +967,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- https://www.al-islam.org/muta-temporary-marriage-islamic-law-sachiko-murata/four-pillars-muta
 
 - Quran 4:117 (Surah An-Nisa)
-	- Hatred of female gods explicitly as idols
+	- Hatred of female gods explicitly as idols (MY BAD)
 
 - Instead of improving from history, these idiots follow it.
 
