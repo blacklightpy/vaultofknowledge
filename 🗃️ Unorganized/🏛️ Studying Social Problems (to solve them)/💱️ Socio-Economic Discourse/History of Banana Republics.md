@@ -54,7 +54,7 @@
 - Fruit companies get tax breaks and land grants, in exchange for which they built infrastructure
 - So basically the direct shareholders got high profits, while the rest of the population had to work in farms for terrible wages
 - So, capitalism works, by spreading the illusion that if you are smart, you can be as rich as you want by honest labour - with a little bit of dirty play - which is okay because everyone does that, and only fools are nice - and we all know nice guys finish last
-# USA's Usual State Terrorism
+# USA's Anti-Communist State Terrorism
 - After a decade, Cuyamel was bought by United Fruit, but Zemurray became the owner of United later
 - Vacarro Bros. was renamed as Standard Fruit
 - After WW II, in 1944, Guatamela had a democratic revolution
