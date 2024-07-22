@@ -25,7 +25,7 @@
 - Yajurveda (1100-800 BCE)
 - Atharvaveda (1000-800 BCE)
 
-The early Upanishads were composed over 900-300 BCE).
+The early Upanishads were composed over 900-300 BCE.
 ## Others
 - Brahma Sutra (500 BCE)
 - Mahabharata (900-400 BCE)
@@ -35,8 +35,8 @@ The early Upanishads were composed over 900-300 BCE).
 - Shiva Sutras (120 BCE)
 - Yoga Sutras of Patanjali (500-100 BCE)
 - Nyaya Sutras (200-100 BCE)
-- Vaiseṣika Sutra (200-100 BCE)
-- Samkhya Sutra
+- Vaiseshika Sutra (200-100 BCE)
+- Sankhya Sutra
 - Arthashastra (400-200 CE)
 - Puranas (250-1000 CE)
 - Abhinavabharati (950-1020 CE)
@@ -60,25 +60,28 @@ It is based on the teachings of Adi Shankara, who is the first Shankaracharya.
 
 His followers are Shankaracharyas. (Acharya means teacher, so Shankaracharya means teacher in the ways of Shankara)
 
-He set up four monasteries (called mathas or pithams) where realised men would teach.
+He set up four monasteries (called Mathas or Pithams) where realized men would teach.
 
 | Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                                     | Veda         | Sampradaya | Present Shankaracharya                                                                   |
 | ----------------- | --------- | -------------------------- | ------------------------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
-| Padmapada         | East      | Puri Govardhanmatha        | Pitham(?) 	 Prajnanam brahma (Consciousness is supreme being) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
-| Suresvara         | South     | Sringeri sarada Pitham     | Aham brahmasmi (I am the supreme being)                       | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
-| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tattvamasi (That thou art)                                    | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
-| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayamatmanam brahma (This Atman is supreme being)              | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
+| Padmapada         | East      | Puri Govardhanmatha        | Pitham(?) 	 Prajnanam Brahma (Consciousness is Supreme Being) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
+| Suresvara         | South     | Sringeri sarada Pitham     | Aham Brahmasmi (I am the Supreme Being)                       | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
+| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tattvamasi (That Thou Art)                                    | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
+| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayamatmanam Brahma (This Atman is Supreme Being)              | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
 
 # Verses
 Purusa Sukta:
 - Rig Veda 10.90.1
 # Books
 - Brahma Sutras
-- Samkhya Sutras
-- Mimamsa Sutras
-- Nyaya Sutras 
-- Vaiseṣika Sutra
+
+- Sankhya Sutras
 - Yoga Sutras
+- Nyaya Sutras 
+- Vaiseshika Sutra
+- Mimamsa Sutras
+- Vedanta Sutras
+
 - Pramana Sutras
 
 - Puranas
@@ -89,8 +92,8 @@ Purusa Sukta:
 - Tirumurai
 - Shiva Samhita
 
-Vedanta Sutras
-Grihya Sutras (Household Rites)
+- Kalpa Sutras
+	- Grihya Sutras (Household Rites)
 ## Prior to 200 BC
 - Manu Smriti (Laws of Manu)
 - Dharma Sutras (The Sacred Laws of The Aryas)
@@ -120,31 +123,31 @@ Grihya Sutras (Household Rites)
 - Songs of Kabir (By Tagore)
 - Yoga Vashisht or Heaven Found (Excerpts from Yoga Vashishta)
 ## Modern Books
-Relax with Yoga
-Great Systems of Yoga
-Old Deccan Days
-Ramakrishna, His Life and Sayings
-The Gospel of Ramakrishna
-Hindu Mythology, Vedic and Puranic
-How To Be A Yogi
-Twenty-two Goblins
-Indian Fairy Tales
-Indian Myth and Legend
-Karma-Yoga
-Hindu Mysticism
+- Relax with Yoga
+- Great Systems of Yoga
+- Old Deccan Days
+- Ramakrishna, His Life and Sayings
+- The Gospel of Ramakrishna
+- Hindu Mythology, Vedic and Puranic
+- How To Be A Yogi
+- Twenty-two Goblins
+- Indian Fairy Tales
+- Indian Myth and Legend
+- Karma-Yoga
+- Hindu Mysticism
 ### Writings of Sister Nivedita (Margaret E. Noble)
-Kali the Mother
-The Web of Indian Life
-Studies from an Eastern Home
+- Kali the Mother
+- The Web of Indian Life
+- Studies from an Eastern Home
 ### Writings of Rabindranath Tagore
-Gitanjali
-Saddhana, The Realisation of Life
-The Crescent Moon
-Fruit-Gathering
-Stray Birds
-The Home and the World
-Thought Relics
-Songs of Kabîr
+- Gitanjali
+- Saddhana, The Realisation of Life
+- The Crescent Moon
+- Fruit-Gathering
+- Stray Birds
+- The Home and the World
+- Thought Relics
+- Songs of Kabîr
 
 
 

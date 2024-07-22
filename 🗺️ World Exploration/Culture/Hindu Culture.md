@@ -51,14 +51,15 @@ Saguna - All good attributes
 - By Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship
 	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
 ## Hindu denominations / Sampradayas
-- Paramashiva Worship
-- Vishnu Worship
-- Adiparashakti Worship
-- Advaita Vedanta
+- Bhakti Traditions
+	- Paramashiva Worship
+	- Vishnu Worship
+	- Adiparashakti Worship
+	- Ganapati Worship
+	- Kartikeya Worship
+- Advaita Vedanta (No Worship)
 - Smartism (Advaita Vedanta + Bhakti tradition)
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
-- Ganapati Worship
-- Kartikeya Worship
 ## Scriptures
 - Srutis (eternal words)
 	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)
