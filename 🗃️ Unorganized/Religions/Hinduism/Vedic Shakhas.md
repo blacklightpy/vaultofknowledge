@@ -32,7 +32,7 @@ The White recensions have separate Brahmanas, while the Black ones have their (m
 - **Samhita**: Vajasneyi Samhita (Madhyandina) (VSM)
 	- Currently recited by all over North Indian Brahmins and by Deshastha Brahmins
 - **Brahmana**: Shatapatha Brahmana (Madhyandina) (SBM)
-- **Aranyaka**: Survives as Shatapatha XIV.1–8, with accents.
+- **Aranyaka**: Survives as Shatapatha XIV.1–8, with accents
 - **Upanishad**: Brihadaranyaka Upanishad (SBM XIV.3–8 with accents), Ishavasya Upanishad (VSM 40)
 - **Shrauta Sutra**: 
 - **Griha Sutra**: 
@@ -58,7 +58,7 @@ The White recensions have separate Brahmanas, while the Black ones have their (m
 - **Aranyaka**: Taittiriya Aranyaka
 - **Upanishad**: Taittiriya Upanishad
 - **Shrauta Sutra:** The Shrauta Sutras of Apastamba (450–350 BCE), Bodhayana (500–200 BCE), and Vaikhanasa (300–100 BCE).
-	- All are attached to the Taittiriya Samhita.
+	- All are attached to the Taittiriya Samhita
 - **Griha Sutra**: 
 #### Maitrayani Shakha
 - **Samhita**: Maitrayani Saṃhita
@@ -68,15 +68,15 @@ The White recensions have separate Brahmanas, while the Black ones have their (m
 - **Upanishad**: Maitrayaniya Upanishad
 - **Shrauta Sutra**: 
 - **Griha Sutra**: 
-#### Charaka-Katha / Kātha Shakha
-- **Samhita**: Charaka-Katha Saṃhita / Kāṭhaka saṃhitā
+#### Charaka-Kātha / Kātha Shakha
+- **Samhita**: Charaka-Kātha Saṃhita / Kāṭhaka saṃhitā
 - **Brahmana**: Śatādhyāya Brāhmaṇa (only exists in fragments)
 - **Aranyaka**: Kātha Aranyaka (almost the entire text from a solitary manuscript)
 - **Upanishad**: Kāthaka Upanishad, Kātha-Shiksha Upanishad
 - **Shrauta Sutra**: 
 - **Griha Sutra**: 
 #### Kapishthala Shakha
-- **Samhita**: Kapiṣṭhala-Kātha Saṃhita (fragmentary manuscript, a variant of Kāthaka Samhita, only first sections accented), edited (without accents) by Raghu Vira.
+- **Samhita**: Kapiṣṭhala-Kātha Saṃhita (fragmentary manuscript, a variant of Kāthaka Samhita, only first sections accented), edited (without accents) by Raghu Vira
 - **Brahmana**: 
 - **Aranyaka**: 
 - **Upanishad**: 
@@ -86,19 +86,19 @@ The White recensions have separate Brahmanas, while the Black ones have their (m
 ### Kauthuma Shakha
 - **Samhita**: Edited, Recited by all over North and in South India
 - **Brahmana**: Edited (8 Brahmanas in all), no accents
-- **Aranyaka**: None. The Samhita itself has the ‘Aranyaka’.
+- **Aranyaka**: None. The Samhita itself has the ‘Aranyaka’
 - **Upanishad**: Chandogya Upanishad
 - **Shrauta Sutra**: 
 - **Griha Sutra**: 
 ### Ranayaniya Shakha
 - **Samhita**: Manuscripts of Samhita exist. Recited by Gokarna, and Deshastha Brahmins
 - **Brahmana**: Same as Kauthuma with minor differences.
-- **Aranyaka**: None. The Samhita itself has the ‘Aranyaka’.
+- **Aranyaka**: None. The Samhita itself has the ‘Aranyaka’
 - **Upanishad**: Same as Kauthuma.
 - **Shrauta Sutra**: 
 - **Griha Sutra**: 
 ### Jaiminiya/Talavakara Shakha
-- **Samhita**: Samhita edited. Recited by Nambudiris and choliyal of Tamil nadu. Two distinct styles of Saman recitation, partially recorded and published.
+- **Samhita**: Samhita edited. Recited by Nambudiris and choliyal of Tamil nadu. Two distinct styles of Saman recitation, partially recorded and published
 - **Brahmana**: Brahmana published (without accents) – Jaiminiya Brahmana, Arsheya Brahmana
 - **Aranyaka**: Tamil Nadu version of Talavakara Aranyaka (=Jaiminiya Upanishad Brahmana) published
 - **Upanishad**: Kena Upanishad
@@ -117,7 +117,7 @@ Only one shakha of an original nine is now extant for the Atharvaveda. The nine 
 The Shaunaka is the only Shakha of the Atharvaveda for which both printed texts and an active oral tradition are known to still exist.
 ### Shaunaka Shakha
 - **Samhita**: Atharva Veda Shaunaka Samhita
-- **Brahmana**: Fragmentary Gopatha Brahmana (extant and published), no accents.
+- **Brahmana**: Fragmentary Gopatha Brahmana (extant and published), no accents
 - **Aranyaka**: 
 - **Upanishad**: Mundaka Upanishad (?) published.
 - **Shrauta Sutra**: 
@@ -127,6 +127,6 @@ The Shaunaka is the only Shakha of the Atharvaveda for which both printed texts 
 - **Samhita**: Atharva Veda Paippalada Samhitha
 - **Brahmana**: Lost, similar to that of Gopatha Brahmana
 - **Aranyaka**: 
-- **Upanishad**: Prashna Upanishad, Sharabha Upanishad etc. – all edited.
+- **Upanishad**: Prashna Upanishad, Sharabha Upanishad etc. – all edited
 - **Shrauta Sutra**: 
 - **Griha Sutra**: 

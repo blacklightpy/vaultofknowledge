@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -141,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kural",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
               }
             }
           },
@@ -225,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,19 +270,19 @@
   },
   "active": "83fda12487ac4a0c",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
