@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,15 +268,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0609db38870a64f9",
+  "active": "0b2468e55a9411a0",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",

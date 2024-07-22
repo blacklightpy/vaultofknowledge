@@ -17,6 +17,9 @@
 - A man should not be asked why he beats his wife
 - Wives should prostrate before their husbands
 
+- Celibacy is forbidden
+- Those who free a Muslim slave will be rewarded
+
 - Women are like animals (from Tafsir of Quran by Al-Qurtubi)
 - If a woman commits open indecency, one can lock her up in a room and beat her (from The History of Al-Tabari)
 - Treat women well because they are like domestic animals and don't own anything (from The History of Al-Tabari)
@@ -52,6 +55,12 @@ See 6:153 again (forgot)
 - Guarding private parts mean that men should guard theirs from entering women
 - Slave women do not have the right to guard their private parts, because that verse is for men
 - Women cannot have relations with her slaves, because that verse was for men
+
+- Killing anyone except those who spread mischief (which can include disbelief) is as if one's killed all of humanity (from Quran)
+
+- Children of slaves will be slaves of the master
+- One can sell their slaves, so they won't be freed even if the master dies
+- One can have children with slave women without marrying her
 
 - Mohammed said no repatriation shall be paid for her blood
 	- Slave Mother
