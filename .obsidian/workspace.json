@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,10 +254,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "83fda12487ac4a0c",
+  "active": "0b2468e55a9411a0",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Models of Reality.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Problems with Modern World.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Is Nature doing any calculations?.md",
@@ -275,8 +277,6 @@
     "🗺️ World Exploration/Fun and Activities/Slime/What is slime.md",
     "🗺️ World Exploration/Fun and Activities/Slime/Types of Slime.md",
     "🗺️ World Exploration/Fun and Activities/Slime/How to make slime.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
