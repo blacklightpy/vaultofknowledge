@@ -16,9 +16,12 @@
 
 - Slave women cannot be profited from by prostitution, but they can be shared among family members for sex
 
-- Mohammed broke the treaty
+- Mohammed broke the treaty by not returning Abu Basir
 - Mohammed stole the women
 - He used the conflict between two clans to initiate a perpetual war between people
+
+- It is permitted to lie in war
+- 
 
 - A slave woman should not dress like a free woman (Muwatta Malik) (also atheism-vs-islam page)
 - Slave women have no concept of Awrah
@@ -58,6 +61,20 @@ See 6:153 again (forgot)
 
 - Men could have 4 wives but women cannot have multiple husbands
 - Mohammed could have 11 wives
+- Others could not marry Mohammed's wives if he divorced them
+
+- He said he'll expel Jews and Christians from the Arabian peninsula
+- A woman's silence means yes
+
+- Jizya
+- Kill Polytheists
+
+- Allah will hide the sins of whoever hides the sins of other Muslims 
+- When his wives objected to his being with sex slaves, he revealed a verse making it lawful
+
+- He said pulling out after having sex with sex slaves is fine, so that they can be sold afterwards
+
+- Slaves could be freed to relieve sins (which means they would be like capital)
 
 - The slave woman who is the wife of slave can be taken by the husband(I think from the 4 pages I opened)
 

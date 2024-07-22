@@ -794,7 +794,7 @@ Things I want to cover
 
 - Other verses about alcohol:
 	- 2:219 (More evil than good)
-	- 5:90-91 (Alchol is from Satan)
+	- 5:90-91 (Alcohol is from Satan)
 	- 12:36
 	- 12:41
 	- Tafsir Ibn Kathir (IK) on 2:219-220 says the prohibition was gradual to convince them.
