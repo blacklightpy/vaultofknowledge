@@ -1,10 +1,10 @@
 In Hinduism, Sutras are aphorisms, and are regarded as Smritis.
 In Buddhism and Jainism, they are important scriptures.
 
-- Kalpa Sutras
-- Shrauta Sutras (Sutras based on Sruti, focusing on rituals)
-- Griha Sutras (Household Rites)
-- [[Dharma Sutras]] (Moral Code)
+- Kalpa Sutras (of the Kalpa Vedanga)
+	- Shrauta Sutras (Sutras based on Sruti, focusing on rituals)
+	- Griha Sutras (Household Rites)
+	- [[Dharma Sutras]] (Moral Code)
 # List of Vedic Sutras
 ## Rig Veda
   - Srauta Sutras

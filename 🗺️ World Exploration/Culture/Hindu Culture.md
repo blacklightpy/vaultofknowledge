@@ -33,7 +33,7 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 	- Festivals
 	- Other Concepts (idk what)
 	- Related
-- Gunas?
+- Gunas (Qualities)
 ---
 # Ideas
 Para Brahman is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
@@ -50,12 +50,12 @@ Saguna - All good attributes
 	- Para Brahman = Saguna Brahman (All good attributes)
 - By Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship
 	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
-## Hindu denominations / sampradayas
+## Hindu denominations / Sampradayas
 - Paramashiva Worship
 - Vishnu Worship
 - Adiparashakti Worship
 - Advaita Vedanta
-- Smartism (Advaita Vedanta + bhakti tradition)
+- Smartism (Advaita Vedanta + Bhakti tradition)
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 - Ganapati Worship
 - Kartikeya Worship

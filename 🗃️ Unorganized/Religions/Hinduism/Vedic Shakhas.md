@@ -10,7 +10,8 @@ In traditional Hindu society affiliation with a specific school is an important 
 
 A **Brahmana (Brahmin)** who changed school would be called **Shakharandah** ("a traitor to his śākhā").
 # List of Shakhas by Vedas
-I'm skipping Shrauta Sutras and Griha Sutras for now (except whenever I find it)
+I'm skipping Shrauta Sutras and Griha Sutras for now (except whenever I find it).
+EDIT: Actually, a full list is available in [[Sutras]].
 
 Note that several of the Shakhas have gone missing over the years.
 ## Rig Veda
