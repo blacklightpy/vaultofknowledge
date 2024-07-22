@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "583a709572241bb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b2468e55a9411a0",
             "type": "leaf",
             "state": {
@@ -91,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -226,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,14 +255,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "83fda12487ac4a0c",
+  "active": "0b2468e55a9411a0",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗺️ World Exploration/History/Geology/Timeline of Geological History.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/General Notes/Map of Folders.md",
@@ -291,11 +283,6 @@
     "🔮 World Building/Art of Creation/History of Creating.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/History of Banana Republics.md",
-    "🗃️ Unorganized/General Notes/History and GK I have to learn.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
