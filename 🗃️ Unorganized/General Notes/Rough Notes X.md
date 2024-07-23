@@ -17,6 +17,8 @@
 - A man should not be asked why he beats his wife
 - Wives should prostrate before their husbands
 
+- Don't take non-Muslims as allies
+
 - Celibacy is forbidden
 - Those who free a Muslim slave will be rewarded
 
