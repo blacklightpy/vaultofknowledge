@@ -18,7 +18,7 @@
 - Wives should prostrate before their husbands
 
 - Don't take non-Muslims as allies
-- 
+- Many insults towards non-Muslims
 
 - Celibacy is forbidden
 - Those who free a Muslim slave will be rewarded
@@ -84,6 +84,7 @@ See 6:153 again (forgot)
 
  - Burn the houses of those who skip prayers
  - Kill apostates
+ - Kill atheists by stoning, burning them is not okay
 
 - Women cannot divorce men
 - Men can divorce women 
