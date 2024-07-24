@@ -9,10 +9,10 @@ The texts include discussion of **ashrama** (stages of life), **varna** (social 
 # Texts
 The extant Dharma Shastra texts are listed below:
 
-- The **Manusmriti** ( 2nd to 3rd century CE) is the most studied and earliest metrical work of the Dharma Shastra textual tradition of Hinduism. The medieval era Buddhistic law of Myanmar and Thailand are also ascribed to Manu, and the text influenced past Hindu kingdoms in Cambodia and Indonesia.
-- The **Yājñavalkya Smṛti** (~4th to 5th-century CE) has been called the "best composed" and "most homogeneous" text of the Dharma Shastra tradition, with its superior vocabulary and level of sophistication. It may have been more influential than Manusmriti as a legal theory text.
-- The **Nāradasmṛti** (~5th to 6th-century CE) has been called the "juridical text par excellence" and represents the only Dharma Shastra text which deals solely with juridical matters and ignoring those of righteous conduct and penance.
-- The **Viṣṇusmṛti** (~7th-century CE) is one of the latest books of the Dharma Shastra tradition in Hinduism and also the only one which does not deal directly with the means of knowing dharma, focusing instead on the bhakti tradition.
+- The **Manu Smriti** ( 2nd to 3rd century CE) is the most studied and earliest metrical work of the Dharma Shastra textual tradition of Hinduism. The medieval era Buddhistic law of Myanmar and Thailand are also ascribed to Manu, and the text influenced past Hindu kingdoms in Cambodia and Indonesia.
+- The **Yājñavalkya Smriti** (~4th to 5th-century CE) has been called the "best composed" and "most homogeneous" text of the Dharma Shastra tradition, with its superior vocabulary and level of sophistication. It may have been more influential than Manusmriti as a legal theory text.
+- The **Nārada Smriti** (~5th to 6th-century CE) has been called the "juridical text par excellence" and represents the only Dharma Shastra text which deals solely with juridical matters and ignoring those of righteous conduct and penance.
+- The **Vishnu Smriti** (~7th-century CE) is one of the latest books of the Dharma Shastra tradition in Hinduism and also the only one which does not deal directly with the means of knowing Dharma, focusing instead on the Bhakti tradition.
 # British Influence
 Of the four extant Dharma Shastras, Manusmriti, Yajnavalkyasmriti and Naradasmriti are the most important surviving texts. But, states Robert Lingat, numerous other Dharma Shastras whose manuscripts are now missing, have enjoyed equal authority.
 
@@ -32,7 +32,7 @@ The Dharmasutra and Dharma Shastra texts, as they have survived into the modern 
 
 Robert Lingat adds that these texts suggest that "a rich literature on dharma already existed" before these were first composed. **These texts were revised and interpolated through their history because the various text manuscripts discovered in India are inconsistent with each other, and within themselves, raising concerns of their authenticity**.
 
-The Dharma Shastra texts present their ideas under various categories such as Acara, Vyavahara, Prayascitta and others, but they do so inconsistently. Some discuss Acara but do not discuss Vyavahara, as is the case with Parasara-Smriti for instance, while some solely discuss Vyavahara.
+The Dharma Shastra texts present their ideas under various categories such as Achara, Vyavahara, Prayaschitta and others, but they do so inconsistently. Some discuss Acara but do not discuss Vyavahara, as is the case with Parasara-Smriti for instance, while some solely discuss Vyavahara.
 ## Achara
 Achara (आचार) literally means "good behavior, custom". It refers to the normative behavior and practices of a community, conventions and behaviors that enable a society and various individuals therein to function.
 ## Vyavahara
