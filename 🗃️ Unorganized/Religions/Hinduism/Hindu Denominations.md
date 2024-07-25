@@ -35,8 +35,8 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
 			- Liberation is the natural goal of every Soul.
 		- Cause and Effect
-			- The Sankhya Darshana is based on Sat-Karya-Vada (Theory of Existent Effect)
-			- The effect is pre-existent in the cause
+			- The Sankhya Darshana is based on Sat-Karya-Vada (Theory of Existent Effects)
+			- The effect is pre-existent in the cause, so nothing new is ever created
 			- The effect seems distinct from the cause due to an illusion, or Maya
 			- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
 		- Cosmic Evolution
