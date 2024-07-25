@@ -52,6 +52,10 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 				- **Ahamkara** (Ego Sense): The second product of evolution. This is responsible for self-sence in living beings
 				- **Manas** (Instinctive Mind): It evolves from the Sattva aspect of Ahamkara
 				- ****
+- _Panch jnana indriya_ or five sense organs - also evolves from the _sattva_ aspect of _Ahamkara_.
+- _Panch karma indriya_ or five organs of action - The organs of action are hands, legs, vocal apparatus, urino-genital organ and anus. They too evolve from the _sattva_ aspect of _Ahamkara_
+- _Panch tanmatras_ or five subtle elements - evolves from the _Tamas_ aspect of _Ahamkara_. The subtle elements are the root energies of sound, touch, sight, taste and smell.
+- _Panch mahabhuta_ or five great substances - ether, air, fire, water and earth. This is the revealed aspect of the physical universe.
 	- **Glossary of Terms**
 		- Samsara (Bondage in the Cycle of Nature)
 		- Avidya (Ignorance)
