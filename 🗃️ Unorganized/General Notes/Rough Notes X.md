@@ -137,6 +137,12 @@ See 6:153 again (forgot)
 
 - Bells are the tools of Satan
 - Mohammed received revelations like the ringing of a bell
+
+
+# Lies that Muslims say
+- Killing a person is as though killing all humanity (covered in problem section)
+- Whoever hurts a Dhimmi hurts me
+
 # Terms
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
