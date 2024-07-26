@@ -44,6 +44,7 @@
 - Mohammed broke the treaty by not returning Abu Basir
 - Mohammed stole the women
 - He used the conflict between two clans to initiate a perpetual war between people
+	- At-Tirmidhi 871
 
 - It is permitted to lie in war
 - War is deceit
@@ -142,18 +143,6 @@ See 6:153 again (forgot)
 # Lies that Muslims say
 - Killing a person is as though killing all humanity (covered in problem section)
 - Whoever hurts a Dhimmi hurts me
-
-[](https://sunnah.com/tirmidhi:871)
-
-Zaid bin Uthai said:
-
-XI asked Ali: "What is it that you were sent with?" He said: "With four things: None will be admitted into Paradise except for the soul that is a Muslim. None is to perform Tawaf around the House while naked. The Muslims and the idolaters will not be gathering (in Makkah) together after this year. And for whomever there is a _**_covenant_**_ between him and the Prophet, then his _**_covenant_**_ is (valid) until its term, and for that in which there was no term, then it shall be four months."
-
-حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ زَيْدِ بْنِ أُثَيْعٍ، قَالَ سَأَلْتُ عَلِيًّا بِأَىِّ شَيْءٍ بُعِثْتَ قَالَ بِأَرْبَعٍ لاَ يَدْخُلُ الْجَنَّةَ إِلاَّ نَفْسٌ مُسْلِمَةٌ وَلاَ يَطُوفُ بِالْبَيْتِ عُرْيَانٌ وَلاَ يَجْتَمِعُ الْمُسْلِمُونَ وَالْمُشْرِكُونَ بَعْدَ عَامِهِمْ هَذَا وَمَنْ كَانَ بَيْنَهُ وَبَيْنَ النَّبِيِّ صلى الله عليه وسلم عَهْدٌ فَعَهْدُهُ إِلَى مُدَّتِهِ وَمَنْ لاَ مُدَّةَ لَهُ فَأَرْبَعَةُ أَشْهُرٍ ‏.‏ قَالَ وَفِي الْبَابِ عَنْ أَبِي هُرَيْرَةَ ‏.‏ قَالَ أَبُو عِيسَى حَدِيثُ عَلِيٍّ حَدِيثٌ حَسَنٌ ‏.‏
-
-|            |                        |     |     |
-| ---------- | ---------------------- | --- | --- |
-| **Grade**: | **Sahih** (Darussalam) |     |     |
 
 # Terms
 ## About Sects
