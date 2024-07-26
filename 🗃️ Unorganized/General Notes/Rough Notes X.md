@@ -143,6 +143,7 @@ See 6:153 again (forgot)
 # Lies that Muslims say
 - Killing a person is as though killing all humanity (covered in problem section)
 - Whoever hurts a Dhimmi hurts me
+- To me your way, 
 
 # Terms
 ## About Sects
