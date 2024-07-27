@@ -1,4 +1,4 @@
-1. FLAVORED SNACKS CHILLI
+## 1. FLAVORED SNACKS CHILLI
 
 **INGREDIENTS:**
 - Corn Grits
@@ -28,23 +28,23 @@
 ### Amount Per Serving
 **Calories**: **52**
 
-|                          |         | % Daily Value\* |
-| ------------------------ | ------- | --------------- |
-| **Total Fat**            | 2.9g    | 4.1%            |
-| >    Saturated Fat       | 1.3g    | 6.9%            |
-| >    Trans Fat           | 0.0 g   |                 |
-| >    Monounsaturated Fat | 0.6g    |                 |
-| >    Polyunsaturated Fat | 0.15    |                 |
-| **Cholesterol**          | 0.0mg   | 0%              |
-| **Sodium**               | 108.4mg | 5%              |
-| **Total Carbohydrate**   | 6g      | 2.3%            |
-| >    Dietary Fibre       | 0.15g   | 0.5%            |
-| >    Total Sugars        | 0.2g    | 0.46%           |
-| >        Added Sugar     | 0.0g    |                 |
-| **Protein**              | 0.6g    | 1.2%            |
+|                          |          | % Daily Value\* |
+| ------------------------ | -------- | --------------- |
+| **Total Fat**            | 2.9 g    | 4.1%            |
+| >    Saturated Fat       | 1.3 g    | 6.9%            |
+| >    Trans Fat           | 0.0 g    |                 |
+| >    Monounsaturated Fat | 0.6 g    |                 |
+| >    Polyunsaturated Fat | 0.15 g   |                 |
+| **Cholesterol**          | 0.0 mg   | 0%              |
+| **Sodium**               | 108.4 mg | 5%              |
+| **Total Carbohydrate**   | 6 g      | 2.3%            |
+| >    Dietary Fibre       | 0.15 g   | 0.5%            |
+| >    Total Sugars        | 0.2 g    | 0.46%           |
+| >        Added Sugar     | 0.0 g    |                 |
+| **Protein**              | 0.6 g    | 1.2%            |
 \*Percent Daily Values are based on a 2,000 calorie a diet.
 
-2. FLAVORED SNACKS CHEESE
+## 2. FLAVORED SNACKS CHEESE
 
 **INGREDIENTS:**
 - Com Grits
@@ -66,3 +66,25 @@
 	- Anti-Caking Agent (Silicon Dioxide)
 
 **Allergen Information:** Contains Milk and MSG, May contain traces of wheat gluten and nuts.
+
+**NUTRITION FACTS**
+- Servings per pack: 1
+- **Serving size: (10.5 g)**
+### Amount Per Serving
+**Calories**: **51.5**
+
+|                          |         | % Daily Value\* |
+| ------------------------ | ------- | --------------- |
+| **Total Fat**            | 2.9g    | 4.1%            |
+| >    Saturated Fat       | 1.4g    | 7.3%            |
+| >    Trans Fat           | 0.0 g   |                 |
+| >    Monounsaturated Fat | 0.6 g   |                 |
+| >    Polyunsaturated Fat | 0.15 g  |                 |
+| **Cholesterol**          | 0.0 mg  | 0%              |
+| **Sodium**               | 72.3 mg | 3.3%            |
+| **Total Carbohydrate**   | 5.8 g   | 2.2%            |
+| >    Dietary Fibre       | 0.07 g  | 0.27%           |
+| >    Total Sugars        | 0.3 g   | 0.6%            |
+| >        Added Sugar     | 0.0 g   |                 |
+| **Protein**              | 0.6 g   | 1.2%            |
+\*Percent Daily Values are based on a 2,000 calorie a diet.
