@@ -1,57 +1,68 @@
-FLAVORED SNACKS CHILLI
+1. FLAVORED SNACKS CHILLI
 
-INGREDIENTS: Corn Grits, Palm Olein Oil, Flavouring Preparations, Chilli Seasoning (Salt, Sugar, Maltodextrin, Skimmed Milk Powder, Rice Flour, Flavour Enhancers (Monosodium Glutamate, Disodium Inosinate), Acidity Regulator (Citric Acid), Natural and Nature-Identical Flavourings, Glucose Syrup, Anti-Caking Agent (Tricalcium Phosphate), Colouring Agent, Paprika Extract], 
+**INGREDIENTS:**
+- Corn Grits
+- Palm Olein Oil
+- Flavouring Preparations
+- Chilli Seasoning
+	- Salt
+	- Sugar
+	- Maltodextrin
+	- Skimmed Milk Powder
+	- Rice Flour
+	- Flavour Enhancers
+		- Monosodium Glutamate
+		- Disodium Inosinate
+	- Acidity Regulator (Citric Acid)
+	- Natural and Nature-Identical Flavourings
+	- Glucose Syrup
+	- Anti-Caking Agent (Tricalcium Phosphate)
+	- Colouring Agent
+	- Paprika Extract
 
-Allergen Information : Contains Milk and MSG, May contain traces of wheat gluten and nuts.
+**Allergen Information:** Contains Milk and MSG, May contain traces of wheat gluten and nuts.
 
-NUTRITION FACTS
+**NUTRITION FACTS**
+- Servings per pack: 1
+- **Serving size: (10.5 g)**
+### Amount Per Serving
+**Calories**: **52**
 
-Servings per pack: 1
-Serving size: (10.5 g)
+|                          |         | % Daily Value\* |
+| ------------------------ | ------- | --------------- |
+| **Total Fat**            | 2.9g    | 4.1%            |
+| >    Saturated Fat       | 1.3g    | 6.9%            |
+| >    Trans Fat           | 0.0 g   |                 |
+| >    Monounsaturated Fat | 0.6g    |                 |
+| >    Polyunsaturated Fat | 0.15    |                 |
+| **Cholesterol**          | 0.0mg   | 0%              |
+| **Sodium**               | 108.4mg | 5%              |
+| **Total Carbohydrate**   | 6g      | 2.3%            |
+| >    Dietary Fibre       | 0.15g   | 0.5%            |
+| >    Total Sugars        | 0.2g    | 0.46%           |
+| >        Added Sugar     | 0.0g    |                 |
+| **Protein**              | 0.6g    | 1.2%            |
+\*Percent Daily Values are based on a 2,000 calorie a diet.
 
-Amount Per Serving
+2. FLAVORED SNACKS CHEESE
 
-Calories: 52
+**INGREDIENTS:**
+- Com Grits
+- Palm Olein Oil
+- Nacho Cheese Seasoning
+	- Natural and Nature-Identical Flavours
+		- Dimethyl Sulfide
+		- Diacetyl
+		- Garlic Powder Onion Powder
+	- Lactose
+	- Salt
+	- Whey Powder
+	- Flavour Enhancer (Micnosodium Glutamate)
+	- Milk Powder
+	- Maltodextrin
+	- Milk Protein
+	- Hydrolyzed Vegetable Protein
+	- Antioxidant (Monosodium Phosphate)
+	- Anti-Caking Agent (Silicon Dioxide)
 
-
-Total Fat
-4.1%
-
-6.9%
-
-Toi fat 2.9 g
-
-Saturated Fat 1.3g
-
-Trans Fat 0.0 g
-
- 0.6 Monounsaturated Fat
-
-Polyunsaturated Fat 0.15
-
-Cholesterol 0.0mg
-
-Sodium 108.4 mg
-
-0%
-
-5%
-
-69 Total Carbohydrate
-
- 0.15 Dietary Fibre
-
-2.3%
-
-0.5%
-
-Total Sugars 0.2 g
-
-0.46%
-
-Added Sugar 0.09
-
-Protein 0.6 g
-1.2%
-
-*Percent Daily Values are based on a 2,000 calorie a diet.
+**Allergen Information:** Contains Milk and MSG, May contain traces of wheat gluten and nuts.
