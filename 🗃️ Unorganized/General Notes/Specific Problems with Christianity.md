@@ -1121,14 +1121,17 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Ash'ari
 
 **Invalid Schools of Theology / Aqidah (as per Sunni Scholars)**
-- Mu'utazila
+- Mu'tazilla (Leavers)
+	- They do not believe in Qadr, and only in Free Will
+	- They do not believe in God (Allah) having a face
+	- 
 - Jahami
 - Qadariyah
-- Kharijis
-- Raafidis (Twelver Shia)
+- Kharijis (Now Ibadis)
+- Raafidis (Twelver Shi'a)
 
 **Shi'a Schools of Theology / Aqidah**
-- Jafari
+- Jafari (Ithna Asharis / Twelver Shi'a)
 
 **Active Sunni Schools of Jurisprudence / Madhhabs**
 

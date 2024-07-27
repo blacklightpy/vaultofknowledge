@@ -141,7 +141,7 @@ See 6:153 again (forgot)
 
 
 # Lies that Muslims say
-- Killing a person is as though killing all humanity (covered in problem section)
+- Killing a person is as though killing all humanity (covered in problems section)
 	- Except for spreading mischief
 - Whoever hurts a Dhimmi hurts me
 - To me your way, to you yours
@@ -150,8 +150,9 @@ See 6:153 again (forgot)
 	- This was also a sign of disrespect
 	- Mohammed was tolerated as someone who claims to be a divine messenger, until he insulted their history
 
-- They only fought oppressors
-	- 
+- We only have to fight oppressors
+	- As per 9:5, the blood of disbelievers is lawful by default
+	- Exceptions: Fixed-term treaties, Strategic Ceasefires, Dhimmah, Mu'ustamin
 
 # Terms
 ## About Sects
