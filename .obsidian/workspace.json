@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Test Note X.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hcl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -201,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Test Note X.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Test Note X.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md"
               }
             }
           },
@@ -239,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Test Note X.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,8 +281,17 @@
   },
   "active": "85d0ec77d1fae667",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELUV.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 RGB Colour Space.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Colour Models.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/RGB Colour Model.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HSLuv.md",
     "🗃️ Unorganized/General Notes/Test Note X.md",
+    "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
@@ -299,15 +307,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Problems with Modern World.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Is Nature doing any calculations?.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why I don't believe in the judiciary system.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Ideas From My Dreams.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Klein Bottle.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Thinking About Knots.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Creating my own license.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Arguments against Religion 2.md",
-    "🗺️ World Exploration/Beauty and Fashion/Placeholder Note.md",
-    "🗺️ World Exploration/History/History.md",
-    "🗺️ World Exploration/History/Civilizations/Civilizations.md",
-    "🗺️ World Exploration/Fun and Activities/Martial Arts/Do Martial Arts Like Tai Chi Work.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
