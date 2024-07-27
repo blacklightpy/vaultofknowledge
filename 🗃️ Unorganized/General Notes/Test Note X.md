@@ -88,3 +88,12 @@
 | >        Added Sugar     | 0.0 g   |                 |
 | **Protein**              | 0.6 g   | 1.2%            |
 \*Percent Daily Values are based on a 2,000 calorie a diet.
+
+| Format | Light | Dark |
+| RGB Hex | F7DFB4 | EC9D1B |
+| HSL | hsl(39, 81%, 84%) | hsl(37, 85%, 52%)
+| HSLuv | hsl(63, 69%, 90%) | hsl(46, 97%, 71%)
+
+RGB Hex: F7DFB4 to F0B242
+HSL: hsl(39, 81%, 84%) to hsl(39, 85%, 60%)
+HSLuv: hsl(63, 69%, 90%) to hsl(54, 88%, 77%)

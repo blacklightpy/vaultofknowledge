@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
+                "file": "🗃️ Unorganized/General Notes/Test Note X.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
+                "file": "🗃️ Unorganized/General Notes/Test Note X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md"
+                "file": "🗃️ Unorganized/General Notes/Test Note X.md"
               }
             }
           },
@@ -238,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
+                "file": "🗃️ Unorganized/General Notes/Test Note X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,8 +282,8 @@
   },
   "active": "85d0ec77d1fae667",
   "lastOpenFiles": [
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELUV.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
