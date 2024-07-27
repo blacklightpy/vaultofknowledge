@@ -25,6 +25,7 @@
 - Marginalia
 - Searchmysite
 - Wiby (Hobbyist submitted pages)
+- Spyglass
 ## Decentralized
 - YaCY (based on Apache Solr, but with )
 - Infinity Decentralized
@@ -40,3 +41,4 @@
 - Filters
 	- Stract Search's Optics
 	- Brave Search's Googles
+	- Spyglass Search's Lenses
