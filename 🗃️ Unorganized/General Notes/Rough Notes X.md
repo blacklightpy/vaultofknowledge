@@ -157,6 +157,17 @@ See 6:153 again (forgot)
 - Acting according to weak Hadiths is fine
 - Weak Hadiths are often used in Da'wah
 
+- Muruna
+	- Start with: Quran 2:225, 3:28, 3:54, 8:30, 9:3, 10:21, 16:106, and 66:2
+	- Sahih Bukhari 3:45:687, 4:52:270, 4:52:271, 50:369, 52:269, and 84:64
+	- Ibn Ishaq/Hisham 803
+	- Ibn Ishaq 834, 837, 981
+	- and Tafsir Ibn Kathir, vol. 4 (Surat 7-10)
+	  
+	  These cover such topics as deceiving non-Muslims, faking friendship with non-Muslims, not keeping their word to non-Muslims, lying about their faith to non-Muslims, violating treaties with non-Muslims, tricking non-Muslims into letting their guard down and then slaughtering them, and the reputation early Muslims had for lying.
+	  
+	  **Fatawa Islamiyah** might also be a good resource. I haven't gone through those in a long time but try vols. 6 & 8.
+
 # Terms
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
