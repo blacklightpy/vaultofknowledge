@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Search Engines.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cie colour",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -200,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Search Engines.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Search Engines.md"
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md"
               }
             }
           },
@@ -238,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Search Engines.md",
+                "file": "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,10 +280,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "85d0ec77d1fae667",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1976 Uniform Colour Spaces.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Perception/Lightness.md",
+    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1976 Uniform Colour Spaces.md",
+    "🗃️ Unorganized/General Notes/Search Engines.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
     "🗃️ Unorganized/General Notes/Test Note X.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
@@ -306,7 +308,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Dharma Shastra.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Models of Reality.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Problems with Modern World.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
