@@ -142,12 +142,16 @@ See 6:153 again (forgot)
 
 # Lies that Muslims say
 - Killing a person is as though killing all humanity (covered in problem section)
+	- Except for spreading mischief
 - Whoever hurts a Dhimmi hurts me
 - To me your way, to you yours
 	- This was a Meccan verse
 	- This was a plea to leave the Muslims alone
 	- This was also a sign of disrespect
 	- Mohammed was tolerated as someone who claims to be a divine messenger, until he insulted their history
+
+- They only fought oppressors
+	- 
 
 # Terms
 ## About Sects
