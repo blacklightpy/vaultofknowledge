@@ -1116,15 +1116,15 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Uthman ibn Affan        | Rightly Guided | Rashidun  | 644-656 |
 | Ali ibn Talib           | Rightly Guided | Rashidun  | 656-661 |
 **Sunni Schools of Theology / Aqidah**
-- Maturdi
-- Athari
-- Ash'ari
+- Maturdi (A philosophical (not in a good way) group based on innovation (Bi'idah))
+- Athari (They believe in literal interpretation, like Hand of God)
+	- They do not like to think
+- Ash'ari (They believe in logic ('Aql) over tradition (Naql))
 
 **Invalid Schools of Theology / Aqidah (as per Sunni Scholars)**
 - Mu'tazilla (Leavers)
-	- They do not believe in Qadr, and only in Free Will
+	- They do not believe in Predestination (Qadr), and only in Free Will
 	- They do not believe in God (Allah) having a face
-	- 
 - Jahami
 - Qadariyah
 - Kharijis (Now Ibadis)
