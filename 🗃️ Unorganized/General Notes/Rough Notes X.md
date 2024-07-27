@@ -154,6 +154,9 @@ See 6:153 again (forgot)
 	- As per 9:5, the blood of disbelievers is lawful by default
 	- Exceptions: Fixed-term treaties, Strategic Ceasefires, Dhimmah, Mu'ustamin
 
+- Acting according to weak Hadiths is fine
+- Weak Hadiths are often used in Da'wah
+
 # Terms
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
