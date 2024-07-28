@@ -5,7 +5,7 @@
 - SkyHawk Recovery Project (SHRP)
 
 ## Backup Utilities
-- NANDroid Backup
+- NANDroid Backup (Only backups system and app data)
 	- e.g. TWRP Backup, OFRP Backup
 - Titanium Backup
 - Neo Backup
