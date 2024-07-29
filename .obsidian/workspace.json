@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Does creating something new always require two things.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -265,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7cd4673ecd5ddd8c",
+  "active": "68e699ed8958fecd",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
     "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
