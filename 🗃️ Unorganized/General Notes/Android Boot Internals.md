@@ -62,3 +62,5 @@ Semitic (Arabic) ->
 Examples in China: Obey The Law (Legalism), Philosophy (They way of Confucius), The Tao
 Other Examples: Law (Codex Hammurabi), Law of Religion (Halakha, Shari'ah, Sanatan Dharma), Swiss Civil Code
 I don't know much about how laws are made in democracies. I hear that India follows Sanatan Dharma. However, it is not my religion, so I do not know much about it.
+
+Part II Bro's case
