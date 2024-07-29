@@ -4,12 +4,13 @@
 ## Files
 - boot.img
 - recovery.img
+- system.img
 ## Partitions
 
 ## How to dump boot.img
 ## How to dump firmware
 ## How to unlock bootloader
-## How to bypass Encryption
+## How to bypass encryption
 - dm-verity
 - dm-verity-no-opt
 - RMM-Bypass
@@ -26,3 +27,11 @@
 ## How to backup app data (using ADB?)
 ## How to perform a system backup (NANDroid backup)
 ## How to backup app data (with root, using third-party apps)
+# OEM Stuff
+## General Recovery
+### Xiaomi MiAssistant (formerly Mi PC Suite)
+## Download Mode
+### Samsung Odin / Heimdall
+## Protection Mechanisms
+### Samsung KNOX
+# SoC Specific Tools
