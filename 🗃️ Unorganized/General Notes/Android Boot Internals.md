@@ -35,3 +35,23 @@
 ## Protection Mechanisms
 ### Samsung KNOX
 # SoC Specific Tools
+
+
+Why I cannot lie:
+
+I cannot place one foot forward unless capitalism is wiped off the face of the people of earth.
+
+But eradicating capitalism is not that easy. It will only be applicable to developed civilizations.
+As for underdeveloped societies, 
+
+I'm referencing the idea from the series Star Trek.
+
+
+But there
+Marx said that the labour relationships and means of production form the base of the society, while religion forms the superstructure.
+
+However, in my philosophy, feelings form the base of the society. From feelings, we create language. And from language, we build a civilization. And to set order to the civilization, we build religion.
+
+Examples in China: Obey The Law (Legalism), Philosophy (They way of Confucius), The Tao
+Other Examples: Law (Codex Hammurabi), Law of Religion (Halakha, Shari'ah, Sanatan (aharma), Swiss Civil Code
+I don't know much about how laws are made in democracies.
