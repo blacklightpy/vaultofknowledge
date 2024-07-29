@@ -52,10 +52,12 @@ Marx said that the labour relationships and means of production form the base of
 
 However, in my philosophy, feelings form the base of the society. From feelings, we create language. And from language, we build a civilization. And to set order to the civilization, we build religion. (Feelings -> Language -> Civilization -> Religion).
 
-Proto-Indo-European -> Indo-Iranian (Aryan) -> Avestan Gathas (Persia), Sanskrit Vedas (India)
-Proto-Indo-European -> Proto-Greek e.g. 
-Proto-Indo-European -> Proto-Italic -> Roman e.g. Jove Pater
+Proto-Indo-European -> Indo-Iranian (Aryan) -> Avestan Gathas (Persia), Sanskrit Vedas (India) e.g. Dyaus / Dyaus Pitr
+Proto-Indo-European -> Proto-Greek -> Greek (Greece) e.g. Zues / Zeus Pater
+Proto-Indo-European -> Proto-Italic -> Latin (Rome) e.g. Jove / Jove Pater (Jupiter)
 
+Semitic (Hebrew) -> 
+Semitic (Arabic) ->
 
 Examples in China: Obey The Law (Legalism), Philosophy (They way of Confucius), The Tao
 Other Examples: Law (Codex Hammurabi), Law of Religion (Halakha, Shari'ah, Sanatan Dharma), Swiss Civil Code
