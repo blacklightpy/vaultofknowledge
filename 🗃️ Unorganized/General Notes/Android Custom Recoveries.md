@@ -23,3 +23,5 @@
 - Titanium Backup
 - Neo Backup
 - Migrate (A custom ROM migration tool)
+### Tools to check
+- PartitionBackupper NO ROOT (Nandroid alternative): https://xdaforums.com/t/tool-no-root-partitionsbackupper-nandroid-alternative.4366055/

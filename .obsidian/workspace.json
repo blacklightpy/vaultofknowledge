@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,10 +293,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "68e699ed8958fecd",
+  "active": "85d0ec77d1fae667",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🗃️ Unorganized/General Notes/Android Bootup Process.md",
     "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
     "🗃️ Unorganized/General Notes/Seamless Updates.md",
