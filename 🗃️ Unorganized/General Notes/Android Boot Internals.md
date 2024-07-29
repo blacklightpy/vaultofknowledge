@@ -47,11 +47,16 @@ As for underdeveloped societies,
 I'm referencing the idea from the series Star Trek.
 
 
-But there
+But there is major difference between my philosophy and Marx's:
 Marx said that the labour relationships and means of production form the base of the society, while religion forms the superstructure.
 
-However, in my philosophy, feelings form the base of the society. From feelings, we create language. And from language, we build a civilization. And to set order to the civilization, we build religion.
+However, in my philosophy, feelings form the base of the society. From feelings, we create language. And from language, we build a civilization. And to set order to the civilization, we build religion. (Feelings -> Language -> Civilization -> Religion).
+
+Proto-Indo-European -> Indo-Iranian (Aryan) -> Avestan Gathas (Persia), Sanskrit Vedas (India)
+Proto-Indo-European -> Proto-Greek e.g. 
+Proto-Indo-European -> Proto-Italic -> Roman e.g. Jove Pater
+
 
 Examples in China: Obey The Law (Legalism), Philosophy (They way of Confucius), The Tao
-Other Examples: Law (Codex Hammurabi), Law of Religion (Halakha, Shari'ah, Sanatan (aharma), Swiss Civil Code
-I don't know much about how laws are made in democracies.
+Other Examples: Law (Codex Hammurabi), Law of Religion (Halakha, Shari'ah, Sanatan Dharma), Swiss Civil Code
+I don't know much about how laws are made in democracies. I hear that India follows Sanatan Dharma. However, it is not my religion, so I do not know much about it.
