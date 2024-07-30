@@ -1,10 +1,8 @@
 A religion is akin to a lock. It (primarily) secures your understanding of the world.
 
-Now, taking a religion from someone else blindly is like taking their lock.
-And in doing so, you leave your safety at their discretion, because they may have a loophole in it.
+Taking a religion from someone else blindly is like taking their lock. And in doing so, you leave your safety at their discretion, because they may have a loophole in it.
 
-Now, criticizing a lock is a good thing. A lock may have loopholes in it.
-But the point is, in the end, you have to choose the lock which you think is the most secure.
+Now, criticizing a lock is a good thing. A lock may have loopholes in it. But the point is, in the end, you have to choose the lock which you think is the most secure.
 Not a lock that someone tells you is more secure.
 
 After all, religion is for your security.
@@ -14,7 +12,8 @@ Exceptions:
 - Also, this is not an argument against missionary religions, it's just against the forced proselytization of religions.
 
 Special Exception (Morality):
-- Also, religion is not just about your security, it's also of the social moral framework. This is an argument in favor of proselytization. However, if the religions that are being proselytized are doing more harm than good, then it is not of any use. When the social moral framework is the concern, it is better for intelligent beings to stick to philosophy than dogma, especially when the dogmas limit rights in certain ways that is not in line with free thought.
+- Also, religion is not just about your security, it's also of the social moral framework. This is an argument in favor of proselytization.
+- However, if the religions that are being proselytized are doing more harm than good, then it is not of any use. When the social moral framework is the concern, it is better for intelligent beings to stick to philosophy than dogma, especially when the dogmas limit rights in certain ways that is not in line with free thought.
 - When philosophy fails to reach a consensus or a peaceful compromise, this condition is resolved by war. It's not really a solution, but it's the best our civilization has managed to find.
 
 Another analogy:
@@ -25,3 +24,4 @@ Another analogy:
 - The situation is simply described by the saying "religion is for everyone, but philosophy is not for everyone."
 
 #complete
+Post at font size: 30
