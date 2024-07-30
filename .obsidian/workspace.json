@@ -154,8 +154,13 @@
             "id": "f21252dbee1557fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -235,6 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +256,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md"
+              }
             }
           },
           {
@@ -270,6 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,6 +321,7 @@
   },
   "active": "f21252dbee1557fe",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Underwater Construction.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
@@ -337,7 +347,6 @@
     "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
