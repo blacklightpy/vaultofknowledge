@@ -97,13 +97,61 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- It sees the world as a manifestation of Brahman
 	- Types
 		- 6.1. Bheda-Abheda Vedanta (difference and non-difference)
-		- 6.2. Dvaitadvaita Vedanta
-		- 6.3. Advaita Vedanta
-		- 6.4. Vishishtadvaita Vedanta
-			- 6.4.1. Akshar-Purushottam
-		- 6.5. Dvaita Vedanta
-		- 6.6. Shuddhadvaita Vedanta
-		- 6.7. Achintya-Bheda-Abheda Vedanta
+			- 6.1.1. Dvaitadvaita Vedanta
+		- 6.2. Advaita Vedanta
+		- 6.3. Vishishtadvaita Vedanta
+			- 6.3.1. Akshar-Purushottam
+		- 6.4. Dvaita Vedanta
+		- 6.5. Shuddhadvaita Vedanta
+		- 6.6. Achintya-Bheda-Abheda Vedanta
+		- 6.7. Modern Vedanta
+
+- 6.1. Bheda Abheda Vedanta (Difference and Oneness)
+	- By Bhaskaracharya
+	- Individual self is both different and not different from Brahman
+	- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more
+	- 6.1.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Natural Difference and Oneness)
+		- By Nimbarkacharya
+		- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
+		- Both Oneness and Difference are equal characteristics
+- 6.2. Advaita Vedanta (Monistic)
+	- By Shankaracharya
+- 6.3. Vishishta Advaita Vedanta
+	- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
+	- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
+	- Ishvara is Para Brahman with Kalyana Gunas (good attributes), and Jiva and Jagat are its secondary attributes
+	- Chit is like Purusha in Sankya, and Achit is like Prakriti in Sankhya
+	- Brahman is both the cause (Karana) and effect (Karya); the universe is not separate
+	- Brahman has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
+	- Bhakti is the sole means of liberation
+	- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
+- 6.3.1. Akshar Purushottam Darshan (termed by BAPS) / Swaminarayan Sampradaya
+	- A version of Vishishta Advaita Vedanta, where Para Brahman is Krishna
+	- Para Brahman is thought to have manifested as Swaminarayana
+	- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
+	- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
+	- BAPS believe that Akshar is always present in Earth as a guru, and an ideal devotee, in whom Purushottam resides
+- 6.4. Dvaita / Tattvavada Vedanta (Dualistic)
+	- By Madhavacharya
+- 6.5. Shuddha Advaita Vedanta (Pure Oneness)
+	- By Vallabhacharya
+	- A Vaishnava tradition based on the worship of Krishna
+	- Maya is not an illusion, but is a power of Ishvara. Ishvara is the creator and the created.
+	- Bhakti is the path to realization, Jnana is also helpful; Karma precedes and follows realization
+	- Moksha is not the goal, service of Krishna is
+	- Everything is Krishna's Leela
+- 6.6. Achintya Bedha Abheda (Inconceivable Difference and Oneness)
+- 6.7. Modern Vedanta
+	- Personal Experience > Sruti
+
+
+
+Samkhya follows Prakriti-Parinama Vada while Vishishta Advaita follows Brahman-Parinama Vada for Sat-Karya Vada.
+
+
+Haituka (Sankhya, Yoga, Nyaya, Vaisheshika) (Hetu (Reason) > Scripture)
+Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
+
 # Heterodox
 - 1. Buddhism
 - 2. Jainism
