@@ -56,8 +56,9 @@ Proto-Indo-European -> Indo-Iranian (Aryan) -> Avestan Gathas (Persia), Sanskrit
 Proto-Indo-European -> Proto-Greek -> Greek (Greece) e.g. Zues / Zeus Pater
 Proto-Indo-European -> Proto-Italic -> Latin (Rome) e.g. Jove / Jove Pater (Jupiter)
 
-Semitic (Hebrew) -> 
-Semitic (Arabic) ->
+Another important phenomenon was that, the early Proto-Indo-European religion seemed to have originated with a contrasing daylight sky god (dweys phter) and a dark earth god (dhegom mehter) as his consort. From dweys, we got along
+
+Hebrew
 
 Examples in China: Obey The Law (Legalism), Philosophy (They way of Confucius), The Tao
 Other Examples: Law (Codex Hammurabi), Law of Religion (Halakha, Shari'ah, Sanatan Dharma), Swiss Civil Code
