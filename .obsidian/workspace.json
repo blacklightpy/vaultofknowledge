@@ -156,7 +156,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Civil Engineering/Underwater Construction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -210,8 +210,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Civil Engineering/Underwater Construction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Civil Engineering/Underwater Construction.md"
               }
             }
           },
@@ -278,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Underwater Construction.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Civil Engineering/Underwater Construction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,9 +318,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f21252dbee1557fe",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Underwater Construction.md",
+    "🔮 World Building/Science and Engineering/Engineering/Civil Engineering",
+    "🔮 World Building/Science and Engineering/Engineering/Civil Engineering/Underwater Construction.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
@@ -346,7 +346,6 @@
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HSLuv.md",
     "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
