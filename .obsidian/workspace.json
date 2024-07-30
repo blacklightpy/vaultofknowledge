@@ -149,22 +149,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a2b37f26550a36a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -240,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -278,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,10 +306,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a2b37f26550a36a7",
+  "active": "68e699ed8958fecd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🗃️ Unorganized/General Notes/Android Bootup Process.md",
@@ -346,7 +334,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "_images/Pasted image 20240628022104.png",
     "_images/Agile HW and SW planning.png",
     "_images/Antenna Gain.png",
