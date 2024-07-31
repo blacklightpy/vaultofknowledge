@@ -141,9 +141,11 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to unlock bootloader
 ## How to bypass encryption
 - dm-verity
-	- It's a Linux kernel feature to verify if a block device contains a specific hash.
+	- It's a Linux kernel security feature to verify if a block read from a block device contains a specific hash.
+	- dm stands for Device Mapper
+	- It uses a tree of SHA256 hashes to verify blocks as they are read from a block device to ensure that files have not changed between reboots or by unauthorized modifications.
 - no-verity-opt-encrypt
-	- It should only be flashed on devices that do not come with 
+	- It should only be flashed on devices that do not come with a vbmeta.img
 - RMM-Bypass
 - FRP
 - FDE/FBE Encryption
