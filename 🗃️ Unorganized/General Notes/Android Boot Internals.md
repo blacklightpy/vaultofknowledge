@@ -28,16 +28,22 @@
 | --------------- | --------------------------- | ------------------------------ |
 | /sd-ext         | Application Data (External) | Custom ROMs, with App2SD, etc. |
 ### About Storage Partition Mounts
+
+The storage partitions on Android are emulated using FUSE or SDCardFS before it can be accessed by the Java apps, Android services, or MTP. This is because the internal storage is usually of the ExFAT or F2FS filesystems, which may not be understood by MTP devices for example.
+
 - /sdcard 
 	- Before Android 4.0:
+		- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
 		- /sdcard (SYMLINK)
+			- **Symlink: Under /mnt/sdcard ==\[Internal Storage\]**
 			- /mnt/sdcard
 				- ...
+					- **Real Path: Under /data ==\[All Disks\]
 					- /data/media
 	- Android 4.0:
-		- **User Facing: Under /sdcard**
+		- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
 		- /sdcard (SYMLINK)
-			- **Bind Mount (?): Under /storage**
+			- **Symlink: Under /storage**
 			- /storage/sdcard0
 				- ...
 					- **Real Path: Under /data**
@@ -47,39 +53,41 @@
 			- SD Card: /mnt/sdcard1
 			- USB: /mnt/media_rw/usbdisk, /mnt/usbdisk, etc.
 	- Android 5.0
-		- **User Facing: Under /sdcard**
+		- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
 		- /sdcard (SYMLINK)
-			- **Bind Mount (?): Under /storage**
+			- **Symlink: Under /storage**
 			- /storage/emulated/legacy (SYMLINK)
-				- /mnt/shell/emulated/0 (SYMLINK)
+				- **Subfolder: Under /mnt/shell  ==\[Internal Storage\]==**
+				- /mnt/shell/emulated/0 (SUBFOLDER)
+					-  **SDCardFS Emulated Mount: Under /mnt/shell  ==\[All Disks\]
 					- mnt/shell/emulated (EMULATED)
-						- **Real Path: Under /data**
+						- **Real Path: Under /data ==\[All Disks\]==**
 						- /data/media (ROOT)
 	- Android 6.0
 		- 1. For (Java) Android apps (running inside Dalvik/ART VM) (VIEW = app specific)
 			- **NOTE**: "/storage to VIEW" bind mount is inside a separate mount namespace for every app
-			- **User Facing: Under /sdcard**
+			- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
 			- /sdcard (SYMLINK)
-				- **Bind Mount: Under /storage**
+				- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 				- /storage/self/primary (SUBFOLDER)
 				- /storage/self (BIND MOUNT)
-					- **Symlink: Under /mnt/user**
+					- **Symlink: Under /mnt/user ==\[All Disks (Probably)\]==**
 					- /mnt/user/USER-ID (PARENT FOLDER)
 					- /mnt/user/USER-ID/primary (SYMLINK)
-						- **Bind Mount: Under /storage**
+						- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 						- /storage/emulated/USER-ID (SUBFOLDER)
 						- /storage/emulated (BIND MOUNT)
-							- **SDCardFS Emulation: Under /mnt**
+							- **SDCardFS Emulated Mount: Under /mnt/runtime ==\[All Disks\]==**
 							- /mnt/runtime/VIEW/emulated (EMULATED)
-								- **Real Path: Under /data**
+								- **Real Path: Under /data ==\[All Disks\]==**
 								- /data/media (ROOT)
 		- 2. For Services/Daemons/Processes in Root/Global namespace (VIEW = default)
-			- **User Facing: Under /sdcard**
+			- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
 			- /sdcard (SYMLINK)
-				- **Bind Mount: Under /storage**
+				- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 				- /storage/self/primary (SUBFOLDER)
 				- /storage (BIND MOUNT)
-					- **Symlink: Under /mnt/runtime ==\[Probably All Disks\]==**
+					- **Symlink: Under /mnt/runtime ==\[All Disks (Probably)\]==**
 					- /mnt/runtime/default (PARENT FOLDER)
 					- /mnt/runtime/default/self/primary (SYMLINK)
 						- **Symlink: Under /mnt/user ==\[Internal Storage\]==**
@@ -87,9 +95,9 @@
 							- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 							- /storage/emulated/USER-ID (SUBFOLDER)
 							- /storage/emulated (BIND MOUNT)
-								- **SDCardFS Emulation: Under /mnt ==\[All Disks\]==**
+								- **SDCardFS Emulated Mount: Under /mnt/runtime ==\[All Disks\]==**
 								- /mnt/runtime/default/emulated (EMULATED)
-									- **Real Path: Under /data**
+									- **Real Path: Under /data ==\[All Disks\]==**
 									- /data/media (ROOT)
 ## General Data Points
 | Mount                  | Data                                                                       |
