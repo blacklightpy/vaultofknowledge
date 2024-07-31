@@ -9,18 +9,18 @@
 
 **General**
 
-| Partition Mount     | Partition Name                                                    |
-| ------------------- | ----------------------------------------------------------------- |
-| /system             | Android System                                                    |
-| /data               | Application Data                                                  |
-| /data/media/0       | Internal Storage                                                  |
-| /data/media/UUID    | External Storage                                                  |
-| /storage/emulated/0 | Internal Storage (User Facing Symlink to SDCardFS Emulated Mount) |
-| /storage/UUID       | External Storage (User Facing Symlink to SDCardFS Emulated Mount) |
-| /boot               | Boot                                                              |
-| /recovery           | Recovery                                                          |
-| /cache              | Cache                                                             |
-| /misc               | Miscellaneous                                                     |
+| Partition Mount     | Partition Name                                           |
+| ------------------- | -------------------------------------------------------- |
+| /system             | Android System                                           |
+| /data               | Application Data                                         |
+| /data/media/0       | Internal Storage                                         |
+| /data/media/UUID    | External Storage                                         |
+| /storage/emulated/0 | Internal Storage (User Facing Symlink to Emulated Mount) |
+| /storage/UUID       | External Storage (User Facing Symlink to Emulated Mount) |
+| /boot               | Boot                                                     |
+| /recovery           | Recovery                                                 |
+| /cache              | Cache                                                    |
+| /misc               | Miscellaneous                                            |
 
 **Custom OS Specific**
 
@@ -34,6 +34,9 @@ The storage partitions on Android are emulated using FUSE or SDCardFS before it 
 Emulation was also required because early devices were short on internal storage, and the External SD Card which they relied on would become unavailable when connected to PC as USB Mass Storage. The External SD Cards supported FAT to maintain compatibility with most desktop computers (due to Microsoft dominance). When the internal storage grew, Android shifted the use of External SD to Internal SD, along with the FAT/vFAT filesystem.
 
 A problem with USB Mass Storage was that, it would expose the device at the block level, and that would disconnect the storage from the device, removing many functionalities.
+
+-Emulation of storage was added in Android 3.0.
+-Emulation used to be based on SDCardFS, but as of Android 11, it was replaced with a FUSE filesystem leveraging several Linux kernel features to achieve the same functionality without certain drawbacks.
 
 
 > [!NOTE] Adoptive Storage
@@ -60,7 +63,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 				- ...
 					- **Real Path: Under /data**
 					- /data/media
-		- /mnt may have symlinks to /storage
+		- /mnt may still have symlinks to /storage
 			- Internal: /mnt/sdcard0
 			- SD Card: /mnt/sdcard1
 			- USB: /mnt/media_rw/usbdisk, /mnt/usbdisk, etc.
@@ -71,7 +74,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 			- /storage/emulated/legacy (SYMLINK)
 				- **Subfolder: Under /mnt/shell  ==\[Internal Storage\]==**
 				- /mnt/shell/emulated/0 (SUBFOLDER)
-					-  **SDCardFS Emulated Mount: Under /mnt/shell  ==\[All Disks\]
+					-  **Emulated Mount: Under /mnt/shell  ==\[All Disks\]
 					- mnt/shell/emulated (EMULATED)
 						- **Real Path: Under /data ==\[All Disks\]==**
 						- /data/media (ROOT)
@@ -80,17 +83,19 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 			- **NOTE**: "/storage to VIEW" bind mount is inside a separate mount namespace for every app
 			- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
 			- /sdcard (SYMLINK)
+				- **Subfolder: Under /mnt/user ==\[Internal Storage\]
 				- /storage/self/primary (SUBFOLDER)
-				- **Bind Mount: Under /storage ==\[Internal Storage\]==**
+				- **Bind Mount: Under /storage ==\All Disks (Probably)\]==**
 				- /storage/self (BIND MOUNT)
-					- **Subfolder: Under /mnt/user ==\[All Disks (Probably)\]==**
+					- **Parent Folder: Under /mnt/user ==\[All Disks (Probably\*)\]==**
 					- /mnt/user/USER-ID (PARENT FOLDER)
-					- **Symlink: Under /mnt/user**
+					- **Symlink: Under /mnt/user ==\[Internal Storage\]==**
 					- /mnt/user/USER-ID/primary (SYMLINK)
-						- **Bind Mount: Under /storage ==\[Internal Storage\]==**
+						- **Subfolder: Under /storage ==\[Internal Storage\]==**
 						- /storage/emulated/USER-ID (SUBFOLDER)
+						- **Bind Mount: Under /storage ==\[All Disks\]
 						- /storage/emulated (BIND MOUNT)
-							- **SDCardFS Emulated Mount: Under /mnt/runtime ==\[All Disks\]==**
+							- **Emulated Mount: Under /mnt/runtime ==\[All Disks\]==**
 							- /mnt/runtime/VIEW/emulated (EMULATED)
 								- **Real Path: Under /data ==\[All Disks\]==**
 								- /data/media (ROOT)
@@ -100,18 +105,22 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 				- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 				- /storage/self/primary (SUBFOLDER)
 				- /storage (BIND MOUNT)
-					- **Symlink: Under /mnt/runtime ==\[All Disks (Probably)\]==**
+					- **Symlink: Under /mnt/runtime ==\[All Disks (Probably\*)\]==**
 					- /mnt/runtime/default (PARENT FOLDER)
+					- **Symlink: Under /mnt/runtime ==\[Internal Storage\]==**
 					- /mnt/runtime/default/self/primary (SYMLINK)
 						- **Symlink: Under /mnt/user ==\[Internal Storage\]==**
 						- /mnt/user/USER-ID/primary (SYMLINK)
 							- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 							- /storage/emulated/USER-ID (SUBFOLDER)
+							- **Bind Mount: Under /storage ==\[All Disks\]==**
 							- /storage/emulated (BIND MOUNT)
-								- **SDCardFS Emulated Mount: Under /mnt/runtime ==\[All Disks\]==**
+								- **Emulated Mount: Under /mnt/runtime ==\[All Disks\]==**
 								- /mnt/runtime/default/emulated (EMULATED)
 									- **Real Path: Under /data ==\[All Disks\]==**
 									- /data/media (ROOT)
+
+\* Because /self/primary is a subfolder under both /storage and /mnt/runtime/default pointing to the internal storage.
 ## General Data Points
 | Mount                  | Data                                                                       |
 | ---------------------- | -------------------------------------------------------------------------- |
