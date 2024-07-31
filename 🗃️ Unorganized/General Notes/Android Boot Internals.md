@@ -9,33 +9,72 @@
 
 **General**
 
-| Partition Mount     | Partition Name   | Alternate Mounts              |
-| ------------------- | ---------------- | ----------------------------- |
-| /system             | Android System   |                               |
-| /data               | Application Data |                               |
-| /data/media/0       | Storage          | /storage/emulated/0 (Generic) |
-| /data/media         |                  |                               |
-| /storage/emulated/0 |                  |                               |
-| /storage/UUID       |                  | /sdcard/sd (Samsung)          |
-| /boot               |                  |                               |
-| /recovery           |                  |                               |
-| /cache              |                  |                               |
-
+| Partition Mount     | Partition Name   | Alternate Mounts              | Remarks                                    |
+| ------------------- | ---------------- | ----------------------------- | ------------------------------------------ |
+| /system             | Android System   |                               |                                            |
+| /data               | Application Data |                               |                                            |
+| /data/media/0       | Internal Storage | /storage/emulated/0 (Generic) |                                            |
+| /data/media/UUID    | External Storage |                               |                                            |
+| /storage/emulated/0 |                  |                               |                                            |
+| /storage/UUID       |                  | /sdcard/sd (Samsung)          |                                            |
+| /boot               | Boot             |                               | Contains Linux Kernel and Initial RAM Disk |
+| /recovery           | Recovery         |                               |                                            |
+| /cache              | Cache            |                               |                                            |
+| /misc               | Miscellaneous    |                               |                                            |
+### About Storage
 - /storage/emulated/legacy (Symlink to active user's storage space, probably deprecated in Android 6.0+)
 - /storage/emulated/0 (Active user's storage space)
 - /sdcard 
-	- Before Android 4.0: /mnt/sdcard
-	- Android 4.0 and above: /storage/sdcard0
+	- Before Android 4.0:
+		- /sdcard
+			- /mnt/sdcard
+	- Android 4.0 and above:
+		- /sdcard
+			- /storage/sdcard0
 		- /mnt may have symlinks to /storage
 			- Internal: /mnt/sdcard0
-			- External: /mnt/sdcard1
-			- OTG: /mnt/media_rw/usbdisk, /mnt/usbdisk, etc.
+			- SD Card: /mnt/sdcard1
+			- USB: /mnt/media_rw/usbdisk, /mnt/usbdisk, etc.
+
+- Android 5.0
+	- /sdcard (SYMLINK)
+		- /storage/emulated/legacy (SYMLINK)
+			- /mnt/shell/emulated/0 (SYMLINK)
+				- mnt/shell/emulated (EMULATED)
+					- /data/media (ROOT)
+- Android 6.0
+	- For (Java) Android apps (running inside Dalvik/ART VM)
+		- NOTE: "/storage to VIEW" bind mount is inside a separate mount namespace for every app
+		- /sdcard (SYMLINK)
+			- /storage/self/primary (SUBFOLDER)
+			- /storage/self (BIND MOUNT)
+				- /mnt/user/USER-ID
+					- /mnt/user/USER-ID/primary (SYMLINK)
+						- /storage/emulated/USER-ID (SUBFOLDER)
+						- /storage/emulated (BIND MOUNT)
+							- /mnt/runtime/VIEW/emulated (EMULATED)
+								- /data/media (ROOT)
+	- for services/daemons/processes in root/global namespace (VIEW = default)
+		- /sdcard >S> /storage/self/primary
+		- /storage >B> /mnt/runtime/default
+		- /mnt/runtime/default/self/primary >S> /mnt/user/USER-ID/primary
+		- /mnt/user/USER-ID/primary >S> /storage/emulated/USER-ID
+		- /storage/emulated >B> /mnt/runtime/default/emulated
+		- /mnt/runtime/default/emulated >E> /data/media
 
 **Custom OS**
 
 | Partition Mount | Partition Name              | Available in                   |
 | --------------- | --------------------------- | ------------------------------ |
 | /sd-ext         | Application Data (External) | Custom ROMs, with App2SD, etc. |
+## General Data Points
+| Mount            | Data                              |
+| ---------------- | --------------------------------- |
+| /boot            | Linux Kernel and Initial RAM Disk |
+| /data/data       | Application Data                  |
+| /data/media      | Media Cache?                      |
+| /data/media/0    | Internal Storage                  |
+| /data/media/UUID | SD Card                           |
 ## How to dump boot.img
 ## How to dump firmware
 ## How to unlock bootloader
