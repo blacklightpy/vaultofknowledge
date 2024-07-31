@@ -35,12 +35,16 @@ Emulation was also required because early devices were short on internal storage
 
 A problem with USB Mass Storage was that, it would expose the device at the block level, and that would disconnect the storage from the device, removing many functionalities.
 
--Emulation of storage was added in Android 3.0.
--Emulation used to be based on SDCardFS, but as of Android 11, it was replaced with a FUSE filesystem leveraging several Linux kernel features to achieve the same functionality without certain drawbacks.
+- Emulation of storage was added in Android 3.0.
+- Emulation used to be based on SDCardFS, but as of Android 11, it was replaced with a FUSE filesystem leveraging several Linux kernel features to achieve the same functionality without certain drawbacks.
+	- SDCardFS suffered from race conditions
+	- It requires additional patches to the VFS to keep up with changing bind mount options.
+	- Its functionality can now be replaced with upstream components.
+	- SDCardFS offers only direct storage access, and does not support scoped storage access added in Android 10.
 
 
 > [!NOTE] Adoptive Storage
-> From Android 6.0, Android supports the use of external SD cards to extend internal storage. This functionality is called Adoptive Storage. An SD card using adoptive storage is wiped initially, and can only be recognized in one device.
+> From Android 6.0, Android supports the use of external SD cards to extend internal storage. This functionality is called Adoptive Storage. An SD card using adoptive storage is wiped initially, formatted with EXT4 or F2FS and is encrypted.
 > 
 > It uses GPT instead of MBR like traditional storage, and hence, its storage capacity goes up to 9 ZB.
 > `/mnt/expand/[UUID]/media/0`
@@ -137,7 +141,9 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to unlock bootloader
 ## How to bypass encryption
 - dm-verity
-- dm-verity-no-opt
+	- It's a Linux kernel feature to verify if a block device contains a specific hash.
+- no-verity-opt-encrypt
+	- It should only be flashed on devices that do not come with 
 - RMM-Bypass
 - FRP
 - FDE/FBE Encryption
