@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evils in Software.md",
+                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evils in Software.md",
+                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evils in Software.md",
+                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evils in Software.md"
+                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md"
               }
             }
           },
@@ -200,7 +200,11 @@
   },
   "active": "9ff98a07a0107e79",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Evils in Software.md",
+    "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
+    "🗃️ Unorganized/General Notes/Firmware BLOBs.md",
+    "🗃️ Unorganized/General Notes/Nonfree Software.md",
+    "🗃️ Unorganized/General Notes/System Boot Restriction.md",
+    "🗃️ Unorganized/General Notes/Restricted Media.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/FOSS Software.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
@@ -222,10 +226,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Religions and Walled Gardens.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Isn't using technology built by atheists wrong for religious people.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why aren't LEDs used as transmitters.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse/Why Conservative Arguments are Loaded.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
