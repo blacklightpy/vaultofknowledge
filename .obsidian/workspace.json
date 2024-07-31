@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md",
+                "file": "🗃️ Unorganized/General Notes/Nonfree Software.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md",
+                "file": "🗃️ Unorganized/General Notes/Nonfree Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md",
+                "file": "🗃️ Unorganized/General Notes/Nonfree Software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/System Boot Restriction.md"
+                "file": "🗃️ Unorganized/General Notes/Nonfree Software.md"
               }
             }
           },
@@ -200,11 +200,13 @@
   },
   "active": "9ff98a07a0107e79",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
-    "🗃️ Unorganized/General Notes/Firmware BLOBs.md",
+    "🗃️ Unorganized/General Notes/Systems and Protocols.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
-    "🗃️ Unorganized/General Notes/System Boot Restriction.md",
+    "🗃️ Unorganized/General Notes/What is a codec.md",
+    "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/General Notes/Restricted Media.md",
+    "🗃️ Unorganized/General Notes/System Boot Restriction.md",
+    "🗃️ Unorganized/General Notes/Firmware BLOBs.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/FOSS Software.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
@@ -224,8 +226,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why I hate Indian Movies.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/So we are all different, but how do we deal with it.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Israel Palestine Megathread.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Why people join religions.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Religions and Walled Gardens.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",

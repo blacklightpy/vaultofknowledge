@@ -16,7 +16,7 @@
 		2. Raster Image Formats: JPEG (.jpeg, .jpg, .jiff), PNG, GIF, TIFF, AVIF, WebP, App-specific formats
 		3. Vector Image Formats: SVG, AI
 		4. Raw Image Formats: DNG, RAW
-		5. Video Codecs: H.120, H.261, MJPEG, DV, MJPEG 2000, ITU/MPEG (ITU H.262, ITU H.263/MPEG-4 Part 2, ITU H.264/AVC/MPEG-4 Part 10, ITU H.265/HEVC/MPEG-H Part 2, ITU H.266), VP3, Theora, VP8, VP9, DNxHD, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
+		5. Video Codecs: H.120, H.261, MJPEG, DV, MJPEG 2000, ITU-T/MPEG (ITU-T H.262, ITU-T H.263/MPEG-4 Part 2, ITU-T H.264/AVC/MPEG-4 Part 10, ITU-T H.265/HEVC/MPEG-H Part 2, ITU-T H.266), VP3, Theora, VP8, VP9, DNxHD, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
 			1. Basic Algorithms: DPCM, DCT, DWT
 		6. Video Containers: MPEG-4 (MP4/MPEG-4 Part 14), Matroska (MKV, WebM), 3GP, AVI
 		7. Subtitle Formats: ASS, SRT, AST
