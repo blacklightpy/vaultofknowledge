@@ -121,14 +121,11 @@
             }
           },
           {
-            "id": "c44d69e882960f23",
+            "id": "646a8b4c366caf49",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/bookmarks.json",
-                "staged": false
-              }
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -161,21 +158,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "646a8b4c366caf49",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,7 +183,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "3298e62d4c40f851",
   "lastOpenFiles": [
     "🤠 Personal/Ideas for business.md",
     "🗃️ Unorganized/General Notes/Obsidian Alternatives.md",

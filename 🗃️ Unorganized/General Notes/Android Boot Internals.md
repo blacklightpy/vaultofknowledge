@@ -6,8 +6,24 @@
 - recovery.img
 - system.img
 ## Partitions
-- 
 
+**General**
+
+| Partition Mount | Partition Name   | Alternate Mounts              |
+| --------------- | ---------------- | ----------------------------- |
+| /system         | Android System   |                               |
+| /data           | Application Data |                               |
+| /sdcard         | Internal Storage | /storage/emulated/0 (Generic) |
+|                 |                  |                               |
+| /storage/       |                  | /sdcard/sd (Samsung),         |
+| /boot           |                  |                               |
+| /recovery       |                  |                               |
+| /cache          |                  |                               |
+**Custom OS**
+
+| Partition Mount | Partition Name              | Available in                   |
+| --------------- | --------------------------- | ------------------------------ |
+| /sd-ext         | Application Data (External) | Custom ROMs, with App2SD, etc. |
 ## How to dump boot.img
 ## How to dump firmware
 ## How to unlock bootloader
