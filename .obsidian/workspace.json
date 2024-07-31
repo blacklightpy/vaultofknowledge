@@ -4,61 +4,240 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1f49d6b4705030",
+        "id": "43f54453ee308944",
         "type": "tabs",
         "children": [
           {
-            "id": "a1cc1594c6ca16fd",
+            "id": "131f2d4270ae58fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e5bb090bdc4e561",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d8f6ea7ad653df17",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9ceb588880a799ac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "280247d5cf002403",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a8b83ddae7546490",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "🗃️ Unorganized/General Notes/Force.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
+            }
+          },
+          {
+            "id": "b5f96b3798d64327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Philosophy/The importance of not knowing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc9f343d055c26c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "434fefd3dd8e3f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Tasks (from Jan 2023).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e016d39f0ebc1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d305d941f148699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Motors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86d7932e3d6d9bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Things I Learned.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "734802f49dcac240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🤠 Personal/Project Ideas/Designing a V8 Engine.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51bc6520dc4de19a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9fe828096d866ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bad5798e63b9ca02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe5bde9de45f075b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Philosophy/Smell.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "364be358f029c397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why abandon proprietary technology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd5020e2fadb6beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "865136b1dffed376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse/Why Conservative Arguments are Loaded.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8bcc6d8187c9e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why aren't LEDs used as transmitters.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7693aecaf05239b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Isn't using technology built by atheists wrong for religious people.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5799711121bbe8b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -104,11 +283,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -211,8 +392,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a8b83ddae7546490",
+  "active": "5799711121bbe8b6",
   "lastOpenFiles": [
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Isn't using technology built by atheists wrong for religious people.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why aren't LEDs used as transmitters.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/My Ideas on solving the Arab-Israel conflict.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse/Why Conservative Arguments are Loaded.md",
+    "🔮 World Building/Philosophy/Smell.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why abandon proprietary technology.md",
+    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
+    "🤠 Personal/Project Ideas/Designing a V8 Engine.md",
+    "🗃️ Unorganized/General Notes/Things I Learned.md",
+    "🗃️ Unorganized/General Notes/Motors.md",
+    "🗃️ Unorganized/General Notes/Untitled.md",
+    "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
+    "🗃️ Unorganized/General Notes/Tasks (from Jan 2023).md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Untitled.md",
+    "🗃️ Unorganized/General Notes/Untitled 1.md",
+    "🗃️ Unorganized/General Notes/Untitled 2.md",
+    "🔮 World Building/Philosophy/The importance of not knowing.md",
+    "🗃️ Unorganized/General Notes/Force.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
@@ -226,29 +427,9 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/Index of Studying Social Problems.md",
     "🗃️ Unorganized/Religions/The Story behind Padayani.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
-    "🗃️ Unorganized/Religions/Studying a Religion.md",
-    "🗃️ Unorganized/Religions/Sikhism.md",
-    "🗃️ Unorganized/Religions/Kabbalah.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism",
-    "🗃️ Unorganized/Religions/Christianity.md",
-    "🗃️ Unorganized/Religions/Buddhism.md",
-    "🗃️ Unorganized/General Notes/Yang-Mills Theory.md",
-    "🗃️ Unorganized/General Notes/Write Once, Read Many Media.md",
-    "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
-    "🗃️ Unorganized/General Notes/Women's Clothing.md",
-    "🗃️ Unorganized/General Notes/Wolfram Physics.md",
-    "🗃️ Unorganized/General Notes/Wireless Power.md",
-    "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
-    "🗃️ Unorganized/General Notes/Window Managers.md",
-    "🗃️ Unorganized/General Notes/Window Manager Showcase.md",
-    "🗃️ Unorganized/General Notes/Wikipedia.md",
-    "🗃️ Unorganized/General Notes/Widget Toolkits.md",
-    "🗃️ Unorganized/General Notes/Why there aren't many open source GPUs.md",
-    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)",
-    "🗃️ Unorganized/Religions",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/RISC V Core Comparison.avif",
     "_images/Pasted image 20240628022104.png",
