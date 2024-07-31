@@ -4,180 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "23033e7b1a74d49b",
+        "id": "1d1f49d6b4705030",
         "type": "tabs",
         "children": [
           {
-            "id": "daf154b5d6e24c1c",
+            "id": "a1cc1594c6ca16fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "cd19d31978b8cf05",
+            "id": "6e5bb090bdc4e561",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "0609db38870a64f9",
+            "id": "d8f6ea7ad653df17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "450601e49e6f9912",
+            "id": "9ceb588880a799ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "0b2468e55a9411a0",
+            "id": "280247d5cf002403",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "83fda12487ac4a0c",
+            "id": "a8b83ddae7546490",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "357959afc0a5d438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b13d0e6f0855ab84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Ibadi Muslims.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d0ec77d1fae667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68e699ed8958fecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cd4673ecd5ddd8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21252dbee1557fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Civil Engineering/Underwater Construction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c79e55f9c13340cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Argument Against Proselytizing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,7 +77,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -227,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -239,20 +119,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f70af76281fdc1e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "16ff280e8d0f3b88",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Argument Against Proselytizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,13 +135,33 @@
             }
           },
           {
+            "id": "d20ce981f3f0a6f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c44d69e882960f23",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/bookmarks.json",
+                "staged": false
+              }
+            }
+          },
+          {
             "id": "3298e62d4c40f851",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Argument Against Proselytizing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -285,19 +176,7 @@
             }
           },
           {
-            "id": "0819503eb662dc18",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Argument Against Proselytizing.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "cf916d9c53486e53",
+            "id": "7ab42dcc53840b27",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -308,11 +187,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 237.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -331,53 +211,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c79e55f9c13340cf",
+  "active": "a8b83ddae7546490",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Argument Against Proselytizing.md",
-    "🔮 World Building/Science and Engineering/Engineering/Civil Engineering/Underwater Construction.md",
-    "🔮 World Building/Science and Engineering/Engineering/Civil Engineering",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-    "🗃️ Unorganized/General Notes/Does creating something new always require two things.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
-    "🗃️ Unorganized/General Notes/Android Bootup Process.md",
-    "🗃️ Unorganized/General Notes/Seamless Updates.md",
-    "🗃️ Unorganized/General Notes/Android Customization.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Perception/Lightness.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1976 Uniform Colour Spaces.md",
-    "🗃️ Unorganized/General Notes/Search Engines.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HCL Colour Spaces.md",
-    "🗃️ Unorganized/General Notes/Test Note X.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/Cylindrical Colour Space Models.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELUV.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIELAB.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/RGB Colour Spaces.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/CIE 1931 RGB Colour Space.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/Colour Models.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Models/RGB Colour Model.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Spaces/HSLuv.md",
-    "🗃️ Unorganized/General Notes/Adjusting Monitor Brightness in Linux.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "_images/Pasted image 20240628022104.png",
-    "_images/Agile HW and SW planning.png",
-    "_images/Antenna Gain.png",
-    "_images/A misleading Pegasus infographic from Guardian.png",
-    "_images/5.1 Surround Sound System.png",
-    "_images/7.1 Surround Sound System.png",
-    "_images/9.2.2 Surround Sound System.png",
-    "_images/BigPicture for Jira.png",
-    "_images/Blue Green Deployment.png",
-    "_images/Canon D450 Quantum Efficiency.png",
-    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering",
-    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Astronautical Engineering",
-    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering",
-    "🔮 World Building/Waste Management",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/Trust, Love and Faith.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/My Philosophy of Religion.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy/Is war just part of who we are.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/Index of Studying Social Problems.md",
+    "🗃️ Unorganized/Religions/The Story behind Padayani.md",
+    "🗃️ Unorganized/Religions/The Hebrew Religion.md",
+    "🗃️ Unorganized/Religions/Studying a Religion.md",
+    "🗃️ Unorganized/Religions/Sikhism.md",
+    "🗃️ Unorganized/Religions/Kabbalah.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism",
+    "🗃️ Unorganized/Religions/Christianity.md",
+    "🗃️ Unorganized/Religions/Buddhism.md",
+    "🗃️ Unorganized/General Notes/Yang-Mills Theory.md",
+    "🗃️ Unorganized/General Notes/Write Once, Read Many Media.md",
+    "🗃️ Unorganized/General Notes/Working around the ath10k_pci PCI Express port AER errors in my laptop.md",
+    "🗃️ Unorganized/General Notes/Women's Clothing.md",
+    "🗃️ Unorganized/General Notes/Wolfram Physics.md",
+    "🗃️ Unorganized/General Notes/Wireless Power.md",
+    "🗃️ Unorganized/General Notes/Wine Compatibility Layer.md",
+    "🗃️ Unorganized/General Notes/Window Managers.md",
+    "🗃️ Unorganized/General Notes/Window Manager Showcase.md",
+    "🗃️ Unorganized/General Notes/Wikipedia.md",
+    "🗃️ Unorganized/General Notes/Widget Toolkits.md",
+    "🗃️ Unorganized/General Notes/Why there aren't many open source GPUs.md",
+    "🗃️ Unorganized/General Notes/Why the PANTONE Colour System is hard to replace in a capitalist world.md",
+    "🗃️ Unorganized/💭️ Developing My Own Philosophy",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)",
     "🗃️ Unorganized/Religions",
-    "🔮 World Building/Science and Engineering/Science Resources/Scientific Standards",
-    "🔮 World Building/Science and Engineering/Science Resources",
-    "🔮 World Building/Marketplace and Creations/Food"
+    "_images/Shamanistic Exorcism Ritual.png",
+    "_images/RISC V Core Comparison.avif",
+    "_images/Pasted image 20240628022104.png",
+    "_images/Muslim Ideas of Sex - in India 1.png",
+    "_images/Light penetration in water.png",
+    "_images/Knitting vs Crocheting.png",
+    "_images/Islam - Child Farming.png",
+    "_images/Frequency and Loudness Response of the Ear.png",
+    "_images/Frequency Areas of the Cochlea.png",
+    "_images/Force Graph.png"
   ]
 }
