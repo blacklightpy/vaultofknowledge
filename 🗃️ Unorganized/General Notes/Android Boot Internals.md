@@ -144,6 +144,9 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 	- It's a Linux kernel security feature to verify if a block read from a block device contains a specific hash.
 	- dm stands for Device Mapper
 	- It uses a tree of SHA256 hashes to verify blocks as they are read from a block device to ensure that files have not changed between reboots or by unauthorized modifications.
+- vbmeta.img
+	- Android Verified Boot makes use of dm-verity to prevent booting of unauthorized partitions
+	- VBMeta stands for Verified Boot Metadata, and it contains the hashes required for dm-verity
 - no-verity-opt-encrypt
 	- It should only be flashed on devices that do not come with a vbmeta.img
 - RMM-Bypass
