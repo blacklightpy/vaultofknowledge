@@ -9,16 +9,28 @@
 
 **General**
 
-| Partition Mount | Partition Name   | Alternate Mounts              |
-| --------------- | ---------------- | ----------------------------- |
-| /system         | Android System   |                               |
-| /data           | Application Data |                               |
-| /sdcard         | Internal Storage | /storage/emulated/0 (Generic) |
-|                 |                  |                               |
-| /storage/       |                  | /sdcard/sd (Samsung),         |
-| /boot           |                  |                               |
-| /recovery       |                  |                               |
-| /cache          |                  |                               |
+| Partition Mount     | Partition Name   | Alternate Mounts              |
+| ------------------- | ---------------- | ----------------------------- |
+| /system             | Android System   |                               |
+| /data               | Application Data |                               |
+| /data/media/0       | Storage          | /storage/emulated/0 (Generic) |
+| /data/media         |                  |                               |
+| /storage/emulated/0 |                  |                               |
+| /storage/UUID       |                  | /sdcard/sd (Samsung)          |
+| /boot               |                  |                               |
+| /recovery           |                  |                               |
+| /cache              |                  |                               |
+
+- /storage/emulated/legacy (Symlink to active user's storage space, probably deprecated in Android 6.0+)
+- /storage/emulated/0 (Active user's storage space)
+- /sdcard 
+	- Before Android 4.0: /mnt/sdcard
+	- Android 4.0 and above: /storage/sdcard0
+		- /mnt may have symlinks to /storage
+			- Internal: /mnt/sdcard0
+			- External: /mnt/sdcard1
+			- OTG: /mnt/media_rw/usbdisk, /mnt/usbdisk, etc.
+
 **Custom OS**
 
 | Partition Mount | Partition Name              | Available in                   |
