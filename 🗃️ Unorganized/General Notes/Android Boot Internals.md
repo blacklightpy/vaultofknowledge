@@ -9,19 +9,25 @@
 
 **General**
 
-| Partition Mount     | Partition Name   | Alternate Mounts              | Remarks                                    |
-| ------------------- | ---------------- | ----------------------------- | ------------------------------------------ |
-| /system             | Android System   |                               |                                            |
-| /data               | Application Data |                               |                                            |
-| /data/media/0       | Internal Storage | /storage/emulated/0 (Generic) |                                            |
-| /data/media/UUID    | External Storage |                               |                                            |
-| /storage/emulated/0 |                  |                               |                                            |
-| /storage/UUID       |                  | /sdcard/sd (Samsung)          |                                            |
-| /boot               | Boot             |                               | Contains Linux Kernel and Initial RAM Disk |
-| /recovery           | Recovery         |                               |                                            |
-| /cache              | Cache            |                               |                                            |
-| /misc               | Miscellaneous    |                               |                                            |
-### About Storage
+| Partition Mount     | Partition Name                                                    |
+| ------------------- | ----------------------------------------------------------------- |
+| /system             | Android System                                                    |
+| /data               | Application Data                                                  |
+| /data/media/0       | Internal Storage                                                  |
+| /data/media/UUID    | External Storage                                                  |
+| /storage/emulated/0 | Internal Storage (User Facing Symlink to SDCardFS Emulated Mount) |
+| /storage/UUID       | External Storage (User Facing Symlink to SDCardFS Emulated Mount) |
+| /boot               | Boot                                                              |
+| /recovery           | Recovery                                                          |
+| /cache              | Cache                                                             |
+| /misc               | Miscellaneous                                                     |
+
+**Custom OS Specific**
+
+| Partition Mount | Partition Name              | Available in                   |
+| --------------- | --------------------------- | ------------------------------ |
+| /sd-ext         | Application Data (External) | Custom ROMs, with App2SD, etc. |
+### About Storage Partition Mounts
 - /sdcard 
 	- Before Android 4.0:
 		- /sdcard (SYMLINK)
@@ -29,69 +35,73 @@
 				- ...
 					- /data/media
 	- Android 4.0:
+		- **User Facing: Under /sdcard**
 		- /sdcard (SYMLINK)
+			- **Bind Mount (?): Under /storage**
 			- /storage/sdcard0
 				- ...
+					- **Real Path: Under /data**
 					- /data/media
 		- /mnt may have symlinks to /storage
 			- Internal: /mnt/sdcard0
 			- SD Card: /mnt/sdcard1
 			- USB: /mnt/media_rw/usbdisk, /mnt/usbdisk, etc.
 	- Android 5.0
+		- **User Facing: Under /sdcard**
 		- /sdcard (SYMLINK)
+			- **Bind Mount (?): Under /storage**
 			- /storage/emulated/legacy (SYMLINK)
 				- /mnt/shell/emulated/0 (SYMLINK)
 					- mnt/shell/emulated (EMULATED)
+						- **Real Path: Under /data**
 						- /data/media (ROOT)
 	- Android 6.0
 		- 1. For (Java) Android apps (running inside Dalvik/ART VM) (VIEW = app specific)
 			- **NOTE**: "/storage to VIEW" bind mount is inside a separate mount namespace for every app
-			- **User Facing**
+			- **User Facing: Under /sdcard**
 			- /sdcard (SYMLINK)
-				- **/storage**
+				- **Bind Mount: Under /storage**
 				- /storage/self/primary (SUBFOLDER)
 				- /storage/self (BIND MOUNT)
-					- **/mnt/user**
+					- **Symlink: Under /mnt/user**
 					- /mnt/user/USER-ID (PARENT FOLDER)
 					- /mnt/user/USER-ID/primary (SYMLINK)
-						- **/storage (Bind Mount)**
+						- **Bind Mount: Under /storage**
 						- /storage/emulated/USER-ID (SUBFOLDER)
 						- /storage/emulated (BIND MOUNT)
-							- **/mnt (Emulated FS)**
+							- **SDCardFS Emulation: Under /mnt**
 							- /mnt/runtime/VIEW/emulated (EMULATED)
-								- **/data/media (Real Path)**
+								- **Real Path: Under /data**
 								- /data/media (ROOT)
 		- 2. For Services/Daemons/Processes in Root/Global namespace (VIEW = default)
-			- 
+			- **User Facing: Under /sdcard**
 			- /sdcard (SYMLINK)
-				- 
+				- **Bind Mount: Under /storage**
 				- /storage/self/primary (SUBFOLDER)
 				- /storage (BIND MOUNT)
-					- 
+					- **Symlink: Under /mnt/runtime ==\[Probably All Disks\]==**
 					- /mnt/runtime/default (PARENT FOLDER)
 					- /mnt/runtime/default/self/primary (SYMLINK)
+						- **Symlink: Under /mnt/user ==\[Internal Storage\]==**
 						- /mnt/user/USER-ID/primary (SYMLINK)
+							- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 							- /storage/emulated/USER-ID (SUBFOLDER)
 							- /storage/emulated (BIND MOUNT)
+								- **SDCardFS Emulation: Under /mnt ==\[All Disks\]==**
 								- /mnt/runtime/default/emulated (EMULATED)
+									- **Real Path: Under /data**
 									- /data/media (ROOT)
-
-**Custom OS**
-
-| Partition Mount | Partition Name              | Available in                   |
-| --------------- | --------------------------- | ------------------------------ |
-| /sd-ext         | Application Data (External) | Custom ROMs, with App2SD, etc. |
-|                 |                             |                                |
 ## General Data Points
-| Mount             | Data                                          |
-| ----------------- | --------------------------------------------- |
-| /boot             | Linux Kernel and Initial RAM Disk             |
-| /data/data        | Application Data                              |
-| /data/media       | Media Data                                    |
-| /data/media/0     | Internal Storage                              |
-| /data/media/UUID  | SD Card                                       |
-| /storage/emulated | Bind Mount to SDCardFS Emulated Storage Space |
-| /storage          |                                               |
+| Mount                  | Data                                                                       |
+| ---------------------- | -------------------------------------------------------------------------- |
+| /boot                  | Linux Kernel and Initial RAM Disk                                          |
+| /system                | Main ROM Files                                                             |
+| /data/data             | Application Data                                                           |
+| /data/media            | Media Data                                                                 |
+| /data/media/0          | Internal Storage                                                           |
+| /data/media/UUID       | SD Card                                                                    |
+| /storage/emulated      | User Facing Symlink to a Bind Mount of the SDCardFS Emulated Storage Space |
+| /storage/emulated/UUID | User Facing Symlink to a Bind Mount of the SDCardFS Emulated Storage Space |
 ## How to dump boot.img
 ## How to dump firmware
 ## How to unlock bootloader
