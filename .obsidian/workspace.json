@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcedb6857ca632eb",
+            "id": "b3735f01bdee680a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,9 +168,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dcedb6857ca632eb",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Missing Courses.md",
+    "Test.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
+    "🗃️ Unorganized/General Notes/Framework for Destroying Capitalism.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Defining Religion.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Gender Inclusivity in Languages.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Why capitalism is harmful to society.md",
@@ -194,9 +196,6 @@
     "🗃️ Unorganized/General Notes/Things I Learned.md",
     "🗃️ Unorganized/General Notes/Motors.md",
     "🗃️ Unorganized/General Notes/Untitled.md",
-    "🗃️ Unorganized/General Notes/Methods in Fluid Dynamics.md",
-    "🗃️ Unorganized/General Notes/Tasks (from Jan 2023).md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Untitled.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
