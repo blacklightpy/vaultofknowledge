@@ -22,59 +22,76 @@
 | /cache              | Cache            |                               |                                            |
 | /misc               | Miscellaneous    |                               |                                            |
 ### About Storage
-- /storage/emulated/legacy (Symlink to active user's storage space, probably deprecated in Android 6.0+)
-- /storage/emulated/0 (Active user's storage space)
 - /sdcard 
 	- Before Android 4.0:
-		- /sdcard
+		- /sdcard (SYMLINK)
 			- /mnt/sdcard
-	- Android 4.0 and above:
-		- /sdcard
+				- ...
+					- /data/media
+	- Android 4.0:
+		- /sdcard (SYMLINK)
 			- /storage/sdcard0
+				- ...
+					- /data/media
 		- /mnt may have symlinks to /storage
 			- Internal: /mnt/sdcard0
 			- SD Card: /mnt/sdcard1
 			- USB: /mnt/media_rw/usbdisk, /mnt/usbdisk, etc.
-
-- Android 5.0
-	- /sdcard (SYMLINK)
-		- /storage/emulated/legacy (SYMLINK)
-			- /mnt/shell/emulated/0 (SYMLINK)
-				- mnt/shell/emulated (EMULATED)
-					- /data/media (ROOT)
-- Android 6.0
-	- For (Java) Android apps (running inside Dalvik/ART VM)
-		- NOTE: "/storage to VIEW" bind mount is inside a separate mount namespace for every app
+	- Android 5.0
 		- /sdcard (SYMLINK)
-			- /storage/self/primary (SUBFOLDER)
-			- /storage/self (BIND MOUNT)
-				- /mnt/user/USER-ID
+			- /storage/emulated/legacy (SYMLINK)
+				- /mnt/shell/emulated/0 (SYMLINK)
+					- mnt/shell/emulated (EMULATED)
+						- /data/media (ROOT)
+	- Android 6.0
+		- 1. For (Java) Android apps (running inside Dalvik/ART VM) (VIEW = app specific)
+			- **NOTE**: "/storage to VIEW" bind mount is inside a separate mount namespace for every app
+			- **User Facing**
+			- /sdcard (SYMLINK)
+				- **/storage**
+				- /storage/self/primary (SUBFOLDER)
+				- /storage/self (BIND MOUNT)
+					- **/mnt/user**
+					- /mnt/user/USER-ID (PARENT FOLDER)
 					- /mnt/user/USER-ID/primary (SYMLINK)
+						- **/storage (Bind Mount)**
 						- /storage/emulated/USER-ID (SUBFOLDER)
 						- /storage/emulated (BIND MOUNT)
+							- **/mnt (Emulated FS)**
 							- /mnt/runtime/VIEW/emulated (EMULATED)
+								- **/data/media (Real Path)**
 								- /data/media (ROOT)
-	- for services/daemons/processes in root/global namespace (VIEW = default)
-		- /sdcard >S> /storage/self/primary
-		- /storage >B> /mnt/runtime/default
-		- /mnt/runtime/default/self/primary >S> /mnt/user/USER-ID/primary
-		- /mnt/user/USER-ID/primary >S> /storage/emulated/USER-ID
-		- /storage/emulated >B> /mnt/runtime/default/emulated
-		- /mnt/runtime/default/emulated >E> /data/media
+		- 2. For Services/Daemons/Processes in Root/Global namespace (VIEW = default)
+			- 
+			- /sdcard (SYMLINK)
+				- 
+				- /storage/self/primary (SUBFOLDER)
+				- /storage (BIND MOUNT)
+					- 
+					- /mnt/runtime/default (PARENT FOLDER)
+					- /mnt/runtime/default/self/primary (SYMLINK)
+						- /mnt/user/USER-ID/primary (SYMLINK)
+							- /storage/emulated/USER-ID (SUBFOLDER)
+							- /storage/emulated (BIND MOUNT)
+								- /mnt/runtime/default/emulated (EMULATED)
+									- /data/media (ROOT)
 
 **Custom OS**
 
 | Partition Mount | Partition Name              | Available in                   |
 | --------------- | --------------------------- | ------------------------------ |
 | /sd-ext         | Application Data (External) | Custom ROMs, with App2SD, etc. |
+|                 |                             |                                |
 ## General Data Points
-| Mount            | Data                              |
-| ---------------- | --------------------------------- |
-| /boot            | Linux Kernel and Initial RAM Disk |
-| /data/data       | Application Data                  |
-| /data/media      | Media Cache?                      |
-| /data/media/0    | Internal Storage                  |
-| /data/media/UUID | SD Card                           |
+| Mount             | Data                                          |
+| ----------------- | --------------------------------------------- |
+| /boot             | Linux Kernel and Initial RAM Disk             |
+| /data/data        | Application Data                              |
+| /data/media       | Media Data                                    |
+| /data/media/0     | Internal Storage                              |
+| /data/media/UUID  | SD Card                                       |
+| /storage/emulated | Bind Mount to SDCardFS Emulated Storage Space |
+| /storage          |                                               |
 ## How to dump boot.img
 ## How to dump firmware
 ## How to unlock bootloader
