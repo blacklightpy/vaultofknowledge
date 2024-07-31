@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3735f01bdee680a",
+            "id": "685ca42e2cba4a92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +104,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3298e62d4c40f851",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -111,14 +129,6 @@
                 "file": ".obsidian/bookmarks.json",
                 "staged": false
               }
-            }
-          },
-          {
-            "id": "3298e62d4c40f851",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           },
           {
@@ -143,14 +153,29 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "b399ea35e328834f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "646a8b4c366caf49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +193,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
+    "🤠 Personal/Ideas for business.md",
+    "🗃️ Unorganized/General Notes/Obsidian Alternatives.md",
+    "🤠 Personal/Toolkits/Note Taking Tools.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
     "Test.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Arguments against religion.md",
@@ -193,9 +221,6 @@
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Standard Model/Quantum Chromodynamics.md",
     "🤠 Personal/Project Ideas/Designing a V8 Engine.md",
-    "🗃️ Unorganized/General Notes/Things I Learned.md",
-    "🗃️ Unorganized/General Notes/Motors.md",
-    "🗃️ Unorganized/General Notes/Untitled.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",

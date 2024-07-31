@@ -6,6 +6,7 @@
 - recovery.img
 - system.img
 ## Partitions
+- 
 
 ## How to dump boot.img
 ## How to dump firmware
