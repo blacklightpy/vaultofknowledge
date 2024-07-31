@@ -31,6 +31,18 @@
 
 The storage partitions on Android are emulated using FUSE or SDCardFS before it can be accessed by the Java apps, Android services, or MTP. This is because the internal storage is usually of the ExFAT or F2FS filesystems, which may not be understood by MTP devices for example.
 
+Emulation was also required because early devices were short on internal storage, and the External SD Card which they relied on would become unavailable when connected to PC as USB Mass Storage. The External SD Cards supported FAT to maintain compatibility with most desktop computers (due to Microsoft dominance). When the internal storage grew, Android shifted the use of External SD to Internal SD, along with the FAT/vFAT filesystem.
+
+A problem with USB Mass Storage was that, it would expose the device at the block level, and that would disconnect the storage from the device, removing many functionalities.
+
+
+> [!NOTE] Adoptive Storage
+> From Android 6.0, Android supports the use of external SD cards to extend internal storage. This functionality is called Adoptive Storage. An SD card using adoptive storage is wiped initially, and can only be recognized in one device.
+> 
+> It uses GPT instead of MBR like traditional storage, and hence, its storage capacity goes up to 9 ZB.
+> `/mnt/expand/[UUID]/media/0`
+
+
 - /sdcard 
 	- Before Android 4.0:
 		- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
@@ -64,15 +76,16 @@ The storage partitions on Android are emulated using FUSE or SDCardFS before it 
 						- **Real Path: Under /data ==\[All Disks\]==**
 						- /data/media (ROOT)
 	- Android 6.0
-		- 1. For (Java) Android apps (running inside Dalvik/ART VM) (VIEW = app specific)
+		- 1. For (Java) Android apps (running inside Dalvik/ART VM) (VIEW = read/write)
 			- **NOTE**: "/storage to VIEW" bind mount is inside a separate mount namespace for every app
 			- **User Facing Symlink: Under /sdcard ==\[Internal Storage\]==**
 			- /sdcard (SYMLINK)
-				- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 				- /storage/self/primary (SUBFOLDER)
+				- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 				- /storage/self (BIND MOUNT)
-					- **Symlink: Under /mnt/user ==\[All Disks (Probably)\]==**
+					- **Subfolder: Under /mnt/user ==\[All Disks (Probably)\]==**
 					- /mnt/user/USER-ID (PARENT FOLDER)
+					- **Symlink: Under /mnt/user**
 					- /mnt/user/USER-ID/primary (SYMLINK)
 						- **Bind Mount: Under /storage ==\[Internal Storage\]==**
 						- /storage/emulated/USER-ID (SUBFOLDER)
