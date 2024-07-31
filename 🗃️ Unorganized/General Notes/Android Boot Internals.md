@@ -144,11 +144,21 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 	- It's a Linux kernel security feature to verify if a block read from a block device contains a specific hash.
 	- dm stands for Device Mapper
 	- It uses a tree of SHA256 hashes to verify blocks as they are read from a block device to ensure that files have not changed between reboots or by unauthorized modifications.
+	- DM-Verity by itself does not encrypt, and it only shows a warning
 - vbmeta.img
 	- Android Verified Boot makes use of dm-verity to prevent booting of unauthorized partitions
 	- VBMeta stands for Verified Boot Metadata, and it contains the hashes required for dm-verity
-- no-verity-opt-encrypt
-	- It should only be flashed on devices that do not come with a vbmeta.img
+	- Older Android versions store dm-verity data in boot.img
+- Disable Verity ZIPs
+	- It only have to be flashed on devices that do not come with a vbmeta.img
+	- no-verity-opt-encrypt
+		- Disables DM-Verity
+		- From the LazyFlasher project
+	- no-verity-force-encrypt
+		- Disables DM-Verity and ForceEncrypt
+		- From the LazyFlasher project
+	- Disable_DM-Verity-ForceEncrypt
+		- Disables DM-Verity and ForceEncrypt
 - RMM-Bypass
 - FRP
 - FDE/FBE Encryption
