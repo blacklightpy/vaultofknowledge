@@ -246,8 +246,18 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## Download Mode
 ### MTKClient
 - BROM Mode: Boot ROM Mode
+- PreLoader Mode
+	- One crashed PreLoader to BROM
+	- This can be done manually, or using MTKClient / 
 - DA: Download Agent
 - xflash
+## Bypass Mode Protection
+### Universal MTK Tool (UMT)
+- Helps bypass SLA (Serial Link Authentication), DAA (Download Agent Authentication) and SBC
+- Without this, one would need to supply an AUTH file to use SP Flash Tool
+### MTK Auth Bypass
+## Flash Utility
+- SP (SmartPhone) Flash Tool
 # Drivers
 - For SoC USB Interfaces
 	- SoC USB Interface Driver
