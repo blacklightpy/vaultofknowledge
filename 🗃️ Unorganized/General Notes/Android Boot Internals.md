@@ -249,11 +249,26 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - DA: Download Agent
 - xflash
 # Drivers
-- UsbDk (USB Development Kit)
-- SoC Interface Driver
-- Vendor ADB Interface Driver
-- Universal ADB and Fastboot Driver
-- MTP/PTP Driver (Generic Driver shipped in the OS)
+- For SoC USB Interfaces
+	- SoC USB Interface Driver
+		- Vendor Serial Port (USB VCOM) Driver
+		- Windows COM Port Driver (Generic)
+	- Advanced USB Driver
+		- UsbDk Driver (USB Development Kit Driver)
+		- libusb Driver (Generic Driver Framework)
+- For Vendor USB Interfaces
+	- ADB, Fastboot and Recovery
+		- Vendor USB ADB Interface Driver
+		- Other USB ADB Interface Drivers
+			- Google (Universal) ADB and Fastboot Driver (platform-tools)
+			- Minimal ADB and Fastboot Driver (unmaintained)
+			- Tiny ADB and Fastboot Driver (same as Google USB Driver)
+	- MTP/PTP USB Driver (Generic Driver shipped in the OS)
+
+
+> [!NOTE]
+> I had to install the Xiaomi USB drivers (unsigned) in test signing mode to get Fastboot and ADB to work on my POCO.
+
 
 Why I cannot lie:
 
