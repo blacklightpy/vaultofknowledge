@@ -3,8 +3,15 @@
 - Recovery Mode
 ## Files
 - boot.img
-- recovery.img
+- vbmeta.img (newer ROMs)
+- recovery.img 
 - system.img
+
+**Terms**
+- AP: Android Partition (system)
+- BL: Boot Loader (boot)
+- CP: Modem
+- CSC: Carrier
 ## Partitions
 
 **General**
@@ -47,8 +54,9 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 > From Android 6.0, Android supports the use of external SD cards to extend internal storage. This functionality is called Adoptive Storage. An SD card using adoptive storage is wiped initially, formatted with EXT4 or F2FS and is encrypted.
 > 
 > It uses GPT instead of MBR like traditional storage, and hence, its storage capacity goes up to 9 ZB.
-> `/mnt/expand/[UUID]/media/0`
+> -`/mnt/expand/[UUID]/media/0`
 
+#incomplete 
 
 - /sdcard 
 	- Before Android 4.0:
@@ -222,3 +230,4 @@ I don't know much about how laws are made in democracies. I hear that India foll
 
 Part II Bro's case
 Part III I have no option
+Part IV My four sins (Apathy, Denial, Lying)
