@@ -18,13 +18,13 @@
 
 > [!NOTE] Notes while installing it
 > You are probably not going to install them yourselves, but for the person who is installing the operating system here are some things to know.
-> 1. Most distributions will not package patented codecs and proprietary drivers by default, and some of them will ask you if you want to include them in your installation. You should choose yes, and if there wasn't such an option, you would have to manually install it afterwards using the package manager.
+> 1. Most distributions will not package codecs for patented media formats and proprietary drivers by default, and some of them will ask you if you want to include them in your installation. You should choose yes, and if there wasn't such an option, you would have to manually install it afterwards using the package manager.
 
 > [!NOTE] How to Use it
 > Every Linux distribution targeting the average user comes with the Firefox browser. But it may have trouble playing certain video files because they use patented encoding.
 > 
 > > [!NOTE] What are codecs?
-> > For example, you may have heard of MP3, JPEG, MPEG-4, etc. Some of them are open-source, but others are patented and require licensing fees to decode. Any application that plays these video formats without paying the royalties are technically in the legal grey zone. More info [[What is a codec|here]].
+> > For example, you may have heard of MP3, JPEG, H.264, etc. They are media coding formats. A specific implementation of a media format encoder-decoder pair is called a codec. Some media coding formats are free, but others are patented and require licensing fees to decode. Any software that plays patented video formats without paying the royalties is technically in the legal grey zone. More info [[What is a codec|here]].
 > 
 > To fix this, you need to install the appropriate codecs for playing those videos.
 > 

@@ -12,20 +12,18 @@
 - Media Codecs and Containers
 	- Video
 		- Codecs
-			- CCITT H.120
+			- CCITT (now ITU-T) H.120
 			- ITU-T H.261
 			- MJPEG
 			- DV
 			- MJPEG 2000
 			- ITU-T H.262
-			- ITU-T H.264
-			- ITU-T H.265
 			- ITU-T H.263 / MPEG-4 Part 2
-			- ITU-T H.264 / AVC / MPEG-4 Part 10
-			- ITU-T H.265 / HEVC / MPEG-H Part 2
+			- ITU-T H.264 / MPEG-4 Part 10 / AVC
+			- ITU-T H.265 / MPEG-H Part 2 / HEVC
 			- ITU-T H.266
- 
- VP3, Theora, VP8, VP9, DNxHD, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
+			- DNxHD
+			- Apple ProRes
 		- Containers
 			- MP4
 	- Audio
