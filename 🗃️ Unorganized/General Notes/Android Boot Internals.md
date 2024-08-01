@@ -8,10 +8,12 @@
 - system.img
 
 **Terms**
-- AP: Android Partition (system)
+- AP: Android Processor (system + recovery)
+- PDA: 
 - BL: Boot Loader (boot)
-- CP: Modem
-- CSC: Carrier
+- CP: Core Processor (Modem)
+- CSC: Consumer Software Customization (Carrier Branding, etc. for the region)
+- PIT: Partition Information Table 
 ## Partitions
 
 **General**
