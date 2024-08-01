@@ -56,8 +56,8 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 > [!NOTE] Adoptive Storage
 > From Android 6.0, Android supports the use of external SD cards to extend internal storage. This functionality is called Adoptive Storage. An SD card using adoptive storage is wiped initially, formatted with EXT4 or F2FS and is encrypted.
 > 
-> It uses GPT instead of MBR like traditional storage, and hence, its storage capacity goes up to 9 ZB.
-> -`/mnt/expand/[UUID]/media/0`
+> - It uses GPT instead of MBR like traditional storage, and hence, its storage capacity goes up to 9 ZB.
+> - With Adoptive Storage, the unified internal storage is mounted at `/mnt/expand/[UUID]/media/0` rather than at `/data/media/0`
 
 #incomplete 
 
@@ -178,25 +178,25 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - RMM-Bypass
 - FRP
 - FDE/FBE Encryption
-- Samsung Knox
-	- Samsung RKP (Realtime Kernel Protection)
-		- This is the Samsung equivalent of AVB/dm-verity or Secure Boot 
-
-
-- Samsung Trusted Boot
-	- Same as Secure Boot / AVB, but with Samsung additions
-	- Secure Boot keys are stored in Samsung Secure Boot Certificate chain
-	- Trusted Boot takes snapshots during boot, and stores them in TrustZone Trusted Execution Environment (TEE)
-		- Trusted Boot ensures older bootloaders cannot boot as part of the Rollback Prevention process
-		- TrustZone Trustlets check the snapshots while a system is booting to check for bootloader versions
-- Samsung TIMA (TrustZone Integrity Management)
-	- Same as DM-Verity kernel integrity checking, but with Samsung additions
-	- TIMA comes after the basic Android DM-Verity checks
-	- Samsung’s TIMA runs inside the TrustZone TEE, which provides a wide variety of security services, including attestation, a trusted user interface, KeyStore, Client Certificate Management and two components that are part of the TIMA real-time protections:
-		- Real-time Kernel Protection (RKP)
-		- Periodic Kernel Measurement (PKM)
-- Knox Verified Boot (KVB)
-- Samsung DEFEX
+- **Samsung Knox**
+	- **Knox Verified Boot (KVB)**
+		- It handles both Secure Boot (Bootloader) and AVB (Kernel + Android Part)
+		- Specifically, it checks the Bootloader and Kernel
+		- It has two components
+			- **Samsung Trusted Boot**
+				- Same as Secure Boot / AVB, but with Samsung additions
+				- Secure Boot keys are stored in Samsung Secure Boot Certificate chain
+				- Trusted Boot takes snapshots during boot, and stores them in TrustZone Trusted Execution Environment (TEE)
+					- Trusted Boot ensures older bootloaders cannot boot as part of the Rollback Prevention process (Same as AVB Rollback Protection)
+					- TrustZone Trustlets check the snapshots while a system is booting to check for bootloader versions
+			- **Samsung TIMA (TrustZone Integrity Management)**
+				- Same as DM-Verity kernel integrity checking, but with Samsung additions
+				- Samsung’s TIMA runs inside the TrustZone TEE, which provides a wide variety of security services, including attestation, a trusted user interface, KeyStore, Client Certificate Management and two components that are part of the TIMA real-time protections:
+					- **Samsung Real-time Kernel Protection (RKP)**
+					- **Samsung Periodic Kernel Measurement (PKM)**
+						- It finds whatever RKP misses
+	- **Samsung DEFEX (Defeat Exploit)**
+		- This is for app protection
 ## How to root device
 ## How to install XPosed Framework
 ## How to install Magisk Manager
