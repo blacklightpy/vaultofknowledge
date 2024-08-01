@@ -148,8 +148,11 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 | /storage/emulated      | User Facing Symlink to a Bind Mount of the SDCardFS Emulated Storage Space |
 | /storage/emulated/UUID | User Facing Symlink to a Bind Mount of the SDCardFS Emulated Storage Space |
 ## How to dump boot.img
+- Dump it from payload.bin (see video tutorial from XDA)
 ## How to dump firmware
+- NANDroid Backup
 ## How to unlock bootloader
+- Use SoC tooling to unlock bootloader by 
 ## How to bypass encryption
 - DM-Verity
 	- It's a Linux kernel security feature to verify if a block read from a block device contains a specific hash.
@@ -190,7 +193,8 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 		- Disables DM-Verity and ForceEncrypt
 - Disable Verity in vbmeta.img
 	- `fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img`
-- FRP
+- Factory Reset Protection (FRP)
+	- It is used to prevent others from using your device after factory resetting it
 - **Samsung Knox Guard (KG) / Remote Monitoring and Management (RMM)**
 	- RMM-State-Bypass-v3
 - **Samsung Knox**
@@ -213,11 +217,19 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 	- **Samsung DEFEX (Defeat Exploit)**
 		- This is for app protection
 ## How to root device
+- You need to flash the missing SU file
+- You'll need a custom recovery, or just flash a patched boot.img with Magisk
 ## How to install XPosed Framework
-## How to install Magisk Manager
+- You install it from a custom recovery
+## How to install Magisk
+- You install it from a custom recovery, or by flashing a patched boot.img
 ## How to install GApps
+- You install it from a custom recovery
 ## How to install GCam Mod
+- Download the right GCam Mod for your Model/SoC
+- Find the right config files for your device
 ## How to bypass Play Protect
+- Do it with Magisk
 ## How to change IMEI
 ## How to copy files using ADB
 ## How to backup app data (using ADB?)
