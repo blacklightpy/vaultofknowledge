@@ -181,10 +181,22 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - Samsung Knox
 	- Samsung RKP (Realtime Kernel Protection)
 		- This is the Samsung equivalent of AVB/dm-verity or Secure Boot 
-	- Knox Verified Boot (KVB)
-	- Samsung DEFEX
-	- TrustedBoot
-	- TrustZone Integrity Management
+
+
+- Samsung Trusted Boot
+	- Same as Secure Boot / AVB, but with Samsung additions
+	- Secure Boot keys are stored in Samsung Secure Boot Certificate chain
+	- Trusted Boot takes snapshots during boot, and stores them in TrustZone Trusted Execution Environment (TEE)
+		- Trusted Boot ensures older bootloaders cannot boot as part of the Rollback Prevention process
+		- TrustZone Trustlets check the snapshots while a system is booting to check for bootloader versions
+- Samsung TIMA (TrustZone Integrity Management)
+	- Same as DM-Verity kernel integrity checking, but with Samsung additions
+	- TIMA comes after the basic Android DM-Verity checks
+	- Samsung’s TIMA runs inside the TrustZone TEE, which provides a wide variety of security services, including attestation, a trusted user interface, KeyStore, Client Certificate Management and two components that are part of the TIMA real-time protections:
+		- Real-time Kernel Protection (RKP)
+		- Periodic Kernel Measurement (PKM)
+- Knox Verified Boot (KVB)
+- Samsung DEFEX
 ## How to root device
 ## How to install XPosed Framework
 ## How to install Magisk Manager
