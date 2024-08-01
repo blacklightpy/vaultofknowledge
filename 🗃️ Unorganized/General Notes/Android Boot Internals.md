@@ -262,14 +262,15 @@ Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and
 ### MTK Auth Bypass
 - It works based on an exploit, called Kamakiri [(see here)](https://www.xda-developers.com/bypass-mediatek-sp-flash-tool-authentication-requirement/).
 - It sets SLA and DAA to 0 during the PreLoader stage
-- 
+- For this, you need a tweaked USB driver
+- In Windows, you need a libusb-based filter driver (UsbDk), and in Linux, you need a kernel patch
 
 ### Samsung FRP Removal Tool
 ## Flash Utility
 - MediaTek SP (SmartPhone) Flash Tool
 - Qualcomm EDL (Emergency Download Mode) 
 # Drivers
-- For SoC USB Interfaces
+- For SoC USB Interfaces (like the MTK Exploit)
 	- SoC USB Interface Driver
 		- Vendor Serial Port (USB VCOM) Driver
 		- Windows COM Port Driver (Generic)
