@@ -32,14 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3c955de6e942a14d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -207,6 +199,8 @@
   "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+    "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
     "🗃️ Unorganized/General Notes/What is a codec.md",
@@ -222,7 +216,6 @@
     "🗃️ Unorganized/General Notes/Restricted Media.md",
     "🗃️ Unorganized/General Notes/System Boot Restriction.md",
     "🗃️ Unorganized/General Notes/Firmware BLOBs.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/FOSS Software.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Run Time.md",
@@ -231,7 +224,6 @@
     "🗃️ Unorganized/General Notes/Obsidian Alternatives.md",
     "🤠 Personal/Toolkits/Note Taking Tools.md",
     "🗃️ Unorganized/General Notes/Missing Courses.md",
-    "Test.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",

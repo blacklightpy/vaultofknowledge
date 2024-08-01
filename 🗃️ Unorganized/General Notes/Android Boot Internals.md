@@ -9,9 +9,10 @@
 
 **Terms**
 - AP: Android Processor (system + recovery)
-- PDA: 
+	- PDA: same as AP
 - BL: Boot Loader (boot)
 - CP: Core Processor (Modem)
+	- Phone: same as CP
 - CSC: Consumer Software Customization (Carrier Branding, etc. for the region)
 - PIT: Partition Information Table 
 ## Partitions
@@ -150,11 +151,13 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to dump firmware
 ## How to unlock bootloader
 ## How to bypass encryption
-- dm-verity
+- DM-Verity
 	- It's a Linux kernel security feature to verify if a block read from a block device contains a specific hash.
-	- dm stands for Device Mapper
+	- DM stands for Device Mapper
 	- It uses a tree of SHA256 hashes to verify blocks as they are read from a block device to ensure that files have not changed between reboots or by unauthorized modifications.
 	- DM-Verity by itself does not encrypt, and it only shows a 5s warning that can be skipped, if files are modified
+- FS-Verity
+	- An alternative to DM-Verity in BTRFS
 - ForceEncrypt
 	- 
 - DM-Verity Storage
