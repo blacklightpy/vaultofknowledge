@@ -32,8 +32,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e39e08ac5f8a2b3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "25b7b048e23c323e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md"
               }
             }
           },
@@ -173,11 +195,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +218,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "3298e62d4c40f851",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
     "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
@@ -222,7 +246,6 @@
     "🤠 Personal/Ideas for business.md",
     "🗃️ Unorganized/General Notes/Obsidian Alternatives.md",
     "🤠 Personal/Toolkits/Note Taking Tools.md",
-    "🗃️ Unorganized/General Notes/Missing Courses.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
