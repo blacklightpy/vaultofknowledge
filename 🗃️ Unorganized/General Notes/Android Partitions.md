@@ -1,8 +1,18 @@
 # Tools
 - Adebar (from [here](https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels))
+	- Checks `/proc/dumchar_info` (gives most details)
+	- Checks `/proc/mtd` (second best solution, doesn't exist in most new devices)
+	- Checks `/proc/emmc` (third best solution, should have about as much as the previous ones)
+	- Checks `/dev/block/platform/\*/by-name` (this is cross checked with the next option)
+	- Checks `/proc/partitions`, cross checked with `/proc/mounts` (gives us at least the list of mounted partitions)
 - KPARTX
 - xmount
 - DiskInfo
+
+# References
+- https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels
+- https://android.stackexchange.com/questions/5232/how-can-i-view-the-android-internal-partition-table
+- https://android.stackexchange.com/questions/24119/command-to-list-partitions
 # MTK
 MTK platform partition meaning
 
