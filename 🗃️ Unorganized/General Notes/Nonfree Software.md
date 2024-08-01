@@ -21,7 +21,7 @@
 			- ITU-T H.263 / MPEG-4 Part 2
 			- ITU-T H.264 / MPEG-4 Part 10 / AVC
 			- ITU-T H.265 / MPEG-H Part 2 / HEVC
-			- ITU-T H.266
+			- ITU-T H.266 / VVC
 			- DNxHD
 			- Apple ProRes
 		- Containers

@@ -4,11 +4,18 @@ Codecs are used to encode audio and video files into standard formats or to deco
 
 ## Codecs to use
 
-| Type  | Open Source                            | Proprietary  |
-| ----- | -------------------------------------- | ------------ |
-| Video | VP8, VP9, Theora, x264, x265, OpenH264 | H.264, H.265 |
-| Audio | OGG, Opus                              | LAME         |
-
+| Type  | Formats | Open Source Codecs     | Proprietary Codes                                                  |
+| ----- | ------- | ---------------------- | ------------------------------------------------------------------ |
+| Video | H.264   | x264, OpenH264, FFmpeg | MainConcept, Nero Digital, QuickTime H.264, Sorenson AVC Pro Codec |
+| Video | H.265   | x265, FFmpeg           |                                                                    |
+| Video | WMV     | FFmpeg                 | WAX (from Windows Media Services)                                  |
+| Video | Theora  | libtheora, FFmpeg      |                                                                    |
+| Video | VP8     | libvpx, FFmpeg         |                                                                    |
+| Video | VP9     | libvpx, FFmpeg         |                                                                    |
+| Video | AV1     | libaom                 |                                                                    |
+| Audio | MP3     | LAME, FFmpeg           | Fraunhofer L3enc, Fraunhofer MP3enc                                |
+| Audio | Vorbis  | libvorbis, FFmpeg      |                                                                    |
+| Audio | Opus    | libopus, FFmpeg        |                                                                    |
 ## Codec Packs
 
 - K-Lite Mega Codec Pack (We mainly need the LAV Filters from it)
