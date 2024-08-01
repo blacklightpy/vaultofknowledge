@@ -246,18 +246,25 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## Download Mode
 ### MTKClient
 - BROM Mode: Boot ROM Mode
+	- BROM Loads the PreLoader, which loads Android
+	- BROM also has a hidden download mode, which we'll use to flash files
 - PreLoader Mode
-	- One crashed PreLoader to BROM
-	- This can be done manually, or using MTKClient / 
+	- One crashes PreLoader to get to BROM
+	- This can be done using MTK Auth Bypass / MTKClient / MTK Meta Utility
 - DA: Download Agent
 - xflash
-## Bypass Mode Protection
+## Bypass Download Mode Protection
+Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and Realme started obfuscating the process of getting to BROM mode. This way, we can only access the Download Mode using signed Download Agents.
 ### Universal MTK Tool (UMT)
 - Helps bypass SLA (Serial Link Authentication), DAA (Download Agent Authentication) and SBC
 - Without this, one would need to supply an AUTH file to use SP Flash Tool
 ### MTK Auth Bypass
+- It works based on an exploit, called Kamakiri [(see here)](https://www.xda-developers.com/bypass-mediatek-sp-flash-tool-authentication-requirement/).
+- It sets SLA and DAA to 0 during the PreLoader stage
+- 
 ## Flash Utility
-- SP (SmartPhone) Flash Tool
+- MediaTek SP (SmartPhone) Flash Tool
+- Qualcomm EDL (Emergency Download Mode) 
 # Drivers
 - For SoC USB Interfaces
 	- SoC USB Interface Driver
