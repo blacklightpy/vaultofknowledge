@@ -248,7 +248,12 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - BROM Mode: Boot ROM Mode
 - DA: Download Agent
 - xflash
-
+# Drivers
+- UsbDk (USB Development Kit)
+- SoC Interface Driver
+- Vendor ADB Interface Driver
+- Universal ADB and Fastboot Driver
+- MTP/PTP Driver (Generic Driver shipped in the OS)
 
 Why I cannot lie:
 
