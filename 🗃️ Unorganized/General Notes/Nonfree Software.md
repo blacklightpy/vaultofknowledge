@@ -11,7 +11,7 @@
 		- Vendor BLOBs
 - Media Formats and Containers
 	- Video
-		- Formats
+		- Paid Patented Formats
 			- CCITT (now ITU-T) H.120
 			- ITU-T H.261
 			- MJPEG
@@ -24,12 +24,14 @@
 			- ITU-T H.266 / VVC
 			- DNxHD
 			- Apple ProRes
-		- Containers
+		- Paid Patented Containers
 			- MP4
 	- Audio
-		- Codecs
+		- Paid Patented Formats
 			- MP3 (Patent Expired)
 			- AAC
-		- Containers
+		- Paid Patented Containers
 			- MP3
 			- AAC
+- Generic Software
+	- The problem is that we become dependent on them, but we will have to use it according to the whims of the developer who may forcibly update it to obtain support
