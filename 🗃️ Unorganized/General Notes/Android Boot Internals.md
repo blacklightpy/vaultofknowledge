@@ -159,7 +159,11 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - FS-Verity
 	- An alternative to DM-Verity in BTRFS
 - ForceEncrypt
-	- 
+	- It's of two types
+		- Full Disk Encryption (Android 5.0+)
+		- File Based Encryption (Android 7.0+)
+			- Also has Metadata Encryption (Android 9.0+)
+	- It is mandatory for all devices from Android 10.0 to use FBE
 - DM-Verity Storage
 	- Android Verified Boot (AVB) makes use of dm-verity to prevent booting of unauthorized partitions
 	- VBMeta stands for Verified Boot Metadata, and it contains the hashes required for dm-verity
@@ -175,9 +179,10 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 		- From the LazyFlasher project
 	- Disable_DM-Verity-ForceEncrypt
 		- Disables DM-Verity and ForceEncrypt
+- Disable Verity in vbmeta.img
+	- `fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img`
 - RMM-Bypass
 - FRP
-- FDE/FBE Encryption
 - **Samsung Knox**
 	- **Knox Verified Boot (KVB)**
 		- It handles both Secure Boot (Bootloader) and AVB (Kernel + Android Part)
