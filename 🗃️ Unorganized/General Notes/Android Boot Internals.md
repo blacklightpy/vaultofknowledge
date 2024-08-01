@@ -160,9 +160,18 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 	- An alternative to DM-Verity in BTRFS
 - ForceEncrypt
 	- It's of two types
-		- Full Disk Encryption (Android 5.0+)
-		- File Based Encryption (Android 7.0+)
-			- Also has Metadata Encryption (Android 9.0+)
+		- **Full Disk Encryption (FDE)** (Android 5.0+)
+			- It is based on DM-Crypt
+		- **File Based Encryption (FBE)** (Android 7.0+)
+			- It is based on `fscrypt`
+			- In FBE, different files can be encrypted with different keys
+			- Mainly, It introduced Direct Boot API and two types of encrypted storage
+			- Direct Boot boots the system directly to the Lock Screen
+			- With Direct Boot API, apps can store data in Credential Encrypted (CE) storage or Device Encrypted (DE) storage
+			- CE storage is the default and it only lets you access files after the user has unlocked the Lock Screen
+			- DE storage lets you access files during Direct Boot itself
+			- **Metadata Encryption** (Android 9.0+)
+				- It encrypts the metadata that is not encrypted by FBE
 	- It is mandatory for all devices from Android 10.0 to use FBE
 - DM-Verity Storage
 	- Android Verified Boot (AVB) makes use of dm-verity to prevent booting of unauthorized partitions
@@ -181,8 +190,9 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 		- Disables DM-Verity and ForceEncrypt
 - Disable Verity in vbmeta.img
 	- `fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img`
-- RMM-Bypass
 - FRP
+- **Samsung Knox Guard (KG) / Remote Monitoring and Management (RMM)**
+	- RMM-State-Bypass-v3
 - **Samsung Knox**
 	- **Knox Verified Boot (KVB)**
 		- It handles both Secure Boot (Bootloader) and AVB (Kernel + Android Part)
