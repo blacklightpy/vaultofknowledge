@@ -9,9 +9,9 @@
 		- Most Drivers
 	- Linux
 		- Vendor BLOBs
-- Media Codecs and Containers
+- Media Formats and Containers
 	- Video
-		- Codecs
+		- Formats
 			- CCITT (now ITU-T) H.120
 			- ITU-T H.261
 			- MJPEG
