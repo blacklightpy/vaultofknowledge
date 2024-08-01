@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Network Based Computational Service.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -197,10 +196,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ff98a07a0107e79",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
     "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",

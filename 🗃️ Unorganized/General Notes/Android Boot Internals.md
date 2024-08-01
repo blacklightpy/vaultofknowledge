@@ -243,6 +243,11 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## Protection Mechanisms
 ### Samsung KNOX
 # SoC Specific Tools
+## Download Mode
+### MTKClient
+- BROM Mode: Boot ROM Mode
+- DA: Download Agent
+- xflash
 
 
 Why I cannot lie:
