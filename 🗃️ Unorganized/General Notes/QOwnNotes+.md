@@ -1,0 +1,7 @@
+- People are so attracted to mystery, so much so that they are willing to make themselves stupid in order to feel dominated by mystery
+	- For example, people find a smartphone complicated (hence, smart)
+	- At the same time, they disrespect a rat-trap because it's cheap and easy to make (provided you have the springs made)
+	- For the same reason, they'd find a smartphone DIY manual initially relieving, but then boring, because now they know how to make a smartphone.
+	- This is the same reason why open sourcing software can be off putting to many people
+	- That is, artists often demand attribution and secrecy to their recipes
+	- But in reality, a
