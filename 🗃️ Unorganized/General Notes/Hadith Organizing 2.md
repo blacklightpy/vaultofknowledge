@@ -2,6 +2,9 @@
 - Only Sahih Bukhari and Sahih Muslim
 - Tafsirs
 - Fatwas
+	- Islamqa.info
+	- Islamweb.net
+	- Islamqa.org
 - Sharia Books
 
 Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn Majah are considered to be the most authentic.  - http://iswy.co/e4cmq

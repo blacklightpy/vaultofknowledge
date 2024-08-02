@@ -48,7 +48,7 @@
 ### Strategies Muslims use to prevent criticism
 - The six named strategies
 	- Tawriyyah (doublespeak or ambiguity)
-	- Kitman (telling you only a part of the truth)
+	- Kitman (telling you only a part of the truth) (Ibadis call Taqiyya Kitman)
 	- Taqiyyah (Lying about one's religion when one is threatened)
 	- Muruna (Loopholes to allow one to fit in with Kafirs without)
 	- Taysir
@@ -158,6 +158,12 @@
 ## Other Sahih/Hasan
 
 ## Quran Tafsirs
+## Hadith Tafsirs
+### Bukhari
+- Aisha had not menstruated
+	- Fath Al-Bari
+- It is permissible to marry a baby
+	- Fath Al-Bari vol. 11, page 25 "يجوز تزويج الصغيرة بالكبير إجماعا ولوكانت في المهد" - "It is permissible to marry young girls, by a great ijma (consensus of scholars), even if they were still in a cradle."
 
 ## Scholarly Works
 
