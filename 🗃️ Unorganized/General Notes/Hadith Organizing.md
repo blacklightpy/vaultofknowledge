@@ -61,9 +61,11 @@
 		- Also read classic textbooks on Islamic History like The History of Al-Tabari
 	- Muruna (Loopholes to allow one to fit in with Kafirs without trouble)
 		- They do this for the higher purpose of gaining more influence
-	- Taqiyyah (Lying about one's religion when one is threatened)
-	- Taysir
-	- Daruna
+		- Based on an interpretation of 2:106 (abrogation verse)
+			- Basically, they follow Meccan laws first
+	- Taqiyyah / Muda'rat (Lying about one's religion when one is threatened)
+	- Taysir (Deceit by not observing Shariah, during war (as Mohammed said))
+	- Daruna (Deceit through necessary Haram)
 	- Hiyal (Legalized trickery for sticking to Shariah without following it perfectly)
 		- e.g. Rebranding interest as fee/profit, Rebranding Jihad as purely an inner struggle
 - They alter the meanings we've agreed upon in earlier contexts to suit the current context (exploiting on the brain's attention span) [EX: saying that Islam didn't allow slaves to be made, after establishing that it did earlier on.]
