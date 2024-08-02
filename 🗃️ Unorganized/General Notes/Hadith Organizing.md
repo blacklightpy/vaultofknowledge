@@ -45,6 +45,15 @@
 	- Alternate Idea 2:
 	- Muslim Idea:
 - What Muslims of today are:
+### Strategies Muslims use to prevent criticism
+- The six named strategies
+	- Tawriyyah 
+	- Kitman (telling you only a part of the truth)
+	- Taqiyyah (Lying about one's religion when one is threatened)
+	- Muruna
+	- Taysir
+	- Daruna
+- They alter the meanings we've agreed upon in earlier contexts to suit the current context (exploiting on the brain's attention span) [EX: saying that Islam didn't allow slaves to be made, after establishing that it did earlier on.]
 # Women (general and married)
 
 ## Quran

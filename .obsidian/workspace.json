@@ -140,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,7 +258,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "32d689f2c0fd2498",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
