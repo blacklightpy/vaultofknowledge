@@ -264,7 +264,13 @@ Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and
 - It sets SLA and DAA to 0 during the PreLoader stage
 - For this, you need a tweaked USB driver
 - In Windows, you need a libusb-based filter driver (UsbDk), and in Linux, you need a kernel patch
-
+- Features
+	- Read mobile phone information in ADB/Fastboot Mode
+	- Read Partition Information
+	- Read, Write or Reset NVRAM
+	- Unpacking OFP format firmware for Oppo MTK chip
+	- Remove VIVO Demo Mode
+	- Wait for functions
 ### Samsung FRP Removal Tool
 ## Flash Utility
 - MediaTek SP (SmartPhone) Flash Tool
