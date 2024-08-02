@@ -53,10 +53,13 @@
 - What Muslims of today are:
 ### Strategies Muslims use to prevent criticism
 - The six named strategies
-	- Tawriyyah (doublespeak or ambiguity)
-	- Kitman (telling you only a part of the truth) (Ibadis call Taqiyya Kitman)
+	- Stage 1: Kitman (telling you only a part of the truth) (Ibadis call Taqiyya Kitman)
+		- You can read the Quran to get the full truth
+	- Stage 2: Tawriyyah ("creative lying", doublespeak without breaking the letter of oath)
+		- You can read the Tafsirs to bypass Tawriyyah.
+		- Also, read the Ahadith of Ahl a
 	- Taqiyyah (Lying about one's religion when one is threatened)
-	- Muruna (Loopholes to allow one to fit in with Kafirs without)
+	- Muruna (Loopholes to allow one to fit in with Kafirs without trouble)
 	- Taysir
 	- Daruna
 	- Hiyal (sticking to Shariah without following it perfectly)

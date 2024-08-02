@@ -1127,7 +1127,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- They do not believe in God (Allah) having a face
 - Jahami
 - Qadariyah
-- Khawarij / Kharijites (Now Ibadis)
+- Khawarij (Kharijites / Secessionists) (Now Ibadis)
 - Raafidis (Twelver Shi'a)
 
 **Shi'a Schools of Theology / Aqidah**
@@ -1136,6 +1136,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Ismaili
 
 **Other Schools of Theology**
+- Ibadi
 - Ahmadiyya
 - Non Muslim
 	- Sikh
