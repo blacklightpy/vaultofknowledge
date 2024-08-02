@@ -74,31 +74,33 @@ ro.com.google.gmsversion=5.1
 - Codecs: Several codecs from MTK and Google by the OpenMAX (OMX) framework (e.g. OMX.MTK.AUDIO.DECODER.XX)
 
 @@Partitions
+### Known Partitions and their Mounts
 
-| Name        | Block Name | Mount   |
-| ----------- | ---------- | ------- |
-| proinfo     | mcblk0p1   |         |
-| nvram       | mcblk0p2   |         |
-| shcy        | mcblk0p3   |         |
-| protect1    | mcblk0p4   |         |
-| protect2    | mcblk0p5   |         |
-| seccfg      | mcblk0p6   |         |
-| lk          | mcblk0p7   |         |
-| boot        | mcblk0p8   |         |
-| recovery    | mcblk0p9   |         |
-| para        | mcblk0p10  |         |
-| logo        | mcblk0p11  |         |
-| expdb       | mcblk0p12  |         |
-| frp         | mcblk0p13  |         |
-| nvdata      | mcblk0p14  |         |
-| metadata    | mcblk0p15  |         |
-| oemkeystore | mcblk0p16  |         |
-| secro       | mcblk0p17  |         |
-| keystore    | mcblk0p18  |         |
-| system      | mcblk0p19  | /system |
-| cache       | mcblk0p20  | /cache  |
-| userdata    | mcblk0p21  | /data   |
-| flashinfo   | mcblk0p22  |         |
+| Name        | Block Name | Mount      |
+| ----------- | ---------- | ---------- |
+| proinfo     | mcblk0p1   |            |
+| nvram       | mcblk0p2   |            |
+| shcy        | mcblk0p3   |            |
+| protect1    | mcblk0p4   | /protect_f |
+| protect2    | mcblk0p5   | /protect_s |
+| seccfg      | mcblk0p6   |            |
+| lk          | mcblk0p7   |            |
+| boot        | mcblk0p8   |            |
+| recovery    | mcblk0p9   |            |
+| para        | mcblk0p10  |            |
+| logo        | mcblk0p11  |            |
+| expdb       | mcblk0p12  |            |
+| frp         | mcblk0p13  |            |
+| nvdata      | mcblk0p14  | /nvdata    |
+| metadata    | mcblk0p15  |            |
+| oemkeystore | mcblk0p16  |            |
+| secro       | mcblk0p17  |            |
+| keystore    | mcblk0p18  |            |
+| system      | mcblk0p19  | /system    |
+| cache       | mcblk0p20  | /cache     |
+| userdata    | mcblk0p21  | /data      |
+| flashinfo   | mcblk0p22  |            |
+### Other File System Mounts
 - rootfs (/)
 - tmpfs (/dev)
 - devpts (/dev/pts)
@@ -110,4 +112,5 @@ ro.com.google.gmsversion=5.1
 - debugfs (/sys/kernel/debug)
 - tmpfs (/mnt/asec)
 - tmpfs (/mnt/obb)
-- 
+- loop0 (/mnt/cdrom)
+- fuse (/storage/sdcard0)
