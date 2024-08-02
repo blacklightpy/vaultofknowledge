@@ -4,6 +4,12 @@
 - List Incitement Verses
 - List by Context (Quran, Hadith, Tafsir, Philosophy)
 
+#rough 
+- Ya Ali / Ya Ali Madad
+	- Shi'ites think calling to Imam Ali to make Dua is permissible
+	- Allah said, who can interceded to him, except with his permission
+	- Contradiction: "The deceased neither see us, feel our call or hear us from their graves."
+	- Contradiction: Do not cry at the graves
 # Rough
 ## My claims
 - Mohammed wanted to rule
