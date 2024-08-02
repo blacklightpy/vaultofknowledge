@@ -32,10 +32,31 @@ persist.sys.BackCamera=5
 /# system.prop for generic sdk
 /#
 
-
-
-
 ro.mediatek.version.release=ALPS.L1.MP6.V2_YUANDA6580.WE.L
 
 mediatek.wlan.chip=CONSYS_MT6735
 ro.com.google.gmsversion=5.1
+# What we can infer
+@@Real Data
+- Android Version: 5.1 Lollipop
+- Android Build: LMY47I
+- Manufacturer (Real): alps
+- Device Name (Real): yuanda6580_we_l
+- SoC: MediaTek MT6580
+
+@@Fake Data
+- Manufacturer (Advertised): A9s
+- Device (Advertised): A9s
+- Name (Advertised): A9s
+
+@@Specs
+- RAM: 1 GP LPDDR2
+- Internal Storage: 1.61 GB (1.01 GB available to user)
+- WLAN Chip: CONSYS_MT6735 (only 2.4 GHz)
+- Touchscreen: ft6636_gesture / GT9XX
+- Resolution: 1014x480
+- 
+
+@@Miscellaneous Specs
+- Codecs: Several codecs from MTK and Google by the OpenMAX (OMX) framework (e.g. OMX.MTK.AUDIO.DECODER.XX)
+- 
