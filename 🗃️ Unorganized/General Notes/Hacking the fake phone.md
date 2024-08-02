@@ -43,6 +43,8 @@ ro.com.google.gmsversion=5.1
 - Manufacturer (Real): alps
 - Device Name (Real): yuanda6580_we_l
 - SoC: MediaTek MT6580
+- Device Build: ALPS.L1.MP6.V2_YUANDA6580.WE.L
+- Battery: 1000 mAh, 3.47V
 
 @@Fake Data
 - Manufacturer (Advertised): A9s
@@ -55,8 +57,57 @@ ro.com.google.gmsversion=5.1
 - WLAN Chip: CONSYS_MT6735 (only 2.4 GHz)
 - Touchscreen: ft6636_gesture / GT9XX
 - Resolution: 1014x480
-- 
+- Sound: amp_6323pmic_spk
+- Lens AF: dw9714af
+- Modem: yuanda6580_weg_l_hspa_850_2100_simhotswap
+- Camera 0: Sony IMX190 (imx190mipiraw)
+- Camera 1: GalaxyCore GC2235 (gc2235mipisubraw) 2.0 MP
+- Camera List:
+	- GC2235
+	- GC2385
+	- OV9760
+	- OV9762
+	- IMX190
+	- OV5648
 
 @@Miscellaneous Specs
 - Codecs: Several codecs from MTK and Google by the OpenMAX (OMX) framework (e.g. OMX.MTK.AUDIO.DECODER.XX)
+
+@@Partitions
+
+| Name        | Block Name | Mount   |
+| ----------- | ---------- | ------- |
+| proinfo     | mcblk0p1   |         |
+| nvram       | mcblk0p2   |         |
+| shcy        | mcblk0p3   |         |
+| protect1    | mcblk0p4   |         |
+| protect2    | mcblk0p5   |         |
+| seccfg      | mcblk0p6   |         |
+| lk          | mcblk0p7   |         |
+| boot        | mcblk0p8   |         |
+| recovery    | mcblk0p9   |         |
+| para        | mcblk0p10  |         |
+| logo        | mcblk0p11  |         |
+| expdb       | mcblk0p12  |         |
+| frp         | mcblk0p13  |         |
+| nvdata      | mcblk0p14  |         |
+| metadata    | mcblk0p15  |         |
+| oemkeystore | mcblk0p16  |         |
+| secro       | mcblk0p17  |         |
+| keystore    | mcblk0p18  |         |
+| system      | mcblk0p19  | /system |
+| cache       | mcblk0p20  | /cache  |
+| userdata    | mcblk0p21  | /data   |
+| flashinfo   | mcblk0p22  |         |
+- rootfs (/)
+- tmpfs (/dev)
+- devpts (/dev/pts)
+- adb (/dev/usb-ffs/adb)
+- proc (/proc)
+- sysfs (/sys)
+- selinuxfs (/sys/fs/selinux)
+- pstore (/sys/fs/pstore)
+- debugfs (/sys/kernel/debug)
+- tmpfs (/mnt/asec)
+- tmpfs (/mnt/obb)
 - 
