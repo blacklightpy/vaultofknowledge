@@ -35,6 +35,13 @@
 	- To do that, he needed to make them believe that many innocent actions by humans were evil
 	- In doing so, he asked of humans to cast aside their humanity and worship the one who gave this law
 	- Since that law is evil, who is the personification of evil? Satan
+
+### Plan
+- Criticizing Islam 
+
+- What Mohammed was
+	- My idea: Mohammed was either misguided or evil, and he hated several things, and he said that it is divine law for others to hate the same things. He also stole the teachings of the Jewish culture, 
+	- Muslim Idea:
 # Women (general and married)
 
 ## Quran

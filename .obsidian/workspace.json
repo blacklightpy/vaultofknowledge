@@ -79,9 +79,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32d689f2c0fd2498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
               }
             }
           },
@@ -244,8 +257,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "35d92360ac5a178c",
+  "active": "32d689f2c0fd2498",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
@@ -269,9 +285,6 @@
     "🗃️ Unorganized/General Notes/FOSS Software.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Run Time.md",
-    "🗃️ Unorganized/General Notes/Android Bootup Process.md",
-    "🤠 Personal/Ideas for business.md",
-    "🗃️ Unorganized/General Notes/Obsidian Alternatives.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
