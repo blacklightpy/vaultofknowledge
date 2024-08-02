@@ -1,5 +1,7 @@
 - Quran
-- Only Sahih Bukhari and Sahih Muslim
+- Hadiths
+	- Only Sahih Bukhari and Sahih Muslim
+	- Kutub al-Sittah (The Authentic Six)
 - Tafsirs
 - Fatwas
 	- Islamqa.info

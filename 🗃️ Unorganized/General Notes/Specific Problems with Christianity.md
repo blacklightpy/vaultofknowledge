@@ -1127,11 +1127,19 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 	- They do not believe in God (Allah) having a face
 - Jahami
 - Qadariyah
-- Kharijis (Now Ibadis)
+- Khawarij / Kharijites (Now Ibadis)
 - Raafidis (Twelver Shi'a)
 
 **Shi'a Schools of Theology / Aqidah**
 - Jafari (Ithna Asharis / Twelver Shi'a)
+- Zaydi
+- Ismaili
+
+**Other Schools of Theology**
+- Ahmadiyya
+- Non Muslim
+	- Sikh
+	- Baha'i
 
 **Active Sunni Schools of Jurisprudence / Madhhabs**
 
