@@ -40,8 +40,11 @@
 - Criticizing Islam 
 
 - What Mohammed was
-	- My idea: Mohammed was either misguided or evil, and he hated several things, and he said that it is divine law for others to hate the same things. He also stole the teachings of the Jewish culture, 
+	- My idea: Mohammed was either misguided or evil, and he hated several things, and he said that it is divine law for others to hate the same things. He also stole the teachings of the Jewish culture, and claimed that he was the true descendant of Abraham in faith, through his son Ishmael. He also made himself some exceptions for honour and convenience such as his ability to have multiple wives while others are limited to having just four, and that his wives cannot have other husbands if they are divorced. He also dehumanized other human relationships when he said that captive women are valid for sexual intercourse regardless of marrying them, and their marriages with disbelieving husbands are nullified.
+	- Alternate Idea 1:
+	- Alternate Idea 2:
 	- Muslim Idea:
+- What Muslims of today are:
 # Women (general and married)
 
 ## Quran
