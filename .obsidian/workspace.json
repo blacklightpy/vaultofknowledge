@@ -110,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72f9dd8bf59a1e90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cow Tools.md",
+                "file": "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cow Tools.md",
+                "file": "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -209,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cow Tools.md"
+                "file": "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md"
               }
             }
           },
@@ -276,10 +289,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a2e25a8078f1d81",
+  "active": "72f9dd8bf59a1e90",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Parables.md",
+    "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
     "🗃️ Unorganized/General Notes/Cow Tools.md",
+    "🗃️ Unorganized/General Notes/Parables.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
@@ -304,7 +318,6 @@
     "🤠 Personal/Project Ideas/Blacklight OS Idea 2.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Restricted Media.md",
-    "🗃️ Unorganized/General Notes/System Boot Restriction.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
