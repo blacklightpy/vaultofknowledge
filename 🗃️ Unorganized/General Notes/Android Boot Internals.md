@@ -306,6 +306,8 @@ As for underdeveloped societies,
 
 I'm referencing the idea from the TV series franchise, Star Trek.
 
+SoC : Sauce Potato Chip Chip Chip
+
 
 But there is major difference between my philosophy and Marx's:
 Marx said that the labour relationships and means of production form the base of the society, while religion forms the superstructure.
