@@ -114,3 +114,14 @@ ro.com.google.gmsversion=5.1
 - tmpfs (/mnt/obb)
 - loop0 (/mnt/cdrom)
 - fuse (/storage/sdcard0)
+
+## Plan to Fix POCO
+- Goal: Get Files
+
+- Plan
+	- Use MTK Exploit to either access ADB or Unlock Bootloader
+	- Flash PBRP
+	- Backup /data 
+	- 
+## Plan to Fix this
+- Goal
