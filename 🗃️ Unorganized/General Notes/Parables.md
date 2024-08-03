@@ -9,12 +9,21 @@
 
 
 
-My Philosophy is founded on two basic principles, that is:
+My philosophy is founded on two basic principles, that is:
 1. Punishment is not a deterrent for crime
 2. We are only guided by our desires
 
-I'd have preferred to quote the AURORA lyric "We're guided by the lust"
-However, "lust" commonly refers specifically to sexual desires
+I'd have preferred to quote the AURORA lyric "We're guided by the lust".
+However, "lust" commonly refers specifically to sexual desires.
+What I meant was that all actions are taken based on monetary benefit.
+Even selfless actions are taken on a monetary benefit, with the wealth being the welfare of others.
 
 Firstly, I don't even give too much connection between the words sexual and desire.
-I prefe
+I understand it in terms of sensual desires.
+
+A sexual relationship is defined as a relationship in which one has sex.
+However, I do not see why the action of sex defines the relationship more than intimacy.
+To me, sex is simply one of the ways in which intimacy can be achieved.
+
+The main reason is religion, however, I do not recognize the societal models of religions as valid.
+
