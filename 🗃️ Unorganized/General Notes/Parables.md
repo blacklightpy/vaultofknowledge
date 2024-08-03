@@ -27,3 +27,7 @@ To me, sex is simply one of the ways in which intimacy can be achieved.
 
 The main reason is religion, however, I do not recognize the societal models of religions as valid.
 
+Those who deny these two basic truths will lose, in the most miserable manner.
+Miserable, because people deny these truths to claim the moral high ground, despite feeling the same way themselves.
+They deceive people who lack self discipline and struggle to control their feelings by telling them easy to believe lies.
+In doing so to achieve personal gains, they perpetuate a culture where people of their own nature are harmed.
