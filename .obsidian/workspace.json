@@ -124,8 +124,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -289,19 +288,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "72f9dd8bf59a1e90",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
-    "🗃️ Unorganized/General Notes/Cow Tools.md",
-    "🗃️ Unorganized/General Notes/Parables.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/General Notes/Parables.md",
+    "🗃️ Unorganized/General Notes/Cow Tools.md",
+    "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Test Note X.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
