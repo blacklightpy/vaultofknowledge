@@ -1,0 +1,2 @@
+- The Parable of Analogy
+	- If you stick with one model, 
