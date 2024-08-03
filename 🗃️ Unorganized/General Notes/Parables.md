@@ -30,4 +30,7 @@ The main reason is religion, however, I do not recognize the societal models of 
 Those who deny these two basic truths will lose, in the most miserable manner.
 Miserable, because people deny these truths to claim the moral high ground, despite feeling the same way themselves.
 They deceive people who lack self discipline and struggle to control their feelings by telling them easy to believe lies.
-In doing so to achieve personal gains, they perpetuate a culture where people of their own nature are harmed.
+In doing so to achieve personal satisfaction, they perpetuate a culture where people of their own kin are harmed.
+
+And the real evil that exists as lust is "achieving personal satisfaction at the expense of others."
+Who is guilty of this? People who have consensual intimate relationships, or people who kill such people, acting as 
