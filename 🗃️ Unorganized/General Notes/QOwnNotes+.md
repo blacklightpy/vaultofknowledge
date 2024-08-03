@@ -13,3 +13,12 @@
 		- Then the mother and son will have a child, and so on, until the mother dies.
 		- So this is no way to sustain a civilization
 	- With sister
+		- With the sister, if a person only has sex with sister, then children the number of people in the world will remain fairly minimal, as there can only be so many people descending from a single family
+		- The first generation will mate with each other
+		- If they produce only one male and one female, they will likely continue the cycle
+		- If they produce two males and two females, then the two males can still mate with the other two
+		- The number of children who descend from that family line will be a multiple of the average children times the number of children in that generation
+		- This is mathematically alright, but this problem cannot be addressed just as it is in the patriarchal world, because a sister can be from the father's side or the mother's side
+		- After a few generations, the family lines still get distant, so it will be just like marrying a stranger
+		- That would mean that incest with sisters is not that bad outside of the initial phase
+		- The reason this would be bad, would only be to encourage connecting with other humans

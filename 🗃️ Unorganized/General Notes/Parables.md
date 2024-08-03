@@ -5,4 +5,5 @@
 		- If one claims that word of god exists, I can bring the finite letters argument
 		- But if they then bring the analogy of a CPU, then the hardware-software argument applies
 	- Simpler example
+		- 
 - 
