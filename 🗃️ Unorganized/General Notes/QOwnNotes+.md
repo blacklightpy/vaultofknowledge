@@ -4,4 +4,12 @@
 	- For the same reason, they'd find a smartphone DIY manual initially relieving, but then boring, because now they know how to make a smartphone.
 	- This is the same reason why open sourcing software can be off putting to many people
 	- That is, artists often demand attribution and secrecy to their recipes
-	- But in reality, a
+	- But in reality, a deeper understanding should open the room for more curious wonders rather than limiting our scope of wonder to what little we already know
+
+- Parable of incest
+	- With mother
+		- Consider two primeval parents
+		- If the son claims that the bitches are mad, and tells his mother that she is responsible for him
+		- Then the mother and son will have a child, and so on, until the mother dies.
+		- So this is no way to sustain a civilization
+	- With sister

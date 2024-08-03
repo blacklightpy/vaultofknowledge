@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Parables.md",
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Parables.md",
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Parables.md"
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md"
               }
             }
           },
@@ -289,8 +289,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1ea68d88ca1c6d3d",
+  "active": "35d92360ac5a178c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Parables.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
@@ -302,7 +303,6 @@
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
     "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
