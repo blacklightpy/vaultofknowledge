@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d91fcf57c0d32e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Test Note X.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cow Tools.md",
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cow Tools.md",
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cow Tools.md"
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md"
               }
             }
           },
@@ -262,17 +275,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a2e25a8078f1d81",
+  "active": "35d92360ac5a178c",
   "lastOpenFiles": [
-    "_images/adfsdfads.jpg",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Cow Tools.md",
+    "🗃️ Unorganized/General Notes/Test Note X.md",
+    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-    "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "_images/adfsdfads.jpg",
+    "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
     "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
@@ -308,7 +322,6 @@
     "_images/Knitting vs Crocheting.png",
     "_images/Islam - Child Farming.png",
     "_images/Frequency and Loudness Response of the Ear.png",
-    "_images/Frequency Areas of the Cochlea.png",
-    "_images/Force Graph.png"
+    "_images/Frequency Areas of the Cochlea.png"
   ]
 }
