@@ -8,7 +8,15 @@
 		- 
 
 
+- Dictionary Attack
+	- Do not call captive women slaves, or yourselves slave owners
+	- But instead, call them "my girl"
+	- But also, know that you have rights over them
+	- Essentially this is slavery, but it denies any claims that this was slavery
+	- Because this is not uncontrolled slaver
 
+
+**My Philosophy** #rough #post
 My philosophy is founded on two basic principles, that is:
 1. Punishment is not a deterrent for crime
 2. We are only guided by our desires

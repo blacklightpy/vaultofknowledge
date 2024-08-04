@@ -111,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Parables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Parables.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Parables.md"
               }
             }
           },
@@ -275,11 +275,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "1ea68d88ca1c6d3d",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Parables.md",
     "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",

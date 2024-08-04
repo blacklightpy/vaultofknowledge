@@ -159,7 +159,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - Use `ssut/payload-dumper-go`
 ## How to dump firmware
 - NANDroid Backup
-- 
+- Dump it with SoC Tooling (MTKClient)
 ## How to unlock bootloader
 - Method 1: Use SoC tooling to unlock bootloader by using exploits
 	- e.g. MTKClient (erase data first), MTK Booloader Unlocker (doesn't lose data)
