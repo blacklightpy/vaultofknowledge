@@ -6,3 +6,5 @@
 	- That is, it may not have always been that only the captors initiated sex with their slaves
 	- They say that slavery was to fix these immoralities, instead of lashing them for Zina
 	- We don't know if slave women needed to work for their freedom
+
+- Converting to Islam after seeing peach juice dripping from the face of a french Jewish nudist
