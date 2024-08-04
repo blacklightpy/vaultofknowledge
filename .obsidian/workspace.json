@@ -123,9 +123,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25079eabf81e08df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -171,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +201,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +217,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -220,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md"
-              }
+              "state": {}
             }
           },
           {
@@ -288,7 +293,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9da69ac73816303b",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
