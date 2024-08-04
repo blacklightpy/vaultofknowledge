@@ -238,6 +238,13 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to backup app data (using ADB?)
 ## How to perform a system backup (NANDroid backup)
 ## How to backup app data (with root, using third-party apps)
+## How to flash a new ROM
+- Recovery ROM
+	- To be flashed from Recovery
+	- Extension: .zip
+- Fastboot ROM
+	- To be flashed from Fastboot
+	- Extension: .tgz
 # OEM Stuff
 ## General Recovery
 ### Xiaomi MiAssistant (formerly Mi PC Suite)
