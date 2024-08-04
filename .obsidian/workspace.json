@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
               }
             }
           },
@@ -302,16 +302,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9da69ac73816303b",
+  "active": "35d92360ac5a178c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+    "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Parables.md",
-    "🗃️ Unorganized/General Notes/Muslim Mentality.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
