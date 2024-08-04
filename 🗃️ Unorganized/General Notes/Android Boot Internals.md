@@ -355,3 +355,5 @@ I don't know much about how laws are made in democracies. I hear that India foll
 Part II Bro's case
 Part III I have no option
 Part IV My four sins (Apathy, Denial, Lying)
+
+Wound that isn't dressed.
