@@ -235,6 +235,8 @@ Revelation of 4:24:
 # Jihad
 
 ## Quran
+- Order
+	- 47:4 Release them as an act of ransom
 
 ## Bukhari/Muslim
 
