@@ -246,6 +246,11 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to backup app data (using ADB?)
 - `adb backup -apk -shared –all –f D:/backup.ab`
 	- ADB doesn't support saving data for all apps
+- Guide: https://gist.github.com/AnatomicJC/e773dd55ae60ab0b2d6dd2351eb977c1
+	- Method 1: Pulling base.apk and renaming them with sed
+	- Method 2: `adb backup` backup
+	- Method 2: `bu backup` backup
+	- 
 ## How to perform a system backup (NANDroid backup)
 ## How to backup app data (with root, using third-party apps)
 ## How to flash a new ROM
