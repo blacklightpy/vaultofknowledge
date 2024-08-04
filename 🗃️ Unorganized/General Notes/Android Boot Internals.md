@@ -324,6 +324,11 @@ Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and
 > I had to install the Xiaomi USB drivers (unsigned) in test signing mode to get Fastboot and ADB to work on my POCO.
 
 
+#todo
+**Organizing Tabs**
+- How to perform ADB Backup
+- Android Partition Table
+
 Why I cannot lie:
 
 I cannot place one foot forward unless capitalism is wiped off the face of the people of earth.
