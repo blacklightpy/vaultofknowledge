@@ -149,8 +149,8 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 | /storage/emulated/UUID | User Facing Symlink to a Bind Mount of the SDCardFS Emulated Storage Space |
 ## How to dump boot.img
 - Dump it from payload.bin (see video tutorial from XDA)
-- Use vm03/payload-dumper
-- Use ssut/payload-dumper-go
+- Use `vm03/payload-dumper`
+- Use `ssut/payload-dumper-go`
 ## How to dump firmware
 - NANDroid Backup
 ## How to unlock bootloader
