@@ -6,5 +6,12 @@
 	- That is, it may not have always been that only the captors initiated sex with their slaves
 	- They say that slavery was to fix these immoralities, instead of lashing them for Zina
 	- We don't know if slave women needed to work for their freedom
+	- It mostly depended on the piety of the Muslims
+	- So that's why Islam focused on improving the piety of Muslims
 
-- Converting to Islam after seeing peach juice dripping from the face of a french Jewish nudist
+Here, Muslims claim that Islam didn't increase slavery, but rather, it only took slaves so that they'll be turned into Muslims and then freed when the masters become pious.
+
+(Mathematically and economically, this doesn't add up; but intentionally, possible, in the most stupid way imaginable)
+
+
+- Converting to Islam after seeing peach juice dripping from the face of a French Jewish nudist
