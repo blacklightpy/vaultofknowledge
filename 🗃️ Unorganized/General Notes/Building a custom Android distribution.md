@@ -1,3 +1,8 @@
+## Process
+- Dumping firmware
+- Extracting device tree, vendor tree and kernel tree
+- Getting hardware information
+- Finding similar hardware to copy drivers from
 ## Common Bugs
 ### Due to lack of updated firmware BLOBs
 - VoLTE

@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
+                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
+                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a custom Android distribution.md"
+                "file": "🗃️ Unorganized/General Notes/Muslim Mentality.md"
               }
             }
           },
@@ -302,7 +302,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "05db076cc052a5bd",
+  "active": "9da69ac73816303b",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
