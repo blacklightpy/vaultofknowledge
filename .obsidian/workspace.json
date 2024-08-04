@@ -269,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 409.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -290,8 +290,8 @@
   },
   "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",

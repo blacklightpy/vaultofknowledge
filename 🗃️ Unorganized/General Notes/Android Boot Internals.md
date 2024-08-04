@@ -1,6 +1,12 @@
-- System Mode
-- Fastboot Mode / Download Mode
-- Recovery Mode
+# Boot Modes
+- Early Boot
+	- Boot ROM Mode (MTK)
+	- PreLoader Mode (MTK)
+- Next Stage
+	- System Mode
+	- Fastboot Mode / Download Mode
+		- Fastbootd Mode (lighter, I believe)
+	- Recovery Mode
 ## Files
 - boot.img
 - vbmeta.img (newer ROMs)
@@ -155,7 +161,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - NANDroid Backup
 ## How to unlock bootloader
 - Method 1: Use SoC tooling to unlock bootloader by using exploits
-	- e.g. MTKClient (lose data), MTK Booloader Unlocker 
+	- e.g. MTKClient (erase data first), MTK Booloader Unlocker (doesn't lose data)
 - Method 2: Use official tooling to unlock bootloader
 	- e.g. Xiaomi Mi Unlock Tool (lose data + wait 1 week)
 ## How to bypass encryption
@@ -238,6 +244,8 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to change IMEI
 ## How to copy files using ADB
 ## How to backup app data (using ADB?)
+- `adb backup -apk -shared –all –f D:/backup.ab`
+	- ADB doesn't support saving data for all apps
 ## How to perform a system backup (NANDroid backup)
 ## How to backup app data (with root, using third-party apps)
 ## How to flash a new ROM

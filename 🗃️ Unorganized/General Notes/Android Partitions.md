@@ -1,5 +1,5 @@
 # Tools
-- Adebar (from [here](https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels))
+- Adebar (**A**ndroid **De**vice **B**ackup **a**nd **R**ecovery, from [here](https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels))
 	- Checks `/proc/dumchar_info` (gives most details)
 	- Checks `/proc/mtd` (second best solution, doesn't exist in most new devices)
 	- Checks `/proc/emmc` (third best solution, should have about as much as the previous ones)
