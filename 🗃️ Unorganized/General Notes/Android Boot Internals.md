@@ -149,6 +149,8 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 | /storage/emulated/UUID | User Facing Symlink to a Bind Mount of the SDCardFS Emulated Storage Space |
 ## How to dump boot.img
 - Dump it from payload.bin (see video tutorial from XDA)
+- Use vm03/payload-dumper
+- Use ssut/payload-dumper-go
 ## How to dump firmware
 - NANDroid Backup
 ## How to unlock bootloader
@@ -288,11 +290,12 @@ Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and
 # Drivers
 - For SoC USB Interfaces (like the MTK Exploit)
 	- SoC USB Interface Driver
-		- Vendor Serial Port (USB VCOM) Driver
-		- Windows COM Port Driver (Generic)
+		- Option 1: Vendor Serial Port (USB VCOM) Driver (RS-232 USB Emulation)
+		- Option 2: Windows COM Port Driver (Generic)
 	- Advanced USB Driver
-		- UsbDk Driver (USB Development Kit Driver)
-		- libusb Driver (Generic Driver Framework)
+		- Option 1: UsbDk Driver (USB Development Kit Driver)
+		- Option 2: libusb Filter Driver
+		- Notes on libusb vs UsbDk (https://github.com/libusb/libusb/wiki/FAQ#user-content-libusborg_libusbxorg_and_libusbinfo)
 - For Vendor USB Interfaces
 	- ADB, Fastboot and Recovery
 		- Vendor USB ADB Interface Driver
