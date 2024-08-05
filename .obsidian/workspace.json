@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizational Planning.md",
+                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"systemd firewalld\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -244,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
+                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
+                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md"
+                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md"
               }
             }
           },
@@ -340,9 +341,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "796dc0b7b267a0ae",
   "lastOpenFiles": [
     "Organizational Planning.md",
+    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "How to read this knowledgebase.md",
     "🤠 Personal/Ideas and References/Data Organization.md",
@@ -368,7 +370,6 @@
     "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
     "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
-    "🗃️ Unorganized/General Notes/What is a codec.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
