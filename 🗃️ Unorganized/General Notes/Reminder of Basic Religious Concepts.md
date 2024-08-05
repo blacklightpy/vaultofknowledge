@@ -6,18 +6,19 @@
 		- Peace along with freedom is guaranteed in coexistence only by discipline
 		- When someone breaks free of the law, they have to be restrained
 	- Detail:
-		- Law enforcement punishes people to prevent crime
-		- Defence forces kill people to prevent crime
-		- Sexuality is restricted culturally to prevent sex addiction and ove
+		- **Law enforcement** punishes people to prevent crime
+		- **Defence forces** kill people to prevent crime
+		- **Sensual intimacy** is restricted to prevent sex addiction and overpopulation
 
-- Existence
+- Nature of Existence
 	- The whirlpool in an ocean thinks it has a separate identity from the ocean
 	- Analogy:
-		- Space is not a region far away from you, you are in the universe, and you are the universe.
-		- This analogy "you are the universe" is not to be taken in a mystical sense
+		- Space is not a region far away from you, but rather, you are in the universe, and you are the universe.
+		- This analogy "you are the universe" is not to be taken in a wondrous or mystical sense
 		- Rather, it is to be taken literally "you ARE the universe" - just think at the subatomic level
 	- Detail:
 		- Universe has a simultaneously definite and flowing structure
 		- So do the oceans, they have a lot of phenomena in it
 	- Appendix:
-		- Space is not just free space, but rather
+		- Space is not just free space, but rather it is descriptive of all the force fields
+		- That is, what we have come to describe as spacetime in GR and quantum fiel
