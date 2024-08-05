@@ -156,7 +156,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to read this knowledgebase.md",
+                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "796dc0b7b267a0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizational Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to read this knowledgebase.md",
+                "file": "Organizational Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to read this knowledgebase.md",
+                "file": "Organizational Planning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -259,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to read this knowledgebase.md"
+                "file": "Organizational Planning.md"
               }
             }
           },
@@ -326,8 +339,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ab56a14c9f06d27c",
+  "active": "796dc0b7b267a0ae",
   "lastOpenFiles": [
+    "Organizational Planning.md",
+    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "How to read this knowledgebase.md",
     "🤠 Personal/Ideas and References/Data Organization.md",
     "🗃️ Unorganized/General Notes/IMEI.md",
@@ -353,8 +368,6 @@
     "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
     "🗃️ Unorganized/General Notes/What is a codec.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Filters.md",
-    "🗃️ Unorganized/General Notes/Pipe and Filter Architecture.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
