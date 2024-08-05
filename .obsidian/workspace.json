@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "desktop",
+                "query": "\"systemd firewalld\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

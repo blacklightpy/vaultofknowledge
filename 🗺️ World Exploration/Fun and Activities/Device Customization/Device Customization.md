@@ -27,6 +27,7 @@ The general components to modify are:
 - Rainmeter Widgets
 ### Desktop Environments
 - xoblite Window Manager
+- Kera Desktop
 ### Custom Applications
 - xplorer File Manager
 - Kando Pie Menu
@@ -39,21 +40,24 @@ The general components to modify are:
 - Kando Pie Menu
 - [[Window Managers]]
 
-# Workflow Customization
+# System Customization
 ## In Microsoft Windows [Proprietary]
 - Sound Enhancement
   - FxSound [Proprietary]
 ## In UNIX-like desktop operating systems
 - Sound Enhancement
-  - Easy Effects
-  - JamesDSP
+	- Option: Easy Effects
+	- Option: JamesDSP
 - Network Management
-  - NetworkManager, iwd, wpa_supplicant
+	- Option: Network Manager (NetworkManager)
+	- Option: iNet Wireless Daemon (iwd)
+	- Option: WPA Supplicant (wpa_supplicant)
 - Firewall Management
-  - systemd-firewalld, ufw
+	- Option: Firewalld by Red Hat
+	- Option: Uncomplicated Firewall (UFW) by Ubuntu
 - Audio Management
-  - PulseAudio, JACK, PipeWire
+	- PulseAudio, JACK, PipeWire
 - Kernel Flags
 - System C Library
 - Package Management
-  - System Package Manager, Flatpak, AppImage, Snapcraft, Plain Binaries
+	- System Package Manager, Flatpak, AppImage, Snapcraft, Plain Binaries
