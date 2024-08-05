@@ -22,16 +22,16 @@ The general components to modify are:
 - Window Management and Workspaces
 
 ## In Microsoft Windows [Proprietary]
-## Widgets
+### Widgets
 - Windows Vista/7 Gadgets (deprecated) [Proprietary]
 - Rainmeter Widgets
-## Desktop Environments
+### Desktop Environments
 - xoblite Window Manager
-## Custom Applications
+### Custom Applications
 - xplorer File Manager
 - Kando Pie Menu
 
-## In UNIX-like desktop operating systems
+### In UNIX-like desktop operating systems
 - EWW
 - AGS Widgets
 - GNOME Extensions

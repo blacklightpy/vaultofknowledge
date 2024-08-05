@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "desktop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,12 +223,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizational Planning.md",
+                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizational Planning.md",
+                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizational Planning.md"
+                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md"
               }
             }
           },
@@ -340,7 +340,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "Organizational Planning.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
