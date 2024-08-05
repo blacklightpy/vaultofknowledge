@@ -1,4 +1,23 @@
 - Principles of Art
+	- In order to create something beautiful, you need to use the eraser
+	- Because art is not about filling the whole paper with all the colours
+	- Because then you'll get black (because of subtractive mixing due to absorption of light)
+	- Analogy:
+		- Peace along with freedom is guaranteed in coexistence only by discipline
+		- When someone breaks free of the law, they have to be restrained
+	- Detail:
+		- Law enforcement punishes people to prevent crime
+		- Defence forces kill people to prevent crime
+		- Sexuality is restricted culturally to prevent sex addiction and ove
 
 - Existence
-	- The whirpool in an 
+	- The whirlpool in an ocean thinks it has a separate identity from the ocean
+	- Analogy:
+		- Space is not a region far away from you, you are in the universe, and you are the universe.
+		- This analogy "you are the universe" is not to be taken in a mystical sense
+		- Rather, it is to be taken literally "you ARE the universe" - just think at the subatomic level
+	- Detail:
+		- Universe has a simultaneously definite and flowing structure
+		- So do the oceans, they have a lot of phenomena in it
+	- Appendix:
+		- Space is not just free space, but rather
