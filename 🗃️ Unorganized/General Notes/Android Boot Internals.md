@@ -1,3 +1,7 @@
+# Rant
+- Things that I hate that they are locked
+	- Radio Firmware
+	- Radio IMEI number
 # Boot Modes
 - Early Boot
 	- Boot ROM Mode (MTK)
