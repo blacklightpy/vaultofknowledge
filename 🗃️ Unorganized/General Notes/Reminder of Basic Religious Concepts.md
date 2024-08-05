@@ -21,4 +21,9 @@
 		- So do the oceans, they have a lot of phenomena in it
 	- Appendix:
 		- Space is not just free space, but rather it is descriptive of all the force fields
-		- That is, what we have come to describe as spacetime in GR and quantum fiel
+		- That is, what we have come to describe as spacetime and quantum fields
+		- According to General Relativity, the curvature of space is called mass
+		- More technically it is described by a **stress-energy-momentum-pressure tensor**
+		- And the quantum field tensors are embedded in such a tensor
+	- Limits of Contemporary Science:
+		- The limits of our knowledge stop us at describing quantum fields in a changing spacetime
