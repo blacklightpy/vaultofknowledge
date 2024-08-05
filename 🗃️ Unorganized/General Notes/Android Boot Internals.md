@@ -363,3 +363,8 @@ Part III I have no option
 Part IV My four sins (Apathy, Denial, Lying)
 
 Wound that isn't dressed.
+
+Players only love you when they're playing
+
+Part X: Why I like to make hydrogen engines
+Cars are not good without drift smoke
