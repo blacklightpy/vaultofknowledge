@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md"
               }
             }
           },
@@ -302,9 +302,10 @@
   },
   "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
+    "🗃️ Unorganized/General Notes/IMEI.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🤠 Personal/Creative and Recreational/Playlists.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
@@ -328,7 +329,6 @@
     "🗃️ Unorganized/General Notes/Pipe and Filter Architecture.md",
     "🗃️ Unorganized/General Notes/Systems and Protocols.md",
     "🗃️ Unorganized/General Notes/How to use a Linux System.md",
-    "🗃️ Unorganized/General Notes/General Design Principles.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",

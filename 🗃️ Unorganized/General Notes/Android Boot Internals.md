@@ -252,7 +252,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to bypass Play Protect
 - Do it with Magisk
 ## How to change IMEI
-- What is [[IMEI]].
+- What is IMEI?: [[IMEI|IMEI]]
 ## How to copy files using ADB
 ## How to backup app data (using ADB?)
 - `adb backup -apk -shared –all –f D:/backup.ab`
