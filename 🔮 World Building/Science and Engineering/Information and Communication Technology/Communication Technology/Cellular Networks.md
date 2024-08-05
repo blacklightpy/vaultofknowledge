@@ -6,7 +6,7 @@ GPRS, WAP, HSPA, HSDPA, EDGE
 [[SIM Cards]]
 
 ## Identification Numbers
-**Phone ID**
+**Phone Modem ID**
 - GSM: IMEI
 - CDMA: MEID
 **SIM ID**

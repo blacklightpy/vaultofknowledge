@@ -130,6 +130,7 @@
 		- The authentication center (AuC) is a function to authenticate each SIM card that attempts to connect to the gsm core network (typically when the phone is powered on). Once the authentication is successful, the HLR is allowed to manage the SIM and services described above. An encryption key is also generated that is subsequently used to encrypt all wireless communications (voice, SMS, etc.) between the mobile phone and the GSM core network.
 		- The Visitor Location Register (VLR) is a database of the MSs (Mobile stations) that have roamed into the jurisdiction of the Mobile Switching Center (MSC) which it serves. Each main base transceiver station in the network is served by exactly one VLR (one BTS may be served by many MSCs in case of MSC in pool), hence a subscriber cannot be present in more than one VLR at a time.
 		- Equipment Identity Register (EIR) is a system that handles real-time requests to check the IMEI (checkIMEI) of mobile devices that come from the switching equipment (MSC, SGSN, MME).
+			- e.g. Citizen Equipment Identity Register (CEIR) in India.
 	- Lawful Intervention
 		- The US law "Communications Assistance for Law Enforcement Act" (CALEA), also known as the "Digital Telephony Act," is a wiretapping law passed in 1994, during the presidency of Bill Clinton. This approach has been adopted by several other countries. The EFF has filed several lawsuits against extending such forms of domestic surveillance.
 # Standards Bodies
