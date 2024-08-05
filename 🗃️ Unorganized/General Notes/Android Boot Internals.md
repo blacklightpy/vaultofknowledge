@@ -1,7 +1,12 @@
 # Rant
 - Things that I hate that they are locked
-	- Radio Firmware
-	- Radio IMEI number
+	- Cellular Radio Firmware
+	- Radio IMEI number (IMEI is hardware, but you spoof it at the software level)
+	- Wi-Fi Radio Firmware
+	- BT Radio Firmware
+	- Camera Firmware
+	- SoC Firmware
+	- Access to System Files
 # Boot Modes
 - Early Boot
 	- Boot ROM Mode (MTK)
