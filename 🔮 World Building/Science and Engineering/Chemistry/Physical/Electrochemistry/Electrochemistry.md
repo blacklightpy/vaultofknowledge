@@ -24,8 +24,12 @@ Terms to know:
 	- POTS
 	- ADSL
 		- BRI (Basic Rate Interface)
-		- PRI (Primar)
+		- PRI (Primary Rate Interface)
 		- X.25
+			- It is an ITU-T protocol for packet switched WAN networks
+			- It uses PSE (Packet Switching Exchange) nodes as its networking hardware
+			- It uses leased lines (private circuits), POTS connections or ISDN connections as its physical links
+			- It was replaced by TCP/IP in the [[protocol wars]], but it is still used in the aviation industry
 
 
 - Circuit Switching
