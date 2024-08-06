@@ -7,13 +7,15 @@
 	- Simpler example
 		- 
 
-
 - Dictionary Attack
 	- Do not call captive women slaves, or yourselves slave owners
 	- But instead, call them "my girl"
 	- But also, know that you have rights over them, and they are not equal to free people
 	- Essentially this is slavery, but it denies any claims that this was slavery
 	- Because this is not uncontrolled slavery, but controlled slavery
+
+- Parable of Relativity
+	- The parable of analogy
 
 
 **My Philosophy** #rough #post
