@@ -78,7 +78,7 @@
 - World Phones: Multi-band and/or multi-mode phones that allow roaming between countries
 - RNC: Radio Network Controller, it is the governing body in the UMTS terrestrial radio access network (UTRAN). It handles radio resource management and mobility management (connection to base stations, or cell towers).
 - Base Station Subsystem: It is the part of a cellular network which is responsible for handling traffic between a mobile phone and a network switching subsystem, like PSTN.
-	- It is comprised of the BTS (Base Transciever Station) and the BSC (Base Station Controller). A later addition to the GSM standard is the Packet Control Unit (PCU).
+	- It is comprised of the BTS (Base Transceiver Station) and the BSC (Base Station Controller). A later addition to the GSM standard is the Packet Control Unit (PCU).
 	- Interfaces include Um, Abis, A, Ater and Gb (Image: https://en.wikipedia.org/wiki/File:Gsm_structures.svg)
 	- Abis - The interface between the BTS and the BSC.
 	- Ater - The interface (usually proprietary, Ater is the name used by Nokia) between the BSC and the transcoder.

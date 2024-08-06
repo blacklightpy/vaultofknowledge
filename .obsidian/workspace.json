@@ -195,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -249,7 +249,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
               }
             }
           },
@@ -368,9 +369,14 @@
   },
   "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+    "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
+    "🤠 Personal/Knowledge/Concepts of Interest.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
+    "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "Electrochemistry",
@@ -383,9 +389,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graphs.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs.md",
-    "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
-    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-    "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
     "🗃️ Unorganized/General Notes/IMEI.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🤠 Personal/Ideas and References/Data Organization.md",
@@ -394,8 +397,6 @@
     "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
     "Organizational Planning.md",
     "How to read this knowledgebase.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
-    "🤠 Personal/Creative and Recreational/Playlists.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",

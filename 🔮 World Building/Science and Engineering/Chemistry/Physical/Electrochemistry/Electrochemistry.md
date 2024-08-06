@@ -7,9 +7,10 @@ Terms to know:
 
 #rough 
 
-Android
-- Backup IMEI
-- Partitions
+- Android
+	- Backup IMEI
+	- Partitions
+	- 
 
 
 - Evolution of Telephone
