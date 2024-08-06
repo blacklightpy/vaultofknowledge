@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -214,9 +214,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76f9de770f77f85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hoberman Sphere.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -284,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/INSAS Rifle.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/INSAS Rifle.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -313,7 +325,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/INSAS Rifle.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -380,12 +392,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "47428cf2bb0b35db",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
+    "🗃️ Unorganized/General Notes/Hoberman Sphere.md",
     "🗃️ Unorganized/General Notes/INSAS Rifle.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-    "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
     "🤠 Personal/Knowledge/Concepts of Interest.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
@@ -409,7 +422,6 @@
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
-    "Organizational Planning.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
