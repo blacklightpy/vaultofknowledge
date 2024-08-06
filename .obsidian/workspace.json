@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54f671a7e3eacd07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -249,11 +262,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -269,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -298,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md"
+                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md"
               }
             }
           },
@@ -365,10 +380,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "20baf755b025f1aa",
+  "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
+    "🗃️ Unorganized/General Notes/Wheatstone Bridge.md",
+    "🗃️ Unorganized/General Notes/Salt Bridge.md",
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Oxidation.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Reduction.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
@@ -392,8 +409,6 @@
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "🤠 Personal/Creative and Recreational/Playlists.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
