@@ -1,3 +1,5 @@
 - Dimensions
 - Spaces
 - Mathematical Structures
+- Abstract Structures (in mathematical logic and philosophy)
+- Abstraction (used in several disciplines)
