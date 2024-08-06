@@ -1,0 +1,1 @@
+A polyhedron is a three dimensional shape with flat polygonal faces, straight edges and sharp corners (vertices).
