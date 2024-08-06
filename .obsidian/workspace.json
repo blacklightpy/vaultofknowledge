@@ -190,19 +190,6 @@
             }
           },
           {
-            "id": "20baf755b025f1aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54f671a7e3eacd07",
             "type": "leaf",
             "state": {
@@ -216,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -381,15 +368,17 @@
   },
   "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
+    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "Electrochemistry",
     "🗃️ Unorganized/General Notes/Wheatstone Bridge.md",
     "🗃️ Unorganized/General Notes/Salt Bridge.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Oxidation.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Reduction.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graph Theory.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graphs.md",
@@ -399,11 +388,9 @@
     "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
     "🗃️ Unorganized/General Notes/IMEI.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
     "🤠 Personal/Ideas and References/Data Organization.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
-    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
     "Organizational Planning.md",
     "How to read this knowledgebase.md",
