@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -236,13 +236,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -258,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -287,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md"
               }
             }
           },
@@ -354,8 +352,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b3c6cc6005f4de06",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
     "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
@@ -380,8 +380,6 @@
     "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Cow Tools.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Test Note X.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
