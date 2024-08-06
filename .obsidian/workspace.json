@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Plane.md",
+                "file": "🗃️ Unorganized/General Notes/Relation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Plane.md",
+                "file": "🗃️ Unorganized/General Notes/Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Plane.md",
+                "file": "🗃️ Unorganized/General Notes/Relation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Plane.md"
+                "file": "🗃️ Unorganized/General Notes/Relation.md"
               }
             }
           },
@@ -420,12 +420,25 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Group Theory.md",
+    "🗃️ Unorganized/General Notes/Algebra.md",
+    "🗃️ Unorganized/General Notes/Abstract Algebra.md",
+    "🗃️ Unorganized/General Notes/Algebraic Structures.md",
+    "🗃️ Unorganized/General Notes/Relation.md",
+    "🗃️ Unorganized/General Notes/Function.md",
+    "🗃️ Unorganized/General Notes/Image.md",
+    "🗃️ Unorganized/General Notes/Curve.md",
+    "🗃️ Unorganized/General Notes/Point.md",
+    "🗃️ Unorganized/General Notes/Line.md",
+    "🗃️ Unorganized/General Notes/Straight.md",
+    "🗃️ Unorganized/General Notes/Osculating Circle.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Radius of Curvature.md",
+    "🗃️ Unorganized/General Notes/Curvature.md",
     "🗃️ Unorganized/General Notes/Flat.md",
+    "🗃️ Unorganized/General Notes/Plane.md",
     "🗃️ Unorganized/General Notes/Space.md",
     "🗃️ Unorganized/General Notes/Euclidian Space.md",
     "🗃️ Unorganized/General Notes/Minkowski Spacetime.md",
-    "🗃️ Unorganized/General Notes/Curvature.md",
-    "🗃️ Unorganized/General Notes/Plane.md",
     "🗃️ Unorganized/General Notes/Polygon.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Polyhedron.md",
     "🗃️ Unorganized/General Notes/Geodesic Polyhedron.md",
@@ -433,19 +446,6 @@
     "🗃️ Unorganized/General Notes/Standards.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Protocol Wars.md",
-    "🗃️ Unorganized/General Notes/Circuit Switched Networks.md",
-    "🗃️ Unorganized/General Notes/Packet Switched Networks.md",
-    "🗃️ Unorganized/General Notes/Figure.md",
-    "🗃️ Unorganized/General Notes/Hoberman Sphere.md",
-    "🗃️ Unorganized/General Notes/INSAS Rifle.md",
-    "🗃️ Unorganized/General Notes/Parables.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-    "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
-    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-    "🤠 Personal/Knowledge/Concepts of Interest.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
-    "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
