@@ -208,7 +208,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -262,8 +262,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -313,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Salt Bridge.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
               }
             }
           },
@@ -382,9 +381,11 @@
   },
   "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "Electrochemistry",
     "🗃️ Unorganized/General Notes/Wheatstone Bridge.md",
     "🗃️ Unorganized/General Notes/Salt Bridge.md",
-    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Oxidation.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Reduction.md",
@@ -408,7 +409,6 @@
     "How to read this knowledgebase.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "🤠 Personal/Creative and Recreational/Playlists.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
@@ -418,7 +418,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts",
     "🗃️ Unorganized/Religions/Hinduism",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/RISC V Core Comparison.avif",
     "_images/Pasted image 20240628022104.png",
