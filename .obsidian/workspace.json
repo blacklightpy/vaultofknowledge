@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Euclidean Geometry.md",
+                "file": "🗃️ Unorganized/General Notes/Non-Euclidean Geometries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Euclidean Geometry.md",
+                "file": "🗃️ Unorganized/General Notes/Non-Euclidean Geometries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Euclidean Geometry.md",
+                "file": "🗃️ Unorganized/General Notes/Non-Euclidean Geometries.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Euclidean Geometry.md"
+                "file": "🗃️ Unorganized/General Notes/Non-Euclidean Geometries.md"
               }
             }
           },
@@ -420,8 +420,16 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Geometry.md",
+    "🗃️ Unorganized/General Notes/Metric Geometry.md",
+    "🗃️ Unorganized/General Notes/Metric Space.md",
+    "🗃️ Unorganized/General Notes/Non-Euclidean Geometries.md",
+    "🗃️ Unorganized/General Notes/Metric.md",
+    "🗃️ Unorganized/General Notes/Element.md",
+    "🗃️ Unorganized/General Notes/Axioms.md",
+    "🗃️ Unorganized/General Notes/Euclid.md",
+    "🗃️ Unorganized/General Notes/Consistency.md",
     "🗃️ Unorganized/General Notes/Euclidean Geometry.md",
+    "🗃️ Unorganized/General Notes/Geometry.md",
     "🗃️ Unorganized/General Notes/Distance.md",
     "🗃️ Unorganized/General Notes/Surface.md",
     "🗃️ Unorganized/General Notes/Mathematics.md",
@@ -438,14 +446,6 @@
     "🗃️ Unorganized/General Notes/Independent Variables.md",
     "🗃️ Unorganized/General Notes/Dependent Variables.md",
     "🗃️ Unorganized/General Notes/Real Numbers.md",
-    "🗃️ Unorganized/General Notes/Angle.md",
-    "🗃️ Unorganized/General Notes/Function.md",
-    "🗃️ Unorganized/General Notes/Relation.md",
-    "🗃️ Unorganized/General Notes/Set.md",
-    "🗃️ Unorganized/General Notes/Element.md",
-    "🗃️ Unorganized/General Notes/Domain.md",
-    "🗃️ Unorganized/General Notes/Group Theory.md",
-    "🗃️ Unorganized/General Notes/Algebra.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
