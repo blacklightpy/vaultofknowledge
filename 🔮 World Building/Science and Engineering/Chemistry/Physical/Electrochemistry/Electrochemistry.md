@@ -21,6 +21,11 @@ Terms to know:
 	- Technology
 		- Carbon Microphones (converts speech to signal)
 	- Commercialization
+	- POTS
+	- ADSL
+		- BRI (Basic Rate Interface)
+		- PRI (Primar)
+		- X.25
 
 
 - Circuit Switching
