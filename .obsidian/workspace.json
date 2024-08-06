@@ -201,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47428cf2bb0b35db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/INSAS Rifle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -271,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/INSAS Rifle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/INSAS Rifle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -300,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🗃️ Unorganized/General Notes/INSAS Rifle.md"
               }
             }
           },
@@ -367,8 +380,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "47428cf2bb0b35db",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/INSAS Rifle.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
     "🤠 Personal/Knowledge/Concepts of Interest.md",
@@ -376,7 +391,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "Electrochemistry",
@@ -396,7 +410,6 @@
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
     "Organizational Planning.md",
-    "How to read this knowledgebase.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
