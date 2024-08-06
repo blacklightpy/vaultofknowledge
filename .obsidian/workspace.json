@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -285,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md"
               }
             }
           },
@@ -352,10 +352,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "b3c6cc6005f4de06",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graph Theory.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graphs.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory.md",
     "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
@@ -378,8 +381,6 @@
     "🗃️ Unorganized/General Notes/Parables.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/How to modify Google's ADB Driver.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
-    "🗃️ Unorganized/General Notes/Cow Tools.md",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
@@ -390,7 +391,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts",
     "🗃️ Unorganized/Religions/Hinduism",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)",
     "_images/Shamanistic Exorcism Ritual.png",
     "_images/RISC V Core Comparison.avif",
     "_images/Pasted image 20240628022104.png",
