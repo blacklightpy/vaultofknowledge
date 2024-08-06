@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Expression.md",
+                "file": "🗃️ Unorganized/General Notes/Communication.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Expression.md",
+                "file": "🗃️ Unorganized/General Notes/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Expression.md",
+                "file": "🗃️ Unorganized/General Notes/Communication.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -352,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Expression.md"
+                "file": "🗃️ Unorganized/General Notes/Communication.md"
               }
             }
           },
@@ -421,6 +421,13 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Human Communication.md",
+    "🗃️ Unorganized/General Notes/Communication.md",
+    "🗃️ Unorganized/General Notes/Oral Traditions.md",
+    "🗃️ Unorganized/General Notes/Philology.md",
+    "🗃️ Unorganized/General Notes/Historical Sources.md",
+    "🗃️ Unorganized/General Notes/Etymology.md",
+    "🗃️ Unorganized/General Notes/Traditional Grammar.md",
     "🗃️ Unorganized/General Notes/Sentence.md",
     "🗃️ Unorganized/General Notes/Expression.md",
     "🗃️ Unorganized/General Notes/Subject.md",
@@ -440,13 +447,6 @@
     "🗃️ Unorganized/General Notes/Field.md",
     "🗃️ Unorganized/General Notes/Exterior Algebra.md",
     "🗃️ Unorganized/General Notes/Vector Space.md",
-    "🗃️ Unorganized/General Notes/Minkowski Model.md",
-    "🗃️ Unorganized/General Notes/Vector.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🗃️ Unorganized/General Notes/Hyperbolic Geometry.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Special Relativity 1.md",
-    "🗃️ Unorganized/General Notes/Playfair's Axiom.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
