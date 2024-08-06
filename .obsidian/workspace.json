@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/IMEI.md",
+                "file": "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -176,8 +176,7 @@
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
+                "file": "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
+                "file": "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -274,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md"
+                "file": "🗃️ Unorganized/General Notes/Circuit Switched Data.md"
               }
             }
           },
@@ -341,24 +340,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "796dc0b7b267a0ae",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
-    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
-    "Organizational Planning.md",
-    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
-    "How to read this knowledgebase.md",
-    "🤠 Personal/Ideas and References/Data Organization.md",
-    "🗃️ Unorganized/General Notes/IMEI.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+    "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
+    "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
+    "🗃️ Unorganized/General Notes/IMEI.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
+    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
+    "🤠 Personal/Ideas and References/Data Organization.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
+    "🗃️ Unorganized/General Notes/Muslim Mentality.md",
+    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/QM vs GR.md",
+    "Organizational Planning.md",
+    "How to read this knowledgebase.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Cellular Networks.md",
     "🤠 Personal/Creative and Recreational/Playlists.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
-    "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Parables.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
@@ -368,8 +369,6 @@
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Test Note X.md",
     "_images/adfsdfads.jpg",
-    "🗃️ Unorganized/General Notes/Back when I didn't know which SD Card fit into which adapter.md",
-    "🗃️ Unorganized/General Notes/Problem in Software under Capitalism.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",

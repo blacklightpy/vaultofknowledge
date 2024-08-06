@@ -112,9 +112,9 @@
 	- It is the core network architecture of the mobile communication protocol group 3GPP's LTE Wireless standard.
 	- It supports mobility between other networks, such as E-UTRAN, GERAN, UTRAN, and even non-3GPP networks like Wi-Fi, WiMAX or CDMA2000.
 - NSS: Network Switching Subsystem is the component of a GSM system that carries out call out and mobility management functions for mobile phones roaming on the network of base stations.
-	- It is owned and deployed by mobile phone operators and allows mobile devices to communicate with each other and telephones in the wider public switched telephone network (PSTN)
+	- It is owned and deployed by mobile phone operators and allows mobile devices to communicate with each other and telephones in the wider [[Public Switched Telephone Network]] (PSTN)
 	- The NSS architecture specifically is for "mobile" devices and contains features specific for them.
-	- The NSS originally consisted of the GSM core network, which allowed for calls, SMS and Circuit Switched Data (CSD) calls.
+	- The NSS originally consisted of the GSM core network, which allowed for calls, SMS and [[Circuit Switched Data]] (CSD) calls.
 	- It was extended with an overlay architecture to provide packet-switched data services known as the GPRS Core Network. This allowed to have access to WAP, MMS and the Internet.
 	- Parts of the NSS
 		- The mobile switching center (MSC) is the primary service delivery node for GSM/CDMA, responsible for routing voice calls and SMS as well as other services (such as conference calls, FAX, and circuit-switched data).
@@ -130,7 +130,7 @@
 		- The authentication center (AuC) is a function to authenticate each SIM card that attempts to connect to the gsm core network (typically when the phone is powered on). Once the authentication is successful, the HLR is allowed to manage the SIM and services described above. An encryption key is also generated that is subsequently used to encrypt all wireless communications (voice, SMS, etc.) between the mobile phone and the GSM core network.
 		- The Visitor Location Register (VLR) is a database of the MSs (Mobile stations) that have roamed into the jurisdiction of the Mobile Switching Center (MSC) which it serves. Each main base transceiver station in the network is served by exactly one VLR (one BTS may be served by many MSCs in case of MSC in pool), hence a subscriber cannot be present in more than one VLR at a time.
 		- Equipment Identity Register (EIR) is a system that handles real-time requests to check the IMEI (checkIMEI) of mobile devices that come from the switching equipment (MSC, SGSN, MME).
-		- The Central Equipment Identity Register (CEIR) maintains the whitelists, blacklists and greylists and periodically transmits them to the local carrier network EIR nodes
+		- The Central Equipment Identity Register (CEIR) maintains the whitelists, blacklists and greylists and periodically transmits them to the local carrier network EIR nodes.
 	- Lawful Intervention
 		- The US law "Communications Assistance for Law Enforcement Act" (CALEA), also known as the "Digital Telephony Act," is a wiretapping law passed in 1994, during the presidency of Bill Clinton. This approach has been adopted by several other countries. The EFF has filed several lawsuits against extending such forms of domestic surveillance.
 # Standards Bodies

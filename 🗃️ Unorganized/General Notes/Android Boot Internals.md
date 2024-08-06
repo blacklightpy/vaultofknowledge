@@ -169,11 +169,13 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 ## How to dump firmware
 - NANDroid Backup
 - Dump it with SoC Tooling (MTKClient)
-## How to unlock bootloader
+## How to unlock bootloader 
 - Method 1: Use SoC tooling to unlock bootloader by using exploits
 	- e.g. MTKClient (erase data first), MTK Booloader Unlocker (doesn't lose data)
 - Method 2: Use official tooling to unlock bootloader
 	- e.g. Xiaomi Mi Unlock Tool (lose data + wait 1 week)
+- Method 3: Obtain official unlock code and unlock via fastboot
+	- e.g. Contact Infinix Service Center
 ## How to bypass encryption
 - DM-Verity
 	- It's a Linux kernel security feature to verify if a block read from a block device contains a specific hash.

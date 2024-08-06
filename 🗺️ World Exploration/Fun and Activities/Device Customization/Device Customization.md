@@ -32,14 +32,27 @@ The general components to modify are:
 - xplorer File Manager
 - Kando Pie Menu
 
-### In UNIX-like desktop operating systems
+## In UNIX-like desktop operating systems
 - EWW
 - AGS Widgets
 - GNOME Extensions
 - Plasma Addons
 - Kando Pie Menu
 - [[Window Managers]]
-
+## In Android
+- Custom Recovery
+	- TWRP
+	- OFRP
+	- PBRP
+	- SHRP
+	- RWRP
+- Android Distribution
+	- Lineage OS
+	- Resurrection Remix (deprecated)
+	- Havoc OS
+	- Cherish OS
+	- Project Matrixx
+- KWGT Widgets [Proprietary]
 # System Customization
 ## In Microsoft Windows [Proprietary]
 - Sound Enhancement
