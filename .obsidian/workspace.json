@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md",
+                "file": "🗃️ Unorganized/General Notes/Dependent Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md",
+                "file": "🗃️ Unorganized/General Notes/Dependent Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md",
+                "file": "🗃️ Unorganized/General Notes/Dependent Variables.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md"
+                "file": "🗃️ Unorganized/General Notes/Dependent Variables.md"
               }
             }
           },
@@ -420,12 +420,20 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Independent Variables.md",
+    "🗃️ Unorganized/General Notes/Dependent Variables.md",
+    "🗃️ Unorganized/General Notes/Argument.md",
+    "🗃️ Unorganized/General Notes/Real Numbers.md",
+    "🗃️ Unorganized/General Notes/Angle.md",
+    "🗃️ Unorganized/General Notes/Function.md",
+    "🗃️ Unorganized/General Notes/Relation.md",
+    "🗃️ Unorganized/General Notes/Set.md",
+    "🗃️ Unorganized/General Notes/Element.md",
+    "🗃️ Unorganized/General Notes/Domain.md",
     "🗃️ Unorganized/General Notes/Group Theory.md",
     "🗃️ Unorganized/General Notes/Algebra.md",
     "🗃️ Unorganized/General Notes/Abstract Algebra.md",
     "🗃️ Unorganized/General Notes/Algebraic Structures.md",
-    "🗃️ Unorganized/General Notes/Relation.md",
-    "🗃️ Unorganized/General Notes/Function.md",
     "🗃️ Unorganized/General Notes/Image.md",
     "🗃️ Unorganized/General Notes/Curve.md",
     "🗃️ Unorganized/General Notes/Point.md",
@@ -438,14 +446,6 @@
     "🗃️ Unorganized/General Notes/Plane.md",
     "🗃️ Unorganized/General Notes/Space.md",
     "🗃️ Unorganized/General Notes/Euclidian Space.md",
-    "🗃️ Unorganized/General Notes/Minkowski Spacetime.md",
-    "🗃️ Unorganized/General Notes/Polygon.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Polyhedron.md",
-    "🗃️ Unorganized/General Notes/Geodesic Polyhedron.md",
-    "🗃️ Unorganized/General Notes/Shape.md",
-    "🗃️ Unorganized/General Notes/Standards.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🗃️ Unorganized/General Notes/Protocol Wars.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
