@@ -4,3 +4,5 @@ Terms to know:
 - Nernst Equation
 - Faraday's Constant
 - Electrostatic Potential
+
+#rough 
