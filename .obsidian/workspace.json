@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Associative Algebra.md",
+                "file": "🗃️ Unorganized/General Notes/Expression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Associative Algebra.md",
+                "file": "🗃️ Unorganized/General Notes/Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Associative Algebra.md",
+                "file": "🗃️ Unorganized/General Notes/Expression.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -352,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Associative Algebra.md"
+                "file": "🗃️ Unorganized/General Notes/Expression.md"
               }
             }
           },
@@ -421,8 +421,24 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Exterior Algebra.md",
+    "🗃️ Unorganized/General Notes/Sentence.md",
+    "🗃️ Unorganized/General Notes/Expression.md",
+    "🗃️ Unorganized/General Notes/Subject.md",
+    "🗃️ Unorganized/General Notes/Predicate.md",
+    "🗃️ Unorganized/General Notes/Valency.md",
+    "🗃️ Unorganized/General Notes/Arity.md",
+    "🗃️ Unorganized/General Notes/Linguistics.md",
+    "🗃️ Unorganized/General Notes/Operation.md",
+    "🗃️ Unorganized/General Notes/Binary Operation.md",
+    "🗃️ Unorganized/General Notes/Identity Element.md",
+    "🗃️ Unorganized/General Notes/Multiplication.md",
+    "🗃️ Unorganized/General Notes/Addition.md",
+    "🗃️ Unorganized/General Notes/Ring Homomorphism.md",
     "🗃️ Unorganized/General Notes/Associative Algebra.md",
+    "🗃️ Unorganized/General Notes/Commutative Ring.md",
+    "🗃️ Unorganized/General Notes/Ring.md",
+    "🗃️ Unorganized/General Notes/Field.md",
+    "🗃️ Unorganized/General Notes/Exterior Algebra.md",
     "🗃️ Unorganized/General Notes/Vector Space.md",
     "🗃️ Unorganized/General Notes/Minkowski Model.md",
     "🗃️ Unorganized/General Notes/Vector.md",
@@ -431,22 +447,6 @@
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Special Relativity.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Special Relativity 1.md",
     "🗃️ Unorganized/General Notes/Playfair's Axiom.md",
-    "🗃️ Unorganized/General Notes/Non-Euclidean Geometries.md",
-    "🗃️ Unorganized/General Notes/Affine Geometry.md",
-    "🗃️ Unorganized/General Notes/Parallel Lines.md",
-    "🗃️ Unorganized/General Notes/Parallelism.md",
-    "🗃️ Unorganized/General Notes/Parallel Curves.md",
-    "🗃️ Unorganized/General Notes/Skew Lines.md",
-    "🗃️ Unorganized/General Notes/Intersection.md",
-    "🗃️ Unorganized/General Notes/Metric Geometry.md",
-    "🗃️ Unorganized/General Notes/Metric Space.md",
-    "🗃️ Unorganized/General Notes/Metric.md",
-    "🗃️ Unorganized/General Notes/Element.md",
-    "🗃️ Unorganized/General Notes/Axioms.md",
-    "🗃️ Unorganized/General Notes/Euclid.md",
-    "🗃️ Unorganized/General Notes/Consistency.md",
-    "🗃️ Unorganized/General Notes/Euclidean Geometry.md",
-    "🗃️ Unorganized/General Notes/Geometry.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
