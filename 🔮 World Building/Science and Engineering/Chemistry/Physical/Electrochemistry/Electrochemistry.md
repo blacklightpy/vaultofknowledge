@@ -17,6 +17,8 @@ Android
 		- Experiments by Robert Hook
 		- Earlier artifacts from Chimu in Peru
 	- Invention
+	- Technology
+		- Carbon Microphones (converts speech to signal)
 	- Commercialization
 
 
