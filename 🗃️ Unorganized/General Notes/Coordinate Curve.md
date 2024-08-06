@@ -1,0 +1,1 @@
+Given a [[Coordinate System]], if one of the coordinates of a point varies while the other coordinates are held constant, then the resulting curve is called a coordinate curve.
