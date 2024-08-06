@@ -1,0 +1,1 @@
+They are coplanar infinite straight [[line|lines]] that do not [[Intersection|intersect]] at any point.
