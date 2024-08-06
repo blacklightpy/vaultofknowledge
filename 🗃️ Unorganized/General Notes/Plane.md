@@ -1,0 +1,1 @@
+A plane is a two dimensional or [[flat]] [[surface]] that extends indefinitely.

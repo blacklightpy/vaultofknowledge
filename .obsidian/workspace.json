@@ -229,12 +229,25 @@
             }
           },
           {
-            "id": "e0a62fd5e7064c2f",
+            "id": "7277a98933aba0aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Shape.md",
+                "file": "🗃️ Unorganized/General Notes/Polygon.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fad2e6d11cf20a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Plane.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -242,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -309,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Plane.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -338,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🗃️ Unorganized/General Notes/Plane.md"
               }
             }
           },
@@ -405,19 +418,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Flat.md",
+    "🗃️ Unorganized/General Notes/Space.md",
+    "🗃️ Unorganized/General Notes/Euclidian Space.md",
+    "🗃️ Unorganized/General Notes/Minkowski Spacetime.md",
+    "🗃️ Unorganized/General Notes/Curvature.md",
+    "🗃️ Unorganized/General Notes/Plane.md",
+    "🗃️ Unorganized/General Notes/Polygon.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Polyhedron.md",
+    "🗃️ Unorganized/General Notes/Geodesic Polyhedron.md",
+    "🗃️ Unorganized/General Notes/Shape.md",
+    "🗃️ Unorganized/General Notes/Standards.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Protocol Wars.md",
     "🗃️ Unorganized/General Notes/Circuit Switched Networks.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Packet Switched Networks.md",
-    "🗃️ Unorganized/General Notes/Shape.md",
     "🗃️ Unorganized/General Notes/Figure.md",
-    "🗃️ Unorganized/General Notes/Geodesic Polyhedron.md",
     "🗃️ Unorganized/General Notes/Hoberman Sphere.md",
     "🗃️ Unorganized/General Notes/INSAS Rifle.md",
     "🗃️ Unorganized/General Notes/Parables.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Polyhedron.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Circuit Switched Data.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
@@ -425,15 +446,7 @@
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🗃️ Unorganized/General Notes/Public Switched Telephone Network.md",
-    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
-    "🗃️ Unorganized/General Notes/Electrochemical Potential.md",
-    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "Electrochemistry",
-    "🗃️ Unorganized/General Notes/Wheatstone Bridge.md",
-    "🗃️ Unorganized/General Notes/Salt Bridge.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Redox Reactions.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Oxidation.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Reduction.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
