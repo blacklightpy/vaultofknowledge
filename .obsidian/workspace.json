@@ -245,8 +245,13 @@
             "id": "7fad2e6d11cf20a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Projection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -318,6 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,6 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Projection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -344,7 +351,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Projection.md"
+              }
             }
           },
           {
@@ -412,6 +421,8 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Cartesian Product.md",
+    "🗃️ Unorganized/General Notes/Projection.md",
     "🗃️ Unorganized/General Notes/Relation.md",
     "🗃️ Unorganized/General Notes/Notations of Operations.md",
     "🗃️ Unorganized/General Notes/Shape.md",
@@ -436,8 +447,6 @@
     "🗃️ Unorganized/General Notes/Randomness.md",
     "🗃️ Unorganized/General Notes/Information.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
-    "🗃️ Unorganized/General Notes/Communication.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Thinking About How to Convery Information.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
