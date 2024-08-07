@@ -1,0 +1,1 @@
+Semiotics is the study of [[sign process|sign processes]] and the communication of [[meaning]].
