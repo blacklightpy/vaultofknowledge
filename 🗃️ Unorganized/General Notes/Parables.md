@@ -19,6 +19,7 @@
 
 - Parable of Deceit #rough
 	- People tend to believe wrong things until they hit a hard disagreement
+	- This is because they were given religion at a young age, and with that, they forget that they had a natural inclination to do good things. 
 	- This is because truths are not completely known in reality
 	- And some things are not even in the space of dichotomies
 	- And when the brain accepts many things from a set of concepts as true and neutral, it is likely to gloss over the fact that some of these concepts are false or evil

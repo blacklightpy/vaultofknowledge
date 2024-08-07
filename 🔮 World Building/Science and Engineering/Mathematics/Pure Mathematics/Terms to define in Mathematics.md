@@ -5,5 +5,5 @@
 - Abstraction (used in several disciplines)
 - Hypostatic Abstraction (in mathematical logic)
 	- Formal Operation
-	- Predicate
+	- [[Predicate]]
 	- Relation

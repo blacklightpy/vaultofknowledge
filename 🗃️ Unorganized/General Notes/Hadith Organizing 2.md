@@ -12,6 +12,7 @@
 Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn Majah are considered to be the most authentic.  - http://iswy.co/e4cmq
 
 - The Comprehensive Library (Maktabah Shamilah) - http://shamela.ws
+- [[About Da'if Hadiths]]
 # Situations
 - Child Marriage
 	- Aisha's Age

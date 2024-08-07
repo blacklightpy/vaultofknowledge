@@ -1,4 +1,4 @@
-Basically, they do things that are considered good just because
+Basically, they do things that are considered good just because Mohammed told them to do so, and forget that they had a natural reason to do them. As an effect of that, they also justify harmful things that Mohammed asked them to do.
 
 - Why are you good in this cruel world? Because Rasul Allah said: "The best among you are those who have the best manners"
 - Do not points weapons at your Muslim brother, because Shaytan may cause it to slip and injure him to cause enmity between friends (Sahih Muslim 2617, https://www.instagram.com/reel/Cz2-TA3r3NT/)

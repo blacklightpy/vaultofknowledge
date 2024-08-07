@@ -16,4 +16,4 @@ Here, Muslims claim that Islam didn't increase slavery, but rather, it only took
 
 More sensibly, it only conveys that those who believe this are people with no self control, and can't prevent having sex to the point that they have to steal women for sex, so much so that Islam had to be created where women go from being sex slaves to "concubines who are lawful for having sex with" provided consent is provided (with ambiguity on whether consent is obtained meaningfully - with one major example being that silence means "yes").
 
-- Converting to Islam after seeing peach juice dripping from the face of a French Jewish nudist
+- Example: Converting to Islam after seeing peach juice dripping from the face of a French Jewish nudist (Timothy Winters, now a Sheik)
