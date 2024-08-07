@@ -245,13 +245,8 @@
             "id": "7fad2e6d11cf20a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -323,7 +318,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +334,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -351,9 +344,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Relation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -421,8 +412,9 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Shape.md",
     "🗃️ Unorganized/General Notes/Relation.md",
+    "🗃️ Unorganized/General Notes/Notations of Operations.md",
+    "🗃️ Unorganized/General Notes/Shape.md",
     "🗃️ Unorganized/General Notes/Ordered Pairs.md",
     "🗃️ Unorganized/General Notes/Unordered Pairs.md",
     "🗃️ Unorganized/General Notes/Sign.md",
@@ -446,7 +438,6 @@
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Communication.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/Thinking About How to Convery Information.md",
-    "🗃️ Unorganized/General Notes/Human Communication.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
