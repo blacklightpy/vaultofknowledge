@@ -1,0 +1,1 @@
+In [[electronic design]], a netlist is a list of the connectivity of an [[electronic circuit]]

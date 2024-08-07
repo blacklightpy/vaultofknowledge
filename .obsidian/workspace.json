@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Projection.md",
+                "file": "🗃️ Unorganized/General Notes/Path.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -301,8 +301,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -323,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Projection.md",
+                "file": "🗃️ Unorganized/General Notes/Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Projection.md",
+                "file": "🗃️ Unorganized/General Notes/Path.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -352,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Projection.md"
+                "file": "🗃️ Unorganized/General Notes/Path.md"
               }
             }
           },
@@ -421,8 +420,16 @@
   },
   "active": "7fad2e6d11cf20a2",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Cartesian Product.md",
+    "🗃️ Unorganized/General Notes/Circuit.md",
+    "🗃️ Unorganized/General Notes/Path.md",
+    "🗃️ Unorganized/General Notes/Netlist.md",
+    "🗃️ Unorganized/General Notes/Electronic Design.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Electronic Design Automation.md",
+    "🗃️ Unorganized/General Notes/Electric Circuit.md",
+    "🗃️ Unorganized/General Notes/Cockcroft-Walton Generator.md",
+    "🗃️ Unorganized/General Notes/Voltage Multiplier.md",
     "🗃️ Unorganized/General Notes/Projection.md",
+    "🗃️ Unorganized/General Notes/Cartesian Product.md",
     "🗃️ Unorganized/General Notes/Relation.md",
     "🗃️ Unorganized/General Notes/Notations of Operations.md",
     "🗃️ Unorganized/General Notes/Shape.md",
@@ -439,14 +446,6 @@
     "🗃️ Unorganized/General Notes/Future.md",
     "🔮 World Building/Philosophy/Presentism.md",
     "🗃️ Unorganized/General Notes/Time.md",
-    "🗃️ Unorganized/General Notes/Past.md",
-    "🗃️ Unorganized/General Notes/Present.md",
-    "🗃️ Unorganized/General Notes/Prediction.md",
-    "🗃️ Unorganized/General Notes/Predictability.md",
-    "🗃️ Unorganized/General Notes/Forecast.md",
-    "🗃️ Unorganized/General Notes/Randomness.md",
-    "🗃️ Unorganized/General Notes/Information.md",
-    "🗃️ Unorganized/General Notes/Abstractions.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

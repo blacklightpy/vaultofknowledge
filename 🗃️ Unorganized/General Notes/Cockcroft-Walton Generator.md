@@ -1,0 +1,1 @@
+The Cockcroft-Walton (CW) generator or multiplier is an [[electric circuit]] that generates a high DC voltage from a low-voltage AC supply.
