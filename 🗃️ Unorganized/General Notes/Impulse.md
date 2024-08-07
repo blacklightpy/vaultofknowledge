@@ -1,4 +1,4 @@
-Impulse is the change in momentum caused by a [[Force]].
+Impulse is the change in momentum caused by a [[Force - my philosophy]].
 
 Impulse is also the time integral of force.
 

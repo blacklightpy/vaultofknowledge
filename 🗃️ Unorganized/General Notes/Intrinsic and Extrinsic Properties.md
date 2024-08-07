@@ -1,0 +1,2 @@
+- [[Intrinsic Property]]
+- [[Extrinsic Property]]

@@ -1,0 +1,2 @@
+- [[Intensive Property]]
+- [[Extensive Property]]

@@ -1,0 +1,1 @@
+A thyristor is a

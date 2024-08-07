@@ -253,9 +253,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fc33140bda7b843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Djikstra's Algorithm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "080622ebcc656517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Ataturk.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d098e1d291aa5242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -301,7 +340,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -322,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Path.md",
+                "file": "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Path.md",
+                "file": "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Path.md"
+                "file": "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md"
               }
             }
           },
@@ -418,34 +458,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7fad2e6d11cf20a2",
+  "active": "d098e1d291aa5242",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Circuit.md",
-    "🗃️ Unorganized/General Notes/Path.md",
-    "🗃️ Unorganized/General Notes/Netlist.md",
-    "🗃️ Unorganized/General Notes/Electronic Design.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Electronics Design Automation/Electronic Design Automation.md",
-    "🗃️ Unorganized/General Notes/Electric Circuit.md",
-    "🗃️ Unorganized/General Notes/Cockcroft-Walton Generator.md",
-    "🗃️ Unorganized/General Notes/Voltage Multiplier.md",
-    "🗃️ Unorganized/General Notes/Projection.md",
-    "🗃️ Unorganized/General Notes/Cartesian Product.md",
-    "🗃️ Unorganized/General Notes/Relation.md",
-    "🗃️ Unorganized/General Notes/Notations of Operations.md",
-    "🗃️ Unorganized/General Notes/Shape.md",
-    "🗃️ Unorganized/General Notes/Ordered Pairs.md",
-    "🗃️ Unorganized/General Notes/Unordered Pairs.md",
-    "🗃️ Unorganized/General Notes/Sign.md",
-    "🗃️ Unorganized/General Notes/Sign Process.md",
-    "🗃️ Unorganized/General Notes/Symptom.md",
-    "🗃️ Unorganized/General Notes/Objectivity.md",
-    "🗃️ Unorganized/General Notes/Semiotics.md",
-    "🗃️ Unorganized/General Notes/Meaning.md",
-    "🗃️ Unorganized/General Notes/Polysemy.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Future.md",
-    "🔮 World Building/Philosophy/Presentism.md",
-    "🗃️ Unorganized/General Notes/Time.md",
+    "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
+    "🗃️ Unorganized/General Notes/Ataturk.md",
+    "🗃️ Unorganized/General Notes/Outlines in Wikipedia.md",
+    "🗃️ Unorganized/General Notes/Academic Disciplines.md",
+    "🗃️ Unorganized/General Notes/Television.md",
+    "🗃️ Unorganized/General Notes/Music.md",
+    "🗃️ Unorganized/General Notes/Science.md",
+    "🤠 Personal/Knowledge/Music.md",
+    "🗃️ Unorganized/General Notes/Social Science.md",
+    "🗃️ Unorganized/General Notes/Formal Science.md",
+    "🗃️ Unorganized/General Notes/Earth Science.md",
+    "🗃️ Unorganized/General Notes/Physical Science.md",
+    "🗃️ Unorganized/General Notes/Natural Science.md",
+    "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Mechanical Engineering.md",
+    "🗃️ Unorganized/General Notes/Technology.md",
+    "🗃️ Unorganized/General Notes/Robotics.md",
+    "🗃️ Unorganized/General Notes/Technology - my philosophy.md",
+    "🗃️ Unorganized/General Notes/Machine.md",
+    "🗃️ Unorganized/General Notes/Automation.md",
+    "🔮 World Building/Philosophy/Automation - my philosophy.md",
+    "🗃️ Unorganized/General Notes/Force - my philosophy.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Classical Mechanics.md",
+    "🗃️ Unorganized/General Notes/Mass.md",
+    "🗃️ Unorganized/General Notes/Extrinsic Property.md",
+    "🗃️ Unorganized/General Notes/Intrinsic and Extrinsic Properties.md",
+    "🗃️ Unorganized/General Notes/Intrinsic Property.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

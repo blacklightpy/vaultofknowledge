@@ -19,7 +19,7 @@ People will be interested in new technology that **actually** serves a purpose t
 
 **[REFACTOR ARTICLE BY REFERRING THE SUMMARY TO DISTINGUISH BETWEEN "ARTISTIC" AND "DIFFERENT"]**.
 
-Then it becomes more of an art piece than just a useful technology. (See my definition of technology [[Technology]], where you can see that it is a word that means "a form or work of art", which can also be "useful".)
+Then it becomes more of an art piece than just a useful technology. (See my definition of technology [[Technology - my philosophy]], where you can see that it is a word that means "a form or work of art", which can also be "useful".)
 
 What capitalism encourages is forcing people to buy new art pieces because they are the "new technology", and "old technology" is outdated.
 

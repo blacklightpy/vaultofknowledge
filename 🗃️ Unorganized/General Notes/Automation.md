@@ -1,0 +1,1 @@
+See outline of automation on Wikipedia
