@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md"
+                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md"
               }
             }
           },
@@ -445,8 +445,9 @@
   },
   "active": "e333346cdb581c6e",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+    "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
+    "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Avram Noam Chomsky.md",
     "🗃️ Unorganized/General Notes/Universal Grammar.md",
     "🗃️ Unorganized/General Notes/Computational Linguistics.md",
@@ -470,7 +471,6 @@
     "🗃️ Unorganized/General Notes/Subject.md",
     "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
     "🗃️ Unorganized/General Notes/Chomsky Normal Form.md",
-    "🗃️ Unorganized/General Notes/Lexicon.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
