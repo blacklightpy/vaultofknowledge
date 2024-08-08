@@ -286,7 +286,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Reason.md",
+                "file": "🗃️ Unorganized/General Notes/Perturbation Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -362,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Reason.md",
+                "file": "🗃️ Unorganized/General Notes/Perturbation Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Reason.md",
+                "file": "🗃️ Unorganized/General Notes/Perturbation Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -391,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Reason.md"
+                "file": "🗃️ Unorganized/General Notes/Perturbation Theory.md"
               }
             }
           },
@@ -459,6 +459,8 @@
   },
   "active": "97c4b97d5a8204f9",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Reason.md",
+    "🗃️ Unorganized/General Notes/Perturbation Theory.md",
     "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
     "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
@@ -470,7 +472,6 @@
     "🗃️ Unorganized/General Notes/Logic.md",
     "🗃️ Unorganized/General Notes/Reasoning.md",
     "🗃️ Unorganized/General Notes/Rationality.md",
-    "🗃️ Unorganized/General Notes/Reason.md",
     "🗃️ Unorganized/General Notes/Truth.md",
     "🗃️ Unorganized/General Notes/Reality.md",
     "🗃️ Unorganized/General Notes/Existence.md",
@@ -484,7 +485,6 @@
     "🗃️ Unorganized/General Notes/Object.md",
     "🗃️ Unorganized/General Notes/Subject.md",
     "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
-    "🗃️ Unorganized/General Notes/Chomsky Normal Form.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
