@@ -214,9 +214,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "babf722d56a1fd8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53f2331ad753c4a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -262,8 +288,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Erlang.md",
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Erlang.md",
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -313,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Erlang.md"
+                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md"
               }
             }
           },
@@ -380,10 +405,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "78d927b4a11fd127",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Concurrency.md",
+    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+    "🗃️ Unorganized/General Notes/Differential Signalling.md",
+    "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
+    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
+    "🗃️ Unorganized/General Notes/Digital Subscriber Line.md",
     "🗃️ Unorganized/General Notes/Erlang.md",
+    "🗃️ Unorganized/General Notes/Concurrency.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Welding.md",
     "🗃️ Unorganized/General Notes/Signalling System 7.md",
@@ -402,12 +433,6 @@
     "How to read this knowledgebase.md",
     "🤠 Personal/Ideas and References/Wikipedia Organization.md",
     "🗃️ Unorganized/General Notes/Outlines in Wikipedia.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/About Da'if Hadiths.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Cow Tools.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
