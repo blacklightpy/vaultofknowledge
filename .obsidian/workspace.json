@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lexicon.md",
+                "file": "🗃️ Unorganized/General Notes/Computational Linguistics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lexicon.md",
+                "file": "🗃️ Unorganized/General Notes/Computational Linguistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lexicon.md",
+                "file": "🗃️ Unorganized/General Notes/Computational Linguistics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lexicon.md"
+                "file": "🗃️ Unorganized/General Notes/Computational Linguistics.md"
               }
             }
           },
@@ -445,9 +445,14 @@
   },
   "active": "e333346cdb581c6e",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Lexeme.md",
-    "🗃️ Unorganized/General Notes/Lexicon.md",
+    "🗃️ Unorganized/General Notes/Universal Grammar.md",
+    "🗃️ Unorganized/General Notes/Computational Linguistics.md",
+    "🗃️ Unorganized/General Notes/Avram Noam Chomsky.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+    "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
+    "🗃️ Unorganized/General Notes/Chomsky Normal Form.md",
+    "🗃️ Unorganized/General Notes/Lexicon.md",
+    "🗃️ Unorganized/General Notes/Lexeme.md",
     "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
     "🗃️ Unorganized/General Notes/Universal Language.md",
@@ -466,11 +471,6 @@
     "🗃️ Unorganized/General Notes/Bodymind.md",
     "🗃️ Unorganized/General Notes/Similar Words in Arabic and Hebrew.md",
     "🗃️ Unorganized/General Notes/Cheating.md",
-    "🗃️ Unorganized/General Notes/Impulse.md",
-    "🗃️ Unorganized/General Notes/Erlang.md",
-    "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
-    "🗃️ Unorganized/General Notes/Mind.md",
-    "🗃️ Unorganized/General Notes/Morality.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
