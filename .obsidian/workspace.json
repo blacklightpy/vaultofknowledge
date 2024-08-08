@@ -273,7 +273,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
+                "file": "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97c4b97d5a8204f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Reason.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -281,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -327,7 +340,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -348,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
+                "file": "🗃️ Unorganized/General Notes/Reason.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
+                "file": "🗃️ Unorganized/General Notes/Reason.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md"
+                "file": "🗃️ Unorganized/General Notes/Reason.md"
               }
             }
           },
@@ -443,11 +457,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e333346cdb581c6e",
+  "active": "97c4b97d5a8204f9",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
     "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
-    "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Avram Noam Chomsky.md",
     "🗃️ Unorganized/General Notes/Universal Grammar.md",
     "🗃️ Unorganized/General Notes/Computational Linguistics.md",
