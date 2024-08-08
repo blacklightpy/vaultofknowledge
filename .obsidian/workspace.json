@@ -188,9 +188,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ccd8e6902489c2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78d927b4a11fd127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Erlang.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -236,7 +262,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling System 7.md",
+                "file": "🗃️ Unorganized/General Notes/Erlang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling System 7.md",
+                "file": "🗃️ Unorganized/General Notes/Erlang.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling System 7.md"
+                "file": "🗃️ Unorganized/General Notes/Erlang.md"
               }
             }
           },
@@ -353,8 +380,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc31394f26a24e16",
+  "active": "78d927b4a11fd127",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Concurrency.md",
+    "🗃️ Unorganized/General Notes/Erlang.md",
+    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+    "🗃️ Unorganized/General Notes/Welding.md",
     "🗃️ Unorganized/General Notes/Signalling System 7.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Path.md",
@@ -377,10 +408,6 @@
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Cow Tools.md",
-    "🗃️ Unorganized/General Notes/Muslim Mentality.md",
-    "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
-    "🤠 Personal/Ideas and References/Data Organization.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graph Theory.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

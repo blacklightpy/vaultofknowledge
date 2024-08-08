@@ -114,7 +114,7 @@
 - NSS: Network Switching Subsystem is the component of a GSM system that carries out call out and mobility management functions for mobile phones roaming on the network of base stations.
 	- It is owned and deployed by mobile phone operators and allows mobile devices to communicate with each other and telephones in the wider [[Public Switched Telephone Network]] (PSTN)
 	- The NSS architecture specifically is for "mobile" devices and contains features specific for them.
-	- The NSS originally consisted of the GSM core network, which allowed for calls, SMS and [[Circuit Switched Data]] (CSD) calls.
+	- The NSS originally consisted of the GSM core network, which allowed for calls, Short Message Service (SMS) and [[Circuit Switched Data]] (CSD) calls.
 	- It was extended with an overlay architecture to provide packet-switched data services known as the GPRS Core Network. This allowed to have access to WAP, MMS and the Internet.
 	- Parts of the NSS
 		- The mobile switching center (MSC) is the primary service delivery node for GSM/CDMA, responsible for routing voice calls and SMS as well as other services (such as conference calls, FAX, and circuit-switched data).
