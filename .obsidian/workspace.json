@@ -177,6 +177,19 @@
             }
           },
           {
+            "id": "26afe20196fe7704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Cheating.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc31394f26a24e16",
             "type": "leaf",
             "state": {
@@ -253,9 +266,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58588aaec59de2a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Similar Words in Arabic and Hebrew.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -321,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Similar Words in Arabic and Hebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Similar Words in Arabic and Hebrew.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -350,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🗃️ Unorganized/General Notes/Similar Words in Arabic and Hebrew.md"
               }
             }
           },
@@ -416,10 +442,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "58588aaec59de2a8",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Impulse.md",
+    "🗃️ Unorganized/General Notes/Similar Words in Arabic and Hebrew.md",
+    "🗃️ Unorganized/General Notes/Cheating.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/General Notes/Impulse.md",
     "🗃️ Unorganized/General Notes/Erlang.md",
     "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
     "🗃️ Unorganized/General Notes/Bodymind.md",
@@ -442,8 +470,6 @@
     "🗃️ Unorganized/General Notes/Social Science.md",
     "🗃️ Unorganized/General Notes/Morality - my philosophy.md",
     "🗃️ Unorganized/General Notes/Signal Processing.md",
-    "🗃️ Unorganized/General Notes/Untitled 2.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/M-Theory.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
