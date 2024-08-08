@@ -273,7 +273,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+                "file": "🗃️ Unorganized/General Notes/Lexicon.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -331,7 +331,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -347,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+                "file": "🗃️ Unorganized/General Notes/Lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
+                "file": "🗃️ Unorganized/General Notes/Lexicon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -376,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md"
+                "file": "🗃️ Unorganized/General Notes/Lexicon.md"
               }
             }
           },
@@ -444,10 +445,16 @@
   },
   "active": "e333346cdb581c6e",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Voltaire.md",
-    "🗃️ Unorganized/General Notes/Immanuel Kant.md",
+    "🗃️ Unorganized/General Notes/Lexeme.md",
+    "🗃️ Unorganized/General Notes/Lexicon.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
     "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
+    "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
+    "🗃️ Unorganized/General Notes/Universal Language.md",
+    "🗃️ Unorganized/General Notes/Rene Descartes.md",
+    "🗃️ Unorganized/General Notes/Mind-Body Problem.md",
+    "🗃️ Unorganized/General Notes/Voltaire.md",
+    "🗃️ Unorganized/General Notes/Immanuel Kant.md",
     "🗃️ Unorganized/General Notes/Leibniz Calculator.md",
     "🗃️ Unorganized/General Notes/Phenomenon.md",
     "🗃️ Unorganized/General Notes/Noumenon.md",
@@ -464,12 +471,6 @@
     "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
     "🗃️ Unorganized/General Notes/Mind.md",
     "🗃️ Unorganized/General Notes/Morality.md",
-    "🗃️ Unorganized/General Notes/Ethics.md",
-    "🗃️ Unorganized/General Notes/Signalling Theory.md",
-    "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
-    "🗃️ Unorganized/General Notes/Differential Signalling.md",
-    "🗃️ Unorganized/General Notes/Signalling System 7.md",
-    "🗃️ Unorganized/General Notes/Welding.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

@@ -1,0 +1,1 @@
+Lexicon is the vocabulary of a language. In other words, it is a collection of [[Lexeme|lexemes]].
