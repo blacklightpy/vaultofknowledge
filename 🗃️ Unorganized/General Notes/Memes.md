@@ -1,0 +1,1 @@
+> "Memes are the DNA of the soul" ~ Monsoon, Metal Gear Rising: Revengeance (2018, Video Game)

@@ -1,0 +1,1 @@
+Memetics is the study of [[memes]].
