@@ -1,0 +1,1 @@
+The universe is all of space and time and its contents. It also contains all of existence.
