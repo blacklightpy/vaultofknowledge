@@ -190,19 +190,6 @@
             }
           },
           {
-            "id": "2ccd8e6902489c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78d927b4a11fd127",
             "type": "leaf",
             "state": {
@@ -234,7 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
+                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -268,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -318,8 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -335,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -364,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Bodymind.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
               }
             }
           },
@@ -407,8 +393,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -431,11 +416,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3d81df2388e58975",
+  "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Mind.md",
+    "🗃️ Unorganized/General Notes/Impulse.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/General Notes/Erlang.md",
+    "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
     "🗃️ Unorganized/General Notes/Bodymind.md",
+    "🗃️ Unorganized/General Notes/Mind.md",
     "🗃️ Unorganized/General Notes/Morality.md",
+    "🗃️ Unorganized/General Notes/Ethics.md",
+    "🗃️ Unorganized/General Notes/Signalling Theory.md",
+    "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
+    "🗃️ Unorganized/General Notes/Differential Signalling.md",
+    "🗃️ Unorganized/General Notes/Signalling System 7.md",
+    "🗃️ Unorganized/General Notes/Welding.md",
+    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Code of Conduct.md",
     "🗃️ Unorganized/General Notes/Norms.md",
     "🗃️ Unorganized/General Notes/Normal.md",
@@ -444,21 +440,10 @@
     "🗃️ Unorganized/General Notes/Rule.md",
     "🗃️ Unorganized/General Notes/Justice.md",
     "🗃️ Unorganized/General Notes/Social Science.md",
-    "🗃️ Unorganized/General Notes/Ethics.md",
     "🗃️ Unorganized/General Notes/Morality - my philosophy.md",
-    "🗃️ Unorganized/General Notes/Signalling Theory.md",
     "🗃️ Unorganized/General Notes/Signal Processing.md",
     "🗃️ Unorganized/General Notes/Untitled 2.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/M-Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md",
-    "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
-    "🗃️ Unorganized/General Notes/Signal.md",
-    "🗃️ Unorganized/General Notes/Electrical Engineering.md",
-    "🗃️ Unorganized/General Notes/Differential Signalling.md",
-    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
-    "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
-    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
-    "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

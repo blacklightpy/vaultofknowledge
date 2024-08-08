@@ -130,3 +130,31 @@ Body
 [[Classical Mechanics]]
 [[Machine]]
 Force
+
+Oulines
+Machines | Robotics | Technology | Science | Natural Science Academic Disciplines
+
+[[Signalling System 7]] | Signalling System 6 (CCCIT 6) | Signalling System 5
+[[Erlang]]
+[[Concurrency]]
+
+[[Digital Subscriber Line]]
+[[Asymmetric Digital Subscriber Line]]
+
+[[Telecommunication Terms]]
+
+[[Electrical Engineering]]
+[[Signal]]
+[[Signal Processing]]
+[[Signalling Theory]]
+Cheating
+[[Morality]]
+[[Ethics]]
+[[Rule]]
+[[Norms]]
+[[Normal]]
+[[Code of Conduct]]
+[[Justice]]
+[[Mind]]
+[[Bodymind]]
+Mind-Body Problem
