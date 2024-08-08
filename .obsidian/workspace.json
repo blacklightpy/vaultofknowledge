@@ -240,9 +240,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c21f741f6b6fa3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -292,8 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -309,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
+                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md",
+                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -338,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Differential Signalling.md"
+                "file": "🗃️ Unorganized/General Notes/Signal Processing.md"
               }
             }
           },
@@ -405,10 +417,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "7c21f741f6b6fa3e",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+    "🗃️ Unorganized/General Notes/Untitled 2.md",
+    "🗃️ Unorganized/General Notes/Signal Processing.md",
+    "🗃️ Unorganized/General Notes/Signal.md",
+    "🗃️ Unorganized/General Notes/Electrical Engineering.md",
     "🗃️ Unorganized/General Notes/Differential Signalling.md",
+    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
@@ -429,10 +445,6 @@
     "🗃️ Unorganized/General Notes/Ataturk.md",
     "🗃️ Unorganized/General Notes/Parables.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
-    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
-    "How to read this knowledgebase.md",
-    "🤠 Personal/Ideas and References/Wikipedia Organization.md",
-    "🗃️ Unorganized/General Notes/Outlines in Wikipedia.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
