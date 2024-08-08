@@ -1,0 +1,1 @@
+It is an idea originally proposed by [[Gottfried Wilhelm Leibniz|Leibniz]] that presents a universal way to analyze ideas and relationships by breaking down their component pieces.
