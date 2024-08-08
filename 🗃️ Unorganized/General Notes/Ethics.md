@@ -1,0 +1,1 @@
+Ethics refers to [[Morality|moral]] philosophy

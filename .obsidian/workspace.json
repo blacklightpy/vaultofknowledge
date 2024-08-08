@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d81df2388e58975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Law.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -322,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Theory.md",
+                "file": "🗃️ Unorganized/General Notes/Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Theory.md",
+                "file": "🗃️ Unorganized/General Notes/Law.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling Theory.md"
+                "file": "🗃️ Unorganized/General Notes/Law.md"
               }
             }
           },
@@ -418,10 +431,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7c21f741f6b6fa3e",
+  "active": "3d81df2388e58975",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Signal Processing.md",
+    "🗃️ Unorganized/General Notes/Social Science.md",
+    "🗃️ Unorganized/General Notes/Law.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Laws in Israel.md",
+    "🗃️ Unorganized/General Notes/Morality.md",
+    "🗃️ Unorganized/General Notes/Ethics.md",
+    "🗃️ Unorganized/General Notes/Morality - my philosophy.md",
     "🗃️ Unorganized/General Notes/Signalling Theory.md",
+    "🗃️ Unorganized/General Notes/Signal Processing.md",
     "🗃️ Unorganized/General Notes/Untitled 2.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/M-Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md",
@@ -440,12 +459,6 @@
     "🗃️ Unorganized/General Notes/Welding.md",
     "🗃️ Unorganized/General Notes/Signalling System 7.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🗃️ Unorganized/General Notes/Path.md",
-    "🗃️ Unorganized/General Notes/Djikstra's Algorithm.md",
-    "🗃️ Unorganized/General Notes/Polygon.md",
-    "🗃️ Unorganized/General Notes/Geodesic Polyhedron.md",
-    "🗃️ Unorganized/General Notes/Hoberman Sphere.md",
-    "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
