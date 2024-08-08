@@ -260,7 +260,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Norms.md",
+                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Norms.md",
+                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Norms.md",
+                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -364,7 +364,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Norms.md"
+                "file": "🗃️ Unorganized/General Notes/Bodymind.md"
               }
             }
           },
@@ -433,8 +433,12 @@
   },
   "active": "3d81df2388e58975",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Mind.md",
+    "🗃️ Unorganized/General Notes/Bodymind.md",
     "🗃️ Unorganized/General Notes/Morality.md",
+    "🗃️ Unorganized/General Notes/Code of Conduct.md",
     "🗃️ Unorganized/General Notes/Norms.md",
+    "🗃️ Unorganized/General Notes/Normal.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Conflict/Laws in Israel.md",
     "🗃️ Unorganized/General Notes/Law.md",
     "🗃️ Unorganized/General Notes/Rule.md",
@@ -455,10 +459,6 @@
     "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
     "🗃️ Unorganized/General Notes/Signalling Schemes.md",
     "🗃️ Unorganized/General Notes/Asymmetric Digital Subscriber Line.md",
-    "🗃️ Unorganized/General Notes/Digital Subscriber Line.md",
-    "🗃️ Unorganized/General Notes/Erlang.md",
-    "🗃️ Unorganized/General Notes/Concurrency.md",
-    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

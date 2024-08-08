@@ -1,0 +1,1 @@
+A code of conduct is a set of [[Rule|rules]] organizing the [[norms]] of a community.
