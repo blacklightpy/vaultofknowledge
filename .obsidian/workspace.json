@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
+                "file": "🗃️ Unorganized/General Notes/Signalling Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
+                "file": "🗃️ Unorganized/General Notes/Signalling Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
+                "file": "🗃️ Unorganized/General Notes/Signalling Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -351,7 +351,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signal Processing.md"
+                "file": "🗃️ Unorganized/General Notes/Signalling Theory.md"
               }
             }
           },
@@ -420,11 +420,12 @@
   },
   "active": "7c21f741f6b6fa3e",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Signal Processing.md",
+    "🗃️ Unorganized/General Notes/Signalling Theory.md",
+    "🗃️ Unorganized/General Notes/Untitled 2.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/M-Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md",
     "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
-    "🗃️ Unorganized/General Notes/Signal Processing.md",
-    "🗃️ Unorganized/General Notes/Untitled 2.md",
     "🗃️ Unorganized/General Notes/Signal.md",
     "🗃️ Unorganized/General Notes/Electrical Engineering.md",
     "🗃️ Unorganized/General Notes/Differential Signalling.md",
@@ -445,7 +446,6 @@
     "🗃️ Unorganized/General Notes/Geodesic Polyhedron.md",
     "🗃️ Unorganized/General Notes/Hoberman Sphere.md",
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
