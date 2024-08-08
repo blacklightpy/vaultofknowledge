@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "551fc0efe92a8f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -321,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signal Processing.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -350,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Signal Processing.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md"
               }
             }
           },
@@ -417,10 +430,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7c21f741f6b6fa3e",
+  "active": "551fc0efe92a8f05",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Untitled 2.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/String Theory.md",
+    "🗃️ Unorganized/General Notes/M-Theory.md",
+    "🔮 World Building/Science and Engineering/Physics/Particle Physics/Superstring Theory.md",
     "🗃️ Unorganized/General Notes/Signal Processing.md",
+    "🗃️ Unorganized/General Notes/Untitled 2.md",
     "🗃️ Unorganized/General Notes/Signal.md",
     "🗃️ Unorganized/General Notes/Electrical Engineering.md",
     "🗃️ Unorganized/General Notes/Differential Signalling.md",
@@ -442,9 +458,6 @@
     "🗃️ Unorganized/General Notes/Hoberman Sphere.md",
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
-    "🗃️ Unorganized/General Notes/Ataturk.md",
-    "🗃️ Unorganized/General Notes/Parables.md",
-    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
