@@ -281,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md"
               }
             }
           },
@@ -443,10 +443,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "b3c6cc6005f4de06",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
     "🗃️ Unorganized/General Notes/Universal Language.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
     "🗃️ Unorganized/General Notes/Path.md",
