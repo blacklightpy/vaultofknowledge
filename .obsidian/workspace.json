@@ -190,19 +190,6 @@
             }
           },
           {
-            "id": "dc31394f26a24e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Signalling System 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78d927b4a11fd127",
             "type": "leaf",
             "state": {
@@ -294,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -340,13 +327,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -362,7 +347,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Perturbation Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +364,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Perturbation Theory.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -391,7 +376,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Perturbation Theory.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
               }
             }
           },
@@ -457,34 +442,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "97c4b97d5a8204f9",
+  "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Universe.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/General Notes/Reality.md",
+    "🗃️ Unorganized/General Notes/Data.md",
+    "🗃️ Unorganized/General Notes/Fact.md",
+    "🗃️ Unorganized/General Notes/Truth.md",
+    "🗃️ Unorganized/General Notes/Object.md",
+    "🗃️ Unorganized/General Notes/Property.md",
+    "🗃️ Unorganized/General Notes/Existence.md",
+    "🗃️ Unorganized/General Notes/Rationality.md",
+    "🗃️ Unorganized/General Notes/Reasoning.md",
     "🗃️ Unorganized/General Notes/Reason.md",
+    "🗃️ Unorganized/General Notes/Logic.md",
+    "🗃️ Unorganized/General Notes/Quality.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🗃️ Unorganized/General Notes/Perturbation Theory.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Computation/Push Down Automata.md",
     "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
+    "🗃️ Unorganized/General Notes/Bodymind.md",
+    "🗃️ Unorganized/General Notes/Immanuel Kant.md",
+    "🗃️ Unorganized/General Notes/Signalling Theory.md",
+    "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
+    "🗃️ Unorganized/General Notes/Cheating.md",
+    "🗃️ Unorganized/General Notes/Signalling System 7.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
     "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
-    "🗃️ Unorganized/General Notes/Avram Noam Chomsky.md",
-    "🗃️ Unorganized/General Notes/Universal Grammar.md",
-    "🗃️ Unorganized/General Notes/Computational Linguistics.md",
-    "🗃️ Unorganized/General Notes/Alphabet of Human Thought.md",
-    "🗃️ Unorganized/General Notes/Natural Language.md",
-    "🗃️ Unorganized/General Notes/Logic.md",
-    "🗃️ Unorganized/General Notes/Reasoning.md",
-    "🗃️ Unorganized/General Notes/Rationality.md",
-    "🗃️ Unorganized/General Notes/Truth.md",
-    "🗃️ Unorganized/General Notes/Reality.md",
-    "🗃️ Unorganized/General Notes/Existence.md",
-    "🗃️ Unorganized/General Notes/Nonexistence.md",
-    "🗃️ Unorganized/General Notes/Universe.md",
-    "🗃️ Unorganized/General Notes/Fact.md",
-    "🗃️ Unorganized/General Notes/Data.md",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Models of Reality.md",
-    "🗃️ Unorganized/General Notes/Quality.md",
-    "🗃️ Unorganized/General Notes/Property.md",
-    "🗃️ Unorganized/General Notes/Object.md",
-    "🗃️ Unorganized/General Notes/Subject.md",
-    "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
