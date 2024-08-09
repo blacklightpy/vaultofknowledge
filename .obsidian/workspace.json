@@ -279,9 +279,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84bcc36d365142e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -347,7 +355,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +371,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -375,9 +381,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -442,10 +446,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "84bcc36d365142e5",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Universe.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/General Notes/Perturbation Theory.md",
+    "🗃️ Unorganized/General Notes/Universe.md",
     "🗃️ Unorganized/General Notes/Reality.md",
     "🗃️ Unorganized/General Notes/Data.md",
     "🗃️ Unorganized/General Notes/Fact.md",
@@ -459,7 +464,6 @@
     "🗃️ Unorganized/General Notes/Logic.md",
     "🗃️ Unorganized/General Notes/Quality.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
-    "🗃️ Unorganized/General Notes/Perturbation Theory.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Computation/Push Down Automata.md",
     "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Bodymind.md",
