@@ -281,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
+                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
+                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md"
+                "file": "🗃️ Unorganized/General Notes/Bodymind.md"
               }
             }
           },
@@ -443,8 +443,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "3d81df2388e58975",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
@@ -470,7 +471,6 @@
     "🗃️ Unorganized/General Notes/Reality.md",
     "🗃️ Unorganized/General Notes/Data.md",
     "🗃️ Unorganized/General Notes/Fact.md",
-    "🗃️ Unorganized/General Notes/Truth.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
