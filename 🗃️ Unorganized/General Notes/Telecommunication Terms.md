@@ -13,8 +13,12 @@
 - List of telecommunications encryption terms
 - List of telecommunications terminology
 - List of telephony terminology
+
+- Outline of telecommunication
+
 - History of telecommunication
-- History of the Internet
 - History of the telephone
 - History of videotelephony
-- Outline of telecommunication
+- History of the Internet
+
+- Timeline of the telephone
