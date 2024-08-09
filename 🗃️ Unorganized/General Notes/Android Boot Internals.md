@@ -187,9 +187,9 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - ForceEncrypt
 	- It's of two types
 		- **Full Disk Encryption (FDE)** (Android 5.0+)
-			- It is based on DM-Crypt
+			- It is based on DM-Crypt, another Linux feature
 		- **File Based Encryption (FBE)** (Android 7.0+)
-			- It is based on `fscrypt`
+			- It is based on `fscrypt`, a ButterFS innovation
 			- In FBE, different files can be encrypted with different keys
 			- Mainly, It introduced Direct Boot API and two types of encrypted storage
 			- Direct Boot boots the system directly to the Lock Screen

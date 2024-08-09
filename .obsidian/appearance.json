@@ -1,8 +1,8 @@
 {
   "baseFontSize": 14,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Prime",
+  "cssTheme": "",
   "accentColor": "",
   "nativeMenus": false,
   "baseFontSizeAction": true,
