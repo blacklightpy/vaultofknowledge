@@ -169,8 +169,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-                "mode": "preview",
+                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🗃️ Unorganized/General Notes/Telecommunication Terms.md"
               }
             }
           },
@@ -445,8 +445,8 @@
   },
   "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
     "🗃️ Unorganized/General Notes/Universal Language.md",
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
