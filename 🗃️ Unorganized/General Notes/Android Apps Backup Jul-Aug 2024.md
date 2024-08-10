@@ -22,14 +22,14 @@
 | com.gmail.jmartindev.timetune          | TimeTune                       |                 |
 | com.google.android.apps.blogger        | Blogger                        |                 |
 | com.google.android.apps.classroom      | Google Classroom               |                 |
-| com.google.android.apps.nbu.paisa.user | GPay                           |                 |
+| com.google.android.apps.nbu.paisa.user | GPay                           | O               |
 | com.hecorat.screenrecorder.free        | AZ Screen Recorder             |                 |
-| com.holoplay                           | HoloPlay                       |                 |
+| com.holoplay                           | HoloPlay                       | O               |
 | com.instagram.android                  | Instagram                      |                 |
 | com.jasmcole.wifisolver                | WiFi Solver                    |                 |
 | com.jetpack.android                    | Jetpack                        |                 |
 | com.jio.myjio                          | MyJio                          |                 |
-| com.jotterpad.x                        | JotterPad                      |                 |
+| com.jotterpad.x                        | JotterPad                      | O               |
 | com.kaizen9.fet.android                | Functional Ear Trainer         |                 |
 | com.kog.alarmclock                     | I Can't Sleep! - Alarm Clock   |                 |
 | com.linkedin.android                   | LinkedIn                       |                 |
@@ -45,9 +45,9 @@
 | com.semitune.pegboard                  | PegBoard                       |                 |
 | com.shazam.android                     | Shazam                         |                 |
 | com.sillens.shapeupclub                | Lifesum: Calorie Counter       |                 |
-| com.spotify.music                      | Spotify                        |                 |
+| com.spotify.music                      | Spotify                        | O               |
 | com.ss.launcher2                       | Total Launcher                 |                 |
-| com.stuff.todo                         | Stuff                          |                 |
+| com.stuff.todo                         | Stuff                          | Y               |
 | com.tatkovlab.pomodoro                 | Pomodoro Timer                 |                 |
 | com.tedrasoft.music.maker              | Song Maker                     |                 |
 | com.teslacoilsw.launcher               | Nova Launcher                  |                 |
@@ -67,7 +67,7 @@
 | games.paveldogreat.fluidsimfree        | Fluid Simulator                |                 |
 | in.swiggy.android                      | Swiggy                         |                 |
 | io.fusetech.stackademia                | Researcher                     |                 |
-| io.mrarm.irc                           | Revolution IRC                 |                 |
+| io.mrarm.irc                           | Revolution IRC                 | Y               |
 | io.raindrop.raindropio                 | Raindrop.io                    |                 |
 | it.fast4x.rimusic                      | RiMusic                        |                 |
 | md.obsidian                            | Obsidian                       |                 |
@@ -85,6 +85,6 @@
 | org.thoughtcrime.securesms             | Signal                         |                 |
 | org.wentura.getflow                    | GetFlow: Pomodoro              |                 |
 | pl.y0.mandelbrotbrowser                | MandelBrowser                  |                 |
-| pro.listy                              | Listy                          |                 |
+| pro.listy                              | Listy                          | Y               |
 | ru.aleshin.timeplanner                 | TimePlanner                    |                 |
-| us.spotco.fennec_dos                   | Mull                           |                 |
+| us.spotco.fennec_dos                   | Mull                           | Y               |
