@@ -144,7 +144,7 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 			- He said their pride included preventing Muslims from visiting Kaaba, but they only said that for the first year.
 			- Scholars interpret it to mean, treaties do not apply between all Muslim tribes
 		- Bukhari 6621 (Abu Bakr would replace oaths)
-	- Bukhar 3029-30 (War is deceit)
+	- Bukhari 3029-30 (War is deceit)
 	- They didn't attack because they didn't want to start a war
 	- Banu Bakr attacked Banu Khuza'ah (because they were always at war)
 	- This triggered the conquest of Mecca (8 AH)

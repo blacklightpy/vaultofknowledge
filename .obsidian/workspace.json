@@ -279,9 +279,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15acc877b5535d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -327,7 +340,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -348,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Bodymind.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Bodymind.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
               }
             }
           },
@@ -443,8 +457,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3d81df2388e58975",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Bodymind.md",
     "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
@@ -470,7 +485,6 @@
     "🗃️ Unorganized/General Notes/Universe.md",
     "🗃️ Unorganized/General Notes/Reality.md",
     "🗃️ Unorganized/General Notes/Data.md",
-    "🗃️ Unorganized/General Notes/Fact.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
