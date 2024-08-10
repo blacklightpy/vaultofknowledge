@@ -266,6 +266,9 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 	- 
 ## How to perform a system backup (NANDroid backup)
 ## How to backup app data (with root, using third-party apps)
+## How to restore apps
+- https://github.com/joshuabragge/twrp-manual-restore
+- Permissions: https://android.stackexchange.com/questions/236131/restore-data-of-a-specific-app-from-a-twrp-backup
 ## How to flash a new ROM
 - Recovery ROM
 	- To be flashed from Recovery
