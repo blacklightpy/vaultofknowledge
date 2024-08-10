@@ -122,6 +122,7 @@ Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn 
 14. ˹So˺ fight them and Allah will punish them at your hands, put them to shame, help you overcome them, and soothe the hearts of the believers—
 
 ## Questions
+https://en.alukah.net/Shariah/0/7490/: How Abu Sufiyan joined Islam (threatened to kill)
 
 Treaty of Hudaybiyyah (6 AH) / Tawbah is the second last revelation.
 Time: After Battle of Badr, Uhud (defeat), and Trench.

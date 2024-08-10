@@ -293,7 +293,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -361,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -390,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
               }
             }
           },
@@ -456,8 +457,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "15acc877b5535d01",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Bodymind.md",
     "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
@@ -478,7 +480,6 @@
     "🗃️ Unorganized/General Notes/Valency.md",
     "🗃️ Unorganized/General Notes/Arity.md",
     "🗃️ Unorganized/General Notes/Linguistics.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Erlang.md",
     "🗃️ Unorganized/General Notes/Cheating.md",
     "🗃️ Unorganized/General Notes/Perturbation Theory.md",
