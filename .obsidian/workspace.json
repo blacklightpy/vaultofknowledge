@@ -318,9 +318,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fd2d685d3190aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d99d386066969f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -387,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
+                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
+                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -416,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md"
+                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md"
               }
             }
           },
@@ -482,8 +508,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "2fd2d685d3190aa5",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
+    "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
+    "🗃️ Unorganized/General Notes/Evolution of Computing.md",
+    "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
     "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🗃️ Unorganized/General Notes/Crazy Names.md",
@@ -505,11 +536,6 @@
     "🗃️ Unorganized/General Notes/Objectivity.md",
     "🗃️ Unorganized/General Notes/Information.md",
     "🗃️ Unorganized/General Notes/Philology.md",
-    "🗃️ Unorganized/General Notes/Predicate.md",
-    "🗃️ Unorganized/General Notes/Valency.md",
-    "🗃️ Unorganized/General Notes/Arity.md",
-    "🗃️ Unorganized/General Notes/Linguistics.md",
-    "🗃️ Unorganized/General Notes/Erlang.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
