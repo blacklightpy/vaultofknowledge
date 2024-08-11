@@ -305,9 +305,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6058950038feb7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -375,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
+                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
+                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -404,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md"
+                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md"
               }
             }
           },
@@ -470,11 +483,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b959a0406713fac0",
+  "active": "6058950038feb7ed",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
+    "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🗃️ Unorganized/General Notes/Crazy Names.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
-    "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Bodymind.md",
@@ -497,7 +511,6 @@
     "🗃️ Unorganized/General Notes/Arity.md",
     "🗃️ Unorganized/General Notes/Linguistics.md",
     "🗃️ Unorganized/General Notes/Erlang.md",
-    "🗃️ Unorganized/General Notes/Cheating.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
