@@ -375,7 +375,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +391,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -403,9 +401,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -470,7 +466,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b959a0406713fac0",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
