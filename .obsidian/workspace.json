@@ -312,7 +312,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
+                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -366,8 +366,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -388,7 +387,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
+                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
+                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -417,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Important Debate Knowledge.md"
+                "file": "🗃️ Unorganized/General Notes/Android Custom Recoveries.md"
               }
             }
           },
@@ -483,7 +482,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6058950038feb7ed",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
