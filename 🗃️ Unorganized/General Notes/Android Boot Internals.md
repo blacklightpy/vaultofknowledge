@@ -388,4 +388,6 @@ How you treat me is your way, how I treat you is my way.
 
 I'll never say FL
 
-I was afraid, still am (BBT)
+I was afraid, still am (BBT comparison to Shelly)
+
+Change should be reversible # divergent pt

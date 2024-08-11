@@ -345,8 +345,7 @@
               }
             }
           }
-        ],
-        "currentTab": 24
+        ]
       }
     ],
     "direction": "vertical"
@@ -414,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -443,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -509,12 +508,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Signal Modulation.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
     "🗃️ Unorganized/General Notes/Amplitude Modulation.md",
-    "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hardware/History of Computers.md",
     "🗃️ Unorganized/General Notes/Evolution of Computing.md",
