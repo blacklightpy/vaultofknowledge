@@ -2,14 +2,14 @@
 - ClockWorkMod (CWM) [Features: ]
 - OrangeFox Recovery Project (OFRP) (synced with TWRP) [Features: Password, MIUI OTA]
 - PitchBlack Recovery Project (PBRP) (fork of TWRP 3.7.0) [Features: Password, MIUI OTA, Modules]
-- SkyHawk Recovery Project (SHRP) (synced with TWRP) [Features: Password, MIUI OTA, Cool Theme, Black/Dark/White variants, Modules]
-- RedWolf Recovery Project (RWRP) (synced with TWRP) [Features: Password, MIUI OTA, Red/Black Theme]
+- SkyHawk Recovery Project (SHRP) (synced with TWRP) [Features: Password, MIUI OTA, Cool Theme, Black/Dark/White variants, Modules] 
+- RedWolf Recovery Project (RWRP) (synced with TWRP) [Features: Password, MIUI OTA, Red/Black Theme] (Jan 2018)
 
 - Other:
 - Batik Recovery Project (BRP)
 - Carliv Touch Recovery (CTR)
 - Philz Touch 6 / CWM Advanced 6 (dead)
-- EXT4 Recovery
+- EXT4 Recovery (old)
 - RootZ Wiki Recovery
 
 
