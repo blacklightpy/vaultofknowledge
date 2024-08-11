@@ -14,6 +14,14 @@
 
 Koushik Dutta made CWM ROM Manager, Universal ADB Driver
 Google made Apps2SD
+JesusFreke made Cyanogenmod in 2009
+
+HTC Dream (T-Mobile G1) in 2008 had a vulnerability that allowed root access to modify stock ROMs.
+JesusFreke made a custom ROM
+Google issued Android RC30 update that fixed it
+JesusFreke supplied his ROMs to others.
+Samsung Developer Cyanogen made a custom ROM based off his, so he asked everyone to move to her ROM.
+That was CM.
 ## Backup Utilities
 - NANDroid Backup (Only backups system and app data)
 	- e.g. TWRP Backup, OFRP Backup
