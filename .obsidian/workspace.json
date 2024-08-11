@@ -345,7 +345,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -374,7 +375,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "locale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -396,8 +397,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -413,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -442,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md"
               }
             }
           },
@@ -508,8 +508,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "35d92360ac5a178c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Steps encountered when installing Void.md",
+    "🗃️ Unorganized/General Notes/How to do a chroot.md",
+    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Signal Modulation.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
@@ -521,9 +525,7 @@
     "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🗃️ Unorganized/General Notes/Crazy Names.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Bodymind.md",
     "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
@@ -534,8 +536,6 @@
     "🗃️ Unorganized/General Notes/Path.md",
     "🗃️ Unorganized/General Notes/Circuit.md",
     "🗃️ Unorganized/General Notes/Ordered Pairs.md",
-    "🗃️ Unorganized/General Notes/Relation.md",
-    "🗃️ Unorganized/General Notes/Symptom.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
