@@ -307,7 +307,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -375,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md"
+                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md"
               }
             }
           },
@@ -470,8 +470,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "35d92360ac5a178c",
+  "active": "b959a0406713fac0",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Crazy Names.md",
+    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
@@ -496,8 +498,6 @@
     "🗃️ Unorganized/General Notes/Linguistics.md",
     "🗃️ Unorganized/General Notes/Erlang.md",
     "🗃️ Unorganized/General Notes/Cheating.md",
-    "🗃️ Unorganized/General Notes/Perturbation Theory.md",
-    "🗃️ Unorganized/General Notes/Universe.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
