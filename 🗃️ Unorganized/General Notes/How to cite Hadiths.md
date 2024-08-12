@@ -3,17 +3,23 @@
 ## Main Context
 
 ### Hadith Collection (Sahihayn / Sahih from Authentic Six / Other Sahih / Hasan / Da'if)
+
 #### Sub Context
 
+Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
+
+> [text quote / screenshot]
 > **Reporter 1**, a companion of Mohammed narrates:
 > 
-> Allah's Messenger ﷺ said: "Hadith narration" [text quote / screenshot]
+> Allah's Messenger ﷺ said: "Hadith narration" 
 
 [Internet Reference URL (e.g. to sunnah.com)]
 
-**Reference:**
-- **UCS-MCA Web English Scheme (deperecated)**: *Vol. N, Book A, Chapter X, Hadith Y*
-- **Arabic Scheme**: *Book A, Chapter X, Hadith Y*
+**Reference Number**
+
+- **Arabic Scheme by Dar-us-Salam (In Collection)**: *Hadith N*
+- **Arabic Scheme by Dar-us-Salam (In Book)**: *Book A (Chapter B), Hadith Y*
+- **UCS-MCA Web English Translation (deprecated)**: *Vol. N, Book A (Chapter B), Hadith Y*
 
 **Grade**
 
@@ -21,11 +27,17 @@
 | ----------------------- | ---------------------------------------- |
 | Sahih/Hasan/Da'if/Mawdu | **Dar-us-Salam**                         |
 | Sahih/Hasan/Da'if/Mawdu | Sheikh Muhammad Nasiruddin **Al-Albani** |
+
+**Duplicate / Similar Reports**
+
+- If any (duplicate / similar)
+
 # Template 2: Isolated
 
+> [text quote / screenshot]
 > **Reporter 1**, a companion of Mohammed narrates:
 > 
-> Allah's Messenger ﷺ said: "Hadith narration" [text quote / screenshot]
+> Allah's Messenger ﷺ said: "Hadith narration"
 
 [Internet Reference URL (e.g. to sunnah.com)]
 
@@ -35,6 +47,7 @@
 | ----------------------- | ---------------------------------------- |
 | Sahih/Hasan/Da'if/Mawdu | Dar-us-Salam                             |
 | Sahih/Hasan/Da'if/Mawdu | Sheikh Muhammad Nasiruddin **Al-Albani** |
+
 **Chain of Report**
 
 - Chain of Report 1
