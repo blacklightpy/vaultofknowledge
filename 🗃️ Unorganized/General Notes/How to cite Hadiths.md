@@ -14,9 +14,9 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 > Allah's Messenger ﷺ said: "Hadith narration" 
 
 [Internet Reference URL (e.g. to sunnah.com)]
-
+ 
 **Reference Number**
-
+ 
 - **Arabic Scheme by Dar-us-Salam (In Collection)**: *Hadith N*
 - **Arabic Scheme by Dar-us-Salam (In Book)**: *Book A (Chapter B), Hadith Y*
 - **UCS-MCA Web English Translation (deprecated)**: *Vol. N, Book A (Chapter B), Hadith Y*
@@ -28,11 +28,14 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 | Sahih/Hasan/Da'if/Mawdu | **Dar-us-Salam**                         |
 | Sahih/Hasan/Da'if/Mawdu | Sheikh Muhammad Nasiruddin **Al-Albani** |
 
+
 **Duplicate / Similar Reports**
 
 - If any (duplicate / similar)
 
 # Template 2: Isolated
+
+Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 
 > [text quote / screenshot]
 > **Reporter 1**, a companion of Mohammed narrates:
@@ -40,6 +43,12 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 > Allah's Messenger ﷺ said: "Hadith narration"
 
 [Internet Reference URL (e.g. to sunnah.com)]
+
+**Reference Number**
+ 
+- **Arabic Scheme by Dar-us-Salam (In Collection)**: *Hadith N*
+- **Arabic Scheme by Dar-us-Salam (In Book)**: *Book A (Chapter B), Hadith Y*
+- **UCS-MCA Web English Translation (deprecated)**: *Vol. N, Book A (Chapter B), Hadith Y*
 
 **Grade**
 
