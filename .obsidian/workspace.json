@@ -344,9 +344,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "335736b4665f2604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Claimed Islamic Progressivisms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -375,7 +388,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "locale",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -397,7 +410,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -413,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+                "file": "🗃️ Unorganized/General Notes/Claimed Islamic Progressivisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+                "file": "🗃️ Unorganized/General Notes/Claimed Islamic Progressivisms.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -442,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md"
+                "file": "🗃️ Unorganized/General Notes/Claimed Islamic Progressivisms.md"
               }
             }
           },
@@ -508,11 +522,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "35d92360ac5a178c",
+  "active": "335736b4665f2604",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Claimed Islamic Progressivisms.md",
+    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Steps encountered when installing Void.md",
     "🗃️ Unorganized/General Notes/How to do a chroot.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Signal Modulation.md",
@@ -535,7 +550,6 @@
     "🗃️ Unorganized/General Notes/Calculus Ratiocinator.md",
     "🗃️ Unorganized/General Notes/Path.md",
     "🗃️ Unorganized/General Notes/Circuit.md",
-    "🗃️ Unorganized/General Notes/Ordered Pairs.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
