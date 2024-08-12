@@ -218,7 +218,15 @@ See 6:153 again (forgot)
 - Maslaaha (Best Interest of Muslims / Maintain Upper Hand) \[Q 3:139, Q 47:35\]
 
 - Jaria / Sabaya (Slave Women)
+## About Hadiths
+- Isnad (Chain of Transmission)
+- Musnad (Hadiths organized by the collector)
+- 
 
+- Sahih / Saheeh (Strong)
+- Hasan (Good)
+- Da'if / Da'eef (Weak)
+- Mawdu (Fabricated)
 ## Parallels
 
 | Category                        | Islam                                                                    | Hindu Beliefs                                                                                                                                                                                                           | Judaism                                                                                     | Christianity                                                                           |
