@@ -55,9 +55,9 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 
 **Reference Number**
  
-- **Arabic Scheme by Dar-us-Salam (In Collection)**: *Hadith N*
-- **Arabic Scheme by Dar-us-Salam (In Book)**: *Book A (Chapter B), Hadith Y*
-- **UCS-MCA Web English Translation (deprecated)**: *Vol. N, Book A (Chapter B), Hadith Y*
+- **Arabic Scheme by Dar-us-Salam (Within Collection)**: *Hadith N*
+- **Arabic Scheme by Dar-us-Salam (Within Book)**: *Book A (Chapter B), Hadith Y*
+- **English Translation Scheme by UCS-MCA Web (deprecated)**: *Vol. N, Book A (Chapter B), Hadith Y*
 
 **Grade**
 
@@ -68,9 +68,11 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 
 **Chain of Report**
 
-- Chain of Report 1
-    - ***Reporter 1** Full Name* said (on the authority of ***Authority** Full Name*) that
-    - ➡ ***Reporter 2** Full Name* said (on the authority of ***Authority** Full Name*) that
-    - ➡ ***Reporter 3** Full Name* said (on the authority of ***Authority** Full Name*) that
-    - ...
-    - ➡ **_Allah's Messenger_** _Mohammed ibn Abdullah ibn Abd al-Muttalib_ ﷺ OR ***Someone Else** Full Name*
+==**Chain of Report 1:**==
+
+| Sl. No. | Reporter Name                                                                                                                                          | Reporter Grade | Authority Name (if any)                             | Date of Living of the Reporter |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | --------------------------------------------------- | ------------------------------ |
+| 1       | **Reporter 1** Full Name (**Arabic Name** Full Name)                                                                                                   |                | **Authority** Full Name (**Arabic Name** Full Name) |                                |
+| 2       | **Reporter 2** Full Name (**Arabic Name** Full Name)                                                                                                   |                | **Authority** Full Name (**Arabic Name** Full Name) |                                |
+| ...     |                                                                                                                                                        |                |                                                     |                                |
+| N       | **Allah's Messenger** Mohammed ibn Abdullah ibn Abd al-Muttalib ﷺ (**Arabic Name** Full Name) / **Someone Else** Full Name (**Arabic Name** Full Name) | N/A            |                                                     |                                |
