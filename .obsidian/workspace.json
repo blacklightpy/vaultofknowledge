@@ -385,7 +385,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -453,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Parables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Parables.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🗃️ Unorganized/General Notes/Parables.md"
               }
             }
           },
@@ -548,8 +548,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f3fe2d9c9de27298",
+  "active": "1ea68d88ca1c6d3d",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
     "🗃️ Unorganized/General Notes/How to cite Hadiths.md",
@@ -575,7 +576,6 @@
     "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
-    "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
