@@ -8,7 +8,12 @@
 
 Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 
-> [text quote / screenshot]
+> [text quote / screenshot] (Arabic)
+> **Reporter 1**, a companion of Mohammed narrates:
+> 
+> Allah's Messenger ﷺ said: "Hadith narration" 
+
+> [text quote / screenshot] (English Translation)
 > **Reporter 1**, a companion of Mohammed narrates:
 > 
 > Allah's Messenger ﷺ said: "Hadith narration" 
@@ -28,7 +33,6 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 | Sahih/Hasan/Da'if/Mawdu | **Dar-us-Salam**                         |
 | Sahih/Hasan/Da'if/Mawdu | Sheikh Muhammad Nasiruddin **Al-Albani** |
 
-
 **Duplicate / Similar Reports**
 
 - If any (duplicate / similar)
@@ -37,7 +41,12 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 
 Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 
-> [text quote / screenshot]
+> [text quote / screenshot] (Arabic)
+> **Reporter 1**, a companion of Mohammed narrates:
+> 
+> Allah's Messenger ﷺ said: "Hadith narration" 
+
+> [text quote / screenshot] (English Translation)
 > **Reporter 1**, a companion of Mohammed narrates:
 > 
 > Allah's Messenger ﷺ said: "Hadith narration"
@@ -60,8 +69,8 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 **Chain of Report**
 
 - Chain of Report 1
-    - ***Reporter 1** Full Name* said (on the authority of)
-    - ➡ ***Reporter 2** Full Name* (who) said (on the authority of)
-    - ➡ ***Reporter 3** Full Name* (who) said (on the authority of)
+    - ***Reporter 1** Full Name* said (on the authority of ***Authority** Full Name*) that
+    - ➡ ***Reporter 2** Full Name* said (on the authority of ***Authority** Full Name*) that
+    - ➡ ***Reporter 3** Full Name* said (on the authority of ***Authority** Full Name*) that
     - ...
-    - ➡ **_Allah's Messenger_** _Mohammed ibn Abdullah ibn Abd al-Muttalib_ ﷺ
+    - ➡ **_Allah's Messenger_** _Mohammed ibn Abdullah ibn Abd al-Muttalib_ ﷺ OR ***Someone Else** Full Name*
