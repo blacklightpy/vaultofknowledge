@@ -88,4 +88,11 @@ Qutayba bin Sa'id bin Jamil (Third Century)
 Hadith Collectors
 
 
-Muhammad bin 'Abdullah bin 'AR (F) > 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari (S) > Y'aqub bin 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari
+'Abdur Rahman bin 'Abd al-Qari (C) >
+'Abdullah bin 'Abdur Rahman bin 'Abd Qari (F) >
+Muhammad bin 'Abdullah bin 'Abdur Rahman bin 'Abd al-Qari (F) >
+'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari (S) >
+Y'aqub bin 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari
+
+
+**[Dhakwan Abu Salah al-Saman al-Ziyat](https://www.muslimscholars.info/manage.php?submit=scholar&ID=11161 "Dhakwan Abu Salah al-Saman al-Ziyat,Abu Salah, Abu Suhayl [d. 101 AH] [Medina,Kufa]")**
