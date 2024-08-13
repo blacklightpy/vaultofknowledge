@@ -94,5 +94,6 @@ Muhammad bin 'Abdullah bin 'Abdur Rahman bin 'Abd al-Qari (F) >
 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari (S) >
 Y'aqub bin 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari
 
-
-**[Dhakwan Abu Salah al-Saman al-Ziyat](https://www.muslimscholars.info/manage.php?submit=scholar&ID=11161 "Dhakwan Abu Salah al-Saman al-Ziyat,Abu Salah, Abu Suhayl [d. 101 AH] [Medina,Kufa]")**
+Abu Hurarira (C)
+Dhakwan Abu Salah al-Saman al-Ziyat (Abu Salah / Abu Suhayl) (on the authority of Abu Hurarira) (F)
+Suhail bin Abi Salah Al-Saman Abu Yazid (F)
