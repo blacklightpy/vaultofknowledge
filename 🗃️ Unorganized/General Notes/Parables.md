@@ -26,6 +26,17 @@
 	- Example 1:
 		- Reading the Bible (Personal Experience)
 
+- Parable of Utopia
+	- Shari'ah is a way of peace
+	- It's just that it's a way of imbalance
+	- If a child would spend its entire life in its home, and only eat from the garden, it would be peaceful
+	- But it's just that, that's not what a child is designed to do
+	- Fitrah (Natural Disposition) as outlined in the Shari'ah is not my natural disposition at least
+	- They say that "whoever Allah leads astray, no one can guide him"
+	- But in reality, that's what every self-centered person says when others don't behave in the way he expects them to
+	- "One day you will realize and be humbled" is the most subjective argument that doesn't mean anything
+	- Such an argument has value when someone is way off some empirical truth one has experience with
+	- But you it has no value when you are just spouting your idea of what is the right
 
 **My Philosophy** #rough #post
 My philosophy is founded on two basic principles, that is:
