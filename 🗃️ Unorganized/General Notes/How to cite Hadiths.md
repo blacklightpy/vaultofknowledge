@@ -80,3 +80,12 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 Qutayba bin Sa'id bin Jamil     ——»    Y'aqub bin 'Abdur Rahman *     ——»    'Abdur Rahman bin Muhammad     ——»    Abu Hurairah
 
 (Companions) -> (Successors of Followers) -> Successors of Followers
+
+Abu Hurarirah (Companion)
+'Abdur Rahman bin Muhammad (Follower)
+Y'aqub bin 'Abdur Rahman (Successor of Follower)
+Qutayba bin Sa'id bin Jamil (Third Century)
+Hadith Collectors
+
+
+Muhammad bin 'Abdullah bin 'AR (F) > 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari (S) > Y'aqub bin 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari
