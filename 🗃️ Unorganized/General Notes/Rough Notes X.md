@@ -219,10 +219,14 @@ See 6:153 again (forgot)
 
 - Jaria / Sabaya (Slave Women)
 ## About Hadiths
+- Muhaddith (Hadith narrator)
 - Isnad (Chain of Transmission)
+- Matn (Text of Hadith)
+### Type
 - Musnad (Hadiths organized by the collector)
-- 
-
+- Musannaf (Hadiths organized according to the Companion who narrated it)
+### Grading of 
+### Grading of Hadith
 - Sahih / Saheeh (Strong)
 - Hasan (Good)
 - Da'if / Da'eef (Weak)

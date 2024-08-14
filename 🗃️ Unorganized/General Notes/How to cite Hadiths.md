@@ -76,24 +76,3 @@ Narrated by Imam ***Name** Full Name* in **Ahadith Collection**:
 | 2       | **Reporter 2** Full Name (**Arabic Name** Full Name)                                                                                                   |                | **Authority** Full Name (**Arabic Name** Full Name) |                                |
 | ...     |                                                                                                                                                        |                |                                                     |                                |
 | N       | **Allah's Messenger** Mohammed ibn Abdullah ibn Abd al-Muttalib ﷺ (**Arabic Name** Full Name) / **Someone Else** Full Name (**Arabic Name** Full Name) | N/A            |                                                     |                                |
-
-Qutayba bin Sa'id bin Jamil     ——»    Y'aqub bin 'Abdur Rahman *     ——»    'Abdur Rahman bin Muhammad     ——»    Abu Hurairah
-
-(Companions) -> (Successors of Followers) -> Successors of Followers
-
-Abu Hurarirah (Companion)
-'Abdur Rahman bin Muhammad (Follower)
-Y'aqub bin 'Abdur Rahman (Successor of Follower)
-Qutayba bin Sa'id bin Jamil (Third Century)
-Hadith Collectors
-
-
-'Abdur Rahman bin 'Abd al-Qari (C) >
-'Abdullah bin 'Abdur Rahman bin 'Abd Qari (F) >
-Muhammad bin 'Abdullah bin 'Abdur Rahman bin 'Abd al-Qari (F) >
-'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari (S) >
-Y'aqub bin 'Abdur Rahman bin Muhammad bin 'Abdullah bin 'Abd Qari
-
-Abu Hurarira (C)
-Dhakwan Abu Salah al-Saman al-Ziyat (Abu Salah / Abu Suhayl) (on the authority of Abu Hurarira) (F)
-Suhail bin Abi Salah Al-Saman Abu Yazid (F)
