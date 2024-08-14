@@ -344,6 +344,19 @@ Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and
 - How to perform ADB Backup
 - Android Partition Table
 
+Part 0 Remember Predestination:
+This is part 0, because this was a later addition.
+
+I was concerned about your safety, and I wondered, how do we protect women?
+The traditional approach is to lock women up and make them wear veils.
+However, this is against our principles of freedom.
+
+Solving the problem of rape entirely requires yet another revival of the Renaissance Era.
+But until then, here's what I have cooked up.
+
+I'll proceed from a non-religious perspective.
+
+Part I:
 Why I cannot lie:
 
 I cannot place one foot forward unless capitalism is wiped off the face of the people of earth.
