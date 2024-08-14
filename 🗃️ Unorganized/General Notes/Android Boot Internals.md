@@ -344,7 +344,7 @@ Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and
 - How to perform ADB Backup
 - Android Partition Table
 
-Part 0 Remember Predestination:
+Part 0 Remember Predestination // Aristotle's Philosophy of The Unmoved Mover:
 This is part 0, because this was a later addition.
 
 I was concerned about your safety, and I wondered, how do we protect women?
@@ -355,6 +355,16 @@ Solving the problem of rape entirely requires yet another revival of the Renaiss
 But until then, here's what I have cooked up.
 
 I'll proceed from a non-religious perspective.
+A question that most people have is how they can achieve freedom in this world.
+They often feel that their actions are not having the right effect, and that the world is harming them.
+That is, they feel as if the world is without order, and they are suffering in this mess.
+
+To fix that, I'll direct you to the question of what randomness is.
+I had explained this on Instagram early in 2020/21 (as a part of explaining the cryptography involved in cryptocurrencies), however, that was after you sdafadfs. So I was dxf
+
+Anyways, so, when you roll a dice, you get a random number. But it's only as random because you have not computed all the weights and forces acting on the die and the trajectory it takes. If you carefully throw a die, you can get the desired number with practice.
+
+Now, we human beings are not really that random. 
 
 Part I:
 Why I cannot lie:
