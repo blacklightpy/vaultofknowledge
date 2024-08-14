@@ -489,7 +489,7 @@ This is wishful thinking.
 
 Tafsirs are written by Mufassir (plural: Mufassirun)
 
-- Madhhab (Schools)
+- Madhhab (Schools of Jursiprudence)
 	- Sunni
 		- Shafi
 		- Maliki
@@ -500,6 +500,13 @@ Tafsirs are written by Mufassir (plural: Mufassirun)
 	- Ibadi
 		- Azzabas
 		- Nukkar
+		- Wahbiyyah
+
+I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
+- Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
+- Sub Denominations
+- Aqidah (mix and match)
+- Madhhab (mix and match)
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
