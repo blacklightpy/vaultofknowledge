@@ -440,7 +440,8 @@ This is wishful thinking.
 		- Sunnah (Tradition)
 			- Hadeeth / Ahadeeth (Reports of Sayings and Actions of Mohammed and his Companions)
 				- Types, Sections, Grading, etc.: https://www.islam.org.uk/hadith/types-of-hadith/
-			- Sharhs / Shurooh (Commentaries on the Hadith)
+				- Madrasa Curriculum: https://islamclass.wordpress.com/2012/05/19/ulum-al-hadith-curriculum/
+			- Sharhs / Shurooh (Commentaries on the Ahadeeth)
 			- Sirahs (Biography of Mohammed)
 	- Secondary Sources
 		- Ijma As Sahabah (Consensus)
