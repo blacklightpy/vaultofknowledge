@@ -495,8 +495,11 @@ Tafsirs are written by Mufassir (plural: Mufassirun)
 		- Maliki
 		- Hanafi
 		- Hanbali
-	- Shia
-		- Jafar
+	- Shi'a
+		- Jafari
+	- Ibadi
+		- Azzabas
+		- Nukkar
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
