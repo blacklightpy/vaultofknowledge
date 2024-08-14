@@ -534,7 +534,10 @@ I guess there are sects (denomications) based on historical events, and sects ha
 			- Sufis / Ahl al-Wijdan wa al-Kashf (People of Religious Ecstasy and the Matters of the Heart)
 	- Shi'a
 	- Ibadi
-	- Salafiyya 
+	- Salafi
+	- Directly Violent Jihadists
+		- Wahhabi (by Muhammad Ibn 'Abd al-Wahhab)
+		- Qutbi (by Sayyid Qutb)
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
