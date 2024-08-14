@@ -219,7 +219,11 @@ See 6:153 again (forgot)
 
 - Jaria / Sabaya (Slave Women)
 ## About Hadiths
-- Muhaddith (Hadith narrator)
+- https://talibnotes.com/hadith-terminology-summary/
+- https://en.wikipedia.org/wiki/Hadith_terminology#Terminology_relating_to_the_number_of_narrators_in_an_isnad (See outline for Sunni vs Shia vs Ibadi (and Ahmadi) hadeeths)
+
+- Muhaddith (Hadith collector)
+- Raawee (Hadith narrator)
 - Isnad (Chain of Transmission)
 - Matn (Text of Hadith)
 ### Type
