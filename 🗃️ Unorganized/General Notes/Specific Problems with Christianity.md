@@ -524,10 +524,17 @@ I guess there are sects (denomications) based on historical events, and sects ha
 
 - Aqidah
 	- Sunni
-		- Ahl Al-R'ay
-			- Ash'ari
-			- Maturdi
-		- Ahl Al-Hadith
+		- In Terms of Belief
+			- Ahl Al-R'ay (People of Reason)
+				- Ash'ari
+				- Maturdi
+			- Ahl Al-Hadith (People of Ahadeeth)
+				- Athari
+		- In terms of Ihsan (Beauty)
+			- Sufis / Ahl al-Wijdan wa al-Kashf (People of Religious Ecstasy and the Matters of the Heart)
+	- Shi'a
+	- Ibadi
+	- Salafiyya 
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
@@ -1309,6 +1316,14 @@ A good scholar should memorize the Quran, a great deal of Ahadeeth, Principles o
 - Alim
 - Faqih
 - Sheik
+
+
+
+
+
+
+
+
 
 
 
