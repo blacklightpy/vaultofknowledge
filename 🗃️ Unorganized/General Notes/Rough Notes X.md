@@ -172,6 +172,7 @@ See 6:153 again (forgot)
 - Iman (Faith)
 - Taqwa (Piety)
 
+- 'Aql (Intellect)
 - 'Ilm (Science)
 - Uloom (Sciences)
 - Kalam (Word)

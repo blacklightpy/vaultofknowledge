@@ -487,19 +487,28 @@ This is wishful thinking.
 		- Tabrisi (Ts)
 		- Zamashshari (Z)
 
-Tafsirs are written by Mufassir (plural: Mufassirun)
+Tafsirs are written by Mufassir (plural: Mufassiroon)
 
-- Madhhab (Schools of Jursiprudence)
+- Madhhabs / Madhhahib (Schools of Jursiprudence)
 	- Sunni
-		- Shafi'i (based on Imam Shafi'i)
-		- Maliki (based on Imam Malik)
-		- Hanafi (based on Imam Hanifa)
-		- Hanbali (based on Imam Ahmed ibn Hanbal)
+		- Active
+			- Shafi'i (based on Imam **Shafi'i**)
+			- Maliki (based on Imam **Malik**)
+			- Hanafi (based on Imam Abu **Hanifa**)
+			- Hanbali (based on Imam Ahmed ibn **Hanbal**)
+		- Other
+			- Zahiri
+			- Awza'i
+			- Thawri
+			- Laythi
+			- Jariri
 	- Shi'a
-		- Ithna Ashari (Jafari Madhhab)
-		- Zaydi
-		- Ismaili
-	- Muhakkima
+		- Popular
+			- Ithna Ashari (Jafari Madhhab)
+			- Zaydi
+			- Ismaili
+		- Other
+	- Muhakkima / al-Harurriya (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbd Allāh ibn Sabāʾ al-Ḥimyarī)
 		- Khwariji
 		- Ibadi
 			- Azzabas
@@ -511,6 +520,14 @@ I guess there are sects (denomications) based on historical events, and sects ha
 - Sub Denominations
 - Aqidah (mix and match)
 - Madhhab (mix and match)
+
+
+- Aqidah
+	- Sunni
+		- Ahl Al-R'ay
+			- Ash'ari
+			- Maturdi
+		- Ahl Al-Hadith
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
@@ -1292,14 +1309,6 @@ A good scholar should memorize the Quran, a great deal of Ahadeeth, Principles o
 - Alim
 - Faqih
 - Sheik
-
-
-
-
-
-
-
-
 
 
 
