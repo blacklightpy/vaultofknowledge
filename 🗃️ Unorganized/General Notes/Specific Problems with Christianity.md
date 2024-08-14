@@ -491,16 +491,20 @@ Tafsirs are written by Mufassir (plural: Mufassirun)
 
 - Madhhab (Schools of Jursiprudence)
 	- Sunni
-		- Shafi
-		- Maliki
-		- Hanafi
-		- Hanbali
+		- Shafi'i (based on Imam Shafi'i)
+		- Maliki (based on Imam Malik)
+		- Hanafi (based on Imam Hanifa)
+		- Hanbali (based on Imam Ahmed ibn Hanbal)
 	- Shi'a
-		- Jafari
-	- Ibadi
-		- Azzabas
-		- Nukkar
-		- Wahbiyyah
+		- Ithna Ashari (Jafari Madhhab)
+		- Zaydi
+		- Ismaili
+	- Muhakkima
+		- Khwariji
+		- Ibadi
+			- Azzabas
+			- Nukkar
+			- Wahbiyyah (based on Abd Allah ibn Wahb al-Rasibi's teachings)
 
 I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
 - Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
