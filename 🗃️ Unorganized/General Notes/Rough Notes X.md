@@ -169,6 +169,9 @@ See 6:153 again (forgot)
 	  **Fatawa Islamiyah** might also be a good resource. I haven't gone through those in a long time but try vols. 6 & 8.
 
 # Terms
+- 'Ilm (Science)
+- Uloom (Sciences)
+- Kalam (Word)
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
 - Ahl al-Sunnah wa'l-Jamaa'ah (People of Tradition and The Majority) / Sunni
@@ -229,8 +232,9 @@ See 6:153 again (forgot)
 ### Type
 - Musnad (Hadiths organized by the collector)
 - Musannaf (Hadiths organized according to the Companion who narrated it)
-### Grading of 
-### Grading of Hadith
+### Grading of Narrators
+- 
+### Grading of Hadith (Isnad and Matn)
 - Sahih / Saheeh (Strong)
 - Hasan (Good)
 - Da'if / Da'eef (Weak)
