@@ -436,8 +436,12 @@ This is wishful thinking.
 - Islam
 	- Primary Sources
 		- Quran
-		- Hadith
-			- Types, Sections, Grading, etc.: https://www.islam.org.uk/hadith/types-of-hadith/
+		- Tafsirs / Tafsiroon (Commentaries on the Quran)
+		- Sunnah (Tradition)
+			- Hadeeth / Ahadeeth (Reports of Sayings and Actions of Mohammed and his Companions)
+				- Types, Sections, Grading, etc.: https://www.islam.org.uk/hadith/types-of-hadith/
+			- Sharhs / Shurooh (Commentaries on the Hadith)
+			- Sirahs (Biography of Mohammed)
 	- Secondary Sources
 		- Ijma As Sahabah (Consensus)
 		- Qiyas (Analogical Reasoning)
@@ -449,7 +453,7 @@ This is wishful thinking.
 	- Istihsan (Equity in Islamic Law)
 - Urf (Customs)
 	- Sadd al-Dhara’i (Blocking the Means)
-
+## Secondary Sources in Detail
 - Fatwas of the Companions
 - Fatwas of the Followers (Tabi'un)
 - Consensus (Ijma')

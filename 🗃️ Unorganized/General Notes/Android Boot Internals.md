@@ -391,3 +391,7 @@ I'll never say FL
 I was afraid, still am (BBT comparison to Shelly)
 
 Change should be reversible # divergent pt
+
+Part N
+I'm afraid of X
+

@@ -172,6 +172,10 @@ See 6:153 again (forgot)
 - 'Ilm (Science)
 - Uloom (Sciences)
 - Kalam (Word)
+- Mutakallim (Scholar of Theology)
+- R'ay (Sound Reasoning)
+- Qiyas (Analogical Deduction)
+- Falsafa (Philosophy)
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
 - Ahl al-Sunnah wa'l-Jamaa'ah (People of Tradition and The Majority) / Sunni
