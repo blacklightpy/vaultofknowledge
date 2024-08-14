@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sunnah qiyas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -436,7 +436,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -452,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -549,11 +550,11 @@
   },
   "active": "606b82df69f38c12",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/How to cite Hadiths.md",
     "🗃️ Unorganized/General Notes/Parables.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
     "🗃️ Unorganized/General Notes/Claimed Islamic Progressivisms.md",
     "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",

@@ -169,6 +169,9 @@ See 6:153 again (forgot)
 	  **Fatawa Islamiyah** might also be a good resource. I haven't gone through those in a long time but try vols. 6 & 8.
 
 # Terms
+- Iman (Faith)
+- Taqwa (Piety)
+
 - 'Ilm (Science)
 - Uloom (Sciences)
 - Kalam (Word)
@@ -228,10 +231,12 @@ See 6:153 again (forgot)
 ## About Hadiths
 - https://talibnotes.com/hadith-terminology-summary/
 - https://en.wikipedia.org/wiki/Hadith_terminology#Terminology_relating_to_the_number_of_narrators_in_an_isnad (See outline for Sunni vs Shia vs Ibadi (and Ahmadi) hadeeths)
-
+### People
 - Muhaddith (Hadith collector)
 - Raawee (Hadith narrator)
-- Isnad (Chain of Transmission)
+### Sections
+- Sanad / Isnad (Chain of Transmission)
+- Taraf (Introductory Text for Context)
 - Matn (Text of Hadith)
 ### Type
 - Musnad (Hadiths organized by the collector)
