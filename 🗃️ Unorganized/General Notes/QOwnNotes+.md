@@ -22,3 +22,8 @@
 		- After a few generations, the family lines still get distant, so it will be just like marrying a stranger
 		- That would mean that incest with sisters is not that bad outside of the initial phase
 		- The reason this would be bad, would only be to encourage connecting with other humans
+
+- Taylor Swift
+	- When rich people face the slightest inconvenience, they throw tantrums
+	- Taylor Swift calls herself a tortured poet despite there not being a perceptible scratch to her body or soul
+	- This is similar to how American teens think they live under tyranny, not because of the homelessness, but because of the taxes
