@@ -13,9 +13,24 @@
 	- PreLoader Mode (MTK)
 - Next Stage
 	- System Mode
-	- Fastboot Mode / Download Mode
-		- Fastbootd Mode (lighter, I believe)
+	- Fastboot Mode / Download Mode / Bootloader Mode (Flash physical partitions)
+	- Fastbootd Mode (Flash logical partitions)
 	- Recovery Mode
+
+
+> [!NOTE]
+> **Types of Stock ROMs**
+> - ROM Full Image (Fastboot)
+> - ROM Full Archive (Recovery)
+> - ROM OTA Archive (Recovery)
+>
+> **Types of Custom ROMs**
+> - ROM Full Archive (Recovery)
+> - ROM OTA Archive (Recovery)
+>
+> Stock Recovery cannot flash custom ROMs as they do not the digital signatures that the recovery checks for.
+> Custom Recoveries cannot flash stock ROM Archives as the ZIPs check for the stock system integrity of the device.
+
 ## Files
 - boot.img
 - vbmeta.img (newer ROMs)
@@ -279,7 +294,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 # OEM Stuff
 ## General Recovery
 ### Xiaomi MiAssistant (formerly Mi PC Suite)
-## Download Mode
+## Download Mode / Fastboot Mode / Bootloader Mode
 ### Samsung Odin / Heimdall
 ## Protection Mechanisms
 ### Samsung KNOX
