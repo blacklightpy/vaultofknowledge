@@ -41,17 +41,23 @@ The general components to modify are:
 - [[Window Managers]]
 ## In Android
 - Custom Recovery
+	- CWM
 	- TWRP
 	- OFRP
 	- PBRP
 	- SHRP
 	- RWRP
 - Android Distribution
+	- Cyanogen Mod
 	- Lineage OS
 	- Resurrection Remix (deprecated)
 	- Havoc OS
 	- Cherish OS
 	- Project Matrixx
+### Other ROMS
+- https://github.com/musabcel/android_rom_list (Too many: Android ROMs | MIUI ROMs | GSI ROMs | Custom Recoveries)
+
+
 - KWGT Widgets [Proprietary]
 # System Customization
 ## In Microsoft Windows [Proprietary]

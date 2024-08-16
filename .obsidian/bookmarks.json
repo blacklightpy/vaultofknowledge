@@ -203,6 +203,58 @@
         }
       ],
       "title": "Pre-Islamic Analysis"
+    },
+    {
+      "type": "group",
+      "ctime": 1723844450346,
+      "items": [],
+      "title": "Islamic Analysis (Linux)"
+    },
+    {
+      "type": "group",
+      "ctime": 1723844469540,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1723844506094,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1723844576660,
+              "path": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1723844594337,
+              "path": "🗃️ Unorganized/General Notes/Android Partitions.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1723844606292,
+              "path": "🗃️ Unorganized/General Notes/Hacking the fake phone.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1723844621114,
+              "path": "🗃️ Unorganized/General Notes/Building a custom Android distribution.md"
+            }
+          ],
+          "title": "Android"
+        },
+        {
+          "type": "group",
+          "ctime": 1723844512702,
+          "items": [],
+          "title": "Telecom"
+        },
+        {
+          "type": "group",
+          "ctime": 1723844527752,
+          "items": [],
+          "title": "Hadiths"
+        }
+      ],
+      "title": "Android, Telecom and Hadiths (Windows)"
     }
   ]
 }
