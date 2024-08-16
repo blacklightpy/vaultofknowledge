@@ -14,7 +14,7 @@ The advantage of secular social machines is that it allows for multiple God back
 
 An analogy:
 
-| Level | Religion         | Automation                | Remarks by People of Conversionist Religions     | Remarks                                                                            |
+| Level | Religion         | Automation                | Remarks by People of Conversionist Religions     | Remarks by People of Secular Religions                                             |
 | ----- | ---------------- | ------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | N+3   | Personal Opinion | Abstract Language         | Personal opinions are too varied, and irrelevant | Agreed, but personal opinions are relevant in shaping societal law                 |
 | N+2   | Societal Law     | Compiler                  | Societal laws are man-made and irrelevant        | Societal laws are made by men for men and are the only relevant form of governance |

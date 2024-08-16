@@ -408,12 +408,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -431,7 +431,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2845d5e9bc12e82d",
+  "active": "646a8b4c366caf49",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
