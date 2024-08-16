@@ -12,12 +12,11 @@ So the machine of following God is a machine that is different from other social
 
 The advantage of secular social machines is that it allows for multiple God backends.
 
-
 An analogy:
 
-| Level | Religion     | Automation            | Remarks |
-| ----- | ------------ | --------------------- | ------- |
-|       |              | C++                   |         |
-|       | Societal Law | Clang/LLVM            |         |
-|       | Law of God   | ISA-OS Backend        |         |
-|       | God          | Electromagnetic Field |         |
+| Level | Religion         | Automation                | Remarks by People of Conversionist Religions     | Remarks                                                                            |
+| ----- | ---------------- | ------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| N+3   | Personal Opinion | Abstract Language         | Personal opinions are too varied, and irrelevant | Agreed, but personal opinions are relevant in shaping societal law                 |
+| N+2   | Societal Law     | Compiler                  | Societal laws are man-made and irrelevant        | Societal laws are made by men for men and are the only relevant form of governance |
+| N+1   | Law of God       | ISA-Kernel-System Backend | There can only be one God                        | But the law and nature of God, is different for different religions                |
+| N     | God              | Electromagnetic Field     | Our God is the real God                          | Every person has his own understanding of God                                      |
