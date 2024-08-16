@@ -253,9 +253,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2845d5e9bc12e82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -323,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
+                "file": "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
+                "file": "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -352,7 +365,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md"
+                "file": "🗃️ Unorganized/General Notes/GOD and the MACHINE.md"
               }
             }
           },
@@ -418,8 +431,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ab56a14c9f06d27c",
+  "active": "2845d5e9bc12e82d",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
+    "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
@@ -444,8 +459,6 @@
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Meaning of Terms.md",
-    "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
-    "🗃️ Unorganized/General Notes/Evolution of Computing.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
