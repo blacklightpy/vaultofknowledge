@@ -57,6 +57,7 @@ Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn 
 - 5:32 Whoever saves a life
 - 2:256 Let there be no compulsion in religion, because the true din is clear
 
+- 2:217 Polytheism is worse than killing (actually the same ambiguous verse, but I quoted this from https://sunnahonline.com/library/purification-of-the-soul/253-taking-pride-in-islam, and while "Fitnah" is questionable, the previous and next phrases make it clear that it is talking about disbelief and elimination of religion.)
 
 - 60:10 Stealing Women
 - Shirk is a crime against Allah
