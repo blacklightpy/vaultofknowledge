@@ -58,7 +58,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 - _Panch mahabhuta_ or five great substances - ether, air, fire, water and earth. This is the revealed aspect of the physical universe.
 	- **Glossary of Terms**
 		- Samsara (Cyclic Existence)
-		- Kalachacra (The Cycle of Samsara)
+		- Kalachakra (The Cycle of Samsara)
 		- Avidya (Ignorance)
 		- Moksha (Liberation)
 		- Manas (Mind)
