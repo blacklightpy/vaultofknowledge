@@ -255,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/How to cite Hadiths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/How to cite Hadiths.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -352,7 +352,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/How to cite Hadiths.md"
               }
             }
           },
@@ -419,8 +419,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6503f0474b53675",
+  "active": "0e1d79e67c749f2a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
@@ -428,7 +429,6 @@
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
