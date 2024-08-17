@@ -188,224 +188,242 @@ D. How conditions of transmission of Hadeeth developed?
 		- **Lahn** (Incorrect pronunciation)
 		- Safety provision added: **Aw kama Qaal**
 	- ii. Meaning alone is sufficient:
-	- They allowed Hadeeth to be narrated in meaning provided their language is sound, just and other conditions
-	- Imam Malik: All those hadeeth that is Marfu should be narrated in Lafdh (same wording). Mauquf Hadeeth (from Sahaabah and others) can be narrated in meaning
-	- Ibn Salah: Narration of meaning of the hadeeth is fine in both Marfu and Mauquf . He justified that primary concern among the Sahaabah was its meaning
+		- They allowed Hadeeth to be narrated in meaning provided their language is sound, just and other conditions
+		- Imam Malik: All those hadeeth that is Marfu should be narrated in Lafdh (same wording). Mauquf Hadeeth (from Sahaabah and others) can be narrated in meaning
+		- Ibn Salah: Narration of meaning of the hadeeth is fine in both Marfu and Mauquf . He justified that primary concern among the Sahaabah was its meaning
 	- iii. Memorizing the Summary of the Hadeeth
-	- Portion of the Hadeeth and not the complete text.
-	- Imam Bukharee did this in his Saheeh when having similar narration from other root
+		- Portion of the Hadeeth and not the complete text.
+		- Imam Bukharee did this in his Saheeh when having similar narration from other root
 - b. Written form communication:
-- i. Once the Student become known to the Shaykh, Shaykh allowed them to relay to others by means of written forms
-- ii. Reached to many by Students
-- iii. It reached to the level of Books
+	- i. Once the Student become known to the Shaykh, Shaykh allowed them to relay to others by means of written forms
+	- ii. Reached to many by Students
+	- iii. It reached to the level of Books
 ## Chapter 4: Transmission of Hadeeth
-- A. Tahammul al Hadeeth:
+
+A. Tahammul al Hadeeth:
+
 - a. the way in which Hadeeth has been received
 - b. Two components:
-- i. Al Adaah – How it was delivered to Shaykh
-- ii. Tahammum – How it was received from the students
-- B. 8 Popular forms: (range in strength and vary in forms)
+	- i. Al Adaah – How it was delivered to Shaykh
+	- ii. Tahammum – How it was received from the students
+
+B. 8 Popular forms: (range in strength and vary in forms)
+
 - a. Assima (heard)/Samaa’: Reading by the teacher
-- i. Four formats:
-- Recitation from memory by the teacher
-- Reading from books (his book/books of students compiled from his works)
-- Question and answers: Student narrating part of the hadeeth and the teacher completes it
-- Dictation: Sahaabee Waathilah ibn Asqaa was the first one. Az Zuhree used this method
-- ii. Forms: Hadathna/Hadathnee/thanaa/naa – he told to us/he told me
-- Communicated verbally and heard by students
-- Very strong form
-- iii. Akhbaranaa/Aranaa/ana – he told me of some news
-- Synonymous with Hadathna but commonly refers to method of Ard
-- iv. They say Samee’tu and the above forms (eg.: Samee’tu hadathna)
+	- i. Four formats:
+		- Recitation from memory by the teacher
+		- Reading from books (his book/books of students compiled from his works)
+		- Question and answers: Student narrating part of the hadeeth and the teacher completes it
+		- Dictation: Sahaabee Waathilah ibn Asqaa was the first one. Az Zuhree used this method
+	- ii. Forms: Hadathna/Hadathnee/thanaa/naa – he told to us/he told me
+		- Communicated verbally and heard by students
+		- Very strong form
+	- iii. Akhbaranaa/Aranaa/ana – he told me of some news
+		- Synonymous with Hadathna but commonly refers to method of Ard
+	- iv. They say Samee’tu and the above forms (eg.: Samee’tu hadathna)
 - b. ‘Ard/Alqir’aa (Student read a hadeeth infront of Shaykh)
-- i. Read from written document
-- ii. Read from memory
-- Condition is shaykh should have already memorized the hadeeth
-- iii. After reading use the word samee’tu
-- iv. Student will first copy Shaykh’s material and draw a circle at the end of every hadeeth. Once he reads back to the Shaykh, he will mark the circle
-- v. If he transmits without verification, he is called Saariq al Hadeeth (Thief of Hadeeth)
-- vi. Similar to copyright law- you can buy as many books but not allowed to make one
-- Both the above tahammum form will include entire isnaad. Following forms miss this characteristic
+	- i. Read from written document
+	- ii. Read from memory
+		- Condition is shaykh should have already memorized the hadeeth
+	- iii. After reading use the word samee’tu
+	- iv. Student will first copy Shaykh’s material and draw a circle at the end of every hadeeth. Once he reads back to the Shaykh, he will mark the circle
+	- v. If he transmits without verification, he is called Saariq al Hadeeth (Thief of Hadeeth)
+	- vi. Similar to copyright law- you can buy as many books but not allowed to make one
+		- Both the above tahammum form will include entire isnaad. Following forms miss this characteristic
 - c. Ijaaza (Permission to transmit)
-- i. Shaykh permits his student to narrate the hadeeth he heard/some of his works without having student read the books back to him
-- ii. "I have committed you to narrate of mine"
-- iii. Student did not directly hear the hadeeth from the shaykh
-- iv. It involves lot of trust upon the students by the Shaykh
-- v. If the book is unknown or shaykh who permitted is unknown, then this form of Ijaaza is unacceptable
-- vi. Form: Anba’na, naba’nee – He called our attention to
-- Muhadeeth were cautious to accept this kind of hadeeth because this is the way of Mudallees
-- Mudallees is one who perform tadlees al isnaad (Confusion in the chain) and tadless ash shuyookh (confusion by the name of the shaykh)
-- Mudallees is not fabrication as the person is not intending to fabricate rather wants to strengthen his hadeeth
+	- i. Shaykh permits his student to narrate the hadeeth he heard/some of his works without having student read the books back to him
+	- ii. "I have committed you to narrate of mine"
+	- iii. Student did not directly hear the hadeeth from the shaykh
+	- iv. It involves lot of trust upon the students by the Shaykh
+	- v. If the book is unknown or shaykh who permitted is unknown, then this form of Ijaaza is unacceptable
+	- vi. Form: Anba’na, naba’nee – He called our attention to
+		- Muhadeeth were cautious to accept this kind of hadeeth because this is the way of Mudallees
+		- Mudallees is one who perform tadlees al isnaad (Confusion in the chain) and tadless ash shuyookh (confusion by the name of the shaykh)
+		- Mudallees is not fabrication as the person is not intending to fabricate rather wants to strengthen his hadeeth
 - d. Al Munaawalah (Granting books):
-- i. Shaykh gives his verified written document/books to narrate regardless of student is aware, permitting them to narrate
-- ii. Three formats:
-- Al Mun’awala al Ijaaza (Permission in form of document) It is higher form
-- Student prepares the document, Shaykh reviews and permits to narrate it. It is lower form
-- Student prepares book and Shaykh allows to permit that particular book without reviewing the book
-- iii. Eg.: Az Zuhree granted books to Thawree, Al-Awzaa’ee and ubaydullah ibn umar
-- iv. Form: Anba’na, naba’nee
+	- i. Shaykh gives his verified written document/books to narrate regardless of student is aware, permitting them to narrate
+	- ii. Three formats:
+		- Al Mun’awala al Ijaaza (Permission in form of document) It is higher form
+		- Student prepares the document, Shaykh reviews and permits to narrate it. It is lower form
+		- Student prepares book and Shaykh allows to permit that particular book without reviewing the book
+	- iii. Eg.: Az Zuhree granted books to Thawree, Al-Awzaa’ee and ubaydullah ibn umar
+	- iv. Form: Anba’na, naba’nee
 - e. Al Mukataba/ Kitaabah (Correspondence) :
-- i. Shaykh writes a book and send them to the students and allowing them to narrate it
-- ii. Form: Person wrote to me/wrote to us
-- iii. Ibn Abbas wrote to Ibn Abee Mulyakah and Najdah
+	- i. Shaykh writes a book and send them to the students and allowing them to narrate it
+	- ii. Form: Person wrote to me/wrote to us
+	- iii. Ibn Abbas wrote to Ibn Abee Mulyakah and Najdah
 - f. Al I’laam (Announcement):
-- i. Student/Teacher announces he has the permission to narrate the particular text provided he has the original copy signed by the author to do so
-- ii. Shaykh goes through with his students and tell them that these are my hadeeth
-- iii. No explicit form of permission
-- iv. Shaykh may mention here it is forbidden for you to narrate this book then that should not be narrated
-- v. A’lamna Shaykh, A’lamna Fu;aan
+	- i. Student/Teacher announces he has the permission to narrate the particular text provided he has the original copy signed by the author to do so
+	- ii. Shaykh goes through with his students and tell them that these are my hadeeth
+	- iii. No explicit form of permission
+	- iv. Shaykh may mention here it is forbidden for you to narrate this book then that should not be narrated
+	- v. A’lamna Shaykh, A’lamna Fu;aan
 - g. Al Wassiyah (Bequest of Books):
-- i. Shaykh on his death bed allows his student to narrate particular hadeeth or some of his works
-- ii. Eg.: Abdullaah ibn zayd al Basree (d.104) given wasiyah to Ayoob
+	- i. Shaykh on his death bed allows his student to narrate particular hadeeth or some of his works
+	- ii. Eg.: Abdullaah ibn zayd al Basree (d.104) given wasiyah to Ayoob
 - h. Ar Rijaala/Wajaadah (Discovery of Books) :
-- i. When person finds a written document and finds not the author but he attributes it to some shaykh by means of handwriting/others
-- ii. Waja’tu al Fulaan
-- iii. Similar to our case – We read from published Bukharee and we have not met the Shaykh but certain it is book of Imam Bukharee
-- C. Benefits:
+	- i. When person finds a written document and finds not the author but he attributes it to some shaykh by means of handwriting/others
+	- ii. Waja’tu al Fulaan
+	- iii. Similar to our case – We read from published Bukharee and we have not met the Shaykh but certain it is book of Imam Bukharee
+
+C. Benefits:
+
 - a. From this shima, one can identity the certainty of the hadeeth and derive ahkam respectively
 - b. Demonstrates historical evolution
 - c. Practical significance
 ## Chapter 5: Ilmul Diraayah and Ilmul Riwayah
-- A. Two major Sciences of Hadeeth
+
+A. Two major Sciences of Hadeeth
+
 - a. Ilmul Diraayah
 - b. Ilmul Riwayah
-- B. Definition of Ilmul Riwayah
+ 
+B. Definition of Ilmul Riwayah
+
 - a. Linguistic: Knowledge of the narrations
 - b. Technical: Study of correct transmission of all which is attributed to Prophet like sayings, actions, approval, physical characteristics in addition to narration from Sahaabah’s, tabieen along with benefits/rules that can be extracted from it
 - c. It is the study of actual text
 - d. Examples:
-- i. Lahn in matn?
-- ii. Synonyms replaced the matn?
-- iii. Actual memorization/collection of hadeeth
+	- i. Lahn in matn?
+	- ii. Synonyms replaced the matn?
+	- iii. Actual memorization/collection of hadeeth
 - e. Muhadeeth called Usool al hadeeth as Ilmul Riwayah but it is incomplete with Diraayah
-- C. Definition of Ilmul Diraayah
+
+C. Definition of Ilmul Diraayah
+
 - a. Linguistic: Knowledge of chains and conditions of hadeeth
 - b. Technical: study of the chain of the hadeeth, and the principles that are used in determining the acceptability or unacceptability of a hadeeth.
 - c. Analytical/historical study
 - d. Conditions of the narrator and narrated
 - e. Study of the Rawi (narrator)
-- i. consists of tahmmul (Delivery), Adah, jarh wa ta’deel (Characteristics of Rawi), history/origin/death of the narrator
+	- i. consists of tahmmul (Delivery), Adah, jarh wa ta’deel (Characteristics of Rawi), history/origin/death of the narrator
 - f. Study of Marwi (narrated)
-- i. Is the isnaad is muttasil?
-- ii. Any breaks in the links?
-- iii. Conditions pertaining to Tahmmul and adah was performed
-- D. Sciences related to Ilmud Diraayah
+	- i. Is the isnaad is muttasil?
+	- ii. Any breaks in the links?
+	- iii. Conditions pertaining to Tahmmul and adah was performed
+
+D. Sciences related to Ilmud Diraayah
+
 - a. Ilm Jarh wa ta’deel – conditions of the narrator
-- i. Started with Ibn Abbas, Anas ibn Malik <= Companions
-- ii. Ibn Sireen (d. 110) <= Tabiee
-- iii. Alhamash (d.148) <= Tabut tabiee
-- iv. Early Writers:
-- Imam Tabaqat ibn Saad
-- Imam as sooyuti
-- Specific Books
-- a. Dhahabee – kashif
+	- i. Started with Ibn Abbas, Anas ibn Malik <= Companions
+	- ii. Ibn Sireen (d. 110) <= Tabiee
+	- iii. Alhamash (d.148) <= Tabut tabiee
+	- iv. Early Writers:
+		- Imam Tabaqat ibn Saad
+		- Imam as sooyuti
+		- Specific Books
+			- a. Dhahabee – kashif
 - b. Science of Rijaal al Hadeeth
-- i. Actual narrators of hadeeth were studied
-- ii. Not particular aspect alone rather a comprehensive study
-- iii. Some of the aspects:
-- honesty of the narrators
-- religious conviction of the narrator
-- trustworthiness of the narrator
-- intellectual skills of the narrators
-- iv. Some Literature:
-- Imam Bukharee’s Tareek al Kabeer
-- Ibn Hajar’s Al Isaaba tahmeedh as Sahaabah
-- Imam Sooyuti condensed it to Aynal Isaabah
+	- i. Actual narrators of hadeeth were studied
+	- ii. Not particular aspect alone rather a comprehensive study
+	- iii. Some of the aspects:
+		- Honesty of the narrators
+		- Religious conviction of the narrator
+		- Trustworthiness of the narrator
+		- Intellectual skills of the narrators
+	- iv. Some Literature:
+		- Imam Bukharee’s **Tareek al Kabeer**
+		- Ibn Hajar’s **Al Isaaba tahmeedh as Sahaabah**
+		- Imam Sooyuti condensed it to **Aynal Isaabah**
 - c. Science of Muhtaliful Hadeeth
-- i. Certain terms inherent within the hadeeth that seemingly contradict the other hadeeth
-- ii. Early writers
-- Imam Shafiee
-- Ibn Qutaybah
-- Ibn al Jawzee
+	- i. Certain terms inherent within the hadeeth that seemingly contradict the other hadeeth
+	- ii. Early writers
+		- Imam Shafiee
+		- Ibn Qutaybah
+		- Ibn al Jawzee
 - d. Science of Ilal Hadeeth
-- i. Plural of illaa
-- ii. Subtle course which blemishes the hadeeth
-- iii. Requires in-depth knowledge and personal acquaintance
-- iv. Imam Muslim
-- v. Early writers
-- Ibn Jawzee
-- Major works by Ibn katheer (d.606) – Nihayah ghareeb al hadeeth
-- Imam Suyoote condensed it
+	- i. Plural of illaa
+	- ii. Subtle course which blemishes the hadeeth
+	- iii. Requires in-depth knowledge and personal acquaintance
+	- iv. Imam Muslim
+	- v. Early writers
+		- Ibn Jawzee
+		- Major works by Ibn katheer (d.606) – Nihayah ghareeb al hadeeth
+		- Imam Suyoote condensed it
 - e. Ilm naasikhul hadeeth wal mansookhi
-- i. Hadeeth too follows the same pattern as that Qur’aan (gradual and legislative approach)
-- ii. Eg.: Prophet forbade his companion to record hadeeth in early stages but later allowed
-- iii. Ibn Jawzee (d.597)
-- a. Study of Isnaad
-- i. It identifies reports whether acceptable or not
-- ii. Ascertains level of strength and authenticity
-- iii. Preserves hadeeth literature from blemish and corruption
-- iv. Science that tests chain rigorously
-- v. Ibn Mubarak "If it is not for isnaad, anybody will say anything"
-- vi. Imam tabari’s tafseer has lot of Isnaad
-- vii. Abu Aliyah al Jilaane "Allaah gave 3 things to this community: Isnaad, lineage, Al I’raab (punctuation)"
-- viii. Two major types
-- Isnaad al Alee
-- a. Few narrators
-- b. Something preferred over Isnaad naazi
-- c. If some one heard the same hadeeth earlier, that would be preferred as Isnaad al Alee
-- Isnaad naazi
-- a. Many narrators
-- b. Starts from major Imams
-- E. Literature related to Ilmur Riwayah
-- Imam Ahmad collected 750,000 hadeeth but recorded around 40,000 hadeeth
+	- i. Hadeeth too follows the same pattern as that Qur’aan (gradual and legislative approach)
+	- ii. Eg.: Prophet forbade his companion to record hadeeth in early stages but later allowed
+	- iii. Ibn Jawzee (d.597)
+- f. Study of Isnaad
+	- i. It identifies reports whether acceptable or not
+	- ii. Ascertains level of strength and authenticity
+	- iii. Preserves hadeeth literature from blemish and corruption
+	- iv. Science that tests chain rigorously
+	- v. Ibn Mubarak "If it is not for isnaad, anybody will say anything"
+	- vi. Imam tabari’s tafseer has lot of Isnaad
+	- vii. Abu Aliyah al Jilaane "Allaah gave 3 things to this community: Isnaad, lineage, Al I’raab (punctuation)"
+	- viii. Two major types
+		- Isnaad al Alee
+			- a. Few narrators
+			- b. Something preferred over Isnaad naazi
+			- c. If some one heard the same hadeeth earlier, that would be preferred as Isnaad al Alee
+		- Isnaad naazi
+			- a. Many narrators
+			- b. Starts from major Imams
+
+E. Literature related to Ilmur Riwayah
+
+Imam Ahmad collected 750,000 hadeeth but recorded around 40,000 hadeeth
+
 - a. First categorization: Based on the grading of most of the hadeeth
-- i. Saheeh
-- Bukharee
-- Muslim
-- Muwatta Malik
-- ii. Hasan
-- Tirimidhee
-- Musnad Ahmad
-- Abu Dawood
-- Ibn Majah
-- iii. Da’ef
-- Ibn Abishayba
-- Tayalisee
-- Tabaranee
+	- i. Saheeh
+		- Bukharee
+		- Muslim
+		- Muwatta Malik
+	- ii. Hasan
+		- Tirimidhee
+		- Musnad Ahmad
+		- Abu Dawood
+		- Ibn Majah
+	- iii. Da’ef
+		- Ibn Abishayba
+		- Tayalisee
+		- Tabaranee
 - b. Second categorization
-- i. Sihah – Mainly of Saheeh hadeeh
-- Bukharee
-- a. Mainly ahkam
-- b. He sets two conditions
-- i. Should be a contemporary from Shaykh
-- ii. Should heard directly from Shaykh
-- Muslim
-- a. Very organized
-- b. Should be a contemporary from Shaykh
-- Jami tirimidhee
-- a. Gives introduction to Sciences of hadeeth
-- Abu Dawood
-- a. Mainly ahkam
-- Ibn Majah
-- a. Systematically organized
-- Nasaee
-- a. Have every flavour
-- Muwatta Malik
-- a. Mainly fiqhee aspect
-- ii. Jaami: Books that compiles around these 8 topic
-- Aqeedah
-- Ahkam
-- Riqaq
-- Adab
-- Tafseer
-- Thareek/Siyar
-- Fitan (trials and tribulations)
-- Appreciation and denunciation of persons and places.
-- Eg.: Tirimidhee
-- iii. Al mustadrikat
-- Take the conditions of particular imam and present his hadeeth and adds hadeeth left by original compilers for some reasons
-- Hakim taken condition of Imam Bukharee, Muslim, hadeeth with subtle defects and strange ahadeeth
-- Eg.: Al Hakim – Addhabee condensed this book
-- iv. Al Mustakhrijat
-- Collections of Ahadeeth in which a later compiler adds fresh Isnads (chains of narrators) to the traditions already collected by previous compilers.
-- Abu Nuyam Isfahani’s mustakhraj on Bukharee and Muslim
-- Ibn Abu bakr
-- v. Al Ajzaa (Juz)
-- Particular Sahabee identified and hadeeth narrated by him are reported
-- Hadeeth on particular topic
-- a. Imam Suyoote – Benefits of Salatul Dhuhaa
+	- i. Sihah – Mainly of Saheeh hadeeh
+		- Bukharee
+			- a. Mainly ahkam
+			- b. He sets two conditions
+				- i. Should be a contemporary from Shaykh
+				- ii. Should heard directly from Shaykh
+		- Muslim
+			- a. Very organized
+			- b. Should be a contemporary from Shaykh
+		- Jami tirimidhee
+			- a. Gives introduction to Sciences of hadeeth
+		- Abu Dawood
+			- a. Mainly ahkam
+		- Ibn Majah
+			- a. Systematically organized
+		- Nasaee
+			- a. Have every flavour
+		- Muwatta Malik
+			- a. Mainly fiqhee aspect
+	- ii. Jaami: Books that compiles around these 8 topic
+		- Aqeedah
+		- Ahkam
+		- Riqaq
+		- Adab
+		- Tafseer
+		- Thareek/Siyar
+		- Fitan (trials and tribulations)
+		- Appreciation and denunciation of persons and places. eg. Tirimidhee
+	- iii. Al mustadrikat
+		- Take the conditions of particular imam and present his hadeeth and adds hadeeth left by original compilers for some reasons
+		- Hakim taken condition of Imam Bukharee, Muslim, hadeeth with subtle defects and strange ahadeeth
+		- Eg.: Al Hakim – Addhabee condensed this book
+	- iv. Al Mustakhrijat
+		- Collections of Ahadeeth in which a later compiler adds fresh Isnads (chains of narrators) to the traditions already collected by previous compilers.
+		- Abu Nuyam Isfahani’s mustakhraj on Bukharee and Muslim
+		- Ibn Abu bakr
+	- v. Al Ajzaa (Juz)
+		- Particular Sahabee identified and hadeeth narrated by him are reported
+		- Hadeeth on particular topic
+			- a. Imam Suyoote – Benefits of Salatul Dhuhaa
 ## Chapter 6: Conditions for acceptability of Rawi (Narrator)
-- A. Four Conditions for Legitimacy of the narrator:
+
+A. Four Conditions for Legitimacy of the narrator:
+
 - a. Aql (intellectual ability/discernment)
 - i. Ability to discern right and wrong and ability to perform the functions of Hadeeth like Al ada’ (deliver) and Tahammul (receive)
 - ii. Based on this they considered age for narration of hadeeth. Scholars have differed in identifying the age required to deliver hadeeth (al-Ada’) and receive it (al-tahammul). .
@@ -422,49 +440,69 @@ D. How conditions of transmission of Hadeeth developed?
 - iii. Established by Testimonial
 - iv. Established by Witnesses
 - d. Al Islaam (Spiritual capability)
-- B. Historical outlook:
+
+B. Historical outlook:
+
 - a. In early stages, these 4 conditions were the practical understanding of the environment as the science was at its infancy
 - b. Later Scholars formalized the conditions and categorized
-- C. What is Jarh wa ta’deel?
+
+C. What is Jarh wa ta’deel?
+
 - a. Jarh means criticism
 - b. Ta’deel means praising
 - c. Jarh of sectarian group will not be accepted (eg.:Asharites rejecting the Rawi from Ahlus sunnah wal jamah)
-- D. Conditions of Jarh
+
+D. Conditions of Jarh
+
 - a. Ibtidaa (blemished because of bidah
 - b. Mukhalafatul thiqah (contradicts reliable narrator)
 - c. Jahalatul haal (not aware of his own circumstances)
 - d. Inqitas sanad (no break in the chain)
-- E. Conditions of Jarh attached to Adaalah (Honesty)
+
+E. Conditions of Jarh attached to Adaalah (Honesty)
+
 - a. Accusation of fabrication
 - b. Fasiq (Open transgresson)
 - c. Jahalah – when conditions of Rawi is not clear
 - d. Bid’at – person guilty of doing Bid’ah
 - e. Muroo’ah – He does things that creates doubt about his personal conduct
-- F. Conditions of Jarh attached to Dabt (accuracy)
+
+F. Conditions of Jarh attached to Dabt (accuracy)
+
 - a. Soo’ul Hifz: Bad Memorization (confuses between the text) -this riwayah or equal to more than his Saheeh riwayah
 - b. Prone to make mistakes in memory (names, dates, text, etc)
 - c. Extreme Carelessness: Person is not smart (Alghaffalah/Katharul Ghaflat)
 - d. Al wahm: Person dreams/imagines things
 - e. Mukhalafat at thiqah: Report a hadeeth that contradicts the hadeeth of thiqah (Strongly reliable)
-- G. How to deal with conflicting reports?
+
+G. How to deal with conflicting reports?
+
 - a. Somebody done Jarh (Criticism) and somebody done ta’deel (praise)
 - b. We acknowledge/reject based on reasons provided
 - c. Person unknown is called Mubham
 - d. About those whom we don’t know, we see there is no report that threatens their Adaalah.. We don’t know about his bad conduct and we don’t know about his good conduct as well so we don’t accept until something is established
-- H. Levels of Jarh wa ta’deel
+
+H. Levels of Jarh wa ta’deel
+
 - i. Person might be a outright liar – completely rejected
 - ii. Person forgets sometimes/dreams –
 - iii. Person doesn’t act upon what he knows
 ## Chapter 7: Classifications of Hadeeth terminologies (Ilm Mustalah al Hadeeth)
-- A. Introduction
+
+A. Introduction
+
 - a. Categorized according to different requirements as Hadeeth are of different types
 - b. Ibn Salah mentions around 65 classifications in his book Usool al Hadeeth and states these are sciences by itself
-- B. Ranges of authenticity:
+
+B. Ranges of authenticity:
+
 - a. Authenticity ranges between Saheeh and Da’eef
 - i. Saheeh
 - Al hasan
 - ii. Da’eef
-- C. Saheeh Hadeeth
+
+C. Saheeh Hadeeth
+
 - a. Conditions:
 - i. Hadeeth al musnad (continuous links of narrator) reaches Muhammad that marfu, mauquf, and not mursal, munqati
 - Muttasil means continuous chain but not necessary that links back to Prophet whereas musnad reaches Muhammad
@@ -521,7 +559,9 @@ D. How conditions of transmission of Hadeeth developed?
 - Hasan hadeeth which is elevated
 - Eg.: "If I have not feared for this ummah, I would have ordered them to use miswak before every salah" [Abu Dawood]
 - Hukm: same as Saheeh li Thaatihi. It obliges the person to obey the injunctions in it
-- D. Hadeeth Hasan
+
+D. Hadeeth Hasan
+
 - a. History of Hadeeh Hasan
 - i. Not known in earlier period rather introduced in later period
 - ii. In earlier period, Hadeeth hasan belongs to hadeeth Saheeh category but it did not enjoy the level of mastery of Saheeh <– Ibn Salah
@@ -549,7 +589,9 @@ D. How conditions of transmission of Hadeeth developed?
 - iv. Thaabith
 - v. Mahfooth
 - f. Hukm of Hadeeth Hasan: Treat same as Saheeh, Has authority in daily conduct and legislations
-- E. Hadeeth Da’eef
+
+E. Hadeeth Da’eef
+
 - a. Definition
 - i. Anything doesn’t meet the requirements of Saheeh or Hasan
 - ii. Weak hadeeth
@@ -606,7 +648,9 @@ D. How conditions of transmission of Hadeeth developed?
 - iii. Eg.: One Isnaad is exchanged for other Isnaad
 - iv. Requires comprehensive knowledge of Rijaal, language, places, various isnaad of the Hadeeth and long time engagement with Hadeeth and so on to identify this
 - v. Imam Bukharee, Tirimidhee discussed about Mu’allil in some of his works
-- F. According to hidden defect found in the Isnaad or text
+
+F. According to hidden defect found in the Isnaad or text
+
 - a. Hadeeth al Mudtarib/Idtiraab (Confusion)
 - i. Reported in number of different ways (chain/reports)
 - ii. All chain share same strength
@@ -629,7 +673,9 @@ D. How conditions of transmission of Hadeeth developed?
 - iii. Here Rawi is not weak rather he doen’t know the other reports
 - b. Hadeeth al Munkar:
 - i. Similar to Shadh in opposition to one who is stronger than itself and but here happens between weak narrator and Thiqaa
-- H. Hadeeth al Matrook (Discarded)
+
+H. Hadeeth al Matrook (Discarded)
+
 - a. Narrator who has been accused of fabrication.
 - b. Rawi is prone to make serious mistakes and doesn’t enjoy sound character
 - c. Hukm: Rejected
