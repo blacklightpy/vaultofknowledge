@@ -266,9 +266,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3213274f77dd4bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/National Constitutions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -336,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "file": "🗃️ Unorganized/General Notes/National Constitutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "file": "🗃️ Unorganized/General Notes/National Constitutions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -365,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
+                "file": "🗃️ Unorganized/General Notes/National Constitutions.md"
               }
             }
           },
@@ -432,12 +445,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "691ea745fb7989ae",
+  "active": "a3213274f77dd4bd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
-    "🗃️ Unorganized/General Notes/How to cite Hadiths.md",
+    "🗃️ Unorganized/General Notes/National Constitutions.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
+    "🗃️ Unorganized/General Notes/How to cite Hadiths.md",
     "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
@@ -459,7 +473,6 @@
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🗃️ Unorganized/General Notes/Signal Processing.md",
     "🗃️ Unorganized/General Notes/Signalling Theory.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

@@ -17,3 +17,8 @@
 > 
 > Abu Dawud said: It was narrated by Sulayman bin Bilal on the authority of Amr bin Abi Amr in a similar manner, and it was narrated by Abbad bin Mansour on the authority of Ikrimah on the authority of Ibn Abbas R So it was narrated by Ibn Jurayj, on the authority of Ibrahim, on the authority of Dawud bin Al-Husayn, on the authority of Ikrimah, on the authority of Ibn Abbas, who narrated it.
 
+4463
+
+1. Ibn Majah 4561
+
+1. Malik 1513
