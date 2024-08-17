@@ -1,5 +1,5 @@
 
-4462
+4462 (Hasan Sahih | Sahih)
 
 > حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَلِيٍّ النُّفَيْلِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، 
 > 
@@ -16,6 +16,12 @@
 > “Whoever you find doing the actions of the people of Lot, kill the subject and the object.”
 > 
 > Abu Dawud said: It was narrated by Sulayman bin Bilal on the authority of Amr bin Abi Amr in a similar manner, and it was narrated by Abbad bin Mansour on the authority of Ikrimah on the authority of Ibn Abbas R So it was narrated by Ibn Jurayj, on the authority of Ibrahim, on the authority of Dawud bin Al-Husayn, on the authority of Ikrimah, on the authority of Ibn Abbas, who narrated it.
+
+> Narrated Abdullah ibn Abbas:
+> 
+> The Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done.
+> 
+> Abu Dawud said: A similar tradition has also been transmitted by Sulaiman b. Bilal from 'Amr b. Abi 'Umar. And 'Abbad b. Mansur transmitted it from 'Ikrimah on the authority of Ibn 'Abbas who transmitted it from the Prophet (ﷺ). It has also been transmitted by Ibn Juraij from Ibrahim from Dawud b. Al-Husain from 'Ikrimah on the authority of Ibn 'Abbas who transmitted it from the Prophet (ﷺ).
 
 4463
 

@@ -6,3 +6,7 @@
 - But they believe Kafirs will be in hellfire forever
 
 https://islam.stackexchange.com/questions/17755/what-theological-and-historical-factors-distinguish-ibadi-islam-from-either-shia
+
+## Hadiths
+- Tartib al-Musnad
+- Jami Sahih

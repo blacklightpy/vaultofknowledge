@@ -281,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -349,7 +349,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/National Constitutions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/National Constitutions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/National Constitutions.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
               }
             }
           },
@@ -445,8 +445,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3213274f77dd4bd",
+  "active": "691ea745fb7989ae",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Ibadi Muslims.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/National Constitutions.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
@@ -472,7 +473,6 @@
     "🗃️ Unorganized/General Notes/Telecommunication Terms.md",
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🗃️ Unorganized/General Notes/Signal Processing.md",
-    "🗃️ Unorganized/General Notes/Signalling Theory.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
