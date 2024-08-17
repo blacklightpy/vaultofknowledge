@@ -10,6 +10,8 @@
 	- Allah said, who can interceded to him, except with his permission
 	- Contradiction: "The deceased neither see us, feel our call or hear us from their graves."
 	- Contradiction: Do not cry at the graves
+
+Origin of Hadith Isnads: https://sunnahonline.com/library/fiqh-and-sunnah/277-introduction-to-the-sciences-of-hadith
 # Rough
 ## My claims
 - Mohammed wanted to rule
