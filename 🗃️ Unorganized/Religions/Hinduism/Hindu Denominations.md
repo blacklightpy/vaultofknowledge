@@ -83,9 +83,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyaksha (Perception), Anumāṇa (Logical Inference), Upamāṇa (Comparison and Analogy) and Shabda (Verbal Testimony).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
-
-- It postulates Asat-Karya-Vada (Theory of Non-Existent Effect)
-
+	- It postulates Asat-Karya-Vada (Theory of Non-Existent Effect)
 - 4. Vaisheshika
 	- Naturalism
 	- It postulated that everything is made of atoms
@@ -111,10 +109,11 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- By Bhaskaracharya
 	- Individual self is both different and not different from Brahman
 	- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more
-	- 6.1.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Natural Difference and Oneness)
-		- By Nimbarkacharya
-		- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
-		- Both Oneness and Difference are equal characteristics
+	- **Sub-denominations:**
+		- 6.1.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Natural Difference and Oneness)
+			- By Nimbarkacharya
+			- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
+			- Both Oneness and Difference are equal characteristics
 - 6.2. Advaita Vedanta (Monistic)
 	- By Shankaracharya
 - 6.3. Vishishta Advaita Vedanta
@@ -126,12 +125,13 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- Brahman has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
 	- Bhakti is the sole means of liberation
 	- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
-- 6.3.1. Akshar Purushottam Darshan (termed by BAPS) / Swaminarayan Sampradaya
-	- A version of Vishishta Advaita Vedanta, where Para Brahman is Krishna
-	- Para Brahman is thought to have manifested as Swaminarayana
-	- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
-	- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
-	- BAPS believe that Akshar is always present in Earth as a guru, and an ideal devotee, in whom Purushottam resides
+	- **Sub-denominations:**
+		- 6.3.1. Akshar Purushottam Darshan (as termed by BAPS) / Swaminarayan Sampradaya
+			- A version of Vishishta Advaita Vedanta, where Para Brahman is Krishna
+			- Para Brahman is thought to have manifested as Swaminarayana
+			- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
+			- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
+			- BAPS believe that Akshar is always present in Earth as a guru, and an ideal devotee, in whom Purushottam resides
 - 6.4. Dvaita / Tattvavada Vedanta (Dualistic)
 	- By Madhavacharya
 - 6.5. Shuddha Advaita Vedanta (Pure Oneness)
