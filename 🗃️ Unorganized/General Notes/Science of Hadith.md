@@ -33,16 +33,16 @@ C. Definition of Hadeeth:
 	- i. Communication (68:4)
 	- ii. Story (20:9)
 	- iii. Speech (66:33)
-- b. Technical: words, actions, taqreer (decisions), Sifat (Moral/Physical Characteristics) of Muhammad
+- b. Technical: words, actions, **taqreer** (decisions), **Sifat** (Moral/Physical Characteristics) of Muhammad
 
 D. Definition of Sunnah
 
 - a. Linguistic: Path
-- b. Technical: way of Muhammad
+- b. Technical: Way of Muhammad
 
 E. Is Sunnah and Hadeeth are Synonymous?
 
-- a. Sunnah and Hadeeth are synonymous in the perspective that it is attributed to Muhammad (s)
+- a. Sunnah and Hadeeth are synonymous in the perspective that it is attributed to Muhammad (SAW)
 - b. Sunnah actually means physical application/Implementation of Sharee’ah
 - c. This is because Prophet said "alaikum bi sunnathi wa sunnathi khulafa rashideena, mahdeena, mimba’deena" and which includes Sunnah of Khulafa Rashideen
 
@@ -136,7 +136,7 @@ F. Early Hadeeth Literature
 	- vii. These books were compiled based on conditions and fiqh based
 - c. Tangent – When the contamination Started?
 	- i. During this time, People fabricated Hadeeth, mixed up the language, defended their sects with forged hadeeth
-	- ii. Eg.: Khawaarij developed political views and supported it with their own invented hadeeth
+	- ii. e.g. Khawaarij developed political views and supported it with their own invented hadeeth
 	- iii. This is the time Ilm Ar-Rijaal and Jarh wa ta’deel started
 
 G. Features of Hadeeth enquiry at that time
