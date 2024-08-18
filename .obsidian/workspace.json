@@ -307,7 +307,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -375,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -404,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md"
               }
             }
           },
@@ -471,10 +471,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "967e24a80a41780d",
+  "active": "9112a5abb8dcebb8",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Troubles with Reasoning with Muslims.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Troubles with Reasoning with Muslims.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "🗃️ Unorganized/General Notes/National Constitutions.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",

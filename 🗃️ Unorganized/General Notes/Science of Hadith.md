@@ -425,20 +425,20 @@ Imam Ahmad collected 750,000 hadeeth but recorded around 40,000 hadeeth
 A. Four Conditions for Legitimacy of the narrator:
 
 - a. Aql (intellectual ability/discernment)
-- i. Ability to discern right and wrong and ability to perform the functions of Hadeeth like Al ada’ (deliver) and Tahammul (receive)
-- ii. Based on this they considered age for narration of hadeeth. Scholars have differed in identifying the age required to deliver hadeeth (al-Ada’) and receive it (al-tahammul). .
-- People of Basrah allowed age of 10
-- Kufa allowed age of 20
-- Shaam allowed age of 30
+	- i. Ability to discern right and wrong and ability to perform the functions of Hadeeth like Al ada’ (deliver) and Tahammul (receive)
+	- ii. Based on this they considered age for narration of hadeeth. Scholars have differed in identifying the age required to deliver hadeeth (al-Ada’) and receive it (al-tahammul)
+		- People of Basrah allowed age of 10
+		- Kufa allowed age of 20
+		- Shaam allowed age of 30
 - b. Dabt (accuracy)
-- i. Two factors:
-- Amudahara – Person who has strong ability of memory and observation
-- One another way by which rawi becomes Dabt is acceptability of him by other Muhadeeth
+	- i. Two factors:
+		- Amudahara – Person who has strong ability of memory and observation
+		- One another way by which rawi becomes Dabt is acceptability of him by other Muhadeeth
 - c. Al Adaalah (Honesty/Justice)
-- i. Religious
-- ii. It is not a single moment/act rather continuous assessment
-- iii. Established by Testimonial
-- iv. Established by Witnesses
+	- i. Religious
+	- ii. It is not a single moment/act rather continuous assessment
+	- iii. Established by Testimonial
+	- iv. Established by Witnesses
 - d. Al Islaam (Spiritual capability)
 
 B. Historical outlook:
@@ -497,37 +497,37 @@ A. Introduction
 B. Ranges of authenticity:
 
 - a. Authenticity ranges between Saheeh and Da’eef
-- i. Saheeh
-- Al hasan
-- ii. Da’eef
+	- i. Saheeh
+		- Al hasan
+	- ii. Da’eef
 
 C. Saheeh Hadeeth
 
 - a. Conditions:
-- i. Hadeeth al musnad (continuous links of narrator) reaches Muhammad that marfu, mauquf, and not mursal, munqati
-- Muttasil means continuous chain but not necessary that links back to Prophet whereas musnad reaches Muhammad
-- ii. Not a hadeeth which is Shadhdh (hadeeth contradicts hadeeth established by thiqaa)
-- iii. Not a hadeeth which is Mu’allal (no hidden/subtle defects)
-- It may be in the text
-- It may be in chain
-- iv. Communicated by alaadil (Honesty)
-- v. Communicated by Daabit (accuracy)
+	- i. Hadeeth al musnad (continuous links of narrator) reaches Muhammad that marfu, mauquf, and not mursal, munqati
+		- Muttasil means continuous chain but not necessary that links back to Prophet whereas musnad reaches Muhammad
+	- ii. Not a hadeeth which is Shadhdh (hadeeth contradicts hadeeth established by thiqaa)
+	- iii. Not a hadeeth which is Mu’allal (no hidden/subtle defects)
+		- It may be in the text
+		- It may be in chain
+	- iv. Communicated by alaadil (Honesty)
+	- v. Communicated by Daabit (accuracy)
 - b. Saheeh hadeeth can be Ahad or Mutawattir
-- i. In general, hadeeth mutawattir means that group of people that it is impossible to conspire a lie
-- ii. Minimum number of reporters for hadeeth to be Mutawattir
-- Certain number of people at the beginning, middle and the end of the chain will make Hadeeth Mutawattir
-- Some scholars said 4 (based on Qur’aan 24:13)
-- Some said 5
-- Some said 10 because in arabic anything meets 10 is called Jamah
-- Some said it is 12 based on Qur’aan 5:11
-- Some said it is 20 based on Qur’aan 8:
+	- i. In general, hadeeth mutawattir means that group of people that it is impossible to conspire a lie
+	- ii. Minimum number of reporters for hadeeth to be Mutawattir
+		- Certain number of people at the beginning, middle and the end of the chain will make Hadeeth Mutawattir
+		- Some scholars said 4 (based on Qur’aan 24:13)
+		- Some said 5
+		- Some said 10 because in arabic anything meets 10 is called Jamah
+		- Some said it is 12 based on Qur’aan 5:11
+		- Some said it is 20 based on Qur’aan 8:
 - iii. Tawattur can happen by two ways:
-- Tawattur bil lafdh -Text (quote unquote)
-- i. Example: "whoever fabricates a hadeeth can expect a seat from the hell fire" [Bukharee]
-- ii. Narrated by 40 Sahaabah’s and among them were 10 promised Jannah
-- Tawattur al Ma’naa – Meaning (found in several supporting hadeeth)
-- i. Du’aa that indicates prophet raised his hand in du’aa
-- ii. "Actions are but by intentions"
+	- Tawattur bil lafdh -Text (quote unquote)
+		- i. Example: "whoever fabricates a hadeeth can expect a seat from the hell fire" [Bukharee]
+		- ii. Narrated by 40 Sahaabah’s and among them were 10 promised Jannah
+	- Tawattur al Ma’naa – Meaning (found in several supporting hadeeth)
+		- i. Du’aa that indicates prophet raised his hand in du’aa
+		- ii. "Actions are but by intentions"
 - iv. Ahad
 - Individual narrations
 - Joke: Ahad is like a Muslim and Mutawattir is Muhsin or Mu’min ?
@@ -1360,21 +1360,25 @@ H. Hadeeth al Matrook (Discarded)
 - a. These conflicts are apparent and not real. 
 - b. Apparent conflict appears mostly due to lack of skill 
 ## Chapter 14: Tarjeeh Discourse (Ways of Preference) 
-- A. Definition: 
+
+A. Definition: 
+
 - a. Linguistic: Preference, weightier 
 - b. Technical: 
-- i. Explanation of the Mujtahid of the extra strength in one of the zanee evidences that are contradicting each other which he tried to combine 
-- ii. Mujtahid: 
-- Consideration of the necessary information ( Aware of sciences of hadeeth, jarh wa ta’deel, Fiqh, usool and so on) 
-- its acceptability 
-- the correct method of investigation is observed 
-- the conclusions are authoritative by virtue of his/her observation of the necessary procedures 
-- Searching for potentiality of hadeeth 
-- iii. Ta’aarud Daahir: 
-- Apparent contradiction 
-- Happens in Ahad text 
-- iv. Objective of Murajih is not to make ruling rather try to benefit from it 
-- B. Three components of Tarjeeh 
+	- i. Explanation of the Mujtahid of the extra strength in one of the zanee evidences that are contradicting each other which he tried to combine 
+	- ii. Mujtahid: 
+		- Consideration of the necessary information ( Aware of sciences of hadeeth, jarh wa ta’deel, Fiqh, usool and so on) 
+		- its acceptability 
+		- the correct method of investigation is observed 
+		- the conclusions are authoritative by virtue of his/her observation of the necessary procedures 
+		- Searching for potentiality of hadeeth 
+	- iii. Ta’aarud Daahir: 
+		- Apparent contradiction 
+		- Happens in Ahad text 
+	- iv. Objective of Murajih is not to make ruling rather try to benefit from it 
+
+B. Three components of Tarjeeh 
+
 - a. Number of different ways to do Tarjeeh which goes back to the Scholar involved. The below three components broadly covers all 
 - i. Respect to Isnaad 
 - ii. Respect to Matn 
