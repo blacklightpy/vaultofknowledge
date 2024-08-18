@@ -311,10 +311,16 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - DA: Download Agent
 - xflash
 ### MTKClient GUI
-### Hydra Dongle [Paid, Hardware]
-### UMT MTK Dongle [Paid, Hardware]
-### MRT Dongle [Paid, Hardware]
-### Aqua Dongle [Paid, Hardware]
+
+## Dongles
+Most of them have a SIM, and require recharge (except Aqua)
+### Aqua Dongle [Rs. 4000, Basic]
+### Ultimate Multi Tool (UMT) Dongle [Rs. 3000]
+### Ultimate Multi Tool (UMT) Pro Dongle [Rs. 4000]
+### Ultimate Multi Tool (UMT) GSM Tool [Rs. ]
+### MRT Dongle [Rs. ]
+### Hydra Dongle [Rs. ]
+
 ## Bypass Download Mode Protection
 Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and Realme started obfuscating the process of getting to BROM mode. This way, we can only access the Download Mode using signed Download Agents.
 ### Universal MTK Tool (UMT)
