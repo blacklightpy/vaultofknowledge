@@ -1,4 +1,4 @@
-It is the default [[Pseudorandom Number Generator|PRNG]] in Python, and is in the STL in C++ (C uses Linear Congruential Generator (LCG)).
+It is the default [[Pseudorandom Number Generator|PRNG]] in Python, and is in the STL in C++ (C uses Linear Congruential Generator (LCG)). It is based on Linear Feedback Shift Register (LFSR), and hence, is reversible, and therefore not suitable for cryptography, but is good for use in physics simulations.
 
 # Algorithm
 ## Brief
