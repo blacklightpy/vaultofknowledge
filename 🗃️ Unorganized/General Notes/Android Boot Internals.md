@@ -383,7 +383,7 @@ Now, we human beings are not really that random. For example, in Captain America
 
 So how does a computer generate a random number? Well, the reality is that they don't, but rather they use a complex algorithm to generate pseudorandom numbers from an initial seed value from a source of good entropy. Simply taking values with high entropy isn't enough to get a new random number, because the natural sources of entropy wear out quickly, and it is also inefficient to fetch it everytime. Examples of sources include the current time in UNIX milliseconds or the precise temperature of a hardware device. UNIX milliseconds is not a good source, because if two computers obtained the seed value at the same time, they would generate the same subsequent random numbers. Then there are also creative stuff, for example, Cloudflare DDoS protection uses lava lamps to generate entropy, some may use the state of flowing water, and so on.
 
-So, anyways, the seed value gets fed into the pseudorandom number generator (PRNG), and it is then able to generate infinitely many new values, well, depending on the level distribution of the PRNG algorithm. A modern example is in the C++ standard library class `std:mt19337`, which is a class that implements the Mersenne-Twister algorithm, where a 
+So, anyways, the seed value gets fed into the pseudorandom number generator (PRNG), and it is then able to generate infinitely many new values, well, depending on the level distribution of the PRNG algorithm. A modern example is in the C++ standard library class `std:mt19337`, which is a class that implements the Mersenne-Twister algorithm, where a 623-dimensionally equidistributed
 
 Part I:
 Why I cannot lie:
