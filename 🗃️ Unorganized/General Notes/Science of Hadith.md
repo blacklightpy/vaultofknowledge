@@ -1048,381 +1048,427 @@ I. Significance of Storytelling today
 - b. It is possible that we can use these tools to attract people to Allaah azawajal
 # Part 2
 
-- _"People who reject Hadeeth are those who lack knowledge in Hadeeth"_ 
-- _"If Allaah have not blessed this ummmah with any science except Usool al Hadeeth, then this will be sufficient as a proof for Islaam"_ 
-
-- Subhanallaah, these are some of the amazing quotes regarding study of Usool al Hadeeth. Usool al Hadeeth, without a doubt, is a science came to protect this deen. After all they say "No one’s life history has been protected like that of the Prophet (sallalahualayhi wasallaam)" Alhamdulillaah, the credit goes again to Usool al Hadeeth.
-
-- In studying this noble science with [KIU](http://www.kiu.org/website), I made some notes taking from the classes of Shaykh Shafiq Flynn (Hafidhahullaah). I am posting here in two parts.
-
 ## Chapter 10: Ilm Jarh wa ta’deel (Criticism and Praise)
-- "Isnaad is pivotal part of Hadeeth and its discussion comprises every parts of Hadeeth"
 
-- A. Definition of **Jarh wa ta’deel**
-	- a. Jarh means criticism of narrators 
-	- b. Ta’deel means validation/praise 
-	- c. Jarh wa ta’deel is the science that tests narrators of Isnaad in terms of Adaalah and Dabt
+> "Isnaad is pivotal part of Hadeeth and its discussion comprises every parts of Hadeeth"
 
-- B. Authority from which Science extends 
-	- a. Qur’aan 49:6 – **Jarh** (Criticism) 
-	- b. Qur’aan 9:100 – **Ta’deel** (Validation)
+A. Definition of **Jarh wa ta’deel**
 
-- C. Classification Schemes overview: 
-	- a. Organization structure which presents various level of **Ta’deel** and **Jarh** in terms of strength and weakness 
-	- b. Various schemes were developed by Scholars 
-	- c. First to identify was Imam Ibn Abi Hatim ar Razi 
+- a. Jarh means criticism of narrators 
+- b. Ta’deel means validation/praise 
+- c. Jarh wa ta’deel is the science that tests narrators of Isnaad in terms of Adaalah and Dabt
 
-- D. Imam Ibn Abi Hatim ar Razi’s Scheme 
-	- a. Level 1: Sahabaah 
-		- i. Level that needs no test and all are just and accurate 
-		- ii. Doesn’t fall under **Jarh wa ta’deel**
-	- b. Level 2: Maktab Adaalah 
-		- i. Covers rest of People, from **Tabieen** to so on 
-		- ii. Levels of **Ta’deel** (From strongest to Lowest ) 
-			- **Thiqah/Hafidh** (Reliable/Memorizer) 
-			- **Sadooq** (Honest Person) 
-			- **Shaykh** (Authority but his **Dabt** and **Adaalah** are little less) 
-			- **Salih** 
-		- iii. Levels of **Jarh** (From least weak to worst) 
-			- **Laylal Hadeeth wa yuktab itibaaran** 
-				- a. Lenient Hadeeth, written and considered 
-				- b. Not an authority in and of itself. 
-				- c. It could be authoritative with supporting evidence 
-			- **Laysa bil Qawi wa yuktab itibaaran** 
-				- a. he means the narrator has not attained a level of being strong and firmly established 
-			- **Da’eef al Hadeeth** 
-				- a. Weak hadeeth which is not written down but considered later on 
-			- **Matrook al Hadeeth** 
-				- a. Not written and not contemplated 
+B. Authority from which Science extends 
 
-- E. Imam Ibn Salah: 
-	- a. He was from Iraq and came later 
-	- b. He just elaborated the system of Imam Ibn Abi Hatim 
+- a. Qur’aan 49:6 – **Jarh** (Criticism) 
+- b. Qur’aan 9:100 – **Ta’deel** (Validation)
 
-- F. Al Hafidh adh Dhahabee 
+C. Classification Schemes overview: 
+
+- a. Organization structure which presents various level of **Ta’deel** and **Jarh** in terms of strength and weakness 
+- b. Various schemes were developed by Scholars 
+- c. First to identify was Imam Ibn Abi Hatim ar Razi 
+
+D. Imam Ibn Abi Hatim ar Razi’s Scheme 
+
+- a. Level 1: Sahabaah 
+	- i. Level that needs no test and all are just and accurate 
+	- ii. Doesn’t fall under **Jarh wa ta’deel**
+- b. Level 2: Maktab Adaalah 
+	- i. Covers rest of People, from **Tabieen** to so on 
+	- ii. Levels of **Ta’deel** (From strongest to Lowest ) 
+		- **Thiqah/Hafidh** (Reliable/Memorizer) 
+		- **Sadooq** (Honest Person) 
+		- **Shaykh** (Authority but his **Dabt** and **Adaalah** are little less) 
+		- **Salih** 
+	- iii. Levels of **Jarh** (From least weak to worst) 
+		- **Laylal Hadeeth wa yuktab itibaaran** 
+			- a. Lenient Hadeeth, written and considered 
+			- b. Not an authority in and of itself. 
+			- c. It could be authoritative with supporting evidence 
+		- **Laysa bil Qawi wa yuktab itibaaran** 
+			- a. he means the narrator has not attained a level of being strong and firmly established 
+		- **Da’eef al Hadeeth** 
+			- a. Weak hadeeth which is not written down but considered later on 
+		- **Matrook al Hadeeth** 
+			- a. Not written and not contemplated 
+
+E. Imam Ibn Salah: 
+
+- a. He was from Iraq and came later 
+- b. He just elaborated the system of Imam Ibn Abi Hatim 
+
+F. Al Hafidh adh Dhahabee 
+
 - a. He was born in Damascus in 673 H 
 - b. He presented different classification system and his level of organization was different 
 - c. Levels of Ta’deel (From Strongest to lowest) 
-- i. Thiqah Hujjah/Thiqah Hafidh/Thiqah Mutqan 
-- ii. Thiqah Sadooq 
-- He’s okay and no problems with him. 
-- He has skills but lacks mastery of the skills 
-- iii. Mahilluhu as Sadooq/Ja’ed al Hadeeth/Salih al Hadeeth/Shaykh al Hadeeth 
-- Mastery is less than previous 
+	- i. Thiqah Hujjah/Thiqah Hafidh/Thiqah Mutqan 
+	- ii. Thiqah Sadooq 
+		- He’s okay and no problems with him. 
+		- He has skills but lacks mastery of the skills 
+	- iii. Mahilluhu as Sadooq/Ja’ed al Hadeeth/Salih al Hadeeth/Shaykh al Hadeeth 
+		- Mastery is less than previous 
 - d. Observations: 
-- i. He used "Summa" to indicate lower level 
-- ii. He used terminologies of Imam Abi Hatim at different levels 
-- iii. He did fused categories of 3rd and 4th level into one 
+	- i. He used "Summa" to indicate lower level 
+	- ii. He used terminologies of Imam Abi Hatim at different levels 
+	- iii. He did fused categories of 3rd and 4th level into one 
 - e. Levels of Jarh (From worst to least weak) 
-- i. Dajjal/Kaththab (Outright liar/fabriactor) 
-- ii. Muttahim bil kathib (accused of fabrication) 
-- iii. Matruk laysa bi Thiqah 
-- His hadeeth is gone 
-- iv. Da’eef Jiddah/Munkar al Hadeeth 
-- v. Laysa bi Qawi (not strong) 
-- This closest to Ta’deel category 
+	- i. Dajjal/Kaththab (Outright liar/fabriactor) 
+	- ii. Muttahim bil kathib (accused of fabrication) 
+	- iii. Matruk laysa bi Thiqah 
+		- His hadeeth is gone 
+	- iv. Da’eef Jiddah/Munkar al Hadeeth 
+	- v. Laysa bi Qawi (not strong) 
+		- This closest to Ta’deel category 
 - f. Observations: 
-- i. It is much easier to do Ta’deel than Jarh with Imam Dhahabee 
-- ii. Imam Dhahabee uses certain ambiguous terms and we are not clear about it 
+	- i. It is much easier to do Ta’deel than Jarh with Imam Dhahabee 
+	- ii. Imam Dhahabee uses certain ambiguous terms and we are not clear about it 
 
-- G. Al Hafidh al Iraqee 
+G. Al Hafidh al Iraqee 
+
 - a. Born in 735 H in Egypt and died 809 H 
 - b. Memorized Qur’aan in very early age 
 - c. His student was Imam Ibn Hajar al Asqalanee 
 - d. Al Iraqee’s first Ijaaza was given to Ibn Hajar 
 - e. His scheme is closer Imam Dhahabee’s scheme 
 - f. Levels of Ta’deel (From Highest to lowest) 
-- i. Thiqah Thiqah 
-- ii. Thiqah/Mutqan/Alhafidh 
-- iii. Sadooq 
-- iv. Salih al Hadeeth/Hasan al Hadeeth/Shaykh wasat (Mediocre Shaykh) 
+	- i. Thiqah Thiqah 
+	- ii. Thiqah/Mutqan/Alhafidh 
+	- iii. Sadooq 
+	- iv. Salih al Hadeeth/Hasan al Hadeeth/Shaykh wasat (Mediocre Shaykh) 
 - g. Levels of Jarh (From worst to least weak) 
-- i. Fulan al Kathab 
-- Seriously rejected 
-- ii. Fulan 
-- iii. Mardoo al Hadeeth 
-- iv. Fulan Da’eef 
-- v. Fulan feehe makal 
-- He could be okay but lack of proficiency surrounding him which causes doubt to accept him 
+	- i. Fulan al Kathab 
+		- Seriously rejected 
+	- ii. Fulan 
+	- iii. Mardoo al Hadeeth 
+	- iv. Fulan Da’eef 
+	- v. Fulan feehe makal 
+		- He could be okay but lack of proficiency surrounding him which causes doubt to accept him 
 
-- H. Imam Ibn Hajar al Asqalanee 
+H. Imam Ibn Hajar al Asqalanee 
+
 - a. Born in Cairo in 773 H 
 - b. Learnt under Imam Iraqee and travelled with him in search of Hadeeth 
 - c. He doesn’t clearly identified Jarh wa ta’deel as others 
 - d. He presents 12 levels which combines both Jarh wa ta’deel (From strong to worst) 
-- CLASS DESCRIPTION TERMINOLOGY 
-- 1stThe companions of the Prophet (?) Sahaabee/Sahaabeeyyah; Lahu Suhbah 
-- 2nd Highly praised narrators due to their impeccable memories Thiqah thiqah; Thiqah Haafith; or Awthaq an-Naas 
-- 3rd Generally reliable narrators Thiqah; Mutqin; Thabt or ‘Adl 
-- 4th Truthful narrators whose reliability is slightly tainted because of occasional mistakes Sadooq; Laa bas bih or Laysa bihi bas 
-- 5th Truthful narrators known to make mistakes due to poor memories, senility, misinterpretations or the like. Also included in this group are those accused of any of the following forms of Bid’ah Tashayyu’, Qadr, Nasb, Irjaa or Tajahhum. Sadooq yukhti; Yahim; Sayyi al-Hifth; Lahu awhaam or Taghayyara bi aakhirah 
-- 6th A narrator of only a few hadeeths whose rejected hadeeths are not due to defects found in him. His hadeeths should be checked out Maqbool / Maqboolah 
-- 7th One from whom more than one narrator has reported hadeeths but he has not been classified as Thiqah. Mastoor or Majhool al-haal 
-- 8th A narrator who has been criticized of being unreliable Da‘eef 
-- 9th A narrator from whom only one other narrator has reported hadeeths and he or she is not considered Thiqah. Majool 
-- 10th An unreliable narrator in the opinion of all Matrook; Saaqit; Matrooq al-hadeeth or Waahin al-hadeeth 
-- 11th One accused of lies Uttuhima bil-kathib 
-- 12th One who is classified as a liar or fabricator Kaththaab or Waddaa’ 
+
+| CLASS | DESCRIPTION                                                                                                                                                                                                                               | TERMINOLOGY                                                                 |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1st   | The companions of the Prophet (?)                                                                                                                                                                                                         | Sahaabee/Sahaabeeyyah; Lahu Suhbah                                          |
+| 2nd   | Highly praised narrators due to their impeccable memories                                                                                                                                                                                 | Thiqah thiqah; Thiqah Haafith; or Awthaq an-Naas                            |
+| 3rd   | Generally reliable narrators                                                                                                                                                                                                              | Thiqah; Mutqin; Thabt or ‘Adl                                               |
+| 4th   | Truthful narrators whose reliability is slightly tainted because of occasional mistakes                                                                                                                                                   | Sadooq; Laa bas bih or Laysa bihi bas                                       |
+| 5th   | Truthful narrators known to make mistakes due to poor memories, senility, misinterpretations or the like. Also included in this group are those accused of any of the following forms of Bid’ah Tashayyu’, Qadr, Nasb, Irjaa or Tajahhum. | Sadooq yukhti; Yahim; Sayyi al-Hifth; Lahu awhaam or Taghayyara bi aakhirah |
+| 6th   | A narrator of only a few hadeeths whose rejected hadeeths are not due to defects found in him. His hadeeths should be checked out                                                                                                         | Maqbool / Maqboolah                                                         |
+| 7th   | One from whom more than one narrator has reported hadeeths but he has not been classified as Thiqah.                                                                                                                                      | Mastoor or Majhool al-haal                                                  |
+| 8th   | A narrator who has been criticized of being unreliable                                                                                                                                                                                    | Da‘eef                                                                      |
+| 9th   | A narrator from whom only one other narrator has reported hadeeths and he or she is not considered Thiqah.                                                                                                                                | Majool                                                                      |
+| 10th  | An unreliable narrator in the opinion of all                                                                                                                                                                                              | Matrook; Saaqit; Matrooq al-hadeeth or Waahin al-hadeeth                    |
+| 11th  | One accused of lies                                                                                                                                                                                                                       | Uttuhima bil-kathib                                                         |
+| 12th  | One who is classified as a liar or fabricator                                                                                                                                                                                             | Kaththaab or Waddaa’                                                        |
 - e. As Imam Ibn Hajar came much later, these many levels and focus 
 
-- I. Al Hafidh as Sahawi 
+I. Al Hafidh as Sahawi 
+
 - a. Born in Cairo in 831 H 
 - b. Student of Ibn Hajar 
 - c. Levels of Ta’deel 
-- i. Sihatul Mubalaha 
-- ii. Individual in Skills 
-- iii. Repeats the terms 
-- iv. Term is singular 
-- v. Sudooq 
-- vi. Erwi anhoo (from whom he narrates) 
-- vii. 1-4 are authoritative 
-- viii. 5 & 6 written but not Authoritative 
+	- i. Sihatul Mubalaha 
+	- ii. Individual in Skills 
+	- iii. Repeats the terms 
+	- iv. Term is singular 
+	- v. Sudooq 
+	- vi. Erwi anhoo (from whom he narrates) 
+	- vii. 1-4 are authoritative 
+	- viii. 5 & 6 written but not Authoritative 
 - d. Levels of Jarh 
-- i. Worst 
-- ii. Kathab 
-- iii. Yusraq al Hadeeth 
-- iv. Mukab 
-- v. Da’eef 
-- vi. 
+	- i. Worst 
+	- ii. Kathab 
+	- iii. Yusraq al Hadeeth 
+	- iv. Mukab 
+	- v. Da’eef 
 
-- J. All Imam’s agreed on these three points: 
+J. All Imam’s agreed on these three points: 
+
 - a. Hadeeth which is rejected completely 
 - b. Hadeeth rejected but recorded 
 - c. Hadeeth that are recorded and considered as authority in religion 
 
 ## Chapter 11: Treatment of Hadeeth by Fiqhi Schools 
-- A. Wahy 
+
+A. Wahy 
+
 - a. Qur’aan 
-- i. contains all Usool ad deen 
-- ii. general maxims 
-- iii. Comprehensive guide 
+	- i. contains all Usool ad deen 
+	- ii. general maxims 
+	- iii. Comprehensive guide 
 - b. Hadeeth 
-- i. Contributes to Qur’aan with explanation of Muhammad Sallaalahualayhiwasallam 
-- ii. Consists two major aspects: Official and mundane 
-- One which provides Ahkam (Tashree) and other is part of his daily life 
-- Fuqaha and Usooli Scholars are interested in Tashree aspect of Hadeeth 
-- Usooli – interested in legal maxims 
-- Fuqaha – interested in hadeeth that demonstrates practical implementation of law 
+	- i. Contributes to Qur’aan with explanation of Muhammad Sallaalahualayhiwasallam 
+	- ii. Consists two major aspects: Official and mundane 
+		- One which provides Ahkam (Tashree) and other is part of his daily life 
+		- Fuqaha and Usooli Scholars are interested in Tashree aspect of Hadeeth 
+		- Usooli – interested in legal maxims 
+		- Fuqaha – interested in hadeeth that demonstrates practical implementation of law 
 - c. Hadeeth is authoritative but different in constitution from Qur’aan i.e., miraculous nature, 
 
-- B. Hanafi Math-hab: 
+B. Hanafi Math-hab: 
+
 - a. Founded by Nu’man ibn Thaabith who born in Kufa 
 - b. It is School of Ar-Rai (Opinion) 
 - c. Imam Abu Haneefa first educated in Aqlaniyaat before Fiqh and Hadeeth 
 - d. In many cases, they prefer Qiyaas, Istishaan over Hadeeth that is not being very strong or suitable for legislative purpose 
 - e. Kufa and Hadeeth 
-- i. Limited availability of Hadeeth in Kufa 
-- ii. Fabrication of Hadeeth 
-- iii. Persians who accepted hadeeth but not very convinced 
+	- i. Limited availability of Hadeeth in Kufa 
+	- ii. Fabrication of Hadeeth 
+	- iii. Persians who accepted hadeeth but not very convinced 
 - f. Abu Haneefa’s conditions in accepting Hadeeth: 
-- i. Should be narrated by Jama’ah 
-- He doesnot accept Hadeeth Ahad 
-- ii. Hadeeth should be Mashhoor (generally known) 
-- iii. Hadeeth should be used by other Scholars 
-- iv. If one Sahaabah narrates, it should be heard by other Sahaabah’s and they should not have opposed it 
+	- i. Should be narrated by Jama’ah 
+		- He doesnot accept Hadeeth Ahad 
+	- ii. Hadeeth should be Mashhoor (generally known) 
+	- iii. Hadeeth should be used by other Scholars 
+	- iv. If one Sahaabah narrates, it should be heard by other Sahaabah’s and they should not have opposed it 
 
-- C. Maliki Math-hab: 
+C. Maliki Math-hab: 
+
 - a. Imam Malik ibn Anas was a Madeenite Scholar 
 - b. It is School of Ahlul Hadeeth 
 - c. He’s from centre of Hadeeth learning 
 - d. Hadeeth and Madeenah: 
-- i. Freely available 
-- ii. High number of Scholars 
+	- i. Freely available 
+	- ii. High number of Scholars 
 - e. Silent Hadeeth: Amal Ahlul Madeenah 
-- i. Inhabitants of Madeenah are inhabitant’s of Prophet’s city and they modeled their life according to Prophet’s conduct 
-- ii. He used Amal-e-Madeenah over Ahad Hadeeth at times 
+	- i. Inhabitants of Madeenah are inhabitant’s of Prophet’s city and they modeled their life according to Prophet’s conduct 
+	- ii. He used Amal-e-Madeenah over Ahad Hadeeth at times 
 
-- D. Shafi’ee Math-hab: 
+D. Shafi’ee Math-hab: 
+
 - a. He combined Ra’i and Ahlul Hadeeth 
 - b. Close student of Imam Malik 
 - c. He is first to use the term Qiyaas itself 
 
-- E. Qiyaas: 
+E. Qiyaas: 
+
 - a. Definition 
-- i. Linguistic: Value something 
-- ii. Technical: Attaching hukm to the situation which is not textually recorded 
-- iii. Example: Drugs haram because it is something like Alcohol 
+	- i. Linguistic: Value something 
+	- ii. Technical: Attaching hukm to the situation which is not textually recorded 
+	- iii. Example: Drugs haram because it is something like Alcohol 
 - b. Conditions: 
-- i. Asl: there should be textual reference to Qur’aan or sunnah or Ijma 
-- ii. Far: It must be a new situation 
-- iii. Illaa: follows the same line of reasoning of the original hukm 
-- iv. There must be hukm like halal, haram for the Asl 
+	- i. Asl: there should be textual reference to Qur’aan or sunnah or Ijma 
+	- ii. Far: It must be a new situation 
+	- iii. Illaa: follows the same line of reasoning of the original hukm 
+	- iv. There must be hukm like halal, haram for the Asl 
 - c. Criticism: 
-- i. We are applying our own reason and logic 
-- ii. Response: 
-- If our qiyaas is not made on Qur’aan and Sunnah, then argument is valid 
-- We are working within the framework of Qur’aan and Sunnah 
-- Process of Qiyaas will make subtle haram more apparent. It is not creation of Hukm rather systematic tool to make subtleties clear 
+	- i. We are applying our own reason and logic 
+	- ii. Response: 
+		- If our qiyaas is not made on Qur’aan and Sunnah, then argument is valid 
+		- We are working within the framework of Qur’aan and Sunnah 
+		- Process of Qiyaas will make subtle haram more apparent. It is not creation of Hukm rather systematic tool to make subtleties clear 
 - d. Hadeeth played a important role in ruling based on Qiyaas 
 
-- Various approach in using Ahad and Mursal Hadeeth 
+### Various approach in using Ahad and Mursal Hadeeth 
 
-- A. Ahad Hadeeth 
+A. Ahad Hadeeth 
+
 - a. Sahaabahs unanimously agreed to its usage 
 - b. Examples from Major Sahaabah’s 
-- i. Abu Bakr: 
-- "Prophets should be buried where they died" 
-- Report of Mugheera was used to rule that grand mother’s share is 1/6th of inheritance. He asked who can support Mugheera’s statement? Muhammad ibn maslama given a witness 
-- ii. Umar ibn al Khattab: 
-- Taking Jizya from Majus based on hadeeth narrated by Abdur Rahman ibn Auf that they should be treated as like Ahlul Kitab 
-- Aboo moosa al Asharee leaving Umar’s home after knocking three times. Umar asking Aboo Moosa should find someone to support this else he will be dealt. Abu Saeed Sudan witnessed 
-- iii. Uthman: Widow to continue her iddah though her husband was deceased 
-- iv. Hadeeth of Aisha on Ghusl for two private part touching each other even without ejaculation 
+	- i. Abu Bakr: 
+		- "Prophets should be buried where they died" 
+		- Report of Mugheera was used to rule that grand mother’s share is 1/6th of inheritance. He asked who can support Mugheera’s statement? Muhammad ibn maslama given a witness 
+	- ii. Umar ibn al Khattab: 
+		- Taking Jizya from Majus based on hadeeth narrated by Abdur Rahman ibn Auf that they should be treated as like Ahlul Kitab 
+		- Aboo moosa al Asharee leaving Umar’s home after knocking three times. Umar asking Aboo Moosa should find someone to support this else he will be dealt. Abu Saeed Sudan witnessed 
+	- iii. Uthman: Widow to continue her iddah though her husband was deceased 
+	- iv. Hadeeth of Aisha on Ghusl for two private part touching each other even without ejaculation 
 
-- B. Exceptions where Ahad rejected 
+B. Exceptions where Ahad rejected 
+
 - a. Narrator is not a Thiqa 
-- i. Umar rejecting Fatima bint Qays case because he did not trust her 
+	- i. Umar rejecting Fatima bint Qays case because he did not trust her 
 - b. Hadeeth is against stronger evidence 
-- i. Aisha rejected the Ahad hadeeth from Ibn Umar hadeeth on wailing that it will affect the dead on the account that no one will carry sin of other person 
+	- i. Aisha rejected the Ahad hadeeth from Ibn Umar hadeeth on wailing that it will affect the dead on the account that no one will carry sin of other person 
 
-- C. Imam Shaafi’ee’s response 
+C. Imam Shaafi’ee’s response 
+
 - a. For the argument, Qur’aan says witness as one male and two females. He responded principle is to take witness if they don’t have any mistakes 
 - b. Prophet asked us to memorize, preach the Hadeeth 
 - c. During time of Prophet, Sahaabah’s shared Ahad hadeeth and the Prophet was silent (eg.: Changing of Kabah) 
 - d. Prophet sending 12 messengers to 12 kings (Ahad) 
 - e. Sahaabah’s enacted upon hadeeth which were singular 
 
-- D. Treatment of Ahad hadeeth by various Schools 
+D. Treatment of Ahad hadeeth by various Schools 
 - a. Hanafi – Stringent 
-- i. Rawi should not contradict the reliable reports (eg. Abu Hurayrah washing 3 times for najis of dog when the known position is 7 times with one time being with dirt) 
-- ii. It should not be about serious matter as those will be narrated by tawattur due to needs 
+	- i. Rawi should not contradict the reliable reports (eg. Abu Hurayrah washing 3 times for najis of dog when the known position is 7 times with one time being with dirt) 
+	- ii. It should not be about serious matter as those will be narrated by tawattur due to needs 
 - b. Maliki: 
-- i. It should not contradict Amal-e-Madeenah 
+	- i. It should not contradict Amal-e-Madeenah 
 - c. Shafi’ee: 
-- i. Narrator should be Thiqa 
-- ii. He should be aware of what he is narrating (Lafdh) 
-- iii. It should have precession – Dabt 
-- iv. Should not contradict to other authentic Hadeeth 
+	- i. Narrator should be Thiqa 
+	- ii. He should be aware of what he is narrating (Lafdh) 
+	- iii. It should have precession – Dabt 
+	- iv. Should not contradict to other authentic Hadeeth 
 - d. Hanbali 
-- i. They have no conditions except it should be authentic 
+	- i. They have no conditions except it should be authentic 
 
-- E. Mursal 
+E. Mursal 
+
 - a. Tabi’ee narrates directly from Prophet omitting sahabee who is intermediary between tabi’ee and prophet ie without sahabee name 
 - b. Mursal of Sahaabah will be accepted – Jamhoor opinion 
 - c. Shafi’ee: 
-- i. It should be from Senior Tabiee 
-- ii. Supported by hadeeth which is Musnad 
-- iii. Mursal should be accepted by other Scholars 
-- iv. Mursal can be strengthened by people of Knowledge 
+	- i. It should be from Senior Tabiee 
+	- ii. Supported by hadeeth which is Musnad 
+	- iii. Mursal should be accepted by other Scholars 
+	- iv. Mursal can be strengthened by people of Knowledge 
 - d. Hukm: accepted as an authority but still remains as a weaker authority compared with Ahaadi hadeeth which are musnad i.e., hadeeth of complete chain of narrators. 
 
 ## Chapter 12: Ilm Naasikh wal Mansookhi (Abrogation and Abrogated in Hadeeth) 
 
-- A. Definition of Naskh: 
+A. Definition of Naskh: 
+
 - a. Linguistic Meaning: 
-- i. Remove/get away (22:52) 
-- ii. To Transfer/Copy (45:29) 
+	- i. Remove/get away (22:52) 
+	- ii. To Transfer/Copy (45:29) 
 - b. Technical Meaning: 
-- i. It is to remove legal injunction by legal evidence that comes later (after the original Hukm) 
-- ii. Exceptions: 
-- It is not merely any legal text rather Hukm 
-- It is not Takhsees (Specification) 
-- One who can abrogate is Allaah and not anyone 
-- iii. Example: 
-- Abrogation of Hadeeth recording in writing after fear is removed that Qur’aan will mix with the hadeeth 
-- B. Condition of Abrogating text: 
+	- i. It is to remove legal injunction by legal evidence that comes later (after the original Hukm) 
+	- ii. Exceptions: 
+		- It is not merely any legal text rather Hukm 
+		- It is not Takhsees (Specification) 
+		- One who can abrogate is Allaah and not anyone 
+	- iii. Example: 
+		- Abrogation of Hadeeth recording in writing after fear is removed that Qur’aan will mix with the hadeeth 
+
+B. Condition of Abrogating text: 
+
 - a. Abrogating evidence should be kitab shar’ee (Evidence from Qur’aan and Sunnah) and not Qiyaas 
 - b. Abrogation must be by text of equal strength 
-- i. Qur’aan abrogated by Qur’aan 
-- ii. Hadeeth Mutawattir can be abrogated by Mutawattir and not ahaad hadeeth 
+	- i. Qur’aan abrogated by Qur’aan 
+	- ii. Hadeeth Mutawattir can be abrogated by Mutawattir and not ahaad hadeeth 
 - c. It should take place after the original text 
 - d. What is being lifted should be legal injunction 
 - e. Legal injunction should be practical injunction and cannot be legal maxims or matters of Aqeedah 
 - f. Abrogated Hukm should not be a permanent hukm or temporary hukm 
 - g. There must be apparent contradiction between Naasikh and Mansookh 
-- C. Something that sounds like Naskh but not: 
+
+C. Something that sounds like Naskh but not: 
+
 - a. Takhsees 
-- S.No Takshees Naskh 
-- 1 Takhsees specifies some part of earlier hukm Naskh completely abrogates earlier text 
-- 2 Takshsees can take place by Daleel Aql (logical evidence) Naskh take place by Naql 
-- 3 Takhsees not necessarily need to be a later Hukm Naskh must be a later Hukm 
-- 4 Takhsees gives explanation of earlier text Naskh does away with the earlier text 
+
+| S.No | Takshees                                                  | Naskh                                   |
+| ---- | --------------------------------------------------------- | --------------------------------------- |
+| 1    | Takhsees specifies some part of earlier hukm              | Naskh completely abrogates earlier text |
+| 2    | Takshsees can take place by Daleel Aql (logical evidence) | Naskh take place by Naql                |
+| 3    | Takhsees not necessarily need to be a later Hukm          | Naskh must be a later Hukm              |
+| 4    | Takhsees gives explanation of earlier text                | Naskh does away with the earlier text   |
 - b. Taqyeed (Restriction) 
-- i. No conflict with original text 
-- ii. Can happen initial or later 
-- iii. It will not do away with original Hukm rather just restricts 
+	- i. No conflict with original text 
+	- ii. Can happen initial or later 
+	- iii. It will not do away with original Hukm rather just restricts 
 - c. Bad’aa 
-- i. Making something apparent (39:47) 
-- ii. New opinion is presented when there is no initial idea (12:35 – knowledge of something which was not once there) 
-- iii. It is known according to circumstance 
-- iv. It is to do away with the text 
-- v. Bad’aa comes from created being whereas Naskh comes from Allaah alone as it undermines Allaah of perfect Knowledge 
-- D. Manifestation in Hadeeth Science 
+	- i. Making something apparent (39:47) 
+	- ii. New opinion is presented when there is no initial idea (12:35 – knowledge of something which was not once there) 
+	- iii. It is known according to circumstance 
+	- iv. It is to do away with the text 
+	- v. Bad’aa comes from created being whereas Naskh comes from Allaah alone as it undermines Allaah of perfect Knowledge 
+
+D. Manifestation in Hadeeth Science 
+
 - a. Mutawattir abrogated by Mutawattir 
 - b. Mutawattir abrogated by Ahad 
 - c. Ahad abrogated by Ahad 
-- i. Exists mainly here 
+	- i. Exists mainly here 
 - d. Ahad abrogated by Mutawattir 
-- E. Ways to identify Naskh in Hadeeth 
+
+E. Ways to identify Naskh in Hadeeth 
+
 - a. Explicit mention of Prophet 
-- i. "I forbade you to visit graves and now you can visit now…" 
+	- i. "I forbade you to visit graves and now you can visit now…" 
 - b. Indication by Sahaabah 
-- i. Explicit 
-- Jabir said "last of deeds of Prophet whether to take wudoo from water changed by…" 
-- ii. Fails to explain which text is Naskh 
-- Opinion 1: Sahaabah may be practicing Ijtihaad and not an authority by itself 
-- Opinion 2: Naskh happens only Naql so Sahaabah cannot make their own Naskh 
-- Opinion 3: It is acceptable when there is some supporting evidence that conflicts with the Mansookh 
-## Chapter 13: Ilm at-Ta’aarud waTarjeeh (Conflict and Preference) 
-- A. Declaration: Two sound hadeeth will not contradict each other as both are from Allaah 
-- B. T’a’aarud or Alman’aa (Prevention/conflict) 
+	- i. Explicit 
+		- Jabir said "last of deeds of Prophet whether to take wudoo from water changed by…" 
+	- ii. Fails to explain which text is Naskh 
+		- Opinion 1: Sahaabah may be practicing Ijtihaad and not an authority by itself 
+		- Opinion 2: Naskh happens only Naql so Sahaabah cannot make their own Naskh 
+		- Opinion 3: It is acceptable when there is some supporting evidence that conflicts with the Mansookh 
+## Chapter 13: Ilm at-Ta’aarud waTarjeeh (Conflict and Preference)
+
+A. Declaration: Two sound hadeeth will not contradict each other as both are from Allaah 
+
+B. T’a’aarud or Alman’aa (Prevention/conflict) 
+
 - a. Muhadeeth call it as Mukhtaliful Hadeeth 
 - b. Defintion: 
-- i. Linguistic Meaning: Stems from the word "Ikhtilaaf" which means disagreement (6:141) 
-- ii. Technical Meaning: 
-- Two prophetic hadeeth that conflict in a way that prohibits each of others implication and meaning 
-- They are not Maqtu or Mursal 
-- c. Number of terminologies developed in this science 
-- d. Mukhtalaf will happen only in authentic reports (Saheeh, hasan, ahad, Musnad) 
-- C. Two kinds of Conflict 
-- D. Ways to resolve Conflict: 
+	- i. Linguistic Meaning: Stems from the word "Ikhtilaaf" which means disagreement (6:141) 
+	- ii. Technical Meaning: 
+		- Two prophetic hadeeth that conflict in a way that prohibits each of others implication and meaning 
+		- They are not Maqtu or Mursal 
+	- c. Number of terminologies developed in this science 
+	- d. Mukhtalaf will happen only in authentic reports (Saheeh, hasan, ahad, Musnad) 
+
+C. Two kinds of Conflict 
+
+D. Ways to resolve Conflict: 
+
 - a. Jam (Combining two conflicting hadeeth) 
 - b. Tarjeeh (Preferring one hadeeth over another) 
-- b. Naskh (One hadeeth would have abrogated another) 
-- E. Usage of Mukhtaliful Hadeeth 
+- c. Naskh (One hadeeth would have abrogated another) 
+
+E. Usage of Mukhtaliful Hadeeth 
+
 - a. Ibn Hajar used to mean only for Jam 
 - b. Imam Shafi’ee does not include Naskh 
-- F. Mushkalul Hadeeth (Confusion in Hadeeth) 
+
+F. Mushkalul Hadeeth (Confusion in Hadeeth) 
+
 - Happens in sound texts 
-- S.No. Mukhtalif al Hadeeth Mushkalul Hadeeth 
-- 1 "Ikhtilaaf" means contradiction "Ishkaal" means confusion 
-- 2 Only conflict It could include Mukhtalif and may also contradict the Qur’aan 
-- 3 Meaning will be clear absurdity in the language due to use of Majaz (metaphor) and others 
-- 4 we go for 3 ways to resolve other evidences are sorted out to explain the intention of the statement 
-- G. Qualities of Taa’rud 
+
+| S.No. | Mukhtalif al Hadeeth            | Mushkalul Hadeeth                                                        |
+| ----- | ------------------------------- | ------------------------------------------------------------------------ |
+| 1     | "Ikhtilaaf" means contradiction | "Ishkaal" means confusion                                                |
+| 2     | Only conflict                   | It could include Mukhtalif and may also contradict the Qur’aan           |
+| 3     | Meaning will be clear           | absurdity in the language due to use of Majaz (metaphor) and others      |
+| 4     | We go for 3 ways to resolve     | other evidences are sorted out to explain the intention of the statement |
+
+G. Qualities of Taa’rud 
+
 - a. Tadaad : opposite 
 - b. Authority: Of same authority 
-- H. Ta’aarud al Haqeeqe (Real conflict) doesn’t take place in Qur’aan & Sunnah (Jamhoor) 
+
+H. Ta’aarud al Haqeeqe (Real conflict) doesn’t take place in Qur’aan & Sunnah (Jamhoor) 
+
 - a. Sunnah is nothing but Wahy (53:3,4 | 21:45) 
 - b. If it is from other than Allaah, you would have found contradictions (4:72) 
 - c. Takleef: Man cannot do two opposite orders at the same time 
 - d. It implies ignorance of Allaah. Subhanallaah 
 - e. Why do we have Naskh and Tarjeeh? These Tools indicate that real conflict will never take place 
-- I. Reasons why conflict appears: (Imam Shafi’ee) 
+
+I. Reasons why conflict appears: (Imam Shafi’ee) 
+
 - a. Regarding Narrator: 
-- i. Lack of Memorization: Narrator asks question to Prophet but he memorize answer alone. (eg.: Hadeeth of Ubaadah ibn Samit. Prohibited sale of something for its value) 
-- ii. Question of Adaa: How narrator delivers hadeeth (Hadeeth on engagement. Engage somebody already engaged and about permission) 
+	- i. Lack of Memorization: Narrator asks question to Prophet but he memorize answer alone. (eg.: Hadeeth of Ubaadah ibn Samit. Prohibited sale of something for its value) 
+	- ii. Question of Adaa: How narrator delivers hadeeth (Hadeeth on engagement. Engage somebody already engaged and about permission) 
 - b. Ignorance of Language and its usages 
-- i. Knowledge of Aam and Khaas is important 
-- ii. Eg.: "From a Muslim, his fellow Muslim’s honor and blood are protected." It seems conflicting with the hadeeth "Neighbour is not permitted to stop his neighbour to plant trees in his property" First one is general and second one is specific 
-- iii. Eg.: "Whoever changes religion, person should be put to death". In another hadeeth, Prophet prohibited killing of women. Here it is Tahsees (Particularization) 
+	- i. Knowledge of Aam and Khaas is important 
+	- ii. Eg.: "From a Muslim, his fellow Muslim’s honor and blood are protected." It seems conflicting with the hadeeth "Neighbour is not permitted to stop his neighbour to plant trees in his property" First one is general and second one is specific 
+	- iii. Eg.: "Whoever changes religion, person should be put to death". In another hadeeth, Prophet prohibited killing of women. Here it is Tahsees (Particularization) 
 - c. Ignorance of Naskh 
 - d. Ignorance about changes in circumstances and environment 
-- J. How to deal with Ta’aarud? (Order of Approach) 
+
+J. How to deal with Ta’aarud? (Order of Approach) 
+
 - a. Jamhoor (All Madh-hab and portion of Ahnaf) 
-- i. Jam 
-- ii. Tarjeeh 
-- iii. Naskh 
-- iv. Tawaquf (Stop and leave it as they are) 
-- v. Choose one over another – Dangerous as it may imply naskh by us 
-- vi. Al Baraa al Asliyah (Going to permission first: Origin of everything is permissible) – Dangerous as we may make something haram as halal 
+	- i. Jam 
+	- ii. Tarjeeh 
+	- iii. Naskh 
+	- iv. Tawaquf (Stop and leave it as they are) 
+	- v. Choose one over another – Dangerous as it may imply naskh by us 
+	- vi. Al Baraa al Asliyah (Going to permission first: Origin of everything is permissible) – Dangerous as we may make something haram as halal 
 - b. Hanafee 
-- i. Naskh 
-- ii. Tarjeeh 
-- iii. At Tasakut (Leave both of the hadeeth rather search for other hadeeth) 
+	- i. Naskh 
+	- ii. Tarjeeh 
+	- iii. At Tasakut (Leave both of the hadeeth rather search for other hadeeth) 
 - In terms of tawaquf, we stop and don’t search for other text 
-- iv. Search for Asl 
-- v. Jam (Combination of various hadeeth) 
+	- iv. Search for Asl 
+	- v. Jam (Combination of various hadeeth) 
 - Strange: Jam helps in respecting both authorities so this should be the preference 
 - Hanfee claim Sahaabahs engaged in Tarjeeh first before others 
 - K. Conclusions: 
