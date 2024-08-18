@@ -312,11 +312,23 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - xflash
 ### MTKClient GUI
 
-## Multi SoC Dongles (a.k.a. GSM/CDMA Boxes) 
-Most of them have a SIM, and require recharge (except Aqua)
+## Unlock Boxes / Dongles (a.k.a. GSM/CDMA Boxes/Dongles) 
+Most of them have a SIM, and require recharge (except Aqua, which is forever free).
+
+Basically, the SIM is to verify software credits.
 
 - Dongles use their own vendor software tools (UMT Tool, Hydra Tool, etc.)
+- They can be used to:
+	- Calculate Unlock Codes by IMEI
+	- Get Device Info
+	- Flash Firmware
+	- Read Codes (Network Unlock, User Unlock, Patterns/PIN)
+	- Direct Unlock (After Maximum Tries)
+	- Remove Locks (After Erasing Data)
+	- Repair IMEI
 ### Aqua Dongle [Rs. 4000, Basic]
+### NCK Dongle [Rs. ]
+### NCK Pro Dongle [Rs. ]
 ### Ultimate Multi Tool (UMT) Dongle [Rs. 3000]
 ### Ultimate Multi Tool (UMT) Pro Dongle [Rs. 4000]
 ### Ultimate Multi Tool (UMT) GSM Shield Box (GSB) [Rs. ]
