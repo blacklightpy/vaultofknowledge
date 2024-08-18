@@ -1466,12 +1466,14 @@ J. How to deal with Ta’aarud? (Order of Approach)
 	- i. Naskh 
 	- ii. Tarjeeh 
 	- iii. At Tasakut (Leave both of the hadeeth rather search for other hadeeth) 
-- In terms of tawaquf, we stop and don’t search for other text 
+		- In terms of tawaquf, we stop and don’t search for other text 
 	- iv. Search for Asl 
 	- v. Jam (Combination of various hadeeth) 
-- Strange: Jam helps in respecting both authorities so this should be the preference 
-- Hanfee claim Sahaabahs engaged in Tarjeeh first before others 
-- K. Conclusions: 
+		- Strange: Jam helps in respecting both authorities so this should be the preference 
+		- Hanfee claim Sahaabahs engaged in Tarjeeh first before others 
+
+K. Conclusions: 
+
 - a. These conflicts are apparent and not real. 
 - b. Apparent conflict appears mostly due to lack of skill 
 ## Chapter 14: Tarjeeh Discourse (Ways of Preference) 
@@ -1495,96 +1497,118 @@ A. Definition:
 B. Three components of Tarjeeh 
 
 - a. Number of different ways to do Tarjeeh which goes back to the Scholar involved. The below three components broadly covers all 
-- i. Respect to Isnaad 
-- ii. Respect to Matn 
-- iii. Respect to External evidence 
-- C. Conditions related to performing Tarjeeh 
+	- i. Respect to Isnaad 
+	- ii. Respect to Matn 
+	- iii. Respect to External evidence 
+
+C. Conditions related to performing Tarjeeh 
+
 - a. Person should be a Mujtahid 
 - b. Text shouldn’t be Qatee rather it should be Zanee 
-- i. Saheeh not with Da’eef 
-- ii. Muttasil not with athar 
+	- i. Saheeh not with Da’eef 
+	- ii. Muttasil not with athar 
 - c. There shouldn’t be possibility to combine both reports 
 - d. There shouldn’t be Naskh 
 - e. It shouldn’t be Mutawattir hadeeth 
-- D. Hukm regarding Tarjeeh 
+
+D. Hukm regarding Tarjeeh 
+
 - a. Jamhoor: It is incumbent (wajib) upon us to act upon preferred hadeeth (Tarjeeh) over weaker hadeeth (Da’eef) 
-- i. Practice of the companions 
-- ii. When Mu’adh was sent to Yemen, he was asked several questions by the Prophet on how he would judge. Mu’adh said : Qur’aan is first recourse, then hadeeth, then Ijtihaad 
-- iii. Fasting in the state of impurity (wet dream) of the Prophet was preferred by Sahaabahs over hadeeth which prohibits fasting in the state of janaba, narrated by Abu Hurayrah. 
-- E. Tarjeeh in Isnaad 
+	- i. Practice of the companions 
+	- ii. When Mu’adh was sent to Yemen, he was asked several questions by the Prophet on how he would judge. Mu’adh said : Qur’aan is first recourse, then hadeeth, then Ijtihaad 
+	- iii. Fasting in the state of impurity (wet dream) of the Prophet was preferred by Sahaabahs over hadeeth which prohibits fasting in the state of janaba, narrated by Abu Hurayrah. 
+
+E. Tarjeeh in Isnaad 
+
 - a. According to Rawi 
-- i. Rawi’s whose Adaalah was agreed upon over whose adaalah was not agreed upon 
-- ii. Rawi who was praised high over the less acknowledgment of Mastery 
-- iii. Whoever is better in memory (Ahfaf) over the one who recorded in written documents 
-- iv. Rawi who is knowledgeable in Fiqh over who has lesser understanding of Fiqh 
-- v. Person who is concerned in the Hadeeth over who is not directly involved in the hadeeth 
-- vi. Person who directly heard the hadeeth and narrated it over just heard from others or in public 
-- vii. Person who is older preferred over youger person on the assumption younger one doesn’t have exposure, maturity as that of the older one 
-- viii. Person whose name has no confusion (kalam) over person whose name has some confusion 
-- ix. Person who is popularly known for his Thiqah and Adaalah over the one who is not popularly known but he is Thiqah and Adaalah 
-- x. Whoever indeed studied from circles of Muhadithoon over who have not studied from the circles 
-- xi. Geographical closeness to the Prophet 
+	- i. Rawi’s whose Adaalah was agreed upon over whose adaalah was not agreed upon 
+	- ii. Rawi who was praised high over the less acknowledgment of Mastery 
+	- iii. Whoever is better in memory (Ahfaf) over the one who recorded in written documents 
+	- iv. Rawi who is knowledgeable in Fiqh over who has lesser understanding of Fiqh 
+	- v. Person who is concerned in the Hadeeth over who is not directly involved in the hadeeth 
+	- vi. Person who directly heard the hadeeth and narrated it over just heard from others or in public 
+	- vii. Person who is older preferred over youger person on the assumption younger one doesn’t have exposure, maturity as that of the older one 
+	- viii. Person whose name has no confusion (kalam) over person whose name has some confusion 
+	- ix. Person who is popularly known for his Thiqah and Adaalah over the one who is not popularly known but he is Thiqah and Adaalah 
+	- x. Whoever indeed studied from circles of Muhadithoon over who have not studied from the circles 
+	- xi. Geographical closeness to the Prophet 
 - b. Isnaad according to Strength 
-- i. Mutawattir preferred over Ahad 
-- ii. Mashhoor over Ahad/Ghareeb 
-- Hanafi disagree with this conditions as truth can be with one single person 
-- iii. Muttasil over Mursal 
-- iv. Unanimous agreement (Maqfu) over where some dispute taken place 
-- v. Saheehayn (Bukharee and Mulim) over others 
-- vi. Sanad al Alee (less tabaqat) over Sanad an Nazil (more tabaqat) 
-- vii. Isnaad Hijaazi (from Arabia) over Isnaad Shaami (from Iraq) 
-- F. Tarjeeh according to text of Hadeeth 
+	- i. Mutawattir preferred over Ahad 
+	- ii. Mashhoor over Ahad/Ghareeb 
+		- Hanafi disagree with this conditions as truth can be with one single person 
+	- iii. Muttasil over Mursal 
+	- iv. Unanimous agreement (Maqfu) over where some dispute taken place 
+	- v. Saheehayn (Bukharee and Mulim) over others 
+	- vi. Sanad al Alee (less tabaqat) over Sanad an Nazil (more tabaqat) 
+	- vii. Isnaad Hijaazi (from Arabia) over Isnaad Shaami (from Iraq) 
+
+F. Tarjeeh according to text of Hadeeth 
+
 - a. Language of the text 
-- i. Verbally communicated is preferred over that is communicated in meaning 
-- ii. What has been unanimously agreed upon about its wording 
-- iii. One which is free from I’tiraab (confusion) over that has some I’tiraab 
-- iv. Explicit address over implicit one 
-- v. Hadeeth which doesn’t have illa 
-- vi. Hadeeth which gives us reason over one doesn’t give us reason 
-- vii. Qawli (direct speech) over Fe’l (Actions) 
-- viii. Qawli over Taqreer (approval) 
-- ix. Fe’l over Taqreer (approval) 
+	- i. Verbally communicated is preferred over that is communicated in meaning 
+	- ii. What has been unanimously agreed upon about its wording 
+	- iii. One which is free from I’tiraab (confusion) over that has some I’tiraab 
+	- iv. Explicit address over implicit one 
+	- v. Hadeeth which doesn’t have illa 
+	- vi. Hadeeth which gives us reason over one doesn’t give us reason 
+	- vii. Qawli (direct speech) over Fe’l (Actions) 
+	- viii. Qawli over Taqreer (approval) 
+	- ix. Fe’l over Taqreer (approval) 
 - b. Meaning/implication of the text 
-- i. Mahfoom Muwafaka (wording that means directly) over Mahfoom Mukhalafa (exclusions) 
-- ii. Whatever intends clear meaning over which lacks this quality 
+	- i. Mahfoom Muwafaka (wording that means directly) over Mahfoom Mukhalafa (exclusions) 
+	- ii. Whatever intends clear meaning over which lacks this quality 
 - c. Hukm of the text 
-- i. Whatever is affirming is preferred over the hukm which negates 
-- ii. Whatever is lighter in burden is preferred over the hukm which is easier in the burden 
-- iii. Whatever does away with Al Baraa al Asliyah (everyone is innocent unless proven guilty ) 
-- iv. Prohibition over order (Nahy is to prevent any harm whereas order is to do something good) 
-- v. Hukm of Haram over Ibaaha (permissible). Orgin of everything over permissibility 
-- G. Tarjeeh in External Evidences 
+	- i. Whatever is affirming is preferred over the hukm which negates 
+	- ii. Whatever is lighter in burden is preferred over the hukm which is easier in the burden 
+	- iii. Whatever does away with Al Baraa al Asliyah (everyone is innocent unless proven guilty ) 
+	- iv. Prohibition over order (Nahy is to prevent any harm whereas order is to do something good) 
+	- v. Hukm of Haram over Ibaaha (permissible). Orgin of everything over permissibility 
+
+G. Tarjeeh in External Evidences 
+
 - a. Supports meaning 
 - b. Similar chains 
 - c. Don’t support the meaning in addition to the practice of Madeenah 
 - d. Whatever suits people of the time and Historical Scheme 
 ## Chapter 15: Takhreej al Hadeeth (FIR of Hadeeth) 
-- A. Definition: 
+
+A. Definition: 
+
 - a. Way of attaching hadeeth to particular book, or to its narrator among Imam along with its authenticity, strength and Hukm 
 - b. Eg.: So and so Hadeeth is in Bukharee volume 1 Book 1 and Hadeeth 1 
-- B. Practical Benefit: 
+
+B. Practical Benefit: 
+
 - Help us in knowing the: 
-- a. Source 
-- b. Authenticity 
-- c. Strength 
-- d. Hukm of the Hadeeth 
-- e. Precise Location of the hadeeth 
-- C. Importance: 
+	- a. Source 
+	- b. Authenticity 
+	- c. Strength 
+	- d. Hukm of the Hadeeth 
+	- e. Precise Location of the hadeeth 
+
+C. Importance: 
+
 - a. Every Islaamic student should be aware of. 
 - b. It shows his level of Scholarship 
-- D. Three Main form of Sources (pertaining to Takhreej) 
+
+D. Three Main form of Sources (pertaining to Takhreej) 
+
 - a. Original Sources 
-- Bukharee, Muslim, Kutub Sittah and so on which present hadeeth with sanad 
+	- Bukharee, Muslim, Kutub Sittah and so on which present hadeeth with sanad 
 - b. Close to Original Sources 
-- It also presents to Isnaad 
-- It refers to Original sources 
+	- It also presents to Isnaad 
+	- It refers to Original sources 
 - c. Non Original Sources 
-- No complete Isnaad 
-- Reference to books 
-- E. Requirements to understand Takhreej: 
+	- No complete Isnaad 
+	- Reference to books 
+
+E. Requirements to understand Takhreej: 
+
 - a. Researcher must have some understanding of Arabic Language 
 - b. Fair acquaintance with Hadeeth itself 
-- F. Benefits of Hadeeth Takhreej 
+
+F. Benefits of Hadeeth Takhreej 
+
 - a. Gives you similar Hadeeth (more than one source) 
 - b. Discussion about Ta’aarud at Tarjeeh 
 - c. Status of Hadeeth 
@@ -1592,93 +1616,99 @@ B. Three components of Tarjeeh
 - e. Knowing Tadlees 
 - f. Various texts of Mutun (asbab an nuzool, ahkam, usooli aspect and so on) 
 - g. Retrieval system of Hadeeth 
-- G. Books of Takhreej 
+
+G. Books of Takhreej 
+
 - a. Musannafat – chapter arrangement 
 - b. Musnad – Narrators Organization 
 - c. Sihah – Authentic Hadeeth organization 
 - d. Sunan – Fiqhee Organization 
 - e. Mustadrikat – Very helpful in Takhreej. Presents same hadeeth with its own Isnaad and others 
 - f. Mustakhrijaat – Books for Takhreej. 
-- Imam Daaraqutnee – First person 
-- i. He says "my shaykh mentioned this hadeeth and this hadeeth is in so an so sunan 
-- Isnaad was still sought in earlier books 
-- These days Isnaad is not presented anymore rather they are attaching the hadeeth to the book 
-- Why the shift in approach of Takhreej? 
-- i. Hadeeth were well documented 
-- ii. Lack of Scholars 
-- iii. Availability of Hadeeth 
-- iv. Not belittling the credibility of earlier Scholars 
+	- Imam Daaraqutnee – First person 
+		- i. He says "my shaykh mentioned this hadeeth and this hadeeth is in so an so sunan 
+	- Isnaad was still sought in earlier books 
+	- These days Isnaad is not presented anymore rather they are attaching the hadeeth to the book 
+	- Why the shift in approach of Takhreej? 
+		- i. Hadeeth were well documented 
+		- ii. Lack of Scholars 
+		- iii. Availability of Hadeeth 
+		- iv. Not belittling the credibility of earlier Scholars 
 - H. Retrieval Process: 
-- i. Searching for particular word in the hadeeth (Language) 
-- Ghareeb al Hadeeth 
-- i. gives hadeeth according to strange words 
-- Mu’jam al Mufaharass 
-- i. Alphabetical index dictionary of hadeeth terms 
-- iii. Compiled by the Orientalist, Ant Gen Wensink along with Muhammad Faad al Bakhee 
-- iv. It consists 8 books 
-- i. Kutub sittah 
-- ii. Muwatta 
-- iii. Musnad Ahmad 
-- iv. Sunan of Daarimee 
-- v. For each "word", this book gives various hadeeth and its chain 
-- vi. Tree of various chain gives thorough knowledge of the Hadeeth 
-- vii. Saves your time 
-- ii. Beginning of the Text (Matn) 
-- Knowledge of the beginning of the text is required 
-- Jaami as Sagheer of Imam Suyootee 
-- i. Egyptian 
-- ii. Died 911 H 
-- iii. He managed to combine all of the existing collection 
-- iv. This book is major window to various books 
-- v. Criticism: Lacks lot of profound critic 
-- vi. His objective is to collect, categorize and systemize 
-- vii. Collected from more than 80 books 
-- viii. Contains 46,624 hadeeth 
-- ix. Divided into two main categories 
-- i. Fe’liyah 
-- ii. Qawliyah 
-- iii. Not completely Qawliyah may contain taqreer and everything 
-- x. Weakness: way it is arranged. Not easy system 
-- i. Hadeeth 
-- ii. Shahidh hadeeth (witness) 
-- iii. Supporting evidences 
-- iv. Relationship (related meanings) 
-- xi. Hukm arrangement 
-- i. Sihah hadeeth first [Saheeh Books] 
-- ii. Contains Saheeh, Hasan, Da’eef Hadeeth [Like Tirimithee and so on] 
-- iii. Weak Hadeeth [Thareek Baghdad and so on] 
-- iii. Searching by Narrators 
-- Musnad Ahmad 
-- i. Arranged in name of Sahabee or Tabiee 
-- ii. Not in Alphabetical order 
-- iii. Not in arrangement of Senior Sahabaahs to later Sahaabahs 
-- Ma’ajim as Sahabah 
-- i. Sahaabah’s names in Alphabetical order 
-- Atraf: 
-- i. Top Rawi and then presents parts of hadeeth 
-- ii. Atraf of Ibn Masud ad Damashqee 
-- Fiqh classification 
-- Muwatta Imam Malik 
-- In which book and in which chapter, this fiqhee hadeeth is 
-- iv. Character of the Hadeeth 
-- Mu’allal, Mutawattir and so on 
-- Difficult form 
-- v. Random Retrieval 
-- Internet 
-- Beware some site may be dubious 
-- Not reliable 
-- I. Three forms of presenting Takhreej 
+	- i. Searching for particular word in the hadeeth (Language) 
+		- Ghareeb al Hadeeth 
+			- i. gives hadeeth according to strange words 
+		- Mu’jam al Mufaharass 
+			- i. Alphabetical index dictionary of hadeeth terms 
+			- ii. Compiled by the Orientalist, Ant Gen Wensink along with Muhammad Faad al Bakhee 
+			- iii. It consists 8 books 
+				- i. Kutub sittah 
+				- ii. Muwatta 
+				- iii. Musnad Ahmad 
+				- iv. Sunan of Daarimee 
+			- iv. For each "word", this book gives various hadeeth and its chain 
+			- v. Tree of various chain gives thorough knowledge of the Hadeeth 
+			- vi. Saves your time 
+	- ii. Beginning of the Text (Matn) 
+		- Knowledge of the beginning of the text is required 
+		- Jaami as Sagheer of Imam Suyootee 
+			- i. Egyptian 
+			- ii. Died 911 H 
+			- iii. He managed to combine all of the existing collection 
+			- iv. This book is major window to various books 
+			- v. Criticism: Lacks lot of profound critic 
+			- vi. His objective is to collect, categorize and systemize 
+			- vii. Collected from more than 80 books 
+			- viii. Contains 46,624 hadeeth 
+			- ix. Divided into two main categories 
+				- i. Fe’liyah 
+				- ii. Qawliyah 
+				- iii. Not completely Qawliyah may contain taqreer and everything 
+			- x. Weakness: way it is arranged. Not easy system 
+				- i. Hadeeth 
+				- ii. Shahidh hadeeth (witness) 
+				- iii. Supporting evidences 
+				- iv. Relationship (related meanings) 
+			- xi. Hukm arrangement 
+				- i. Sihah hadeeth first [Saheeh Books] 
+				- ii. Contains Saheeh, Hasan, Da’eef Hadeeth [Like Tirimithee and so on] 
+				- iii. Weak Hadeeth [Thareek Baghdad and so on] 
+	- iii. Searching by Narrators 
+		- Musnad Ahmad 
+			- i. Arranged in name of Sahabee or Tabiee 
+			- ii. Not in Alphabetical order 
+			- iii. Not in arrangement of Senior Sahabaahs to later Sahaabahs 
+		- Ma’ajim as Sahabah 
+			- i. Sahaabah’s names in Alphabetical order 
+		- Atraf: 
+			- i. Top Rawi and then presents parts of hadeeth 
+			- ii. Atraf of Ibn Masud ad Damashqee 
+		- Fiqh classification 
+		- Muwatta Imam Malik 
+		- In which book and in which chapter, this fiqhee hadeeth is 
+	- iv. Character of the Hadeeth 
+		- Mu’allal, Mutawattir and so on 
+		- Difficult form 
+	- v. Random Retrieval 
+		- Internet 
+		- Beware some site may be dubious 
+		- Not reliable 
+
+I. Three forms of presenting Takhreej 
+
 - a. Concise way: Author of the Book, name of the book, chapter of the book, number (eg.: Imam Bukharee) 
 - b. Middle way: all the above, various chains, different text according to Isnaad. Any point of reference to particular way 
 - c. Thorough way: 
-- i. Sources in chronological order 
-- ii. What chain is Aalee and what chain is Naazil 
-- iii. Other above details 
+	- i. Sources in chronological order 
+	- ii. What chain is Aalee and what chain is Naazil 
+	- iii. Other above details 
 ## Chapter 16: Life of Great Hadeeth Scholars 
-- A. Imam Al Bukharee 
-	- Name: Muhammad ibn Ismaael ibn Ibraheem ibn Mugheerah ibn Bardazee 
-	- Born in 194 H in Bukhara 
-	- Early Life: 
+
+A. Imam Al Bukharee 
+
+- **Name:** Muhammad ibn Ismaael ibn Ibraheem ibn Mugheerah ibn Bardazee 
+- Born in 194 H in Bukhara 
+- **Early Life:**
 	- a. His father Ismaeel: 
 		- i. He was scholar in his own right. 
 		- ii. Ismael met Imam Malik in Hajj 
@@ -1687,83 +1717,89 @@ B. Three components of Tarjeeh
 	- b. From very young age, he possessed quality of memory and genius 
 	- c. He was very critical in accepting hadeeth from the young age 
 	- d. He performed Hajj in 215H with his mother and brother Ahmad 
-	- First Book: 
-		- a. Imam Bukharee composed his Thareek in Nabawi. His Thareek is not like history rather hadeeth book which has hadeeth related to History 
-	- Knowledge Transmission: 
-		- a. He was a Rahal (traveller) to ascertain hadeeth. 
-		- b. He become Network of hadeeth between various hadeeth scholars all around the World 
-		- c. He took hadeeth from 1080 people. 
-		- d. He memorized no hadeeth without Isnaad 
-		- e. Imam Bukharee was three generations away from the Prophet (Atba atba tabi’een) 
-	- His teachers: 
-		- a. Alee ibn al Madanee (161-264H) – He likened Imam Bukharee to himself 
-		- b. Ahmad ibn Handbal 
-		- c. Yahya ibn Mu’in 
-		- d. Ishaq ibn Raghawayah 
-	- Adab Consciousness: 
-		- a. He was a pious person 
-		- b. He was very cautious to not to perform any act which cause Shubuhath whether it remains halal or Mubah 
-	- Challenges 
-		- a. He was not free from envy of others 
-		- b. Muhammad ibn yahya ibn Duhlee in Naisapur 
-			- i. Students preferred Bukharee to learn than him so this made him envious 
-		- c. Governor, Khaliq ibn Ahmad ad Duhlee 
-			- i. He requested Imam Bukharee to come to his place to reach the hadeeth 
-			- ii. Imam Bukharee replied "Knowledge is taken and not given" 
-			- iii. Governor requested for private audience for his children 
-			- iv. Imam Bukharee replied "I dont want to limit knowledge" 
-			- v. Governor got agitated. He and Yahya ad Duhalee created controversy in his name "Khalq al Qur’aan" 
-			- vi. Imam Bukharee replied "Qur’aan is word of Allaah and asking question in this area is Bid’ah" 
-	- Compilation of Sahih Bukharee: 
-		- a. Ishaq ibn Raghaway made a casual statement to compile only a Saheeh hadeeth. 
-		- b. Saheeh contains moe than 6400 hadeeth 
-		- c. He taken 16 years to compile his Saheeh 
-		- d. Before recording any hadeeth, he would make wudoo and pray and then write down 
-		- e. Original name "Jaami as Saheeh" 
-			- i. Containing Saheeh hadeeth (no hasan or Da’ef or anything) 
-			- ii. Musnad Hadeeth (not to Sahabee or Tabi’ee) 
-			- iii. Taa wal Muasarah 
-		- f. His compilation set a new paradox in hadeeth field focusing on Saheeh hadeeth 
-		- g. He benefited from earlier works like Muwatta 
-		- h. Some of hadeeth isnaad are Muallaqat 
-- B. Imam Muslim 
+- **First Book:** 
+	- a. Imam Bukharee composed his Thareek in Nabawi. His Thareek is not like history rather hadeeth book which has hadeeth related to History 
+- **Knowledge Transmission:**
+	- a. He was a Rahal (traveller) to ascertain hadeeth. 
+	- b. He become Network of hadeeth between various hadeeth scholars all around the World 
+	- c. He took hadeeth from 1080 people. 
+	- d. He memorized no hadeeth without Isnaad 
+	- e. Imam Bukharee was three generations away from the Prophet (Atba atba tabi’een) 
+- **His teachers:**
+	- a. Alee ibn al Madanee (161-264H) – He likened Imam Bukharee to himself 
+	- b. Ahmad ibn Handbal 
+	- c. Yahya ibn Mu’in 
+	- d. Ishaq ibn Raghawayah 
+- **Adab Consciousness:**
+	- a. He was a pious person 
+	- b. He was very cautious to not to perform any act which cause Shubuhath whether it remains halal or Mubah 
+- **Challenges**
+	- a. He was not free from envy of others 
+	- b. Muhammad ibn yahya ibn Duhlee in Naisapur 
+		- i. Students preferred Bukharee to learn than him so this made him envious 
+	- c. Governor, Khaliq ibn Ahmad ad Duhlee 
+		- i. He requested Imam Bukharee to come to his place to reach the hadeeth 
+		- ii. Imam Bukharee replied "Knowledge is taken and not given" 
+		- iii. Governor requested for private audience for his children 
+		- iv. Imam Bukharee replied "I dont want to limit knowledge" 
+		- v. Governor got agitated. He and Yahya ad Duhalee created controversy in his name "Khalq al Qur’aan" 
+		- vi. Imam Bukharee replied "Qur’aan is word of Allaah and asking question in this area is Bid’ah" 
+- **Compilation of Sahih Bukharee:**
+	- a. Ishaq ibn Raghaway made a casual statement to compile only a Saheeh hadeeth. 
+	- b. Saheeh contains moe than 6400 hadeeth 
+	- c. He taken 16 years to compile his Saheeh 
+	- d. Before recording any hadeeth, he would make wudoo and pray and then write down 
+	- e. Original name "Jaami as Saheeh" 
+		- i. Containing Saheeh hadeeth (no hasan or Da’ef or anything) 
+		- ii. Musnad Hadeeth (not to Sahabee or Tabi’ee) 
+		- iii. Taa wal Muasarah 
+	- f. His compilation set a new paradox in hadeeth field focusing on Saheeh hadeeth 
+	- g. He benefited from earlier works like Muwatta 
+	- h. Some of hadeeth isnaad are Muallaqat 
+
+B. Imam Muslim 
+
 - Abul Hussain ibn Hallaaj al Muslim an Naysaburee (203 to 261 AH) 
 - Contemporary, student, colleague of Imam Bukharee 
 - His Book: Jaami as Saheeh 
 - Contents: Only Authentic Hadeeth 
 - Muslim’s conditions: 
-- i. Ananah form of Tahammum is used which is mainly used by Mudalliseen 
-- ii. It is not for required the levels of narrators should have met rather it is fine if they are contemporaries (Mu’asara). Here Imam Bukharee differs 
+	- i. Ananah form of Tahammum is used which is mainly used by Mudalliseen 
+	- ii. It is not for required the levels of narrators should have met rather it is fine if they are contemporaries (Mu’asara). Here Imam Bukharee differs 
 - Mulazama (long audience with Shaykh) is from 
-- i. Imam Bukharee – 1st and 2nd Level 
-- ii. Imam Muslim – 1st and predominantly 2nd and 3rd 
+	- i. Imam Bukharee – 1st and 2nd Level 
+	- ii. Imam Muslim – 1st and predominantly 2nd and 3rd 
 - In his preface, he mentioned his process of selection of Hadeeth 
 - Highly educated in Illal Hadeeth (subtle blemish) 
 - Arranged in Fiqhee order 
 - Sahih Muslim helps in identifying a strong hadeeth as it combines various other isnaads 
 - Mut’abat and Shawahidh Hadeeth are there in Sahih Muslim. These weak hadeeth are made strong with supporting evidences 
 - Origin of this approach can be traced back to Risalah of Imam Shafi’ee. He discusses about this in his Mursal discussion 
-- B. Imam Abu Dawood 
+
+C. Imam Abu Dawood 
+
 - Name: Abu Dawood ibn Sulaiman ibn Ash’ath ibn Amrul ash’ath as Sijjastanee (202 – 275 AH) 
 - Teachers: 
-- i. Ahmad ibn Hanbal 
-- ii. Yahya ibn Mu’in (teachers of Imam Bukharee) 
+	- i. Ahmad ibn Hanbal 
+	- ii. Yahya ibn Mu’in (teachers of Imam Bukharee) 
 - Testimony: Ibrahim al Harbi said "Hadeeth is elastic in hands of Abu Dawood like metal in the hands of Prophet Dawood" 
 - His Book: Sunan al Kubra 
 - Sunan contains 
-- i. Musnad and Muttasil – 4008 
-- ii. Mursal -600 
-- iii. Total Hadeeth – 5274 
+	- i. Musnad and Muttasil – 4008 
+	- ii. Mursal -600 
+	- iii. Total Hadeeth – 5274 
 - Ahkam al Hadeeth 
-- i. Hadeeth compiled on Fiqhee aspect 
-- ii. Abu Yusuf compiled a book on Ahkam al Hadeeth 
-- iii. Abi Dawood’s book contains Ahkam al Hadeeth and overshadowed Abu Yusuf’s compilation 
-- iv. He follows organization like of Muwatta 
+	- i. Hadeeth compiled on Fiqhee aspect 
+	- ii. Abu Yusuf compiled a book on Ahkam al Hadeeth 
+	- iii. Abi Dawood’s book contains Ahkam al Hadeeth and overshadowed Abu Yusuf’s compilation 
+	- iv. He follows organization like of Muwatta 
 - He introduces category of Saleh hadeeth which is equivalent to Hasan Da’eef. Major part of his book is of this hadeeth 
 - Criticism: He accepted lot of Mursal Hadeeth 
 - His sub headings indicate his vast knowledge of Fiqh. In the category of Etiquette, he mentions 108 sub heading 
 - Hadeeth of Fe’liyah, Qawliyah, Taqreer are in Abu Dawood 
-- C. Imam An Nasaee 
+
+D. Imam An Nasaee 
+
 - Name: Abu Abdur rahman Ahmad ibn Shuvayb an Nasa’ee (215 -303 AH) 
 - He met Shaykh Harith al Maskhin but he never allows anyone who is wearing wearing quba to attend his as he thinks them to be from authority. So Shaykh Harith denied class for Nasa’ee who is wearing Quba 
 - So Imam an Nasa’ee records his hadeeth stating "heard at the doors of al Haarith" 
@@ -1771,11 +1807,13 @@ B. Three components of Tarjeeh
 - Another Book Al Mujtaba -" The chosen" which contains hadeeth on Ahkam. It is now known as Sunan an Nasaee 
 - He does lot of repetition 
 - Lot of hadeeth found in Nasa’ee is in Shaheehayn 
-- D. Imam Tirimidhee 
+
+E. Imam Tirimidhee 
+
 - Aboo Eesa Muhammaad ibnEeasa ibn Saura at Tirimidhee (209 -279 AH) 
 - Teachers: 
-- a. Ishaaq ibn Raghaway 
-- b. Studied under teachers of Imam Bukharee and Muslim 
+	- a. Ishaaq ibn Raghaway 
+	- b. Studied under teachers of Imam Bukharee and Muslim 
 - Introduced new category: Hasan 
 - Scholar of Illal hadeeth 
 - He’s able to navigate between Saheeh and Da’eef 
@@ -1785,114 +1823,123 @@ B. Three components of Tarjeeh
 - He mentioned reason for rejecting the Hadeeth 
 - One would be able to narrate hadeeth with strong memory but deteriorates after time; hadeeth will be taken when they are strong. We wont rule all their Hadeeth outright 
 - He categorized hadeeth in Thematic approach 
-- E. Imam Ibn Hajar al Asqalani 
-- Early Life of Imam Ibn Hajar asqalani 
-- a. Ahmad ibn Ali Muhammaad ibn Ali ibn Muhammad ibn Ahmad Shihabudeen Asqalanee 
-- b. Born in 27 Shabban 773H 
-- c. Name Ibn Hajar has number of theories 
-- i. Particular tribe 
-- ii. This tribe is being Yemen 
-- iii. Testimony of Ibn Hajar: It is name given to one of the ancestors and he doesn’t know to whom it was given 
-- d. Egyptian and lived in Cairo 
-- Education: 
-- a. Lived after the time of Salahudeen al Ayoobee and under the reign of Malmuks 
-- b. Under this reign, Scholarship flourished 
-- c. He came from the family of Merchants 
-- d. His father passed away when he was less than four and brought up in the guardianship of Zaqiudeen and then under Ibn Khattan who is a Scholar by himself 
-- e. He travelled to Makkah for Hajj (785 AH) and he spent 1 years there 
-- f. He listened to Sahih Bukharee there in the house of his gaurdian 
-- g. He learnt Fiqh, History, poetry, logic and this helped him in bringing wide birth of sciences into his work 
-- h. His Guardian passed away in 1385 and he stopped his formal education for three years 
-- i. He resumed when he was put under guardianship of Ibn Kattan who was a Scholar 
-- His Teachers 
-- a. IbnKhaldun, Historian who written Muqaddima 
-- b. In 796 AH, He received Ijaaza from Aburrahman al Iraqee 
-- c. Ibn Hajar travelled with him (Mulazama) 
-- Overview of Fath al Baree: 
-- a. He written Fath al Baree which is explanation of Sahih Bukharee consisting of 18 volumes where final two volumes are just index 
-- b. Introduction to Life of Imam Bukharee 
-- c. Good explanation of Imam Bukharee’s methodology 
-- f. He explained systematic way of compilation and Systematic classification 
-- g. Two voluminous index (550 -600 pages each) 
-- i. Matn arranged alphabetically 
-- ii. Arrangement according to Rawi 
-- h. List of various kunyas 
-- i. Appreciation of Imam al Bukharee 
-- His Scholarship 
-- a. He analyze the Hadeeth with very sharp scale 
-- b. He collects from wide range of sources like rest of works of Imam Bukharee, works of Sunan, Imam Muslim and so on 
-- c. He is Imam in Jarh wa ta’deel 
-- d. He mentions History of Isnaad in Fath and various form of criticism 
-- e. Almost, all kind of sciences are presented in this work 
-- f. Some say: "There is no Hijrah after Fath and no Hijrah after Fath al baree" !🙂 
-- Sample: Hadeeth of intention 
-- a. Alqama is Sahabah so this hadeeth contains two sahaabah and 3 tabi’ee 
-- b. Why Imam Bukharee chose this hadeeth as part of the chapter Revelation? 
-- c. Imam Bayhaqee explains how it is third of Islaam because it is part of action of the heart which one among action of tongue and limbs 
-- d. He breaks the hadeeth into clause and discuss in detail
 
-| Sl. No. | Clause| Explanation |
+F. Imam Ibn Hajar al Asqalani 
+
+- **Early Life of Imam Ibn Hajar al Asqalani**
+	- a. Ahmad ibn Ali Muhammaad ibn Ali ibn Muhammad ibn Ahmad Shihabudeen Asqalanee 
+	- b. Born in 27 Shabban 773H 
+	- c. Name Ibn Hajar has number of theories 
+		- i. Particular tribe 
+		- ii. This tribe is being Yemen 
+		- iii. Testimony of Ibn Hajar: It is name given to one of the ancestors and he doesn’t know to whom it was given 
+	- d. Egyptian and lived in Cairo 
+- **Education:**
+	- a. Lived after the time of Salahudeen al Ayoobee and under the reign of Malmuks 
+	- b. Under this reign, Scholarship flourished 
+	- c. He came from the family of Merchants 
+	- d. His father passed away when he was less than four and brought up in the guardianship of Zaqiudeen and then under Ibn Khattan who is a Scholar by himself 
+	- e. He travelled to Makkah for Hajj (785 AH) and he spent 1 years there 
+	- f. He listened to Sahih Bukharee there in the house of his gaurdian 
+	- g. He learnt Fiqh, History, poetry, logic and this helped him in bringing wide birth of sciences into his work 
+	- h. His Guardian passed away in 1385 and he stopped his formal education for three years 
+	- i. He resumed when he was put under guardianship of Ibn Kattan who was a Scholar 
+- **His Teachers**
+	- a. IbnKhaldun, Historian who written Muqaddima 
+	- b. In 796 AH, He received Ijaaza from Aburrahman al Iraqee 
+	- c. Ibn Hajar travelled with him (Mulazama) 
+- **Overview of Fath al Baree:**
+	- a. He written Fath al Baree which is explanation of Sahih Bukharee consisting of 18 volumes where final two volumes are just index 
+	- b. Introduction to Life of Imam Bukharee 
+	- c. Good explanation of Imam Bukharee’s methodology 
+	- d. He explained systematic way of compilation and Systematic classification 
+	- e. Two voluminous index (550 -600 pages each) 
+		- i. Matn arranged alphabetically 
+		- ii. Arrangement according to Rawi 
+	- f. List of various kunyas 
+	- g. Appreciation of Imam al Bukharee 
+- **His Scholarship**
+	- a. He analyze the Hadeeth with very sharp scale 
+	- b. He collects from wide range of sources like rest of works of Imam Bukharee, works of Sunan, Imam Muslim and so on 
+	- c. He is Imam in Jarh wa ta’deel 
+	- d. He mentions History of Isnaad in Fath and various form of criticism 
+	- e. Almost, all kind of sciences are presented in this work 
+	- f. Some say: "There is no Hijrah after Fath and no Hijrah after Fath al baree" !🙂 
+- **Sample: Hadeeth of intention**
+	- a. Alqama is Sahabah so this hadeeth contains two sahaabah and 3 tabi’ee 
+	- b. Why Imam Bukharee chose this hadeeth as part of the chapter Revelation? 
+	- c. Imam Bayhaqee explains how it is third of Islaam because it is part of action of the heart which one among action of tongue and limbs 
+	- d. He breaks the hadeeth into clause and discuss in detail
+
+| Sl. No. | Clause                                                                                                            | Explanation                                                                                                                                                                                                                     |
 | ------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | "The reward of deeds depends upon the intentions| 1. He discusses whether "Intention" is rukoon or Shart<br>2. Discusses about Intention from different dimension in detail <br>3. What is covered in "intention" and what is not? <br>4. Discusses about contention of Intention |
-| 2 | and every person will get the reward according to what he has intended| Deeds |
-| 3 | So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for." | Types of Hijrah |
-- e.In addition he explains history of chain and its criticism 
+| 1       | "The reward of deeds depends upon the intentions                                                                  | 1. He discusses whether "Intention" is rukoon or Shart<br>2. Discusses about Intention from different dimension in detail <br>3. What is covered in "intention" and what is not? <br>4. Discusses about contention of Intention |
+| 2       | and every person will get the reward according to what he has intended                                            | Deeds                                                                                                                                                                                                                           |
+| 3       | So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for." | Types of Hijrah                                                                                                                                                                                                                 |
+- 
+	- e.In addition he explains history of chain and its criticism 
 
 ## Chapter 17: Role of Women in the institution of Hadeeth 
 
-- A. Role of Women before Islaam 
-	- a. Custom to bury female new born as they believed it will bring burden to the family (16:28, 29) 
-	- b. Misfortunes 
+A. Role of Women before Islaam 
 
-- B. Role of Women in Qur’aan 
-	- a. Qur’aan views women in virtue of their creation 
-	- b. They are like men who have certain rights (4:1-4) 
-	- c. We share in abilities, rights and so on 
-	- d. Women are not inferior in Islaam 
-	- e. There is no original Sin or sin of man 
-	- f. Islaam viewed women with independent status 
-	- g. She has right to worship Allaah and accountable for her acts on Day of judgment 
-	- h. Allaah attaches certain respect to Women (Luqman 31:14) 
-		- i. Hadeeth about one’s mother ["Your Mother" three times…] 
-		- ii. Pregnancy, child birth are praised 
+- a. Custom to bury female new born as they believed it will bring burden to the family (16:28, 29) 
+- b. Misfortunes 
 
-- C. Difference between Riwayah and Shahadha 
-	- a. Riwayah is narration 
-	- b. Shahadha is witnessing 
-		- i. In general, two women’s witness equal to one men’s witness (Business agreements) 
-		- ii. Men are more knowledgeable in contracts than women as they travel much and aware of idioms 
-		- iii. This verse is not denying women rather gives her power 
+B. Role of Women in Qur’aan 
 
-- D. Women in narrating Hadeeth 
-	- a. In conditions of Rawi, it has nothing to do with gender 
-		- i. Among the major narrators were Aisha, Umm Salama 
-		- ii. Some of the Golden chains trace back to Aisha or Umm Salama 
-	- b. Narration: 
-		- i. No difference between Man and Women 
-		- ii. Issue: Fatima Bint Qays and Umar. Umar rejected as she has not met the conditions (Mukhtafal Qur’aan) and not for being women 
+- a. Qur’aan views women in virtue of their creation 
+- b. They are like men who have certain rights (4:1-4) 
+- c. We share in abilities, rights and so on 
+- d. Women are not inferior in Islaam 
+- e. There is no original Sin or sin of man 
+- f. Islaam viewed women with independent status 
+- g. She has right to worship Allaah and accountable for her acts on Day of judgment 
+- h. Allaah attaches certain respect to Women (Luqman 31:14) 
+	- i. Hadeeth about one’s mother ["Your Mother" three times…] 
+	- ii. Pregnancy, child birth are praised 
 
-- E. Active Roles: 
-	- a. Umm kalthum performed Hijrah 
-	- b. Surah Mumtahinah:13 – Muslim Women cannot be returned to Non Muslim relatives 
-	- c. Women have participated in Hijrah, Bayyatul Aqaba, Sharjah, upbringing of children and society 
-	- d. Women asked questions to Prophet regarding 
-		- i. Wet dream 
-		- ii. Hayd 
-		- iii. Nifaas 
-		- iv. If you take Fiqh books and read on these chapters, you can see number of women narrating the Hadeeth 
-	- e. Aisha praised Ansar women for not being shy in seeking knowledge 
-	- f. Memorization: 
-		- i. Fatima bint Qays narrated Hadeeth regarding Dajjal which was the dialogue between Prophet and Tamim ad Dari. Tabari written a book compiling long hadeeth 
-		- ii. Imam Malik’s daughter memorized Muwatta and she will correct anyone who makes mistakes by sitting on the side room of the class 
-	- g. Addeeba al Madaneeyah 
-		- i. Started her career as slave women 
-		- ii. Well versed in Hadeeth literature 
-		- ii. Early scholar who memorized Muwatta 
-		- iii. Daughter of the scholar of Baghdad. Abu Nasar Deenawari known for Hadeeth narrations and calligraphy 
-	- h. Ummul Kareemah al Marwaziyah 
-		- i. One of her Isnaad is strongest Isnaad 
+C. Difference between Riwayah and Shahadha 
 
-- F. Learning Forums for Women 
+- a. Riwayah is narration 
+- b. Shahadha is witnessing 
+	- i. In general, two women’s witness equal to one men’s witness (Business agreements) 
+	- ii. Men are more knowledgeable in contracts than women as they travel much and aware of idioms 
+	- iii. This verse is not denying women rather gives her power 
+
+D. Women in narrating Hadeeth 
+
+- a. In conditions of Rawi, it has nothing to do with gender 
+	- i. Among the major narrators were Aisha, Umm Salama 
+	- ii. Some of the Golden chains trace back to Aisha or Umm Salama 
+- b. Narration: 
+	- i. No difference between Man and Women 
+	- ii. Issue: Fatima Bint Qays and Umar. Umar rejected as she has not met the conditions (Mukhtafal Qur’aan) and not for being women 
+
+E. Active Roles: 
+
+- a. Umm kalthum performed Hijrah 
+- b. Surah Mumtahinah:13 – Muslim Women cannot be returned to Non Muslim relatives 
+- c. Women have participated in Hijrah, Bayyatul Aqaba, Sharjah, upbringing of children and society 
+- d. Women asked questions to Prophet regarding 
+	- i. Wet dream 
+	- ii. Hayd 
+	- iii. Nifaas 
+	- iv. If you take Fiqh books and read on these chapters, you can see number of women narrating the Hadeeth 
+- e. Aisha praised Ansar women for not being shy in seeking knowledge 
+- f. Memorization: 
+	- i. Fatima bint Qays narrated Hadeeth regarding Dajjal which was the dialogue between Prophet and Tamim ad Dari. Tabari written a book compiling long hadeeth 
+	- ii. Imam Malik’s daughter memorized Muwatta and she will correct anyone who makes mistakes by sitting on the side room of the class 
+- g. Addeeba al Madaneeyah 
+	- i. Started her career as slave women 
+	- ii. Well versed in Hadeeth literature 
+	- ii. Early scholar who memorized Muwatta 
+	- iii. Daughter of the scholar of Baghdad. Abu Nasar Deenawari known for Hadeeth narrations and calligraphy 
+- h. Ummul Kareemah al Marwaziyah 
+	- i. One of her Isnaad is strongest Isnaad 
+
+F. Learning Forums for Women 
+
 - a. Teaching of Prophet was directed to Men and Women 
 - b. Public Lectures 
 - c. Hadeeth Conferences held in Hajj, Damascus, Madeenah in those days 
@@ -1905,58 +1952,63 @@ B. Three components of Tarjeeh
 		- She transported knowledge from Mangol attacked area to other parts of world like Isbahan and so on 
 - g. Muslim History is a masculine History, denying the rights of women is a absurd Myth 
 
-- G. Historical Development of Hadeeth among Women 
+G. Historical Development of Hadeeth among Women 
+
 - a. Stage 1: Sahaabiyaath (1-2 AH) 
 - b. Stage 2: More Men and less Women (2-5 AH) 
-- i. Required lot of travelling so there was decline among Women 
-- ii. Women Muhadeethath remained in their homes 
+	- i. Required lot of travelling so there was decline among Women 
+	- ii. Women Muhadeethath remained in their homes 
 - c. Stage 3: Women Muhadeethath in large number (6-9 AH) 
-- i. Crusades in Palestine 
-- ii. Mangol Invasion 
-- iii. Lot of Men were engaged in Jihad 
-- iv. Centers of learning were migrated where some Muhadeethath were already there 
-- v. Ibn Najjar, Hadeeth scholar received Hadeeth from 400 women 
-- vi. Ibn asakir, author of Tareekh ad Damishkh received from 80 women 
+	- i. Crusades in Palestine 
+	- ii. Mangol Invasion 
+	- iii. Lot of Men were engaged in Jihad 
+	- iv. Centers of learning were migrated where some Muhadeethath were already there 
+	- v. Ibn Najjar, Hadeeth scholar received Hadeeth from 400 women 
+	- vi. Ibn asakir, author of Tareekh ad Damishkh received from 80 women 
 - d. Stage 4: General decline of Muslim Scholarship (10-15 AH) 
-- i. Quraysh at Tabaria in Makkah. Many received knowledge from her 
-- ii. Ummul Khayr Khaleed al Damshqeeyah (mentioned in book of Suyoote that some strong chain declined because of her death) 
+	- i. Quraysh at Tabaria in Makkah. Many received knowledge from her 
+	- ii. Ummul Khayr Khaleed al Damshqeeyah (mentioned in book of Suyoote that some strong chain declined because of her death) 
 
-- Appendix A: Textual reading from Jaami al Uloom al Hikam 
+## Appendix A: Textual reading from Jaami al Uloom al Hikam 
 
-- A. Overview of Jaami al Uloom al Hikam 
+A. Overview of Jaami al Uloom al Hikam 
+
 - a. Written by Ibn Rajab al Hanbalee (d.795 AH) 
 - b. Compilation of knowledge in different fields 
 - c. It contains 50 Hadeeth (40 Hadeeth an Nawawee + 10 Hadeeth) 
 - d. Difference between this work and Fath al Baree 
-- i. Fath focus on Saheeh Bukharee and massive work 
-- ii. Jami al Uloom picks hadeeth and smaller work 
-- iii. Both have similar approach 
+	- i. Fath focus on Saheeh Bukharee and massive work 
+	- ii. Jami al Uloom picks hadeeth and smaller work 
+	- iii. Both have similar approach 
 - e. Systematic approach and have consistency all through the work 
 - f. It does repetition of different riwayah, similar opinions, Ahkam 
 
-- B. Sample: Hadeeth of Eeman/Jibreel 
+B. Sample: Hadeeth of Eeman/Jibreel 
+
 - a. Imam Muslim is the single person who has done Takhreej of hadeeth from Imam Bukharee 
 - b. Presents all related hadeeth which has similarity in meaning (Shahidh) and gives clear picture 
 - c. He prefers some hadeeth in the list of hadeeth he mentioned 
 - d. Explanation of Hadeeth 
-- i. First testimony 
-- ii. Aamal al Daahirah: Islam is inclusive of verbal, physical, financial and mixture form of act 
-- iii. Linguistic understanding and he supports it with the text from Kitaab and Sunnah 
-- iv. Whether Islaam and Iman mean the same thing? 
-- v. He presents views of different Schools with evidences 
-- vi. If Islaam used independently, we mean Islaam, Eeman and Ihsan 
-- vii. If Emaan used independently, we mean Eeman and Ihsan 
-- viii. When Islaam and Emaan are used together, Eeman is in the heart and Islaam is apparent physical manifestation of the belief (49:14) 
-- ix. Ehsan is used in Qur’aan to mean Islaam and Eeman (5:93) 
-- x. If we don’t know we have to say "I don know" 
-- xi. Conditions that leads to the Day of judgement 
+	- i. First testimony 
+	- ii. Aamal al Daahirah: Islam is inclusive of verbal, physical, financial and mixture form of act 
+	- iii. Linguistic understanding and he supports it with the text from Kitaab and Sunnah 
+	- iv. Whether Islaam and Iman mean the same thing? 
+	- v. He presents views of different Schools with evidences 
+	- vi. If Islaam used independently, we mean Islaam, Eeman and Ihsan 
+	- vii. If Emaan used independently, we mean Eeman and Ihsan 
+	- viii. When Islaam and Emaan are used together, Eeman is in the heart and Islaam is apparent physical manifestation of the belief (49:14) 
+	- ix. Ehsan is used in Qur’aan to mean Islaam and Eeman (5:93) 
+	- x. If we don’t know we have to say "I don know" 
+	- xi. Conditions that leads to the Day of judgement 
 - People will disrespect their mothers 
 - Barefoot naked people who become role model for the society 
 - e. Takhreej 
 - i. Isnaad: He given related Isnaad (Comparative study) 
 - ii. Tarjeeh for Isnaad 
 - iii. Mentions some of Ilm Rijaal 
-- Appendix B: Sciences of Hadeeth as critical apparatus in preserving Hadeeth 
+
+## Appendix B: Sciences of Hadeeth as critical apparatus in preserving Hadeeth 
+
 - "If Allaah have not given any science to this Ummah except Uloom al Hadeeth, it is sufficient as a proof for Islaam" 
 - Islaam is the religion which is blessed with number of sciences. Among it, Uloom al Hadeeth has different branches of sciences which preserves the Hadeeth of the Prophet for more than 1400 years and will preserve it till the day of Judgement. 
 
@@ -2030,5 +2082,6 @@ After studying the Isnaad and text from different dimensions, there are certain 
 	- Related hadeeth and versions 
 	- Supporting hadeeth and so on 
 
-E. Conclusion 
+E. Conclusion
+
 Thus the above sciences tests/critically analyses the hadeeth from the perspective of components of the hadeeth producing authoritative results and establishes hadeeth as the credible source for knowledge and implementation. All this scrutiny has been employed not only to ascertain the originality of the revelation but also eases the way for most part of Islaamic Sciences such as Fiqh which highly depends on Uloom al Hadeeth.
