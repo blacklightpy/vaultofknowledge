@@ -64,7 +64,11 @@ See 6:153 again (forgot)
 - Slave women do not have the right to guard their private parts, because that verse is for men
 - Women cannot have relations with her slaves, because that verse was for men
 
-- Killing anyone except those who spread mischief (which can include disbelief) is as if one's killed all of humanity (from Quran)
+- Killing anyone ==except those who spread mischief (which can include disbelief)== is as if one's killed all of humanity (from Quran)
+	- This was for the Children of Israel
+	- And because they did not accept Mohammed, he said in the next verse that they had to be killed
+	- Example Source (Hadith): https://x.com/TheHarrisSultan/status/1604099309557145602
+		- Counter (Fiqh): https://x.com/jzineden23/status/1604165267315372032
 
 - Children of slaves will be slaves of the master
 - One can sell their slaves, so they won't be freed even if the master dies
