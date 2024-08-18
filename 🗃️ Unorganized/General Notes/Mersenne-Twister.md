@@ -1,4 +1,10 @@
-It is the default PRNG in Python, and is in the STL in C++ (C uses Linear Congruential Generator (LCG)).
+It is the default [[Pseudorandom Number Generator|PRNG]] in Python, and is in the STL in C++ (C uses Linear Congruential Generator (LCG)).
+
+# Algorithm
+- Period: 2^19937 - 1
+- Dimensions: 624
+- State Size: 624 x 32
+- Word Size: 32 bits
 # Seeding Surprises
 - To Read: https://www.pcg-random.org/posts/cpp-seeding-surprises.html
 # Reverse Engineering
