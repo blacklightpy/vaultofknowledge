@@ -1,3 +1,3 @@
 - Huawei Unlock Tool (Bruteforce Bootloader Unlock Code)
 - PotatoNV (https://github.com/mashed-potatoes/PotatoNV) (Disassemble Phone) (for HiSilicon Kirin SoC)
-- HCU Client (Paid, newer SoCs)
+- HCU Client (Paid, newer HiSilicon and Qualcomm SoCs)

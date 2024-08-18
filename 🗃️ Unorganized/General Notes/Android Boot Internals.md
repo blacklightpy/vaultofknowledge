@@ -319,7 +319,7 @@ Basically, the SIM is to verify software credits.
 
 - Dongles use their own vendor software tools (UMT Tool, Hydra Tool, etc.)
 - They can be used to:
-	- Calculate Unlock Codes by IMEI
+	- Calculate Unlock Codes by IMEI (Online / Offline)
 	- Get Device Info
 	- Flash Firmware
 	- Read Codes (Network Unlock, User Unlock, Patterns/PIN)
@@ -335,7 +335,10 @@ Basically, the SIM is to verify software credits.
 ### Ultimate Multi Tool (UMT) Avengers Box (AVB) [Rs. ]
 ### MRT Dongle [Rs. ]
 ### Hydra Dongle [Rs. ]
-
+## Software Only
+### DC Unlocker
+### HUC Client [Huawei HiSilicon / Qualcomm SoCs]
+### DC Phoenix
 ## Bypass Download Mode Protection
 Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and Realme started obfuscating the process of getting to BROM mode. This way, we can only access the Download Mode using signed Download Agents.
 ### Universal MTK Tool (UMT)
