@@ -2,12 +2,14 @@ It is the default [[Pseudorandom Number Generator|PRNG]] in Python, and is in th
 
 # Algorithm
 ## Brief
-- Period: 2^19937 - 1
-- Dimensions: 624
-- State Size: 624 x 32
+- Period: $2^{19937} - 1$
+- Dimensions: $624$
+- State Size: $624 \times 32$
 - Word Size: 32 bits
 ## Algorithm
-
+- Seeding
+- Twisting
+- Tempering
 
 # Drawbacks
 - https://cs.stackexchange.com/questions/50059/why-is-the-mersenne-twister-regarded-as-good

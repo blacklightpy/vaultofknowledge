@@ -332,7 +332,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -400,7 +401,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +418,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -429,7 +430,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Mersenne-Twister.md"
               }
             }
           },
@@ -496,12 +497,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "0ce276d7f4e25545",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Solinas Primes.md",
     "🗃️ Unorganized/General Notes/Mersenne Primes.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Pseudorandom Number Generator.md",
     "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
     "🗃️ Unorganized/General Notes/k-dimensional Equidistribution.md",
@@ -523,7 +525,6 @@
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/Ibadi Muslims.md",
-    "🗃️ Unorganized/General Notes/GOD and the MACHINE.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
