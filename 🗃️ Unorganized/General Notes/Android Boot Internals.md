@@ -191,7 +191,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 	- e.g. Xiaomi Mi Unlock Tool (lose data + wait 1 week)
 - Method 3: Obtain official unlock code and unlock via fastboot
 	- e.g. Contact Infinix Service Center
-## How to bypass encryption
+## How to bypass encryption and other protections
 - DM-Verity
 	- It's a Linux kernel security feature to verify if a block read from a block device contains a specific hash.
 	- DM stands for Device Mapper
@@ -233,6 +233,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 	- `fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img`
 - Factory Reset Protection (FRP)
 	- It is used to prevent others from using your device after factory resetting it
+	- You can disable it by wiping the FRP partition
 - **Samsung Knox Guard (KG) / Remote Monitoring and Management (RMM)**
 	- RMM-State-Bypass-v3
 - **Samsung Knox**
@@ -310,6 +311,7 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - DA: Download Agent
 - xflash
 ### MTKClient GUI
+###
 ## Bypass Download Mode Protection
 Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and Realme started obfuscating the process of getting to BROM mode. This way, we can only access the Download Mode using signed Download Agents.
 ### Universal MTK Tool (UMT)
