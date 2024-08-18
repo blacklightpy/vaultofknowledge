@@ -1,7 +1,7 @@
 This is from the curriculum of Semester 3 from Knowledge International University (KIU), Riyadh, Saudi Arabia.
 # Part 1
-_"People who reject Hadeeth are those who lack knowledge in Hadeeth"_
-_"If Allaah have not blessed this ummmah with any science except Usool al Hadeeth, then this will be sufficient as a proof for Islaam"_
+> "People who reject Hadeeth are those who lack knowledge in Hadeeth"
+> "If Allaah have not blessed this ummmah with any science except Usool al Hadeeth, then this will be sufficient as a proof for Islaam"
 
 Subhanallaah, these are some of the amazing quotes regarding study of Usool al Hadeeth. Usool al Hadeeth, without a doubt, is a science came to protect this deen. After all they say "No one’s life history has been protected like that of the Prophet (sallalahualayhi wasallaam)" Alhamdulillaah, the credit goes again to Usool al Hadeeth.
 
@@ -1999,13 +1999,13 @@ B. Sample: Hadeeth of Eeman/Jibreel
 	- viii. When Islaam and Emaan are used together, Eeman is in the heart and Islaam is apparent physical manifestation of the belief (49:14) 
 	- ix. Ehsan is used in Qur’aan to mean Islaam and Eeman (5:93) 
 	- x. If we don’t know we have to say "I don know" 
-	- xi. Conditions that leads to the Day of judgement 
-- People will disrespect their mothers 
-- Barefoot naked people who become role model for the society 
+	- xi. Conditions that leads to the Day of Judgement 
+		- People will disrespect their mothers 
+		- Barefoot naked people who become role model for the society 
 - e. Takhreej 
-- i. Isnaad: He given related Isnaad (Comparative study) 
-- ii. Tarjeeh for Isnaad 
-- iii. Mentions some of Ilm Rijaal 
+	- i. Isnaad: He given related Isnaad (Comparative study) 
+	- ii. Tarjeeh for Isnaad 
+	- iii. Mentions some of Ilm Rijaal 
 
 ## Appendix B: Sciences of Hadeeth as critical apparatus in preserving Hadeeth 
 
@@ -2014,73 +2014,76 @@ B. Sample: Hadeeth of Eeman/Jibreel
 
 - Though Uloom al hadeeth is rich with ample amount of sciences , it can be categorized as follows 
 
-- A. Broader Sciences: 
+A. Broader Sciences: 
+
 - a. Any Hadeeth is comprised basically of two components 
-- i. Isnaad (Chain) 
-- ii. Matn (Text) 
+	- i. Isnaad (Chain) 
+	- ii. Matn (Text) 
 - b. The science which deals with Chains and scrutinize it from different angles with different tools to confirm its origin is called Ilmud Diraayah 
 - c. The Science which studies reality/original text of the hadeeth from different dimensions to give practical implication in our life is called Ilmur Riwayah 
 - d. There are certain sciences which absorbs both the above mentioned sciences in giving different benefits such as Ta’aarud wa tarjeeh which deals with chain and text in terms of preference when there is apparent conflict 
 - e. Now let us see how each science played a role of critical apparatus 
 
-- B. Ilmud Diraayah (Testing the Chain) 
+B. Ilmud Diraayah (Testing the Chain) 
+
 - a. Ilm Tahammul al Hadeeth (Process of Transmission) 
-- i. This Science with very precise wordings such as Haddathna, Akhbarna indicates to the reader how the hadeeth was received or transmitted 
-- ii. Further this science indicates certainty which helps in deriving ahkam in addition to the demonstration of Historical evolution of that particular hadeeth 
+	- i. This Science with very precise wordings such as Haddathna, Akhbarna indicates to the reader how the hadeeth was received or transmitted 
+	- ii. Further this science indicates certainty which helps in deriving ahkam in addition to the demonstration of Historical evolution of that particular hadeeth 
 - b. Ilm Rijaal al Hadeeth/Asmaa ar Rijaal (History of the narrator) 
-- i. In the due course of transmission process, there developed an science Asmaa ar Rijaal, which captured the historical background of the one who narrates the hadeeth from birth to death, character to manners and so on to the effect of history of the Rawi (narrator). 
-- ii. This helped in protecting the credibility of authentic chains of the hadeeth 
+	- i. In the due course of transmission process, there developed an science Asmaa ar Rijaal, which captured the historical background of the one who narrates the hadeeth from birth to death, character to manners and so on to the effect of history of the Rawi (narrator). 
+	- ii. This helped in protecting the credibility of authentic chains of the hadeeth 
 - c. Ilm Jarh wa ta’deel (Condition of the narrator) 
-- i. With the help of knowledge from Rijaal al Hadeeth, Jarh wa ta’deel helped in scrutinizing the chain from the perspective of the narrator whether he is the praised one (ta’deel) or he is dispraised (Jarh) 
-- ii. This dictates conditions of the narrator 
-- iii. Oldest name of this science is Naqd al Hadeeth 
+	- i. With the help of knowledge from Rijaal al Hadeeth, Jarh wa ta’deel helped in scrutinizing the chain from the perspective of the narrator whether he is the praised one (ta’deel) or he is dispraised (Jarh) 
+	- ii. This dictates conditions of the narrator 
+	- iii. Oldest name of this science is Naqd al Hadeeth 
 - d. Ilm Mustalah al Hadeeth (Principles of Hadeeth) 
-- i. This is really a usool of Hadeeth which gives the comprehensive information about Hadeeth with the help of terminologies 
-- ii. This Science clarifies the following 
-- From where the hadeeth is originated? eg.: Qudsi, Marfu 
-- How good the link between the levels (Tabaqat)? eg.: Musnad, Mursal 
-- How many narrators involved in the transmission? eg.: Mutawattir, Ahad 
-- What is the nature of the text and the Isnaad? eg.: Musnad, Mudraj 
-- What is the reliability level and memory of the narrator? eg.: Sahih, Da’eef 
-- iii. Greatest benefit of this science is that it gives us the Hukm of the hadeeth whether we have to accept or reject 
+	- i. This is really a usool of Hadeeth which gives the comprehensive information about Hadeeth with the help of terminologies 
+	- ii. This Science clarifies the following 
+		- From where the hadeeth is originated? eg.: Qudsi, Marfu 
+		- How good the link between the levels (Tabaqat)? eg.: Musnad, Mursal 
+		- How many narrators involved in the transmission? eg.: Mutawattir, Ahad 
+		- What is the nature of the text and the Isnaad? eg.: Musnad, Mudraj 
+		- What is the reliability level and memory of the narrator? eg.: Sahih, Da’eef 
+	- iii. Greatest benefit of this science is that it gives us the Hukm of the hadeeth whether we have to accept or reject 
 
-- C. Ilmur Riwayah (Testing the Text) 
+C. Ilmur Riwayah (Testing the Text) 
+
 - a. Ilm Mukhtalifal Hadeeth (Handling Conflict) 
-- i. After Hadeeth is confirmed with the help of sciences of Riwayah that it is truly the hadeeth from the Prophet, then focus is turned to text of the hadeeth 
-- ii. Mukhtalifal Hadeeth informs us how one should handle when there is apparent conflict between two authentic hadeeth 
-- iii. Tools this Science provides for resolution are as follows: 
-- Can we combine two hadeeth? – Jam 
-- If not, Can we prefer one hadeeth over the other? – Tarjeeh 
-- If not, Check whether any of the hadeeth was abrogated? – Naskh 
-- iv. This Science helps saves us from the greatest sin of rejection of Hadeeth and derives benefit of the hadeeth 
+	- i. After Hadeeth is confirmed with the help of sciences of Riwayah that it is truly the hadeeth from the Prophet, then focus is turned to text of the hadeeth 
+	- ii. Mukhtalifal Hadeeth informs us how one should handle when there is apparent conflict between two authentic hadeeth 
+	- iii. Tools this Science provides for resolution are as follows: 
+		- 1. Can we combine two hadeeth? – Jam 
+		- 2. If not, Can we prefer one hadeeth over the other? – Tarjeeh 
+		- 3. If not, Check whether any of the hadeeth was abrogated? – Naskh 
+	- iv. This Science helps saves us from the greatest sin of rejection of Hadeeth and derives benefit of the hadeeth 
 - b. Ilm Ghareeb al Hadeeth (Strange words are no more strange) 
-- i. This science helps one to understand the strange words in the hadeeth and helps in studying the hadeeth from linguistic dimension for proper understanding 
+	- i. This science helps one to understand the strange words in the hadeeth and helps in studying the hadeeth from linguistic dimension for proper understanding 
 - c. Ilm Naasikh wa Mansookhi 
-- i. This science helps in deriving the legislation of the hadeeth and demonstrates how hadeeth also followed Qur’aans gradual way of legislation and bringing/abrogating law based on needs and necessities 
-- ii. This informs us which hadeeth abrogates which hadeeth and so on 
+	- i. This science helps in deriving the legislation of the hadeeth and demonstrates how hadeeth also followed Qur’aans gradual way of legislation and bringing/abrogating law based on needs and necessities 
+	- ii. This informs us which hadeeth abrogates which hadeeth and so on 
 - d. Fiqh al Hadeeth (Ruling from the Hadeeth) 
-- i. This science tries to compile all the hadeeth that are relevant for Fiqh rulings such as the books of Abu Yusuf, Abu Dawood, A’laam al-Muwaqqi’een of Ibn al-Qayyim al-Jawziyyah and others 
-- ii. This science ultimately gives the fruit of the hadeeth 
+	- i. This science tries to compile all the hadeeth that are relevant for Fiqh rulings such as the books of Abu Yusuf, Abu Dawood, A’laam al-Muwaqqi’een of Ibn al-Qayyim al-Jawziyyah and others 
+	- ii. This science ultimately gives the fruit of the hadeeth 
 
-- D. Both Diraayah and Riwayah 
+D. Both Diraayah and Riwayah 
 
 After studying the Isnaad and text from different dimensions, there are certain sciences which studies in combination of text and chain and gives us numerous benefits 
 
 - a. Ilm Ilal Hadeeth (Microscopic Lens) 
-- a. This science helps in finding any subtle defects either in Isnaad or in the text. 
-- ii. Challenging study which requires sound knowledge of different sciences of hadeeth and specialists like Imam Muslim, Abu Dawood and later scholars like Shaykh Albanee are known for it 
+	- i. This science helps in finding any subtle defects either in Isnaad or in the text. 
+	- ii. Challenging study which requires sound knowledge of different sciences of hadeeth and specialists like Imam Muslim, Abu Dawood and later scholars like Shaykh Albanee are known for it 
 - b. Ilm al Ta’aarud wa tarjeeh (Conflict and Preference) 
-- i. When there is apparent conflict, this science helps in determining which hadeeth can be preferred over the other by means of following preferences 
-- Tarjeeh in Isnaad according to Rawi and strength of the chain 
-- Tarjeeh in the text according to language, meaning and implication 
-- Whether Tarjeeh can be determined from the external sources 
+	- i. When there is apparent conflict, this science helps in determining which hadeeth can be preferred over the other by means of following preferences 
+		- Tarjeeh in Isnaad according to Rawi and strength of the chain 
+		- Tarjeeh in the text according to language, meaning and implication 
+		- Whether Tarjeeh can be determined from the external sources 
 - c. Ilm Takhreej al Hadeeth (Retrieval Process) 
-- i. This science helps in retrieving the hadeeth and gives one stop information about the hadeeth such as 
-- Where this hadeeth can be found? 
-	- Condition of the Rawi 
-	- Hukm of the hadeeth 
-	- Related hadeeth and versions 
-	- Supporting hadeeth and so on 
+	- i. This science helps in retrieving the hadeeth and gives one stop information about the hadeeth such as 
+		- Where this hadeeth can be found? 
+		- Condition of the Rawi 
+		- Hukm of the hadeeth 
+		- Related hadeeth and versions 
+		- Supporting hadeeth and so on 
 
 E. Conclusion
 
