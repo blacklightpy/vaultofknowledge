@@ -312,12 +312,15 @@ A problem with USB Mass Storage was that, it would expose the device at the bloc
 - xflash
 ### MTKClient GUI
 
-## Dongles
+## Multi SoC Dongles (a.k.a. GSM/CDMA Boxes) 
 Most of them have a SIM, and require recharge (except Aqua)
+
+- Dongles use their own vendor software tools (UMT Tool, Hydra Tool, etc.)
 ### Aqua Dongle [Rs. 4000, Basic]
 ### Ultimate Multi Tool (UMT) Dongle [Rs. 3000]
 ### Ultimate Multi Tool (UMT) Pro Dongle [Rs. 4000]
-### Ultimate Multi Tool (UMT) GSM Tool [Rs. ]
+### Ultimate Multi Tool (UMT) GSM Shield Box (GSB) [Rs. ]
+### Ultimate Multi Tool (UMT) Avengers Box (AVB) [Rs. ]
 ### MRT Dongle [Rs. ]
 ### Hydra Dongle [Rs. ]
 
