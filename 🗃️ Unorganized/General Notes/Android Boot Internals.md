@@ -420,7 +420,7 @@ The point again was to point out that there's nothing that's really random. Unle
 
 Now, coming to the title topic, so if we look at any moving object in our surroundings, we know that it gained its state of motion from the influence of some prior forces. And similarly, those forces were introduced by further previous forces. And just as a robot makes its motion because of the flow of electricity through the hardware, we humans also make our motion due to the motion of electricity through our brain. And electricity is nothing but the flow of the electromagnetic field. As for our decision making ability, a robot in the past would've been pre-programmed, but AI robots form decisions by perfecting the pattern of flow of electricity by what can essentially be described as disciplining itself (often done under supervision). So, if we got back in this manner, we will eventually trace back our coming into being from our parents' genes, then back to the formation of the earth, and finally arrive at an initial force, which the scientific community has approximated as the Lambda-CDM parametrization of the Big Bang Theory.
 
-This fundamental force, is what Aristotle described as the unmoved mover, or 
+This fundamental force, is what Aristotle described as the unmoved mover, or the prime mover.
 
 Part 0.2
 

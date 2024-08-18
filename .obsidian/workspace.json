@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Solinas Primes.md",
+                "file": "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -332,8 +332,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -401,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Solinas Primes.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -418,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Solinas Primes.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -430,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Solinas Primes.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -497,7 +496,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0ce276d7f4e25545",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
     "🗃️ Unorganized/General Notes/Solinas Primes.md",
