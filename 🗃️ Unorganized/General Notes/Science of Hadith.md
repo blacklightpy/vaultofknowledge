@@ -1,4 +1,5 @@
-> This is from the curriculum of Semester 3 from Knowledge International University (KIU), Riyadh, Saudi Arabia.
+This is from the curriculum of Semester 3 from Knowledge International University (KIU), Riyadh, Saudi Arabia.
+
 > # Part 1
 > "People who reject Hadeeth are those who lack knowledge in Hadeeth"
 > "If Allaah have not blessed this ummmah with any science except Usool al Hadeeth, then this will be sufficient as a proof for Islaam"
