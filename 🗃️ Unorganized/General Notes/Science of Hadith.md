@@ -521,442 +521,507 @@ C. Saheeh Hadeeth
 		- Some said 10 because in arabic anything meets 10 is called Jamah
 		- Some said it is 12 based on Qur’aan 5:11
 		- Some said it is 20 based on Qur’aan 8:
-- iii. Tawattur can happen by two ways:
-	- Tawattur bil lafdh -Text (quote unquote)
-		- i. Example: "whoever fabricates a hadeeth can expect a seat from the hell fire" [Bukharee]
-		- ii. Narrated by 40 Sahaabah’s and among them were 10 promised Jannah
-	- Tawattur al Ma’naa – Meaning (found in several supporting hadeeth)
-		- i. Du’aa that indicates prophet raised his hand in du’aa
-		- ii. "Actions are but by intentions"
-- iv. Ahad
-- Individual narrations
-- Joke: Ahad is like a Muslim and Mutawattir is Muhsin or Mu’min ?
+	- iii. Tawattur can happen by two ways:
+		- Tawattur bil lafdh -Text (quote unquote)
+			- i. Example: "whoever fabricates a hadeeth can expect a seat from the hell fire" [Bukharee]
+			- ii. Narrated by 40 Sahaabah’s and among them were 10 promised Jannah
+		- Tawattur al Ma’naa – Meaning (found in several supporting hadeeth)
+			- i. Du’aa that indicates prophet raised his hand in du’aa
+			- ii. "Actions are but by intentions"
+		- iv. Ahad
+			- Individual narrations
+			- Joke: Ahad is like a Muslim and Mutawattir is Muhsin or Mu’min :)
 - c. Saheeh hadeeth can be Mashhoor (well known) as well as ghareeb (strange)
-- i. In the chain, there is only thiqaa
-- ii. In hadeeth mashhoor, chain consists of number of thiqqq
+	- i. In the chain, there is only thiqaa
+	- ii. In hadeeth mashhoor, chain consists of number of thiqqq
 - d. Region of origination:
-- One another way to know hadeeth saheeh is from the region of origination of hadeeth (eg. Hadeeth from madeenah is more to be saheeh as Madeenah was free from political/sectarian schism)
+	- One another way to know hadeeth saheeh is from the region of origination of hadeeth (eg. Hadeeth from madeenah is more to be saheeh as Madeenah was free from political/sectarian schism)
 - e. Grades of Hadeeth (Imam Nawawi’s Hierarchy of strength within Saheeh) :
-- i. According to conditions of Imam Bukharee, and Imam Muslim (muttaqun alayh) and recorded by them both
-- ii. Recorded by Imam Bukharee alone
-- iii. Recorded by Imam Muslim alone
-- iv. Not narrated by Imam Bukharee or Muslim but agrees to their condition (eg. : Mustadrak al Hakim)
-- v. Authenticated Hadeeth according to condition of Imam Bukharee and recorded by others
-- vi. Authenticated Hadeeth according to condition of Imam Muslim and recorded by others
-- vii. Authenticated by Imams of hadeeth and not according to condition of Imam Bukharee/Muslim
+	- i. According to conditions of Imam Bukharee, and Imam Muslim (muttaqun alayh) and recorded by them both
+	- ii. Recorded by Imam Bukharee alone
+	- iii. Recorded by Imam Muslim alone
+	- iv. Not narrated by Imam Bukharee or Muslim but agrees to their condition (eg. : Mustadrak al Hakim)
+	- v. Authenticated Hadeeth according to condition of Imam Bukharee and recorded by others
+	- vi. Authenticated Hadeeth according to condition of Imam Muslim and recorded by others
+	- vii. Authenticated by Imams of hadeeth and not according to condition of Imam Bukharee/Muslim
 - f. What is Saheehal Isnaad means?
-- i. Saheeh is pertinent to both matn and isnaad
-- ii. Saheehul Isnaad doesn’t mean hadeeth is saheeh rather hadeeth is saheeh in the chain but there are some illaal in the text
+	- i. Saheeh is pertinent to both matn and isnaad
+	- ii. Saheehul Isnaad doesn’t mean hadeeth is saheeh rather hadeeth is saheeh in the chain but there are some illaal in the text
 - g. Golden chains
-- i. Malik –> naafi –> Ibn Umar –> Prophet [Bukharee’s preference]
-- ii. Silsilah adh dhahabee mentions golden chains
-- Imam Ahmad –> Imam Shafi’ee –> Imam Malik –> naafi –> Ibn Umar –> Prophet
+	- i. Malik –> naafi –> Ibn Umar –> Prophet [Bukharee’s preference]
+	- ii. Silsilah adh dhahabee mentions golden chains
+		- Imam Ahmad –> Imam Shafi’ee –> Imam Malik –> naafi –> Ibn Umar –> Prophet
 - h. Types:
-- i. Saheeh li Thaatihi
-- Saheeh by in and of itself which meets all 5 conditions
+	- i. Saheeh li Thaatihi
+		- Saheeh by in and of itself which meets all 5 conditions
 - ii. Saheeh li Ghayrihi
-- When hadeeth doesn’t meet the requirements of Saheeh but there are supporting reports (Al mut’aaba) that elevates
-- Hasan hadeeth which is elevated
-- Eg.: "If I have not feared for this ummah, I would have ordered them to use miswak before every salah" [Abu Dawood]
-- Hukm: same as Saheeh li Thaatihi. It obliges the person to obey the injunctions in it
+		- When hadeeth doesn’t meet the requirements of Saheeh but there are supporting reports (Al mut’aaba) that elevates
+		- Hasan hadeeth which is elevated
+		- e.g. "If I have not feared for this ummah, I would have ordered them to use miswak before every salah" [Abu Dawood]
+		- Hukm: same as Saheeh li Thaatihi. It obliges the person to obey the injunctions in it
 
 D. Hadeeth Hasan
 
 - a. History of Hadeeh Hasan
-- i. Not known in earlier period rather introduced in later period
-- ii. In earlier period, Hadeeth hasan belongs to hadeeth Saheeh category but it did not enjoy the level of mastery of Saheeh <– Ibn Salah
-- iii. Ibn Taymiah explains in his explanation of Musnad Ahmad, Hadeeth hasan belongs to Da’ee laysa bi matrook
-- iv. Hadeeth Hasan was a term coined by Imam Tirimidhee (Some Scholars say it was started even before)
-- v. Any way, Tirimidhee made it popular due to his high usage
+	- i. Not known in earlier period rather introduced in later period
+	- ii. In earlier period, Hadeeth hasan belongs to hadeeth Saheeh category but it did not enjoy the level of mastery of Saheeh <– Ibn Salah
+	- iii. Ibn Taymiah explains in his explanation of Musnad Ahmad, Hadeeth hasan belongs to Da’ee laysa bi matrook
+	- iv. Hadeeth Hasan was a term coined by Imam Tirimidhee (Some Scholars say it was started even before)
+	- v. Any way, Tirimidhee made it popular due to his high usage
 - b. Definition of Hadeeth Hasan
-- i. Hadeeth which has complete isnaad (muttasil) communicated by just but enjoys less accuracy and free from Shaadhdh and Mu’allal
-- ii. Difference between Saheeh and Hasan is level of accuracy
+	- i. Hadeeth which has complete isnaad (muttasil) communicated by just but enjoys less accuracy and free from Shaadhdh and Mu’allal
+	- ii. Difference between Saheeh and Hasan is level of accuracy
 - c. Imam Tirimidhee’s usage (unique):
-- i. Hasan Saheeh
-- One hadeeth is hasan in itself and there is other hadeeth which meets Saheeh conditions and thus become both hasan and Saheeh. It doesn’t become Saheeh because of hasan report
-- ii. Hasan Saheeh Ghareeb
-- Same as above except one person is Thiqaa
+	- i. Hasan Saheeh
+		- One hadeeth is hasan in itself and there is other hadeeth which meets Saheeh conditions and thus become both hasan and Saheeh. It doesn’t become Saheeh because of hasan report
+	- ii. Hasan Saheeh Ghareeb
+		- Same as above except one person is Thiqaa
 - d. Types
-- i. Hasan li thaathihi
-- Hasan by in and of itself
-- ii. Hasan li Ghayrihi
-- Needs supporting isnaad to elevate it to the level of hasan
-- Hadeeth which has Mubham (unknown) narrator who was free from jarh of Adaalah and Dabt can be in the chain and can be elevated to this level
+	- i. Hasan li thaathihi
+		- Hasan by in and of itself
+	- ii. Hasan li Ghayrihi
+		- Needs supporting isnaad to elevate it to the level of hasan
+		- Hadeeth which has Mubham (unknown) narrator who was free from jarh of Adaalah and Dabt can be in the chain and can be elevated to this level
 - e. Titles (Arqaab) indicate both Saheeh and Hasan combinely
-- i. Jaeed
-- ii. Mujawad
-- iii. Salih
-- iv. Thaabith
-- v. Mahfooth
+	- i. Jaeed
+	- ii. Mujawad
+	- iii. Salih
+	- iv. Thaabith
+	- v. Mahfooth
 - f. Hukm of Hadeeth Hasan: Treat same as Saheeh, Has authority in daily conduct and legislations
 
 E. Hadeeth Da’eef
 
 - a. Definition
-- i. Anything doesn’t meet the requirements of Saheeh or Hasan
-- ii. Weak hadeeth
+	- i. Anything doesn’t meet the requirements of Saheeh or Hasan
+	- ii. Weak hadeeth
 - b. Possibility of Hadeeth to be Da’eef:
-- i. Some Scholars identified as 365 ways- not much practical relevance
-- ii. Ibn Salah said it is 42
+	- i. Some Scholars identified as 365 ways- not much practical relevance
+	- ii. Ibn Salah said it is 42
 - c. Mursal/Maraasil:
-- i. Tabi’ee reports from Prophet without mentioning the Sahaabah
-- ii. Hukm: They are not authorities
-- iii. Types:
-- Maraasil of Sahaabah:
-- a. Sahabeeh himself did not hear directly from the Prophet rather heard from another Sahaabee but he attributes directly to the Prophet
-- b. Eg. Sahaabee saying Prophet mentioned in Battle of Badr though he did not participated in the battle
-- c. Hukm: Accepted as all Sahaabahs are adool
-- Maraasil of Tabi’ee
-- a. Those who mastered the Hadeeth like Sa’eed ibn Musayad who learnt from Sahaabah
-- Maraasil of Senior tabi’ee
-- a. Mujahid and others
-- Maraasil of later tabi’een
-- a. Who learnt from Senior tab’iee
-- iv. Maraasil can be elevated to Marfoo provided we have supporting narrations
-- v. Reason of weakness: Missing link in Isnaad (usually the Sahaabah)
+	- i. Tabi’ee reports from Prophet without mentioning the Sahaabah
+	- ii. Hukm: They are not authorities
+	- iii. Types:
+		- Maraasil of Sahaabah:
+			- a. Sahabeeh himself did not hear directly from the Prophet rather heard from another Sahaabee but he attributes directly to the Prophet
+			- b. Eg. Sahaabee saying Prophet mentioned in Battle of Badr though he did not participated in the battle
+			- c. Hukm: Accepted as all Sahaabahs are adool
+		- Maraasil of Tabi’ee
+			- a. Those who mastered the Hadeeth like Sa’eed ibn Musayad who learnt from Sahaabah
+		- Maraasil of Senior tabi’ee
+			- a. Mujahid and others
+		- Maraasil of later tabi’een
+			- a. Who learnt from Senior tab’iee
+	- iv. Maraasil can be elevated to Marfoo provided we have supporting narrations
+	- v. Reason of weakness: Missing link in Isnaad (usually the Sahaabah)
 - d. Munqati
-- i. Hadeeth in which one of the narrators is missing or Mubham (unknown)
-- ii. It misses narrator anywhere in the chain
+	- i. Hadeeth in which one of the narrators is missing or Mubham (unknown)
+	- ii. It misses narrator anywhere in the chain
 - e. Mu’addal:
-- i. Two people missing (consecutive) in the chain
-- ii. Hukm: no authority
+	- i. Two people missing (consecutive) in the chain
+	- ii. Hukm: no authority
 - f. Mudalees:
-- i. Using words/terms that causes ambiguity so that they get rid of their weaknesses
-- ii. Tadlees al Isnaad
-- When Rawi claims that he heard/met the person but he did not originally heard/met the person
-- They mostly use the Sami’aa form of Tahammum
-- Considered as crime in Hadeeth science as it is purposely confusing isnaad and causing ambiguity
-- Imam Subah: "to fornicate is dearer to me than tadlees"
-- Imam Shafi’ee never taken riwayah from anyone who do Tadlees
-- Other Ulema take from them provided supported by other proofs
-- iii. Tadlees al Shuyookh
-- Purposely refers to Shaykh who is not popularly known by some popular names causing ambiguity
-- Eg. "My Shaykh Ahmad" but this Ahmad may be not Ahmad ibn Hanbal people perceive
-- iv. Other Categories
-- Tadlees at Tarf:
-- a. Deception in Tarf
-- i. Hadathna Ahmad
-- b. It can be corrected by punctuation
-- Tadlees as Sukt:
-- a. Saying hadathnee and keep quiet
-- b. Causing confusion
-- Tadlees at tasweer:
-- a. Purging the weak people from the isnaad and replacing with stronger Thiqaa
+	- i. Using words/terms that causes ambiguity so that they get rid of their weaknesses
+	- ii. Tadlees al Isnaad
+		- When Rawi claims that he heard/met the person but he did not originally heard/met the person
+		- They mostly use the Sami’aa form of Tahammum
+		- Considered as crime in Hadeeth science as it is purposely confusing isnaad and causing ambiguity
+		- Imam Subah: "to fornicate is dearer to me than tadlees"
+		- Imam Shafi’ee never taken riwayah from anyone who do Tadlees
+		- Other Ulema take from them provided supported by other proofs
+	- iii. Tadlees al Shuyookh
+		- Purposely refers to Shaykh who is not popularly known by some popular names causing ambiguity
+		- Eg. "My Shaykh Ahmad" but this Ahmad may be not Ahmad ibn Hanbal people perceive
+	- iv. Other Categories
+		- Tadlees at Tarf:
+			- a. Deception in Tarf
+				- i. Hadathna Ahmad
+			- b. It can be corrected by punctuation
+		- Tadlees as Sukt:
+			- a. Saying hadathnee and keep quiet
+			- b. Causing confusion
+		- Tadlees at tasweer:
+			- a. Purging the weak people from the isnaad and replacing with stronger Thiqaa
 - g. Mu’allil:
-- i. Hadeeth which has illaa (hidden defects)
-- ii. Illaa is a subtle course which blemishes the Hadeeth
-- iii. Eg.: One Isnaad is exchanged for other Isnaad
-- iv. Requires comprehensive knowledge of Rijaal, language, places, various isnaad of the Hadeeth and long time engagement with Hadeeth and so on to identify this
+	- i. Hadeeth which has illaa (hidden defects)
+	- ii. Illaa is a subtle course which blemishes the Hadeeth
+	- iii. Eg.: One Isnaad is exchanged for other Isnaad
+	- iv. Requires comprehensive knowledge of Rijaal, language, places, various isnaad of the Hadeeth and long time engagement with Hadeeth and so on to identify this
 - v. Imam Bukharee, Tirimidhee discussed about Mu’allil in some of his works
 
 F. According to hidden defect found in the Isnaad or text
 
 - a. Hadeeth al Mudtarib/Idtiraab (Confusion)
-- i. Reported in number of different ways (chain/reports)
-- ii. All chain share same strength
-- iii. Impossible to prefer one way over another
-- iv. Hukm: considered weak because of inability to choose one isnaad over another which prevents mastery/clarity
-- v. Confusion (Itiraab) will take place in Isnaad/matn of the hadeeth
+	- i. Reported in number of different ways (chain/reports)
+	- ii. All chain share same strength
+	- iii. Impossible to prefer one way over another
+	- iv. Hukm: considered weak because of inability to choose one isnaad over another which prevents mastery/clarity
+	- v. Confusion (Itiraab) will take place in Isnaad/matn of the hadeeth
 - b. Hadeeth al Maqlub (reversed)
-- i. Reversal happens in Isnaad or matn
-- ii. Isnaad: Names of narrator will be reversed
-- Eg.: Instead of Kaab ibn Musayab, one may call musayab ibn Kab
-- iii. Matn: Wording may be of different order fro m the similar report
-- Eg.: Hadeeth of seven under the shade
-- iv. Identified from process of comparison and contrast
-- v. Hukm: Considered weak because of less Dabt
-- vi. Historical: Story of Imam Bukharee and 100 reversed hadeeth
-- G. According to nature of the text and Isnaad
+	- i. Reversal happens in Isnaad or matn
+	- ii. Isnaad: Names of narrator will be reversed
+		- Eg.: Instead of Kaab ibn Musayab, one may call musayab ibn Kab
+	- iii. Matn: Wording may be of different order fro m the similar report
+		- Eg.: Hadeeth of seven under the shade
+	- iv. Identified from process of comparison and contrast
+	- v. Hukm: Considered weak because of less Dabt
+	- vi. Historical: Story of Imam Bukharee and 100 reversed hadeeth
+
+G. According to nature of the text and Isnaad
+
 - a. Hadeeth al Shadh
-- i. Narrator is Thiqaa presents hadeeth which is contradictory to the hadeeth presented by thiqaa who is more than him
-- ii. Singular hadeeth from one person and contradicts one that is stronger than itself
-- iii. Here Rawi is not weak rather he doen’t know the other reports
+	- i. Narrator is Thiqaa presents hadeeth which is contradictory to the hadeeth presented by thiqaa who is more than him
+	- ii. Singular hadeeth from one person and contradicts one that is stronger than itself
+	- iii. Here Rawi is not weak rather he doen’t know the other reports
 - b. Hadeeth al Munkar:
-- i. Similar to Shadh in opposition to one who is stronger than itself and but here happens between weak narrator and Thiqaa
+	- i. Similar to Shadh in opposition to one who is stronger than itself and but here happens between weak narrator and Thiqaa
 
 H. Hadeeth al Matrook (Discarded)
 
 - a. Narrator who has been accused of fabrication.
 - b. Rawi is prone to make serious mistakes and doesn’t enjoy sound character
 - c. Hukm: Rejected
-- I. Rulings of Hadeeth al Mauquf
+
+I. Rulings of Hadeeth al Mauquf
+
 - a. Hadeeth that reaches Sahabee not Rasoolullah
 - b. Actions/sayings of Sahabah
 - c. In matters where there is no possibility of Ijtihaad, then they are acceptable as they cannot say themselves except heard from the Prophet
-- i. Eg.: Abdullaah ibn Masood narrated "Whoever meets fortuneteller and believes what he says then disobey Allaah and his Prophet"
+	- i. Eg.: Abdullaah ibn Masood narrated "Whoever meets fortuneteller and believes what he says then disobey Allaah and his Prophet"
 - d. Ibn Umar, Ibn aas narrated Bani Israeliat and we do not take from them
-- J. Rulings of Hadeeth al Maqtu
+
+J. Rulings of Hadeeth al Maqtu
+
 - a. Hadeeth that reaches Tabi’ee and not Rasoolullah
 - b. We do not consider later tabiee’s narration
 - c. Abu Haneefa: We do not have any option when it comes to Rasoolullah and from Sahaabah we have option but with tabiee, they are men and we are men
-- K. Where Da’eef Hadeeth is allowed to be used?
+
+K. Where Da’eef Hadeeth is allowed to be used?
+
 - a. Da’eef hadeeth is allowed in virtuous deeds (Fadail Amal) when there is number of Da’eef hadeeth which supports the hadeeth
 - b. Many Scholars refused to use Da’eef hadeeth
 - c. Ahmad ibn Hanbal, Abdurahman ibn Mahdee Abdullaah ibn Mubaraq used Da’eef hadeeth in these matters
 - d. Historical background: Hadeeth hasan was not identified during this time
 - e. To use Da’eef hadeeth, following conditions must be fulfilled:
-- i. Should not be majorly weak
-- ii. Pertain to some of the major categories/themes (abwab) of the hadeeth
-- iii. Should not contradict the stronger report
-- L. Hadeeth categories which may be Saheeh/Hasan/Da’eef
+	- i. Should not be majorly weak
+	- ii. Pertain to some of the major categories/themes (abwab) of the hadeeth
+	- iii. Should not contradict the stronger report
+
+L. Hadeeth categories which may be Saheeh/Hasan/Da’eef
+
 - a. Category 1: Marfoo/Musnad/Mutassill
-- i. Marfoo may be Saheeh/Hasan/Da’eef depending upon the investigation
-- Marfoo may be
-- a. Mursal
-- b. Mu’addal
-- c. Munqati
-- ii. Musnad (Continuous Chain that reaches the Prophet )
-- iii. Muttasil (Continious chain that not necessarily reaches the Prophet): may be Saheeh/Hasan/Da’eef depending upon the investigation
-- Mauquf on Sahabee
-- Maqtu on Tabi’ee
+	- i. Marfoo may be Saheeh/Hasan/Da’eef depending upon the investigation
+		- Marfoo may be
+			- a. Mursal
+			- b. Mu’addal
+			- c. Munqati
+	- ii. Musnad (Continuous Chain that reaches the Prophet )
+	- iii. Muttasil (Continious chain that not necessarily reaches the Prophet): may be Saheeh/Hasan/Da’eef depending upon the investigation
+		- Mauquf on Sahabee
+		- Maqtu on Tabi’ee
 - b. Category 2: Ananaa, Al-Muannan, Muallaq
-- i. Ananaa:
-- "by this person, by this person…"
-- Used particularly by Sahaabahs
-- Present in Bukharee/ and mainly in Muslim
-- Used by Mudalees and make it weaker
-- ii. Amuannan: enjoys similar experience of Ananaa and this is hadeeth itself
-- iii. Muallaq:
-- one or more people deleted from the beginning of the Isnaad
-- This kind of Hadeeth present in Bukharee where he used for abbreviation
+	- i. Ananaa:
+		- "by this person, by this person…"
+		- Used particularly by Sahaabahs
+		- Present in Bukharee/ and mainly in Muslim
+		- Used by Mudalees and make it weaker
+	- ii. Amuannan: enjoys similar experience of Ananaa and this is hadeeth itself
+	- iii. Muallaq:
+		- one or more people deleted from the beginning of the Isnaad
+		- This kind of Hadeeth present in Bukharee where he used for abbreviation
 - c. Category 3: Al Fard/Alghareeb
-- i. Al Fard: Singular/Solitary
-- Single person narrates the hadeeth
-- Popular form of singularity
-- a. One to One
-- b. One to Region
-- c. Region to Region
-- ii. Ghareeb
-- One person minimum and one or two at different levels of Isnaad
-- Also called as Alfard misbee
-- M. How Hadeeth elevated?
+	- i. Al Fard: Singular/Solitary
+		- Single person narrates the hadeeth
+		- Popular form of singularity
+			- a. One to One
+			- b. One to Region
+			- c. Region to Region
+	- ii. Ghareeb
+		- One person minimum and one or two at different levels of Isnaad
+		- Also called as Alfard misbee
+
+M. How Hadeeth elevated?
+
 - a. Elevation:
-- i. From Da’eef to Hasan li Ghayrihi
-- ii. From Hasan to Shaheeh li Ghayrihi
+	- i. From Da’eef to Hasan li Ghayrihi
+	- ii. From Hasan to Shaheeh li Ghayrihi
 - b. Way: By means of supporting evidences: Hadeeth al Mutaabih/AsShahidh and other requirements
-- N. Hadeeth al Mutaabih
+
+N. Hadeeth al Mutaabih
+
 - a. Mutaabih is what has been narrated in exact wording
-- i. Mutaabih at Taam (complete)
-- Hadeeth which supports from the level of the narrator himself
-- ii. Mutaabih al qaasir (incomplete)
-- Rawi is not included in the chain
-- the supporting chain begins with the sheikh of the narrator not the narrator
-- O. Hadeeth as Shahidh
+	- i. Mutaabih at Taam (complete)
+		- Hadeeth which supports from the level of the narrator himself
+	- ii. Mutaabih al qaasir (incomplete)
+		- Rawi is not included in the chain
+		- the supporting chain begins with the sheikh of the narrator not the narrator
+
+O. Hadeeth as Shahidh
+
 - a. Shahid can either be in wording (al lahwi)or meaning (al manawi) of the text
-- P. Hadeeth al Mudaraj
+
+P. Hadeeth al Mudaraj
+
 - a. Interpolation in the text of the hadeeth
 - b. This is unintended interpolation and happens during explanation
 - c. If there is deliberate interpolation, then it is similar to fabrication
 - d. Two forms:
-- i. Form 1:
-- Hadeeth that has more than one isnaad is presented without making it clear that there exists more than one isnaad.
-- Person will confuse with one isnaad with over another
-- ii. Form 2:
-- Person has more than one hadeeth without respective isnaad
-- Confusing Matn with isnaad and vice versa
+	- i. Form 1:
+		- Hadeeth that has more than one isnaad is presented without making it clear that there exists more than one isnaad.
+		- Person will confuse with one isnaad with over another
+	- ii. Form 2:
+		- Person has more than one hadeeth without respective isnaad
+		- Confusing Matn with isnaad and vice versa
 - e. Ways to identify Idraaj:
-- i. Wording of hadeeth – certain words indicate that it would not have been spoken by the Prophet
-- ii. Sahaabah themselves – this is not the actual word rather insertion
-- iii. Narrators themselves identified
+	- i. Wording of hadeeth – certain words indicate that it would not have been spoken by the Prophet
+	- ii. Sahaabah themselves – this is not the actual word rather insertion
+	- iii. Narrators themselves identified
 - f. Hukm: It can be Saheeh/hasan/Da’eef
-- Q. Hadeeth Musalsal
+
+Q. Hadeeth Musalsal
+
 - a. Certain particular act will be continued when tahammul and aadah will take place
 - b. Particular characteristics will remain in hadeeth
 - c. Eg.: Ahmad ibn Husain put his hands together, similarly his teacher, his teacher, Ibn Umar, Abu Hurayrah and upto Prophet
 - d. It can be verbal/physical
 - e. Hukm: It can be Saheeh/hasan/Da’eef
-- R. Hadeeth al Musahhaf
+
+R. Hadeeth al Musahhaf
+
 - a. The hadeeth in which contamination takes place due to the scribing of hadeeth
 - b. When you scribe the word, you may miss out dots but actual form stays the same
-- S. Hadeeth al Muharaf:
+
+S. Hadeeth al Muharaf:
+
 - a. Actual form of the letter itself does change and changing the wording and meaning
 - b. Gives farfetched meaning
 - c. Hukm: Da’eef
-- T. Points on Criticism
+
+T. Points on Criticism
+
 - a. Criticism is the key thing that gave raise to different classifications
 - b. Muhadeeth never adjudged based on face value of the terminology rather they investigated each hadeeth
-- U. Mawdoo
+
+U. Mawdoo
+
 - a. Overview
-- i. Realm of Imposters
-- ii. Doesn’t even fall under the analysis of authenticity
-- iii. They fabricated hadeeth for their own benefits
-- iv. Fabrication is a greatest crime in institution of hadeeth
-- v. Fabricator will fail to have basic moral character and they are enemies to hadeeth
+	- i. Realm of Imposters
+	- ii. Doesn’t even fall under the analysis of authenticity
+	- iii. They fabricated hadeeth for their own benefits
+	- iv. Fabrication is a greatest crime in institution of hadeeth
+	- v. Fabricator will fail to have basic moral character and they are enemies to hadeeth
 - b. Historical development:
-- i. During the time of Abu Bakr and Umar, unity was intact and community remain protected from Fitnah
-- ii. During the time of Uthman, seeds of fitnah began building
-- iii. Fitnah accumulated at his death and violently burst during the time of Ali
-- iv. Khawaarij, Shi’ah, Murjiah and other political parties developed
-- v. These groups are mutually opposing groups
-- vi. Reasons
-- Money
-- Make something popular
-- Fame in quoting the hadeeth
-- vii. This atmosphere tarnished the atmosphere of honesty and truthfulness
-- viii. In this time, people become skeptic about taking the hadeeth
-- ix. Several principles and Isnaad evolved to identify the right hadeeth
+	- i. During the time of Abu Bakr and Umar, unity was intact and community remain protected from Fitnah
+	- ii. During the time of Uthman, seeds of fitnah began building
+	- iii. Fitnah accumulated at his death and violently burst during the time of Ali
+	- iv. Khawaarij, Shi’ah, Murjiah and other political parties developed
+	- v. These groups are mutually opposing groups
+	- vi. Reasons
+		- Money
+		- Make something popular
+		- Fame in quoting the hadeeth
+	- vii. This atmosphere tarnished the atmosphere of honesty and truthfulness
+	- viii. In this time, people become skeptic about taking the hadeeth
+	- ix. Several principles and Isnaad evolved to identify the right hadeeth
 - c. Ways to identify Mawdoo
-- i. Self admission – "I fabricated the hadeeth"
-- ii. Text itself – Muhadeeth identify by comparing with conventional stream/style/trend of the hadeeth
-- iii. Compliance to established facts and conformity with Qur’aan
-- iv. Severe punishment for trivial acts
-- Popularly found in works of Qasas (story tellers)
-- Shameless jurists who wants to defend their mathhab
-- v. Knowledge about who is popularly known as fabricator
+	- i. Self admission – "I fabricated the hadeeth"
+	- ii. Text itself – Muhadeeth identify by comparing with conventional stream/style/trend of the hadeeth
+	- iii. Compliance to established facts and conformity with Qur’aan
+	- iv. Severe punishment for trivial acts
+		- Popularly found in works of Qasas (story tellers)
+		- Shameless jurists who wants to defend their mathhab
+	- v. Knowledge about who is popularly known as fabricator
 - d. Some stories
-- i. Ahmad ibn Hanbal and Yahya ibn Muin
-- Both hearing someone during their wudoo narrating hadeeth in reference to them. they went and sat in his circle. Yahya asked "Did you hear from Yahya ibn Muin?" He replied "No" When Yahya told he was Yahya, then the fabricator replied "I heard yaha ibn muin is a foo"l and he was schocked. He added "I narrate from 17 Ahmad ibn Hanbal and Yahya ibn Muin and do you think you are the only one"
-- ii. Abdul kareem ibn Abi awjah
-- During the time of Mahdee, abbasid caliph
-- He was killed and he accepted that he narrated 400 fabricated hadeeth in which he made halal as haram and vice versa
-- This is the time, Muhadeeth developed a science called Ilmul Rijaal
+	- i. Ahmad ibn Hanbal and Yahya ibn Muin
+		- Both hearing someone during their wudoo narrating hadeeth in reference to them. they went and sat in his circle. Yahya asked "Did you hear from Yahya ibn Muin?" He replied "No" When Yahya told he was Yahya, then the fabricator replied "I heard yaha ibn muin is a foo"l and he was schocked. He added "I narrate from 17 Ahmad ibn Hanbal and Yahya ibn Muin and do you think you are the only one"
+	- ii. Abdul kareem ibn Abi awjah
+		- During the time of Mahdee, abbasid caliph
+		- He was killed and he accepted that he narrated 400 fabricated hadeeth in which he made halal as haram and vice versa
+		- This is the time, Muhadeeth developed a science called Ilmul Rijaal
 - e. Our Position:
-- i. Don’t get despaired by these fabrications, Hadeeth was preserved by Allaah (15:9)
-- ii. Before Mushaf, some people tried to fabricate Qur’aan as well
-- iii. Fabricators may have good intention in the heart but fabricate to draw attention to what they perceived to be good
-- Eg.: Sufees fabricated a lot in Fadail-e-Amal
+	- i. Don’t get despaired by these fabrications, Hadeeth was preserved by Allaah (15:9)
+	- ii. Before Mushaf, some people tried to fabricate Qur’aan as well
+	- iii. Fabricators may have good intention in the heart but fabricate to draw attention to what they perceived to be good
+		- Eg.: Sufees fabricated a lot in Fadail-e-Amal
 ## Chapter 8: Shuboohath(Controversies) leveled against Hadeeth
-- A. Declaration: Islaam is a protected source of learning and safeguarded from controversies
-- B. Enemies who leveled controversies:
+
+A. Declaration: Islaam is a protected source of learning and safeguarded from controversies
+
+B. Enemies who leveled controversies:
+
 - a. Orientalists
-- i. They were non Muslims who do not accept prophethood of Muhammad or atheists or biased individuals
-- ii. They are coming from different experience and background
-- iii. They suffer tainted understanding because of translations
-- iv. Some are sincere and some are insincere
-- v. Sometimes funded by body which works against Islaam
+	- i. They were non Muslims who do not accept prophethood of Muhammad or atheists or biased individuals
+	- ii. They are coming from different experience and background
+	- iii. They suffer tainted understanding because of translations
+	- iv. Some are sincere and some are insincere
+	- v. Sometimes funded by body which works against Islaam
 - b. Muslims who are influenced by external factors
-- i. Those who learned from Orientalists
-- ii. Those who were fired with their desires and whims
-- C. Historical background of Shuboohath:
+	- i. Those who learned from Orientalists
+	- ii. Those who were fired with their desires and whims
+
+C. Historical background of Shuboohath:
+
 - a. Shedding doubts in the religion started with the time of Muhammad (s)
 - b. Eg.: In Qur’aan 25:46, Mushrikoon trying to shed doubt about prophet hood of Muhammad by different ways
-- D. Reason for Shuboohath:
-- Primary reasons are to
-- i. Attack legitimate authority of Sunnah
-- ii. Preservation of Sunnah
-- a. Secondary reasons:
-- i. vested government interests in such scholarship
-- ii. cultural ignorance
-- iii. enmity towards Islam
-- iv. challenges of translation
-- E. Shuboohath 1: Qur’aan alone is sufficient and no need for Sunnah
+
+D. Reason for Shuboohath:
+
+- a. Primary reasons are to
+	- i. Attack legitimate authority of Sunnah
+	- ii. Preservation of Sunnah
+- b. Secondary reasons:
+	- i. vested government interests in such scholarship
+	- ii. cultural ignorance
+	- iii. enmity towards Islam
+	- iv. challenges of translation
+
+E. Shuboohath 1: Qur’aan alone is sufficient and no need for Sunnah
+
 - a. Evidence for allegation:
-- i. 6:38/16:85 – Dhikr (Qur’aan) which explains everything <– so no need for the sunnah
-- ii. This is questioning the authority of Prophet
+	- i. 6:38/16:85 – Dhikr (Qur’aan) which explains everything <– so no need for the sunnah
+	- ii. This is questioning the authority of Prophet
 - b. Goals of this Shuboohath:
-- i. There is no need for the Sunnah
-- ii. Qur’aan alone is authoritative
+	- i. There is no need for the Sunnah
+	- ii. Qur’aan alone is authoritative
 - c. Response:
-- i. Ibn Hazm’s response: 53:3,4| 16:44
-- ii. Ibnul Qayyim: Sahaabah’s practically demonstrated Sunnah in their life (7:15 |4:8)
+	- i. Ibn Hazm’s response: 53:3,4| 16:44
+	- ii. Ibnul Qayyim: Sahaabah’s practically demonstrated Sunnah in their life (7:15 |4:8)
 - d. Key: Allaah made Sunnah as explanation of Qur’aan and declared authority of Sunnah in Qur’aan
-- F. Shuboohath 2: Sunnah was not preserved as promise was to preserve the Qur’aan
+
+F. Shuboohath 2: Sunnah was not preserved as promise was to preserve the Qur’aan
+
 - a. Evidence for allegation:
-- i. 15:9 says it is "Dhikr" which is protected and not Qur’aan alone.
-- ii. Dhikr means Qur’aan and Sunnah
+	- i. 15:9 says it is "Dhikr" which is protected and not Qur’aan alone.
+	- ii. Dhikr means Qur’aan and Sunnah
 - b. Response:
-- i. Status of the Prophet?
-- ii. 5:3|3:85|3:19 – How can there be Islaam without Sunnah, perfect example of the Prophet?
-- iii. 16:44 –> If sunnah is not preserved, then explanation of Qur’aan is lost
-- iv. Usool al Hadeeth exemplifies preservation of Hadeeth
+	- i. Status of the Prophet?
+	- ii. 5:3|3:85|3:19 – How can there be Islaam without Sunnah, perfect example of the Prophet?
+	- iii. 16:44 –> If sunnah is not preserved, then explanation of Qur’aan is lost
+	- iv. Usool al Hadeeth exemplifies preservation of Hadeeth
 - c. Key: Sunnah is part of the religion
-- G. Shuboohath 3: Prohibition to write Hadeeth
+
+G. Shuboohath 3: Prohibition to write Hadeeth
+
 - a. Evidence for allegation:
-- i. They quote "Do not write my hadeeth…"
-- ii. Abu Bakr’s statement after death of Prophet where he’s referring to Qur’aan as source of authority [Hadeeth Mursal]
+	- i. They quote "Do not write my hadeeth…"
+	- ii. Abu Bakr’s statement after death of Prophet where he’s referring to Qur’aan as source of authority [Hadeeth Mursal]
 - b. Response:
-- i. This prohibition took place during initial period of the Prophet to preserve Qur’aan from mixing and keep them focussed
-- ii. This prohibition to record hadeeth was abrogated later
-- iii. Some of the senior companions like Abu Bakr (Saheefah Abu Bakr), Abu hoorayrah recorded Hadeeth
-- iv. Prophet asked some of his companions to write for a person who asked Prophet’s statement in the recorded fomat
-- v. Not all members of that early community were illiterate
-- vi. there existed some tools enabling written recording
-- vii. Contract between Prophet and Ansaars was written down
-- H. Shuboohath 4: Later publications/written recording of Habeeth
+	- i. This prohibition took place during initial period of the Prophet to preserve Qur’aan from mixing and keep them focussed
+	- ii. This prohibition to record hadeeth was abrogated later
+	- iii. Some of the senior companions like Abu Bakr (Saheefah Abu Bakr), Abu hoorayrah recorded Hadeeth
+	- iv. Prophet asked some of his companions to write for a person who asked Prophet’s statement in the recorded fomat
+	- v. Not all members of that early community were illiterate
+	- vi. there existed some tools enabling written recording
+	- vii. Contract between Prophet and Ansaars was written down
+
+H. Shuboohath 4: Later publications/written recording of Habeeth
+
 - a. Above response will be sufficient
-- I. Shuboohath 5: Fabrications of Hadeeth
+
+I. Shuboohath 5: Fabrications of Hadeeth
+
 - a. Evidence for allegation: Due to many fabricated hadeeth, hadeeth as a source is not pure
 - b. Response:
-- i. Various Mustalah purified the hadeeth
-- ii. Ulema developed different sciences like Jarh wa ta’deel, Ilm ar Rijaal and others to identify true hadeeth
-- iii. Comprehensive system of Hadeeth criticism developed, from individual to community and to culture and so on
-- iv. Hallmark of Islaamic scholarship
-- v. Vast amount of Hadeeth literature
+	- i. Various Mustalah purified the hadeeth
+	- ii. Ulema developed different sciences like Jarh wa ta’deel, Ilm ar Rijaal and others to identify true hadeeth
+	- iii. Comprehensive system of Hadeeth criticism developed, from individual to community and to culture and so on
+	- iv. Hallmark of Islaamic scholarship
+	- v. Vast amount of Hadeeth literature
 - c. Key: Ilm al Mustalah
 - d. Fabricators:
-- i. Qasas
-- ii. Wavered jurists
-- iii. Sufis who encouraged ‘righteous acts’ by fabricating hadeeth
-- iv. Theological and political oriented groups
-- v. Ignorant who wants to elevate their standards
+	- i. Qasas
+	- ii. Wavered jurists
+	- iii. Sufis who encouraged ‘righteous acts’ by fabricating hadeeth
+	- iv. Theological and political oriented groups
+	- v. Ignorant who wants to elevate their standards
 - e. Hukm about Fabricator:
-- i. Crime against own soul and community
-- ii. Shun away from the community
-- iii. It doesn’t lead them to become a kafir but believer whose belief is doubted
-- Abi Muhammad al Juhainee said fabricator’s blood is permissible and he bases it from "whosoever fabricates will have his seat in hell fire
-- J. Shuboohath 6: Ulema of hadeeth focused only on purifying Isnaad and not on purifying Matn
+	- i. Crime against own soul and community
+	- ii. Shun away from the community
+	- iii. It doesn’t lead them to become a kafir but believer whose belief is doubted
+		- Abi Muhammad al Juhainee said fabricator’s blood is permissible and he bases it from "whosoever fabricates will have his seat in hell fire
+
+J. Shuboohath 6: Ulema of hadeeth focused only on purifying Isnaad and not on purifying Matn
+
 - a. Evidence for allegation:They said this because of certain weak hadeeth in Saheeh literature and it means they have not focused on Matn
 - b. Goals of this Shuboohath:
-- i. Aql is the decisive factor
-- If aql is criteria, then we have to deny unseen world as mind cannot perceive Ilmul Ghayb
-- If aql is criteria, then whose mind is the criteria?
-- ii. They want to make teachings of Prophet like teachings of other great men
-- iii. Belittle efforts and energies of the Ulema
-- They want to discard Saheeh Bukharee
+	- i. Aql is the decisive factor
+		- If aql is criteria, then we have to deny unseen world as mind cannot perceive Ilmul Ghayb
+		- If aql is criteria, then whose mind is the criteria?
+	- ii. They want to make teachings of Prophet like teachings of other great men
+	- iii. Belittle efforts and energies of the Ulema
+		- They want to discard Saheeh Bukharee
 - c. Response: Isnaad is the ladder that narrates the hadeeth, therefore Hadeeth is highly likely to be Saheeh if ladder is Saheeh
 - d. Key: Focus on Isnaad is based on the fact that sound hadeeth reaches us through sound communication
-- K. Shuboohath 7: Prophet never written letter (Hadeeth) to other rulers
+
+K. Shuboohath 7: Prophet never written letter (Hadeeth) to other rulers
+
 - a. Evidence for allegation:They claimed these letters were not found with the rulers
 - b. Goals of this Shuboohath: They want to make this religion as religion of Arabs alone and not an universal religion
 - c. Response:
-- i. Islaam is universal religion 7:158 | 13:28 | Allaah addresses people as "Ya Ayyuhannas or Ya Banee Adam"
-- ii. We have Suhaib from Rome, Bilal from Abyssinia, Salman from Persia
-- iii. All of the Seerah books records these letters
-- iv. Kisrah of Persia torn out the letter and Allaah torn out his empire by Kisrah being killed by his own son
-- L. Factors that led to these controversies
+	- i. Islaam is universal religion 7:158 | 13:28 | Allaah addresses people as "Ya Ayyuhannas or Ya Banee Adam"
+	- ii. We have Suhaib from Rome, Bilal from Abyssinia, Salman from Persia
+	- iii. All of the Seerah books records these letters
+	- iv. Kisrah of Persia torn out the letter and Allaah torn out his empire by Kisrah being killed by his own son
+
+L. Factors that led to these controversies
+
 - a. Language:
-- i. Language is coding of information
-- ii. When it speaks about physical entity like tree, there in no other way of interpretation whereas when it speaks about culture, language becomes sensitive
-- iii. Origins of Language:
-- Toshihiko Izutsu’s theory
-- Refer to "Ethico-Religious Concepts in the Qur’an" by him
-- iv. Arabic Culture was redefined
-- Karam doesn’t mean you starve and give all to guests rather you take and give what remains off to the guests
-- v. Language has ethical and religious significance
-- We go back to Arab poetry before Islaam for the meaning of the words
-- vi. Orientalist come up with understanding that is not inline with Author’s intention and they do not come from this culture as well
+	- i. Language is coding of information
+	- ii. When it speaks about physical entity like tree, there in no other way of interpretation whereas when it speaks about culture, language becomes sensitive
+	- iii. Origins of Language:
+		- Toshihiko Izutsu’s theory
+		- Refer to "Ethico-Religious Concepts in the Qur’an" by him
+	- iv. Arabic Culture was redefined
+		- Karam doesn’t mean you starve and give all to guests rather you take and give what remains off to the guests
+	- v. Language has ethical and religious significance
+		- We go back to Arab poetry before Islaam for the meaning of the words
+	- vi. Orientalist come up with understanding that is not inline with Author’s intention and they do not come from this culture as well
 - b. Orientalists attitude towards religions:
-- i. They have strong opposition to religions because of forcing of ideologies and unquestionable things from the Church
-- ii. They considered unseen world as tales and not the reality
-- iii. Their view about knowledge, metaphysical reality plays a role in their works
+	- i. They have strong opposition to religions because of forcing of ideologies and unquestionable things from the Church
+	- ii. They considered unseen world as tales and not the reality
+	- iii. Their view about knowledge, metaphysical reality plays a role in their works
 ## Chapter 9: Practice of Storytelling in Islaam
-- A. Why do we study?
+
+A. Why do we study?
+
 - a. To understand the process of story telling as it is
 - b. Not to get influenced that this is the bad institution ignoring its good characteristics
-- B. Definition of Qasas/Qussas
+
+B. Definition of Qasas/Qussas
+
 - a. Qas means "to cut/to follow/ to narrate a story"
 - b. Popularly considered as form of public address
-- C. Benefits of Story telling
+
+C. Benefits of Story telling
+
 - a. Serves religious purpose by attracting common man
 - b. Natural instinct of inclination towards story
 - c. Tool of Da’wah
-- D. In Al Qussas wal mudhakeerin, Ibn al Jawzi divides Qassas as follows:
+
+D. In Al Qussas wal mudhakeerin, Ibn al Jawzi divides Qassas as follows:
+
 - a. Al Wa’idh – Preachers
 - b. Al Mudhakeerin – One who reminds
 - c. Al Qusas – do not restrict themselves to Halal and Haram rather introduce for some other purpose
 - d. Difference: al-Wa’idh invites one to come closer to Allah while according to the limits of Islam while al-Qaas will use any tool available to attract people
-- E. Criticism about Story tellers:
+
+E. Criticism about Story tellers:
+
 - a. Bid’ah -Gathering people and narrating story is not the way of Prophet and his righteous companions
 - b. Many of ancient stories/inherited stories are free from any truth
 - c. Form of entertainment that deviates people from studying Qur’aan and sunnah
 - d. It corrupted several Muslim minds by means of fabricated/false reports
 - e. Story telling implies Qur’aan and Sunnah are not sufficient as sources
 - f. Story tellers do not have critical understanding of reports so they just attracted with the reports they received
-- F. Term Qussas is not a bad term by itself
+
+F. Term Qussas is not a bad term by itself
+
 - a. 12:3 – We are the ones who narrate you best story
 - b. 7:176
 - c. This term includes Waidh, al mudhakara, tadrees (instruction)
-- G. Historical Origin of this Practice
+
+G. Historical Origin of this Practice
+
 - a. Prior to Hasan al Basari, religious instruction took place within the Masjid
 - b. Hasan al Basri went to public roads and started calling people by means of less formal ways
 - c. He was al Wai’dh within the bounds of Halal and Haram
@@ -965,7 +1030,9 @@ H. Hadeeth al Matrook (Discarded)
 - f. Qussas used story telling as propaganda tool for their vested interests like politics, fiqh, Sufi, wealth fame etc
 - g. This made the noble institution as form of fabrication and manipulation of general masses
 - h. This is due to widespread introduction of hadeeth, mostly inauthentic, in their stories
-- H. Conditions pertaining to Qussas (actually Al Wai’dh) (Ibn al Jawzee)
+
+H. Conditions pertaining to Qussas (actually Al Wai’dh) (Ibn al Jawzee)
+
 - a. Knowledge of various sciences that will appeal to the audience
 - b. Knowledge of Hadeeth
 - c. Knowledge of Thareek (History)
@@ -974,7 +1041,9 @@ H. Hadeeth al Matrook (Discarded)
 - f. Piety and Sincerity
 - g. Aabidth (Worshipper)
 - h. To abstain from luxurious life rather lead a simple life (in order he’s not narrating for material benefits)
-- I. Significance of Storytelling today
+
+I. Significance of Storytelling today
+
 - a. Media, movies of today are form of story telling
 - b. It is possible that we can use these tools to attract people to Allaah azawajal
 # Part 2
