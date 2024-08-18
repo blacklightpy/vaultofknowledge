@@ -319,8 +319,7 @@
               }
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -388,7 +387,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -417,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -484,13 +483,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "716d60341134c8ef",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🗃️ Unorganized/General Notes/Science of Hadith.md",
+    "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Differences between Islam and Judeo-Christianity.md",
-    "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
     "🗃️ Unorganized/General Notes/Logic of Trinity.md",
-    "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "🗃️ Unorganized/General Notes/Madrasa Curriculum.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Troubles with Reasoning with Muslims.md",
@@ -507,8 +508,6 @@
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",

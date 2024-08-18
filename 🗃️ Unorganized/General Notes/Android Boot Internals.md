@@ -377,7 +377,7 @@ That is, they feel as if the world is without order, and they are suffering in t
 To fix that, I'll direct you to the question of what randomness is.
 I had explained this on Instagram early in 2020/21 (as a part of explaining the cryptography involved in cryptocurrencies), however, that was after you sdafadfs. So I was dxf
 
-Anyways, so, when you roll a dice, you get a random number. But it's only as random because you have not computed all the weights and forces acting on the die and the trajectory it takes. If you carefully throw a die, you can get the desired number with practice.
+Anyways, so, when you roll a dice, you get a random number. But it's only random because you have not computed all the weights and forces acting on the die and the trajectory it takes. If you carefully throw a die, you can get the desired number with practice.
 
 Now, we human beings are not really that random. For example, in Captain America: Civil War, Tony Stark asks FRIDAY (btw I forgot to make ALASKA AI) to analyze the fight pattern of Captain America. This is also provable, but I won't go into it, but it's part of the studies on password security. Now we can be pretty random if we really try, but largely, our impulsive actions are not really random.
 
