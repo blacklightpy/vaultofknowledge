@@ -48,16 +48,22 @@
 		- EasyJTAG
 		- EasyJTAG+
 	- Boxes and Dongles
-		- Universal Flashing Interface (UFi) Box Series
-			- UFi Box eMMC Service Tool (Only supports eMMC)
-			- UFi Dongle (Dongle version of UFI Box)
-			- UFi UFS Prog (Add-on for UFi Box with UFS support)
-		- EasyUnlocker Products
-			- EFT Dongle
-			- EFT Pro Tool (no Donle)
+		- Reference: https://gsmserver.com/en/articles-and-video/boxes-and-dongles-part-1
+		- Boxes usually have a JTAG TAP, Service Port (UART COM)
+		- Products
+			- Universal Flashing Interface (UFi) Box Series
+				- UFi Box eMMC Service Tool (Only supports eMMC)
+				- UFi Dongle (Dongle version of UFI Box)
+				- UFi UFS Prog (Add-on for UFi Box with UFS support)
+			- EasyUnlocker Products
+				- EFT Dongle
+				- EFT Pro Tool (no Dongle)
 	- Software Boxes
 - Dead Boot Sequence
 - IC / Buck / LDO Datasheet
+- Carrier Unlock Tools
+	- R-SIM VSOP Card
+		- It is like a SIM card, used to unlock iPhone devices
 ## Types of Tools
 ### Harware/Software NAND Programmer Tools (for SoC/Device Firmware Flashing)
 ### Software Only NAND Programmer Tools (for SoC/Device Fimrware Flashing)
