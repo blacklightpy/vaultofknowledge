@@ -35,14 +35,23 @@
 - Dead Boot
 - Boot Loop
 - Dump File
-- EMMC
-- UFI Box (It's an EMMC Service Tool)
-- UFI Dongle (Dongle version of UFI Box)
-- UFI UFS Prog (Add On for UFI Box)
+- eMMC
+- Universal Flash Storage (UFS)
+- Universal Flashing Interface (UFi) Box Products
+	- UFi Box (It's an eMMC Service Tool)
+	- UFi Dongle (Dongle version of UFI Box)
+	- UFi UFS Prog (Add On for UFI Box)
 - EasyJTAG / EasyJTAG+
 - EasyUnlocker EFT Pro
 - Dead Boot Sequence
 - IC / Buck / LDO Datasheet
+## Types of Tools
+### Harware/Software Tools (for SoC/Device Firmware Flashing)
+### Software Only Tools (for SoC/Device Fimrware Flashing)
+### IMEI Calculator Tools
+### SIM Unlock Tools
+### Schematics Tools
+
 ## Schematics Tools
 
 | Schematics Tools                            | Votes (by GSM-Forum in 2021) | Vote Percentage |
@@ -64,6 +73,7 @@ Those listed below, plus
 - GCPro
 - Nusantara UnlockTool
 - KEY-Tool
+- DeziBypass CF Tools
 ## Files
 - boot.img
 - vbmeta.img (newer ROMs)
