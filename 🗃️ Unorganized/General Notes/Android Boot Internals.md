@@ -43,15 +43,25 @@
 - IC / Buck / LDO Datasheet
 ## Schematics Tools
 
-| Schematics Tools  | Votes (by GSM-Forum in 2021) | Vote Percentage |
-| ----------------- | ---------------------------- | --------------- |
-| Borneo Schematics | **152**                      | 69.41%          |
-| PragmaFix         | 30                           | 13.70%          |
-| ZXW Tool          | **23**                       | 10.50%          |
-| WuXinJi           | **6**                        | 2.74%           |
-| DZKJ              | **5**                        | 2.28%           |
-| XinZhiZao         | **2**                        | 0.91%           |
-| Combinett Pro     | **1**                        | 0.46%           |
+| Schematics Tools                            | Votes (by GSM-Forum in 2021) | Vote Percentage |
+| ------------------------------------------- | ---------------------------- | --------------- |
+| Borneo Schematics 1/2                       | **152**                      | 69.41%          |
+| PragmaFix                                   | 30                           | 13.70%          |
+| ZXW Tool                                    | **23**                       | 10.50%          |
+| WuXinJi                                     | **6**                        | 2.74%           |
+| DZKJ PhoneRepair Tools                      | **5**                        | 2.28%           |
+| Xin Zhi Zao (XZM)                           | **2**                        | 0.91%           |
+| Combinett Pro                               | **1**                        | 0.46%           |
+| Estech                                      | Unlisted / New               |                 |
+| JCID Schematics                             | Unlisted / New               |                 |
+| Nusantara Schematics                        | Unlisted / New               |                 |
+| Universal Firmware Schematic Room (UFSRoom) | Unlisted / New               |                 |
+## Unlock Boxes
+Those listed below, plus
+- Pandora Box
+- GCPro
+- Nusantara UnlockTool
+- KEY-Tool
 ## Files
 - boot.img
 - vbmeta.img (newer ROMs)
@@ -356,6 +366,7 @@ Basically, the SIM is to verify software credits.
 ### Ultimate Multi Tool (UMT) Avengers Box (AVB) [Rs. ]
 ### MRT Dongle [Rs. ]
 ### Hydra Dongle [Rs. ]
+### Infinity Box [Rs. ]
 ## Software Only
 ### DC Unlocker
 ### HUC Client [Huawei HiSilicon / Qualcomm SoCs]
