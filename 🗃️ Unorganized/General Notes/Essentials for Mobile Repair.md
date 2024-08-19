@@ -14,17 +14,23 @@
 - Power Supply Cable
 - DC Power Supply
 - DC Power Supply Testing Cable
-- NAND Programmer Boards / Boxes
+- NAND Programmer Boards
 	- Used to fix iPhone FaceID, etc. by reading/writing serial codes
 	- Apple components lose features if they don't have the original components' serial codes
 	- e.g. JCID V1SE Programmer for iPhone, JC P13 NAND Programmer
 # 4. Soldering and Desoldering Tools
-- Microsoldering Device
+- Micro soldering Device
 - Soldering Station
 - Cleaning Sponges for Soldering Iron
 - Soldering Iron Tip Cleaner (Solder Cream)
-- 
-# 5. 
+- [[Microscopes for Electronics|Microscope]] (for Soldering)
+- Industrial Camera (for Trinocular Microscope)
+# 5. Accessories
+- Lightning Cables to charge your iPhone or iPad
+- Mobile SIM Card Ejector Tool Kits
+- Replacement Chargers and Charging Ports
+- Headphone Jacks and Speakers
+- Touchscreen Digitizers
 # 6. Firmware Repair Tools
-- Boxes / Dongles
-- Software
+- Boxes / Dongles (Same as the iPhone NAND / JTAG Programmer Boards, but more generalized)
+- Software Flashing Tools
