@@ -31,6 +31,16 @@
 > Stock Recovery cannot flash custom ROMs as they do not the digital signatures that the recovery checks for.
 > Custom Recoveries cannot flash stock ROM Archives as the ZIPs check for the stock system integrity of the device.
 
+## Unknown/Undefined Terminology/Context
+- Dead Boot
+- Boot Loop
+- Dump File
+- EMMC
+- UFI
+- EasyJTAG / EasyJTAG+
+- EasyUnlocker EFT Pro
+- Dead Boot Sequence
+- IC / Buck / LDO Datasheet
 ## Files
 - boot.img
 - vbmeta.img (newer ROMs)

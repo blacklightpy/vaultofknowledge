@@ -332,8 +332,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -401,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -418,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -430,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -497,10 +496,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0ce276d7f4e25545",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Versions of Quran.md",
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
+    "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
     "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
@@ -509,7 +509,6 @@
     "🗃️ Unorganized/General Notes/Pseudorandom Number Generator.md",
     "🗃️ Unorganized/General Notes/k-dimensional Equidistribution.md",
     "🗃️ Unorganized/General Notes/Unlock Huawei Phones.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Differences between Islam and Judeo-Christianity.md",
