@@ -357,22 +357,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f327f3c96e50c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Joint Test Action Group.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -440,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Joint Test Action Group.md",
+                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Joint Test Action Group.md",
+                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Joint Test Action Group.md"
+                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md"
               }
             }
           },
@@ -536,12 +523,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4f327f3c96e50c72",
+  "active": "992c047f42270e0c",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Joint Test Action Group.md",
+    "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
-    "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
     "🗃️ Unorganized/General Notes/The Ethicality of Eating Animals.md",
     "🗃️ Unorganized/General Notes/Microscopes for Electronics.md",
     "🗃️ Unorganized/General Notes/Forums.md",
