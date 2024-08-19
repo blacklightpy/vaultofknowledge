@@ -53,6 +53,7 @@
 			- Service Port uses RJ45 connector for RS-232 electrical interface, and this is not the same as the Ethernet interface. This is usually called a Cisco Cable or Console Cable, following the popularization of its use by Cisco for debugging devices.
 			- Examples:
 				- SigmaBox Sigma Cable 9-in-1 set
+					- TX/RX/GND Cable
 					- Fly DS105/DS120 cable
 					- Micro USB cable for Alcatel OT-series, Motorola EX-series, Motorola WX-series
 					- Fly Q420/E176, Huawei G7010/G6150 cable
