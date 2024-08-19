@@ -25,7 +25,8 @@ Parallel interfaces transfer data through multiple channels simultaneously to se
 	- Usually RJ45 to DE-9, but adapters can be used to connect to other physical ports
 	- It reverses pinouts from one end to another, and hence is called a rollover cable
 	- Any two RS-232 devices can be connected using a rollover cable paired with connectors
-		- Because we collect TX to RX
+		- Because we connect TX to RX on each DTE
+		- RS-232 normally expects a DTE to be connected to a DCE (Data Circuit-Terminating Equipment), not two DTEs directly
 - Universal Serial Bus
 - MIPI CSI
 - MIPI DSI
