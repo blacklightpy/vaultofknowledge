@@ -63,8 +63,8 @@
 | DZKJ PhoneRepair Tools                      | **5**                        | 2.28%           |
 | XinZhiZao (XZZ) Maintenance Inquiry System  | **2**                        | 0.91%           |
 | Combinett Pro                               | **1**                        | 0.46%           |
-| Estech                                      | Unlisted / New               |                 |
-| JCID Schematics                             | Unlisted / New               |                 |
+| ESTECH Schematics                           | Unlisted / New               |                 |
+| JCProgrammer JCID Schematics                | Unlisted / New               |                 |
 | Nusantara Schematics                        | Unlisted / New               |                 |
 | Universal Firmware Schematic Room (UFSRoom) | Unlisted / New               |                 |
 ## Unlock Boxes
