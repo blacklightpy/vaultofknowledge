@@ -49,7 +49,16 @@
 		- EasyJTAG+
 	- Boxes and Dongles
 		- **Reference**: https://gsmserver.com/en/articles-and-video/boxes-and-dongles-part-1
-		- Boxes usually have a JTAG TAP, Service Port (UART COM - RJ45 to USB-C, etc.), USB Hub (for Storage), SIM Card Port (for Authentication) and a PC USB cable (USB B to A)
+		- Boxes usually have a JTAG TAP, Service Port (UART COM - RJ45 (RS-232) to USB-C, etc.), USB Hub (for Storage), SIM Card Port (for Authentication) and a PC USB cable (USB B to A)
+			- Service Port uses RJ45 connector for RS-232 electrical interface, and this is not the same as the Ethernet interface. This is usually called a Cisco Cable or Console Cable, following the popularization of its use by Cisco for debugging devices.
+			- Examples:
+				- SigmaBox Sigma Cable 9-in-1 set
+					- Fly DS105/DS120 cable
+					- Micro USB cable for Alcatel OT-series, Motorola EX-series, Motorola WX-series
+					- Fly Q420/E176, Huawei G7010/G6150 cable
+					- Huawei G7007/G6603 cable
+					- Mini USB cable for Alcatel OT-series, Motorola WX-series
+					- Motorola EX108/EX116 cable
 		- Dongles only have a SIM Card slot for authentication, and they only support USB connections through the PC
 		- If you need to work with the hardware using the COM Port or JTAG TAP (e.g. dead phone), you need a box
 		- If you have a working phone and only need USB connectivity, you can use a dongle
@@ -66,7 +75,7 @@
 				- EFT Dongle
 				- EFT Pro Tool (no Dongle)
 	- Software Dongles
-		- They use software for reading firmware, but if they are paid, they charge you for credits online
+		- They use software for interacting with firmware, and it is paid for online
 		- They could also be freeware or free software
 - Dead Boot Sequence
 - IC / Buck / LDO Datasheet

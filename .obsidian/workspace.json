@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -387,7 +387,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rs-232",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -409,7 +409,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -425,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -454,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -523,20 +524,23 @@
   },
   "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Systems and Protocols.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Duplexing.md",
+    "🗃️ Unorganized/General Notes/Serial Ports.md",
+    "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
+    "🗃️ Unorganized/General Notes/Systems and Protocols.md",
     "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
+    "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
+    "🗃️ Unorganized/General Notes/Versions of Quran.md",
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Duplexing.md",
     "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
     "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Integrated Circuit Packaging Types.md",
     "🗃️ Unorganized/General Notes/Joint Test Action Group.md",
     "🗃️ Unorganized/General Notes/The Ethicality of Eating Animals.md",
     "🗃️ Unorganized/General Notes/Microscopes for Electronics.md",
     "🗃️ Unorganized/General Notes/Forums.md",
-    "🗃️ Unorganized/General Notes/Versions of Quran.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
-    "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
     "🗃️ Unorganized/General Notes/Solinas Primes.md",
     "🗃️ Unorganized/General Notes/Mersenne Primes.md",
     "🗃️ Unorganized/General Notes/Pseudorandom Number Generator.md",
@@ -546,9 +550,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Differences between Islam and Judeo-Christianity.md",
     "🗃️ Unorganized/General Notes/Logic of Trinity.md",
-    "🗃️ Unorganized/General Notes/Madrasa Curriculum.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Troubles with Reasoning with Muslims.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
