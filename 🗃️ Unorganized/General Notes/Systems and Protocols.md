@@ -33,7 +33,7 @@
 9. Core Hardware: CPU, Storage and Memory, Power Supply, Bus Architecture, Interfaces
 10. Programming: ISA based Assembly, Language with Assembly Backends, High Level Languages
 11. Networking: OSI Model
-12. Physical Connection Ports: Ethernet, USB, PCI, PCIe, SATA, HDMI, DisplayPort, RS-232, XT-60, JST-XH
+12. Physical Connection Ports: Ethernet, USB, PCI, PCIe, SATA, HDMI, DisplayPort, RJ-45, DE-9, DB25, XT-60, JST-XH
 13. Physical Components: Transistors, FET, MOSFET
 14. Storage: Magnetic Tape, Optical Disks, Mechanical Hard Disks, RAM, ROM
 15. Radio Communications: Spectrum Allocation, Power Limits, Antenna Types, ITU Standards

@@ -1,6 +1,10 @@
 Devices are connected together using ports and connectors to transfer information. Information can generally be transmitted in parallel and serial formats, or even in a hybrid of both.
 
-Parallel interfaces transfer data through multiple channels simultaneously to send all information at once. Serial interfaces transfer all information through a single channel to the reciever. Due to design fundamentals and scalability, serial interfaces are generally the faster of both choices nowadays.
+Parallel interfaces transfer data through multiple channels simultaneously to send all information at once. Serial interfaces transfer all information through a single channel to the receiver. Due to design fundamentals and scalability, serial interfaces are generally the faster of both choices nowadays.
+
+
+> [!NOTE] Title
+> I should make 
 
 # Design Terminology
 - Pitch - Center-to-center distance between two pins or terminals
@@ -8,13 +12,14 @@ Parallel interfaces transfer data through multiple channels simultaneously to se
 # Parallel Ports
 
 - PATA
-- RS-232 Parallel Port (Legacy Printers)
-- VGA Port
+- DB25 (Legacy Printers)
+- VGA
 
 # Serial Ports
 
 - SATA
-- Serial Port
+- DB-9 (Electrical Interface: RS-232)
+- RJ45 (Electrical Interface: RS-232) / Console Cable (Ethernet is not RS-232 at the electrical level)
 - Universal Serial Bus
 - MIPI CSI
 - MIPI DSI

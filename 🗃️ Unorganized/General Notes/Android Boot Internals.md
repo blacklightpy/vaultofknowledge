@@ -48,9 +48,16 @@
 		- EasyJTAG
 		- EasyJTAG+
 	- Boxes and Dongles
-		- Reference: https://gsmserver.com/en/articles-and-video/boxes-and-dongles-part-1
-		- Boxes usually have a JTAG TAP, Service Port (UART COM)
-		- Products
+		- **Reference**: https://gsmserver.com/en/articles-and-video/boxes-and-dongles-part-1
+		- Boxes usually have a JTAG TAP, Service Port (UART COM - RJ45 to USB-C, etc.), USB Hub (for Storage), SIM Card Port (for Authentication) and a PC USB cable (USB B to A)
+		- Dongles only have a SIM Card slot for authentication, and they only support USB connections through the PC
+		- If you need to work with the hardware using the COM Port or JTAG TAP (e.g. dead phone), you need a box
+		- If you have a working phone and only need USB connectivity, you can use a dongle
+		- **Divisions**
+			- Ultimate Boxes/Dongles (Supports All Devices)
+			- Speciality Boxes/Dongles (Supports Specific Devices)
+			- General Boxes/Dongles (Supports Most Devices)
+		- **Example**
 			- Universal Flashing Interface (UFi) Box Series
 				- UFi Box eMMC Service Tool (Only supports eMMC)
 				- UFi Dongle (Dongle version of UFI Box)
@@ -58,7 +65,9 @@
 			- EasyUnlocker Products
 				- EFT Dongle
 				- EFT Pro Tool (no Dongle)
-	- Software Boxes
+	- Software Dongles
+		- They use software for reading firmware, but if they are paid, they charge you for credits online
+		- They could also be freeware or free software
 - Dead Boot Sequence
 - IC / Buck / LDO Datasheet
 - Carrier Unlock Tools
