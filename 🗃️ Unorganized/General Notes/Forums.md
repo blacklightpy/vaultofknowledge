@@ -12,8 +12,17 @@ Also see Blogs (IGN, Digit, Tom's Hardware, Phronix)
 # PC Gaming
 # Console Gaming
 # General Tech Discussions
+- MyDigitalLife Forums
+- LinusTechTips Forums
+- Level1Tech Forums
+- TechRepublic Forums
+- BleepingComputer Forums
+- CNET Forums
+- Tom's Hardware Forums
 # Specific Forums
 ## Windows
+- The Windows Forum
+- Windows Forum
 - SevenForums
 - EightForums
 - TenForums
@@ -23,6 +32,7 @@ Also see Blogs (IGN, Digit, Tom's Hardware, Phronix)
 - r/LinuxQuestions
 - r/linux
 - Linux.org Forums
+- Spiceworks: Linux
 ### Distro Specific
 - Arch Forums
 - Mint Forums
@@ -33,8 +43,14 @@ Also see Blogs (IGN, Digit, Tom's Hardware, Phronix)
 - Kali Linux Forums
 - r/voidlinux
 - Matrix: OpenMandriva
+- Elementary Forums
 ## FreeBSD
-- bsd.cafe
+- c/bsd.cafe
+## UNIX in General
+- Nixcraft
+- UNIX Forums
+## Apple
+- InsanelyMac
 # Other General
 - StackExchange	
 	- **Science**
