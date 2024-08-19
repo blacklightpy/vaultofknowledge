@@ -41,6 +41,17 @@
 - EasyUnlocker EFT Pro
 - Dead Boot Sequence
 - IC / Buck / LDO Datasheet
+## Schematics Tools
+
+| Schematics Tools  | Votes (by GSM-Forum in 2021) | Vote Percentage |
+| ----------------- | ---------------------------- | --------------- |
+| Borneo Schematics | **152**                      | 69.41%          |
+| PragmaFix         | 30                           | 13.70%          |
+| ZXW Tool          | **23**                       | 10.50%          |
+| WuXinJi           | **6**                        | 2.74%           |
+| DZKJ              | **5**                        | 2.28%           |
+| XinZhiZao         | **2**                        | 0.91%           |
+| Combinett Pro     | **1**                        | 0.46%           |
 ## Files
 - boot.img
 - vbmeta.img (newer ROMs)
