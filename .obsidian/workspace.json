@@ -358,8 +358,7 @@
               }
             }
           }
-        ],
-        "currentTab": 26
+        ]
       }
     ],
     "direction": "vertical"
@@ -427,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -444,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -456,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -523,13 +522,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "992c047f42270e0c",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Integrated Circuit Packaging Types.md",
-    "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
-    "🗃️ Unorganized/General Notes/Joint Test Action Group.md",
-    "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Duplexing.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
+    "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
+    "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Integrated Circuit Packaging Types.md",
+    "🗃️ Unorganized/General Notes/Joint Test Action Group.md",
     "🗃️ Unorganized/General Notes/The Ethicality of Eating Animals.md",
     "🗃️ Unorganized/General Notes/Microscopes for Electronics.md",
     "🗃️ Unorganized/General Notes/Forums.md",
@@ -550,7 +550,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Troubles with Reasoning with Muslims.md",
     "🗃️ Unorganized/General Notes/National Constitutions.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

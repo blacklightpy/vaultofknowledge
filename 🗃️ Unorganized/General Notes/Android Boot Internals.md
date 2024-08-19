@@ -35,14 +35,27 @@
 - Dead Boot
 - Boot Loop
 - Dump File
-- eMMC
-- Universal Flash Storage (UFS)
-- Universal Flashing Interface (UFi) Box Products
-	- UFi Box (It's an eMMC Service Tool)
-	- UFi Dongle (Dongle version of UFI Box)
-	- UFi UFS Prog (Add On for UFI Box)
-- EasyJTAG / EasyJTAG+
-- EasyUnlocker EFT Pro
+- NAND Storage Devices
+	- eMMC
+		- Stands for Embedded MultiMediaCard (MMC)
+		- It consists of a raw NAND flash along with a controller
+		- It is [[Duplexing|half-duplex]]
+	- Universal Flash Storage (UFS)
+		- It is a modern NAND based storage device
+		- It is [[Duplexing|full-duplex]]
+- NAND Programming Devices
+	- JTAG TAP Programmers
+		- EasyJTAG
+		- EasyJTAG+
+	- Boxes and Dongles
+		- Universal Flashing Interface (UFi) Box Series
+			- UFi Box eMMC Service Tool (Only supports eMMC)
+			- UFi Dongle (Dongle version of UFI Box)
+			- UFi UFS Prog (Add-on for UFi Box with UFS support)
+		- EasyUnlocker Products
+			- EFT Dongle
+			- EFT Pro Tool (no Donle)
+	- Software Boxes
 - Dead Boot Sequence
 - IC / Buck / LDO Datasheet
 ## Types of Tools
