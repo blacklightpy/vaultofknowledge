@@ -45,10 +45,16 @@
 		- It is [[Duplexing|full-duplex]]
 - NAND Programming Devices
 	- JTAG TAP Programmers
-		- We connect eMMC -> NAND Socket -> NAND (e.g. UFS BGA-153) adapter -> TAP on Box
+		- We connect NAND -> NAND Socket (e.g. UFS BGA-153) -> NAND Socket Adapter -> TAP on Box
 		- Examples
-			- EasyJTAG
-			- EasyJTAG+
+			- Programmer Box
+				- EasyJTAG
+				- EasyJTAG+
+			- NAND Socket
+				- IC Friend eMMC Socket
+				- UFi Box eMMC Socket
+				- UFi Box UFS Socket
+			- NAND Socket Adapter
 	- Boxes and Dongles
 		- **Reference**: https://gsmserver.com/en/articles-and-video/boxes-and-dongles-part-1
 		- Boxes usually have a JTAG TAP, Service Port (UART COM - RJ45 (RS-232) to USB-C, etc.), USB Hub (for Storage), SIM Card Port (for Authentication) and a PC USB cable (USB B to A)
