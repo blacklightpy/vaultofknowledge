@@ -14,8 +14,9 @@
 - Power Supply Cable
 - DC Power Supply
 - DC Power Supply Testing Cable
-- NAND Programmer Boards
-	- Used to fix iPhone FaceID, etc.
+- NAND Programmer Boards / Boxes
+	- Used to fix iPhone FaceID, etc. by reading/writing serial codes
+	- Apple components lose features if they don't have the original components' serial codes
 	- e.g. JCID V1SE Programmer for iPhone, JC P13 NAND Programmer
 # 4. 
 # 5. 

@@ -46,8 +46,8 @@
 - Dead Boot Sequence
 - IC / Buck / LDO Datasheet
 ## Types of Tools
-### Harware/Software Tools (for SoC/Device Firmware Flashing)
-### Software Only Tools (for SoC/Device Fimrware Flashing)
+### Harware/Software NAND Programmer Tools (for SoC/Device Firmware Flashing)
+### Software Only NAND Programmer Tools (for SoC/Device Fimrware Flashing)
 ### IMEI Calculator Tools
 ### SIM Unlock Tools
 ### Schematics Tools
