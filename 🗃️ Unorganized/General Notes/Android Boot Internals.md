@@ -36,7 +36,9 @@
 - Boot Loop
 - Dump File
 - EMMC
-- UFI
+- UFI Box (It's an EMMC Service Tool)
+- UFI Dongle (Dongle version of UFI Box)
+- UFI UFS Prog (Add On for UFI Box)
 - EasyJTAG / EasyJTAG+
 - EasyUnlocker EFT Pro
 - Dead Boot Sequence
@@ -48,9 +50,9 @@
 | Borneo Schematics 1/2                       | **152**                      | 69.41%          |
 | PragmaFix                                   | 30                           | 13.70%          |
 | ZXW Tool                                    | **23**                       | 10.50%          |
-| WuXinJi                                     | **6**                        | 2.74%           |
+| WuXinJi Schematics                          | **6**                        | 2.74%           |
 | DZKJ PhoneRepair Tools                      | **5**                        | 2.28%           |
-| Xin Zhi Zao (XZM)                           | **2**                        | 0.91%           |
+| XinZhiZao (XZZ) Maintenance Inquiry System  | **2**                        | 0.91%           |
 | Combinett Pro                               | **1**                        | 0.46%           |
 | Estech                                      | Unlisted / New               |                 |
 | JCID Schematics                             | Unlisted / New               |                 |
