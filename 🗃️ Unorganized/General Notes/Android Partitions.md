@@ -8,13 +8,22 @@
 - KPARTX
 - xmount
 - DiskInfo
-
 # To Refer
 - https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels
 - https://android.stackexchange.com/questions/5232/how-can-i-view-the-android-internal-partition-table
 - https://android.stackexchange.com/questions/24119/command-to-list-partitions
-# MTK
-MTK platform partition meaning
+# Notes
+
+## Sources
+- 1. [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
+## Notes
+### From "MTK Platform Partition Meaning", from GitHub Gists
+
+I first copy-pasted it verbatim, and made some minor modifications:
+- Capitalized partition names
+- Corrected grammar in some instances
+- Codified small lettered codenames
+- And I added numbers (not necessarily in the right order, )
 
 - PRELOADER
 	- Pre-loader image
@@ -27,7 +36,7 @@ MTK platform partition meaning
 	- Partition Management Table
 - NVRAM
 	- Non-Volatile RAM
-	- Stores the hardware related information, such as calibration data, MAC address, IMEI, …, etc.
+	- Stores the hardware related information, such as the Calibration Data, MAC Address, IMEI ID, etc.
 - SECCFG, SECSTATIC
 	- Reserved for the security platform used
 - PROTECT1 / PROTECT_F
@@ -37,69 +46,67 @@ MTK platform partition meaning
 - PGPT
 	- Partition Management Table, compared with MBR
 - SGPT
-	- Backup of pgpt
-	- oemkeystore and keystore
-	- image authentication key for verified boot, not used yet
+	- Backup of PGPT
+	- `oemkeystore` and `keystore`
+	- Image Authentication Key for Verified Boot (VB), not used yet
 - TEE1
 	- [Trusted Execution Environment](https://www.trustonic.com/technology/trustzone-and-tee)
 - TEE2
-	- backup of tee1
+	- Backup of TEE1
 - U-BOOT / LK
 	- Second loader image
 	- LK stands for "Little Kernel"
-	- Handles most hardware initializations and bring-up entire Linux kernel
-- Boot Image
-	- Linux kernel image and it's root file system
-- Recovery
-	- Recovery kernel image and it's root file system
+	- Handles most hardware initializations and brings up the full Linux kernel
+- BOOT IMAGE
+	- Linux kernel image and its root file system
+- RECOVERY
+	- Recovery kernel image and its root file system
 	- Handles all the system recovery and firmware update functionalities
 - SEC_RO or SECRO
 	- Reserved for the security platform used
-- Misc
-	- Used for the recovery procedure (power loss)
-- Logo
+- MISC
+	- Used for the recovery procedure (e.g. in case of power loss)
+- LOGO
 	- Boot-up logo image
 - EXPDB
-	- Store Exception database
-- System
+	- Stores the Exceptions Database
+- SYSTEM
 	- Android system image
-- Cache
-	- For  Android internal used
-	- Store Android internal cache data or web cache data
-- User Data
+- CACHE
+	- Stores Android internal cache data or web cache data
+- USERDATA
 	- Used for Android system to store user data such as user contacts, settings, installed applications … etc
 - FAT / INTSD
 	- Internal SDCard on eMMC
 - OTP
 	- OTP (One Time Program) area on eMMC
-- flashinfo
+- FLASHINFO
 	- Flash tool download information
 - BMTPOOL
 	- Handles Bad Block Management (nandflash used and reserved on eMMC）
 - PARA
-	- Save parameter for recovery
+	- Saves the parameters required for recovery
 - FRP
-	- Factory Reset Protection, used for stolen phones
+	- Factory Reset Protection, used for Anti-Theft
 - NVDATA
 	- Stores data in `data/nvram/`
 - PROINFO
-	- An NVRAM partition, store one struct default, can be added
+	- An NVRAM partition, stores one `struct` by default, can be added
 	- `md1img`, `md1dsp`, `md1arm7`, `md3img`
-	- For Android M, MD image have switched to MD standalone partition, all modem images will be load from the partition: md1img, md1dsp, md1arm7 and md3img
+	- For Android M, the MD image has been changed into an MD standalone partition, all modem images will be loaded from the partitions: `md1img`, `md1dsp`, `md1arm7` and `md3img`
  - SCP1, SCP2
 	- System Control Processor, used for recovery fail
 - LK1, LK2
-	- Used for the case of update LK throught OTA fail
+	- Used for the updating LK in case of an OTA update fail
 - PERSIST
-	- Store data which will be stable for a long time
+	- Stores data which will be stable for a long time
 - METADATA
-	- Store master key for data encryption
+	- Stores the master key for data encryption
 - NVCFG
-	- NVRAM config, controlled by MTK_NVCONFIG_PARTITION_SUPPORT, not used yet
+	- NVRAM config, controlled by `MTK_NVCONFIG_PARTITION_SUPPORT`, not used yet
 	- Custom
-	- Customization partition, controlled by MTK_CIP_SUPPORT
+	- Customization partition, controlled by `MTK_CIP_SUPPORT`
 - EFUSE
 	- Download baseband chip's `efuse`
 - PPL
-	- Privacy Protection Lock, used for mobile phone antitheft
-
+	- Privacy Protection Lock, used for Anti-Theft
