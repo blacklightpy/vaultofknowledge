@@ -96,10 +96,18 @@
 	- Dump File
 	- Scatter File
 	- Partitions
+		- Note Sources
+			- [Understanding MTK Chipset and Android Partition | Scribd](https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition)
+			- [Answer to "Why are Android devices more brickable than PCs?" | Android StackExchange](https://android.stackexchange.com/questions/205072/bootloader-bios-flashing-roms-and-related-risks-why-are-android-devices-more-b/205552#205552)
+			- [\[INFO\] BOOT PROCESS: ANDROID vs. LINUX | XDA Forums](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
+			- [MediaTek details: SoC startup | Sturmflut's Blog](https://sturmflut.github.io/mediatek/2015/07/02/mediatek-details-soc-startup/)
+				- Moved to: [MediaTek details: SoC startup](https://www.lieberbiber.de/2015/07/02/mediatek-details-soc-startup/)
+			- [MediaTek details: Partitions and Preloader | Strumflut's Blog](https://sturmflut.github.io/mediatek/2015/07/04/mediatek-details-partitions-and-preloader/)
+				- Moved to: [MediaTek details: Partitions and Preloader | LIEBERBEIBER](https://www.lieberbiber.de/2015/07/04/mediatek-details-partitions-and-preloader/)
+			- 
 		- Notes
-			- https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition
-			- https://android.stackexchange.com/questions/205072/bootloader-bios-flashing-roms-and-related-risks-why-are-android-devices-more-b/205552#205552
-			- https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/
+			- Boot ROM resides outside eMMC
+			- PreLoader resides in eMMC, in boot1
 ## Types of Tools
 ### Harware/Software NAND Programmer Tools (for SoC/Device Firmware Flashing)
 ### Software Only NAND Programmer Tools (for SoC/Device Fimrware Flashing)
