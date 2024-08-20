@@ -78,7 +78,7 @@ The relevant Hadiths are:
 **Grade:**
 
 - By Sheik _Muhammad Naasir-ud-Deen Ibn Nooh Ibn Aadam Najaatee_ (a.k.a. **_Al-Albani_**): Saheeh
-- By **Dar-us-Salam** Publications (graded by _Hafiz Zubair 'Ali Za'i_): Hasan
+- By **Dar-us-Salam** Publications (graded by Hafiz/Sheik _Zubair 'Ali Za'i_): Hasan
 
 **Chain of Report:**
 
@@ -128,7 +128,7 @@ The relevant Hadiths are:
 **Grade:**
 
 - By Sheik _Muhammad Naasir-ud-Deen Ibn Nooh Ibn Aadam Najaatee_ (a.k.a. **_Al-Albani_**): Saheeh
-- By **Dar-us-Salam** Publications (graded by _Hafiz Zubair 'Ali Za'i_): Hasan
+- By **Dar-us-Salam** Publications (graded by Hafiz/Sheik _Zubair 'Ali Za'i_): Hasan
 
 **Chain of Report:**
 
