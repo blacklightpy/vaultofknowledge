@@ -61,7 +61,7 @@
 			- Service Port uses RJ45 connector for RS-232 electrical interface, and this is not the same as the Ethernet interface. This is usually called a Cisco Cable / Console Cable / Rollover Cable, following the popularization of its use by Cisco for debugging devices. The standard for rollover cables is called the Yost standard.
 				- Basically, we want to connect two DTEs together using a null-modem RS-232 cable, so we have to reverse, or "roll-over" the pinouts, and use the right connectors
 				- Examples:
-					- Cables rom SigmaBox's Sigma Cable 9-in-1 set
+					- Cables from SigmaBox's Sigma Cable 9-in-1 set
 						- TX/RX/GND Cable
 						- Fly DS105/DS120 cable
 						- Micro USB cable for Alcatel OT-series, Motorola EX-series, Motorola WX-series
@@ -95,22 +95,30 @@
 - SoC Specific Stuff (referenced mostly from MediaTek)
 	- Dump File
 	- Scatter File
-	- Partitions
+	- Partitions and Firmware Images
 		- Note Sources
-			- [Understanding MTK Chipset and Android Partition | Scribd](https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition)
-			- [Answer to "Why are Android devices more brickable than PCs?" | Android StackExchange](https://android.stackexchange.com/questions/205072/bootloader-bios-flashing-roms-and-related-risks-why-are-android-devices-more-b/205552#205552)
-			- [\[INFO\] BOOT PROCESS: ANDROID vs. LINUX | XDA Forums](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
-			- [MediaTek details: SoC startup | Sturmflut's Blog](https://sturmflut.github.io/mediatek/2015/07/02/mediatek-details-soc-startup/)
+			- 1. [Understanding MTK Chipset and Android Partition | Scribd](https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition)
+			- 2. [Answer to "Why are Android devices more brickable than PCs?" | Android StackExchange](https://android.stackexchange.com/questions/205072/bootloader-bios-flashing-roms-and-related-risks-why-are-android-devices-more-b/205552#205552)
+			- 3. [\[INFO\] BOOT PROCESS: ANDROID vs. LINUX | XDA Forums](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
+			- 5. [MediaTek details: SoC startup | Sturmflut's Blog](https://sturmflut.github.io/mediatek/2015/07/02/mediatek-details-soc-startup/)
 				- Moved to: [MediaTek details: SoC startup](https://www.lieberbiber.de/2015/07/02/mediatek-details-soc-startup/)
-			- [MediaTek details: Partitions and Preloader | Strumflut's Blog](https://sturmflut.github.io/mediatek/2015/07/04/mediatek-details-partitions-and-preloader/)
+			- 6. [MediaTek details: Partitions and Preloader | Strumflut's Blog](https://sturmflut.github.io/mediatek/2015/07/04/mediatek-details-partitions-and-preloader/)
 				- Moved to: [MediaTek details: Partitions and Preloader | LIEBERBEIBER](https://www.lieberbiber.de/2015/07/04/mediatek-details-partitions-and-preloader/)
-			- [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
-				- Originally (probably): [dead link to GSM Nigeria Developers forum before renovation](https://developers.gsmnigeria.com/Thread-MTK-platform-partition-meaning)
-					- According to: [what are the all image in a mtk rom | GSM-Forum](https://forum.gsmhosting.com/vbb/f781/what-all-image-mtk-rom-1897623/)
+			- 7. [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
+				- Originally from (probably): [dead link to GSM Nigeria Developers forum before renovation](https://developers.gsmnigeria.com/Thread-MTK-platform-partition-meaning)
+					- According to: 8. [what are the all image in a mtk rom | GSM-Forum](https://forum.gsmhosting.com/vbb/f781/what-all-image-mtk-rom-1897623/) (also a reference)
 				- Mentioned in: [[Android Partitions]]
-		- Notes
-			- Boot ROM resides outside eMMC
-			- PreLoader resides in eMMC, in boot1
+		- Quick Notes
+			- From Reference 1
+				- Boot ROM resides outside eMMC
+				- PreLoader resides in eMMC, in boot1
+			- From Reference 8
+				- Scatter File gives the locations to flash each image in the ROM archive
+				- Preloader communicates with the PC, and can be used to flash firmware when bricked
+					- It has different states, like the META mode
+					- Don't flash Preloader if you're unsure that it is the correct one
+					- Wrong Preloader can hard brick your device
+				- Boot partition image contains the kernel and initial RAM disk
 ## Types of Tools
 ### Hardware/Software NAND Programmer Tools (for SoC/Device Firmware Flashing)
 ### Software Only NAND Programmer Tools (for SoC/Device Fimrware Flashing)

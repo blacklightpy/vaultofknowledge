@@ -47,24 +47,25 @@ I first copy-pasted it verbatim, and made some minor modifications:
 	- Partition Management Table, compared with MBR
 - 9. SGPT
 	- Backup of PGPT
-	- `oemkeystore` and `keystore`
+- 10-11. OEMKEYSTORE, KEYSTORE
 	- Image Authentication Key for Verified Boot (VB), not used yet
-- 10. TEE1
+- 12. TEE1
 	- [Trusted Execution Environment](https://www.trustonic.com/technology/trustzone-and-tee)
-- 11. TEE2
+- 13. TEE2
 	- Backup of TEE1
-- 12. U-BOOT / LK
+- 14. U-BOOT / LK
 	- Second loader image
+	- U-BOOT is a generic bootloader for embedded devices
 	- LK stands for "Little Kernel"
 	- Handles most hardware initializations and brings up the full Linux kernel
-- 13. BOOT IMAGE
+- 15. BOOT IMAGE
 	- Linux kernel image and its root file system
-- 14. RECOVERY
+- 16. RECOVERY
 	- Recovery kernel image and its root file system
 	- Handles all the system recovery and firmware update functionalities
-- 15. SEC_RO or SECRO
+- 17. SEC_RO or SECRO
 	- Reserved for the security platform used
-- 16. MISC
+- 18. MISC
 	- Used for the recovery procedure (e.g. in case of power loss)
 - 17. LOGO
 	- Boot-up logo image
