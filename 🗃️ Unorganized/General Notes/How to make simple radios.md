@@ -1,6 +1,6 @@
 # Transmitters
 # Receivers
-## Abstract Receivers
+## Abstract Circuits
 ### Crystal Radio (AM)
 - A crystal radio is the simplest type of radio receivers
 - They are passive receivers, because they are not amplified with external power
@@ -13,5 +13,9 @@
 	- A capacitor (bypass capacitor) is used to smooth out the radio waves
 	- The distance between coils may cause energy loss, and this is called sensitivity
 	- Bringing the coils closer will cause electromagnetic interference, and this is called coupling
+## Specific Circuits
+### Simple (no coil)
+### Tuned (single coil)
+### Tuned (two coil)
 ## DIY Receivers
 ### Foxhole Radio (AM)
