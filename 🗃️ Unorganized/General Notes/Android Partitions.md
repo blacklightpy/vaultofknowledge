@@ -9,44 +9,46 @@
 - xmount
 - DiskInfo
 
-# References
+# To Refer
 - https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels
 - https://android.stackexchange.com/questions/5232/how-can-i-view-the-android-internal-partition-table
 - https://android.stackexchange.com/questions/24119/command-to-list-partitions
 # MTK
 MTK platform partition meaning
 
-- Pre-loader
+- PRELOADER
 	- Pre-loader image
-	- Handles all the download and secure boot procedure 
+	- Handles all the download and secure boot procedures
 - DSP_BL
 	- DSP Boot Loader
-	- MBR、EBR1、EBR2
-	- Ext4 file system partition index table
+	- MBR, EBR1, EBR2
+	- `ext4` file system partition index table
 - PMT
-	- Partition management table
-- NvRam
+	- Partition Management Table
+- NVRAM
+	- Non-Volatile RAM
 	- Stores the hardware related information, such as calibration data, MAC address, IMEI, …, etc.
-- SECCFG and SECSTATIC
+- SECCFG, SECSTATIC
 	- Reserved for the security platform used
-- protect1 or protect_f
-	- store SIM LOCK
-- protect2 or protect_s
-	- backup SIM LOCK
-- pgpt
-	- Partition management table, compared with MBR
-- sgpt
-	- backup of pgpt
+- PROTECT1 / PROTECT_F
+	- Store SIM LOCK
+- PROTECT2 / PROTECT_S
+	- Backup SIM LOCK
+- PGPT
+	- Partition Management Table, compared with MBR
+- SGPT
+	- Backup of pgpt
 	- oemkeystore and keystore
 	- image authentication key for verified boot, not used yet
-- tee1
-	- Trusted Excution Environment(https://www.trustonic.com/technology/trustzone-and-tee)
-- tee2
+- TEE1
+	- [Trusted Execution Environment](https://www.trustonic.com/technology/trustzone-and-tee)
+- TEE2
 	- backup of tee1
-- U-boot/LK
+- U-BOOT / LK
 	- Second loader image
+	- LK stands for "Little Kernel"
 	- Handles most hardware initializations and bring-up entire Linux kernel
-- Boot image
+- Boot Image
 	- Linux kernel image and it's root file system
 - Recovery
 	- Recovery kernel image and it's root file system
@@ -64,40 +66,40 @@ MTK platform partition meaning
 - Cache
 	- For  Android internal used
 	- Store Android internal cache data or web cache data
-- User data
+- User Data
 	- Used for Android system to store user data such as user contacts, settings, installed applications … etc
-- FAT/intsd
-	- Internal sdcard on emmc
+- FAT / INTSD
+	- Internal SDCard on eMMC
 - OTP
-	- Otp(one time program) area on emmc
+	- OTP (One Time Program) area on eMMC
 - flashinfo
-	- flash tool download information
+	- Flash tool download information
 - BMTPOOL
-	- Handles Bad Block Management（nandflash used and reserved on emmc）
+	- Handles Bad Block Management (nandflash used and reserved on eMMC）
 - PARA
-	- save parameter for recovery
+	- Save parameter for recovery
 - FRP
-	- factory reset for protect , used for stolen phones
+	- Factory Reset Protection, used for stolen phones
 - NVDATA
-	- store data in data/nvram/
+	- Stores data in `data/nvram/`
 - PROINFO
-	- a nvram partition, store one struct default, can be added
-	-   md1img, md1dsp,md1arm7, md3img
+	- An NVRAM partition, store one struct default, can be added
+	- `md1img`, `md1dsp`, `md1arm7`, `md3img`
 	- For Android M, MD image have switched to MD standalone partition, all modem images will be load from the partition: md1img, md1dsp, md1arm7 and md3img
- - scp1,scp2
-	- system control processor, used for recovery fail
-- lk1,lk2
-	- used for the case of update lk throught OTA fail
-- persist
-	- store data which will be stable for a long time
-- metadata
-	- store master key for data encryption
-- nvcfg
-	- nvram config, controlled by MTK_NVCONFIG_PARTITION_SUPPORT, not used yet
-	- custom
-	- customization partition, controlled by MTK_CIP_SUPPORT
-- efuse
-	- download BB chip's efuse
-- ppl
-	- Privacy protection lock，used for mobile phone antitheft
+ - SCP1, SCP2
+	- System Control Processor, used for recovery fail
+- LK1, LK2
+	- Used for the case of update LK throught OTA fail
+- PERSIST
+	- Store data which will be stable for a long time
+- METADATA
+	- Store master key for data encryption
+- NVCFG
+	- NVRAM config, controlled by MTK_NVCONFIG_PARTITION_SUPPORT, not used yet
+	- Custom
+	- Customization partition, controlled by MTK_CIP_SUPPORT
+- EFUSE
+	- Download baseband chip's `efuse`
+- PPL
+	- Privacy Protection Lock, used for mobile phone antitheft
 

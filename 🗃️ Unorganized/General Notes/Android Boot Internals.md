@@ -104,7 +104,8 @@
 				- Moved to: [MediaTek details: SoC startup](https://www.lieberbiber.de/2015/07/02/mediatek-details-soc-startup/)
 			- [MediaTek details: Partitions and Preloader | Strumflut's Blog](https://sturmflut.github.io/mediatek/2015/07/04/mediatek-details-partitions-and-preloader/)
 				- Moved to: [MediaTek details: Partitions and Preloader | LIEBERBEIBER](https://www.lieberbiber.de/2015/07/04/mediatek-details-partitions-and-preloader/)
-			- 
+			- [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
+				- Mentioned in: [[Android Partitions]]
 		- Notes
 			- Boot ROM resides outside eMMC
 			- PreLoader resides in eMMC, in boot1
