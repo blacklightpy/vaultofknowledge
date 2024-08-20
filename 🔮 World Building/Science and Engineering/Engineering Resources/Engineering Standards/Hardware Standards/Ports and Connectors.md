@@ -30,3 +30,15 @@ Parallel interfaces transfer data through multiple channels simultaneously to se
 - Universal Serial Bus
 - MIPI CSI
 - MIPI DSI
+
+# Terminiology
+## Physical
+- Port
+- Socket
+- Connector
+- Plug
+- Jack
+- Header (aka Pin Headers / DuPont Connectors / Berg Connectors)
+## Logical
+- Port
+- Socket

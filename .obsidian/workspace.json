@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -359,7 +359,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -427,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
+                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -444,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
+                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -456,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md"
+                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md"
               }
             }
           },
@@ -523,13 +523,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0ce276d7f4e25545",
+  "active": "992c047f42270e0c",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Science of Hadith.md",
+    "🗃️ Unorganized/General Notes/Cold Welding.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🗃️ Unorganized/General Notes/Versions of Quran.md",
+    "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
-    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🗃️ Unorganized/General Notes/Serial Ports.md",
     "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
     "🗃️ Unorganized/General Notes/Systems and Protocols.md",
@@ -550,7 +551,6 @@
     "🗃️ Unorganized/General Notes/Unlock Huawei Phones.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Differences between Islam and Judeo-Christianity.md",
-    "🗃️ Unorganized/General Notes/Logic of Trinity.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
