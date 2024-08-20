@@ -10,6 +10,7 @@
 - Tajwid: The rules of pronunciation, intonation, and caesuras of the Qur'an
 - Harf: Style
 - Mus-haf: Codex / Collection of Pages
+- Sanad / Isnaad: Link(s) in transmission
 
 They say the recitation was given to Mohammed in 7 different styles according to a Hadeeth, and therefore each recitation can be traced back to Mohammed.
 
@@ -45,8 +46,9 @@ The readers were from the early centuries, and their recitations were textualize
 - Warsh -> Nafi'
 - Isham (Asadi / from Banu Asad) -> Ibn 'Amir
 
-The ones who have the strongest Isnaad in recitation are Naafi’ and ‘Aasim. 
-The most eloquent are Abu ‘Amr and al-Kisaa’i. 
+> [!NOTE] Notes about the Qira'at
+> The ones who have the strongest Isnaad in recitation are Naafi’ and ‘Aasim. 
+> The most eloquent are Abu ‘Amr and al-Kisaa’i. 
 # Situation and Problems
 Source: https://www.ugr.es/~mreligio/materiales/Green.Samuel_The-different-arabic-versions-of-the-Quran.pdf
 
