@@ -23,7 +23,7 @@ I first copy-pasted it verbatim, and made some minor modifications:
 - Corrected grammar in some instances
 - Codified small lettered codenames
 - And I added numbers (not necessarily in the right order, just to count the number of partitions)
-	- This list has 38 partitions :v
+	- This list has 41 partitions :v
 
 - 1. PRELOADER
 	- Pre-loader image
@@ -65,49 +65,49 @@ I first copy-pasted it verbatim, and made some minor modifications:
 	- Handles all the system recovery and firmware update functionalities
 - 17. SEC_RO or SECRO
 	- Reserved for the security platform used
-- 18. MISC
+- 18. MISC / FOTA (in older devices)
 	- Used for the recovery procedure (e.g. in case of power loss)
-- 17. LOGO
+- 19. LOGO
 	- Boot-up logo image
-- 18. EXPDB
+- 20. EXPDB
 	- Stores the Exceptions Database
-- 19. SYSTEM
+- 21. SYSTEM
 	- Android system image
-- 20. CACHE
+- 22. CACHE
 	- Stores Android internal cache data or web cache data
-- 21. USERDATA
+- 23. USERDATA
 	- Used for Android system to store user data such as user contacts, settings, installed applications … etc
-- 22. FAT / INTSD
+- 24. FAT / INTSD
 	- Internal SDCard on eMMC
-- 23. OTP
+- 25. OTP
 	- OTP (One Time Program) area on eMMC
-- 24. FLASHINFO
+- 26. FLASHINFO
 	- Flash tool download information
-- 25. BMTPOOL
+- 27. BMTPOOL
 	- Handles Bad Block Management (nandflash used and reserved on eMMC）
-- 26. PARA
+- 28. PARA
 	- Saves the parameters required for recovery
-- 27. FRP
+- 29. FRP
 	- Factory Reset Protection, used for Anti-Theft
-- 28. NVDATA
+- 30. NVDATA
 	- Stores data in `data/nvram/`
-- 29. PROINFO
+- 31. PROINFO
 	- An NVRAM partition, stores one `struct` by default, can be added
 	- `md1img`, `md1dsp`, `md1arm7`, `md3img`
 	- For Android M, the MD image has been changed into an MD standalone partition, all modem images will be loaded from the partitions: `md1img`, `md1dsp`, `md1arm7` and `md3img`
- - 30-31. SCP1, SCP2
+ - 32-33. SCP1, SCP2
 	- System Control Processor, used for recovery fail
-- 32-33. LK1, LK2
+- 34-35. LK1, LK2
 	- Used for the updating LK in case of an OTA update fail
-- 34. PERSIST
+- 36. PERSIST
 	- Stores data which will be stable for a long time
-- 35. METADATA
+- 37. METADATA
 	- Stores the master key for data encryption
-- 36. NVCFG
+- 38. NVCFG
 	- NVRAM config, controlled by `MTK_NVCONFIG_PARTITION_SUPPORT`, not used yet
-	- Custom
+- 39. CUST / CUSTOM / PRELOAD
 	- Customization partition, controlled by `MTK_CIP_SUPPORT`
-- 37. EFUSE
+- 40. EFUSE
 	- Download baseband chip's `efuse`
-- 38. PPL
+- 41. PPL
 	- Privacy Protection Lock, used for Anti-Theft
