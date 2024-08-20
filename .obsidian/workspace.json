@@ -370,9 +370,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41d31c5bfc14a493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -440,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make simple radios.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make simple radios.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make simple radios.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md"
               }
             }
           },
@@ -536,8 +549,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "89edbbd02fae0201",
+  "active": "41d31c5bfc14a493",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Problems with glibc.md",
+    "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
     "🗃️ Unorganized/General Notes/Cold Welding.md",
@@ -562,8 +577,6 @@
     "🗃️ Unorganized/General Notes/Mersenne Primes.md",
     "🗃️ Unorganized/General Notes/Pseudorandom Number Generator.md",
     "🗃️ Unorganized/General Notes/k-dimensional Equidistribution.md",
-    "🗃️ Unorganized/General Notes/Unlock Huawei Phones.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
