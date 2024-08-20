@@ -10,7 +10,7 @@
 	- Two coils can be used for tuning into a frequency (Selectivity)
 	- Diode is used to get only the positive envelope of the AM carrier wave
 	- The crystal can only react to the lower audio frequencies, not to the radio frequencies
-	- A capacitor is used to smooth out the radio waves
+	- A capacitor (bypass capacitor) is used to smooth out the radio waves
 	- The distance between coils may cause energy loss, and this is called sensitivity
 	- Bringing the coils closer will cause electromagnetic interference, and this is called coupling
 ## DIY Receivers
