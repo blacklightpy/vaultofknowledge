@@ -61,7 +61,7 @@
 			- Service Port uses RJ45 connector for RS-232 electrical interface, and this is not the same as the Ethernet interface. This is usually called a Cisco Cable / Console Cable / Rollover Cable, following the popularization of its use by Cisco for debugging devices. The standard for rollover cables is called the Yost standard.
 				- Basically, we want to connect two DTEs together using a null-modem RS-232 cable, so we have to reverse, or "roll-over" the pinouts, and use the right connectors
 				- Examples:
-					- SigmaBox Sigma Cable 9-in-1 set
+					- Cables rom SigmaBox's Sigma Cable 9-in-1 set
 						- TX/RX/GND Cable
 						- Fly DS105/DS120 cable
 						- Micro USB cable for Alcatel OT-series, Motorola EX-series, Motorola WX-series
@@ -105,12 +105,14 @@
 			- [MediaTek details: Partitions and Preloader | Strumflut's Blog](https://sturmflut.github.io/mediatek/2015/07/04/mediatek-details-partitions-and-preloader/)
 				- Moved to: [MediaTek details: Partitions and Preloader | LIEBERBEIBER](https://www.lieberbiber.de/2015/07/04/mediatek-details-partitions-and-preloader/)
 			- [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
+				- Originally (probably): [dead link to GSM Nigeria Developers forum before renovation](https://developers.gsmnigeria.com/Thread-MTK-platform-partition-meaning)
+					- According to: [what are the all image in a mtk rom | GSM-Forum](https://forum.gsmhosting.com/vbb/f781/what-all-image-mtk-rom-1897623/)
 				- Mentioned in: [[Android Partitions]]
 		- Notes
 			- Boot ROM resides outside eMMC
 			- PreLoader resides in eMMC, in boot1
 ## Types of Tools
-### Harware/Software NAND Programmer Tools (for SoC/Device Firmware Flashing)
+### Hardware/Software NAND Programmer Tools (for SoC/Device Firmware Flashing)
 ### Software Only NAND Programmer Tools (for SoC/Device Fimrware Flashing)
 ### IMEI Calculator Tools
 ### SIM Unlock Tools

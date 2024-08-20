@@ -13,7 +13,6 @@
 - https://android.stackexchange.com/questions/5232/how-can-i-view-the-android-internal-partition-table
 - https://android.stackexchange.com/questions/24119/command-to-list-partitions
 # Notes
-
 ## Sources
 - 1. [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
 ## Notes
@@ -23,90 +22,91 @@ I first copy-pasted it verbatim, and made some minor modifications:
 - Capitalized partition names
 - Corrected grammar in some instances
 - Codified small lettered codenames
-- And I added numbers (not necessarily in the right order, )
+- And I added numbers (not necessarily in the right order, just to count the number of partitions)
+	- This list has 38 partitions :v
 
-- PRELOADER
+- 1. PRELOADER
 	- Pre-loader image
 	- Handles all the download and secure boot procedures
-- DSP_BL
+- 2. DSP_BL
 	- DSP Boot Loader
 	- MBR, EBR1, EBR2
 	- `ext4` file system partition index table
-- PMT
+- 3. PMT
 	- Partition Management Table
-- NVRAM
+- 4. NVRAM
 	- Non-Volatile RAM
 	- Stores the hardware related information, such as the Calibration Data, MAC Address, IMEI ID, etc.
-- SECCFG, SECSTATIC
+- 5. SECCFG, SECSTATIC
 	- Reserved for the security platform used
-- PROTECT1 / PROTECT_F
+- 6. PROTECT1 / PROTECT_F
 	- Store SIM LOCK
-- PROTECT2 / PROTECT_S
+- 7. PROTECT2 / PROTECT_S
 	- Backup SIM LOCK
-- PGPT
+- 8. PGPT
 	- Partition Management Table, compared with MBR
-- SGPT
+- 9. SGPT
 	- Backup of PGPT
 	- `oemkeystore` and `keystore`
 	- Image Authentication Key for Verified Boot (VB), not used yet
-- TEE1
+- 10. TEE1
 	- [Trusted Execution Environment](https://www.trustonic.com/technology/trustzone-and-tee)
-- TEE2
+- 11. TEE2
 	- Backup of TEE1
-- U-BOOT / LK
+- 12. U-BOOT / LK
 	- Second loader image
 	- LK stands for "Little Kernel"
 	- Handles most hardware initializations and brings up the full Linux kernel
-- BOOT IMAGE
+- 13. BOOT IMAGE
 	- Linux kernel image and its root file system
-- RECOVERY
+- 14. RECOVERY
 	- Recovery kernel image and its root file system
 	- Handles all the system recovery and firmware update functionalities
-- SEC_RO or SECRO
+- 15. SEC_RO or SECRO
 	- Reserved for the security platform used
-- MISC
+- 16. MISC
 	- Used for the recovery procedure (e.g. in case of power loss)
-- LOGO
+- 17. LOGO
 	- Boot-up logo image
-- EXPDB
+- 18. EXPDB
 	- Stores the Exceptions Database
-- SYSTEM
+- 19. SYSTEM
 	- Android system image
-- CACHE
+- 20. CACHE
 	- Stores Android internal cache data or web cache data
-- USERDATA
+- 21. USERDATA
 	- Used for Android system to store user data such as user contacts, settings, installed applications … etc
-- FAT / INTSD
+- 22. FAT / INTSD
 	- Internal SDCard on eMMC
-- OTP
+- 23. OTP
 	- OTP (One Time Program) area on eMMC
-- FLASHINFO
+- 24. FLASHINFO
 	- Flash tool download information
-- BMTPOOL
+- 25. BMTPOOL
 	- Handles Bad Block Management (nandflash used and reserved on eMMC）
-- PARA
+- 26. PARA
 	- Saves the parameters required for recovery
-- FRP
+- 27. FRP
 	- Factory Reset Protection, used for Anti-Theft
-- NVDATA
+- 28. NVDATA
 	- Stores data in `data/nvram/`
-- PROINFO
+- 29. PROINFO
 	- An NVRAM partition, stores one `struct` by default, can be added
 	- `md1img`, `md1dsp`, `md1arm7`, `md3img`
 	- For Android M, the MD image has been changed into an MD standalone partition, all modem images will be loaded from the partitions: `md1img`, `md1dsp`, `md1arm7` and `md3img`
- - SCP1, SCP2
+ - 30-31. SCP1, SCP2
 	- System Control Processor, used for recovery fail
-- LK1, LK2
+- 32-33. LK1, LK2
 	- Used for the updating LK in case of an OTA update fail
-- PERSIST
+- 34. PERSIST
 	- Stores data which will be stable for a long time
-- METADATA
+- 35. METADATA
 	- Stores the master key for data encryption
-- NVCFG
+- 36. NVCFG
 	- NVRAM config, controlled by `MTK_NVCONFIG_PARTITION_SUPPORT`, not used yet
 	- Custom
 	- Customization partition, controlled by `MTK_CIP_SUPPORT`
-- EFUSE
+- 37. EFUSE
 	- Download baseband chip's `efuse`
-- PPL
+- 38. PPL
 	- Privacy Protection Lock, used for Anti-Theft
