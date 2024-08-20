@@ -99,7 +99,8 @@
 		- Note Sources
 			- 1. [Understanding MTK Chipset and Android Partition | Scribd](https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition)
 			- 2. [Answer to "Why are Android devices more brickable than PCs?" | Android StackExchange](https://android.stackexchange.com/questions/205072/bootloader-bios-flashing-roms-and-related-risks-why-are-android-devices-more-b/205552#205552)
-			- 3. [\[INFO\] BOOT PROCESS: ANDROID vs. LINUX | XDA Forums](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
+			- 3. [[INFO] BOOT PROCESS: ANDROID vs. LINUX | XDA Forums](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
+			- 4. [[INFO] ANDROID DEVICE PARTITIONS and FILESYSTEMS](https://xdaforums.com/t/info-android-device-partitions-and-filesystems.3586565/)
 			- 5. [MediaTek details: SoC startup | Sturmflut's Blog](https://sturmflut.github.io/mediatek/2015/07/02/mediatek-details-soc-startup/)
 				- Moved to: [MediaTek details: SoC startup](https://www.lieberbiber.de/2015/07/02/mediatek-details-soc-startup/)
 			- 6. [MediaTek details: Partitions and Preloader | Strumflut's Blog](https://sturmflut.github.io/mediatek/2015/07/04/mediatek-details-partitions-and-preloader/)
@@ -112,6 +113,8 @@
 			- From Reference 1
 				- Boot ROM resides outside eMMC
 				- PreLoader resides in eMMC, in boot1
+			- From Reference 4
+				- There are core AOSP partitions and device-specific partitions
 			- From Reference 8
 				- Scatter File gives the locations to flash each image in the ROM archive
 				- Preloader communicates with the PC, and can be used to flash firmware when bricked
