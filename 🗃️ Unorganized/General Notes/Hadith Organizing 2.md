@@ -151,6 +151,7 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 	- Banu Bakr attacked Banu Khuza'ah (because they were always at war)
 	- This triggered the conquest of Mecca (8 AH)
 		- Muslim sources say he sent a letter to Quraysh first
+	- 2.199, etc. (so 2.191 too) was revealed during this time
 	- Abu Sufiyan surrendered and became a Muslim
 
 - Mohammed saw a dream of doing Hajj (Quran 48:27)

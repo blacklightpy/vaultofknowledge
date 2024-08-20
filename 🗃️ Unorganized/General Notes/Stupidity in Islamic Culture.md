@@ -16,3 +16,6 @@ Other stuff:
 
 - Again saw an instance of "we Muslims aren't pacifists."
 	- "stop what? im never ridiculous. always serious. this isn't a joke. We muslims aren't pacifists."
+
+- By Mufassiroon
+	- https://old.reddit.com/r/exmuslim/comments/jotv5/ibn_kathir_altabari_alqurtubi_and_ibn_abbas_all/
