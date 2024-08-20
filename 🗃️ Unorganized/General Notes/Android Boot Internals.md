@@ -92,6 +92,14 @@
 - Carrier Unlock Tools
 	- R-SIM VSOP Card
 		- It is like a SIM card, used to unlock iPhone devices
+- SoC Specific Stuff (referenced mostly from MediaTek)
+	- Dump File
+	- Scatter File
+	- Partitions
+		- Notes
+			- https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition
+			- https://android.stackexchange.com/questions/205072/bootloader-bios-flashing-roms-and-related-risks-why-are-android-devices-more-b/205552#205552
+			- https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/
 ## Types of Tools
 ### Harware/Software NAND Programmer Tools (for SoC/Device Firmware Flashing)
 ### Software Only NAND Programmer Tools (for SoC/Device Fimrware Flashing)
@@ -110,10 +118,11 @@
 | DZKJ PhoneRepair Tools                      | **5**                        | 2.28%           |
 | XinZhiZao (XZZ) Maintenance Inquiry System  | **2**                        | 0.91%           |
 | Combinett Pro                               | **1**                        | 0.46%           |
-| ESTECH Schematics                           | Unlisted / New               |                 |
-| JCProgrammer JCID Schematics                | Unlisted / New               |                 |
-| Nusantara Schematics                        | Unlisted / New               |                 |
-| Universal Firmware Schematic Room (UFSRoom) | Unlisted / New               |                 |
+| ESTECH Schematics                           | Unlisted / New / Old         |                 |
+| JCProgrammer JCID Schematics                | Unlisted / New / Old         |                 |
+| Nusantara Schematics                        | Unlisted / New / Old         |                 |
+| Universal Firmware Schematic Room (UFSRoom) | Unlisted / New / Old         |                 |
+| Siemens PADS                                | Unlisted / New / Old         |                 |
 ## Unlock Boxes
 Those listed below, plus
 - Pandora Box

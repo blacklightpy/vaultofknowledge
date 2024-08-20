@@ -370,22 +370,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "41d31c5bfc14a493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 28
+        ]
       }
     ],
     "direction": "vertical"
@@ -453,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +468,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -549,18 +535,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "41d31c5bfc14a493",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🗃️ Unorganized/General Notes/How to make simple radios.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
-    "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
     "🗃️ Unorganized/General Notes/Cold Welding.md",
-    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
-    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Serial Ports.md",
     "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
     "🗃️ Unorganized/General Notes/Systems and Protocols.md",
@@ -576,7 +563,6 @@
     "🗃️ Unorganized/General Notes/Solinas Primes.md",
     "🗃️ Unorganized/General Notes/Mersenne Primes.md",
     "🗃️ Unorganized/General Notes/Pseudorandom Number Generator.md",
-    "🗃️ Unorganized/General Notes/k-dimensional Equidistribution.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
