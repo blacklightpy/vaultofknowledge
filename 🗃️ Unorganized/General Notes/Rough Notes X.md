@@ -1,3 +1,5 @@
+- Muslims say that Islam is not the "religion of peace", when questioned about offensive Jihad: https://old.reddit.com/r/islam/comments/1dsr0wz/is_islam_the_religion_of_peace/
+	- Romans were attacked because they killed an emissary.
 
 - Mohammed, the role model of Muslims married a 6 year old girl (from Hadiths)
 - He consummated the marriage when she was 9 (from Hadiths)
