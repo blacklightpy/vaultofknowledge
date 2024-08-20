@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -358,7 +358,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -426,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -455,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md"
               }
             }
           },
@@ -522,14 +523,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "0ce276d7f4e25545",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
+    "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🗃️ Unorganized/General Notes/Serial Ports.md",
     "🗃️ Unorganized/General Notes/Serial Peripheral Interface.md",
     "🗃️ Unorganized/General Notes/Systems and Protocols.md",
-    "🗃️ Unorganized/General Notes/How to get the right Google Camera Mod.md",
     "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
     "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",

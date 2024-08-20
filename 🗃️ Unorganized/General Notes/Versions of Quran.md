@@ -1,30 +1,35 @@
 # How they differ
 ## Glossary
+- Sab‘ah: Seven
+- Ahruf: Mode
 - Rawi / Ruwah: Transmitter(s)
 - Riwayatan: Transmitted Versions
 - Q'ari / Qurra': Reciter(s)
 - Qira'ah (singular) / Qira'at (plural): Recitation(s)
-- Ahruf: Mode
-- Sab‘ah: Seven
 - Tajwid: The rules of pronunciation, intonation, and caesuras of the Qur'an
 
 They say the recitation was given to Mohammed in 7 different Ahrufs according to a Hadeeth, and therefore each recitation can be traced back to Mohammed.
-# The different editions
-- **Hafs** (Hafs an Asim an al-Sulami; an means from)
-- **Warsh** (Warsh an Nafi; an means from)
-- **Asad**
 
-## The Seven Authoritative Q'aris and the Ahruf they transmitted
+> [!NOTE]
+> The 7 Ahrufs (al-Ahruf al-Saba') are not the 7 Qira'ahs (al-Qira'at al-Saba')
+
+# The different editions
+## The Seven Authoritative Reciters and Their Transmitters
+The readers were from the early centuries, and their recitations were textualized by the transmitters. The transmitted forms are what we read from today. Muslims say the Quran was revealed in 7 styles to Mohammed, so all are from Allah.
+
 - Nafi' (from Medina; d. 169/785)
-	- 
+	- Imam Warsh
 - Ibn Kathir (from Mecca; d. 119/737)
 - Abu 'Amr al-'Ala' (from Damascus; d. 153/770)
 - Ibn 'Amir (from Basra; d. 118/736)
 - Hamzah (from Kufah; d. 156/772)
 - al-Qisa'i (from Kufah; d. 189/804)
 - Abu Bakr 'Asim (from Kufah; d. 158/778)
-
-Muslims say the Quran was revealed in 7 styles to Mohammed, so all are from Allah.
+	- Imam Hafs
+## The Isnads
+- Hafs -> Abu Bakr 'Asim -> al-Sulami
+- Warsh -> Nafi'
+- Isham (Asadi / from Banu Asad) -> Ibn 'Amir
 # Situation and Problems
 Source: https://www.ugr.es/~mreligio/materiales/Green.Samuel_The-different-arabic-versions-of-the-Quran.pdf
 
