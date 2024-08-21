@@ -17,8 +17,10 @@ Any method of thinking that automates a specific system is called an abstraction
 ## Example 1: Electronic and Electric Circuits
 - Consider objects like a resistor, transistor, capacitor, wires, etc. to be at the base level.
 	- Of course, it will have deeper implementation details, but for a layman, these are the basic components. Let's just stick with it.
+- The abstract design of a device will be the next level of abstraction
+- A specific circuit designed based on the design will be the next level of abstraction.
 - A circuit board created with that would be a higher level product. That is, if you get a circuit board, it is composed of a lower level of implementation, using its internal components.
-- Now, if the circuit is electronic, it could sometimes be driven by a firmware software. Since the behavior of the system is dependent on the firmware, the firmware can be said to be at a higher level of abstraction.
+- Now, if the circuit is electronic, it could sometimes be driven by a firmware software. Since the behaviour of the system is dependent on the firmware, the firmware can be said to be at a higher level of abstraction.
 - 
 ## Example 2: Mathematics
 ## Example 3: Operating Systems
@@ -32,15 +34,19 @@ Any method of thinking that automates a specific system is called an abstraction
 - Crystal Radio (A simple radio that works like a radio with a crystal)
 - Crystal AM Radio Circuit (A specific circuit for a crystal radio)
 - Crystal AM Radio Build (A specific build of a circuit)
-## Example of religion
+## Example of religions
+- Metaphysical Models (Added to the back)
+- Similar Religions (Added to the back)
+
 - Core Religion
 - Manuscript / Recitation / Translation
+- Specific Interpretation / Communal Consensus
 ## Example of linguistics
-- Specific Glyphs / Specific Phonemes (Individual Level)
-- Generic Glyphs / Generic Phonemes (Community Level)
-- Graphemes / Phonemes
-- Phonograms
-- Free Morphemes / Ideograms / Pictograms
-- Bound Morphemes / Ideograms / Pictograms ()
-- Lexemes / Logograms (or Lexigrams) (Word Level)
-- Lexicon (Full Dictionary)
+- Specific Glyphs / Specific Sounds **(Individual Level)**
+- Generic Glyphs / Generic Sounds **(Community Level)**
+- Graphemes / Phonemes **(Written or Spoken Characters)**
+- Phonograms **(Written and Spoken Characters)**
+- Free Morphemes / Bound Ideograms / Bound Pictograms **(Independent Morphemes)**
+- Bound Morphemes / Bound Ideograms / Bound Pictograms **(Dependent Morphemes)**
+- Lexemes / Logograms (or Lexigrams) **(Word Level)**
+- Lexicon **(Full Dictionary)**
