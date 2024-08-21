@@ -1408,6 +1408,8 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > C. Two kinds of Conflict 
 > 
+> ![[UaH_v1.pdf-image-124.jpg]]
+> 
 > D. Ways to resolve Conflict: 
 > 
 > - a. Jam (Combining two conflicting hadeeth) 
@@ -2089,5 +2091,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Supporting hadeeth and so on 
 > 
 > E. Conclusion
+> 
+> ![[Usool al-Hadeeth - Conclusion.jpg]]
 > 
 > Thus the above sciences tests/critically analyses the hadeeth from the perspective of components of the hadeeth producing authoritative results and establishes hadeeth as the credible source for knowledge and implementation. All this scrutiny has been employed not only to ascertain the originality of the revelation but also eases the way for most part of Islaamic Sciences such as Fiqh which highly depends on Uloom al Hadeeth.

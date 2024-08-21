@@ -411,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -478,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make simple radios.md",
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make simple radios.md",
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -507,7 +507,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make simple radios.md"
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md"
               }
             }
           },
@@ -574,13 +574,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "89edbbd02fae0201",
+  "active": "9112a5abb8dcebb8",
   "lastOpenFiles": [
+    "_images/UaH_v1.pdf-image-124.jpg",
+    "_images/Usool al-Hadeeth - Conclusion.jpg",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "_images/Usool Al Hadeeth - Two Kinds of Conflict.jpg",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
@@ -590,7 +593,6 @@
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
-    "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
@@ -619,7 +621,6 @@
     "_images/Muslim Ideas of Sex - in India 1.png",
     "_images/Light penetration in water.png",
     "_images/Knitting vs Crocheting.png",
-    "_images/Islam - Child Farming.png",
-    "_images/Frequency and Loudness Response of the Ear.png"
+    "_images/Islam - Child Farming.png"
   ]
 }
