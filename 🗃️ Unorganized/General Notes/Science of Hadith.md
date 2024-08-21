@@ -1408,7 +1408,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > C. Two kinds of Conflict 
 > 
-> ![[UaH_v1.pdf-image-124.jpg]]
+> ![[Usool al-Hadeeth - Two Kinds of Conflict.jpg]]
 > 
 > D. Ways to resolve Conflict: 
 > 
@@ -1479,7 +1479,8 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > K. Conclusions: 
 > 
 > - a. These conflicts are apparent and not real. 
-> - b. Apparent conflict appears mostly due to lack of skill 
+> - b. Apparent conflict appears mostly due to lack of skill
+> 
 > ## Chapter 14: Tarjeeh Discourse (Ways of Preference) 
 > 
 > A. Definition: 
@@ -1504,6 +1505,8 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. Respect to Isnaad 
 > 	- ii. Respect to Matn 
 > 	- iii. Respect to External evidence 
+> 
+> ![[Usool al-Hadeeth - Tarjeeh.jpg]]
 > 
 > C. Conditions related to performing Tarjeeh 
 > 
@@ -2029,7 +2032,11 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. There are certain sciences which absorbs both the above mentioned sciences in giving different benefits such as Ta’aarud wa tarjeeh which deals with chain and text in terms of preference when there is apparent conflict 
 > - e. Now let us see how each science played a role of critical apparatus 
 > 
+> ![[Usool al-Hadeeth - Overview.png]]
+> 
 > B. Ilmud Diraayah (Testing the Chain) 
+> 
+> ![[Usool al-Hadeeth - Testing the Chain.png]]
 > 
 > - a. Ilm Tahammul al Hadeeth (Process of Transmission) 
 > 	- i. This Science with very precise wordings such as Haddathna, Akhbarna indicates to the reader how the hadeeth was received or transmitted 
