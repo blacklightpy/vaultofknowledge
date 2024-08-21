@@ -17,11 +17,11 @@ Any method of thinking that automates a specific system is called an abstraction
 ## Example 1: Electronic and Electric Circuits
 - Consider objects like a resistor, transistor, capacitor, wires, etc. to be at the base level.
 	- Of course, it will have deeper implementation details, but for a layman, these are the basic components. Let's just stick with it.
-- The abstract design of a device will be the next level of abstraction
-- A specific circuit designed based on the design will be the next level of abstraction.
-- A circuit board created with that would be a higher level product. That is, if you get a circuit board, it is composed of a lower level of implementation, using its internal components.
+- A circuit board created with that would be a higher level product. That is, an assembled circuit board is composed of elements at a lower level of implementation, i.e. the basic components.
+	- EDIT: Add "abstract design" and "specific circuit". But will this come before or after this? Or should I rewrite the whole thing?
+	- I guess the answer to that depends on whether we are thinking from a "user's perspective" (in which case it goes from science -> elements -> design -> circuit -> assembly -> firmware -> kernel -> OS -> mechanical design -> CX), or from a "designer's perspective" (in which case it goes from idea -> CX -> mechanical design -> OS -> kernel -> firmware -> assembly -> circuit -> design -> elements -> science)
+		- There's a catch. Your knowledge of a lower lever of abstraction helps you make the higher levels. For example, your knowledge of science gives you access to more elements, and even unknown elements. Your knowledge of 
 - Now, if the circuit is electronic, it could sometimes be driven by a firmware software. Since the behaviour of the system is dependent on the firmware, the firmware can be said to be at a higher level of abstraction.
-- 
 ## Example 2: Mathematics
 ## Example 3: Operating Systems
 (I probably meant "operating" "system")
