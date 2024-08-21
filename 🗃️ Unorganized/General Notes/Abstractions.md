@@ -22,6 +22,25 @@ Any method of thinking that automates a specific system is called an abstraction
 - 
 ## Example 2: Mathematics
 ## Example 3: Operating Systems
+(I probably meant "operating" "system")
 ## Example 4: Politics
-
+(I probably meant governance at separate levels; plus add the different aspects of governance)
 #incomplete
+
+# More Examples
+## Example of a crystal radio
+- Crystal Radio (A simple radio that works like a radio with a crystal)
+- Crystal AM Radio Circuit (A specific circuit for a crystal radio)
+- Crystal AM Radio Build (A specific build of a circuit)
+## Example of religion
+- Core Religion
+- Manuscript / Recitation / Translation
+## Example of linguistics
+- Specific Glyphs / Specific Phonemes (Individual Level)
+- Generic Glyphs / Generic Phonemes (Community Level)
+- Graphemes / Phonemes
+- Phonograms
+- Free Morphemes / Ideograms / Pictograms
+- Bound Morphemes / Ideograms / Pictograms ()
+- Lexemes / Logograms (or Lexigrams) (Word Level)
+- Lexicon (Full Dictionary)
