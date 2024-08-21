@@ -409,35 +409,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c67780d2acd4d26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e616e5a0980ffc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 32
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -504,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -521,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -533,7 +507,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -600,11 +574,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e616e5a0980ffc5",
+  "active": "20c98c9089478e48",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Literature/Origin of Writing.md",
-    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
+    "🗺️ World Exploration/Literature/Origin of Writing.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "_images/Usool al-Hadeeth - Overview.png",
     "_images/Usool al-Hadeeth - Testing the Chain.png",
