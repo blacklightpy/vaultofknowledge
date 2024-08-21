@@ -410,8 +410,7 @@
               }
             }
           }
-        ],
-        "currentTab": 30
+        ]
       }
     ],
     "direction": "vertical"
@@ -479,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -508,7 +507,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -575,11 +574,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "20c98c9089478e48",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
