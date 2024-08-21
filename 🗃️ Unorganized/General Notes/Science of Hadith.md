@@ -981,6 +981,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. They have strong opposition to religions because of forcing of ideologies and unquestionable things from the Church
 > 	- ii. They considered unseen world as tales and not the reality
 > 	- iii. Their view about knowledge, metaphysical reality plays a role in their works
+> 
 > ## Chapter 9: Practice of Storytelling in Islaam
 > 
 > A. Why do we study?
@@ -1571,6 +1572,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - b. Similar chains 
 > - c. Don’t support the meaning in addition to the practice of Madeenah 
 > - d. Whatever suits people of the time and Historical Scheme 
+> 
 > ## Chapter 15: Takhreej al Hadeeth (FIR of Hadeeth) 
 > 
 > A. Definition: 
