@@ -909,7 +909,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - b. Response:
 > 	- i. This prohibition took place during initial period of the Prophet to preserve Qur’aan from mixing and keep them focussed
 > 	- ii. This prohibition to record hadeeth was abrogated later
-> 	- iii. Some of the senior companions like Abu Bakr (Saheefah Abu Bakr), Abu hoorayrah recorded Hadeeth
+> 	- iii. Some of the senior companions like Abu Bakr (Saheefah Abu Bakr), Abu Hoorayrah recorded Hadeeth
 > 	- iv. Prophet asked some of his companions to write for a person who asked Prophet’s statement in the recorded fomat
 > 	- v. Not all members of that early community were illiterate
 > 	- vi. there existed some tools enabling written recording

@@ -411,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -479,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,7 +496,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -508,7 +508,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md"
               }
             }
           },
@@ -575,8 +575,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6503f0474b53675",
+  "active": "9112a5abb8dcebb8",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
@@ -602,7 +603,6 @@
     "🗃️ Unorganized/General Notes/Systems and Protocols.md",
     "🗃️ Unorganized/General Notes/Mersenne-Twister.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Duplexing.md",
-    "🔮 World Building/Science and Engineering/Engineering/Electronics Manufacturing/Integrated Circuit Packaging Types.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",

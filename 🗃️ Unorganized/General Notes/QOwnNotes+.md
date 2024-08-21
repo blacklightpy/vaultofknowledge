@@ -31,3 +31,5 @@
 - Organization of Information
 	- Organize each section according to how much someone can digest at a glance
 	- Don't add too many points under one point in an overview
+	- Don't add too many subheadings (use a maximum of 3 levels of headings: H1-H3 or H2-H4)
+	- If you need additional subsections, use overviews and bold styling
