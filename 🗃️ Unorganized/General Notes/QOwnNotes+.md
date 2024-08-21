@@ -27,3 +27,7 @@
 	- When rich people face the slightest inconvenience, they throw tantrums
 	- Taylor Swift calls herself a tortured poet despite there not being a perceptible scratch to her body or soul
 	- This is similar to how American teens think they live under tyranny, not because of the homelessness, but because of the taxes
+
+- Organization of Information
+	- Organize each section according to how much someone can digest at a glance
+	- Don't add too many points under one point in an overview

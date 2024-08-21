@@ -1,7 +1,10 @@
 - Muslims say that Islam is not the "religion of peace", when questioned about offensive Jihad: https://old.reddit.com/r/islam/comments/1dsr0wz/is_islam_the_religion_of_peace/
 	- Romans were attacked because they killed an emissary.
 		- Sources
-			- https://muslimgirl.com/battle-of-muta/ (Stupid: Treaty of al-Hudaibiyya was not in this context)
+			- 1. https://muslimgirl.com/battle-of-muta/ (Stupid: Treaty of al-Hudaibiyya was not in this context)
+			- 2. https://www.islamicfinder.org/knowledge/islam-and-sunnah/battle-of-mutah-ghazwah-mutah/ (Killed many Byzantines, but didn't avenge al-Harith)
+				- Allah knows how many unbelievers Khalid (R.A.) wounded and killed while breaking nine swords. (Referring to opponents as unbelievers rather than "aggressors")
+			- 3. 
 	- Jihad
 		- [1](https://islamqa.info/en/34647),  [2](https://islamqa.info/en/27180) (IslamQA.Info)
 
