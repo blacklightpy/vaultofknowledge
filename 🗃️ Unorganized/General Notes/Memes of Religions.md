@@ -26,20 +26,21 @@
 
 # To Classify
 - Vedic Hinduism
-	- Yoga (Union with Nature)
-	- Nyaya (Principles of Reality)
-	- Vaisheshika (Particulate Nature of Reality)
-	- Mimamsa / Purva Mimasa / Karma Mimamsa (Reflection / Reflection on Early (Vedic Texts) / Reflection on Actions)
-	- Uttara Mimasa / Vedanta (Reflection on Later (Vedic Texts) / Summary of Vedas)
-		- Advaita Vedanta (Monistic Summary of Vedas)
-		- Bheda-Abheda Vedanta (Summary of Vedas with a Difference and Non-Difference)
-		- Dvaita Advaita Vedanta
-		- Vishishta Advaita Vedanta (Special (Nuanced) Monistic Summary of Vedas)
-		- Dvaita Vedanta (Dualistic Summary of Vedas)
-		- Suddha Advaita Vedanta (Pure Monistic Summary of Vedas)
-		- Achintya-Bheda-Abheda Vedanta (Inconcievable )
-		- Akshar-Purushottam Darshan (Descriptive and Supreme Perspective)
-		- Modern Vedanta / Greater Advaita Vedanta
+	- Sankhya Darshana (Digital Perspective)
+	- Yoga Darshana (The Perspective of Union with Nature)
+	- Nyaya Darshana (The Perspective of Principles of Reality)
+	- Vaisheshika Darshana (The Perspective of the Nature of Reality as being Particulate)
+	- Mimamsa Darshana / Purva Mimasa Darshana / Karma Mimamsa Darshana (The Perspective of Reflection / The Perspective of Reflection on Early (Vedic Texts) / The Perspective of Reflection on Actions)
+	- Uttara Mimasa Darshana / Vedanta Darshana (The Perspective of Reflection on Later (Vedic Texts) / The Perspective of following the Summary of Vedas)
+		- Advaita Vedanta Darshana (The Perspective of following the Monistic Summary of Vedas)
+		- Bheda-Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits a Difference and Non-Difference)
+		- Dvaita Advaita Vedanta Darshana ()
+		- Vishishta Advaita Vedanta Darshana (The Perspective of following the Special (Nuanced) Monistic Summary of Vedas)
+		- Dvaita Vedanta Darshana (The Perspective of following the Dualistic Summary of Vedas)
+		- Suddha Advaita Vedanta Darshana (The Perspective of following the Pure Monistic Summary of Vedas)
+		- Achintya-Bheda-Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits an Inconceivable Difference and Non-Difference)
+		- Akshar-Purushottam Darshan of Vishista Advaita Vedanta Darshana (The Perspective of Descriptive and Supreme (Forms of Godliness) of the Special (Nuanced) Monistic Summary of Vedas)
+		- Modern Vedanta Darshana / Greater Advaita Vedanta Darshana (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)
 - Non-Vedic Hinduism
 	- Buddhism
 		- Thera Vaada Budhism (Teaching of Elders) (Atheism)
