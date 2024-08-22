@@ -1,0 +1,1 @@
+Pagefiles / Swap refers to the Virtual Memory that's stored on the secondary storage.
