@@ -44,9 +44,9 @@ I first copy-pasted it verbatim, and made some minor modifications:
 - 7. PROTECT2 / PROTECT_S
 	- Backup SIM LOCK
 - 8. PGPT
-	- Partition Management Table, compared with MBR
+	- Primary GUID Partition Table, compared with MBR
 - 9. SGPT
-	- Backup of PGPT
+	- Secondary (Backup) GUID Partition Table
 - 10-11. OEMKEYSTORE, KEYSTORE
 	- Image Authentication Key for Verified Boot (VB), not used yet
 - 12. TEE1

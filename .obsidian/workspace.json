@@ -411,7 +411,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -478,7 +478,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +495,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -507,7 +507,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md"
               }
             }
           },
@@ -574,8 +574,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "20c98c9089478e48",
+  "active": "25b7b048e23c323e",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
@@ -585,7 +586,6 @@
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
     "_images/Usool al-Hadeeth - Two Kinds of Conflict.jpg",
     "_images/Usool al-Hadeeth - Conclusion.jpg",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "_images/Usool Al Hadeeth - Two Kinds of Conflict.jpg",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
