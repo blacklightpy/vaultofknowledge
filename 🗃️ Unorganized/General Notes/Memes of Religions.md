@@ -26,11 +26,11 @@
 
 # To Classify
 - Vedic Hinduism
-	- Yoga
-	- Nyaya
-	- Vaisheshika
-	- Mimamsa or Purva Mimasa or Karma Mimamsa (Reflection or Reflection on Past (Vedic Texts) or Reflection on Actions)
-	- Uttara Mimasa / Vedanta (Later Reflection / Summary of Vedas)
+	- Yoga (Union)
+	- Nyaya (World Order)
+	- Vaisheshika (Particulate Nature)
+	- Mimamsa / Purva Mimasa / Karma Mimamsa (Reflection / Reflection on Early (Vedic Texts) / Reflection on Actions)
+	- Uttara Mimasa / Vedanta (Reflection on Later (Vedic Texts) / Summary of Vedas)
 		- Advaita Vedanta (Monistic Summary of Vedas)
 		- Dvaita Vedanta (Dualistic Summary of Vedas)
 		- Suddha Advaita Vedanta (Pure Monistic Summary of Vedas)
