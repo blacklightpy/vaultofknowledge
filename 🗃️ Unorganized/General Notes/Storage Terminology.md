@@ -7,13 +7,15 @@
 - Abstract Concepts
 # Devices
 ## HDD Anatomy
+- Spindle Motor (The motor that spins the spindle)
 - Spindle (The shaft that spins the platters)
 - Platters (Double sided magnetic disk that store data)
-- Arms (Used to position the Head at the right track)
-- Head (The end of the Arm that Reads and Writes)
+- Surface (One side of a platter)
+- Actuator Arm / Access Arm / Arm (Used to position the Heads at the right track)
+- Head (The ends of the Arm that Reads and Writes to each surface)
 # Storage Areas
 ## HDD Physical Storage Areas
-- Platter (Each platter stores multiple physical units of data)
+- Platter (Each platter has two surfaces which store multiple physical units of data)
 - Tracks (Each disk has many tracks that store multiple physical units of data)
 - Sectors (Each track has many sectors that each hold a single physical unit of data)
 	- Sectors used to be 512B, but all modern disks use 4KB sectors due to aerial density issues
@@ -21,6 +23,10 @@
 - Allocation Unit (Combinations of sectors that hold a single logical unit of data as understood by the File System)
 	- Known as Clusters in MS-DOS FAT and NTFS
 	- Known as Blocks in Linux File Systems
+# Storage Mechanism
+## HDD Magnetic Storage
+## SSD Flash Storage
+
 # Addressing Schemes
 ## Cylinder-Head-Sector (CHS) Addressing
 - Cluster (Windows) / Block (Linux) / Allocation Unit (Neutral)
