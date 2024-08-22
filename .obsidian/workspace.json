@@ -422,9 +422,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b30a07558ded6110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -491,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -508,7 +521,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -520,7 +533,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md"
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
               }
             }
           },
@@ -587,8 +600,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e93450f2af8eb81",
+  "active": "b30a07558ded6110",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Judaism.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
@@ -619,8 +634,6 @@
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
     "🗃️ Unorganized/General Notes/Application Binary Interface.md",
     "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
-    "🗃️ Unorganized/General Notes/Cold Welding.md",
-    "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
