@@ -34,7 +34,7 @@
 	- Uttara Mimasa Darshana / Vedanta Darshana (The Perspective of Reflection on Later (Vedic Texts) / The Perspective of following the Summary of Vedas)
 		- Advaita Vedanta Darshana (The Perspective of following the Monistic Summary of Vedas)
 		- Bheda-Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits a Difference and Non-Difference)
-		- Dvaita Advaita Vedanta Darshana ()
+		- Dvaita-Advaita Bedha-Abheda Vedanta Darshana / Svabhavika Bedha Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits a Panentheistic Difference and Non-Difference / The Perspective of following the Summary of Vedas that posits an Innate Difference and Non-Difference)
 		- Vishishta Advaita Vedanta Darshana (The Perspective of following the Special (Nuanced) Monistic Summary of Vedas)
 		- Dvaita Vedanta Darshana (The Perspective of following the Dualistic Summary of Vedas)
 		- Suddha Advaita Vedanta Darshana (The Perspective of following the Pure Monistic Summary of Vedas)

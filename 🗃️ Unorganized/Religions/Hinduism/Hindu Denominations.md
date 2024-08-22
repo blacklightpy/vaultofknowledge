@@ -105,27 +105,27 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- It is like the opposite of Sankhya school of thought
 		- It sees the world as a manifestation of Brahman
 	- Types
-		- 6.1. Bheda-Abheda Vedanta (difference and non-difference) (9th century)
-			- 6.1.1. Dvaitadvaita Vedanta (Around Shankara and Ramanuja)
-		- 6.2. Advaita Vedanta (8th century)
+		- 6.1. Advaita Vedanta (8th century, by Shankara Acharya)
+		- 6.2. Bheda-Abheda Vedanta (difference and non-difference) (9th century, by Bhaskara Acharya)
+			- 6.2.1. Dvaitadvaita Vedanta (Around Shankara and Ramanuja, by Nimbarka Acharya)
 		- 6.3. Vishishtadvaita Vedanta (11th century)
-			- 6.3.1. Akshar-Purushottam (18th century)
-		- 6.4. Dvaita Vedanta (13th century)
-		- 6.5. Shuddhadvaita Vedanta (15th century)
+			- 6.3.1. Akshar-Purushottam (18th century, by Ramanuja Acharya)
+		- 6.4. Dvaita Vedanta (13th century, by Madhava Acharya)
+		- 6.5. Shuddhadvaita Vedanta (15th century, by Vallabha Acharya)
 		- 6.6. Achintya-Bheda-Abheda Vedanta (15th century)
 		- 6.7. Modern Vedanta / Greater Advaita Vedanta (19th century)
 
-- 6.1. Bheda Abheda Vedanta (Difference and Oneness)
+- 6.1. Advaita Vedanta (Monistic)
+	- By Shankaracharya
+- 6.2. Bheda Abheda Vedanta (Difference and Oneness)
 	- By Bhaskaracharya
 	- Individual self is both different and not different from Brahman
 	- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more
 	- **Sub-denominations:**
-		- 6.1.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Natural Difference and Oneness)
+		- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Natural Difference and Oneness)
 			- By Nimbarkacharya
 			- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
 			- Both Oneness and Difference are equal characteristics
-- 6.2. Advaita Vedanta (Monistic)
-	- By Shankaracharya
 - 6.3. Vishishta Advaita Vedanta
 	- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
 	- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
