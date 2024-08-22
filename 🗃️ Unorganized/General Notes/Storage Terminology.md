@@ -19,10 +19,13 @@
 - Tracks (Each disk has many tracks that store multiple physical units of data)
 - Sectors (Each track has many sectors that each hold a single physical unit of data)
 	- Sectors used to be 512B, but all modern disks use 4KB sectors due to aerial density issues
+## SSD Physical Storage Areas
 ## Logical Storage Areas
 - Allocation Unit (Combinations of sectors that hold a single logical unit of data as understood by the File System)
 	- Known as Clusters in MS-DOS FAT and NTFS
 	- Known as Blocks in Linux File Systems
+- Pages
+	- They are groups of allocation units by which an OS reads or writes in one go
 # Storage Mechanism
 ## HDD Magnetic Storage
 
