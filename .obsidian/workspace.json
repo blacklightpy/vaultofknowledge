@@ -409,9 +409,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e93450f2af8eb81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -478,7 +491,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +508,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -507,7 +520,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md"
               }
             }
           },
@@ -574,8 +587,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "25b7b048e23c323e",
+  "active": "6e93450f2af8eb81",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
@@ -597,7 +611,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/Islamic Scholars.md",
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Infinite Impulse Response Filters.md",
     "🗃️ Unorganized/General Notes/Problems with glibc.md",
