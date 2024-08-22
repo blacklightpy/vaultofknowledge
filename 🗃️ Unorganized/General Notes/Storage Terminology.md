@@ -1,15 +1,17 @@
-
-# Terms to define
-HDD Anatomy
-HDD Storage Areas
-SSD Storage Areas
-Abstract Concepts
-
+# Plan of Study
+- Devices
+	- HDD Anatomy
+- Physical Storage Areas
+	- HDD Storage Areas
+	- SSD Storage Areas
+- Abstract Concepts
+# Devices
 ## HDD Anatomy
 - Spindle (The shaft that spins the platters)
 - Platters (Double sided magnetic disk that store data)
 - Arms (Used to position the Head at the right track)
 - Head (The end of the Arm that Reads and Writes)
+# Storage Areas
 ## HDD Physical Storage Areas
 - Platter (Each platter stores multiple physical units of data)
 - Tracks (Each disk has many tracks that store multiple physical units of data)
