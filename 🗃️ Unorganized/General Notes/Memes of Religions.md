@@ -26,9 +26,9 @@
 
 # To Classify
 - Vedic Hinduism
-	- Yoga (Union)
-	- Nyaya (World Order)
-	- Vaisheshika (Particulate Nature)
+	- Yoga (Union with Nature)
+	- Nyaya (Principles of Reality)
+	- Vaisheshika (Particulate Nature of Reality)
 	- Mimamsa / Purva Mimasa / Karma Mimamsa (Reflection / Reflection on Early (Vedic Texts) / Reflection on Actions)
 	- Uttara Mimasa / Vedanta (Reflection on Later (Vedic Texts) / Summary of Vedas)
 		- Advaita Vedanta (Monistic Summary of Vedas)

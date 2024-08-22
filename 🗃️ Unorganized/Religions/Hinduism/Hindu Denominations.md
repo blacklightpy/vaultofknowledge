@@ -83,20 +83,19 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Furthermore, there is no proof of the existence of God. He is not the object of perception, there exists no general proposition that can prove him by inference and the testimony of the Vedas speak of Prakriti as the origin of the world, not God.
 	- Therefore, Sankhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
 
-- 2. Yoga (Connection)
+- 2. Yoga (Connection with Reality)
 	- It is based on the Sankhya school of thought
 	- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
 	- Books
 		- It is mainly based on the Yoga Sutras of Patanjali
 		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
 
-- 3. Nyaya ()
+- 3. Nyaya (Principles of Reality)
 	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyaksha (Perception), Anumāṇa (Logical Inference), Upamāṇa (Comparison and Analogy) and Shabda (Verbal Testimony).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
 	- It postulates Asat-Karya-Vada (Theory of Non-Existent Effect)
-- 4. Vaisheshika
-	- Naturalism
+- 4. Vaisheshika (Particulate Nature)
 	- It postulated that everything is made of atoms
 
 - 5. Mimamsa / Purva Mimamsa
@@ -106,12 +105,12 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- It is like the opposite of Sankhya school of thought
 		- It sees the world as a manifestation of Brahman
 	- Types
-		- 6.1. Bheda-Abheda Vedanta (difference and non-difference)
-			- 6.1.1. Dvaitadvaita Vedanta
-		- 6.2. Advaita Vedanta
-		- 6.3. Vishishtadvaita Vedanta
-			- 6.3.1. Akshar-Purushottam
-		- 6.4. Dvaita Vedanta
+		- 6.1. Bheda-Abheda Vedanta (difference and non-difference) (9th century)
+			- 6.1.1. Dvaitadvaita Vedanta (Around Shankara and Ramanuja)
+		- 6.2. Advaita Vedanta (8th century)
+		- 6.3. Vishishtadvaita Vedanta (11th century)
+			- 6.3.1. Akshar-Purushottam (18th century)
+		- 6.4. Dvaita Vedanta (13th Century)
 		- 6.5. Shuddhadvaita Vedanta
 		- 6.6. Achintya-Bheda-Abheda Vedanta
 		- 6.7. Modern Vedanta
