@@ -32,11 +32,14 @@
 	- Mimamsa / Purva Mimasa / Karma Mimamsa (Reflection / Reflection on Early (Vedic Texts) / Reflection on Actions)
 	- Uttara Mimasa / Vedanta (Reflection on Later (Vedic Texts) / Summary of Vedas)
 		- Advaita Vedanta (Monistic Summary of Vedas)
+		- Bheda-Abheda Vedanta (Summary of Vedas with a Difference and Non-Difference)
+		- Dvaita Advaita Vedanta
+		- Vishishta Advaita Vedanta (Special (Nuanced) Monistic Summary of Vedas)
 		- Dvaita Vedanta (Dualistic Summary of Vedas)
 		- Suddha Advaita Vedanta (Pure Monistic Summary of Vedas)
-		- Vishishta Advaita Vedanta (Special (Nuanced) Monistic Summary of Vedas)
-		- 
-		- ...
+		- Achintya-Bheda-Abheda Vedanta (Inconcievable )
+		- Akshar-Purushottam Darshan (Descriptive and Supreme Perspective)
+		- Modern Vedanta / Greater Advaita Vedanta
 - Non-Vedic Hinduism
 	- Buddhism
 		- Thera Vaada Budhism (Teaching of Elders) (Atheism)
@@ -45,4 +48,12 @@
 		- Vajra Yaana Buddhism (Powerful Vehicle) (Apatheism)
 	- Jainism
 - Sikhism
-
+	- 6.2. Advaita Vedanta (8th century)
+	- 6.1. Bheda-Abheda Vedanta (difference and non-difference) (9th century)
+		- 6.1.1. Dvaitadvaita Vedanta (Around Shankara and Ramanuja)
+	- 6.3. Vishishtadvaita Vedanta (11th century)
+		- 6.3.1. Akshar-Purushottam (18th century)
+	- 6.4. Dvaita Vedanta (13th century)
+	- 6.5. Shuddhadvaita Vedanta (15th century)
+	- 6.6. Achintya-Bheda-Abheda Vedanta (15th century)
+	- 6.7. Modern Vedanta / Greater Advaita Vedanta (19th century)

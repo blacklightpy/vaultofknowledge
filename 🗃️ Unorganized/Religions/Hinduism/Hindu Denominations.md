@@ -110,10 +110,10 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- 6.2. Advaita Vedanta (8th century)
 		- 6.3. Vishishtadvaita Vedanta (11th century)
 			- 6.3.1. Akshar-Purushottam (18th century)
-		- 6.4. Dvaita Vedanta (13th Century)
-		- 6.5. Shuddhadvaita Vedanta
-		- 6.6. Achintya-Bheda-Abheda Vedanta
-		- 6.7. Modern Vedanta
+		- 6.4. Dvaita Vedanta (13th century)
+		- 6.5. Shuddhadvaita Vedanta (15th century)
+		- 6.6. Achintya-Bheda-Abheda Vedanta (15th century)
+		- 6.7. Modern Vedanta / Greater Advaita Vedanta (19th century)
 
 - 6.1. Bheda Abheda Vedanta (Difference and Oneness)
 	- By Bhaskaracharya
