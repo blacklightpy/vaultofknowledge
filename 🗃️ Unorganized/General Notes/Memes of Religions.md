@@ -29,17 +29,20 @@
 	- Yoga
 	- Nyaya
 	- Vaisheshika
-	- Mimamsa
-	- Uttara Mimasa / Vedanta
-		- Advaita Vedanta
-		- Dvaita Vedanta
+	- Mimamsa or Purva Mimasa or Karma Mimamsa (Reflection or Reflection on Past (Vedic Texts) or Reflection on Actions)
+	- Uttara Mimasa / Vedanta (Later Reflection / Summary of Vedas)
+		- Advaita Vedanta (Monistic Summary of Vedas)
+		- Dvaita Vedanta (Dualistic Summary of Vedas)
+		- Suddha Advaita Vedanta (Pure Monistic Summary of Vedas)
+		- Vishishta Advaita Vedanta (Special (Nuanced) Monistic Summary of Vedas)
+		- 
 		- ...
 - Non-Vedic Hinduism
 	- Buddhism
-		- Thera Vaada Budhism (Atheism)
-		- Maha Yaana Buddhism (Apatheism)
-			- Zen
-		- Vajra Yaana Buddhism
+		- Thera Vaada Budhism (Teaching of Elders) (Atheism)
+		- Maha Yaana Buddhism (The Great Vehicle) (Apatheism)
+			- Zen (Happy Go Lucky)
+		- Vajra Yaana Buddhism (Powerful Vehicle) (Apatheism)
 	- Jainism
 - Sikhism
 
