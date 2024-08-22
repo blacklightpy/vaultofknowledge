@@ -25,8 +25,10 @@
 	- Known as Blocks in Linux File Systems
 # Storage Mechanism
 ## HDD Magnetic Storage
-## SSD Flash Storage
 
+## SSD Flash Storage
+![[SSD Flash Storage.webp]]
+## Experimental Magnetoresistive RAM (MRAM)
 # Addressing Schemes
 ## Cylinder-Head-Sector (CHS) Addressing
 - Cluster (Windows) / Block (Linux) / Allocation Unit (Neutral)
