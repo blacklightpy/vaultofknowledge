@@ -28,8 +28,10 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- It views **Purusha** (Witness Consciousness) as the centres of consciousness, and the universe as consisting of both **Purusha** and **Prakriti**
 		- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
 	- **Differences with Dualism**
-		- Western [[Dualism]] focuses on the difference between "mind" and "matter"
+		- Western [[Dualism]] focuses on the difference between "mind" and "body"
 		- Sankhya Darshana focuses on the difference between "witness consciousness" and "nature of being" - that includes outside nature and one's feelings and sensations
+		- The main difference being, "mind" in Dualism considers the mind of an individual person, but "witness consciousness" in Sankhya considers only one observer to the entire world, and
+		- This is closer to the idea of "Brain in a Vat", except without a physical Brain or Vat.
 	- **Metaphysics**
 		- **Purusa** is part of **Prakriti**
 		- Purusa is bound to Prakriti by **Jiva**
