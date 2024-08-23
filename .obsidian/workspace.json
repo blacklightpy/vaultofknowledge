@@ -469,9 +469,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "937bf786e8780a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -517,7 +530,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -538,7 +552,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -555,7 +569,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -567,7 +581,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md"
               }
             }
           },
@@ -634,8 +648,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6503f0474b53675",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
@@ -661,7 +677,6 @@
     "_images/Usool al-Hadeeth - Conclusion.jpg",
     "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "_images/Usool Al Hadeeth - Two Kinds of Conflict.jpg",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
@@ -669,7 +684,6 @@
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/Islamic Scholars.md",
-    "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "_images/adfsdfads.jpg",
