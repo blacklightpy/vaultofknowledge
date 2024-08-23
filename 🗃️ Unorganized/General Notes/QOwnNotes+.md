@@ -49,7 +49,14 @@
 - Eliminating Self-Control and Choosing to Channel Energy
 	- I wouldn't want to be controlling my "urge to rape someone", should I?
 	- But at the same time, it's a good thing to do, if you do not have a better idea
-	- 
+	- For this reason, I think it's better to destroy traditions, and solve the problem
+	- It is only because sex is considered taboo that any complete solutions do not emerge
+	- Unlike other evil actions, here, everyone wants to do it, but also criticize it
+	- But I understand why this is, because sex has several effects on people and society
+	- Because of this, those who take the leap to engage in it end up being criticized for it
+	- Under this new philosophical framework, sex will not be considered a taboo
+	- And at the same time, sexual assault will become an invalid action
+	- In this way, sex will also stop being a taboo topic
 
 - The consideration of God ("What Will God Think?")
 	- One of the main principles I believe in is that, if I am wrong, and the traditional ideas of God is right, then I must be able to justify my choices before God, and if he disagrees, I must be willing to accept the punishment for it. But if I am wrong, he will be able to prove to me why I am wrong. And as that is my stance, I have grounded my ideas on an inclination towards the absolute truth, and secondarily, harmony. And as of now, he hasn't proven to me why I am wrong. But no human should be able to arbitrarily judge me, because as a person who follows the truth, and has also had a wide variety of experiences, I am usually able to see through the arbitrary cultural influences and thusly formed agendas in many people's opinions. So, I do not feel bad when people of religious traditions criticize my perspectives simply based on their religions, because I have thought this through a lot. However, I do very well welcome criticism that is based on logic, in case you can disprove my views. As for judgement, only God has the authority to judge.
