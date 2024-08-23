@@ -51,6 +51,7 @@
 	- But at the same time, it's a good thing to do, if you do not have a better idea
 
 - The consideration of God
+	- One of the main principles I believe in is that, if I am wrong, and the traditional ideas of God is right, then I must be able to justify my choices before God, and if he disagrees, I must be willing to accept the punishment for it. But if I am wrong, he will be able to prove to me why I am wrong. And as that is my stance, I have grounded my ideas on an inclination to the absolute truth, and secondarily, harmony. And as of now, he hasn't proven to me why I am wrong. But no human should be able to arbitrarily judge me, because as a person who follows the truth, and has also had a wide variety of experiences, I am usually able to see through the arbitrary cultural influences and thusly formed agendas in many people's opinions. So, I am not 
 	- HIV
 		- This is used as an argument to point out extramarital relationships are immoral
 		- I think the presence of HIV has a lot to do with lack of hygiene, and character
@@ -60,7 +61,7 @@
 		- One must have self discipline, but not to the levels of stressing oneself arbitrarily
 		- One must be self-aware, and should use condoms before having casual sex
 		- One must be familiar with the conditions of human nature, and get tested for HIV
-		- This is not very different from maintaining hygiene and protecting oneself from 
+		- This is not very different from maintaining hygiene and safety from generic health hazards
 	- The story of the Tower of Babel
 		- I think a problem lay clearly in the level of maturity of the people at the time
 		- They thought God was in the sky, and tried to build a large building to overpower him
