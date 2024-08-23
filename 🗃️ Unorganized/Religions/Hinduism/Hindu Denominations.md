@@ -117,7 +117,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 
 - 6.1. Advaita Vedanta (Monistic)
 	- By Shankaracharya
-	- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Only Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
+	- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Essential Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
 - 6.2. Bheda Abheda Vedanta (Difference and Oneness)
 	- By Bhaskaracharya
 	- Individual self is both different and not different from Brahman
@@ -168,7 +168,7 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 - 1. Buddhism
 - 2. Jainism
 	- **Sects**
-		- 1. Shvetambara (White Clad), by Mahavira
+		- 1. Shvetambara (White Clad), founded by Rishabhanata, historically traced back to Parshvanata, revived by Mahavira
 		- 2. Digambara (Sky Clad / Naked), by Sivabhuti
 			- **Rules**
 				- They are a very simply list
