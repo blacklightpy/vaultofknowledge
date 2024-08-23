@@ -59,10 +59,14 @@
 	- Granted, that also comes with the patriarchal idea that "women are intellectually inferior"
 	- And the aforementioned women who have enjoyed harmonious relationships will back these claims too
 	- So, the traditional society is designed to ensure that any criticism will be seen as outrageous
-	- What this results in is a state of existence where clear solutions exist, but people are so insecure to 
+	- What this results in is a state of existence where clear solutions exist, but everyone is afraid to point it out
 	- INSERT MEME: Thomas (The Tank Engine) has never seen such bullshit before
-
-	- I wouldn't want to be controlling my "urge to rape someone", should I?
+	- To all this, I say, to hell with it
+	- Let's consider the way in which people deal with the problem of rape today
+	- People say that rape happens because men don't control themselves
+	- (That is in addition to the stupid opinion that it is because women dress immodestly)
+	- (Because women)
+	- But I wouldn't want to be controlling my "urge to rape someone", should I?
 	- But at the same time, it's a good thing to do, if you do not have a better idea
 	- For this reason, I think it's better to destroy traditions, and solve the problem
 	- It is only because sex is considered taboo that any complete solutions do not emerge
