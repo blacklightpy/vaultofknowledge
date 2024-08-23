@@ -22,11 +22,17 @@
 - There is "**No God**", and "**Reality**" simply consists of two "**Eternal**" things - a "**Witness Consciousness**" and a "**Physical World**", where "**You**" are the "**Eternal**" and "**Formless**" "**Witness Consciousness**" "**Trapped**" in the "**Temporary**" "**Cyclic Worldly Existence**" that takes place in the "**Eternal**" "**Physical World**" which **Continually Evolves**" its "**State**" through the "**Cycle of Life**" just for the sake of "**Your**" "**Mental Evolution**", due to your "**Misunderstanding**" of "**Reality**" that acts as a "**Veil**" to your complete "**Realization**" and makes you think that "**You**" are a part of this "**Cyclic Worldly Existence**", when in reality "**You**" are only a "**Witness Consciousness**" that is "**Separate**" from the "**Physical World**", and when you realize that, the "**Physical World**" will "**Cease**" to "**Evolve**" "**Further**" for "**You**" and you will be free. (==Sankhya Darshana of Vedic Hinduism / Digital Perspective of the Indians following the Vedas==)
 - "**Existence**" is a "**Random Occurrence**" with "**No Guarantee**" on "**Non-Existent Concepts**" such as "**Justice**" (==Classical Nihilism==)
 
+Indian Belief
+They say they have different perspectives
+Some have different perspectives based on Vedas
+Others have free perspectives
+These are perspectives of the Indians.
+
 # To Classify
-- ==Vedic Hinduism (The Beliefs of Indians following the Vedas)==
-	- ==Sankhya Darshana (Digital Perspective)==
-	- ==Yoga Darshana (The Perspective of Seeking Connection with Nature)==
-	- ==Nyaya Darshana (The Perspective of Understanding the Principles of Reality)==
+- ==Vedic Hinduism (The Beliefs of Indians who follow the Vedas)==
+	- ==Sankhya Darshana (Digital Perspective of Vedas according to Indians)==
+	- ==Yoga Darshana (The Perspective of Seeking Connection with Nature of Indians who follow the Vedas)==
+	- ==Nyaya Darshana (The Perspective of Understanding the Principles of Reality of Indians who follow the Vedas)==
 	- ==Vaisheshika Darshana (The Perspective of the Nature of Reality as being Particulate)==
 	- ==Mimamsa Darshana / Purva Mimasa Darshana / Karma Mimamsa Darshana (The Perspective of Reflection / The Perspective of Reflection on Early (Vedic Texts) / The Perspective of Reflection on Actions)==
 	- ==Uttara Mimasa Darshana / Vedanta Darshana (The Perspective of Reflection on Later (Vedic Texts) / The Perspective of following the Summary of Vedas)==
