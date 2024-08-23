@@ -20,5 +20,6 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "🗃️ Unorganized/General Notes",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showRibbon": false
 }
