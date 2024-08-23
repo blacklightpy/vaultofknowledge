@@ -63,9 +63,9 @@
 - A slave woman should not dress like a free woman (Muwatta Malik) (also atheism-vs-islam page)
 - Slave women have no concept of Awrah
 
-See 6:153 again (forgot)
-4:25
-5:5
+- See 6:153 again (forgot)
+- 4:25
+- 5:5
 
 - Strike those who shave the middle of their heads (monks)
 

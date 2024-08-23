@@ -450,7 +450,7 @@
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -517,7 +517,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -534,7 +534,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -546,7 +546,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -613,10 +613,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b30a07558ded6110",
+  "active": "78659c8e5935ac1c",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Virtual Memory.md",
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
