@@ -64,8 +64,11 @@
 	- To all this, I say, to hell with it
 	- Let's consider the way in which people deal with the problem of rape today
 	- People say that rape happens because men don't control themselves
-	- (That is in addition to the stupid opinion that it is because women dress immodestly)
-	- (Because women)
+		- (That is in addition to the stupid opinion that it is because women dress immodestly)
+		- (Because women get raped regardless of what they wear, and no good man would rape)
+		- (That is, rape happens not because of lust, but because of the inability to satisfy it by watching porn)
+		- (This in turn is because the culture views having a girl or wife as what gives value of a man)
+		- (What women dressing immodestly according to cultural norms does is just disturb men)
 	- But I wouldn't want to be controlling my "urge to rape someone", should I?
 	- But at the same time, it's a good thing to do, if you do not have a better idea
 	- For this reason, I think it's better to destroy traditions, and solve the problem
