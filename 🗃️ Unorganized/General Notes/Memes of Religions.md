@@ -73,7 +73,11 @@ Then I tried:
 	- "Hinduism" (A Western Grouping that literally means the "Beliefs of Indians EXCLUDING Muslims, Christians, Jews and Parsis") and
 	- "Perspectives of Indians" (The True Classification)
 
-To fix this
+To fix this, I realized I had to consider Indian Muslims as Hindus. Then, I had to break down the term into the concept, and translate it accordingly.
+
+e.g. "Digital Perspective of Indians who follow the Vedas" and "The Perspective of Seeking Connection with Nature according to Indians who follow the Vedas"
+
+(It's called "Indians who" rather than those "who" because I'm sticking to a literal translation rather than an ideological one).
 ## How The Westerners Probably Defined
 - Westerners: "These are "Indian Beliefs""
 - Westerners: "They say they have different perspectives"
@@ -105,28 +109,28 @@ Some follow Judaism
 Some are just crazy (Polytheism, Atheism, Strange Rituals)
 
 - ==Vedic Hinduism (The Beliefs of Indians who follow the Vedas)==
-	- ==Sankhya Darshana (Digital Perspective of Vedas according to Indians)==
-	- ==Yoga Darshana (The Perspective of Seeking Connection with Nature of Indians who follow the Vedas)==
-	- ==Nyaya Darshana (The Perspective of Understanding the Principles of Reality of Indians who follow the Vedas)==
-	- ==Vaisheshika Darshana (The Perspective of the Nature of Reality as being Particulate)==
-	- ==Mimamsa Darshana / Purva Mimasa Darshana / Karma Mimamsa Darshana (The Perspective of Reflection / The Perspective of Reflection on Early (Vedic Texts) / The Perspective of Reflection on Actions)==
-	- ==Uttara Mimasa Darshana / Vedanta Darshana (The Perspective of Reflection on Later (Vedic Texts) / The Perspective of following the Summary of Vedas)==
-		- ==Advaita Vedanta Darshana (The Perspective of following the Monistic Summary of Vedas)==, which was also called ==Advaita-Vaada (Proposition of Non-Dualism)==, ==Abheda Darshana (Perspective of Non-Difference)==, ==Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism)==, ==Kevala-Advaita (Essential Non-Dualism)== and ==Maya-Vaada (The Proposition that Reality is an Illusion)==
-		- ==Bheda-Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits a Difference and Non-Difference)==
-		- ==Dvaita-Advaita Bedha-Abheda Vedanta Darshana / Svabhavika Bedha Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits a Panentheistic Difference and Non-Difference / The Perspective of following the Summary of Vedas that posits an Innate Difference and Non-Difference)==
-		- ==Vishishta Advaita Vedanta Darshana (The Perspective of following the Special (Nuanced) Monistic Summary of Vedas)==
-		- ==Dvaita Vedanta Darshana (The Perspective of following the Dualistic Summary of Vedas)==
-		- ==Suddha Advaita Vedanta Darshana (The Perspective of following the Pure Monistic Summary of Vedas)==
-		- ==Achintya-Bheda-Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits an Inconceivable Difference and Non-Difference)==
-		- ==Akshar-Purushottam Darshan of Vishista Advaita Vedanta Darshana (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Vedas)==
-		- ==Modern Vedanta Darshana / Greater Advaita Vedanta Darshana (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)==
+	- ==Sankhya Darshana of Vedic Hinduism (Digital Perspective of Indians who follow the Vedas)==
+	- ==Yoga Darshana of Vedic Hinduism (The Perspective of Seeking Connection with Nature of Indians who follow the Vedas)==
+	- ==Nyaya Darshana of Vedic Hinduism (The Perspective of Understanding the Principles of Reality of Indians who follow the Vedas)==
+	- ==Vaisheshika Darshana of Vedic Hinduism (The Perspective of the Nature of Reality as being Particulate)==
+	- ==Mimamsa Darshana of Vedic Hinduism / Purva Mimasa Darshana of Vedic Hinduism / Karma Mimamsa Darshana of Vedic Hinduism (The Perspective of Reflection / The Perspective of Reflection on Early (Vedic Texts) / The Perspective of Reflection on Actions)==
+	- ==Uttara Mimasa Darshana of Vedic Hinduism / Vedanta Darshana of Vedic Hinduism (The Perspective of Reflection on Later (Vedic Texts) / The Perspective of following the Summary of Vedas)==
+		- ==Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Monistic Summary of Vedas)==, which was also called ==Advaita-Vaada (Proposition of Non-Dualism)==, ==Abheda Darshana (Perspective of Non-Difference)==, ==Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism)==, ==Kevala-Advaita (Essential Non-Dualism)== and ==Maya-Vaada (The Proposition that Reality is an Illusion)==
+		- ==Bheda-Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Vedas that posits a Difference and Non-Difference)==
+		- ==Dvaita-Advaita Bedha-Abheda Vedanta Darshana of Vedic Hinduism / Svabhavika Bedha Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Vedas that posits a Panentheistic Difference and Non-Difference / The Perspective of following the Summary of Vedas that posits an Innate Difference and Non-Difference)==
+		- ==Vishishta Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Special (Nuanced) Monistic Summary of Vedas)==
+		- ==Dvaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Dualistic Summary of Vedas)==
+		- ==Suddha Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Pure Monistic Summary of Vedas)==
+		- ==Achintya-Bheda-Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Vedas that posits an Inconceivable Difference and Non-Difference)==
+		- ==Akshar-Purushottam Darshan of Vishista Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Vedas)==
+		- ==Modern Vedanta Darshana of Vedic Hinduism / Greater Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)==
 - Non-Vedic Hinduism
-	- Buddhism
-		- ==Thera Vaada Budhism (Proposition of Following the Ways of the Elders)== (Atheism)
+	- ==Buddhist Darshana==
+		- ==Thera Vaada Buddhist Darshana (Proposition of Following the Ways of the Elders)== (Atheism)
 		- Maha Yaana Buddhism (The Great Vehicle) (Apatheism)
 			- Zen (Happy Go Lucky)
 		- Vajra Yaana Buddhism (Powerful Vehicle) (Apatheism)
-	- ==Jainism / Jain Dharma (The Way of Conquerers (of Senses) / Principles of The Way of Conquerers)==, by Mahavira
+	- ==Jainist / Jain Dharma (The Way of Conquerers (of Senses) / Principles of The Way of Conquerers)==, by Mahavira
 		- Shvetambara (Sky Clad), founded by Rishabhanata, historically traced back to Parshvanata, and revived by Mahavira
 		- Digambara (White Clad), by Sivabhuti, from 82 AD
 - Sikhism
