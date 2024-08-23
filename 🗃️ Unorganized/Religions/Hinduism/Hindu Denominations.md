@@ -46,7 +46,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
 			- Liberation is the natural goal of every Soul.
 		- Cause and Effect
-			- The Sankhya Darshana is based on Sat-Karya-Vada (Theory of Existent Effects)
+			- The Sankhya Darshana is based on Sat-Karya-Vada (Proposition of Existent Effects)
 			- The effect is pre-existent in the cause, so nothing new is ever created
 			- The effect seems distinct from the cause due to an illusion, or Maya
 			- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
@@ -94,7 +94,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyaksha (Perception), Anumāṇa (Logical Inference), Upamāṇa (Comparison and Analogy) and Shabda (Verbal Testimony).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
-	- It postulates Asat-Karya-Vada (Theory of Non-Existent Effect)
+	- It postulates Asat-Karya-Vada (Proposition of Non-Existent Effect)
 - 4. Vaisheshika (Particulate Nature)
 	- It postulated that everything is made of atoms
 
@@ -117,6 +117,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 
 - 6.1. Advaita Vedanta (Monistic)
 	- By Shankaracharya
+	- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Only Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
 - 6.2. Bheda Abheda Vedanta (Difference and Oneness)
 	- By Bhaskaracharya
 	- Individual self is both different and not different from Brahman
@@ -141,7 +142,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- Para Brahman is thought to have manifested as Swaminarayana
 			- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
 			- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
-			- BAPS believe that Akshar is always present in Earth as a guru, and an ideal devotee, in whom Purushottam resides
+			- BAPS believe that Akshar Brahman is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahman resides
 - 6.4. Dvaita / Tattvavada Vedanta (Dualistic)
 	- By Madhavacharya
 - 6.5. Shuddha Advaita Vedanta (Pure Oneness)

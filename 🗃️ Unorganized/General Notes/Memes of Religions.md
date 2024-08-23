@@ -39,11 +39,11 @@
 		- Dvaita Vedanta Darshana (The Perspective of following the Dualistic Summary of Vedas)
 		- Suddha Advaita Vedanta Darshana (The Perspective of following the Pure Monistic Summary of Vedas)
 		- Achintya-Bheda-Abheda Vedanta Darshana (The Perspective of following the Summary of Vedas that posits an Inconceivable Difference and Non-Difference)
-		- Akshar-Purushottam Darshan of Vishista Advaita Vedanta Darshana (The Perspective of Descriptive and Supreme (Forms of Godliness) of the Special (Nuanced) Monistic Summary of Vedas)
+		- Akshar-Purushottam Darshan of Vishista Advaita Vedanta Darshana (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Vedas)
 		- Modern Vedanta Darshana / Greater Advaita Vedanta Darshana (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)
 - Non-Vedic Hinduism
 	- Buddhism
-		- Thera Vaada Budhism (Teaching of Elders) (Atheism)
+		- Thera Vaada Budhism (Proposition of Following the Ways of the Elders) (Atheism)
 		- Maha Yaana Buddhism (The Great Vehicle) (Apatheism)
 			- Zen (Happy Go Lucky)
 		- Vajra Yaana Buddhism (Powerful Vehicle) (Apatheism)
