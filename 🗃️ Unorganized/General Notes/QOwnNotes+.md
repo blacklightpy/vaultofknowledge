@@ -46,4 +46,26 @@
 			- But certain unprovable theories are harmful to oneself or the others (subjectively and objectively)
 			- And certain unprovable theories can seem harmful to oneself or the others (subjectively, but not objectively)
 
-- Eliminati
+- Eliminating Self-Control and Choosing to Channel Energy
+	- I wouldn't want to be controlling my "urge to rape someone", should I?
+	- But at the same time, it's a good thing to do, if you do not have a better idea
+
+- The consideration of God
+	- HIV
+		- This is used as an argument to point out extramarital relationships are immoral
+		- I think the presence of HIV has a lot to do with lack of hygiene, and character
+		- First of all, one must know the partner very well before sleeping with them
+		- Secondly, one should not sleep around, treating human bodies like flesh
+		- I believe HIV acts as a deterrent to these issues
+		- One must have self discipline, but not to the levels of stressing oneself arbitrarily
+		- One must be self-aware, and should use condoms before having casual sex
+		- One must be familiar with the conditions of human nature, and get tested for HIV
+		- This is not very different from maintaining hygiene and protecting oneself from 
+	- The story of the Tower of Babel
+		- I think a problem lay clearly in the level of maturity of the people at the time
+		- They thought God was in the sky, and tried to build a large building to overpower him
+		- God ended up stopping their stupidity, which would've only been a waste of time
+		- Story checks out fine
+			- But I think God could've just told them why it's a stupid idea
+			- But I guess, the world is not a project with a progress bar after all
+		- Also, they built the tower in 
