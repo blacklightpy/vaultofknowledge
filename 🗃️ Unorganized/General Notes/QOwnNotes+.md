@@ -37,5 +37,12 @@
 - About Respect
 	- It is best to respect everyone
 	- But what is the point at which we should not?
-		- When the other party does not respect your opinion
-		- When
+		- When the other party does not respect your rights (Remember my Personal Experience)
+		- When the other party disrespects your opinions without a proper reason (according to you)
+		- When the other party's opinion is harmful to them (according to you)
+		- When the other party's opinion is harmful to others (according to you)
+		- NOTE: 
+			- Proper reason means, for example, two unprovable theories can co-exist in harmony
+			- But certain unprovable theories are harmful to oneself or the others (subjectively and objectively)
+			- And certain unprovable theories can seem harmful to oneself or the others (subjectively, but not objectively)
+			- 
