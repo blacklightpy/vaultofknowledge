@@ -160,7 +160,6 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- Personal Experience > Sruti
 
 
-
 Samkhya follows Prakriti-Parinama Vada while Vishishta Advaita follows Brahman-Parinama Vada for Sat-Karya Vada.
 
 

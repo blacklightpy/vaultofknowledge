@@ -61,14 +61,18 @@
 	- So, the traditional society is designed to ensure that any criticism will be seen as outrageous
 	- What this results in is a state of existence where clear solutions exist, but everyone is afraid to point it out
 	- INSERT MEME: Thomas (The Tank Engine) has never seen such bullshit before
+
 	- To all this, I say, to hell with it
 	- Let's consider the way in which people deal with the problem of rape today
 	- People say that rape happens because men don't control themselves
 		- (That is in addition to the stupid opinion that it is because women dress immodestly)
 		- (Because women get raped regardless of what they wear, and no good man would rape)
 		- (That is, rape happens not because of lust, but because of the inability to satisfy it by watching porn)
-		- (This in turn is because the culture views having a girl or wife as what gives value of a man)
-		- (What women dressing immodestly according to cultural norms does is just disturb men)
+		- (This in turn is because the culture views having a girl or wife as what gives worthiness to a man)
+		- (Women who present themselves as "prizes for high-value men" are equally blameworthy for this)
+		- (Because of this reason, it only insecure men who take validation from society rape women)
+		- (In order to fix this, we have to solve the problem of insecurity, by eliminating the root cause of fears)
+		- (What women dressing immodestly according to cultural norms really does is just disturb men)
 	- But I wouldn't want to be controlling my "urge to rape someone", should I?
 	- But at the same time, it's a good thing to do, if you do not have a better idea
 	- For this reason, I think it's better to destroy traditions, and solve the problem
