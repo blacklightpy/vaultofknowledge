@@ -33,3 +33,9 @@
 	- Don't add too many points under one point in an overview
 	- Don't add too many subheadings (use a maximum of 3 levels of headings: H1-H3 or H2-H4)
 	- If you need additional subsections, use overviews and bold styling
+
+- About Respect
+	- It is best to respect everyone
+	- But what is the point at which we should not?
+		- When the other party does not respect your opinion
+		- When
