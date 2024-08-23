@@ -89,7 +89,10 @@ Why? Here's my guess:
 - "Let's translate their books and make our compilation more accessible"
 - "Let's then make them all believe that this compilation is their divine truth"
 - "Let's prioritize the worst texts they have to sow discord in the community" (Manu Smriti, Vaishnava Dharma Shastra)
-- "Let's "
+- "Let's feed on their pride and make the thinking priestly classes feel superior in a divine right"
+- "Let's make the working classes who don't think too much feel oppressed by the corrupt priestly class"
+- "Let's make the working class people finally fight the priestly class to gain freedom"
+- "And then let's take charge of this nation in the name of fixing their divisiveness"
 # To Classify
 I will define a Hindu as an Indian, based on Geography. (Hindu <= Sindhu River)
 Hindus have different perspectives.
