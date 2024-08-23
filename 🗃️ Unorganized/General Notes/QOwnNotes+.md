@@ -49,7 +49,19 @@
 - Eliminating Self-Control and Choosing to Channel Energy
 	- My philosophy posits ideas such as incest is not an evil action, but only a cultural taboo
 	- While this is sounds outrageous, I argue that any idea that can fix this will have to be so
-	- For example, every person wants to have sex, but they contr
+	- For example, every person wants to have sex, but they are reluctant to admit it
+	- Here, the tradition ends up being the patriarchal model where men own "their women"
+	- This way, the stronger gender of men are able to have their desires met by the contract of wedlock
+	- Since men are not a monolith, many women have enjoyed harmonious relationships in this model
+	- However, many women have also been subject to abuse because of this same model
+	- But if any women stands against the issue, due to the patriarchal model, she is labelled as spoiled
+	- And if any man stands against this issue, he is labelled as an evil person who want to prey on "our women"
+	- Granted, that also comes with the patriarchal idea that "women are intellectually inferior"
+	- And the aforementioned women who have enjoyed harmonious relationships will back these claims too
+	- So, the traditional society is designed to ensure that any criticism will be seen as outrageous
+	- What this results in is a state of existence where clear solutions exist, but people are so insecure to 
+	- INSERT MEME: Thomas (The Tank Engine) has never seen such bullshit before
+
 	- I wouldn't want to be controlling my "urge to rape someone", should I?
 	- But at the same time, it's a good thing to do, if you do not have a better idea
 	- For this reason, I think it's better to destroy traditions, and solve the problem
