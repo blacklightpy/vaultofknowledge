@@ -48,15 +48,7 @@
 - "**Existence**" is a "**Random Occurrence**" with "**No Guarantee**" on "**Non-Existent Concepts**" such as "**Justice**" (==Classical Nihilism==)
 
 # Trying to Define Indian Beliefs in English
-- Westerners: These are "Indian Beliefs"
-- Westerners: "They say they have different perspectives"
-- Some have different perspectives based on Vedas
-- Others have free perspectives
-- These are perspectives of the Indians:
-- Westerners: And we'll call the people of the land Hindus
-- Westerners: But we'll only use that term to describe (Native Indians)
-- Westerners: And we'll call the others in the land separately (Muslims, Christians)
-### bruh
+## Me Trying to Define Them Purely in English
 Hell, I'll tell you this was hard.
 
 I started like:
@@ -76,8 +68,29 @@ Then I tried:
 - (Beliefs of Xs who Follow Y)
 - (A Perspective of Following Y according to Xs)
 - (A Perspective of Xs Following Y)
-# To Classify
 
+- Finally I realized that I should understand that there is an ontological difference between:
+	- "Hinduism" (A Western Grouping that literally means the "Beliefs of Indians EXCLUDING Muslims, Christians, Jews and Parsis") and
+	- "Perspectives of Indians" (The True Classification)
+
+To fix this
+## How The Westerners Probably Defined
+- Westerners: "These are "Indian Beliefs""
+- Westerners: "They say they have different perspectives"
+- Westerners: "Some have different perspectives based on Vedas" (Six Broad Perspectives)
+- Westerners: "Others have free perspectives" (Buddhism, Jainism, etc.)
+- Westerners: "These are perspectives of the Indians": *defines them*
+- Westerners: "And we'll call the people of the land Hindus"
+- Westerners: "But we'll only use the term to describe people of their native beliefs"
+- Westerners: "And we'll call the others in the land separately" (Muslims, Christians)
+Why? Here's my guess:
+- "These Indians aside from Muslims and Christians rely on priests to know their culture"
+- "We can't fool the Muslims and Christians, but we can fool the others and take over this place"
+- "Let's translate their books and make our compilation more accessible"
+- "Let's then make them all believe that this compilation is their divine truth"
+- "Let's prioritize the worst texts they have to sow discord in the community" (Manu Smriti, Vaishnava Dharma Shastra)
+- "Let's "
+# To Classify
 I will define a Hindu as an Indian, based on Geography. (Hindu <= Sindhu River)
 Hindus have different perspectives.
 
@@ -86,8 +99,7 @@ Some follow Other Stuff
 Some follow Islam
 Some follow Christianity
 Some follow Judaism
-Some are just crazy
-
+Some are just crazy (Polytheism, Atheism, Strange Rituals)
 
 - ==Vedic Hinduism (The Beliefs of Indians who follow the Vedas)==
 	- ==Sankhya Darshana (Digital Perspective of Vedas according to Indians)==
