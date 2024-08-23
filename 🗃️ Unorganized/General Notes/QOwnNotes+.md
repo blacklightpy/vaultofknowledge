@@ -47,7 +47,9 @@
 			- And certain unprovable theories can seem harmful to oneself or the others (subjectively, but not objectively)
 
 - Eliminating Self-Control and Choosing to Channel Energy
-	- 
+	- My philosophy posits ideas such as incest is not an evil action, but only a cultural taboo
+	- While this is sounds outrageous, I argue that any idea that can fix this will have to be so
+	- For example, every person wants to have sex, but they contr
 	- I wouldn't want to be controlling my "urge to rape someone", should I?
 	- But at the same time, it's a good thing to do, if you do not have a better idea
 	- For this reason, I think it's better to destroy traditions, and solve the problem
