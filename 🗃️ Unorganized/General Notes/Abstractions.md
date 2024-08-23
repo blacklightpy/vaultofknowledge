@@ -25,8 +25,10 @@ Any method of thinking that automates a specific system is called an abstraction
 		- Businessmen and Consumers who want to get a job done would start at a lower level of abstraction and build up the possibilities. They prefer to use whatever's tried and tested to make an easy living.
 - Now, if the circuit is electronic, it could sometimes be driven by a firmware software. Since the behaviour of the system is dependent on the firmware, the firmware can be said to be at a higher level of abstraction.
 ## Example 2: Mathematics
+
 ## Example 3: Operating Systems
 (I probably meant "operating" "system")
+
 ## Example 4: Politics
 (I probably meant governance at separate levels; plus add the different aspects of governance)
 #incomplete
@@ -52,3 +54,8 @@ Any method of thinking that automates a specific system is called an abstraction
 - Bound Morphemes / Bound Ideograms / Bound Pictograms **(Dependent Morphemes)**
 - Lexemes / Logograms (or Lexigrams) **(Word Level)**
 - Lexicon **(Full Dictionary)**
+## Example of Sections of Literature
+- Newspapers
+	- See Dribble Newspaper Layouts
+- Articles
+- Poems

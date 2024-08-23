@@ -489,7 +489,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -557,7 +557,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -574,7 +574,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -586,7 +586,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -653,14 +653,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e6503f0474b53675",
+  "active": "462c14e6e44e0f53",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
-    "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Virtual Memory.md",
@@ -673,7 +674,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
-    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "_images/Usool al-Hadeeth - Overview.png",
