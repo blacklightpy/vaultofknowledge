@@ -167,6 +167,12 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 # Heterodox
 - 1. Buddhism
 - 2. Jainism
+	- **Sects**
+		- 1. Shvetambara (White Clad)
+		- 2. Digambara (Sky Clad / Naked)
+			- **Rules**
+				- They are a very simply list
+				- 5 mahāvratas (great vows); 5 samitis (restraints); 5 indriya nirodha (control of the five senses); 6 āvaśyakas (essential observations); and 7 niyamas (rules)
 - 3. Charvaka
 	- **Epistemology**
 	- It only supports
