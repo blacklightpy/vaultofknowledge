@@ -7,7 +7,7 @@ They do not deal with epistemology and connecting language to ideas.
 So they can be used to convert written ideas to more easily digestible summaries.
 However, they can't be used to infer new information.
 # Support
-While Stallman calls them "bullshit generator", and I think that's true, it's still good to find if you get something useful out of pure bullshit.
+While Stallman calls them "bullshit generator", and I think that's true, it's still good to find if you can get something useful out of pure bullshit.
 
 > (I went in two division of thought from this; I really have to figure out how to properly represent writings in this thinking pattern XD. I'll organize them according to the **"broad divisions of thought"**, and **"the order in which I placed them"**, and according to **"the order in which I wrote the lines"**. I don't really remember the order in which I thought the lines XD; I'll also study this condition in [[Representing the Diverse Flow of Thought]])
 ## Division 2 (Science isn't Always Developed Formally)
@@ -19,7 +19,11 @@ While Stallman calls them "bullshit generator", and I think that's true, it's st
 ## Division 1 (Example of Meaningfulness Coming From Bullshit)
 5] For example, similar principles have been used to make AI that navigates obstacles or performs some other action, purely based on memory, without a direct knowledge of what that action implies.
 
-6] There's also the question of how 
+6.1] There's also the question of how humans are able to infer knowledge
+
+7] If I could take the standard atheist stance, (babies are taught, religion)
+
+6.2] Also, human babies too are taught concepts by means of supervision. And only after learning association of words with languages
 # Good Alternate Approaches
 - Use them like Grammarly does (validate grammar)
 - Use them to re-summarize information
