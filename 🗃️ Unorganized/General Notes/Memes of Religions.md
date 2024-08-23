@@ -122,7 +122,7 @@ Some are just crazy (Polytheism, Atheism, Strange Rituals)
 		- ==Modern Vedanta Darshana / Greater Advaita Vedanta Darshana (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)==
 - Non-Vedic Hinduism
 	- Buddhism
-		- Thera Vaada Budhism (Proposition of Following the Ways of the Elders) (Atheism)
+		- ==Thera Vaada Budhism (Proposition of Following the Ways of the Elders)== (Atheism)
 		- Maha Yaana Buddhism (The Great Vehicle) (Apatheism)
 			- Zen (Happy Go Lucky)
 		- Vajra Yaana Buddhism (Powerful Vehicle) (Apatheism)
