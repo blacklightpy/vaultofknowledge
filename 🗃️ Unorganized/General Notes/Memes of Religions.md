@@ -6,7 +6,7 @@
 # Separateness / Dualism
 ## Dualistic Monotheism
 ### Jealous Visiting God (Abrahamic)
-- "**Adherence**" to the "**Moral Law**" and "**Way of Life**" "**Prescribed**" by "**God**" which includes "**Worship**" of "**A Jealous God**" who "**Governs**" the "**World**" will bring "**Eternal**" "**World**" "**Peace**" (==Judaism / Way of the Jews==)
+- "**Adherence**" to the "**Moral Law**" and "**Way of Life**" "**Prescribed**" by "**God**" which includes "**Worship**" of "**A Jealous God**" who "**Governs**" the "**World**" will bring "**Eternal**" "**World**" "**Peace**" (==Judaism / Way of the People of Yisra'El==)
 - "**Salvation**" by the "**Only Way**" which is "**Belief**" in the "**Sinless Sacrifice**" (i.e. not suicide) of a "**Sinless Man**" ("**Christ**") who "**Took On**" the "**Punishment**" for the "**Sins**" of "**Everyone**", by being "**Punished**" "**Unjustly**" by "**Some**" "**People**" based on their "**Man-Made**" and "**Corrupt**" "**Moral Law**" and "**Way of Life**" for "**Rebelling**" to "**Undo**" "**Man-Made**" "**Corruptions**" to the "**Moral Law**" and "**Way of Life**" "**Prescribed**" by "**God**" which includes "**Worship**" of "**A Jealous God**" who "**Governs**" the "**World**" and "**Eternal**" "**Afterlife**" in "**Heaven**" or "**Hell**" following the "**Destruction**" of the "**World**" (==Christianity / Faith in Christ==)
 - "**Adherence**" to the "**Moral Law**" and "**Way of Life**" "**Prescribed**" by "**God**" which includes "**Worship**" of "**A Jealous God**" who "**Owns**" the "**World**" and "**Eternal**" "**Afterlife**" in "**Heaven**" or "**Hell**" following the "**Destruction**" of the "**World**" and "**Ensuring**" the "**Establishment**" of that "**Moral Law**" all over the "**World**", where "**People**" have "**Discarded**" it to instead follow their "**Man-Made**" and "**Corrupt**" "**Moral Law**" and "**Way of Life**" by "**Discourse**" or "**Physical Force**" with proper "**Strategies**" to "**Undo**" "**Man-Made**" "**Corruptions**" to the "**Moral Law**" and "**Way of Life**" with an "**Exception**" to those who do not "**Trigger**" the "**Jealousy**" of "**God**" who can live by providing "**Protection**" "**Tax**" to the "**Righteous**" followers as form of "**Humiliation**" for adhering to their "**Man-Made**" and "**Corrupt**" "**Moral Law**" and "**Way of Life**" (==Islam according to Ahl as-Sunnah wa'l Jama'ah / Submission to God according to the People of Tradition and the Majority of Muslims==)
 	- Specifically, according to the Aqaa'id (Schools of Theology) and Madhhahib (Schools of Jurisprudence) of Ahl as-Sunnah wa'l Jama'ah (The People of Tradition and The Majority), including the Salafiyya (Those who follow the ways of the First Three Generations of Muslims who were described by their Messenger to be the Most Righteous Muslims)
@@ -28,7 +28,21 @@ Some have different perspectives based on Vedas
 Others have free perspectives
 These are perspectives of the Indians.
 
+Hindus (Native Indians)
+
 # To Classify
+
+I will define a Hindu as an Indian, based on Geography. (Hindu <= Sindhu River)
+Hindus have different perspectives.
+
+Some follow Vedas
+Some follow Other Stuff
+Some follow Islam
+Some follow Christianity
+Some follow Judaism
+Some are just crazy
+
+
 - ==Vedic Hinduism (The Beliefs of Indians who follow the Vedas)==
 	- ==Sankhya Darshana (Digital Perspective of Vedas according to Indians)==
 	- ==Yoga Darshana (The Perspective of Seeking Connection with Nature of Indians who follow the Vedas)==
