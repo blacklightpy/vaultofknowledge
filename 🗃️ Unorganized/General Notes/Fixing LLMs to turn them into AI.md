@@ -23,7 +23,15 @@ While Stallman calls them "bullshit generator", and I think that's true, it's st
 
 7] If I could take the standard atheist stance, (babies are taught, religion)
 
-6.2] Also, human babies too are taught concepts by means of supervision. And only after learning association of words with languages
+6.2] Also, human babies too are taught concepts by means of supervision. And only after learning association of words with languages can they ever form rational thoughts. Babies won't survive in the wild without proper supervision.
+
+8]
+
+> I think by now, it's not necessary to mention the broad divisions, or even subdivisions, but only the **"line numbers"**
+> 
+> But I also realize that line numbers are only a specific form of discretization, and we often edit individual words, and more often than that, we edit letters within words, because of spelling mistakes. But meh, spelling mistakes may not be all that usual for a good typist.
+> 
+> I guess the only way to avoid this is to write with pen on paper. So I can't erase or add in new words. With the added rule of not striking lines
 # Good Alternate Approaches
 - Use them like Grammarly does (validate grammar)
 - Use them to re-summarize information

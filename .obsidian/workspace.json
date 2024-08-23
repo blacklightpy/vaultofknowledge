@@ -489,7 +489,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -557,7 +557,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -574,7 +574,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -586,7 +586,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -653,10 +653,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "937bf786e8780a31",
+  "active": "e6503f0474b53675",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",

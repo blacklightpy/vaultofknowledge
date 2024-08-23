@@ -45,4 +45,5 @@
 			- Proper reason means, for example, two unprovable theories can co-exist in harmony
 			- But certain unprovable theories are harmful to oneself or the others (subjectively and objectively)
 			- And certain unprovable theories can seem harmful to oneself or the others (subjectively, but not objectively)
-			- 
+
+- Eliminati
