@@ -513,9 +513,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29a3dcd30a7396d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -583,7 +596,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -600,7 +613,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -612,7 +625,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md"
               }
             }
           },
@@ -679,12 +692,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7db33e17845b9379",
+  "active": "29a3dcd30a7396d6",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes x5.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Semiotics.md",
     "🗃️ Unorganized/General Notes/Sign Process.md",
     "🗃️ Unorganized/General Notes/Meaning.md",
-    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
@@ -708,7 +722,6 @@
     "🗃️ Unorganized/General Notes/Storage Blocks.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗺️ World Exploration/Culture/Jewish Culture.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Judaism.md",
     "_images/Usool al-Hadeeth - Overview.png",
     "_images/Usool al-Hadeeth - Testing the Chain.png",
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
