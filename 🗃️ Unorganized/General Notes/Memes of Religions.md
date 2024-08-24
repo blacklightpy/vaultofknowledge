@@ -112,7 +112,7 @@ Some follow Christianity
 Some follow Judaism
 Some are just crazy (Polytheism, Atheism, Strange Rituals)
 
-1. ==Vedic Hinduism (The Beliefs of Indians who follow the Vedas)==
+1. ==Vedic Hinduism (The Beliefs of Indians who follow the Vedas)== / ==Astika Darshanas (Orthodox Beliefs of Indians)==
 	1. ==Sankhya Darshana of Vedic Hinduism (Digital Perspective of Indians who follow the Vedas)==
 	2. ==Yoga Darshana of Vedic Hinduism (The Perspective of Seeking Connection with Nature according to Indians who follow the Vedas)==
 	3. ==Nyaya Darshana of Vedic Hinduism (The Perspective of Understanding the Principles of Reality according to Indians who follow the Vedas)==
@@ -142,7 +142,16 @@ Some are just crazy (Polytheism, Atheism, Strange Rituals)
 	4. ==Ajeevika Darshana of Jain Darshana of Non-Vedic Hinduism / Niyati Vaada of Non-Vedic Hinduism / Ajeevika / Niyati Vaada (The Perspective of the Way of Life according to Indians who don't follow the Vedas / The Proposition of Fate according to Indian's who don't follow the Vedas / Way of Life / Proposition of Fate)==
 	5. ==Ajnana Darshana of Non-Vedic Hinduism / Ajnana (Skeptic Perspective of Indians who don't follow the Vedas / Skepticism)==
 4. ==Sikhism (Being a Disciple)==
-
+### Darshana Notes
+- Astika
+	- Should believe in Vedas
+	- Should believe in Atman (Soul)
+- Nastika
+	- Everyone Else
+### Sampradaya Notes
+- Vishishta Advaita
+	- Vaishnava (Ramanuja)
+	- Shaiva (Srinkanta Siva)
 # Other
 - Jeung San Do (The Way of The Jeung San Mountain)
 - Mu-Sok / Mu-Ism / Sinism (Korean Shamanism)
