@@ -617,9 +617,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "573c75fc0b7d93a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 46
+        "currentTab": 47
       }
     ],
     "direction": "vertical"
@@ -686,7 +699,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Etymology.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -703,7 +716,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Etymology.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -715,7 +728,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Etymology.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
               }
             }
           },
@@ -782,8 +795,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "15f30d8aea5598bc",
+  "active": "573c75fc0b7d93a5",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/General Notes/Etymology.md",
     "🗃️ Unorganized/General Notes/Logic.md",
     "🗃️ Unorganized/General Notes/Study of Animals.md",
     "🗺️ World Exploration/Life Forms/Study of Plants.md",
@@ -809,8 +824,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
-    "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
-    "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
     "_images/Usool al-Hadeeth - Overview.png",

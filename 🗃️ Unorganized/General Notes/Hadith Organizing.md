@@ -44,6 +44,8 @@ Origin of Hadith Isnads: https://sunnahonline.com/library/fiqh-and-sunnah/277-in
 	- In doing so, he asked of humans to cast aside their humanity and worship the one who gave this law
 	- Since that law is evil, who is the personification of evil? Satan
 
+- Main Criticism
+	- The Qur'an narrated by Mohammed as revelation from God was neither truth, nor one that was made with an inclination towards goodness. However, the Hebrew TaNaKh and Christian Bible were made with an inclination towards good, and that is the basic difference. Of the two, the Jewish teaching remains more rational, because of its completion only with the combination of the Mishnah and Gemara of the Talmud, which is revised according to debates.
 ### Plan
 - Criticizing Islam 
 
