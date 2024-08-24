@@ -245,7 +245,7 @@ The verses harmful to non-Jews are:
 	- Mathew 23:33-36 (Jesus said Jews killed whoever he sent, from Abel to Zacheriah son of Berechiah)
 	- 2 Chronicles 24:20-21 (Zacheriah, son of Jehoiada was killed)
 	- 2 Kings 20-21
-## ## Nature of Christians outside the Bible
+## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
 > Some of his more common lies are “there is no God,” “God doesn’t care about you,” “the Bible cannot be trusted,” and “your good works will get you into heaven.”
