@@ -12,3 +12,6 @@ Case study: Withholding information
 Withhold information only if you think the other party will misunderstand it
 Do not withhold information if you think the other party will disagree if they rightly understand it
 What is the level? (Keep it at the same level of abstraction. Define this by ontology)
+
+#3 Word Density
+Translating all words to English
