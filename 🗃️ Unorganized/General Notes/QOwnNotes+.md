@@ -125,4 +125,4 @@
 		- To do this when things seem doubtful, one must remember predestination
 		- You must be able to defend the truths that you stand for
 		- And if the ground truth is not in line with what you believe in, you have to adapt
-		- And you 
+		- And you adapt by controlling your desires, by knowing the nature, vastness and limits of reality
