@@ -502,7 +502,7 @@
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -570,7 +570,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -587,7 +587,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -599,7 +599,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md"
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
               }
             }
           },
@@ -666,11 +666,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "888be0418cb27fbf",
+  "active": "b30a07558ded6110",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+    "🗃️ Unorganized/General Notes/Philosophical Zombie.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
@@ -695,7 +696,6 @@
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
-    "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "_images/Usool al-Hadeeth - Overview.png",
     "_images/Usool al-Hadeeth - Testing the Chain.png",
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
