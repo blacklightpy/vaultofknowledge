@@ -122,9 +122,9 @@ Some are just crazy (Polytheism, Atheism, Strange Rituals)
 		- ==Dvaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Dualistic Summary of Vedas)==
 		- ==Suddha Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Pure Monistic Summary of Vedas)==
 		- ==Achintya-Bheda-Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Vedas that posits an Inconceivable Difference and Non-Difference)==
-		- ==Akshar-Purushottam Darshan of Vishista Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Vedas)==
+		- ==Akshar-Purushottam Darshana of Vishista Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Vedas)==
 		- ==Modern Vedanta Darshana of Vedic Hinduism / Greater Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)==
-- Non-Vedic Hinduism
+- ==Non-Vedic Hinduism (The Beliefs of Indians who don't follow the Vedas)==
 	- ==Buddhist Darshana of Non-Vedic Hinduism / Buddhism (The Perspective of Becoming a Budhha according to Indians who don't follow the Vedas / Becoming a Buddha)==
 		- ==Thera Vaada Buddhist Darshana of Non-Vedic Hinduism / Thera Vaada Buddhism ( / Proposition of Following the Ways of the Elders)== (Atheism)
 		- ==Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Maha Yaana Buddhism (The Perspective of The Great Vehicle according to Indians who don't follow the Vedas / The Great Vehicle)== (Apatheism)
@@ -137,3 +137,6 @@ Some are just crazy (Polytheism, Atheism, Strange Rituals)
 	- ==Ajeevika / Niyati Vaada (Way of Life / Proposition of Fate)==
 	- ==Ajnana (Skepticism)==
 - Sikhism
+
+# Other
+- Jeung San Do (The Way of The Jeung San Mountain)
