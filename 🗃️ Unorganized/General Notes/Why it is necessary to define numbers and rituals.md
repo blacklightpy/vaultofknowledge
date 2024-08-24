@@ -1,4 +1,8 @@
---Because of the common understanding that Hindu scholars define arbitrary numbers, and that the reason they do it is simply out of superstitious stupidity and to control people.
+--Because of the common understanding that Hindu scholars define arbitrary numbers, and that the reason they do it is simply out of superstitious stupidity and to control people (which I too used to think).
+
+But then, I myself had the question, like what makes a clean wash, what is the nature of interactions between dust and clothes, and what clothes fibres are made of, and so on. Why did I think about this?
+
+One reason was for me to decide how often I should wash clothes - whether after every wear (which ends after a fresh bath), or after a set number of wears. Definitely, I wouldn't wear the same under-wears after a new bath, because it does itch from experience. Although when we were in school, we would end up wearing dirty vests to class to avoid checking (we'd most often get caught when in the khaki uniform, because of the sweat)
 ## Example of Washing Machine
 
 If you ask someone how many hours or strokes you need to wash a cloth for, they will tell you, "till it's clean, you silly".
