@@ -526,9 +526,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2ee2d7f81681d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 39
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -596,7 +609,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md",
+                "file": "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -613,7 +626,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md",
+                "file": "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -625,7 +638,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md"
+                "file": "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md"
               }
             }
           },
@@ -692,8 +705,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "29a3dcd30a7396d6",
+  "active": "a2ee2d7f81681d22",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Semiotics.md",
@@ -721,7 +735,6 @@
     "_images/SSD Flash Storage.webp",
     "🗃️ Unorganized/General Notes/Storage Blocks.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
-    "🗺️ World Exploration/Culture/Jewish Culture.md",
     "_images/Usool al-Hadeeth - Overview.png",
     "_images/Usool al-Hadeeth - Testing the Chain.png",
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
