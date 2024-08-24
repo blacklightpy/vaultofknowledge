@@ -1,1 +1,1 @@
-Emergence seems to be 
+Emergence seems to be limited

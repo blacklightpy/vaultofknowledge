@@ -613,13 +613,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -731,7 +729,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0e909ca4a5f176e0",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
     "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
