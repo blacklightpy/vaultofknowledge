@@ -105,3 +105,24 @@
 			- But I guess, the world is not a project with a progress bar after all
 		- Also, they built the tower in an act of defiance to Adonai's authority
 		- By that reason, the story still checks out fine under the Jewish religious framework
+
+- Resolution of War
+	- I've understood that war is necessary
+	- But however, as a Trekkie, we must be able to resolve wars too
+	- Now, the only way to resolve conflicts confidently is to first remember predestination
+	- Nextly, the idea is that if truth is always on our side, we will have the best outcome
+
+- Prevention of War
+	- We must first remember the factors through which a peaceful society will turn to war
+	- Example 1: Growth of Technology without Studies
+		- This includes capitalistic societies, where only some people learn technologies
+	- Example 2: Forgetting Values and Forgetting to Question Everything
+		- The outlined values 
+		- It can be said that some people may question values to suit their needs
+		- But truth is resistant to questioning
+		- And if there is a true opinion that conflicts with the social values, then
+		- The one who stands for it should work to dismantle all the opinions that defend it
+		- To do this when things seem doubtful, one must remember predestination
+		- You must be able to defend the truths that you stand for
+		- And if the ground truth is not in line with what you believe in, you have to adapt
+		- And you 

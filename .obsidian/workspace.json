@@ -578,17 +578,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "62b3e54aa9e3c631",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 44
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -655,6 +647,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -671,6 +664,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -681,7 +675,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+              }
             }
           },
           {
@@ -747,10 +743,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "62b3e54aa9e3c631",
+  "active": "e6503f0474b53675",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
     "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
     "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
     "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5.md",
@@ -772,7 +769,6 @@
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗃️ Unorganized/General Notes/Millenarianism.md",
     "🗃️ Unorganized/General Notes/Monism and Dualism.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Dualism.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "_images/MagneticMedia.svg.png",
