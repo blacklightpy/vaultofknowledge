@@ -632,7 +632,7 @@
             }
           }
         ],
-        "currentTab": 47
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -699,7 +699,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -716,7 +716,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -728,7 +728,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes x5.md"
               }
             }
           },
@@ -795,10 +795,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "573c75fc0b7d93a5",
+  "active": "29a3dcd30a7396d6",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Millenarianism.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Millenarianism.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Etymology.md",
