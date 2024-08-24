@@ -8,7 +8,7 @@ In Religion:
 - [[Hindu Text Excerpts]]
 - [[Hinduism Rough Notes]]
 ## Component Notes
-- [[Vedas]] (Knowledge)
+- [[Vedas]] (Sanskrit Books of Knowledge)
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)
 	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
 - [[Sutras]]
