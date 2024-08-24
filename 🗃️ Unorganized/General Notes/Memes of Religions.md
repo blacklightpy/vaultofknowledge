@@ -2,7 +2,7 @@
 ## Monistic Monotheism
 ### Pantheism
 ### Panentheism
-- (==Advaita Vedanta Darshana of Vedic Hinduism / The Perspective of following the Monistic Summary of Vedas==)
+- (==Advaita Vedanta Darshana of Vedic Hinduism / The Perspective of following the Monistic Summary of Sanskrit Books of Knowledge==)
 # Separateness / Dualism
 ## Dualistic Monotheism
 ### Jealous Visiting God (Abrahamic)
@@ -37,14 +37,14 @@
 				- 
 ### Non-Jealous Visiting God
 ### Deistic
-- (==Yoga Darshana of Vedic Hinduism / The Perspective of Seeking Connection with Nature from the Beliefs of Indians following the Vedas==)
+- (==Yoga Darshana of Vedic Hinduism / The Perspective of Seeking Connection with Nature from the Beliefs of Indians following the Sanskrit Books of Knowledge==)
 ## Dualistic Polytheism
 ### Monolatrous
 ### Non-Monolatrous
 ## Dualistic Henotheism
 - Worship of One God and many deities
 ## Dualistic Atheism
-- There is "**No God**", and "**Reality**" simply consists of two "**Eternal**" things - a "**Witness Consciousness**" and a "**Physical World**", where "**You**" are the "**Eternal**" and "**Formless**" "**Witness Consciousness**" "**Trapped**" in the "**Temporary**" "**Cyclic Worldly Existence**" that takes place in the "**Eternal**" "**Physical World**" which **Continually Evolves**" its "**State**" through the "**Cycle of Life**" just for the sake of "**Your**" "**Mental Evolution**", due to your "**Misunderstanding**" of "**Reality**" that acts as a "**Veil**" to your complete "**Realization**" and makes you think that "**You**" are a part of this "**Cyclic Worldly Existence**", when in reality "**You**" are only a "**Witness Consciousness**" that is "**Separate**" from the "**Physical World**", and when you realize that, the "**Physical World**" will "**Cease**" to "**Evolve**" "**Further**" for "**You**" and you will be free. (==Sankhya Darshana of Vedic Hinduism / Digital Perspective of the Indians following the Vedas==)
+- There is "**No God**", and "**Reality**" simply consists of two "**Eternal**" things - a "**Witness Consciousness**" and a "**Physical World**", where "**You**" are the "**Eternal**" and "**Formless**" "**Witness Consciousness**" "**Trapped**" in the "**Temporary**" "**Cyclic Worldly Existence**" that takes place in the "**Eternal**" "**Physical World**" which **Continually Evolves**" its "**State**" through the "**Cycle of Life**" just for the sake of "**Your**" "**Mental Evolution**", due to your "**Misunderstanding**" of "**Reality**" that acts as a "**Veil**" to your complete "**Realization**" and makes you think that "**You**" are a part of this "**Cyclic Worldly Existence**", when in reality "**You**" are only a "**Witness Consciousness**" that is "**Separate**" from the "**Physical World**", and when you realize that, the "**Physical World**" will "**Cease**" to "**Evolve**" "**Further**" for "**You**" and you will be free. (==Sankhya Darshana of Vedic Hinduism / Digital Perspective of the Indians following the Sanskrit Books of Knowledge==)
 - "**Existence**" is a "**Random Occurrence**" with "**No Guarantee**" on "**Non-Existent Concepts**" such as "**Justice**" (==Classical Nihilism==)
 
 # Trying to Define Indian Beliefs in English
@@ -52,11 +52,11 @@
 Hell, I'll tell you this was hard.
 
 I started like:
-- X Perspective of the Beliefs of Indians following the Vedas
+- X Perspective of the Beliefs of Indians following the Sanskrit Books of Knowledge
 
 But it sucked. Then I wrote it down like:
-- Vedic Hinduism (Beliefs of Indians following the Vedas)
-- X Darshana of Vedic Hinduism (X Perspective of Indians following the Vedas)
+- Vedic Hinduism (Beliefs of Indians following the Sanskrit Books of Knowledge)
+- X Darshana of Vedic Hinduism (X Perspective of Indians following the Sanskrit Books of Knowledge)
 
 Then I tried an alternative:
 - Islam (Submission)
@@ -75,17 +75,17 @@ Then I tried:
 
 To fix this, I realized I had to consider Indian Muslims as Hindus. Then, I had to break down the term into the concept, and translate it accordingly.
 
-e.g. "Digital Perspective of Indians who follow the Vedas" and "The Perspective of Seeking Connection with Nature according to Indians who follow the Vedas"
+e.g. "Digital Perspective of Indians who follow the Sanskrit Books of Knowledge" and "The Perspective of Seeking Connection with Nature according to Indians who follow the Sanskrit Books of Knowledge"
 
 - Better Ways
-	- New Form: "The Perspective that the Summary of the Vedas posits a Difference and Non-Difference"
-	- Old Form: "The Perspective of following the Summary of Vedas that posits a Difference and Non-Difference according to Indians who follow the Vedas"
+	- New Form: "The Perspective that the Summary of the Sanskrit Books of Knowledge posits a Difference and Non-Difference"
+	- Old Form: "The Perspective of following the Summary of Sanskrit Books of Knowledge that posits a Difference and Non-Difference according to Indians who follow the Sanskrit Books of Knowledge"
 
 (It's called "Indians who" rather than those "who" because I'm sticking to a literal translation rather than an ideological one).
 ## How The Westerners Probably Defined
 - Westerners: "These are "Indian Beliefs""
 - Westerners: "They say they have different perspectives"
-- Westerners: "Some have different perspectives based on Vedas" (Six Broad Perspectives)
+- Westerners: "Some have different perspectives based on Vedas (Sanskrit Books of Knowledge)" (Six Broad Perspectives)
 - Westerners: "Others have free perspectives" (Buddhism, Jainism, etc.)
 - Westerners: "These are perspectives of the Indians": *defines them*
 - Westerners: "And we'll call the people of the land Hindus"
@@ -105,46 +105,46 @@ Why? Here's my guess:
 I will define a Hindu as an Indian, based on Geography. (Hindu <= Sindhu River)
 Hindus have different perspectives.
 
-Some follow Vedas
+Some follow Vedas (Sanskrit Books of Knowledge)
 Some follow Other Stuff
 Some follow Islam
 Some follow Christianity
 Some follow Judaism
 Some are just crazy (Polytheism, Atheism, Strange Rituals)
 
-1. ==Vedic Hinduism (The Beliefs of Indians who follow the Vedas)== / ==Astika Darshanas (Orthodox Beliefs of Indians)==
-	1. ==Sankhya Darshana of Vedic Hinduism (Digital Perspective of Indians who follow the Vedas)==
-	2. ==Yoga Darshana of Vedic Hinduism (The Perspective of Seeking Connection with Nature according to Indians who follow the Vedas)==
-	3. ==Nyaya Darshana of Vedic Hinduism (The Perspective of Understanding the Principles of Reality according to Indians who follow the Vedas)==
-	4. ==Vaisheshika Darshana of Vedic Hinduism (The Perspective of the Nature of Reality as being Particulate according to Indians who follow the Vedas)==
-	5. ==Mimamsa Darshana of Vedic Hinduism / Purva Mimasa Darshana of Vedic Hinduism / Karma Mimamsa Darshana of Vedic Hinduism (The Perspective of Reflection according to Indians who follow the Vedas / The Perspective of Reflection on Early (Vedic Texts) according to Indians who follow the Vedas / The Perspective of Reflection on Actions according to Indians who follow the Vedas)==
-	6. ==Uttara Mimasa Darshana of Vedic Hinduism / Vedanta Darshana of Vedic Hinduism (The Perspective of Reflection on Later (Vedic Texts) according to Indians who follow the Vedas / The Perspective of following the Summary of Vedas according to Indians who follow the Vedas)==
-		1. ==Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Monistic Summary of Vedas according to Indians who follow the Vedas)==, which was also called ==Advaita-Vaada (Proposition of Non-Dualism)==, ==Abheda Darshana (Perspective of Non-Difference)==, ==Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism)==, ==Kevala-Advaita (Essential Non-Dualism)== and ==Maya-Vaada (The Proposition that Reality is an Illusion)==
-		2. ==Bheda-Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Vedas that posits a Difference and Non-Difference according to Indians who follow the Vedas)==
-		3. ==Dvaita-Advaita Bedha-Abheda Vedanta Darshana of Vedic Hinduism / Svabhavika Bedha Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Vedas that posits a Panentheistic Difference and Non-Difference / The Perspective of following the Summary of Vedas that posits an Innate Difference and Non-Difference)==
-		4. ==Vishishta Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Special (Nuanced) Monistic Summary of Vedas)==
-		5. ==Dvaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Dualistic Summary of Vedas)==
-		6. ==Suddha Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Pure Monistic Summary of Vedas)==
-		7. ==Achintya-Bheda-Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Vedas that posits an Inconceivable Difference and Non-Difference)==
-		8. ==Akshar-Purushottam Darshana of Vishista Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Vedas)==
-		9. ==Modern Vedanta Darshana of Vedic Hinduism / Greater Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)==
-2. ==Non-Vedic Hinduism (The Beliefs of Indians who don't follow the Vedas)==
-	1. ==Buddhist Darshana of Non-Vedic Hinduism / Buddhism (The Perspective of Becoming a Budhha according to Indians who don't follow the Vedas / Becoming Enlightened)==
-		1. ==Hina Yaana Buddhist Darshana of Non-Vedic Hinduism / Nikaya Buddhist Darshana of Non-Vedic Hinduism / Hina Yaana Buddhism / Nikaya Buddhism (The Perspective of The Small Vehicle for Becoming a Budhha according to Indians who don't follow the Vedas / Early Way of Becoming Enlightened according to Indians who don't follow the Vedas / The Small Vehicle for Becoming Enlightened / Early Way of Becoming Enlightened)== (Early Buddhism)
-		2. ==Thera Vaada Buddhist Darshana of Non-Vedic Hinduism / Thera Vaada Buddhism (Proposition of Following the Ways of the Elders to Become Enlightened according to Indians who don't follow the Vedas / Proposition of Following the Ways of the Elders to Become Enlightened)== (Atheism)
-		3. ==Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Maha Yaana Buddhism (The Perspective of The Great Vehicle for Becoming a Budhha according to Indians who don't follow the Vedas / The Great Vehicle for Becoming Enlightened)== (Apatheism)
-		4. ==Zen Darshana of Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Zen Darshana of Maha Yaana Buddhism / Zen (The Perspective of Meditation of The Perspective of The Great Vehicle for Becoming a Buddha according to Indians who don't follow the Vedas / The Perspective of Meditation of The Perspective of The Great Vehicle for Becoming Enlightened / Meditation)== (Do Nothing)
-		5. ==Vajra Yaana Buddhist Darshana of Non-Vedic Hinduism / Vajra Yaana Buddhism (The Perspective of The Powerful Vehicle for Becoming a Budhha according to Indians who don't follow the Vedas / The Powerful Vehicle for Becoming Enlightened)== (Apatheism)
-	2. ==Jain Darshana of Non-Vedic Hinduism / Jain Dharma Darshana of Non-Vedic Hinduism / Jainism / Jain Dharma (The Perspective of The Way of Conquerers (of Senses) according to Indians who don't follow the Vedas / The Perspective of The Principles of The Way of Conquerers (of Senses) according to Indians who don't follow the Vedas / The Way of Conquerers (of Senses) / Principles of The Way of Conquerers (of Senses))==, by Mahavira
-		1. ==Shvetambara Darshana of Jain Darshana of Non-Vedic Hinduism / Shvetambara Darshana of Jain Dharma Darshana of Non-Vedic Hinduism / Shvetambara Darshana of Jainism / Shvetambara Darshana of Jain Dharma (White Clad Perspective of The Perspective of The Way of Conquerers (of Senses) according to Indians who don't follow the Vedas / White Clad Perspective of The Principles of The Way of Conquerers (of Senses) according to Indians who don't follow the Vedas / White Clad Perspective of The Perspective of The Way of Conquerers (of Senses) / White Clad Perspective of The Principles of The Way of Conquerers (of Senses))==, founded by Rishabhanata, historically traced back to Parshvanata, and revived by Mahavira
-		2. ==Digambara Darshana of Jain Darshana of Non-Vedic Hinduism / Digambara Darshana of Jain Dharma Darshana of Non-Vedic Hinduism / Digambara Darshana of Jainism / Digambara Darshana of Jain Dharma (Sky Clad Perspective of The Perspective of The Way of Conquerers (of Senses) according to Indians who don't follow the Vedas / Sky Clad Perspective of The Principles of The Way of Conquerers (of Senses) according to Indians who don't follow the Vedas / Sky Clad Perspective of The Perspective of The Way of Conquerers (of Senses) / Sky Clad Perspective of The Principles of The Way of Conquerers (of Senses))==, by Sivabhuti, from 82 AD
+1. ==Vedic Hinduism (The Beliefs of Indians who follow the Sanskrit Books of Knowledge)== / ==Astika Darshanas (Orthodox Beliefs of Indians)==
+	1. ==Sankhya Darshana of Vedic Hinduism (Digital Perspective of Indians who follow the Sanskrit Books of Knowledge)==
+	2. ==Yoga Darshana of Vedic Hinduism (The Perspective of Seeking Connection with Nature according to Indians who follow the Sanskrit Books of Knowledge)==
+	3. ==Nyaya Darshana of Vedic Hinduism (The Perspective of Understanding the Principles of Reality according to Indians who follow the Sanskrit Books of Knowledge)==
+	4. ==Vaisheshika Darshana of Vedic Hinduism (The Perspective of the Nature of Reality as being Particulate according to Indians who follow the Sanskrit Books of Knowledge)==
+	5. ==Mimamsa Darshana of Vedic Hinduism / Purva Mimasa Darshana of Vedic Hinduism / Karma Mimamsa Darshana of Vedic Hinduism (The Perspective of Reflection according to Indians who follow the Sanskrit Books of Knowledge / The Perspective of Reflection on Early (Vedic Texts) according to Indians who follow the Sanskrit Books of Knowledge / The Perspective of Reflection on Actions according to Indians who follow the Sanskrit Books of Knowledge)==
+	6. ==Uttara Mimasa Darshana of Vedic Hinduism / Vedanta Darshana of Vedic Hinduism (The Perspective of Reflection on Later (Vedic Texts) according to Indians who follow the Sanskrit Books of Knowledge / The Perspective of following the Summary of Sanskrit Books of Knowledge according to Indians who follow the Sanskrit Books of Knowledge)==
+		1. ==Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Monistic Summary of Sanskrit Books of Knowledge according to Indians who follow the Sanskrit Books of Knowledge)==, which was also called ==Advaita-Vaada (Proposition of Non-Dualism)==, ==Abheda Darshana (Perspective of Non-Difference)==, ==Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism)==, ==Kevala-Advaita (Essential Non-Dualism)== and ==Maya-Vaada (The Proposition that Reality is an Illusion)==
+		2. ==Bheda-Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Sanskrit Books of Knowledge that posits a Difference and Non-Difference according to Indians who follow the Sanskrit Books of Knowledge)==
+		3. ==Dvaita-Advaita Bedha-Abheda Vedanta Darshana of Vedic Hinduism / Svabhavika Bedha Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Sanskrit Books of Knowledge that posits a Panentheistic Difference and Non-Difference / The Perspective of following the Summary of Sanskrit Books of Knowledge that posits an Innate Difference and Non-Difference)==
+		4. ==Vishishta Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Special (Nuanced) Monistic Summary of Sanskrit Books of Knowledge)==
+		5. ==Dvaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Dualistic Summary of Sanskrit Books of Knowledge)==
+		6. ==Suddha Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Pure Monistic Summary of Sanskrit Books of Knowledge)==
+		7. ==Achintya-Bheda-Abheda Vedanta Darshana of Vedic Hinduism (The Perspective of following the Summary of Sanskrit Books of Knowledge that posits an Inconceivable Difference and Non-Difference)==
+		8. ==Akshar-Purushottam Darshana of Vishista Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Sanskrit Books of Knowledge)==
+		9. ==Modern Vedanta Darshana of Vedic Hinduism / Greater Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Modern Summary of Sanskrit Books of Knowledge / The Perspective of following the Greater Monistic Summary of Sanskrit Books of Knowledge)==
+2. ==Non-Vedic Hinduism (The Beliefs of Indians who don't follow the Sanskrit Books of Knowledge)==
+	1. ==Buddhist Darshana of Non-Vedic Hinduism / Buddhism (The Perspective of Becoming a Budhha according to Indians who don't follow the Sanskrit Books of Knowledge / Becoming Enlightened)==
+		1. ==Hina Yaana Buddhist Darshana of Non-Vedic Hinduism / Nikaya Buddhist Darshana of Non-Vedic Hinduism / Hina Yaana Buddhism / Nikaya Buddhism (The Perspective of The Small Vehicle for Becoming a Budhha according to Indians who don't follow the Sanskrit Books of Knowledge / Early Way of Becoming Enlightened according to Indians who don't follow the Sanskrit Books of Knowledge / The Small Vehicle for Becoming Enlightened / Early Way of Becoming Enlightened)== (Early Buddhism)
+		2. ==Thera Vaada Buddhist Darshana of Non-Vedic Hinduism / Thera Vaada Buddhism (Proposition of Following the Ways of the Elders to Become Enlightened according to Indians who don't follow the Sanskrit Books of Knowledge / Proposition of Following the Ways of the Elders to Become Enlightened)== (Atheism)
+		3. ==Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Maha Yaana Buddhism (The Perspective of The Great Vehicle for Becoming a Budhha according to Indians who don't follow the Sanskrit Books of Knowledge / The Great Vehicle for Becoming Enlightened)== (Apatheism)
+		4. ==Zen Darshana of Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Zen Darshana of Maha Yaana Buddhism / Zen (The Perspective of Meditation of The Perspective of The Great Vehicle for Becoming a Buddha according to Indians who don't follow the Sanskrit Books of Knowledge / The Perspective of Meditation of The Perspective of The Great Vehicle for Becoming Enlightened / Meditation)== (Do Nothing)
+		5. ==Vajra Yaana Buddhist Darshana of Non-Vedic Hinduism / Vajra Yaana Buddhism (The Perspective of The Powerful Vehicle for Becoming a Budhha according to Indians who don't follow the Sanskrit Books of Knowledge / The Powerful Vehicle for Becoming Enlightened)== (Apatheism)
+	2. ==Jain Darshana of Non-Vedic Hinduism / Jain Dharma Darshana of Non-Vedic Hinduism / Jainism / Jain Dharma (The Perspective of The Way of Conquerers (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / The Perspective of The Principles of The Way of Conquerers (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / The Way of Conquerers (of Senses) / Principles of The Way of Conquerers (of Senses))==, by Mahavira
+		1. ==Shvetambara Darshana of Jain Darshana of Non-Vedic Hinduism / Shvetambara Darshana of Jain Dharma Darshana of Non-Vedic Hinduism / Shvetambara Darshana of Jainism / Shvetambara Darshana of Jain Dharma (White Clad Perspective of The Perspective of The Way of Conquerers (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / White Clad Perspective of The Principles of The Way of Conquerers (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / White Clad Perspective of The Perspective of The Way of Conquerers (of Senses) / White Clad Perspective of The Principles of The Way of Conquerers (of Senses))==, founded by Rishabhanata, historically traced back to Parshvanata, and revived by Mahavira
+		2. ==Digambara Darshana of Jain Darshana of Non-Vedic Hinduism / Digambara Darshana of Jain Dharma Darshana of Non-Vedic Hinduism / Digambara Darshana of Jainism / Digambara Darshana of Jain Dharma (Sky Clad Perspective of The Perspective of The Way of Conquerers (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / Sky Clad Perspective of The Principles of The Way of Conquerers (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / Sky Clad Perspective of The Perspective of The Way of Conquerers (of Senses) / Sky Clad Perspective of The Principles of The Way of Conquerers (of Senses))==, by Sivabhuti, from 82 AD
 	3. ==Chaarvaka Darshana of Jain Darshana of Non-Vedic Hinduism / Lokayata Darshana of Jain Darshana of Non-Vedic Hinduism / Chaarvaka / Lokayata (Harmonious Speech / World Oriented)==
-	4. ==Ajeevika Darshana of Jain Darshana of Non-Vedic Hinduism / Niyati Vaada of Non-Vedic Hinduism / Ajeevika / Niyati Vaada (The Perspective of the Way of Life according to Indians who don't follow the Vedas / The Proposition of Fate according to Indian's who don't follow the Vedas / Way of Life / Proposition of Fate)==
-	5. ==Ajnana Darshana of Non-Vedic Hinduism / Ajnana (Skeptic Perspective of Indians who don't follow the Vedas / Skepticism)==
+	4. ==Ajeevika Darshana of Jain Darshana of Non-Vedic Hinduism / Niyati Vaada of Non-Vedic Hinduism / Ajeevika / Niyati Vaada (The Perspective of the Way of Life according to Indians who don't follow the Sanskrit Books of Knowledge / The Proposition of Fate according to Indian's who don't follow the Sanskrit Books of Knowledge / Way of Life / Proposition of Fate)==
+	5. ==Ajnana Darshana of Non-Vedic Hinduism / Ajnana (Skeptic Perspective of Indians who don't follow the Sanskrit Books of Knowledge / Skepticism)==
 4. ==Sikhism (Being a Disciple)==
 ### Darshana Notes
 - Astika
-	- Should believe in Vedas
+	- Should believe in Vedas (Sanskrit Books of Knowledge)
 	- Should believe in Atman (Soul)
 - Nastika
 	- Everyone Else

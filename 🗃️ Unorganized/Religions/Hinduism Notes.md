@@ -2,23 +2,15 @@ In Culture:
 - [[Hindu Culture]]
 
 In Religion:
-
-## Temp rough (delete this section)
-- Hinduism
-	- Buddhism
-		- Sects
-			- Subsects (iterate)
-	- Jainism
-		- Sects
 ## Rough
 - [[Hinduism Index]]
 - [[Wikipedia Hinduism Organization]]
 - [[Hindu Text Excerpts]]
 - [[Hinduism Rough Notes]]
 ## Component Notes
-- [[Vedas]]
-	- [[Vedangas]]
-	- [[Vedic Shakhas]]
+- [[Vedas]] (Knowledge)
+	- [[Vedangas]] (Philosophical Disciplines of Vedas)
+	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
 - [[Sutras]]
 	- [[Dharma Sutras]]
 	- [[Dharma Shastra]]
