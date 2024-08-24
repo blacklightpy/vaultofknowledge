@@ -578,9 +578,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62b3e54aa9e3c631",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -647,7 +655,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -664,7 +671,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -675,9 +681,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md"
-              }
+              "state": {}
             }
           },
           {
@@ -743,10 +747,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d25c7b83a08bccc",
+  "active": "62b3e54aa9e3c631",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
     "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
+    "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
     "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
     "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5.md",
