@@ -598,7 +598,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Study of Plants.md",
+                "file": "🗃️ Unorganized/General Notes/Logic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -673,7 +673,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Study of Plants.md",
+                "file": "🗃️ Unorganized/General Notes/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -690,7 +690,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Study of Plants.md",
+                "file": "🗃️ Unorganized/General Notes/Logic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -702,7 +702,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Study of Plants.md"
+                "file": "🗃️ Unorganized/General Notes/Logic.md"
               }
             }
           },
@@ -769,10 +769,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "f196b3ffc089d02f",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Study of Animals.md",
+    "🗺️ World Exploration/Life Forms/Study of Plants.md",
+    "🗃️ Unorganized/General Notes/Logic.md",
     "🗺️ World Exploration/Life Forms",
-    "🗃️ Unorganized/General Notes/Study of Plants.md",
     "🗃️ Unorganized/General Notes/Irony of the Hindu Muslim Conflict.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
@@ -796,7 +798,6 @@
     "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
-    "🗃️ Unorganized/General Notes/Millenarianism.md",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
     "_images/Usool al-Hadeeth - Overview.png",
@@ -815,7 +816,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts",
-    "🗃️ Unorganized/Religions/Hinduism",
     "_images/Shamanistic Exorcism Ritual.png"
   ]
 }
