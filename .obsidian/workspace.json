@@ -565,9 +565,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d25c7b83a08bccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -617,7 +630,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -633,7 +647,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
+                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -650,7 +664,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
+                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -662,7 +676,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md"
+                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md"
               }
             }
           },
@@ -729,8 +743,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "5d25c7b83a08bccc",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
     "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
     "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
     "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
@@ -756,7 +771,6 @@
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Dualism.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/General Notes/Virtual Memory.md",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
     "_images/Usool al-Hadeeth - Overview.png",
