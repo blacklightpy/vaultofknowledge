@@ -604,9 +604,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15f30d8aea5598bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Etymology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -673,7 +686,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic.md",
+                "file": "🗃️ Unorganized/General Notes/Etymology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -690,7 +703,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic.md",
+                "file": "🗃️ Unorganized/General Notes/Etymology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -702,7 +715,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic.md"
+                "file": "🗃️ Unorganized/General Notes/Etymology.md"
               }
             }
           },
@@ -769,11 +782,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f196b3ffc089d02f",
+  "active": "15f30d8aea5598bc",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Logic.md",
     "🗃️ Unorganized/General Notes/Study of Animals.md",
     "🗺️ World Exploration/Life Forms/Study of Plants.md",
-    "🗃️ Unorganized/General Notes/Logic.md",
     "🗺️ World Exploration/Life Forms",
     "🗃️ Unorganized/General Notes/Irony of the Hindu Muslim Conflict.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
