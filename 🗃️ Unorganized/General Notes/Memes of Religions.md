@@ -125,13 +125,13 @@ Some are just crazy (Polytheism, Atheism, Strange Rituals)
 		- ==Akshar-Purushottam Darshana of Vishista Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of Namesake and Supreme (Forms of God) of the Special (Nuanced) Monistic Summary of Vedas)==
 		- ==Modern Vedanta Darshana of Vedic Hinduism / Greater Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Modern Summary of Vedas / The Perspective of following the Greater Monistic Summary of Vedas)==
 - ==Non-Vedic Hinduism (The Beliefs of Indians who don't follow the Vedas)==
-	- ==Buddhist Darshana of Non-Vedic Hinduism / Buddhism (The Perspective of Becoming a Budhha according to Indians who don't follow the Vedas / Becoming a Buddha)==
-		- ==Thera Vaada Buddhist Darshana of Non-Vedic Hinduism / Thera Vaada Buddhism ( / Proposition of Following the Ways of the Elders)== (Atheism)
-		- ==Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Maha Yaana Buddhism (The Perspective of The Great Vehicle according to Indians who don't follow the Vedas / The Great Vehicle)== (Apatheism)
-		- Zen Darshana of Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Zen Darshana of Maha Yaana Buddhism / Zen (Meditation 
+	- ==Buddhist Darshana of Non-Vedic Hinduism / Buddhism (The Perspective of Becoming a Budhha according to Indians who don't follow the Vedas / Becoming Enlightened)==
+		- ==Thera Vaada Buddhist Darshana of Non-Vedic Hinduism / Thera Vaada Buddhism ( / Proposition of Following the Ways of the Elders to Become Enlightened)== (Atheism)
+		- ==Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Maha Yaana Buddhism (The Perspective of The Great Vehicle for Becoming a Budhha according to Indians who don't follow the Vedas / The Great Vehicle for Becoming Enlightened)== (Apatheism)
+		- ==Zen Darshana of Maha Yaana Buddhist Darshana of Non-Vedic Hinduism / Zen Darshana of Maha Yaana Buddhism / Zen (The Perspective of Meditation of The Perspective of The Great Vehicle for Becoming a Buddha according to Indians who don't follow the Vedas / The Perspective of Meditation of The Perspective of The Great Vehicle for Becoming Enlightened / Meditation)== (Do Nothing)
 		- Vajra Yaana Buddhist Darshana of Non-Vedic Hinduism / Vajra Yaana Buddhism ( / Powerful Vehicle) (Apatheism)
-	- ==Jain Darshana of Non-Vedic Hinduism / Jain Dharma Darshana of Non-Vedic Hinduism / Jainism / Jain Dharma (The Way of Conquerers (of Senses) / Principles of The Way of Conquerers)==, by Mahavira
-		- Shvetambara Jain Darshana of Non-Vedic Hinduism / Jain Dharma Darshana of Non-Vedic Hinduism / Jainism / Jain Dharma (Sky Clad), founded by Rishabhanata, historically traced back to Parshvanata, and revived by Mahavira
+	- ==Jain Darshana of Non-Vedic Hinduism / Jain Dharma Darshana of Non-Vedic Hinduism / Jainism / Jain Dharma (The Perspective of The Way of Conquerers (of Senses) according to Indians who don't follow the Vedas / The Perspective of The Principles of The Way of Conquerers according to Indians who don't follow the Vedas / The Way of Conquerers (of Senses) / Principles of The Way of Conquerers)==, by Mahavira
+		- Shvetambara Darshana of Jain Darshana of Non-Vedic Hinduism / Jain Dharma Darshana of Non-Vedic Hinduism / Jainism / Jain Dharma (Sky Clad Perspective of), founded by Rishabhanata, historically traced back to Parshvanata, and revived by Mahavira
 		- Digambara Darshana of Jain Darshana of Non-Vedic Hinduism / Digambara Darshana of Jain Dharma Darshana of Non-Vedic Hinduism / Digambara Darshana of Jainism / Digambara Darshana of Jain Dharma (White Clad), by Sivabhuti, from 82 AD
 	- ==Chaarvaka / Lokayata (Harmonious Speech / World Oriented)==
 	- ==Ajeevika / Niyati Vaada (Way of Life / Proposition of Fate)==
@@ -140,3 +140,4 @@ Some are just crazy (Polytheism, Atheism, Strange Rituals)
 
 # Other
 - Jeung San Do (The Way of The Jeung San Mountain)
+- Mu-Sok / Mu-Ism / Sinism (Korean Shamanism)

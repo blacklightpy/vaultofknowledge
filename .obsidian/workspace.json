@@ -474,22 +474,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "02d7e4aa7aa2ae8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Millenarianism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -557,7 +544,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Millenarianism.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -574,7 +561,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Millenarianism.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -586,7 +573,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Millenarianism.md"
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
               }
             }
           },
@@ -653,15 +640,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "02d7e4aa7aa2ae8a",
+  "active": "b30a07558ded6110",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "🗃️ Unorganized/General Notes/Millenarianism.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
     "🗃️ Unorganized/General Notes/Monism and Dualism.md",
-    "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Dualism.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
