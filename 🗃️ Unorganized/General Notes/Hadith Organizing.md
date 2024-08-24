@@ -46,7 +46,8 @@ Origin of Hadith Isnads: https://sunnahonline.com/library/fiqh-and-sunnah/277-in
 
 - Main Criticism
 	- The Qur'an narrated by Mohammed as revelation from God was neither truth, nor one that was made with an inclination towards goodness. However, the Hebrew TaNaKh and Christian Bible were made with an inclination towards good, and that is the basic difference. Of the two, the Jewish teaching remains more rational, because of its completion only with the combination of the Mishnah and Gemara of the Talmud, which is revised according to debates.
-	- And the fact that Jews do debate is precisely the reason why the Yeshua accused them of "altering the true word of God", and claiming
+	- And the fact that Jews do debate is precisely the reason why the Yeshua accused them of "altering the true word of God", and claiming that the prophecy of "heaven" will be satisfied in an outside world.
+		- And of course, people can sacrifice their lives to do that. We've seen Muslims do this, and we've seen the Jonestown Massacre and the Aum Shinrikyo cult. They are world-denying
 ### Plan
 - Criticizing Islam 
 
