@@ -539,9 +539,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1118f98f192f359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 40
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -609,7 +622,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
+                "file": "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -626,7 +639,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
+                "file": "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -638,7 +651,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md"
+                "file": "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md"
               }
             }
           },
@@ -705,8 +718,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a2ee2d7f81681d22",
+  "active": "d1118f98f192f359",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Why it is necessary to define numbers and rituals.md",
     "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
@@ -734,7 +748,6 @@
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
     "🗃️ Unorganized/General Notes/Storage Blocks.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "_images/Usool al-Hadeeth - Overview.png",
     "_images/Usool al-Hadeeth - Testing the Chain.png",
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
