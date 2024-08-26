@@ -65,6 +65,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 				- **Mahat**: The first product of cosmic evolution. This gives rise to Buddhi (intellect) in living beings.
 				- **Ahamkara** (Ego Sense): The second product of evolution. This is responsible for self-sense in living beings.
 				- **Manas** (Instinctive Mind): It evolves from the Sattva aspect of Ahamkara.
+				- Antah Karana ()
 				- **Pancha Jnana Indriya** (Five Sense Organs): They evolve from the Sattva aspect of Ahamkara. Ears, Skin, Eyes, Tongue and Nose.
 				- **Pancha Karma Indriya** (Five Organs of Action): They too evolve from the Sattva aspect of Ahamkara. They are the Hands, Legs, Vocal Apparatus, Urino-Genital Organ and Anus.
 				- **Pancha Tan Matras** (Five Subtle Elements): They evolve from the Tamas aspect of Ahamkara. They are the root energies of Sound, Touch, Sight, Taste and Smell.
