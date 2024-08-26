@@ -70,10 +70,16 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 					- Manas (Mind)
 					- Aham Kaara (Ego / I-Sense)
 					- Chit (Memory)
-				- **Pancha Jnana Indriya** (Five Sense Organs): They evolve from the Sattva aspect of Ahamkara. Ears, Skin, Eyes, Tongue and Nose.
-				- **Pancha Karma Indriya** (Five Organs of Action): They too evolve from the Sattva aspect of Ahamkara. They are the Hands, Legs, Vocal Apparatus, Urino-Genital Organ and Anus.
-				- **Pancha Tan Matras** (Five Subtle Elements): They evolve from the Tamas aspect of Ahamkara. They are the root energies of Sound, Touch, Sight, Taste and Smell.
-				- **Pancha Maha Bhuta** (Five Great Substances): Earth, Air, Fire, Water and Ether. This is the visible aspect of the Physical Universe.
+				- **Pancha Jnana Indriya** (Five Sense Organs):
+					- They evolve from the Sattva aspect of Ahamkara.
+					- They are the Ears, Skin, Eyes, Tongue and Nose.
+				- **Pancha Karma Indriya** (Five Organs of Action):
+					- They too evolve from the Sattva aspect of Ahamkara.
+					- They are the Hands, Legs, Vocal Apparatus, Urino-Genital Organ and Anus.
+				- **Pancha Tan Matras** (Five Subtle Elements):
+					- They evolve from the Tamas aspect of Ahamkara.
+					- They are the root energies of Sound (**Shabda**), Touch (**Sparsha**), Form (**Rupa**), Taste (**Rasa**) and Smell (**Gandha**).
+				- **Pancha Maha Bhuta** (Five Great Substances): Earth (Prithvi), Air (Vaayu), Fire (Agni), Water (Jala) and Ether (Aakasha). This is the visible aspect of the Physical Universe.
 	- **Glossary of Terms**
 		- Samsara (Cyclic Existence)
 		- Kalachakra (The Cycle of Samsara)
@@ -181,6 +187,10 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 			- **Rules**
 				- They are a very simply list
 				- 5 mahāvratas (great vows); 5 samitis (restraints); 5 indriya nirodha (control of the five senses); 6 āvaśyakas (essential observations); and 7 niyamas (rules)
+	- **Philosophy**
+		- Anekanta Vaada (The Proposition of Non-One Sidedness)
+			- It is the fundamental philosophy of Mahavira, which states that the truth is perceived from different points of view
+			- Only Kevalas (All Knowers) can know the complete truth
 - 3. Charvaka
 	- **Epistemology**
 	- It only supports
