@@ -38,7 +38,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Purusa is bound to Prakriti by **Jiva**
 		- **Moksha** is how the soul is liberated
 	- **Epistemology**
-		- Knowledge is possible through three **Pramanas** (means):
+		- Knowledge is possible through three **Pramanas** (Means):
 			- **Pratyaksha** (Direct Perception)
 			- **Anumana** (Logical Inference)
 			- **Sabda** (Verbal Testimony)
@@ -49,11 +49,11 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
 			- Liberation is the natural goal of every Soul.
 		- Cause and Effect
-			- The Sankhya Darshana is based on Sat-Karya-Vaada (Proposition of Existent Effects)
+			- The Sankhya Darshana is based on Sat-Karya Vaada (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
-			- Sankhya Darshana explains Sat-Karya-Vada based on Prakriti-Parinama Vaada ()
+			- Sankhya Darshana explains Sat-Karya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
 		- Cosmic Evolution
 			- According to Sankhya, Nature is the source of the world becoming
 			- Nature is pure potentiality that evolves into 24 **Tattvas** (Fundamental Elements)
@@ -119,58 +119,59 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- It focuses on the later parts of the Vedas
 	- It is like the opposite of Sankhya school of thought
 		- It sees the world as a manifestation of Brahman
-	- Types
+	- Types (List)
 		- 6.1. Advaita Vedanta (8th century, by Shankara Acharya)
 		- 6.2. Bheda-Abheda Vedanta (difference and non-difference) (9th century, by Bhaskara Acharya)
-			- 6.2.1. Dvaitadvaita Vedanta (Around Shankara and Ramanuja, by Nimbarka Acharya)
-		- 6.3. Vishishtadvaita Vedanta (11th century)
-			- 6.3.1. Akshar-Purushottam (18th century, by Ramanuja Acharya)
+			- 6.2.1. Dvaita Advaita Vedanta (Around the time of Shankara and Ramanuja, by Nimbarka Acharya)
+		- 6.3. Vishishta Advaita Vedanta (11th century, by Ramanuja Acharya)
+			- 6.3.1. Akshar-Purushottam (18th century)
 		- 6.4. Dvaita Vedanta (13th century, by Madhava Acharya)
-		- 6.5. Shuddhadvaita Vedanta (15th century, by Vallabha Acharya)
+		- 6.5. Shuddha Advaita Vedanta (15th century, by Vallabha Acharya)
 		- 6.6. Achintya-Bheda-Abheda Vedanta (15th century)
 		- 6.7. Modern Vedanta / Greater Advaita Vedanta (19th century)
 
-- 6.1. Advaita Vedanta (Monistic)
-	- By Shankaracharya
-	- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Essential Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
-- 6.2. Bheda Abheda Vedanta (Difference and Oneness)
-	- By Bhaskaracharya
-	- Individual self is both different and not different from Brahman
-	- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahman's natural state
-	- **Sub-denominations:**
-		- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Difference and Oneness in the Natural State)
-			- By Nimbarkacharya
-			- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
-			- Both Oneness and Difference are equal, because that's Brahman's natural state
-			- Nimbarka follows Parinama Vaada (The Proposition of Transformation), which states that the world is a real Parinama (transformation) of Brahman, to explain the cause of the world. Chit (Sentient) and Achit (Non-Sentient) forms of reality exist at a subtle form with Brahman in his natural state, in the varying Shaktis (Capacities). But he exerts his Capacities to bring them to the gross form.
-- 6.3. Vishishta Advaita Vedanta (Special Non-Difference)
-	- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
-	- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
-	- Ishvara is Para Brahman with Kalyana Gunas (good attributes), and Jiva and Jagat are its secondary attributes
-	- Chit is like Purusha in Sankya, and Achit is like Prakriti in Sankhya
-	- Brahman is both the cause (Karana) and effect (Karya); the universe is not separate
-	- Brahman has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
-	- Bhakti is the sole means of liberation
-	- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
-	- **Sub-denominations:**
-		- 6.3.1. Akshar Purushottam Darshan (as termed by BAPS) / Swaminarayan Sampradaya
-			- A version of Vishishta Advaita Vedanta, where Para Brahman is Krishna
-			- Para Brahman is thought to have manifested as Swaminarayana
-			- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
-			- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
-			- BAPS believe that Akshar Brahman is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahman resides
-- 6.4. Dvaita / Tattvavada Vedanta (Dualistic / Proposition of Elements)
-	- By Madhavacharya
-- 6.5. Shuddha Advaita Vedanta (Pure Oneness)
-	- By Vallabhacharya
-	- A Vaishnava tradition based on the worship of Krishna
-	- Maya is not an illusion, but is a power of Ishvara. Ishvara is the creator and the created.
-	- Bhakti is the path to realization, Jnana is also helpful; Karma precedes and follows realization
-	- Moksha is not the goal, service of Krishna is
-	- Everything is Krishna's Leela
-- 6.6. Achintya Bedha Abheda (Inconceivable Difference and Oneness)
-- 6.7. Modern Vedanta
-	- Personal Experience > Sruti
+- Types of Vedanta
+	- 6.1. Advaita Vedanta (Monistic)
+		- By Shankaracharya
+		- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Essential Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
+	- 6.2. Bheda Abheda Vedanta (Difference and Oneness)
+		- By Bhaskaracharya
+		- Individual self is both different and not different from Brahman
+		- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahman's natural state
+		- **Sub-denominations:**
+			- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Difference and Oneness in the Natural State)
+				- By Nimbarkacharya
+				- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
+				- Both Oneness and Difference are equal, because that's Brahman's natural state
+				- Nimbarka follows Parinama Vaada (The Proposition of Transformation), which states that the world is a real Parinama (transformation) of Brahman, to explain the cause of the world. Chit (Sentient) and Achit (Non-Sentient) forms of reality exist at a subtle form with Brahman in his natural state, in the varying Shaktis (Capacities). But he exerts his Capacities to bring them to the gross form.
+	- 6.3. Vishishta Advaita Vedanta (Special Non-Difference)
+		- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
+		- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
+		- Ishvara is Para Brahman with Kalyana Gunas (good attributes), and Jiva and Jagat are its secondary attributes
+		- Chit is like Purusha in Sankya, and Achit is like Prakriti in Sankhya
+		- Brahman is both the cause (Karana) and effect (Karya); the universe is not separate
+		- Brahman has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
+		- Bhakti is the sole means of liberation
+		- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
+		- **Sub-denominations:**
+			- 6.3.1. Akshar Purushottam Darshan (as termed by BAPS) / Swaminarayan Sampradaya
+				- A version of Vishishta Advaita Vedanta, where Para Brahman is Krishna
+				- Para Brahman is thought to have manifested as Swaminarayana
+				- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
+				- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
+				- BAPS believe that Akshar Brahman is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahman resides
+	- 6.4. Dvaita / Tattvavada Vedanta (Dualistic / Proposition of Elements)
+		- By Madhavacharya
+	- 6.5. Shuddha Advaita Vedanta (Pure Oneness)
+		- By Vallabhacharya
+		- A Vaishnava tradition based on the worship of Krishna
+		- Maya is not an illusion, but is a power of Ishvara. Ishvara is the creator and the created.
+		- Bhakti is the path to realization, Jnana is also helpful; Karma precedes and follows realization
+		- Moksha is not the goal, service of Krishna is
+		- Everything is Krishna's Leela
+	- 6.6. Achintya Bedha Abheda (Inconceivable Difference and Oneness)
+	- 6.7. Modern Vedanta
+		- Personal Experience > Sruti
 
 
 Samkhya follows Prakriti-Parinama Vada while Vishishta Advaita follows Brahman-Parinama Vada for Sat-Karya Vada.
