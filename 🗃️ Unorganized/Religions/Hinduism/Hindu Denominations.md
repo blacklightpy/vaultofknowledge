@@ -56,14 +56,14 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Cosmic Evolution
 			- According to Sankhya, Nature is the source of the world becoming
 			- Nature is pure potentiality that evolves into 24 **Tattvas** (Principles)
-			- The world evolves due to tensions of the three **Gunas** (Traits) of Nature
+			- The evolution happens due to tensions of the three **Gunas** (Traits) of Nature
 				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
 				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
 				- **Tamas** - Inertia or Resistance to Action (e.g. Coarseness, Heaviness, Obstruction, Sloth)
 			- The 24 Tattvas that the world evolves into are:
 				- **Prakriti**: The absolute potentiality
 				- **Mahat**: The first product of cosmic evolution. This gives rise to Buddhi (intellect) in living beings
-				- **Ahamkara** (Ego Sense): The second product of evolution. This is responsible for self-sence in living beings
+				- **Ahamkara** (Ego Sense): The second product of evolution. This is responsible for self-sense in living beings
 				- **Manas** (Instinctive Mind): It evolves from the Sattva aspect of Ahamkara
 				- (to refine the below)
 				- **Panch Jnana Indriya** (Five Sense Organs): also evolves from the Sattva aspect of Ahamkara.
