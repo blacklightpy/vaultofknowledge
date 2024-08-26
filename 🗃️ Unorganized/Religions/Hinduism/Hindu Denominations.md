@@ -80,7 +80,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 				- **Pancha Tan Matras** (Five Subtle Elements):
 					- They evolve from the Tamas aspect of Ahamkara.
 					- They are the root energies of Sound (**Shabda**), Touch (**Sparsha**), Form (**Rupa**), Taste (**Rasa**) and Smell (**Gandha**).
-				- **Pancha Maha Bhuta** (Five Great Substances): Earth (Prithvi), Air (Vaayu), Fire (Agni), Water (Jala) and Ether (Aakasha). This is the visible aspect of the Physical Universe.
+				- **Pancha Maha Bhuta** (Five Great Substances): Earth (**Prithvi**), Air (**Vaayu**), Fire (**Agni**), Water (**Jala**) and Ether (**Aakasha**). This is the visible aspect of the Physical Universe.
 	- **Glossary of Terms**
 		- Samsara (Cyclic Existence)
 		- Kalachakra (The Cycle of Samsara)
@@ -128,13 +128,13 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 	- **Brief**
-		- There are nine constituents of reality
+		- There are nine constituents of Reality
 			- Four types of Atoms
-				- Earth, Water, Fire and Air
+				- Earth (**Prithvi**), Air (**Vaayu**), Fire (**Agni**), Water (**Jala**)
 			- Five types of Substances
-				- Space (Akasha), Time (Kaala), direction (disha), infinity of souls (Atman), mind (manas).
+				- Space (**Akasha**), Time (**Kaala**), Direction (**Disha**), Infinity of Souls (**Atman**), Mind (**Manas**).
 		- Categories
-			- It states that all things that exist can be classified into seven **Padarthas** (Categories):
+			- It states that all things that exist can be classified into seven **Padaarthas** (Categories):
 				- **Dravya** (Substance)
 				- **Guna** (Quality)
 				- **Karma** (Activity)
