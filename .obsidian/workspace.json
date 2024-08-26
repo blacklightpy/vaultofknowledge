@@ -494,7 +494,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -700,7 +700,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ayam atma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -717,12 +717,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -738,7 +738,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -755,7 +755,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -767,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
               }
             }
           },
@@ -834,11 +834,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "888be0418cb27fbf",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
@@ -862,7 +863,6 @@
     "🗃️ Unorganized/General Notes/Study of Animals.md",
     "🗺️ World Exploration/Life Forms/Study of Plants.md",
     "🗺️ World Exploration/Life Forms",
-    "🗃️ Unorganized/General Notes/Irony of the Hindu Muslim Conflict.md",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
     "_images/Usool al-Hadeeth - Overview.png",
