@@ -717,7 +717,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -834,7 +835,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "888be0418cb27fbf",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
