@@ -643,9 +643,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "729872b1a5e1a332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🤠 Personal/Style.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -712,7 +725,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Design To Read.md",
+                "file": "🤠 Personal/Style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -729,7 +742,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Design To Read.md",
+                "file": "🤠 Personal/Style.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -741,7 +754,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Design To Read.md"
+                "file": "🤠 Personal/Style.md"
               }
             }
           },
@@ -808,8 +821,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "89995fda0f757476",
+  "active": "729872b1a5e1a332",
   "lastOpenFiles": [
+    "🤠 Personal/Style.md",
     "🗃️ Unorganized/General Notes/Design To Read.md",
     "🗃️ Unorganized/General Notes/New Programming Languages.md",
     "🗃️ Unorganized/General Notes/Programming Languages.md",
@@ -836,7 +850,6 @@
     "🗃️ Unorganized/General Notes/Meaning.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/Philosophical Zombie.md",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
     "_images/Usool al-Hadeeth - Overview.png",
