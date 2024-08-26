@@ -643,9 +643,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8bed00ab53ba9266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 37
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -712,7 +725,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -729,7 +742,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Science.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -741,7 +754,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Science.md"
               }
             }
           },
@@ -808,10 +821,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "888be0418cb27fbf",
+  "active": "8bed00ab53ba9266",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Logic.md",
     "🗃️ Unorganized/General Notes/Etymology.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
