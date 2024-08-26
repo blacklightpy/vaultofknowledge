@@ -55,7 +55,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
 		- Cosmic Evolution
 			- According to Sankhya, Nature is the source of the world becoming
-			- Nature is pure potentiality that evolves into 24 **Tattvas** (Element)
+			- Nature is pure potentiality that evolves into 24 **Tattvas** (Elements)
 			- The evolution happens due to tensions of the three **Gunas** (Traits) of Nature
 				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
 				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
