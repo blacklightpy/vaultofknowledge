@@ -55,7 +55,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
 		- Cosmic Evolution
 			- According to Sankhya, Nature is the source of the world becoming
-			- Nature is pure potentiality that evolves into 24 **Tattvas** (Elements)
+			- Nature is pure potentiality that evolves into 24 **Tattvas** (Fundamental Elements)
 			- The evolution happens due to tensions of the three **Gunas** (Traits) of Nature
 				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
 				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
@@ -124,12 +124,13 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 - 6.2. Bheda Abheda Vedanta (Difference and Oneness)
 	- By Bhaskaracharya
 	- Individual self is both different and not different from Brahman
-	- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more
+	- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahman's natural state
 	- **Sub-denominations:**
 		- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Natural Difference and Oneness)
 			- By Nimbarkacharya
 			- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
-			- Both Oneness and Difference are equal characteristics
+			- Both Oneness and Difference are equal, because that's Brahman's natural state
+			- Nimbarka follows Parinama Vaada (The Proposition of Transformation), which states that the world is a real Parinama (transformation) of Brahman, to explain the cause of the world. Chit (Sentient) and Achit (Non-Sentient) forms of reality exist at a subtle form with Brahman in his natural state, in the varying Shaktis (Capacities). But he exerts his Capacities to bring them to the gross form.
 - 6.3. Vishishta Advaita Vedanta
 	- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
 	- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
