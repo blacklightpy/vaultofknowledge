@@ -195,6 +195,8 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- 6.1. Advaita Vedanta (Monistic)
 		- By Shankaracharya
 		- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Essential Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
+		- **Texts**
+			- Panchadasi by Madhava Acharya (A simple manual)
 	- 6.2. Bheda Abheda Vedanta (Difference and Oneness)
 		- By Bhaskaracharya
 		- Individual self is both different and not different from Brahman
