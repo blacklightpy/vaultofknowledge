@@ -127,6 +127,28 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Knowledge is possible through two **Pramanas** (Means):
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
+	- **Brief**
+		- There are nine constituents of reality
+			- Four types of Atoms
+				- Earth, Water, Fire and Air
+			- Five types of Substances
+				- Space (Akasha), Time (Kaala), direction (disha), infinity of souls (Atman), mind (manas).
+		- Categories
+			- It states that all things that exist can be classified into seven **Padarthas** (Categories):
+				- **Dravya** (Substance)
+				- **Guna** (Quality)
+				- **Karma** (Activity)
+				- **Saamaanya** (Generality)
+				- **Vishesha** (particularity)
+				- **Samavaaya** (Inherence)
+				- **Abhaava** (Non-Existence)
+		- Atoms
+			- It postulated four different kinds of Anus (Particles): two with mass, and two without
+			- Each substance is supposed to consist of all four kinds of atoms
+			- Atoms can be combined into Try-Anukas (Triads) and Dvay-Anukas (Dyad) before they aggregate into bodies of a kind that can be perceived
+			- Each Paramanu (Atom) possesses its own distinct Vishesha (Speciality)
+			- Everything humans perceive is a composite particle
+			- 
 
 - 5. Mimamsa / Purva Mimamsa
 	- By Prabhakara and Bhatta
