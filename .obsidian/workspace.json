@@ -656,9 +656,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55042e454d0e910e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to create anything.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 49
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -725,7 +738,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Science.md",
+                "file": "🗃️ Unorganized/General Notes/How to create anything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -742,7 +755,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Science.md",
+                "file": "🗃️ Unorganized/General Notes/How to create anything.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -754,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Science.md"
+                "file": "🗃️ Unorganized/General Notes/How to create anything.md"
               }
             }
           },
@@ -821,8 +834,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8bed00ab53ba9266",
+  "active": "55042e454d0e910e",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to create a language.md",
+    "🗃️ Unorganized/General Notes/Science.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Logic.md",
@@ -848,8 +863,6 @@
     "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Semiotics.md",
-    "🗃️ Unorganized/General Notes/Sign Process.md",
-    "🗃️ Unorganized/General Notes/Meaning.md",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
     "_images/Usool al-Hadeeth - Overview.png",
