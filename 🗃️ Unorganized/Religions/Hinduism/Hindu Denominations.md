@@ -52,6 +52,9 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- The Sankhya Darshana is based on Sat-Karya Vaada (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
+				- Maya has two powers
+					- Avarna (Veiling)
+					- Vikshepa (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
 			- Sankhya Darshana explains Sat-Karya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
 		- Cosmic Evolution
@@ -66,11 +69,12 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 				- **Mahat**: The first product of cosmic evolution. This gives rise to Buddhi (intellect) in living beings.
 				- **Ahamkara** (Ego Sense): The second product of evolution. This is responsible for self-sense in living beings.
 				- **Manas** (Instinctive Mind): It evolves from the Sattva aspect of Ahamkara.
-				- Antahkarana (Inner Instruments)
-					- Buddhi (Intellect)
-					- Manas (Mind)
-					- Aham Kaara (Ego / I-Sense)
-					- Chit (Memory)
+				- (Doubt)
+					- **Antahkarana** (Inner Instruments)
+						- **Buddhi** (Intellect)
+						- **Manas** (Instinctive Mind)
+						- **Aham Kaara** (Ego / I-Sense)
+						- **Chit** (Memory)
 				- **Pancha Jnana Indriya** (Five Sense Organs):
 					- They evolve from the Sattva aspect of Ahamkara.
 					- They are the Ears, Skin, Eyes, Tongue and Nose.
