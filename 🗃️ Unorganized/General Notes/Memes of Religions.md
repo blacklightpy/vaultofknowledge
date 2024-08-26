@@ -105,7 +105,7 @@ Why? Here's my guess:
 I will define a Hindu as an Indian, based on Geography. (Hindu <= Sindhu River)
 Hindus have different perspectives.
 
-Some follow Vedas (Sanskrit Books of Knowledge)
+Some follow Vedas (Sanskrit Books of Knowledge) (from it some follow some sects)
 Some follow Other Stuff
 Some follow Islam
 Some follow Christianity
@@ -113,10 +113,10 @@ Some follow Judaism
 Some are just crazy (Polytheism, Atheism, Strange Rituals)
 
 1. ==Vedic Hinduism (The Beliefs of Indians who follow the Sanskrit Books of Knowledge)== / ==Astika Darshanas (Orthodox Beliefs of Indians)==
-	1. ==Sankhya Darshana of Vedic Hinduism (Digital Perspective of Indians who follow the Sanskrit Books of Knowledge)==, proposed by Kapila
-	2. ==Yoga Darshana of Vedic Hinduism (The Perspective of Seeking Connection with Nature according to Indians who follow the Sanskrit Books of Knowledge)==
+	1. ==Sankhya Darshana of Vedic Hinduism (Digital Perspective of Indians who follow the Sanskrit Books of Knowledge)==, proposed by Kapila Maharshi
+	2. ==Yoga Darshana of Vedic Hinduism (The Perspective of Seeking Connection with Nature according to Indians who follow the Sanskrit Books of Knowledge)==, proposed by Patanjali
 	3. ==Nyaya Darshana of Vedic Hinduism (The Perspective of Understanding the Principles of Reality according to Indians who follow the Sanskrit Books of Knowledge)==
-	4. ==Vaisheshika Darshana of Vedic Hinduism (The Perspective of the Nature of Reality as being Particulate according to Indians who follow the Sanskrit Books of Knowledge)==
+	4. ==Vaisheshika Darshana of Vedic Hinduism (The Perspective of the Nature of Reality as being Particulate according to Indians who follow the Sanskrit Books of Knowledge)==, proposed by Kanada Maharshi
 	5. ==Mimamsa Darshana of Vedic Hinduism / Purva Mimasa Darshana of Vedic Hinduism / Karma Mimamsa Darshana of Vedic Hinduism (The Perspective of Reflection according to Indians who follow the Sanskrit Books of Knowledge / The Perspective of Reflection on Early (Vedic Texts) according to Indians who follow the Sanskrit Books of Knowledge / The Perspective of Reflection on Actions according to Indians who follow the Sanskrit Books of Knowledge)==
 	6. ==Uttara Mimasa Darshana of Vedic Hinduism / Vedanta Darshana of Vedic Hinduism (The Perspective of Reflection on Later (Vedic Texts) according to Indians who follow the Sanskrit Books of Knowledge / The Perspective of following the Summary of Sanskrit Books of Knowledge according to Indians who follow the Sanskrit Books of Knowledge)==
 		1. ==Advaita Vedanta Darshana of Vedic Hinduism (The Perspective of following the Monistic Summary of Sanskrit Books of Knowledge according to Indians who follow the Sanskrit Books of Knowledge)==, which was also called ==Advaita-Vaada (Proposition of Non-Dualism)==, ==Abheda Darshana (Perspective of Non-Difference)==, ==Dvaita-Vaada-Pratishedha (Proposition against the Teaching of Dualism)==, ==Kevala-Advaita (Essential Non-Dualism)== and ==Maya-Vaada (The Proposition that Reality is an Illusion)==, proposed by Shankara Acharya

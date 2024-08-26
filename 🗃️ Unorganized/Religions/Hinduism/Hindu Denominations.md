@@ -124,10 +124,10 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- 6.2. Bheda-Abheda Vedanta (difference and non-difference) (9th century, by Bhaskara Acharya)
 			- 6.2.1. Dvaita Advaita Vedanta (Around the time of Shankara and Ramanuja, by Nimbarka Acharya)
 		- 6.3. Vishishta Advaita Vedanta (11th century, by Ramanuja Acharya)
-			- 6.3.1. Akshar-Purushottam (18th century)
+			- 6.3.1. Akshar-Purushottam (18th century, by Swami Naryana)
 		- 6.4. Dvaita Vedanta (13th century, by Madhava Acharya)
 		- 6.5. Shuddha Advaita Vedanta (15th century, by Vallabha Acharya)
-		- 6.6. Achintya-Bheda-Abheda Vedanta (15th century)
+		- 6.6. Achintya-Bheda-Abheda Vedanta (15th century, by Chaitanya Mahaprabhu)
 		- 6.7. Modern Vedanta / Greater Advaita Vedanta (19th century)
 
 - Types of Vedanta
@@ -155,6 +155,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
 		- **Sub-denominations:**
 			- 6.3.1. Akshar Purushottam Darshan (as termed by BAPS) / Swaminarayan Sampradaya
+				- By Swami Narayana
 				- A version of Vishishta Advaita Vedanta, where Para Brahman is Krishna
 				- Para Brahman is thought to have manifested as Swaminarayana
 				- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
@@ -170,6 +171,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Moksha is not the goal, service of Krishna is
 		- Everything is Krishna's Leela
 	- 6.6. Achintya Bedha Abheda (Inconceivable Difference and Oneness)
+		- By Chaitanya Mahaprabhu
 	- 6.7. Modern Vedanta
 		- Personal Experience > Sruti
 
@@ -217,7 +219,11 @@ These deity-centered denominations feature a synthesis of various philosophies s
 - Smarta Tradition (Advaita Vedanta + Bhakti tradition)
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 
-# Other Classic
+## Connection Between Darshanas and Denominations
+- Shaivite
+	- Shaiva Advaita / Shaiva Vishishta Advaita (Saguna Brahman = Shiva)
+	- 
+# Other Classic Sects
 - Shrautism
 	- Shrauta communities are very rare in India, the most well known being the ultra-orthodox Nambudiri Brahmins of Kerala. They follow the "Purva-Mimamsa" (earlier portion of Vedas) in contrast to Vedanta followed by other Brahmins. They place importance on the performance of Vedic Sacrifice (Yajna). The Nambudiri Brahmins are famous for their preservation of the ancient Somayaagam, Agnichayana rituals which have vanished in other parts of India.
 - Suryaism / Saurism
