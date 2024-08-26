@@ -40,8 +40,8 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- **Epistemology**
 		- Knowledge is possible through three **Pramanas** (Means):
 			- **Pratyaksha** (Direct Perception)
-			- **Anumana** (Logical Inference)
-			- **Sabda** (Verbal Testimony)
+			- **Anumaana** (Logical Inference)
+			- **Shabda** (Verbal Testimony)
 	- **General Description**
 		- Evolution of Nature
 			- Nature evolves for the sake of the Soul in bondage (due to ignorance).
@@ -100,21 +100,53 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 - 2. Yoga (Connection with Reality)
 	- It is based on the Sankhya school of thought
 	- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
-	- Books
+	- **Books**
 		- It is mainly based on the Yoga Sutras of Patanjali
 		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
 	- Asmita (Egoism due to indentification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
+	- **Epistemology**
+		- Knowledge is possible through three **Pramanas** (Means):
+			- **Pratyaksha** (Direct Perception)
+			- **Anumaana** (Logical Inference)
+			- **Shabda** (Verbal Testimony)
 
 - 3. Nyaya (Principles of Reality)
 	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyaksha (Perception), Anumāṇa (Logical Inference), Upamāṇa (Comparison and Analogy) and Shabda (Verbal Testimony).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
 	- It postulates Asat-Karya-Vada (Proposition of Non-Existent Effect)
+	- **Epistemology**
+		- Knowledge is possible through four **Pramanas** (Means):
+			- **Pratyaksha** (Direct Perception)
+			- **Anumana** (Logical Inference)
+			- **Shabda** (Verbal Testimony)
+			- **Upamaana** (Comparison and Analogy)
 - 4. Vaisheshika (Particulate Nature)
 	- It postulated that everything is made of atoms
+	- **Epistemology**
+		- Knowledge is possible through two **Pramanas** (Means):
+			- **Pratyaksha** (Direct Perception)
+			- **Anumaana** (Logical Inference)
 
 - 5. Mimamsa / Purva Mimamsa
+	- By Prabhakara and Bhatta
 	- It focuses on the early parts of the Vedas
+	- Types
+		- Prabhakara Mimamsa
+			- **Epistemology**
+				- Knowledge is possible through five **Pramanas** (Means):
+					- **Pratyaksha** (Direct Perception)
+					- **Anumaana** (Logical Inference)
+					- **Shabda** (Verbal Testimony)
+		- Bhatta Mimamsa
+			- **Epistemology**
+				- Knowledge is possible through six **Pramanas** (Means):
+					- **Pratyaksha** (Direct Perception)
+					- **Anumaana** (Logical Inference)
+					- **Shabda** (Verbal Testimony)
+					- **Upamaana** (Comparison and Analogy)
+					- **Arthaapatti** (Postulation)
+					- **Anupalabdhi** / **Abhava** (Non-Existence)
 - 6. Vedanta / Uttara Mimamsa
 	- It focuses on the later parts of the Vedas
 	- It is like the opposite of Sankhya school of thought
@@ -196,9 +228,10 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 			- It is the fundamental philosophy of Mahavira, which states that the truth is perceived from different points of view
 			- Only Kevalas (All Knowers) can know the complete truth
 			- This is similar to the Western philosophy of Subjectivism
-- 3. Charvaka
+- 3. Charvaka (Materialism)
 	- **Epistemology**
-	- It only supports
+		- Knowledge is only possible through one **Pramana** (Means):
+			- **Pratyaksha** (Direct Perception)
 - 4. Ajivika
 - 5. Ajnana
 # Based on Deities
