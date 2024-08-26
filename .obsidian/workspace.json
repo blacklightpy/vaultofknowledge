@@ -494,7 +494,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -700,7 +700,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ayam atma",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -717,12 +717,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -738,7 +738,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -755,7 +755,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -767,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md"
               }
             }
           },
@@ -834,11 +834,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "888be0418cb27fbf",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
