@@ -1,0 +1,1 @@
+It is the principle on which democracy works. Everyone pushes for what they want, and in the end, we get the best possible compromise.

@@ -28,6 +28,7 @@ Starting from the basic blocks is known as the **bottom-up** approach. Starting 
 
 1. Story of the White bird.
 	1. In a world the scientists figured out that when you are in the grace of god, a white bird will appear
+	2. So people started looking for the white bird, and they started to capture them
 
    - What we need
 	   - Compute
