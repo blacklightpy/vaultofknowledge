@@ -4,7 +4,9 @@
 
 By the button alignment, I think it's a girls' T-Shirt, but it is what suits me the best. I like the collar-edge accent and shape, and since it's a bit stretchy and short, it accentuates my body well. Again, it's sized L and is still short, so I think it's the girls' scale.
 
-It would look good if I had more chest and less tummy, but I'm gonna have to work on it. It has four buttons, and since it is short and stretchy, I prefer it best with two buttons on. All off looks too cocky. It's good to test my hairstyles on.
+It would look good if I had more chest and less tummy, but I'm gonna have to work on it. It has four buttons, and since it is short and stretchy, I prefer it best with two buttons on. All off looks too cocky.
+
+It's good to test my hairstyles on. I just have to pull in my tummy for now.
 
 Expression: Confident
 
@@ -28,10 +30,11 @@ Expression: Vibrant
 
 5. Black Roundneck
 
-It too makes you happy wearing it. It's a perfect fit for me, as a T-Shirt, and it does conceal my tummy fat
+It too makes you happy wearing it. It's a perfect fit for me, as a T-Shirt, and it does conceal my tummy fat too.
 
+But it's not the best to test my hairstyles on, and I think, neither is the Zen T-Shirt (It's too Zen to make me think of it).
 
-Expression: True Neutral
+Expression: Casual, Neutral
 
 7. Old Full-Sleeve NDA T-Shirt
 
