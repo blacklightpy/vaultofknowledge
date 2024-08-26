@@ -8,4 +8,4 @@ Hair Type: Straight, Curly, Wavy
 - Front (Short Pomp (Flattened), Pomp, Arched)
 - Mid-Top (Rounded, Flattened)
 - Crown (Rounded)
-- Front Hairline (Average, Asymmetric (cowlick off center left/right))
+- Front Hairline (Lower than Average, Average, Asymmetric (cowlick off center left/right))
