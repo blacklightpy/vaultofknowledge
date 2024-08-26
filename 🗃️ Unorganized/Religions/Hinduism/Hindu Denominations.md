@@ -52,7 +52,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- The Sankhya Darshana is based on Sat-Karya Vaada (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
-				- Maya has two powers
+				- Maya has two powers (added from some source)
 					- Avarna (Veiling)
 					- Vikshepa (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
@@ -84,7 +84,10 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 				- **Pancha Tan Matras** (Five Subtle Elements):
 					- They evolve from the Tamas aspect of Ahamkara.
 					- They are the root energies of Sound (**Shabda**), Touch (**Sparsha**), Form (**Rupa**), Taste (**Rasa**) and Smell (**Gandha**).
-				- **Pancha Maha Bhuta** (Five Great Substances): Earth (**Prithvi**), Air (**Vaayu**), Fire (**Agni**), Water (**Jala**) and Ether (**Aakasha**). This is the visible aspect of the Physical Universe.
+				- **Pancha Maha Bhuta** (Five Great Substances):
+					- They too evolve from the Tamas aspect of Ahamkara.
+					- Earth (**Prithvi**), Air (**Vaayu**), Fire (**Agni**), Water (**Jala**) and Ether (**Aakasha**).
+					- This is the visible aspect of the Physical Universe.
 	- **Glossary of Terms**
 		- Samsara (Cyclic Existence)
 		- Kalachakra (The Cycle of Samsara)
