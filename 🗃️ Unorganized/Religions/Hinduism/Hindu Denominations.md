@@ -191,6 +191,7 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 		- Anekanta Vaada (The Proposition of Non-One Sidedness)
 			- It is the fundamental philosophy of Mahavira, which states that the truth is perceived from different points of view
 			- Only Kevalas (All Knowers) can know the complete truth
+			- This is similar to the Western philosophy of Subjectivism
 - 3. Charvaka
 	- **Epistemology**
 	- It only supports
