@@ -624,8 +624,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X4.md",
-                "mode": "source",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -661,7 +661,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tirmidhi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -683,8 +683,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -700,7 +699,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X4.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -717,7 +716,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X4.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -729,7 +728,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X4.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
               }
             }
           },
@@ -796,8 +795,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "4222934ee89f15c1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5.md",
     "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
@@ -823,7 +823,6 @@
     "🗃️ Unorganized/General Notes/Etymology.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🤠 Personal/Hairstyle.md",
-    "🤠 Personal/Style.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
