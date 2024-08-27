@@ -186,7 +186,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- 6.2.1. Dvaita Advaita Vedanta (Around the time of Shankara and Ramanuja, by Nimbarka Acharya)
 		- 6.3. Vishishta Advaita Vedanta (11th century, by Ramanuja Acharya)
 			- 6.3.1. Akshar-Purushottam (18th century, by Swami Naryana)
-		- 6.4. Dvaita Vedanta (13th century, by Madhava Acharya)
+		- 6.4. Dvaita Vedanta (13th century, by Madhvaa Acharya)
 		- 6.5. Shuddha Advaita Vedanta (15th century, by Vallabha Acharya)
 		- 6.6. Achintya-Bheda-Abheda Vedanta (15th century, by Chaitanya Mahaprabhu)
 		- 6.7. Modern Vedanta / Greater Advaita Vedanta (19th century)
@@ -225,7 +225,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 				- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
 				- BAPS believe that Akshar Brahman is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahman resides
 	- 6.4. Dvaita / Tattvavada Vedanta (Dualistic / Proposition of Elements)
-		- By Madhavacharya
+		- By Madhvaacharya
 	- 6.5. Shuddha Advaita Vedanta (Pure Oneness)
 		- By Vallabhacharya
 		- A Vaishnava tradition based on the worship of Krishna
