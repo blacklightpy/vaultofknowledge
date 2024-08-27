@@ -624,7 +624,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -661,7 +661,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tabi",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -683,7 +683,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -699,7 +700,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -716,7 +717,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -728,7 +729,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
               }
             }
           },
@@ -797,8 +798,10 @@
   },
   "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/The rhetoric of religions.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5.md",
@@ -821,8 +824,6 @@
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗺️ World Exploration/History/Civilizations/Civilizations by Region.md",
     "🗺️ World Exploration/Literature/Lingua Franca.md",
-    "🗃️ Unorganized/General Notes/Synergy.md",
-    "🗃️ Unorganized/General Notes/Etymology.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
