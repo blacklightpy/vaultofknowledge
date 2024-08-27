@@ -624,8 +624,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-                "mode": "source",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -700,7 +700,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -717,7 +717,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -729,7 +729,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
               }
             }
           },
@@ -798,6 +798,7 @@
   },
   "active": "4222934ee89f15c1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
@@ -823,7 +824,6 @@
     "🗺️ World Exploration/Literature/Lingua Franca.md",
     "🗃️ Unorganized/General Notes/Synergy.md",
     "🗃️ Unorganized/General Notes/Etymology.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
