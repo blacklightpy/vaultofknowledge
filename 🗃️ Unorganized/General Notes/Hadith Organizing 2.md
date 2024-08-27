@@ -154,6 +154,7 @@ https://islam-watch.org/MA_Khan/Challenge-Close-Down-Islam-watch-Muhammad-Not-Me
 		- According to Tafsir IK 9:7
 		- Backstory: Ibn Hisham, Vol. II, p. 390
 			- https://islam-watch.org/MA_Khan/Challenge-Close-Down-Islam-watch-Muhammad-Not-Meccans-Broke-Hudaybiyah-Treaty-No-Connection-Sword-Verse-9.5.htm (Khuza'ah guys killed first + Full story)
+				- Mohammed revealed 48:1 (Victory)
 			- https://discover-the-truth.com/2016/03/23/the-conquest-of-mecca-makkah/
 			- https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/conquest-makkah
 	- This triggered the conquest of Mecca (8 AH)
