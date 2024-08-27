@@ -617,9 +617,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4222934ee89f15c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 47
       }
     ],
     "direction": "vertical"
@@ -665,8 +678,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -687,7 +699,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -704,7 +716,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -716,7 +728,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md"
               }
             }
           },
@@ -783,8 +795,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d25c7b83a08bccc",
+  "active": "4222934ee89f15c1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
+    "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
     "🗃️ Unorganized/General Notes/Irony of the Hindu Muslim Conflict.md",
     "🗺️ World Exploration/Life Forms/Study of Life Forms.md",
     "🗺️ World Exploration/Life Forms/Study of Birds.md",
@@ -809,8 +823,6 @@
     "🤠 Personal/Hairstyle.md",
     "🤠 Personal/Style.md",
     "🗃️ Unorganized/General Notes/Design To Read.md",
-    "🗃️ Unorganized/General Notes/New Programming Languages.md",
-    "🗃️ Unorganized/General Notes/Programming Languages.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
