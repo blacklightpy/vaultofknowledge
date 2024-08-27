@@ -12,6 +12,8 @@
 	- Contradiction: Do not cry at the graves
 
 Origin of Hadith Isnads: https://sunnahonline.com/library/fiqh-and-sunnah/277-introduction-to-the-sciences-of-hadith
+
++Muwatta Malik Book 38, Hadeeth 12 (only feed Muslims)
 # Rough
 ## My claims
 - Mohammed wanted to rule

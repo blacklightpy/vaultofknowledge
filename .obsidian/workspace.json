@@ -624,8 +624,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
-                "mode": "preview",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -661,8 +661,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tirmidhi",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -683,7 +683,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -699,7 +700,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -716,7 +717,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -728,7 +729,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
               }
             }
           },
@@ -797,6 +798,7 @@
   },
   "active": "4222934ee89f15c1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5.md",
@@ -822,7 +824,6 @@
     "🗃️ Unorganized/General Notes/Synergy.md",
     "🗃️ Unorganized/General Notes/Etymology.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🤠 Personal/Hairstyle.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
