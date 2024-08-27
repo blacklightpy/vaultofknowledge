@@ -12,8 +12,8 @@ These are the Ahadees (Arabic reference scheme; all graded by Hafiz/Sheik _Zubai
 
 **Revelation of the Discharge from Obligations towards Mushrikeen ‘Including Reduction of Indefinite Term Treaties to Four Months’ and Eternal Ban on Mushrikeen Performing Hajj and Anyone Performing the Tawaf Naked:**
 
-- Jami` at-Tirmidhi 3092 (grade: Saheeh) (Jami` at-Tirmidhi 3091 had a Da’eef Sanad)
-- Jami` at-Tirmidhi 871 (grade: Saheeh)
+- Jami' at-Tirmidhi 3092 (grade: Saheeh) (Jami` at-Tirmidhi 3091 had a Da’eef Sanad)
+- Jami' at-Tirmidhi 871 (grade: Saheeh)
 
 **Revelation of the Discharge from Obligations towards Mushrikeen and Eternal Ban on Mushrikeen Performing Hajj and Anyone Performing the Tawaf Naked:**
 
