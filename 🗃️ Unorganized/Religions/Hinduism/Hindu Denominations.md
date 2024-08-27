@@ -180,15 +180,19 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- It focuses on the later parts of the Vedas
 	- It is like the opposite of Sankhya school of thought
 		- It sees the world as a manifestation of Brahman
-	- **Koshas** (Sheaths)
-		- There are five Koshas, or Panch Koshas that are divided into three **Shariras** (Bodies)
-			- **Sthula Sharira** (Gross Body):
-				- This body consists of **Annamaya Kosha** (Food-rich Sheath)
-				- That is, physical body
-			- **Sukshma Sharira** (Subtle Body)
-				- This body consists of **Pranamaya Kosha** (Life-rich Sheath), **Manomaya Kosha** (Mind-rich Sheath) and **Vijnanamaya Kosha** (Knowledge-rich Sheath)
-			- **Karana Sharira**
-				- This body consists of **Ananadamaya Kosha** (Bliss-rich Sheath)
+	- **Brief**
+		- **Koshas** (Sheaths)
+			- Atman is covered up by 
+			- There are five sheaths, called **Panch Koshas** that are divided into three **Shariras** (Bodies)
+			- The bodies and sheaths organized from gross to fine are:
+				- **Sthula Sharira** (Gross Body):
+					- **Annamaya Kosha** (Food-rich Sheath)
+				- **Sukshma Sharira** (Subtle Body)
+					- **Pranamaya Kosha** (Life-rich Sheath)
+					- **Manomaya Kosha** (Mind-rich Sheath)
+					- **Vijnanamaya Kosha** (Knowledge-rich Sheath)
+				- **Karana Sharira**
+					- **Ananadamaya Kosha** (Bliss-rich Sheath)
 	- Types (List)
 		- 6.1. Advaita Vedanta (8th century, by Shankara Acharya)
 		- 6.2. Bheda-Abheda Vedanta (difference and non-difference) (9th century, by Bhaskara Acharya)
