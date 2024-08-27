@@ -580,58 +580,6 @@
             }
           },
           {
-            "id": "299b5e1ea77779cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Irony of the Hindu Muslim Conflict.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f196b3ffc089d02f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15f30d8aea5598bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Etymology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89995fda0f757476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Design To Read.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "729872b1a5e1a332",
             "type": "leaf",
             "state": {
@@ -663,7 +611,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to create anything.md",
+                "file": "🗃️ Unorganized/General Notes/How to create a language.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -671,7 +619,7 @@
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -739,7 +687,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -756,7 +704,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -768,7 +716,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md"
               }
             }
           },
@@ -835,22 +783,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "888be0418cb27fbf",
+  "active": "5d25c7b83a08bccc",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/General Notes/Irony of the Hindu Muslim Conflict.md",
+    "🗺️ World Exploration/Life Forms/Study of Life Forms.md",
+    "🗺️ World Exploration/Life Forms/Study of Birds.md",
+    "🗃️ Unorganized/General Notes/Study of Animals.md",
+    "🗺️ World Exploration/Life Forms/Study of Plants.md",
+    "🗃️ Unorganized/General Notes/Logic.md",
+    "🗃️ Unorganized/General Notes/Science.md",
+    "🗃️ Unorganized/General Notes/How to create a language.md",
+    "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/Religions/Hinduism/Dharma Shastra.md",
-    "🗃️ Unorganized/General Notes/How to create anything.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗺️ World Exploration/History/Civilizations/Civilizations by Region.md",
     "🗺️ World Exploration/Literature/Lingua Franca.md",
-    "🗃️ Unorganized/General Notes/How to create a language.md",
     "🗃️ Unorganized/General Notes/Synergy.md",
-    "🗃️ Unorganized/General Notes/Science.md",
-    "🗃️ Unorganized/General Notes/Logic.md",
     "🗃️ Unorganized/General Notes/Etymology.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🤠 Personal/Hairstyle.md",
@@ -858,11 +811,6 @@
     "🗃️ Unorganized/General Notes/Design To Read.md",
     "🗃️ Unorganized/General Notes/New Programming Languages.md",
     "🗃️ Unorganized/General Notes/Programming Languages.md",
-    "🗃️ Unorganized/General Notes/Rough Notes x5.md",
-    "🗃️ Unorganized/General Notes/Millenarianism.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Study of Animals.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
