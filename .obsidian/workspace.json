@@ -661,7 +661,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Tabi",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -683,8 +683,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -796,7 +795,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4222934ee89f15c1",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
