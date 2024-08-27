@@ -191,7 +191,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 					- **Pranamaya Kosha** (Life-rich Sheath)
 					- **Manomaya Kosha** (Mind-rich Sheath)
 					- **Vijnanamaya Kosha** (Knowledge-rich Sheath)
-				- **Karana Sharira**
+				- **Karana Sharira** ()
 					- **Ananadamaya Kosha** (Bliss-rich Sheath)
 	- Types (List)
 		- 6.1. Advaita Vedanta (8th century, by Shankara Acharya)
