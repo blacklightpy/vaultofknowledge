@@ -131,8 +131,10 @@ Battle of Hubaydiyyah tested their faith.
 
 They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 
-Allies: Bani Kinanah, Bani Khuza'ah and Bani Damrah.
+Allies: Bani Kinanah, Bani Khuza'ah and Bani Damrah. (Tafsir IK 9:7 and Tafsirs on 48:8-10)
 Treaty: Bukhari 2700, 4180-81, 2711-12
+
+https://islam-watch.org/MA_Khan/Challenge-Close-Down-Islam-watch-Muhammad-Not-Meccans-Broke-Hudaybiyah-Treaty-No-Connection-Sword-Verse-9.5.htm
 
 - Treaty of Hudaybiyyah
 	- Hudna (Truce) had a max-limit of 10 years
@@ -149,6 +151,7 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 	- Bukhari 3029-30 (War is deceit)
 	- They didn't attack because they didn't want to start a war
 	- Banu Bakr attacked Banu Khuza'ah (because they were always at war)
+		- According to Tafsir IK 9:7
 	- This triggered the conquest of Mecca (8 AH)
 		- Muslim sources say he sent a letter to Quraysh first
 	- 2.199, etc. (so 2.191 too) was revealed during this time
