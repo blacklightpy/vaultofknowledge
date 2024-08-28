@@ -131,4 +131,6 @@
 	- The effect of determinism is seen when you perform some actions
 	- That is, you may find certain solutions without even putting the slightest effort into it
 	- That is, when you are performing an action that requires you to put in conscious effort, but you came to the result without putting in that effort
-	- An example is when I was walking through a road, and I knew that I had to take a turn at some point, but I didn't remember where that point was. As I was thinking of something and walking, a motorbike honked and it prompte
+	- Examples
+		- An example is when I was walking through a road, and I knew that I had to take a turn at some point, but I didn't remember where that point was. As I was thinking of something and walking, a motorbike honked and it prompted me to look left, and there was my road.
+		- Another example is when you want to skip to a specific page number in a book, and you did not even have an idea about the differences between the actual book page and the content page number, and you make a guess and open it directly to the right page, instead of picking one page and going back or forth until you find it.
