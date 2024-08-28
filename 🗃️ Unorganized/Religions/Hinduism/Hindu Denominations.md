@@ -257,16 +257,19 @@ Samkhya follows Prakriti-Parinama Vada while Vishishta Advaita follows Brahman-P
 
 Haituka (Sankhya, Yoga, Nyaya, Vaisheshika) (Hetu (Reason) > Scripture)
 Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
-
-# Heterodox
-- 1. Buddhism
-- 2. Jainism
+## Heterodox
+- 1. Buddhism (The Path of Enlightenment)
+- 2. Jainism (The Path of Victors (of the Soul))
 	- **Sects**
-		- 1. Shvetambara (White Clad), founded by Rishabhanata, historically traced back to Parshvanata, revived by Mahavira
-		- 2. Digambara (Sky Clad / Naked), by Sivabhuti
+		- 1. Shvetambara (White Clothed), founded by Rishabhanata, historically traced back to Parshvanata, revived by Mahavira
+		- 2. Digambara (Sky Clothed / Naked), by Sivabhuti
 			- **Rules**
-				- They are a very simply list
-				- 5 mahāvratas (great vows); 5 samitis (restraints); 5 indriya nirodha (control of the five senses); 6 āvaśyakas (essential observations); and 7 niyamas (rules)
+				- It's a very simple list, that can be grouped as:
+					- 5 Maha Vratas (Great Vows)
+					- 5 Samitis (Restraints)
+					- 5 Indriya Nirodhas (Control of the Five Senses)
+					- 6 Aavashyakas (Essential Observations)
+					- 7 Niyamas (Rules)
 	- **Philosophy**
 		- Anekanta Vaada (The Proposition of Non-One Sidedness)
 			- It is the fundamental philosophy of Mahavira, which states that the truth is perceived from different points of view
@@ -276,7 +279,7 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 	- **Epistemology**
 		- Knowledge is only possible through one **Pramana** (Means):
 			- **Pratyaksha** (Direct Perception)
-- 4. Ajivika
+- 4. Ajivika (Determinism)
 - 5. Ajnana
 # Based on Deities
 Hinduism is subdivided into a number of major Sampradayas. Of the historical division into six Darshanas (Philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
@@ -305,55 +308,55 @@ These deity-centered denominations feature a synthesis of various philosophies s
 	- Shrauta communities are very rare in India, the most well known being the ultra-orthodox Nambudiri Brahmins of Kerala. They follow the "Purva-Mimamsa" (earlier portion of Vedas) in contrast to Vedanta followed by other Brahmins. They place importance on the performance of Vedic Sacrifice (Yajna). The Nambudiri Brahmins are famous for their preservation of the ancient Somayaagam, Agnichayana rituals which have vanished in other parts of India.
 - Suryaism / Saurism
 # Modern
-- Ganapati Worship
-- Reformist
-	- Adi Dharm / Brahmoism
-		- Brahmo Samaj
-		- Sadharan Brahmo Samaj
-	- Ananda Marga
-	- Arya Samaj
+1. Ganapati Worship
+2. Reformist
+	1. Adi Dharm / Brahmoism
+		1. Brahmo Samaj
+		2. Sadharan Brahmo Samaj
+	2. Ananda Marga
+	3. Arya Samaj
 		- Reform by Dayananda Saraswati
 		- Focus on Vedas
 		- Against untouchability
 		- Equal rights for women
-	- Ayyavazhi
+	4. Ayyavazhi
 		- Teachings of Ayya Vaikundar, in Kerala
 		- Says in Kali Yuga, all scriptures were corrupted
 		- No Idol Worship
 		- No Priests
-	- Brahma Kumaris
-	- Chinmaya Mission
-	- Divine Life Society
-	- Ramakrishna Mission and Ramakrishna Math
-	- Ravidas Panth
-		- Satnampanth
-	- Shri Ram Chandra Mission
-	- Sri Aurobindo Ashram
-- Sat Panth
-	- Dadu Panth (Part of the Sant Mat)
-	- Kabir Panth (Part of the Sant Mat)
-	- Pranami Sampraday
-	- Sathya Sai sampradaya
-- Yoga and meditation based
-	- Art of Living
-	- Isha Foundation
-	- Himalayan Yoga and Philosophy
-	- Prarthana Samaj
-	- Sahaj Panth (Buddhist and Hindu)
-		- Sahaja Yoga
-	- Self-Realization Fellowship / Yogoda Satsanga
-	- Swadhyay Parivar
-	- Transcendental Meditation
-- Others
-	- Hanuman Foundation
-	- Hindutva
-	- Inchegeri Sampradaya
-	- Kapadi Sampradaya
-	- Mahima Dharma
-	- Matua Mahasangha
-	- Nath Panth
-	- Ramsnehi Sampradaya
-	- Varkari Panth (Hindu)
+	5. Brahma Kumaris
+	6. Chinmaya Mission
+	7. Divine Life Society
+	8. Ramakrishna Mission and Ramakrishna Math
+	9. Ravidas Panth
+		1. Satnampanth
+	10. Shri Ram Chandra Mission
+	11. Sri Aurobindo Ashram
+3. Sat Panth
+	1. Dadu Panth (Part of the Sant Mat)
+	2. Kabir Panth (Part of the Sant Mat)
+	3. Pranami Sampraday
+	4. Sathya Sai sampradaya
+4. Yoga and meditation based
+	1. Art of Living
+	2. Isha Foundation
+	3. Himalayan Yoga and Philosophy
+	4. Prarthana Samaj
+	5. Sahaj Panth (Buddhist and Hindu)
+		1. Sahaja Yoga
+	6. Self-Realization Fellowship / Yogoda Satsanga
+	7. Swadhyay Parivar
+	8. Transcendental Meditation
+5. Others
+	1. Hanuman Foundation
+	2. Hindutva
+	3. Inchegeri Sampradaya
+	4. Kapadi Sampradaya
+	5. Mahima Dharma
+	6. Matua Mahasangha
+	7. Nath Panth
+	8. Ramsnehi Sampradaya
+	9. Varkari Panth (Hindu)
 
 # Notes
 Sampradaya in Indian origin religions, namely Hinduism, Buddhism, Jainism, and Sikhism, can be translated as 'tradition', 'spiritual lineage', 'sect', or 'religious system'.
