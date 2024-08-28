@@ -1,6 +1,7 @@
 # Metaphysics Joke
 
 Claim: "Hindus worship the creation and not the creator"
+Example: In replies to https://old.reddit.com/r/islam/comments/147a67f/was_prophet_nuh_sent_to_india/ (BTW it makes the claim that Suwa = Shiva, and I saw it in )
 
 Fix: These Muslims have to be taught some metaphysics.
 
