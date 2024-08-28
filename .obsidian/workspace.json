@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -713,7 +713,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ijti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -735,7 +735,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -751,7 +752,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -768,7 +769,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -780,7 +781,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
               }
             }
           },
@@ -849,7 +850,9 @@
   },
   "active": "cf6ca2f219df0eed",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Islamic Rule.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
@@ -868,13 +871,11 @@
     "🗃️ Unorganized/General Notes/How to make knowledge language independent.md",
     "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
     "🗃️ Unorganized/General Notes/Universal Language.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",

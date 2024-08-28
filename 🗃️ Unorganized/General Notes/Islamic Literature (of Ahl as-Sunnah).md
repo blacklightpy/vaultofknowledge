@@ -22,4 +22,5 @@
 - Tafseer Ibn Katheer
 - Tafseer al-Jalalayn
 - Tafseer al-Qurtubi
-- Tafseer 
+- Tafseer al-Tabari
+- Tafseer al-Razi

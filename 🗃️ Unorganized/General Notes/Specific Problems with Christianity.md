@@ -444,7 +444,7 @@ This is wishful thinking.
 			- Sharhs / Shurooh (Commentaries on the Ahadeeth)
 			- Sirahs (Biography of Mohammed)
 	- Secondary Sources
-		- Ijma As Sahabah (Consensus)
+		- Ijma As Sahabah (Consensus of the Companions)
 		- Qiyas (Analogical Reasoning)
 	- Modern Additions
 		- Maslahah Mursalah (Public Interest)
@@ -455,7 +455,7 @@ This is wishful thinking.
 - Urf (Customs)
 	- Sadd al-Dhara’i (Blocking the Means)
 
-Only a Mujtahid can perform 
+Only a Mujtahid can perform Ijtihad.
 ## Secondary Sources in Detail
 - Fatwas of the Companions
 - Fatwas of the Followers (Tabi'un)
@@ -1310,7 +1310,7 @@ idk
 - Tafsir (Commentary)
 - Fatwa (Scholarly Opinion)
 
-**Types of Scholars**
+**Types of Scholars (Ulama)**
 
 A good scholar should memorize the Quran, a great deal of Ahadeeth, Principles of Jurisprudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith), etc.
 
@@ -1322,6 +1322,7 @@ A good scholar should memorize the Quran, a great deal of Ahadeeth, Principles o
 - Alim
 - Faqih
 - Sheik
+- Mujtahid
 
 
 
