@@ -643,9 +643,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09c5f72fbbc47e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -713,7 +726,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +743,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +755,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -809,14 +822,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf6ca2f219df0eed",
+  "active": "09c5f72fbbc47e7e",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
