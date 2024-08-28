@@ -14,7 +14,7 @@ e.g.
 	- Multiple Gods Exist (And people worship one of them) [Monolatry]
 	- God has created Gods to Manage Realities [Sanskrit Vedas]
 - Monism
-	- Everything is God (And God is Active) [Advaita Vedanta]
+	- Everything is God (And God is Active) [Advaita Vedanta / Pan-Theism]
 	- Everything is God (And God is Inactive) [Pan-Desim]
 - Between Monism and Dualism
 	- Everything is a Part of God [Pan-En-Theism]
