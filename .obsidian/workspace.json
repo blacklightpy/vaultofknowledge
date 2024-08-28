@@ -713,7 +713,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scholar",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -735,7 +735,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -847,7 +848,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf6ca2f219df0eed",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
