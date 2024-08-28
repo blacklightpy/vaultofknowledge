@@ -630,9 +630,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf6ca2f219df0eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 47
+        "currentTab": 48
       }
     ],
     "direction": "vertical"
@@ -700,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -717,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -729,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md"
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
               }
             }
           },
@@ -796,10 +809,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4222934ee89f15c1",
+  "active": "cf6ca2f219df0eed",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/rough Notes x6.md",
+    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
@@ -823,7 +837,6 @@
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/Religions/Hinduism/Dharma Shastra.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
