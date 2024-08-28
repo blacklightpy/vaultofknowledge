@@ -126,3 +126,9 @@
 		- You must be able to defend the truths that you stand for
 		- And if the ground truth is not in line with what you believe in, you have to adapt
 		- And you adapt by controlling your desires, by knowing the nature, vastness and limits of reality
+
+- Randomness
+	- The effect of determinism is seen when you perform some actions
+	- That is, you may find certain solutions without even putting the slightest effort into it
+	- That is, when you are performing an action that requires you to put in conscious effort, but you came to the result without putting in that effort
+	- An example is when I was walking through a road, and I knew that I had to take a turn at some point, but I didn't remember where that point was. As I was thinking of something and walking, a motorbike honked and it prompte
