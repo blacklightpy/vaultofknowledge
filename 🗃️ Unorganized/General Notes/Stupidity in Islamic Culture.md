@@ -19,3 +19,7 @@ Other stuff:
 
 - By Mufassiroon
 	- https://old.reddit.com/r/exmuslim/comments/jotv5/ibn_kathir_altabari_alqurtubi_and_ibn_abbas_all/
+
+- Felt like hitting a person for naming his pet dog after Mohammed
+	- https://old.reddit.com/r/islam/comments/t795bj/naming_a_pet_after_the_prophet/
+
