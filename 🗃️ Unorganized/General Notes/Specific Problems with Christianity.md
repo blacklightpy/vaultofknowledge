@@ -454,6 +454,8 @@ This is wishful thinking.
 	- Istihsan (Equity in Islamic Law)
 - Urf (Customs)
 	- Sadd al-Dhara’i (Blocking the Means)
+
+Only a Mujtahid can perform 
 ## Secondary Sources in Detail
 - Fatwas of the Companions
 - Fatwas of the Followers (Tabi'un)
