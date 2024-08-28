@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗺️ World Exploration/Culture/Muslim Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -684,7 +684,7 @@
             }
           }
         ],
-        "currentTab": 49
+        "currentTab": 48
       }
     ],
     "direction": "vertical"
@@ -713,7 +713,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scholar",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -735,8 +735,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -752,7 +751,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗺️ World Exploration/Culture/Muslim Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -769,7 +768,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗺️ World Exploration/Culture/Muslim Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -781,7 +780,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
+                "file": "🗺️ World Exploration/Culture/Muslim Culture.md"
               }
             }
           },
@@ -848,13 +847,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "09c5f72fbbc47e7e",
+  "active": "cf6ca2f219df0eed",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Equality of Islam and Hinduism.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/General Notes/Equality of Islam and Hinduism.md",
     "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",

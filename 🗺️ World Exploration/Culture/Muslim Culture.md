@@ -89,7 +89,7 @@ The Quran is divided in various ways.
 		- Taqiyya (A sin for greater good)
 		- Sunnah (Tradition)
 		- Tafsir (Commentary)
-	- People
+	- Ulama (Scholars)
 		- Imam (Lead Scholar, Leads Prayer (Salat))
 		- Scholars (general category)
 			- They memorize Quran, a great deal of ahadeeth, Principles of Jurispudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith)
@@ -101,6 +101,7 @@ The Quran is divided in various ways.
 		- Alim (Learned person)
 		- Faqih (Someone who knows how to apply Islam, well versed in Fiqh, and follow a Madhhab)
 		- Sheik (Respected Old Person, student or scholar (in Egypt), or the head of a village, similar to Maulana)
+		- Mujtahid ()
 
 - Rulings
 	- Fatwas (Opinions by Muftis)
