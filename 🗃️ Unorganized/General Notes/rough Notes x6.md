@@ -6,7 +6,7 @@ In **5:32**, he was referring to the command that was given to B’nei Yisra’E
 
 **Tafseer Ibn Katheer**
 
-> (The recompense of those who wage war against Allah and His Messenger and do mischief in the land is only that t**hey shall be killed or crucified or their hands and their feet be cut off on the opposite sides, or be exiled from the land.**) **`Wage war' mentioned here means, oppose and contradict, and it includes disbelief, blocking roads and spreading fear in the fairways. Mischief in the land refers to various types of evil.** Ibn Jarir recorded that `Ikrimah and Al-Hasan Al-Basri said that the Ayat,
+> (The recompense of those who wage war against Allah and His Messenger and do mischief in the land is only that **t****hey shall be killed or crucified or their hands and their feet be cut off on the opposite sides, or be exiled from the land.**) **`Wage war' mentioned here means, oppose and contradict, and it includes disbelief, blocking roads and spreading fear in the fairways. Mischief in the land refers to various types of evil.** Ibn Jarir recorded that `Ikrimah and Al-Hasan Al-Basri said that the Ayat,
 
 ————————————————————
 
@@ -121,4 +121,12 @@ First, these were the conditions of the treaty:
 
 - Saheeh al-Bukhari 2731–2732
 
-And Mohammed later declared war, because when the treaty was declared, from two clans who would fight each other, Banu Khuza’ah joined with the Muslims and Banu Bakr joined with the Quraysh. When Banu Bakr apparently attacked Banu Khuza’ah, for revenge for them killing one of their members in the past, Mohammed sent the Quraysh an enoy asking them to stop supporting Banu Bakr. Some of them told him they don’t care, since Mohammed himself didn’t follow the treaty properly
+And Mohammed later declared war, because when the treaty was declared, from two clans who would fight each other, Banu Khuza’ah joined with the Muslims and Banu Bakr joined with the Quraysh (**Ibn Ishaq's Sirat Rasul Allah - The Life of Muhammad Translated by A. Guillaume p.504**).
+
+**p. 505**
+
+> The apostle's companions had gone out without any doubt of occupying Mecca because of the vision which the apostle had seen, and when they saw the negotiations for peace and a withdrawal going on and what the apostle had taken on himself, they felt depressed almost to the point of death.
+
+> ‘The apostle then went on his way back (from Hudaybiya) and when he was half-way back, the sura al-Fath (Victory) came down: 'We have given you a plain victory that God may forgive you your past sin and the sin which is to come and may complete his favor upon you and guide you on an upright path'’ [Ibn Ishaq, p. 505–06].
+
+When Banu Bakr reportedly later attacked Banu Khuza’ah, for revenge for them killing one of their members in the past, Mohammed sent the Quraysh an enoy asking them to stop supporting Banu Bakr. Some of them told him they don’t care, since Mohammed himself didn’t follow the treaty properly. But then, Quraysh leader Abu Sufyan decided to not make it a problem and renew the treaty. But Mohammed said no and attacked. Mohammed cleverly utilized the treaty to attack Quraysh, exterminate them and steal the holy place that belonged to them for years.
