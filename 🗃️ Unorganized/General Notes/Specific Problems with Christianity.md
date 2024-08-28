@@ -1289,6 +1289,7 @@ idk
 	- Quran
 	- Ahadith (Hadiths)
 - Secondary Sources
+	- Tafaseer (Commentaries)
 	- Fiqh
 		- Ijma as Sahabah
 		- Qiyas (Analogical Reasoning)
