@@ -140,3 +140,6 @@
 	- Condition 2: Assess Threat Level (Do they stay in their lane)
 
 - [[How to Prove or Disprove a Religion]]
+	- Ask Questions
+		- Would you kill a girl who believes in fairies, because it's non-scientific?
+		- (The Muslim answer is,  yes, if they are post-pubescent)
