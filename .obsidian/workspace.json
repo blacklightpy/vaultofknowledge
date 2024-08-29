@@ -695,9 +695,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce889e01e985cc29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "vertical"
@@ -765,7 +778,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -782,7 +795,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -794,7 +807,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md"
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md"
               }
             }
           },
@@ -860,10 +873,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e8f3ef16213b68ce",
+  "active": "ce889e01e985cc29",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
@@ -887,7 +901,6 @@
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",

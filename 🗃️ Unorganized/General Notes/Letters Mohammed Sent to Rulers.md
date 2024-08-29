@@ -1,0 +1,3 @@
+- https://old.reddit.com/r/exmuslim/comments/4610ap/prophet_muhammads_threatening_letter_to_persian/
+	- Ali Dashti's thoughts: https://old.reddit.com/r/exmuslim/comments/458oew/psychosis_possible_explanation_for_muhammads/czw532j/
+		- Include's Aisha's report on cave revelation
