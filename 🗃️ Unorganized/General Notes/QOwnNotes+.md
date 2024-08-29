@@ -138,3 +138,5 @@
 - Proper Method of Declaring War
 	- Condition 1: Establish Levels of Sentience
 	- Condition 2: Assess Threat Level (Do they stay in their lane)
+
+- [[How to Prove or Disprove a Religion]]

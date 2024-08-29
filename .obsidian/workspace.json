@@ -682,9 +682,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8f3ef16213b68ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 51
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -752,7 +765,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
+                "file": "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -769,7 +782,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
+                "file": "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -781,7 +794,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md"
+                "file": "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md"
               }
             }
           },
@@ -848,21 +861,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "74a4c1255751a50b",
+  "active": "e8f3ef16213b68ce",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
+    "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Islamic Rule.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
     "🗃️ Unorganized/General Notes/Equality of Islam and Hinduism.md",
-    "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
     "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
     "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
     "🗃️ Unorganized/General Notes/World Rejecting Religions.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
     "🗃️ Unorganized/General Notes/Poetic Metre.md",
     "🗃️ Unorganized/General Notes/Orthography.md",
@@ -875,7 +889,6 @@
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
-    "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
