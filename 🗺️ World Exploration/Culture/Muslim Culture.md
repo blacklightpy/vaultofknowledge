@@ -78,11 +78,11 @@ The Quran is divided in various ways.
 
 - Pillars of Beliefs (Arkaan al-Imaan)
 	- Tawheed (Oneness of God)
-	- Angels (Malaak)
-	- Revelations (Kutub-i-Muqaddas)
-	- Prophets (Nabi'oon)
+	- Angels (Malai'kah)
+	- Revealed Books (Kutub Allah)
+	- Prophets (Anbiya)
 	- Day of Resurrection (Yawm al-Qiyaamah)
-	- Qadr (Predestination)
+	- Qadar (Predestination) / Taqdeer (Divine Decree)
 
 - Usul al-Fiqh (Principles of Jursipudence)
 	- Fiqh
