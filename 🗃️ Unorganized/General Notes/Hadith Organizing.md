@@ -261,9 +261,11 @@ Revelation of 4:24:
 
 ## Bukhari/Muslim
 - https://sunnah.com/bukhari:3611 (Kill all Mulhid)
+- https://sunnah.com/bukhari:6930 (same)
 # Lying
 ## Bukhari/Muslim
 - https://sunnah.com/bukhari:3611
+- https://sunnah.com/bukhari:6930
 # Stupidity
 
 ## Quran

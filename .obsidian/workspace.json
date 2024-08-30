@@ -286,33 +286,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/National Constitutions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9112a5abb8dcebb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Science of Hadith.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0f661b7540b4adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Madrasa Curriculum.md",
+                "file": "🗃️ Unorganized/General Notes/National Constitutions and Codes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -689,20 +663,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd3399f1003d4ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
+                "file": "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -710,7 +671,7 @@
             }
           }
         ],
-        "currentTab": 53
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -739,7 +700,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apostates",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -778,7 +739,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
+                "file": "🗃️ Unorganized/General Notes/National Constitutions and Codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -795,7 +756,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
+                "file": "🗃️ Unorganized/General Notes/National Constitutions and Codes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -807,7 +768,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md"
+                "file": "🗃️ Unorganized/General Notes/National Constitutions and Codes.md"
               }
             }
           },
@@ -874,15 +835,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bd3399f1003d4ab8",
+  "active": "a3213274f77dd4bd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Free Love Movement.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/General Notes/Science of Hadith.md",
+    "🗃️ Unorganized/General Notes/Madrasa Curriculum.md",
+    "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
+    "🗃️ Unorganized/General Notes/Free Love Movement.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
-    "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
     "🗃️ Unorganized/General Notes/Data on Isnaad.md",
     "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
@@ -898,10 +863,6 @@
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "🗃️ Unorganized/General Notes/Rough Notes X7.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
-    "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Islamic Rule.md",
-    "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
