@@ -1,11 +1,16 @@
 - Muslims say that Islam is not the "religion of peace", when questioned about offensive Jihad: https://old.reddit.com/r/islam/comments/1dsr0wz/is_islam_the_religion_of_peace/
-	- Romans were attacked because they killed an emissary.
+	- Romans were attacked because they (one of their protectorates) killed an emissary. (see my Quora comments)
 		- Sources
 			- 1. https://muslimgirl.com/battle-of-muta/ (Stupid: Treaty of al-Hudaibiyya was not in this context)
 			- 2. https://www.islamicfinder.org/knowledge/islam-and-sunnah/battle-of-mutah-ghazwah-mutah/ (Killed many Byzantines, but didn't avenge al-Harith)
 				- Allah knows how many unbelievers Khalid (R.A.) wounded and killed while breaking nine swords. (Referring to opponents as unbelievers rather than "aggressors")
 			- 3. https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/battle-mootah
-			- https://www.alsiraj.net/English/sira/html/page57.html
+			- 4. https://www.alsiraj.net/English/sira/html/page57.html
+			- 5. https://yaqeeninstitute.org/watch/series/the-martyrs-of-mutah-up-close-full-documentary
+			- 6. https://discover-the-truth.com/2016/03/21/the-battle-of-mutah-mutah/
+			- 7. https://www.quora.com/Why-did-the-Ghassanids-kill-the-Muslim-emissary-pre-Battle-of-Mutah
+			- 8. https://islam.stackexchange.com/questions/41538/what-was-the-justification-for-attacking-or-fighting-the-persians-in-iraq-by-th
+			- 9. https://old.reddit.com/r/history/comments/amcv95/how_exactly_did_the_muslims_defeat_the_roman/
 	- Jihad
 		- [1](https://islamqa.info/en/34647),  [2](https://islamqa.info/en/27180) (IslamQA.Info)
 
