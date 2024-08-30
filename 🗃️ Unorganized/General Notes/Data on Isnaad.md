@@ -1,0 +1,4 @@
+- https://muhaddithat.net/graph/ (Open Source project to graph data)
+- https://github.com/muhaddithat/isnad-datasets (CSV Isnaad Data)
+- https://github.com/ceefour/hadith-islamware (Islam Ware Hadeeth data)
+- https://github.com/OmarShafie/hadith (Isnaad analysis project with CS)
