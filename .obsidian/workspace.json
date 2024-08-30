@@ -721,9 +721,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd3399f1003d4ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 54
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -791,7 +804,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
+                "file": "🗺️ World Exploration/Culture/Muslim Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -808,7 +821,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
+                "file": "🗺️ World Exploration/Culture/Muslim Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -820,7 +833,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md"
+                "file": "🗺️ World Exploration/Culture/Muslim Culture.md"
               }
             }
           },
@@ -886,8 +899,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "db293a81f15e3309",
+  "active": "888be0418cb27fbf",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
+    "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
@@ -895,7 +910,6 @@
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "🗃️ Unorganized/General Notes/Rough Notes X7.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
@@ -913,7 +927,6 @@
     "🗃️ Unorganized/General Notes/World Rejecting Religions.md",
     "🗃️ Unorganized/General Notes/Poetic Metre.md",
     "🗃️ Unorganized/General Notes/Orthography.md",
-    "🗃️ Unorganized/General Notes/Prosody.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
