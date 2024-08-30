@@ -710,7 +710,7 @@
             }
           }
         ],
-        "currentTab": 53
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -778,7 +778,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -795,7 +795,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -807,7 +807,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md"
               }
             }
           },
@@ -873,8 +873,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bcf725a8d6d2223e",
+  "active": "b30a07558ded6110",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
@@ -883,7 +884,6 @@
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Islamic Rule.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
     "🗃️ Unorganized/General Notes/Equality of Islam and Hinduism.md",

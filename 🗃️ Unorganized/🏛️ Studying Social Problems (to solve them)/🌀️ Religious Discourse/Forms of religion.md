@@ -72,7 +72,7 @@ For when you want to put it into more detail. Here are some examples.
 - Exclusivism
 - Existentialism (Atheist / Christian)
 - Feminist
-- Fideism
+- Fideism (Faith is unreasonable)
 - Folk religion
 - Fundamentalism 
 - Gnosticism 
