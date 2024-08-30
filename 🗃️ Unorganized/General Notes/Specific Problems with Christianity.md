@@ -528,10 +528,10 @@ I guess there are sects (denomications) based on historical events, and sects ha
 	- Sunni
 		- In Terms of Belief
 			- Ahl Al-R'ay (People of Reason)
-				- Ash'ari
-				- Maturdi
+				- Ash'ari, by Sheik / Imam Abu al-Hasan al-Ash'ari
+				- Maturdi, by 
 			- Ahl Al-Hadith (People of Ahadeeth)
-				- Athari
+				- Athari, by 
 		- In terms of Ihsan (Beauty)
 			- Sufis / Ahl al-Wijdan wa al-Kashf (People of Religious Ecstasy and the Matters of the Heart)
 	- Shi'a
@@ -1168,6 +1168,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 - Athari (They believe in literal interpretation, like Hand of God)
 	- They do not like to think
 - Ash'ari (They believe in logic ('Aql) over tradition (Naql))
+	- By Sheik / Imam Abu al-Hasan al-Ash'ari
 
 **Invalid Schools of Theology / Aqidah (as per Sunni Scholars)**
 - Mu'tazilla (Leavers)

@@ -17,7 +17,7 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 	- Specifically, according to the Aqaa'id (Schools of Theology) and Madhhahib (Schools of Jurisprudence) of Ahl as-Sunnah wa'l Jama'ah (The People of Tradition and The Majority), including the Salafiyya (Those who follow the ways of the First Three Generations of Muslims who were described by their Messenger to be the Most Righteous Muslims)
 	- Define Aqaa'id / Schools of Theology
 		- Ahl as-Sunnah wa'l Jama'ah / People of Tradition and the Majority of Muslims
-			- Ash'ari School of Islamic Theology of Ahl as-Sunnah wa'l Jama'ah /
+			- Ash'ari School of Islamic Theology of Ahl as-Sunnah wa'l Jama'ah / By Sheik / Imam Abu al-Hasan al-Ash'ari
 			- Maturdi School of Islamic Theology of Ahl as-Sunnah wa'l Jama'ah / 
 			- Athari School of Islamic Theology of Ahl as-Sunnah wa'l Jama'ah / 
 		- Shi'a

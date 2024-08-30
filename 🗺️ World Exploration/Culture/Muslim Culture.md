@@ -42,22 +42,23 @@ The Quran is divided in various ways.
 - Kafir (Disbeliever)
 - Munafiq (Hypocrite)
 
-- Aqidah (Creed)
-
 - Maddhabs (Sects / Schools of Jurispudence) (About 19, condensed to 5)
-	- Hanbali, etc. (Four Main + 1 Shia)
-	- Other
-	- Sufism
+	- Sunni / Ahl as-Sunnah wa'l Jama'ah
+		- Hanbali, By Imam Ahmed ibn Hanbal
+		- Shafi'i
+		- Hanafi
+		- Maliki
+	- Shi'a
+		- Jafari
+	- Ibadi
+	- Sufi
 
-- Schools of Theology
-	- Asharites, etc.
+- Aqidah (School of Theology)
+	- Ash'ari, By Sheik / Imam *Abu al-Hasan **al-Ash'ari***
+	- Maturi
+	- Athari
 
-- Aqidah (Creed)
-
-- Kalam School
-	- Ash'ari, Maturidi, etc.
-	- Twelver Shia
-	- Ibadiyya
+- Kalam (Study of Theology)
 
 - Practices
 	- Shahadah (Profession of Faith)
