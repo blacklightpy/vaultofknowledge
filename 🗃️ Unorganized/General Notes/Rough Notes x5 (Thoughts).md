@@ -1,6 +1,6 @@
 I change my opinion after new knowledge in ontology
 
-I have inclination to truth (e.g. SSK Recruitment)
+I have inclination to truth (e.g. SSK Recruitment for girls)
 But definition requires knowledge
 
 
