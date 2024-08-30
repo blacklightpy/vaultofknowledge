@@ -435,9 +435,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c478210b3ed6f287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Books to learn about Islam.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -505,7 +518,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Books to learn about Islam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -522,7 +535,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Books to learn about Islam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -534,7 +547,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/Books to learn about Islam.md"
               }
             }
           },
@@ -601,11 +614,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc4bde3b887a72e6",
+  "active": "c478210b3ed6f287",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Confirmation Bias.md",
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
