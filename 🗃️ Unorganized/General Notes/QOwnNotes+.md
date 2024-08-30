@@ -143,3 +143,48 @@
 	- Ask Questions
 		- Would you kill a girl who believes in fairies, because it's non-scientific?
 		- (The Muslim answer is,  yes, if they are post-pubescent)
+
+- The Belief that Holy Texts are Precise
+	- Analyze the Corpus of Major World Religions
+		- B'nei Yisra'El
+			- Primary Works
+				- TaNaKh
+					- Torah
+					- Navi'im
+					- Ketuvim
+				- Talmud
+					- Divisions
+						- 1
+							- 
+						- 2
+							- 
+						- 3
+							- 
+						- 4
+							- 
+						- 5
+							- 
+						- 6
+					- Contents
+						- Mishnah
+						- Gemara
+					- Order
+			- Secondary Works
+		- Hindu
+			- Primary Works
+				- Veda Pustakas (Nigama)
+				- Agama Tantras
+				- Ithihaasa
+					- Bhagawad Geeta
+				- Puraana
+			- Secondary Works
+				- Bhasya
+				- Shashtra Pustakas
+				- Kavyas
+		- Mohammedans of Ahl as-Sunnah wa'l Jama'ah
+			- Primary Works
+				- Qur'an
+				- Ahadeeth
+				- Siyar
+			- Secondary Works
+				- Tafaseer

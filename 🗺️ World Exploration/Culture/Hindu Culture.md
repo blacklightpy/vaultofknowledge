@@ -62,7 +62,7 @@ Saguna - All good attributes
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 ## Scriptures
 - Srutis (eternal words)
-	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)
+	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda) / Agama
     - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
     - Vedangas / Supplimentaries: (Shiksha, Chandas, Vyakarana, Nirukta, Kalpa, Jyotisha)
 - Smritis (human works)
