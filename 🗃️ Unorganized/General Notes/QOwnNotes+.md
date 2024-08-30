@@ -145,6 +145,8 @@
 		- (The Muslim answer is,  yes, if they are post-pubescent)
 
 - The Belief that Holy Texts are Precise
+	- Mohammedans say that no one could've created a text that does not contradict itself like the Qur'an
+	- I believe they simply have not read enough books to begin with, terming everything as Haraam
 	- Analyze the Corpus of Major World Religions
 		- B'nei Yisra'El
 			- Primary Works
@@ -188,3 +190,5 @@
 				- Siyar
 			- Secondary Works
 				- Tafaseer
+
+- [[The Ethicality of Eating Animals]]

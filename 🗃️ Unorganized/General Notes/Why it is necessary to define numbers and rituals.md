@@ -10,7 +10,8 @@ If you ask someone how many hours or strokes you need to wash a cloth for, they 
 But the question has its relevance when you are designing a washing machine.
 When you are defining a washing machine, you would want to define the pattern and duration of washing.
 
-One could say that you could test the clothes 
+One could say that you could test the clothes by making them dirty and see how long it requires you to wash it.
+However, that --
 
 It is one thing to define a washing machine that performs a systematic wash based on these principles.
 But another form of washing machine can be devised based, that performs a wash until clothes are observed to be clean.

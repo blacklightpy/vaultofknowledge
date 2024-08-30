@@ -5,8 +5,6 @@ See outline of science on Wikipedia
 		- [[Earth Science]]
 - [[Formal Science]]
 - [[Social Science]]
-
-
 # My classification
 - Study of Things
 - Study of Interactions Between Things

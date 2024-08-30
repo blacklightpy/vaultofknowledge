@@ -5,5 +5,4 @@
 # False Claims
 It's kind of like a man who jumps off buildings is the one who invented flight.
 
-
 Jihad al-Talab
