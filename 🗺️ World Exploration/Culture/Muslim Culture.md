@@ -65,10 +65,10 @@ The Quran is divided in various ways.
 
 - Aqidah (School of Theology)
 	- Ash'ari, By Sheik / Imam *Abu al-Hasan **al-Ash'ari***
-	- Maturi
-	- Athari
+	- Maturi, By 
+	- Athari, By 
 
-- Practices
+- Pillars of Religion (Arkaan ad-Deen)
 	- Shahaadah (Profession of Faith)
 	- Salaah (Prayer)
 	- Zakaat (Almsgiving)
@@ -76,8 +76,8 @@ The Quran is divided in various ways.
 	- Hajj (Pilgrimage)
 	- Jihaad (Struggle in the Cause of Allah) [Not Practiced Now]
 
-- Beliefs
-	- Tawhid (Oneness of God)
+- Pillars of Beliefs (Arkaan al-Imaan)
+	- Tawheed (Oneness of God)
 	- Angels
 	- Revelations
 	- Prophets
@@ -101,11 +101,11 @@ The Quran is divided in various ways.
 		- Tafsir (Commentary)
 	- Ulama (Scholars)
 		- Common Traits
-			- They memorize Mohammed's Qur'an, a great deal of Ahadeeth, Principles of Jurispudence (Usool al-Fiqh), Science of Grading Hadeeths (Mustalah al-Hadeeth)
+			- They memorize Mohammed's Qur'an, a great deal of Ahadeeth, Principles of Jurispudence (Usool al-Fiqh), Science of (Grading) Hadeeths (Uloom al-Hadeeth)
 		- Imam (Lead Scholar, Leads Prayer (Salat))
 		- Mullah (Madrasa graduate)
 		- Ayatollah (Scholars who lead prayers in Shia Islam)
-		- Mufti (Scholars who are qualified to issue Shar'ee verdict (Fatwas))
+		- Mufti (Scholars who are qualified to issue Shari'ah verdict (Fatwas))
 			- They have to have 5 qualities of discipline, and be recommended by 70+ scholars.
 		- Maulana (Learned person in India)
 		- Alim (Learned person)
