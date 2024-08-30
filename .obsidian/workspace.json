@@ -461,9 +461,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f4d94c034caa4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -531,7 +544,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -548,7 +561,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -560,7 +573,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md"
               }
             }
           },
@@ -627,10 +640,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "73536aa9d2a26445",
+  "active": "7f4d94c034caa4bc",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Books to learn about Islam.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
@@ -654,7 +668,6 @@
     "🗃️ Unorganized/General Notes/Science.md",
     "🗃️ Unorganized/General Notes/How to create a language.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
-    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",

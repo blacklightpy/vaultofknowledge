@@ -59,3 +59,10 @@ Source: https://www.ugr.es/~mreligio/materiales/Green.Samuel_The-different-arabi
 - Muslims do not accept all of them as valid, they choose the best one for reading
 - Because "it is ridiculous to believe that God gave the recitation in different variants and we have to pick and choose"
 - There are 7 Mutawatir recitations and 3 Mashhur recitations
+
+# References
+- https://questionsonislam.com/question/why-are-there-differences-copies-quran-allah-said-something-then-he-said-something-else
+- https://muslimprophets.com/article.php?aid=64
+- https://islamqa.info/en/answers/5142/the-revelation-of-the-quran-in-seven-styles-ahruf-sing-harf
+- https://riwaqalquran.com/blog/types-of-qirat/
+- https://islamqa.info/en/answers/192182/ruling-on-one-who-whilst-praying-switches-between-the-seven-modes-of-recitation-that-were-narrated-via-mutawaatir-reports
