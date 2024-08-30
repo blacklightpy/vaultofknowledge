@@ -1,7 +1,7 @@
 It is the study of the nature of reality.
 
 # Indian
-- 
+- Sankhya, Nyaya, Vaisheshika
 
 # Greek
 
