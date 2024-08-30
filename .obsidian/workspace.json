@@ -494,7 +494,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -721,22 +721,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "de752806cfb9bdf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 55
+        "currentTab": 37
       }
     ],
     "direction": "vertical"
@@ -804,7 +791,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X7.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -821,7 +808,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X7.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -833,7 +820,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X7.md"
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md"
               }
             }
           },
@@ -899,17 +886,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de752806cfb9bdf3",
+  "active": "888be0418cb27fbf",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rough Notes X7.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
+    "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X7.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
@@ -924,7 +912,6 @@
     "🗃️ Unorganized/General Notes/Poetic Metre.md",
     "🗃️ Unorganized/General Notes/Orthography.md",
     "🗃️ Unorganized/General Notes/Prosody.md",
-    "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
     "🗃️ Unorganized/General Notes/How to make knowledge language independent.md",
     "🗃️ Unorganized/General Notes/Characteristica Universalis.md",
     "🗺️ World Exploration/Life Forms",

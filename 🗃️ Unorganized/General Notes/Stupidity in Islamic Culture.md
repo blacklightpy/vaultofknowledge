@@ -23,3 +23,7 @@ Other stuff:
 - Felt like hitting a person for naming his pet dog after Mohammed
 	- https://old.reddit.com/r/islam/comments/t795bj/naming_a_pet_after_the_prophet/
 
+- Claim that Jews entered the land only in 1400, and the Canaanites were Arab Palestinians
+	- https://islamqa.info/en/answers/7726/the-importance-of-al-quds-for-the-muslims-and-do-the-jews-have-any-right-to-it
+	- Mohammed himself said that the Allah they believe in granted the land to B'nei Yisra'El
+	- Mohammed said whatever he wanted to copy Jewish texts, and his followers say anything they want to claim that Jews are evil
