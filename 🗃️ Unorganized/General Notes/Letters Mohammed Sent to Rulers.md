@@ -1,3 +1,4 @@
+## Khosrau II of Persia
 - https://old.reddit.com/r/exmuslim/comments/4610ap/prophet_muhammads_threatening_letter_to_persian/
 	- Ali Dashti's thoughts: https://old.reddit.com/r/exmuslim/comments/458oew/psychosis_possible_explanation_for_muhammads/czw532j/
 		- Include's Aisha's report on cave revelation
@@ -7,4 +8,6 @@
 > Embrace Islam so that you may remain safe (in this life and the next). And if you refuse to accept Islam, you will be responsible for the sins of the Magi."
 
 Follow up: **Saheeh al-Bukhari 3027-3028**
-
+## Jews of Khaybar
+- Prophet of Doom by Craig Winn
+	- Ibn Ishaq: 256 has the letter

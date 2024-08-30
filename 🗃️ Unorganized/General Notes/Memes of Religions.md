@@ -52,70 +52,71 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 - There is "**No God**", and "**Reality**" simply consists of two "**Eternal**" things - a "**Witness Consciousness**" and a "**Physical World**", where "**You**" are the "**Eternal**" and "**Formless**" "**Witness Consciousness**" "**Trapped**" in the "**Temporary**" "**Cyclic Worldly Existence**" that takes place in the "**Eternal**" "**Physical World**" which **Continually Evolves**" its "**State**" through the "**Cycle of Life**" just for the sake of "**Your**" "**Mental Evolution**", due to your "**Misunderstanding**" of "**Reality**" that acts as a "**Veil**" to your complete "**Realization**" and makes you think that "**You**" are a part of this "**Cyclic Worldly Existence**", when in reality "**You**" are only a "**Witness Consciousness**" that is "**Separate**" from the "**Physical World**", and when you realize that, the "**Physical World**" will "**Cease**" to "**Evolve**" "**Further**" for "**You**" and you will be free. (==Sankhya Darshana of Vedic Hinduism / Digital Perspective of the Indians following the Sanskrit Books of Knowledge==)
 - "**Existence**" is a "**Random Occurrence**" with "**No Guarantee**" on "**Non-Existent Concepts**" such as "**Justice**" (==Classical Nihilism==)
 
-# Trying to Define Indian Beliefs in English
-## Me Trying to Define Them Purely in English
-Hell, I'll tell you this was hard.
-
-I started like:
-- X Perspective of the Beliefs of Indians following the Sanskrit Books of Knowledge
-
-But it sucked. Then I wrote it down like:
-- Vedic Hinduism (Beliefs of Indians following the Sanskrit Books of Knowledge)
-- X Darshana of Vedic Hinduism (X Perspective of Indians following the Sanskrit Books of Knowledge)
-
-Then I tried an alternative:
-- Islam (Submission)
-- X Aqeedah  (X Perspective on How to Follow Submission)
-- (X Perspective of People who Follow Submission)
-- (X Perspective on Following Submission)
-
-Then I tried:
-- (Beliefs of Xs who Follow Y)
-- (A Perspective of Following Y according to Xs)
-- (A Perspective of Xs Following Y)
-
-- Finally I realized that I should understand that there is an ontological difference between:
-	- "Hinduism" (A Western Grouping that literally means the "Beliefs of Indians EXCLUDING Muslims, Christians, Jews and Parsis") and
-	- "Perspectives of Indians" (The True Classification)
-
-To fix this, I realized I had to consider Indian Muslims as Hindus. Then, I had to break down the term into the concept, and translate it accordingly.
-
-e.g. "Digital Perspective of Indians who follow the Sanskrit Books of Knowledge" and "The Perspective of Seeking Connection with Nature according to Indians who follow the Sanskrit Books of Knowledge"
-
-- Better Ways
-	- New Form: "The Perspective that the Summary of the Sanskrit Books of Knowledge posits a Difference and Non-Difference"
-	- Old Form: "The Perspective of following the Summary of Sanskrit Books of Knowledge that posits a Difference and Non-Difference according to Indians who follow the Sanskrit Books of Knowledge"
-
-(It's called "Indians who" rather than those "who" because I'm sticking to a literal translation rather than an ideological one).
-## How The Westerners Probably Defined
-- Westerners: "These are "Indian Beliefs""
-- Westerners: "They say they have different perspectives"
-- Westerners: "Some have different perspectives based on Vedas (Sanskrit Books of Knowledge)" (Six Broad Perspectives)
-- Westerners: "Others have free perspectives" (Buddhism, Jainism, etc.)
-- Westerners: "These are perspectives of the Indians": *defines them*
-- Westerners: "And we'll call the people of the land Hindus"
-- Westerners: "But we'll only use the term to describe people of their native beliefs"
-- Westerners: "And we'll call the others in the land separately" (Muslims, Christians)
-Why? Here's my guess:
-- "These Indians aside from Muslims and Christians rely on priests to know their culture"
-- "We can't fool the Muslims and Christians, but we can fool the others and take over this place"
-- "Let's translate their books and make our compilation more accessible"
-- "Let's then make them all believe that this compilation is their divine truth"
-- "Let's prioritize the worst texts they have to sow discord in the community" (Manu Smriti, Vaishnava Dharma Shastra)
-- "Let's feed on their pride and make the thinking priestly classes feel superior in a divine right"
-- "Let's make the working classes who don't think too much feel oppressed by the corrupt priestly class"
-- "Let's make the working class people finally fight the priestly class to gain freedom"
-- "And then let's take charge of this nation in the name of fixing their divisiveness"
-# To Classify
-I will define a Hindu as an Indian, based on Geography. (Hindu <= Sindhu River)
-Hindus have different perspectives.
-
-Some follow Vedas (Sanskrit Books of Knowledge) (from it some follow some sects)
-Some follow Other Stuff
-Some follow Islam
-Some follow Christianity
-Some follow Judaism
-Some are just crazy (Polytheism, Atheism, Strange Rituals)
+> [!NOTE]
+> # Trying to Define Indian Beliefs in English
+> ## Me Trying to Define Them Purely in English
+> Hell, I'll tell you this was hard.
+> 
+> I started like:
+> - X Perspective of the Beliefs of Indians following the Sanskrit Books of Knowledge
+> 
+> But it sucked. Then I wrote it down like:
+> - Vedic Hinduism (Beliefs of Indians following the Sanskrit Books of Knowledge)
+> - X Darshana of Vedic Hinduism (X Perspective of Indians following the Sanskrit Books of Knowledge)
+> 
+> Then I tried an alternative:
+> - Islam (Submission)
+> - X Aqeedah  (X Perspective on How to Follow Submission)
+> - (X Perspective of People who Follow Submission)
+> - (X Perspective on Following Submission)
+> 
+> Then I tried:
+> - (Beliefs of Xs who Follow Y)
+> - (A Perspective of Following Y according to Xs)
+> - (A Perspective of Xs Following Y)
+> 
+> - Finally I realized that I should understand that there is an ontological difference between:
+> 	- "Hinduism" (A Western Grouping that literally means the "Beliefs of Indians EXCLUDING Muslims, Christians, Jews and Parsis") and
+> 	- "Perspectives of Indians" (The True Classification)
+> 
+> To fix this, I realized I had to consider Indian Muslims as Hindus. Then, I had to break down the term into the concept, and translate it accordingly.
+> 
+> e.g. "Digital Perspective of Indians who follow the Sanskrit Books of Knowledge" and "The Perspective of Seeking Connection with Nature according to Indians who follow the Sanskrit Books of Knowledge"
+> 
+> - Better Ways
+> 	- New Form: "The Perspective that the Summary of the Sanskrit Books of Knowledge posits a Difference and Non-Difference"
+> 	- Old Form: "The Perspective of following the Summary of Sanskrit Books of Knowledge that posits a Difference and Non-Difference according to Indians who follow the Sanskrit Books of Knowledge"
+> 
+> (It's called "Indians who" rather than those "who" because I'm sticking to a literal translation rather than an ideological one).
+> ## How The Westerners Probably Defined
+> - Westerners: "These are "Indian Beliefs""
+> - Westerners: "They say they have different perspectives"
+> - Westerners: "Some have different perspectives based on Vedas (Sanskrit Books of Knowledge)" (Six Broad Perspectives)
+> - Westerners: "Others have free perspectives" (Buddhism, Jainism, etc.)
+> - Westerners: "These are perspectives of the Indians": *defines them*
+> - Westerners: "And we'll call the people of the land Hindus"
+> - Westerners: "But we'll only use the term to describe people of their native beliefs"
+> - Westerners: "And we'll call the others in the land separately" (Muslims, Christians)
+> Why? Here's my guess:
+> - "These Indians aside from Muslims and Christians rely on priests to know their culture"
+> - "We can't fool the Muslims and Christians, but we can fool the others and take over this place"
+> - "Let's translate their books and make our compilation more accessible"
+> - "Let's then make them all believe that this compilation is their divine truth"
+> - "Let's prioritize the worst texts they have to sow discord in the community" (Manu Smriti, Vaishnava Dharma Shastra)
+> - "Let's feed on their pride and make the thinking priestly classes feel superior in a divine right"
+> - "Let's make the working classes who don't think too much feel oppressed by the corrupt priestly class"
+> - "Let's make the working class people finally fight the priestly class to gain freedom"
+> - "And then let's take charge of this nation in the name of fixing their divisiveness"
+> # To Classify
+> I will define a Hindu as an Indian, based on Geography. (Hindu <= Sindhu River)
+> Hindus have different perspectives.
+> 
+> Some follow Vedas (Sanskrit Books of Knowledge) (from it some follow some sects)
+> Some follow Other Stuff
+> Some follow Islam
+> Some follow Christianity
+> Some follow Judaism
+> Some are just crazy (Polytheism, Atheism, Strange Rituals)
 
 1. ==Vedic Hinduism (The Beliefs of Indians who follow the Sanskrit Books of Knowledge)== / ==Astika Darshanas (Orthodox Beliefs of Indians)==
 	1. ==Sankhya Darshana of Vedic Hinduism (Digital Perspective of Indians who follow the Sanskrit Books of Knowledge)==, proposed by Kapila Maharshi

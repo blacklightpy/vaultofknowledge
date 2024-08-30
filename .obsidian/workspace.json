@@ -684,38 +684,12 @@
             }
           },
           {
-            "id": "ce889e01e985cc29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bcf725a8d6d2223e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db293a81f15e3309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -734,22 +708,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b5eb46e9131000c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Data on Isnaad.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 56
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -817,7 +778,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Data on Isnaad.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -834,7 +795,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Data on Isnaad.md",
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -846,7 +807,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Data on Isnaad.md"
+                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
               }
             }
           },
@@ -912,14 +873,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b5eb46e9131000c8",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
+    "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
     "🗃️ Unorganized/General Notes/Data on Isnaad.md",
+    "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
+    "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
+    "🗃️ Unorganized/General Notes/Books to learn about Islam.md",
+    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
-    "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
     "🗃️ Unorganized/General Notes/Why don't seas mix.md",
-    "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
@@ -929,17 +894,13 @@
     "🗃️ Unorganized/General Notes/Rough Notes X7.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
-    "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
-    "🗃️ Unorganized/General Notes/How to Prove or Disprove a Religion.md",
     "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
-    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Islamic Rule.md",
     "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
     "🗃️ Unorganized/General Notes/Equality of Islam and Hinduism.md",
     "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
     "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
-    "🗃️ Unorganized/General Notes/World Rejecting Religions.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",

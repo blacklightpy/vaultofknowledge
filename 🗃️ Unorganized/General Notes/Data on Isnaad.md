@@ -2,3 +2,4 @@
 - https://github.com/muhaddithat/isnad-datasets (CSV Isnaad Data)
 - https://github.com/ceefour/hadith-islamware (CSV Islam Ware Hadeeth data)
 - https://github.com/OmarShafie/hadith (Isnaad analysis project with CSV Hadeeth)
+- Muslimscholars.info (Main Isnaad source)

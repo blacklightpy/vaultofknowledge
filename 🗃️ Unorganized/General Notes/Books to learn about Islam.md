@@ -1,0 +1,6 @@
+- Siyar
+	- Ibn Ishaq
+	- Ibn Hashim
+	- Al-Tabari
+	- Modern Books
+- Prophet of Doom by Craig Winn (connects Seerah Texts)
