@@ -25,7 +25,7 @@ While Stallman calls them "bullshit generator", and I think that's true, it's st
 
 6.2] Also, human babies too are taught concepts by means of supervision. And only after learning association of words with languages can they ever form rational thoughts. Babies won't survive in the wild without proper supervision.
 
-8]
+8] 
 
 > I think by now, it's not necessary to mention the broad divisions, or even subdivisions, but only the **"line numbers"**
 > 

@@ -25,9 +25,9 @@
 
 4463
 
-1. Ibn Majah 4561
+Ibn Majah 4561
 
-1. Malik 1513
+Malik 1513
 
 
 
