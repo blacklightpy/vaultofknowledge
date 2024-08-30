@@ -27,3 +27,6 @@ Other stuff:
 	- https://islamqa.info/en/answers/7726/the-importance-of-al-quds-for-the-muslims-and-do-the-jews-have-any-right-to-it
 	- Mohammed himself said that the Allah they believe in granted the land to B'nei Yisra'El
 	- Mohammed said whatever he wanted to copy Jewish texts, and his followers say anything they want to claim that Jews are evil
+
+- They do believe in the Jew Hadith
+	- https://x.com/YasMohammedxx/status/1719306468808114415

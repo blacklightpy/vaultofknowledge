@@ -510,9 +510,9 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 			- Zaydi
 			- Ismaili
 		- Other
-	- Muhakkima / al-Harurriya (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbd Allāh ibn Sabāʾ al-Ḥimyarī)
-		- Khwariji
-		- Ibadi
+	- Muhakkima (Judgers) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbd Allāh ibn Sabāʾ al-Ḥimyarī)
+		- Khwariji (Secessionists)
+		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad**
 			- Azzabas
 			- Nukkar
 			- Wahbiyyah (based on Abd Allah ibn Wahb al-Rasibi's teachings)
