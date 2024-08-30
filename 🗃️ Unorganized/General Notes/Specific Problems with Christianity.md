@@ -527,11 +527,11 @@ I guess there are sects (denomications) based on historical events, and sects ha
 - Aqidah
 	- Sunni
 		- In Terms of Belief
-			- Ahl Al-R'ay (People of Reason)
-				- Ash'ari, by Sheik / Imam Abu al-Hasan al-Ash'ari
-				- Maturdi, by 
 			- Ahl Al-Hadith (People of Ahadeeth)
-				- Athari, by 
+				- Athari, by (mostly by Hanbalis)
+			- Ahl Al-R'ay (People of Reason) (Between Athari Literalism and Mu'utazila Rationalism)
+				- Ash'ari, by Sheik / Imam Abu al-Hasan al-Ash'ari
+				- Maturdi, by Sheik / Imam Abu Mansur al-Maturidi
 		- In terms of Ihsan (Beauty)
 			- Sufis / Ahl al-Wijdan wa al-Kashf (People of Religious Ecstasy and the Matters of the Heart)
 	- Shi'a

@@ -46,7 +46,7 @@
 - The marriages of captive women are annulled even if their polytheist husbands are alive
 
 - Slave women cannot be profited from by prostitution, but they can be shared among family members for sex
-- Scholarly opinion based on how the hadith only denies profitting from slaves, so sharing her with family members is allowed
+- Scholarly opinion based on how the hadith only denies profiting from slaves, so sharing her with family members is allowed
 
 - The slave woman who is the wife of slave can be taken by the husband (I think from the 4 pages I opened)
 
@@ -61,6 +61,8 @@
 - Mohammed drank water from a dirty well and said water is pure
 
 - A slave woman should not dress like a free woman (Muwatta Malik) (also atheism-vs-islam page)
+	- https://atheism-vs-islam.com/index.php?view=article&id=46:part-2-allah-muhammad-forced-the-poor-slave-women-to-move-with-naked-breasts-in-the-public&catid=16
+		- From https://old.reddit.com/r/exmuslim/comments/x0zajs/i_need_all_the_scriptures_that_talk_about/
 - Slave women have no concept of Awrah
 
 - See 6:153 again (forgot)
