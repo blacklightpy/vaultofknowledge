@@ -474,9 +474,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7afd1983a8f82ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -544,7 +557,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -561,7 +574,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -573,7 +586,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Versions of Quran.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
               }
             }
           },
@@ -640,8 +653,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7f4d94c034caa4bc",
+  "active": "7afd1983a8f82ccd",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Killing LGBT - Resources.md",
+    "🗃️ Unorganized/General Notes/Science of Hadith - My Notes.md",
+    "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Books to learn about Islam.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
@@ -665,9 +681,6 @@
     "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
     "🤠 Personal/Style.md",
     "🤠 Personal/Hairstyle.md",
-    "🗃️ Unorganized/General Notes/Science.md",
-    "🗃️ Unorganized/General Notes/How to create a language.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
