@@ -1,3 +1,11 @@
+Muslim is an Arabic word for one who submits.
+Islam means submission.
+
+By language, this is ambiguous.
+So I will term them as Mohammedans.
+
+It is a term they prefer to not use, however, it is ambigious for me to us.
+It should be okay, since a defining trait is that they indeed have to follow Mohammed.
 # Important Festivals
 - Id
 # Keywords
@@ -6,17 +14,17 @@
 - ibn - Son of
 - Hijra: The move from Mecca to Medina
 - Hijri Year: It is the calendar era used in the Islamic calendar (from 622 CE), which is based on lunar years (354-355 days a year)
-- AH: Anno Hegirae (romanized) - referring to the Islamic calendar years
+- AH: Anno Hegirae (Romanized) - referring to the Islamic calendar years
 # Main Definitions
 - Islam: Submission to Allah
 - Muslim: One who submits
-- Quran: The Recitation (of the word of Allah)
-# Branches of Islam
-- Ibadi (popular in Oman)
+- Qur'an: The Recitation (of the word of Allah)
+# Sects of Islam
 - Sunni
-- Shia
+- Shi'a
+- Ibadi (popular in Oman)
 # The Quran
-- Al Qu'uran, translates to the "word of god".
+- Al Qur'an, translates to the "word of god".
 - Allah is the god of the world
 - A Muslim is one who follows the words of Allah
 - Iblis is the name of Al-Shaytan, the devil
@@ -31,7 +39,7 @@ The Quran is divided in various ways.
 - Rubu - Each Hizb is made up of four quarters, each known as a Rubu.
 # Other aspects
 - Sunnah - The sayings and actions of Prophet Mohammed PBUH. It is used to interpret the Quran right.
-- Hadith - The text that records the sunnah. It contains both the chain of reports and the main text.
+- Hadith - The text that records the Sunnah. It contains both the Chain of Reports and the main text.
 # Other Keywords
 - Din (Religion)
 - Iman (Faith)
@@ -42,30 +50,31 @@ The Quran is divided in various ways.
 - Kafir (Disbeliever)
 - Munafiq (Hypocrite)
 
-- Maddhabs (Sects / Schools of Jurispudence) (About 19, condensed to 5)
+- Maddhabs (Sects / Schools of Jurispudence) (Historically, about 19 in Sunni and Shi'a)
 	- Sunni / Ahl as-Sunnah wa'l Jama'ah
 		- Hanbali, By Imam Ahmed ibn Hanbal
-		- Shafi'i
-		- Hanafi
-		- Maliki
+		- Shafi'i, By Imam Ash-Shafi'i
+		- Hanafi, By Imam Abu Hanifa
+		- Maliki, By Imam Malik
 	- Shi'a
 		- Jafari
 	- Ibadi
 	- Sufi
+
+- Kalam (Theology)
 
 - Aqidah (School of Theology)
 	- Ash'ari, By Sheik / Imam *Abu al-Hasan **al-Ash'ari***
 	- Maturi
 	- Athari
 
-- Kalam (Study of Theology)
-
 - Practices
-	- Shahadah (Profession of Faith)
-	- Salah (Prayer)
-	- Zakat (Almsgiving)
+	- Shahaadah (Profession of Faith)
+	- Salaah (Prayer)
+	- Zakaat (Almsgiving)
 	- Sawm (Fasting)
 	- Hajj (Pilgrimage)
+	- Jihaad (Struggle in the Cause of Allah) [Not Practiced Now]
 
 - Beliefs
 	- Tawhid (Oneness of God)
@@ -79,7 +88,7 @@ The Quran is divided in various ways.
 	- Fiqh
 		- Ijma, etc.
 	- Ahkam (Juristic Concepts)
-		- Al-Ahkam Al-Khamsa (The five decisions in Shariah)
+		- Al-Ahkam Al-Khamsa (The Five Decisions in Shari'ah)
 			- Fard/Wajib (Compulsory)
 			- Mustahabb/Mandub (Recommended)
 			- Mubah (Neutral)
@@ -91,9 +100,9 @@ The Quran is divided in various ways.
 		- Sunnah (Tradition)
 		- Tafsir (Commentary)
 	- Ulama (Scholars)
+		- Common Traits
+			- They memorize Mohammed's Qur'an, a great deal of Ahadeeth, Principles of Jurispudence (Usool al-Fiqh), Science of Grading Hadeeths (Mustalah al-Hadeeth)
 		- Imam (Lead Scholar, Leads Prayer (Salat))
-		- Scholars (general category)
-			- They memorize Quran, a great deal of ahadeeth, Principles of Jurispudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith)
 		- Mullah (Madrasa graduate)
 		- Ayatollah (Scholars who lead prayers in Shia Islam)
 		- Mufti (Scholars who are qualified to issue Shar'ee verdict (Fatwas))
@@ -103,6 +112,7 @@ The Quran is divided in various ways.
 		- Faqih (Someone who knows how to apply Islam, well versed in Fiqh, and follow a Madhhab)
 		- Sheik (Respected Old Person, student or scholar (in Egypt), or the head of a village, similar to Maulana)
 		- Mujtahid (A scholar qualified to perform Independent Reasoning (Ijtihad))
+		- Muttakalim (A scholar of Theology (Kalam))
 
 - Rulings
 	- Fatwas (Opinions by Muftis)
