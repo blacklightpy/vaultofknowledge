@@ -12,7 +12,7 @@
 	- Contradiction: Do not cry at the graves
 
 Origin of Hadith Isnads: https://sunnahonline.com/library/fiqh-and-sunnah/277-introduction-to-the-sciences-of-hadith
-Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-islam/
+Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-islam/ (Says it was against Byzantines only)
 
 +Muwatta Malik Book 38, Hadeeth 12 (only feed Muslims)
 # Rough

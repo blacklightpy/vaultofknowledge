@@ -54,12 +54,10 @@ The general components to modify are:
 	- Havoc OS
 	- Cherish OS
 	- Project Matrixx
-### Other ROMS
-- https://github.com/musabcel/android_rom_list (Too many: Android ROMs | MIUI ROMs | GSI ROMs | Custom Recoveries)
-- 
-
-
-- KWGT Widgets [Proprietary]
+	- More ROMs List:
+		- https://github.com/musabcel/android_rom_list (Too many: Android ROMs | MIUI ROMs | GSI ROMs | Custom Recoveries)
+- Apps and Modules
+	- KWGT Widgets [Proprietary]
 # System Customization
 ## In Microsoft Windows [Proprietary]
 - Sound Enhancement

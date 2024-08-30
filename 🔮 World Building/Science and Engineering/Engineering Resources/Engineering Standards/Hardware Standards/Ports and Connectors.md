@@ -13,12 +13,12 @@ Parallel interfaces transfer data through multiple channels simultaneously to se
 - Pitch - Center-to-center distance between two pins or terminals
 # Parallel Ports
 - PATA
-- DB25 (Legacy Printers)
+- DB-25 (Legacy Printers) (D and B stand for size)
 - VGA
 # Serial Ports
 
 - SATA
-- DE-9 (Electrical Interface: RS-232)
+- DE-9 (Electrical Interface: RS-232) (D and E stand for size)
 - RJ45 (Electrical Interface: RS-232) / Console Cable / Rollover Cable (Ethernet is not RS-232 at the electrical level)
 	- It's a null-modem (not needing modem; i.e. used to connect two Data Terminal Equipments (DTEs) directly) cable used to connect a computer's terminal to another device's console port
 	- Typically blue in colour

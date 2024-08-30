@@ -6,7 +6,7 @@
 It's kind of like a man who jumps off buildings is the one who invented flight.
 
 
-# Notes on this 
-This was from a video
+# Notes on this note
+This was from a video where the European guy was discussing
 
 \* Jihad al-Talab 
