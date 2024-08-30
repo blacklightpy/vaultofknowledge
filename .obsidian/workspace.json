@@ -689,7 +689,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -710,7 +710,7 @@
             }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "vertical"
@@ -739,7 +739,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apostates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -778,7 +778,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -795,7 +795,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -807,7 +807,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
+                "file": "🗃️ Unorganized/General Notes/How to make a Microkernel.md"
               }
             }
           },
@@ -850,7 +850,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -873,8 +874,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "bd3399f1003d4ab8",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Free Love Movement.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🔮 World Building/Philosophy/Metaphysics/Metaphysics.md",
     "🗃️ Unorganized/General Notes/How to make a Microkernel.md",
     "🗃️ Unorganized/General Notes/Data on Isnaad.md",
@@ -887,7 +893,6 @@
     "🗃️ Unorganized/General Notes/Why don't seas mix.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Stupidity in Islamic Culture.md",
@@ -897,10 +902,6 @@
     "🗃️ Unorganized/General Notes/The Archetype of The Muslim.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Islamic Rule.md",
     "🗃️ Unorganized/General Notes/Anti-Hindu Theological Arguments by Muslims.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Understanding Muslim relations with Hinduism.md",
-    "🗃️ Unorganized/General Notes/Equality of Islam and Hinduism.md",
-    "🗃️ Unorganized/General Notes/Standard of Writing a Letter.md",
-    "🗃️ Unorganized/General Notes/Emergence - My Philosophy.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
