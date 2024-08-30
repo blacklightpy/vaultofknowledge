@@ -4,7 +4,8 @@
 			- 1. https://muslimgirl.com/battle-of-muta/ (Stupid: Treaty of al-Hudaibiyya was not in this context)
 			- 2. https://www.islamicfinder.org/knowledge/islam-and-sunnah/battle-of-mutah-ghazwah-mutah/ (Killed many Byzantines, but didn't avenge al-Harith)
 				- Allah knows how many unbelievers Khalid (R.A.) wounded and killed while breaking nine swords. (Referring to opponents as unbelievers rather than "aggressors")
-			- 3. 
+			- 3. https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/battle-mootah
+			- https://www.alsiraj.net/English/sira/html/page57.html
 	- Jihad
 		- [1](https://islamqa.info/en/34647),  [2](https://islamqa.info/en/27180) (IslamQA.Info)
 
