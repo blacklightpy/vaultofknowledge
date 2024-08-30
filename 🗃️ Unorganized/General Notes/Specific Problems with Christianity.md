@@ -523,12 +523,11 @@ I guess there are sects (denomications) based on historical events, and sects ha
 - Aqidah (mix and match)
 - Madhhab (mix and match)
 
-
 - Aqidah
 	- Sunni
 		- In Terms of Belief
 			- Ahl Al-Hadith (People of Ahadeeth)
-				- Athari, by (mostly by Hanbalis)
+				- Athari / Ahl al-Athar (basically Hanbali theology)
 			- Ahl Al-R'ay (People of Reason) (Between Athari Literalism and Mu'utazila Rationalism)
 				- Ash'ari, by Sheik / Imam Abu al-Hasan al-Ash'ari
 				- Maturdi, by Sheik / Imam Abu Mansur al-Maturidi
@@ -539,7 +538,7 @@ I guess there are sects (denomications) based on historical events, and sects ha
 	- Salafi
 	- Directly Violent Jihadists
 		- Wahhabi (by Muhammad Ibn 'Abd al-Wahhab)
-		- Qutbi (by Sayyid Qutb)
+		- Qutbi (by Sayyid Qutb, of Muslim Brotherhood) (Wanted to eliminate all traces of Jahiliyya (Age of Ignorance) by Jihad al-Talab in all of Earth)
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
