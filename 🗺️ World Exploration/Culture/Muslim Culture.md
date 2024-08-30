@@ -41,8 +41,8 @@ The Quran is divided in various ways.
 - Sunnah - The sayings and actions of Prophet Mohammed PBUH. It is used to interpret the Quran right.
 - Hadith - The text that records the Sunnah. It contains both the Chain of Reports and the main text.
 # Other Keywords
-- Din (Religion)
-- Iman (Faith)
+- Deen (Religion)
+- Imaan (Faith)
 - Mumin (Believer)
 - Muslim (Submitter)
 - Fasiq (Open Sinner, Corrupt)
@@ -78,7 +78,7 @@ The Quran is divided in various ways.
 
 - Pillars of Beliefs (Arkaan al-Imaan)
 	- Tawheed (Oneness of God)
-	- Angels ()
+	- Angels (Malaak)
 	- Revelations ()
 	- Prophets (Nabi'oon)
 	- Day of Resurrection (Yawm al-Qiyaamah)
