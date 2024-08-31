@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -397,8 +397,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -414,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Numbers.md",
+                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Numbers.md",
+                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -443,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Numbers.md"
+                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md"
               }
             }
           },
@@ -510,7 +509,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "05682ecfc813dafd",
+  "active": "937bf786e8780a31",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Numbers.md",
     "🗃️ Unorganized/General Notes/Readable Font Values.md",

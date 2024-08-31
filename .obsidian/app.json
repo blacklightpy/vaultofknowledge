@@ -21,5 +21,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "🗃️ Unorganized/General Notes",
   "readableLineLength": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "rightToLeft": false
 }
