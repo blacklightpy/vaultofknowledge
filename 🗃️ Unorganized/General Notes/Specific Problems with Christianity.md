@@ -507,8 +507,9 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 	- Shi'a
 		- Popular
 			- Ithna Ashari (Jafari Madhhab)
-			- Zaydi
 			- Ismaili
+				- Druze is a branch off (non Muslim)
+			- Zaydi
 		- Other
 	- Muhakkima (Judgers) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbd Allāh ibn Sabāʾ al-Ḥimyarī)
 		- Khwariji (Secessionists)
