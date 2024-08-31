@@ -1,0 +1,1 @@
+It refers to a language trick where one uses words that 

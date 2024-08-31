@@ -1,4 +1,4 @@
-If two clean, flat metals are brought into contact in vacuum, they will stick together as one. This is called cold welding.
+If two clean, flat metals are brought into contact in vacuum, they will stick together as one. This is called cold [[welding]].
 
 Richard Feynman explained it as:
 

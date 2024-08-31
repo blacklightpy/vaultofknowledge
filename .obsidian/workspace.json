@@ -305,9 +305,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22e9a1a96f0cd69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Doublespeak.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -375,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Doublespeak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
+                "file": "🗃️ Unorganized/General Notes/Doublespeak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -404,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Memes of Religions.md"
+                "file": "🗃️ Unorganized/General Notes/Doublespeak.md"
               }
             }
           },
@@ -471,16 +484,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "22e9a1a96f0cd69a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Doublespeak.md",
+    "🗃️ Unorganized/General Notes/Cold Welding.md",
+    "🗃️ Unorganized/General Notes/Welding.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Berg Connectors.md",
-    "🗃️ Unorganized/General Notes/Cold Welding.md",
     "🗃️ Unorganized/General Notes/Assassin.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
@@ -497,8 +512,6 @@
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
     "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
     "🗺️ World Exploration/Fun and Activities/Device Customization/Device Customization.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
-    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",

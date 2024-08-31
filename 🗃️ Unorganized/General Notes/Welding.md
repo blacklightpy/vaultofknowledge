@@ -1,1 +1,4 @@
-It refers to joining metals
+It refers to joining metals.
+
+# Methods
+- [[Cold Welding]]
