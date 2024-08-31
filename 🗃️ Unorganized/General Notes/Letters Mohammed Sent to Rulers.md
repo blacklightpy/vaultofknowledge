@@ -1,15 +1,15 @@
 # How a normal person would write a letter
-
-Hello. I'm "so and so", and I believe "so and so", and I'd like to convey its message to the people for that noble reason. I kindly request your approval for me to proceed with the matter.
+General Template:
+> Hello. I'm "so and so", and I believe "so and so", and I'd like to convey its message to the people for that noble reason. I kindly request your approval for me to proceed with the matter.
 
 For example:
-> Hello. I'm Zotap, and I identify myself as a Messenger from God, the most Merciful and Beneficent. I would like to convey His message to the people of your nation, so that they may receive the benefits of God and be safe from the punishment that will otherwise befall them in the afterlife. The core tenets of this true religion of God are that God Almighty, the creator of this world, the Most Beneficent and Most Merciful, is one in form and essence, and he is a jealous God who forbids the worship of man-made idols, and that there is an eternal Afterlife that leads you either to Paradise or Hell for those who believe in his message and follows his law.
+> Greetings to Khosrau II, the Head of Persia. I'm Zotap, and I identify myself as a Messenger from God, the Most Merciful and Beneficent. I would like to convey His message to the people of your nation, so that they may receive the benefits of God and be safe from the punishment that will otherwise befall them in the afterlife. The core tenets of this true religion of God are that God Almighty, the creator of this world, the Most Beneficent and Most Merciful, is one in form and essence, and he is a jealous God who forbids the worship of man-made idols, and that there is an eternal Afterlife that leads you either to Paradise or Hell, depending on whether you believe in His message and follow His law or not.
 > 
-> I am required to deliver this message to all people, by the command of God. I request your approval for me to proceed with my invitation of your nation to His religion.
+> I am required to deliver this message to all people, by the command of God. I request your approval for me to proceed with my invitation of you and your nation to His religion.
 
-- =="I am the final Messenger of God"== would have to be followed up by why he is a "final" Messenger, and then he would have to mention that it is because God's law is one, but it has been corrupted and that this is therefore a message of his final warning. And people do not like to hear warnings from men, especially when the claim to be from a supernatural entity, in which case one could simply assume him to be under psychosis.
+- Using phrases like =="I am the final Messenger of God"== would require it to be followed up by an explanation on why he is a "final" Messenger, and then he would have to mention that it is because God's law is one, but it has been corrupted and that this is therefore a message of his final warning. And people do not like to hear warnings from men, especially when they claim to be from a supernatural entity, in which case one could simply assume him to be in psychosis.
 
-- The decree of waging war in case the permission to spread the message is denied should only be delivered 
+- The decree of waging war to allow spreading the message if the permission to do so peacefully is denied should only be delivered if the permission was denied after the first invitation. Otherwise, it starts of in a threatening tone, prompting the leaders to take action assuming that these people are crazy, as they have no understanding of respectful conduct.
 # How Mohammed wrote letters
 ## Khosrau II of Persia
 - https://old.reddit.com/r/exmuslim/comments/4610ap/prophet_muhammads_threatening_letter_to_persian/
