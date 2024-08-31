@@ -3,11 +3,13 @@
 Hello. I'm "so and so", and I believe "so and so", and I'd like to convey its message to the people for that noble reason. I kindly request your approval for me to proceed with the matter.
 
 For example:
-> Hello. I'm Zotap, and I identify myself as a Messenger from God, the most Merciful and Beneficent. I would like to convey his message to the people of your nation, so that they may receive the benefits of God and be safe from the punishment that will otherwise befall on them in the afterlife. The core tenets of this religion of God is that God Almighty, the creator of this world, the Most Beneficent and Most Merciful, is one in form and essence, and he is a jealous God who forbids the worship of man-made idols, and that there is an eternal Afterlife that leads you either to Paradise or Hell for those who believe in his message and follows his law.
+> Hello. I'm Zotap, and I identify myself as a Messenger from God, the most Merciful and Beneficent. I would like to convey His message to the people of your nation, so that they may receive the benefits of God and be safe from the punishment that will otherwise befall them in the afterlife. The core tenets of this true religion of God are that God Almighty, the creator of this world, the Most Beneficent and Most Merciful, is one in form and essence, and he is a jealous God who forbids the worship of man-made idols, and that there is an eternal Afterlife that leads you either to Paradise or Hell for those who believe in his message and follows his law.
 > 
 > I am required to deliver this message to all people, by the command of God. I request your approval for me to proceed with my invitation of your nation to His religion.
 
-- "I am the final Messenger of God" or "I identify myself as the fi" would have to be followed up by why he is a "final" Messenger, and then he would have to mention that it is because God's law is one and that he is tired of all those who have corrupted the
+- =="I am the final Messenger of God"== would have to be followed up by why he is a "final" Messenger, and then he would have to mention that it is because God's law is one, but it has been corrupted and that this is therefore a message of his final warning. And people do not like to hear warnings from men, especially when the claim to be from a supernatural entity, in which case one could simply assume him to be under psychosis.
+
+- The decree of waging war in case the permission to spread the message is denied should only be delivered 
 # How Mohammed wrote letters
 ## Khosrau II of Persia
 - https://old.reddit.com/r/exmuslim/comments/4610ap/prophet_muhammads_threatening_letter_to_persian/
