@@ -3,5 +3,7 @@ It comes from the French/Italian word Assassini, which comes from the Arabic wor
 It referred to a group of Nazari Isma'eeli Shi'a Mohammedan Muslims who were called The Order of the Assassins.
 
 Only a set of disciples called the Fedayeen actually involved in fights.
+
 # Origin of the Word
-"Asaasa" means "principles" in Arabic. "Asaasiyyoon" meant "People of Principles". "Hashshashin" was probably a play on the word "Asaasiyyoon"
+"Asas" means "principles" in Arabic. "Asaasiyyoon" meant "People of Principles". "Hashshashin" was probably a play on the word "Assaasiyyoon" (not "Assaassiyyeen", the plural of "Asasi", meaning Fundamental)
+
