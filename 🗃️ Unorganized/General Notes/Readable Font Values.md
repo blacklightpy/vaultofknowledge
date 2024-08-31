@@ -6,4 +6,6 @@
 - Line Height: 1.4
 
 ## Normal Text
-- 14 pt for 
+- 10.5 pt / 14 px for Concise Text
+- 11.25 pt / 15 px for Normal Text
+- 12 pt and up is too big for me, but would be good for those with reading issues.
