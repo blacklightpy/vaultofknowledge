@@ -1,7 +1,10 @@
 # How a normal person would write a letter
 
-Hello. I'm a "so and so" person who believes in "so and so", and I'd like to convey its message to the people for that
+Hello. I'm a "so and so" person who believes in "so and so", and I'd like to convey its message to the people for that noble reason. I kindly 
 
+Hello. I'm "so and so", a "so and so" from "so and so"
+
+Hello. I'm Zotap, and I believe myself to be a Messenger of God.
 # How Mohammed wrote letters
 ## Khosrau II of Persia
 - https://old.reddit.com/r/exmuslim/comments/4610ap/prophet_muhammads_threatening_letter_to_persian/
