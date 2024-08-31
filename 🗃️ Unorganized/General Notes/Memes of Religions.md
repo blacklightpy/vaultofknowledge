@@ -147,7 +147,7 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 	3. ==Chaarvaka Darshana of Jain Darshana of Non-Vedic Hinduism / Lokayata Darshana of Jain Darshana of Non-Vedic Hinduism / Chaarvaka / Lokayata (Harmonious Speech / World Oriented)==
 	4. ==Ajeevika Darshana of Jain Darshana of Non-Vedic Hinduism / Niyati Vaada of Non-Vedic Hinduism / Ajeevika / Niyati Vaada (The Perspective of the Way of Life according to Indians who don't follow the Sanskrit Books of Knowledge / The Proposition of Fate according to Indian's who don't follow the Sanskrit Books of Knowledge / Way of Life / Proposition of Fate)==
 	5. ==Ajnana Darshana of Non-Vedic Hinduism / Ajnana (Skeptic Perspective of Indians who don't follow the Sanskrit Books of Knowledge / Skepticism)==
-4. ==Sikhism (Being a Disciple)==
+4. ==Sikhism (Being a Disciple)==, started by Guru Granth Sahib
 ### Darshana Notes
 - Astika
 	- Should believe in Vedas (Sanskrit Books of Knowledge)
