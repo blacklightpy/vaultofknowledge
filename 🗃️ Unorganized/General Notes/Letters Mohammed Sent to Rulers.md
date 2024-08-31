@@ -5,7 +5,9 @@ Hello. I'm a "so and so" person who believes in "so and so", and I'd like to con
 Hello. I'm "so and so", a "so and so" from "so and so"
 
 For example:
-> Hello. I'm Zotap, and I identify myself as a Messenger from God. I would like to convey my religion to the people of your nation, so that they may receive the benefits of God and be safe from the punishment that will otherwise befall on them in the afterlife.  The core tenets of my religion are that God is one in form and essence, and he dislikes and forbids the worship of man-made idols.
+> Hello. I'm Zotap, and I identify myself as a Messenger from God, the most Merciful and Beneficent. I would like to convey his message to the people of your nation, so that they may receive the benefits of God and be safe from the punishment that will otherwise befall on them in the afterlife. The core tenets of this religion of God are that God the creator of this world, Almighty and Most Merciful, is one in form and essence, and he is a jealous God who forbids the worship of man-made idols, and that there is an eternal Afterlife that leads you either to Paradise or Hell for those who believe in his message and follows his law.
+> 
+> I am required to deliver this message to all people, by the command of God. I request your approval for me to proceed with my invitation of your nation to the law of God.
 # How Mohammed wrote letters
 ## Khosrau II of Persia
 - https://old.reddit.com/r/exmuslim/comments/4610ap/prophet_muhammads_threatening_letter_to_persian/
