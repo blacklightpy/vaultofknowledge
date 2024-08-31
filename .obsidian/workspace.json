@@ -331,9 +331,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05682ecfc813dafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Numbers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -401,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Readable Font Values.md",
+                "file": "🗃️ Unorganized/General Notes/Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -418,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Readable Font Values.md",
+                "file": "🗃️ Unorganized/General Notes/Numbers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -430,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Readable Font Values.md"
+                "file": "🗃️ Unorganized/General Notes/Numbers.md"
               }
             }
           },
@@ -497,11 +510,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1d2a02f48ed01729",
+  "active": "05682ecfc813dafd",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Numbers.md",
+    "🗃️ Unorganized/General Notes/Readable Font Values.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/Why Islam will fail.md",
-    "🗃️ Unorganized/General Notes/Readable Font Values.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Cold Welding.md",
     "🗃️ Unorganized/General Notes/Welding.md",
@@ -524,7 +538,6 @@
     "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
     "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
