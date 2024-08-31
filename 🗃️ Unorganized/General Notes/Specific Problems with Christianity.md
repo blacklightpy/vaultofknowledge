@@ -470,7 +470,7 @@ Only a Mujtahid can perform Ijtihad.
 
 - Tafsirs (Commentary) (Based on the Quran, Hadiths, Fatwas of the Companions and the Fatwas of those who've known them)
 	- Tafsir ibn Kathir (IK) (~1370)
-		- **By:** Ismail ibn Umar Ibn Kathir 
+		- **By:** Isma'eel ibn Umar Ibn Kathir 
 	- Tafsir al-Qurtubi (Q) (~1273)
 		- **Also called:** Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions)
 		- **By:** Muhammad ibn Ahmad Qurtubi
@@ -507,7 +507,7 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 	- Shi'a
 		- Popular
 			- Ithna Ashari (Jafari Madhhab)
-			- Ismaili
+			- Isma'eeli
 				- Druze is a branch off (non Muslim)
 			- Zaydi
 		- Other
@@ -1182,7 +1182,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Shi'a Schools of Theology / Aqidah**
 - Jafari (Ithna Asharis / Twelver Shi'a)
 - Zaydi
-- Ismaili
+- Isma'eeli
 
 **Other Schools of Theology**
 - Ibadi
@@ -1225,7 +1225,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 - Twelver (Rafidi / Rejectionists)
 - Zaydi
-- Isma'ili
+- Isma'eeli
 
 **The Six Sunni Hadiths**
 
@@ -1239,7 +1239,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Popular Commentators (Mufassirun) (Sunni)**
 
 - 1. Tafsir ibn Kathir (IK) (~1370)
-	- **By:** Ismail ibn Umar Ibn Kathir 
+	- **By:** Isma'eel ibn Umar Ibn Kathir 
 - 2. Tafsir al-Qurtubi (Q) (~1273)
 	- **Also called:** Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions)
 	- **By:** Muhammad ibn Ahmad Qurtubi

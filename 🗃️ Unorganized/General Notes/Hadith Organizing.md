@@ -96,7 +96,7 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 
 **Majority of woman are in Hell. Women are deficient in intelligence, and religion. Gives "proof".**
 
-> [Sahih al-Bukhari d304](http://sunnah.com/bukhari/6/9 "sunnah.com"):  
+> [Sahih al-Bukhari 304](http://sunnah.com/bukhari:304 "sunnah.com"):  
 > Narrated Abu Sa'id Al-Khudri: Once Allah's Messenger went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." They asked, "Why is it so, O Allah's Messenger?" He replied, "You curse frequently and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. A cautious sensible man could be led astray by some of you." The women asked, "O Allah's Messenger! What is deficient in our intelligence and religion?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence. Isn't it true that a woman can neither pray nor fast during her menses?" The women replied in the affirmative. He said, "This is the deficiency in her religion."
 
 **Women are the worst trial for men**
@@ -184,9 +184,9 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 ## Hadith Tafsirs
 ### Bukhari
 - Aisha had not menstruated
-	- Fath Al-Bari
+	- Fath al-Bari
 - It is permissible to marry a baby
-	- Fath Al-Bari vol. 11, page 25 "يجوز تزويج الصغيرة بالكبير إجماعا ولوكانت في المهد" - "It is permissible to marry young girls, by a great ijma (consensus of scholars), even if they were still in a cradle."
+	- Fath al-Bari vol. 11, page 25 "يجوز تزويج الصغيرة بالكبير إجماعا ولوكانت في المهد" - "It is permissible to marry young girls, by a great Ijma (consensus of scholars), even if they were still in a cradle."
 
 ## Scholarly Works
 

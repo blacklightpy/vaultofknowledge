@@ -33,7 +33,7 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 		- Shi'a
 			- Ithna Ashari
 				- Jafari School of Islamic Jurisprudence according to Ithna Ashari Shi'a Muslims
-			- Isma'ili
+			- Isma'eeli
 				- 
 			- Zaydi
 				- 
