@@ -1,3 +1,7 @@
+Tantras generally mean just the Shaktaa Agamas. Nevertheless, here's a list.
+
+Master List of Shakta Tantras: https://hinduism.stackexchange.com/questions/45169/how-many-tantra-sakta-agamas-texts-are-there
+
 - Shaiva–Sadashiva (Shivagama), Vaama or Tumburu, Dakshina or Bhairava
 	- Kularnava Tantra
 	- Amritesha Tantra or Netra Tantra
@@ -23,7 +27,7 @@
 
 - Shakta–Kaali Traditions (Kaali, Kaali Vishnu, Kaamaakhyaa/Kubjika, Thaara and others), Shreekula Tradition
 	- Varahi Tantra
-	- Shakta Agamas
+	- Shakta Aagamas
 	- Mundamaalaa Tantra
 	- Todala Tantra
 	- Chaamunda Tantra
@@ -61,7 +65,7 @@
 	- Maatrikaabheda Tantra
 
 - Vaishnava–Vaikhanasas, Pancharatra, Bhakti-oriented Tantras of Krishna and Raama
-	- Paancharaatra Samhitha
+	- Pancharaatra Samhitha
 	- Ahirbudhnya Samhitha
 	- Jayaakhya Samhitha
 	- Parameshvara Samhitha

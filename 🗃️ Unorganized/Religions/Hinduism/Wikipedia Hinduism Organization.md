@@ -3,8 +3,8 @@
 	- Samhitha
 	- Upanishads
 	- Others
-- Agamas
-	- Tantras (Shakta Agamas)
+- Aagamas
+	- Tantras (Shakta Aagamas)
 - Vedanta (Dvaita vs Advaita)
 - Advaita Vedanta (by Adi Sankara)
 - Verses
@@ -42,16 +42,16 @@ The early Upanishads were composed over 900-300 BCE.
 - Abhinavabharati (950-1020 CE)
 - Yoga Vasistha (750 CE)
 ---
-# Agamas
+# Aagamas
 
-- Agamas are traditions.
+- Aagamas are traditions.
 	- They are voluminous and are divided into Shaiva, Shakta and Vaishnava.
 	- They are also called Tantras, but that's mostly Shakta Agamas.
-	- The Agama texts include:
-		- 28 Shaiva Agamas
-		- 64 Shakta Agamas (also called Tantras)
-		- 108 Vaishnava Agamas (also called Pancharatra Samhitas)
-		- and numerous Upa-Agamas.
+	- The Aagama texts include:
+		- 28 Shaiva Aagamas
+		- 64 Shakta Aagamas (also called Tantras)
+		- 108 Vaishnava Aagamas (also called Pancharatra Samhitas)
+		- and numerous Upa Aagamas.
 # Dvaita Vedanta vs Advaita Vedanta
 - Dvaita Vedanta is dualistic
 - Advaita Vedanta is monistic

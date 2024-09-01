@@ -8,7 +8,7 @@
 			- Brahmanas (For rituals)
 			- Aranyakas (Knowledge for forest dwellers)
 			- Upanishads (Spiritual and Philosophical teachings)
-		- Agamas / Tantras
+		- Aagamas / [[Tantras]]
 	- Smriti (Inspired works)
 		- Puranas
 			- 18 Mahapuranas (not sure which ones)

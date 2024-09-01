@@ -7,7 +7,7 @@
 	- Shruti
 	- Smriti
 	- Darshanas
-	- Agamas
+	- Aagamas
 	- Bhakti Marga
 	- Karma and Rebirth
 - Sutras
@@ -16,7 +16,7 @@
 # Stuff to Learn
 - Scriptures
 	- Vedas
-- Agamas (Related to Samhithas)
+- Aagamas (Tantras, in contrast to Veda Samhithas)
 - Smritis
 	- Bhakti Shastras
 		- Ithihasas
@@ -106,7 +106,7 @@ So basically,
 
 * **Darshanas**: the six major philosophies of Hinduism, including Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta
 
-* **Agamas**: a collection of Hindu scriptures that discuss temple worship, rituals, and yoga
+* **Aagamas**: a collection of Hindu scriptures that discuss temple worship, rituals, and yoga
 
 * Bhakti Marga: the path of devotion in Hinduism, which involves the worship of a personal god or goddess
 * Karma and Rebirth: the Hindu beliefs in the law of cause and effect and the cycle of birth, death, and rebirth

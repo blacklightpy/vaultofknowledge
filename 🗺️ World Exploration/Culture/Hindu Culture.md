@@ -229,7 +229,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 		- Kalpa
 		- Jyotisha
 ## Smritis (Inspired Works)
-- Agamas
+- Aagamas
 - Itihasas (Epics)
 	- Ramayana
 	- Mahabharata
