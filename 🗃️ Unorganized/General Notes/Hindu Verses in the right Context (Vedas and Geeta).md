@@ -2,12 +2,10 @@
 While there is stupidity in Hindu verses, it is not as much as what goes into Islam's Ahadeeth for example.
 
 I'll only consider the Vedas and Geeta in this section.
-
-# Okay-ish
-
+# Okay
 **Claim: "If she is not willing to give her body, he should buy her over; and if she is still unyielding, he should strike her with a stick or with the hand and proceed" - Brihadaranyaka Upanishad 6.4.7**
 
-**Truth:** This portion of the Upanishad is firstly a Smriti ritual, which is not of value considering the essence of Advaita Vedanta.
+**Truth:** This portion of the Upanishad is firstly a Smriti Ritual, which is not of value considering the essence of Advaita Vedanta. This is also described by Adi Shankara's commentary at the beginning of Brihadarnyaka Upanishad (didn't add here).
 
 > **Section 4.**
 > 
@@ -19,7 +17,7 @@ I'll only consider the Vedas and Geeta in this section.
 > 
 > A student of the Brihadaranyaka Upanishad will understand the duality and delusion of desire within material creation that these verses display. That is their very purpose. It follows therefore that the actual meaning within these verses is not the relevance of their inclusion here. Their relevance is to highlight by contrast the transcendent Realisation of Advaita.
 
-> [!abstract] Context
+> [!abstract] Verse Context
 > The Smriti is saying it should be the need for children that brings husband and wife together.  
 > The reality of Advaita transcends the purpose of this knowledge.
 > 
@@ -28,3 +26,4 @@ I'll only consider the Vedas and Geeta in this section.
 > The reality of Advaita-Vedanta, nonduality, transcends the purpose of this knowledge.
 > 
 > > 6.4.8   If she is willing, he should proceed, uttering the following Mantra: 'I transmit reputation into you,' and they both become reputed.
+
