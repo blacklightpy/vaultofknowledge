@@ -372,12 +372,12 @@
             }
           },
           {
-            "id": "c4eb211625ecf199",
+            "id": "9dca4b2825449879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -453,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
               }
             }
           },
@@ -549,17 +549,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c4eb211625ecf199",
+  "active": "9dca4b2825449879",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "_images/Water Splash Sample Image.jpg",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
     "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
@@ -577,7 +578,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Berg Connectors.md",
     "🗃️ Unorganized/General Notes/Assassin.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",

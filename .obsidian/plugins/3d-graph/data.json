@@ -1,14 +1,14 @@
 {
   "filters": {
-    "doShowOrphans": true
+    "doShowOrphans": false
   },
   "groups": {
     "groups": []
   },
   "display": {
     "nodeSize": 4,
-    "linkThickness": 5,
+    "linkThickness": 6,
     "particleSize": 6,
-    "particleCount": 4
+    "particleCount": 5
   }
 }
