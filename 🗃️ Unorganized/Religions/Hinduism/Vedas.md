@@ -4,8 +4,9 @@ The sections of the Vedas can be divided into two, or three broad divisions.
 1. Karma Khanda (Ritual Portion)
 	- Includes Samhithas and Brahmanas
 2. Jnana Khanda (Wisdom Portion)
-	- Includes Aranyakas and Upanishads
+	- Includes Aranyakas and [[Upanishads]]
 3. Upaasana Khanda (Worship Portion) [Optional]
+	- [[Upaasana]]
 
 People ended up not knowing what Samhithas meant after the Vedic period, considering them as sacred sounds.
 # Sections
@@ -14,6 +15,8 @@ People ended up not knowing what Samhithas meant after the Vedic period, conside
 ## Brahmanas
 
 ## Aranyakas
+
+### List
 - Rigveda
 	- Aitareya Aranyaka belongs to the Aitareya Shakha of Rigveda
 	- Kaushitaki Aranyaka belongs to the Kaushitaki and Shankhayana Shakhas of Rigveda

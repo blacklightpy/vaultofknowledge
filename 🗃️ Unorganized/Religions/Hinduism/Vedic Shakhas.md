@@ -3,7 +3,11 @@ A Vedic **Shakha** (Sanskrit śākhā, "branch" or "limb") is a Hindu theologica
 A related term, **Charana** ("conduct of life" or "behavior") is also used to refer to such a Vedic school: "although the words Charana and Shakha are sometimes used synonymously, yet Charana properly applies to the sect or collection of persons united in one school, and Shakha to the traditional text followed, as in the phrase **Shakham Adithe** ("he recites a particular version of the Veda").
 
 ==In short, **Shakha** is the branch and **Charana** is the way of the followers of that branch.==
-## Some more intro notes
+## Function of Shakhas
+The four Vedas were transmitted in various **Shakhas**. Each school likely represented an ancient community of a particular area, or kingdom. Each school followed its own canon. Multiple recensions (revisions) are known for each of the Vedas.
+
+There were Vedic schools that believed in **polytheism** in which numerous gods had different natural functions, **henotheistic** beliefs where only one god was worshipped but others were thought to exist, **monotheistic** beliefs in a single god, agnosticism, and **monistic** beliefs where "there is an absolute reality that goes beyond the gods and that includes or transcends everything that exists." Indra, Agni, and Yama were popular subjects of worship by polytheist organizations
+## Transmission of Shakhas
 The schools have different points of view, described as **Shakha Bedha** ("difference of (Vedic) school"). Each school would learn a specific Vedic **Samhita** (one of the "four Vedas" properly so-called), as well as its associated **Brahmana**, **Aranyakas**, **Shrauta Sutras**, **Griha Sutras** and **Upanishads**.
 
 In traditional Hindu society affiliation with a specific school is an important aspect of class identity. By the end of the Rig Vedic period the term **Brahmana (Brahmin)** had come to be applied to all members of the priestly class, but there were subdivisions within this order based both on **Varna** (class) and on the **Shakha** (branch) with which they were affiliated.
@@ -16,8 +20,8 @@ EDIT: Actually, a full list is available in [[Sutras]].
 Note that several of the Shakhas have gone missing over the years.
 ## Rig Veda
 
-### Saakala Shakha
-- **Samhita**: Saakala Samhitha
+### Shaakala Shakha
+- **Samhita**: Shaakala Samhitha
 - **Brahmana**: Aitreya Samhita
 - **Aranyaka**: Aitreya Aranyaka
 - **Upanishad**: Aitreya Upanishad

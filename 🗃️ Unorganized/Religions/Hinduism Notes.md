@@ -17,6 +17,7 @@ In Religion:
 		- Brahmanas (Universal / Spiritual Insights)
 		- Aranyakas (Works from the Forest / Sainthood)
 		- Upanishads (Close Sitting Knowledge / Basic Understanding)
+		- [[Upaasana]] (Worship) [Mostly embedded in the others]
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)
 	- Parishistas (Supplements)
 	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
