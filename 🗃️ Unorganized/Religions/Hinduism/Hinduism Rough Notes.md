@@ -89,11 +89,12 @@ So basically,
 
 - Hindu Shastras
 	- Srutis (Revealed)
-		- 4 Vedas
+		- Veda Pustakas
 			- Samhitas
 			- Brahmanas
 			- Aranyakas
 			- Upanishads
+		- Aagama Pustakas
 	- Smriti (Remembered)
 		- Ithihasas
 			- Mahabharata

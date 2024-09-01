@@ -18,6 +18,7 @@ In Religion:
 		- Aranyakas (Works from the Forest / Sainthood)
 		- Upanishads (Close Sitting Knowledge / Basic Understanding)
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)
+	- Parishistas (Supplements)
 	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
 - [[Sutras]]
 	- [[Dharma Sutras]]

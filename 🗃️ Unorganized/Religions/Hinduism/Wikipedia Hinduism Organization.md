@@ -1,8 +1,7 @@
 # ToC
 - Timeline of Books
-	- Samhitha
+	- Samhithas
 	- Upanishads
-	- Others
 - Aagamas
 	- Tantras (Shakta Aagamas)
 - Vedanta (Dvaita vs Advaita)
@@ -46,11 +45,11 @@ The early Upanishads were composed over 900-300 BCE.
 
 - Aagamas are traditions.
 	- They are voluminous and are divided into Shaiva, Shakta and Vaishnava.
-	- They are also called Tantras, but that's mostly Shakta Agamas.
+	- They are also called Tantras, but that's mostly Shakta Aagamas.
 	- The Aagama texts include:
 		- 28 Shaiva Aagamas
 		- 64 Shakta Aagamas (also called Tantras)
-		- 108 Vaishnava Aagamas (also called Pancharatra Samhitas)
+		- 108 Vaishnava Aagamas (also called Pancharaatra Samhitas)
 		- and numerous Upa Aagamas.
 # Dvaita Vedanta vs Advaita Vedanta
 - Dvaita Vedanta is dualistic
