@@ -370,9 +370,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4eb211625ecf199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -440,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md"
+                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
               }
             }
           },
@@ -536,8 +549,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7c6e2e91bf2d7968",
+  "active": "c4eb211625ecf199",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
     "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
@@ -548,7 +562,6 @@
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Readable Font Values.md",
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
