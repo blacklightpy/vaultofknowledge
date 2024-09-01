@@ -441,7 +441,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Some of the Indo-Europeans split into the Indo-Iranians or Aryans
 - Some of the Indo-Iranians migrated to Iran, and Zarathustra wrote Gathas which founded Zoroastrianism
 	- Zoroastrianism was the most common religion is the Achaemenid, Parthian and Sassanid Persian empires.
-- Some of the Indo-Iranians migrated to India, and wrote hymns and stuff (Vedic Era)
+- 1600 BC: Some of the Indo-Iranians migrated to India, and wrote hymns and stuff (Vedic Era - 1500 BC to 900 BC)
 	- Hinduism was a combination of the Aryan Vedas and the Dravidian Hinduism
 	- The Vedas included the yajnas, yaagams, etc.
 	- So Hinduism has a lot in common with Zoroastrianism.
@@ -467,6 +467,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Greeks also copy their ideas and make colonies
 - 800 BC: Phoenicians made the Carthage colony that made it's own colonies
 ### Asia
+- 900 BC: Vedas
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 ## Time Period 6 (700 BC - 300 BC)
 ### Mesopotamia, Asia
