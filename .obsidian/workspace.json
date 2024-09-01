@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -440,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md"
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md"
               }
             }
           },
@@ -536,8 +536,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "45fc3fbab0228ce4",
+  "active": "7c6e2e91bf2d7968",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
     "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
@@ -563,7 +564,6 @@
     "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
     "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
-    "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
