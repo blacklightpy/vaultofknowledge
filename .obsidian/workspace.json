@@ -331,9 +331,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9307afde089f58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hindu Verses in the right Context.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -401,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md",
+                "file": "🗃️ Unorganized/General Notes/Hindu Verses in the right Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -418,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md",
+                "file": "🗃️ Unorganized/General Notes/Hindu Verses in the right Context.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -430,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md"
+                "file": "🗃️ Unorganized/General Notes/Hindu Verses in the right Context.md"
               }
             }
           },
@@ -497,8 +510,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "76531e5faec6a192",
+  "active": "a9307afde089f58a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+    "🗃️ Unorganized/General Notes/Hindu Verses in the right Context.md",
+    "🗃️ Unorganized/General Notes/List of Upanishads.md",
     "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
@@ -516,15 +532,12 @@
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/Upanishads.md",
-    "🗃️ Unorganized/General Notes/List of Upanishads.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/General Notes/Upaasana.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Tantras.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
