@@ -121,7 +121,8 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 
 **Other women are like the devil (sexually attractive), so when you see a woman, he should go to his wive and have sex**
 
-> [Sahih Muslim 1403 a](https://sunnah.com/muslim/16/10 "sunnah.com")Jabir reported that Allah's Messenger saw a woman, and so he came to his wife, Zainab, as she was tanning a leather and had sexual intercourse with her. He then went to his Companions and told them:  
+> [Sahih Muslim 1403 a](https://sunnah.com/muslim/16/10 "sunnah.com"):
+> Jabir reported that Allah's Messenger saw a woman, and so he came to his wife, Zainab, as she was tanning a leather and had sexual intercourse with her. He then went to his Companions and told them:  
 > The woman advances and retires in the shape of a devil, so when one of you sees a woman, he should come to his wife, for that will repel what he feels in his heart.
 ## Other Sahih
 **Permission to Umar to beat his wife. He rebuked the women who complained**
@@ -152,7 +153,10 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 **If a woman leads people, they will not prosper.**
 
 > [Sunan an-Nasa'i 5388](https://sunnah.com/nasai:5388):
+> It was narrated that Abu Bakrah said:
 > 
+> "Allah protected me with something that I heard from the Messenger of Allah [SAW]. When Chosroes died, he said: 'Whom have they appointed as his successor?' They said: 'His daughter.' He said: 'No people will ever prosper who entrust their leadership to a woman.'"
+
 ## Quran Tafsirs
 
 **Women are like animals**
@@ -229,6 +233,13 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 ## Bukhari/Muslim
 
 ## Other Sahih/Hasan
+
+**Manumitting women will spare you less punishment compared to manumitting a man.**
+
+> [Jami at-Tirmidhi](https://sunnah.com/tirmidhi:1547):
+> Abu Umamah, and other than him from the Companions of the Prophet (ﷺ), narrated that the Prophet (ﷺ) said:
+> 
+> "Any Muslim man who frees a Muslim man, then it is his salvation from the Fire - each of his limbs suffices for a limb of himself. And any Muslim man that frees two Muslim women, then are his salvation from the Fire - each of their limbs suffices for a limb of himself. And any Muslim woman that frees a Muslim woman, then she is her salvation from the Fire - each of her limb suffices for a limb of herself."
 
 ## Quran Tafsirs
 
@@ -319,7 +330,7 @@ Revelation of 4:24:
 - Allah has made hell for them (17:18)
 - No one can honour whom Allah disgraces (22:18)
 
-| Verse | Claim                                        | Context             |
+| Verse | Claim (yes, proper in context)               | Context             |
 | ----- | -------------------------------------------- | ------------------- |
 |       | Enjoy life like cattle eat grass             |                     |
 |       | Are apes                                     | Disbelievers        |
