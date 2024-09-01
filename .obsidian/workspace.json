@@ -410,8 +410,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -523,7 +522,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a74ae003f9dfbbd4",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
