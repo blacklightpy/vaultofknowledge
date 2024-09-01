@@ -11,6 +11,7 @@ It should be okay, since a defining trait is that they indeed have to follow Moh
 # Keywords
 - Iftar
 - Ramzan
+- Qurbana - Ritual Sacrifice
 - ibn - Son of
 - Hijra: The move from Mecca to Medina
 - Hijri Year: It is the calendar era used in the Islamic calendar (from 622 CE), which is based on lunar years (354-355 days a year)
@@ -23,18 +24,18 @@ It should be okay, since a defining trait is that they indeed have to follow Moh
 - Sunni
 - Shi'a
 - Ibadi (popular in Oman)
-# The Quran
+# The Qur'an
 - Al Qur'an, translates to the "word of god".
 - Allah is the god of the world
 - A Muslim is one who follows the words of Allah
 - Iblis is the name of Al-Shaytan, the devil
-## Sections of Quran
-The Quran is divided in various ways.
+## Sections of Qur'an
+The Qur'an is divided in various ways.
 
-- Surahs - A Surah is a chapter in the Quran, as divided by Allah. There are 114 Surahs.
-- Ayat - The verses in Quran.
-- Manzil - It is a division based on finishing the Quran in 7 days.
-- Juz - It's a division made to make it easier to read the Quran in one month, or in 30 weeks. There are 30 Juzs.
+- Surahs - A Surah is a chapter in the Qur'an, as divided by Allah. There are 114 Surahs.
+- Ayat - The verses in Qur'an.
+- Manzil - It is a division based on finishing the Qur'an in 7 days.
+- Juz - It's a division made to make it easier to read the Qur'an in one month, or in 30 weeks. There are 30 Juzs.
 - Hizb - Each Juz can be divided into two Hizbs. There are 60 Hizbs.
 - Rubu - Each Hizb is made up of four quarters, each known as a Rubu.
 # Other aspects
