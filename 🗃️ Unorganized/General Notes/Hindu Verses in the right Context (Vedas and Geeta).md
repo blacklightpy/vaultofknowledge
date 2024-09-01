@@ -5,9 +5,9 @@ I'll only consider the Vedas and Geeta in this section.
 
 # Okay-ish
 
-**Claim: If she is not willing to give her body, he should buy her over; and if she is still unyielding, he should strike her with a stick or with the hand and proceed**
+**Claim: "If she is not willing to give her body, he should buy her over; and if she is still unyielding, he should strike her with a stick or with the hand and proceed" - Brihadaranyaka Upanishad 6.4.7**
 
-**Truth:** This portion of the Upanishad is firstly a Smriti ritual, which is not of 
+**Truth:** This portion of the Upanishad is firstly a Smriti ritual, which is not of value considering the essence of Advaita Vedanta.
 
 > **Section 4.**
 > 
