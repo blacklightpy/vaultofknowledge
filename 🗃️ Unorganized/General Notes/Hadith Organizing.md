@@ -300,11 +300,11 @@ Revelation of 4:24:
 
 Mohammed was just crazy:
 
-> كان رسول الله صلى الله عليه وسلم يصوم يوم السبت ويوم الأحد أكثر ما يصوم من الأيام ويقول: إنهما يوما عيد للمشركين فأنا أحب أن أخالفهم
-> 
-> The Messenger of Allah used to fast on Saturdays and Sundays more than on other days, and he used to say, "They are days of festival for the polytheists, and I like to act contrary to them."
-> 
-> — [Mishkat al-Masabih](https://sunnah.com/mishkat:2068)
+كان رسول الله صلى الله عليه وسلم يصوم يوم السبت ويوم الأحد أكثر ما يصوم من الأيام ويقول: إنهما يوما عيد للمشركين فأنا أحب أن أخالفهم
+
+The Messenger of Allah used to fast on Saturdays and Sundays more than on other days, and he used to say, "They are days of festival for the polytheists, and I like to act contrary to them."
+
+— [Mishkat al-Masabih](https://sunnah.com/mishkat:2068)
 
 ## Quran Tafsirs
 

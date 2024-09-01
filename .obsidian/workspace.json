@@ -351,7 +351,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -388,7 +388,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pubesce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -455,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -522,10 +522,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "a74ae003f9dfbbd4",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Indian Classical Music.md",
     "🗃️ Unorganized/General Notes/List of Upanishads.md",
