@@ -124,6 +124,12 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 > [Sahih Muslim 1403 a](https://sunnah.com/muslim/16/10 "sunnah.com"):
 > Jabir reported that Allah's Messenger saw a woman, and so he came to his wife, Zainab, as she was tanning a leather and had sexual intercourse with her. He then went to his Companions and told them:  
 > The woman advances and retires in the shape of a devil, so when one of you sees a woman, he should come to his wife, for that will repel what he feels in his heart.
+
+**Believing women are to be beat until their skin colour changes.**
+> [Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825):
+> Narrated 'Ikrima:
+> 
+> Rifa'a divorced his wife whereupon 'AbdurRahman bin Az-Zubair Al-Qurazi married her. 'Aisha said that the lady (came), wearing a green veil (and complained to her (Aisha) of her husband and showed her a green spot on her skin caused by beating). It was the habit of ladies to support each other, so when Allah's Messenger (ﷺ) came, 'Aisha said, "I have not seen any woman suffering as much as the believing women. Look! Her skin is greener than her clothes!" When 'AbdurRahman heard that his wife had gone to the Prophet, he came with his two sons from another wife. She said, "By Allah! I have done no wrong to him but he is impotent and is as useless to me as this," holding and showing the fringe of her garment, 'Abdur-Rahman said, "By Allah, O Allah's Messenger (ﷺ)! She has told a lie! I am very strong and can satisfy her but she is disobedient and wants to go back to Rifa'a." Allah's Messenger (ﷺ) said, to her, "If that is your intention, then know that it is unlawful for you to remarry Rifa'a unless 'Abdur-Rahman has had sexual intercourse with you." Then the Prophet (ﷺ) saw two boys with 'Abdur- Rahman and asked (him), "Are these your sons?" On that 'AbdurRahman said, "Yes." The Prophet (ﷺ) said, "You claim what you claim (i.e.. that he is impotent)? But by Allah, these boys resemble him as a crow resembles a crow,"
 ## Other Sahih
 **Permission to Umar to beat his wife. He rebuked the women who complained**
 
@@ -161,7 +167,7 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 
 **Women are like animals**
 
-> Tafsir al-Qurtabi, Vol. 15, page 172:  
+> Tafseer al-Qurtubi, Vol. 15, page 172:  
 > A woman may be likened to a sheep-even a cow or a camel-for all are ridden.
 
 ## Scholarly Works
@@ -174,6 +180,7 @@ Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-isl
 
 - Wives are to obey their husbands
 - Their husbands can hit them
+- They can hit them until their skin is green in colour
 - Wives cannot divorce husbands without "reason"
 - Wives cannot leave the house without the husband's permission
 - Total marital imprisonment

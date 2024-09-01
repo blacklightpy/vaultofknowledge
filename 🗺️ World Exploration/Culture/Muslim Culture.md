@@ -67,7 +67,7 @@ The Qur'an is divided in various ways.
 - Aqidah (School of Theology)
 	- Ash'ari, By Sheik / Imam *Abu al-Hasan **al-Ash'ari***
 	- Maturdi, By Sheik / Imam *Abu Mansur **al-Maturidi***
-	- Athari ()
+	- Athari (Literalism)
 
 - Pillars of Religion (Arkaan ad-Deen)
 	- Shahaadah (Profession of Faith)
