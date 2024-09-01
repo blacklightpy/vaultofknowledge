@@ -427,7 +427,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "athari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -449,8 +449,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -562,8 +561,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "41581e41c562e94b",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗺️ World Exploration/Culture/Muslim Culture.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
@@ -576,7 +577,6 @@
     "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Readable Font Values.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/Why Islam will fail.md",
@@ -589,7 +589,6 @@
     "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
     "🗃️ Unorganized/General Notes/How to make simple radios.md",
-    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
