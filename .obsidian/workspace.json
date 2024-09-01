@@ -300,7 +300,7 @@
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/General Notes/Memes of Religions.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "digital",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -392,7 +392,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -508,11 +509,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ac12176e01239a61",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+    "🗃️ Unorganized/General Notes/Numbers.md",
+    "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Readable Font Values.md",
-    "🗃️ Unorganized/General Notes/Numbers.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
@@ -520,8 +525,6 @@
     "🗃️ Unorganized/General Notes/Why Islam will fail.md",
     "🗃️ Unorganized/General Notes/Cold Welding.md",
     "🗃️ Unorganized/General Notes/Welding.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Berg Connectors.md",
     "🗃️ Unorganized/General Notes/Assassin.md",
@@ -529,13 +532,11 @@
     "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
     "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
-    "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗃️ Unorganized/General Notes/How to make simple radios.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
     "🗃️ Unorganized/General Notes/Criticism of Theologers - 1.md",
     "🗃️ Unorganized/General Notes/Important Debate Knowledge.md",
     "🗃️ Unorganized/General Notes/Muslim Mentality.md",
-    "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
