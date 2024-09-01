@@ -1,17 +1,17 @@
 Hindus subscribe to a diversity of ideas on spirituality and traditions, but have no ecclesiastical order, no unquestionable religious authorities, no governing body, no prophet(s) nor any binding holy book; Hindus can choose to be polytheistic, pantheistic, monotheistic, monistic, agnostic, atheistic or humanist.
 ## Types of Hinduism
 - Folk Hinduism, based on local traditions and cults of local deities prior to the Vedic Age
-- Shrauta or "Vedic" Hinduism as practised by traditionalist brahmins
+- Shrauta or Vedic ritual-oriented Hinduism as practised by traditionalist brahmins
 - Vedantic Hinduism, including Advaita Vedanta (Smartism), based on the philosophical approach of the Upanishads
 - Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali
 - "Dharmic" Hinduism or "daily morality", based on Karma and upon societal norms such as Vivāha (Hindu marriage customs)
-- Bhakti or devotionalist practices
+- Bhakti or Devotionalist practices
 
 ---
-# ToC
+# Table of Contents
 - Types
 - Ideas
-	- Sampradayas
+	- Sampradaayas
 	- Scriptures
 	- Books
 	- Caste Divisions
@@ -26,10 +26,10 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 	- Vedanga
 	- Other Books
 	- Sangam Literature
-	- Deities (Gods, Godesses)
+	- Deities (Gods, Goddesses)
 	- Practices
-	- Varnashramas
-	- Sanskaras
+	- Varnaashramaas
+	- Samskaaras
 	- Festivals
 	- Other Concepts (idk what)
 	- Related
@@ -40,7 +40,6 @@ Para Brahman is beyond all descriptions and conceptualizations. It is formless (
 
 Nirguna - No attributes
 Saguna - All good attributes
-
 
 - In Advaita Vedanta
 	- Para Brahman = Nirguna Brahman (no attributes)
@@ -125,38 +124,38 @@ These are in the order of superiority.
 ---
 # Wikipedia Table
 
-Concepts
-Purusarthas
-Niti
-Schools (Astika/Nastika)
-Vedas / Divisions
-Upavedas
-Vedanga
-Other Books
-Sangam Literature
-Deities (Gods, Godesses)
-Practices
-Varnashramas
-Sanskaras
-Festivals
-Other Concepts (idk what)
-Related
+- Concepts
+- Purusarthas
+- Niti
+- Schools (Astika/Nastika)
+- Vedas / Divisions
+- Upavedas
+- Vedanga
+- Other Books
+- Sangam Literature
+- Deities (Gods, Godesses)
+- Practices
+- Varnashramas
+- Sanskaras
+- Festivals
+- Other Concepts (idk what)
+- Related
 
 Gunas (Attributes)
-Dharmas ()
+Dharmas (Morals)
 Sanskaras (Cultural Traditions)
 Poojas (Worship Rituals)
 Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 
 - Concepts
 	- Brahman (The Universe)
-	- Om (The initial sound)
+	- Om (The Initial Sound)
 	- Ishvara (God)
 	- Atman (The Soul)
 	- Maya (The World)
 	- Karma (Actions)
 	- Samsaara (Cyclic Existence)
-	- Kaala Chakra (The Cycle o)
+	- Kaala Chakra (The Cycle of Samsaara)
 
 - Puruṣārthas
 	- Dharma (Morality)
