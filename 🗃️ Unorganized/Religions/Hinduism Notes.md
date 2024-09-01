@@ -13,8 +13,8 @@ In Religion:
 ## Component Notes
 - [[Vedas]] (Sanskrit Books of Knowledge)
 	- Sections
-		- Samhithas (Put Together / Definitions)
-		- Brahmanas ()
+		- Samhithas (Put Together / Descriptions)
+		- Brahmanas (Universal / Spiritual Insights)
 		- Aranyakas (Works from the Forest / Sainthood)
 		- Upanishads (Close Sitting Knowledge / Basic Understanding)
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)

@@ -63,14 +63,14 @@ Saguna - All good attributes
 ## Scriptures
 - Srutis (eternal words)
 	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda) / Agama
-    - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
+	    - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
     - Vedangas / Supplimentaries: (Shiksha, Chandas, Vyakarana, Nirukta, Kalpa, Jyotisha)
 - Smritis (human works)
 	- Ithihasas (Mahabharatam, Ramayanam)
 		- Bhagavad Gita is a part of Mahabharatam
 	- Puranas
-		- Puranas / Maha Puranas (18 in number)
-		- Upa Puranas (18 in Number)
+		- Puranas / Maha Puranas (Great Legends) (18 in number)
+		- Upa Puranas (Minor Legends) (18 in Number)
 		- Bhagavata Purana / Sreemad Bhagavatam was the last Purana written by Ved Vyas
 			- It begins where Bhagavad Gita ends, and most important Purana
 	- Tantras / Agamas

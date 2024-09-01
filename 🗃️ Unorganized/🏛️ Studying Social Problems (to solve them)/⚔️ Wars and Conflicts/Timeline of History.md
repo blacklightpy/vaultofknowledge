@@ -467,7 +467,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Greeks also copy their ideas and make colonies
 - 800 BC: Phoenicians made the Carthage colony that made it's own colonies
 ### Asia
-- 900 BC: Vedas
+- 800 BC: The first three portions of the Vedas were created
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 ## Time Period 6 (700 BC - 300 BC)
 ### Mesopotamia, Asia
@@ -496,6 +496,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
 - They traded spices with the Arabians via the seas
+- ~200 AD: The last Upanishads were completed during this period
 ### China
 - 221 BC: China put itself back together with the Qin Dynasty which followed Legalism
 - They now had three philosophies: Confucianism (morals), Taoism (Dao) and Legalism (Obey the Law)

@@ -364,7 +364,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/General Notes/Tantras.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -385,7 +385,7 @@
             }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "upanishad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -436,8 +436,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -453,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Tantras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md",
+                "file": "🗃️ Unorganized/General Notes/Tantras.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism Notes.md"
+                "file": "🗃️ Unorganized/General Notes/Tantras.md"
               }
             }
           },
@@ -549,19 +548,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9dca4b2825449879",
+  "active": "45fc3fbab0228ce4",
   "lastOpenFiles": [
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/General Notes/Tantras.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "_images/Water Splash Sample Image.jpg",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗺️ World Exploration/Culture/Muslim Culture.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
     "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
@@ -574,10 +577,6 @@
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/Why Islam will fail.md",
     "🗃️ Unorganized/General Notes/Cold Welding.md",
-    "🗃️ Unorganized/General Notes/Welding.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
-    "🗃️ Unorganized/General Notes/Berg Connectors.md",
-    "🗃️ Unorganized/General Notes/Assassin.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
