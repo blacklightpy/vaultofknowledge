@@ -142,10 +142,10 @@ Festivals
 Other Concepts (idk what)
 Related
 
-Qualities: Gunas
-Dharmas
-Sanskaras
-Poojas?
+Gunas (Attributes)
+Dharmas ()
+Sanskaras (Cultural Traditions)
+Poojas (Worship Rituals)
 Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 
 - Concepts
@@ -155,7 +155,8 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 	- Atman (The Soul)
 	- Maya (The World)
 	- Karma (Actions)
-	- Saṃsāra (The cycle of life)
+	- Samsaara (Cyclic Existence)
+	- Kaala Chakra (The Cycle o)
 
 - Puruṣārthas
 	- Dharma (Morality)
@@ -260,7 +261,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 ### Worship
 **Places**: Temple
 **Tools**: Murti (Idol / Vessel)
-**Rituals**: Puja (Rituals), Japa (Recitation), Bhajan (), Naivedhya (Offerings), Homa (Fire Rituals), Tapas (Intense Meditation), Dhyana (Meditation), Tirthatana (Pilgrimage)
+**Rituals**: Puja (Devotional Ritual), Japa (Recitation), Bhajan (Devotional Songs), Keertana (Descriptions), Naivedhya (Food Offerings), Prasaada (Returned Offering), Homa (Fire Rituals with Votary (Thrown) Offerings), Yajna (Large Fire Rituals), Tapas (Intense Meditation), Dhyana (Meditation), Tirthatana (Pilgrimage)
 **Devotion:** Bhakti
 ### Sanskaras (Culture / Rituals)
 - Garbhadhana
