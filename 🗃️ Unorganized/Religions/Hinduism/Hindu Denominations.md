@@ -286,7 +286,7 @@ Hinduism is subdivided into a number of major Sampradayas. Of the historical div
 
 Classified by primary deity or deities, four major types of Hinduism include **Vishnu Worshippers**, **Shiva Worshippers**, **Adiparashakti Worshippers** and **Smartas** (five deities treated as same).
 
-These deity-centered denominations feature a synthesis of various philosophies such as Sankhya, Yoga and Vedanta, as well as shared spiritual concepts such as **Moksha**, **Dharma**, **Karma**, **Samsara**, ethical precepts such as **Ahimsa**, common texts (**Upanishads**, **Puranas**, **Mahabharata**, **Agamas**), ritual grammar and rites of passage (**Vyakarana** and **Kalpa** Vedangas).
+These deity-centered denominations feature a synthesis of various philosophies such as Sankhya, Yoga and Vedanta, as well as shared spiritual concepts such as **Moksha**, **Dharma**, **Karma**, **Samsara**, ethical precepts such as **Ahimsa**, common texts (**Upanishads**, **Puranas**, **Mahabharata**, **Aagamas**), ritual grammar and rites of passage (**Vyakarana** and **Kalpa** Vedangas).
 
 ## General Overview
 - Bhakti Traditions

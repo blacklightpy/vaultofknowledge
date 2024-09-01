@@ -175,7 +175,7 @@
 		- Hindu
 			- Primary Works
 				- Veda Pustakas (Nigama)
-				- Agama Tantras
+				- Tantra Pustakas (Aagama)
 				- Ithihaasa
 					- Bhagawad Geeta
 				- Puraana

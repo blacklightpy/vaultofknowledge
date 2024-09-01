@@ -11,7 +11,7 @@
 	- Vaama aagamas
 	- Dakshinaagamas
 
-- Shivashakti traditions – Yaamala (also part of Bhairava tradition)
+- Shivashakti Traditions – Yaamala (also part of Bhairava Tradition)
 	- Brahma Yaamala
 	- Rudra Yaamala
 	- Skanda Yaamala
@@ -21,12 +21,12 @@
 	- Kubera Yaamala
 	- Indra Yaamala
 
-- Shakta–Kaali traditions (Kaali, Kaali Vishnu, Kaamaakhyaa/Kubjika, Taaraa and Others), shreekula tradition
+- Shakta–Kaali Traditions (Kaali, Kaali Vishnu, Kaamaakhyaa/Kubjika, Thaara and others), Shreekula Tradition
 	- Varahi Tantra
 	- Shakta Agamas
-	- Munḍamaalaa Tantra
-	- Toḍala Tantra
-	- Chaamunḍa Tantra
+	- Mundamaalaa Tantra
+	- Todala Tantra
+	- Chaamunda Tantra
 	- Devi Yaamala
 	- Maadhavakula
 	- Yonigahavara
@@ -34,7 +34,7 @@
 	- Kankaalamaalinee Tantra
 	- Jhamkaarakaraveera,
 	- Mahaakaala Samhitha
-	- Kaalee Tantra
+	- Kaali Tantra
 	- Kaalajnaana Tantra
 	- Kumaaree Tantra
 	- Siddhalaharee Tantra
@@ -44,7 +44,7 @@
 	- Kaamadhenu Tantra
 	- Nirvaana Tantra
 	- Kaamaakhyaa Tantra
-	- Taaraa Tantra
+	- Thaara Tantra
 	- Kaula Tantra
 	- Matsya Sookta / Taaraa Kalpa
 	- Samayaa Tantra
@@ -54,24 +54,24 @@
 
 - Kula–Kulamaarga and Other Tantras
 	- Kulaarnava Tantra
-	- Mahaanirvaana Tantra
-	- Kulacooḍaamani Tantra
+	- Maha Nirvana Tantra
+	- Kulachoodaamani Tantra
 	- Kulaarnava Tantra
 	- Gupta Saadhana Tantra
 	- Maatrikaabheda Tantra
 
-- Vaishnava–Vaikhanasas, Pancharatra, bhakti-oriented Tantras of Krishna and Raama
+- Vaishnava–Vaikhanasas, Pancharatra, Bhakti-oriented Tantras of Krishna and Raama
 	- Paancharaatra Samhitha
 	- Ahirbudhnya Samhitha
 	- Jayaakhya Samhitha
-	- Paarameshvara Samhitha
+	- Parameshvara Samhitha
 	- Paushkara Samhitha
 	- Paadma Samhitha
 	- Naaradeeya Samhitha
 	- Hamsaparameshvara Samhitha
-	- Lakshmee Tantra
+	- Lakshmi Tantra
 	- Vaihaayasa Samhitha
-	- Shreekaalapraaa Samhitha
+	- Shreekaalapraa Samhitha
 	- Vaikhaanasa aagamas
 	- Gautameeya Tantra
 	- Brihadbrahma Samhitha
@@ -81,7 +81,7 @@
 	- Agastya Samhitha and Daasharatheeya Tantra
 	- Eeshaana Samhitha and Oordhvaamnaaya Samhitha
 
-- Mantra-Shaastra - Textbooks on Mantras, Metaphysics of Mantric sound, related practices and rituals
+- Mantra-Shaastra - Textbooks on Mantras, Metaphysics of Mantric Sound, Related Practices and Rituals
 	- Prapanchasaara Tantra and its commentaries and Teekaas
 	- Shaarada Tilaka Tantra by Lakshmana Deshikendra
 	- Mantra Muktaavali of Paramahamsa Poornaprakaasha
@@ -92,19 +92,19 @@
 	- Mantra Mahaarnava of Maadhava Raaya Vaidya
 	- Tantrasaara of Krishnaananda aagamvaagisha
 
-- Nibandha - Handbooks on ritual worship, Saadhana and Pooja
+- Nibandha - Handbooks on Ritual Worship, Saadhana and Pooja
 	- Kriyaakalpataru of Shaktinaatha Kalyaanakara
 	- Kaulaavaleenirnaya of Jnaanaanandagiri Paramahamsa
 	- Shaaktanandataramginee of Brahmaananda Giri
 	- Shaaktakrama of Poornaananda
-	- Shree Tattvachintaamani of Poornaananda
-	- Aagamakalpadruma of Govinda
-	- Aagamakalpalatikaa of Yadunaatha
-	- Aagamatattvavilaasa of Raghunaatha Tarkavaageesha, and Aagamachandrikaa of Raamakrishna
-	- Tantrachintaamani of Navameesimha
+	- Shree Tattva Chintaamani of Poornaananda
+	- Aagama Kalpadruma of Govinda
+	- Aagama Kalpalatikaa of Yadunaatha
+	- Aagama Tattva Vilaasa of Raghunaatha Tarkavaageesha, and Aagamachandrikaa of Raamakrishna
+	- Tantra Chintaamani of Navameesimha
 	- Praanatoshinee of Raamatoshana Vidyaalamkaara
 	- Shhivarahasya
-	- Shaivakalpadruma
+	- Shaiva Kalpadruma
 
 - Saura Tantras
 - Ganapatya Tantras
