@@ -15,6 +15,7 @@ Origin of Hadith Isnads: https://sunnahonline.com/library/fiqh-and-sunnah/277-in
 Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-islam/ (Says it was against Byzantines only)
 
 +Muwatta Malik Book 38, Hadeeth 12 (only feed Muslims)
+- Dajjal: https://sunnah.com/ibnmajah:4077
 # Rough
 ## My claims
 - Mohammed wanted to rule

@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -414,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
+                "file": "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -443,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md"
+                "file": "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md"
               }
             }
           },
@@ -510,10 +510,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "45fc3fbab0228ce4",
+  "active": "a9307afde089f58a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Indian Classical Music.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/General Notes/Indian Classical Music.md",
     "🗃️ Unorganized/General Notes/List of Upanishads.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
@@ -537,7 +538,6 @@
     "🗃️ Unorganized/General Notes/Upanishads.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/General Notes/Upaasana.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
