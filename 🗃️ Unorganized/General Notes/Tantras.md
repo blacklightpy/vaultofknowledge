@@ -1,104 +1,111 @@
-- Shaiva – Sadashiva (shivagama), Vāma or Tumburu, Dakṣiṇa or Bhairava
+- Shaiva–Sadashiva (Shivagama), Vaama or Tumburu, Dakshina or Bhairava
 	- Kularnava Tantra
-	- Amṛteṣaṭantra or Netratantra
-	- Netragyanarṇava tantra
-	- Niḥshvāsatattvasaṃhitā
-	- Kālottārā tantra
-	- Sarvajñānottārā
-	- Ṣaivāgamas
-	- Raudrāgamas
-	- Bhairavāgamas
-	- Vāma Āgamas
-	- Dakṣiṇāgamas
-- shivashakti traditions – Yāmala (also part of Bhairava tradition)
-	- Brahma yāmala
-	- Rudra yāmala
-	- Skanda yāmala
-	- Viṣṇu yāmala
-	- Yama yāmala
-	- Yāyu yāmala
-	- Kubera yāmala
-	- Indra yāmala
-- shākta – Kālī traditions (Kālī, Kālī Viṣṇu, Kāmākhyā/Kubjika, Tārā and Others), shrīkula tradition
+	- Amritesha Tantra or Netra Tantra
+	- Netragyanarnava Tantra
+	- Nihshvaasa Tattva Samhitha
+	- Kaalottaaraa Tantra
+	- Sarvajnaanottaaraa
+	- Shaivaagamas
+	- Raudraagamas
+	- Bhairavaagamas
+	- Vaama aagamas
+	- Dakshinaagamas
+
+- Shivashakti traditions – Yaamala (also part of Bhairava tradition)
+	- Brahma Yaamala
+	- Rudra Yaamala
+	- Skanda Yaamala
+	- Vishnu Yaamala
+	- Yama Yaamala
+	- Yaayu Yaamala
+	- Kubera Yaamala
+	- Indra Yaamala
+
+- Shakta–Kaali traditions (Kaali, Kaali Vishnu, Kaamaakhyaa/Kubjika, Taaraa and Others), shreekula tradition
 	- Varahi Tantra
 	- Shakta Agamas
-	- Muṇḍamālā tantra
-	- Toḍala tantra
-	- Cāmuṇḍa tantra
-	- Devīyāmala
-	- Mādhavakula
-	- Yonigahavara,
-	- Kālīkulārṇava tantra
-	- Kaṇkālamālinī tantra
-	- Jhaṃkārakaravīra,
-	- Mahākāla saṃhitā
-	- Kālī tantra
-	- Kālajñāna tantra
-	- Kumārī tantra
-	- Siddhalaharī tantra
-	- Niruttārā tantra
-	- Kālīvilāsa tantra
-	- Utpatti tantra
-	- Kāmadhenu tantra
-	- Nirvāṇa tantra
-	- Kāmākhyā tantra
-	- Tārā tantra
-	- Kaula tantra
-	- Matsya Sūkta / Tārā Kalpa
-	- Samayā tantra
-	- Vāmakeshvara tantra
-	- Tantrajā tantra
-	- Yoginī tantra
-- Kula - Kulamārga and Other tantras
-	- Kulārṇava tantra
-	- Mahānirvāṇa tantra
-	- Kulacūḍāmaṇi tantra
-	- Kulārṇava tantra
-	- Guptasādhana tantra
-	- Mātṛkābheda tantra
-- Vaiṣṇava – Vaikhanasas, Pancharatra, bhakti-oriented tantras of Kṛṣṇa and Rāma
-	- Pāñcarātra saṃhitā texts
-	- Ahirbudhnya Saṃhitā
-	- Jayākhya saṃhitā
-	- Pārameshvara saṃhitā
-	- Paushkara saṃhitā
-	- Pādma saṃhitā
-	- Nāradīya saṃhitā
-	- Haṃsaparameshvara saṃhitā
-	- Lakṣmī tantra
-	- Vaihāyasa saṃhitā
-	- shrīkālapraā saṃhitā
-	- Vaikhānasa Āgamas
-	- Gautamīya tantra
-	- Bṛhadbrahma saṃhitā
-	- Māheshvara tantra
-	- Sātvata tantra
-	- Rādhā tantra
-	- Agastya saṃhitā and Dāsharathīya tantra
-	- Īshāna saṃhitā and Ūrdhvāṃnāya saṃhitā
-- Mantra-shāstra - textbooks on Mantras, metaphysics of mantric sound, related practices and rituals
-	- Prapañcasāra tantra and its commentaries and Ṭīkās
-	- shāradatilaka tantra by Lakṣmaṇa Deshikendra
-	- Mantramuktāvali of Paramahaṃsa Pūrṇaprakāsha
-	- Mantramahodadhi of Mahīdhara
-	- Mantradevaprakāshikā of Viṣṇudeva
-	- Mantrakamalākara of Kamalākara Bhaṭṭa
-	- Mantraratnākara of Yadunātha Cakravartin
-	- Mantramahārṇava of Mādhava Rāya Vaidya
-	- Tantrasāra of Kṛṣṇānanda āgamvāgisha
-- Nibandha - handbooks on ritual worship, sadhana and puja
-	- Kriyākalpataru of shaktinātha Kalyānakara
-	- Kaulāvalīnirṇaya of Jñānānandagiri Paramahaṃsa
-	- shāktanandataraṃgiṇī of Brahmānanda Giri
-	- shāktakrama of Pūrṇānanda
-	- shrītattvacintāmaṇi of Pūrṇānanda
-	- āgamakalpadruma of Govinda
-	- āgamakalpalatikā of Yadunātha
-	- āgamatattvavilāsa of Raghunātha Tarkavāgīsha, and āgamachandrikā of Rāmakṛṣṇa
-	- Tantrachintāmaṇi of Navamīsiṃha
-	- Prāṇatoṣiṇī of Rāmatoṣaṇa Vidyālaṃkāra
-	- shhivarahasya
-	- shaivakalpadruma
-- Saura tantras
-- Ganapatya tantras
-- Others – supernatural, chemistry, astrology, alchemy, etc.,
+	- Munḍamaalaa Tantra
+	- Toḍala Tantra
+	- Chaamunḍa Tantra
+	- Devi Yaamala
+	- Maadhavakula
+	- Yonigahavara
+	- Kaaleekulaarnava Tantra
+	- Kankaalamaalinee Tantra
+	- Jhamkaarakaraveera,
+	- Mahaakaala Samhitha
+	- Kaalee Tantra
+	- Kaalajnaana Tantra
+	- Kumaaree Tantra
+	- Siddhalaharee Tantra
+	- Niruttaaraa Tantra
+	- Kaaleevilaasa Tantra
+	- Utpatti Tantra
+	- Kaamadhenu Tantra
+	- Nirvaana Tantra
+	- Kaamaakhyaa Tantra
+	- Taaraa Tantra
+	- Kaula Tantra
+	- Matsya Sookta / Taaraa Kalpa
+	- Samayaa Tantra
+	- Vaamakeshvara Tantra
+	- Tantrajaa Tantra
+	- Yoginee Tantra
+
+- Kula–Kulamaarga and Other Tantras
+	- Kulaarnava Tantra
+	- Mahaanirvaana Tantra
+	- Kulacooḍaamani Tantra
+	- Kulaarnava Tantra
+	- Guptasaadhana Tantra
+	- Maatrikaabheda Tantra
+
+- Vaishnava–Vaikhanasas, Pancharatra, bhakti-oriented Tantras of Krishna and Raama
+	- PaanCharaatra Samhitha texts
+	- Ahirbudhnya Samhitha
+	- Jayaakhya Samhitha
+	- Paarameshvara Samhitha
+	- Paushkara Samhitha
+	- Paadma Samhitha
+	- Naaradeeya Samhitha
+	- Hamsaparameshvara Samhitha
+	- Lakshmee Tantra
+	- Vaihaayasa Samhitha
+	- Shreekaalapraaa Samhitha
+	- Vaikhaanasa aagamas
+	- Gautameeya Tantra
+	- Brihadbrahma Samhitha
+	- Maaheshvara Tantra
+	- Saatvata Tantra
+	- Raadhaa Tantra
+	- Agastya Samhitha and Daasharatheeya Tantra
+	- Eeshaana Samhitha and Oordhvaamnaaya Samhitha
+
+- Mantra-Shaastra - Textbooks on Mantras, Metaphysics of Mantric sound, related practices and rituals
+	- PrapanChasaara Tantra and its commentaries and teekaas
+	- Shaaradatilaka Tantra by Lakshmana Deshikendra
+	- Mantramuktaavali of Paramahamsa Poornaprakaasha
+	- Mantramahodadhi of Maheedhara
+	- Mantradevaprakaashikaa of Vishnudeva
+	- Mantrakamalaakara of Kamalaakara Bhatta
+	- Mantraratnaakara of Yadunaatha Chakravartin
+	- Mantramahaarnava of Maadhava Raaya Vaidya
+	- Tantrasaara of Krishnaananda aagamvaagisha
+
+- Nibandha - handbooks on ritual worship, Saadhana and Pooja
+	- Kriyaakalpataru of Shaktinaatha Kalyaanakara
+	- Kaulaavaleenirnaya of Jnaanaanandagiri Paramahamsa
+	- Shaaktanandataramginee of Brahmaananda Giri
+	- Shaaktakrama of Poornaananda
+	- Shreetattvacintaamani of Poornaananda
+	- Aagamakalpadruma of Govinda
+	- Aagamakalpalatikaa of Yadunaatha
+	- Aagamatattvavilaasa of Raghunaatha Tarkavaageesha, and Aagamachandrikaa of Raamakrishna
+	- Tantrachintaamani of Navameesimha
+	- Praanatoshinee of Raamatoshana Vidyaalamkaara
+	- Shhivarahasya
+	- Shaivakalpadruma
+
+- Saura Tantras
+- Ganapatya Tantras
+- Others – Supernatural, Chemistry, Astrology, Alchemy, etc.
