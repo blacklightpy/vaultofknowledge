@@ -17,7 +17,7 @@ A **Brahmana (Brahmin)** who changed school would be called **Shakharandah** ("a
 I'm skipping Shrauta Sutras and Griha Sutras for now (except whenever I find it).
 EDIT: Actually, a full list is available in [[Sutras]].
 
-Note that several of the Shakhas have gone missing over the years.
+Note that several (thousands) of Shakhas have gone missing over the years, and we have only been able to obtain a small list.
 ## Rig Veda
 
 ### Shaakala Shakha

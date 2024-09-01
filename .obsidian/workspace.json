@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Upanishads.md",
+                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -453,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Upanishads.md",
+                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Upanishads.md",
+                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Upanishads.md"
+                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md"
               }
             }
           },
@@ -551,11 +551,12 @@
   },
   "active": "9dca4b2825449879",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/Upanishads.md",
+    "🗃️ Unorganized/General Notes/List of Upanishads.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/Upaasana.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
@@ -577,7 +578,6 @@
     "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
     "🗃️ Unorganized/General Notes/Android Boot Internals.md",
     "🗃️ Unorganized/General Notes/Numbers.md",
-    "🗃️ Unorganized/General Notes/Storage Terminology.md",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
     "_images/SSD Flash Storage.webp",
