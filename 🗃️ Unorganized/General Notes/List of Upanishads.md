@@ -4,7 +4,7 @@ There are 13 Mukhya Upanishads, and 95 in the Muktika canon.
 
 Mukhya Upanishads were composed before CE. Muktika was finished by around 15th century CE.
 
-There are newer Upanishads, but they mostly deal with non-Vedic topics.
+There are newer Upanishads, but they mostly deal with non-Vedic topics. There are also many collections other than the Muktika collection, such as the Oupnekhet collection (50 books), Colebrooke collection (52 books), etc.
 
 Here's the list (Source: https://www.templepurohit.com/upanishads-details-list-108-upanishads-classifications/): 
 
@@ -41,6 +41,7 @@ Here's the list (Source: https://www.templepurohit.com/upanishads-details-list-1
 16. **Rudrakshajabala**: Rudraksajabala Upanishat is one of 108 Upanishadic Hindu writings written in Sanskrit. It is devoted to the Rudraksha, a seed that is revered to the god Shiva and is utilised as prayer beads. The literature is related with the Samaveda and belongs to the Shaiva sect, which worships Shiva. It is one of 14 Shaiva Upanishads. It is told as a dialogue between Shiva’s avatar Kalagni Rudra and Sage Sanatkumara.
 
 # Yajurveda
+Some are in the Krishna Yajur Veda rescension, and the others are in the Tattriya Yajur Veda rescension.
 
 1. **Katha**: The Katha Upanishad (Kathopanisad) is one of the mukhya (basic) Upanishads, found in the Krishna Yajurveda’s Katha school’s last eight brief parts. It is also known as the Kathaka Upanishad and is the third of the 108 Upanishads in the Muktika canon.
 2. **Taittiriya**: The Taittirya Upanishad is a Sanskrit work from the Vedic era that is imbedded in the Yajurveda as three chapters (adhyya). It is a mukhya Upanishad, and it was most likely written in the 6th century BC.
