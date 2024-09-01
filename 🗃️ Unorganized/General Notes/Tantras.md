@@ -57,11 +57,11 @@
 	- Mahaanirvaana Tantra
 	- Kulacooḍaamani Tantra
 	- Kulaarnava Tantra
-	- Guptasaadhana Tantra
+	- Gupta Saadhana Tantra
 	- Maatrikaabheda Tantra
 
 - Vaishnava–Vaikhanasas, Pancharatra, bhakti-oriented Tantras of Krishna and Raama
-	- PaanCharaatra Samhitha texts
+	- Paancharaatra Samhitha
 	- Ahirbudhnya Samhitha
 	- Jayaakhya Samhitha
 	- Paarameshvara Samhitha
@@ -82,22 +82,22 @@
 	- Eeshaana Samhitha and Oordhvaamnaaya Samhitha
 
 - Mantra-Shaastra - Textbooks on Mantras, Metaphysics of Mantric sound, related practices and rituals
-	- PrapanChasaara Tantra and its commentaries and teekaas
-	- Shaaradatilaka Tantra by Lakshmana Deshikendra
-	- Mantramuktaavali of Paramahamsa Poornaprakaasha
-	- Mantramahodadhi of Maheedhara
-	- Mantradevaprakaashikaa of Vishnudeva
-	- Mantrakamalaakara of Kamalaakara Bhatta
-	- Mantraratnaakara of Yadunaatha Chakravartin
-	- Mantramahaarnava of Maadhava Raaya Vaidya
+	- Prapanchasaara Tantra and its commentaries and Teekaas
+	- Shaarada Tilaka Tantra by Lakshmana Deshikendra
+	- Mantra Muktaavali of Paramahamsa Poornaprakaasha
+	- Mantra Mahodadhi of Maheedhara
+	- Mantra Deva Prakaashikaa of Vishnudeva
+	- Mantra Kamalaakara of Kamalaakara Bhatta
+	- Mantra Ratnaakara of Yadunaatha Chakravartin
+	- Mantra Mahaarnava of Maadhava Raaya Vaidya
 	- Tantrasaara of Krishnaananda aagamvaagisha
 
-- Nibandha - handbooks on ritual worship, Saadhana and Pooja
+- Nibandha - Handbooks on ritual worship, Saadhana and Pooja
 	- Kriyaakalpataru of Shaktinaatha Kalyaanakara
 	- Kaulaavaleenirnaya of Jnaanaanandagiri Paramahamsa
 	- Shaaktanandataramginee of Brahmaananda Giri
 	- Shaaktakrama of Poornaananda
-	- Shreetattvacintaamani of Poornaananda
+	- Shree Tattvachintaamani of Poornaananda
 	- Aagamakalpadruma of Govinda
 	- Aagamakalpalatikaa of Yadunaatha
 	- Aagamatattvavilaasa of Raghunaatha Tarkavaageesha, and Aagamachandrikaa of Raamakrishna
