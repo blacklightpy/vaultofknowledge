@@ -10,12 +10,12 @@ The sections of the Vedas can be divided into two, or three broad divisions.
 
 People ended up not knowing what Samhithas meant after the Vedic period, considering them as sacred sounds.
 # Sections
-## Samhithas
+## Samhithas (Put Together / Rituals)
+They contain hymns and benedictions.
+## Brahmanas (Universal Knowledge / Commentaries)
 
-## Brahmanas
-
-## Aranyakas
-
+## Aranyakas (Forest Life / Ritual Philosophy)
+They deal with the metaphorical meanings of rituals.
 ### List
 - Rigveda
 	- Aitareya Aranyaka belongs to the Aitareya Shakha of Rigveda
