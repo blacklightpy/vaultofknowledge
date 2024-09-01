@@ -18,8 +18,8 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 	- Types of Marriages
 - Outline
 	- Concepts
-	- Purusarthas
-	- Niti
+	- Purusarthas (Goals of Life)
+	- Neeti (Justice)
 	- Schools (Astika/Nastika)
 	- Vedas / Divisions
 	- Upavedas
@@ -62,7 +62,7 @@ Saguna - All good attributes
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 ## Scriptures
 - Srutis (eternal words)
-	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda) / Nigama (Theory)
+	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda) / Nigama (Abstract Ideas)
 	    - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
     - Vedangas / Supplimentaries: (Shiksha, Chandas, Vyakarana, Nirukta, Kalpa, Jyotisha)
 - Smritis (human works)
@@ -73,7 +73,14 @@ Saguna - All good attributes
 		- Upa Puranas (Minor Legends) (18 in Number)
 		- Bhagavata Purana / Sreemad Bhagavatam was the last Purana written by Ved Vyas
 			- It begins where Bhagavad Gita ends, and most important Purana
-	- Tantras / Aagamas (Practical)
+	- Tantras / Aagamas (Practical Ideas)
+		- Sections: Jnana Pada / Vidya Pada, Yoga Pada, Kriya Pada, Charya Pada
+		    - Jnana pada / Vidya Pada – consists of doctrine, the philosophical and spiritual knowledge, knowledge of reality and liberation
+		    - Yoga Pada – precepts on yoga, the physical and mental discipline.
+		    - Kriya Pada – consists of rules for rituals, construction of temples (Mandir); design principles for sculpting, carving, and consecration of idols of deities for worship in temples; for different forms of initiations or diksha.
+			    - This code is analogous to those in Puranas and in the Buddhist text of Sadhanamala.
+		    - Charya Pada – lays down rules of conduct, of worship (puja), observances of religious rites, rituals, festivals and prayaschittas.
+
 		- Astya (Orthodox Hindu schools of philosophy)
 			- Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)
 		- Nastya (Hindu schools of philosophy not accepting of Vedic authority)
@@ -156,92 +163,67 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 	- Kama (Eroticism)
 	- Moksha (Liberation)
 
-- Niti
+- Neeti (Justice)
 	- Ahimsa (Non-Violence)
 	- Asteya
 	- Aparigraha
 	- Brahmacharya (Celibacy)
 	- Satya (Honesty)
-	- Dāna (Benovelence)
+	- Daana (Benovelence)
 	- Damah
-	- Dayā (Kindness)
+	- Dayaa (Kindness)
 	- Akrodha (Anger-Free)
 
 - Schools / Darshans
-	- Āstika (Follows Vedas)
+	- Aastika (Follows Vedas)
 		- Samkhya 
 		- Yoga
 		- Nyaya
 		- Vaisheshika
-		- Mīmāṃsā
-		- Vedanta / Uttara Mimāṃsā
+		- Meemaamsa
+		- Vedanta / Uttara Meemaamsa
 	        - Dvaita
 	        - Advaita
 	        - Vishishtadvaita
-	- Nāstika (Doesn't Follow Vedas)
+	- Naastika (Doesn't Follow Vedas)
 		- Buddhism
 	    - Jainism
 	    - Charvaka
-		- Ājīvika
-		- Ajñana
+		- Aajeevika
+		- Ajnaana
 
 - Texts	
 	- Classification
-		- Śruti
+		- Shruti
 		- Smriti
 
-	- Vedas
-		- Rigveda
-		- Yajurveda
-		- Samaveda
-		- Atharvaveda
-	
-		- Divisions
-			- Samhita
-			- Brahmana
-			- Aranyaka
-			- Upanishads
-				- Aitareya
-				- Kaushitaki
-				- Brihadaranyaka
-				- Isha
-				- Taittiriya
-				- Katha
-				- Maitrayaniya
-				- Shvetashvatara
-				- Chandogya
-				- Kena
-				- Mundaka
-				- Mandukya
-				- Prashna
-	
-	- Upavedas
-		- Ayurveda
-		- Dhanurveda
-		- Natyaveda
-		- Sthapatyaveda
-	
-	- Vedanga	
-		- Shiksha
-		- Chandas
-		- Vyākaraṇa
-		- Nirukta
-		- Kalpa
-		- Jyotisha
+- Upavedas
+	- Ayurveda
+	- Dhanurveda
+	- Natyaveda
+	- Sthapatyaveda
+
+- Vedanga	
+	- Shiksha
+	- Chandas
+	- Vyaakarana
+	- Nirukta
+	- Kalpa
+	- Jyotisha
 ## Smritis (Inspired Works)
 - Aagamas
 - Itihasas (Epics)
 	- Ramayana
 	- Mahabharata
 		- Bhagavad Gita
-- Puranas 
+- Puraanaas 
 - Minor Upanishads 
-- Arthashastra
+- Artha Shaastra
 - Nitisara
-- Dharmaśāstra
+- Dharma Shaastra
 	- Manusmriti
-	- Nāradasmṛti
-	- Yājñavalkya Smṛti
+	- Naaradasmṛti
+	- Yajnavalkya Smriti
 - Sutras
 	- Yoga Sutras of Patanjali
 - Stotras
@@ -278,7 +260,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 ### Worship
 **Places**: Temple
 **Tools**: Murti (Idol / Vessel)
-**Rituals**: Puja, Japa, Bhajan, Naivedhya, Homa, Tapas, Dhyana, Tirthatana
+**Rituals**: Puja (Rituals), Japa (Recitation), Bhajan (), Naivedhya (Offerings), Homa (Fire Rituals), Tapas (Intense Meditation), Dhyana (Meditation), Tirthatana (Pilgrimage)
 **Devotion:** Bhakti
 ### Sanskaras (Culture / Rituals)
 - Garbhadhana
@@ -295,61 +277,61 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 - Keshanta 
 - Ritushuddhi 
 - Samavartanam 
-- Vivaha
+- Vivaaha
 - Antyeshti
-### Varnashrama
-
+### Varnaashrama
 It refers to Varnas and Ashramas
-#### Varnas
-- Brahmin
-- Kshatriya
-- Vaishya
-- Shudra
-#### Ashramas
+#### Varnaas
+- Brahmin (Priest)
+- Kshatriya (Warrior)
+- Vaishya (Businessmen)
+- Shoodra (Worker)
+#### Aashramaas
 - Brahmacharya
 - Grihastha
 - Vanaprastha
 - Sannyasa
-	
-	- Festivals
-		- Diwali
-		- Holi 
-		- Shivaratri
-		- Raksha Bandhan
-		- Navaratri
-			- Durga Puja 
-			- Ramlila 
-			- Vijayadashami 
-		- Ganesh Chaturthi 
-		- Rama Navami 
-		- Janmashtami 
-		- Onam 
-		- Pongal 
-		- Makar 
-		- Sankranti
-		- New Year
-			- Bihu
-			- Gudi Padwa
-			- Pahela Baishakh
-			- Puthandu
-			- Vaisakhi
-			- Vishu
-			- Ugadi
-		- Kumbh Mela
-			- Haridwar
-			- Nashik
-			- Prayag
-			- Ujjain
-		- Ratha Yatra
-		- Teej
-		- Vasant Panchami
-		- for Others
 
-	- Other
-		- Svādhyāya
-		- Namaste
-		- Bindi
-		- Tilaka
+
+- Festivals
+	- Diwali
+	- Holi 
+	- Shivaratri
+	- Raksha Bandhan
+	- Navaratri
+		- Durga Puja 
+		- Ramlila 
+		- Vijayadashami 
+	- Ganesh Chaturthi 
+	- Rama Navami 
+	- Janmashtami 
+	- Onam 
+	- Pongal 
+	- Makar 
+	- Sankranti
+	- New Year
+		- Bihu
+		- Gudi Padwa
+		- Pahela Baishakh
+		- Puthandu
+		- Vaisakhi
+		- Vishu
+		- Ugadi
+	- Kumbh Mela
+		- Haridwar
+		- Nashik
+		- Prayag
+		- Ujjain
+	- Ratha Yatra
+	- Teej
+	- Vasant Panchami
+	- for Others
+
+- Other
+	- Svaadhyaaya
+	- Namaste
+	- Bindi
+	- Tilaka
 
 - Related
 	- Hindus
@@ -370,7 +352,7 @@ It refers to Varnas and Ashramas
 	- Pilgrimage sites
 		- India
 	- Relations with other religions
-		- Baháʼí
+		- Bahaʼi
 		- Buddhism
 		- Islam
 		- Jainism

@@ -1,2 +1,3 @@
 - Dravidian Folk Religions, from the Indus River Valley Civilization Era
-- 
+- Indo-Aryan Vedas / Nigamas (Abstract Ideas)
+- Dravidian Aagamas (Practical )

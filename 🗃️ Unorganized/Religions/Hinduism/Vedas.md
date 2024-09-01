@@ -12,9 +12,9 @@ Vedas are passed on through [[Vedic Shakhas|Shakhas]].
 
 Shakhas focused on pronunciation, and not on the meaning of the words. So people ended up not knowing what Samhithas meant after the Vedic period, considering them as sacred sounds.
 # Sections
-## Samhithas (Put Together / Rituals)
+## Samhithas (Put Together / Collections)
 They contain hymns and benedictions.
-## Brahmanas (Universal Knowledge / Commentaries)
+## Brahmanas (Universal / Spiritual Insights)
 
 ## Aranyakas (Forest Life / Ritual Philosophy)
 They deal with the metaphorical meanings of rituals.

@@ -96,10 +96,10 @@ Some are in the Krishna Yajur Veda rescension, and the others are in the Tattriy
 
 # Atharvaveda
 
-1. **Prasna**: The Prashnopanishad is an old Sanskrit literature found inside the Atharva Veda and attributed to the Vedic scholar Pippalada sakha. It is a Mukhya (basic) Upanishad, and it is number four in Hinduism’s Muktika canon of 108 Upanishads.
+1. **Prashna**: The Prashnopanishad is an old Sanskrit literature found inside the Atharva Veda and attributed to the Vedic scholar Pippalada sakha. It is a Mukhya (basic) Upanishad, and it is number four in Hinduism’s Muktika canon of 108 Upanishads.
 2. **Mandukya**: The Mandukya Upanishad belongs to the Atharvaveda and is the shortest of all the Upanishads. The Muktika canon of 108 Upanishads lists it at number 6.
 3. **Mundaka**: The Mundaka Upanishad is a Sanskrit Vedic literature that is included inside the Atharva Veda. It is a Mukhya (basic) Upanishad that is number 5 in Hinduism’s Muktika canon of 108 Upanishads. It is one of the Upanishads that has been translated the most.
-4. **Atma**: The Atma Upanishad is a Hindu literature written in Sanskrit that is one of the minor Upanishadic writings. It belongs to the Atharvaveda and is one of the 31 Upanishads. It is a Vedantic Upanishad and a Samanya (generic) Upanishad.
+4. **Aatma**: The Aatma Upanishad is a Hindu literature written in Sanskrit that is one of the minor Upanishadic writings. It belongs to the Atharvaveda and is one of the 31 Upanishads. It is a Vedantic Upanishad and a Samanya (generic) Upanishad.
 5. **Surya**: The Surya Upanishad, also known as the Suryopanishad, is one of Hinduism’s minor Upanishads, written in Sanskrit. It is one of the Samanya Upanishads and one of the 31 Upanishads related with the Atharvaveda.
 6. **Narada-Parivrajakas**: The Naradaparivrajaka Upanishad is a Sanskrit literature from the mediaeval era and one of Hinduism’s minor Upanishads. The text is one of the 20 Sannyasa (renunciation) Upanishads and is part of the Atharva Veda.
 7. **Parabrahma**: The Parabrahma Upanishad is a Hindu Upanishad written in Sanskrit during the mediaeval era. The text is one of the 20 Sannyasa (renunciation) Upanishads, and it is part of the Atharvaveda.
