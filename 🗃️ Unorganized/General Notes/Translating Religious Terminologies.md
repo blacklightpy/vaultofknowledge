@@ -122,3 +122,26 @@ At this point, I realized the outline form is hard to represent, so I decided to
 | Arabic                       | Mustalah     | Terminology                                                         |                                                                                                                                                                                                                                                  |                                      |
 | Arabic                       | Uloom        | Science                                                             |                                                                                                                                                                                                                                                  |                                      |
 | Arabic                       | Usool        | Principles                                                          |                                                                                                                                                                                                                                                  |                                      |
+To add:
+
+1. Srishṭi — Cosmic Evolution
+2. Pralaya — Cosmic Involution
+3. Upaasana — Deity Yoga - worship of deities.
+4. Saadhana — Spiritual practice
+5. Purashcharana — retreat programs
+6. Shaṭ-karma — 6 desiderative ritual activities
+7. Yoga / Dhyaana — Aasana practice
+8. Siddhānta — Metaphysics
+9. Brahma-jnaana — Philosophy / Theology
+10. Mantras — linguistic occultism
+11. Yantras — mystical diagrams for meditation
+12. Mudras — seals or gestures of the hands
+13. Shilpa — architecture and sculpture
+14. Pratishtha — consecration of temples and installation of icons
+15. Arcana — worship of the deities enshrined in temples
+16. Deeksja — initiation of priests
+17. Dharma — rules of social conduct and ethics
+18. Samskaaras — the 16 sacraments and periodic domestic observances
+19. Utsavas — public festivals
+20. Indrajaala — practical occultism
+21. Praayaschittam — Atonements & Penances for transgressions and offences

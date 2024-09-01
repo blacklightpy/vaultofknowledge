@@ -8,7 +8,9 @@ The sections of the Vedas can be divided into two, or three broad divisions.
 3. Upaasana Khanda (Worship Portion) [Optional]
 	- [[Upaasana]]
 
-People ended up not knowing what Samhithas meant after the Vedic period, considering them as sacred sounds.
+Vedas are passed on through [[Vedic Shakhas|Shakhas]].
+
+Shakhas focused on pronunciation, and not on the meaning of the words. So people ended up not knowing what Samhithas meant after the Vedic period, considering them as sacred sounds.
 # Sections
 ## Samhithas (Put Together / Rituals)
 They contain hymns and benedictions.

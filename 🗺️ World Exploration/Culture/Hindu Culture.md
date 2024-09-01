@@ -62,7 +62,7 @@ Saguna - All good attributes
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 ## Scriptures
 - Srutis (eternal words)
-	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda) / Aagama
+	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda) / Nigama (Theory)
 	    - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
     - Vedangas / Supplimentaries: (Shiksha, Chandas, Vyakarana, Nirukta, Kalpa, Jyotisha)
 - Smritis (human works)
@@ -73,7 +73,7 @@ Saguna - All good attributes
 		- Upa Puranas (Minor Legends) (18 in Number)
 		- Bhagavata Purana / Sreemad Bhagavatam was the last Purana written by Ved Vyas
 			- It begins where Bhagavad Gita ends, and most important Purana
-	- Tantras / Aagamas
+	- Tantras / Aagamas (Practical)
 		- Astya (Orthodox Hindu schools of philosophy)
 			- Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)
 		- Nastya (Hindu schools of philosophy not accepting of Vedic authority)
