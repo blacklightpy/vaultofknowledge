@@ -7,6 +7,9 @@ In Religion:
 - [[Wikipedia Hinduism Organization]]
 - [[Hindu Text Excerpts]]
 - [[Hinduism Rough Notes]]
+
+> ![[Water Splash Sample Image.jpg]]
+> The analogy for the relationship between Brahman and Atman is that of a field of water, and the ripples flowing through it. Brahman is the water body, and Atman is the energy that forms ripples.
 ## Component Notes
 - [[Vedas]] (Sanskrit Books of Knowledge)
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)
