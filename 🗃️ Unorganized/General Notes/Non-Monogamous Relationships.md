@@ -4,13 +4,24 @@
 - Compersion (Feeling of satisfaction for someone else's happiness)
 	- i.e. when your partner is enjoying themselves with someone else
 ## Motivations
+- Experience
+	- It is the quality of being alive and perceiving reality
+- Sensory System
+	- It is the 
 - Ego-Sense
 	- It is the element of individuality that makes one want to obtain enjoyable things for himself
+- Desire
+	- It is the aspect of individuality that makes one know what is enjoyable to themself
 - Lust
-	- It is the common element of desire that makes one seek out what's enjoyable to oneself
+	- It is the type of desire that lets a person know what arouses their sexual systems
+- Curiosity
+	- It is the type of desire that makes a person want to try out new things
+- Fear
+	- It is the type of desire that 
 - Capital Acquisition
-	- 
+	- It is when one acquires their elements of desire, which are of value to them
 - The Trophy Wife (or Partner)
+	- The trophy partner is an accessory that's desired by most people
 	- This is a person's desire to show others that they own a highly desirable partner
 - Showcasing
 	- They may want others to try out their partner and have and experience of what they have
