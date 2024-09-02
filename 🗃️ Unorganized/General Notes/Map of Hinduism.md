@@ -131,6 +131,8 @@
 > Swami Chinmayananda  
 > Aurobindo Ghosh
 
+Link 1 is a book with parts.
+
 From Link 2 above:
 > CONTENTS
 > 

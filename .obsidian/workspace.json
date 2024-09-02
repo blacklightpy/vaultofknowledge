@@ -294,58 +294,6 @@
             }
           },
           {
-            "id": "1d2a02f48ed01729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76531e5faec6a192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Upanishads.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45fc3fbab0228ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗺️ World Exploration/Culture/Hindu Culture.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a74ae003f9dfbbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f10195e7941f43d",
             "type": "leaf",
             "state": {
@@ -372,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -440,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +405,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
+                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md"
               }
             }
           },
@@ -536,17 +484,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6f10195e7941f43d",
+  "active": "4554afb8d997ad36",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Malayalam Language.md",
+    "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+    "🗃️ Unorganized/General Notes/Assassin.md",
+    "🗃️ Unorganized/General Notes/Doublespeak.md",
+    "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
+    "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
+    "🗃️ Unorganized/General Notes/List of Upanishads.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/General Notes/Indian Classical Music.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗃️ Unorganized/General Notes/Malayalam Language.md",
     "🗃️ Unorganized/General Notes/Tantras.md",
     "🗃️ Unorganized/General Notes/Ferdinand de Saussure.md",
     "🗃️ Unorganized/General Notes/Malayalam Words.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
@@ -555,15 +511,7 @@
     "🗃️ Unorganized/General Notes/Readable Font Values.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Indian Classical Music.md",
-    "🗃️ Unorganized/General Notes/List of Upanishads.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
-    "🗃️ Unorganized/General Notes/Antisemitic Quotes from the Talmud Debunked.md",
-    "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",

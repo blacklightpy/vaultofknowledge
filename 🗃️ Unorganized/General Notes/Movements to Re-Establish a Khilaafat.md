@@ -1,4 +1,5 @@
-- https://old.reddit.com/r/islam/comments/1bapi7q/why_is_there_no_movement_to_restore_the_islamic/ (People seem to agree unanimously on they should)
+- https://old.reddit.com/r/islam/comments/1bapi7q/why_is_there_no_movement_to_restore_the_islamic/ (Has list in a reply)
+	- People seem to agree unanimously on they should)
 	- They subscribe to the idea that "peace is preserved through strength"
 	- They do like to make and use nukes
 	- They hate that people have turned to the ways of the world

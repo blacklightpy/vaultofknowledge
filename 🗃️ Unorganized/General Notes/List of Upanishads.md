@@ -7,7 +7,6 @@ Mukhya Upanishads were composed before CE. Muktika was finished by around 15th c
 There are newer Upanishads, but they mostly deal with non-Vedic topics. There are also many collections other than the Muktika collection, such as the Oupnekhet collection (50 books), Colebrooke collection (52 books), etc.
 
 Here's the list (Source: https://www.templepurohit.com/upanishads-details-list-108-upanishads-classifications/): 
-
 # Rigveda
 
 1. **Aitareya**: Upanishadic texts are regarded divine in origin and are part of the Shruti literature. They’re linked to a number of ancient seers’ names. Some of them lived for at least twenty generations prior to Lord Krishna and the Mahabharata war’s most likely date. Yagnavalkya, Uddalaka Aruni, Shandilya, Aitareya, Pipplapada, and Sanatkumara were among the most prominent of these sages.
