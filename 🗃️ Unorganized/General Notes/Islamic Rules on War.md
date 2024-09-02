@@ -1,5 +1,7 @@
 # Claims
-![[Claimed Rules of War in Islam.webp]]
+| Meme Table                              |
+| --------------------------------------- |
+| ![[Claimed Rules of War in Islam.webp]] |
 
 # Truth
 ## List (I'll keep same IDs)
@@ -38,11 +40,15 @@
 - 3. Don't Kill Old People
 	- It is reported from Islamic scripture that Muhammad permitted the killing of Abu Afak, an old man, for writing poetry critical of Muhammad and Islam.
 	- The old Jewish woman Umm Qirfa was cruelly killed by Mo after her tribe _surrendered_ (https://wikiislam.net/wiki/The_Story_of_Umm_Qirfa)
+	- When he slaughtered the Qurayza, everyone older than a child was murdered:
+		- The Messenger of Allah commanded that all of the Jewish men and boys who had reached puberty should be beheaded. Then the Prophet divided the wealth, wives, and children of the Banu Qurayza Jews among the Muslims. **Al-Tabari, Vol. 8, p. 38**
 - 4. Don't Destroy a Church, Temple or Building
 	- 'Dhul Khalasa' was a temple, known as the southern Ka’ba, to rival the Ka’ba at Mecca, so Muhammad ordered its demolition. Jarir ibn Abdullah al-Bajali was sent to demolish it. Not to forget Muhammad destroyed the sacred idols of the Meccans.
 	- Muhammad ordered the homes of Muslims who don't pray be burnt.
 		- http://www.usc.edu/org/cmje/religious-texts/hadith/bukhari/011-sbt.php#001.011.626
+			- The Prophet added, "Certainly I decided to order the Mu'adh-dhin (call-maker) to pronounce Iqama and order a man to lead the prayer and then take a fire flame to burn all those who had not left their houses so far for the prayer along with their houses." **Sahih Bukhari 1:11:626**
 	- Destroyed a pagan religious site in yemen and forced them to convert: http://sunnah.com/bukhari/64/383
+	- “We went out as a delegation to the Prophet (saw); we gave him our oath of allegiance and prayed with him. We told him that in our land there was a church that belonged to us. We asked him to give us the leftovers of his purification (Wudu water). So he called for water, performed Wudu and rinsed out his mouth, then he poured it into a vessel and said to us: ‘Leave, and when you return to your land, demolish your church, and sprinkle this water on that place, and take it as a Masjid.’ **Sahih Bukhari "Book of the Masjids - 8" nr. 702**
 	- Destroyed a yemen tribe called the northern ka'ba: http://sunnah.com/muslim/44/195
 	- Demolishing of a church: http://sunnah.com/nasai/8/14
 - 5. Don't Kill those who Surrendered
@@ -52,6 +58,7 @@
 - 6. Don't Kill who Ran Away
 	- The Quran says to pursue your enemy. vigorously, "...And when the sacred months have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush. But if they should repent, establish prayer, and give zakah, let them [go] on their way. Indeed, Allah is Forgiving and Merciful." (**Qur'an 9:5**)
 	- A married man confesses to adultery. Muhammad orders him planted in the ground and pelted with stones. According to the passage, the first several stones caused such pain that he tried to _escape_ and was dragged back and killed. [Sahih Muslim (17:4196)](http://www.usc.edu/org/cmje/religious-texts/hadith/muslim/017-smt.php#017.4196)
+	- Narrated Anas bin Malik: Allah's Apostle entered Mecca in the year of its Conquest wearing an Arabian helmet on his head and when the Prophet took it off, a person came and said, "Ibn Khatal is holding the covering of the Ka'ba (taking refuge in the Ka'ba)." The Prophet said, "Kill him." **Sahih Bukhari 3:29:72**
 - 7. Don't Kill a Woman
 	- Generic
 		- There are reports in Islamic scripture that detail the killing of women, including political assassinations ordered by Muhammad, most notably the killing of 'Fartana' and 'Quraybah' - (slave girls of Abdullah ibn Khatal) merely because they recited poems insulting Muhammad (a man with revelations insulting various people and adherents of other religions).
@@ -60,6 +67,7 @@
 	- Also the man who killed the blind slave woman whom he had two children with for insulting Mohammed
 	- He allowed the tearing apart of Old Jewish woman Umm Qirfa and many more. (Duplicate in 3.)
 	- See Women and Children Section of 2.
+	- The Messenger ordered six men and four women to be assassinated. One of these women was Hind, who swore allegiance and became a Muslim. **Al-Tabari, Vol. 8, p. 181**
 	- He had Asma bint Marwan and several female critics and poets killed.
 		- **'UMAYR B. 'ADIYY'S JOURNEY TO KILL 'ASMA' D. MARWAN**
 		  
@@ -69,8 +77,13 @@
 		- Sariyyah Of 'Umayr Ibn 'Adi Then (occurred) the sariyyah of `Umayr ibn`Adi Ibn Kharashah al-Khatmi against 'Asma' Bint Marwan, of Banu Umayyah Ibn Zayd, when five nights had remained from the month of Ramadan, in the beginning of the nineteenth month from the hijrah of the apostle of Allah.'Asma' was the wife of Yazid Ibn Zayd Ibn Hisn al-Khatmi. She used to revile Islam, offend the prophet and instigate the (people) against him. She composed verses. Umayr Ibn Adi came to her in the night and entered her house. Her children were sleeping around her. There was one whom she was suckling. He searched her with his hand because he was blind, and separated the child from her. He thrust his sword in her chest till it pierced up to her back. Then he offered the morning prayers with the prophet at al-Medina. The apostle of Allah said to him: "Have you slain the daughter of Marwan?" He said: "Yes. Is there something more for me to do?" He [Muhammad] said: "No. Two goats will butt together about her. This was the word that was first heard from the apostle of Allah. The apostle of Allah called him 'Umayr, "basir" (the seeing). (**Ibn Sa'd, Vol. 2, p.31**)
 - 8. Don't Kill a Sick Person or Priest
 	- Hard to believe that when he executed every adult male of the surrendered Banu Qurayza, there were no clerics or sick person amongst them - especially after confronting the Muslims and knowing their fate of death.
+	- When a **blind** Jew became aware of the presence of the Messenger and the Muslims he rose and threw dust in their faces, saying, ‘Even if you are a prophet, I will not allow you into my garden!’ I was told that he took a handful of dirt and said, ‘If only I knew that I would not hit anyone else, Muhammad, I would throw it in your face.’ Sa’d rushed in and hit him on the head with his bow and split the Jew’s head open. **Al-Tabari, Vol. 7, p. 112**
+		- i.e. this statement is unqualified, and hence false.
+	- Apart from the fact that the Banu Qurayza massacre certainly included their priests, there is also the story of Kinana, a Jewish Rabbi, that was murdered on orders of Muhammad, and his wife was taken as a slave by Mo (**Sahih Bukhari 1:8:367**)
 - 9. Don't Disfigure the Dead
-	- Right, just do it when they're alive. There are reports in Islamic scripture of Muhammad permitting execution via stoning, beheading and flogging, this certainly constitutes as disfiguring not just those alive, but to an extent the dead too, atleast in such cases as beheading and execution via stoning.
+	- Right, just do it when they're alive.
+		- There are reports in Islamic scripture of Muhammad permitting execution via stoning, beheading and flogging, this certainly constitutes as disfiguring not just those alive, but to an extent the dead too, at least in such cases as beheading and execution via stoning.
+		- When the Prophet was informed by a shouter for help, he sent some men in their pursuit, and before the sun rose high, they were brought, and he had their hands and feet cut off. Then he ordered for nails which were heated and passed over their eyes, and whey were left in the Harra (i.e. rocky land in Medina). They asked for water, and nobody provided them with water till they died (Abu Qilaba, a sub-narrator said, "They committed murder and theft and fought against Allah and His Apostle, and spread evil in the land.") **Sahih Bukhari 4:52:261**
 	- "After Hamza [b. ‘Abd al-Muttalib] had been killed and mutilated, and the Prophet (s) had seen him and said, ‘Verily I will mutilate 70 of them for you’, the following was revealed: And if you retaliate, retaliate with the like of what you have been made to suffer; and yet if you endure patiently, [refraining] from revenge, verily that, namely, [that] enduring, is better for the patient. Thus the Prophet (s) refrained [from taking revenge] and made atonement for his oath, as reported by al-Bazzār." (**Tafseer al-Jalaalayn**)
 - 10. Don't Kill Animals except for Food
 	- http://sunnah.com/bukhari/28/9
@@ -78,6 +91,7 @@
 	- http://sunnah.com/bukhari/59/120
 	- Mohammed killed dogs etc:
 		- "A'isha (Allah be pleased with her) reported Allah's Messenger (may peace be upon him) as saying: Five are the vicious beasts which should be killed even in the state of Ihram: scorpion, rat, kite, crow and voracious dog." [Sahih Muslim 7:2719](http://www.usc.edu/org/cmje/religious-texts/hadith/muslim/007-smt.php#007.2719)
+	- Then on that very morning he commanded the killing of the dogs until he announced that the dog kept for the orchards should also be killed, but he spared the dog meant for the protection of extensive fields (or big gardens). **Sahih Muslim 24:5248**
 - 11. Treat Prisoners Well
 	- Generic
 		- As already stated Muhammad permitted the mass execution of the adult men of the surrendered Banu Qurayza. Prisoners by the way can be ransomed and enslaved (as occurred to the women and children of the Banu Qurayza), neither which Muhammad prohibited and are illegal under the Geneva conventions and international law.
@@ -92,40 +106,11 @@
 - 12. Don't Enforce Islam
 	- "...And fight them until there is no fitnah and [until] the religion, all of it, is for Allah . And if they cease - then indeed, Allah is Seeing of what they do..." (**Qur'an 8:61**)
 	- "The Messenger of Allah said, (I was commanded to fight against the people until they proclaim, "There is no deity worthy of worship except Allah.' If and when they say it, they will preserve their blood and wealth from me, except for its right (Islamic penal code), and their reckoning is with Allah, the Exalted and Most Honored.)" (**Tafseer ibn Katheer on Qur'an 8:61**)
+	- Verse of the Sword (**Qur'an 9:5** according to **Tafseer ibn Katheer**)
+	- Narrated Ibn 'Umar: Allah's Apostle said: "I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Apostle, and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah." **Sahih Bukhari 1:2:25**
 
 > Let's also not forget Islamic scripture has historically been used to justify the persecution of apostates and blasphemers, coercing individuals to Islam.
 > 
 > Briefly, a text as ambiguous and contradictory as the Quran, is open to a range of interpretations, but each subjective interpretation has its own justification. Those with an agenda of violent expansionism and intolerance of those not of their creed (example, ISIS) will claim that their interpretation is 'true islam' and will find (or cherry pick) verses and justifications within Islamic scripture for that.
 > 
 > While other competing (more peaceful and tolerant) interpretations will similarly do the same with their 'peaceful' and 'tolerant' agenda.
-
-## Details (List 5)
-
-- 3. Don't kill old people
-	- When he slaughtered the Qurayza, everyone older than a child was murdered:
-		- The Messenger of Allah commanded that all of the Jewish men and boys who had reached puberty should be beheaded. Then the Prophet divided the wealth, wives, and children of the Banu Qurayza Jews among the Muslims. **Al-Tabari, Vol. 8, p. 38**
-- 4. Don't destroy a temple or church
-	- Yet he explicitly commanded to do just that:
-		- “We went out as a delegation to the Prophet (saw); we gave him our oath of allegiance and prayed with him. We told him that in our land there was a church that belonged to us. We asked him to give us the leftovers of his purification (Wudu water). So he called for water, performed Wudu and rinsed out his mouth, then he poured it into a vessel and said to us: ‘Leave, and when you return to your land, demolish your church, and sprinkle this water on that place, and take it as a Masjid.’ **Sahih Bukhari "Book of the Masjids - 8" nr. 702**
-	- In addition to above, he also ordered houses to be burned down:
-		- The Prophet added, "Certainly I decided to order the Mu'adh-dhin (call-maker) to pronounce Iqama and order a man to lead the prayer and then take a fire flame to burn all those who had not left their houses so far for the prayer along with their houses." **Sahih Bukhari 1:11:626**
-- 5. Don't kill those who surrendered
-	- The entire massacre of the Banu Qurayza (see above) was unjustified, since they had already surrendered.
-- 6. Don't kill who ran away
-	- Narrated Anas bin Malik: Allah's Apostle entered Mecca in the year of its Conquest wearing an Arabian helmet on his head and when the Prophet took it off, a person came and said, "Ibn Khatal is holding the covering of the Ka'ba (taking refuge in the Ka'ba)." The Prophet said, "Kill him." **Sahih Bukhari 3:29:72**
-- 7. Don't kill a woman
-	- The Messenger ordered six men and four women to be assassinated. One of these women was Hind, who swore allegiance and became a Muslim. **Al-Tabari, Vol. 8, p. 181**
-- 8. Don't kill a sick person, monk or priest
-	- When a blind Jew became aware of the presence of the Messenger and the Muslims he rose and threw dust in their faces, saying, ‘Even if you are a prophet, I will not allow you into my garden!’ I was told that he took a handful of dirt and said, ‘If only I knew that I would not hit anyone else, Muhammad, I would throw it in your face.’ Sa’d rushed in and hit him on the head with his bow and split the Jew’s head open. **Al-Tabari, Vol. 7, p. 112**
-	- Apart from the fact that the Banu Qurayza massacre certainly included their priests, there is also the story of Kinana, a Jewish Rabbi, that was murdered on orders of Muhammad, and his wife was taken as a slave by Mo (**Sahih Bukhari 1:8:367**)
-- 9. Don't disfigure the dead
-	- But disfiguring the living is fine:
-		- When the Prophet was informed by a shouter for help, he sent some men in their pursuit, and before the sun rose high, they were brought, and he had their hands and feet cut off. Then he ordered for nails which were heated and passed over their eyes, and whey were left in the Harra (i.e. rocky land in Medina). They asked for water, and nobody provided them with water till they died (Abu Qilaba, a sub-narrator said, "They committed murder and theft and fought against Allah and His Apostle, and spread evil in the land.") **Sahih Bukhari 4:52:261**
-- 10. Don't kill an animal except for eating
-	- Then on that very morning he commanded the killing of the dogs until he announced that the dog kept for the orchards should also be killed, but he spared the dog meant for the protection of extensive fields (or big gardens). **Sahih Muslim 24:5248**
-- 11. Be good to the prisoners and feed them
-	- Again, the genocide on the Banu Quraiza negates this. He had all those men taken captive, and decided to murder them anyway.
-- 12. Don't enforce Islam
-	- Verse of the Sword.
-	- Also:
-		- Narrated Ibn 'Umar: Allah's Apostle said: "I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Apostle, and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah." **Sahih Bukhari 1:2:25**
