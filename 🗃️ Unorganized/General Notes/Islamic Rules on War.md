@@ -18,37 +18,77 @@
 ## Details (List 1)
 - 1. Don't Cut a Tree
 	- Personal Comment
-		- It's a joke statement without qualification of when to cut
+		- It's a joke statement without qualification of when to cut (see wooden pulpit example)
 	- During Siege of Banu Nadir
 		- "...Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allah and so He would disgrace the defiantly disobedient..." **(Qur'an Surah 59)**
 		- "...The Prophet gathered his forces and marched to the area of Bani An-Nadir...The Messenger ordered their date trees be cut down and burned. The Jews heralded at the Prophet, O Muhammad! You used to forbid mischief in the earth and blame those who did it. Why is it that you had the date trees cut down and burned..." **(Tafsir ibn Katheer)**
 		- http://sunnah.com/abudawud/15/139
+	- He orders carpenters to fashion a wooden pulpit:
+		- Narrated Abu Hazim: Some men came to Sahl bin Sad to ask him about the pulpit. He replied, "Allah's Apostle sent for a woman (Sahl named her) (this message): 'Order your slave carpenter to make pieces of wood (i.e. a pulpit) for me so that I may sit on it while addressing the people.' So, she ordered him to make it from the tamarisk of the forest. He brought it to her and she sent it to Allah's Apostle . Allah's Apostle ordered it to be placed in the mosque: so, it was put and he sat on it. **Sahih Bukhari 3:34:307**
 - 2. Don't Kill Children
-	- The Islamic definition of an adult is a person who that had their first wet dream or period, or produced pubic hair.That will include some as young as 10-12 years old.
-	- Muhammad authorised the beheading of all boys with pubic hair after the Banu Qurayza surrendered.
-	- Post
+	- Generic
+		- The Islamic definition of an adult is a person who that had their first wet dream or period, or produced pubic hair. That will include some as young as 10-12 years old. **(Source: Hadeeths I've seen, need to collect)**
+		- Muhammad authorised the beheading of all boys with pubic hair after the Banu Qurayza surrendered. **(Source: Hadeeths I've seen, need to collect)**
+		- Keep them as slaves
+		- But rape the female ones (They are of the age for sex at 6)
+	- Women and Children Section (will be duplicated)
 		- reddit.com/r/exmuslim/comments/4ir2rv/islam_on_killing_polytheist_women_and_children/
-	- Narrated As-Sab bin Jaththama: The Prophet passed by me at a place called Al-Abwa or Waddan, and was asked whether it was permissible to attack the pagan warriors at night with the probability of exposing their women and children to danger. The Prophet replied, "They (i.e. women and children) are from them (i.e. pagans)." I also heard the Prophet saying, "The institution of Hima is invalid except for Allah and His Apostle." **Sahih Bukhari 4:52:256**
+		- He stated that polytheist women and children are guilty as well and valid targets during war
+			- Narrated As-Sab bin Jaththama: The Prophet passed by me at a place called Al-Abwa or Waddan, and was asked whether it was permissible to attack the pagan warriors at night with the probability of exposing their women and children to danger. The Prophet replied, "They (i.e. women and children) are from them (i.e. pagans)." I also heard the Prophet saying, "The institution of Hima is invalid except for Allah and His Apostle." **Saheeh Bukhari 4:52:256**
 - 3. Don't Kill Old People
 	- It is reported from Islamic scripture that Muhammad permitted the killing of Abu Afak, an old man, for writing poetry critical of Muhammad and Islam.
+	- The old Jewish woman Umm Qirfa was cruelly killed by Mo after her tribe _surrendered_ (https://wikiislam.net/wiki/The_Story_of_Umm_Qirfa)
 - 4. Don't Destroy a Church, Temple or Building
 	- 'Dhul Khalasa' was a temple, known as the southern Ka’ba, to rival the Ka’ba at Mecca, so Muhammad ordered its demolition. Jarir ibn Abdullah al-Bajali was sent to demolish it. Not to forget Muhammad destroyed the sacred idols of the Meccans.
+	- Muhammad ordered the homes of Muslims who don't pray be burnt.
+		- http://www.usc.edu/org/cmje/religious-texts/hadith/bukhari/011-sbt.php#001.011.626
+	- Destroyed a pagan religious site in yemen and forced them to convert: http://sunnah.com/bukhari/64/383
+	- Destroyed a yemen tribe called the northern ka'ba: http://sunnah.com/muslim/44/195
+	- Demolishing of a church: http://sunnah.com/nasai/8/14
 - 5. Don't Kill those who Surrendered
 	- Muhammad permitted the mass execution of the adult men of the Banu Qurayza after they surrendered.
+		- al-Nadir, a war captive was killed too
+		- Also children were killed (Duplicate in Section 2.)
 - 6. Don't Kill who Ran Away
 	- The Quran says to pursue your enemy. vigorously, "...And when the sacred months have passed, then kill the polytheists wherever you find them and capture them and besiege them and sit in wait for them at every place of ambush. But if they should repent, establish prayer, and give zakah, let them [go] on their way. Indeed, Allah is Forgiving and Merciful." (**Qur'an 9:5**)
+	- A married man confesses to adultery. Muhammad orders him planted in the ground and pelted with stones. According to the passage, the first several stones caused such pain that he tried to _escape_ and was dragged back and killed. [Sahih Muslim (17:4196)](http://www.usc.edu/org/cmje/religious-texts/hadith/muslim/017-smt.php#017.4196)
 - 7. Don't Kill a Woman
-	- There are reports in Islamic scripture that detail the killing of women, including political assassinations ordered by Muhammad, most notably the killing of 'Fartana' and 'Quraybah' - (slave girls of Abdullah ibn Khatal) merely because they recited poems insulting Muhammad (a man with revelations insulting various people and adherents of other religions).
-	- Also the man who killed the slave girl whom he had two children with for insulting Mohammed
+	- Generic
+		- There are reports in Islamic scripture that detail the killing of women, including political assassinations ordered by Muhammad, most notably the killing of 'Fartana' and 'Quraybah' - (slave girls of Abdullah ibn Khatal) merely because they recited poems insulting Muhammad (a man with revelations insulting various people and adherents of other religions).
+		- Instead of killing you keep them as slaves and force them to have sex with you
+		- After you probably killed her male relatives and took her away from her home.
+	- Also the man who killed the blind slave woman whom he had two children with for insulting Mohammed
+	- He allowed the tearing apart of Old Jewish woman Umm Qirfa and many more. (Duplicate in 3.)
+	- See Women and Children Section of 2.
+	- He had Asma bint Marwan and several female critics and poets killed.
+		- **'UMAYR B. 'ADIYY'S JOURNEY TO KILL 'ASMA' D. MARWAN**
+		  
+		  She was of B. Umayyya b. Zayd. When Abu 'Afak had been killed she displayed disaffection. 'Abdullah b. al-Harith b. Al-Fudayl from his father said that she was married to a man of B. Khatma called Yazid b. Zayd. Blaming Islam and its followers she said: I despise B. Malik and al-Nabit and 'Auf and B. al-Khazraj. You obey a stranger who is none of yours, one not of Murad or Madhhij. {1} Do you expect good from him after the killing of your chiefs like a hungry man waiting for a cook's broth? Is there no man of pride who would attack him by surprise and cut off the hopes of those who expect aught from him? Hassan b. Thabit answered her:
+		  
+		  Banu Wa'il and B. Waqif and Khatma are inferior to B. al-Khazrahj. When she called for folly woe to her in her weeping, for death is coming. She stirred up a man of glorious origin, noble in his going out and in his coming in. Before midnight he dyed her in her blood and incurred no guilt thereby. When the apostle heard what she had said he said, "Who will rid me of Marwan's daughter?" 'Umayr b. 'Adiy al-Khatmi who was with him heard him, and that very night he went to her house and killed her. In the morning he came to the apostle and told him what he had done and he [Muhammad] said, "You have helped God and His apostle, O 'Umayr!" When he asked if he would have to bear any evil consequences the apostle said, "Two goats won't butt their heads about her", so 'Umayr went back to his people. Now there was a great commotion among B. Khatma that day about the affair of bint [daughter of] Marwan. She had five sons, and when 'Umayr went to them from the apostle he said, "I have killed bint Marwan, O sons of Khatma. Withstand me if you can; don't keep me waiting." That was the first day Islam became powerful among B. Khatma; before that those who were Muslims concealed the fact. The first of them to accept Islam was 'Umayr b. 'Adiy who was called the "Reader", and 'Abdullah b. Aus and Khuzayma b. Thabit. The day after Bint Marwan was killed the men of B. Khatma became Muslims because they saw the power of Islam. {1} The note reads "Two tribes of Yamani origin." (**Ibn Ishaq:675**)
+		- Sariyyah Of 'Umayr Ibn 'Adi Then (occurred) the sariyyah of `Umayr ibn`Adi Ibn Kharashah al-Khatmi against 'Asma' Bint Marwan, of Banu Umayyah Ibn Zayd, when five nights had remained from the month of Ramadan, in the beginning of the nineteenth month from the hijrah of the apostle of Allah.'Asma' was the wife of Yazid Ibn Zayd Ibn Hisn al-Khatmi. She used to revile Islam, offend the prophet and instigate the (people) against him. She composed verses. Umayr Ibn Adi came to her in the night and entered her house. Her children were sleeping around her. There was one whom she was suckling. He searched her with his hand because he was blind, and separated the child from her. He thrust his sword in her chest till it pierced up to her back. Then he offered the morning prayers with the prophet at al-Medina. The apostle of Allah said to him: "Have you slain the daughter of Marwan?" He said: "Yes. Is there something more for me to do?" He [Muhammad] said: "No. Two goats will butt together about her. This was the word that was first heard from the apostle of Allah. The apostle of Allah called him 'Umayr, "basir" (the seeing). (**Ibn Sa'd, Vol. 2, p.31**)
 - 8. Don't Kill a Sick Person or Priest
 	- Hard to believe that when he executed every adult male of the surrendered Banu Qurayza, there were no clerics or sick person amongst them - especially after confronting the Muslims and knowing their fate of death.
 - 9. Don't Disfigure the Dead
 	- Right, just do it when they're alive. There are reports in Islamic scripture of Muhammad permitting execution via stoning, beheading and flogging, this certainly constitutes as disfiguring not just those alive, but to an extent the dead too, atleast in such cases as beheading and execution via stoning.
 	- "After Hamza [b. ‘Abd al-Muttalib] had been killed and mutilated, and the Prophet (s) had seen him and said, ‘Verily I will mutilate 70 of them for you’, the following was revealed: And if you retaliate, retaliate with the like of what you have been made to suffer; and yet if you endure patiently, [refraining] from revenge, verily that, namely, [that] enduring, is better for the patient. Thus the Prophet (s) refrained [from taking revenge] and made atonement for his oath, as reported by al-Bazzār." (**Tafseer al-Jalaalayn**)
+- 10. Don't Kill Animals except for Food
+	- http://sunnah.com/bukhari/28/9
+	- http://sunnah.com/bukhari/28/9
+	- http://sunnah.com/bukhari/59/120
+	- Mohammed killed dogs etc:
+		- "A'isha (Allah be pleased with her) reported Allah's Messenger (may peace be upon him) as saying: Five are the vicious beasts which should be killed even in the state of Ihram: scorpion, rat, kite, crow and voracious dog." [Sahih Muslim 7:2719](http://www.usc.edu/org/cmje/religious-texts/hadith/muslim/007-smt.php#007.2719)
 - 11. Treat Prisoners Well
-	- As already stated Muhammad permitted the mass execution of the adult men of the surrendered Banu Qurayza. Prisoners by the way can be ransomed and enslaved (as occurred to the women and children of the Banu Qurayza), neither which Muhammad prohibited and are illegal under the Geneva conventions and international law.
-	- They do not prohibit anything, they don't even say it is recommended, but only that it is not forbidden.
-	- They only care about treating the prisoners who take as slaves well. Others will be killed.
+	- Generic
+		- As already stated Muhammad permitted the mass execution of the adult men of the surrendered Banu Qurayza. Prisoners by the way can be ransomed and enslaved (as occurred to the women and children of the Banu Qurayza), neither which Muhammad prohibited and are illegal under the Geneva conventions and international law.
+		- They do not prohibit anything, they don't even say it is recommended, but only that it is not forbidden.
+		- They only care about treating the prisoners who take as slaves well. Others will be killed.
+	- Nadr ibn al-Harith was one of the few war captives who was beheaded almost immediately after the Battle of Badr:
+		- **Tafseer Ibn Kathir on Qur'an 8:31 and Qur'an 8:5** is as follows:
+			- "An-Nadr visited Persia and learned the stories of some Persian kings, such as Rustum and Isphandiyar. When he went back to Makkah, He found that the Prophet was reciting the ayats of Qur'an sent from God to the people. Whenever the Prophet would leave an audience in which An-Nadr was sitting, An-Nadr began narrating to them the stories that he learned in Persia, proclaiming afterwards, Who, by God, has better tales to narrate, I or Muhammad. When God allowed the Muslims to capture An-Nadr in Badr, the Messenger of God commanded that his head be cut off before him, and that was done, all thanks are due to God. " The meaning of,
+			  
+			  (. ..tales of the ancients) (**Tafseer Ibn Kathir on Qur'an 8:31**)	  
+	- 'Uqbah ibn Abu Mu'ayt was also beheaded, Muhammad tried to behead Abdullah ibn Abn Sarh as well
 - 12. Don't Enforce Islam
 	- "...And fight them until there is no fitnah and [until] the religion, all of it, is for Allah . And if they cease - then indeed, Allah is Seeing of what they do..." (**Qur'an 8:61**)
 	- "The Messenger of Allah said, (I was commanded to fight against the people until they proclaim, "There is no deity worthy of worship except Allah.' If and when they say it, they will preserve their blood and wealth from me, except for its right (Islamic penal code), and their reckoning is with Allah, the Exalted and Most Honored.)" (**Tafseer ibn Katheer on Qur'an 8:61**)
@@ -59,67 +99,8 @@
 > 
 > While other competing (more peaceful and tolerant) interpretations will similarly do the same with their 'peaceful' and 'tolerant' agenda.
 
-## Details (List 2)
-
-- 2. I made a post showing that muhammad allowed the killing of polytheist children and women, you can search it up.
-	- reddit.com/r/exmuslim/comments/4ir2rv/islam_on_killing_polytheist_women_and_children/
-	- Narrated As-Sab bin Jaththama: The Prophet passed by me at a place called Al-Abwa or Waddan, and was asked whether it was permissible to attack the pagan warriors at night with the probability of exposing their women and children to danger. The Prophet replied, "They (i.e. women and children) are from them (i.e. pagans)." I also heard the Prophet saying, "The institution of Hima is invalid except for Allah and His Apostle." **Sahih Bukhari 4:52:256**
-- 7. Don't Kill Women
-	- Duplicate of 2. (women and children)
-	- Muhammad allowed the killing of a blind disabled mother who criticised him
-	- He allowed the tearing apart of Jewish woman Umm Qirfa and many more.
-- 4. Muhammad ordered the homes of Muslims who don't pray be burnt.
-- 5. He had the Banu Qurayzah killed after they surrendered and had al-Nadir, a war captive killed.
-- 7. He had Asma bint Marwan and several female critics and poets killed.
-	- **'UMAYR B. 'ADIYY'S JOURNEY TO KILL 'ASMA' D. MARWAN**
-	  
-	  She was of B. Umayyya b. Zayd. When Abu 'Afak had been killed she displayed disaffection. 'Abdullah b. al-Harith b. Al-Fudayl from his father said that she was married to a man of B. Khatma called Yazid b. Zayd. Blaming Islam and its followers she said: I despise B. Malik and al-Nabit and 'Auf and B. al-Khazraj. You obey a stranger who is none of yours, one not of Murad or Madhhij. {1} Do you expect good from him after the killing of your chiefs like a hungry man waiting for a cook's broth? Is there no man of pride who would attack him by surprise and cut off the hopes of those who expect aught from him? Hassan b. Thabit answered her:
-	  
-	  Banu Wa'il and B. Waqif and Khatma are inferior to B. al-Khazrahj. When she called for folly woe to her in her weeping, for death is coming. She stirred up a man of glorious origin, noble in his going out and in his coming in. Before midnight he dyed her in her blood and incurred no guilt thereby. When the apostle heard what she had said he said, "Who will rid me of Marwan's daughter?" 'Umayr b. 'Adiy al-Khatmi who was with him heard him, and that very night he went to her house and killed her. In the morning he came to the apostle and told him what he had done and he [Muhammad] said, "You have helped God and His apostle, O 'Umayr!" When he asked if he would have to bear any evil consequences the apostle said, "Two goats won't butt their heads about her", so 'Umayr went back to his people. Now there was a great commotion among B. Khatma that day about the affair of bint [daughter of] Marwan. She had five sons, and when 'Umayr went to them from the apostle he said, "I have killed bint Marwan, O sons of Khatma. Withstand me if you can; don't keep me waiting." That was the first day Islam became powerful among B. Khatma; before that those who were Muslims concealed the fact. The first of them to accept Islam was 'Umayr b. 'Adiy who was called the "Reader", and 'Abdullah b. Aus and Khuzayma b. Thabit. The day after Bint Marwan was killed the men of B. Khatma became Muslims because they saw the power of Islam. {1} The note reads "Two tribes of Yamani origin." (**Ibn Ishaq:675**)
-	- Sariyyah Of 'Umayr Ibn 'Adi Then (occurred) the sariyyah of `Umayr ibn`Adi Ibn Kharashah al-Khatmi against 'Asma' Bint Marwan, of Banu Umayyah Ibn Zayd, when five nights had remained from the month of Ramadan, in the beginning of the nineteenth month from the hijrah of the apostle of Allah.'Asma' was the wife of Yazid Ibn Zayd Ibn Hisn al-Khatmi. She used to revile Islam, offend the prophet and instigate the (people) against him. She composed verses. Umayr Ibn Adi came to her in the night and entered her house. Her children were sleeping around her. There was one whom she was suckling. He searched her with his hand because he was blind, and separated the child from her. He thrust his sword in her chest till it pierced up to her back. Then he offered the morning prayers with the prophet at al-Medina. The apostle of Allah said to him: "Have you slain the daughter of Marwan?" He said: "Yes. Is there something more for me to do?" He [Muhammad] said: "No. Two goats will butt together about her. This was the word that was first heard from the apostle of Allah. The apostle of Allah called him 'Umayr, "basir" (the seeing). (**Ibn Sa'd, Vol. 2, p.31**)
-- 4. Destroying Religious Sites
-	- Destroyed a pagan religious site in yemen and forced them to convert: [http://sunnah.com/bukhari/64/383](http://sunnah.com/bukhari/64/383)
-	- Destroyed a yemen tribe called the northern ka'ba: [http://sunnah.com/muslim/44/195](http://sunnah.com/muslim/44/195)
-	- Demolishing of a church: [http://sunnah.com/nasai/8/14](http://sunnah.com/nasai/8/14)
-- 11. Killing war captives
-	- Nadr ibn al harith was one of the few war captives who was beheaded almost immediately after the battle of badr:
-		- Tafseer Ibn Kathir's on Qur'an 8:31 and Qur'an 8:5 is as follows:
-			- "An-Nadr visited Persia and learned the stories of some Persian kings, such as Rustum and Isphandiyar. When he went back to Makkah, He found that the Prophet was reciting the ayats of Qur'an sent from God to the people. Whenever the Prophet would leave an audience in which An-Nadr was sitting, An-Nadr began narrating to them the stories that he learned in Persia, proclaiming afterwards, Who, by God, has better tales to narrate, I or Muhammad. When God allowed the Muslims to capture An-Nadr in Badr, the Messenger of God commanded that his head be cut off before him, and that was done, all thanks are due to God. " The meaning of,
-			  
-			  (. ..tales of the ancients) (**Tafseer Ibn Kathir on Qur'an 8:31**)	  
-	- ‘Uqbah ibn Abū Mu‘ayṭ was also beheaded, muhammad tried to behead abdullah ibn abn sarh as well
-- 10. Allowing the killing of animals
-	- http://sunnah.com/bukhari/28/9
-	- http://sunnah.com/bukhari/28/9
-	- http://sunnah.com/bukhari/59/120
-
-## Details (List 3)
-- 3. Don't kill old people
-	- The old Jewish woman Umm Qirfa was cruelly killed by Mo after her tribe _surrendered_ (https://wikiislam.net/wiki/The_Story_of_Umm_Qirfa)
-- 4. Don't destroy a building
-	- Mohammed burned those who refused to show up for prayer alive in their homes, thus destroying the building in the process (http://www.usc.edu/org/cmje/religious-texts/hadith/bukhari/011-sbt.php#001.011.626)
-- 5. Don't kill those who surrendered, Don't kill a child
-	- The Banu Qurayza surrendered (https://wikiislam.net/wiki/The_Genocide_of_Banu_Qurayza) before they were massacred, incl. children who reached puberty (which is around 11 years old in Arabia)
-- 6. Don't kill who ran away
-	- A married man confesses to adultery. Muhammad orders him planted in the ground and pelted with stones. According to the passage, the first several stones caused such pain that he tried to _escape_ and was dragged back and killed. [Sahih Muslim (17:4196)](http://www.usc.edu/org/cmje/religious-texts/hadith/muslim/017-smt.php#017.4196)
-- 10. Don't kill an animal except for eating
-	- Mohammed killed dogs etc: "A'isha (Allah be pleased with her) reported Allah's Messenger (may peace be upon him) as saying: Five are the vicious beasts which should be killed even in the state of Ihram: scorpion, rat, kite, crow and voracious dog." [Sahih Muslim 7:2719](http://www.usc.edu/org/cmje/religious-texts/hadith/muslim/007-smt.php#007.2719)
-## Details (List 4)
-
-- 2. Don't kill children
-	- Keep them as slaves, but only rape the female ones.
-- 7. Don't kill women
-	- Instead keep them as slaves and force them to have sex with you
-	- After you probably killed her male relatives and took her away from her home.
-
 ## Details (List 5)
 
-- 1. Don't cut a tree
-	- He orders carpenters to fashion a wooden pulpit:
-		- Narrated Abu Hazim: Some men came to Sahl bin Sad to ask him about the pulpit. He replied, "Allah's Apostle sent for a woman (Sahl named her) (this message): 'Order your slave carpenter to make pieces of wood (i.e. a pulpit) for me so that I may sit on it while addressing the people.' So, she ordered him to make it from the tamarisk of the forest. He brought it to her and she sent it to Allah's Apostle . Allah's Apostle ordered it to be placed in the mosque: so, it was put and he sat on it. **Sahih Bukhari 3:34:307**
-- 2. Don't kill a child
-	- He stated that polytheist women and children are guilty as well and valid targets during war:
-		- Narrated As-Sab bin Jaththama: The Prophet passed by me at a place called Al-Abwa or Waddan, and was asked whether it was permissible to attack the pagan warriors at night with the probability of exposing their women and children to danger. The Prophet replied, "They (i.e. women and children) are from them (i.e. pagans)." I also heard the Prophet saying, "The institution of Hima is invalid except for Allah and His Apostle." **Sahih Bukhari 4:52:256**
 - 3. Don't kill old people
 	- When he slaughtered the Qurayza, everyone older than a child was murdered:
 		- The Messenger of Allah commanded that all of the Jewish men and boys who had reached puberty should be beheaded. Then the Prophet divided the wealth, wives, and children of the Banu Qurayza Jews among the Muslims. **Al-Tabari, Vol. 8, p. 38**
