@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -440,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md"
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
               }
             }
           },
@@ -536,10 +536,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4554afb8d997ad36",
+  "active": "6f10195e7941f43d",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Ferdinand de Saussure.md",
     "🗃️ Unorganized/General Notes/Malayalam Language.md",
+    "🗃️ Unorganized/General Notes/Tantras.md",
+    "🗃️ Unorganized/General Notes/Ferdinand de Saussure.md",
     "🗃️ Unorganized/General Notes/Malayalam Words.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
@@ -563,7 +564,6 @@
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
-    "🗃️ Unorganized/General Notes/Doublespeak.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
