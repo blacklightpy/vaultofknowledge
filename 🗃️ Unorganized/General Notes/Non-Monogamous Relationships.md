@@ -13,11 +13,20 @@
 		- However, dreams happen outside the bounds of knowledge
 		- Imagination too, happens outside the bounds of knowledge
 		- One achieves imagination by freeing them from the limits of knowledge
-		- That is, knowledge is the definitions stored within this reality
+		- That is, knowledge is the definitions stored within this physical reality
 		- Because of that reason, knowledge is limited by the physical space
 		- Knowledge helps, but it is not always enough
 		- One reason is that more knowledge takes up more space, to store and transfer
-		- Another reason is that knowledge itself has to be defined
+		- Another reason is that knowledge itself has to be defined, leaving more to yet define
+		- That is because all knowledge is not fully representable within the physical reality
+		- It is for the same reason that finer particles are more fluid than larger particles
+		- And in physical existence, there are always particles at different levels of existence
+		- That is, everything that is existent is composed of particles
+		- That is precisely what makes things physically existent
+
+- Motivation for Existence
+	- Existence is formed simply for the purpose of 
+
 - Body
 	- It is the boundary that defines an existent being and separates it from the world
 	- In case of existent beings, it refers to the boundary between one's 
