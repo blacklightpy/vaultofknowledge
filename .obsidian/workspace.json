@@ -333,12 +333,12 @@
             }
           },
           {
-            "id": "a9307afde089f58a",
+            "id": "a74ae003f9dfbbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -346,12 +346,12 @@
             }
           },
           {
-            "id": "a74ae003f9dfbbd4",
+            "id": "6f10195e7941f43d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -359,7 +359,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -427,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -444,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -456,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md"
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
               }
             }
           },
@@ -523,14 +523,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a9307afde089f58a",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗃️ Unorganized/General Notes/Readable Font Values.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Indian Classical Music.md",
     "🗃️ Unorganized/General Notes/List of Upanishads.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
@@ -539,18 +545,12 @@
     "🗃️ Unorganized/General Notes/Antisemitic Quotes from the Talmud Debunked.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "🗃️ Unorganized/General Notes/Movements to Re-Establish a Khilaafat.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Assassin.md",
     "🗃️ Unorganized/General Notes/Welding.md",
     "🗃️ Unorganized/General Notes/Cold Welding.md",
     "🗃️ Unorganized/General Notes/Crimping.md",
-    "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/Numbers.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Upanishads.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
