@@ -6,8 +6,10 @@ I'll only consider the Vedas and Geeta in this section.
 **Claim: "If she is not willing to give her body, he should buy her over; and if she is still unyielding, he should strike her with a stick or with the hand and proceed" - Brihadaranyaka Upanishad 6.4.7**
 
 **Truth:** This portion of the Upanishad is firstly a Smriti Ritual, which is not of value considering the essence of Advaita Vedanta. This is also described by Adi Shankara's commentary at the beginning of Brihadarnyaka Upanishad (didn't add here).
-
 ## Text from Kenneth Jaques Advaita Vedanta Philosophy Ashram
+
+**Text**: Shankara Bhashya of Brihadaranyaka Upanishad
+**Translated By**: Swami Madhavananda
 
 ### Section 4
 
@@ -51,3 +53,23 @@ I'll only consider the Vedas and Geeta in this section.
 > 
 > To be honourably married (including in the physical sense) would be essential for the good reputation of both husband, wife and their families. 
 
+## From "Shankara Bhashya of Brihadaranyaka Upanishad"
+
+**Text**: Shankara Bhashya of Brihadaranyaka Upanishad, with an introduction by Maha Maho Padhyaya Prof. S Kuppuswami Shastri
+**Translated By**: Swami Madhavananda
+
+> **Section 3.**
+> 
+> The results of meditation and rites have been stated. Of these, meditation is independent, but rites depend on both divine and human wealth. So for the sake of rites wealth must be acquired, and that in a harmless way. Hence for that purpose the ceremony called Mantha (paste) is being inculcated as a means to attaining greatness ; for if greatness is attained, wealth follows as a matter of course. So the text says : He who wishes to attain greatness, i.e. wants to be great. The reference is to one who desires wealth and is qualified for the performance of rites. The time for the ceremony of Mantha which is sought to be enjoined, is being stated: During the northward march of the sun. This covers a large extent of time, so it is being restricted to a fortnight in which the moon waxes, i.e. the bright fortnight. That too is a long period; hence, on an auspicious or favourable day, i.e. one calculated to bring success to one's undertaking. He should undertake for twelve days, counting back from the auspicious day on which he intends to perform the rites and including it, a vow connected with the Upasads.
+> 
+> These are well-known rites in connection with the Jyotistoma sacrifice, in which the sacrificer has to drink cow's milk according to the yield of an increasing and decreasing number of teats of the animals. But since those rites are not to be combined here, only the drinking of milk, without any restriction as to details, is meant.
+> 
+> Objection: If the compound in 'Upasad-vrata' is expounded so as to mean 'the vow that consists of the Upasads,' then all the details of procedure have to be observed. So why not observe them?
+> 
+> Reply: Because it is a ceremony according to the Smrti. This ceremony of Mantha is enjoined by the Smrti (and not the Sruti).
+> 
+> Objection: How can a ceremony that is enjoined by the Sruti be one in accordance with the Smrti?
+> 
+> Reply: The Sruti here is merely repeating the Smrti. Were it a Vedic ceremony, it would be related to the Jyotistoma sacrifice as a part is to a whole, and as such must conform to all the characteristics of the main sacrifice. But it is not a Vedic ceremony. For this reason it is also to be performed in the Avasathya (household) fire; and the entire procedure is to be in accordance with the Smrti. So the vow in question is that of living on milk.
+> 
+> Collect in a cup or bowl made of fig wood, in a vessel of this wood, whether shaped like a cup or a bowl — the option being with regard to the shape, and not the material, which must be fig wood — all herbs that are available and within one's means: The ten cultivated species such as rice and barley, to be enumerated later on, must be included ; there is no harm in having more. And their grains, as far as available and within one's means. The word 'iti' is suggestive of the collection of all the materials, that is to say, including all other things that are to be collected. The order of procedure should be understood to be in accordance with the Grhya1 Sutras. Sweep and plaster : These are cleaning the ground. Bring in the fire : It is implied that the sacrifice is to be performed in the Avasathya fire, for the word is in the singular, and there is mention of the fire being brought in, which is only possible of a fire that already exists.2 Spread the Kusa grass. Purify the offerings in the prescribed manner : Since the ceremony is in accordance with the Smrti, the manner referred to is that of the 'Sthalipaka.'3 Under a male constellation, one having a masculine name, associated with the auspicious, day. Interpose the Mantha : Having crushed all those herbs and grains, soaked them in curd, honey and clarified butter in that fig bowl, and rubbed them up with a rod, place the paste between himself and the fire. And offer oblations, with a fig ladle, in a part of the fire prescribed for this purpose, with the following Mantras, beginning with, 'O Fire, to all those gods,' etc.
