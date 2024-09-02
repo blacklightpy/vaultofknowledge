@@ -357,9 +357,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4554afb8d997ad36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -388,7 +401,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "advaita",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -427,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -444,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -456,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
+                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md"
               }
             }
           },
@@ -523,10 +536,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6f10195e7941f43d",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
+    "🗃️ Unorganized/General Notes/Malayalam Language.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
@@ -549,8 +564,6 @@
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Assassin.md",
     "🗃️ Unorganized/General Notes/Welding.md",
-    "🗃️ Unorganized/General Notes/Cold Welding.md",
-    "🗃️ Unorganized/General Notes/Crimping.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
