@@ -344,9 +344,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54f1c3a2c9655b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Islamic Rules on War.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -414,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Rules on War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Rules on War.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -443,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md"
+                "file": "🗃️ Unorganized/General Notes/Islamic Rules on War.md"
               }
             }
           },
@@ -510,8 +523,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "778f6839ee5c6d9a",
+  "active": "54f1c3a2c9655b9c",
   "lastOpenFiles": [
+    "_images/Claimed Rules of War in Islam.webp",
+    "🗃️ Unorganized/General Notes/Islamic Rules on War.md",
     "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/Religion.md",
     "🗃️ Unorganized/General Notes/Non-Monogamous Relationships.md",
@@ -536,8 +551,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
