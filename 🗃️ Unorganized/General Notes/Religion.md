@@ -17,11 +17,12 @@ It is questioned whether Brahman includes an aspect called Ishvara that creates 
 
 
 Darshana is a word that means perspectives.
-The Darshana that there is an Ishvara is called Dvaita Vaada Darshana, or dualist perspective.
+The Darshana that there is an Ishvara is called Dvaita Darshana, or dualist perspective.
 The Darshana of Dvaita is one of the Darshanas of the Darshana called Vedanta.
 Vedanta refers to the late philosophy known as the end or summary of the Vedas.
 
-Dvaita Vaada
+In Dvaita Darshana, people consider Brahman to be Saguna, or comprised of all attributes.
+
 
 According to Vaishnavas who follow Dvaita Vedanta, Krishna is the Ishvara.
 And Krishna creates Maya for the sake of his enjoyment, or Leela.

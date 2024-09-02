@@ -331,9 +331,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "778f6839ee5c6d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -401,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md",
+                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -418,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md",
+                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -430,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md"
+                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md"
               }
             }
           },
@@ -497,10 +510,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "778f6839ee5c6d9a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Non-Monogamous Relationships.md",
+    "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/Religion.md",
+    "🗃️ Unorganized/General Notes/Non-Monogamous Relationships.md",
     "🔮 World Building/Philosophy/Emotions.md",
     "🗃️ Unorganized/General Notes/The importance of vocabulary.md",
     "🗃️ Unorganized/General Notes/Malayalam Language.md",
@@ -524,7 +538,6 @@
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
-    "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
