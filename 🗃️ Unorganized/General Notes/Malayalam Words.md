@@ -1,7 +1,10 @@
-| Malayalam Word | Transliteration   | Sanskrit Transliteration | Meaning          |     |
-| -------------- | ----------------- | ------------------------ | ---------------- | --- |
-| ഷഡ്‌ദർശനങ്ങൾ   | Shad-Darshanangal | Sad-Darshanas            | Six Perspectives |     |
-| തത്വചിന്ത      | Tattva Chintha    | Tattva Chintha           | Philosophy       |     |
+| Malayalam Word | Transliteration   | Sanskrit Transliteration | Meaning          |
+| -------------- | ----------------- | ------------------------ | ---------------- |
+| ഷഡ്‌ദർശനങ്ങൾ   | Shad-Darshanangal | Sad-Darshanas            | Six Perspectives |
+| തത്വചിന്ത      | Tattva Chintha    | Tattva Chintha           | Philosophy       |
+| ലേഖനം          | Lekhanam          | Lekhan                   | Article          |
+| താൾ            | Thaal             |                          | Page             |
+| സംവാദം         | Samvaadam         |                          | Discuss          |
 
 # Core Concepts
 - ബ്രഹ്മം (Brahmam) (Brahm) (Universe)
@@ -28,7 +31,7 @@
 10. അചിന്ത്യഭേദാഭേദം - ബലദേവാചാര്യർ
 
 ##
-- (ഭൗതികവാദ)
+- ഭൗതികവാദ തത്വചിന്ത (Materialist Philosophy)
 
 - ലോകായതം കറകളഞ്ഞ ഭൗതികവാദമാണ്‌ എന്ന് പറയാം.
 - ആശയവാദമെന്ന നിലയിൽ ഉള്ള ദർശനങ്ങളെ മതാധിഷ്ഠിതത്വം, വിശുദ്ധഗ്രന്ഥവിശ്വാസം, അന്ധവിശ്വാസം എന്നിങ്ങനെ അതിന്റെ എല്ലാ അനുബന്ധങ്ങളോടു കൂടി നിരാകരിക്കുന്നു.
