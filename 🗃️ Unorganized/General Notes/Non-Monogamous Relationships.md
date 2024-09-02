@@ -6,7 +6,26 @@
 ## Motivations
 - Experience
 	- It is the quality of being alive and perceiving reality
+	- It may or may not necessitate the requirement of a body
+		- That is, co-existence requires the laws of physics to regulate boundaries
+		- In such a form of existence, the mind will have to be limited by knowledge
+		- And knowledge will have to be stored on a limited medium
+		- However, dreams happen outside the bounds of knowledge
+		- Imagination too, happens outside the bounds of knowledge
+		- One achieves imagination by freeing them from the limits of knowledge
+		- That is, knowledge is the definitions stored within this reality
+		- Because of that reason, knowledge is limited by the physical space
+		- Knowledge helps, but it is not always enough
+		- One reason is that more knowledge takes up more space, to store and transfer
+		- Another reason is that knowledge itself has to be defined
+- Body
+	- It is the boundary that defines an existent being and separates it from the world
+	- In case of existent beings, it refers to the boundary between one's 
+- Signalling System
+	- It is the aspect of an existent being's that lets it know what actions they must take
 - Sensory System
+	- It is the aspect of an existent being that
+- Feeling
 	- It is the 
 - Ego-Sense
 	- It is the element of individuality that makes one want to obtain enjoyable things for himself
@@ -15,9 +34,9 @@
 - Lust
 	- It is the type of desire that lets a person know what arouses their sexual systems
 - Curiosity
-	- It is the type of desire that makes a person want to try out new things
+	- It is the aspect of individuality that makes a person want to try out new things
 - Fear
-	- It is the type of desire that 
+	- It is the aspect of individuality that makes a person want to avoid trying out new things
 - Capital Acquisition
 	- It is when one acquires their elements of desire, which are of value to them
 - The Trophy Wife (or Partner)
