@@ -43,7 +43,7 @@ The White recensions have separate Brahmanas, while the Black ones have their (m
 #### Kanva Shakha
 - **Samhita**: Vajasneyi Samhita (Kanva) (VSK)
 - **Brahmana**: Shatapatha Brahmana (Kanva) (SBK)
-- **Aranyaka**: survives as book XVII of SBK
+- **Aranyaka**: Survives as book XVII of SBK
 - **Upanishad**: Brihadaranyaka Upanishad (SBK with accents), Ishavasya Upanishad (VSK 40)
 - **Shrauta Sutra**: 
 - **Griha Sutra**: 
