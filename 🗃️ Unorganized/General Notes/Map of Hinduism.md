@@ -48,6 +48,205 @@
 
 
 
+> All this is given in the book
+> 
+> [Hindu Dharma: : kamakoti.org](http://www.kamakoti.org/newlayout/template/hindudharma.html "www.kamakoti.org") by Chandrasekarendra Saraswati Swami(Paramacharya), of Kamakoti Peetham
+> 
+> and
+> 
+> [All About Hinduism](http://dlshq.org/download/hinduismbk.htm "dlshq.org") by Swami Sivananda
+> 
+>   
+> 1. Nyaya : Gautama Maharshi : Nyaya Sutra
+> 
+> 2. Vaiseshika : Kanada : Vaiseshika Sutra
+> 
+> 3. Samkhya : Kapila Maharishi : Samkhya Sutra
+> 
+> 4. Yoga : Patanjali : Yoga Sutra
+> 
+> 5. Purva-Mimamsa : Jaimini : Purva Mimamsa Sutra
+> 
+> 6. Uttara-Mimamsa : Vyasa : Vyasa sutra(brahma sutra/vedanta sutra)
+> 
+> These sutras are very terse, so people don't usually study them directly
+> 
+> there are Bhashyas and Vartikas written on them and in some cases the latter are more popular than the sutras themselves
+> 
+> Nyaya
+> 
+> Vatsyayana : bhasya  
+> Uddyotakara : vartika.  
+> Vacaspatimisra : Nyaya-vartika-tatparya-tika  
+> Udayanacarya : Tatparya-tika-parisuddhi and Nyaya-kusumanjali  
+> Jayanta : Nyaya-manjari  
+> Annambhatta : Tarka-samgraha, Dipika.
+> 
+> Usually students of Nyaya start with the last-mentioned two works.
+> 
+> Vaisheshika
+> 
+> Ravana-bhasya, is no longer available.  
+> Prasastapada : Padartha-dharma-samgraha  
+> Udayana has commented on it.  
+> Uttamur Sri Viraraghavacariyar : Vaisesika-rasayana
+> 
+> Samkhya
+> 
+> Isvarakrsna : Sankhya karika  
+> Vijnanabhiksu : Sankhya-sutra.
+> 
+> Yoga
+> 
+> Yoga Bhashya : Patanjali
+> 
+> Purva-Mimamsa
+> 
+> Sabara : Sabaram  
+> commentaries on both Jaimini-Sutras and Sabaram by  
+> Kumarila Bhatta  
+> Prabhakara Mishra.
+> 
+> Uttara-Mimamsa
+> 
+> Sri Sankara  
+> Ramanuja  
+> Madhva  
+> Nimbarka  
+> Vallabha  
+> Bhaskara  
+> Yadavaprakasa  
+> Kesava  
+> Nilakantha  
+> Baladeva  
+> Vijnana Bhikshu
+> 
+> Too much isnt it .... I don't think you can study all of them ...
+> 
+> and again Yoga and Vedanta are quite popular , and our sages of modern times have written lot of books on them ... like Swami Vivekananda wrote vartika on Patanjali Yoga sutras ...
+> 
+> for books on yoga and Vedanta you have to check out the works of  
+> Swami Vivekananda  
+> Swami Sivananda  
+> Swami Chinmayananda  
+> Aurobindo Ghosh
+
+From Link 2 above:
+> CONTENTS
+> 
+> PUBLISHERS’ NOTE
+> THE UNIVERSAL PRAYERS
+> HINDU RELIGION
+> 	Purpose Of Religion
+> 	Distinguishing Features Of Hinduism
+> 	The Glory Of Vedanta And Yoga
+> 	Emphasis On Practice
+> 	Who Is A Hindu
+> 	Origin And Significance Of The Term
+> 	The Spiritual Soil Of India
+> 	The Facts Of History
+> 	Reasons For Survival Of The Hindu Religion
+> 	Its Future
+> HINDU SCRIPTURES
+> 	Sanskrit Literature
+> 	The Scriptures
+> 	The Secular Writings
+> 	Conclusion
+> HINDU DHARMA
+> 	Definition Of Dharma
+> 	The Sole Authority Of The Vedas
+> 	The Changing Dharma
+> 	Dharma In Other Religions
+> 	Benefits Of The Practice Of Dharma
+> 	Kinds Of Dharma
+> 	Sanatana Dharma
+> 	Samanya Dharma
+> 	Varnasrama Dharma
+> 	Yuga Dharma
+> 	Conclusion
+> HINDU ETHICS
+> 	Conduct And Character
+> 	Ethics Or The Science Of Conduct
+> 	Ethics, Spirituality And Religion
+> 	Benefits Of The Practice Of Ethics
+> 	Ethical Codes In Hinduism
+> 	The Foundational Principles Of Hindu Ethics
+> 	Service As Worship
+> 	Ethical Culture Or The Process Of Purification
+> 	Philosophy Of Right And Wrong
+> 	Yogic Gardening
+> 	Conclusion
+> HINDU TENETS
+> 	The Law Of Karma
+> 	The Doctrine Of Reincarnation
+> 	The Concept Of Avatara
+> HINDU RITUALS
+> 	Sandhyopasana
+> 	The Ten Scriptural Samskaras
+> 	The Pancha Mahayajnas
+> 	Sraaddha And Tarpana
+> 	Pitripaksha And Mahalaya Amavasya
+> 	Navaratri Or The Nine-Day Worship Of Devi
+> HINDU WORSHIP
+> 	Worship Or Upasana
+> 	Benefits Of Worship
+> 	Saguna-Upasana And Nirguna-Upasana
+> 	The Bhavas In Bhakti Yoga
+> 	Puja And Ishta-Devata
+> 	The Philosophy And Significance Of Idol-Worship
+> 	From Ritualistic Bhakti To Para-Bhakti
+> 	The Glory Of Hindu Philosophy And Hindu Mode Of Worship
+> 	Conclusion
+> HINDU YOGA
+> 	The Four Paths
+> 	Karma Yoga
+> 	Bhakti Yoga
+> 	Raja Yoga
+> 	Jnana Yoga
+> 	The Yoga Of Synthesis
+> HINDU THEOLOGY
+> 	Theological Classifications
+> 	The Vaishnavas
+> 	The Saivas
+> 	The Saktas
+> 	Miscellaneous
+> 	The Arya Samajists And The Brahma Samajists
+> 	Sadhus And Sannyasins
+> HINDU MYTHOLOGY AND SYMBOLS
+> 	Hindu Mythology
+> 	Hindu Symbols
+> 	Conclusion
+> HINDU PHILOSOPHY–I
+> 	Philosophy–Its Origin And Its Limitations
+> 	The Orthodox And The Heterodox Systems Of Indian Philosophy
+> 	The Shad-Darsanas Or The Six Orthodox Schools
+> 	The Nyaya
+> 	The Vaiseshika
+> 	The Sankhya
+> 	The Yoga
+> 	The Purva Mimamsa
+> 	The Vedanta Philosophy
+> HINDU PHILOSOPHY–II
+> 	Introduction
+> 	The Advaita Philosophy Of Sri Sankara
+> 	The Visishtadvaita Philosophy Of Sri Ramanuja
+> 	The Dvaita Philosophy Of Sri Madhvacharya
+> 	The Dvaitadvaita Philosophy Of Sri Nimbarka
+> 	The Suddhadvaita Philosophy Of Sri Vallabha
+> 	The Achintya Bhedabheda Philosophy Of Sri Chaitanya
+> HINDU PHILOSOPHY–III
+> 	The Saiva Siddhanta Philosophy
+> 	The Sakti Yoga Philosophy
+> EPILOGUE
+> 	Unity–The Need Of The Hour
+> 	Who Is Qualified To Serve Religion Efficiently
+> 	Education And Nation-Building
+> 	Call For Consolidation Of The Nation
+> APPENDIX
+> 	I. The Siva-Linga
+> 	II. Indian Culture Based On The Bhagavad-Gita~
+> 
+
 > **SYNOPSIS OF SANSKRIT HINDU LITERATURE**
 > 
 > 1. VEDAS — 1. Rig-veda 2. Sāma-veda 3. Yajur veda - Black and White, 4. Atharva-veda
@@ -172,3 +371,139 @@
 > 24. Yajurveda: 1975
 > 25. Samaveda: 1875
 
+
+> **Schools in Hinduism**
+> 
+> Advaita is one of the 9 schools of Vedānta.
+> 
+> ![](https://qph.cf2.quoracdn.net/main-qimg-962a04996251503ccd47fb29485ff23f-pjlq)
+> 
+> All these 9 schools adhere to three primary epistemic sources known as Prasthāna-Trayī i.e.
+> 
+> 1. Upaṇiṣads
+> 2. Bhagavad Gīta
+> 3. Brahmā-sūtras - the commentaries of which are shown in the right hand column.
+> 
+> In addition to these schools there are many more with various positions on the Advaita (non-duality) and Dvaita (Duality) philosophical spectrum.
+> 
+> These are the traditional sects.
+> 
+> ![](https://qph.cf2.quoracdn.net/main-qimg-23757b1d8f5578bfc4a7da2d6511edd4)
+> 
+> MODERN HINDU MOVEMENTS
+> 
+> Advait Mat
+> 
+> - ·Divine Light Mission
+> 
+> American Meditation Institute
+> 
+> Ananda (Ananda Yoga)
+> 
+> Ananda Ashrama
+> 
+> Ananda Marga
+> 
+> Art of Living Foundation
+> 
+> Arya Samaj
+> 
+> Ayyavazhi
+> 
+> Brahma Kumaris
+> 
+> Brahmoism (Brahmo Samaj)
+> 
+> - Adi Dharm
+> - Sadharan Brahmo Samaj
+> 
+> Chinmaya Mission
+> 
+> Datta Yoga
+> 
+> Divine Life Society
+> 
+> Hanuman Foundation
+> 
+> Himalayan Institute of Yoga Science and Philosophy
+> 
+> International Vedanta Society
+> 
+> Isha Foundation
+> 
+> Kriya Yoga Centers
+> 
+> Mahima Dharma
+> 
+> Mata Amritanandamayi Math
+> 
+> Matua Mahasangha
+> 
+> Meivazhi
+> 
+> Narayana Dharma
+> 
+> Oneness Movement
+> 
+> Prarthana Samaj (defunct)
+> 
+> Radha Soami
+> 
+> - Radha Soami Satsang Beas
+> - Radha Soami Satsang Sabha
+> - Science of Spirituality (a.k.a. Sawan Kirpal Ruhani Mission)
+> 
+> Ramakrishna Mission / Ramakrishna Math (a.k.a. Vedanta Society)
+> 
+> Ravidassia
+> 
+> Sahaja Yoga
+> 
+> Sathya Sai Baba movement
+> 
+> Satsang
+> 
+> Satya Dharma
+> 
+> Self-Realization Fellowship / Yogoda Satsanga
+> 
+> Shri Ram Chandra Mission
+> 
+> Shree Shree Anandamayee Sangha
+> 
+> Siddha Yoga
+> 
+> Sivananda Yoga Vedanta Centres
+> 
+> Sri Aurobindo Ashram
+> 
+> Sri Chinmoy Centres
+> 
+> Sri Ramana Ashram
+> 
+> - Society of Abidance in Truth
+> 
+> Swadhyay Parivar
+> 
+> Transcendental Meditation
+> 
+> Hindutva Movement
+> 
+> Akhil Bharat Hindu Mahasabha
+> 
+> Hindu Janajagruti Samiti
+> 
+> - Sanatan Sanstha
+> 
+> Hindu Munnani
+> 
+> Shiv Sena
+> 
+> Hindu Rashtra Sena
+> 
+> Hindu Yuva Vahini
+> 
+> Rashtriya Swayamsevak Sangh (a.k.a. Sangh Parivar)
+> 
+> - Hindu Jagran Manch
+> - Vishva Hindu Parishad
