@@ -16,10 +16,15 @@
 		- "The Muslims must not befriend the disbelievers, in preference over the Muslims; whoever does that has no connection whatsoever with Allah, except if you fear them; Allah warns you of His wrath; and towards Allah only is the return."
 	- Tafseer ibn Katheer 3:28
 		- "... (unless you indeed fear a danger from them) meaning, except those believers who in some areas or times fear for their safety from the disbelievers. In this case, such believers are allowed to show friendship to the disbelievers outwardly, but never inwardly. For instance, Al-Bukhari recorded that Abu Ad-Darda' said, "We smile in the face of some people although our hearts curse them.'' Al-Bukhari said that Al-Hasan said, "The Tuqyah is allowed until the Day of Resurrection.'' ..."
+	- Tafseer al-Tabar 3:28 (to verify)
+		- "If you [Muslims] are under their [infidels'] authority, fearing for yourselves, behave loyally to them, with your tongue, while harbouring inner animosity for them... Allah has forbidden believers from being friendly or on intimate terms with the infidels in place of believers – except when infidels are above them [in authority]. In such a scenario, let them act friendly towards them."
 	- Qur'an 16:106
+		- 
 - ~~Hiyal~~
 	- I believe this is actually forbidden in Islaam, according to most sources.
 	- Disobey rulers who go against God (Qur'an 4:29)
+		- Saheeh Muslims 1844a
+	- Hiding his faith in front of Pharaoh (Qur'an 40:28)
 - ~~Darura~~
 	- It is a positive thing that lets people do Haram out of necessity
 	- Like eating Pork (2:173 and 5:3)
@@ -50,8 +55,7 @@ Muslims who must choose between either recanting Islam or being harmed are not o
  The primary Quranic verse sanctioning deception with respect to non-Muslims states: "Let believers not take for friends and allies infidels instead of believers. Whoever does this shall have no relationship left with Allah – unless you but guard yourselves against them, taking precautions." (Quran 3:28; see also 2:173; 2:185; 4:29; 22:78; 40:28.)
  
  Al-Tabari's (838-923 AD) Tafsir, or Quranic exegeses, is essentially a standard reference in the entire Muslim world. Regarding 3:28, he wrote: "If you [Muslims] are under their [infidels'] authority, fearing for yourselves, behave loyally to them, with your tongue, while harbouring inner animosity for them... Allah has forbidden believers from being friendly or on intimate terms with the infidels in place of believers – except when infidels are above them [in authority]. In such a scenario, let them act friendly towards them."
- 
- Regarding 3:28, the Islamic scholar Ibn Kathir (1301-1373) wrote: "Whoever at any time or place fears their [infidels'] evil, may protect himself through outward show."
+
  
  None of this should be surprising considering that Muhammad himself, whose example as the "most perfect human" is to be tenaciously followed, took an expedient view on the issue of deception. For instance, Muhammad permitted deceit in three situations: to reconcile two or more quarreling parties; husband to wife and vice-versa; and in war (See Sahih Muslim B32N6303, deemed an "authentic" hadith).
  

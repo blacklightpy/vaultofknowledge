@@ -388,7 +388,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hiyal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -410,7 +410,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -522,7 +523,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "34dd262989560190",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
