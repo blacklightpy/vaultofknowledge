@@ -1,0 +1,3 @@
+- Jews killed Canaanites
+	- Their lore has it that God was impartial to all of th
+	- First Adonai sent the Yitzak and
