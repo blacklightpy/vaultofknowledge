@@ -17,14 +17,13 @@
 	- Tafseer ibn Katheer 3:28
 		- "... (unless you indeed fear a danger from them) meaning, except those believers who in some areas or times fear for their safety from the disbelievers. In this case, such believers are allowed to show friendship to the disbelievers outwardly, but never inwardly. For instance, Al-Bukhari recorded that Abu Ad-Darda' said, "We smile in the face of some people although our hearts curse them.'' Al-Bukhari said that Al-Hasan said, "The Tuqyah is allowed until the Day of Resurrection.'' ..."
 	- Qur'an 16:106
-	- Qur'an 4:29 (to verify)
-	- **Al-Taqiyya Fi Al-Islam** (Authoritative Text?)
-		- "Taqiyya (deception) is of fundamental importance in Islam. Practically every Islamic sect agrees to it and practices it. We can go so far as to say that the practice of taqiyya is mainstream in Islam, and that those few sects not practicing it diverge from the mainstream...Taqiyya is very prevalent in Islamic politics, especially in the modern era."
 - ~~Hiyal~~
 	- I believe this is actually forbidden in Islaam, according to most sources.
+	- Disobey rulers who go against God (Qur'an 4:29)
 - ~~Darura~~
 	- It is a positive thing that lets people do Haram out of necessity
 	- Like eating Pork (2:173 and 5:3)
+	- Avoiding fast if sick (2:185)
 
 >
 >The technical meaning of the term _taqiyya_ is thought [_[by whom?](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions "Wikipedia:Manual of Style/Words to watch")_] to be derived from the [Quranic](https://en.wikipedia.org/wiki/Quran "Quran") reference to religious dissimulation in [Sura 3](https://en.wikipedia.org/wiki/Sura_3 "Sura 3"):28:
@@ -42,16 +41,11 @@
 ## Random read (to verify and pick citations)
 Islam employs 9 types of deceptions to destroy non-Muslims: Taqiya, Hiyal, Adab al jadal, dawah, kitman, tafsir, darura, and muruna. According to sharia, in certain situations, deception – also known as 'taqiyya', based on Quranic terminology, – is not only permitted but sometimes obligatory.
 
-The sole function of the "peace-treaty" (hudna) is to buy weakened Muslims time to regroup for a renewed offensive (see for a latest example of such treaty Minsk between Christian NATO and Orthodox Russia only to strengthen Ukraine's military to destroy Russia to steel her natural resources; Former German Chancellor Merkel admits the Minsk agreement was merely to buy time for Ukraine’s arms build-up).
+
 
 Muhammad is quoted in the Hadith saying: "If I take an oath and later find something else better, I do what is better and break my oath (see Sahih Bukhari V7B67N427)."
 
 Muslims who must choose between either recanting Islam or being harmed are not only permitted to lie by pretending to have apostatised, but many jurists have decreed that, according to Quran 4:29, Muslims are obligated to lie in such instances.
-
-According to the authoritative Arabic text, Al-Taqiyya Fi Al-Islam: "Taqiyya [deception] is of fundamental importance in Islam. Practically every Islamic sect agrees to it and practices it. We can go so far as to say that the practice of taqiyya is mainstream in Islam, and that those few sects not practicing it diverge from the mainstream...Taqiyya is very prevalent in Islamic politics, especially in the modern era."
-
-The primary Quranic verse sanctioning deception with respect to non-Muslims states: "Let believers not take for friends and allies infidels instead of believers. Whoever does this shall have no relationship left with Allah – unless you but guard yourselves against them, taking precautions." (Quran 3:28; see also 2:173; 2:185; 4:29; 22:78; 40:28.)
-
 
  The primary Quranic verse sanctioning deception with respect to non-Muslims states: "Let believers not take for friends and allies infidels instead of believers. Whoever does this shall have no relationship left with Allah – unless you but guard yourselves against them, taking precautions." (Quran 3:28; see also 2:173; 2:185; 4:29; 22:78; 40:28.)
  
