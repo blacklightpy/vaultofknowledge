@@ -375,7 +375,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "murun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -397,8 +397,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -510,7 +509,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "778f6839ee5c6d9a",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Islamic Rules on War.md",
     "_images/Claimed Rules of War in Islam.webp",
