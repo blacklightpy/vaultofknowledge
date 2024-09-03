@@ -1,3 +1,12 @@
 - Jews killed Canaanites
-	- Their lore has it that God was impartial to all of th
-	- First Adonai sent the Yitzak and
+	- Their lore has it that God was impartial to all of them
+	- First Adonai sent the Yitzak and his sons to Egypt
+		- Adonai made a promise to Abraham, that he will make a great nation of his lineage through his son Yitzak
+		- Sarah made Abraham sent Hagar and her son Ishmael away
+		- Adonai told Abraham that he does not have to worry about Hagar
+		- Adonai told Hagar that he will make a great nation of her son Ishmael's lineage
+		- Adonai tested Abraham to verify his devotion by asking him to sacrifice his son, Yitzak
+		- Adonai told him
+		- Yosef had a dream
+		- Yosef was sold by his brothers to the Ishmaelites (Genesis 37:25)
+		- 
