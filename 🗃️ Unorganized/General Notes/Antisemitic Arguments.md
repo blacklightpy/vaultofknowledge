@@ -14,8 +14,8 @@
 		- Esau married Hittite women, and Yosef and Rebekah hated them
 		- Yitzak liked Esau, but Rebekah liked Yosef
 		- Yosef deceived Esau and Yitzak, and stole Esau's birth right and his blessings
-		- Rebekah asked Yosef to escape
-		- Esau married women from the lineage of Ishmael
+		- Rebekah asked Yosef to escape, and Yaakov told him to avoid marrying Canaanites
+		- Esau, knowing his father hated Canaanties, married women from the lineage of Ishmael
 		- Yosef had a dream
 		- Yosef was sold by his brothers to the Ishmaelites (Genesis 37:25)
 		- 
