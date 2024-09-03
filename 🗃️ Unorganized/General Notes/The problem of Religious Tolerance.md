@@ -30,4 +30,4 @@ If they are not just lying strategically, they too should be killed.
 
 But we are not telling you that we will have to kill you.
 Our philosophy does contains that we are supposed to kill you.
-But our philosophy 
+But our philosophy is something that we share among ourselves.
