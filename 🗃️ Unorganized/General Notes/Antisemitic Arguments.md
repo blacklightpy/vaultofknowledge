@@ -22,9 +22,16 @@
 		- Laban let Yaakov marry Rachel the next week in exchange for another seven years of work
 		- Yaakov thus marries Leah and Rachel
 			- This was before the Mosaic law
-		- Yaakov is betrayed by Laban
+		- Yaakov had twelve sons
+		- Yaakov returned to his fatherland
+		- Yaakov fought God, and he was touched at his thigh socket
+		- Yaakov was named by God as Yisra'El, because he struggled with God
+		- Yaakov was welcomed by Essau, who held no enmities
 		- Shechem son of Hamor raped Dinah the daughter of Yaakov, and wanted to marry her
 		- Yaakov's sons betrayed the Shechemites to kill them all
-		- Yoseif had a dream that he will rule his brothers
+		- Yoseif had a dream that everyone will bow to him
 		- Yoseif was sold by his brothers to the Ishmaelites (Genesis 37:25)
+		- Yoseif was bought by the Egyptians
+		- Yoseif was falsely accused by his master's wife because he did not sleep with her
+		- Because of Yoseif's ability to interpret dreams, he was made in charge of Egypt
 		- 
