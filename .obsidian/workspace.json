@@ -344,9 +344,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "926b822aad5e0775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -414,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -443,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md"
+                "file": "🗃️ Unorganized/General Notes/Massacres of Jews.md"
               }
             }
           },
@@ -510,11 +523,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "926b822aad5e0775",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Massacres claimed by Palestinians.md",
+    "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/Islamic Rules on War.md",
     "_images/Claimed Rules of War in Islam.webp",
-    "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/Religion.md",
     "🗃️ Unorganized/General Notes/Non-Monogamous Relationships.md",
     "🔮 World Building/Philosophy/Emotions.md",
