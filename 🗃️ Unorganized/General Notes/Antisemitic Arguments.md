@@ -34,4 +34,7 @@
 		- Yoseif was bought by the Egyptians
 		- Yoseif was falsely accused by his master's wife because he did not sleep with her
 		- Because of Yoseif's ability to interpret dreams, he was made in charge of Egypt
-		- 
+		- Yoseif pranked his brothers, but then allied with them
+		- Yoseif's brothers and Yaakov went to Egypt
+		- Yoseif made all of them sell themselves and their possessions to the Pharaoh during a famine
+		- They were made to live 215 years in exile
