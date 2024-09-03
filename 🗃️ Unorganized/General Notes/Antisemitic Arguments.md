@@ -10,12 +10,17 @@
 		- Abraham told his servant to get his son a wife, but only from his father's clan, if he can
 		- Abraham's servant found Rebekah
 			- Rebekah was not 3, because she was found fetching water
-		- Yitzak and Rebekah had two sons - Esau and Yosef
+		- Yitzak and Rebekah had two sons - Esau and Yaakov
 		- Esau married Hittite women, and Yosef and Rebekah hated them
-		- Yitzak liked Esau, but Rebekah liked Yosef
-		- Yosef deceived Esau and Yitzak, and stole Esau's birth right and his blessings
-		- Rebekah asked Yosef to escape, and Yaakov told him to avoid marrying Canaanites
+		- Yitzak liked Esau, but Rebekah liked Yaakov
+		- Yaakov deceived Esau and Yitzak, and stole Esau's birth right and his blessings
+		- Rebekah asked Yaakov to escape to his uncle Laban, and Yaakov told him to avoid marrying Canaanites
 		- Esau, knowing his father hated Canaanties, married women from the lineage of Ishmael
-		- Yosef had a dream
-		- Yosef was sold by his brothers to the Ishmaelites (Genesis 37:25)
+		- Yaakov marries Leah and Rachel
+			- This was before the Mosaic law
+		- Yaakov is betrayed by Laban
+		- Shechem son of Hamor raped Dinah the daughter of Yaakov, and wanted to marry her
+		- Yaakov's sons betrayed the Shechemites to kill them all
+		- Yoseif had a dream that he will rule his brothers
+		- Yoseif was sold by his brothers to the Ishmaelites (Genesis 37:25)
 		- 
