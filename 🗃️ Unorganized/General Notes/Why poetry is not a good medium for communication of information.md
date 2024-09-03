@@ -33,7 +33,14 @@ The proper understanding would be that God is the source of power, but power doe
 Power as experienced in this world refers to strength to make an action.
 However, God is understood as the creator of actions, who set all actions into flow.
 And since God does not actively monitor the world, power is an irrelevant quality for God.
-But rather, God would have set power to appear in the hands of whoever 
+But rather, God would have set power to appear in the hands of whoever deserves it at the right time.
 
-In that way, God has given power in the hands of the tyrants.
-And he has also given the power in our hands, for when we have the resolve to fight them.
+In that way, God has put power in the hands of the tyrants.
+But God has also given us our liberties, which we will have to choose to abide by the truth.
+And God has also put power in our hands, for when we have the resolve to fight them.
+## Why must we fight?
+But why should we fight, rather than choose be killed if that's what's destined for us?
+Well of course, if something is destined for us, we do not have a choice in the matter.
+However, I was talking about the morality of such a destiny.
+The reason here is the liberties that have been given to us.
+When a tyrant comes to take away one's liberties, one must fight him.
