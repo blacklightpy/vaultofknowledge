@@ -38,3 +38,4 @@
 		- Yoseif's brothers and Yaakov went to Egypt
 		- Yoseif made all of them sell themselves and their possessions to the Pharaoh during a famine
 		- They were made to live 215 years in exile
+	- It is in this two years of exile that Adonai gave an ultimatum to the Canaanites
