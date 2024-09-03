@@ -9,7 +9,13 @@
 		- Adonai told him that he will make a great nation of his son
 		- Abraham told his servant to get his son a wife, but only from his father's clan, if he can
 		- Abraham's servant found Rebekah
-		- Yitzak and Rebekah had twelve children
+			- Rebekah was not 3, because she was found fetching water
+		- Yitzak and Rebekah had two sons - Esau and Yosef
+		- Esau married Hittite women, and Yosef and Rebekah hated them
+		- Yitzak liked Esau, but Rebekah liked Yosef
+		- Yosef deceived Esau and Yitzak, and stole Esau's birth right and his blessings
+		- Rebekah asked Yosef to escape
+		- Esau married women from the lineage of Ishmael
 		- Yosef had a dream
 		- Yosef was sold by his brothers to the Ishmaelites (Genesis 37:25)
 		- 
