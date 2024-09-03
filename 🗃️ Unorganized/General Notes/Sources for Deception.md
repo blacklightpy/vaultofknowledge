@@ -2,13 +2,16 @@
 - Tawriyya
 - Muruna
 - Taqiyya
+	- Etymology
+		- In the verse 3:28, there is a word that was written in the Uthmani script as تقىة. Most versions (like Hafs and Warsh) read it as تقاة (_tuqaat_), however one version (by Ya'qub al-Yamani) uses the word taqiya (تقية):
+	- Qur'an 3:28
+		- "The Muslims must not befriend the disbelievers, in preference over the Muslims; whoever does that has no connection whatsoever with Allah, except if you fear them; Allah warns you of His wrath; and towards Allah only is the return."
+	- Tafseer ibn Katheer 3:28
+		- "... (unless you indeed fear a danger from them) meaning, except those believers who in some areas or times fear for their safety from the disbelievers. In this case, such believers are allowed to show friendship to the disbelievers outwardly, but never inwardly. For instance, Al-Bukhari recorded that Abu Ad-Darda' said, "We smile in the face of some people although our hearts curse them.'' Al-Bukhari said that Al-Hasan said, "The Tuqyah is allowed until the Day of Resurrection.'' ..."
+	- Qur'an 16:106
 	- Qur'an 4:29 (to verify)
 	- **Al-Taqiyya Fi Al-Islam** (Authoritative Text?)
 		- "Taqiyya (deception) is of fundamental importance in Islam. Practically every Islamic sect agrees to it and practices it. We can go so far as to say that the practice of taqiyya is mainstream in Islam, and that those few sects not practicing it diverge from the mainstream...Taqiyya is very prevalent in Islamic politics, especially in the modern era."
-	- Qur'an 3:28
-		- The Muslims must not befriend the disbelievers, in preference over the Muslims; whoever does that has no connection whatsoever with Allah, except if you fear them; Allah warns you of His wrath; and towards Allah only is the return.
-	- Tafseer ibn Katheer 3:28
-		- 
 - Hiyal
 - Darura
 
