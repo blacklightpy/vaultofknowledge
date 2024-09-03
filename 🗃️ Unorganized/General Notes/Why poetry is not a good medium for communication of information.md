@@ -14,11 +14,11 @@ Also for this reason, those who find meaning from poetry are those who fall for 
 And in case of hate incitement, this is not even a matter of intellect, but simply one of morality.
 Improper use of intellect may cause a person to believe that certain arbitrary patterns have deep meaning.
 However, to cause a person to hate someone, the person himself should have the roots of hate in him.
-
+## They are still not evil
 But even this doesn't mean that such a person is evil.
 For example, one may hate womanizers because they think monogamy is bad.
 But that is according to their culture, and people of other cultures may be living under different frameworks.
-This is of the same idea that, the right means used by the wrong person will work in wrong ways.
+This is of the same idea that, the right means when used by the wrong person will work in the wrong ways.
 To give another example, a Jew may think that all polytheists sacrifice their babies to idols.
 However, he may end up seeing a polytheist community that does not have any such rituals.
 By this observation, the Jew will then be able to know that polytheism and sacrifice are two separate ideas.
