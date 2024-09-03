@@ -19,7 +19,9 @@ This will make you think that we are just ordinary people like them.
 This way, we can make them join us, after which, they cannot leave alive.
 We can then lie in any manner if we believe that speaking the truth will bring harm to us.
 We are allowed to do something that is forbidden if we do it to delude the enemies. (need cite)
-We are allowed to 
+We are allowed to break the law during war, if it is to achieve victory. (need cite)
+That is, our rules on war only relate to treatment of the spoils of war.
+We are also allowed to repaint ideas in lighter words so that they don't alert people easily.
 
 There are some who think that they are among us but are not.
 They will say that we do not wish to kill those who do not join us.
@@ -27,4 +29,5 @@ But they are disbelievers who follow their humanity instead.
 If they are not just lying strategically, they too should be killed.
 
 But we are not telling you that we will have to kill you.
-Our philosophy contains that we are supposed to kill you.
+Our philosophy does contains that we are supposed to kill you.
+But our philosophy 
