@@ -16,7 +16,11 @@
 		- Yaakov deceived Esau and Yitzak, and stole Esau's birth right and his blessings
 		- Rebekah asked Yaakov to escape to his uncle Laban, and Yaakov told him to avoid marrying Canaanites
 		- Esau, knowing his father hated Canaanties, married women from the lineage of Ishmael
-		- Yaakov marries Leah and Rachel
+		- Laban made Yaakov work for him for seven years to marry Rachel
+		- Laban tricked Yaakov to sleeping with Leah, and thus marrying her
+			- Because it was his custom to marry the older daughter first
+		- Laban let Yaakov marry Rachel the next week in exchange for another seven years of work
+		- Yaakov thus marries Leah and Rachel
 			- This was before the Mosaic law
 		- Yaakov is betrayed by Laban
 		- Shechem son of Hamor raped Dinah the daughter of Yaakov, and wanted to marry her
