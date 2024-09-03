@@ -9,4 +9,6 @@ For this reason, humans who do not make use of their discerning intellectual cap
 
 The most visible form of corruption begins in the childhood, where one develops love for his family, friends or clan, and sees them as superior relative to others, effectively seeing them as of lesser value. This is again, because of their desire to ascribe their superiority relative to others, without realizing that others are just like them. This non-realization itself is one of the aforementioned incomplete life experiences that cause corruption.
 
-Generally, one is likely to hold the most love for his family, then with their intimate partners, then for their friends, and from there it begins to fall off.
+Generally, one is likely to hold the most love for his family, then with their intimate partners, then for their close friends, and from there it begins to fall off. For this reason, it is very easy to make someone hate people who are far from oneself, than those who are close to them.
+
+For this reason, the 
