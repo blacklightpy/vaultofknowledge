@@ -7,7 +7,9 @@
 		- Adonai told Hagar that he will make a great nation of her son Ishmael's lineage
 		- Adonai tested Abraham to verify his devotion by asking him to sacrifice his son, Yitzak
 		- Adonai told him that he will make a great nation of his son
-		- Adonai told Abraham to get his son a wife
+		- Abraham told his servant to get his son a wife, but only from his father's clan, if he can
+		- Abraham's servant found Rebekah
+		- Yitzak and Rebekah had twelve children
 		- Yosef had a dream
 		- Yosef was sold by his brothers to the Ishmaelites (Genesis 37:25)
 		- 
