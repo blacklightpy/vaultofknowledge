@@ -21,7 +21,6 @@ We can completely lie if we believe that speaking the truth will bring harm to u
 We are allowed to do something that is forbidden if we do it to delude the enemies. **(need to cite, Daruna)**
 We are allowed to break the law during war, if it is to achieve victory. **(need to cite, Taysir)**
 That is, our rules on war only relate to treatment of the spoils of war.
-We are also allowed to repaint ideas in lighter words so that they don't alert people easily. **(need to cite, Hiyal)**
 
 
 There are some who think that they are among us but are not.

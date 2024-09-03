@@ -1,9 +1,14 @@
+
+
 - Kitman
+	- As a form of Taqiyya combined with Jihaad
 - Tawriyya
+	- As a form of Taqiyya combined with Jihaad
 - Muruna
 	- It's about not being too strict
 	- "Allah intends for you ease and does not intend for you hardship" (Qur'an 2:185)
 	- "So fear Allah as much as you are able" (Qur'an 64:16)
+	- It's a positive thing, but it helps one blend in.
 - Taqiyya
 	- Etymology
 		- In the verse 3:28, there is a word that was written in the Uthmani script as تقىة. Most versions (like Hafs and Warsh) read it as تقاة (_tuqaat_), however one version (by Ya'qub al-Yamani) uses the word taqiya (تقية):
@@ -15,8 +20,9 @@
 	- Qur'an 4:29 (to verify)
 	- **Al-Taqiyya Fi Al-Islam** (Authoritative Text?)
 		- "Taqiyya (deception) is of fundamental importance in Islam. Practically every Islamic sect agrees to it and practices it. We can go so far as to say that the practice of taqiyya is mainstream in Islam, and that those few sects not practicing it diverge from the mainstream...Taqiyya is very prevalent in Islamic politics, especially in the modern era."
-- Hiyal
-- Darura
+- ~~Hiyal~~
+	- I believe this is actually forbidden in Islaam, according to most sources.
+- ~~Darura~~
 	- It is a positive thing that lets people do Haram out of necessity
 	- Like eating Pork (2:173 and 5:3)
 
