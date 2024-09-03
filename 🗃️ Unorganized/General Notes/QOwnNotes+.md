@@ -192,3 +192,6 @@
 				- Tafaseer
 
 - [[The Ethicality of Eating Animals]]
+
+- The Nature of Our Brain That Allows Cognitive Dissonance
+	- 
