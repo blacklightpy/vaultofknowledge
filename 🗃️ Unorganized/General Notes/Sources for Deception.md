@@ -8,6 +8,15 @@
 		  A liar is not one who tries to bring reconciliation amongst people and speaks good (in order to avert dispute), or he conveys good. Ibn Shihab said he did not hear that exemption was granted in anything what the people speak as lie but in **three cases: in war, for bringing reconciliation amongst persons and the narration of the words of the husband to his wife, and the narration of the words of a wife to her husband.**
 - Tawriyya
 	- As a form of Taqiyya combined with Jihaad
+	- Source
+		- It is absolutely forbidden to tell a lie and to say that something happened though it did not happen. The permission in the hadith about lying is in the form of “tawriya” and “iham”.
+		- **Tawriya** means a person’s using a word that has several meanings, by referring to its least used meaning.
+		- **Iham** means using a word that has two meanings by referring to its meaning that is used less.
+	- Examples
+		- We can give the following examples to explain them:
+			- When you say to the enemy soldier, “Your king died” during a war, you can mean one of the previous kings of the enemy.
+			- When it is necessary to speak and express an opinion but you do not want Islam and Muslims to be harmed, you can make some indirect sentences without resorting to direct lies.
+			- Similarly, if a person who wants to win the hearts of his wife and daughter uses an expression such as “InshaAllah - if Allah wills” when he promises them something and does not immediately give them what he has promised, he will not be regarded to have lied because this promise is related to the future.
 - Muruna
 	- It's about not being too strict
 	- "Allah intends for you ease and does not intend for you hardship" (Qur'an 2:185)
