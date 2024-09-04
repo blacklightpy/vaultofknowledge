@@ -370,22 +370,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86ca301498937f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking (Broad Term).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -453,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking (Broad Term).md",
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking (Broad Term).md",
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking (Broad Term).md"
+                "file": "🗃️ Unorganized/General Notes/Android Partitions.md"
               }
             }
           },
@@ -549,11 +536,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "86ca301498937f94",
+  "active": "a9b2cd628acc9f6f",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
     "🗃️ Unorganized/General Notes/Hacking (Broad Term).md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",

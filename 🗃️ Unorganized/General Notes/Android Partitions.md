@@ -15,7 +15,7 @@
 # Notes
 ## Sources
 - 1. [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
-- 2. Scribd (Attached)
+- 2. [Understanding MTK Chipset and Android Partition | Scribd](https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition)
 ## Notes
 ### From "MTK Platform Partition Meaning", from GitHub Gists
 
