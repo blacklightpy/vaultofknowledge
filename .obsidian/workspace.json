@@ -370,9 +370,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abb70833f7c2b972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Purchase Register.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -440,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
+                "file": "🗃️ Unorganized/General Notes/Purchase Register.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
+                "file": "🗃️ Unorganized/General Notes/Purchase Register.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md"
+                "file": "🗃️ Unorganized/General Notes/Purchase Register.md"
               }
             }
           },
@@ -536,8 +549,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2fd2d685d3190aa5",
+  "active": "abb70833f7c2b972",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Purchase Register.md",
+    "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🗃️ Unorganized/General Notes/Chronology of Quran.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
@@ -562,8 +577,6 @@
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
     "🗃️ Unorganized/General Notes/Massacres of Jews.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
-    "🗃️ Unorganized/General Notes/Antisemitic Arguments.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
