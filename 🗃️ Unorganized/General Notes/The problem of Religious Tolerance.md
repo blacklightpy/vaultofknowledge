@@ -1,4 +1,3 @@
-
 Our philosophy is that we will have to kill you.
 Please let us reside in your lands, we will not kill you now.
 We will only kill you when we have enough power to do so.
@@ -21,7 +20,6 @@ We can completely lie if we believe that speaking the truth will bring harm to u
 We are allowed to do something that is forbidden if we do it to delude the enemies. **(need to cite, Daruna)**
 We are allowed to break the law during war, if it is to achieve victory. **(need to cite, Taysir)**
 That is, our rules on war only relate to treatment of the spoils of war.
-
 
 There are some who think that they are among us but are not.
 They will say that we do not wish to kill those who do not join us.

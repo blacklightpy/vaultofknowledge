@@ -194,4 +194,8 @@
 - [[The Ethicality of Eating Animals]]
 
 - The Nature of Our Brain That Allows Cognitive Dissonance
-	- 
+	- [[Split Arguments used by Islam]]
+
+- [[The problem of Religious Tolerance]]
+
+- [[Why must we fight]]

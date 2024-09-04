@@ -16,7 +16,6 @@
 - Puraanas (Legends)
 	- Maha Puraanas (Great Legends)
 	- Upa Puraanas (Minor Legends)
-
 # Concepts
 - General Concepts
 	- Gunas
