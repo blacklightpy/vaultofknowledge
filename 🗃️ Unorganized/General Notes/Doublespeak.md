@@ -8,7 +8,4 @@ Example:
 	- Questions
 		- Did a gun go off by accident?
 		- Did the police shoot a civilian?
-		- Did a civilian shoot a civilian when a police was
-		- Did the police shoot innocents while trying to shoot suspects?
-		- Did the suspects and police shoot each other and some others died?
-		- Did two people kill each other when an officer was nearby?
+		- Did a civilian shoot a civilian when a police was present?

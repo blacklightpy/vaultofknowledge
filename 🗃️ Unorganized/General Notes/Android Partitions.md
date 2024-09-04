@@ -15,6 +15,7 @@
 # Notes
 ## Sources
 - 1. [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
+- 2. Scribd (Attached)
 ## Notes
 ### From "MTK Platform Partition Meaning", from GitHub Gists
 
