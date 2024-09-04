@@ -364,7 +364,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
+                "file": "🗃️ Unorganized/General Notes/Chronology of Quran.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -372,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -440,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
+                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
+                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md"
+                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md"
               }
             }
           },
@@ -536,12 +536,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a9b2cd628acc9f6f",
+  "active": "2fd2d685d3190aa5",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Chronology of Quran.md",
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
     "🗃️ Unorganized/General Notes/Hacking (Broad Term).md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
@@ -563,7 +564,6 @@
     "🗃️ Unorganized/General Notes/Massacres of Jews.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/Anti-Israel Arguments.md",
     "🗃️ Unorganized/General Notes/Antisemitic Arguments.md",
-    "🗃️ Unorganized/General Notes/Massacres claimed by Palestinians.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
