@@ -1,4 +1,7 @@
-
+This is based on the Jihaad law:
+- And fight them until there is no fitnah and [until] the religion, all of it, is for Allah. And if they cease - then indeed, Allah is Seeing of what they do. (8:39)
+	- Hadeeth 4560 says this is because of how Muslims were persecuted when they were minority, so the way to fix all Muslim problems is to fight all polytheists.
+- 9:5, etc.
 
 - Kitman
 	- As a form of Taqiyya (Jihaad al-Talab)
@@ -7,7 +10,7 @@
 		  
 		  A liar is not one who tries to bring reconciliation amongst people and speaks good (in order to avert dispute), or he conveys good. Ibn Shihab said he did not hear that exemption was granted in anything what the people speak as lie but in **three cases: in war, for bringing reconciliation amongst persons and the narration of the words of the husband to his wife, and the narration of the words of a wife to her husband.**
 - Tawriyya
-	- As a form of Taqiyya (which is violent)
+	- As a form of Taqiyya (Jihaad al-Talab)
 	- Source
 		- It is absolutely forbidden to tell a lie and to say that something happened though it did not happen. The permission in the hadith about lying is in the form of “tawriya” and “iham”.
 		- **Tawriya** means a person’s using a word that has several meanings, by referring to its least used meaning.

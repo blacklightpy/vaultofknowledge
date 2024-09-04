@@ -757,6 +757,12 @@ Things I want to cover
 	- So they told him to give it to them
 	- Under the condition of giving it to charity, he gave it to them
 
+- To kill or not to kill Muslims who fight each other
+	- https://quranx.com/hadiths/8.39 (Bukhari 4650)
+	- 49.9 Tells to kill the oppressing faction
+	- 4.93 Tells you not to kill any believing Muslim
+	- 
+
 # Detailing Counters
 
 - Aisha's age (8 min video, by Towards Eternity)
