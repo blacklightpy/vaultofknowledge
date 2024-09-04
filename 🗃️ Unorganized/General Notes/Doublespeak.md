@@ -6,5 +6,5 @@ Example:
 	- Did the police shoot one suspect and one innocent?
 	- Did the police shoot two innocents?
 	- Did the police shoot innocents while trying to shoot suspects?
-	- Did the suspects shoot the police and someone else died?
+	- Did the suspects and police shoot each other and some others died?
 	- Did two people kill each other when an officer was nearby?
