@@ -268,19 +268,6 @@
             }
           },
           {
-            "id": "92f114ca9a5e2e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Assassin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22e9a1a96f0cd69a",
             "type": "leaf",
             "state": {
@@ -440,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Assassin.md",
+                "file": "🗃️ Unorganized/General Notes/Doublespeak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +444,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Assassin.md",
+                "file": "🗃️ Unorganized/General Notes/Doublespeak.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +456,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Assassin.md"
+                "file": "🗃️ Unorganized/General Notes/Doublespeak.md"
               }
             }
           },
@@ -536,18 +523,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "92f114ca9a5e2e17",
+  "active": "22e9a1a96f0cd69a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/Assassin.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+    "🗃️ Unorganized/General Notes/Assassin.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Split Arguments used by Islam.md",
     "🗃️ Unorganized/General Notes/Why poetry is not a good medium for communication of information.md",
     "🗃️ Unorganized/General Notes/Sources for Deception.md",
     "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Why must we fight.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Malayalam Language.md",
     "🗃️ Unorganized/General Notes/Religion.md",
     "🗃️ Unorganized/General Notes/Non-Monogamous Relationships.md",
@@ -564,7 +552,6 @@
     "🔮 World Building/Philosophy/Emotions.md",
     "🗃️ Unorganized/General Notes/Malayalam Words.md",
     "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
-    "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
     "_images/MagneticMedia.svg.png",
