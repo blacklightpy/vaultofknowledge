@@ -1,13 +1,13 @@
 
 
 - Kitman
-	- As a form of Taqiyya combined with Jihaad
+	- As a form of Taqiyya (Jihaad al-Talab)
 	- Saheeh Muslim 2605a
 		- Humaid b. 'Abd al-Rahman b. 'Auf reported that his mother Umm Kulthum daughter of 'Uqba b. Abu Mu'ait, and she was one amongst the first emigrants who pledged allegiance to Allah's Apostle (ﷺ), as saying that she heard Allah's Messenger (ﷺ) as saying:
 		  
 		  A liar is not one who tries to bring reconciliation amongst people and speaks good (in order to avert dispute), or he conveys good. Ibn Shihab said he did not hear that exemption was granted in anything what the people speak as lie but in **three cases: in war, for bringing reconciliation amongst persons and the narration of the words of the husband to his wife, and the narration of the words of a wife to her husband.**
 - Tawriyya
-	- As a form of Taqiyya combined with Jihaad
+	- As a form of Taqiyya (which is violent)
 	- Source
 		- It is absolutely forbidden to tell a lie and to say that something happened though it did not happen. The permission in the hadith about lying is in the form of “tawriya” and “iham”.
 		- **Tawriya** means a person’s using a word that has several meanings, by referring to its least used meaning.
@@ -25,14 +25,16 @@
 - Taqiyya
 	- Etymology
 		- In the verse 3:28, there is a word that was written in the Uthmani script as تقىة. Most versions (like Hafs and Warsh) read it as تقاة (_tuqaat_), however one version (by Ya'qub al-Yamani) uses the word taqiya (تقية):
-	- Qur'an 3:28
-		- "The Muslims must not befriend the disbelievers, in preference over the Muslims; whoever does that has no connection whatsoever with Allah, except if you fear them; Allah warns you of His wrath; and towards Allah only is the return."
-	- Tafseer ibn Katheer 3:28
-		- "... (unless you indeed fear a danger from them) meaning, except those believers who in some areas or times fear for their safety from the disbelievers. In this case, such believers are allowed to show friendship to the disbelievers outwardly, but never inwardly. For instance, Al-Bukhari recorded that Abu Ad-Darda' said, "We smile in the face of some people although our hearts curse them.'' Al-Bukhari said that Al-Hasan said, "The Tuqyah is allowed until the Day of Resurrection.'' ..."
-	- Tafseer al-Tabar 3:28 (to verify)
-		- "If you [Muslims] are under their [infidels'] authority, fearing for yourselves, behave loyally to them, with your tongue, while harbouring inner animosity for them... Allah has forbidden believers from being friendly or on intimate terms with the infidels in place of believers – except when infidels are above them [in authority]. In such a scenario, let them act friendly towards them."
-	- Qur'an 16:106
-		- 
+	- Outright Lying
+		- A poet, Kab bin al-Ashruf, had offended Muhammad by making derogatory verse about Muslim women. Muhammad exclaimed in front of his followers: "Who will kill this man who has hurt Allah and his prophet?" A young Muslim named Muhammad bin Maslama volunteered, but with the caveat that, in order to get close enough to Kab to assassinate him, he be allowed to lie to the poet. Muhammad agreed. Maslama traveled to Kab and began denigrating Islam and Muhammad, carrying on this way till his disaffection became convincing enough for Kab to take him into his confidences. Soon thereafter, Maslama appeared with another Muslim and, while Kab's guard was down, they assaulted and killed him. They ran to Muhammad with Kab's head, to which the latter cried: "Allahu akbar" or "God is great" (see the hadith accounts of Sahih Bukhari and Ibn Sad).
+	- Claims that it is only against threats
+		- Qur'an 3:28
+			- "The Muslims must not befriend the disbelievers, in preference over the Muslims; whoever does that has no connection whatsoever with Allah, except if you fear them; Allah warns you of His wrath; and towards Allah only is the return."
+		- Tafseer ibn Katheer 3:28
+			- "... (unless you indeed fear a danger from them) meaning, except those believers who in some areas or times fear for their safety from the disbelievers. In this case, such believers are allowed to show friendship to the disbelievers outwardly, but never inwardly. For instance, Al-Bukhari recorded that Abu Ad-Darda' said, "We smile in the face of some people although our hearts curse them.'' Al-Bukhari said that Al-Hasan said, "The Tuqyah is allowed until the Day of Resurrection.'' ..."
+		- Tafseer al-Tabar 3:28 (to verify)
+			- "If you [Muslims] are under their [infidels'] authority, fearing for yourselves, behave loyally to them, with your tongue, while harbouring inner animosity for them... Allah has forbidden believers from being friendly or on intimate terms with the infidels in place of believers – except when infidels are above them [in authority]. In such a scenario, let them act friendly towards them."
+		- Qur'an 16:106
 - ~~Hiyal~~
 	- I believe this is actually forbidden in Islaam, according to most sources.
 	- Disobey rulers on matters where they go against God (Qur'an 4:29)
@@ -58,13 +60,11 @@
 > A similar instance of the Qur'an permitting dissimulation under compulsion is found in [Surah An-Nahl](https://en.wikipedia.org/wiki/An-Nahl "An-Nahl") [16:106](https://quran.com/16?startingVerse=106) Sunni and Shia commentators alike observe that verse 16:106 refers to the case of ['Ammar b. Yasir](https://en.wikipedia.org/wiki/Ammar_ibn_Yasir "Ammar ibn Yasir"), who was forced to renounce his beliefs under physical duress and torture.
 
 ## Random read (to verify and pick citations)
-Islam employs 9 types of deceptions to destroy non-Muslims: Taqiya, Hiyal, Adab al jadal, dawah, kitman, tafsir, darura, and muruna. According to sharia, in certain situations, deception – also known as 'taqiyya', based on Quranic terminology, – is not only permitted but sometimes obligatory.
+
 
 Muhammad is quoted in the Hadith saying: "If I take an oath and later find something else better, I do what is better and break my oath (see Sahih Bukhari V7B67N427)."
 
- None of this should be surprising considering that Muhammad himself, whose example as the "most perfect human" is to be tenaciously followed, took an expedient view on the issue of deception. For instance, Muhammad permitted deceit in three situations: to reconcile two or more quarreling parties; husband to wife and vice-versa; and in war (See Sahih Muslim B32N6303, deemed an "authentic" hadith).
- 
- A poet, Kab bin al-Ashruf, had offended Muhammad by making derogatory verse about Muslim women. Muhammad exclaimed in front of his followers: "Who will kill this man who has hurt Allah and his prophet?" A young Muslim named Muhammad bin Maslama volunteered, but with the caveat that, in order to get close enough to Kab to assassinate him, he be allowed to lie to the poet. Muhammad agreed. Maslama traveled to Kab and began denigrating Islam and Muhammad, carrying on this way till his disaffection became convincing enough for Kab to take him into his confidences. Soon thereafter, Maslama appeared with another Muslim and, while Kab's guard was down, they assaulted and killed him. They ran to Muhammad with Kab's head, to which the latter cried: "Allahu akbar" or "God is great" (see the hadith accounts of Sahih Bukhari and Ibn Sad).
+
  
  The entire sequence of Quranic revelations are a testimony to taqiyya and, since Allah is believed to be the revealer of these verses, he ultimately is seen as the perpetrator of deceit. This is not surprising since Allah himself is often described in the Quran as the "best deceiver" or "schemer." (see 3:54, 8:30, 10:21).
  
