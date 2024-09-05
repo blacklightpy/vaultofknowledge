@@ -204,13 +204,14 @@
 	- Things go in and out of fashion
 - Philosophy of Security
 	- [[Security]]
-- Philosophy of Religion
-	- Philosophy will never be complete
-	- In the past, we thought that one idea would fit for everyone
 - Logic
 	- 
 	- Factors
 	- The wages of sin are death
+- Philosophy of Religion
+	- Philosophy will never be complete, because new factors will come in
+	- 
+	- In the past, we thought that one idea would fit for everyone
 - 50/50 of Sankhya Metaphysics
 - Use of Ambiguous Words
 	- "Muslim", "Truth Speaker"
@@ -221,4 +222,4 @@
 	- Since a nation is established by axioms, and peace is established by proper understanding of different axioms, it is possible that peace will be destroyed when we lose such an understanding.
 	- This is similar to how disease spreads when the immune system weakens.
 	- Infections are a part of reality, in biology, computer viruses, and even ideologies.
-	- 
+	- Since ideological viruses spread by 
