@@ -203,7 +203,7 @@
 - Fashion
 	- Things go in and out of fashion
 - Philosophy of Security
-	- 
+	- [[Security]]
 - Philosophy of Religion
 	- Philosophy will never be complete
 	- In the past, we thought that one idea would fit for everyone

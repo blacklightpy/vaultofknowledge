@@ -398,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -495,7 +495,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -562,8 +562,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "43106bc2e80d3152",
+  "active": "5143397faa6e7ab1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Security.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
@@ -589,7 +590,6 @@
     "🗃️ Unorganized/General Notes/Sources for Deception.md",
     "🗃️ Unorganized/General Notes/Why must we fight.md",
     "🗃️ Unorganized/General Notes/Non-Monogamous Relationships.md",
-    "🗃️ Unorganized/General Notes/The importance of vocabulary.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
