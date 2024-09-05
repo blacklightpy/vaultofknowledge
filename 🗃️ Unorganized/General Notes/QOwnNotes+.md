@@ -214,4 +214,7 @@
 - 50/50 of Sankhya Metaphysics
 - Use of Ambiguous Words
 	- "Muslim", "Truth Speaker"
-	- 
+
+- Nations
+- Infections
+	- Since a nation is established by axioms, and peace is established by proper understanding of different axioms, it is possible that peace will be destroy
