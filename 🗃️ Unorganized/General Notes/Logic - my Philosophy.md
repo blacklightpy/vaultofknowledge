@@ -17,3 +17,10 @@ This is also the same as the Christian (but not Jewish) idea that "the wages of 
 
 Such a conclusion can only come due to lack of knowledge.
 Therefore this clearly cannot come from God.
+
+# Formal Example
+
+A system is described by 
+
+# Proof that the whole universe cannot be defined by logic
+The state of the system expands as new perspectives enter the system

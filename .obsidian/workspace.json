@@ -398,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -495,7 +495,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md"
               }
             }
           },
@@ -562,10 +562,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5143397faa6e7ab1",
+  "active": "43106bc2e80d3152",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Security.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Security.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
