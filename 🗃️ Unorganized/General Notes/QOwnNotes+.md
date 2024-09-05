@@ -214,3 +214,4 @@
 - 50/50 of Sankhya Metaphysics
 - Use of Ambiguous Words
 	- "Muslim", "Truth Speaker"
+	- 
