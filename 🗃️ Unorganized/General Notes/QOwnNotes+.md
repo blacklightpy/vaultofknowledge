@@ -216,5 +216,9 @@
 	- "Muslim", "Truth Speaker"
 
 - Nations
+	- Since logic is based on axioms, and axioms are a subset of reality, a community that adheres to a set of axioms become a nation.
 - Infections
-	- Since a nation is established by axioms, and peace is established by proper understanding of different axioms, it is possible that peace will be destroy
+	- Since a nation is established by axioms, and peace is established by proper understanding of different axioms, it is possible that peace will be destroyed when we lose such an understanding.
+	- This is similar to how disease spreads when the immune system weakens.
+	- Infections are a part of reality, in biology, computer viruses, and even ideologies.
+	- 
