@@ -1,0 +1,1 @@
+It is the collection of all [[Parse Tree|parse trees]].
