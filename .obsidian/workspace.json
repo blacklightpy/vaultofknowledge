@@ -383,9 +383,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43106bc2e80d3152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -453,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +495,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fashion - my philosophy.md"
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md"
               }
             }
           },
@@ -549,10 +562,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ff5e214939cac6c0",
+  "active": "43106bc2e80d3152",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
+    "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
     "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/Religion.md",
@@ -576,7 +590,6 @@
     "🗃️ Unorganized/General Notes/Why must we fight.md",
     "🗃️ Unorganized/General Notes/Non-Monogamous Relationships.md",
     "🗃️ Unorganized/General Notes/The importance of vocabulary.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",

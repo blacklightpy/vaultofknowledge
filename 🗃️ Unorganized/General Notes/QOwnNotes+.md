@@ -210,4 +210,7 @@
 - Logic
 	- 
 	- Factors
+	- The wages of sin are death
 - 50/50 of Sankhya Metaphysics
+- Aphorisms
+	- "Muslim", "Truth Speaker"
