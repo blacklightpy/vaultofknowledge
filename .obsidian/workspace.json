@@ -397,8 +397,7 @@
               }
             }
           }
-        ],
-        "currentTab": 27
+        ]
       }
     ],
     "direction": "vertical"
@@ -466,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -495,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
               }
             }
           },
@@ -562,13 +561,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5143397faa6e7ab1",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/General Notes/Parse Tree.md",
     "🗃️ Unorganized/General Notes/Parse Forest.md",
     "🗃️ Unorganized/General Notes/Abstract Syntax Tree.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Security.md",
     "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
     "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
