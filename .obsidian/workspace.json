@@ -474,22 +474,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ab5bf69a71f05cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Mental States.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -557,7 +544,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Mental States.md",
+                "file": "🗃️ Unorganized/General Notes/Morality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -574,7 +561,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Mental States.md",
+                "file": "🗃️ Unorganized/General Notes/Morality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -586,7 +573,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Mental States.md"
+                "file": "🗃️ Unorganized/General Notes/Morality.md"
               }
             }
           },
@@ -652,7 +639,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ab5bf69a71f05cd0",
+  "active": "1151c4738f75c615",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Mental States.md",
     "🗃️ Unorganized/General Notes/Morality.md",
