@@ -1,0 +1,3 @@
+Well, if you're gonna use them, you're gonna need a manual on how to place your hand, what posture to take and how to move your body. And some of these exercises are not even understood, unless you know what the maker of the board intended. It's like the saying that goes in singing classes, "it is better to not know how to sing, than to know the wrong way of doing it".
+
+Of course, to fuck around and find out is one way of finding new ideas, and that's exactly how we developed our notions of music. However, when it comes to exercises, unlike with music, doing bad exercises will have a damaging effect on your body. That is not to say that exercises are all wrong because someone had to make damages to their body so that others can learn
