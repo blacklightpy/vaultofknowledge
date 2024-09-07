@@ -15,3 +15,5 @@
 # Whether god is one or many
 
 # Whether god demands worship or not
+
+Type 1.1.1.1.1.0.2.1.1.
