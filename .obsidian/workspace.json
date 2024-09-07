@@ -461,9 +461,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc1a2a9fcd95b674",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -509,8 +517,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -531,7 +538,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Taxonomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -548,7 +554,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Taxonomy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -559,9 +564,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Taxonomy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -626,9 +629,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e996476008729b74",
+  "active": "cc1a2a9fcd95b674",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Taxonomy.md",
+    "🌎 Public/Retro/Retro Gaming/Lightguns.md",
     "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
     "🗃️ Unorganized/General Notes/Why Leftists Don't Understand Differences Between Words.md",
     "🗃️ Unorganized/General Notes/Memes.md",
@@ -653,7 +657,6 @@
     "🗃️ Unorganized/General Notes/Parse Forest.md",
     "🗃️ Unorganized/General Notes/Abstract Syntax Tree.md",
     "🗃️ Unorganized/General Notes/Security.md",
-    "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
