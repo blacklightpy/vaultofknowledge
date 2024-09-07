@@ -1,0 +1,12 @@
+- Low-Functioning Autism
+	- Low Cognition
+- High-Functioning Autism
+	- Above-Average Cognition
+- Psychopathy
+	- Damaged 
+- Sociopathy
+	- Lacking in Empathy
+- Narcissistic Personality Disorder (NPD)
+	- Grandiose Ego
+- Antisocial Personality Disorder (ASPD)
+	- Lacking in Empathy
