@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -396,8 +396,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ee7c1bed1428225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -465,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +496,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -494,7 +508,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Cabling Schemes.md"
               }
             }
           },
@@ -561,8 +575,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "685ca42e2cba4a92",
+  "active": "1ee7c1bed1428225",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Differential Signalling.md",
+    "🗃️ Unorganized/General Notes/Cabling Schemes.md",
+    "🗃️ Unorganized/General Notes/Signalling Schemes.md",
+    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/General Notes/Parse Tree.md",
@@ -585,10 +603,6 @@
     "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hacking.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Hacking.md",
-    "🗃️ Unorganized/General Notes/Hacking (Broad Term).md",
-    "🗃️ Unorganized/General Notes/Assassin.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/Why poetry is not a good medium for communication of information.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
