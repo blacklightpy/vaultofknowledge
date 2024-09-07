@@ -6,7 +6,6 @@ I chose to avoid classifying them based on their field of endeavour, firstly bec
 	- [[International Telecommunication Union]] (ITU)
 - International Organization for Standardization (ISO)
 - International Electrotechnical Commission (IEC)
-- [[International Telecommunication Union]] (ITU)
 - American Society of Mechanical Engineers (ASME)
 - [[Institute of Electrical and Electronics Engineers]] (IEEE)
 - American Society for Testing and Materials International (ASTM International)
@@ -19,3 +18,4 @@ I chose to avoid classifying them based on their field of endeavour, firstly bec
 - [[Internet Engineering Task Force]] (IETF)
 - Internet Corporation for Assigned Names and Numbers (ICANN)
 - Internet Assigned Numbers Authority (IANA)
+- National Institute of Standards and Technology (NIST)
