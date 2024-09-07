@@ -1,1 +1,1 @@
-Ethics refers to [[Morality|moral]] philosophy
+Ethics refers to [[Morality|moral]] philosophy, agreed upon by a community.

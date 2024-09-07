@@ -461,9 +461,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1151c4738f75c615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Morality.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 34
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -531,7 +544,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Taxonomy.md",
+                "file": "🗃️ Unorganized/General Notes/Morality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -548,7 +561,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Taxonomy.md",
+                "file": "🗃️ Unorganized/General Notes/Morality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -560,7 +573,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Taxonomy.md"
+                "file": "🗃️ Unorganized/General Notes/Morality.md"
               }
             }
           },
@@ -626,8 +639,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e996476008729b74",
+  "active": "1151c4738f75c615",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Ethics.md",
+    "🗃️ Unorganized/General Notes/Taxonomy.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/ITU Standardization Sector.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Web of Trust.md",
@@ -642,7 +657,6 @@
     "🗃️ Unorganized/General Notes/Sci-Fi Forums.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
-    "🗃️ Unorganized/General Notes/Taxonomy.md",
     "🌎 Public/Retro/Retro Gaming/Lightguns.md",
     "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
     "🗃️ Unorganized/General Notes/Why Leftists Don't Understand Differences Between Words.md",
@@ -653,7 +667,6 @@
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/General Notes/Cabling Schemes.md",
     "🤠 Personal/Review of Push Up Boards.md",
-    "🗃️ Unorganized/General Notes/Studies on Morality.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
