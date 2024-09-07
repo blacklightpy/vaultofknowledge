@@ -8,4 +8,4 @@ However, one mistake in this argument is in the assumption that just because we 
 ### rest of the points
 - While Christianity and Mohammedan Submission did away with that, the Hindu religion did have a lot of metaphysics dealing with this.
 - The Rabbinic Jewish religion also considered the Teaching as a tale, expounding on it using philosophical discourse.
-- Aristotle also had his notions on Metaphysics, and he was the one who coined the term physics, and 
+- Aristotle also had his notions on Metaphysics, and he was the one who coined the term physics, and wrote down its foundational ideas in Greek
