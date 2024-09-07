@@ -1,9 +1,11 @@
 # Oneness / Monism
+## Monistic Atheism
+- Chaarvaka Darshana of Non-Vedic Hinduism / Materialist Perspective of The Indians who do not follow the
 ## Monistic Monotheism
 ### Pantheism
 ### Pandeism
 ### Panentheism
-- (==Advaita Vedanta Darshana of Vedic Hinduism / The Perspective of following the Monistic Summary of Sanskrit Books of Knowledge==)
+- (==Advaita Vedanta Darshana of Vedic Hinduism / The Perspective of following the Monistic Summary of Sanskrit Books of Knowledge according to Indians who follow the Sanskrit Books of Knowledge)==
 - ==(Sikhism / The Way of the Disciples)==
 # Separateness / Dualism
 ## Dualistic Monotheism
@@ -145,8 +147,8 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 	2. ==Jain Darshana of Non-Vedic Hinduism / Jain Dharma Darshana of Non-Vedic Hinduism / Jainism / Jain Dharma (The Perspective of The Way of Conquerors (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / The Perspective of The Principles of The Way of Conquerors (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / The Way of Conquerors (of Senses) / Principles of The Way of Conquerors (of Senses))==, revived by Mahavira
 		1. ==Shvetambara Darshana of Jain Darshana of Non-Vedic Hinduism / Shvetambara Darshana of Jain Dharma Darshana of Non-Vedic Hinduism / Shvetambara Darshana of Jainism / Shvetambara Darshana of Jain Dharma (White Clad Perspective of The Perspective of The Way of Conquerors (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / White Clad Perspective of The Principles of The Way of Conquerors (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / White Clad Perspective of The Perspective of The Way of Conquerors (of Senses) / White Clad Perspective of The Principles of The Way of Conquerors (of Senses))==, founded by Rishabhanata, historically traced back to Parshvanata, and revived by Mahavira
 		2. ==Digambara Darshana of Jain Darshana of Non-Vedic Hinduism / Digambara Darshana of Jain Dharma Darshana of Non-Vedic Hinduism / Digambara Darshana of Jainism / Digambara Darshana of Jain Dharma (Sky Clad Perspective of The Perspective of The Way of Conquerors (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / Sky Clad Perspective of The Principles of The Way of Conquerors (of Senses) according to Indians who don't follow the Sanskrit Books of Knowledge / Sky Clad Perspective of The Perspective of The Way of Conquerors (of Senses) / Sky Clad Perspective of The Principles of The Way of Conquerors (of Senses))==, started by Sivabhuti, from 82 AD
-	3. ==Chaarvaka Darshana of Jain Darshana of Non-Vedic Hinduism / Lokayata Darshana of Jain Darshana of Non-Vedic Hinduism / Chaarvaka / Lokayata (Harmonious Speech / World Oriented)==
-	4. ==Ajeevika Darshana of Jain Darshana of Non-Vedic Hinduism / Niyati Vaada of Non-Vedic Hinduism / Ajeevika / Niyati Vaada (The Perspective of the Way of Life according to Indians who don't follow the Sanskrit Books of Knowledge / The Proposition of Fate according to Indian's who don't follow the Sanskrit Books of Knowledge / Way of Life / Proposition of Fate)==
+	3. ==Chaarvaka Darshana of Non-Vedic Hinduism / Lokayata Darshana of Jain Darshana of Non-Vedic Hinduism / Chaarvaka / Lokayata (Harmonious Speech / World Oriented)==
+	4. ==Ajeevika Darshana of Non-Vedic Hinduism / Niyati Vaada of Non-Vedic Hinduism / Ajeevika / Niyati Vaada (The Perspective of the Way of Life according to Indians who don't follow the Sanskrit Books of Knowledge / The Proposition of Fate according to Indian's who don't follow the Sanskrit Books of Knowledge / Way of Life / Proposition of Fate)==
 	5. ==Ajnana Darshana of Non-Vedic Hinduism / Ajnana (Skeptic Perspective of Indians who don't follow the Sanskrit Books of Knowledge / Skepticism)==
 4. ==Sikhism (Being a Disciple)==, started by Guru Granth Sahib
 ### Darshana Notes
