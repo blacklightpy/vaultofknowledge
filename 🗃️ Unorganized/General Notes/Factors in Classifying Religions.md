@@ -4,4 +4,14 @@
 
 # The relation between mind and body
 
-# The 
+# Whether good and bad exists
+
+# Whether god has a persona or not
+
+# Whether god has given a law or not
+
+# Whether god is good, evil or neutral
+
+# Whether god is one or many
+
+# Whether god demands worship or not
