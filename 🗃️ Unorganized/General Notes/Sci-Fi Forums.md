@@ -1,2 +1,2 @@
 - r/HFY (Humanity, Fuck Yeah!)
-- r/humansarespaceorcs ()
+- r/humansarespaceorcs (about aliens thinking about humans)
