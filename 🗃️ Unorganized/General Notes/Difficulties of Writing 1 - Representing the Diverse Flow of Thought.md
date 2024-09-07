@@ -40,7 +40,7 @@ A solution is, as described in the original post [[Fixing LLMs to turn them into
 > [!SUMMARY] Quote
 > While Stallman calls them "bullshit generator", and I think that's true, it's still good to find if you can get something useful out of pure bullshit.
 > 
-> > (I went in two division of thought from this; I really have to figure out how to properly represent writings in this thinking pattern XD. I'll organize them according to the **"broad divisions of thought"**, and **"the order in which I placed them"**, and according to **"the order in which I wrote the lines"**. I don't really remember the order in which I thought the lines XD; I'll also study this condition in [[Representing the Diverse Flow of Thought]])
+> > (I went in two division of thought from this; I really have to figure out how to properly represent writings in this thinking pattern XD. I'll organize them according to the **"broad divisions of thought"**, and **"the order in which I placed them"**, and according to **"the order in which I wrote the lines"**. I don't really remember the order in which I thought the lines XD; I'll also study this condition in [[Difficulties of Writing 1 - Representing the Diverse Flow of Thought]])
 > ## Division 2 (Science isn't Always Developed Formally)
 > 4] It's easier for people to say that science was built on proper methods in retrospect.
 > 3] But in reality, many inventions were based on people simply messing around with things.

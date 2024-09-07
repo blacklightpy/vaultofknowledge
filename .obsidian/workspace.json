@@ -247,7 +247,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
+                "file": "🗃️ Unorganized/General Notes/Difficulties of Writing 1 - Representing the Diverse Flow of Thought.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -448,9 +448,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3b8ed679bc47be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Horrors.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e17fa4ddc89d718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Difficulties of Writing 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 33
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -518,7 +544,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Difficulties of Writing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,7 +561,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Difficulties of Writing 2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -547,7 +573,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md"
+                "file": "🗃️ Unorganized/General Notes/Difficulties of Writing 2.md"
               }
             }
           },
@@ -590,8 +616,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -614,8 +639,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8e320486041deb25",
+  "active": "0e17fa4ddc89d718",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Difficulties of Writing 1 - Representing the Diverse Flow of Thought.md",
+    "🗃️ Unorganized/General Notes/Difficulties of Writing 2.md",
+    "🗃️ Unorganized/General Notes/Horrors.md",
     "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
     "🗃️ Unorganized/General Notes/The Biggest Contrast Between Hindu Religions and Islam.md",
     "🤠 Personal/Review of Push Up Boards.md",
@@ -637,11 +665,8 @@
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/General Notes/Representing the Diverse Flow of Thought.md",
     "🗃️ Unorganized/General Notes/Split Arguments used by Islam.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
-    "🗃️ Unorganized/General Notes/Chronology of Quran.md",
-    "🗃️ Unorganized/General Notes/Purchase Register.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
