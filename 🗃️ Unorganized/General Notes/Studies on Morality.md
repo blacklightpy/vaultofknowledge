@@ -1,0 +1,4 @@
+- Normative Ethics (Study of right and wrong)
+- Meta-Ethics (Studies the meaning of terminology and metaphysics of morals)
+- Applied Ethics (e.g. when should abortion be acceptable)
+- Descriptive Ethics (Empirical observation of people's morals)
