@@ -466,12 +466,30 @@
             "id": "cc1a2a9fcd95b674",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5abd7f900eddc8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -538,6 +556,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -554,6 +573,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -564,7 +584,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md"
+              }
             }
           },
           {
@@ -629,8 +651,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc1a2a9fcd95b674",
+  "active": "5abd7f900eddc8c0",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
+    "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🗃️ Unorganized/General Notes/Taxonomy.md",
     "🌎 Public/Retro/Retro Gaming/Lightguns.md",
     "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
@@ -655,8 +679,6 @@
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Parse Tree.md",
     "🗃️ Unorganized/General Notes/Parse Forest.md",
-    "🗃️ Unorganized/General Notes/Abstract Syntax Tree.md",
-    "🗃️ Unorganized/General Notes/Security.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
