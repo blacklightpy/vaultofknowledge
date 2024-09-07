@@ -79,7 +79,7 @@ Also add (To fill optionally):
 #### Later Places
 #### History and Any Conflicts
 # Hinduism
-**Type**: Atheistic (Sankhya) / Dualistic Monotheistic (Dvaita (Non-Dual Nature of God) Vedanta) / Monistic Monotheistic (Advaita (Non-Dual Nature of God) Vedanta) / Henotheistic (Vedic Bhakti Traditions) / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita (Dual and Non-Dual Nature of God) Vedanta, Vishistadvaita (Special Non-Dual Nature of God) Vedanta, Bheda Abheda (Different and Non-Different Nature of God) Vedanta, Achintya Bheda Abheda (Unknowable Different and Non-Different Nature of God) Vedanta, Akshar-Purushottam (Namesake and Supreme Forms of God) Vedanta) / Substance Monotheism / Polytheistic (Folk Bhakti Traditions)
+**Type**: Atheistic (Sankhya) / Dualistic Monotheistic (Dvaita (Non-Dual Nature of God) Vedanta) / Monistic Monotheistic (Advaita (Non-Dual Nature of God) Vedanta) / Substance Monotheism (Vedic Bhakti Traditions) / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita (Dual and Non-Dual Nature of God) Vedanta, Vishistadvaita (Special Non-Dual Nature of God) Vedanta, Bheda Abheda (Different and Non-Different Nature of God) Vedanta, Achintya Bheda Abheda (Unknowable Different and Non-Different Nature of God) Vedanta, Akshar-Purushottam (Namesake and Supreme Forms of God) Vedanta) / Substance Monotheism / Polytheistic (Folk Bhakti Traditions) / Henotheistic
 ## Introduction (Place, Time, People, etc.)
 ## General Beliefs (World, Creator, Soul, Life, Peace)
 ## Principles
