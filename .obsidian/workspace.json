@@ -468,7 +468,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+                "file": "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -476,7 +476,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -505,7 +505,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "standards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -522,12 +522,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -543,7 +543,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -560,7 +560,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -572,7 +572,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -638,10 +638,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc1a2a9fcd95b674",
+  "active": "5143397faa6e7ab1",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
+    "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
+    "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
     "🗃️ Unorganized/General Notes/Taxonomy.md",
     "🌎 Public/Retro/Retro Gaming/Lightguns.md",
     "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
@@ -665,7 +666,6 @@
     "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Parse Tree.md",
-    "🗃️ Unorganized/General Notes/Parse Forest.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",

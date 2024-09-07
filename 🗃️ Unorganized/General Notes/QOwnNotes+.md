@@ -224,3 +224,7 @@
 	- Infections are a part of reality, in biology, computer viruses, and even ideologies.
 	- Since ideological viruses spread by connecting shared ideas, they will always spread to a specific proportion of people in a given area, given that alternative ideas exist, but do not entirely invalidate the first idea.
 	- ... (Those who bring them in should heal them)
+
+- Why there is only one particle
+	- If you imagine a circuit, one may feel that electricity only flows as point charges through the conducting wire
+	- But in reality, the drift velocity
