@@ -17,3 +17,9 @@ Other commonly used principal guides of psychiatry include:
 		- Lacking in Empathy Genetically
 	- Sociopathy (A non-clinical term)
 		- Lacking in Empathy due to Upbringing
+
+# Terms
+- Psychiatry (Medical Treatment)
+- Psychotherapy (Counselling)
+- Psychology (Mental Science)
+- Psychoanalysis (Mental Science including Unconscious)
