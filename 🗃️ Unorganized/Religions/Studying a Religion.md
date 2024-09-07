@@ -79,7 +79,7 @@ Also add (To fill optionally):
 #### Later Places
 #### History and Any Conflicts
 # Hinduism
-**Type**: Monotheistic (Advaita Vedanta) / Atheistic (Sankhya) / Henotheistic (Bhakti Traditions) / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita, Vishistadvaita) / Monistic Theistic / Substance Monotheism
+**Type**: Atheistic (Sankhya) / Dualistic Monotheistic (Dvaita (Non-Dual Nature of God) Vedanta) / Monistic Monotheistic (Advaita (Non-Dual Nature of God) Vedanta) / Henotheistic (Vedic Bhakti Traditions) / Pantheistic / Animistic / Pantheistic Animistic / Panentheistic (Dvaitadvaita (Dual and Non-Dual Nature of God) Vedanta, Vishistadvaita (Special Non-Dual Nature of God) Vedanta, Bheda Abheda (Different and Non-Different Nature of God) Vedanta, Achintya Bheda Abheda (Unknowable Different and Non-Different Nature of God) Vedanta, Akshar-Purushottam (Namesake and Supreme Forms of God) Vedanta) / Substance Monotheism / Polytheistic (Folk Bhakti Traditions)
 ## Introduction (Place, Time, People, etc.)
 ## General Beliefs (World, Creator, Soul, Life, Peace)
 ## Principles
@@ -112,9 +112,11 @@ Since there are six orthodox schools of thought, they are called **Sadh-Darshana
 	- Shuddhadvaita Vedanta
 	- Neo-Vedanta
 #### Heterodox
-- Charvaka
-- Buddhism
-- Jainism
+- Chaarvaka
+- Aajeevika
+- Ajnana
+- Buddha Marga
+- Jain Marga
 ## Scriptures and Texts
 ### Divisions
 ## Connection to Other Religions

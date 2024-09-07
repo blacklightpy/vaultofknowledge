@@ -275,7 +275,7 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 			- It is the fundamental philosophy of Mahavira, which states that the truth is perceived from different points of view
 			- Only Kevalas (All Knowers) can know the complete truth
 			- This is similar to the Western philosophy of Subjectivism
-- 3. Charvaka (Materialism)
+- 3. Chaarvaka (Materialism)
 	- **Epistemology**
 		- Knowledge is only possible through one **Pramana** (Means):
 			- **Pratyaksha** (Direct Perception)

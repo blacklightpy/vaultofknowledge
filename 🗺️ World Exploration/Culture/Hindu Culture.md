@@ -188,7 +188,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 	- Naastika (Doesn't Follow Vedas)
 		- Buddhism
 	    - Jainism
-	    - Charvaka
+	    - Chaarvaka
 		- Aajeevika
 		- Ajnaana
 
