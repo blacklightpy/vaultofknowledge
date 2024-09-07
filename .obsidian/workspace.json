@@ -474,22 +474,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5abd7f900eddc8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 35
       }
     ],
     "direction": "vertical"
@@ -556,7 +543,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -573,7 +560,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -585,7 +572,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md"
+                "file": "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md"
               }
             }
           },
@@ -651,7 +638,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5abd7f900eddc8c0",
+  "active": "cc1a2a9fcd95b674",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
