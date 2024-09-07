@@ -10,6 +10,6 @@ If you think that the problems in life trump cosmic horrors, that's only because
 
 Though people free of the problems you personally face seem free of any problems, that's only an illusion. 
 
-One may ask, whether all the rich people are facing cosmic horrors every day of their life. I would say that most rich people believe in God, and that solves their problems. For many others like Elon Musk, they deal with cosmic horrors
+One may ask, whether all the rich people are facing cosmic horrors every day of their life. I would say that most rich people believe in God, and that solves their problems. For many others like Elon Musk, they deal with cosmic horrors, and for atheist capitalists, they deal with the problem of anti-rich people attacks. Both the rich and poor atheists deal with their worldly problems, and their only solution to peace would be to apply knowledge, and then one can transcend to cosmic horrors.
 
 Existential dread can only be solved by total nihilism and spite or by the knowledge of there being a intelligent cause behind your existence.
