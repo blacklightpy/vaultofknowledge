@@ -487,9 +487,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "789978553afb3b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0cb8225ccf9c7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -556,7 +582,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -573,7 +599,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -585,7 +611,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md"
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md"
               }
             }
           },
@@ -651,8 +677,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "50a11098cfd462fa",
+  "active": "e0cb8225ccf9c7e3",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Flow of Electricity.md",
+    "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Ambiguous Words.md",
@@ -673,12 +703,8 @@
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Quadcopter Design.md",
     "🗃️ Unorganized/General Notes/Sci-Fi Forums.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Naveen Hari's advice to me.md",
     "🌎 Public/Retro/Retro Gaming/Lightguns.md",
-    "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
-    "🗃️ Unorganized/General Notes/Why Leftists Don't Understand Differences Between Words.md",
-    "🗃️ Unorganized/General Notes/Memes.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
