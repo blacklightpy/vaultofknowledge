@@ -13,12 +13,13 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 
 ### Template
 - Brief
-	- Any Specific Nuances
+	- [Any Specific Nuances]
+- Foundational Texts
 - Metaphysics
 - Epistemology
 - General Description
 - Glossary of Terms
-- Any Specific Nuances
+- [Any Specific Nuances]
 
 ### Detailed Description
 
@@ -29,13 +30,14 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Hence it is kind of dualistic (separation of mind and matter), discrete and atheistic
 	- **Differences with Dualism**
 		- Western [[Dualism]] focuses on the difference between "mind" and "body"
-		- Sankhya Darshana focuses on the difference between "witness consciousness" and "physical world" - that includes outside nature and one's feelings and sensations
+		- Sankhya Darshana focuses on the difference between the "witness consciousness" and the "physical world", which includes the outside nature, one's feelings and sensations
 		- The main difference being, "mind" in Dualism considers the mind of an individual person, but "witness consciousness" in Sankhya considers only one observer to the entire world, and "body" in Dualism refers to to a person's body, while the "physical world" encompasses one's body, sensations and the surroundings.
 			- This is closer to the idea of "Brain in a Vat", except without a physical Brain or Vat.
 			- I guess I'll fix this idea by adding nuances between monism and dualism in their relevant pages
 	- **Foundational Texts**
-		- Sankhya Karika by Ishvara Krishna
-		- Sankhya Sutras
+		- Sankhya Karika by Ishvara Krishna (4th-5th Century BC)
+		- Sankhya Sutras by Kanada Maharshi
+			- Debated, scholars date this to 9th-13th Century AD
 	- **Metaphysics**
 		- **Purusa** is part of **Prakriti**
 		- Purusa is bound to Prakriti by **Jiva**
@@ -111,7 +113,11 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- It is based on the Sankhya school of thought
 	- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
 	- **Foundational Texts**
-		- Yoga Sutras of Patanjali (Main)
+		- Yoga Sutras of Patanjali (Main) (1st century AD)
+			- Samadhi Pada (Chapter on Samadhi)
+			- Sadhana Pada (Chapter on Practice)
+			- Vibhuti Pada (Chapter on Power)
+			- Kaivalya Pada (Chapter on Isolation, i.e. Liberation).
 		- Yoga Bhashya
 		- Yoga Vasishta
 		- Bhagavad Gita
@@ -144,7 +150,7 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 - 4. Vaisheshika (Particulate Nature)
 	- It postulated that everything is made of atoms
 	- **Foundational Texts**
-		- Vaisheshika Sutra by Kanada
+		- Vaisheshika Sutra by Kanada Maharshi
 	- **Metaphysics**
 		- 
 	- **Epistemology**
@@ -163,13 +169,13 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 				- **Guna** (Quality)
 				- **Karma** (Activity)
 				- **Saamaanya** (Generality)
-				- **Vishesha** (particularity)
+				- **Vishesha** (Particularity)
 				- **Samavaaya** (Inherence)
 				- **Abhaava** (Non-Existence)
 		- Atoms
 			- It postulated four different kinds of Anus (Particles): two with mass, and two without
 			- Each substance is supposed to consist of all four kinds of atoms
-			- Atoms can be combined into Try-Anukas (Triads) and Dvay-Anukas (Dyad) before they aggregate into bodies of a kind that can be perceived
+			- Atoms can be combined into Trai-Anukas (Triads) and Dvai-Anukas (Dyad) before they aggregate into bodies of a kind that can be perceived
 			- Each Paramanu (Atom) possesses its own distinct Vishesha (Speciality)
 			- Everything humans perceive is a composite particle
 			- 
@@ -178,7 +184,8 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 	- By Prabhakara and Bhatta
 	- It focuses on the early parts of the Vedas
 	- **Foundational Texts**
-		- 
+		- Purva Mimamsa Sutra by Jaimini
+		- Purva Mimamsa Sutra Bhashya by Shabara
 	- **Metaphysics**
 		- 
 	- **Types of Epistemology**
@@ -237,7 +244,7 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 		- Individual self is both different and not different from Brahman
 		- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahman's natural state
 		- **Sub-denominations:**
-			- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Difference and Oneness in the Natural State)
+			- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Dual and Non-Dual / Difference and Oneness in the Natural State)
 				- By Nimbarkacharya
 				- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
 				- Both Oneness and Difference are equal, because that's Brahman's natural state
