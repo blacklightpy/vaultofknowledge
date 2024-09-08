@@ -25,7 +25,9 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 		- Shi'a
 			- 
 		- Ibadiyya
-			- 
+			- Wahbi
+			- Nukkar
+			- Azzaba
 	- Define Madhhahib / Schools of Jurisprudence
 		- Ahl as-Sunnah wa'l Jama'ah
 			- Hanbali School of Islamic Jurisprudence among Ahl as-Sunnah wa'l Jama'ah / 
@@ -40,6 +42,7 @@ EDIT: Now it's of the form (Culture includes Metaphysics). I got to change it to
 			- Zaydi
 				- 
 		- Muhakkima
+			- Khawariji
 			- Ibadiyya
 				- 
 ### Non-Jealous Visiting God

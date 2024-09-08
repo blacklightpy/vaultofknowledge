@@ -468,7 +468,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Morality.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -505,7 +505,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ibadi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -527,8 +527,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -544,7 +543,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Morality.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -561,7 +560,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Morality.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -573,7 +572,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Morality.md"
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
               }
             }
           },
@@ -641,8 +640,10 @@
   },
   "active": "1151c4738f75c615",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Mental States.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Morality.md",
+    "🗃️ Unorganized/General Notes/Mental States.md",
     "🗃️ Unorganized/General Notes/Ethics.md",
     "🗃️ Unorganized/General Notes/Taxonomy.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Standards Organizations.md",
@@ -665,8 +666,6 @@
     "🗃️ Unorganized/General Notes/Memes.md",
     "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
     "🗃️ Unorganized/General Notes/Horrors.md",
-    "🗃️ Unorganized/General Notes/The Biggest Contrast Between Hindu Religions and Islam.md",
-    "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",

@@ -515,9 +515,8 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 		- Khwariji (Secessionists)
 		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad**
 			- Azzabas
-			- Nukkar
-			- Wahbiyyah (based on Abd Allah ibn Wahb al-Rasibi's teachings)
-
+			- Wahbi (based on Abd Allah ibn Wahb al-Rasibi's teachings)
+				- Nukkar (based on Abu Yazid al-Nukkari's teachings)
 I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
 - Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
 - Sub Denominations
