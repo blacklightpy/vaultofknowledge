@@ -209,6 +209,8 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 	- It focuses on the later parts of the Vedas
 	- It is like the opposite of Sankhya school of thought
 		- It sees the world as a manifestation of Brahman
+	- **Foundational Texts**
+		- Brahma Sutras by Vyasa Maharshi
 	- **Brief**
 		- **Koshas** (Sheaths)
 			- Atman is covered up by 
