@@ -28,7 +28,7 @@
 - Muslim Rulers who protected Jews: https://web.archive.org/web/20150402101019/http://mirajnews.com/article/opinion/muslim-rulers-saved-jews/
 
 - Arab historians mention about 20 tribes who lived in the region, among them the well-known 
-	- Banu-Nadir and Banu Qurayza who were called al-Kahinan, i.e., "Two Tribes of Priests,"
+	- Banu Nadir and Banu Qurayza who were called al-Kahinan, i.e., "Two Tribes of Priests,"
 	- Banu Qaynuqa
 	- Many Jews also lived in Khaybar and in other oases of Wadi al-Qura ("Valley of the Villages"), such as 
 		- al-'Ula (Didan)
@@ -144,7 +144,7 @@
 		- Non-Muslims take up arms against the enemy of the nation and share the cost of war. There is to be no treachery between the two.
 		- Non-Muslims are not obliged to take part in the Muslims' religious wars.
 - The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Al-Nadir
-- The Terms of the Covenant and their Breach of It (Tafsir of Quran 2:84-2:86) [citing the Quran is ok here, since the general argument is that Quran incites violence]
+- The Terms of the Covenant and their Breach of It (Tafseer ibn Katheer on Qur'an 2:84-2:86) [citing the Quran is ok here, since the general argument is that Quran incites violence]
 	- Allah criticized the Jews who lived in Al-Madinah (Medina) at the time.
 	- They used to suffer, because of the armed conflicts between the tribes Aws and Khazraj
 	- Banu Qaynuqa and Banu Al-Nadir were allies of the Khazraj
@@ -158,7 +158,7 @@
 	- Allah reminded that they ignore the Tawrah when it said you to not kill your members or expel them from their homes, and follow it to implement ransom. By this, they believe one part of the scripture and reject the rest. "You do this all to acquire the life of this world".
 	- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet, his coming, his expulsion, etc.
 	- On the Day of Resurrection, they will be subject to torment because they defied the book they were given.
-- The Terms of the Covenant and their Breach of It (Tafsir of Quran 2:87-2:86)
+- The Terms of the Covenant and their Breach of It (Tafseer ibn Katheer on Qur'an 2:87-2:86)
 	- The Tawrah was revealed to Musa (Moses), but they distorted it's meaning to fulfil their fantasies
 	- So Allah sent Isa (Jesus), and sent miracles to support him, but Jews didn't want to differ from a single word
 	- This way, they killed or rejected all Prophets
