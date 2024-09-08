@@ -514,9 +514,14 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 	- Muhakkima (Judgers) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbd Allāh ibn Sabāʾ al-Ḥimyarī)
 		- Khwariji (Secessionists)
 		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad**
+			- Early subsects
+				- al-Harithiyya (broke from Abu 'Ubayda by accepting the Mu'tazili position)
+				- 'Umayriyya (followers of 'Isa ibn 'Umayr, in the first half of the 2nd (AH) / 8th (CE) century)
+				- Husayniyya (followers of Ahmad ibn al-Husayn, in the early 3rd (AH) / 9th (CE) century)
+					- Merged with mainstream Ibadism in the 7th (AH) / 13th (CE) century through the influence of Abu Yahya Zaakariyya ibn Ibrahim al-Baruni
 			- Azzabas
-			- Wahbi (based on Abd Allah ibn Wahb al-Rasibi's teachings)
-				- Nukkar (based on Abu Yazid al-Nukkari's teachings)
+			- Wahbi, based on Abd Allah ibn Wahb al-Rasibi's teachings, is seen as the purest form of Islam)
+				- Nukkar (Deniers) (The denied second Rustamid Imam 'Abd al-Wahhab ibn 'Abd al-Rahman), based on Abu Yazid al-Nukkari's teachings
 I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
 - Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
 - Sub Denominations
