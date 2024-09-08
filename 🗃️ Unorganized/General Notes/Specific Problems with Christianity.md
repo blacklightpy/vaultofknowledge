@@ -515,16 +515,27 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 		- Khwariji (Secessionists)
 			- Azariqa, followers of Nafi' ibn al-Azraq (they attacked Basra, and the Omani Azd tribe of Basra attacked them and killed Nafi', and later Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire)
 		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad** (he broken with Azariqa after 'Abd al-Malik ibn Marwan became the Ummayad Khalifa)
-			- Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis.
-			- Abu 'Ubayda Muslim ibn Abi Karima al-Tamimi was a student of Jabir ibn Zayd.
 			- Early subsects
 				- al-Harithiyya (broke from Abu 'Ubayda by accepting the Mu'tazili position)
 				- 'Umayriyya (followers of 'Isa ibn 'Umayr, in the first half of the 2nd (AH) / 8th (CE) century)
 				- Husayniyya (followers of Ahmad ibn al-Husayn, in the early 3rd (AH) / 9th (CE) century)
 					- Merged with mainstream Ibadism in the 7th (AH) / 13th (CE) century through the influence of Abu Yahya Zaakariyya ibn Ibrahim al-Baruni
-			- Azzabas
 			- Wahbi, based on Abd Allah ibn Wahb al-Rasibi's teachings, is seen as the purest form of Islam)
 				- Nukkar (Deniers) (The denied second Rustamid Imam 'Abd al-Wahhab ibn 'Abd al-Rahman), based on Abu Yazid al-Nukkari's teachings
+			- Azzabas (a Maddhab In North Africa, name from Azzaba in Algeria)
+			- Maddhabs
+				- Abu Jabir Muhammad ibn Ja'far al-Izkawi wrote the Jami' ibn Ja'far (The Compendium of ibn Ja'far), or just al-Jami' (The Compendium) in 3rd (AH) / 9th (CE) century.
+			- History
+				- The fall of Rustamid and Omani imamates at the end of the 3rd (AH) / 9th (CE) centuries led to the development of the doctrines of Taqiyya (religious dissimulation) and Kitman (living in secret dissension from the ruling authorities)
+				- In North Africa, the 'Azzaba councils developed to replace the Imamate.
+				- Just as the decline in power of the 'Abbasid Khilafat led to Sunnis developing their jurisprudence, Ibadi scholars also wrote down the Ibadi doctrine and jurisprudence during this period (late 3rd (AH) / 9th (CE) century).
+				- The first Ibadi political imamate was established in Hadramawt in 128 AH / 745 CE.
+				- Not all Khawarijis followed 'Abdallah ibn Wahb at Nahrawan.
+				- The Khwarijis were divided into militants (Shurat) and quietists (qa'ada).
+				- The most prominent quietist position was held by 'Abdallah ibn Ibad, of whom very little is known.
+				- It's based on his name that the Azariqas were contrasted with, as Ibadis.
+				- "Abu 'l-Sha'tha'" Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis, and the successor of 'Abdallah ibn Ibad.
+				- Abu 'Ubayda Muslim ibn Abi Karima al-Tamimi was a student of Jabir ibn Zayd.
 I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
 - Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
 - Sub Denominations
