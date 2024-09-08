@@ -38,9 +38,9 @@ The Shiva Lingam consists of the Pullingam and the Pitham (Source).
 - Claim: Vyasa ejaculated after seeing an Apsara in the form of a parrot (https://ikhlaskhan008.wordpress.com/2016/12/21/sex-with-animals-and-hinduism/)
 	- Truth: It's generally understood to be mythological
 # Hindu Scholars
-- Adi Shankaracharya (8th century Advaita Vedanta scholar and Bhasyakara)
-- Sayana (14th century Mimamsa scholar and Bhasyakara of Vedas)
-- Mahidhara (16th century Bhasyakara of Vedas; Tantric ritual centric)
+- Adi Shankaracharya (8th century Advaita Vedanta scholar and Bhashyakara)
+- Sayana (14th century Mimamsa scholar and Bhashyakara of Vedas)
+- Mahidhara (16th century Bhashyakara of Vedas; Tantric ritual centric)
 - Aurobindo Gosh (Modern)
 - Arya Samaj (Modern, rejects idol worship)
 - Dayananda Saraswati 

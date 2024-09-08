@@ -66,16 +66,16 @@
 > 
 > 5. Purva-Mimamsa : Jaimini : Purva Mimamsa Sutra
 > 
-> 6. Uttara-Mimamsa : Vyasa : Vyasa sutra(brahma sutra/vedanta sutra)
+> 6. Uttara-Mimamsa : Vyasa : Vyasa Sutra (Brahma Sutra / Vedanta Sutra)
 > 
-> These sutras are very terse, so people don't usually study them directly
+> These Sutras are very terse, so people don't usually study them directly
 > 
 > there are Bhashyas and Vartikas written on them and in some cases the latter are more popular than the sutras themselves
 > 
 > Nyaya
 > 
-> Vatsyayana : bhasya  
-> Uddyotakara : vartika.  
+> Vatsyayana : Bhashya  
+> Uddyotakara : Vartika.  
 > Vacaspatimisra : Nyaya-vartika-tatparya-tika  
 > Udayanacarya : Tatparya-tika-parisuddhi and Nyaya-kusumanjali  
 > Jayanta : Nyaya-manjari  
@@ -85,7 +85,7 @@
 > 
 > Vaisheshika
 > 
-> Ravana-bhasya, is no longer available.  
+> Ravana-bhashya, is no longer available.  
 > Prasastapada : Padartha-dharma-samgraha  
 > Udayana has commented on it.  
 > Uttamur Sri Viraraghavacariyar : Vaisesika-rasayana
@@ -346,7 +346,7 @@ From Link 2 above:
 
 > **Number of Verses**
 > 
-> 1. Mahabharata: 84879(BORI Critical Edition)
+> 1. Mahabharata: 84879 (BORI Critical Edition)
 > 2. Skanda Purana: 81100
 > 3. Padma Purana: 55000 ~ Shahnameh(Ferdowsi): 50000
 > 4. Narada Purana: 25000

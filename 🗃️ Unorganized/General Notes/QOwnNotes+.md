@@ -180,7 +180,7 @@
 					- Bhagawad Geeta
 				- Puraana
 			- Secondary Works
-				- Bhasya
+				- Bhashya
 				- Shashtra Pustakas
 				- Kavyas
 		- Mohammedans of Ahl as-Sunnah wa'l Jama'ah

@@ -28,7 +28,7 @@
 	- Poetic Works (Kalidasa, etc.)
 	- Social Sciences
 
-Bhasyas (Commentaries)
+Bhashyas (Commentaries)
 Nibandhas (Digests)
 
 Shastras, Sutras, Tantras, Upavedas, Stotras, Stutis

@@ -33,6 +33,9 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- The main difference being, "mind" in Dualism considers the mind of an individual person, but "witness consciousness" in Sankhya considers only one observer to the entire world, and "body" in Dualism refers to to a person's body, while the "physical world" encompasses one's body, sensations and the surroundings.
 			- This is closer to the idea of "Brain in a Vat", except without a physical Brain or Vat.
 			- I guess I'll fix this idea by adding nuances between monism and dualism in their relevant pages
+	- **Foundational Texts**
+		- Sankhya Karika by Ishvara Krishna
+		- Sankhya Sutras
 	- **Metaphysics**
 		- **Purusa** is part of **Prakriti**
 		- Purusa is bound to Prakriti by **Jiva**
@@ -107,21 +110,31 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 - 2. Yoga (Connection with Reality)
 	- It is based on the Sankhya school of thought
 	- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
-	- **Books**
-		- It is mainly based on the Yoga Sutras of Patanjali
-		- It was also influenced by books such as Yoga Vasishta and Bhagavad Gita
-	- Asmita (Egoism due to indentification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
+	- **Foundational Texts**
+		- Yoga Sutras of Patanjali (Main)
+		- Yoga Bhashya
+		- Yoga Vasishta
+		- Bhagavad Gita
+	- **Metaphysics**
+		- Asmita (Egoism due to indentification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
 	- **Epistemology**
 		- Knowledge is possible through three **Pramanas** (Means):
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
 
+About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_vedanta/
+
 - 3. Nyaya (Principles of Reality)
 	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyaksha (Perception), Anumāṇa (Logical Inference), Upamāṇa (Comparison and Analogy) and Shabda (Verbal Testimony).
 	- It states that suffering is caused by bad understandings and ignorance
 	- Liberation can be achieved with right understanding
 	- It postulates Asat-Karya-Vada (Proposition of Non-Existent Effect)
+	- **Foundational Texts**
+		- Nyaya Sutra by Aksapada Gautama
+		- Nyaya Bhashya by Vatsyayana
+	- **Metaphysics**
+		- 
 	- **Epistemology**
 		- Knowledge is possible through four **Pramanas** (Means):
 			- **Pratyaksha** (Direct Perception)
@@ -130,6 +143,10 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- **Upamaana** (Comparison and Analogy)
 - 4. Vaisheshika (Particulate Nature)
 	- It postulated that everything is made of atoms
+	- **Foundational Texts**
+		- Vaisheshika Sutra by Kanada
+	- **Metaphysics**
+		- 
 	- **Epistemology**
 		- Knowledge is possible through two **Pramanas** (Means):
 			- **Pratyaksha** (Direct Perception)
@@ -160,22 +177,27 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 - 5. Mimamsa / Purva Mimamsa
 	- By Prabhakara and Bhatta
 	- It focuses on the early parts of the Vedas
-	- Types
+	- **Foundational Texts**
+		- 
+	- **Metaphysics**
+		- 
+	- **Types of Epistemology**
 		- Prabhakara Mimamsa
-			- **Epistemology**
-				- Knowledge is possible through five **Pramanas** (Means):
-					- **Pratyaksha** (Direct Perception)
-					- **Anumaana** (Logical Inference)
-					- **Shabda** (Verbal Testimony)
+			- Knowledge is possible through five **Pramanas** (Means):
+				- **Pratyaksha** (Direct Perception)
+				- **Anumaana** (Logical Inference)
+				- **Shabda** (Verbal Testimony)
+				- **Upamaana** (Comparison and Analogy)
+				- **Arthaapatti** (Postulation)
 		- Bhatta Mimamsa
-			- **Epistemology**
-				- Knowledge is possible through six **Pramanas** (Means):
-					- **Pratyaksha** (Direct Perception)
-					- **Anumaana** (Logical Inference)
-					- **Shabda** (Verbal Testimony)
-					- **Upamaana** (Comparison and Analogy)
-					- **Arthaapatti** (Postulation)
-					- **Anupalabdhi** / **Abhava** (Non-Existence)
+			- Knowledge is possible through six **Pramanas** (Means):
+				- **Pratyaksha** (Direct Perception)
+				- **Anumaana** (Logical Inference)
+				- **Shabda** (Verbal Testimony)
+				- **Upamaana** (Comparison and Analogy)
+				- **Arthaapatti** (Postulation)
+				- **Anupalabdhi** / **Abhava** (Non-Existence)
+	- 
 - 6. Vedanta / Uttara Mimamsa
 	- It focuses on the later parts of the Vedas
 	- It is like the opposite of Sankhya school of thought

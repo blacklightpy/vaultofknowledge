@@ -59,9 +59,21 @@
 		- Nastika (Heterodox / Non-Vedic)
 - Concepts
 	- Existential
-		- Moksha
-		- Dharma
-		- Karma
-		- Samsara
-	- Ethical Values
-		- Ahimsa
+		- Purushaarthas
+			- Dharma (Morality)
+			- Artha (Meaning)
+			- Kaama (Eroticism)
+			- Moksha (Liberation)
+		- Karma (Action)
+		- Samsaara (Cyclic Existence)
+		- Kaalachakra (Cycle of Life)
+	- Neeti (Ethics)
+		- Ahimsa (Non-Violence)
+		- Asteya
+		- Aparigraha
+		- Brahmacharya (Celibacy)
+		- Satya (Honesty)
+		- Daana (Benovelence)
+		- Daamah
+		- Dayaa (Kindness)
+		- Akrodha (Anger Free)
