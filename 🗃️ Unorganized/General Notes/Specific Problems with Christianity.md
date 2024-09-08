@@ -513,7 +513,10 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 		- Other
 	- Muhakkima (Judgers) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbd Allāh ibn Sabāʾ al-Ḥimyarī)
 		- Khwariji (Secessionists)
-		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad**
+			- Azariqa, followers of Nafi' ibn al-Azraq (they attacked Basra, and the Omani Azd tribe of Basra attacked them and killed Nafi', and later Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire)
+		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad** (he broken with Azariqa after 'Abd al-Malik ibn Marwan became the Ummayad Khalifa)
+			- Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis.
+			- Abu 'Ubayda Muslim ibn Abi Karima al-Tamimi was a student of Jabir ibn Zayd.
 			- Early subsects
 				- al-Harithiyya (broke from Abu 'Ubayda by accepting the Mu'tazili position)
 				- 'Umayriyya (followers of 'Isa ibn 'Umayr, in the first half of the 2nd (AH) / 8th (CE) century)
