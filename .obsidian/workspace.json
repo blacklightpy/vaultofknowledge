@@ -539,22 +539,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9057391e1ad299e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make Paper.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 41
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -620,7 +607,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make Paper.md",
+                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -637,7 +624,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make Paper.md",
+                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -649,7 +636,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make Paper.md"
+                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md"
               }
             }
           },
@@ -715,7 +702,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9057391e1ad299e8",
+  "active": "1a193c08489d7676",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/How to make Paper.md",
     "🗃️ Unorganized/General Notes/Transmission Lines.md",
