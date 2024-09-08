@@ -546,7 +546,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -583,7 +583,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"sant mat\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -600,7 +600,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -620,7 +621,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -637,7 +638,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -649,7 +650,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },

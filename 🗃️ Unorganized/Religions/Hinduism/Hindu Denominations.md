@@ -332,11 +332,11 @@ These deity-centered denominations feature a synthesis of various philosophies s
 		1. Satnampanth
 	10. Shri Ram Chandra Mission
 	11. Sri Aurobindo Ashram
-3. Sat Panth
+3. Sat Panth (Nizari Isma'eeli Shi'a Sufi Tariqa)
 	1. Dadu Panth (Part of the Sant Mat)
 	2. Kabir Panth (Part of the Sant Mat)
-	3. Pranami Sampraday
-	4. Sathya Sai sampradaya
+	3. Pranami Sampradaya
+	4. Sathya Sai Sampradaya
 4. Yoga and meditation based
 	1. Art of Living
 	2. Isha Foundation
