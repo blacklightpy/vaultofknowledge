@@ -137,8 +137,8 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 	- Liberation can be achieved with right understanding
 	- It postulates Asat-Karya-Vada (Proposition of Non-Existent Effect)
 	- **Foundational Texts**
-		- Nyaya Sutra by Aksapada Gautama
-		- Nyaya Bhashya by Vatsyayana
+		- Nyaya Sutra by Aksapada Gautama Maharshi
+		- Nyaya Sutra Bhashya by Vatsyayana (5th century AD)
 	- **Metaphysics**
 		- 
 	- **Epistemology**
@@ -150,7 +150,7 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 - 4. Vaisheshika (Particulate Nature)
 	- It postulated that everything is made of atoms
 	- **Foundational Texts**
-		- Vaisheshika Sutra by Kanada Maharshi
+		- Vaisheshika Sutra by Kanada Maharshi (2nd Century AD)
 	- **Metaphysics**
 		- 
 	- **Epistemology**
@@ -184,7 +184,7 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 	- By Prabhakara and Bhatta
 	- It focuses on the early parts of the Vedas
 	- **Foundational Texts**
-		- Purva Mimamsa Sutra by Jaimini
+		- Purva Mimamsa Sutra by Jaimini (200 BC)
 		- Purva Mimamsa Sutra Bhashya by Shabara
 	- **Metaphysics**
 		- 
