@@ -1,0 +1,1 @@
+In electrical engineering, a transmission line is a specialized cable or other structure designed to conduct electromagnetic waves in a contained manner.

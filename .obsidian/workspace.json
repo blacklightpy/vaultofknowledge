@@ -526,9 +526,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a193c08489d7676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 35
+        "currentTab": 40
       }
     ],
     "direction": "vertical"
@@ -574,13 +587,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -596,7 +607,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -613,7 +624,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -625,7 +636,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md"
               }
             }
           },
@@ -691,8 +702,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1151c4738f75c615",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Transmission Media.md",
+    "🗃️ Unorganized/General Notes/Transmission Lines.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
@@ -701,7 +715,6 @@
     "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Ambiguous Words.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Morality.md",
@@ -717,8 +730,6 @@
     "🗃️ Unorganized/General Notes/Cellular Network Notes.md",
     "🤠 Personal/Project Ideas/Hosting the Programs I Planned.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Radio.md",
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/General Notes/Quadcopter Design.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
