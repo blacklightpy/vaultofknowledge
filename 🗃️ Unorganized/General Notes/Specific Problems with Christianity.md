@@ -509,6 +509,9 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 			- Ithna Ashari (Jafari Madhhab)
 			- Isma'eeli
 				- Druze is a branch off (non Muslim)
+				- Nizari
+					- Assassins
+				- Taiyabi
 			- Zaydi
 		- Other
 	- Muhakkima (People who say Judgement is of God) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbdallah ibn Sabaaʾ al-Himyaree)
