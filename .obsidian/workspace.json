@@ -474,9 +474,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65b98f943a4f1708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Ambiguous Words.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -544,7 +557,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Ambiguous Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -561,7 +574,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Ambiguous Words.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -573,7 +586,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
+                "file": "🗃️ Unorganized/General Notes/Ambiguous Words.md"
               }
             }
           },
@@ -639,10 +652,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "65b98f943a4f1708",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/General Notes/Ambiguous Words.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Morality.md",
     "🗃️ Unorganized/General Notes/Mental States.md",
     "🗃️ Unorganized/General Notes/Ethics.md",
@@ -666,7 +680,6 @@
     "🗃️ Unorganized/General Notes/Why Leftists Don't Understand Differences Between Words.md",
     "🗃️ Unorganized/General Notes/Memes.md",
     "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
-    "🗃️ Unorganized/General Notes/Horrors.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",

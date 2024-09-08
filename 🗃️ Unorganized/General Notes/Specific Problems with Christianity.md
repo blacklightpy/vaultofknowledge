@@ -526,22 +526,25 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 			- Maddhabs
 				- Abu Jabir Muhammad ibn Ja'far al-Izkawi wrote the Jami' ibn Ja'far (The Compendium of ibn Ja'far), or just al-Jami' (The Compendium) in 3rd (AH) / 9th (CE) century.
 			- History
-				- The Kharijites formed by leaving 'Ali.
-				- 'Abdallah ibn Wahb was chosen as the first Kharijite Imam.
-					- Wahbi is seen as the purest Aqida of Islaam by Ibadis.
-					- See the book "Al-'Aqida 'l-Wahbiyya" by Nasir ibn Salim ibn 'Udayyam al-Rawahi, a great poet also known as Abu Muslim, who wrote a poem in praise of the courage and faith of the thousands of Kharijite soldiers, including ibn Wahb, who met their death in the battle against 'Ali at al-Nahrawan.
-				- He was killed at the battle of al-Nahrawan by Ali on 9 Shafar, 38 AH / 17 July, 658 CE.
-				- Not all Khawarijis followed 'Abdallah ibn Wahb at Nahrawan.
-				- The Khwarijis were divided into militants (Shurat) and quietists (qa'ada).
-				- Someone assassinated 'Ali, and Mu'awiya, and members of his clan, Banu Umayya formed the Umayyad Khilafat, with its capital at Damascus, who ruled until they were overthrown by the 'Abbasids who made Bhagdad their capital and ruled from 132 AH / 750 CE to 656 Ah / 1258 CE when the Mongol conquest happened.
-				- Abu Bilal Mirdas ibn Udayya al-Tamimi was a a quietist Kharijite leader from Basra in southern Iraq.
-				- He was the brother of one of the instigators of the Kharijite secession and a veteran of the massacre at Nahrawan, who disagreed with the violent tactics of the Khawarij, which included acceptance of the principle of Isti'rad (Religious Assassination).
-				- Thus, Basra became a center of moderate Kharijism.
-				- Abu Bilal was seen as a precursor of Ibadiyya.
-				- After the death of second Umayyad Khalifa Yazid I, son of Mu'awiya in 64 AH / 683 CE, violent Khawarij rebellions formed.
-				- The followers of Nafi' ibn al-Azraq, or the Azariqa attacked Basra, and the Omani Azd tribe of Basra attacked them and killed Nafi
-				- Later, the Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire.
-				- The most prominent quietist position was held by 'Abdallah ibn Ibad, of whom very little is known.
+				- **The Split at Nahrawan**
+					- The Kharijites formed by leaving 'Ali.
+					- 'Abdallah ibn Wahb was chosen as the first Kharijite Imam.
+						- Wahbi is seen as the purest Aqida of Islaam by Ibadis.
+						- See the book "Al-'Aqida 'l-Wahbiyya" by Nasir ibn Salim ibn 'Udayyam al-Rawahi, a great poet also known as Abu Muslim, who wrote a poem in praise of the courage and faith of the thousands of Kharijite soldiers, including ibn Wahb, who met their death in the battle against 'Ali at al-Nahrawan.
+					- He was killed at the battle of al-Nahrawan by Ali on 9 Shafar, 38 AH / 17 July, 658 CE.
+					- Not all Khawarijis followed 'Abdallah ibn Wahb at Nahrawan.
+				- **History of Khawarijis**
+					- The Khawarijis were divided into militants (Shurat) and quietists (Qa'ada).
+					- Someone assassinated 'Ali, and Mu'awiya, and members of his clan, Banu Umayya formed the Umayyad Khilafat, with its capital at Damascus, who ruled until they were overthrown by the 'Abbasids who made Bhagdad their capital and ruled from 132 AH / 750 CE to 656 AH / 1258 CE when the Mongol conquest happened.
+					- Abu Bilal Mirdas ibn Udayya al-Tamimi was a a quietist Kharijite leader from Basra in southern Iraq.
+					- He was the brother of one of the instigators of the Kharijite secession and a veteran of the massacre at Nahrawan, who disagreed with the violent tactics of the Khawarij, which included acceptance of the principle of Isti'rad (Religious Assassination).
+					- Thus, Basra became a center of moderate Kharijism.
+					- Abu Bilal was seen as a precursor of Ibadiyya.
+				- **Split of the Ibadis**
+					- After the death of second Umayyad Khalifa Yazid I, son of Mu'awiya in 64 AH / 683 CE, violent Khawarij rebellions formed.
+					- The followers of Nafi' ibn al-Azraq, or the Azariqa attacked Basra, and the Omani Azd tribe of Basra attacked them and killed Nafi
+					- Later, the Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire.
+					- The most prominent quietist position was held by 'Abdallah ibn Ibad, of whom very little is known.
 				- It's based on his name that the Azariqas were contrasted with, as Ibadis.
 				- "Abu 'l-Sha'tha'" Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis, and the successor of 'Abdallah ibn Ibad.
 				- Jabir had positive relations with Ummayad governor of Iraq, al-Hajjaj ibn Yusuf, who supported moderate Khawirijis as a bulwark against the growth of Kharijite extremism.
