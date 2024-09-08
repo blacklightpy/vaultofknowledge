@@ -17,37 +17,37 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ## Chapter 1: Introduction to Usool al Hadeeth
 > 
-> A. Definition of **Usool al Hadeeth**:
+> ### A. Definition of **Usool al Hadeeth**:
 > 
 > - a. **Asl**: Foundation on which something is built
 > - b. **Hadeeth**: words, actions, taqreer, Sifat of Muhammad
 > - c. **Usool al Hadeeth** is the science investigates foundation upon which hadeeth rest upon which includes chain of narrators, text and so on
 > 
-> B. Objectives:
+> ### B. Objectives:
 > 
 > - a. To present introductory information so that student can understand Hadeeth discourse
 > - b. To give general knowledge about different components of sciences of Hadeeth
 > 
-> C. Definition of Hadeeth:
+> ### C. Definition of Hadeeth:
 > 
 > - a. Linguistic: To speak/ To talk
 > 	- i. Communication (68:4)
 > 	- ii. Story (20:9)
 > 	- iii. Speech (66:33)
-> - b. Technical: words, actions, **taqreer** (decisions), **Sifat** (Moral/Physical Characteristics) of Muhammad
+> - b. Technical: Words, Actions, **Taqreer** (decisions), **Sifat** (Moral/Physical Characteristics) of Muhammad
 > 
-> D. Definition of Sunnah
+> ### D. Definition of Sunnah
 > 
 > - a. Linguistic: Path
 > - b. Technical: Way of Muhammad
 > 
-> E. Is Sunnah and Hadeeth are Synonymous?
+> ### E. Is Sunnah and Hadeeth are Synonymous?
 > 
 > - a. Sunnah and Hadeeth are synonymous in the perspective that it is attributed to Muhammad (SAW)
 > - b. Sunnah actually means physical application/Implementation of Sharee’ah
 > - c. This is because Prophet said "alaikum bi sunnathi wa sunnathi khulafa rashideena, mahdeena, mimba’deena" and which includes Sunnah of Khulafa Rashideen
 > 
-> F. Authority of Sunnah
+> ### F. Authority of Sunnah
 > 
 > - a. Qur’aan 4:64
 > - b. Qur’aan 53:3,4
@@ -57,7 +57,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - g. Hadeeth has never been a controversial source of Islaam
 > - h. Hadeeth and Qur’aan never contradict each other as both are from same sources
 > 
-> G. Hadeeth Complements Qur’aan – Functions of Hadeeth
+> ### G. Hadeeth Complements Qur’aan – Functions of Hadeeth
 > 
 > - a. Hadeeth confirms Qur’aan
 > 	- i. Hadeeth on pillars of Islaam which confirms 2:184
@@ -73,19 +73,19 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. This function is stimuli for Muhadeethun to get into the field of Usool al Hadeeth
 > ## Chapter 2: History of Recording of Hadeeth
 > 
-> A. Introductory Comment:
+> ### A. Introductory Comment:
 > 
 > - a. Nothing happens in Isolation in Historical perspective
 > - b. History of hadeeth recording started with History of Message of Islaam as definition of Hadeeth tells us that sayings/actions/approval/physical characteristics of Muhammad (s)
 > 
-> B. 62:2 – Was all the Arabs unlettered ones?
+> ### B. 62:2 – Was all the Arabs unlettered ones?
 > 
 > - a. Qur’aan was preserved in text form by Sahaabah’s
 > - b. Battle of Badr – Ransom is teaching
 > - c. Treaty of Hudhaybiah was documented
 > - d. This tells us that preservation is not only in memory but also documented
 > 
-> C. Why hadeeth was not recorded in the first stage of Islaam?
+> ### C. Why hadeeth was not recorded in the first stage of Islaam?
 > 
 > - a. Initial Ban on documenting – Fearing people will mess-up with Qur’aan
 > 	- i. Prophet: "Do not write anything other than the Qur’aan. Teach my hadeeth verbally. Whosoever fabricates over me will have his seat reserved in hell fire" (Sahih Muslim)
@@ -96,31 +96,31 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. Sahaabah’s focused lot on Qur’aan because of this
 > 	- iii. As Sunnah is more of explanation of Qur’aan, one need to focus on Qur’aan first
 > 
-> D. Early Written Records:
+> ### D. Early Written Records:
 > 
-> - a. Abullaah ibn Amr ibn al Aaas recorded "Do I have to write even when you are angry?"
-> - b. Abdullah ibn Saeed ibn al Aas
-> - c. Saad ibn Ubadah al ansaree
+> - a. Abullaah ibn Amr ibn al-Aas recorded "Do I have to write even when you are angry?"
+> - b. Abdullah ibn Saeed ibn al-Aas
+> - c. Saad ibn Ubadah al Ansaaree
 > - d. Jabir ibn Abdullaah
 > - e. Abdullaah ibn Abbas
 > - f. Saheefa ibn Saadiqa recorded during the time of Prophet
 > 
-> E. System and attitude towards Recording
+> ### E. System and attitude towards Recording
 > 
 > - a. Time of Khulafa Rashideen – Order to write remained absent
 > 	- i. Abu Bakr – He never accepted Hadeeth without witness
 > 	- ii. Umar ibn al khattab – He never sanctioned Hadeeth recording in books fearing it will undermine the Qur’aan and he feared our religion will become the religion of others where Prophet’s words were mixed up. He spent one month of Istikhaara on this.
 > - b. Time of Tabieen and Tabe Tabieen:
 > 	- i. Many of the Scholars refrained from documenting, sticking with the traditional approach of Oral transmissions but some Scholars documented
-> 	- ii. Caliph Umar ibn Abdul Azeez first officially commissioned written recording of the Hadeeth
+> 	- ii. Khalifa Umar ibn Abdul Azeez first officially commissioned written recording of the Hadeeth
 > 	- iii. It was not his personal opinion but resolve of his discussion with Scholars
 > 	- iv. He ordered Scholar in Madeenah, Abu Bakr ibn Muhammad ibn Hazm
-> 	- v. Scholar of Hijaz, Ibn Shihaab az Zuhri also requested by the Caliph
+> 	- v. Scholar of Hijaz, Ibn Shihaab az Zuhri also requested by the Khalifa
 > 	- vi. After that, Ibn Shurayj, Ibn Ishaaq, Malik ibn Anas, Sufyan ath Thaure, Al Awzae, Abdullaah ibn Mubarak, Layth ibn Saad become forerunner in Hadeeth literature
 > 	- vii. These Scholars never focused on other conditions of Saheeh rather Ittisal as sanad alone
 > 	- viii. Their works are called Musannaf
 > 
-> F. Early Hadeeth Literature
+> ### F. Early Hadeeth Literature
 > 
 > - a. Mussanid (Name of the narrator) work started and compiled by
 > 	- i. Ahmad
@@ -140,13 +140,13 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. e.g. Khawaarij developed political views and supported it with their own invented hadeeth
 > 	- iii. This is the time Ilm Ar-Rijaal and Jarh wa ta’deel started
 > 
-> G. Features of Hadeeth enquiry at that time
+> ### G. Features of Hadeeth enquiry at that time
 > 
 > - a. They travelled for collecting Hadeeth
 > - b. Wider network formed because of exchange of hadeeth among the narrators and Scholars
 > ## Chapter 3: Historical Outlook at development of Usool
 > 
-> A. Role of the travelers of Hadeeth
+> ### A. Role of the travelers of Hadeeth
 > 
 > - a. Ar Rahala (Travelers)
 > 	- i. Came to protect the Hadeeth of the Prophet
@@ -158,14 +158,14 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. Imam Ahmad criticized this kind of travelers and deemed impermissible to take hadeeth from these people
 > 	- iii. Some criticized that they may fabricate as they are doing it for money
 > 
-> B. Commencement of developing Procedures to protect the Hadeeth
+> ### B. Commencement of developing Procedures to protect the Hadeeth
 > 
 > - a. Khateeb al Baghdadee started defining some
 > - b. Critical consciousness of quality of the person narrating hadeeth developed (**Ilm Jarh wa ta’deel**)
 > - c. Consciousness of connection of chain developed
 > - d. Travelling increased the standardization of hadeeth terminologies as it made all parts like one class
 > 
-> C. Role of Public Institutions
+> ### C. Role of Public Institutions
 > 
 > - a. In the 6th Century AH, Darul Hadeeth was established by Zinqi in Damascus. Ibn Ashakir was the Teacher
 > - b. Al Madrasa al Kamiliyah in 622 AH
@@ -178,7 +178,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- 1. Ibn Ubdah – Haafidh of Kufa (d. 382 H) who memorized 400000 hadeeth
 > 		- 2. Imam Bukharee memorized 300000 hadeeth
 > 
-> D. How conditions of transmission of Hadeeth developed?
+> ### D. How conditions of transmission of Hadeeth developed?
 > 
 > - a. Way of Memorization of Hadeeth:
 > - Scholars differed over how hadeeth needs to be memorized – Wording and meaning or meaning alone?
@@ -201,14 +201,14 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. It reached to the level of Books
 > ## Chapter 4: Transmission of Hadeeth
 > 
-> A. Tahammul al Hadeeth:
+> ### A. Tahammul al Hadeeth:
 > 
 > - a. the way in which Hadeeth has been received
 > - b. Two components:
 > 	- i. Al Adaah – How it was delivered to Shaykh
 > 	- ii. Tahammum – How it was received from the students
 > 
-> B. 8 Popular forms: (range in strength and vary in forms)
+> ### B. 8 Popular forms: (range in strength and vary in forms)
 > 
 > - a. Assima (heard)/Samaa’: Reading by the teacher
 > 	- i. Four formats:
@@ -267,19 +267,19 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. Waja’tu al Fulaan
 > 	- iii. Similar to our case – We read from published Bukharee and we have not met the Shaykh but certain it is book of Imam Bukharee
 > 
-> C. Benefits:
+> ### C. Benefits:
 > 
 > - a. From this shima, one can identity the certainty of the hadeeth and derive ahkam respectively
 > - b. Demonstrates historical evolution
 > - c. Practical significance
 > ## Chapter 5: Ilmul Diraayah and Ilmul Riwayah
 > 
-> A. Two major Sciences of Hadeeth
+> ### A. Two major Sciences of Hadeeth
 > 
 > - a. Ilmul Diraayah
 > - b. Ilmul Riwayah
 >  
-> B. Definition of Ilmul Riwayah
+> ### B. Definition of Ilmul Riwayah
 > 
 > - a. Linguistic: Knowledge of the narrations
 > - b. Technical: Study of correct transmission of all which is attributed to Prophet like sayings, actions, approval, physical characteristics in addition to narration from Sahaabah’s, tabieen along with benefits/rules that can be extracted from it
@@ -290,7 +290,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. Actual memorization/collection of hadeeth
 > - e. Muhadeeth called Usool al hadeeth as Ilmul Riwayah but it is incomplete with Diraayah
 > 
-> C. Definition of Ilmul Diraayah
+> ### C. Definition of Ilmul Diraayah
 > 
 > - a. Linguistic: Knowledge of chains and conditions of hadeeth
 > - b. Technical: study of the chain of the hadeeth, and the principles that are used in determining the acceptability or unacceptability of a hadeeth.
@@ -303,7 +303,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. Any breaks in the links?
 > 	- iii. Conditions pertaining to Tahmmul and adah was performed
 > 
-> D. Sciences related to Ilmud Diraayah
+> ### D. Sciences related to Ilmud Diraayah
 > 
 > - a. Ilm Jarh wa ta’deel – conditions of the narrator
 > 	- i. Started with Ibn Abbas, Anas ibn Malik <= Companions
@@ -362,7 +362,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 			- a. Many narrators
 > 			- b. Starts from major Imams
 > 
-> E. Literature related to Ilmur Riwayah
+> ### E. Literature related to Ilmur Riwayah
 > 
 > Imam Ahmad collected 750,000 hadeeth but recorded around 40,000 hadeeth
 > 
@@ -423,7 +423,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 			- a. Imam Suyoote – Benefits of Salatul Dhuhaa
 > ## Chapter 6: Conditions for acceptability of Rawi (Narrator)
 > 
-> A. Four Conditions for Legitimacy of the narrator:
+> ### A. Four Conditions for Legitimacy of the narrator:
 > 
 > - a. Aql (intellectual ability/discernment)
 > 	- i. Ability to discern right and wrong and ability to perform the functions of Hadeeth like Al ada’ (deliver) and Tahammul (receive)
@@ -442,25 +442,25 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iv. Established by Witnesses
 > - d. Al Islaam (Spiritual capability)
 > 
-> B. Historical outlook:
+> ### B. Historical outlook:
 > 
 > - a. In early stages, these 4 conditions were the practical understanding of the environment as the science was at its infancy
 > - b. Later Scholars formalized the conditions and categorized
 > 
-> C. What is Jarh wa ta’deel?
+> ### C. What is Jarh wa ta’deel?
 > 
 > - a. Jarh means criticism
 > - b. Ta’deel means praising
 > - c. Jarh of sectarian group will not be accepted (eg.:Asharites rejecting the Rawi from Ahlus sunnah wal jamah)
 > 
-> D. Conditions of Jarh
+> ### D. Conditions of Jarh
 > 
 > - a. Ibtidaa (blemished because of bidah
 > - b. Mukhalafatul thiqah (contradicts reliable narrator)
 > - c. Jahalatul haal (not aware of his own circumstances)
 > - d. Inqitas sanad (no break in the chain)
 > 
-> E. Conditions of Jarh attached to Adaalah (Honesty)
+> ### E. Conditions of Jarh attached to Adaalah (Honesty)
 > 
 > - a. Accusation of fabrication
 > - b. Fasiq (Open transgresson)
@@ -468,7 +468,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. Bid’at – person guilty of doing Bid’ah
 > - e. Muroo’ah – He does things that creates doubt about his personal conduct
 > 
-> F. Conditions of Jarh attached to Dabt (accuracy)
+> ### F. Conditions of Jarh attached to Dabt (accuracy)
 > 
 > - a. Soo’ul Hifz: Bad Memorization (confuses between the text) -this riwayah or equal to more than his Saheeh riwayah
 > - b. Prone to make mistakes in memory (names, dates, text, etc)
@@ -476,33 +476,33 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. Al wahm: Person dreams/imagines things
 > - e. Mukhalafat at thiqah: Report a hadeeth that contradicts the hadeeth of thiqah (Strongly reliable)
 > 
-> G. How to deal with conflicting reports?
+> ### G. How to deal with conflicting reports?
 > 
 > - a. Somebody done Jarh (Criticism) and somebody done ta’deel (praise)
 > - b. We acknowledge/reject based on reasons provided
 > - c. Person unknown is called Mubham
 > - d. About those whom we don’t know, we see there is no report that threatens their Adaalah.. We don’t know about his bad conduct and we don’t know about his good conduct as well so we don’t accept until something is established
 > 
-> H. Levels of Jarh wa ta’deel
+> ### H. Levels of Jarh wa ta’deel
 > 
 > - i. Person might be a outright liar – completely rejected
 > - ii. Person forgets sometimes/dreams –
 > - iii. Person doesn’t act upon what he knows
 > ## Chapter 7: Classifications of Hadeeth terminologies (Ilm Mustalah al Hadeeth)
 > 
-> A. Introduction
+> ### A. Introduction
 > 
 > - a. Categorized according to different requirements as Hadeeth are of different types
 > - b. Ibn Salah mentions around 65 classifications in his book Usool al Hadeeth and states these are sciences by itself
 > 
-> B. Ranges of authenticity:
+> ### B. Ranges of authenticity:
 > 
 > - a. Authenticity ranges between Saheeh and Da’eef
 > 	- i. Saheeh
 > 		- Al hasan
 > 	- ii. Da’eef
 > 
-> C. Saheeh Hadeeth
+> ### C. Saheeh Hadeeth
 > 
 > - a. Conditions:
 > 	- i. Hadeeth al musnad (continuous links of narrator) reaches Muhammad that marfu, mauquf, and not mursal, munqati
@@ -561,7 +561,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- e.g. "If I have not feared for this ummah, I would have ordered them to use miswak before every salah" [Abu Dawood]
 > 		- Hukm: same as Saheeh li Thaatihi. It obliges the person to obey the injunctions in it
 > 
-> D. Hadeeth Hasan
+> ### D. Hadeeth Hasan
 > 
 > - a. History of Hadeeh Hasan
 > 	- i. Not known in earlier period rather introduced in later period
@@ -591,7 +591,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- v. Mahfooth
 > - f. Hukm of Hadeeth Hasan: Treat same as Saheeh, Has authority in daily conduct and legislations
 > 
-> E. Hadeeth Da’eef
+> ### E. Hadeeth Da’eef
 > 
 > - a. Definition
 > 	- i. Anything doesn’t meet the requirements of Saheeh or Hasan
@@ -650,7 +650,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iv. Requires comprehensive knowledge of Rijaal, language, places, various isnaad of the Hadeeth and long time engagement with Hadeeth and so on to identify this
 > - v. Imam Bukharee, Tirimidhee discussed about Mu’allil in some of his works
 > 
-> F. According to hidden defect found in the Isnaad or text
+> ### F. According to hidden defect found in the Isnaad or text
 > 
 > - a. Hadeeth al Mudtarib/Idtiraab (Confusion)
 > 	- i. Reported in number of different ways (chain/reports)
@@ -668,7 +668,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- v. Hukm: Considered weak because of less Dabt
 > 	- vi. Historical: Story of Imam Bukharee and 100 reversed hadeeth
 > 
-> G. According to nature of the text and Isnaad
+> ### G. According to nature of the text and Isnaad
 > 
 > - a. Hadeeth al Shadh
 > 	- i. Narrator is Thiqaa presents hadeeth which is contradictory to the hadeeth presented by thiqaa who is more than him
@@ -677,13 +677,13 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - b. Hadeeth al Munkar:
 > 	- i. Similar to Shadh in opposition to one who is stronger than itself and but here happens between weak narrator and Thiqaa
 > 
-> H. Hadeeth al Matrook (Discarded)
+> ### H. Hadeeth al Matrook (Discarded)
 > 
 > - a. Narrator who has been accused of fabrication.
 > - b. Rawi is prone to make serious mistakes and doesn’t enjoy sound character
 > - c. Hukm: Rejected
 > 
-> I. Rulings of Hadeeth al Mauquf
+> ### I. Rulings of Hadeeth al Mauquf
 > 
 > - a. Hadeeth that reaches Sahabee not Rasoolullah
 > - b. Actions/sayings of Sahabah
@@ -691,13 +691,13 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. Eg.: Abdullaah ibn Masood narrated "Whoever meets fortuneteller and believes what he says then disobey Allaah and his Prophet"
 > - d. Ibn Umar, Ibn aas narrated Bani Israeliat and we do not take from them
 > 
-> J. Rulings of Hadeeth al Maqtu
+> ### J. Rulings of Hadeeth al Maqtu
 > 
 > - a. Hadeeth that reaches Tabi’ee and not Rasoolullah
 > - b. We do not consider later tabiee’s narration
 > - c. Abu Haneefa: We do not have any option when it comes to Rasoolullah and from Sahaabah we have option but with tabiee, they are men and we are men
 > 
-> K. Where Da’eef Hadeeth is allowed to be used?
+> ### K. Where Da’eef Hadeeth is allowed to be used?
 > 
 > - a. Da’eef hadeeth is allowed in virtuous deeds (Fadail Amal) when there is number of Da’eef hadeeth which supports the hadeeth
 > - b. Many Scholars refused to use Da’eef hadeeth
@@ -708,7 +708,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. Pertain to some of the major categories/themes (abwab) of the hadeeth
 > 	- iii. Should not contradict the stronger report
 > 
-> L. Hadeeth categories which may be Saheeh/Hasan/Da’eef
+> ### L. Hadeeth categories which may be Saheeh/Hasan/Da’eef
 > 
 > - a. Category 1: Marfoo/Musnad/Mutassill
 > 	- i. Marfoo may be Saheeh/Hasan/Da’eef depending upon the investigation
@@ -741,14 +741,14 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- One person minimum and one or two at different levels of Isnaad
 > 		- Also called as Alfard misbee
 > 
-> M. How Hadeeth elevated?
+> ### M. How Hadeeth elevated?
 > 
 > - a. Elevation:
 > 	- i. From Da’eef to Hasan li Ghayrihi
 > 	- ii. From Hasan to Shaheeh li Ghayrihi
 > - b. Way: By means of supporting evidences: Hadeeth al Mutaabih/AsShahidh and other requirements
 > 
-> N. Hadeeth al Mutaabih
+> ### N. Hadeeth al Mutaabih
 > 
 > - a. Mutaabih is what has been narrated in exact wording
 > 	- i. Mutaabih at Taam (complete)
@@ -757,11 +757,11 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Rawi is not included in the chain
 > 		- the supporting chain begins with the sheikh of the narrator not the narrator
 > 
-> O. Hadeeth as Shahidh
+> ### O. Hadeeth as Shahidh
 > 
 > - a. Shahid can either be in wording (al lahwi)or meaning (al manawi) of the text
 > 
-> P. Hadeeth al Mudaraj
+> ### P. Hadeeth al Mudaraj
 > 
 > - a. Interpolation in the text of the hadeeth
 > - b. This is unintended interpolation and happens during explanation
@@ -779,7 +779,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. Narrators themselves identified
 > - f. Hukm: It can be Saheeh/hasan/Da’eef
 > 
-> Q. Hadeeth Musalsal
+> ### Q. Hadeeth Musalsal
 > 
 > - a. Certain particular act will be continued when tahammul and aadah will take place
 > - b. Particular characteristics will remain in hadeeth
@@ -787,23 +787,23 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. It can be verbal/physical
 > - e. Hukm: It can be Saheeh/hasan/Da’eef
 > 
-> R. Hadeeth al Musahhaf
+> ### R. Hadeeth al Musahhaf
 > 
 > - a. The hadeeth in which contamination takes place due to the scribing of hadeeth
 > - b. When you scribe the word, you may miss out dots but actual form stays the same
 > 
-> S. Hadeeth al Muharaf:
+> ### S. Hadeeth al Muharaf:
 > 
 > - a. Actual form of the letter itself does change and changing the wording and meaning
 > - b. Gives farfetched meaning
 > - c. Hukm: Da’eef
 > 
-> T. Points on Criticism
+> ### T. Points on Criticism
 > 
 > - a. Criticism is the key thing that gave raise to different classifications
 > - b. Muhadeeth never adjudged based on face value of the terminology rather they investigated each hadeeth
 > 
-> U. Mawdoo
+> ### U. Mawdoo
 > 
 > - a. Overview
 > 	- i. Realm of Imposters
@@ -836,7 +836,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. Ahmad ibn Hanbal and Yahya ibn Muin
 > 		- Both hearing someone during their wudoo narrating hadeeth in reference to them. they went and sat in his circle. Yahya asked "Did you hear from Yahya ibn Muin?" He replied "No" When Yahya told he was Yahya, then the fabricator replied "I heard yaha ibn muin is a foo"l and he was schocked. He added "I narrate from 17 Ahmad ibn Hanbal and Yahya ibn Muin and do you think you are the only one"
 > 	- ii. Abdul kareem ibn Abi awjah
-> 		- During the time of Mahdee, abbasid caliph
+> 		- During the time of Mahdee, Abbasid Khalifa
 > 		- He was killed and he accepted that he narrated 400 fabricated hadeeth in which he made halal as haram and vice versa
 > 		- This is the time, Muhadeeth developed a science called Ilmul Rijaal
 > - e. Our Position:
@@ -846,9 +846,9 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Eg.: Sufees fabricated a lot in Fadail-e-Amal
 > ## Chapter 8: Shuboohath(Controversies) leveled against Hadeeth
 > 
-> A. Declaration: Islaam is a protected source of learning and safeguarded from controversies
+> ### A. Declaration: Islaam is a protected source of learning and safeguarded from controversies
 > 
-> B. Enemies who leveled controversies:
+> ### B. Enemies who leveled controversies:
 > 
 > - a. Orientalists
 > 	- i. They were non Muslims who do not accept prophethood of Muhammad or atheists or biased individuals
@@ -860,12 +860,12 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. Those who learned from Orientalists
 > 	- ii. Those who were fired with their desires and whims
 > 
-> C. Historical background of Shuboohath:
+> ### C. Historical background of Shuboohath:
 > 
 > - a. Shedding doubts in the religion started with the time of Muhammad (s)
 > - b. Eg.: In Qur’aan 25:46, Mushrikoon trying to shed doubt about prophet hood of Muhammad by different ways
 > 
-> D. Reason for Shuboohath:
+> ### D. Reason for Shuboohath:
 > 
 > - a. Primary reasons are to
 > 	- i. Attack legitimate authority of Sunnah
@@ -876,7 +876,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. enmity towards Islam
 > 	- iv. challenges of translation
 > 
-> E. Shuboohath 1: Qur’aan alone is sufficient and no need for Sunnah
+> ### E. Shuboohath 1: Qur’aan alone is sufficient and no need for Sunnah
 > 
 > - a. Evidence for allegation:
 > 	- i. 6:38/16:85 – Dhikr (Qur’aan) which explains everything <– so no need for the sunnah
@@ -889,7 +889,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. Ibnul Qayyim: Sahaabah’s practically demonstrated Sunnah in their life (7:15 |4:8)
 > - d. Key: Allaah made Sunnah as explanation of Qur’aan and declared authority of Sunnah in Qur’aan
 > 
-> F. Shuboohath 2: Sunnah was not preserved as promise was to preserve the Qur’aan
+> ### F. Shuboohath 2: Sunnah was not preserved as promise was to preserve the Qur’aan
 > 
 > - a. Evidence for allegation:
 > 	- i. 15:9 says it is "Dhikr" which is protected and not Qur’aan alone.
@@ -901,7 +901,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iv. Usool al Hadeeth exemplifies preservation of Hadeeth
 > - c. Key: Sunnah is part of the religion
 > 
-> G. Shuboohath 3: Prohibition to write Hadeeth
+> ### G. Shuboohath 3: Prohibition to write Hadeeth
 > 
 > - a. Evidence for allegation:
 > 	- i. They quote "Do not write my hadeeth…"
@@ -915,11 +915,11 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- vi. there existed some tools enabling written recording
 > 	- vii. Contract between Prophet and Ansaars was written down
 > 
-> H. Shuboohath 4: Later publications/written recording of Habeeth
+> ### H. Shuboohath 4: Later publications/written recording of Habeeth
 > 
 > - a. Above response will be sufficient
 > 
-> I. Shuboohath 5: Fabrications of Hadeeth
+> ### I. Shuboohath 5: Fabrications of Hadeeth
 > 
 > - a. Evidence for allegation: Due to many fabricated hadeeth, hadeeth as a source is not pure
 > - b. Response:
@@ -941,7 +941,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. It doesn’t lead them to become a kafir but believer whose belief is doubted
 > 		- Abi Muhammad al Juhainee said fabricator’s blood is permissible and he bases it from "whosoever fabricates will have his seat in hell fire
 > 
-> J. Shuboohath 6: Ulema of hadeeth focused only on purifying Isnaad and not on purifying Matn
+> ### J. Shuboohath 6: Ulema of hadeeth focused only on purifying Isnaad and not on purifying Matn
 > 
 > - a. Evidence for allegation:They said this because of certain weak hadeeth in Saheeh literature and it means they have not focused on Matn
 > - b. Goals of this Shuboohath:
@@ -954,7 +954,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - c. Response: Isnaad is the ladder that narrates the hadeeth, therefore Hadeeth is highly likely to be Saheeh if ladder is Saheeh
 > - d. Key: Focus on Isnaad is based on the fact that sound hadeeth reaches us through sound communication
 > 
-> K. Shuboohath 7: Prophet never written letter (Hadeeth) to other rulers
+> ### K. Shuboohath 7: Prophet never written letter (Hadeeth) to other rulers
 > 
 > - a. Evidence for allegation:They claimed these letters were not found with the rulers
 > - b. Goals of this Shuboohath: They want to make this religion as religion of Arabs alone and not an universal religion
@@ -964,7 +964,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. All of the Seerah books records these letters
 > 	- iv. Kisrah of Persia torn out the letter and Allaah torn out his empire by Kisrah being killed by his own son
 > 
-> L. Factors that led to these controversies
+> ### L. Factors that led to these controversies
 > 
 > - a. Language:
 > 	- i. Language is coding of information
@@ -984,30 +984,30 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ## Chapter 9: Practice of Storytelling in Islaam
 > 
-> A. Why do we study?
+> ### A. Why do we study?
 > 
 > - a. To understand the process of story telling as it is
 > - b. Not to get influenced that this is the bad institution ignoring its good characteristics
 > 
-> B. Definition of Qasas/Qussas
+> ### B. Definition of Qasas/Qussas
 > 
 > - a. Qas means "to cut/to follow/ to narrate a story"
 > - b. Popularly considered as form of public address
 > 
-> C. Benefits of Story telling
+> ### C. Benefits of Story telling
 > 
 > - a. Serves religious purpose by attracting common man
 > - b. Natural instinct of inclination towards story
 > - c. Tool of Da’wah
 > 
-> D. In Al Qussas wal mudhakeerin, Ibn al Jawzi divides Qassas as follows:
+> ### D. In Al Qussas wal mudhakeerin, Ibn al Jawzi divides Qassas as follows:
 > 
 > - a. Al Wa’idh – Preachers
 > - b. Al Mudhakeerin – One who reminds
 > - c. Al Qusas – do not restrict themselves to Halal and Haram rather introduce for some other purpose
 > - d. Difference: al-Wa’idh invites one to come closer to Allah while according to the limits of Islam while al-Qaas will use any tool available to attract people
 > 
-> E. Criticism about Story tellers:
+> ### E. Criticism about Story tellers:
 > 
 > - a. Bid’ah -Gathering people and narrating story is not the way of Prophet and his righteous companions
 > - b. Many of ancient stories/inherited stories are free from any truth
@@ -1016,13 +1016,13 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - e. Story telling implies Qur’aan and Sunnah are not sufficient as sources
 > - f. Story tellers do not have critical understanding of reports so they just attracted with the reports they received
 > 
-> F. Term Qussas is not a bad term by itself
+> ### F. Term Qussas is not a bad term by itself
 > 
 > - a. 12:3 – We are the ones who narrate you best story
 > - b. 7:176
 > - c. This term includes Waidh, al mudhakara, tadrees (instruction)
 > 
-> G. Historical Origin of this Practice
+> ### G. Historical Origin of this Practice
 > 
 > - a. Prior to Hasan al Basari, religious instruction took place within the Masjid
 > - b. Hasan al Basri went to public roads and started calling people by means of less formal ways
@@ -1033,7 +1033,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - g. This made the noble institution as form of fabrication and manipulation of general masses
 > - h. This is due to widespread introduction of hadeeth, mostly inauthentic, in their stories
 > 
-> H. Conditions pertaining to Qussas (actually Al Wai’dh) (Ibn al Jawzee)
+> ### H. Conditions pertaining to Qussas (actually Al Wai’dh) (Ibn al Jawzee)
 > 
 > - a. Knowledge of various sciences that will appeal to the audience
 > - b. Knowledge of Hadeeth
@@ -1044,7 +1044,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - g. Aabidth (Worshipper)
 > - h. To abstain from luxurious life rather lead a simple life (in order he’s not narrating for material benefits)
 > 
-> I. Significance of Storytelling today
+> ### I. Significance of Storytelling today
 > 
 > - a. Media, movies of today are form of story telling
 > - b. It is possible that we can use these tools to attract people to Allaah azawajal
@@ -1054,24 +1054,24 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > "Isnaad is pivotal part of Hadeeth and its discussion comprises every parts of Hadeeth"
 > 
-> A. Definition of **Jarh wa ta’deel**
+> ### A. Definition of **Jarh wa ta’deel**
 > 
 > - a. Jarh means criticism of narrators 
 > - b. Ta’deel means validation/praise 
 > - c. Jarh wa ta’deel is the science that tests narrators of Isnaad in terms of Adaalah and Dabt
 > 
-> B. Authority from which Science extends 
+> ### B. Authority from which Science extends 
 > 
 > - a. Qur’aan 49:6 – **Jarh** (Criticism) 
 > - b. Qur’aan 9:100 – **Ta’deel** (Validation)
 > 
-> C. Classification Schemes overview: 
+> ### C. Classification Schemes overview: 
 > 
 > - a. Organization structure which presents various level of **Ta’deel** and **Jarh** in terms of strength and weakness 
 > - b. Various schemes were developed by Scholars 
 > - c. First to identify was Imam Ibn Abi Hatim ar Razi 
 > 
-> D. Imam Ibn Abi Hatim ar Razi’s Scheme 
+> ### D. Imam Ibn Abi Hatim ar Razi’s Scheme 
 > 
 > - a. Level 1: Sahabaah 
 > 	- i. Level that needs no test and all are just and accurate 
@@ -1095,12 +1095,12 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- **Matrook al Hadeeth** 
 > 			- a. Not written and not contemplated 
 > 
-> E. Imam Ibn Salah: 
+> ### E. Imam Ibn Salah: 
 > 
 > - a. He was from Iraq and came later 
 > - b. He just elaborated the system of Imam Ibn Abi Hatim 
 > 
-> F. Al Hafidh adh Dhahabee 
+> ### F. Al Hafidh adh Dhahabee 
 > 
 > - a. He was born in Damascus in 673 H 
 > - b. He presented different classification system and his level of organization was different 
@@ -1127,7 +1127,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. It is much easier to do Ta’deel than Jarh with Imam Dhahabee 
 > 	- ii. Imam Dhahabee uses certain ambiguous terms and we are not clear about it 
 > 
-> G. Al Hafidh al Iraqee 
+> ### G. Al Hafidh al Iraqee 
 > 
 > - a. Born in 735 H in Egypt and died 809 H 
 > - b. Memorized Qur’aan in very early age 
@@ -1148,7 +1148,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- v. Fulan feehe makal 
 > 		- He could be okay but lack of proficiency surrounding him which causes doubt to accept him 
 > 
-> H. Imam Ibn Hajar al Asqalanee 
+> ### H. Imam Ibn Hajar al Asqalanee 
 > 
 > - a. Born in Cairo in 773 H 
 > - b. Learnt under Imam Iraqee and travelled with him in search of Hadeeth 
@@ -1171,7 +1171,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > | 12th  | One who is classified as a liar or fabricator                                                                                                                                                                                             | Kaththaab or Waddaa’                                                        |
 > - e. As Imam Ibn Hajar came much later, these many levels and focus 
 > 
-> I. Al Hafidh as Sahawi 
+> ### I. Al Hafidh as Sahawi 
 > 
 > - a. Born in Cairo in 831 H 
 > - b. Student of Ibn Hajar 
@@ -1191,7 +1191,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iv. Mukab 
 > 	- v. Da’eef 
 > 
-> J. All Imam’s agreed on these three points: 
+> ### J. All Imam’s agreed on these three points: 
 > 
 > - a. Hadeeth which is rejected completely 
 > - b. Hadeeth rejected but recorded 
@@ -1199,7 +1199,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ## Chapter 11: Treatment of Hadeeth by Fiqhi Schools 
 > 
-> A. Wahy 
+> ### A. Wahy 
 > 
 > - a. Qur’aan 
 > 	- i. contains all Usool ad deen 
@@ -1214,7 +1214,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Fuqaha – interested in hadeeth that demonstrates practical implementation of law 
 > - c. Hadeeth is authoritative but different in constitution from Qur’aan i.e., miraculous nature, 
 > 
-> B. Hanafi Math-hab: 
+> ### B. Hanafi Math-hab: 
 > 
 > - a. Founded by Nu’man ibn Thaabith who born in Kufa 
 > - b. It is School of Ar-Rai (Opinion) 
@@ -1231,7 +1231,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. Hadeeth should be used by other Scholars 
 > 	- iv. If one Sahaabah narrates, it should be heard by other Sahaabah’s and they should not have opposed it 
 > 
-> C. Maliki Math-hab: 
+> ### C. Maliki Math-hab: 
 > 
 > - a. Imam Malik ibn Anas was a Madeenite Scholar 
 > - b. It is School of Ahlul Hadeeth 
@@ -1243,13 +1243,13 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. Inhabitants of Madeenah are inhabitant’s of Prophet’s city and they modeled their life according to Prophet’s conduct 
 > 	- ii. He used Amal-e-Madeenah over Ahad Hadeeth at times 
 > 
-> D. Shafi’ee Math-hab: 
+> ### D. Shafi’ee Math-hab: 
 > 
 > - a. He combined Ra’i and Ahlul Hadeeth 
 > - b. Close student of Imam Malik 
 > - c. He is first to use the term Qiyaas itself 
 > 
-> E. Qiyaas: 
+> ### E. Qiyaas: 
 > 
 > - a. Definition 
 > 	- i. Linguistic: Value something 
@@ -1270,7 +1270,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ### Various approach in using Ahad and Mursal Hadeeth 
 > 
-> A. Ahad Hadeeth 
+> ### A. Ahad Hadeeth 
 > 
 > - a. Sahaabahs unanimously agreed to its usage 
 > - b. Examples from Major Sahaabah’s 
@@ -1283,14 +1283,14 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. Uthman: Widow to continue her iddah though her husband was deceased 
 > 	- iv. Hadeeth of Aisha on Ghusl for two private part touching each other even without ejaculation 
 > 
-> B. Exceptions where Ahad rejected 
+> ### B. Exceptions where Ahad rejected 
 > 
 > - a. Narrator is not a Thiqa 
 > 	- i. Umar rejecting Fatima bint Qays case because he did not trust her 
 > - b. Hadeeth is against stronger evidence 
 > 	- i. Aisha rejected the Ahad hadeeth from Ibn Umar hadeeth on wailing that it will affect the dead on the account that no one will carry sin of other person 
 > 
-> C. Imam Shaafi’ee’s response 
+> ### C. Imam Shaafi’ee’s response 
 > 
 > - a. For the argument, Qur’aan says witness as one male and two females. He responded principle is to take witness if they don’t have any mistakes 
 > - b. Prophet asked us to memorize, preach the Hadeeth 
@@ -1298,7 +1298,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. Prophet sending 12 messengers to 12 kings (Ahad) 
 > - e. Sahaabah’s enacted upon hadeeth which were singular 
 > 
-> D. Treatment of Ahad hadeeth by various Schools 
+> ### D. Treatment of Ahad hadeeth by various Schools 
 > - a. Hanafi – Stringent 
 > 	- i. Rawi should not contradict the reliable reports (eg. Abu Hurayrah washing 3 times for najis of dog when the known position is 7 times with one time being with dirt) 
 > 	- ii. It should not be about serious matter as those will be narrated by tawattur due to needs 
@@ -1312,7 +1312,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. Hanbali 
 > 	- i. They have no conditions except it should be authentic 
 > 
-> E. Mursal 
+> ### E. Mursal 
 > 
 > - a. Tabi’ee narrates directly from Prophet omitting sahabee who is intermediary between tabi’ee and prophet ie without sahabee name 
 > - b. Mursal of Sahaabah will be accepted – Jamhoor opinion 
@@ -1325,7 +1325,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ## Chapter 12: Ilm Naasikh wal Mansookhi (Abrogation and Abrogated in Hadeeth) 
 > 
-> A. Definition of Naskh: 
+> ### A. Definition of Naskh: 
 > 
 > - a. Linguistic Meaning: 
 > 	- i. Remove/get away (22:52) 
@@ -1339,7 +1339,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. Example: 
 > 		- Abrogation of Hadeeth recording in writing after fear is removed that Qur’aan will mix with the hadeeth 
 > 
-> B. Condition of Abrogating text: 
+> ### B. Condition of Abrogating text: 
 > 
 > - a. Abrogating evidence should be kitab shar’ee (Evidence from Qur’aan and Sunnah) and not Qiyaas 
 > - b. Abrogation must be by text of equal strength 
@@ -1351,7 +1351,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - f. Abrogated Hukm should not be a permanent hukm or temporary hukm 
 > - g. There must be apparent contradiction between Naasikh and Mansookh 
 > 
-> C. Something that sounds like Naskh but not: 
+> ### C. Something that sounds like Naskh but not: 
 > 
 > - a. Takhsees 
 > 
@@ -1372,7 +1372,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iv. It is to do away with the text 
 > 	- v. Bad’aa comes from created being whereas Naskh comes from Allaah alone as it undermines Allaah of perfect Knowledge 
 > 
-> D. Manifestation in Hadeeth Science 
+> ### D. Manifestation in Hadeeth Science 
 > 
 > - a. Mutawattir abrogated by Mutawattir 
 > - b. Mutawattir abrogated by Ahad 
@@ -1380,7 +1380,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. Exists mainly here 
 > - d. Ahad abrogated by Mutawattir 
 > 
-> E. Ways to identify Naskh in Hadeeth 
+> ### E. Ways to identify Naskh in Hadeeth 
 > 
 > - a. Explicit mention of Prophet 
 > 	- i. "I forbade you to visit graves and now you can visit now…" 
@@ -1393,9 +1393,9 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Opinion 3: It is acceptable when there is some supporting evidence that conflicts with the Mansookh 
 > ## Chapter 13: Ilm at-Ta’aarud waTarjeeh (Conflict and Preference)
 > 
-> A. Declaration: Two sound hadeeth will not contradict each other as both are from Allaah 
+> ### A. Declaration: Two sound hadeeth will not contradict each other as both are from Allaah 
 > 
-> B. T’a’aarud or Alman’aa (Prevention/conflict) 
+> ### B. T’a’aarud or Alman’aa (Prevention/conflict) 
 > 
 > - a. Muhadeeth call it as Mukhtaliful Hadeeth 
 > - b. Defintion: 
@@ -1406,22 +1406,22 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- c. Number of terminologies developed in this science 
 > 	- d. Mukhtalaf will happen only in authentic reports (Saheeh, hasan, ahad, Musnad) 
 > 
-> C. Two kinds of Conflict 
+> ### C. Two kinds of Conflict 
 > 
 > ![[Usool al-Hadeeth - Two Kinds of Conflict.jpg]]
 > 
-> D. Ways to resolve Conflict: 
+> ### D. Ways to resolve Conflict: 
 > 
 > - a. Jam (Combining two conflicting hadeeth) 
 > - b. Tarjeeh (Preferring one hadeeth over another) 
 > - c. Naskh (One hadeeth would have abrogated another) 
 > 
-> E. Usage of Mukhtaliful Hadeeth 
+> ### E. Usage of Mukhtaliful Hadeeth 
 > 
 > - a. Ibn Hajar used to mean only for Jam 
 > - b. Imam Shafi’ee does not include Naskh 
 > 
-> F. Mushkalul Hadeeth (Confusion in Hadeeth) 
+> ### F. Mushkalul Hadeeth (Confusion in Hadeeth) 
 > 
 > - Happens in sound texts 
 > 
@@ -1432,12 +1432,12 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > | 3     | Meaning will be clear           | absurdity in the language due to use of Majaz (metaphor) and others      |
 > | 4     | We go for 3 ways to resolve     | other evidences are sorted out to explain the intention of the statement |
 > 
-> G. Qualities of Taa’rud 
+> ### G. Qualities of Taa’rud 
 > 
 > - a. Tadaad : opposite 
 > - b. Authority: Of same authority 
 > 
-> H. Ta’aarud al Haqeeqe (Real conflict) doesn’t take place in Qur’aan & Sunnah (Jamhoor) 
+> ### H. Ta’aarud al Haqeeqe (Real conflict) doesn’t take place in Qur’aan & Sunnah (Jamhoor) 
 > 
 > - a. Sunnah is nothing but Wahy (53:3,4 | 21:45) 
 > - b. If it is from other than Allaah, you would have found contradictions (4:72) 
@@ -1445,7 +1445,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. It implies ignorance of Allaah. Subhanallaah 
 > - e. Why do we have Naskh and Tarjeeh? These Tools indicate that real conflict will never take place 
 > 
-> I. Reasons why conflict appears: (Imam Shafi’ee) 
+> ### I. Reasons why conflict appears: (Imam Shafi’ee) 
 > 
 > - a. Regarding Narrator: 
 > 	- i. Lack of Memorization: Narrator asks question to Prophet but he memorize answer alone. (eg.: Hadeeth of Ubaadah ibn Samit. Prohibited sale of something for its value) 
@@ -1457,7 +1457,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - c. Ignorance of Naskh 
 > - d. Ignorance about changes in circumstances and environment 
 > 
-> J. How to deal with Ta’aarud? (Order of Approach) 
+> ### J. How to deal with Ta’aarud? (Order of Approach) 
 > 
 > - a. Jamhoor (All Madh-hab and portion of Ahnaf) 
 > 	- i. Jam 
@@ -1476,14 +1476,14 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Strange: Jam helps in respecting both authorities so this should be the preference 
 > 		- Hanfee claim Sahaabahs engaged in Tarjeeh first before others 
 > 
-> K. Conclusions: 
+> ### K. Conclusions: 
 > 
 > - a. These conflicts are apparent and not real. 
 > - b. Apparent conflict appears mostly due to lack of skill
 > 
 > ## Chapter 14: Tarjeeh Discourse (Ways of Preference) 
 > 
-> A. Definition: 
+> ### A. Definition: 
 > 
 > - a. Linguistic: Preference, weightier 
 > - b. Technical: 
@@ -1499,7 +1499,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Happens in Ahad text 
 > 	- iv. Objective of Murajih is not to make ruling rather try to benefit from it 
 > 
-> B. Three components of Tarjeeh 
+> ### B. Three components of Tarjeeh 
 > 
 > - a. Number of different ways to do Tarjeeh which goes back to the Scholar involved. The below three components broadly covers all 
 > 	- i. Respect to Isnaad 
@@ -1508,7 +1508,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ![[Usool al-Hadeeth - Tarjeeh.jpg]]
 > 
-> C. Conditions related to performing Tarjeeh 
+> ### C. Conditions related to performing Tarjeeh 
 > 
 > - a. Person should be a Mujtahid 
 > - b. Text shouldn’t be Qatee rather it should be Zanee 
@@ -1518,14 +1518,14 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - d. There shouldn’t be Naskh 
 > - e. It shouldn’t be Mutawattir hadeeth 
 > 
-> D. Hukm regarding Tarjeeh 
+> ### D. Hukm regarding Tarjeeh 
 > 
 > - a. Jamhoor: It is incumbent (wajib) upon us to act upon preferred hadeeth (Tarjeeh) over weaker hadeeth (Da’eef) 
 > 	- i. Practice of the companions 
 > 	- ii. When Mu’adh was sent to Yemen, he was asked several questions by the Prophet on how he would judge. Mu’adh said : Qur’aan is first recourse, then hadeeth, then Ijtihaad 
 > 	- iii. Fasting in the state of impurity (wet dream) of the Prophet was preferred by Sahaabahs over hadeeth which prohibits fasting in the state of janaba, narrated by Abu Hurayrah. 
 > 
-> E. Tarjeeh in Isnaad 
+> ### E. Tarjeeh in Isnaad 
 > 
 > - a. According to Rawi 
 > 	- i. Rawi’s whose Adaalah was agreed upon over whose adaalah was not agreed upon 
@@ -1549,7 +1549,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- vi. Sanad al Alee (less tabaqat) over Sanad an Nazil (more tabaqat) 
 > 	- vii. Isnaad Hijaazi (from Arabia) over Isnaad Shaami (from Iraq) 
 > 
-> F. Tarjeeh according to text of Hadeeth 
+> ### F. Tarjeeh according to text of Hadeeth 
 > 
 > - a. Language of the text 
 > 	- i. Verbally communicated is preferred over that is communicated in meaning 
@@ -1571,7 +1571,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iv. Prohibition over order (Nahy is to prevent any harm whereas order is to do something good) 
 > 	- v. Hukm of Haram over Ibaaha (permissible). Orgin of everything over permissibility 
 > 
-> G. Tarjeeh in External Evidences 
+> ### G. Tarjeeh in External Evidences 
 > 
 > - a. Supports meaning 
 > - b. Similar chains 
@@ -1580,12 +1580,12 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ## Chapter 15: Takhreej al Hadeeth (FIR of Hadeeth) 
 > 
-> A. Definition: 
+> ### A. Definition: 
 > 
 > - a. Way of attaching hadeeth to particular book, or to its narrator among Imam along with its authenticity, strength and Hukm 
 > - b. Eg.: So and so Hadeeth is in Bukharee volume 1 Book 1 and Hadeeth 1 
 > 
-> B. Practical Benefit: 
+> ### B. Practical Benefit: 
 > 
 > - Help us in knowing the: 
 > 	- a. Source 
@@ -1594,12 +1594,12 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- d. Hukm of the Hadeeth 
 > 	- e. Precise Location of the hadeeth 
 > 
-> C. Importance: 
+> ### C. Importance: 
 > 
 > - a. Every Islaamic student should be aware of. 
 > - b. It shows his level of Scholarship 
 > 
-> D. Three Main form of Sources (pertaining to Takhreej) 
+> ### D. Three Main form of Sources (pertaining to Takhreej) 
 > 
 > - a. Original Sources 
 > 	- Bukharee, Muslim, Kutub Sittah and so on which present hadeeth with sanad 
@@ -1610,12 +1610,12 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- No complete Isnaad 
 > 	- Reference to books 
 > 
-> E. Requirements to understand Takhreej: 
+> ### E. Requirements to understand Takhreej: 
 > 
 > - a. Researcher must have some understanding of Arabic Language 
 > - b. Fair acquaintance with Hadeeth itself 
 > 
-> F. Benefits of Hadeeth Takhreej 
+> ### F. Benefits of Hadeeth Takhreej 
 > 
 > - a. Gives you similar Hadeeth (more than one source) 
 > - b. Discussion about Ta’aarud at Tarjeeh 
@@ -1625,7 +1625,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - f. Various texts of Mutun (asbab an nuzool, ahkam, usooli aspect and so on) 
 > - g. Retrieval system of Hadeeth 
 > 
-> G. Books of Takhreej 
+> ### G. Books of Takhreej 
 > 
 > - a. Musannafat – chapter arrangement 
 > - b. Musnad – Narrators Organization 
@@ -1702,7 +1702,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Beware some site may be dubious 
 > 		- Not reliable 
 > 
-> I. Three forms of presenting Takhreej 
+> ### I. Three forms of presenting Takhreej 
 > 
 > - a. Concise way: Author of the Book, name of the book, chapter of the book, number (eg.: Imam Bukharee) 
 > - b. Middle way: all the above, various chains, different text according to Isnaad. Any point of reference to particular way 
@@ -1712,7 +1712,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- iii. Other above details 
 > ## Chapter 16: Life of Great Hadeeth Scholars 
 > 
-> A. Imam Al Bukharee 
+> ### A. Imam Al Bukharee 
 > 
 > - **Name:** Muhammad ibn Ismaael ibn Ibraheem ibn Mugheerah ibn Bardazee 
 > - Born in 194 H in Bukhara 
@@ -1765,7 +1765,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- g. He benefited from earlier works like Muwatta 
 > 	- h. Some of hadeeth isnaad are Muallaqat 
 > 
-> B. Imam Muslim 
+> ### B. Imam Muslim 
 > 
 > - Abul Hussain ibn Hallaaj al Muslim an Naysaburee (203 to 261 AH) 
 > - Contemporary, student, colleague of Imam Bukharee 
@@ -1784,7 +1784,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - Mut’abat and Shawahidh Hadeeth are there in Sahih Muslim. These weak hadeeth are made strong with supporting evidences 
 > - Origin of this approach can be traced back to Risalah of Imam Shafi’ee. He discusses about this in his Mursal discussion 
 > 
-> C. Imam Abu Dawood 
+> ### C. Imam Abu Dawood 
 > 
 > - Name: Abu Dawood ibn Sulaiman ibn Ash’ath ibn Amrul ash’ath as Sijjastanee (202 – 275 AH) 
 > - Teachers: 
@@ -1806,7 +1806,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - His sub headings indicate his vast knowledge of Fiqh. In the category of Etiquette, he mentions 108 sub heading 
 > - Hadeeth of Fe’liyah, Qawliyah, Taqreer are in Abu Dawood 
 > 
-> D. Imam An Nasaee 
+> ### D. Imam An Nasaee 
 > 
 > - Name: Abu Abdur rahman Ahmad ibn Shuvayb an Nasa’ee (215 -303 AH) 
 > - He met Shaykh Harith al Maskhin but he never allows anyone who is wearing wearing quba to attend his as he thinks them to be from authority. So Shaykh Harith denied class for Nasa’ee who is wearing Quba 
@@ -1816,7 +1816,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - He does lot of repetition 
 > - Lot of hadeeth found in Nasa’ee is in Shaheehayn 
 > 
-> E. Imam Tirimidhee 
+> ### E. Imam Tirimidhee 
 > 
 > - Aboo Eesa Muhammaad ibnEeasa ibn Saura at Tirimidhee (209 -279 AH) 
 > - Teachers: 
@@ -1832,7 +1832,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - One would be able to narrate hadeeth with strong memory but deteriorates after time; hadeeth will be taken when they are strong. We wont rule all their Hadeeth outright 
 > - He categorized hadeeth in Thematic approach 
 > 
-> F. Imam Ibn Hajar al Asqalani 
+> ### F. Imam Ibn Hajar al Asqalani 
 > 
 > - **Early Life of Imam Ibn Hajar al Asqalani**
 > 	- a. Ahmad ibn Ali Muhammaad ibn Ali ibn Muhammad ibn Ahmad Shihabudeen Asqalanee 
@@ -1889,12 +1889,12 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ## Chapter 17: Role of Women in the institution of Hadeeth 
 > 
-> A. Role of Women before Islaam 
+> ### A. Role of Women before Islaam 
 > 
 > - a. Custom to bury female new born as they believed it will bring burden to the family (16:28, 29) 
 > - b. Misfortunes 
 > 
-> B. Role of Women in Qur’aan 
+> ### B. Role of Women in Qur’aan 
 > 
 > - a. Qur’aan views women in virtue of their creation 
 > - b. They are like men who have certain rights (4:1-4) 
@@ -1907,7 +1907,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. Hadeeth about one’s mother ["Your Mother" three times…] 
 > 	- ii. Pregnancy, child birth are praised 
 > 
-> C. Difference between Riwayah and Shahadha 
+> ### C. Difference between Riwayah and Shahadha 
 > 
 > - a. Riwayah is narration 
 > - b. Shahadha is witnessing 
@@ -1915,7 +1915,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- ii. Men are more knowledgeable in contracts than women as they travel much and aware of idioms 
 > 	- iii. This verse is not denying women rather gives her power 
 > 
-> D. Women in narrating Hadeeth 
+> ### D. Women in narrating Hadeeth 
 > 
 > - a. In conditions of Rawi, it has nothing to do with gender 
 > 	- i. Among the major narrators were Aisha, Umm Salama 
@@ -1924,7 +1924,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. No difference between Man and Women 
 > 	- ii. Issue: Fatima Bint Qays and Umar. Umar rejected as she has not met the conditions (Mukhtafal Qur’aan) and not for being women 
 > 
-> E. Active Roles: 
+> ### E. Active Roles: 
 > 
 > - a. Umm kalthum performed Hijrah 
 > - b. Surah Mumtahinah:13 – Muslim Women cannot be returned to Non Muslim relatives 
@@ -1946,7 +1946,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - h. Ummul Kareemah al Marwaziyah 
 > 	- i. One of her Isnaad is strongest Isnaad 
 > 
-> F. Learning Forums for Women 
+> ### F. Learning Forums for Women 
 > 
 > - a. Teaching of Prophet was directed to Men and Women 
 > - b. Public Lectures 
@@ -1960,7 +1960,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- She transported knowledge from Mangol attacked area to other parts of world like Isbahan and so on 
 > - g. Muslim History is a masculine History, denying the rights of women is a absurd Myth 
 > 
-> G. Historical Development of Hadeeth among Women 
+> ### G. Historical Development of Hadeeth among Women 
 > 
 > - a. Stage 1: Sahaabiyaath (1-2 AH) 
 > - b. Stage 2: More Men and less Women (2-5 AH) 
@@ -1979,7 +1979,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ## Appendix A: Textual reading from Jaami al Uloom al Hikam 
 > 
-> A. Overview of Jaami al Uloom al Hikam 
+> ### A. Overview of Jaami al Uloom al Hikam 
 > 
 > - a. Written by Ibn Rajab al Hanbalee (d.795 AH) 
 > - b. Compilation of knowledge in different fields 
@@ -1991,7 +1991,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > - e. Systematic approach and have consistency all through the work 
 > - f. It does repetition of different riwayah, similar opinions, Ahkam 
 > 
-> B. Sample: Hadeeth of Eeman/Jibreel 
+> ### B. Sample: Hadeeth of Eeman/Jibreel 
 > 
 > - a. Imam Muslim is the single person who has done Takhreej of hadeeth from Imam Bukharee 
 > - b. Presents all related hadeeth which has similarity in meaning (Shahidh) and gives clear picture 
@@ -2022,7 +2022,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > - Though Uloom al hadeeth is rich with ample amount of sciences , it can be categorized as follows 
 > 
-> A. Broader Sciences: 
+> ### A. Broader Sciences: 
 > 
 > - a. Any Hadeeth is comprised basically of two components 
 > 	- i. Isnaad (Chain) 
@@ -2034,7 +2034,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 
 > ![[Usool al-Hadeeth - Overview.png]]
 > 
-> B. Ilmud Diraayah (Testing the Chain) 
+> ### B. Ilmud Diraayah (Testing the Chain) 
 > 
 > ![[Usool al-Hadeeth - Testing the Chain.png]]
 > 
@@ -2058,7 +2058,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- What is the reliability level and memory of the narrator? eg.: Sahih, Da’eef 
 > 	- iii. Greatest benefit of this science is that it gives us the Hukm of the hadeeth whether we have to accept or reject 
 > 
-> C. Ilmur Riwayah (Testing the Text) 
+> ### C. Ilmur Riwayah (Testing the Text) 
 > 
 > - a. Ilm Mukhtalifal Hadeeth (Handling Conflict) 
 > 	- i. After Hadeeth is confirmed with the help of sciences of Riwayah that it is truly the hadeeth from the Prophet, then focus is turned to text of the hadeeth 
@@ -2077,7 +2077,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 	- i. This science tries to compile all the hadeeth that are relevant for Fiqh rulings such as the books of Abu Yusuf, Abu Dawood, A’laam al-Muwaqqi’een of Ibn al-Qayyim al-Jawziyyah and others 
 > 	- ii. This science ultimately gives the fruit of the hadeeth 
 > 
-> D. Both Diraayah and Riwayah 
+> ### D. Both Diraayah and Riwayah 
 > 
 > After studying the Isnaad and text from different dimensions, there are certain sciences which studies in combination of text and chain and gives us numerous benefits 
 > 
@@ -2097,7 +2097,7 @@ This is from the curriculum of Semester 3 from Knowledge International Universit
 > 		- Related hadeeth and versions 
 > 		- Supporting hadeeth and so on 
 > 
-> E. Conclusion
+> ### E. Conclusion
 > 
 > ![[Usool al-Hadeeth - Conclusion.jpg]]
 > 
