@@ -522,20 +522,34 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 					- Merged with mainstream Ibadism in the 7th (AH) / 13th (CE) century through the influence of Abu Yahya Zaakariyya ibn Ibrahim al-Baruni
 			- Wahbi, based on Abd Allah ibn Wahb al-Rasibi's teachings, is seen as the purest form of Islam)
 				- Nukkar (Deniers) (The denied second Rustamid Imam 'Abd al-Wahhab ibn 'Abd al-Rahman), based on Abu Yazid al-Nukkari's teachings
-			- Azzabas (a Maddhab In North Africa, name from Azzaba in Algeria)
+			- Azzabas (a Maddhab In North Africa, named after the region of Azzaba in Algeria)
 			- Maddhabs
 				- Abu Jabir Muhammad ibn Ja'far al-Izkawi wrote the Jami' ibn Ja'far (The Compendium of ibn Ja'far), or just al-Jami' (The Compendium) in 3rd (AH) / 9th (CE) century.
 			- History
-				- The fall of Rustamid and Omani imamates at the end of the 3rd (AH) / 9th (CE) centuries led to the development of the doctrines of Taqiyya (religious dissimulation) and Kitman (living in secret dissension from the ruling authorities)
-				- In North Africa, the 'Azzaba councils developed to replace the Imamate.
-				- Just as the decline in power of the 'Abbasid Khilafat led to Sunnis developing their jurisprudence, Ibadi scholars also wrote down the Ibadi doctrine and jurisprudence during this period (late 3rd (AH) / 9th (CE) century).
-				- The first Ibadi political imamate was established in Hadramawt in 128 AH / 745 CE.
+				- The Kharijites formed by leaving 'Ali.
+				- 'Abdallah ibn Wahb was chosen as the first Kharijite Imam.
+					- Wahbi is seen as the purest Aqida of Islaam by Ibadis.
+				- He was killed at the battle of al-Nahrawan on 9 Shafar, 38 AH / 17 July, 658 CE.
 				- Not all Khawarijis followed 'Abdallah ibn Wahb at Nahrawan.
 				- The Khwarijis were divided into militants (Shurat) and quietists (qa'ada).
 				- The most prominent quietist position was held by 'Abdallah ibn Ibad, of whom very little is known.
 				- It's based on his name that the Azariqas were contrasted with, as Ibadis.
 				- "Abu 'l-Sha'tha'" Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis, and the successor of 'Abdallah ibn Ibad.
-				- Abu 'Ubayda Muslim ibn Abi Karima al-Tamimi was a student of Jabir ibn Zayd.
+				- Jabir had positive relations with Ummayad governor of Iraq, al-Hajjaj ibn Yusuf, who supported moderate Khawirijis as a bulwark against the growth of Kharijite extremism.
+				- When 'Abd al-Malik ibn Marwan died in 86 AH/705 CE and was succeeded by the pious 'Umbar ibn 'Abd al-'Aziz, many moderate Khawarij hoped for the realizations of a righteous Islamic imamate.
+				- But many new quietist leaders wanted to take a more activist stance towards Jihaad.
+				- Jabir himself felt compelled to take action, and instigated the assassination of one of al-Hajjaj's spies.
+				- This led to a complete rupture in the relatively friendly relations the moderate Khawarij had enjoyed with the Umayyad regime.
+				- Al-Hajjaj imprisoned many of them, and exiled many others to Oman.
+				- Abu 'Ubayda Muslim ibn Abi Karima al-Tamimi was a student of Jabir ibn Zayd, who was among those who were imprisoned.
+				- Abu 'Ubayda is seen as the second Ibadi Imam.
+				- The first Ibadi political imamate was established in Hadramawt in 128 AH / 745 CE.
+				- - Some History -
+				- The Rustamid imamate was overthrown by Shi'ite Fatimids in 296 AH / 909 CE.
+				- The fall of Rustamid and Omani imamates at the end of the 3rd (AH) / 9th (CE) centuries led to the development of the doctrines of Taqiyya (religious dissimulation) and Kitman (living in secret dissension from the ruling authorities)
+				- In North Africa, the 'Azzaba councils developed to replace the Imamate.
+				- Just as the decline in power of the 'Abbasid Khilafat led to Sunnis developing their jurisprudence, Ibadi scholars also wrote down the Ibadi doctrine and jurisprudence during this period (late 3rd (AH) / 9th (CE) century).
+				- Then the rest is the history of Oman
 I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
 - Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
 - Sub Denominations
