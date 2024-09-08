@@ -540,7 +540,7 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 				- Abu Bilal was seen as a precursor of Ibadiyya.
 				- After the death of second Umayyad Khalifa Yazid I, son of Mu'awiya in 64 AH / 683 CE, violent Khawarij rebellions formed.
 				- The followers of Nafi' ibn al-Azraq, or the Azariqa attacked Basra, and the Omani Azd tribe of Basra attacked them and killed Nafi
-				- Later, the Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire
+				- Later, the Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire.
 				- The most prominent quietist position was held by 'Abdallah ibn Ibad, of whom very little is known.
 				- It's based on his name that the Azariqas were contrasted with, as Ibadis.
 				- "Abu 'l-Sha'tha'" Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis, and the successor of 'Abdallah ibn Ibad.
@@ -559,6 +559,8 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 				- In North Africa, the 'Azzaba councils developed to replace the Imamate.
 				- Just as the decline in power of the 'Abbasid Khilafat led to Sunnis developing their jurisprudence, Ibadi scholars also wrote down the Ibadi doctrine and jurisprudence during this period (late 3rd (AH) / 9th (CE) century).
 				- Then the rest is the history of Oman
+			- Beliefs
+				- According to Algerian scholar Muhammad ibn Yusuf Atfayyish, the term #todo
 I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
 - Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
 - Sub Denominations
