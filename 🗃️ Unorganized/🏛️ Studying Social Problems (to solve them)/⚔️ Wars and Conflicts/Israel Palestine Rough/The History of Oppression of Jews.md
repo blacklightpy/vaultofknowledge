@@ -1,16 +1,18 @@
-The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam. Muslims paid Zakat and Jews paid Jizya as taxes, so they both went along fairly well. Later on Muslims only became less secular due to threats from non-Muslims such as Europeans.
+The Jews were oppressed all throughout history, because of their faith. The Babylonians and the Romans attacked their lands, but they preserved their identity. The Christians tossed them around throughout Europe and deprived them of equal rights. The Muslims did not really attack the Jews for being different, but they still thought they were stupid, and the attacks were due to violation of peaceful treaties. Jews and Arabs went along fairly well whenever peace treaties were followed, and they didn't have to follow Islam. Muslims paid Zakaat and Jews paid Jizya as taxes, so they both went along fairly well. Later on Muslims only became less secular due to threats from non-Muslims such as Europeans.
 
 Jews are still very scared of the rise of Antisemitism.
 
 > [!NOTE] Regarding Taxes
 > 
-> Zakat was given to the poor, but Jizya was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizya, but sick and disabled people, etc. didn't have to. But the point was, Jizya was still better than forced conversion or extermination as happened in Europe. Well, this is just normal tax collected in every state.
+> Zakaat was given to the poor, but Jizya was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizya, but sick and disabled people, etc. didn't have to. But the point was, Jizya was still better than forced conversion or extermination as happened in Europe. Well, this is just normal tax collected in every state.
 > 
-> Nowadays, it's the same tax, but Zakat still remains the offering of the Muslims in the name of Allah, which others just pay it to the state.
+> Nowadays, it's the same tax, but Zakaat still remains the offering of the Muslims in the name of Allah, which others just pay it to the state.
 > 
 > Non-Muslims didn't have to fight for Muslim religious wars. So this tax was held to support those who protected them.
 > 
-> About Zakat: https://en.wikishia.net/view/Zakat
+> About Zakaat: https://en.wikishia.net/view/Zakat
+> 
+> From Quora:
 > 
 > >Elon Musk would pay $1000 in Jizya in the most expensive caliphates I could find.  
 > > Elon Musk, if he were Muslim, would end up paying a wealth tax that would be $7.9 Billion. Unless I’ve misplaced a zero somewhere, I think that’s 790 million percent more.
@@ -44,7 +46,7 @@ Jews are still very scared of the rise of Antisemitism.
 > > 
 > > - To bring together all those interested in liberation (that is, those willing to join in active fighting against the British).
 > > - To appear before the world as the only active Jewish military organization.
-> > - To take over _Eretz Yisrael_ (the Land of Israel) by armed force.
+> > - To take over _Eretz Yisra'El_ (the Land of Israel) by armed force.
 > > 
 > > Lehi believed in its early years that its goals would be achieved by finding a strong international ally that would expel the British from Palestine, in return for Jewish military help; this would require the creation of a broad and organised military force "demonstrating its desire for freedom through military operations."
 > > 
@@ -213,8 +215,8 @@ Jews are still very scared of the rise of Antisemitism.
 - The Jewish Question 1750
 	- A neutral term first used in Great Britain
 	- Marx said that Jews are the embodiment of capitalism, which was correct, as that's how they had come to be under persecution. He however also questioned if they could be politically emancipated. His idea was that Judaism is so closely connected with capitalism, so without dropping that identity, society would never be free from capitalism.
-> [!NOTE]
-> - > Karl Marx, 1843, [On The Jewish Question](https://en.wikipedia.org/wiki/On_the_Jewish_Question "On the Jewish Question"), argued that Judaism is not only a religion, because it is an attitude of alienation from the world resulting from the ownership of money and private property, and this feeling of alienation is not exclusive to the Jews. Rather than forcibly converting Jews to Christianity, he proposed the implementation of a program of [anti-Capitalism](https://en.wikipedia.org/wiki/Anti-capitalism "Anti-capitalism"), in order to liberate the world from Judaism, thus defined. By framing his revolutionary economic and political project as the liberation of the world from Judaism, Marx expressed a "messianic desire" that was itself "[quite Christian](https://en.wikipedia.org/wiki/Supersessionism "Supersessionism"),"[[90](https://en.wikipedia.org/wiki/Anti-Judaism#cite_note-FOOTNOTENirenberg20134-96)] according to [David Nirenberg](https://en.wikipedia.org/wiki/David_Nirenberg "David Nirenberg").
+> [!NOTE] From Wikipedia
+> - > Karl Marx, 1843, On The Jewish Question, argued that Judaism is not only a religion, because it is an attitude of alienation from the world resulting from the ownership of money and private property, and this feeling of alienation is not exclusive to the Jews. Rather than forcibly converting Jews to Christianity, he proposed the implementation of a program of anti-Capitalism, in order to liberate the world from Judaism, thus defined. By framing his revolutionary economic and political project as the liberation of the world from Judaism, Marx expressed a "messianic desire" that was itself "quite Christian," according to David Nirenberg.
 - The Aliens Act 1905
 - Balfour Declaration and Antisemitism
 - 1933 Nazi Germany

@@ -511,10 +511,10 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 				- Druze is a branch off (non Muslim)
 			- Zaydi
 		- Other
-	- Muhakkima (Judgers) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbd Allāh ibn Sabāʾ al-Ḥimyarī)
+	- Muhakkima (People who say Judgement is of God) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbdallah ibn Sabaaʾ al-Himyaree)
 		- Khwariji (Secessionists)
 			- Azariqa
-		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad** (he broken with Azariqa after 'Abd al-Malik ibn Marwan became the Ummayad Khalifa)
+		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad**
 			- Early subsects
 				- al-Harithiyya (broke from Abu 'Ubayda by accepting the Mu'tazili position)
 				- 'Umayriyya (followers of 'Isa ibn 'Umayr, in the first half of the 2nd (AH) / 8th (CE) century)
@@ -545,7 +545,7 @@ Tafsirs are written by Mufassir (plural: Mufassiroon)
 					- The followers of Nafi' ibn al-Azraq, or the Azariqa attacked Basra, and the Omani Azd tribe of Basra attacked them and killed Nafi
 					- Later, the Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire.
 					- The most prominent quietist position was held by 'Abdallah ibn Ibad, of whom very little is known.
-				- It's based on his name that the Azariqas were contrasted with, as Ibadis.
+					- It's based on his name that the Azariqas were contrasted with, as Ibadis.
 				- "Abu 'l-Sha'tha'" Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis, and the successor of 'Abdallah ibn Ibad.
 				- Jabir had positive relations with Ummayad governor of Iraq, al-Hajjaj ibn Yusuf, who supported moderate Khawirijis as a bulwark against the growth of Kharijite extremism.
 				- When 'Abd al-Malik ibn Marwan died in 86 AH/705 CE and was succeeded by the pious 'Umbar ibn 'Abd al-'Aziz, many moderate Khawarij hoped for the realizations of a righteous Islamic imamate.

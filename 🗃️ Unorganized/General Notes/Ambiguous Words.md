@@ -1,3 +1,4 @@
 - Truth Teller
 	- Who defines truth?
-- 
+- Purist
+	- Who defines what is pure?
