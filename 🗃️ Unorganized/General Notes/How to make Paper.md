@@ -1,0 +1,22 @@
+# From M4 Tech on YouTube (Malayalam)
+- Get thin grass
+- Get thick grass
+- Chop
+- Mix in Caustic Soda (Sodium Hydroxide)
+- It will cause an exothermic reaction to form a strong base
+- Filter out the grass from the mixture
+- Rinse and repeat till pH goes neutral
+- Take it in lumps and put it in a blender to make pump
+- Put the pulp in a large mouthed container (larger than desired paper size) filled with water
+- Get ladyfingers
+- Chop
+- Heat it with water
+- Filter the water out (it is sticky)
+- Mix the sticky water into the large container with pulp
+- Take a fine mesh frame (like the mosquito net frames)
+- Put the mesh frame into the mixture to collect the pulp
+- Properly collect and place the frame to imprint the pulp on to a cotton sheet
+- Use a sponge from behind to absorb the water content
+- Remove the frame carefully so that the pulp remains on the cotton
+- Dry it out
+- Then remove the paper carefully.
