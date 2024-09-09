@@ -8,8 +8,8 @@ Notes: https://www.omyogashala.in/shad-darshan
 There are six schools of thought, called the Sadh-Darshanas (Six Schools). They are themselves grouped into three groups of two similar schools, as follows:
 
 1. Sankhya and Yoga
-2. Nyaya and Vaisheshika
-3. Mimamsa and Vedanta
+2. Nyaaya and Vaisheshika
+3. Meemaamsa and Vedaanta
 
 ### Template
 - Brief
@@ -54,14 +54,14 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
 			- Liberation is the natural goal of every Soul.
 		- Cause and Effect
-			- The Sankhya Darshana is based on Sat-Karya Vaada (Proposition that Effects are Existent)
+			- The Sankhya Darshana is based on Sat-Kaarya Vaada (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
 				- Maya has two powers (added from some source as where I got this from)
 					- Avarna (Veiling)
 					- Vikshepa (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
-			- Sankhya Darshana explains Sat-Karya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
+			- Sankhya Darshana explains Sat-Kaarya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
 		- Cosmic Evolution
 			- According to Sankhya, Nature is the source of the world becoming
 			- Nature is pure potentiality that evolves into 24 **Tattvas** (Fundamental Elements)
@@ -130,27 +130,29 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
 
-About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_vedanta/
+About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_Vedaanta/
 
-- 3. Nyaya (Principles of Reality)
+- 3. Nyaaya (Principles of Reality)
 	- **Brief**
 		- It aimed to describe the universe in terms of rational principles
 		- It posited that suffering is caused by bad understandings and ignorance, and liberation can be achieved with right understanding
-		- It postulates Asat-Karya-Vada (Proposition of Non-Existent Effect)
+		- It postulates Asat-Kaarya-Vaada (Proposition of Non-Existent Effect)
 			- i.e. Phenomena do not already exist, but are only created when an event happens.
 	- **Foundational Texts**
-		- Nyaya Sutra by Aksapada Gautama Maharshi
-		- Nyaya Sutra Bhashya by Vatsyayana (5th century AD)
+		- Nyaaya Sutra by Aksapada Gautama Maharshi
+		- Nyaaya Sutra Bhashya by Vatsyayana (5th century AD)
 	- **Metaphysics**
 		- 
 	- **Epistemology**
 		- Knowledge is possible through four **Pramanas** (Means):
 			- **Pratyaksha** (Direct Perception)
-			- **Anumana** (Logical Inference)
+			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
 			- **Upamaana** (Comparison and Analogy)
 - 4. Vaisheshika (Particulate Nature)
-	- It postulated that everything is made of atoms
+	- **Brief**
+		- It postulated that everything is made of atoms
+		- It aimed to fix the atheistic nature of Sankhya and the problems with Nyaaya
 	- **Foundational Texts**
 		- Vaisheshika Sutra by Kanada Maharshi (2nd Century AD)
 	- **Metaphysics**
@@ -182,41 +184,42 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 			- Everything humans perceive is a composite particle
 			- 
 
-- 5. Mimamsa / Purva Mimamsa
-	- By Prabhakara and Bhatta
-	- It focuses on the early parts of the Vedas
+- 5. Meemaamsa / Purva Meemaamsa
+	- **Brief**
+		- By Prabhakara and Bhatta
+		- It focuses on the early parts of the Vedas, that deals with rituals
 	- **Foundational Texts**
-		- Purva Mimamsa Sutra by Jaimini (200 BC)
-		- Purva Mimamsa Sutra Bhashya by Shabara
+		- Purva Meemaamsa Sutra by Jaimini (200 BC)
+		- Purva Meemaamsa Sutra Bhashya by Shabara
 	- **Metaphysics**
 		- 
 	- **Types of Epistemology**
-		- Prabhakara Mimamsa
+		- Prabhakara Meemaamsa
 			- Knowledge is possible through five **Pramanas** (Means):
 				- **Pratyaksha** (Direct Perception)
 				- **Anumaana** (Logical Inference)
 				- **Shabda** (Verbal Testimony)
 				- **Upamaana** (Comparison and Analogy)
 				- **Arthaapatti** (Postulation)
-		- Bhatta Mimamsa
+		- Bhatta Meemaamsa
 			- Knowledge is possible through six **Pramanas** (Means):
 				- **Pratyaksha** (Direct Perception)
 				- **Anumaana** (Logical Inference)
 				- **Shabda** (Verbal Testimony)
 				- **Upamaana** (Comparison and Analogy)
 				- **Arthaapatti** (Postulation)
-				- **Anupalabdhi** / **Abhava** (Non-Existence)
-	- 
-- 6. Vedanta / Uttara Mimamsa
-	- It focuses on the later parts of the Vedas
-	- It is like the opposite of Sankhya school of thought
-		- It sees the world as a manifestation of Brahman
+				- **Anupalabdhi** / **Abhaava** (Non-Existence)
+- 6. Vedaanta / Uttara Meemaamsa
+	- **Brief**
+		- It focuses on the later parts of the Vedas, or the Upanishads, that deal with philosophy
+		- It is like the opposite of Sankhya school of thought
+			- It sees the world as a manifestation of Brahman
 	- **Foundational Texts**
 		- Brahma Sutras by Vyasa Maharshi
 	- **Brief**
 		- **Koshas** (Sheaths)
 			- Atman is covered up by 
-			- There are five sheaths, called **Panch Koshas** that are divided into three **Shariras** (Bodies)
+			- There are five sheaths, called **Pancha Koshas** that are divided into three **Shareeras** (Bodies)
 			- The bodies and sheaths organized from gross to fine are:
 				- **Sthula Sharira** (Gross Body):
 					- **Annamaya Kosha** (Food-rich Sheath)
@@ -227,52 +230,52 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 				- **Kaarana Sharira** (Causal Body)
 					- **Ananadamaya Kosha** (Bliss-rich Sheath)
 	- Types (List)
-		- 6.1. Advaita Vedanta (8th century, by Shankara Acharya)
-		- 6.2. Bheda-Abheda Vedanta (difference and non-difference) (9th century, by Bhaskara Acharya)
-			- 6.2.1. Dvaita Advaita Vedanta (Around the time of Shankara and Ramanuja, by Nimbarka Acharya)
-		- 6.3. Vishishta Advaita Vedanta (11th century, by Ramanuja Acharya)
+		- 6.1. Advaita Vedaanta (8th century, by Shankara Acharya)
+		- 6.2. Bheda-Abheda Vedaanta (difference and non-difference) (9th century, by Bhaskara Acharya)
+			- 6.2.1. Dvaita Advaita Vedaanta (Around the time of Shankara and Ramanuja, by Nimbarka Acharya)
+		- 6.3. Vishishta Advaita Vedaanta (11th century, by Ramanuja Acharya)
 			- 6.3.1. Akshar-Purushottam (18th century, by Swami Naryana)
-		- 6.4. Dvaita Vedanta (13th century, by Madhvaa Acharya)
-		- 6.5. Shuddha Advaita Vedanta (15th century, by Vallabha Acharya)
-		- 6.6. Achintya-Bheda-Abheda Vedanta (15th century, by Chaitanya Mahaprabhu)
-		- 6.7. Modern Vedanta / Greater Advaita Vedanta (19th century)
+		- 6.4. Dvaita Vedaanta / Tattva Vaada Vedaanta (13th century, by Madhvaa Acharya)
+		- 6.5. Shuddha Advaita Vedaanta (15th century, by Vallabha Acharya)
+		- 6.6. Achintya-Bheda-Abheda Vedaanta (15th century, by Chaitanya Mahaprabhu)
+		- 6.7. Modern Vedaanta / Greater Advaita Vedaanta (19th century)
 
-- Types of Vedanta
-	- 6.1. Advaita Vedanta (Monistic)
+- Types of Vedaanta
+	- 6.1. Advaita Vedaanta (Monistic)
 		- By Shankaracharya
 		- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Essential Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
 		- **Texts**
 			- Panchadasi by Madhava Acharya (A simple manual)
-	- 6.2. Bheda Abheda Vedanta (Difference and Oneness)
+	- 6.2. Bheda Abheda Vedaanta (Difference and Oneness)
 		- By Bhaskaracharya
 		- Individual self is both different and not different from Brahman
 		- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahman's natural state
 		- **Sub-denominations:**
-			- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedanta (Dual and Non-Dual / Difference and Oneness in the Natural State)
+			- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedaanta (Dual and Non-Dual / Difference and Oneness in the Natural State)
 				- By Nimbarkacharya
-				- Dualism and Monism, based on Vaishnava Bhedabheda Vedanta Darshana
+				- Dualism and Monism, based on Vaishnava Bhedabheda Vedaanta Darshana
 				- Both Oneness and Difference are equal, because that's Brahman's natural state
 				- Nimbarka follows Parinama Vaada (The Proposition of Transformation), which states that the world is a real Parinama (transformation) of Brahman, to explain the cause of the world. Chit (Sentient) and Achit (Non-Sentient) forms of reality exist at a subtle form with Brahman in his natural state, in the varying Shaktis (Capacities). But he exerts his Capacities to bring them to the gross form.
-	- 6.3. Vishishta Advaita Vedanta (Special Non-Difference)
+	- 6.3. Vishishta Advaita Vedaanta (Special Non-Difference)
 		- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
 		- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
 		- Ishvara is Para Brahman with Kalyana Gunas (good attributes), and Jiva and Jagat are its secondary attributes
 		- Chit is like Purusha in Sankya, and Achit is like Prakriti in Sankhya
-		- Brahman is both the cause (Karana) and effect (Karya); the universe is not separate
+		- Brahman is both the cause (Karana) and effect (Kaarya); the universe is not separate
 		- Brahman has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
 		- Bhakti is the sole means of liberation
 		- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
 		- **Sub-denominations:**
 			- 6.3.1. Akshar Purushottam Darshan (as termed by BAPS) / Swaminarayan Sampradaya
 				- By Swami Narayana
-				- A version of Vishishta Advaita Vedanta, where Para Brahman is Krishna
+				- A version of Vishishta Advaita Vedaanta, where Para Brahman is Krishna
 				- Para Brahman is thought to have manifested as Swaminarayana
 				- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
 				- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
 				- BAPS believe that Akshar Brahman is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahman resides
-	- 6.4. Dvaita / Tattvavada Vedanta (Dualistic / Proposition of Elements)
+	- 6.4. Dvaita / Tattva Vaada Vedaanta (Dualistic / Proposition of Elements)
 		- By Madhvaacharya
-	- 6.5. Shuddha Advaita Vedanta (Pure Oneness)
+	- 6.5. Shuddha Advaita Vedaanta (Pure Oneness)
 		- By Vallabhacharya
 		- A Vaishnava tradition based on the worship of Krishna
 		- Maya is not an illusion, but is a power of Ishvara. Ishvara is the creator and the created.
@@ -281,15 +284,15 @@ About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c
 		- Everything is Krishna's Leela
 	- 6.6. Achintya Bedha Abheda (Inconceivable Difference and Oneness)
 		- By Chaitanya Mahaprabhu
-	- 6.7. Modern Vedanta
+	- 6.7. Modern Vedaanta
 		- Personal Experience > Sruti
 
 
-Samkhya follows Prakriti-Parinama Vada while Vishishta Advaita follows Brahman-Parinama Vada for Sat-Karya Vada.
+Samkhya follows Prakriti-Parinama Vaada while Vishishta Advaita follows Brahman-Parinama Vaada for Sat-Kaarya Vaada.
 
 
-Haituka (Sankhya, Yoga, Nyaya, Vaisheshika) (Hetu (Reason) > Scripture)
-Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
+Haituka (Sankhya, Yoga, Nyaaya, Vaisheshika) (Hetu (Reason) > Scripture)
+Smarta (Meemaamsa, Vedaanta) (Sruti is important) (Smriti values Sruti)
 ## Heterodox
 - 1. Buddhism (The Path of Enlightenment)
 - 2. Jainism (The Path of Victors (of the Soul))
@@ -315,11 +318,11 @@ Smarta (Mimamsa, Vedanta) (Sruti is important) (Smriti values Sruti)
 - 4. Ajivika (Determinism)
 - 5. Ajnana
 # Based on Deities
-Hinduism is subdivided into a number of major Sampradayas. Of the historical division into six Darshanas (Philosophies), two schools, Vedanta and Yoga, are currently the most prominent.
+Hinduism is subdivided into a number of major Sampradayas. Of the historical division into six Darshanas (Philosophies), two schools, Vedaanta and Yoga, are currently the most prominent.
 
 Classified by primary deity or deities, four major types of Hinduism include **Vishnu Worshippers**, **Shiva Worshippers**, **Adiparashakti Worshippers** and **Smartas** (five deities treated as same).
 
-These deity-centered denominations feature a synthesis of various philosophies such as Sankhya, Yoga and Vedanta, as well as shared spiritual concepts such as **Moksha**, **Dharma**, **Karma**, **Samsara**, ethical precepts such as **Ahimsa**, common texts (**Upanishads**, **Puranas**, **Mahabharata**, **Aagamas**), ritual grammar and rites of passage (**Vyakarana** and **Kalpa** Vedangas).
+These deity-centered denominations feature a synthesis of various philosophies such as Sankhya, Yoga and Vedaanta, as well as shared spiritual concepts such as **Moksha**, **Dharma**, **Karma**, **Samsara**, ethical precepts such as **Ahimsa**, common texts (**Upanishads**, **Puranas**, **Mahabharata**, **Aagamas**), ritual grammar and rites of passage (**Vyakarana** and **Kalpa** Vedangas).
 
 ## General Overview
 - Bhakti Traditions
@@ -328,8 +331,8 @@ These deity-centered denominations feature a synthesis of various philosophies s
 	- Adiparashakti Worship
 	- Ganapati Worship
 	- Kartikeya Worship
-- Advaita Vedanta (No Worship)
-- Smarta Tradition (Advaita Vedanta + Bhakti tradition)
+- Advaita Vedaanta (No Worship)
+- Smarta Tradition (Advaita Vedaanta + Bhakti tradition)
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 
 ## Connection Between Darshanas and Denominations
@@ -338,7 +341,7 @@ These deity-centered denominations feature a synthesis of various philosophies s
 	- 
 # Other Classic Sects
 - Shrautism
-	- Shrauta communities are very rare in India, the most well known being the ultra-orthodox Nambudiri Brahmins of Kerala. They follow the "Purva-Mimamsa" (earlier portion of Vedas) in contrast to Vedanta followed by other Brahmins. They place importance on the performance of Vedic Sacrifice (Yajna). The Nambudiri Brahmins are famous for their preservation of the ancient Somayaagam, Agnichayana rituals which have vanished in other parts of India.
+	- Shrauta communities are very rare in India, the most well known being the ultra-orthodox Nambudiri Brahmins of Kerala. They follow the "Purva-Meemaamsa" (earlier portion of Vedas) in contrast to Vedaanta followed by other Brahmins. They place importance on the performance of Vedic Sacrifice (Yajna). The Nambudiri Brahmins are famous for their preservation of the ancient Somayaagam, Agnichayana rituals which have vanished in other parts of India.
 - Suryaism / Saurism
 # Modern
 1. Ganapati Worship
