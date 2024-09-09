@@ -4,9 +4,13 @@
 - External Thermal Engines
 	- Steam Engine
 - Internal Thermal Engines
-	- Piston Engine
+	- Reciprocating Engine / Piston Engine
+		- Gasoline Engine
 		- Diesel Engine
-	- Wankel Engine
+		- Otto Cycle Engine
+			- Rotary Engine (Rotary Crankcase)
+			- Radial Engine
+	- Rotary Engine / Wankel Engine
 	- Air Breathing
 		- Gas Turbine Engine
 			- **Types**
@@ -31,10 +35,11 @@
 				- Ram Jet
 					- Most efficient at speeds above Mach 2
 					- **Types**
+						- Air Turbo Ram Jet (Combines Turbojet and Ramjet)
 						- Dual-Mode Ram Jet
-						- Scram Jet / Supersonic Compression Ram Jets
-							- They operate in the hypersonic range, above Mach 5
-						- Shcram Jet / Shock Compression Ram Jets
+				- Scram Jet / Supersonic Compression Ram Jets
+					- They operate in the hypersonic range, above Mach 5
+				- Shcram Jet / Shock Compression Ram Jets
 		- Non-Continuous Compression
 			- **Types**
 				- Motor Jet
@@ -44,11 +49,15 @@
 					    - Gluhareff Pressure Jet
 				- Pulse Detonation Engine
 	- Rocket Engines
+		- **Types**
+			- Nuclear Thermal Rocket
 	- Hybrid Engines
 		- **Types**
-			- Air Turborocket / Turbo Ram Jet
 		    - Air-Augmented Rocket
-		    - Pre-cooled Jets / Liquid Air Cycle Engine (LACE)
+			    - Pre-cooled Jets / Liquid Air Cycle Engine (LACE)
+			- Air Turbo Rocket
+				- Turborocket (Combines Turbo Jet and Rocket)
+				- Air Turbo Ram Jet (Combines Turbo Jet and Ram Jet)
 	- Pump Jet / Hydro Jet / Water Jet
 		- Used for Marine Propulsion
 		- The Pump Jet must be driven by a separate engine such as a Diesel or Gas Turbine
