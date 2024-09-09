@@ -552,9 +552,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee08f2f170932434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 41
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -600,8 +613,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -622,7 +634,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -639,7 +651,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -651,7 +663,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md"
               }
             }
           },
@@ -717,12 +729,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Language Planning.md",
-    "🗃️ Unorganized/General Notes/Sociolinguistics.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
+    "🗃️ Unorganized/General Notes/Adhesive Force.md",
+    "🗃️ Unorganized/General Notes/Cohesive Force.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "🗃️ Unorganized/General Notes/Constructed Languages.md",
+    "🗃️ Unorganized/General Notes/Language Planning.md",
+    "🗃️ Unorganized/General Notes/Sociolinguistics.md",
     "🗃️ Unorganized/General Notes/Auxiliary Languages.md",
     "🗃️ Unorganized/General Notes/Sociology of Language.md",
     "🗃️ Unorganized/General Notes/Natural Language.md",
@@ -743,10 +759,6 @@
     "🗃️ Unorganized/General Notes/Jet Propulsion.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-    "🗃️ Unorganized/General Notes/Animism vs Abrahamic Religions.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
