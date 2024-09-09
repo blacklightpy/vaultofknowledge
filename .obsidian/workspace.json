@@ -559,7 +559,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -613,7 +613,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -634,7 +635,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -651,7 +652,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -663,7 +664,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -732,6 +733,7 @@
   "active": "4a00a814141a8984",
   "lastOpenFiles": [
     "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
@@ -749,7 +751,6 @@
     "🗃️ Unorganized/General Notes/Animism vs Abrahamic Religions.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Social Simulations.md",
     "🗃️ Unorganized/General Notes/Transmission Lines.md",

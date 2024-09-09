@@ -57,7 +57,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- The Sankhya Darshana is based on Sat-Karya Vaada (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
-				- Maya has two powers (added from some source)
+				- Maya has two powers (added from some source as where I got this from)
 					- Avarna (Veiling)
 					- Vikshepa (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
@@ -110,8 +110,9 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- Therefore, Sankhya maintained that the various cosmological, ontological and teleological arguments could not prove God.
 
 - 2. Yoga (Connection with Reality)
-	- It is based on the Sankhya school of thought
-	- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
+	- **Brief**
+		- It is based on the Sankhya school of thought
+		- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
 	- **Foundational Texts**
 		- Yoga Sutras of Patanjali (Main) (1st century AD)
 			- Samadhi Pada (Chapter on Samadhi)
@@ -132,10 +133,11 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 About Nyaya, Vaisheshika, Mimamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_vedanta/
 
 - 3. Nyaya (Principles of Reality)
-	- Nyaya school's epistemology accepts four out of six Pramanas as reliable means of gaining knowledge – Pratyaksha (Perception), Anumāṇa (Logical Inference), Upamāṇa (Comparison and Analogy) and Shabda (Verbal Testimony).
-	- It states that suffering is caused by bad understandings and ignorance
-	- Liberation can be achieved with right understanding
-	- It postulates Asat-Karya-Vada (Proposition of Non-Existent Effect)
+	- **Brief**
+		- It aimed to describe the universe in terms of rational principles
+		- It posited that suffering is caused by bad understandings and ignorance, and liberation can be achieved with right understanding
+		- It postulates Asat-Karya-Vada (Proposition of Non-Existent Effect)
+			- i.e. Phenomena do not already exist, but are only created when an event happens.
 	- **Foundational Texts**
 		- Nyaya Sutra by Aksapada Gautama Maharshi
 		- Nyaya Sutra Bhashya by Vatsyayana (5th century AD)

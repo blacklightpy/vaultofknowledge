@@ -19,7 +19,7 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Outline
 	- Concepts
 	- Purusarthas (Goals of Life)
-	- Neeti (Justice)
+	- Neeti (Ethics)
 	- Schools (Astika/Nastika)
 	- Vedas / Divisions
 	- Upavedas
@@ -163,7 +163,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 	- Kama (Eroticism)
 	- Moksha (Liberation)
 
-- Neeti (Justice)
+- Neeti (Ethics)
 	- Ahimsa (Non-Violence)
 	- Asteya
 	- Aparigraha
