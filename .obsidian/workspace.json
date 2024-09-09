@@ -565,22 +565,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8972568fa653acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -647,7 +634,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
+                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -664,7 +651,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
+                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -676,7 +663,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md"
+                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md"
               }
             }
           },
@@ -742,15 +729,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d8972568fa653acd",
+  "active": "4a00a814141a8984",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Thermodynamic Cycles.md",
     "🔮 World Building/Science and Engineering/Engineering/Automotive Engineering/Car Model Styles.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Monism.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Parts of a Jet Engine.md",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering/Marine Engineering.md",

@@ -7,12 +7,12 @@ Some Info: https://cnj.atu.edu.iq/wp-content/uploads/2020/03/Classifications-of-
 	- Stirling Engine
 	- Nuclear Engine
 - Internal Thermal Engines
-	- Intermittent Combusion
+	- Intermittent Combustion
 		- Reciprocating Engine / Piston Engine
 			- **By Fuel**
 				- Gasoline Engine
 				- Diesel Engine
-			- **By Design**
+			- **By Layout**
 				- In-Line
 				- Flat / Boxer / Horizontal / Opposed
 				- V-Type
@@ -32,7 +32,7 @@ Some Info: https://cnj.atu.edu.iq/wp-content/uploads/2020/03/Classifications-of-
 - Electric Motors
 ## Reaction Engines
 - Jet Engines
-	- Air Breathing
+	- Air Breathing / Continuous Combustion
 		- Gas Turbine Engine
 			- **Types**
 				- Turbo Jet (Jet Engines that produce Thrust from the direct impulse of the Exhaust)
@@ -61,6 +61,7 @@ Some Info: https://cnj.atu.edu.iq/wp-content/uploads/2020/03/Classifications-of-
 	- Rocket Engines
 		- **Types**
 			- Nuclear Thermal Rocket
+			- Aerospike Engine
 	- Hybrid Engines
 		- **Types**
 		    - Air-Augmented Rocket
@@ -71,9 +72,16 @@ Some Info: https://cnj.atu.edu.iq/wp-content/uploads/2020/03/Classifications-of-
 	- Pump Jet / Hydro Jet / Water Jet
 		- Used for Marine Propulsion
 		- The Pump Jet must be driven by a separate engine such as a Diesel or Gas Turbine
-- Plasma Propulsion Engine
-- Aerospike Engine
+	- Spacecraft Electric Propulsion
+		- Ion and Plasma Drives
+			- Electrostatic / Ion Thrusters
+			- Electrothermal
+				- Resistojet
+				- Arcjet
+				- Microwave
+				- Variable Specific Impulse Magnetoplasma Rocket (VASIMR)
+			- Electromagnetic / Plasma Propulsion Engine
 - Rotating Detonation Engine
 # Considerations
-- Understand Shock Waves to design efficient engines.
+- Understand Shock Waves to design efficient Aircraft Engines.
 
