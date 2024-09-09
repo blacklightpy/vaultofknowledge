@@ -16,35 +16,44 @@
 				- Turboshaft
 - Electric Motors
 ## Reaction Engines
-- Air Breathing
-	- Gas Turbine Engine
+- Jet Engines
+	- Air Breathing
+		- Gas Turbine Engine
+			- **Types**
+				- Turbojet (Jet Engines that produce Thrust from the direct impulse of the Exhaust)
+					- Capable of high speeds, making them suitable for supersonic and high-altitude flight
+					- Typically operate at above Mach 0.8
+				- Turbofan / Fan Jet
+				- Prop Fan
+		- Advanced Technology Engine
+		- Ram Compression
+			- **Types**
+				- Ram Jet
+					- Most efficient at speeds above Mach 2
+					- **Types**
+						- Dual-Mode Ram Jet
+						- Scram Jet / Supersonic Compression Ram Jets
+							- They operate in the hypersonic range, above Mach 5
+						- Shcram Jet / Shock Compression Ram Jets
+		- Non-Continuous Compression
+			- **Types**
+				- Motor Jet
+				- Pulse Jet
+					- **Types**
+					    - Valveless Pulse Jet
+					    - Gluhareff Pressure Jet
+				- Pulse Detonation Engine
+	- Rocket Engines
+	- Hybrid Engines
 		- **Types**
-			- Turbojet (Jet Engines that produce Thrust from the direct impulse of the Exhaust)
-				- Capable of high speeds, making them suitable for supersonic and high-altitude flight
-				- Typically operate at above Mach 0.8
-			- Turbofan / Fan Jet
-			- Prop Fan
-	- Ram Compression
-		- **Types**
-			- Ram Jet
-				- Most efficient at speeds above Mach 2
-				- **Types**
-					- Turbo Ram Jet
-					- Dual-Mode Ram Jet
-			- Scram Jet
-				- They operate in the hypersonic range, above Mach 5
-- Rocket Engines
-	- Air turborocket
-    - Air-augmented rocket
+			- Air Turborocket / Turbo Ram Jet
+		    - Air-Augmented Rocket
+		    - Pre-cooled Jets / Liquid Air Cycle Engine (LACE)
+	- Pump Jet / Hydro Jet / Water Jet
+		- Used for Marine Propulsion
+		- The Pump Jet must be driven by a separate engine such as a Diesel or Gas Turbine
 - Plasma Propulsion Engine
-- Pump Jet
-	- Used for Marine Propulsion
-- Motorjet
-- Pulsejet
-    - Valveless Pulse Jet
-    - Gluhareff Pressure Jet
-- Aerospike engine
-- Pulse Detonation Engine
+- Aerospike Engine
 - Rotating Detonation Engine
 # Considerations
 - Understand Shock Waves to design efficient engines.

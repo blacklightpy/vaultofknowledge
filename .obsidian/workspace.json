@@ -639,8 +639,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -756,9 +755,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "09fbf5c736aec916",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Engineering/Marine Engineering/Marine Engineering.md",
     "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Engines.md",
+    "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
+    "🗃️ Unorganized/General Notes/Jet Propulsion.md",
     "🗃️ Unorganized/General Notes/Monism.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
@@ -782,8 +784,6 @@
     "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity.md",
-    "🗃️ Unorganized/General Notes/Ambiguous Words.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
@@ -802,7 +802,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts"
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse"
   ]
 }
