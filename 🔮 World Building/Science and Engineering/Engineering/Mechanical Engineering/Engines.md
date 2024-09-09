@@ -1,34 +1,42 @@
 # Types
+Some Info: https://cnj.atu.edu.iq/wp-content/uploads/2020/03/Classifications-of-Aircraft-Engines-Copy.pdf
 ## Shaft Engines
 - Clockwork Drives (Human Energy)
 - External Thermal Engines
 	- Steam Engine
+	- Stirling Engine
+	- Nuclear Engine
 - Internal Thermal Engines
-	- Reciprocating Engine / Piston Engine
-		- Gasoline Engine
-		- Diesel Engine
-		- Otto Cycle Engine
-			- Rotary Engine (Rotary Crankcase)
-			- Radial Engine
-	- Rotary Engine / Wankel Engine
-	- Air Breathing
+	- Intermittent Combusion
+		- Reciprocating Engine / Piston Engine
+			- **By Fuel**
+				- Gasoline Engine
+				- Diesel Engine
+			- **By Design**
+				- In-Line
+				- Opposed
+				- V-Type
+				- Rotary (Rotary Crankcase)
+				- Radial (Cylinders Radiate Outward)
+		- Rotary Engine / Wankel Engine
+	- Air Breathing / Continuous Compression
 		- Gas Turbine Engine
 			- **Types**
-				- Turboprop (Turbine Engine that drives a Propeller)
+				- Turbo Prop (Turbine Engine that drives a Propeller)
 					- Efficient at low speeds and altitudes, best for regional airliners and cargo planes
 					- Typically operate at below Mach 0.6
-				- Turboshaft
+				- Turbo Shaft
+				- Prop Fan
 - Electric Motors
 ## Reaction Engines
 - Jet Engines
 	- Air Breathing
 		- Gas Turbine Engine
 			- **Types**
-				- Turbojet (Jet Engines that produce Thrust from the direct impulse of the Exhaust)
+				- Turbo Jet (Jet Engines that produce Thrust from the direct impulse of the Exhaust)
 					- Capable of high speeds, making them suitable for supersonic and high-altitude flight
 					- Typically operate at above Mach 0.8
 				- Turbofan / Fan Jet
-				- Prop Fan
 		- Advanced Technology Engine
 		- Ram Compression
 			- **Types**

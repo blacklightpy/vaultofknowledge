@@ -585,7 +585,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Engines.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Engines.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -660,7 +660,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Engines.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Engines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -677,7 +677,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Engines.md",
+                "file": "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Engines.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -689,7 +689,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Engines.md"
+                "file": "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Engines.md"
               }
             }
           },
@@ -755,10 +755,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "09fbf5c736aec916",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Parts of a Jet Engine.md",
+    "_images/Parts of a Jet Engine.gif",
+    "🔮 World Building/Science and Engineering/Engineering/Mechanical Engineering/Engines.md",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering/Marine Engineering.md",
-    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Engines.md",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "🗃️ Unorganized/General Notes/Jet Propulsion.md",
     "🗃️ Unorganized/General Notes/Monism.md",
@@ -782,8 +784,6 @@
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md",
-    "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
-    "🗃️ Unorganized/General Notes/Flow of Electricity.md",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
     "🗺️ World Exploration/Life Forms",
@@ -794,7 +794,6 @@
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
     "_images/Usool al-Hadeeth - Two Kinds of Conflict.jpg",
     "_images/Usool al-Hadeeth - Conclusion.jpg",
-    "_images/Usool Al Hadeeth - Two Kinds of Conflict.jpg",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
