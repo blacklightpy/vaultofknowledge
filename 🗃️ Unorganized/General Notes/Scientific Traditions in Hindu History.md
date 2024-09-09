@@ -12,4 +12,4 @@ The Baudhaayana Shulba Sutras of the Tattiriya Shaakha, of Krisha Yajur Veda had
 		  cha yatprthagbhoote kurutastadubhayaan karoti.
 	- **Translation:**
 		- The diagonal of an oblong produces by itself both the areas which the two sides of the oblong produce separately.
-2. 
+2. Area of a Circle

@@ -14,8 +14,10 @@ Some Info: https://cnj.atu.edu.iq/wp-content/uploads/2020/03/Classifications-of-
 				- Diesel Engine
 			- **By Design**
 				- In-Line
-				- Opposed
+				- Flat / Boxer / Horizontal / Opposed
 				- V-Type
+				- W-Type
+				- X-Type
 				- Rotary (Rotary Crankcase)
 				- Radial (Cylinders Radiate Outward)
 		- Rotary Engine / Wankel Engine
