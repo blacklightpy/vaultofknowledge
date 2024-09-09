@@ -2,9 +2,11 @@ In contrast to [[Natural Language|natural languages]], a constructed language or
 
 They can be divided into:
 - [[Engineered Languages]] (has three divisions)
-- Auxiliary Languages
+- [[Auxiliary Languages]] (has two divisions)
 - Artistic Languages
 
 Based on the formation of words, they can be divided into:
 - A Priori Languages (From scratch)
+	- They are preferred in International Auxiliary Languages to prevent unfair learning advantage
 - A Posteriori Languages (From an existing language)
+	- They are preferred in Zonal Auxiliary Languages for ease of use
