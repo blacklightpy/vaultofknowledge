@@ -1,0 +1,51 @@
+# Types
+## Shaft Engines
+- Clockwork Drives (Human Energy)
+- External Thermal Engines
+	- Steam Engine
+- Internal Thermal Engines
+	- Piston Engine
+		- Diesel Engine
+	- Wankel Engine
+	- Air Breathing
+		- Gas Turbine Engine
+			- **Types**
+				- Turboprop (Turbine Engine that drives a Propeller)
+					- Efficient at low speeds and altitudes, best for regional airliners and cargo planes
+					- Typically operate at below Mach 0.6
+				- Turboshaft
+- Electric Motors
+## Reaction Engines
+- Air Breathing
+	- Gas Turbine Engine
+		- **Types**
+			- Turbojet (Jet Engines that produce Thrust from the direct impulse of the Exhaust)
+				- Capable of high speeds, making them suitable for supersonic and high-altitude flight
+				- Typically operate at above Mach 0.8
+			- Turbofan / Fan Jet
+			- Prop Fan
+	- Ram Compression
+		- **Types**
+			- Ram Jet
+				- Most efficient at speeds above Mach 2
+				- **Types**
+					- Turbo Ram Jet
+					- Dual-Mode Ram Jet
+			- Scram Jet
+				- They operate in the hypersonic range, above Mach 5
+- Rocket Engines
+	- Air turborocket
+    - Air-augmented rocket
+- Plasma Propulsion Engine
+- Pump Jet
+	- Used for Marine Propulsion
+- Motorjet
+- Pulsejet
+    - Valveless Pulse Jet
+    - Gluhareff Pressure Jet
+- Aerospike engine
+- Pulse Detonation Engine
+- Rotating Detonation Engine
+# Considerations
+- Understand Shock Waves to design efficient engines.
+
