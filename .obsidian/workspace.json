@@ -552,22 +552,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2eae50154d0dc17a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Normal.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -635,7 +622,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Normal.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -652,7 +639,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Normal.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -664,7 +651,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Normal.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md"
               }
             }
           },
@@ -730,7 +717,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2eae50154d0dc17a",
+  "active": "ee08f2f170932434",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Norms.md",
     "🗃️ Unorganized/General Notes/Normal.md",
