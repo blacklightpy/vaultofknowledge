@@ -36,7 +36,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 55000 BC: Australian aboriginals were found in this period
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
-- Neolithic Revolution (or the First Agricultural Revolution) in the West Asian Fertile Crescent saw the transition from hunting and gathereing to agriculture and settlements
+- Neolithic Revolution (or the First Agricultural Revolution) in the West Asian Fertile Crescent saw the transition from hunting and gathering to agriculture and settlements
 
 > [!NOTE] From Wikipedia: Origin of Agricultural Settlements
 > ![[Centres_of_origin_and_spread_of_agriculture.svg.png]]
