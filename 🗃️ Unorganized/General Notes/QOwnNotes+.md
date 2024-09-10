@@ -228,3 +228,9 @@
 - Why there is only one particle
 	- If you imagine a circuit, one may feel that electricity only flows as point charges through the conducting wire
 	- But in reality, the drift velocity ... #todo doesn't matter much; FILL: Electromagnetic Field and the capacitance of the media, and the wires form an easier path the moment they are connected to each terminal, until they are connected together, and the flow at the two sides connect.
+
+- The Illusion of Prophecy
+	- God, Prophet, Prophecy, Future
+
+- What if all points said "Be" (Laws of Physics)
+
