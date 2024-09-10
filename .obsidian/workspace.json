@@ -481,7 +481,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -553,8 +553,7 @@
               }
             }
           }
-        ],
-        "currentTab": 41
+        ]
       }
     ],
     "direction": "vertical"
@@ -622,7 +621,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -639,7 +638,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -651,7 +650,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md"
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md"
               }
             }
           },
@@ -717,12 +716,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ee08f2f170932434",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Tensegrity.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-    "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
+    "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Why must we fight.md",
+    "🗃️ Unorganized/General Notes/Logic.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "🗃️ Unorganized/General Notes/Tensegrity.md",
+    "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
     "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "🗃️ Unorganized/General Notes/Adhesive Force.md",
     "🗃️ Unorganized/General Notes/Communist Philosophies.md",
@@ -742,9 +744,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Thermodynamic Cycles.md",
-    "🔮 World Building/Science and Engineering/Engineering/Automotive Engineering/Car Model Styles.md",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/Claimed Rules of War in Islam.webp",
