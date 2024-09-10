@@ -554,7 +554,7 @@
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -622,7 +622,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -639,7 +639,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -651,7 +651,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md"
               }
             }
           },
@@ -717,10 +717,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "789978553afb3b52",
+  "active": "ee08f2f170932434",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Engineered Languages.md",
+    "🗃️ Unorganized/General Notes/Tensegrity.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "🗃️ Unorganized/General Notes/Adhesive Force.md",
     "🗃️ Unorganized/General Notes/Communist Philosophies.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/Influential Communist Leaders.md",
@@ -742,10 +745,7 @@
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Engines.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Thermodynamics/Thermodynamic Cycles.md",
     "🔮 World Building/Science and Engineering/Engineering/Automotive Engineering/Car Model Styles.md",
-    "🗃️ Unorganized/General Notes/Monism.md",
-    "🔮 World Building/Science and Engineering/Engineering/Aerospace Engineering/Aeronautical Engineering/Parts of a Jet Engine.md",
     "_images/Parts of a Jet Engine.gif",
-    "🔮 World Building/Science and Engineering/Engineering/Marine Engineering/Marine Engineering.md",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/Claimed Rules of War in Islam.webp",
     "_images/Water Splash Sample Image.jpg",
