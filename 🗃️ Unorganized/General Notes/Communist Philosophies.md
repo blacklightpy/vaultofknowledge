@@ -1,0 +1,16 @@
+- Karl Marx and Friedrich Engels (Theory, 19th century)
+	- Believed that just as the capitalists overthrew the aristocratic power structure, the working class would overthrow the capitalist power structure
+- Vladimir Lenin (Soviet, 1917)
+	- He was the first to deal with political organization to implement the Marxist philosophy
+	- Believed in forming a vanguard party to protect the rights of the workers
+- Joseph Stalin (Soviet, 1924)
+	- Believed in a state-isolated communist state, and killing anyone who opposed it
+- Leon Trotsky (Soviet/USA, 1924)
+	- Opposed Stalin's idea of state-isolated communism
+- Ho Chi Minh (Vietnam, 1923)
+- Kim II-Sung (Korea, 1948)
+- Mao Zedong (1949)
+	- Believed that the rural peasant class, and not the urban working class would lead the revolution
+- Ernesto Che Guevara and Fidel Castro (Cuba, 1959)
+- Pol Pot (Cambodia, 1975)
+	- An extreme form of Mao's idea
