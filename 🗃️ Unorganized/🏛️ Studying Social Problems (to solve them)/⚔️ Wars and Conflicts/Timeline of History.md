@@ -4,6 +4,8 @@
 
 Also, the Jews didn't agree with Muslims because his teachings differed from their own scriptures. How convenient is it to then reject the interpretation of what's true by rejecting anything that deviates from the previous model? It is one thing to say they don't believe it, and another to say that it deviates from the scriptures. If it didn't deviate from the scriptures, it'd be the same, isn't it? I'd say the same is true for Muslims, because now they too will not believe in anything besides their scriptures. [Verify context of deviation and decide if you need this.]
 
+[Answer: The Jews had no reason to accept Mohammed's teachings, because they simply didn't have to believe it. That's all.]
+
 - Lambda-CDM Model of the Big Bang Theory
 (don't go too far Jyothish)
 Firstly, our models of physical cosmology has consensus on the Lambda-CDM parametrization of the Big Bang Theory, based on QFT and General Relativity. The parts beyond physics (meta-physics) are the subject of religions and philosophy. I don't think we disagree on physical cosmology, but some people seem to do. But I'll be skipping that part, and focusing only on the human civilizations. So we had the solar system form, the Cambrian explosion happen and the evolution of mammals.
