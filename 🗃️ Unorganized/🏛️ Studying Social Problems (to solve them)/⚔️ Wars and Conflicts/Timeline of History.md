@@ -699,13 +699,17 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Amsterdam also decided to pillage stuff
 - England, Amsterdam and France tried to get to India through North America
 	- They couldn't find a way but they found Beavers, and Beaver skin was very marketable.
+	- This is the North American Fur Trade
 - Dutch stole the spice trade
+- 1607 AD: The first English colony in America was made
 - 1640 AD: All the Sugar was made in Brazil. Dutch stole it.
 - Spain, France, Dutch and England exploited the Caribbean and started slavery by importing people from Africa
 - Russia gets bigger
-- 1754: Britain and France tries to decide who gets to control Ohio (and all America)
+- 1752 AD: 13 English colonies were established in America
+- 1754 AD: Britain and France tries to decide who gets to control Ohio (and all America)
 - This starts a 7 year war (Britain, Prussia, Portugal, etc.) vs (France, Austria, Spain, Russia, Sweden, etc.)
 - Britain wins over France, but is now broke, so they tax America
+- 1774 AD: The 13 American colonies unite against Britain
 - 1776 AD: American revolutionary war, and France helps them win and is now broke
 - 1788 AD: Britain has to send their prisoners to Australia, which they call New South Wales
 - 1794 AD: France was broke, but the Royal family was rich, so Robespierre announced the French Revolution guillotined King Louis XIV and Queen Marie Antoinette and others, and someone also guillotined him too
