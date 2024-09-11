@@ -552,22 +552,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7566bc14f41802d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 42
+        ]
       }
     ],
     "direction": "vertical"
@@ -635,7 +621,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -652,7 +638,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -664,7 +650,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md"
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md"
               }
             }
           },
@@ -730,10 +716,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7566bc14f41802d9",
+  "active": "685ca42e2cba4a92",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
+    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🗃️ Unorganized/General Notes/Norms.md",
     "🗃️ Unorganized/General Notes/Normal.md",
     "🗃️ Unorganized/General Notes/Ethics.md",
@@ -747,7 +734,6 @@
     "🗃️ Unorganized/General Notes/Adhesive Force.md",
     "🗃️ Unorganized/General Notes/Communist Philosophies.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/Influential Communist Leaders.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
     "🗃️ Unorganized/General Notes/Cohesive Force.md",
     "🗃️ Unorganized/General Notes/Constructed Languages.md",

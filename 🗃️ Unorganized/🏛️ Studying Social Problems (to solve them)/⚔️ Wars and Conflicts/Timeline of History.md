@@ -682,6 +682,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Europe
 - The Catholic church lets people pay a premium to escape sin
 - 1517 AD: Martin Luther said it's all a scam and wrote 95 reasons why in his book, and it started the protestant reformation
+- 1521 AD: Ferdinand Magellan circumnavigated the Earth, practically verifying the spherical Earth theory
 ### Eurasia, Africa
 
 #### Levant and Africa
@@ -703,7 +704,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Spain, France, Dutch and England exploited the Caribbean and started slavery by importing people from Africa
 - Russia gets bigger
 - 1754: Britain and France tries to decide who gets to control Ohio (and all America)
-- This starts a 7 year war (Britain, Prussia, Portugal, etc.) vs (France, Austria, Spain, Russia, Swededn, etc.)
+- This starts a 7 year war (Britain, Prussia, Portugal, etc.) vs (France, Austria, Spain, Russia, Sweden, etc.)
 - Britain wins over France, but is now broke, so they tax America
 - 1776 AD: American revolutionary war, and France helps them win and is now broke
 - 1788 AD: Britain has to send their prisoners to Australia, which they call New South Wales
