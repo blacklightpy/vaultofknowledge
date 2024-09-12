@@ -240,3 +240,5 @@
 	- There's a difference between saying "this is something" and "I think this is something".
 	- If Newton said "this is gravity" instead of "I think this is gravity" and if he was proven wrong, he would be a liar. Or at least someone who was overconfident and preached falsehood.
 	- But if he said "I think this is gravity" and if he was proven wrong, he would still be honest.
+
+- 

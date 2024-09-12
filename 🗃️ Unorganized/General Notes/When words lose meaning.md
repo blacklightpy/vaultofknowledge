@@ -11,10 +11,12 @@
 - **Circumlocution:** Use of too many words to convey an idea, often to evade the topic
 
 
-- **Syntactically Correct Nonsense:** e.g. Colourless green ideas sleep furiously
-- **Syntactically Incorrect Nonsense:** e.g. Furiously sleep ideas green colorless
+- **Syntactically Correct Nonsense:** e.g. Colourless green ideas sleep furiously (by [[Avram Noam Chomsky|Chomsky]])
+- **Syntactically Incorrect Nonsense:** e.g. Furiously sleep ideas green colorless (by Chomsky)
 - **Gibberish:** Same as "word salad" or "gobbledygook"
 - **Barbarian:** How Greeks perceived foreign languages ("baa" "baa")
+
+- **Semantic Anomaly:** The square root of Milly's desk drinks humanity. (also Chomsky's example)
 
 - **Doublethink:** Logically contradicting sentences
 - **Newspeak:** 
