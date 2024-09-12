@@ -249,4 +249,7 @@
 		- Give the original definition
 	- "It's true, only if you'd just read it this way"
 		- Of course, if you're manipulated, you can believe the manipulation
-		- (I wrote about this in the QOwnNotes, I believe)
+		- (I wrote about this in QOwnNotes, I believe).
+
+- Intro Text (If I was going for prose)
+	- Aweha, luckily we have learned to communicate. We have English as our lingua franca, born from the same culture that birthed the Greeks and the Indians.
