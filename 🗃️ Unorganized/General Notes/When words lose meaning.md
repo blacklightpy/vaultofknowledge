@@ -8,4 +8,9 @@
 	- **Stunt Word:** A word that's used just for a reaction. e.g. "jertain" in the curtain
 
 - **Sesquipedalian:** Use of long confusing words (deliberately or not)
-- **Circumlocution:** Use of too many word
+- **Circumlocution:** Use of too many words to convey an idea, often to evade the topic
+
+
+- **Nonsense:** e.g. Colourless green ideas sleep furiously
+- **Gibberish:** Same as "word salad" or "gobbledygook"
+- **Barbarian:** How Greeks perceived foreign languages ("baa" "baa")
