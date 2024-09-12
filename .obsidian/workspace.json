@@ -552,19 +552,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b4b53c1a7d59a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/A5.2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 10
@@ -729,11 +716,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/A5.2.md",
-    "🗃️ Unorganized/General Notes/A5.1.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "🗃️ Unorganized/General Notes/Global System for Mobile Communications.md",
     "🗃️ Unorganized/General Notes/Stream Ciphers.md",
+    "🗃️ Unorganized/General Notes/A5.1.md",
+    "🗃️ Unorganized/General Notes/A5.2.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Linear-Feedback Shift Registers.md",
     "🗃️ Unorganized/General Notes/Shift Registers.md",
     "🗃️ Unorganized/General Notes/Flip-Flops.md",
@@ -745,9 +735,7 @@
     "A5",
     "🔮 World Building/Science and Engineering/Physics/Electronics and Electricity/Circuits.md",
     "🗃️ Unorganized/General Notes/Circuit.md",
-    "🗃️ Unorganized/General Notes/Global System for Mobile Communications.md",
     "🗃️ Unorganized/General Notes/Rainbow Table.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Additional Senses.md",
@@ -757,7 +745,6 @@
     "🗃️ Unorganized/General Notes/When words lose meaning.md",
     "🗃️ Unorganized/General Notes/Perception Management.md",
     "🗃️ Unorganized/General Notes/Conservatives.md",
-    "🗃️ Unorganized/General Notes/Lacking Substance.md",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/Claimed Rules of War in Islam.webp",

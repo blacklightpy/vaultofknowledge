@@ -262,9 +262,13 @@ Faceted Classification
 Classification
 Taxonomy
 Semantic Networks
+Ontology (in Information Science)
 Systematics
 [[Philosophical Languages]]
 [[Characteristica Universalis]]
 [[Engineered Languages]]
 [[Constructed Languages]]
 [[Auxiliary Languages]]
+
+Content Architecture
+Information Architecture
