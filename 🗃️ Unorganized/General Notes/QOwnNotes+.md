@@ -234,3 +234,9 @@
 
 - What if all points said "Be" (Laws of Physics)
 
+- Atheists are more honest than believers
+	- It is far more easier to lie about god than it is to say I don't know him
+	- If a being is as powerful as god, and they've known him, why would they ever reject him?
+	- There's a difference between saying "this is something" and "I think this is something".
+	- If Newton said "this is gravity" instead of "I think this is gravity" and if he was proven wrong, he would be a liar. Or at least someone who was overconfident and preached falsehood.
+	- But if he said "I think this is gravity" and if he was proven wrong, he would still be honest.
