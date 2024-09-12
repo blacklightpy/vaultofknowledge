@@ -29,6 +29,8 @@
 - **Ice Cream Koan:** Looks like a Koan, but is meaningless (https://tvtropes.org/pmwiki/pmwiki.php/Main/IceCreamKoan)
 - **Vacuous Truths:** Statements of the form "if a, then b", but both a and b are false
 - **Truth-Value Gap:** "The king of France is bald", but there is no king of France.
+
+- https://english.stackexchange.com/questions/204362/what-do-you-call-the-rhetoric-strategy-of-purposely-writing-a-paragraph-that-no
 # Notes
 - We can perceive syntactically incorrect statements to an extent
 - We can perceive semantically incorrect statements to an extent

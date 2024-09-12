@@ -241,4 +241,12 @@
 	- If Newton said "this is gravity" instead of "I think this is gravity" and if he was proven wrong, he would be a liar. Or at least someone who was overconfident and preached falsehood.
 	- But if he said "I think this is gravity" and if he was proven wrong, he would still be honest.
 
-- 
+- Recap
+	- "You cannot be moral if you don't acknowledge God"
+		- That's only true by your axioms of what is defined as morality
+		- It's like saying, you can only be so and so if you do so and so (depends on ethics)
+	- Heaven and Hell are abstract ideas
+		- Give the original definition
+	- "It's true, only if you'd just read it this way"
+		- Of course, if you're manipulated, you can believe the manipulation
+		- (I wrote about this in the QOwnNotes, I believe)
