@@ -565,9 +565,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b72768e5f540dcd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -618,8 +631,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -635,7 +647,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -652,7 +664,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -664,7 +676,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Poetry - my philosophy.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -730,15 +742,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ce39febaebf76837",
+  "active": "b72768e5f540dcd6",
   "lastOpenFiles": [
+    "🔮 World Building/Philosophy/Emotions.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
     "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/When words lose meaning.md",
     "🗃️ Unorganized/General Notes/Perception Management.md",
     "🗃️ Unorganized/General Notes/Conservatives.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Lacking Substance.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/History of Banana Republics.md",
     "🗃️ Unorganized/General Notes/History of the United States.md",
@@ -750,14 +764,12 @@
     "🗃️ Unorganized/General Notes/Why must we fight.md",
     "🗃️ Unorganized/General Notes/Logic.md",
     "🗃️ Unorganized/General Notes/Tensegrity.md",
-    "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
     "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "🗃️ Unorganized/General Notes/Adhesive Force.md",
     "🗃️ Unorganized/General Notes/Communist Philosophies.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/Influential Communist Leaders.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Surface Tension.md",
     "🗃️ Unorganized/General Notes/Cohesive Force.md",
-    "🗃️ Unorganized/General Notes/Constructed Languages.md",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/Claimed Rules of War in Islam.webp",
