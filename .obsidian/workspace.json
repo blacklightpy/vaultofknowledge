@@ -559,7 +559,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flip Flops.md",
+                "file": "🗃️ Unorganized/General Notes/Shift Registers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -613,8 +613,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -635,7 +634,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flip Flops.md",
+                "file": "🗃️ Unorganized/General Notes/Shift Registers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -652,7 +651,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flip Flops.md",
+                "file": "🗃️ Unorganized/General Notes/Shift Registers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -664,7 +663,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flip Flops.md"
+                "file": "🗃️ Unorganized/General Notes/Shift Registers.md"
               }
             }
           },
@@ -732,10 +731,20 @@
   },
   "active": "6b4b53c1a7d59a27",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Shift Registers.md",
-    "🗃️ Unorganized/General Notes/Flip Flops.md",
-    "🗃️ Unorganized/General Notes/Linear-Feedback Shift Registers.md",
+    "🗃️ Unorganized/General Notes/Flip-Flops.md",
+    "🗃️ Unorganized/General Notes/Bi-Stable Multivibrator.md",
+    "🗃️ Unorganized/General Notes/Multivibrator.md",
     "🗃️ Unorganized/General Notes/Stream Ciphers.md",
+    "🗃️ Unorganized/General Notes/A5.3.md",
+    "🗃️ Unorganized/General Notes/A5.2.md",
+    "🗃️ Unorganized/General Notes/A5.1.md",
+    "🗃️ Unorganized/General Notes/A5 Algorithm.md",
+    "A5/1.md",
+    "A5",
+    "🔮 World Building/Science and Engineering/Physics/Electronics and Electricity/Circuits.md",
+    "🗃️ Unorganized/General Notes/Circuit.md",
+    "🗃️ Unorganized/General Notes/Shift Registers.md",
+    "🗃️ Unorganized/General Notes/Linear-Feedback Shift Registers.md",
     "🗃️ Unorganized/General Notes/Global System for Mobile Communications.md",
     "🗃️ Unorganized/General Notes/Rainbow Table.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
@@ -749,15 +758,6 @@
     "🗃️ Unorganized/General Notes/Perception Management.md",
     "🗃️ Unorganized/General Notes/Conservatives.md",
     "🗃️ Unorganized/General Notes/Lacking Substance.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse/History of Banana Republics.md",
-    "🗃️ Unorganized/General Notes/History of the United States.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
-    "🗃️ Unorganized/General Notes/Norms.md",
-    "🗃️ Unorganized/General Notes/Normal.md",
-    "🗃️ Unorganized/General Notes/Ethics.md",
-    "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
-    "🗃️ Unorganized/General Notes/Why must we fight.md",
-    "🗃️ Unorganized/General Notes/Logic.md",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/Claimed Rules of War in Islam.webp",
@@ -776,7 +776,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚖️ Socio-Political Discourse"
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse"
   ]
 }

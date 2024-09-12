@@ -1,1 +1,1 @@
-They are a type of [[digital circuit]] made out of [[flip flops]].
+They are a type of [[digital circuit]] made out of [[flip-flops]].
