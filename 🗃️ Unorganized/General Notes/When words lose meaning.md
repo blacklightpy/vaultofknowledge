@@ -1,0 +1,2 @@
+- **Semantic Satiation**: When repeated words lose meaning
+- 
