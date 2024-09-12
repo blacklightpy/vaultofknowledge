@@ -257,3 +257,14 @@ List of Branches of Science
 [[String Theory]] | [[M-Theory]] || [[Superstring Theory]]
 [[Perturbation Theory]]
 Chaos Theory
+
+Faceted Classification
+Classification
+Taxonomy
+Semantic Networks
+Systematics
+[[Philosophical Languages]]
+[[Characteristica Universalis]]
+[[Engineered Languages]]
+[[Constructed Languages]]
+[[Auxiliary Languages]]

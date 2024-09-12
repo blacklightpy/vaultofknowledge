@@ -567,7 +567,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -634,7 +634,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/A5.2.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -651,7 +651,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/A5.2.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -663,7 +663,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/A5.2.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
               }
             }
           },
@@ -729,8 +729,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6b4b53c1a7d59a27",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/A5.2.md",
     "🗃️ Unorganized/General Notes/A5.1.md",
     "🗃️ Unorganized/General Notes/Stream Ciphers.md",
     "🗃️ Unorganized/General Notes/Linear-Feedback Shift Registers.md",
@@ -739,7 +740,6 @@
     "🗃️ Unorganized/General Notes/Bi-Stable Multivibrator.md",
     "🗃️ Unorganized/General Notes/Multivibrator.md",
     "🗃️ Unorganized/General Notes/A5.3.md",
-    "🗃️ Unorganized/General Notes/A5.2.md",
     "🗃️ Unorganized/General Notes/A5 Algorithm.md",
     "A5/1.md",
     "A5",
