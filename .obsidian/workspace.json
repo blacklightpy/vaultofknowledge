@@ -578,9 +578,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a263832818dd6f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -648,7 +661,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/When words lose meaning.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -665,7 +678,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/When words lose meaning.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -677,7 +690,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/When words lose meaning.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -743,10 +756,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "51ac2cf2a8bc0969",
+  "active": "a263832818dd6f8b",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Lacking Substance.md",
     "🗃️ Unorganized/General Notes/When words lose meaning.md",
+    "🗃️ Unorganized/General Notes/Lacking Substance.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",

@@ -265,6 +265,10 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- Brahman has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
 		- Bhakti is the sole means of liberation
 		- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
+		- **General Description**
+			- Cause and Effect
+				- Vishishta Advaita Vedanta follows Sat-Kaarya Vaada (Proposition that Effects are Existent)
+				- Vishishta Advaita explains Sat-Kaarya Vaada using Brahm Parinaama Vaada (Proposition of Transformation of Universe)
 		- **Sub-denominations:**
 			- 6.3.1. Akshar Purushottam Darshan (as termed by BAPS) / Swaminarayan Sampradaya
 				- By Swami Narayana
