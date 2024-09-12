@@ -11,6 +11,12 @@
 - **Circumlocution:** Use of too many words to convey an idea, often to evade the topic
 
 
-- **Nonsense:** e.g. Colourless green ideas sleep furiously
+- **Syntactically Correct Nonsense:** e.g. Colourless green ideas sleep furiously
+- **Syntactically Incorrect Nonsense:** e.g. Furiously sleep ideas green colorless
 - **Gibberish:** Same as "word salad" or "gobbledygook"
 - **Barbarian:** How Greeks perceived foreign languages ("baa" "baa")
+
+# Notes
+- We can perceive syntactically incorrect statements to an extent
+- We can perceive semantically incorrect statements to an extent
+- 
