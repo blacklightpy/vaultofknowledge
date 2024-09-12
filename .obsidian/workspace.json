@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -554,7 +554,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -621,7 +621,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -638,7 +638,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -650,7 +650,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md"
+                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md"
               }
             }
           },
@@ -716,12 +716,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "ee08f2f170932434",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Philosophical Languages.md",
-    "🗃️ Unorganized/General Notes/Engineered Languages.md",
+    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
+    "🗃️ Unorganized/General Notes/What all do I want to change.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "🗃️ Unorganized/General Notes/Content Architecture.md",
+    "🗃️ Unorganized/General Notes/Information Architecture.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
+    "🗃️ Unorganized/General Notes/Philosophical Languages.md",
+    "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
+    "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "🗃️ Unorganized/General Notes/Global System for Mobile Communications.md",
     "🗃️ Unorganized/General Notes/Stream Ciphers.md",
     "🗃️ Unorganized/General Notes/A5.1.md",
@@ -739,12 +745,6 @@
     "🗃️ Unorganized/General Notes/Circuit.md",
     "🗃️ Unorganized/General Notes/Rainbow Table.md",
     "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Additional Senses.md",
-    "🔮 World Building/Philosophy/Emotions.md",
-    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/When words lose meaning.md",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/Claimed Rules of War in Islam.webp",

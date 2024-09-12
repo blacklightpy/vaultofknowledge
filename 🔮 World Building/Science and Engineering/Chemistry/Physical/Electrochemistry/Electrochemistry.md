@@ -269,6 +269,3 @@ Systematics
 [[Engineered Languages]]
 [[Constructed Languages]]
 [[Auxiliary Languages]]
-
-Content Architecture
-Information Architecture
