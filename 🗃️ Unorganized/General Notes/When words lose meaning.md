@@ -21,6 +21,11 @@
 - **Doublethink:** Logically contradicting sentences
 - **Newspeak:** 
 
+- **Bloviating:** Speaking without conveying anything
+- **Dissembling:** Obfuscation for the purpose of misdirection, usually using everyday speech (beating about the bush to eventually escape)
+- **Sophistry:** Illogical sentences wrapped in rhetoric (like in some disingenious advertisements)
+- **Sesquipedalian:** Using a lot of words that most people do not understand
+
 - **Ice Cream Koan:** Looks like a Koan, but is meaningless (https://tvtropes.org/pmwiki/pmwiki.php/Main/IceCreamKoan)
 - **Vacuous Truths:** Statements of the form "if a, then b", but both a and b are false
 - **Truth-Value Gap:** "The king of France is bald", but there is no king of France.
