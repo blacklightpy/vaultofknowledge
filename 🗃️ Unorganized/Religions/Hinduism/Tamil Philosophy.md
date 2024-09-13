@@ -40,26 +40,12 @@
 	- Mullai Paattu (Forest (Life) Song)
 	- Nedu Nal Vaadai (Long Pleasant Northern Wind)
 	- Pattina Paazhai (City Separation (of Love))
-	- Perumpaan Aatru Padai (River Guide to )
-	- Porunara Aatru Padai (River Guide to )
-	- Sirupaana Aatru Padai (River Guide to )
-
-
-|                                                                                                                                 |                                                 |                              |                        |     |                           |
-| ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------- | ---------------------- | --- | ------------------------- |
-| _Tirumurukāṟṟuppaṭai_                                                                                                           | "Guide to Lord Murugan"                         | Nakkīrar                     | Murugan                | 312 | Akaval                    |
-| _Kuṟiñcippāṭṭu_                                                                                                                 | "Song about the hills"                          | Kapilar                      | Anonymous              | 261 | Akaval                    |
-| _Malaipaṭukaṭām_                                                                                                                | "Poem of the sound pertaining to the mountains" | Perunkunrur, Perunkaucikanar | Nannan                 |     |                           |
-| _Maturaikkāñci_                                                                                                                 | "Reflection on Maturai"                         | Mankuti Marutanar            | Netunceliyan           | 782 | Vanci, some akaval        |
-| _Mullaippāṭṭu_                                                                                                                  | "Song about the forest (life)"                  | Nappitanar                   | Anonymous              | 103 | Akaval                    |
-| _Neṭunalvāṭai_                                                                                                                  | "Good long northern wind"                       | Nakkirar                     | Netunceliyan           | 188 | Akaval                    |
-| _Paṭṭiṉappālai_                                                                                                                 | "Poem about the separation and the city"        | Uruttiran Kannanar           | Karikal                | 301 | Vanci (153), akaval (138) |
-| _Perumpāṇāṟṟuppaṭai_                                                                                                            | "Guide to bards with large lutes"               | Uruttiran Kannanar           | Tontaiman Ilantiraiyan | 500 | Akaval                    |
-| _[Poruṇarāṟṟuppaṭai](https://en.wikipedia.org/wiki/Poru%E1%B9%87ar%C4%81%E1%B9%9F%E1%B9%9Fuppa%E1%B9%ADai "Poruṇarāṟṟuppaṭai")_ | "Guide for the war bards"                       | Mutattamakkanniyar           | Karikal                | 248 | Akaval, some vanci        |
-| _Ciṟupāṇāṟṟuppaṭai_                                                                                                             | "Guide to bards with small lutes"               | Narrattanar                  | Nalliyakkotan          | 296 | Akaval                    |
+	- Perump Paan Aatru Padai (River Guide to Perum Paanar (Bards who play large Lutes))
+	- Porunar Aatru Padai (River Guide to Porunar (War Bards))
+	- Siru Paana Aatru Padai (River Guide to Siru Paanar (Bards who play small Lutes))
 ## Eighteen Lesser Texts (Pathinen Keezhkkanakku Noolgai)
-- Naaladiyaar
-- Naanmani Kadigai (Four o'Clock)
+- Naal Adiyaar (Four Steppers (Quatrains)) / Naal Adi Naannooru (Four Step (Quatrain) Four Hundred)
+- Naal Mani Kadigai (Four o'clock)
 - Innaa Naarpatu (The Forty Dull Things)
 - Iniyavai Naarpatu (The Forty Sweet Things)
 - Kaar Naarpatu ( Forty)
