@@ -38,7 +38,7 @@
 - Ten Lais / Pathu Paattu
 	- Thiru Muruka Aatru Padai (River Guide to Lord Muruga)
 	- Kurinchi Paattu (Mountain Song) / Perum Kurinchi (Great Mountain)
-	- Malai Paadu Kadam (Sounds of the Mountains) / Kuttara Aatru Padai (River Guide to Dancing Mistrels)
+	- Malai Padu Kadam (Footsteps of the Mountains) / Kuttara Aatru Padai (River Guide to Jolly Entertainers)
 	- Madurai Kaanchi (Reflection on Madurai)
 	- Mullai Paattu (Forest (Life) Song)
 	- Nedu Nal Vaadai (Long Pleasant Northern Wind)
@@ -62,12 +62,12 @@
 		- Healthy children
 		- Strength to not covet other's spouse. 
 - Kaar Naarpatu (Cloudy Forty)
-- Kalavazhi Naarpatu ( Forty)
-- Aintiṇai Aimpatu (Fifty)
-- Tinaimozhi Aimpatu (Fifty)
-- Aintinai Ezhupatu (Seventy)
-- Tinaimalai Noorraimpatu (One Hundred and Fifty)
-- Thirukkuraḷ (The Great Kural)
+- Kalavazhi Naarpatu (Field Way Forty)
+- Ain Thinai Aimpatu (Five Genre Fifty (Ten Each))
+- Thinai Mozhi Aimpatu (Language Specific Genre Fifty)
+- Ain Thinai Ezhupatu (Five Genre Seventy (Fourteen Each))
+- Tinnai Maalai Noor Aimpatu (One Hundred and Fifty)
+- Thiru Kural (The Great Kural ())
 - Tirikatukam ()
 - Aachaarakkovai ()
 - Pazhamozhi Naanooru (Four Hundred)
