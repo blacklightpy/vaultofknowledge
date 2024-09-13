@@ -21,17 +21,17 @@
 ## Eighteen Greater Texts (Pathinen Melkkanakku Noolgai)
 - Eight Collections / Ettu Thokai
 	- Ain Kuru Nooru (Five Short Hundred (Poems))
-	- Aka Naannooru (Inner Four Hundred (Poems)) / Nedunthokai (Long Collections)
-	- Pura Naannooru (External Four Hundred (Poems)) / Puram (External) / Puram Paattu (External Songs)
+	- Aka Naannooru (Inner (Love) Four Hundred (Poems)) / Nedunthokai (Long Collections)
+	- Pura Naannooru (External (Worldly) Four Hundred (Poems)) / Puram Paattu (External Songs)
 	- Kali Thokai (Kali (Metre) Collection)
-	- Kurun Thokai (Kurun (Metre) Collection)
-	- Natrinai
-	- Paripaatal
-	- Patirru Paattu
-- Ten Idylls / Pattuppattu
-	- Tirumurukaarruppatai
-	- Kurinchippaattu
-	- Malaipadukadaam
+	- Kurun Thokai (Short Collection)
+	- Nar Thinai (Excellent Themes)
+	- Paripaadal (Paripaadal (Metre))
+	- Pathittru Pathu (Ten Tens)
+- Ten Lais / Pathu Paattu
+	- Thiru Muruka Aatru Padai (River Guide to Lord Muruga)
+	- Kurinchi Paattu (Mountain Song) / Perum Kurinchi (Great Mountain)
+	- Malaipadukadaam / Kuttara Aatru Padai (River Guide to Dancing Mistrels)
 	- Madurai Kaanchi
 	- Mullai Paattu
 	- Nedunalvaadai
