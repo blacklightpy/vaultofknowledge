@@ -22,6 +22,9 @@
 - Akam (Inner / Love)
 - Puram (External / War, Public Life)
 - Aatru Padai (River Guide)
+## Metres
+- Akaval
+- Venpa
 ## Eighteen Greater Texts (Pathinen Melkkanakku Noolgai)
 - Eight Collections / Ettu Thokai
 	- Ain Kuru Nooru (Five Short Hundred (Poems))
@@ -35,7 +38,7 @@
 - Ten Lais / Pathu Paattu
 	- Thiru Muruka Aatru Padai (River Guide to Lord Muruga)
 	- Kurinchi Paattu (Mountain Song) / Perum Kurinchi (Great Mountain)
-	- Malai Paadukadaam (Sounds of the Mountains) / Kuttara Aatru Padai (River Guide to Dancing Mistrels)
+	- Malai Paadu Kadam (Sounds of the Mountains) / Kuttara Aatru Padai (River Guide to Dancing Mistrels)
 	- Madurai Kaanchi (Reflection on Madurai)
 	- Mullai Paattu (Forest (Life) Song)
 	- Nedu Nal Vaadai (Long Pleasant Northern Wind)
@@ -47,8 +50,18 @@
 - Naal Adiyaar (Four Steppers (Quatrains)) / Naal Adi Naannooru (Four Step (Quatrain) Four Hundred)
 - Naal Mani Kadigai (Four o'clock)
 - Innaa Naarpatu (The Forty Dull Things)
+	- Includes four categories of harmful things one should avoid:
+		- A beautiful but disloyal wife
+		- The wealth of a miser
+		- Alife under a tyrant
+		- Beauty of a flower without fragrance
 - Iniyavai Naarpatu (The Forty Sweet Things)
-- Kaar Naarpatu ( Forty)
+	- Includes four categories of things one should seek in life:
+		- Learning even at the expense of begging
+		- The advice of learned persons
+		- Healthy children
+		- Strength to not covet other's spouse. 
+- Kaar Naarpatu (Cloudy Forty)
 - Kalavazhi Naarpatu ( Forty)
 - Aintiṇai Aimpatu (Fifty)
 - Tinaimozhi Aimpatu (Fifty)
