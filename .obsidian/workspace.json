@@ -552,9 +552,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c173c730d756eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 41
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -621,7 +634,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -638,7 +651,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -650,7 +663,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -716,12 +729,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ee08f2f170932434",
+  "active": "3c173c730d756eab",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
     "🗃️ Unorganized/General Notes/What all do I want to change.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "🗃️ Unorganized/General Notes/Content Architecture.md",
     "🗃️ Unorganized/General Notes/Information Architecture.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
@@ -744,7 +758,6 @@
     "🔮 World Building/Science and Engineering/Physics/Electronics and Electricity/Circuits.md",
     "🗃️ Unorganized/General Notes/Circuit.md",
     "🗃️ Unorganized/General Notes/Rainbow Table.md",
-    "🗃️ Unorganized/General Notes/Poetry - my philosophy.md",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/Claimed Rules of War in Islam.webp",
