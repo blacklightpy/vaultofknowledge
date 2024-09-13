@@ -87,8 +87,8 @@
 	- 2) Beautifully ornamented damsels that are not perfect in chastity. It is impossible to stop by trapping them in a prison-house! We challenge! Even if it were tied painfully and most strongly, a dog's tail shall never be straightened.
 	- 3) Even if the dog's tail be painfully bound hard, its crookedness will never straighten up. So too, it will not be possible to restrain (from evil acts) by watch such bejewelled women of beauty as do not have control over their senses. If any were to say it is possible to do so, I challenge them.
 	- 4) It is not possible to restrain within any bound those who are adorned by jewels (women), if they are devoid of good qualities - shall I say why? Is it possible by any pains or by binding it ever so tightly to keep a dog's tail straight? No (i.e. because it is contrary to its nature).
-- Sirupanchamoolam ()
-- Mutumozhikkaanchi ()
+- Siru Pancha Moolam (Small Five Roots (of Medicinal Plants))
+- Mutu Mozhi Kaanchi ()
 - Elati ()
 - Kainnilai and Innilai ()
 ## Bhakti Literature
