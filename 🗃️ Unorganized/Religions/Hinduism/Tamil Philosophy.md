@@ -1,4 +1,4 @@
-- **[[Thirukkural]]**
+- **[[Thiru Kural]]**
 	- It is a book on secular philosophy
 	- It is part of the eighteen lesser texts of Sangam Literature
 	- All major Indian religions and sects, including Shiva Worshippers, Vishnu Worshippers, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaaram**, **Manimekalai**, **Tirumurai**, **Periya Puraanam**, and **Kamba Ramaayanam**.
@@ -66,11 +66,14 @@
 - Ain Thinai Aimpatu (Five Genre Fifty (Ten Each))
 - Thinai Mozhi Aimpatu (Language Specific Genre Fifty)
 - Ain Thinai Ezhupatu (Five Genre Seventy (Fourteen Each))
-- Tinnai Maalai Noor Aimpatu (One Hundred and Fifty)
-- Thiru Kural (The Great Kural ())
-- Tirikatukam ()
-- Aachaarakkovai ()
-- Pazhamozhi Naanooru (Four Hundred)
+- Tinnai Maalai Noor Aimpatu (Evening Porch One Hundred and Fifty)
+- [[Thiru Kural]] (The Great Kural ())
+- Thiri Katukam (Three Spices (Medicine))
+	- Sukku (Dry Ginger)
+	- Milaku (Pepper)
+	- Thippili (Indian Long Pepper)
+- Aachaara Kovai (Garland of Traditions)
+- Pazha Mozhi Naanooru (Old Sayings Four Hundred)
 - Sirupanchamoolam ()
 - Mutumozhikkaanchi ()
 - Elati ()
