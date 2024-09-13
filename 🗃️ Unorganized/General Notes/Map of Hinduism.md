@@ -1,13 +1,13 @@
-
-
 # Texts
 ## Primary Texts
-
 - [[Shruti]]
-	- [[Vedas]] / Nigamas
+	- [[Vedas]] (Knowledge) / Nigamas (Sought After Abstract Ideas)
 		- [[Brahmana]]
-	- [[Tantras]] / Aagamas
-- [[Mahabharata]]
+		- [[Samhitha]]
+		- [[Aranyaka]]
+		- [[Upanishad]]
+	- [[Tantras]] (Techniques) / Aagamas (Passed Down Practical Knowledge)
+- [[Bhagavat Geeta]] from the [[Mahabharata]]
 ## Secondary Texts
 - Ithihaasas (Epics)
 	- [[Mahabharata]] (The Great India)
