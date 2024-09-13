@@ -7,7 +7,6 @@
 	- [[Vedas]] / Nigamas
 		- [[Brahmana]]
 	- [[Tantras]] / Aagamas
-- 
 - [[Mahabharata]]
 ## Secondary Texts
 - Ithihaasas (Epics)
@@ -45,7 +44,9 @@
 ## Evils
 
 
+# My Own Rough Notes
 
+# Reference Notes
 
 > All this is given in the book
 > 
