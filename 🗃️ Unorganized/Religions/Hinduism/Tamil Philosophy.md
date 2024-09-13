@@ -1,4 +1,4 @@
-- **Thirukkural**
+- **[[Thirukkural]]**
 	- It is a book on secular philosophy
 	- It is part of the eighteen lesser texts of Sangam Literature
 	- All major Indian religions and sects, including Shiva Worshippers, Vishnu Worshippers, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaram**, **Manimekalai**, **Tirumurai**, **Periya Puranam**, and **Kamba Ramayanam**.
@@ -17,11 +17,11 @@
 	- Historically known as "poetry of the noble ones" (சான்றோர் செய்யுள் / Cāṉṟōr Ceyyuḷ)
 ## Early Books
 - Agattiyam (Earliest non-extant book on Tamil grammar)
-- Tolkāppiyam (Earliest extant book on Tamil grammar)
+- Tolkaappiyam (Earliest extant book on Tamil grammar)
 ## Eighteen Greater Texts
 - Eight Anthologies / Ettuttokai
-	- Aiṅkurunūṟu
-	- Akanāṉūṟu
+	- Ainkurunooru
+	- Akanaanooru
 	- Puṟanāṉūṟu
 	- Kalittokai
 	- Kuṟuntokai
@@ -36,33 +36,33 @@
 	- Mullaippāṭṭu
 	- Neṭunalvāṭai
 	- Paṭṭiṉappālai
-	- Perumpāṇāṟṟuppaṭai
-	- Poruṇarāṟṟuppaṭai
-	- Ciṟupāṇāṟṟuppaṭai
+	- Perumpaanaarruppattai
+	- Porunaraaarruppattai
+	- Chirupaanaarruppattai
 ## Eighteen Lesser Texts
-- Nālaṭiyār
-- Nāṉmaṇikkaṭikai
-- Iṉṉā Nāṟpatu
-- Iṉiyavai Nāṟpatu
-- Kār Nāṟpatu
-- Kaḷavaḻi Nāṟpatu
+- Naalattiyaar
+- Naanmanikkattikai
+- Innaa Naarpatu
+- Iniyavai Naarpatu
+- Kaar Naarpatu
+- Kalavazhi Naarpatu
 - Aintiṇai Aimpatu
-- Tiṉaimoḻi Aimpatu
+- Tinaimozhi Aimpatu
 - Aintinai Eḻupatu
-- Tiṇaimālai Nūṟṟaimpatu
-- Tirukkuṟaḷ
+- Tinaimalai Noorraimpatu
+- Thirukkuraḷ
 - Tirikaṭukam
-- Ācārakkōvai
-- Paḻamoḻi Nāṉūṟu
-- Ciṟupañcamūlam
-- Mutumoḻikkānci
-- Elāti
+- Aachaarakkovai
+- Pazhamozhi Naanooru
+- Chirupanchamoolam
+- Mutumolikkaanchi
+- Elati
 - Kainnilai
 ## Bhakti Literature
 - Naalayira Divya Prabandham
 - Ramavataram
 - Tevaram
-- Tirumuṟai
+- Tirumurai
 # Post-Sangam Period
 
 ## Didactic age

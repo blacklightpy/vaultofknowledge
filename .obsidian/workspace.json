@@ -565,9 +565,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbf9fd1ef0b2a9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -635,7 +648,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -652,7 +665,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -664,7 +677,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md"
               }
             }
           },
@@ -730,11 +743,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3c173c730d756eab",
+  "active": "fbf9fd1ef0b2a9e7",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Shruti.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
     "🗃️ Unorganized/General Notes/Bhagavat Geeta.md",
     "🗃️ Unorganized/General Notes/Tantras.md",
