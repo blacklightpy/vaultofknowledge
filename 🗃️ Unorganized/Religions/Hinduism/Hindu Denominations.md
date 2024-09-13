@@ -43,7 +43,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Purusa is bound to Prakriti by **Jiva**
 		- **Moksha** is how the soul is liberated
 	- **Epistemology**
-		- Knowledge is possible through three **Pramanas** (Means):
+		- Knowledge is possible through three **Pramaanas** (Means):
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
@@ -52,14 +52,14 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- Nature evolves for the sake of the Soul in bondage (due to ignorance).
 			- A free Soul simply witnesses the evolution, but he misidentifies himself as being a part of it.
 			- When the Soul realizes that it is distinct from Nature and that it cannot evolve, Nature also stops evolving for that Soul.
-			- Liberation is the natural goal of every Soul.
+			- **Moksha** (Liberation) is the natural goal of every Soul.
 		- Cause and Effect
-			- The Sankhya Darshana is based on Sat-Kaarya Vaada (Proposition that Effects are Existent)
+			- The Sankhya Darshana is based on **Sat-Kaarya Vaada** (Proposition that Effects are Existent)
 				- The effect is pre-existent in the cause, so nothing new is ever created
 				- The effect seems distinct from the cause due to an illusion, or Maya
 				- Maya has two powers (added from some source as where I got this from)
-					- Avarna (Veiling)
-					- Vikshepa (Projection)
+					- **Avarna** (Veiling)
+					- **Vikshepa** (Projection)
 				- The effect is not a material change in Prakriti, but is a transformation of it (think matrix transformations)
 			- Sankhya Darshana explains Sat-Kaarya Vaada based on Prakriti-Parinama Vaada (Proposition of Transformation of Nature)
 		- Cosmic Evolution
@@ -87,20 +87,20 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 					- They too evolve from the Sattva aspect of Ahamkara.
 					- They are the Hands, Legs, Vocal Apparatus, Urino-Genital Organ and Anus.
 				- **Pancha Tan Matras** (Five Subtle Elements):
-					- They evolve from the Tamas aspect of Ahamkara.
-					- They are the root energies of Sound (**Shabda**), Touch (**Sparsha**), Form (**Rupa**), Taste (**Rasa**) and Smell (**Gandha**).
+					- They evolve from the Tamas aspect of Ahamkaara.
+					- They are the root energies of Sound (**Shabda**), Touch (**Sparsha**), Form (**Roopa**), Taste (**Rasa**) and Smell (**Gandha**).
 				- **Pancha Maha Bhuta** (Five Great Substances):
 					- They too evolve from the Tamas aspect of Ahamkara.
 					- Earth (**Prithvi**), Air (**Vaayu**), Fire (**Agni**), Water (**Jala**) and Ether (**Aakasha**).
 					- This is the visible aspect of the Physical Universe.
 	- **Glossary of Terms**
-		- Samsara (Cyclic Existence)
-		- Kalachakra (The Cycle of Samsara)
+		- Samsaara (Cyclic Existence)
+		- Kaalachakra (The Cycle of Samsara)
 		- Avidya (Ignorance)
 		- Moksha (Liberation)
 		- Manas (Mind)
 		- Buddhi (Intellect)
-		- Ahamkara (Ego)
+		- Ahamkaara (Ego)
 
 	- **Arguments against God by Sankhya philosophers**
 		- If the existence of Karma is assumed, the proposition of God as a moral governor of the universe is unnecessary. For, if God enforces the consequences of actions then he can do so without Karma. If however, he is assumed to be within the law of Karma, then Karma itself would be the giver of consequences and there would be no need of a God.

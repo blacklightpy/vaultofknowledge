@@ -11,7 +11,7 @@ In Religion:
 > ![[Water Splash Sample Image.jpg]]
 > The analogy for the relationship between Brahman and Atman is that of a field of water, and the ripples flowing through it. Brahman is the water body, and Atman is the energy that forms ripples.
 ## Component Notes
-- [[Vedas]] (Sanskrit Books of Knowledge) / Nigamas (Abstract Ideas)
+- [[Vedas]] (Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
 	- Sections
 		- Samhithas (Put Together / Collections)
 		- Brahmanas (Universal / Spiritual Insights)
@@ -21,7 +21,7 @@ In Religion:
 	- Parishistas (Supplements)
 	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)
-- Nigamas (Practical Knowledge)
+- Aagamas (Tradition / What has come down)
 - [[Sutras]]
 	- [[Dharma Sutras]]
 	- [[Dharma Shastra]]
@@ -48,3 +48,4 @@ In Religion:
 ## Evils
 - [[Evils in Hinduism 1 - Why is Intercaste Marriage Bad]]
 - [[Evils in Hinduism 2 - Marrying Foreigners is Prohibited]]
+- [[Evils in Hinduism 3 - Untouchability]]
