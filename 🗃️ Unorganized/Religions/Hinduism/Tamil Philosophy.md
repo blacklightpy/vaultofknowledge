@@ -67,7 +67,7 @@
 - Thinai Mozhi Aimpatu (Language Specific Genre Fifty)
 - Ain Thinai Ezhupatu (Five Genre Seventy (Fourteen Each))
 - Tinnai Maalai Noor Aimpatu (Evening Porch One Hundred and Fifty)
-- [[Thiru Kural]] (The Great Kural ())
+- [[Thiru Kural]] (The Great Kural (Couplet))
 - Thiri Katukam (Three Spices (Medicine))
 	- Sukku (Dry Ginger)
 	- Milaku (Pepper)
@@ -88,9 +88,9 @@
 	- 3) Even if the dog's tail be painfully bound hard, its crookedness will never straighten up. So too, it will not be possible to restrain (from evil acts) by watch such bejewelled women of beauty as do not have control over their senses. If any were to say it is possible to do so, I challenge them.
 	- 4) It is not possible to restrain within any bound those who are adorned by jewels (women), if they are devoid of good qualities - shall I say why? Is it possible by any pains or by binding it ever so tightly to keep a dog's tail straight? No (i.e. because it is contrary to its nature).
 - Siru Pancha Moolam (Small Five Roots (of Medicinal Plants))
-- Mutu Mozhi Kaanchi ()
-- Elati ()
-- Kainnilai and Innilai ()
+- Mutu Mozhi Kaanchi (Garland of Old Sayings)
+- Elati (Cardamom)
+- Kainnilai () and Innilai (House Life)
 ## Bhakti Literature
 - Naalayira Divya Prabandham
 - Ramavataram
