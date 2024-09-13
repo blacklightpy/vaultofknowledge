@@ -45,6 +45,17 @@
 
 
 # My Own Rough Notes
+- Gunas
+	- Sattva
+	- Tamas
+	- Rajas
+- Yogic Diet
+	- Sattvic
+	- Tamasic
+	- Rajasic
+- Sarga (Creation)
+- Pralaya (Destruction)
+
 
 # Reference Notes
 

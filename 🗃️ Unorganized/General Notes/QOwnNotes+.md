@@ -253,3 +253,8 @@
 
 - Intro Text (If I was going for prose)
 	- Aweha, luckily we have learned to communicate. We have English as our lingua franca, born from the same culture that birthed the Greeks and the Indians.
+
+- Indescribability of Vedas
+	- I posit that Vedas are true, however, I do not believe it can be written down
+	- Only a fraction of the Vedas can be conveyed by a person
+	- For this, I take Jung's interpretation of the collective unconscious
