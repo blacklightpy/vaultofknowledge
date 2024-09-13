@@ -16,9 +16,9 @@
 - Sangam literature (சங்க இலக்கியம் / Caṅka Ilakkiyam)
 	- Historically known as "poetry of the noble ones" (சான்றோர் செய்யுள் / Cāṉṟōr Ceyyuḷ)
 ## Early Books
-- Agattiyam (Earliest non-extant book on Tamil grammar)
-- Tolkaappiyam (Earliest extant book on Tamil grammar)
-## Eighteen Greater Texts
+- Agattiyam by Agattiyar (Agastya Muni) (Earliest non-extant book on Tamil grammar)
+- Tholkaappiyam by Tholkaappiyar (A student of Agattiyar) (Earliest extant book on Tamil grammar)
+## Eighteen Greater Texts (Pathinen Melkkanakku Noolgai)
 - Eight Anthologies / Ettuttokai
 	- Ainkurunooru
 	- Akanaanooru
@@ -39,25 +39,25 @@
 	- Perumpaanaarruppatai
 	- Porunaraaarruppatai
 	- Sirupaanaarruppatai
-## Eighteen Lesser Texts
+## Eighteen Lesser Texts (Pathinen Keezhkkanakku Noolgai)
 - Naaladiyaar
 - Naanmani Kadigai (Four o'Clock)
-- Innaa Naarpatu (The Forty Undesirable Things)
-- Iniyavai Naarpatu (The Forty Desirable Things)
-- Kaar Naarpatu
-- Kalavazhi Naarpatu
-- Aintiṇai Aimpatu
-- Tinaimozhi Aimpatu
-- Aintinai Ezhupatu
-- Tinaimalai Noorraimpatu
-- Thirukkuraḷ
-- Tirikatukam
-- Aachaarakkovai
-- Pazhamozhi Naanooru
-- Sirupanchamoolam
-- Mutumozhikkaanchi
-- Elati
-- Kainnilai
+- Innaa Naarpatu (The Forty Dull Things)
+- Iniyavai Naarpatu (The Forty Sweet Things)
+- Kaar Naarpatu ( Forty)
+- Kalavazhi Naarpatu ( Forty)
+- Aintiṇai Aimpatu (Fifty)
+- Tinaimozhi Aimpatu (Fifty)
+- Aintinai Ezhupatu (Seventy)
+- Tinaimalai Noorraimpatu (One Hundred and Fifty)
+- Thirukkuraḷ (The Great Kural)
+- Tirikatukam ()
+- Aachaarakkovai ()
+- Pazhamozhi Naanooru (Four Hundred)
+- Sirupanchamoolam ()
+- Mutumozhikkaanchi ()
+- Elati ()
+- Kainnilai and Innilai ()
 ## Bhakti Literature
 - Naalayira Divya Prabandham
 - Ramavataram
