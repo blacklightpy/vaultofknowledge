@@ -74,6 +74,19 @@
 	- Thippili (Indian Long Pepper)
 - Aachaara Kovai (Garland of Traditions)
 - Pazha Mozhi Naanooru (Old Sayings Four Hundred)
+	- The following poem uses the adage that it is impossible to straighten the tail of a dog, as it impossible to control the unchaste mind of a girl by throwing her in prison:
+	- நிறையான் மிகுகலா நேரிழை யாரைச்
+	  சிறையான் அகப்படுத்தல் ஆகா - அறையோ
+	  வருந்த வலிதினின் யாப்பினும் நாய்வால்
+	  திருந்துதல் என்றுமே இல்.
+	-  niraiyan mikukallā nērilai yāraic
+	  ciraiyān akappațuttal ākā – araiyo
+	  varunta valitinin yāppinum nāyvāl
+	  tiruntutal enrumo il.
+	- 1) Women of unstable character, lacking self-control cannot be imprisoned; they will find their way out. Speak out if there is any! Tie a dog's tail tight with splinters to straighten it; Try hard but it can't be corrected.
+	- 2) Beautifully ornamented damsels that are not perfect in chastity. It is impossible to stop by trapping them in a prison-house! We challenge! Even if it were tied painfully and most strongly, a dog's tail shall never be straightened.
+	- 3) Even if the dog's tail be painfully bound hard, its crookedness will never straighten up. So too, it will not be possible to restrain (from evil acts) by watch such bejewelled women of beauty as do not have control over their senses. If any were to say it is possible to do so, I challenge them.
+	- 4) It is not possible to restrain within any bound those who are adorned by jewels (women), if they are devoid of good qualities - shall I say why? Is it possible by any pains or by binding it ever so tightly to keep a dog's tail straight? No (i.e. because it is contrary to its nature).
 - Sirupanchamoolam ()
 - Mutumozhikkaanchi ()
 - Elati ()
