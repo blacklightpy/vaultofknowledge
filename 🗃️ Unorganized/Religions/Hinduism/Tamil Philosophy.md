@@ -22,40 +22,40 @@
 - Eight Anthologies / Ettuttokai
 	- Ainkurunooru
 	- Akanaanooru
-	- Puṟanāṉūṟu
+	- Puranaanooru
 	- Kalittokai
-	- Kuṟuntokai
-	- Natṟiṇai
-	- Paripāṭal
-	- Patiṟṟuppattu
+	- Kuruntokai
+	- Natrinai
+	- Paripaatal
+	- Patirruppattu
 - Ten Idylls / Pattuppattu
-	- Tirumurukāṟṟuppaṭai
-	- Kuṟiñcippāṭṭu
-	- Malaipaṭukaṭām
-	- Maturaikkāñci
-	- Mullaippāṭṭu
-	- Neṭunalvāṭai
-	- Paṭṭiṉappālai
-	- Perumpaanaarruppattai
-	- Porunaraaarruppattai
-	- Chirupaanaarruppattai
+	- Tirumurukaarruppatai
+	- Kurinchippaattu
+	- Malaipadukadaam
+	- Madurai Kaanchi
+	- Mullai Paattu
+	- Nedunalvaadai
+	- Pattinappaazhai
+	- Perumpaanaarruppatai
+	- Porunaraaarruppatai
+	- Sirupaanaarruppatai
 ## Eighteen Lesser Texts
-- Naalattiyaar
-- Naanmanikkattikai
-- Innaa Naarpatu
-- Iniyavai Naarpatu
+- Naaladiyaar
+- Naanmani Kadigai (Four o'Clock)
+- Innaa Naarpatu (The Forty Undesirable Things)
+- Iniyavai Naarpatu (The Forty Desirable Things)
 - Kaar Naarpatu
 - Kalavazhi Naarpatu
 - Aintiṇai Aimpatu
 - Tinaimozhi Aimpatu
-- Aintinai Eḻupatu
+- Aintinai Ezhupatu
 - Tinaimalai Noorraimpatu
 - Thirukkuraḷ
-- Tirikaṭukam
+- Tirikatukam
 - Aachaarakkovai
 - Pazhamozhi Naanooru
-- Chirupanchamoolam
-- Mutumolikkaanchi
+- Sirupanchamoolam
+- Mutumozhikkaanchi
 - Elati
 - Kainnilai
 ## Bhakti Literature
