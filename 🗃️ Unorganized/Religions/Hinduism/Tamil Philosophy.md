@@ -1,7 +1,7 @@
 - **[[Thirukkural]]**
 	- It is a book on secular philosophy
 	- It is part of the eighteen lesser texts of Sangam Literature
-	- All major Indian religions and sects, including Shiva Worshippers, Vishnu Worshippers, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaram**, **Manimekalai**, **Tirumurai**, **Periya Puranam**, and **Kamba Ramayanam**.
+	- All major Indian religions and sects, including Shiva Worshippers, Vishnu Worshippers, Jainism, and Buddhism, have greatly celebrated the Kural text, many of which incorporated Kural's teachings in both their religious and non-religious works, including the **Silappathikaaram**, **Manimekalai**, **Tirumurai**, **Periya Puraanam**, and **Kamba Ramaayanam**.
 # Tamil Literature
 # Time Periods
 - Sangam age
@@ -13,21 +13,21 @@
 - Vijayanagar and Nayak period
 - Modern era
 # Sangam literature
-- Sangam literature (சங்க இலக்கியம் / Caṅka Ilakkiyam)
-	- Historically known as "poetry of the noble ones" (சான்றோர் செய்யுள் / Cāṉṟōr Ceyyuḷ)
+- Sangam literature (சங்க இலக்கியம் / Sanga Ilakkiyam)
+	- Historically known as "Poetry of the Noble Ones" (சான்றோர் செய்யுள் / Sandror Seyyul)
 ## Early Books
 - Agattiyam by Agattiyar (Agastya Muni) (Earliest non-extant book on Tamil grammar)
 - Tholkaappiyam by Tholkaappiyar (A student of Agattiyar) (Earliest extant book on Tamil grammar)
 ## Eighteen Greater Texts (Pathinen Melkkanakku Noolgai)
-- Eight Anthologies / Ettuttokai
-	- Ainkurunooru
-	- Akanaanooru
-	- Puranaanooru
-	- Kalittokai
-	- Kuruntokai
+- Eight Collections / Ettu Thokai
+	- Ain Kuru Nooru (Five Short Hundred (Poems))
+	- Aka Naannooru (Inner Four Hundred (Poems)) / Nedunthokai (Long Collections)
+	- Pura Naannooru (External Four Hundred (Poems)) / Puram (External) / Puram Paattu (External Songs)
+	- Kali Thokai (Kali (Metre) Collection)
+	- Kurun Thokai (Kurun (Metre) Collection)
 	- Natrinai
 	- Paripaatal
-	- Patirruppattu
+	- Patirru Paattu
 - Ten Idylls / Pattuppattu
 	- Tirumurukaarruppatai
 	- Kurinchippaattu
