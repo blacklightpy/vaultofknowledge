@@ -22,6 +22,10 @@ Difference Kernel refers to the kernel of the difference of two functions.
 In geomtery
 In statistics
 ## In physics
+It refers to the atomic nucleus.
 ## In biology
 It refers to the seeds inside the nut of most plants or the [[drupes]] (or stone fruits), especially:
-- Apricot
+- Apricot kernel
+- Corn kernel
+- Palm kernel
+- Wheat kernel

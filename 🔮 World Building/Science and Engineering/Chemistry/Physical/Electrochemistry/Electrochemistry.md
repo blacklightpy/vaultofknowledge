@@ -55,7 +55,7 @@ Hoberman Mechanism
 [[Curvature]]
 [[Radius of Curvature]]
 [[Minkowski Spacetime]]
-[[Euclidian Space]]
+[[Euclidean Space]]
 [[Space]]
 [[Osculating Circle]]
 [[Line]]
