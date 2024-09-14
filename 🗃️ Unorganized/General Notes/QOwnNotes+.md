@@ -258,3 +258,7 @@
 	- I posit that Vedas are true, however, I do not believe it can be written down
 	- Only a fraction of the Vedas can be conveyed by a person
 	- For this, I take Jung's interpretation of the collective unconscious
+
+- Attraction to Sophistry
+	- People like to undermine Indian sciences by saying that Newton had produced formulas to perform calculations
+	- But for a simple concept like laws of motion, understanding the forumals aren't completely necessary
