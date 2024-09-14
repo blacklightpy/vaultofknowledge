@@ -56,6 +56,52 @@
 - Sarga (Creation)
 - Pralaya (Destruction)
 
+bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or wind), vyom; or shunya or akash (aether or void).
+
+Five Elements in Human Body
+
+1. Earth Element in human body : Bones, flesh, skin, veins and arteries, hair are the symbols of specific quality of Earth Element in body.
+2. Water Element in human body : Semen, blood, bone-marrow, urine and saliva are symbols of specific quality of Water Element in body.
+3. Fire Element in human body : Heat, hunger, thirst, sleep, laziness are qualities of Fire element in human body.
+4. Air Element in human body : Breath, running, walking, contraction, expansion are qualities of Air Element in human body.
+5. Space Element in human body : All holes and passages available for flow of liquids and air in body as well as space occupied by entire physic, love, dislike, modesty, fear, ignorance are qualities of space element in human body.
+
+Five Elements in breath
+
+To sense five elements in our breath, If we analyze the jet of air coming out of our nostril when we breath-out, we feel clearly that the jet comes out from nostril in five different ways. This is because of five elements. In other words five elements are five type of cosmic energy which flow by means of our breath in our body. Place your inverted palm below the running nostril. Keep at least 6 inches distance between your palm and nostril, now breath out and sense the jet as below:
+
+1. If the jet is coming out straight downward from nostril, then it is known as Earth Element.
+2. If the jet comes out forward/upward instead of straight downward, then it is known as Fire Element.
+3. If the jet comes out backward instead of straight downward, then it is known as Water Element.
+4. If the jet comes out oblique (oblique left in case of left nostril is running and oblique right in case of right nostril is running), then it is known as Air Element.
+5. If two jets comes out of the same nostril at a time then it is known as Space Element.
+
+Taste associated with Five Elements
+
+1. Taste associated with Earth Element is Sweet.
+2. Taste associated with Water Element is Astringent.
+3. Taste associated with Fire Element is Pungent.
+4. Taste associated with Air Element is Sour.
+5. Taste associated with Space Element is Bitter.
+
+Colors Associated with Five Elements
+
+1. Color associated with Earth Element is Yellow.
+2. Color associated with Water Element is White.
+3. Color associated with Fire Element is Red.
+4. Color associated with Air Element is Blue.
+5. Color associated with Space Element is Multicolor.
+
+Shapes Associated with Five Elements
+
+To see the shapes associated to five elements, hold a clear mirror in front of mouth. Release breath from mouth on mirror and see the shape created by breath-vapor on mirror.
+
+1. Square : Square shape is associated with earth element.
+2. Inverted Triangle (Half Moon) : Inverted triangle (or half moon) shape is associated with water element.
+3. Upright Triangle : Upright Triangle shape is associated with fire element.
+4. Circle : Circle shape is associated with air element.
+5. Point : Point shape is associated with space element
+
 
 # Reference Notes
 

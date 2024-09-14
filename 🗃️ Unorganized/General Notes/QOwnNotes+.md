@@ -265,3 +265,7 @@
 	- For example, Feynman explains concepts to the public using a simple language
 	- However, he also knows how to describe them using formulas
 	- But the point is that, it is not necessary to describe concepts using formulas, unless you are going to do something with it that requires the use of formulas
+
+- Thinking in terms of units and development from it (Rewrite title)
+	- Who is God (Vishnu, Shiva, Krishna, Brahman, etc.)
+	- Tree Unit Analogy
