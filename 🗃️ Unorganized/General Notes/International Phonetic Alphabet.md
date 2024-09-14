@@ -1,0 +1,3 @@
+# Script Origin
+- Egyptian Hieroglyphics
+	- 

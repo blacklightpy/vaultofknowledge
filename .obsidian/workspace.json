@@ -617,9 +617,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12e6f9b6cd2b6c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54e81bb2fa600571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Phonetics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb2add16c2fc450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 46
+        "currentTab": 48
       }
     ],
     "direction": "vertical"
@@ -648,7 +687,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phoneme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -670,8 +709,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -687,7 +725,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -704,7 +742,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -716,7 +754,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md"
+                "file": "🗃️ Unorganized/General Notes/Abstractions.md"
               }
             }
           },
@@ -782,10 +820,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "891d58fc1ca6eaaf",
+  "active": "6eb2add16c2fc450",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/ADHD - How should we see it.md",
+    "🗃️ Unorganized/General Notes/Phonetics.md",
+    "🗃️ Unorganized/General Notes/Sign.md",
+    "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/General Notes/ADHD - How should we see it.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
@@ -807,9 +848,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
     "🗃️ Unorganized/General Notes/Bhagavat Geeta.md",
     "🗃️ Unorganized/General Notes/Tantras.md",
-    "🗺️ World Exploration/Culture/Indian Culture.md",
-    "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

@@ -46,8 +46,8 @@ Any method of thinking that automates a specific system is called an abstraction
 - Manuscript / Recitation / Translation
 - Specific Interpretation / Communal Consensus
 ## Example of linguistics
-- Specific Glyphs / Specific Sounds **(Individual Level)**
-- Generic Glyphs / Generic Sounds **(Community Level)**
+- Specific Glyphs / Specific Sounds (Phones) **(Individual Level)**
+- Generic Glyphs / Generic Sounds (Phonemes) **(Community Level)**
 - Graphemes / Phonemes **(Written or Spoken Characters)**
 - Phonograms **(Written and Spoken Characters)**
 - Free Morphemes / Bound Ideograms / Bound Pictograms **(Independent Morphemes)**
