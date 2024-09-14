@@ -1,0 +1,1 @@
+It is most commonly used as a collective term fro the pa

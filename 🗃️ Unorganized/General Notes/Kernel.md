@@ -23,4 +23,5 @@ In geomtery
 In statistics
 ## In physics
 ## In biology
-It refers to the seeds inside the nut of most plants or the fruitstones ([[fruit]] [[endocarps]]) of , especially
+It refers to the seeds inside the nut of most plants or the [[drupes]] (or stone fruits), especially:
+- Apricot
