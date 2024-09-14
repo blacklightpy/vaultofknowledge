@@ -1,0 +1,1 @@
+Social status is the relative level of social value a person is considered to possess. Such social value includes respect, [[honour]], assumed competence and defence.

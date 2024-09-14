@@ -1,9 +1,14 @@
 A social class or social stratum is a grouping of [[people]] into a set of hierarchical social categories.
 
 The common classification has three divisions:
-- [[Upper Class]]
-- [[Middle Class]]
-- [[Lower Class]]
+- [[Upper Class]] (wealthiest member of a class society, who wield the greatest political power)
+	- It refers to someone who has wealth passed on by inheritance
+- [[Middle Class]] (those who own small to medium sized businesses)
+	- In the USA, this means those who have slightly higher income than the working class
+- [[Working Class]] (those who work under wage-based contracts)
+	- In the USA, this includes blue collar and pink collar jobs
+
+Some people argue that due to [[social mobility]], class boundaries do not exist.
 ## Marx's Theory
 [[Karl Marx]] defined class by one's relationship to the [[means of production]] (their relations of production).
 
