@@ -11,6 +11,14 @@ The sections of the Vedas can be divided into two, or three broad divisions.
 Vedas are passed on through [[Vedic Shakhas|Shakhas]].
 
 Shakhas focused on pronunciation, and not on the meaning of the words. So people ended up not knowing what Samhithas meant after the Vedic period, considering them as sacred sounds.
+
+# Validity
+- Veda originates from the root Vid, meaning "to know", and is cognate with Vidya (Knowledge)
+- According to the Upanishads, there are two type of Vidya:
+	- Para Vidya (Deep Knowledge)
+	- Apara Vidya (Emprical Knowledge)
+- Para Vidya is the goal, and Apara Vidya outlines the path
+- Para Vidya is the knowledge of the Atma and Brahma
 # Sections
 ## Samhithas (Put Together / Collections)
 They contain hymns and benedictions.

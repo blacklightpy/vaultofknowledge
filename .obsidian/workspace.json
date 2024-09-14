@@ -604,9 +604,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "891d58fc1ca6eaaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 45
+        "currentTab": 46
       }
     ],
     "direction": "vertical"
@@ -674,7 +687,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -691,7 +704,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -703,7 +716,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md"
               }
             }
           },
@@ -769,8 +782,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "258017d566a531e9",
+  "active": "891d58fc1ca6eaaf",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/ADHD - How should we see it.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
@@ -783,7 +799,6 @@
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Thiru Kural.md",
     "🗃️ Unorganized/General Notes/[.md",
     "🗃️ Unorganized/General Notes/Types of Adages.md",
@@ -795,8 +810,6 @@
     "🗺️ World Exploration/Culture/Indian Culture.md",
     "🗃️ Unorganized/General Notes/Evolution of Indian Religions.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
