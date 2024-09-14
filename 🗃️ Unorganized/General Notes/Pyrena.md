@@ -1,0 +1,1 @@
+A pyrena or pyrene (commonly called a "pit" or "stone") is the fruitstone within a [[drupes|drupe]] or 

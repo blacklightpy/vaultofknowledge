@@ -1,0 +1,1 @@
+An aggregate fruit or etaerio is a [[fruits|fruit]] that develops from the merger of several [[ovaries]] thatwere separated in a single [[flowers|flower]]. In contrast, a simple fruit
