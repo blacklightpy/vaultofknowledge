@@ -19,6 +19,13 @@ Shakhas focused on pronunciation, and not on the meaning of the words. So people
 	- Apara Vidya (Emprical Knowledge)
 - Para Vidya is the goal, and Apara Vidya outlines the path
 - Para Vidya is the knowledge of the Atma and Brahma
+## Veda is endless
+> The Ṛcs are limited (parimita),
+> The Samans are limited,
+> And the Yajuses are limited,
+> But of the Word Brahman, there is no end.
+> 
+> — Taittiriya Samhita VII.3.1.4, Translated by Barbara Holdrege
 # Sections
 ## Samhithas (Put Together / Collections)
 They contain hymns and benedictions.
@@ -53,7 +60,15 @@ There are 108 Upanishads, and each Upanishad is associated with a separate [[Ved
 ### Mahavakyas
 They mean "Great Sayings", and these four are handpicked from Upanishads of the four Vedas. There are other Mahavakyas, but these are "the Mahavakyas".
 
-- "Pitham Prajñānam Brahma" - "Consciousness is Brahman" (Aitareya Upanishad of Rig Veda)
-- "Aham Brahmasmi" - "I am Brahman" (Brihadaranyaka Upanishad of Sama Veda)
-- "Tat Tvam Asi" - "That Thou art" (Chandogya Upanishad of Yajur Veda)
-- "Ayam Atma Brahma" - "This Atman is Brahman" (Mandukya Upanishad of Atharva Veda)
+- "Prajñānam Brahma" - "Consciousness is Reality" (Aitareya Upanishad of Rig Veda, 3.3.7)
+	- प्रज्ञानं ब्रह्म
+- "Aham Brahmasmi" - "I am Reality" (Brihadaranyaka Upanishad of Sama Veda, 1.4.10)
+	- अहं ब्रह्म अस्मि
+- "Tat Tvam Asi" - "That Thou art" (Chandogya Upanishad of Yajur Veda, 6.8.7)
+	- तत्त्वमसि
+- "Ayam Atma Brahma" - "This Atman is Reality" (Mandukya Upanishad of Atharva Veda, 4.4.5)
+	- अयम् आत्मा ब्रह्म
+- "Sarvam Khalvidam Brahma" - "All This is Reality" (Chandogya Upanishad of Yajur Veda, 3.14.1)
+	- सर्वं खल्विदं ब्रह्म
+- "Ekam Evadvitiyam" - "That (Reality) is one, without a second" (Chandogya Upanishad 6.2.1)
+	- एकमेवाद्वितीयम्
