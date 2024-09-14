@@ -1,0 +1,1 @@
+A referent is a person or thing to which a [[name]] – a [[linguistics|linguistic]] expression or other [[symbol]] – [[reference|refers]].

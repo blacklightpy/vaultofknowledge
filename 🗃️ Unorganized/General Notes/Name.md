@@ -1,0 +1,1 @@
+A name is a term used for identification by an external observer. They can identify a class or category of things, or a single thing, either uniquely, or within a given context. The entity identified by a name is called its [[referent]].
