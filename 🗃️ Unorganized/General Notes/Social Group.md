@@ -1,0 +1,1 @@
+In [[social science]], a social group is defined as two or more people who interact with one another, share similar characteristics, and collectively have a sense of unity.

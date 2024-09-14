@@ -1,1 +1,1 @@
-It is the capacity to do work
+It is the capacity to do work.
