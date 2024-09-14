@@ -44,6 +44,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- **Moksha** is how the soul is liberated
 	- **Epistemology**
 		- Knowledge is possible through three **Pramaanas** (Means):
+			- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
@@ -126,6 +127,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Asmita (Egoism due to indentification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
 	- **Epistemology**
 		- Knowledge is possible through three **Pramanas** (Means):
+			- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
@@ -145,6 +147,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- 
 	- **Epistemology**
 		- Knowledge is possible through four **Pramanas** (Means):
+			- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
@@ -159,6 +162,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- 
 	- **Epistemology**
 		- Knowledge is possible through two **Pramanas** (Means):
+			- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 	- **Brief**
@@ -196,6 +200,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 	- **Types of Epistemology**
 		- Prabhakara Meemaamsa
 			- Knowledge is possible through five **Pramanas** (Means):
+				- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
 				- **Pratyaksha** (Direct Perception)
 				- **Anumaana** (Logical Inference)
 				- **Shabda** (Verbal Testimony)
@@ -203,6 +208,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 				- **Arthaapatti** (Postulation)
 		- Bhatta Meemaamsa
 			- Knowledge is possible through six **Pramanas** (Means):
+				- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
 				- **Pratyaksha** (Direct Perception)
 				- **Anumaana** (Logical Inference)
 				- **Shabda** (Verbal Testimony)
