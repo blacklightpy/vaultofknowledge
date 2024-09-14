@@ -4,7 +4,7 @@ Now let's take a look at The Style Theorists' video: ["How to Dress Rich"](https
 # Key points
 - The rich don't wear flashy outfits to stand out
 - Pop stars like Cardi B or Billie Eilish tend to buy flashy Guccis
-- The history of fashion in new money and old money
+- The history of fashion in new money (or [[new rich]]) and [[old money]]
 	- There's old money and new money
 	- Old money is generational wealth
 	- New money is about people who just hustled their way to the top

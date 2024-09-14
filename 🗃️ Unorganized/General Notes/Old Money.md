@@ -1,0 +1,1 @@
+Old money is the [[inheritance|inherited]] 
