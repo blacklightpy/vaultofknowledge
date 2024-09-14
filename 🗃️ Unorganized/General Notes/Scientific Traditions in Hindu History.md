@@ -30,5 +30,18 @@ The Baudhaayana Shulba Sutras of the Tattiriya Shaakha, of Krisha Yajur Veda had
 	- They tried to use some patterns, but indeed, $\pi$ is irrational.
 3. Circling the Square and Squaring the Circle
 
-More: https://arohipublications.com/?p=2228
-(Translate: https://arohipublications-com.translate.goog/?p=2228&_x_tr_sl=ta&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+More: https://arohipublications.com/?p=2228 ([Translation from Sanskrit to English](https://arohipublications-com.translate.goog/?p=2228&_x_tr_sl=sa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))
+
+# Others
+- Acharya Bharadwaj
+	- **Books**
+		- Yantra Sarvasva
+			- Related to 
+	- **Concepts**
+		- Vimaana Shaastra
+			- Shakuna Vimaana
+			- Rukma Vimaana
+			- Vaillixi Vimaana
+			- Tripura Vimaana
+			- Sundara Vimaana
+		- It's Ion Engines, claims: [Vedic Ion Engine | Volume 4, Issue 3, September 2014 | IJEIT](https://www.ijeit.com/Vol%204/Issue%203/IJEIT1412201409_08.pdf)
