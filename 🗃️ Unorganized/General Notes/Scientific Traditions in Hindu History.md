@@ -3,7 +3,7 @@ They don't always provide proofs for mathematical formulae, or rigorous formulas
 The Baudhaayana Shulba Sutras of the Tattiriya Shaakha, of Krisha Yajur Veda had aphorisms on the following mathematical theorems:
 
 1. Pythagorean Theorem
-	- **Reference:** Baudhaayana Shulba Sutra > Verses 1-2
+	- **Reference:** Baudhaayana Shulba Sutra > Verse 1.12
 	- **Sanskrit:**
 		- दीर्घचतुरस्रस्याक्ष्णया रज्जुः पार्श्वमानी तिर्यग् मानी
 		  च यत् पृथग् भूते कुरूतस्तदुभयं करोति ॥

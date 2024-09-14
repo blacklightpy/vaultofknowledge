@@ -261,4 +261,7 @@
 
 - Attraction to Sophistry
 	- People like to undermine Indian sciences by saying that Newton had produced formulas to perform calculations
-	- But for a simple concept like laws of motion, understanding the forumals aren't completely necessary
+	- But for a simple concept like laws of motion, understanding the formulas aren't completely necessary
+	- For example, Feynman explains concepts to the public using a simple language
+	- However, he also knows how to describe them using formulas
+	- But the point is that, it is not necessary to describe concepts using formulas, unless you are going to do something with it that requires the use of formulas
