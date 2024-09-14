@@ -102,7 +102,7 @@
 			- 3. [[INFO] BOOT PROCESS: ANDROID vs. LINUX | XDA Forums](https://xdaforums.com/t/info-boot-process-android-vs-linux.3785254/)
 			- 4. [[INFO] ANDROID DEVICE PARTITIONS and FILESYSTEMS](https://xdaforums.com/t/info-android-device-partitions-and-filesystems.3586565/)
 			- 5. [MediaTek details: SoC startup | Sturmflut's Blog](https://sturmflut.github.io/mediatek/2015/07/02/mediatek-details-soc-startup/)
-				- Moved to: [MediaTek details: SoC startup](https://www.lieberbiber.de/2015/07/02/mediatek-details-soc-startup/)
+				- Moved to: [MediaTek details: SoC startup | LIEBERBEIBER](https://www.lieberbiber.de/2015/07/02/mediatek-details-soc-startup/)
 			- 6. [MediaTek details: Partitions and Preloader | Strumflut's Blog](https://sturmflut.github.io/mediatek/2015/07/04/mediatek-details-partitions-and-preloader/)
 				- Moved to: [MediaTek details: Partitions and Preloader | LIEBERBEIBER](https://www.lieberbiber.de/2015/07/04/mediatek-details-partitions-and-preloader/)
 			- 7. [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)

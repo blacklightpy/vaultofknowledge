@@ -1,0 +1,1 @@
+It is denoted as SO(3) (Special Orthogonal Group 3)
