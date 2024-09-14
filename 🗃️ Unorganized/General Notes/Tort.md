@@ -1,0 +1,1 @@
+A tort is a [[civil wrong]].
