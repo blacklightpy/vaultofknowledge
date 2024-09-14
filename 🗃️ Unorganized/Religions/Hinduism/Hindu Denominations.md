@@ -280,7 +280,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 				- By Swami Narayana
 				- A version of Vishishta Advaita Vedaanta, where Para Brahman is Krishna
 				- Para Brahman is thought to have manifested as Swaminarayana
-				- A distinction is made between Para Brahman, which is Purushottam Narayan (Supreme God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
+				- A distinction is made between Para Brahman, which is Purushottam Narayan (Highest Consciousness God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
 				- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
 				- BAPS believe that Akshar Brahman is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahman resides
 	- 6.4. Dvaita / Tattva Vaada Vedaanta (Dualistic / Proposition of Elements)

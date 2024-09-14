@@ -728,7 +728,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -765,7 +765,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "supreme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -787,8 +787,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -804,7 +803,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -821,7 +820,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -833,7 +832,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My study on Pramaanas.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -901,6 +900,7 @@
   },
   "active": "0a3917f4c57cf562",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
     "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
     "🗃️ Unorganized/General Notes/Signage.md",
@@ -926,7 +926,6 @@
     "🗃️ Unorganized/General Notes/How do people find SoC exploits.md",
     "🗃️ Unorganized/General Notes/Android Partitions.md",
     "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
-    "🗃️ Unorganized/General Notes/Digital Forensics.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
