@@ -1,0 +1,1 @@
+Gaining an altered state of mind with a spiritual significance, and can be also defined as being at one with God.

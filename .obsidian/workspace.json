@@ -637,7 +637,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "file": "🗺️ World Exploration/Literature/Origin of Writing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "399f161ed26c9075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Signage.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ae971b4f518c4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Icon.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a166e79ff5750f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Apophaty.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -645,7 +684,7 @@
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 51
       }
     ],
     "direction": "vertical"
@@ -674,7 +713,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phoneme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -712,7 +751,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "file": "🗃️ Unorganized/General Notes/Apophaty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -729,7 +768,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md",
+                "file": "🗃️ Unorganized/General Notes/Apophaty.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -741,7 +780,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstractions.md"
+                "file": "🗃️ Unorganized/General Notes/Apophaty.md"
               }
             }
           },
@@ -807,12 +846,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6eb2add16c2fc450",
+  "active": "a166e79ff5750f77",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Mysticism.md",
+    "🗃️ Unorganized/General Notes/Apophaty.md",
+    "🗃️ Unorganized/General Notes/Icon.md",
+    "🗃️ Unorganized/General Notes/Semiotics.md",
+    "🗃️ Unorganized/General Notes/Signage.md",
+    "🗺️ World Exploration/Literature/Origin of Writing.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
     "🗃️ Unorganized/General Notes/Phonetics.md",
     "🗃️ Unorganized/General Notes/Phonology.md",
-    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Sign.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/ADHD - How should we see it.md",
@@ -829,12 +874,6 @@
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
-    "🗃️ Unorganized/General Notes/Thiru Kural.md",
-    "🗃️ Unorganized/General Notes/[.md",
-    "🗃️ Unorganized/General Notes/Types of Adages.md",
-    "🗃️ Unorganized/General Notes/Shruti.md",
-    "🗃️ Unorganized/General Notes/Microtones.md",
-    "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
