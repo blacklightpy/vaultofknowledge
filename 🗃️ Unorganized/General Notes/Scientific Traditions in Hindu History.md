@@ -29,11 +29,12 @@ The Baudhaayana Shulba Sutras of the Tattiriya Shaakha, of Krisha Yajur Veda had
 	- It was calculated as $(\frac{6}{2+\sqrt{2}})^2 = 3.088311...$ (no decimal points right)
 	- They tried to use some patterns, but indeed, $\pi$ is irrational.
 3. Circling the Square and Squaring the Circle
-
-More: https://arohipublications.com/?p=2228 ([Translation from Sanskrit to English](https://arohipublications-com.translate.goog/?p=2228&_x_tr_sl=sa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))
-
 # Others
-- Acharya Bharadwaj
+Reference: https://arohipublications.com/?p=2228 ([Translation from Sanskrit to English](https://arohipublications-com.translate.goog/?p=2228&_x_tr_sl=sa&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp))
+
+- Acharya Bharadwaj (son of Acharya Brihaspati)
+	- **Etymology**
+		- Matsya Puraana Bhaagavat
 	- **Books**
 		- Yantra Sarvasva
 			- Related to 

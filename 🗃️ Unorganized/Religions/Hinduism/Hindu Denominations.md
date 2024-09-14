@@ -79,7 +79,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 						- **Buddhi** (Intellect)
 						- **Manas** (Instinctive Mind)
 						- **Aham Kaara** (Ego / I-Sense)
-						- **Chittam** (Memory)
+						- **Chitta** (Memory) (Included in Buddhi or Mahat in Sankhya, separate in Vedanta)
 				- **Pancha Jnana Indriya** (Five Sense Organs):
 					- They evolve from the Sattva aspect of Ahamkara.
 					- They are the Ears, Skin, Eyes, Tongue and Nose.

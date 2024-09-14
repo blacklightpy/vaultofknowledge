@@ -591,9 +591,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "258017d566a531e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 44
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -661,7 +674,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -678,7 +691,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -690,7 +703,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -756,11 +769,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7a27e92354459f8",
+  "active": "258017d566a531e9",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Satanic Ritual Abuse Accusations.md",
     "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
     "🗃️ Unorganized/General Notes/Benjamin Franklin.md",
@@ -783,7 +797,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/General Notes/Evils in Hinduism 3 - Untouchability.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
