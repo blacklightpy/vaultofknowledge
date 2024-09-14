@@ -591,9 +591,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63d7c23e3bfd30f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 44
+        "currentTab": 45
       }
     ],
     "direction": "vertical"
@@ -661,7 +674,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -678,7 +691,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -690,7 +703,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md"
+                "file": "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md"
               }
             }
           },
@@ -756,10 +769,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7a27e92354459f8",
+  "active": "63d7c23e3bfd30f2",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Periods in the History of USA.md",
+    "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+    "🗃️ Unorganized/General Notes/Periods in the History of USA.md",
     "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
@@ -783,7 +797,6 @@
     "🗃️ Unorganized/General Notes/Evils in Hinduism 3 - Untouchability.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/What all must a person do.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
