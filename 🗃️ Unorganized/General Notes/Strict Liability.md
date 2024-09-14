@@ -1,1 +1,1 @@
-In [[criminal law]] and [[civil law]], strict liability is a standard of 
+In [[criminal law]] and [[civil law]], strict liability is a standard of [[liability]] under which a person is legally responsible for the consequences flowing form an activity even in the absence of fault (or [[tort]]) of [[criminal intent]] on the part of the defendant.

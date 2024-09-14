@@ -1,0 +1,1 @@
+It refers to sexual activity with a person who is not capable of providing consent, such as with a minor or a mentally disabled person.

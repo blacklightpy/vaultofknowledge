@@ -1,0 +1,1 @@
+A tribunal, generally, is any person or institution with authroity to judge, adjudicate on, or determine claims or disputes - whether or not it is called a tribunal in 

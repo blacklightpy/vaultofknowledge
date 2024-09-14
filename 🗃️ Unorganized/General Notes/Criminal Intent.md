@@ -1,0 +1,1 @@
+Mens Rea or Guilty Mind. This, along with Actus Reus, or Guilty Act makes a defendant guilty.

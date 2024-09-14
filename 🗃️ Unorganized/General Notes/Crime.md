@@ -6,4 +6,4 @@ A common definition is that a crime or criminal offence is an act harmful not on
 
 e.g. Murder, Rape, Theft
 
-Usually, to be classified as a crime, the "act of doing something criminal" (actus reus) must, with certain exceptions (strict liability), be accompanied by the "intention to do something criminal" (mens rea).
+Usually, to be classified as a crime, the "act of doing something criminal" (actus reus) must, with certain exceptions ([[strict liability]]), be accompanied by the "intention to do something criminal" (mens rea).

@@ -1,0 +1,1 @@
+A precedent is a principle or rule established in a [[legal case]] that becomes authoritative to a [[court]] or other [[tribunal]] when deciding subsequent cases with similar legal issues or facts. 
