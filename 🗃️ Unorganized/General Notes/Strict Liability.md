@@ -1,0 +1,1 @@
+In [[criminal law]] and [[civil law]], strict liability is a standard of 
