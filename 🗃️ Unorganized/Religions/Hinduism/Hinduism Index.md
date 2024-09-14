@@ -36,10 +36,10 @@
 		- Modern Works
 
 - Mahavakyas (Great Words from the Vedas)
-	- Pitham(?) Prajnanam Brahma (Consciousness is Supreme Being)
-	- Aham Brahmasmi (I am the Supreme Being)
+	- Prajnaanam Brahma (Consciousness is Reality)
+	- Aham Brahmaasmi (I am Reality)
 	- Tat Tvam Asi (That thou art)
-	- Ayam Atmanam Brahma (This Atman is Supreme Being)
+	- Ayam Atmanam Brahma (This Atman is Reality)
 
 - Vedic Disciplines (Vedangas)
 	- Siksha (Phonetics)

@@ -728,7 +728,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -803,7 +803,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -820,7 +820,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -832,7 +832,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md"
               }
             }
           },
@@ -900,7 +900,13 @@
   },
   "active": "0a3917f4c57cf562",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
     "🗃️ Unorganized/General Notes/Signage.md",
@@ -920,12 +926,6 @@
     "🗺️ World Exploration/Life Forms/Study of Plants.md",
     "🗃️ Unorganized/General Notes/Kernel.md",
     "🗃️ Unorganized/General Notes/Geometric Kernel.md",
-    "🗃️ Unorganized/General Notes/3D Rotation Group.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel.md",
-    "🗃️ Unorganized/General Notes/Continuous Symmetry.md",
-    "🗃️ Unorganized/General Notes/How do people find SoC exploits.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
-    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
