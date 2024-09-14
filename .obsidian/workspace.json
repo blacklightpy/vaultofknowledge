@@ -669,22 +669,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a166e79ff5750f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Apophaty.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 51
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -751,7 +738,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Apophaty.md",
+                "file": "🗃️ Unorganized/General Notes/Icon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -768,7 +755,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Apophaty.md",
+                "file": "🗃️ Unorganized/General Notes/Icon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -780,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Apophaty.md"
+                "file": "🗃️ Unorganized/General Notes/Icon.md"
               }
             }
           },
@@ -846,11 +833,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a166e79ff5750f77",
+  "active": "2ae971b4f518c4bc",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Mysticism.md",
-    "🗃️ Unorganized/General Notes/Apophaty.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Icon.md",
+    "🗃️ Unorganized/General Notes/Apophaticisim.md",
+    "🗃️ Unorganized/General Notes/Mysticism.md",
     "🗃️ Unorganized/General Notes/Semiotics.md",
     "🗃️ Unorganized/General Notes/Signage.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
@@ -864,7 +852,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Satanic Ritual Abuse Accusations.md",
     "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",

@@ -55,8 +55,23 @@
 	- Rajasic
 - Sarga (Creation)
 - Pralaya (Destruction)
+- Kaivalya (Liberation)
 
 bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or wind), vyom; or shunya or akash (aether or void).
+
+- Tattvas
+	- Antahkarana
+		- Mahat (includes Buddhi, Chitta)
+			- Buddhi
+			- Chitta
+				- Vritti
+				- Bhumi
+		- Ahamkara
+		- Manas
+	- Other Stuff
+
+- Chitta Vritti Nirodha (Cessation of Fluctuations of the Mind)
+	- It is necessary for achieving Kaivalya
 
 Five Elements in Human Body
 
