@@ -24,4 +24,10 @@ The majority of icons are encoded and decoded using the following [[figures of s
 - **Synecdoche** (A type of metonymy; it is a figure of speech in which a term for a part of something is used to refer to the whole (pars pro toto), or vice versa (totum pro parte). The term is derived from Ancient Greek συνεκδοχή (sunekdokhḗ), meaning 'simultaneous understanding')
 	- e.g. "suits" for "businessmen", "wheels" for "automobile", and "boots" for "soldiers"
 - **Metaphor** (A metaphor is a figure of speech that, for rhetorical effect, directly refers to one thing by mentioning another. It may provide (or obscure) clarity or identify hidden similarities between two different ideas. Metaphors are usually meant to create a likeness or an analogy.)
-	- e.g. "All the worl"
+	- e.g.
+		"All the world's a stage,
+		And all the men and women merely players;
+		They have their exits and their entrances
+		And one man in his time plays many parts,
+		His Acts being seven ages. At first, the infant..."
+			—William Shakespeare, As You Like It, 2/7

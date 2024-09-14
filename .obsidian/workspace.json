@@ -663,7 +663,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Icon.md",
+                "file": "🗃️ Unorganized/General Notes/Rhetoric.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "087f283e719eacae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Trope.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c7d5fa0240d79d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -671,7 +697,7 @@
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -738,7 +764,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Icon.md",
+                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -755,7 +781,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Icon.md",
+                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -767,7 +793,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Icon.md"
+                "file": "🗃️ Unorganized/General Notes/Biocommunications.md"
               }
             }
           },
@@ -833,10 +859,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2ae971b4f518c4bc",
+  "active": "1c7d5fa0240d79d1",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
+    "🗃️ Unorganized/General Notes/Biocommunications.md",
+    "🗃️ Unorganized/General Notes/Trope.md",
+    "🗃️ Unorganized/General Notes/Rhetoric.md",
+    "🗃️ Unorganized/General Notes/Figures of Speech.md",
     "🗃️ Unorganized/General Notes/Icon.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Apophaticisim.md",
     "🗃️ Unorganized/General Notes/Mysticism.md",
     "🗃️ Unorganized/General Notes/Semiotics.md",
@@ -856,11 +887,6 @@
     "🗃️ Unorganized/General Notes/Satanic Ritual Abuse Accusations.md",
     "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
     "🗃️ Unorganized/General Notes/Benjamin Franklin.md",
-    "🗃️ Unorganized/General Notes/Periods in the History of USA.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-    "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
-    "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
