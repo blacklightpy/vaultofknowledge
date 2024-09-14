@@ -695,9 +695,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28cb3d328415d4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Akrasia.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 52
+        "currentTab": 53
       }
     ],
     "direction": "vertical"
@@ -765,7 +778,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
+                "file": "🗃️ Unorganized/General Notes/Akrasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -782,7 +795,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
+                "file": "🗃️ Unorganized/General Notes/Akrasia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -794,7 +807,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Biocommunications.md"
+                "file": "🗃️ Unorganized/General Notes/Akrasia.md"
               }
             }
           },
@@ -860,11 +873,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1c7d5fa0240d79d1",
+  "active": "28cb3d328415d4f6",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Schadenfreude.md",
     "🗃️ Unorganized/General Notes/Akrasia.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Compersion.md",
     "🗃️ Unorganized/General Notes/Biocommunications.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
     "🗃️ Unorganized/General Notes/Trope.md",
     "🗃️ Unorganized/General Notes/Rhetoric.md",
@@ -886,8 +901,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
-    "🗃️ Unorganized/General Notes/Satanic Ritual Abuse Accusations.md",
-    "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
