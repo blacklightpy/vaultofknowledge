@@ -42,18 +42,21 @@ Any method of thinking that automates a specific system is called an abstraction
 - Metaphysical Models (Added to the back)
 - Similar Religions (Added to the back)
 
-- Core Religion
-- Manuscript / Recitation / Translation
+- Core Religion (Para Vidya)
+- Manuscript / Recitation / Translation (Apara Vidya)
 - Specific Interpretation / Communal Consensus
 ## Example of linguistics
 - Specific Glyphs / Specific Sounds (Phones) **(Individual Level)**
-- Generic Glyphs / Generic Sounds (Phonemes) **(Community Level)**
+- Generic Glyphs (Allographs) / Generic Sounds (Allophones) **(Community Level)**
 - Graphemes / Phonemes **(Written or Spoken Characters)**
 - Phonograms **(Written and Spoken Characters)**
-- Free Morphemes / Bound Ideograms / Bound Pictograms **(Independent Morphemes)**
-- Bound Morphemes / Bound Ideograms / Bound Pictograms **(Dependent Morphemes)**
+- Morphemes **(Smallest Semantic Unit)**
+	- Free Morphemes / Free Ideograms / Free Pictograms **(Independent Morphemes)**
+	- Bound Morphemes / Bound Ideograms / Bound Pictograms **(Dependent Morphemes)**
 - Lexemes / Logograms (or Lexigrams) **(Word Level)**
 - Lexicon **(Full Dictionary)**
+
+Extras: Minimal Pairs (Tonemes, Chronemes) in Phonology
 ## Example of Sections of Literature
 - Newspapers
 	- See Dribble Newspaper Layouts
