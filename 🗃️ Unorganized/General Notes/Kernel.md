@@ -17,4 +17,10 @@ Kernel refers to a matrix used for image convolution.
 #### In category theory
 #### In set theory
 #### In abstract algebra
-Difference Kernel refers to the 
+Difference Kernel refers to the kernel of the difference of two functions.
+### In functions
+In geomtery
+In statistics
+## In physics
+## In biology
+It refers to the seeds inside the nut of most plants or the fruitstones ([[fruit]] [[endocarps]]) of , especially
