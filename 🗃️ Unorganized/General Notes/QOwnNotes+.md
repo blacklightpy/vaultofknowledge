@@ -269,3 +269,7 @@
 - Thinking in terms of units and development from it (Rewrite title)
 	- Who is God (Vishnu, Shiva, Krishna, Brahman, etc.)
 	- Tree Unit Analogy
+
+- Ontogeny recapitulates Phylogeny
+	- Evolution of an individual being describes and continues the evolution of the species
+	- Similarly, applied to memetics, the evolution of a person describes and continues the evolution of the society
