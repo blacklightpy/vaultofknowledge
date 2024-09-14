@@ -702,7 +702,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Akrasia.md",
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -778,7 +778,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Akrasia.md",
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -795,7 +795,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Akrasia.md",
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -807,7 +807,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Akrasia.md"
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md"
               }
             }
           },
@@ -875,8 +875,14 @@
   },
   "active": "28cb3d328415d4f6",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Schadenfreude.md",
+    "🗃️ Unorganized/General Notes/Artifacts.md",
+    "🗃️ Unorganized/General Notes/Material Culture.md",
+    "🗃️ Unorganized/General Notes/Architecture.md",
+    "🗃️ Unorganized/General Notes/Archaeology.md",
+    "🗃️ Unorganized/General Notes/Archaeological Record.md",
     "🗃️ Unorganized/General Notes/Akrasia.md",
+    "🗃️ Unorganized/General Notes/Game Theory.md",
+    "🗃️ Unorganized/General Notes/Schadenfreude.md",
     "🗃️ Unorganized/General Notes/Compersion.md",
     "🗃️ Unorganized/General Notes/Biocommunications.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
@@ -895,12 +901,6 @@
     "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
     "🗃️ Unorganized/General Notes/Phonetics.md",
     "🗃️ Unorganized/General Notes/Phonology.md",
-    "🗃️ Unorganized/General Notes/Sign.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/ADHD - How should we see it.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

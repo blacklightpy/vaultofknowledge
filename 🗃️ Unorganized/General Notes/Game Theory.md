@@ -1,0 +1,1 @@
+It is the study of mathematical models of strategic interactions.
