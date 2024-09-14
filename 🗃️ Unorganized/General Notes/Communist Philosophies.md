@@ -1,5 +1,6 @@
 - Karl Marx and Friedrich Engels (Theory, 19th century)
 	- Believed that just as the capitalists overthrew the aristocratic power structure, the working class would overthrow the capitalist power structure
+- Rosa Luxemburg (Germany, 19-20th century)
 - Vladimir Lenin (Soviet, 1917)
 	- He was the first to deal with political organization to implement the Marxist philosophy
 	- Believed in forming a vanguard party to protect the rights of the workers
