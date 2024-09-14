@@ -1,0 +1,1 @@
+In [[mathematics]], continuous symmetry is an intuitive idea corresponding to the concept of viewing some [[symmetry|symmetries]] as [[motions|motion]]

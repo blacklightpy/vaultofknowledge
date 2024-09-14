@@ -1,0 +1,1 @@
+PSTN is also known as [[Plain Old Telephone Service]] (POTS)

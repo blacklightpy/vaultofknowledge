@@ -1,0 +1,1 @@
+It is a business and marketing concept to describe the integration of enterprise communication services such as Instant Messaging (Chat), Presence Information (Online/Last Seen), Voice ()
