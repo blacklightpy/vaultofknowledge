@@ -1,0 +1,1 @@
+Behaviour is the range of actions and mannerisms made by [[individual|individuals]], [[organism|organisms]], [[system|systems]] or artificial entities in some environment.
