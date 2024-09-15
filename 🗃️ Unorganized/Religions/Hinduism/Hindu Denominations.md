@@ -148,7 +148,7 @@ They can be grouped as:
 					- Rajo Guna is dominant in this state, meaning, the sensual pleasures of the world dominate one's mind
 				- Moodha (Stupefied)
 					- Tamo Guna is dominant in this state, meaning, whatever lowers one's energy is what occupies their minds
-					- Krodha (Anger), Kaama (Lust) and other vices fill the mind
+					- Krodha (Anger), Kaama (Lust) and other vices (Lobha, Moha (Desire), Mada (Madness), Matsarya (Competition)) fill the mind
 					- In this state, the Chittha is filled with:
 						- Vritthis
 						- Nidra
@@ -171,6 +171,24 @@ They can be grouped as:
 					- Raaga
 					- Dvesha
 					- Abhinivesha
+				- Types
+					- Pramaana (Knowing Correctly)
+						- Pratyaksha Pramaana Vritthi
+						- Anumaana Pramaana Vritthi
+						- Aagama / Shabda Pramaana Vritthi
+					- Viparyaya (Incorrect Knowledge)
+					- Vikalpa (Fantasy or Imagination)
+					- Nidra (Sleep)
+					- Smriti (Recollection or Memory)
+			- Chitta Vrithi Nirodha
+				- Vrittis cause Sukha (Pleasure), Dukha (Pain) and Moha (Desire)
+					- Sukha leads to Raaga
+					- Dukha leads to Dvesha
+					- Moha leads to Avidya (Lack of Knowledge)
+				- So Vrittis must be ceased
+				- When Chittha comes into contact with Vishayaas (objects), our mind begins to think of their associated Sankaaras (Traditions)
+				- These thoughts propel us into taking actions
+				- When we can't manifest those actions in the external world, they result into 
 			- Chitta returns to Moola Prakriti (Basic Nature) in two circumstances
 				- By experiencing Bhoga (Indulgence) and Apavarga (Liberation), one returns to the normal state
 				- During Pralayavashtha (Destroyed / Uncreated State), the Chittha returns to Moola Prakriti, but when the Atma takes a new life form, Chittha manifests again
