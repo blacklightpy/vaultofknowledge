@@ -1,4 +1,6 @@
+Biocommunication theory may be considered to be a branch of [[biosemiotics]]. Whereas biosemiotics studies the production and interpretation of signs and codes, biocommunication theory investigates concrete interactions mediated by signs. Accordingly, [[syntax|syntactic]], [[semantics|semantic]], and [[pragmatics|pragmatics]] aspects of biocommunication processes are distinguished.
 
+Biocommunication specific to animals ([[animal communication]]) is considered a branch of [[zoosemiotics]]. The semiotic study of [[molecular genetics]], can be considered a study of biocommunication at its most basic level.
 # Examples
 - Whale Vocalology
 - Honey Bee Waggle Dance

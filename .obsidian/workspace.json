@@ -676,7 +676,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
+                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -689,7 +689,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Organism.md",
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -723,7 +723,7 @@
             }
           }
         ],
-        "currentTab": 52
+        "currentTab": 51
       }
     ],
     "direction": "vertical"
@@ -769,7 +769,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -790,7 +791,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Organism.md",
+                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -807,7 +808,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Organism.md",
+                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -819,7 +820,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Organism.md"
+                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md"
               }
             }
           },
@@ -866,7 +867,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 409.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -884,12 +886,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "28cb3d328415d4f6",
+  "active": "1c7d5fa0240d79d1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Genetics.md",
+    "🗃️ Unorganized/General Notes/Genetic Variation.md",
+    "🗃️ Unorganized/General Notes/Genes.md",
+    "🗃️ Unorganized/General Notes/Biocommunications.md",
+    "🗃️ Unorganized/General Notes/Animal Communication.md",
+    "🗃️ Unorganized/General Notes/Syntax.md",
+    "🗃️ Unorganized/General Notes/Semantics.md",
+    "🗃️ Unorganized/General Notes/Pragmatics.md",
+    "🗃️ Unorganized/General Notes/Zoosemiotics.md",
+    "🗃️ Unorganized/General Notes/Biosemiotics.md",
+    "🗃️ Unorganized/General Notes/Material Culture.md",
+    "🗃️ Unorganized/General Notes/Phenetics.md",
+    "🗃️ Unorganized/General Notes/Taxonomy.md",
+    "🗃️ Unorganized/General Notes/Cladistics.md",
+    "🗃️ Unorganized/General Notes/Organism.md",
     "🗃️ Unorganized/General Notes/Phenotype.md",
     "🗃️ Unorganized/General Notes/Genotype-Phenotype Distinction.md",
     "🗃️ Unorganized/General Notes/Deoxyribonucleic Acid.md",
-    "🗃️ Unorganized/General Notes/Material Culture.md",
     "🗃️ Unorganized/General Notes/Sociology.md",
     "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
     "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
@@ -898,20 +914,6 @@
     "🗃️ Unorganized/General Notes/Crime.md",
     "🗃️ Unorganized/General Notes/Strict Liability.md",
     "🗃️ Unorganized/General Notes/Civil Law.md",
-    "🗃️ Unorganized/General Notes/Common Law.md",
-    "🗃️ Unorganized/General Notes/Precedent.md",
-    "🗃️ Unorganized/General Notes/Tribunal.md",
-    "🗃️ Unorganized/General Notes/Tribunes.md",
-    "🗃️ Unorganized/General Notes/Tribune of the Plebs.md",
-    "🗃️ Unorganized/General Notes/Plebians.md",
-    "🗃️ Unorganized/General Notes/Attitude.md",
-    "🗃️ Unorganized/General Notes/Soteriology.md",
-    "🗃️ Unorganized/General Notes/Value Theory.md",
-    "🗃️ Unorganized/General Notes/Axiology.md",
-    "🗃️ Unorganized/General Notes/Social Class.md",
-    "🗃️ Unorganized/General Notes/Social Mobility.md",
-    "🗃️ Unorganized/General Notes/Economic Entities.md",
-    "🗃️ Unorganized/General Notes/Accounting.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

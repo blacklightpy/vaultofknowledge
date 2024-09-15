@@ -1,0 +1,1 @@
+Cladistics is an approach to biological classification in which organisms are categorized in groups ("clades") based on hypotheses of most recent common ancestry.

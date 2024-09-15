@@ -1,0 +1,1 @@
+Genetic variation is the difference in DNA among individuals or the differences between populations among the same species.
