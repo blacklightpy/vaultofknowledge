@@ -33,7 +33,7 @@ The people of Hind are called Hindus. Hinduism is a meta-religion with most of t
 			- Saankhya (Enumeration)
 			- Yoga ()
 			- Nyaaya
-			- Vaisheshika (A)
+			- Vaisheshika ()
 		- Smarta (Shruthi Based)
 			- Meemaamsa / Poorva Meemaamsa (Reflections / Earlier Reflections)
 			- Uttara Meemaamsa / Vedaanta (Later Reflections / Summary of Vedas)

@@ -141,13 +141,25 @@ They can be grouped as:
 			- This is the same as in Sankhya, but the **Antahkarana** is comprised only of Buddhi, Ahamkara and Manas.
 			- Chittha is used to refer to all four - Buddhi, Ahamkara, Manas and Chittha - in a western sense of the "mind"
 		- Liberation
-			- One can achieve Kaivalya (State of Liberation) by having the right understandings, practices and being blissful
+			- One can achieve Kaivalya (State of Liberation) by having the right understandings, practices and being blissful.
+		- Concepts
+			- Bhumi (Stages)
+				- Kshipta (Disturbed)
+				- Moodha (Stupefied)
+				- Vikshipta (Distracted)
+				- Ekaagra (Focused) / Yoga Bhumi (Yoga Stage)
+					- Sattvika Vritthi is dominant
+					- Rajo Guna and Tamo Guna are suppressed
+				- Niruddha (Free)
+			- Vritthi (Waves / Fluctuations)
+				- 
 	- **Glossary of Terms**
 		- Asmita (Egoism)
 		- Klesham (Affliction)
-		- Bhumi ()
-		- Vritthi (Fluctuations)
+		- Bhumi (Stages)
+		- Vritthi (Waves / Fluctuations)
 		- Nirodha (Cessation)
+		- Saadhaka (Practitioner)
 
 About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_Vedaanta/
 

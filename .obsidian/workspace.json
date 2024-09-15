@@ -645,7 +645,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 48
       }
     ],
     "direction": "vertical"
@@ -713,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -808,11 +808,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3c173c730d756eab",
+  "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
