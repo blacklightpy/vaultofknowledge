@@ -50,8 +50,8 @@ At this point, I realized the outline form is hard to represent, so I decided to
 | Sanskrit                     | Rajas        | Inertia or Resistance to Action                                     |                                                                                                                                                                                                                                                  |                                      |
 | Sanskrit                     | Guna         | Qualities or Attributes                                             |                                                                                                                                                                                                                                                  |                                      |
 | Sanskrit                     | Mahat        | First source of Intelligence                                        | An quality of Sankhya perspective of The Sanskrit Books of Knowledge according to Indians, where God is not a component of reality                                                                                                               |                                      |
-| Sanskrit                     | Chit         | Consciousness                                                       |                                                                                                                                                                                                                                                  |                                      |
-| Sanskrit                     | Chittha      | Memory                                                              |                                                                                                                                                                                                                                                  |                                      |
+| Sanskrit                     | Chiti        | Understanding                                                       |                                                                                                                                                                                                                                                  |                                      |
+| Sanskrit                     | Chittha      | Repeated Understanding / Memory                                     |                                                                                                                                                                                                                                                  |                                      |
 | Sanskrit                     | Tat          | That                                                                |                                                                                                                                                                                                                                                  |                                      |
 | Sanskrit                     | -Tva suffix  | Likeness or Essence                                                 |                                                                                                                                                                                                                                                  |                                      |
 | Sanskrit                     | Tattva       | Fundamental Elements                                                |                                                                                                                                                                                                                                                  |                                      |
@@ -141,25 +141,25 @@ At this point, I realized the outline form is hard to represent, so I decided to
 | Arabic                       | Mehr         | Dower                                                               | Same as Hebrew Mohar                                                                                                                                                                                                                             |                                      |
 To add:
 
-1. Srishṭi — Cosmic Evolution
+1. Srishti — Cosmic Evolution
 2. Pralaya — Cosmic Involution
-3. Upaasana — Deity Yoga - worship of deities.
+3. Upaasana — Deity Yoga - worship of deities
 4. Saadhana — Spiritual practice
 5. Purashcharana — retreat programs
 6. Shaṭ-karma — 6 desiderative ritual activities
 7. Yoga / Dhyaana — Aasana practice
-8. Siddhānta — Metaphysics
+8. Siddhaanta — Metaphysics
 9. Brahma-jnaana — Philosophy / Theology
 10. Mantras — linguistic occultism
 11. Yantras — mystical diagrams for meditation
 12. Mudras — seals or gestures of the hands
 13. Shilpa — architecture and sculpture
 14. Pratishtha — consecration of temples and installation of icons
-15. Arcana — worship of the deities enshrined in temples
-16. Deeksja — initiation of priests
+15. Archana — worship of the deities enshrined in temples
+16. Deeksha — initiation of priests
 17. Dharma — rules of social conduct and ethics
 18. Samskaaras — the 16 sacraments and periodic domestic observances
 19. Utsavas — public festivals
-20. Indrajaala — practical occultism
+20. Indra Jaala — practical occultism
 21. Praayaschittham — Atonements & Penances for transgressions and offences
 22. Upaaya — Technique
