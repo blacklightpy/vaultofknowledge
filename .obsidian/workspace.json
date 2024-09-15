@@ -643,9 +643,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67cc5cb92007d394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57100aa47b2668c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 48
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -674,7 +700,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Chitha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -696,8 +722,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -713,7 +738,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +755,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
               }
             }
           },
@@ -808,8 +833,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b3a91abb9a13265",
+  "active": "57100aa47b2668c1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+    "🗃️ Unorganized/Religions/Hinduism/Dharma Shastra.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
@@ -831,11 +861,6 @@
     "🗃️ Unorganized/General Notes/Rhetoric.md",
     "🗃️ Unorganized/General Notes/Trope.md",
     "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
-    "🗃️ Unorganized/General Notes/Dialectic.md",
-    "🗃️ Unorganized/General Notes/Metaphor.md",
-    "🗃️ Unorganized/General Notes/Metonymy.md",
-    "🗃️ Unorganized/General Notes/Icon.md",
-    "🗃️ Unorganized/General Notes/Synecdoche.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

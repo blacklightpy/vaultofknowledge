@@ -74,16 +74,10 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- The evolution begins once again during **Srishti** (Creation)
 			- The 24 Tattvas that the world evolves into are:
 				- **Prakriti**: The absolute potentiality.
-				- **Antahkarana**
-					- **Mahat / Buddhi / Chitta** (Intelligence): The first product of cosmic evolution. This gives rise to intellect in living beings.
+				- **Antahkarana** (Inner Instruments)
+					- **Mahat / Buddhi / Chithha** (Intelligence): The first product of cosmic evolution. This gives rise to intellect in living beings.
 					- **Ahamkara** (Ego Sense): The second product of evolution. This is responsible for self-sense in living beings.
 					- **Manas** (Instinctive Mind): It evolves from the Sattva aspect of Ahamkara.
-				- (Doubt)
-					- **Antahkarana** (Inner Instruments)
-						- **Buddhi** (Intellect)
-						- **Chitta** (Memory) (Included in Buddhi or Mahat in Sankhya, separate in Vedanta)
-						- **Manas** (Instinctive Mind)
-						- **Aham Kaara** (Ego / I-Sense)
 				- **Pancha Jnana Indriya** (Five Sense Organs):
 					- They evolve from the Sattva aspect of Ahamkara.
 					- They are the Ears, Skin, Eyes, Tongue and Nose.
@@ -136,7 +130,8 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- **Shabda** (Verbal Testimony)
 	- **General Description**
 		- Cosmic Evolution
-			- This is the same as in Sankhya, but the **Antahkarana** is comprised only of Chitta and Ahamkaara.
+			- This is the same as in Sankhya, but the **Antahkarana** is comprised only of Buddhi, Ahamkara and Manas.
+			- Chithha is used to refer to all four - Buddhi, Ahamkara, Manas and Chithha - in a western sense of the "mind"
 
 About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_Vedaanta/
 
@@ -228,7 +223,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 			- It sees the world as a manifestation of Brahman
 	- **Foundational Texts**
 		- Brahma Sutras by Vyasa Maharshi
-	- **Brief**
+	- **General Description**
 		- **Koshas** (Sheaths)
 			- Atman is covered up by 
 			- There are five sheaths, called **Pancha Koshas** that are divided into three **Shareeras** (Bodies)
@@ -241,6 +236,13 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 					- **Vijnanamaya Kosha** (Knowledge-rich Sheath)
 				- **Kaarana Sharira** (Causal Body)
 					- **Ananadamaya Kosha** (Bliss-rich Sheath)
+		- Cosmic Evolution
+			- This is the same as Sankhya, but the Antahkarana is comprised of four Tattvas
+			- **Antahkarana** (Inner Instruments)
+				- **Buddhi** (Intellect)
+				- **Chithha** (Memory)
+				- **Manas** (Instinctive Mind)
+				- **Aham Kaara** (Ego / I-Sense)
 	- Types (List)
 		- 6.1. Advaita Vedaanta (8th century, by Shankara Acharya)
 		- 6.2. Bheda-Abheda Vedaanta (difference and non-difference) (9th century, by Bhaskara Acharya)
