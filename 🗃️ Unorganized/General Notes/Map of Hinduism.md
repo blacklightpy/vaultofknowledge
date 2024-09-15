@@ -65,7 +65,7 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 			- Mahat (includes Buddhi, Chittha)
 			- Ahamkaara
 			- Manas
-		- In Yoga
+		- In Yoga (Antahkarana = Chittha)
 			- Buddhi
 			- Ahamkaara
 			- Manas
@@ -80,17 +80,31 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 
 - In Yoga
 	- Chittha has Vritthis and Bhumis
+- Yoga
+	- Yoga is a set of physical, mental and spiritual practices to achieve recognition of the separation of Witness Consciousness untouched by the Chittha (Mind) and Dukha (Sorrow)
 
 - Chittha Vritthi Nirodha (Cessation of Fluctuations of the Mind)
 	- It is necessary for achieving Kaivalya
+	- It involves following proper Yoga
 
 - Vrithis of Chittha (Mind)
 
 - Types of Yogas
-	- Bhakti Yoga
-	- Karma Yoga
-	- Jnaana Yoga
-	- Raaja Yoga (Added by Swami Vivekaananda's interpretation in the 19th century)
+	- Three Yoga System
+		- Bhakti Yoga / Bhakti Maarga (Path of Devotion)
+		- Karma Yoga / Karma Maarga (Path of Action)
+		- Jnaana Yoga / Jnaana Maarga (Path of Knowledge)
+	- Three Tetrads System
+		- Bhakti Toga, Mantra Yoga, Laya Yoga, and Charcha Yoga
+		- Hatha Toga, Raja Toga, Laksha Yoga, and Ashtanga Yoga
+		- Samkhya Toga, Jnana Toga, Brahma Yoga, and Advaita Yoga
+
+- Practices
+	- Raaja Yoga / Ashtaanga Yoga / Classical Yoga / Sahaja Maarga (Path of Meditation)
+		- A term used by Swami Vivekaananda to mean the practice of Yoga
+	- Buddhist Yoga
+	- Jain Yoga
+
 
 Five Elements in Human Body
 
