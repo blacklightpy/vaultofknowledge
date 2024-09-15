@@ -663,7 +663,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
+                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -791,7 +791,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
+                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -808,7 +808,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
+                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -820,7 +820,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md"
+                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md"
               }
             }
           },
@@ -888,8 +888,11 @@
   },
   "active": "087f283e719eacae",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Trope.md",
+    "🗃️ Unorganized/General Notes/Rhetorical Devices.md",
+    "🗃️ Unorganized/General Notes/Figures of Speech.md",
+    "🗃️ Unorganized/General Notes/Rhetoric.md",
     "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
+    "🗃️ Unorganized/General Notes/Trope.md",
     "🗃️ Unorganized/General Notes/Biocommunications.md",
     "🗃️ Unorganized/General Notes/Genetics.md",
     "🗃️ Unorganized/General Notes/Genetic Variation.md",
@@ -911,9 +914,6 @@
     "🗃️ Unorganized/General Notes/Sociology.md",
     "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
     "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Forensic Science.md",
-    "🗃️ Unorganized/General Notes/Crime.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

@@ -1,0 +1,41 @@
+In [[rhetoric]], a rhetorical device, persuasive device, or stylistic device is a technique that an author or speaker uses to convey to the listener or reader a meaning with the goal of persuading them towards considering a topic from a perspective, using language designed to encourage or provoke an emotional display of a given perspective or action.
+
+- Sonic devices
+    - Alliteration
+    - Assonance
+    - Consonance
+    - Cacophony
+    - Onomatopoeia
+- Word repetition
+    - Anadiplosis/Conduplicatio
+    - Anaphora/Epistrophe/Symploce/Epanalepsis
+    - Epizeuxis/Antanaclasis
+    - Diacope
+- Word relation
+    - Antithesis/Antimetabole/Chiasmus
+    - Asyndeton/Polysyndeton
+    - Auxesis/Catacosmesis
+    - Oxymoron
+    - Zeugma
+- Discourse level
+	- Amplification/Pleonasm
+	- Antanagoge
+	- Apophasis
+	- Aporia
+	- Diasyrmus
+	- Derision
+	- Enthymeme
+	- Hyperbole
+	- Hypophora
+	- Innuendo
+	- Metanoia
+	- Procatalepsis
+	- Understatement
+- Irony and imagery
+    - Irony
+    - Metaphor
+    - Personification
+    - Simile
+    - Metonymy
+        - Synecdoche
+
