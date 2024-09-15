@@ -1,0 +1,1 @@
+A metaphor is a figure of speech that, for rhetorical effect, directly refers to one thing by mentioning another.

@@ -632,58 +632,6 @@
             }
           },
           {
-            "id": "399f161ed26c9075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Signage.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ae971b4f518c4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rhetoric.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "087f283e719eacae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c7d5fa0240d79d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "28cb3d328415d4f6",
             "type": "leaf",
             "state": {
@@ -723,7 +671,7 @@
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 47
       }
     ],
     "direction": "vertical"
@@ -791,7 +739,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md",
+                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -808,7 +756,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md",
+                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -820,7 +768,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Figures of Speech.md"
+                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md"
               }
             }
           },
@@ -886,16 +834,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "087f283e719eacae",
+  "active": "12e6f9b6cd2b6c75",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rhetorical Devices.md",
-    "🗃️ Unorganized/General Notes/Figures of Speech.md",
-    "🗃️ Unorganized/General Notes/Rhetoric.md",
-    "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
-    "🗃️ Unorganized/General Notes/Trope.md",
+    "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
     "🗃️ Unorganized/General Notes/Biocommunications.md",
     "🗃️ Unorganized/General Notes/Genetics.md",
     "🗃️ Unorganized/General Notes/Genetic Variation.md",
+    "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
+    "🗃️ Unorganized/General Notes/Signage.md",
+    "🗃️ Unorganized/General Notes/Figures of Speech.md",
+    "🗃️ Unorganized/General Notes/Rhetoric.md",
+    "🗃️ Unorganized/General Notes/Trope.md",
+    "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
+    "🗃️ Unorganized/General Notes/Dialectic.md",
+    "🗃️ Unorganized/General Notes/Metaphor.md",
+    "🗃️ Unorganized/General Notes/Metonymy.md",
+    "🗃️ Unorganized/General Notes/Icon.md",
+    "🗃️ Unorganized/General Notes/Synecdoche.md",
+    "🗃️ Unorganized/General Notes/Rhetorical Devices.md",
     "🗃️ Unorganized/General Notes/Genes.md",
     "🗃️ Unorganized/General Notes/Animal Communication.md",
     "🗃️ Unorganized/General Notes/Syntax.md",
@@ -906,14 +862,6 @@
     "🗃️ Unorganized/General Notes/Material Culture.md",
     "🗃️ Unorganized/General Notes/Phenetics.md",
     "🗃️ Unorganized/General Notes/Taxonomy.md",
-    "🗃️ Unorganized/General Notes/Cladistics.md",
-    "🗃️ Unorganized/General Notes/Organism.md",
-    "🗃️ Unorganized/General Notes/Phenotype.md",
-    "🗃️ Unorganized/General Notes/Genotype-Phenotype Distinction.md",
-    "🗃️ Unorganized/General Notes/Deoxyribonucleic Acid.md",
-    "🗃️ Unorganized/General Notes/Sociology.md",
-    "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
-    "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
