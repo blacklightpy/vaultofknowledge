@@ -663,7 +663,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Trope.md",
+                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -676,7 +676,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md",
+                "file": "🗃️ Unorganized/General Notes/Biocommunications.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -723,7 +723,7 @@
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -791,7 +791,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md",
+                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -808,7 +808,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md",
+                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -820,7 +820,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Genetic Variation.md"
+                "file": "🗃️ Unorganized/General Notes/Liberal Arts Education.md"
               }
             }
           },
@@ -886,12 +886,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1c7d5fa0240d79d1",
+  "active": "087f283e719eacae",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Trope.md",
+    "🗃️ Unorganized/General Notes/Liberal Arts Education.md",
+    "🗃️ Unorganized/General Notes/Biocommunications.md",
     "🗃️ Unorganized/General Notes/Genetics.md",
     "🗃️ Unorganized/General Notes/Genetic Variation.md",
     "🗃️ Unorganized/General Notes/Genes.md",
-    "🗃️ Unorganized/General Notes/Biocommunications.md",
     "🗃️ Unorganized/General Notes/Animal Communication.md",
     "🗃️ Unorganized/General Notes/Syntax.md",
     "🗃️ Unorganized/General Notes/Semantics.md",
@@ -912,8 +914,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/Forensic Science.md",
     "🗃️ Unorganized/General Notes/Crime.md",
-    "🗃️ Unorganized/General Notes/Strict Liability.md",
-    "🗃️ Unorganized/General Notes/Civil Law.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

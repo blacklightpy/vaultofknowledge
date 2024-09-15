@@ -2,7 +2,7 @@ Biocommunication theory may be considered to be a branch of [[biosemiotics]]. Wh
 
 Biocommunication specific to animals ([[animal communication]]) is considered a branch of [[zoosemiotics]]. The semiotic study of [[molecular genetics]], can be considered a study of biocommunication at its most basic level.
 # Examples
-- Whale Vocalology
+- Whale Vocalization
 - Honey Bee Waggle Dance
 - Peacock Feather Fan (to alert about territorial dangers)
 # Language formats
