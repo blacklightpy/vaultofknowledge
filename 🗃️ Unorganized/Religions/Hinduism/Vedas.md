@@ -3,10 +3,10 @@ These are the Sanskrit Books of Knowledge. They are also called Nigama.
 The sections of the Vedas can be divided into two, or three broad divisions.
 1. Karma Khanda (Ritual Portion)
 	- Includes Samhithas and Brahmanas
-2. Jnana Khanda (Wisdom Portion)
+2. Upaasana Khanda (Worship Portion) [Minor Classification]
+	- [[Upaasana]] (mostly in Aranyakas)
+3. Jnana Khanda (Wisdom Portion)
 	- Includes Aranyakas and [[Upanishads]]
-3. Upaasana Khanda (Worship Portion) [Optional]
-	- [[Upaasana]]
 
 Vedas are passed on through [[Vedic Shakhas|Shakhas]].
 

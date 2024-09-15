@@ -1,0 +1,1 @@
+The interlaced version of the simplest form of the [[Endless knot]] symbol of Buddhism is topologically equivalent to the 74 knot (though it appears to have nine crossings), as is the interlaced version of the unicursal hexagram of occultism.

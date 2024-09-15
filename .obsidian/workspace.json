@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/74 Knot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -713,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/74 Knot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/74 Knot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/74 Knot.md"
               }
             }
           },
@@ -810,9 +810,12 @@
   },
   "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Endless Knot.md",
+    "🗃️ Unorganized/General Notes/74 Knot.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
@@ -821,7 +824,6 @@
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/Symbol.md",
     "🗃️ Unorganized/General Notes/Symbolic Culture.md",
     "🗃️ Unorganized/General Notes/Material Culture.md",
@@ -834,8 +836,6 @@
     "🗃️ Unorganized/General Notes/Biocommunications.md",
     "🗃️ Unorganized/General Notes/Genetics.md",
     "🗃️ Unorganized/General Notes/Genetic Variation.md",
-    "🗃️ Unorganized/General Notes/Signage.md",
-    "🗃️ Unorganized/General Notes/Figures of Speech.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
