@@ -269,3 +269,14 @@ Systematics
 [[Engineered Languages]]
 [[Constructed Languages]]
 [[Auxiliary Languages]]
+
+
+To fill today:
+- Ropes
+- Clothing Stuff
+- Fibres
+
+- Ayur Veda
+- Principles of Ayur Veda
+
+- Dharma Law

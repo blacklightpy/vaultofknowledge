@@ -656,9 +656,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7af2a553a8b852cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 49
+        "currentTab": 50
       }
     ],
     "direction": "vertical"
@@ -725,7 +738,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -742,7 +755,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -754,7 +767,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
               }
             }
           },
@@ -821,8 +834,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c2d2f75576821856",
+  "active": "7af2a553a8b852cd",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
@@ -848,7 +862,6 @@
     "🗃️ Unorganized/General Notes/Artistic Languages.md",
     "🗃️ Unorganized/General Notes/Fictional Languages.md",
     "🗃️ Unorganized/General Notes/Natural Languages.md",
-    "🗃️ Unorganized/General Notes/Formal Languages.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
