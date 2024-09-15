@@ -76,11 +76,11 @@ They can be grouped as:
 			- Nature is pure potentiality that evolves into 24 **Tattvas** (Fundamental Elements)
 			- The evolution happens due to tensions of the three **Gunas** (Traits) of Nature
 				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
-					- It is Prakashashil (Illuminating)
+					- It is **Prakashashil** (Illuminating)
 				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
-					- It is Kriyaashil (Dynamic)
+					- It is **Kriyaashil** (Dynamic)
 				- **Tamas** - Inertia or Resistance to Action (e.g. Coarseness, Heaviness, Obstruction, Sloth)
-					- It is Avarnashil (Blinding)
+					- It is **Avarnashil** (Blinding)
 			- When the three traits are in **Samyaavastha** (Equilibrium), Nature is in **Pralayaavastha** (Destroyed / Uncreated State), and there are no **Tattvas** here.
 			- The evolution begins once again during **Srishti** (Creation)
 			- The 24 Tattvas that the world evolves into are:
@@ -132,7 +132,7 @@ They can be grouped as:
 		- Yoga Vasishta
 		- Bhagavad Gita
 	- **Metaphysics**
-		- Asmita (Egoism due to identification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
+		- Asmita (Not Smiling / Masked / Egoism due to identification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
 	- **Epistemology**
 		- Knowledge is possible through three **Pramanas** (Means):
 			- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
@@ -147,47 +147,47 @@ They can be grouped as:
 			- One can achieve Kaivalya (State of Liberation) by having the right understandings, practices and being blissful.
 		- Concepts
 			- Bhumi (Stages)
-				- Kshipta (Disturbed)
+				- **Kshipta** (Disturbed)
 					- Rajo Guna is dominant in this state, meaning, the sensual pleasures of the world dominate one's mind
-				- Moodha (Stupefied)
+				- **Moodha** (Stupefied)
 					- Tamo Guna is dominant in this state, meaning, whatever lowers one's energy is what occupies their minds
-					- Krodha (Anger), Kaama (Lust) and other vices (Lobha, Moha (Desire), Mada (Madness), Matsarya (Competition)) fill the mind
+					- **Krodha** (Anger), **Kaama** (Lust) and other vices (**Lobha**, **Moha** (Desire), **Mada** (Madness), **Matsarya** (Competition)) fill the mind
 					- In this state, the Chittha is filled with:
-						- Vritthis
-						- Nidra
-						- Tandra
-						- Aalasya
-						- Pramaadha
-				- Vikshipta (Distracted)
+						- **Vritthis**
+						- **Nidra**
+						- **Tandra**
+						- **Aalasya**
+						- **Pramaadha**
+				- **Vikshipta** (Distracted)
 					- Troubles of life attract one to Ishvara, and Sattva Guna takes presence
 					- But Rajo Guna often distracts and tries to take over the mind
-				- Ekaagra (Focused) / Yoga Bhumi (Yoga Stage)
+				- **Ekaagra** (Focused) / **Yoga Bhumi** (Yoga Stage)
 					- Sattvika Vritthi is dominant
 					- Rajo Guna and Tamo Guna are suppressed
-				- Niruddha (Free)
-			- Vritthi (Waves / Fluctuations)
-				- Vrittis can be Klishta or Aklishta
-				- Klishta Vrittis are bad because they generate Avidya Yukta, Vasana Roop and Samskaaras (Traditions), which keep the Purusha bound
-				- Types
-					- Avidya
-					- Asmita
-					- Raaga
-					- Dvesha
-					- Abhinivesha
-				- Types
-					- Pramaana (Knowing Correctly)
-						- Pratyaksha Pramaana Vritthi
-						- Anumaana Pramaana Vritthi
-						- Aagama / Shabda Pramaana Vritthi
-					- Viparyaya (Incorrect Knowledge)
-					- Vikalpa (Fantasy or Imagination)
-					- Nidra (Sleep)
-					- Smriti (Recollection from Memory)
-			- Chitta Vritthi Nirodha (Cessation of Fluctuations of the Mind)
+				- **Niruddha** (Free)
+			- **Vritthi** (Waves / Fluctuations)
+				- Vritthis can be **Klishta** or Aklishta
+				- Klishta Vritthis are bad because they generate Avidya Yukta, Vasana Roop and Samskaaras (Traditions), which keep the Purusha bound
+				- **Kleshas**
+					- **Avidya** (Lack of Knowledge)
+					- **Asmita** (Not Smiling / Masked / Confusing Nature with Soul)
+					- **Raaga** (Attachment)
+					- **Dvesha** (Aversion)
+					- **Abhinivesha** (Fear of Death)
+				- Types of Vritthis
+					- **Pramaana** (Knowing Correctly)
+						- **Pratyaksha** Pramaana Vritthi
+						- **Anumaana** Pramaana Vritthi
+						- **Aagama** / **Shabda** Pramaana Vritthi
+					- **Viparyaya** (Incorrect Knowledge)
+					- **Vikalpa** (Fantasy or Imagination)
+					- **Nidra** (Sleep)
+					- **Smriti** (Recollection from Memory)
+			- **Chitta Vritthi Nirodha** (Cessation of Fluctuations of the Mind)
 				- Why
-					- Vritthis cause Sukha (Pleasure), Dukha (Pain) and Moha (Desire)
-						- Sukha leads to Raaga
-						- Dukha leads to Dvesha
+					- Vritthis cause **Sukha** (Pleasure), **Dukha** (Pain) and **Moha** (Desire)
+						- Sukha leads to Raaga (Attachment)
+						- Dukha leads to Dvesha (Aversion)
 						- Moha leads to Avidya (Lack of Knowledge)
 					- So Vritthis must be ceased
 					- When Chittha comes into contact with Vishayaas (objects), our mind begins to think of their associated Sankaaras (Traditions)
@@ -197,13 +197,13 @@ They can be grouped as:
 				- How
 					- Chitta 
 				- Results
-					- Destruction of Kleshas (Afflictions), Karma (Actions) and Karmaashaya (Effects of Actions)
-					- Establishment of Jeevaa Atma in its true form or Kaivalya
-			- Chitta returns to Moola Prakriti (Basic Nature) in two circumstances
-				- By experiencing Bhoga (Indulgence) and Apavarga (Liberation), one returns to the normal state
-				- During Pralayavashtha (Destroyed / Uncreated State), the Chittha returns to Moola Prakriti, but when the Atma takes a new life form, Chittha manifests again
+					- Destruction of **Kleshas** (Afflictions), **Karma** (Actions) and **Karmaashaya** (Effects of Actions)
+					- Establishment of **Jeevaa Atma** in its true form or **Kaivalya**
+			- Chitta returns to **Moola Prakriti** (Basic Nature) in two circumstances
+				- By experiencing **Bhoga** (Indulgence) and **Apavarga** (Liberation), one returns to the normal state
+				- During **Pralayavashtha** (Destroyed / Uncreated State), the Chittha returns to Moola Prakriti, but when the Atma takes a new life form, Chittha manifests again
 	- **Glossary of Terms**
-		- Asmita (Egoism)
+		- Asmita (Not Smiling / Masked / Egoism)
 		- Klesham (Affliction)
 		- Aklesham (Non-Affliction)
 		- Klishta (Afflictive / Negative)
@@ -344,10 +344,11 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 			- Vritthis
 				- They are the same concept as in Yoga
 				- The types are:
-					- Samshaya: Doubt, related to Manas
-					- Nishchaya: Decision, related to Buddhi
-					- Abhimaana: Ego Sense, related to Ahamkaara
-					- Smriti or Smarana: Recollection, the Dharma of Chittha
+					- Samshaya: Doubt, the Dharma of Manas (Mind)
+					- Nishchaya: Decision, the Dharma of Buddhi (Intellect)
+					- Abhimaana: Ego Sense, the Dharma of Ahamkaara (Ego Sense)
+					- Smriti or Smarana: Recollection, the Dharma of Chittha (Memory)
+						- Chittha is also considered to include Manas, Buddhi and Ahamkaara, in the context where it can be better called the mind-field.
 	- 6.2. Bheda Abheda Vedaanta (Difference and Oneness)
 		- By Bhaskaracharya
 		- Individual self is both different and not different from Brahman
