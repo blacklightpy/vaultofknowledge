@@ -715,7 +715,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Social Stratification.md",
+                "file": "🗃️ Unorganized/General Notes/Economic Entities.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -782,13 +782,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -804,7 +802,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Social Stratification.md",
+                "file": "🗃️ Unorganized/General Notes/Economic Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -821,7 +819,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Social Stratification.md",
+                "file": "🗃️ Unorganized/General Notes/Economic Entities.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -833,7 +831,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Social Stratification.md"
+                "file": "🗃️ Unorganized/General Notes/Economic Entities.md"
               }
             }
           },
@@ -901,32 +899,32 @@
   },
   "active": "d11802b3a7547dca",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Social Status.md",
+    "🗃️ Unorganized/General Notes/Accounting.md",
+    "🗃️ Unorganized/General Notes/Economic Entities.md",
+    "🗃️ Unorganized/General Notes/Finance.md",
+    "🗃️ Unorganized/General Notes/Financial Capital.md",
+    "🗃️ Unorganized/General Notes/Bourgeoise.md",
+    "🗃️ Unorganized/General Notes/Social Capital.md",
+    "🗃️ Unorganized/General Notes/Sociology.md",
+    "🗃️ Unorganized/General Notes/Gentry.md",
+    "🗃️ Unorganized/General Notes/Inheritance.md",
+    "🗃️ Unorganized/General Notes/New Rich.md",
+    "🗃️ Unorganized/General Notes/Intentionality.md",
+    "🗃️ Unorganized/General Notes/Philosophy of Language.md",
+    "🗃️ Unorganized/General Notes/Belief.md",
+    "🗃️ Unorganized/General Notes/Attitude.md",
+    "🗃️ Unorganized/General Notes/Soteriology.md",
+    "🗃️ Unorganized/General Notes/Proposition.md",
+    "🗃️ Unorganized/General Notes/Value Theory.md",
+    "🗃️ Unorganized/General Notes/Axiology.md",
+    "🗃️ Unorganized/General Notes/Social Class.md",
+    "🗃️ Unorganized/General Notes/On chasing experiences.md",
     "🗃️ Unorganized/General Notes/Social Stratification.md",
+    "🗃️ Unorganized/General Notes/Social Status.md",
     "🗃️ Unorganized/General Notes/Classification.md",
     "🗃️ Unorganized/General Notes/Power.md",
     "🗃️ Unorganized/General Notes/Cultural Capital.md",
-    "🗃️ Unorganized/General Notes/Sociology.md",
     "🗃️ Unorganized/General Notes/Social Mobility.md",
-    "🗃️ Unorganized/General Notes/Peasant.md",
-    "🗃️ Unorganized/General Notes/Social Class.md",
-    "🗃️ Unorganized/General Notes/Working Class.md",
-    "🗃️ Unorganized/General Notes/Means of Production.md",
-    "🗃️ Unorganized/General Notes/People.md",
-    "🗃️ Unorganized/General Notes/Person.md",
-    "🗃️ Unorganized/General Notes/Responsibility.md",
-    "🗃️ Unorganized/General Notes/Individual.md",
-    "🗃️ Unorganized/General Notes/Personal Life.md",
-    "🗃️ Unorganized/General Notes/Ethnicity.md",
-    "🗃️ Unorganized/General Notes/Identity.md",
-    "🗃️ Unorganized/General Notes/Social Group.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Groups.md",
-    "🗃️ Unorganized/General Notes/Identity - my philosophy.md",
-    "🗃️ Unorganized/General Notes/Proletariat.md",
-    "🗃️ Unorganized/General Notes/Labour Power.md",
-    "🗃️ Unorganized/General Notes/Capite Censi.md",
-    "🗃️ Unorganized/General Notes/Nobility.md",
-    "🗃️ Unorganized/General Notes/Census.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

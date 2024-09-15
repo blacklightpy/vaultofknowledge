@@ -1,0 +1,1 @@
+It is "the networks of relationships among people who live and work in a particular society, enabling that society to function effectively".
