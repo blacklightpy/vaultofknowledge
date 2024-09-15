@@ -689,7 +689,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
+                "file": "🗃️ Unorganized/General Notes/Organism.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -790,7 +790,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
+                "file": "🗃️ Unorganized/General Notes/Organism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -807,7 +807,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
+                "file": "🗃️ Unorganized/General Notes/Organism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -819,7 +819,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Material Culture.md"
+                "file": "🗃️ Unorganized/General Notes/Organism.md"
               }
             }
           },
@@ -866,8 +866,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -887,6 +886,11 @@
   },
   "active": "28cb3d328415d4f6",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Phenotype.md",
+    "🗃️ Unorganized/General Notes/Genotype-Phenotype Distinction.md",
+    "🗃️ Unorganized/General Notes/Deoxyribonucleic Acid.md",
+    "🗃️ Unorganized/General Notes/Material Culture.md",
+    "🗃️ Unorganized/General Notes/Sociology.md",
     "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
     "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
@@ -906,13 +910,8 @@
     "🗃️ Unorganized/General Notes/Axiology.md",
     "🗃️ Unorganized/General Notes/Social Class.md",
     "🗃️ Unorganized/General Notes/Social Mobility.md",
-    "🗃️ Unorganized/General Notes/Sociology.md",
     "🗃️ Unorganized/General Notes/Economic Entities.md",
     "🗃️ Unorganized/General Notes/Accounting.md",
-    "🗃️ Unorganized/General Notes/Finance.md",
-    "🗃️ Unorganized/General Notes/Financial Capital.md",
-    "🗃️ Unorganized/General Notes/Bourgeoise.md",
-    "🗃️ Unorganized/General Notes/Social Capital.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

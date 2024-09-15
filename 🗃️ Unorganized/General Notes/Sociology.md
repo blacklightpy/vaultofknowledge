@@ -2,9 +2,16 @@ It is the scientific study of human society that focuses on society, human socia
 
 
 # Sub fields
-- Sociology of Culture
-- Cultural Sociology
-- Cultural Criminology
-- Cultural Studies
-- [[Sociology of Language]]
-- 
+- Culture
+	- Sociology of Culture
+	- Cultural Sociology
+	- Cultural Criminology
+	- Cultural Studies
+- Language
+	- [[Sociology of Language]]
+- Art, Music and Literature
+	- Sociology of Literature
+	- Sociology of Art
+	- Sociology of Film
+	- Sociology of Music
+- lot more
