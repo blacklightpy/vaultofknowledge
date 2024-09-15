@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cant.md",
+                "file": "🗃️ Unorganized/General Notes/Language Games.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -674,7 +674,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jargon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -696,8 +696,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -713,7 +712,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cant.md",
+                "file": "🗃️ Unorganized/General Notes/Language Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +729,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cant.md",
+                "file": "🗃️ Unorganized/General Notes/Language Games.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +741,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Cant.md"
+                "file": "🗃️ Unorganized/General Notes/Language Games.md"
               }
             }
           },
@@ -809,10 +808,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b3a91abb9a13265",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Language Games.md",
     "🗃️ Unorganized/General Notes/Cant.md",
+    "🗃️ Unorganized/General Notes/Language Games.md",
     "🗃️ Unorganized/General Notes/Types of Languages.md",
     "🗃️ Unorganized/General Notes/Philosophical Languages.md",
     "🗃️ Unorganized/General Notes/First Principles.md",

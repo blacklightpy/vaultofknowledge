@@ -1,0 +1,1 @@
+A cant is the jargon or language of a group, often employed to exclude or mislead people outside the group. It may also be called a cryptolect, argot, pseudo-language, anti-language or secret language.
