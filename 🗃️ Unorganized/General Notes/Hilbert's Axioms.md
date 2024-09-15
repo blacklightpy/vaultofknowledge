@@ -1,0 +1,1 @@
+They are a set of 20 [[axioms]] in David Hilbert's book Grundlagen der Geometrie, for a more modern treatment of [[Euclidean Geometry]].

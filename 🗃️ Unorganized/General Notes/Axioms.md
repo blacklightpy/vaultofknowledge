@@ -1,1 +1,1 @@
-Axioms, also known as postulates are statements that are taken to be true, to serve as a premise or starting point for further reasoning and arguments.
+Axioms, also known as postulates are [[statement|statements]] that are taken to be true, to serve as a premise or starting point for further reasoning and arguments.
