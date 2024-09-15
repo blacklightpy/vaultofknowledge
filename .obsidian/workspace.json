@@ -715,20 +715,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Economic Entities.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3917f4c57cf562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+                "file": "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -736,7 +723,7 @@
             }
           }
         ],
-        "currentTab": 54
+        "currentTab": 52
       }
     ],
     "direction": "vertical"
@@ -786,7 +773,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -802,7 +790,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Economic Entities.md",
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -819,7 +807,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Economic Entities.md",
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -831,7 +819,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Economic Entities.md"
+                "file": "🗃️ Unorganized/General Notes/Material Culture.md"
               }
             }
           },
@@ -897,34 +885,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d11802b3a7547dca",
+  "active": "28cb3d328415d4f6",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Accounting.md",
+    "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
+    "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/General Notes/Forensic Science.md",
+    "🗃️ Unorganized/General Notes/Crime.md",
+    "🗃️ Unorganized/General Notes/Strict Liability.md",
+    "🗃️ Unorganized/General Notes/Civil Law.md",
+    "🗃️ Unorganized/General Notes/Common Law.md",
+    "🗃️ Unorganized/General Notes/Precedent.md",
+    "🗃️ Unorganized/General Notes/Tribunal.md",
+    "🗃️ Unorganized/General Notes/Tribunes.md",
+    "🗃️ Unorganized/General Notes/Tribune of the Plebs.md",
+    "🗃️ Unorganized/General Notes/Plebians.md",
+    "🗃️ Unorganized/General Notes/Attitude.md",
+    "🗃️ Unorganized/General Notes/Soteriology.md",
+    "🗃️ Unorganized/General Notes/Value Theory.md",
+    "🗃️ Unorganized/General Notes/Axiology.md",
+    "🗃️ Unorganized/General Notes/Social Class.md",
+    "🗃️ Unorganized/General Notes/Social Mobility.md",
+    "🗃️ Unorganized/General Notes/Sociology.md",
     "🗃️ Unorganized/General Notes/Economic Entities.md",
+    "🗃️ Unorganized/General Notes/Accounting.md",
     "🗃️ Unorganized/General Notes/Finance.md",
     "🗃️ Unorganized/General Notes/Financial Capital.md",
     "🗃️ Unorganized/General Notes/Bourgeoise.md",
     "🗃️ Unorganized/General Notes/Social Capital.md",
-    "🗃️ Unorganized/General Notes/Sociology.md",
-    "🗃️ Unorganized/General Notes/Gentry.md",
-    "🗃️ Unorganized/General Notes/Inheritance.md",
-    "🗃️ Unorganized/General Notes/New Rich.md",
-    "🗃️ Unorganized/General Notes/Intentionality.md",
-    "🗃️ Unorganized/General Notes/Philosophy of Language.md",
-    "🗃️ Unorganized/General Notes/Belief.md",
-    "🗃️ Unorganized/General Notes/Attitude.md",
-    "🗃️ Unorganized/General Notes/Soteriology.md",
-    "🗃️ Unorganized/General Notes/Proposition.md",
-    "🗃️ Unorganized/General Notes/Value Theory.md",
-    "🗃️ Unorganized/General Notes/Axiology.md",
-    "🗃️ Unorganized/General Notes/Social Class.md",
-    "🗃️ Unorganized/General Notes/On chasing experiences.md",
-    "🗃️ Unorganized/General Notes/Social Stratification.md",
-    "🗃️ Unorganized/General Notes/Social Status.md",
-    "🗃️ Unorganized/General Notes/Classification.md",
-    "🗃️ Unorganized/General Notes/Power.md",
-    "🗃️ Unorganized/General Notes/Cultural Capital.md",
-    "🗃️ Unorganized/General Notes/Social Mobility.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
