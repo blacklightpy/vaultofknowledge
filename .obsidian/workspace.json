@@ -593,51 +593,12 @@
             }
           },
           {
-            "id": "258017d566a531e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "891d58fc1ca6eaaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12e6f9b6cd2b6c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28cb3d328415d4f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Material Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -671,7 +632,7 @@
             }
           }
         ],
-        "currentTab": 47
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -739,7 +700,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
+                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -756,7 +717,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
+                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -768,7 +729,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md"
+                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md"
               }
             }
           },
@@ -834,13 +795,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "12e6f9b6cd2b6c75",
+  "active": "b7a27e92354459f8",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Abstractions.md",
+    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/General Notes/Symbol.md",
+    "🗃️ Unorganized/General Notes/Symbolic Culture.md",
+    "🗃️ Unorganized/General Notes/Material Culture.md",
+    "🗃️ Unorganized/General Notes/Archaeology.md",
+    "🗃️ Unorganized/General Notes/Archaeological Record.md",
+    "🗃️ Unorganized/General Notes/Akrasia.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
     "🗃️ Unorganized/General Notes/Chomsky Hierarchy.md",
     "🗃️ Unorganized/General Notes/Biocommunications.md",
     "🗃️ Unorganized/General Notes/Genetics.md",
     "🗃️ Unorganized/General Notes/Genetic Variation.md",
-    "🗃️ Unorganized/General Notes/International Phonetic Alphabet.md",
     "🗃️ Unorganized/General Notes/Signage.md",
     "🗃️ Unorganized/General Notes/Figures of Speech.md",
     "🗃️ Unorganized/General Notes/Rhetoric.md",
@@ -852,16 +823,6 @@
     "🗃️ Unorganized/General Notes/Icon.md",
     "🗃️ Unorganized/General Notes/Synecdoche.md",
     "🗃️ Unorganized/General Notes/Rhetorical Devices.md",
-    "🗃️ Unorganized/General Notes/Genes.md",
-    "🗃️ Unorganized/General Notes/Animal Communication.md",
-    "🗃️ Unorganized/General Notes/Syntax.md",
-    "🗃️ Unorganized/General Notes/Semantics.md",
-    "🗃️ Unorganized/General Notes/Pragmatics.md",
-    "🗃️ Unorganized/General Notes/Zoosemiotics.md",
-    "🗃️ Unorganized/General Notes/Biosemiotics.md",
-    "🗃️ Unorganized/General Notes/Material Culture.md",
-    "🗃️ Unorganized/General Notes/Phenetics.md",
-    "🗃️ Unorganized/General Notes/Taxonomy.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

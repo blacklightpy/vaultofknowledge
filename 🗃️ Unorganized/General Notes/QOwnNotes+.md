@@ -274,3 +274,6 @@
 	- Evolution of an individual being describes and continues the evolution of the species
 	- Similarly, applied to memetics, the evolution of a person describes and continues the evolution of the society
 	- As I'd say: growth shapes mindset, and mindset shapes outlook, and outlook shapes society
+
+- Binding of Morality
+	- Morality is motivated by "categorical imperatives" and "hypothetical imperatives"
