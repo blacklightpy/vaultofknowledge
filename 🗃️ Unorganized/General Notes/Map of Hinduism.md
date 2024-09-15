@@ -82,6 +82,17 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 	- Chittha has Vritthis and Bhumis
 - Yoga
 	- Yoga is a set of physical, mental and spiritual practices to achieve recognition of the separation of Witness Consciousness untouched by the Chittha (Mind) and Dukha (Sorrow)
+	- **Definitions of the word**
+		- A disciplined approach to attaining a goal
+		- Techniques of the controlling the mind and body (i.e. Yoga Aasanaas)
+		- Name of a Darshana (i.e. Vedaanta Yoga, etc.)
+		- Specific Yoga Traditions (i.e. Karma Yoga, Jnana Yoga, etc.)
+		- The goal of Yoga Practice (i.e. attain the Yoga)
+	- **Goals of Yoga**
+		- Stilling the mind and gaining insight
+		- Resting in detached awareness
+		- Liberation (Moksha) from Samsaara (Cyclic Existence) and Dukha (Sorrows)
+			- i.e. to achieve unity (Aikyam) with the divine (Brahmaan) or with one's self (Aatmaan).
 
 - Chittha Vritthi Nirodha (Cessation of Fluctuations of the Mind)
 	- It is necessary for achieving Kaivalya
@@ -102,8 +113,14 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 - Practices
 	- Raaja Yoga / Ashtaanga Yoga / Classical Yoga / Sahaja Maarga (Path of Meditation)
 		- A term used by Swami Vivekaananda to mean the practice of Yoga
+	- Other Hindu Yogas
+		- Tantra Yoga (In Shakta and Shaiva Traditions)
 	- Buddhist Yoga
 	- Jain Yoga
+	- Other
+		- Hatha Yoga (They Yoga of Physical Force)
+		- Laya Yoga (The Yoga of Meditative Absorption)
+		- Kundalini Yoga (The Yoga of Body Energy)
 
 
 Five Elements in Human Body
