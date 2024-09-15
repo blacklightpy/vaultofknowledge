@@ -78,7 +78,7 @@ Saguna - All good attributes
 		    - Yoga Pada – precepts on yoga, the physical and mental discipline.
 		    - Kriya Pada – consists of rules for rituals, construction of temples (Mandir); design principles for sculpting, carving, and consecration of idols of deities for worship in temples; for different forms of initiations or diksha.
 			    - This code is analogous to those in Puranas and in the Buddhist text of Sadhanamala.
-		    - Charya Pada – lays down rules of conduct, of worship (puja), observances of religious rites, rituals, festivals and prayaschithhas.
+		    - Charya Pada – lays down rules of conduct, of worship (puja), observances of religious rites, rituals, festivals and prayaschitthas.
 
 		- Astya (Orthodox Hindu schools of philosophy)
 			- Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)

@@ -11,6 +11,14 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 2. Nyaaya and Vaisheshika
 3. Meemaamsa and Vedaanta
 
+They can be grouped as:
+- Haithuka (Sankhya, Yoga, Nyaaya, Vaisheshika)
+	- Haithuka comes from the word Hethu, meaning "Reason"
+	- They prefer reason to scripture
+- Smarta (Meemaamsa, Vedaanta)
+	- Smarta comes from the word Smriti
+	- Smriti asserts the importance of Shruti
+
 ### Template
 - Brief
 	- [Any Specific Nuances]
@@ -75,7 +83,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- The 24 Tattvas that the world evolves into are:
 				- **Prakriti**: The absolute potentiality.
 				- **Antahkarana** (Inner Instruments)
-					- **Mahat / Buddhi / Chithha** (Intelligence): The first product of cosmic evolution. This gives rise to intellect in living beings.
+					- **Mahat / Buddhi / Chittha** (Intelligence): The first product of cosmic evolution. This gives rise to intellect in living beings.
 					- **Ahamkara** (Ego Sense): The second product of evolution. This is responsible for self-sense in living beings.
 					- **Manas** (Instinctive Mind): It evolves from the Sattva aspect of Ahamkara.
 				- **Pancha Jnana Indriya** (Five Sense Organs):
@@ -131,15 +139,15 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 	- **General Description**
 		- Cosmic Evolution
 			- This is the same as in Sankhya, but the **Antahkarana** is comprised only of Buddhi, Ahamkara and Manas.
-			- Chithha is used to refer to all four - Buddhi, Ahamkara, Manas and Chithha - in a western sense of the "mind"
+			- Chittha is used to refer to all four - Buddhi, Ahamkara, Manas and Chittha - in a western sense of the "mind"
 		- Liberation
-			- One can achieve Kaivalya (State of Liberation) 
+			- One can achieve Kaivalya (State of Liberation) by having the right understandings, practices and being blissful
 	- **Glossary of Terms**
-		- Asmita
-		- Klesham
-		- Bhumi
-		- Vritthi
-		- 
+		- Asmita (Egoism)
+		- Klesham (Affliction)
+		- Bhumi ()
+		- Vritthi (Fluctuations)
+		- Nirodha (Cessation)
 
 About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_Vedaanta/
 
@@ -248,7 +256,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 			- This is the same as Sankhya, but the Antahkarana is comprised of four Tattvas
 			- **Antahkarana** (Inner Instruments)
 				- **Buddhi** (Intellect)
-				- **Chithha** (Memory)
+				- **Chittha** (Memory)
 				- **Manas** (Instinctive Mind)
 				- **Aham Kaara** (Ego / I-Sense)
 	- Types (List)
@@ -273,7 +281,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- Individual self is both different and not different from Brahman
 		- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahman's natural state
 		- **Sub-denominations:**
-			- 6.2.1. Dvaitadvaita / Svabhavika Bedha Abheda Vedaanta (Dual and Non-Dual / Difference and Oneness in the Natural State)
+			- 6.2.1. Dvaita Advaita / Svabhavika Bedha Abheda Vedaanta (Dual and Non-Dual / Difference and Oneness in the Natural State)
 				- By Nimbarkacharya
 				- Dualism and Monism, based on Vaishnava Bhedabheda Vedaanta Darshana
 				- Both Oneness and Difference are equal, because that's Brahman's natural state
@@ -313,14 +321,16 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 	- 6.7. Modern Vedaanta
 		- Personal Experience > Sruti
 
-
 Samkhya follows Prakriti-Parinama Vaada while Vishishta Advaita follows Brahman-Parinama Vaada for Sat-Kaarya Vaada.
-
-
-Haituka (Sankhya, Yoga, Nyaaya, Vaisheshika) (Hetu (Reason) > Scripture)
-Smarta (Meemaamsa, Vedaanta) (Sruti is important) (Smriti values Sruti)
 ## Heterodox
 - 1. Buddhism (The Path of Enlightenment)
+	- **Sects**
+		- 1. Hina Yaana
+		- 2. Thera Vaada
+		- 3. Maha Yaana
+			- **Sects**
+				- 3.1. Zen
+		- 4. Vajra Yaana
 - 2. Jainism (The Path of Victors (of the Soul))
 	- **Sects**
 		- 1. Shvetambara (White Clothed), founded by Rishabhanata, historically traced back to Parshvanata, revived by Mahavira

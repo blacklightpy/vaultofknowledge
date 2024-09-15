@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -645,7 +645,7 @@
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 42
       }
     ],
     "direction": "vertical"
@@ -674,7 +674,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vrit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -696,7 +696,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -807,14 +808,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b3a91abb9a13265",
+  "active": "3c173c730d756eab",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Malayalam Language.md",
+    "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
-    "🗃️ Unorganized/Religions/Hinduism/Dharma Shastra.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Dharma Shastra.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗃️ Unorganized/General Notes/Malayalam Language.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
@@ -833,8 +836,6 @@
     "🗃️ Unorganized/General Notes/Genetic Variation.md",
     "🗃️ Unorganized/General Notes/Signage.md",
     "🗃️ Unorganized/General Notes/Figures of Speech.md",
-    "🗃️ Unorganized/General Notes/Rhetoric.md",
-    "🗃️ Unorganized/General Notes/Trope.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

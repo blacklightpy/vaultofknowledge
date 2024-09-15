@@ -71,7 +71,7 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 			- Manas
 		- In Vedaanta
 			- Buddhi
-			- Chithha
+			- Chittha
 			- Ahamkaara
 			- Manas
 		- Ahamkara
@@ -81,10 +81,16 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 - In Yoga
 	- Chittha has Vritthis and Bhumis
 
-- Chittha Vritti Nirodha (Cessation of Fluctuations of the Mind)
+- Chittha Vritthi Nirodha (Cessation of Fluctuations of the Mind)
 	- It is necessary for achieving Kaivalya
 
-- Vrittis of Chittha (Mind)
+- Vrithis of Chittha (Mind)
+
+- Types of Yogas
+	- Bhakti Yoga
+	- Karma Yoga
+	- Jnaana Yoga
+	- Raaja Yoga (Added by Swami Vivekaananda's interpretation in the 19th century)
 
 Five Elements in Human Body
 
