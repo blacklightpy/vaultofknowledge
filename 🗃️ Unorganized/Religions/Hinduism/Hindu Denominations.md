@@ -124,11 +124,26 @@ They can be grouped as:
 		- It derives onotology and epistemology from Sankhya, but adds the concept of Ishvara (God)
 	- **Foundational Texts**
 		- Yoga Sutras of Patanjali (Main) (1st century AD)
-			- Samadhi Pada (Chapter on Samadhi)
-			- Sadhana Pada (Chapter on Practice)
-			- Vibhuti Pada (Chapter on Power)
-			- Kaivalya Pada (Chapter on Isolation, i.e. Liberation).
-		- Yoga Bhashya
+			- **Sections**
+				- Samadhi Pada (Chapter on Samadhi)
+				- Sadhana Pada (Chapter on Practice)
+				- Vibhuti Pada (Chapter on Power)
+				- Kaivalya Pada (Chapter on Isolation, i.e. Liberation)
+			- **Brief**
+				- It is a condensation of two traditions:
+					- Ashtaanga Yoga
+						- **Source**
+							- It is described in Chapter 2 Verses 28-55 and Chapter 3 Verse 3 and 54
+						- **Concepts**
+							- It has eight limbs:
+								- f
+					- Kriya Yoga
+						- **Source**
+							- Yoga Sutras of Patanjali 2.1 describes three types of kriya (action):
+								- The yoga of action (kriyayoga) is: asceticism (tapas), recitation (svadhyaya), and devotion (pranidhana) to Ishvara (the lord).
+							- The steps are contained in Chapter 1, Chapter 2 Verses 1-27, Chapter 3 except Verse 54 and Chapter 4
+						- It is just the second limb of the Ashtaanga Yoga
+		- Yoga Bhaashya
 		- Yoga Vasishta
 		- Bhagavad Gita
 	- **Metaphysics**
