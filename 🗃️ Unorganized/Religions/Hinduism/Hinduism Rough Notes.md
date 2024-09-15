@@ -1,8 +1,8 @@
 # ToC
 - Stuff to Learn (An Index)
-	- Shastras, Tantras, Upavedas, Stotras, Srutis
+	- Shastras, Tantras, Upa Vedas, Stotras, Srutis (List 1)
 	- Sutras, Shlokas, Anuvakhya, Vakhya
-	- Vedangas, Parisistas (Supplements), Upavedas, Tantras
+	- Vedangas, Parishishtas (Supplements), Upa Vedas, Tantras (List 2)
 - Again, Hindu Shastras
 	- Shruti
 	- Smriti
@@ -13,7 +13,7 @@
 - Sutras
 - Glossary 
 - Words
-# Stuff to Learn
+# Stuff to Learn / List 1
 - Scriptures
 	- Vedas
 - Aagamas (Tantras, in contrast to Veda Samhithas)
@@ -30,10 +30,7 @@
 
 Bhashyas (Commentaries)
 Nibandhas (Digests)
-
-Shastras, Sutras, Tantras, Upavedas, Stotras, Stutis
-
-## Shastras, Tantras, Upavedas, Stotras, Srutis
+## Shastras, Tantras, Upa Vedas, Stotras, Srutis
 
 ## Sutras, Shlokas, Anuvakhya, Vakhya
 A Sutra is a condensed rule which succinctly states the message
@@ -45,16 +42,15 @@ A Vyakhya is a comment by the reviewer.
 Vedas have their respective [[Vedic Shakhas]].
 Brahmanas are Vedic Sruti works attached to Samhitas
 
-
-
+## List 2
 - Vedangas (Disciplines)
 	- 6 Vedangas
-- Parisista (Supplements / Appendix)
+- Parishishta (Supplements / Appendix)
 	- Samhitas
 	- Brahmanas
 	- Aranyakas
 	- Sutras
-- Upavedas (Applied Knowledge)
+- Upa Vedas (Applied Knowledge)
 	- Archery (Dhanurveda), associated with the Yajurveda
 	- Architecture (Sthapatyaveda), associated with the Rigveda.
 	- Music and sacred dance (Gāndharvaveda), associated with the Samaveda

@@ -22,7 +22,7 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 	- Neeti (Ethics)
 	- Schools (Astika/Nastika)
 	- Vedas / Divisions
-	- Upavedas
+	- Upa Vedas
 	- Vedanga
 	- Other Books
 	- Sangam Literature
@@ -129,7 +129,7 @@ These are in the order of superiority.
 - Niti
 - Schools (Astika/Nastika)
 - Vedas / Divisions
-- Upavedas
+- Upa Vedas
 - Vedanga
 - Other Books
 - Sangam Literature
@@ -197,7 +197,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 		- Shruti
 		- Smriti
 
-- Upavedas
+- Upa Vedas
 	- Ayurveda
 	- Dhanurveda
 	- Natyaveda

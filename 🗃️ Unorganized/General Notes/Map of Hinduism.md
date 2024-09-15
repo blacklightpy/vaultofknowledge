@@ -26,14 +26,14 @@ The people of Hind are called Hindus. Hinduism is a meta-religion with most of t
 # Disciplines
 - [[Vedic Shakhas]]
 - [[Vedangas]]
-- Upavedas
+- Upa Vedas
 - Darshanas
 	- Aastika (Orthodox)
 		- Haithuka (Reason Based)
 			- Saankhya (Enumeration)
-			- Yoga ()
-			- Nyaaya
-			- Vaisheshika ()
+			- Yoga (Union)
+			- Nyaaya (Principles)
+			- Vaisheshika (Specialities)
 		- Smarta (Shruthi Based)
 			- Meemaamsa / Poorva Meemaamsa (Reflections / Earlier Reflections)
 			- Uttara Meemaamsa / Vedaanta (Later Reflections / Summary of Vedas)

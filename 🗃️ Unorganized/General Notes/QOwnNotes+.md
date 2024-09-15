@@ -277,10 +277,10 @@
 		- (But B + C + 2F - 2E = 0)
 	- Another Example
 		- We start with void space, which consists of 0, -Infinity and +Infinity
-		- The entity that transforms the void space is described as God in Hinduism
+		- The entity that transforms the void space is described as Supreme Consciousness in Hinduism
 		- If we create something from an unstable configuration of the three principles, then they will have to remain separated, or else, they will collapse into stillness
-		- God is defined as witnessing creation from afar in Sankhya
-		- God is defined as creating instances of itself in Yoga and Vedanta
+		- Supreme Consciousness is defined as witnessing the Evolution of Nature with immersion in Sankhya
+		- Supreme Consciousness is defined as creating instances of itself in Yoga and Vedanta
 
 - Ontogeny recapitulates Phylogeny (disproven theory by Ernst Haeckel)
 	- Evolution of an individual being describes and continues the evolution of the species

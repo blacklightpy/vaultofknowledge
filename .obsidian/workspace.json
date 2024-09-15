@@ -643,9 +643,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2d2f75576821856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -674,7 +687,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "upaveda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -696,8 +709,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -713,7 +725,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +742,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +754,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md"
               }
             }
           },
@@ -809,8 +821,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b0dcba11c647df58",
+  "active": "c2d2f75576821856",
   "lastOpenFiles": [
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/General Notes/Upa Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
+    "🗃️ Unorganized/General Notes/Aayur Veda.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Language Games.md",
     "🗃️ Unorganized/General Notes/Cant.md",
@@ -829,14 +849,6 @@
     "🗃️ Unorganized/General Notes/Natural Languages.md",
     "🗃️ Unorganized/General Notes/Formal Languages.md",
     "🗃️ Unorganized/General Notes/Computational Linguistics.md",
-    "🗃️ Unorganized/General Notes/Hilbert's Axiom System.md",
-    "🗃️ Unorganized/General Notes/Axioms.md",
-    "🗃️ Unorganized/General Notes/Plane.md",
-    "🗃️ Unorganized/General Notes/Line.md",
-    "🗃️ Unorganized/General Notes/Point.md",
-    "🗃️ Unorganized/General Notes/Elements by Euclid.md",
-    "🗃️ Unorganized/General Notes/Three-Dimensional Euclidean space.md",
-    "🗃️ Unorganized/General Notes/Element.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

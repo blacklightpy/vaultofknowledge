@@ -23,7 +23,7 @@
 				- Dharma Sutras (Manuals of Conduct)
 				- Shrauta Sutras (Manuals of Rituals)
 				- Griha Sutras (Manuals of Household Rites)
-			- Upavedas
+			- Upa Vedas
 
 		- Law Books
 			- Manu Smriti (The Laws of Manu, the first man)
@@ -49,9 +49,8 @@
 	- Jyotisha (Astrology)
 	- Kalpa (Rituals and Rites of Passage)
 
-- Shakhas
-	- 
-	- Upavedas (Technical Knowledge from the Vedas)
+- Shakhas (Branches of Transmission)
+- Upa Vedas (Technical Knowledge from the Vedas)
 - [[Hindu Denominations]] (Sampradayas)
 	- Hindu Schools of Thought (Darshanas)
 	- Divisions
