@@ -113,9 +113,19 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 - Practices
 	- Raaja Yoga / Ashtaanga Yoga / Classical Yoga / Sahaja Maarga (Path of Meditation)
 		- A term used by Swami Vivekaananda to mean the practice of Yoga
-	- Other Hindu Yogas
-		- Tantra Yoga (In Shakta and Shaiva Traditions)
+		- Tri Maarga
+			- Bhakti Yoga
+			- Karma Yoga
+			- Jnaana Yoga
+	- Tantra Yoga (In Shakta and Shaiva Traditions)
 	- Buddhist Yoga
+		- Principles
+			- The Four Dhyaanas (Four meditations or mental absorptions)
+			- The Four Satipatthanas (Foundations or establishments of mindfulness)
+			- Anapanasati (Mindfulness of breath)
+			- The Four Immaterial Dwellings (Supranormal states of mind)
+			- The Brahma Vihaaraas (Divine Abodes)
+			- Anussati (Contemplations, Recollections)
 	- Jain Yoga
 	- Other
 		- Hatha Yoga (They Yoga of Physical Force)
