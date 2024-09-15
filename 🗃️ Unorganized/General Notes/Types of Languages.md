@@ -1,0 +1,11 @@
+- [[Natural Languages]]
+- [[Constructed Languages]]
+	- [[Engineered Languages]]
+		- [[Philosophical Languages]]
+		- [[Logical Languages]]
+		- [[Experimental Languages]]
+	- [[Auxiliary Languages]]
+		- 
+	- Artistic Languages
+- [[Formal Languages]]
+- [[Biocommunications]]

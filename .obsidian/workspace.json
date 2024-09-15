@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hilbert's Axioms.md",
+                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -713,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hilbert's Axioms.md",
+                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hilbert's Axioms.md",
+                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hilbert's Axioms.md"
+                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md"
               }
             }
           },
@@ -785,7 +785,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -810,8 +811,21 @@
   },
   "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Constructed Languages.md",
+    "🗃️ Unorganized/General Notes/Artistic Languages.md",
+    "🗃️ Unorganized/General Notes/Fictional Languages.md",
+    "🗃️ Unorganized/General Notes/Engineered Languages.md",
+    "🗃️ Unorganized/General Notes/Types of Languages.md",
+    "🗃️ Unorganized/General Notes/Auxiliary Languages.md",
+    "🗃️ Unorganized/General Notes/Natural Languages.md",
+    "🗃️ Unorganized/General Notes/Formal Languages.md",
+    "🗃️ Unorganized/General Notes/Computational Linguistics.md",
+    "🗃️ Unorganized/General Notes/Primitive Notion.md",
+    "🗃️ Unorganized/General Notes/Hilbert's Axiom System.md",
     "🗃️ Unorganized/General Notes/Axioms.md",
-    "🗃️ Unorganized/General Notes/Hilbert's Axioms.md",
+    "🗃️ Unorganized/General Notes/Plane.md",
+    "🗃️ Unorganized/General Notes/Line.md",
+    "🗃️ Unorganized/General Notes/Point.md",
     "🗃️ Unorganized/General Notes/Elements by Euclid.md",
     "🗃️ Unorganized/General Notes/Three-Dimensional Euclidean space.md",
     "🗃️ Unorganized/General Notes/Element.md",
@@ -823,19 +837,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Topology/Knots.md",
     "🗃️ Unorganized/General Notes/Coordinate Points.md",
     "🗃️ Unorganized/General Notes/Orthogonality.md",
-    "🗃️ Unorganized/General Notes/Perpendicularity.md",
-    "🗃️ Unorganized/General Notes/Geometric Objects.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Coordinate System.md",
-    "🗃️ Unorganized/General Notes/Cartesian Coordinate System.md",
-    "🗃️ Unorganized/General Notes/Dimension.md",
-    "🗃️ Unorganized/General Notes/Knot Theory.md",
-    "🗃️ Unorganized/General Notes/Topology.md",
-    "🗃️ Unorganized/General Notes/74 Knot.md",
-    "🗃️ Unorganized/General Notes/Endless Knot.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

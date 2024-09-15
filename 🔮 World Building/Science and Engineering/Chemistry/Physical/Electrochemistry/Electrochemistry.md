@@ -234,7 +234,7 @@ Mind-Body Problem
 [[Universal Grammar]]
 [[Computational Linguistics]]
 Automata Theory
-[[Natural Language]]
+[[Natural Languages]]
 
 [[Logic]]
 [[Reason]]
