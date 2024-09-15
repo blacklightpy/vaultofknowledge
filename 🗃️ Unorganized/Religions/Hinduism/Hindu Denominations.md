@@ -145,14 +145,27 @@ They can be grouped as:
 		- Concepts
 			- Bhumi (Stages)
 				- Kshipta (Disturbed)
+					- Rajo Guna is dominant in this state, meaning, the sensual pleasures of the world dominate one's mind
 				- Moodha (Stupefied)
+					- Tamo Guna is dominant in this state, meaning, whatever lowers one's energy is what occupies their minds
+					- Krodha (Anger), Kaama (Lust) and other vices fill the mind
+					- In this state, the Chittha is filled with:
+						- Vritthis
+						- Nidra
+						- Tandra
+						- Aalasya
+						- Pramaadha
 				- Vikshipta (Distracted)
+					- Troubles of life attract one to Ishvara, and Sattva Guna takes presence
+					- But Rajo Guna often distracts and tries to take over the mind
 				- Ekaagra (Focused) / Yoga Bhumi (Yoga Stage)
 					- Sattvika Vritthi is dominant
 					- Rajo Guna and Tamo Guna are suppressed
 				- Niruddha (Free)
 			- Vritthi (Waves / Fluctuations)
-				- 
+				- f
+			- Chitta returns to Moola Prakriti (Basic Nature) in two circumstances
+				- By Bhoga (Indulgence) and Apavarga ()
 	- **Glossary of Terms**
 		- Asmita (Egoism)
 		- Klesham (Affliction)
