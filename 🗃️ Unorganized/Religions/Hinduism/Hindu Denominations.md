@@ -76,8 +76,11 @@ They can be grouped as:
 			- Nature is pure potentiality that evolves into 24 **Tattvas** (Fundamental Elements)
 			- The evolution happens due to tensions of the three **Gunas** (Traits) of Nature
 				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
+					- It is Prakashashil (Illuminating)
 				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
+					- It is Kriyaashil (Dynamic)
 				- **Tamas** - Inertia or Resistance to Action (e.g. Coarseness, Heaviness, Obstruction, Sloth)
+					- It is Avarnashil (Blinding)
 			- When the three traits are in **Samyaavastha** (Equilibrium), Nature is in **Pralayaavastha** (Destroyed / Uncreated State), and there are no **Tattvas** here.
 			- The evolution begins once again during **Srishti** (Creation)
 			- The 24 Tattvas that the world evolves into are:
@@ -179,16 +182,23 @@ They can be grouped as:
 					- Viparyaya (Incorrect Knowledge)
 					- Vikalpa (Fantasy or Imagination)
 					- Nidra (Sleep)
-					- Smriti (Recollection or Memory)
-			- Chitta Vrithi Nirodha
-				- Vrittis cause Sukha (Pleasure), Dukha (Pain) and Moha (Desire)
-					- Sukha leads to Raaga
-					- Dukha leads to Dvesha
-					- Moha leads to Avidya (Lack of Knowledge)
-				- So Vrittis must be ceased
-				- When Chittha comes into contact with Vishayaas (objects), our mind begins to think of their associated Sankaaras (Traditions)
-				- These thoughts propel us into taking actions
-				- When we can't manifest those actions in the external world, they result into 
+					- Smriti (Recollection from Memory)
+			- Chitta Vritthi Nirodha (Cessation of Fluctuations of the Mind)
+				- Why
+					- Vritthis cause Sukha (Pleasure), Dukha (Pain) and Moha (Desire)
+						- Sukha leads to Raaga
+						- Dukha leads to Dvesha
+						- Moha leads to Avidya (Lack of Knowledge)
+					- So Vritthis must be ceased
+					- When Chittha comes into contact with Vishayaas (objects), our mind begins to think of their associated Sankaaras (Traditions)
+					- These thoughts propel us into taking actions
+					- When we can't manifest those actions in the external world, they result into Krodha (Anger), Kaama (Lust), Lobha, Moha (Desire), Mada (Madness), Matsarya (Competition), etc.
+					- This Vishayaa Kaara Parinaama (Material Oriented Transformation) of Chittha is called Vritthi
+				- How
+					- Chitta 
+				- Results
+					- Destruction of Kleshas (Afflictions), Karma (Actions) and Karmaashaya (Effects of Actions)
+					- Establishment of Jeevaa Atma in its true form or Kaivalya
 			- Chitta returns to Moola Prakriti (Basic Nature) in two circumstances
 				- By experiencing Bhoga (Indulgence) and Apavarga (Liberation), one returns to the normal state
 				- During Pralayavashtha (Destroyed / Uncreated State), the Chittha returns to Moola Prakriti, but when the Atma takes a new life form, Chittha manifests again
@@ -330,6 +340,14 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- a.k.a. Advaita-Vaada (Proposition of Non-Dualism), Abheda Darshana (Perspective of Non-Difference), Dvaita-Vaada-Pratisedha (Proposition against the Teaching of Dualism), Kevala-Advaita (Essential Non-Dualism) and Maya-Vaada (The Proposition that Reality is an Illusion)
 		- **Texts**
 			- Panchadasi by Madhava Acharya (A simple manual)
+		- **Concepts**
+			- Vritthis
+				- They are the same concept as in Yoga
+				- The types are:
+					- Samshaya: Doubt, related to Manas
+					- Nishchaya: Decision, related to Buddhi
+					- Abhimaana: Ego Sense, related to Ahamkaara
+					- Smriti or Smarana: Recollection, the Dharma of Chittha
 	- 6.2. Bheda Abheda Vedaanta (Difference and Oneness)
 		- By Bhaskaracharya
 		- Individual self is both different and not different from Brahman
