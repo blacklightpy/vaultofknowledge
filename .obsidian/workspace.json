@@ -630,9 +630,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b3a91abb9a13265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 44
+        "currentTab": 48
       }
     ],
     "direction": "vertical"
@@ -700,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -717,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -729,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
               }
             }
           },
@@ -795,10 +808,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7a27e92354459f8",
+  "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
+    "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/General Notes/Symbol.md",
     "🗃️ Unorganized/General Notes/Symbolic Culture.md",
@@ -822,7 +836,6 @@
     "🗃️ Unorganized/General Notes/Metonymy.md",
     "🗃️ Unorganized/General Notes/Icon.md",
     "🗃️ Unorganized/General Notes/Synecdoche.md",
-    "🗃️ Unorganized/General Notes/Rhetorical Devices.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

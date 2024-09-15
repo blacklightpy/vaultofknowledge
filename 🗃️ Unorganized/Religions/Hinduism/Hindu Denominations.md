@@ -70,6 +70,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 				- **Sattva** - Balance and Equilibrium (e.g. Poise, Fineness, Lightness, Illumination, Joy)
 				- **Rajas** - Expansion or Activity (e.g. Dynamism, Activity, Excitation, Pain)
 				- **Tamas** - Inertia or Resistance to Action (e.g. Coarseness, Heaviness, Obstruction, Sloth)
+			- When the three traits are in **Samyaavastha** (Equilibrium), the wor
 			- The 24 Tattvas that the world evolves into are:
 				- **Prakriti**: The absolute potentiality.
 				- **Mahat**: The first product of cosmic evolution. This gives rise to Buddhi (intellect) in living beings.
@@ -131,6 +132,9 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
+	- **General Description**
+		- Cosmic Evolution
+			- This is the same as in Sankhya, but the **Antahkarana** is comprised only of Chitta and Ahamkaara.
 
 About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_Vedaanta/
 
@@ -442,4 +446,4 @@ As Wright and Wright put it,
 
 Nevertheless, there are also examples of teachers who were not initiated into a Sampradaya, Ramana Maharshi being a well-known example.
 
-A Sanyasi belonging to the Sringeri Sharada Peetham once tried to persuade Ramana to be initiated into Sanyasa, but Ramana refused.
+A Sanyasi belonging to the Sringeri Sharada Peetham once tried to persuade Ramana to be initiated into Sanyasa, but Ramana r
