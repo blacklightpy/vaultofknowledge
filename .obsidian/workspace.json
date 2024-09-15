@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Types of Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Cant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -713,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Types of Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Cant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Types of Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Cant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Types of Languages.md"
+                "file": "🗃️ Unorganized/General Notes/Cant.md"
               }
             }
           },
@@ -811,10 +811,12 @@
   },
   "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Language Games.md",
+    "🗃️ Unorganized/General Notes/Cant.md",
+    "🗃️ Unorganized/General Notes/Types of Languages.md",
     "🗃️ Unorganized/General Notes/Philosophical Languages.md",
     "🗃️ Unorganized/General Notes/First Principles.md",
     "🗃️ Unorganized/General Notes/Unmoved Mover.md",
-    "🗃️ Unorganized/General Notes/Types of Languages.md",
     "🗃️ Unorganized/General Notes/Primitive Notion.md",
     "🗃️ Unorganized/General Notes/Lingua Generalis.md",
     "🗃️ Unorganized/General Notes/Constructed Languages.md",
@@ -835,8 +837,6 @@
     "🗃️ Unorganized/General Notes/Three-Dimensional Euclidean space.md",
     "🗃️ Unorganized/General Notes/Element.md",
     "🗃️ Unorganized/General Notes/Euclid.md",
-    "🗃️ Unorganized/General Notes/Three-Dimensional Space.md",
-    "🗃️ Unorganized/General Notes/Spheres.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
