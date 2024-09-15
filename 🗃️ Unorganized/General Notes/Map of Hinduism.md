@@ -1,5 +1,7 @@
 # Definition
-Hinduism refers to the 
+Hinduism refers to the ways of the people of Hind, the Persian term for the land marked by the river Sindh (Indus).
+
+The people of Hind are called Hindus. Hinduism is a meta-religion with most of them being based on the study of the relationship between the soul, god and the universe.
 # Texts
 ## Primary Texts
 - [[Shruti]]
@@ -28,10 +30,10 @@ Hinduism refers to the
 - Darshanas
 	- Aastika (Orthodox)
 		- Haithuka (Reason Based)
-			- Saankhya
-			- Yoga
+			- Saankhya (Enumeration)
+			- Yoga ()
 			- Nyaaya
-			- Vaisheshika
+			- Vaisheshika (A)
 		- Smarta (Shruthi Based)
 			- Meemaamsa / Poorva Meemaamsa (Reflections / Earlier Reflections)
 			- Uttara Meemaamsa / Vedaanta (Later Reflections / Summary of Vedas)
@@ -44,6 +46,9 @@ Hinduism refers to the
 				- Achintya-Bheda-Abheda Vedaanta
 				- Modern Vedaanta
 	- Naastika (Non-orthodox)
+		- Buddhism / Buddha Maarga
+		- Jainism / Jain Maarga
+		- 
 # Culture
 ## Normal Elements
 
