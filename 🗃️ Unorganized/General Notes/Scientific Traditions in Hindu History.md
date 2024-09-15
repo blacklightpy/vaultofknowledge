@@ -42,7 +42,7 @@ Reference: https://arohipublications.com/?p=2228 ([Translation from Sanskrit to 
 		- Vimaana Shaastra
 			- Shakuna Vimaana
 			- Rukma Vimaana
-			- Vaillixi Vimaana
 			- Tripura Vimaana
 			- Sundara Vimaana
+			- Vaillixi Vimaana (Atlantean Enemy Vehicle)
 		- It's Ion Engines, claims: [Vedic Ion Engine | Volume 4, Issue 3, September 2014 | IJEIT](https://www.ijeit.com/Vol%204/Issue%203/IJEIT1412201409_08.pdf)

@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Language Games.md",
+                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -645,7 +645,7 @@
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -674,7 +674,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jargon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -696,7 +696,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -712,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Language Games.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -729,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Language Games.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -741,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Language Games.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -808,10 +809,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07135975f7c01c70",
+  "active": "b0dcba11c647df58",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Cant.md",
+    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Language Games.md",
+    "🗃️ Unorganized/General Notes/Cant.md",
     "🗃️ Unorganized/General Notes/Types of Languages.md",
     "🗃️ Unorganized/General Notes/Philosophical Languages.md",
     "🗃️ Unorganized/General Notes/First Principles.md",
@@ -835,7 +837,6 @@
     "🗃️ Unorganized/General Notes/Elements by Euclid.md",
     "🗃️ Unorganized/General Notes/Three-Dimensional Euclidean space.md",
     "🗃️ Unorganized/General Notes/Element.md",
-    "🗃️ Unorganized/General Notes/Euclid.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

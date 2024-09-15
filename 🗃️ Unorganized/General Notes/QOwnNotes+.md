@@ -269,6 +269,15 @@
 - Thinking in terms of units and development from it (Rewrite title)
 	- Who is God (Vishnu, Shiva, Krishna, Brahman, etc.)
 	- Tree Unit Analogy
+	- Another Better Idea of Thinking #rough 
+		- We have A and B
+		- We have C = A+B and D = A-B
+		- We can have E = (A+B)/2 and F = (A-B)/2
+		- A = E+F and B = E-F
+	- Another Example
+		- We start with void space, which consists of 0, -Infinity and +Infinity
+		- The entity that 
+		- If we create something from an unstable configuration of the three principles, then they will have to remain separated
 
 - Ontogeny recapitulates Phylogeny (disproven theory by Ernst Haeckel)
 	- Evolution of an individual being describes and continues the evolution of the species
