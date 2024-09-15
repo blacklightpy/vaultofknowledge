@@ -136,15 +136,20 @@ They can be grouped as:
 							- It is described in Chapter 2 Verses 28-55 and Chapter 3 Verse 3 and 54
 						- **Concepts**
 							- It has eight limbs:
-								- Yamas (Don't)
-									- Ahimsa (Non-Violence)
-									- Satya (Truth)
-									- Asteya (Non-Stealing)
-									- Brahmacharya (Chastity)
-									- Aparigraha (Non-Avarice / Non-Possessiveness)
-								- Niyamas (Dos)
+								- Yamas (Don't / External Disciplines)
+									- Source
+										- Listed in Chapter 2 Verse 30
+									- List
+										- Ahimsa (Non-Violence)
+										- Satya (Truth)
+										- Asteya (Non-Stealing)
+										- Brahmacharya (Chastity)
+										- Aparigraha (Non-Avarice / Non-Possessiveness)
+								- Niyamas (Dos / Internal Disciplines)
 									- Source
 										- Listed in Saadhana Pada (Chapter 2) Verse 32
+										- It also explains the rationale
+										- For example, Chapter 2 Verse 42 lists the rationale for Santhosha as that it directs one away from external sources of pleasure, and turns him to the inner source of joy
 									- List
 										- Shaucha (Purity and Clarity of Mind, Speech and Body)
 									    - Santosha (Contentment)
@@ -152,12 +157,17 @@ They can be grouped as:
 									    - Svaadhyaaya (Study of Vedas and Self-Reflection)
 									    - Ishvara Pranidhana (Contemplation of Ishvara)
 								- Aasana (Postures)
-									- 
-								- Praanaa Yaama
-								- Pratyaahaara
-								- Dhaaranaa
-								- Dhyaana
-								- Samaadhi
+									- Source
+										- **Reference:** Chapter 2, Verse 46
+										- **Verse:** स्थिरसुखमासनम् ॥
+										- **Translation:** The meditation posture should be steady and comfortable.
+									- List
+
+								- Praanaa Yaama (Breath Control)
+								- Pratyaahaara (Withdrawal of Senses)
+								- Dhaaranaa (Awareness)
+								- Dhyaana (Meditative Absorption)
+								- Samaadhi (Union)
 					- Kriya Yoga
 						- **Source**
 							- Yoga Sutras of Patanjali 2.1 describes three types of kriya (action):
