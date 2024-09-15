@@ -136,11 +136,35 @@ They can be grouped as:
 							- It is described in Chapter 2 Verses 28-55 and Chapter 3 Verse 3 and 54
 						- **Concepts**
 							- It has eight limbs:
-								- f
+								- Yamas (Don't)
+									- Ahimsa (Non-Violence)
+									- Satya (Truth)
+									- Asteya (Non-Stealing)
+									- Brahmacharya (Chastity)
+									- Aparigraha (Non-Avarice / Non-Possessiveness)
+								- Niyamas (Dos)
+									- Source
+										- Listed in Saadhana Pada (Chapter 2) Verse 32
+									- List
+										- Shaucha (Purity and Clarity of Mind, Speech and Body)
+									    - Santosha (Contentment)
+									    - Tapas (Perseverance)
+									    - Svaadhyaaya (Study of Vedas and Self-Reflection)
+									    - Ishvara Pranidhana (Contemplation of Ishvara)
+								- Aasana (Postures)
+									- 
+								- Praanaa Yaama
+								- Pratyaahaara
+								- Dhaaranaa
+								- Dhyaana
+								- Samaadhi
 					- Kriya Yoga
 						- **Source**
 							- Yoga Sutras of Patanjali 2.1 describes three types of kriya (action):
-								- The yoga of action (kriyayoga) is: asceticism (tapas), recitation (svadhyaya), and devotion (pranidhana) to Ishvara (the lord).
+								- **Verse:** योगश्चित्तवृत्तिनिरोधः ॥
+								- **Transliteration:** yogaś-citta-vṛtti-nirodhaḥ.
+								- **Translation:** "Yoga is the inhibition (Nirodha) of the modifications (Vritthi) of the mind (Chittha)"
+								- **Meaning:** The yoga of action (Kriya Yoga) is: asceticism (tapas), recitation (svadhyaya), and devotion (pranidhana) to Ishvara (the lord).
 							- The steps are contained in Chapter 1, Chapter 2 Verses 1-27, Chapter 3 except Verse 54 and Chapter 4
 						- It is just the second limb of the Ashtaanga Yoga
 		- Yoga Bhaashya
