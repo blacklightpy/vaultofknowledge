@@ -1,3 +1,5 @@
+# Definition
+Hinduism refers to the 
 # Texts
 ## Primary Texts
 - [[Shruti]]
@@ -25,8 +27,12 @@
 - Upavedas
 - Darshanas
 	- Aastika (Orthodox)
-		- Haituka (Reason Based)
-		- Smarta (Smriti Based)
+		- Haithuka (Reason Based)
+			- Saankhya
+			- Yoga
+			- Nyaaya
+			- Vaisheshika
+		- Smarta (Shruthi Based)
 			- Meemaamsa / Poorva Meemaamsa (Reflections / Earlier Reflections)
 			- Uttara Meemaamsa / Vedaanta (Later Reflections / Summary of Vedas)
 				- Advaita Vedaanta
