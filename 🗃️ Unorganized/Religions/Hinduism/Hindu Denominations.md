@@ -163,12 +163,23 @@ They can be grouped as:
 					- Rajo Guna and Tamo Guna are suppressed
 				- Niruddha (Free)
 			- Vritthi (Waves / Fluctuations)
-				- f
+				- Vrittis can be Klishta or Aklishta
+				- Klishta Vrittis are bad because they generate Avidya Yukta, Vasana Roop and Samskaaras (Traditions), which keep the Purusha bound
+				- Types
+					- Avidya
+					- Asmita
+					- Raaga
+					- Dvesha
+					- Abhinivesha
 			- Chitta returns to Moola Prakriti (Basic Nature) in two circumstances
-				- By Bhoga (Indulgence) and Apavarga ()
+				- By experiencing Bhoga (Indulgence) and Apavarga (Liberation), one returns to the normal state
+				- During Pralayavashtha (Destroyed / Uncreated State), the Chittha returns to Moola Prakriti, but when the Atma takes a new life form, Chittha manifests again
 	- **Glossary of Terms**
 		- Asmita (Egoism)
 		- Klesham (Affliction)
+		- Aklesham (Non-Affliction)
+		- Klishta (Afflictive / Negative)
+		- Aklishta (Non-Afflictive / Positive)
 		- Bhumi (Stages)
 		- Vritthi (Waves / Fluctuations)
 		- Nirodha (Cessation)
