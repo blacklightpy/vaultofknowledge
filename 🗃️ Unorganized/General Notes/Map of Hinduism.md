@@ -62,7 +62,7 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 - Tattvas
 	- Antahkarana
 		- In Sankhya
-			- Mahat (includes Buddhi, Chithha)
+			- Mahat (includes Buddhi, Chittha)
 			- Ahamkaara
 			- Manas
 		- In Yoga
@@ -79,12 +79,12 @@ bhūmi (earth), ap or jala (water), tejas or agni (fire), marut or pavan (air or
 	- Other Stuff
 
 - In Yoga
-	- Chithha has Vrittis and Bhumis
+	- Chittha has Vritthis and Bhumis
 
-- Chithha Vritti Nirodha (Cessation of Fluctuations of the Mind)
+- Chittha Vritti Nirodha (Cessation of Fluctuations of the Mind)
 	- It is necessary for achieving Kaivalya
 
-- Vrittis of Chithha (Mind)
+- Vrittis of Chittha (Mind)
 
 Five Elements in Human Body
 

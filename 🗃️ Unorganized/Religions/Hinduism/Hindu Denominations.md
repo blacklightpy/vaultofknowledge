@@ -121,7 +121,7 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Yoga Vasishta
 		- Bhagavad Gita
 	- **Metaphysics**
-		- Asmita (Egoism due to indentification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
+		- Asmita (Egoism due to identification of Purusha with Buddhi), is a Klesham (Affliction) that obstructs one from Yoga
 	- **Epistemology**
 		- Knowledge is possible through three **Pramanas** (Means):
 			- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
@@ -132,6 +132,14 @@ There are six schools of thought, called the Sadh-Darshanas (Six Schools). They 
 		- Cosmic Evolution
 			- This is the same as in Sankhya, but the **Antahkarana** is comprised only of Buddhi, Ahamkara and Manas.
 			- Chithha is used to refer to all four - Buddhi, Ahamkara, Manas and Chithha - in a western sense of the "mind"
+		- Liberation
+			- One can achieve Kaivalya (State of Liberation) 
+	- **Glossary of Terms**
+		- Asmita
+		- Klesham
+		- Bhumi
+		- Vritthi
+		- 
 
 About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments/1c6sr6b/why_are_some_astik_philosophies_like_yoga_Vedaanta/
 
