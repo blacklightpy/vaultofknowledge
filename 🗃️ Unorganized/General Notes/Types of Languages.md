@@ -5,7 +5,9 @@
 		- [[Logical Languages]]
 		- [[Experimental Languages]]
 	- [[Auxiliary Languages]]
-		- 
-	- Artistic Languages
+		- [[International Auxiliary Languages]]
+			- [[Zonal Auxiliary Languages]]
+	- [[Artistic Languages]]
+	- [[Fictional Languages]]
 - [[Formal Languages]]
 - [[Biocommunications]]

@@ -2,7 +2,7 @@ He invented [[Leibniz Calculator]] or stepped reckoner based off his computation
 
 He also proposed creating a [[universal language]] which he called [[Characteristica Universalis]].
 
-He made an example language in his book Lingua Generalis, which he called Lingua Generalis or Lingua Universalis.
+He made an example language in his book [[Lingua Generalis]], which he called Lingua Generalis or Lingua Universalis.
 
 In that process, he also created binary calculus (binary number system).
 

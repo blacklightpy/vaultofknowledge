@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Primitive Notion.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -713,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Primitive Notion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md",
+                "file": "🗃️ Unorganized/General Notes/Primitive Notion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Artistic Languages.md"
+                "file": "🗃️ Unorganized/General Notes/Primitive Notion.md"
               }
             }
           },
@@ -811,12 +811,14 @@
   },
   "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Types of Languages.md",
+    "🗃️ Unorganized/General Notes/Lingua Generalis.md",
     "🗃️ Unorganized/General Notes/Constructed Languages.md",
+    "🗃️ Unorganized/General Notes/Engineered Languages.md",
+    "🗃️ Unorganized/General Notes/Auxiliary Languages.md",
+    "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Artistic Languages.md",
     "🗃️ Unorganized/General Notes/Fictional Languages.md",
-    "🗃️ Unorganized/General Notes/Engineered Languages.md",
-    "🗃️ Unorganized/General Notes/Types of Languages.md",
-    "🗃️ Unorganized/General Notes/Auxiliary Languages.md",
     "🗃️ Unorganized/General Notes/Natural Languages.md",
     "🗃️ Unorganized/General Notes/Formal Languages.md",
     "🗃️ Unorganized/General Notes/Computational Linguistics.md",
@@ -835,8 +837,6 @@
     "🗃️ Unorganized/General Notes/Spherical Geometry.md",
     "🗃️ Unorganized/General Notes/Hyperspheres.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Topology/Knots.md",
-    "🗃️ Unorganized/General Notes/Coordinate Points.md",
-    "🗃️ Unorganized/General Notes/Orthogonality.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

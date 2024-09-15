@@ -1,4 +1,4 @@
-In mathematics, logic, philosophy, and formal systems, a primitive notion is a concept that is not defined in terms of previously-defined concepts. It is often motivated informally, usually by an appeal to intuition and everyday experience. In an axiomatic theory, relations between primitive notions are restricted by axioms.
+In mathematics, logic, philosophy, and formal systems, a primitive notion is a concept that is not defined in terms of previously-defined concepts. It is often motivated informally, usually by an appeal to intuition and everyday experience. In an axiomatic theory, relations between primitive notions are restricted by [[axioms]].
 
 Some authors refer to the latter as "defining" primitive notions by one or more axioms, but this can be misleading. Formal theories cannot dispense with primitive notions, under pain of infinite regress (per the regress problem).
 # Example
