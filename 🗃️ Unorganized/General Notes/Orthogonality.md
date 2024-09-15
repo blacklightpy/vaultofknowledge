@@ -1,0 +1,1 @@
+It is the generalization of the concept of [[perpendicularity]].

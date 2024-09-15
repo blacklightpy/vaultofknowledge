@@ -637,7 +637,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spheres.md",
+                "file": "🗃️ Unorganized/General Notes/Orthogonality.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -713,7 +713,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spheres.md",
+                "file": "🗃️ Unorganized/General Notes/Orthogonality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -730,7 +730,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spheres.md",
+                "file": "🗃️ Unorganized/General Notes/Orthogonality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -742,7 +742,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Spheres.md"
+                "file": "🗃️ Unorganized/General Notes/Orthogonality.md"
               }
             }
           },
@@ -810,8 +810,15 @@
   },
   "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Dimension.md",
+    "🗃️ Unorganized/General Notes/Coordinate Points.md",
+    "🗃️ Unorganized/General Notes/Orthogonality.md",
+    "🗃️ Unorganized/General Notes/Perpendicularity.md",
+    "🗃️ Unorganized/General Notes/Geometric Objects.md",
+    "🗃️ Unorganized/General Notes/Three-Dimensional Space.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Geometry/Coordinate System.md",
+    "🗃️ Unorganized/General Notes/Cartesian Coordinate System.md",
     "🗃️ Unorganized/General Notes/Spheres.md",
+    "🗃️ Unorganized/General Notes/Dimension.md",
     "🗃️ Unorganized/General Notes/Spherical Geometry.md",
     "🗃️ Unorganized/General Notes/Hyperspheres.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Topology/Knots.md",
@@ -829,13 +836,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Dharma Shastra.md",
     "🗃️ Unorganized/General Notes/Malayalam Language.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
-    "🗃️ Unorganized/General Notes/Abstractions.md",
-    "🗃️ Unorganized/General Notes/Hindu Verses in the right Context (Vedas and Geeta).md",
-    "🗃️ Unorganized/General Notes/Symbol.md",
-    "🗃️ Unorganized/General Notes/Symbolic Culture.md",
-    "🗃️ Unorganized/General Notes/Material Culture.md",
-    "🗃️ Unorganized/General Notes/Archaeology.md",
-    "🗃️ Unorganized/General Notes/Archaeological Record.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
