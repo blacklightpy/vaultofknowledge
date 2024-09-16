@@ -8,84 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0cb8225ccf9c7e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a156df942345078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a193c08489d7676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Transmission Lines.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d49936584f4474a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Engineered Languages.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee08f2f170932434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c173c730d756eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b0dcba11c647df58",
             "type": "leaf",
             "state": {
@@ -99,64 +21,12 @@
             }
           },
           {
-            "id": "b7a27e92354459f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "891d58fc1ca6eaaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcd64d94ab94a512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d11802b3a7547dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8b3a91abb9a13265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
+                "file": "🗃️ Unorganized/General Notes/Statement.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -307,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -358,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -375,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Studying Incest.md",
+                "file": "🗃️ Unorganized/General Notes/Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Studying Incest.md",
+                "file": "🗃️ Unorganized/General Notes/Statement.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -404,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Studying Incest.md"
+                "file": "🗃️ Unorganized/General Notes/Statement.md"
               }
             }
           },
@@ -470,10 +339,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "df7d544300f5056e",
+  "active": "8b3a91abb9a13265",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+    "🗃️ Unorganized/General Notes/Axioms.md",
+    "🗃️ Unorganized/General Notes/Statement.md",
+    "🗃️ Unorganized/General Notes/Elements by Euclid.md",
+    "🗃️ Unorganized/General Notes/Primitive Notion.md",
+    "🗃️ Unorganized/General Notes/Types of Languages.md",
+    "🗃️ Unorganized/General Notes/Language Games.md",
+    "🗃️ Unorganized/General Notes/Cant.md",
+    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
+    "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
+    "🗃️ Unorganized/General Notes/Engineered Languages.md",
+    "🗃️ Unorganized/General Notes/Transmission Lines.md",
+    "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md",
+    "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+    "🗃️ Unorganized/General Notes/Studying Incest.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5 (Thoughts).md",
@@ -481,23 +367,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/Rough Notes X2.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Taxonomy.md",
-    "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
-    "🗃️ Unorganized/General Notes/Why Leftists Don't Understand Differences Between Words.md",
-    "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
-    "🗃️ Unorganized/General Notes/The Biggest Contrast Between Hindu Religions and Islam.md",
-    "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
-    "🗃️ Unorganized/General Notes/Split Arguments used by Islam.md",
-    "🗃️ Unorganized/General Notes/Sources for Deception.md",
-    "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
-    "🗃️ Unorganized/General Notes/Religion.md",
-    "🗃️ Unorganized/General Notes/Malayalam Language.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
-    "🗃️ Unorganized/General Notes/Doublespeak.md",
-    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

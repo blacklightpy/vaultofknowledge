@@ -670,6 +670,36 @@
           "type": "file",
           "ctime": 1726493787703,
           "path": "🗃️ Unorganized/General Notes/Taxonomy.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509109765,
+          "path": "🗃️ Unorganized/General Notes/Engineered Languages.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509192878,
+          "path": "🗃️ Unorganized/General Notes/Language Games.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509201220,
+          "path": "🗃️ Unorganized/General Notes/Cant.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509208692,
+          "path": "🗃️ Unorganized/General Notes/Types of Languages.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509213196,
+          "path": "🗃️ Unorganized/General Notes/Primitive Notion.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509218996,
+          "path": "🗃️ Unorganized/General Notes/Axioms.md"
         }
       ],
       "title": "Language, Semantics and Morality"
@@ -682,9 +712,56 @@
           "type": "file",
           "ctime": 1726483187045,
           "path": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509143192,
+          "path": "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509151321,
+          "path": "🗃️ Unorganized/Religions/Hinduism/Vedas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509159904,
+          "path": "🗃️ Unorganized/General Notes/My study on Pramaanas.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509167008,
+          "path": "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md"
         }
       ],
       "title": "Study of Hinduism"
+    },
+    {
+      "type": "group",
+      "ctime": 1726509074753,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1726509065213,
+          "path": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509095373,
+          "path": "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509103550,
+          "path": "🗃️ Unorganized/General Notes/Transmission Lines.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726509117917,
+          "path": "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md"
+        }
+      ],
+      "title": "General Science"
     }
   ]
 }
