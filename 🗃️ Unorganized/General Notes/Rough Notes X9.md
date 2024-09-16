@@ -1,5 +1,18 @@
+# Obey the Messenger
+Qur'aan Verses:
+
+In Surah 2: al-Baqarah
+Ayah 1: Obey Allah's Apostle
+Ayah 2: Obey Allah's Apostle
+
+Surah 4: al-Anfal, Ayat 23, 21
+Surah 5: al-Masahib, Ayat 
 # Follow Hadeeths
-## 1. Follow 
+## 1. Follow the Hadeeth
+
+### Qur'aan Sources
+
+
 It was narrated from Ubaidullah bin Abu Rafi from his father, that:
 The Messenger of Allah (SAW) said: "I do not want to find anyone of you reclining on his pillow, and when bad news comes to him of something that I have commanded or forbidden, he says, 'I do not know, whatever we find in the Book of Allah, we will follow."
 
@@ -28,8 +41,14 @@ Reference: Sunan Ibn Majah 1846
 ## 4. The first three generations are the most righteous
 
 ## 5. I have been commanded to wage Jihad
+- Saheeh Muslim 22 (Chapter, Book)
 
 ## 6. Source in the Qur'an to wage Jihaad
+- 9:1
+- 9:5
+- 9:29
+
+Madhhab Interpretation
 
 ## 7. Tafseer on what qualifies as transgression
 

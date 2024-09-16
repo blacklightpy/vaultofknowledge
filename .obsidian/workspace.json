@@ -60,19 +60,6 @@
             }
           },
           {
-            "id": "435bd0a6abc3a91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf7a55155e213e1b",
             "type": "leaf",
             "state": {
@@ -216,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -283,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -312,7 +299,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md"
               }
             }
           },
@@ -378,12 +365,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e70a9d572d690a7e",
+  "active": "637e60fd0671e3bd",
   "lastOpenFiles": [
-    "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
+    "🗃️ Unorganized/General Notes/rough Notes x6.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+    "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Idols in Hinduism.md",
     "🗃️ Unorganized/General Notes/The Word 'Hindu'.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
@@ -404,8 +394,6 @@
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
     "🗃️ Unorganized/General Notes/Engineered Languages.md",
-    "🗃️ Unorganized/General Notes/Transmission Lines.md",
-    "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
@@ -418,7 +406,6 @@
     "_images/Usool al-Hadeeth - Testing the Chain.png",
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
     "_images/Usool al-Hadeeth - Two Kinds of Conflict.jpg",
-    "_images/Usool al-Hadeeth - Conclusion.jpg",
     "Electrochemistry",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings",
