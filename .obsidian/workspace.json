@@ -188,9 +188,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80ad8f933c83ca51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e70a9d572d690a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -257,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -286,7 +312,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md"
               }
             }
           },
@@ -352,8 +378,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c2ef94ea39f68b03",
+  "active": "e70a9d572d690a7e",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/The Word 'Hindu'.md",
+    "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
     "🗃️ Unorganized/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Reforms.md",
@@ -376,10 +406,6 @@
     "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
     "🗃️ Unorganized/General Notes/Studying Incest.md",
-    "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
-    "🗃️ Unorganized/General Notes/Rough Notes x5 (Thoughts).md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Jihad as per Quran.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
