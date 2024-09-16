@@ -9,3 +9,11 @@
 - [[Social Norms]]
 - [[Norms]]
 - [[Normativity]]
+
+# General Understanding
+
+It depends on cultural norms.
+
+- Arabia defines incest only between siblings
+- West has it only upto twice-removed people
+- Jews only have in diagonally twice-removed

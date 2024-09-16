@@ -306,7 +306,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -374,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+                "file": "🗃️ Unorganized/General Notes/Studying Incest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+                "file": "🗃️ Unorganized/General Notes/Studying Incest.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -403,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md"
+                "file": "🗃️ Unorganized/General Notes/Studying Incest.md"
               }
             }
           },
@@ -469,10 +470,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e0cb8225ccf9c7e3",
+  "active": "df7d544300f5056e",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5 (Thoughts).md",
