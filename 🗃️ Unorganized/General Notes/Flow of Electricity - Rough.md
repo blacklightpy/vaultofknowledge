@@ -9,4 +9,5 @@
 	- Consider the particulate nature of propagating waves too (they do not drop in amplitude beyond a certain point, and instead, it moves as point particles)
 		- I could assume that the electrons always simply shoots point photons spherically outward
 			- It's almost as though photons are to the electromagnetic field as what water molecules are to water - to the fullest degree
-				- That is, waves of water 
+				- That is, waves of water or air move due to individual molecules oscillating
+				- Molecules disturb other molecules, because they were excited by a force
