@@ -6,4 +6,4 @@ Obviously, no one is going to do this out of their own pockets in this capitalis
 
 The other case is if the software is free of cost. If the software is both free and open source, then it can be self hosted, so the ==in this case, the pricing will always be fair==, because if someone thinks the pricing is too much, they can self-host it themselves to save on the cost-convenience balance. These types of businesses only work if profit is not the main motivating factor, but rather, only a convenient job is.
 
-But
+But #todo

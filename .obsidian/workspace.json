@@ -8,136 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "685ca42e2cba4a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ce276d7f4e25545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b7b048e23c323e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Partitions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35d92360ac5a178c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05db076cc052a5bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b959a0406713fac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fd2d685d3190aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "992c047f42270e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ff98a07a0107e79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3c6cc6005f4de06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "54f671a7e3eacd07",
             "type": "leaf",
             "state": {
@@ -684,14 +554,6 @@
             }
           },
           {
-            "id": "ccec572be51ca0ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "cf7a55155e213e1b",
             "type": "leaf",
             "state": {
@@ -782,8 +644,7 @@
               }
             }
           }
-        ],
-        "currentTab": 59
+        ]
       }
     ],
     "direction": "vertical"
@@ -829,12 +690,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -850,7 +711,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Studying Incest.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -867,7 +728,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Studying Incest.md",
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -879,7 +740,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Studying Incest.md"
+                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
               }
             }
           },
@@ -946,10 +807,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "df7d544300f5056e",
+  "active": "54f671a7e3eacd07",
   "lastOpenFiles": [
-    "🤠 Personal/Leisure/Movies.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
+    "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
+    "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
+    "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
+    "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
+    "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
+    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
+    "🗃️ Unorganized/General Notes/Android Partitions.md",
+    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
+    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Studying Incest.md",
+    "🤠 Personal/Leisure/Movies.md",
     "🗃️ Unorganized/General Notes/Social Norms.md",
     "🗃️ Unorganized/General Notes/Taboo.md",
     "🗃️ Unorganized/General Notes/Normativity.md",
@@ -959,21 +831,10 @@
     "🗃️ Unorganized/General Notes/Prescriptivity.md",
     "🗃️ Unorganized/General Notes/Rough Notes X9.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Rough Notes.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Upa Vedas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
-    "🗃️ Unorganized/General Notes/Aayur Veda.md",
-    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
