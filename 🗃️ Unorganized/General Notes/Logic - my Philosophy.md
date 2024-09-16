@@ -20,7 +20,7 @@ Therefore this clearly cannot come from God.
 
 # Formal Example
 
-A system is described by 
+A system is described by #todo
 
 # Proof that the whole universe cannot be defined by logic
 The state of the system expands as new perspectives enter the system

@@ -8,279 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54f671a7e3eacd07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a2e25a8078f1d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Cow Tools.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea68d88ca1c6d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Parables.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "796dc0b7b267a0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89edbbd02fae0201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/How to make simple radios.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53497963cd5fb1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Storage Terminology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "462c14e6e44e0f53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "937bf786e8780a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "779aad3e2fdb0e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Difficulties of Writing 1 - Representing the Diverse Flow of Thought.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c6e2e91bf2d7968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22e9a1a96f0cd69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Doublespeak.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f10195e7941f43d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Map of Hinduism.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4554afb8d997ad36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Malayalam Language.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26a07d922662d7b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "778f6839ee5c6d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34dd262989560190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Sources for Deception.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5571c2ae8eb3376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Split Arguments used by Islam.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff5e214939cac6c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43106bc2e80d3152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df59b43b8be9efb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/The Biggest Contrast Between Hindu Religions and Islam.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e320486041deb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b3083805fe4eab1",
             "type": "leaf",
             "state": {
@@ -711,7 +438,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -728,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -740,7 +467,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md"
               }
             }
           },
@@ -807,34 +534,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54f671a7e3eacd07",
+  "active": "0b3083805fe4eab1",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md",
+    "🗃️ Unorganized/General Notes/The Biggest Contrast Between Hindu Religions and Islam.md",
+    "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
+    "🗃️ Unorganized/General Notes/Fashion - my philosophy.md",
+    "🗃️ Unorganized/General Notes/Split Arguments used by Islam.md",
+    "🗃️ Unorganized/General Notes/Sources for Deception.md",
+    "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
+    "🗃️ Unorganized/General Notes/Religion.md",
+    "🗃️ Unorganized/General Notes/Malayalam Language.md",
+    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
+    "🗃️ Unorganized/General Notes/Doublespeak.md",
+    "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+    "🗃️ Unorganized/General Notes/Difficulties of Writing 1 - Representing the Diverse Flow of Thought.md",
+    "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
+    "🗃️ Unorganized/General Notes/Radioactive Carbon Dating.md",
+    "🗃️ Unorganized/General Notes/Storage Terminology.md",
+    "🗃️ Unorganized/General Notes/How to make simple radios.md",
+    "🗃️ Unorganized/General Notes/Reminder of Basic Religious Concepts.md",
+    "🗃️ Unorganized/General Notes/Parables.md",
+    "🗃️ Unorganized/General Notes/Cow Tools.md",
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Terms to define in Mathematics.md",
     "🗃️ Unorganized/General Notes/Network Based Computational Service.md",
     "🗃️ Unorganized/General Notes/Essentials for Mobile Repair.md",
     "🗃️ Unorganized/General Notes/Evolution of Android Modding.md",
     "🗃️ Unorganized/General Notes/Android Apps Backup Jul-Aug 2024.md",
-    "🗃️ Unorganized/General Notes/Building a custom Android distribution.md",
-    "🗃️ Unorganized/General Notes/Hacking the fake phone.md",
-    "🗃️ Unorganized/General Notes/Android Partitions.md",
-    "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Ports and Connectors.md",
-    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
-    "🗃️ Unorganized/General Notes/Studying Incest.md",
-    "🤠 Personal/Leisure/Movies.md",
-    "🗃️ Unorganized/General Notes/Social Norms.md",
-    "🗃️ Unorganized/General Notes/Taboo.md",
-    "🗃️ Unorganized/General Notes/Normativity.md",
-    "🗃️ Unorganized/General Notes/Conventions.md",
-    "🗃️ Unorganized/General Notes/Normative Ethics.md",
-    "🗃️ Unorganized/General Notes/Prescriptive Ethics.md",
-    "🗃️ Unorganized/General Notes/Prescriptivity.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X9.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/rough Notes x6.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

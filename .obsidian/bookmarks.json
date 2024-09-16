@@ -559,6 +559,90 @@
         }
       ],
       "title": "Untitled 2 (Islam, etc.)"
+    },
+    {
+      "type": "group",
+      "ctime": 1726483148337,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1726483156718,
+          "path": "🗃️ Unorganized/General Notes/Doublespeak.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726483233181,
+          "path": "🗃️ Unorganized/General Notes/Malayalam Language.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1726483303043,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1726483276081,
+              "path": "🗃️ Unorganized/General Notes/Religion.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1726483501739,
+              "path": "🗃️ Unorganized/General Notes/The Biggest Contrast Between Hindu Religions and Islam.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1726483516366,
+              "path": "🗃️ Unorganized/General Notes/The Oneness of Vedic Languages and European Languages.md"
+            }
+          ],
+          "title": "Religion General"
+        },
+        {
+          "type": "group",
+          "ctime": 1726483395450,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1726483370621,
+              "path": "🗃️ Unorganized/General Notes/Sources for Deception.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1726483314717,
+              "path": "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
+              "title": ""
+            },
+            {
+              "type": "file",
+              "ctime": 1726483405693,
+              "path": "🗃️ Unorganized/General Notes/Split Arguments used by Islam.md"
+            }
+          ],
+          "title": "Islaam"
+        },
+        {
+          "type": "file",
+          "ctime": 1726483440486,
+          "path": "🗃️ Unorganized/General Notes/Fashion - my philosophy.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726483453270,
+          "path": "🗃️ Unorganized/General Notes/Logic - my Philosophy.md"
+        }
+      ],
+      "title": "Language, Semantics and Morality"
+    },
+    {
+      "type": "group",
+      "ctime": 1726483181090,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1726483187045,
+          "path": "🗃️ Unorganized/General Notes/Map of Hinduism.md"
+        }
+      ],
+      "title": "Study of Hinduism"
     }
   ]
 }

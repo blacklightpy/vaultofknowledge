@@ -5,7 +5,7 @@ I will qualify that.
 
 Orthodox Hindu Metaphysics is defined in the Sanskrit Language.
 In Sanskrit, knowledge is called Veda.
-The collection of Vedas 
+The collection of Vedas #todo
 
 According to Hindu Metaphysics, Brahman is the ultimate reality.
 Brahman creates the world, which is described differently in different Darshanas.
