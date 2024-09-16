@@ -671,7 +671,7 @@
             }
           }
         ],
-        "currentTab": 43
+        "currentTab": 49
       }
     ],
     "direction": "vertical"
@@ -739,7 +739,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -756,7 +756,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -768,7 +768,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
               }
             }
           },
@@ -835,8 +835,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b0dcba11c647df58",
+  "active": "c2d2f75576821856",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
@@ -847,7 +848,6 @@
     "🗃️ Unorganized/General Notes/Upa Vedas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "🗃️ Unorganized/General Notes/Aayur Veda.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
     "🗃️ Unorganized/General Notes/Language Games.md",
     "🗃️ Unorganized/General Notes/Cant.md",
