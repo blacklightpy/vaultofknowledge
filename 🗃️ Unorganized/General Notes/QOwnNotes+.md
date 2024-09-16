@@ -316,11 +316,13 @@
 		- That can be in the aesthetics of appearance (hardness / softness)
 			- This is due to our "sense" of beauty
 		- That can be in the arousing form of appearance (strong abs / strong curves)
-			- This is due to our sexual system
+			- This is due to the "design" of our sexual system
 	- This natural disposition leads to formation of **Intimate Relationships**
 		- This is due to our "ideas" about life partners
 	- **Intimacy** is something that people desire with a loved one, due to our sense of beauty
+		- 
 	- **Sex** is the fulfilment of the sexual intimacy with a loved one
+		- This is due to the "pleasurable aspect" of our sexual system
 	- **Reproduction** is the use of the sexual system for its main intended purpose
 		- The decree on using the sexual system for secondary purposes
 			- If the system was only intended to be used for reproduction, then it would not have been active when a person does not intent for it to cause reproduction.
@@ -332,3 +334,6 @@
 				- Mobile Phones are said to be used to communicate wirelessly
 				- But it can have other uses, like playing video games for leisure
 				- One could even use it to 
+			- Examples of numbers, magnets, etc.
+				- #todo: add simple example of using them for arbitrary fun purposes
+					- #todo: establish the legitimacy of "fun" and "wonder", and then derive it.
