@@ -742,9 +742,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f53650cb622c8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Normativity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9952bc7a48d6798c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Taboo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 43
+        "currentTab": 58
       }
     ],
     "direction": "vertical"
@@ -812,7 +838,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+                "file": "🗃️ Unorganized/General Notes/Taboo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -829,7 +855,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+                "file": "🗃️ Unorganized/General Notes/Taboo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -841,7 +867,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md"
+                "file": "🗃️ Unorganized/General Notes/Taboo.md"
               }
             }
           },
@@ -908,11 +934,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "637e60fd0671e3bd",
+  "active": "9952bc7a48d6798c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Taboo.md",
+    "🗃️ Unorganized/General Notes/Normativity.md",
     "🗃️ Unorganized/General Notes/Conventions.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Normative Ethics.md",
+    "🗃️ Unorganized/General Notes/Prescriptive Ethics.md",
+    "🗃️ Unorganized/General Notes/Prescriptivity.md",
     "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
@@ -931,11 +962,6 @@
     "🗃️ Unorganized/General Notes/Language Games.md",
     "🗃️ Unorganized/General Notes/Cant.md",
     "🗃️ Unorganized/General Notes/Types of Languages.md",
-    "🗃️ Unorganized/General Notes/Philosophical Languages.md",
-    "🗃️ Unorganized/General Notes/First Principles.md",
-    "🗃️ Unorganized/General Notes/Unmoved Mover.md",
-    "🗃️ Unorganized/General Notes/Primitive Notion.md",
-    "🗃️ Unorganized/General Notes/Lingua Generalis.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

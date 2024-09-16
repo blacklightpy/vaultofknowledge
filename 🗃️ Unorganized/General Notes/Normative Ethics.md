@@ -1,0 +1,1 @@
+Normative Ethics or [[Prescriptive Ethics]].
