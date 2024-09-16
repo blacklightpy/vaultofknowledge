@@ -309,11 +309,26 @@
 
 - About Love, Intimacy, Sex and Procreation
 	- **Love** is something everyone can have to one another
+		- This is due to our "ideas" and "ideas of values" about general relationships
 	- Now, we have a natural disposition to be attracted to the opposite sex
 		- That can be in ways of conduct
+			- This is due to our "ideas of values" about life partners
 		- That can be in the aesthetics of appearance (hardness / softness)
+			- This is due to our "sense" of beauty
 		- That can be in the arousing form of appearance (strong abs / strong curves)
+			- This is due to our sexual system
 	- This natural disposition leads to formation of **Intimate Relationships**
-	- 
-	- **Intimacy** is something that people desire with a loved one,
+		- This is due to our "ideas" about life partners
+	- **Intimacy** is something that people desire with a loved one, due to our sense of beauty
 	- **Sex** is the fulfilment of the sexual intimacy with a loved one
+	- **Reproduction** is the use of the sexual system for its main intended purpose
+		- The decree on using the sexual system for secondary purposes
+			- If the system was only intended to be used for reproduction, then it would not have been active when a person does not intent for it to cause reproduction.
+		- Other Examples
+			- Example of Sound
+				- Sound is said to be used to be used for communications
+				- But it can have other uses, like the sound of oceans or the sound of birds
+			- Example of Mobile Phones
+				- Mobile Phones are said to be used to communicate wirelessly
+				- But it can have other uses, like playing video games for leisure
+				- One could even use it to 
