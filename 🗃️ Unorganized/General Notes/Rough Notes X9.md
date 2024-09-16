@@ -33,5 +33,8 @@ Reference: Sunan Ibn Majah 1846
 
 ## 7. Tafseer on what qualifies as transgression
 
-## 8. What are the conditions of treaties
-## 9. 
+## 8. What are the conditions to make valid treaties
+## 9. What to consider during war
+- War is Deceit
+	- X Hadeeths in **Chapter 157: War is Deceit, from Book 56: Fighting for the cause of Allah (Jihaad), from Saheeh al-Bukhari** (No. )
+- Quran 8:66

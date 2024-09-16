@@ -296,4 +296,13 @@
 - Not Everyone Who Does the Same Things Do It for The Same Reasons
 	- A does X
 	- B does X
-	- Therefore A 
+	- "Therefore A has the same reasons to do X as B" - False
+	- A does X because of P
+	- B does X because of Q
+	- Therefore, one can do X because of P or Q
+	- P may be harmful, while Q may not be
+	- "But the result is X"
+	- No, the result is not one event
+	- For example, when a person takes an item from another person, the action does not just end there. It is also dependent on whether the person has consent or not. And the actions will shape future actions, that is, if the person takes an item without consent, then they believe it is right to do so, and will repeat the action elsewhere. But if the judiciary orders something to be taken from someone, it is a different matter.
+	- So actions are to be judged by their intents and consequences.
+	- The actor however, is only to be judged by his intent.
