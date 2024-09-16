@@ -306,8 +306,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -358,7 +357,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -374,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md"
               }
             }
           },
@@ -469,8 +469,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b0dcba11c647df58",
+  "active": "e0cb8225ccf9c7e3",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
@@ -496,7 +497,6 @@
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
-    "🗃️ Unorganized/General Notes/Difficulties of Writing 1 - Representing the Diverse Flow of Thought.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

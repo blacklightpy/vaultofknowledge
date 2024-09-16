@@ -21,3 +21,7 @@
 					- Are these two simply two different ways of thinking about the same thing?
 					- i.e., the side the pushed first moves back, pushing the part that's behind it, and so on. That's the classical understanding as well. Matter waves. However, I'm viewing matter not as particles floating in an abstract space, but as points in the space itself.
 						- An analogy is that of how characters in video games move. We redraw the space in every frame.
+					- Same applies to the motion of one's limbs - the mind directs the available energy to execute the intended motion.
+				- [Q.] Another question I had here was, how the motion is initiated by absorption of photon particles.
+					- I would say that it is in the same principles as that of the idea of electromagnetic waves pushing charged particles by their fields.
+					- The idea of particles do not violate the idea of modelling them as fields, just as water containing molecules do not violate the fluid nature of water.

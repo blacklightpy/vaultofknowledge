@@ -285,7 +285,7 @@
 - Ontogeny recapitulates Phylogeny (disproven theory by Ernst Haeckel)
 	- Evolution of an individual being describes and continues the evolution of the species
 	- Similarly, applied to memetic, the evolution of a person describes and continues the evolution of the society
-	- This has been ap
+	- This has been applied to cognitive development.
 	- As I'd say: growth shapes mindset, and mindset shapes outlook, and outlook shapes society
 
 - Binding of Morality
