@@ -306,3 +306,14 @@
 	- For example, when a person takes an item from another person, the action does not just end there. It is also dependent on whether the person has consent or not. And the actions will shape future actions, that is, if the person takes an item without consent, then they believe it is right to do so, and will repeat the action elsewhere. But if the judiciary orders something to be taken from someone, it is a different matter.
 	- So actions are to be judged by their intents and consequences.
 	- The actor however, is only to be judged by his intent.
+
+- About Love, Intimacy, Sex and Procreation
+	- **Love** is something everyone can have to one another
+	- Now, we have a natural disposition to be attracted to the opposite sex
+		- That can be in ways of conduct
+		- That can be in the aesthetics of appearance (hardness / softness)
+		- That can be in the arousing form of appearance (strong abs / strong curves)
+	- This natural disposition leads to formation of **Intimate Relationships**
+	- 
+	- **Intimacy** is something that people desire with a loved one,
+	- **Sex** is the fulfilment of the sexual intimacy with a loved one

@@ -744,7 +744,7 @@
             }
           }
         ],
-        "currentTab": 56
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -812,7 +812,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -829,7 +829,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -841,7 +841,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -908,10 +908,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "637e60fd0671e3bd",
+  "active": "b0dcba11c647df58",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
