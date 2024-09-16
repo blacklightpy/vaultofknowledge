@@ -163,6 +163,8 @@ And Mohammed later declared war, because when the treaty was declared, from two 
 
 When Banu Bakr reportedly later attacked Banu Khuza’ah, for revenge for them killing one of their members in the past, Mohammed sent the Quraysh an enoy asking them to stop supporting Banu Bakr. Some of them told him they don’t care, since Mohammed himself didn’t follow the treaty properly. But then, Quraysh leader Abu Sufyan decided to not make it a problem and renew the treaty. But Mohammed said no and attacked. Mohammed cleverly utilized the treaty to attack Quraysh, exterminate them and steal the holy place that belonged to them for years.
 
+#todo: Add letters to Khosrau II
+
 ---
 
 **https://www.quora.com/Is-it-true-that-LGBT-people-should-be-killed-in-Islam-If-yes-whats-the-proof/answer/Brian-Mason-13?comment_id=424636004&comment_type=2**

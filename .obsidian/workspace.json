@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "c2d2f75576821856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7af2a553a8b852cd",
             "type": "leaf",
             "state": {
@@ -60,12 +47,12 @@
             }
           },
           {
-            "id": "cf7a55155e213e1b",
+            "id": "c2d2f75576821856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,12 +73,12 @@
             }
           },
           {
-            "id": "f99e674cfce79961",
+            "id": "cf7a55155e213e1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,25 +99,12 @@
             }
           },
           {
-            "id": "8f53650cb622c8e9",
+            "id": "f99e674cfce79961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Normativity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9952bc7a48d6798c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Taboo.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,19 +138,6 @@
             }
           },
           {
-            "id": "c2ef94ea39f68b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e70a9d572d690a7e",
             "type": "leaf",
             "state": {
@@ -201,9 +162,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a492aea5284809a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -232,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"manu smriti\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -270,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -299,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md"
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md"
               }
             }
           },
@@ -365,18 +340,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "637e60fd0671e3bd",
+  "active": "6a492aea5284809a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
+    "🗃️ Unorganized/General Notes/rough Notes x6.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
+    "🗃️ Unorganized/General Notes/Normative Ethics.md",
+    "🗃️ Unorganized/General Notes/Conventions.md",
+    "🗃️ Unorganized/General Notes/Prescriptive Ethics.md",
+    "🗃️ Unorganized/General Notes/Normativity.md",
+    "🗃️ Unorganized/General Notes/Prescriptivity.md",
+    "🗃️ Unorganized/General Notes/Taboo.md",
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Idols in Hinduism.md",
     "🗃️ Unorganized/General Notes/The Word 'Hindu'.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
     "🗃️ Unorganized/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Reforms.md",
     "🗃️ Unorganized/General Notes/Statement.md",
@@ -384,16 +369,6 @@
     "🗃️ Unorganized/General Notes/Elements by Euclid.md",
     "🗃️ Unorganized/General Notes/Primitive Notion.md",
     "🗃️ Unorganized/General Notes/Types of Languages.md",
-    "🗃️ Unorganized/General Notes/Language Games.md",
-    "🗃️ Unorganized/General Notes/Cant.md",
-    "🗃️ Unorganized/General Notes/Scientific Traditions in Hindu History.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Sankhya - My Philosophy.md",
-    "🗃️ Unorganized/General Notes/My study on Pramaanas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Map of Hinduism.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Continuum Mechanics/Fluid Mechanics/Capillary Action.md",
-    "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

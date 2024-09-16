@@ -1,12 +1,15 @@
 # Obey the Messenger
-Qur'aan Verses:
+Qur'aan Verses (template):
 
 In Surah 2: al-Baqarah
 Ayah 1: Obey Allah's Apostle
 Ayah 2: Obey Allah's Apostle
 
-Surah 4: al-Anfal, Ayat 23, 21
-Surah 5: al-Masahib, Ayat 
+Surah 4: al-Anfal
+Ayah 44: Do not Disobey Allah's Apostle
+
+Surah 5: al-Masahib
+Ayah 44: Those who Disobey Him will be in the Fire
 # Follow Hadeeths
 ## 1. Follow the Hadeeth
 
@@ -19,7 +22,7 @@ The Messenger of Allah (SAW) said: "I do not want to find anyone of you reclinin
 Grade: Saheeh
 Reference: Sunan Ibn Maajah 13
 
-- Ibn Maajah 12 (Hasan)
+- Ibn Maajah 12 (Graded Hasan, by )
 - Ibn Maajah 13 (Saheeh, above)
 - Ibn Maajah 21 (Da'eef)
 - Mishkat al-Masabih 162 

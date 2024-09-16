@@ -700,6 +700,36 @@
           "type": "file",
           "ctime": 1726509218996,
           "path": "🗃️ Unorganized/General Notes/Axioms.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726518273204,
+          "path": "🗃️ Unorganized/General Notes/Taboo.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726518283876,
+          "path": "🗃️ Unorganized/General Notes/Normativity.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726518290564,
+          "path": "🗃️ Unorganized/General Notes/Prescriptivity.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726518298012,
+          "path": "🗃️ Unorganized/General Notes/Normative Ethics.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726518302304,
+          "path": "🗃️ Unorganized/General Notes/Prescriptive Ethics.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1726518308026,
+          "path": "🗃️ Unorganized/General Notes/Conventions.md"
         }
       ],
       "title": "Language, Semantics and Morality"
@@ -762,6 +792,11 @@
         }
       ],
       "title": "General Science"
+    },
+    {
+      "type": "file",
+      "ctime": 1726518360195,
+      "path": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
     }
   ]
 }
