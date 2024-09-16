@@ -703,9 +703,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09afa29eb7a8925b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 53
+        "currentTab": 54
       }
     ],
     "direction": "vertical"
@@ -734,7 +742,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"convert\"",
+                "query": "\"collector\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -772,7 +780,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -789,7 +796,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -800,9 +806,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md"
-              }
+              "state": {}
             }
           },
           {
@@ -868,7 +872,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf7a55155e213e1b",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
