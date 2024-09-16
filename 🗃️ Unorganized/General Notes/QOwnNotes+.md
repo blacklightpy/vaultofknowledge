@@ -292,3 +292,8 @@
 
 - Dreams
 	- Today I saw a dream in which I was bitten by mosquitoes. That went on for the whole night, until I realized that there were no mosquitoes in my room. But the bites were painful, and I perceived it.
+
+- Not Everyone Who Does the Same Things Do It for The Same Reasons
+	- A does X
+	- B does X
+	- Therefore A 
