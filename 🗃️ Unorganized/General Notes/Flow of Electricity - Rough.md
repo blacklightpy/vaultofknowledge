@@ -19,3 +19,5 @@
 				- So the motion of the charge itself is due to the imparted momentum of the absorbed photons.
 					- Which leads me to question, when I push a ball, is the "object", "the ball", "moving", or is it the space that was away from the ball that now takes the state of a ball?
 					- Are these two simply two different ways of thinking about the same thing?
+					- i.e., the side the pushed first moves back, pushing the part that's behind it, and so on. That's the classical understanding as well. Matter waves. However, I'm viewing matter not as particles floating in an abstract space, but as points in the space itself.
+						- An analogy is that of how characters in video games move. We redraw the space in every frame.

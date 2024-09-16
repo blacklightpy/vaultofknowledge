@@ -284,7 +284,8 @@
 
 - Ontogeny recapitulates Phylogeny (disproven theory by Ernst Haeckel)
 	- Evolution of an individual being describes and continues the evolution of the species
-	- Similarly, applied to memetics, the evolution of a person describes and continues the evolution of the society
+	- Similarly, applied to memetic, the evolution of a person describes and continues the evolution of the society
+	- This has been ap
 	- As I'd say: growth shapes mindset, and mindset shapes outlook, and outlook shapes society
 
 - Binding of Morality
@@ -324,7 +325,7 @@
 	- **Sex** is the fulfilment of the sexual intimacy with a loved one
 		- This is due to the "pleasurable aspect" of our sexual system
 	- **Reproduction** is the use of the sexual system for its main intended purpose
-		- The decree on using the sexual system for secondary purposes
+		- The rationale for using the sexual system for secondary purposes
 			- If the system was only intended to be used for reproduction, then it would not have been active when a person does not intent for it to cause reproduction.
 		- Other Examples
 			- Example of Sound

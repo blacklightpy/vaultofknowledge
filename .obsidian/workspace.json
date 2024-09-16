@@ -306,7 +306,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -373,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -402,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -468,8 +469,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e0cb8225ccf9c7e3",
+  "active": "b0dcba11c647df58",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
     "🗃️ Unorganized/General Notes/Logic - my Philosophy.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Rough Notes x5 (Thoughts).md",
@@ -495,7 +497,6 @@
     "🗃️ Unorganized/General Notes/Doublespeak.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Difficulties of Writing 1 - Representing the Diverse Flow of Thought.md",
-    "🗃️ Unorganized/General Notes/Fixing LLMs to turn them into AI.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
