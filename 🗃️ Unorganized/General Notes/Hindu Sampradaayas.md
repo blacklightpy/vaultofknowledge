@@ -1,4 +1,14 @@
-Vaishnava, Saiva, Sakya, Ganaapathya & Kaumara
+> शैवाश्च वैष्णवाश्चैव सौराः शाक्तास्तथैव च।
+> गाणपत्या आगमाश्च प्रणीताः शङ्करेण तु ॥३०॥
+> 
+> Translation: Lord Shankar composed Shaiva, Vaishnava, Shaura, Shakta and Ganapatya Agamas.
+> 
+> - Devi Bhagavata, 7.39.30
+
+Major Sects: Shaiva, Vaishnava, Shaura, Shakta, Ganapataya, Subramaniya, Ayyapa
+
+- Vaishnava
+	- 
 
 | Sl  | Name | Main Sect | Listed in 1 | Listed in 2 | Listed in 3 | Listed in 4 |
 | --- | ---- | --------- | ----------- | ----------- | ----------- | ----------- |
