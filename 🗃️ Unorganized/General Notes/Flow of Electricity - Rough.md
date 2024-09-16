@@ -15,4 +15,7 @@
 				- [Q:] But how does the force carrier enter the medium?
 				- I would model it as that the electron cloud goes in and out in each cycle, due to the push and pull it receives from the nucleus, and during this time, new photons may get absorbed, and the next 
 				- [Q:] But how does it explain how moving charges radiate electromagnetic waves
-				- Good question. But as we know, it is not just any moving charges, but accelerating charges that radiate electromagnetic waves.
+				- Good question. But as we know, it is not just any moving charges, but accelerating charges that radiate electromagnetic waves. Plain moving charges only move from a relative frame of reference, and are not under the influence of any force.
+				- So the motion of the charge itself is due to the imparted momentum of the absorbed photons.
+					- Which leads me to question, when I push a ball, is the "object", "the ball", "moving", or is it the space that was away from the ball that now takes the state of a ball?
+					- Are these two simply two different ways of thinking about the same thing?
