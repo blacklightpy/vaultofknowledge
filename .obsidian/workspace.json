@@ -724,9 +724,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f99e674cfce79961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "637e60fd0671e3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 55
+        "currentTab": 57
       }
     ],
     "direction": "vertical"
@@ -793,7 +819,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -810,7 +836,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -822,7 +848,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X9.md"
               }
             }
           },
@@ -866,7 +892,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -889,10 +915,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfebfb68fac38748",
+  "active": "637e60fd0671e3bd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
@@ -915,8 +943,6 @@
     "🗃️ Unorganized/General Notes/Primitive Notion.md",
     "🗃️ Unorganized/General Notes/Lingua Generalis.md",
     "🗃️ Unorganized/General Notes/Constructed Languages.md",
-    "🗃️ Unorganized/General Notes/Engineered Languages.md",
-    "🗃️ Unorganized/General Notes/Auxiliary Languages.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
