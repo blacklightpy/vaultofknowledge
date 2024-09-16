@@ -230,7 +230,7 @@
 	- But in reality, the drift velocity ... #todo doesn't matter much; FILL: Electromagnetic Field and the capacitance of the media, and the wires form an easier path the moment they are connected to each terminal, until they are connected together, and the flow at the two sides connect.
 
 - The Illusion of Prophecy
-	- God, Prophet, Prophecy, Future
+	- Principles: God, Prophet, Prophecy, Future
 
 - What if all points said "Be" (Laws of Physics)
 
@@ -289,3 +289,6 @@
 
 - Binding of Morality
 	- Morality is motivated by "categorical imperatives" and "hypothetical imperatives"
+
+- Dreams
+	- Today I saw a dream in which I was bitten by mosquitoes. That went on for the whole night, until I realized that there were no mosquitoes in my room. But the bites were painful, and I perceived it.

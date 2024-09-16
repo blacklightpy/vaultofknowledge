@@ -671,7 +671,7 @@
             }
           }
         ],
-        "currentTab": 50
+        "currentTab": 43
       }
     ],
     "direction": "vertical"
@@ -700,7 +700,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upaveda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -722,7 +722,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -738,7 +739,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -755,7 +756,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -767,7 +768,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -834,8 +835,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7af2a553a8b852cd",
+  "active": "b0dcba11c647df58",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
@@ -861,7 +863,6 @@
     "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Artistic Languages.md",
     "🗃️ Unorganized/General Notes/Fictional Languages.md",
-    "🗃️ Unorganized/General Notes/Natural Languages.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
