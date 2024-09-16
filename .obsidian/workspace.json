@@ -190,19 +190,6 @@
             }
           },
           {
-            "id": "80ad8f933c83ca51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e70a9d572d690a7e",
             "type": "leaf",
             "state": {
@@ -214,9 +201,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecca2c2b3232cf13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Idols in Hinduism.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -380,10 +380,12 @@
   },
   "active": "e70a9d572d690a7e",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/The Word 'Hindu'.md",
-    "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+    "🗃️ Unorganized/General Notes/Idols in Hinduism.md",
+    "🗃️ Unorganized/General Notes/The Word 'Hindu'.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
     "🗃️ Unorganized/Religions/Hinduism/Evils in Hinduism 1 - Why is Intercaste Marriage Bad.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Reforms.md",
@@ -404,8 +406,6 @@
     "🗃️ Unorganized/General Notes/Engineered Languages.md",
     "🗃️ Unorganized/General Notes/Transmission Lines.md",
     "🗃️ Unorganized/General Notes/MY STRONG BELIEF IN THE SIMULATION THEORY AND A COUNTER TO IT.md",
-    "🗃️ Unorganized/General Notes/Flow of Electricity - Rough.md",
-    "🗃️ Unorganized/General Notes/Studying Incest.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
