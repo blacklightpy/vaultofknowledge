@@ -669,9 +669,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "435bd0a6abc3a91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccec572be51ca0ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf7a55155e213e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 49
+        "currentTab": 53
       }
     ],
     "direction": "vertical"
@@ -700,7 +734,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"convert\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -722,8 +756,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -739,7 +772,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -756,7 +789,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -768,7 +801,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X8.md"
               }
             }
           },
@@ -835,11 +868,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c2d2f75576821856",
+  "active": "cf7a55155e213e1b",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
@@ -862,7 +896,6 @@
     "🗃️ Unorganized/General Notes/Auxiliary Languages.md",
     "🗃️ Unorganized/General Notes/Gottfried Wilhelm Leibniz.md",
     "🗃️ Unorganized/General Notes/Artistic Languages.md",
-    "🗃️ Unorganized/General Notes/Fictional Languages.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

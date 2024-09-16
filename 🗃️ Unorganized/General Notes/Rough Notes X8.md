@@ -9,7 +9,6 @@ Now, eliminated Hamas chief Ismail Haniyeh’s daughter said last month that Ira
 ---
 
 **Hinduism is a polytheist religion, but some Hindus want to deny that. Are they ashamed about their polytheism?**
-
 **Comment 1: (Indian Banyan > > Chris Pratt (Christians have picked up the notion ...))**
 
 You can’t say false notion, only a terrible notion. If you have to assert truity or falsity to something, you must be able to prove it under some axioms. However, those religions are their own axioms, so you can’t prove or disprove them using themselves. But you can, if you create axioms using the language in which they preach the religion, such as English.
