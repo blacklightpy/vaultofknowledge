@@ -1,6 +1,5 @@
 # Primary Sources
-
-- Qur'an
+- Qur'aan
 ## Sunnah
 ### Ahadees (Reports)
 - Early Books
