@@ -1,3 +1,9 @@
+# Table of Contents
+- How a normal person would write a letter
+- Letters Sent By Mohammed
+	- To Khosrau II of Persia
+	- 
+
 # How a normal person would write a letter
 General Template:
 > Hello. I'm "so and so", and I believe "so and so", and I'd like to convey its message to the people for that noble reason. I kindly request your approval for me to proceed with the matter.
