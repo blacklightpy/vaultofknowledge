@@ -2,7 +2,8 @@
 - How a normal person would write a letter
 - Letters Sent By Mohammed
 	- To Khosrau II of Persia
-	- 
+	- To Jews of Khaibar
+	- To Caesar of Rome
 
 # How a normal person would write a letter
 General Template:
