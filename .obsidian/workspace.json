@@ -182,7 +182,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
+                "file": "🗃️ Unorganized/General Notes/Life of Mohammed.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md"
+                "file": "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md"
               }
             }
           },
@@ -353,11 +353,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1dee7b0ef846db59",
+  "active": "6a492aea5284809a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Life of Mohammed.md",
+    "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
     "🗃️ Unorganized/General Notes/Thoughts of Islamic Scholars.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
@@ -381,7 +382,6 @@
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
-    "🗃️ Unorganized/General Notes/Idols in Hinduism.md",
     "A5",
     "_images/Parts of a Jet Engine.gif",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

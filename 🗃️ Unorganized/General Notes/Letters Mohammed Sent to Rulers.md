@@ -1,9 +1,12 @@
+# To Refer
+- [ ] https://arqadhi.blogspot.com/2015/11/071-letters-to-various-rulers.html
+- [ ] https://en.wikipedia.org/wiki/Diplomatic_career_of_Muhammad
 # Table of Contents
 - How a normal person would write a letter
 - Letters Sent By Mohammed
 	- To Khosrau II of Persia
 	- To Jews of Khaibar
-	- To Caesar of Rome
+	- To Caesar of Rome (Recorded in Bukhari)
 
 # How a normal person would write a letter
 General Template:
@@ -28,6 +31,12 @@ For example:
 > Embrace Islam so that you may remain safe (in this life and the next). And if you refuse to accept Islam, you will be responsible for the sins of the Magi."
 
 Follow up: **Saheeh al-Bukhari 3027-3028**
+
+- Sources (didn't check):
+	- Page 360 of Tabaqat-i Kubra: Volume 1
+	- Pages 295-296 of Tarikh-i Tabari: Volume 2
+	- Page 81 of Tarikh-i Kamil: Volume 3
+	- Page 389 of Biharul Anwar: Volume 20 
 ## Jews of Khaybar
 - Prophet of Doom by Craig Winn
 	- Ibn Ishaq: 256 has the letter
