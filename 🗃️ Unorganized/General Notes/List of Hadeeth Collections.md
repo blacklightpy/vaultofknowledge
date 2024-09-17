@@ -1,9 +1,12 @@
 # Sunni (and Ahmadiyya)
+
+- Al-Mu'jamul Mufahras li Alfadhil Hadithin Nabawi (The Nine Hadith Books)
 - Early Collections
 	- Musnad Imam Ahmed ibn Hanbal
 		- **Author:** Imam Ahmed ibn Hanbal
 	- Muwatta Imam Malik (Malikis consider this over Sunan ibn Maajah in Kutub al-Sittah)
 		- **Author:** Imam Malik ibn Anas
+	- Sunan al-Darimi
 	- Riyad-us-Saliheen [6 Volumes]
 		- **Author:** 
 - Kutub al-Sittah (The Authentic Six)
@@ -57,6 +60,10 @@
 - Al-Kutub Al-Arb'ah (The Four Books)
 	- Kitab al-Kafi
 		- **Author:** Muhammad ibn Ya'qub al-Kulayni
+		- **Sections**
+			- Usul al-Kafi
+			- Furu al-Kafi
+			- Rawdat al-Kafi
 	- Man La Yahduruhu al-Faqih
 		- **Author:** 
 	- Tahdhib al-Ahkam
@@ -65,7 +72,7 @@
 		- **Author:** 
 
 - Commentaries
-	- Sharh Usul al-Kafi (Commentary on Kitab al-Kafi)
+	- Sharh Usul al-Kafi (Commentary on Usul al-Kafi of Kitab al-Kafi)
 		- **Author:** Mohammad Salih al-Mazandarani
 ## Isma'eeli Shi'a
 - Da'a'im al-Islam
@@ -104,3 +111,271 @@
 	- **Author:** 
 - Tartib al-Musnad
 	- **Author:** 
+
+
+
+
+
+
+The Nine Hadith books that are indexed in the world renowned Hadith concordance (Al-Mu’jamul Mufahras li Alfadhil Hadithin Nabawi) that includes al-Sihah al-Sittah (The Authentic Six), Muwatta Imam Malik, Sunan al-Darimi, Musnad Ahmad.
+
+- Sahih al-Bukhari
+- Sahih Muslim
+- Sunan Abu Dawood
+- Sunan al-Tirmidhi
+- Sunan al-Nasa'i
+- Sunan ibn Majah
+- Muwatta Imam Malik
+- Sunan al-Darimi
+- Musnad Ahmad bin Hanbal
+
+Among the other Authentic Hadith books that follow Ṣaḥīḥayn (Sahih Bukhari and Sahih Muslim) are:
+
+- Sahih ibn Khuzaymah.
+- Sahih ibn Hibban
+- Al-Mustadrak alaa al-Sahihain
+
+- Other Primary/Major Collections (Primary Hadith books are those books which are collected and written by author or their students themselves). Most of the following list has been given in Preface (Muqadamah) of the book Al-Jami al-Kamil by Imam Ziya-ur-Rahman Azmi.
+
+	- Majmoah Saʽd ibn ʽUbadah (d. 16 AH)
+	- Majmoah Abd Allah ibn Mas'ud (d. 32 AH)
+	- Nuskha lil Imam Ali (d. 40 AH)
+	- Maktobat lil Amr ibn Hazm (d. 51 AH)
+	- Risaalah Samura ibn Jundab (d. 54 AH)
+	- Sahifah al-Sadiqah lil Abd Allah ibn Amr ibn al-As (d. 65 AH)
+	- Sahifah Jabir ibn Abd Allah (d. 74 AH)
+	- Majmoah Bashir Ibn Nahik (d. 91 AH)
+	- Sahifah Anas ibn Malik (d. 93 AH)
+	- Riwayaat ul Aisha lil Urwa ibn al-Zubayr (d. 94 AH)
+	- Riwayaat ul Ibn Abbas from Sa'id ibn Jubayr (d. 96 AH)
+	- Sahifah Hammam ibn Munabbih (d. 130 A.H.)
+	- Musnad Abu Hanifa (d. 150 AH)
+	- Musannaf ibn Jurayj (d. 150 AH)
+	- Al-Jami lil Ma'mar ibn Rashid (d. 154 AH)
+	- Al-Jami Abd al-Rahman al-Awza'i (d. 158 AH)
+	- Al-Jami lil Imam Sufyan Suri (d. 161 AH)
+	- Muwatta Imam Malik (d. 179 AH)
+	- Kitab ul Zuhd lil Abd Allah ibn al-Mubarak (181 AH)
+	- Kitab al-Kharaj lil Abu Yusuf (d. 182 AH)
+	- Kitab-ul-Aathaar - al Shaybani (d. 189 AH)
+	- Al-Muwattah lil Muhammad al-Shaybani (d. 189 AH)
+	- Kitab ul Zuhd lil Waki' ibn al-Jarrah (d. 197 AH)
+	- Al-Jami Ibn Wahb al-Masri (d. 197 AH)
+	- Al-Kharaj lil Yahya bin Adam (d. 203 AH)
+	- Kitab al-Umm (d. 204 AH)
+	- Musnad al-Shafi'i (d. 204 AH)
+	- Al-Risala (d. 204 AH)
+	- Musnad al Tayalisi (d. 204 AH)
+	- Al-Mughazi lil imam Al-Waqidi (d. 207 AH)
+	- Musannaf of Abd al-Razzaq (d. 211 AH)
+	- Musnad Humaidi Imam Al-Humaydi (d. 219 AH)
+	- Fazail e Qur'an lil Abu Ubaid al-Qasim bin Salam (d. 224 AH)
+	- Al-Amwaal lil Abu Ubaid al-Qasim bin Salam (d. 224 AH)
+	- Al-Tahur lil Abu Ubaid al-Qasim bin Salam (d. 224 AH)
+	- Gharib Hadith lil Abu Ubaid al-Qasim bin Salam(d. 224 AH)
+	- Sunan Sa'id ibn Mansur (d. 227 AH)
+	- Musnad Musadad bin Masarhad (d. 228 AH))
+	- Musnad Abd al-Rahman bin Awf lil Imam Ahmad bin Muhammad al-Barti (d. 228 AH)
+	- Musnad Ibn al-Ja'd (230 AH)
+	- Kitab Al-ilm lil Abi Khaytmah Zuhair bin Harb (d. 234 AH)
+	- Musannaf Ibn Abi Shaybah (d. 235 AH)
+	- Al-Musnad lil Ibn Abi Shaybah (d. 235 AH)
+	- Musnad Ishaq Ibn Rahwayh (d. 238 AH)
+	- Musnad Ahmad ibn Hanbal (d. 241 AH)
+	- Kitab Al-Zuhd lil Ahmad ibn Hanbal (d. 241 AH)
+	- Fazail e Sahaba lil Ahmad ibn Hanbal (d. 241 AH)
+	- Al-Ashrabah lil Ahmad ibn Hanbal (d. 241 AH)
+	- Al-Zuhd lil ibn Al-Sari (d. 243 AH)
+	- Musnad Ibn Abi Umar al-Adni (d. 243 AH)
+	- Musnad Ahmad bin Muni (d. 244 AH)
+	- Al-Amwal lil ibn Zanjuyah (d. 248 AH)
+	- Al-Munthakhab min Musnad Abd bin Hameed (d. 249 AH)
+	- Sunan ad-Darimi (d. 255 AH)
+	- Sahih al-Bukhari (d. 256 AH)
+	- Al-Adab al-Mufrad (d. 256 AH)
+	- Al-Tarikh al-Kabir (d. 256 AH)
+	- Juz Qira Khalaf al-Imam (d. 256 AH)
+	- Juz Rifa al-Ideen lil imam Muhammad al-Bukhari (d. 256 AH)
+	- Khalqul Afwal ul Ibad lil imam Muhammad al-Bukhari (d. 256 AH)
+	- Sahih Muslim (d. 261 AH)
+	- Sunan ibn Majah (d. 273 AH)
+	- Musnad Abdullah bin Umar lil Imam Muhammad bin Ibrahim Tarsusi (d. 273 AH)
+	- Sunan Abu Dawood (d. 275 AH)
+	- Al-Murasil lil imam Muhammad al-Bukhari (d. 256 AH)
+	- Musnad lil Imam Baqi bin Mukhlid al-Andalusi (d. 276 AH)
+	- Al-Marefa wal Tarikh lil Imam al-Faswi (d. 277 AH).
+	- Shamail Muhammadiah lil Imam Muhammad al-Bukhari (d. 256 AH)
+	- Al-ilal lil Imam Muhammad al-Bukhari (d. 256 AH)
+	- Sunan al-Tirmidhi (d. 279 AH)
+	- Shamaail Tirmidhi (Shama'il Muhammadiyah (d. 279 AH)
+	- Makarim al-Akhlaq lil Ibn Abi al-Dunya (d. 281 AH)
+	- Musnad al-Harith (d. 282 AH)
+	- Gharib Hadith lil ibn Ishaq al-Harbi (d. 285 AH)
+	- Kitabul Sunnah lil Ibn Abi Asim (d. 287 AH)
+	- Al-Ahaad wal Al-Muthani lil Ibn Abi Asim (d. 287 AH)
+	- Al-Jihad lil Ibn Abi Asim (d. 287 AH)
+	- Al-Diyat lil Ibn Abi Asim (d. 287 AH)
+	- Al-Zuhd lil Ibn Abi Asim (d. 287 AH)
+	- Musnad al-Bazzar (d. 292 AH)
+	- Sunnah lil Muhammad Bin Nasr Al Maruzi (d. 294 AH)
+	- Tazeem Qadr al-Salaat lil Muhammad Bin Nasr Al Maruzi (d. 294 AH)
+	- Qiyaam al-Layl lil Muhammad Bin Nasr Al Maruzi (d. 294 AH)
+	- Fazail e Qur'an lil Ibn Al-Dharis (d. 294 AH)
+	- Sunan al-Nasa'i (d. 303 AH)
+	- Sunan al-Kubra lil Nasa'i (d. 303 AH)
+	- Khasais of Amir Al Momenin (d. 303 AH)
+	- Amal ul Yomul Laila lil Imam Nasa'i (d. 303 AH)
+	- Musnad Abu Ya'la (d. 307 AH)
+	- Kitab Al-Muntaqi lil ibn Al-Jarod (d. 307 AH)
+	- Musnad al-Rowayani (d. 307 AH)
+	- Tahdhib al-Athar lil al-Tabari (d. 310 AH)
+	- Al-Kani wal Asma lil Imam Dulaabi (d. 310 A.H.)
+	- Sahih Ibn Khuzaymah (d. 311 AH)
+	- Al-Tawhid lil Imam Nasa'i (d. 303 AH)
+	- Al-ilal lil Abu Bakr al-Khallal (d. 311 AH)
+	- Musnad al-Siraj (d. 313 AH)
+	- Musnad Abu Awaanah (d. 316 AH)
+	- Al-Masahif lil Ibn Abi Dawud (d. 316 AH)
+	- Al-Awsat lil imam Ibn al-Mundhir (d. 321 AH)
+	- Sharah Mushkilul Aasar lil Imam Al-Tahawi (d. 321 AH).
+	- Sharah Mani ul Aasar lil Imam Al-Tahawi (d. 321 AH).
+	- Al-Zuafa lil Imam Al-Uqaili (d. 322 AH)
+	- Al-ilal lil Imam ibne Abi Hatim (d. 327 AH)
+	- Al-Marasil lil imam ibne Abi Hatim (d. 327 AH)
+	- Makaram al-Akhlaq lil al-Kharati (d. 327 AH)
+	- Masawi al-Akhlaq lil al-Kharati (d. 327 AH)
+	- Musnad al-Haytham bin Kalib al-Shashi (d. 335 AH)
+	- Al Mujam us Sahaba lil ibn Qanee (d. 351 AH)
+	- Sahih Ibn Hibban (d. 354 AH)
+	- Al-Fawadi (Al-Ghilaniyat) lil Abi Bakr Muhammad bin Abdullah bin Ibrahim al-Shafi’i (354 AH)
+	- Al-Mu'jam al-Kabir (d. 360 AH)
+	- Al-Mu'jam al-Awsat (d. 360 AH)
+	- Al-Mu'jam as-Saghir (d. 360 AH)
+	- Al-Mu'ajm Al-Shamayin lil Al-Tabarani (d. 360 AH)
+	- Al-Dua lil Al-Tabarani (d. 360 AH)
+	- Al-Shariah lil Al-Tabarani (d. 360 AH)
+	- Amal Youm ul Laila lil Ibn Al-Sunni (d. 364 AH)
+	- Al-Kamil fi Zuafa al-rijal lil Imam Ibn Adi (d. 365 AH)
+	- Al-Azmah lil Abu Shaykh al-Asbahani (d. 369 AH)
+	- Akhlaq un Nabih lil Abu Shaykh al-Asbahani (d. 369 AH)
+	- Sunan Dar Al-Qutni (d. 385 AH)
+	- Al-Nuzul lil Imam Al-Daraqutni (d. 385 AH)
+	- Al-ilal lil Imam Al-Daraqutni (d. 385 AH)
+	- Al-ilzamat lil Imam Al-Daraqutni (d. 385 AH)
+	- Al-Tattabay lil Imam Al-Daraqutni (d. 385 AH)
+	- Al-Turgheeb fi Fazayl al-Amaal lil Imam Al-Daraqutni (385 AH)
+	- Al-Ibanah lil Imam Ibn Battah (d. 387 AH)
+	- Ghareeb al-Hadith lil Imam Al-Khattabi (d. 388 AH)
+	- Al-iman lil Imam Ibn Manda (d. 395 AH)
+	- Marifat us Sahaba lil Imam Ibn Manda (d. 395 AH)
+	- Al-Mustadrak ala al-Sahihayn by Imam Al-Hakim al-Nishapuri (d. 405 AH)
+	- Al-Fawaid lil Imam Muhammad bin Tammam al-Razi (d. 414 AH)
+	- Sharah Usul ul iteqad lil Imam Lal al-Ka'i (d. 418 AH)
+	- Hilyat al-Awliya lil Abu Nu'aym al-Isfahani (d. 430 AH)
+	- Marifat us Sahaba lil Abu Nu'aym al-Isfahani (d. 430 AH)
+	- Akhbar al-Isbahan lil Abu Nu'aym al-Isfahani (d. 430 AH)
+	- Dalael un Nabuwah lil lil Abu Nu'aym al-Isfahani (d. 430 AH)
+	- Amali lil Ibn Bushran (d. 430 AH)
+	- Al-Ibanah un Usul ul Diyanah lil Imam Sajzi (d. 444 AH)
+	- Fazail al-Sham lil Abi al-Hasan Ali ibn Muhammad al-Rabi (d. 444 AH)
+	- Musnad al-Shahab lil Imam Al-Qadhai (d. 454 AH)
+	- Al-Muhalla (d. 456 AH)
+	- Hajjatul Wida lil Imam Ibn Hazm(d. 456 AH)
+	- Sunan al-Kubra lil Al-Bayhaqi (d. 458 AH)
+	- Al-Sunan al-Sughra lil Al-Bayhaqi (d. 458 AH)
+	- Al-Sunan al-Wusta lil Imam Al-Bayhaqi (d. 458 AH)
+	- Dalail un Nabuwah lil Imam Al-Bayhaqi (d. 458 AH)
+	- Shu'ab al-Iman lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Baathe wan Nushur lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Dawaat al-Kabir lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Qadr lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Khilafiyat lil Imam Al-Bayhaqi (d. 458 AH)
+	- Azabul Qabr lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Mudkhal al-Sunan al-Kubra lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Ithiqad lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Adaab lil Imam Al-Bayhaqi (d. 458 AH)
+	- Hayat ul Anbia lil Imam Al-Bayhaqi (d. 458 AH)
+	- Al-Tamhid lil Imam Ibn 'Abd al-Barr (d. 463 AH
+	- Jami' Bayan al-'Ilm wa Fadlihi lil Imam Ibn 'Abd al-Barr (d. 463 A.H.)
+	- Al-Rahla fi Talb al-Hadith lil Al-Khatib al-Baghdadi (d. 463 AH)
+	- Al-Iqtiza ul ilm lil Al-Khatib al-Baghdadi (d. 463 A.H.)
+	- Asbabul Nuzul lil Imam Abul Hasan Ali Al-Wahidi (d. 468 AH)
+	- Dhimm-e-Kalam wa Ahlaho lil Abu Isma'il Al-Harawi (d. 481 AH)
+	- Sharah us Sunnah lil Imam Al-Baghawi (d. 516 AH)
+	- Al-Abatil wal Manakir lil Imam al-Jawzjani (d. 543 AH)
+	- Musnad al-Firdous (d. 558 AH)
+	- Salat and Tahajjud lil imam Ashabili (d. 582 AH)
+	- Al-itebar fil Nasikh wal Mansookh minal Akhbar lil Imam Al-Haazmi (d. 584 AH)
+	- Al-Ahadith al-Mukhtarah lil Diya' al-Din al-Maqdisi (d. 643 AH)
+	- Al-Durra al-Thamaina fi Fazayl al-Madinah lil Ibn al-Najjar (d. 643 AH)
+
+- Secondary books of Hadiths (Secondary Hadith books are those books that have been selected, compiled, and collated from the Primary Hadith books and are not original collections.)
+
+	- Mishkat al-Masabih
+	- Riyadh al-Saaliheen (The Meadows of the Righteous)
+	- Bulugh al-Maram (Achievement of the Goal)
+	- Al-Jami' al-Saghir of Jalal al-Din al-Suyuti
+	- At-Targhib wat-Tarhib
+	- Masabih al-Sunnah
+	- Majma al-Zawa'id
+	- Kanz al-Ummal
+	- Zujajat al-Masabih
+	- Al-Mawdū'āt Al-Kubrā (A Great Collection of Fabricated Traditions)
+	- Silsilah Ahadith as-Sahihah of Shaykh al-Albani
+	- Al-Jami al-Kamil (The Authentic Hadith Encyclopaedia) of Ziya-ur-Rahman Azmi
+
+- Shia collections
+
+- Al-Kutub Al-Arb'ah, the Four books
+
+	- Kitab al-Kafi of Kulayni (divided into Usul al-Kafi, Furu al-Kafi and Rawdat al-Kafi)
+	- Man La Yahduruhu al-Faqih of Shaikh Saduq
+	- Tahdhib al-Ahkam of Shaikh Tusi
+	- Al-Istibsar of Shaikh Tusi
+
+- Primary Hadith Collection (Primary Hadith books are those books which are collected, compiled and written by author or their students themselves).
+
+	- The Book of Sulaym ibn Qays by Sulaym ibn Qays
+	- Kitab ul Momin by Hussain bin Saeed Ahwazi
+	- Al-Mahasin by Ahmad b. Muhammad al-Barqi
+	- Qurb al-isnad by Abd Allah b. Ja'far al-Himyari
+	- Al-Amali of Shaikh Tusi
+	- Al-Amali of Shaikh Saduq
+	- Al-Tawhid of Shaikh Saduq
+	- Uyoun Akhbar al-Ridha by Shaykh Saduq
+	- Tuhaf al-Uqul by Ibn Shu'ba Harrani
+	- Al-Amali of Shaikh Mufid
+	- Al-Amali of Al-Sharif al-Murtada
+	- Nahj al-Balaghah by Al-Sharif al-Radi
+	- Khasais of Al Aemmah by Al-Sharif al-Radi
+	- Daim al-Islam by Al-Qadi al-Nu'man
+	- Al-Ihtijaj by Abu Mansur Ahmad Tabrisi
+	- Kamil al-Ziyarat by Ibn Qulawayh
+	- Al Saqib Fi al-Manâqib by Ibn Hamaza Tusi
+	- Basâ'ir al-darajât by Sheikh Al-Safar al-Qummi
+
+- Books of the Infallibles
+
+	- Tafseer Quran by Imam Ali
+	- Book of Fatimah by Bibi Fatimah
+	- Al-Sahifa al-Sajjadiyya by Ali ibn Husayn Zayn al-Abidin
+	- Risalah al-Huquq by Ali ibn Husayn Zayn al-Abidin
+	- Sahifat al-Ridha by Ali al-Ridha
+	- Al-Risalah al-Dhahabiah by Ali al-Ridha
+	- Tafseer Imam Hasan Askari [Wikidata] by Imam Hasan al-Askari (Doubts about Authenticity)
+
+- Secondary books of Hadiths (Secondary Hadith books are those books which are not collected, compiled and written by author himself but rather they are selected from already existing Hadith books i.e Primary Hadith books)
+
+	- Al-Wafi by Mohsen Fayz Kashani
+	- Wasā'il al-Shīʿa by Shaikh al-Hur al-Aamili
+	- Bihar al-Anwar by Allama Majlesi
+	- Haq ul-Yaqeen by Allama Majlisi
+	- Ayn al-Hayat by Allama Majlisi
+	- Ghurar al-Hikam wa Durar al-Kalim by Abdul Wahid al-Tamimi
+	- Mustadrak al-wasa'il by Mirza Husain Noori Tabarsi
+	- Safinat al-bihar by Shaykh Abbas Qumi
+	- Mustadrak safinat al-bihar by Shaykh 'Ali Namazi
+	- Jami' ahadith al-Shi'a by Hossein Borujerdi
+	- Nahj-al feṣāḥa by Abul Qasem Payandeh
+	- Mizan Al Hikma [Wikidata] by Mohammad Reyshahri
+	- Kitab Al-Hayat [Wikidata] by Muhammad Rida Hakimi
