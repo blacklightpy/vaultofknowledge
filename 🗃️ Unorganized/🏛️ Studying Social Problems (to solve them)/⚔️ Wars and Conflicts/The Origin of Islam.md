@@ -183,6 +183,7 @@
 	- The Muslims commenced a 25-day siege against they Banu Qurayza's fortress. Finally both sides agreed to an arbitration.
 	- The chosen judge was a former ally of Banu Qurayza, Sa'd ibn Muadh, who was now a Muslim. Sa'd was wounded in battle and would soon die. Though his fellow chiefs asked him to spare their former allies, he decided to kill all of them as they violated the social order and failed to honour the agreement to protect the town.
 	- Although Sa'd judged according to his own views, it was consistent with Deuteronomy 20:12-14 (This was not for Jews however, this was against non-Jews)
+		- 
 	- They were all beheaded (700 men)
 	- This wasn't unusual for the normal behaviour in Arabia at the time. The Muslims were at the threat of extinction and wanted to send this as a message to anyone who would try to betray them in the future. It is not sure that both the parties could've behaved in any other way at the time.
 	- Mohammed did not confuse the behaviour of the clans with Judaism
