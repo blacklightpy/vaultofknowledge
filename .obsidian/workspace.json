@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -271,7 +271,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shafi'i",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,8 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -310,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -339,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md"
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
               }
             }
           },
@@ -405,10 +404,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "69be31f4e2d2cbd7",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Semantic Range.md",
     "🗃️ Unorganized/General Notes/Islaam - Post.md",
+    "🗃️ Unorganized/General Notes/Semantic Range.md",
     "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/My Perspective on Islam.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
