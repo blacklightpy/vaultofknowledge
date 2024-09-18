@@ -11,12 +11,23 @@ The Qur'aan is a book of deception.
 Why do I say this?
 ## Slide 2
 
-People who follow Mohammed often say things such as that ""
+People who follow Mohammed often say things such as that "sex slaves can be given in marriage to free Muslims" in Qur'aan 4:X1.
 
-But Marriage 
+But marriage is not necessary when having relations with the concubines according to 
+
+The context in 4:X1 simply is in relation to providing believing slaves to Muslims who have not found a wife.
+
+## Slide 3
+
+Similarly, the context about Jihaad
 
 
+#todo Write about semantic ambiguity and polysemy of words, and the probability of these words.
+Write about how people cannot be forced to choose or reject an operating system by analyzing every aspect of it.
 
+But when it comes to religion, the interpretations of certain people pose a threat. And by the probability that I have mentioned above.
+
+A text that is from an intelligent source, and advocates for the well-being of sentient beings will not have such a large semantic distance.
 
 
 

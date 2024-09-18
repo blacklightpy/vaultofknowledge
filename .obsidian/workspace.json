@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Semantic Range.md",
+                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Semantic Range.md",
+                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -339,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Semantic Range.md"
+                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md"
               }
             }
           },
@@ -405,7 +405,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d07a37663fda2bd1",
+  "active": "69be31f4e2d2cbd7",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Semantic Range.md",
     "🗃️ Unorganized/General Notes/Islaam - Post.md",
