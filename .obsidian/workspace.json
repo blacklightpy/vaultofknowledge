@@ -227,9 +227,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d07a37663fda2bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Semantic Range.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -297,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
+                "file": "🗃️ Unorganized/General Notes/Semantic Range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
+                "file": "🗃️ Unorganized/General Notes/Semantic Range.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -326,7 +339,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md"
+                "file": "🗃️ Unorganized/General Notes/Semantic Range.md"
               }
             }
           },
@@ -392,10 +405,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "69be31f4e2d2cbd7",
+  "active": "d07a37663fda2bd1",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Versions of Quran.md",
+    "🗃️ Unorganized/General Notes/Semantic Range.md",
     "🗃️ Unorganized/General Notes/Islaam - Post.md",
+    "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/My Perspective on Islam.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Life of Mohammed.md",
@@ -419,7 +433,6 @@
     "🗃️ Unorganized/General Notes/Normative Ethics.md",
     "🗃️ Unorganized/General Notes/Conventions.md",
     "🗃️ Unorganized/General Notes/Prescriptive Ethics.md",
-    "🗃️ Unorganized/General Notes/Normativity.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
