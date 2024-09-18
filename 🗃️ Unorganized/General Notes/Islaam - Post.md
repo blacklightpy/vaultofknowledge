@@ -30,5 +30,8 @@ But when it comes to religion, the interpretations of certain people pose a thre
 A text that is from an intelligent source, and advocates for the well-being of sentient beings will not have such a large semantic distance.
 
 
+I know it is a bad time for Muslims, but the thing is, it's always a bad time for Muslims, because they always want to cause problems for non-Muslims. Oh, not the individuals, just a few in the community.
+
+
 
 
