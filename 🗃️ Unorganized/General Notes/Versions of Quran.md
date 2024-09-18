@@ -1,6 +1,6 @@
 # How they differ
 ## Glossary
-- Sab‘ah: Seven
+- Saba'ah: Seven
 - Harf / Ahruf: Style(s)
 - Kitab: Book (Quran refers to itself as Kitab)
 - Rawi / Ruwah: Transmitter(s)
