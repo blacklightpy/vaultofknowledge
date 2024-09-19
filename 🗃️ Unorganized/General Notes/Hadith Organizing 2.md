@@ -13,6 +13,8 @@ Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn 
 
 - The Comprehensive Library (Maktabah Shamilah) - http://shamela.ws
 - [[About Da'if Hadiths]]
+
+- [WHAT] https://sunnah.com/bukhari:1399 ("... to Pay me a She-KID"?)
 # Situations
 - Child Marriage
 	- Aisha's Age
