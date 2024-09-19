@@ -342,7 +342,8 @@
 
 - The Muslim Idea of Idol Worship
 	- Sophisticated Tool and Monkey Brain
-	- They thin
+		- When a monkey looks at a sophisticated tool
+	- They think everyone worships stones, but when they revolve around the Ka'aba, they worship a formless God
 
 - Muslim Hypocrisy
 	- They themselves are hypocritic, but you can't call them that, because they've owned the word hypocrisy
@@ -350,3 +351,20 @@
 	- They make stupid axioms, and if someone does not follow their axioms, they call the hypocrites
 	- And if this method is known to them, they'll come with some other crooked method to justify calling others hypocrites
 	- They are masters of deception, and all they wish
+
+- If one does not defend their liberties
+
+- Establishing humanness
+	- The levels of sentience is understood by their ability to understand us on a common level
+		- That is the way in which anyone should establish relative sentience
+	- How long one should converse is dependent on one's patience
+		- This is because some conversations are either intentionally drawn out long (for example, Muslims are not in for an equal negotiation, but one in which they maintain an upper hand, implying, they are not interested in peace, and that the negotiation was always due to a problem they themselves started), or are had with 
+
+- Islamophobia vs Homophobia
+	- I'm not Islamophobic, because a phobia implies an "irrational fear" of something.
+		- But I only have a "rational hatred" and "disgust" of Islam.
+		- I do not have a fear, because I myself believe events to be in a state of pre-destination.
+		- However, within the state of pre-destination, several events do happen, and Islam is one such disgusting culture that exists within our reality, in our time and age.
+	- When we speak of immorality, there's another group that points fingers at ideas like feminism, pride movement, and so on. The rationale about all of them is the same, but I'll stick to "homophobia", since we were talking about phobias.
+	- I defend everyone to have their liberties, and homosexuality is an idea that people are free to choose. That is, homosexuals do not impose a universal morality that goes 
+	- One may say that there are homosexuals that do say something like that. However, there are always a bunch of people in a community calling for extremist ide
