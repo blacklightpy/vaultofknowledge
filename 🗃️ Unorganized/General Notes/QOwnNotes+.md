@@ -370,4 +370,25 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- When we speak of immorality, there's another group that points fingers at ideas like feminism, pride movement, and so on. The rationale about all of them is the same, but I'll stick to "homophobia", since we were talking about phobias.
 	- I defend everyone to have their liberties, and homosexuality is an idea that people are free to choose. That is, homosexuals do not impose a universal morality that goes to say that everyone should become just like them.
 	- One may say that there are homosexuals that do say something like that. However, there are always a bunch of people in every community calling for extremist ideas, but they are not representatives of the whole community. However, opponents of the ideas like to intentionally misrepresent the premise to break down their concerns using the strawman fallacy. One need not pay any heed to them, as they do not display human levels of sentience.
-	- How does one then separate
+	- How does one then separate #todo 
+		- consensus - but only for words that are ambiguous.
+			- for words that have a lower semantic range, we'll choose the words directly
+			- for words that have a higher semantic range
+
+- How do we fix and bring up barbaric people
+	- Calling them criminals and sidelining them, while is logical, would be less efficient than educating them.
+	- There has to be an outlined method of establishing their levels of sentience and educating them.
+	- 
+	- What are the kinds of terrorists we can fix?
+		- We can fix those who do o
+
+
+- Some terrorists will laugh and have fun
+	- They also focus on pretending to be logical, and mocking people
+	- They try to wear people down to distract them, or sometimes, they are just brainless
+	- They will kill people and still continue to laugh
+	- Should they be killed? Yes.
+
+- On Human Rights Activists
+	- Some people will
+	- The blood of terrorists should be shed.
