@@ -378,6 +378,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 - How do we fix and bring up barbaric people
 	- Calling them criminals and sidelining them, while is logical, would be less efficient than educating them.
 	- There has to be an outlined method of establishing their levels of sentience and educating them.
+	- #todo : Levels - It's easy to tell them truths first, then slowly tell them the ambiguous aspects, and soon, you'll get a distribution of people who believe a portion of it.
 	- 
 	- What are the kinds of terrorists we can fix?
 		- We can fix those who do not follow set of axioms that we cannot disprove
