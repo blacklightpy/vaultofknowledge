@@ -380,8 +380,12 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- There has to be an outlined method of establishing their levels of sentience and educating them.
 	- 
 	- What are the kinds of terrorists we can fix?
-		- We can fix those who do o
+		- We can fix those who do not follow set of axioms that we cannot disprove
 
+- Axioms
+	- It is impossible to disprove a religion, because as we go deeper into philosophy, it ends up taking too many words to describe the reality, just as is the case with other sciences.
+	- If someone subscribes to a set of axioms that impose laws on to others, it becomes impossible to disprove them for this reason.
+	- If someone believes in such a set of axioms that cause harm to others, they may be considered as non-sentient.
 
 - Some terrorists will laugh and have fun
 	- They also focus on pretending to be logical, and mocking people
@@ -389,6 +393,8 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- They will kill people and still continue to laugh
 	- Should they be killed? Yes.
 
-- On Human Rights Activists
-	- Some people will
+- On boundless Human Rights Activists
+	- Some people will say that shedding blood is universally evil
+	- But that is also implying that soldiers are evil for killing terrorists
+	- These people would also wish that viruses should inhabit human bodies, or that the earth must not have a magnetic field, and should allow all forms of radiation into the atmosphere.
 	- The blood of terrorists should be shed.
