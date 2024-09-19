@@ -338,3 +338,15 @@
 			- Examples of numbers, magnets, etc.
 				- #todo: add simple example of using them for arbitrary fun purposes
 					- #todo: establish the legitimacy of "fun" and "wonder", and then derive it.
+
+
+- The Muslim Idea of Idol Worship
+	- Sophisticated Tool and Monkey Brain
+	- They thin
+
+- Muslim Hypocrisy
+	- They themselves are hypocritic, but you can't call them that, because they've owned the word hypocrisy
+	- That is, their words do not mean anything at all, 
+	- They make stupid axioms, and if someone does not follow their axioms, they call the hypocrites
+	- And if this method is known to them, they'll come with some other crooked method to justify calling others hypocrites
+	- They are masters of deception, and all they wish

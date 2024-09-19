@@ -241,8 +241,7 @@
               }
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,7 +270,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shafi'i",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Semantic Range.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Semantic Range.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Semantic Range.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -404,12 +404,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d07a37663fda2bd1",
+  "active": "b0dcba11c647df58",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
+    "🗃️ Unorganized/General Notes/Semantic Range.md",
     "🗃️ Unorganized/General Notes/My Perspective on Islam.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Islaam - Post.md",
-    "🗃️ Unorganized/General Notes/Semantic Range.md",
     "🗃️ Unorganized/General Notes/Versions of Quran.md",
     "🗃️ Unorganized/General Notes/Life of Mohammed.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
@@ -428,7 +429,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Child Marriage in Religions.md",
     "🗃️ Unorganized/General Notes/Normative Ethics.md",
     "🗃️ Unorganized/General Notes/Conventions.md",
     "🗃️ Unorganized/General Notes/Prescriptive Ethics.md",
