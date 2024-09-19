@@ -1,5 +1,5 @@
-Related concepts: Semantic Ambiguity, Semantic Distance (what I coined), Polysemy
-
+Related concepts: Semantic Ambiguity, Semantic Distance (what I coined), Polysemy, [[Semantic Evolution]]
+## ChatGPT Notes
 > Me:
 > 
 > If I tell someone to shoot to the goalpost and back, he may either sprint to the goalpost and return, or take a gun and shoot the goalpost and report back to me. But he will not try to fly to the moon because that's how he interpreted my statement. This points at the fact that there is a certain semantic ambiguity to words, however, they are also confined to a certain distance. How can one quantitatively measure such a semantic distance? And if semantic distance is not the right word for this because some other word exists, what is it?
