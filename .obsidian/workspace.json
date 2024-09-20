@@ -255,7 +255,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
+                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -305,7 +305,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "indefinite ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -327,8 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -344,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
+                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -361,7 +360,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
+                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -373,7 +372,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Hoors for Jihad.md"
+                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md"
               }
             }
           },
@@ -441,8 +440,8 @@
   },
   "active": "70362efa315772ce",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
+    "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "🗃️ Unorganized/General Notes/Semantic Evolution.md",
