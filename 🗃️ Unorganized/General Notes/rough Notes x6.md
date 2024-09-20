@@ -28,7 +28,7 @@ See what it says, only the blood of Muslim people.
 
 > There is a prohibition, a warning and a threat against killing the Mu`ahid, i.e., non-Muslims who have a treaty of peace with Muslims
 
-Who are the Mu’aahid? It only includes the Dhimmah, and the Mushrikeen who come to Daar Al-Islaam to learn about Islaam. But after they learn, they won’t later have a second chance to keep treaty. Because as per many Hadeeths (**Jami at-Tirmidhi 871, **Jami at-Tirmidhi 3092**, and many others are in Arabic and in Siyaar (Biographies)), the treaties always have to be fixed term, and are only to be considered a ceasefire, because Jihad al-Talab is necessary worldwide. As for indefinite term treaties, they can be broken anytime, according to Surah At-Tawbah / Al-Bara’ah Ayah 1 (9:1). Also see its Tafseer by Ibn Katheer.
+Who are the Mu’aahid? It only includes the Dhimmah, and the Mushrikeen who come to Daar Al-Islaam to learn about Islaam. But after they learn, they won’t later have a second chance to keep treaty. Because as per many Hadeeths (**Jami at-Tirmidhi 871, **Jami at-Tirmidhi 3092**, and many others are in Arabic and in Siyaar (Biographies)), the treaties always have to be fixed term, and are only to be  considered a ceasefire, because Jihad al-Talab is necessary worldwide. As for indefinite term treaties, they can be broken anytime, according to Surah At-Tawbah / Al-Bara’ah Ayah 1 (9:1). Also see its Tafseer by Ibn Katheer.
 
 > Al-Bukhari recorded that `Abdullah bin `Amr said that the Prophet said,
 > 
