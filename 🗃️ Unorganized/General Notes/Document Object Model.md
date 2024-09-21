@@ -74,10 +74,14 @@ The Document Object contains standard function to query elements by `name`, `cla
 - By Tag: `getElementsByTagName(tag)`
 - By Tag and Namespace: `getElementsByTagNameNS(namespace, tag)
 
-To find methods to modify the content of these elements and more, best refer the standard documentations:
+To find methods to modify the content of these elements and more, best refer the standard documentations and guides:
+## Standards
 - [W3C (World Wide Web Consortium)](https://whatwg.org/): Generic Web Standards
 	- The HTML Working Group brings WHATWG HTML and DOM review drafts to W3C Recommendations
 - [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org/): The Living HTML Standard, DOM and Fetch
 - [ECMA (European Computer Manufacturers Association)](https://ecma-international.org/): ECMAScript Standard, which JavaScript is based on
 - [Khronos Group](https://www.khronos.org/): Defines graphics standards such as WebGL (as well as OpenGL, Vulkan, etc.)
-- [MDN (Mozilla Develop
+- [MDN (Mozilla Developer Network) Web Docs | References](https://developer.mozilla.org/en-US/): Freely maintains active documentations of HTML, CSS and JS
+## Guides
+- [MDN (Mozilla Developer Network) Web Docs | Guides](https://developer.mozilla.org/en-US/docs/Learn): Freely guides for learning web development with HTML, CSS, JS and Web Frameworks
+- [W3Schools](w3schools.com): An often outdated, but simple free educational site for newbies, with courses on HTML, CSS and JS
