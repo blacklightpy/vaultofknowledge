@@ -300,9 +300,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a79792ca9b67ba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -370,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
+                "file": "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,7 +400,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
+                "file": "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -399,7 +412,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md"
+                "file": "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md"
               }
             }
           },
@@ -465,10 +478,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bb9f50c37746dc72",
+  "active": "7a79792ca9b67ba0",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
+    "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
     "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
+    "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
     "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
     "🗃️ Unorganized/General Notes/US Secret Services.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Timeline of History.md",
@@ -492,7 +506,6 @@
     "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
-    "🗃️ Unorganized/General Notes/Semantic Evolution.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
