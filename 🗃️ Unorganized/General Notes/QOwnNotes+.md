@@ -399,3 +399,8 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- But that is also implying that soldiers are evil for killing terrorists
 	- These people would also wish that viruses should inhabit human bodies, or that the earth must not have a magnetic field, and should allow all forms of radiation into the atmosphere.
 	- The blood of terrorists should be shed.
+		- I guess, I can stick to the no-war principle (Have to explore it)
+
+- Sentient and Semi-Sentient Beings
+	- Sentient beings do not believe in retributive justice, as they've transcended beyond that
+	- All beings are born semi-sentient

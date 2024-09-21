@@ -314,8 +314,7 @@
               }
             }
           }
-        ],
-        "currentTab": 23
+        ]
       }
     ],
     "direction": "vertical"
@@ -383,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -412,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -478,9 +477,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7a79792ca9b67ba0",
+  "active": "b0dcba11c647df58",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
+    "🗃️ Unorganized/General Notes/Morality.md",
     "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
     "🗃️ Unorganized/Religions/Hinduism/Mahabharata.md",
     "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
@@ -505,7 +505,6 @@
     "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
     "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing 2.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
