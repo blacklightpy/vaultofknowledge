@@ -287,35 +287,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e307433095400a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3017147597e14e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Document Object Model.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -383,7 +357,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Document Object Model.md",
+                "file": "🗃️ Unorganized/General Notes/Drama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Document Object Model.md",
+                "file": "🗃️ Unorganized/General Notes/Drama.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -412,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Document Object Model.md"
+                "file": "🗃️ Unorganized/General Notes/Drama.md"
               }
             }
           },
@@ -478,19 +452,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3017147597e14e22",
+  "active": "6dc2f489e903cbfb",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Cross Browser Testing.md",
     "🗃️ Unorganized/General Notes/Document Object Model.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3 To-Do.md",
+    "🗃️ Unorganized/General Notes/Drama.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+    "🗃️ Unorganized/General Notes/Cross Browser Testing.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Web3 To-Do.md",
     "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/General Notes/Rough Notes X7.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Rough Notes X9.md",
-    "🗃️ Unorganized/General Notes/Drama.md",
     "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
     "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",

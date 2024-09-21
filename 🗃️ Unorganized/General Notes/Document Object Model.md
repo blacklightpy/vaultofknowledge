@@ -57,7 +57,7 @@ And typing `document.getElementById("p2").innerHtml` gets you the content of `p2
 
 "FREE ROBLOCKS"
 # The DOM Class
-All methods are part of the `Document` class, which can be referenced by the object `document`.
+All methods are part of the `Document` class, which can be used by the object `document`. The `document` object, also referenced under the `window` object as `window.document` is created by a browser when a page is loaded.
 
 So, all methods are accessed by typing `document.method_name()`.
 For example: `document.getElementById(id)`
