@@ -80,4 +80,4 @@ To find methods to modify the content of these elements and more, best refer the
 - [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org/): The Living HTML Standard, DOM and Fetch
 - [ECMA (European Computer Manufacturers Association)](https://ecma-international.org/): ECMAScript Standard, which JavaScript is based on
 - [Khronos Group](https://www.khronos.org/): Defines graphics standards such as WebGL (as well as OpenGL, Vulkan, etc.)
-- 
+- [MDN (Mozilla Develop
