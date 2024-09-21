@@ -19,4 +19,14 @@ Counter Example: If people with a mental disorder believe in some things, I do n
 
 Explanation: In order to say that morality is objective, one has to define what morality is. It is the sense of what is good and bad, by a person. In order to sense something as good or bad, a person should have self-awareness. But feelings of self-awareness alone will only let a person make decisions that are important to themselves. In order to build a society, the beings that make up the society must be sentient, and that means they should be able to understand each other as having the same qualities.
 
-All humans have desires that can't all be fulfilled at once, even by cooperation, because of natural events. So, people agree to cooperate upon a law based on their social norms, and those who violate it would be punished for the breach of trust. But since 
+All humans have desires that can't all be fulfilled at once, even by cooperation, because of natural events. So, people agree to cooperate upon a law based on their social norms, and those who violate it would be punished for the breach of trust. But since the norms are what apply to the most number of people, the concerns of the minorities will always go unnoticed. It is not that a law inclusive of them cannot be made, but that it takes time for us to incorporate all nuances into any philosophical model. This is exactly why science is incomplete, and is only understood better over time.
+
+But if the law is considered as divine in an attempt to standardize it, it prevents any further improvement of the law to suit other people, thus ensuring that the law that the powerful majority followed at a moment in time would become the law. For this reason, it is not morally rational for a community of sentient beings to accept the
+
+If a law was narrated by someone, the authenticity of it would be verified 
+
+# 4. There has to be one source
+Premise: Monotheistic People
+
+Counter Example: Father of Wi-Fi
+
