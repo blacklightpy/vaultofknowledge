@@ -1,3 +1,6 @@
+- Satan wouldn't create monotheism, he would create the pagan trinity.
+
+
 - They think the western way of life is immoral AND justify slavery as a way to fix it
 	- **When criticizing "slave" ownership, they say western partners have no ownership rights**
 	- They say that these women are not chaste (as if that's a universal problem)
