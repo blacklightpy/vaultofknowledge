@@ -16,10 +16,10 @@ It just represents the items in the HTML as trees.
 ```
          html
        /      \
-	  /        \
      /          \
    head        body
-  /    \       /  \
-title meta    h1   p
+  /    \      /    \
+title meta   h1     p
 ```
 
+So you can address them as `html.head.title`, etc.
