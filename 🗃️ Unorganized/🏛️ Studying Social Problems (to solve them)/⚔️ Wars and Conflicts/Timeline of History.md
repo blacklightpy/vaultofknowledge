@@ -655,7 +655,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Gutenberg invents the printing press
 ### Eurasia
 - The fourth crusade ended up capturing the Byzantine empire as part of the Latin empire and weakening Constantinople
-- 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
+- 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire under Sultan Mehmed II, and founded the Ottoman Empire, or Turkish Empire
 	- They were
 	- Ottomans banned India from the European spice trade
 	- They established the Ottoman Caliphate (fourth caliphate), as the successors of Sunni Islam
@@ -689,7 +689,6 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 1530 AD: Suleiman The Magnificent makes the Ottoman Empire big, and gets part of the holy land which was previously a part of the Seljuk Empire
 #### Russia
 - 1556 AD: Ivan the Terrible makes Russia big
-
 ## Time Period 17 (1500 - Present)
 ### Europe, Asia, America, Australia and Africa
 - 1503 AD: Portugal decided to control the entire Indian Ocean and control all the spice trades
