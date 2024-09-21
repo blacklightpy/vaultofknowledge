@@ -73,7 +73,7 @@ The relevant Hadiths are:
 
 - **Arabic Scheme by Dar-us-Salam (In Collection):** _Hadith 1465_
 - **Arabic Scheme by Dar-us-Salam (In Book):** _Book 17 (Chapter 24), Hadith 40_
-- **UCS-MCA Web English Translation (deprecated):** _Vol. 3, Book 15 (Chapter 24), Hadith 1456_
+- **USC-MSA Web English Translation (deprecated):** _Vol. 3, Book 15 (Chapter 24), Hadith 1456_
 
 **Grade:**
 
@@ -123,7 +123,7 @@ The relevant Hadiths are:
 
 - **Arabic Scheme by Dar-us-Salam (In Collection):** _Hadith 1465_
 - **Arabic Scheme by Dar-us-Salam (In Book):** _Book 17 (Chapter 24), Hadith 40_
-- **UCS-MCA Web English Translation (deprecated):** _Vol. 3, Book 15 (Chapter 24), Hadith 1456_
+- **USC-MSA Web English Translation (deprecated):** _Vol. 3, Book 15 (Chapter 24), Hadith 1456_
 
 **Grade:**
 

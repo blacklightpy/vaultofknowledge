@@ -287,9 +287,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e307433095400a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -335,7 +348,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -355,7 +369,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Drama.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +386,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Drama.md",
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -384,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Drama.md"
+                "file": "🗃️ Unorganized/General Notes/Rough Notes X3.md"
               }
             }
           },
@@ -450,10 +464,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "e307433095400a75",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Drama.md",
+    "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X3.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X7.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
+    "🗃️ Unorganized/General Notes/Rough Notes X9.md",
+    "🗃️ Unorganized/General Notes/Drama.md",
     "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
     "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
@@ -469,15 +489,9 @@
     "🗃️ Unorganized/General Notes/Life of Mohammed.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
-    "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Thoughts of Islamic Scholars.md",
     "🗃️ Unorganized/General Notes/Science of Hadith.md",
-    "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X9.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
