@@ -47,10 +47,10 @@
 
 # Quora
 
-Firstly, I want to write a little about the Trinity (Trimurti) and Trishakti. The Trimurti consists of Lord Shiva, Lord Vishnu and Lord Brahma. The Trishakti consists of their respective wives namely Shivani (Devi Parvati), Narayani (Maha Lakshmi), Brahmani (Divya Saraswati).
-
-According to the ancient texts, Devi Mahamaya (Adi Shakti) says, “ I am Shiva's trishul (trident). I am Vishnu's Sudarshana Chakra (disc) and I am Brahma’s Brahmastra.”
-
-Basically, Trishul, Chakra, Brahmastra etc. are the Kundalini Shakti of their respective owners. Shakti itself means Adi Shakti. If the Trimurti and Trishakti fight, then whole universe will get destroyed in about a nanosecond. So, they will never have a fight. As they are interdependent and ultimately the same. Shakti can never fight with Shaktidhara. Both Shakti and Shaktidhar maintain a balance to run the world.
-
-I hope that my answer helps you. Thank you for reading. Please forgive me if I made any mistake and please let me know through your comments.
+> Firstly, I want to write a little about the Trinity (Trimurti) and Trishakti. The Trimurti consists of Lord Shiva, Lord Vishnu and Lord Brahma. The Trishakti consists of their respective wives namely Shivani (Devi Parvati), Narayani (Maha Lakshmi), Brahmani (Divya Saraswati).
+> 
+> According to the ancient texts, Devi Mahamaya (Adi Shakti) says, “ I am Shiva's trishul (trident). I am Vishnu's Sudarshana Chakra (disc) and I am Brahma’s Brahmastra.”
+> 
+> Basically, Trishul, Chakra, Brahmastra etc. are the **Kundalini Shakti** of their respective owners. **Shakti** itself means **Adi Shakti**. If the Trimurti and Trishakti fight, then whole universe will get destroyed in about a nanosecond. So, they will never have a fight. As they are interdependent and ultimately the same. Shakti can never fight with Shaktidhara. Both Shakti and Shaktidhar maintain a balance to run the world.
+> 
+> I hope that my answer helps you. Thank you for reading. Please forgive me if I made any mistake and please let me know through your comments.
