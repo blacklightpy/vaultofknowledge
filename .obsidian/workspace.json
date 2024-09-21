@@ -274,9 +274,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dc2f489e903cbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Drama.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -305,7 +318,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "indefinite ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,8 +335,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -343,7 +355,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md",
+                "file": "🗃️ Unorganized/General Notes/Drama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +372,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md",
+                "file": "🗃️ Unorganized/General Notes/Drama.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -372,7 +384,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/rough Notes x6.md"
+                "file": "🗃️ Unorganized/General Notes/Drama.md"
               }
             }
           },
@@ -438,8 +450,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "70362efa315772ce",
+  "active": "44eef348059920d4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Drama.md",
+    "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
     "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
@@ -464,8 +478,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X9.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/Factors in Classifying Religions.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Electrochemistry/Electrochemistry.md",
-    "🗃️ Unorganized/General Notes/Rough Notes X.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
