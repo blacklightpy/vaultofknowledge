@@ -60,8 +60,7 @@ And typing `document.getElementById("p2").innerHtml` gets you the content of `p2
 All methods are part of the `Document` class, which can be referenced by the object `document`.
 
 So, all methods are accessed by typing `document.method_name()`.
-
-For example, `document.getElementById(id)`
+For example: `document.getElementById(id)`
 # Methods of Accessing DOM Elements in JavaScript
 ## To uniquely identify elements
 Only ID can be used to uniquely identify an element
@@ -75,3 +74,8 @@ The Document Object contains standard function to query elements by `name`, `cla
 - By Tag: `getElementsByTagName(tag)`
 - By Tag and Namespace: `getElementsByTagNameNS(namespace, tag)
 
+To find methods to modify the content of these elements and more, best refer the standard documentations:
+- [W3C](https://whatwg.org/): HTML
+- [WHATWG](https://whatwg.org/): The Living HTML Standard
+- [ECMA](https://ecma-international.org/): ECMAScript Standard, which JavaScript is based on
+- [Khronos](https://www.khronos.org/): Defines graphics standards such as WebGL (as well as OpenGL, Vulkan, etc.)
