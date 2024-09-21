@@ -305,8 +305,13 @@
             "id": "3017147597e14e22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Document Object Model.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -377,6 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Document Object Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,6 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Document Object Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -403,7 +410,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Document Object Model.md"
+              }
             }
           },
           {
@@ -470,6 +479,7 @@
   },
   "active": "3017147597e14e22",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Document Object Model.md",
     "🗃️ Unorganized/General Notes/Rough Notes X3.md",
     "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
@@ -495,7 +505,6 @@
     "🗃️ Unorganized/General Notes/Letters Mohammed Sent to Rulers.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Thoughts of Islamic Scholars.md",
-    "🗃️ Unorganized/General Notes/Science of Hadith.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
