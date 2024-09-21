@@ -2,5 +2,5 @@
 > 
 > In the year 947, indiction 9, the Arabs invaded the whole of Syria and went down to Persia and conquered it. The Arabs climbed the mountain of Mardin and **killed many monks there in [the monasteries of] Qedar and Bnata. There died the blessed man Simon, doorkeeper of Qedar, brother of Thomas the priest.**
 > 
-> -Thomas the Presbyter _The Chronicle of 640_
+> - Thomas the Presbyter _The Chronicle of 640_
 

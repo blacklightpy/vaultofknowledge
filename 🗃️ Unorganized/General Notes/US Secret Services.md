@@ -1,0 +1,8 @@
+- FBI (Federal Bureau of Investigation)
+	- HUMINT (U.S. Citizens)
+- CIA (Central Intelligence Agency)
+	- HUMINT (Foreign Citizens)
+- NSA (National Security Agency)
+	- SIGINT / ELINT
+- DIA (Defense Intelligence Agency)
+- Pentagon (US Defence Headquarters)
