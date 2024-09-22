@@ -1,1 +1,1 @@
-I would say, the universe consists of elements like People, etc., just as 
+I would say, the universe consists of elements like People, Rain, etc. as fundamental, even though they can be seen to be comprised of smaller parts, just as I could say (A+B), (A-B), numbers and division are fundamental, even though A+B and A-B can be said to be comprised of combinations of -B, A and B.

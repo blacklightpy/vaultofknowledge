@@ -5,4 +5,3 @@ By calling it Islam, I would be associating all my words to the idea of "submiss
 The specific religion and law provided by Mohammed is what I consider problematic.
 
 And the word Allah, although it means "one god" in conventional speak, it's literal meaning is "the one to be worshipped".
-
