@@ -190,10 +190,10 @@
 		- As per the Quran, the problem was not Judaism, but Mohammed's belief that they modified the Torah: _We sent down the Torah, in which there is guidance and light, by which the Prophets who surrendered to God's will provided judgments for the Jewish people. Also, the rabbis and doctors of the Law (did likewise), according to that portion of God's Book with which they were entrusted, and they became witnesses to it as well…. Whoever does not judge by what God has sent down (including the Torah), they are indeed unbelievers. (5:44)_
 # More info
 - The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
-- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
+- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases. [EDIT: But hey, what about the Sanhedrin?]
 - Usage of the Eye for an Eye concept (law of reciprocal justice)
 	- Use in Babylonian "Code of Hammurabi"
 	- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
-- The ayahs were revealed during prayer sessions, with the direction of prayer changing from facing Jerusalem to the Kaaba in Mecca during one such session, when the ayahs 2:144, 2:149 and 2:150 were revealed.
+- The Ayahs were revealed during prayer sessions, with the direction of prayer changing from facing Jerusalem (referred to as al-Masjid al-Aqsa) to the Kaaba (referred to as al-Masjid al-Haram) in Mecca during one such session, when the Ayahs 2:144, 2:149 and 2:150 were revealed.
 - Other Jewish clans who signed the treaty continued to live in peace long after Medina became the capital of Arabia. Some Jewish people converted to Islam, but most people didn't. Theologically, they couldn't accept Mohammed as their messenger, and waited for a prophet to emerge from their own people.
 - The exiled Banu Nadir and Banu Qaynuqa later pledged loyalty to Mohammed.

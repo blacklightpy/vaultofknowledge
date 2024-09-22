@@ -25,13 +25,17 @@
 	- Battles Mohammed started
 		- Battle of Badr [Mohammed won against Quraysh]
 		- Battle of Uhud [Mohammed lost against Quraysh]
-		- Exile of Banu Qay
+		- Exile of Banu Qaynuqa
+		- Exile of Banu Nadir
+		- Battle of Trench [Mohammed won against Quraysh]
+		- Genocide of Banu Qurayzah [For allying with Banu Quraysh; by a false interpretation of Halakha]
+		- 
 	- Having a dream to do Hajj (or to capture it?)
 	- Treaty at Hudaibiyyah and his Violation of It
 	- Not Stopping Abu Basir, the Muslim from Crimes
 	- Opportunistic Capture of Mecca and Killing of Apostates
 	- Attacking Banu Nadir
 	- Attacking Banu Mustaliq and the Capture of Juwarriyah
-	- Capture of Saffiya
+	- Attacking Khaybar and the Capture of Saffiya
 	- Poisoning by Zainab
 	- Death
