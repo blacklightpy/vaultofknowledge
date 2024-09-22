@@ -21,7 +21,7 @@
 	- "Maghazi" by Musa bin 'Uqbah
 	- "Sirah" by Sulayman bin Tarkhan
 - Undisputed
-	- Ar-Raheeq Al-Makhtum (The Sealed Nectar) by Safi-ur-Rahman al-Mubarakpuri
+	- Ar-Raheeq Al-Makhtum (The Sealed Nectar) by Safi-ur-Rahman al-Mubarakpuri (Indian Scholar)
 		- Most Popular
 	- A Biography of the Prophet of Islam (2 Vols. Set) by Mahdi Rizqullah Ahmad, translated by Syed Iqbal Zaheer, published by Darussalam.
 		- Most Authentic, because it does source analysis)

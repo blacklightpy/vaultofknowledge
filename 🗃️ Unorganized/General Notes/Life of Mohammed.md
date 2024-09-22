@@ -14,3 +14,24 @@
 	- Capture of Juwarriyah
 	- Capture of Saffiyah
 	- Death
+
+# Evil Timeline
+- Events at Mecca
+	- Revelation
+	- Disturbing People
+	- Demonizing Abu Lahab by name in His Cult Text
+	- Getting Kicked Out
+- Events at Medina
+	- Battles Mohammed started
+		- Battle of Badr [Mohammed won against Quraysh]
+		- Battle of Uhud [Mohammed lost against Quraysh]
+		- Exile of Banu Qay
+	- Having a dream to do Hajj (or to capture it?)
+	- Treaty at Hudaibiyyah and his Violation of It
+	- Not Stopping Abu Basir, the Muslim from Crimes
+	- Opportunistic Capture of Mecca and Killing of Apostates
+	- Attacking Banu Nadir
+	- Attacking Banu Mustaliq and the Capture of Juwarriyah
+	- Capture of Saffiya
+	- Poisoning by Zainab
+	- Death

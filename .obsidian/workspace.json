@@ -281,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -348,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
+                "file": "🗃️ Unorganized/General Notes/Life of Mohammed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md",
+                "file": "🗃️ Unorganized/General Notes/Life of Mohammed.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islaam - Post.md"
+                "file": "🗃️ Unorganized/General Notes/Life of Mohammed.md"
               }
             }
           },
@@ -453,8 +453,13 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "69be31f4e2d2cbd7",
+  "active": "1dee7b0ef846db59",
   "lastOpenFiles": [
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
+    "🗃️ Unorganized/General Notes/Life of Mohammed.md",
+    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+    "🗃️ Unorganized/General Notes/My Perspective on Islam.md",
+    "🗃️ Unorganized/General Notes/Islaam - Post.md",
     "🗃️ Unorganized/General Notes/Semantic Evolution.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
     "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
@@ -476,11 +481,6 @@
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Communication Technology/Signal Modulation Schemes.md",
     "🔮 World Building/Science and Engineering/Engineering Resources/Engineering Standards/Hardware Standards/Camera Interfaces.md",
     "🔮 World Building/Science and Engineering/Chemistry/Physical/Phosphor.md",
-    "🔮 World Building/Science and Engineering/Chemistry/Physical/Luminescence.md",
-    "🔮 World Building/Science and Engineering/Physics/Mechanics/Electrodynamics/Optics/Spectral Analysis/Incandescence.md",
-    "🔮 World Building/Philosophy/Creation of Drones.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Colour Theory.md",
-    "🔮 World Building/Creativity and Arts/Colour Theory/Working with Colours/Gamma Correction.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
