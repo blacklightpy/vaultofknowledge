@@ -8,7 +8,7 @@ Chromatic value/valence spaces are notable for incorporating the [[Opponent Proc
 - Chromatic value spaces
 	- In 1942, Adams suggested chromatic value colour spaces. Chromatic values, or chromance refers to the intensity of the [[Opponent Processes|opponent process]] responses and is derived from Adams' theory of olour vision.
 	- A chromatic value space consists of three components
-		- $V_Y$, the [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell-Sloan-Godlove value function]]
+		- $V_Y$, the [[Munsell Colour System|Munsell-Sloan-Godlove value function]]
 		  $V_Y^2=1.4742Y-0.004743Y^2$
 		- $V_X-V_Y$, the red-green chromaticity dimension
 		- $V_Z-V_Y$, the blue-yellow chromaticity dimension
@@ -26,7 +26,7 @@ Chromatic value/valence spaces are notable for incorporating the [[Opponent Proc
 	  - As with chromatic value, these functions are plotted with a scale factor of $2^{1/2}$ to give nearly equal radial distance for equal changes in Munsell chroma.
 
 # Colour Difference
-Adam's colour spaces rely on the [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell value]].
+Adam's colour spaces rely on the [[Munsell Colour System|Munsell value]].
 
 Defining chromatic valence components
 $W_X=(\frac{x/x_n}{y/y_n}-1)V_J$ and
@@ -37,4 +37,4 @@ where $V_J$ is the Newhall-Nickerson-Judd-value function and the 0.4 factor is i
 
 In chromatic value colour spaces, the chromaticity components are $W_X=(V_X-V_Y)$ and $W_Z=V_Z-V_Y$. The difference is: $\Delta{E} =\sqrt{(0.23\Delta{V_Y})^2+(\Delta{W_X})^2+(0.4\Delta{W_Z})^2}$ 
 
-where $V_Y$, the [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell-Sloan-Godlove value function]] is applied to the tristimulus value indicated in the subscript.
+where $V_Y$, the [[Munsell Colour System|Munsell-Sloan-Godlove value function]] is applied to the tristimulus value indicated in the subscript.

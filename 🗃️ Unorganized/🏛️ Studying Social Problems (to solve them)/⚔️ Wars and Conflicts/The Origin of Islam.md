@@ -125,7 +125,7 @@
 > The situation changed after the arrival of two new [Arab](https://en.wikipedia.org/wiki/Arab "Arab") tribes, the ['Aws](https://en.wikipedia.org/wiki/Banu_Aws "Banu Aws") or Banu 'Aws and the [Khazraj](https://en.wikipedia.org/wiki/Khazraj "Khazraj"), also known as the Banu Khazraj. At first, these tribes were allied with the Jewish tribes who ruled the region, but they later revolted and became independent.
 > ### Under the 'Aws and Khazraj
 > 
-> Toward the end of the 5th century,[[18]](https://en.wikipedia.org/wiki/Medina#cite_note-19) the Jewish rulers lost control of the city to the two Arab tribes. The [Jewish Encyclopedia](https://en.wikipedia.org/wiki/Jewish_Encyclopedia "Jewish Encyclopedia") states that "by calling in outside assistance and treacherously massacring at a banquet the principal Jews", Banu Aus and Banu Khazraj finally gained the upper hand at Medina.
+> Toward the end of the 5th century, the Jewish rulers lost control of the city to the two Arab tribes. The [Jewish Encyclopedia](https://en.wikipedia.org/wiki/Jewish_Encyclopedia "Jewish Encyclopedia") states that "by calling in outside assistance and treacherously massacring at a banquet the principal Jews", Banu Aus and Banu Khazraj finally gained the upper hand at Medina.
 > 
 > Most modern historians accept the claim of the Muslim sources that after the revolt, the Jewish tribes became clients of the 'Aws and the Khazraj.
 > 

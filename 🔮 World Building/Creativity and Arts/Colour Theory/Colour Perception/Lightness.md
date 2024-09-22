@@ -2,9 +2,9 @@ Also known as luminance or intensity of a colour. It is the visual perception of
 
 But human vision's lightness perception is non-linear relative to light, so we have to use some alternative for perceptual lightness. Change of luminance can change the colour of light.
 
-In colour spaces like [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell]], [[Cylindrical Colour Space Models|HCL]] and [[CIELAB]], the lightness value achromatically constrains the maximum and minimum limits, and operates independently of the [[Hue]] and [[Chroma]].
+In colour spaces like [[Munsell Colour System|Munsell]], [[Cylindrical Colour Space Models|HCL]] and [[CIELAB]], the lightness value achromatically constrains the maximum and minimum limits, and operates independently of the [[Hue]] and [[Chroma]].
 
-The [[World Building/Creativity and Arts/Colour Theory/Colour Spaces/Munsell Colour System|Munsell value]] has long been used as a [[Uniform Colour Spaces|perceptually uniform]] lightness scale. [[CIELAB]] and [[CIELUV]] use $L^*$ as the symbol for perceptual lightness (in contrast with luminance $L$). [[CIECAM02]] uses $J$.
+The [[Munsell Colour System|Munsell value]] has long been used as a [[Uniform Colour Spaces|perceptually uniform]] lightness scale. [[CIELAB]] and [[CIELUV]] use $L^*$ as the symbol for perceptual lightness (in contrast with luminance $L$). [[CIECAM02]] uses $J$.
 
 In a [[Subtractive Colour Model|subtractive colour model]], the lightness changes to a colour through various [[Tint, shade and tone|tints, shades or tones]] can be achieved by adding white, black or grey respectively. This also reduces [[Saturation]].
 

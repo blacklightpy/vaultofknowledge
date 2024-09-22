@@ -84,4 +84,4 @@ To find methods to modify the content of these elements and more, best refer the
 - [MDN (Mozilla Developer Network) Web Docs | References](https://developer.mozilla.org/en-US/): Freely maintains active documentations of HTML, CSS and JS
 ## Guides
 - [MDN (Mozilla Developer Network) Web Docs | Guides](https://developer.mozilla.org/en-US/docs/Learn): Freely guides for learning web development with HTML, CSS, JS and Web Frameworks
-- [W3Schools](w3schools.com): An often outdated, but simple free educational site for newbies, with courses on HTML, CSS and JS
+- [W3Schools](https://w3schools.com): An often outdated, but simple free educational site for newbies, with courses on HTML, CSS and JS
