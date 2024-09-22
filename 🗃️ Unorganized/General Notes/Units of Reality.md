@@ -1,0 +1,1 @@
+I would say, the universe consists of elements like People, etc., just as 

@@ -1,0 +1,1 @@
+I was thinking, while I defined division as a fundamental operation in [[Units of Reality]], 
