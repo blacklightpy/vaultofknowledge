@@ -248,7 +248,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 		- That's only true by your axioms of what is defined as morality
 		- It's like saying, you can only be so and so if you do so and so (depends on ethics)
 	- Heaven and Hell are abstract ideas
-		- Give the original definition
+		- #todo Give the proper definition
 	- "It's true, only if you'd just read it this way"
 		- Of course, if you're manipulated, you can believe the manipulation
 		- (I wrote about this in QOwnNotes, I believe).

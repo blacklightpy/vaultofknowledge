@@ -292,17 +292,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3d917a6116098c4a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -369,6 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Finding Pi - My Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,6 +378,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Finding Pi - My Philosophy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -395,7 +389,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Finding Pi - My Philosophy.md"
+              }
             }
           },
           {
@@ -470,16 +466,17 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "3d917a6116098c4a",
+  "active": "da5a50bac609bc9f",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Units of Reality.md",
     "🗃️ Unorganized/General Notes/Debating Anti-Hindu Theologers.md",
+    "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
     "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Drama.md",
     "🗃️ Unorganized/General Notes/Common Misconceptions About Rationality.md",
-    "🗃️ Unorganized/General Notes/Units of Reality.md",
-    "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md",
     "🗃️ Unorganized/General Notes/Life of Mohammed.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/The Origin of Islam.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
@@ -497,7 +494,6 @@
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Jerk.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/cam synthesis.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
-    "🗃️ Unorganized/General Notes/Auxiliary Languages.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
