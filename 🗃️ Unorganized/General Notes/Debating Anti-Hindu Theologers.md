@@ -15,3 +15,11 @@ God having incarnations is good.
 - The Trinity represents Qualities. The Qualities are described as Masculine.
 - Shakti represents Power. The Powers are described as Feminine.
 
+
+- Mohammed's reign
+	- Khosrau II
+- Mohammed's death
+	- Statements by Mohammed
+- Expansion of Khilafat
+- The Four Imams
+- The Muhaddith
