@@ -11,12 +11,14 @@ To give a proper description, a circle has the property of [[curvature]]. Now fo
 I was thinking about what makes a line different from a curve. I haven't studied curvature myself, so I'll 
 
 [deviation of a line from a parallel line of equal length, as it curves into a circle, while maintaining the projected length]
+
 ```
 
-OOOOOOOOOOOO                 OOOOOOOOOOOOOOO
-                    VS           
-                                     
-                                  OOOOOO
-OOOOOOOOOOOO                   OOOOOOOOOOO    
-                             OOOO        OOOO
-            
+OOOOOOOOOOOO                OOOOOOOOOOOOOOOOOO
+                    VS                        
+OOOOOOOOOOOO                     OOOOOOOO     
+                               OOOOOOOOOOOO   
+                             OOOO        OOOO 
+                            OOO            OOO
+```
+
