@@ -16,10 +16,15 @@ God having incarnations is good.
 - Shakti represents Power. The Powers are described as Feminine.
 
 
-- Mohammed's reign
+- Mohammed's Reign
 	- Khosrau II
 - Mohammed's death
 	- Statements by Mohammed
-- Expansion of Khilafat
+- Divisions of Islam
+	- The Four Rightly Guided Khalifas
+		- Abu Bakr
+		- Umar
+		- Uthman
+		- Ali ibn Talib
 - The Four Imams
 - The Muhaddith
