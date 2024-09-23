@@ -292,9 +292,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d917a6116098c4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -361,7 +369,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Debating Anti-Hindu Theologers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +385,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Debating Anti-Hindu Theologers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -389,9 +395,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Debating Anti-Hindu Theologers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -466,10 +470,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "bb50d572848dd4d6",
+  "active": "3d917a6116098c4a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Debating Anti-Hindu Theologers.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
     "🗃️ Unorganized/General Notes/Arachnae.md",
     "🗃️ Unorganized/General Notes/Drama.md",
