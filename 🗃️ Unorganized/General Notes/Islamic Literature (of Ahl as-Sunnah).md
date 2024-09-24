@@ -16,6 +16,11 @@
 	- Ibn Hashim (condensed)
 - Al-Tabari (he too did not verify Isnaads)
 - Modern Books
+### Maghazi (Military Expeditions)
+- Ibn Ishaq is the best source
+	- Imam ash-Shaafa‘i (may Allah be pleased with him) said concerning him: "Whoever wants to acquire detailed knowledge of maghaazi has no choice but to rely on Muhammad ibn Ishaaq."
+	- Ibn ‘Adiyy said: "If Ibn Ishaaq had no virtue other than the fact that he diverted rulers from focusing on books from which nothing may be learned to focusing on the military campaigns of the Messenger of Allah (blessings and peace of Allah be upon him), how his mission began, and the beginning of creation, this virtue would be enough to put him ahead of others."
+	- Imam adh-Dhahabi said: "He was a great scholar of Maghaazi."
 ## What to read
 - Arabic (by students of Sahabah)
 	- "Maghazi" by Musa bin 'Uqbah
