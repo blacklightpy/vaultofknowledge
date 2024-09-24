@@ -18,9 +18,15 @@
 - Modern Books
 ### Maghazi (Military Expeditions)
 - Ibn Ishaq is the best source
-	- Imam ash-Shaafa‘i (may Allah be pleased with him) said concerning him: "Whoever wants to acquire detailed knowledge of maghaazi has no choice but to rely on Muhammad ibn Ishaaq."
-	- Ibn ‘Adiyy said: "If Ibn Ishaaq had no virtue other than the fact that he diverted rulers from focusing on books from which nothing may be learned to focusing on the military campaigns of the Messenger of Allah (blessings and peace of Allah be upon him), how his mission began, and the beginning of creation, this virtue would be enough to put him ahead of others."
-	- Imam adh-Dhahabi said: "He was a great scholar of Maghaazi."
+	- For
+		- Imam ash-Shaafa'i said: "Whoever wants to acquire detailed knowledge of Maghaazi has no choice but to rely on Muhammad ibn Ishaaq."
+		- Ibn 'Adiyy said: "If ibn Ishaaq had no virtue other than the fact that he diverted rulers from focusing on books from which nothing may be learned to focusing on the military campaigns of the Messenger of Allah (blessings and peace of Allah be upon him), how his mission began, and the beginning of creation, this virtue would be enough to put him ahead of others."
+		- Imam adh-Dhahabi said: "He was a great scholar of Maghaazi."
+	- Against
+		- He is a liar
+			- This is a false accusation which has not been proven, even though he was accused of this by Hishaam ibn ‘Urwah (d. 146 AH), Maalik ibn Anas (d. 179 AH) and Yahya al-Qattaan (d. 198 AH).
+	- General Opinion
+		- His Hadeeths are at least Hasan
 ## What to read
 - Arabic (by students of Sahabah)
 	- "Maghazi" by Musa bin 'Uqbah
