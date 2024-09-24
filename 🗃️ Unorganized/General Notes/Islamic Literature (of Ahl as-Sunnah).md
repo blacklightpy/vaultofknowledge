@@ -3,26 +3,41 @@
 ## Sunnah
 ### Ahadees (Reports)
 - Early Books
-	- Muwatta by Imam Malik ibn Anas
-		- **Label:** Muwatta Malik
-		- **Work Title:**
-		- **Translation:** 
-		- **Author:** 
+	- Muwatta (Made Easy) by Imam Malik ibn Anas
+		- **Label:** موطأ الإمام مالك / al-Muwatta al-Imam Malik
+		- **Title:** الموطأ / al-Muwatta
+		- **Translation:** Made Easy
+		- **Author:** مَالِك ***بْن** أَنَس* / Imam ***Malik** ibn Anas*
 	- Musnad by Imam Ahmed ibn Hanbal 
+		- **Label:** 
+		- **Title:** 
+		- **Author:** 
 - 3rd century AH Books (Saheeh)
 	- Saheeh by Imam al-Bukhari
-		- (Saheeh al-Bukhari)
+		- **Label:** 
+		- **Title:** 
+		- **Author:** 
 	- Saheeh by Imam Muslim
-		- (Saheeh Muslim)
+		- **Label:** 
+		- **Title:** 
+		- **Author:** 
 - 3rd century AH Books (Mixed)
 	- Sunan by Abu Dawood
-		- (Sunan Abu Dawood)
+		- **Label:** 
+		- **Title:** 
+		- **Author:** 
 	- Jami' by at-Tirmidhi
-		- (Jami' at-Tirmidhi)
+		- **Label:** 
+		- **Title:** 
+		- **Author:** 
 	- Sunan by an-Nasa'i
-		- (Sunan an-Nasa'i)
+		- **Label:** 
+		- **Title:** 
+		- **Author:** 
 	- Sunan by ibn Majah
-		- (Sunan ibn Majah)
+		- **Label:** 
+		- **Title:** 
+		- **Author:** 
 ### Seerah (Biographies)
 - Ibn Ishaq (he did not verify Isnaads)
 	- Ibn Hashim (condensed)
@@ -67,4 +82,4 @@
 - Tafseer al-Jalalayn
 - Tafseer al-Qurtubi
 - Tafseer al-Tabari
-- Tafseer al-Raz
+- Tafseer al-Razi
