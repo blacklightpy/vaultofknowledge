@@ -5,15 +5,19 @@
 - Salaaf
 	- They refer to the first three generations of Muslims.
 - Salaafism
-	- A conservative belief system that says Muslims should follow the Quran, Sunnah and Ijma (consensus) of the salaf.
+	- A conservative belief system that says Muslims should follow the Quran, Sunnah and Ijma' (Consensus) of the Salaaf.
 	- They are generally classified into three types
-	- 1) Purists/Quetists
-	- 2) Activitsts
-	- 3) Jihadists
-- Jihadism: Attempt to establish Islamism by force
-- Salafi Jihadism/jihadist-Salafism: The correct term for these attacks
-- Global Jihad: Jihadism with an international pan-Islamist scope.
-- Mujahid: One engaged in Jihad
+		- 1) Purists / Quietists
+		- 2) Activists
+		- 3) Jihaadists
+- Jihaadism
+	- Attempt to establish Islamic rule by force
+- Salaafi Jihaadism / Jihaadist Salaafism
+	- The correct term for these attacks
+- Global Jihaad
+	- Jihaadism with an international pan-Islamist scope.
+- Mujaahid
+	- One engaged in Jihaad
 # Groups
 - Taliban
 	- Also known by its state name Islamic Emirate of Afghanistan
@@ -37,17 +41,17 @@
 		- Insists on establishing Shariah law in territories
 		- Embraces Sunni sectarianism
 		- Does not cooperate with ideologically different factions
-		- Thinks IS is the only faction on the pure salafi path
+		- Thinks IS is the only faction on the pure Salaafi path
 - Islamic State of Iraq
 	- Formerly Al-Qaeda in Iraq
 - Lakshar-e-Taiba
 	- From Pakistan
-	- They are followers of Ahl-e-Hadith, a South Asian salafi jihadist group
-- Ahl-e-Hadith
+	- They are followers of Ahl-e-Hadeeth, a South Asian Salaafi Jihadist group
+- Ahl-e-Hadeeth
 	- They are a South Asian group
-	- They justify jihad with the Quranic ayah 2:216, which states: 
+	- They justify Jihaad with the Qur'aan's Ayah 2:216, which states: 
 		- "Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."
-		- But this is the ayah taken out of context, like all Jihadist groups do. Specifically, this was written for a time of war, when the Arabs were being under threat from the Quraysh tribes of Mecca. This ayah was to give them hope for war. It also had verses requiring them to protect all the civilians who have made peace with them, or taken refuge with them, and even the war was against people who had broken the peace treaty between tribes, titled the "Constitution of Medina". 
+		- But this is the Ayah taken out of context, like all Jihadist groups do. Specifically, this was written for a time of war, when the Arabs were being under threat from the Quraysh tribes of Mecca. This Ayah was to give them hope for war. It also had verses requiring them to protect all the civilians who have made peace with them, or taken refuge with them, and even the war was against people who had broken the peace treaty between tribes, titled the "Constitution of Medina". 
 - al-Qaeda
 	- Basically less religiously trained, but global
 	- Compared to IS (Source: [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):
@@ -56,7 +60,7 @@
 		- Calls for tolerance and gradualism in applying Islamic law
 		- De-emphasizes sectarianism
 		- Cooperates with a wide range of political and military factions
-		- Thinks IS is a neo-Kharijite deviation from salafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
+		- Thinks IS is a neo-Kharijite deviation from Salaafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
 - Boko Haram
 - al-Shabaab
 # Regional Resistance Groups

@@ -1,6 +1,9 @@
 # Primary Sources
 - Qur'aan
 ## Sunnah
+The Sunnah refers to the tradition, which is the second primary source of Islam. It is justified by the Qur'aan's verses that ask the people to "follow Allah and His Messenger".
+
+It includes the Ahadeeth / Ahadees (Narrations of Actions and Sayings of Mohammed and His Companions), as well as the Al-Seerah Al-Nabawiyyah / Seerah (Biography, of Mohammed).
 ### Ahadees (Reports)
 - Early Books
 	- Muwatta (Made Easy) by Imam Malik ibn Anas

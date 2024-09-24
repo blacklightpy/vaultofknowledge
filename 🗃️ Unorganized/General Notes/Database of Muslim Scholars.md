@@ -6,4 +6,7 @@ This is for my personal Knowledge
 ## Muhadditheen (Compilers of Narrations)
 
 ## The Four Imams of Jurisprudence
-## Mufassiroon
+
+## Mufassiroon (Authors of Exegetical Commentaries)
+
+## Khalifas (Rulers of Empires)
