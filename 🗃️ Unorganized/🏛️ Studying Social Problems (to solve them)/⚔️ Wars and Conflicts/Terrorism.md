@@ -16,4 +16,4 @@ Islamic terrorism is the most common form of terrorism nowadays. This has nothin
 
 Some salafists combined both and interpreted any deviation from salafism as a threat to Islam, and started violent jihad against such Muslim sects. And some other groups also took this one step further and decided that Islam should be spread to other parts of the world as a goal. And some others combine Salafist Jihadism with Islamic nationalism.
 
-- [[Salafi Jihadism]]
+- [[Salaafi Jihadism]]

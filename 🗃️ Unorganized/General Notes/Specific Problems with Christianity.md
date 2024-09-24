@@ -382,42 +382,42 @@ This is wishful thinking.
 ## Saheeh Ahadeeth
 - Ahadeeth
 	- Incitement against Jews (and Turks)
-		- Sahih al-Bukhari
-		- Sahih Muslim
+		- Saheeh al-Bukhari
+		- Saheeh Muslim
 	- Expulsion of Jews and Christians
-		- Sahih Muslim
+		- Saheeh Muslim
 			- **1767a (The Book of _Jihad_ and Expeditions, Hadeeth 75):** I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim.
 	- Fighting Disbelievers
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **392 (Prayers (Salat), Hadeeth 44):** Allah's Messenger (ﷺ) said, "I have been ordered to fight the people till they say: 'None has the right to be worshipped but Allah.' And if they say so, pray like our prayers, face our Qibla and slaughter as we slaughter, then their blood and property will be sacred to us and we will not interfere with them except legally and their reckoning will be with Allah."
 	- Demonizing Pictures
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **5957 (Dress, Hadeeth 173):** I purchased a cushion with pictures on it. The Prophet (came and) stood at the door but did not enter. I said (to him), "I repent to Allah for what (the guilt) I have done." He said, "What is this cushion?" I said, "It is for you to sit on and recline on." He said, "The makers of these pictures will be punished on the Day of Resurrection and it will be said to them, 'Make alive what you have created.' Moreover, the angels do not enter a house where there are pictures.'"
 	- Washing Stains
 		- https://old.reddit.com/r/exmuslim/comments/162n43m/what_are_the_worst_disturbing_hadiths_or_facts/jxzv846/ (11 Hadeeths - from Bukhari and Muslim)
 		- (If it had died, I'd have scraped it with my nails) https://sunnah.com/muslim:290
 	- Silence means Yes
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **6946 ((Statements made under) Coercion, Hadeeth 7):** I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the women be asked for their consent to their marriage?" He said, "Yes." I said, "A virgin, if asked, feels shy and keeps quiet." He said, "Her silence means her consent."
 	- Killing LGB
-		- Sunan Abi Dawud (Hasan Sahih)
+		- Sunan Abi Dawud (Hasan Saheeh)
 			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done.
 	- Hiding the sins of Muslims
-		- Sunan Ibn Majah (Sahih)
+		- Sunan Ibn Majah (Saheeh)
 			- **225 (The Book of the Sunnah, Hadeeth 225):** The Messenger of Allah said: Whoever relieves a Muslim of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection, and whoever conceals (the faults of) a Muslim, Allah will conceal him (his faults) in this world and the Day of Resurrection.
 	- Jihad against nonbelievers
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **25 (Belief, Hadeeth 18):** Allah's Messenger (ﷺ) said: "I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah."
 			- **3015 (Jihad, Hadeeth 224):** During some of the Ghazawat of Allah's Messenger (ﷺ) a woman was found killed, so Allah's Messenger (ﷺ) forbade the killing of women and children.
 				- Note how it doesn't say kill only those who fight, so all adult males are to be killed (ones with pubic hair).
 	- Killing all adult males who had pubic hair after battle
-		- Jami at-Tirmidhi (Sahih)
-			- **1584 (The Book on Military Expeditions, Hadeeth 41):** "We were presented to the Messenger of Allah (ﷺ) on the day of (the battle of) Quraizah. Whoever had pubic hair was killed and whoever did not was left to his way. I was of those who did not have pubic hair so I was left to my way." Abu 'Eisa said: This Hadith is Hasan Sahih. This is acted upon according to some of the people of knowledge. They consider pubic hair an indication of the age of responsibility, if it is not known whether he has had a wet dream, or his age. This is the view of Ahmad and Ishaq.
+		- Jami at-Tirmidhi (Saheeh)
+			- **1584 (The Book on Military Expeditions, Hadeeth 41):** "We were presented to the Messenger of Allah (ﷺ) on the day of (the battle of) Quraizah. Whoever had pubic hair was killed and whoever did not was left to his way. I was of those who did not have pubic hair so I was left to my way." Abu 'Eisa said: This Hadith is Hasan Saheeh. This is acted upon according to some of the people of knowledge. They consider pubic hair an indication of the age of responsibility, if it is not known whether he has had a wet dream, or his age. This is the view of Ahmad and Ishaq.
 	- Revelation that sex slaves are lawful, when Aisha protested
-		- Sunan an-Nasa'i (Sahih)
+		- Sunan an-Nasa'i (Saheeh)
 			- **3959 (The Book of the Kind Treatment of Women, Hadeeth 21):** It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 	- Censorship of Anal Sex Hadith
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **4526 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet), Hadeeth 50):** Ibn Umar said, "It means one should approach his wife in .."
 		- Against
 			- Mishkat al-Masabih
@@ -428,21 +428,25 @@ This is wishful thinking.
 				- **3195 (Book 13, Hadith 113)**
 			- Sunan Abi Dawud
 				- **2162 (Book 12, Hadith 117)**
-				- **3904 (Book 30, Hadith 1)** (Sahih, also mentions Musa)
+				- **3904 (Book 30, Hadith 1)** (Saheeh, also mentions Musa)
 			- Jami at-Tirmidhi
 				- **2980 (Book 47, Hadith 32)** (Hasan)
 				- **135 (Book 1, Hadith 135)** (Hasan)
 
 - Eyes are the leather strap of the anus
-	- Sunan Abi Dawud 203 In-book reference: Book 1, Hadith 203 (Hasan)
-	- Mishkat al-Masabih 315 In-book reference: Book 3, Hadith 32
+	- Sunan Abi Dawud 203
+		- In-book reference: Book 1, Hadith 203 (Hasan)
+	- Mishkat al-Masabih 315
+		- In-book reference: Book 3, Hadith 32
 	- Many more hadiths, some Da'if, some hasan, some ungraded
 
 - Deny those who follow Musa
-	- Sunan Abi Dawud 3904 In-book reference : Book 30, Hadith 1 (Sahih, also mentions Musa)
+	- Sunan Abi Dawud 3904 (Saheeh, also mentions Musa)
+		- In-book reference: Book 30, Hadith 1
 
 - Coitus Interruptus (with regards to selling slaves, and after taking them captive)
-	- Sahih Muslim 1438a In-book reference	 : Book 16, Hadith 146
+	- Saheeh Muslim 1438a
+	- In-book reference: Book 16, Hadith 146
 
 ## Weak Hadiths
 
@@ -651,7 +655,7 @@ I guess there are sects (denomications) based on historical events, and sects ha
 	- Suppose I could buy games for currency
 	- Will I be inclined to spend currency for games, or to hoard currency?
 
-Sahih Bukhari 9:89:296 states “The Prophet (ﷺ) came to know that one of his companions had given the promise of freeing his slave after his death, but as he had no other property than that slave, the Prophet (ﷺ) sold that slave for 800 dirhams and sent the price to him.”
+Saheeh Bukhari 9:89:296 states “The Prophet (ﷺ) came to know that one of his companions had given the promise of freeing his slave after his death, but as he had no other property than that slave, the Prophet (ﷺ) sold that slave for 800 dirhams and sent the price to him.”
 
 Two more:
 https://quranx.com/Hadith/Muslim/USC-MSA/Book-15/Hadith-4112/
@@ -704,8 +708,8 @@ Hell, it is even realistic for Christianity.
 
 This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
 
-He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
-**
+He also says that Fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and Atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
+
 Hindu answer (on Hindutva): https://qr.ae/pszIQD
 ## Comparison of Jews and Mohammedans
 
@@ -733,13 +737,13 @@ Hindu answer (on Hindutva): https://qr.ae/pszIQD
 	- Sun sets in a spring of warm water
 		- **Sunan Abi Dawud 4002 (Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at), Hadith 34)**
 	- Sun glides under it reaches its resting place under Allah's Throne, and prostrates until it's asked to rise, when it will go to the rising place. Then, it will be asked to go in the other direction
-		- **Sahih Muslim 159a (The Book of Faith, Hadith 304)**
+		- **Saheeh Muslim 159a (The Book of Faith, Hadith 304)**
 	- Sun always prostrates under Allah's Throne. Then it always prostrates and asks permission to rise, and it will be permitted. But one day, it will be denied the permission, and will be asked to rise in the other direction.
-		- **Sahih al-Bukhari 3199 (Characteristic of the sun and the moon, Hadith 10)**
+		- **Saheeh al-Bukhari 3199 (Characteristic of the sun and the moon, Hadith 10)**
 	- The fixed course of the sun (36.28) is under the Throne of Allah
-		- **Sahih al-Bukhari 7433 (Oneness, Uniqueness of Allah (Tawheed), Hadith 60)**
+		- **Saheeh al-Bukhari 7433 (Oneness, Uniqueness of Allah (Tawheed), Hadith 60)**
 	- The Sun prostrates underneath Allah's Throne
-		- **Sahih al-Bukhari 4802 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))**
+		- **Saheeh al-Bukhari 4802 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))**
 
 
 Things I want to cover
@@ -767,22 +771,23 @@ Things I want to cover
 - Aisha was playing on swings when she was called for consummation
 	- Sunan Abu Dawud 4933-4937
 - More Hadiths
-	- Sahih Muslim 1422a
+	- Saheeh Muslim 1422a
 		- Sunnah.com: I was playing with my playmates. I said ha ha (as if I was gasping) until my agitation was over.
-	- Sahih Muslim 1422c
+	- Saheeh Muslim 1422c
 		- Sunnah.com: "he" (instead of "she") - indicating mistranslations
-	- Sahih al-Bukhari 3894
+	- Saheeh al-Bukhari 3894
 		- Sunnah.com: I was breathless then. (After playing).
 - Prophet visited her family from the moment she could recall
-	- Sahih al-Bukhari 476 (86)
+	- Saheeh al-Bukhari 476 (86)
 		- Darusallam translation: She'd seen her parents following Islam since she hit puberty, and Prophet visited us not a day after.
 		- Translator translation: The word isn't puberty, but "since I could recall".
 		- Aishab Yuli's translation (464): I have no recollection of my parents doing anything but following Islam.
-	- Sahih al-Bukhari 2297
+	- Saheeh al-Bukhari 2297
 		- Darusallam translation: Prophet visited us from the moment I could recall.
 
 - Waiting period for divorce is only three months for girls above menstruating age
 	- Verse 65:4
+	- That is, for girls below it, there is no waiting period.
 	- For Jews, the similar idea (about virginity) was about rape.
 	- For Muslims, this is about divorce.
 
@@ -790,19 +795,19 @@ Things I want to cover
 	- Debating whether pre-pubescent girls can be divorced right away, or if one should wait for her to menstruate and then wait three months.
 		- (https://quran.com/ar/65:4/tafsirs/ar-tafsir-al-baghawi)
 
-- Fath al-Bari is ibn Hajar's commentary on al-Bukhari. He's one of the greatest scholars in Islam.
+- Fath ul-Bari is ibn Hajar al-Asqalani's Sharh (Commentary of Hadeeth) on Saheeh al-Bukhari. He's one of the greatest scholars in Islam.
 
 > Sunnah.com
 > 
-> Sahih al Bukhari 5134 Narrated Aisha:
+> Saheeh al Bukhari 5134 Narrated Aisha:
 > 
 > that the Prophet (ﷺ) married her when she was six years old and he consummated his marriage when she was nine years old. Hisham said: I have been informed that Aisha remained with the Prophet (ﷺ) for nine years (i.e. till his death).
 > 
-> Sahih al Bukhari 6130 Narrated Aisha:
+> Saheeh al Bukhari 6130 Narrated Aisha:
 > 
 > I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for Aisha at that time, as she was a little girl, not yet reached the age of puberty.) (Fath-ul-Bari page 143, Vol.13)
 
-- Fath-ul-Bari Tafsir on Hadith 6130 is on p. 543-544, Vol.10 on Archive.org
+- The Sharh on Hadith No. 6130 of Saheeh al-Bukhari is on Page Nos. 543-544 of Volume 10 of Fath ul-Bari, on Archive.org
 	- https://archive.org/details/FathUlBari./Fath_Ul_Bari_Vol_10/page/n543/mode/2up) 
 ### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
@@ -817,7 +822,7 @@ Things I want to cover
 - StackOverflow is built by Israeli/American Jew, who is openly gay
 - Well, Google search, and most of the web too is built by Jews and Americans. Alan Turing was gay.
 
-- Sahih Al-Bukhari (3094)
+- Saheeh Al-Bukhari (3094)
 	- Allah's Apostle said his property isn't to be inherited, but given to charity
 	- Abu Bakr took it for the purpose of giving it to charity
 	- Umar then took it to give it to charity
@@ -874,7 +879,7 @@ Things I want to cover
 	- **Video Type:** Prophet Salallahu Ali Wassalam His Ali Wassalam wife Aisha Ali Wasslam
 
 - Claim that Aisha was older: https://old.reddit.com/r/islam/comments/tptmn/the_ages_of_asma_bint_abi_bakr_and_aisha_bint_abi/
-	- It's from non-Sahih Hadith like Tafsir Ibn Kathir
+	- It's from non-Saheeh Hadith like Tafsir Ibn Kathir
 - Other claim, by Yaqeen Institute: https://yaqeeninstitute.org/tag/more-than-just-a-number-perspectives-on-the-age-of-aisha-ra (Papers, Video Collections, Infographic)
 - Others claim Bukhari isn't reliable - but that's a shortly held opinion
 
@@ -933,7 +938,7 @@ Things I want to cover
 	- 47:15 (delicious wine)
 
 - Sin is vital (Allah prefers those who repent rather than are righteous)
-	- Sahih Muslim 2748b, 2749
+	- Saheeh Muslim 2748b, 2749
 	- Riyad as-Salihin 1871, 422
 
 - Using a watermelon is better than hand (masturbation)
@@ -967,7 +972,7 @@ Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like p
 - Muslims believe God is so pure that he cannot possibly become human.
 
 - Lying is allowed (Taqiyya)
-	- Jami at-Tirmidhi 1939 (Sahih):
+	- Jami at-Tirmidhi 1939 (Saheeh):
 		- Asma bint Yazid narrated that the Messenger of Allah said: "it is not lawful to lie except in three cases: 
 			- Something the man tells his wife to please her,
 			- To lie during war, and
@@ -1070,11 +1075,11 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 # Hadiths 2
 - Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
 	- Sunan Abu Dawud **4928-4931**
-		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Da'if)
+		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Da'eef)
 		- Expel them from homes
 	- Verdict:
 		- The hadith on not killing effeminate men is weak
-		- But that on expulsion of hermaphrodites, effeminate men and tomboys are sahih.
+		- But that on expulsion of hermaphrodites, effeminate men and tomboys are Saheeh.
 		- So effeminate men are not safe.
 		- Hermaphrodites are said to be cursed.
 		- All of them are to be expelled.
