@@ -333,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -383,7 +383,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -399,7 +400,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -416,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -428,7 +429,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md"
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
               }
             }
           },
@@ -504,11 +505,12 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "44eef348059920d4",
+  "active": "be6ca144e27a7920",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Principle of Causality.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/The Ideal Woman in Islam is Like Sati.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
@@ -531,7 +533,6 @@
     "🗃️ Unorganized/General Notes/Semantic Evolution.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
     "🗃️ Unorganized/General Notes/Hoors for Jihad.md",
-    "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",

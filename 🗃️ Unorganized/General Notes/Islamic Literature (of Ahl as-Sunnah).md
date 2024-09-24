@@ -3,19 +3,31 @@
 ## Sunnah
 ### Ahadees (Reports)
 - Early Books
-	- Muwatta Malik
-	- Musnad Ahmed
+	- Muwatta by Imam Malik ibn Anas
+		- **Label:** Muwatta Malik
+		- **Work Title:**
+		- **Translation:** 
+		- **Author:** 
+	- Musnad by Imam Ahmed ibn Hanbal 
 - 3rd century AH Books (Saheeh)
-	- Saheeh al-Bukhari
-	- Saheeh Muslim
+	- Saheeh by Imam al-Bukhari
+		- (Saheeh al-Bukhari)
+	- Saheeh by Imam Muslim
+		- (Saheeh Muslim)
 - 3rd century AH Books (Mixed)
-	- Sunan Abu Dawood
-	- Jami at-Tirmidhi
+	- Sunan by Abu Dawood
+		- (Sunan Abu Dawood)
+	- Jami' by at-Tirmidhi
+		- (Jami' at-Tirmidhi)
+	- Sunan by an-Nasa'i
+		- (Sunan an-Nasa'i)
+	- Sunan by ibn Majah
+		- (Sunan ibn Majah)
 ### Seerah (Biographies)
 - Ibn Ishaq (he did not verify Isnaads)
 	- Ibn Hashim (condensed)
 	- Al-Tabari (he too did not verify Isnaads)
-		- Book: Tarikh al-Rasool wa'l-Muluk (The History of Prophets and Kings) by Al-Tabari
+		- Book: Tarikh al-Rasool wa'l-Muluk (The History of Prophets and Kings)
 - Modern Books
 ### Maghazi (Military Expeditions)
 - Ibn Ishaq is the best source
@@ -38,8 +50,8 @@
 	- A Biography of the Prophet of Islam (2 Vols. Set) by Mahdi Rizqullah Ahmad, translated by Syed Iqbal Zaheer, published by Darussalam
 		- Most Authentic, because it does source analysis)
 - For Western Readers
-	- Karen, Muhammad: A Biography of the Prophet (most important)
-	- Karen, Muhammad: A Prophet for Our Time
+	- "Muhammad: A Biography of the Prophet" by Karen Armstrong (most important)
+	- "Muhammad: A Prophet for Our Time" by Karen Armstrong
 
 - ChatGPT
 	- "In the Footsteps of the Prophet" by Tariq Ramadan
@@ -55,4 +67,4 @@
 - Tafseer al-Jalalayn
 - Tafseer al-Qurtubi
 - Tafseer al-Tabari
-- Tafseer al-Razi
+- Tafseer al-Raz

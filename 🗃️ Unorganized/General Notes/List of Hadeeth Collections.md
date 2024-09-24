@@ -7,7 +7,7 @@
 	- Muwatta Imam Malik (Malikis consider this over Sunan ibn Maajah in Kutub al-Sittah)
 		- **Author:** Imam Malik ibn Anas
 	- Sunan al-Darimi
-	- Riyad-us-Saliheen [6 Volumes]
+	- Riyadh as-Saliheen (The Meadows of The Righteous) [6 Volumes]
 		- **Author:** 
 - Kutub al-Sittah (The Authentic Six)
 	- Saahihaayn (Fully Saheeh Collections)
@@ -34,7 +34,7 @@
 			- **Author:** Fu'wad Abdul Baqi
 
 - Commentaries
-	- Explanation of Riyad-us-Saliheen [6 Volumes]
+	- Sharh Riyadh as-Saliheen [6 Volumes]
 		- **Author:** Mohammed bin Salih al-'Uthaymin
 	- Tuhfatul-Ahwadhi Bi Sharh Jami’ At-Tirmidhi [11 Volumes]
 		- **Author:** Shaykh Muhammad Abdur Rahman bin Abdur Raheem al-Mubarakapuri
