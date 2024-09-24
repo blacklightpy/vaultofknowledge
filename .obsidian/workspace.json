@@ -338,7 +338,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
+                "file": "🗃️ Unorganized/General Notes/Database of Muslim Scholars.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -413,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -442,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md"
+                "file": "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md"
               }
             }
           },
@@ -518,14 +518,14 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "0775ed92f458100c",
+  "active": "0a2ec7938a48162f",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Database of Muslim Scholars.md",
+    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
+    "🗃️ Unorganized/General Notes/Master List of Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Popular Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Master List of Hadeeth Collections.md",
-    "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
     "🗃️ Unorganized/General Notes/Principle of Causality.md",
-    "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/The Ideal Woman in Islam is Like Sati.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Quran Verses in Context.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
@@ -565,4 +565,6 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious 
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse"
+  ]
+}

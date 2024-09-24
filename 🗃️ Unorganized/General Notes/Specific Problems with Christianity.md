@@ -255,7 +255,6 @@ They justify that if God says so, killing people is moral.
 
 They say that death is everywhere and humans cannot be united.
 This is wishful thinking.
-
 ## Evils of Christianity
 - Salem Witch Trials (massacre of educated women)
 - Antisemitic Pogroms (massacre of Jews)
@@ -263,6 +262,10 @@ This is wishful thinking.
 - Persecution of LGBTQIA+ (dangerous to mental health, violation of humanity)
 - Terrorist attacks (minimal in the modern world, but radicals exist)
 # Quran Verses
+
+> [!NOTE] Fix Citation Format:
+> \[Surah X (Al-Surah Title) : Ayah N\]: "Verse Contents **Bold Contents** Rest of It"
+
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
@@ -347,7 +350,8 @@ This is wishful thinking.
 		- Many Tafsirs say that one can force slaves to do nikah, or marry them off without consent
 		- All Verses on "Right Hand Possesses"
 			- 33:50 (Mohammed can have sex with his Wives, Slaves, Cousins or Believing Women Who Ask to be his wives (without Mehr))
-			- Quran 33:50 Quran 23:5-6 Quran 70:27-30 Quran 4:24
+			- Quran 33.52, Quran 4.3, Quran 30.28, 16:71, 23:6
+			- Quran 23:5-6, Quran 70:27-30, Quran 4:24
 	- Treatment of Slaves
 		- If a slave woman is married by the owner, the children will be free
 		- If a slave woman is married to another man, the children will be slaves of the owner
