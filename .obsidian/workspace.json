@@ -306,8 +306,7 @@
               }
             }
           }
-        ],
-        "currentTab": 22
+        ]
       }
     ],
     "direction": "vertical"
@@ -374,7 +373,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +390,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -403,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md"
+                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
               }
             }
           },
@@ -479,7 +478,7 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "a95a7aec4835e0fd",
+  "active": "b0dcba11c647df58",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Principle of Causality.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",

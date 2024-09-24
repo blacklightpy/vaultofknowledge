@@ -197,6 +197,10 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 
 - The Nature of Our Brain That Allows Cognitive Dissonance
 	- [[Split Arguments used by Islam]]
+	- We do not process all the information at once
+		- For example, (my dad came to me, who was awake, and almost asked me if I was awake; he had it in his mind to wake me up)
+		- For another example, ()
+		- This is due to the [[Principle of Causality]].
 
 - [[The problem of Religious Tolerance]]
 
@@ -404,7 +408,3 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 - Sentient and Semi-Sentient Beings
 	- Sentient beings do not believe in retributive justice, as they've transcended beyond that
 	- All beings are born semi-sentient
-
-- We do not process all the information at once
-	- For example, 
-	- This is due to the [[Principle of Causality]].
