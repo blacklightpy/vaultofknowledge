@@ -5,8 +5,7 @@
 - Early Books
 	- Muwatta (Made Easy) by Imam Malik ibn Anas
 		- **Label:** موطأ الإمام مالك / al-Muwatta al-Imam Malik
-		- **Title:** الموطأ / al-Muwatta
-		- **Translation:** Made Easy
+		- **Title:** الموطأ / al-Muwatta (Made Easy)
 		- **Author:** مَالِك ***بْن** أَنَس* / Imam ***Malik** ibn Anas*
 	- Musnad by Imam Ahmed ibn Hanbal 
 		- **Label:** 
@@ -39,10 +38,22 @@
 		- **Title:** 
 		- **Author:** 
 ### Seerah (Biographies)
-- Ibn Ishaq (he did not verify Isnaads)
-	- Ibn Hashim (condensed)
-	- Al-Tabari (he too did not verify Isnaads)
-		- Book: Tarikh al-Rasool wa'l-Muluk (The History of Prophets and Kings)
+- Sirat Rasool Allah (Biography of The Messenger of The One To Be Worshipped) by ibn Ishaq
+	- **General Remarks:**
+		- He did not verify Isnaads, and only focused on collecting all known reports.
+	- **Opinions:**
+		- Imam ash-Shaafai'ee
+		- Imam 
+	- **Derivatives:**
+		- Ibn Hashim
+			- **General Remarks:**
+				- It is a condensed edition of ibn Ishaq's "Sirat Rasool Allah"
+			- **Opinions:** 
+		- Al-Tabari
+			- **Book:** Tarikh al-Rasool wa'l-Muluk (The History of Prophets and Kings)
+			- **General Remarks:**
+				- It is similar to ibn Ishaq's "Sirat Rasool Allah" in that it aimed at collecting, not in verifying Isnaads.
+			- **Opinions:** 
 - Modern Books
 ### Maghazi (Military Expeditions)
 - Ibn Ishaq is the best source
