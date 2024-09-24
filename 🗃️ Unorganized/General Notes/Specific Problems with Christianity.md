@@ -269,22 +269,34 @@ This is wishful thinking.
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
-		- 2:62 (But Jews cannot be, because they will all have to be killed before the Hour)
+		- [Surah 2 (al-Baqarah) : Ayah 62] (But Jews cannot be, because they will all have to be killed before the Hour)
 	- Against Jews and Polytheists, Supporting Christians
-		- 5:82
+		- [Surah 2 (al-Maidah) : Ayah 82] :-
 	- Against Jews and Christians
-		- 2:89 (The Jews deny everything that came afterward, may Allah condemn them)
-		- 2:96 (The Jews want to live forever, they are greedy)
-		- 2:102 (The Jews follow the magic of Solomon's period rather than Allah's word)
-		- 2:111-114 (Their proofs are invalid)
-		- 2:120 (Those who follow Jews or Christians would be misled)
-		- 2:125 (We won't follow you, we follow Abraham's faith, who wasn't a polytheist)
-		- 2:140 (Abraham's descendants were not Jews or Christians)
-		- 2:142, 144 (Proceeds to change prayer direction from Jerusalem to Mecca)
-		- 2:145-146 (They won't take your prayer direction, and the real ones recognize Mohammed as Prophet, while the others knowingly hide the truth)
-		- 5:14 (The Christians denied portions of the covenant)
-		- 5:18 (Jews and Christians claim to be the most beloved, but no, they are only humans *proceeds to do the same thing*)
-		- 5:51 (Do not take Jews or Christians as allies)
+		- [Surah 2 (al-Baqarah) : Ayah 89] :-
+			- The Jews deny everything that came afterward, may Allah condemn them
+		- [Surah 2 (al-Baqarah) : Ayah 96] :-
+			- The Jews want to live forever, they are greedy
+		- [Surah 2 (al-Baqarah) : Ayah 102] :-
+			- The Jews follow the magic of Solomon's period rather than Allah's word
+		- [Surah 2 (al-Baqarah) : Ayat 111-114]:
+			- Their proofs are invalid
+		- [Surah 2 (al-Baqarah) : Ayah 120] :-
+			- Those who follow Jews or Christians would be misled
+		- [Surah 2 (al-Baqarah) : Ayah 125] :-
+			- We won't follow you, we follow Abraham's faith, who wasn't a polytheist
+		- [Surah 2 (al-Baqarah) : Ayah 140] :-
+			- Abraham's descendants were not Jews or Christians
+		- [Surah 2 (al-Baqarah) : Ayat 142, 144] :-
+			- Proceeds to change prayer direction from Jerusalem to Mecca
+		- [Surah 2 (al-Baqarah) : Ayat 145-146] :-
+			- They won't take your prayer direction, and the real ones recognize Mohammed as Prophet, while the others knowingly hide the truth
+		- [Surah 2 (al-Maidah) : Ayah 14] :-
+			- The Christians denied portions of the covenant
+		- [Surah 2 (al-Maidah) : Ayah 18] :-
+			- Jews and Christians claim to be the most beloved, but no, they are only humans *proceeds to do the same thing*
+		- [Surah 2 (al-Maidah) : Ayah 51] :-
+			- Do not take Jews or Christians as allies
 	- Against Polytheists
 		- 6:23 (Saying that they lie about their beliefs on Judgement Day)
 		- 9:5 (Kill all the polytheists "who violate their treaties" (in sidenotes))
@@ -366,9 +378,9 @@ This is wishful thinking.
 			- God made every living thing (in Earth) out of water (21:30)
 			- God make Jinn from smokeless flame (55:15)
 				- Muslim claim: Jinn was made before earth
-# Hadeeths
-## Sahih Hadiths
-- Hadeeths
+# Ahadeeth
+## Saheeh Ahadeeth
+- Ahadeeth
 	- Incitement against Jews (and Turks)
 		- Sahih al-Bukhari
 		- Sahih Muslim
@@ -422,12 +434,12 @@ This is wishful thinking.
 				- **135 (Book 1, Hadith 135)** (Hasan)
 
 - Eyes are the leather strap of the anus
-	- Sunan Abi Dawud 203 In-book reference	 : Book 1, Hadith 203 (Hasan)
-	- Mishkat al-Masabih 315 In-book reference	 : Book 3, Hadith 32
+	- Sunan Abi Dawud 203 In-book reference: Book 1, Hadith 203 (Hasan)
+	- Mishkat al-Masabih 315 In-book reference: Book 3, Hadith 32
 	- Many more hadiths, some Da'if, some hasan, some ungraded
 
 - Deny those who follow Musa
-	- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
+	- Sunan Abi Dawud 3904 In-book reference : Book 30, Hadith 1 (Sahih, also mentions Musa)
 
 - Coitus Interruptus (with regards to selling slaves, and after taking them captive)
 	- Sahih Muslim 1438a In-book reference	 : Book 16, Hadith 146

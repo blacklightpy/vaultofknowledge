@@ -8,7 +8,7 @@
 - Surah 7: الأعراف / al-Araf (The Heights) [206 Verses]
 - Surah 8: الأنفال / al-Anfal (Spoils of War) [75 Verses]
 - Surah 9: التوبة / at-Taubah (Repentance) [129 Verses]
-	- **Alternate Titles:** al-Bara'ah (The Freedom from Obligations)
+	- **Alternate Titles:** البراءة /  al-Bara'ah (The Freedom from Obligations)
 - Surah 10: يونس / Younus (Jonah) [109 Verses]
 - Surah 11: هود / Hood (Hud) [123 Verses]
 - Surah 12: يوسف / Yusuf (Joseph) [111 Verses]
