@@ -42,7 +42,7 @@
 
 - ChatGPT
 	- "In the Footsteps of the Prophet" by Tariq Ramadan
-	- "The Life of the Prophet Muhammad" (4 Volumes) by Muhammad Husayn Haykal
+	- "The Life of the Prophet Muhammad" (4 Volumes) by Muhammad Husayn Haykal (I've cited the story of Marhab from it)
 
 - Controversial
 	- Youtube: Seerah of Prophet Muhammed (S) by Sheik Dr. Yasir Qadhi

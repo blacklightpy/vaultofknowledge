@@ -305,22 +305,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f6b1222fc02ee7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -388,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -405,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -417,7 +404,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
+                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md"
               }
             }
           },
@@ -493,10 +480,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "5f6b1222fc02ee7a",
+  "active": "a95a7aec4835e0fd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+    "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/17.md",
     "🗃️ Unorganized/General Notes/5.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
