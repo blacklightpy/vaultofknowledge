@@ -37,26 +37,31 @@
 		- **Label:** 
 		- **Title:** 
 		- **Author:** 
-### Seerah (Biographies)
+### Seerah (Biography)
 - Sirat Rasool Allah (Biography of The Messenger of The One To Be Worshipped) by ibn Ishaq
 	- **Title:** Sirat Rasool Allah (The Biography of The Messenger of The One To Be Worshipped)
 	- **Author:** ***ibn Ishaq***
 	- **General Remarks:**
-		- He did not verify Isnaads, and only focused on collecting all known reports.
+		- He did not verify the validity of the Isnaads (Chain of Narrations), and only focused on collecting all known reports.
+		- 
 	- **Opinions:**
-		- Imam ash-Shaafa'ee:
+		- Imam ***ash-Shaafa'ee***:
 			- "Whoever wants to acquire detailed knowledge of Maghaazi has no choice but to rely on Muhammad ibn Ishaaq."
 			- Source: 
-		- Imam 
+		- Imam adh-Dhabai:
+		- Imam ***ibn Katheer***
+			- 
 	- **Derivatives:**
 		- Ibn Hashim
 			- **General Remarks:**
 				- It is a condensed edition of ibn Ishaq's "Sirat Rasool Allah"
 			- **Opinions:** 
-		- Al-Tabari
+		- al-Tabari
 			- **Book:** Tarikh al-Rasool wa'l-Muluk (The History of Prophets and Kings)
-			- **General Remarks:**
+			- **Author:** Imam *Abu Jafar Muhammad ibn Jarir **al-Tabari*** 
+			- **General Remarks:** 
 				- It is similar to ibn Ishaq's "Sirat Rasool Allah" in that it aimed at collecting, not in verifying Isnaads.
+				- He used ibn Ishaq's "Sirat Rasool Allah" as his primary source.
 			- **Opinions:** 
 - Modern Books
 ### Maghazi (Military Expeditions)

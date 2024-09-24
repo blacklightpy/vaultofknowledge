@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/General Notes/Popular Islamic Literature (of Ahl as-Sunnah).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/General Notes/Popular Islamic Literature (of Ahl as-Sunnah).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -338,7 +338,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Database of Muslim Scholars.md",
+                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -413,7 +413,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +430,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -442,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
+                "file": "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md"
               }
             }
           },
@@ -518,11 +518,12 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "be6ca144e27a7920",
+  "active": "0775ed92f458100c",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Database of Muslim Scholars.md",
-    "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
-    "🗃️ Unorganized/General Notes/List of Hadeeth Collections.md",
+    "🗃️ Unorganized/General Notes/Popular Islamic Literature (of Ahl as-Sunnah).md",
+    "🗃️ Unorganized/General Notes/Master List of Hadeeth Collections.md",
+    "🗃️ Unorganized/General Notes/Lesser Known Islamic Literature.md",
     "🗃️ Unorganized/General Notes/Principle of Causality.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
     "🗃️ Unorganized/General Notes/The Ideal Woman in Islam is Like Sati.md",
@@ -545,7 +546,6 @@
     "🗃️ Unorganized/General Notes/My Perspective on Islam.md",
     "🗃️ Unorganized/General Notes/Islaam - Post.md",
     "🗃️ Unorganized/General Notes/Semantic Evolution.md",
-    "🗃️ Unorganized/General Notes/Arab Mania.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
@@ -565,6 +565,4 @@
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/📂️ Project Related Idea Articles",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/💱️ Socio-Economic Discourse",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse"
-  ]
-}
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious 
