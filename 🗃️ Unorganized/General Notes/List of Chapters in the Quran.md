@@ -118,140 +118,36 @@ Surahs
 - Surah 113: 
 - Surah 114: 
 
-المائدة / Al-Maeda (The Table Spread) [120 Verses]
-الأنعام / Al-Anaam (The Cattle) [165 Verses]
-الأعراف / Al-Araf (The Heights) [206 Verses]
-الأنفال / Al-Anfal (Spoils of War) [75 Verses]
-التوبة / At-Taubah (Repentance) [129 Verses]
+المائدة / al-Maeda (The Table Spread) [120 Verses]
+الأنعام / al-Anaam (The Cattle) [165 Verses]
+الأعراف / al-Araf (The Heights) [206 Verses]
+الأنفال / al-Anfal (Spoils of War) [75 Verses]
+التوبة / at-Taubah (Repentance) [129 Verses]
 يونس / Younus (Jonah) [109 Verses]
 هود / Hood (Hud) [123 Verses]
-يوسف
-Yusuf
-Joseph [111 Verses]
-
-
-
-الرعد
-Ar-Ra'ad
-The Thunder [43 Verses]
-
-
-
-إبراهيم
-Ibrahim
-Abraham [52 Verses]
-
-
-
-الحجر
-Al-Hijr
-Stoneland, Rock city, Al-Hijr valley [99 Verses]
-
-
-
-النحل
-An-Nahl
-The Bee [128 Verses]
-
-
-
-الإسراء
-Al-Isra
-The night journey [111 Verses]
-
-
-
-الكهف
-Al-Kahf
-The cave [110 Verses]
-
-
-مريم
-Maryam
-Mary [98 Verses]
-
-
-
-طه
-Taha
-Taha [135 Verses]
-
-
-
-الأنبياء
-Al-Anbiya
-The Prophets [112 Verses]
-
-
-
-الحج
-Al-Hajj
-The Pilgrimage [78 Verses]
-
-
-
-المؤمنون
-Al-Muminoon
-The Believers [118 Verses]
-
-
-
-النور
-Al-Noor
-The Light [64 Verses]
-
-
-
-الفرقان
-Al-Furqan
-The Standard [77 Verses]
-
-
-
-الشعراء
-Ash-Shu'ara
-The Poets [227 Verses]
-
-
-
-النمل
-An-Naml
-The Ant [93 Verses]
-
-
-
-القصص
-Al-Qasas
-The Story [88 Verses]
-
-
-
-العنكبوت
-Al-Ankaboot
-The Spider [69 Verses]
-
-
-
-الروم
-Ar-Room
-The Romans [60 Verses]
-
-
-
-لقمان
-Luqman
-Luqman [34 Verses]
-
-
-
-السجدة
-As-Sajda
-The Prostration [30 Verses]
-
-
-
+يوسف / Yusuf (Joseph) [111 Verses]
+الرعد / ar-Ra'ad (The Thunder) [43 Verses]
+إبراهيم / Ibrahim (Abraham) [52 Verses]
+الحجر / al-Hijr (al-Hijr Stone Valley) [99 Verses]
+النحل / an-Nahl (The Bee) [128 Verses]
+الإسراء / al-Isra (The Night Journey) [111 Verses]
+الكهف / al-Kahf (The Cave) [110 Verses]
+مريم / Maryam (Mary) [98 Verses]
+طه / Taha (Taha) [135 Verses]
+الأنبياء / al-Anbiya (The Prophets) [112 Verses]
+الحج / al-Hajj (The Pilgrimage) [78 Verses]
+المؤمنون / al-Muminoon (The Believers) [118 Verses]
+النور / al-Noor (The Light) [64 Verses]
+الفرقان / al-Furqan (The Standard) [77 Verses]
+الشعراء / ash-Shu'ara (The Poets) [227 Verses]
+النمل / an-Naml (The Ant) [93 Verses]
+القصص / al-Qasas (The Story) [88 Verses]
+العنكبوت / al-Ankaboot (The Spider) [69 Verses]
+الروم / ar-Room (The Romans) [60 Verses]
+لقمان / Luqman (Luqman) [34 Verses]
+السجدة / as-Sajda (The Prostration) [30 Verses]
 الأحزاب
-Al-Ahzab
+al-Ahzab
 The Coalition [73 Verses]
 
 
@@ -287,7 +183,7 @@ Sad [88 Verses]
 
 
 الزمر
-Al-Zumar
+al-Zumar
 The Troops [75 Verses]
 
 
@@ -317,19 +213,19 @@ Ornaments of Gold [89 Verses]
 
 
 الدخان
-Al-Dukhan
+al-Dukhan
 The Smoke [59 Verses]
 
 
 
 الجاثية
-Al-Jathiya
+al-Jathiya
 Crouching [37 Verses]
 
 
 
 الأحقاف
-Al-Ahqaf
+al-Ahqaf
 The wind-curved sandhills [35 Verses]
 
 
@@ -341,13 +237,13 @@ Muhammad [38 Verses]
 
 
 الفتح
-Al-Fath
+al-Fath
 The victory [29 Verses]
 
 
 
 الحجرات
-Al-Hujraat
+al-Hujraat
 The private apartments [18 Verses]
 
 
@@ -359,7 +255,7 @@ Qaaf [45 Verses]
 
 
 الذاريات
-Al-Dhariyaat
+al-Dhariyaat
 The winnowing winds [60 Verses]
 
 
@@ -371,48 +267,48 @@ Mount Sinai [49 Verses]
 
 
 النجم
-An-Najm
+an-Najm
 The Stars [62 Verses]
 
 
 
 القمر
-Al-Qamar
+al-Qamar
 The Moon [55 Verses]
 
 
 
 الرحمن
-Al-Rahman
+al-Rahman
 The Beneficient [78 Verses]
 
 
 
 الواقعة
-Al-Waqia
+al-Waqia
 The Event, The Inevitable [96 Verses]
 
 
 
 الحديد
-Al-Hadid
+al-Hadid
 The Iron [29 Verses]
 
 
 
 المجادلة
-Al-Mujadilah
+al-Mujadilah
 She that disputes [22 Verses]
 
 
 الحشر
-Al-Hashr
+al-Hashr
 Exile [29 Verses]
 
 
 
 الممتحنة
-Al-Mumtahina
+al-Mumtahina
 She that is to be examined [12 Verses]
 
 
@@ -424,12 +320,12 @@ The Ranks [14 Verses]
 
 
 الجمعة
-Al-Jumua
+al-Jumua
 The congregation, Friday [11 Verses]
 
 
 المنافقون
-Al-Munafiqoon
+al-Munafiqoon
 The Hypocrites [11 Verses]
 
 
@@ -449,22 +345,22 @@ Banning [12 Verses]
 
 
 الملك
-Al-Mulk
+al-Mulk
 The Sovereignty [30 Verses]
 
 
 القلم
-Al-Qalam
+al-Qalam
 The Pen [52 Verses]
 
 
 الحاقة
-Al-Haaqqa
+al-Haaqqa
 The reality [52 Verses]
 
 
 المعارج
-Al-Maarij
+al-Maarij
 The Ascending stairways [44 Verses]
 
 
@@ -476,238 +372,101 @@ Nooh [28 Verses]
 
 
 الجن
-Al-Jinn
+al-Jinn
 The Jinn [28 Verses]
 
 
 
 المزمل
-Al-Muzzammil
+al-Muzzammil
 The enshrouded one [20 Verses]
 
 
 
-المدثر
-Al-Muddathir
-The cloaked one [56 Verses]
+المدثر / al-Muddathir (The Cloaked One) [56 Verses]
 
+القيامة / al-Qiyama (The Rising of the Dead) [40 Verses]
 
 
-القيامة
-Al-Qiyama
-The rising of the dead [40 Verses]
 
+الإنسان / al-Insan (The Man) [31 Verses]
 
 
-الإنسان
-Al-Insan
-The man [31 Verses]
 
+المرسلات / al-Mursalat (The Emissaries) [50 Verses]
 
+النبأ / an-Naba (The Tidings) [40 Verses]
 
-المرسلات
-Al-Mursalat
-The emissaries [50 Verses]
 
 
+النازعات / an-Naziat (Those who Drag Forth) [46 Verses]
 
-النبأ
-An-Naba
-The tidings [40 Verses]
 
 
+عبس / Abasa (He Frowned) [42 Verses]
 
-النازعات
-An-Naziat
-Those who drag forth [46 Verses]
+التكوير / at-Takwir (The Overthrowing) [29 Verses]
 
 
 
-عبس
-Abasa
-He Frowned [42 Verses]
+الإنفطار / al-Infitar (The Cleaving) [19 Verses]
 
 
 
-التكوير
-At-Takwir
-The Overthrowing [29 Verses]
+المطففين / al-Mutaffifin (Defrauding) [36 Verses]
 
 
 
-الإنفطار
-AL-Infitar
-The Cleaving [19 Verses]
+الانشقاق / al-Inshiqaq (The Splitting Open) [25 Verses]
 
 
 
-المطففين
-Al-Mutaffifin
-Defrauding [36 Verses]
+البروج / al-Burooj (The Mansions of the Stars) [22 Verses]
 
 
 
-الانشقاق
-Al-Inshiqaq
-The Sundering, Splitting Open [25 Verses]
+الطارق / at-Tariq (The Morning Star) [17 Verses]
 
+الأعلى / al-Ala (The Most High) [19 Verses]
 
+الغاشية / al-Ghashiya (The Overwhelming) [26 Verses]
 
-البروج
-Al-Burooj
-The Mansions of the stars [22 Verses]
 
 
+الفجر / al-Fajr (The Dawn) [30 Verses]
 
-الطارق
-At-Tariq
-The morning star [17 Verses]
 
 
+البلد / al-Balad (The City) [20 Verses]
 
-الأعلى
-Al-Ala
-The Most High [19 Verses]
 
 
+الشمس / ash-Shams (The Sun) [15 Verses]
 
-الغاشية
-Al-Ghashiya
-The Overwhelming [26 Verses]
 
 
+الليل / al-Lail (The Night) [21 Verses]
 
-الفجر
-Al-Fajr
-The Dawn [30 Verses]
 
 
-
-البلد
-Al-Balad
-The City [20 Verses]
-
-
-
-الشمس
-Ash-Shams
-The Sun [15 Verses]
-
-
-
-الليل
-Al-Lail
-The night [21 Verses]
-
-
-
-الضحى
-Ad-Dhuha
-The morning hours [11 Verses]
-
-
-
-الشرح
-Al-Inshirah
-Solace [8 Verses]
-
-
-
-التين
-At-Tin
-The Fig [8 Verses]
-
-
-
-العلق
-Al-Alaq
-The Clot [19 Verses]
-
-
-
-القدر
-Al-Qadr
-The Power [5 Verses]
-
-
-
-البينة
-Al-Bayyina
-The Clear proof [8 Verses]
-
-
-
-الزلزلة
-Al-Zalzala
-The earthquake [8 Verses]
-
-
-
-العاديات
-Al-Adiyat
-The Chargers [11 Verses]
-
-
-
-القارعة
-Al-Qaria
-The Calamity [11 Verses]
-
-
-
-التكاثر
-At-Takathur
-Competition [8 Verses]
-
-
-
-العصر
-Al-Asr
-The declining day [3 Verses]
-
-
-
-الهمزة
-Al-Humaza
-The Traducer [9 Verses]
-
-
-
-الفيل
-Al-fil
-The Elephant [5 Verses]
-
-
-
-قريش
-Quraish
-Quraish [4 Verses]
-
-
-
-الماعون
-Al-Maun
-Alms Giving [7 Verses]
-
-
-
-الكوثر
-Al-Kauther
-Abundance [3 Verses]
-
-
-
-الكافرون
-Al-Kafiroon
-The Disbelievers [6 Verses]
-
-
-
-النصر
-An-Nasr
-The Succour [3 Verses]
-
-
+الضحى / ad-Dhuha (The Morning Hours) [11 Verses]
+الشرح / al-Inshirah (Solace) [8 Verses]
+التين / at-Tin (The Fig) [8 Verses]
+العلق / al-Alaq (The Clot) [19 Verses]
+القدر / al-Qadr (The Power) [5 Verses]
+البينة / al-Bayyina (The Clear Proof) [8 Verses]
+الزلزلة / al-Zalzala (The Earthquake) [8 Verses]
+العاديات / al-Adiyat (The Chargers) [11 Verses]
+القارعة / al-Qaria (The Calamity) [11 Verses]
+التكاثر / at-Takathur (Competition) [8 Verses]
+العصر / al-Asr (The Declining Day) [3 Verses]
+الهمزة / al-Humaza (The Traducer) [9 Verses]
+الفيل / al-Fil (The Elephant) [5 Verses]
+قريش / Quraish (Quraish) [4 Verses]
+الماعون / al-Maun (Alms Giving) [7 Verses]
+الكوثر / al-Kauther (Abundance) [3 Verses]
+الكافرون / al-Kafiroon (The Disbelievers) [6 Verses]
+النصر / an-Nasr (The Succour) [3 Verses]
 المسد / al-Masadd (The Flame) [5 Verses]
 الإخلاص / al-Ikhlas (Absoluteness) [4 Verses]
 الفلق / al-Falaq (The Day Break) [5 Verses]
