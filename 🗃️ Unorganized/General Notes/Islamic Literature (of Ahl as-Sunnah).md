@@ -39,10 +39,14 @@
 		- **Author:** 
 ### Seerah (Biographies)
 - Sirat Rasool Allah (Biography of The Messenger of The One To Be Worshipped) by ibn Ishaq
+	- **Title:** Sirat Rasool Allah (The Biography of The Messenger of The One To Be Worshipped)
+	- **Author:** ***ibn Ishaq***
 	- **General Remarks:**
 		- He did not verify Isnaads, and only focused on collecting all known reports.
 	- **Opinions:**
-		- Imam ash-Shaafai'ee
+		- Imam ash-Shaafa'ee:
+			- "Whoever wants to acquire detailed knowledge of Maghaazi has no choice but to rely on Muhammad ibn Ishaaq."
+			- Source: 
 		- Imam 
 	- **Derivatives:**
 		- Ibn Hashim
