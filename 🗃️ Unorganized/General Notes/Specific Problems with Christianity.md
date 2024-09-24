@@ -356,7 +356,7 @@ This is wishful thinking.
 		- If a slave woman is married by the owner, the children will be free
 		- If a slave woman is married to another man, the children will be slaves of the owner
 		- By marrying slaves off, the owner gets more slaves, and is lifted of the burden of accommodating them.
-		- 16:71 (Do not give what Allah has given you to your slaves to be equal with them)
+		- 16:71 (Do not give what Allah has gifted you to your slaves to be equal with them)
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 	- God split water and heavens
