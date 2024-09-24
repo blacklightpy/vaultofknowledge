@@ -2,11 +2,11 @@ Surahs
 
 
 
-- Surah 1: الفاتحة / al-Fatiha (The Opening) [7 Verses]
+- Surah 1: الفاتحة / al-Faatiha (The Opening) [7 Verses]
 	- **Alternate Titles:** al-Hamd (The Praise), al-Salah (The Prayer)
 - Surah 2: البَقَرَة / al-Baqarah (The Cow) [286 Verses]
-- Surah 3: آل عمران / Aal Imran [200 Verses]
-- Surah 4: النساء / an-Nisa [176 Verses]
+- Surah 3: آل عمران / Aal Imraan (The Family of Imraan) [200 Verses]
+- Surah 4: النساء / an-Nisa (The Women) [176 Verses]
 - Surah 5: 
 - Surah 6: 
 - Surah 7: 
@@ -118,613 +118,597 @@ Surahs
 - Surah 113: 
 - Surah 114: 
 
-
-Chapter 5
-
-المائدة
-Al-Maeda
-The Table Spread (120 verses)
-
-Chapter 6
-
-الأنعام
-Al-Anaam
-The cattle (165 verses)
-
-Chapter 7
-
-الأعراف
-Al-Araf
-The heights (206 verses)
-
-Chapter 8
-
-الأنفال
-Al-Anfal
-Spoils of war, booty (75 verses)
-
-Chapter 9
-
-التوبة
-At-Taubah
-Repentance (129 verses)
-
-Chapter 10
-
-يونس
-Younus
-Jonah (109 verses)
-
-Chapter 11
-
-هود
-Hood
-Hud (123 verses)
-
-Chapter 12
-
+المائدة / Al-Maeda (The Table Spread) [120 Verses]
+الأنعام / Al-Anaam (The Cattle) [165 Verses]
+الأعراف / Al-Araf (The Heights) [206 Verses]
+الأنفال / Al-Anfal (Spoils of War) [75 Verses]
+التوبة / At-Taubah (Repentance) [129 Verses]
+يونس / Younus (Jonah) [109 Verses]
+هود / Hood (Hud) [123 Verses]
 يوسف
 Yusuf
-Joseph (111 verses)
+Joseph [111 Verses]
 
-Chapter 13
+
 
 الرعد
 Ar-Ra'ad
-The Thunder (43 verses)
+The Thunder [43 Verses]
 
-Chapter 14
+
 
 إبراهيم
 Ibrahim
-Abraham (52 verses)
+Abraham [52 Verses]
 
-Chapter 15
+
 
 الحجر
 Al-Hijr
-Stoneland, Rock city, Al-Hijr valley (99 verses)
+Stoneland, Rock city, Al-Hijr valley [99 Verses]
 
-Chapter 16
+
 
 النحل
 An-Nahl
-The Bee (128 verses)
+The Bee [128 Verses]
 
-Chapter 17
+
 
 الإسراء
 Al-Isra
-The night journey (111 verses)
+The night journey [111 Verses]
 
-Chapter 18
+
 
 الكهف
 Al-Kahf
-The cave (110 verses)
+The cave [110 Verses]
 
-Chapter 19
 
 مريم
 Maryam
-Mary (98 verses)
+Mary [98 Verses]
 
-Chapter 20
+
 
 طه
 Taha
-Taha (135 verses)
+Taha [135 Verses]
 
-Chapter 21
+
 
 الأنبياء
 Al-Anbiya
-The Prophets (112 verses)
+The Prophets [112 Verses]
 
-Chapter 22
+
 
 الحج
 Al-Hajj
-The Pilgrimage (78 verses)
+The Pilgrimage [78 Verses]
 
-Chapter 23
+
 
 المؤمنون
 Al-Muminoon
-The Believers (118 verses)
+The Believers [118 Verses]
 
-Chapter 24
+
 
 النور
 Al-Noor
-The Light (64 verses)
+The Light [64 Verses]
 
-Chapter 25
+
 
 الفرقان
 Al-Furqan
-The Standard (77 verses)
+The Standard [77 Verses]
 
-Chapter 26
+
 
 الشعراء
 Ash-Shu'ara
-The Poets (227 verses)
+The Poets [227 Verses]
 
-Chapter 27
+
 
 النمل
 An-Naml
-The Ant (93 verses)
+The Ant [93 Verses]
 
-Chapter 28
+
 
 القصص
 Al-Qasas
-The Story (88 verses)
+The Story [88 Verses]
 
-Chapter 29
+
 
 العنكبوت
 Al-Ankaboot
-The Spider (69 verses)
+The Spider [69 Verses]
 
-Chapter 30
+
 
 الروم
 Ar-Room
-The Romans (60 verses)
+The Romans [60 Verses]
 
-Chapter 31
+
 
 لقمان
 Luqman
-Luqman (34 verses)
+Luqman [34 Verses]
 
-Chapter 32
+
 
 السجدة
 As-Sajda
-The Prostration (30 verses)
+The Prostration [30 Verses]
 
-Chapter 33
+
 
 الأحزاب
 Al-Ahzab
-The Coalition (73 verses)
+The Coalition [73 Verses]
 
-Chapter 34
+
 
 سبأ
 As-Saba
-Saba (54 verses)
+Saba [54 Verses]
 
-Chapter 35
+
 
 فاطر
 Fatir
-Originator (45 verses)
+Originator [45 Verses]
 
-Chapter 36
+
 
 يس
 Yaseen
-Ya Seen (83 verses)
+Ya Seen [83 Verses]
 
-Chapter 37
+
 
 الصافات
 As-Saaffat
-Those who set the ranks (182 verses)
+Those who set the ranks [182 Verses]
 
-Chapter 38
+
 
 ص
 Saad
-Sad (88 verses)
+Sad [88 Verses]
 
-Chapter 39
+
 
 الزمر
 Al-Zumar
-The Troops (75 verses)
+The Troops [75 Verses]
 
-Chapter 40
+
 
 غافر
 Ghafir
-The Forgiver (85 verses)
+The Forgiver [85 Verses]
 
-Chapter 41
+
 
 فصلت
 Fussilat
-Explained in detail (54 verses)
+Explained in detail [54 Verses]
 
-Chapter 42
+
 
 الشورى
 Ash-Shura
-Council, Consultation (53 verses)
+Council, Consultation [53 Verses]
 
-Chapter 43
+
 
 الزخرف
 Az-Zukhruf
-Ornaments of Gold (89 verses)
+Ornaments of Gold [89 Verses]
 
-Chapter 44
+
 
 الدخان
 Al-Dukhan
-The Smoke (59 verses)
+The Smoke [59 Verses]
 
-Chapter 45
+
 
 الجاثية
 Al-Jathiya
-Crouching (37 verses)
+Crouching [37 Verses]
 
-Chapter 46
+
 
 الأحقاف
 Al-Ahqaf
-The wind-curved sandhills (35 verses)
+The wind-curved sandhills [35 Verses]
 
-Chapter 47
+
 
 محمد
 Muhammad
-Muhammad (38 verses)
+Muhammad [38 Verses]
 
-Chapter 48
+
 
 الفتح
 Al-Fath
-The victory (29 verses)
+The victory [29 Verses]
 
-Chapter 49
+
 
 الحجرات
 Al-Hujraat
-The private apartments (18 verses)
+The private apartments [18 Verses]
 
-Chapter 50
+
 
 ق
 Qaaf
-Qaaf (45 verses)
+Qaaf [45 Verses]
 
-Chapter 51
+
 
 الذاريات
 Al-Dhariyaat
-The winnowing winds (60 verses)
+The winnowing winds [60 Verses]
 
-Chapter 52
+
 
 الطور
 At-Tur
-Mount Sinai (49 verses)
+Mount Sinai [49 Verses]
 
-Chapter 53
+
 
 النجم
 An-Najm
-The Stars (62 verses)
+The Stars [62 Verses]
 
-Chapter 54
+
 
 القمر
 Al-Qamar
-The Moon (55 verses)
+The Moon [55 Verses]
 
-Chapter 55
+
 
 الرحمن
 Al-Rahman
-The Beneficient (78 verses)
+The Beneficient [78 Verses]
 
-Chapter 56
+
 
 الواقعة
 Al-Waqia
-The Event, The Inevitable (96 verses)
+The Event, The Inevitable [96 Verses]
 
-Chapter 57
+
 
 الحديد
 Al-Hadid
-The Iron (29 verses)
+The Iron [29 Verses]
 
-Chapter 58
+
 
 المجادلة
 Al-Mujadilah
-She that disputes (22 verses)
+She that disputes [22 Verses]
 
-Chapter 59
 
 الحشر
 Al-Hashr
-Exile (29 verses)
+Exile [29 Verses]
 
-Chapter 60
+
 
 الممتحنة
 Al-Mumtahina
-She that is to be examined (12 verses)
+She that is to be examined [12 Verses]
 
-Chapter 61
+
 
 الصف
 As-Saff
-The Ranks (14 verses)
+The Ranks [14 Verses]
 
-Chapter 62
+
 
 الجمعة
 Al-Jumua
-The congregation, Friday (11 verses)
-Chapter 63
+The congregation, Friday [11 Verses]
+
 
 المنافقون
 Al-Munafiqoon
-The Hypocrites (11 verses)
-Chapter 64
+The Hypocrites [11 Verses]
+
 
 التغابن
 At-Taghabun
-Mutual Disillusion (18 verses)
-Chapter 65
+Mutual Disillusion [18 Verses]
+
 
 الطلاق
 At-Talaq
-Divorce (12 verses)
-Chapter 66
+Divorce [12 Verses]
+
 
 التحريم
 At-Tahrim
-Banning (12 verses)
-Juz' 29
-Chapter 67
+Banning [12 Verses]
+
 
 الملك
 Al-Mulk
-The Sovereignty (30 verses)
-Chapter 68
+The Sovereignty [30 Verses]
+
 
 القلم
 Al-Qalam
-The Pen (52 verses)
-Chapter 69
+The Pen [52 Verses]
+
 
 الحاقة
 Al-Haaqqa
-The reality (52 verses)
-Chapter 70
+The reality [52 Verses]
+
 
 المعارج
 Al-Maarij
-The Ascending stairways (44 verses)
-Chapter 71
+The Ascending stairways [44 Verses]
+
+
 
 نوح
 Nooh
-Nooh (28 verses)
-Chapter 72
+Nooh [28 Verses]
+
+
 
 الجن
 Al-Jinn
-The Jinn (28 verses)
-Chapter 73
+The Jinn [28 Verses]
+
+
 
 المزمل
 Al-Muzzammil
-The enshrouded one (20 verses)
-Chapter 74
+The enshrouded one [20 Verses]
+
+
 
 المدثر
 Al-Muddathir
-The cloaked one (56 verses)
-Chapter 75
+The cloaked one [56 Verses]
+
+
 
 القيامة
 Al-Qiyama
-The rising of the dead (40 verses)
-Chapter 76
+The rising of the dead [40 Verses]
+
+
 
 الإنسان
 Al-Insan
-The man (31 verses)
-Chapter 77
+The man [31 Verses]
+
+
 
 المرسلات
 Al-Mursalat
-The emissaries (50 verses)
-Juz' 30
-Chapter 78
+The emissaries [50 Verses]
+
+
 
 النبأ
 An-Naba
-The tidings (40 verses)
-Chapter 79
+The tidings [40 Verses]
+
+
 
 النازعات
 An-Naziat
-Those who drag forth (46 verses)
-Chapter 80
+Those who drag forth [46 Verses]
+
+
 
 عبس
 Abasa
-He Frowned (42 verses)
-Chapter 81
+He Frowned [42 Verses]
+
+
 
 التكوير
 At-Takwir
-The Overthrowing (29 verses)
-Chapter 82
+The Overthrowing [29 Verses]
+
+
 
 الإنفطار
 AL-Infitar
-The Cleaving (19 verses)
-Chapter 83
+The Cleaving [19 Verses]
+
+
 
 المطففين
 Al-Mutaffifin
-Defrauding (36 verses)
-Chapter 84
+Defrauding [36 Verses]
+
+
 
 الانشقاق
 Al-Inshiqaq
-The Sundering, Splitting Open (25 verses)
-Chapter 85
+The Sundering, Splitting Open [25 Verses]
+
+
 
 البروج
 Al-Burooj
-The Mansions of the stars (22 verses)
-Chapter 86
+The Mansions of the stars [22 Verses]
+
+
 
 الطارق
 At-Tariq
-The morning star (17 verses)
-Chapter 87
+The morning star [17 Verses]
+
+
 
 الأعلى
 Al-Ala
-The Most High (19 verses)
-Chapter 88
+The Most High [19 Verses]
+
+
 
 الغاشية
 Al-Ghashiya
-The Overwhelming (26 verses)
-Chapter 89
+The Overwhelming [26 Verses]
+
+
 
 الفجر
 Al-Fajr
-The Dawn (30 verses)
-Chapter 90
+The Dawn [30 Verses]
+
+
 
 البلد
 Al-Balad
-The City (20 verses)
-Chapter 91
+The City [20 Verses]
+
+
 
 الشمس
 Ash-Shams
-The Sun (15 verses)
-Chapter 92
+The Sun [15 Verses]
+
+
 
 الليل
 Al-Lail
-The night (21 verses)
-Chapter 93
+The night [21 Verses]
+
+
 
 الضحى
 Ad-Dhuha
-The morning hours (11 verses)
-Chapter 94
+The morning hours [11 Verses]
+
+
 
 الشرح
 Al-Inshirah
-Solace (8 verses)
-Chapter 95
+Solace [8 Verses]
+
+
 
 التين
 At-Tin
-The Fig (8 verses)
-Chapter 96
+The Fig [8 Verses]
+
+
 
 العلق
 Al-Alaq
-The Clot (19 verses)
-Chapter 97
+The Clot [19 Verses]
+
+
 
 القدر
 Al-Qadr
-The Power (5 verses)
-Chapter 98
+The Power [5 Verses]
+
+
 
 البينة
 Al-Bayyina
-The Clear proof (8 verses)
-Chapter 99
+The Clear proof [8 Verses]
+
+
 
 الزلزلة
 Al-Zalzala
-The earthquake (8 verses)
-Chapter 100
+The earthquake [8 Verses]
+
+
 
 العاديات
 Al-Adiyat
-The Chargers (11 verses)
-Chapter 101
+The Chargers [11 Verses]
+
+
 
 القارعة
 Al-Qaria
-The Calamity (11 verses)
-Chapter 102
+The Calamity [11 Verses]
+
+
 
 التكاثر
 At-Takathur
-Competition (8 verses)
-Chapter 103
+Competition [8 Verses]
+
+
 
 العصر
 Al-Asr
-The declining day (3 verses)
-Chapter 104
+The declining day [3 Verses]
+
+
 
 الهمزة
 Al-Humaza
-The Traducer (9 verses)
-Chapter 105
+The Traducer [9 Verses]
+
+
 
 الفيل
 Al-fil
-The Elephant (5 verses)
-Chapter 106
+The Elephant [5 Verses]
+
+
 
 قريش
 Quraish
-Quraish (4 verses)
-Chapter 107
+Quraish [4 Verses]
+
+
 
 الماعون
 Al-Maun
-Alms Giving (7 verses)
-Chapter 108
+Alms Giving [7 Verses]
+
+
 
 الكوثر
 Al-Kauther
-Abundance (3 verses)
-Chapter 109
+Abundance [3 Verses]
+
+
 
 الكافرون
 Al-Kafiroon
-The Disbelievers (6 verses)
-Chapter 110
+The Disbelievers [6 Verses]
+
+
 
 النصر
 An-Nasr
-The Succour (3 verses)
-Chapter 111
+The Succour [3 Verses]
 
-المسد
-Al-Masadd
-The Flame (5 verses)
-Chapter 112
 
-الإخلاص
-Al-Ikhlas
-Absoluteness (4 verses)
-Chapter 113
-
-الفلق
-Al-Falaq
-The day break (5 verses)
-Chapter 114
-
-الناس
-An-Nas
-The mankind (6 verses)
+المسد / al-Masadd (The Flame) [5 Verses]
+الإخلاص / al-Ikhlas (Absoluteness) [4 Verses]
+الفلق / al-Falaq (The Day Break) [5 Verses]
+الناس / an-Nas (The Mankind) [6 Verses]
