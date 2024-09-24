@@ -7,11 +7,11 @@ Surahs
 - Surah 2: البَقَرَة / al-Baqarah (The Cow) [286 Verses]
 - Surah 3: آل عمران / Aal Imraan (The Family of Imraan) [200 Verses]
 - Surah 4: النساء / an-Nisa (The Women) [176 Verses]
-- Surah 5: 
-- Surah 6: 
-- Surah 7: 
+- Surah 5: الأنعام / al-Anaam (The Cattle) [165 Verses]
+- Surah 6: الأعراف / al-Araf (The Heights) [206 Verses]
+- Surah 7: الأنفال / al-Anfal (Spoils of War) [75 Verses]
 - Surah 8: 
-- Surah 9: 
+- Surah 9: التوبة / at-Taubah (Repentance) [129 Verses]
 - Surah 10: 
 - Surah 11: 
 - Surah 12: 
@@ -30,6 +30,48 @@ Surahs
 - Surah 25: 
 - Surah 26: 
 - Surah 27: 
+
+
+
+
+
+
+يونس / Younus (Jonah) [109 Verses]
+هود / Hood (Hud) [123 Verses]
+يوسف / Yusuf (Joseph) [111 Verses]
+الرعد / ar-Ra'ad (The Thunder) [43 Verses]
+إبراهيم / Ibrahim (Abraham) [52 Verses]
+الحجر / al-Hijr (al-Hijr Stone Valley) [99 Verses]
+النحل / an-Nahl (The Bee) [128 Verses]
+الإسراء / al-Isra (The Night Journey) [111 Verses]
+الكهف / al-Kahf (The Cave) [110 Verses]
+مريم / Maryam (Mary) [98 Verses]
+طه / Taha (Taha) [135 Verses]
+الأنبياء / al-Anbiya (The Prophets) [112 Verses]
+الحج / al-Hajj (The Pilgrimage) [78 Verses]
+المؤمنون / al-Muminoon (The Believers) [118 Verses]
+النور / al-Noor (The Light) [64 Verses]
+الفرقان / al-Furqan (The Standard) [77 Verses]
+الشعراء / ash-Shu'ara (The Poets) [227 Verses]
+النمل / an-Naml (The Ant) [93 Verses]
+القصص / al-Qasas (The Story) [88 Verses]
+العنكبوت / al-Ankaboot (The Spider) [69 Verses]
+الروم / ar-Room (The Romans) [60 Verses]
+لقمان / Luqman (Luqman) [34 Verses]
+السجدة / as-Sajda (The Prostration) [30 Verses]
+الأحزاب / al-Ahzab (The Coalition) [73 Verses]
+سبأ / as-Saba (Saba) [54 Verses]
+فاطر / Fatir (Originator) [45 Verses]
+يس / Yaseen (Yaseen) [83 Verses]
+الصافات / as-Saaffat (Those who set the Ranks) [182 Verses]
+ص / Saad (Sad) [88 Verses]
+الزمر / al-Zumar (The Troops) [75 Verses]
+غافر / Ghafir (The Forgiver) [85 Verses]
+فصلت / Fussilat (Explained in Detail) [54 Verses]
+الشورى / ash-Shura (Council) [53 Verses]
+الزخرف / az-Zukhruf (Ornaments of Gold) [89 Verses]
+الدخان / al-Dukhan (The Smoke) [59 Verses]
+
 - Surah 28: 
 - Surah 29: 
 - Surah 30: 
@@ -119,336 +161,54 @@ Surahs
 - Surah 114: 
 
 المائدة / al-Maeda (The Table Spread) [120 Verses]
-الأنعام / al-Anaam (The Cattle) [165 Verses]
-الأعراف / al-Araf (The Heights) [206 Verses]
-الأنفال / al-Anfal (Spoils of War) [75 Verses]
-التوبة / at-Taubah (Repentance) [129 Verses]
-يونس / Younus (Jonah) [109 Verses]
-هود / Hood (Hud) [123 Verses]
-يوسف / Yusuf (Joseph) [111 Verses]
-الرعد / ar-Ra'ad (The Thunder) [43 Verses]
-إبراهيم / Ibrahim (Abraham) [52 Verses]
-الحجر / al-Hijr (al-Hijr Stone Valley) [99 Verses]
-النحل / an-Nahl (The Bee) [128 Verses]
-الإسراء / al-Isra (The Night Journey) [111 Verses]
-الكهف / al-Kahf (The Cave) [110 Verses]
-مريم / Maryam (Mary) [98 Verses]
-طه / Taha (Taha) [135 Verses]
-الأنبياء / al-Anbiya (The Prophets) [112 Verses]
-الحج / al-Hajj (The Pilgrimage) [78 Verses]
-المؤمنون / al-Muminoon (The Believers) [118 Verses]
-النور / al-Noor (The Light) [64 Verses]
-الفرقان / al-Furqan (The Standard) [77 Verses]
-الشعراء / ash-Shu'ara (The Poets) [227 Verses]
-النمل / an-Naml (The Ant) [93 Verses]
-القصص / al-Qasas (The Story) [88 Verses]
-العنكبوت / al-Ankaboot (The Spider) [69 Verses]
-الروم / ar-Room (The Romans) [60 Verses]
-لقمان / Luqman (Luqman) [34 Verses]
-السجدة / as-Sajda (The Prostration) [30 Verses]
-الأحزاب
-al-Ahzab
-The Coalition [73 Verses]
-
-
-
-سبأ
-As-Saba
-Saba [54 Verses]
-
-
-
-فاطر
-Fatir
-Originator [45 Verses]
-
-
-
-يس
-Yaseen
-Ya Seen [83 Verses]
-
-
-
-الصافات
-As-Saaffat
-Those who set the ranks [182 Verses]
-
-
-
-ص
-Saad
-Sad [88 Verses]
-
-
-
-الزمر
-al-Zumar
-The Troops [75 Verses]
-
-
-
-غافر
-Ghafir
-The Forgiver [85 Verses]
-
-
-
-فصلت
-Fussilat
-Explained in detail [54 Verses]
-
-
-
-الشورى
-Ash-Shura
-Council, Consultation [53 Verses]
-
-
-
-الزخرف
-Az-Zukhruf
-Ornaments of Gold [89 Verses]
-
-
-
-الدخان
-al-Dukhan
-The Smoke [59 Verses]
-
-
-
-الجاثية
-al-Jathiya
-Crouching [37 Verses]
-
-
-
-الأحقاف
-al-Ahqaf
-The wind-curved sandhills [35 Verses]
-
-
-
-محمد
-Muhammad
-Muhammad [38 Verses]
-
-
-
-الفتح
-al-Fath
-The victory [29 Verses]
-
-
-
-الحجرات
-al-Hujraat
-The private apartments [18 Verses]
-
-
-
-ق
-Qaaf
-Qaaf [45 Verses]
-
-
-
-الذاريات
-al-Dhariyaat
-The winnowing winds [60 Verses]
-
-
-
-الطور
-At-Tur
-Mount Sinai [49 Verses]
-
-
-
-النجم
-an-Najm
-The Stars [62 Verses]
-
-
-
-القمر
-al-Qamar
-The Moon [55 Verses]
-
-
-
-الرحمن
-al-Rahman
-The Beneficient [78 Verses]
-
-
-
-الواقعة
-al-Waqia
-The Event, The Inevitable [96 Verses]
-
-
-
-الحديد
-al-Hadid
-The Iron [29 Verses]
-
-
-
-المجادلة
-al-Mujadilah
-She that disputes [22 Verses]
-
-
-الحشر
-al-Hashr
-Exile [29 Verses]
-
-
-
-الممتحنة
-al-Mumtahina
-She that is to be examined [12 Verses]
-
-
-
-الصف
-As-Saff
-The Ranks [14 Verses]
-
-
-
-الجمعة
-al-Jumua
-The congregation, Friday [11 Verses]
-
-
-المنافقون
-al-Munafiqoon
-The Hypocrites [11 Verses]
-
-
-التغابن
-At-Taghabun
-Mutual Disillusion [18 Verses]
-
-
-الطلاق
-At-Talaq
-Divorce [12 Verses]
-
-
-التحريم
-At-Tahrim
-Banning [12 Verses]
-
-
-الملك
-al-Mulk
-The Sovereignty [30 Verses]
-
-
-القلم
-al-Qalam
-The Pen [52 Verses]
-
-
-الحاقة
-al-Haaqqa
-The reality [52 Verses]
-
-
-المعارج
-al-Maarij
-The Ascending stairways [44 Verses]
-
-
-
-نوح
-Nooh
-Nooh [28 Verses]
-
-
-
-الجن
-al-Jinn
-The Jinn [28 Verses]
-
-
-
-المزمل
-al-Muzzammil
-The enshrouded one [20 Verses]
-
-
-
+الجاثية / al-Jathiya (Crouching) [37 Verses]
+الأحقاف / al-Ahqaf (The Wind-curved Sandhills) [35 Verses]
+محمد / Muhammad (Muhammad) [38 Verses]
+الفتح / al-Fath (The Victory) [29 Verses]
+الحجرات / al-Hujraat (The Private Apartments) [18 Verses]
+ق / Qaaf (Qaaf) [45 Verses]
+الذاريات / al-Dhariyaat (The Winnowing Winds) [60 Verses]
+الطور / at-Tur (Mount Sinai) [49 Verses]
+النجم / an-Najm (The Stars) [62 Verses]
+القمر / al-Qamar (The Moon) [55 Verses]
+الرحمن / al-Rahman (The Beneficient) [78 Verses]
+الواقعة / al-Waqia (The Inevitable Event) [96 Verses]
+الحديد / al-Hadid (The Iron) [29 Verses]
+المجادلة / al-Mujadilah (She that Disputes) [22 Verses]
+الحشر / al-Hashr (Exile) [29 Verses]
+الممتحنة / al-Mumtahina (She That is to be Examined) [12 Verses]
+الصف / as-Saff (The Ranks) [14 Verses]
+الجمعة / al-Jumua (The Congregation on Friday) [11 Verses]
+المنافقون / al-Munafiqoon (The Hypocrites) [11 Verses]
+التغابن / at-Taghabun (Mutual Disillusion) [18 Verses]
+الطلاق / at-Talaq (Divorce) [12 Verses]
+التحريم / at-Tahrim (Banning) [12 Verses]
+الملك / al-Mulk (The Sovereignty) [30 Verses]
+القلم / al-Qalam (The Pen) [52 Verses]
+الحاقة / al-Haaqqa (The Reality) [52 Verses]
+المعارج / al-Maarij (The Ascending Stairways) [44 Verses]
+نوح / Nooh (Nooh) [28 Verses]
+الجن / al-Jinn (The Jinn) [28 Verses]
+المزمل / al-Muzzammil (The Enshrouded One) [20 Verses]
 المدثر / al-Muddathir (The Cloaked One) [56 Verses]
-
 القيامة / al-Qiyama (The Rising of the Dead) [40 Verses]
-
-
-
 الإنسان / al-Insan (The Man) [31 Verses]
-
-
-
 المرسلات / al-Mursalat (The Emissaries) [50 Verses]
-
 النبأ / an-Naba (The Tidings) [40 Verses]
-
-
-
 النازعات / an-Naziat (Those who Drag Forth) [46 Verses]
-
-
-
 عبس / Abasa (He Frowned) [42 Verses]
-
 التكوير / at-Takwir (The Overthrowing) [29 Verses]
-
-
-
 الإنفطار / al-Infitar (The Cleaving) [19 Verses]
-
-
-
 المطففين / al-Mutaffifin (Defrauding) [36 Verses]
-
-
-
 الانشقاق / al-Inshiqaq (The Splitting Open) [25 Verses]
-
-
-
 البروج / al-Burooj (The Mansions of the Stars) [22 Verses]
-
-
-
 الطارق / at-Tariq (The Morning Star) [17 Verses]
-
 الأعلى / al-Ala (The Most High) [19 Verses]
-
 الغاشية / al-Ghashiya (The Overwhelming) [26 Verses]
-
-
-
 الفجر / al-Fajr (The Dawn) [30 Verses]
-
-
-
 البلد / al-Balad (The City) [20 Verses]
-
-
-
 الشمس / ash-Shams (The Sun) [15 Verses]
-
-
-
 الليل / al-Lail (The Night) [21 Verses]
-
-
-
 الضحى / ad-Dhuha (The Morning Hours) [11 Verses]
 الشرح / al-Inshirah (Solace) [8 Verses]
 التين / at-Tin (The Fig) [8 Verses]
