@@ -1,0 +1,1 @@
+Reference: The old woman who engaged in adultery and was killed.
