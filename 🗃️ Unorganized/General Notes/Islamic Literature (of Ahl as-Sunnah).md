@@ -14,7 +14,8 @@
 ### Seerah (Biographies)
 - Ibn Ishaq (he did not verify Isnaads)
 	- Ibn Hashim (condensed)
-- Al-Tabari (he too did not verify Isnaads)
+	- Al-Tabari (he too did not verify Isnaads)
+		- Book: Tarikh al-Rasool wa'l-Muluk (The History of Prophets and Kings) by Al-Tabari
 - Modern Books
 ### Maghazi (Military Expeditions)
 - Ibn Ishaq is the best source
@@ -42,7 +43,8 @@
 
 - ChatGPT
 	- "In the Footsteps of the Prophet" by Tariq Ramadan
-	- "The Life of the Prophet Muhammad" (4 Volumes) by Muhammad Husayn Haykal (I've cited the story of Marhab from it)
+	- "The Life of the Prophet Muhammad" (4 Volumes) by Muhammad Husayn Haykal
+		- I've cited the story of Marhab from it
 
 - Controversial
 	- Youtube: Seerah of Prophet Muhammed (S) by Sheik Dr. Yasir Qadhi
