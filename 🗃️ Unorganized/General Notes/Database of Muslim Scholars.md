@@ -5,7 +5,7 @@ This is for my personal Knowledge
 # Specific Lists
 ## Muhadditheen (Compilers of Narrations)
 
-## The Four Imams of Jurisprudence
+## The Four Main Faqihs (The Four Main Jurists)
 
 ## Mufassiroon (Authors of Exegetical Commentaries)
 
