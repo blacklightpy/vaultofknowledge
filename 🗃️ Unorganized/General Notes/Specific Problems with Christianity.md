@@ -346,7 +346,8 @@ This is wishful thinking.
 			- Although slaves by definition would be originally non-Muslims
 		- Many Tafsirs say that one can force slaves to do nikah, or marry them off without consent
 		- All Verses on "Right Hand Possesses"
-			- 
+			- 33:50 (Mohammed can have sex with his Wives, Slaves, Cousins or Believing Women Who Ask to be his wives (without Mehr))
+			- Quran 33:50 Quran 23:5-6 Quran 70:27-30 Quran 4:24
 	- Treatment of Slaves
 		- If a slave woman is married by the owner, the children will be free
 		- If a slave woman is married to another man, the children will be slaves of the owner
