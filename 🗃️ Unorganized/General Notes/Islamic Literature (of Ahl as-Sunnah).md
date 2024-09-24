@@ -23,7 +23,7 @@
 - Undisputed
 	- Ar-Raheeq Al-Makhtum (The Sealed Nectar) by Safi-ur-Rahman al-Mubarakpuri (Indian Scholar)
 		- Most Popular
-	- A Biography of the Prophet of Islam (2 Vols. Set) by Mahdi Rizqullah Ahmad, translated by Syed Iqbal Zaheer, published by Darussalam.
+	- A Biography of the Prophet of Islam (2 Vols. Set) by Mahdi Rizqullah Ahmad, translated by Syed Iqbal Zaheer, published by Darussalam
 		- Most Authentic, because it does source analysis)
 - For Western Readers
 	- Karen, Muhammad: A Biography of the Prophet (most important)

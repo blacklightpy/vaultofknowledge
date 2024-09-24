@@ -305,8 +305,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f6b1222fc02ee7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -373,7 +387,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -402,7 +416,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Islamic Literature (of Ahl as-Sunnah).md"
               }
             }
           },
@@ -478,10 +492,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "b0dcba11c647df58",
+  "active": "5f6b1222fc02ee7a",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Principle of Causality.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/Principle of Causality.md",
     "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md",
     "🗃️ Unorganized/General Notes/Finding Pi - My Philosophy.md",
     "🗃️ Unorganized/General Notes/Units of Reality.md",

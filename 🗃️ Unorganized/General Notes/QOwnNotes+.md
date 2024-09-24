@@ -199,7 +199,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- [[Split Arguments used by Islam]]
 	- We do not process all the information at once
 		- For example, (my dad came to me, who was awake, and almost asked me if I was awake; he had it in his mind to wake me up)
-		- For another example, ()
+		- For another example, (-when you hear a new information and you don't connect it with something else you know-)
 		- This is due to the [[Principle of Causality]].
 
 - [[The problem of Religious Tolerance]]
