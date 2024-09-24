@@ -292,9 +292,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a95a7aec4835e0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -361,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md",
+                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md",
+                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -390,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md"
+                "file": "🗃️ Unorganized/General Notes/Principle of Causality.md"
               }
             }
           },
@@ -466,13 +479,14 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "e0f464c530ef8532",
+  "active": "a95a7aec4835e0fd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Finding Pi - My Philosophy.md",
+    "🗃️ Unorganized/General Notes/Principle of Causality.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+    "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md",
+    "🗃️ Unorganized/General Notes/Finding Pi - My Philosophy.md",
     "🗃️ Unorganized/General Notes/Units of Reality.md",
     "🗃️ Unorganized/General Notes/Debating Anti-Hindu Theologers.md",
-    "🗃️ Unorganized/General Notes/To Muslims - What you see may not be what is.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
     "🗃️ Unorganized/General Notes/Arachnae.md",
@@ -493,7 +507,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Euler Spiral.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/Jerk.md",
     "🔮 World Building/Science and Engineering/Physics/Mechanics/cam synthesis.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",

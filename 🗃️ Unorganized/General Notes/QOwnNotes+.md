@@ -404,3 +404,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 - Sentient and Semi-Sentient Beings
 	- Sentient beings do not believe in retributive justice, as they've transcended beyond that
 	- All beings are born semi-sentient
+
+- We do not process all the information at once
+	- For example, 
+	- This is due to the [[Principle of Causality]].
