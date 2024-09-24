@@ -1,118 +1,699 @@
 Surahs
 
-| #   | Anglicized title(s)                                                                        | Arabic title(s)                              | English title(s)                                                                                                                                                               | Number of verses (Number of [Rukū](https://en.wikipedia.org/wiki/Ruku_(Quran) "Ruku (Quran)")ʿs) |
-| --- | ------------------------------------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| 1   | [Al-Fatihah](https://en.wikipedia.org/wiki/Al-Fatiha "Al-Fatiha")                          | ٱلْفَاتِحَة  <br>_al-Fātiḥah_  <br>_al-Ḥamd_ | The Opening, the Opening of the Divine Writ, The Essence of the Divine Writ, The Surah of Praise, The Foundation of the Qur'an, and<br><br>The Seven Oft-Repeated [Verses]     | 7 (1)                                                                                            |
-| 2   | [Al-Baqarah](https://en.wikipedia.org/wiki/Al-Baqarah "Al-Baqarah")                        | ٱلْبَقَرَة  <br>_al-Baq̈arah_                | The Calf, The Cow, The Heifer                                                                                                                                                  | 286 (40)                                                                                         |
-| 3   | [Āl 'Imran](https://en.wikipedia.org/wiki/Al_Imran "Al Imran")                             | آلِ عِمْرَان  <br>_ʾĀli ʿImrān_              | The Family of [Imran](https://en.wikipedia.org/wiki/Amram "Amram"), The House of ʿImrān                                                                                        | 200 (20)                                                                                         |
-| 4   | [An-Nisa](https://en.wikipedia.org/wiki/An-Nisa "An-Nisa")                                 | ٱلنِّسَاء  <br>_an-Nisāʾ_                    | The Women                                                                                                                                                                      | 176 (24)                                                                                         |
-| 5   | [Al-Ma'idah](https://en.wikipedia.org/wiki/Al-Ma%27idah "Al-Ma'idah")                      | ٱلْمَائِدَة  <br>_al-Māʾidah_                | The Food, The Repast, The Table                                                                                                                                                | 120 (16)                                                                                         |
-| 6   | [Al-An'am](https://en.wikipedia.org/wiki/Al-An%27am "Al-An'am")                            | ٱلْأَنْعَام  <br>_al-ʾAnʿām_                 | The Cattle                                                                                                                                                                     | 165 (20)                                                                                         |
-| 7   | [Al-A'raf](https://en.wikipedia.org/wiki/Al-A%27raf "Al-A'raf")                            | ٱلْأَعْرَاف  <br>_al-ʾAʿrāf_                 | The Heights, The Faculty of Discernment                                                                                                                                        | 206 (24)                                                                                         |
-| 8   | [Al-Anfal](https://en.wikipedia.org/wiki/Al-Anfal "Al-Anfal")                              | ٱلْأَنْفَال  <br>_al-ʾAnfāl_                 | The Spoils of War                                                                                                                                                              | 75 (10)                                                                                          |
-| 9   | [At-Tawbah](https://en.wikipedia.org/wiki/At-Tawbah "At-Tawbah")                           | ٱلتَّوْبَة  <br>_at-Tawbah_                  | Repentance                                                                                                                                                                     | 129 (16)                                                                                         |
-| 10  | [Yunus](https://en.wikipedia.org/wiki/Yunus_(sura) "Yunus (sura)")                         | يُونُس  <br>_Yūnus_                          | [Jonah](https://en.wikipedia.org/wiki/Jonah "Jonah")                                                                                                                           | 109 (11)                                                                                         |
-| 11  | [Hud](https://en.wikipedia.org/wiki/Hud_(s%C5%ABrah) "Hud (sūrah)")                        | هُود  <br>_Hūd_                              | [Hud](https://en.wikipedia.org/wiki/Hud_(prophet) "Hud (prophet)")                                                                                                             | 123 (10)                                                                                         |
-| 12  | [Yusuf](https://en.wikipedia.org/wiki/Yusuf_(sura) "Yusuf (sura)")                         | يُوسُف  <br>_Yūsuf_                          | [Joseph](https://en.wikipedia.org/wiki/Joseph_in_Islam "Joseph in Islam")                                                                                                      | 111 (12)                                                                                         |
-| 13  | [Ar-Ra'd](https://en.wikipedia.org/wiki/Ar-Ra%27d "Ar-Ra'd")                               | ٱلرَّعْد  <br>_ar-Raʿd_                      | The Thunder                                                                                                                                                                    | 43 (6)                                                                                           |
-| 14  | [Ibrahim](https://en.wikipedia.org/wiki/Ibrahim_(sura) "Ibrahim (sura)")                   | إِبْرَاهِيم  <br>_ʾIbrāhīm_                  | [Abraham](https://en.wikipedia.org/wiki/Abraham "Abraham")                                                                                                                     | 52 (7)                                                                                           |
-| 15  | [Al-Hijr](https://en.wikipedia.org/wiki/Al-Hijr_(s%C5%ABrah) "Al-Hijr (sūrah)")            | ٱلْحِجْر  <br>_al-Ḥijr_                      | The Rocky Tract, The Stoneland, The Rock City                                                                                                                                  | 99 (6)                                                                                           |
-| 16  | [An-Nahl](https://en.wikipedia.org/wiki/An-Nahl "An-Nahl")                                 | ٱلنَّحْل  <br>_an-Naḥl_                      | The Bees                                                                                                                                                                       | 128 (16)                                                                                         |
-|     | [Al-Israa](https://en.wikipedia.org/wiki/Bani_Israel%27 "Bani Israel'") or _(Bani Israil)_ | Al-Israa                                     | [The Night Journey](https://en.wikipedia.org/wiki/Isra%27_and_Mi%27raj "Isra' and Mi'raj"),<br><br>[Children of Israel](https://en.wikipedia.org/wiki/Israelites "Israelites") | 111 (12)                                                                                         |
-| 18  | [Al-Kahf](https://en.wikipedia.org/wiki/Al-Kahf "Al-Kahf")                                 | ٱلْكَهْف  <br>_al-Kahf_                      | The Cave                                                                                                                                                                       | 110 (12)                                                                                         |
-| 19  | [Maryam](https://en.wikipedia.org/wiki/Maryam_(sura) "Maryam (sura)")                      | مَرْيَم  <br>_Maryam_                        | [Mary](https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus "Mary, mother of Jesus")                                                                                            | 98 (6)                                                                                           |
-| 20  | [Ta-Ha](https://en.wikipedia.org/wiki/Ta-Ha "Ta-Ha")                                       | طه  <br>_Ṭāʾ Hāʾ_                            | [Ṭāʾ](https://en.wikipedia.org/wiki/Teth "Teth") [Hāʾ](https://en.wikipedia.org/wiki/He_(letter) "He (letter)")                                                                | 135 (8)                                                                                          |
-| 21  | [Al-Anbiya](https://en.wikipedia.org/wiki/Al-Anbiya "Al-Anbiya")                           | ٱلْأَنْبِيَاء  <br>_al-ʾAnbiyāʾ_             | The Prophets                                                                                                                                                                   | 112 (7)                                                                                          |
-| 22  | [Al-Hajj](https://en.wikipedia.org/wiki/Al-Hajj "Al-Hajj")                                 | ٱلْحَجّ  <br>_al-Ḥajj_                       | The Pilgrimage, The [Hajj](https://en.wikipedia.org/wiki/Hajj "Hajj")                                                                                                          | 78 (10)                                                                                          |
-| 23  | [Al-Mu'minun](https://en.wikipedia.org/wiki/Al-Mu%27minun "Al-Mu'minun")                   | ٱلْمُؤْمِنُون  <br>_al-Muʾminūn_             | The Believers                                                                                                                                                                  | 118 (6)                                                                                          |
-| 24  | [An-Nur](https://en.wikipedia.org/wiki/An-Nur "An-Nur")                                    | ٱلنُّور  <br>_an-Nūr_                        | The Light                                                                                                                                                                      | 64 (9)                                                                                           |
-| 25  | [Al-Furqan](https://en.wikipedia.org/wiki/Al-Furqan "Al-Furqan")                           | ٱلْفُرْقَان  <br>_al-Furq̈ān_                | The Criterion, The Standard, The Standard of True and False                                                                                                                    | 77 (6)                                                                                           |
-| 26  | [Ash-Shu'ara](https://en.wikipedia.org/wiki/Ash-Shu%27ara "Ash-Shu'ara")                   | ٱلشُّعَرَاء  <br>_aš-Šuʿarāʾ_                | The Poets                                                                                                                                                                      | 227 (11)                                                                                         |
-| 27  | [An-Naml](https://en.wikipedia.org/wiki/An-Naml "An-Naml")                                 | ٱلنَّمْل  <br>_an-Naml_                      | The Ant, The Ants                                                                                                                                                              | 93 (7)                                                                                           |
-| 28  | [Al-Qasas](https://en.wikipedia.org/wiki/Al-Qasas "Al-Qasas")                              | ٱلْقَصَص  <br>_al-Q̈aṣaṣ_                    | The Narrations, The Stories, The Story                                                                                                                                         | 88 (9)                                                                                           |
-| 29  | [Al-Ankabut](https://en.wikipedia.org/wiki/Al-Ankabut "Al-Ankabut")                        | ٱلْعَنْكَبُوت  <br>_al-ʿAnkabūt_             | The Spider                                                                                                                                                                     | 69 (7)                                                                                           |
-| 30  | [Ar-Rum](https://en.wikipedia.org/wiki/Ar-Rum "Ar-Rum")                                    | ٱلرُّوم  <br>_ar-Rūm_                        | [Rome](https://en.wikipedia.org/wiki/Ancient_Rome "Ancient Rome"), [Byzantium](https://en.wikipedia.org/wiki/Byzantine_Empire "Byzantine Empire")                              | 60 (6)                                                                                           |
-| 31  | [Luqmaan](https://en.wikipedia.org/wiki/Luqman_(sura) "Luqman (sura)")                     | لُقْمَان  <br>_Luq̈mān_                      | [Luqman](https://en.wikipedia.org/wiki/Luqman "Luqman")                                                                                                                        | 34 (4)                                                                                           |
-| 32  | [As-Sajdah](https://en.wikipedia.org/wiki/As-Sajda "As-Sajda")                             | ٱلسَّجْدَة  <br>_as-Sajdah_                  | The Prostration, Worship, Adoration                                                                                                                                            | 30 (3)                                                                                           |
-| 33  | [Al-Ahzaab](https://en.wikipedia.org/wiki/Al-Ahzab "Al-Ahzab")                             | ٱلْأَحْزَاب  <br>_al-ʾAḥzāb_                 | The Clans, The Confederates, The Combined Forces                                                                                                                               | 73 (9)                                                                                           |
-| 34  | [Saba](https://en.wikipedia.org/wiki/Saba_(surah) "Saba (surah)")                          | سَبَأ  <br>_Sabaʾ_                           | Sheba                                                                                                                                                                          | 54 (6)                                                                                           |
-| 35  | [Faatir](https://en.wikipedia.org/wiki/Fatir "Fatir")                                      | فَاطِر  <br>_Fāṭir_                          | The Originator                                                                                                                                                                 | 45 (5)                                                                                           |
-| 36  | [Ya-Sin](https://en.wikipedia.org/wiki/Ya-Sin "Ya-Sin")                                    | يس  <br>_Yāʾ Sīn_                            | [Yāʾ](https://en.wikipedia.org/wiki/Yodh "Yodh") [Sīn](https://en.wikipedia.org/wiki/Shin_(letter) "Shin (letter)")                                                            | 83 (5)                                                                                           |
-| 37  | [As-Saaffaat](https://en.wikipedia.org/wiki/As-Saffat "As-Saffat")                         | ٱلصَّافَّات  <br>_aṣ-Ṣāffāt_                 | Those Who Set The Ranks, Drawn Up In Ranks, Those Ranged in Ranks                                                                                                              | 182 (5)                                                                                          |
-| 38  | [Saad](https://en.wikipedia.org/wiki/Sad_(sura) "Sad (sura)")                              | ص  <br>_Ṣād_                                 | [Ṣād](https://en.wikipedia.org/wiki/Tsade "Tsade")                                                                                                                             | 88 (5)                                                                                           |
-| 39  | [Az-Zumar](https://en.wikipedia.org/wiki/Az-Zumar "Az-Zumar")                              | ٱلزُّمَر  <br>_az-Zumar_                     | The Crowds, The Troops, Throngs                                                                                                                                                | 75 (8)                                                                                           |
-| 40  | [Ghafir](https://en.wikipedia.org/wiki/Ghafir "Ghafir")<br><br>_(Al-Muʼmin)_               | غَافِر  <br>_Ghafir_                         | The Forgiver (God), Forgiving,<br><br>_or The Believer_                                                                                                                        | 85 (9)                                                                                           |
-| 41  | [Fussilat](https://en.wikipedia.org/wiki/Fussilat "Fussilat")                              | فُصِّلَت  <br>_Fuṣṣilat_                     | Expounded, Explained In Detail, Clearly Spelled Out                                                                                                                            | 54 (6)                                                                                           |
-| 42  | [Ash-Shura](https://en.wikipedia.org/wiki/Ash-Shura "Ash-Shura")                           | ٱلشُّورىٰ  <br>_aš-Šūrā_                     | The Consultation                                                                                                                                                               | 53 (5)                                                                                           |
-| 43  | [Az-Zukhruf](https://en.wikipedia.org/wiki/Az-Zukhruf "Az-Zukhruf")                        | ٱلْزُّخْرُف  <br>_az-Zukhruf_                | The Gold Adornments, The Ornaments of Gold, Luxury, Gold                                                                                                                       | 89 (7)                                                                                           |
-| 44  | [Ad-Dukhaan](https://en.wikipedia.org/wiki/Ad-Dukhan "Ad-Dukhan")                          | ٱلدُّخَان  <br>_ad-Dukhān_                   | The Smoke                                                                                                                                                                      | 59 (3)                                                                                           |
-| 45  | [Al-Jaathiyah](https://en.wikipedia.org/wiki/Al-Jathiya "Al-Jathiya")                      | ٱلْجَاثِيَة  <br>_al-Jāthiyah_               | The Kneeling Down, Crouching                                                                                                                                                   | 37 (4)                                                                                           |
-| 46  | [Al-Ahqaaf](https://en.wikipedia.org/wiki/Al-Ahqaf "Al-Ahqaf")                             | ٱلْأَحْقَاف  <br>_al-ʾAḥq̈āf_                | Winding Sand-tracts, The Dunes, The Sand-Dunes                                                                                                                                 | 35 (4 1/2)                                                                                       |
-| 47  | [Muhammad](https://en.wikipedia.org/wiki/Muhammad_(sura) "Muhammad (sura)")                | مُحَمَّد  <br>_Muḥammad_                     | [Muhammad](https://en.wikipedia.org/wiki/Muhammad "Muhammad")                                                                                                                  | 38 (4)                                                                                           |
-| 48  | [Al-Fath](https://en.wikipedia.org/wiki/Al-Fath "Al-Fath")                                 | ٱلْفَتْح  <br>_al-Fatḥ_                      | The Victory, Conquest                                                                                                                                                          | 29 (4 1/2)                                                                                       |
-| 49  | [Al-Hujuraat](https://en.wikipedia.org/wiki/Al-Hujurat "Al-Hujurat")                       | ٱلْحُجُرَات  <br>_al-Ḥujurāt_                | The Private Apartments, The Inner Apartments                                                                                                                                   | 18 (2 1/2)                                                                                       |
-| 50  | [Qaaf](https://en.wikipedia.org/wiki/Qaf_(sura) "Qaf (sura)")                              | ق  <br>_Q̈āf_                                | [Q̈āf](https://en.wikipedia.org/wiki/Qoph "Qoph")                                                                                                                              | 45 (3)                                                                                           |
-| 51  | [Adh-Dhaariyaat](https://en.wikipedia.org/wiki/Adh-Dhariyat "Adh-Dhariyat")                | ٱلذَّارِيَات  <br>_aḏ-Ḏāriyāt_               | The Wind That Scatter, The Winnowing Winds, The Dust-Scattering Winds                                                                                                          | 60 (2 1/2)                                                                                       |
-| 52  | [At-Toor](https://en.wikipedia.org/wiki/At-Tour "At-Tour")                                 | ٱلطُّور  <br>_aṭ-Ṭūr_                        | The Mount, Mount Sinai                                                                                                                                                         | 49 (2 1/2)                                                                                       |
-| 53  | [An-Najm](https://en.wikipedia.org/wiki/An-Najm "An-Najm")                                 | ٱلنَّجْم  <br>_an-Najm_                      | The Star, The Unfolding                                                                                                                                                        | 62 (2 1/2)                                                                                       |
-| 54  | [Al-Qamar](https://en.wikipedia.org/wiki/Al-Qamar "Al-Qamar")                              | ٱلْقَمَر  <br>_al-Q̈amar_                    | [The Moon](https://en.wikipedia.org/wiki/Moon "Moon")                                                                                                                          | 55 (2 1/2)                                                                                       |
-| 55  | [Ar-Rahman](https://en.wikipedia.org/wiki/Ar-Rahman "Ar-Rahman")                           | ٱلرَّحْمَٰن  <br>_ar-Raḥmān_                 | The Most Merciful, The Most Gracious                                                                                                                                           | 78 (3)                                                                                           |
-| 56  | [Al-Waqi'ah](https://en.wikipedia.org/wiki/Al-Waqi%27a "Al-Waqi'a")                        | ٱلْوَاقِعَة  <br>_al-Wāqiʿah_                | The Inevitable, The Event, That Which Must Come to Pass                                                                                                                        | 96 (3 1/2)                                                                                       |
-| 57  | [Al-Hadeed](https://en.wikipedia.org/wiki/Al-Hadeed "Al-Hadeed")                           | ٱلْحَدِيد  <br>_al-Ḥadīd_                    | [Iron](https://en.wikipedia.org/wiki/Iron "Iron")                                                                                                                              | 29 (4)                                                                                           |
-| 58  | [Al-Mujadila](https://en.wikipedia.org/wiki/Al-Mujadila "Al-Mujadila")                     | ٱلْمُجَادِلَة  <br>_al-Mujādilah_            | The Pleading, The Pleading Woman                                                                                                                                               | 22 (3 1/2)                                                                                       |
-| 59  | [Al-Hashr](https://en.wikipedia.org/wiki/Al-Hashr "Al-Hashr")                              | ٱلْحَشْر  <br>_al-Ḥašr_                      | The Mustering, The Gathering, Exile, Banishment                                                                                                                                | 24 (3 1/2)                                                                                       |
-| 60  | [Al-Mumtahanah](https://en.wikipedia.org/wiki/Al-Mumtahanah "Al-Mumtahanah")               | ٱلْمُمْتَحَنَة  <br>_al-Mumtaḥanah_          | The Examined One, She That Is To Be Examined                                                                                                                                   | 13 (2 1/2)                                                                                       |
-| 61  | [As-Saff](https://en.wikipedia.org/wiki/As-Saff "As-Saff")                                 | ٱلصَّفّ  <br>_aṣ-Ṣaff_                       | The Ranks, Battle Array                                                                                                                                                        | 14 (1 1/2                                                                                        |
-| 62  | [Al-Jumu'ah](https://en.wikipedia.org/wiki/Al-Jumu%27ah "Al-Jumu'ah")                      | ٱلْجُمُعَة  <br>_al-Jumuʿah_                 | Congregation, Friday                                                                                                                                                           | 11 (1 1/2                                                                                        |
-| 63  | [Al-Munafiqoon](https://en.wikipedia.org/wiki/Al-Munafiqun "Al-Munafiqun")                 | ٱلْمُنَافِقُون  <br>_al-Munāfiq̈ūn_          | The Hypocrites                                                                                                                                                                 | 11 (1 1/2)                                                                                       |
-| 64  | [At-Taghabun](https://en.wikipedia.org/wiki/At-Taghabun "At-Taghabun")                     | ٱلتَّغَابُن  <br>_at-Taghābun_               | The Cheating, The Mutual Disillusion, The Mutual Loss and Gain, Loss and Gain                                                                                                  | 18 (2)                                                                                           |
-| 65  | [At-Talaq](https://en.wikipedia.org/wiki/At-Talaq "At-Talaq")                              | ٱلطَّلَاق  <br>_aṭ-Ṭalāq̈_                   | Divorce                                                                                                                                                                        | 12 (2)                                                                                           |
-| 66  | [At-Tahreem](https://en.wikipedia.org/wiki/At-Tahreem "At-Tahreem")                        | ٱلتَّحْرِيم  <br>_at-Taḥrīm_                 | The Prohibition                                                                                                                                                                | 12 (2)                                                                                           |
-| 67  | [Al-Mulk](https://en.wikipedia.org/wiki/Al-Mulk "Al-Mulk")                                 | ٱلْمُلْك  <br>_al-Mulk_                      | The Dominion, Sovereignty, Control                                                                                                                                             | 30 (1 1/2)                                                                                       |
-| 68  | [Al-Qalam](https://en.wikipedia.org/wiki/Al-Qalam "Al-Qalam")                              | ٱلْقَلَم  <br>_al-Q̈alam_                    | The [Pen](https://en.wikipedia.org/wiki/Pen "Pen")                                                                                                                             | 52 (2)                                                                                           |
-| 69  | [Al-Haaqqa](https://en.wikipedia.org/wiki/Al-Haaqqa "Al-Haaqqa")                           | ٱلْحَاقَّة  <br>_al-Ḥāq̈q̈ah_                | The Sure Reality, The Laying-Bare of the Truth                                                                                                                                 | 52 (2)                                                                                           |
-| 70  | [Al-Ma'aarij](https://en.wikipedia.org/wiki/Al-Ma%27aarij "Al-Ma'aarij")                   | ٱلْمَعَارِج  <br>_al-Maʿārij_                | The Ways of Ascent, The Ascending Stairways                                                                                                                                    | 44 (1 1/2)                                                                                       |
-| 71  | [Nuh](https://en.wikipedia.org/wiki/N%C5%AB%E1%B8%A5 "Nūḥ")                                | نُوح  <br>_Nūḥ_                              | [Noah](https://en.wikipedia.org/wiki/Noah "Noah")                                                                                                                              | 28 (1 1/2)                                                                                       |
-| 72  | [Al-Jinn](https://en.wikipedia.org/wiki/Al-Jinn "Al-Jinn")                                 | ٱلْجِنّ  <br>_al-Jinn_                       | The [Jinn](https://en.wikipedia.org/wiki/Jinn "Jinn"), The Spirits, The Unseen Beings                                                                                          | 28 (2)                                                                                           |
-| 73  | [Al-Muzzammil](https://en.wikipedia.org/wiki/Al-Muzzammil "Al-Muzzammil")                  | ٱلْمُزَّمِّل  <br>_al-Muzzammil_             | The Enfolded One, The Enshrouded One, Bundled Up, The Enwrapped One                                                                                                            | 20 (1 1/2)                                                                                       |
-| 74  | [Al-Muddaththir](https://en.wikipedia.org/wiki/Al-Muddathir "Al-Muddathir")                | ٱلْمُدَّثِّر  <br>_al-Muddathir_             | The One Wrapped Up, The Cloaked One, The Man Wearing A Cloak, The Enfolded One                                                                                                 | 56 (2)                                                                                           |
-| 75  | [Al-Qiyamah](https://en.wikipedia.org/wiki/Al-Qiyama "Al-Qiyama")                          | ٱلْقِيَامَة  <br>_al-Q̈iyamah_               | Resurrection, The Day of Resurrection, Rising Of The Dead                                                                                                                      | 40 (1)                                                                                           |
-| 76  | [Al-Insaan](https://en.wikipedia.org/wiki/Al-Insan "Al-Insan") _(Ad-Dahr)_                 | ٱلْإِنْسَان  <br>_al-ʾInsān_                 | The [Human](https://en.wikipedia.org/wiki/Human "Human"), Man                                                                                                                  | 31 (2)                                                                                           |
-| 77  | [Al-Mursalaat](https://en.wikipedia.org/wiki/Al-Mursalat "Al-Mursalat")                    | ٱلْمُرْسَلَات  <br>_al-Mursalāt_             | Those Sent Forth, The Emissaries, Winds Sent Forth                                                                                                                             | 50 (1 1/2)                                                                                       |
-| 78  | [An-Naba'](https://en.wikipedia.org/wiki/An-Naba%27 "An-Naba'")                            | ٱلنَّبَأ  <br>_an-Nabaʾ_                     | The Great News, The Announcement, The Tiding                                                                                                                                   | 40 (1 1/2)                                                                                       |
-| 79  | [An-Naazi'aat](https://en.wikipedia.org/wiki/An-Nazi%27at "An-Nazi'at")                    | ٱلنَّازِعَات  <br>_an-Nāziʿāt_               | Those Who Tear Out, Those Who Drag Forth, Soul-snatchers, Those That Rise                                                                                                      | 46 (1 1/2)                                                                                       |
-| 80  | [Abasa](https://en.wikipedia.org/wiki/Abasa "Abasa")                                       | عَبَسَ  <br>_ʿAbasa_                         | He Frowned                                                                                                                                                                     | 42 (1)                                                                                           |
-| 81  | [At-Takweer](https://en.wikipedia.org/wiki/At-Takweer "At-Takweer")                        | ٱلتَّكْوِير  <br>_at-Takwīr_                 | The Folding Up, The Overthrowing, Shrouding in Darkness                                                                                                                        | 29 (1)                                                                                           |
-| 82  | [Al-Infitar](https://en.wikipedia.org/wiki/Al-Infitar "Al-Infitar")                        | ٱلْإِنْفِطَار  <br>_al-ʾInfiṭār_             | The Cleaving Asunder, Bursting Apart                                                                                                                                           | 19 (1/2)                                                                                         |
-| 83  | [Al-Mutaffifeen](https://en.wikipedia.org/wiki/Al-Mutaffifeen "Al-Mutaffifeen")            | ٱلْمُطَفِّفِين  <br>_al-Muṭaffifīn_          | The Dealers in Fraud, Defrauding, The Cheats, Those Who Give Short Measure                                                                                                     | 36 (1)                                                                                           |
-| 84  | [Al-Inshiqaaq](https://en.wikipedia.org/wiki/Al-Inshiqaq "Al-Inshiqaq")                    | ٱلْإِنْشِقَاق  <br>_al-ʾInšiq̈āq̈_           | The Rending Asunder, The Sundering, Splitting Open, The Splitting Asunder                                                                                                      | 25 (1)                                                                                           |
-| 85  | [Al-Burooj](https://en.wikipedia.org/wiki/Al-Burooj "Al-Burooj")                           | ٱلْبُرُوج  <br>_al-Burūj_                    | The Mansions Of The Stars, The Constellations, The Great Constellations                                                                                                        | 22 (1)                                                                                           |
-| 86  | [At-Taariq](https://en.wikipedia.org/wiki/At-Tariq "At-Tariq")                             | ٱلطَّارِق  <br>_aṭ-Ṭāriq̈_                   | The Night-Visitant, The Morning Star, The Nightcomer, That Which Comes in the Night                                                                                            | 17 (1/2)                                                                                         |
-| 87  | [Al-A'la](https://en.wikipedia.org/wiki/Al-A%27la "Al-A'la")                               | ٱلْأَعْلَىٰ  <br>_al-ʾAʿlā_                  | The Most High, The All-Highest, Glory To Your Lord In The Highest                                                                                                              | 19 (1/2)                                                                                         |
-| 88  | [Al-Ghaashiyah](https://en.wikipedia.org/wiki/Al-Ghashiyah "Al-Ghashiyah")                 | ٱلْغَاشِيَة  <br>_al-Ghāšiyah_               | The Overwhelming Event, The Overshadowing Event, The Pall                                                                                                                      | 26 (1)                                                                                           |
-| 89  | [Al-Fajr](https://en.wikipedia.org/wiki/Al-Fajr_(surah) "Al-Fajr (surah)")                 | ٱلْفَجْر  <br>_al-Fajr_                      | The Break of Day, The Daybreak, The Dawn                                                                                                                                       | 30 (1)                                                                                           |
-| 90  | [Al-Balad](https://en.wikipedia.org/wiki/Al-Balad "Al-Balad")                              | ٱلْبَلَد  <br>_al-Balad_                     | The city, The Land                                                                                                                                                             | 20 (1/2)                                                                                         |
-| 91  | [Ash-Shams](https://en.wikipedia.org/wiki/Ash-Shams "Ash-Shams")                           | ٱلشَّمْس  <br>_aš-Šams_                      | [The Sun](https://en.wikipedia.org/wiki/Sun "Sun")                                                                                                                             | 15 (1/2)                                                                                         |
-| 92  | [Al-Layl](https://en.wikipedia.org/wiki/Al-Lail "Al-Lail")                                 | ٱللَّيْل  <br>_al-Layl_                      | The [Night](https://en.wikipedia.org/wiki/Night "Night")                                                                                                                       | 21 (1/2)                                                                                         |
-| 93  | [Ad-Dhuha](https://en.wikipedia.org/wiki/Ad-Dhuha "Ad-Dhuha")                              | ٱلضُّحَىٰ  <br>_aḍ-Ḍuḥā_                     | The Glorious Morning Light, The Forenoon, Morning Hours, Morning Bright, The Bright Morning Hours                                                                              | 11 (1/2)                                                                                         |
-| 94  | [Ash-Sharh](https://en.wikipedia.org/wiki/Ash-Sharh "Ash-Sharh") _(Al-Inshirah)_           | ٱلشَّرْح  <br>_aš-Šarḥ_                      | The Expansion of Breast, Solace, Consolation, Relief, Patient, The Opening-Up of the Heart                                                                                     | 8 (1/3)                                                                                          |
-| 95  | [At-Tin](https://en.wikipedia.org/wiki/At-Tin "At-Tin")                                    | ٱلتِّين  <br>_at-Tīn_                        | The Fig Tree, The Fig                                                                                                                                                          | 8 (1/3)                                                                                          |
-| 96  | [Al-Alaq](https://en.wikipedia.org/wiki/Al-Alaq "Al-Alaq")                                 | ٱلْعَلَق  <br>_al-ʿAlaq̈_                    | The Clinging Clot, Clot of Blood, The Germ-Cell                                                                                                                                | 19 (1/2)                                                                                         |
-| 97  | [Al-Qadr](https://en.wikipedia.org/wiki/Al-Qadr_(surah) "Al-Qadr (surah)")                 | ٱلْقَدْر  <br>_al-Q̈adr_                     | The Night of Honor, The Night of Decree, Power, Fate, Destiny                                                                                                                  | 5 (1/3)                                                                                          |
-| 98  | [Al-Bayyinah](https://en.wikipedia.org/wiki/Al-Bayyina "Al-Bayyina")                       | ٱلْبَيِّنَة  <br>_al-Bayyinah_               | The Clear Evidence, The Evidence of the Truth                                                                                                                                  | 8 (1)                                                                                            |
-| 99  | [Az-Zalzalah](https://en.wikipedia.org/wiki/Al-Zalzalah "Al-Zalzalah")                     | ٱلزَّلْزَلَة  <br>_Az-Zalzalah_              | The [Earthquake](https://en.wikipedia.org/wiki/Earthquake "Earthquake")                                                                                                        | 8 (1/3)                                                                                          |
-| 100 | [Al-'Aadiyat](https://en.wikipedia.org/wiki/Al-Adiyat "Al-Adiyat")                         | ٱلْعَادِيَات  <br>_al-ʿĀdiyāt_               | The Courser, The Chargers, The War Horse                                                                                                                                       | 11 (1/3)                                                                                         |
-| 101 | [Al-Qaari'ah](https://en.wikipedia.org/wiki/Al-Qaria "Al-Qaria")                           | ٱلْقَارِعَة  <br>_al-Q̈āriʿah_               | The Striking Hour, The Great Calamity, The Stunning Blow, The Sudden Calamity                                                                                                  | 11 (1/3)                                                                                         |
-| 102 | [At-Takaathur](https://en.wikipedia.org/wiki/At-Takathur "At-Takathur")                    | ٱلتَّكَاثُر  <br>_at-Takāthur_               | The Piling Up, Rivalry in World Increase, Competition, Greed for More and More                                                                                                 | 8 (1/3)                                                                                          |
-| 103 | [Al-'Asr](https://en.wikipedia.org/wiki/Al-Asr "Al-Asr")                                   | ٱلْعَصْر  <br>_al-ʿAṣr_                      | The Time, The Declining Day, The Epoch, The Flight of Time, Success Criteria                                                                                                   | 3 (1/3)                                                                                          |
-| 104 | [Al-Humazah](https://en.wikipedia.org/wiki/Al-Humazah "Al-Humazah")                        | ٱلْهُمَزَة  <br>_al-Humazah_                 | The Scandalmonger, The Traducer, The Gossipmonger, The Slanderer                                                                                                               | 9 (1/3)                                                                                          |
-| 105 | [Al-Feel](https://en.wikipedia.org/wiki/Al-Feel "Al-Feel")                                 | ٱلْفِيل  <br>_al-Fīl_                        | [The Elephant](https://en.wikipedia.org/wiki/Elephant "Elephant")                                                                                                              | 5 (1/3)                                                                                          |
-| 106 | [Quraish](https://en.wikipedia.org/wiki/Quraysh_(sura) "Quraysh (sura)")                   | قُرَيْش  <br>_Q̈urayš_                       | The [Quraysh](https://en.wikipedia.org/wiki/Quraysh "Quraysh")                                                                                                                 | 4 (1/3)                                                                                          |
-| 107 | [Al-Maa'oon](https://en.wikipedia.org/wiki/Al-Maa%27oun "Al-Maa'oun")                      | ٱلْمَاعُون  <br>_al-Maʿūn_                   | The Neighbourly Assistance, Small Kindnesses, Almsgiving, Assistance                                                                                                           | 7 (1/3)                                                                                          |
-| 108 | [Al-Kawthar](https://en.wikipedia.org/wiki/Al-Kawthar "Al-Kawthar")                        | ٱلْكَوْثَر  <br>_al-Kawthar_                 | Abundance, Plenty, Good in Abundance                                                                                                                                           | 3 (1/3)                                                                                          |
-| 109 | [Al-Kaafiroon](https://en.wikipedia.org/wiki/Al-Kafirun "Al-Kafirun")                      | ٱلْكَافِرُون  <br>_al-Kāfirūn_               | The Disbelievers, The [Kuffar](https://en.wikipedia.org/wiki/Kafir "Kafir"), Those Who Deny the Truth                                                                          | 6 (1/3)                                                                                          |
-| 110 | [An-Nasr](https://en.wikipedia.org/wiki/An-Nasr "An-Nasr")                                 | ٱلنَّصْر  <br>_an-Naṣr_                      | The Help, Divine Support, Victory, Succour                                                                                                                                     | 3 (1/3)                                                                                          |
-| 111 | [Al-Masad](https://en.wikipedia.org/wiki/Al-Masad "Al-Masad")<br><br>_(Al-Lahab)_          | ٱلْمَسَد  <br>_al-Masad_                     | The Plaited Rope, The Palm Fibre, The Twisted Strands                                                                                                                          | 5 (1/3)                                                                                          |
-| 112 | [Al-Ikhlas](https://en.wikipedia.org/wiki/Al-Ikhlas "Al-Ikhlas")                           | ٱلْإِخْلَاص  <br>_al-ʾIkhlāṣ_                | Purity of Faith, The Fidelity, Tawheed (Oneness of God), The Declaration of [God's] Perfection                                                                                 | 4 (1/3)                                                                                          |
-| 113 | [Al-Falaq](https://en.wikipedia.org/wiki/Al-Falaq "Al-Falaq")                              | ٱلْفَلَق  <br>_al-Falaq̈_                    | The Daybreak, Dawn, The Rising Dawn                                                                                                                                            | 5 (1/3)                                                                                          |
-| 114 | [An-Naas](https://en.wikipedia.org/wiki/An-Nas "An-Nas")                                   | ٱلنَّاس  <br>_an-Nās_                        | Mankind, Men, Mass                                                                                                                                                             | 6 (1/3)                                                                                          |
+
+
+- Surah 1: الفاتحة / al-Fatiha (The Opening)
+- Surah 2: سورة البَقَرَة / al-Baqarah (The Cow)
+- 
+
+
+
+
+The Opening (7 verses)
+Chapter 2
+
+Al-Baqara
+The Cow (286 verses)
+Juz' 2
+Chapter 2
+سورة البَقَرَة
+Al-Baqara
+The Cow (286 verses)
+Juz' 3
+Chapter 2
+سورة
+البَقَرَة
+Al-Baqara
+The Cow (286 verses)
+Chapter 3
+سورة
+آل عمران
+Aal-Imran
+The family of Imran (200 verses)
+Juz' 4
+Chapter 3
+سورة
+آل عمران
+Aal-Imran
+The family of Imran (200 verses)
+Chapter 4
+سورة
+النساء
+An-Nisa
+The Women (176 verses)
+Juz' 5
+Chapter 4
+سورة
+النساء
+An-Nisa
+The Women (176 verses)
+Juz' 6
+Chapter 4
+سورة
+النساء
+An-Nisa
+The Women (176 verses)
+Chapter 5
+سورة
+المائدة
+Al-Maeda
+The Table Spread (120 verses)
+Juz' 7
+Chapter 5
+سورة
+المائدة
+Al-Maeda
+The Table Spread (120 verses)
+Chapter 6
+سورة
+الأنعام
+Al-Anaam
+The cattle (165 verses)
+Juz' 8
+Chapter 6
+سورة
+الأنعام
+Al-Anaam
+The cattle (165 verses)
+Chapter 7
+سورة
+الأعراف
+Al-Araf
+The heights (206 verses)
+Juz' 9
+Chapter 7
+سورة
+الأعراف
+Al-Araf
+The heights (206 verses)
+Chapter 8
+سورة
+الأنفال
+Al-Anfal
+Spoils of war, booty (75 verses)
+Juz' 10
+Chapter 8
+سورة
+الأنفال
+Al-Anfal
+Spoils of war, booty (75 verses)
+Chapter 9
+سورة
+التوبة
+At-Taubah
+Repentance (129 verses)
+Juz' 11
+Chapter 9
+سورة
+التوبة
+At-Taubah
+Repentance (129 verses)
+Chapter 10
+سورة
+يونس
+Younus
+Jonah (109 verses)
+Chapter 11
+سورة
+هود
+Hood
+Hud (123 verses)
+Juz' 12
+Chapter 11
+سورة
+هود
+Hood
+Hud (123 verses)
+Chapter 12
+سورة
+يوسف
+Yusuf
+Joseph (111 verses)
+Juz' 13
+Chapter 12
+سورة
+يوسف
+Yusuf
+Joseph (111 verses)
+Chapter 13
+سورة
+الرعد
+Ar-Ra'ad
+The Thunder (43 verses)
+Chapter 14
+سورة
+إبراهيم
+Ibrahim
+Abraham (52 verses)
+Juz' 14
+Chapter 15
+سورة
+الحجر
+Al-Hijr
+Stoneland, Rock city, Al-Hijr valley (99 verses)
+Chapter 16
+سورة
+النحل
+An-Nahl
+The Bee (128 verses)
+Juz' 15
+Chapter 17
+سورة
+الإسراء
+Al-Isra
+The night journey (111 verses)
+Chapter 18
+سورة
+الكهف
+Al-Kahf
+The cave (110 verses)
+Juz' 16
+Chapter 18
+سورة
+الكهف
+Al-Kahf
+The cave (110 verses)
+Chapter 19
+سورة
+مريم
+Maryam
+Mary (98 verses)
+Chapter 20
+سورة
+طه
+Taha
+Taha (135 verses)
+Juz' 17
+Chapter 21
+سورة
+الأنبياء
+Al-Anbiya
+The Prophets (112 verses)
+Chapter 22
+سورة
+الحج
+Al-Hajj
+The Pilgrimage (78 verses)
+Juz' 18
+Chapter 23
+سورة
+المؤمنون
+Al-Muminoon
+The Believers (118 verses)
+Chapter 24
+سورة
+النور
+Al-Noor
+The Light (64 verses)
+Chapter 25
+سورة
+الفرقان
+Al-Furqan
+The Standard (77 verses)
+Juz' 19
+Chapter 25
+سورة
+الفرقان
+Al-Furqan
+The Standard (77 verses)
+Chapter 26
+سورة
+الشعراء
+Ash-Shu'ara
+The Poets (227 verses)
+Chapter 27
+سورة
+النمل
+An-Naml
+The Ant (93 verses)
+Juz' 20
+Chapter 27
+سورة
+النمل
+An-Naml
+The Ant (93 verses)
+Chapter 28
+سورة
+القصص
+Al-Qasas
+The Story (88 verses)
+Chapter 29
+سورة
+العنكبوت
+Al-Ankaboot
+The Spider (69 verses)
+Juz' 21
+Chapter 30
+سورة
+الروم
+Ar-Room
+The Romans (60 verses)
+Chapter 31
+سورة
+لقمان
+Luqman
+Luqman (34 verses)
+Chapter 32
+سورة
+السجدة
+As-Sajda
+The Prostration (30 verses)
+Chapter 33
+سورة
+الأحزاب
+Al-Ahzab
+The Coalition (73 verses)
+Juz' 22
+Chapter 33
+سورة
+الأحزاب
+Al-Ahzab
+The Coalition (73 verses)
+Chapter 34
+سورة
+سبأ
+As-Saba
+Saba (54 verses)
+Chapter 35
+سورة
+فاطر
+Fatir
+Originator (45 verses)
+Chapter 36
+سورة
+يس
+Yaseen
+Ya Seen (83 verses)
+Juz' 23
+Chapter 36
+سورة
+يس
+Yaseen
+Ya Seen (83 verses)
+Chapter 37
+سورة
+الصافات
+As-Saaffat
+Those who set the ranks (182 verses)
+Chapter 38
+سورة
+ص
+Saad
+Sad (88 verses)
+Chapter 39
+سورة
+الزمر
+Al-Zumar
+The Troops (75 verses)
+Juz' 24
+Chapter 39
+سورة
+الزمر
+Al-Zumar
+The Troops (75 verses)
+Chapter 40
+سورة
+غافر
+Ghafir
+The Forgiver (85 verses)
+Chapter 41
+سورة
+فصلت
+Fussilat
+Explained in detail (54 verses)
+Juz' 25
+Chapter 41
+سورة
+فصلت
+Fussilat
+Explained in detail (54 verses)
+Chapter 42
+سورة
+الشورى
+Ash-Shura
+Council, Consultation (53 verses)
+Chapter 43
+سورة
+الزخرف
+Az-Zukhruf
+Ornaments of Gold (89 verses)
+Chapter 44
+سورة
+الدخان
+Al-Dukhan
+The Smoke (59 verses)
+Chapter 45
+سورة
+الجاثية
+Al-Jathiya
+Crouching (37 verses)
+Juz' 26
+Chapter 46
+سورة
+الأحقاف
+Al-Ahqaf
+The wind-curved sandhills (35 verses)
+Chapter 47
+سورة
+محمد
+Muhammad
+Muhammad (38 verses)
+Chapter 48
+سورة
+الفتح
+Al-Fath
+The victory (29 verses)
+Chapter 49
+سورة
+الحجرات
+Al-Hujraat
+The private apartments (18 verses)
+Chapter 50
+سورة
+ق
+Qaaf
+Qaaf (45 verses)
+Juz' 27
+Chapter 51
+سورة
+الذاريات
+Al-Dhariyaat
+The winnowing winds (60 verses)
+Chapter 52
+سورة
+الطور
+At-Tur
+Mount Sinai (49 verses)
+Chapter 53
+سورة
+النجم
+An-Najm
+The Stars (62 verses)
+Chapter 54
+سورة
+القمر
+Al-Qamar
+The Moon (55 verses)
+Chapter 55
+سورة
+الرحمن
+Al-Rahman
+The Beneficient (78 verses)
+Chapter 56
+سورة
+الواقعة
+Al-Waqia
+The Event, The Inevitable (96 verses)
+Chapter 57
+سورة
+الحديد
+Al-Hadid
+The Iron (29 verses)
+Juz' 28
+Chapter 58
+سورة
+المجادلة
+Al-Mujadilah
+She that disputes (22 verses)
+Chapter 59
+سورة
+الحشر
+Al-Hashr
+Exile (29 verses)
+Chapter 60
+سورة
+الممتحنة
+Al-Mumtahina
+She that is to be examined (12 verses)
+Chapter 61
+سورة
+الصف
+As-Saff
+The Ranks (14 verses)
+Chapter 62
+سورة
+الجمعة
+Al-Jumua
+The congregation, Friday (11 verses)
+Chapter 63
+سورة
+المنافقون
+Al-Munafiqoon
+The Hypocrites (11 verses)
+Chapter 64
+سورة
+التغابن
+At-Taghabun
+Mutual Disillusion (18 verses)
+Chapter 65
+سورة
+الطلاق
+At-Talaq
+Divorce (12 verses)
+Chapter 66
+سورة
+التحريم
+At-Tahrim
+Banning (12 verses)
+Juz' 29
+Chapter 67
+سورة
+الملك
+Al-Mulk
+The Sovereignty (30 verses)
+Chapter 68
+سورة
+القلم
+Al-Qalam
+The Pen (52 verses)
+Chapter 69
+سورة
+الحاقة
+Al-Haaqqa
+The reality (52 verses)
+Chapter 70
+سورة
+المعارج
+Al-Maarij
+The Ascending stairways (44 verses)
+Chapter 71
+سورة
+نوح
+Nooh
+Nooh (28 verses)
+Chapter 72
+سورة
+الجن
+Al-Jinn
+The Jinn (28 verses)
+Chapter 73
+سورة
+المزمل
+Al-Muzzammil
+The enshrouded one (20 verses)
+Chapter 74
+سورة
+المدثر
+Al-Muddathir
+The cloaked one (56 verses)
+Chapter 75
+سورة
+القيامة
+Al-Qiyama
+The rising of the dead (40 verses)
+Chapter 76
+سورة
+الإنسان
+Al-Insan
+The man (31 verses)
+Chapter 77
+سورة
+المرسلات
+Al-Mursalat
+The emissaries (50 verses)
+Juz' 30
+Chapter 78
+سورة
+النبأ
+An-Naba
+The tidings (40 verses)
+Chapter 79
+سورة
+النازعات
+An-Naziat
+Those who drag forth (46 verses)
+Chapter 80
+سورة
+عبس
+Abasa
+He Frowned (42 verses)
+Chapter 81
+سورة
+التكوير
+At-Takwir
+The Overthrowing (29 verses)
+Chapter 82
+سورة
+الإنفطار
+AL-Infitar
+The Cleaving (19 verses)
+Chapter 83
+سورة
+المطففين
+Al-Mutaffifin
+Defrauding (36 verses)
+Chapter 84
+سورة
+الانشقاق
+Al-Inshiqaq
+The Sundering, Splitting Open (25 verses)
+Chapter 85
+سورة
+البروج
+Al-Burooj
+The Mansions of the stars (22 verses)
+Chapter 86
+سورة
+الطارق
+At-Tariq
+The morning star (17 verses)
+Chapter 87
+سورة
+الأعلى
+Al-Ala
+The Most High (19 verses)
+Chapter 88
+سورة
+الغاشية
+Al-Ghashiya
+The Overwhelming (26 verses)
+Chapter 89
+سورة
+الفجر
+Al-Fajr
+The Dawn (30 verses)
+Chapter 90
+سورة
+البلد
+Al-Balad
+The City (20 verses)
+Chapter 91
+سورة
+الشمس
+Ash-Shams
+The Sun (15 verses)
+Chapter 92
+سورة
+الليل
+Al-Lail
+The night (21 verses)
+Chapter 93
+سورة
+الضحى
+Ad-Dhuha
+The morning hours (11 verses)
+Chapter 94
+سورة
+الشرح
+Al-Inshirah
+Solace (8 verses)
+Chapter 95
+سورة
+التين
+At-Tin
+The Fig (8 verses)
+Chapter 96
+سورة
+العلق
+Al-Alaq
+The Clot (19 verses)
+Chapter 97
+سورة
+القدر
+Al-Qadr
+The Power (5 verses)
+Chapter 98
+سورة
+البينة
+Al-Bayyina
+The Clear proof (8 verses)
+Chapter 99
+سورة
+الزلزلة
+Al-Zalzala
+The earthquake (8 verses)
+Chapter 100
+سورة
+العاديات
+Al-Adiyat
+The Chargers (11 verses)
+Chapter 101
+سورة
+القارعة
+Al-Qaria
+The Calamity (11 verses)
+Chapter 102
+سورة
+التكاثر
+At-Takathur
+Competition (8 verses)
+Chapter 103
+سورة
+العصر
+Al-Asr
+The declining day (3 verses)
+Chapter 104
+سورة
+الهمزة
+Al-Humaza
+The Traducer (9 verses)
+Chapter 105
+سورة
+الفيل
+Al-fil
+The Elephant (5 verses)
+Chapter 106
+سورة
+قريش
+Quraish
+Quraish (4 verses)
+Chapter 107
+سورة
+الماعون
+Al-Maun
+Alms Giving (7 verses)
+Chapter 108
+سورة
+الكوثر
+Al-Kauther
+Abundance (3 verses)
+Chapter 109
+سورة
+الكافرون
+Al-Kafiroon
+The Disbelievers (6 verses)
+Chapter 110
+سورة
+النصر
+An-Nasr
+The Succour (3 verses)
+Chapter 111
+سورة
+المسد
+Al-Masadd
+The Flame (5 verses)
+Chapter 112
+سورة
+الإخلاص
+Al-Ikhlas
+Absoluteness (4 verses)
+Chapter 113
+سورة
+الفلق
+Al-Falaq
+The day break (5 verses)
+Chapter 114
+سورة
+الناس
+An-Nas
+The mankind (6 verses)
