@@ -1,3 +1,16 @@
+- Methods
+	- Annealing
+	- Aging / Precipitation Hardening
+	- Tempering
+	- Quenching
+	- Decarburizing
+	- Cold or Cryogenic Treatment
+	- Selective Heat Treatment
+		- Differential Hardening
+		- Flame Hardening
+		- Induction Hardening
+		- Case Hardening
+
 - Annealing
 	- Of Metals
 		- -
@@ -5,7 +18,7 @@
 		- -
 
 - Softening Point
-	- $\eta = 10^{7.5}$ Poise
+	- $\eta \approx 10^{7.6}$ Poise
 - Annealing Point
 	- $\eta=10^{13}$ Poise
 - Strain Point
