@@ -1,0 +1,12 @@
+- Annealing
+	- Of Metals
+		- -
+	- Of Glass
+		- -
+
+- Softening Point
+	- $\eta = 10^{7.5}$ Poise
+- Annealing Point
+	- $\eta=10^{13}$ Poise
+- Strain Point
+	- $\eta=10^{14.5}$ Poise
