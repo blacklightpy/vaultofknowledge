@@ -349,8 +349,13 @@
             "id": "b959562d2c808e9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Absurd Arguments Against Hindus.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -421,6 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Absurd Arguments Against Hindus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,6 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗃️ Unorganized/General Notes/Absurd Arguments Against Hindus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -447,7 +454,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Absurd Arguments Against Hindus.md"
+              }
             }
           },
           {
@@ -524,6 +533,7 @@
   },
   "active": "b959562d2c808e9a",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Absurd Arguments Against Hindus.md",
     "🗃️ Unorganized/General Notes/Lightning Model of Dual Nature of Quantum Mechanics.md",
     "🗃️ Unorganized/General Notes/Database of Muslim Scholars.md",
     "🗃️ Unorganized/General Notes/Model of Man as a Game Object.md",
@@ -549,7 +559,6 @@
     "🗃️ Unorganized/General Notes/Debating Anti-Hindu Theologers.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Islamic Caliphates.md",
     "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
-    "🗃️ Unorganized/General Notes/Arachnae.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
