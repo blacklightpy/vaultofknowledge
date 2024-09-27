@@ -344,9 +344,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b959562d2c808e9a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -413,7 +421,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lightning Model of Dual Nature of Quantum Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -430,7 +437,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Lightning Model of Dual Nature of Quantum Mechanics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -441,9 +447,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Lightning Model of Dual Nature of Quantum Mechanics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -518,7 +522,7 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "3fd12f8f5955e76c",
+  "active": "b959562d2c808e9a",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Lightning Model of Dual Nature of Quantum Mechanics.md",
     "🗃️ Unorganized/General Notes/Database of Muslim Scholars.md",
