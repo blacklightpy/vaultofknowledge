@@ -358,7 +358,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -425,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Dance vs Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md",
+                "file": "🗃️ Unorganized/General Notes/Dance vs Flow.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -454,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/QOwnNotes+.md"
+                "file": "🗃️ Unorganized/General Notes/Dance vs Flow.md"
               }
             }
           },
@@ -530,8 +531,9 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "b0dcba11c647df58",
+  "active": "2057b06f193457a8",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Dance vs Flow.md",
     "🗃️ Unorganized/General Notes/Lightning Model of Dual Nature of Quantum Mechanics.md",
     "🗃️ Unorganized/General Notes/Absurd Arguments Against Hindus.md",
@@ -549,7 +551,6 @@
     "🗃️ Unorganized/General Notes/Master List of Islamic Literature (of Ahl as-Sunnah).md",
     "🗃️ Unorganized/General Notes/Master List of Hadeeth Collections.md",
     "🗃️ Unorganized/General Notes/The Ideal Woman in Islam is Like Sati.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/17.md",
     "🗃️ Unorganized/General Notes/5.md",

@@ -412,4 +412,4 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 - [[The Ideal Woman in Islam is Like Sati]]
 
 - [[Dance vs Flow]]
-- A person has as much control over their decisions as a child who plays with a toy steering wheel in the front seat 
+- A person has as much control over their decisions as a child who plays with a toy steering wheel in the front seat, trying to match how their dad who sits in the driver's seat turns the real steering wheel.
