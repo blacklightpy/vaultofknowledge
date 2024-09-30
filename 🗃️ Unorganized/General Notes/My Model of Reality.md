@@ -12,6 +12,9 @@ And most living beings are controlled by one of them, while the others appear to
 
 So when you forget that, you come into conflict with your own self, and life gets muddy. But it's a part of playing a game or watching a movie that is immersive, so much that you confuse yourself with the character you are playing. Perfection is not something to be aspired for, because the infinite can never allow notions of perfection, and a world itself is created upon arbitrary values. This is the principle of Samsaara, and liberation is achieved upon your realization of it, when the world stops appearing as something that's randomly evolving, and you see it for what it is - a gameplay.
 
-The purpose of the world is also for you to evolve, so that the world does not have to be destroyed, but be made to grow and be enjoyable in of itself.
+The role of god is just like the role of the father and the mother, to bring up and nurture the child in their images. But it is also like the role of a father in bringing a boy up to be a man, or a girl up to be a woman, in line with which aspect predominates them. This also involves the role of the parents in bringing up an intersex child as equal, and a transgender child by changing their original understanding.
 
-The role of god is just like the role of the father and the mother, to nurture the child. But it is also like the role of a father, who
+And just as a parent slowly removes control over a child's life as they realize that they're becoming more like them without supervision, god also loosens their grip over a person as they imbibe his image more clearly, with less supervision. But the role of god is never completely removed, as one always is a virtual manifestation in the image of the real god.
+
+Thus the purpose of the world is also for you to evolve, so that the world does not have to be destroyed, but be made to grow and be enjoyable in of itself. That is, like a video game that doesn't end, and you can create your own video games from within it.
+
