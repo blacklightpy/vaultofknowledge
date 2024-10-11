@@ -370,9 +370,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d3729d94f7a77d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -423,8 +436,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -440,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -457,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -469,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedangas.md"
               }
             }
           },
@@ -545,34 +557,34 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "7326a7f7c4ab7360",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/My Model of Reality.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+    "🗃️ Unorganized/General Notes/My Model of Reality.md",
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Hatred of Idol Worship.md",
-    "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
     "🗃️ Unorganized/General Notes/List of Upanishads.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Religion.md",
     "🗺️ World Exploration/Literature/Origin of Writing.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Upanishads.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/Dance vs Flow.md",
-    "🗃️ Unorganized/General Notes/Making a Resume.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",

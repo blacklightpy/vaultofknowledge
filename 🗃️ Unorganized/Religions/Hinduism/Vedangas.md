@@ -4,4 +4,4 @@ The six Vedangas are **Siksha** (phonetics), **Chandas** (prosody / poetic meter
 
 **They are disciplines used to study the Vedas (limbs of the Vedas), not texts.**
 
-Kalpa Vedanga studies gave rise to [[Dharma Sutras]], which gave rise to [[Dharma Shastra]].
+Kalpa Vedanga studies gave rise to [[Dharma Sutras]] (alongside other Kalpa Sutras), which gave rise to [[Dharma Shastra]].
