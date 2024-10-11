@@ -41,7 +41,7 @@
 ## Attribute Form
 
 - Pan-theism (All is God) (Hinduism)
-- Pan-en-theism (All is in God) (Hinduism (Brahman-Creation) (Achintya Bheda-Abheda, Dvaitadvaita (differential monism), Vishistadvaita (qualified monism)), Kashmir Shaivism, Shakti/Tantra, Kabbalah/Jewish Mysticism)
+- Pan-en-theism (All is in God) (Hinduism (Brahmaan-Creation) (Achintya Bheda-Abheda, Dvaitadvaita (differential monism), Vishistadvaita (qualified monism)), Kashmir Shaivism, Shakti/Tantra, Kabbalah/Jewish Mysticism)
 - Pan-deism (God became All)
 
 - Monism (There is only one thing at the deepest level) (Vedanta)

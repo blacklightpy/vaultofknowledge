@@ -61,12 +61,12 @@ His followers are Shankaracharyas. (Acharya means teacher, so Shankaracharya mea
 
 He set up four monasteries (called Mathas or Pithams) where realized men would teach.
 
-| Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                    | Veda         | Sampradaya | Present Shankaracharya                                                                   |
-| ----------------- | --------- | -------------------------- | -------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
-| Padmapada         | East      | Puri Govardhanmatha        | Prajnaanam Brahma (Consciousness is Reality) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
-| Suresvara         | South     | Sringeri sarada Pitham     | Aham Brahmaasmi (I am the Reality)           | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
-| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tat Tvam Asi (That Thou Art)                 | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
-| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayam Atmaanam Brahma (This Atman is Reality) | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
+| Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                          | Veda         | Sampradaya | Present Shankaracharya                                                                   |
+| ----------------- | --------- | -------------------------- | -------------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
+| Padmapada         | East      | Puri Govardhanmatha        | Pra-Jnaanam Brahma (Ultimate Knowledge is Reality) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
+| Suresvara         | South     | Sringeri sarada Pitham     | Aham Brahm Asmi (I am (Soul is) Reality)           | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
+| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tat Tvam Asi (That (Reality) and You are the Same) | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
+| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayam Atmaanam Brahma (This Soul is Reality)        | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
 
 # Verses
 Purusa Sukta:

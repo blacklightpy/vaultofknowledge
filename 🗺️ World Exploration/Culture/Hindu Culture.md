@@ -94,7 +94,7 @@ Saguna - All good attributes
 
 ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
 ## Books
-- Lalita Sahasranamam (from Brahmanda Purana)
+- Lalita Sahasranamam (from Brahmaanda Purana)
 - Saundarya Lahari (Tantra text)
 - Devi Mahatmyam (from Markandeya Purana)
 ---
@@ -145,14 +145,14 @@ Gunas (Attributes)
 Dharmas (Morals)
 Sanskaras (Cultural Traditions)
 Poojas (Worship Rituals)
-Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
+Concepts of God (Maya, Jiva, Aatmaan, Param Aatmaan, Prakriti, Brahmaan, etc.)
 
 - Concepts
-	- Brahman (The Universe)
+	- Brahmaan (The Universe)
 	- Om (The Initial Sound)
-	- Ishvara (God)
-	- Atman (The Soul)
-	- Maya (The World)
+	- Eeshvara (God)
+	- Aatmaan (The Soul)
+	- Maaya (The World)
 	- Karma (Actions)
 	- Samsaara (Cyclic Existence)
 	- Kaala Chakra (The Cycle of Samsaara)
@@ -160,7 +160,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 - Puruṣārthas
 	- Dharma (Morality)
 	- Artha (Meaning)
-	- Kama (Eroticism)
+	- Kaama (Eroticism)
 	- Moksha (Liberation)
 
 - Neeti (Ethics)
@@ -170,8 +170,8 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 	- Brahmacharya (Celibacy)
 	- Satya (Honesty)
 	- Daana (Benovelence)
-	- Damah
-	- Dayaa (Kindness)
+	- Daamah
+	- Daya (Kindness)
 	- Akrodha (Anger-Free)
 
 - Schools / Darshans

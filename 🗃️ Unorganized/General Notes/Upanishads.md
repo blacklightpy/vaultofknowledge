@@ -38,7 +38,7 @@ According to Eknath Easwaran, the Upanishads are snapshots of towering peaks of 
 ## Juan Mascaro
 Juan Mascaró, a professor at the University of Barcelona and a translator of the Upanishads, states that the Upanishads represents for the Hindu approximately what the New Testament represents for the Christian, and that the message of the Upanishads can be summarized in the words, "the kingdom of God is within you".
 ## Paul Deussen
-Paul Deussen in his review of the Upanishads, states that the texts emphasize Brahman-Atman as something that can be experienced, but not defined. This view of the soul and self are similar, states Deussen, to those found in the dialogues of Plato and elsewhere. The Upanishads insisted on oneness of soul, excluded all plurality, and therefore, all proximity in space, all succession in time, all interdependence as cause and effect, and all opposition as subject and object.
+Paul Deussen in his review of the Upanishads, states that the texts emphasize Brahmaan-Aatmaan as something that can be experienced, but not defined. This view of the soul and self are similar, states Deussen, to those found in the dialogues of Plato and elsewhere. The Upanishads insisted on oneness of soul, excluded all plurality, and therefore, all proximity in space, all succession in time, all interdependence as cause and effect, and all opposition as subject and object.
 ## Max Müller
 Max Müller, in his review of the Upanishads, summarizes the lack of systematic philosophy and the central theme in the Upanishads as follows,
 

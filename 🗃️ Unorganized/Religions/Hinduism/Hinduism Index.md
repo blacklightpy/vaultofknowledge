@@ -39,7 +39,7 @@
 	- Pra-Jnaanam Brahma (Ultimate Knowledge is Reality)
 	- Aham Brahm Asmi (I am (Soul is) Reality)
 	- Tat Tvam Asi (That (Reality) and You are Alike)
-	- Ayam Atmanam Brahma (This Soul is Reality)
+	- Ayam Aatmaanam Brahma (This Soul is Reality)
 
 - Vedic Disciplines (Vedangas)
 	- Siksha (Phonetics)

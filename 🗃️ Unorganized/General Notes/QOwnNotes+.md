@@ -273,7 +273,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- But the point is that, it is not necessary to describe concepts using formulas, unless you are going to do something with it that requires the use of formulas
 
 - Thinking in terms of units and development from it (Rewrite title)
-	- Who is God (Vishnu, Shiva, Krishna, Brahman, etc.)
+	- Who is God (Vishnu, Shiva, Krishna, Brahmaan, etc.)
 	- Tree Unit Analogy
 	- Another Better Idea of Thinking #rough 
 		- We have A and B

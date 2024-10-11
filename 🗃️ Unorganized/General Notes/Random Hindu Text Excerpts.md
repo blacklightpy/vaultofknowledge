@@ -18,7 +18,7 @@
 
 
 # Quora
-I will Speak for Vaishnavism, Who holds Parabrahman Paratatpar Akhilbrahmand Nayaka Sacchidanand Bhagava Narayana as the supreme authority, right from Vedas to Itihasa, Purana and Panchratra Agama Texts. No entity is beyond Sriman Narayana, Sri Ramchandra Bhagvana or Leela Purushottam Bhagvan Sri Krishna, No entity has been beyond him, rather he along with "Sri" Maiya , who is eternally present in his chest is the Sole shelter of each and every entity or ‘Jeeva.’
+I will Speak for Vaishnavism, Who holds Para Brahman Paratatpar Akhilbrahmand Nayaka Sacchidanand Bhagava Narayana as the supreme authority, right from Vedas to Itihasa, Purana and Panchratra Agama Texts. No entity is beyond Sriman Narayana, Sri Ramchandra Bhagvana or Leela Purushottam Bhagvan Sri Krishna, No entity has been beyond him, rather he along with "Sri" Maiya , who is eternally present in his chest is the Sole shelter of each and every entity or ‘Jeeva.’
 
 Sri Bhagvana is "**Seshi**" and We Jeevas are his "**Sesh**." Moreover those who worship other Devtas, are worshipping Sri Hari, Only.
 

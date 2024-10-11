@@ -300,7 +300,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 			- Four types of Atoms
 				- Earth (**Prithvi**), Air (**Vaayu**), Fire (**Agni**), Water (**Jala**)
 			- Five types of Substances
-				- Space (**Akasha**), Time (**Kaala**), Direction (**Disha**), Infinity of Souls (**Atman**), Mind (**Manas**).
+				- Space (**Aakaasha**), Time (**Kaala**), Direction (**Disha**), Infinity of Souls (**Aatmaan**), Mind (**Manas**).
 		- Categories
 			- It states that all things that exist can be classified into seven **Padaarthas** (Categories):
 				- **Dravya** (Substance)
@@ -349,12 +349,12 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 	- **Brief**
 		- It focuses on the later parts of the Vedas, or the Upanishads, that deal with philosophy
 		- It is like the opposite of Sankhya school of thought
-			- It sees the world as a manifestation of Brahman
+			- It sees the world as a manifestation of Brahmaan
 	- **Foundational Texts**
 		- Brahma Sutras by Vyasa Maharshi
 	- **General Description**
 		- **Koshas** (Sheaths)
-			- Atman is covered up by 
+			- Aatmaan is covered up by different sheaths
 			- There are five sheaths, called **Pancha Koshas** that are divided into three **Shareeras** (Bodies)
 			- The bodies and sheaths organized from gross to fine are:
 				- **Sthula Sharira** (Gross Body):
@@ -400,21 +400,21 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 						- Chittha is also considered to include Manas, Buddhi and Ahamkaara, in the context where it can be better called the mind-field.
 	- 6.2. Bheda Abheda Vedaanta (Difference and Oneness)
 		- By Bhaskaracharya
-		- Individual self is both different and not different from Brahman
-		- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahman's natural state
+		- Individual self is both different and not different from Brahmaan
+		- Compared to Nimbarkacharya, Bhaskaracharya believed the Oneness matters more, as that is Brahmaan's natural state
 		- **Sub-denominations:**
 			- 6.2.1. Dvaita Advaita / Svabhavika Bedha Abheda Vedaanta (Dual and Non-Dual / Difference and Oneness in the Natural State)
 				- By Nimbarkacharya
 				- Dualism and Monism, based on Vaishnava Bhedabheda Vedaanta Darshana
-				- Both Oneness and Difference are equal, because that's Brahman's natural state
-				- Nimbarka follows Parinama Vaada (The Proposition of Transformation), which states that the world is a real Parinama (transformation) of Brahman, to explain the cause of the world. Chit (Sentient) and Achit (Non-Sentient) forms of reality exist at a subtle form with Brahman in his natural state, in the varying Shaktis (Capacities). But he exerts his Capacities to bring them to the gross form.
+				- Both Oneness and Difference are equal, because that's Brahmaan's natural state
+				- Nimbarka follows Parinama Vaada (The Proposition of Transformation), which states that the world is a real Parinama (transformation) of Brahmaan, to explain the cause of the world. Chit (Sentient) and Achit (Non-Sentient) forms of reality exist at a subtle form with Brahmaan in his natural state, in the varying Shaktis (Capacities). But he exerts his Capacities to bring them to the gross form.
 	- 6.3. Vishishta Advaita Vedaanta (Special Non-Difference)
 		- A Vaishnava school by Ramanujacharya, Ishvara is considered as Vishnu
-		- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahman), Ajiva (non-living beings) / insentient beings (Achit Brahman) and Ishvara (Para Brahman)
-		- Ishvara is Para Brahman with Kalyana Gunas (good attributes), and Jiva and Jagat are its secondary attributes
+		- The Tattva is knowledge of three things; Jiva (living beings) / sentient beings (Chit Brahmaan), Ajiva (non-living beings) / insentient beings (Achit Brahmaan) and Ishvara (Para Brahmaan)
+		- Ishvara is Para Brahmaan with Kalyana Gunas (good attributes), and Jiva and Jagat are its secondary attributes
 		- Chit is like Purusha in Sankya, and Achit is like Prakriti in Sankhya
-		- Brahman is both the cause (Karana) and effect (Kaarya); the universe is not separate
-		- Brahman has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
+		- Brahmaan is both the cause (Karana) and effect (Kaarya); the universe is not separate
+		- Brahmaan has two causes; Nimitta Karana (Instrumental Cause) and Upadana Karana (Material Cause)
 		- Bhakti is the sole means of liberation
 		- Purpose of Life (Purushartha) is Artha (wealth), Kama (pleasure), Dharma (righteousness) and Moksha (liberation)
 		- **General Description**
@@ -424,11 +424,11 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- **Sub-denominations:**
 			- 6.3.1. Akshar Purushottam Darshan (as termed by BAPS) / Swaminarayan Sampradaya
 				- By Swami Narayana
-				- A version of Vishishta Advaita Vedaanta, where Para Brahman is Krishna
-				- Para Brahman is thought to have manifested as Swaminarayana
-				- A distinction is made between Para Brahman, which is Purushottam Naraayan (Supreme Consciousness God), which is thought to reside in Swaminarayana, and Akshar Brahman, which is the cause of cosmic order
+				- A version of Vishishta Advaita Vedaanta, where Para Brahmaan is Krishna
+				- Para Brahmaan is thought to have manifested as Swaminarayana
+				- A distinction is made between Para Brahmaan, which is Purushottam Naraayan (Supreme Consciousness God), which is thought to reside in Swaminarayana, and Akshar Brahmaan, which is the cause of cosmic order
 				- The original Swaminarayana Sampradaya believed that Akshar is the abode of Purushottam
-				- BAPS believe that Akshar Brahman is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahman resides
+				- BAPS believe that Akshar Brahmaan is always present in Earth as a guru, and an ideal devotee, in whom Purushottam Brahmaan resides
 	- 6.4. Dvaita / Tattva Vaada Vedaanta (Dualistic / Proposition of Elements)
 		- By Madhvaacharya
 	- 6.5. Shuddha Advaita Vedaanta (Pure Oneness)
@@ -443,7 +443,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 	- 6.7. Modern Vedaanta
 		- Personal Experience > Sruti
 
-Samkhya follows Prakriti-Parinama Vaada while Vishishta Advaita follows Brahman-Parinama Vaada for Sat-Kaarya Vaada.
+Samkhya follows Prakriti-Parinama Vaada while Vishishta Advaita follows Brahmaan-Parinaama Vaada for Sat-Kaarya Vaada.
 ## Heterodox
 - 1. Buddhism (The Path of Enlightenment)
 	- **Sects**
@@ -495,7 +495,7 @@ These deity-centered denominations feature a synthesis of various philosophies s
 
 ## Connection Between Darshanas and Denominations
 - Shaivite
-	- Shaiva Advaita / Shaiva Vishishta Advaita (Saguna Brahman = Shiva)
+	- Shaiva Advaita / Shaiva Vishishta Advaita (Saguna Brahmaan = Shiva)
 	- 
 # Other Classic Sects
 - Shrautism
