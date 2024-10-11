@@ -370,22 +370,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "56a62fb82860cd99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -414,7 +401,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Brahman",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -436,7 +423,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -452,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md",
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md",
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Religion.md"
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md"
               }
             }
           },
@@ -557,34 +545,34 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "56a62fb82860cd99",
+  "active": "7326a7f7c4ab7360",
   "lastOpenFiles": [
-    "🗺️ World Exploration/Literature/Origin of Writing.md",
-    "🗃️ Unorganized/General Notes/List of Upanishads.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
-    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
-    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/My Model of Reality.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hinduism Index.md",
+    "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
+    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Hatred of Idol Worship.md",
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism Notes.md",
+    "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
+    "🗃️ Unorganized/General Notes/List of Upanishads.md",
+    "🗺️ World Exploration/Culture/Hindu Culture.md",
     "🗃️ Unorganized/General Notes/Religion.md",
+    "🗺️ World Exploration/Literature/Origin of Writing.md",
+    "🗃️ Unorganized/Religions/Hinduism/Wikipedia Hinduism Organization.md",
+    "🗃️ Unorganized/General Notes/Trinity and Gunas in Hinduism.md",
+    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "🗃️ Unorganized/General Notes/Map of Hinduism.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Forms of religion.md",
-    "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Hatred of Idol Worship.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Text Excerpts.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Upanishads.md",
-    "🗃️ Unorganized/Religions/Hinduism Notes.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Casteism and Verses.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/Dance vs Flow.md",
     "🗃️ Unorganized/General Notes/Making a Resume.md",
-    "🗃️ Unorganized/General Notes/List of Chapters in the Quran.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",

@@ -6,7 +6,7 @@ This is wrong, correct it.
 
 - Brahma Puranas
 	- Brahma Purana
-	- Brahmanda Purana
+	- Brahmaanda Purana
 		- Lalita Sahasranamam
 		- Adyatma Ramayana (Tries to reconcile Rama Bhakti with Advaita Vedanta)
 	- Brahmavaivarta Purana

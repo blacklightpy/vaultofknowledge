@@ -36,19 +36,19 @@ Hindus subscribe to a diversity of ideas on spirituality and traditions, but hav
 - Gunas (Qualities)
 ---
 # Ideas
-Para Brahman is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
+Para Brahmaan is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
 
 Nirguna - No attributes
 Saguna - All good attributes
 
 - In Advaita Vedanta
-	- Para Brahman = Nirguna Brahman (no attributes)
+	- Para Brahmaan = Nirguna Brahmaan (no attributes)
 - In Dvaita Vedanta
-	- Para Brahman = Saguna Brahman (All good attributes)
+	- Para Brahmaan = Saguna Brahmaan (All good attributes)
 - In Vishista Dvatia Vedanta
-	- Para Brahman = Saguna Brahman (All good attributes)
+	- Para Brahmaan = Saguna Brahmaan (All good attributes)
 - By Bhakti Traditions (Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship)
-	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
+	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahmaan
 ## Hindu denominations / Sampradayas
 - Bhakti Traditions
 	- Paramashiva Worship
@@ -74,15 +74,15 @@ Saguna - All good attributes
 			- It begins where Bhagavad Gita ends, and most important Purana
 	- Tantras / Aagamas (Practical Ideas)
 		- Sections: Jnana Pada / Vidya Pada, Yoga Pada, Kriya Pada, Charya Pada
-		    - Jnana pada / Vidya Pada – consists of doctrine, the philosophical and spiritual knowledge, knowledge of reality and liberation
+		    - Jnaana pada / Vidya Pada – consists of doctrine, the philosophical and spiritual knowledge, knowledge of reality and liberation
 		    - Yoga Pada – precepts on yoga, the physical and mental discipline.
 		    - Kriya Pada – consists of rules for rituals, construction of temples (Mandir); design principles for sculpting, carving, and consecration of idols of deities for worship in temples; for different forms of initiations or diksha.
 			    - This code is analogous to those in Puranas and in the Buddhist text of Sadhanamala.
 		    - Charya Pada – lays down rules of conduct, of worship (puja), observances of religious rites, rituals, festivals and prayaschitthas.
 
-		- Astya (Orthodox Hindu schools of philosophy)
+		- Aastya (Orthodox Hindu schools of philosophy)
 			- Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)
-		- Nastya (Hindu schools of philosophy not accepting of Vedic authority)
+		- Naastya (Hindu schools of philosophy not accepting of Vedic authority)
 	- Sangam Literature
 		- Five Great Epics (includes Silappatikaram)
 
