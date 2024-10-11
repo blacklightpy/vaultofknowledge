@@ -64,35 +64,18 @@ They mean "Great Sayings", and these four are handpicked from Upanishads of the 
 	- प्रज्ञानं ब्रह्म
 - "Aham Brahm Asmi" - "I am Reality" (Brihadaranyaka Upanishad of Sama Veda, 1.4.10)
 	- अहं ब्रह्म अस्मि
-- "Tat Tvam Asi" - "That (Reality) and You are Alike" (Chandogya Upanishad of Yajur Veda, 6.8.7)
+- "Tat Tvam Asi" - "That (Reality) and You are the Same" (Chandogya Upanishad of Yajur Veda, 6.8.7)
 	- तत्त्वमसि
 - "Ayam Atma Brahma" - "This Soul is Reality" (Mandukya Upanishad of Atharva Veda, 4.4.5)
 	- अयम् आत्मा ब्रह्म
 - "Sarvam Khalvidam Brahma" - "All that exists is Reality" (Chandogya Upanishad of Yajur Veda, 3.14.1)
 	- सर्वं खल्विदं ब्रह्म
-- "Ekam Evadvitiyam" - "That (Reality) is one, without a second" (Chandogya Upanishad 6.2.1)
+- "Ekam Evadvitiyam" - "That (Reality) i, Without a second" (Chandogya Upanishad 6.2.1)
 	- एकमेवाद्वितीयम्
 
 - प्रज्ञानं ब्रह्म (Ultimate Knowledge is Reality)
-
-- Aitareya Upanishad of Rig Veda, 3.3.7
-
 - अहं ब्रह्म अस्मि (I am (Soul is) Reality)
-
-- Brihadaranyaka Upanishad of Sama Veda, 1.4.10
-
 - अयम् आत्मा ब्रह्म (This Soul is Reality)
-
-- Mandukya Upanishad of Atharva Veda, 4.4.5
-
 - तत्त्वमसि (That (Reality) and You are the Same)
-
-- Chandogya Upanishad of Yajur Veda, 6.8.7
-
 - सर्वं खल्विदं ब्रह्म (All is Reality)
-
-- Chandogya Upanishad of Yajur Veda, 3.14.1
-
 - एकमेवाद्वितीयम् ((That is) One alone, Without a Second)
-
-- Chandogya Upanishad 6.2.1
