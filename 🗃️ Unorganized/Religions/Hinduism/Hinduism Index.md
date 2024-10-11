@@ -36,10 +36,10 @@
 		- Modern Works
 
 - Mahavakyas (Great Words from the Vedas)
-	- Prajnaanam Brahma (Consciousness is Reality)
-	- Aham Brahmaasmi (I am Reality)
-	- Tat Tvam Asi (That thou art)
-	- Ayam Atmanam Brahma (This Atman is Reality)
+	- Pra-Jnaanam Brahma (Ultimate Knowledge is Reality)
+	- Aham Brahm Asmi (I am (Soul is) Reality)
+	- Tat Tvam Asi (That (Reality) and You are Alike)
+	- Ayam Atmanam Brahma (This Soul is Reality)
 
 - Vedic Disciplines (Vedangas)
 	- Siksha (Phonetics)
