@@ -38,7 +38,7 @@ In **5:32**, he was referring to the command that was given to B’nei Yisra’E
 
 **Tafseer Ibn Katheer**
 
-> (The recompense of those who wage war against Allah and His Messenger and do mischief in the land is only that they shall be killed or crucified or their hands and their feet be cut off on the opposite sides, or be exiled from the land.**) **`Wage war' mentioned here means, oppose and contradict, and it includes disbelief, blocking roads and spreading fear in the fairways. Mischief in the land refers to various types of evil.** Ibn Jarir recorded that `Ikrimah and Al-Hasan Al-Basri said that the Ayat,
+> (The recompense of those who wage war against Allah and His Messenger and do mischief in the land is only that **they shall be killed or crucified or their hands and their feet be cut off on the opposite sides, or be exiled from the land.**) **'Wage war' mentioned here means, oppose and contradict, and it includes disbelief, blocking roads and spreading fear in the fairways. Mischief in the land refers to various types of evil.** Ibn Jarir recorded that 'Ikrimah and Al-Hasan Al-Basri said that the Ayat,
 
 ————————————————————
 
@@ -50,7 +50,7 @@ In **6:151**, the legal right means under the Deen (Religion and Law) of Allah, 
 > 
 > …
 > 
-> In the Two Sahihs, it is recorded that Ibn Mas`ud said that the Messenger of Allah ﷺ said,
+> In the Two Sahihs, it is recorded that Ibn Mas'ud said that the Messenger of Allah ﷺ said,
 > 
 > «لَا يَحِلُّ دَمُ امْرِىءٍ مُسْلِمٍ يَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ وَأَنِّي رَسُولُ اللهِ، إِلَّا بِإِحْدَى ثَلَاثٍ: الثَّيِّبُ الزَّانِي، وَالنَّفْسُ بِالنَّفْسِ، وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَة»
 > 
@@ -58,11 +58,11 @@ In **6:151**, the legal right means under the Deen (Religion and Law) of Allah, 
 
 See what it says, only the blood of Muslim people.
 
-> There is a prohibition, a warning and a threat against killing the Mu`ahid, i.e., non-Muslims who have a treaty of peace with Muslims
+> There is a prohibition, a warning and a threat against killing the Mu'ahid, i.e., non-Muslims who have a treaty of peace with Muslims
 
 Who are the Mu’aahid? It only includes the Dhimmah, and the Mushrikeen who come to Daar Al-Islaam to learn about Islaam. But after they learn, they won’t later have a second chance to keep treaty. Because as per many Hadeeths (**Jami at-Tirmidhi 871**, **Jami at-Tirmidhi 3092 (and Da'eef 3091)**, and many others are in Arabic and in Siyaar (Biographies)), the treaties always have to be fixed term, and are only to be considered a ceasefire, because Jihad al-Talab is necessary worldwide. As for indefinite term treaties, they can be broken anytime, according to Surah At-Tawbah / Al-Bara’ah Ayah 1 (9:1). Also see its Tafseer by Ibn Katheer.
 
-> Al-Bukhari recorded that `Abdullah bin `Amr said that the Prophet said,
+> Al-Bukhari recorded that 'Abdullah bin 'Amr said that the Prophet said,
 > 
 > «مَنْ قَتَلَ مُعَاهِدًا لَمْ يَرَحْ رَائِحَةَ الْجَنَّةِ، وَإِنَّ رِيحَهَا لَيُوجَدُ مِنْ مَسِيرَةِ أَرْبَعِينَ عَامًّا»
 > 
