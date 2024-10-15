@@ -390,7 +390,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
+                "file": "🗃️ Unorganized/General Notes/Passwordless Login.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -427,7 +427,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "freedesktop",
+                "query": "pam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -465,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
+                "file": "🗃️ Unorganized/General Notes/Passwordless Login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
+                "file": "🗃️ Unorganized/General Notes/Passwordless Login.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -494,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md"
+                "file": "🗃️ Unorganized/General Notes/Passwordless Login.md"
               }
             }
           },
@@ -572,9 +572,11 @@
   },
   "active": "9b759bf0e5e0433c",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/Polkit.md",
+    "🗃️ Unorganized/General Notes/Passwordless Login.md",
+    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
     "🗃️ Unorganized/General Notes/Using Sound Themes.md",
     "🗃️ Unorganized/General Notes/How to use a Linux System.md",
-    "🗃️ Unorganized/General Notes/Passwordless Login.md",
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
@@ -596,8 +598,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Puranas.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/🌀️ Religious Discourse/Hatred of Idol Worship.md",
     "🗃️ Unorganized/Religions/Hinduism Notes.md",
-    "🗃️ Unorganized/General Notes/Random Hindu Text Excerpts.md",
-    "🗃️ Unorganized/General Notes/List of Upanishads.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
