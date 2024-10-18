@@ -1,9 +1,14 @@
-## Free
+# Free
+## Web Design
+- Silex
+- GrapeJS
+- Pinegrow (WordPress, WooCommerce, Tailwind CSS, etc.)
+# Freeware
 ### Web Design
-Bubble.io
-Webflow.io
-Code2
-EditorX
+- Bubble.io
+- Webflow.io
+- Code2
+- EditorX
 ### App Design
 Bravo Studio
 ### Voice Tools
