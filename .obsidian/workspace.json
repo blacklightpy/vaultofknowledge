@@ -383,22 +383,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f62369cfa3de4d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -465,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -494,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Tag Based File Managers.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md"
               }
             }
           },
@@ -570,7 +557,7 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "f62369cfa3de4d5c",
+  "active": "6d3729d94f7a77d0",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
