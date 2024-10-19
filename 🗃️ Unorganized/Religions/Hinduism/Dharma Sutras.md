@@ -1,4 +1,4 @@
-The Dharma Sutras can be called the guidebooks of dharma as they contain guidelines for individual and social behavior, ethical norms, as well as personal, civil and criminal law.
+The Dharma Sutras can be called the guidebooks of dharma as they contain guidelines for individual and social behaviour, ethical norms, as well as personal, civil and criminal law.
 
 They discuss the duties and rights of people at different stages of life like studenthood, householdership, retirement and renunciation.
 
