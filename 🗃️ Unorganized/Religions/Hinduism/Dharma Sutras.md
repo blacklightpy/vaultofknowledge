@@ -23,3 +23,4 @@ The Dharma Sutra of Āpastamba and Baudhayana form a part of the Kalpasutra but 
 Moreover, Gautama and Vasishta are ancient sages related to specific Vedic schools and therefore it is hard to say whether they were historical authors of these texts.
 
 The issue of authorship is further complicated by the fact that apart from Āpastamba the other Dharma Sutras have various alterations made at later times.
+

@@ -1,21 +1,22 @@
 Protocols:
 
-RDP
-VNC
+- RDP
+- VNC
+- X Forwarding
+- Waypipe
+
 https://blog.ssdnodes.com/blog/remote-linux-desktop-vps-ssh-vnc/
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-20-04
-X11 Forwarding
 https://blog.ssdnodes.com/blog/remote-linux-desktop-vps-ssh-vnc/
-Proprietary: AnyDesk, TeamViewer
 
+Proprietary: AnyDesk, TeamViewer
 # VNC
 ## VNC Servers
 - TightVNC - Seperate Desktop
 - X11VNC - Direct VNC
-- Vino - for GNOME
-- krfb- for KDE
+- Vino - by GNOME
+- Krfb - by KDE (RFB Protocol of VNC)
 - TigerVNC - TightVNC fork
-
 ## VNC Clients
 - TightVNC
 - TigerVNC
