@@ -15,18 +15,25 @@
 	- Tor
 	- Tox
 
-- Mesh VPN Platforms
-	- Manual VPN Routing
+- Mesh VPN
+	- Manual Routing
 	- Platforms
 		- Custom Protocols
 			- Tinc (Free)
 			- ZeroTier (Non-Commercial Source Available)
-		- WireGuard Based
+		- WireGuard Based GUI
 			- Tailscale (Free Client)
 				- Headscale (Free Tailscale Coordination Server)
 			- Netbird (Free)
 			- Netmaker (Free / Proprietary)
 			- Nebula (Free)
+		- WireGuard Based CLI
+			- `wg-meshconf` (Free)
+			- `wiresmith` (Free)
+			- `autowire` (Free)
+			- `wg-dynamic` (Free)
+			- `wireguard-dynamic` (Free)
+			- `wgsd` (Free)
 
 - Overlay Networks
 	- Internet Protocol (Standard)

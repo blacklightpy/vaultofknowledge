@@ -370,22 +370,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "48dcf11895e9af6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/VPNs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -453,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/VPNs.md",
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +457,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/VPNs.md",
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +469,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/VPNs.md"
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md"
               }
             }
           },
@@ -558,10 +545,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "48dcf11895e9af6a",
+  "active": "7326a7f7c4ab7360",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Digital Security Buzzwords.md",
     "🗃️ Unorganized/General Notes/VPNs.md",
+    "🗃️ Unorganized/General Notes/Digital Security Buzzwords.md",
     "🗃️ Unorganized/General Notes/Chaining VPNs.md",
     "🗃️ Unorganized/General Notes/Network Hole Punching.md",
     "🗃️ Unorganized/General Notes/My Model of Reality.md",
