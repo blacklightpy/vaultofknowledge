@@ -1,6 +1,5 @@
 - (Working) WireGuard through WireGuard: https://jasonthai.me/blog/2023/09/25/chaining-wireguard-tunnels/
 - Question about Nested WireGuard VPN: https://superuser.com/questions/1732587/multihop-nested-wireguard-configuration
-
 # Dynamic IP
 - Mesh with Dynamic IPs for Peers
 	- WireGuard Endpoint Discovery and NAT Traversal using DNS-SD: https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/
