@@ -1,6 +1,7 @@
 - (Working) WireGuard through WireGuard: https://jasonthai.me/blog/2023/09/25/chaining-wireguard-tunnels/
 - Question about Nested WireGuard VPN: https://superuser.com/questions/1732587/multihop-nested-wireguard-configuration
 
+# Dynamic IP
 - Mesh with Dynamic IPs for Peers
 	- WireGuard Endpoint Discovery and NAT Traversal using DNS-SD: https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/
 		- Uses `wgsd`
@@ -11,4 +12,15 @@
 			- `wsgd-client` also keeps the information about peers up to date, running as a cron job.
 	- `github:WireGuard/wg-dynamic`: Official, but dead
 	- `github:segator/wireguard-dynamic`: Unofficial, working
+
+- NOTE: Just use Tailscale with Headscale. It is built for this.
+	- Compared to Nebula: No need to transfer certificates, built on fast userspace WireGuard
+	- Compared to WireGuard Dynamic Mesh (`wgsd`): No need to use DNS-SD, and can run on Windows
+	- Compared to WireGuard Hub and Spoke: No Hub bottleneck, faster communications
+	- Compared to NetMaker: Internet Gateway is free
+	- Compared to NetBird: 
+	- Compared to `wg-meshconf`: Supports Dynamic IPs and NATs
+	- Compared to `wiresmith`: 
+	- Compared to Tinc: Uses tried and tested WireGuard protocol
+	- Compared to ZeroTier: Non-com license, and tried and tested WireGuard protocol
 	- 

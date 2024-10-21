@@ -370,9 +370,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb90c0bc452757be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Chaining VPNs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -439,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
+                "file": "🗃️ Unorganized/General Notes/Chaining VPNs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -456,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
+                "file": "🗃️ Unorganized/General Notes/Chaining VPNs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -468,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md"
+                "file": "🗃️ Unorganized/General Notes/Chaining VPNs.md"
               }
             }
           },
@@ -544,12 +557,12 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "7326a7f7c4ab7360",
+  "active": "bb90c0bc452757be",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Chaining VPNs.md",
-    "🗃️ Unorganized/General Notes/Network Hole Punching.md",
     "🗃️ Unorganized/General Notes/My Model of Reality.md",
     "🗃️ Unorganized/General Notes/Innovation Tokens.md",
+    "🗃️ Unorganized/General Notes/Chaining VPNs.md",
+    "🗃️ Unorganized/General Notes/Network Hole Punching.md",
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
     "🗃️ Unorganized/General Notes/Building a good Command Line Program.md",
     "🗃️ Unorganized/General Notes/Vim Customizing.md",
