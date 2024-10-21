@@ -4,6 +4,11 @@
 - Mesh with Dynamic IPs for Peers
 	- WireGuard Endpoint Discovery and NAT Traversal using DNS-SD: https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/
 		- Uses `wgsd`
+			- Uses DNS-Service Discovery to discover ports of the tunnels of two endpoints, to connect them
+			- CoreDNS plugin (`wgsd`) runs on the third party server to facilitate DNS-SD via a DNS Zone
+			- `wgsd-client` on one endpoint queries the third party server for the details of the other peers
+			- WIth the information, the hole is punched using `wgsd-client` via the DNS Zone.
+			- `wsgd-client` also keeps the information about peers up to date, running as a cron job.
 	- `github:WireGuard/wg-dynamic`: Official, but dead
 	- `github:segator/wireguard-dynamic`: Unofficial, working
 	- 
