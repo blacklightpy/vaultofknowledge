@@ -370,22 +370,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6d3729d94f7a77d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a good Command Line Program.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -452,7 +439,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a good Command Line Program.md",
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +456,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a good Command Line Program.md",
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +468,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Building a good Command Line Program.md"
+                "file": "🗃️ Unorganized/General Notes/My Model of Reality.md"
               }
             }
           },
@@ -557,12 +544,13 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "6d3729d94f7a77d0",
+  "active": "7326a7f7c4ab7360",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Semantic Shortcuts for Programs.md",
-    "🗃️ Unorganized/General Notes/Building a good Command Line Program.md",
-    "🗃️ Unorganized/General Notes/Tray Icons API for UNIX.md",
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
+    "🗃️ Unorganized/General Notes/Building a good Command Line Program.md",
+    "🗃️ Unorganized/General Notes/Vim Customizing.md",
+    "🗃️ Unorganized/General Notes/Semantic Shortcuts for Programs.md",
+    "🗃️ Unorganized/General Notes/Tray Icons API for UNIX.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
     "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
@@ -584,7 +572,6 @@
     "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
