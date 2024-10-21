@@ -1,0 +1,2 @@
+- (Working) VPN through VPN: https://jasonthai.me/blog/2023/09/25/chaining-wireguard-tunnels/
+- Question about Nested VPN: https://superuser.com/questions/1732587/multihop-nested-wireguard-configuration
