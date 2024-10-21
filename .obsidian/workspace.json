@@ -431,7 +431,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -559,9 +560,10 @@
   },
   "active": "bb90c0bc452757be",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Fixed IPv6 IPs.md",
+    "🗃️ Unorganized/General Notes/Chaining VPNs.md",
     "🗃️ Unorganized/General Notes/My Model of Reality.md",
     "🗃️ Unorganized/General Notes/Innovation Tokens.md",
-    "🗃️ Unorganized/General Notes/Chaining VPNs.md",
     "🗃️ Unorganized/General Notes/Network Hole Punching.md",
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
     "🗃️ Unorganized/General Notes/Building a good Command Line Program.md",
@@ -584,7 +586,6 @@
     "🗃️ Unorganized/General Notes/Rough Notes X8.md",
     "🗃️ Unorganized/General Notes/Rough Notes X4.md",
     "🗃️ Unorganized/General Notes/Specific Problems with Christianity.md",
-    "🗃️ Unorganized/General Notes/Plane.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
