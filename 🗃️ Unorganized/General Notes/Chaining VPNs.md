@@ -18,9 +18,9 @@
 	- Compared to WireGuard Dynamic Mesh (`wgsd`): No need to use DNS-SD, and can run on Windows
 	- Compared to WireGuard Hub and Spoke: No Hub bottleneck, faster communications
 	- Compared to NetMaker: Internet Gateway is free, and full mesh capability for all platforms
-	- Compared to NetBird: 
+	- [BEST COMPETITION] Compared to NetBird: Better UI?
 	- Compared to `wg-meshconf`: Supports Dynamic IPs and NATs
 	- Compared to `wiresmith`: Supports all platforms, and supports Dynamic IPs and NATs, not all devices have IPv6
-	- Compared to Tinc: Uses tried and tested WireGuard protocol
-	- Compared to ZeroTier: Fully free license, and tried and tested WireGuard protocol
+	- Compared to Tinc: Uses tried and tested WireGuard protocol, has a better UI
+	- [SECOND BEST] Compared to ZeroTier: Fully free license, and tried and tested WireGuard protocol
 	- Compared to `autowire`: Not all devices have IPv6
