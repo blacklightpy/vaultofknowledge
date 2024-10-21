@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -452,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md"
+                "file": "🗃️ Unorganized/Religions/Hinduism/Vedas.md"
               }
             }
           },
@@ -559,8 +559,11 @@
   },
   "active": "6d3729d94f7a77d0",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Temporary Note - Packages Installed with ubuntu-desktop.md",
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
+    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
+    "🗃️ Unorganized/General Notes/Temporary Note - Packages Installed with ubuntu-desktop.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
@@ -577,9 +580,6 @@
     "🗃️ Unorganized/General Notes/The problem of Religious Tolerance.md",
     "🗃️ Unorganized/General Notes/rough Notes x6.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedic Shakhas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
-    "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Hindu Sampradaayas.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedangas.md",
     "🗺️ World Exploration/Culture/Hindu Culture.md",
