@@ -1,0 +1,1 @@
+Abstract Syntax Notation One (ASN.1) is a standard interface description language for defining [[data structures]] that can be [[Serialization|serialized and deserialized]] 

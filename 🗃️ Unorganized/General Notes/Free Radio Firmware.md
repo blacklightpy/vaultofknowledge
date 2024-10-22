@@ -88,7 +88,7 @@
 		- They are the normal cellular network service codes used for WAP, balance checks, recharging, ringtones, etc.
 		- These codes have to be sent, rather than just typed.
 	- SS codes: Supplimentary Service codes
-		- For example, the call forwarding function is invoked by dialling `*21*123456789#`, which forwards all calls to the number `123456789`. The SS code here is not directly sent to the network, but is parsed by the phone which constructs an ASN.1 coded request to the network. This code is common to all phones.
+		- For example, the call forwarding function is invoked by dialling `*21*123456789#`, which forwards all calls to the number `123456789`. The SS code here is not directly sent to the network, but is parsed by the phone which constructs an [[Abstract Syntax Notation One|ASN.1]] coded request to the network. This code is common to all phones.
 			- ANS.1 is a popular protocol in data encoding, which is used in a wide number of protocols including WiMAX 2, 5G, LDAP, SS7, etc.
 				- The UAE PM's daughter was abducted in 2018 by tracking her using an SS7 vulnerability.
 		- These codes too have to be "sent", rather than just typed.

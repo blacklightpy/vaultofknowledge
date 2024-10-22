@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🗃️ Unorganized/General Notes/Serial.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -436,8 +436,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -453,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🗃️ Unorganized/General Notes/Serial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🗃️ Unorganized/General Notes/Serial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md"
+                "file": "🗃️ Unorganized/General Notes/Serial.md"
               }
             }
           },
@@ -560,6 +559,11 @@
   },
   "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
+    "🗃️ Unorganized/General Notes/Serial.md",
+    "🗃️ Unorganized/General Notes/Serialization.md",
+    "🗃️ Unorganized/General Notes/Data Structures.md",
+    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🗃️ Unorganized/General Notes/My Model of Reality.md",
     "🗃️ Unorganized/General Notes/VPNs.md",
@@ -581,11 +585,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
-    "🗃️ Unorganized/General Notes/Passwordless Login.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/Polkit.md",
-    "🗃️ Unorganized/General Notes/Diagramming Linux Internals using Eraser.io.md",
-    "🗃️ Unorganized/General Notes/Using Sound Themes.md",
-    "🗃️ Unorganized/General Notes/How to use a Linux System.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
