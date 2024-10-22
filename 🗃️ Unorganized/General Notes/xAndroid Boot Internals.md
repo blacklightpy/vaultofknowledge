@@ -510,3 +510,5 @@ Since MediaTek's BROM mode gives low level access to files, OEMs like Xiaomi and
 - How to perform ADB Backup
 - Android Partition Table
 
+
+
