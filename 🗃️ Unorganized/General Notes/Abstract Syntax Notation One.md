@@ -1,1 +1,1 @@
-Abstract Syntax Notation One (ASN.1) is a standard interface description language for defining [[data structures]] that can be [[Serialization|serialized and deserialized]] 
+Abstract Syntax Notation One (ASN.1) is a standard interface description language for defining [[data structures]] that can be [[Serialization|serialized]] in a cross-platform way. It is broadly used in telecommunications and computer networking, and especially in cryptography.

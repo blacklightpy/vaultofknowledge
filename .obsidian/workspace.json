@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Serial.md",
+                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -452,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Serial.md",
+                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Serial.md",
+                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Serial.md"
+                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md"
               }
             }
           },
@@ -559,9 +559,9 @@
   },
   "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Serialization.md",
     "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
     "🗃️ Unorganized/General Notes/Serial.md",
-    "🗃️ Unorganized/General Notes/Serialization.md",
     "🗃️ Unorganized/General Notes/Data Structures.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
