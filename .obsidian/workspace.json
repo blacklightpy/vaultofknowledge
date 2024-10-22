@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -398,20 +398,15 @@
             }
           },
           {
-            "id": "82bdd8b7a242d7de",
+            "id": "0a876f6cb5f0c886",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -479,7 +474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -496,7 +491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -508,7 +503,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md"
               }
             }
           },
@@ -564,8 +559,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -584,18 +578,19 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "82bdd8b7a242d7de",
+  "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
+    "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
+    "🗃️ Unorganized/General Notes/Serialization.md",
+    "🗃️ Unorganized/General Notes/Life of Mohammed.md",
+    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
     "🗃️ Unorganized/General Notes/Hadith Organizing.md",
     "🗃️ Unorganized/General Notes/Master List of Hadeeth Collections.md",
-    "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
-    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
-    "🗃️ Unorganized/General Notes/Serialization.md",
     "🗃️ Unorganized/General Notes/Serial.md",
     "🗃️ Unorganized/General Notes/Data Structures.md",
-    "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🗃️ Unorganized/General Notes/My Model of Reality.md",
     "🗃️ Unorganized/General Notes/VPNs.md",
@@ -611,7 +606,6 @@
     "🗃️ Unorganized/General Notes/Tray Icons API for UNIX.md",
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/Religions/Hinduism/Sutras.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",

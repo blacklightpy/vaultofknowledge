@@ -1,4 +1,5 @@
-
+- G-Series
+- H-Series
 ## Revisions
 They can be understood as three types.
 - Erratum (Mistake)
