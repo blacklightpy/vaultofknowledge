@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "svelte",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -436,7 +436,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -452,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md"
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md"
               }
             }
           },
@@ -559,8 +560,8 @@
   },
   "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
     "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
