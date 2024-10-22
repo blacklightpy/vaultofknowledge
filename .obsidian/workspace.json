@@ -383,9 +383,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9c4d3d698b0d650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -436,7 +449,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -452,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +495,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md"
+                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md"
               }
             }
           },
@@ -533,12 +547,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -557,10 +570,11 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "460b4c770c6c5f57",
+  "active": "646a8b4c366caf49",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Serialization.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
+    "🗃️ Unorganized/General Notes/Serialization.md",
     "🗃️ Unorganized/General Notes/Serial.md",
     "🗃️ Unorganized/General Notes/Data Structures.md",
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
@@ -584,7 +598,6 @@
     "🗃️ Unorganized/General Notes/Temporary Note - Packages Installed with ubuntu-desktop.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
     "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/No Code Platforms.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
