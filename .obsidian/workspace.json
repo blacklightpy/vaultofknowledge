@@ -398,7 +398,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
+                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -495,7 +495,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md"
+                "file": "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md"
               }
             }
           },
@@ -570,8 +570,9 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "646a8b4c366caf49",
+  "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
     "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
     "🗃️ Unorganized/General Notes/Serialization.md",
@@ -597,7 +598,6 @@
     "🗃️ Unorganized/Religions/Hinduism/Dharma Sutras.md",
     "🗃️ Unorganized/General Notes/Temporary Note - Packages Installed with ubuntu-desktop.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Remote Desktop Connections.md",
-    "🗃️ Unorganized/General Notes/Tag Based File Managers.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
