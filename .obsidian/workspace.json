@@ -383,22 +383,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb6579886ea7a708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -466,7 +453,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -495,7 +482,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md"
+                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md"
               }
             }
           },
@@ -571,8 +558,9 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "bb6579886ea7a708",
+  "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "🗃️ Unorganized/General Notes/Understanding Linux Filesystem.md",
     "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
@@ -598,7 +586,6 @@
     "🗃️ Unorganized/General Notes/Chaining VPNs.md",
     "🗃️ Unorganized/General Notes/Network Hole Punching.md",
     "🗃️ Unorganized/General Notes/Innovation Tokens.md",
-    "🗃️ Unorganized/General Notes/Fixed IPv6 IPs.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
