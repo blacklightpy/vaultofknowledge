@@ -1,5 +1,16 @@
 - G-Series
+	- G.700-799
+		- G.710-729: Digital Terminals
+			- G.721
+			- G.729
 - H-Series
+	- H.200-299
+		- H.26x
+			- H.261
+			- H.262
+			- H.263 (MPEG-4 Part 2)
+			- H.264 (AVC / MPEG-4 Part 10)
+			- H.265 (HEVC / MPEG-H Part 2)
 ## Revisions
 They can be understood as three types.
 - Erratum (Mistake)
