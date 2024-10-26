@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tahoe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -436,8 +436,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -453,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md"
               }
             }
           },
@@ -560,9 +559,9 @@
   },
   "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "🗃️ Unorganized/General Notes/Understanding Linux Filesystem.md",
-    "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web Technologies.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Universal JS.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
