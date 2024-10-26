@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minutes",
+                "query": "euler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -559,6 +559,8 @@
   },
   "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Euler-Lagrange Equations.md",
+    "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "🗃️ Unorganized/General Notes/Shruti.md",
     "🗃️ Unorganized/General Notes/Music Theory.md",
     "🗃️ Unorganized/General Notes/Microtones.md",
@@ -583,8 +585,6 @@
     "🗃️ Unorganized/General Notes/Free Radio Firmware.md",
     "🗃️ Unorganized/General Notes/Abstract Syntax Notation One.md",
     "🗃️ Unorganized/General Notes/Serialization.md",
-    "🗃️ Unorganized/General Notes/Life of Mohammed.md",
-    "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
