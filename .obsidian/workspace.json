@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fruits.md",
+                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -414,7 +414,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fruit",
+                "query": "minutes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -452,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fruits.md",
+                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +469,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fruits.md",
+                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -481,7 +481,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fruits.md"
+                "file": "🗃️ Unorganized/General Notes/How many sounds are possible.md"
               }
             }
           },
@@ -559,6 +559,11 @@
   },
   "active": "460b4c770c6c5f57",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Shruti.md",
+    "🗃️ Unorganized/General Notes/Music Theory.md",
+    "🗃️ Unorganized/General Notes/Microtones.md",
+    "🗃️ Unorganized/General Notes/Genres of Music.md",
+    "🗃️ Unorganized/General Notes/Fruits.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
     "🔮 World Building/Marketplace and Creations/Software Implementations/Git.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/AJAX.md",
@@ -580,11 +585,6 @@
     "🗃️ Unorganized/General Notes/Serialization.md",
     "🗃️ Unorganized/General Notes/Life of Mohammed.md",
     "🗃️ Unorganized/General Notes/xAndroid Boot Internals.md",
-    "🗃️ Unorganized/General Notes/Hadith Organizing.md",
-    "🗃️ Unorganized/General Notes/Master List of Hadeeth Collections.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
-    "🗃️ Unorganized/General Notes/Serial.md",
-    "🗃️ Unorganized/General Notes/Data Structures.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
