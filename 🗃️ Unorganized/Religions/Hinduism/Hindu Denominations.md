@@ -20,14 +20,15 @@ They can be grouped as:
 	- Smriti asserts the importance of Shruti
 
 ### Template
-- Brief
-	- [Any Specific Nuances]
-- Foundational Texts
-- Metaphysics
-- Epistemology
-- General Description
-- Glossary of Terms
-- [Any Specific Nuances]
+- Title
+	- Brief
+	- [Any Specific Nuances] (Early)
+	- Foundational Texts
+	- Metaphysics
+	- Epistemology (Pramaanas)
+	- General Description (Evolution of Nature (Why), Liberation, Cause and Effect, Cosmic Evolution (How))
+	- Glossary of Terms
+	- [Any Specific Nuances] (Later)
 
 ### Detailed Description
 
@@ -172,7 +173,7 @@ They can be grouped as:
 						- **Source**
 							- Yoga Sutras of Patanjali 2.1 describes three types of kriya (action):
 								- **Verse:** योगश्चित्तवृत्तिनिरोधः ॥
-								- **Transliteration:** yogaś-citta-vṛtti-nirodhaḥ.
+								- **Transliteration:** yogash-chitta-vritthi-nirodhaḥ.
 								- **Translation:** "Yoga is the inhibition (Nirodha) of the modifications (Vritthi) of the mind (Chittha)"
 								- **Meaning:** The yoga of action (Kriya Yoga) is: asceticism (tapas), recitation (svadhyaya), and devotion (pranidhana) to Ishvara (the lord).
 							- The steps are contained in Chapter 1, Chapter 2 Verses 1-27, Chapter 3 except Verse 54 and Chapter 4
@@ -276,7 +277,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 	- **Metaphysics**
 		- 
 	- **Epistemology**
-		- Knowledge is possible through four **Pramanas** (Means):
+		- Knowledge is possible through four **Pramaanas** (Means):
 			- Veda (Sanskrit Books of Knowledge) [Primary Pramaana for Dharma]
 			- **Pratyaksha** (Direct Perception)
 			- **Anumaana** (Logical Inference)
@@ -443,7 +444,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 	- 6.7. Modern Vedaanta
 		- Personal Experience > Sruti
 
-Samkhya follows Prakriti-Parinama Vaada while Vishishta Advaita follows Brahmaan-Parinaama Vaada for Sat-Kaarya Vaada.
+Notes: For Sat-Kaarya Vaada, Samkhya follows Prakriti-Parinama Vaada while Vishishta Advaita follows Brahmaan-Parinaama Vaada.
 ## Heterodox
 - 1. Buddhism (The Path of Enlightenment)
 	- **Sects**

@@ -422,9 +422,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dfd38996c390bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -453,7 +466,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vidya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -475,8 +488,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "ded3abf6202b66bf",
@@ -492,7 +504,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -509,7 +521,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -521,7 +533,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md"
+                "file": "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md"
               }
             }
           },
@@ -597,8 +609,9 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "e2b82b9382393160",
+  "active": "07135975f7c01c70",
   "lastOpenFiles": [
+    "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Terminology for Physics.md",
     "🗃️ Unorganized/General Notes/Identifying Manipulation.md",
     "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
@@ -624,7 +637,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Filesystems.md",
     "🗃️ Unorganized/General Notes/Understanding Linux Filesystem.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
-    "🗃️ Unorganized/General Notes/QOwnNotes+.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
