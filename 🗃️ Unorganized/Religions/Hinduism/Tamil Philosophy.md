@@ -25,7 +25,7 @@
 ## Metres
 - Akaval
 - Venpa
-## Eighteen Greater Texts (Pathinen Melkkanakku Noolgai)
+## Eighteen Greater Texts (Pathinen Melkkanakku Noolgal)
 - Eight Collections / Ettu Thokai
 	- Ain Kuru Nooru (Five Short Hundred (Poems))
 	- Aka Naannooru (Inner (Love) Four Hundred (Poems)) / Nedunthokai (Long Collections)
@@ -46,7 +46,7 @@
 	- Perump Paan Aatru Padai (River Guide to Perum Paanar (Bards who play large Lutes))
 	- Porunar Aatru Padai (River Guide to Porunar (War Bards))
 	- Siru Paana Aatru Padai (River Guide to Siru Paanar (Bards who play small Lutes))
-## Eighteen Lesser Texts (Pathinen Keezhkkanakku Noolgai)
+## Eighteen Lesser Texts (Pathinen Keezhkkanakku Noolgal)
 - Naal Adiyaar (Four Steppers (Quatrains)) / Naal Adi Naannooru (Four Step (Quatrain) Four Hundred)
 - Naal Mani Kadigai (Four o'clock)
 - Innaa Naarpatu (The Forty Dull Things)
