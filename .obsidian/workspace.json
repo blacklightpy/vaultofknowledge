@@ -383,9 +383,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04a86774c6fa0e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Identifying Manipulation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ff0cd09cb743f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -453,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -470,7 +496,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -482,7 +508,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md"
+                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md"
               }
             }
           },
@@ -558,11 +584,13 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "460b4c770c6c5f57",
+  "active": "f2ff0cd09cb743f7",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Terminology for Physics.md",
+    "🗃️ Unorganized/General Notes/Identifying Manipulation.md",
+    "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🗃️ Unorganized/General Notes/What is a codec.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
-    "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
     "🗃️ Unorganized/General Notes/Using Emacs.md",
     "🗃️ Unorganized/General Notes/How many sounds are possible.md",
@@ -584,8 +612,6 @@
     "🗃️ Unorganized/General Notes/Understanding Linux Filesystem.md",
     "🗃️ Unorganized/General Notes/Memes of Religions.md",
     "🗃️ Unorganized/General Notes/QOwnNotes+.md",
-    "🤠 Personal/Review of Push Up Boards.md",
-    "🗃️ Unorganized/Religions/Hinduism/Tamil Philosophy.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
