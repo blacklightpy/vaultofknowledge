@@ -448,9 +448,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb91804e3c3012e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -518,7 +531,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muhammadianity.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -535,7 +548,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muhammadianity.md",
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -547,7 +560,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Muhammadianity.md"
+                "file": "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md"
               }
             }
           },
@@ -623,10 +636,10 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "7747608b49570763",
+  "active": "eb91804e3c3012e0",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Why the left turns a blind eye to evil actions committed by historically oppressed people.md",
     "🗃️ Unorganized/General Notes/Muhammadianity.md",
+    "🗃️ Unorganized/General Notes/Why the left turns a blind eye to evil actions committed by historically oppressed people.md",
     "🗃️ Unorganized/General Notes/Arab Mania.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗃️ Unorganized/Religions/The Hebrew Religion.md",
