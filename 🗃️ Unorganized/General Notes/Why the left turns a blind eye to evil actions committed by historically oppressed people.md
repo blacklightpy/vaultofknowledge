@@ -1,5 +1,7 @@
 # Foreword
 I wrote this in a reply to someone who was pissed of at how the media put up the graduation poster of a black person who was mauled to death by two Pitbulls while trying to break in to a white guy's house.
+
+I had started it with "To play the devil's advocate, I think ".
 # Content
 The left wing position is that Black people do wrong things, but they believe that:
 
@@ -16,6 +18,6 @@ To expand on that, we do provide jobs for black people today, however, they are 
 
 For this reason, the difficult fate of the black people is directly due to how they were treated in the past. And DEI is a corrective policy, but corrective policies do not correct everything any more than how the introduction of a medicine for cancer will cure cancer before anyone has had access to it. Only a percentage of the people benefit from DEI at a time, and it takes time to change a whole community.
 
-To go back on the ISIS kids analogy, the reason the children of ISIS members are that way has nothing to do with Westerners, so there is no sense of responsibility if they continue to misbehave. But in the case of black community, their behavior is a direct result of the conditions once inflicted upon them.
+To go back on the ISIS kids analogy, the reason the children of ISIS members are that way has nothing to do with Westerners, so there is no sense of responsibility if they continue to misbehave. But in the case of black community, their behaviour is a direct result of the conditions once inflicted upon them.
 
 And that is why the Left continues to turn a blind eye to the evil actions committed by black people, similar to how most people turn a blind eye when Muhammadians get persecuted.

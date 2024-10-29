@@ -2,7 +2,7 @@ The Jews were oppressed all throughout history, because of their faith. The Baby
 
 Jews are still very scared of the rise of Antisemitism.
 
-> [!NOTE] Regarding Taxes
+> [!NOTE] Regarding Muhammadian Taxes
 > 
 > Zakaat was given to the poor, but Jizya was given to the state. The definition wasn't clear in the Quran, so they used Hadith for it. Even poor people had to pay Jizya, but sick and disabled people, etc. didn't have to. But the point was, Jizya was still better than forced conversion or extermination as happened in Europe. Well, this is just normal tax collected in every state.
 > 
