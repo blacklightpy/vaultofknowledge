@@ -396,22 +396,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f2ff0cd09cb743f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 30
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -458,7 +445,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -478,7 +465,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md",
+                "file": "🗃️ Unorganized/General Notes/Identifying Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +482,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md",
+                "file": "🗃️ Unorganized/General Notes/Identifying Manipulation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -507,7 +494,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Terminology for Physics.md"
+                "file": "🗃️ Unorganized/General Notes/Identifying Manipulation.md"
               }
             }
           },
@@ -583,10 +570,13 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "f2ff0cd09cb743f7",
+  "active": "f3fe2d9c9de27298",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Model of Man as a Game Object.md",
+    "🗃️ Unorganized/General Notes/My Model of Reality.md",
+    "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
+    "🗃️ Unorganized/General Notes/Identifying Manipulation.md",
     "🗃️ Unorganized/General Notes/Terminology for Physics.md",
+    "🗃️ Unorganized/General Notes/Model of Man as a Game Object.md",
     "🔮 World Building/Art of Creation/Creation.md",
     "🔮 World Building/Science and Engineering/Engineering/Electrochemical Engineering/Comparing Performances of Battery Technologies.md",
     "🗃️ Unorganized/General Notes/Molecular Chirality.md",
@@ -602,15 +592,12 @@
     "🗃️ Unorganized/Religions/Hinduism/Hindu Denominations.md",
     "🗃️ Unorganized/General Notes/Translating Religious Terminologies.md",
     "🗃️ Unorganized/Religions/Hinduism/Vedas.md",
-    "🗃️ Unorganized/General Notes/Identifying Manipulation.md",
-    "🗃️ Unorganized/General Notes/ITU-T Naming Conventions.md",
     "🗃️ Unorganized/General Notes/What is a codec.md",
     "🤠 Personal/Project Ideas/Blacklight OS.md",
     "🗃️ Unorganized/General Notes/Nonfree Software.md",
     "🗃️ Unorganized/General Notes/Using Emacs.md",
     "🗃️ Unorganized/General Notes/How many sounds are possible.md",
     "🗃️ Unorganized/General Notes/Euler-Lagrange Equations.md",
-    "🗃️ Unorganized/General Notes/Shruti.md",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "A5",
     "_images/Parts of a Jet Engine.gif",
