@@ -1,0 +1,1 @@
+They are a broad category denoting all species of the [[genus]] [[Homo]], that are not [[Homo sapiens]].

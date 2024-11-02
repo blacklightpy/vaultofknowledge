@@ -1,10 +1,8 @@
-It is classified into 18 sections (parvas)
-
+It is classified into 18 sections (Parvas).
 Another classification divides it into 100 sections, while still being sub-divisions of the 18 sections.
 
-Each parva is comprised of several chapters (adhyayas).
-
-Each adhyaya is comprised of several verses (shlokas).
+Each Parva is comprised of several chapters (Adhyaayas).
+Each Adhyaaya is comprised of several verses (Shlokas).
 # List of Parvas
 
  - Book 1: Adi Parva 
@@ -79,7 +77,7 @@ Each adhyaya is comprised of several verses (shlokas).
  - Book 6: Bhishma Parva 
 	- Parva 65: Jambhukhanda Vinirmana Parva
 	- Parva 66: Bhumi Parva
-	- Parva 67: Bhagavad Gita Parva
+	- Parva 67: [[Bhagavat Geeta]] Parva
 	- Parva 68: Bhishma Vadha Parva
  - Book 7: Drona Parva 
 	- Parva 69: Dronabhisheka Parva

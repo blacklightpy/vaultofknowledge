@@ -1,0 +1,3 @@
+Nouveau Riche, New Rich or New Money is a [[social class]] of the rich whose wealth has been acquired within their own generation, rather than by familial [[inheritance]].
+
+The behaviour of nouveau riche is often satirized by American society by implying that their behaviour patterns are copied. That is, the nouveaux riches "lack political and cultural sophistication".

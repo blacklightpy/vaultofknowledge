@@ -1,0 +1,63 @@
+## Emotions
+- Jealousy (Feeling of sorrow at someone else's possessions compared to your lacking)
+	- i.e. when someone else is with your partner, in an exclusive or shared relationship
+- Compersion (Feeling of satisfaction for someone else's happiness)
+	- i.e. when your partner is enjoying themselves with someone else
+## Motivations
+- Experience
+	- It is the quality of being alive and perceiving reality
+	- It may or may not necessitate the requirement of a body
+		- That is, co-existence requires the laws of physics to regulate boundaries
+		- In such a form of existence, the mind will have to be limited by knowledge
+		- And knowledge will have to be stored on a limited medium
+		- However, dreams happen outside the bounds of knowledge
+		- Imagination too, happens outside the bounds of knowledge
+		- One achieves imagination by freeing them from the limits of knowledge
+		- That is, knowledge is the definitions stored within this physical reality
+		- Because of that reason, knowledge is limited by the physical space
+		- Knowledge helps, but it is not always enough
+		- One reason is that more knowledge takes up more space, to store and transfer
+		- Another reason is that knowledge itself has to be defined, leaving more to yet define
+		- That is because all knowledge is not fully representable within the physical reality
+		- It is for the same reason that finer particles are more fluid than larger particles
+		- And in physical existence, there are always particles at different levels of existence
+		- That is, everything that is existent is composed of particles
+		- That is precisely what makes things physically existent
+
+- Motivation for Existence
+	- Existence is formed simply for the purpose of 
+
+- Body
+	- It is the boundary that defines an existent being and separates it from the world
+	- In case of existent beings, it refers to the boundary between one's 
+- Signalling System
+	- It is the aspect of an existent being's that lets it know what actions they must take
+- Sensory System
+	- It is the aspect of an existent being that
+- Feeling
+	- It is the 
+- Ego-Sense
+	- It is the element of individuality that makes one want to obtain enjoyable things for himself
+- Desire
+	- It is the aspect of individuality that makes one know what is enjoyable to themself
+- Lust
+	- It is the type of desire that lets a person know what arouses their sexual systems
+- Curiosity
+	- It is the aspect of individuality that makes a person want to try out new things
+- Fear
+	- It is the aspect of individuality that makes a person want to avoid trying out new things
+- Capital Acquisition
+	- It is when one acquires their elements of desire, which are of value to them
+- The Trophy Wife (or Partner)
+	- The trophy partner is an accessory that's desired by most people
+	- This is a person's desire to show others that they own a highly desirable partner
+- Showcasing
+	- They may want others to try out their partner and have and experience of what they have
+## Oppositions
+- Jealousy
+	- This is when a person
+- Insecurity
+	- This is the generic feeling that if they share their resources, their share of the resources will diminish
+	- In case of relationships, one could fear that the partner will lose their attraction towards them, because they can satisfy their desires form other, and possibly better sources, in which case they may leave them
+- Capital Hoarding
+	- This is the condition where a person protects his resources

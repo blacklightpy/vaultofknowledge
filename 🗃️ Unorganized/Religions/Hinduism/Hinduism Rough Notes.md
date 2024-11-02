@@ -1,22 +1,22 @@
 # ToC
 - Stuff to Learn (An Index)
-	- Shastras, Tantras, Upavedas, Stotras, Srutis
+	- Shastras, Tantras, Upa Vedas, Stotras, Srutis (List 1)
 	- Sutras, Shlokas, Anuvakhya, Vakhya
-	- Vedangas, Parisistas (Supplements), Upavedas, Tantras
+	- Vedangas, Parishishtas (Supplements), Upa Vedas, Tantras (List 2)
 - Again, Hindu Shastras
 	- Shruti
 	- Smriti
 	- Darshanas
-	- Agamas
+	- Aagamas
 	- Bhakti Marga
 	- Karma and Rebirth
 - Sutras
 - Glossary 
 - Words
-# Stuff to Learn
+# Stuff to Learn / List 1
 - Scriptures
 	- Vedas
-- Agamas (Related to Samhithas)
+- Aagamas (Tantras, in contrast to Veda Samhithas)
 - Smritis
 	- Bhakti Shastras
 		- Ithihasas
@@ -28,12 +28,9 @@
 	- Poetic Works (Kalidasa, etc.)
 	- Social Sciences
 
-Bhasyas (Commentaries)
+Bhashyas (Commentaries)
 Nibandhas (Digests)
-
-Shastras, Sutras, Tantras, Upavedas, Stotras, Stutis
-
-## Shastras, Tantras, Upavedas, Stotras, Srutis
+## Shastras, Tantras, Upa Vedas, Stotras, Srutis
 
 ## Sutras, Shlokas, Anuvakhya, Vakhya
 A Sutra is a condensed rule which succinctly states the message
@@ -45,16 +42,15 @@ A Vyakhya is a comment by the reviewer.
 Vedas have their respective [[Vedic Shakhas]].
 Brahmanas are Vedic Sruti works attached to Samhitas
 
-
-
+## List 2
 - Vedangas (Disciplines)
 	- 6 Vedangas
-- Parisista (Supplements / Appendix)
+- Parishishta (Supplements / Appendix)
 	- Samhitas
 	- Brahmanas
 	- Aranyakas
 	- Sutras
-- Upavedas (Applied Knowledge)
+- Upa Vedas (Applied Knowledge)
 	- Archery (Dhanurveda), associated with the Yajurveda
 	- Architecture (Sthapatyaveda), associated with the Rigveda.
 	- Music and sacred dance (Gāndharvaveda), associated with the Samaveda
@@ -89,11 +85,12 @@ So basically,
 
 - Hindu Shastras
 	- Srutis (Revealed)
-		- 4 Vedas
+		- Veda Pustakas
 			- Samhitas
 			- Brahmanas
 			- Aranyakas
 			- Upanishads
+		- Aagama Pustakas
 	- Smriti (Remembered)
 		- Ithihasas
 			- Mahabharata
@@ -106,7 +103,7 @@ So basically,
 
 * **Darshanas**: the six major philosophies of Hinduism, including Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa, and Vedanta
 
-* **Agamas**: a collection of Hindu scriptures that discuss temple worship, rituals, and yoga
+* **Aagamas**: a collection of Hindu scriptures that discuss temple worship, rituals, and yoga
 
 * Bhakti Marga: the path of devotion in Hinduism, which involves the worship of a personal god or goddess
 * Karma and Rebirth: the Hindu beliefs in the law of cause and effect and the cycle of birth, death, and rebirth

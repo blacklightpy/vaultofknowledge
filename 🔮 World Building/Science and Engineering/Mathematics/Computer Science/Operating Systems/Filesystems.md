@@ -17,13 +17,18 @@ Architecture (inodes, etc.)
 Kernel Space / User Space
 # Types
 - FAT
-- FAT32
-- exFAT
+	- FAT
+	- FAT12
+	- FAT16
+	- FAT32
+	- exFAT
 - NTFS
-- ext2
-- ext3
-- ext4
+- EXT
+	- EXT
+	- EXT2
+	- EXT3
+	- EXT4
 - ZFS
-- Btrfs
+- BtrFS
 - HFS+
 - APFS

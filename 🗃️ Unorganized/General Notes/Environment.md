@@ -1,0 +1,3 @@
+In science and engineering, a [[system]] is the part of the universe that is being studied, while the environment is the remainder of the universe that lies outside the boundaries of the system. It is also known as the surroundings or neighbourhood, and in [[thermodynamics]], as the reservoir.
+
+Depending on the type of system, it may interact with the environment by exchanging [[mass]], [[energy]] (including heat and work), linear momentum, angular momentum, electric charge, or other conserved properties

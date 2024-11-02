@@ -4,6 +4,19 @@
 - List Incitement Verses
 - List by Context (Quran, Hadith, Tafsir, Philosophy)
 
+#rough 
+- Ya Ali / Ya Ali Madad
+	- Shi'ites think calling to Imam Ali to make Dua is permissible
+	- Allah said, who can interceded to him, except with his permission
+	- Contradiction: "The deceased neither see us, feel our call or hear us from their graves."
+	- Contradiction: Do not cry at the graves
+
+Origin of Hadith Isnads: https://sunnahonline.com/library/fiqh-and-sunnah/277-introduction-to-the-sciences-of-hadith
+Confusing Opinion on Jihad: https://www.abuaminaelias.com/offensive-jihad-in-islam/ (Says it was against Byzantines only)
+
+
++Muwatta Malik Book 38, Hadeeth 12 (only feed Muslims)
+- Dajjal: https://sunnah.com/ibnmajah:4077
 # Rough
 ## My claims
 - Mohammed wanted to rule
@@ -35,6 +48,40 @@
 	- To do that, he needed to make them believe that many innocent actions by humans were evil
 	- In doing so, he asked of humans to cast aside their humanity and worship the one who gave this law
 	- Since that law is evil, who is the personification of evil? Satan
+
+- Main Criticism
+	- The Qur'an narrated by Mohammed as revelation from God was neither truth, nor one that was made with an inclination towards goodness. However, the Hebrew TaNaKh and Christian Bible were made with an inclination towards good, and that is the basic difference. Of the two, the Jewish teaching remains more rational, because of its completion only with the combination of the Mishnah and Gemara of the Talmud, which is revised according to debates.
+	- And the fact that Jews do debate is precisely the reason why the Yeshua accused them of "altering the true word of God", and claiming that the prophecy of "heaven" will be satisfied in an outside world.
+		- And of course, people can sacrifice their lives to do that. We've seen Muslims do this, and we've seen the Jonestown Massacre and the Aum Shinrikyo cult. They are world-denying
+### Plan
+- Criticizing Islam 
+
+- What Mohammed was
+	- My idea: Mohammed was either misguided or evil, and he hated several things, and he said that it is divine law for others to hate the same things. He also stole the teachings of the Jewish culture, and claimed that he was the true descendant of Abraham in faith, through his son Ishmael. He also made himself some exceptions for honour and convenience such as his ability to have multiple wives while others are limited to having just four, and that his wives cannot have other husbands if they are divorced. He also dehumanized other human relationships when he said that captive women are valid for sexual intercourse regardless of marrying them, and their marriages with disbelieving husbands are nullified.
+	- Alternate Idea 1:
+	- Alternate Idea 2:
+	- Muslim Idea:
+- What Muslims of today are:
+### Strategies Muslims use to prevent criticism
+- The six named strategies
+	- Kitman (telling you only a part of the truth) (Ibadis call Taqiyya Kitman)
+		- You can read the Quran to get the full truth
+	- Tawriyyah ("creative lying", doublespeak without breaking the letter of oath)
+		- You can read the Tafsirs to bypass Tawriyyah.
+		- Also, read the Ahadith of Ahl as-Sunnah wa'l-Jamaa'ah
+		- Also read classic textbooks on Islamic History like The History of Al-Tabari
+	- Muruna (Loopholes to allow one to fit in with Kafirs without trouble)
+		- They do this for the higher purpose of gaining more influence
+		- Based on an interpretation of 2:106 (abrogation verse)
+			- Basically, they follow Meccan laws first
+	- Taqiyyah / Muda'rat (Lying about one's religion when one is threatened)
+	- Taysir (Deceit by not observing Shariah, during war (as Mohammed said))
+	- ~~Daruna (Deceit through necessary Haram)~~
+		- It is for survival tactics only
+	- ~~Hiyal (Legalized trickery for sticking to Shariah without following it perfectly)~~
+		- e.g. Rebranding interest as fee/profit, Rebranding Jihad as purely an inner struggle
+		- It is forbidden in Islaam
+- They alter the meanings we've agreed upon in earlier contexts to suit the current context (exploiting on the brain's attention span) [EX: saying that Islam didn't allow slaves to be made, after establishing that it did earlier on.]
 # Women (general and married)
 
 ## Quran
@@ -53,7 +100,7 @@
 
 **Majority of woman are in Hell. Women are deficient in intelligence, and religion. Gives "proof".**
 
-> [Sahih al-Bukhari d304](http://sunnah.com/bukhari/6/9 "sunnah.com"):  
+> [Sahih al-Bukhari 304](http://sunnah.com/bukhari:304 "sunnah.com"):  
 > Narrated Abu Sa'id Al-Khudri: Once Allah's Messenger went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." They asked, "Why is it so, O Allah's Messenger?" He replied, "You curse frequently and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. A cautious sensible man could be led astray by some of you." The women asked, "O Allah's Messenger! What is deficient in our intelligence and religion?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence. Isn't it true that a woman can neither pray nor fast during her menses?" The women replied in the affirmative. He said, "This is the deficiency in her religion."
 
 **Women are the worst trial for men**
@@ -78,8 +125,15 @@
 
 **Other women are like the devil (sexually attractive), so when you see a woman, he should go to his wive and have sex**
 
-> [Sahih Muslim 1403 a](https://sunnah.com/muslim/16/10 "sunnah.com")Jabir reported that Allah's Messenger saw a woman, and so he came to his wife, Zainab, as she was tanning a leather and had sexual intercourse with her. He then went to his Companions and told them:  
+> [Sahih Muslim 1403 a](https://sunnah.com/muslim/16/10 "sunnah.com"):
+> Jabir reported that Allah's Messenger saw a woman, and so he came to his wife, Zainab, as she was tanning a leather and had sexual intercourse with her. He then went to his Companions and told them:  
 > The woman advances and retires in the shape of a devil, so when one of you sees a woman, he should come to his wife, for that will repel what he feels in his heart.
+
+**Believing women are to be beat until their skin colour changes.**
+> [Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825):
+> Narrated 'Ikrima:
+> 
+> Rifa'a divorced his wife whereupon 'AbdurRahman bin Az-Zubair Al-Qurazi married her. 'Aisha said that the lady (came), wearing a green veil (and complained to her (Aisha) of her husband and showed her a green spot on her skin caused by beating). It was the habit of ladies to support each other, so when Allah's Messenger (ﷺ) came, 'Aisha said, "I have not seen any woman suffering as much as the believing women. Look! Her skin is greener than her clothes!" When 'AbdurRahman heard that his wife had gone to the Prophet, he came with his two sons from another wife. She said, "By Allah! I have done no wrong to him but he is impotent and is as useless to me as this," holding and showing the fringe of her garment, 'Abdur-Rahman said, "By Allah, O Allah's Messenger (ﷺ)! She has told a lie! I am very strong and can satisfy her but she is disobedient and wants to go back to Rifa'a." Allah's Messenger (ﷺ) said, to her, "If that is your intention, then know that it is unlawful for you to remarry Rifa'a unless 'Abdur-Rahman has had sexual intercourse with you." Then the Prophet (ﷺ) saw two boys with 'Abdur- Rahman and asked (him), "Are these your sons?" On that 'AbdurRahman said, "Yes." The Prophet (ﷺ) said, "You claim what you claim (i.e.. that he is impotent)? But by Allah, these boys resemble him as a crow resembles a crow,"
 ## Other Sahih
 **Permission to Umar to beat his wife. He rebuked the women who complained**
 
@@ -106,11 +160,18 @@
 > [Sunan ibn Majah 9:1926](https://sunnah.com/urn/1261700 "sunnah.com"):  
 > It was narrated that: Abdullah bin Abu Awfa said “When Muadh bin Jabal came from Sham, he prostrated to the Prophet who said: 'What is this, O Muadh?' He said: 'I went to Sham and saw them prostrating to their bishops and patricians and I wanted to do that for you.' The messenger of Allah said: 'Do not do that. If I were to command anyone to prostrate to anyone other than Allah, I would have commanded women to prostrate to their husbands. By the One in Whose Hand is the soul of Muhammad! No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.”
 
+**If a woman leads people, they will not prosper.**
+
+> [Sunan an-Nasa'i 5388](https://sunnah.com/nasai:5388):
+> It was narrated that Abu Bakrah said:
+> 
+> "Allah protected me with something that I heard from the Messenger of Allah [SAW]. When Chosroes died, he said: 'Whom have they appointed as his successor?' They said: 'His daughter.' He said: 'No people will ever prosper who entrust their leadership to a woman.'"
+
 ## Quran Tafsirs
 
 **Women are like animals**
 
-> Tafsir al-Qurtabi, Vol. 15, page 172:  
+> Tafseer al-Qurtubi, Vol. 15, page 172:  
 > A woman may be likened to a sheep-even a cow or a camel-for all are ridden.
 
 ## Scholarly Works
@@ -123,6 +184,7 @@
 
 - Wives are to obey their husbands
 - Their husbands can hit them
+- They can hit them until their skin is green in colour
 - Wives cannot divorce husbands without "reason"
 - Wives cannot leave the house without the husband's permission
 - Total marital imprisonment
@@ -138,6 +200,12 @@
 ## Other Sahih/Hasan
 
 ## Quran Tafsirs
+## Hadith Tafsirs
+### Bukhari
+- Aisha had not menstruated
+	- Fath al-Bari
+- It is permissible to marry a baby
+	- Fath al-Bari vol. 11, page 25 "يجوز تزويج الصغيرة بالكبير إجماعا ولوكانت في المهد" - "It is permissible to marry young girls, by a great Ijma (consensus of scholars), even if they were still in a cradle."
 
 ## Scholarly Works
 
@@ -177,6 +245,13 @@
 
 ## Other Sahih/Hasan
 
+**Manumitting women will spare you less punishment compared to manumitting a man.**
+
+> [Jami at-Tirmidhi](https://sunnah.com/tirmidhi:1547):
+> Abu Umamah, and other than him from the Companions of the Prophet (ﷺ), narrated that the Prophet (ﷺ) said:
+> 
+> "Any Muslim man who frees a Muslim man, then it is his salvation from the Fire - each of his limbs suffices for a limb of himself. And any Muslim man that frees two Muslim women, then are his salvation from the Fire - each of their limbs suffices for a limb of himself. And any Muslim woman that frees a Muslim woman, then she is her salvation from the Fire - each of her limb suffices for a limb of herself."
+
 ## Quran Tafsirs
 
 ## Scholarly Works
@@ -195,6 +270,8 @@ Revelation of 4:24:
 # Jihad
 
 ## Quran
+- Order
+	- 47:4 Release them as an act of ransom
 
 ## Bukhari/Muslim
 
@@ -207,6 +284,15 @@ Revelation of 4:24:
 - Claim: Don't kill them, because the goal is to hope they go to heaven. Killing will ruin it.
 - Killing children of polytheists in night raids: https://sunnah.com/muslim:1745a
 - Strike the shaven part of those who shave the middle of their heads (monks) with swords: https://sunnah.com/urn/509710
+# Killing Heretics
+
+## Bukhari/Muslim
+- https://sunnah.com/bukhari:3611 (Kill all Mulhid)
+- https://sunnah.com/bukhari:6930 (same)
+# Lying
+## Bukhari/Muslim
+- https://sunnah.com/bukhari:3611
+- https://sunnah.com/bukhari:6930
 # Stupidity
 
 ## Quran
@@ -214,6 +300,14 @@ Revelation of 4:24:
 ## Bukhari/Muslim
 
 ## Other Sahih/Hasan
+
+Mohammed was just crazy:
+
+كان رسول الله صلى الله عليه وسلم يصوم يوم السبت ويوم الأحد أكثر ما يصوم من الأيام ويقول: إنهما يوما عيد للمشركين فأنا أحب أن أخالفهم
+
+The Messenger of Allah used to fast on Saturdays and Sundays more than on other days, and he used to say, "They are days of festival for the polytheists, and I like to act contrary to them."
+
+— [Mishkat al-Masabih](https://sunnah.com/mishkat:2068)
 
 ## Quran Tafsirs
 
@@ -255,7 +349,7 @@ Revelation of 4:24:
 - Allah has made hell for them (17:18)
 - No one can honour whom Allah disgraces (22:18)
 
-| Verse | Claim                                        | Context             |
+| Verse | Claim (yes, proper in context)               | Context             |
 | ----- | -------------------------------------------- | ------------------- |
 |       | Enjoy life like cattle eat grass             |                     |
 |       | Are apes                                     | Disbelievers        |

@@ -1,0 +1,3 @@
+- https://islamqa.info/en/answers/84140/the-reason-why-the-one-to-whom-a-homosexual-act-is-done-is-to-be-executed
+- [[Rough Notes X3]]
+- 

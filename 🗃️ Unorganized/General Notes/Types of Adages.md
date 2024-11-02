@@ -1,0 +1,42 @@
+- Aphorisms (Figures of speech)
+- Maxims (Guidelines)
+	- Legal Maxim (Established Principle of Law)
+- Folklore
+- Proverbs
+- Old Wives' Tales (Superstitions to tell children about death and coming of age)
+- Lies-to-children
+
+# More:
+- Age appropriateness (Expected behaviour of a person for their age)
+- All models are wrong (Common aphorism in statistics)
+- Discworld (Fictitious setting in the Discworld franchise)
+- Half-truth (Deceptive statement)
+- [List of common misconceptions]
+- Misinformation (Incorrect or misleading information)
+- Naïve physics (Untrained human perception of basic physical phenomena)
+- Neurath's boat (Philosophical analogy about knowledge)
+- Noble lie (Untruth propagated to strengthen social harmony)
+- Not even wrong (English phrase)
+- Pedagogy (Theory and practice of education)
+- Sunday school answer (Christian term for a simplistic answer)
+- Toy model (Deliberately simplistic scientific model)
+- Understanding (Ability to think about and use concepts to deal adequately with a subject)
+- Upaaya (Technique) (Buddhist term)
+	- Kaushalya means "cleverness"
+	- Upaaya-Kaushalya means "Cleverness in Technique"
+- White lie (Intentionally false statement made to deceive
+- Wittgenstein's ladder (Concluding and reflective remark on the propositions in Wittgenstein's early work)
+- Anti-proverb (Transformation of a standard proverb for humorous effect)
+- Blason Populaire (Any item of any genre which makes use of stereotypes of a particular group)
+- Book of Proverbs (Book of the Bible)
+- Brewer's Dictionary of Phrase and Fable (Reference work containing definitions and explanations of phrases, allusions and figures)
+- Brocard (law) (Legal principle expressed in Latin)
+- [List of proverbial phrases]
+- Paremiology (Collection and study of proverbs)
+- Paremiography (Study of the collection and writing of proverbs)
+- Paruntuk Kana (A poetic type of Makassarese proverb)
+- Platitude (Trite, prosaic, or cliché truism)
+- Proverbial phrase (Short traditional saying that expresses a perceived truth)
+- Proverbium (US periodical)
+- Saying (Concise expression memorable for its meaning)
+- Truthism (Group of loosely affiliated 9/11 conspiracy theorists)

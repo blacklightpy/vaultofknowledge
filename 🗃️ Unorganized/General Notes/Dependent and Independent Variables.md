@@ -1,0 +1,2 @@
+- [[Dependent Variables]]
+- [[Independent Variables]]

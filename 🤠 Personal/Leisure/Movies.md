@@ -1,14 +1,15 @@
-Men In Black II
-Star Trek VI
-Terminator II
-The Mummy
-Alien vs Predator
-Blade Runner
-Gladiator
-Star Wars
-Titanic
-Poseidon
-The Princess Bride
-Dead Poets Society
-Bird Box
-Charlie and The Chocolate Factory
+- Men In Black II
+- Star Trek VI
+- Terminator II
+- The Mummy
+- Alien vs Predator
+	- Predator VI is coming out [2025]
+- Blade Runner
+- Gladiator
+- Star Wars
+- Titanic
+- Poseidon
+- The Princess Bride
+- Dead Poets Society
+- Bird Box
+- Charlie and The Chocolate Factory

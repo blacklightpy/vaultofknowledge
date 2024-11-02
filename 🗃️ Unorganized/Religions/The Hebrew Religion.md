@@ -35,7 +35,7 @@ The defining texts of the religion are the Tanakh and the Talmud
 ## Variants
 - Old
 	- Tribes
-		- Levites (sons of Aaron, chosen to be preists)
+		- Levites (sons of Aaron, chosen to be priests)
 		- Other tribes
 	- Roman Era
 		- Pharisees (a philosophical group, followed the Oral Torah. Mostly the common people and Rabbis. Jesus would've been a Pharisee.)
@@ -57,16 +57,18 @@ The defining texts of the religion are the Tanakh and the Talmud
 		- About 900 of them remain
 
 - Current
-	- Karaites (non-Rabbinites)
+	- Karaites (Readers / non-Rabbinites)
+		- "Qaaraa" means "read". So they follow the school of literalism.
 		- They only follow the written Torah. Some say they could be from the Sadducees.
+		- They do not follow the Rabbinic tradition.
 	- Reform (Progressive and social justice oriented)
 	- Conservative (Mid-way between Reform and Orthodox)
 	- Orthodox
 		- Modern Orthodox (In Harmony with other religions)
-		- Haredi / Ultra-Orthodox
+		- Haredi (Those who Tremble) / Ultra-Orthodox
 			- Hasidic (Devotional)
 			- Yeshivish (Academic)
-		- Open Orthodox (Supports womens leadership and openness to non-Orthodox Jews)
+		- Open Orthodox (Supports women's leadership and openness to non-Orthodox Jews)
 	- Smaller
 		- Reconstructionist (First to support gays)
 		- Jewish Renewal (Gender Equality, Eco-conscious, Secular)

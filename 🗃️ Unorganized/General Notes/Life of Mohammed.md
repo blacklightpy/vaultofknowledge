@@ -1,0 +1,41 @@
+- https://arqadhi.blogspot.com/2015/11/071-letters-to-various-rulers.html
+
+- Birth
+- Early Life
+- Marriage to Khadeeja
+- Revelation
+- Events at Mecca
+- Events at Medina
+	- Welcome
+	- Treaty of Hudaibiyya
+	- Conquest of Mecca
+- Later Events
+	- Letters to Rulers
+	- Capture of Juwarriyah
+	- Capture of Saffiyah
+	- Death
+
+# Evil Timeline
+- Events at Mecca
+	- Revelation
+	- Disturbing People
+	- Demonizing Abu Lahab by name in His Cult Text
+	- Getting Kicked Out
+- Events at Medina
+	- Battles Mohammed started
+		- Battle of Badr [Mohammed won against Quraysh]
+		- Battle of Uhud [Mohammed lost against Quraysh]
+		- Exile of Banu Qaynuqa
+		- Exile of Banu Nadir
+		- Battle of Trench [Mohammed won against Quraysh]
+		- Genocide of Banu Qurayzah [For allying with Banu Quraysh; by a false interpretation of Halakha]
+		- 
+	- Having a dream to do Hajj (or to capture it?)
+	- Treaty at Hudaibiyyah and his Violation of It
+	- Not Stopping Abu Basir, the Muslim from Crimes
+	- Opportunistic Capture of Mecca and Killing of Apostates
+	- Attacking Banu Nadir
+	- Attacking Banu Mustaliq and the Capture of Juwarriyah
+	- Attacking Khaybar and the Capture of Saffiya
+	- Poisoning by Zainab
+	- Death

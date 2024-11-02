@@ -1,0 +1,114 @@
+# Tools
+- Adebar (**A**ndroid **De**vice **B**ackup **a**nd **R**ecovery, from [here](https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels))
+	- Checks `/proc/dumchar_info` (gives most details)
+	- Checks `/proc/mtd` (second best solution, doesn't exist in most new devices)
+	- Checks `/proc/emmc` (third best solution, should have about as much as the previous ones)
+	- Checks `/dev/block/platform/\*/by-name` (this is cross checked with the next option)
+	- Checks `/proc/partitions`, cross checked with `/proc/mounts` (gives us at least the list of mounted partitions)
+- KPARTX
+- xmount
+- DiskInfo
+# To Refer
+- https://android.stackexchange.com/questions/92565/how-to-list-all-major-partitions-with-their-labels
+- https://android.stackexchange.com/questions/5232/how-can-i-view-the-android-internal-partition-table
+- https://android.stackexchange.com/questions/24119/command-to-list-partitions
+# Notes
+## Sources
+- 1. [MTK Platform Partition Meaning | GitHub Gists](https://gist.github.com/sadiqsalau/865364b344c0b9cb1b418df8bbb51804)
+- 2. [Understanding MTK Chipset and Android Partition | Scribd](https://www.scribd.com/document/694623190/Understanding-MTK-Chipset-and-Android-Partition)
+## Notes
+### From "MTK Platform Partition Meaning", from GitHub Gists
+
+I first copy-pasted it verbatim, and made some minor modifications:
+- Capitalized partition names
+- Corrected grammar in some instances
+- Codified small lettered codenames
+- And I added numbers (not necessarily in the right order, just to count the number of partitions)
+	- This list has 41 partitions :v
+
+- 1. PRELOADER
+	- Pre-loader image
+	- Handles all the download and secure boot procedures
+- 2. DSP_BL
+	- DSP Boot Loader
+	- MBR, EBR1, EBR2
+	- `ext4` file system partition index table
+- 3. PMT
+	- Partition Management Table
+- 4. NVRAM
+	- Non-Volatile RAM
+	- Stores the hardware related information, such as the Calibration Data, MAC Address, IMEI ID, etc.
+- 5. SECCFG, SECSTATIC
+	- Reserved for the security platform used
+- 6. PROTECT1 / PROTECT_F
+	- Store SIM LOCK
+- 7. PROTECT2 / PROTECT_S
+	- Backup SIM LOCK
+- 8. PGPT
+	- Primary GUID Partition Table, compared with MBR
+- 9. SGPT
+	- Secondary (Backup) GUID Partition Table
+- 10-11. OEMKEYSTORE, KEYSTORE
+	- Image Authentication Key for Verified Boot (VB), not used yet
+- 12. TEE1
+	- [Trusted Execution Environment](https://www.trustonic.com/technology/trustzone-and-tee)
+- 13. TEE2
+	- Backup of TEE1
+- 14. U-BOOT / LK
+	- Second loader image
+	- U-BOOT is a generic bootloader for embedded devices
+	- LK stands for "Little Kernel"
+	- Handles most hardware initializations and brings up the full Linux kernel
+- 15. BOOT IMAGE
+	- Linux kernel image and its root file system
+- 16. RECOVERY
+	- Recovery kernel image and its root file system
+	- Handles all the system recovery and firmware update functionalities
+- 17. SEC_RO or SECRO
+	- Reserved for the security platform used
+- 18. MISC / FOTA (in older devices)
+	- Used for the recovery procedure (e.g. in case of power loss)
+- 19. LOGO
+	- Boot-up logo image
+- 20. EXPDB
+	- Stores the Exceptions Database
+- 21. SYSTEM
+	- Android system image
+- 22. CACHE
+	- Stores Android internal cache data or web cache data
+- 23. USERDATA
+	- Used for Android system to store user data such as user contacts, settings, installed applications … etc
+- 24. FAT / INTSD
+	- Internal SDCard on eMMC
+- 25. OTP
+	- OTP (One Time Program) area on eMMC
+- 26. FLASHINFO
+	- Flash tool download information
+- 27. BMTPOOL
+	- Handles Bad Block Management (nandflash used and reserved on eMMC）
+- 28. PARA
+	- Saves the parameters required for recovery
+- 29. FRP
+	- Factory Reset Protection, used for Anti-Theft
+- 30. NVDATA
+	- Stores data in `data/nvram/`
+- 31. PROINFO
+	- An NVRAM partition, stores one `struct` by default, can be added
+	- `md1img`, `md1dsp`, `md1arm7`, `md3img`
+	- For Android M, the MD image has been changed into an MD standalone partition, all modem images will be loaded from the partitions: `md1img`, `md1dsp`, `md1arm7` and `md3img`
+ - 32-33. SCP1, SCP2
+	- System Control Processor, used for recovery fail
+- 34-35. LK1, LK2
+	- Used for the updating LK in case of an OTA update fail
+- 36. PERSIST
+	- Stores data which will be stable for a long time
+- 37. METADATA
+	- Stores the master key for data encryption
+- 38. NVCFG
+	- NVRAM config, controlled by `MTK_NVCONFIG_PARTITION_SUPPORT`, not used yet
+- 39. CUST / CUSTOM / PRELOAD
+	- Customization partition, controlled by `MTK_CIP_SUPPORT`
+- 40. EFUSE
+	- Download baseband chip's `efuse`
+- 41. PPL
+	- Privacy Protection Lock, used for Anti-Theft

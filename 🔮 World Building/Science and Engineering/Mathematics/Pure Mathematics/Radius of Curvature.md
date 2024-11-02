@@ -1,6 +1,7 @@
-- Radius of curvature of a curve at a point is the radius of the circle which touches the curve at that point has the same tangent at that point
+- Radius of curvature of a curve at a point is the radius of the [[osculating circle]] at that point
 - Formula:
-- Curvature is the reciprocal of radius of curvature
+	- For 1D curves, curvature is the reciprocal of radius of curvature
+	- For 2D surfaces and other higher-dimensional manifolds, the concept of curvature is more complicated
 
 [[Euler Spiral]]
 [[Track Transition Curves]]

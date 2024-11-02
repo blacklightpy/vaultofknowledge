@@ -1,0 +1,1 @@
+It is most commonly used as a collective term for the parts of a [[Flowers|flower]] that produces [[ovules]] and ultimately develop into the [[fruits]] and [[seeds]].

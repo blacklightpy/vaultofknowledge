@@ -1,0 +1,25 @@
+- (Working) WireGuard through WireGuard: https://jasonthai.me/blog/2023/09/25/chaining-wireguard-tunnels/
+- Question about Nested WireGuard VPN: https://superuser.com/questions/1732587/multihop-nested-wireguard-configuration
+# Dynamic IP
+- Mesh with Dynamic IPs for Peers
+	- WireGuard Endpoint Discovery and NAT Traversal using DNS-SD: https://www.jordanwhited.com/posts/wireguard-endpoint-discovery-nat-traversal/
+		- Uses `wgsd`
+			- Uses DNS-Service Discovery to discover ports of the tunnels of two endpoints, to connect them
+			- CoreDNS plugin (`wgsd`) runs on the third party server to facilitate DNS-SD via a DNS Zone
+			- `wgsd-client` on one endpoint queries the third party server for the details of the other peers
+			- WIth the information, the hole is punched using `wgsd-client` via the DNS Zone.
+			- `wsgd-client` also keeps the information about peers up to date, running as a cron job.
+	- `github:WireGuard/wg-dynamic`: Official, but dead
+	- `github:segator/wireguard-dynamic`: Unofficial, working
+
+- NOTE: Just use Tailscale with Headscale. It is built for this.
+	- Compared to Nebula: No need to transfer certificates, built on fast userspace WireGuard
+	- Compared to WireGuard Dynamic Mesh (`wgsd`): No need to use DNS-SD, and can run on Windows
+	- Compared to WireGuard Hub and Spoke: No Hub bottleneck, faster communications
+	- Compared to NetMaker: Internet Gateway is free, and full mesh capability for all platforms
+	- [BEST COMPETITION] Compared to NetBird: Better UI?
+	- Compared to `wg-meshconf`: Supports Dynamic IPs and NATs
+	- Compared to `wiresmith`: Supports all platforms, and supports Dynamic IPs and NATs, not all devices have IPv6
+	- Compared to Tinc: Uses tried and tested WireGuard protocol, has a better UI
+	- [SECOND BEST] Compared to ZeroTier: Fully free license, and tried and tested WireGuard protocol
+	- Compared to `autowire`: Not all devices have IPv6

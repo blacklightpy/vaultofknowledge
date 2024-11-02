@@ -1,0 +1,87 @@
+# Types
+Some Info: https://cnj.atu.edu.iq/wp-content/uploads/2020/03/Classifications-of-Aircraft-Engines-Copy.pdf
+## Shaft Engines
+- Clockwork Drives (Human Energy)
+- External Thermal Engines
+	- Steam Engine
+	- Stirling Engine
+	- Nuclear Engine
+- Internal Thermal Engines
+	- Intermittent Combustion
+		- Reciprocating Engine / Piston Engine
+			- **By Fuel**
+				- Gasoline Engine
+				- Diesel Engine
+			- **By Layout**
+				- In-Line
+				- Flat / Boxer / Horizontal / Opposed
+				- V-Type
+				- W-Type
+				- X-Type
+				- Rotary (Rotary Crankcase)
+				- Radial (Cylinders Radiate Outward)
+		- Rotary Engine / Wankel Engine
+	- Air Breathing / Continuous Compression
+		- Gas Turbine Engine
+			- **Types**
+				- Turbo Prop (Turbine Engine that drives a Propeller)
+					- Efficient at low speeds and altitudes, best for regional airliners and cargo planes
+					- Typically operate at below Mach 0.6
+				- Turbo Shaft
+				- Prop Fan
+- Electric Motors
+## Reaction Engines
+- Jet Engines
+	- Air Breathing / Continuous Combustion
+		- Gas Turbine Engine
+			- **Types**
+				- Turbo Jet (Jet Engines that produce Thrust from the direct impulse of the Exhaust)
+					- Capable of high speeds, making them suitable for supersonic and high-altitude flight
+					- Typically operate at above Mach 0.8
+				- Turbofan / Fan Jet
+		- Advanced Technology Engine
+		- Ram Compression
+			- **Types**
+				- Ram Jet
+					- Most efficient at speeds above Mach 2
+					- **Types**
+						- Air Turbo Ram Jet (Combines Turbojet and Ramjet)
+						- Dual-Mode Ram Jet
+				- Scram Jet / Supersonic Compression Ram Jets
+					- They operate in the hypersonic range, above Mach 5
+				- Shcram Jet / Shock Compression Ram Jets
+		- Non-Continuous Compression
+			- **Types**
+				- Motor Jet
+				- Pulse Jet
+					- **Types**
+					    - Valveless Pulse Jet
+					    - Gluhareff Pressure Jet
+				- Pulse Detonation Engine
+	- Rocket Engines
+		- **Types**
+			- Nuclear Thermal Rocket
+			- Aerospike Engine
+	- Hybrid Engines
+		- **Types**
+		    - Air-Augmented Rocket
+			    - Pre-cooled Jets / Liquid Air Cycle Engine (LACE)
+			- Air Turbo Rocket
+				- Turborocket (Combines Turbo Jet and Rocket)
+				- Air Turbo Ram Jet (Combines Turbo Jet and Ram Jet)
+	- Pump Jet / Hydro Jet / Water Jet
+		- Used for Marine Propulsion
+		- The Pump Jet must be driven by a separate engine such as a Diesel or Gas Turbine
+	- Spacecraft Electric Propulsion
+		- Ion and Plasma Drives
+			- Electrostatic / Ion Thrusters
+			- Electrothermal
+				- Resistojet
+				- Arcjet
+				- Microwave
+				- Variable Specific Impulse Magnetoplasma Rocket (VASIMR)
+			- Electromagnetic / Plasma Propulsion Engine
+- Rotating Detonation Engine
+# Considerations
+- Understand Shock Waves to design efficient Aircraft Engines.
+

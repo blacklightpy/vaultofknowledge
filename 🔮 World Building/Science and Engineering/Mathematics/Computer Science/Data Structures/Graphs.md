@@ -1,0 +1,1 @@
+Graphs are abstract data types that implement unidirected graphs and directed graphs as described by [[Graph Theory]].

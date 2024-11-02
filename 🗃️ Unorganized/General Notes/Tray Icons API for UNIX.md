@@ -1,0 +1,6 @@
+- Ubuntu AppIndicators
+- KDE KStatusNotifierItem
+- Tray Icons: Reloaded
+	- from Tray Icons
+		- from TopIcons Plus
+			- from TopIcons

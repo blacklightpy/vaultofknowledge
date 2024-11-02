@@ -1,6 +1,6 @@
 # Main List
 - PeerTube (video)
-- Mastodon (tweets)
+- Mastodon (text posts)
 - Lemmy (discussions)
 - Tor (privacy)
 - Funkwhale (music)
@@ -9,8 +9,8 @@
 - XMPP Server (messaging)
 - SMF (bulletin board)
 - Git Frontend (code forge)
-- MineTest 
-- Game Servers (NFS II SE, Road Rash, etc.)
+- Game Servers (MineTest) 
+- Non-Free Retro Game Servers (NFS II SE, Road Rash, etc.)
 
 - Petals
 - Hivemind
@@ -33,7 +33,7 @@
 ## XMPP Server (messaging)
 ## SMF (bulletin board)
 ## Git Frontend (code forge)
-## MineTest 
+## MineTest
 ## Game Servers (NFS II SE, Road Rash, etc.)
 
 

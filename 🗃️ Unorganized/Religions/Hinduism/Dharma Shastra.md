@@ -32,7 +32,7 @@ The Dharmasutra and Dharma Shastra texts, as they have survived into the modern 
 
 Robert Lingat adds that these texts suggest that "a rich literature on dharma already existed" before these were first composed. **These texts were revised and interpolated through their history because the various text manuscripts discovered in India are inconsistent with each other, and within themselves, raising concerns of their authenticity**.
 
-The Dharma Shastra texts present their ideas under various categories such as Achara, Vyavahara, Prayaschitta and others, but they do so inconsistently. Some discuss Acara but do not discuss Vyavahara, as is the case with Parasara-Smriti for instance, while some solely discuss Vyavahara.
+The Dharma Shastra texts present their ideas under various categories such as Achara, Vyavahara, Prayaschittha and others, but they do so inconsistently. Some discuss Acara but do not discuss Vyavahara, as is the case with Parasara-Smriti for instance, while some solely discuss Vyavahara.
 ## Achara
 Achara (आचार) literally means "good behavior, custom". It refers to the normative behavior and practices of a community, conventions and behaviors that enable a society and various individuals therein to function.
 ## Vyavahara
@@ -41,12 +41,12 @@ Vyavahara (व्यवहार) literally means "judicial procedure, process, 
 The Vyavahara sections of Dharma texts included chapters on duties of a king, court system, judges and witnesses, judicial process, crimes and penance or punishment. However, the discussions and procedures in different Dharmasutra and Dharma Shastra texts diverge significantly.
 
 Some Dharma Shastra texts such as that attributed to Brihaspati, are almost entirely Vyavahāra-related texts. These were probably composed in the common era, around or after 5th-century of 1st millennium.
-## Prayaschitha
-Prayaschitha (प्रायश्चित्त) literally means "atonement, expiation, penance". Prayaschitha is asserted by the Dharmasutra and Dharma Shastra texts as an alternative to incarceration and punishment, and a means of expiating bad conduct or sin such as adultery by a married person. 
+## Prayaschittha
+Prayaschittha (प्रायश्चित्त) literally means "atonement, expiation, penance". Prayaschittha is asserted by the Dharmasutra and Dharma Shastra texts as an alternative to incarceration and punishment, and a means of expiating bad conduct or sin such as adultery by a married person. 
 
 Thus, in the Apastambha text, a willing sexual act between a male and female is subject to penance, while rape is covered by harsher judicial punishments, with a few texts such as Manusmriti suggesting public punishments in extreme cases.
 
-Those texts that discuss Prayaschitha, states Robert Lingat, debate the intent and thought behind the improper act, and consider penance appropriate when the "effect" had to be balanced, but "cause" was unclear. The roots of this theory are found in the Brahmana layer of text in the Samaveda.
+Those texts that discuss Prayaschittha, states Robert Lingat, debate the intent and thought behind the improper act, and consider penance appropriate when the "effect" had to be balanced, but "cause" was unclear. The roots of this theory are found in the Brahmana layer of text in the Samaveda.
 # Contributions by different Hindu schools of thought
 The **Mimamsa** school of Hindu philosophy developed textual hermeneutics, theories on language and interpretation of Dharma, ideas which contributed to the Dharmasutras and Dharmasastras. The **Vedanga** fields of grammar and linguistics – **Vyakarana** and **Nirukta** – were the other significant contributors to the Dharma-text genre.
 

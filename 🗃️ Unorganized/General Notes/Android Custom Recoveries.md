@@ -1,9 +1,27 @@
-- TeamWin Recovery Project (TWRP)
-- ClockWorkMod (CWM)
-- OrangeFox Recovery Project (OFRP) (synced with TWRP)
-- PitchBlack Recovery Project (PBRP) (fork of TWRP 3.7.0)
-- SkyHawk Recovery Project (SHRP)
+- TeamWin Recovery Project (TWRP) [Features: ] 
+- ClockWorkMod (CWM) ROM Manager [Features: ] (Mar 2010, by Koushik Dutta)
+- OrangeFox Recovery Project (OFRP) (synced with TWRP) [Features: Password, MIUI OTA] (Apr 2018, for mido, inspired by RedWolf, originally called OrangeWolf in Apr 2)
+- PitchBlack Recovery Project (PBRP) (fork of TWRP 3.7.0) [Features: Password, MIUI OTA, Modules] (Mar 2018)
+- SkyHawk Recovery Project (SHRP) (synced with TWRP) [Features: Password, MIUI OTA, Cool Theme, Black/Dark/White variants, Modules] (Feb 2019)
+- RedWolf Recovery Project (RWRP) (synced with TWRP) [Features: Password, MIUI OTA, Red/Black Theme] (Aug 2017, for mido)
 
+- Other:
+- Batik Recovery Project (BRP)
+- Carliv Touch Recovery (CTR)
+- Philz Touch 6 / CWM Advanced 6 (dead)
+- EXT4 Recovery (old)
+- RootZ Wiki Recovery
+
+Koushik Dutta made CWM ROM Manager, Universal ADB Driver
+Google made Apps2SD
+JesusFreke made Cyanogenmod in 2009
+
+HTC Dream (T-Mobile G1) in 2008 had a vulnerability that allowed root access to modify stock ROMs.
+JesusFreke made a custom ROM
+Google issued Android RC30 update that fixed it
+JesusFreke supplied his ROMs to others.
+Samsung Developer Cyanogen made a custom ROM based off his, so he asked everyone to move to her ROM.
+That was CM.
 ## Backup Utilities
 - NANDroid Backup (Only backups system and app data)
 	- e.g. TWRP Backup, OFRP Backup

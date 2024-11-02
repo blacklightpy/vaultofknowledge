@@ -1,0 +1,57 @@
+- Buggy
+- Volkswagen Country Buggy
+- Convertible / cabriolet
+- Chrysler Sebring JS convertible with top down
+- Coupé
+- 1987 Cadillac Coupe Deville
+- Fastback
+- Porsche 356
+- Flower car
+- Cadillac Flower car
+- Hatchback / Liftback
+- Renault Clio hatchback
+- Hearse / funeral coach
+- Cadillac Hearse
+- Limousine
+- Lincoln Stretch Limousine
+- Microvan
+- Daihatsu Hijet microvan
+- Minivan / multi-purpose vehicle (MPV) / people carrier / people mover
+- Toyota Sienna minivan
+- Panel van / car-derived van / sedan delivery
+- Austin 35 van
+- Panel truck
+- Volkswagen Taro panel truck
+- Pickup truck / pickup
+- Ford F-150 Lariat SuperCrew
+- Roadster
+- BMW Z3 roadster
+- Sedan / saloon
+- Toyota Camry sedan
+- Shooting-brake
+- Volvo 1800ES
+- Station wagon / estate car
+- Buick Roadmaster station wagon
+- Targa top
+- Porsche 911 Targa
+- Ute / coupe utility
+- Holden Ute VF MY14 SV6 Utility
+# Historic styles
+- Baquet
+- Barchetta
+- Berlinetta
+- Cabrio coach
+- Coupé de ville / Sedanca de ville / town car
+- 1963 Rambler American two-door hardtop
+- Hardtop
+- 1966 Rolls-Royce Phantom V State Landaulet
+- Landaulet
+- Personal luxury car
+- Phaeton
+- Roadster utility
+- 1903 Oldsmobile Curved Dash Runabout
+- Runabout
+- 1914 Humber 11 torpedo
+- Torpedo
+- 1913 Maxwell Model 24-4 touring car
+- Touring

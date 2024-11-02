@@ -1,10 +1,9 @@
 # ToC
 - Timeline of Books
-	- Samhitha
+	- Samhithas
 	- Upanishads
-	- Others
-- Agamas
-	- Tantras (Shakta Agamas)
+- Aagamas
+	- Tantras (Shakta Aagamas)
 - Vedanta (Dvaita vs Advaita)
 - Advaita Vedanta (by Adi Sankara)
 - Verses
@@ -42,16 +41,16 @@ The early Upanishads were composed over 900-300 BCE.
 - Abhinavabharati (950-1020 CE)
 - Yoga Vasistha (750 CE)
 ---
-# Agamas
+# Aagamas
 
-- Agamas are traditions.
+- Aagamas are traditions.
 	- They are voluminous and are divided into Shaiva, Shakta and Vaishnava.
-	- They are also called Tantras, but that's mostly Shakta Agamas.
-	- The Agama texts include:
-		- 28 Shaiva Agamas
-		- 64 Shakta Agamas (also called Tantras)
-		- 108 Vaishnava Agamas (also called Pancharatra Samhitas)
-		- and numerous Upa-Agamas.
+	- They are also called Tantras, but that's mostly Shakta Aagamas.
+	- The Aagama texts include:
+		- 28 Shaiva Aagamas
+		- 64 Shakta Aagamas (also called Tantras)
+		- 108 Vaishnava Aagamas (also called Pancharaatra Samhitas)
+		- and numerous Upa Aagamas.
 # Dvaita Vedanta vs Advaita Vedanta
 - Dvaita Vedanta is dualistic
 - Advaita Vedanta is monistic
@@ -62,12 +61,12 @@ His followers are Shankaracharyas. (Acharya means teacher, so Shankaracharya mea
 
 He set up four monasteries (called Mathas or Pithams) where realized men would teach.
 
-| Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                                     | Veda         | Sampradaya | Present Shankaracharya                                                                   |
-| ----------------- | --------- | -------------------------- | ------------------------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
-| Padmapada         | East      | Puri Govardhanmatha        | Pitham(?) 	 Prajnanam Brahma (Consciousness is Supreme Being) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
-| Suresvara         | South     | Sringeri sarada Pitham     | Aham Brahmasmi (I am the Supreme Being)                       | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
-| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tattvamasi (That Thou Art)                                    | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
-| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayamatmanam Brahma (This Atman is Supreme Being)              | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
+| Shishya (lineage) | Direction | Monastery (Matha / Pitham) | Mahavakya                                          | Veda         | Sampradaya | Present Shankaracharya                                                                   |
+| ----------------- | --------- | -------------------------- | -------------------------------------------------- | ------------ | ---------- | ---------------------------------------------------------------------------------------- |
+| Padmapada         | East      | Puri Govardhanmatha        | Pra-Jnaanam Brahma (Ultimate Knowledge is Reality) | Rig Veda     | Bhogavala  | Swami Nischalananda Saraswati                                                            |
+| Suresvara         | South     | Sringeri sarada Pitham     | Aham Brahm Asmi (I am (Soul is) Reality)           | Yajur Veda   | Bhurivala  | Sri Bharati Tirtha                                                                       |
+| Hastamalakacarya  | West      | Dvaraka Sharada Pitham     | Tat Tvam Asi (That (Reality) and You are the Same) | Sama Veda    | Kitavala   | Swami Sadanand Saraswati                                                                 |
+| Totakacarya       | North     | Badari Jyotirmatha Pitham  | Ayam Atmaanam Brahma (This Soul is Reality)        | Atharva Veda | Nandavala  | Swami Avimukteshwaranand Saraswati (contested) / Swami Vasudevanand Saraswati (disputed) |
 
 # Verses
 Purusa Sukta:
@@ -93,7 +92,10 @@ Purusa Sukta:
 - Shiva Samhita
 
 - Kalpa Sutras
-	- Grihya Sutras (Household Rites)
+	- Shrauta Sutras (Sutras based on Sruti, focusing on rituals)
+	- Griha Sutras (Household Rites)
+	- [[Dharma Sutras]] (Moral Code)
+	- Shulba Sutras (Rope Measurement Techniques)
 ## Prior to 200 BC
 - Manu Smriti (Laws of Manu)
 - Dharma Sutras (The Sacred Laws of The Aryas)

@@ -1,0 +1,1 @@
+Representing information in a way such that AI models can understand and make use of them.

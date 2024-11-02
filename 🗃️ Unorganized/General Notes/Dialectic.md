@@ -1,0 +1,3 @@
+Dialectic, also known as the dialectical method, refers originally to dialogue between people holding different points of view about a subject but wishing to arrive at the truth through reasoned argumentation. Dialectic resembles debate, but the concept excludes subjective elements such as emotional appeal and rhetoric.
+
+It has its origins in ancient philosophy and continued to be developed in the Middle Ages. 

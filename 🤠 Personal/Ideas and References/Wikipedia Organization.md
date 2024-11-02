@@ -6,7 +6,7 @@ Subject areas are collections of articles.
 
 There are also indexes (A-Z index, 3rd party indices, etc.)
 
-**Content Style**
+**Information about Content Style**
 https://en.wikipedia.org/wiki/Wikipedia:Categorization
 https://en.wikipedia.org/wiki/Wikipedia:FAQ/Categorization
 https://en.wikipedia.org/wiki/Wikipedia:Categories,_lists,_and_navigation_templates

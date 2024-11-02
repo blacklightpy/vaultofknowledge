@@ -1,0 +1,1 @@
+In botany, husk or hull is the outer shell or coating of a seed.

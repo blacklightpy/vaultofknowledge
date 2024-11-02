@@ -1,0 +1,1 @@
+A cause of action or right of action, in [[law]], is a set of facts sufficient to justify suing to obtain money or property, or to justify the enforcement of a [[legal right]] against another party.

@@ -1,0 +1,37 @@
+# Examples
+- Operating Systems
+	- Microsoft Windows
+	- Apple macOS
+	- Apple iOS
+	- OEM Android ROMs
+- Device Drivers
+	- Proprietary OS
+		- Most Drivers
+	- Linux
+		- Vendor BLOBs
+- Media Formats and Containers
+	- Video
+		- Paid Patented Formats
+			- CCITT (now ITU-T) H.120
+			- ITU-T H.261
+			- MJPEG
+			- DV
+			- MJPEG 2000
+			- ITU-T H.262
+			- ITU-T H.263 / MPEG-4 Part 2
+			- ITU-T H.264 / MPEG-4 Part 10 / AVC
+			- ITU-T H.265 / MPEG-H Part 2 / HEVC
+			- ITU-T H.266 / VVC
+			- DNxHD
+			- Apple ProRes
+		- Paid Patented Containers
+			- MP4
+	- Audio
+		- Paid Patented Formats
+			- MP3 (Patent Expired)
+			- AAC
+		- Paid Patented Containers
+			- MP3
+			- AAC
+- Generic Software
+	- The problem is that we become dependent on them, but we will have to use it according to the whims of the developer who may forcibly update it to obtain support

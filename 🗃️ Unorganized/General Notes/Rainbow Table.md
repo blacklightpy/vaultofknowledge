@@ -1,0 +1,1 @@
+It's a type of [[lookup tables|lookup table]] used for hacking.

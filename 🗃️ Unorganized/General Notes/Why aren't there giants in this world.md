@@ -1,0 +1,1 @@
+I know God does exist, but why am I myself one of the apex beings in the observable world?

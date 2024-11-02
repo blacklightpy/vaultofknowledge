@@ -7,7 +7,7 @@
 - [[The History of Islamic Rule]]
 # Regarding the claim that Muslims are terrorists
 - [[Jihad as per Quran]]
-- [[Salafi Jihadism]]
+- [[Salaafi Jihadism]]
 - [[Jihadist Attacks]]
 # More on Israel-Palestine Conflict
 - [[Israel Palestine Data]]

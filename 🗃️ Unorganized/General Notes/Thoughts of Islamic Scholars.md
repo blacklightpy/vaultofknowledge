@@ -1,0 +1,3 @@
+- Al Ghazali
+	- The Incoherence of the Philosophers
+		- He asserts that philosophy is pointless because it cannot prove the existence of god and deny the existence of two gods.

@@ -1,0 +1,1 @@
+Existence is the state of having being or [[reality]] as opposed to [[nonexistence|nonexistent]] or nonbeing.

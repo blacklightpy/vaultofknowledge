@@ -1,0 +1,1 @@
+A figure is a representation of an object that includes its [[shape]] and scale.

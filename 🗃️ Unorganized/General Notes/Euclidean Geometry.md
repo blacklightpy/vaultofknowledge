@@ -1,0 +1,1 @@
+It is a mathematical system attributed to the Greek mathematician, [[Euclid]], which he described in his book on geometry titled Elements.

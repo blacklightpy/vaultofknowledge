@@ -1,55 +1,54 @@
 Hindus subscribe to a diversity of ideas on spirituality and traditions, but have no ecclesiastical order, no unquestionable religious authorities, no governing body, no prophet(s) nor any binding holy book; Hindus can choose to be polytheistic, pantheistic, monotheistic, monistic, agnostic, atheistic or humanist.
 ## Types of Hinduism
 - Folk Hinduism, based on local traditions and cults of local deities prior to the Vedic Age
-- Shrauta or "Vedic" Hinduism as practised by traditionalist brahmins
+- Shrauta or Vedic ritual-oriented Hinduism as practised by Traditionalist Brahmins
 - Vedantic Hinduism, including Advaita Vedanta (Smartism), based on the philosophical approach of the Upanishads
 - Yogic Hinduism, especially the sect based on the Yoga Sutras of Patanjali
-- "Dharmic" Hinduism or "daily morality", based on Karma and upon societal norms such as Vivāha (Hindu marriage customs)
-- Bhakti or devotionalist practices
+- "Dharmic" Hinduism or "Daily Morality", based on Karma and upon societal norms such as Vivaaha (Hindu marriage customs)
+- Bhakti or Devotional practices
 
 ---
-# ToC
+# Table of Contents
 - Types
 - Ideas
-	- Sampradayas
+	- Sampradaayas
 	- Scriptures
 	- Books
 	- Caste Divisions
 	- Types of Marriages
 - Outline
 	- Concepts
-	- Purusarthas
-	- Niti
+	- Purusarthas (Goals of Life)
+	- Neeti (Ethics)
 	- Schools (Astika/Nastika)
 	- Vedas / Divisions
-	- Upavedas
+	- Upa Vedas
 	- Vedanga
 	- Other Books
 	- Sangam Literature
-	- Deities (Gods, Godesses)
+	- Deities (Gods, Goddesses)
 	- Practices
-	- Varnashramas
-	- Sanskaras
+	- Varnaashramaas
+	- Samskaaras
 	- Festivals
 	- Other Concepts (idk what)
 	- Related
 - Gunas (Qualities)
 ---
 # Ideas
-Para Brahman is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
+Para Brahmaan is beyond all descriptions and conceptualizations. It is formless (devoid of Maya) and is eternal.
 
 Nirguna - No attributes
 Saguna - All good attributes
 
-
 - In Advaita Vedanta
-	- Para Brahman = Nirguna Brahman (no attributes)
+	- Para Brahmaan = Nirguna Brahmaan (no attributes)
 - In Dvaita Vedanta
-	- Para Brahman = Saguna Brahman (All good attributes)
+	- Para Brahmaan = Saguna Brahmaan (All good attributes)
 - In Vishista Dvatia Vedanta
-	- Para Brahman = Saguna Brahman (All good attributes)
+	- Para Brahmaan = Saguna Brahmaan (All good attributes)
 - By Bhakti Traditions (Vishnu Worship, Paramashiva Worship, Adiparashakti Worship, Ganapati Worship, Kartikeya Worship)
-	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahman
+	- Vishnu, Shiva, Adi Shakti, Mahaganapati, Kartikeya are respectively considered Para Brahmaan
 ## Hindu denominations / Sampradayas
 - Bhakti Traditions
 	- Paramashiva Worship
@@ -62,21 +61,28 @@ Saguna - All good attributes
 	- Worship of 5 dieties in a quincuix pattern, with Ganesha, Shiva, Vishnu, Devi/Durga, Surya and optionally one Ishta Devata in the middle
 ## Scriptures
 - Srutis (eternal words)
-	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda)
-    - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
+	- Vedas (Rig Veda, Yajur Veda, Sama Veda, Atharva Veda) / Nigama (Abstract Ideas)
+	    - Sections: Samhitha, Brahmana, Aranyaka, Upanishad
     - Vedangas / Supplimentaries: (Shiksha, Chandas, Vyakarana, Nirukta, Kalpa, Jyotisha)
 - Smritis (human works)
 	- Ithihasas (Mahabharatam, Ramayanam)
 		- Bhagavad Gita is a part of Mahabharatam
 	- Puranas
-		- Puranas / Maha Puranas (18 in number)
-		- Upa Puranas (18 in Number)
+		- Puranas / Maha Puranas (Great Legends) (18 in number)
+		- Upa Puranas (Minor Legends) (18 in Number)
 		- Bhagavata Purana / Sreemad Bhagavatam was the last Purana written by Ved Vyas
 			- It begins where Bhagavad Gita ends, and most important Purana
-	- Tantras / Agamas
-		- Astya (Orthodox Hindu schools of philosophy)
+	- Tantras / Aagamas (Practical Ideas)
+		- Sections: Jnana Pada / Vidya Pada, Yoga Pada, Kriya Pada, Charya Pada
+		    - Jnaana pada / Vidya Pada – consists of doctrine, the philosophical and spiritual knowledge, knowledge of reality and liberation
+		    - Yoga Pada – precepts on yoga, the physical and mental discipline.
+		    - Kriya Pada – consists of rules for rituals, construction of temples (Mandir); design principles for sculpting, carving, and consecration of idols of deities for worship in temples; for different forms of initiations or diksha.
+			    - This code is analogous to those in Puranas and in the Buddhist text of Sadhanamala.
+		    - Charya Pada – lays down rules of conduct, of worship (puja), observances of religious rites, rituals, festivals and prayaschitthas.
+
+		- Aastya (Orthodox Hindu schools of philosophy)
 			- Shad Darshan / 6 Darshans (Samkhya, Yoga, Nyaya, Vaisheshika, Mimamsa and Vedanta)
-		- Nastya (Hindu schools of philosophy not accepting of Vedic authority)
+		- Naastya (Hindu schools of philosophy not accepting of Vedic authority)
 	- Sangam Literature
 		- Five Great Epics (includes Silappatikaram)
 
@@ -88,7 +94,7 @@ Saguna - All good attributes
 
 ![image](https://github.com/blacklightpy/vaultofknowledge/assets/28739146/97ae0339-91e8-4111-a346-ae5be7e37e29)
 ## Books
-- Lalita Sahasranamam (from Brahmanda Purana)
+- Lalita Sahasranamam (from Brahmaanda Purana)
 - Saundarya Lahari (Tantra text)
 - Devi Mahatmyam (from Markandeya Purana)
 ---
@@ -118,130 +124,106 @@ These are in the order of superiority.
 ---
 # Wikipedia Table
 
-Concepts
-Purusarthas
-Niti
-Schools (Astika/Nastika)
-Vedas / Divisions
-Upavedas
-Vedanga
-Other Books
-Sangam Literature
-Deities (Gods, Godesses)
-Practices
-Varnashramas
-Sanskaras
-Festivals
-Other Concepts (idk what)
-Related
+- Concepts
+- Purusarthas
+- Niti
+- Schools (Astika/Nastika)
+- Vedas / Divisions
+- Upa Vedas
+- Vedanga
+- Other Books
+- Sangam Literature
+- Deities (Gods, Godesses)
+- Practices
+- Varnashramas
+- Sanskaras
+- Festivals
+- Other Concepts (idk what)
+- Related
 
-Qualities: Gunas
-Dharmas
-Sanskaras
-Poojas?
-Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
+Gunas (Attributes)
+Dharmas (Morals)
+Sanskaras (Cultural Traditions)
+Poojas (Worship Rituals)
+Concepts of God (Maya, Jiva, Aatmaan, Param Aatmaan, Prakriti, Brahmaan, etc.)
 
 - Concepts
-	- Brahman (The Universe)
-	- Om (The initial sound)
-	- Ishvara (God)
-	- Atman (The Soul)
-	- Maya (The World)
+	- Brahmaan (The Universe)
+	- Om (The Initial Sound)
+	- Eeshvara (God)
+	- Aatmaan (The Soul)
+	- Maaya (The World)
 	- Karma (Actions)
-	- Saṃsāra (The cycle of life)
+	- Samsaara (Cyclic Existence)
+	- Kaala Chakra (The Cycle of Samsaara)
 
 - Puruṣārthas
 	- Dharma (Morality)
 	- Artha (Meaning)
-	- Kama (Eroticism)
+	- Kaama (Eroticism)
 	- Moksha (Liberation)
 
-- Niti
+- Neeti (Ethics)
 	- Ahimsa (Non-Violence)
 	- Asteya
 	- Aparigraha
 	- Brahmacharya (Celibacy)
 	- Satya (Honesty)
-	- Dāna (Benovelence)
-	- Damah
-	- Dayā (Kindness)
+	- Daana (Benovelence)
+	- Daamah
+	- Daya (Kindness)
 	- Akrodha (Anger-Free)
 
 - Schools / Darshans
-	- Āstika (Follows Vedas)
+	- Aastika (Follows Vedas)
 		- Samkhya 
 		- Yoga
 		- Nyaya
 		- Vaisheshika
-		- Mīmāṃsā
-		- Vedanta / Uttara Mimāṃsā
+		- Meemaamsa
+		- Vedanta / Uttara Meemaamsa
 	        - Dvaita
 	        - Advaita
 	        - Vishishtadvaita
-	- Nāstika (Doesn't Follow Vedas)
+	- Naastika (Doesn't Follow Vedas)
 		- Buddhism
 	    - Jainism
-	    - Charvaka
-		- Ājīvika
-		- Ajñana
+	    - Chaarvaka
+		- Aajeevika
+		- Ajnaana
 
 - Texts	
 	- Classification
-		- Śruti
+		- Shruti
 		- Smriti
 
-	- Vedas
-		- Rigveda
-		- Yajurveda
-		- Samaveda
-		- Atharvaveda
-	
-		- Divisions
-			- Samhita
-			- Brahmana
-			- Aranyaka
-			- Upanishads
-				- Aitareya
-				- Kaushitaki
-				- Brihadaranyaka
-				- Isha
-				- Taittiriya
-				- Katha
-				- Maitrayaniya
-				- Shvetashvatara
-				- Chandogya
-				- Kena
-				- Mundaka
-				- Mandukya
-				- Prashna
-	
-	- Upavedas
-		- Ayurveda
-		- Dhanurveda
-		- Natyaveda
-		- Sthapatyaveda
-	
-	- Vedanga	
-		- Shiksha
-		- Chandas
-		- Vyākaraṇa
-		- Nirukta
-		- Kalpa
-		- Jyotisha
+- Upa Vedas
+	- Ayurveda
+	- Dhanurveda
+	- Natyaveda
+	- Sthapatyaveda
+
+- Vedanga	
+	- Shiksha
+	- Chandas
+	- Vyaakarana
+	- Nirukta
+	- Kalpa
+	- Jyotisha
 ## Smritis (Inspired Works)
-- Agamas
+- Aagamas
 - Itihasas (Epics)
 	- Ramayana
 	- Mahabharata
 		- Bhagavad Gita
-- Puranas 
+- Puraanaas 
 - Minor Upanishads 
-- Arthashastra
+- Artha Shaastra
 - Nitisara
-- Dharmaśāstra
+- Dharma Shaastra
 	- Manusmriti
-	- Nāradasmṛti
-	- Yājñavalkya Smṛti
+	- Naaradasmṛti
+	- Yajnavalkya Smriti
 - Sutras
 	- Yoga Sutras of Patanjali
 - Stotras
@@ -278,7 +260,7 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 ### Worship
 **Places**: Temple
 **Tools**: Murti (Idol / Vessel)
-**Rituals**: Puja, Japa, Bhajan, Naivedhya, Homa, Tapas, Dhyana, Tirthatana
+**Rituals**: Puja (Devotional Ritual), Japa (Recitation), Bhajan (Devotional Songs), Keertana (Descriptions), Naivedhya (Food Offerings), Prasaada (Returned Offering), Homa (Fire Rituals with Votary (Thrown) Offerings), Yajna (Large Fire Rituals), Tapas (Intense Meditation), Dhyana (Meditation), Tirthatana (Pilgrimage)
 **Devotion:** Bhakti
 ### Sanskaras (Culture / Rituals)
 - Garbhadhana
@@ -295,61 +277,61 @@ Concepts of God (Maya, Jiva, Atman, Paramatman, Prakriti, Brahman, etc.)
 - Keshanta 
 - Ritushuddhi 
 - Samavartanam 
-- Vivaha
+- Vivaaha
 - Antyeshti
-### Varnashrama
-
+### Varnaashrama
 It refers to Varnas and Ashramas
-#### Varnas
-- Brahmin
-- Kshatriya
-- Vaishya
-- Shudra
-#### Ashramas
+#### Varnaas
+- Brahmin (Priest)
+- Kshatriya (Warrior)
+- Vaishya (Businessmen)
+- Shoodra (Worker)
+#### Aashramaas
 - Brahmacharya
 - Grihastha
 - Vanaprastha
 - Sannyasa
-	
-	- Festivals
-		- Diwali
-		- Holi 
-		- Shivaratri
-		- Raksha Bandhan
-		- Navaratri
-			- Durga Puja 
-			- Ramlila 
-			- Vijayadashami 
-		- Ganesh Chaturthi 
-		- Rama Navami 
-		- Janmashtami 
-		- Onam 
-		- Pongal 
-		- Makar 
-		- Sankranti
-		- New Year
-			- Bihu
-			- Gudi Padwa
-			- Pahela Baishakh
-			- Puthandu
-			- Vaisakhi
-			- Vishu
-			- Ugadi
-		- Kumbh Mela
-			- Haridwar
-			- Nashik
-			- Prayag
-			- Ujjain
-		- Ratha Yatra
-		- Teej
-		- Vasant Panchami
-		- for Others
 
-	- Other
-		- Svādhyāya
-		- Namaste
-		- Bindi
-		- Tilaka
+
+- Festivals
+	- Diwali
+	- Holi 
+	- Shivaratri
+	- Raksha Bandhan
+	- Navaratri
+		- Durga Puja 
+		- Ramlila 
+		- Vijayadashami 
+	- Ganesh Chaturthi 
+	- Rama Navami 
+	- Janmashtami 
+	- Onam 
+	- Pongal 
+	- Makar 
+	- Sankranti
+	- New Year
+		- Bihu
+		- Gudi Padwa
+		- Pahela Baishakh
+		- Puthandu
+		- Vaisakhi
+		- Vishu
+		- Ugadi
+	- Kumbh Mela
+		- Haridwar
+		- Nashik
+		- Prayag
+		- Ujjain
+	- Ratha Yatra
+	- Teej
+	- Vasant Panchami
+	- for Others
+
+- Other
+	- Svaadhyaaya
+	- Namaste
+	- Bindi
+	- Tilaka
 
 - Related
 	- Hindus
@@ -370,7 +352,7 @@ It refers to Varnas and Ashramas
 	- Pilgrimage sites
 		- India
 	- Relations with other religions
-		- Baháʼí
+		- Bahaʼi
 		- Buddhism
 		- Islam
 		- Jainism

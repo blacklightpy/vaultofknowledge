@@ -6,3 +6,9 @@ To experience life in coexistence, we have to consider the physical existence of
 
 A good explanation was given by Erwin Schrodinger:
 "Living things avoid decay from disorder and equilibrium."
+
+# Aspects
+- [[Personal Life]]
+- [[Everyday Life]]
+- [[Work-Life Balance]]
+# In biology

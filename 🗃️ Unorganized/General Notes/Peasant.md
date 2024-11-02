@@ -1,0 +1,1 @@
+A peasant is a pre-industrial agricultural labourer or a farmer with limited land ownership, especially one living in the Middle Ages under feudalism and paying rent, tax, fees, or services to a landlord.

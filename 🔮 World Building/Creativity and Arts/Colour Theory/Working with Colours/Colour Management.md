@@ -1,4 +1,4 @@
-It is the controlled conversion between colour representatons of various digital devices.
+It is the controlled conversion between colour representations of various digital devices.
 
 # Methods
 - [[International Colour Consortium|ICC Standards]]  - Cross-platform standards for colour management

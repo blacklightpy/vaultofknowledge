@@ -16,24 +16,24 @@
 		2. Raster Image Formats: JPEG (.jpeg, .jpg, .jiff), PNG, GIF, TIFF, AVIF, WebP, App-specific formats
 		3. Vector Image Formats: SVG, AI
 		4. Raw Image Formats: DNG, RAW
-		5. Video Codecs: H.120, H.261, MJPEG, DV, MJPEG 2000, ITU/MPEG (ITU H.262, ITU H.263/MPEG-4 Part 2, ITU H.264/AVC/MPEG-4 Part 10, ITU H.265/HEVC/MPEG-H Part 2, ITU H.266), VP3, Theora, VP8, VP9, DNxHD, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
+		5. Video Formats: H.120, H.261, MJPEG, DV, MJPEG 2000, ITU-T/MPEG (ITU-T H.262, ITU-T H.263/MPEG-4 Part 2, ITU-T H.264/AVC/MPEG-4 Part 10, ITU-T H.265/HEVC/MPEG-H Part 2, ITU-T H.266), VP3, Theora, VP8, VP9, DNxHD, Apple ProRes, AV1 (extends Xiph.Org Daala, VP10, Cisco Thor)
 			1. Basic Algorithms: DPCM, DCT, DWT
 		6. Video Containers: MPEG-4 (MP4/MPEG-4 Part 14), Matroska (MKV, WebM), 3GP, AVI
 		7. Subtitle Formats: ASS, SRT, AST
 	3. Sound
-		1. Audio Codecs: Opus, Ogg Vorbis, AAC, MP3, AC3, FLAC, Monkey's Audio, ALAC, MPEG-Surround, AC-3, DTS, PCM
+		1. Audio Formats: Opus, Ogg Vorbis, AAC, MP3, AC3, FLAC, Monkey's Audio, ALAC, MPEG-Surround, AC-3, DTS, PCM
 		2. Audio Containers: Opus, OGG, MP3, AAC, FLAC, APE, RIFF (WAV), WMV, AMR
 	4. Text and Generic Data
 		1. Fonts: TrueType, OpenType, ClearType, Font Parameters, Kerning, Hinting
 		2. Document Formats: Plaintext, PDF, EPUB, DjVu, DOC/DOCX, ODF, App-specific formats
-		3. Data Codecs: LZMA, RAR5, LZ4
+		3. Data Compression Formats: LZMA, RAR5, LZ4
 		4. Metadata Formats: ID3 tags, Exif
 7. File Systems: FAT32, NTFS, EXT4, F2FS, ZFS, BtrFS, HFS+, APFS
 8. Operating Systems: UNIX, Windows, Haiku, Symbian, KaiOS
 9. Core Hardware: CPU, Storage and Memory, Power Supply, Bus Architecture, Interfaces
 10. Programming: ISA based Assembly, Language with Assembly Backends, High Level Languages
 11. Networking: OSI Model
-12. Physical Connection Ports: Ethernet, USB, PCI, PCIe, SATA, HDMI, DisplayPort, RS-232, XT-60, JST-XH
+12. Physical Connection Ports: Ethernet, USB, PCI, PCIe, SATA, HDMI, DisplayPort, RJ-45, DE-9, DB25, XT-60, JST-XH
 13. Physical Components: Transistors, FET, MOSFET
 14. Storage: Magnetic Tape, Optical Disks, Mechanical Hard Disks, RAM, ROM
 15. Radio Communications: Spectrum Allocation, Power Limits, Antenna Types, ITU Standards

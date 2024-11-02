@@ -1,0 +1,41 @@
+- Jews killed Canaanites
+	- Their lore has it that God was impartial to all of them
+	- First Adonai sent the Yitzak and his sons to Egypt
+		- Adonai made a promise to Abraham, that he will make a great nation of his lineage through his son Yitzak
+		- Sarah made Abraham sent Hagar and her son Ishmael away
+		- Adonai told Abraham that he does not have to worry about Hagar
+		- Adonai told Hagar that he will make a great nation of her son Ishmael's lineage
+		- Adonai tested Abraham to verify his devotion by asking him to sacrifice his son, Yitzak
+		- Adonai told him that he will make a great nation of his son
+		- Abraham told his servant to get his son a wife, but only from his father's clan, if he can
+		- Abraham's servant found Rebekah
+			- Rebekah was not 3, because she was found fetching water
+		- Yitzak and Rebekah had two sons - Esau and Yaakov
+		- Esau married Hittite women, and Yosef and Rebekah hated them
+		- Yitzak liked Esau, but Rebekah liked Yaakov
+		- Yaakov deceived Esau and Yitzak, and stole Esau's birth right and his blessings
+		- Rebekah asked Yaakov to escape to his uncle Laban, and Yaakov told him to avoid marrying Canaanites
+		- Esau, knowing his father hated Canaanties, married women from the lineage of Ishmael
+		- Laban made Yaakov work for him for seven years to marry Rachel
+		- Laban tricked Yaakov to sleeping with Leah, and thus marrying her
+			- Because it was his custom to marry the older daughter first
+		- Laban let Yaakov marry Rachel the next week in exchange for another seven years of work
+		- Yaakov thus marries Leah and Rachel
+			- This was before the Mosaic law
+		- Yaakov had twelve sons
+		- Yaakov returned to his fatherland
+		- Yaakov fought God, and he was touched at his thigh socket
+		- Yaakov was named by God as Yisra'El, because he struggled with God
+		- Yaakov was welcomed by Essau, who held no enmities
+		- Shechem son of Hamor raped Dinah the daughter of Yaakov, and wanted to marry her
+		- Yaakov's sons betrayed the Shechemites to kill them all
+		- Yoseif had a dream that everyone will bow to him
+		- Yoseif was sold by his brothers to the Ishmaelites (Genesis 37:25)
+		- Yoseif was bought by the Egyptians
+		- Yoseif was falsely accused by his master's wife because he did not sleep with her
+		- Because of Yoseif's ability to interpret dreams, he was made in charge of Egypt
+		- Yoseif pranked his brothers, but then allied with them
+		- Yoseif's brothers and Yaakov went to Egypt
+		- Yoseif made all of them sell themselves and their possessions to the Pharaoh during a famine
+		- They were made to live 215 years in exile
+	- It is in this two years of exile that Adonai gave an ultimatum to the Canaanites

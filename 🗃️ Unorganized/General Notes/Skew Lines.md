@@ -1,0 +1,1 @@
+In three dimensional geometry, skew lines are lines that do not intersect, and are not coplanar.

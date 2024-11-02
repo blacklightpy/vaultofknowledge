@@ -1,0 +1,1 @@
+- https://www.quora.com/What-do-you-know-about-the-Arab-polytheistic-past/answer/Maarbolet-Irene

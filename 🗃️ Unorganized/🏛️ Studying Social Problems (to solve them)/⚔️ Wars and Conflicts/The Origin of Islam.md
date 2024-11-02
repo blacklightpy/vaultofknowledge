@@ -28,7 +28,7 @@
 - Muslim Rulers who protected Jews: https://web.archive.org/web/20150402101019/http://mirajnews.com/article/opinion/muslim-rulers-saved-jews/
 
 - Arab historians mention about 20 tribes who lived in the region, among them the well-known 
-	- Banu-Nadir and Banu Qurayza who were called al-Kahinan, i.e., "Two Tribes of Priests,"
+	- Banu Nadir and Banu Qurayza who were called al-Kahinan, i.e., "Two Tribes of Priests,"
 	- Banu Qaynuqa
 	- Many Jews also lived in Khaybar and in other oases of Wadi al-Qura ("Valley of the Villages"), such as 
 		- al-'Ula (Didan)
@@ -125,7 +125,7 @@
 > The situation changed after the arrival of two new [Arab](https://en.wikipedia.org/wiki/Arab "Arab") tribes, the ['Aws](https://en.wikipedia.org/wiki/Banu_Aws "Banu Aws") or Banu 'Aws and the [Khazraj](https://en.wikipedia.org/wiki/Khazraj "Khazraj"), also known as the Banu Khazraj. At first, these tribes were allied with the Jewish tribes who ruled the region, but they later revolted and became independent.
 > ### Under the 'Aws and Khazraj
 > 
-> Toward the end of the 5th century,[[18]](https://en.wikipedia.org/wiki/Medina#cite_note-19) the Jewish rulers lost control of the city to the two Arab tribes. The [Jewish Encyclopedia](https://en.wikipedia.org/wiki/Jewish_Encyclopedia "Jewish Encyclopedia") states that "by calling in outside assistance and treacherously massacring at a banquet the principal Jews", Banu Aus and Banu Khazraj finally gained the upper hand at Medina.
+> Toward the end of the 5th century, the Jewish rulers lost control of the city to the two Arab tribes. The [Jewish Encyclopedia](https://en.wikipedia.org/wiki/Jewish_Encyclopedia "Jewish Encyclopedia") states that "by calling in outside assistance and treacherously massacring at a banquet the principal Jews", Banu Aus and Banu Khazraj finally gained the upper hand at Medina.
 > 
 > Most modern historians accept the claim of the Muslim sources that after the revolt, the Jewish tribes became clients of the 'Aws and the Khazraj.
 > 
@@ -144,7 +144,7 @@
 		- Non-Muslims take up arms against the enemy of the nation and share the cost of war. There is to be no treachery between the two.
 		- Non-Muslims are not obliged to take part in the Muslims' religious wars.
 - The Three Jewish tribes in Medina were: Banu Qurayza, Banu Qaynuqa and Banu Al-Nadir
-- The Terms of the Covenant and their Breach of It (Tafsir of Quran 2:84-2:86) [citing the Quran is ok here, since the general argument is that Quran incites violence]
+- The Terms of the Covenant and their Breach of It (Tafseer ibn Katheer on Qur'an 2:84-2:86) [citing the Quran is ok here, since the general argument is that Quran incites violence]
 	- Allah criticized the Jews who lived in Al-Madinah (Medina) at the time.
 	- They used to suffer, because of the armed conflicts between the tribes Aws and Khazraj
 	- Banu Qaynuqa and Banu Al-Nadir were allies of the Khazraj
@@ -158,7 +158,7 @@
 	- Allah reminded that they ignore the Tawrah when it said you to not kill your members or expel them from their homes, and follow it to implement ransom. By this, they believe one part of the scripture and reject the rest. "You do this all to acquire the life of this world".
 	- For this, the 'noble Ayat' criticized the Jews, and said that they must not be trusted to preserve the Torah or to say the truth about the prophet, his coming, his expulsion, etc.
 	- On the Day of Resurrection, they will be subject to torment because they defied the book they were given.
-- The Terms of the Covenant and their Breach of It (Tafsir of Quran 2:87-2:86)
+- The Terms of the Covenant and their Breach of It (Tafseer ibn Katheer on Qur'an 2:87-2:86)
 	- The Tawrah was revealed to Musa (Moses), but they distorted it's meaning to fulfil their fantasies
 	- So Allah sent Isa (Jesus), and sent miracles to support him, but Jews didn't want to differ from a single word
 	- This way, they killed or rejected all Prophets
@@ -183,16 +183,17 @@
 	- The Muslims commenced a 25-day siege against they Banu Qurayza's fortress. Finally both sides agreed to an arbitration.
 	- The chosen judge was a former ally of Banu Qurayza, Sa'd ibn Muadh, who was now a Muslim. Sa'd was wounded in battle and would soon die. Though his fellow chiefs asked him to spare their former allies, he decided to kill all of them as they violated the social order and failed to honour the agreement to protect the town.
 	- Although Sa'd judged according to his own views, it was consistent with Deuteronomy 20:12-14 (This was not for Jews however, this was against non-Jews)
+		- 
 	- They were all beheaded (700 men)
 	- This wasn't unusual for the normal behaviour in Arabia at the time. The Muslims were at the threat of extinction and wanted to send this as a message to anyone who would try to betray them in the future. It is not sure that both the parties could've behaved in any other way at the time.
 	- Mohammed did not confuse the behaviour of the clans with Judaism
 		- As per the Quran, the problem was not Judaism, but Mohammed's belief that they modified the Torah: _We sent down the Torah, in which there is guidance and light, by which the Prophets who surrendered to God's will provided judgments for the Jewish people. Also, the rabbis and doctors of the Law (did likewise), according to that portion of God's Book with which they were entrusted, and they became witnesses to it as well…. Whoever does not judge by what God has sent down (including the Torah), they are indeed unbelievers. (5:44)_
 # More info
 - The belief is that in 620 AD, Mohammed was invited by the twelve clans of Medina to be a neutral arbitrator for their entire community, because of continuous wars between clans like the "Battle of Bu'ath".
-- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases.
+- They battles proved to them that concepts like an "eye for an eye" doesn't work unless there was one many with authority to judge in such cases. [EDIT: But hey, what about the Sanhedrin?]
 - Usage of the Eye for an Eye concept (law of reciprocal justice)
 	- Use in Babylonian "Code of Hammurabi"
 	- Use in Exodus 21:23-27, Leviticus 24:19-20, Deuteronomy 19:21
-- The ayahs were revealed during prayer sessions, with the direction of prayer changing from facing Jerusalem to the Kaaba in Mecca during one such session, when the ayahs 2:144, 2:149 and 2:150 were revealed.
+- The Ayahs were revealed during prayer sessions, with the direction of prayer changing from facing Jerusalem (referred to as al-Masjid al-Aqsa) to the Kaaba (referred to as al-Masjid al-Haram) in Mecca during one such session, when the Ayahs 2:144, 2:149 and 2:150 were revealed.
 - Other Jewish clans who signed the treaty continued to live in peace long after Medina became the capital of Arabia. Some Jewish people converted to Islam, but most people didn't. Theologically, they couldn't accept Mohammed as their messenger, and waited for a prophet to emerge from their own people.
 - The exiled Banu Nadir and Banu Qaynuqa later pledged loyalty to Mohammed.

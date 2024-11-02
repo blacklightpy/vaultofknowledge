@@ -1,0 +1,4 @@
+- Type 3: Regular grammars
+- Type 2: Context-free grammars
+- Type 1: Context-sensitive grammars
+- Type 0: Recursively enumerable grammars

@@ -1,0 +1,1 @@
+Architecture is the art and technique of designing and building, as distinguished from the skills associated with construction.

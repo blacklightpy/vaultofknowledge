@@ -1,0 +1,1 @@
+Forensic science, also known as criminalistics is the application of science principles and methods to support legal decision making in matters of [[criminal law|criminal]] and [[civil law]].

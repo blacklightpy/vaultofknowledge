@@ -33,7 +33,7 @@ Cool Features: Features a troubleshooter, powered by Blacklight AI
 - [ ] Enable support for GNU C Library? (Some 3rd party software may require GNU C Library to load)
 - [ ] Enable support for systemd? (Some applications have systemd as a hard dependency, so if you don't use it as your background service manager, Blacklight OS will package it as a separate environment)
 #### Proprietary / Legally Grey
-- [ ] Include support for proprietary multimedia codecs? (This includes codecs from MPEG-4 like H.264, H.265 and containers like MP4, AAC, etc.)
+- [ ] Include support for proprietary multimedia codecs? (This includes codecs for ITU-T / MPEG media coding formats like H.264, H.265 and containers like MP4, AAC, etc.)
 	- [ ] Use GStreamer instead of FFmpeg? (GStreamer is a complete framework for media processing, while FFmpeg is a library that handles encoding, decoding and conversion of media)
 ### Interface
 - Choose your desktop environment:

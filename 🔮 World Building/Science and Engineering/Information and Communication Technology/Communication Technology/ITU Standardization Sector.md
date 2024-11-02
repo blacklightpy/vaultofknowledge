@@ -1,4 +1,4 @@
-ITU Standardization Sector (ITU-T) is one of the three sectors of the [[International Telecommunication Union]] (ITU) and is responsible for co-ordinating standards for telecommunications and ICT.
+ITU Telecommunication Standardization Sector (ITU-T) is one of the three sectors of the [[International Telecommunication Union]] (ITU) and is responsible for co-ordinating standards for telecommunications and Information and Communication Technology (ICT).
 
 Examples are:
 - X.509 for cybersecurity

@@ -1,0 +1,1 @@
+An associative algebra $A$ over a [[commutative ring]] (often a [[field]]) $K$ is a [[ring]] $A$ together with a [[ring homomorphism]] 

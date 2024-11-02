@@ -1,0 +1,1 @@
+He was a philosopher. He was heavily influenced by [[Gottfried Wilhelm Leibniz]].

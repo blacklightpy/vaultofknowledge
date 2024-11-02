@@ -1,12 +1,20 @@
 - Quran
-- Only Sahih Bukhari and Sahih Muslim
+- Hadiths
+	- Only Sahih Bukhari and Sahih Muslim
+	- Kutub al-Sittah (The Authentic Six)
 - Tafsirs
 - Fatwas
+	- Islamqa.info
+	- Islamweb.net
+	- Islamqa.org
 - Sharia Books
 
 Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn Majah are considered to be the most authentic.  - http://iswy.co/e4cmq
 
 - The Comprehensive Library (Maktabah Shamilah) - http://shamela.ws
+- [[About Da'if Hadiths]]
+
+- [WHAT] https://sunnah.com/bukhari:1399 ("... to Pay me a She-KID"?)
 # Situations
 - Child Marriage
 	- Aisha's Age
@@ -51,6 +59,7 @@ Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn 
 - 5:32 Whoever saves a life
 - 2:256 Let there be no compulsion in religion, because the true din is clear
 
+- 2:217 Polytheism is worse than killing (actually the same ambiguous verse, but I quoted this from https://sunnahonline.com/library/purification-of-the-soul/253-taking-pride-in-islam, and while "Fitnah" is questionable, the previous and next phrases make it clear that it is talking about disbelief and elimination of religion.)
 
 - 60:10 Stealing Women
 - Shirk is a crime against Allah
@@ -116,6 +125,7 @@ Collections made by Malik, Bukhari, Muslim, Tirmidhi, Abu Dawud, Nasa'i and Ibn 
 14. ˹So˺ fight them and Allah will punish them at your hands, put them to shame, help you overcome them, and soothe the hearts of the believers—
 
 ## Questions
+https://en.alukah.net/Shariah/0/7490/: How Abu Sufiyan joined Islam (threatened to kill)
 
 Treaty of Hudaybiyyah (6 AH) / Tawbah is the second last revelation.
 Time: After Battle of Badr, Uhud (defeat), and Trench.
@@ -123,8 +133,10 @@ Battle of Hubaydiyyah tested their faith.
 
 They wanted to enter Kaaba and perform Tawaf (circumbabulation)
 
-Allies: Bani Kinanah, Bani Khuza'ah and Bani Damrah.
+Allies: Bani Kinanah, Bani Khuza'ah and Bani Damrah. (Tafsir IK 9:7 and Tafsirs on 48:8-10)
 Treaty: Bukhari 2700, 4180-81, 2711-12
+
+https://islam-watch.org/MA_Khan/Challenge-Close-Down-Islam-watch-Muhammad-Not-Meccans-Broke-Hudaybiyah-Treaty-No-Connection-Sword-Verse-9.5.htm
 
 - Treaty of Hudaybiyyah
 	- Hudna (Truce) had a max-limit of 10 years
@@ -138,11 +150,21 @@ Treaty: Bukhari 2700, 4180-81, 2711-12
 			- He said their pride included preventing Muslims from visiting Kaaba, but they only said that for the first year.
 			- Scholars interpret it to mean, treaties do not apply between all Muslim tribes
 		- Bukhari 6621 (Abu Bakr would replace oaths)
-	- Bukhar 3029-30 (War is deceit)
+	- Bukhari 3029-30 (War is deceit)
 	- They didn't attack because they didn't want to start a war
 	- Banu Bakr attacked Banu Khuza'ah (because they were always at war)
+		- According to Tafsir IK 9:7
+		- Backstory: Ibn Hisham, Vol. II, p. 390
+			- https://islam-watch.org/MA_Khan/Challenge-Close-Down-Islam-watch-Muhammad-Not-Meccans-Broke-Hudaybiyah-Treaty-No-Connection-Sword-Verse-9.5.htm (Khuza'ah guys killed first + Full story)
+				- Mohammed revealed 48:1 (Victory)
+			- https://discover-the-truth.com/2016/03/23/the-conquest-of-mecca-makkah/
+			- https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/conquest-makkah
+			- https://a2youth.com/articles/history_and_biographies/the_conquest_of_makkah/6
+			- https://islamichistory.org/the-opening-of-makkah/
 	- This triggered the conquest of Mecca (8 AH)
 		- Muslim sources say he sent a letter to Quraysh first
+	- 2.199, etc. (so 2.191 too) was revealed during this time
+		- Also see Tafsir IK on 9:5
 	- Abu Sufiyan surrendered and became a Muslim
 
 - Mohammed saw a dream of doing Hajj (Quran 48:27)

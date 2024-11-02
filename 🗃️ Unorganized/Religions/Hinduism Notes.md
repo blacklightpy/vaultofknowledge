@@ -2,23 +2,26 @@ In Culture:
 - [[Hindu Culture]]
 
 In Religion:
-
-## Temp rough (delete this section)
-- Hinduism
-	- Buddhism
-		- Sects
-			- Subsects (iterate)
-	- Jainism
-		- Sects
 ## Rough
 - [[Hinduism Index]]
 - [[Wikipedia Hinduism Organization]]
 - [[Hindu Text Excerpts]]
 - [[Hinduism Rough Notes]]
+
+> ![[Water Splash Sample Image.jpg]]
+> The analogy for the relationship between Brahmaan and Aatmaan is that of a field of water, and the ripples flowing through it. Brahmaan is the water body, and Aatmaan is the energy that forms ripples.
 ## Component Notes
-- [[Vedas]]
-	- [[Vedangas]]
-	- [[Vedic Shakhas]]
+- [[Vedas]] (Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
+	- Sections
+		- Samhithas (Put Together / Collections)
+		- Brahmanas (Universal / Spiritual Insights)
+		- Aranyakas (Works from the Forest / Sainthood)
+		- [[Upanishads]] (Close Sitting Knowledge / Basic Understanding)
+		- [[Upaasana]] (Worship) [Mostly embedded in the others]
+	- Parishistas (Supplements)
+	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
+	- [[Vedangas]] (Philosophical Disciplines of Vedas)
+- Aagamas (Tradition / What has come down)
 - [[Sutras]]
 	- [[Dharma Sutras]]
 	- [[Dharma Shastra]]
@@ -45,3 +48,4 @@ In Religion:
 ## Evils
 - [[Evils in Hinduism 1 - Why is Intercaste Marriage Bad]]
 - [[Evils in Hinduism 2 - Marrying Foreigners is Prohibited]]
+- [[Evils in Hinduism 3 - Untouchability]]

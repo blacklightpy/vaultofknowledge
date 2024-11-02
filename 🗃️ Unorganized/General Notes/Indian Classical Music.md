@@ -1,0 +1,9 @@
+# Concepts
+- Shruti
+- Svara
+- Raaga
+- Taala
+- Rasa
+- Alankaara
+- Sangeeta
+- Vaadya

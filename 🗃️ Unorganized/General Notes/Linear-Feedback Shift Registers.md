@@ -1,0 +1,1 @@
+They are a type of [[Shift Registers]].

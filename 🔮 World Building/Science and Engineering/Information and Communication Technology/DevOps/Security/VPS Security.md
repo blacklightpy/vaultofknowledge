@@ -36,4 +36,4 @@ Extra steps:
 Tags:
 
 [[System Security]]
-[[VPS]]
+[[Virtual Private Server|VPS]]

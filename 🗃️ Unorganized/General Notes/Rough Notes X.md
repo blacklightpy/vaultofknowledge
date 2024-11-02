@@ -1,3 +1,18 @@
+- Muslims say that Islam is not the "religion of peace", when questioned about offensive Jihad: https://old.reddit.com/r/islam/comments/1dsr0wz/is_islam_the_religion_of_peace/
+	- Romans were attacked because they (one of their protectorates) killed an emissary. (see my Quora comments)
+		- Sources
+			- 1. https://muslimgirl.com/battle-of-muta/ (Stupid: Treaty of al-Hudaibiyya was not in this context)
+			- 2. https://www.islamicfinder.org/knowledge/islam-and-sunnah/battle-of-mutah-ghazwah-mutah/ (Killed many Byzantines, but didn't avenge al-Harith)
+				- Allah knows how many unbelievers Khalid (R.A.) wounded and killed while breaking nine swords. (Referring to opponents as unbelievers rather than "aggressors")
+			- 3. https://www.al-islam.org/restatement-history-islam-and-muslims-sayyid-ali-asghar-razwy/battle-mootah
+			- 4. https://www.alsiraj.net/English/sira/html/page57.html
+			- 5. https://yaqeeninstitute.org/watch/series/the-martyrs-of-mutah-up-close-full-documentary
+			- 6. https://discover-the-truth.com/2016/03/21/the-battle-of-mutah-mutah/
+			- 7. https://www.quora.com/Why-did-the-Ghassanids-kill-the-Muslim-emissary-pre-Battle-of-Mutah
+			- 8. https://islam.stackexchange.com/questions/41538/what-was-the-justification-for-attacking-or-fighting-the-persians-in-iraq-by-th
+			- 9. https://old.reddit.com/r/history/comments/amcv95/how_exactly_did_the_muslims_defeat_the_roman/
+	- Jihad
+		- [1](https://islamqa.info/en/34647),  [2](https://islamqa.info/en/27180) (IslamQA.Info)
 
 - Mohammed, the role model of Muslims married a 6 year old girl (from Hadiths)
 - He consummated the marriage when she was 9 (from Hadiths)
@@ -37,7 +52,7 @@
 - The marriages of captive women are annulled even if their polytheist husbands are alive
 
 - Slave women cannot be profited from by prostitution, but they can be shared among family members for sex
-- Scholarly opinion based on how the hadith only denies profitting from slaves, so sharing her with family members is allowed
+- Scholarly opinion based on how the hadith only denies profiting from slaves, so sharing her with family members is allowed
 
 - The slave woman who is the wife of slave can be taken by the husband (I think from the 4 pages I opened)
 
@@ -52,11 +67,13 @@
 - Mohammed drank water from a dirty well and said water is pure
 
 - A slave woman should not dress like a free woman (Muwatta Malik) (also atheism-vs-islam page)
+	- https://atheism-vs-islam.com/index.php?view=article&id=46:part-2-allah-muhammad-forced-the-poor-slave-women-to-move-with-naked-breasts-in-the-public&catid=16
+		- From https://old.reddit.com/r/exmuslim/comments/x0zajs/i_need_all_the_scriptures_that_talk_about/
 - Slave women have no concept of Awrah
 
-See 6:153 again (forgot)
-4:25
-5:5
+- See 6:153 again (forgot)
+- 4:25
+- 5:5
 
 - Strike those who shave the middle of their heads (monks)
 
@@ -64,7 +81,11 @@ See 6:153 again (forgot)
 - Slave women do not have the right to guard their private parts, because that verse is for men
 - Women cannot have relations with her slaves, because that verse was for men
 
-- Killing anyone except those who spread mischief (which can include disbelief) is as if one's killed all of humanity (from Quran)
+- Killing anyone ==except those who spread mischief (which can include disbelief)== is as if one's killed all of humanity (from Quran)
+	- This was for the Children of Israel
+	- And because they did not accept Mohammed, he said in the next verse that they had to be killed
+	- Example Source (Hadith): https://x.com/TheHarrisSultan/status/1604099309557145602
+		- Counter (Fiqh): https://x.com/jzineden23/status/1604165267315372032
 
 - Children of slaves will be slaves of the master
 - One can sell their slaves, so they won't be freed even if the master dies
@@ -169,6 +190,17 @@ See 6:153 again (forgot)
 	  **Fatawa Islamiyah** might also be a good resource. I haven't gone through those in a long time but try vols. 6 & 8.
 
 # Terms
+- Iman (Faith)
+- Taqwa (Piety)
+
+- 'Aql (Intellect)
+- 'Ilm (Science)
+- Uloom (Sciences)
+- Kalam (Word)
+- Mutakallim (Scholar of Theology)
+- R'ay (Sound Reasoning)
+- Qiyas (Analogical Deduction)
+- Falsafa (Philosophy)
 ## About Sects
 - Ahl al-Bayt (People of the House) / Shi'a / Raafidis (Rejectors)
 - Ahl al-Sunnah wa'l-Jamaa'ah (People of Tradition and The Majority) / Sunni
@@ -218,20 +250,39 @@ See 6:153 again (forgot)
 - Maslaaha (Best Interest of Muslims / Maintain Upper Hand) \[Q 3:139, Q 47:35\]
 
 - Jaria / Sabaya (Slave Women)
-
+## About Hadiths
+- https://talibnotes.com/hadith-terminology-summary/
+- https://en.wikipedia.org/wiki/Hadith_terminology#Terminology_relating_to_the_number_of_narrators_in_an_isnad (See outline for Sunni vs Shia vs Ibadi (and Ahmadi) hadeeths)
+### People
+- Muhaddith (Hadith collector)
+- Raawee (Hadith narrator)
+### Sections
+- Sanad / Isnad (Chain of Transmission)
+- Taraf (Introductory Text for Context)
+- Matn (Text of Hadith)
+### Type
+- Musnad (Hadiths organized by the collector)
+- Musannaf (Hadiths organized according to the Companion who narrated it)
+### Grading of Narrators
+- 
+### Grading of Hadith (Isnad and Matn)
+- Sahih / Saheeh (Strong)
+- Hasan (Good)
+- Da'if / Da'eef (Weak)
+- Mawdu (Fabricated)
 ## Parallels
 
 | Category                        | Islam                                                                    | Hindu Beliefs                                                                                                                                                                                                           | Judaism                                                                                     | Christianity                                                                           |
 | ------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| Holy Texts                      | Quran                                                                    | Srutis (Vedas (Nigamas), Tantras (Agamas))                                                                                                                                                                              | Torah, Talmud                                                                               | New Testament                                                                          |
-| Supplementary Holy Texts        | Sunnah (Hadiths)                                                         | Smritis (Puranas, Ithihasas, Veda Sutras (Shrauta Sutras, Griha Sutras, Sulba Sutras, Dharma Sutras), Upavedas)                                                                                                         | Nevi'im, Ketuvim                                                                            | Old Testament (Torah, Nevi'im, Ketuvim)                                                |
+| Holy Texts                      | Qur'an (Hafs, Warsh, etc.)                                               | Srutis (Vedas (Nigamas), Tantras (Aagamas)), Bhagavat Geeta                                                                                                                                                             | Torah, Talmud                                                                               | New Testament                                                                          |
+| Supplementary Holy Texts        | Sunnah (Hadiths, Seerah)                                                 | Smritis (Puraanas, Ithihaasas, Veda Sutras (Shrauta Sutras, Griha Sutras, Shulba Sutras, Dharma Sutras), Upa Vedas)                                                                                                     | Nevi'im, Ketuvim                                                                            | Old Testament (Torah, Nevi'im, Ketuvim)                                                |
 | Other Important Scholarly Texts | History Books (The History of Al-Tabari), Biographies (Life of Mohammed) | Nothing much (History isn't really relevant)                                                                                                                                                                            | In Sefaria Collection                                                                       | -                                                                                      |
-| Commentaries                    | Tafsirun                                                                 | Bhasyas                                                                                                                                                                                                                 | Mefareshim                                                                                  | -                                                                                      |
-| Commentators                    | Mufassirun                                                               | Bhasyakaras                                                                                                                                                                                                             | Parshanim                                                                                   | -                                                                                      |
+| Commentaries                    | Tafaseer                                                                 | Bhaashyas                                                                                                                                                                                                               | Mefareshim                                                                                  | -                                                                                      |
+| Commentators                    | Mufaassirun                                                              | Bhaashyakaaras                                                                                                                                                                                                          | Parshanim                                                                                   | -                                                                                      |
 | Law                             | Shari'ah                                                                 | Dharma                                                                                                                                                                                                                  | Halakha                                                                                     | -                                                                                      |
-| Law Books                       | Reliance of The Traveller, Heavenly Ornaments                            | Manu Smriti, Vishnu Smriti, other Dharma Shastras (explaning Dharma Sutras)                                                                                                                                             | Shulchan Arukh, The Tur, Shulchan Arukh Harav, Mishneh Torah, Works of Maimonaides (Rambam) | -                                                                                      |
+| Law Books                       | Reliance of The Traveller, Heavenly Ornaments                            | Manu Smriti, Vishnu Smriti, other Dharma Shastras (explains Dharma Sutras)                                                                                                                                              | Shulchan Arukh, The Tur, Shulchan Arukh Harav, Mishneh Torah, Works of Maimonaides (Rambam) | -                                                                                      |
 | Schools of Belief               | Aqeedah                                                                  | Darshana                                                                                                                                                                                                                | Akedah / Binding of Isaac (only one)                                                        | Christ (only one)                                                                      |
-| Denomination                    | Sects (Sunni, Shi'a, Ibadi)                                              | Sampradaya                                                                                                                                                                                                              | Sects (Karaite, Reform, Conservative, Orthodox, Chasidic, Yeshivish)                        | Sects (Catholic, Protestant, Eastern Orthodox, Latter Day Saints, Jehovah's Witnesses) |
+| Denomination                    | Sects (Sunni, Shi'a, Ibadi)                                              | Sampradaaya                                                                                                                                                                                                             | Sects (Karaite, Reform, Conservative, Orthodox, Chasidic, Yeshivish)                        | Sects (Catholic, Protestant, Eastern Orthodox, Latter Day Saints, Jehovah's Witnesses) |
 | Schools of Jurisprudence        | Madhhabs                                                                 | -                                                                                                                                                                                                                       | Mishnah (only one)                                                                          | -                                                                                      |
 | Jury                            | Sultans and Imams                                                        | Kings and Ministers                                                                                                                                                                                                     | Kings and Sanhedrin                                                                         | Kings and Ministers                                                                    |
 | Prophets                        | Nabis                                                                    | -                                                                                                                                                                                                                       | Nevis                                                                                       | Prophets                                                                               |

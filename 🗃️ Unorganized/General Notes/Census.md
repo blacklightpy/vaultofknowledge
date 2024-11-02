@@ -1,0 +1,1 @@
+It is the procedure of systematically acquiring, recording and calculating population information about the members of a given population.

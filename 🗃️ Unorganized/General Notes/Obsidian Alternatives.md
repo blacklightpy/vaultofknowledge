@@ -1,0 +1,8 @@
+- QOwnNotes
+- Iotas
+	- Stores data in SQLite DB
+- Notes (get-notes)
+	- May not have images support
+- [NONFREE] Plume
+	- Based on Notes
+	- Image support is paid

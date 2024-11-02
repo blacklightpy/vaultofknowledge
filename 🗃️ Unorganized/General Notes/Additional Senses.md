@@ -1,0 +1,6 @@
+- Vestibular
+	- Balancing (Gyroscope)
+- Proprioceptive
+	- Spatial Location (Accelerometer)
+- Interoception (States and Emotions)
+	- Hunger, Thirst, Bathroom Needs, Heart Rate, Breathing Rate, Temperature, and Emotional Regulation

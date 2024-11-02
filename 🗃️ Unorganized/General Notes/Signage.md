@@ -1,0 +1,1 @@
+Signage is the design or use of [[sign|signs]] and symbols to communicate a message. Signage also means signs collectively or being considered as a group.

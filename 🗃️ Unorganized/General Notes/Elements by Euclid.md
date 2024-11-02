@@ -1,0 +1,3 @@
+The Elements (Greek: Στοιχεῖα Stoikheîa) is a mathematical treatise consisting of 13 books attributed to the ancient Greek mathematician Euclid.
+
+It is a collection of definitions, [[axioms|postulates]], [[proposition|propositions]] (theorems and constructions), and mathematical proofs of the propositions. The books cover plane and solid Euclidean geometry, elementary number theory, and incommensurable lines.

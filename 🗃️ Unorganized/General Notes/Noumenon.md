@@ -1,0 +1,1 @@
+It is knowledge posited as an object that exists independent of human knowledge.

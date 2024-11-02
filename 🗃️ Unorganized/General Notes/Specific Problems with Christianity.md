@@ -245,7 +245,7 @@ The verses harmful to non-Jews are:
 	- Mathew 23:33-36 (Jesus said Jews killed whoever he sent, from Abel to Zacheriah son of Berechiah)
 	- 2 Chronicles 24:20-21 (Zacheriah, son of Jehoiada was killed)
 	- 2 Kings 20-21
-## ## Nature of Christians outside the Bible
+## Nature of Christians outside the Bible
 - How Christians are in practice
 https://www.gotquestions.org/father-of-lies.html
 > Some of his more common lies are “there is no God,” “God doesn’t care about you,” “the Bible cannot be trusted,” and “your good works will get you into heaven.”
@@ -255,7 +255,6 @@ They justify that if God says so, killing people is moral.
 
 They say that death is everywhere and humans cannot be united.
 This is wishful thinking.
-
 ## Evils of Christianity
 - Salem Witch Trials (massacre of educated women)
 - Antisemitic Pogroms (massacre of Jews)
@@ -263,25 +262,41 @@ This is wishful thinking.
 - Persecution of LGBTQIA+ (dangerous to mental health, violation of humanity)
 - Terrorist attacks (minimal in the modern world, but radicals exist)
 # Quran Verses
+
+> [!NOTE] Fix Citation Format:
+> \[Surah X (Al-Surah Title) : Ayah N\]: "Verse Contents **Bold Contents** Rest of It"
+
 - Quran
 	- Has some verses saying Allah will judge among Jews, Christians and Polytheists
 	- Also some verses saying all Jews and Christians who worship Allah will be in heaven
-		- 2:62 (But Jews cannot be, because they will all have to be killed before the Hour)
+		- [Surah 2 (al-Baqarah) : Ayah 62] (But Jews cannot be, because they will all have to be killed before the Hour)
 	- Against Jews and Polytheists, Supporting Christians
-		- 5:82
+		- [Surah 2 (al-Maidah) : Ayah 82] :-
 	- Against Jews and Christians
-		- 2:89 (The Jews deny everything that came afterward, may Allah condemn them)
-		- 2:96 (The Jews want to live forever, they are greedy)
-		- 2:102 (The Jews follow the magic of Solomon's period rather than Allah's word)
-		- 2:111-114 (Their proofs are invalid)
-		- 2:120 (Those who follow Jews or Christians would be misled)
-		- 2:125 (We won't follow you, we follow Abraham's faith, who wasn't a polytheist)
-		- 2:140 (Abraham's descendants were not Jews or Christians)
-		- 2:142, 144 (Proceeds to change prayer direction from Jerusalem to Mecca)
-		- 2:145-146 (They won't take your prayer direction, and the real ones recognize Mohammed as Prophet, while the others knowingly hide the truth)
-		- 5:14 (The Christians denied portions of the covenant)
-		- 5:18 (Jews and Christians claim to be the most beloved, but no, they are only humans *proceeds to do the same thing*)
-		- 5:51 (Do not take Jews or Christians as allies)
+		- [Surah 2 (al-Baqarah) : Ayah 89] :-
+			- The Jews deny everything that came afterward, may Allah condemn them
+		- [Surah 2 (al-Baqarah) : Ayah 96] :-
+			- The Jews want to live forever, they are greedy
+		- [Surah 2 (al-Baqarah) : Ayah 102] :-
+			- The Jews follow the magic of Solomon's period rather than Allah's word
+		- [Surah 2 (al-Baqarah) : Ayat 111-114]:
+			- Their proofs are invalid
+		- [Surah 2 (al-Baqarah) : Ayah 120] :-
+			- Those who follow Jews or Christians would be misled
+		- [Surah 2 (al-Baqarah) : Ayah 125] :-
+			- We won't follow you, we follow Abraham's faith, who wasn't a polytheist
+		- [Surah 2 (al-Baqarah) : Ayah 140] :-
+			- Abraham's descendants were not Jews or Christians
+		- [Surah 2 (al-Baqarah) : Ayat 142, 144] :-
+			- Proceeds to change prayer direction from Jerusalem to Mecca
+		- [Surah 2 (al-Baqarah) : Ayat 145-146] :-
+			- They won't take your prayer direction, and the real ones recognize Mohammed as Prophet, while the others knowingly hide the truth
+		- [Surah 2 (al-Maidah) : Ayah 14] :-
+			- The Christians denied portions of the covenant
+		- [Surah 2 (al-Maidah) : Ayah 18] :-
+			- Jews and Christians claim to be the most beloved, but no, they are only humans *proceeds to do the same thing*
+		- [Surah 2 (al-Maidah) : Ayah 51] :-
+			- Do not take Jews or Christians as allies
 	- Against Polytheists
 		- 6:23 (Saying that they lie about their beliefs on Judgement Day)
 		- 9:5 (Kill all the polytheists "who violate their treaties" (in sidenotes))
@@ -345,10 +360,15 @@ This is wishful thinking.
 		- Don't marry polytheist women, believing slaves are better
 			- Although slaves by definition would be originally non-Muslims
 		- Many Tafsirs say that one can force slaves to do nikah, or marry them off without consent
+		- All Verses on "Right Hand Possesses"
+			- 33:50 (Mohammed can have sex with his Wives, Slaves, Cousins or Believing Women Who Ask to be his wives (without Mehr))
+			- Quran 33.52, Quran 4.3, Quran 30.28, 16:71, 23:6
+			- Quran 23:5-6, Quran 70:27-30, Quran 4:24
 	- Treatment of Slaves
 		- If a slave woman is married by the owner, the children will be free
 		- If a slave woman is married to another man, the children will be slaves of the owner
 		- By marrying slaves off, the owner gets more slaves, and is lifted of the burden of accommodating them.
+		- 16:71 (Do not give what Allah has gifted you to your slaves to be equal with them)
 	- Polygamy is good for men, bad for women
 	- Some Muslims think it's okay to lie during Dawah (invitation/preaching)
 	- God split water and heavens
@@ -358,46 +378,46 @@ This is wishful thinking.
 			- God made every living thing (in Earth) out of water (21:30)
 			- God make Jinn from smokeless flame (55:15)
 				- Muslim claim: Jinn was made before earth
-# Hadeeths
-## Sahih Hadiths
-- Hadeeths
+# Ahadeeth
+## Saheeh Ahadeeth
+- Ahadeeth
 	- Incitement against Jews (and Turks)
-		- Sahih al-Bukhari
-		- Sahih Muslim
+		- Saheeh al-Bukhari
+		- Saheeh Muslim
 	- Expulsion of Jews and Christians
-		- Sahih Muslim
+		- Saheeh Muslim
 			- **1767a (The Book of _Jihad_ and Expeditions, Hadeeth 75):** I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim.
 	- Fighting Disbelievers
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **392 (Prayers (Salat), Hadeeth 44):** Allah's Messenger (ﷺ) said, "I have been ordered to fight the people till they say: 'None has the right to be worshipped but Allah.' And if they say so, pray like our prayers, face our Qibla and slaughter as we slaughter, then their blood and property will be sacred to us and we will not interfere with them except legally and their reckoning will be with Allah."
 	- Demonizing Pictures
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **5957 (Dress, Hadeeth 173):** I purchased a cushion with pictures on it. The Prophet (came and) stood at the door but did not enter. I said (to him), "I repent to Allah for what (the guilt) I have done." He said, "What is this cushion?" I said, "It is for you to sit on and recline on." He said, "The makers of these pictures will be punished on the Day of Resurrection and it will be said to them, 'Make alive what you have created.' Moreover, the angels do not enter a house where there are pictures.'"
 	- Washing Stains
 		- https://old.reddit.com/r/exmuslim/comments/162n43m/what_are_the_worst_disturbing_hadiths_or_facts/jxzv846/ (11 Hadeeths - from Bukhari and Muslim)
 		- (If it had died, I'd have scraped it with my nails) https://sunnah.com/muslim:290
 	- Silence means Yes
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **6946 ((Statements made under) Coercion, Hadeeth 7):** I asked the Prophet, "O Allah's Messenger (ﷺ)! Should the women be asked for their consent to their marriage?" He said, "Yes." I said, "A virgin, if asked, feels shy and keeps quiet." He said, "Her silence means her consent."
 	- Killing LGB
-		- Sunan Abi Dawud (Hasan Sahih)
+		- Sunan Abi Dawud (Hasan Saheeh)
 			- **4462 (Prescribed Punishments (Kitab Al-Hudud), Hadeeth 112):** Prophet (ﷺ) said: If you find anyone doing as Lot's people did, kill the one who does it, and the one to whom it is done.
 	- Hiding the sins of Muslims
-		- Sunan Ibn Majah (Sahih)
+		- Sunan Ibn Majah (Saheeh)
 			- **225 (The Book of the Sunnah, Hadeeth 225):** The Messenger of Allah said: Whoever relieves a Muslim of some worldly distress, Allah will relieve him of some of the distress of the Day of Resurrection, and whoever conceals (the faults of) a Muslim, Allah will conceal him (his faults) in this world and the Day of Resurrection.
-	- Jihad against nonbelievers.
-		- Sahih al-Bukhari
+	- Jihad against nonbelievers
+		- Saheeh al-Bukhari
 			- **25 (Belief, Hadeeth 18):** Allah's Messenger (ﷺ) said: "I have been ordered (by Allah) to fight against the people until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and offer the prayers perfectly and give the obligatory charity, so if they perform that, then they save their lives and property from me except for Islamic laws and then their reckoning (accounts) will be done by Allah."
 			- **3015 (Jihad, Hadeeth 224):** During some of the Ghazawat of Allah's Messenger (ﷺ) a woman was found killed, so Allah's Messenger (ﷺ) forbade the killing of women and children.
 				- Note how it doesn't say kill only those who fight, so all adult males are to be killed (ones with pubic hair).
 	- Killing all adult males who had pubic hair after battle
-		- Jami at-Tirmidhi (Sahih)
-			- **1584 (The Book on Military Expeditions, Hadeeth 41):** "We were presented to the Messenger of Allah (ﷺ) on the day of (the battle of) Quraizah. Whoever had pubic hair was killed and whoever did not was left to his way. I was of those who did not have pubic hair so I was left to my way." Abu 'Eisa said: This Hadith is Hasan Sahih. This is acted upon according to some of the people of knowledge. They consider pubic hair an indication of the age of responsibility, if it is not known whether he has had a wet dream, or his age. This is the view of Ahmad and Ishaq.
+		- Jami at-Tirmidhi (Saheeh)
+			- **1584 (The Book on Military Expeditions, Hadeeth 41):** "We were presented to the Messenger of Allah (ﷺ) on the day of (the battle of) Quraizah. Whoever had pubic hair was killed and whoever did not was left to his way. I was of those who did not have pubic hair so I was left to my way." Abu 'Eisa said: This Hadith is Hasan Saheeh. This is acted upon according to some of the people of knowledge. They consider pubic hair an indication of the age of responsibility, if it is not known whether he has had a wet dream, or his age. This is the view of Ahmad and Ishaq.
 	- Revelation that sex slaves are lawful, when Aisha protested
-		- Sunan an-Nasa'i (Sahih)
+		- Sunan an-Nasa'i (Saheeh)
 			- **3959 (The Book of the Kind Treatment of Women, Hadeeth 21):** It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 	- Censorship of Anal Sex Hadith
-		- Sahih al-Bukhari
+		- Saheeh al-Bukhari
 			- **4526 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet), Hadeeth 50):** Ibn Umar said, "It means one should approach his wife in .."
 		- Against
 			- Mishkat al-Masabih
@@ -408,21 +428,25 @@ This is wishful thinking.
 				- **3195 (Book 13, Hadith 113)**
 			- Sunan Abi Dawud
 				- **2162 (Book 12, Hadith 117)**
-				- **3904 (Book 30, Hadith 1)** (Sahih, also mentions Musa)
+				- **3904 (Book 30, Hadith 1)** (Saheeh, also mentions Musa)
 			- Jami at-Tirmidhi
 				- **2980 (Book 47, Hadith 32)** (Hasan)
 				- **135 (Book 1, Hadith 135)** (Hasan)
 
 - Eyes are the leather strap of the anus
-	- Sunan Abi Dawud 203 In-book reference	 : Book 1, Hadith 203 (Hasan)
-	- Mishkat al-Masabih 315 In-book reference	 : Book 3, Hadith 32
+	- Sunan Abi Dawud 203
+		- In-book reference: Book 1, Hadith 203 (Hasan)
+	- Mishkat al-Masabih 315
+		- In-book reference: Book 3, Hadith 32
 	- Many more hadiths, some Da'if, some hasan, some ungraded
 
 - Deny those who follow Musa
-	- Sunan Abi Dawud 3904 In-book reference	 : Book 30, Hadith 1 (Sahih, also mentions Musa)
+	- Sunan Abi Dawud 3904 (Saheeh, also mentions Musa)
+		- In-book reference: Book 30, Hadith 1
 
 - Coitus Interruptus (with regards to selling slaves, and after taking them captive)
-	- Sahih Muslim 1438a In-book reference	 : Book 16, Hadith 146
+	- Saheeh Muslim 1438a
+	- In-book reference: Book 16, Hadith 146
 
 ## Weak Hadiths
 
@@ -436,10 +460,15 @@ This is wishful thinking.
 - Islam
 	- Primary Sources
 		- Quran
-		- Hadith
-			- Types, Sections, Grading, etc.: https://www.islam.org.uk/hadith/types-of-hadith/
+		- Tafsirs / Tafsiroon (Commentaries on the Quran)
+		- Sunnah (Tradition)
+			- Hadeeth / Ahadeeth (Reports of Sayings and Actions of Mohammed and his Companions)
+				- Types, Sections, Grading, etc.: https://www.islam.org.uk/hadith/types-of-hadith/
+				- Madrasa Curriculum: https://islamclass.wordpress.com/2012/05/19/ulum-al-hadith-curriculum/
+			- Sharhs / Shurooh (Commentaries on the Ahadeeth)
+			- Sirahs (Biography of Mohammed)
 	- Secondary Sources
-		- Ijma As Sahabah (Consensus)
+		- Ijma As Sahabah (Consensus of the Companions)
 		- Qiyas (Analogical Reasoning)
 	- Modern Additions
 		- Maslahah Mursalah (Public Interest)
@@ -450,6 +479,8 @@ This is wishful thinking.
 - Urf (Customs)
 	- Sadd al-Dhara’i (Blocking the Means)
 
+Only a Mujtahid can perform Ijtihad.
+## Secondary Sources in Detail
 - Fatwas of the Companions
 - Fatwas of the Followers (Tabi'un)
 - Consensus (Ijma')
@@ -463,7 +494,7 @@ This is wishful thinking.
 
 - Tafsirs (Commentary) (Based on the Quran, Hadiths, Fatwas of the Companions and the Fatwas of those who've known them)
 	- Tafsir ibn Kathir (IK) (~1370)
-		- **By:** Ismail ibn Umar Ibn Kathir 
+		- **By:** Isma'eel ibn Umar Ibn Kathir 
 	- Tafsir al-Qurtubi (Q) (~1273)
 		- **Also called:** Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions)
 		- **By:** Muhammad ibn Ahmad Qurtubi
@@ -482,16 +513,106 @@ This is wishful thinking.
 		- Tabrisi (Ts)
 		- Zamashshari (Z)
 
-Tafsirs are written by Mufassir (plural: Mufassirun)
+Tafsirs are written by Mufassir (plural: Mufassiroon)
 
-- Madhhab (Schools)
+- Madhhabs / Madhhahib (Schools of Jursiprudence)
 	- Sunni
-		- Shafi
-		- Maliki
-		- Hanafi
-		- Hanbali
-	- Shia
-		- Jafar
+		- Active
+			- Shafi'i (based on Imam **Shafi'i**)
+			- Maliki (based on Imam **Malik**)
+			- Hanafi (based on Imam Abu **Hanifa**)
+			- Hanbali (based on Imam Ahmed ibn **Hanbal**)
+		- Other
+			- Zahiri
+			- Awza'i
+			- Thawri
+			- Laythi
+			- Jariri
+	- Shi'a
+		- Popular
+			- Ithna Ashari (Jafari Madhhab)
+			- Isma'eeli
+				- Druze is a branch off (non Muslim)
+				- Nizari
+					- Assassins
+				- Taiyabi
+			- Zaydi
+		- Other
+	- Muhakkima (People who say Judgement is of God) / al-Harurriya (Those who withdrew and Harur) (Rejectors of Arbitration by Ali in the Battle of Siffin) (Also derogatorily called Saba'iyya, or followers of ʿAbdallah ibn Sabaaʾ al-Himyaree)
+		- Khwariji (Secessionists)
+			- Azariqa
+		- Ibadi / Ahl al-Haqq wa'l Istiqamah (People of Truth and Integrity), by Imam Abdallah ibn **Ibad**
+			- Early subsects
+				- al-Harithiyya (broke from Abu 'Ubayda by accepting the Mu'tazili position)
+				- 'Umayriyya (followers of 'Isa ibn 'Umayr, in the first half of the 2nd (AH) / 8th (CE) century)
+				- Husayniyya (followers of Ahmad ibn al-Husayn, in the early 3rd (AH) / 9th (CE) century)
+					- Merged with mainstream Ibadism in the 7th (AH) / 13th (CE) century through the influence of Abu Yahya Zaakariyya ibn Ibrahim al-Baruni
+			- Wahbi, based on Abd Allah ibn Wahb al-Rasibi's teachings, is seen as the purest form of Islam)
+				- Nukkar (Deniers) (The denied second Rustamid Imam 'Abd al-Wahhab ibn 'Abd al-Rahman), based on Abu Yazid al-Nukkari's teachings
+			- Azzabas (a Maddhab In North Africa, named after the region of Azzaba in Algeria)
+			- Maddhabs
+				- Abu Jabir Muhammad ibn Ja'far al-Izkawi wrote the Jami' ibn Ja'far (The Compendium of ibn Ja'far), or just al-Jami' (The Compendium) in 3rd (AH) / 9th (CE) century.
+			- History
+				- **The Split at Nahrawan**
+					- The Kharijites formed by leaving 'Ali.
+					- 'Abdallah ibn Wahb was chosen as the first Kharijite Imam.
+						- Wahbi is seen as the purest Aqida of Islaam by Ibadis.
+						- See the book "Al-'Aqida 'l-Wahbiyya" by Nasir ibn Salim ibn 'Udayyam al-Rawahi, a great poet also known as Abu Muslim, who wrote a poem in praise of the courage and faith of the thousands of Kharijite soldiers, including ibn Wahb, who met their death in the battle against 'Ali at al-Nahrawan.
+					- He was killed at the battle of al-Nahrawan by Ali on 9 Shafar, 38 AH / 17 July, 658 CE.
+					- Not all Khawarijis followed 'Abdallah ibn Wahb at Nahrawan.
+				- **History of Khawarijis**
+					- The Khawarijis were divided into militants (Shurat) and quietists (Qa'ada).
+					- Someone assassinated 'Ali, and Mu'awiya, and members of his clan, Banu Umayya formed the Umayyad Khilafat, with its capital at Damascus, who ruled until they were overthrown by the 'Abbasids who made Bhagdad their capital and ruled from 132 AH / 750 CE to 656 AH / 1258 CE when the Mongol conquest happened.
+					- Abu Bilal Mirdas ibn Udayya al-Tamimi was a a quietist Kharijite leader from Basra in southern Iraq.
+					- He was the brother of one of the instigators of the Kharijite secession and a veteran of the massacre at Nahrawan, who disagreed with the violent tactics of the Khawarij, which included acceptance of the principle of Isti'rad (Religious Assassination).
+					- Thus, Basra became a center of moderate Kharijism.
+					- Abu Bilal was seen as a precursor of Ibadiyya.
+				- **Split of the Ibadis**
+					- After the death of second Umayyad Khalifa Yazid I, son of Mu'awiya in 64 AH / 683 CE, violent Khawarij rebellions formed.
+					- The followers of Nafi' ibn al-Azraq, or the Azariqa attacked Basra, and the Omani Azd tribe of Basra attacked them and killed Nafi
+					- Later, the Ummayad Khalifa 'Abd al-Malik ibn Marwan was able to take control over all provinces of the Islamic empire.
+					- The most prominent quietist position was held by 'Abdallah ibn Ibad, of whom very little is known.
+					- It's based on his name that the Azariqas were contrasted with, as Ibadis.
+				- "Abu 'l-Sha'tha'" Jabir ibn Zayd, an associate of Mohammed's cousin 'Abdallah ibn al-'Abbas is seen as the true organizer of the Ibadis, and the successor of 'Abdallah ibn Ibad.
+				- Jabir had positive relations with Ummayad governor of Iraq, al-Hajjaj ibn Yusuf, who supported moderate Khawirijis as a bulwark against the growth of Kharijite extremism.
+				- When 'Abd al-Malik ibn Marwan died in 86 AH/705 CE and was succeeded by the pious 'Umbar ibn 'Abd al-'Aziz, many moderate Khawarij hoped for the realizations of a righteous Islamic imamate.
+				- But many new quietist leaders wanted to take a more activist stance towards Jihaad.
+				- Jabir himself felt compelled to take action, and instigated the assassination of one of al-Hajjaj's spies.
+				- This led to a complete rupture in the relatively friendly relations the moderate Khawarij had enjoyed with the Umayyad regime.
+				- Al-Hajjaj imprisoned many of them, and exiled many others to Oman.
+				- Abu 'Ubayda Muslim ibn Abi Karima al-Tamimi was a student of Jabir ibn Zayd, who was among those who were imprisoned.
+				- Abu 'Ubayda is seen as the second Ibadi Imam.
+				- The first Ibadi political imamate was established in Hadramawt in 128 AH / 745 CE.
+				- - Some History -
+				- The Rustamid imamate was overthrown by Shi'ite Fatimids in 296 AH / 909 CE.
+				- The fall of Rustamid and Omani imamates at the end of the 3rd (AH) / 9th (CE) centuries led to the development of the doctrines of Taqiyya (religious dissimulation) and Kitman (living in secret dissension from the ruling authorities)
+				- In North Africa, the 'Azzaba councils developed to replace the Imamate.
+				- Just as the decline in power of the 'Abbasid Khilafat led to Sunnis developing their jurisprudence, Ibadi scholars also wrote down the Ibadi doctrine and jurisprudence during this period (late 3rd (AH) / 9th (CE) century).
+				- Then the rest is the history of Oman
+			- Beliefs
+				- According to Algerian scholar Muhammad ibn Yusuf Atfayyish, the term #todo
+I guess there are sects (denomications) based on historical events, and sects have both Aqidah and Madhhabs.
+- Major Denominations (including Sufi, Quranists, Ahmadiya and Non-Muslims)
+- Sub Denominations
+- Aqidah (mix and match)
+- Madhhab (mix and match)
+
+- Aqidah
+	- Sunni
+		- In Terms of Belief
+			- Ahl Al-Hadith (People of Ahadeeth)
+				- Athari / Ahl al-Athar (basically Hanbali theology)
+			- Ahl Al-R'ay (People of Reason) (Between Athari Literalism and Mu'utazila Rationalism)
+				- Ash'ari, by Sheik / Imam Abu al-Hasan al-Ash'ari
+				- Maturdi, by Sheik / Imam Abu Mansur al-Maturidi
+		- In terms of Ihsan (Beauty)
+			- Sufis / Ahl al-Wijdan wa al-Kashf (People of Religious Ecstasy and the Matters of the Heart)
+	- Shi'a
+	- Ibadi
+	- Salafi
+	- Directly Violent Jihadists
+		- Wahhabi (by Muhammad Ibn 'Abd al-Wahhab)
+		- Qutbi (by Sayyid Qutb, of Muslim Brotherhood) (Wanted to eliminate all traces of Jahiliyya (Age of Ignorance) by Jihad al-Talab in all of Earth)
 ## Conflicts Between Muslims
 - Shia-ism is not the same as Islam
 - Shia Muslims only approve Ijmas if they include the Imam's opinion
@@ -534,7 +655,7 @@ Tafsirs are written by Mufassir (plural: Mufassirun)
 	- Suppose I could buy games for currency
 	- Will I be inclined to spend currency for games, or to hoard currency?
 
-Sahih Bukhari 9:89:296 states “The Prophet (ﷺ) came to know that one of his companions had given the promise of freeing his slave after his death, but as he had no other property than that slave, the Prophet (ﷺ) sold that slave for 800 dirhams and sent the price to him.”
+Saheeh Bukhari 9:89:296 states “The Prophet (ﷺ) came to know that one of his companions had given the promise of freeing his slave after his death, but as he had no other property than that slave, the Prophet (ﷺ) sold that slave for 800 dirhams and sent the price to him.”
 
 Two more:
 https://quranx.com/Hadith/Muslim/USC-MSA/Book-15/Hadith-4112/
@@ -587,8 +708,8 @@ Hell, it is even realistic for Christianity.
 
 This guy quotes Mughal Emperor Aurangazeb's fatwa for Jizya (to not take it from Hindus): (https://www.reddit.com/r/islam/comments/2e5utf/comment/kqi8g8i/)
 
-He also says that fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
-**
+He also says that Fitrah is innate to all humans, and it is only later in life that they are indoctrinated to Christianity and Atheism. And he complains that the rules of Jizya are perfect even to those who are denied it, unlike the western world which lets everyone live, because it is according to the whims of man, while Islam is the unwavering absolute truth as commanded by God.
+
 Hindu answer (on Hindutva): https://qr.ae/pszIQD
 ## Comparison of Jews and Mohammedans
 
@@ -616,13 +737,13 @@ Hindu answer (on Hindutva): https://qr.ae/pszIQD
 	- Sun sets in a spring of warm water
 		- **Sunan Abi Dawud 4002 (Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at), Hadith 34)**
 	- Sun glides under it reaches its resting place under Allah's Throne, and prostrates until it's asked to rise, when it will go to the rising place. Then, it will be asked to go in the other direction
-		- **Sahih Muslim 159a (The Book of Faith, Hadith 304)**
+		- **Saheeh Muslim 159a (The Book of Faith, Hadith 304)**
 	- Sun always prostrates under Allah's Throne. Then it always prostrates and asks permission to rise, and it will be permitted. But one day, it will be denied the permission, and will be asked to rise in the other direction.
-		- **Sahih al-Bukhari 3199 (Characteristic of the sun and the moon, Hadith 10)**
+		- **Saheeh al-Bukhari 3199 (Characteristic of the sun and the moon, Hadith 10)**
 	- The fixed course of the sun (36.28) is under the Throne of Allah
-		- **Sahih al-Bukhari 7433 (Oneness, Uniqueness of Allah (Tawheed), Hadith 60)**
+		- **Saheeh al-Bukhari 7433 (Oneness, Uniqueness of Allah (Tawheed), Hadith 60)**
 	- The Sun prostrates underneath Allah's Throne
-		- **Sahih al-Bukhari 4802 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))**
+		- **Saheeh al-Bukhari 4802 (Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))**
 
 
 Things I want to cover
@@ -650,22 +771,23 @@ Things I want to cover
 - Aisha was playing on swings when she was called for consummation
 	- Sunan Abu Dawud 4933-4937
 - More Hadiths
-	- Sahih Muslim 1422a
+	- Saheeh Muslim 1422a
 		- Sunnah.com: I was playing with my playmates. I said ha ha (as if I was gasping) until my agitation was over.
-	- Sahih Muslim 1422c
+	- Saheeh Muslim 1422c
 		- Sunnah.com: "he" (instead of "she") - indicating mistranslations
-	- Sahih al-Bukhari 3894
+	- Saheeh al-Bukhari 3894
 		- Sunnah.com: I was breathless then. (After playing).
 - Prophet visited her family from the moment she could recall
-	- Sahih al-Bukhari 476 (86)
+	- Saheeh al-Bukhari 476 (86)
 		- Darusallam translation: She'd seen her parents following Islam since she hit puberty, and Prophet visited us not a day after.
 		- Translator translation: The word isn't puberty, but "since I could recall".
 		- Aishab Yuli's translation (464): I have no recollection of my parents doing anything but following Islam.
-	- Sahih al-Bukhari 2297
+	- Saheeh al-Bukhari 2297
 		- Darusallam translation: Prophet visited us from the moment I could recall.
 
 - Waiting period for divorce is only three months for girls above menstruating age
 	- Verse 65:4
+	- That is, for girls below it, there is no waiting period.
 	- For Jews, the similar idea (about virginity) was about rape.
 	- For Muslims, this is about divorce.
 
@@ -673,19 +795,19 @@ Things I want to cover
 	- Debating whether pre-pubescent girls can be divorced right away, or if one should wait for her to menstruate and then wait three months.
 		- (https://quran.com/ar/65:4/tafsirs/ar-tafsir-al-baghawi)
 
-- Fath al-Bari is ibn Hajar's commentary on al-Bukhari. He's one of the greatest scholars in Islam.
+- Fath ul-Bari is ibn Hajar al-Asqalani's Sharh (Commentary of Hadeeth) on Saheeh al-Bukhari. He's one of the greatest scholars in Islam.
 
 > Sunnah.com
 > 
-> Sahih al Bukhari 5134 Narrated Aisha:
+> Saheeh al Bukhari 5134 Narrated Aisha:
 > 
 > that the Prophet (ﷺ) married her when she was six years old and he consummated his marriage when she was nine years old. Hisham said: I have been informed that Aisha remained with the Prophet (ﷺ) for nine years (i.e. till his death).
 > 
-> Sahih al Bukhari 6130 Narrated Aisha:
+> Saheeh al Bukhari 6130 Narrated Aisha:
 > 
 > I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for Aisha at that time, as she was a little girl, not yet reached the age of puberty.) (Fath-ul-Bari page 143, Vol.13)
 
-- Fath-ul-Bari Tafsir on Hadith 6130 is on p. 543-544, Vol.10 on Archive.org
+- The Sharh on Hadith No. 6130 of Saheeh al-Bukhari is on Page Nos. 543-544 of Volume 10 of Fath ul-Bari, on Archive.org
 	- https://archive.org/details/FathUlBari./Fath_Ul_Bari_Vol_10/page/n543/mode/2up) 
 ### Idiocy
 - Sex with animals during Hajj is okay (Fatwa)
@@ -700,7 +822,7 @@ Things I want to cover
 - StackOverflow is built by Israeli/American Jew, who is openly gay
 - Well, Google search, and most of the web too is built by Jews and Americans. Alan Turing was gay.
 
-- Sahih Al-Bukhari (3094)
+- Saheeh Al-Bukhari (3094)
 	- Allah's Apostle said his property isn't to be inherited, but given to charity
 	- Abu Bakr took it for the purpose of giving it to charity
 	- Umar then took it to give it to charity
@@ -708,6 +830,12 @@ Things I want to cover
 	- Umar told them that it is not to be inherited
 	- So they told him to give it to them
 	- Under the condition of giving it to charity, he gave it to them
+
+- To kill or not to kill Muslims who fight each other
+	- https://quranx.com/hadiths/8.39 (Bukhari 4650)
+	- 49.9 Tells to kill the oppressing faction
+	- 4.93 Tells you not to kill any believing Muslim
+	- 
 
 # Detailing Counters
 
@@ -751,7 +879,7 @@ Things I want to cover
 	- **Video Type:** Prophet Salallahu Ali Wassalam His Ali Wassalam wife Aisha Ali Wasslam
 
 - Claim that Aisha was older: https://old.reddit.com/r/islam/comments/tptmn/the_ages_of_asma_bint_abi_bakr_and_aisha_bint_abi/
-	- It's from non-Sahih Hadith like Tafsir Ibn Kathir
+	- It's from non-Saheeh Hadith like Tafsir Ibn Kathir
 - Other claim, by Yaqeen Institute: https://yaqeeninstitute.org/tag/more-than-just-a-number-perspectives-on-the-age-of-aisha-ra (Papers, Video Collections, Infographic)
 - Others claim Bukhari isn't reliable - but that's a shortly held opinion
 
@@ -810,7 +938,7 @@ Things I want to cover
 	- 47:15 (delicious wine)
 
 - Sin is vital (Allah prefers those who repent rather than are righteous)
-	- Sahih Muslim 2748b, 2749
+	- Saheeh Muslim 2748b, 2749
 	- Riyad as-Salihin 1871, 422
 
 - Using a watermelon is better than hand (masturbation)
@@ -844,7 +972,7 @@ Some Tafsirs are based on r'ai (opinion) and delve into "dangerous" areas like p
 - Muslims believe God is so pure that he cannot possibly become human.
 
 - Lying is allowed (Taqiyya)
-	- Jami at-Tirmidhi 1939 (Sahih):
+	- Jami at-Tirmidhi 1939 (Saheeh):
 		- Asma bint Yazid narrated that the Messenger of Allah said: "it is not lawful to lie except in three cases: 
 			- Something the man tells his wife to please her,
 			- To lie during war, and
@@ -947,11 +1075,11 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 # Hadiths 2
 - Ruling Regarding Hermaphrodites (Chapter 53 of Book of Etiquettes)
 	- Sunan Abu Dawud **4928-4931**
-		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Da'if)
+		- Do not kill the effeminate man who died his hands and feet with henna, but prayed. Instead expel him. (Da'eef)
 		- Expel them from homes
 	- Verdict:
 		- The hadith on not killing effeminate men is weak
-		- But that on expulsion of hermaphrodites, effeminate men and tomboys are sahih.
+		- But that on expulsion of hermaphrodites, effeminate men and tomboys are Saheeh.
 		- So effeminate men are not safe.
 		- Hermaphrodites are said to be cursed.
 		- All of them are to be expelled.
@@ -1116,22 +1244,34 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 | Uthman ibn Affan        | Rightly Guided | Rashidun  | 644-656 |
 | Ali ibn Talib           | Rightly Guided | Rashidun  | 656-661 |
 **Sunni Schools of Theology / Aqidah**
+- Ash'ari (They believe in logic ('Aql) over tradition (Naql))
+	- By Sheik / Imam Abu al-Hasan al-Ash'ari
 - Maturdi (A philosophical (not in a good way) group based on innovation (Bi'idah))
+	- By Sheik / Imam Abu Mansur al-Maturidi
 - Athari (They believe in literal interpretation, like Hand of God)
 	- They do not like to think
-- Ash'ari (They believe in logic ('Aql) over tradition (Naql))
 
 **Invalid Schools of Theology / Aqidah (as per Sunni Scholars)**
 - Mu'tazilla (Leavers)
+	- They are too philosophical
 	- They do not believe in Predestination (Qadr), and only in Free Will
 	- They do not believe in God (Allah) having a face
 - Jahami
 - Qadariyah
-- Kharijis (Now Ibadis)
+- Khawarij (Kharijites / Secessionists) (Now Ibadis)
 - Raafidis (Twelver Shi'a)
 
 **Shi'a Schools of Theology / Aqidah**
 - Jafari (Ithna Asharis / Twelver Shi'a)
+- Isma'eeli (Difference in an Imam)
+- Zaydi
+
+**Other Schools of Theology**
+- Ibadi
+- Ahmadiyya
+- Non Muslim
+	- Sikh
+	- Baha'i
 
 **Active Sunni Schools of Jurisprudence / Madhhabs**
 
@@ -1167,7 +1307,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 
 - Twelver (Rafidi / Rejectionists)
 - Zaydi
-- Isma'ili
+- Isma'eeli
 
 **The Six Sunni Hadiths**
 
@@ -1181,7 +1321,7 @@ That's because human beings looked so decidedly different 1,400 years ago than t
 **Popular Commentators (Mufassirun) (Sunni)**
 
 - 1. Tafsir ibn Kathir (IK) (~1370)
-	- **By:** Ismail ibn Umar Ibn Kathir 
+	- **By:** Isma'eel ibn Umar Ibn Kathir 
 - 2. Tafsir al-Qurtubi (Q) (~1273)
 	- **Also called:** Al-Jami li-Ahkam al-Quran (The collection of Quranic Injunctions)
 	- **By:** Muhammad ibn Ahmad Qurtubi
@@ -1234,6 +1374,7 @@ idk
 	- Quran
 	- Ahadith (Hadiths)
 - Secondary Sources
+	- Tafaseer (Commentaries)
 	- Fiqh
 		- Ijma as Sahabah
 		- Qiyas (Analogical Reasoning)
@@ -1252,7 +1393,7 @@ idk
 - Tafsir (Commentary)
 - Fatwa (Scholarly Opinion)
 
-**Types of Scholars**
+**Types of Scholars (Ulama)**
 
 A good scholar should memorize the Quran, a great deal of Ahadeeth, Principles of Jurisprudence (Usool al-Fiqh), Science of Grading Hadiths (Mustalah al-Hadith), etc.
 
@@ -1264,6 +1405,7 @@ A good scholar should memorize the Quran, a great deal of Ahadeeth, Principles o
 - Alim
 - Faqih
 - Sheik
+- Mujtahid
 
 
 

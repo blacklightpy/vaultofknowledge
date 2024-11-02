@@ -26,10 +26,13 @@
 - Types of printing
 
 # Evolution
-- [[Newton's Experiments on Colours.]]
+- [[Newton's Experiments on Colours]]
 	- He came up with the [[colour wheel]] aka colour circle in the form of a Newton Disc (Disappearing Colour Disc)
 		- Colour circle is used for, among other purposes for additive colour mixing. Sometimes, adding two colours from different parts of the spectrum might produce a third colour that looks like a light from another part of the spectrum. This type of colour mixing is called metameric matching - [[metamerism]].
-	- He gave the first method of mixing, which is to 1. mark two colours in a colour wheel, 2. find their barycenter, 3. Then the distance from the center to the barycenter determines the saturation, while the azimuthal position (the position of the radial line through the barycenter) determines it's hue.
+	- He gave the first method of mixing, which is to
+		- 1> Mark two colours in a colour wheel
+		- 2> Find their barycenter
+		- 3> Then the distance from the center to the barycenter determines the saturation, while the azimuthal position (the position of the radial line through the barycenter) determines it's hue.
 	- Criticized by: Robert Hooke, assistant of Robert Boyle
 - Johan Wolfgang von Goethe, a German poet, proposed his set of [[complementary colours]].
 - Thomas Young's  [[Trichromatic Theory of Colours]]. It distinguished additive and subtractive colours. He came up with a [[colour triangle]] (also used in CIE 1931 Colour Space)

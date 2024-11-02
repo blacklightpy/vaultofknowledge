@@ -1,0 +1,8 @@
+- Siyar
+	- Ibn Ishaq
+	- Ibn Hashim
+	- Al-Tabari
+	- Modern Books
+- Prophet of Doom by Craig Winn (connects Seerah Texts)
+- Islamic Jihad: A Legacy of Forced Conversion, Imperialism and Slavery by MA Khan (a Hyderabadi Muslim)
+- http://www.kister.huji.ac.il/sites/default/files/khuzaa.pdf (About Banu Khuza'ah; Khuza'ah branch Mustalik was raided and Juwarriyah was captured)

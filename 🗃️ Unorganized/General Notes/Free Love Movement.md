@@ -1,0 +1,1 @@
+According to Wikipedia, Lenin and Stalin opposed this.

@@ -2,13 +2,13 @@
 > This is a looong summary: [Hinduism > Religious Beliefs | Encyclopaedia Britannica](https://www.britannica.com/topic/Hinduism/General-nature-of-Hinduism)
 
 - Hindu Scriptures
-	- Sruti (That which is heard)
+	- Sruti (That which is heard during meditation)
 		- Nigamas / [[Vedas]]
 			- Samhithas (Mantras and hymns)
 			- Brahmanas (For rituals)
 			- Aranyakas (Knowledge for forest dwellers)
 			- Upanishads (Spiritual and Philosophical teachings)
-		- Agamas / Tantras
+		- Aagamas / [[Tantras]]
 	- Smriti (Inspired works)
 		- Puranas
 			- 18 Mahapuranas (not sure which ones)
@@ -23,7 +23,7 @@
 				- Dharma Sutras (Manuals of Conduct)
 				- Shrauta Sutras (Manuals of Rituals)
 				- Griha Sutras (Manuals of Household Rites)
-			- Upavedas
+			- Upa Vedas
 
 		- Law Books
 			- Manu Smriti (The Laws of Manu, the first man)
@@ -36,10 +36,10 @@
 		- Modern Works
 
 - Mahavakyas (Great Words from the Vedas)
-	- Pitham(?) Prajnanam Brahma (Consciousness is Supreme Being)
-	- Aham Brahmasmi (I am the Supreme Being)
-	- Tat Tvam Asi (That thou art)
-	- Ayam Atmanam Brahma (This Atman is Supreme Being)
+	- Pra-Jnaanam Brahma (Ultimate Knowledge is Reality)
+	- Aham Brahm Asmi (I am (Soul is) Reality)
+	- Tat Tvam Asi (That (Reality) and You are Alike)
+	- Ayam Aatmaanam Brahma (This Soul is Reality)
 
 - Vedic Disciplines (Vedangas)
 	- Siksha (Phonetics)
@@ -49,9 +49,8 @@
 	- Jyotisha (Astrology)
 	- Kalpa (Rituals and Rites of Passage)
 
-- Shakhas
-	- 
-	- Upavedas (Technical Knowledge from the Vedas)
+- Shakhas (Branches of Transmission)
+- Upa Vedas (Technical Knowledge from the Vedas)
 - [[Hindu Denominations]] (Sampradayas)
 	- Hindu Schools of Thought (Darshanas)
 	- Divisions
@@ -59,9 +58,21 @@
 		- Nastika (Heterodox / Non-Vedic)
 - Concepts
 	- Existential
-		- Moksha
-		- Dharma
-		- Karma
-		- Samsara
-	- Ethical Values
-		- Ahimsa
+		- Purushaarthas
+			- Dharma (Morality)
+			- Artha (Meaning)
+			- Kaama (Eroticism)
+			- Moksha (Liberation)
+		- Karma (Action)
+		- Samsaara (Cyclic Existence)
+		- Kaalachakra (Cycle of Life)
+	- Neeti (Ethics)
+		- Ahimsa (Non-Violence)
+		- Asteya
+		- Aparigraha
+		- Brahmacharya (Celibacy)
+		- Satya (Honesty)
+		- Daana (Benovelence)
+		- Daamah
+		- Dayaa (Kindness)
+		- Akrodha (Anger Free)

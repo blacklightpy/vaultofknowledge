@@ -1,0 +1,1 @@
+DNA is a polymer composed of two polynucleotide chains that coil around each other to form a double helix.

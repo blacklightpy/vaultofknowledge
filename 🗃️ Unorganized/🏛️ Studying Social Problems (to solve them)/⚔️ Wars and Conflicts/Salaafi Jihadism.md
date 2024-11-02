@@ -1,0 +1,80 @@
+# Terms
+- Wahhabism
+	- Followers of the idea of Mohammed ibn Abd' al-Wahhab, to follow the Salaaf, or Salaafism.
+	- The term is not used by the followers of Abd' al-Wahhab, who prefer the term Salaafism, and is used by other people. 
+- Salaaf
+	- They refer to the first three generations of Muslims.
+- Salaafism
+	- A conservative belief system that says Muslims should follow the Quran, Sunnah and Ijma' (Consensus) of the Salaaf.
+	- They are generally classified into three types
+		- 1) Purists / Quietists
+		- 2) Activists
+		- 3) Jihaadists
+- Jihaadism
+	- Attempt to establish Islamic rule by force
+- Salaafi Jihaadism / Jihaadist Salaafism
+	- The correct term for these attacks
+- Global Jihaad
+	- Jihaadism with an international pan-Islamist scope.
+- Mujaahid
+	- One engaged in Jihaad
+# Groups
+- Taliban
+	- Also known by its state name Islamic Emirate of Afghanistan
+	- It ruled Afghanistan from 1996-2001
+	- Following 9/11 Attacks, US invaded Afghanistan and overthrew the Taliban
+	- They captured Afghanistan on 15 August 2021, after 20 years of insurgency
+	- Taliban is condemned for human rights violations, such as the right of women and girls to work and education
+	- Taliban has a more localized goal
+- Pakistani Taliban
+	- A branch of Taliban
+- Islamic State
+	- Formerly ISIS (Islamic States of Iraq and Syria), ISIL (Islamic States of Iraq and Levant)
+	- Also known by its Arabic acronym, Da'ish / Daesh
+	- It is a self-declared pan-Islamic Caliphate
+	- It is a Sunni Muslim elected group
+	- It is concerned with the "near enemy" of heretical Muslims
+	- It is not pan-Islamic as in accepting of all Muslims, as they put Shia Muslims to death
+	- Compared to Al-Qaeda ([IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):
+		- Takes a puritan, sectarian approach
+		- Establishes Islamic states in the territories it controls
+		- Insists on establishing Shariah law in territories
+		- Embraces Sunni sectarianism
+		- Does not cooperate with ideologically different factions
+		- Thinks IS is the only faction on the pure Salaafi path
+- Islamic State of Iraq
+	- Formerly Al-Qaeda in Iraq
+- Lakshar-e-Taiba
+	- From Pakistan
+	- They are followers of Ahl-e-Hadeeth, a South Asian Salaafi Jihadist group
+- Ahl-e-Hadeeth
+	- They are a South Asian group
+	- They justify Jihaad with the Qur'aan's Ayah 2:216, which states: 
+		- "Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."
+		- But this is the Ayah taken out of context, like all Jihadist groups do. Specifically, this was written for a time of war, when the Arabs were being under threat from the Quraysh tribes of Mecca. This Ayah was to give them hope for war. It also had verses requiring them to protect all the civilians who have made peace with them, or taken refuge with them, and even the war was against people who had broken the peace treaty between tribes, titled the "Constitution of Medina". 
+- al-Qaeda
+	- Basically less religiously trained, but global
+	- Compared to IS (Source: [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):
+		- Takes an inclusive, pragmatic, populist approach
+		- Cautions against the formation of Islmaic states in the present time
+		- Calls for tolerance and gradualism in applying Islamic law
+		- De-emphasizes sectarianism
+		- Cooperates with a wide range of political and military factions
+		- Thinks IS is a neo-Kharijite deviation from Salaafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
+- Boko Haram
+- al-Shabaab
+# Regional Resistance Groups
+## Palestine
+- Hamas
+	- Had its origin with the peaceful Muslim Brotherhood, which later turned violent
+	- Hamas is the manifestation of Muslim Brotherhood, fighting for the Palestinian cause alone
+	- They fight to establish take back the entire land of Palestine, and establish an Islamic state.
+	- The Palestinian nationalist sentiment began as an opposition to the Israeli invasion. This doesn't mean Palestine was unimportant until then; but that all community movements begin as an opposition to some entity, as they need to place importance on their identity.
+	- Hamas is recognized as a terrorist organization only by the US, EU, Australia, Canada, Israel, Japan, Paraguay, UK
+	- Hamas is not recognized as a terrorist organization by: Brazil, China, Egypt, India, Iran, Jordan, Norway, Philippines, Qatar, Russia, Saudi Arabia, Switzerland, Syria, Türkiye and the UN
+	- New Zealand and Paraguay recognize its military wing, Izz ad-Din al-Qassam Brigades as a terrorist group.
+- Palestinian Islamic Jihad (PIJ)
+- Palestinian Liberation Organization (PLO)
+	- Used to be in West Bank
+## Lebanon
+- Hezbollah

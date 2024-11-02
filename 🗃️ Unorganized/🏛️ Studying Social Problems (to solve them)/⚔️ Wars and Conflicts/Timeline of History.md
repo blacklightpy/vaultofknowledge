@@ -4,6 +4,8 @@
 
 Also, the Jews didn't agree with Muslims because his teachings differed from their own scriptures. How convenient is it to then reject the interpretation of what's true by rejecting anything that deviates from the previous model? It is one thing to say they don't believe it, and another to say that it deviates from the scriptures. If it didn't deviate from the scriptures, it'd be the same, isn't it? I'd say the same is true for Muslims, because now they too will not believe in anything besides their scriptures. [Verify context of deviation and decide if you need this.]
 
+[Answer: The Jews had no reason to accept Mohammed's teachings, because they simply didn't have to believe it. That's all.]
+
 - Lambda-CDM Model of the Big Bang Theory
 (don't go too far Jyothish)
 Firstly, our models of physical cosmology has consensus on the Lambda-CDM parametrization of the Big Bang Theory, based on QFT and General Relativity. The parts beyond physics (meta-physics) are the subject of religions and philosophy. I don't think we disagree on physical cosmology, but some people seem to do. But I'll be skipping that part, and focusing only on the human civilizations. So we had the solar system form, the Cambrian explosion happen and the evolution of mammals.
@@ -36,7 +38,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - 55000 BC: Australian aboriginals were found in this period
 [Last Ice Age]
 - People travelled from Asia to Americas through the bridge
-- Neolithic Revolution (or the First Agricultural Revolution) in the West Asian Fertile Crescent saw the transition from hunting and gathereing to agriculture and settlements
+- Neolithic Revolution (or the First Agricultural Revolution) in the West Asian Fertile Crescent saw the transition from hunting and gathering to agriculture and settlements
 
 > [!NOTE] From Wikipedia: Origin of Agricultural Settlements
 > ![[Centres_of_origin_and_spread_of_agriculture.svg.png]]
@@ -441,7 +443,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Some of the Indo-Europeans split into the Indo-Iranians or Aryans
 - Some of the Indo-Iranians migrated to Iran, and Zarathustra wrote Gathas which founded Zoroastrianism
 	- Zoroastrianism was the most common religion is the Achaemenid, Parthian and Sassanid Persian empires.
-- Some of the Indo-Iranians migrated to India, and wrote hymns and stuff (Vedic Era)
+- 1600 BC: Some of the Indo-Iranians migrated to India, and wrote hymns and stuff (Vedic Era - 1500 BC to 900 BC)
 	- Hinduism was a combination of the Aryan Vedas and the Dravidian Hinduism
 	- The Vedas included the yajnas, yaagams, etc.
 	- So Hinduism has a lot in common with Zoroastrianism.
@@ -467,6 +469,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Greeks also copy their ideas and make colonies
 - 800 BC: Phoenicians made the Carthage colony that made it's own colonies
 ### Asia
+- 800 BC: The first three portions of the Vedas were created
 - ~1000 BC: China was getting decentralized, with the philosophies of Confucianism, Taoism and Legalism (Qin, Chu, Jin, Qi, Yang, Zhou)
 ## Time Period 6 (700 BC - 300 BC)
 ### Mesopotamia, Asia
@@ -495,6 +498,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Chandragupta gave elephants to keep Seleucus at bay and conquered all of India and formed the Mauryan empire (except the Tamil Kings)
 - The Tamil Kings (Kerala and Tamil Nadu) were merchants and had spices
 - They traded spices with the Arabians via the seas
+- ~200 AD: The last Upanishads were completed during this period
 ### China
 - 221 BC: China put itself back together with the Qin Dynasty which followed Legalism
 - They now had three philosophies: Confucianism (morals), Taoism (Dao) and Legalism (Obey the Law)
@@ -651,7 +655,7 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Gutenberg invents the printing press
 ### Eurasia
 - The fourth crusade ended up capturing the Byzantine empire as part of the Latin empire and weakening Constantinople
-- 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire, and founded the Ottoman Empire, or Turkish Empire
+- 1453 AD: Ottoman Turks conquered the rest of the Byzantine empire under Sultan Mehmed II, and founded the Ottoman Empire, or Turkish Empire
 	- They were
 	- Ottomans banned India from the European spice trade
 	- They established the Ottoman Caliphate (fourth caliphate), as the successors of Sunni Islam
@@ -678,13 +682,13 @@ With agriculture, food became more reliable, but less varied, and people became 
 ### Europe
 - The Catholic church lets people pay a premium to escape sin
 - 1517 AD: Martin Luther said it's all a scam and wrote 95 reasons why in his book, and it started the protestant reformation
+- 1521 AD: Ferdinand Magellan circumnavigated the Earth, practically verifying the spherical Earth theory
 ### Eurasia, Africa
 
 #### Levant and Africa
 - 1530 AD: Suleiman The Magnificent makes the Ottoman Empire big, and gets part of the holy land which was previously a part of the Seljuk Empire
 #### Russia
 - 1556 AD: Ivan the Terrible makes Russia big
-
 ## Time Period 17 (1500 - Present)
 ### Europe, Asia, America, Australia and Africa
 - 1503 AD: Portugal decided to control the entire Indian Ocean and control all the spice trades
@@ -694,13 +698,17 @@ With agriculture, food became more reliable, but less varied, and people became 
 - Amsterdam also decided to pillage stuff
 - England, Amsterdam and France tried to get to India through North America
 	- They couldn't find a way but they found Beavers, and Beaver skin was very marketable.
+	- This is the North American Fur Trade
 - Dutch stole the spice trade
+- 1607 AD: The first English colony in America was made
 - 1640 AD: All the Sugar was made in Brazil. Dutch stole it.
 - Spain, France, Dutch and England exploited the Caribbean and started slavery by importing people from Africa
 - Russia gets bigger
-- 1754: Britain and France tries to decide who gets to control Ohio (and all America)
-- This starts a 7 year war (Britain, Prussia, Portugal, etc.) vs (France, Austria, Spain, Russia, Swededn, etc.)
+- 1752 AD: 13 English colonies were established in America
+- 1754 AD: Britain and France tries to decide who gets to control Ohio (and all America)
+- This starts a 7 year war (Britain, Prussia, Portugal, etc.) vs (France, Austria, Spain, Russia, Sweden, etc.)
 - Britain wins over France, but is now broke, so they tax America
+- 1774 AD: The 13 American colonies unite against Britain
 - 1776 AD: American revolutionary war, and France helps them win and is now broke
 - 1788 AD: Britain has to send their prisoners to Australia, which they call New South Wales
 - 1794 AD: France was broke, but the Royal family was rich, so Robespierre announced the French Revolution guillotined King Louis XIV and Queen Marie Antoinette and others, and someone also guillotined him too

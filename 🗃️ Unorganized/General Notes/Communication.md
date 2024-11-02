@@ -1,0 +1,1 @@
+Communication is the transmission of information. But that's a disputed definition, because communication often also creates information, and also as to whether unintentional or failed transmissions are included.

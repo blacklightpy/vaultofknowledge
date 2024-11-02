@@ -1,0 +1,3 @@
+It refers to a society's [[classification]] of its people into groups based on socioeconomic factors like [[wealth]], [[income]], [[race]], [[education]], [[ethnicity]], [[gender]], [[occupation]], [[social status]] or derived [[power]] (social or political).
+
+In modern Western societies, social stratification is defined in terms of three [[social class|social classes]]: [[upper class]], [[middle class]] and [[working class]].
