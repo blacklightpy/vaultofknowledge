@@ -1,4 +1,4 @@
-A religion is akin to a lock. It (primarily) secures your understanding of the world.
+tA religion is akin to a lock. It (primarily) secures your understanding of the world.
 
 Taking a religion from someone else blindly is like taking their lock. And in doing so, you leave your safety at their discretion, because they may have a loophole in it.
 
