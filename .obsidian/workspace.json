@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb5d8098330d364",
+        "id": "765a53fcf2dbdafb",
         "type": "tabs",
         "children": [
           {
-            "id": "d99e42c41b056f82",
+            "id": "965760481e15f340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The claim that ZIonism is Settler Colonialism.md",
+                "file": "🗃️ Unorganized/General Notes/Hostilities between Traditional Indians and Muhammadians.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Hostilities between Traditional Indians and Muhammadians"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -87,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The claim that ZIonism is Settler Colonialism.md",
+                "file": "🗃️ Unorganized/General Notes/Hostilities between Traditional Indians and Muhammadians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hostilities between Traditional Indians and Muhammadians"
             }
           },
           {
@@ -104,10 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The claim that ZIonism is Settler Colonialism.md",
+                "file": "🗃️ Unorganized/General Notes/Hostilities between Traditional Indians and Muhammadians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hostilities between Traditional Indians and Muhammadians"
             }
           },
           {
@@ -118,7 +130,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -130,7 +144,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -139,8 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The claim that ZIonism is Settler Colonialism.md"
-              }
+                "file": "🗃️ Unorganized/General Notes/Hostilities between Traditional Indians and Muhammadians.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hostilities between Traditional Indians and Muhammadians"
             }
           },
           {
@@ -148,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -161,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "broken-links:View broken links": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
@@ -175,8 +196,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d99e42c41b056f82",
+  "active": "965760481e15f340",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Hostilities between Traditional Indians and Muhammadians.md",
     "🗃️ Unorganized/General Notes/The claim that ZIonism is Settler Colonialism.md",
     "conflict-files-obsidian-git.md",
     "🤠 Personal/Style.md",
@@ -203,7 +225,6 @@
     "🗃️ Unorganized/General Notes/Why is there something rather than nothing.md",
     "🗃️ Unorganized/General Notes/Why don't seas mix.md",
     "🗃️ Unorganized/General Notes/Why did Saddam Hussein reject UN inspections.md",
-    "🗃️ Unorganized/General Notes/Why aren't there giants in this world.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
