@@ -19,6 +19,8 @@ Even though they are mostly 3-D, they are represented using 2D [[Chromaticity]] 
 - [[Munsell Colour System]]
 - Helmholtz Colour Coordinates
 	- Chromaticity is defined by [[Hue|dominant wavelength]] and [[Excitation Purity|purity]]
+- CAM02 Uniform Color Space (CAM02-UCS)
+- CAM-16
 ### Not 3-D
 **Dichromatic**
 - RG Colour Model for early Technicolour films

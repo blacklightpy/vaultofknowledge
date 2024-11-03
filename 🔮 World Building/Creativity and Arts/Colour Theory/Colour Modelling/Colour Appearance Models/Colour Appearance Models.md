@@ -25,7 +25,7 @@ This is different from [[Colour Models]] which describe colours as tuples in a c
 - CIECAM97s (was popular until [[CIECAM02]] arrived)
 - IPT (It is well suited for gamut mapping)
 - ICtCp (Improves on IPT)
-- [[CIECAM02]]
+- [[CIECAM02]] (It comes with the CAM02-UCS space)
 - iCAM06 (It is an [[Image Colour Appearance Models|iCAM]])
 - CAM16 (It also comes with the CAM16-UCS space; not a CIE standard although published by CIE)
 - CIECAM16 (The 2022 CIE standard release of CAM16)
