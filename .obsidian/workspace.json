@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Ideas for Writing Anything.md",
+                "file": "🗺️ World Exploration/Literature/Origin of Writing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas for Writing Anything"
+              "title": "Origin of Writing"
             }
           }
         ],
@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,8 +253,8 @@
   },
   "active": "444c2a672c53bb81",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/2024-11-04.md",
     "🗃️ Unorganized/General Notes/Ideas for Writing Anything.md",
+    "🗃️ Unorganized/General Notes/2024-11-04.md",
     "🗃️ Unorganized/General Notes/Telephony.md",
     "🗃️ Unorganized/General Notes/Private Branch Exchange.md",
     "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",

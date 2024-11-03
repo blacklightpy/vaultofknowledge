@@ -60,40 +60,39 @@ Languages generally consist of a lexicon and grammar. Lexicons are the set of le
 While I was at it, I decided to see the etymology of the words "palates" and "assibilate", and I realized this:
 
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
-- assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word *sweysd-, meaning "to hiss"
- 	- I couldn't get any further etymology for \*sweysd, but I found out about \*swe and \*dwes, which caught my attention because of language proximity.
-	- The Proto-Indo-European word \*swe means relating to self, which is related to \*dwes, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning "god", and also the Zoroastrian word "daiv", meaning "demon".
- 		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning "to shine" or "be bright".
-   			- ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/%D0%A2-%D0%BB%D0%B8%D0%BC%D0%B0%D0%BD10.JPG)
-   			- *Dyēus was often paired with *Dʰéǵʰōm, the Earth Mother, in a relationship of union and contrast (think of the Horizon). This remained the same in the Vedas.
+- assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word \*sweysd-, meaning "to hiss"- I couldn't get any further etymology for \*sweysd, but I found out about \*swe and \*dwes, which caught my attention because of language proximity.
+	- The Proto-Indo-European word `*swe `means relating to self, which is related to `*dwes`, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, `daiv`, meaning "god", and also the Zoroastrian word "daiv", meaning "demon".
+		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning "to shine" or "be bright".
+			- ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/%D0%A2-%D0%BB%D0%B8%D0%BC%D0%B0%D0%BD10.JPG)
+			- `*Dyēus` was often paired with `*Dʰéǵʰōm`, the Earth Mother, in a relationship of union and contrast (think of the Horizon). This remained the same in the Vedas.
 			- द्यौष्पितृ (dyauṣ-pitṛ), meaning sky god, husband of Prithvi and father of Agni and Indra.
 				- द्यौस् (dyaús, nominative singular of द्यु (dyú, “sky”))
-					- द्यु (dyú) comes from Proto-Indo-Aryan \*dyā́wṣ, from Proto-Indo-Iranian \*dyā́wš, from Proto-Indo-European \*dyḗws (“sky, heaven”). Cognate with Ancient Greek Ζεύς (Zeús), Latin diēs, Hittite 𒅆𒍑 (sius).
-						- \*dyḗws comes from earlier \*dyéws, from \*dyew- +‎ *-s.
-							- \*dyew means "heaven" or "sky" or "to shine"
+					- द्यु (dyú) comes from Proto-Indo-Aryan `*dyā́wṣ`, from Proto-Indo-Iranian `*dyā́wš`, from Proto-Indo-European `*dyḗws` (“sky, heaven”). Cognate with Ancient Greek Ζεύς (Zeús), Latin diēs, Hittite 𒅆𒍑 (sius).
+						- `*dyḗws` comes from earlier `*dyéws`, from `*dyew-` +‎ *-s.
+							- `*dyew` means "heaven" or "sky" or "to shine"
 								- The Persian derivative was لیو • (liv), meaning "sunlight"
 								- Another derivative was Proto-Indo-Iranian \*dinám, which led to Proto-Indo-Aryan \*dinám, and to Sanskrit दिन (din), meaning "day"
 								- Similarly, Sanskrit word दिव (div) also came from \*dyew
-				- पितृ (pitṛ) came from Proto-Indo-Iranian *pHtā́ (“father”), from Proto-Indo-European *ph₂tḗr (“father”). Cognate with Avestan 𐬞𐬌𐬙𐬀𐬭‎ (pitar)
-				- Closely related is Jupiter, whose etymology follows from Latin Iūpiter (“father Jove”), from Proto-Italic \*djous patēr (literally “sky father”) (cognate with Ancient Greek Ζεῦ πάτερ (Zeû páter, “father Zeus”)), from \*djous (“day, sky”) + \*patēr (“father”), from Proto-Indo-European \*dyḗws (literally “the bright one”), from \*dyew- (“to be bright, day sky”), and \*ph₂tḗr (“father”). Doublet of Dyaus Pita. (Doublets are like cognates, but includes loanwords)
+							- पितृ (pitṛ) came from Proto-Indo-Iranian `*pHtā́` (“father”), from Proto-Indo-European `*ph₂tḗr` (“father”). Cognate with Avestan 𐬞𐬌𐬙𐬀𐬭‎ (pitar)
+							- Closely related is Jupiter, whose etymology follows from Latin Iūpiter (“father Jove”), from Proto-Italic `*djous patēr` (literally “sky father”) (cognate with Ancient Greek Ζεῦ πάτερ (Zeû páter, “father Zeus”)), from `*djous` (“day, sky”) + `*patēr` (“father”), from Proto-Indo-European `*dyḗws` (literally “the bright one”), from `*dyew-` (“to be bright, day sky”), and `*ph₂tḗr` (“father”). Doublet of Dyaus Pita. (Doublets are like cognates, but includes loanwords)
 		- Indo-Iranian (Persian) Zoroastrianism took "daiv" to mean demonic entities, which could've found its ways to Judaism and hence Islam too. (Yes this is apparently true)
-		- Proto-Indo-European word \*deywós, a proto-Vriddhi (a style mostly related to Sanskrit) derivative of \*dyew
+		- Proto-Indo-European word `*deywós`, a proto-Vriddhi (a style mostly related to Sanskrit) derivative of `*dyew`
 			- To form a vṛddhi-derivative, one takes the "zero-grade" of the "ablauting" stem (i.e. removes the vowel), inserts the vowel *e in a position which does not necessarily match that of the original vowel, and appends an accented thematic vowel (or accents any existing final thematic vowel)
-			- In this case, it came from Proto-Indo-European \*dyew- "sky" (cf. Latin diēs, Sanskrit dyú "day"; Hittite šīu- "god") → zero grade \*diw- → proto-vṛddhi derivative \*deyw-ó-s "god, sky god"
-			- Proto-Indo-Iranian word \*daywás
-				- Proto-Indo-Aryan: \*daywás (“god, deity”)
+			- In this case, it came from Proto-Indo-European `*dyew`- "sky" (cf. Latin diēs, Sanskrit dyú "day"; Hittite šīu- "god") → zero grade `*diw-` → proto-vṛddhi derivative `*deyw-ó-s` "god, sky god"
+			- Proto-Indo-Iranian word `*daywás`
+				- Proto-Indo-Aryan: `*daywás` (“god, deity”)
 					- Sanskrit: देव (devá), meaning "god" and later देवता (devatā), meaning "goddess", and देवसभा (devasabhā), meaning "the court of Indra, or assembly of gods"
 				- Proto-Iranian: \*daywáh (“demon”)
 					- Avestan: 𐬛𐬀𐬉𐬎𐬎𐬀 (daēuua), meaning "demon"
 					- Old Persian: 𐎭𐎡𐎺 (d-i-v /⁠daivaʰ⁠/), meaning "demon"
 					- Classical Persian: دیو‎ (div), meaning “demon”
 						- Ottoman Turkish: دیو (div), meaning "demon"
-	     					- Urdu: دیو‎ (dīv), meaning "demon"
+						- Urdu: دیو‎ (dīv), meaning "demon"
 	    				- Derived word: \*daywánah, (by \*daywá + \*nah), meaning "demon possessed"
 	        				- Classical Persian: دیوانه‎ (devâna)
 							- Urdu: دیوانہ‎ (divana), meaning "mad"
 							- Hindi: दीवाना (dīvānā), meaning "mad"
-			- Related, about demons: The Proto-Indo-European word \*h₂ems-, meaning “to engender, beget” turned into \*h₂ḿ̥suros, meaning "begetter", which turned into 
+			- Related, about demons: The Proto-Indo-European word `*h₂ems`-, meaning “to engender, beget” turned into `*h₂ḿ̥suros`, meaning "begetter", which turned into 
 				- Hittite word 𒈗𒍑 (hassus), meaning "king"
 				- Proto-Indo-Iranian word Hasuras which turned into 
 					- Proto-Indo-Aryan word \*Hásuras which turned into
@@ -116,7 +115,8 @@ While I was at it, I decided to see the etymology of the words "palates" and "as
 	- This also explains the concept of ishta-devas and ishta-devatas (it's just what nature of god resonates with your feelings as a diverse person)
 	- Hmmm? (Beyond anthropomorphic forms of religious murti, some traditions of Hinduism cherish aniconism, where alternate symbols are shaped into a murti, such as the linga for Shiva, yoni for Devi, and the saligrama for Vishnu.) 
 
-- मूर्ति (murti) comes from मूर्छ् (murch), meaning "to take form", which is likely from the Proto-Indo-European word \*mr̥tós, meaning "mortal" (often compared to Ancient Greek βρότος (brótos), meaning “blood from a wound”)
+- मूर्ति (murti) comes from मूर्छ् (murch), meaning "to take form", which is likely from the Proto-Indo-European word `*mr̥tós`, meaning "mortal" (often compared to Ancient Greek βρότος (brótos), meaning “blood from a wound”)
+	- I guess, "mrityu" in Sanskrit should be from the same roots.
 
 > From (https://en.wikipedia.org/wiki/Murti)
  > While murti are an easily and commonly visible aspect of Hinduism, they are not necessary to Hindu worship.[45] Among Hindus, states Gopinath Rao,[76] one who has realised Self (Soul, Atman) and the Universal Principle (Brahman, god) within himself, there is no need for any temple or divine image for worship. Those who have yet to reach this height of realisation, various symbolic manifestations through images, idols and icons as well as mental modes of worship are offered as one of the spiritual paths in the Hindu way of life. This belief is repeated in ancient Hindu scriptures. For example, the Jabaladarshana Upanishad states:[76]

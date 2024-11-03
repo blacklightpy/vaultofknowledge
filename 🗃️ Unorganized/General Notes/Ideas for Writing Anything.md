@@ -240,15 +240,19 @@ deserunt mollit anim id est laborum.
 
 Much more readable and meaningful than [Text Block 2.4].
 ### Takeaway
-The takeaway is that text that cares about line lengths should also care about the mediums through which they may be represented.
+==The takeaway is that text that cares about line lengths should also care about the mediums through which they may be represented.==
 
 Text block 3.2 is better than 2.4. But both are better than the messy text block 2.3.
 
 2.4 at least looks like a linear text written on a short piece of paper. 2.3 looks like a meaninglessly broken up sequence of text.
 
-Text blocks in example 1, due to their artificial and hasty construction and choice of small maximum line length do not look good in either of the blocks 1.3 or 1.4. This shows us how there out to be a minimum value for the maximum line length, and 
+Text blocks in example 1, due to their artificial and hasty construction and choice of small maximum line length do not look good in either of the blocks 1.3 or 1.4.
+
+==This shows us how there out to be a minimum value for the maximum line length, and the length of words in the language should also be considered while making a theory on what the optimal minimum value of the maximum line length is.==
+## Minimum Line Length
+This can come handy in poetry, but I have not yet thought about this area.
 # Structure
 Define ideals structures to break them into.
 
 This depends on the format of communication itself.
-For writing, this begins
+For writing, this begins with characters, which 
