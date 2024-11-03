@@ -249,5 +249,5 @@ toggles:
           strip_sub_divs:
             - .toc
 md_folder_path_str: md
-md_entrypoint_path_str: md/Home.md
+md_entrypoint_path_str: md/index.md
 html_output_folder_path_str: html
