@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6fb05d000bfae62",
+        "id": "0f46d591b84949d0",
         "type": "tabs",
         "children": [
           {
-            "id": "23ae46a79f7a5106",
+            "id": "f1a4a443aeaa2a60",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +186,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "23ae46a79f7a5106",
+  "active": "f1a4a443aeaa2a60",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Classification Problems - When to Code in C vs Python.md",
     "🔮 World Building/Creativity and Arts/Colour Theory/Colour Modelling/Colour Appearance Models/Colour Appearance Models.md",
