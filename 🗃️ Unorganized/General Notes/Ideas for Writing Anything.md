@@ -11,6 +11,7 @@ For example, flexbox is responsive, but poetry isn't responsive.
 Also, line breaks may also make content that is otherwise portable unportable. For example, if the following content:
 ### Example 1
 
+[Text Block 1.1]
 ```
 ADHFD DLHFABN LAFFDSNS SDFKHFDS DSFAHLDS. SDAFKL, FADS, AFDDFSAF ADFSDSDFS FSF FDS. AFDFDA DAFFSF FASFD FD AFS FSDF GER WVF. FASFA ASGB FSAF VAFD ASDFFS VADVAGVF BSDB.
 ```
@@ -39,6 +40,8 @@ ADHFD DLHFABN LAFFDSNS SDFKHFDS DSFAHLDS. SDAFKL, FADS, AFDDFSAF ADFSDSDFS FSF F
 > ```
 
 is beautified into this following format with a maximum line length of 22 characters:
+
+[Text Block 1.2]
 ```
 ADHFD DLHFABN LAFFDSNS
 SDFKHFDS DSFAHLDS.
@@ -74,6 +77,7 @@ ASDFFS VADVAGVF BSDB.
 
 on another media with a different maximum line length, it may look differently. For example, the following text would be from a media with a maximum line length of 13 characters:
 
+[Text Block 1.3]
 ```
 ADHFD DLHFABN
 LAFFDSNS
@@ -100,6 +104,8 @@ BSDB.
 All other group of two lines got broken up into 4 lines, while lines 7-8 broke up into 5 lines, and this looks less readable.
 
 But if text the un-beautified initial text was used, it would look differently. The following example doesn't convey the point well, but here it is:
+
+[Text Block 1.4]
 ```
 ADHFD DLHFABN
 LAFFDSNS
@@ -125,12 +131,14 @@ I'll switch to another example, say with a line wrap length of 60 characters, an
 
 Consider the following text.
 
+[Text Block 2.1]
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ```
 
 I can beautify it by wrapping it to an 80 character limit like so, while also breaking it down by sentences:
 
+[Text Block 2.2]
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
 do eiusmod tempor incididunt ut labore et dolore magna
@@ -148,6 +156,7 @@ qui officia deserunt mollit anim id est laborum.
 
 Looks neat. But watch what happens when you preview this on a screen with a maximum line length of 40 characters:
 
+[Text Block 2.3]
 ```
 Lorem ipsum dolor sit amet, consectetur
 adipiscing elit, sed
@@ -160,15 +169,20 @@ exercitation ullamco
 laboris nisi ut aliquip ex ea commodo
 consequat.
 
-Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur.
+Duis aute irure dolor in reprehenderit
+in voluptate velit
+esse cillum dolore eu fugiat nulla
+pariatur.
 
-Excepteur sintoccaecat cupidatat non proident, sunt in culpa
-qui officia deserunt mollit anim id est laborum.
+Excepteur sintoccaecat cupidatat non
+proident, sunt in culpa
+qui officia deserunt mollit anim id est
+laborum.
 ```
 
-But the original text would've looked like this:
+But the original text ([Text Block 2.1]) would've looked like this of such a medium:
 
+[Text Block 2.4]
 ```
 Lorem ipsum dolor sit amet, consectetur
 adipiscing elit, sed do eiusmod tempor
@@ -189,7 +203,9 @@ This seems more meaningful.
 Let's try looking at how the first text block and last output text block would've looked like if it was broken up into sentences first (like the second text block).
 ### Example 3
 
-Here's the first text block of the previous section broken up into sentences:
+Here's the first text block of the previous section ([Text Block 2.1]) broken up into sentences:
+
+[Text Block 3.1]
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -201,6 +217,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 ```
 
 Here's the render with a maximum line length of 40 characters:
+
+[Text Block 3.2]
 ```
 Lorem ipsum dolor sit amet, consectetur
 adipiscing elit, sed do eiusmod tempor
@@ -220,7 +238,15 @@ proident, sunt in culpa qui officia
 deserunt mollit anim id est laborum.
 ```
 
-Much more 
+Much more readable and meaningful than [Text Block 2.4].
+### Takeaway
+The takeaway is that text that cares about line lengths should also care about the mediums through which they may be represented.
+
+Text block 3.2 is better than 2.4. But both are better than the messy text block 2.3.
+
+2.4 at least looks like a linear text written on a short piece of paper. 2.3 looks like a meaninglessly broken up sequence of text.
+
+Text blocks in example 1, due to their artificial and hasty construction and choice of small maximum line length do not look good in either of the blocks 1.3 or 1.4. This shows us how there out to be a minimum value for the maximum line length, and 
 # Structure
 Define ideals structures to break them into.
 
