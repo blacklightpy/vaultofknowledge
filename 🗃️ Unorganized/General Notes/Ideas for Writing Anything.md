@@ -261,4 +261,4 @@ Then we form morphemes and words with it. Then we form phrases, and sentences.
 
 Sentences can then be broken down into paragraphs, as it is easier to read them that way since the writing system is linear.
 
-Paragraphs can then form sections which can be in the hierarchies of 
+Paragraphs can then form sections which can be in the hierarchies of sections, chapters, books, volumes, collections, etc.
