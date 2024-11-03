@@ -255,4 +255,4 @@ This can come handy in poetry, but I have not yet thought about this area.
 Define ideals structures to break them into.
 
 This depends on the format of communication itself.
-For writing, this begins with characters, which 
+For writing, this begins with characters, which are allographs, which form graphemes.

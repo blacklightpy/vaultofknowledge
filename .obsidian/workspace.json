@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗺️ World Exploration/Literature/Origin of Writing.md",
+                "file": "🗃️ Unorganized/General Notes/Ideas for Writing Anything.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origin of Writing"
+              "title": "Ideas for Writing Anything"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "allogra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,6 +255,8 @@
   },
   "active": "444c2a672c53bb81",
   "lastOpenFiles": [
+    "🗺️ World Exploration/Literature/Origin of Writing.md",
+    "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Ideas for Writing Anything.md",
     "🗃️ Unorganized/General Notes/2024-11-04.md",
     "🗃️ Unorganized/General Notes/Telephony.md",
@@ -277,9 +281,7 @@
     "🤠 Personal/Hairstyle.md",
     "🗺️ World Exploration/Life Forms/Study of Plants.md",
     "🗺️ World Exploration/Life Forms/Study of Life Forms.md",
-    "🗺️ World Exploration/Life Forms/Study of Birds.md",
     "🗺️ World Exploration/Life Forms",
-    "🗃️ Unorganized/💭️ Developing My Own Philosophy/🤔️ Unorganized or Incomplete Ponderings/Is Nature doing any calculations.md",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
