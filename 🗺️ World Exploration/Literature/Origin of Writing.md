@@ -61,7 +61,7 @@ While I was at it, I decided to see the etymology of the words "palates" and "as
 
 - palates > Latin word palatum > possibly from Etruscan word 𐌚𐌀𐌋𐌀𐌃𐌖𐌌 (faladum), meaning sky
 - assibilate > Latin word assībilātus, meaning “murmured, whispered at, hissed” (past participle of assībilō (“hiss at”, verb)) > Latin words ad, meaning “at”, sībilō, meaning “hiss” > Latin word sībilus, meaning “a hissing, whistling”), of imitative origin > From Proto-Indo-European word \*sweysd-, meaning "to hiss"- I couldn't get any further etymology for \*sweysd, but I found out about \*swe and \*dwes, which caught my attention because of language proximity.
-	- The Proto-Indo-European word `*swe `means relating to self, which is related to `*dwes`, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, `daiv`, meaning "god", and also the Zoroastrian word "daiv", meaning "demon".
+	- The Proto-Indo-European word `*swe `means relating to self, which is related to `*dwes`, which means the daylight sky god, which later formed the Indo-Aryan Vedic word, "daiv", meaning "god", and also the Zoroastrian word "daiv", meaning "demon".
 		- \*Dyēus derives from the stem \*dyeu-, meaning brightness of the day, which comes from the root \*di or dei-, meaning "to shine" or "be bright".
 			- ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/%D0%A2-%D0%BB%D0%B8%D0%BC%D0%B0%D0%BD10.JPG)
 			- `*Dyēus` was often paired with `*Dʰéǵʰōm`, the Earth Mother, in a relationship of union and contrast (think of the Horizon). This remained the same in the Vedas.
