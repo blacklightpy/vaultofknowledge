@@ -255,4 +255,9 @@ This can come handy in poetry, but I have not yet thought about this area.
 Define ideals structures to break them into.
 
 This depends on the format of communication itself.
-For writing, this begins with characters, which are allographs, which form graphemes.
+For writing, this begins with characters, which are allographs (sets of similar glyphs), which form graphemes.
+
+Then we form morphemes and words with it. Then we form phrases, and sentences.
+
+Sentences can then be broken down into paragraphs, as it is easier to read them that way since the writing system is linear.
+

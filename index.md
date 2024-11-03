@@ -9,7 +9,7 @@ Welcome!
 This is a public site where I take notes on things that I'm studying about. You can call this a knowledge-base or to use the modern terminology, a second brain or digital garden.
 ## How to explore
 
-You have **Directory Tree** on the *left*, and the **Table of Contents** on the *right*.
+You have **Directory Tree** on the left, and the **Table of Contents** on the right. (They may not both show up in mobile devices due to their small viewport).
 
 You can explore the notes using the search functionality or from the table of contents sidebar. A quick overview on the main categories:
 
