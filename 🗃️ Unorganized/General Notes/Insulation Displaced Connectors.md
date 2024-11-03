@@ -15,4 +15,4 @@ Later, they were also used for low voltage domestic and industrial applications,
 - Network Cables
 	- RJ series
 - Domestic Power Supply
-	- Punch Down Blocks (Also used in telephone distribution frames, patch panels and private telephone exchanges (PBXs))
+	- Punch Down Blocks (Also used in telephone distribution frames, patch panels and private telephone exchanges ([[Private Branch Exchange|PBXs]]))
