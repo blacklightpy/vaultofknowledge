@@ -2,8 +2,8 @@
 graph_name: Home
 obs.html.tags:
   - dont_add_embedded_title
+title: Home
 ---
-# Home
 Welcome!
 
 This is the Vault of Knowledge, a public place where I take notes on things that I'm studying about. You can call this a knowledge-base or to use the modern terminology, a second brain or digital garden.
