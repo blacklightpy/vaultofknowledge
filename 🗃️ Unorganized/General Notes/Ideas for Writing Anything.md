@@ -4,12 +4,12 @@ Keep an optimal length, to make the content portable to other media
 while maintaining readability.
 
 ## Line Wrapping
-
 I call this section line wrapping, because I realized that's what best describes this idea.
 
 For example, flexbox is responsive, but poetry isn't responsive.
 
 Also, line breaks may also make content that is otherwise portable unportable. For example, if the following content:
+### Example 1
 
 ```
 ADHFD DLHFABN LAFFDSNS SDFKHFDS DSFAHLDS. SDAFKL, FADS, AFDDFSAF ADFSDSDFS FSF FDS. AFDFDA DAFFSF FASFD FD AFS FSDF GER WVF. FASFA ASGB FSAF VAFD ASDFFS VADVAGVF BSDB.
@@ -99,7 +99,7 @@ BSDB.
 
 All other group of two lines got broken up into 4 lines, while lines 7-8 broke up into 5 lines, and this looks less readable.
 
-But if text A was used, it would look like:
+But if text the un-beautified initial text was used, it would look differently. The following example doesn't convey the point well, but here it is:
 ```
 ADHFD DLHFABN
 LAFFDSNS
@@ -118,7 +118,109 @@ ASDFFS
 VADVAGVF
 BSDB.
 ```
+Not too different here, with only a few differences in the lines.
 
+I'll switch to another example, say with a line wrap length of 60 characters, and then wrapping it to 40
+### Example 2
+
+Consider the following text.
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+```
+
+I can beautify it by wrapping it to an 80 character limit like so, while also breaking it down by sentences:
+
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+do eiusmod tempor incididunt ut labore et dolore magna
+aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco
+laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit
+esse cillum dolore eu fugiat nulla pariatur.
+
+Excepteur sintoccaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+```
+
+Looks neat. But watch what happens when you preview this on a screen with a maximum line length of 40 characters:
+
+```
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed
+do eiusmod tempor incididunt ut labore
+et dolore magna
+aliqua.
+
+Ut enim ad minim veniam, quis nostrud
+exercitation ullamco
+laboris nisi ut aliquip ex ea commodo
+consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit
+esse cillum dolore eu fugiat nulla pariatur.
+
+Excepteur sintoccaecat cupidatat non proident, sunt in culpa
+qui officia deserunt mollit anim id est laborum.
+```
+
+But the original text would've looked like this:
+
+```
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris 
+nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint
+occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim
+id est laborum.
+```
+
+This seems more meaningful.
+
+Let's try looking at how the first text block and last output text block would've looked like if it was broken up into sentences first (like the second text block).
+### Example 3
+
+Here's the first text block of the previous section broken up into sentences:
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+```
+
+Here's the render with a maximum line length of 40 characters:
+```
+Lorem ipsum dolor sit amet, consectetur
+adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna
+aliqua.
+
+Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat.
+
+Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur.
+
+Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia
+deserunt mollit anim id est laborum.
+```
+
+Much more 
 # Structure
 Define ideals structures to break them into.
 
