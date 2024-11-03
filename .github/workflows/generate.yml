@@ -14,6 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Push
     steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          repository: blacklightpy/notes
+          event-type: notes-update
       - name: Checkout main
         uses: actions/checkout@v4
         with:
