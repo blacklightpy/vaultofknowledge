@@ -1,0 +1,1 @@
+It is a feature used in Telephony to detect whether a call was answered by a human or by a machine.
