@@ -17,6 +17,7 @@ jobs:
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v3
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           repository: blacklightpy/notes
           event-type: notes-update
       - name: Checkout main
