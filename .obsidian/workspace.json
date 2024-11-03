@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +239,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d1aec227bb509053",
+  "active": "444c2a672c53bb81",
   "lastOpenFiles": [
-    "index.md",
     "🗃️ Unorganized/General Notes/Telephony.md",
+    "🗃️ Unorganized/General Notes/Business Telephone System.md",
+    "index.md",
     "🗃️ Unorganized/General Notes/Private Branch Exchange.md",
     "🗃️ Unorganized/General Notes/2024-11-04.md",
     "🗃️ Unorganized/General Notes/Ideas for Writing Anything.md",
@@ -266,7 +267,6 @@
     "🤠 Personal/Review of Push Up Boards.md",
     "🤠 Personal/Hairstyle.md",
     "🗺️ World Exploration/Life Forms/Study of Plants.md",
-    "🗺️ World Exploration/Life Forms/Study of Life Forms.md",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
