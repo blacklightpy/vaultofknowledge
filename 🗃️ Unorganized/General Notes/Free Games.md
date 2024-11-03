@@ -23,3 +23,11 @@
 
 # Unclassified
 - Unvanquished
+## 3D, Free Source and Content
+- The Dark Mod (Thief based, based on DOOM)
+- Warsow (FPS)
+- TORCS (The Open Racing Car Simulator)
+- AssaultCube (PC/Mobile FPS, CS style)
+- Gravity Bone
+- Barista series
+- VDrift (Racing)
