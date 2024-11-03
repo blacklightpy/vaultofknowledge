@@ -6,3 +6,4 @@ RELATED: See my other idea in Zettel Notes about how the ==core parts of the pro
 
 Also relevant is the analogy between ==cohesion and coupling==.
 
+The topic that will define this problem is ==clustering and classification==.
