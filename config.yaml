@@ -1,4 +1,4 @@
-obsidian_entrypoint_path_str: vaultofknowledge/Home.md
+obsidian_entrypoint_path_str: vaultofknowledge/index.md
 included_folders: []
 exclude_glob:
   - /.obsidian
