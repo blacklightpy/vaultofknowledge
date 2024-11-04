@@ -1,0 +1,3 @@
+- https://www.58bits.com/blog/best-android-launcher
+- https://old.reddit.com/r/windowsphone/comments/186ca5o/tips_to_make_my_setup_of_square_home_launcher/
+- 
