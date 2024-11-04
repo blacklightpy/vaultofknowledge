@@ -1,0 +1,3 @@
+- Our cause cannot expect me to become a nun and the movement will not be turned into a cloister.
+- If I can't dance I don't want to be in your revolution.
+- the right to self-expression, everybody's right to beautiful, radiant things
