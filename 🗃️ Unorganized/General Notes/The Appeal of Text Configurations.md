@@ -1,0 +1,1 @@
+It is that they can be easily shared.
