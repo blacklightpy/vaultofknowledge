@@ -24,12 +24,18 @@ Notes:
 		- (Sets Data Resolution)
 	- Transform (Resolution, Scale)
 	- Framebuffer Size
-		- (Sets Canvas Resolution)
+		- (Sets Canvas Resolution) (i.e. Canvas)
 	- Pan Resolution
-		- (Sets the Canvas Pan)
+		- (Sets the Canvas Pan) (Default: Whole Canvas)
 	- Scale
 		- (Sets the DPI Scale for Data)
 
 - If only transform is used (with scale), and if the render goes out of screen, moving the mouse out of screen resets scale to 1x1 and stretches.
 	- And of course, without framebuffer, the mouse can go down
 - If transform and framebuffer is used, and if the render goes out of screen, moving the mouse out of screet resets scale to 1x1 and stretches
+
+
+<b><u>NOTE:</u></b>
+- The monitor is set in 1280x720 mode.
+- But it stretches out to the same resolution that 1280x1024 mode takes.
+
