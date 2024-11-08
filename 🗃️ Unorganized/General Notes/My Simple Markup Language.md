@@ -1,4 +1,8 @@
+There are a total of 20 types of elements. I have grouped them into 5 categories.
+
 <h2><u>Headings</u></h2>
+
+These are the 6 types of elements.
 ```
 (h1) Hello (/h1)
 (h2) Hello (/h2)
@@ -9,9 +13,14 @@
 ```
 
 <h2><u>Body</u></h2>
+
 `(paragraph) Content Here (/paragraph)`
 
 `(line break)`
+
+`(horizontal rule)`
+
+`(link) (url: ) (title: ) (/link)`
 
 ```
 (image)
@@ -20,7 +29,9 @@
 	(caption: Caption here)
 (/image)
 ```
+
 <h2><u>Formatting</u></h2>
+
 ```
 (bold) Content Here (/bold)
 
@@ -30,6 +41,7 @@
 ```
 
 <h2><u>Common Blocks</u></h2>
+
 ```
 (ordered list)
 	(item) Content Here 1 (/item)
@@ -51,9 +63,14 @@
 		(element) Content Here (/element)
 	(/header rows)
 	(row)
+		(header element) Content Here (/header element)
+		(element) Content Here (/element)
+	(/row)
 (/table)
 ```
+
 <h2><u>Custom Blocks</u></h2>
+
 ```
 (callout)
 	Content Here
@@ -69,9 +86,23 @@
 ```
 (code)
 	Content Here
-(code)
+(/code)
 ```
 
 `(code) Content Here (/code)`
 
 `(math) Content Here (/math)`
+
+```
+(task)
+	(unmarked item) Content Here (/item)
+	(marked item) Content Here (/item)
+(/task)
+```
+
+# ff
+
+Cookie
+:   A small piece of data that a server sends to the user's web browser. The
+    browser may store it and send it back with later requests to the same server.
+:   A delicious snack, often containing chocolate chips.
