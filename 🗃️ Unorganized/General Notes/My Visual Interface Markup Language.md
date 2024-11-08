@@ -1,2 +1,3 @@
 # Parts
-- 
+- Component
+- Dimensions
