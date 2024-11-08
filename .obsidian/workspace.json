@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "webauthn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -256,6 +255,9 @@
   },
   "active": "8606cce52ef8b429",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Identity Protocols.md",
+    "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Hardware Security Module.md",
+    "🗃️ Unorganized/General Notes/Passwordless Login.md",
     "🗃️ Unorganized/General Notes/De-Latinization of Science.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
@@ -279,9 +281,6 @@
     "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
     "🗃️ Unorganized/General Notes/Trend - Voice Assistant AI Models.md",
     "🗃️ Unorganized/General Notes/Answering Machine Detection.md",
-    "🗃️ Unorganized/General Notes/Free Games.md",
-    "🗃️ Unorganized/General Notes/Reason.md",
-    "How to read this knowledgebase.md",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

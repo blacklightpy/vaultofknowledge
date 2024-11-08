@@ -1,11 +1,20 @@
 ## Credentials
-- U2F/FIDO2 Hardware Security Modules
-- WebAuthn Passkeys
-## Specifications
+### Specifications
 - U2F by FIDO Alliance
-- FIDO2 by FIDO Alliance
-  - WebAuthn by W3C (specification for web apps)
-    - caBLE protocol to authenticate using smartphones (by BLE)
+- FIDO2 by FIDO Alliance (Passkeys)
+### Stores
+- Hardware Security Modules
+- Trusted Platform Module
+- Password Managers
+### Terms
+- Industry: Passkeys
+- FIDO Alliance: Multi-Device FIDO Credentials & Single-Device FIDO Credentials
+- Yubico: Copyable Passkeys & Device-Bound Passkeys
+## Protocol
+### Web App Protocols
+- WebAuthn by W3C
+### Communication Protocols
+- caBLE (Cloud Assisted BLE) protocol to authenticate using smartphones
 ## Operating Systems
 - macOS: Native with Cloud Sync
 - Windows: Native, Cloud Sync in works
