@@ -11,3 +11,13 @@ On Windows this is done by the OS using the drivers or by the Intel Graphics Con
 # How I did it
 ## X Windowing System
 - ``
+
+Notes:
+- Panning will crop render area, but it won't crop where the mouse can move.
+- Framebuffer size sets the 
+	- Without framebuffer size set to 1280x720, mouse will go down with transform
+- Transform translate values will affect how much the mouse can move in the specified direction
+
+
+- If only transform is used (with scale), and if the render goes out of screen, moving the mouse out of screen resets scale to 1x1 and stretches.
+- If transofrm and 
