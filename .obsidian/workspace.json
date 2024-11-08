@@ -66,9 +66,24 @@
               "icon": "lucide-file",
               "title": "The History of Oppression of Jews"
             }
+          },
+          {
+            "id": "8606cce52ef8b429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Passwordless Login.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Passwordless Login"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,11 +254,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "436a01c8070991d5",
+  "active": "8606cce52ef8b429",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/De-Latinization of Science.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
-    "🗃️ Unorganized/General Notes/De-Latinization of Science.md",
     "🗃️ Unorganized/General Notes/Password Authentication Strategy.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Password Management Strategy.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Password Reset Mechanism.md",
