@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Fancy Communist Ideations.md",
+                "file": "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fancy Communist Ideations"
+              "title": "Branding of Operating Systems"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webauthn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -271,6 +272,7 @@
   "active": "47788a6e2a9420cd",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Fancy Communist Ideations.md",
+    "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
     "🗃️ Unorganized/General Notes/Passwordless Login.md",
     "🗃️ Unorganized/General Notes/Identity Protocols.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Hardware Security Module.md",
@@ -295,7 +297,6 @@
     "🗺️ World Exploration/Literature/Origin of Writing.md",
     "🗃️ Unorganized/General Notes/Abstractions.md",
     "🗃️ Unorganized/General Notes/Insulation Displaced Connectors.md",
-    "🗃️ Unorganized/General Notes/Trend - Voice Assistant AI Models.md",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
