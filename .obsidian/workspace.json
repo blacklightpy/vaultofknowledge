@@ -141,9 +141,24 @@
               "icon": "lucide-file",
               "title": "My Simple Markup Language"
             }
+          },
+          {
+            "id": "8a8bb80753bbf775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/My Visual Interface Markup Language.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Visual Interface Markup Language"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -314,10 +329,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4b56e8ebb207a82e",
+  "active": "8a8bb80753bbf775",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
+    "🗃️ Unorganized/General Notes/My Visual Interface Markup Language.md",
     "🗃️ Unorganized/General Notes/My Simple Markup Language.md",
+    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
     "🗃️ Unorganized/General Notes/What is science.md",
     "🗃️ Unorganized/General Notes/Fancy Communist Ideations.md",
@@ -341,7 +357,6 @@
     "🗃️ Unorganized/General Notes/Ideas for Writing Anything.md",
     "🗃️ Unorganized/General Notes/Telephony.md",
     "🗃️ Unorganized/General Notes/Business Telephone System.md",
-    "🗃️ Unorganized/General Notes/Private Branch Exchange.md",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

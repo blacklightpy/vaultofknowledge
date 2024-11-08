@@ -87,11 +87,11 @@ These are the 6 types of elements.
 (code)
 	Content Here
 (/code)
+
+(code) Content Here (/code)
 ```
 
-`(code) Content Here (/code)`
-
-`(math) Content Here (/math)`
+`(latex) Content Here (/latex)`
 
 ```
 (task)
@@ -99,10 +99,3 @@ These are the 6 types of elements.
 	(marked item) Content Here (/item)
 (/task)
 ```
-
-# ff
-
-Cookie
-:   A small piece of data that a server sends to the user's web browser. The
-    browser may store it and send it back with later requests to the same server.
-:   A delicious snack, often containing chocolate chips.
