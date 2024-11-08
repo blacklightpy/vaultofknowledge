@@ -19,5 +19,17 @@ Notes:
 - Transform translate values will affect how much the mouse can move in the specified direction
 
 
+- Functions
+	- Mode
+		- (Sets Data Resolution)
+	- Transform (Resolution, Scale)
+	- Framebuffer Size
+		- (Sets Canvas Resolution)
+	- Pan Resolution
+		- (Sets the Canvas Pan)
+	- Scale
+		- (Sets the DPI Scale for Data)
+
 - If only transform is used (with scale), and if the render goes out of screen, moving the mouse out of screen resets scale to 1x1 and stretches.
-- If transofrm and 
+	- And of course, without framebuffer, the mouse can go down
+- If transform and framebuffer is used, and if the render goes out of screen, moving the mouse out of screet resets scale to 1x1 and stretches
