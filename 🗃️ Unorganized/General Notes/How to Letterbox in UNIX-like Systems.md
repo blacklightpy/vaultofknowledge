@@ -8,3 +8,6 @@ On Windows this is done by the OS using the drivers or by the Intel Graphics Con
 - https://old.reddit.com/r/linuxquestions/comments/gk8nxg/is_it_possible_to_use_xrandr_to_force_use_of_only/
 - https://superuser.com/questions/1435053/how-to-use-xrandr-to-crop-part-of-my-monitor
 - https://superuser.com/questions/1547836/using-xrandr-is-it-possible-to-use-only-part-of-a-secondary-monitor-without-pan (Related: Reducing Area)
+# How I did it
+## X Windowing System
+- ``
