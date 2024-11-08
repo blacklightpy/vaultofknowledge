@@ -11,4 +11,6 @@ GL Firmware.
 
 A GL Firmware is basically what other people refer to as a "Linux Distribution", "Linux Distro", or as the Free Software Foundation like to call it, a "GNU/Linux Distribution" or "GNU Distribution".
 
-Since both projects had a good hand in the naming, and "GNU/Linux" is not particularly 
+Since both projects had a good hand in the naming, and "GNU/Linux" is not particularly pleasant to the ear, I decided to replace it with a better term, called the "GL Firmware".
+
+For those who hate my usage of that term, I'll just say that I'm gonna use it anyways, because I think it's cooler.
