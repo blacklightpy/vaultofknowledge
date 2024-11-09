@@ -1,0 +1,4 @@
+- Algorithms: https://www.youtube.com/watch?v=SIhuPb-PLto&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=9&pp=iAQB
+	- Gaussian
+	- Box
+	- Median

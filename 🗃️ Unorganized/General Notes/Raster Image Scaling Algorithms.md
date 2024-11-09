@@ -1,7 +1,7 @@
-- Level 1
+- Level 1: https://www.youtube.com/watch?v=R9mnjPgDCQk&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=7&pp=iAQB
 	- Nearest Neighbour
 	- Bilinear Inetrpolation
-- Level 2
+- Level 2: https://www.youtube.com/watch?v=HQHuQv4a8cU&list=PLIRuSslToIDgg3otNlmIFhrNFJ5G4Zkbr&index=8&pp=iAQB
 	- Bicubic Interpolation
 - Level 3
 	- Sync Resampling

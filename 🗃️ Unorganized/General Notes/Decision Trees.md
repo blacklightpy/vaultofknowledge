@@ -1,0 +1,1 @@
+They are simple models used for Supervised Classification.

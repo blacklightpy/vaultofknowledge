@@ -193,13 +193,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Raster Image Scaling Algorithms.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raster Image Scaling Algorithms"
+              "title": "Algorithms"
             }
           }
         ],
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -334,10 +333,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Raster Image Scaling Algorithms.md"
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Raster Image Scaling Algorithms"
+              "title": "Outline of Algorithms"
             }
           },
           {
@@ -377,6 +376,11 @@
   },
   "active": "375383b25ecaadae",
   "lastOpenFiles": [
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
+    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms.md",
+    "🗃️ Unorganized/General Notes/Decision Trees.md",
+    "🗃️ Unorganized/General Notes/Image Blurring.md",
+    "🗃️ Unorganized/General Notes/Image.md",
     "🗃️ Unorganized/General Notes/Raster Image Scaling Algorithms.md",
     "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/Display Concepts.md",
@@ -399,11 +403,6 @@
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Password Management Strategy.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Password Reset Mechanism.md",
     "index.md",
-    "🗃️ Unorganized/General Notes/Ideal App Launcher (Touchscreen).md",
-    "🗃️ Unorganized/General Notes/What Religious People Argue About.md",
-    "🗃️ Unorganized/General Notes/Emma Goldman Quotes.md",
-    "🗃️ Unorganized/General Notes/Classification Problems - When to Code in C vs Python.md",
-    "🗃️ Unorganized/General Notes/The Appeal of Text Configurations.md",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
