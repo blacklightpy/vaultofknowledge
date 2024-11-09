@@ -60,9 +60,11 @@ In XRandR (X Rotate and Resize):
 
 # Modelines
 - Modes:
-- Modelines: VESA Standard
+- Modelines: Information about available modes
 
-Modeline Syntax: `Modeline <"Name"> <Pixel Clock Frequency> <Horizontal Pixels> <Horizontal Sync Start> <Horizontal Sync End> <Total Horizontal Pixel Clocks> <Vertical Pixels> <Vertical Sync Start> <Vertical Sync End> <Total Vertical Pixel Clocks> [options]`
+**Modeline Syntax:**
+
+`Modeline <"Name"> <Pixel Clock Frequency> <Horizontal Pixels> <Horizontal Sync Start> <Horizontal Sync End> <Total Horizontal Pixel Clocks> <Vertical Pixels> <Vertical Sync Start> <Vertical Sync End> <Total Vertical Pixel Clocks> [options]`
 
 That is, it contains:
 - Mode Name
@@ -77,12 +79,12 @@ That is, it contains:
 	- Vertical Sync Start
 	- Vertical Sync End
 	- Vertical Total
-- Options
+- Options (-HSync, +VSync, etc.)
 
 You get modelines from EDID, but if they don't exist (like with TVs), we have to manually calculate them.
 
 ### Timing Standards
-- GTF
+- GTF (Generalized Timing Formula)
 - DMT (Discrete Monitor Timings)
 - VESA CVT (Coordinated Video Timing)
 - VESA CVT-RB (Coordinated Video Timing - Reduced Blanking)
