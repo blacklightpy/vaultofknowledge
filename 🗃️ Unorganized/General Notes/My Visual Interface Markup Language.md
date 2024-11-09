@@ -15,3 +15,6 @@
 - Inheritance
 
 I'd prefer for menus to be custom modified, but with the option to inherit some defaults. This will make it easy for people to create apps, but also let them customize it to their imagination as well.
+# More Aspects
+- Add Text
+- Add Icons

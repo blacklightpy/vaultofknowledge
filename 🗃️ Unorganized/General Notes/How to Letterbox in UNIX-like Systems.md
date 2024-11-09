@@ -55,25 +55,33 @@ In XRandR (X Rotate and Resize):
 		- `h: 0` (for some skewing?)
 		- `i: 1` (for some skewing?)
 	- Basically, it can shift the perspectives, but not like transform it into a circle.
-	- That is, it only works via keystone transformations (and that includes rotations and perspectives).
+		- That is, it only works via keystone transformations (and that includes rotations and perspectives).
+		- It exists for cases where the projector projects from an angle. (Remember TeachNext)
 
 # Modelines
 - Modes:
 - Modelines: VESA Standard
 
-Modeline Syntax: `Modeline "String description" Dot-Clock HDisp HSyncStart HSyncEnd HTotal VDisp VSyncStart VSyncEnd VTotal [options]`
+Modeline Syntax: `Modeline <"Name"> <Pixel Clock Frequency> <Horizontal Pixels> <Horizontal Sync Start> <Horizontal Sync End> <Total Horizontal Pixel Clocks> <Vertical Pixels> <Vertical Sync Start> <Vertical Sync End> <Total Vertical Pixel Clocks> [options]`
 
 That is, it contains:
 - Mode Name
 - Dot Clock (Pixel Clock)
 - Horizontal Pixels
-- Horizontal Sync Start
-- Horizontal Sync End
-- Horizontal Total
-- 
+- Scan Sync Paramters (Handles Blanking Periods, etc.)
+	- Horizontal Sync Start
+	- Horizontal Sync End
+	- Horizontal Total
+- Vertical Pixels (Handles Blanking Periods, etc.)
+- Scan Sync Parameters
+	- Vertical Sync Start
+	- Vertical Sync End
+	- Vertical Total
+- Options
 
 You get modelines from EDID, but if they don't exist (like with TVs), we have to manually calculate them.
 
 - `cvt`: Calculates VESA CVT (Coordinated Video Timing) modelines for use with X.
-	- Multiple of 60Hz refresh rate required for  reduced blanking.
+	- Multiple of 60Hz refresh rate required for reduced blanking.
 	- Warning: Refresh Rate 144.00 is not CVT standard (50, 60, 75 or 85Hz).
+- `gtf`: Also used for the same
