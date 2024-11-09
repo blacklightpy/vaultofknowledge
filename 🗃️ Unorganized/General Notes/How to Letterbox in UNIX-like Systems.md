@@ -58,6 +58,9 @@ In XRandR (X Rotate and Resize):
 		- That is, it only works via keystone transformations (and that includes rotations and perspectives).
 		- It exists for cases where the projector projects from an angle. (Remember TeachNext)
 
+The Theory: Projective Mapping
+Tools: LPMT (Little Projection Mapping Tool), XRandR Keystone Helper, Desmos (mentioned below in this page)
+
 # Modelines
 - Modes:
 - Modelines: Information about available modes
@@ -91,12 +94,15 @@ You get modelines from EDID, but if they don't exist (like with TVs), we have to
 - Manual Modelines
 
 ### Programs
+#### Modeline Calculators
 - `cvt`: Calculates VESA CVT (Coordinated Video Timing) modelines.
 	- Multiple of 60Hz refresh rate required for reduced blanking (CVT-Reduce Blank / CVT-RB)
 	- Warning: Refresh Rate 144.00 is not CVT standard (50, 60, 75 or 85Hz).
 - `gtf`: Calculates the GTF (Generalized Timing Formula) modelines.
-
+#### Transform Calculators
 - https://www.desmos.com/calculator/d2ioksn1ms: This allows trying out values
 	- Turns out all it does is rotate, resize and reflect
-- xrandr-keystone-helper seems to provide illegal values, as it lets you directly move keystones
-	- It also contradicts with the values provided in Desmos
+- xrandr-keystone-helper: This allows moving keystones
+	- It is different from the values provided in Desmos
+		- Turns out Desmos and XRandr keep different outputs.
+		- One of them shows the pan against the framebuffer, and the other shows the framebuffer against the pan. I don't know which shows which.
