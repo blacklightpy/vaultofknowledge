@@ -18,3 +18,8 @@ I'd prefer for menus to be custom modified, but with the option to inherit some 
 # More Aspects
 - Add Text
 - Add Icons
+
+Is displaying all about canvas and compositing? No, because it also includes behaviour and interactions. So we need to learn:
+- Types of compositions (learn from PicsArt)
+- Types of behaviours (learn from animations and graphics)
+- Types of interactions (learn from UX metrics and philosophy)
