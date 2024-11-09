@@ -80,35 +80,34 @@
 
 (Handles direct hardware interaction for display output)
 
-- **Framebuffer Driver** (Legacy, offloads)
-- **KMS (Kernel Mode Setting)** (Developed as part of DRM)
-- **DRM (Direct Rendering Manager)** (Handles)
-#### Level 2 Components
-##### **Framebuffer Devices**
+- **Framebuffer Driver** (Legacy, offloads mode setting and rendering to user-space programs)
+- **KMS (Kernel Mode Setting)** (Sets mode via kernel to improve early-stage graphics)
+- **DRM (Direct Rendering Manager)** (Handles rendering via kernel to improve latency)
+#### Userspace Components
 
-- **/dev/fb0**
-- **Framebuffer Drivers**
+- **Framebuffer Devices**
+	- **/dev/fb0**
 
-##### **Direct Rendering Infrastructure**
+- **Direct Rendering**
 
-- **Direct Rendering Infrastructure (DRI)** (A part of the X Windowing System Protocol)
-- **OpenGL Direct Rendering** (Used in the Wayland Protocol)
+	- **Direct Rendering Infrastructure (DRI)** (Originally a part of the X Windowing System Protocol)
+	- **OpenGL Direct Rendering** (Used in the Wayland Protocol)
 
 #### **Graphics APIs & Stacks**
 
 (Handles rendering and graphical computation)
 
-- **Standards**:
+- **API Standards**:
 
     - **OpenGL**
     - **Vulkan**
     - **DirectX**
     - **Metal** (Apple’s proprietary graphics API)
-- **Implementations**:
+- **API Implementations**:
     
     - **Mesa** (OpenGL, Vulkan implementation)
     - **LLVMpipe** (Software rasterizer for OpenGL)
-    - **Nouveau** (Open-source **NVIDIA** driver, separate from Mesa)
+    - **Nouveau** (Open-source **NVIDIA** user-space driver, included in Mesa)
 
 #### **Display Protocols**
 
