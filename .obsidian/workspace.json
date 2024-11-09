@@ -318,9 +318,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/Display Concepts.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Display Concepts"
             }
           },
           {
@@ -334,12 +336,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

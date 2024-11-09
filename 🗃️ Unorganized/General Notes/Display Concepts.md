@@ -1,4 +1,28 @@
-### **Low-Level Display Management**
+### Display Hardware Standards
+#### **Display Interfaces & Outputs**
+
+(Hardware interfaces for outputting display signals)
+
+- **DVI**, **HDMI**, **DisplayPort (DP)**, **VGA**
+- **USB-C / Thunderbolt** (Video output and data transfer)
+- **Multi-Stream Transport (MST)** (Daisy-chaining multiple monitors over a single cable)
+#### **Media Protection Protocols**
+
+(Content protection protocols to prevent unauthorized access to digital media)
+
+- **HDCP (High-bandwidth Digital Content Protection)** (Content protection for digital media)
+
+#### **Display Standards & Protocols**
+
+(Standards and protocols for defining display modes and communication)
+
+- **EDID (Extended Display Identification Data)**
+- **VESA Modelines** (Defines resolution timings and modes, often conveyed via EDID)
+
+---
+
+### Software Technologies
+#### **Low-Level Display Management**
 
 (Handles direct hardware interaction for display output)
 
@@ -8,21 +32,12 @@
 
 ---
 
-### **Display Standards & Protocols**
-
-(Standards and protocols for defining display modes and communication)
-
-- **EDID (Extended Display Identification Data)**
-- **VESA Modelines** (Defines resolution timings and modes, often conveyed via EDID)
-
----
-
-### **Graphics APIs & Stacks**
+#### **Graphics APIs & Stacks**
 
 (Handles rendering and graphical computation)
 
 - **Standards**:
-    
+
     - **OpenGL**
     - **Vulkan**
     - **DirectX**
@@ -35,11 +50,11 @@
 
 ---
 
-### **Display Protocols**
+#### **Display Protocols**
 
 (Handles how display systems interact with graphics hardware and manage windows/screens)
 
-#### **General Concepts**
+##### **General Concepts**
 
 - **Compositing**
     - **Compositing Effects** (Shadows, transparency, animations)
@@ -49,7 +64,7 @@
     - **Floating Window Management** (Allowing windows to overlap freely)
     - **Window Placement** (How windows are positioned when opened)
 
-#### **Protocols**
+##### **Protocols**
 
 - **X11** (Display protocol, also known as X Window System)
     
@@ -66,22 +81,6 @@
 - **MIR** (Canonical's display protocol, primarily used with Ubuntu)
     
     - **MIR Compositors** (e.g., **MIR server**)
-
----
-
-### Hardware Standards
-#### **Display Interfaces & Outputs**
-
-(Hardware interfaces for outputting display signals)
-
-- **DVI**, **HDMI**, **DisplayPort (DP)**, **VGA**
-- **USB-C / Thunderbolt** (Video output and data transfer)
-- **Multi-Stream Transport (MST)** (Daisy-chaining multiple monitors over a single cable)
-#### **Protection Protocols**
-
-(Content protection protocols to prevent unauthorized access to digital media)
-
-- **HDCP (High-bandwidth Digital Content Protection)** (Content protection for digital media)
 
 ---
 
@@ -131,5 +130,107 @@
 - **RDP (Remote Desktop Protocol)**
 - **SPICE (Simple Protocol for Independent Computing Environments)**
 
+---
 
 # More Concepts
+
+### Display Devices
+
+#### **Embedded Displays**
+
+- Touchscreen Displays
+- Embedded Linux Framebuffers
+- OLED, LCD, and E-Ink Displays
+
+---
+
+### Display Device Quality Control
+
+#### **Display Portability and Accessibility**
+
+- Display Mirroring
+- Multi-Monitor Support
+- Accessibility Features
+
+---
+
+### Display Hardware Standards
+
+
+---
+
+### Display Hardware Standards / Software Interface
+
+#### **Display Hotplugging**
+
+- EDID (Extended Display Identification Data)
+- DPMS (Display Power Management Signaling)
+- Hotplug Events
+
+#### **V-Sync and Frame Rate Cap**
+
+- Tearing
+- Frame Rate Capping
+- Adaptive Sync
+
+---
+
+### Software Technologies (OS Level)
+#### **Framebuffer**
+
+#### **Framebuffer Devices**
+
+- /dev/fb0
+- Framebuffer Drivers
+
+#### **Direct Rendering**
+
+- Direct Rendering Infrastructure (DRI)
+- OpenGL Direct Rendering
+
+#### **Display Protocol Stack**
+
+- XCB (X C Binding)
+- Wayland Protocols
+- XRender
+
+---
+
+### Software Level (User)
+
+#### **Screen Rotation and Orientation**
+
+- Landscape/Portrait Mode
+- Rotate Mode in X11/Wayland
+
+#### **Display Color Calibration**
+
+- ICC Profiles
+- Color Temperature
+- Hardware Calibration
+
+---
+
+### Graphics Processing Hardware
+#### **GPU Rendering Pipelines**
+
+- Vertex Processing
+- Rasterization
+- Fragment Processing
+- Shader Programs
+- Ray Tracing
+
+#### **Display Memory Management**
+
+- Unified Memory
+- Memory Mapping
+- Memory Leak
+
+---
+
+### **Non-Display Concepts**
+
+- Texture Mapping
+- Anti-Aliasing
+- Post-Processing Effects
+- Frame Buffers and Buffers in VR
