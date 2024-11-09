@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -319,10 +319,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md"
+                "file": "🤠 Personal/Daily Notes/2024-11-09.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Letterbox in UNIX-like Systems"
+              "title": "Outline of 2024-11-09"
             }
           },
           {
@@ -360,14 +360,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1e1466a118b68bcc",
+  "active": "6901a790aa396eb4",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Display Concepts.md",
+    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/My Visual Interface Markup Language.md",
     "🤠 Personal/Daily Notes/2024-11-09.md",
-    "🗃️ Unorganized/General Notes/Display Concepts.md",
     "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
     "🗃️ Unorganized/General Notes/What is science.md",
-    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/My Simple Markup Language.md",
     "🤠 Personal/Daily Notes/2024-11-07.md",
     "🤠 Personal/Daily Notes/2024-11-04.md",
