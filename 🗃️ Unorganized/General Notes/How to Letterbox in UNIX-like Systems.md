@@ -55,3 +55,4 @@ In XRandR (X Rotate and Resize):
 		- `h: 0` (for some skewing?)
 		- `i: 1` (for some skewing?)
 	- Basically, it can shift the perspectives, but not like transform it into a circle.
+	- That is, it only works via keystone transformations (and that includes rotations and perspectives).
