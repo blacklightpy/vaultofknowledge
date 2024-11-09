@@ -107,7 +107,7 @@
     
     - **Mesa** (OpenGL, Vulkan implementation)
     - **LLVMpipe** (Software rasterizer for OpenGL)
-    - **Nouveau** (Open-source **NVIDIA** user-space driver, included in Mesa)
+    - **Nouveau** (Open-source **NVIDIA** driver, the user-space component is included in Mesa)
 
 #### **Display Protocols**
 
