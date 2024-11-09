@@ -1,9 +1,15 @@
 # Areas
+- Mathematical Operations
+	- Prime Number Validation
+- Data Structure Operations
+	- Sorting
+	- Searching
+	- Traversal
+	- Modification
+- Data Compression
 - Image Processing
 	- Scaling
 	- Blurring
 - Classification
-- Data Compression
-- Data Operations
-	- Sorting
-	- 
+	- Image Classification
+		- SIFT
