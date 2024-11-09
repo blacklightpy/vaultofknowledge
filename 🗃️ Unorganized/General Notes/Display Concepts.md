@@ -90,8 +90,8 @@
 
 - **Direct Rendering**
 
-	- **Direct Rendering Infrastructure (DRI)** (Originally a part of the X Windowing System Protocol)
-	- **OpenGL Direct Rendering** (Used in the Wayland Protocol)
+	- **Direct Rendering Infrastructure (DRI)** (Part of the X.Org X11 Server, can access DRM directly)
+	- **OpenGL Direct Rendering** (Can access DRM via libdrm)
 
 #### **Graphics APIs & Stacks**
 
