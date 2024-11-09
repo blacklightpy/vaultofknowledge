@@ -76,14 +76,14 @@
 ---
 
 ### Software Technologies
-#### **Low-Level Display Management**
+#### **Kernel-Level Display Management**
 
 (Handles direct hardware interaction for display output)
 
 - **Framebuffer Driver** (Legacy, offloads mode setting and rendering to user-space programs)
 - **KMS (Kernel Mode Setting)** (Sets mode via kernel to improve early-stage graphics)
 - **DRM (Direct Rendering Manager)** (Handles rendering via kernel to improve latency)
-#### Userspace Components
+#### Userspace-Level Components
 
 - **Framebuffer Devices**
 	- **/dev/fb0**
