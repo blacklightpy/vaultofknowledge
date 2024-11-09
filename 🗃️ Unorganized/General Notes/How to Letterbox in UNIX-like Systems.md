@@ -51,6 +51,7 @@ In XRandR (X Rotate and Resize):
 		- `d: Scale Y * cos Angle`
 		- `e: Scale Y * sin Angle`
 		- `f: Transform Y`
-		- `g: 0` (for Matrix multiplication)
-		- `h: 0` (for Matrix multiplication)
-		- `i: 1` (for Matrix multiplication)
+		- `g: 0` (for some skewing?)
+		- `h: 0` (for some skewing?)
+		- `i: 1` (for some skewing?)
+	- Basically, it can shift the perspectives, but not like transform it into a circle.
