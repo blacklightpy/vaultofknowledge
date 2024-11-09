@@ -95,3 +95,8 @@ You get modelines from EDID, but if they don't exist (like with TVs), we have to
 	- Multiple of 60Hz refresh rate required for reduced blanking (CVT-Reduce Blank / CVT-RB)
 	- Warning: Refresh Rate 144.00 is not CVT standard (50, 60, 75 or 85Hz).
 - `gtf`: Calculates the GTF (Generalized Timing Formula) modelines.
+
+- https://www.desmos.com/calculator/d2ioksn1ms: This allows trying out values
+	- Turns out all it does is rotate, resize and reflect
+- xrandr-keystone-helper seems to provide illegal values, as it lets you directly move keystones
+	- It also contradicts with the values provided in Desmos
