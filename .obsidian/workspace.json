@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -319,10 +319,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Display Concepts.md"
+                "file": "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Display Concepts"
+              "title": "Outline of How to Letterbox in UNIX-like Systems"
             }
           },
           {
@@ -360,8 +360,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a1227bb26366056c",
+  "active": "1e1466a118b68bcc",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Display Concepts.md",
     "🗃️ Unorganized/General Notes/Raster Image Scaling Algorithms.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms.md",
     "🗃️ Unorganized/General Notes/A Priori and A Posteriori.md",
@@ -370,7 +371,6 @@
     "🗃️ Unorganized/General Notes/Image Blurring.md",
     "🗃️ Unorganized/General Notes/Image.md",
     "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
-    "🗃️ Unorganized/General Notes/Display Concepts.md",
     "🤠 Personal/Daily Notes/2024-11-09.md",
     "🗃️ Unorganized/General Notes/My Visual Interface Markup Language.md",
     "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
