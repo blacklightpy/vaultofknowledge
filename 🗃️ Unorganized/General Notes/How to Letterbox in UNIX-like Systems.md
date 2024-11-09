@@ -29,6 +29,7 @@ Notes:
 		- (Sets the Canvas Pan) (Default: Whole Canvas)
 	- Scale
 		- (Sets the DPI Scale for Data)
+		- It is only a shorthand for "transform"
 
 - If only transform is used (with scale), and if the render goes out of screen, moving the mouse out of screen resets scale to 1x1 and stretches.
 	- And of course, without framebuffer, the mouse can go down
@@ -38,4 +39,13 @@ Notes:
 <b><u>NOTE:</u></b>
 - The monitor is set in 1280x720 mode.
 - But it stretches out to the same resolution that 1280x1024 mode takes.
+
+In XRandR (X Rotate and Resize):
+- The values in Transform Matrix are as follows:
+  
+| ROWS () / COLUMNS (R) | COLUMN 1 | COLUMN 2 | COLUMN 3 |
+| --------------------- | -------- | -------- | -------- |
+| ROW 1                 | a        | b        | c        |
+| ROW 2                 | c        | d        | e        |
+| ROW 3                 | e        | f        | g        |
 
