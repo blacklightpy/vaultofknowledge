@@ -1,0 +1,9 @@
+- Level 1
+	- Nearest Neighbour
+	- Bilinear Inetrpolation
+- Level 2
+	- Bicubic Interpolation
+- Level 3
+	- Sync Resampling
+	- Lanczos Resampling
+	- Neural Networks
