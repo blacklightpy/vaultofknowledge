@@ -41,11 +41,16 @@ Notes:
 - But it stretches out to the same resolution that 1280x1024 mode takes.
 
 In XRandR (X Rotate and Resize):
-- The values in Transform Matrix are as follows:
-  
-| ROWS () / COLUMNS (R) | COLUMN 1 | COLUMN 2 | COLUMN 3 |
-| --------------------- | -------- | -------- | -------- |
-| ROW 1                 | a        | b        | c        |
-| ROW 2                 | c        | d        | e        |
-| ROW 3                 | e        | f        | g        |
 
+  - The following is the Transform Matrix
+	- $\begin{bmatrix} a & b & c \\ d & e & f \\ g & i & h \end{bmatrix}$
+	- The values in Transform Matrix are as follows:
+		- `a: `
+		- `b: `
+		- `c: `
+		- `d: `
+		- `e: `
+		- `f: `
+		- `g: 0`
+		- `h: 0`
+		- `i: 1`
