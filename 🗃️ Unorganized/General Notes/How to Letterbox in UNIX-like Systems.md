@@ -45,12 +45,12 @@ In XRandR (X Rotate and Resize):
   - The following is the Transform Matrix
 	- $\begin{bmatrix} a & b & c \\ d & e & f \\ g & i & h \end{bmatrix}$
 	- The values in Transform Matrix are as follows:
-		- `a: `
-		- `b: `
-		- `c: `
-		- `d: `
-		- `e: `
-		- `f: `
-		- `g: 0`
-		- `h: 0`
-		- `i: 1`
+		- `a: Scale X * cos Angle`
+		- `b: Scale X * sin Angle`
+		- `c: Transform X`
+		- `d: Scale Y * cos Angle`
+		- `e: Scale Y * sin Angle`
+		- `f: Transform Y`
+		- `g: 0` (for Matrix multiplication)
+		- `h: 0` (for Matrix multiplication)
+		- `i: 1` (for Matrix multiplication)
