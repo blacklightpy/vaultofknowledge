@@ -1,0 +1,4 @@
+- A Priori is something that can be derived from reason alone
+	- e.g. If there are 4 bananas, there are also 3 bananas there.
+- A Posteriori is something that needs to be empirically verified
+	- e.g. There are 4 bananas in the bowl
