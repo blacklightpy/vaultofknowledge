@@ -1,3 +1,9 @@
+
+# Table of Contents
+- First Draft (Nice and Neat)
+- More Concepts (to add)
+
+# First Draft (Nice and Neat)
 ### Display Hardware Standards
 #### **Display Interfaces & Outputs**
 
@@ -30,8 +36,6 @@
 - **Framebuffer**
 - **DRM (Direct Rendering Manager)**
 
----
-
 #### **Graphics APIs & Stacks**
 
 (Handles rendering and graphical computation)
@@ -47,8 +51,6 @@
     - **Mesa** (OpenGL, Vulkan implementation)
     - **LLVMpipe** (Software rasterizer for OpenGL)
     - **Nouveau** (Open-source **NVIDIA** driver, separate from Mesa)
-
----
 
 #### **Display Protocols**
 
@@ -132,7 +134,7 @@
 
 ---
 
-# More Concepts
+# More Concepts (to add)
 
 ### Display Devices
 
@@ -211,6 +213,15 @@
 
 ---
 
+### **Related Graphics Concepts**
+
+- Texture Mapping
+- Anti-Aliasing
+- Post-Processing Effects
+- Frame Buffers and Buffers in VR
+
+---
+
 ### Graphics Processing Hardware
 #### **GPU Rendering Pipelines**
 
@@ -228,9 +239,5 @@
 
 ---
 
-### **Non-Display Concepts**
+### Tools
 
-- Texture Mapping
-- Anti-Aliasing
-- Post-Processing Effects
-- Frame Buffers and Buffers in VR

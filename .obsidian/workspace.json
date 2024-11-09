@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -319,10 +319,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Display Concepts.md"
+                "file": "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Display Concepts"
+              "title": "Outline of How to Letterbox in UNIX-like Systems"
             }
           },
           {
@@ -340,7 +340,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,20 +360,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a1227bb26366056c",
+  "active": "1e1466a118b68bcc",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Display Concepts.md",
-    "🤠 Personal/Daily Notes/2024-11-09.md",
     "🗃️ Unorganized/General Notes/My Visual Interface Markup Language.md",
+    "🤠 Personal/Daily Notes/2024-11-09.md",
+    "🗃️ Unorganized/General Notes/Display Concepts.md",
+    "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
+    "🗃️ Unorganized/General Notes/What is science.md",
+    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
+    "🗃️ Unorganized/General Notes/My Simple Markup Language.md",
     "🤠 Personal/Daily Notes/2024-11-07.md",
     "🤠 Personal/Daily Notes/2024-11-04.md",
     "🤠 Personal/Daily Notes",
-    "🗃️ Unorganized/General Notes/My Simple Markup Language.md",
-    "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗃️ Unorganized/General Notes/Passwordless Login.md",
-    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
-    "🗃️ Unorganized/General Notes/What is science.md",
     "🗃️ Unorganized/General Notes/Fancy Communist Ideations.md",
     "🗃️ Unorganized/General Notes/Identity Protocols.md",
     "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Hardware Security Module.md",

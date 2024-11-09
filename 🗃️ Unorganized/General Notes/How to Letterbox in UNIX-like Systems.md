@@ -81,7 +81,15 @@ That is, it contains:
 
 You get modelines from EDID, but if they don't exist (like with TVs), we have to manually calculate them.
 
-- `cvt`: Calculates VESA CVT (Coordinated Video Timing) modelines for use with X.
-	- Multiple of 60Hz refresh rate required for reduced blanking.
+### Timing Standards
+- GTF
+- DMT (Discrete Monitor Timings)
+- VESA CVT (Coordinated Video Timing)
+- VESA CVT-RB (Coordinated Video Timing - Reduced Blanking)
+- Manual Modelines
+
+### Programs
+- `cvt`: Calculates VESA CVT (Coordinated Video Timing) modelines.
+	- Multiple of 60Hz refresh rate required for reduced blanking (CVT-Reduce Blank / CVT-RB)
 	- Warning: Refresh Rate 144.00 is not CVT standard (50, 60, 75 or 85Hz).
-- `gtf`: Also used for the same
+- `gtf`: Calculates the GTF (Generalized Timing Formula) modelines.
