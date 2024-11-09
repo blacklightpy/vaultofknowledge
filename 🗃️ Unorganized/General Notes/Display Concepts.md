@@ -80,10 +80,10 @@
 
 (Handles direct hardware interaction for display output)
 
-- **KMS (Kernel Mode Setting)**
-- **Framebuffer**
-- **DRM (Direct Rendering Manager)**
-
+- **Framebuffer Driver** (Legacy, offloads)
+- **KMS (Kernel Mode Setting)** (Developed as part of DRM)
+- **DRM (Direct Rendering Manager)** (Handles)
+#### Level 2 Components
 ##### **Framebuffer Devices**
 
 - **/dev/fb0**
@@ -91,8 +91,8 @@
 
 ##### **Direct Rendering Infrastructure**
 
-- **Direct Rendering Infrastructure (DRI)** (X Windowing System)
-- **OpenGL Direct Rendering** (Wayland)
+- **Direct Rendering Infrastructure (DRI)** (A part of the X Windowing System Protocol)
+- **OpenGL Direct Rendering** (Used in the Wayland Protocol)
 
 #### **Graphics APIs & Stacks**
 
