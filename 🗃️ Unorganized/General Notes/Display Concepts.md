@@ -4,6 +4,26 @@
 - More Concepts (to add)
 
 # First Draft (Nice and Neat)
+### Display Devices
+
+#### **Embedded Displays**
+
+- Touchscreen Displays
+- Embedded Linux Framebuffers
+- OLED, LCD, and E-Ink Displays
+
+---
+
+### **Display Device Quality Control**
+
+#### **Display Portability and Accessibility**
+
+- **Display Mirroring**
+- **Multi-Monitor Support**
+- **Accessibility Features**
+
+---
+
 ### Display Hardware Standards
 #### **Display Interfaces & Outputs**
 
@@ -18,12 +38,40 @@
 
 - **HDCP (High-bandwidth Digital Content Protection)** (Content protection for digital media)
 
-#### **Display Standards & Protocols**
+---
+
+### **Display Hardware Standards / Software Interface**
+
+#### **Display Information Standards & Protocols**
 
 (Standards and protocols for defining display modes and communication)
 
 - **EDID (Extended Display Identification Data)**
 - **VESA Modelines** (Defines resolution timings and modes, often conveyed via EDID)
+
+#### **Display Hotplugging**
+
+- **EDID (Extended Display Identification Data)**
+- **DPMS (Display Power Management Signaling)**
+- **Hotplug Events**
+
+#### **V-Sync and Frame Rate Cap**
+
+- **Tearing**
+- **Frame Rate Capping**
+- **Adaptive Sync**
+
+---
+
+### **Software Technologies (Core OS Level)**
+
+
+
+#### **Display Protocol Stack**
+
+- **XCB (X C Binding)**
+- **Wayland Protocols**
+- **XRender**
 
 ---
 
@@ -35,6 +83,16 @@
 - **KMS (Kernel Mode Setting)**
 - **Framebuffer**
 - **DRM (Direct Rendering Manager)**
+
+##### **Framebuffer Devices**
+
+- **/dev/fb0**
+- **Framebuffer Drivers**
+
+##### **Direct Rendering Infrastructure**
+
+- **Direct Rendering Infrastructure (DRI)** (X Windowing System)
+- **OpenGL Direct Rendering** (Wayland)
 
 #### **Graphics APIs & Stacks**
 
@@ -86,6 +144,21 @@
 
 ---
 
+### **Software Level (User)**
+
+#### **Screen Rotation and Orientation**
+
+- **Landscape/Portrait Mode**
+- **Rotate Mode in X11/Wayland**
+
+#### **Display Color Calibration**
+
+- **ICC Profiles**
+- **Color Temperature**
+- **Hardware Calibration**
+
+---
+
 ### **Key Visual Concepts**
 
 #### High Level Concepts
@@ -117,9 +190,23 @@
 
 (Physical components responsible for rendering and display output)
 
-- **GPU (Graphics Processing Unit)**
-    - **GPU Memory (VRAM)**
-    - **GPU Offloading** (Using the GPU to accelerate non-graphical workloads)
+#### **GPU (Graphics Processing Unit)**
+
+- **GPU Memory (VRAM)**
+- **GPU Offloading** (Using the GPU to accelerate non-graphical workloads)
+#### **GPU Rendering Pipelines**
+
+- **Vertex Processing**
+- **Rasterization**
+- **Fragment Processing**
+- **Shader Programs**
+- **Ray Tracing**
+
+#### **Display Memory Management**
+
+- **Unified Memory**
+- **Memory Mapping**
+- **Memory Leak**
 
 ---
 
@@ -134,110 +221,9 @@
 
 ---
 
-# More Concepts (to add)
-
-### Display Devices
-
-#### **Embedded Displays**
-
-- Touchscreen Displays
-- Embedded Linux Framebuffers
-- OLED, LCD, and E-Ink Displays
-
----
-
-### Display Device Quality Control
-
-#### **Display Portability and Accessibility**
-
-- Display Mirroring
-- Multi-Monitor Support
-- Accessibility Features
-
----
-
-### Display Hardware Standards
-
-
----
-
-### Display Hardware Standards / Software Interface
-
-#### **Display Hotplugging**
-
-- EDID (Extended Display Identification Data)
-- DPMS (Display Power Management Signaling)
-- Hotplug Events
-
-#### **V-Sync and Frame Rate Cap**
-
-- Tearing
-- Frame Rate Capping
-- Adaptive Sync
-
----
-
-### Software Technologies (OS Level)
-#### **Framebuffer**
-
-#### **Framebuffer Devices**
-
-- /dev/fb0
-- Framebuffer Drivers
-
-#### **Direct Rendering**
-
-- Direct Rendering Infrastructure (DRI)
-- OpenGL Direct Rendering
-
-#### **Display Protocol Stack**
-
-- XCB (X C Binding)
-- Wayland Protocols
-- XRender
-
----
-
-### Software Level (User)
-
-#### **Screen Rotation and Orientation**
-
-- Landscape/Portrait Mode
-- Rotate Mode in X11/Wayland
-
-#### **Display Color Calibration**
-
-- ICC Profiles
-- Color Temperature
-- Hardware Calibration
-
----
-
 ### **Related Graphics Concepts**
 
-- Texture Mapping
-- Anti-Aliasing
-- Post-Processing Effects
-- Frame Buffers and Buffers in VR
-
----
-
-### Graphics Processing Hardware
-#### **GPU Rendering Pipelines**
-
-- Vertex Processing
-- Rasterization
-- Fragment Processing
-- Shader Programs
-- Ray Tracing
-
-#### **Display Memory Management**
-
-- Unified Memory
-- Memory Mapping
-- Memory Leak
-
----
-
-### Tools
-
+- **Texture Mapping**
+- **Anti-Aliasing**
+- **Post-Processing Effects**
+- **Frame Buffers and Buffers in VR**
