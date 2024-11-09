@@ -56,3 +56,24 @@ In XRandR (X Rotate and Resize):
 		- `i: 1` (for some skewing?)
 	- Basically, it can shift the perspectives, but not like transform it into a circle.
 	- That is, it only works via keystone transformations (and that includes rotations and perspectives).
+
+# Modelines
+- Modes:
+- Modelines: VESA Standard
+
+Modeline Syntax: `Modeline "String description" Dot-Clock HDisp HSyncStart HSyncEnd HTotal VDisp VSyncStart VSyncEnd VTotal [options]`
+
+That is, it contains:
+- Mode Name
+- Dot Clock (Pixel Clock)
+- Horizontal Pixels
+- Horizontal Sync Start
+- Horizontal Sync End
+- Horizontal Total
+- 
+
+You get modelines from EDID, but if they don't exist (like with TVs), we have to manually calculate them.
+
+- `cvt`: Calculates VESA CVT (Coordinated Video Timing) modelines for use with X.
+	- Multiple of 60Hz refresh rate required for  reduced blanking.
+	- Warning: Refresh Rate 144.00 is not CVT standard (50, 60, 75 or 85Hz).
