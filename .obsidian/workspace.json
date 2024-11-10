@@ -128,18 +128,6 @@
             }
           },
           {
-            "id": "88b7a67dd78ca516",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
             "id": "6901a790aa396eb4",
             "type": "leaf",
             "state": {
@@ -170,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -342,11 +330,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "88b7a67dd78ca516",
+  "active": "a1227bb26366056c",
   "lastOpenFiles": [
+    "🗃️ Unorganized/General Notes/Pan and Scan.md",
+    "_images/16 by 9 Aspect Ratio.png",
+    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/My Simple Markup Language.md",
     "🗃️ Unorganized/General Notes/My Visual Interface Markup Language.md",
-    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/Display Concepts.md",
     "🗃️ Unorganized/General Notes/Raster Image Scaling Algorithms.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms.md",
@@ -369,8 +359,6 @@
     "🗃️ Unorganized/General Notes/De-Latinization of Science.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
     "🗃️ Unorganized/General Notes/Password Authentication Strategy.md",
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Password Management Strategy.md",
-    "🔮 World Building/Science and Engineering/Information and Communication Technology/Information Security/Password Reset Mechanism.md",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
@@ -382,7 +370,6 @@
     "_images/Usool al-Hadeeth - Tarjeeh.jpg",
     "_images/Usool al-Hadeeth - Overview.png",
     "_images/Usool al-Hadeeth - Conclusion.jpg",
-    "_images/SSD Flash Storage.webp",
-    "_images/Parts of a Jet Engine.gif"
+    "_images/SSD Flash Storage.webp"
   ]
 }
