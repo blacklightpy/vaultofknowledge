@@ -23,3 +23,5 @@ Is displaying all about canvas and compositing? No, because it also includes beh
 - Types of compositions (learn from PicsArt)
 - Types of behaviours (learn from animations and graphics)
 - Types of interactions (learn from UX metrics and philosophy)
+
+QML Types are like the Game Engine object types. Cool.

@@ -106,3 +106,4 @@ You get modelines from EDID, but if they don't exist (like with TVs), we have to
 	- It is different from the values provided in Desmos
 		- Turns out Desmos and XRandr keep different outputs.
 		- One of them shows the pan against the framebuffer, and the other shows the framebuffer against the pan. I don't know which shows which.
+- LPMT (Little Projection Mapping Tool)
