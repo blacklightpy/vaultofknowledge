@@ -53,6 +53,7 @@
 - F4PGA (formerly SymbiFlow)
 	- Synthesis Tool: Yosys Open SYnthesis Suite
 	- Place and Route Tool: Yosys nextpnr
+- Enjoy-Digital LiteX (See FOSDEM 2023: https://archive.fosdem.org/2023/schedule/event/fpga_bitstreams/)
 
 > [!NOTE]
 > OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
@@ -71,7 +72,7 @@ The FPGA bitstreams are vendor secrets, and open source development boards are m
 - iCEBreaker FPGA (Lattice iCE40 based)
 - Embedded Micro Mojo V3 FPGA
 ### FPGA Fabrics
-Lattice Semiconductor, Microchip, Xilinx, Intel, Analog Devices, QuickLogic
+- Companies: Lattice Semiconductor, Microchip, Xilinx, Intel, Analog Devices, QuickLogic
 # Designs
 ## Organizations
 - OpenCores.org
