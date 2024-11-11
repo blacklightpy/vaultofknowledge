@@ -1,0 +1,1 @@
+We have to always use branding. It is the process of making oneself stand out from the rest.
