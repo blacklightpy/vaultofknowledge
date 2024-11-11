@@ -64,7 +64,7 @@
 - Boko Haram (meaning, "Fake is Forbidden", with "fake" referring to Western education or secular ethics)
 	- Originally called Jamaa'at Ahl as-Sunnah lid-Da'wah wa'al-Jihaad (meaning, 'Group of the People of Tradition for Call and Struggle", with "call" meaning call to their creed, and "struggle" meaning, according to the tenets of their creed)
 - al-Shabaab (meaning, "The Youth")
-	- Originally
+	- Originally Harakat al-Shabaab al-Mujahideen (meaning, "Youth Strugglers Movement", "struggle" meaning, according to the tenets of their creed)
 # Regional Resistance Groups
 ## Palestine
 - Hamas
