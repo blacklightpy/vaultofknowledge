@@ -178,13 +178,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Free Hardware Projects.md",
+                "file": "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Free Hardware Projects"
+              "title": "FPGAs"
             }
           },
           {
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -375,9 +375,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "59dc46e826c28f59",
+  "active": "2185e7c13d0c0f8e",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Free Hardware Projects.md",
+    "🗃️ Unorganized/General Notes/Steps encountered when installing Void.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
     "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Salaafi Jihadism.md",
@@ -404,7 +405,6 @@
     "🤠 Personal/Daily Notes",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🗃️ Unorganized/General Notes/Passwordless Login.md",
-    "🗃️ Unorganized/General Notes/Identity Protocols.md",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
     "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",

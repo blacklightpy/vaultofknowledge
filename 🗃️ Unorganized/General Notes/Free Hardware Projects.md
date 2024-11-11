@@ -19,6 +19,7 @@
 - BeagleBoard Beagle-V Ahead (TH1520)
 - Sipeed LicheePi 4A (TH1520; Also has tablet, workstation array and console form factors for the LM4A board)
 - Planned Sipeed SBC based on C908 with RVV Extensions v1.0 (https://twitter.com/SipeedIO/status/1654055669774036993/photo/1)
+- Milk-V Jupiter (SpacemiT-K1)
 # Processors
 ## SoC
 - AMIGA Chipset SoC
@@ -28,6 +29,10 @@
 - Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech BXM-4-64 GPU + 4 TOPS NPU)
 - StarFive JH8100 (upcoming, 12nm)
 - SOPHON SG2042 (64 x C920; RV V Extension 0.7.1)
+- SpacemiT
+- XiangShan
+
+Verilog Simulations: See Readme here: https://github.com/openhwgroup/cva6 (can execute helloworld.c in Simulator)
 ## CPU
 - Shakti Open Core
 - XuanTie by T-Head
