@@ -52,7 +52,7 @@
 	- They justify Jihaad with the Qur'aan's Ayah 2:216, which states: 
 		- "Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know."
 		- But this is the Ayah taken out of context, like all Jihadist groups do. Specifically, this was written for a time of war, when the Arabs were being under threat from the Quraysh tribes of Mecca. This Ayah was to give them hope for war. It also had verses requiring them to protect all the civilians who have made peace with them, or taken refuge with them, and even the war was against people who had broken the peace treaty between tribes, titled the "Constitution of Medina". 
-- al-Qai'dah (meaning, "The Foundation")
+- al-Qai'dah (meaning, "The Foundation", of their creed)
 	- Basically less religiously trained, but global
 	- Compared to IS (Source: [IS vs Al-Qaeda](https://ctc.westpoint.edu/the-crisis-within-jihadism-the-islamic-states-puritanism-vs-al-qaidas-populism/)):
 		- Takes an inclusive, pragmatic, populist approach
@@ -61,8 +61,10 @@
 		- De-emphasizes sectarianism
 		- Cooperates with a wide range of political and military factions
 		- Thinks IS is a neo-Kharijite deviation from Salaafism (remember, Salafism is just the belief that all should follow the Quran, people do it quietly, as Islamists, or as extremists, jihadists)
-- Boko Haram
-- al-Shabaab
+- Boko Haram (meaning, "Fake is Forbidden", with "fake" referring to Western education or secular ethics)
+	- Originally called Jamaa'at Ahl as-Sunnah lid-Da'wah wa'al-Jihaad (meaning, 'Group of the People of Tradition for Call and Struggle", with "call" meaning call to their creed, and "struggle" meaning, according to the tenets of their creed)
+- al-Shabaab (meaning, "The Youth")
+	- Originally
 # Regional Resistance Groups
 ## Palestine
 - Hamas
