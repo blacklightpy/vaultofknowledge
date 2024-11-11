@@ -57,6 +57,7 @@ In XRandR (X Rotate and Resize):
 	- Basically, it can shift the perspectives, but not like transform it into a circle.
 		- That is, it only works via keystone transformations (and that includes rotations and perspectives).
 		- It exists for cases where the projector projects from an angle. (Remember TeachNext)
+	- See more: https://unix.stackexchange.com/questions/774967/can-someone-please-explain-how-xrandr-scale-works
 
 The Theory: Projective Mapping
 Tools: LPMT (Little Projection Mapping Tool), XRandR Keystone Helper, Desmos (mentioned below in this page)
