@@ -54,8 +54,11 @@ Verilog Simulations: See Readme here: https://github.com/openhwgroup/cva6 (can e
 > - FPGA Cores can be implemented on FPGA development boards. Also, a compiled FPGA project is only supported on that toolchain, and if it is not open-source, the only way others can use it is by reverse engineering.
 > - FPGA Development boards are based on FPGA Fabrics. The bitstreams associated with the FPGA Fabrics are usually proprietary and compiled using vendor software, but reverse engineering projects have led to the availability of open source development boards.
 ### FPGA Design Tooling
+
+Steps: Verilog RTL > [Synthesis] > Netlist > [Place and Route] > Config > [Translate] > Bitstream
+
 - OpenFPGA - A complete FPGA development framework
-- F4PGA (formerly SymbiFlow)
+- F4PGA by CHIPS Alliance (formerly SymbiFlow)
 	- Synthesis Tool: Yosys Open SYnthesis Suite
 	- Place and Route Tool: Yosys nextpnr
 - Enjoy-Digital LiteX (See FOSDEM 2023: https://archive.fosdem.org/2023/schedule/event/fpga_bitstreams/)
