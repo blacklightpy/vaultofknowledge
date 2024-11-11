@@ -51,7 +51,8 @@
 ### FPGA Design Tooling
 - OpenFPGA - A complete FPGA development framework
 - F4PGA (formerly SymbiFlow)
-- Yosys Open Synthesis Suite - It is the framework used by F4PGA
+	- Synthesis Tool: Yosys Open SYnthesis Suite
+	- Place and Route Tool: Yosys nextpnr
 
 > [!NOTE]
 > OSHW Guidelines: https://www.oshwa.org/best-practices-for-sharing-fpga-designs-2/
