@@ -2,7 +2,7 @@
 - Wahhabism
 	- Followers of the idea of Mohammed ibn Abd' al-Wahhab, to follow the Salaaf, or Salaafism.
 	- The term is not used by the followers of Abd' al-Wahhab, who prefer the term Salaafism, and is used by other people. 
-- Salaaf
+- Salaaf (The Three Righteous Generations)
 	- They refer to the first three generations of Muslims.
 - Salaafism
 	- A conservative belief system that says Muslims should follow the Quran, Sunnah and Ijma' (Consensus) of the Salaaf.
@@ -10,13 +10,13 @@
 		- 1) Purists / Quietists
 		- 2) Activists
 		- 3) Jihaadists
-- Jihaadism
+- Jihaadism (Struggle)
 	- Attempt to establish Islamic rule by force
 - Salaafi Jihaadism / Jihaadist Salaafism
 	- The correct term for these attacks
 - Global Jihaad
 	- Jihaadism with an international pan-Islamist scope.
-- Mujaahid
+- Mujaahid (Struggler)
 	- One engaged in Jihaad
 # Groups
 - Taliban
@@ -67,7 +67,7 @@
 	- Originally Harakat al-Shabaab al-Mujahideen (meaning, "Youth Strugglers Movement", "struggle" meaning, according to the tenets of their creed)
 # Regional Resistance Groups
 ## Palestine
-- Hamas
+- Hamas / Harakat al-Muqaawamah al-Islaamiyya (The SubmissMovement of Resistance)
 	- Had its origin with the peaceful Muslim Brotherhood, which later turned violent
 	- Hamas is the manifestation of Muslim Brotherhood, fighting for the Palestinian cause alone
 	- They fight to establish take back the entire land of Palestine, and establish an Islamic state.
@@ -79,4 +79,4 @@
 - Palestinian Liberation Organization (PLO)
 	- Used to be in West Bank
 ## Lebanon
-- Hezbollah
+- Hezbollah (Party of Allah)

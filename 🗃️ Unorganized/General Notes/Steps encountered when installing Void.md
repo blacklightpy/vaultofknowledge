@@ -64,6 +64,8 @@ TODO: Add instructions on enabiling other services like elogind, socklog-void, n
 	- After reboot, setup a new user
 	- Optional: Install zsh/fish shell
 	- Optional: Set default user shell
+	- Recommended: Disable bitmap fonts and regenerate font cache
+		- Also copy over the config file to any Flatpak apps which have this issue
 - Install graphical environment
 	- Install X.org server if using an X11 graphical environment: `sudo xbps-install xorg`
 	- Install a graphical environment of your choice
