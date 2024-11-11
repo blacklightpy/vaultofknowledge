@@ -29,8 +29,10 @@
 - Alibaba T-Head TH1520 (4x XuanTie C910 + Imagination Tech BXM-4-64 GPU + 4 TOPS NPU)
 - StarFive JH8100 (upcoming, 12nm)
 - SOPHON SG2042 (64 x C920; RV V Extension 0.7.1)
-- SpacemiT
-- XiangShan
+- SpacemiT (RVV Extensions 1.0.0)
+- XiangShan V3
+- VRoom! (may not release)
+- SonicBOOM 
 
 Verilog Simulations: See Readme here: https://github.com/openhwgroup/cva6 (can execute helloworld.c in Simulator)
 ## CPU
