@@ -19,12 +19,12 @@
 - Mujaahid (Struggler)
 	- One engaged in Jihaad
 # Groups
-- Taliban
+- Taalibaan (Students)
 	- Also known by its state name Islamic Emirate of Afghanistan
 	- It ruled Afghanistan from 1996-2001
-	- Following 9/11 Attacks, US invaded Afghanistan and overthrew the Taliban
+	- Following 9/11 Attacks, US invaded Afghanistan and overthrew the Taalibaan
 	- They captured Afghanistan on 15 August 2021, after 20 years of insurgency
-	- Taliban is condemned for human rights violations, such as the right of women and girls to work and education
+	- Taalibaan is condemned for human rights violations, such as the right of women and girls to work and education
 	- Taliban has a more localized goal
 - Pakistani Taliban
 	- A branch of Taliban
@@ -44,7 +44,7 @@
 		- Thinks IS is the only faction on the pure Salaafi path
 - Islamic State of Iraq
 	- Formerly Al-Qaeda in Iraq
-- Lakshar-e-Taiba
+- Lakshar-e-Taiba (Army of the Righteous)
 	- From Pakistan
 	- They are followers of Ahl-e-Hadeeth, a South Asian Salaafi Jihadist group
 - Ahl-e-Hadeeth (People of Narrations (of Muhammad and his Companions))
@@ -67,7 +67,7 @@
 	- Originally Harakat al-Shabaab al-Mujahideen (meaning, "Youth Strugglers Movement", "struggle" meaning, according to the tenets of their creed)
 # Regional Resistance Groups
 ## Palestine
-- Hamas / Harakat al-Muqaawamah al-Islaamiyya (The SubmissMovement of Resistance)
+- Hamas / Harakat al-Muqaawamah al-Islaamiyya (The Movement of Resistance by the Path of Submission)
 	- Had its origin with the peaceful Muslim Brotherhood, which later turned violent
 	- Hamas is the manifestation of Muslim Brotherhood, fighting for the Palestinian cause alone
 	- They fight to establish take back the entire land of Palestine, and establish an Islamic state.
