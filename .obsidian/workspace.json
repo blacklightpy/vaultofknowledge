@@ -156,21 +156,9 @@
               "icon": "lucide-file",
               "title": "The Inheritance of Sin"
             }
-          },
-          {
-            "id": "bada3a2e299a3b84",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -342,14 +330,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bada3a2e299a3b84",
+  "active": "47788a6e2a9420cd",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/Steps encountered when installing Void.md",
+    "🗃️ Unorganized/General Notes/What is science.md",
+    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/The Inheritance of Sin.md",
+    "🗃️ Unorganized/General Notes/Steps encountered when installing Void.md",
     "🗃️ Unorganized/General Notes/Free Hardware Projects.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Salaafi Jihadism.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Hardware/FPGAs.md",
-    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
     "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
     "🤠 Personal/Daily Notes/2024-11-09.md",
     "🗃️ Unorganized/General Notes/Branding.md",
@@ -366,7 +355,6 @@
     "🗃️ Unorganized/General Notes/Decision Trees.md",
     "🗃️ Unorganized/General Notes/Image Blurring.md",
     "🗃️ Unorganized/General Notes/Image.md",
-    "🗃️ Unorganized/General Notes/What is science.md",
     "🤠 Personal/Daily Notes/2024-11-07.md",
     "🤠 Personal/Daily Notes/2024-11-04.md",
     "🤠 Personal/Daily Notes",
