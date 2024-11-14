@@ -156,9 +156,21 @@
               "icon": "lucide-file",
               "title": "The Inheritance of Sin"
             }
+          },
+          {
+            "id": "bada3a2e299a3b84",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -330,7 +342,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "beba24a0b5f2cc81",
+  "active": "bada3a2e299a3b84",
   "lastOpenFiles": [
     "🗃️ Unorganized/General Notes/Steps encountered when installing Void.md",
     "🗃️ Unorganized/General Notes/The Inheritance of Sin.md",
