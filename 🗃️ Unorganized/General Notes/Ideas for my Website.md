@@ -48,28 +48,50 @@ To expand:
 |  |- Morals
 |  |- Communication
 |  |- City Planning
+
+
+Knowledge:
+|- Coding Languages
+|  |- General Programming Languages
+|  |  |- C
+|  |  |- C++
+|  |  |- Python
+|  |  |- C#
+|  |  |- JavaScript
+|  |  |- Java
+|  |  |- Rust
+|  |- General Scripting Languages
+|  |  |- Lua
+|  |  |- Pawn
+|  |- Specialized Scripting Languages
+|  |  |- VimScript
+|  |  |- QML
+|  |- Other Computer Oriented
+|  |  |- HyperText Markup Language
+|  |  |- OpenGL Shading Language
+|  |- Numerical Control
+|  |  |- G-Codes
+|- Frameworks
+|  |- Qt
+|  |- GTK+
+|  |- .NET Framework
+|  |- Node.js
+|  |- GStreamer
+
 |- Designing
 |  |- Encoded Ideas
-|  |  |- Coding
-|  |  |  |- General Computer Program Language
-|  |  |  |  |- Internet Programs
-|  |  |  |  |  |- Program
-|  |  |  |  |  |- User Interface
-|  |  |  |  |- General Software
-|  |  |  |  |  |- Program
-|  |  |  |  |  |- User Interface
-|  |  |- Domain Specific Languages 
-|  |  |  |- Database Management
-|  |  |  |- General Scripting Languages
-|  |  |  |  |- Lua
-|  |  |  |  |- Pawn
-|  |  |  |- Specialized Scripting Languages
-|  |  |  |  |- VimScript
-|  |  |  |  |- QML
-|  |  |  |- Graphics
-|  |  |  |  |- OpenGL Shading Language
-|  |  |  |- Numerical Control
-|  |  |  |  |- G-Code
+
+
+
+Designing:
+|- Basic Components
+|  |- Control System
+|  |- User Interface
+|- Program Domain
+|  |- Internet Programs
+|  |- Computer Software
+
+
 |  |  |- Writing
 |  |  |  |- Documentation
 |  |- Tangible Items
