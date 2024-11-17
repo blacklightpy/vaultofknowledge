@@ -1,4 +1,4 @@
-See mirros.tnonline.net
+See https://mirrors.tnonline.net
 
 My notes could be:
 ```
@@ -6,6 +6,12 @@ My notes could be:
 |- knowledge
 |- designing
 |- creative
+```
+
+```
+                                REALITY / GOD
+
+LIFE (PEOPLE, HEALTH, POLITICS) | INTERACTION (AIR, FOOD, UX) | WORLD (PHYSICS, TECHNOLOGY)
 ```
 
 To expand:
@@ -24,10 +30,18 @@ To expand:
    |- study of material culture
    |- study of symbolic culture
    |- study of earth
+   |- study of planets
+   |- study of stars
+   |- study of evolution of the universe
+   |- study of unseen reality
    |- study of things
       |- study of interactions between things
-      |- study of 
+      |- study of evolution of 
    |- study of living things
+      |- classification of living things
+      |- study of animals
+      |- study of birds
+      |- study of plants
    |- study of fossils
    |- study of description (math)
 
