@@ -80,20 +80,22 @@ Knowledge:
 
 |- Designing
 |  |- Encoded Ideas
-
-
-
-Designing:
-|- Basic Components
-|  |- Control System
-|  |- User Interface
-|- Program Domain
-|  |- Internet Programs
-|  |- Computer Software
-
-
+|  |  |- Programs
+|  |  |  |- Basic Components
+|  |  |  |  |- Data Control System
+|  |  |  |  |- Data Transport System
+|  |  |  |  |- User Interface
+|  |  |  |- Program Domain
+|  |  |  |  |- Computer Services
+|  |  |  |  |- Interactive Programs
+|  |  |  |  |  |- Computer Programs
+|  |  |  |  |  |- Internet Programs
+|  |  |  |  |  |- Internet Portals (Web Sites)
+|  |  |  |  |- Numerical Control
 |  |  |- Writing
 |  |  |  |- Documentation
+|  |  |  |- Internet P
+
 |  |- Tangible Items
 |  |  |- Manual Tools
 |  |  |- Powered Tools
