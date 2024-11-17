@@ -50,8 +50,33 @@ To expand:
 |  |- City Planning
 
 
+
+|- Designing
+|  |- Encoded Ideas
+|  |  |- Strict Code Works
+|  |  |- Markup Language Works
+|  |  |- Natural Language Works
+|  |  |- Technical Drawing
+|  |- Tangible Items
+|  |  |- Manual Tools
+|  |  |- Powered Tools
+|  |  |- Clockwork Devices
+|  |  |- Electronic Devices
+|  |- Constructed Structures
+|  |  |- House
+|  |  |- Buildings
+
+|- Creative
+|  |- Drawing
+|  |- Music
+|  |- Statues
+```
+
+More
+
+```
 Knowledge:
-|- Coding Languages
+|- Strict Code
 |  |- General Programming Languages
 |  |  |- C
 |  |  |- C++
@@ -80,33 +105,33 @@ Knowledge:
 
 |- Designing
 |  |- Encoded Ideas
-|  |  |- Programs
-|  |  |  |- Basic Components
-|  |  |  |  |- Data Control System
-|  |  |  |  |- Data Transport System
-|  |  |  |  |- User Interface
+|  |  |- Strict Code Works
+|  |  |  |- General Programming
+|  |  |  |  |- Basic Components
+|  |  |  |  |  |- Data Control System
+|  |  |  |  |  |- Data Transport System
+|  |  |  |  |  |- User Interface
+
+
+
+|  |  |  |- Database Design
+|  |  |  |- Numerical Control
+|  |  |- Markup Language Works
+|  |  |  |- Internet Pages
+|  |  |  |- Technical Documentation
+|  |  |- Natural Language Works
+|  |  |  |- Poetry
+|  |  |  |- Content Writing
+|  |  |  |- Creative Writing
+
+
 |  |  |  |- Program Domain
-|  |  |  |  |- Computer Services
+|  |  |  |  |- Background Programs
+|  |  |  |  |  |- Device Drivers
 |  |  |  |  |- Interactive Programs
-|  |  |  |  |  |- Computer Programs
+|  |  |  |  |  |- On-Device Programs
 |  |  |  |  |  |- Internet Programs
 |  |  |  |  |  |- Internet Portals (Web Sites)
 |  |  |  |  |- Numerical Control
-|  |  |- Writing
-|  |  |  |- Documentation
-|  |  |  |- Internet P
 
-|  |- Tangible Items
-|  |  |- Manual Tools
-|  |  |- Powered Tools
-|  |  |- Clockwork Devices
-|  |  |- Electronic Devices
-|  |- Constructed Structures
-|  |  |- House
-|  |  |- Buildings
-|- Creative
-|  |- Drawing
-|  |- Music
-|  |- Statues
 ```
-
