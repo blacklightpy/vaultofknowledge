@@ -26,7 +26,7 @@ To expand:
    |- study of earth
    |- study of things
       |- study of interactions between things
-      |- 
+      |- study of 
    |- study of living things
    |- study of fossils
    |- study of description (math)
