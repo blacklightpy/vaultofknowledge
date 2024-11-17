@@ -1,3 +1,7 @@
+They come under [[symbolic culture]].
+
+---
+
 A belief is a subjective [[attitude]] that a [[proposition]] is [[truth|true]] or a state of affairs is true.
 
 To believe something is to take it to be true. e.g. To believe that snow is white is comparable to accepting the truth of the proposition "snow is white".

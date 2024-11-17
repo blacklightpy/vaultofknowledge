@@ -1,1 +1,3 @@
 In [[ethics]] and [[social science]], value refers to the degree of importance of a thing or action, with the aim of determining which actions are best to do or what way is best to live ([[normative ethics]]).
+
+They come under [[symbolic culture]].

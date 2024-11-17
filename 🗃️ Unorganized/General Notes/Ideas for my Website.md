@@ -19,10 +19,18 @@ To expand:
    |- morals
    |- communication
    |- city planning
-   |- recorded history
-   |- study of artifacts
+   
+   |- study of recorded history
+   |- study of material culture
+   |- study of symbolic culture
    |- study of earth
-   |- study of 
+   |- study of things
+      |- study of interactions between things
+      |- 
+   |- study of living things
+   |- study of fossils
+   |- study of description (math)
+
 |- designing
    |- software
    |- hardware
