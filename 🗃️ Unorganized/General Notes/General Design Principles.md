@@ -10,7 +10,7 @@ Now, when it comes to window managers in the nerd space, they prefer a barebones
 > One has to choose:
 > 
 > - The type of window manager (Manual Stacking, Manual Tiling, Dynamic Tiling)
-> - The choice of displaying protocol (X or Wayland)
+> - The choice of displaying protocol (X or Wayland -- a temporary problem)
 > - The choice of window manager (Based on what features it has and any plugin ecosystem)
 > - The choice of panel and dock
 > - The choice of panel widgets (Workspace Switcher, Notifications, Calendar, Now Playing)

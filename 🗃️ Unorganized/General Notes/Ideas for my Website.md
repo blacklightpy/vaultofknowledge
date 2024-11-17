@@ -50,11 +50,26 @@ To expand:
 |  |- City Planning
 |- Designing
 |  |- Encoded Ideas
-|  |  |- General Computer Program Language
-|  |  |- Domain Specific Program 
-|  |  |  |- Internet Programs
+|  |  |- Coding
+|  |  |  |- General Computer Program Language
+|  |  |  |  |- Internet Programs
+|  |  |  |  |  |- Program
+|  |  |  |  |  |- User Interface
+|  |  |  |  |- General Software
+|  |  |  |  |  |- Program
+|  |  |  |  |  |- User Interface
+|  |  |- Domain Specific Languages 
 |  |  |  |- Database Management
-|  |  |  |- Application Software
+|  |  |  |- General Scripting Languages
+|  |  |  |  |- Lua
+|  |  |  |  |- Pawn
+|  |  |  |- Specialized Scripting Languages
+|  |  |  |  |- VimScript
+|  |  |  |  |- QML
+|  |  |  |- Graphics
+|  |  |  |  |- OpenGL Shading Language
+|  |  |  |- Numerical Control
+|  |  |  |  |- G-Code
 |  |  |- Writing
 |  |  |  |- Documentation
 |  |- Tangible Items
