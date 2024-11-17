@@ -48,7 +48,7 @@ To expand:
 |  |- Morals
 |  |- Communication
 |  |- City Planning
-
+|  |- Encoding
 
 
 |- Designing
@@ -75,45 +75,60 @@ To expand:
 More
 
 ```
-Knowledge:
-|- Strict Code
-|  |- General Programming Languages
-|  |  |- C
-|  |  |- C++
-|  |  |- Python
-|  |  |- C#
-|  |  |- JavaScript
-|  |  |- Java
-|  |  |- Rust
-|  |- General Scripting Languages
-|  |  |- Lua
-|  |  |- Pawn
-|  |- Specialized Scripting Languages
-|  |  |- VimScript
-|  |  |- QML
-|  |- Other Computer Oriented
-|  |  |- HyperText Markup Language
-|  |  |- OpenGL Shading Language
-|  |- Numerical Control
-|  |  |- G-Codes
-|- Frameworks
-|  |- Qt
-|  |- GTK+
-|  |- .NET Framework
-|  |- Node.js
-|  |- GStreamer
+|- Thoughts
+|  |- About X
+|  |- About Y
+|  |- About Z
+|- Knowledge
+|  |- Disciplines
+|  |- Morals
+|  |- Communication
+|  |- City Planning
+|- Knowledge
+|  |- Encoding
+|  |  |- Strict Code
+|  |  |  |- General Programming Languages
+|  |  |  |  |- C
+|  |  |  |  |- C++
+|  |  |  |  |- Python
+|  |  |  |  |- C#
+|  |  |  |  |- JavaScript
+|  |  |  |  |- Java
+|  |  |  |  |- Rust
+|  |  |  |- General Scripting Languages
+|  |  |  |  |- Lua
+|  |  |  |  |- Pawn
+|  |  |  |- Specialized Scripting Languages
+|  |  |  |  |- VimScript
+|  |  |  |  |- QML
+|  |  |  |- Other Computer Oriented
+|  |  |  |  |- HyperText Markup Language
+|  |  |  |  |- OpenGL Shading Language
+|  |  |  |- Numerical Control
+|  |  |  |  |- G-Codes
+|  |  |- Frameworks
+|  |  |  |- Qt
+|  |  |  |- GTK+
+|  |  |  |- .NET Framework
+|  |  |  |- Node.js
+|  |  |  |- GStreamer
 
 |- Designing
 |  |- Encoded Ideas
 |  |  |- Strict Code Works
 |  |  |  |- General Programming
 |  |  |  |  |- Basic Components
+|  |  |  |  |  |- Program Environment
 |  |  |  |  |  |- Data Control System
 |  |  |  |  |  |- Data Transport System
 |  |  |  |  |  |- User Interface
-
-
-
+|  |  |  |  |- Program Type
+|  |  |  |  |  |- Device Firmware
+|  |  |  |  |  |- Device Drivers
+|  |  |  |  |  |- System Firmware
+|  |  |  |  |  |- System Subsystems
+|  |  |  |  |  |- Local Programs
+|  |  |  |  |  |- Network Programs
 |  |  |  |- Database Design
 |  |  |  |- Numerical Control
 |  |  |- Markup Language Works
@@ -123,15 +138,4 @@ Knowledge:
 |  |  |  |- Poetry
 |  |  |  |- Content Writing
 |  |  |  |- Creative Writing
-
-
-|  |  |  |- Program Domain
-|  |  |  |  |- Background Programs
-|  |  |  |  |  |- Device Drivers
-|  |  |  |  |- Interactive Programs
-|  |  |  |  |  |- On-Device Programs
-|  |  |  |  |  |- Internet Programs
-|  |  |  |  |  |- Internet Portals (Web Sites)
-|  |  |  |  |- Numerical Control
-
 ```
