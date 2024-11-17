@@ -50,7 +50,17 @@ To expand:
    |- study of household affairs
    |- study of interpersonal affairs
    |- study of resource utilization
-   |- study of 
+   |- study of family
+   |- study of morals
+   |- study of resource sharing
+   |- study of governance
+   
+   |- study of correction
+   |- study of truth
+   |- study of discourse
+   |- study of deception
+   |- study of rhetoric
+   |- study of mind
 
 |- designing
    |- encoded ideas
