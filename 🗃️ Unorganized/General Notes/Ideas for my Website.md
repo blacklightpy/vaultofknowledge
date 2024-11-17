@@ -15,8 +15,14 @@ To expand:
    |- about Y
    |- about Z
 |- knowledge
+   |- disciplines
    |- morals
-   |- 
+   |- communication
+   |- city planning
+   |- recorded history
+   |- study of artifacts
+   |- study of earth
+   |- study of 
 |- designing
    |- software
    |- hardware
@@ -37,7 +43,7 @@ My notes could be:
 |- Creative
 ```
 
-To expand:
+To expand (3 levels):
 ```
 |- Thoughts
 |  |- About X
@@ -49,7 +55,6 @@ To expand:
 |  |- Communication
 |  |- City Planning
 |  |- Encoding
-
 
 |- Designing
 |  |- Encoded Ideas
@@ -72,7 +77,7 @@ To expand:
 |  |- Statues
 ```
 
-More
+To expand more (6 levels):
 
 ```
 |- Thoughts
@@ -84,7 +89,7 @@ More
 |  |- Morals
 |  |- Communication
 |  |- City Planning
-|- Knowledge
+
 |  |- Encoding
 |  |  |- Strict Code
 |  |  |  |- General Programming Languages
@@ -138,4 +143,9 @@ More
 |  |  |  |- Poetry
 |  |  |  |- Content Writing
 |  |  |  |- Creative Writing
+
+|- Creative
+|  |- Drawing
+|  |- Music
+|  |- Statues
 ```
