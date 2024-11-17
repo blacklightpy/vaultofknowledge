@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -360,10 +360,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3841a277243a2d6b",
+  "active": "c90198ed84ad3534",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/GNU System Building - Set Up Hibernation.md",
     "🗃️ Unorganized/General Notes/GNU System Workarounds - BTRFS - Increase Metadata.md",
+    "🗃️ Unorganized/General Notes/GNU System Building - Set Up Hibernation.md",
     "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
     "🗃️ Unorganized/General Notes/The Inheritance of Sin.md",
     "🗃️ Unorganized/General Notes/Faster Typing.md",
