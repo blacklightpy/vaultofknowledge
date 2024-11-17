@@ -201,9 +201,24 @@
               "icon": "lucide-file",
               "title": "Ideas for my Website"
             }
+          },
+          {
+            "id": "a915794af8e807a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗃️ Unorganized/General Notes/General Design Principles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Design Principles"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -234,7 +249,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"system software\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,12 +270,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -375,10 +390,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "597b74309d89f646",
+  "active": "a915794af8e807a9",
   "lastOpenFiles": [
-    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
+    "🗃️ Unorganized/General Notes/How to configure a system.md",
     "🗃️ Unorganized/General Notes/Ideas for my Website.md",
+    "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/Personal Website Inspirations.md",
     "🗃️ Unorganized/General Notes/Graphing My Website.md",
     "🗃️ Unorganized/General Notes/GNU System Building - Set Up Hibernation.md",
     "🗃️ Unorganized/General Notes/GNU System Workarounds - BTRFS - Increase Metadata.md",
@@ -403,7 +419,6 @@
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms.md",
     "🗃️ Unorganized/General Notes/A Priori and A Posteriori.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
-    "🗃️ Unorganized/General Notes/Decision Trees.md",
     "🤠 Personal/Daily Notes",
     "🗺️ World Exploration/Life Forms",
     "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",

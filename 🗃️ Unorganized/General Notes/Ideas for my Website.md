@@ -40,22 +40,34 @@ My notes could be:
 To expand:
 ```
 |- Thoughts
-   |- About X
-   |- About Y
-   |- About Z
+|  |- About X
+|  |- About Y
+|  |- About Z
 |- Knowledge
-   |- Morals
-   |- 
+|  |- Disciplines
+|  |- Morals
+|  |- Communication
+|  |- City Planning
 |- Designing
-   |- Abstract Items
-      |- Code
-      |
-   |- Tangible Items
-      |- Electronics
-      |- Mechanical Automatons
-      |- Tools
+|  |- Encoded Ideas
+|  |  |- General Computer Program Language
+|  |  |- Domain Specific Program 
+|  |  |  |- Internet Programs
+|  |  |  |- Database Management
+|  |  |  |- Application Software
+|  |  |- Writing
+|  |  |  |- Documentation
+|  |- Tangible Items
+|  |  |- Manual Tools
+|  |  |- Powered Tools
+|  |  |- Clockwork Devices
+|  |  |- Electronic Devices
+|  |- Constructed Structures
+|  |  |- House
+|  |  |- Buildings
 |- Creative
-   |- Drawing
-   |- Music 
+|  |- Drawing
+|  |- Music
+|  |- Statues
 ```
 
