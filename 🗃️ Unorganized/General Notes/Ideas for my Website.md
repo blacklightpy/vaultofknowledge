@@ -26,17 +26,19 @@ To expand:
    |- communication
    |- city planning
    
+   |- study of material culture (archaeology)
+   |- study of symbolic culture (symbolic anthropology)
    |- study of recorded history
-   |- study of material culture
-   |- study of symbolic culture
+   
    |- study of earth
    |- study of planets
    |- study of stars
    |- study of evolution of the universe
+   
    |- study of unseen reality
    |- study of things
       |- study of interactions between things
-      |- study of evolution of 
+      |- study of evolution of life
    |- study of living things
       |- classification of living things
       |- study of animals
@@ -45,11 +47,16 @@ To expand:
    |- study of fossils
    |- study of description (math)
 
+   |- study of household affairs
+   |- study of interpersonal affairs
+   |- study of resource utilization
+   |- study of 
+
 |- designing
-   |- software
-   |- hardware
-      |- electronics
-      |- machines
+   |- encoded ideas
+   |- tangible items
+      |- electronic devices
+      |- clockwork devices
 |- creative
    |- drawing
    |- music 
@@ -165,9 +172,18 @@ To expand more (6 levels):
 |  |  |  |- Poetry
 |  |  |  |- Content Writing
 |  |  |  |- Creative Writing
+|  |- Tangible Items
+|  |  |- Manual Tools
+|  |  |- Powered Tools
+|  |  |- Clockwork Devices
+|  |  |- Electronic Devices
+|  |- Constructed Structures
+|  |  |- House
+|  |  |- Buildings
 
 |- Creative
 |  |- Drawing
 |  |- Music
 |  |- Statues
 ```
+
