@@ -14,9 +14,9 @@ Windows and macOS support L1, which can play at the highest qualities, including
 # Terms
 - TV Terms
 	- Over The Top (OTT)
-	- pay-TV
-	- Network Operations Center (NOC)
-	- Set Top Box (STB)
+	- Service: Pay-TV
+	- Head-End (Transmitter): Network Operations Center (NOC)
+	- User-End: Set Top Box (STB)
 - Media Standards
 	- Motion Pictures Expert Group (MPEG)
 		- MPEG-2
@@ -28,82 +28,57 @@ Windows and macOS support L1, which can play at the highest qualities, including
 	- Conditional Access Systems (CAS)
 		- used for pay-TV
 		- Supported by MPEG-2 and DVB standards
+		- One-way standard due to RF/Cable transmissions
 	- Digital Rights Management (DRM)
 - CAS Systems
-	- Smart Cards
-		- Entitled Management Messages (EMM)
-		- Entitled Control Messages (ECM)
+	- Details to decrypt content were hidden in the STB due to the one-way nature of media
+	- Secrets
+		- Subscriber Entitlements (“Channel Line-up”)
+		- Keys used to decrypt
+			- Entitled Management Messages (EMM)
+			- Entitled Control Messages (ECM)
+	- This led to the emergence of smart cards to store and protect those secrets
+	- Removable Smart Cards ended up being cloned
+	- Renewing Cards periodically was expensive to the TV operator
 - DRM Systems
+	- IP based
+	- It's a superset of CAS
+		- It can protect more than video and audio, like e-books and bytecode
+		- It can protect content offline, online and without a return channel
+	- DRM reduces the Total Cost of Ownership (TCO) of the TV operator
 	- Verified Media Path (VMP)
 
 
-The first Conditional Access System (CAS) was designed during the mid-nineties with the emergence of the MPEG-2 and Digital Video Broadcasting (DVB) standards, although there are also non-DVB CAS products from other vendors. DRM technology was developed during the end of the nineties although the majority of DRMs only came a decade later with the proliferation of the internet.
+- DRM License
+- AES Encryption vs DRM
+- Types of DRM
+	- Marlin DRM
+	- Expressplay DRM
+	- MovieLabs
+		- Enhanced Content Protection (ECP) specification
 
-The role of a CAS is to provide key management and protect television transmissions over RF-based networks, such as satellite (DVB-S/DVB-S2 standards), terrestrial/over-the-air (DVB-T/T2), and cable (DVB-C/C2). The CAS design had to consider that the transmission was “one-way” in nature, without any return channel from the STB back to the head-end. Because of the lack of a return channel, it was necessary to find ways to hide the “pay-TV secrets” in the STB, such as subscriber entitlements (“channel line-up”) and various keys used to access/decrypt entitlement management messages (EMM), and entitlement control messages (ECMs), holding the content encryption key required for the STB to decrypt the content. This led to the emergence of so-called smart cards (similar to chip-based credit cards) to store and protect those secrets. Removable smart cards turned out to be costly since they were subject to various forms of piracy, including smart card cloning, and have to be replaced every couple of years, typically at the expense of the pay- TV operator. For U.S. cable networks, CableCARD filled the same role. Later, various software-based CAS were offered, taking advantage of advanced STB system-on-a-chip technology.
+- Multi-DRM
+- CENC standard
+	- AES-CTR
+	- AES-CBC
+- Standards
+	- W3C Encrypted Media Extensions (EME)
+		- APIs for provisioning the browser media stack with DRM license required to play the content
+		- Modules
+			- Content Decryption Module (CDM)
+				- Evaluates 
+	- Media Source Extensions (MSE)
+	- Content Protection Information Exchange Format (CPIX)
+	- SPEKE
 
-Digital rights management (DRM) systems, on the other hand, were designed for IP-based, two-way networks, as exemplified by the internet. DRM technology takes advantage of the two-way nature of communication, which allows the receiver (STBs, mobile devices, PC/Macs, etc.) to request information (keys and licenses) from the head-end. Because of the two-way nature, DRM systems are inherently more flexible. This may include rules for how many times, or for how long time, specific content may be played back, and whether it can be copied to other devices and even downloaded for offline playback, for example during travel.
+- Common Media Application Format (CMAF)
+- Widevine
+	- Verified Media Path (VMP)
+		- Widevine Desktop Browser CDM supports VMP
+		- VMP lets you verify browser authenticity, to know it is sanctioned by Widevine
+		- All Widevine browser integrations should support VMP
+		- Linux does not have VMP
 
-With the rapid growth of video streamed (transmitted) over the internet using adaptive bitrate protocols such as those used by major OTT operators like Netflix and Hulu, OTT DRM technology has advanced to the forefront. CAS technology is gradually being phased out as broadcasters add on-demand services over IP and thus can take advantage of the two-way nature of IP-based networks. For today’s OTT pay-TV operators, a [**cloud-based multi-DRM** **service**](https://www.expressplay.com/blog/drm-as-a-service-lowers-the-tco-of-multi-drm-support/) is the best choice to achieve secure OTT streaming.
-
-Effectively, DRM functionality is a superset of CAS. While a CAS is limited to broadcast devices and it only applies to video/audio content, DRM protects content on any device with various distribution models (offline, online, with or without return channel), and can also be applied to other types of digital content such as e-books, bytecode, and more.
-
-Two-way IP-based networks have of course also had a major impact on other technologies and services such as video analytics and addressable advertising.
-
-For broadcasters with legacy CAS deployments and an intention to modernize the security infrastructure to support hybrid broadcast-OTT services, read the blog post [How DRM-based converged security reduces TCO of Broadcast TV](https://www.expressplay.com/blog/how-drm-based-converged-security-reduces-tco-of-broadcast-tv/).
-
-If you have other questions, feel free to [**contact our team**](https://www.expressplay.com/contact-us/) to discuss your content security requirements or concerns.
-
-Learn more about Expressplay DRM [**here**](https://www.expressplay.com/products/multi-drm/).
-
-What is DRM license management and how does a typical DRM license mechanism work?
-
-How is DRM different from stand-alone AES encryption?
-
-How can I protect multi-screen OTT streaming and why are there several different types of DRMs?
-
-What is Marlin DRM and how is it different?
-
-What is MovieLabs and its Enhanced Content Protection specification?
-
-Is there a formal DRM certification process used by Hollywood and other studios?
-
-How does a cloud-based DRM service compare to an on-premises DRM system?
-
-Should I buy or build a multi-DRM solution?
-
-What are common forms of digital media piracy?
-
-What is forensic watermarking and can it help to deter piracy and content theft?
-
-How can anti-piracy services protect the monetization of live events including live OTT sports?
-
-Are there formal and/or de facto industry standards for content protection and DRM systems?
-
-What is the MPEG Common Encryption (CENC) standard?
-
-Why does the CENC standard allow for two different encryption modes, AES-CTR and AES-CBC?
-
-What is the purpose of the Encrypted Media Extensions (EME) and Media Source Extensions (MSE) standards?
-
-What is the advantage of the Content Protection Information Exchange Format (CPIX) standard?
-
-What is SPEKE and how does it compare to the CPIX standard?
-
-How do web browsers support DRM-protected video streaming?
-
-What is the purpose of a Content Decryption Module (CDM)?
-
-What does the Common Media Application Format (CMAF) accomplish?
-
-How do set-top box chipsets enable protection of premium Ultra HD content?
-
-What is the difference between software-based and hardware-based security?
-
-What is Widevine Verified Media Path (VMP) and are there best practices to consider?
-
-Per Widevine, “the Widevine Desktop Browser Content Decryption Module (CDM) includes support for Verified Media Path (VMP). VMP provides a method to verify the authenticity of the browser framework. For browser deployments, this will provide an additional signal to determine if a browser-based implementation is sanctioned by Widevine. All Widevine browser-based integrations (platforms and applications) must support VMP. VMP support is NOT available for Linux platforms.”
-
-Thus, VMP support is crucial for a browser-based video player to decrypt [Widevine DRM](https://www.expressplay.com/products/google-widevine-drm/) protected content. The W3C Encrypted Media Extension (EME) specification defines the APIs that web apps can use for provisioning the browser’s media stack with the DRM license required to play protected content.
 
 A critical module of EME is a trusted component called the Content Decryption Module (CDM), which evaluates the rules specified in the DRM license to ensure that content keys are handled securely. Once the media has been decrypted by the CDM, it is essential that the browser is able to securely process the so- decrypted media.
 
