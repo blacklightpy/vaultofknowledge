@@ -1,1 +1,0 @@
-A biomolecule or biological molecule is loosely defined as a [[molecule]] produced by a living [[organism]] and essential to one or more typically [[biological processes]].

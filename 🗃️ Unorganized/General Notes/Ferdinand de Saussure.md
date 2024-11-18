@@ -1,1 +1,0 @@
-He was a [[semiotics]] and [[linguistics]] philosopher.

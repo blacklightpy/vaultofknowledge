@@ -1,3 +1,0 @@
-They are a class of business owners, merchants and wealthy people, in general, which emerged in the Late Middle Ages, originally as a [[middle class]] between [[peasant|peasantry]] and [[aristocracy]].
-
-They are contrasted with the [[proletariat]] by their wealth, political power and education, as well as their access to and control of [[cultural capital]], [[social capital]] and [[financial capital]].

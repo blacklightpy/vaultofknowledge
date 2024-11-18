@@ -1,1 +1,0 @@
-It refers to the form of [[human communication]].

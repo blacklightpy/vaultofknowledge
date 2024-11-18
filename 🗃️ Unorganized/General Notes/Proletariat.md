@@ -1,1 +1,0 @@
-The proletariat is the [[social class]] of wage earners, those members of a society whose possession of significant economic value is their [[labour power]], or their capacity to work.

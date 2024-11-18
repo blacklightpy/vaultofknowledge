@@ -1,1 +1,0 @@
-Reality refers to things that are [[existence|existent]] in the [[universe]].

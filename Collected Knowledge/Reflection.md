@@ -1,0 +1,2 @@
+## In mathematics
+A reflection is a [[Function]] or mapping from a [[Euclidean Space]] to itself that is an [[isometry]] with a [[hyperplane]] as a set of [[fixed points]]. This set is called the [[Axis]] (in 2D) or [[Plane]] (in 3D) of reflection.

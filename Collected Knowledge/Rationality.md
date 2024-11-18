@@ -1,0 +1,1 @@
+Rationality is the [[Quality]] of being guided by [[Reason]].

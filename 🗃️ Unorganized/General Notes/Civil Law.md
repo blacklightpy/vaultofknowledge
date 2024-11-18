@@ -1,1 +1,0 @@
-It originated in France and Italy, and is contrasted with the [[common law]] system, which originated in medieval England.

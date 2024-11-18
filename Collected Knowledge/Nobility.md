@@ -1,0 +1,1 @@
+Nobility is a social class found in many societies that have an [[Aristocracy]]. It is normally ranked immediately below the Royalty ([[Royal Family]]).

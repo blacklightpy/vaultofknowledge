@@ -1,0 +1,1 @@
+It is the study of the [[Mind]] and [[Behaviour]].

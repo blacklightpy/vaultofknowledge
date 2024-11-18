@@ -1,0 +1,1 @@
+Plebians or Plebs were the general body of free Roman citizens who were not [[Patricians]], as determined by the census (which termed them [[Capite Censi]]), or simply put, "commoners".

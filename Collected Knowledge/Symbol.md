@@ -1,0 +1,1 @@
+A symbol is a mark, [[Sign]], or [[word]] that indicates, signifies, or is understood as representing an [[idea]], [[Object]], or relationship.

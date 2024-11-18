@@ -1,1 +1,0 @@
-Probably comes under [[symbolic culture]].

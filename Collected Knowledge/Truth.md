@@ -1,0 +1,1 @@
+Truth or verity is the [[Property]] of being in accordance with [[Fact]] or [[Reality]].

@@ -1,0 +1,1 @@
+They include [[Point|points]], [[Line|lines]], [[Plane|planes]], [[Curve|curves]], [[Surface|surfaces]], [[Manifold|manifolds]], etc.

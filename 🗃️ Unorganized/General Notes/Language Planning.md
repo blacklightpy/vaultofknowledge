@@ -1,1 +1,0 @@
-Language Planning or Language Engineering is a deliberate effort to influence the structure of a language. It is therefore a part of [[sociolinguistics]], which deals with the influence of society on language.

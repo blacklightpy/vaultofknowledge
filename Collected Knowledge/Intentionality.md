@@ -1,0 +1,1 @@
+Intentionality is the mental ability to refer to or represent something. Sometimes regarded as the mark of the mental, it is found in [[Mental States]] like perceptions, beliefs or desires.

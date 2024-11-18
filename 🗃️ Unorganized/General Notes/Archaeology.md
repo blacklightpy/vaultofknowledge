@@ -1,1 +1,0 @@
-Archaeology is the study of human activity through the recovery and analysis of [[material culture]].

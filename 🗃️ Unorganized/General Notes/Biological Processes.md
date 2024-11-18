@@ -1,1 +1,0 @@
-Biological processes are those processes that are necessary for an [[organism]]

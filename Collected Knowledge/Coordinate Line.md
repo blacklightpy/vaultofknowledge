@@ -1,0 +1,1 @@
+If a [[Coordinate Curve]] is a [[Straight Line]], it is called a coordinate line.

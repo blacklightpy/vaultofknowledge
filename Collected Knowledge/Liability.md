@@ -1,0 +1,1 @@
+In [[Law]], liable means "responsible or answerable in law".

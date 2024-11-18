@@ -1,4 +1,4 @@
-In [[signal processing]] and [[control theory]], impulse response or impulse response function (IRF) of a [[Dynamical System|dynamical system]] is its output when presented with a brief input signal, called an [[impulse]] ($\delta(t)$).
+In [[Signal Processing]] and [[control theory]], impulse response or impulse response function (IRF) of a [[Dynamical System|dynamical system]] is its output when presented with a brief input signal, called an [[Impulse]] ($\delta(t)$).
 
 More generally, an impulse response is the reaction of any dynamic system in response to some external change.
 # Modelling

@@ -1,1 +1,0 @@
-In botany, a seed is a plant [[embryo]] and food reserve enclosed in a protective outer covering called a seed coat (testa). More generally, the term "seed" means anything that can be [[sowing|sown]], which may include seed [[husk]] or [[tuber]].

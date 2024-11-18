@@ -1,0 +1,1 @@
+It is denoted as SO(3) ([[Special Orthogonal Group]] 3). It is the [[groups|group]] of all [[rotations]] about the [[Origin]] of three dimensional [[Euclidean Space]] $\Bbb{R}^3$ under the operation of [[Function Composition|composition]].

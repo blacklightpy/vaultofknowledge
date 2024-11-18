@@ -1,0 +1,1 @@
+The future is the [[Time]] after [[Past]] and [[Present]].

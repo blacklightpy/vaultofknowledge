@@ -1,0 +1,1 @@
+Tribune was the title of various elected officials in ancient Rome. The two most important were the [[Tribune of the Plebs|tribunes of the plebs]] and the military tribunes.

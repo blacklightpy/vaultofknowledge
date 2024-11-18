@@ -1,0 +1,1 @@
+An inflorescence, in a flowering plant, is a group or cluster of [[Flowers]] arranged on a [[stem]] that is composed of a main [[Branch]] or a system of branches.

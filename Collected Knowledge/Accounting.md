@@ -1,0 +1,1 @@
+Accounting, also known as accountancy, is the process of recording, processing and analyzing information about [[Economic Entities]], such as businesses and corporations.

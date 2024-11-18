@@ -1,0 +1,1 @@
+A language game (also called a [[Cant]], secret language, ludling, or argot) is a system of manipulating spoken words to render them incomprehensible to an untrained listener. Language games are used primarily by groups attempting to conceal their conversations from others.

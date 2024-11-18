@@ -1,0 +1,3 @@
+In geometry, a three-dimensional space (3D space, 3-space or, rarely, tri-dimensional space) is a mathematical space in which three [[Coordinate Points|coordinates]] are required to determine the position of a point.
+
+Most commonly, it is the [[Three-Dimensional Euclidean space]], that is, the Euclidean space of dimension three, which models physical space. More general three-dimensional spaces are called 3-manifolds.

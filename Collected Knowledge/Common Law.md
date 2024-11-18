@@ -1,0 +1,2 @@
+## Case Law
+Also used interchangeably with common law. It is a [[Law]] that is based on [[Precedent|precedents]] from the judicial decisions from previous cases, rather than law based on constitutions, statutes or regulations.

@@ -1,1 +1,0 @@
-It is the circle that best approximates the [[curvature]] of a [[curve]] at a specific point.

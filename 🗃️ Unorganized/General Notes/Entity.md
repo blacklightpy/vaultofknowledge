@@ -1,1 +1,0 @@
-An entity is something that exists as itself. It does not need to be of material existence. In particular, [[abstractions]] and [[legal fictions]] are usually regarded as entities. In general, there is also no presumption that an entity is animate (living), or [[present]]. 

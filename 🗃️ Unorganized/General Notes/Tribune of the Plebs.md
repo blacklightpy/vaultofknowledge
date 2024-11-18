@@ -1,1 +1,0 @@
-It was the first office of the Roman Republic state that was open to the [[plebians]], and was, throughout the history of the Republic, the most important check on the power of the Roman Senate and magistrates.

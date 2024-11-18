@@ -1,0 +1,1 @@
+A5 is a family of symmetric [[Stream Ciphers]] most famously used as the encryption schemes in GSM 1 and succeeding technologies.

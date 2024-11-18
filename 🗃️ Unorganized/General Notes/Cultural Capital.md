@@ -1,1 +1,0 @@
-In the field of [[sociology]], cultural capital comprises the social assets of a person (education, intellect, style of speech, style of dress, social capital, etc.) that promote [[social mobility]] in a [[Social Stratification|stratified]] society.

@@ -1,0 +1,1 @@
+In [[Mathematics]], continuous symmetry is an intuitive idea corresponding to the concept of viewing some [[Symmetry|symmetries]] as [[Motion|motions]], as opposed to [[Discrete Symmetry]], e.g. [[Reflection Symmetry]], which is invariant under a kind of flip from one state to another.

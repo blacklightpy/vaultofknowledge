@@ -1,1 +1,0 @@
-Genetics is the study of [[genes]], [[genetic variation]] and [[Inheritance|heredity]] in [[organism|organisms]].

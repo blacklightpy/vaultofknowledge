@@ -1,0 +1,1 @@
+While tort law in [[Civil Law]] jurisdictions largely derives from the Roman law, [[Common Law]] jurisdictions derive their tort law from customary English tort law.

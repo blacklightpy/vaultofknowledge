@@ -1,0 +1,1 @@
+It is a generalization of the concept of [[Parallel Lines]].

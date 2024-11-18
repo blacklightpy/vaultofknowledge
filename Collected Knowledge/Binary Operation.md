@@ -1,0 +1,1 @@
+A binary operation is an [[Operation]] of [[Arity]] two.

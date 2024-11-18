@@ -1,1 +1,0 @@
- A multiple fruit, also called a multi-fruit or collective fruit is a fruit formed from a cluster of [[flowers]], or the [[inflorescence]]. Each flower in the inflorescence produces a single fruit, but these mature into a single mass. After flowering, the mass is called an [[infructescence]].

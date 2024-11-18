@@ -1,0 +1,1 @@
+Law is a set of [[Rule|rules]] that can be enforced by a social or governmental institutions to regulate behaviour. The definition of law is in a longstanding debate, and is described by [[Social Science]] or as the art of [[Justice]].

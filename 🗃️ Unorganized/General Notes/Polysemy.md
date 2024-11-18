@@ -1,1 +1,0 @@
-Polysemy is the capacity of a [[sign]] to have multiple 

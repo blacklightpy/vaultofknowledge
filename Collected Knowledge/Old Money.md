@@ -1,0 +1,1 @@
+Old money is the [[Inheritance|inherited]] wealth of established [[Upper Class]] families (i.e. [[Gentry]] or [[Patricians|patriciate]])

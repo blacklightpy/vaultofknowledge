@@ -1,0 +1,1 @@
+An ethnicity or ethnic group is a group of [[People]] who [[Identity|identify]] with each other on the basis of perceived shared attributes that distinguish them from other groups.

@@ -1,0 +1,1 @@
+Spherical geometry or spherics (from Ancient Greek σφαιρικά) is the geometry of the two-dimensional surface of a [[Spheres|sphere]] or the $n$-dimensional surface of [[Hyperspheres]].

@@ -1,0 +1,1 @@
+A polygon is a [[Plane]] 

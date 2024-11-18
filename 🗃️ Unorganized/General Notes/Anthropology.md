@@ -1,1 +1,0 @@
-It is the study of humanity, concerned with human behaviour, human biology, cultures, societies and linguistics - in the present and past humans, including [[archaic humans]].

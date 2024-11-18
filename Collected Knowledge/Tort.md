@@ -1,0 +1,1 @@
+A tort is a [[Civil Wrong]], other than breach of contract, that causes a claimant to suffer loss or harm, resulting in legal [[Liability]] for the person who commits the tortious act.

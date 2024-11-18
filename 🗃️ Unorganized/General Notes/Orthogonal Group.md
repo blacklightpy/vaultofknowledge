@@ -1,1 +1,0 @@
-In [[mathematics]], and orthogonal group in dimension n, denoted by O(n), is the group of distance-preserving transformations of a [[Euclidean Space]] of dimension n that preserve a fixed point, where the group operation is given by [[function composition|composing]] transformations.

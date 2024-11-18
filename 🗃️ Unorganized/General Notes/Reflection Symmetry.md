@@ -1,1 +1,0 @@
-In [[mathematics]], reflection symmetry, line symmetry, mirror symmetry or mirror-image symmetry is [[symmetry]] with respect to a [[reflection]].

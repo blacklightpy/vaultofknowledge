@@ -1,0 +1,1 @@
+It is the circle that best approximates the [[Curvature]] of a [[Curve]] at a specific point.

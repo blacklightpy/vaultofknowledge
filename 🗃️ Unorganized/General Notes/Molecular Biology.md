@@ -1,1 +1,0 @@
-It is a branch of biology that seeks to understand the [[molcule|molecular]] basis of biological activity in and between [[cells]], including [[biomolecules|biomolecular]] synthesis.

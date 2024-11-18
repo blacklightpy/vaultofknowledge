@@ -1,1 +1,0 @@
-They include synthesizers and [[samplers]].

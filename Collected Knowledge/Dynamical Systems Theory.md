@@ -1,0 +1,1 @@
+It is an area of [[Mathematics]] used to describe the behaviour of [[complex systems|complex]] [[Dynamical System|dynamical systems]], usually by employing [[Differential Equations]] or [[difference equations]].

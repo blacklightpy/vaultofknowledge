@@ -26,7 +26,7 @@ Of course, the signals can be decomposed into harmonics. But when it does, depen
 
 Harmonic relationships between the sample rate, audio and bit depth can also create patterns in the quantization noise, which is called correlated noise. This can result in higher amplitudes at certain frequencies due to resonance, leading to a higher noise floor.
 
-But this can be reduced by [[dither|dithering]], a process where randomized values are used instead of truncating amplitude values. This results in uncorrelated noise, with no resonance, and that gives a lower noise floor.
+But this can be reduced by [[Dither|dithering]], a process where randomized values are used instead of truncating amplitude values. This results in uncorrelated noise, with no resonance, and that gives a lower noise floor.
 ### Distortion (due to clipping)
 If the input value is larger than what the recorder is designed to encode, it will result in distortion, due to clipping.
 

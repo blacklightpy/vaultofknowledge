@@ -1,1 +1,0 @@
-Criminal Law is the body of [[law]] that relates to [[crime]].

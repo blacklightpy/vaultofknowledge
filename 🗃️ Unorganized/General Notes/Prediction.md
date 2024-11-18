@@ -1,1 +1,0 @@
-A prediction or [[forecast]] is a statement about a [[future]] [[event]] or about future data.

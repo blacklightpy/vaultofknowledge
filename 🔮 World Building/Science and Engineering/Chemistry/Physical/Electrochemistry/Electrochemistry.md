@@ -1,5 +1,5 @@
 Terms to know:
-- [[Fermi Level]]
+- [[Fermi level]]
 - Gibbs Free Energy
 - Nernst Equation
 - Faraday's Constant
@@ -27,7 +27,7 @@ Terms to know:
 			- It is an ITU-T protocol for packet switched WAN networks
 			- It uses PSE (Packet Switching Exchange) nodes as its networking hardware
 			- It uses leased lines (private circuits), POTS connections or ISDN connections as its physical links
-			- It was replaced by TCP/IP in the [[protocol wars]], but it is still used in the aviation industry 
+			- It was replaced by TCP/IP in the [[Protocol Wars]], but it is still used in the aviation industry 
 
 - Circuit Switching
 	- Public Switched Telephone Network
@@ -185,7 +185,7 @@ Body
 Force
 
 [[Outlines in Wikipedia]]
-[[Machine]] | [[Robotics]] | [[Technology]] | [[Science]] | [[Music]] | [[Television]] | [[Academic Disciplines]]
+[[Machine]] | [[Robotics]] | [[Technology]] | [[Science]] | [[🤠 Personal/Knowledge/Music]] | [[Television]] | [[Academic Disciplines]]
 [[Natural Science]] | [[Physical Science]] | [[Earth Science]] | [[Formal Science]] | [[Social Science]]
 
 [[Signalling System 7]] | Signalling System 6 (CCCIT 6) | Signalling System 5

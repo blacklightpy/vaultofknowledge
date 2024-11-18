@@ -1,0 +1,1 @@
+They are plants that bear [[Flowers]] and [[Fruits]], and form the clade Angiospermae, or angiosperms.

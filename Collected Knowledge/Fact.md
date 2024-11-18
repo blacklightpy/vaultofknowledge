@@ -1,0 +1,1 @@
+A fact is a true [[Data|datum]] in one or more aspects of a circumstance.

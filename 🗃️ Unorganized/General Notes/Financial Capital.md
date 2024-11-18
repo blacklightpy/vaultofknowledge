@@ -1,1 +1,0 @@
-Financial Capital (also simply known as capital or equity in [[finance]], [[accounting]] and [[economics]]), is any economic resource measured in terms of money used by entrepreneurs and businesses to buy what they need to make their products or to provide their services to the sector of the economy upon which their operation is based (e.g. retail, corporate, investment banking).

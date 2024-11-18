@@ -1,1 +1,0 @@
-An identity is the set of qualities, beliefs, personality traits, appearance, and/or expressions that characterize a person or [[social group]].

@@ -1,1 +1,0 @@
-A multivibrator is an electronic circuit used to implement a variety of simple two-state devices such as relaxation oscillators, timers, latches and [[flip-flops]].

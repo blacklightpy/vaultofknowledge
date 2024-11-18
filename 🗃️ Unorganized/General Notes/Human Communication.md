@@ -1,1 +1,0 @@
-Human communication is a field of study dedicated to understanding how humans [[communication|communicate]].

@@ -1,1 +1,0 @@
-A literary trope is the use of figurative language, via word, phrase or an image, for artistic effect such as using a [[figures of speech|figure of speech]].

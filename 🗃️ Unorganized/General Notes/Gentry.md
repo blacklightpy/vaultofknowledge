@@ -1,1 +1,0 @@
-They refer to "well-born, genteel and well-bred people" of high [[social class]], especially in the past.

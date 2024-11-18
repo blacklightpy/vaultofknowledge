@@ -1,0 +1,3 @@
+Fictional languages are separated from [[Artistic Languages]] by both purpose and relative completion: a fictional language often has the least amount of grammar and vocabulary possible, and rarely extends beyond the absolutely necessary.
+
+At the same time, some others have developed languages in detail for their own sake, such as JRR Tolkien's Quenya and Sindarin (two Elvish languages), Star Trek's Klingon language and Avatar's Na'vi language which exist as functioning, usable languages

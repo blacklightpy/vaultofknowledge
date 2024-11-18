@@ -1,1 +1,0 @@
-It is a hypothetical [[universal language]] proposed by [[Gottfried Wilhelm Leibniz|Leibniz]].

@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/De-Latinization of Science.md",
+                "file": "Collected Knowledge/De-Latinization of Science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Passwordless Login.md",
+                "file": "Collected Knowledge/Passwordless Login.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Branding of Operating Systems.md",
+                "file": "Collected Knowledge/Branding of Operating Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
+                "file": "Collected Knowledge/How to Letterbox in UNIX-like Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/The Inheritance of Sin.md",
+                "file": "Collected Knowledge/The Inheritance of Sin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗃️ Unorganized/General Notes/Ideas for my Website.md",
+                "file": "Collected Knowledge/Ideas for my Website.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,6 +185,16 @@
               },
               "icon": "lucide-file",
               "title": "Search Engine Optimization"
+            }
+          },
+          {
+            "id": "0ed4f039109ff479",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -240,13 +250,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -363,32 +371,32 @@
   },
   "active": "f4cd4591061ecbef",
   "lastOpenFiles": [
-    "🗃️ Unorganized/General Notes/How to ask for payments.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Search Engine Optimization.md",
-    "🗃️ Unorganized/General Notes/Passwordless Login.md",
-    "🗃️ Unorganized/General Notes/De-Latinization of Science.md",
+    "Collected Knowledge/How to ask for payments.md",
+    "Collected Knowledge/Passwordless Login.md",
+    "Collected Knowledge/De-Latinization of Science.md",
     "🗃️ Unorganized/🏛️ Studying Social Problems (to solve them)/⚔️ Wars and Conflicts/Israel Palestine Rough/The History of Oppression of Jews.md",
     "🤠 Personal/Daily Notes/2024-11-07.md",
-    "🗃️ Unorganized/General Notes/How to Letterbox in UNIX-like Systems.md",
-    "🗃️ Unorganized/General Notes/The Inheritance of Sin.md",
+    "Collected Knowledge/How to Letterbox in UNIX-like Systems.md",
+    "Collected Knowledge/The Inheritance of Sin.md",
     "🤠 Personal/Daily Notes/2024-11-09.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/PM Software Comparison.md",
-    "🗃️ Unorganized/General Notes/ONLYOFFICE Offerings.md",
+    "Collected Knowledge/ONLYOFFICE Offerings.md",
     "🔮 World Building/Business and Finance/Company Management/Project Management/PM Software.md",
-    "🗃️ Unorganized/General Notes/Ideas for my Website.md",
-    "🗃️ Unorganized/General Notes/UI Metrics.md",
+    "Collected Knowledge/Ideas for my Website.md",
+    "Collected Knowledge/UI Metrics.md",
     "🤠 Personal/AVIASYS Related/Project Management/PM Software/PM Software Requirements.md",
-    "🗃️ Unorganized/General Notes/Key Performance Indicators.md",
+    "Collected Knowledge/Key Performance Indicators.md",
     "🗃️ Unorganized/💭️ Developing My Own Philosophy/💡️ Idea Articles (including drafts)/The App Hype.md",
-    "🗃️ Unorganized/General Notes/GNU System Workarounds - BTRFS - Increase Metadata.md",
-    "🗃️ Unorganized/General Notes/GNU System Building - Set Up Hibernation.md",
-    "🗃️ Unorganized/General Notes/Studies on Morality.md",
+    "Collected Knowledge/GNU System Workarounds - BTRFS - Increase Metadata.md",
+    "Collected Knowledge/GNU System Building - Set Up Hibernation.md",
+    "Collected Knowledge/Studies on Morality.md",
     "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
-    "🗃️ Unorganized/General Notes/Morality.md",
-    "🗃️ Unorganized/General Notes/Ethics.md",
-    "🗃️ Unorganized/General Notes/Symbolic Culture.md",
-    "🗃️ Unorganized/General Notes/Belief.md",
-    "🗃️ Unorganized/General Notes/Value.md",
+    "Collected Knowledge/Morality.md",
+    "Collected Knowledge/Ethics.md",
+    "Collected Knowledge/Symbolic Culture.md",
+    "Collected Knowledge/Belief.md",
+    "Collected Knowledge/Value.md",
     "_images/16 by 9 Aspect Ratio.png",
     "🤠 Personal/Daily Notes",
     "🗺️ World Exploration/Life Forms",

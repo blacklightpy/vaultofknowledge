@@ -1,0 +1,1 @@
+Flip-flops and Latches are [[Circuit|circuits]] that have two stable states that can store information, that is, they form a [[Bi-Stable Multivibrator]].

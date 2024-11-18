@@ -1,4 +1,4 @@
-[[🗃️ Unorganized/General Notes/Transfer Function]]s in Imaging:
+[[Collected Knowledge/Transfer Function]]s in Imaging:
 
 - Linear
 - Gamma

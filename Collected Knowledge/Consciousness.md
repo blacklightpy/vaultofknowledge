@@ -1,0 +1,1 @@
+Consciousness, at its simplest, is [[Awareness]] of internal and [[Reality|external]] [[Existence]].

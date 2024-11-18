@@ -1,1 +1,0 @@
-A semiconductor is a material that has an [[electrical conductivity]] falling

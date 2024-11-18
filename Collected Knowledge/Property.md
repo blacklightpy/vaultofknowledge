@@ -1,0 +1,1 @@
+A property is a characteristic of an [[Object]].
