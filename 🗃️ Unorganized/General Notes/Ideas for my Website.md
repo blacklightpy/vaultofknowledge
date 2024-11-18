@@ -39,33 +39,39 @@ To expand:
    
    |- study of unseen reality
    |- study of things
+   
       |- study of interactions between things
       |- study of evolution of life
+      
    |- study of living things
+   
       |- classification of living things
       |- study of animals
       |- study of birds
       |- study of plants
       |- study of systems of living bodies
+      
          |- study of systems of the human body
          |- study of systems of animal bodies
+         
       |- study of toxins
       |- study of diseases
       |- study of disease causers
       |- study of medicine
+      
    |- study of fossils
    |- study of description (math)
 
-   |- study of household affairs
-   |- study of interpersonal affairs
+   |- study of household affairs (economics)
+   |- study of interpersonal affairs (ethics)
    |- study of resource utilization
    |- study of family
    |- study of morals
-   |- study of resource sharing
-   |- study of governance
+   |- study of resource sharing (economics)
+   |- study of governance (politics)
    
-   |- study of correction
-   |- study of truth
+   |- study of correction (justice)
+   |- study of truth (judiciary)
    |- study of discourse
    |- study of deception
    |- study of rhetoric
