@@ -208,13 +208,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤠 Personal/Personal Website Ideas.md",
+                "file": "Collected Knowledge/Google Widevine.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Website Ideas"
+              "title": "Google Widevine"
             }
           }
         ],
@@ -392,11 +392,12 @@
   },
   "active": "f11394f37150e0c5",
   "lastOpenFiles": [
-    "Collected Knowledge/How to Make My Website Load Articles Without Redirecting.md",
-    "🤠 Personal/Personal Website Ideas.md",
-    "Collected Knowledge/Chrome.md",
-    "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
     "Photon Energy Amplitude Intensity Relations.md",
+    "Collected Knowledge/Google Widevine.md",
+    "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
+    "🤠 Personal/Personal Website Ideas.md",
+    "Collected Knowledge/How to Make My Website Load Articles Without Redirecting.md",
+    "Collected Knowledge/Chrome.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Search Engine Optimization.md",
     "Collected Knowledge/How to ask for payments.md",
     "Collected Knowledge/Passwordless Login.md",
@@ -417,7 +418,6 @@
     "Collected Knowledge/GNU System Workarounds - BTRFS - Increase Metadata.md",
     "Collected Knowledge/GNU System Building - Set Up Hibernation.md",
     "Collected Knowledge/Studies on Morality.md",
-    "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
     "_images/16 by 9 Aspect Ratio.png",
     "🤠 Personal/Daily Notes",
     "🗺️ World Exploration/Life Forms",
