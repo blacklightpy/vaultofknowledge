@@ -62,16 +62,27 @@
 	- Convert Markdown to HTML
 	- Generate Table of Contents
 	- Generate Links and Backlinks
+	- Generate Breadcrumbs
+	- Merge Components to form Content Pages
 	- Generate Graph Database
 	- Generate Navigation Tree
-	- Generate Breadcrumbs on Each Page
-	- SPA Routing
 	- Generate Search Database
+	- SPA Routing
+	- Apply Styles to the Website
 
 - Styling
-	- Style Tree Expander
-	- Style File Tree Labels
+	- Style Site Components
+		- Navigation Tree
+			- Style Tree Expander
+			- Style File Tree Labels
+		- Table of Contents
+		- Search
 	- Style Content Components
+		- Callouts
+		- Highlights
+		- External Links
+		- Internal Links
+		- 
 
 - Logic
 	- SPA Routine
