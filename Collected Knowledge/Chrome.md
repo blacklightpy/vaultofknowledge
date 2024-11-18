@@ -1,0 +1,1 @@
+It refers to the non-content components of a browser, such as the bookmarks toolbar, address bar, tab indicator, etc.

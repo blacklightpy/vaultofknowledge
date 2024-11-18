@@ -274,7 +274,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -391,6 +392,9 @@
   },
   "active": "f11394f37150e0c5",
   "lastOpenFiles": [
+    "Collected Knowledge/How to Make My Website Load Articles Without Redirecting.md",
+    "🤠 Personal/Personal Website Ideas.md",
+    "Collected Knowledge/Chrome.md",
     "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
     "Photon Energy Amplitude Intensity Relations.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Search Engine Optimization.md",
@@ -414,9 +418,6 @@
     "Collected Knowledge/GNU System Building - Set Up Hibernation.md",
     "Collected Knowledge/Studies on Morality.md",
     "🔮 World Building/Science and Engineering/Physics/Starship Engines.md",
-    "Collected Knowledge/Morality.md",
-    "Collected Knowledge/Ethics.md",
-    "Collected Knowledge/Symbolic Culture.md",
     "_images/16 by 9 Aspect Ratio.png",
     "🤠 Personal/Daily Notes",
     "🗺️ World Exploration/Life Forms",

@@ -82,7 +82,9 @@
 		- Highlights
 		- External Links
 		- Internal Links
-		- 
+		- Tables
+		- Code blocks
+		- HTML embeds
 
 - Logic
 	- SPA Routine
