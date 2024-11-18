@@ -10,4 +10,4 @@
 	- Semaphores
 	- Shared Memory
 # Userspace IPC
-- D-Bus (by [[Freedesktop Projects|Freedesktop]])
+- [[D-Bus]] (by [[Freedesktop Projects|Freedesktop]])
