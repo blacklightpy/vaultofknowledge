@@ -13,10 +13,10 @@
 - Industry: Passkeys
 - FIDO Alliance: Multi-Device FIDO Credentials & Single-Device FIDO Credentials
 - Yubico: Copyable Passkeys & Device-Bound Passkeys
-## Protocol
-### Web App Protocols
+## Protocols
+### Web App Protocol
 - WebAuthn by W3C
-### Client To Authenticator Protocols (CTAP)
+### Client To Authenticator Protocol 2 (CTAP2)
 - OS Credential Manager (TPM)
 - OS Credential Manager (Storage)
 - Hardware Security Module
@@ -27,8 +27,8 @@
 - macOS: Native with Cloud Sync
 - Windows: Native, Cloud Sync in works
 - Linux: Native in works
-	- tpm-fido (U2F/FIDO2 keys in TPM)
-	- linux-pam#616 discussion
-	- Firefox and GNOME are waiting for xdg-desktop-portal
-	- Chrome supports QR code scanning to use phones via caBLE
-	- xdg-credentials-portal is also being developed
+	- `linux-pam#616` discussion (Rejected)
+	- Firefox and GNOME are waiting for `xdg-desktop-portal`
+	- `xdg-credentials-portal` is also being developed
+	- Alternative 1 (TPM <-> USB HID emulation): tpm-fido (U2F/FIDO2 keys in TPM)
+	- Alternative 2 (Remote): Chrome supports QR code scanning to use phones via caBLE
