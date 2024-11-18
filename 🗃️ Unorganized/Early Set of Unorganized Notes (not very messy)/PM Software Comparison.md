@@ -1,37 +1,37 @@
 Copy from Text Files
 [[PM Software]]
 
-| Software           | Android App | Design Level | Gantt Charts on Phone | Gantt Charts on PC | Agile |
-| ------------------ | ----------- | ------------ | --------------------- | ------------------ | ----- |
-| Jetbrains YouTrack |             |              |                       |                    |       |
-| Bugzilla           |             |              |                       |                    |       |
-| Flyspray           |             |              |                       |                    |       |
-| Teamwork Projects  |             |              |                       |                    |       |
-| Aceproject         |             |              |                       |                    |       |
-| Asana              |             | Modern 1     |                       |                    |       |
-| Monday.com         |             | Modern 1     |                       |                    |       |
-| Wrike              |             | Modern 1     |                       |                    |       |
-| Airtable           |             | Modern 1     |                       |                    |       |
-| Clickup            |             | Modern 1     |                       |                    |       |
-| Ora                |             | Modern 1     |                       |                    |       |
-| ProofHub           |             | Modern 1     |                       |                    |       |
-| Backlog            |             | Modern 1     |                       |                    |       |
-| Zace               |             | Modern 1     |                       |                    |       |
-| Basecamp           |             | Modern 2     |                       |                    |       |
-| Zoho Projects      |             | Modern 2     |                       |                    |       |
-| Hive               |             | Modern 2     |                       |                    |       |
-| Smartsheets        |             | Modern 2     |                       |                    |       |
-| Nifty              |             | Modern 2     |                       |                    |       |
-| Project 365        |             | Modern 2     |                       |                    |       |
-| nTask              |             | Modern 2     |                       |                    |       |
-| Trello             |             | Traditional  |                       |                    |       |
-| Jira Software      |             | Traditional  |                       |                    |       |
-| Shortcut.com       |             | Traditional  |                       |                    |       |
-| Linear             |             | Traditional  |                       |                    |       |
-| Liquid Planner     |             | Gantt        |                       |                    |       |
-| GanttPRO           |             | Gantt        |                       |                    |       |
-| Agantty            |             | Gantt        |                       |                    |       |
-| TeamGantt          |             | Gantt        |                       |                    |       |
+| Software           | Android App | Design Level | Gantt Charts |
+| ------------------ | ----------- | ------------ | ------------ |
+| Jetbrains YouTrack |             |              |              |
+| Bugzilla           |             |              |              |
+| Flyspray           |             |              |              |
+| Teamwork Projects  |             |              |              |
+| Aceproject         |             |              |              |
+| Asana              |             | Modern 1     |              |
+| Monday.com         |             | Modern 1     |              |
+| Wrike              |             | Modern 1     |              |
+| Airtable           |             | Modern 1     |              |
+| Clickup            |             | Modern 1     |              |
+| Ora                |             | Modern 1     |              |
+| ProofHub           |             | Modern 1     |              |
+| Backlog            |             | Modern 1     |              |
+| Zace               |             | Modern 1     |              |
+| Basecamp           |             | Modern 2     |              |
+| Zoho Projects      |             | Modern 2     |              |
+| Hive               |             | Modern 2     |              |
+| Smartsheets        |             | Modern 2     |              |
+| Nifty              |             | Modern 2     |              |
+| Project 365        |             | Modern 2     |              |
+| nTask              |             | Modern 2     |              |
+| Trello             |             | Traditional  |              |
+| Jira Software      |             | Traditional  |              |
+| Shortcut.com       |             | Traditional  |              |
+| Linear             |             | Traditional  |              |
+| Liquid Planner     |             | Gantt        |              |
+| GanttPRO           |             | Gantt        |              |
+| Agantty            |             | Gantt        |              |
+| TeamGantt          |             | Gantt        |              |
 
 ## JetBrains YouTrack
 - Free for 10 users
