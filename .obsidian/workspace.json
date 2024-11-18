@@ -208,13 +208,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collected Knowledge/Digital Rights Management.md",
+                "file": "Collected Knowledge/Google Widevine.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Rights Management"
+              "title": "Google Widevine"
             }
           }
         ],
@@ -392,8 +392,8 @@
   },
   "active": "f11394f37150e0c5",
   "lastOpenFiles": [
-    "Collected Knowledge/Google Widevine.md",
     "Collected Knowledge/Digital Rights Management.md",
+    "Collected Knowledge/Google Widevine.md",
     "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/D-Bus.md",
     "Collected Knowledge/Serialization.md",
     "Collected Knowledge/Remote Procedure Call.md",

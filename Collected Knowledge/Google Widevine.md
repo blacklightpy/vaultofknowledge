@@ -11,7 +11,10 @@ But browsers on Linux can play Widevine easily.
 Widevine has three levels of execution. L1, L2 and L3.
 Linux only supports L3, which can only play up to 720p HD.
 Windows and macOS support L1, which can play at the highest qualities, including Full HD and 4K.
+
+Running Full HD on Linux (Hack): https://www.reddit.com/r/linux/comments/1007akp/how_i_got_xfinity_stream_to_work_on_linux_a_tale/
 # Terms
+Fill the rest from: https://www.expressplay.com/products/faq
 - TV Terms
 	- Over The Top (OTT)
 	- Service: Pay-TV
