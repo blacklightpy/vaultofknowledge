@@ -19,3 +19,5 @@ DESIRE:
 In both cases, we care about consensus. Science is not a logical construct that is self-contained, but a process of recording observations in such a way that it can be reproduced in front of others.
 
 #transfer-elsewhere for example: if you perform a trick and record it, but you cannot explain it to someone else, then it cannot be considered science, unless it's like that specific person cannot see it, but some others can. For example, if you tell a colour blind person that there are two separate colours when you perform an experiment, they may not be able to see that. You can still make it scientific, knowing by deeper experimentation that colour is a product of how cells react to light particles.
+
+Another example is that of making a process to make a certain tasty food. Although the process is documented well, taste is highly subjective, and we cannot achieve consensus on the tastiness of said food.
