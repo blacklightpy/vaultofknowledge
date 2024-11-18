@@ -40,12 +40,15 @@ Copy from Text Files
 - Open Source
 ## Flyspray
 - Used by Arch
+# Modern 1
 ## Ora
 - Sprints
 - Gantt
 - Time Tracking
 - 7h max work day with available / overdue time indicator
 - View all users' task list at a glance
+# Modern 2
+
 # Traditional Issue Tracking
 ## Trello
 - Simple Kanban tool

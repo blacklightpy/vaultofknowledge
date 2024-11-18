@@ -1,3 +1,3 @@
 - Docs: Editing and Cloud
-- DocSpace: Editing and Cloud with extras like e-Mail
-- Workspace: Editing and Cloud with extras like 
+- DocSpace: Editing and Cloud with extras like e-mail
+- Workspace: Editing and Cloud with extras like CRM
