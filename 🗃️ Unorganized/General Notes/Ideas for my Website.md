@@ -3,9 +3,11 @@ See https://mirrors.tnonline.net
 My notes could be:
 ```
 |- thoughts
-|- knowledge
+|- personal stash
+|- knowledge collection
+|- knowledge organization
 |- designing
-|- creative
+|- creative works
 ```
 
 ```
@@ -44,7 +46,13 @@ To expand:
       |- study of animals
       |- study of birds
       |- study of plants
-      |- study of human body
+      |- study of systems of living bodies
+         |- study of systems of the human body
+         |- study of systems of animal bodies
+      |- study of toxins
+      |- study of diseases
+      |- study of disease causers
+      |- study of medicine
    |- study of fossils
    |- study of description (math)
 
@@ -102,7 +110,7 @@ To expand (3 levels):
 |  |  |- Markup Language Works
 |  |  |- Natural Language Works
 |  |  |- Technical Drawing
-|  |- Tangible Items
+|  |- Tangible Devices
 |  |  |- Manual Tools
 |  |  |- Powered Tools
 |  |  |- Clockwork Devices
