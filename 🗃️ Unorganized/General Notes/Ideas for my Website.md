@@ -44,6 +44,7 @@ To expand:
       |- study of animals
       |- study of birds
       |- study of plants
+      |- study of human body
    |- study of fossils
    |- study of description (math)
 
