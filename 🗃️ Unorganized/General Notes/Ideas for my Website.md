@@ -38,6 +38,7 @@ To expand:
    |- study of evolution of the universe
    
    |- study of unseen reality
+   |- study of methodology of acquiring knowledge
    |- study of things
    
       |- study of interactions between things
