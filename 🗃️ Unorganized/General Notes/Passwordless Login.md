@@ -17,7 +17,12 @@
 ### Web App Protocols
 - WebAuthn by W3C
 ### Client To Authenticator Protocols (CTAP)
-- caBLE (Cloud Assisted BLE) protocol to authenticate using smartphones
+- OS Credential Manager (TPM)
+- OS Credential Manager (Storage)
+- Hardware Security Module
+- Password Manager Extension
+- Password Manager
+- Nearby Device: caBLE (Cloud Assisted BLE) v2 protocol to authenticate using smartphones
 ## Operating Systems
 - macOS: Native with Cloud Sync
 - Windows: Native, Cloud Sync in works
