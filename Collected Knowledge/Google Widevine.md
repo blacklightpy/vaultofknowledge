@@ -58,7 +58,7 @@ Windows and macOS support L1, which can play at the highest qualities, including
 		- Enhanced Content Protection (ECP) specification
 
 - Multi-DRM
-- CENC standard
+- MPEG Common Encryptions (CENC) standard
 	- AES-CTR
 	- AES-CBC
 - Standards
@@ -66,28 +66,29 @@ Windows and macOS support L1, which can play at the highest qualities, including
 		- APIs for provisioning the browser media stack with DRM license required to play the content
 		- Modules
 			- Content Decryption Module (CDM)
-				- Evaluates 
+				- Evaluates rules in the DRM license to ensure the content keys are handled securely
 	- Media Source Extensions (MSE)
 	- Content Protection Information Exchange Format (CPIX)
 	- SPEKE
 
 - Common Media Application Format (CMAF)
 - Widevine
-	- Verified Media Path (VMP)
-		- Widevine Desktop Browser CDM supports VMP
-		- VMP lets you verify browser authenticity, to know it is sanctioned by Widevine
-		- All Widevine browser integrations should support VMP
-		- Linux does not have VMP
-
-
-A critical module of EME is a trusted component called the Content Decryption Module (CDM), which evaluates the rules specified in the DRM license to ensure that content keys are handled securely. Once the media has been decrypted by the CDM, it is essential that the browser is able to securely process the so- decrypted media.
-
-When the browser is combined with a native DRM client, and when video playback is about to start, content decryption occurs through a Secure Video Path (SVP), enforcing the rules of the “hardware-based DRM client.” When the browser is not paired with a native DRM client, the CDM is mostly using a “software-based DRM client,” such as Chrome or Firefox browsers running on desktop computers. In these cases, the Widevine desktop browser CDM includes support for VMP, a feature that ensures Widevine has sanctioned the browser-based media processing implementation. For more details, please refer to What is the difference between software-based and hardware-based security?
-
-Over time, Google has deprecated all CDM versions that do not support VMP and today requires VMP for all browser CDM implementations to stay current with the stable Chrome releases. This requirement is intended to make sure that the updates are applied with support for the latest APIs. More recently, Google also adopted a policy of enforcing the VMP requirement, which means Widevine DRM license servers by default will issue licenses only for CDMs that support VMP.
-
-To avoid problems for subscribers, these best practices are crucial with Widevine DRM:
-
-**OTT service providers** must instruct their subscribers to update their browser and related components (including CDM) to the latest version. This automatic update process is usually performed seamlessly for browsers on Mac OS X and Windows OS. However, the automatic update may not always be successful and, consequently, some subscribers are unwittingly using a Chrome browser version with a deprecated CDM without support for VMP. As a result, they will not be able to play Widevine DRM protected content.
-
-For **desktop Linux browsers** that do not support VMP, it is possible to override the default Widevine DRM license server behavior by specifying a dedicated flag and still issue a license to grant playback. The ExpressPlay DRM service will provide a mechanism to override the default Widevine license server if needed.
+	- Standards used
+		- MPEG Common Encryption (CENC)
+		- W3C Encrypted Media Extensions (EME)
+		- Media Source Extensions (MSE)
+		- Dynamic Adaptive Streaming over HTTP (DASH)
+		- Apple HTTP Live Streaming (HLS)
+	- Definitions
+		- Verified Media Path (VMP)
+			- In Widevine, the desktop browser CDM (EME API's module) supports VMP
+			- VMP lets you verify browser authenticity, to know it is sanctioned by Widevine
+				- All Widevine browser integrations should support VMP
+				- Linux does not have VMP
+			- Once CDM decrypts the media, it must also be securely processed by the browser
+			- When a browser is combined with a native DRM client, when video playback is about to start, decryption occurs through a Secure Video Path, enforcing the rules of the hardware-based DRM client.
+			- When a browser is not combined with a native DRM client, CDM uses a software-based DRM client, like what Chrome or Firefox uses. In these cases, the desktop browser CDM includes support for VMP.
+			- VMP ensures Widevine has sanctioned the browser's implementation of media processing.
+			- Google deprecated all CDM versions that do not support VMP to stay current with Chrome releases.
+			- Google also enforced VMP from the Widevine DRM license servers to only allow CDMs that support VMP.
+			- But Linux browsers get a free pass, by using a dedicated flag, because of Google's support. But this only gives up to L3 support.
