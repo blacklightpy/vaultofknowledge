@@ -50,3 +50,32 @@
 **Blog**
 - RSS
 - Convert tweet replies to WP Comments (for Blog)
+
+# Trying to make it myself
+
+- Layout:
+	- Table of Contents
+	- Navigation Tree
+	- Search Bar
+
+- Generator:
+	- Convert Markdown to HTML
+	- Generate Table of Contents
+	- Generate Links and Backlinks
+	- Generate Graph Database
+	- Generate Navigation Tree
+	- Generate Breadcrumbs on Each Page
+	- SPA Routing
+	- Generate Search Database
+
+- Styling
+	- Style Tree Expander
+	- Style File Tree Labels
+	- Style Content Components
+
+- Logic
+	- SPA Routine
+	- Handle Tree Expander Clicks
+	- Toggle Expand/Collapse All Folders
+	- Graph Representation
+	- Graph Redirection
