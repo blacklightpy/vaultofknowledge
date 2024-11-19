@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -344,10 +344,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cdad2d4dbc121f52",
+  "active": "beba24a0b5f2cc81",
   "lastOpenFiles": [
-    "index.md",
+    "06. Collected Knowledge/Ideas for my Website.md",
     "05. Organized Knowldge - New Format/Placeholder Note.md",
+    "index.md",
     "05. Organized Knowldge - New Format",
     "README.md",
     "Organizational Planning.md",
@@ -356,7 +357,6 @@
     "07. Miscellaneous/Exploring Ideas 1/Untitled.md",
     "01. Personal/Toolkits/Note Taking Tools.md",
     "01. Personal/Toolkits/🫂️ Social Medias/For Visual Content.md",
-    "06. Collected Knowledge/Ideas for my Website.md",
     "06. Collected Knowledge/Studies on Morality.md",
     "06. Collected Knowledge/The Inheritance of Sin.md",
     "06. Collected Knowledge/UI Metrics.md",
