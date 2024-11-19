@@ -1,0 +1,1 @@
+Document Markup Languages, or Simply Markup languages are encoding systems that specify the structure of documents. It is similar to [[Serialization|data serialization]] formats, but are specifically more used for marking up documents.

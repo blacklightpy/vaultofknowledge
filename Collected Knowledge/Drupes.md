@@ -1,3 +1,0 @@
-In the [[study of plants]], a drupe or stone fruit is a type of [[Fruits]] in which an outer fleshy part (made of the exocarp ("outer fruit" or skin) and mesocarp ("middle fruit" or flesh)) surrounds a single shell (the pip, pit, stone or [[Pyrena]]) of a hardened endocarp ("inner fruit" or seed coat) with a [[seed]] ([[Collected Knowledge/Kernel]]) inside.
-
-In [[Aggregate Fruits]], each individual fruit is called a drupelet.

@@ -1,0 +1,1 @@
+They are [[middleware]] programs used to contact a machine from another using [[Remote Procedure Call|RPCs]].

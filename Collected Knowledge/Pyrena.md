@@ -1,1 +1,0 @@
-A pyrena or pyrene (commonly called a "pit" or "stone") is the fruitstone within a [[Drupes|drupe]] or drupelets (individuals in [[Aggregate Fruits|aggregate]] drupes) produced by the ossification of the endocarp ("inner fruit") or lining of the fruit. It consists of a hard endocarp tissue surrounding one or more [[Seeds]] ([[Collected Knowledge/Kernel]]).
