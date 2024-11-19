@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Collected Knowledge/De-Latinization of Science.md",
+                "file": "06. Collected Knowledge/De-Latinization of Science.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Collected Knowledge/Passwordless Login.md",
+                "file": "06. Collected Knowledge/Passwordless Login.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Collected Knowledge/Branding of Operating Systems.md",
+                "file": "06. Collected Knowledge/Branding of Operating Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Collected Knowledge/How to Letterbox in UNIX-like Systems.md",
+                "file": "06. Collected Knowledge/How to Letterbox in UNIX-like Systems.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Collected Knowledge/The Inheritance of Sin.md",
+                "file": "06. Collected Knowledge/The Inheritance of Sin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -148,7 +148,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Collected Knowledge/Ideas for my Website.md",
+                "file": "06. Collected Knowledge/Ideas for my Website.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -163,13 +163,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Miscellaneous/🏛️ Studying Social Problems/Guide.md",
+                "file": "05. Organized Knowldge - New Format/Placeholder Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guide"
+              "title": "Placeholder Note"
             }
           }
         ],
@@ -346,37 +346,38 @@
   },
   "active": "cdad2d4dbc121f52",
   "lastOpenFiles": [
-    "06. Miscellaneous/Exploring Ideas 1/Untitled.md",
+    "index.md",
+    "05. Organized Knowldge - New Format/Placeholder Note.md",
+    "05. Organized Knowldge - New Format",
+    "README.md",
+    "Organizational Planning.md",
+    "How to read this knowledgebase.md",
+    "07. Miscellaneous/🏛️ Studying Social Problems/Guide.md",
+    "07. Miscellaneous/Exploring Ideas 1/Untitled.md",
     "01. Personal/Toolkits/Note Taking Tools.md",
     "01. Personal/Toolkits/🫂️ Social Medias/For Visual Content.md",
-    "05. Collected Knowledge/Ideas for my Website.md",
-    "05. Collected Knowledge/Studies on Morality.md",
-    "05. Collected Knowledge/The Inheritance of Sin.md",
-    "05. Collected Knowledge/UI Metrics.md",
-    "04. Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Search Engine Optimization.md",
-    "05. Collected Knowledge/How to ask for payments (as a communist).md",
-    "05. Collected Knowledge/Key Performance Indicators.md",
-    "04. Organized Knowledge - Legacy/Business and Finance/Company Management/Project Management/PM Software.md",
-    "06. Miscellaneous/Untitled Set 1/PM Software Comparison.md",
-    "05. Collected Knowledge/Photon Energy Amplitude Intensity Relations.md",
-    "05. Collected Knowledge/Google Widevine.md",
-    "05. Collected Knowledge/Digital Rights Management.md",
-    "04. Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/D-Bus.md",
-    "05. Collected Knowledge/Serialization.md",
-    "05. Collected Knowledge/Remote Procedure Call.md",
-    "05. Collected Knowledge/Object Request Broker.md",
-    "05. Collected Knowledge/Abstract Syntax Notation One.md",
-    "05. Collected Knowledge/Document Markup Languages.md",
-    "05. Collected Knowledge/Linux Pro.md",
-    "04. Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
-    "04. Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects.md",
-    "05. Collected Knowledge/Google Protocol Buffers.md",
-    "01. Personal/Project Ideas/Website - Black Light Laboratories.md",
+    "06. Collected Knowledge/Ideas for my Website.md",
+    "06. Collected Knowledge/Studies on Morality.md",
+    "06. Collected Knowledge/The Inheritance of Sin.md",
+    "06. Collected Knowledge/UI Metrics.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Search Engine Optimization.md",
+    "06. Collected Knowledge/How to ask for payments (as a communist).md",
+    "06. Collected Knowledge/Key Performance Indicators.md",
+    "04. Organized Knowledge - Old Format/Business and Finance/Company Management/Project Management/PM Software.md",
+    "07. Miscellaneous/Untitled Folder 1/PM Software Comparison.md",
+    "06. Collected Knowledge/Photon Energy Amplitude Intensity Relations.md",
+    "06. Collected Knowledge/Google Widevine.md",
+    "06. Collected Knowledge/Digital Rights Management.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/D-Bus.md",
+    "06. Collected Knowledge/Serialization.md",
+    "06. Collected Knowledge/Remote Procedure Call.md",
+    "06. Collected Knowledge/Object Request Broker.md",
+    "06. Collected Knowledge/Abstract Syntax Notation One.md",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
     "03. Culture/Life Forms",
-    "04. Organized Knowledge - Legacy/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
-    "04. Organized Knowledge - Legacy/Science and Engineering/Engineering/Marine Engineering",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering/Marine Engineering",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "_images/adfsdfads.jpg",
     "_images/Water Splash Sample Image.jpg",

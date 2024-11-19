@@ -1,5 +1,5 @@
 # Theory and Processes
-- See [[04. Organized Knowledge - Legacy/Creativity and Arts/Colour Theory/Colour Theory|World Building > Colour Theory]]
+- See [[04. Organized Knowledge - Old Format/Creativity and Arts/Colour Theory/Colour Theory|World Building > Colour Theory]]
 - Colour Grading
 # Aspects of Colours
 - Tint

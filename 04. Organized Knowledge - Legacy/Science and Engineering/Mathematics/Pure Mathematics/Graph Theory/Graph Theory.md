@@ -1,1 +1,0 @@
-Graph theory is the study of [[04. Organized Knowledge - Legacy/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graphs|graphs]], 
