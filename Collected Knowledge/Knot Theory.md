@@ -1,1 +1,1 @@
-In [[Topology]], it is the study of [[knots]].
+In [[Topology]], it is the study of [[Knots]].

@@ -14,7 +14,7 @@ I'll describe how I came to learning this (I think it's good to let an newbie kn
 
 - We use `i2c-dev` (built-in) and `ddcci` (external) kernel modules for the same.
 - If we are accessing it by `i2c-dev` interfaces, the utility to use is `ddcutil`.
-- If we are using `ddcci`, we'll be using [[userland|user-space]] utilities like Brightness, brillo, `ddccontrol`, etc.
+- If we are using `ddcci`, we'll be using [[Userland|user-space]] utilities like Brightness, brillo, `ddccontrol`, etc.
 
 - From [linux-i2c Mailing List](https://linux-i2c.vger.kernel.narkive.com/BwIEWfXY/ddc-ci-over-i2c):
 	- A monitor is accessed via device `/dev/i2c-n`, created by the video device driver.

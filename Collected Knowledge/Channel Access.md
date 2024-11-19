@@ -1,6 +1,6 @@
 It is also called Multiple Access.
 
-Multiple access schemes are based on [[multiplexing]].
+Multiple access schemes are based on [[Multiplexing]].
 ## Channel Based Methods
 - Code Division Multiple Access (CDMA) / Spread Spectrum Multiple Access (SSMA)
 	- Direct Sequence Code Division Multiple Access (DS-CDMA)
@@ -131,7 +131,7 @@ MACA, MACAW, CSMA, CSMA/CA, DCF, PCF, HCF, CSMA/CARP
 Token Ring, Token bus, MS-ALOHA
 ## Duplexing methods
 
-Where these methods are used for dividing forward and reverse communication channels, they are known as [[duplexing]] methods.
+Where these methods are used for dividing forward and reverse communication channels, they are known as [[Duplexing]] methods.
 
 Some types of full-duplexing methods are:
 

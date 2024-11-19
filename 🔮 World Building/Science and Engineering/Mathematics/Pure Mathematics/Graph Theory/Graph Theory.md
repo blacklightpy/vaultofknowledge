@@ -1,1 +1,0 @@
-Graph theory is the study of [[🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graphs|graphs]], 

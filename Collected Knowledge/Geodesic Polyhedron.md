@@ -1,1 +1,1 @@
-A geodesic polyhedron is a [[polyhedron]] 
+A geodesic polyhedron is a [[Polyhedron]] 

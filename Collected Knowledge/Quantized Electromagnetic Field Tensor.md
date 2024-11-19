@@ -12,4 +12,4 @@ It is used in relativistic physics, but it can be quantized by a [[Lagrangian Me
 - All particles are excitations of their own particle-antiparticle field.
 - Charged particles such as quarks, electrons, muons and taus, and their antiparticles interact via the electromagnetic field.
 - For example, electrons and positrons are affected by the electromagnetic field, but neutrinos aren't.
-- Quarks are disturbances in the [[quarks|quark]] field, and they interact via the [[gluons|gluon]] field.
+- Quarks are disturbances in the [[Quarks|quark]] field, and they interact via the [[Gluons|gluon]] field.

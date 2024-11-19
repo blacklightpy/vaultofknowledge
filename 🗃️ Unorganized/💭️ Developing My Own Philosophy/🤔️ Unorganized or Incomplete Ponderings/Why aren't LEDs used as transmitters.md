@@ -40,7 +40,7 @@ NOTE: YES! Remotes use on-off keying (OOK), which is the simplest form of ASK. W
 - Stopband: The frequency range that is stopped by a band-stop filter.
 	- Typically, the width of the stopband is 1 or 2 decades away.
 		- A decade is a frequency interval of ten times, like an octave, which is twice the original frequency. This is measures frequency levels, unlike decibel, another [[Logarithmic Scale]] unit which measures amplitudes.
-		- The steepness of the [[🔮 World Building/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function|transfer function]] with frequency of a filter is called the roll-off.
+		- The steepness of the [[Organized Knowledge - Legacy/Science and Engineering/Mathematics/Applied Mathematics/Control Theory/Transfer Function|transfer function]] with frequency of a filter is called the roll-off.
 		- The roll off of a filter is usually 20 dB/decade, because by theory, every frequency attenuated by x times will have a strength drop of 20log(X) dB. It is also equal to 6db/octave.
 - Bandpass signal: The filtered signal after passing through a bandpass filter.
 - Lowpass Filter: A filter than only allows bands below a cut-off frequency to pass.

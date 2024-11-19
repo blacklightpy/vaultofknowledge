@@ -30,7 +30,7 @@ Codecs are used to encode audio and video files into standard formats or to deco
 - AviSynth - It is a filter based tool for transferring video frames from one application to another without using temporary files, also known as a frameserver. It is used in video post-production workflows for [[Non-Linear Editing]] of videos.
 - Apple Quicktime (Proprietary)
 ### DirectShow Filters
-Both below are basically 3rd party DirectShow [[filters]] based on FFmpeg
+Both below are basically 3rd party DirectShow [[Filters]] based on FFmpeg
 
 - ffdshow, a codec library based on FFmpeg providing DirectShow filters and Video For Windows codecs
 	- Discontinued in favour of LAV Filters

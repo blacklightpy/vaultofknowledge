@@ -1,1 +1,0 @@
-It is said to be after the Grand Unified epoch, and before the [[quark epoch]].

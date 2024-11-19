@@ -1,4 +1,4 @@
-We tend to think of motion in terms of position and its first few derivatives - velocity and acceleration. Rarely do we ever get to [[jerk]].
+We tend to think of motion in terms of position and its first few derivatives - velocity and acceleration. Rarely do we ever get to [[Jerk]].
 
 But if we think about it, we only approximate them by looking at the scale of classical mechanics.
 

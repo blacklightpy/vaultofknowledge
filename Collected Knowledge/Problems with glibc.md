@@ -8,6 +8,6 @@ A problem with this is that the system call design seems poorly designed, and th
 
 Also the Linux kernel apparently does not provide a stable ABI for modules, so kernel drivers always have to be recompiled.
 
-[[Kernel module|Kernel modules]] are not baked into the kernel, and are separately compiled. Still, they are in the kernel space. 
+[[Kernel Module|Kernel modules]] are not baked into the kernel, and are separately compiled. Still, they are in the kernel space. 
 
 Frameworks like [[Dynamic Kernel Module Support|DKMS]] can work around this issue.

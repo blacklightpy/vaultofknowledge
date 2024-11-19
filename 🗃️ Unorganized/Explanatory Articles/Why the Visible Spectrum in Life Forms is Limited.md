@@ -3,7 +3,7 @@ The following is an image from the NOAA, obtained from this answer: [Answer by C
 
 ![[Light penetration in water.png]]
 
-The human eye's [[tristimulus]] response curve has a similar range, with frequencies corresponding to blue and yellow light having low responses, while green has a peak. Now, colours in human eyes are not fundamental, but rather due to the stimulation of red, green and blue cells of the same frequency, which is what tri-stimulus is. But, we can represent that frequency as the combination of RGB values using the [[RGB Colour Model]], which replicates exactly what our eyes do! (In other words, it is not that our eyes see red, green and blue; rather, we see the plain frequencies as red, green and blue.)
+The human eye's [[Tristimulus]] response curve has a similar range, with frequencies corresponding to blue and yellow light having low responses, while green has a peak. Now, colours in human eyes are not fundamental, but rather due to the stimulation of red, green and blue cells of the same frequency, which is what tri-stimulus is. But, we can represent that frequency as the combination of RGB values using the [[RGB Colour Model]], which replicates exactly what our eyes do! (In other words, it is not that our eyes see red, green and blue; rather, we see the plain frequencies as red, green and blue.)
 
 So the thing is, our eyes have "vitreous humor", which is a fluid that keeps the retina in shape. So this flow of light through the fluid filters it in a similar fashion to how water does, and thus we have similar response curves.
 

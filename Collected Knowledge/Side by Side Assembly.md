@@ -1,4 +1,4 @@
-Side by Side Assembly, or SxS was a feature added in windows to resolve the problem of conflicts within [[dynamically linked libraries]], or "DLL Hell".
+Side by Side Assembly, or SxS was a feature added in windows to resolve the problem of conflicts within [[Dynamically Linked Libraries]], or "DLL Hell".
 
 With SxS, the dynamic libraries such as Microsoft Visual C++ Redistributables are installed to the WinSxS directory (`%WinDir%/WinSxS`), which is a privileged directory which can only be accessed by installers. Programs that do not want to ship an installer with administrator privileges tend to bundle the CRT in the app directories.
 

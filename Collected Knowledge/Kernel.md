@@ -6,7 +6,7 @@ This word is also a doublet of "grain".
 # Uses
 ## In computer science
 ### In operating systems
-[[🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel|Kernel]] refers to the core of an operating system.
+[[Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Operating Systems/Kernel|Kernel]] refers to the core of an operating system.
 ### In image processing
 Kernel refers to a matrix used for image convolution.
 ### In 3D modelling

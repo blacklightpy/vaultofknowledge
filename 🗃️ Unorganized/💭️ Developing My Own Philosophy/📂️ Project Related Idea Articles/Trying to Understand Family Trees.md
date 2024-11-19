@@ -115,4 +115,4 @@ public:
 # Closing Thoughts
 After going through some StackOverflow discussions on the topic, I think it's best to use **Boost::Graph** than code up my own data structure and functions.
 
-The family tree is a [[🔮 World Building/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs|graph]] in any case.
+The family tree is a [[Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Data Structures/Graphs|graph]] in any case.

@@ -1,1 +1,1 @@
-Group theory is the branch of [[Abstract Algebra]] that studies the [[Algebraic Structures]] called [[groups]].
+Group theory is the branch of [[Abstract Algebra]] that studies the [[Algebraic Structures]] called [[Groups]].

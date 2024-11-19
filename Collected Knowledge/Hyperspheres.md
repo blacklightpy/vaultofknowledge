@@ -1,1 +1,1 @@
-A Hypersphere or $n$-sphere is a generalization of the 1-dimensional [[circles|circle]] and 2-dimensional [[Spheres|sphere]] to any non-negative integer $n$. The ⁠${\displaystyle n}$⁠-sphere is the setting for ⁠${\displaystyle n}$⁠-dimensional [[Spherical Geometry]].
+A Hypersphere or $n$-sphere is a generalization of the 1-dimensional [[Circles|circle]] and 2-dimensional [[Spheres|sphere]] to any non-negative integer $n$. The ⁠${\displaystyle n}$⁠-sphere is the setting for ⁠${\displaystyle n}$⁠-dimensional [[Spherical Geometry]].

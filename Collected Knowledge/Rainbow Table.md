@@ -1,1 +1,1 @@
-It's a type of [[lookup tables|lookup table]] used for hacking.
+It's a type of [[Lookup Tables|lookup table]] used for hacking.

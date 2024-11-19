@@ -1,5 +1,5 @@
 ## In mathematics (graph theory)
-A path in a [[🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graphs|graph]] is a finite or infinite [[sequence]] of [[edge|edges]] which joins a sequence of [[vertex|vertices]] which, by most definitions, are all distinct.
+A path in a [[Organized Knowledge - Legacy/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory/Graphs|graph]] is a finite or infinite [[sequence]] of [[edge|edges]] which joins a sequence of [[vertex|vertices]] which, by most definitions, are all distinct.
 
 Since the vertices are distinct, so are the edges.
 ### Terms

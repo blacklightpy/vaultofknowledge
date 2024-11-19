@@ -7,7 +7,7 @@ ROS is released periodically as distributions, named alphabetically, like Androi
 
 > [!NOTE] A note on Build Systems
 > 
-> In ROS parlance, the [[build systems]] are also referred to as meta-build systems. The line between a meta-build system and a build system is thin. A build system uses build scripts to automate building of multiple packages in a complex project. A meta-build system is used to generate the build scripts for one or more build systems in a project.
+> In ROS parlance, the [[Build Systems]] are also referred to as meta-build systems. The line between a meta-build system and a build system is thin. A build system uses build scripts to automate building of multiple packages in a complex project. A meta-build system is used to generate the build scripts for one or more build systems in a project.
 > 
 > Basically, a build system in an abstraction over manually compiling, and a meta-build system is an abstraction over build systems. Generally, meta-build systems (GNU Autotools, CMake, Meson, Bazel, etc.) can also invoke the build systems by itself, which would be appropriate if the project contains multiple build systems (GNU make, ninja, setuptools, etc.)
 

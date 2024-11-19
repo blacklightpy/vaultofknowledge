@@ -1,0 +1,5 @@
+It was the period in evolution of the early universe in which the four fundamental interactions had taken their present forms, but the temperature of the universe was still too high for the [[Quarks]] to bind to form [[Hadrons]].
+
+The quark epoch began approximately $10^{-12}$ seconds after the [[Big Bang Theory|Big Bang]], when the preceding [[Electroweak Epoch]] ended as the [[Electroweak Theory|Electroweak interactions]] separated into [[Weak Interactions]] and electromagnetism. During the quark epoch, the universe was filled with a dense, hot quark-gluon plasma, containing quarks, leptons and their anti-particles. Collisions between particles were too energetic to allow quarks to combine into hadrons. The quark epoch ended when the universe was $10^{-6}$ years old, when the average energy of the universe had fallen below the binding energy of the hadrons.
+
+The following period, when quarks became confined to hadrons was known as the [[Hadron Epoch]].

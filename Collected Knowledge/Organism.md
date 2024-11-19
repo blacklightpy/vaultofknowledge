@@ -1,1 +1,1 @@
-An organism is defined in a medical dictionary as any [[life|living]] thing that functions as an [[Individual]].
+An organism is defined in a medical dictionary as any [[Life|living]] thing that functions as an [[Individual]].

@@ -156,9 +156,19 @@
               "icon": "lucide-file",
               "title": "Ideas for my Website"
             }
+          },
+          {
+            "id": "cd8fd36de81be4c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -214,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -330,29 +339,29 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "597b74309d89f646",
+  "active": "cdad2d4dbc121f52",
   "lastOpenFiles": [
-    "Collected Knowledge/Studies on Morality.md",
     "Collected Knowledge/Ideas for my Website.md",
+    "Collected Knowledge/Studies on Morality.md",
     "Collected Knowledge/The Inheritance of Sin.md",
     "Collected Knowledge/UI Metrics.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Search Engine Optimization.md",
+    "Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Search Engine Optimization.md",
     "Collected Knowledge/How to ask for payments (as a communist).md",
     "Collected Knowledge/Key Performance Indicators.md",
-    "🔮 World Building/Business and Finance/Company Management/Project Management/PM Software.md",
+    "Organized Knowledge - Legacy/Business and Finance/Company Management/Project Management/PM Software.md",
     "🗃️ Unorganized/Early Set of Unorganized Notes (not very messy)/PM Software Comparison.md",
     "Collected Knowledge/Photon Energy Amplitude Intensity Relations.md",
     "Collected Knowledge/Google Widevine.md",
     "Collected Knowledge/Digital Rights Management.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/D-Bus.md",
+    "Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects/D-Bus.md",
     "Collected Knowledge/Serialization.md",
     "Collected Knowledge/Remote Procedure Call.md",
     "Collected Knowledge/Object Request Broker.md",
     "Collected Knowledge/Abstract Syntax Notation One.md",
     "Collected Knowledge/Document Markup Languages.md",
     "Collected Knowledge/Linux Pro.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
-    "🔮 World Building/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects.md",
+    "Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Operating Systems/Inter-Process Communications.md",
+    "Organized Knowledge - Legacy/Science and Engineering/Mathematics/Computer Science/Operating Systems/Freedesktop Projects.md",
     "Collected Knowledge/Google Protocol Buffers.md",
     "🤠 Personal/Project Ideas/Website - Black Light Laboratories.md",
     "🤠 Personal/Personal Website Ideas.md",
@@ -361,8 +370,8 @@
     "_images/16 by 9 Aspect Ratio.png",
     "🤠 Personal/Daily Notes",
     "🗺️ World Exploration/Life Forms",
-    "🔮 World Building/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
-    "🔮 World Building/Science and Engineering/Engineering/Marine Engineering",
+    "Organized Knowledge - Legacy/Science and Engineering/Mathematics/Pure Mathematics/Graph Theory",
+    "Organized Knowledge - Legacy/Science and Engineering/Engineering/Marine Engineering",
     "_images/main-qimg-f30b156321ba8ecf8a2acd6f42c1e8cb-pjlq.jpg",
     "_images/adfsdfads.jpg",
     "_images/Water Splash Sample Image.jpg",

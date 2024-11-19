@@ -13,7 +13,7 @@ The oxidation potential is a measure of the tendency of the reducing agent to be
 $\text{E}^\ominus_\text{cell} = \text{E}^\ominus_\text{oxidation} + \text{E}^\ominus_\text{reduction}$
 
 > [!NOTE] 
-> **If you get confused:** basically the half-cells want to do their spontaneous reactions, whether it be oxidation or reduction. Where there is oxidation, there is a reduction too ([[redox reactions]]). So their potentials will add up to give the cell's electrochemical potential.
+> **If you get confused:** basically the half-cells want to do their spontaneous reactions, whether it be oxidation or reduction. Where there is oxidation, there is a reduction too ([[Redox Reactions]]). So their potentials will add up to give the cell's electrochemical potential.
 # Definition
 The standard reduction potential ${\displaystyle E_{reduction}^{\ominus}}$ is measured under standard conditions: ==T = 298.15 K (25 °C / 77 °F), a unity activity (a = 1) for each ion participating into the reaction, a partial pressure of 1 atm (1.013 bar) for each gas taking part into the reaction, and metals in their pure state.==
 
@@ -28,7 +28,7 @@ The **reaction quotient** ($\displaystyle \text{Q}_\text{r}$), also often called
 
 The chemical activity of a dissolved species corresponds to its true thermodynamic concentration taking into account the electrical interactions between all ions present in solution at elevated concentrations.
 
-When the **[[chemical potential]]** of a reaction is calculated by the laws of thermodynamics, non-ideal solutions (deviating from [[Raoult's Law]]) have to be accommodated using chemical activity ($\displaystyle \text{a}$) by multiplying the **molar or molal concentration** ($\displaystyle \text{C}$) with an adjustment factor, called the **activity coefficient** ($\gamma$). 
+When the **[[Chemical Potential]]** of a reaction is calculated by the laws of thermodynamics, non-ideal solutions (deviating from [[Raoult's Law]]) have to be accommodated using chemical activity ($\displaystyle \text{a}$) by multiplying the **molar or molal concentration** ($\displaystyle \text{C}$) with an adjustment factor, called the **activity coefficient** ($\gamma$). 
 
 $\displaystyle \text{a} = \text{γC}$
 
