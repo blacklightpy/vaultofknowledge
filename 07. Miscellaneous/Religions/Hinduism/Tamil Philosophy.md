@@ -76,8 +76,11 @@
 - Pazha Mozhi Naanooru (Old Sayings Four Hundred)
 	- The following poem uses the adage that it is impossible to straighten the tail of a dog, as it impossible to control the unchaste mind of a girl by throwing her in prison:
 	- நிறையான் மிகுகலா நேரிழை யாரைச்
+          
 	  சிறையான் அகப்படுத்தல் ஆகா - அறையோ
+          
 	  வருந்த வலிதினின் யாப்பினும் நாய்வால்
+          
 	  திருந்துதல் என்றுமே இல்.
 	-  niraiyan mikukallā nērilai yāraic
 	  ciraiyān akappațuttal ākā – araiyo
