@@ -156,9 +156,21 @@
               "icon": "lucide-file",
               "title": "Ideas for my Website"
             }
+          },
+          {
+            "id": "d9e89782ab55b367",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -330,7 +342,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "597b74309d89f646",
+  "active": "d9e89782ab55b367",
   "lastOpenFiles": [
     "05. Organized Knowldge - New Format/Placeholder Note.md",
     "06. Collected Knowledge/xAndroid Boot Internals.md",
