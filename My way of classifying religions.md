@@ -1,0 +1,13 @@
+- The Ways of Hebrews
+	- The Ways of The Hebrews
+		- The Ways of Prophet Moses
+		- The Ways of Orthodox Rabbis
+		- The Ways of Conservative Rabbis
+		- The Ways of Reformers
+- The Ways of Yeshua and his disciples
+	- The Ways of the Catholic Church
+- The Ways of Prophet Muhammad
+
+- The Ways of Sage Kanada
+- The Ways of Teacher Ramanuja
+- The Ways of 

@@ -1,14 +1,25 @@
-## SHORT FORM
+## Short Form
 SYNTAX: `[isa]-[kernel]-[runtime]-[os-distribution]`
-\*Provide code-word expansions
 
-- [x86_64]-[freebsd]-[freebsd-libc]-[freebsd-freebsd]
-- [x86_64]-[freebsd]-[freebsd-libc]-[freebsd-ghostbsd]
-- [x86_64]-[linux]-[glibc]-[gnu-void]
-- [x86_64]-[linux]-[musl]-[freebsd-chimera]
-- [x86_64]-[nt]-[msvc]-[windows-7]
+NOTE: Provide code-word expansions
+### Examples
+- `[x86_64]-[freebsd]-[freebsd-libc]-[freebsd-freebsd]`
+- `[x86_64]-[freebsd]-[freebsd-libc]-[freebsd-ghostbsd]`
+- `[x86_64]-[linux]-[glibc]-[gnu-void]`
+- `[x86_64]-[linux]-[musl]-[freebsd-chimera]`
+- `[x86_64]-[nt]-[msvc]-[windows-7]`
+## Long Form Dropdown
+### Syntax
 
-### LONG FORM DROPDOWN
+| PROPERTY     | VALUE |
+| ------------ | ----- |
+| ISA          |       |
+| KERNEL       |       |
+| RUNTIME      |       |
+| OS           |       |
+| DISTRIBUTION |       |
+
+### Examples
 
 | PROPERTY     | VALUE             |
 | ------------ | ----------------- |
@@ -42,10 +53,10 @@ SYNTAX: `[isa]-[kernel]-[runtime]-[os-distribution]`
 | OS           | FreeBSD        |
 | DISTRIBUTION | Chimera Linux  |
 
-| PROPERTY     | VALUE          |
-| ------------ | -------------- |
-| ISA          | x86_64         |
-| KERNEL       | NT             |
-| RUNTIME      | Microsoft UCRT |
-| OS           | Windows        |
-| DISTRIBUTION | 7              |
+| PROPERTY     | VALUE                |
+| ------------ | -------------------- |
+| ISA          | x86_64               |
+| KERNEL       | Microsoft Windows NT |
+| RUNTIME      | Microsoft UCRT       |
+| OS           | Microsoft Windows    |
+| DISTRIBUTION | 7                    |
