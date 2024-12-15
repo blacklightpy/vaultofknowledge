@@ -238,13 +238,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptocurrnecies 1.md",
+                "file": "Cryptocurrencies 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptocurrnecies 1"
+              "title": "Cryptocurrencies 1"
             }
           }
         ],
@@ -423,7 +423,7 @@
   "active": "ae54b1ff527db304",
   "lastOpenFiles": [
     "Economics 1.md",
-    "Cryptocurrnecies 1.md",
+    "Cryptocurrencies 1.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
     "Grading Non-Custodial Cryptocurrency Wallets.md",
     "Structured vs Unstructured Databases.md",
