@@ -30,20 +30,23 @@
 			- The Teachings of Sage Kanaada (Understanding the Particulate Nature of Reality)
 			- The Teachings of Prabhakara and Bhatta (Reflection on the Early Sankrit Books of Knowledge)
 			- The Teachings of the Summary of the Sanskrit Books of Knowledge
-				- The Teachings of Teacher Shankara (Non-Separateness of God)
-				- The Teachings of Teacher Bhaskara (N)
-					- The Teachings of Teacher Nimbarka
-				- The Teachings of Teacher Ramanuja
-					- The Teachings of Teacher Swami Naarayana
-				- The Teachings of Teacher Madhvaa
-				- The Teachings of Teacher Vallabha
-				- The Teachings of Chaitanya Mahaprabhu
-		- The Teachings of Enlightenment of Gautama
+				- The Teachings of Teacher Shankara (Non-Separateness of God and World)
+				- The Teachings of Teacher Bhaskara (Separateness and Non-Separateness of God and World)
+					- The Teachings of Teacher Nimbarka (Panentheistic Separateness and Non-Separateness of God and World)
+				- The Teachings of Teacher Ramanuja (Special Mon-Separateness of God and World)
+				- The Teachings of Teacher Madhvaa (Separateness of God and World)
+				- The Teachings of Teacher Vallabha (Pure Non-Separateness of God and World)
+				- The Teachings of Chaitanya Mahaprabhu (Inconceivable Separateness and Non-Separateness of God and World)
+					- The Teachings of Teacher Swami Naarayana (Namesake and Supreme Consciousness Forms of God)
+				- The Teachings of Modern Day Saints (Greater Summary of the Sanskrit Books of Knowledge)
+		- The Teachings of Gautama (Enlightenment)
 		- The Teachings of Victors
 			- The Teachings of Mahavira
 				- The Teachings of Rishabhanata
 				- The Teachings of Sivabhuti
 		- The Teachings of Teacher Baba Nanak
+		- The Teachings of Teacher Shri Narayana
+			- The Way of SNDP Yogam
 	- The Teachings of Chinese People
 		- The Teachings of Laozi
 	- The Way of Simple Awareness (Zen)

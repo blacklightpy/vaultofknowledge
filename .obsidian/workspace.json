@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -360,10 +360,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0c8815b2e5923a76",
+  "active": "ae75b1bc4937f5e0",
   "lastOpenFiles": [
-    "My way of classifying religions.md",
     "06. Collected Knowledge/Memes of Religions.md",
+    "My way of classifying religions.md",
     "06. Collected Knowledge/Ideas for my Website.md",
     "06. Collected Knowledge/The Inheritance of Sin.md",
     "06. Collected Knowledge/Shell.md",
