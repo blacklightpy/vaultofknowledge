@@ -1,0 +1,1 @@
+Floating Value (Fiat) vs Static Value (Joules).
