@@ -7,8 +7,8 @@
 	- The Teachings of Salvation in Faith by Lord and Saviour Yeshua and his disciples
 		- The Teachings of the Catholic Church
 	- The Teachings of Submission by Prophet Muhammad
-		- The Teachings of The People who follow only the Recitation of Muhammad
-		- The Teachings of The People of Tradition and The Majority
+		- The Ways of The People who follow only the Recitation of Muhammad
+		- The Ways of The People of Tradition and The Majority
 			- The Teachings of Scholar Ahmed ibn Hanbal
 				- The Teachings of Scholar Muhammad ibn Abd' al-Wahhab
 			- The Teachings of Scholar ash-Shaafaa'ee
@@ -24,15 +24,14 @@
 - The Teachings of Easterners
 	- The Teachings of Indians
 		- The Teachings of People who follow the Sanskrit Books of Knowledge
-			- The Teachings of Sage Kapila
-			- The Teachings of Sage Patanjali
-			- The Teachings of Sage Aksapada Gautama
-			- The Teachings of Sage Kanaada
-			- The Teachings of Teacher Ramanuja
-			- The Teachings of Prabhakara and Bhatta
+			- The Teachings of Sage Kapila (Enumeration)
+			- The Teachings of Sage Patanjali (Connection with Reality)
+			- The Teachings of Sage Aksapada Gautama (Understanding the Principles of Reality)
+			- The Teachings of Sage Kanaada (Understanding the Particulate Nature of Reality)
+			- The Teachings of Prabhakara and Bhatta (Reflection on the Early Sankrit Books of Knowledge)
 			- The Teachings of the Summary of the Sanskrit Books of Knowledge
-				- The Teachings of Teacher Shankara
-				- The Teachings of Teacher Bhaskara
+				- The Teachings of Teacher Shankara (Non-Separateness of God)
+				- The Teachings of Teacher Bhaskara (N)
 					- The Teachings of Teacher Nimbarka
 				- The Teachings of Teacher Ramanuja
 					- The Teachings of Teacher Swami Naarayana

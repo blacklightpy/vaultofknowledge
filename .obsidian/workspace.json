@@ -178,13 +178,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Collected Knowledge/Shell.md",
+                "file": "06. Collected Knowledge/Memes of Religions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shell"
+              "title": "Memes of Religions"
             }
           }
         ],
@@ -362,16 +362,17 @@
   },
   "active": "0c8815b2e5923a76",
   "lastOpenFiles": [
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shells and Terminals.md",
-    "06. Collected Knowledge/Shell.md",
-    "06. Collected Knowledge/Ideas for my Website.md",
-    "06. Collected Knowledge/Branding of Operating Systems.md",
-    "Identifiers for Operating Systems.md",
     "My way of classifying religions.md",
     "06. Collected Knowledge/Memes of Religions.md",
+    "06. Collected Knowledge/Ideas for my Website.md",
+    "06. Collected Knowledge/The Inheritance of Sin.md",
+    "06. Collected Knowledge/Shell.md",
+    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shells and Terminals.md",
+    "06. Collected Knowledge/Branding of Operating Systems.md",
+    "Identifiers for Operating Systems.md",
     "07. Miscellaneous/Religions/Sikhism.md",
     "06. Collected Knowledge/Map of Hinduism.md",
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "06. Collected Knowledge/Specific Problems with Christianity.md",
     "06. Collected Knowledge/Hadith Organizing 2.md",
@@ -384,7 +385,6 @@
     "05. Organized Knowldge - New Format/Placeholder Note.md",
     "06. Collected Knowledge/xAndroid Boot Internals.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
-    "06. Collected Knowledge/The Inheritance of Sin.md",
     "index.md",
     "05. Organized Knowldge - New Format",
     "README.md",
