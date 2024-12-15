@@ -14,27 +14,34 @@
 			- The Teachings of Scholar ash-Shaafaa'ee
 			- The Teachings of Scholar Abu Haneefa
 			- The Teachings of Scholar Maalik ibn Anas
-		- The Teachings of The Leavers
+		- The Teachings of The People of The House of Muhammad (Rejectors of Khalifs)
 			- The Teachings of the Fivers
 			- The Teachings of the Seveners
 			- The Teachings of the Twelvers
-- The Teachings of Indians
-	- The Teachings of People who folw Sanskrit Books of Knowledge
-		- The Teachings of Eeshvara Krishna's Enumeration Aphorisms
-			- The Teachings of Sage Kanada's Enumeration Aphorisms
-		- The Teachings of Sage Patanjali
-		- The Teachings of Sage Aksapada Gautama
-		- The Teachings of Sage Kanada's Special Aphorisms
-		- The Teachings of Teacher Ramanuja
-		- The Teachings of Prabhakara and Bhatta
-		- The Teachings of the Summary of the Sanskrit Books of Knowledge
-			- The Teachings of Teacher Shankara
-			- The Teachings of Teacher Bhaskara
-				- The Teachings of Teacher Nimbarka
+		- The Teachings of The People of Truth and Integrity
+			- The Teachings of Abdallah ibn Ibad
+		- The Teachings of the Mystics (Sufis)
+- The Teachings of Easterners
+	- The Teachings of Indians
+		- The Teachings of People who follow the Sanskrit Books of Knowledge
+			- The Teachings of Eeshvara Krishna's Enumeration Aphorisms
+				- The Teachings of Sage Kanada's Enumeration Aphorisms
+			- The Teachings of Sage Patanjali
+			- The Teachings of Sage Aksapada Gautama
+			- The Teachings of Sage Kanada's Special Aphorisms
 			- The Teachings of Teacher Ramanuja
-				- The Teachings of Teacher Swami Naarayana
-			- The Teachings of Teacher Madhvaa
-			- The Teachings of Teacher Vallabha
-			- The Teachings of Chaitanya Mahaprabhu
-	- The Way of Enlightenment of Gautama
-		- 
+			- The Teachings of Prabhakara and Bhatta
+			- The Teachings of the Summary of the Sanskrit Books of Knowledge
+				- The Teachings of Teacher Shankara
+				- The Teachings of Teacher Bhaskara
+					- The Teachings of Teacher Nimbarka
+				- The Teachings of Teacher Ramanuja
+					- The Teachings of Teacher Swami Naarayana
+				- The Teachings of Teacher Madhvaa
+				- The Teachings of Teacher Vallabha
+				- The Teachings of Chaitanya Mahaprabhu
+		- The Teachings of Enlightenment of Gautama
+		- The Teachings of Teacher Nanak
+	- The Teachings of Chinese People
+		- The Teachings of Laozi
+	- The Way of Simple Awareness (Zen)

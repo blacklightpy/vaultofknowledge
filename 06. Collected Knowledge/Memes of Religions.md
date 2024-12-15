@@ -1,6 +1,6 @@
 # Oneness / Monism
 ## Monistic Atheism
-- Chaarvaka Darshana of Non-Vedic Hinduism / Materialist Perspective of The Indians who do not follow the
+- ==(Chaarvaka Darshana of Non-Vedic Hinduism / Materialist Perspective of The Indians who do not follow the Sanskrit Books of Knowledge)==
 ## Monistic Monotheism
 ### Pantheism
 ### Pandeism
