@@ -1,4 +1,6 @@
-A shell is an interface with which we can interface with a program. It refers to the main executable file of a program, to which we can pass commands.
+A shell is a program with which we can interface with a program. It refers to the main executable file of a program, to which we can pass commands. We interact with the shell using a user interface (UI).
+
+e.g. CMD.exe is the Windows Command Prompt shell, and Windows 
 
 For GUI applications, usually we launch them from their icons, but we can also edit the default launch command to set additional parameters.
 

@@ -171,9 +171,24 @@
               "icon": "lucide-file",
               "title": "My way of classifying religions"
             }
+          },
+          {
+            "id": "0c8815b2e5923a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. Collected Knowledge/Shell.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shell"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -345,8 +360,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "597b74309d89f646",
+  "active": "0c8815b2e5923a76",
   "lastOpenFiles": [
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/UNIX-like/Shells and Terminals.md",
+    "06. Collected Knowledge/Shell.md",
+    "06. Collected Knowledge/Ideas for my Website.md",
     "06. Collected Knowledge/Branding of Operating Systems.md",
     "Identifiers for Operating Systems.md",
     "My way of classifying religions.md",
@@ -363,7 +381,6 @@
     "03. Culture/Culture/Zen.md",
     "06. Collected Knowledge/Translating Religious Terminologies.md",
     "07. Miscellaneous/🏛️ Studying Social Problems/⚔️ Wars and Conflicts/Salaafi Jihadism.md",
-    "06. Collected Knowledge/Ideas for my Website.md",
     "05. Organized Knowldge - New Format/Placeholder Note.md",
     "06. Collected Knowledge/xAndroid Boot Internals.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Android Development/Android Internals.md",
@@ -372,8 +389,6 @@
     "05. Organized Knowldge - New Format",
     "README.md",
     "Organizational Planning.md",
-    "How to read this knowledgebase.md",
-    "07. Miscellaneous/🏛️ Studying Social Problems/Guide.md",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
     "03. Culture/Life Forms",

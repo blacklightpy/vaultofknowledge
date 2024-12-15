@@ -13,26 +13,29 @@ fish - Friendly Interactive Shell (Not sh compatible) (ext: oh-my-fish)
 
 ## Windows
 cmd.exe - Windows Command Prompt
+msh.exe - Microsoft Monad Shell (precursor to Powershell)
 powershell.exe - Windows Powershell
 pwsh.exe - Powershell Core
 
 # Terminal Emulators
 ## Unix-Like
-- TTY/Pseudo-TTY
+- Frame Buffer TTY/Pseudo-TTY
 - XTerm
 - GNOME Terminal
-- Konsole
+- KDE Konsole
 - Hyper
 - Alacritty
-- kitty
-Extensions: Screen, Tmux
+- Kitty
+
+Extensions: GNU Screen, Tmux
 
 **MacOS**
 - MacOS Terminal
-- iTerm
+- iTerm2
 
 **Android**
 - Termux
+- ConnectBot
 
 ## Windows
 conhost.exe - Windows Console
