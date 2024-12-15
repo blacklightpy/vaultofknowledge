@@ -1,7 +1,7 @@
 A shell is a program with which we can interface with a program. It refers to the main executable file of a program, to which we can pass commands. We interact with the shell using a user interface (UI).
 
 > [!NOTE]
-> A shell provides a UI - CLI, TUI or GUI.
+> A shell is a program that provides a UI - CLI, TUI or GUI.
 
 e.g: GNU Bash is a shell, and GNOME Terminal is a terminal emulator that provides a command line UI (CLI)
 e.g: Windows Command Prompt is a shell, and Windows Console Host is a terminal emulator that provides a CLI
