@@ -45,7 +45,7 @@ They can be grouped as:
 			- I guess I'll fix this idea by adding nuances between monism and dualism in their relevant pages
 	- **Foundational Texts**
 		- Sankhya Karika by Ishvara Krishna (4th-5th Century BC)
-		- Sankhya Sutras by Kanada Maharshi
+		- Sankhya Sutras by Kapila Maharshi
 			- Debated, scholars date this to 9th-13th Century AD
 	- **Metaphysics**
 		- **Purusa** is part of **Prakriti**
@@ -288,7 +288,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 		- It postulated that everything is made of atoms
 		- It aimed to fix the atheistic nature of Sankhya and the problems with Nyaaya
 	- **Foundational Texts**
-		- Vaisheshika Sutra by Kanada Maharshi (2nd Century AD)
+		- Vaisheshika Sutra by Kanaada Maharshi (2nd Century AD)
 	- **Metaphysics**
 		- 
 	- **Epistemology**

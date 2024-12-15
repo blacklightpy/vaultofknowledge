@@ -24,11 +24,10 @@
 - The Teachings of Easterners
 	- The Teachings of Indians
 		- The Teachings of People who follow the Sanskrit Books of Knowledge
-			- The Teachings of Eeshvara Krishna's Enumeration Aphorisms
-				- The Teachings of Sage Kanada's Enumeration Aphorisms
+			- The Teachings of Sage Kapila
 			- The Teachings of Sage Patanjali
 			- The Teachings of Sage Aksapada Gautama
-			- The Teachings of Sage Kanada's Special Aphorisms
+			- The Teachings of Sage Kanaada
 			- The Teachings of Teacher Ramanuja
 			- The Teachings of Prabhakara and Bhatta
 			- The Teachings of the Summary of the Sanskrit Books of Knowledge
@@ -41,7 +40,11 @@
 				- The Teachings of Teacher Vallabha
 				- The Teachings of Chaitanya Mahaprabhu
 		- The Teachings of Enlightenment of Gautama
-		- The Teachings of Teacher Nanak
+		- The Teachings of Victors
+			- The Teachings of Mahavira
+				- The Teachings of Rishabhanata
+				- The Teachings of Sivabhuti
+		- The Teachings of Teacher Baba Nanak
 	- The Teachings of Chinese People
 		- The Teachings of Laozi
 	- The Way of Simple Awareness (Zen)
