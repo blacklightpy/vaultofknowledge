@@ -36,6 +36,7 @@
 - Metamask
 - Muun Wallet
 - MyEtherWallet
+- Phantom Wallet
 - Simple Bitcoin Wallet
 - Trust Wallet
 - Unstoppable Wallet
