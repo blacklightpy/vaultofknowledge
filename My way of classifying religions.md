@@ -39,7 +39,9 @@
 				- The Teachings of Chaitanya Mahaprabhu (Inconceivable Separateness and Non-Separateness of God and World)
 					- The Teachings of Teacher Swami Naarayana (Namesake and Supreme Consciousness Forms of God)
 				- The Teachings of Modern Day Saints (Greater Summary of the Sanskrit Books of Knowledge)
-		- The Teachings of Gautama (Enlightenment)
+		- The Teachings of Prince Siddhartha Gautama (Enlightenment)
+			- The Way of the Smaller Vehicle
+			- The Way of the Larger Vehicle
 		- The Teachings of Victors
 			- The Teachings of Mahavira
 				- The Teachings of Rishabhanata
