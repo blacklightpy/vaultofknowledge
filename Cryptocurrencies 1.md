@@ -61,7 +61,7 @@
 - Gas
 - Smart Contracts
 ### 2.1.2. Economics
-
+- Staking
 ### 2.1.3. Security
 - Proof of Stake Consensus
 - Sharding
@@ -78,20 +78,29 @@
 
 ## 2.5. Features
 - Tokens
+	- Stable Coins
+	- NFTs
 - dApps
+- DAOs
 ## 1.6. Layer 2 Networks
 ### Methods
-- zk Rollups 
-- Optimistic Rollups 
-- State Channels (Similar to Lightning Network) 
-- Plasma chains (Child chains =/= Side chains)
-- Validium
+- Rollups
+	- zk Rollups 
+	- Optimistic Rollups
+- Other
+	- State Channels (Similar to Lightning Network)
+	- Side Chains
+	- Plasma chains (Side chains, but using optimistic rollups for fraud prevention; child chains =/= Side chains)
+	- Validium (Side chains, but using zk Rollups for validity)
 ### 1.6.1. Optimism
 - Token: OP
 - Type: Optimistic Rollup
 ### 1.6.2. Arbitrum
 - Token: ARB
 - Type: Optimistic Rollup
+### Base
+### ZKSync Era
+
 ### 1.6.3. Polygon Network
 - Token: MATIC
-- Type: zk Rollup
+- Type: Plsams Chain using zk Rollups
