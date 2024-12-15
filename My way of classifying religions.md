@@ -1,30 +1,40 @@
-- The Ways of Abraham
-	- The Ways of The Hebrews
-		- The Ways of Prophet Moses
-		- The Ways of Orthodox Rabbis
-		- The Ways of Conservative Rabbis
-		- The Ways of Reformers
-	- The Ways of Lord and Saviour Yeshua and his disciples
-		- The Ways of the Catholic Church
-	- The Ways of Prophet Muhammad
-		- The Ways of The People who follow only the Recitation of Muhammad
-		- The Ways of The People of Tradition and The Majority
-			- The Ways of Scholar Ahmed ibn Hanbal
-				- The Ways of Scholar Muhammad ibn Abd' al-Wahhab
-			- The Ways of Scholar ash-Shaafaa'ee
-			- The Ways of Scholar Abu Haneefa
-			- The Ways of Scholar Maalik ibn Anas
-		- The Ways of The Leavers
-			- The Ways of the Fivers
-			- The Ways of the Seveners
-			- The Ways of the Twelvers
-- The Ways of Indians
-	- The Ways of Eeshvara Krishna's Enumeration Aphorisms
-		- The Ways of Sage Kanada's Enumeration Aphorisms
-	- The Ways of Sage Patanjali
-	- The Ways of Sage Aksapada Gautama
-	- The Ways of Sage Kanada's Special Aphorisms
-	- The Ways of Teacher Ramanuja
-	- The Ways of Jaimini
-		- The Ways of Shabara
-	- 
+- The Teachings of Abraham and Moshe
+	- The Teachings of The Hebrews
+		- The Teachings of The People who follow only the Teachings of Moshe
+		- The Teachings of Orthodox Rabbis
+		- The Teachings of Conservative Rabbis
+		- The Teachings of Reformers
+	- The Teachings of Salvation in Faith by Lord and Saviour Yeshua and his disciples
+		- The Teachings of the Catholic Church
+	- The Teachings of Submission by Prophet Muhammad
+		- The Teachings of The People who follow only the Recitation of Muhammad
+		- The Teachings of The People of Tradition and The Majority
+			- The Teachings of Scholar Ahmed ibn Hanbal
+				- The Teachings of Scholar Muhammad ibn Abd' al-Wahhab
+			- The Teachings of Scholar ash-Shaafaa'ee
+			- The Teachings of Scholar Abu Haneefa
+			- The Teachings of Scholar Maalik ibn Anas
+		- The Teachings of The Leavers
+			- The Teachings of the Fivers
+			- The Teachings of the Seveners
+			- The Teachings of the Twelvers
+- The Teachings of Indians
+	- The Teachings of People who folw Sanskrit Books of Knowledge
+		- The Teachings of Eeshvara Krishna's Enumeration Aphorisms
+			- The Teachings of Sage Kanada's Enumeration Aphorisms
+		- The Teachings of Sage Patanjali
+		- The Teachings of Sage Aksapada Gautama
+		- The Teachings of Sage Kanada's Special Aphorisms
+		- The Teachings of Teacher Ramanuja
+		- The Teachings of Prabhakara and Bhatta
+		- The Teachings of the Summary of the Sanskrit Books of Knowledge
+			- The Teachings of Teacher Shankara
+			- The Teachings of Teacher Bhaskara
+				- The Teachings of Teacher Nimbarka
+			- The Teachings of Teacher Ramanuja
+				- The Teachings of Teacher Swami Naarayana
+			- The Teachings of Teacher Madhvaa
+			- The Teachings of Teacher Vallabha
+			- The Teachings of Chaitanya Mahaprabhu
+	- The Way of Enlightenment of Gautama
+		- 
