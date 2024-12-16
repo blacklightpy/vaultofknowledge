@@ -1,28 +1,33 @@
 # Terms
-- Liquidity Pools
+- Liquidity Pools (Available Liquidity in a DEX)
 - DEX Models
 	- P2P Trade
 	- Automated Market Maker (AMM)
 	- Concentrated Liquidity Market Maker (CLMM)
 	- Concentrated P Market Maker (CPMM)
 # Metrics
-- Market Cap
-- TVL
-- 
-# Bitcoin
+- Market Cap (Coin Specific)
+- Total Value Locked (TVL) (Project Specific)
+- TVL Ratio (Project Protocol Health)
+
+# DEXs (Allow supplying Liquidity)
+## Bitcoin Only
 - Bisq Network
-# Cross-Chain
+## Ethereum Only
+
+## Binance Smart Chain Only
+- Pancake Swap
+## Cross-Chain
 - Stackswap
 - THORChain
 - Symbiosis Finance
 - Rango Exchange
 - rocketx.exchange
-# DEX Aggregators
+# DEX Aggregators (Have more liquidity)
 - Shapeshift
 - 1Inch
 
-- Pancakeswap
-- Sushiswap
-- Kyberswap
+- Sushi Swap
+- Kyber Swap
 - Curve Finance
 - dydx
