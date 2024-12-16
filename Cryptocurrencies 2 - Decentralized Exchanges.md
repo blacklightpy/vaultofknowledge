@@ -24,7 +24,7 @@
 - Pancake Swap
 ## Cross-Chain
 - Stackswap
-- THORChain
+- THORSwap
 - Symbiosis Finance
 - Rango Exchange
 - rocketx.exchange
