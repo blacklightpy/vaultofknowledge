@@ -35,8 +35,11 @@
 - Lumi Wallet
 - Metamask
 - Muun Wallet
+- Mycelium Wallet
 - MyEtherWallet
 - Phantom Wallet
+- Phoenix Wallet
 - Simple Bitcoin Wallet
 - Trust Wallet
 - Unstoppable Wallet
+- Zeus Wallet
