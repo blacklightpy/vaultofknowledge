@@ -3,7 +3,7 @@
 - DEX Models
 	- P2P Trade
 	- Automated Market Maker (AMM)
-	- Concentrated Liquidity Market Maker (CLMM)
+	- Concentrated Liquidity Market Maker (CLMM) (pioneered by Uniswap v3)
 	- Concentrated P Market Maker (CPMM)
 # Metrics
 - Market Cap (Coin Specific)
@@ -31,3 +31,10 @@
 - Kyber Swap
 - Curve Finance
 - dydx
+- Balancer
+- GMX
+- Aerodrome
+- Raydium
+- VVS Finance
+- Bancor
+- Camelot
