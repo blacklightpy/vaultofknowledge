@@ -5,6 +5,10 @@
 	- Automated Market Maker (AMM)
 	- Concentrated Liquidity Market Maker (CLMM)
 	- Concentrated P Market Maker (CPMM)
+# Metrics
+- Market Cap
+- TVL
+- 
 # Bitcoin
 - Bisq Network
 # Cross-Chain
