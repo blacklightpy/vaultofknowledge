@@ -1,6 +1,7 @@
 # Terms
 - Fixed Deposits
 - Staking (Single Asset)
+	- Stake Pools (RocketPool, Metamask, rETH, Lido, Stakewise, Rated Network)
 - Yield Farming (Two assets)
 	- Liquidity Pools (Available Liquidity in a DEX)
 	- Liquidity Providers
