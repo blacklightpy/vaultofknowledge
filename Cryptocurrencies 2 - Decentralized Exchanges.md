@@ -1,3 +1,10 @@
+# Terms
+- Liquidity Pools
+- DEX Models
+	- P2P Trade
+	- Automated Market Maker (AMM)
+	- Concentrated Liquidity Market Maker (CLMM)
+	- Concentrated P Market Maker (CPMM)
 # Bitcoin
 - Bisq Network
 # Cross-Chain
@@ -14,3 +21,4 @@
 - Sushiswap
 - Kyberswap
 - Curve Finance
+- dydx
