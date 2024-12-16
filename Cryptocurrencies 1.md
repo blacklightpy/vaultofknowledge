@@ -84,6 +84,10 @@
 - DAOs
 ## 1.6. Layer 2 Networks
 ### Methods
+
+> [!NOTE]
+> There are no official layer 2 networks.
+
 - Rollups
 	- zk Rollups 
 	- Optimistic Rollups
@@ -98,9 +102,32 @@
 ### 1.6.2. Arbitrum
 - Token: ARB
 - Type: Optimistic Rollup
-### Base
-### ZKSync Era
-
-### 1.6.3. Polygon Network
+### 1.6.3. Base
+- Token: 
+- Type: Optimistic Rollup
+### 1.6.4. ZKSync Era
+- Token: 
+- Type: Optimistic Rollup
+### 1.6.3. Polygon (formerly Polygon-Hermez)
 - Token: MATIC
-- Type: Plsams Chain using zk Rollups
+- Type: Plasma Chain using zk Rollups
+# Monero (XMR)
+# Ripple (XRP)
+# Cardano (ADA)
+# Stellar Lumen (XLM)
+# Solana (SOL)
+# TRON (TRX)
+# Avalanche (AVAX)
+# Chainlink (LINK)
+# NANO (NANO)
+# Polkadot (DOT)
+# Litecoin (LTC)
+# Dogecoin (DOGE)
+# Bitcoin Cash (BCH)
+# Filecoin (FIL)
+# Decentraland (MANA)
+Arbitrum
+Uniswap
+Curve DAO
+Optimism
+Ethereum Classic
