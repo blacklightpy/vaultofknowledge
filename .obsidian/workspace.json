@@ -238,13 +238,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptocurrencies 2 - Decentralized Exchanges.md",
+                "file": "Cryptocurrencies 1 - Currency Networks.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptocurrencies 2 - Decentralized Exchanges"
+              "title": "Cryptocurrencies 1 - Currency Networks"
             }
           }
         ],
@@ -422,8 +422,8 @@
   },
   "active": "ae54b1ff527db304",
   "lastOpenFiles": [
-    "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets.md",
     "Cryptocurrencies 2 - Decentralized Exchanges.md",
+    "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets.md",
     "Cryptocurrencies 1 - Currency Networks.md",
     "Structured vs Unstructured Databases.md",
     "02. To Share/Resources/Decentralized Technologies.md",

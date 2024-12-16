@@ -129,9 +129,10 @@
 Ethereum Classic
 Algorand (ALGO)
 Tezos (XTZ)
-Dai
+MakerDAO Dai
 ZCash
 Dash
+Cosmos (ATOM)
 
 **Layer 2**
 Arbitrum
