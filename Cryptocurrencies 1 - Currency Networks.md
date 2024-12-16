@@ -94,7 +94,9 @@
 	- zk Rollups 
 	- Optimistic Rollups
 - Other
-	- State Channels (Similar to Lightning Network)
+	- Channels
+		- State Channels (Similar to Lightning Network)
+			- Payment C
 	- Side Chains
 	- Plasma chains (Side chains, but using optimistic rollups for fraud prevention; child chains =/= Side chains)
 	- Validium (Side chains, but using zk Rollups for validity)
