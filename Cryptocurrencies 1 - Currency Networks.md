@@ -90,13 +90,13 @@
 > [!NOTE]
 > There are no official layer 2 networks.
 
+- Channels (Uses 2-of-2 Multi-Sig contracts a.k.a. Pay to Script Hash (P2SH))
+	- State Channels
+		- Payment Channels (Same as Lightning Network in Bitcoin, e.g. Raiden)
 - Rollups
 	- zk Rollups 
 	- Optimistic Rollups
 - Other
-	- Channels
-		- State Channels (Similar to Lightning Network)
-			- Payment C
 	- Side Chains
 	- Plasma chains (Side chains, but using optimistic rollups for fraud prevention; child chains =/= Side chains)
 	- Validium (Side chains, but using zk Rollups for validity)

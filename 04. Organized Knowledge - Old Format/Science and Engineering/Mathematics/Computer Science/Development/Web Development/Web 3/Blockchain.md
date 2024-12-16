@@ -21,5 +21,5 @@ Layer 3: UI Layer or DApps. e.g. Curve, Uniswap, Opensea
 	- Optimistic Rollups
 	- ZK Rollups
 - Sidechains
-- Plasma 
+- Plasma (e.g. OMG, Polygon MATIC)
 - Validium
