@@ -173,21 +173,6 @@
             }
           },
           {
-            "id": "b99f0cd2feee0cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bitcoin Protocols.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bitcoin Protocols"
-            }
-          },
-          {
             "id": "59f981d3f98f872e",
             "type": "leaf",
             "state": {
@@ -200,21 +185,6 @@
               },
               "icon": "lucide-file",
               "title": "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets"
-            }
-          },
-          {
-            "id": "99db391cfe316d78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structured vs Unstructured Databases.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Structured vs Unstructured Databases"
             }
           },
           {
@@ -233,16 +203,6 @@
             }
           },
           {
-            "id": "e0fbd3a557de38c7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "e43aecdb89a9f094",
             "type": "leaf",
             "state": {
@@ -258,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -432,19 +392,20 @@
   },
   "active": "e43aecdb89a9f094",
   "lastOpenFiles": [
-    "Questions to LLMs 2.md",
-    "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets.md",
+    "04. Organized Knowledge - Old Format/Marketplace and Creations/Software Implementations/SurrealDB.md",
+    "My way of classifying religions.md",
     "Bitcoin Protocols.md",
+    "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets.md",
+    "Structured vs Unstructured Databases.md",
+    "Questions to LLMs 2.md",
     "Cryptocurrencies 1 - Currency Networks.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Ethereum Protocols.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
-    "My way of classifying religions.md",
     "06. Collected Knowledge/Memes of Religions.md",
     "Cryptocurrencies 2 - Decentralized Exchanges.md",
     "06. Collected Knowledge/Free Software Banking.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Blockchain.md",
     "Economics 1.md",
-    "Structured vs Unstructured Databases.md",
     "02. To Share/Resources/Decentralized Technologies.md",
     "Writings on Theology 1 - Advaita.md",
     "Questions to LLMs 1.md",
@@ -457,7 +418,6 @@
     "Identifiers for Operating Systems.md",
     "07. Miscellaneous/Religions/Sikhism.md",
     "06. Collected Knowledge/Map of Hinduism.md",
-    "07. Miscellaneous/Religions/Hinduism/Wikipedia Hinduism Organization.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
