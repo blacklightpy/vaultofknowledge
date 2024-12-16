@@ -125,9 +125,26 @@
 # Dogecoin (DOGE)
 # Bitcoin Cash (BCH)
 # Filecoin (FIL)
-# Decentraland (MANA)
+
+Ethereum Classic
+Algorand (ALGO)
+Tezos (XTZ)
+Dai
+ZCash
+Dash
+
+**Layer 2**
 Arbitrum
+Optimism
+Starknet
+
+**Exchange**
 Uniswap
 Curve DAO
-Optimism
-Ethereum Classic
+THORChain (RUNE)
+Sushi Swap
+
+**Niche**
+Enjin Coin
+Filecoin (FIL)
+Decentraland (MANA)

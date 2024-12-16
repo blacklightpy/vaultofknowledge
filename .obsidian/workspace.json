@@ -238,13 +238,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptocurrencies 1.md",
+                "file": "02. To Share/Resources/Decentralized Technologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptocurrencies 1"
+              "title": "Decentralized Technologies"
             }
           }
         ],
@@ -422,8 +422,8 @@
   },
   "active": "ae54b1ff527db304",
   "lastOpenFiles": [
-    "Economics 1.md",
     "Cryptocurrencies 1.md",
+    "Economics 1.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
     "Grading Non-Custodial Cryptocurrency Wallets.md",
     "Structured vs Unstructured Databases.md",
