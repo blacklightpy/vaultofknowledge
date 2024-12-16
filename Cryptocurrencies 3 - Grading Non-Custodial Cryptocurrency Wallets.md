@@ -19,27 +19,27 @@
 ### 2. Exodus Wallet
 ### 3. Lumi Wallet
 
-
+---
 # What all I tested (Alphabetical Order)
-- Atomic Wallet
-- BlueWallet
-- Breez Wallet
-- Brume Wallet
-- Coinomi
-- CoinWallet
-- Dogecoin Wallet
-- Electrum Wallet
-- Exodus Wallet
-- Green Wallet
-- Guarda Wallet
-- Lumi Wallet
-- Metamask
-- Muun Wallet
-- Mycelium Wallet
-- MyEtherWallet
-- Phantom Wallet
-- Phoenix Wallet
-- Simple Bitcoin Wallet
-- Trust Wallet
-- Unstoppable Wallet
-- Zeus Wallet
+1. Atomic Wallet
+2. BlueWallet
+3. Breez Wallet
+4. Brume Wallet
+5. Coinomi
+6. CoinWallet
+7. Dogecoin Wallet
+8. Electrum Wallet
+9. Exodus Wallet
+10. Green Wallet
+11. Guarda Wallet
+12. Lumi Wallet
+13. Metamask
+14. Muun Wallet
+15. Mycelium Wallet
+16. MyEtherWallet
+17. Phantom Wallet
+18. Phoenix Wallet
+19. Simple Bitcoin Wallet
+20. Trust Wallet
+21. Unstoppable Wallet
+22. Zeus Wallet

@@ -45,8 +45,8 @@
 ## 1.5. Features
 - Return By Fee
 - Multi-Person Custody (?) (MPC)
+- Ordinal Protocol
 - BRC-20 Tokens
-- Ordinal Tokens
 ## 1.6. Lightning Network
 ### Concepts
 - Nodes
