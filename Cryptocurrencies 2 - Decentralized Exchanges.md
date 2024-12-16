@@ -1,5 +1,9 @@
 # Terms
-- Liquidity Pools (Available Liquidity in a DEX)
+- Fixed Deposits
+- Staking (Single Asset)
+- Yield Farming (Two assets)
+	- Liquidity Pools (Available Liquidity in a DEX)
+	- Liquidity Providers
 - DEX Models
 	- P2P Trade
 	- Automated Market Maker (AMM)
