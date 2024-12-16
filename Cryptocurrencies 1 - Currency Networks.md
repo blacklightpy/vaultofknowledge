@@ -45,6 +45,8 @@
 ## 1.5. Features
 - Return By Fee
 - Multi-Person Custody (?) (MPC)
+- BRC-20 Tokens
+- Ordinal Tokens
 ## 1.6. Lightning Network
 ### Concepts
 - Nodes
@@ -77,7 +79,7 @@
 ## 2.4. Addressing Schemes
 
 ## 2.5. Features
-- Tokens
+- ERC-20 Tokens
 	- Stable Coins
 	- NFTs
 - dApps

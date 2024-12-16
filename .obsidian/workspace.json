@@ -238,13 +238,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cryptocurrencies 1 - Currency Networks.md",
+                "file": "Cryptocurrencies 2 - Decentralized Exchanges.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptocurrencies 1 - Currency Networks"
+              "title": "Cryptocurrencies 2 - Decentralized Exchanges"
             }
           }
         ],
@@ -279,7 +279,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uniswap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -300,12 +300,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -422,14 +422,14 @@
   },
   "active": "ae54b1ff527db304",
   "lastOpenFiles": [
-    "06. Collected Knowledge/Free Software Banking.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Blockchain.md",
     "Cryptocurrencies 1 - Currency Networks.md",
     "Cryptocurrencies 2 - Decentralized Exchanges.md",
+    "06. Collected Knowledge/Free Software Banking.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Blockchain.md",
+    "Economics 1.md",
     "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets.md",
     "Structured vs Unstructured Databases.md",
     "02. To Share/Resources/Decentralized Technologies.md",
-    "Economics 1.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/History of Ethereum.md",
     "Writings on Theology 1 - Advaita.md",
     "Questions to LLMs 1.md",
