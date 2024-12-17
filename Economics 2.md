@@ -9,4 +9,4 @@ Demand can be manipulated.
 #rough 
 The society that prospers in art will prosper.
 
-A friend of all is a friend of none (Indian Idol worship analogy)
+A friend of all is a friend of none (Indian Idol worship analogy - they don't do idolatry)
