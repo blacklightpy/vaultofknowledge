@@ -15,3 +15,8 @@ e.g. in Sankhya, we assume a rolemodel God and try to attain oneness with it, re
 Vaidika vs Laukika
 
 Bhagwan (Vishnu), Eeshvara (Shiva), Brahmaan, Purusha
+
+Purusha - Efficient Cause
+Prakriti - Material Cause
+
+Ishvara - Nimitta Karana (Advaita Samkhya)
