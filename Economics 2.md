@@ -5,3 +5,6 @@ Demand is also a factor. A larger economy needs more money.
 e.g. like how a larger body needs more volume of blood to function well.
 
 Demand can be manipulated.
+
+#rough 
+The society that prospers in art will prosper.
