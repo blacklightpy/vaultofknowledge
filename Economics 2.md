@@ -24,4 +24,4 @@ Ishvara - Nimitta Karana (Advaita Samkhya)
 - Doublespeak-Jargon-Trust is the only way for Aristocracy.
 
 Generic UI vs Personalized UI (learn)
-Fine Arts / Fine Science.
+Fine Arts / Fine Knowledge / Fine Creed
