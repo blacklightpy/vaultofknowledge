@@ -6,6 +6,9 @@ e.g. like how a larger body needs more volume of blood to function well.
 
 Demand can be manipulated.
 
+Quantum Theory of Money - Equation of Exchange
+Criticism by Marx - Labour Theory of Value
+
 #rough 
 The society that prospers in art will prosper.
 
@@ -24,4 +27,4 @@ Ishvara - Nimitta Karana (Advaita Samkhya)
 - Doublespeak-Jargon-Trust is the only way for Aristocracy.
 
 Generic UI vs Personalized UI (learn)
-Fine Arts / Fine Knowledge / Fine Creed
+Fine Arts / Fine Knowledge.
