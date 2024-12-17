@@ -6,6 +6,7 @@ e.g. like how a larger body needs more volume of blood to function well.
 
 Demand can be manipulated.
 
+Velocity of Money - Price Level
 Quantum Theory of Money - Equation of Exchange
 Criticism by Marx - Labour Theory of Value
 
