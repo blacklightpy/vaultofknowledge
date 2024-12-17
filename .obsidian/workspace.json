@@ -223,13 +223,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map of Wondering.md",
+                "file": "Economics 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map of Wondering"
+              "title": "Economics 2"
             }
           }
         ],
@@ -407,8 +407,8 @@
   },
   "active": "f3471f881dcbf042",
   "lastOpenFiles": [
-    "Economics 2.md",
     "Map of Wondering.md",
+    "Economics 2.md",
     "Cryptocurrencies 2 - Decentralized Exchanges.md",
     "Questions to LLMs 2.md",
     "06. Collected Knowledge/The Inheritance of Sin.md",
