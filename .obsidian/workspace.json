@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -405,10 +405,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f3471f881dcbf042",
+  "active": "ae54b1ff527db304",
   "lastOpenFiles": [
-    "Map of Wondering.md",
     "Economics 2.md",
+    "Map of Wondering.md",
     "Cryptocurrencies 2 - Decentralized Exchanges.md",
     "Questions to LLMs 2.md",
     "06. Collected Knowledge/The Inheritance of Sin.md",

@@ -20,3 +20,5 @@ Purusha - Efficient Cause
 Prakriti - Material Cause
 
 Ishvara - Nimitta Karana (Advaita Samkhya)
+
+Doublespeak-Jargon-Trust.

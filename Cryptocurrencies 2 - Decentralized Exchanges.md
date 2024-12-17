@@ -6,7 +6,7 @@
 	- Liquidity Pools (Available Liquidity in a DEX)
 	- Liquidity Providers
 - DEX Models
-	- P2P Trade
+	- Perpetual DEX (Perpetual Futures Contract)
 	- Automated Market Maker (AMM)
 	- Concentrated Liquidity Market Maker (CLMM) (pioneered by Uniswap v3)
 	- Concentrated P Market Maker (CPMM)
