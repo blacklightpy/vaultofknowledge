@@ -21,4 +21,6 @@ Prakriti - Material Cause
 
 Ishvara - Nimitta Karana (Advaita Samkhya)
 
-Doublespeak-Jargon-Trust.
+- Doublespeak-Jargon-Trust is the only way for Aristocracy.
+
+Generic UI vs Personalized UI (learn)
