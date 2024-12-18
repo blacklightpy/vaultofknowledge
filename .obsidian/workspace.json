@@ -231,9 +231,19 @@
               "icon": "lucide-file",
               "title": "Economics 2"
             }
+          },
+          {
+            "id": "2a244a6fc5061998",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -405,12 +415,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f3471f881dcbf042",
+  "active": "2a244a6fc5061998",
   "lastOpenFiles": [
+    "Economics 2.md",
     "My way of classifying religions.md",
     "Questions to LLMs 2.md",
     "Cryptocurrencies 2 - Decentralized Exchanges.md",
-    "Economics 2.md",
     "Map of Wondering.md",
     "06. Collected Knowledge/The Inheritance of Sin.md",
     "Cryptocurrencies 1 - Currency Networks.md",
