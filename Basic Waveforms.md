@@ -1,0 +1,5 @@
+- Sine
+- Triangle
+- Square
+- Sawtooth
+- Pulse

@@ -10,6 +10,9 @@ Velocity of Money - Price Level
 Quantum Theory of Money - Equation of Exchange
 Criticism by Marx - Labour Theory of Value
 
+Marx viewed profits as exploitation.
+Nassau William Senior proposed the abstinence theory of interest.
+
 #rough 
 The society that prospers in art will prosper.
 
