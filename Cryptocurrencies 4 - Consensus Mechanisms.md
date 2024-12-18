@@ -1,4 +1,5 @@
 ### Proof of Work (PoW)
+
 - Bitcoin (BTC)
 - Bitcoin Cash (BCH)
 - Bitcoin Satoshi Vision (BSV)
@@ -17,6 +18,7 @@
 - DigiByte (DGB)
 - Komodo (KMD)
 - Feathercoin (FTC)
+
 ### **Proof of Stake (PoS)**
 
 - Ethereum (ETH)
