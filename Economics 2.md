@@ -19,7 +19,7 @@ The society that prospers in art will prosper.
 A friend of all is a friend of none (Indian Idol worship analogy - they don't do idolatry)
 e.g. in Sankhya, we assume a rolemodel God and try to attain oneness with it, renouncing the body
 
-Vaidika vs Laukika
+Shabda - Vaidika vs Laukika
 
 Bhagwan (Vishnu), Eeshvara (Shiva), Brahmaan, Purusha
 
