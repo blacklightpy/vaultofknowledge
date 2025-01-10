@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -255,7 +255,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -375,7 +376,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b908c3ec1cd0acd",
+  "active": "ae75b1bc4937f5e0",
   "lastOpenFiles": [
     "01. Personal/Project Ideas/Personal Text Editor.md",
     "Economics 2.md",
