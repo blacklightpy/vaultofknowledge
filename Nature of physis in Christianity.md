@@ -79,3 +79,10 @@ So one should not go to sleep after it, unless it is sleep time.
 
 Also, although one can stay awake in this manner, not all of the body is the conscious part and needs maintenance.
 So one must go to sleep timely.
+
+All other life forms and God are aware, it's just the intelligent life forms that make mistakes.
+
+The world doesn't disappear, because you, the person is Brahmaan as a life form.
+To change your current body and live elsewhere would mean destroying your body.
+Because all bodies there are have the same consciousness, of Brahmaan.
+So one just has to come to terms with their current body.
