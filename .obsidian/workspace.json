@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -255,8 +255,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -376,12 +375,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ae75b1bc4937f5e0",
+  "active": "f3471f881dcbf042",
   "lastOpenFiles": [
+    "My way of classifying religions.md",
     "01. Personal/Project Ideas/Personal Text Editor.md",
     "Economics 2.md",
     "Cryptocurrencies 4 - Consensus Mechanisms.md",
-    "My way of classifying religions.md",
     "01. Personal/Daily Notes/2024-11-09.md",
     "06. Collected Knowledge/The Inheritance of Sin.md",
     "Questions to LLMs 2 - Accident Correction in Cryptocurrency Transactions.md",

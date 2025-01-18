@@ -26,7 +26,7 @@ Bhagwan (Vishnu), Eeshvara (Shiva), Brahmaan, Purusha
 Purusha - Efficient Cause
 Prakriti - Material Cause
 
-Ishvara - Nimitta Karana (Advaita Samkhya)
+Ishvara - Nimitta Karana (Efficient Cause?) (Advaita Samkhya)
 
 - Doublespeak-Jargon-Trust is the only way for Aristocracy.
 

@@ -9,11 +9,16 @@
 	- The Teachings of Submission by Prophet Muhammad
 		- The Ways of The People who follow only the Recitation of Muhammad
 		- The Ways of The People of Tradition and The Majority
-			- The Teachings of Scholar Ahmed ibn Hanbal
-				- The Teachings of Scholar Muhammad ibn Abd' al-Wahhab
-			- The Teachings of Scholar ash-Shaafaa'ee
-			- The Teachings of Scholar Abu Haneefa
-			- The Teachings of Scholar Maalik ibn Anas
+			- Creed
+				- The Teachings of Scholar Ahmed ibn Hanbal (Literalism)
+				- The Teachings of Scholar Abu al-Hasan al-Ash'ari
+				- The Teachings of Scholar Abu Mansur al-Maturdi
+			- Jurisdiction
+				- The Teachings of Scholar Ahmed ibn Hanbal
+					- The Teachings of Scholar Muhammad ibn Abd' al-Wahhab
+				- The Teachings of Scholar ash-Shaafaa'ee
+				- The Teachings of Scholar Abu Haneefa
+				- The Teachings of Scholar Maalik ibn Anas
 		- The Teachings of The People of The House of Muhammad (Rejectors of Khalifs)
 			- The Teachings of the Fivers
 			- The Teachings of the Seveners
@@ -42,6 +47,7 @@
 		- The Teachings of Prince Siddhartha Gautama (Enlightenment)
 			- The Way of the Smaller Vehicle
 			- The Way of the Larger Vehicle
+			- The Way of the Powerful Vehicle
 		- The Teachings of Victors
 			- The Teachings of Mahavira
 				- The Teachings of Rishabhanata
