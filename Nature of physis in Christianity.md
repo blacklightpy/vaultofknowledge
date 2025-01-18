@@ -57,6 +57,15 @@ The creation is the material form, the creator is the immaterial form.
 
 Brahmaan is both material and non-material. All opposites.
 
+Awareness can help provide more free will into our actions.
+But certain actions take you farther from awareness.
+e.g. Masturbation requires you to give up your state of awareness.
+Then it makes your body so tired as to not achieve the state of awareness.
+Unless you can get back to the state of awareness quickly.
+
+This is even more so the case when one identifies with the material world.
+They won't remember to switch to the state of awareness and would instead go farther from it.
+
 Energies: Tamas (Self Harm), Sattva (Stable), Rajas (Ego)
 
 God set the initial Karma, to create the world.
