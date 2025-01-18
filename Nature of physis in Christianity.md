@@ -35,7 +35,7 @@ In my opinion, these are the natures:
 	- Aware (When you condition your body to conduct energy well to be fully aware)
 - Concepts
 	- Free Will / [Consciousness]
-	- Creation / [Creation of Field]
+	- Manifestation of the World / [Creation of Field]
 	- Cosmological Evolution / [Transformation of Energy and Matter]
 	- Biological Evolution / [Transformation of Energy and Matter]
 	- Life / [Transformation of Energy and Matter]
