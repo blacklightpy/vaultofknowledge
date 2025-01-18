@@ -49,3 +49,15 @@ In my opinion, these are the natures:
 	- Divine Soul (the aspect of the immaterial God)
 - Faculties for Awareness
 	- Conditioning of the Body (or else, energy won't flow to be aware)
+
+The material is spiritual. There is nothing external.
+Even divine intervention requires the material form, that is why God only interacts as incarnate.
+The creation is the material form, the creator is the immaterial form.
+
+Brahmaan is both material and non-material. All opposites.
+
+Energies: Tamas (Self Harm), Sattva (Stable), Rajas (Ego)
+
+God set the initial Karma, to create the world.
+Life forms through their free will can do personal Karma, but God will intervene to help.
+As one grows and takes more free will, God intervenes less, unless the life form seeks God.
