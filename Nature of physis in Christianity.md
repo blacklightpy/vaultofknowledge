@@ -40,6 +40,7 @@ In my opinion, these are the natures:
 	- Biological Evolution / [Transformation of Energy and Matter]
 	- Life / [Transformation of Energy and Matter]
 	- Awareness / [Conditioning of Energy and Matter]
+	- Sleep / [Transformation of Energy and Matter]
 	- Death / [Transformation of Energy and Matter]
 	- Karma (questioning)
 	- Salvation from Crisis / [Divine Intervention / Awareness]
@@ -61,3 +62,7 @@ Energies: Tamas (Self Harm), Sattva (Stable), Rajas (Ego)
 God set the initial Karma, to create the world.
 Life forms through their free will can do personal Karma, but God will intervene to help.
 As one grows and takes more free will, God intervenes less, unless the life form seeks God.
+
+Energies are states of the body. Free will can exert actions to change the energy.
+Both free will and the body that is works are the same entity.
+However, free will is formless, and the body is formal.
