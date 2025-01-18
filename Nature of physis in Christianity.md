@@ -16,6 +16,9 @@ But when we skip the process of digging deep into the differences and try to pig
 
 Now when it comes to shirts, one can have a good classification of all the sizes very easily, and can make a dogma out of it. But when it comes to the mind, people do not have a perfect knowledge of it, and therefore, they couldn't make a perfect dogma to contain it, and the same went for science. This infinitely complex nature of reality is what provides clear paths to break free of dogmas.
 
+## My religious thinking 
+#rough 
+
 In my opinion, these are the natures:
 - Ultimate Nature: consciousness
 - Ontological Nature: creator, creation
@@ -51,18 +54,22 @@ In my opinion, these are the natures:
 - Faculties for Awareness
 	- Conditioning of the Body (or else, energy won't flow to be aware)
 
+### Spirituality
 The material is spiritual. There is nothing external.
 Even divine intervention requires the material form, that is why God only interacts as incarnate.
 The creation is the material form, the creator is the immaterial form.
 
 Brahmaan is both material and non-material. All opposites.
 
+### Energies of Nature
 Energies: Tamas (Self Harm), Sattva (Stable), Rajas (Ego)
 
+### Free Will
 God set the initial Karma, to create the world.
 Life forms through their free will can do personal Karma, but God will intervene to help.
 As one grows and takes more free will, God intervenes less, unless the life form seeks God.
 
+### Free Will's Role on Natural Energies
 Energies are states of the body. Free will can exert actions to change the energy.
 Both free will and the body that is works are the same entity.
 However, free will is formless, and the body is formal.
@@ -80,14 +87,17 @@ So one should not go to sleep after it, unless it is sleep time.
 Also, although one can stay awake in this manner, not all of the body is the conscious part and needs maintenance.
 So one must go to sleep timely.
 
+### Role of Intelligence in Turbulence of the Mind
 All other life forms and God are aware, it's just the intelligent life forms that make mistakes.
 
+### Significance of the Current World
 The world doesn't disappear, because you, the person is Brahmaan as a life form.
 To change your current body and live elsewhere would mean destroying your body.
 Because all bodies there are have the same consciousness, of Brahmaan.
 So one just has to come to terms with their current body.
 
-### About mind reading
+This world will change when it is it's time.
+### About Mind Reading
 Brahmaan cannot read minds because minds are a dualistic illusion.
 That is, when you write letters on a piece of paper with ink, you see information.
 Brahmaan however sees all ink, all paper and all information, so the dualistic appearance is not of relevance.
@@ -107,4 +117,10 @@ So, it may be possible, but the method of focusing would be more difficult than 
 In my experience, attaining universal knowledge was possible, but very difficult.
 
 Also, I'm not sure if knowing alone can help you achieve anything, as it would be similar to spying.
-THa
+That is, unless you know your fate and paths to take too.
+But doing so breaks the point of the illusion, and there is no fun in that.
+
+You want experiences to come about by Karma, not by data analysis.
+You want someone to love you for who you are, not because you spied their interests.
+
+Even if it is possible, it wil

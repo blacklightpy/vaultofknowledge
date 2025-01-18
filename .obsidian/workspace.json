@@ -300,7 +300,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -422,9 +423,11 @@
   },
   "active": "faccba2af6847804",
   "lastOpenFiles": [
+    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
+    "Nature of physis in Christianity.md",
+    "06. Collected Knowledge/Sankhya - My Philosophy.md",
     "History of Christianity.md",
     "Christian Church Terminology.md",
-    "Nature of physis in Christianity.md",
     "Economics 2.md",
     "My way of classifying religions.md",
     "01. Personal/Project Ideas/Personal Text Editor.md",
@@ -446,8 +449,6 @@
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Blockchain.md",
     "04. Organized Knowledge - Old Format/Marketplace and Creations/Software Implementations/SurrealDB.md",
     "Bitcoin Protocols.md",
-    "Structured vs Unstructured Databases.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Ethereum Protocols.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",

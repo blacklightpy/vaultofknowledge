@@ -225,14 +225,16 @@ They can be grouped as:
 					- **Dvesha** (Aversion)
 					- **Abhinivesha** (Fear of Death)
 				- Types of Vritthis
-					- **Pramaana** (Knowing Correctly)
-						- **Pratyaksha** Pramaana Vritthi
-						- **Anumaana** Pramaana Vritthi
-						- **Aagama** / **Shabda** Pramaana Vritthi
-					- **Viparyaya** (Incorrect Knowledge)
-					- **Vikalpa** (Fantasy or Imagination)
-					- **Nidra** (Sleep)
-					- **Smriti** (Recollection from Memory)
+					- Preliminary Knowledge on this topic
+						- **Pramaana** (Knowing Correctly)
+							- **Pratyaksha** Pramaana Vritthi
+							- **Anumaana** Pramaana Vritthi
+							- **Aagama** / **Shabda** Pramaana Vritthi
+					- Types
+						- **Viparyaya** (Incorrect Knowledge)
+						- **Vikalpa** (Fantasy or Imagination)
+						- **Nidra** (Sleep)
+						- **Smriti** (Recollection from Memory)
 			- **Chitta Vritthi Nirodha** (Cessation of Fluctuations of the Mind)
 				- Why
 					- Vritthis cause **Sukha** (Pleasure), **Dukha** (Pain) and **Moha** (Desire)
