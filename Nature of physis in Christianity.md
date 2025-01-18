@@ -24,7 +24,20 @@ In my opinion, these are the natures:
 		- God (Form)
 		- Power (Ability)
 		- Incarnation (Form)
-	- Creation
+	- Creation:
 		- Energy (Form)
 		- Matter (Form)
 		- Consiousness (Ability)
+- States of Consciousness
+	- Inert (When there is no body to conduct energy to a state of awareness)
+	- Living (When the body can conduct energy as signals just enough to be aware)
+	- Aware (When you condition your body to conduct energy well to be fully aware)
+- Concepts
+	- Cosmological Evolution / Transformation of Energy and Matter
+	- Biological Evolution / Transformation of Energy and Matter
+	- Life / Transformation of Energy and Matter
+	- Awareness / Conditioning of Energy and Matter
+	- Death / Transformation of Energy and Matter
+	- Karma (questioning)
+	- Salvation from Crisis / Divine Intervention
+	- Devotion to God / 
