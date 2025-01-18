@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -379,10 +379,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nature of physis in Christianity.md"
+                "file": "Christian Church Terminology.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nature of physis in Christianity"
+              "title": "Outline of Christian Church Terminology"
             }
           },
           {
@@ -420,7 +420,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "faccba2af6847804",
+  "active": "cbeab8a4f2ca1bab",
   "lastOpenFiles": [
     "Nature of physis in Christianity.md",
     "Christian Church Terminology.md",

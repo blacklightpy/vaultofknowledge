@@ -17,17 +17,12 @@
 	- Synod (a council or assembly of bishops or church leaders governing a particular church or denomination)
 ### **Special Church Buildings and Titles**
 
-- Basilica (special designation given to certain churches by the Pope in the Catholic Church)
+- Basilica (special designation given to certain churches by the Pope in the Catholic Church / can display the papal insignia)
 	- Major Basilicas (Four basilicas in Rome)
 	- Minor Basilicas (Everywhere else)
-
-#### **Basilica**
-
-- A special designation given to certain churches by the Pope in the Catholic Church.
-- **Major Basilicas**: Four basilicas in Rome with unique significance (e.g., St. Peter’s Basilica).
-- **Minor Basilicas**: Churches worldwide with historical, architectural, or spiritual importance.
-- A basilica often includes privileges, such as the right to display the papal insignia.
-
+- Cathedral (principal church of a diocese, where the )
+- Chapel
+- Shrine
 #### **Cathedral**
 
 - The principal church of a diocese, where the bishop's official chair (cathedra) is located.
@@ -69,9 +64,6 @@
     - Governed by councils or synods, often shared between clergy and laity.
     - Found in Eastern Orthodoxy and some Protestant traditions.
 
----
-
-Let me know if you'd like deeper insights into any of these terms or structures!
 ---
 # Detail
 ### **Church Organizational Structures**
