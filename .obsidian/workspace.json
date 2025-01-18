@@ -216,9 +216,24 @@
               "icon": "lucide-file",
               "title": "History of Christianity"
             }
+          },
+          {
+            "id": "cbeab8a4f2ca1bab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Christian Church Terminology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Christian Church Terminology"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -349,10 +364,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History of Christianity.md"
+                "file": "Christian Church Terminology.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of History of Christianity"
+              "title": "Outline of Christian Church Terminology"
             }
           },
           {
@@ -390,8 +405,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9db43f1d3cc5e9ec",
+  "active": "cbeab8a4f2ca1bab",
   "lastOpenFiles": [
+    "Christian Church Terminology.md",
     "History of Christianity.md",
     "Economics 2.md",
     "My way of classifying religions.md",
@@ -417,7 +433,6 @@
     "Structured vs Unstructured Databases.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/Web Development/Web 3/Ethereum Protocols.md",
     "06. Collected Knowledge/Memes of Religions.md",
-    "06. Collected Knowledge/Free Software Banking.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
