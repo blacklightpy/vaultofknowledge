@@ -86,3 +86,25 @@ The world doesn't disappear, because you, the person is Brahmaan as a life form.
 To change your current body and live elsewhere would mean destroying your body.
 Because all bodies there are have the same consciousness, of Brahmaan.
 So one just has to come to terms with their current body.
+
+### About mind reading
+Brahmaan cannot read minds because minds are a dualistic illusion.
+That is, when you write letters on a piece of paper with ink, you see information.
+Brahmaan however sees all ink, all paper and all information, so the dualistic appearance is not of relevance.
+
+What about why this world is structured? Isn't such a structure ultimately relevant?
+No, it wouldn't be, because this one one of several such arbitrary structures.
+In another sense, Brahmaan is wise, rather than all knowing, because it's too all knowing.
+That is, when we have a lot of knowledge, tiny observations become less relevant.
+Brahmaan would know every memory that everyone has at every time.
+However, that level of knowledge is not useful in the dualistic world, unless one can focus in on it.
+
+Can one focus enough to get this information from the state of pure awareness?
+That is, it is easier to get universal knowledge than to get knowledge about a specific entity.
+
+The thing to note here is that even though the data is in Brahmaan, the act of focusing sees it through the lens of Maaya.
+So, it may be possible, but the method of focusing would be more difficult than attaining universal knowledge.
+In my experience, attaining universal knowledge was possible, but very difficult.
+
+Also, I'm not sure if knowing alone can help you achieve anything, as it would be similar to spying.
+THa
