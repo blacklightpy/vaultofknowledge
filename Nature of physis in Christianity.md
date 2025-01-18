@@ -39,7 +39,7 @@ In my opinion, these are the natures:
 	- Cosmological Evolution / [Transformation of Energy and Matter]
 	- Biological Evolution / [Transformation of Energy and Matter]
 	- Life / [Transformation of Energy and Matter]
-	- Awareness / [Conditioning of Energy and Matter]
+	- Awareness / [Conditioning of Energy and Matter] (Knowledge included)
 	- Sleep / [Transformation of Energy and Matter]
 	- Death / [Transformation of Energy and Matter]
 	- Karma (questioning)
