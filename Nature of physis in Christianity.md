@@ -25,7 +25,8 @@ In my opinion, these are the natures:
 		- Power (Ability)
 		- Incarnation (Form)
 	- Creation:
-		- Energy (Form)
+		- Field (Form)
+		- Energy (Ability)
 		- Matter (Form)
 		- Consiousness (Ability)
 - States of Consciousness
@@ -33,11 +34,18 @@ In my opinion, these are the natures:
 	- Living (When the body can conduct energy as signals just enough to be aware)
 	- Aware (When you condition your body to conduct energy well to be fully aware)
 - Concepts
-	- Cosmological Evolution / Transformation of Energy and Matter
-	- Biological Evolution / Transformation of Energy and Matter
-	- Life / Transformation of Energy and Matter
-	- Awareness / Conditioning of Energy and Matter
-	- Death / Transformation of Energy and Matter
+	- Free Will / [Consciousness]
+	- Creation / [Creation of Field]
+	- Cosmological Evolution / [Transformation of Energy and Matter]
+	- Biological Evolution / [Transformation of Energy and Matter]
+	- Life / [Transformation of Energy and Matter]
+	- Awareness / [Conditioning of Energy and Matter]
+	- Death / [Transformation of Energy and Matter]
 	- Karma (questioning)
-	- Salvation from Crisis / Divine Intervention
-	- Devotion to God / 
+	- Salvation from Crisis / [Divine Intervention / Awareness]
+	- Devotion to God / [Conditioning of Energy and Matter by Divine Intervention]
+- Faculties for Divine Intervention
+	- Personal Soul (the energy in the material brain)
+	- Divine Soul (the aspect of the immaterial God)
+- Faculties for Awareness
+	- Conditioning of the Body (or else, energy won't flow to be aware)
