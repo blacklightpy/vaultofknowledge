@@ -113,6 +113,7 @@ Can one focus enough to get this information from the state of pure awareness?
 That is, it is easier to get universal knowledge than to get knowledge about a specific entity.
 
 The thing to note here is that even though the data is in Brahmaan, the act of focusing sees it through the lens of Maaya.
+That is, you would be using the realization of Brahmaan to look into Maaya again.
 So, it may be possible, but the method of focusing would be more difficult than attaining universal knowledge.
 In my experience, attaining universal knowledge was possible, but very difficult.
 
@@ -123,4 +124,11 @@ But doing so breaks the point of the illusion, and there is no fun in that.
 You want experiences to come about by Karma, not by data analysis.
 You want someone to love you for who you are, not because you spied their interests.
 
-Even if it is possible, it wil
+Even if it is possible, it will only be gained at the cost of pain.
+So it is best not to look into it, unless you've been given that in your life.
+
+### Method of Creation
+Everything is already created, you just have to experience it.
+That is, you cannot create like Eeshvara, because you have already created everything to perfection.
+
+Every intervention is created as well, it's a matter of which choices you play out.
