@@ -144,7 +144,9 @@ Putting it into words, in a good fashion, will take a lot of effort.
 ### Relation to Science
 Brahmaan is the unified field.
 
-W and Z bosons were in the electroweak epoch, and that's because weak forces act on a more deeper scale than the more available electromagnetic and gravitational forces.
+W and Z bosons were unified the photons in the electroweak epoch, and that's because weak forces act on a more deeper scale than the more available electromagnetic and gravitational forces.
+
+And gluons were unified with the W and Z bosons in the grand unification epoch.
 
 (decoupling? see Wiki)
 
