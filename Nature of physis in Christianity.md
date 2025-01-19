@@ -208,11 +208,17 @@ But data will lead to good, as that is the way of God, and even if it wouldn't, 
 
 ### Why did Brahmaan create a food chain?
 Well, laws of physics demand energy intake from external surroundings.
-A plant diet
+A plant diet won't give you all the nutrients, unless we calculate all our dietary needs.
+However, animals have consumed diverse diets, saving us from the calculation if we eat them.
+
 Animals, while have sentience, do not have enough of it to have a will or dreams like humans.
 
 Also, animals show themselves that they eat other animals.
 It also teaches us how to behave with people who aren't using their intelligence well.
+### Effect of thoughts
+Some thoughts, like sexual thoughts, produce hormones that alter the body's state.
+This can take you away from the state of realization. [Why does it exist?]
+### 
 
 #rough (History of Yavanaka - Leading to "colonial interpretations' and "caste")
 Read this comment chain: https://www.quora.com/Are-Yavanas-in-Mahabharata-actually-Greeks/answer/Ranjiv-Kurup?comment_id=157454093&comment_type=2
