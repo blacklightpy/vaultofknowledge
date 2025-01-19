@@ -142,15 +142,20 @@ Whenever we want to know something, we can tap into that state of consciousness.
 Putting it into words, in a good fashion, will take a lot of effort.
 
 ### Relation to Science
-
 Brahmaan is the unified field.
 
 W and Z bosons were in the electroweak epoch, and that's because weak forces act on a more deeper scale than the more available electromagnetic and gravitational forces.
 
-### What is the source of knowledge and why didn't Indians make technology?
-
+### What is the source of such knowledge, if ancients knew it too?
 The source of knowledge is simply the Brahmaan consciousness.
 
-From that, one could know about ideas like how wind would flow.
+For that reason, ancient knowledge is not the only source of knowledge, and neither is there any reason to consider it to be perfect. It just matters that a person gets into the same state of consciousness, and does not simply roughly make up ideas.
 
-But to tabulate them into words, would take a lot of time in the worldly format, and it would require comm
+From that, one could know about ideas like how wind would flow.
+It is on this principle that Vaastu Shaastra (Science of Housing) was built.
+
+But to tabulate them into words, would take a lot of time in the worldly format, and it would require communication to develop.
+### Why didn't Indians make technology?
+The reason Indians didn't make technology as quickly as the Westerners was because Indians follow a non-dualistic world view, and therefore, exploiting natural resources wasn't their way of doing things.
+
+But among the common folk, the caste system had also ensured that every condition had a cultural explanation than a rational solution.

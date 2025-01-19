@@ -10,13 +10,14 @@ On Windows this is done by the OS using the drivers or by the Intel Graphics Con
 - https://superuser.com/questions/1547836/using-xrandr-is-it-possible-to-use-only-part-of-a-secondary-monitor-without-pan (Related: Reducing Area)
 # How I did it
 ## X Windowing System
-- ``
+- (basically adjusted the X viewport - by adjusting Pan or Framebuffer size)
+- (in Wayland, it needs compositor support)
 
 Notes:
 - Panning will crop render area, but it won't crop where the mouse can move.
 - Framebuffer size sets the 
 	- Without framebuffer size set to 1280x720, mouse will go down with transform
-- Transform translate values will affect how much the mouse can move in the specified direction
+- Transform function's translate values will affect how much the mouse can move in the specified direction
 
 
 - Functions
