@@ -132,3 +132,9 @@ Everything is already created, you just have to experience it.
 That is, you cannot create like Eeshvara, because you have already created everything to perfection.
 
 Every intervention is created as well, it's a matter of which choices you play out.
+
+### Awareness of Brahmaan
+Is Brahmaan all knowing, or is it too everything to be all knowing?
+
+Well, I'd say whatever it is, it is not important for us to know that information within Maaya.
+
