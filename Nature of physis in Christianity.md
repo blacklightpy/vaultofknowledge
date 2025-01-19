@@ -200,7 +200,16 @@ But data will lead to good, as that is the way of God, and even if it wouldn't, 
 #rough (History of Yavanaka - Leading to "colonial interpretations' and "caste")
 Read this comment chain: https://www.quora.com/Are-Yavanas-in-Mahabharata-actually-Greeks/answer/Ranjiv-Kurup?comment_id=157454093&comment_type=2
 
+#rough (Martyrdom of St. Thomas)
 St. Thomas is said to have been killed by Hindus.
 One account tells he was killed by a jealous Hindu priests of Kali.
 Other accounts tell that it was a peacock hunter.
 Other accounts tell it was 4 guards.
+
+>Nobody really knows whose relics lie beneath the São Tomé basilica, or even if any relics do. Faith and tradition are one thing, hard historical evidence quite another.
+> 
+> Although the oral tradition concerning Thomas’s Indian venture is strong, there is not a single written account in India. However, it is not wise to dismiss the oral traditions of the East as having no historical value. All the Syriac sources relating to the early Christians in India and the arrival of Thomas contain certain points that emerge as a common pattern: from the Chera country he moved to the Pandya realm, where he continued to preach the Gospel. He was killed by a dart shot by an Embran, or Brahman, or accidentally by a Govi who was out hunting. He was buried in the ‘Little Mount of Mylapore’. From there angels carried him to Uraha (Edessa).
+> 
+> None of the traditions report Thomas as having been martyred in Kerala. They all agree that this happened in the Pandyan country, the name of Mylapore occurring without exception.
+
+Source and excavation notes: https://www.madrasmusings.com/vol-27-no-16/doubting-thomas/ (no historical certainty though, and no one cares)
