@@ -46,7 +46,15 @@
 
 
 
+# More
 
-- Some structures, like **military ordinariates** or **personal prelatures**, serve people based on circumstances rather than geography, adding a layer of complexity to church governance.
+Concept: Liturgical Rites
 
-
+- Catholic Church
+	- Universal Church
+		- It is Catholicism itself
+	- Particular Churches
+		- Autonomous Particular Churches (24: Latin Church (Holy See of Rome) + 23 Eastern)
+			- Eastern includes Syrio-Malabar Church and the Syrio-Malankara Church
+			- They are in full communion with the Catholic Church
+		- Local Particular Churches (each diocese)

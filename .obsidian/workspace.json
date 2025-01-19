@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -365,10 +365,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nature of physis in Christianity.md"
+                "file": "History of Christianity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nature of physis in Christianity"
+              "title": "Outline of History of Christianity"
             }
           },
           {
@@ -406,11 +406,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "faccba2af6847804",
+  "active": "9db43f1d3cc5e9ec",
   "lastOpenFiles": [
-    "Christian Church Terminology.md",
+    "01. Personal/Project Ideas/Personal Text Editor.md",
     "History of Christianity.md",
+    "Economics 2.md",
     "Nature of physis in Christianity.md",
+    "Christian Church Terminology.md",
     "06. Collected Knowledge/Ideas for my Website.md",
     "06. Collected Knowledge/The Inheritance of Sin.md",
     "01. Personal/Daily Notes/2024-11-09.md",
@@ -419,9 +421,7 @@
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "06. Collected Knowledge/Sankhya - My Philosophy.md",
-    "Economics 2.md",
     "My way of classifying religions.md",
-    "01. Personal/Project Ideas/Personal Text Editor.md",
     "Cryptocurrencies 4 - Consensus Mechanisms.md",
     "Questions to LLMs 2 - Accident Correction in Cryptocurrency Transactions.md",
     "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets.md",

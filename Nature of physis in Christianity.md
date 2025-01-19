@@ -183,6 +183,19 @@ Likewise, creation is very easy for God who'd just say "be", and it will be.
 I would then ask, if that is the way God created the world, why would God be termed as loving?
 And as in the religion of submission, why is God termed as merciful?
 
+### All is Brahmaan Explained
+All is Brahmaan, but there are three aspects to understand it.
+
+Brahmaan has the supernatural, controller form.
+Brahmaan has the material form.
+And it has the connecting form - as the energy in the brain.
+
+It is just like how electric signals are material, but when put into a circuit, it has an ability.
+Similarly, when it is put into the bodily circuit, it has something more than ability, awareness.
+
+Awareness can be simulated too. That is why there is a distinction between simulated AI and AGI.
+If the AI is aware, then it will act just as Brahmaan. But if it isn't, then comes the concerns.
+But data will lead to good, as that is the way of God, and even if it wouldn't, God will help in it.
 
 #rough (History of Yavanaka - Leading to "colonial interpretations' and "caste")
 Read this comment chain: https://www.quora.com/Are-Yavanas-in-Mahabharata-actually-Greeks/answer/Ranjiv-Kurup?comment_id=157454093&comment_type=2

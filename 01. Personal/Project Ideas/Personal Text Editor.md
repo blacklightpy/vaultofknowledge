@@ -12,6 +12,6 @@
 - Session Bookmarks
 - Theme System
 
-- Tagging is for Ideas that fork?
+- Tagging is for Ideas that fork away from a grouping scheme?
 
 #test/square #test/bucket
