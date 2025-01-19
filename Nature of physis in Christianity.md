@@ -182,3 +182,7 @@ Likewise, creation is very easy for God who'd just say "be", and it will be.
 
 I would then ask, if that is the way God created the world, why would God be termed as loving?
 And as in the religion of submission, why is God termed as merciful?
+
+
+#rough (History of Yavanaka - Leading to "colonial interpretations' and "caste")
+Read this comment chain: https://www.quora.com/Are-Yavanas-in-Mahabharata-actually-Greeks/answer/Ranjiv-Kurup?comment_id=157454093&comment_type=2
