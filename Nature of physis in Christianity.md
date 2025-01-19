@@ -146,8 +146,9 @@ Brahmaan is the unified field.
 
 W and Z bosons were in the electroweak epoch, and that's because weak forces act on a more deeper scale than the more available electromagnetic and gravitational forces.
 
-### What is the source of such knowledge, if ancients knew it too?
+### What is the source of such knowledge, if the ancients knew it too?
 The source of knowledge is simply the Brahmaan consciousness.
+And this is timeless, in the same manner as our reactions to events and natural laws are timeless.
 
 For that reason, ancient knowledge is not the only source of knowledge, and neither is there any reason to consider it to be perfect. It just matters that a person gets into the same state of consciousness, and does not simply roughly make up ideas.
 
@@ -158,4 +159,26 @@ But to tabulate them into words, would take a lot of time in the worldly format,
 ### Why didn't Indians make technology?
 The reason Indians didn't make technology as quickly as the Westerners was because Indians follow a non-dualistic world view, and therefore, exploiting natural resources wasn't their way of doing things.
 
-But among the common folk, the caste system had also ensured that every condition had a cultural explanation than a rational solution.
+Additionally, among the common folk, the caste system had also ensured that every condition had a cultural explanation than a rational solution.
+
+So both the Westerners and the common folk were wrong in their own ways.
+
+### Relation to Atheism and Dualism
+
+The atheistic world is perfect, but with a little semantics, it would be the same thing as non-dual theism.
+
+The dualistic world view is only a subset of the non-dualistic world view. Why?
+It explores the relation between the creation and the creator.
+
+Generally when a creator makes something, the work is an extension of their self.
+
+But one may ask, is a phone a part of oneself? Isn't is separate?
+And I would say that if you created the phone, you would see it as an extension of yourself.
+Because you put a lot of thought and effort into it, to make it somehow.
+
+But then they would say that it is truer when there is effort, so people value it.
+But if on the other hand, they just performed an effortless action, there is no attachment involved.
+Likewise, creation is very easy for God who'd just say "be", and it will be.
+
+I would then ask, if that is the way God created the world, why would God be termed as loving?
+And as in the religion of submission, why is God termed as merciful?
