@@ -60,7 +60,6 @@ Even divine intervention requires the material form, that is why God only intera
 The creation is the material form, the creator is the immaterial form.
 
 Brahmaan is both material and non-material. All opposites.
-
 ### Energies of Nature
 Energies: Tamas (Self Harm), Sattva (Stable), Rajas (Ego)
 
@@ -127,7 +126,7 @@ You want someone to love you for who you are, not because you spied their intere
 Even if it is possible, it will only be gained at the cost of pain.
 So it is best not to look into it, unless you've been given that in your life.
 
-### Method of Creation
+### Nature of Creation
 Everything is already created, you just have to experience it.
 That is, you cannot create like Eeshvara, because you have already created everything to perfection.
 
@@ -138,3 +137,20 @@ Is Brahmaan all knowing, or is it too everything to be all knowing?
 
 Well, I'd say whatever it is, it is not important for us to know that information within Maaya.
 
+Whenever we want to know something, we can tap into that state of consciousness.
+
+Putting it into words, in a good fashion, will take a lot of effort.
+
+### Relation to Science
+
+Brahmaan is the unified field.
+
+W and Z bosons were in the electroweak epoch, and that's because weak forces act on a more deeper scale than the more available electromagnetic and gravitational forces.
+
+### What is the source of knowledge and why didn't Indians make technology?
+
+The source of knowledge is simply the Brahmaan consciousness.
+
+From that, one could know about ideas like how wind would flow.
+
+But to tabulate them into words, would take a lot of time in the worldly format, and it would require comm
