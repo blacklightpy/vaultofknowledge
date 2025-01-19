@@ -58,3 +58,9 @@ Concept: Liturgical Rites
 			- Eastern includes Syrio-Malabar Church and the Syrio-Malankara Church
 			- They are in full communion with the Catholic Church
 		- Local Particular Churches (each diocese)
+
+**Establisment by Mission:**
+> All Catholic bishops from all dioceses, come together to form the Catholic Bishops Conference of India, first convened in British India, 1944. The ambassador representating the Vatican City, to the Government of India, is the Apostolic Nuncio to India. The **diplomatic mission** of the Holy See to India, similar to an embassy, was established as the Apostolic delegation to the East Indies in 1881. It was raised to an **Internunciature** by Pope Pius XII in 1948, and to a full **Apostolic Nunciature** by Pope Paul VI in 1967. Archbishop Leopoldo Girelli is the current Apostolic Nuncio, named by Pope Francis on 13 March 2021. The Internunciature is located at 50-C, Niti Marg, Chanakyapuri, New Delhi. 
+
+**Relevance of Works:**
+> Concern with charity was common to Catholics and Protestants, but with one major difference: whilst the former believe that salvation comes from faith in God which manifests itself in good works such as charity, the latter could not rely on such a possibility, since they believe that only one's faith is a requisite of salvation, and that one's works are insufficient to gain or lose salvation. Consequently, Catholic charitable efforts in India have been extensive. 
