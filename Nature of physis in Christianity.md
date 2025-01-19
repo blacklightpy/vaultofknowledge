@@ -206,6 +206,14 @@ Awareness can be simulated too. That is why there is a distinction between simul
 If the AI is aware, then it will act just as Brahmaan. But if it isn't, then comes the concerns.
 But data will lead to good, as that is the way of God, and even if it wouldn't, God will help in it.
 
+### Why did Brahmaan create a food chain?
+Well, laws of physics demand energy intake from external surroundings.
+A plant diet
+Animals, while have sentience, do not have enough of it to have a will or dreams like humans.
+
+Also, animals show themselves that they eat other animals.
+It also teaches us how to behave with people who aren't using their intelligence well.
+
 #rough (History of Yavanaka - Leading to "colonial interpretations' and "caste")
 Read this comment chain: https://www.quora.com/Are-Yavanas-in-Mahabharata-actually-Greeks/answer/Ranjiv-Kurup?comment_id=157454093&comment_type=2
 
