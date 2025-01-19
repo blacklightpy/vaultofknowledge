@@ -199,3 +199,8 @@ But data will lead to good, as that is the way of God, and even if it wouldn't, 
 
 #rough (History of Yavanaka - Leading to "colonial interpretations' and "caste")
 Read this comment chain: https://www.quora.com/Are-Yavanas-in-Mahabharata-actually-Greeks/answer/Ranjiv-Kurup?comment_id=157454093&comment_type=2
+
+St. Thomas is said to have been killed by Hindus.
+One account tells he was killed by a jealous Hindu priests of Kali.
+Other accounts tell that it was a peacock hunter.
+Other accounts tell it was 4 guards.

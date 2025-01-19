@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -285,8 +285,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -365,10 +364,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History of Christianity.md"
+                "file": "Nature of physis in Christianity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of History of Christianity"
+              "title": "Outline of Nature of physis in Christianity"
             }
           },
           {
@@ -406,10 +405,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9db43f1d3cc5e9ec",
+  "active": "faccba2af6847804",
   "lastOpenFiles": [
-    "01. Personal/Project Ideas/Personal Text Editor.md",
     "History of Christianity.md",
+    "01. Personal/Project Ideas/Personal Text Editor.md",
     "Economics 2.md",
     "Nature of physis in Christianity.md",
     "Christian Church Terminology.md",
