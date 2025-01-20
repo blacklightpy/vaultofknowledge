@@ -238,13 +238,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My understanding of Particle Physics"
+              "title": "Electroweak Theory"
             }
           }
         ],
@@ -378,10 +378,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md"
+                "file": "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of My understanding of Particle Physics"
+              "title": "Outline of Electroweak Theory"
             }
           },
           {
@@ -421,6 +421,22 @@
   },
   "active": "2946b8ecfb21db6d",
   "lastOpenFiles": [
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Effective Field Theory.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Hamiltonian.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Higgs Field.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Higgs Mechanism.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Models of Particle Physics.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Weak Interactions.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/Fundamental Particles.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "Nature of physis in Christianity.md",
     "Christian Church Terminology.md",
     "History of Christianity.md",
@@ -431,22 +447,6 @@
     "01. Personal/Daily Notes/2024-11-09.md",
     "06. Collected Knowledge/Branding of Operating Systems.md",
     "06. Collected Knowledge/How to Letterbox in UNIX-like Systems.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Astrophysics/Physical Cosmology/Timeline of the Universe.md",
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
-    "06. Collected Knowledge/Sankhya - My Philosophy.md",
-    "My way of classifying religions.md",
-    "Cryptocurrencies 4 - Consensus Mechanisms.md",
-    "Questions to LLMs 2 - Accident Correction in Cryptocurrency Transactions.md",
-    "Cryptocurrencies 3 - Grading Non-Custodial Cryptocurrency Wallets.md",
-    "Cryptocurrencies 2 - Decentralized Exchanges.md",
-    "Questions to LLMs 1 - Complexity of Programming Languages.md",
-    "Basic Waveforms.md",
-    "Decline of Love Songs.md",
-    "03. Culture/Food and Drinks/Delicacies.md",
-    "03. Culture/Food and Drinks/Tea.md",
-    "Map of Wondering.md",
-    "Cryptocurrencies 1 - Currency Networks.md",
-    "Economics 1.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
