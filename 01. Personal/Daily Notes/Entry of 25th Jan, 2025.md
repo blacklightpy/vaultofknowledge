@@ -7,3 +7,4 @@ Today, I need to take notes on:
 		- Absement, Actergy, etc.
 
 Then do my todos, it's in Plasma Sticky Notes
+
