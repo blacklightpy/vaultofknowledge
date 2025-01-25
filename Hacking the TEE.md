@@ -1,0 +1,1 @@
+Resources: https://xdaforums.com/t/tee-hacking.4662185/

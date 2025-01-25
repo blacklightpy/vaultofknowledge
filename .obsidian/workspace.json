@@ -306,19 +306,9 @@
               "icon": "lucide-file",
               "title": "Entry of 25th Jan, 2025"
             }
-          },
-          {
-            "id": "000f8421597adbce",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -391,6 +381,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +391,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Entry of 25th Jan, 2025"
             }
           },
           {
@@ -448,9 +439,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Entry of 25th Jan, 2025"
             }
           },
           {
@@ -487,8 +480,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "4b812a5d9baf620e",
   "lastOpenFiles": [
+    "Hacking the TEE.md",
     "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
     "01. Personal/Daily Notes/2024-11-04.md",
     "01. Personal/Daily Notes/2024-11-07.md",
@@ -514,7 +508,6 @@
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/Leptons.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
