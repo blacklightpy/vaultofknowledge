@@ -1,20 +1,52 @@
 - Scriptures
 	- Heard
 		- Sought Knowledge (Revelation) / Samskrita Books of Knowledge
-			- Action Section
-				- Collections
-				- Reality
-			- Worship Section
-				- Works from the Forests
-			- Wisdom Section
-				- Basic Understanding
+			- Sections
+				- Action Section
+					- Collections
+					- Reality
+				- Worship Section
+					- Works from the Forests
+				- Wisdom Section
+					- Basic Understanding
+			- Fields
+				- Branches of Transmissions
+				- Disciplines
+					- Phonetics
+					- Prosody
+					- Grammar
+					- Etymology and Linguistics
+					- Astrology
+					- Rituals and Rites of Passage
 		- Arriving Knowledge (Traditions)
+		- The Song of God (from The Great Bhaarat)
 	- Inspired
 		- Epics
-			- The Great Bharata
-			- The Coming of Ram
+			- The Great Bharaat
+			- The Journey of Ram
 - Schools of Thought (Darshana)
+	- Reason Based
+		- Enumeration
+		- Connection to Reality
+		- Principles
+		- Particularities
+	- Inspiration Based
+		- Earlier Reflections
+		- Later Reflections
+			- Non-Dualism
+			- Difference and Non-Difference
+				- Dualism and Non-Dualism
+			- Special Non-Dualism
+				- Namesake and Ultimate Forms
+			- Dualism
+			- Pure Non-Dualism
+			- Inconceivable Difference and Non-Difference
+			- Modern Summary
 - Schools of Practice (Sampradaayas)
+	- The School of Vishnu
+	- The School of Shiva
+	- The School of Shakthi
+	- The School of Inspiration
 
 - Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
 	- Sections

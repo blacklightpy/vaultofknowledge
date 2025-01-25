@@ -285,7 +285,7 @@ About Nyaaya, Vaisheshika, Meemaamsa: https://old.reddit.com/r/hinduism/comments
 			- **Anumaana** (Logical Inference)
 			- **Shabda** (Verbal Testimony)
 			- **Upamaana** (Comparison and Analogy)
-- 4. Vaisheshika (Particulate Nature)
+- 4. Vaisheshika (Particularities)
 	- **Brief**
 		- It postulated that everything is made of atoms
 		- It aimed to fix the atheistic nature of Sankhya and the problems with Nyaaya

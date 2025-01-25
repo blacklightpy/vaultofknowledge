@@ -369,7 +369,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "great bharata",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -390,12 +390,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -510,10 +510,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3acb871d8c0b674b",
+  "active": "5699db74f7d0c32b",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/Hinduism/Vedas.md",
+    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "Trying to Consolidate Hinduism 1.md",
+    "07. Miscellaneous/Religions/Hinduism/Vedangas.md",
+    "07. Miscellaneous/Religions/Hinduism/Vedas.md",
     "07. Miscellaneous/Religions/Hinduism Notes.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Index.md",
     "Paths in Hinduism.md",
@@ -536,8 +538,6 @@
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Higgs Field.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Higgs Mechanism.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Models of Particle Physics.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/My understanding of Particle Physics.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/To Learn in Physics.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
