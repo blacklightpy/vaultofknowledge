@@ -1,5 +1,5 @@
 - Scriptures
-	- Heard
+	- Heard (Eternal Scriptures)
 		- Sought Knowledge (Revelation) / Samskrita Books of Knowledge
 			- Sections
 				- Action Section
@@ -20,7 +20,7 @@
 					- Rituals and Rites of Passage
 		- Arriving Knowledge (Traditions)
 		- The Song of God (from The Great Bhaarat)
-	- Inspired
+	- Remembered (Transmitted Writings Inspired by Scriptures)
 		- Epics
 			- The Great Bharaat
 			- The Journey of Ram
@@ -46,7 +46,7 @@
 	- The School of Vishnu
 	- The School of Shiva
 	- The School of Shakthi
-	- The School of Inspiration
+	- The School of Remembrance
 
 - Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
 	- Sections
