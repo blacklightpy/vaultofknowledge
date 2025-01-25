@@ -380,6 +380,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -389,7 +390,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Entry of 25th Jan, 2025"
             }
           },
           {
@@ -454,8 +455,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -481,8 +481,9 @@
   },
   "active": "4b812a5d9baf620e",
   "lastOpenFiles": [
-    "UI Theory 1.md",
+    "06. Collected Knowledge/Non-Linear Editing.md",
     "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
+    "UI Theory 1.md",
     "01. Personal/Daily Notes/2024-11-09.md",
     "Moment of Inertia.md",
     "Study of Reality.md",
@@ -506,7 +507,6 @@
     "Christian Church Terminology.md",
     "History of Christianity.md",
     "01. Personal/Project Ideas/Personal Text Editor.md",
-    "Economics 2.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
