@@ -19,6 +19,12 @@
 					- Astrology
 					- Rituals and Rites of Passage
 		- Arriving Knowledge (Traditions)
+			- Tantra
+			- Yantra
+			- Upaasana
+			- Diksha
+			- Temple Construction
+			- Idol Construction
 		- The Song of God (from The Great Bhaarat)
 	- Remembered (Transmitted Writings Inspired by Scriptures)
 		- Epics
