@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤠 Personal/Daily Notes/2024-11-04.md",
+                "file": "01. Personal/Daily Notes/2024-11-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -306,9 +306,19 @@
               "icon": "lucide-file",
               "title": "Entry of 25th Jan, 2025"
             }
+          },
+          {
+            "id": "000f8421597adbce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -360,7 +370,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -380,7 +391,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +400,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Entry of 25th Jan, 2025"
+              "title": "Backlinks"
             }
           },
           {
@@ -438,11 +448,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Entry of 25th Jan, 2025"
+              "title": "Outline"
             }
           },
           {
@@ -479,10 +487,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4b812a5d9baf620e",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
-    "Untitled.md",
     "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
+    "01. Personal/Daily Notes/2024-11-04.md",
+    "01. Personal/Daily Notes/2024-11-07.md",
+    "Untitled.md",
     "06. Collected Knowledge/Non-Linear Editing.md",
     "UI Theory 1.md",
     "01. Personal/Daily Notes/2024-11-09.md",
@@ -505,8 +515,6 @@
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/Limitations of the Standard Model.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Standard Model/W and Z Bosons.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Spontaneous Symmetry Breaking.md",
-    "Christian Church Terminology.md",
-    "History of Christianity.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
