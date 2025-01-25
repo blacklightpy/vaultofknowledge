@@ -1,4 +1,5 @@
 {
   "folder": "01. Personal/Daily Notes",
-  "format": "[D]E, [W]w, YYYYY NN"
+  "format": "[Entry of ]Do MMM, YYYY",
+  "autorun": true
 }

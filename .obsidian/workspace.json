@@ -296,10 +296,15 @@
             "id": "4b812a5d9baf620e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Entry of 25th Jan, 2025"
             }
           }
         ],
@@ -432,9 +437,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Entry of 25th Jan, 2025"
             }
           },
           {
@@ -475,6 +482,7 @@
   "active": "4b812a5d9baf620e",
   "lastOpenFiles": [
     "UI Theory 1.md",
+    "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
     "01. Personal/Daily Notes/2024-11-09.md",
     "Moment of Inertia.md",
     "Study of Reality.md",
@@ -499,7 +507,6 @@
     "History of Christianity.md",
     "01. Personal/Project Ideas/Personal Text Editor.md",
     "Economics 2.md",
-    "06. Collected Knowledge/Ideas for my Website.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
