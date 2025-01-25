@@ -5,7 +5,7 @@ The sections of the Vedas can be divided into two, or three broad divisions.
 	- Includes Samhithas and Brahmanas
 2. Upaasana Khanda (Worship Portion) [Minor Classification]
 	- [[Upaasana]] (mostly in Aranyakas)
-3. Jnana Khanda (Wisdom Portion)
+3. Jnaana Khanda (Wisdom Portion)
 	- Includes Aranyakas and [[Upanishads]]
 
 Vedas are passed on through [[Vedic Shakhas|Shakhas]].

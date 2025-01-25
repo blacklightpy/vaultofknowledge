@@ -1,0 +1,36 @@
+- Scriptures
+	- Heard
+		- Sought Knowledge (Revelation) / Samskrita Books of Knowledge
+			- Action Section
+				- Collections
+				- Reality
+			- Worship Section
+				- Works from the Forests
+			- Wisdom Section
+				- Basic Understanding
+		- Arriving Knowledge (Traditions)
+	- Inspired
+		- Epics
+			- The Great Bharata
+			- The Coming of Ram
+- Schools of Thought (Darshana)
+- Schools of Practice (Sampradaayas)
+
+- Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
+	- Sections
+		- Samhithas (Put Together / Collections)
+		- Brahmanas (Universal / Spiritual Insights)
+		- Aranyakas (Works from the Forest / Sainthood)
+		- [[Upanishads]] (Close Sitting Knowledge / Basic Understanding)
+		- [[Upaasana]] (Worship) [Mostly embedded in the others]
+	- Parishistas (Supplements)
+	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
+	- [[Vedangas]] (Philosophical Disciplines of Vedas)
+- Aagamas (Tradition / What has come down)
+- [[Sutras]]
+	- [[Dharma Sutras]]
+	- [[Dharma Shastra]]
+- [[Puranas]]
+- Ithihasas
+	- [[Mahabharata]]
+	- Ramayana
