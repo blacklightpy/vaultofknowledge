@@ -19,7 +19,7 @@ In Religion:
 		- [[Upanishads]] (Close Sitting Knowledge / Basic Understanding)
 		- [[Upaasana]] (Worship) [Mostly embedded in the others]
 	- Parishistas (Supplements)
-	- [[Vedic Shakhas]] (Textual Divisions of Vedas)
+	- [[Vedic Shakhas]] (Branches of Transmission of the Vedas)
 	- [[Vedangas]] (Philosophical Disciplines of Vedas)
 - Aagamas (Tradition / What has come down)
 - [[Sutras]]
