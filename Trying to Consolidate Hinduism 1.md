@@ -1,17 +1,17 @@
-- Scriptures
-	- Heard (Eternal Scriptures)
-		- Sought Knowledge (Revelation) / Samskrita Books of Knowledge
+- **Scriptures**
+	- **Heard (Eternal Scriptures)** (Shruthi)
+		- **Sought Knowledge (Revelation)** (Nigama) / **Samskrita Books of Knowledge** (Veda:)
 			- Sections
-				- Action Section
-					- Collections
-					- Reality
-				- Worship Section
-					- Works from the Forests
-				- Wisdom Section
-					- Basic Understanding
+				- **Action Section** (Karma Khanda)
+					- **Collections** (Samhitha:)
+					- **Reality** (Brahmana:)
+				- **Worship Section** (Upaasana Khanda)
+					- **Works from the Forests** (Aranyaka:)
+				- **Wisdom Section** (Jnaana Khanda)
+					- **Basic Understanding** (Upanishad:)
 			- Fields
-				- Branches of Transmissions
-				- Disciplines
+				- **Branches of Transmissions** (Shaakhas)
+				- **Disciplines of the Samskrita Books of Knowledge** (Vedaanga)
 					- Phonetics
 					- Prosody
 					- Grammar
