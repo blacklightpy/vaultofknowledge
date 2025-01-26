@@ -328,13 +328,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dharma Sutras"
+              "title": "Trying to Consolidate Hinduism 1"
             }
           }
         ],
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dharma Sutras"
+              "title": "Backlinks for Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -469,10 +469,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md"
+                "file": "Trying to Consolidate Hinduism 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dharma Sutras"
+              "title": "Outline of Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -511,7 +511,9 @@
   },
   "active": "5699db74f7d0c32b",
   "lastOpenFiles": [
+    "07. Miscellaneous/Religions/Hinduism/Dharma Shastra.md",
     "Trying to Consolidate Hinduism 1.md",
+    "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md",
     "07. Miscellaneous/Religions/Hinduism/Sutras.md",
     "06. Collected Knowledge/Translating Religious Terminologies.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
@@ -535,8 +537,6 @@
     "07. Miscellaneous/Religions/Hinduism/Vedas.md",
     "07. Miscellaneous/Religions/Hinduism Notes.md",
     "07. Miscellaneous/Religions/Hinduism/Hinduism Index.md",
-    "Hacking the TEE.md",
-    "01. Personal/Daily Notes/2024-11-04.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",

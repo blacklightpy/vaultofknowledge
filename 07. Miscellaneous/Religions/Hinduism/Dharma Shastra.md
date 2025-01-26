@@ -2,7 +2,7 @@ The Dharma Shastras are based on the difficult to read [[Dharma Sutras]].
 # Introduction
 The textual corpus of Dharma Shastras were composed in poetic verses, are part of the Hindu Smritis, constituting divergent commentaries and treatises on duties, responsibilities and ethics to oneself, to family and as a member of society.
 
-The texts include discussion of **ashrama** (stages of life), **varna** (social classes), **purushartha** (proper goals of life), personal virtues and duties such as **ahimsa** (non-violence) against all living beings, rules of just war, and other topics.
+The texts include discussion of **Aashrama** (stages of life), **Varna** (social classes), **Purushaartha** (proper goals of life), personal virtues and duties such as **Ahimsa** (non-violence) against all living beings, rules of just war, and other topics.
 
 > [!TIP] Note
 > Dharma Shastra became influential in modern colonial India history, when they were formulated by early British colonial administrators to be the law of the land for all non-Muslims (Hindus, Jains, Buddhists, Sikhs) in the Indian subcontinent, after Sharia set by Emperor Aurangzeb, was already accepted as the law for Muslims in colonial India.
@@ -10,8 +10,8 @@ The texts include discussion of **ashrama** (stages of life), **varna** (social 
 The extant Dharma Shastra texts are listed below:
 
 - The **Manu Smriti** ( 2nd to 3rd century CE) is the most studied and earliest metrical work of the Dharma Shastra textual tradition of Hinduism. The medieval era Buddhistic law of Myanmar and Thailand are also ascribed to Manu, and the text influenced past Hindu kingdoms in Cambodia and Indonesia.
-- The **Yājñavalkya Smriti** (~4th to 5th-century CE) has been called the "best composed" and "most homogeneous" text of the Dharma Shastra tradition, with its superior vocabulary and level of sophistication. It may have been more influential than Manusmriti as a legal theory text.
-- The **Nārada Smriti** (~5th to 6th-century CE) has been called the "juridical text par excellence" and represents the only Dharma Shastra text which deals solely with juridical matters and ignoring those of righteous conduct and penance.
+- The **Yaajnavalkya Smriti** (~4th to 5th-century CE) has been called the "best composed" and "most homogeneous" text of the Dharma Shastra tradition, with its superior vocabulary and level of sophistication. It may have been more influential than Manusmriti as a legal theory text.
+- The **Naarada Smriti** (~5th to 6th-century CE) has been called the "juridical text par excellence" and represents the only Dharma Shastra text which deals solely with juridical matters and ignoring those of righteous conduct and penance.
 - The **Vishnu Smriti** (~7th-century CE) is one of the latest books of the Dharma Shastra tradition in Hinduism and also the only one which does not deal directly with the means of knowing Dharma, focusing instead on the Bhakti tradition.
 # British Influence
 Of the four extant Dharma Shastras, Manusmriti, Yajnavalkyasmriti and Naradasmriti are the most important surviving texts. But, states Robert Lingat, numerous other Dharma Shastras whose manuscripts are now missing, have enjoyed equal authority.
@@ -20,7 +20,7 @@ Between the three, the **Manusmriti** became famous during the colonial British 
 
 Further, the Dharma Shastras were open texts, and they underwent alterations and rewriting through their history.
 # Contents of Dharma Shastras and Dharmasutras
-All Dharma, in Hindu traditions, has its foundation in the Vedas. The Dharma Shastra texts enumerate four sources of Dharma – **the precepts in the Vedas**, **the tradition**, **the virtuous conduct of those who know the Vedas**, and **approval of one's conscience (Atmasantushti, self-satisfaction)**.
+All Dharma, in Hindu traditions, has its foundation in the Vedas. The Dharma Shastra texts enumerate four sources of Dharma – **the precepts in the Vedas**, **the tradition**, **the virtuous conduct of those who know the Vedas**, and **approval of one's conscience (Aatma Santhushti / Self Satisfaction)**.
 
 The Dharma Shastra texts include conflicting claims on the sources of dharma. The theological claim therein asserts, without any elaboration, that Dharma just like the Vedas are eternal and timeless, the former is directly or indirectly related to the Vedas. 
 
