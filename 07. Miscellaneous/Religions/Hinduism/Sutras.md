@@ -3,9 +3,9 @@ In Buddhism and Jainism, they are important scriptures.
 
 - Kalpa Sutras (of the Kalpa Vedanga)
 	- Shrauta Sutras (Sutras based on Sruti, focusing on rituals)
-	- Griha Sutras (Household Rites)
-	- [[Dharma Sutras]] (Moral Code)
-	- Shulba Sutras (Rope Measurement Techniques)
+	- Griha Sutras (Household Rite Aphoriss)
+	- [[Dharma Sutras]] (Ethical Aphorisms)
+	- Shulba Sutras (Rope Measurement Aphorisms)
 # List of Vedic Sutras
 ## Rig Veda
   - Srauta Sutras

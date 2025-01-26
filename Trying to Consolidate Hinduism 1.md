@@ -4,7 +4,7 @@
 			- Sections
 				- **Action Section** [==Karma Khanda==]
 					- **Collections** [==Samhitha:==]
-					- **Reality** [==Brahmana:==]
+					- **Works about Reality** [==Brahmana:==]
 				- **Worship Section** [==Upaasana Khanda==] + **Wisdom Section** [==Jnaana Khanda==]
 					- **Works from the Forests** [==Aranyaka:==]
 				- **Wisdom Section** [==Jnaana Khanda==]
@@ -19,18 +19,24 @@
 					- **Astrology**
 					- **Rituals and Rites of Passage**
 		- **Arriving Knowledge (Traditions)** [==Aagama==]
-			- Tantra
-			- Yantra
-			- Upaasana
-			- Diksha
-			- Temple Construction
-			- Idol Construction
+			- [==Tantra:==]
+			- [==Yantra:==]
+			- [==Upaasana==]
+			- [==Diksha==]
+			- **Temple Construction**
+			- **Idol Construction**
 		- **The Song of God (from The Great Bhaarat)** [==Bhagavad Geeta, from Mahaabhaarata==]
 	- **Remembered (Transmitted Writings Inspired by Scriptures)** [==Smrithi==]
 		- **Epics** [==Ithihaasa:==]
 			- **The Great Bharaat** [==Mahaabhaarata==]
 			- **The Journey of Raam** [==Raamaayana==]
-		- 
+		- **Aphorisms** [==Soothra:==]
+			- **Ethical Aphorisms** [==Dharma Soothra:==]
+		- **Studies** [==Shaasthra:==]
+			- **Ethical Studies** [==Dharma Shaasthra==]
+				- **Remembered about Manu** [==Manu Smrithi==] / **Ethical Science of Manu** [==Maanava Dharma Shaasthra==]
+				- **Remembered about Vishnu** [==Vishnu Smrithi==] / **Ethical Science of Vishnu** [==Vaishnava Dharma Shaasthra==]
+				- 
 - **Schools of Thought** [==Darshana:==]
 	- **Reason Based** [==Haithuka==]
 		- **Enumeration** [==Samkhya==]
@@ -39,21 +45,21 @@
 		- **Particularities** [==Vaisheshika==]
 	- **Inspiration Based** [==Smaartha==]
 		- **Earlier Reflections** [==Meemaamsa==]
-		- **Summary of the Samskrita Books of Knowledge** [==Vedaanta==] / **Later Reflections** [==]
-			- **Non-Dualism**
-			- **Difference and Non-Difference**
-				- **Dualism and Non-Dualism**
-			- **Special Non-Dualism**
-				- **Namesake and Ultimate Forms**
-			- **Dualism**
-			- **Pure Non-Dualism**
-			- **Inconceivable Difference and Non-Difference**
+		- **Summary of the Samskrita Books of Knowledge** [==Vedaantha==] / **Later Reflections** [==Utthara Meemaamsa==]
+			- **Non-Dualism** [==Advaitha==]
+			- **Difference and Non-Difference** [==Bhedha-Abhedha==]
+				- **Dualism and Non-Dualism** [==Dvaita-Advaitha==]
+			- **Special Non-Dualism** [==Vishishta-Advaitha==]
+				- **Namesake and Ultimate Forms** [==Akshar Purushottham==]
+			- **Dualism** [==Dvaitha==]
+			- **Pure Non-Dualism** [==Shudda-Advaitha==]
+			- **Inconceivable Difference and Non-Difference** [==Achinthya-Bhedha-Abhedha]
 			- **Modern Summary**
 - **Schools of Practice** [==Sampradaaya:==]
-	- **The School of Vishnu**
-	- **The School of Shiva**
-	- **The School of Shakthi**
-	- **The School of Remembrance**
+	- **The School of Vishnu** [==Vaishnava==]
+	- **The School of Shiva** [==Shaiva==]
+	- **The School of Shakthi** [==Shaktha==]
+	- **The School of Remembrance** [==Smaartha==]
 
 - Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
 	- Sections
