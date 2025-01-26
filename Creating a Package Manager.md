@@ -1,0 +1,1 @@
+See: https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527
