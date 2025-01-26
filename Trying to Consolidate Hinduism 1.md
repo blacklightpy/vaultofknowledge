@@ -32,6 +32,7 @@
 			- **The Journey of Raam** [==Raamaayana==]
 		- **Aphorisms** [==Soothra:==]
 			- **Ethical Aphorisms** [==Dharma Soothra:==]
+		- **Supplimentaries** [==Parishishta:==]
 		- **Studies** [==Shaasthra:==]
 			- **Ethical Studies** [==Dharma Shaasthra==]
 				- **Remembered about Manu** [==Manu Smrithi==] / **Ethical Science of Manu** [==Maanava Dharma Shaasthra==]
