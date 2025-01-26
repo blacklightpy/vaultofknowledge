@@ -77,3 +77,4 @@
 Shuddhadvaita: World is real, and all is one
 Advaita: World is unreal (like a dream), and all is one
 Vishishta Advaita: World is transformed
+Dvaita Advaita: World exists in both states
