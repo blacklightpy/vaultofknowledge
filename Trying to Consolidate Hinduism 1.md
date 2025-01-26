@@ -5,7 +5,7 @@
 				- **Action Section** [==Karma Khanda==]
 					- **Collections** [==Samhitha:==]
 					- **Reality** [==Brahmana:==]
-				- **Worship Section** [==Upaasana Khanda==]
+				- **Worship Section** [==Upaasana Khanda==] + **Wisdom Section** [==Jnaana Khanda==]
 					- **Works from the Forests** [==Aranyaka:==]
 				- **Wisdom Section** [==Jnaana Khanda==]
 					- **Basic Understanding** [==Upanishad:==]
@@ -25,34 +25,35 @@
 			- Diksha
 			- Temple Construction
 			- Idol Construction
-		- **The Song of God (from The Great Bhaarat)** 
-	- **Remembered (Transmitted Writings Inspired by Scriptures)**
-		- Epics
-			- The Great Bharaat
-			- The Journey of Ram
-- Schools of Thought (Darshana)
-	- Reason Based
-		- Enumeration
-		- Connection to Reality
-		- Principles
-		- Particularities
-	- Inspiration Based
-		- Earlier Reflections
-		- Later Reflections
-			- Non-Dualism
-			- Difference and Non-Difference
-				- Dualism and Non-Dualism
-			- Special Non-Dualism
-				- Namesake and Ultimate Forms
-			- Dualism
-			- Pure Non-Dualism
-			- Inconceivable Difference and Non-Difference
-			- Modern Summary
-- Schools of Practice (Sampradaayas)
-	- The School of Vishnu
-	- The School of Shiva
-	- The School of Shakthi
-	- The School of Remembrance
+		- **The Song of God (from The Great Bhaarat)** [==Bhagavad Geeta, from Mahaabhaarata==]
+	- **Remembered (Transmitted Writings Inspired by Scriptures)** [==Smrithi==]
+		- **Epics** [==Ithihaasa:==]
+			- **The Great Bharaat** [==Mahaabhaarata==]
+			- **The Journey of Raam** [==Raamaayana==]
+		- 
+- **Schools of Thought** [==Darshana:==]
+	- **Reason Based** [==Haithuka==]
+		- **Enumeration** [==Samkhya==]
+		- **Connection to Reality** [==Yoga==]
+		- **Principles** [==Nyaaya==]
+		- **Particularities** [==Vaisheshika==]
+	- **Inspiration Based** [==Smaartha==]
+		- **Earlier Reflections** [==Meemaamsa==]
+		- **Summary of the Samskrita Books of Knowledge** [==Vedaanta==] / **Later Reflections** [==]
+			- **Non-Dualism**
+			- **Difference and Non-Difference**
+				- **Dualism and Non-Dualism**
+			- **Special Non-Dualism**
+				- **Namesake and Ultimate Forms**
+			- **Dualism**
+			- **Pure Non-Dualism**
+			- **Inconceivable Difference and Non-Difference**
+			- **Modern Summary**
+- **Schools of Practice** [==Sampradaaya:==]
+	- **The School of Vishnu**
+	- **The School of Shiva**
+	- **The School of Shakthi**
+	- **The School of Remembrance**
 
 - Sanskrit Books of Knowledge) / Nigamas (Revelation / What was sought)
 	- Sections
