@@ -71,6 +71,8 @@
 	- **The School of Shakthi** [==Shaktha==]
 	- **The School of Remembrance** [==Smaartha==]
 
+---
+
 - Paths
 	- Bhakthi Yoga
 	- Karma Yoga
@@ -80,39 +82,48 @@
 	- Tantra Yoga
 
 - **Objectives of Existence** [==Purushaartha==]
-	- **Objectives in Life** [==Artha==]
+	- **Objectives** [==Artha==]
 	- **Ethics** [==Dharma==]
 	- **Romance** [==Kaama==]
 	- **Liberation** [==Moksha==]
+
+- Cosmology (part of Shruthi)
+- Mythology (part of Smrithi)
+	- Creator
+	- Lokas
+	- Devas / Devis (Gods)
+	- Devatas (gods)
+		- Vana Devatas
+		- Apsaras
+		- Gandharvas
+	- Asuras
+	- Yakshas (nature spirits)
+	- Rakshasas (Demons)
+
+- Ontology (part of Schools of Thought)
+	- Principles (Tattvas)
+	- Arguments and Counter Arguments (Vaada Prati-Vaada)
+	- Subtle Elements
+	- Gross Elements
+	- Qualities
+	- Witness Consciousness
+	- Nature
+	- Ultimate Reality
+		- With no Attributes
+		- With all Attributes
+		- Om
+		- Real, Sentient and Blissful
+	- Creator
+		- Deities
+		- Spirits
+	- Creation
+	- Magical Illusion
 
 
 Shuddhadvaita: World is real, and all is one
 Advaita: World is unreal (like a dream), and all is one
 Vishishta Advaita: World is transformed
 Dvaita Advaita: World exists in both states
-
-Worldview
-
-- [Cosmology](https://en.wikipedia.org/wiki/Hindu_cosmology "Hindu cosmology")
-- [Mythology](https://en.wikipedia.org/wiki/Hindu_mythology "Hindu mythology")
-
-Ontology
-
-- [Tattvas](https://en.wikipedia.org/wiki/Tattva "Tattva")
-- [Subtle elements](https://en.wikipedia.org/wiki/Tanmatras "Tanmatras")
-- [Panchikarana](https://en.wikipedia.org/wiki/Panchikarana "Panchikarana")
-- [Gross elements](https://en.wikipedia.org/wiki/Pancha_Bhuta "Pancha Bhuta")
-- [Guṇas](https://en.wikipedia.org/wiki/Gu%E1%B9%87a "Guṇa")
-- [Purusha](https://en.wikipedia.org/wiki/Purusha "Purusha")
-- [Prakṛti](https://en.wikipedia.org/wiki/Prak%E1%B9%9Bti "Prakṛti")
-
-[Supreme reality](https://en.wikipedia.org/wiki/Para_Brahman "Para Brahman")
-
-- [Brahman](https://en.wikipedia.org/wiki/Brahman "Brahman")
-    - [Nirguna](https://en.wikipedia.org/wiki/Nirguna_brahman "Nirguna brahman")
-    - [Saguna](https://en.wikipedia.org/wiki/Saguna_brahman "Saguna brahman")
-- [Om](https://en.wikipedia.org/wiki/Om "Om")
-- [Saccidānanda](https://en.wikipedia.org/wiki/Saccid%C4%81nanda "Saccidānanda")
 
 God
 
