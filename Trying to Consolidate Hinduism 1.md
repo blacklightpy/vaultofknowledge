@@ -113,54 +113,35 @@
 		- With all Attributes
 		- Om
 		- Real, Sentient and Blissful
+	- Magical Illusion
 	- Creator
 		- Deities
 		- Spirits
 	- Creation
-	- Magical Illusion
+		- Non-Living
+		- Living
+		- Dream
 
+- Aashramas
+	- Brahmacharya
+	- Grihastha
+	- Vaana Prastha
+	- Sanyaasa
+
+- Liberation
+	- Living Soul
+	- Ultimate Soul
+	- Magical Illusion
+	- Actions
+	- Cycle of Existence
+	- Cyclic Existence
+	- Liberation
 
 Shuddhadvaita: World is real, and all is one
 Advaita: World is unreal (like a dream), and all is one
 Vishishta Advaita: World is transformed
 Dvaita Advaita: World exists in both states
 
-God
-
-- [Ishvara](https://en.wikipedia.org/wiki/Ishvara "Ishvara")
-- [Devas](https://en.wikipedia.org/wiki/Deva_(Hinduism) "Deva (Hinduism)") / [Devi](https://en.wikipedia.org/wiki/Devi "Devi")
-- [Devatas](https://en.wikipedia.org/wiki/Devata "Devata")
-- [God in Hinduism](https://en.wikipedia.org/wiki/God_in_Hinduism "God in Hinduism")
-- [God and gender](https://en.wikipedia.org/wiki/God_and_gender_in_Hinduism "God and gender in Hinduism")
-
-[Puruṣārtha (Meaning of life)](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha "Puruṣārtha")
-
-- [Dharma](https://en.wikipedia.org/wiki/Dharma "Dharma")
-- Artha
-- [Kama](https://en.wikipedia.org/wiki/Kama "Kama")
-- [Moksha](https://en.wikipedia.org/wiki/Moksha "Moksha")
-
-[Āśrama (Stages of life)](https://en.wikipedia.org/wiki/%C4%80%C5%9Brama_(stage) "Āśrama (stage)")
-
-- [Brahmacharya](https://en.wikipedia.org/wiki/Brahmacharya "Brahmacharya")
-- [Gṛhastha](https://en.wikipedia.org/wiki/G%E1%B9%9Bhastha "Gṛhastha")
-- [Vānaprastha](https://en.wikipedia.org/wiki/V%C4%81naprastha "Vānaprastha")
-- [Sannyasa](https://en.wikipedia.org/wiki/Sannyasa "Sannyasa")
-
-[Three paths to liberation](https://en.wikipedia.org/wiki/Three_Yogas "Three Yogas")
-
-- [Bhakti yoga](https://en.wikipedia.org/wiki/Bhakti_yoga "Bhakti yoga")
-- [Jnana yoga](https://en.wikipedia.org/wiki/Jnana_yoga "Jnana yoga")
-- [Karma yoga](https://en.wikipedia.org/wiki/Karma_yoga "Karma yoga")
-
-[Liberation](https://en.wikipedia.org/wiki/Moksha "Moksha")
-
-_Mokṣa-related topics:_
-
-- [Paramātman](https://en.wikipedia.org/wiki/Paramatman "Paramatman")
-- [Maya](https://en.wikipedia.org/wiki/Maya_(religion) "Maya (religion)")
-- [Karma](https://en.wikipedia.org/wiki/Karma "Karma")
-- [Saṃsāra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra "Saṃsāra")
 
 Mind
 
