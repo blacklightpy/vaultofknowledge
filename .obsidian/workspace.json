@@ -328,13 +328,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trying to Consolidate Hinduism 1"
+              "title": "Dharma Sutras"
             }
           }
         ],
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md",
+                "file": "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trying to Consolidate Hinduism 1"
+              "title": "Backlinks for Dharma Sutras"
             }
           },
           {
@@ -469,10 +469,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trying to Consolidate Hinduism 1.md"
+                "file": "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Trying to Consolidate Hinduism 1"
+              "title": "Outline of Dharma Sutras"
             }
           },
           {
@@ -511,8 +511,8 @@
   },
   "active": "5699db74f7d0c32b",
   "lastOpenFiles": [
-    "07. Miscellaneous/Religions/Hinduism/Sutras.md",
     "Trying to Consolidate Hinduism 1.md",
+    "07. Miscellaneous/Religions/Hinduism/Sutras.md",
     "06. Collected Knowledge/Translating Religious Terminologies.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "06. Collected Knowledge/Science of Hadith.md",

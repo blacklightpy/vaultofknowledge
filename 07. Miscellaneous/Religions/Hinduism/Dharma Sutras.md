@@ -1,8 +1,8 @@
 The Dharma Sutras can be called the guidebooks of dharma as they contain guidelines for individual and social behaviour, ethical norms, as well as personal, civil and criminal law.
 
-They discuss the duties and rights of people at different stages of life like studenthood, householdership, retirement and renunciation.
+They discuss the duties and rights of people at different stages of life like Studenthood, Householdership, Retirement and Renunciation.
 
-These stages are also called Ashramas. They also discuss the rites and duties of kings, judicial matters, and personal law such as matters relating to marriage and inheritance.
+These stages are called **Aashramas**. They also discuss the rites and duties of kings, judicial matters, and personal law such as matters relating to marriage and inheritance.
 
 However, Dharma Sutras typically did not deal with rituals and ceremonies, a topic that was covered in the **Shrauta Sutra** and **Griha Sutra** texts of the **Kalpa** (Rituals and Rites of Passage, a Vedanga).
 

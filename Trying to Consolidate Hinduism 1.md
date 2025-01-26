@@ -32,12 +32,11 @@
 			- **The Journey of Raam** [==Raamaayana==]
 		- **Aphorisms** [==Soothra:==]
 			- **Ethical Aphorisms** [==Dharma Soothra:==]
-		- **Supplimentaries** [==Parishishta:==]
 		- **Studies** [==Shaasthra:==]
 			- **Ethical Studies** [==Dharma Shaasthra==]
 				- **Remembered about Manu** [==Manu Smrithi==] / **Ethical Science of Manu** [==Maanava Dharma Shaasthra==]
 				- **Remembered about Vishnu** [==Vishnu Smrithi==] / **Ethical Science of Vishnu** [==Vaishnava Dharma Shaasthra==]
-				- 
+		- **Supplementary Works (to the Samskrita Books of Knowledge)** [==Parishishta:==]
 - **Schools of Thought** [==Darshana:==]
 	- **Reason Based** [==Haithuka==]
 		- **Enumeration** [==Samkhya==]
