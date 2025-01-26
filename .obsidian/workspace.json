@@ -314,7 +314,7 @@
               "type": "markdown",
               "state": {
                 "file": "Paths in Hinduism.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -338,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paths in Hinduism.md",
+                "file": "Trying to Consolidate Hinduism 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Paths in Hinduism"
+              "title": "Backlinks for Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -469,10 +469,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paths in Hinduism.md"
+                "file": "Trying to Consolidate Hinduism 1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Paths in Hinduism"
+              "title": "Outline of Trying to Consolidate Hinduism 1"
             }
           },
           {
@@ -509,13 +509,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "49b1fd6b95307426",
+  "active": "5699db74f7d0c32b",
   "lastOpenFiles": [
+    "06. Collected Knowledge/Science of Hadith.md",
+    "My way of classifying religions.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Components/Camera.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Components/Armature.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Components/Analog Filters.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Components/Analog to Digital Converters.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Components/Alternator.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Components in Market/STM32.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Components in Market/NVIDIA Graphics Cards list.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Components in Market/GNSS Modules.md",
+    "Moment of Inertia.md",
+    "Study of Reality.md",
+    "Paths in Hinduism.md",
     "Trying to Consolidate Hinduism 1.md",
     "PackageKit.md",
     "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
     "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
-    "Paths in Hinduism.md",
     "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
     "07. Miscellaneous/Religions/Hinduism/Vedangas.md",
     "07. Miscellaneous/Religions/Hinduism/Vedas.md",
@@ -525,18 +537,6 @@
     "01. Personal/Daily Notes/2024-11-04.md",
     "01. Personal/Daily Notes/2024-11-07.md",
     "Untitled.md",
-    "06. Collected Knowledge/Non-Linear Editing.md",
-    "UI Theory 1.md",
-    "01. Personal/Daily Notes/2024-11-09.md",
-    "Moment of Inertia.md",
-    "Study of Reality.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
-    "Nature of physis in Christianity.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Coleman-Mandula Theorem.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Effective Field Theory.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Gravitational Lensing.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Hamiltonian.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Higgs Field.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",

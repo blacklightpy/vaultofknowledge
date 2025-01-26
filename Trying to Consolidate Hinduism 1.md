@@ -1,32 +1,32 @@
 - **Scriptures**
-	- **Heard (Eternal Scriptures)** (Shruthi)
-		- **Sought Knowledge (Revelation)** (Nigama) / **Samskrita Books of Knowledge** (Veda:)
+	- **Heard (Eternal Scriptures)** [==Shruthi==]
+		- **Sought Knowledge (Revelation)** [==Nigama==] / **Samskrita Books of Knowledge** [==Veda:==]
 			- Sections
-				- **Action Section** (Karma Khanda)
-					- **Collections** (Samhitha:)
-					- **Reality** (Brahmana:)
-				- **Worship Section** (Upaasana Khanda)
-					- **Works from the Forests** (Aranyaka:)
-				- **Wisdom Section** (Jnaana Khanda)
-					- **Basic Understanding** (Upanishad:)
+				- **Action Section** [==Karma Khanda==]
+					- **Collections** [==Samhitha:==]
+					- **Reality** [==Brahmana:==]
+				- **Worship Section** [==Upaasana Khanda==]
+					- **Works from the Forests** [==Aranyaka:==]
+				- **Wisdom Section** [==Jnaana Khanda==]
+					- **Basic Understanding** [==Upanishad:==]
 			- Fields
-				- **Branches of Transmissions** (Shaakhas)
-				- **Disciplines of the Samskrita Books of Knowledge** (Vedaanga)
-					- Phonetics
-					- Prosody
-					- Grammar
-					- Etymology and Linguistics
-					- Astrology
-					- Rituals and Rites of Passage
-		- Arriving Knowledge (Traditions)
+				- **Branches of Transmissions** [==Shaakhas==]
+				- **Disciplines of the Samskrita Books of Knowledge** [==Vedaanga==]
+					- **Phonetics**
+					- **Prosody**
+					- **Grammar**
+					- **Etymology and Linguistics**
+					- **Astrology**
+					- **Rituals and Rites of Passage**
+		- **Arriving Knowledge (Traditions)** [==Aagama==]
 			- Tantra
 			- Yantra
 			- Upaasana
 			- Diksha
 			- Temple Construction
 			- Idol Construction
-		- The Song of God (from The Great Bhaarat)
-	- Remembered (Transmitted Writings Inspired by Scriptures)
+		- **The Song of God (from The Great Bhaarat)** 
+	- **Remembered (Transmitted Writings Inspired by Scriptures)**
 		- Epics
 			- The Great Bharaat
 			- The Journey of Ram
