@@ -22,4 +22,4 @@ QUANTIZATION_BPWS = {
 - Run Type
 	- Works Well
 
-Required Memory, Offload Ratio (to RAM), Tokens/Second, 
+Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens rememberable)
