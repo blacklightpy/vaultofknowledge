@@ -193,3 +193,10 @@ Ethics
 - [Arthāpatti (postulation, presumption)](https://en.wikipedia.org/wiki/Pramana#Arthāpatti "Pramana")
 - [Anupalabdi (non-perception, negation)](https://en.wikipedia.org/wiki/Pramana#Anupalabdi "Pramana")
 - [Śabda (word, testimony)](https://en.wikipedia.org/wiki/Shabda "Shabda")
+
+
+
+Kaivalya (Discerning Liberation)
+
+Jeevan Mukti
+Vaideha Mukti
