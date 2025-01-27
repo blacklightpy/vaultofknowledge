@@ -2,12 +2,12 @@
 	- **Heard (Eternal Scriptures)** [==Shruthi==]
 		- **Sought Knowledge (Revelation)** [==Nigama==] / **Samskrita Books of Knowledge** [==Veda:==]
 			- Sections
-				- **Action Section** [==Karma Khanda==]
+				- **Action Section** [==Karma Kaanda==]
 					- **Collections** [==Samhitha:==]
 					- **Works about Reality** [==Brahmana:==]
-				- **Worship Section** [==Upaasana Khanda==] + **Wisdom Section** [==Jnaana Khanda==]
+				- **Worship Section** [==Upaasana Kaanda==] + **Wisdom Section** [==Jnaana Kaanda==]
 					- **Works from the Forests** [==Aranyaka:==]
-				- **Wisdom Section** [==Jnaana Khanda==]
+				- **Wisdom Section** [==Jnaana Kaanda==]
 					- **Basic Understanding** [==Upanishad:==]
 			- Fields
 				- **Branches of Transmissions** [==Shaakhas==]
@@ -81,6 +81,9 @@
 	- Hatha Yoga
 	- Tantra Yoga
 
+- Eight Part Path [==Asht Aanga Yoga==]
+	- 
+
 - **Objectives of Existence** [==Purushaartha==]
 	- **Objectives** [==Artha==]
 	- **Ethics** [==Dharma==]
@@ -140,7 +143,7 @@
 Shuddhadvaita: World is real, and all is one
 Advaita: World is unreal (like a dream), and all is one
 Vishishta Advaita: World is transformed
-Dvaita Advaita: World exists in both states
+Dvaita Advaita (Svaabhaavika Bhedha-Abhedha): World exists in both states
 
 
 Mind
@@ -203,3 +206,7 @@ Vaideha Mukti
 
 
 Brahma Soothras criticise Samkhya
+
+Vairaagya means two things. Etymologically, it means "devoid of attachment" (raaga).
+In Samskrita, it means "dispassion".
+In Malayalam, it means "grudge" or "hatred".
