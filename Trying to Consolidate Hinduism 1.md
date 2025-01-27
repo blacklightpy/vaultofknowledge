@@ -200,3 +200,6 @@ Kaivalya (Discerning Liberation)
 
 Jeevan Mukti
 Vaideha Mukti
+
+
+Brahma Soothras criticise Samkhya
