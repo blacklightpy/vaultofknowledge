@@ -1,6 +1,15 @@
 I was thinking about telling my friend that a game requires 10 billion bytes!! (i.e. 10 GB, and "giga" is the unit prefix denoting a factor of a billion). Just for a dramatic effect. Then I thought, I'll find the number of binary digits, and tell him that the game requires 80 billion binary digits!! All stored without mistakes on your computer!!. Then I thought, I'd just tell him that the game requires so and so number of decimal digits, and with $\log2^\text{80 billion}$, that would have around 24 billion digits.
 
-Then, I wanted to explain that in words, and after a bit of thinking, I figured out that the number is $10^{2.4*10^{10}}$, which is a simple form of writing $10^\text{2 billion}$, and you know it lies between $10^{{10}^{10}}$ and $10^{{10}^{11}}$ for me to look it up on the googology wiki. (As I then diverted into thinking about what I described in the rest of this article, I forgot th)
+Then, I wanted to explain that in words, and after a bit of thinking, I figured out that the number is $10^{2.4*10^{10}}$, which is a simple form of writing $10^\text{2 billion}$, and you know it lies between $10^{{10}^{10}}$ and $10^{{10}^{11}}$ for me to look it up on the googology wiki.
+
+> [!IMPORTANT] Aside
+> As I then diverted into thinking about what I described in the rest of this article, I forgot this original goal, and turns out the closest answer to this would be $(10^{10^{10}})^{2.4}$, and $10^{10^{10}}$ is a "Trialogue", or $10 \uparrow \uparrow 3$, which means the result is "a trialogue raised to 2.4". And $10 \uparrow \uparrow 11$ is a "Googolthrong".
+> 
+> But why stop there? Let's dig deeper. $10^{2*10^{10}}$ is a "Guppythrong". We just want to then multiply it by $10^$
+
+10:24B = 10:20B + 10:4B?
+
+10:12 = 10:10 + 10:2
 
 But then I wondered, $k^{ab}$ = $(k^a)^b$  = $(k^b)^a$ = $k^{ba}$.
 
