@@ -25,6 +25,7 @@ QUANTIZATION_BPWS = {
 Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens remembered)
 
 ---
+In this section I got my answers from ChatGPT, but I read them through and typed all this myself.
 ### Requirements
 1. VRAM Requirements
 	1. Parts
@@ -40,6 +41,20 @@ Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens 
 	2. Parts
 		1. Tokens/Second = Hardware FLOPS / FLOPs per Token
 
+### Rationale
+A model requires accessing all the parameters for each token generated. That is why the bandwidth requirement includes transferring the entire size of the parameters.
+
+Basically, transformer models operate in steps that involve forward passes through multiple layers of the network. That is:
+
+1. Context and Token Generation
+	1. **Context:** When we input a query, that is considered as the context, and the model will take take as much of it as it fits within the context window or token limit.
+	2. **First Token Generation:** The model then uses this context to generate the next token. For this, it uses the context and its previous internal states (like activations) to predict the next token.
+2. What Happens at Each Step
+	1. **Auto-Regressive Nature of Transformers:** In Transformers, each token is dependent on the context and the tokens generated before it. For example, if you input "How are _ _ ", then it may use this context to generate "you", and then add it to the context and use this updated context to generate the next token, which could for example be "doing?".
+	2. **Layer by Layer Calculation (Forward Pass):** In auto-regressive models, each time a token is predicted, the model performs a forward pass through its layers (e.g. attention layers, feed-forward layers).
+		- At each step, it reads the weights in the memory to calculate the activations ()
+
+### Sample Calculations
 **Sample Calculations on an Unquantized Model:**
 Assume GPT-3.5, unquantized. It has 175B Parameters, in FP32 precision (32 BPW). We'll assume the Context Size as 2048 tokens. And we'll assume a token rate of 10 tokens per second.
 
