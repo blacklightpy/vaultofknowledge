@@ -353,7 +353,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
+                "file": "Should all calculations be valid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -436,7 +436,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Entry of 28th Jan, 2025"
+              "title": "Backlinks for Should all calculations be valid"
             }
           },
           {
@@ -526,10 +526,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5699db74f7d0c32b",
+  "active": "aa7e4ee027d7b312",
   "lastOpenFiles": [
-    "Should all calculations be valid.md",
     "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
+    "Should all calculations be valid.md",
     "Local AI Requirements.md",
     "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
     "Trying to Consolidate Hinduism 1.md",
