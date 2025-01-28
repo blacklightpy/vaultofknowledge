@@ -36,7 +36,7 @@ So, you find that if when you multiply this irrational number by itself 120 time
 
 Except, I wanted to look deeper into n-th roots, in which case, the properties of normal natural numbers become relevant too, because although the 4th root is the square root of the square root, the same cannot be said for the third root, or any other **prime root**. I guess prime roots are what are interesting to us. But again, the fourth root would then be interesting both as an "n-th root of an irrational number", a "prime root of an irrational number", a "prime root of a root", and a "prime root of a prime root".
 
-**My key thoughts about these values are that, using them in calculations is like going into meaningless territory to make a leap of faith and get to the result safely. But then, we only get the perfect results because we stick to the realm of abstractions, and never expand the numbers really.**
+**My main point of wonder about these values is that, using them in calculations is like going into meaningless territory to make a leap of faith and get to the result safely. But then, we only get the perfect results because we stick to the realm of abstractions, and never expand the numbers really.**
 
 #complete
 
