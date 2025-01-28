@@ -1,0 +1,2 @@
+- AI Weights
+- Should all calculations be valid?

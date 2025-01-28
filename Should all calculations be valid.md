@@ -1,0 +1,1 @@
+I was thinking about telling my friend that a game requires 10 billion bytes!!. Then I thought, I'll find the number of binary digits, and tell him that the game requires 80 billion binary digits!!. Then I thought, I'd just tell him that the game requires so and so number of decimal digits, and with $log10(2^\text{80 billion})$   
