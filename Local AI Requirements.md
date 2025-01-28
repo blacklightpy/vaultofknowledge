@@ -27,6 +27,7 @@ Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens 
 ---
 In this section I got my answers from ChatGPT, but I read them through and typed all this myself.
 ### Requirements
+
 1. VRAM Requirements
 	1. Parts
 		1. Weights Memory (Parameters in Billions x Bits per Weight / 8)
@@ -42,6 +43,7 @@ In this section I got my answers from ChatGPT, but I read them through and typed
 		1. Tokens/Second = Hardware FLOPS / FLOPs per Token
 
 ### Rationale
+
 A model requires accessing all the parameters for each token generated. That is why the bandwidth requirement includes transferring the entire size of the parameters.
 
 Basically, transformer models operate in steps that involve forward passes through multiple layers of the network. That is:
@@ -52,9 +54,11 @@ Basically, transformer models operate in steps that involve forward passes throu
 2. What Happens at Each Step
 	1. **Auto-Regressive Nature of Transformers:** In Transformers, each token is dependent on the context and the tokens generated before it. For example, if you input "How are _ _ ", then it may use this context to generate "you", and then add it to the context and use this updated context to generate the next token, which could for example be "doing?".
 	2. **Layer by Layer Calculation (Forward Pass):** In auto-regressive models, each time a token is predicted, the model performs a forward pass through its layers (e.g. attention layers, feed-forward layers).
-		- At each step, it reads the weights in the memory to calculate the activations ()
+		- At each step, it reads the weights in the memory to calculate the activations (the intermediate results of its computations) for that particular token.
+		- It doesn't modify the weights, but instead, computes the activations based on the weights and uses them to generate the next token.
 
 ### Sample Calculations
+
 **Sample Calculations on an Unquantized Model:**
 Assume GPT-3.5, unquantized. It has 175B Parameters, in FP32 precision (32 BPW). We'll assume the Context Size as 2048 tokens. And we'll assume a token rate of 10 tokens per second.
 
