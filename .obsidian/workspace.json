@@ -405,7 +405,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -525,7 +526,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aa7e4ee027d7b312",
+  "active": "3acb871d8c0b674b",
   "lastOpenFiles": [
     "Should all calculations be valid.md",
     "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
