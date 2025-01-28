@@ -22,4 +22,21 @@ QUANTIZATION_BPWS = {
 - Run Type
 	- Works Well
 
-Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens rememberable)
+Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens remembered)
+
+
+---
+
+1. VRAM Requirements
+	1. Parts
+		1. Weights Memory (Parameters in Billions x Bits per Weight / 8)
+		2. Activation Memory (Parameters in Billions x Context Size / 1000) [Activation Memory supposedly depends on the number of layers in the model.. and maybe that's the 1000]
+	2. Techniques
+		- VRAM can be "offloaded" to System RAM
+2. Bandwidth Requirements: Parameters in Billions x Bits per Weight / 8 x Tokens per Second
+3. Inference Speed:
+	1. Theory
+		1. For Transformers: FLOPs/token = 2 x Parameters x 2048
+		2. FLOPS is the number of FLOP
+	2. Parts
+		1. Tokens/Second = Hardware FLOPS / FLOPs per Token
