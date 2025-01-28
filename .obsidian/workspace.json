@@ -338,7 +338,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local AI Requirements.md",
+                "file": "Christian Church Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Local AI Requirements"
+              "title": "Backlinks for Christian Church Terminology"
             }
           },
           {
@@ -510,10 +510,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cdad2d4dbc121f52",
+  "active": "cbeab8a4f2ca1bab",
   "lastOpenFiles": [
-    "Paths in Hinduism.md",
+    "Nature of physis in Christianity.md",
+    "Christian Church Terminology.md",
     "Local AI Requirements.md",
+    "Paths in Hinduism.md",
     "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
     "Validity of Irrational Roots.md",
     "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
@@ -536,8 +538,6 @@
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Components in Market/STM32.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Components in Market/NVIDIA Graphics Cards list.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Components in Market/GNSS Modules.md",
-    "Moment of Inertia.md",
-    "Study of Reality.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",

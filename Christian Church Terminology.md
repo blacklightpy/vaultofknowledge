@@ -48,6 +48,9 @@
 
 # More
 
+Ecumenical Councils (First Seven / Later, upto recent), Ecumenical Creeds
+Non-Trinitarian: Unitarian (rejects Ecumenical Councils and Ecumenical Creeds), Binitarian, Modalism
+
 Concept: Liturgical Rites
 
 - Catholic Church
