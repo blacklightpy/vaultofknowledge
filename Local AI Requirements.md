@@ -52,7 +52,7 @@ Assume GPT-3.5, unquantized. It has 175B Parameters, in FP32 precision (32 BPW).
 
 A 7B unquantized model would thus require 1 TB VRAM, 7TB/s for 10 tokens/sec and 717 TFLOPs per token.
 
-**Sample Hardware Estimates**
+**Sample Hardware Estimates:**
 NVIDIA A100 has 80 GB VRAM.
 
 So one would need to offload the resources into the system memory.
@@ -61,3 +61,26 @@ NVIDIA H100 has 1.5 TB/s bandwidth, and that's much less than 7 TB/s required fo
 
 And NVIDIA H100 has 1000 TFLOPS, and that means it can compute a maximum of 1000 / 717 = 1.4 tokens per second. And real world performance is only 30-50% of the theoretical peak, so one could expect 0.5-1 tokens per second on a single H100.
 
+**Conclusion:**
+Running GPT-3.5 is not feasible without relying on optimizations such as:
+- Quantization (e.g. FP16, INT8, INT4)
+- Offloading (to system RAM or disk)
+- Model Parallelism (splitting the model across multiple GPUs)
+
+### Scaling
+
+**How Parallel GPUs Help:**
+1. Distributed Memory: GPT-3.5 requires 700 GB VRAM to hold its weights, and an A100 only has 80 GB. However, 9 A100s can store the model together with a total memory of 720 GB.
+2. Distributed Bandwidth: A single NVIDIA A100 has 1.6 TB/s bandwidth. But with 4 A100s, we can achieve up to 6.4 TB/s.
+3. Distributed Compute: A single NVIDIA H100 provides up to 1000 TFLOPS, but 4 H100s would provide 4000 TFLOPS.
+
+**Challenges and Solutions:**
+1. Inter-GPU Communication
+	1. GPUs must communicate to exchange data (during attention calculations or to synchronize layers split across devices)
+	2. Communication happens over NVLink or PCIe. NVLink has a maximum bandwidth of 900 GB/s, and PCIe 4.0 has a maximum of 32 GB/s
+	3. This can become a bottleneck, especially for operations like attention, which involve large amounts of data transfer
+2. Model Partitioning
+	- 
+	- Techniques
+		1. **Tensor Parallelism:** Splits the weight matrices across GPUs, distributing compute and memory.
+		2. **Pipeline Parallelism:** Splits the model's layers across GPUs, where each GPU processes a subset of layers.
