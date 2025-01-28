@@ -1,4 +1,4 @@
-- AI Weights
+- Local AI Requirements
 	- Covered in [[Local AI Requirements]]
 - Should all calculations be valid?
 	- Covered in [[Validity of Irrational Roots]]. #complete
