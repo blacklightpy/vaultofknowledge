@@ -343,13 +343,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Should all calculations be valid.md",
-                "mode": "source",
+                "file": "Validity of Irrational Roots.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Should all calculations be valid"
+              "title": "Validity of Irrational Roots"
             }
           }
         ],
@@ -426,7 +426,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Should all calculations be valid.md",
+                "file": "Validity of Irrational Roots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -436,7 +436,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Should all calculations be valid"
+              "title": "Backlinks for Validity of Irrational Roots"
             }
           },
           {
@@ -529,8 +529,8 @@
   "active": "aa7e4ee027d7b312",
   "lastOpenFiles": [
     "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
-    "Should all calculations be valid.md",
     "Local AI Requirements.md",
+    "Validity of Irrational Roots.md",
     "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
     "Trying to Consolidate Hinduism 1.md",
     "Creating a Package Manager.md",
