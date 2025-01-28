@@ -33,7 +33,7 @@ Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens 
 	2. Techniques
 		- VRAM can be "offloaded" to System RAM
 2. Bandwidth Requirements: Parameters in Billions x Bits per Weight / 8 x Tokens per Second
-3. Inference Speed:
+3. Inference Speed (of Query):
 	1. Theory
 		1. Compute Required for Transformers: FLOPs/token = 2 x Parameters x 2048
 		2. Compute Speed of Hardware: FLOPS is the number of FLOPs per second
@@ -75,12 +75,12 @@ Running GPT-3.5 is not feasible without relying on optimizations such as:
 3. Distributed Compute: A single NVIDIA H100 provides up to 1000 TFLOPS, but 4 H100s would provide 4000 TFLOPS.
 
 **Challenges and Solutions:**
-1. Inter-GPU Communication
-	1. GPUs must communicate to exchange data (during attention calculations or to synchronize layers split across devices)
-	2. Communication happens over NVLink or PCIe. NVLink has a maximum bandwidth of 900 GB/s, and PCIe 4.0 has a maximum of 32 GB/s
-	3. This can become a bottleneck, especially for operations like attention, which involve large amounts of data transfer
-2. Model Partitioning
-	- 
+1. **Inter-GPU Communication:** GPUs must communicate to exchange data (during attention calculations or to synchronize layers split across devices)
+	1. Communication happens over NVLink or PCIe. NVLink has a maximum bandwidth of 900 GB/s, and PCIe 4.0 has a maximum of 32 GB/s
+	2. This can become a bottleneck, especially for operations like attention, which involve large amounts of data transfer
+3. **Model Partitioning**
+	- These techniques require careful coordination and can introduce synchronization overhead.
 	- Techniques
 		1. **Tensor Parallelism:** Splits the weight matrices across GPUs, distributing compute and memory.
 		2. **Pipeline Parallelism:** Splits the model's layers across GPUs, where each GPU processes a subset of layers.
+4. **Scaling Efficiency:** Not all operations scale linearly with the number of GPUs. For example, attention calculations are communication bound, so adding more GPUs might not always result in a proportional setup. Practical scalability always saturates at 80-90% efficiency for well-optimized systems.
