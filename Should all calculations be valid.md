@@ -5,11 +5,11 @@ Then, I wanted to explain that in words, and after a bit of thinking, I figured 
 > [!IMPORTANT] Aside
 > As I then diverted into thinking about what I described in the rest of this article, I forgot this original goal, and turns out the closest answer to this would be $(10^{10^{10}})^{2.4}$, and $10^{10^{10}}$ is a "Trialogue", or $10 \uparrow \uparrow 3$, which means the result is "a trialogue raised to 2.4". And $10 \uparrow \uparrow 11$ is a "Googolthrong".
 > 
-> But why stop there? Let's dig deeper. $10^{2*10^{10}}$ is a "Guppythrong". We just want to then multiply it by $10^$
-
-10:24B = 10:20B + 10:4B?
-
-10:12 = 10:10 + 10:2
+> But why stop there? Let's dig deeper. $10^{2*10^{10}}$ is a "Guppythrong". We just want to then multiply it by $10^{4*10^9}$ (Because a "hundred thousand" is a "hundred" times a "thousand"). Now $10^10^9$ is a "Maximusbillion", or a "Billionplex", or a "Billiplexion" (the name "Billiplexion" seems to be preferred, and "Maximusbillion" is not preferred. And $10^{3*10^9}$ is a "Disekatommyrillion" or "Trlastillion".
+> 
+> Now we should know that a "Guppythrong" is just the square of a "Trialogue", or a "Trialogue Trialogue". Similarly, a "Disekatommyrillion" is a "Billiplexion Billiplexion Billiplexion". By that logic, $10^{4*10^9}$ would be a "Billiplexion Disekatommyrillion"
+> 
+> So the final answer would be a "Billiplexion Disekatommyrillion Googolthrong".
 
 But then I wondered, $k^{ab}$ = $(k^a)^b$  = $(k^b)^a$ = $k^{ba}$.
 
