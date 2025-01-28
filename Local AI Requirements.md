@@ -27,6 +27,7 @@ Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens 
 
 ---
 
+### Requirements
 1. VRAM Requirements
 	1. Parts
 		1. Weights Memory (Parameters in Billions x Bits per Weight / 8)
@@ -37,6 +38,21 @@ Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens 
 3. Inference Speed:
 	1. Theory
 		1. For Transformers: FLOPs/token = 2 x Parameters x 2048
-		2. FLOPS is the number of FLOP
+		2. For Hardware: FLOPS is the number of FLOPs per second
 	2. Parts
 		1. Tokens/Second = Hardware FLOPS / FLOPs per Token
+
+**Sample Calculations:**
+Assume GPT-3.5, unquantized. It has 175B Parameters, in FP32 precision (32 BPW). We'll assume the Context Size as 2048 tokens. And we'll assume a token rate of 10 tokens per second.
+
+- Memory: 
+	- Weights Memory: 175B x 32 / 8 = 700 GB
+	- Activation Memory = 175B x 2048/1000 = 358 GB
+	- Total: 1058 GB > 1 TB
+- Bandwidth: 175B x 32 / 8 x 10 = 7 TB/s
+- log (80 billion binary digit)
+
+
+A 7B unquantized model would thus require 1 TB VRAM, 7TB/s for 10 tokens/sec and 717 FLOPs per token.
+
+NVIDIA H100
