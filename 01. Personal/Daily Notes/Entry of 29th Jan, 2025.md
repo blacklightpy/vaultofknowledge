@@ -7,8 +7,18 @@
 - Allopathy - Homeopathic description of Heroic Medicine, the precursor of Modern Evidence-Based Medicine
 	- Heroic Medicine
 		- Based on the Humoural theory or Humorism
-			- Four Humours
+			- Four Humours (juices / sap) (Similar to Doshas)
 				- Phlegm, Blood, Yellow Bile, Black Bile
+			- Four Humours theory was proposed by Hippocrates and Galen
+			- Hippocrates believed the four humours were linked to the four temperaments
+			- Four Temperaments (personality types)
+				- Sanguine, Choleric, Melancholic, Phlegmatic
+			- Both Temperament and Humour may have had their roots in Egyptian medicine and Mesopotamia, but was developed by Hippocrates and Galen.
+			- Just like the Doshas in Ayurveda, they too often linked it to the four elements
+			- Empedocles made the connection to the four elements
+			- Galen maintained the idea of the Platonic tripartite soul
+			- Platonic Tripartite Soul
+				- Thumos, Epithumos, Sophia
 			- It was replaced by the Germ theory in the 1850s
 	- Modern Evidence Based Medicine
 	- In the US:
