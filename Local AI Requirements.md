@@ -27,6 +27,11 @@ Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens 
 RAG is used alongside LLM to retrieve data from images, databases, web, etc.
 Use re-rankers with RAG.
 
+### Techniques to Increase CPU Evaluation Speed
+- Use BLAS (OpenBLAS) and MKL [How?]
+- Use llama.cpp (better than BLAS?)
+- Use llamafile (better than llama.cpp?)
+
 ---
 In this section I got my answers from ChatGPT, but I read them through and typed all this myself.
 ### Requirements
