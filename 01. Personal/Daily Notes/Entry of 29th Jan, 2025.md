@@ -22,7 +22,7 @@
 			- It was replaced by the Germ theory in the 1850s
 		- It was based on bloodletting, purging and sweating to fix what was seen as a humoural imbalance.
 		- This fell out of favour with the coming of gentler palliative care, and modern medicine
-	- Modern Evidence Based Medicine
+	- Modern Evidence Based Medicine (EBM)
 	- In the US:
 		- Used to contrast modern medicine (allopathy) with Osteopathic Medicine (originated from osteopathy)
 	- In India:
