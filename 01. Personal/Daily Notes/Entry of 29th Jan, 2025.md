@@ -28,6 +28,8 @@
 	- In India:
 		- Used to contrast modern medicine (allopathy) with Ayurveda, Siddha medicine, homeopathy, Unani (Perso-Arabic medicine, Yunani meaning "Greek", based on four humours, used by Muslims), etc.
 		- They are regulated by the Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy
+		- Siddhars were recognized by the Supreme Court and Indian Medical Association as "fake"
+		- Siddhars are referred to in Tamil as "Vaidyars"
 		- Ayurveda
 			- Three Doshas of Ayurveda
 				- Vaata, Pitta, Kapha
@@ -39,6 +41,17 @@
 				- Lymph, Blood, Muscles, Fat, Bone, Bone Marrow, Semen
 			- Ayurveda has been called quackery by Herriet Hall, likening it to Horoscope
 			- Even Ayurvedic scholars have expressed reservations about the tridosha theory, and argued that it should be viewed as a useful framework rather than a definitive, universally acceptable concept.
+		- Siddha Medicine
+			- Sage Agasthyar
+			- Herbal Agents
+				- Thavaram (Herbal Product), Thadu (Inorganic Substances), Jangamam (Animal Products)
+				- Thadu
+					- Uppu
+					- Pashanam
+					- Uparasam
+					- Loham
+					- Rasam
+					- Ghandhagam
 - Osteopathy - Physical manipulation of body's muscle tissue and bones
 	- What I got for my cervical spine: Transcutaneous Electrical Nerve Stimulation (TENS) / Electropathy
 - Energy Medicine
