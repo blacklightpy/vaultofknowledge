@@ -60,6 +60,8 @@ Use re-rankers with RAG.
 - Msty
 
 ### Nuances
+- Types of Architectures
+	- [[AI Basics]]
 - Types of Models
 	- LLM
 		- Can generate text
