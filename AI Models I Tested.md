@@ -54,7 +54,7 @@
 - Format: GGUF V3
 - Parameters: 1.1 Billion
 - Bits Per Weight: 4.63
-- Size: 606.53 MB
+- Size: 606.53 MiB
 - Quantization: Q4_0
 - Layers: 22
 - Settings
@@ -93,15 +93,15 @@
 - Type: Transformer
 - Architecture: Llama
 - Format: 
-- Parameters: 8 Billion
-- Bits Per Weight: 
-- Size: 
+- Parameters: 8.03 Billion
+- Bits Per Weight: 4.89
+- Size: 4.58 GiB
 - Quantization: Q4_K_M
-- Layers: 
+- Layers: 32
 - Settings
 	- Context Width Per Sequence: 2048
 	- Maximum Sequences: 4
-	- Total Context Width: 8192
+	- Total Context Width: 8192 (Trained for 131072)
 - Attempts
 	- Attempt 1
 		- Prompt Tokens: 
