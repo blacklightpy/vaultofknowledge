@@ -32,12 +32,17 @@ Use re-rankers with RAG.
 - Use llama.cpp (better than BLAS?)
 - Use llamafile (better than llama.cpp?)
 
-### Backends
+### Backends and Formats
 - Tensorflow
 - GPT4All
 - llama.cpp
 - Ollama (wrapper for llama.cpp)
 - kobold.cpp
+
+| Backend   | Model Format |
+| --------- | ------------ |
+| llama.cpp | GGUF         |
+| Exllama   | EXL4         |
 
 ### Frontends
 - Open WebUI (formerly ollama-webui)
@@ -53,6 +58,10 @@ Use re-rankers with RAG.
 - BigAI
 - Obsidian Fabric
 - Msty
+
+### Nuances
+- RAG (For input data analysis)
+	- Reranker (For getting results organized in the right order)
 
 ---
 In this section I got my answers from ChatGPT, but I read them through and typed all this myself.
