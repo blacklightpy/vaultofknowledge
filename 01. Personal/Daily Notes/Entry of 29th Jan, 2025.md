@@ -12,6 +12,7 @@
 	- In India:
 		- Used to contrast with Ayurveda
 - Osteopathy - Physical manipulation of body's muscle tissue and bones
+	- What I got for my cervical spine: Transcutaneous Electrical Nerve Stimulation (TENS) / Electropathy
 - Energy Medicine
 	- Reiki - based on qi/chi (life force) / hand based
 	- Qigong - based on qi/chi (life force) / martial arts based
