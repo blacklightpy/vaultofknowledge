@@ -1,0 +1,1 @@
+Visual Descriptors or Image Descriptors are descriptions of the Visual [[Feature|Features]] of the contents in images, videos or algorithms or applications that produce such descriptions. They describe elementary characteristics such as the shapes, colours, textures, motion, etc.
