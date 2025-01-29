@@ -8,186 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9404d24f952bd467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/2024-11-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-04"
-            }
-          },
-          {
-            "id": "d7223d8bcdf9a539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/2024-11-07.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-07"
-            }
-          },
-          {
-            "id": "436a01c8070991d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/De-Latinization of Science.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "De-Latinization of Science"
-            }
-          },
-          {
-            "id": "8606cce52ef8b429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/Passwordless Login.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Passwordless Login"
-            }
-          },
-          {
-            "id": "47788a6e2a9420cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/Branding of Operating Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Branding of Operating Systems"
-            }
-          },
-          {
-            "id": "1e1466a118b68bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/How to Letterbox in UNIX-like Systems.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to Letterbox in UNIX-like Systems"
-            }
-          },
-          {
-            "id": "6901a790aa396eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Daily Notes/2024-11-09.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-09"
-            }
-          },
-          {
-            "id": "beba24a0b5f2cc81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/The Inheritance of Sin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Inheritance of Sin"
-            }
-          },
-          {
-            "id": "597b74309d89f646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Collected Knowledge/Ideas for my Website.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideas for my Website"
-            }
-          },
-          {
-            "id": "ae75b1bc4937f5e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My way of classifying religions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My way of classifying religions"
-            }
-          },
-          {
-            "id": "f3471f881dcbf042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Economics 2"
-            }
-          },
-          {
-            "id": "5b908c3ec1cd0acd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Personal/Project Ideas/Personal Text Editor.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Personal Text Editor"
-            }
-          },
-          {
             "id": "9db43f1d3cc5e9ec",
             "type": "leaf",
             "state": {
@@ -278,21 +98,6 @@
             }
           },
           {
-            "id": "919ebf9cf6992358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UI Theory 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UI Theory 1"
-            }
-          },
-          {
             "id": "4b812a5d9baf620e",
             "type": "leaf",
             "state": {
@@ -366,8 +171,24 @@
               "icon": "lucide-file",
               "title": "Local AI Requirements"
             }
+          },
+          {
+            "id": "af8f2a7691f2d221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Personal/Daily Notes/Entry of 29th Jan, 2025.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entry of 29th Jan, 2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -419,12 +240,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73b8730f7c537be0",
@@ -540,34 +361,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9404d24f952bd467",
+  "active": "af8f2a7691f2d221",
   "lastOpenFiles": [
+    "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
+    "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
+    "Moment of Inertia.md",
+    "Study of Reality.md",
+    "UI Theory 1.md",
+    "Paths in Hinduism.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
+    "Local AI Requirements.md",
+    "History of Christianity.md",
+    "01. Personal/Project Ideas/Personal Text Editor.md",
+    "Economics 2.md",
+    "My way of classifying religions.md",
+    "06. Collected Knowledge/Ideas for my Website.md",
+    "06. Collected Knowledge/The Inheritance of Sin.md",
+    "01. Personal/Daily Notes/2024-11-09.md",
+    "06. Collected Knowledge/How to Letterbox in UNIX-like Systems.md",
+    "06. Collected Knowledge/Branding of Operating Systems.md",
+    "06. Collected Knowledge/Passwordless Login.md",
+    "06. Collected Knowledge/De-Latinization of Science.md",
     "01. Personal/Daily Notes/2024-11-07.md",
     "01. Personal/Daily Notes/2024-11-04.md",
-    "UI Theory 1.md",
-    "Local AI Requirements.md",
-    "01. Personal/Daily Notes/Entry of 29th Jan, 2025.md",
-    "06. Collected Knowledge/Fixing LLMs to turn them into AI.md",
+    "06. Collected Knowledge/QOwnNotes+.md",
     "AI Models I Tested.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Operating Systems/History of Operating Systems.md",
-    "Christian Church Terminology.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Physics/Particle Physics/Electroweak Theory.md",
     "Nature of physis in Christianity.md",
-    "Paths in Hinduism.md",
-    "01. Personal/Daily Notes/Entry of 28th Jan, 2025.md",
-    "Validity of Irrational Roots.md",
-    "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
-    "Trying to Consolidate Hinduism 1.md",
-    "Creating a Package Manager.md",
-    "07. Miscellaneous/Religions/Hinduism Notes.md",
-    "07. Miscellaneous/Religions/Hinduism/Vedic Shakhas.md",
-    "07. Miscellaneous/Religions/Hinduism/Dharma Shastra.md",
-    "07. Miscellaneous/Religions/Hinduism/Dharma Sutras.md",
-    "07. Miscellaneous/Religions/Hinduism/Sutras.md",
-    "06. Collected Knowledge/Translating Religious Terminologies.md",
-    "07. Miscellaneous/Religions/Hinduism/Hindu Denominations.md",
-    "06. Collected Knowledge/Science of Hadith.md",
-    "My way of classifying religions.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Engineering Resources/Engineering Components/Camera.md",
+    "Christian Church Terminology.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",
