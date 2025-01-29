@@ -32,6 +32,12 @@ Use re-rankers with RAG.
 - Use llama.cpp (better than BLAS?)
 - Use llamafile (better than llama.cpp?)
 
+### Methods of Running
+- Tensorflow
+- GPT4All
+- llama.cpp
+- Ollama (wrapper for llama.cpp)
+
 ---
 In this section I got my answers from ChatGPT, but I read them through and typed all this myself.
 ### Requirements
