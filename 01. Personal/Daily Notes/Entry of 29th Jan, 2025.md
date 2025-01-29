@@ -4,7 +4,7 @@
 		- Chakras
 - Chakras in Western Theosophy
 - Homeopathy - bad alternative medicine, but with a placebo effect
-- Allopathy - Homeopathic description of Heroic Medicine, the precursor of Modern Evidence-Based Medicine
+- Allopathy - derogatory label used by homeopaths to describe Heroic Medicine, the precursor of Modern Evidence-Based Medicine
 	- Heroic Medicine
 		- Based on the Humoural theory or Humorism
 			- Four Humours (juices / sap) (Similar to Doshas)
@@ -20,11 +20,15 @@
 			- Platonic Tripartite Soul
 				- Thumos, Epithumos, Sophia
 			- It was replaced by the Germ theory in the 1850s
+		- It was based on bloodletting, purging and sweating to fix what was seen as a humoural imbalance.
+		- This fell out of favour with the coming of gentler palliative care, and modern medicine
 	- Modern Evidence Based Medicine
 	- In the US:
-		- Used to contrast modern medicine with Osteopathic Medicine (originated from osteopathy)
+		- Used to contrast modern medicine (allopathy) with Osteopathic Medicine (originated from osteopathy)
 	- In India:
-		- Used to contrast with Ayurveda
+		- Used to contrast modern medicine (allopathy) with Ayurveda, Siddha medicine, homeopathy, Unani (Perso-Arabic medicine, Yunani meaning "Greek", based on four humours, used by Muslims), etc.
+		- They are regulated by the Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homeopathy
+		- Ayurveda
 			- Three Doshas of Ayurveda
 				- Vaata, Pitta, Kapha
 				- The three doshas derive their values from the 5 elements
