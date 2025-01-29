@@ -7,7 +7,9 @@
 - Allopathy - Homeopathic description of Heroic Medicine, the precursor of Modern Evidence-Based Medicine
 	- Heroic Medicine
 		- Based on the Humoural theory or Humorism
-			- It was replaced by the Germ theory
+			- Four Humours
+				- Phlegm, Blood, Yellow Bile, Black Bile
+			- It was replaced by the Germ theory in the 1850s
 	- Modern Evidence Based Medicine
 	- In the US:
 		- Used to contrast modern medicine with Osteopathic Medicine (originated from osteopathy)
@@ -15,7 +17,14 @@
 		- Used to contrast with Ayurveda
 			- Three Doshas of Ayurveda
 				- Vaata, Pitta, Kapha
+				- The three doshas derive their values from the 5 elements
+			- Characteristic
+				- Prana, Tejas, Ojas
 			- Roga (Disease)
+			- Dhatus (Seven Principles of the Body + Ojas (8th Dhatu))
+				- Lymph, Blood, Muscles, Fat, Bone, Bone Marrow, Semen
+			- Ayurveda has been called quackery by Herriet Hall, likening it to Horoscope
+			- Even Ayurvedic scholars have expressed reservations about the tridosha theory, and argued that it should be viewed as a useful framework rather than a definitive, universally acceptable concept.
 - Osteopathy - Physical manipulation of body's muscle tissue and bones
 	- What I got for my cervical spine: Transcutaneous Electrical Nerve Stimulation (TENS) / Electropathy
 - Energy Medicine
