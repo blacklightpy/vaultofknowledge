@@ -32,13 +32,18 @@
 - Bits Per Weight: 4.63
 - Size: 606.53 MB
 - Quantization: Q4_0
-- Layers: 
+- Layers: 22
 - Tokens / Second @ Context Width:
-	- 2048 Tokens
+		- Context Width Per Sequence: 2048
+		- Maximum Sequences: 4
+		- Total Context Width: 8192
 		- Prompt Tokens: 41
 		- Prompt Tokens/Second: 2.62
 		- Output Tokens: 75
 		- Output Tokens/Second: 2.24
+
+
+
 
 ## DeepSeek-R1-Distill-Llama-8B
 
@@ -52,7 +57,9 @@
 - Quantization: Q4_K_M
 - Layers: 
 - Tokens / Second @ Context Width:
-	- 2048 Tokens
+		- Context Width Per Sequence: 2048
+		- Maximum Sequences: 4
+		- Total Context Width: 8192
 		- Prompt Tokens: 
 		- Prompt Tokens/Second: 
 		- Output Tokens: 
