@@ -163,13 +163,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature.md",
+                "file": "Local AI Requirements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature"
+              "title": "Local AI Requirements"
             }
           },
           {
@@ -363,13 +363,14 @@
   },
   "active": "5699db74f7d0c32b",
   "lastOpenFiles": [
-    "Visual Descriptor.md",
-    "Feature.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
     "01. Personal/Daily Notes/Entry of 29th Jan, 2025.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
-    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "Local AI Requirements.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
+    "Feature Engineering.md",
+    "Feature.md",
+    "Visual Descriptor.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Algorithms/Algorithms Used by Google Search.md",
+    "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Algorithms.md",
     "01. Personal/Daily Notes/Entry of 25th Jan, 2025.md",
     "01. Personal/Daily Notes/Entry of 26th Jan, 2025.md",
     "Moment of Inertia.md",
@@ -388,7 +389,6 @@
     "06. Collected Knowledge/Branding of Operating Systems.md",
     "06. Collected Knowledge/Passwordless Login.md",
     "06. Collected Knowledge/De-Latinization of Science.md",
-    "01. Personal/Daily Notes/2024-11-07.md",
     "05. Organized Knowldge - New Format",
     "_images/16 by 9 Aspect Ratio.png",
     "01. Personal/Daily Notes",

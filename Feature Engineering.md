@@ -1,0 +1,1 @@
+It is the process of transforming raw data into [[feature|features]] (useful representations) to boost a model.
