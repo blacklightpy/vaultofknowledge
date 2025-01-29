@@ -4,3 +4,14 @@
 		- Chakras
 - Chakras in Western Theosophy
 - Homeopathy - bad alternative medicine, but with a placebo effect
+- Allopathy - Homeopathic description of Heroic Medicine, the precursor of Modern Evidence-Based Medicine
+	- Heroic Medicine
+	- Modern Evidence Based Medicine
+	- In the US:
+		- Used to contrast modern medicine with Osteopathic Medicine (originated from osteopathy)
+	- In India:
+		- Used to contrast with Ayurveda
+- Osteopathy - Physical manipulation of body's muscle tissue and bones
+- Energy Medicine
+	- Reiki - based on qi/chi (life force) / hand based
+	- Qigong - based on qi/chi (life force) / martial arts based
