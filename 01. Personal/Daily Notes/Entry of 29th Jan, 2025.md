@@ -1,0 +1,6 @@
+- Raaja Yoga
+- Types of Yoga
+	- Kundalini Yoga
+		- Chakras
+- Chakras in Western Theosophy
+- Homeopathy - bad alternative medicine, but with a placebo effect
