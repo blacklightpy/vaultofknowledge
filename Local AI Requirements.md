@@ -60,6 +60,22 @@ Use re-rankers with RAG.
 - Msty
 
 ### Nuances
+- Types of Models
+	- LLM
+		- Can generate text
+	- VLM
+		- Can process images
+	- Multimodal
+		- Can process multiple forms of data
+	- Stable Diffusion
+		- For generative drawing
+	- Reasoning Models
+		- Can generate step-by-step reasoning
+- Types of Modifications
+	- Fine Tuned
+		- DeepSeek-R1-Distilled models are actually fine-tuned with DeepSeek-R1
+	- Distilled
+		- Distilled models require the same base architecture
 - RAG (For input data analysis)
 	- Reranker (For getting results organized in the right order)
 
