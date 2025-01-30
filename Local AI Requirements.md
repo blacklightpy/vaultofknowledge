@@ -18,7 +18,7 @@ QUANTIZATION_BPWS = {
 
 - Get parameter count
 - Memory Required = 
-- Tokens / Second = RAM Bandwidth / Required Memory * 0.9
+- Tokens / Second = RAM Bandwidth / Required Memory \* 0.9
 - Run Type
 	- Works Well
 
@@ -26,6 +26,12 @@ Required Memory, Offload Ratio (to RAM), Tokens/Second, Context (maximum tokens 
 
 RAG is used alongside LLM to retrieve data from images, databases, web, etc.
 Use re-rankers with RAG.
+
+### Model Optimization Techniques
+- Mixture of Experts
+	- Splits the Network into multiple layers, which function as subject-specific experts
+	- This allows reducing the VRAM load size, by not having to load everything at once
+	- Before deep learning, it was used to combine subject-specific models
 
 ### Techniques to Increase CPU Evaluation Speed
 - Use BLAS (OpenBLAS) and MKL [How?]
@@ -96,10 +102,6 @@ Use re-rankers with RAG.
 		- 8-bit: Close to FP16
 		- FP16: Standard Release
 		- FP32: Full-Fledged
-
-### AI Optimization Techniques
-- Mixture of Experts
-	- Splits the Network into multiple layers, which function as 
 
 ---
 In this section I got my answers from ChatGPT, but I read them through and typed all this myself.
