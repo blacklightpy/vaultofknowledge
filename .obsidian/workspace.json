@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -361,10 +361,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c9b8d275b08a6073",
+  "active": "5699db74f7d0c32b",
   "lastOpenFiles": [
-    "Local AI Requirements.md",
     "01. Personal/Daily Notes/Entry of 29th Jan, 2025.md",
+    "Local AI Requirements.md",
     "04. Organized Knowledge - Old Format/Science and Engineering/Mathematics/Computer Science/Development/AI Development/AI Basics.md",
     "Feature Engineering.md",
     "Feature.md",

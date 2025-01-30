@@ -81,6 +81,26 @@ Use re-rankers with RAG.
 - RAG (For input data analysis)
 	- Reranker (For getting results organized in the right order)
 
+### Parameter Counts
+- Parameter Counts (Knowledge)
+	- 1.5B: Limited Knowledge
+	- 7B: College Level Knowledge
+	- 15B: College Level Knowlege
+- Quantization
+	- Type
+		- K-Means (lower size)
+		- IQ
+	- BPW
+		- 2-bit: Very Inaccurate
+		- 4-bit: Good Balance
+		- 8-bit: Close to FP16
+		- FP16: Standard Release
+		- FP32: Full-Fledged
+
+### AI Optimization Techniques
+- Mixture of Experts
+	- Splits the Network into multiple layers, which function as 
+
 ---
 In this section I got my answers from ChatGPT, but I read them through and typed all this myself.
 ### Requirements
