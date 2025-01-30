@@ -51,4 +51,8 @@ To him:
 
 India is a wasteland because the concept of rebirth caused you to not build mechanisms for toilet cleaning.
 
-Europeans invaded you because all your low 
+Europeans invaded you because all your low caste people would keep treat others as inferior too.
+
+You are not any different from ISIS who said "The Kafir's Blood is Halal for you, so Shed it"
+
+You are not human lover. You are simply a Jew hater. You advocate for killing who you think is evil, simply because they do not follow your notions of ethics. You cannot be trusted to defend our nation, because the nation I identify as a part of is not your theocracy, but a state where every human who does not mess with the lives of others
