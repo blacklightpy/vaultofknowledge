@@ -3,8 +3,12 @@ I figured out that in order to get started with Pomodoros, I had to include my e
 
 But anyways, as I'm about to get back to my Pomodoro routine, I realized that if I add my current mental backlog to it, I'm also tempted to add more and more ideas to it. Then that would still cause my Pomodoro task list to be endlessly expanding. So, I realized that alongside adding ideas in, I have to prioritize my ideas. But further, I also have to strike the right balance between doing my prioritized ideas and the other ideas.
 
-So, I have to:
-1\.
+So, I have to learn to:
+
+1\. **Prioritize Tasks**
+2\. **Balance between Prioritized and Unprioritized Tasks**
+
+What I know is that I can do both.
 
 Tags: #routine
 ## Topics
