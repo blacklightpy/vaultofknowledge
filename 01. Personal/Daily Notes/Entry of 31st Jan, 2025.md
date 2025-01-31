@@ -1,4 +1,4 @@
-- Saw Ajay Vadakayil's blog: https://captajitvadakayil.in/2021/04/14/vadakayils-truth-revealing-sanatana-dharma-series-poll-no-159-b/#comments
+- Saw Ajit Vadakayil's blog: https://captajitvadakayil.in/2021/04/14/vadakayils-truth-revealing-sanatana-dharma-series-poll-no-159-b/#comments
 
 > [!Danger] DANGER
 > Crime is less in Hinduism . America knows that only the Indian Hindu is crime free.. If at all there has been a crime by a Hindu in USA , it is to establish dharma or knee jerk reaction due to extreme provocation..
@@ -91,3 +91,14 @@ You are not human lover. You are simply a Jew hater. You advocate for killing wh
 > 
 > In Goa school children girls are drug couriers.  They are trained when to cry RAPE . .
 
+From Blogspot Blog:
+
+> How to FUCK A WOMAN WELL
+
+> THIS PLANET KNEW ONLY "STATIC" RISK ASSESSMENT .
+> 
+> IT WAS A MAN NAMED VADAKAYIL WHO INTRODUCED "DYNAMIC " RISK ASSESSMENT.
+
+> DYNAMIC risk assessment was always done in my mann mandir - before ant critical task. People
+would ask me why I am doing something totally opposite . If he could understand the flammability
+composition diagram I MAY tell him--otherwise it was NOT worth it.
