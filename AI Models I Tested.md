@@ -87,7 +87,7 @@
 	- TinyLlama seems to have about 20 tokens per word. Space character has 24/25 tokens.
 - Model Specific Observations:
 	- So dumb when you ask scientific questions.
-## DeepSeek-R1-Distill-Llama-8B
+## Llama-8B Fine-Tuned with DeepSeek-R1
 
 - Source: Ollama
 - Type: Transformer

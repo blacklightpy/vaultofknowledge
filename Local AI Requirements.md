@@ -41,9 +41,10 @@ Use re-rankers with RAG.
 ### Backends and Formats
 - Tensorflow
 - GPT4All
-- llama.cpp
+- llama.cpp (best for CPU)
 - Ollama (wrapper for llama.cpp)
-- kobold.cpp
+- kobold.cpp (best for CPU)
+- vLLM (best for GPU)
 
 | Backend   | Model Format |
 | --------- | ------------ |
@@ -53,7 +54,7 @@ Use re-rankers with RAG.
 ### Frontends
 - Open WebUI (formerly ollama-webui)
 - LM Studio
-- kobold.cpp
+- kobold.cpp UI
 - SillyTavern
 - biniou
 - Oobagooba Text Generation WebUI
