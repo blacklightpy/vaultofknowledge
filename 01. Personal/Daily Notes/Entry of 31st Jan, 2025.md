@@ -1,3 +1,6 @@
+I was trying to clear up a doubt on the nature of Mahat Tattva, and I found this blog (many notes on it were taken by me on another text editor.)
+
+
 - Saw Ajit Vadakayil's blog: https://captajitvadakayil.in/2021/04/14/vadakayils-truth-revealing-sanatana-dharma-series-poll-no-159-b/#comments
 
 > [!Danger] DANGER
