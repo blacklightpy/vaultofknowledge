@@ -61,6 +61,8 @@ You are not any different from ISIS who said "The Kafir's Blood is Halal for you
 You are not human lover. You are simply a Jew hater. You advocate for killing who you think is evil, simply because they do not follow your notions of ethics. You cannot be trusted to defend our nation, because the nation I identify as a part of is not your theocracy, but a state where every human who does not mess with the lives of others
 
 
+
+
 **Muhammad is a Hindu Nair priest and Shiva Temple of Kaaba**
 > Islamic suicide bombers don’t get to zuck 72 virgins / Houris in heaven / Jannat . . Only the soul goes to heaven / seventh astral layer , not the human cadaver. . Muslims have been fooled by Jews to believe that prophet Muhammad went to heaven in person on a night flight – Miraj . . The truth is he was sleeping that night in Ali’s sister Fahkitah’s ( the only woman he ever loved ) house.. 72 Houris is lifted from 72 nadis of Hinduism. . Islam mirrored Hinduism. . Muhammad was a Kerala Hindu Nair whose uncle was the Namboodiri priest at the Hindu Shiva ( Kaaba iswara ) temple at Mecca Oasis .. Sahasrara chakra Beej mantra is ALL AH to which the most major nadi Sushumna connects .. Allah the Islamic god is lifted from Hindu god brahman the field, which cannot be picked up by the 5 human senses. . Number 786 ( Bismillah ) on every Koran cover is Hindu king mantra OM symbol mirrored and read from right to left. — Capt Ajit Vadakayil
 
