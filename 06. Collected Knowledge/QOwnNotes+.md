@@ -413,3 +413,14 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 
 - [[Dance vs Flow]]
 - A person has as much control over their decisions as a child who plays with a toy steering wheel in the front seat, trying to match how their dad who sits in the driver's seat turns the real steering wheel.
+
+- People who worship words
+	- The Problem
+		- I've seen people, especially Indians, who think of other people who say tough words they can't understand as superior
+		- But the thing is, anyone who says random nonsense or something with a poor sentence structure is also unintelligible to anyone.
+		- This is especially
+		- People could also make up words (fill)
+		- The problem is that people are attracted (to mystery)
+		- (because they don't know how sentences work)
+	- The Principle
+		- Word 
