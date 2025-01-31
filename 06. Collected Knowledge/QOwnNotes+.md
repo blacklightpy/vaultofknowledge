@@ -418,7 +418,7 @@ This book does not prevent assholes. However, it attempts to optimize for maximu
 	- The Problem
 		- I've seen people, especially Indians, who think of other people who say tough words they can't understand as superior
 		- But the thing is, anyone who says random nonsense or something with a poor sentence structure is also unintelligible to anyone.
-		- This is especially
+		- This is especially the case when the language used is a foreign language which many people are not familiar with - and especially in the case of India, people would hold those who can speak English to a high status.
 		- People could also make up words (fill)
 		- The problem is that people are attracted (to mystery)
 		- (because they don't know how sentences work)
