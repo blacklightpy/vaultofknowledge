@@ -58,6 +58,36 @@ You are not any different from ISIS who said "The Kafir's Blood is Halal for you
 You are not human lover. You are simply a Jew hater. You advocate for killing who you think is evil, simply because they do not follow your notions of ethics. You cannot be trusted to defend our nation, because the nation I identify as a part of is not your theocracy, but a state where every human who does not mess with the lives of others
 
 
+**Muhammad is a Hindu Nair priest and Shiva Temple of Kaaba**
 > Islamic suicide bombers don’t get to zuck 72 virgins / Houris in heaven / Jannat . . Only the soul goes to heaven / seventh astral layer , not the human cadaver. . Muslims have been fooled by Jews to believe that prophet Muhammad went to heaven in person on a night flight – Miraj . . The truth is he was sleeping that night in Ali’s sister Fahkitah’s ( the only woman he ever loved ) house.. 72 Houris is lifted from 72 nadis of Hinduism. . Islam mirrored Hinduism. . Muhammad was a Kerala Hindu Nair whose uncle was the Namboodiri priest at the Hindu Shiva ( Kaaba iswara ) temple at Mecca Oasis .. Sahasrara chakra Beej mantra is ALL AH to which the most major nadi Sushumna connects .. Allah the Islamic god is lifted from Hindu god brahman the field, which cannot be picked up by the 5 human senses. . Number 786 ( Bismillah ) on every Koran cover is Hindu king mantra OM symbol mirrored and read from right to left. — Capt Ajit Vadakayil
 
+
+**About Communism and Anti-Theism**
+> Marx wrote that religion would disappear naturally through the richness of ideas that would emerge from a rationalized order of communistic social life.   He believed that belief in the existence of God was immoral and anti-human.    
+> 
+> Friedrich Engels considered religion as a false consciousness, and incompatible with communism.   
+> 
+> Engels kept harping on the need to cultivate atheism all over the world.  He called for scientific education on a massive scale in order to overcome the fears and illusions of people who required a religious explanation for the world around them. 
+> 
+> He believed that science would provide an explanation for things that people had formerly required religious concepts to fulfill, and by providing this explanation, people would no longer feel a need to have religion for this purpose. 
+> 
+> Marxist communism required a conscious rejection of religion or else it could not be established. The moment a Commie goes to a temple, he is NO longer a commie .
+> 
+> Combating religious beliefs was considered an absolute duty by JEW Lenin. The campaigns involved extensive amounts of antireligious propaganda, antireligious legislation, atheistic education, antireligious discrimination, harassment, arrests and also campaigns of violent terror. 
+> 
+> Soviet leaders, propagandists and other militant atheists debated for years over the question of what approach was most pragmatic in order to eliminate religion. The state recruited millions of people, spent billions of roubles, and made incredible efforts towards this end, although it ultimately failed to achieve their goal. 
+> 
+> In 1959, a course titled Fundamentals of Scientific Atheism was “introduced into the curriculum of all higher educational institutions” and in 1964, it was made compulsory for all pupils after a “paucity of student response”. 
+> 
+> I used to have HAJAAAAAR fun discussing the syllabus with my Russian officers.  
+> 
+> There are pro-LTTE Tamil leaders who also helped Naxals in getting arms and bomb training from LTTE.
+> 
+> The Tamil Nadu Liberation Army (TNLA), had close ties with the LTTE and indulged in several minor bomb blasts and looting of weapons till the mid-1990s, when some of its leaders were killed.
+> 
+> [http://ajitvadakayil.blogspot.in/2012/08/aidmk-dmk-misplaced-support-for-ltte.html](http://ajitvadakayil.blogspot.in/2012/08/aidmk-dmk-misplaced-support-for-ltte.html)
+> 
+> Children are now being used by Naxals .  It is NO wonder that NHRC and Collegium judges were very clear that the most cruel Muslim 17 year old boy rapist of Nirbhaya should be protected.
+> 
+> In Goa school children girls are drug couriers.  They are trained when to cry RAPE . .
 
