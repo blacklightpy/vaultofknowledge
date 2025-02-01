@@ -54,6 +54,8 @@ Jews are only as religious as I am as a Hindu.
 Jews have been at India.
 
 Jews are described as a chosen people. The military has so many rules, that may seem absurd to many people. But they never enforce their law on to others. The entire goal of Judaism is to live well and set an example so that others may find the greatness of their God through their actions.
+
+They follow the Shulchan Aruch and the Tur.
 # Classification
 
 - Isaiah 2, Verse 8 
