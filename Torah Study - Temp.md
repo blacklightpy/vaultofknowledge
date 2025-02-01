@@ -1,11 +1,3 @@
-
-- Classes
-	- Commandments
-	- Warnings
-	- Kill Israelis
-	- Kill foreigners
-	- Other stuff like idols are useless
-
 - Classes
 	1. **Commandments to not follow idolatry** 
 		1. Exodus 20, Verses 3, 4, 5 (Don't make figures, don't worship them)
@@ -48,7 +40,7 @@ Deuteronomy 17, Verses 2-5 (Kill Israelites who worship other gods or celestial 
 Deuteronomy 18, Verse 20 (Kill false prophets)
 Deuteronomy 27, Verse 15 (Cursed be the one who makes idols and hides them)
 Deuteronomy 29, Verses 16-18 (Make sure not to have roots of Egyptian polytheism in you)
-Deuteronomy 32, Verses 16-21 
+Deuteronomy 32, Verses 16-21 (When Israelites sacrificed to false gods, God would make them suffer)
 
 - Exodus
 	- 20:3-5 (commandment)
@@ -59,6 +51,7 @@ Deuteronomy 32, Verses 16-21
 	- 34:13-14 (destroy their idols and poles, god is jealous)
 	- 34:17 (don't make molten gods)
 - Leviticus
+	- 18:21 (don't sacrifice children to Molek)
 	- 19:4 (don't make molten gods)
 	- 20:2 (Israelites or Foreign residents in Israel who sacrifice their children to Molek is to be killed)
 	- 26:1 (don't make idols)
@@ -84,10 +77,57 @@ Deuteronomy 32, Verses 16-21
 
 ---
 
+Leviticus 18, Verse 21 (Do not sacrifice your children to Molek)
+Leviticus 20, Verse 23 (Do not do as the previous nations did, because that's why I expelled them)
+Leviticus 26, Verses 27-39 (If you don't obey this and turn to idolatry, you will be made to suffer)
+
+Numbers 15, Verses 30-31 ()
+
+Deuteronomy 4, Verses 15-19
+Deuteronomy 4, Verses 23-24
+Deuteronomy 4, Verses 25-28
+Deuteronomy 5, Verses 8-9
+Deuteronomy 5, Verse 29
+Deuteronomy 6, Verses 14-15
+Deuteronomy 7, Verse 4
+Deuteronomy 7, Verse 26
+Deuteronomy 8, Verse 19
+Deuteronomy 11, Verses 16-17
+Deuteronomy 12, Verses 30-31
+Deuteronomy 16, Verses 21-22
+Deuteronomy 28, Verses 14-15
+Deuteronomy 28, Verse 36
+Deuteronomy 29, Verses 16-18
+Deuteronomy 29, Verses 24-28
+Deuteronomy 31, Verses 16-18, 20
+
+	- 4:15-19 (corruption warning)
+	- 4:23-24 (warning)
+	- 4:25-28 (exile)
+	- 5:8-9 (repeat command)
+	- 5:29 (warning for your good)
+	- 6:14-15 (don't)
+	- 7:4 (will make god angry)
+	- 7:26 (don't bring home)
+	- 8:19 (if you forget)
+	- 11:16-17 (if you turn away, famine)
+	- 12:30-31 (avoid studying their practices)
+	- 16:21-22 (don't)
+	- 28:14-15 (if you turn away, exile)
+	- 28:36 (exile)
+	- 29:16-18 (make sure you don't have this poison)
+	- 29:24-28 (famine)
+	- 31:16-18, 20 (they are going to mess up and be destroyed)
+
+## Claims
+- Deuteronomy
+	- 32:12 (only God helped)
+	- 32:37-38 (idols cannot save or help)
+	- 32:39 (Yahweh is only God)
+
 ## Warnings
 
 - Leviticus
-	- 18:21 (don't sacrifice children to Molek)
 	- 20:23 (don't follow)
 	- 26:30 (if you turn)
 - Numbers
