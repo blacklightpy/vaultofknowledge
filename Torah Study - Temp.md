@@ -46,6 +46,14 @@ Then the rest of the books, the Book of Isaiah, the Book of Jeremiah, the Book o
 Basically: God told Israel not to worship idols, but they worship idols, and they face the wrath of God or get exiled, they repent and get returned, then they start to worship idols again, and they get exiled, and returned, and this cycle repeats.
 
 So on one hand, Jews are accused by people like you for hating idol worship, but on the other hand, they are accused by Muslims and Christians of being progressive and deviating from scriptures. They get accused of being communists and capitalists. They get accused of killing Jesus and they get accused of causing Christianity and Islam.
+
+When Muslims and Christians attack you, you end up blaming the Jews, even though they did not do anything.
+
+Jews are only as religious as I am as a Hindu.
+
+Jews have been at India.
+
+Jews are described as a chosen people. The military has so many rules, that may seem absurd to many people. But they never enforce their law on to others. The entire goal of Judaism is to live well and set an example so that others may find the greatness of their God through their actions.
 # Classification
 
 - Isaiah 2, Verse 8 
