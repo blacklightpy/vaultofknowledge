@@ -29,7 +29,7 @@ Numbers 25, Verses 1-5 (Kill Israelites who worship Baal)
 Numbers 33, Verse 52 (Drive out the Canaanites completely, Destroy their idols)
 
 Deuteronomy 4, Verse 23 (Take care not to make idols, or else you'll face the wrath of God)
-Deuteronomy 7, Verse 5 (Destroy their altars)
+Deuteronomy 7, Verses 1-5 (Drive out the Canaanites from the promised lands and destroy their idols)
 Deuteronomy 7, Verse 16 (Destroy the people without pity, and do not serve their gods)
 Deuteronomy 7, Verse 25-26 (Do not desire the silver or gold in their idols, destroy them)
 Deuteronomy 12, Verses 2-3 (Destroy the statues in the promised land)
@@ -42,153 +42,20 @@ Deuteronomy 27, Verse 15 (Cursed be the one who makes idols and hides them)
 Deuteronomy 29, Verses 16-18 (Make sure not to have roots of Egyptian polytheism in you)
 Deuteronomy 32, Verses 16-21 (When Israelites sacrificed to false gods, God would make them suffer)
 
-- Exodus
-	- 20:3-5 (commandment)
-	- 20:23 (repeat)
-	- 22:20 (kill who sacrifices to other gods)
-	- 23:24 (do not bow down)
-	- 32:27-28 (kill the ones who worshipped the calf)
-	- 34:13-14 (destroy their idols and poles, god is jealous)
-	- 34:17 (don't make molten gods)
-- Leviticus
-	- 18:21 (don't sacrifice children to Molek)
-	- 19:4 (don't make molten gods)
-	- 20:2 (Israelites or Foreign residents in Israel who sacrifice their children to Molek is to be killed)
-	- 26:1 (don't make idols)
-- Numbers
-	- 25:1-5 (Kill Israelites who worship Baal)
-	- 33:52 (destroy in Canaan)
-- Deuteronomy
-	- 4:23-24 (don't worship idols, remember)
-	- 7:5 (destroy idols and poles)
-	- 7:16 (destroy without pity)
-	- 7:25-26 (burn their gods in fire, don't take silver and gold)
-	- 9:16-21 (moses punishes)
-	- 12:2-3 (destroy idols of the nations you attack)
-	- 13:1-5 (kill false prophets who mislead)
-	- 13:6-10 (kill friends of family who teach false gods)
-	- 13:12-15 (if someone does idol worship in a city, investigate and destroy them)
-	- 17:2-5 (kill man or woman who worships other gods or sun or stars)
-	- 18:20 (kill false prophets who mislead)
-	- 27:15 (it is detestable thing)
-	- 29:16-18 (warning)
-	- 32:16-21 (god provoked by israel)
-
-
----
-
 Leviticus 18, Verse 21 (Do not sacrifice your children to Molek)
 Leviticus 20, Verse 23 (Do not do as the previous nations did, because that's why I expelled them)
 Leviticus 26, Verses 27-39 (If you don't obey this and turn to idolatry, you will be made to suffer)
 
-Numbers 15, Verses 30-31 ()
-
-Deuteronomy 4, Verses 15-19
-Deuteronomy 4, Verses 23-24
-Deuteronomy 4, Verses 25-28
-Deuteronomy 5, Verses 8-9
-Deuteronomy 5, Verse 29
-Deuteronomy 6, Verses 14-15
-Deuteronomy 7, Verse 4
-Deuteronomy 7, Verse 26
-Deuteronomy 8, Verse 19
-Deuteronomy 11, Verses 16-17
-Deuteronomy 12, Verses 30-31
-Deuteronomy 16, Verses 21-22
-Deuteronomy 28, Verses 14-15
-Deuteronomy 28, Verse 36
-Deuteronomy 29, Verses 16-18
-Deuteronomy 29, Verses 24-28
-Deuteronomy 31, Verses 16-18, 20
-
-	- 4:15-19 (corruption warning)
-	- 4:23-24 (warning)
-	- 4:25-28 (exile)
-	- 5:8-9 (repeat command)
-	- 5:29 (warning for your good)
-	- 6:14-15 (don't)
-	- 7:4 (will make god angry)
-	- 7:26 (don't bring home)
-	- 8:19 (if you forget)
-	- 11:16-17 (if you turn away, famine)
-	- 12:30-31 (avoid studying their practices)
-	- 16:21-22 (don't)
-	- 28:14-15 (if you turn away, exile)
-	- 28:36 (exile)
-	- 29:16-18 (make sure you don't have this poison)
-	- 29:24-28 (famine)
-	- 31:16-18, 20 (they are going to mess up and be destroyed)
-
-## Claims
-- Deuteronomy
-	- 32:12 (only God helped)
-	- 32:37-38 (idols cannot save or help)
-	- 32:39 (Yahweh is only God)
-
-## Warnings
-
-- Leviticus
-	- 20:23 (don't follow)
-	- 26:30 (if you turn)
-- Numbers
-	- 15:30-31 (defiants will be cut off)
-- Deuteronomy
-	- 4:15-19 (corruption warning)
-	- 4:23-24 (warning)
-	- 4:25-28 (exile)
-	- 5:8-9 (repeat command)
-	- 5:29 (warning for your good)
-	- 6:14-15 (don't)
-	- 7:4 (will make god angry)
-	- 7:26 (don't bring home)
-	- 8:19 (if you forget)
-	- 11:16-17 (if you turn away, famine)
-	- 12:30-31 (avoid studying their practices)
-	- 16:21-22 (don't)
-	- 28:14-15 (if you turn away, exile)
-	- 28:36 (exile)
-	- 29:16-18 (make sure you don't have this poison)
-	- 29:24-28 (famine)
-	- 31:16-18, 20 (they are going to mess up and be destroyed)
-
-## Claims
-- Deuteronomy
-	- 32:12 (only God helped)
-	- 32:37-38 (idols cannot save or help)
-	- 32:39 (Yahweh is only God)
-
-# Classification
-
-
+Deuteronomy 4, Verses 15-19 (Ensure that you do not make an idol in the form of any being)
+Deuteronomy 4, Verses 23-24 (Be careful and remember the covenant, or else God will destroy you)
+Deuteronomy 4, Verses 25-28 (If you worship idols, God will scatter you into exile)
+Deuteronomy 5, Verses 8-9 (Don't worship idols, or else I'll punish your children for generations until they repent)
+Deuteronomy 11, Verses 16-17 (Be careful and remember the covenant, or else God will destroy you)
+Deuteronomy 12, Verses 30-31 [Don't do what they do, because they burn their sons and daughters in the fire as sacrifices to their gods]
+Deuteronomy 16, Verses 21-22 (Do not erect sacred stones)
+Deuteronomy 28, Verses 14-68 (If you worship other gods, you will suffer)
+Deuteronomy 29, Verses 16-18 (Make sure no one remembers the poisonous ideas from Egypt)
 # Torah
-
-### **1. Direct Commands to Kill Idolators**
-- **Exodus**: 22:20, 32:27-28  
-- **Leviticus**: 20:2, 24:15-16  
-- **Numbers**: 25:1-5  
-- **Deuteronomy**: 13:6-10, 17:2-5  
-
-### **2. Commands to Destroy Idolatrous Practices**
-- **Exodus**: 23:24, 34:13, 34:17  
-- **Leviticus**: 26:1, 26:30  
-- **Deuteronomy**: 7:5, 7:25-26, 12:2-3, 16:21-22  
-
-### **3. Curses and Warnings Against Idolatry**
-- **Deuteronomy**: 4:23-24, 5:8-9, 5:29, 6:14-15, 7:4, 7:16, 8:19, 11:16-17, 12:30-31, 13:12-15, 27:15, 28:14-15, 28:36, 29:16-18, 29:24-28, 30:17-18, 31:16-18, 31:20, 32:16-21
-
-### **4. Punishment for False Prophets Promoting Idolatry**
-- **Deuteronomy**: 13:1-5, 18:20  
-
-### **5. General Prohibitions Against Idolatry**
-- **Exodus**: 20:3-5, 20:23, 23:13  
-- **Leviticus**: 18:21, 19:4, 19:31, 20:6, 20:23  
-- **Deuteronomy**: 4:15-19
-
-### **6. Specific Instances of Punishment**
-- **Numbers**: 15:30-31, 33:52  
-
-### **7. Broader Themes and Indirect References**
-- **Deuteronomy**: 4:25-28
 
 # Nevi'im and Ketuvim
 
