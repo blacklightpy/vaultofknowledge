@@ -110,38 +110,23 @@ This grouped list organizes all 57 verses into clear categories. Let me know if 
 - **Zephaniah**: 1:4-5  
 - **Zechariah**: 10:2, 13:2  
 - **Psalms**: 96:5, 97:7, 106:36-38, 115:4-8, 135:15-18  
-- **Daniel**: 3:18  
-- **2 Kings**: 17:12, 17:16, 17:41, 21:3-7, 21:11, 23:4-15, 23:24  
-- **2 Chronicles**: 24:18, 28:2-3, 28:23-25, 33:3-7, 33:19, 34:3-7  
-
+- **Daniel**: 3:18 
 
 ### **2. Warnings and Consequences of Idolatry**
-- **Isaiah**: 1:29, 10:10-11, 17:8, 19:1, 21:9, 27:9, 37:19, 44:9-20, 46:1-2, 48:5, 57:13  
-- **Jeremiah**: 1:16, 2:5, 2:20, 2:25, 2:28, 3:6, 3:9, 3:13, 5:7, 5:19, 7:9, 7:18, 7:30-31, 8:19, 10:1-16, 11:12-13, 13:10, 14:22, 16:11, 16:18, 17:2, 18:15, 19:4-5, 22:9, 25:6, 32:29, 32:34-35, 44:3-5, 44:8, 44:15-19, 44:25  
-- **Ezekiel**: 5:11, 6:4-6, 6:9, 6:13, 7:20, 8:3-18, 14:3-7, 16:17-21, 16:36, 18:6, 18:12, 18:15, 20:7-8, 20:16, 20:24, 20:31, 20:39, 22:3-4, 23:7, 23:30, 23:37, 23:49, 30:13, 33:25, 36:18, 36:25, 37:23, 44:10, 44:12  
-- **Hosea**: 2:8, 2:13, 2:17, 3:1, 4:12-13, 4:17, 8:4-6, 9:10, 10:5, 11:2, 13:2, 14:3, 14:8  
-- **Micah**: 1:7, 5:13  
-- **Zephaniah**: 1:4-5  
-- **Zechariah**: 10:2, 13:2  
-- **Psalms**: 96:5, 97:7, 106:36-38, 115:4-8, 135:15-18  
-- **2 Kings**: 17:12, 17:16, 17:41, 21:3-7, 21:11, 23:4-15, 23:24  
-- **2 Chronicles**: 24:18, 28:2-3, 28:23-25, 33:3-7, 33:19, 34:3-7  
+- **Isaiah**: 1:29, 10:10-11, 17:8, 19:1, 21:9, 27:9, 37:19
+- **Jeremiah**: 1:16, 2:5, 2:20, 2:25, 3:6, 3:13, 7:9, 16:11, 25:6, 32:29
 
 ### **3. Calls to Repentance from Idolatry**
-- **Isaiah**: 30:22, 31:7, 44:22, 55:7  
-- **Jeremiah**: 3:12-14, 3:22, 4:1, 7:3-7, 18:11, 25:5-6, 35:15  
-- **Ezekiel**: 14:6, 18:30-32, 20:7-8, 20:40-44, 33:11
-- **Hosea**: 14:2-3  
+- **Isaiah**: 44:22, 55:7  
+- **Jeremiah**: 3:12-14, 3:22, 4:1, 7:3-7, 18:11, 35:15  
+- **Ezekiel**: 18:30-32, 20:40-44, 33:11
 - **Joel**: 2:12-13  
-- **Zechariah**: 1:3-4, 10:2  
+- **Zechariah**: 1:3-4
 
 ### **4. Prophecies of Idolatry’s Destruction**
-- **Isaiah**: 2:18, 2:20, 17:8, 19:1, 21:9, 27:9, 37:19, 46:1-2  
 - **Jeremiah**: 10:11, 10:15, 51:17-18, 51:47, 51:52  
 - **Ezekiel**: 6:4-6, 6:13, 30:13  
-- **Micah**: 5:13  
-- **Zephaniah**: 2:11  
-- **Zechariah**: 13:2  
+- **Zephaniah**: 2:11
 
 ### **5. Historical Accounts of Idolatry**
 - **1 Kings**: 11:5-8, 12:28-33, 14:9, 14:15, 14:22-24, 15:12-13, 16:31-33, 18:18-40, 21:26, 22:53  
@@ -150,11 +135,11 @@ This grouped list organizes all 57 verses into clear categories. Let me know if 
 
 ### **Total Verses**: **Over 200**
 
-
 Chapters to Open:
 - Isaiah: 1, 2, 10, 17, 19, 21, 27, 30, 31, 37, 40, 41, 42, 44, 45, 46, 48, 55, 57
 - Jeremiah: 1, 2, 3, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 18, 19, 22, 25, 32, 35, 44, 51
 - Ezekiel: 5, 6, 7, 8, 14, 16, 18, 20, 22, 23, 30, 33, 36, 37, 44
+- Joel: 2
 - Hosea: 2, 3, 4, 8, 9, 10, 11, 13, 14, 
 - Micah: 1, 5
 - Nahum: 1  
@@ -165,3 +150,116 @@ Chapters to Open:
 - 1 Kings: 11, 12, 14, 15, 16, 18, 21, 22
 - 2 Kings: 1, 3, 10, 17, 21, 23
 - 2 Chronicles: 24, 28, 33, 34
+
+Chapters to Open:
+- Isaiah
+	- Chapter 1
+	- Chapter 2
+	- Chapter 10
+	- Chapter 17
+	- Chapter 19
+	- Chapter 21
+	- Chapter 27
+	- Chapter 30
+	- Chapter 31
+	- Chapter 37
+	- Chapter 40
+	- Chapter 41
+	- Chapter 42
+	- Chapter 44
+	- Chapter 45
+	- Chapter 46
+	- Chapter 48
+	- Chapter 55
+	- Chapter 57
+- Jeremiah
+	- Chapter 1
+	- Chapter 2
+	- Chapter 3
+	- Chapter 4
+	- Chapter 5
+	- Chapter 7
+	- Chapter 8
+	- Chapter 10
+	- Chapter 11
+	- Chapter 13
+	- Chapter 14
+	- Chapter 16
+	- Chapter 17
+	- Chapter 18
+	- Chapter 19
+	- Chapter 22
+	- Chapter 25
+	- Chapter 32
+	- Chapter 35
+	- Chapter 44
+	- Chapter 51
+- Ezekiel
+	- Chapter 5
+	- Chapter 6
+	- Chapter 7
+	- Chapter 8
+	- Chapter 14
+	- Chapter 16
+	- Chapter 18
+	- Chapter 20
+	- Chapter 22
+	- Chapter 23
+	- Chapter 30
+	- Chapter 33
+	- Chapter 36
+	- Chapter 37
+	- Chapter 44
+- Joel
+	- Chapter 2
+- Hosea
+	- Chapter 2
+	- Chapter 3
+	- Chapter 4
+	- Chapter 8
+	- Chapter 9
+	- Chapter 10
+	- Chapter 11
+	- Chapter 13
+	- Chapter 14
+- Micah
+	- Chapter 1
+	- Chapter 5
+- Nahum
+	- Chapter 1  
+- Zephaniah
+	- Chapter 1
+	- Chapter 2
+- Zechariah
+	- Chapter 1
+	- Chapter 10
+	- Chapter 13
+- Psalms
+	- Chapter 96
+	- Chapter 97
+	- Chapter 106
+	- Chapter 115
+	- Chapter 135 
+- Daniel
+	- Chapter 3
+- 1 Kings
+	- Chapter 11
+	- Chapter 12
+	- Chapter 14
+	- Chapter 15
+	- Chapter 16
+	- Chapter 18
+	- Chapter 21
+	- Chapter 22
+- 2 Kings
+	- Chapter 1
+	- Chapter 3
+	- Chapter 10
+	- Chapter 17
+	- Chapter 21
+	- Chapter 23
+- 2 Chronicles
+	- Chapter 24
+	- Chapter 28
+	- Chapter 33
+	- Chapter 34
